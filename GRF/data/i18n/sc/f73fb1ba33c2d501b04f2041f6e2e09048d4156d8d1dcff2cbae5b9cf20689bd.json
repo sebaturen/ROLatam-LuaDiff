@@ -1,57 +1,57 @@
 {
     "QBZ1DA": {
         "en-US": "Is that place at the end of a long forest trail?",
-        "pt-BR": "Será que é o fim da longa trilha na floresta?",
+        "pt-BR": "A trilha acaba aqui?",
         "es-ES": "¿Es este el final del largo camino por el bosque?"
     },
     "QRZ1DA": {
         "en-US": "It seems no one has come here for quite a while. There are no trimmed trees.",
-        "pt-BR": "Parece que já faz um bom tempo que ninguém vem por aqui. Não há nenhuma árvore aparada.",
+        "pt-BR": "Parece um local abandonado.",
         "es-ES": "Parece que hace bastante tiempo que no viene nadie. No hay árboles podados."
     },
     "QhZ1DA": {
         "en-US": "Well, that makes it look all the cozier. I'd better go in.",
-        "pt-BR": "Bem, isso faz com que a floresta pareça ainda mais aconchegante. Vamos entrar.",
+        "pt-BR": "Bem, é melhor explorar mais a fundo.",
         "es-ES": "¡Vaya! Por eso parece un bosque más acogedor. Entremos de una vez."
     },
     "QxZ1DA": {
         "en-US": "Huh? Is it just me, or has the flow of the breeze from the forest really changed?",
-        "pt-BR": "Hã? Será minha imaginação? Parece que a corrente de vento que sopra pela floresta mudou...",
+        "pt-BR": "Sinto que os Ventos mudaram...",
         "es-ES": "¿Eh? ¿Son mis imaginaciones? Me parece que la corriente del viento que sopla desde el bosque ha cambiado."
     },
     "RBZ1DA": {
         "en-US": "Err?! What's that falcon? I'd better get close.",
-        "pt-BR": "Eita?! O que é aquele falcão? Vou dar uma olhada de perto.",
+        "pt-BR": "Hã? Um falcão?",
         "es-ES": "¡¿Eh?! ¿Qué es ese halcón? ¿Me acerco?"
     },
     "RRZ1DA": {
         "en-US": "That falcon, and even the breeze I just felt. Are they beaconing me to enter that forest?",
-        "pt-BR": "Será que tanto aquele falcão quanto a brisa que senti agora estão me guiando para dentro da floresta?",
+        "pt-BR": "Será que o falcão está me guiando pela floresta?",
         "es-ES": "¿Será que tanto ese halcón como el viento que acabo de sentir me están guiando hacia el interior del bosque?"
     },
     "RhZ1DA": {
         "en-US": "The deeper I go inside the forest, the warmer the breeze feels.",
-        "pt-BR": "Quanto mais eu entro na floresta, mais eu sinto uma brisa aconchegante me envolvendo.",
+        "pt-BR": "Eu sinto uma brisa aconchegante cada vez mais perto.",
         "es-ES": "Cuanto más me adentro en el bosque, más me envuelve una brisa cálida."
     },
     "RxZ1DA": {
         "en-US": "The falcon I saw earlier is nowhere to be found.",
-        "pt-BR": "Não vejo mais o falcão que vi há pouco.",
+        "pt-BR": "O falcão foi embora?",
         "es-ES": "Ya ni siquiera veo el halcón que vi antes."
     },
     "SBZ1DA": {
         "en-US": "Who knew there was such a big clearing in the forest?",
-        "pt-BR": "Quem diria que havia um espaço tão amplo aqui dentro da floresta.",
+        "pt-BR": "Não sabia que essa área existia.",
         "es-ES": "No sabía que hubiera un espacio tan amplio dentro del bosque."
     },
     "SRZ1DA": {
         "en-US": "Since the breeze guided me here, I should look around.",
-        "pt-BR": "Já que fui guiado pelo vento até aqui, será que devo dar mais uma olhada?",
+        "pt-BR": "Já que os Ventos me trouxeram aqui, vou explorar o local.",
         "es-ES": "Ya que el viento me ha guiado hasta aquí, ¿por qué no exploro este lugar?"
     },
     "ShZ1DA": {
         "en-US": "Looking closer, this falcon resembles the one I used to carry around as a Hunter.",
-        "pt-BR": "Olhando bem, esse falcão parece com o que eu costumava carregar quando era un caçador.",
+        "pt-BR": "Parece um falcão comum dos caçadores.",
         "es-ES": "Si lo miro bien, ¿se parece al halcón que solía llevar cuando era cazador?"
     },
     "SxZ1DA": {
@@ -71,27 +71,27 @@
     },
     "ThZ1DA": {
         "en-US": "Oh, no! The entrance is completely blocked now.",
-        "pt-BR": "Não acredito. O caminho por onde entrei está completamente bloqueado, não está?",
+        "pt-BR": "Ah não! O caminho de volta foi bloqueado!",
         "es-ES": "No puede ser. ¿El camino por el que entramos está completamente bloqueado?"
     },
     "TxZ1DA": {
         "en-US": "Was there a landslide or something? How can I get out of here? Am I...",
-        "pt-BR": "Será que rolou um deslizamento de terra? Não dá pra sair... será que eu...",
+        "pt-BR": "Um desmoronamento bloqueou a saída...",
         "es-ES": "¿Acaso hubo un deslizamiento de tierra? No puedo salir... ¿Será que yo..."
     },
     "UBZ1DA": {
         "en-US": "Stranded?",
-        "pt-BR": "estou perdido?",
+        "pt-BR": "Será que vou ficar aqui pra sempre...?",
         "es-ES": "¿estoy perdido?"
     },
     "URZ1DA": {
         "en-US": "- You've been stranded in -\n- the Luluka Forest. Would you like to -\n- check how to proceed from here? -",
-        "pt-BR": "- Você está perdido na floresta profunda de Luluka.\n- Gostaria de ver as instruções\n- sobre como prosseguir?",
+        "pt-BR": "- Você se perdeu nas profundezas da floresta de Luluka.\n- Gostaria de ver as instruções\n- sobre como prosseguir?",
         "es-ES": "- En el bosque profundo de Luluka\n- Te has perdido. ¿Quieres ver\n- las instrucciones para seguir adelante?"
     },
     "UhZ1DA": {
         "en-US": "^FF0000※ Once you close this window, you will no longer be able to view the explanation about game progression.^000000",
-        "pt-BR": "^FF0000※ Ao fechar esta desta janela, não será mais possível ver as instruções sobre como prosseguir.^000000",
+        "pt-BR": "^FF0000× Ao fechar esta desta janela, não será mais possível ver as instruções sobre como prosseguir.^000000",
         "es-ES": "^FF0000※ Una vez que salgas de esta ventana, ya no podrás ver las instrucciones sobre cómo avanzar en el juego.^000000"
     },
     "UxZ1DA": {
@@ -111,22 +111,22 @@
     },
     "VhZ1DA": {
         "en-US": "A Day in the Deep Luluka Forest",
-        "pt-BR": "Um dia na Floresta Profunda de Luluka",
+        "pt-BR": "Um dia na Floresta de Luluka",
         "es-ES": "Un día en el bosque profundo de Luluka"
     },
     "VxZ1DA": {
         "en-US": "Food and Water Solutions",
-        "pt-BR": "Resolver a questão de comida e água",
+        "pt-BR": "Estoque de comida e água",
         "es-ES": "Resolver el problema de comida y agua"
     },
     "WBZ1DA": {
         "en-US": "Failing the Deep Luluka Forest",
-        "pt-BR": "Falha na Floresta Profunda de Luluka",
+        "pt-BR": "Falha na Floresta de Luluka",
         "es-ES": "Fracaso en el Bosque Profundo de Luluka"
     },
     "WRZ1DA": {
         "en-US": "- In the Deep Luluka Forest, each day -\n- lasts for 10 minutes. After 10 minutes, -\n- you'll restart near the cabin bed -\n- for a new day. If you have -\n- no more tasks for that day, -\n- you can skip to the next day -\n- directly from the cabin bed.",
-        "pt-BR": "- Um dia na Floresta Profunda de Luluka\n- dura 10 minutos. Passados os 10 minutos,\n- você começa o dia seguinte\n- ao redor da cama da cabana, e se não houver\n- mais nada para fazer naquele dia,\n- você pode pular para o dia seguinte\n- na cama da cabana.",
+        "pt-BR": "- Um dia na Profundezas da Floresta de Luluka\n- dura 10 minutos. Passados os 10 minutos,\n- você começa o dia seguinte\n- ao redor da cama da cabana, e se não houver\n- mais nada para fazer naquele dia,\n- você pode pular para o dia seguinte\n- na cama da cabana.",
         "es-ES": "- Un día en el Bosque Profundo de Luluka\n- dura 10 minutos. Cuando pasen los 10 minutos,\n- empezarás el día siguiente\n- cerca de la cama de la cabaña, y si ya no\n- tienes nada más que hacer ese día,\n- puedes pasar directamente al día siguiente\n- desde la cama de la cabaña."
     },
     "WhZ1DA": {
@@ -141,17 +141,17 @@
     },
     "XBZ1DA": {
         "en-US": "- If you fail to meet certain conditions\n- while in the Deep Luluka Forest, Fail Points\n- will accumulate. When they reach\n- a certain amount, you'll be\n- removed from the forest. In that case,\n- you must challenge the Deep Luluka Forest\n- again.",
-        "pt-BR": "- Se não conseguir cumprir algumas condições\n- na Floresta Profunda de Luluka,\n- pontos de falha vão se acumular,\n- e quando atingirem um certo limite,\n- você serás expulso da Floresta Profunda de Luluka.\n- Nesse caso, será necessário \n- entrar na Floresta Profunda de Luluka\n- para tentar o desafio novamente.",
+        "pt-BR": "- Se não conseguir cumprir algumas condições\n- nas Profundezas da Floresta de Luluka,\n- pontos de falha vão se acumular,\n- e quando atingirem um certo limite,\n- você será expulso das Profundezas da Floresta de Luluka.\n- Nesse caso, será necessário \n- entrar nas Profundezas da Floresta de Luluka\n- para tentar o desafio novamente.",
         "es-ES": "- Si no cumples con algunas condiciones\n- en el Bosque Profundo de Luluka,\n- se acumularán puntos de fracaso,\n- y si se acumulan más de un cierto\n- número, te expulsarán\n- del Bosque Profundo de Luluka. En ese caso,\n- tendrás que volver a intentar\n- el Bosque Profundo de Luluka."
     },
     "XRZ1DA": {
         "en-US": "Alright! I'd better hang in there. I can do this!",
-        "pt-BR": "Tá legal! Vou dar o meu melhor para sobreviver.",
+        "pt-BR": "Certo! Vou dar o meu melhor para sobreviver.",
         "es-ES": "¡Bien! Ánimo, intentemos sobrevivir."
     },
     "XhZ1DA": {
         "en-US": "The exit to the outside has been blocked by a landslide.",
-        "pt-BR": "O caminho para a saída está bloqueado por um deslizamento de terra.",
+        "pt-BR": "O caminho para a saída está bloqueado por um deslizamento de rochas.",
         "es-ES": "El camino de salida está bloqueado por un deslizamiento de tierra."
     },
     "XxZ1DA": {
@@ -161,17 +161,17 @@
     },
     "YBZ1DA": {
         "en-US": "Cabin Owner",
-        "pt-BR": "Dono da cabana",
+        "pt-BR": "Dono da Cabana",
         "es-ES": "El dueño de la cabaña"
     },
     "YRZ1DA": {
         "en-US": "[{0}]\nGood to see you again, sir.",
-        "pt-BR": "[{0}]\nPrazer em vê-lo novamente, senhor.",
+        "pt-BR": "[^3300FF{0}^000000]\nPrazer em vê-lo novamente, senhor.",
         "es-ES": "[{0}]\nHola, señor."
     },
     "YhZ1DA": {
         "en-US": "[Cabin Owner]\nHuh? Who are you? What are you doing in my house?",
-        "pt-BR": "[Dono da cabana]\nHã? Quem é você? O que está fazendo na minha casa?",
+        "pt-BR": "[Dono da Cabana]\nHã? Quem é você? O que está fazendo na minha casa?",
         "es-ES": "[El dueño de la cabaña]\n¿Eh? ¿Quién eres tú? ¿Quién eres para salir de mi casa?"
     },
     "YxZ1DA": {
@@ -181,27 +181,27 @@
     },
     "ZBZ1DA": {
         "en-US": "[Cabin Owner]\nWait a minute. I think I've seen you before...",
-        "pt-BR": "[Dono da cabana]\nNão... Espera aí, seu rosto me parece familiar...",
+        "pt-BR": "[Dono da Cabana]\nNão... Espera aí, seu rosto me parece familiar...",
         "es-ES": "[El dueño de la cabaña]\nNo, no... Espera un momento, ¿tu cara me resulta familiar?"
     },
     "ZRZ1DA": {
         "en-US": "[Cabin Owner]\nAh! You're the friend who lent me money last time in Comodo, right?",
-        "pt-BR": "[Dono da cabana]\nAh! É o amigo que me emprestou dinheiro em Komodo da última vez, não é?",
+        "pt-BR": "[Dono da Cabana]\nAh! É o amigo que me emprestou dinheiro em Comodo da última vez, não é?",
         "es-ES": "[El dueño de la cabaña]\n¡Ah! ¿Eres el amigo al que le presté dinero en Komodo la última vez?"
     },
     "ZhZ1DA": {
         "en-US": "[Cabin Owner]\nHmph! I said I'd pay you. I can't believe you came all the way here for pocket money like that.",
-        "pt-BR": "[Dono da cabana]\nEi... eu disse que pagaria quando chegasse a hora. Por que é que veio até aqui?",
+        "pt-BR": "[Dono da Cabana]\nEi... eu disse que pagaria quando chegasse a hora. Por que é que veio até aqui?",
         "es-ES": "[El dueño de la cabaña]\nOye, te dije que te lo devolvería cuando llegara el momento. ¿Para qué has venido hasta aquí?"
     },
     "ZxZ1DA": {
         "en-US": "[Cabin Owner]\nI managed to increase the money I'd borrowed tenfold. I wouldn't have had any money left to feed myself and drink, if it weren't for you.",
-        "pt-BR": "[Dono da cabana]\nO dinheiro que você me emprestou, eu já multipliquei por dez. Graças a você eu consegui não morrer de fome.",
+        "pt-BR": "[Dono da Cabana]\nO dinheiro que você me emprestou, eu já multipliquei por dez. Graças a você eu consegui não morrer de fome.",
         "es-ES": "[El dueño de la cabaña]\nEl dinero que me prestaste lo multiplicé por diez en ese entonces, y lo estoy usando muy bien: para comer y para tomar unas bebidas ricas de adultos."
     },
     "aBZ1DA": {
         "en-US": "[Cabin Owner]\nDon't worry. I promise I'll pay you back soon. Anyway, how did you know where I was? Debt collectors nowadays can be pretty scary.",
-        "pt-BR": "[Dono da cabana]\nNão se preocupe, eu vou pagar, vou mesmo. Mas, sério, como você conseguiu me encontrar? Os cobradores de dívidas estão ficando bons hoje em dia, hein?",
+        "pt-BR": "[Dono da Cabana]\nNão se preocupe, eu vou pagar, vou mesmo. Mas, sério, como você conseguiu me encontrar? Os agiotas estão ficando bons hoje em dia, hein?",
         "es-ES": "[El dueño de la cabaña]\nNo te preocupes, te lo voy a devolver, te lo prometo. Pero, ¿cómo te metiste aquí? Los cobradores están que arden últimamente, ¿no?"
     },
     "aRZ1DA": {
@@ -211,57 +211,57 @@
     },
     "ahZ1DA": {
         "en-US": "[Cabin Owner]\nHuh? You're not here for your money? We met in Payon?",
-        "pt-BR": "[Dono da cabana]\nHã? Não é um cobrador de dívidas? Você disse que nos encontramos em Payon?",
+        "pt-BR": "[Dono da Cabana]\nHã? Não é um agiota? Você disse que nos encontramos em Payon?",
         "es-ES": "[El dueño de la cabaña]\n¿Eh? ¿No eres un cobrador? ¿Que nos conocimos en Payon?"
     },
     "axZ1DA": {
         "en-US": "[Cabin Owner]\nSorry, pal. I have no idea what you're talking about.",
-        "pt-BR": "[Dono da cabana]\nDesculpa, amigo, não me lembro de nada...",
+        "pt-BR": "[Dono da Cabana]\nDesculpa, amigo, não me lembro de nada...",
         "es-ES": "[El dueño de la cabaña]\nLo siento, amigo, ¿no me acuerdo para nada?"
     },
     "bBZ1DA": {
         "en-US": "[Cabin Owner]\nAh! So that's why I went to see my old companions when I woke up the next day? Man, I'm sorry. I completely black out every time I drink.",
-        "pt-BR": "[Dono da cabana]\nAh! Então foi por isso que, quando acordei da bebedeira, foi procurar os meus velhos amigos? Que vergonha, né? É que, quando bebo, não consigo lembrar de nada.",
+        "pt-BR": "[Dono da Cabana]\nAh! Então foi por isso que, quando acordei da bebedeira, fui procurar os meus velhos amigos? Que vergonha, né? É que, quando bebo, não consigo lembrar de nada.",
         "es-ES": "[El dueño de la cabaña]\n¡Ah! ¿Por eso, cuando te despertaste de la borrachera, fuiste a buscar a tus compañeros con los que te habías separado? Qué vergüenza, cada vez que bebo, no recuerdo nada."
     },
     "bRZ1DA": {
         "en-US": "[Cabin Owner]\nWhatever! Forget the details. I watched you before you came out of the cabin, and I've got to say, you're pretty impressive.",
-        "pt-BR": "[Dono da cabana]\nDeixa pra lá! Vamos esquecer esses detalhes. Eu te observei quando você saiu da cabana, e posso dizer que você é impressionante.",
+        "pt-BR": "[Dono da Cabana]\nDeixa pra lá! Vamos esquecer esses detalhes. Eu te observei quando você saiu da cabana, e posso dizer que você é impressionante.",
         "es-ES": "[El dueño de la cabaña]\n¡Da igual! Olvidemos las tonterías. Eché un vistazo rápido a la cabaña antes de que nuestro amigo saliera, ¿y qué tal está?"
     },
     "bhZ1DA": {
         "en-US": "[Cabin Owner]\nLooks like you're not your average archer, despite appearances.",
-        "pt-BR": "[Dono da cabana]\nAo contrário do que parece, você não é um arqueiro comum.",
+        "pt-BR": "[Dono da Cabana]\nAo contrário do que parece, você não é um arqueiro comum.",
         "es-ES": "[El dueño de la cabaña]\nA pesar de las apariencias, parece que no es un arquero cualquiera."
     },
     "bxZ1DA": {
         "en-US": "[Cabin Owner]\nThe wind that blows in this forest isn't normal. If you can't control it and gain its recognition, it rips you apart.",
-        "pt-BR": "[Dono da cabana]\nO vento desta floresta não é um vento qualquer. É um vento que, se você não souber controlar e não for reconhecido por ele, vai te rasgar em pedaços.",
+        "pt-BR": "[Dono da Cabana]\nO vento desta floresta não é um vento qualquer. É um vento que, se você não souber controlar e não for reconhecido por ele, vai te rasgar em pedaços.",
         "es-ES": "[El dueño de la cabaña]\nEl viento de este bosque no es un viento cualquiera. Si no lo controlas y no te lo ganas, es un viento que te hace pedazos."
     },
     "cBZ1DA": {
         "en-US": "[Cabin Owner]\nSurviving in such a place for ten days means you're no ordinary archer.",
-        "pt-BR": "[Dono da cabana]\nO fato de ter sobrevivido por nada menos que 10 dias num lugar assim significa que você não é um arqueiro comum.",
+        "pt-BR": "[Dono da Cabana]\nO fato de ter sobrevivido por nada menos que 10 dias num lugar assim significa que você não é um arqueiro comum.",
         "es-ES": "[El dueño de la cabaña]\n¿Que hayas sobrevivido nada menos que 10 días en un lugar así? Eso significa que no eres un arquero cualquiera."
     },
     "cRZ1DA": {
         "en-US": "[Cabin Owner]\nWell, we can talk some more when we get out of here. I dug a way through the blockage. You must be frustrated, having been locked up in this boring place against your will.",
-        "pt-BR": "[Dono da cabana]\nBom, vamos continuar a conversa lá fora. Eu já abri um caminho. Ficar preso neste lugar chato, a contragosto, deve ter sido bem frustrante, né?",
+        "pt-BR": "[Dono da Cabana]\nBom, vamos continuar a conversa lá fora. Eu já abri um caminho. Ficar preso neste lugar chato, a contragosto, deve ter sido bem frustrante, né?",
         "es-ES": "[El dueño de la cabaña]\nBueno, el resto de la historia lo contamos afuera. Ya te he abierto un camino. No fue por tu voluntad, sino por la de otros, que te quedaste encerrado en este lugar tan aburrido. ¿Te habrás sentido muy agobiado?"
     },
     "chZ1DA": {
         "en-US": "[Cabin Owner]\nRight?",
-        "pt-BR": "[Dono da cabana]\nNão é mesmo?",
+        "pt-BR": "[Dono da Cabana]\nNão é mesmo? Vamos, vamos sair daqui. A casa eu arrumo depois, com calma.",
         "es-ES": "[El dueño de la cabaña]\n¿No te parece?"
     },
     "cxZ1DA": {
         "en-US": "[Cabin Owner]\nCome on, let's get out of here. I'll clean the house later.",
-        "pt-BR": "[Dono da cabana]\nVamos, vamos sair daqui. A casa eu arrumo depois, com calma.",
+        "pt-BR": "[Dono da Cabana]\nSiga por essa trilha, subindo a pilha de rochas.",
         "es-ES": "[El dueño de la cabaña]\nVamos, vamos, salgamos. Ya yo me encargo de ordenar la casa más tarde, sin prisa."
     },
     "dBZ1DA": {
         "en-US": "[Cabin Owner]\nWhat are you doing? Aren't you bored being in here? Come on, let's get out of here.",
-        "pt-BR": "[Dono da cabana]\nO que você tá fazendo? Deve estar de saco cheio, então vamos logo.",
+        "pt-BR": "[Dono da Cabana]\nO que você tá fazendo? Deve estar de saco cheio, então vamos logo.",
         "es-ES": "[El dueño de la cabaña]\n¿Qué haces? Ya te habrás hartado, así que vamos, salgamos."
     },
     "dRZ1DA": {
@@ -281,22 +281,22 @@
     },
     "eBZ1DA": {
         "en-US": "<You'll be removed from the Deep Luluka Forest shortly.>",
-        "pt-BR": "<Você será expulso da Floresta Profunda de Luluka em momentos.>",
+        "pt-BR": "<Você será expulso das Profundezas da Floresta de Luluka em instantes.>",
         "es-ES": "<Un rato después, te echan del Bosque Profundo de Luluka.>"
     },
     "eRZ1DA": {
         "en-US": "<Deep Luluka Forest Day {0}>",
-        "pt-BR": "<Floresta Profunda de Luluka dia {0}>",
+        "pt-BR": "<Profundezas da Floresta de Luluka - dia {0}>",
         "es-ES": "<Bosque profundo de Luluka día {0}}"
     },
     "ehZ1DA": {
         "en-US": "<The sun rose over the Deep Luluka Forest.>",
-        "pt-BR": "<O sol nasceu sobre a Floresta Profunda de Luluka.>",
+        "pt-BR": "<O sol nasceu sobre as Profundezas da Floresta de Luluka.>",
         "es-ES": "<El sol ha salido sobre el Bosque Profundo de Luluka.>"
     },
     "exZ1DA": {
         "en-US": "<Night is falling in the Deep Luluka Forest.>",
-        "pt-BR": "<A escuridão cai sobre a Floresta Profunda de Luluka.>",
+        "pt-BR": "<A escuridão cai sobre as Profundezas da Floresta de Luluka.>",
         "es-ES": "<La oscuridad llega al bosque profundo de Luluka.>"
     },
     "fBZ1DA": {
@@ -331,7 +331,7 @@
     },
     "ghZ1DA": {
         "en-US": "Huh?! What was that? I heard a loud noise.",
-        "pt-BR": "Hã?! O que foi isso agora? Ouvi um barulho enorme...",
+        "pt-BR": "Hã?! O que foi isso? Ouvi um barulho estrondoso...",
         "es-ES": "¿Eh?! ¿Qué fue eso? ¿No se escuchó un ruido enorme?"
     },
     "gxZ1DA": {
@@ -346,22 +346,22 @@
     },
     "hRZ1DA": {
         "en-US": "I don't think I have anything else to do today. Should I go to bed?",
-        "pt-BR": "Parece que não tenho mais nada pra fazer hoje, devo dormir?",
+        "pt-BR": "Não tenho mais nada pra fazer hoje, devo dormir?",
         "es-ES": "Parece que hoy no tengo nada más que hacer, ¿me voy a dormir?"
     },
     "hhZ1DA": {
         "en-US": "Go to bed.",
-        "pt-BR": "Vou dormir.",
+        "pt-BR": "Dormir.",
         "es-ES": "Me voy a dormir."
     },
     "hxZ1DA": {
         "en-US": "Doesn't sleep.",
-        "pt-BR": "Não vou dormir.",
+        "pt-BR": "Não dormir.",
         "es-ES": "No duermo."
     },
     "iBZ1DA": {
         "en-US": "I finished my day and went to bed.",
-        "pt-BR": "Terminei o que tinha que fazer por hoje e fui dormir.",
+        "pt-BR": "Terminei o que tinha que fazer por hoje e vou dormir.",
         "es-ES": "Terminé mis tareas y me acosté."
     },
     "iRZ1DA": {
@@ -376,7 +376,7 @@
     },
     "ixZ1DA": {
         "en-US": "Food Container",
-        "pt-BR": "Armazenamento de comida",
+        "pt-BR": "Armazém de Comida",
         "es-ES": "El armario de provisiones"
     },
     "jBZ1DA": {
@@ -396,27 +396,27 @@
     },
     "jxZ1DA": {
         "en-US": "Water Bottle",
-        "pt-BR": "Copo de água",
+        "pt-BR": "Filtro de Água",
         "es-ES": "Cantimplora"
     },
     "kBZ1DA": {
         "en-US": "This water bottle is equipped with a water purifier.",
-        "pt-BR": "É um galão com um filtro que purifica a água.",
+        "pt-BR": "É um filtro que purifica a água.",
         "es-ES": "Es un bidón de agua con un filtro que purifica el agua."
     },
     "kRZ1DA": {
         "en-US": "Seeing the empty container, it seems we're running low on drinking water.",
-        "pt-BR": "Pelo que vejo, o galão está vazio, então deve estar faltando água potável.",
+        "pt-BR": "Está vazio, então deve estar faltando água potável.",
         "es-ES": "Como el bidón está vacío, parece que nos falta agua para beber."
     },
     "khZ1DA": {
         "en-US": "The bottle is filled with clean water.",
-        "pt-BR": "O galão está cheio de água limpa.",
+        "pt-BR": "O filtro está cheio de água limpa.",
         "es-ES": "El bidón está lleno de agua clara."
     },
     "kxZ1DA": {
         "en-US": "The bottle is about {0}% full.",
-        "pt-BR": "Parece que tem cerca de {0}% de água.",
+        "pt-BR": "O filtro tem {0}% de água.",
         "es-ES": "Parece que hay un {0}% de agua."
     },
     "lBZ1DA": {
@@ -431,17 +431,17 @@
     },
     "lhZ1DA": {
         "en-US": "I poured the water from the bucket into the bottle.",
-        "pt-BR": "Despejei a água do balde para o galão.",
+        "pt-BR": "Despejei a água do balde para o filtro.",
         "es-ES": "Eché el agua que traje en el balde."
     },
     "lxZ1DA": {
         "en-US": "The water bottle is about {0}% full.",
-        "pt-BR": "Parece que a água está {0}% cheia.",
+        "pt-BR": "O filtro de água está {0}% cheio.",
         "es-ES": "Parece que el agua ha subido un {0}%."
     },
     "mBZ1DA": {
         "en-US": "The water bottle is full.",
-        "pt-BR": "O galão está cheio.",
+        "pt-BR": "O filtro está cheio.",
         "es-ES": "Se llenó de agua."
     },
     "mRZ1DA": {
@@ -471,7 +471,7 @@
     },
     "nhZ1DA": {
         "en-US": "I need firewood to light it up.",
-        "pt-BR": "Pra acender a lareira, preciso de lenha, né?",
+        "pt-BR": "Pra acender a lareira, preciso de lenha!",
         "es-ES": "Para encender el fuego de la chimenea, necesitas leña, ¿no?"
     },
     "nxZ1DA": {
@@ -481,37 +481,37 @@
     },
     "oBZ1DA": {
         "en-US": "The fireplace is burning brightly.",
-        "pt-BR": "A lareira está queimando com força.",
+        "pt-BR": "O fogo está queimando com força.",
         "es-ES": "La chimenea está ardiendo con fuerza."
     },
     "oRZ1DA": {
         "en-US": "Warm Spot",
-        "pt-BR": "Canto quentinho",
+        "pt-BR": "Cesta",
         "es-ES": "El rincón cálido"
     },
     "ohZ1DA": {
         "en-US": "Should I place the captured animal on this warm spot?",
-        "pt-BR": "Será que coloco o animal que trouxe no canto quentinho?",
+        "pt-BR": "Será que coloco o animal que trouxe nessa cesta?",
         "es-ES": "¿Pongo al animal que traje en el rincón cálido?"
     },
     "oxZ1DA": {
         "en-US": "Place.",
-        "pt-BR": "Coloco.",
+        "pt-BR": "Colocar.",
         "es-ES": "Lo pongo."
     },
     "pBZ1DA": {
         "en-US": "Do not place.",
-        "pt-BR": "Não coloco.",
+        "pt-BR": "Não colocar.",
         "es-ES": "No lo pongo."
     },
     "pRZ1DA": {
         "en-US": "I placed the animal I brought from the trap on the warm spot.",
-        "pt-BR": "Coloquei o animal que trouxe da armadilha no canto quentinho.",
+        "pt-BR": "Coloquei na cesta o animal que trouxe.",
         "es-ES": "Puse al animal que traje de la trampa en el rincón cálido."
     },
     "phZ1DA": {
         "en-US": "The fire should warm it soon.",
-        "pt-BR": "Já acendi a lareira, então vai esquentar rapidinho, né?",
+        "pt-BR": "Já acendi a lareira, então vai esquentar rapidinho!",
         "es-ES": "Ya que encendí el fuego, se calentará enseguida, ¿no?"
     },
     "pxZ1DA": {
@@ -526,7 +526,7 @@
     },
     "qRZ1DA": {
         "en-US": "The small animal is resting. Will it get better soon?",
-        "pt-BR": "O bichinho está descansando. Quando é que ele vai ficar bem?",
+        "pt-BR": "O bichinho está descansando. Será que ele vai ficar bem?",
         "es-ES": "El animalito está descansando. ¿Cuándo se recuperará?"
     },
     "qhZ1DA": {
@@ -541,12 +541,12 @@
     },
     "rBZ1DA": {
         "en-US": "This spot is near the fireplace.",
-        "pt-BR": "É ao lado da lareira.",
+        "pt-BR": "Uma cesta perto da lareira.",
         "es-ES": "Está al lado de la chimenea."
     },
     "rRZ1DA": {
         "en-US": "This spot is usually called the warmest spot, right?",
-        "pt-BR": "Posso chamar esse lugar de “canto quentinho”, né?",
+        "pt-BR": "Dá para chamar esse lugar de “cantinho quentinho”!",
         "es-ES": "¿A este tipo de lugares no se les suele llamar «la parte más cálida de la casa»?"
     },
     "rhZ1DA": {
@@ -556,7 +556,7 @@
     },
     "rxZ1DA": {
         "en-US": "How adorable! You remind me of my falcon that I had as a Hunter.",
-        "pt-BR": "É estranho, mas ele se parece muito com o falcão que eu tinha quando era um caçador.",
+        "pt-BR": "Parece aqueles falcões que ganhamos na Guilda dos Caçadores.",
         "es-ES": "Me hace pensar en Falcon, con quien me separé en Hunter."
     },
     "sBZ1DA": {
@@ -566,12 +566,12 @@
     },
     "sRZ1DA": {
         "en-US": "Please grow up healthy.",
-        "pt-BR": "Cresça saudável.",
+        "pt-BR": "Espero que cresça saudável.",
         "es-ES": "Ojalá crezcas sano y fuerte."
     },
     "shZ1DA": {
         "en-US": "Huh? The falcon's condition?",
-        "pt-BR": "O quê? Como está o falcão?",
+        "pt-BR": "Como está o estado do falcão?",
         "es-ES": "¿Eh? ¿Cómo está Falcon?"
     },
     "sxZ1DA": {
@@ -591,7 +591,7 @@
     },
     "thZ1DA": {
         "en-US": "Do not feed.",
-        "pt-BR": "Não vou dar.",
+        "pt-BR": "Não dar.",
         "es-ES": "No le doy de comer."
     },
     "txZ1DA": {
@@ -601,12 +601,12 @@
     },
     "uBZ1DA": {
         "en-US": "Hmm... I don't have enough food to feed myself, let alone a falcon. Sorry, I can't feed you.",
-        "pt-BR": "Hum... Não sobrou comida suficiente para alimentar o falcão. É uma pena, mas não tenho como alimentá-lo.",
+        "pt-BR": "Hm... Não sobrou comida suficiente para alimentar o falcão. É uma pena, mas não tenho como alimentá-lo.",
         "es-ES": "Mmm... No me queda comida suficiente para darle al halcón. Lástima, pero no puedo dársela."
     },
     "uRZ1DA": {
         "en-US": "You're eating well. That's a relief.",
-        "pt-BR": "Ele come bem. Que bom.",
+        "pt-BR": "Ele come bem. Que bom!",
         "es-ES": "Qué bien come. Menos mal."
     },
     "uhZ1DA": {
@@ -621,7 +621,7 @@
     },
     "vBZ1DA": {
         "en-US": "Judging by its appearance, is this the falcon Sniper used to carry around?",
-        "pt-BR": "Pela aparência, será que é o falcão que eu costumava levar comigo na época em que era Atirador de Elite?",
+        "pt-BR": "Oh, se parece com aquelas Aves que ganhamos na Guilda dos Atiradores de Elite.",
         "es-ES": "Por su aspecto, ¿es el halcón que llevaba conmigo cuando era francotirador?"
     },
     "vRZ1DA": {
@@ -656,7 +656,7 @@
     },
     "wxZ1DA": {
         "en-US": "Huh? The warg's condition?",
-        "pt-BR": "Hã? O estado do Worg?",
+        "pt-BR": "Como está o estado do Worg?",
         "es-ES": "¿Eh? ¿Qué le pasa a Warg?"
     },
     "xBZ1DA": {
@@ -676,17 +676,17 @@
     },
     "xxZ1DA": {
         "en-US": "Hm... I don't have enough food to feed myself, let alone a warg. Sorry, I can't feed you.",
-        "pt-BR": "Hum... Não sobrou comida suficiente pra alimentar o Worg. É uma pena, mas não consigo alimentá-lo.",
+        "pt-BR": "Hm... Não sobrou comida suficiente pra alimentar o Worg. É uma pena, mas não consigo alimentá-lo.",
         "es-ES": "Mmm... No me queda comida suficiente para alimentar al Warg. Lástima, pero no puedo dársela."
     },
     "yBZ1DA": {
         "en-US": "Does a warg's fur color change as it grows?",
-        "pt-BR": "Será que o pelo do Worg também muda de cor quando ele cresce?",
+        "pt-BR": "Será que a pelagem do Worg também muda de cor quando ele cresce?",
         "es-ES": "¿El color del pelaje del Warg también cambia cuando es cachorro?"
     },
     "yRZ1DA": {
         "en-US": "At least this one has changed its hair color as it grew.",
-        "pt-BR": "Parece q este aqui mudou um pouco a cor mesmo.",
+        "pt-BR": "Parece que este aqui mudou um pouco a cor mesmo.",
         "es-ES": "Vaya, el color del pelaje cambia cuando crecen un poco."
     },
     "yhZ1DA": {

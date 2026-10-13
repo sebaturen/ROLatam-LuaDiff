@@ -3,13 +3,12 @@ SignBoardList_string = {
 		CONTENTS = "Nothing Typed"
 	},
 	[2] = {
-		CONTENTS = "  Equip. Ur"
+		CONTENTS = "  Iniciante"
 	},
-	[3] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[4] = {
-		CONTENTS = "  Equip. 100+ "
+	[3] = {CONTENTS = "  Armas"},
+	[4] = {CONTENTS = "  Avançado"},
+	[5] = {
+		CONTENTS = "  Aluguel Sombrio"
 	},
 	[6] = {
 		CONTENTS = "  Grupo do Éden"
@@ -199,31 +198,36 @@ SignBoardList_string = {
 		CONTENTS = "  Modo Pesadelo"
 	},
 	[833] = {
-		CONTENTS = "  Equip. Ur"
+		CONTENTS = "  Iniciante"
 	},
-	[834] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[835] = {
-		CONTENTS = "  Equip. 100+ "
-	},
+	[834] = {CONTENTS = "  Armas"},
+	[835] = {CONTENTS = "  Avançado"},
 	[836] = {
-		CONTENTS = "  Equip. Ur"
+		CONTENTS = "  Aluguel Sombrio"
 	},
 	[837] = {
-		CONTENTS = "  Equip. Boya"
+		CONTENTS = "  Iniciante"
 	},
-	[838] = {
-		CONTENTS = "  Equip. 100+ "
-	},
-	[839] = {
-		CONTENTS = "  Equip. Ur"
-	},
+	[838] = {CONTENTS = "  Armas"},
+	[839] = {CONTENTS = "  Avançado"},
 	[840] = {
-		CONTENTS = "  Equip. Boya"
+		CONTENTS = "  Aluguel Sombrio"
 	},
 	[841] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Iniciante"
+	},
+	[842] = {CONTENTS = "  Armas"},
+	[843] = {CONTENTS = "  Avançado"},
+	[844] = {
+		CONTENTS = "  Aluguel Sombrio"
+	},
+	[845] = {
+		CONTENTS = "  Iniciante"
+	},
+	[846] = {CONTENTS = "  Armas"},
+	[847] = {CONTENTS = "  Avançado"},
+	[848] = {
+		CONTENTS = "  Aluguel Sombrio"
 	},
 	[885] = {
 		CONTENTS = "  Espada Escarlate"
@@ -250,7 +254,7 @@ SignBoardList_string = {
 		CONTENTS = "  Nível 180 ou mais"
 	},
 	[893] = {
-		CONTENTS = "  Nível 180 ou mais"
+		CONTENTS = "  Nível 190 ou mais"
 	},
 	[894] = {CONTENTS = "  Saída"},
 	[895] = {CONTENTS = "  Saída"},
@@ -364,5 +368,17 @@ SignBoardList_string = {
 	[974] = {CONTENTS = "  Comércio"},
 	[975] = {
 		CONTENTS = "  Encantador"
+	},
+	[1001] = {
+		CONTENTS = "  Ecosfera: Geleira"
+	},
+	[1002] = {
+		CONTENTS = "  Ecosfera: Vulcão"
+	},
+	[1003] = {
+		CONTENTS = "  Ecosfera: Pradaria"
+	},
+	[1004] = {
+		CONTENTS = "  Ecosfera: Cemitério"
 	}
 }

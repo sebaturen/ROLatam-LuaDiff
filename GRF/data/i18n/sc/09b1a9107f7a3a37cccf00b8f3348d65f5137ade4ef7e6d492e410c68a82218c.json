@@ -42,7 +42,7 @@
     "qC5j": {
         "en-US": "[Expedition Member]\nSince you're here, you should go there, too.\nI mean, like...for sightseeing!!\nHead north from Bifrost and you'll see it.",
         "pt-BR": "[Membro da Expedição]\nJá que você está aqui, deveria ir lá também.\nQuero dizer, tipo... para passear!!\nSiga para o norte de Bifrost e você a verá.",
-        "es-ES": "[Miembro de la expedición]\nYa que estás aquí, también deberías ir.\nQuiero decir, ¡para hacer turismo!\nDirígete al norte desde el Bifrost y la verás."
+        "es-ES": "[Miembro de la expedición]\nYa que estás aquí, también deberías ir.\nQuiero decir, ¡para hacer turismo!\nDirígete al norte desde el Bifröst y la verás."
     },
     "qS5j": {
         "en-US": "[Expedition Member]\nHmm? I mean, you could fly there using the mysterious seeds that you collected in the maze.\nYou mean, I have to jump off the huge flower?",
@@ -122,7 +122,7 @@
     "uC5j": {
         "en-US": "[Fome]\nI heard the ways to Bifrost are blocked by a strange rift and soon, travelers who came here through the Hazy Forest started to appear.",
         "pt-BR": "[Fome]\nOuvi dizer que os caminhos para Bifrost estão bloqueados por uma estranha fenda e logo começaram a aparecer viajantes que vieram para cá através da Floresta Nebulosa.",
-        "es-ES": "[Fome]\nHe oído que los caminos que llevan al Bifrost están bloqueados por una extraña grieta, y pronto empezaron a aparecer viajeros que llegaron aquí a través del Bosque brumoso."
+        "es-ES": "[Fome]\nHe oído que los caminos que llevan al Bifröst están bloqueados por una extraña grieta, y pronto empezaron a aparecer viajeros que llegaron aquí a través del Bosque brumoso."
     },
     "uS5j": {
         "en-US": "[Fome]\nThey are humans who came from Midgard passing through Jotunheim!\nSeriously...I'm glad I came to Eclage.\nI didn't expect to meet a person from Midgard!",
@@ -147,12 +147,12 @@
     "vS5j": {
         "en-US": "[Fome]\nWhy does this place have so many travelers...?\nFirst of all, I think it's due to the fact that you're able to communicate freely here since Eclage is with Bifrost.",
         "pt-BR": "[Fome]\nPor que esse lugar tem tantos viajantes...?\nEm primeiro lugar, acho que isso se deve ao fato de você poder se comunicar livremente aqui, já que Eclage está com Bifrost.",
-        "es-ES": "[Fome]\n¿Por qué este lugar tiene tantos viajeros...?\nEn primer lugar, creo que se debe a que puedes comunicarte libremente aquí dado que Eclage tiene acceso al Bifrost."
+        "es-ES": "[Fome]\n¿Por qué este lugar tiene tantos viajeros...?\nEn primer lugar, creo que se debe a que puedes comunicarte libremente aquí dado que Eclage tiene acceso al Bifröst."
     },
     "vi5j": {
         "en-US": "[Fome]\nThanks to Bifrost's will, everyone is able to communicate with no problem here just like you and I right now.",
         "pt-BR": "[Fome]\nGraças à vontade de Bifrost, todos são capazes de se comunicar sem problemas aqui, assim como você e eu neste momento.",
-        "es-ES": "[Fome]\nGracias a la voluntad del Bifrost, aquí todos nos podemos comunicar sin problemas como lo hacemos ahora tú y yo."
+        "es-ES": "[Fome]\nGracias a la voluntad del Bifröst, aquí todos nos podemos comunicar sin problemas como lo hacemos ahora tú y yo."
     },
     "vy5j": {
         "en-US": "[Fome]\nSecond, it's because Eclage is the end and the gateway of Alpheim.\nIt's the only way to get to Jotunheim.",
@@ -162,7 +162,7 @@
     "wC5j": {
         "en-US": "[Fome]\nA great number of travelers who admire the unknown world come to Eclage.\nAlso, they want to see Bifrost, which connects Jotunheim and Alpheim, with their own eyes.",
         "pt-BR": "[Fome]\nUm grande número de viajantes que admira o mundo desconhecido vem para Eclage.\nAlém disso, eles querem ver a Bifrost, que liga Jotunheim e Alpheim, com seus próprios olhos.",
-        "es-ES": "[Fome]\nLlega a Eclage un gran número de viajeros que admiran el mundo desconocido.\nAdemás, quieren ver con sus propios ojos el Bifrost, que conecta Jotunheim y Alfheim."
+        "es-ES": "[Fome]\nLlega a Eclage un gran número de viajeros que admiran el mundo desconocido.\nAdemás, quieren ver con sus propios ojos el Bifröst, que conecta Jotunheim y Alfheim."
     },
     "wS5j": {
         "en-US": "[Fome]\nMoreover, the biggest reason why Eclage is so crowded recently is...!!!",
@@ -212,7 +212,7 @@
     "yi5j": {
         "en-US": "[Fome]\nThe main attraction of Eclage?\nIt's Bifrost Tower, of course!\nAlthough It's not inside Eclage, technically! Ahhahahahaha",
         "pt-BR": "[Fome]\nA principal atração de Eclage?\nÉ a Torre Bifrost, é claro!\nEmbora, tecnicamente, ela não esteja dentro de Eclage! Ahhahahahaha",
-        "es-ES": "[Fome]\n¿El principal atractivo de Eclage?\n¡Es la Torre Bifrost, por supuesto!\nAunque técnicamente no está dentro de Eclage. Ja, ja, ja."
+        "es-ES": "[Fome]\n¿El principal atractivo de Eclage?\n¡Es la Torre Bifröst, por supuesto!\nAunque técnicamente no está dentro de Eclage. Ja, ja, ja."
     },
     "yy5j": {
         "en-US": "[Fome]\nI've come here just recently, so I didn't have a chance to go outside Eclage.\nWhew, it's kind of scary.",
@@ -222,12 +222,12 @@
     "zC5j": {
         "en-US": "[Fome]\nBifrost Tower is...oh, right.\nLitrip has been there, right? Ask Litrip about it!",
         "pt-BR": "[Fome]\nA Torre Bifrost é... ah, certo.\nLitrip já esteve lá, certo? Pergunte a Litrip sobre isso!",
-        "es-ES": "[Fome]\nLa Torre Bifrost es... ah, claro.\nLitrip estuvo allí, ¿verdad? ¡Pregúntale a Litrip!"
+        "es-ES": "[Fome]\nLa Torre Bifröst es... ah, claro.\nLitrip estuvo allí, ¿verdad? ¡Pregúntale a Litrip!"
     },
     "zS5j": {
         "en-US": "A traveler named Litrip seems to know about Bifrost Tower.\nLet's go talk to him.",
         "pt-BR": "Um viajante chamado Litrip parece saber sobre a Torre Bifrost.\nVamos falar com ele.",
-        "es-ES": "Un viajero llamado Litrip parece conocer la Torre Bifrost.\nHablemos con él."
+        "es-ES": "Un viajero llamado Litrip parece conocer la Torre Bifröst.\nHablemos con él."
     },
     "zi5j": {
         "en-US": "[Eclage Guard]\nExcuse me for a moment.\nIs there anyone from Splendide here?",
@@ -297,7 +297,7 @@
     "2y5j": {
         "en-US": "[Fome]\nWhen it comes to Bifrost Tower, which is the most popular tourist attraction, Litrip knows the best!",
         "pt-BR": "[Fome]\nQuando se trata da Torre Bifrost, que é a atração turística mais popular, Litrip sabe o que é melhor!",
-        "es-ES": "[Fome]\nCuando se trata de la Torre Bifrost, que es la atracción turística más popular, ¡Litrip lo sabe todo!"
+        "es-ES": "[Fome]\nCuando se trata de la Torre Bifröst, que es la atracción turística más popular, ¡Litrip lo sabe todo!"
     },
     "3C5j": {
         "en-US": "[Fome]\nA traveler from Midgard!\nAs expected, visitors flock from all over the world to Eclage, which is the beginning and end of a trip.",
@@ -397,7 +397,7 @@
     "7y5j": {
         "en-US": "[Litrip]\nYou're from Mora?\nYou must have seen Bifrost Tower on the way then?",
         "pt-BR": "[Litrip]\nVocê é de Mora?\nVocê deve ter visto a Torre Bifrost no caminho, então?",
-        "es-ES": "[Litrip]\n¿Eres de Mora?\n¿Entonces seguramente viste la Torre Bifrost por el camino?"
+        "es-ES": "[Litrip]\n¿Eres de Mora?\n¿Entonces seguramente viste la Torre Bifröst por el camino?"
     },
     "8C5j": {
         "en-US": "I saw it from the outside.",
@@ -432,12 +432,12 @@
     "9i5j": {
         "en-US": "[Litrip]\nIf that alchemist is still alive, he could be a living history himself since the tower, the alchemist, and Bifrost have existed even before Eclage was founded.",
         "pt-BR": "[Litrip]\nSe esse alquimista ainda estiver vivo, ele mesmo poderia ser uma história viva, já que a torre, o alquimista e a Bifrost já existiam antes da fundação de Eclage.",
-        "es-ES": "[Litrip]\nSi ese alquimista sigue vivo, podría ser una leyenda viviente, ya que la torre, el alquimista y el Bifrost han existido desde incluso antes de que se fundara Eclage."
+        "es-ES": "[Litrip]\nSi ese alquimista sigue vivo, podría ser una leyenda viviente, ya que la torre, el alquimista y el Bifröst han existido desde incluso antes de que se fundara Eclage."
     },
     "9y5j": {
         "en-US": "[Litrip]\nA good number of people still challenge themselves to find the mysterious legend of Bifrost Tower but so far, none of them succeeded.",
         "pt-BR": "[Litrip]\nUm bom número de pessoas ainda se desafia a encontrar a misteriosa lenda da Torre Bifrost, mas, até agora, nenhuma delas conseguiu.",
-        "es-ES": "[Litrip]\nUna gran cantidad de personas se siguen poniendo el desafío de develar la leyenda misteriosa de la Torre Bifrost, pero hasta ahora ninguna lo consiguió."
+        "es-ES": "[Litrip]\nUna gran cantidad de personas se siguen poniendo el desafío de develar la leyenda misteriosa de la Torre Bifröst, pero hasta ahora ninguna lo consiguió."
     },
     "+C5j": {
         "en-US": "What about Laphines?",
@@ -447,12 +447,12 @@
     "+S5j": {
         "en-US": "[Litrip]\nHmm, Laphines?\nFor some reason, they're not interested in Bifrost Tower at all.\nI think they perceive it just as a natural object.",
         "pt-BR": "[Litrip]\nHmm, Laphines?\nPor alguma razão, eles não estão nem um pouco interessados na Torre Bifrost. \nAcho que eles a percebem apenas como um objeto natural.",
-        "es-ES": "[Litrip]\n¿Los laphines?\nPor alguna razón, no les interesa la Torre Bifrost en absoluto. \nCreo que la perciben como un objeto natural."
+        "es-ES": "[Litrip]\n¿Los laphines?\nPor alguna razón, no les interesa la Torre Bifröst en absoluto. \nCreo que la perciben como un objeto natural."
     },
     "+i5j": {
         "en-US": "[Litrip]\nThey're actually more than capable of solving the mystery if they wanted to but I feel like they're just respecting the existence of Bifrost Tower.",
         "pt-BR": "[Litrip]\nNa verdade, eles são mais do que capazes de resolver o mistério se quisessem, mas sinto que estão apenas respeitando a existência da Torre Bifrost.",
-        "es-ES": "[Litrip]\nEn realidad son más que capaces de resolver el misterio si lo quisieran, pero me da la sensación de que simplemente respetan la existencia de la Torre Bifrost."
+        "es-ES": "[Litrip]\nEn realidad son más que capaces de resolver el misterio si lo quisieran, pero me da la sensación de que simplemente respetan la existencia de la Torre Bifröst."
     },
     "+y5j": {
         "en-US": "[Litrip]\nHowever, they don't necessarily stop people from going into the tower, either. So I'm thinking maybe they're just not aware of it.\nIf you're curious, go challenge yourself and solve the mystery of the tower.",
@@ -472,7 +472,7 @@
     "/i5j": {
         "en-US": "[Litrip]\nAnd Let me know if you ever solve the mystery of Bifrost Tower.\nI'll be looking forward to hearing from you, hahaha.",
         "pt-BR": "[Litrip]\nE me avise se você resolver o mistério da Torre Bifrost.\nAguardarei ansiosamente sua resposta, hahaha.",
-        "es-ES": "[Litrip]\nY avísame si alguna vez resuelves el misterio de la Torre Bifrost.\nEstaré esperando noticias tuyas, ja, ja, ja."
+        "es-ES": "[Litrip]\nY avísame si alguna vez resuelves el misterio de la Torre Bifröst.\nEstaré esperando noticias tuyas, ja, ja, ja."
     },
     "/y5j": {
         "en-US": "I saw it from the outside.",
@@ -482,12 +482,12 @@
     "AC9j": {
         "en-US": "[Litrip]\nA good number of people still challenge themselves to find the mysterious legend of Bifrost but so far, none of them succeeded.",
         "pt-BR": "[Litrip]\nUm bom número de pessoas ainda se desafia a encontrar a misteriosa lenda de Bifrost, mas, até agora, nenhuma delas conseguiu.",
-        "es-ES": "[Litrip]\nUna gran cantidad de personas se siguen poniendo el desafío de develar la leyenda misteriosa del Bifrost, pero hasta ahora ninguna lo consiguió."
+        "es-ES": "[Litrip]\nUna gran cantidad de personas se siguen poniendo el desafío de develar la leyenda misteriosa del Bifröst, pero hasta ahora ninguna lo consiguió."
     },
     "AS9j": {
         "en-US": "[Litrip]\nIf you ever happen to solve the mystery of Bifrost Tower, let me be the first one to know about it.\nYou're strong enough to explore the tower.\nI only got to the first floor. Haha.",
         "pt-BR": "[Litrip]\nSe você conseguir resolver o mistério da Torre Bifrost, deixe-me ser o primeiro a saber. \nVocê é forte o suficiente para explorar a torre.\nEu só cheguei ao primeiro andar. Haha.",
-        "es-ES": "[Litrip]\nSi alguna vez resuelves el misterio de la Torre Bifrost, cuéntamelo primero. \nEres lo suficientemente fuerte para explorar la Torre.\nYo solo llegué al primer piso. Ja, ja."
+        "es-ES": "[Litrip]\nSi alguna vez resuelves el misterio de la Torre Bifröst, cuéntamelo primero. \nEres lo suficientemente fuerte para explorar la Torre.\nYo solo llegué al primer piso. Ja, ja."
     },
     "Ai9j": {
         "en-US": "[Litrip]\nHave you talked to other friends?\nIsn't information the most important thing to a traveler?",
@@ -1042,7 +1042,7 @@
     "cC9j": {
         "en-US": "[Shenime]\nAs you know already, we're disconnected from Splendide due to the accident in Bifrost.\nAnd for us Laphines, it's hard to go against the will of the forest and Bifrost.",
         "pt-BR": "[Shenime]\nComo você já sabe, estamos desconectados de Esplendor devido ao acidente em Bifrost.\nE para nós, Laphines, é difícil ir contra a vontade da floresta e de Bifrost.",
-        "es-ES": "[Shinaim]\nComo ya sabes, estamos desconectados de Splendide debido al accidente en el Bifrost.\nY para nosotros, los laphines, es difícil ir en contra de la voluntad del bosque y del Bifrost."
+        "es-ES": "[Shinaim]\nComo ya sabes, estamos desconectados de Splendide debido al accidente en el Bifröst.\nY para nosotros, los laphines, es difícil ir en contra de la voluntad del bosque y del Bifröst."
     },
     "cS9j": {
         "en-US": "[Shenime]\nI'm sure every fairy in Alpheim feels the same, too.\nAnyway, I want to know what's going on in Splendide and Jotunheim nowadays.",
@@ -1217,7 +1217,7 @@
     "ky9j": {
         "en-US": "[Shenime]\nAt the starting point of Bifrost, there should be a messenger stamping his feet.",
         "pt-BR": "[Shenime]\nNo ponto de partida da Bifrost, deve haver um mensageiro batendo os pés.",
-        "es-ES": "[Shinaim]\nEn el punto de partida del Bifrost, debería haber un mensajero a los pisotones."
+        "es-ES": "[Shinaim]\nEn el punto de partida del Bifröst, debería haber un mensajero a los pisotones."
     },
     "lC9j": {
         "en-US": "[Shenime]\nIt's a messenger that we sent in an effort to contact Splendide regularly,\nbut I think it's still difficult to do so.",
@@ -1267,12 +1267,12 @@
     "nS9j": {
         "en-US": "[Shenime]\nAh, you've come at just the right time.\nI heard you've been going to Bifrost Tower recently?\nI wanted to ask you a favor since you're going there anyway...",
         "pt-BR": "[Shenime]\nAh, você chegou na hora certa.\nOuvi dizer que você tem ido à Torre Bifrost recentemente?\nEu queria lhe pedir um favor, já que você está indo para lá de qualquer maneira...",
-        "es-ES": "[Shinaim]\nAh, llegaste en el momento justo.\nEscuché que estuviste yendo a la Torre Bifrost últimamente.\nQuería pedirte un favor, ya que vas a ir de todos modos..."
+        "es-ES": "[Shinaim]\nAh, llegaste en el momento justo.\nEscuché que estuviste yendo a la Torre Bifröst últimamente.\nQuería pedirte un favor, ya que vas a ir de todos modos..."
     },
     "ni9j": {
         "en-US": "[Shenime]\nActually, I'm sponsoring a scholar of magics.\nHe needs some materials for experiments, and I was told you can find the materials in Bifrost Tower.",
         "pt-BR": "[Shenime]\nNa verdade, estou patrocinando um estudioso de magia.\nEle precisa de alguns materiais para experimentos, e me disseram que você pode encontrar os materiais na Torre Bifrost.",
-        "es-ES": "[Shinaim]\nEn realidad, apadrino a un erudito en magia.\nÉl necesita algunos materiales para hacer experimentos, y me dijeron que se pueden encontrar los materiales en la Torre Bifrost."
+        "es-ES": "[Shinaim]\nEn realidad, apadrino a un erudito en magia.\nÉl necesita algunos materiales para hacer experimentos, y me dijeron que se pueden encontrar los materiales en la Torre Bifröst."
     },
     "ny9j": {
         "en-US": "[Shenime]\nIf it's okay, can you do me a favor?\nOf course I'll give you a big reward.",
@@ -1452,7 +1452,7 @@
     "wi9j": {
         "en-US": "[Shenime]\nI didn't want to provide him with food and a place to live for free,\nso I asked him to do a research on Bifrost Tower.",
         "pt-BR": "[Shenime]\nEu não queria dar a ele a comida e um lugar para morar de graça,\nentão pedi que ele fizesse uma pesquisa sobre a Torre Bifrost.",
-        "es-ES": "[Shinaim]\nNo quería darle comida y un lugar donde vivir gratis,\nasí que le pedí que investigara sobre la Torre Bifrost."
+        "es-ES": "[Shinaim]\nNo quería darle comida y un lugar donde vivir gratis,\nasí que le pedí que investigara sobre la Torre Bifröst."
     },
     "wy9j": {
         "en-US": "[Shenime]\nThat's all I did, and I don't know anything other than that.\nWhen he finishes the research, I was going to ask him to do another research on Hazy Forest.",
@@ -2272,7 +2272,7 @@
     "ZjBj": {
         "en-US": "[Kardui]\nHave you been to Bifrost Tower?",
         "pt-BR": "[Kardui]\nVocê já esteve na Torre Bifrost?",
-        "es-ES": "[Kardui]\n¿Estuviste en la Torre Bifrost?"
+        "es-ES": "[Kardui]\n¿Estuviste en la Torre Bifröst?"
     },
     "ZzBj": {
         "en-US": "Yes, I have.",
@@ -2297,7 +2297,7 @@
     "azBj": {
         "en-US": "[Kardui]\nThen I can trust you and give some works.\nMy brother is in Bifrost Tower,\nand I would like you to deliver a letter to him.",
         "pt-BR": "[Kardui]\nEntão posso confiar em você e lhe dar alguns trabalhos.\nMeu irmão está na Torre Bifrost,\ne eu gostaria que você entregasse uma carta a ele.",
-        "es-ES": "[Kardui]\nEntonces puedo confiar en ti y darte algunos trabajos.\nMi hermano está en la Torre Bifrost,\ny me gustaría que le entregaras una carta."
+        "es-ES": "[Kardui]\nEntonces puedo confiar en ti y darte algunos trabajos.\nMi hermano está en la Torre Bifröst,\ny me gustaría que le entregaras una carta."
     },
     "bDBj": {
         "en-US": "[Kardui]\nSince this is something personal, I'm aksing you, my friend. Will you do it for me?\nThink of this as a way of paying me back.",
@@ -2307,7 +2307,7 @@
     "bTBj": {
         "en-US": "[Kardui]\nYou will find him on the top floor of Bifrost Tower.\nHe lives there.\nGive him this, please.",
         "pt-BR": "[Kardui]\nVocê o encontrará no último andar da Torre Bifrost.\nEle mora lá.\nEntregue isso a ele, por favor.",
-        "es-ES": "[Kardui]\nLo encontrarás en el último piso de la Torre Bifrost.\nVive allí.\nDale esto, por favor."
+        "es-ES": "[Kardui]\nLo encontrarás en el último piso de la Torre Bifröst.\nVive allí.\nDale esto, por favor."
     },
     "bjBj": {
         "en-US": "Kardui gave a letter to you.",
@@ -2317,7 +2317,7 @@
     "bzBj": {
         "en-US": "[Kardui]\nGo to the top floor of Bifrost Tower and give this letter to my brother.\nYou'll know when you get there.",
         "pt-BR": "[Kardui]\nVá até o último andar da Torre Bifrost e entregue esta carta ao meu irmão.\nVocê saberá quando chegar lá.",
-        "es-ES": "[Kardui]\nVe al último piso de la Torre Bifrost y dale esta carta a mi hermano.\nLo sabrás cuando llegues."
+        "es-ES": "[Kardui]\nVe al último piso de la Torre Bifröst y dale esta carta a mi hermano.\nLo sabrás cuando llegues."
     },
     "cDBj": {
         "en-US": "[Kardui]\nIsn't my brother so cool?\nHe is the only one who understands how I feel.\nHe is the one who comforted me and made my hatred go away.",
@@ -2887,7 +2887,7 @@
     "4TBj": {
         "en-US": "[Kardui]\nI'll manage to guarantee your freedom of action,\nso find Shenime, please.\nAccording to my brother, ^4D4DFFyou will be able to find clues somewhere in Bifrost.^000000",
         "pt-BR": "[Kardui]\nVou conseguir garantir sua liberdade de ação,\nportanto, encontre o Shenime, por favor.\nDe acordo com meu irmão, ^4D4DFFvocê poderá encontrar pistas em algum lugar de Bifrost.^000000",
-        "es-ES": "[Kardui]\nMe ocuparé de garantizar tu libertad de acción,\nasí que encuentra a Shinaim.\nSegún mi hermano, ^4D4DFFpodrás encontrar pistas en algún lugar del Bifrost.^000000"
+        "es-ES": "[Kardui]\nMe ocuparé de garantizar tu libertad de acción,\nasí que encuentra a Shinaim.\nSegún mi hermano, ^4D4DFFpodrás encontrar pistas en algún lugar del Bifröst.^000000"
     },
     "4jBj": {
         "en-US": "[Kardui]\nThe incident in the lighting room is proven to be an act of self-defense.\nYou're free to go anywhere for now.",
@@ -2897,7 +2897,7 @@
     "4zBj": {
         "en-US": "[Kardui]\nFind Shenime, please.\nAccording to my brother, ^4D4DFFyou will be able to find clues somewhere in Bifrost.^000000",
         "pt-BR": "[Kardui]\nEncontre o Shenime, por favor.\nDe acordo com meu irmão, ^4D4DFFvocê poderá encontrar pistas em algum lugar de Bifrost.^000000",
-        "es-ES": "[Kardui]\nEncuentra a Shinaim.\nSegún mi hermano, ^4D4DFFpodrás encontrar pistas en algún lugar del Bifrost.^000000"
+        "es-ES": "[Kardui]\nEncuentra a Shinaim.\nSegún mi hermano, ^4D4DFFpodrás encontrar pistas en algún lugar del Bifröst.^000000"
     },
     "5DBj": {
         "en-US": "[Kardui]\nA dead body with a hole...\nThe Chief of Staff was manipulated, too.\nHis name was Shenime, right?\nThen what might have been the original name of the Chief of Staff...",
@@ -3182,7 +3182,7 @@
     "HDFj": {
         "en-US": "[Leo]\nBy the way, Bifrost Tower must be a generator of monsters.\nWhen you eliminate one, there appears another one, and this goes on and on...\nIt like you're sprinting only to find yourself standing at the starting line again.",
         "pt-BR": "[Leo]\nA propósito, a Torre Bifrost deve ser um gerador de monstros.\nQuando você elimina um, aparece outro, e assim por diante...\nÉ como se você estivesse correndo e depois descobrisse que está de volta à linha de partida outra vez.",
-        "es-ES": "[Leo]\nPor cierto, la Torre Bifrost debe ser un generador de monstruos.\nCuando eliminas uno, aparece otro, y así sucesivamente...\nEs como si aceleraras solo para encontrarte de nuevo en la línea de salida."
+        "es-ES": "[Leo]\nPor cierto, la Torre Bifröst debe ser un generador de monstruos.\nCuando eliminas uno, aparece otro, y así sucesivamente...\nEs como si aceleraras solo para encontrarte de nuevo en la línea de salida."
     },
     "HTFj": {
         "en-US": "[Leo]\nWelcome to Eclage.\n- ,{0}who recently became famous.",
@@ -3277,7 +3277,7 @@
     "LzFj": {
         "en-US": "[Leo]\nYou have to punish 5 Menblatts and 5 Petals.\nThey will be playing all over the blooming field, in which stands Bifrost Tower in front of Eclage.\nYou know already, right?",
         "pt-BR": "[Leo]\nVocê precisa punir 5 Menblatts e 5 Pétalas.\nElas estarão brincando em todo o campo florido, onde fica a Torre Bifrost, em frente a Eclage.\nVocê já sabe, certo?",
-        "es-ES": "[Leo]\nTienes que castigar a 5 Menblatt y 5 Petal.\nEstarán jugueteando por todo el campo en flor en el que se alza la Torre Bifrost, frente a Eclage.\nYa lo sabes, ¿verdad?"
+        "es-ES": "[Leo]\nTienes que castigar a 5 Menblatt y 5 Petal.\nEstarán jugueteando por todo el campo en flor en el que se alza la Torre Bifröst, frente a Eclage.\nYa lo sabes, ¿verdad?"
     },
     "MDFj": {
         "en-US": "[Leo]\nAh...you don't want to?\nI'll have to do it alone.\nAll by myself...",

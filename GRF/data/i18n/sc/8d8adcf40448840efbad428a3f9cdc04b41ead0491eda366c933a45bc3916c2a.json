@@ -20,9 +20,9 @@
         "es-ES": "[Transferigato]\n¡Miau! ¡Miau miau!\n¡Me encantó tu estilo! ¡Sabes combinar muy bien los atuendos!\n¿Has intentado alguna vez combinar una Piedra de Encanto en un atuendo que no encajaba con tu personalidad?"
     },
     "JAN6DQ": {
-        "en-US": "[Transfericat]\nI understand you!\nAnd that's why I'm here to show you the new Enchant Transfer System!\nBring me the Costume you want and 1x Enchant Transferrer.\nThat way, you transfer the enchant from Costume A to Costume B.\nDo you want to start the transfer now?",
-        "pt-BR": "[Transferigato]\nEu te entendo!\nE é por isso que estou aqui para te mostrar o novo Sistema de Transferência de Encantos!\nMe traga o Visual desejado e 1x Transferidor de Encanto. \nAssim, você transfere o encanto do Visual A para o Visual B.\nDeseja iniciar a transferência agora?",
-        "es-ES": "[Transferigato]\n¡Te entiendo!\n¡Y por eso estoy aquí para mostrarte el nuevo Sistema de Transferencia de Encantos!\n¡Tráeme el Disfraz que deseas y 1x Transferidor de Encanto.\nAsí, transfieres el encanto del Disfraz A al Disfraz B.\n¿Deseas iniciar la transferencia ahora?"
+        "en-US": "[Transfericat]\nI understand you!\nAnd that's why I'm here to show you the new Enchant Transfer System!\nBring me the Costume you want and 1x Transfer Coupon.\nThat way, you transfer the enchant from Costume A to Costume B.\nDo you want to start the transfer now?",
+        "pt-BR": "[Transferigato]\nEu te entendo!\nE é por isso que estou aqui para te mostrar o novo Sistema de Transferência de Encantos!\nMe traga o Visual desejado e 1x Cupom de Transferência. \nAssim, você transfere o encanto do Visual A para o Visual B.\nDeseja iniciar a transferência agora?",
+        "es-ES": "[Transferigato]\n¡Te entiendo!\n¡Y por eso estoy aquí para mostrarte el nuevo Sistema de Transferencia de Encantos!\n¡Tráeme el Disfraz que deseas y 1x Cupon de Transferencia.\nAsí, transfieres el encanto del Disfraz A al Disfraz B.\n¿Deseas iniciar la transferencia ahora?"
     },
     "JQN6DQ": {
         "en-US": "I want to transfer my costume enchantments.",
@@ -120,8 +120,8 @@
         "es-ES": "[Transferigato]\nEste Disfraz no posee encantamiento."
     },
     "OAN6DQ": {
-        "en-US": "[Transfericat]\nEquipment: {0}\nLocation: {1}\nCost: 1 Enchant Transferrer\nI'll hold onto the Costume and the Coupon for a moment.",
-        "pt-BR": "[Transferigato]\nEquipamento: {0}\nLocalização: {1}\nCusto: 1 Transferidor de Encanto\nVou guardar o Visual e o Cupom por um momento.",
+        "en-US": "[Transfericat]\nEquipment: {0}\nLocation: {1}\nCost: 1 Transfer Coupon\nI'll hold onto the Costume and the Coupon for a moment.",
+        "pt-BR": "[Transferigato]\nEquipamento: {0}\nLocalização: {1}\nCusto: 1 Cupom de Transferência\nVou guardar o Visual e o Cupom por um momento.",
         "es-ES": "[Transferigato]\nEquipo: {0}\nUbicación: {1}\nCosto: 1 Transferidor de Encanto\nVoy a guardar el Disfraz y el Cupón por un momento."
     },
     "OQN6DQ": {
@@ -140,8 +140,8 @@
         "es-ES": "No"
     },
     "PAN6DQ": {
-        "en-US": "[Transfericat]\nYou don't have enough Enchant Transferrers.",
-        "pt-BR": "[Transferigato]\nVocê não tem Transferidores de Encanto suficientes.",
+        "en-US": "[Transfericat]\nYou don't have enough Transfer Coupon.",
+        "pt-BR": "[Transferigato]\nVocê não tem Cupons de Transferência suficientes.",
         "es-ES": "[Transferigato]\nNo tienes suficientes Transferidores de Encanto."
     },
     "PQN6DQ": {

@@ -2788,6 +2788,9 @@ SkillInfoList_string = {
 	[SKID.ALL_PRONTERA_RECALL] = {
 		SkillName = "Para Prontera"
 	},
+	[SKID.ALL_GLASTHEIM_RECALL] = {
+		SkillName = "Para Glastheim"
+	},
 	[SKID.ALL_THANATOS_RECALL] = {
 		SkillName = "Para Thanatos"
 	},

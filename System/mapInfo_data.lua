@@ -933,7 +933,13 @@ mapTbl_data = {
 	["yuno_in04.rsw"] = {backgroundBmp = "village_s2", notifyEnter = true},
 	["yuno_in05.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
 	["yuno_pre.rsw"] = {backgroundBmp = "village_s2", notifyEnter = true},
-	["z_agit.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true}
+	["z_agit.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
+	["bl_grass.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
+	["bl_lava.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
+	["bl_ice.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
+	["bl_death.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
+	["1@pbs.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
+	["pbse.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"}
 }
 function main()
 	for name, info in pairs(mapTbl) do

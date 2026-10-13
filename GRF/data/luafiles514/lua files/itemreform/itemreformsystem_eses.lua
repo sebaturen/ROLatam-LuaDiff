@@ -4362,5 +4362,2042 @@ ReformInfo_string = {
 			"2) Opciones Aleatorias : Se mantienen",
 			"3) Cartas y Encantamientos : Se mantienen"
 		}
+	},
+	[103] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[105] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[107] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[109] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[173] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[174] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[175] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[176] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[177] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[178] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[247] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[285] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[499] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[500] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[630] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[631] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[632] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[633] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[634] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[635] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[636] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[967] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Carta y encantamiento : Transferidos"
+		}
+	},
+	[982] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Conservada",
+			"3) Carta y encantamiento : Conservados"
+		}
+	},
+	[104] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[106] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[108] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[110] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[179] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[180] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[181] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[182] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[183] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[184] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[248] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[286] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[501] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[502] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[637] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[638] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[639] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[640] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[641] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[642] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[643] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[968] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Carta y encantamiento : Transferidos"
+		}
+	},
+	[983] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Conservada",
+			"3) Carta y encantamiento : Conservados"
+		}
+	},
+	[185] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Opción aleatoria : Transferida",
+			"2) Carta y encantamiento : Transferidos",
+			"3) Grado : Transferido"
+		}
+	},
+	[965] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Opción aleatoria : Transferida",
+			"2) Carta y encantamiento : Transferidos"
+		}
+	},
+	[966] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Opción aleatoria : Transferida",
+			"2) Carta y encantamiento : Transferidos"
+		}
+	},
+	[980] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Opción aleatoria : ^FF0000Eliminada^000000",
+			"2) Carta y encantamiento : Conservados"
+		}
+	},
+	[981] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Opción aleatoria : ^FF0000Eliminada^000000",
+			"2) Carta y encantamiento : Conservados"
+		}
+	},
+	[978] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Conservada",
+			"3) Carta y encantamiento : Conservados"
+		}
+	},
+	[979] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Conservada",
+			"3) Carta y encantamiento : Conservados"
+		}
+	},
+	[111] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[112] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[113] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[114] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[115] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[116] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[186] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[187] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[188] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[189] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[190] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[191] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[257] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[258] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[259] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[260] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[270] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[271] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[272] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[273] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[274] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[298] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[299] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[300] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[301] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[454] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[455] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[456] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[457] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[458] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[459] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[460] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[461] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[462] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[463] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[708] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[709] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-5^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[117] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[118] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[119] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[120] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[121] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[122] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[192] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[193] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[194] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[195] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[196] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[197] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[261] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[262] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[263] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[264] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[275] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[276] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[277] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[278] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[279] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[302] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[303] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[304] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[305] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[464] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[465] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[466] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[467] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[468] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[469] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[470] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[471] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[472] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[473] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[710] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[711] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^FF0000-1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[123] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[124] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[125] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[126] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[127] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[128] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[198] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[199] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[200] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[201] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[202] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[203] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[265] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[266] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[267] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[268] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[280] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[281] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[282] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[283] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[284] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[306] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[307] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[308] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[309] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[474] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[475] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[476] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[477] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[478] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[479] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[480] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[481] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[482] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[483] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[712] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[713] = {
+		InformationString = {
+			"<B>Información del resultado de reforma</B>",
+			"1) Refinado : ^4D4DFF+1^000000",
+			"2) Opción aleatoria : Transferida",
+			"3) Carta y encantamiento : Transferidos",
+			"4) Grado : Transferido"
+		}
+	},
+	[556] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[557] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[558] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[559] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[560] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[561] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[562] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[563] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[564] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[565] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[566] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[567] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[607] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[608] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[609] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[610] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[611] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[612] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[613] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se transfiere",
+			"3) Información de cartas y encantamientos : Se transfiere"
+		}
+	},
+	[830] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[831] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[832] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[833] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[834] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[835] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[836] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[837] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[838] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[839] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[840] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[841] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[842] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[843] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[844] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[845] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[846] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[847] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[848] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[849] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[850] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[851] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[852] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[853] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[854] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[855] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[856] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[857] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[858] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[859] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[860] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[861] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[862] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[863] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[864] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[865] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[866] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[867] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[868] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[869] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[870] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[871] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[872] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[873] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[874] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[875] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
 	}
 }

@@ -340,6 +340,8 @@
         "es-ES": "Susurro desconocido: ¿Vas a abandonar a un compañero caído? Qué mala persona."
     },
     "BIE+DQ": {
-        "pt-BR": "[Estatísticas Atuais]\nSaúde - {0}\nAtaque - {1}\nRegeneração - {2}\nDefesa - {3}\nArmadilha - {4}"
+        "en-US": "[Current Constellation Stats]\nHealth - {0}\nAttack - {1}\nHealing - {2}\nDefense - {3}\nTrap - {4}",
+        "pt-BR": "[Estatísticas Atuais]\nVida - {0}\nAtaque - {1}\nRegeneração - {2}\nDefesa - {3}\nArmadilha - {4}",
+        "es-ES": "[Estadísticas actuales de la constelación]\nVida - {0}\nAtaque - {1}\nRecuperación - {2}\nDefensa - {3}\nTrampas - {4}"
     }
 }

@@ -1,0 +1,1762 @@
+{
+    "gLGEDQ": {
+        "en-US": "100~110 Request Board",
+        "pt-BR": "Missões 100 - 110",
+        "es-ES": "100~110 Tablón de encargos"
+    },
+    "gbGEDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items. -",
+        "pt-BR": "Você está carregando itens demais para prosseguir.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos. -"
+    },
+    "grGEDQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll quest reward EXP is increased by 50%!!^000000",
+        "pt-BR": "^4D4DFFBônus de EXP!^000000\n^4D4DFFDurante o evento, as recompensas em EXP aumentaram em 50%!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡La EXP de recompensa de todas las misiones aumenta un 50%!!^000000"
+    },
+    "g7GEDQ": {
+        "en-US": "[Version Check] Eden Group Standard Version",
+        "pt-BR": "[GM Mode] Versão Normal",
+        "es-ES": "[Comprobación de versión]Versión normal del Grupo del Edén"
+    },
+    "hLGEDQ": {
+        "en-US": "To accept a request, -\n- you must have the ^4D4DFF'Eden Group Token'^000000. -",
+        "pt-BR": "Para aceitar uma missão, você precisa\nter o ^4D4DFF'Emblema do Grupo do Éden'^000000.",
+        "es-ES": "Para aceptar un encargo, -\n- debes tener ^4D4DFF'Insignia del Grupo del Edén'^000000. -"
+    },
+    "hbGEDQ": {
+        "en-US": "Your level is too low to use this board.",
+        "pt-BR": "Seu nível é insuficiente para usar este quadro de missões.",
+        "es-ES": "No puedes usar este tablón porque tu nivel es insuficiente."
+    },
+    "hrGEDQ": {
+        "en-US": "View Individual Requests",
+        "pt-BR": "Ver missões individualmente",
+        "es-ES": "Ver encargos individuales"
+    },
+    "h7GEDQ": {
+        "en-US": "Report Completed Requests",
+        "pt-BR": "Reportar missões concluídas",
+        "es-ES": "Informar encargos completados"
+    },
+    "iLGEDQ": {
+        "en-US": "Accept All Requests",
+        "pt-BR": "Aceitar todas as missões",
+        "es-ES": "Aceptar todos los encargos"
+    },
+    "ibGEDQ": {
+        "en-US": "[Processing request rewards.]",
+        "pt-BR": "[Missões Concluídas]",
+        "es-ES": "[Se están procesando los encargos.]"
+    },
+    "irGEDQ": {
+        "en-US": "<Capture Nightmare Terror> completed.",
+        "pt-BR": "[Filtro dos Sonhos] - missão concluída.",
+        "es-ES": "Has completado <Captura de Terror Nocturno>."
+    },
+    "i7GEDQ": {
+        "en-US": "<Capture Deleter> completed.",
+        "pt-BR": "[Dragões de Fogo] - missão concluída.",
+        "es-ES": "Has completado <Captura de Deleter>."
+    },
+    "jLGEDQ": {
+        "en-US": "<Collect Hardened Lava> completed.",
+        "pt-BR": "[Estudo Geológico] - missão concluída.",
+        "es-ES": "Has completado <Recolección de lava solidificada>."
+    },
+    "jbGEDQ": {
+        "en-US": "<The Pitiful Clown> completed.",
+        "pt-BR": "[Pobre Palhaço] - missão concluída.",
+        "es-ES": "Has completado <El payaso desdichado>."
+    },
+    "jrGEDQ": {
+        "en-US": "<One Little Bug> completed.",
+        "pt-BR": "[O MVP mais Forte] - missão concluída.",
+        "es-ES": "Has completado <Un pequeño insecto>."
+    },
+    "j7GEDQ": {
+        "en-US": "<If Alive, Then to Heaven> completed.",
+        "pt-BR": "[Limpeza de Esgoto] - missão concluída.",
+        "es-ES": "Has completado <Al cielo si sigue con vida>."
+    },
+    "kLGEDQ": {
+        "en-US": "<Do Not Doubt> completed.",
+        "pt-BR": "[Mão Inimiga] - missão concluída.",
+        "es-ES": "Has completado <No dudes>."
+    },
+    "kbGEDQ": {
+        "en-US": "<Delicious, No, Pitiful Soul> completed.",
+        "pt-BR": "[Touro Valente] - missão concluída.",
+        "es-ES": "Has completado <Un alma deliciosa, no, desdichada>."
+    },
+    "krGEDQ": {
+        "en-US": "<The Girl beneath the Leaves> completed.",
+        "pt-BR": "[Menina das Flores] - missão concluída.",
+        "es-ES": "Has completado <La joven cubierta de hojas>."
+    },
+    "k7GEDQ": {
+        "en-US": "<Electrifying Beauty> completed.",
+        "pt-BR": "[Brilho Fatal] - missão concluída.",
+        "es-ES": "Has completado <Belleza electrizante>."
+    },
+    "lLGEDQ": {
+        "en-US": "<King of the Otherworld> completed.",
+        "pt-BR": "[Rei do Novo Mundo] - missão concluída.",
+        "es-ES": "Has completado <El rey del otro mundo>."
+    },
+    "lbGEDQ": {
+        "en-US": "<Grassland Brawl - Axe Kobold Edition> completed.",
+        "pt-BR": "[Vilarejo dos Kobolds] - missão concluída.",
+        "es-ES": "Has completado <Reyerta en Pradera - Edición de Kobold (Hacha)>."
+    },
+    "lrGEDQ": {
+        "en-US": "<Grassland Brawl - Hill Wind Edition> completed.",
+        "pt-BR": "[Vila da Colina] - missão concluída.",
+        "es-ES": "Has completado <Reyerta en Pradera - Edición de Hill Wind>."
+    },
+    "l7GEDQ": {
+        "en-US": "<You Can Never Find Dog Fur When You Need It.> completed.",
+        "pt-BR": "[Pelos de Cachorro] - missão concluída.",
+        "es-ES": "Has completado <Ni pelo de perro hay cuando lo necesitas.>."
+    },
+    "mLGEDQ": {
+        "en-US": "<War on Weeds> completed.",
+        "pt-BR": "[Guerra contra as Plantas] - missão concluída.",
+        "es-ES": "Has completado <Guerra contra la maleza>."
+    },
+    "mbGEDQ": {
+        "en-US": "<Volcanic Mutation> completed.",
+        "pt-BR": "[Mutação Vulcânica] - missão concluída.",
+        "es-ES": "Has completado <La mutación del volcán>."
+    },
+    "mrGEDQ": {
+        "en-US": "<Grassland Brawl - Desert Wolf Edition> completed.",
+        "pt-BR": "[Alcateia no Deserto] - missão concluída.",
+        "es-ES": "Has completado <Reyerta en Pradera - Edición de Lobo del Desierto>."
+    },
+    "m7GEDQ": {
+        "en-US": "<The Yeti Who Won't Listen> completed.",
+        "pt-BR": "[Monstro das Neves] - missão concluída.",
+        "es-ES": "Has completado <El yeti con el que no se puede razonar>."
+    },
+    "nLGEDQ": {
+        "en-US": "<How Hard Are Ice Crystals?> completed.",
+        "pt-BR": "[Cristais são Duros?] - missão concluída.",
+        "es-ES": "Has completado <¿Qué tan duro es un cristal de hielo?>."
+    },
+    "nbGEDQ": {
+        "en-US": "<Inside the Mimic's Box> completed.",
+        "pt-BR": "[Uma Caixa Viva] - missão concluída.",
+        "es-ES": "Has completado <Dentro del cofre de Mimic>."
+    },
+    "nrGEDQ": {
+        "en-US": "<Ancient Wisdom Adrift> completed.",
+        "pt-BR": "[Palavras ao Vento] - missão concluída.",
+        "es-ES": "Has completado <La antigua sabiduría errante>."
+    },
+    "n7GEDQ": {
+        "en-US": "<Baron of the Old Castle> completed.",
+        "pt-BR": "[Barão do Reino] - missão concluída.",
+        "es-ES": "Has completado <El barón del castillo antiguo>."
+    },
+    "oLGEDQ": {
+        "en-US": "<Pages of Knowledge> completed.",
+        "pt-BR": "[Páginas de um Livro] - missão concluída.",
+        "es-ES": "Has completado <Hojas de conocimiento>."
+    },
+    "obGEDQ": {
+        "en-US": "<Old Record of Magic> completed.",
+        "pt-BR": "[Manuscritos Mágicos] - missão concluída.",
+        "es-ES": "Has completado <Antiguos registros mágicos>."
+    },
+    "orGEDQ": {
+        "en-US": "<Collect Recyclable Materials> completed.",
+        "pt-BR": "[Aula de Reciclagem] - missão concluída.",
+        "es-ES": "Has completado <Recolección de materiales reciclables>."
+    },
+    "o7GEDQ": {
+        "en-US": "<Just Empty Armor> completed.",
+        "pt-BR": "[Armadura Vazia] - missão concluída.",
+        "es-ES": "Has completado <Solo una Armadura vacía>."
+    },
+    "pLGEDQ": {
+        "en-US": "<Perhaps an Upright Soul> completed.",
+        "pt-BR": "[Ajeite a Postura] - missão concluída.",
+        "es-ES": "Has completado <Quizá un alma recta>."
+    },
+    "pbGEDQ": {
+        "en-US": "<A Knight's Nemesis> completed.",
+        "pt-BR": "[Viajante sem Rumo] - missão concluída.",
+        "es-ES": "Has completado <El enemigo natural de los caballeros>."
+    },
+    "prGEDQ": {
+        "en-US": "<A Worthy Opponent> completed.",
+        "pt-BR": "[Inimigo à Altura] - missão concluída.",
+        "es-ES": "Has completado <Un rival digno>."
+    },
+    "p7GEDQ": {
+        "en-US": "<The Lady beneath the Leaves> completed.",
+        "pt-BR": "[Menina Veneno] - missão concluída.",
+        "es-ES": "Has completado <La dama cubierta de hojas>."
+    },
+    "qLGEDQ": {
+        "en-US": "<Dried Flower Bookmark> completed.",
+        "pt-BR": "[Marcador de Páginas] - missão concluída.",
+        "es-ES": "Has completado <Marcador de flores secas>."
+    },
+    "qbGEDQ": {
+        "en-US": "<Those Are Some Good... Muscles!> completed.",
+        "pt-BR": "[Belos Músculos!] - missão concluída.",
+        "es-ES": "Has completado <¡Qué buenos... músculos!>."
+    },
+    "qrGEDQ": {
+        "en-US": "<Straight Out of a Fairy Tale> completed.",
+        "pt-BR": "[Conto de Fadas] - missão concluída.",
+        "es-ES": "Has completado <Como salido de un cuento de hadas>."
+    },
+    "q7GEDQ": {
+        "en-US": "<Provocative Charm> completed.",
+        "pt-BR": "[Espinhos Perigosos] - missão concluída.",
+        "es-ES": "Has completado <Encanto provocador>."
+    },
+    "rLGEDQ": {
+        "en-US": "<A Horn Imbued with Magic> completed.",
+        "pt-BR": "[Poder do Chifre] - missão concluída.",
+        "es-ES": "Has completado <Cuerno imbuido de magia>."
+    },
+    "rbGEDQ": {
+        "en-US": "<Swarm of Iron Ants-1> completed.",
+        "pt-BR": "[Formigas de Aço] - missão concluída.",
+        "es-ES": "Has completado <Enjambre de hormigas de hierro-1>."
+    },
+    "rrGEDQ": {
+        "en-US": "<Swarm of Iron Ants-2> completed.",
+        "pt-BR": "[Formigas de Ferro] - missão concluída.",
+        "es-ES": "Has completado <Enjambre de hormigas de hierro-2>."
+    },
+    "r7GEDQ": {
+        "en-US": "<Colorful Purple Dimik-1> completed.",
+        "pt-BR": "[Robôs Coloridos] - missão concluída.",
+        "es-ES": "Has completado <Dimik Morado multicolor-1>."
+    },
+    "sLGEDQ": {
+        "en-US": "<Colorful Purple Dimik-2> completed.",
+        "pt-BR": "[Robôs Multicoloridos] - missão concluída.",
+        "es-ES": "Has completado <Dimik Morado multicolor-2>."
+    },
+    "sbGEDQ": {
+        "en-US": "A total of {0} completed requests have been processed.",
+        "pt-BR": "Você concluiu {0} missões.",
+        "es-ES": "Se procesaron un total de {0} encargos completados."
+    },
+    "srGEDQ": {
+        "en-US": "All Available Requests",
+        "pt-BR": "Todas as Missões Disponíveis",
+        "es-ES": "Todos los encargos disponibles"
+    },
+    "s7GEDQ": {
+        "en-US": "100 Level Requests",
+        "pt-BR": "Missões de nível 100",
+        "es-ES": "Encargos de 100 nivel"
+    },
+    "tLGEDQ": {
+        "en-US": "110 Level Requests",
+        "pt-BR": "Missões de nível 110",
+        "es-ES": "Encargos de 110 nivel"
+    },
+    "tbGEDQ": {
+        "en-US": "You have accepted all available requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis.",
+        "es-ES": "Has aceptado todos los encargos disponibles."
+    },
+    "trGEDQ": {
+        "en-US": "You have accepted all available 100 Level requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 100.",
+        "es-ES": "Has aceptado todos los encargos disponibles de 100 nivel."
+    },
+    "t7GEDQ": {
+        "en-US": "You have accepted all available 110 Level requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 110.",
+        "es-ES": "Has aceptado todos los encargos disponibles de 110 nivel."
+    },
+    "uLGEDQ": {
+        "en-US": "[Accepting requests.]",
+        "pt-BR": "[Aceitando Missões]",
+        "es-ES": "[Aceptando encargos.]"
+    },
+    "ubGEDQ": {
+        "en-US": "[100] Nightmare Terror Hunting",
+        "pt-BR": "[100] Filtro dos Sonhos",
+        "es-ES": "[100] Cacería de Terrores nocturnos"
+    },
+    "urGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "u7GEDQ": {
+        "en-US": "[100] Deleter Hunting",
+        "pt-BR": "[100] Dragões de Fogo",
+        "es-ES": "[100] Cacería de Deleter"
+    },
+    "vLGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "vbGEDQ": {
+        "en-US": "[100] Collect Solidified Lava",
+        "pt-BR": "[100] Estudo Geológico",
+        "es-ES": "[100] Recolectar Lava solidificada"
+    },
+    "vrGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "v7GEDQ": {
+        "en-US": "[100] Poor Clown",
+        "pt-BR": "[100] Pobre Palhaço",
+        "es-ES": "[100] Pobre payaso"
+    },
+    "wLGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "wbGEDQ": {
+        "en-US": "[100] A Small Bug",
+        "pt-BR": "[100] O MVP mais Forte",
+        "es-ES": "[100] Pequeño insecto"
+    },
+    "wrGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "w7GEDQ": {
+        "en-US": "[100] If you're alive, go to heaven",
+        "pt-BR": "[100] Limpeza de Esgoto",
+        "es-ES": "[100] Si sigues con vida, ve al cielo"
+    },
+    "xLGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "xbGEDQ": {
+        "en-US": "[100] No Doubt",
+        "pt-BR": "[100] Mão Inimiga",
+        "es-ES": "[100] Sin dudas"
+    },
+    "xrGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "x7GEDQ": {
+        "en-US": "[100] Delicious Poor Soul",
+        "pt-BR": "[100] Touro Valente",
+        "es-ES": "[100] Pobre y deliciosa alma"
+    },
+    "yLGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "ybGEDQ": {
+        "en-US": "[100] Girl with Leaves",
+        "pt-BR": "[100] Menina das Flores",
+        "es-ES": "[100] Chica con hojas"
+    },
+    "yrGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "y7GEDQ": {
+        "en-US": "[100] Electrifying Beauty",
+        "pt-BR": "[100] Brilho Fatal",
+        "es-ES": "[100] Belleza electrizante"
+    },
+    "zLGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "zbGEDQ": {
+        "en-US": "[100] King of the Otherworld",
+        "pt-BR": "[100] Rei do Novo Mundo",
+        "es-ES": "[100] Rey del otro mundo"
+    },
+    "zrGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "z7GEDQ": {
+        "en-US": "[100] Grassland Brawl - Kobold Edition",
+        "pt-BR": "[100] Vilarejo dos Kobolds",
+        "es-ES": "[100] Contienda en la pradera: edición Kobold"
+    },
+    "0LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "0bGEDQ": {
+        "en-US": "[100] Grassland Brawl - Hill Wind Edition",
+        "pt-BR": "[100] Vila da Colina",
+        "es-ES": "[100] Contienda en la pradera: edición Viento de la colina"
+    },
+    "0rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "07GEDQ": {
+        "en-US": "[100] Collect Good Fur",
+        "pt-BR": "[100] Pelos de Cachorro",
+        "es-ES": "[100] Recolectar Pieles de calidad"
+    },
+    "1LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "1bGEDQ": {
+        "en-US": "[100] Weed War",
+        "pt-BR": "[100] Guerra contra as Plantas",
+        "es-ES": "[100] Guerra de malas hierbas"
+    },
+    "1rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "17GEDQ": {
+        "en-US": "[100] Volcanic Mutation",
+        "pt-BR": "[100] Mutação Vulcânica",
+        "es-ES": "[100] Mutación volcánica"
+    },
+    "2LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "2bGEDQ": {
+        "en-US": "[100] Grassland Brawl - Desert Wolf Edition",
+        "pt-BR": "[100] Alcateia no Deserto",
+        "es-ES": "[100] Contienda en la pradera: edición Lobo del desierto"
+    },
+    "2rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "27GEDQ": {
+        "en-US": "[100] Cold heart, cool cuisine",
+        "pt-BR": "[100] Minhas Bebidas Geladas",
+        "es-ES": "[100] Corazones fríos, cocina fresca"
+    },
+    "3LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "3bGEDQ": {
+        "en-US": "[100] Yeti who can't communicate",
+        "pt-BR": "[100] Monstro das Neves",
+        "es-ES": "[100] Yeti que no puede comunicarse"
+    },
+    "3rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "37GEDQ": {
+        "en-US": "[100] How hard are ice crystals?",
+        "pt-BR": "[100] Cristais são Duros?",
+        "es-ES": "[100] ¿Qué dureza tienen los cristales de hielo?"
+    },
+    "4LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "4bGEDQ": {
+        "en-US": "[110] Inside Mimic's Box",
+        "pt-BR": "[110] Uma Caixa Viva",
+        "es-ES": "[110] Dentro de la caja del Mímico"
+    },
+    "4rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "47GEDQ": {
+        "en-US": "[110] Floating Old Wisdom",
+        "pt-BR": "[110] Palavras ao Vento",
+        "es-ES": "[110] Antigua sabiduría flotante"
+    },
+    "5LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "5bGEDQ": {
+        "en-US": "[110] Baron of Old Castle",
+        "pt-BR": "[110] Barão do Reino",
+        "es-ES": "[110] Barón del castillo ancestral"
+    },
+    "5rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "57GEDQ": {
+        "en-US": "[110] Pieces of Knowledge",
+        "pt-BR": "[110] Páginas de um Livro",
+        "es-ES": "[110] Piezas de conocimiento"
+    },
+    "6LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "6bGEDQ": {
+        "en-US": "[110] Old Magic Records",
+        "pt-BR": "[110] Manuscritos Mágicos",
+        "es-ES": "[110] Viejos registros mágicos"
+    },
+    "6rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "67GEDQ": {
+        "en-US": "[110] Recycling Collection",
+        "pt-BR": "[110] Aula de Reciclagem",
+        "es-ES": "[110] Recolección de reciclaje"
+    },
+    "7LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "7bGEDQ": {
+        "en-US": "[110] Just an empty armor",
+        "pt-BR": "[110] Armadura Vazia",
+        "es-ES": "[110] Solo una armadura vacía"
+    },
+    "7rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "77GEDQ": {
+        "en-US": "[110] A Righteous Soul",
+        "pt-BR": "[110] Ajeite a Postura",
+        "es-ES": "[110] Un alma justa"
+    },
+    "8LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "8bGEDQ": {
+        "en-US": "[110] Knight's Nemesis",
+        "pt-BR": "[110] Viajante sem Rumo",
+        "es-ES": "[110] Némesis del Caballero"
+    },
+    "8rGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "87GEDQ": {
+        "en-US": "[110] A Worthy Opponent",
+        "pt-BR": "[110] Inimigo à Altura",
+        "es-ES": "[110] Un adversario digno"
+    },
+    "9LGEDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "9bGEDQ": {
+        "en-US": "[110] Lady with Leaves",
+        "pt-BR": "[110] Menina Veneno",
+        "es-ES": "[110] Dama con hojas"
+    },
+    "9rGEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "97GEDQ": {
+        "en-US": "[110] Dried Flower Bookmark",
+        "pt-BR": "[110] Marcador de Páginas",
+        "es-ES": "[110] Marcador de flores secas"
+    },
+    "+LGEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "+bGEDQ": {
+        "en-US": "[110] Good... Muscle!",
+        "pt-BR": "[110] Belos Músculos!",
+        "es-ES": "[110] ¡Buenos... músculos!"
+    },
+    "+rGEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "+7GEDQ": {
+        "en-US": "[110] Like something out of a fairy tale",
+        "pt-BR": "[110] Conto de Fadas",
+        "es-ES": "[110] Como salido de un cuento de hadas"
+    },
+    "/LGEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "/bGEDQ": {
+        "en-US": "[110] Stimulating Charm",
+        "pt-BR": "[110] Espinhos Perigosos",
+        "es-ES": "[110] Carisma estimulante"
+    },
+    "/rGEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "/7GEDQ": {
+        "en-US": "[110] A Certain Magical Horn",
+        "pt-BR": "[110] Poder do Chifre",
+        "es-ES": "[110] Cierto cuerno mágico"
+    },
+    "ALKEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "AbKEDQ": {
+        "en-US": "[110] Swarm of Iron Ants-1",
+        "pt-BR": "[110] Formigas de Aço",
+        "es-ES": "[110] Enjambre de hormigas de hierro 1"
+    },
+    "ArKEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "A7KEDQ": {
+        "en-US": "[110] Swarm of Iron Ants-2",
+        "pt-BR": "[110] Formigas de Ferro",
+        "es-ES": "[110] Enjambre de hormigas de hierro 2"
+    },
+    "BLKEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "BbKEDQ": {
+        "en-US": "[110] Colorful Dimik-1",
+        "pt-BR": "[110] Robôs Coloridos",
+        "es-ES": "[110] Dimik colorido 1"
+    },
+    "BrKEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "B7KEDQ": {
+        "en-US": "[110] Colorful Dimik-2",
+        "pt-BR": "[110] Robôs Multicoloridos",
+        "es-ES": "[110] Dimik colorido 2"
+    },
+    "CLKEDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "CbKEDQ": {
+        "en-US": "{0}",
+        "pt-BR": "{0}",
+        "es-ES": "{0}"
+    },
+    "CrKEDQ": {
+        "en-US": "^8C8C8CCapture Nightmare Terror (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Filtro dos Sonhos^000000",
+        "es-ES": "^8C8C8CCaptura de Terror Nocturno(en curso)^000000"
+    },
+    "C7KEDQ": {
+        "en-US": "^8C8C8CCapture Nightmare Terror (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Filtro dos Sonhos^000000",
+        "es-ES": "^8C8C8CCaptura de Terror Nocturno(en espera)^000000"
+    },
+    "DLKEDQ": {
+        "en-US": "^8C8C8CCapture Deleter (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Dragões de Fogo^000000",
+        "es-ES": "^8C8C8CCaptura de Deleter(en curso)^000000"
+    },
+    "DbKEDQ": {
+        "en-US": "^8C8C8CCapture Deleter (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Dragões de Fogo^000000",
+        "es-ES": "^8C8C8CCaptura de Deleter(en espera)^000000"
+    },
+    "DrKEDQ": {
+        "en-US": "^8C8C8CCollect Hardened Lava (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Estudo Geológico^000000",
+        "es-ES": "^8C8C8CRecolección de lava solidificada(en curso)^000000"
+    },
+    "D7KEDQ": {
+        "en-US": "^8C8C8CCollect Hardened Lava (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Estudo Geológico^000000",
+        "es-ES": "^8C8C8CRecolección de lava solidificada(en espera)^000000"
+    },
+    "ELKEDQ": {
+        "en-US": "^8C8C8CPitiful Clown (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pobre Palhaço^000000",
+        "es-ES": "^8C8C8CEl payaso desdichado(en curso)^000000"
+    },
+    "EbKEDQ": {
+        "en-US": "^8C8C8CPitiful Clown (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pobre Palhaço^000000",
+        "es-ES": "^8C8C8CEl payaso desdichado(en espera)^000000"
+    },
+    "ErKEDQ": {
+        "en-US": "^8C8C8COne Little Bug (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) O MVP mais Forte^000000",
+        "es-ES": "^8C8C8CUn pequeño insecto(en curso)^000000"
+    },
+    "E7KEDQ": {
+        "en-US": "^8C8C8COne Little Bug (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) O MVP mais Forte^000000",
+        "es-ES": "^8C8C8CUn pequeño insecto(en espera)^000000"
+    },
+    "FLKEDQ": {
+        "en-US": "^8C8C8CIf You're Alive, Then to Heaven (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Limpeza de Esgoto^000000",
+        "es-ES": "^8C8C8CAl cielo si sigue con vida(en curso)^000000"
+    },
+    "FbKEDQ": {
+        "en-US": "^8C8C8CIf You're Alive, Then to Heaven (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Limpeza de Esgoto^000000",
+        "es-ES": "^8C8C8CAl cielo si sigue con vida(en espera)^000000"
+    },
+    "FrKEDQ": {
+        "en-US": "^8C8C8CDo Not Doubt (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Mão Inimiga^000000",
+        "es-ES": "^8C8C8CNo dudes(en curso)^000000"
+    },
+    "F7KEDQ": {
+        "en-US": "^8C8C8CDo Not Doubt (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Mão Inimiga^000000",
+        "es-ES": "^8C8C8CNo dudes(en espera)^000000"
+    },
+    "GLKEDQ": {
+        "en-US": "^8C8C8CDelicious, No, Poor Soul (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Touro Valente^000000",
+        "es-ES": "^8C8C8CUn alma deliciosa, no, desdichada(en curso)^000000"
+    },
+    "GbKEDQ": {
+        "en-US": "^8C8C8CDelicious, No, Poor Soul (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Touro Valente^000000",
+        "es-ES": "^8C8C8CUn alma deliciosa, no, desdichada(en espera)^000000"
+    },
+    "GrKEDQ": {
+        "en-US": "^8C8C8CThe Girl Draped in Leaves (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Menina das Flores^000000",
+        "es-ES": "^8C8C8CLa joven cubierta de hojas(en curso)^000000"
+    },
+    "G7KEDQ": {
+        "en-US": "^8C8C8CThe Girl Draped in Leaves (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Menina das Flores^000000",
+        "es-ES": "^8C8C8CLa joven cubierta de hojas(en espera)^000000"
+    },
+    "HLKEDQ": {
+        "en-US": "^8C8C8CElectrifying Beauty (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Brilho Fatal^000000",
+        "es-ES": "^8C8C8CBelleza electrizante(en curso)^000000"
+    },
+    "HbKEDQ": {
+        "en-US": "^8C8C8CElectrifying Beauty (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Brilho Fatal^000000",
+        "es-ES": "^8C8C8CBelleza electrizante(en espera)^000000"
+    },
+    "HrKEDQ": {
+        "en-US": "^8C8C8CKing of the Otherworld (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Rei do Novo Mundo^000000",
+        "es-ES": "^8C8C8CEl rey del otro mundo(en curso)^000000"
+    },
+    "H7KEDQ": {
+        "en-US": "^8C8C8CKing of the Otherworld (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Rei do Novo Mundo^000000",
+        "es-ES": "^8C8C8CEl rey del otro mundo(en espera)^000000"
+    },
+    "ILKEDQ": {
+        "en-US": "^8C8C8CGrassland Brawl - Axe Kobold Edition (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Vilarejo dos Kobolds^000000",
+        "es-ES": "^8C8C8CReyerta en Pradera - Edición de Kobold (Hacha)(en curso)^000000"
+    },
+    "IbKEDQ": {
+        "en-US": "^8C8C8CGrassland Brawl - Axe Kobold Edition (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Vilarejo dos Kobolds^000000",
+        "es-ES": "^8C8C8CReyerta en Pradera - Edición de Kobold (Hacha)(en espera)^000000"
+    },
+    "IrKEDQ": {
+        "en-US": "^8C8C8CGrassland Brawl - Hill Wind Edition (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Vila da Colina^000000",
+        "es-ES": "^8C8C8CReyerta en Pradera - Edición de Hill Wind(en curso)^000000"
+    },
+    "I7KEDQ": {
+        "en-US": "^8C8C8CGrassland Brawl - Hill Wind Edition (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Vila da Colina^000000",
+        "es-ES": "^8C8C8CReyerta en Pradera - Edición de Hill Wind(en espera)^000000"
+    },
+    "JLKEDQ": {
+        "en-US": "^8C8C8CEven Dog Hair Is Scarce When You Need It (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pelos de Cachorro^000000",
+        "es-ES": "^8C8C8CNi pelo de perro hay cuando lo necesitas.(en curso)^000000"
+    },
+    "JbKEDQ": {
+        "en-US": "^8C8C8CEven Dog Hair Is Scarce When You Need It (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pelos de Cachorro^000000",
+        "es-ES": "^8C8C8CNi pelo de perro hay cuando lo necesitas.(en espera)^000000"
+    },
+    "JrKEDQ": {
+        "en-US": "^8C8C8CWar on Weeds (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Guerra contra as Plantas^000000",
+        "es-ES": "^8C8C8CGuerra contra la maleza(en curso)^000000"
+    },
+    "J7KEDQ": {
+        "en-US": "^8C8C8CWar on Weeds (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Guerra contra as Plantas^000000",
+        "es-ES": "^8C8C8CGuerra contra la maleza(en espera)^000000"
+    },
+    "KLKEDQ": {
+        "en-US": "^8C8C8CVolcanic Mutation (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Mutação Vulcânica^000000",
+        "es-ES": "^8C8C8CLa mutación del volcán(en curso)^000000"
+    },
+    "KbKEDQ": {
+        "en-US": "^8C8C8CVolcanic Mutation (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Mutação Vulcânica^000000",
+        "es-ES": "^8C8C8CLa mutación del volcán(en espera)^000000"
+    },
+    "KrKEDQ": {
+        "en-US": "^8C8C8CGrassland Brawl - Desert Wolf Edition (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Alcateia no Deserto^000000",
+        "es-ES": "^8C8C8CReyerta en Pradera - Edición de Lobo del Desierto(en curso)^000000"
+    },
+    "K7KEDQ": {
+        "en-US": "^8C8C8CGrassland Brawl - Desert Wolf Edition (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Alcateia no Deserto^000000",
+        "es-ES": "^8C8C8CReyerta en Pradera - Edición de Lobo del Desierto(en espera)^000000"
+    },
+    "LLKEDQ": {
+        "en-US": "^8C8C8CCold Heart, Cool Cuisine (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Minhas Bebidas Geladas^000000",
+        "es-ES": "^8C8C8CCorazón frío, cocina refrescante(en curso)^000000"
+    },
+    "LbKEDQ": {
+        "en-US": "^8C8C8CCold Heart, Cool Cuisine (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Minhas Bebidas Geladas^000000",
+        "es-ES": "^8C8C8CCorazón frío, cocina refrescante(en espera)^000000"
+    },
+    "LrKEDQ": {
+        "en-US": "^8C8C8CThe Yeti Who Won't Listen (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Monstro das Neves^000000",
+        "es-ES": "^8C8C8CEl yeti con el que no se puede razonar(en curso)^000000"
+    },
+    "L7KEDQ": {
+        "en-US": "^8C8C8CThe Yeti Who Won't Listen (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Monstro das Neves^000000",
+        "es-ES": "^8C8C8CEl yeti con el que no se puede razonar(en espera)^000000"
+    },
+    "MLKEDQ": {
+        "en-US": "^8C8C8CHow Hard Are Ice Crystals? (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cristais são Duros?^000000",
+        "es-ES": "^8C8C8C¿Qué tan duro es un cristal de hielo?(en curso)^000000"
+    },
+    "MbKEDQ": {
+        "en-US": "^8C8C8CHow Hard Are Ice Crystals? (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cristais são Duros?^000000",
+        "es-ES": "^8C8C8C¿Qué tan duro es un cristal de hielo?(en espera)^000000"
+    },
+    "MrKEDQ": {
+        "en-US": "^8C8C8CInside the Mimic's Box (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Uma Caixa Viva^000000",
+        "es-ES": "^8C8C8CDentro del cofre de Mimic(en curso)^000000"
+    },
+    "M7KEDQ": {
+        "en-US": "^8C8C8CInside the Mimic's Box (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Uma Caixa Viva^000000",
+        "es-ES": "^8C8C8CDentro del cofre de Mimic(en espera)^000000"
+    },
+    "NLKEDQ": {
+        "en-US": "^8C8C8CWandering Ancient Wisdom (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Palavras ao Vento^000000",
+        "es-ES": "^8C8C8CLa antigua sabiduría errante(en curso)^000000"
+    },
+    "NbKEDQ": {
+        "en-US": "^8C8C8CWandering Ancient Wisdom (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Palavras ao Vento^000000",
+        "es-ES": "^8C8C8CLa antigua sabiduría errante(en espera)^000000"
+    },
+    "NrKEDQ": {
+        "en-US": "^8C8C8CBaron of the Old Castle (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Barão do Reino^000000",
+        "es-ES": "^8C8C8CEl barón del castillo antiguo(en curso)^000000"
+    },
+    "N7KEDQ": {
+        "en-US": "^8C8C8CBaron of the Old Castle (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Barão do Reino^000000",
+        "es-ES": "^8C8C8CEl barón del castillo antiguo(en espera)^000000"
+    },
+    "OLKEDQ": {
+        "en-US": "^8C8C8CScattered Pages of Knowledge (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Páginas de um Livro^000000",
+        "es-ES": "^8C8C8CHojas de conocimiento(en curso)^000000"
+    },
+    "ObKEDQ": {
+        "en-US": "^8C8C8CScattered Pages of Knowledge (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Páginas de um Livro^000000",
+        "es-ES": "^8C8C8CHojas de conocimiento(en espera)^000000"
+    },
+    "OrKEDQ": {
+        "en-US": "^8C8C8COld Magical Records (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Manuscritos Mágicos^000000",
+        "es-ES": "^8C8C8CAntiguos registros mágicos(en curso)^000000"
+    },
+    "O7KEDQ": {
+        "en-US": "^8C8C8COld Magical Records (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Manuscritos Mágicos^000000",
+        "es-ES": "^8C8C8CAntiguos registros mágicos(en espera)^000000"
+    },
+    "PLKEDQ": {
+        "en-US": "^8C8C8CCollect Recyclables (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Aula de Reciclagem^000000",
+        "es-ES": "^8C8C8CRecolección de materiales reciclables(en curso)^000000"
+    },
+    "PbKEDQ": {
+        "en-US": "^8C8C8CCollect Recyclables (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Aula de Reciclagem^000000",
+        "es-ES": "^8C8C8CRecolección de materiales reciclables(en espera)^000000"
+    },
+    "PrKEDQ": {
+        "en-US": "^8C8C8CJust an Empty Armor (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Armadura Vazia^000000",
+        "es-ES": "^8C8C8CSolo una Armadura vacía(en curso)^000000"
+    },
+    "P7KEDQ": {
+        "en-US": "^8C8C8CJust an Empty Armor (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Armadura Vazia^000000",
+        "es-ES": "^8C8C8CSolo una Armadura vacía(en espera)^000000"
+    },
+    "QLKEDQ": {
+        "en-US": "^8C8C8CPerhaps an Upright Soul (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Ajeite a Postura^000000",
+        "es-ES": "^8C8C8CQuizá un alma recta(en curso)^000000"
+    },
+    "QbKEDQ": {
+        "en-US": "^8C8C8CPerhaps an Upright Soul (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Ajeite a Postura^000000",
+        "es-ES": "^8C8C8CQuizá un alma recta(en espera)^000000"
+    },
+    "QrKEDQ": {
+        "en-US": "^8C8C8CA Knight's Nemesis (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Viajante sem Rumo^000000",
+        "es-ES": "^8C8C8CEl enemigo natural de los caballeros(en curso)^000000"
+    },
+    "Q7KEDQ": {
+        "en-US": "^8C8C8CA Knight's Nemesis (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Viajante sem Rumo^000000",
+        "es-ES": "^8C8C8CEl enemigo natural de los caballeros(en espera)^000000"
+    },
+    "RLKEDQ": {
+        "en-US": "^8C8C8CA Worthy Opponent (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Inimigo à Altura^000000",
+        "es-ES": "^8C8C8CUn rival digno(en curso)^000000"
+    },
+    "RbKEDQ": {
+        "en-US": "^8C8C8CA Worthy Opponent (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Inimigo à Altura^000000",
+        "es-ES": "^8C8C8CUn rival digno(en espera)^000000"
+    },
+    "RrKEDQ": {
+        "en-US": "^8C8C8CThe Lady Draped in Leaves (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Menina Veneno^000000",
+        "es-ES": "^8C8C8CLa dama cubierta de hojas(en curso)^000000"
+    },
+    "R7KEDQ": {
+        "en-US": "^8C8C8CThe Lady Draped in Leaves (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Menina Veneno^000000",
+        "es-ES": "^8C8C8CLa dama cubierta de hojas(en espera)^000000"
+    },
+    "SLKEDQ": {
+        "en-US": "^8C8C8CDried Flower Bookmark (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Marcador de Páginas^000000",
+        "es-ES": "^8C8C8CMarcador de flores secas(en curso)^000000"
+    },
+    "SbKEDQ": {
+        "en-US": "^8C8C8CDried Flower Bookmark (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Marcador de Páginas^000000",
+        "es-ES": "^8C8C8CMarcador de flores secas(en espera)^000000"
+    },
+    "SrKEDQ": {
+        "en-US": "^8C8C8CNice... Muscles! (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Belos Músculos!^000000",
+        "es-ES": "^8C8C8C¡Qué buenos... músculos!(en curso)^000000"
+    },
+    "S7KEDQ": {
+        "en-US": "^8C8C8CNice... Muscles! (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Belos Músculos!^000000",
+        "es-ES": "^8C8C8C¡Qué buenos... músculos!(en espera)^000000"
+    },
+    "TLKEDQ": {
+        "en-US": "^8C8C8CStraight Out of a Fairy Tale (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Conto de Fadas^000000",
+        "es-ES": "^8C8C8CComo salido de un cuento de hadas(en curso)^000000"
+    },
+    "TbKEDQ": {
+        "en-US": "^8C8C8CStraight Out of a Fairy Tale (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Conto de Fadas^000000",
+        "es-ES": "^8C8C8CComo salido de un cuento de hadas(en espera)^000000"
+    },
+    "TrKEDQ": {
+        "en-US": "^8C8C8CProvocative Charm (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Espinhos Perigosos^000000",
+        "es-ES": "^8C8C8CEncanto provocador(en curso)^000000"
+    },
+    "T7KEDQ": {
+        "en-US": "^8C8C8CProvocative Charm (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Espinhos Perigosos^000000",
+        "es-ES": "^8C8C8CEncanto provocador(En espera)^000000"
+    },
+    "ULKEDQ": {
+        "en-US": "^8C8C8CHorn Imbued with Magic (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Poder do Chifre^000000",
+        "es-ES": "^8C8C8CCuerno cargado de magia(En curso)^000000"
+    },
+    "UbKEDQ": {
+        "en-US": "^8C8C8CHorn Imbued with Magic (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Poder do Chifre^000000",
+        "es-ES": "^8C8C8CCuerno cargado de magia(En espera)^000000"
+    },
+    "UrKEDQ": {
+        "en-US": "^8C8C8CSwarm of Iron Ants-1 (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Formigas de Aço^000000",
+        "es-ES": "^8C8C8CEnjambre de hormigas de hierro-1(En curso)^000000"
+    },
+    "U7KEDQ": {
+        "en-US": "^8C8C8CSwarm of Iron Ants-1 (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Formigas de Aço^000000",
+        "es-ES": "^8C8C8CEnjambre de hormigas de hierro-1(En espera)^000000"
+    },
+    "VLKEDQ": {
+        "en-US": "^8C8C8CSwarm of Iron Ants-2 (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Formigas de Ferro^000000",
+        "es-ES": "^8C8C8CEnjambre de hormigas de hierro-2(En curso)^000000"
+    },
+    "VbKEDQ": {
+        "en-US": "^8C8C8CSwarm of Iron Ants-2 (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Formigas de Ferro^000000",
+        "es-ES": "^8C8C8CEnjambre de hormigas de hierro-2(En espera)^000000"
+    },
+    "VrKEDQ": {
+        "en-US": "^8C8C8CColorful Purple Dimik-1 (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Robôs Coloridos^000000",
+        "es-ES": "^8C8C8CColorido Dimik Morado-1(En curso)^000000"
+    },
+    "V7KEDQ": {
+        "en-US": "^8C8C8CColorful Purple Dimik-1 (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Robôs Coloridos^000000",
+        "es-ES": "^8C8C8CColorido Dimik Morado-1(En espera)^000000"
+    },
+    "WLKEDQ": {
+        "en-US": "^8C8C8CColorful Purple Dimik-2 (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Robôs Multicoloridos^000000",
+        "es-ES": "^8C8C8CColorido Dimik Morado-2(En curso)^000000"
+    },
+    "WbKEDQ": {
+        "en-US": "^8C8C8CColorful Purple Dimik-2 (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Robôs Multicoloridos^000000",
+        "es-ES": "^8C8C8CColorido Dimik Morado-2(En espera)^000000"
+    },
+    "WrKEDQ": {
+        "en-US": "[100] Magma Dungeon",
+        "pt-BR": "[100] Caverna de Magma",
+        "es-ES": "[100] Mazmorra Magma"
+    },
+    "W7KEDQ": {
+        "en-US": "Glastheim[100-110]",
+        "pt-BR": "[100-110] Glastheim",
+        "es-ES": "Glastheim[100-110]"
+    },
+    "XLKEDQ": {
+        "en-US": "Midgard Allied Forces Post[100-110]",
+        "pt-BR": "[100-110] Ash Vacuum",
+        "es-ES": "Campamento de la Alianza de Midgard[100-110]"
+    },
+    "XbKEDQ": {
+        "en-US": "[100] Arunafeltz",
+        "pt-BR": "[100] Arunafeltz",
+        "es-ES": "[100] Arunafeltz"
+    },
+    "XrKEDQ": {
+        "en-US": "[110] Thanatos Tower",
+        "pt-BR": "[110] Torre de Thanatos",
+        "es-ES": "[110] Torre de Thanatos"
+    },
+    "X7KEDQ": {
+        "en-US": "[110] Juperos",
+        "pt-BR": "[110] Juperos",
+        "es-ES": "[110] Juperos"
+    },
+    "YLKEDQ": {
+        "en-US": "Stop.",
+        "pt-BR": "Cancelar",
+        "es-ES": "Dejarlo."
+    },
+    "YbKEDQ": {
+        "en-US": "Your level is too low to proceed with this request.",
+        "pt-BR": "Você não tem nível suficiente para essa missão.",
+        "es-ES": "No tienes el nivel necesario para realizar este encargo."
+    },
+    "YrKEDQ": {
+        "en-US": "You have already completed this request.",
+        "pt-BR": "Essa missão já foi concluída.",
+        "es-ES": "Ya completaste este encargo."
+    },
+    "Y7KEDQ": {
+        "en-US": "This request is currently in progress.",
+        "pt-BR": "Esta missão já está em andamento.",
+        "es-ES": "Este encargo ya está en curso."
+    },
+    "ZLKEDQ": {
+        "en-US": "The first request received directly from the client must be completed by returning to the client.",
+        "pt-BR": "Você recebeu essa missão diretamente do Solicitante, portanto você deverá reportá-la para ele.",
+        "es-ES": "El primer encargo recibido directamente del solicitante debe completarse regresando con el solicitante."
+    },
+    "ZbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Nogg Road Lava Dungeon\nObjective: Defeat Nightmare Terror 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Pesadelos Sombrios\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de lava de Nogg Road\nObjetivo: Terror Nocturno 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "ZrKEDQ": {
+        "en-US": "[Capture Nightmare Terror]\nA request from the museum staff member near the Nogg Road entrance, in front of the Monster Museum\nLocation: Nogg Road Lava Dungeon\nObjective: Defeat Nightmare Terror 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Filtro dos Sonhos]\nSolicitação de um Diligente do Museu\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Pesadelos Sombrios\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Captura de Terror Nocturno]\nEncargo del personal del museo frente al Museo de Monstruos, en la entrada de Nogg Road\nUbicación: Calabozo de lava de Nogg Road\nObjetivo: Terror Nocturno 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "Z7KEDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar missão.",
+        "es-ES": "Aceptar."
+    },
+    "aLKEDQ": {
+        "en-US": "View another.",
+        "pt-BR": "Ver outras missões.",
+        "es-ES": "Ver otra cosa."
+    },
+    "abKEDQ": {
+        "en-US": "A request from the museum staff member near the Nogg Road entrance, in front of the Monster Museum\nYou have accepted the ^4D4DFF<Capture Nightmare Terror>^000000 quest.",
+        "pt-BR": "A solicitação de um Diligente do Museu\n^4D4DFF[Filtro dos Sonhos]^000000 foi aceita.",
+        "es-ES": "Encargo del personal del museo frente al Museo de Monstruos, en la entrada de Nogg Road\nHas aceptado la misión ^4D4DFF<Captura de Terror Nocturno>^000000."
+    },
+    "arKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Nogg Road Lava Dungeon\nObjective: Defeat Flying Deleter 30, Ground Deleter 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Deletérios e 30 Exterminadores\nRecompensa: EXP base 160.000, EXP classe 160.000, 2x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de lava de Nogg Road\nObjetivo: Deleter Volador 30, Deleter Terrestre 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 2 unidades"
+    },
+    "a7KEDQ": {
+        "en-US": "[Capture Deleters]\nA request from the museum staff member near the Nogg Road entrance, in front of the Monster Museum\nLocation: Nogg Road Lava Dungeon\nObjective: Defeat Flying Deleter 30, Ground Deleter 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 2",
+        "pt-BR": "[Dragões de Fogo]\nSolicitação de um Diligente do Museu\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Deletérios e 30 Exterminadores\nRecompensa: EXP base 160.000, EXP classe 160.000, 2x Moeda do Éden",
+        "es-ES": "[Captura de Deleters]\nEncargo del personal del museo frente al Museo de Monstruos, en la entrada de Nogg Road\nUbicación: Calabozo de lava de Nogg Road\nObjetivo: Deleter Volador 30, Deleter Terrestre 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 2 unidades"
+    },
+    "bLKEDQ": {
+        "en-US": "A request from the museum staff member near the Nogg Road entrance, in front of the Monster Museum\nYou have accepted the ^4D4DFF<Capture Deleters>^000000 quest.",
+        "pt-BR": "A solicitação de um Diligente do Museu\n^4D4DFF[Dragões de Fogo]^000000 foi aceita.",
+        "es-ES": "Encargo del personal del museo frente al Museo de Monstruos, en la entrada de Nogg Road\nHas aceptado la misión ^4D4DFF<Captura de Deleters>^000000."
+    },
+    "bbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Nogg Road Lava Dungeon\nObjective: Collect Lava 10\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Caverna de Magma\nObjetivo: Coletar 10 Pedras Pomes\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de lava de Nogg Road\nObjetivo: Lava 10 unidades recolectadas\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "brKEDQ": {
+        "en-US": "[Collect Hardened Lava]\nA request from the museum staff member near the Nogg Road entrance, in front of the Monster Museum\nLocation: Nogg Road Lava Dungeon\nObjective: Collect Lava 10\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Estudo Geológico]\nSolicitação de um Diligente do Museu\nLocal: Caverna de Magma\nObjetivo: Coletar 10 Pedras Pomes\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Recolección de lava solidificada]\nEncargo del personal del museo frente al Museo de Monstruos, en la entrada de Nogg Road\nUbicación: Calabozo de lava de Nogg Road\nObjetivo: Lava 10 unidades recolectadas\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "b7KEDQ": {
+        "en-US": "A request from the museum staff member near the Nogg Road entrance, in front of the Monster Museum\nYou have accepted the ^4D4DFF<Collect Hardened Lava>^000000 quest.",
+        "pt-BR": "A solicitação de um Diligente do Museu\n^4D4DFF[Estudo Geológico]^000000 foi aceita.",
+        "es-ES": "Encargo del personal del museo frente al Museo de Monstruos, en la entrada de Nogg Road\nHas aceptado la misión ^4D4DFF<Recolección de lava solidificada>^000000."
+    },
+    "cLKEDQ": {
+        "en-US": "Stop,",
+        "pt-BR": "Cancelar",
+        "es-ES": "Dejarlo,"
+    },
+    "cbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Carat 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Carats\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Carat 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "crKEDQ": {
+        "en-US": "[Pitiful Clown]\nA request from Darkes in front of Glastheim Castle\nLocation: Glastheim\nObjective: Defeat Carat 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Pobre Palhaço]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Carats\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[El pobre payaso]\nEncargo de Darkes frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Carat 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "c7KEDQ": {
+        "en-US": "A request from Darkes in front of Glastheim Castle\nYou have accepted the ^4D4DFF<Pitiful Clown>^000000 quest.",
+        "pt-BR": "A solicitação do Padre Lúcifer\n^4D4DFF[Pobre Palhaço]^000000 foi aceita.",
+        "es-ES": "Encargo de Darkes frente al castillo principal de Glastheim\nHas aceptado la misión ^4D4DFF<El pobre payaso>^000000."
+    },
+    "dLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Arclouse 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Arclouses\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Arclouse 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "dbKEDQ": {
+        "en-US": "[One Little Bug]\nA request from Darkes in front of Glastheim Castle\nLocation: Glastheim\nObjective: Defeat Arclouse 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[O MVP mais Forte]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Arclouses\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Un pequeño insecto]\nEncargo de Darkes frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Arclouse 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "drKEDQ": {
+        "en-US": "A request from Darkes in front of Glastheim Castle\nYou have accepted the ^4D4DFF<One Little Bug>^000000 quest.",
+        "pt-BR": "A solicitação do Padre Lúcifer\n^4D4DFF[O MVP mais Forte]^000000 foi aceita.",
+        "es-ES": "Encargo de Darkes frente al castillo principal de Glastheim\nHas aceptado la misión ^4D4DFF<Un pequeño insecto>^000000."
+    },
+    "d7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Anolian 30\nReward: Exp 200000, Jexp 200000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Anolians\nRecompensa: EXP base 200.000, EXP classe 200.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Anolian 30 eliminaciones\nRecompensa: Exp 200000, Jexp 200000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "eLKEDQ": {
+        "en-US": "[If You're Alive, Then to Heaven]\nA request from Darkes in front of Glastheim Castle\nLocation: Glastheim\nObjective: Defeat Anolian 30\nReward: Exp 200000, Jexp 200000, Eden Group Coin 1",
+        "pt-BR": "[Limpeza de Esgoto]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Anolians\nRecompensa: EXP base 200.000, EXP classe 200.000, 1x Moeda do Éden",
+        "es-ES": "[Si sigue con vida, al cielo]\nEncargo de Darkes frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Anolian 30 eliminaciones\nRecompensa: Exp 200000, Jexp 200000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "ebKEDQ": {
+        "en-US": "A request from Darkes in front of Glastheim Castle\nYou have accepted the ^4D4DFF<If You're Alive, Then to Heaven>^000000 quest.",
+        "pt-BR": "A solicitação do Padre Lúcifer\n^4D4DFF[Limpeza de Esgoto]^000000 foi aceita.",
+        "es-ES": "Encargo de Darkes frente al castillo principal de Glastheim\nHas aceptado la misión ^4D4DFF<Si sigue con vida, al cielo>^000000."
+    },
+    "erKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Sting 30\nReward: Exp 200000, Jexp 200000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Stings\nRecompensa: EXP base 200.000, EXP classe 200.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Sting 30 eliminaciones\nRecompensa: Exp 200000, Jexp 200000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "e7KEDQ": {
+        "en-US": "[Do Not Doubt]\nA request from Darkes in front of Glastheim Castle\nLocation: Glastheim\nObjective: Defeat Sting 30\nReward: Exp 200000, Jexp 200000, Eden Group Coin 1",
+        "pt-BR": "[Mão Inimiga]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Stings\nRecompensa: EXP base 200.000, EXP classe 200.000, 1x Moeda do Éden",
+        "es-ES": "[No dudes]\nEncargo de Darkes frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Sting 30 eliminaciones\nRecompensa: Exp 200000, Jexp 200000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "fLKEDQ": {
+        "en-US": "A request from Darkes in front of Glastheim Castle\nYou have accepted the ^4D4DFF<Do Not Doubt>^000000 quest.",
+        "pt-BR": "A solicitação do Padre Lúcifer\n^4D4DFF[Mão Inimiga]^000000 foi aceita.",
+        "es-ES": "Encargo de Darkes frente al castillo principal de Glastheim\nHas aceptado la misión ^4D4DFF<No dudes>^000000."
+    },
+    "fbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Majoruros 30\nReward: Exp 260000, Jexp 260000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Majorous\nRecompensa: EXP base 260.000, EXP classe 260.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Majoruros 30 eliminaciones\nRecompensa: Exp 260000, Jexp 260000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "frKEDQ": {
+        "en-US": "[Delicious, No, Poor Soul]\nA request from Darkes in front of Glastheim Castle\nLocation: Glastheim\nObjective: Defeat Majoruros 30\nReward: Exp 260000, Jexp 260000, Eden Group Coin 1",
+        "pt-BR": "[Touro Valente]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Majorous\nRecompensa: EXP base 260.000, EXP classe 260.000, 1x Moeda do Éden",
+        "es-ES": "[Un alma deliciosa, no, una pobre alma]\nEncargo de Darkes frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Majoruros 30 eliminaciones\nRecompensa: Exp 260000, Jexp 260000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "f7KEDQ": {
+        "en-US": "A request from Darkes in front of Glastheim Castle\nYou have accepted the ^4D4DFF<Delicious, No, Poor Soul>^000000 quest.",
+        "pt-BR": "A solicitação do Padre Lúcifer\n^4D4DFF[Touro Valente]^000000 foi aceita.",
+        "es-ES": "Encargo de Darkes frente al castillo principal de Glastheim\nHas aceptado la misión ^4D4DFF<Un alma deliciosa, no, una pobre alma>^000000."
+    },
+    "gLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Raydric 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Raydrics\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Raydric 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "gbKEDQ": {
+        "en-US": "[Just an Empty Armor]\nA request from Chiab in front of the Glastheim Chivalry\nLocation: Glastheim\nObjective: Defeat Raydric 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Armadura Vazia]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Caçar 30 Raydrics\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Una simple Armadura vacía]\nEncargo de Chiav frente a la Orden de Caballeros de Glastheim\nUbicación: Glastheim\nObjetivo: Raydric 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "grKEDQ": {
+        "en-US": "A request from Chiab in front of the Glastheim Chivalry\nYou have accepted the ^4D4DFF<Just an Empty Armor>^000000 quest.",
+        "pt-BR": "A solicitação do Templário Thiago\n^4D4DFF[Armadura Vazia]^000000 foi aceita.",
+        "es-ES": "Encargo de Chiav frente a la Orden de Caballeros de Glastheim\nHas aceptado la misión ^4D4DFF<Una simple Armadura vacía>^000000."
+    },
+    "g7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Khalitzburg 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Khalitzburgs\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Khalitzburg 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "hLKEDQ": {
+        "en-US": "[Perhaps an Upright Soul]\nA request from Chiab in front of the Glastheim Chivalry\nLocation: Glastheim\nObjective: Defeat Khalitzburg 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Ajeite a Postura]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Caçar 30 Khalitzburgs\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Quizá un alma íntegra]\nEncargo de Chiav frente a la Orden de Caballeros de Glastheim\nUbicación: Glastheim\nObjetivo: Khalitzburg 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "hbKEDQ": {
+        "en-US": "A request from Chiab in front of the Glastheim Chivalry\nYou have accepted the ^4D4DFF<Perhaps an Upright Soul>^000000 quest.",
+        "pt-BR": "A solicitação do Templário Thiago\n^4D4DFF[Ajeite a Postura]^000000 foi aceita.",
+        "es-ES": "Encargo de Chiav frente a la Orden de Caballeros de Glastheim\nHas aceptado la misión ^4D4DFF<Quizá un alma íntegra>^000000."
+    },
+    "hrKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Wanderer 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Cace 30 Andarilhos\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Nómada 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "h7KEDQ": {
+        "en-US": "[A Knight's Nemesis]\nA request from Chiab in front of the Glastheim Chivalry\nLocation: Glastheim\nObjective: Defeat Wanderer 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Viajante sem Rumo]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Cace 30 Andarilhos\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[El enemigo natural de los caballeros]\nEncargo de Chiav frente a la Orden de Caballeros de Glastheim\nUbicación: Glastheim\nObjetivo: Nómada 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "iLKEDQ": {
+        "en-US": "A request from Chiab in front of the Glastheim Chivalry\nYou have accepted the ^4D4DFF<A Knight's Nemesis>^000000 quest.",
+        "pt-BR": "A solicitação do Templário Thiago\n^4D4DFF[Viajante sem Rumo]^000000 foi aceita.",
+        "es-ES": "Encargo de Chiav frente a la Orden de Caballeros de Glastheim\nHas aceptado la misión ^4D4DFF<El enemigo natural de los caballeros>^000000."
+    },
+    "ibKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Glastheim\nObjective: Defeat Abysmal Knight 10\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 10 Cavaleiros do Abismo\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Glastheim\nObjetivo: Caballero Abismal 10 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "irKEDQ": {
+        "en-US": "[A Worthy Opponent]\nA request from Chiab in front of the Glastheim Chivalry\nLocation: Glastheim\nObjective: Defeat Abysmal Knight 10\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Inimigo à Altura]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Caçar 10 Cavaleiros do Abismo\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Un rival digno]\nEncargo de Chiav frente a la Orden de Caballeros de Glastheim\nUbicación: Glastheim\nObjetivo: Caballero Abismal 10 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "i7KEDQ": {
+        "en-US": "A request from Chiab in front of the Glastheim Chivalry\nYou have accepted the ^4D4DFF<A Worthy Opponent>^000000 quest.",
+        "pt-BR": "A solicitação do Templário Thiago\n^4D4DFF[Inimigo à Altura]^000000 foi aceita.",
+        "es-ES": "Encargo de Chiav frente a la Orden de Caballeros de Glastheim\nHas aceptado la misión ^4D4DFF<Un rival digno>^000000."
+    },
+    "jLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Defeat Pinguicula 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguiculas\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: Pinguicula 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "jbKEDQ": {
+        "en-US": "[The Girl Draped in Leaves]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Defeat Pinguicula 30\nReward: Exp 160000, Jexp 160000, Eden Group Coin 1",
+        "pt-BR": "[Menina das Flores]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguiculas\nRecompensa: EXP base 160.000, EXP classe 160.000, 1x Moeda do Éden",
+        "es-ES": "[La muchacha cubierta de hojas]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: Pinguicula 30 eliminaciones\nRecompensa: Exp 160000, Jexp 160000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "jrKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<The Girl Draped in Leaves>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Menina das Flores]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<La muchacha cubierta de hojas>^000000."
+    },
+    "j7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Defeat Luciola Vespa 30\nReward: Exp 200000, Jexp 200000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Vespas-Vagalumes\nRecompensa: EXP base 200.000, EXP classe 200.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: Luciola Vespa 30 eliminaciones\nRecompensa: Exp 200000, Jexp 200000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "kLKEDQ": {
+        "en-US": "[Electrifying Beauty]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Defeat Luciola Vespa 30\nReward: Exp 200000, Jexp 200000, Eden Group Coin 1",
+        "pt-BR": "[Brilho Fatal]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Vespas-Vagalumes\nRecompensa: EXP base 200.000, EXP classe 200.000, 1x Moeda do Éden",
+        "es-ES": "[Belleza electrizante]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: Luciola Vespa 30 eliminaciones\nRecompensa: Exp 200000, Jexp 200000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "kbKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Electrifying Beauty>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Brilho Fatal]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<Belleza electrizante>^000000."
+    },
+    "krKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Defeat Tendrilion 1\nReward: Exp 260000, Jexp 260000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 1 Leão de Vinhas\nRecompensa: EXP base 260.000, EXP classe 260.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: León Enredadera 1 eliminación\nRecompensa: Exp 260000, Jexp 260000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "k7KEDQ": {
+        "en-US": "[King of the Otherworld]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Defeat Tendrilion 1\nReward: Exp 260000, Jexp 260000, Eden Group Coin 1",
+        "pt-BR": "[Rei do Novo Mundo]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 1 Leão de Vinhas\nRecompensa: EXP base 260.000, EXP classe 260.000, 1x Moeda do Éden",
+        "es-ES": "[El rey del otro mundo]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: León Enredadera 1 eliminación\nRecompensa: Exp 260000, Jexp 260000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "lLKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<King of the Otherworld>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Rei do Novo Mundo]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<El rey del otro mundo>^000000."
+    },
+    "lbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Defeat Dark Pinguicula 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguicula Sombria\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: Pinguicula Oscura 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "lrKEDQ": {
+        "en-US": "[The Lady Draped in Leaves]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Defeat Dark Pinguicula 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Menina Veneno]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguicula Sombria\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[La dama cubierta de hojas]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: Pinguicula Oscura 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "l7KEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<The Lady Draped in Leaves>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Menina Veneno]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<La dama cubierta de hojas>^000000."
+    },
+    "mLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Manuk Field\nObjective: Defeat Nepenthes 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Manuka\nObjetivo: Caçar 30 Nephentes\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Manuk\nObjetivo: Nepenthes 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "mbKEDQ": {
+        "en-US": "[Dried Flower Bookmark]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Manuk Field\nObjective: Defeat Nepenthes 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Marcador de Páginas]\nSolicitação do jovem Zeca\nLocal: Campo Manuka\nObjetivo: Caçar 30 Nephentes\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Marcapáginas de flores secas]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Manuk\nObjetivo: Nepenthes 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "mrKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Dried Flower Bookmark>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Marcador de Páginas]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<Marcapáginas de flores secas>^000000."
+    },
+    "m7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Defeat Naga 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Nagas\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: Naga 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "nLKEDQ": {
+        "en-US": "[Nice... Muscles!]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Defeat Naga 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Belos Músculos!]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Nagas\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[¡Qué... buenos músculos!]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: Naga 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "nbKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Nice... Muscles!>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Belos Músculos!]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<¡Qué... buenos músculos!>^000000."
+    },
+    "nrKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Defeat Cornus 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Cornus\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: Cornus 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "n7KEDQ": {
+        "en-US": "[Straight Out of a Fairy Tale]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Defeat Cornus 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Conto de Fadas]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Cornus\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Como sacado de un cuento de hadas]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: Cornus 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "oLKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Straight Out of a Fairy Tale>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Conto de Fadas]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<Como sacado de un cuento de hadas>^000000."
+    },
+    "obKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Manuk Field\nObjective: Defeat Centipede Larva 20\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Manuka\nObjetivo: Caçar 20 Larvas de Centopeia\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Manuk\nObjetivo: Larva de Escolopendra 20 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "orKEDQ": {
+        "en-US": "[Provocative Charm]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Manuk Field\nObjective: Defeat Centipede Larva 20\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Espinhos Perigosos]\nSolicitação do jovem Zeca\nLocal: Campo Manuka\nObjetivo: Caçar 20 Larvas de Centopeia\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encanto provocador]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Manuk\nObjetivo: Larva de Escolopendra 20 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "o7KEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Provocative Charm>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Espinhos Perigosos]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<Encanto provocador>^000000."
+    },
+    "pLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Splendide Field\nObjective: Collect Mystic Horn 20\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Coletar 20 Chifres Místicos\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Campo de Splendide\nObjetivo: Cuerno Místico 20 unidades recolectadas\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "pbKEDQ": {
+        "en-US": "[Horn Imbued with Magic]\nA request from Yerne at the Midgard Allied Forces Post\nLocation: Splendide Field\nObjective: Collect Mystic Horn 20\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Poder do Chifre]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Coletar 20 Chifres Místicos\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Cuerno cargado de magia]\nEncargo de Yerne en el Campamento de la Alianza de Midgard\nUbicación: Campo de Splendide\nObjetivo: Cuerno Místico 20 unidades recolectadas\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "prKEDQ": {
+        "en-US": "A request from Yerne at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Horn Imbued with Magic>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Poder do Chifre]^000000 foi aceita.",
+        "es-ES": "Encargo de Yerne en el Campamento de la Alianza de Midgard\nHas aceptado la misión ^4D4DFF<Cuerno cargado de magia>^000000."
+    },
+    "p7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Audhumbla Grassland\nObjective: Defeat Axe Kobold Axe 20, Axe Kobold Hammer 20, Axe Kobold Morning Star 20\nReward: Exp 250000, Jexp 250000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Vila dos Kobolds\nObjetivo: Caçar 20 Kobolds de Machado, 20 Kobolds de Maça e 20 Kobolds de Martelo\nRecompensa: EXP base 250.000, EXP classe 250.000, 2x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Pradera de Audhumbla\nObjetivo: Kobold (Hacha) Hacha 20, Kobold (Hacha) Martillo 20, Kobold (Hacha) Lucero del alba 20 eliminaciones\nRecompensa: Exp 250000, Jexp 250000, Moneda del Grupo del Edén 2 unidades"
+    },
+    "qLKEDQ": {
+        "en-US": "[Grassland Brawl - Axe Kobold Edition]\nA request from Halim, a hunter on Ida Plain\nLocation: Audhumbla Grassland\nObjective: Defeat Axe Kobold Axe 20, Axe Kobold Hammer 20, Axe Kobold Morning Star 20\nReward: Exp 250000, Jexp 250000, Eden Group Coin 2",
+        "pt-BR": "[Vilarejo dos Kobolds]\nSolicitação do Caçador Harim\nLocal: Vila dos Kobolds\nObjetivo: Caçar 20 Kobolds de Machado, 20 Kobolds de Maça e 20 Kobolds de Martelo\nRecompensa: EXP base 250.000, EXP classe 250.000, 2x Moeda do Éden",
+        "es-ES": "[Reyerta en la Pradera - Kobold (Hacha)]\nEncargo de Harim, cazador de la Pradera de Ida\nUbicación: Pradera de Audhumbla\nObjetivo: Kobold (Hacha) Hacha 20, Kobold (Hacha) Martillo 20, Kobold (Hacha) Lucero del alba 20 eliminaciones\nRecompensa: Exp 250000, Jexp 250000, Moneda del Grupo del Edén 2 unidades"
+    },
+    "qbKEDQ": {
+        "en-US": "A request from Halim, a hunter on Ida Plain\nYou have accepted the ^4D4DFF<Grassland Brawl - Axe Kobold Edition>^000000 quest.",
+        "pt-BR": "A solicitação do Caçador Harim\n^4D4DFF[Vilarejo dos Kobolds]^000000 foi aceita.",
+        "es-ES": "Encargo de Harim, cazador de la Pradera de Ida\nHas aceptado la misión ^4D4DFF<Reyerta en la Pradera - Kobold (Hacha)>^000000."
+    },
+    "qrKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Ida Plain\nObjective: Defeat Hill Wind 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Planície de Ida\nObjetivo: Caçar 30 Ventos da Colina\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Pradera de Ida\nObjetivo: Viento de la Colina 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "q7KEDQ": {
+        "en-US": "[Grassland Brawl - Hill Wind Edition]\nA request from Halim, a hunter on Ida Plain\nLocation: Ida Plain\nObjective: Defeat Hill Wind 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Vila da Colina]\nSolicitação do Caçador Harim\nLocal: Planície de Ida\nObjetivo: Caçar 30 Ventos da Colina\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Reyerta en la Pradera - Viento de la Colina]\nEncargo de Harim, cazador de la Pradera de Ida\nUbicación: Pradera de Ida\nObjetivo: Viento de la Colina 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "rLKEDQ": {
+        "en-US": "A request from Halim, a hunter on Ida Plain\nYou have accepted the ^4D4DFF<Grassland Brawl - Hill Wind Edition>^000000 quest.",
+        "pt-BR": "A solicitação do Caçador Harim\n^4D4DFF[Vila da Colina]^000000 foi aceita.",
+        "es-ES": "Encargo de Harim, cazador de la Pradera de Ida\nHas aceptado la misión ^4D4DFF<Reyerta en la Pradera - Viento de la Colina>^000000."
+    },
+    "rbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Audhumbla Grassland\nObjective: Defeat Desert Wolf 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Entrada da Caverna de Gelo\nObjetivo: Caçar 30 Lobos do Deserto\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Pradera de Audhumbla\nObjetivo: Lobo del Desierto 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "rrKEDQ": {
+        "en-US": "[Grassland Brawl - Desert Wolf Edition]\nA request from Sarim, a hunter in front of Audhumbla Ice Cave\nLocation: Audhumbla Grassland\nObjective: Defeat Desert Wolf 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Alcateia no Deserto]\nSolicitação do Caçador Sarim\nLocal: Entrada da Caverna de Gelo\nObjetivo: Caçar 30 Lobos do Deserto\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Reyerta en la Pradera - Lobo del Desierto]\nEncargo de Sarim, cazador frente a la Cueva de Hielo de Audhumbla\nUbicación: Pradera de Audhumbla\nObjetivo: Lobo del Desierto 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "r7KEDQ": {
+        "en-US": "A request from Sarim, a hunter in front of Audhumbla Ice Cave\nYou have accepted the ^4D4DFF<Grassland Brawl - Desert Wolf Edition>^000000 quest.",
+        "pt-BR": "A solicitação do Caçador Sarim\n^4D4DFF[Alcateia no Deserto]^000000 foi aceita.",
+        "es-ES": "Encargo de Sarim, cazador frente a la Cueva de Hielo de Audhumbla\nHas aceptado la misión ^4D4DFF<Reyerta en la Pradera - Lobo del Desierto>^000000."
+    },
+    "sLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Audhumbla Grassland\nObjective: Collect Blue Hair 20\nReward: Exp 100000, Jexp 100000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Vila dos Kobolds\nObjetivo: Coletar 20 Cabelos Azuis\nRecompensa: EXP base 100.000, EXP classe 100.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Pradera de Audhumbla\nObjetivo: Pelaje azul 20 unidades recolectadas\nRecompensa: Exp 100000, Jexp 100000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "sbKEDQ": {
+        "en-US": "[Even Dog Hair Is Scarce When You Need It]\nA request from Cheda, a farmer in Veins\nLocation: Audhumbla Grassland\nObjective: Collect Blue Hair 20\nReward: Exp 100000, Jexp 100000, Eden Group Coin 1",
+        "pt-BR": "[Pelos de Cachorro]\nSolicitação do Fazendeiro Cheda\nLocal: Vila dos Kobolds\nObjetivo: Coletar 20 Cabelos Azuis\nRecompensa: EXP base 100.000, EXP classe 100.000, 1x Moeda do Éden",
+        "es-ES": "[Cuando se necesita, no hay ni pelo de perro.]\nEncargo de Cheda, agricultor de Veins\nUbicación: Pradera de Audhumbla\nObjetivo: Pelaje azul 20 unidades recolectadas\nRecompensa: Exp 100000, Jexp 100000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "srKEDQ": {
+        "en-US": "A request from Cheda, a farmer in Veins\nYou have accepted the ^4D4DFF<Even Dog Hair Is Scarce When You Need It>^000000 quest.",
+        "pt-BR": "A solicitação do Fazendeiro Cheda\n^4D4DFF[Pelos de Cachorro]^000000 foi aceita.",
+        "es-ES": "Encargo de Cheda, agricultor de Veins\nHas aceptado la misión ^4D4DFF<Cuando se necesita, no hay ni pelo de perro.>^000000."
+    },
+    "s7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: All Veins Fields\nObjective: Defeat Drosera 30, Muscipular 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Droseras e 30 Muscipulares\nRecompensa: EXP base 300.000, EXP classe 300.000, 2x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Todos los campos de Veins\nObjetivo: Drocera 30, Muscipular 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 2 unidades"
+    },
+    "tLKEDQ": {
+        "en-US": "[War on Weeds]\nA request from Mine, who dreams of becoming a farmer in Veins\nLocation: All Veins Fields\nObjective: Defeat Drosera 30, Muscipular 30\nReward: Exp 300000, Jexp 300000, Eden Group Coin 2",
+        "pt-BR": "[Guerra contra as Plantas]\nSolicitação da Jardineira Minne\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Droseras e 30 Muscipulares\nRecompensa: EXP base 300.000, EXP classe 300.000, 2x Moeda do Éden",
+        "es-ES": "[Guerra contra la maleza]\nEncargo de Mine, aspirante a agricultor de Veins\nUbicación: Todos los campos de Veins\nObjetivo: Drocera 30, Muscipular 30 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 2 unidades"
+    },
+    "tbKEDQ": {
+        "en-US": "A request from Mine, who dreams of becoming a farmer in Veins\nYou have accepted the ^4D4DFF<War on Weeds>^000000 quest.",
+        "pt-BR": "A solicitação da Jardineira Minne\n^4D4DFF[Guerra contra as Plantas]^000000 foi aceita.",
+        "es-ES": "Encargo de Mine, aspirante a agricultor de Veins\nHas aceptado la misión ^4D4DFF<Guerra contra la maleza>^000000."
+    },
+    "trKEDQ": {
+        "en-US": "[Request Complete]\nLocation: All Veins Fields\nObjective: Defeat Magmaring 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Magmarings\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Todos los campos de Veins\nObjetivo: Magmaring 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "t7KEDQ": {
+        "en-US": "[Volcanic Mutation]\nA request from a Veins vigilante in Veins\nLocation: All Veins Fields\nObjective: Defeat Magmaring 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Mutação Vulcânica]\nSolicitação de um Vigia de Veins\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Magmarings\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Mutación volcánica]\nEncargo de un miembro de la guardia de Veins en Veins\nUbicación: Todos los campos de Veins\nObjetivo: Magmaring 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "uLKEDQ": {
+        "en-US": "A request from a Veins vigilante in Veins\nYou have accepted the ^4D4DFF<Volcanic Mutation>^000000 quest.",
+        "pt-BR": "A solicitação de um Vigia de Veins\n^4D4DFF[Mutação Vulcânica]^000000 foi aceita.",
+        "es-ES": "Encargo de un miembro de la guardia de Veins en Veins\nHas aceptado la misión ^4D4DFF<Mutación volcánica>^000000."
+    },
+    "ubKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Ice Cave\nObjective: Collect Glacial Heart 20\nReward: Exp 100000, Jexp 100000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Caverna de Gelo\nObjetivo: Coletar 20 Corações Glaciais\nRecompensa: EXP base 100.000, EXP classe 100.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Cueva de Hielo\nObjetivo: Corazón Glacial 20 unidades recolectadas\nRecompensa: Exp 100000, Jexp 100000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "urKEDQ": {
+        "en-US": "[Cold Hearts, Cool Cooking]\nA request from Tahrim, a tavern employee at the Rachel Hotel\nLocation: Ice Cave\nObjective: Collect Glacial Heart 20\nReward: Exp 100000, Jexp 100000, Eden Group Coin 1",
+        "pt-BR": "[Minhas Bebidas Geladas]\nSolicitação da Barista de Rachel\nLocal: Caverna de Gelo\nObjetivo: Coletar 20 Corações Glaciais\nRecompensa: EXP base 100.000, EXP classe 100.000, 1x Moeda do Éden",
+        "es-ES": "[Corazón frío, plato refrescante]\nEncargo de Tarim, del bar del Hotel de Rachel\nUbicación: Cueva de Hielo\nObjetivo: Corazón Glacial 20 unidades recolectadas\nRecompensa: Exp 100000, Jexp 100000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "u7KEDQ": {
+        "en-US": "A request from Tahrim, a tavern employee at the Rachel Hotel\nYou have accepted the ^4D4DFF<Cold Hearts, Cool Cooking>^000000 quest.",
+        "pt-BR": "A solicitação da Barista de Rachel\n^4D4DFF[Minhas Bebidas Geladas]^000000 foi aceita.",
+        "es-ES": "Encargo de Tarim, del bar del Hotel de Rachel\nHas aceptado la misión ^4D4DFF<Corazón frío, plato refrescante>^000000."
+    },
+    "vLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Ice Cave\nObjective: Defeat Snowier 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Yetis\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Cueva de Hielo\nObjetivo: Nevadísimo 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "vbKEDQ": {
+        "en-US": "[The Yeti Who Won't Listen]\nA request from the Wizard's Friend on Ice Cave 1F\nLocation: Ice Cave\nObjective: Defeat Snowier 30\nReward: Exp 150000, Jexp 150000, Eden Group Coin 1",
+        "pt-BR": "[Monstro das Neves]\nSolicitação do Amigo de um Mago\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Yetis\nRecompensa: EXP base 150.000, EXP classe 150.000, 1x Moeda do Éden",
+        "es-ES": "[El yeti con quien no se puede razonar]\nEncargo de una persona amiga del mago en el piso 1 de la Cueva de Hielo\nUbicación: Cueva de Hielo\nObjetivo: Nevadísimo 30 eliminaciones\nRecompensa: Exp 150000, Jexp 150000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "vrKEDQ": {
+        "en-US": "A request from the Wizard's Friend on Ice Cave 1F\nYou have accepted the ^4D4DFF<The Yeti Who Won't Listen>^000000 quest.",
+        "pt-BR": "A solicitação do Amigo de um Mago\n^4D4DFF[Monstro das Neves]^000000 foi aceita.",
+        "es-ES": "Encargo de una persona amiga del mago en el piso 1 de la Cueva de Hielo\nHas aceptado la misión ^4D4DFF<El yeti con quien no se puede razonar>^000000."
+    },
+    "v7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Ice Cave\nObjective: Defeat Ice Titan 30, Gazeti 10\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Titãs de Gelo e 10 Gazetis\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Cueva de Hielo\nObjetivo: Titán de Hielo 30, Gazeti 10 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "wLKEDQ": {
+        "en-US": "[How Hard Are Ice Crystals?]\nA request from the Wizard's Friend on Ice Cave 1F\nLocation: Ice Cave\nObjective: Defeat Ice Titan 30, Gazeti 10\nReward: Exp 300000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Cristais são Duros?]\nSolicitação do Amigo de um Mago\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Titãs de Gelo e 10 Gazetis\nRecompensa: EXP base 300.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[¿Qué tan duros son los cristales de hielo?]\nEncargo de una persona amiga del mago en el piso 1 de la Cueva de Hielo\nUbicación: Cueva de Hielo\nObjetivo: Titán de Hielo 30, Gazeti 10 eliminaciones\nRecompensa: Exp 300000, Jexp 300000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "wbKEDQ": {
+        "en-US": "A request from the Wizard's Friend on Ice Cave 1F\nYou have accepted the ^4D4DFF<How Hard Are Ice Crystals?>^000000 quest.",
+        "pt-BR": "A solicitação do Amigo de um Mago\n^4D4DFF[Cristais são Duros?]^000000 foi aceita.",
+        "es-ES": "Encargo de una persona amiga del mago en el piso 1 de la Cueva de Hielo\nHas aceptado la misión ^4D4DFF<¿Qué tan duros son los cristales de hielo?>^000000."
+    },
+    "wrKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Defeat Ancient Mimic 30\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Mímicos Anciões\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Mímico Antiguo 30 eliminaciones\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "w7KEDQ": {
+        "en-US": "[Inside the Mimic's Box]\nA request from Avril inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Ancient Mimic 30\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Uma Caixa Viva]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Mímicos Anciões\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Dentro de la caja del Mímico]\nEncargo de Avril dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Mímico Antiguo 30 eliminaciones\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "xLKEDQ": {
+        "en-US": "A request from Avril inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Inside the Mimic's Box>^000000 quest.",
+        "pt-BR": "A solicitação de uma Exploradora\n^4D4DFF[Uma Caixa Viva]^000000 foi aceita.",
+        "es-ES": "Encargo de Avril dentro del piso 1 de la Torre de Thanatos\nHas aceptado la misión ^4D4DFF<Dentro de la caja del Mímico>^000000."
+    },
+    "xbKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Defeat Death Word 30\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Palavras Mortas\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Palabra de Muerte 30 eliminaciones\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "xrKEDQ": {
+        "en-US": "[Ancient Wisdom Adrift]\nA request from Avril inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Death Word 30\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Palavras ao Vento]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Palavras Mortas\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Antigua sabiduría errante]\nEncargo de Avril dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Palabra de Muerte 30 eliminaciones\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "x7KEDQ": {
+        "en-US": "A request from Avril inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Ancient Wisdom Adrift>^000000 quest.",
+        "pt-BR": "A solicitação de uma Exploradora\n^4D4DFF[Palavras ao Vento]^000000 foi aceita.",
+        "es-ES": "Encargo de Avril dentro del piso 1 de la Torre de Thanatos\nHas aceptado la misión ^4D4DFF<Antigua sabiduría errante>^000000."
+    },
+    "yLKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Defeat Owl Baron 20\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 20 Barões Corujas\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Barón Búho 20 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "ybKEDQ": {
+        "en-US": "[Baron of the Old Castle]\nA request from Avril inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Owl Baron 20\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Barão do Reino]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Caçar 20 Barões Corujas\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[El barón del castillo antiguo]\nEncargo de Avril dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Barón Búho 20 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "yrKEDQ": {
+        "en-US": "A request from Avril inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Baron of the Old Castle>^000000 quest.",
+        "pt-BR": "A solicitação de uma Exploradora\n^4D4DFF[Barão do Reino]^000000 foi aceita.",
+        "es-ES": "Encargo de Avril dentro del piso 1 de la Torre de Thanatos\nHas aceptado la misión ^4D4DFF<El barón del castillo antiguo>^000000."
+    },
+    "y7KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Collect Bloody Page 10\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Páginas Sangrentas\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Página sangrienta 10 unidades recolectadas\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "zLKEDQ": {
+        "en-US": "[Scattered Pages of Knowledge]\nA request from Avril inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Collect Bloody Page 10\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Páginas de um Livro]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Páginas Sangrentas\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Hojas de conocimiento]\nEncargo de Avril dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Página sangrienta 10 unidades recolectadas\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "zbKEDQ": {
+        "en-US": "A request from Avril inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Scattered Pages of Knowledge>^000000 quest.",
+        "pt-BR": "A solicitação de uma Exploradora\n^4D4DFF[Páginas de um Livro]^000000 foi aceita.",
+        "es-ES": "Encargo de Avril dentro del piso 1 de la Torre de Thanatos\nHas aceptado la misión ^4D4DFF<Hojas de conocimiento>^000000."
+    },
+    "zrKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Collect Worn-out Magic Scroll 10\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Pergaminho Antigo\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Pergamino Mágico Desgastado 10 unidades recolectadas\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "z7KEDQ": {
+        "en-US": "[Records of Old Magic]\nA request from Avril inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Collect Worn-out Magic Scroll 10\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Manuscritos Mágicos]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Pergaminho Antigo\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Antiguo registro mágico]\nEncargo de Avril dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Pergamino Mágico Desgastado 10 unidades recolectadas\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "0LKEDQ": {
+        "en-US": "A request from Avril inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Records of Old Magic>^000000 quest.",
+        "pt-BR": "A solicitação de uma Exploradora\n^4D4DFF[Manuscritos Mágicos]^000000 foi aceita.",
+        "es-ES": "Encargo de Avril dentro del piso 1 de la Torre de Thanatos\nHas aceptado la misión ^4D4DFF<Antiguo registro mágico>^000000."
+    },
+    "0bKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Collect Tattered Clothes 30\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Coletar 30 Farrapos\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Ropa andrajosa 30 unidades recolectadas\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "0rKEDQ": {
+        "en-US": "[Collecting Recyclables]\nA request from Avril inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Collect Tattered Clothes 30\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Aula de Reciclagem]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Coletar 30 Farrapos\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Recolección de materiales reciclables]\nEncargo de Avril dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Ropa andrajosa 30 unidades recolectadas\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "07KEDQ": {
+        "en-US": "A request from Avril inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Collecting Recyclables>^000000 quest.",
+        "pt-BR": "A solicitação de uma Exploradora\n^4D4DFF[Aula de Reciclagem]^000000 foi aceita.",
+        "es-ES": "Encargo de Avril dentro del piso 1 de la Torre de Thanatos\nHas aceptado la misión ^4D4DFF<Recolección de materiales reciclables>^000000."
+    },
+    "1LKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Juperos Dungeon\nObjective: Defeat Red Venatu (Purple) 20, Red Venatu (Green) 20\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Verdes e 20 Venatus Laranjas\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Juperos\nObjetivo: Venatu Rojo(morado) 20, Venatu Rojo(verde) 20 eliminaciones eliminaciones\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "1bKEDQ": {
+        "en-US": "[Iron Ant Swarm-1]\nA request from Ernest, a team member in front of Juperos Dungeon\nLocation: Juperos Dungeon\nObjective: Defeat Red Venatu (Purple) 20, Red Venatu (Green) 20\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Formigas de Aço]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Verdes e 20 Venatus Laranjas\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Enjambre de hormigas de hierro-1]\nEncargo de Ernest, miembro del equipo frente al Calabozo de Juperos\nUbicación: Calabozo de Juperos\nObjetivo: Venatu Rojo(morado) 20, Venatu Rojo(verde) 20 eliminaciones eliminaciones\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "1rKEDQ": {
+        "en-US": "A request from Ernest, a team member in front of Juperos Dungeon\nYou have accepted the ^4D4DFF<Iron Ant Swarm-1>^000000 quest.",
+        "pt-BR": "A solicitação de um estudante no Desfiladeiro Elmes\n^4D4DFF[Formigas de Aço]^000000 foi aceita.",
+        "es-ES": "Encargo de Ernest, miembro del equipo frente al Calabozo de Juperos\nHas aceptado la misión ^4D4DFF<Enjambre de hormigas de hierro-1>^000000."
+    },
+    "17KEDQ": {
+        "en-US": "[Request Complete]\nLocation: Juperos Dungeon\nObjective: Defeat Red Venatu (Scarlet) 20, Red Venatu (Blue) 20\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Azuis e 20 Venatus Vermelhos\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Juperos\nObjetivo: Venatu Rojo(escarlata) 20, Venatu Rojo(azul) 20 eliminaciones eliminaciones\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "2LKEDQ": {
+        "en-US": "[Iron Ant Swarm-2]\nA request from Ernest, a team member in front of Juperos Dungeon\nLocation: Juperos Dungeon\nObjective: Defeat Red Venatu (Scarlet) 20, Red Venatu (Blue) 20\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Formigas de Ferro]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Azuis e 20 Venatus Vermelhos\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Enjambre de hormigas de hierro-2]\nEncargo de Ernest, miembro del equipo frente al Calabozo de Juperos\nUbicación: Calabozo de Juperos\nObjetivo: Venatu Rojo(escarlata) 20, Venatu Rojo(azul) 20 eliminaciones eliminaciones\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "2bKEDQ": {
+        "en-US": "A request from Ernest, a team member in front of Juperos Dungeon\nYou have accepted the ^4D4DFF<Iron Ant Swarm-2>^000000 quest.",
+        "pt-BR": "A solicitação de um estudante no Desfiladeiro Elmes\n^4D4DFF[Formigas de Ferro]^000000 foi aceita.",
+        "es-ES": "Encargo de Ernest, miembro del equipo frente al Calabozo de Juperos\nHas aceptado la misión ^4D4DFF<Enjambre de hormigas de hierro-2>^000000."
+    },
+    "2rKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Juperos Dungeon\nObjective: Defeat Purple Dimik (Green) 10, Purple Dimik (Green) 10\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Azuis e 10 Dimiks Laranjas\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Juperos\nObjetivo: Dimik Morado(verde) 10, Dimik Morado(verde) 10 eliminaciones eliminaciones\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "27KEDQ": {
+        "en-US": "[Colorful Purple Dimik-1]\nA request from Team Leader Maxim in front of Juperos Dungeon\nLocation: Juperos Dungeon\nObjective: Defeat Purple Dimik (Green) 10, Purple Dimik (Green) 10\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Robôs Coloridos]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Azuis e 10 Dimiks Laranjas\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Colorido Dimik Morado-1]\nEncargo de Maxim, líder del equipo frente al Calabozo de Juperos\nUbicación: Calabozo de Juperos\nObjetivo: Dimik Morado(verde) 10, Dimik Morado(verde) 10 eliminaciones eliminaciones\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "3LKEDQ": {
+        "en-US": "A request from Team Leader Maxim in front of Juperos Dungeon\nYou have accepted the ^4D4DFF<Colorful Purple Dimik-1>^000000 quest.",
+        "pt-BR": "A solicitação de um estudante no Desfiladeiro Elmes\n^4D4DFF[Robôs Coloridos]^000000 foi aceita.",
+        "es-ES": "Encargo de Maxim, jefe de grupo frente al Calabozo de Juperos\nSe aceptó la misión ^4D4DFF<Dimik Morado multicolor-1>^000000."
+    },
+    "3bKEDQ": {
+        "en-US": "[Request Complete]\nLocation: Juperos Dungeon\nObjective: Defeat Purple Dimik (Scarlet) 10, Purple Dimik (Red) 10\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Verdes e 10 Dimiks Vermelhos\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Juperos\nObjetivo: Dimik Morado(bermellón) 10, Dimik Morado(rojo) 10 eliminados eliminados\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "3rKEDQ": {
+        "en-US": "[Colorful Purple Dimik-2]\nA request from Team Leader Maxim in front of Juperos Dungeon\nLocation: Juperos Dungeon\nObjective: Defeat Purple Dimik (Scarlet) 10, Purple Dimik (Red) 10\nReward: Exp 300000, Jexp 250000, Eden Group Coin 1",
+        "pt-BR": "[Robôs Multicoloridos]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Verdes e 10 Dimiks Vermelhos\nRecompensa: EXP base 300.000, EXP classe 250.000, 1x Moeda do Éden",
+        "es-ES": "[Dimik Morado multicolor-2]\nEncargo de Maxim, jefe de grupo frente al Calabozo de Juperos\nUbicación: Calabozo de Juperos\nObjetivo: Dimik Morado(bermellón) 10, Dimik Morado(rojo) 10 eliminados eliminados\nRecompensa: Exp 300000, Jexp 250000, Moneda del Grupo del Edén 1 unidad"
+    },
+    "37KEDQ": {
+        "en-US": "A request from Team Leader Maxim in front of Juperos Dungeon\nYou have accepted the ^4D4DFF<Colorful Purple Dimik-2>^000000 quest.",
+        "pt-BR": "A solicitação de um estudante no Desfiladeiro Elmes\n^4D4DFF[Robôs Multicoloridos]^000000 foi aceita.",
+        "es-ES": "Encargo de Maxim, jefe de grupo frente al Calabozo de Juperos\nSe aceptó la misión ^4D4DFF<Dimik Morado multicolor-2>^000000."
+    }
+}

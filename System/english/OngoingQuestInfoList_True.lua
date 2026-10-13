@@ -299,12 +299,12 @@ QuestInfoList = {
 		Title = "League of Explorers",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"In the At the King's Heel instance, kill 1 Charleston 03."
+			"In the At the King's Feet instance, kill 1 Charleston 03."
 		},
-		Summary = "At the King's Heel"
+		Summary = "At the King's Feet"
 	},
 	[1030] = {
-		Title = "[Cooldown] At the King's Heel",
+		Title = "[Cooldown] At the King's Feet",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Wait for the cooldown period to return to the League of Explorers building!"
@@ -702,6 +702,178 @@ QuestInfoList = {
 		},
 		Summary = "Come back tomorrow",
 		CoolTimeQuest = 1
+	},
+	[1077] = {
+		Title = "Explorer's League",
+		Description = {
+			"In Ortus Aqua, kill 1 Silva Papilia."
+		},
+		Summary = "Ortus Aqua"
+	},
+	[1078] = {
+		Title = "[Wait] EL - Ortus Aqua",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1079] = {
+		Title = "Explorer's League",
+		Description = {
+			"In the Secret Garden, kill 1 Red Pepper."
+		},
+		Summary = "Secret Garden"
+	},
+	[1080] = {
+		Title = "[Wait] EL - Secret Garden",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1081] = {
+		Title = "Explorer's League",
+		Description = {
+			"In EDDA: Fall of Glastheim, kill 1 King Schmidt."
+		},
+		Summary = "EDDA: Fall of Glastheim"
+	},
+	[1082] = {
+		Title = "[Wait] EL - EDDA: Fall of Glastheim",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1083] = {
+		Title = "Explorer's League",
+		Description = {
+			"In the Villa of Deception, kill 1 Schulang."
+		},
+		Summary = "Villa of Deception"
+	},
+	[1084] = {
+		Title = "[Wait] EL - Villa of Deception",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1085] = {
+		Title = "Explorer's League",
+		Description = {
+			"In Glastheim Challenge, kill 1 Phantom of Amdarais."
+		},
+		Summary = "Old Glastheim (Challenge Mode)"
+	},
+	[1086] = {
+		Title = "[Wait] EL - Old Glastheim (Challenge Mode)",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1087] = {
+		Title = "Explorer's League",
+		Description = {
+			"In Tower of Geffen, kill 1 Death Lord."
+		},
+		Summary = "Tower of Geffen"
+	},
+	[1088] = {
+		Title = "[Wait] EL - Tower of Geffen",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1089] = {
+		Title = "Explorer's League",
+		Description = {
+			"In Infinity Space, kill 1 Infinite Tao Gunka."
+		},
+		Summary = "Infinity Space"
+	},
+	[1090] = {
+		Title = "[Wait] EL - Infinity Space",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1091] = {
+		Title = "Explorer's League",
+		Description = {
+			"In Pitaya Farm, kill 1 Pitaya Boss."
+		},
+		Summary = "Pitaya Farm"
+	},
+	[1092] = {
+		Title = "[Wait] EL - Pitaya Farm",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1093] = {
+		Title = "Explorer's League",
+		Description = {
+			"In the Sanctuary, kill 5 Temple Guard and 5 Unstable Temple Guard."
+		},
+		Summary = "Sanctuary Purification"
+	},
+	[1094] = {
+		Title = "[Wait] EL - Sanctuary Purification",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1095] = {
+		Title = "Explorer's League",
+		Description = {
+			"In EDDA Biolab, kill 1 Unknown Swordman."
+		},
+		Summary = "EDDA Biolab"
+	},
+	[1096] = {
+		Title = "[Wait] EL - EDDA Biolab",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1097] = {
+		Title = "Explorer's League",
+		Description = {
+			"In Ortus Aqua, kill 1 Gran Papilia."
+		},
+		Summary = "Ortus Aqua"
+	},
+	[1098] = {
+		Title = "[Wait] EL - Ortus Aqua",
+		Description = {
+			"Wait for the cooldown period to return to the Explorer's League building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
+	},
+	[1099] = {
+		Title = "Explorer's League",
+		Description = {
+			"In the Secret Garden, kill 1 Senior Red Pepper."
+		},
+		Summary = "Secret Garden (Hard)"
 	},
 	[1100] = {
 		Title = "Solo in the Sphinx Dungeon!",
@@ -6598,12 +6770,12 @@ QuestInfoList = {
 		Summary = "Initialization at 04:00"
 	},
 	[3335] = {
-		Title = "Creating a Cherry Blossom Hat is not easy",
+		Title = "Craft a Cherry Blossom Headgear",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Arles]<INFO>prontera,167,291,0,101,0</INFO></NAVI>",
+			"<NAVI>[Arles]<INFO>prontera,167,291,0,101,0</INFO></NAVI>, in Prontera,",
 			"asked you to bring the materials needed to make the costume.",
-			"Bring 10 Small Spray of Flowers and 5 Yellow Herbs."
+			"Bring 10x Small Spray of Flowers and 5x Yellow Herb."
 		},
 		Summary = "Deliver materials to Arles"
 	},
@@ -14697,13 +14869,13 @@ QuestInfoList = {
 			"",
 			"Half Flower Gathering Method",
 			"1) When it grows near rocks:",
-			"Cut at 40° angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
+			"Cut at 40? angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
 			"2) When it grows on flat ground:",
-			"Cut at 30° angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
+			"Cut at 30? angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
 			"^0000FF3) When it grows near trees:^000000",
-			"^0000FFCut at 20° angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g^000000",
+			"^0000FFCut at 20? angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g^000000",
 			"4) When it grows near water:",
-			"Cut at 10° angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
+			"Cut at 10? angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
@@ -14747,13 +14919,13 @@ QuestInfoList = {
 			"",
 			"Half Flower Gathering Method",
 			"1) When it grows near rocks:",
-			"Cut at 40° angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
+			"Cut at 40? angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
 			"2) When it grows on flat ground:",
-			"Cut at 30° angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
+			"Cut at 30? angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
 			"3) When it grows near trees:",
-			"Cut at 20° angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
+			"Cut at 20? angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
 			"4) When it grows near water:",
-			"Cut at 10° angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
+			"Cut at 10? angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
@@ -14768,13 +14940,13 @@ QuestInfoList = {
 			"",
 			"Half Flower Gathering Method",
 			"1) When it grows near rocks:",
-			"Cut at 40° angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
+			"Cut at 40? angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
 			"2) When it grows on flat ground:",
-			"Cut at 30° angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
+			"Cut at 30? angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
 			"3) When it grows near trees:",
-			"Cut at 20° angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
+			"Cut at 20? angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
 			"4) When it grows near water:",
-			"Cut at 10° angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
+			"Cut at 10? angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
@@ -14789,13 +14961,13 @@ QuestInfoList = {
 			"",
 			"Half Flower Gathering Method",
 			"1) When it grows near rocks:",
-			"Cut at 40° angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
+			"Cut at 40? angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
 			"2) When it grows on flat ground:",
-			"Cut at 30° angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
+			"Cut at 30? angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
 			"3) When it grows near trees:",
-			"Cut at 20° angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
+			"Cut at 20? angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
 			"4) When it grows near water:",
-			"Cut at 10° angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
+			"Cut at 10? angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
@@ -14810,13 +14982,13 @@ QuestInfoList = {
 			"",
 			"Half Flower Gathering Method",
 			"1) When it grows near rocks:",
-			"Cut at 40° angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
+			"Cut at 40? angle/Prune to 2 leaves/Water 50ml/Secret Powder 2g",
 			"2) When it grows on flat ground:",
-			"Cut at 30° angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
+			"Cut at 30? angle /Prune to 4 leaves/Water 40ml/Secret Powder 4g",
 			"3) When it grows near trees:",
-			"Cut at 20° angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
+			"Cut at 20? angle/Prune to 4 leaves/Water 30ml/Secret Powder 6g",
 			"4) When it grows near water:",
-			"Cut at 10° angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
+			"Cut at 10? angle/Prune to 8 leaves/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
@@ -15076,7 +15248,7 @@ QuestInfoList = {
 	[6000] = {
 		Title = "Job Change to Taekwon",
 		Description = {
-			"You've chosen you're path to become a Taekwon. You must increase your base level and talk to <NAVI>[Phoenix]<INFO>payon_in02,64,71,0,100,0,0</INFO></NAVI>."
+			"You've chosen you're path to become a Taekwon. You must increase your base level and talk to <NAVI>[Phoenix]<INFO>payon_in02,62,10,0,100,0,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
@@ -16108,224 +16280,224 @@ QuestInfoList = {
 		Summary = "Hunt 5 Willows"
 	},
 	[7128] = {
-		Title = "Conquer the Desert!",
+		Title = "Eden: Conquer the Desert!",
 		Description = {
 			"Find a  <NAVI>[Talking Dog]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> in the southeastern field of Morroc near an Oasis. Tell him that ^4d4dffBoya is really perfect^000000"
 		},
 		Summary = "Conversation with Talking Dog"
 	},
 	[7129] = {
-		Title = "Conquer the Desert!",
+		Title = "Eden: Conquer the Desert!",
 		Description = {
 			"Find and hunt down 10 Condors to clear out the Oasis."
 		},
 		Summary = "Hunt 10 Condors"
 	},
 	[7130] = {
-		Title = "Conquer the Desert!",
+		Title = "Eden: Conquer the Desert!",
 		Description = {
 			"Hunt those noisy barking Baby Desert Wolves!"
 		},
 		Summary = "Hunt 10 Baby Desert Wolf"
 	},
 	[7131] = {
-		Title = "Conquer the Desert",
+		Title = "Eden: Conquer the Desert",
 		Description = {
 			"Scorpions have been ambushing and poisoning people in the desert. Hunt at least 5 of them to help clear the Oasis."
 		},
 		Summary = "Hunt 5 Scorpions"
 	},
 	[7132] = {
-		Title = "Conquer the Desert!",
+		Title = "Eden: Conquer the Desert!",
 		Description = {
 			"You have completed your Training in the Desert. Report your results to Instructor <NAVI>[Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> in the Eden Group Office."
 		},
 		Summary = ""
 	},
 	[7133] = {
-		Title = "Conquer the Culvert!",
+		Title = "Eden: Conquer the Culvert!",
 		Description = {
 			"Register to explore the Prontera Culvert at the Knight Guild. Go down there and find a <NAVI>[Standing Cat]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI>  and tell him ^4d4dffBoya's help is like a giant and beautiful tuna^000000"
 		},
 		Summary = ""
 	},
 	[7134] = {
-		Title = "Conquer the Culvert!",
+		Title = "Eden: Conquer the Culvert!",
 		Description = {
 			"The first part of the training is to hunt Thief Bugs."
 		},
 		Summary = "Hunt 10 Thief Bugs."
 	},
 	[7135] = {
-		Title = "Conquer the Culvert!",
+		Title = "Eden: Conquer the Culvert!",
 		Description = {
 			"The next part of the training is to get rid of Tarou monsters."
 		},
 		Summary = "Hunt 10 Tarou."
 	},
 	[7136] = {
-		Title = "Conquer the Culvert!",
+		Title = "Eden: Conquer the Culvert!",
 		Description = {
 			"The next part of the training is to hunt the flying Familiars."
 		},
 		Summary = "Hunt 5 Familiars."
 	},
 	[7137] = {
-		Title = "Conquer the Culvert!",
+		Title = "Eden: Conquer the Culvert!",
 		Description = {
 			"You have completed the task given by the Standing Cat. Go back and report your progress to <NAVI>[Instructor Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> at the Eden Group Office."
 		},
 		Summary = ""
 	},
 	[7138] = {
-		Title = "Conquer the Ghost Cave!",
+		Title = "Eden: Conquer the Ghost Cave!",
 		Description = {
 			"Find a member of the Eden Group in front of the <NAVI>[Cave]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> at the western side of the Payon Archer Village."
 		},
 		Summary = "Conversation with Eden Group Member."
 	},
 	[7139] = {
-		Title = "Conquer the Ghost Cave!",
+		Title = "Eden: Conquer the Ghost Cave!",
 		Description = {
 			"There are many dangerous monsters in that cave and one of them are Skeletons."
 		},
 		Summary = "Hunt 15 Skeletons"
 	},
 	[7140] = {
-		Title = "Conquer the Ghost Cave!",
+		Title = "Eden: Conquer the Ghost Cave!",
 		Description = {
 			"Have you see those green monsters picking up all of the stuff dropped by other monsters?"
 		},
 		Summary = "Hunt 10 Poporings."
 	},
 	[7141] = {
-		Title = "Conquer the Ghost Cave!",
+		Title = "Eden: Conquer the Ghost Cave!",
 		Description = {
 			"You completed the training given to you from Coral. Go back to the Eden Group Office for your reward."
 		},
 		Summary = "Report to Instructor Boya at the Eden Group Office."
 	},
 	[7142] = {
-		Title = "Conquer Ant Hell!",
+		Title = "Eden: Conquer Ant Hell!",
 		Description = {
 			"Find a member of the Eden Group just inside the entrance of <NAVI>[Ant Hell]<INFO>anthell01,29,264,0,101,0</INFO></NAVI>. Enter the first floor of Ant Hell at the northeastern area of the Fortress Saint Darmain (East)."
 		},
 		Summary = ""
 	},
 	[7143] = {
-		Title = "Conquer Ant Hell!",
+		Title = "Eden: Conquer Ant Hell!",
 		Description = {
 			"Hunt 15 Pierre ants here in Ant Hell and report back to the Eden Group Member Clod at the entrance of Ant Hell."
 		},
 		Summary = ""
 	},
 	[7144] = {
-		Title = "Conquer Ant Hell!",
+		Title = "Eden: Conquer Ant Hell!",
 		Description = {
 			"The second target is hunt 15 Andre who is stronger than Pierre. Go the second floor of Ant Hell if you can't find enough but be careful if you run into Maya."
 		},
 		Summary = ""
 	},
 	[7145] = {
-		Title = "Conquer Ant Hell!",
+		Title = "Eden: Conquer Ant Hell!",
 		Description = {
 			"The next target is... 10 Vitata! If you can help get rid of 10 of them then Ant Hell will be a little bit safer."
 		},
 		Summary = ""
 	},
 	[7146] = {
-		Title = "Conquer Ant Hell!",
+		Title = "Eden: Conquer Ant Hell!",
 		Description = {
 			"You completed the training given to you from Clod. Go back to the Eden Group Office for your reward."
 		},
 		Summary = "Report to Instructor Boya at the Eden Group Office"
 	},
 	[7147] = {
-		Title = "Conquer Orc Village!",
+		Title = "Eden: Conquer Orc Village!",
 		Description = {
 			"Find a member of the Eden Group named <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> in Orc Village. She is in a hut near the Kafra Employee there."
 		},
 		Summary = ""
 	},
 	[7148] = {
-		Title = "Conquer Orc Village!",
+		Title = "Eden: Conquer Orc Village!",
 		Description = {
 			"They may be babies but they grow into fierce Orc Warriors. Hunt 10 Orc Baby monsters in Orc Village."
 		},
 		Summary = ""
 	},
 	[7149] = {
-		Title = "Conquer Orc Village!",
+		Title = "Eden: Conquer Orc Village!",
 		Description = {
 			"The next enemy is Orc Warriors. An orc baby becomes an Orc Warrior when they grow up. Hunt 10 Orc Warriors."
 		},
 		Summary = ""
 	},
 	[7150] = {
-		Title = "Conquer Orc Village!",
+		Title = "Eden: Conquer Orc Village!",
 		Description = {
 			"The next target is... yes you guessed it! Hunt 10 Orc Lady monsters in Orc Village."
 		},
 		Summary = ""
 	},
 	[7151] = {
-		Title = "Conquer Orc Village!",
+		Title = "Eden: Conquer Orc Village!",
 		Description = {
 			"You completed the training given to you from Hooksha. Go back to the Eden Group Office for your reward."
 		},
 		Summary = "Report to Instructor Boya at the Eden Group Office"
 	},
 	[7152] = {
-		Title = "Conquer Orc Dungeon!",
+		Title = "Eden: Conquer Orc Dungeon!",
 		Description = {
 			"Find a member of the Eden Grouop named <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> in Orc Village. She in a hut near the Kafra Employee there."
 		},
 		Summary = ""
 	},
 	[7153] = {
-		Title = "Conquer Orc Dungeon!",
+		Title = "Eden: Conquer Orc Dungeon!",
 		Description = {
 			"Orc Dungeon has many undead monsters there. We need to cleanse it of their filth. Start by hunting 20 Orc Zombies."
 		},
 		Summary = ""
 	},
 	[7154] = {
-		Title = "Conquer Orc Dungeon!",
+		Title = "Eden: Conquer Orc Dungeon!",
 		Description = {
 			"Your next target is the Orc Skeletons. These are what remain when the Orc Zombies decay enough. Hunting 20 Orc Skeletons should be enough."
 		},
 		Summary = ""
 	},
 	[7155] = {
-		Title = "Conquer Orc Dungeon!",
+		Title = "Eden: Conquer Orc Dungeon!",
 		Description = {
 			"You completed the training given to you from Hooksha. Go back to the Eden Group Office for your reward."
 		},
 		Summary = "Report to Instructor Boya at the Eden Group Office"
 	},
 	[7156] = {
-		Title = "Conquer the Underwater City!",
+		Title = "Eden: Conquer the Underwater City!",
 		Description = {
 			"Take a boat from Izlude to Byalan Island. Enter the lowest level of the dungeon to get to the Underwater City and find the <NAVI>[Eden Group Member]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> dispatched there."
 		},
 		Summary = ""
 	},
 	[7157] = {
-		Title = "Conquer the Underwater City!",
+		Title = "Eden: Conquer the Underwater City!",
 		Description = {
 			"Your first battle training here is to fight 15 Merman. Be careful as they are professional warriors of the sea."
 		},
 		Summary = ""
 	},
 	[7158] = {
-		Title = "Conquer the Underwater City!",
+		Title = "Eden: Conquer the Underwater City!",
 		Description = {
 			"The next opponent is the three-pronged fork wielding magician, Strouf. Find and fight 10 of them."
 		},
 		Summary = ""
 	},
 	[7159] = {
-		Title = "Conquer the Underwater City!",
+		Title = "Eden: Conquer the Underwater City!",
 		Description = {
 			"You completed the training given to you from Callandiva. Go back to the Eden Group Office for your reward."
 		},
@@ -16703,196 +16875,196 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7214] = {
-		Title = "Advanced Training at Comodo",
+		Title = "Eden: Advanced Training at Comodo",
 		Description = {
 			"Look for the cave located to the north. There's someone there named <NAVI>[Romeo]<INFO>comodo,173,354,0,101,0</INFO></NAVI>. You know? As in Romeo, Romeo, wherefore art thou Romeo."
 		},
 		Summary = "Find and speak to Romeo"
 	},
 	[7215] = {
-		Title = "Stalactic Golem Hunt",
+		Title = "Eden: Stalactic Golem Hunt",
 		Description = {
 			"There is a cave north of Comodo that has these big monsters there. It shouldn't be difficult to hunt 3 of them."
 		},
 		Summary = "Hunt 3 Stalactic Golems and return to Romeo in Comodo."
 	},
 	[7216] = {
-		Title = "More Golem Hunting",
+		Title = "Eden: More Golem Hunting",
 		Description = {
 			"Now that you've proven yourself, hunt 10 more Stalactic Golems so that travelers can travel safely through the cave."
 		},
 		Summary = "Hunt 10 Stalactic Golems and return to Romeo in Comodo"
 	},
 	[7217] = {
-		Title = "Field drops",
+		Title = "Eden: Field drops",
 		Description = {
 			"Instructor <NAVI>[Romeo]<INFO>um_fild01,34,280,0,101,0</INFO></NAVI> asked you to bring him some materials from hunting Wootans and Dryads in the field north of the Comodo Cave."
 		},
 		Summary = "Find 5 Shoulder Protector and 7 Sharp Leaf"
 	},
 	[7218] = {
-		Title = "Report to Instructor Ur",
+		Title = "Eden: Report to Instructor Ur",
 		Description = {
 			"Your tasks for Step 1 are over for now so go back to Eden Group Headquarters and speak to Instructor Ur."
 		},
 		Summary = "Report to Instructor Ur back at Eden Group Headquarters"
 	},
 	[7219] = {
-		Title = "Advanced Training at Glastheim",
+		Title = "Eden: Advanced Training at Glastheim",
 		Description = {
 			"Near Geffen, there is an area known as <NAVI>[Glastheim]<INFO>glast_01,195,131,0,101,0</INFO></NAVI> infested with undead and ghost monsters."
 		},
 		Summary = "Find and speak to Johan at Glastheim"
 	},
 	[7220] = {
-		Title = "Wraith Hunt",
+		Title = "Eden: Wraith Hunt",
 		Description = {
 			"Help clear out the Abbey by hunting the Wraiths inside."
 		},
 		Summary = "Hunt 20 Wraiths and return to Johan outside"
 	},
 	[7221] = {
-		Title = "Evil Druid hunt",
+		Title = "Eden: Evil Druid hunt",
 		Description = {
 			"Another problem monster in the Abbey is the Evil Druids. Hunt them inside the Abbey and return to Johan."
 		},
 		Summary = "Hunt 10 Evil Druids"
 	},
 	[7222] = {
-		Title = "Report to Instructor Ur",
+		Title = "Eden: Report to Instructor Ur",
 		Description = {
 			"Your hunting at Glastheim has helped clear the Abbey. Go back to Eden Group Headquarters and speak to Instructor Ur."
 		},
 		Summary = "Report to Instructor Ur back at Eden Group Headquarters"
 	},
 	[7223] = {
-		Title = "Advaned Training in Einbroch",
+		Title = "Eden: Advaned Training in Einbroch",
 		Description = {
 			"The industrial city of Einbroch east of Lighthalzen is where the next <NAVI>[training mission]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> is."
 		},
 		Summary = "Find the Dispatched Instructor Kiren at the field south of Einbroch"
 	},
 	[7224] = {
-		Title = "Porcellio hunting",
+		Title = "Eden: Porcellio hunting",
 		Description = {
 			"As a warm-up find and hunt 30 Porcellio monsters crawling around the fields of Einbroch."
 		},
 		Summary = "Hunt 30 Porcellios and return to Kiren at the field south of Einbroch"
 	},
 	[7225] = {
-		Title = "Invisible Quest",
+		Title = "Eden: Invisible Quest",
 		Description = {
 			"Place Holder"
 		},
 		Summary = "Place Holder"
 	},
 	[7226] = {
-		Title = "Venomous hunting",
+		Title = "Eden: Venomous hunting",
 		Description = {
 			"There are gaseous green monsters known as Venomous that have been terrorizing the workers north of Einbroch."
 		},
 		Summary = "Hunt 30 Venomous monsters"
 	},
 	[7227] = {
-		Title = "Teddy Bear hunting",
+		Title = "Eden: Teddy Bear hunting",
 		Description = {
 			"These Teddy Bears are not the cute cuddly things for kids. Hunt 5 of them quickly in the field north of Einbroch"
 		},
 		Summary = "Hunt 5 Teddy Bear monsters"
 	},
 	[7228] = {
-		Title = "Report to Instructor Ur",
+		Title = "Eden: Report to Instructor Ur",
 		Description = {
 			"Your work at the Einbroch area is done. Go back to Eden Group Headquarters and speak to Instructor Ur."
 		},
 		Summary = "Report to Instructor Ur back at Eden Group Headquarters."
 	},
 	[7229] = {
-		Title = "Advanced Training in Ice Dungeon",
+		Title = "Eden: Advanced Training in Ice Dungeon",
 		Description = {
 			"There is an <NAVI>[Ice Dungeon Cave]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI> if you travel North from Rachel. It's a long walk but it's worth it if you can make the trek."
 		},
 		Summary = "Find the Dispatched Instructor Naomi at the Ice Dungeon"
 	},
 	[7230] = {
-		Title = "Siroma hunting",
+		Title = "Eden: Siroma hunting",
 		Description = {
 			"You can confuse these for giant balls of snow but they're actually monsters in disguise."
 		},
 		Summary = "Hunt 30 Siroma monsters and return to Naomi near the cave entrance."
 	},
 	[7231] = {
-		Title = "Hunting and Gathering",
+		Title = "Eden: Hunting and Gathering",
 		Description = {
 			"Now that you have a feel for it, hunt 30 more Siromas and bring back 30 Ice Cubic, 1 Sweet Sauce and 1 Milk."
 		},
 		Summary = "Hunt 30 Siroma and bring 30 Ice Cubic, 1 Sweet Sauce and 1 Milk to Naomi."
 	},
 	[7232] = {
-		Title = "Report to Instructor Ur",
+		Title = "Eden: Report to Instructor Ur",
 		Description = {
 			"You are done hunting at Ice Dungeon. Go back to Eden Group Headquarters and speak to Instructor Ur."
 		},
 		Summary = "Report to Instructor Ur back at Eden Group Headquarters."
 	},
 	[7233] = {
-		Title = "Advanced Training at Ash Vacuum",
+		Title = "Eden: Advanced Training at Ash Vacuum",
 		Description = {
 			"Since you are a third class job, you should be able to fight the monsters at <NAVI>[Ash Vacuum]<INFO>mid_camp,212,229,0,101,0</INFO></NAVI> pretty easily."
 		},
 		Summary = "Find the Dispatched Instructor Margaret at the Midgard Expedition Camp"
 	},
 	[7234] = {
-		Title = "Margaret's favor",
+		Title = "Eden: Margaret's favor",
 		Description = {
 			"Margaret asked you to find the Dispatched Instructors Meeru and Mine. They're located at the fields just West and East of the Midgard Expedition Camp."
 		},
 		Summary = "Find Meeru and Mine and complete their quests and return to Margaret"
 	},
 	[7235] = {
-		Title = "Nepenthes Hunt",
+		Title = "Eden: Nepenthes Hunt",
 		Description = {
 			"Meeru asked you to hunt 1 Nepenthes monster at Manuk Field and return to him."
 		},
 		Summary = "Hunt 1 Nepenthes monster and return to Meeru"
 	},
 	[7236] = {
-		Title = "Pinguicula Hunt",
+		Title = "Eden: Pinguicula Hunt",
 		Description = {
 			"Mine asked you to hunt 5 Pinguicula monsters instead of him."
 		},
 		Summary = "Hunt 5 Pinguicula monsters and return to Mine"
 	},
 	[7237] = {
-		Title = "Report to Instructor Ur",
+		Title = "Eden: Report to Instructor Ur",
 		Description = {
 			"Your training is done at Ash Vacuum. Go back to Eden Group Headquarters and speak to Instructor Ur."
 		},
 		Summary = "Report to Instructor Ur back at Eden Group Headquarters."
 	},
 	[7238] = {
-		Title = "Errands for Thorn (easy)",
+		Title = "Eden: Errands for Thorn (easy)",
 		Description = {
 			"Thorn needs materials for refining so bring him 20 Iron Ore and 10 Iron."
 		},
 		Summary = "Collect 20 Iron Ore and 10 Iron"
 	},
 	[7239] = {
-		Title = "Errands for Thorn (hard)",
+		Title = "Eden: Errands for Thorn (hard)",
 		Description = {
 			"Thorn needs materials for refining so bring him 20 Used Iron Plate"
 		},
 		Summary = "Collect 20 Used Iron Plate"
 	},
 	[7240] = {
-		Title = "Equipment Enhancement",
+		Title = "Eden: Equipment Enhancement",
 		Description = {
 			"Bring your new Eden Group Equipment to Thorn and ask him to strengthen them for you and he will give you a random equipment bonus."
 		},
 		Summary = ""
 	},
 	[7241] = {
-		Title = "Errands for Thorn timer",
+		Title = "Eden: Errands for Thorn timer",
 		Description = {
 			"Return to Thorn after waiting 24 hours."
 		},
@@ -23598,7 +23770,7 @@ QuestInfoList = {
 		Summary = "Deliver 30 Meloring Skins"
 	},
 	[8538] = {
-		Title = "Tomorrow at the King's Heel",
+		Title = "Tomorrow at the King's Feet",
 		Description = {
 			"I never want to see another card again... But maybe I'll feel differently tomorrow! Let's go talk to Dr. Magnatum again tomorrow."
 		},
@@ -24945,6 +25117,22 @@ QuestInfoList = {
 		},
 		Summary = "Head to the front of the tree"
 	},
+	[8773] = {
+		Title = "Professor Worm's Worries",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Professor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI> seems to be trying to recall something he has forgotten again. Try to reassure him."
+		},
+		Summary = "Talk to Professor Worm"
+	},
+	[8774] = {
+		Title = "The Fastest Way to the New World",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The alliance of the three nations is now stable, so there is no need to meet its leaders or take a test. Talk to <NAVI>[Guard Captain Seobuk]<INFO>moc_fild22b,230,197,0,101,0</INFO></NAVI> near the dimensional rift."
+		},
+		Summary = "Talk to Guard Captain Seobuk at the rift"
+	},
 	[8859] = {
 		Title = "Recovered 5 trapped things",
 		IconName = "ico_dq.bmp",
@@ -25325,6 +25513,120 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
+	},
+	[8986] = {
+		Title = "Talk to Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Talked to Baby Shark who appeared in Comodo."
+		},
+		Summary = "Talk to Baby Shark (Complete)"
+	},
+	[8987] = {
+		Title = "Baby Shark's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Baby Shark]<INFO>comodo,199,145,0,101,0</INFO></NAVI>, who appeared in Comodo, asked you to defeat 20 monsters that are causing trouble in Baby Shark Playground."
+		},
+		Summary = "Defeat 20 monsters in the map"
+	},
+	[8988] = {
+		Title = "Where is Baby Shark hiding?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"If you find Baby Shark three times, you can receive <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>."
+		},
+		Summary = "Find the hidden Baby Shark"
+	},
+	[8989] = {
+		Title = "Baby Shark's Request (200lv)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Baby Shark]<INFO>comodo,199,145,0,101,0</INFO></NAVI>, who appeared in Comodo, asked you to defeat 300 Fish-type monsters of level 200 or higher."
+		},
+		Summary = "Defeat 300 Fish-type monsters of level 200 or higher"
+	},
+	[8990] = {
+		Title = "[Waiting] Baby Shark's Request",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today, you have defeated enough monsters that were bothering Baby Shark and his friends. Let's check back tomorrow to see if any more monsters need to be dealt with."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8991] = {
+		Title = "Treasure Hunt with Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today is treasure hunt day."
+		},
+		Summary = "Play with Baby Shark"
+	},
+	[8992] = {
+		Title = "Hide and Seek with Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today is hide and seek day."
+		},
+		Summary = "Play with Baby Shark"
+	},
+	[8993] = {
+		Title = "Find the Family with Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today is family finding day."
+		},
+		Summary = "Play with Baby Shark"
+	},
+	[8994] = {
+		Title = "[Waiting] Play with Baby Shark",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Today you already played with Baby Shark. Let's play again tomorrow!"
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8995] = {
+		Title = "Let's find the seashells!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Baby Shark said he hid treasures everywhere. But the treasure boxes all seem a little strange..."
+		},
+		Summary = "Talk to the treasure boxes"
+	},
+	[8996] = {
+		Title = "Got all the seashells!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Solved all the quizzes. Let's bring the seashells to Baby Shark."
+		},
+		Summary = "Talk to Baby Shark"
+	},
+	[8997] = {
+		Title = "Find Mommy Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was about to play with Baby Shark, but suddenly we started playing hide and seek with Mommy Shark. Let's find Mommy Shark!"
+		},
+		Summary = "Find Mommy Shark"
+	},
+	[8998] = {
+		Title = "Find Daddy Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was about to play with Baby Shark, but suddenly we started playing hide and seek with Daddy Shark. Let's find Daddy Shark!"
+		},
+		Summary = "Find Daddy Shark"
+	},
+	[8999] = {
+		Title = "Find Grandma Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was about to play with Baby Shark, but suddenly we started playing hide and seek with Grandma Shark. Let's find Grandma Shark!"
+		},
+		Summary = "Find Grandma Shark"
 	},
 	[9000] = {
 		Title = "Job Change to Knight",
@@ -31631,77 +31933,77 @@ QuestInfoList = {
 		Summary = "Rest if tired"
 	},
 	[11484] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"It is hard to understand, but seems like you have to get a Dry White Stem and come back to Jakk."
+			"It is hard to understand, but it seems you have to get a White Thin Stem and come back to Jakk."
 		},
-		Summary = "Obtained a Dry White Stem"
+		Summary = "Obtain a White Thin Stem"
 	},
 	[11485] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"It seems like the surprised kitty ran away when Jakk was captured. Ask Harorong, who was with Jakk."
+			"When Jakk was caught, the startled kitty seemed to run away. Ask Harorong who was with Jakk."
 		},
 		Summary = "Talk to Harorong"
 	},
 	[11486] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
 			"Nibble at the entrance may have seen the kitty. Talk to Nibble in the western entrance of Niflheim."
 		},
 		Summary = "Nibble in the western Niflheim"
 	},
 	[11487] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"A  small, white object quickly passed the entrance not so long ago. They are not sure if it was a cat. Let's ask the guy outside the entrance."
+			"Something small and white quickly passed the entrance not so long ago. They are not sure if it was a cat. Let's ask the guy outside the entrance."
 		},
-		Summary = "Talk to nervous Jakk"
+		Summary = "Talk to Trembling Jakk"
 	},
 	[11488] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
 			"Jakk said that Jakk's kitty went to the place called 'there'. Let's inform Jakk, who is trying to find the kitty."
 		},
 		Summary = "Talk to Jakk"
 	},
 	[11489] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
 			"Seems like Jakk's kitty went to Midgard through the stem of Yggdrasil. It probably went through Umbala. Let's investigate."
 		},
-		Summary = "Investigation on the northern entrance of Umbala"
+		Summary = "Investigate the north entrance to Umbala"
 	},
 	[11490] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"The researcher says that he told the small and white thing how to get to Moroc. Let's investigate the nearby northern entrance of Moroc."
+			"The researcher says that he told the small and white thing how to get to Morroc. Let's investigate the nearby northern entrance of Morroc."
 		},
-		Summary = "Investigation on the entrance of Moroc"
+		Summary = "Investigate the Morocc Entrance"
 	},
 	[11491] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"The merchant says that he told someone how to get to Alberta. Let's investigate the nearby northern entrance on Alberta."
+			"The merchant says that he told someone how to get to Alberta. Let's investigate the nearby northern entrance in Alberta."
 		},
-		Summary = "Investigation on the entrance of Alberta"
+		Summary = "Alberta Entrance Investigation"
 	},
 	[11492] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"If you go near the harbor, you can find many cats who want to take fish from you. Let's investigate near the harbor."
+			"If you go near the harbor, you may find many cats who want to get some fish. Let's investigate near the harbor."
 		},
-		Summary = "Investigation on Alberta harbor"
+		Summary = "Alberta Port Search"
 	},
 	[11493] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
-			"You found a white cat, but it doesn't look like Jakk's kitty. The pile of sand behind is suspicious. Let's investigate."
+			"You found a white cat, but it doesn't look like Jakk's kitty. The sand pile behind him is suspicious. Let's investigate."
 		},
-		Summary = "Investigation on the pile_of_sand"
+		Summary = "Investigation of the Sand Pile"
 	},
 	[11494] = {
-		Title = "Jakk and Jakk's cat",
+		Title = "Jakk and Jakk's Cat",
 		Description = {
 			"In the sand, you found bones that seem to come from a small animal. You also found a red necklace with a bell. Let's go back to Jakk."
 		},
@@ -31718,7 +32020,7 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Story",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"When I woke up to the sound of ghosts whispering, I arrived in Niflheim, the city of the dead. Let's hear the stories of ghosts."
+			"When I woke up to the sound of ghosts whispering, I arrived in Niflheim, the city of the dead. Let's hear some stories of ghosts."
 		},
 		Summary = "Talk to Hororong"
 	},
@@ -31734,38 +32036,38 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Story",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I heard about the place where Jakk was. Let him go back to Hululong."
+			"I heard about the place where Jakk was. Let him go back to Hururong."
 		},
-		Summary = "Talk to Hululong"
+		Summary = "Talk to Hururong"
 	},
 	[11501] = {
 		Title = "Jakk and the Jakks ",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Catch 10 running Jakks somewhere in the field or dungeon, and bring 10 Decorative Pumpkins that fall when you catch him, and 20 Dried White Stems to Hororong."
+			"Catch 10x Runaway Jakk somewhere in the field or dungeon, and bring 10x Pumpkin Decoration and 20x White Thin Stem to Hororong."
 		},
-		Summary = "Jakk to Niflheim",
+		Summary = "Bring Jakk to Niflheim",
 		RewardItemList = {
 			{ItemID = 11605, ItemNum = 30},
 			{ItemID = 6658, ItemNum = 1}
 		}
 	},
 	[11502] = {
-		Title = "Jakk and the Jakks - Wait",
+		Title = "[Waiting] Jakk and the Jakks",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I brought Jakk to Niflheim. According to the ghosts, Jakk says that if he stays in the living man's land too long, the stem will grow, so let's get some rest."
+			"I brought Jakk to Niflheim. According to the ghosts, Jakk says that if he stays in the world of the living for too long, the stem will grow, so let's get some rest."
 		},
-		Summary = "04:00 reset",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[11503] = {
 		Title = "Jakk and the Jakks ",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Catch 10 running Jakks somewhere in the field or dungeon, and bring 10 Decorative Pumpkins that fall when you catch him, and 20 Dried White Stems to Hororing."
+			"Catch 10x Runaway Jakk somewhere in the field or dungeon, and bring 10x Pumpkin Decoration and 20x White Thin Stem to Hororong."
 		},
-		Summary = "Jakk to Niflheim",
+		Summary = "Bring Jakk to Niflheim",
 		RewardItemList = {
 			{ItemID = 11605, ItemNum = 30},
 			{ItemID = 6658, ItemNum = 1}
@@ -31775,15 +32077,15 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It's hard to understand, but I think you can get a Dry White Stem and return it to Jakk."
+			"It is hard to understand, but it seems you have to get a White Thin Stem and come back to Jakk."
 		},
-		Summary = "Get Dry White Stem"
+		Summary = "Obtain a White Thin Stem"
 	},
 	[11505] = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"When Jakk was caught, the startled kitty seemed to run away. Ask Harolong who was with Jakk."
+			"When Jakk was caught, the startled kitty seemed to run away. Ask Harorong who was with Jakk."
 		},
 		Summary = "Talk to Harorong"
 	},
@@ -31791,23 +32093,23 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It is said that Nibble at the entrance may have seen the kitty. Talk to Nibble at the west entrance of Niflheim."
+			"Nibble at the entrance may have seen the kitty. Talk to Nibble in the western entrance of Niflheim."
 		},
-		Summary = "Nibble west of Niflheim"
+		Summary = "Nibble in the western Niflheim"
 	},
 	[11507] = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I don't know if it's a kitty or not, but it is said that a white, small and fast object passed through the entrance recently. Ask the guy outside the entrance."
+			"Something small and white quickly passed the entrance not so long ago. They are not sure if it was a cat. Let's ask the guy outside the entrance."
 		},
-		Summary = "Talk to Shivering Jakk"
+		Summary = "Talk to Trembling Jakk"
 	},
 	[11508] = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It is said that Jakk's kitty went to a place called there. Let Jakk know who's looking for the kitty."
+			"Jakk said that Jakk's kitty went to the place called 'there'. Let's inform Jakk, who is trying to find the kitty."
 		},
 		Summary = "Talk to Jakk"
 	},
@@ -31815,7 +32117,7 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Looks like Jakk's kitty went through the Yggdrasil stem to Midgard. It looks like we're going through Umbala, so let's investigate."
+			"Seems like Jakk's kitty went to Midgard through the stem of Yggdrasil. It probably went through Umbala. Let's investigate."
 		},
 		Summary = "Investigate the north entrance to Umbala"
 	},
@@ -31823,7 +32125,7 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The researcher is said to have pointed the way to Morocc to something small and white. Investigate near the northern entrance to Morocc."
+			"The researcher says that he told the small and white thing how to get to Morroc. Let's investigate the nearby northern entrance of Morroc."
 		},
 		Summary = "Investigate the Morocc Entrance"
 	},
@@ -31831,7 +32133,7 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It is said that the merchant showed someone the way to Alberta. Investigate the northern entrance to Alberta."
+			"The merchant says that he told someone how to get to Alberta. Let's investigate the nearby northern entrance in Alberta."
 		},
 		Summary = "Alberta Entrance Investigation"
 	},
@@ -31839,23 +32141,23 @@ QuestInfoList = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It is said that if you go to the port, there are a lot of kitties trying to get fish. Let's investigate the port area."
+			"If you go near the harbor, you may find many cats who want to get some fish. Let's investigate near the harbor."
 		},
-		Summary = "Alberta Port Survey"
+		Summary = "Alberta Port Search"
 	},
 	[11513] = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I found a white kitty, but it doesn't seem to be Jakk's kitty. The pile of sand behind is suspicious, so let's investigate."
+			"You found a white cat, but it doesn't look like Jakk's kitty. The sand pile behind him is suspicious. Let's investigate."
 		},
-		Summary = "Sand pile survey"
+		Summary = "Investigation of the Sand Pile"
 	},
 	[11514] = {
 		Title = "Jakk and Jakk's Cat",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"In a pile of sand, I found a red necklace with bones and bells that seemed to belong to a small animal. Let's go back to Jakk."
+			"In the sand, you found bones that seem to come from a small animal. You also found a red necklace with a bell. Let's go back to Jakk."
 		},
 		Summary = "Talk to Jakk in Niflheim",
 		RewardItemList = {
@@ -36949,7 +37251,7 @@ QuestInfoList = {
 	[12493] = {
 		Title = "Aftereffects of the Challenge",
 		Description = {
-			"This aftereffect is accompanied by a deep sense of helplessness. Once you have entered, you cannot challenge Glast Heim Challenge Mode again until 3 days have passed."
+			"This aftereffect is accompanied by a deep sense of helplessness. Once you have entered, you cannot challenge Glastheim Challenge Mode again until 3 days have passed."
 		},
 		Summary = "Resets at 4 AM. after 3 days"
 	},
@@ -37236,6 +37538,142 @@ QuestInfoList = {
 		Title = "",
 		Description = {""},
 		Summary = ""
+	},
+	[12544] = {
+		Title = "Discuss a Contract with Agent Gyaruk",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Find Agent Gyaruk and arrange a contract with the Cat Hand Merchant Guild.",
+			"<NAVI>[Midgard Allied Camp]<INFO>mid_camp,70,95,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Meet Gyaruk"
+	},
+	[12545] = {
+		Title = "Visit the Cat Hand Agent",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Meet the <NAVI>[Cat Hand Agent]<INFO>mid_camp,61,122,0,101,0</INFO></NAVI> at the Midgard Allied Camp, then return to <NAVI>[Fluffy Gyaruk]<INFO>mid_camp,70,95,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Visit the Cat Hand Agent and return"
+	},
+	[12546] = {
+		Title = "Meeting Gorureung",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Meet <NAVI>[Gorureung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> at the Midgard Allied Camp to improve your relationship with the Cat Hand Merchant Guild."
+		},
+		Summary = "Meet Gorureung"
+	},
+	[12547] = {
+		Title = "Gorureung's Fishing Spot",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Catch 10 <NAVI>[Gorureung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> and bring them to <ITEM>[Fish Pieces]<INFO>6039</INFO></ITEM> at the Midgard Allied Camp.",
+			"<NAVI>[Point 1]<INFO>mid_camp,71,129,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>spl_fild02,321,166,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>spl_fild02,326,168,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 4]<INFO>spl_fild02,314,162,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>spl_fild03,226,151,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>spl_fild03,268,230,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 7]<INFO>spl_fild03,293,253,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>spl_fild03,165,100,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>spl_fild03,317,190,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 10]<INFO>spl_fild01,41,118,0,101,0</INFO></NAVI><NAVI>[Point 11]<INFO>spl_fild01,317,361,0,101,0</INFO></NAVI><NAVI>[Point 12]<INFO>spl_fild01,55,269,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 13]<INFO>spl_fild01,332,131,0,101,0</INFO></NAVI><NAVI>[Point 14]<INFO>spl_fild01,170,74,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Catch fish at the fishing spots"
+	},
+	[12548] = {
+		Title = "Help the Mining Agent",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mine 3 <NAVI>[Cat Hand Mining Agent]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> and bring them to the <ITEM>[Unidentified Ore]<INFO>6048</INFO></ITEM> at the Midgard Allied Camp.",
+			"<NAVI>[Point 1]<INFO>man_fild01,178,170,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>man_fild01,147,160,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>man_fild01,112,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 4]<INFO>man_fild01,92,159,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>man_fild01,170,315,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>man_fild01,146,267,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 7]<INFO>man_fild01,118,236,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>man_fild01,70,243,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>man_fild01,64,194,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 10]<INFO>man_fild03,82,133,0,101,0</INFO></NAVI><NAVI>[Point 11]<INFO>man_fild03,67,159,0,101,0</INFO></NAVI><NAVI>[Point 12]<INFO>man_fild03,66,169,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 13]<INFO>man_fild03,81,196,0,101,0</INFO></NAVI><NAVI>[Point 14]<INFO>man_fild03,82,214,0,101,0</INFO></NAVI><NAVI>[Point 15]<INFO>man_fild03,98,224,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 16]<INFO>man_fild03,104,246,0,101,0</INFO></NAVI><NAVI>[Point 17]<INFO>man_fild03,91,270,0,101,0</INFO></NAVI><NAVI>[Point 18]<INFO>man_fild03,95,300,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 19]<INFO>man_fild02,143,78,0,101,0</INFO></NAVI><NAVI>[Point 20]<INFO>man_fild02,144,148,0,101,0</INFO></NAVI><NAVI>[Point 21]<INFO>man_fild02,85,262,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 22]<INFO>man_fild02,146,365,0,101,0</INFO></NAVI><NAVI>[Point 23]<INFO>man_fild02,336,305,0,101,0</INFO></NAVI><NAVI>[Point 24]<INFO>man_fild02,252,124,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 25]<INFO>man_fild02,285,115,0,101,0</INFO></NAVI><NAVI>[Point 26]<INFO>man_fild02,346,116,0,101,0</INFO></NAVI><NAVI>[Point 27]<INFO>man_fild02,358,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 28]<INFO>man_fild02,241,227,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Mine ore at the mining spots"
+	},
+	[12549] = {
+		Title = "Gorureung's Fishing Spot",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Catch 10 <NAVI>[Gorureung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> and bring them to <ITEM>[Fish Pieces]<INFO>6039</INFO></ITEM> at the Midgard Allied Camp.",
+			"<NAVI>[Point 1]<INFO>mid_camp,71,129,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>spl_fild02,321,166,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>spl_fild02,326,168,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 4]<INFO>spl_fild02,314,162,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>spl_fild03,226,151,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>spl_fild03,268,230,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 7]<INFO>spl_fild03,293,253,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>spl_fild03,165,100,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>spl_fild03,317,190,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 10]<INFO>spl_fild01,41,118,0,101,0</INFO></NAVI><NAVI>[Point 11]<INFO>spl_fild01,317,361,0,101,0</INFO></NAVI><NAVI>[Point 12]<INFO>spl_fild01,55,269,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 13]<INFO>spl_fild01,332,131,0,101,0</INFO></NAVI><NAVI>[Point 14]<INFO>spl_fild01,170,74,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Catch fish at the fishing spots"
+	},
+	[12550] = {
+		Title = "Help the Mining Agent",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mine 3 <NAVI>[Cat Hand Mining Agent]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> and bring them to the <ITEM>[Unidentified Ore]<INFO>6048</INFO></ITEM> at the Midgard Allied Camp.",
+			"<NAVI>[Point 1]<INFO>man_fild01,178,170,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>man_fild01,147,160,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>man_fild01,112,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 4]<INFO>man_fild01,92,159,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>man_fild01,170,315,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>man_fild01,146,267,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 7]<INFO>man_fild01,118,236,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>man_fild01,70,243,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>man_fild01,64,194,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 10]<INFO>man_fild03,82,133,0,101,0</INFO></NAVI><NAVI>[Point 11]<INFO>man_fild03,67,159,0,101,0</INFO></NAVI><NAVI>[Point 12]<INFO>man_fild03,66,169,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 13]<INFO>man_fild03,81,196,0,101,0</INFO></NAVI><NAVI>[Point 14]<INFO>man_fild03,82,214,0,101,0</INFO></NAVI><NAVI>[Point 15]<INFO>man_fild03,98,224,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 16]<INFO>man_fild03,104,246,0,101,0</INFO></NAVI><NAVI>[Point 17]<INFO>man_fild03,91,270,0,101,0</INFO></NAVI><NAVI>[Point 18]<INFO>man_fild03,95,300,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 19]<INFO>man_fild02,143,78,0,101,0</INFO></NAVI><NAVI>[Point 20]<INFO>man_fild02,144,148,0,101,0</INFO></NAVI><NAVI>[Point 21]<INFO>man_fild02,85,262,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 22]<INFO>man_fild02,146,365,0,101,0</INFO></NAVI><NAVI>[Point 23]<INFO>man_fild02,336,305,0,101,0</INFO></NAVI><NAVI>[Point 24]<INFO>man_fild02,252,124,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 25]<INFO>man_fild02,285,115,0,101,0</INFO></NAVI><NAVI>[Point 26]<INFO>man_fild02,346,116,0,101,0</INFO></NAVI><NAVI>[Point 27]<INFO>man_fild02,358,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Point 28]<INFO>man_fild02,241,227,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Mine ore at the mining spots"
+	},
+	[12551] = {
+		Title = "Meet the Agent at the Temporary Camp",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Find the Cat Hand Agent stationed at the temporary camp and arrange a contract with the merchant guild.",
+			"Destination: <NAVI>[Midgard Allied Camp]<INFO>mid_camp,62,123,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Meet the Cat Hand Agent"
+	},
+	[12552] = {
+		Title = "First Meeting with Kokkirin",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You completed your first conversation with Kokkirin."
+		},
+		Summary = "Meet Kokkirin"
+	},
+	[12553] = {
+		Title = "First Meeting with Hatcha",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You completed your first conversation with Hatcha."
+		},
+		Summary = "Meet Hatcha"
+	},
+	[12554] = {
+		Title = "First Meeting with Meong-Mung",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You completed your first conversation with Meong-Mung."
+		},
+		Summary = "Meet Meong-Mung"
+	},
+	[12555] = {
+		Title = "First Meeting with Keong-Eureung",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You completed your first conversation with Keong-Eureung."
+		},
+		Summary = "Meet Keong-Eureung"
+	},
+	[12556] = {
+		Title = "First Meeting with the Soul Guide",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You completed your first conversation with the Soul Guide."
+		},
+		Summary = "Meet the Soul Guide"
 	},
 	[13000] = {
 		Title = "RWC 2011Card Gathering",
@@ -45889,6 +46327,126 @@ QuestInfoList = {
 		NpcPosX = 181,
 		NpcPosY = 51
 	},
+	[16586] = {
+		Title = "The Path of Missionary Work",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You have been given a mission to spread the word of Odin throughout the continent. After completing the mission, report to <NAVI>[Missionary Rosetta]<INFO>prontera,226,329,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Rosetta after completing the mission"
+	},
+	[16587] = {
+		Title = "Missionary Work in Umbala",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> came to Umbala to spread the word of Odin. Ask Tite what trouble has arisen."
+		},
+		Summary = "Talk to Tite after completing the mission"
+	},
+	[16588] = {
+		Title = "Missionary Work in Einbroch",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> came to Einbroch to spread the word of Odin. Ask Suan what trouble has arisen."
+		},
+		Summary = "Talk to Suan after completing the mission"
+	},
+	[16589] = {
+		Title = "Feast of the Dead, Guiding the Living",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Find <NAVI>[Johan]<INFO>nif_dun01,101,246,0,101,0</INFO></NAVI>, who was drawn into the banquet hall by the Feast of the Dead, and bring him back."
+		},
+		Summary = "Talk to Johan"
+	},
+	[16590] = {
+		Title = "Feast of the Dead, Guiding the Living",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Find <NAVI>[Maria]<INFO>nif_dun01,213,148,0,101,0</INFO></NAVI>, who was drawn into the banquet hall by the Feast of the Dead, and bring her back."
+		},
+		Summary = "Talk to Maria"
+	},
+	[16591] = {
+		Title = "Feast of the Dead, Guiding the Living",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Find <NAVI>[Blue]<INFO>nif_dun01,160,183,0,101,0</INFO></NAVI>, who was drawn into the banquet hall by the Feast of the Dead, and bring them back."
+		},
+		Summary = "Talk to Blue"
+	},
+	[16592] = {
+		Title = "Feast of the Dead, The Festival Night Ends",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"To prevent the living from being drawn into the Feast of the Dead again, drive away 100 of the dead roaming the <NAVI>[Feast of the Dead Banquet Hall]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[16593] = {
+		Title = "The Mischievous Ones' Hide-and-Seek, Adults on Edge",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Find the mischievous <NAVI>[Ras]<INFO>ein_dun03,148,221,0,101,0</INFO></NAVI>, who slipped into Einbech Mine Dungeon Floor 3, and send him home."
+		},
+		Summary = "Talk to Ras"
+	},
+	[16594] = {
+		Title = "The Mischievous Ones' Hide-and-Seek, Adults on Edge",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Find the mischievous <NAVI>[Minas]<INFO>ein_dun03,38,152,0,101,0</INFO></NAVI>, who slipped into Einbech Mine Dungeon Floor 3, and send them home."
+		},
+		Summary = "Talk to Minas"
+	},
+	[16595] = {
+		Title = "The Mischievous Ones' Hide-and-Seek, Adults on Edge",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Find the mischievous <NAVI>[Tiris]<INFO>ein_dun03,234,20,0,101,0</INFO></NAVI>, who slipped into Einbech Mine Dungeon Floor 3, and send them home."
+		},
+		Summary = "Talk to Tiris"
+	},
+	[16596] = {
+		Title = "The Mischievous Ones' Hide-and-Seek, Desperate Efforts to Save Them",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Hunt 100 creatures in <NAVI>[Einbech Mine Dungeon Floor 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI> so the mischievous children hiding there do not come to harm."
+		},
+		Summary = ""
+	},
+	[16597] = {
+		Title = "Return to Prontera Cathedral",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The mission in Umbala is complete. Return to <NAVI>[Missionary Rosetta]<INFO>prontera,226,329,0,101,0</INFO></NAVI> in Prontera."
+		},
+		Summary = "Talk to Rosetta"
+	},
+	[16598] = {
+		Title = "Return to Prontera Cathedral",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The mission in Einbroch is complete. Return to <NAVI>[Missionary Rosetta]<INFO>prontera,226,329,0,101,0</INFO></NAVI> in Prontera."
+		},
+		Summary = "Talk to Rosetta"
+	},
+	[16599] = {
+		Title = "Return Safely After Completing the Mission",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You found all three people enthralled by the Feast of the Dead. After driving away 100 of the dead in the Feast of the Dead Banquet Hall, return to <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> and report."
+		},
+		Summary = "Talk to Tite"
+	},
+	[16600] = {
+		Title = "Return Safely After Completing the Mission",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"You found all the children in Einbech Mine Dungeon Floor 3. After hunting 100 creatures in Einbech Mine Dungeon Floor 3, return to <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> and report."
+		},
+		Summary = "Talk to Suan"
+	},
 	[16601] = {
 		Title = "Path of the Night Watch",
 		IconName = "ico_jq.bmp",
@@ -45920,6 +46478,62 @@ QuestInfoList = {
 			"You have passed the test and it's time to change your job. Let's talk to <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> and proceed with the change."
 		},
 		Summary = "Talk to Elena"
+	},
+	[16626] = {
+		Title = "Messenger - Ark's Request",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"You found signs of a fight in the fields near Splendide. The trail leads <NAVI>[north]<INFO>spl_fild01,341,109,0,101,0</INFO></NAVI>. Keep searching."
+		},
+		Summary = "Find traces of Terra"
+	},
+	[16627] = {
+		Title = "Messenger - Ark's Request",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The signs of a fight in the fields near Splendide lead toward <NAVI>[the roots of a giant tree]<INFO>spl_fild01,375,109,0,101,0</INFO></NAVI>. Keep searching."
+		},
+		Summary = "Find traces of Terra"
+	},
+	[16628] = {
+		Title = "Messenger - Ark's Request",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"While following Terra's trail in the fields near Splendide, you fell between the roots of a giant tree. Head <NAVI>[inside]<INFO>nyd_dun01,60,222,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Find traces of Terra"
+	},
+	[16629] = {
+		Title = "Messenger - Terra's Whereabouts",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Look for more <NAVI>[Yggdrasil Berries]<INFO>spl_fild01,312,77,0,101,0</INFO></NAVI> in the fields near Splendide."
+		},
+		Summary = "Collect Yggdrasil Berries"
+	},
+	[16630] = {
+		Title = "Messenger - Terra's Whereabouts",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Look for more <NAVI>[Yggdrasil Berries]<INFO>spl_fild01,331,28,0,101,0</INFO></NAVI> in the fields near Splendide."
+		},
+		Summary = "Collect Yggdrasil Berries"
+	},
+	[16631] = {
+		Title = "Messenger - Terra's Whereabouts",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Go <NAVI>[inside]<INFO>man_in01,17,128,0,101,0</INFO></NAVI> Manuk's prison and find out who the imprisoned Laphine is."
+		},
+		Summary = "Talk to Snorren inside the prison"
+	},
+	[16632] = {
+		Title = "Messenger - Proving the Truth",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Tell <NAVI>[Luik]<INFO>man_in01,19,126,0,101,0</INFO></NAVI> in Manuk Village about Terra's story."
+		},
+		Summary = "Talk to Luik"
 	},
 	[17000] = {
 		Title = "Refusal to Talk",
@@ -47716,6 +48330,86 @@ QuestInfoList = {
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
+	[17528] = {
+		Title = "Eden Group Basic Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Go meet the administrators who will continue providing you with equipment. First, it would be a good idea to meet Administrator <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>, who is in charge of armor."
+		},
+		Summary = "Administrator Thorn"
+	},
+	[17529] = {
+		Title = "Eden Group Basic Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Next, go meet <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>, who is in charge of advanced weapons."
+		},
+		Summary = "Administrator Michael"
+	},
+	[17530] = {
+		Title = "Eden Group Basic Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Now it's time to receive equipment you can use right away. Go see <NAVI>[BK]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Administrator BK"
+	},
+	[17531] = {
+		Title = "Eden Group Basic Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Go to <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI> and tell him that you've received all of your basic equipment."
+		},
+		Summary = "Report to Instructor Ur"
+	},
+	[17532] = {
+		Title = "Eden Group Shadow Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"If you want additional equipment, talk to <NAVI>[Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Talk to Instructor Boya"
+	},
+	[17533] = {
+		Title = "Eden Group Shadow Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"If you need Shadow Equipment, go meet Administrator <NAVI>[Emil]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI> in the armory."
+		},
+		Summary = "Administrator Emil"
+	},
+	[17534] = {
+		Title = "Eden Group Shadow Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Report to <NAVI>[Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI> that you've received the Shadow Equipment. It would be a problem if the distribution record isn't reported."
+		},
+		Summary = "Report to Instructor Boya"
+	},
+	[17535] = {
+		Title = "Eden Group Basic Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"If you don't have any decent basic equipment, talk to the instructor <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI> next to me about getting some."
+		},
+		Summary = "Talk to Instructor Ur"
+	},
+	[17536] = {
+		Title = "Eden Group Advanced Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Bring 15 Elastic Bands and 3 Blue Hairs to <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI> to receive advanced armor."
+		},
+		Summary = "Armor Materials"
+	},
+	[17537] = {
+		Title = "Eden Group Advanced Equipment",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Bring 15 Old Picks to <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI> to receive an advanced weapon."
+		},
+		Summary = "Weapon Materials"
+	},
 	[17538] = {
 		Title = "Path of Sky: Are you calling me?",
 		IconName = "ico_jq.bmp",
@@ -47917,7 +48611,7 @@ QuestInfoList = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems confusing, let's wait for the Duckling in­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"It seems confusing, let's wait for the Duckling in? <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Wait"
 	},
@@ -47985,6 +48679,102 @@ QuestInfoList = {
 			"The search of the marked area has been completed."
 		},
 		Summary = "Search ended"
+	},
+	[17578] = {
+		Title = "Time to Analyze",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Uhari]<INFO>eclage,282,255,0,101,0,</INFO></NAVI> has received the research document, but says it is so complex that analyzing it will take time. Wait in Eclage and speak to him again after a while."
+		},
+		Summary = "Talk to Uhari"
+	},
+	[17579] = {
+		Title = "Information Gathering Complete",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"It seems you cannot obtain any more information from the Sapha. Return to <NAVI>[Shay]<INFO>dic_in01,245,119,0,101,0,</INFO></NAVI> at the El Dicastes tavern and report your findings."
+		},
+		Summary = "Talk to Shay"
+	},
+	[17580] = {
+		Title = "After the Hypnosis",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After repeatedly hypnotizing you in his office in El Dicastes, Ahat tells you to follow <NAVI>[Cheshire]<INFO>dic_in01,294,276,0,101,0,</INFO></NAVI>'s instructions from now on. Talk to Cheshire."
+		},
+		Summary = "Talk to Cheshire"
+	},
+	[17581] = {
+		Title = "Cheshire's Summons Concluded",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After you returned to El Dicastes and showed Cheshire proof that the traces had been removed, he was very pleased. Talk to <NAVI>[Ahat]<INFO>dic_in01,300,280,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Talk to Ahat"
+	},
+	[17582] = {
+		Title = "Preparing to Report",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"For now, it seems best to keep traveling to El Dicastes and following Cheshire's instructions so they believe you are still hypnotized. Your business here is finished, so go <NAVI>[outside]<INFO>dic_in01,138,188,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Go outside"
+	},
+	[17583] = {
+		Title = "After Gathering Her Thoughts",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"After seeing the evidence you presented in El Dicastes, <NAVI>[Hesranta]<INFO>dic_in01,158,188,0,101,0,</INFO></NAVI> seems to pause during the conversation to gather her thoughts."
+		},
+		Summary = "Talk to Hesranta"
+	},
+	[17584] = {
+		Title = "Come Closer",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Surprisingly, the renowned minister of El Dicastes is a human, not a Sapha. <NAVI>[Ahat]<INFO>dic_in01,300,280,0,101,0,</INFO></NAVI> asked you to come closer and talk."
+		},
+		Summary = "Talk to Ahat"
+	},
+	[17585] = {
+		Title = "Manuk's Envoy",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"The <NAVI>[Expedition Member]<INFO>mid_campin,93,114,0,101,0,</INFO></NAVI> sent to Manuk has reportedly returned to the Allied Camp with Manuk's envoy. Why not meet them?"
+		},
+		Summary = "Go inside"
+	},
+	[17586] = {
+		Title = "The Sapha's Invitation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Surprisingly, <NAVI>[Bihanus]<INFO>mid_campin,110,120,0,101,0,</INFO></NAVI>, who is staying at the Allied Camp, is a Sapha from their capital, El Dicastes. The Sapha Ravail has opened the capital to humans and formally invited them. When you are ready, ask what you need to do."
+		},
+		Summary = "Talk to Bihanus"
+	},
+	[17587] = {
+		Title = "Inspector Doha",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Inspector <NAVI>[Doha]<INFO>mid_campin,168,170,0,101,0,</INFO></NAVI>, who is staying at the Allied Camp, has begun discussing the report incident and its witness."
+		},
+		Summary = "Talk to Doha"
+	},
+	[17588] = {
+		Title = "B.K.'s Cooperation",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[B.K.]<INFO>dic_fild01,231,174,0,101,0,</INFO></NAVI> of the Cat Hand Merchant Guild at the foot of Mount Kamidal will only provide information in exchange for Sapha Certifications. Keep giving him certifications until you have enough information."
+		},
+		Summary = "Talk to B.K."
+	},
+	[17589] = {
+		Title = "Pretend to Be Hypnotized",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Ahat]<INFO>dic_in01,300,280,0,101,0,</INFO></NAVI> kept trying to hypnotize you in his office in El Dicastes. Pretending to be hypnotized during the conversation may help you obtain information."
+		},
+		Summary = "Talk to Ahat"
 	},
 	[17605] = {Summary = ""},
 	[17607] = {
@@ -49056,6 +49846,633 @@ QuestInfoList = {
 		},
 		Summary = "Talk to Nihil"
 	},
+	[19000] = {
+		Title = "Blooming Flower Land",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Blooming Flower Land]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board whn finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Blooming Flower Land"
+	},
+	[19001] = {
+		Title = "[Waiting] Blooming Flower Land",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19002] = {
+		Title = "Meditatio Bathhouse",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Meditatio Bathhouse]<INFO>ba_bath,160,29,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Meditatio Bathhouse"
+	},
+	[19003] = {
+		Title = "[Waiting] Meditatio Bathhouse",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19004] = {
+		Title = "Corridor of Memories",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Corridor of Memories]<INFO>ba_lib,160,13,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Corridor of Memories"
+	},
+	[19005] = {
+		Title = "[Waiting] Corridor of Memories",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19006] = {
+		Title = "Sewage Treatment Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Sewage Treatment Plant]<INFO>ba_pw02,276,22,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Sewage Treatment Plant"
+	},
+	[19007] = {
+		Title = "[Waiting] Sewage Treatment Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19008] = {
+		Title = "First Magic Power Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[First Magic Power Plant]<INFO>ba_pw01,17,116,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in First Magic Power Plant"
+	},
+	[19009] = {
+		Title = "[Waiting] First Magic Power Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19010] = {
+		Title = "Dragon's Lair I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Dragon's Lair Floor 2]<INFO>lasa_dun02,25,171,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Dragon's Lair"
+	},
+	[19011] = {
+		Title = "[Waiting] Dragon's Lair I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19012] = {
+		Title = "Bifrost Tower",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Bifrost Tower]<INFO>ecl_tdun01,56,18,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Bifrost Tower"
+	},
+	[19013] = {
+		Title = "[Waiting] Bifrost Tower",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19014] = {
+		Title = "Dragon's Lair II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Dragon's Lair Floor 3]<INFO>lasa_dun03,190,22,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Dragon's Lair"
+	},
+	[19015] = {
+		Title = "[Waiting] Dragon's Lair II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19016] = {
+		Title = "Underground Prison of Prontera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Underground Prison of Prontera]<INFO>prt_prison,161,290,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Underground Prison of Prontera"
+	},
+	[19017] = {
+		Title = "[Waiting] Underground Prison of Prontera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19018] = {
+		Title = "Invaded Prontera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in ^0000FFInvaded Prontera^000000. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Invaded Prontera"
+	},
+	[19019] = {
+		Title = "[Waiting] Invaded Prontera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19020] = {
+		Title = "Rock Ridge Mine",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Rock Ridge Mine]<INFO>rockmi1,245,22,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Rock Ridge Mine"
+	},
+	[19021] = {
+		Title = "[Waiting] Rock Ridge Mine",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19022] = {
+		Title = "Glastheim Castle Floor 2 Corridor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Glastheim Castle Floor 2 Corridor]<INFO>gl_cas02_,104,32,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Cursed Wanderer"
+	},
+	[19023] = {
+		Title = "[Waiting] Glastheim Castle Floor 2 Corridor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19024] = {
+		Title = "Underground Bunker",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in ^0000FFUnderground Bunker^000000. Report to the Advanced Mission Board when finished.",
+			"^FF0000[ ! ]There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Smelly Ghoul"
+	},
+	[19025] = {
+		Title = "[Waiting] Underground Bunker",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19026] = {
+		Title = "Laboratory - OPTATIO",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Laboratory - OPTATIO]<INFO>verus01,240,63,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Repair Robot Turbo, Green Cenere"
+	},
+	[19027] = {
+		Title = "[Waiting] Laboratory - OPTATIO",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19028] = {
+		Title = "Clock Tower - Twisted Time 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Clock Tower - Twisted Time 2F]<INFO>c_tower2_,269,26,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Big Ben, Neo Punk"
+	},
+	[19029] = {
+		Title = "[Waiting] Clock Tower - Twisted Time 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19030] = {
+		Title = "Pitaya's Farm",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters <NAVI>[Pitaya's Farm]<INFO>ba_lost,162,41,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Pitaya's Farm"
+	},
+	[19031] = {
+		Title = "[Waiting] Pitaya's Farm",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19032] = {
+		Title = "Clock Tower - Twisted Time 3F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Distorted Clock Tower 3F]<INFO>c_tower3_,64,148,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Big Bell"
+	},
+	[19033] = {
+		Title = "[Waiting] Clock Tower - Twisted Time 3F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19034] = {
+		Title = "Rachel Oz Canyon",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Rachel Oz Canyon]<INFO>ra_fild10,378,284,0,101,0</INFO></NAVI>. Rreport to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Ashen Goat, Baby Gray Wolf"
+	},
+	[19035] = {
+		Title = "[Waiting] Rachel Oz Canyon",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19036] = {
+		Title = "Rudus - Laboratory Waste Disposal Plant 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Rudus - Laboratory Waste Disposal Plant 2F]<INFO>sp_rudus2,186,257,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Rudus - Laboratory Waste Disposal Plant 2F"
+	},
+	[19037] = {
+		Title = "[Waiting] Rudus - Laboratory Waste Disposal Plant 2F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19038] = {
+		Title = "Eastern Ruins of Juperos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Eastern Ruins of Juperos]<INFO>ver_eju,17,148,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Recon Robot"
+	},
+	[19039] = {
+		Title = "[Waiting] Eastern Ruins of Juperos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19040] = {
+		Title = "Verus City",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Verus City - Research Building - WISH]<INFO>verus02,72,23,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat Explorer Robot, Explorer Robot Turbo"
+	},
+	[19041] = {
+		Title = "[Waiting] Verus City",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19042] = {
+		Title = "Tartaros Storage Upper Floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Tartaros Storage Upper Floor]<INFO>ba_2whs01,156,34,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Tartaros Storage Upper Floor"
+	},
+	[19043] = {
+		Title = "[Waiting] Tartaros Storage Upper Floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19044] = {
+		Title = "Oz Labyrinth 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Oz Labyrinth 1F]<INFO>oz_dun01,284,171,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Oz Labyrinth 1F"
+	},
+	[19045] = {
+		Title = "[Waiting] Oz Labyrinth 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19046] = {
+		Title = "Rudus - Laboratory Waste Disposal Plant 3F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Rudus, Laboratory Waste Disposal Plant 3F]<INFO>sp_rudus3,364,207,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Rudus, Discarded Experiment Disposal Site 3F"
+	},
+	[19047] = {
+		Title = "[Waiting] Rudus - Laboratory Waste Disposal Plant 3F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19048] = {
+		Title = "Juno Noggroad Floor 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Juno Noggroad Floor 3]<INFO>mag_dun03,119,123,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Juno Noggroad Floor 3"
+	},
+	[19049] = {
+		Title = "[Waiting] Juno Noggroad Floor 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19050] = {
+		Title = "Tartaros Storage Lower Floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Tartaros Storage Lower Floor]<INFO>ba_2whs02,337,331,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Tartaros Storage Lower Floor"
+	},
+	[19051] = {
+		Title = "[Waiting] Tartaros Storage Lower Floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19052] = {
+		Title = "Glast Heim Abyss 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Glastheim Abyss Floor 1]<INFO>gl_cas01_,200,33,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Glast Heim Abyss 1F"
+	},
+	[19053] = {
+		Title = "[Waiting] Glast Heim Abyss 1F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19054] = {
+		Title = "Gray Wolf Forest I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Gray Wolf Forest]<INFO>gw_fild01,274,337,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Gray Wolf Forest"
+	},
+	[19055] = {
+		Title = "[Waiting] Gray Wolf Forest I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19056] = {
+		Title = "Gray Wolf Forest II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Gray Wolf Forest]<INFO>gw_fild02,122,384,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Gray Wolf Forest"
+	},
+	[19057] = {
+		Title = "[Waiting] Gray Wolf Forest",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19058] = {
+		Title = "Einbech Mine 3F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Einbech Mine 3F]<INFO>ein_dun03,268,277,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Einbech Mine 3F"
+	},
+	[19059] = {
+		Title = "[Waiting] Einbech Mine 3F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19060] = {
+		Title = "Ancient Odin's Temple",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Ancient Odin's Temple]<INFO>odin_past,291,230,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Ancient Odin's Temple"
+	},
+	[19061] = {
+		Title = "[Waiting] Ancient Odin's Temple",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19062] = {
+		Title = "Abyss Lake Underground Cave 4F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Abyss Lake Underground Cave 4F]<INFO>abyss_04,168,162,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Abyss Lake Underground Cave 4F"
+	},
+	[19063] = {
+		Title = "[Waiting] Abyss Lake Underground Cave 4F",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[19064] = {
+		Title = "Second Magic Power Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is an exclusive Eden Group mission.",
+			"Defeat monsters in <NAVI>[Second Magic Power Plant]<INFO>ba_pw03,17,115,0,101,0</INFO></NAVI>. Report to the Advanced Mission Board when finished.",
+			"^FF0000*There may be requirements to enter this area.^000000"
+		},
+		Summary = "Defeat monsters in Second Magic Power Plant"
+	},
+	[19065] = {
+		Title = "[Waiting] Second Magic Power Plant",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This is a daily quest. Once the cooldown expires, you can accept and complete it again. This quest can be accepted from the Eden Group Advanced Mission Board."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
 	[19066] = {
 		Title = "Investigator Rudolf's story",
 		IconName = "ico_ev.bmp",
@@ -49515,7 +50932,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[19116] = {
-		Title = "Pisruik's Research (1)",
+		Title = "Pisrick's Research (1)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"If you deliver the materials I need right now, I'll teach you what I'm making in return. The materials I need now are..",
@@ -49524,7 +50941,7 @@ QuestInfoList = {
 			"10 <ITEM>[Mermaid's Heart]<INFO>950</INFO></ITEM>,",
 			"10 <ITEM>[Moth Dust]<INFO>1057</INFO></ITEM>",
 			"",
-			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Once you have all the materials, bring them to <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_ALCHE_D",
@@ -49533,12 +50950,12 @@ QuestInfoList = {
 		NpcPosY = 108
 	},
 	[19117] = {
-		Title = "Pisruik's Research (2-1)",
+		Title = "Pisrick's Research (2-1)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I need about 20 <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM> to test my theory.. Could I ask you for this too?",
 			"",
-			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Once you have all the materials, bring them to <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
 		},
 		Summary = "20 Maneater Blossom",
 		NpcSpr = "4_M_ALCHE_D",
@@ -49547,12 +50964,12 @@ QuestInfoList = {
 		NpcPosY = 108
 	},
 	[19118] = {
-		Title = "Pisruik's Research (2-2)",
+		Title = "Pisrick's Research (2-2)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"The experiment isn't going as well as I thought.. Could you get me just 1 more <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM>? Please.",
 			"",
-			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Once you have all the materials, bring them to <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1 Maneater Blossom",
 		NpcSpr = "4_M_ALCHE_D",
@@ -49561,12 +50978,12 @@ QuestInfoList = {
 		NpcPosY = 108
 	},
 	[19119] = {
-		Title = "Pisruik's Research (3)",
+		Title = "Pisrick's Research (3)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Um.. I'm sorry, but could you get me glasses like the ones I was wearing? I can't see ahead, so I can't move. I'd really appreciate it if you could get them for me.",
 			"",
-			"Obtain <ITEM>[Geek Glasses]<INFO>2243</INFO></ITEM> and bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+			"Obtain <ITEM>[Geek Glasses]<INFO>2243</INFO></ITEM> and bring them to <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
 			"^FF0000 Please make sure you do not have another pair of Geek Glasses equipped in your inventory.^000000"
 		},
 		Summary = "1 Geek Glasses",
@@ -49605,10 +51022,10 @@ QuestInfoList = {
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Riot.. Does he mean he won't teach me easily?",
-			"A place you can reach by riding tree roots? Niflhiem?",
-			"Does he want me to bring five Yhelle eggs from Niflhiem?",
+			"A place you can reach by riding tree roots? Niflheim?",
+			"Does he want me to bring five Yhelle eggs from Niflheim?",
 			"",
-			"Find Yhelle in Niflhiem, obtain five <ITEM>[eggs]<INFO>574</INFO></ITEM>, and bring them to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
+			"Find Yhelle in Niflheim, obtain five <ITEM>[eggs]<INFO>574</INFO></ITEM>, and bring them to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
 			"",
 			"Yhelle Appearance Areas",
 			"<NAVI>[Location]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
@@ -50158,21 +51575,21 @@ QuestInfoList = {
 		Summary = "Hunt Zombie for Leno"
 	},
 	[21015] = {
-		Title = "Undead War",
+		Title = "Eden: Undead War",
 		Description = {
 			"The growing number of zombies and skeletons is overwhelming the Payon guards. You have been asked to kill 10 zombies and 20 skeletons to reduce their numbers. The skeletons won't appear until you get deeper into the cave."
 		},
 		Summary = "Kill undead in Payon Cave"
 	},
 	[21016] = {
-		Title = "UndeadWar-Rest",
+		Title = "Undead War - Rest",
 		Description = {
 			"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from a soldier in Payon Archer Village."
 		},
 		Summary = "Reset at 04:00"
 	},
 	[21017] = {
-		Title = "Soul Purification Ritual",
+		Title = "Eden: Soul Purification Ritual",
 		Description = {
 			"You need 'Banhonbu' to purify the souls of the grieving spirits of the villagers who were buried in the past. Defeat Munak and Vaughan to collect the Half-Horned Parts. Munak and Vaughn appear on the 3rd floor of Payon Cave."
 		},
@@ -50186,7 +51603,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21019] = {
-		Title = "The Best Medicine",
+		Title = "Eden: The Best Medicine",
 		Description = {
 			"A monk of great power asks you to appease a ghost fire with clear liquor in exchange for 10 spirit breaths. The clear liquor can be obtained from <NAVI>[Payon's grandfather]<INFO>payon,192,109,0,101,0</INFO></NAVI>, and the ghost fire can be found in the Abandoned Village on the 4th floor of Payon's cave."
 		},
@@ -50200,7 +51617,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21021] = {
-		Title = "Traces of Great Magic",
+		Title = "Eden: Traces of Great Magic",
 		Description = {
 			"You don't know why you need a Girl's Handkerchief to find the Trace of Magic, but a young scholar has asked for three of them. You can get them from Sohee in the Abandoned Village of Payon Cave."
 		},
@@ -50249,7 +51666,7 @@ QuestInfoList = {
 		Summary = "2 pieces of dry wood"
 	},
 	[21028] = {
-		Title = "Honeyed labor",
+		Title = "Eden: Honeyed labor",
 		Description = {
 			"You've decided to make a tree for your son. Catch 5 Willows in the forest south of Payon, gather 3 Barren Trunk, and bring them to the middle-aged man who will be waiting impatiently."
 		},
@@ -50270,11 +51687,11 @@ QuestInfoList = {
 		Summary = "boa hunt"
 	},
 	[21031] = {
-		Title = "Professional Snake Hunter",
+		Title = "Eden: Professional Snake Hunter",
 		Description = {
 			"I decided to continue my hunt for boas in the forest east of Payon. Today you will kill 5 boas."
 		},
-		Summary = "boa-hunting"
+		Summary = "Boa-hunting"
 	},
 	[21032] = {
 		Title = "Professional Snake Hunter - Wait",
@@ -50291,7 +51708,7 @@ QuestInfoList = {
 		Summary = "1 scaly stalk"
 	},
 	[21034] = {
-		Title = "Noxious onion",
+		Title = "Eden: Noxious onion",
 		Description = {
 			"After realizing that the wormtail was confusing people, Grandma asked you to kill it. Wormtails can be found in the forests east of Payon."
 		},
@@ -50312,7 +51729,7 @@ QuestInfoList = {
 		Summary = "Hunt Spore"
 	},
 	[21037] = {
-		Title = "Mushroom Paradise",
+		Title = "Eden: Mushroom Paradise",
 		Description = {
 			"Payon's grandfather is alarmed by the fecundity of the spores. He wants you to kill them before the forest to the east is overrun with them. Hunt the Spores!"
 		},
@@ -50333,7 +51750,7 @@ QuestInfoList = {
 		Summary = "Talk to a nervous middle-aged man"
 	},
 	[21040] = {
-		Title = "Prison Break",
+		Title = "Eden: Prison Break",
 		Description = {
 			"In the dungeons of Glastheim itself, a dark force has taken hold, raising the dead and reanimating the undead."
 		},
@@ -50347,7 +51764,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21042] = {
-		Title = "A Vicious Torturer",
+		Title = "Eden: A Vicious Torturer",
 		Description = {
 			"Demons are said to be sneaking out of the dungeons of Glastheim, taking advantage of the chaos. Nadir tries to help Karon, but it's not enough. Nadir asks you to defeat Livio."
 		},
@@ -50361,7 +51778,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21044] = {
-		Title = "Refind Taste",
+		Title = "Eden: Refind Taste",
 		Description = {
 			"The Glastheim dungeons are said to be infested with demons who have taken advantage of the chaos to sneak out. Nadir struggles to help Karon, but it's not enough. Nadir asks you to defeat Injustice."
 		},
@@ -50382,7 +51799,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21047] = {
-		Title = "Moscovia Nightmare",
+		Title = "Eden: Moscovia Nightmare",
 		Description = {
 			"^4d4dffDeep in the forests of the Moscovia region^000000, there are said to be many fairies. One of them asks you to exterminate the ^4d4dffUzhas^000000 that scare and harass passersby. Moscovia can be reached by boat from Alberta."
 		},
@@ -50396,7 +51813,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21049] = {
-		Title = "Beautiful Doll",
+		Title = "Eden: Beautiful Doll",
 		Description = {
 			"This is a request to defeat ^4d4fffMiyabi^000000, a youma who dazzles people with her beautiful appearance, in the Tatami Labyrinth^000000 inside ^4d4fffAmatsu's keep. Amatsu can be reached by boat from Alberta."
 		},
@@ -50410,7 +51827,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21051] = {
-		Title = "Rice cakes made from sand?",
+		Title = "Eden: Rice cakes made from sand?",
 		Description = {
 			"This is a request to exorcize the ^4d4dffMi Gao^000000, a monster created when the sand on the beach in front of Luoyang's Yongji Castle^000000 clumped together by itself. Luoyang can be reached by boat from Alberta."
 		},
@@ -50424,7 +51841,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21053] = {
-		Title = "Headless Horse",
+		Title = "Eden: Headless Horse",
 		Description = {
 			"This is a request to exterminate the ^4d4dffHeadless Mule^000000 that is terrorizing people in the ^4d4dffBrazilis Fields^000000. Brasilis can be reached by boat from Alberta."
 		},
@@ -50438,7 +51855,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21055] = {
-		Title = "Temple Lion",
+		Title = "Eden: Temple Lion",
 		Description = {
 			"This is a request to exterminate the ^4d4dffTamruan^000000, the original guardian of the ^4d4dffAyothaya Ancient Temple^000000, who is now terrorizing worshippers. Ayothaya can be reached by boat from Alberta."
 		},
@@ -50452,7 +51869,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21057] = {
-		Title = "Rainbow Bird",
+		Title = "Eden: Rainbow Bird",
 		Description = {
 			"This is a request to control the number of ^4d4dffToucans^000000 that have suddenly increased in number in ^4d4dffBrasilis Field^000000 and are damaging crops. Brasilis can be reached by boat from Alberta."
 		},
@@ -50466,7 +51883,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21059] = {
-		Title = "Broom, Cast Iron Pot, and Grandmother",
+		Title = "Eden: Broom, Cast Iron Pot, and Grandmother",
 		Description = {
 			"An old woman riding a broom and riding a large cauldron has been seen in the ^4d4dffdeep, deep forests of Moscovia^000000. Because the old woman riding the cauldron and wielding the broom is a witch, this witch, ^4d4dffBaba Yaga^000000, is asking you to exorcise her. Moscovia can be reached by boat from Alberta."
 		},
@@ -50480,7 +51897,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21061] = {
-		Title = "Losers, Winners, and the those left behind",
+		Title = "Eden: Losers, Winners, and the those left behind",
 		Description = {
 			"It is said that the ^4d4dffTatami Labyrinth of Amatsu^000000 is haunted by soldiers who were sacrificed in a fierce war long ago. This is a request to exterminate the ^4d4dffFirelock Soldier^000000 for the safety of the castle. Amatsu can be reached by boat from Alberta."
 		},
@@ -50494,7 +51911,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21063] = {
-		Title = "Celestial Lady",
+		Title = "Eden: Celestial Lady",
 		Description = {
 			"The ^4d4dffKunlun's Muling Temple^000000 is visited by many people, but it has become a problem because a beautiful fairy has appeared and attacked people. This is a request to stop the dangerous ^4d4dffFairy Maiden^000000. Kunlun can be reached by boat from Alberta."
 		},
@@ -50508,7 +51925,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21065] = {
-		Title = "A Tomb Where Secrets Sleep",
+		Title = "Eden: A Tomb Where Secrets Sleep",
 		Description = {
 			"^4d4dffThe royal tomb of Yongji Castle^000000 holds many legends and secrets. But it's also home to many ghosts, which can be a real headache. This is a request to exorcise ^4d4dffHye-gun and Imaemang-lang^000000, who are particularly obstructive to the investigation of the tomb. Yongji Castle can be reached by boat from Alberta."
 		},
@@ -50522,7 +51939,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21067] = {
-		Title = "Shinobi Hunting",
+		Title = "Eden: Shinobi Hunting",
 		Description = {
 			"One of the many secrets in ^4d4dffAmatsu's Tatami Labyrinth^000000 is a long-dead shinobi who was in charge of information warfare. He is asked to kill a ^4d4dffShinobi^000000 who has lost his identity and is attacking people. Amatsu can be reached by boat from Alberta."
 		},
@@ -50536,7 +51953,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21069] = {
-		Title = "Monkey King Candidate",
+		Title = "Eden: Monkey King Candidate",
 		Description = {
 			"A peach monster and a group of monkeys have appeared at ^4d4dffKunlun's Temple of the West King Mother^000000, asking you to defeat them before they grow up to become Goku and wreak even more havoc. Kunlun can be reached by boat from Alberta."
 		},
@@ -50550,7 +51967,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21071] = {
-		Title = "Old Man on the Clouds",
+		Title = "Eden: Old Man on the Clouds",
 		Description = {
 			"^4d4dffKunlun's Checkerboard of Freshness^000000's home is naturally fresh, but for some reason, this freshness is a nasty one. You've been asked to help rid the people of the ^4d4dffUnfortunate Ship^000000, which has been causing trouble. Kunlun can be reached by boat from Alberta."
 		},
@@ -50760,7 +52177,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21101] = {
-		Title = "Hunt a Hunterfly",
+		Title = "Eden: Hunt a Hunterfly",
 		Description = {
 			"The Geffen Tower is organizing a dungeon monster extermination campaign in cooperation with the Order of Paradise. Show your skills by defeating 10 Hunterflies on the first floor of Geffen's underground dungeon."
 		},
@@ -50774,14 +52191,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21103] = {
-		Title = "Hunting Hunterflies",
+		Title = "Eden: Hunting Hunterflies",
 		Description = {
 			"The monsters in the basement of Geffen Tower continue to multiply every day. Defeat ten Hunterflies again today."
 		},
 		Summary = "Defeat 10 Hunterflies"
 	},
 	[21104] = {
-		Title = "Hunting Ghouls and Jacks",
+		Title = "Eden: Hunting Ghouls and Jacks",
 		Description = {
 			"Geffen Tower is coordinating with the Order of Paradise to defeat the dungeon monsters. Go down to the second floor of Geffen's dungeon and defeat 10 ghouls and 10 jacks each."
 		},
@@ -50795,14 +52212,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21106] = {
-		Title = "Ghoul and Jakk Hunting",
+		Title = "Eden: Ghoul and Jakk Hunting",
 		Description = {
 			"The monsters in the basement of Geffen Tower continue to multiply every day. Today, kill 10 ghouls and 10 jacks each."
 		},
 		Summary = "Defeat 10 Ghouls and 10 Jacks"
 	},
 	[21107] = {
-		Title = "Marionettes and Deviruchi Hunting",
+		Title = "Eden: Marionettes and Deviruchi Hunting",
 		Description = {
 			"Defeat 10 Marionettes and 10 Deviroots living on the third floor of Geffen Tower's basement."
 		},
@@ -50816,14 +52233,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21109] = {
-		Title = "Marionettes and Deviruchi Hunting",
+		Title = "Eden: Marionettes and Deviruchi Hunting",
 		Description = {
 			"The monsters in Geffen Tower's basement are growing every day. Let's defeat 10 Marionettes and 10 Deviruchi today."
 		},
 		Summary = "Defeat 10 Marionettes and 10 Deviruchi"
 	},
 	[21110] = {
-		Title = "Riding a Nightmare",
+		Title = "Eden: Riding a Nightmare",
 		Description = {
 			"The man claims that he can't sleep because he has nightmares because there are nightmares in the dungeons of Geffen Tower. We don't find this very believable, but let's kill 10 Nightmares anyway."
 		},
@@ -50837,14 +52254,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21112] = {
-		Title = "Riding a Nightmare",
+		Title = "Eden: Riding a Nightmare",
 		Description = {
 			"The man says he's had nightmares again today and demands that you bring the Nightmare back. Are nightmares really the problem? Anyway, let's bring back the 10 Nightmares."
 		},
 		Summary = "Defeat 10 Nightmares"
 	},
 	[21113] = {
-		Title = "Cute Sky Petite",
+		Title = "Eden: Cute Sky Petite",
 		Description = {
 			"The boy says he can't get close to Pete because he's too aggressive, so he asks you to go find a gentle Pete for him. Try petting a petit in its habitat and bring back a petit that doesn't attack you. If they do attack, you'll have to fight them off!"
 		},
@@ -50858,14 +52275,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21115] = {
-		Title = "Cute Sky Petite",
+		Title = "Eden: Cute Sky Petite",
 		Description = {
 			"Let's go up to the petits and say hello. If they greet you, bring them back, but if they attack you, fight back!"
 		},
 		Summary = "Defeat 10 Flying Petites"
 	},
 	[21116] = {
-		Title = "Ground Pete is cute",
+		Title = "Eden: Ground Pete is cute",
 		Description = {
 			"The boy says that a ground pet is okay, and he wants you to go to the ground pet colony and bring him a pet that doesn't attack. How many petits do you have to fight to find one that doesn't attack?"
 		},
@@ -50879,7 +52296,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21118] = {
-		Title = "Cute Ground Petite",
+		Title = "Eden: Cute Ground Petite",
 		Description = {
 			"Let's go up to the petits and say hello. If they greet you, bring them back, but if they attack you, fight back!"
 		},
@@ -50900,7 +52317,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21122] = {
-		Title = "Friends Rescue",
+		Title = "Eden: Friends Rescue",
 		Description = {
 			"Defeat 20 Pirate Skeleton for Kale, then capture him and bring him back."
 		},
@@ -50935,7 +52352,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21127] = {
-		Title = "Eating Kukre Liver",
+		Title = "Eden: Eating Kukre Liver",
 		Description = {
 			"Today we hunt for the treasures that would have been eaten by the Kukre."
 		},
@@ -50956,7 +52373,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21130] = {
-		Title = "Poor Man's Treasure",
+		Title = "Eden: Poor Man's Treasure",
 		Description = {
 			"Today, let's hide old coins in the wrecks to motivate our adventurers."
 		},
@@ -50998,7 +52415,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21136] = {
-		Title = "Cleaning the Wrecked Ship 1F",
+		Title = "Eden: Cleaning the Wrecked Ship 1F",
 		Description = {
 			"To fulfill your promise to Drake's ghost, defeat the monsters on the first floor of the wreck and collect 10 bone fragments, 5 worm carapaces, and 5 tentacles."
 		},
@@ -51012,14 +52429,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21138] = {
-		Title = "Cleaning the Wrecked Ship 2F",
+		Title = "Eden: Cleaning the Wrecked Ship 2F",
 		Description = {
 			"To fulfill our promise to Drake's Ghost, let's take on the monsters on the second floor of the Wreck."
 		},
 		Summary = "10 Whispers and a Swift Sailor Skull"
 	},
 	[21140] = {
-		Title = "A Peaceful Pilgrimage",
+		Title = "Eden: A Peaceful Pilgrimage",
 		Description = {
 			"Hunt 30 Roweens at Rachel Airport to protect the pilgrims and adventurers entering and leaving Rachel."
 		},
@@ -51033,14 +52450,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21142] = {
-		Title = "Today's pilgrimage is still peaceful",
+		Title = "Eden: Today's pilgrimage is still peaceful",
 		Description = {
 			"Rachel Airport is still bustling today. To prevent the weak from being harmed, hunt 30 Roweens."
 		},
 		Summary = "Slay 30 Roweens"
 	},
 	[21143] = {
-		Title = "Guardian of Beauty",
+		Title = "Eden: Guardian of Beauty",
 		Description = {
 			"The Siromas on the first floor of the Ice Cave have done unspeakable things to the young man. It's a bit of a shame, but... slay 30 Siromas and help him get his revenge."
 		},
@@ -51054,14 +52471,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21145] = {
-		Title = "Guardian of Beauty",
+		Title = "Eden: Guardian of Beauty",
 		Description = {
 			"I don't know if I should be so angry, but I'm still going to punish those who are up to no good. Let's get 30 Siroma today."
 		},
 		Summary = "Defeat 30 Siromas"
 	},
 	[21146] = {
-		Title = "Stone Swallowing Stone",
+		Title = "Eden: Stone Swallowing Stone",
 		Description = {
 			"To help the villagers who make their living by gathering minerals, defeat 30 Stapo to buy them time to gather minerals."
 		},
@@ -51075,14 +52492,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21148] = {
-		Title = "Stone Swallowing Stone",
+		Title = "Eden: Stone Swallowing Stone",
 		Description = {
 			"Let's hunt down 30 Stapo that swallow minerals, stones, and anything else they can find so the villagers can pick up the minerals."
 		},
 		Summary = "Defeat 30 Stapo"
 	},
 	[21149] = {
-		Title = "Explore Turtle Island",
+		Title = "Eden: Explore Turtle Island",
 		Description = {
 			"You won't be able to find the missing knights anyway. Go to Turtle Island, catch as many Dragon Tails and Spring Rabbits as you can, and report back."
 		},
@@ -51096,35 +52513,35 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21151] = {
-		Title = "Exploring Turtle Island again today",
+		Title = "Eden: Exploring Turtle Island again today",
 		Description = {
 			"For the 2nd Knights of Turtle Island, hunt down 10 Dragon Tails and 10 Spring Rabbits."
 		},
 		Summary = "Dragon Tail and Spring Rabbit killed 10 each"
 	},
 	[21152] = {
-		Title = "Defeat the Turtles Swarm 1",
+		Title = "Eden: Defeat the Turtles Swarm 1",
 		Description = {
 			"There are reports of people inside the dungeons of Turtle Island. To ensure that those exploring the dungeon are not endangered, hunt down Soliders and Permutators."
 		},
 		Summary = "Kill 10 Soliders and 10 Permutations each"
 	},
 	[21153] = {
-		Title = "Defeat the Turtles Swarm 1",
+		Title = "Eden: Defeat the Turtles Swarm 1",
 		Description = {
 			"To keep the Second Knights of Turtle Island out of harm's way, let's help them by hunting down Soliders and Permutators."
 		},
 		Summary = "Defeated 10 Soliders and 10 Permutators"
 	},
 	[21154] = {
-		Title = "Defeat the Turtles Swarm 2",
+		Title = "Eden: Defeat the Turtles Swarm 2",
 		Description = {
 			"There are reports of humans inside the dungeons of Turtle Island. To ensure that those exploring the dungeon are not endangered, hunt down Freezers and Hitters."
 		},
 		Summary = "Defeated 10 Frieza and 10 Hitters each"
 	},
 	[21155] = {
-		Title = "Defeat the Turtles Swarm 2",
+		Title = "Eden: Defeat the Turtles Swarm 2",
 		Description = {
 			"To keep the Second Knights of Turtle Island out of harm's way, hunt down Frieza and Hitter to help them."
 		},
@@ -51145,7 +52562,7 @@ QuestInfoList = {
 		Summary = "Talk to the missing Templar leader on Turtle Island"
 	},
 	[21158] = {
-		Title = "Hunt for the Ursuline",
+		Title = "Eden: Hunt for the Ursuline",
 		Description = {
 			"To help the Templar find his way around, kill 10 Ursulines."
 		},
@@ -51159,7 +52576,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21160] = {
-		Title = "Hunting Ground",
+		Title = "Eden: Hunting Ground",
 		Description = {
 			"To aid the Templar in his quest, let's kill 10 Assaulter again today."
 		},
@@ -51173,35 +52590,35 @@ QuestInfoList = {
 		Summary = "Talk to Knight Tibald"
 	},
 	[21162] = {
-		Title = "Hide old coins",
+		Title = "Eden: Hide old coins",
 		Description = {
 			"Let's hide old coins in a shipwreck."
 		},
 		Summary = "Hide an old coin in a shipwreck"
 	},
 	[21163] = {
-		Title = "Hide the old coin again",
+		Title = "Eden: Hide the old coin again",
 		Description = {
 			"Let's hide some old coins in the wreck."
 		},
 		Summary = "Hide old coins in a shipwreck"
 	},
 	[21164] = {
-		Title = "Keep hiding old coins",
+		Title = "Eden: Keep hiding old coins",
 		Description = {
 			"Let's hide old coins in the wreck."
 		},
 		Summary = "Hide old coins in the shipwreck"
 	},
 	[21165] = {
-		Title = "Keep hiding old coins",
+		Title = "Eden: Keep hiding old coins",
 		Description = {
 			"Let's hide the old coins in the wreck."
 		},
 		Summary = "Keep hiding old coins in the wrecks"
 	},
 	[21166] = {
-		Title = "Hide all the old coins",
+		Title = "Eden: Hide all the old coins",
 		Description = {
 			"Let's hide the old coins in the shipwreck."
 		},
@@ -51383,7 +52800,7 @@ QuestInfoList = {
 		Summary = "Talk to the apprentice"
 	},
 	[21202] = {
-		Title = "Guys Who Get in The Way",
+		Title = "Eden: Guys Who Get in The Way",
 		Description = {
 			"The old scholar's apprentice, whom you found in a corner of the desert, says he can't go any further because of the Sandman, and asks you to defeat him and collect ^4d4dff5^000000 sand grains."
 		},
@@ -51404,7 +52821,7 @@ QuestInfoList = {
 		Summary = "1 Fieldaxe"
 	},
 	[21205] = {
-		Title = "Insomniac",
+		Title = "Eden: Insomniac",
 		Description = {
 			"A request from Rumin, a member of the Thieves' Guild. He says the guild members are uncomfortable with Berit and Minoruros living in the guild's basement. Let's defeat Berit and Minoruros."
 		},
@@ -51460,7 +52877,7 @@ QuestInfoList = {
 		Summary = "1 tattered papyrus"
 	},
 	[21213] = {
-		Title = "Defeat Isis",
+		Title = "Eden: Defeat Isis",
 		Description = {
 			"You've been asked to kill Isis that are in the way of smooth exploration. Isistles are concentrated on the second and fourth floors of the pyramid."
 		},
@@ -51474,7 +52891,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21215] = {
-		Title = "Sphinx's Workers",
+		Title = "Eden: Sphinx's Workers",
 		Description = {
 			"You have been asked to kill Jerome and Requiem, who are interfering with the investigation inside the Sphinx. Jerome and Requiem can be found on the first and second floors of the Sphinx."
 		},
@@ -51488,7 +52905,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21217] = {
-		Title = "Secrets of the Sphinx",
+		Title = "Eden: Secrets of the Sphinx",
 		Description = {
 			"It seems that Marduk needs more of his 'old papyrus'. While you're at it, you've been asked to kill Parsa as well, to facilitate our exploration."
 		},
@@ -51502,7 +52919,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21219] = {
-		Title = "Mummies and an Old Blue Box",
+		Title = "Eden: Mummies and an Old Blue Box",
 		Description = {
 			"You've been asked by Maxim and his crew to defeat 10 ^4d4dffMiiras and bring back 1^000000 Relic of the Dead."
 		},
@@ -51523,7 +52940,7 @@ QuestInfoList = {
 		Summary = "Defeat Pecopeco and Muka"
 	},
 	[21222] = {
-		Title = "Noisy Fellows",
+		Title = "Eden: Noisy Fellows",
 		Description = {
 			"I decided to start taking requests from the locals. First, I received a request to exterminate PecoPeco and Muka, which I had practiced before. The complaints come mainly from the field southwest of Izlude, and all of them say that it's too noisy."
 		},
@@ -51544,7 +52961,7 @@ QuestInfoList = {
 		Summary = "defeating lapis lazuli and mettlers"
 	},
 	[21225] = {
-		Title = "Eggs and Grasshoppers",
+		Title = "Eden: Eggs and Grasshoppers",
 		Description = {
 			"A request brought to you by Instructor Fontes for training. He asks you to defeat the Muca and Metaller that appear when you leave Izlude and head southwest or south-southwest. If you've defeated Muka and Peco Peco before, you'll recognize the field as being nearby."
 		},
@@ -51565,7 +52982,7 @@ QuestInfoList = {
 		Summary = "Talk to Helden the university student"
 	},
 	[21228] = {
-		Title = "Collecting Samples is Harder than it Appears!",
+		Title = "Eden: Collecting Samples is Harder than it Appears!",
 		Description = {
 			"Helden needs biology samples, but he's too afraid to enter the dungeon. He asks you to hunt down marina and plankton, which are found on the first floor of the Undersea Caverns, and obtain the specimen \"single cells.\""
 		},
@@ -51586,7 +53003,7 @@ QuestInfoList = {
 		Summary = "5 claws"
 	},
 	[21231] = {
-		Title = "Go with the Tide",
+		Title = "Eden: Go with the Tide",
 		Description = {
 			"The traveling cat vendor asks you to get more claws for him, as he thinks his claw clan will be a successful item. Bardons can be found on the second floor of the Undersea Caverns of Izlude."
 		},
@@ -51614,7 +53031,7 @@ QuestInfoList = {
 		Summary = "10 Ink"
 	},
 	[21235] = {
-		Title = "Dream Lover",
+		Title = "Eden: Dream Lover",
 		Description = {
 			"Nonda Ankana is very drunk. She keeps talking about a woman she met while drunk, but no matter what she says, it's Obonne. She asks you to confirm that the woman she saw was indeed Ovonne. Defeat Ovonne and take the mermaid's heart as proof."
 		},
@@ -51628,7 +53045,7 @@ QuestInfoList = {
 		Summary = "Deliver the ink soup to Ernest"
 	},
 	[21237] = {
-		Title = "Kindness to a friend",
+		Title = "Eden: Kindness to a friend",
 		Description = {
 			"Ernest is angry at the group's lackadaisical behavior, but somehow touched by their concern for him. He asks you to remove the menacing monsters Swordfish and Mark from the fourth floor so that they can investigate more comfortably."
 		},
@@ -51642,7 +53059,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21239] = {
-		Title = "Deliver the Ingredients",
+		Title = "Eden: Deliver the Ingredients",
 		Description = {
 			"Zowon Kusekili doesn't do much research in dungeons, only cooking. If you can find just one ingredient in the dungeon, you'll be able to cook something amazing. Defeat Marth and ask for the ink."
 		},
@@ -51663,7 +53080,7 @@ QuestInfoList = {
 		Summary = "One dorsal fin, one ancient language lip"
 	},
 	[21242] = {
-		Title = "Annoying Guards",
+		Title = "Eden: Annoying Guards",
 		Description = {
 			"After realizing that Strauf was not a sea god, Maxim wants to visit the underground temple, but is disturbed by the presence of the polite Strauf and Merman, so he asks you to kill them."
 		},
@@ -51705,21 +53122,21 @@ QuestInfoList = {
 		Summary = "defeat Amberknight"
 	},
 	[21249] = {
-		Title = "Playground Stabilization Operation - Hornet",
+		Title = "Eden: Playground Stabilization Operation - Hornet",
 		Description = {
 			"Outside the gates of Prontera, a boy named Paul asks you if you're strong and if you are, can you help him kill a hornet? He's been warned not to play outside because the bees that escaped from the accidentally knocked over hive have become wild and dangerous. Help protect the playground by killing the hornets."
 		},
-		Summary = "Slay Honet"
+		Summary = "Slay Hornet"
 	},
 	[21250] = {
-		Title = "Playground Stabilization Operation - Rocker",
+		Title = "Eden: Playground Stabilization Operation - Rocker",
 		Description = {
 			"Outside the west gate of Prontera, courtesy of Paul. He says that there is a local population of giant locusts just south of him, and he doesn't know when they will invade the western fields, so he wants you to protect them from an unseen threat. Reassure him by defeating the Rockers in the Southwest Fields of Prontera."
 		},
 		Summary = "defeat Rockers"
 	},
 	[21251] = {
-		Title = "The legendary knight, Amber Knight!",
+		Title = "Eden: The legendary knight, Amber Knight!",
 		Description = {
 			"Outside the West Gate of Prontera, a girl named Anne asks for help. A man named Hohenhallhoch has told her that the fearsome knight Amberknight may be advancing on Prontera from the western fields, and she needs you to stop him. Let's defeat the Amber Knight and reassure him."
 		},
@@ -51754,7 +53171,7 @@ QuestInfoList = {
 		Summary = "Talk to the Templars' office staff"
 	},
 	[21256] = {
-		Title = "Operation Orc Wipeout",
+		Title = "Eden: Operation Orc Wipeout",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"I've joined the Orc extermination. The leader called out curiously. \"Let's wipe out the ^4d4dffOrc Warrior, Orc Crady, and Orc Baby^000000 families!\" Let's live up to our expectations and wipe them out!"
@@ -51770,7 +53187,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21258] = {
-		Title = "Disgusting Orcs",
+		Title = "Eden: Disgusting Orcs",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"In the dungeons beneath the Orc Village, undead orc zombies and orc skeletons reside. Let's get rid of these unholy orcs."
@@ -51786,7 +53203,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21260] = {
-		Title = "A Greedy Person",
+		Title = "Eden: A Greedy Person",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"On the second floor of the underground tunnels of the Orc Village, there is a deformed orc named \"Zenorc\" who has never seen sunlight and has become greedy. Defeat this greedy creature."
@@ -51802,7 +53219,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21262] = {
-		Title = "Gruesome Goblin Cleanup",
+		Title = "Eden: Gruesome Goblin Cleanup",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"South of the Orc Village, a small band of goblins live in a village. The Deputy Leader of the Exterminators has asked for your help in exterminating the goblins, saying that they, like the orcs, must be stopped from expanding their territory."
@@ -51818,7 +53235,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21264] = {
-		Title = "Swift Goblin Cleanup",
+		Title = "Eden: Swift Goblin Cleanup",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"To the south of the Orc Village, there is a small clan of goblins. The Deputy Leader of the Exterminators has asked for your help in exterminating the goblins, saying that like the orcs, they must be kept from expanding their territory."
@@ -51858,7 +53275,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21269] = {
-		Title = "Tough Fellows",
+		Title = "Eden: Tough Fellows",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Some of the goblins have expanded their territory into the fields east of the Goblin Clan. The Vice-Captain of the Ravagers has ordered the goblins to be exterminated, saying that any further expansion must be stopped."
@@ -51881,7 +53298,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21272] = {
-		Title = "Monastery Purification",
+		Title = "Eden: Monastery Purification",
 		Description = {
 			"Claude has asked you to deal with the undead Wraiths and Evil Druids inside the monastery. If you can find a priest inside performing the cleansing, he should be able to provide some simple assistance."
 		},
@@ -51895,7 +53312,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21274] = {
-		Title = "Catacombs Stabilization",
+		Title = "Eden: Catacombs Stabilization",
 		Description = {
 			"The old priests buried in the catacombs of the monastery have awakened as undead and are causing trouble. Defeat the Dark Priest and the Raging Dark Priest to help stabilize the monastery."
 		},
@@ -51916,7 +53333,7 @@ QuestInfoList = {
 		Summary = "Talk to the guard at the border crossing"
 	},
 	[21277] = {
-		Title = "Border Checkpoint Work",
+		Title = "Eden: Border Checkpoint Work",
 		Description = {
 			"Chezare, the warden of the border checkpoint, says it's too much work for his limited staff to handle complaints from passersby, so he's asked you to do it for him. The monsters in the field near the checkpoint."
 		},
@@ -51937,7 +53354,7 @@ QuestInfoList = {
 		Summary = "5 goat's fur, 5 peco wing feathers"
 	},
 	[21280] = {
-		Title = "Improve School Safety",
+		Title = "Eden: Improve School Safety",
 		Description = {
 			"The guards responsible for the safety of the Kil Heir Academy are concerned about the number of attacks by harpies and slippers in the field between the academy and the cottages, and have requested that the harpies and slippers be exterminated."
 		},
@@ -51951,7 +53368,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21282] = {
-		Title = "Groundbreaking Business Item",
+		Title = "Eden: Groundbreaking Business Item",
 		Description = {
 			"The cat hand trader you met in front of Kil Hir Academy has asked you to obtain ^4d4dff10 mountain goat furs and 10 peco wing feathers^000000. He plans to sell quilts and pillows to the students."
 		},
@@ -51965,11 +53382,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21284] = {
-		Title = "A Solid Finish",
+		Title = "Eden: A Solid Finish",
 		Description = {
-			"A female student who had been watching the Cat's Hand Merchant at Kil'hyr Academy has requested an additional request, saying that since Grant Peko and Gout have entered the academy, she would like to make sure that they are defeated."
+			"A female student who had been watching the Cat's Hand Merchant at Kil'hyr Academy has requested an additional request, saying that since Grand Peco and Goat have entered the academy, she would like to make sure that they are defeated."
 		},
-		Summary = "Gout defeats Grand Peko"
+		Summary = "Goat defeats Grand Peco"
 	},
 	[21285] = {
 		Title = "A Solid Finish - Wait",
@@ -51979,7 +53396,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21286] = {
-		Title = "Clean Clock Tower 1F",
+		Title = "Eden: Clean Clock Tower 1F",
 		Description = {
 			"This is a request from Al De Baran Clock Tower Manager Serdin. He wants you to help him clean the clock tower by defeating the demonized book ^4d4dffRideword^000000 and dust ^4d4dffPunk^000000 on the first floor of the clock tower."
 		},
@@ -51993,7 +53410,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21288] = {
-		Title = "A Living, Moving Clock 1",
+		Title = "Eden: A Living, Moving Clock 1",
 		Description = {
 			"In the Clock Tower, there are small clocks that come to life. Clockmaster Serdin has ordered their destruction, saying that those who have forgotten their true purpose are unforgivable. Clocks are most commonly found on the second floor of the Clock Tower."
 		},
@@ -52007,7 +53424,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21290] = {
-		Title = "A Living, Moving Clock 2",
+		Title = "Eden: A Living, Moving Clock 2",
 		Description = {
 			"In addition to the clock, there was another clock in the clock tower. This one is more annoying than the Clock, and you've been asked to kill it because it keeps going off without warning. Alarms are most common on the third floor of the Clock Tower."
 		},
@@ -52021,7 +53438,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21292] = {
-		Title = "Laughter from Underground",
+		Title = "Eden: Laughter from Underground",
 		Description = {
 			"There is a dungeon beneath Al De Baran, which is said to lead to the basement of the Clock Tower. Serdin is haunted by the sound of a witch's laughter from deep below. He asks you to exorcize the witch, saying that she may be responsible for the state of the clock tower."
 		},
@@ -52035,21 +53452,21 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21294] = {
-		Title = "Noble War",
+		Title = "Eden: Noble War",
 		Description = {
 			"Ain, a fisherman in Whigel, says that the crabs and esters that wash up on the beach ruin his trimmed nets and he has to trim them again every time, so he asks you to exterminate the crabs and esters to prevent them from ruining his nets."
 		},
 		Summary = "Exterminate the crabs and asters"
 	},
 	[21295] = {
-		Title = "Shell Digging Experience",
+		Title = "Eden: Shell Digging Experience",
 		Description = {
 			"Ein, a fisherman in Hugel, suggests that since you're in the seaside resort town of Hugel, why not experience the life of an authentic fishing village? If you catch the clams and get the shells, he will prepare a delicious dish for you."
 		},
 		Summary = "5 Clams"
 	},
 	[21296] = {
-		Title = "Pipe Failure",
+		Title = "Eden: Pipe Failure",
 		Description = {
 			"Mr. Dry, who is in charge of the waterworks in Whigel, has been having trouble with the water pipes connected to Lake Abyss, and has requested that the Novus around the lake be properly exterminated."
 		},
@@ -52091,7 +53508,7 @@ QuestInfoList = {
 		Summary = "talk to friedrich"
 	},
 	[21302] = {
-		Title = "Clean Up The Surroundings, please",
+		Title = "Eden: Clean Up The Surroundings, please",
 		Description = {
 			"At Friedrich's request, I've decided to clean up the area around the factory building by exterminating the Metalings and Holdens that are digging in and eating and damaging things."
 		},
@@ -52112,7 +53529,7 @@ QuestInfoList = {
 		Summary = "Talk to Atin"
 	},
 	[21305] = {
-		Title = "Shadow Miner",
+		Title = "Eden: Shadow Miner",
 		Description = {
 			"You've been asked to take care of a troublesome Pitman in the Einbach Coal Mine. The Einbach Coal Mine is located inside the town. Let's focus on the first floor of the mine."
 		},
@@ -52126,7 +53543,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21307] = {
-		Title = "Why is it moving like that!",
+		Title = "Eden: Why is it moving like that!",
 		Description = {
 			"In the Einbech Coal Mine, a scrap metal stove that was supposed to be a resting place for the miners has broken down and started attacking the miners. Defeat the scrap hearth and bring peace to the mines."
 		},
@@ -52140,7 +53557,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21309] = {
-		Title = "Jumping Minerals",
+		Title = "Eden: Jumping Minerals",
 		Description = {
 			"Minerals and Obsidians are on the rampage on the second floor of the Einbach Mine, and the miners are having trouble. Let's deal with the Minerals and Obsidians."
 		},
@@ -52161,7 +53578,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21312] = {
-		Title = "Floating Toxic Gas 1",
+		Title = "Eden: Floating Toxic Gas 1",
 		Description = {
 			"You're needed to help stop the poisonous gas from spreading to Lighthalzen and beyond. Defeat the Venomus found in Einbroch Field."
 		},
@@ -52175,7 +53592,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21314] = {
-		Title = "Floating Toxic Gas 2",
+		Title = "Eden: Floating Toxic Gas 2",
 		Description = {
 			"You're needed to help stop the poisonous gas from spreading to Lighthalzen and beyond. Defeat the Noxious found in Einbroch Fields."
 		},
@@ -52189,7 +53606,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21316] = {
-		Title = "Cute and Terrible",
+		Title = "Eden: Cute and Terrible",
 		Description = {
 			"A rogue automaton in the shape of a bear is attacking people in a field near Einbroch. Don't be fooled by its cute appearance, Eisen of Einbroch has been hired to take it down."
 		},
@@ -52210,7 +53627,7 @@ QuestInfoList = {
 		Summary = "talk to Karl"
 	},
 	[21319] = {
-		Title = "Why is there such a big pool!",
+		Title = "Eden: Why is there such a big pool!",
 		Description = {
 			"Amy, a resident of Lichtharsen, is unhappy about not being able to use the large pool outside. Defeat the Rafflesia for Theodore, who is not in charge but has to take Amy's blame."
 		},
@@ -52224,7 +53641,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21321] = {
-		Title = "Ankle Snapping",
+		Title = "Eden: Ankle Snapping",
 		Description = {
 			"Theodore is troubled by Miya's insistence that he take care of the stemworms that are attacking passersby with their stalks in the fields near Lighthalzen. Theodore agrees to take care of the stemworms for her."
 		},
@@ -52238,7 +53655,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21323] = {
-		Title = "Valley of the Four Gods",
+		Title = "Eden: Valley of the Four Gods",
 		Description = {
 			"Leno, a knight afraid of ghosts, is unable to fulfill his duties in the Valley of the Dead. He's decided to take Leno's place and banish the breeze from the Valley of the Dead."
 		},
@@ -52434,9 +53851,9 @@ QuestInfoList = {
 		Summary = "Talk to Tutor Maxim"
 	},
 	[21351] = {
-		Title = "A Swarm of Iron Ants-1",
+		Title = "Eden: A Swarm of Iron Ants-1",
 		Description = {
-			"Ernest has asked you to exterminate the Benatu (purple) and Benatu (green) that are interfering with his exploration of Euphoros."
+			"Ernest has asked you to exterminate the Venatu (purple) and Venatu (green) that are interfering with his exploration of Juperos."
 		},
 		Summary = "Defeat Venatu"
 	},
@@ -52448,9 +53865,9 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21353] = {
-		Title = "A Swarm of Iron Ants-2",
+		Title = "Eden: A Swarm of Iron Ants-2",
 		Description = {
-			"Ernest has asked you to exterminate the Benatu (Vermilion) Benatu (Blue) that have been interfering with his exploration of Euphorus."
+			"Ernest has asked you to exterminate the Venatu (Vermilion) Venatu (Blue) that have been interfering with his exploration of Juperos."
 		},
 		Summary = "Defeat Venatu"
 	},
@@ -52462,7 +53879,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21355] = {
-		Title = "Colorful Dimik-1",
+		Title = "Eden: Colorful Dimik-1",
 		Description = {
 			"Maxim has asked you to kill Dimik (green) and Dimik (blue) for his research on Euphoros."
 		},
@@ -52476,7 +53893,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21357] = {
-		Title = "Colorful Dimik-2",
+		Title = "Eden: Colorful Dimik-2",
 		Description = {
 			"Maxim has asked you to kill Dimik (Vermilion) Dimik (Red) for his research on Euphoros."
 		},
@@ -52518,11 +53935,11 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21363] = {
-		Title = "Purify Nameless Island",
+		Title = "Eden: Purify Nameless Island",
 		Description = {
 			"Rotheart has asked you to defeat ^4d4dffRag Zombie and Zombie Slaughter^000000 to help cleanse the island."
 		},
-		Summary = "Defeated Ragzombie and Zombie Slaughter"
+		Summary = "Defeated Ragged Zombie and Zombie Slaughter"
 	},
 	[21364] = {
 		Title = "Waiting to Purify Nameless Island",
@@ -52532,7 +53949,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21365] = {
-		Title = "Crying, crying, crying",
+		Title = "Eden: Crying, crying, crying",
 		Description = {
 			"Rotheart has asked you to kill the ^4d4dffBanshee^000000 to help purify the island."
 		},
@@ -52546,7 +53963,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21367] = {
-		Title = "Lord of the Dead Marionettes",
+		Title = "Eden: Lord of the Dead Marionettes",
 		Description = {
 			"Rotheart has asked you to defeat the ^4d4dffNecromancer^000000 to help cleanse the island."
 		},
@@ -52560,11 +53977,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21369] = {
-		Title = "Cleansing the West Sanctuary of the Temple",
+		Title = "Eden: Cleansing the West Sanctuary of the Temple",
 		Description = {
-			"Priest Tebenio has asked you to cleanse the Sanctuary by entering the opening he has secretly drilled. Defeat ^4d4dffFanbergh and Isila^000000, the monsters that usually appear in the west."
+			"Priest Tebenio has asked you to cleanse the Sanctuary by entering the opening he has secretly drilled. Defeat ^4D4DFFVanberk and Isilla^000000, the monsters that usually appear in the west."
 		},
-		Summary = "Farnberg and Isila defeated"
+		Summary = "Vanberk and Isilla defeated"
 	},
 	[21370] = {
 		Title = "Awaits Purification of the West Area of the Temple Sanctuary",
@@ -52574,11 +53991,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21371] = {
-		Title = "Cleansing the East Sanctuary of the Temple",
+		Title = "Eden: Cleansing the East Sanctuary of the Temple",
 		Description = {
 			"Priest Tebenio has asked you to cleanse the Sanctuary by entering the opening he has secretly drilled. Defeat the ^4d4dffHodremlin^000000, a monster that appears in the east."
 		},
-		Summary = "Defeat Hordremlin"
+		Summary = "Defeat Hodremlin"
 	},
 	[21372] = {
 		Title = "Waiting to Purify the East Area of the Temple Sanctuary",
@@ -52588,11 +54005,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21373] = {
-		Title = "Cleansing the South Sanctuary of the Temple",
+		Title = "Eden: Cleansing the South Sanctuary of the Temple",
 		Description = {
-			"Priest Tevenio has asked you to cleanse the Sanctuary by entering the opening in the south. Defeat ^4d4dffAgab and Ekio^000000, the monsters that usually appear in the south."
+			"Priest Tevenio has asked you to cleanse the Sanctuary by entering the opening in the south. Defeat ^4D4DFFAgav and Echio^000000, the monsters that usually appear in the south."
 		},
-		Summary = "Agab and Ekio defeated"
+		Summary = "Agav and Echio defeated"
 	},
 	[21374] = {
 		Title = "Waiting to Purify the South Sanctum of the Temple",
@@ -52602,7 +54019,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21375] = {
-		Title = "Steppe Brawl - Kobolds",
+		Title = "Eden: Steppe Brawl - Kobolds",
 		Description = {
 			"You have been asked by the hunter Harim of the Ida Plains to hunt down the kobolds that are interfering with the clearing of the plains"
 		},
@@ -52616,7 +54033,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21377] = {
-		Title = "Grassland Brawl - Hillwind's Side",
+		Title = "Eden: Grassland Brawl - Hillwind's Side",
 		Description = {
 			"You have been commissioned by Harim, a hunter in the Ida Plains, to hunt down the Hillwinds who are interfering with the clearing."
 		},
@@ -52630,7 +54047,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21379] = {
-		Title = "Not even dog hair is good enough.",
+		Title = "Eden: Not even dog hair is good enough.",
 		Description = {
 			"Rachel's farmer, Cheddar, asks for 20 kobold fur. Slaying kobolds is a bonus."
 		},
@@ -52644,7 +54061,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21381] = {
-		Title = "Weed Wars",
+		Title = "Eden: Weed Wars",
 		Description = {
 			"Minnie, a farmer in Baines, asks me to pull ^4d4dffDrosera and Muskypula^000000 that are getting in the way of her land clearing. They are mostly found in the fields near Baines."
 		},
@@ -52658,7 +54075,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21383] = {
-		Title = "Volcanic Mutation",
+		Title = "Eden: Volcanic Mutation",
 		Description = {
 			"Baines's vigilantes have been called in to combat the ^4d4dffmagma rings^000000 generated by a nearby volcano. They say that the stones burn vegetation to a crisp when they pass by."
 		},
@@ -52672,7 +54089,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21385] = {
-		Title = "Grassland Brawl - Desert Wolf",
+		Title = "Eden: Grassland Brawl - Desert Wolf",
 		Description = {
 			"Hunter Sarim from the Ice Cave has asked you to join him on a hunt for ^4d4dffDesert Wolves^000000, and he wants you to kill 30 of them."
 		},
@@ -52686,7 +54103,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21387] = {
-		Title = "Cold hearts, cool dishes",
+		Title = "Eden: Cold hearts, cool dishes",
 		Description = {
 			"Tarim, the barkeep at Rachel's Tavern, has asked you to obtain 20 ^4d4dffIce Hearts^000000, which can be found in the Ice Cave."
 		},
@@ -52700,7 +54117,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21389] = {
-		Title = "The Unspeakable Yeti",
+		Title = "Eden: The Unspeakable Yeti",
 		Description = {
 			"The wizard's friend you met in the Ice Cave asked you to defeat ^4d4dffSnowy^000000 because he was getting in the way."
 		},
@@ -52714,7 +54131,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21391] = {
-		Title = "How hard are ice crystals",
+		Title = "Eden: How hard are ice crystals",
 		Description = {
 			"The wizard friend you met inside the ice cave has asked you to beat ^4d4dffIstitan and Gaezti^000000 for his research."
 		},
@@ -52728,7 +54145,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21393] = {
-		Title = "Monk Research",
+		Title = "Eden: Monk Research",
 		Description = {
 			"Geffen's alchemist, Mingmin, promises to let you enter Geffenia if you help him with his Monk Research. In Geffenia, let's face the ^4d4dffIncubus and Succubus^000000."
 		},
@@ -52805,7 +54222,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21411] = {
-		Title = "BabiQ's Cooking Hell",
+		Title = "Eden: BabiQ's Cooking Hell",
 		Description = {
 			"It's time for a new culinary challenge, so let's catch 10 Thara Frogs and get 10 Sticky Webfoot for <NAVI>[Chef BabiQ]<INFO>comodo,206,304,0,101,0</INFO></NAVI>."
 		},
@@ -52819,11 +54236,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21413] = {
-		Title = "Honey Skin BabiQ",
+		Title = "Eden: Honey Skin BabiQ",
 		Description = {
 			"<NAVI>[BaniQ]<INFO>comodo,249,300,0,101,0</INFO></NAVI> is suffering from the after-effects of applying Korasera, so give him the 5 tentacles you got from defeating 10 Hydras."
 		},
-		Summary = "Give the tentacles to BaniQ."
+		Summary = "Give the tentacles to BabiQ."
 	},
 	[21414] = {
 		Title = "Korasera Spice - Wait",
@@ -52833,14 +54250,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21415] = {
-		Title = "Korasera Spice",
+		Title = "Eden: Korasera Spice",
 		Description = {
 			"Defeat 10 Megalodons and return to <NAVI>[Cerabi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> to help him grow Cicerasera."
 		},
 		Summary = "Defeat 10 Megalodons"
 	},
 	[21416] = {
-		Title = "Cute Scroundrels",
+		Title = "Eden: Cute Scroundrels",
 		Description = {
 			"Defeat 10 Persiles and 10 Sea Otters attacking people on Kokomo Beach."
 		},
@@ -52854,7 +54271,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21418] = {
-		Title = "Stiff Fellows",
+		Title = "Eden: Stiff Fellows",
 		Description = {
 			"Defeated 10 Sturactic Gorem, 5 Trijoint, and 5 Megalith to clear the path to Umbala"
 		},
@@ -52868,7 +54285,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21420] = {
-		Title = "Gross Fellows",
+		Title = "Eden: Gross Fellows",
 		Description = {
 			"Defeat 15 Groves and 10 Alligators for an explorer who is investigating the ecology of Papuchika Forest and Zinai Swamp."
 		},
@@ -53043,7 +54460,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21501] = {
-		Title = "Hunt a Wandering Hornet",
+		Title = "Eden: Hunt a Wandering Hornet",
 		Description = {
 			"Hunt down a Wandering Hornet in the field west of Prontera."
 		},
@@ -53057,7 +54474,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21503] = {
-		Title = "Hunt a Wandering Rocker",
+		Title = "Eden: Hunt a Wandering Rocker",
 		Description = {
 			"Hunt down a Wandering Rocker in the field southwest of Prontera."
 		},
@@ -53071,7 +54488,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21505] = {
-		Title = "Hunt a Fleeing Amber Knight",
+		Title = "Eden: Hunt a Fleeing Amber Knight",
 		Description = {
 			"Hunt down a Wandering Amber Knight in the field west of Prontera."
 		},
@@ -53085,7 +54502,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21507] = {
-		Title = "Hunt a Boss Muka",
+		Title = "Eden: Hunt a Boss Muka",
 		Description = {
 			"You have hunted a Boss Muka in the field southwest of Izlude."
 		},
@@ -53099,7 +54516,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21509] = {
-		Title = "Hunting a boss bigfoot",
+		Title = "Eden: Hunting a boss bigfoot",
 		Description = {
 			"You hunt a boss bigfoot in the field southeast of Payon."
 		},
@@ -53113,7 +54530,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21511] = {
-		Title = "Hunt a Sturdy Horn",
+		Title = "Eden: Hunt a Sturdy Horn",
 		Description = {
 			"Hunt a Sturdy Horn in the field northeast of Payon."
 		},
@@ -53127,7 +54544,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21513] = {
-		Title = "Hunt a Fast Elder Willow",
+		Title = "Eden: Hunt a Fast Elder Willow",
 		Description = {
 			"Hunt a Fast Elder Willow in the field southeast of the Orc Village."
 		},
@@ -53141,7 +54558,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21515] = {
-		Title = "Hunt a Sturdy Coco",
+		Title = "Eden: Hunt a Sturdy Coco",
 		Description = {
 			"Hunt a Sturdy Coco in the field southwest of Prontera."
 		},
@@ -53155,7 +54572,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21517] = {
-		Title = "Hunting a fast yoyo",
+		Title = "Eden: Hunting a fast yoyo",
 		Description = {
 			"Hunt a Fast Yo-Yo in the field northeast of Prontera."
 		},
@@ -53169,7 +54586,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21519] = {
-		Title = "Hunt a Wandering White Pearl",
+		Title = "Eden: Hunt a Wandering White Pearl",
 		Description = {
 			"Hunt down a Wandering White Jade in the field southwest of Izlude."
 		},
@@ -53183,7 +54600,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21521] = {
-		Title = "Hunt an Enraged Orc Warrior",
+		Title = "Eden: Hunt an Enraged Orc Warrior",
 		Description = {
 			"Hunt down a Wrathful Orc Warrior in the Orc Village."
 		},
@@ -53197,7 +54614,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21523] = {
-		Title = "Hunt a fast goblin",
+		Title = "Eden: Hunt a fast goblin",
 		Description = {
 			"Hunt a Fast Goblin in the field south of the Orc Village."
 		},
@@ -53211,7 +54628,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21525] = {
-		Title = "Hunt a wandering goblin",
+		Title = "Eden: Hunt a wandering goblin",
 		Description = {
 			"Hunt the wandering goblin in the field southeast of the Orc Village."
 		},
@@ -53225,7 +54642,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21527] = {
-		Title = "Hunting a fast petit",
+		Title = "Eden: Hunting a fast petit",
 		Description = {
 			"Hunt a Fast Petite in the field west of Geffen."
 		},
@@ -53239,7 +54656,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21529] = {
-		Title = "Hunt a sturdy petit",
+		Title = "Eden: Hunt a sturdy petit",
 		Description = {
 			"Hunt a Sturdy Petite in the field northwest of Geffen."
 		},
@@ -53253,7 +54670,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21531] = {
-		Title = "Hunt a Wrathful Sandman",
+		Title = "Eden: Hunt a Wrathful Sandman",
 		Description = {
 			"Hunt a Fury Sandman in the field southeast-southeast of Morroc."
 		},
@@ -53267,7 +54684,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21533] = {
-		Title = "Hunting a fast Perseid",
+		Title = "Eden: Hunting a fast Perseid",
 		Description = {
 			"Hunt a Fast Perseid in the field southeast of Komodo."
 		},
@@ -53281,7 +54698,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21535] = {
-		Title = "Hunt a Wandering Grove",
+		Title = "Eden: Hunt a Wandering Grove",
 		Description = {
 			"Hunt down a Wandering Grove in the field east of Komodo."
 		},
@@ -53295,7 +54712,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21537] = {
-		Title = "Hunt a sturdy alligator",
+		Title = "Eden: Hunt a sturdy alligator",
 		Description = {
 			"Hunt a Sturdy Alligator in the field northeast of Komodo."
 		},
@@ -53309,7 +54726,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21539] = {
-		Title = "Hunt a Wrathful Utanfighter",
+		Title = "Eden: Hunt a Wrathful Utanfighter",
 		Description = {
 			"Hunt a Wrathful Utanfighter in the field west of Prontera."
 		},
@@ -53323,7 +54740,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21541] = {
-		Title = "Hunt a fast Dryad",
+		Title = "Eden: Hunt a fast Dryad",
 		Description = {
 			"Hunt a Fast Dryad in the field northwest of Komodo."
 		},
@@ -53337,7 +54754,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21543] = {
-		Title = "Hunting for fast clams",
+		Title = "Eden: Hunting for fast clams",
 		Description = {
 			"Hunt down a Quick Clam in the field south of Whigel."
 		},
@@ -53351,7 +54768,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21545] = {
-		Title = "Hunt a Sturdy Geographer",
+		Title = "Eden: Hunt a Sturdy Geographer",
 		Description = {
 			"Hunt a Sturdy Geographer in the field north of Al De Baran."
 		},
@@ -53365,7 +54782,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21547] = {
-		Title = "Hunt a Boss Grand Peko",
+		Title = "Eden: Hunt a Boss Grand Peko",
 		Description = {
 			"You have hunted a Grand Peko in the field north-northwest of Al De Baran."
 		},
@@ -53379,7 +54796,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21549] = {
-		Title = "Hunt a Boss Goat",
+		Title = "Eden: Hunt a Boss Goat",
 		Description = {
 			"Hunt a Boss Gout in the field southeast of Yuno."
 		},
@@ -53393,7 +54810,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21551] = {
-		Title = "Hunting a Fast Slipper",
+		Title = "Eden: Hunting a Fast Slipper",
 		Description = {
 			"Hunt a Fast Slipper in the field southeast of Yuno."
 		},
@@ -53407,7 +54824,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21553] = {
-		Title = "Hunt for a fast stemworm",
+		Title = "Eden: Hunt for a fast stemworm",
 		Description = {
 			"Hunt a single Fast Stemworm in the field northeast of Lighthalzen."
 		},
@@ -53421,7 +54838,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21555] = {
-		Title = "Hunt a Sturdy Holden",
+		Title = "Eden: Hunt a Sturdy Holden",
 		Description = {
 			"Hunt a Sturdy Holden in the field northeast of Einbroch."
 		},
@@ -53435,7 +54852,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21557] = {
-		Title = "Hunt a fast Rafflesia",
+		Title = "Eden: Hunt a fast Rafflesia",
 		Description = {
 			"Hunt a Rapid Rafflesia in the field north of Lighthalzen."
 		},
@@ -53449,7 +54866,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21559] = {
-		Title = "Hunt a Boss Venomus",
+		Title = "Eden: Hunt a Boss Venomus",
 		Description = {
 			"You've hunted a Boss Venomus in the field north of Einbroch."
 		},
@@ -53463,7 +54880,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21561] = {
-		Title = "Hunt a Wrathful Noxious",
+		Title = "Eden: Hunt a Wrathful Noxious",
 		Description = {
 			"Hunt a Wrathful Noxious in the fields northeast of Einbroch."
 		},
@@ -53477,7 +54894,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21563] = {
-		Title = "Hunt a Wandering Novus",
+		Title = "Eden: Hunt a Wandering Novus",
 		Description = {
 			"Hunt down a Wandering Novus in the field southwest of Whigel."
 		},
@@ -53491,7 +54908,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21565] = {
-		Title = "Hunt a Sturdy Roween",
+		Title = "Eden: Hunt a Sturdy Roween",
 		Description = {
 			"Hunt a Sturdy Roween in the field east of Rachel."
 		},
@@ -53505,7 +54922,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21567] = {
-		Title = "Hunt a Boss Stapo",
+		Title = "Eden: Hunt a Boss Stapo",
 		Description = {
 			"Hunt a Boss Stapo in the field south of Bane's."
 		},
@@ -53519,7 +54936,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21569] = {
-		Title = "Hunt a Fury Smokey",
+		Title = "Eden: Hunt a Fury Smokey",
 		Description = {
 			"Hunt a Fury Smokey in Ayothaya Fields."
 		},
@@ -53533,7 +54950,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21571] = {
-		Title = "Hunt for the boss Jingdong",
+		Title = "Eden: Hunt for the boss Jingdong",
 		Description = {
 			"Hunt down one of the bosses in Kunlun Fields."
 		},
@@ -53547,7 +54964,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21573] = {
-		Title = "Hunt a Wrathful Tookan",
+		Title = "Eden: Hunt a Wrathful Tookan",
 		Description = {
 			"Hunt a Fury Tookan in Brasilis Fields."
 		},
@@ -53561,7 +54978,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21575] = {
-		Title = "Hunt for a sturdy sidewinder",
+		Title = "Eden: Hunt for a sturdy sidewinder",
 		Description = {
 			"Hunt down a Sturdy Sidewinder in Moscovia Fields."
 		},
@@ -53575,7 +54992,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21577] = {
-		Title = "Hunting a fast caracasa",
+		Title = "Eden: Hunting a fast caracasa",
 		Description = {
 			"Hunt a Fast Caracasa in the Amatsu Fields."
 		},
@@ -53589,7 +55006,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21579] = {
-		Title = "Hunt a wandering food sheep",
+		Title = "Eden: Hunt a wandering food sheep",
 		Description = {
 			"Hunt down a Wandering Eater in the Yongji Castle Fields."
 		},
@@ -53610,7 +55027,7 @@ QuestInfoList = {
 		Summary = "To the Temple of Odin"
 	},
 	[21582] = {
-		Title = "From the one who radios",
+		Title = "Eden: From the one who radios",
 		Description = {
 			"Defeat 20 Skaggs, rumored to be in communication with the devil."
 		},
@@ -53624,18 +55041,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21584] = {
-		Title = "From the one who radioed again",
+		Title = "Eden: From the one who radioed again",
 		Description = {
-			"Defeat 20 Skaggs, rumored to be in communication with the devil."
+			"Defeat 20 Skogul, rumored to be in communication with the devil."
 		},
-		Summary = "20 Skaggs"
+		Summary = "20 Skogul"
 	},
 	[21585] = {
-		Title = "Demon Purification",
+		Title = "Eden: Demon Purification",
 		Description = {
-			"Slay 20 Prus, whose bizarre movements give you the creeps."
+			"Slay 20 Frus, whose bizarre movements give you the creeps."
 		},
-		Summary = "20 Prus"
+		Summary = "20 Frus"
 	},
 	[21586] = {
 		Title = "Demonic Purification - Wait",
@@ -53645,14 +55062,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21587] = {
-		Title = "Purge the demons again",
+		Title = "Eden: Purge the demons again",
 		Description = {
-			"Slay 20 Prus, whose bizarre movements give you the creeps."
+			"Slay 20 Frus, whose bizarre movements give you the creeps."
 		},
-		Summary = "20 Prus"
+		Summary = "20 Frus"
 	},
 	[21588] = {
-		Title = "Before you are fooled",
+		Title = "Eden: Before you are fooled",
 		Description = {
 			"Defeat 5 brown and 5 blue Skegolts, a cute but fearsome monster."
 		},
@@ -53666,11 +55083,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21590] = {
-		Title = "Before you're fooled again",
+		Title = "Eden: Before you're fooled again",
 		Description = {
-			"Defeat 5 brown and 5 blue Skegolts, the cute but fearsome monsters."
+			"Defeat 5 brown and 5 blue Skeggiold, the cute but fearsome monsters."
 		},
-		Summary = "5 Skegolts each"
+		Summary = "5 Skeggiold each"
 	},
 	[21591] = {
 		Title = "To the Living Challenge",
@@ -53680,7 +55097,7 @@ QuestInfoList = {
 		Summary = "To the Living Challenge"
 	},
 	[21592] = {
-		Title = "Ignigem Xenia",
+		Title = "Eden: Ignigem Xenia",
 		Description = {
 			"Rest in peace, Ignisem Senia."
 		},
@@ -53694,14 +55111,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21594] = {
-		Title = "Again Igniseme Senia",
+		Title = "Eden: Again Igniseme Senia",
 		Description = {
 			"Rest in peace, Ignisem Senia."
 		},
 		Summary = "30 Ignizem Xenia"
 	},
 	[21595] = {
-		Title = "Armaire Dinze",
+		Title = "Eden: Armaire Dinze",
 		Description = {
 			"Armaire Dinze rest in peace."
 		},
@@ -53715,14 +55132,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21597] = {
-		Title = "Armeyer Dinze again",
+		Title = "Eden: Armeyer Dinze again",
 		Description = {
 			"Armaire Dinze rest in peace."
 		},
 		Summary = "30 Armaire Dinze"
 	},
 	[21598] = {
-		Title = "Whiskebein Tris",
+		Title = "Eden: Whiskebein Tris",
 		Description = {
 			"Rest in peace, Whiskevine Tris."
 		},
@@ -53736,14 +55153,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21600] = {
-		Title = "Return of the Whiskevine Tris",
+		Title = "Eden: Return of the Whiskevine Tris",
 		Description = {
 			"Rest in peace, Whiskevine Tris."
 		},
 		Summary = "30 Whiskebein Tris"
 	},
 	[21601] = {
-		Title = "Kabak Icarus",
+		Title = "Eden: Kabak Icarus",
 		Description = {
 			"Rest in peace, Kabak Icarus."
 		},
@@ -53757,14 +55174,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21603] = {
-		Title = "RIP Kabak Icarus",
+		Title = "Eden: RIP Kabak Icarus",
 		Description = {
 			"Rest in peace, Kavak Icarus."
 		},
 		Summary = "30 Kabak Icarus"
 	},
 	[21604] = {
-		Title = "Irend Ebesi",
+		Title = "Eden: Irend Ebesi",
 		Description = {
 			"Rest in peace, Irend Evesi."
 		},
@@ -53778,14 +55195,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21606] = {
-		Title = "Rest in peace Irene Evesey",
+		Title = "Eden: Rest in peace Irene Evesey",
 		Description = {
 			"Rest in peace, Irene Evesey."
 		},
 		Summary = "30 Elend Ebesh"
 	},
 	[21607] = {
-		Title = "Raurel Binder",
+		Title = "Eden: Raurel Binder",
 		Description = {
 			"Rest in peace, Laurel Binder"
 		},
@@ -53799,14 +55216,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21609] = {
-		Title = "Return to Laurel Binder",
+		Title = "Eden: Return to Laurel Binder",
 		Description = {
 			"Rest in peace, Laurel Binder"
 		},
 		Summary = "30 Laurel Binder"
 	},
 	[21610] = {
-		Title = "Cecil B. DeMille",
+		Title = "Eden: Cecil B. DeMille",
 		Description = {
 			"Rest in Peace to Cecil B. DeMille"
 		},
@@ -53820,14 +55237,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21612] = {
-		Title = "RIP Cecil B. DeMonk",
+		Title = "Eden: RIP Cecil B. DeMonk",
 		Description = {
 			"Rest in Peace to Cecil B. DeMille"
 		},
 		Summary = "2 Cecil B. DeMonds"
 	},
 	[21613] = {
-		Title = "Catherine Keiron",
+		Title = "Eden: Catherine Keiron",
 		Description = {
 			"Rest in Peace to Catherine Keillor"
 		},
@@ -53841,14 +55258,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21615] = {
-		Title = "Rest in Peace to Catherine Keiron",
+		Title = "Eden: Rest in Peace to Catherine Keiron",
 		Description = {
 			"Rest in peace to Catherine Keillor"
 		},
 		Summary = "2 Katrin de Ceylon"
 	},
 	[21616] = {
-		Title = "Margareta Sorin",
+		Title = "Eden: Margareta Sorin",
 		Description = {
 			"Rest in peace, Margareta Sorin"
 		},
@@ -53862,14 +55279,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21618] = {
-		Title = "Rest in Peace Margareta Sorin",
+		Title = "Eden: Rest in Peace Margareta Sorin",
 		Description = {
 			"Rest in peace, Margareta Sorin"
 		},
 		Summary = "2 Margaretha Sorin"
 	},
 	[21619] = {
-		Title = "Siren Windsor",
+		Title = "Eden: Siren Windsor",
 		Description = {
 			"Rest in peace to Siren Windsor"
 		},
@@ -53883,14 +55300,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21621] = {
-		Title = "Rest in Peace Siren Windsor",
+		Title = "Eden: Rest in Peace Siren Windsor",
 		Description = {
 			"Rest in peace to Siren Windsor"
 		},
 		Summary = "2 Siren Windsor"
 	},
 	[21622] = {
-		Title = "Eremes Gail",
+		Title = "Eden: Eremes Gail",
 		Description = {
 			"Rest in peace, Eremes Gail."
 		},
@@ -53904,14 +55321,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21624] = {
-		Title = "Rest in peace Eremes Gail",
+		Title = "Eden: Rest in peace Eremes Gail",
 		Description = {
 			"Rest in peace to Eremes Gail."
 		},
 		Summary = "2 Eremes Gail"
 	},
 	[21625] = {
-		Title = "Howard Alt-Eisen",
+		Title = "Eden: Howard Alt-Eisen",
 		Description = {
 			"Rest in peace, Howard AltEisen."
 		},
@@ -53925,7 +55342,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21627] = {
-		Title = "RIP Howard AltEisen",
+		Title = "Eden: RIP Howard AltEisen",
 		Description = {
 			"Rest in peace, Howard AltEisen."
 		},
@@ -53939,7 +55356,7 @@ QuestInfoList = {
 		Summary = "To the Nogrod Lava Dungeon"
 	},
 	[21629] = {
-		Title = "Capture a Nightmare Terror",
+		Title = "Eden: Capture a Nightmare Terror",
 		Description = {
 			"Hunt 30 Nightmare Terror so you can display them in the museum."
 		},
@@ -53953,14 +55370,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21631] = {
-		Title = "Capturing the Nightmare Terror again",
+		Title = "Eden: Capturing the Nightmare Terror again",
 		Description = {
 			"Hunt 30 Nightmare Terror so you can display them in the museum."
 		},
 		Summary = "30 Nightmare Terror"
 	},
 	[21632] = {
-		Title = "Capture a Dilator",
+		Title = "Eden: Capture a Dilator",
 		Description = {
 			"Hunt down 30 Deliters so you can display them in your museum."
 		},
@@ -53974,14 +55391,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21634] = {
-		Title = "Capture the Dilator again",
+		Title = "Eden: Capture the Dilator again",
 		Description = {
 			"Hunt 30 Dilithers so we can display them in the museum."
 		},
 		Summary = "30 airborne and 30 ground Dilators"
 	},
 	[21635] = {
-		Title = "Collect hardened lava",
+		Title = "Eden: Collect hardened lava",
 		Description = {
 			"Collect 10 hardened lava to help the museum's finances."
 		},
@@ -53995,7 +55412,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21637] = {
-		Title = "Collect hardened lava again",
+		Title = "Eden: Collect hardened lava again",
 		Description = {
 			"Collect 10 hardened lava to help the museum's finances."
 		},
@@ -54016,11 +55433,11 @@ QuestInfoList = {
 		Summary = "Returning to Whigel"
 	},
 	[21640] = {
-		Title = "Lake Dragon",
+		Title = "Eden: Lake Dragon",
 		Description = {
-			"For the safety of travelers, hunt 30 red and 30 green ferus."
+			"For the safety of travelers, hunt 30 red and 30 green Ferus."
 		},
-		Summary = "30 red and 30 green ferrers"
+		Summary = "30 red and 30 green Ferus"
 	},
 	[21641] = {
 		Title = "Lake Dragon - Wait",
@@ -54030,14 +55447,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21642] = {
-		Title = "Dashi Lake Dragon",
+		Title = "Eden: Dashi Lake Dragon",
 		Description = {
-			"Let's hunt 30 red and 30 green ferus for the safety of travelers."
+			"Let's hunt 30 red and 30 green Ferus for the safety of travelers."
 		},
-		Summary = "30 red and 30 green ferrus"
+		Summary = "30 red and 30 green Ferus"
 	},
 	[21643] = {
-		Title = "Lake Rain Dragon",
+		Title = "Eden: Lake Rain Dragon",
 		Description = {
 			"Hunt 30 Yellow and 30 Blue Acidus for the safety of the lake."
 		},
@@ -54051,14 +55468,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21645] = {
-		Title = "Dashi Lake's Rain Dragon",
+		Title = "Eden: Dashi Lake's Rain Dragon",
 		Description = {
 			"Hunt 30 Yellow and 30 Blue Acidus for the safety of the lake."
 		},
 		Summary = "30 Yellow and 30 Blue Acidus each"
 	},
 	[21646] = {
-		Title = "Triadragon of the Lake",
+		Title = "Eden: Triadragon of the Lake",
 		Description = {
 			"Hunt 1 Hydrolancer deep in the Lake Region."
 		},
@@ -54072,7 +55489,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21648] = {
-		Title = "Dashi Lake's Three-headed Dragon",
+		Title = "Eden: Dashi Lake's Three-headed Dragon",
 		Description = {
 			"Hunt 1 Hydrolancer deep in the lake area."
 		},
@@ -54093,7 +55510,7 @@ QuestInfoList = {
 		Summary = "To Thanatos Tower"
 	},
 	[21651] = {
-		Title = "In Mimic's Box",
+		Title = "Eden: In Mimic's Box",
 		Description = {
 			"A request from Avril, who seems more interested in the contents than the monsters. Hunt down 30 Ancient Mimics. "
 		},
@@ -54107,14 +55524,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21653] = {
-		Title = "In Mimic's box again",
+		Title = "Eden: In Mimic's box again",
 		Description = {
 			"A request from Avril, who seems more interested in the contents than the monsters. Let's hunt down 30 Ancient Mimics. "
 		},
 		Summary = "30 Ancient Mimics"
 	},
 	[21654] = {
-		Title = "Dispersed Wisdom",
+		Title = "Eden: Dispersed Wisdom",
 		Description = {
 			"Hunt down 30 Deathwords that may contain rare knowledge."
 		},
@@ -54128,14 +55545,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21656] = {
-		Title = "Returning to the old wisdom",
+		Title = "Eden: Returning to the old wisdom",
 		Description = {
-			"Hunt 30 Deathwords that may contain rare knowledge."
+			"Hunt 30 Death Words that may contain rare knowledge."
 		},
-		Summary = "30 Deathwards"
+		Summary = "30 Death Words"
 	},
 	[21657] = {
-		Title = "Baron of the Castle",
+		Title = "Eden: Baron of the Castle",
 		Description = {
 			"Hunt 20 Aul Barons while keeping an eye on your relationship with Duke Aul."
 		},
@@ -54149,18 +55566,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21659] = {
-		Title = "Baron of the Castle",
+		Title = "Eden: Baron of the Castle",
 		Description = {
-			"Hunt 20 Aul Barons while keeping an eye on your relationship with Duke Aul."
+			"Hunt 20 Owl Barons while keeping an eye on your relationship with Duke Aul."
 		},
-		Summary = "20 Aul Barons"
+		Summary = "20 Owl Barons"
 	},
 	[21660] = {
-		Title = "Bits of Knowledge",
+		Title = "Eden: Bits of Knowledge",
 		Description = {
-			"Collect 10 Bloody Bookshelves, which are sometimes found in Deathward."
+			"Collect 10 Bloody Pages, which are sometimes found in Deathward."
 		},
-		Summary = "10 Bloodstained Bookshelves"
+		Summary = "10 Bloody Pages"
 	},
 	[21661] = {
 		Title = "Nuggets of Knowledge - Wait",
@@ -54170,18 +55587,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21662] = {
-		Title = "Again, the knowledge in bits and pieces",
+		Title = "Eden: Again, the knowledge in bits and pieces",
 		Description = {
-			"Collect 10 bloody bookshelves that are sometimes found in Deathward."
+			"Collect 10 Bloody Pages that are sometimes found in Deathward."
 		},
-		Summary = "10 Bloodstained Bookshelves"
+		Summary = "10 Bloody Pages"
 	},
 	[21663] = {
-		Title = "A Record of Old Magic",
+		Title = "Eden: A Record of Old Magic",
 		Description = {
-			"Let's collect 10 old magic circles that the Elder has from time to time."
+			"Let's collect 10 Worn-out Magical Scrolls that the Elder has from time to time."
 		},
-		Summary = "10 Worn Magical Scrolls"
+		Summary = "10 Worn-out Magical Scrolls"
 	},
 	[21664] = {
 		Title = "A Record of Old Magic - Wait",
@@ -54191,14 +55608,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21665] = {
-		Title = "Old Magic Records Again",
+		Title = "Eden: Old Magic Records Again",
 		Description = {
-			"Let's collect 10 old magic circles that the Elder has from time to time."
+			"Let's collect 10 Worn-out Magical Scrolls that the Elder has from time to time."
 		},
-		Summary = "10 Worn Magic Scrolls"
+		Summary = "10 Worn-out Magical Scrolls"
 	},
 	[21666] = {
-		Title = "Recycling",
+		Title = "Eden: Recycling",
 		Description = {
 			"Collect 30 tattered clothes belonging to Aul Duke or Aul Baron."
 		},
@@ -54212,18 +55629,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21668] = {
-		Title = "Recycling again",
+		Title = "Eden: Recycling again",
 		Description = {
 			"Collect 30 tattered clothes that belong to either Aul Duke or Aul Baron."
 		},
 		Summary = "30 Tattered Clothes"
 	},
 	[21669] = {
-		Title = "Surveillance and Punishment",
+		Title = "Eden: Surveillance and Punishment",
 		Description = {
-			"Hunt down 30 agents of the Divine Punishment who seek to limit human exploration."
+			"Hunt down 30 Baroness of Retribution who seek to limit human exploration."
 		},
-		Summary = "30 agents of the god punishment"
+		Summary = "30 Baroness of Retribution"
 	},
 	[21670] = {
 		Title = "Surveillance and Punishment - Wait",
@@ -54233,18 +55650,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21671] = {
-		Title = "Surveillance and Punishment Again",
+		Title = "Eden: Surveillance and Punishment Again",
 		Description = {
-			"Hunt down 30 agents of the Divine Punishment who seek to limit human exploration."
+			"Hunt down 30 Baroness of Retribution who seek to limit human exploration."
 		},
-		Summary = "30 Agents of the Divine Punishment"
+		Summary = "30 Baroness of Retribution"
 	},
 	[21672] = {
-		Title = "Sweet poison",
+		Title = "Eden: Sweet poison",
 		Description = {
-			"Hunt down 30 Consolers, who are nothing but sweet poison to your ears."
+			"Hunt down 30 Lady Solace, who are nothing but sweet poison to your ears."
 		},
-		Summary = "30 Consolers"
+		Summary = "30 Lady Solace"
 	},
 	[21673] = {
 		Title = "Sweet Poison - Wait",
@@ -54254,18 +55671,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21674] = {
-		Title = "Sweet poison again",
+		Title = "Eden: Sweet poison again",
 		Description = {
-			"Let's hunt down 30 Consolers, who are nothing but sweet poison to the ears."
+			"Let's hunt down 30 Lady Solace, who are nothing but sweet poison to the ears."
 		},
-		Summary = "30 Consolers"
+		Summary = "30 Lady Solace"
 	},
 	[21675] = {
-		Title = "Death brings peace",
+		Title = "Eden: Death brings peace",
 		Description = {
-			"Let's hunt down the first 30 of the Rest Givers here, as their intentions are obviously to give you rest by killing you."
+			"Let's hunt down the first 30 Mistress of Shelter, the ones who want to give you rest by killing you."
 		},
-		Summary = "30 Rest Givers"
+		Summary = "30 Mistress of Shelter"
 	},
 	[21676] = {
 		Title = "Rest in Death - Wait",
@@ -54275,18 +55692,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21677] = {
-		Title = "Death again brings rest",
+		Title = "Eden: Death again brings rest",
 		Description = {
-			"Let's hunt down the first 30 of the Rest Givers, the ones who want to give you rest by killing you."
+			"Let's hunt down the first 30 Mistress of Shelter, the ones who want to give you rest by killing you."
 		},
-		Summary = "30 Givers of Rest"
+		Summary = "30 Mistress of Shelter"
 	},
 	[21678] = {
-		Title = "Seeds of Control",
+		Title = "Eden: Seeds of Control",
 		Description = {
-			"To stop the surveillance that begins control, hunt 30 Watchers."
+			"To stop the surveillance that begins control, hunt 30 Dame of Sentinel."
 		},
-		Summary = "30 Watchers"
+		Summary = "30 Dame of Sentinel"
 	},
 	[21679] = {
 		Title = "Seeds of Control - Wait",
@@ -54296,11 +55713,11 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21680] = {
-		Title = "The seeds of control again",
+		Title = "Eden: The seeds of control again",
 		Description = {
-			"To stop the surveillance that begins control, hunt down 30 Watchers."
+			"To stop the surveillance that begins control, hunt 30 Dame of Sentinel."
 		},
-		Summary = "30 Watchers"
+		Summary = "30 Dame of Sentinel"
 	},
 	[21681] = {
 		Title = "To Glastheim",
@@ -54317,7 +55734,7 @@ QuestInfoList = {
 		Summary = "To Glastheim"
 	},
 	[21683] = {
-		Title = "Poor clown",
+		Title = "Eden: Poor clown",
 		Description = {
 			"Poor clown, hunt 30 carats to comfort your soul."
 		},
@@ -54331,18 +55748,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21685] = {
-		Title = "Again the poor clown",
+		Title = "Eden: Again the poor clown",
 		Description = {
 			"Poor clown, hunt 30 carats to comfort your soul."
 		},
 		Summary = "30 Carats"
 	},
 	[21686] = {
-		Title = "A small bug",
+		Title = "Eden: A small bug",
 		Description = {
-			"Let's hunt down 30 Akraus and send them to the gods, who watch over even these tiny insects."
+			"Let's hunt down 30 Arclouse and send them to the gods, who watch over even these tiny insects."
 		},
-		Summary = "30 Akraus"
+		Summary = "30 Arclouse"
 	},
 	[21687] = {
 		Title = "One Small Bug - Wait",
@@ -54352,14 +55769,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21688] = {
-		Title = "Again one tiny bug",
+		Title = "Eden: Again one tiny bug",
 		Description = {
-			"Let's hunt down 30 Akraus and send them to the gods, who watch over even these tiny worms."
+			"Let's hunt down 30 Arclouse and send them to the gods, who watch over even these tiny insects."
 		},
-		Summary = "30 Akraus"
+		Summary = "30 Arclouse"
 	},
 	[21689] = {
-		Title = "If I'm alive, I'm going to heaven",
+		Title = "Eden: If I'm alive, I'm going to heaven",
 		Description = {
 			"Thirty Anolians, beaten to a pulp to purify them."
 		},
@@ -54373,14 +55790,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21691] = {
-		Title = "I would go to heaven if I were alive again",
+		Title = "Eden: I would go to heaven if I were alive again",
 		Description = {
 			"Thirty Anolians, beaten to a pulp to purify them."
 		},
 		Summary = "30 Anolians"
 	},
 	[21692] = {
-		Title = "Doubt not",
+		Title = "Eden: Doubt not",
 		Description = {
 			"Don't doubt that Sting has a soul, let's just beat 30 of them to a pulp."
 		},
@@ -54394,14 +55811,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21694] = {
-		Title = "Doubt not again",
+		Title = "Eden: Doubt not again",
 		Description = {
 			"Don't doubt that Sting has a soul, let's just beat the crap out of 30 of them."
 		},
 		Summary = "30 Stings"
 	},
 	[21695] = {
-		Title = "Delicious, no, poor soul",
+		Title = "Eden: Delicious, no, poor soul",
 		Description = {
 			"Thirty Meizhou Loths, beaten to a pulp to purify them."
 		},
@@ -54415,18 +55832,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21697] = {
-		Title = "Delicious again, no poor soul",
+		Title = "Eden: Delicious again, no poor soul",
 		Description = {
 			"Thirty Meizhouros, beaten to a pulp to purify them."
 		},
 		Summary = "30 Meizhouros"
 	},
 	[21698] = {
-		Title = "Empty armor",
+		Title = "Eden: Empty armor",
 		Description = {
-			"Hunt down 30 Radrik and help Chiab."
+			"Hunt down 30 Raydric and help Chiab."
 		},
-		Summary = "30 Radrik"
+		Summary = "30 Raydric"
 	},
 	[21699] = {
 		Title = "Just Empty Armor - Wait",
@@ -54436,18 +55853,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21700] = {
-		Title = "An empty suit of armor again",
+		Title = "Eden: An empty suit of armor again",
 		Description = {
-			"Let's hunt down 30 Radrik and help Chiab."
+			"Let's hunt down 30 Raydric and help Chiab."
 		},
-		Summary = "30 Radrik"
+		Summary = "30 Raydric"
 	},
 	[21701] = {
-		Title = "Maybe a straight soul",
+		Title = "Eden: Maybe a straight soul",
 		Description = {
 			"Hunt 30 Kalitzburgs to help Chiab."
 		},
-		Summary = "30 Kalitzbugs"
+		Summary = "30 Kalitzburgs"
 	},
 	[21702] = {
 		Title = "Maybe a Straight Soul - Wait",
@@ -54457,18 +55874,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21703] = {
-		Title = "Again, maybe a straight soul",
+		Title = "Eden: Again, maybe a straight soul",
 		Description = {
 			"Hunt 30 Kalitzburgs to help Chiab."
 		},
-		Summary = "30 Kalitzbugs"
+		Summary = "30 Kalitzburgs"
 	},
 	[21704] = {
-		Title = "Nemesis of the Knight",
+		Title = "Eden: Nemesis of the Knight",
 		Description = {
-			"Hunt down 30 Prowlers and help Chiab."
+			"Hunt down 30 Wanderer and help Chiab."
 		},
-		Summary = "30 Prowlers"
+		Summary = "30 Wanderer"
 	},
 	[21705] = {
 		Title = "Nemesis of Knights - Wait",
@@ -54478,14 +55895,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21706] = {
-		Title = "A knight's nemesis again",
+		Title = "Eden: A knight's nemesis again",
 		Description = {
-			"Hunt down 30 Prowlers and help Chiab."
+			"Hunt down 30 Wanderer and help Chiab."
 		},
-		Summary = "30 Wandering Ones"
+		Summary = "30 Wanderer"
 	},
 	[21707] = {
-		Title = "A worthy opponent",
+		Title = "Eden: A worthy opponent",
 		Description = {
 			"Hunt down 10 Abyssal Knights and help Chiab."
 		},
@@ -54499,7 +55916,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21709] = {
-		Title = "An opponent worth fighting again",
+		Title = "Eden: An opponent worth fighting again",
 		Description = {
 			"Hunt down 10 Abyssal Knights and help Chiab."
 		},
@@ -54527,7 +55944,7 @@ QuestInfoList = {
 		Summary = "To Mora Village"
 	},
 	[21713] = {
-		Title = "Girl draped in leaves",
+		Title = "Eden: Girl draped in leaves",
 		Description = {
 			"Let's catch 30 beautiful pinguicula."
 		},
@@ -54541,14 +55958,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21715] = {
-		Title = "Girl with leaves again",
+		Title = "Eden: Girl with leaves again",
 		Description = {
 			"Let's catch 30 beautiful pinguicula."
 		},
 		Summary = "30 Pinguicula"
 	},
 	[21716] = {
-		Title = "Thrilling beauty",
+		Title = "Eden: Thrilling beauty",
 		Description = {
 			"Let's catch 30 thrillingly cool Luciola Vespas."
 		},
@@ -54562,14 +55979,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21718] = {
-		Title = "A thrilling beauty again",
+		Title = "Eden: A thrilling beauty again",
 		Description = {
 			"Let's catch 30 thrillingly cool Luciola Vespas."
 		},
 		Summary = "30 luciola vespas"
 	},
 	[21719] = {
-		Title = "King of the Otherworld",
+		Title = "Eden: King of the Otherworld",
 		Description = {
 			"Let's catch 1 majestic Tendrillion."
 		},
@@ -54583,14 +56000,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21721] = {
-		Title = "King of the Otherworld",
+		Title = "Eden: King of the Otherworld",
 		Description = {
 			"Let's catch 1 majestic Tendrillion."
 		},
 		Summary = "1 Tendrillion"
 	},
 	[21722] = {
-		Title = "Lady draped in leaves",
+		Title = "Eden: Lady draped in leaves",
 		Description = {
 			"Let's catch 30 Pinguicula Darks with their mature beauty."
 		},
@@ -54604,14 +56021,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21724] = {
-		Title = "Lady draped in leaves again",
+		Title = "Eden: Lady draped in leaves again",
 		Description = {
 			"Let's catch 30 Pinguicula Darks with their mature beauty."
 		},
 		Summary = "30 Pinguicula Darks"
 	},
 	[21725] = {
-		Title = "Dried flower bookmark",
+		Title = "Eden: Dried flower bookmark",
 		Description = {
 			"Let's catch 30 Nepenthes with beautiful flowers."
 		},
@@ -54625,14 +56042,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21727] = {
-		Title = "Dried Flowers Bookmark",
+		Title = "Eden: Dried Flowers Bookmark",
 		Description = {
 			"Let's catch 30 Nepenthes with beautiful flowers."
 		},
-		Summary = "30 Nependes"
+		Summary = "30 Nepenthes"
 	},
 	[21728] = {
-		Title = "Good... Muscle!",
+		Title = "Eden: Good... Muscle!",
 		Description = {
 			"Let's catch 30 nagas with nice muscles."
 		},
@@ -54646,14 +56063,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21730] = {
-		Title = "Good again... Muscle!",
+		Title = "Eden: Good again... Muscle!",
 		Description = {
 			"Let's catch 30 nagas with nice muscles."
 		},
 		Summary = "30 Naga"
 	},
 	[21731] = {
-		Title = "Fairytale",
+		Title = "Eden: Fairytale",
 		Description = {
 			"Let's catch 30 Cornus, like something out of a fairy tale."
 		},
@@ -54667,18 +56084,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21733] = {
-		Title = "Fairytale Again",
+		Title = "Eden: Fairytale Again",
 		Description = {
 			"Let's catch 30 Cornus, just like in a fairy tale."
 		},
 		Summary = "30 Cornus"
 	},
 	[21734] = {
-		Title = "Stimulating charm",
+		Title = "Eden: Stimulating charm",
 		Description = {
-			"Let's catch 20 cute centipede larvae with sexy carapaces."
+			"Let's catch 20 cute Centipede Larva with sexy carapaces."
 		},
-		Summary = "20 centipede larvae"
+		Summary = "20 Centipede Larva"
 	},
 	[21735] = {
 		Title = "Stimulating Charm - Wait",
@@ -54688,18 +56105,18 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21736] = {
-		Title = "Revitalize your attraction",
+		Title = "Eden: Revitalize your attraction",
 		Description = {
-			"Let's catch 20 cute centipede larvae with sexy carapaces."
+			"Let's catch 20 cute Centipede Larva with sexy carapaces."
 		},
-		Summary = "20 centipede larvae"
+		Summary = "20 Centipede Larva"
 	},
 	[21737] = {
-		Title = "Horn of Enchantment",
+		Title = "Eden: Horn of Enchantment",
 		Description = {
-			"Collect 20 of Cornus's precious Horns of Enchantment."
+			"Collect 20 of Cornus's precious Mystic Horn."
 		},
-		Summary = "20 Horns of Enchantment"
+		Summary = "20 Mystic Horn"
 	},
 	[21738] = {
 		Title = "Horn of Enchantment - Wait",
@@ -54709,14 +56126,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21739] = {
-		Title = "An enchanted horn again",
+		Title = "Eden: An enchanted horn again",
 		Description = {
-			"Collect 20 precious Horns of Enchantment that contain the magic of Cornus."
+			"Collect 20 precious Mystic Horn that contain the magic of Cornus."
 		},
-		Summary = "20 Horns of Enchantment"
+		Summary = "20 Mystic Horn"
 	},
 	[21740] = {
-		Title = "Venomous Bug",
+		Title = "Eden: Venomous Bug",
 		Description = {
 			"Defeat 20 Centipedes, a fearsome, fertile, and poisonous creature."
 		},
@@ -54730,14 +56147,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21742] = {
-		Title = "Venomous Bugs Again",
+		Title = "Eden: Venomous Bugs Again",
 		Description = {
 			"Defeat 20 Centipedes, a fearsome, fertile, and poisonous creature."
 		},
 		Summary = "20 Centipedes"
 	},
 	[21743] = {
-		Title = "Incompetent lazy",
+		Title = "Eden: Incompetent lazy",
 		Description = {
 			"20 Tatachos for being lazy and always on the go."
 		},
@@ -54751,14 +56168,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21745] = {
-		Title = "The incompetent slacker again",
+		Title = "Eden: The incompetent slacker again",
 		Description = {
-			"20 Tachos for being lazy and always on the go."
+			"20 Tatachos for being lazy and always on the go."
 		},
-		Summary = "20 Tachos"
+		Summary = "20 Tatachos"
 	},
 	[21746] = {
-		Title = "The appearance is a shell",
+		Title = "Eden: The appearance is a shell",
 		Description = {
 			"Let us slay 30 Dolomedes, lest the foolish be deceived by appearances."
 		},
@@ -54772,14 +56189,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21748] = {
-		Title = "Again, appearances are deceiving",
+		Title = "Eden: Again, appearances are deceiving",
 		Description = {
 			"Lest the foolish be deceived by appearances, let us slay 30 Dolomedes."
 		},
 		Summary = "30 Dolomedes"
 	},
 	[21749] = {
-		Title = "Snap the horns",
+		Title = "Eden: Snap the horns",
 		Description = {
 			"Defeat 30 Horned Scarabas in Scarabas Hall."
 		},
@@ -54793,14 +56210,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21751] = {
-		Title = "Snap the horns again",
+		Title = "Eden: Snap the horns again",
 		Description = {
 			"Defeat 30 Horned Scarabas in Scarabas Hall."
 		},
 		Summary = "30 Horned Scarabas"
 	},
 	[21752] = {
-		Title = "Take off the Twin Horns",
+		Title = "Eden: Take off the Twin Horns",
 		Description = {
 			"Defeat 30 Twin-Horned Scarabas in Scarabas Hall."
 		},
@@ -54814,14 +56231,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21754] = {
-		Title = "Two horns again",
+		Title = "Eden: Two horns again",
 		Description = {
 			"Defeat 30 Twin-Horned Scarabas in Scarabas Hall."
 		},
 		Summary = "30 Twin-Horned Scarabas"
 	},
 	[21755] = {
-		Title = "Mistaken Antlers",
+		Title = "Eden: Mistaken Antlers",
 		Description = {
 			"Defeat 30 Antler Scarabas in Scarabas Hall."
 		},
@@ -54835,14 +56252,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21757] = {
-		Title = "Odog Dog the Antlers again",
+		Title = "Eden: Odog Dog the Antlers again",
 		Description = {
 			"Defeat 30 Antler Scarabas in Scarabas Hall."
 		},
 		Summary = "30 Antler Scarabas"
 	},
 	[21758] = {
-		Title = "Dominate a Clawed Scarab",
+		Title = "Eden: Dominate a Clawed Scarab",
 		Description = {
 			"Defeat 30 Clawed Scarabas in Scarabas Hall."
 		},
@@ -54856,14 +56273,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21760] = {
-		Title = "Dominate the Claws again",
+		Title = "Eden: Dominate the Claws again",
 		Description = {
 			"Defeat 30 Clawed Scarabas in Scarabas Hall."
 		},
 		Summary = "30 Rakehorn Scarabas"
 	},
 	[21761] = {
-		Title = "Morroc's Harassment",
+		Title = "Eden: Morroc's Harassment",
 		Description = {
 			"Defeat 15 Fire Condors and 15 Fire Frilldora, each of which has been horrified by Morroc's harassment."
 		},
@@ -54877,14 +56294,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21763] = {
-		Title = "Morroc's Harassment",
+		Title = "Eden: Morroc's Harassment",
 		Description = {
 			"Defeat 15 Fire Condor and 15 Fire Frilldora, each of which has been horrifically transformed by Morroc's harassment."
 		},
 		Summary = "15 Fire Condor and 15 Fire Frilldora each"
 	},
 	[21764] = {
-		Title = "Morroc's Nongan",
+		Title = "Eden: Morroc's Nongan",
 		Description = {
 			"Defeat 15 Flame Sandmen and 15 Flame Gorem that have been rampaged by Morroc's rampage."
 		},
@@ -54898,14 +56315,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21766] = {
-		Title = "Morroc's Nongan again",
+		Title = "Eden: Morroc's Nongan again",
 		Description = {
 			"Defeat 15 Flame Sandmen and 15 Flame Gorem that have been rampaged by Morroc's rampage."
 		},
 		Summary = "15 Flame Sandmen and 15 Flame Gorems each"
 	},
 	[21767] = {
-		Title = "Nunu",
+		Title = "Eden: Nunu",
 		Description = {
 			"Let's hunt down 20 Mimings and clear the way for Nunu to go on her adventure."
 		},
@@ -54919,14 +56336,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21769] = {
-		Title = "A bubbly little girl again",
+		Title = "Eden: A bubbly little girl again",
 		Description = {
 			"Let's hunt down 20 Mimings to clear the way for Nunu to go on her adventure."
 		},
 		Summary = "20 Mimings"
 	},
 	[21770] = {
-		Title = "Little prankster",
+		Title = "Eden: Little prankster",
 		Description = {
 			"Let's hunt down 20 Little Fatum and clear the way for Nunu to go on her adventure."
 		},
@@ -54940,7 +56357,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21772] = {
-		Title = "A Little Prankster Again",
+		Title = "Eden: A Little Prankster Again",
 		Description = {
 			"Let's hunt down 20 Little Fatum and clear the way for Nunu so she can go on her adventure."
 		},
@@ -54954,7 +56371,7 @@ QuestInfoList = {
 		Summary = "Find Morroc's Manifestation"
 	},
 	[21774] = {
-		Title = "Angelic Forms",
+		Title = "Eden: Angelic Forms",
 		Description = {
 			"Hunt 30 Valkyrie-type Morrocs for Lartal's unfulfillable fantasy."
 		},
@@ -54968,14 +56385,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21776] = {
-		Title = "Angelic Form Again",
+		Title = "Eden: Angelic Form Again",
 		Description = {
 			"Hunt 30 Valkyrie-type Morrocs for Lartal's unfulfillable fantasy."
 		},
 		Summary = "30 Valkyrie-type Morrocs"
 	},
 	[21777] = {
-		Title = "Blessing of Rest",
+		Title = "Eden: Blessing of Rest",
 		Description = {
 			"Hunt down 30 Mud-type Morrocs for Lartal's unfulfillable delusions."
 		},
@@ -54989,14 +56406,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21779] = {
-		Title = "Blessing of Rest",
+		Title = "Eden: Blessing of Rest",
 		Description = {
 			"Hunt down 30 Mud-type Morrocs for Lartal's unfulfillable delusion."
 		},
 		Summary = "30 Mud-type Morroc Manifestations"
 	},
 	[21780] = {
-		Title = "Binding Joy",
+		Title = "Eden: Binding Joy",
 		Description = {
 			"Hunt 30 Exorcist-type Morrocs for Lartal's unfulfillable delusions."
 		},
@@ -55010,14 +56427,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21782] = {
-		Title = "The Joy of Bondage",
+		Title = "Eden: The Joy of Bondage",
 		Description = {
 			"Hunt 30 Exorcist-type Morrocs for Lartal's unfulfillable delusions."
 		},
 		Summary = "30 Exorcist-type Moroccan Manifestations"
 	},
 	[21783] = {
-		Title = "The embodiment of purity",
+		Title = "Eden: The embodiment of purity",
 		Description = {
 			"Hunt 30 Ghostly Morrocs for Lartal's unfulfillable delusions."
 		},
@@ -55031,14 +56448,14 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21785] = {
-		Title = "Implementing purity again",
+		Title = "Eden: Implementing purity again",
 		Description = {
 			"Hunt 30 Ghostly Morrocs for Lartal's unfulfillable delusions."
 		},
 		Summary = "30 Ghostly Morroc manifestations"
 	},
 	[21786] = {
-		Title = "Hunt a Wandering Carat",
+		Title = "Eden: Hunt a Wandering Carat",
 		Description = {
 			"Hunt down a Wandering Carat on the first floor of Glastheim Castle."
 		},
@@ -55052,7 +56469,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21788] = {
-		Title = "Hunt a Wrathful Meizuroth",
+		Title = "Eden: Hunt a Wrathful Meizuroth",
 		Description = {
 			"Hunt a Wrathful Meizuroth on the 2nd floor of Glastheim's underground caverns."
 		},
@@ -55066,7 +56483,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21790] = {
-		Title = "Hunt a Sturdy Radrik",
+		Title = "Eden: Hunt a Sturdy Radrik",
 		Description = {
 			"Hunt a Sturdy Radrik on the first floor of the Knights of Glastheim."
 		},
@@ -55080,7 +56497,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21792] = {
-		Title = "Hunt a Fast Radrik",
+		Title = "Eden: Hunt a Fast Radrik",
 		Description = {
 			"Hunt a Fast Radrik on the second floor of the Knights of Glastheim."
 		},
@@ -55094,7 +56511,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21794] = {
-		Title = "Hunt a Wrathful Prowler",
+		Title = "Eden: Hunt a Wrathful Prowler",
 		Description = {
 			"Hunt a Raging Prowler on the 2nd floor of Glastheim Castle."
 		},
@@ -55108,7 +56525,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21796] = {
-		Title = "Hunt a fast Zombie Slaughter",
+		Title = "Eden: Hunt a fast Zombie Slaughter",
 		Description = {
 			"Hunt a Fast Zombie Slaughter in the basement of the Monastery on the Nameless Island."
 		},
@@ -55122,7 +56539,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21798] = {
-		Title = "Hunt a fast banshee",
+		Title = "Eden: Hunt a fast banshee",
 		Description = {
 			"Hunt a Fast Banshee on the first floor of the Monastery on the Nameless Island."
 		},
@@ -55136,7 +56553,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21800] = {
-		Title = "Hunt a Boss Necromancer",
+		Title = "Eden: Hunt a Boss Necromancer",
 		Description = {
 			"Hunt down the boss Necromancer in the basement of the Monastery on the Nameless Island."
 		},
@@ -55150,7 +56567,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21802] = {
-		Title = "Hunt a Wrathful Nightmare Terror",
+		Title = "Eden: Hunt a Wrathful Nightmare Terror",
 		Description = {
 			"Hunt a Raging Nightmare Terror on the 2nd floor of the Lava Dungeon in Nogrod."
 		},
@@ -55164,7 +56581,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21804] = {
-		Title = "Hunt the boss Ancient Mimic",
+		Title = "Eden: Hunt the boss Ancient Mimic",
 		Description = {
 			"Hunt the boss Ancient Mimic in the museum in the lower level of Thanatos Tower."
 		},
@@ -55178,7 +56595,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21806] = {
-		Title = "Hunt a Sturdy Deathward",
+		Title = "Eden: Hunt a Sturdy Deathward",
 		Description = {
 			"Hunt down a Sturdy Deathward in the abandoned area at the bottom of Thanatos Tower."
 		},
@@ -55192,7 +56609,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21808] = {
-		Title = "Hunt a Venatu of Wrath",
+		Title = "Eden: Hunt a Venatu of Wrath",
 		Description = {
 			"Hunt a Venatu of Wrath outside the Ruins of Euphoros."
 		},
@@ -55206,7 +56623,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21810] = {
-		Title = "Hunt a fast Dimyke",
+		Title = "Eden: Hunt a fast Dimyke",
 		Description = {
 			"Hunt a Fast Dimyke in the center of Euphoros."
 		},
@@ -55220,7 +56637,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21812] = {
-		Title = "Hunt a Wrathful Ferus",
+		Title = "Eden: Hunt a Wrathful Ferus",
 		Description = {
 			"Hunt a Wrathful Ferus on the first floor of the caves beneath Lake Abyss."
 		},
@@ -55234,7 +56651,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21814] = {
-		Title = "Hunt a Sturdy Acidus",
+		Title = "Eden: Hunt a Sturdy Acidus",
 		Description = {
 			"Hunt a Sturdy Acidus on the second floor of the cave below Lake Abyss."
 		},
@@ -55248,7 +56665,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21816] = {
-		Title = "Hunt a Wandering Comforter",
+		Title = "Eden: Hunt a Wandering Comforter",
 		Description = {
 			"Hunt a Wandering Consoler in the Agony Chamber on the upper level of Thanatos Tower."
 		},
@@ -55262,7 +56679,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21818] = {
-		Title = "Hunt the Boss Watcher",
+		Title = "Eden: Hunt the Boss Watcher",
 		Description = {
 			"Hunt down a Boss Watcher in the Hate Chamber on the upper level of Thanatos Tower."
 		},
@@ -55276,7 +56693,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21820] = {
-		Title = "Hunt the boss, Laurel Binder",
+		Title = "Eden: Hunt the boss, Laurel Binder",
 		Description = {
 			"Hunt down the boss, Laurel Binder, in the basement of the Biotech Lab."
 		},
@@ -55290,7 +56707,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21822] = {
-		Title = "Hunt a sturdy Cecil Dimon",
+		Title = "Eden: Hunt a sturdy Cecil Dimon",
 		Description = {
 			"Hunt down a Sturdy Cecil Dimon in the basement of the Biotech Lab."
 		},
@@ -55304,7 +56721,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21824] = {
-		Title = "Hunting a fast hillwind",
+		Title = "Eden: Hunting a fast hillwind",
 		Description = {
 			"Hunt a Rapid Hill Wind in the field northeast-northwest of Rachel."
 		},
@@ -55318,7 +56735,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21826] = {
-		Title = "Hunt a sturdy kobold",
+		Title = "Eden: Hunt a sturdy kobold",
 		Description = {
 			"Hunt a Sturdy Kobold in the field north-northwest of Lighthalzen."
 		},
@@ -55332,7 +56749,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21828] = {
-		Title = "Hunt a fast Kobold Archer",
+		Title = "Eden: Hunt a fast Kobold Archer",
 		Description = {
 			"Hunt a Fast Kobold Archer in the field north of Lighthalzen."
 		},
@@ -55346,7 +56763,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21830] = {
-		Title = "Hunt a Sturdy Snoyer",
+		Title = "Eden: Hunt a Sturdy Snoyer",
 		Description = {
 			"Hunt a Sturdy Snoyer on the second floor of the Ice Cave."
 		},
@@ -55360,7 +56777,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21832] = {
-		Title = "Hunt a fast Ice Titan",
+		Title = "Eden: Hunt a fast Ice Titan",
 		Description = {
 			"Hunt a Fast Ice Titan on the 3rd floor of the Ice Cave."
 		},
@@ -55374,7 +56791,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21834] = {
-		Title = "Hunt Boss Isila",
+		Title = "Eden: Hunt Boss Isila",
 		Description = {
 			"Hunt down a Boss Isila in the west section of the Sanctuary on the first floor of the Temple of Rachel."
 		},
@@ -55388,7 +56805,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21836] = {
-		Title = "Hunt a Boss Ekio",
+		Title = "Eden: Hunt a Boss Ekio",
 		Description = {
 			"You've hunted a Boss Ekio in the south section of the Sanctuary on the 1st floor of the Temple of Rachel."
 		},
@@ -55402,7 +56819,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21838] = {
-		Title = "Hunt a Fast Agave",
+		Title = "Eden: Hunt a Fast Agave",
 		Description = {
 			"Hunt a Fast Agave in the Sanctuary of Rachel's Temple, 2nd floor, center area."
 		},
@@ -55416,7 +56833,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21840] = {
-		Title = "Hunt for a wandering Luciola Vespa",
+		Title = "Eden: Hunt for a wandering Luciola Vespa",
 		Description = {
 			"Hunt down a Wandering Luciola Vespa in the Splendid Fields."
 		},
@@ -55430,7 +56847,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21842] = {
-		Title = "Hunt a sturdy Pinguicula Dark",
+		Title = "Eden: Hunt a sturdy Pinguicula Dark",
 		Description = {
 			"Hunt a Sturdy Pinguicula Dark in the Splendid Fields."
 		},
@@ -55444,7 +56861,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21844] = {
-		Title = "Hunting a fast centipede",
+		Title = "Eden: Hunting a fast centipede",
 		Description = {
 			"Hunt a Fast Centipede at the foot of Camidal Mountain."
 		},
@@ -55458,7 +56875,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21846] = {
-		Title = "Hunt the boss Dolomedes",
+		Title = "Eden: Hunt the boss Dolomedes",
 		Description = {
 			"Hunt down a single Boss Dolomedes at the foot of Camidal Mountain."
 		},
@@ -55472,7 +56889,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21848] = {
-		Title = "Hunt a wandering Antler Scarabar",
+		Title = "Eden: Hunt a wandering Antler Scarabar",
 		Description = {
 			"Hunt a wandering Antler Scarabar on the first floor of Scarabar Hall."
 		},
@@ -55486,7 +56903,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21850] = {
-		Title = "Hunt a Boss Miming",
+		Title = "Eden: Hunt a Boss Miming",
 		Description = {
 			"You've hunted a Boss Miming in southern Befrost."
 		},
@@ -55500,7 +56917,7 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[21852] = {
-		Title = "Hunt a Fury Little Fatum",
+		Title = "Eden: Hunt a Fury Little Fatum",
 		Description = {
 			"Hunt down a Fury Little Fatum in northern Befrost."
 		},
@@ -56622,6 +58039,14 @@ QuestInfoList = {
 		},
 		Summary = "Finding Joe",
 		CoolTimeQuest = 1
+	},
+	[25000] = {
+		Title = "Find Grandpa Shark!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I was about to play with Baby Shark, but suddenly we started playing hide and seek with Grandpa Shark. Let's find Grandpa Shark!"
+		},
+		Summary = "Find Grandpa Shark"
 	},
 	[40000] = {
 		Title = "Lighthalzen Pickpocket",
@@ -72909,6 +74334,134 @@ QuestInfoList = {
 		Description = {""},
 		Summary = ""
 	},
+	[100100] = {
+		Title = "EL - Hidden",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100101] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Cursed King Schmidt for the League of Explorers."
+		},
+		Summary = "EDDA: Fall of Glastheim"
+	},
+	[100102] = {
+		Title = "[Wait] EL - EDDA: Fall of Glastheim",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100103] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Shulang for the League of Explorers."
+		},
+		Summary = "Villa of Deception"
+	},
+	[100104] = {
+		Title = "[Wait] EL - Villa of Deception",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100105] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Himmelmez for the League of Explorers."
+		},
+		Summary = "Old Glastheim - Challenge Mode"
+	},
+	[100106] = {
+		Title = "[Wait] EL - Old Glastheim - Challenge Mode",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100107] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Death Lord for the League of Explorers."
+		},
+		Summary = "Tower of Geffen"
+	},
+	[100108] = {
+		Title = "[Wait] EL - Tower of Geffen",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100109] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 10 Melted Porings for the League of Explorers."
+		},
+		Summary = "Airship Crash"
+	},
+	[100110] = {
+		Title = "[Wait] EL - Airship Crash",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100111] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Princess Tiara for the League of Explorers."
+		},
+		Summary = "Tomb of Remorse"
+	},
+	[100112] = {
+		Title = "[Wait] EL - Tomb of Remorse",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100113] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Ordre for the League of Explorers."
+		},
+		Summary = "Geffen Night Arena"
+	},
+	[100114] = {
+		Title = "[Wait] EL - Geffen Night Arena",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100115] = {
+		Title = "Explorer's League",
+		Description = {
+			"Defeat 1 Fragment of Broken Thanatos for the League of Explorers."
+		},
+		Summary = "Thanatos Tower"
+	},
+	[100116] = {
+		Title = "[Wait] EL - Thanatos Tower",
+		Description = {
+			"You have completed the League of Explorers' request. You can accept the request again when the cooldown ends."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
 	[291000] = {
 		Title = "",
 		Description = {""}
@@ -73258,6 +74811,22 @@ QuestInfoList = {
 			"Kill 30 monsters in the Port Malaya Dungeon (ma_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Malaya Dungeon"
+	},
+	[291531] = {
+		Title = "[Wait/Event] Villa of Deception 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You used the instance reset service. You can use it one more time by talking to <NAVI>[Aira]<INFO>wolfvill,79,260,0,101,0</INFO></NAVI>."
+		},
+		Summary = "4 AM."
+	},
+	[291532] = {
+		Title = "[Wait/Event] Villa of Deception 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You used the instance reset service. You can only use the service again tomorrow by talking to <NAVI>[Aira]<INFO>wolfvill,79,260,0,101,0</INFO></NAVI>."
+		},
+		Summary = "4 AM."
 	},
 	[293428] = {
 		Title = "Trip to Another World",
@@ -73731,6 +75300,15 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"You have used all daily shop resets. You may use it again after 04:00 through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295582] = {
+		Title = "Villa of Deception - Side Effect Treatment Medicine",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You took a highly toxic medicine to treat the side effects. Due to its strong toxicity, it can only be used once per day."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1

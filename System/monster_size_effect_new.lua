@@ -4119,6 +4119,198 @@ tbl = {
 		MonsterEff = {
 			EFFECT.EF_LEVEL99_RED
 		}
+	},
+	[21548] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANIMAL
+		}
+	},
+	[21550] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_INSECT
+		}
+	},
+	[21551] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_INSECT
+		}
+	},
+	[21555] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_INSECT
+		}
+	},
+	[21556] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANIMAL
+		}
+	},
+	[21558] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21560] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANIMAL
+		}
+	},
+	[21562] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DRAGON
+		}
+	},
+	[21563] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DRAGON
+		}
+	},
+	[21564] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21566] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21568] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21569] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANGEL
+		}
+	},
+	[21570] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21571] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANIMAL
+		}
+	},
+	[21572] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_UNDEAD
+		}
+	},
+	[21573] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_UNDEAD
+		}
+	},
+	[21575] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_UNDEAD
+		}
+	},
+	[21576] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DEVIL
+		}
+	},
+	[21577] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DEVIL
+		}
+	},
+	[21578] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_HUMAN
+		}
+	},
+	[21579] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DEVIL
+		}
+	},
+	[21549] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_PLANT
+		}
+	},
+	[21552] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANIMAL
+		}
+	},
+	[21553] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_PLANT
+		}
+	},
+	[21554] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_ANIMAL
+		}
+	},
+	[21557] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DRAGON
+		}
+	},
+	[21559] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21561] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DRAGON
+		}
+	},
+	[21565] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_NOTHING
+		}
+	},
+	[21567] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_INSECT
+		}
+	},
+	[21574] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_UNDEAD
+		}
 	}
 }
 function main()

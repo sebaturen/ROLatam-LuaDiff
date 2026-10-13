@@ -6,22 +6,22 @@
     },
     "AQlyDA": {
         "en-US": "[Verkhasel]\nRemember this place?\nWe visited it during our last operation together.\nYou became a Guillotine Cross afterward.",
-        "pt-BR": "[Verkhasel]\nVocê lembra deste lugar?\nÉ aquela mansão que visitamos na última missão.\nFoi graças a ela que você conseguiu se tornar um Sicário, não foi?",
+        "pt-BR": "[Verkhasel]\nVocê lembra deste lugar?\nÉ aquela mansão que visitamos na última missão.\nFoi graças a ela que você conseguiu se juntar aos Sicários, não foi?",
         "es-ES": "[Verkhasel]\n¿Te acuerdas de dónde estamos?\nEs esa mansión que visitamos en la última misión.\nGracias a eso pudiste convertirte en un Guillotine Cross, ¿no?"
     },
     "AglyDA": {
         "en-US": "[Doomk]\nHm. So there was a place like this?\nCome to think of it, you must be the first I've met.\nI'm Doomk, leader of the Shadow Chasers.",
-        "pt-BR": "[Dumk]\nHum. Existia um lugar assim?\nPensando bem, você deve ser o primeiro a me ver.\nSou Dumk, o líder dos Renegados.",
+        "pt-BR": "[Dumk]\nHã? Existia um lugar assim?\nAh, é a primeira vez que nos encontramos.\nSou Dumk, o líder da Guilda dos Renegados.",
         "es-ES": "[Dumk]\nMmm. ¿Existía un lugar así?\nAhora que lo pienso, tú debes de ser el primero.\nSoy Dumk, el líder de los Shadow Chasers."
     },
     "AwlyDA": {
         "en-US": "[Doomk]\nNow, let's go hunt the dark elemental, or whatever it is.",
-        "pt-BR": "[Dumk]\nEntão vamos lá caçar esse elemental das trevas ou algo do tipo.",
+        "pt-BR": "[Dumk]\nEntão vamos lá caçar esse Elemental das Trevas ou sei lá como se chama.",
         "es-ES": "[Dumk]\nBueno, vamos a ir a atrapar a ese espíritu de la oscuridad o lo que sea."
     },
     "BAlyDA": {
         "en-US": "[Mayssel]\nWe're not hunting it; we're summoning it, Doomk.\nYou're as crude as I remember.",
-        "pt-BR": "[Mayssel]\nNão é caçar, mas sim invocar, Dumk.\nVocê continua rude como sempre.",
+        "pt-BR": "[Mayssel]\nNão é caçar, mas sim invocar, Dumk.\nVocê continua soberbo como sempre.",
         "es-ES": "[Meisel]\nNo es ir a atraparlo, sino a invocarlo, Dumk.\nSigues teniendo la lengua afilada."
     },
     "BQlyDA": {
@@ -31,7 +31,7 @@
     },
     "BglyDA": {
         "en-US": "[Mayssel]\nI don't know everything.\nFor now, let's look for a place that the dark elemental likes.",
-        "pt-BR": "[Mayssel]\nEu não sei tudo, sabe.\nPrimeiro, vamos procurar um lugar que agrade o Elemental Sombrio.",
+        "pt-BR": "[Mayssel]\nEu não sei de tudo, sabe?\nPrimeiro, vamos procurar um lugar que agrade o Elemental Sombrio.",
         "es-ES": "[Meisel]\nNo lo sé todo.\nPrimero, busquemos un lugar que le guste al espíritu de la oscuridad."
     },
     "BwlyDA": {
@@ -41,22 +41,22 @@
     },
     "CAlyDA": {
         "en-US": "[Doomk]\nHey, why don't we just scatter and look?\nIt'll respond to wherever it likes, won't it?",
-        "pt-BR": "[Dumk]\nEi, vamos cada um dar uma volta por aí.\nSe ele gostar de algum lugar, vai reagir.",
+        "pt-BR": "[Dumk]\nEi, vamos dar uma volta por aí.\nSe ele gostar de algum lugar, vai reagir.",
         "es-ES": "[Dumk]\nOye, mejor andemos cada uno por su lado.\nSi le gusta algún lugar, ya nos lo dirá."
     },
     "CQlyDA": {
         "en-US": "[Doomk]\nI'll call you if I find a suitable place. You can summon it there, then.\nNow, I'll go first.",
-        "pt-BR": "[Dumk]\nQuando achar um lugar adequado, vou te chamar, então vem aqui e faz essa invocação ou algo assim.\nVou dar uma olhada por aí primeiro.",
+        "pt-BR": "[Dumk]\nQuando achar um lugar adequado, vou te chamar para fazer essa invocação ou algo assim.\nVou dar uma olhada por aí primeiro.",
         "es-ES": "[Dumk]\nCuando encuentre un lugar adecuado, te llamaré para que vengas a hacer esa invocación o lo que sea.\nBueno, yo me voy a dar una vuelta primero."
     },
     "CglyDA": {
         "en-US": "[Mayssel]\nWell then, I'll look around the area too.\nFrankly, I don't think it'd mind wherever we call it.",
-        "pt-BR": "[Mayssel]\nBem, então eu também vou dar uma olhada por aqui.\nNa verdade, acho que não faz diferença se a gente chamá-lo em qualquer lugar.",
+        "pt-BR": "[Mayssel]\nBem, então eu também vou dar uma olhada por aí.\nNa verdade, acho que não faz diferença se a gente chamá-lo em qualquer lugar.",
         "es-ES": "[Meisel]\nBueno, entonces yo también voy a echar un vistazo por aquí.\nAunque, la verdad, creo que no importa mucho dónde lo invoquemos."
     },
     "CwlyDA": {
         "en-US": "[Verkhasel]\nNot team players, those.\nYou should look around and find where the dark elemental reacts.",
-        "pt-BR": "[Verkhasel]\nTodo mundo faz o que quer.\nVocê fica de olho nos arredores e tenta achar um lugar onde o Elemental Sombrio reaja.",
+        "pt-BR": "[Verkhasel]\nTodo mundo fez o que quis.\nVocê fica de olho nos arredores e tenta achar um lugar onde o Elemental Sombrio reaja.",
         "es-ES": "[Verkhasel]\nTodos hacen lo que les da la gana.\nTú echa un vistazo por ahí y busca algún lugar donde el espíritu de la oscuridad reaccione."
     },
     "DAlyDA": {
@@ -86,7 +86,7 @@
     },
     "EQlyDA": {
         "en-US": "Long time no see.",
-        "pt-BR": "Há quanto tempo.",
+        "pt-BR": "Há quanto tempo...",
         "es-ES": "Cuánto tiempo sin vernos."
     },
     "EglyDA": {
@@ -111,7 +111,7 @@
     },
     "FglyDA": {
         "en-US": "I'm back!",
-        "pt-BR": "Este corpo, ressuscitou!",
+        "pt-BR": "Este corpo ressuscitou!",
         "es-ES": "¡Este cuerpo, resucita!"
     },
     "FwlyDA": {
@@ -126,22 +126,22 @@
     },
     "GQlyDA": {
         "en-US": "[Mayssel]\nDarky! Long time no see!",
-        "pt-BR": "[Mayssel]\nDarky! Há quanto tempo!",
+        "pt-BR": "[Mayssel]\nTrevoso?! Há quanto tempo!",
         "es-ES": "[Meisel]\n¡Eodumi! ¡Cuánto tiempo sin verte!"
     },
     "GglyDA": {
         "en-US": "[Blacky]\nOooh? That's a name I haven't heard in a while.\nBut now, this body's name is Blacky.\nSome young humans gave me this precious name.",
-        "pt-BR": "[Blacky]\nOh? Faz tempo que não ouço esse nome.\nMas agora o nome deste corpo é Blacky.\nÉ um nome precioso que as crianças humanas me deram.",
+        "pt-BR": "[Vultinho]\nTrevoso? Faz tempo que não ouço esse nome.\nMas agora o nome deste corpo é Vultinho.\nÉ um nome precioso que as crianças humanas me deram.",
         "es-ES": "[Kkaman-i]\n¿Oh? Hace tiempo que no oigo ese nombre.\nPero ahora mi nombre es Kkaman-i.\nLos humanos pequeños me pusieron un nombre precioso."
     },
     "GwlyDA": {
         "en-US": "[Blacky]\nWhew! By the way, what kind of place is this? It's pretty nice.\nCan I stay here for a while?",
-        "pt-BR": "[Blacky]\nUfa... Enfim, que lugar é esse aqui? É bem legal, né?\nPor enquanto, posso fazer disso meu lar?",
+        "pt-BR": "[Vultinho]\nUfa... Enfim, que lugar é esse aqui? É bem legal, né?\nPor enquanto, posso fazer disso meu lar?",
         "es-ES": "[Kkaman-i]\nUf... Por cierto, ¿qué es esto? ¿Es un lugar genial?\n¿Puedo usar esto como mi morada por un tiempo?"
     },
     "HAlyDA": {
         "en-US": "[Doomk]\nWhat's this? This dark thing.\nIs this the dark elemental?\nIt looks pretty interesting....",
-        "pt-BR": "[Dumk]\nO que é isso? Essa coisa toda preta.\nSerá que é o tal Elemental Sombrio?\nTem uma aparência bem estranha...",
+        "pt-BR": "[Dumk]\nO que é isso? Essa coisa toda sombria?\nSerá que é o tal Elemental Sombrio?\nTem uma aparência bem estranha...",
         "es-ES": "[Dumk]\n¿Qué es esto? ¿Esta cosa negra?\n¿Es este el espíritu de la oscuridad?\nTiene un aspecto curioso..."
     },
     "HQlyDA": {
@@ -156,42 +156,42 @@
     },
     "HwlyDA": {
         "en-US": "[Blacky]\nThat condition, you mean you want a portion of this body's power, right?\nFine. That much is within this body's expectations.",
-        "pt-BR": "[Blacky]\nEssa condição é que você quer uma parte do poder deste corpo, não é?\nTudo bem. Isso está dentro do que eu esperava.",
+        "pt-BR": "[Vultinho]\nEssa condição é que você quer uma parte do meu poder, não é?\nTudo bem. Isso está dentro do que eu esperava.",
         "es-ES": "[Negrito]\nEsa condición será que quieres quedarte con parte de mi poder, ¿no?\nEstá bien. Hasta ahí, estaba dentro de lo que esperaba."
     },
     "IAlyDA": {
         "en-US": "[Blacky]\nYou lot already seem to possess the essence of shadow, so I'm not worried about compatibility.\nBut the one who'll master this body's power can't be weak and collapse at the slightest provocation.",
-        "pt-BR": "[Blacky]\nParece que vocês já estão imbuídos da energia das sombras, então não me preocupo com a compatibilidade.\nMas o garoto que vai absorver o poder deste corpo não pode ser tão frágil a ponto de desmaiar a qualquer momento.",
+        "pt-BR": "[Vultinho]\nParece que vocês já estão imbuídos da energia sombria, então não me preocupo com a compatibilidade.\nMas a pessoa que vai absorver meu poder não pode ser tão frágil a ponto de desmaiar.",
         "es-ES": "[Kkaman-i]\nParece que ya tienen la energía de las sombras, así que no me preocupa la compatibilidad.\nPero el chico que va a absorber el poder de este cuerpo no puede ser tan débil como para desmayarse a cada rato."
     },
     "IQlyDA": {
         "en-US": "[Blacky]\nAnd I'll decide who that is.",
-        "pt-BR": "[Blacky]\nE quem vai ser o escolhido, sou eu quem decido.",
+        "pt-BR": "[Vultinho]\nE quem vai ser o escolhido, sou eu quem decido.",
         "es-ES": "[Negrito]\nY yo decidiré quién será ese."
     },
     "IglyDA": {
         "en-US": "[Verkhasel]\nDo as you wish.\nBut while you stay here, you must consider sharing your power with any one of us who wants it.",
-        "pt-BR": "[Verkhasel]\nFaça como quiser.\nMas, enquanto permanecer aqui, se alguém se apresentar, terá que considerar como candidato.",
+        "pt-BR": "[Verkhasel]\nFaça como quiser.\nMas se alguém aparecer aqui e se voluntariar, terá que considerar como candidato.",
         "es-ES": "[Verkhasel]\nHaz lo que quieras.\nPero mientras te quedes aquí, tendrás que considerar como objetivo a cualquiera que se presente."
     },
     "IwlyDA": {
         "en-US": "[Blacky]\nDoesn't this end after just one time?",
-        "pt-BR": "[Blacky]\nNão vai acabar logo de uma vez, né?",
+        "pt-BR": "[Vultinho]\nNão vai acabar logo de uma vez, né?",
         "es-ES": "[Negrito]\n¿No se acabará en una sola vez?"
     },
     "JAlyDA": {
         "en-US": "[Mayssel]\nOh, of course.\nYou get to keep this mansion all to yourself.\nIn return, we just want you to help us grow stronger. You can do it, can't you?",
-        "pt-BR": "[Mayssel]\nNossa, que comentário triste.\nPor enquanto, não vamos poder sair desta mansão.\nVocê ainda precisa ajudar os excelentes guerreiros que enviamos, não é?",
+        "pt-BR": "[Mayssel]\nNão mesmo.\nPor enquanto, você não pode sair desta mansão.\nVocê ajudará os Sicários e Renegados que enviaremos, ok?",
         "es-ES": "[Meisel]\nAy, qué comentarios tan desagradables.\nPor el momento no podremos salir de esta mansión.\n¿No deberías ayudar aún más a los excelentes combatientes que enviamos?"
     },
     "JQlyDA": {
         "en-US": "[Doomk]\nHow dare you scheme like this with the dark elemental?\nDo you think that'll work?",
-        "pt-BR": "[Dumk]\nComo você ousa fazer esse tipo de trapaça com o Elemental Sombrio?\nAcha q isso vai funcionar?",
+        "pt-BR": "[Dumk]\nComo vocês fazem esse tipo de proposta com o Elemental Sombrio?\nAcha que isso vai funcionar?",
         "es-ES": "[Dumk]\n¿Cómo te atreves a hacerme ese tipo de chantaje a un espíritu de la oscuridad?\n¿Crees que eso va a funcionar?"
     },
     "JglyDA": {
         "en-US": "[Blacky]\nThis body...",
-        "pt-BR": "[Blacky]\nEste corpo é...",
+        "pt-BR": "[Vultinho]\nEste corpo é...",
         "es-ES": "[Negrito]\nEste cuerpo es..."
     },
     "JwlyDA": {
@@ -201,42 +201,42 @@
     },
     "KAlyDA": {
         "en-US": "Awesome! I can do anything!",
-        "pt-BR": "É grandioso! Posso fazer qualquer coisa!",
+        "pt-BR": "Posso fazer qualquer coisa!",
         "es-ES": "¡Es grandioso! ¡Puedo hacer cualquier cosa!"
     },
     "KQlyDA": {
         "en-US": "[Blacky]\nAlright. You over there.\nYou brought me the darkness!\nI'll test you.",
-        "pt-BR": "[Blacky]\nTudo bem. Ei, humano.\nHumano que trouxe a escuridão para mim!\nVou te testar.",
+        "pt-BR": "[Vultinho]\nTudo bem. Ei, humano.\nHumano que trouxe a escuridão para mim!\nVou te testar.",
         "es-ES": "[Kkaman-i]\nBien. Oye, humano.\n¡Humano que le trajiste la oscuridad a este cuerpo!\nTe pondré a prueba."
     },
     "KglyDA": {
         "en-US": "[Blacky]\nI'll only test your skills, so don't be scared. Get ready.",
-        "pt-BR": "[Blacky]\nVou apenas avaliar o teu nível, então não se assuste e prepara-se.",
+        "pt-BR": "[Vultinho]\nVou apenas avaliar seu nível, então não se assuste e prepara-se.",
         "es-ES": "[Kkaman-i]\nSolo voy a evaluar tu nivel, así que no te asustes y prepárate."
     },
     "KwlyDA": {
         "en-US": "[Verkhasel]\nGood. Now, we won't have a problem creating a new rank among ourselves.",
-        "pt-BR": "[Verkhasel]\nQue bom. Parece que não haverá problema em criar uma nova classificação dentro da organização com isso.",
+        "pt-BR": "[Verkhasel]\nQue bom. Parece que não haverá problema em criar uma nova classe dentro da guilda com isso.",
         "es-ES": "[Verkhasel]\nQué bien. Parece que no habrá problema para crear un nuevo rango dentro de la organización con esto."
     },
     "LAlyDA": {
         "en-US": "I don't have enough Crystals of Darkness or Dark Pieces.",
-        "pt-BR": "Parece que faltam Cristais da Escuridão e Fragmentos Sombrios...",
+        "pt-BR": "Faltam Cristais da Escuridão e Fragmentos Sombrios...",
         "es-ES": "Parece que nos faltan cristales de oscuridad y fragmentos de oscuridad..."
     },
     "LQlyDA": {
         "en-US": "[Blacky]\nReady?\nThen, whom should I use...?\nHmm... Yes, you!",
-        "pt-BR": "[Blacky]\nTudo pronto?\nEntão, quem seria uma boa escolha...\nHmmm. É, será você!",
+        "pt-BR": "[Vultinho]\nTudo pronto?\nEntão, quem seria uma boa escolha...\nHmmm. É, será você!",
         "es-ES": "[Kkaman-i]\n¿Ya estás listo?\nEntonces, ¿quién sería un buen candidato...?\nMmm... ¡Sí, me quedo contigo!"
     },
     "LglyDA": {
         "en-US": "[Blacky]\nDoomk, right?\nY-your white hair displeases me.\nSo, I'm going to use you.",
-        "pt-BR": "[Blacky]\nDumk, não é?\nNão gosto do teu cabelo branco.\nPor isso, vou te usar.",
+        "pt-BR": "[Vultinho]\nDumk, não é?\nNão gosto do seu cabelo branco.\nPor isso, vou te usar.",
         "es-ES": "[Kkaman-i]\n¿Dijiste que te llamabas Dumk?\nNo me gusta tu pelo blanco.\nAsí que te voy a usar."
     },
     "LwlyDA": {
         "en-US": "[Doomk]\nWhat the hell are you talking about?\nWait, what are you doing to my body?",
-        "pt-BR": "[Dumk]\nNão estou entendendo nada disso...\nEspere aí, o que você está fazendo comigo!",
+        "pt-BR": "[Dumk]\nNão estou entendendo nada disso...\nEspere aí, o que você está fazendo comigo?!",
         "es-ES": "[Dumk]\n¿De qué diablos estás hablando?\n¡Espera, qué le estás haciendo a mi cuerpo!"
     },
     "MAlyDA": {
@@ -246,7 +246,7 @@
     },
     "MQlyDA": {
         "en-US": "You... You won't get away with this!",
-        "pt-BR": "Você... Não vou deixar isso passar...!",
+        "pt-BR": "Não ... Não vou deixar isso...!",
         "es-ES": "Tú... ¡No te lo voy a dejar pasar...!"
     },
     "MglyDA": {
@@ -261,42 +261,42 @@
     },
     "NAlyDA": {
         "en-US": "Possessed Doomk",
-        "pt-BR": "Dumk sendo controlado",
+        "pt-BR": "Dumk Possuído",
         "es-ES": "Dumk, bajo control"
     },
     "NQlyDA": {
         "en-US": "Come on, show me what you've got.",
-        "pt-BR": "Vamos lá, mostre-me logo o que sabe fazer.",
+        "pt-BR": "Mostre-me o que sabe fazer.",
         "es-ES": "Vamos, muéstrame de qué estás hecho."
     },
     "NglyDA": {
         "en-US": "[Blacky]\nHah hah hah hah! You won.\nFor your information, this fight was just to see if you could accept darkness.",
-        "pt-BR": "[Blacky]\nHah hah hah hah! Você venceu.\nIsso foi só para ver se ele conseguiria aguentar a escuridão.",
+        "pt-BR": "[Vultinho]\nMwahhahhah! Você venceu.\nIsso foi só para ver se ele conseguiria aguentar a escuridão.",
         "es-ES": "[Negrito]\nJajajaja, ¡qué fácil me ganaste!\nAh, de todos modos, solo fue una pelea de prueba para ver si podías aceptar la oscuridad."
     },
     "NwlyDA": {
         "en-US": "[Blacky]\nDon't go thinking Doomk is weak, you hear me?\nDon't get cocky later, got it?",
-        "pt-BR": "[Blacky]\nEsse tal de Dumk não é fraco, tá?\nNão vá ficar se achando, entendeu?",
+        "pt-BR": "[Vultinho]\nEsse tal de Dumk não é fraco, tá?\nNão vá ficar se achando, entendeu?",
         "es-ES": "[Negrito]\nEs que ese tipo, Dumk, no es ningún debilucho.\n¿No te atrevas a ponerte chulo ni siquiera más adelante?"
     },
     "OAlyDA": {
         "en-US": "[Blacky]\nYou seem qualified enough.\nAlright! Then shall I share some of my power with you?\nWhen you're ready to accept my power, come talk to me again.",
-        "pt-BR": "[Blacky]\nParece que você tem potencial suficiente.\nÓtimo! Então, que tal eu te dar um pouco do meu poder?\nQuando estiver pronto para receber meu poder, fala comigo de novo.",
+        "pt-BR": "[Vultinho]\nParece que você tem potencial suficiente.\nÓtimo! Então, que tal eu te dar um pouco do meu poder?\nQuando estiver com tudo pronto para receber meu poder, fale comigo de novo.",
         "es-ES": "[Negrito]\nParece que tienes suficiente potencial.\n¡Bien! ¿Te voy a compartir un poco de mi poder?\nCuando estés listo para recibir mi poder, vuelve a hablarme."
     },
     "OQlyDA": {
         "en-US": "[Verkhasel]\nYou'd better get off your mount first.\nIt's time you accept the power of darkness.",
-        "pt-BR": "[Verkhasel]\nVocê deveria descer de sua montaria primeiro.\nPorque agora você é a hora de receber o poder das trevas.",
+        "pt-BR": "[Verkhasel]\nVocê deveria descer de sua montaria primeiro.\nPorque agora é a hora de receber o poder das sombras.",
         "es-ES": "[Verkhasel]\nSería mejor que te bajaras del vehículo.\nPorque a partir de ahora tienes que recibir el poder de la oscuridad."
     },
     "OglyDA": {
         "en-US": "[Verkhasel]\nWait. If you accept the power of darkness now, you'll become a ^4D4DFFShadow Cross^000000, a member of the new group in the Guild,\nwhich is above all Assassins.",
-        "pt-BR": "[Verkhasel]\nEspera aí, se você receber o poder das trevas agora, vai se tornar um ^4D4DFFExecutor^000000 recém-criado pela organização.\nIsso significa que você vai chegar ao topo dos Mercenários.",
+        "pt-BR": "[Verkhasel]\nSe você receber o poder das sombras agora, vai se juntar aos ^4D4DFFExecutores^000000.\nIsso significa que você será mais forte que um Sicário.",
         "es-ES": "[Verkhasel]\nUn momento, si recibes el poder de la oscuridad ahora, te convertirás en un nuevo ^4D4DFFEjecutor^000000 creado por la organización.\nSerás la cúspide de los asesinos."
     },
     "OwlyDA": {
         "en-US": "[Verkhasel]\nMayssel and I have prepared this new uniform for you.\nI hope you like it.",
-        "pt-BR": "[Verkhasel]\nÉ o novo uniforme que preparei com Mayssel especialmente para você.\nGostaria que você o vestisse para comemorar o seu renascimento.",
+        "pt-BR": "[Verkhasel]\nE esse o novo uniforme que preparei com Mayssel especialmente para você.\nGostaria que você o vestisse para comemorar seus novos poderes.",
         "es-ES": "[Verkhasel]\nEste es el nuevo uniforme que preparamos para ti junto con Meisel.\nMe gustaría que te lo pusieras para celebrar tu renacimiento."
     },
     "PAlyDA": {
@@ -306,17 +306,17 @@
     },
     "PQlyDA": {
         "en-US": "[Doomk]\nHmph, stating the obvious.\nDark elemental, we're ready. Come on, give them a makeover.",
-        "pt-BR": "[Dumk]\nHmph, mas isso é óbvio.\nElemental Sombrio, a nossa parte está pronta. Pode transformar este rapaz.",
+        "pt-BR": "[Dumk]\nHmpf, mas é claro que vai ficar bem. Eu que fiz.\nElemental Sombrio, a nossa parte está pronta. Pode transformar este rapaz.",
         "es-ES": "[Dumk]\nJe, qué obviedad.\nEspíritu de la Oscuridad. Por aquí ya estamos listos. Dile que renueve a este chico."
     },
     "PglyDA": {
         "en-US": "[Blacky]\nHah hah hah. As you wish.\nI'm an elemental who never forgets the favors.\nNow, relax and accept my energy.",
-        "pt-BR": "[Blacky]\nHuhuhuh. É isso aí.\nEu sou um espírito que sabe retribuir favores.\nEntão relaxa e receba a minha energia.",
+        "pt-BR": "[Vultinho]\nHuhuhuh. É isso aí.\nEu sou um Elemental que sabe retribuir favores.\nEntão relaxe e receba a minha energia.",
         "es-ES": "[Kkaman-i]\nJujuju. Así es.\nEste ser es un espíritu que sabe cómo devolver un favor.\nEntonces, relájate y recibe la energía de este ser."
     },
     "PwlyDA": {
         "en-US": "[Verkhasel]\nCongratulations on becoming Shadow Cross.",
-        "pt-BR": "[Verkhasel]\nParabéns por te tornares um Executor.",
+        "pt-BR": "[Verkhasel]\nParabéns! Agoa você é um Executor.",
         "es-ES": "[Verkhasel]\nFelicidades por convertirte en Ejecutor."
     },
     "QAlyDA": {
@@ -326,7 +326,7 @@
     },
     "QQlyDA": {
         "en-US": "Congratulations.",
-        "pt-BR": "Parabéns.",
+        "pt-BR": "Parabéns!",
         "es-ES": "Felicidades."
     },
     "QglyDA": {
@@ -336,32 +336,32 @@
     },
     "QwlyDA": {
         "en-US": "[Blacky]\nI don't know what that means, but you should listen to your senior.",
-        "pt-BR": "[Blacky]\nNão sei o que é, mas como é o que o teu veterano está dizendo, ouça com atenção.",
+        "pt-BR": "[Vultinho]\nNão sei o que aconteceu, mas ouça o que Verkhasel está dizendo! Ouça com atenção.",
         "es-ES": "[Kkaman-i]\nNo sé qué es, pero como lo dice tu senior, escúchalo bien."
     },
     "RAlyDA": {
         "en-US": "[Blacky]\nAlright, we're done now, right? Okay, then get out of my house!",
-        "pt-BR": "[Blacky]\nPronto, já acabou, não é? Então, agora saia da minha casa!",
+        "pt-BR": "[Vultinho]\nPronto, já acabou, não é? Então, agora saia da minha casa!",
         "es-ES": "[Kkaman-i]\nBueno, ¿ya terminaste? ¡Pues ahora lárgate de mi casa!"
     },
     "RQlyDA": {
         "en-US": "Not bad! You're more compatible with me than I thought!",
-        "pt-BR": "Você é bom, hein?! A gente combina bem!",
+        "pt-BR": "Você é forte, hein?! A gente até que combina bem!",
         "es-ES": "¡No te va nada mal! ¡Tu energía encaja perfectamente con la mía!"
     },
     "RglyDA": {
         "en-US": "Grr, you used me!",
-        "pt-BR": "Grr, você usou meu corpo como bem entendeu...!",
+        "pt-BR": "Grr, você usou meu corpo...!",
         "es-ES": "¡Grrr, seguro que has usado mi cuerpo a tu antojo...!"
     },
     "RwlyDA": {
         "en-US": "[Verkhasel]\nTalk to the Dark Elemental when you're ready.\nYou spent all your Skill Points, right?",
-        "pt-BR": "[Verkasel]\nQuando estiver pronto, fale com o Elemental Sombrio.\nJá gastou todos os seus pontos de habilidade, não é?",
+        "pt-BR": "[Verkasel]\nQuando estiver com tudo pronto, fale com o Elemental Sombrio.\nJá gastou todos os seus pontos de habilidade, não é?",
         "es-ES": "[Verkasel]\nCuando estés listo, habla con el espíritu de la oscuridad.\nYa habrás gastado todos tus puntos de habilidad, ¿no?"
     },
     "SAlyDA": {
         "en-US": "[Verkhasel]\nYou look nice.\nAs you always have, don't be bound by the Guild and go about freely.\nNow, let me send you outside.",
-        "pt-BR": "[Verkhasel]\nQue bom ver isso.\nComo sempre, não se prenda à guilda e ande por aí livremente.\nEntão vou te mandar para fora.",
+        "pt-BR": "[Verkhasel]\nQue bom ver isso.\nComo sempre, não se prenda à guilda e ande por aí livremente.\nVou te mandar para fora.",
         "es-ES": "[Verkhasel]\nMe gusta lo que veo.\nComo hasta ahora, no te quedes atado al gremio, sino que anda libremente.\nEntonces te dejaré salir."
     }
 }

@@ -7,167 +7,167 @@
     "YcHmAQ": {
         "en-US": "[Premi]\nAaang~ If the Premium service ends, you can't use magic~",
         "pt-BR": "[Perena]\nAh~ Quando o serviço premium termina, não consigo usar magia~",
-        "es-ES": "[Premi]\nMiau~. No puedo usar mi magia si tu Servicio prémium expira~."
+        "es-ES": "[Premi]\nAh~. Cuando termine tu servicio premium, ya no podré usar magia~."
     },
     "YsHmAQ": {
         "en-US": "[Premi]\nI wonder if Premi will become a normal stray cat just like this~",
         "pt-BR": "[Perena]\nEu vou me tornar uma gata comum sendo assim?",
-        "es-ES": "[Premi]\nMe pregunto si Premi se convertirá en una simple gata callejera, miau~."
+        "es-ES": "[Premi]\n¿Me voy a convertir en una gata común siendo así?"
     },
     "Y8HmAQ": {
         "en-US": "[Premi]\nNooo~\nI'm Premi!\nIt's nice to meet you~",
         "pt-BR": "[Perena]\nOlá~\nEu sou Perena!!\nPrazer em te conhecer ~",
-        "es-ES": "[Premi]\nMiau~.\n¡Mi nombre es Premi! ¡Miau!\nMucho gusto~."
+        "es-ES": "[Premi]\nHola.\n¡Mi nombre es Premi!\nMucho gusto~."
     },
     "ZMHmAQ": {
         "en-US": "[Premi]\nHeh~ {0}, this is the first time you're meeting Premi, right?\nSo!\nShall I let you know what Premi can do!\nEven if I look like this, Premi is an outstanding witch!",
         "pt-BR": "[Perena]\nVocê é {0}, né?~\nParece ser sua primeira vez comigo!\nEntão, eu vou explicar tudinho pra você!\nSe não entender, vou castigar você em nome da Runa!",
-        "es-ES": "[Premi]\nMiau~. {0}Es la primera vez que nos vemos, ¿verdad?\n¡Mmm!\n¡Premi te dirá lo que Premi puede hacer!\nPor cierto, ¡Premi es una increíble chica mágica!"
+        "es-ES": "[Premi]\n¿Eres {0}, verdad?~\n¡Parece ser tu primera vez conmigo!\n¡Así que te voy a explicar todito!\n¡Si no entiendes, te voy a castigar en nombre de Runa!"
     },
     "ZcHmAQ": {
         "en-US": "[Premi]\nFirst!\nThe thing that Premi is most confident in!\n[Experience Increase] Magic!\nI need about 4 Nyangvines worth of magic, and I can increase the experience gained by 30% for 1 day!",
         "pt-BR": "[Perena]\nPrimeiramente.\nEu forneço [Bônus de EXP]\nao custo de 4 MiauMiau.\nIsso significa que você receberá um bônus de 30% de EXP por 24 horas!",
-        "es-ES": "[Premi]\n¡Primero!\nLo que Premi puede hacer es...\n¡[Aumento de EXP]!\n¡Con esta magia, recibirás un 30 % de aumento de EXP por el resto del día! Pero necesitaré 4 Miaufrutos para lanzarlo."
+        "es-ES": "[Premi]\nPrimero que nada.\nOtorgo [Bono de EXP]\npor el costo de 4 Miaufruto.\n¡Esto significa que recibirás un bono del 30% de EXP por 24 horas!"
     },
     "ZsHmAQ": {
         "en-US": "[Premi]\nNext, ^49B85B[Drop rate]^000000 Magic!\nFor ^49B85B30% increase to drop rate for 1 day^000000I would need ^49B85B2 Nyangvines ^000000worth of magic!",
         "pt-BR": "[Perena]\nSegundo, ^FF0066[Taxa de DROP]^000000\nPor apenas ^FF00662 MiauMiau^000000, você recebe ^FF006630% de chance de DROP^000000 por ^FF006624 horas^000000.",
-        "es-ES": "[Premi]\n¡La siguiente magia es el ^49B85B[Aumento de la probabilidad de aparición]^000000!\n¡Recibirás un ^49B85B30 % de aumento de la probabilidad de aparición por el resto del día^000000! Para esto, necesito ^49B85B2 Miaufrutos^000000."
+        "es-ES": "[Premi]\nSegundo, ^FF0066[Tasa de DROP]^000000\nPor solo ^FF00662 Miaufruto^000000, recibes ^FF0066un 30% de probabilidad de DROP^000000 por ^FF006624 horas^000000."
     },
     "Z8HmAQ": {
         "en-US": "[Premi]\nAlso... Eh... Next....\n^49B85B[Death Pemalty reduction]^000000 magic....\n^49B85B1 Nyangvine^000000worth of magic is required, and the effects are excellent....",
         "pt-BR": "[Perena]\nE por fim... \n^FF0066[Penalidade de Morte]^000000, que custa ^FF00661 MiauMiau^000000... \nSignifica ^FF0066não perder muita EXP quando morre^000000...  Legal, né?",
-        "es-ES": "[Premi]\nY... Mmm... El siguiente es...\n^49B85B[Reducción de la pena de muerte]^000000\nSolo cuesta ^49B85B1 Miaufruto^000000 y el efecto es superbueno..."
+        "es-ES": "[Premi]\nY por último...\n^FF0066[Penalización por Muerte]^000000, que cuesta ^FF00661 Miaufruto^000000...\nSignifica ^FF0066no perder mucha EXP al morir^000000... ¿Genial, verdad?"
     },
     "aMHmAQ": {
         "en-US": "[Premi]\nBut you have to die first for the effects to take effect...\nI can't say I've tested it...\nUhh..It's an amazing piece of magic though...\nIf you have Death penalty 50% reduction...",
         "pt-BR": "[Perena]\nMas que fique claro... \nNão vai zerar a sua penalidade... \nA redução da penalidade \né de apenas 50%...",
-        "es-ES": "[Premi]\nPeeero solo funciona si mueres primero...\nasí que no la he probado, pero...\ncréeme, es muy útil...\nReduce la pena de muerte en un 50 %..."
+        "es-ES": "[Premi]\nPeeeeeeeero que quede claro...\nNo va a dejar tu penalización en cero...\nLa reducción de la penalización\nes de solo un 50%..."
     },
     "acHmAQ": {
         "en-US": "[Premi]\nAlso, if you want the 3-in-1 magic package then I'll need 6 Nyangvines  worth of magic!\nYou don't have to get repeated instances of magic, and you get a discount too, isn't that great?!",
         "pt-BR": "[Perena]\nVocê poderá escolher os 3 efeitos ao mesmo tempo, basta pagar 6 MiauMiau, percebeu que há um desconto se optar por essa escolha?!\nMiau~",
-        "es-ES": "[Premi]\n¡Ah, por cierto! Si quieres usar los 3 buffs, puedes hacerlo con solo 6 Miaufrutos.\nEs una ganga, ¿verdad?"
+        "es-ES": "[Premi]\nPodrás elegir los 3 efectos al mismo tiempo, solo basta pagar 6 Miaufruto, ¿te diste cuenta de que hay un descuento si optas por esta opción?!\nMiau~"
     },
     "asHmAQ": {
         "en-US": "[Premi]\nAh!\nAlso, You can't activate another instance of magic while the current one is still active, so when it ends call Premi!",
         "pt-BR": "[Perena]\nAh! \nE você só pode pedir um novo efeito quando o anterior acabar. Não adianda querer reiniciar a duração!",
-        "es-ES": "[Premi]\n¡Ah!\nNo lo olvides: no puedo usar mi magia si ya tienes un hechizo activo. Así que llama a Premi cuando la magia expire, ¿bien?"
+        "es-ES": "[Premi]\n¡Ah!\nY solo puedes pedir un nuevo efecto cuando el anterior termine. ¡No sirve de nada querer reiniciar la duración!"
     },
     "a8HmAQ": {
         "en-US": "[Premi]\nAnd finally!\nWe're also doing exchanges for[Premium service employee] to a Premium box!",
         "pt-BR": "[Perena]\nE por último! \nSe você tiver muitos Cetros do Coração Lunar, posso trocar por Arcas!",
-        "es-ES": "[Premi]\nPor último...\n¡Estoy cambiando el [Personal de servicio prémium] por Cajas prémium!"
+        "es-ES": "[Premi]\n¡Y por último!\nSi tienes muchos Cetros del Corazón Lunar, ¡puedo cambiarlos por Arcas!"
     },
     "bMHmAQ": {
         "en-US": "[Premi]\nOur bo.. I mean the great magician has put a ton of presents, so exchange your remaining [Premium service employee] !",
         "pt-BR": "[Perena]\nVocê só precisa de 1 Cetro na conta, por isso estamos trocando os Cetros em excesso!",
-        "es-ES": "[Premi]\nNuestro... no, el gran hechicero ha puesto un montón de regalos ahí dentro, ¡así que puedes cambiarlos por los objetos restantes del [Personal de servicio prémium]!"
+        "es-ES": "[Premi]\nSolo necesitas 1 Cetro en la cuenta, ¡por eso estamos cambiando los Cetros en exceso!"
     },
     "bcHmAQ": {
         "en-US": "[Premi]\nSo what amazing magic shall Premi cast for you today?",
         "pt-BR": "[Perena]\nEntão, fale comigo na próxima vez, caso queira os efeitos especiais!",
-        "es-ES": "[Premi]\nEntonces, ¿qué tipo de magia increíble quieres que lance hoy?"
+        "es-ES": "[Premi]\nEntonces, ¡habla conmigo la próxima vez si quieres los efectos especiales!"
     },
     "bsHmAQ": {
         "en-US": "[Premi]\nNooo~ {0}\nBecause of {0}, I feel great today!!",
         "pt-BR": "[Perena]\nOiiiii~ mestre {0}!\nGraças a você, estou me sentindo melhor hoje!!",
-        "es-ES": "[Premi]\nMiau~. ¡Hola! {0}¡!\nGracias a ti, {0}¡Premi está de muy buen humor hoy también!"
+        "es-ES": "[Premi]\n¡Holaaaa~ maestro {0}!\n¡Gracias a ti, hoy me siento mejor!!"
     },
     "b8HmAQ": {
         "en-US": "^8C8C8CIncrease base EXP (On use)^000000",
         "pt-BR": "^8C8C8C[Ativo] Bônus de EXP^000000",
-        "es-ES": "^8C8C8CAumento del EXP base (En uso)^000000"
+        "es-ES": "^8C8C8C[Activo] Bono de EXP^000000"
     },
     "cMHmAQ": {
         "en-US": "^8C8C8CIncrease base EXP(Insufficient material)^000000",
         "pt-BR": "^8C8C8C[Sem MiauMiau] Bônus de EXP^000000",
-        "es-ES": "^8C8C8CAumento del EXP base (Material insuficiente)^000000"
+        "es-ES": "^8C8C8C[Sin Miaufruto] Bono de EXP^000000"
     },
     "ccHmAQ": {
         "en-US": "Increase base EXP(1 Day)",
         "pt-BR": "Bônus de EXP (24 horas)",
-        "es-ES": "Aumento del EXP base (1 Día)"
+        "es-ES": "Bono de EXP (24 horas)"
     },
     "csHmAQ": {
         "en-US": "^8C8C8CIncrease drop rate(On use)^000000",
         "pt-BR": "^8C8C8C[Ativo] Bônus de DROP^000000",
-        "es-ES": "^8C8C8CAumento de la probabilidad de aparición (En uso)^000000"
+        "es-ES": "^8C8C8C[Activo] Bono de DROP^000000"
     },
     "c8HmAQ": {
         "en-US": "^8C8C8CIncrease drop rate(Insufficient material)^000000",
         "pt-BR": "^8C8C8C[Sem MiauMiau] Bônus de DROP^000000",
-        "es-ES": "^8C8C8CAumento de la probabilidad de aparición (Material insuficiente)^000000"
+        "es-ES": "^8C8C8C[Sin Miaufruto] Bono de DROP^000000"
     },
     "dMHmAQ": {
         "en-US": "Increase drop rate(1 Day)",
         "pt-BR": "Bônus de DROP (24 horas)",
-        "es-ES": "Aumento de la probabilidad de aparición (1 Día)"
+        "es-ES": "Bono de DROP (24 horas)"
     },
     "dcHmAQ": {
         "en-US": "^8C8C8CReduce death penalty(On use)^000000",
         "pt-BR": "^8C8C8C[Ativo] Penalidade de Morte^000000",
-        "es-ES": "^8C8C8CReducción de la pena de muerte (En uso)^000000"
+        "es-ES": "^8C8C8C[Activo] Penalización por Muerte^000000"
     },
     "dsHmAQ": {
         "en-US": "^8C8C8CReduce death penalty(Insufficient material)^000000",
         "pt-BR": "^8C8C8C[Sem MiauMiau] Penalidade de Morte^000000",
-        "es-ES": "^8C8C8CReducción de la pena de muerte (Material Insuficiente)^000000"
+        "es-ES": "^8C8C8C[Sin Miaufruto] Penalización por Muerte^000000"
     },
     "d8HmAQ": {
         "en-US": "Reduce death penalty(1 Day)",
         "pt-BR": "Penalidade de Morte (24 horas)",
-        "es-ES": "Reducción de la pena de muerte (1 Día)"
+        "es-ES": "Penalización por Muerte (24 horas)"
     },
     "eMHmAQ": {
         "en-US": "^8C8C8CBuff service(On use)^000000",
         "pt-BR": "^8C8C8C[Ativo] Todos os Bônus^000000",
-        "es-ES": "^8C8C8CAll Buffs (In Use)^000000"
+        "es-ES": "^8C8C8C[Activo] Todos los Bonos^000000"
     },
     "ecHmAQ": {
         "en-US": "^8C8C8C Take all service (Insufficient material)^000000",
         "pt-BR": "^8C8C8C[Sem MiauMiau] Todos os Bônus^000000",
-        "es-ES": "^8C8C8CAceptar todos los servicios (Material insuficiente)^000000"
+        "es-ES": "^8C8C8C[Sin Miaufruto] Todos los Bonos^000000"
     },
     "esHmAQ": {
         "en-US": "Take all service (1 Day)",
         "pt-BR": "Todos os Bônus (24 horas)",
-        "es-ES": "Aceptar todos los servicios (1 Día)"
+        "es-ES": "Todos los Bonos (24 horas)"
     },
     "e8HmAQ": {
         "en-US": "^8C8C8CPremium Wooden Box(Insufficient material)^000000",
         "pt-BR": "^8C8C8C[Insuficiente] Arca VIP Bronze^000000",
-        "es-ES": "^8C8C8CCaja de Madera Premium(Insuficiente)^000000"
+        "es-ES": "^8C8C8C[Insuficiente] Arca VIP Bronce^000000"
     },
     "fMHmAQ": {
         "en-US": "Exchange premium box",
         "pt-BR": "Trocar Cetros Acumulados",
-        "es-ES": "Cambio de Caja Premium"
+        "es-ES": "Cambiar Cetros Acumulados"
     },
     "fcHmAQ": {
         "en-US": "Premium Wooden Box",
         "pt-BR": "Arca VIP Bronze",
-        "es-ES": "Caja de Madera Premium"
+        "es-ES": "Arca VIP Bronce"
     },
     "fsHmAQ": {
         "en-US": "^8C8C8CPremium Golden Box (You can't exchange)^000000",
         "pt-BR": "^8C8C8C[Insuficiente] Arca VIP Ouro^000000",
-        "es-ES": "^8C8C8CCaja Dorada Premium (No se puede cambiar)^000000"
+        "es-ES": "^8C8C8C[Insuficiente] Arca VIP Oro^000000"
     },
     "f8HmAQ": {
         "en-US": "Premium Golden Box",
         "pt-BR": "Arca VIP Ouro",
-        "es-ES": "Caja Dorada Premium"
+        "es-ES": "Arca VIP Oro"
     },
     "gMHmAQ": {
         "en-US": "^8C8C8CPremium Platinum Box (You can't exchange)^000000",
         "pt-BR": "^8C8C8C[Insuficiente] Arca VIP Platina^000000",
-        "es-ES": "^8C8C8CCaja Platino Premium (No se puede cambiar)^000000"
+        "es-ES": "^8C8C8C[Insuficiente] Arca VIP Platino^000000"
     },
     "gcHmAQ": {
         "en-US": "Premium Platinum Box",
         "pt-BR": "Arca VIP Platina",
-        "es-ES": "Caja Platino Premium"
+        "es-ES": "Arca VIP Platino"
     },
     "gsHmAQ": {
         "en-US": "Do nothing",
@@ -177,117 +177,117 @@
     "g8HmAQ": {
         "en-US": "[Premi]\nUhm~ {0}, you probably have an active instance of magic right now, I'm guessing?\nIf you have an active instance of magic, you can't get the same one again until it ends!",
         "pt-BR": "[Perena]\nIh~ {0}, sinto muito...\nVocê não pode receber um efeito que já está ativo!",
-        "es-ES": "[Premi]\nMiau~. {0} Ya estás bajo el efecto de la magia de Premi.\n¡No puedo lanzar el mismo hechizo!"
+        "es-ES": "[Premi]\nUy~ {0}, lo siento...\n¡No puedes recibir un efecto que ya está activo!"
     },
     "hMHmAQ": {
         "en-US": "[Premi]\nHaang~\nI can't cast any magic because you don't have enough Nyangvines.\n^49B85BThe [Experience increase] magic requires 4 Nyangvines~^000000",
         "pt-BR": "[Perena]\nIh~ \n^FF0066[Bônus de EXP]^000000 precisa de\n^FF00664 MiauMiau^000000~",
-        "es-ES": "[Premi]\nMiau~.\n¡Premi no puede darte magia gratis, miau!\n^49B85B¡Necesito 4 Miaufrutos para lanzar el [Aumento de EXP], miau!^000000"
+        "es-ES": "[Premi]\nUy~\n^FF0066[Bono de EXP]^000000 necesita\n^FF00664 Miaufruto^000000~"
     },
     "hcHmAQ": {
         "en-US": "[Premi]\n^49B85BIf you want the [Experience increase] magic, I'll need 4 Nyangvines~^000000\n{0}! Will {0} give up your precious Nyangvines for Premi?",
         "pt-BR": "[Perena]\n^FF0066[Bônus de EXP]^000000 precisa de ^FF00664 MiauMiau^000000.\nMestre {0}, posso recolher as Frutas?",
-        "es-ES": "[Premi]\n^49B85B¡Necesito 4 Miaufrutos para lanzar el [Aumento de EXP], miau!^000000\n¡¿Mia-miau?! {0}¿Me darás esos Miaufrutos, miau?"
+        "es-ES": "[Premi]\n^FF0066[Bono de EXP]^000000 necesita ^FF00664 Miaufruto^000000.\nMaestro {0}, ¿puedo recoger las Frutas?"
     },
     "hsHmAQ": {
         "en-US": "^FF0000   * Warning *^000000\n^FF0000You will get the experience increase buff for 1 day in exchange for 4 Nyangvines.^000000\n^FF0000Items that have been used for the exchange cannot be refunded or returned.^000000",
         "pt-BR": "^FF0000[Aviso]^000000 \n^FF0000Você dará as MiauMiau^000000 \n^FF0000para receber o efeito escolhido.^000000",
-        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Se necesitan 4 Miaufrutos para recibir un 30 % de aumento de EXP (1 día).^000000\n^FF0000Este servicio no puede reembolsarse.^000000"
+        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Darás las Miaufruto^000000\n^FF0000para recibir el efecto elegido.^000000"
     },
     "h8HmAQ": {
         "en-US": "Receive the buff.",
         "pt-BR": "Dar MiauMiau",
-        "es-ES": "¡Dame los buffs!"
+        "es-ES": "Dar Miaufruto"
     },
     "iMHmAQ": {
         "en-US": "Decline.",
         "pt-BR": "Não dar MiauMiau",
-        "es-ES": "Ahora no."
+        "es-ES": "No dar Miaufruto"
     },
     "icHmAQ": {
         "en-US": "[Premi]\nHuat!\nTime to show you my skills!!!!!",
         "pt-BR": "[Perena]\nUau! \nPelo poder da Runa! Ação!!",
-        "es-ES": "[Premi]\n¡Miauuu!\n¡¡¡¡¡Siente mi MAGIA, miauuu!!!!!"
+        "es-ES": "[Premi]\n¡Wao!\n¡Por el poder de la Runa! ¡Acción!!"
     },
     "isHmAQ": {
         "en-US": "[Premi]\nHow is it {0}?\nDon't you feel like experience will just start gushing in?\nNyat!! This isn't the time to be standing around!\nHurry up and go gain some experience!",
         "pt-BR": "[Perena]\nO que achou, {0}?\nSeu efeito deve durar 24 horas.\nAproveite bastante!\nVolte quando o efeito terminar!",
-        "es-ES": "[Premi]\n¿Cómo se siente? {0}¿?\n¿No sientes que vas a ganar montones de puntos de experiencia?\n¡¿Miau?! ¡No nos quedemos aquí sin hacer nada!\n¡Es hora de cazar, miauuu!"
+        "es-ES": "[Premi]\n¿Qué te pareció, {0}?\nTu efecto debe durar 24 horas.\n¡Disfrútalo mucho!\n¡Vuelve cuando el efecto termine!"
     },
     "i8HmAQ": {
         "en-US": "[Premi]\nExactly!\nNyangvines are so precious!",
         "pt-BR": "[Perena]\nTudo bem!\nMiauMiau são muito caras!",
-        "es-ES": "[Premi]\nMiau...\nSé cómo te sientes, los Miaufrutos son muy valiosos, miau..."
+        "es-ES": "[Premi]\n¡Está bien!\n¡Las Miaufruto son muy caras!"
     },
     "jMHmAQ": {
         "en-US": "[Premi]\nIf you need Premi's help, call Premi anytime!\nPremi will always be by {0}'s side~",
         "pt-BR": "[Perena]\nSe você ainda precisar de ajuda, pode me chamar! \nMestre {0}, vou aparecer em qualquer lugar~",
-        "es-ES": "[Premi]\nPero si alguna vez necesitas la magia de Premi, ¡solo llámame!\nPorque Premi siempre está a tu {0} lado~."
+        "es-ES": "[Premi]\n¡Si aún necesitas ayuda, puedes llamarme!\nMaestro {0}, ¡apareceré en cualquier lugar~!"
     },
     "jcHmAQ": {
         "en-US": "[Premi]\nHaang~\nI can't cast any magic because you don't have enough Nyangvines.\n^49B85BThe [Drop rate increase] magic requires 2 Nyangvines~^000000",
         "pt-BR": "[Perena]\nIh~ \n^FF0066[Taxa de DROP]^000000 precisa de\n^FF00662 MiauMiau^000000~",
-        "es-ES": "[Premi]\nMiau~.\n¡Premi no puede darte magia gratis, miau!\n^49B85B¡Necesito 2 Miaufrutos para lanzar el [Aumento de la probabilidad de aparición], miau!^000000"
+        "es-ES": "[Premi]\nUy~\n^FF0066[Tasa de DROP]^000000 necesita\n^FF00662 Miaufruto^000000~"
     },
     "jsHmAQ": {
         "en-US": "[Premi]\n^49B85BIf you want the [Drop rate increase] magic, I'll need 2 Nyangvines~^000000\n{0}! Will {0} give up your precious Nyangvines for Premi?",
         "pt-BR": "[Perena]\n^FF0066[Taxa de DROP]^000000 precisa de ^FF00662 MiauMiau^000000.\nMestre {0}, posso recolher as Frutas?",
-        "es-ES": "[Premi]\n^49B85B¡Necesito 2 Miaufrutos para lanzar el [Aumento de la probabilidad de aparición], miau!^000000\n¡¿Mia-miau?! {0}¿Me darás esos Miaufrutos, miau?"
+        "es-ES": "[Premi]\n^FF0066[Tasa de DROP]^000000 necesita ^FF00662 Miaufruto^000000.\nMaestro {0}, ¿puedo recoger las Frutas?"
     },
     "j8HmAQ": {
         "en-US": "^FF0000   * Warning *^000000\n^FF0000You will get the drop rate increase buff for 1 day in exchange for 2 Nyangvines.^000000\n^FF0000Items that have been used for the exchange cannot be refunded or returned.^000000",
         "pt-BR": "^FF0000[Aviso]^000000 \n^FF0000Você perderá as MiauMiau^000000 \n^FF0000para receber o efeito escolhido.^000000",
-        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Se necesitan 2 Miaufrutos para recibir un 30 % de aumento de la probabilidad de aparición (1 día).^000000\n^FF0000Este servicio no puede reembolsarse.^000000"
+        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Perderás las Miaufruto^000000\n^FF0000para recibir el efecto elegido.^000000"
     },
     "kMHmAQ": {
         "en-US": "[Premi]\nHow is it {0}?\nDon't you feel like items will start dropping like hail?\nNyat!! This isn't the time to be standing around!\nHurry up and go collect some items",
         "pt-BR": "[Perena]\nO que achou, {0}?\nSeu efeito deve durar 24 horas.\nAproveite bastante!\nVolte quando o efeito terminar!",
-        "es-ES": "[Premi]\n¿Cómo se siente? {0}¿?\n¿No sientes que puedes hacer cualquier cosa?\n¡¿Miau?! ¡No nos quedemos aquí sin hacer nada!\n¡Es hora de buscar tesoros, miauuu!"
+        "es-ES": "[Premi]\n¿Qué te pareció, {0}?\nTu efecto debe durar 24 horas.\n¡Disfrútalo mucho!\n¡Vuelve cuando el efecto termine!"
     },
     "kcHmAQ": {
         "en-US": "[Premi]\nHaang~\nI can't cast any magic because you don't have enough Nyangvines.\n^49B85BIf you want the [Death penalty reduction] magic, I'll need 1 Nyangvine~^000000",
         "pt-BR": "[Perena]\nIh~ \n^FF0066[Penalidade de Morte]^000000 precisa de\n^FF00661 MiauMiau^000000~",
-        "es-ES": "[Premi]\nMiau~.\n¡Premi no puede darte magia gratis, miau!\n^49B85B¡Necesito 1 Miaufruto para lanzar la [Reducción de la pena de muerte], miau!^000000"
+        "es-ES": "[Premi]\nUy~\n^FF0066[Penalización de Muerte]^000000 necesitas de\n^FF00661 Miaufruto^000000~"
     },
     "ksHmAQ": {
         "en-US": "[Premi]\n^49B85BIf you want the [Death penalty reduction] magic, I'll need 1 Nyangvine~^000000\n{0}! Will {0} give up your precious Nyangvines for Premi?",
         "pt-BR": "[Perena]\n^FF0066[Penalidade de Morte]^000000 precisa de ^FF00661 MiauMiau^000000.\nMestre {0}, posso recolher as Frutas?",
-        "es-ES": "[Premi]\n^49B85B¡Necesito 1 Miaufruto para lanzar la [Reducción de la pena de muerte], miau!^000000\n¡¿Mia-miau?! {0}¿Me darás ese Miaufruto, miau?"
+        "es-ES": "[Premi]\n^FF0066[Penalización de Muerte]^000000 necesitas de ^FF00661 Miaufruto^000000.\nMaestro {0}, ¿puedo recoger las Frutas?"
     },
     "k8HmAQ": {
         "en-US": "^FF0000   * Warning *^000000\n^FF0000You will get the death penalty reduction buff for 1 day in exchange for Nyangvines.^000000\n^FF0000Items that have been used for the exchange cannot be refunded or returned.^000000",
         "pt-BR": "^FF0000[Aviso]^000000 \n^FF0000Você dará as MiauMiau^000000 \n^FF0000para receber o efeito escolhido.^000000",
-        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Se necesita 1 Miaufruto para reducir la pena de muerte en un 50 % (1 día).^000000\n^FF0000Este servicio no puede reembolsarse.^000000"
+        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Darás las Miaufruto^000000\n^FF0000para recibir el efecto elegido.^000000"
     },
     "lMHmAQ": {
         "en-US": "[Premi]\nHow is it {0}?\nDon't you feel like if you can't fight anymore, you won't lose anything?\nHmm, so how are we gonna confirm this?",
         "pt-BR": "[Perena]\nO que achou, {0}?\nSeu efeito deve durar 24 horas.\nVolte quando o efeito terminar!",
-        "es-ES": "[Premi]\n¿Cómo se siente? {0}¿?\n¿No sientes que puedes hacer cualquier cosa?\nMmm, pero ¿cómo puedo comprobarlo?"
+        "es-ES": "[Premi]\n¿Qué te pareció, {0}?\nTu efecto debe durar 24 horas.\n¡Vuelve cuando el efecto termine!"
     },
     "lcHmAQ": {
         "en-US": "[Premi]\nHaang~\nI can't cast any magic because you don't have enough Nyangvines.\n^49B85BIf you want the 3-in-1 magic package, I'll need 6 Nyangvines~^000000",
         "pt-BR": "[Perena]\nIh~ \n^FF0066[Todos os bônus]^000000 precisam de\n^FF00666 MiauMiau^000000~",
-        "es-ES": "[Premi]\nMiau~.\n¡Premi no puede darte magia gratis, miau!\n^49B85B¡Necesito 6 Miaufrutos para lanzar los 3 buffs mágicos, miau!^000000"
+        "es-ES": "[Premi]\nUy~\n^FF0066[Todos los bonos]^000000 necesitan\n^FF00666 Miaufruto^000000~"
     },
     "lsHmAQ": {
         "en-US": "[Premi]\n^49B85BIf you want the [3-in-1 magic package], I'll need 6 Nyangvines~^000000\n{0}! Will {0} give up your precious Nyangvines for Premi?",
         "pt-BR": "[Perena]\n^FF0066[Bônus de EXP] [Taxa de DROP] e [Penalidade de Morte]^000000 precisam de ^FF00666 MiauMiau^000000.\nMestre {0}, posso recolher as Frutas?",
-        "es-ES": "[Premi]\n^49B85B¡Necesito 6 Miaufrutos para lanzar los 3 buffs mágicos, miau!^000000\n¡¿Mia-miau?! {0}¿Me darás esos Miaufrutos, miau?"
+        "es-ES": "[Premi]\n^FF0066[Bono de EXP], [Tasa de DROP] y [Penalización de Muerte]^000000 necesitan ^FF00666 Miaufrutos^000000.\nMaestro {0}, ¿puedo recoger las Frutas?"
     },
     "l8HmAQ": {
         "en-US": "^FF0000   * Warning *^000000\n^FF0000You will get the 3-in-1 magic package (Experience increase, drop rate increase and death penalty reduction) buff for 1 day in exchange for 6 Nyangvines.^000000\n^FF0000Items that have been used for the exchange cannot be refunded or returned.^000000",
         "pt-BR": "^FF0000[Aviso]^000000 \n^FF0000Você dará as MiauMiau^000000 \n^FF0000para receber o efeito escolhido.^000000",
-        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Consume 6 Miaufrutos para obtener un 30 % de aumento de EXP (1 día), un 30 % de aumento del índice de aparición (1 día) y un 50 % de reducción de la pena de muerte (1 día).^000000\n^FF0000Este servicio no puede reembolsarse.^000000"
+        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Darás las Miaufruto^000000\n^FF0000para recibir el efecto elegido.^000000"
     },
     "mMHmAQ": {
         "en-US": "[Premi]\nHow is it {0}?\nDon't you feel like you can do anything?\nNyat!! This isn't the time to be standing around!\nHurry up and go hunting!",
         "pt-BR": "[Perena]\nO que achou, {0}?\nSeu efeito deve durar 24 horas.\nAproveite bastante!\nVolte quando o efeito terminar!",
-        "es-ES": "[Premi]\n¿Cómo se siente? {0}¿?\n¿No sientes que puedes hacer cualquier cosa?\n¡¿Miau?! ¡No nos quedemos aquí sin hacer nada!\n¡Es hora de una gran aventura, miauuu!"
+        "es-ES": "[Premi]\n¿Qué te pareció, {0}?\nTu efecto debe durar 24 horas.\n¡Disfrútalo mucho!\n¡Vuelve cuando el efecto termine!"
     },
     "mcHmAQ": {
         "en-US": "[Premi]\nHuam!\nIt's a great day to do nothing!",
         "pt-BR": "[Perena]\nTudo bem!\nHoje é um ótimo dia para fazer absolutamente nada!",
-        "es-ES": "[Premi]\n¡Miauuu!\n¡Hoy es el día perfecto para relajarse y no hacer nada!"
+        "es-ES": "[Premi]\n¡Está bien!\n¡Hoy es un gran día para no hacer absolutamente nada!"
     },
     "msHmAQ": {
         "en-US": "[Premi]\nPremi loves to just lie around and eat Nyangvines without a care in the world on days like this!",

@@ -4571,3 +4571,1283 @@ Table[24].Slot[2]:AddPerfectEnchant("Gear_SH2", 0, {
 	"Shadowdecon",
 	150
 }, {"Zelunium", 150})
+Table[33] = CreateEnchantInfo()
+Table[33]:SetSlotOrder(3, 2)
+Table[33]:AddTargetItem("Beam_Claymore_AD")
+Table[33]:AddTargetItem("Meuchler_AD")
+Table[33]:AddTargetItem("Blasti_AD")
+Table[33]:AddTargetItem("Virtual_Bow_AD")
+Table[33]:AddTargetItem("MH_P89_AD")
+Table[33]:AddTargetItem("AC_B44_AD")
+Table[33]:AddTargetItem("HR_S55_AD")
+Table[33]:AddTargetItem("Burning_Knuckle_AD")
+Table[33]:AddTargetItem("Cannon_Rapier_AD")
+Table[33]:AddTargetItem("Saphir_Hall_AD")
+Table[33]:AddTargetItem("Ultio_Spes_AD")
+Table[33]:AddTargetItem("Rutilus_Stick_AD")
+Table[33]:AddTargetItem("ElectricFox_AD")
+Table[33]:AddTargetItem("Circuit_Board_AD")
+Table[33]:AddTargetItem("Kuroiro_AD")
+Table[33]:AddTargetItem("Boost_Lance_AD")
+Table[33]:AddTargetItem("Repeat_Dagger_AD")
+Table[33]:SetCondition(0, 0)
+Table[33]:ApproveRandomOption(true)
+Table[33]:SetReset(true, 100000, 500000)
+Table[33]:SetCaution([[
+Upgrade OS Weapon Enchant
+Success Rate: 100%
+Reset Rate: 100% Not destroyed upon failure]])
+Table[33].Slot[3]:AddPerfectEnchant("Sharp1", 100000, {
+	"EP17_1_EVT02",
+	20
+})
+Table[33].Slot[3]:AddPerfectEnchant("Hit_Plus1", 100000, {
+	"EP17_1_EVT02",
+	20
+})
+Table[33].Slot[3]:AddPerfectEnchant("Attack_Delay_1", 100000, {
+	"EP17_1_EVT02",
+	20
+})
+Table[33].Slot[3]:AddPerfectEnchant("Caster1", 100000, {
+	"EP17_1_EVT02",
+	20
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Sharp1", "Sharp2", 200000, {
+	"EP17_1_EVT02",
+	40
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Hit_Plus1", "Hit_Plus2", 200000, {
+	"EP17_1_EVT02",
+	40
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Attack_Delay_1", "Attack_Delay_2", 200000, {
+	"EP17_1_EVT02",
+	40
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Caster1", "Caster2", 200000, {
+	"EP17_1_EVT02",
+	40
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Sharp2", "Sharp3", 300000, {
+	"EP17_1_EVT02",
+	60
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Hit_Plus2", "Hit_Plus3", 300000, {
+	"EP17_1_EVT02",
+	60
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Attack_Delay_2", "Attack_Delay_3", 300000, {
+	"EP17_1_EVT02",
+	60
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Caster2", "Caster3", 300000, {
+	"EP17_1_EVT02",
+	60
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Sharp3", "Sharp4", 400000, {
+	"EP17_1_EVT02",
+	80
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Hit_Plus3", "Hit_Plus4", 400000, {
+	"EP17_1_EVT02",
+	80
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Attack_Delay_3", "Attack_Delay_4", 400000, {
+	"EP17_1_EVT02",
+	80
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Caster3", "Caster4", 400000, {
+	"EP17_1_EVT02",
+	80
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Sharp4", "Sharp5", 500000, {
+	"EP17_1_EVT02",
+	100
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Hit_Plus4", "Hit_Plus5", 500000, {
+	"EP17_1_EVT02",
+	100
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Attack_Delay_4", "Attack_Delay_5", 500000, {
+	"EP17_1_EVT02",
+	100
+})
+Table[33].Slot[3]:AddUpgradeEnchant("Caster4", "Caster5", 500000, {
+	"EP17_1_EVT02",
+	100
+})
+Table[33].Slot[2]:AddPerfectEnchant("Expert_Archer1", 100000, {
+	"EP17_1_EVT02",
+	20
+}, {
+	"EP17_1_EVT39",
+	5
+})
+Table[33].Slot[2]:AddPerfectEnchant("Expert_Fighter1", 100000, {
+	"EP17_1_EVT02",
+	20
+}, {
+	"EP17_1_EVT39",
+	5
+})
+Table[33].Slot[2]:AddPerfectEnchant("Expert_Magician1", 100000, {
+	"EP17_1_EVT02",
+	20
+}, {
+	"EP17_1_EVT39",
+	5
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Archer1", "Expert_Archer2", 200000, {
+	"EP17_1_EVT02",
+	40
+}, {
+	"EP17_1_EVT39",
+	10
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Fighter1", "Expert_Fighter2", 200000, {
+	"EP17_1_EVT02",
+	40
+}, {
+	"EP17_1_EVT39",
+	10
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Magician1", "Expert_Magician2", 200000, {
+	"EP17_1_EVT02",
+	40
+}, {
+	"EP17_1_EVT39",
+	10
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Archer2", "Expert_Archer3", 300000, {
+	"EP17_1_EVT02",
+	60
+}, {
+	"EP17_1_EVT39",
+	15
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Fighter2", "Expert_Fighter3", 300000, {
+	"EP17_1_EVT02",
+	60
+}, {
+	"EP17_1_EVT39",
+	15
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Magician2", "Expert_Magician3", 300000, {
+	"EP17_1_EVT02",
+	60
+}, {
+	"EP17_1_EVT39",
+	15
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Archer3", "Expert_Archer4", 400000, {
+	"EP17_1_EVT02",
+	80
+}, {
+	"EP17_1_EVT39",
+	20
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Fighter3", "Expert_Fighter4", 400000, {
+	"EP17_1_EVT02",
+	80
+}, {
+	"EP17_1_EVT39",
+	20
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Magician3", "Expert_Magician4", 400000, {
+	"EP17_1_EVT02",
+	80
+}, {
+	"EP17_1_EVT39",
+	20
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Archer4", "Expert_Archer5", 500000, {
+	"EP17_1_EVT02",
+	100
+}, {
+	"EP17_1_EVT39",
+	25
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Fighter4", "Expert_Fighter5", 500000, {
+	"EP17_1_EVT02",
+	100
+}, {
+	"EP17_1_EVT39",
+	25
+})
+Table[33].Slot[2]:AddUpgradeEnchant("Expert_Magician4", "Expert_Magician5", 500000, {
+	"EP17_1_EVT02",
+	100
+}, {
+	"EP17_1_EVT39",
+	25
+})
+Table[16] = CreateEnchantInfo()
+Table[16]:SetSlotOrder(3, 2)
+Table[16]:AddTargetItem("Barmund_Plain_Armor")
+Table[16]:AddTargetItem("Barmund_Plain_Hood")
+Table[16]:AddTargetItem("Barmund_Plain_Boots")
+Table[16]:SetCondition(7, 0)
+Table[16]:ApproveRandomOption(true)
+Table[16]:SetReset(true, 70000, 1000000, {
+	"Plain_Barmund_Rune2",
+	1
+})
+Table[16]:SetCaution([[
+Enchantments can be applied to a 7-refined Varmunt Grassland Set
+Enchant Success Rate: 100%
+Enchant Reset Rate: 70%]])
+Table[16].Slot[3]:SetRequire(50000, {
+	"Plain_Barmund_Rune2",
+	1
+})
+Table[16].Slot[3]:SetSuccessRate(100000)
+Table[16].Slot[3]:SetGradeBonus(1, 0)
+Table[16].Slot[3]:SetGradeBonus(2, 0)
+Table[16].Slot[3]:SetGradeBonus(3, 0)
+Table[16].Slot[3]:SetGradeBonus(4, 0)
+Table[16].Slot[3]:SetEnchant(0, "Strength3", 15000)
+Table[16].Slot[3]:SetEnchant(0, "Inteligence3", 15000)
+Table[16].Slot[3]:SetEnchant(0, "Agility3", 15000)
+Table[16].Slot[3]:SetEnchant(0, "Vitality3", 15000)
+Table[16].Slot[3]:SetEnchant(0, "Dexterity2", 15000)
+Table[16].Slot[3]:SetEnchant(0, "Strength4", 4500)
+Table[16].Slot[3]:SetEnchant(0, "Inteligence4", 4500)
+Table[16].Slot[3]:SetEnchant(0, "Agility4", 4500)
+Table[16].Slot[3]:SetEnchant(0, "Vitality4", 4500)
+Table[16].Slot[3]:SetEnchant(0, "Dexterity3", 4500)
+Table[16].Slot[3]:SetEnchant(0, "Inteligence5", 500)
+Table[16].Slot[3]:SetEnchant(0, "Agility5", 500)
+Table[16].Slot[3]:SetEnchant(0, "Strength5", 500)
+Table[16].Slot[3]:SetEnchant(0, "Vitality5", 500)
+Table[16].Slot[3]:SetEnchant(0, "Dexterity4", 500)
+Table[16].Slot[3]:SetEnchant(1, "Strength3", 15000)
+Table[16].Slot[3]:SetEnchant(1, "Inteligence3", 15000)
+Table[16].Slot[3]:SetEnchant(1, "Agility3", 15000)
+Table[16].Slot[3]:SetEnchant(1, "Vitality3", 15000)
+Table[16].Slot[3]:SetEnchant(1, "Dexterity2", 15000)
+Table[16].Slot[3]:SetEnchant(1, "Strength4", 4500)
+Table[16].Slot[3]:SetEnchant(1, "Inteligence4", 4500)
+Table[16].Slot[3]:SetEnchant(1, "Agility4", 4500)
+Table[16].Slot[3]:SetEnchant(1, "Vitality4", 4500)
+Table[16].Slot[3]:SetEnchant(1, "Dexterity3", 4500)
+Table[16].Slot[3]:SetEnchant(1, "Inteligence5", 500)
+Table[16].Slot[3]:SetEnchant(1, "Agility5", 500)
+Table[16].Slot[3]:SetEnchant(1, "Strength5", 500)
+Table[16].Slot[3]:SetEnchant(1, "Vitality5", 500)
+Table[16].Slot[3]:SetEnchant(1, "Dexterity4", 500)
+Table[16].Slot[3]:SetEnchant(2, "Strength3", 15000)
+Table[16].Slot[3]:SetEnchant(2, "Inteligence3", 15000)
+Table[16].Slot[3]:SetEnchant(2, "Agility3", 15000)
+Table[16].Slot[3]:SetEnchant(2, "Vitality3", 15000)
+Table[16].Slot[3]:SetEnchant(2, "Dexterity2", 15000)
+Table[16].Slot[3]:SetEnchant(2, "Strength4", 4500)
+Table[16].Slot[3]:SetEnchant(2, "Inteligence4", 4500)
+Table[16].Slot[3]:SetEnchant(2, "Agility4", 4500)
+Table[16].Slot[3]:SetEnchant(2, "Vitality4", 4500)
+Table[16].Slot[3]:SetEnchant(2, "Dexterity3", 4500)
+Table[16].Slot[3]:SetEnchant(2, "Inteligence5", 500)
+Table[16].Slot[3]:SetEnchant(2, "Agility5", 500)
+Table[16].Slot[3]:SetEnchant(2, "Strength5", 500)
+Table[16].Slot[3]:SetEnchant(2, "Vitality5", 500)
+Table[16].Slot[3]:SetEnchant(2, "Dexterity4", 500)
+Table[16].Slot[3]:SetEnchant(3, "Strength3", 15000)
+Table[16].Slot[3]:SetEnchant(3, "Inteligence3", 15000)
+Table[16].Slot[3]:SetEnchant(3, "Agility3", 15000)
+Table[16].Slot[3]:SetEnchant(3, "Vitality3", 15000)
+Table[16].Slot[3]:SetEnchant(3, "Dexterity2", 15000)
+Table[16].Slot[3]:SetEnchant(3, "Strength4", 4500)
+Table[16].Slot[3]:SetEnchant(3, "Inteligence4", 4500)
+Table[16].Slot[3]:SetEnchant(3, "Agility4", 4500)
+Table[16].Slot[3]:SetEnchant(3, "Vitality4", 4500)
+Table[16].Slot[3]:SetEnchant(3, "Dexterity3", 4500)
+Table[16].Slot[3]:SetEnchant(3, "Inteligence5", 500)
+Table[16].Slot[3]:SetEnchant(3, "Agility5", 500)
+Table[16].Slot[3]:SetEnchant(3, "Strength5", 500)
+Table[16].Slot[3]:SetEnchant(3, "Vitality5", 500)
+Table[16].Slot[3]:SetEnchant(3, "Dexterity4", 500)
+Table[16].Slot[3]:SetEnchant(4, "Strength3", 15000)
+Table[16].Slot[3]:SetEnchant(4, "Inteligence3", 15000)
+Table[16].Slot[3]:SetEnchant(4, "Agility3", 15000)
+Table[16].Slot[3]:SetEnchant(4, "Vitality3", 15000)
+Table[16].Slot[3]:SetEnchant(4, "Dexterity2", 15000)
+Table[16].Slot[3]:SetEnchant(4, "Strength4", 4500)
+Table[16].Slot[3]:SetEnchant(4, "Inteligence4", 4500)
+Table[16].Slot[3]:SetEnchant(4, "Agility4", 4500)
+Table[16].Slot[3]:SetEnchant(4, "Vitality4", 4500)
+Table[16].Slot[3]:SetEnchant(4, "Dexterity3", 4500)
+Table[16].Slot[3]:SetEnchant(4, "Inteligence5", 500)
+Table[16].Slot[3]:SetEnchant(4, "Agility5", 500)
+Table[16].Slot[3]:SetEnchant(4, "Strength5", 500)
+Table[16].Slot[3]:SetEnchant(4, "Vitality5", 500)
+Table[16].Slot[3]:SetEnchant(4, "Dexterity4", 500)
+Table[16].Slot[2]:SetRequire(100000, {
+	"Plain_Barmund_Rune2",
+	5
+})
+Table[16].Slot[2]:SetSuccessRate(100000)
+Table[16].Slot[2]:SetGradeBonus(1, 0)
+Table[16].Slot[2]:SetGradeBonus(2, 0)
+Table[16].Slot[2]:SetGradeBonus(3, 0)
+Table[16].Slot[2]:SetGradeBonus(4, 0)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Pow1", 14000)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Spl1", 14000)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Con1", 14000)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Crt1", 14000)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Wis1", 14000)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Sta1", 14000)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Pow2", 2400)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Spl2", 2400)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Con2", 2400)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Crt2", 2400)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Wis2", 2400)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Sta2", 2400)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Pow3", 300)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Spl3", 200)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Con3", 200)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Crt3", 300)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Wis3", 300)
+Table[16].Slot[2]:SetEnchant(0, "Barmund_Sta3", 300)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Pow1", 14000)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Spl1", 14000)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Con1", 14000)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Crt1", 14000)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Wis1", 14000)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Sta1", 14000)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Pow2", 2400)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Spl2", 2400)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Con2", 2400)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Crt2", 2400)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Wis2", 2400)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Sta2", 2400)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Pow3", 300)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Spl3", 200)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Con3", 200)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Crt3", 300)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Wis3", 300)
+Table[16].Slot[2]:SetEnchant(1, "Barmund_Sta3", 300)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Pow1", 14000)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Spl1", 14000)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Con1", 14000)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Crt1", 14000)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Wis1", 14000)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Sta1", 14000)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Pow2", 2400)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Spl2", 2400)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Con2", 2400)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Crt2", 2400)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Wis2", 2400)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Sta2", 2400)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Pow3", 300)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Spl3", 200)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Con3", 200)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Crt3", 300)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Wis3", 300)
+Table[16].Slot[2]:SetEnchant(2, "Barmund_Sta3", 300)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Pow1", 14000)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Spl1", 14000)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Con1", 14000)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Crt1", 14000)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Wis1", 14000)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Sta1", 14000)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Pow2", 2400)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Spl2", 2400)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Con2", 2400)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Crt2", 2400)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Wis2", 2400)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Sta2", 2400)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Pow3", 300)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Spl3", 200)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Con3", 200)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Crt3", 300)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Wis3", 300)
+Table[16].Slot[2]:SetEnchant(3, "Barmund_Sta3", 300)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Pow1", 14000)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Spl1", 14000)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Con1", 14000)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Crt1", 14000)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Wis1", 14000)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Sta1", 14000)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Pow2", 2400)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Spl2", 2400)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Con2", 2400)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Crt2", 2400)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Wis2", 2400)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Sta2", 2400)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Pow3", 300)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Spl3", 200)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Con3", 200)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Crt3", 300)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Wis3", 300)
+Table[16].Slot[2]:SetEnchant(4, "Barmund_Sta3", 300)
+Table[17] = CreateEnchantInfo()
+Table[17]:SetSlotOrder(3, 2)
+Table[17]:AddTargetItem("Barmund_Flame_Armor")
+Table[17]:AddTargetItem("Barmund_Flame_Hood")
+Table[17]:AddTargetItem("Barmund_Flame_Boots")
+Table[17]:SetCondition(7, 0)
+Table[17]:ApproveRandomOption(true)
+Table[17]:SetReset(true, 70000, 1000000, {
+	"Flame_Barmund_Rune2",
+	1
+})
+Table[17]:SetCaution([[
+Enchantments can be applied to a 7-refined Varmunt Flame Set
+Enchant Success Rate: 100%
+Enchant Reset Rate: 70%]])
+Table[17].Slot[3]:SetRequire(50000, {
+	"Flame_Barmund_Rune2",
+	1
+})
+Table[17].Slot[3]:SetSuccessRate(100000)
+Table[17].Slot[3]:SetGradeBonus(1, 0)
+Table[17].Slot[3]:SetGradeBonus(2, 0)
+Table[17].Slot[3]:SetGradeBonus(3, 0)
+Table[17].Slot[3]:SetGradeBonus(4, 0)
+Table[17].Slot[3]:SetEnchant(0, "Strength3", 15000)
+Table[17].Slot[3]:SetEnchant(0, "Inteligence3", 15000)
+Table[17].Slot[3]:SetEnchant(0, "Agility3", 15000)
+Table[17].Slot[3]:SetEnchant(0, "Vitality3", 15000)
+Table[17].Slot[3]:SetEnchant(0, "Dexterity2", 15000)
+Table[17].Slot[3]:SetEnchant(0, "Strength4", 4500)
+Table[17].Slot[3]:SetEnchant(0, "Inteligence4", 4500)
+Table[17].Slot[3]:SetEnchant(0, "Agility4", 4500)
+Table[17].Slot[3]:SetEnchant(0, "Vitality4", 4500)
+Table[17].Slot[3]:SetEnchant(0, "Dexterity3", 4500)
+Table[17].Slot[3]:SetEnchant(0, "Inteligence5", 500)
+Table[17].Slot[3]:SetEnchant(0, "Agility5", 500)
+Table[17].Slot[3]:SetEnchant(0, "Strength5", 500)
+Table[17].Slot[3]:SetEnchant(0, "Vitality5", 500)
+Table[17].Slot[3]:SetEnchant(0, "Dexterity4", 500)
+Table[17].Slot[3]:SetEnchant(1, "Strength3", 15000)
+Table[17].Slot[3]:SetEnchant(1, "Inteligence3", 15000)
+Table[17].Slot[3]:SetEnchant(1, "Agility3", 15000)
+Table[17].Slot[3]:SetEnchant(1, "Vitality3", 15000)
+Table[17].Slot[3]:SetEnchant(1, "Dexterity2", 15000)
+Table[17].Slot[3]:SetEnchant(1, "Strength4", 4500)
+Table[17].Slot[3]:SetEnchant(1, "Inteligence4", 4500)
+Table[17].Slot[3]:SetEnchant(1, "Agility4", 4500)
+Table[17].Slot[3]:SetEnchant(1, "Vitality4", 4500)
+Table[17].Slot[3]:SetEnchant(1, "Dexterity3", 4500)
+Table[17].Slot[3]:SetEnchant(1, "Inteligence5", 500)
+Table[17].Slot[3]:SetEnchant(1, "Agility5", 500)
+Table[17].Slot[3]:SetEnchant(1, "Strength5", 500)
+Table[17].Slot[3]:SetEnchant(1, "Vitality5", 500)
+Table[17].Slot[3]:SetEnchant(1, "Dexterity4", 500)
+Table[17].Slot[3]:SetEnchant(2, "Strength3", 15000)
+Table[17].Slot[3]:SetEnchant(2, "Inteligence3", 15000)
+Table[17].Slot[3]:SetEnchant(2, "Agility3", 15000)
+Table[17].Slot[3]:SetEnchant(2, "Vitality3", 15000)
+Table[17].Slot[3]:SetEnchant(2, "Dexterity2", 15000)
+Table[17].Slot[3]:SetEnchant(2, "Strength4", 4500)
+Table[17].Slot[3]:SetEnchant(2, "Inteligence4", 4500)
+Table[17].Slot[3]:SetEnchant(2, "Agility4", 4500)
+Table[17].Slot[3]:SetEnchant(2, "Vitality4", 4500)
+Table[17].Slot[3]:SetEnchant(2, "Dexterity3", 4500)
+Table[17].Slot[3]:SetEnchant(2, "Inteligence5", 500)
+Table[17].Slot[3]:SetEnchant(2, "Agility5", 500)
+Table[17].Slot[3]:SetEnchant(2, "Strength5", 500)
+Table[17].Slot[3]:SetEnchant(2, "Vitality5", 500)
+Table[17].Slot[3]:SetEnchant(2, "Dexterity4", 500)
+Table[17].Slot[3]:SetEnchant(3, "Strength3", 15000)
+Table[17].Slot[3]:SetEnchant(3, "Inteligence3", 15000)
+Table[17].Slot[3]:SetEnchant(3, "Agility3", 15000)
+Table[17].Slot[3]:SetEnchant(3, "Vitality3", 15000)
+Table[17].Slot[3]:SetEnchant(3, "Dexterity2", 15000)
+Table[17].Slot[3]:SetEnchant(3, "Strength4", 4500)
+Table[17].Slot[3]:SetEnchant(3, "Inteligence4", 4500)
+Table[17].Slot[3]:SetEnchant(3, "Agility4", 4500)
+Table[17].Slot[3]:SetEnchant(3, "Vitality4", 4500)
+Table[17].Slot[3]:SetEnchant(3, "Dexterity3", 4500)
+Table[17].Slot[3]:SetEnchant(3, "Inteligence5", 500)
+Table[17].Slot[3]:SetEnchant(3, "Agility5", 500)
+Table[17].Slot[3]:SetEnchant(3, "Strength5", 500)
+Table[17].Slot[3]:SetEnchant(3, "Vitality5", 500)
+Table[17].Slot[3]:SetEnchant(3, "Dexterity4", 500)
+Table[17].Slot[3]:SetEnchant(4, "Strength3", 15000)
+Table[17].Slot[3]:SetEnchant(4, "Inteligence3", 15000)
+Table[17].Slot[3]:SetEnchant(4, "Agility3", 15000)
+Table[17].Slot[3]:SetEnchant(4, "Vitality3", 15000)
+Table[17].Slot[3]:SetEnchant(4, "Dexterity2", 15000)
+Table[17].Slot[3]:SetEnchant(4, "Strength4", 4500)
+Table[17].Slot[3]:SetEnchant(4, "Inteligence4", 4500)
+Table[17].Slot[3]:SetEnchant(4, "Agility4", 4500)
+Table[17].Slot[3]:SetEnchant(4, "Vitality4", 4500)
+Table[17].Slot[3]:SetEnchant(4, "Dexterity3", 4500)
+Table[17].Slot[3]:SetEnchant(4, "Inteligence5", 500)
+Table[17].Slot[3]:SetEnchant(4, "Agility5", 500)
+Table[17].Slot[3]:SetEnchant(4, "Strength5", 500)
+Table[17].Slot[3]:SetEnchant(4, "Vitality5", 500)
+Table[17].Slot[3]:SetEnchant(4, "Dexterity4", 500)
+Table[17].Slot[2]:SetRequire(100000, {
+	"Flame_Barmund_Rune2",
+	5
+})
+Table[17].Slot[2]:SetSuccessRate(100000)
+Table[17].Slot[2]:SetGradeBonus(1, 0)
+Table[17].Slot[2]:SetGradeBonus(2, 0)
+Table[17].Slot[2]:SetGradeBonus(3, 0)
+Table[17].Slot[2]:SetGradeBonus(4, 0)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Pow1", 14000)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Spl1", 14000)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Con1", 14000)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Crt1", 14000)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Wis1", 14000)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Sta1", 14000)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Pow2", 2400)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Spl2", 2400)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Con2", 2400)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Crt2", 2400)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Wis2", 2400)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Sta2", 2400)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Pow3", 300)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Spl3", 200)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Con3", 200)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Crt3", 300)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Wis3", 300)
+Table[17].Slot[2]:SetEnchant(0, "Barmund_Sta3", 300)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Pow1", 14000)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Spl1", 14000)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Con1", 14000)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Crt1", 14000)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Wis1", 14000)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Sta1", 14000)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Pow2", 2400)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Spl2", 2400)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Con2", 2400)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Crt2", 2400)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Wis2", 2400)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Sta2", 2400)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Pow3", 300)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Spl3", 200)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Con3", 200)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Crt3", 300)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Wis3", 300)
+Table[17].Slot[2]:SetEnchant(1, "Barmund_Sta3", 300)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Pow1", 14000)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Spl1", 14000)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Con1", 14000)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Crt1", 14000)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Wis1", 14000)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Sta1", 14000)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Pow2", 2400)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Spl2", 2400)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Con2", 2400)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Crt2", 2400)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Wis2", 2400)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Sta2", 2400)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Pow3", 300)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Spl3", 200)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Con3", 200)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Crt3", 300)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Wis3", 300)
+Table[17].Slot[2]:SetEnchant(2, "Barmund_Sta3", 300)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Pow1", 14000)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Spl1", 14000)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Con1", 14000)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Crt1", 14000)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Wis1", 14000)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Sta1", 14000)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Pow2", 2400)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Spl2", 2400)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Con2", 2400)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Crt2", 2400)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Wis2", 2400)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Sta2", 2400)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Pow3", 300)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Spl3", 200)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Con3", 200)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Crt3", 300)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Wis3", 300)
+Table[17].Slot[2]:SetEnchant(3, "Barmund_Sta3", 300)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Pow1", 14000)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Spl1", 14000)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Con1", 14000)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Crt1", 14000)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Wis1", 14000)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Sta1", 14000)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Pow2", 2400)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Spl2", 2400)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Con2", 2400)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Crt2", 2400)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Wis2", 2400)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Sta2", 2400)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Pow3", 300)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Spl3", 200)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Con3", 200)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Crt3", 300)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Wis3", 300)
+Table[17].Slot[2]:SetEnchant(4, "Barmund_Sta3", 300)
+Table[18] = CreateEnchantInfo()
+Table[18]:SetSlotOrder(3, 2)
+Table[18]:AddTargetItem("Barmund_Ice_Armor")
+Table[18]:AddTargetItem("Barmund_Ice_Hood")
+Table[18]:AddTargetItem("Barmund_Ice_Boots")
+Table[18]:SetCondition(7, 0)
+Table[18]:ApproveRandomOption(true)
+Table[18]:SetReset(true, 70000, 1000000, {
+	"Ice_Barmund_Rune2",
+	1
+})
+Table[18]:SetCaution([[
+Enchantments can be applied to a 7-refined Varmunt Bitter Cold Set
+Enchant Success Rate: 100%
+Enchant Reset Rate: 70%]])
+Table[18].Slot[3]:SetRequire(50000, {
+	"Ice_Barmund_Rune2",
+	1
+})
+Table[18].Slot[3]:SetSuccessRate(100000)
+Table[18].Slot[3]:SetGradeBonus(1, 0)
+Table[18].Slot[3]:SetGradeBonus(2, 0)
+Table[18].Slot[3]:SetGradeBonus(3, 0)
+Table[18].Slot[3]:SetGradeBonus(4, 0)
+Table[18].Slot[3]:SetEnchant(0, "Strength3", 15000)
+Table[18].Slot[3]:SetEnchant(0, "Inteligence3", 15000)
+Table[18].Slot[3]:SetEnchant(0, "Agility3", 15000)
+Table[18].Slot[3]:SetEnchant(0, "Vitality3", 15000)
+Table[18].Slot[3]:SetEnchant(0, "Dexterity2", 15000)
+Table[18].Slot[3]:SetEnchant(0, "Strength4", 4500)
+Table[18].Slot[3]:SetEnchant(0, "Inteligence4", 4500)
+Table[18].Slot[3]:SetEnchant(0, "Agility4", 4500)
+Table[18].Slot[3]:SetEnchant(0, "Vitality4", 4500)
+Table[18].Slot[3]:SetEnchant(0, "Dexterity3", 4500)
+Table[18].Slot[3]:SetEnchant(0, "Inteligence5", 500)
+Table[18].Slot[3]:SetEnchant(0, "Agility5", 500)
+Table[18].Slot[3]:SetEnchant(0, "Strength5", 500)
+Table[18].Slot[3]:SetEnchant(0, "Vitality5", 500)
+Table[18].Slot[3]:SetEnchant(0, "Dexterity4", 500)
+Table[18].Slot[3]:SetEnchant(1, "Strength3", 15000)
+Table[18].Slot[3]:SetEnchant(1, "Inteligence3", 15000)
+Table[18].Slot[3]:SetEnchant(1, "Agility3", 15000)
+Table[18].Slot[3]:SetEnchant(1, "Vitality3", 15000)
+Table[18].Slot[3]:SetEnchant(1, "Dexterity2", 15000)
+Table[18].Slot[3]:SetEnchant(1, "Strength4", 4500)
+Table[18].Slot[3]:SetEnchant(1, "Inteligence4", 4500)
+Table[18].Slot[3]:SetEnchant(1, "Agility4", 4500)
+Table[18].Slot[3]:SetEnchant(1, "Vitality4", 4500)
+Table[18].Slot[3]:SetEnchant(1, "Dexterity3", 4500)
+Table[18].Slot[3]:SetEnchant(1, "Inteligence5", 500)
+Table[18].Slot[3]:SetEnchant(1, "Agility5", 500)
+Table[18].Slot[3]:SetEnchant(1, "Strength5", 500)
+Table[18].Slot[3]:SetEnchant(1, "Vitality5", 500)
+Table[18].Slot[3]:SetEnchant(1, "Dexterity4", 500)
+Table[18].Slot[3]:SetEnchant(2, "Strength3", 15000)
+Table[18].Slot[3]:SetEnchant(2, "Inteligence3", 15000)
+Table[18].Slot[3]:SetEnchant(2, "Agility3", 15000)
+Table[18].Slot[3]:SetEnchant(2, "Vitality3", 15000)
+Table[18].Slot[3]:SetEnchant(2, "Dexterity2", 15000)
+Table[18].Slot[3]:SetEnchant(2, "Strength4", 4500)
+Table[18].Slot[3]:SetEnchant(2, "Inteligence4", 4500)
+Table[18].Slot[3]:SetEnchant(2, "Agility4", 4500)
+Table[18].Slot[3]:SetEnchant(2, "Vitality4", 4500)
+Table[18].Slot[3]:SetEnchant(2, "Dexterity3", 4500)
+Table[18].Slot[3]:SetEnchant(2, "Inteligence5", 500)
+Table[18].Slot[3]:SetEnchant(2, "Agility5", 500)
+Table[18].Slot[3]:SetEnchant(2, "Strength5", 500)
+Table[18].Slot[3]:SetEnchant(2, "Vitality5", 500)
+Table[18].Slot[3]:SetEnchant(2, "Dexterity4", 500)
+Table[18].Slot[3]:SetEnchant(3, "Strength3", 15000)
+Table[18].Slot[3]:SetEnchant(3, "Inteligence3", 15000)
+Table[18].Slot[3]:SetEnchant(3, "Agility3", 15000)
+Table[18].Slot[3]:SetEnchant(3, "Vitality3", 15000)
+Table[18].Slot[3]:SetEnchant(3, "Dexterity2", 15000)
+Table[18].Slot[3]:SetEnchant(3, "Strength4", 4500)
+Table[18].Slot[3]:SetEnchant(3, "Inteligence4", 4500)
+Table[18].Slot[3]:SetEnchant(3, "Agility4", 4500)
+Table[18].Slot[3]:SetEnchant(3, "Vitality4", 4500)
+Table[18].Slot[3]:SetEnchant(3, "Dexterity3", 4500)
+Table[18].Slot[3]:SetEnchant(3, "Inteligence5", 500)
+Table[18].Slot[3]:SetEnchant(3, "Agility5", 500)
+Table[18].Slot[3]:SetEnchant(3, "Strength5", 500)
+Table[18].Slot[3]:SetEnchant(3, "Vitality5", 500)
+Table[18].Slot[3]:SetEnchant(3, "Dexterity4", 500)
+Table[18].Slot[3]:SetEnchant(4, "Strength3", 15000)
+Table[18].Slot[3]:SetEnchant(4, "Inteligence3", 15000)
+Table[18].Slot[3]:SetEnchant(4, "Agility3", 15000)
+Table[18].Slot[3]:SetEnchant(4, "Vitality3", 15000)
+Table[18].Slot[3]:SetEnchant(4, "Dexterity2", 15000)
+Table[18].Slot[3]:SetEnchant(4, "Strength4", 4500)
+Table[18].Slot[3]:SetEnchant(4, "Inteligence4", 4500)
+Table[18].Slot[3]:SetEnchant(4, "Agility4", 4500)
+Table[18].Slot[3]:SetEnchant(4, "Vitality4", 4500)
+Table[18].Slot[3]:SetEnchant(4, "Dexterity3", 4500)
+Table[18].Slot[3]:SetEnchant(4, "Inteligence5", 500)
+Table[18].Slot[3]:SetEnchant(4, "Agility5", 500)
+Table[18].Slot[3]:SetEnchant(4, "Strength5", 500)
+Table[18].Slot[3]:SetEnchant(4, "Vitality5", 500)
+Table[18].Slot[3]:SetEnchant(4, "Dexterity4", 500)
+Table[18].Slot[2]:SetRequire(100000, {
+	"Ice_Barmund_Rune2",
+	5
+})
+Table[18].Slot[2]:SetSuccessRate(100000)
+Table[18].Slot[2]:SetGradeBonus(1, 0)
+Table[18].Slot[2]:SetGradeBonus(2, 0)
+Table[18].Slot[2]:SetGradeBonus(3, 0)
+Table[18].Slot[2]:SetGradeBonus(4, 0)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Pow1", 14000)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Spl1", 14000)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Con1", 14000)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Crt1", 14000)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Wis1", 14000)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Sta1", 14000)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Pow2", 2400)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Spl2", 2400)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Con2", 2400)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Crt2", 2400)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Wis2", 2400)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Sta2", 2400)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Pow3", 300)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Spl3", 200)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Con3", 200)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Crt3", 300)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Wis3", 300)
+Table[18].Slot[2]:SetEnchant(0, "Barmund_Sta3", 300)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Pow1", 14000)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Spl1", 14000)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Con1", 14000)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Crt1", 14000)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Wis1", 14000)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Sta1", 14000)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Pow2", 2400)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Spl2", 2400)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Con2", 2400)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Crt2", 2400)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Wis2", 2400)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Sta2", 2400)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Pow3", 300)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Spl3", 200)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Con3", 200)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Crt3", 300)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Wis3", 300)
+Table[18].Slot[2]:SetEnchant(1, "Barmund_Sta3", 300)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Pow1", 14000)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Spl1", 14000)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Con1", 14000)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Crt1", 14000)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Wis1", 14000)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Sta1", 14000)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Pow2", 2400)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Spl2", 2400)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Con2", 2400)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Crt2", 2400)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Wis2", 2400)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Sta2", 2400)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Pow3", 300)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Spl3", 200)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Con3", 200)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Crt3", 300)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Wis3", 300)
+Table[18].Slot[2]:SetEnchant(2, "Barmund_Sta3", 300)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Pow1", 14000)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Spl1", 14000)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Con1", 14000)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Crt1", 14000)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Wis1", 14000)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Sta1", 14000)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Pow2", 2400)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Spl2", 2400)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Con2", 2400)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Crt2", 2400)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Wis2", 2400)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Sta2", 2400)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Pow3", 300)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Spl3", 200)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Con3", 200)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Crt3", 300)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Wis3", 300)
+Table[18].Slot[2]:SetEnchant(3, "Barmund_Sta3", 300)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Pow1", 14000)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Spl1", 14000)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Con1", 14000)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Crt1", 14000)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Wis1", 14000)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Sta1", 14000)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Pow2", 2400)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Spl2", 2400)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Con2", 2400)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Crt2", 2400)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Wis2", 2400)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Sta2", 2400)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Pow3", 300)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Spl3", 200)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Con3", 200)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Crt3", 300)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Wis3", 300)
+Table[18].Slot[2]:SetEnchant(4, "Barmund_Sta3", 300)
+Table[19] = CreateEnchantInfo()
+Table[19]:SetSlotOrder(3, 2)
+Table[19]:AddTargetItem("Barmund_Death_Armor")
+Table[19]:AddTargetItem("Barmund_Death_Hood")
+Table[19]:AddTargetItem("Barmund_Death_Boots")
+Table[19]:SetCondition(7, 0)
+Table[19]:ApproveRandomOption(true)
+Table[19]:SetReset(true, 70000, 1000000, {
+	"Death_Barmund_Rune2",
+	1
+})
+Table[19]:SetCaution([[
+Enchantments can be applied to a 7-refined Varmunt Death Set
+Enchant Success Rate: 100%
+Enchant Reset Rate: 70%]])
+Table[19].Slot[3]:SetRequire(50000, {
+	"Death_Barmund_Rune2",
+	1
+})
+Table[19].Slot[3]:SetSuccessRate(100000)
+Table[19].Slot[3]:SetGradeBonus(1, 0)
+Table[19].Slot[3]:SetGradeBonus(2, 0)
+Table[19].Slot[3]:SetGradeBonus(3, 0)
+Table[19].Slot[3]:SetGradeBonus(4, 0)
+Table[19].Slot[3]:SetEnchant(0, "Strength3", 15000)
+Table[19].Slot[3]:SetEnchant(0, "Inteligence3", 15000)
+Table[19].Slot[3]:SetEnchant(0, "Agility3", 15000)
+Table[19].Slot[3]:SetEnchant(0, "Vitality3", 15000)
+Table[19].Slot[3]:SetEnchant(0, "Dexterity2", 15000)
+Table[19].Slot[3]:SetEnchant(0, "Strength4", 4500)
+Table[19].Slot[3]:SetEnchant(0, "Inteligence4", 4500)
+Table[19].Slot[3]:SetEnchant(0, "Agility4", 4500)
+Table[19].Slot[3]:SetEnchant(0, "Vitality4", 4500)
+Table[19].Slot[3]:SetEnchant(0, "Dexterity3", 4500)
+Table[19].Slot[3]:SetEnchant(0, "Inteligence5", 500)
+Table[19].Slot[3]:SetEnchant(0, "Agility5", 500)
+Table[19].Slot[3]:SetEnchant(0, "Strength5", 500)
+Table[19].Slot[3]:SetEnchant(0, "Vitality5", 500)
+Table[19].Slot[3]:SetEnchant(0, "Dexterity4", 500)
+Table[19].Slot[3]:SetEnchant(1, "Strength3", 15000)
+Table[19].Slot[3]:SetEnchant(1, "Inteligence3", 15000)
+Table[19].Slot[3]:SetEnchant(1, "Agility3", 15000)
+Table[19].Slot[3]:SetEnchant(1, "Vitality3", 15000)
+Table[19].Slot[3]:SetEnchant(1, "Dexterity2", 15000)
+Table[19].Slot[3]:SetEnchant(1, "Strength4", 4500)
+Table[19].Slot[3]:SetEnchant(1, "Inteligence4", 4500)
+Table[19].Slot[3]:SetEnchant(1, "Agility4", 4500)
+Table[19].Slot[3]:SetEnchant(1, "Vitality4", 4500)
+Table[19].Slot[3]:SetEnchant(1, "Dexterity3", 4500)
+Table[19].Slot[3]:SetEnchant(1, "Inteligence5", 500)
+Table[19].Slot[3]:SetEnchant(1, "Agility5", 500)
+Table[19].Slot[3]:SetEnchant(1, "Strength5", 500)
+Table[19].Slot[3]:SetEnchant(1, "Vitality5", 500)
+Table[19].Slot[3]:SetEnchant(1, "Dexterity4", 500)
+Table[19].Slot[3]:SetEnchant(2, "Strength3", 15000)
+Table[19].Slot[3]:SetEnchant(2, "Inteligence3", 15000)
+Table[19].Slot[3]:SetEnchant(2, "Agility3", 15000)
+Table[19].Slot[3]:SetEnchant(2, "Vitality3", 15000)
+Table[19].Slot[3]:SetEnchant(2, "Dexterity2", 15000)
+Table[19].Slot[3]:SetEnchant(2, "Strength4", 4500)
+Table[19].Slot[3]:SetEnchant(2, "Inteligence4", 4500)
+Table[19].Slot[3]:SetEnchant(2, "Agility4", 4500)
+Table[19].Slot[3]:SetEnchant(2, "Vitality4", 4500)
+Table[19].Slot[3]:SetEnchant(2, "Dexterity3", 4500)
+Table[19].Slot[3]:SetEnchant(2, "Inteligence5", 500)
+Table[19].Slot[3]:SetEnchant(2, "Agility5", 500)
+Table[19].Slot[3]:SetEnchant(2, "Strength5", 500)
+Table[19].Slot[3]:SetEnchant(2, "Vitality5", 500)
+Table[19].Slot[3]:SetEnchant(2, "Dexterity4", 500)
+Table[19].Slot[3]:SetEnchant(3, "Strength3", 15000)
+Table[19].Slot[3]:SetEnchant(3, "Inteligence3", 15000)
+Table[19].Slot[3]:SetEnchant(3, "Agility3", 15000)
+Table[19].Slot[3]:SetEnchant(3, "Vitality3", 15000)
+Table[19].Slot[3]:SetEnchant(3, "Dexterity2", 15000)
+Table[19].Slot[3]:SetEnchant(3, "Strength4", 4500)
+Table[19].Slot[3]:SetEnchant(3, "Inteligence4", 4500)
+Table[19].Slot[3]:SetEnchant(3, "Agility4", 4500)
+Table[19].Slot[3]:SetEnchant(3, "Vitality4", 4500)
+Table[19].Slot[3]:SetEnchant(3, "Dexterity3", 4500)
+Table[19].Slot[3]:SetEnchant(3, "Inteligence5", 500)
+Table[19].Slot[3]:SetEnchant(3, "Agility5", 500)
+Table[19].Slot[3]:SetEnchant(3, "Strength5", 500)
+Table[19].Slot[3]:SetEnchant(3, "Vitality5", 500)
+Table[19].Slot[3]:SetEnchant(3, "Dexterity4", 500)
+Table[19].Slot[3]:SetEnchant(4, "Strength3", 15000)
+Table[19].Slot[3]:SetEnchant(4, "Inteligence3", 15000)
+Table[19].Slot[3]:SetEnchant(4, "Agility3", 15000)
+Table[19].Slot[3]:SetEnchant(4, "Vitality3", 15000)
+Table[19].Slot[3]:SetEnchant(4, "Dexterity2", 15000)
+Table[19].Slot[3]:SetEnchant(4, "Strength4", 4500)
+Table[19].Slot[3]:SetEnchant(4, "Inteligence4", 4500)
+Table[19].Slot[3]:SetEnchant(4, "Agility4", 4500)
+Table[19].Slot[3]:SetEnchant(4, "Vitality4", 4500)
+Table[19].Slot[3]:SetEnchant(4, "Dexterity3", 4500)
+Table[19].Slot[3]:SetEnchant(4, "Inteligence5", 500)
+Table[19].Slot[3]:SetEnchant(4, "Agility5", 500)
+Table[19].Slot[3]:SetEnchant(4, "Strength5", 500)
+Table[19].Slot[3]:SetEnchant(4, "Vitality5", 500)
+Table[19].Slot[3]:SetEnchant(4, "Dexterity4", 500)
+Table[19].Slot[2]:SetRequire(100000, {
+	"Death_Barmund_Rune2",
+	5
+})
+Table[19].Slot[2]:SetSuccessRate(100000)
+Table[19].Slot[2]:SetGradeBonus(1, 0)
+Table[19].Slot[2]:SetGradeBonus(2, 0)
+Table[19].Slot[2]:SetGradeBonus(3, 0)
+Table[19].Slot[2]:SetGradeBonus(4, 0)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Pow1", 14000)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Spl1", 14000)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Con1", 14000)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Crt1", 14000)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Wis1", 14000)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Sta1", 14000)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Pow2", 2400)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Spl2", 2400)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Con2", 2400)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Crt2", 2400)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Wis2", 2400)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Sta2", 2400)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Pow3", 300)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Spl3", 200)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Con3", 200)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Crt3", 300)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Wis3", 300)
+Table[19].Slot[2]:SetEnchant(0, "Barmund_Sta3", 300)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Pow1", 14000)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Spl1", 14000)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Con1", 14000)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Crt1", 14000)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Wis1", 14000)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Sta1", 14000)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Pow2", 2400)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Spl2", 2400)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Con2", 2400)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Crt2", 2400)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Wis2", 2400)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Sta2", 2400)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Pow3", 300)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Spl3", 200)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Con3", 200)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Crt3", 300)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Wis3", 300)
+Table[19].Slot[2]:SetEnchant(1, "Barmund_Sta3", 300)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Pow1", 14000)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Spl1", 14000)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Con1", 14000)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Crt1", 14000)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Wis1", 14000)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Sta1", 14000)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Pow2", 2400)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Spl2", 2400)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Con2", 2400)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Crt2", 2400)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Wis2", 2400)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Sta2", 2400)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Pow3", 300)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Spl3", 200)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Con3", 200)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Crt3", 300)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Wis3", 300)
+Table[19].Slot[2]:SetEnchant(2, "Barmund_Sta3", 300)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Pow1", 14000)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Spl1", 14000)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Con1", 14000)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Crt1", 14000)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Wis1", 14000)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Sta1", 14000)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Pow2", 2400)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Spl2", 2400)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Con2", 2400)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Crt2", 2400)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Wis2", 2400)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Sta2", 2400)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Pow3", 300)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Spl3", 200)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Con3", 200)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Crt3", 300)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Wis3", 300)
+Table[19].Slot[2]:SetEnchant(3, "Barmund_Sta3", 300)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Pow1", 14000)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Spl1", 14000)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Con1", 14000)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Crt1", 14000)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Wis1", 14000)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Sta1", 14000)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Pow2", 2400)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Spl2", 2400)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Con2", 2400)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Crt2", 2400)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Wis2", 2400)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Sta2", 2400)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Pow3", 300)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Spl3", 200)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Con3", 200)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Crt3", 300)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Wis3", 300)
+Table[19].Slot[2]:SetEnchant(4, "Barmund_Sta3", 300)
+Table[32] = CreateEnchantInfo()
+Table[32]:SetSlotOrder(3, 2)
+Table[32]:AddTargetItem("Thanos_Helm1_LT")
+Table[32]:AddTargetItem("Thanos_Helm2_LT")
+Table[32]:AddTargetItem("Thanos_Helm3_LT")
+Table[32]:AddTargetItem("Thanos_Helm4_LT")
+Table[32]:SetCondition(0, 0)
+Table[32]:ApproveRandomOption(true)
+Table[32]:SetReset(true, 100000, 500000)
+Table[32]:SetCaution([[
+Thanos Helmet-LT Enchant
+Success Rate 100%
+Reset Rate 100%]])
+Table[32].Slot[3]:AddPerfectEnchant("Mettle1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddPerfectEnchant("Adamatine1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddPerfectEnchant("MagicEessence1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddPerfectEnchant("Acute1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddPerfectEnchant("MasterArcher1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddPerfectEnchant("Affection1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddPerfectEnchant("Tenacity1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[3]:AddUpgradeEnchant("Mettle1", "Mettle2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Adamatine1", "Adamatine2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("MagicEessence1", "MagicEessence2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Acute1", "Acute2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("MasterArcher1", "MasterArcher2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Affection1", "Affection2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Tenacity1", "Tenacity2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	2
+}, {
+	"Sakray_Regret",
+	2
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Mettle2", "Mettle3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Adamatine2", "Adamatine3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[3]:AddUpgradeEnchant("MagicEessence2", "MagicEessence3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Acute2", "Acute3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[3]:AddUpgradeEnchant("MasterArcher2", "MasterArcher3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Affection2", "Affection3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[3]:AddUpgradeEnchant("Tenacity2", "Tenacity3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	4
+}, {
+	"Sakray_Regret",
+	4
+})
+Table[32].Slot[2]:AddPerfectEnchant("Gray_Melee1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[2]:AddPerfectEnchant("Gray_Range1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[2]:AddPerfectEnchant("Gray_Magic1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[2]:AddPerfectEnchant("Gray_Fight1", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 100})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Melee1", "Gray_Melee2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	5
+}, {
+	"Sakray_Regret",
+	5
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Range1", "Gray_Range2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	5
+}, {
+	"Sakray_Regret",
+	5
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Magic1", "Gray_Magic2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	5
+}, {
+	"Sakray_Regret",
+	5
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Fight1", "Gray_Fight2", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 150}, {
+	"Sakray_Fury",
+	5
+}, {
+	"Sakray_Regret",
+	5
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Melee2", "Gray_Melee3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	10
+}, {
+	"Sakray_Regret",
+	10
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Range2", "Gray_Range3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	10
+}, {
+	"Sakray_Regret",
+	10
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Magic2", "Gray_Magic3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	10
+}, {
+	"Sakray_Regret",
+	10
+})
+Table[32].Slot[2]:AddUpgradeEnchant("Gray_Fight2", "Gray_Fight3", 0, {
+	"Enchant_Ticket",
+	1
+}, {"Gray_Shard", 300}, {
+	"Sakray_Fury",
+	10
+}, {
+	"Sakray_Regret",
+	10
+})

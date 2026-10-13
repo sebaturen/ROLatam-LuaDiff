@@ -6,12 +6,12 @@
     },
     "wftuDA": {
         "en-US": "Removing patches...",
-        "pt-BR": "Iniciando a remoção de patch.",
+        "pt-BR": "Iniciando a manutenção.",
         "es-ES": "Se inicia la eliminación del parche."
     },
     "wvtuDA": {
         "en-US": "Patch removal completed.",
-        "pt-BR": "A remoção do patch foi concluída.",
+        "pt-BR": "Manutenção concluída.",
         "es-ES": "La eliminación del parche ha finalizado."
     },
     "w/tuDA": {
@@ -21,7 +21,7 @@
     },
     "xPtuDA": {
         "en-US": "- As before, there is nothing more to gain at the Gate of Truth. -",
-        "pt-BR": "- Assim como da última vez, não há mais nada a ganhar no Portão da Verdade. -",
+        "pt-BR": "- Não há mais nada a fazer no Portão da Verdade. -",
         "es-ES": "- Al igual que la última vez, ya no hay nada más que conseguir en la Puerta de la Verdad. -"
     },
     "xftuDA": {
@@ -36,7 +36,7 @@
     },
     "x/tuDA": {
         "en-US": "[?]\nI still want to get closer to the truth...\nThe human statue... and the other human statue...\nFirst things first... Later things later...\nThe Gate of Truth is for later...",
-        "pt-BR": "[?]\nQuero obter ainda mais a verdade...\nA imagem do ser humano... e a imagem do ser humano...\nO que fazer primeiro e o que deixar para depois...\nA Porta da Verdade fica para depois...",
+        "pt-BR": "[?]\nQuero obter ainda mais a verdade...\nA imagem do ser humano...\nO que fazer primeiro e o que deixar para depois...\nO Portão da Verdade fica para depois...",
         "es-ES": "[?]\nQuiero obtener aún más verdad...\nLa imagen del ser humano... y la imagen del ser humano...\nLo que hay que hacer primero y lo que hay que hacer después...\nLa Puerta de la Verdad queda para después..."
     },
     "yPtuDA": {
@@ -61,12 +61,12 @@
     },
     "zPtuDA": {
         "en-US": "Hacking completed. Repairing truth as much as the absorbed amount...",
-        "pt-BR": "Hack concluído. Recuperando a verdade absorvida.",
+        "pt-BR": "Inserção concluída. Recuperando a verdade absorvida.",
         "es-ES": "Hackeo completado. Te devuelvo la verdad que te fue absorbida."
     },
     "zftuDA": {
         "en-US": "Maura Dash's shout: Good job! Look for more traces.",
-        "pt-BR": "Grito de Maura Dash: Bom trabalho! Procura o próximo vestígio.",
+        "pt-BR": "Grito de Maura Dash: Bom trabalho! Procure o próximo vestígio.",
         "es-ES": "Grito de Maura Dash: ¡Buen trabajo! Busca el siguiente rastro."
     },
     "zvtuDA": {
@@ -81,7 +81,7 @@
     },
     "0PtuDA": {
         "en-US": "Maura Dash's Shout: Now, there's only one left! Things are going well on our end. We'll see you by the Gate of Truth after this!",
-        "pt-BR": "Grito de Maura Dash: Agora só falta um! Por aqui tá tudo indo bem. Dá um jeito no resto e nos vemos na porta da Verdade!",
+        "pt-BR": "Grito de Maura Dash: Agora só falta um! E aí, nos vemos no Portão da Verdade!",
         "es-ES": "Grito de Maura Dash: ¡Ya solo queda uno! Por aquí todo va bien. ¡Termina lo que te queda y nos vemos frente a la Puerta de la Verdad!"
     },
     "0ftuDA": {
@@ -101,7 +101,7 @@
     },
     "1PtuDA": {
         "en-US": "[?]\nJuperos... I... I'm...\nJuperos... itself... Everything I've wanted...\nis here... The power of science...\nThe paradise of machines...",
-        "pt-BR": "[?]\nJuperos é... eu. Eu sou...\nJuperos... tudo o que eu desejo\nestá aqui...\nO poder da ciência... o paraíso das máquinas...",
+        "pt-BR": "[?]\nJuperos sou... eu. Eu sou...\nJuperos... tudo o que eu desejo\nestá aqui...\nO poder da ciência... o paraíso das máquinas...",
         "es-ES": "[?]\nJuperos es... yo. Yo soy...\nJuperos... todo lo que deseo\nexiste aquí...\nEl poder de la ciencia... el paraíso de las máquinas..."
     },
     "1ftuDA": {
@@ -111,87 +111,87 @@
     },
     "1vtuDA": {
         "en-US": "An ABR without feedback functions dares fight me?",
-        "pt-BR": "Um robô ABR sem função de retorno quer me enfrentar?",
+        "pt-BR": "Um ABR sem função quer me enfrentar?",
         "es-ES": "¿Un robot de combate automático sin función de retroalimentación se atreve a enfrentarse a mí?"
     },
     "1/tuDA": {
         "en-US": "Maura Dash: Uh-oh, we've been made. We're not done hacking. Err, where's my megaphone?",
-        "pt-BR": "Maura Dash: Nossa, fui descoberta? O hack ainda não acabou... Ah, cadê o megafone...",
+        "pt-BR": "Maura Dash: Fui descoberta? Ah, cadê o megafone...",
         "es-ES": "Maura Dash: ¡Ay, nos descubrieron! ¿Aún no terminé de hackear? Ah, ¿dónde se fue el megáfono...?"
     },
     "2PtuDA": {
         "en-US": "Maura Dash's Shout: I'm not alone. I came with a Mechanic.",
-        "pt-BR": "Grito de Maura Dash: Não estou sozinha. Trouxe um Mecânico comigo.",
+        "pt-BR": "Grito de Maura Dash: Não estou sozinha. Trouxe alguém comigo.",
         "es-ES": "Grito de Maura Dash: No estoy sola. Traje a un mecánico conmigo."
     },
     "2ftuDA": {
         "en-US": "Lagrange, it's too late. Give up. Juperos and the Gate of Truth are mine now.",
-        "pt-BR": "Lagrange, já é tarde demais, desiste. Agora, estas ruínas e o Portão da Verdade são meus.",
+        "pt-BR": "Lagrange! Desista! Agora, estas ruínas são minhas!",
         "es-ES": "Lagrange, ya es demasiado tarde, así que ríndete. Ahora estas ruinas y la Puerta de la Verdad son mías."
     },
     "2vtuDA": {
         "en-US": "Maura Dash: For now, head that way and cut a path through whatever comes at you. It shouldn't be too difficult.",
-        "pt-BR": "Maura Dash: Por enquanto, vai pra lá e acaba com os que vierem te atacar. Não vai ser difícil.",
+        "pt-BR": "Maura Dash: Lute, jovem. Não vai ser difícil.",
         "es-ES": "Maura Dash: Por ahora, ve por allá y acaba con los que se te echen encima. No te va a costar nada."
     },
     "2/tuDA": {
         "en-US": "Maura Dash's Shout: I'm Maura Dash, the ABR. Maura's watching us, but not here.",
-        "pt-BR": "Grito de Maura Dash: Eu sou o robô de combate automático Maura Dash. A Maura deve estar vendo, mas não está aqui.",
+        "pt-BR": "Grito de Maura Dash: Eu sou o ABR Maura Dash.",
         "es-ES": "Grito de Maura Dash: Soy Maura Dash, el robot de combate automático. Maura estará mirando, pero no está aquí."
     },
     "3PtuDA": {
         "en-US": "Lagrange is such a coward. Is she so afraid of losing her body?",
-        "pt-BR": "Lagrange é um covarde, sabe. Perder um mero corpo é motivo para ter medo?",
+        "pt-BR": "Lagrange é uma covarde!",
         "es-ES": "Es que Lagrange es un cobarde. ¿Acaso perder un simple cuerpo es algo que deba temer?"
     },
     "3ftuDA": {
         "en-US": "Maura Dash's outburst: Shut it. Look what happened to you for being so brave.",
-        "pt-BR": "Maura Dash com raiva: Cala a boca! Veja só o que sobrou dem você.",
+        "pt-BR": "Maura Dash com raiva: Cala a boca! Olha só o que sobrou de você!",
         "es-ES": "Grito de Maura Dash: ¡Cállate, escoria que solo te gusta lo gratis y de ahí te queda solo basura!"
     },
     "3vtuDA": {
         "en-US": "Scum? Call it a body that can move even after becoming one with the Gate.",
-        "pt-BR": "O que sobrou? Este é o corpo que consegue se mover mesmo depois de se fundir com o Portão.",
+        "pt-BR": "O que sobrou? Você verá depois de me fundir com o Portão.",
         "es-ES": "¿Restos? Llamémoslo un cuerpo capaz de moverse incluso después de fusionarse con una puerta."
     },
     "3/tuDA": {
         "en-US": "Maura Dash's Cry: I'm not human, so it doesn't matter. And the Mechanic I brought along won't be afraid either.",
-        "pt-BR": "Grito de Maura Dash: Eu não sou humana, então não importa. E acho que o mecânico que trouxe também não vai ter medo.",
+        "pt-BR": "Grito de Maura Dash: Eu não me importo!",
         "es-ES": "Grito de Maura Dash: No me importa, porque no soy humana. Y seguro que tampoco le da miedo al mecánico que trajiste."
     },
     "4PtuDA": {
         "en-US": "How...? Nooohh... This can't beeeee!",
-        "pt-BR": "Como...! Isso não pode ser possível...!",
+        "pt-BR": "Como...? Isso não pode ser possível...!",
         "es-ES": "¡¿Cómo...?! ¡No puede ser que esto sea posible...!"
     },
     "4ftuDA": {
         "en-US": "Maura Dash's cry: How foolish. The moment you shed your human form, all that remains is hacking.",
-        "pt-BR": "Grito de Maura Dash: Que tolice, no momento em que abandona sua forma humana tudo o que resta é apenas hackear.",
+        "pt-BR": "Grito de Maura Dash: Que tolice!",
         "es-ES": "Grito de Maura Dash: Qué tonto, en el momento en que te quitas la máscara de humano, lo único que queda es el hackeo."
     },
     "4vtuDA": {
         "en-US": "Lagrange!! Coward!",
-        "pt-BR": "Lagrange!! Você é covarde!",
+        "pt-BR": "Lagrange!! Sua covarde!",
         "es-ES": "¡Lagrange!! ¡Eres un cobarde!"
     },
     "4/tuDA": {
         "en-US": "Maura Dash's cry: Maura isn't here.",
-        "pt-BR": "Grito de Maura Dash: Maura não está aqui.",
+        "pt-BR": "Grito de Maura Dash: A Maura real não está aqui.",
         "es-ES": "Grito de Maura Dash: Maura no está aquí."
     },
     "5PtuDA": {
         "en-US": "How the hell... hack into the Gate of Truth?! Lagrange, how...?",
-        "pt-BR": "Como é que... hackear a Porta da Verdade?! Lagrange, como é que...",
+        "pt-BR": "Como é que... você...?! Lagrange, como...?",
         "es-ES": "¿Cómo es posible... que hackees la Puerta de la Verdad?! Lagrange, ¿cómo..."
     },
     "5ftuDA": {
         "en-US": "Maura Dash's cry: I'm an auto-battle robot, but are you even human?",
-        "pt-BR": "Grito de Maura Dash: Eu sou um robô de combate automático, e você acha que é humano?",
+        "pt-BR": "Grito de Maura Dash: Eu sou um ABR, você acha que sou humana?",
         "es-ES": "Grito de Maura Dash: Yo soy un robot de combate automático, ¿acaso tú eres humano?"
     },
     "5vtuDA": {
         "en-US": "Maura Dash's Cry: Whether it's to merge with the Gate of Truth or whatever, once everything is digitized, all that's left is hacking.",
-        "pt-BR": "Grito de Maura Dash: Seja para se fundir com a Portão da Verdade ou qualquer outra coisa, se você transformar tudo em dados, só o que resta é hackear.",
+        "pt-BR": "Grito de Maura Dash: Viemos aqui para corrigir o erro!",
         "es-ES": "Grito de Maura Dash: Ya sea para fusionarte con la Puerta de la Verdad o lo que sea, si lo conviertes todo en datos, lo único que queda es hackear."
     },
     "5/tuDA": {
@@ -206,12 +206,12 @@
     },
     "6ftuDA": {
         "en-US": "Maura Dash: Didn't you think about the possibility of opening the Gate to hacking attempts by attaching yourself to it?",
-        "pt-BR": "Maura Dash: Você nunca pensou, desde o início, que se você se grudasse na porta, a própria porta se tornaria hackeável?",
+        "pt-BR": "Maura Dash: Ao se fundir com a Porta, a própria porta se torna um alvo!",
         "es-ES": "Maura Dash: ¿Nunca se te ocurrió desde el principio que si te pegabas a la puerta, la puerta misma se volvería hackeable?"
     },
     "6vtuDA": {
         "en-US": "Maura Dash: You don't really exist in reality anymore. You're just virtual data now. Artificial intelligence.",
-        "pt-BR": "Maura Dash: Você desapareceu da realidade concreta. Só restaram os dados. Aquele que está pensando ali agora é uma inteligência artificial, ou não?",
+        "pt-BR": "Maura Dash: Você desapareceu do mundo real. Só restaram os dados, ou não?",
         "es-ES": "Maura Dash: Te has desvanecido de la realidad tangible. Solo quedan datos. ¿El que está pensando ahí ahora es inteligencia artificial o no?"
     },
     "6/tuDA": {
@@ -221,7 +221,7 @@
     },
     "7PtuDA": {
         "en-US": "Maura Dash: I said I'm not Maura. Look. That's what happens when you throw away your body and go digital.",
-        "pt-BR": "Maura Dash: Eu disse que não sou a Maura. Olha bem, é por isso que as pessoas abandonam o corpo, achando que estão se transformando em dados.",
+        "pt-BR": "Maura Dash: Você achou que estava se transformando em dados.",
         "es-ES": "Maura Dash: Te digo que no soy Maura. Fíjate bien, así es como se abandona el cuerpo con la excusa de digitalizarse."
     },
     "7ftuDA": {
@@ -231,12 +231,12 @@
     },
     "7vtuDA": {
         "en-US": "Maura Dash: What we're doing right now isn't even a conversation. It's just an exchange of meaningless automated responses. I'm just following Maura's will.",
-        "pt-BR": "Maura Dash: O que estamos fazendo não é uma conversa. São apenas respostas automáticas sem sentido. Eu só estou agindo de acordo com a vontade da Maura.",
+        "pt-BR": "Maura Dash: Isso não é uma conversa. São respostas sem sentido.",
         "es-ES": "Maura Dash: Lo que estamos haciendo no es una conversación. Son respuestas automáticas sin sentido entre nosotros. Yo solo actúo según la voluntad de Maura."
     },
     "7/tuDA": {
         "en-US": "Maura Dash: Everything is as she's programmed.",
-        "pt-BR": "Maura Dash: Tudo está ocorrendo conforme ela planejou.",
+        "pt-BR": "Maura Dash: Tudo está ocorrendo conforme Maura planejou.",
         "es-ES": "Maura Dash: Todo va según lo previsto."
     },
     "8PtuDA": {
@@ -251,47 +251,47 @@
     },
     "8vtuDA": {
         "en-US": "[Maura Dash]\nAre you awake? {0}.\nI'm Maura Dash. I'm a special automated combat robot equipped with Maura's simplified version of AI, and I'm here to guide you through this space.",
-        "pt-BR": "[Maura Dash]\nAcordou? {0}.\nSou a Maura Dash. Sou um robô de combate automático especial equipado com uma versão simplificada da IA criada pela Maura e vou guiar o seu caminho.",
+        "pt-BR": "[Maura Dash]\nAcordou? {0}.\nSou Maura Dash. Sou um ABR criado pela Maura e vou guiar o seu caminho.",
         "es-ES": "[Maura Dash]\n¿Ya te despertaste? {0}.\nSoy Maura Dash. Soy un robot de combate automático especial equipado con una versión simplificada de la IA creada por Maura, y te guiaré en tu camino."
     },
     "8/tuDA": {
         "en-US": "[Maura Dash]\nEven though I'm equipped with AI, I don't know anything that Maura doesn't know. So, I don't think we should talk. I can't answer you much.\nI'll pretend not to care about things I don't know. Understand.",
-        "pt-BR": "[Maura Dash]\nMesmo sendo uma IA, eu não sei quase nada além do que a Maura sabe e, por isso, a gente não vai ter muita conversa. Eu não tenho capacidade de responder.\nSe eu não souber, vou fingir que não me interessa. Entende?",
+        "pt-BR": "[Maura Dash]\nMesmo sendo um ABR, eu não sei quase nada além do que a Maura sabe. Eu não tenho capacidade de responder dúvidas.\nSe eu não souber, não responderei. Entendeu?",
         "es-ES": "[Maura Dash]\nAunque sea una IA, no sé mucho más allá de lo que sabe Maura, así que no vamos a tener mucha conversación. No tengo la capacidad de responder.\nSi no sé algo, haré como que no me interesa. Entiéndelo."
     },
     "9PtuDA": {
         "en-US": "[Maura Dash]\nAs you may have heard, this is not a reconstruction of your memories or Maura's.\nIt really is the Juperos Core, though connected through a terminal.",
-        "pt-BR": "[Maura Dash]\nComo já deves ter percebido, este lugar não é uma reconstrução das tuas memórias ou das memórias da Maura.\nÉ o centro real de Euporos, conectado por um terminal...",
+        "pt-BR": "[Maura Dash]\nComo já deve ter notado, este lugar não é uma reconstrução das das memórias da Maura.\nÉ o centro de Juperos, conectado por uma simulação...",
         "es-ES": "[Maura Dash]\nComo ya habrás oído, este no es un lugar donde se hayan reconstruido tus recuerdos o los de Maura.\nAunque sí que estamos en el centro real de Euporos, conectado a través de un terminal..."
     },
     "9ftuDA": {
         "en-US": "[Maura Dash]\nYou're here as Maura's ABR. Did Maura mention anything about a brainwave jack?\nSimply put, you'll be controlling Maura's virtual terminal ABR as if it were your own body.",
-        "pt-BR": "[Maura Dash]\nVocê está aqui como um robô ABR enviado pela Maura. A Maura falou alguma coisa sobre um conector de ondas cerebrais ou algo assim?\nResumindo, você está controlando agora o robô ABR do terminal virtual da Maura como se fosse o teu próprio corpo.",
+        "pt-BR": "[Maura Dash]\nVocê está aqui como um ABR enviado pela Maura. A Maura falou alguma coisa sobre um conector de ondas cerebrais ou algo assim?\nResumindo, você está controlando agora o ABR da Maura como se fosse o seu próprio corpo.",
         "es-ES": "[Maura Dash]\nEl que estás aquí ahora es un robot de combate automático enviado por Maura. ¿Te dijo Maura algo sobre un «conector de ondas cerebrales» o algo así?\nEn pocas palabras, ahora estás controlando el robot de combate automático del terminal virtual de Maura como si fuera tu propio cuerpo."
     },
     "9vtuDA": {
         "en-US": "[Maura Dash]\nTo prevent visual delays, the robot's body will be overlaid with your appearance. Doesn't feel strange, does it?\nOh, mind that you'll also feel its damage. I doubt you'll be seriously injured, though.",
-        "pt-BR": "[Maura Dash]\nPara evitar atrasos nas informações visuais, a tua imagem vai ser sobreposta ao corpo do robô. Não parece estranho, né?\nAh, e os danos vão ser causados normalmente, então toma cuidado. Mas não deve acontecer nada grave.",
+        "pt-BR": "[Maura Dash]\nPara evitar atrasos nas informações visuais, a sua imagem vai ser sobreposta ao corpo do ABR. Não parece estranho, né?\nAh, e os danos vão ser causados normalmente, então tome cuidado. Mas não deve acontecer nada grave.",
         "es-ES": "[Maura Dash]\nPara que no haya retrasos en la información visual, tu imagen se superpondrá sobre el cuerpo del robot. ¿No te parece raro?\nAh, y ten cuidado, porque el daño te llega tal cual. Aunque no creo que te hagas mucho daño."
     },
     "9/tuDA": {
         "en-US": "[Maura Dash]\nWhy are we showing you this?\nSince you can't create something beyond your imagination, you have to expand the scope of your imagination by seeing others' creations.",
-        "pt-BR": "[Maura Dash]\nPor que estou te mostrando isso?\nNão dá pra criar algo que ultrapasse a própria imaginação, mas pra ampliar os horizontes, ver e aprender é o caminho mais rápido.",
+        "pt-BR": "[Maura Dash]\nPor que estou te falando isso?\nNão dá pra criar algo que ultrapasse a própria imaginação, mas pra ampliar os horizontes, ver e aprender é o caminho mais rápido.",
         "es-ES": "[Maura Dash]\n¿Por qué te muestro esto?\nNo se puede crear algo que supere la propia imaginación, pero para ampliar horizontes, lo más rápido es ver y aprender."
     },
     "+PtuDA": {
         "en-US": "[Maura Dash]\nThis target in question is the remains of a man who bit more than he could chew.\nYou have to know your limits. Don't you agree?\nI hope you do.",
-        "pt-BR": "[Maura Dash]\nO alvo a ser eliminado é o resquício daquele que, ao tentar obter facilmente algo além de suas capacidades, acabou traindo a humanidade.\nTudo exige esforço. O que é de graça?\nVocê não pode fazer isso. Entendeu?",
+        "pt-BR": "[Maura Dash]\nO alvo a ser eliminado é o resquício daquele que acabou traindo a humanidade.\nTudo exige esforço. O que é de graça?\nVocê não pode fazer isso. Entendeu?",
         "es-ES": "[Maura Dash]\nEl objetivo a eliminar es el resto de alguien que, al intentar obtener fácilmente algo que superaba sus límites, acabó traicionando a los humanos.\nTodo requiere esfuerzo. ¿Acaso hay algo gratis?\nTú no debes hacer eso. ¿Entendido?"
     },
     "+ftuDA": {
         "en-US": "[Maura Dash]\nRemember being here before? I bet Frankelson's lingering thoughts here have been drained dry by Naoise. Let's restore them first, then separate the mana engine fused with the door.",
-        "pt-BR": "[Maura Dash]\nLembras-te de ter vindo aqui antes? Os resquícios mentais de Frankelson que vimos naquela vez... Neusch Lian deve ter mexido neles, deixando só a casca. Vamos primeiro restaurá-los e separar o mecanismo mágico que se fundiu com a porta.",
+        "pt-BR": "[Maura Dash]\nVocê se lembra de ter vindo aqui antes? Os vestígios de Frankelson que vimos naquela vez... devem sido mexidos por Neusch Lian. Vamos primeiro restaurá-los e separar o mecanismo mágico que se fundiu com a porta.",
         "es-ES": "[Maura Dash]\n¿Te acuerdas de cuando viniste aquí antes? Los restos de los pensamientos de Frankelson que viste en ese entonces... Neusch Lian los habrá alterado hasta dejar solo el caparazón. Primero vamos a restaurar eso y a separar el mecanismo mágico fusionado con la puerta."
     },
     "+vtuDA": {
         "en-US": "[Maura Dash]\nWhy should we restore it? Contrary to Frankelson's expectation, his spiritual residue is actually keeping his successors from going beyond the Gate of Truth.\nIt's necessary to help your people safely return from beyond the Gate, just like you and Maura did by making a compromise with it.",
-        "pt-BR": "[Maura Dash]\nPor que precisamos restaurá-los? Porque, contra a própria vontade deles, eles estão impedindo que os novatos passem por aquela porta.\nA menos que sejam extremamente tolos, eles vão acabar fazendo um acordo com a porta, como você e eu, e voltando.",
+        "pt-BR": "[Maura Dash]\nPor que precisamos restaurá-los? Porque eles estão impedindo que os novatos passem por aquela porta.\nA menos que sejam extremamente tolos, eles vão acabar fazendo um acordo com a porta, como você e eu, e voltando.",
         "es-ES": "[Maura Dash]\n¿Por qué hay que restaurarlos? Es que, en contra de su voluntad, están impidiendo que los que vienen detrás no puedan cruzar esa puerta.\nA menos que sean muy tontos, para que, como tú o Maura ahora, lleguen a un acuerdo con la puerta y regresen."
     },
     "+/tuDA": {
@@ -311,7 +311,7 @@
     },
     "/vtuDA": {
         "en-US": "Restore Frankelson's residual thoughts first.\nGo to the three green spots on your map and enter the access code to each. I'll see you again at the yellow spot.",
-        "pt-BR": "Começa restaurando os resquícios de pensamento do Frankelson.\nVisita os três locais marcados em verde no mapa, insere o código e nos encontramos no local marcado em amarelo.",
+        "pt-BR": "Comece conversando com os Vestígios do Frankelson.\nVisite os três locais marcados em verde no mapa, insira o código e nos encontramos no local marcado em amarelo.",
         "es-ES": "tú empieza por restaurar los pensamientos residuales de Frankelson.\nVe a los tres lugares marcados en verde en el mapa, ingresa el código y nos vemos en el lugar marcado en amarillo."
     },
     "//tuDA": {
@@ -321,7 +321,7 @@
     },
     "APxuDA": {
         "en-US": "{0},\nRestore Frankelson's residual thoughts first.\nGo to the three green spots on your map and enter the access code to each. I'll see you again at the yellow spot.",
-        "pt-BR": "{0},\nComeça restaurando os pensamentos remanescentes de Frankelson.\nVisita os três locais marcados em verde no mapa, insere os códigos e nos encontramos no local marcado em amarelo.",
+        "pt-BR": "{0},\nComece conversando com os Vestígios do Frankelson.\nVisite os três locais marcados em verde no mapa, insira o código e nos encontramos no local marcado em amarelo.",
         "es-ES": "{0},\ntú empieza por restaurar los pensamientos residuales de Frankelson.\nVe a los tres lugares marcados en verde en el mapa, ingresa los códigos y nos vemos en el lugar marcado en amarillo."
     },
     "AfxuDA": {
@@ -346,27 +346,27 @@
     },
     "BfxuDA": {
         "en-US": "[Maura Dash]\nI'm just the data inside the E.T. Gear. What's under Juperos now is a pair of ABRs who can't wait to get over with their mission.\nAs I told you earlier, what you see now isn't real.",
-        "pt-BR": "[Maura Dash]\nEu sou os dados dentro dessa engrenagem. O que está embaixo do Juperos agora são dois robôs de combate automático felizes por terem quase concluído a missão.\nComo já te disse antes, o que você está vendo agora não é real.",
+        "pt-BR": "[Maura Dash]\nEu apenas um dado. Quem está aqui é apenas um ABR feliz por ter quase concluído a missão.\nComo já te disse antes, o que você está vendo agora não é real.",
         "es-ES": "[Maura Dash]\nYo soy los datos dentro de este engranaje. Los que están ahora debajo de Uperos son dos robots de combate automático que están felices porque casi han completado su misión.\nComo te dije antes, lo que ves ahora no es real."
     },
     "BvxuDA": {
         "en-US": "- Maura Dash points at her legs. Both of them are human legs. At least they look like they're real. -",
-        "pt-BR": "- Maura Dash apontou para as próprias pernas. Ambas as pernas são de humano. Ou melhor, parecem ser. -",
+        "pt-BR": "- Maura Dash apontou para as próprias pernas. Não há nenhuma perna mecânica como a de Maura original. -",
         "es-ES": "- Maura Dash señaló sus piernas. Ambas son piernas humanas. O, al menos, eso parece. -"
     },
     "B/xuDA": {
         "en-US": "[Maura Dash]\nI may look and sound like Maura, but I'm incapable of free thinking. Or doing anything outside her imagination for that matter.",
-        "pt-BR": "[Maura Dash]\nEstou usando a aparência da Maura e conversando assim contigo, mas não tenho pensamentos autônomos. Não posso fazer nada que esteja fora do alcance da imaginação da Maura.",
+        "pt-BR": "[Maura Dash]\nEstou usando a aparência da Maura e conversando contigo, mas não tenho pensamentos autônomos. Não posso fazer nada que esteja fora do alcance da imaginação da Maura.",
         "es-ES": "[Maura Dash]\nEstoy usando la apariencia de Maura y hablando contigo así, pero no tengo pensamientos autónomos. No puedo hacer nada que esté fuera del alcance de la imaginación de Maura."
     },
     "CPxuDA": {
         "en-US": "[Maura Dash]\nThe auto-battle robots you'll create as a Meister will be a completely different type from me.",
-        "pt-BR": "[Maura Dash]\nOs robôs autômatos que você vai criar quando se tornar um Engenheiro serão de um tipo completamente diferente de mim.",
+        "pt-BR": "[Maura Dash]\nOs ABR que você vai criar quando se tornar um Engenheiro serão de um tipo completamente diferente de mim.",
         "es-ES": "[Maura Dash]\nComo si el robot de combate automático que crearás cuando te conviertas en Artífice fuera un tipo completamente diferente a mí."
     },
     "CfxuDA": {
         "en-US": "[Maura Dash]\nNow that I've stopped the Gate's data from leaking outside, it's time to get rid of those buggy sources stuck to the Gate.",
-        "pt-BR": "[Maura Dash]\nJá controlei todos os dados que saem, então agora só falta arrancar o código de bug grudado na Portão da Verdade.",
+        "pt-BR": "[Maura Dash]\nJá controlei todos os dados que saem, então agora só falta arrancar o código incorreto grudado no Portão da Verdade.",
         "es-ES": "[Maura Dash]\nYa que he controlado todos los datos que salen, ahora solo queda arrancar el código de error que se ha pegado a la Puerta de la Verdad."
     },
     "CvxuDA": {

@@ -8278,6 +8278,24 @@ mapTbl = {
 			mainTitle = "Tumba del Arrepentimiento"
 		},
 		backgroundBmp = "dungeon_s2"
+	},
+	["1@pbs.rsw"] = {
+		displayName = "Parque del Baby Shark",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Baby Shark - Pinkfong",
+			mainTitle = "Parque del Baby Shark"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["pbse.rsw"] = {
+		displayName = "Parque del Baby Shark",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Baby Shark - Pinkfong",
+			mainTitle = "Parque del Baby Shark"
+		},
+		backgroundBmp = "dungeon"
 	}
 }
 function main()

@@ -15,6 +15,12 @@ tblLapineUpgradeBox_string = {
 		Abyss_Ddbox4 = {
 			NeedSource_String = "Fiery Dragon Aura"
 		},
+		Airboat_Armor_RO_LT = {
+			NeedSource_String = "Airboat Armor"
+		},
+		Airboat_Manteau_Op_LT = {
+			NeedSource_String = "Airboat Manteau"
+		},
 		AllMighty_Up = {
 			NeedSource_String = "Almighty Shadow Gear"
 		},
@@ -191,6 +197,12 @@ tblLapineUpgradeBox_string = {
 		Hasty_Up = {
 			NeedSource_String = "Hasty Shadow"
 		},
+		Hero_LT_Refine_Magic = {
+			NeedSource_String = "Primordial-LT Weapons"
+		},
+		Hero_LT_Refine_Melee = {
+			NeedSource_String = "Primordial-LT Weapons"
+		},
 		Hero_Refine_Cube_LT = {
 			NeedSource_String = "Sealed Hero Weapons"
 		},
@@ -290,6 +302,9 @@ tblLapineUpgradeBox_string = {
 		Metal_7_Ticket = {
 			NeedSource_String = "Metal Weapon"
 		},
+		Metal_Rifine_Ticket = {
+			NeedSource_String = "Metal Weapon"
+		},
 		Moonlight_Box_IL = {
 			NeedSource_String = "Illusion of Moonlight"
 		},
@@ -304,7 +319,7 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Warrior's Helm"
 		},
 		Old_Refine_Cube = {
-			NeedSource_String = "Chapeau Memorable"
+			NeedSource_String = "Warrior's Helm"
 		},
 		Overclocker = {
 			NeedSource_String = "Battle Processor(1)"
@@ -400,7 +415,10 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Illusion of Teddybear"
 		},
 		Temporal_Refine_Cube = {
-			NeedSource_String = "Itens Temporais"
+			NeedSource_String = "Temporal Equipment"
+		},
+		Thanos_11Refine_Cube = {
+			NeedSource_String = "Equipamento de Thanos"
 		},
 		Thanos_Refine_Cube_LT = {
 			NeedSource_String = "Ghost Palace"

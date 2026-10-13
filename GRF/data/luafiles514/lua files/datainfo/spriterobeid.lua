@@ -325,5 +325,8 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_2026RosFesta_1st = 325,
 	ROBE_C_2026RosFesta_2nd = 326,
 	ROBE_C_2026RosFesta_3rd = 327,
-	ROBE_C_2026RosFesta_4th = 328
+	ROBE_C_2026RosFesta_4th = 328,
+	ROBE_C_Han_Do = 329,
+	ROBE_C_Smokie_Basket = 330,
+	ROBE_C_Cat_Fryingpan = 331
 }

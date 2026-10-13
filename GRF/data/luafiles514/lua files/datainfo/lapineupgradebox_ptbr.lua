@@ -15,6 +15,12 @@ tblLapineUpgradeBox_string = {
 		Abyss_Ddbox4 = {
 			NeedSource_String = "Bota Dracônica"
 		},
+		Airboat_Armor_RO_LT = {
+			NeedSource_String = "Armadura Desconhecida"
+		},
+		Airboat_Manteau_Op_LT = {
+			NeedSource_String = "Capa Desconhecida"
+		},
 		AllMighty_Up = {
 			NeedSource_String = "Sombrios Totais"
 		},
@@ -114,10 +120,10 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Festival do Macarrão"
 		},
 		Ein_Ddbox = {
-			NeedSource_String = "Armas Segurança"
+			NeedSource_String = "Arma de Segurança"
 		},
 		Ein_Ddbox2 = {
-			NeedSource_String = "Armas Segurança"
+			NeedSource_String = "Arma de Segurança"
 		},
 		Ex_Status_Shadow_Up = {
 			NeedSource_String = "Sombrios de Talentos"
@@ -190,6 +196,12 @@ tblLapineUpgradeBox_string = {
 		},
 		Hasty_Up = {
 			NeedSource_String = "Sombrio Fugaz"
+		},
+		Hero_LT_Refine_Magic = {
+			NeedSource_String = "Armas Primordiais-LT"
+		},
+		Hero_LT_Refine_Melee = {
+			NeedSource_String = "Armas Primordiais-LT"
 		},
 		Hero_Refine_Cube_LT = {
 			NeedSource_String = "Armas da Liga"
@@ -288,10 +300,10 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Sombrio do Mastodonte"
 		},
 		Metal_7_Ticket = {
-			NeedSource_String = "Arma de Metal"
+			NeedSource_String = "Arma Metálica"
 		},
 		Metal_Rifine_Ticket = {
-			NeedSource_String = "Arma de Metal"
+			NeedSource_String = "Arma Metálica"
 		},
 		Moonlight_Box_IL = {
 			NeedSource_String = "Ilusão da Lua"
@@ -411,6 +423,9 @@ tblLapineUpgradeBox_string = {
 		Temporal_Refine_Cube = {
 			NeedSource_String = "Equip. Temporal"
 		},
+		Thanos_11Refine_Cube = {
+			NeedSource_String = "Equipamento de Thanos"
+		},
 		Thanos_Refine_Cube_LT = {
 			NeedSource_String = "Armas de Cinzas"
 		},
@@ -418,7 +433,7 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Manto Temporal"
 		},
 		Timeoverload_Power_LT = {
-			NeedSource_String = "Manto dos Cavaleiros Brancos"
+			NeedSource_String = "Manto Branco"
 		},
 		True_GemShadow_Up = {
 			NeedSource_String = "Sombrios Pedras Preciosas"

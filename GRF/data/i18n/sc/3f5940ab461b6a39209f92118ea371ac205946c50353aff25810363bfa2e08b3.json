@@ -1,0 +1,497 @@
+{
+    "4AfxDQ": {
+        "en-US": "Eden Group Logistics Officer",
+        "pt-BR": "Responsável pela Logística do Éden",
+        "es-ES": "Encargado de Logística del Edén"
+    },
+    "4QfxDQ": {
+        "en-US": "- You have too many items in your inventory to proceed with the quest. -",
+        "pt-BR": "- Você tem itens demais no inventário para prosseguir com a missão. -",
+        "es-ES": "- Tienes demasiados objetos en el inventario para continuar con la misión. -"
+    },
+    "4gfxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nYou need an ^4D4DFF'Eden Group Mark'^000000 to accept a request.\nPlease ask Lime nearby about the ^4D4DFF'Eden Group Mark'^000000.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nVocê precisa de uma ^4D4DFF'Insígnia do Éden'^000000 para aceitar um pedido.\nPergunte à Lime, logo ao lado, sobre a ^4D4DFF'Insígnia do Éden'^000000.",
+        "es-ES": "[Encargado de Logística del Edén]\nNecesitas una ^4D4DFF'Insignia del Edén'^000000 para aceptar una solicitud.\nPregunta a Lime, que está aquí al lado, por la ^4D4DFF'Insignia del Edén'^000000."
+    },
+    "4wfxDQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll requests grant 50% additional reward EXP!!^000000",
+        "pt-BR": "^4D4DFFEvento de EXP em andamento!^000000\n^4D4DFFTodos os pedidos concedem 50% de EXP de recompensa adicional!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡Todas las solicitudes otorgan un 50% de EXP de recompensa adicional!^000000"
+    },
+    "5AfxDQ": {
+        "en-US": "[Eden Group Logistics Officer]",
+        "pt-BR": "[Responsável pela Logística do Éden]",
+        "es-ES": "[Encargado de Logística del Edén]"
+    },
+    "5QfxDQ": {
+        "en-US": "<Fluff Delivery> Completed.",
+        "pt-BR": "<Entrega de Felpa> concluída.",
+        "es-ES": "<Entrega de Pelusa> completada."
+    },
+    "5gfxDQ": {
+        "en-US": "<Sticky Webfoot Delivery> Completed.",
+        "pt-BR": "<Entrega de Pata Pegajosa> concluída.",
+        "es-ES": "<Entrega de Pata Pegajosa> completada."
+    },
+    "5wfxDQ": {
+        "en-US": "<Grasshopper's Leg Delivery> Completed.",
+        "pt-BR": "<Entrega de Perna de Gafanhoto> concluída.",
+        "es-ES": "<Entrega de Pata de Saltamontes> completada."
+    },
+    "6AfxDQ": {
+        "en-US": "<Snail's Shell Delivery> Completed.",
+        "pt-BR": "<Entrega de Concha de Caracol> concluída.",
+        "es-ES": "<Entrega de Caparazón de Caracol> completada."
+    },
+    "6QfxDQ": {
+        "en-US": "<Bill of Birds Delivery> Completed.",
+        "pt-BR": "<Entrega de Bico de Ave> concluída.",
+        "es-ES": "<Entrega de Pico de Ave> completada."
+    },
+    "6gfxDQ": {
+        "en-US": "<Bear's Footskin Delivery> Completed.",
+        "pt-BR": "<Entrega de Pata de Urso> concluída.",
+        "es-ES": "<Entrega de Pata de Oso> completada."
+    },
+    "6wfxDQ": {
+        "en-US": "<Resin Delivery> Completed.",
+        "pt-BR": "<Entrega de Resina> concluída.",
+        "es-ES": "<Entrega de Resina> completada."
+    },
+    "7AfxDQ": {
+        "en-US": "<Monkey Tail Delivery> Completed.",
+        "pt-BR": "<Entrega de Cauda de Macaco> concluída.",
+        "es-ES": "<Entrega de Cola de Mono> completada."
+    },
+    "7QfxDQ": {
+        "en-US": "<Lantern Delivery> Completed.",
+        "pt-BR": "<Entrega de Lanterna> concluída.",
+        "es-ES": "<Entrega de Linterna> completada."
+    },
+    "7gfxDQ": {
+        "en-US": "<Conch Delivery> Completed.",
+        "pt-BR": "<Entrega de Búzio> concluída.",
+        "es-ES": "<Entrega de Caracola> completada."
+    },
+    "7wfxDQ": {
+        "en-US": "<Mermaid's Heart Delivery> Completed.",
+        "pt-BR": "<Entrega de Coração de Sereia> concluída.",
+        "es-ES": "<Entrega de Corazón de Sirena> completada."
+    },
+    "8AfxDQ": {
+        "en-US": "<Mane Delivery> Completed.",
+        "pt-BR": "<Entrega de Juba> concluída.",
+        "es-ES": "<Entrega de Crin de Jabalí> completada."
+    },
+    "8QfxDQ": {
+        "en-US": "<Long Hair Delivery> Completed.",
+        "pt-BR": "<Entrega de Cabelo Comprido> concluída.",
+        "es-ES": "<Entrega de Cabello Largo> completada."
+    },
+    "8gfxDQ": {
+        "en-US": "<Horseshoe Delivery> Completed.",
+        "pt-BR": "<Entrega de Ferradura> concluída.",
+        "es-ES": "<Entrega de Herradura> completada."
+    },
+    "8wfxDQ": {
+        "en-US": "<Short Leg Delivery> Completed.",
+        "pt-BR": "<Entrega de Perna Curta> concluída.",
+        "es-ES": "<Entrega de Pata Corta> completada."
+    },
+    "9AfxDQ": {
+        "en-US": "<Sand Clump Delivery> Completed.",
+        "pt-BR": "<Entrega de Torrão de Areia> concluída.",
+        "es-ES": "<Entrega de Montón de Arena> completada."
+    },
+    "9QfxDQ": {
+        "en-US": "<Dry Sand Delivery> Completed.",
+        "pt-BR": "<Entrega de Areia Seca> concluída.",
+        "es-ES": "<Entrega de Arena Seca> completada."
+    },
+    "9gfxDQ": {
+        "en-US": "<Turtle Shell Delivery> Completed.",
+        "pt-BR": "<Entrega de Casco de Tartaruga> concluída.",
+        "es-ES": "<Entrega de Caparazón de Tortuga> completada."
+    },
+    "9wfxDQ": {
+        "en-US": "<Little Evil Horn Delivery> Completed.",
+        "pt-BR": "<Entrega de Chifre de Diabinho> concluída.",
+        "es-ES": "<Entrega de Cuerno de Diablillo> completada."
+    },
+    "+AfxDQ": {
+        "en-US": "<Ice Heart Delivery> Completed.",
+        "pt-BR": "<Entrega de Coração de Gelo> concluída.",
+        "es-ES": "<Entrega de Corazón de Hielo> completada."
+    },
+    "+QfxDQ": {
+        "en-US": "I processed your {0} completed deliveries first.",
+        "pt-BR": "Primeiro, processei suas {0} entregas concluídas.",
+        "es-ES": "Primero, procesé tus {0} entregas completadas."
+    },
+    "+gfxDQ": {
+        "en-US": "^8C8C8CFluff Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Felpa (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Pelusa (Completada)^000000"
+    },
+    "+wfxDQ": {
+        "en-US": "Fluff Delivery [1]",
+        "pt-BR": "Entrega de Felpa [1]",
+        "es-ES": "Entrega de Pelusa [1]"
+    },
+    "/AfxDQ": {
+        "en-US": "^8C8C8CSticky Webfoot Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Pata Pegajosa (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Pata Pegajosa (Completada)^000000"
+    },
+    "/QfxDQ": {
+        "en-US": "Sticky Webfoot Delivery [10]",
+        "pt-BR": "Entrega de Pata Pegajosa [10]",
+        "es-ES": "Entrega de Pata Pegajosa [10]"
+    },
+    "/gfxDQ": {
+        "en-US": "^8C8C8CGrasshopper's Leg Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Perna de Gafanhoto (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Pata de Saltamontes (Completada)^000000"
+    },
+    "/wfxDQ": {
+        "en-US": "Grasshopper's Leg Delivery [15]",
+        "pt-BR": "Entrega de Perna de Gafanhoto [15]",
+        "es-ES": "Entrega de Pata de Saltamontes [15]"
+    },
+    "AAjxDQ": {
+        "en-US": "^8C8C8CSnail's Shell Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Concha de Caracol (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Caparazón de Caracol (Completada)^000000"
+    },
+    "AQjxDQ": {
+        "en-US": "Snail's Shell Delivery [20]",
+        "pt-BR": "Entrega de Concha de Caracol [20]",
+        "es-ES": "Entrega de Caparazón de Caracol [20]"
+    },
+    "AgjxDQ": {
+        "en-US": "^8C8C8CBill of Birds Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Bico de Ave (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Pico de Ave (Completada)^000000"
+    },
+    "AwjxDQ": {
+        "en-US": "Bill of Birds Delivery [25]",
+        "pt-BR": "Entrega de Bico de Ave [25]",
+        "es-ES": "Entrega de Pico de Ave [25]"
+    },
+    "BAjxDQ": {
+        "en-US": "^8C8C8CBear's Footskin Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Pata de Urso (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Pata de Oso (Completada)^000000"
+    },
+    "BQjxDQ": {
+        "en-US": "Bear's Footskin Delivery [30]",
+        "pt-BR": "Entrega de Pata de Urso [30]",
+        "es-ES": "Entrega de Pata de Oso [30]"
+    },
+    "BgjxDQ": {
+        "en-US": "^8C8C8CResin Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Resina (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Resina (Completada)^000000"
+    },
+    "BwjxDQ": {
+        "en-US": "Resin Delivery [35]",
+        "pt-BR": "Entrega de Resina [35]",
+        "es-ES": "Entrega de Resina [35]"
+    },
+    "CAjxDQ": {
+        "en-US": "^8C8C8CMonkey Tail Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Cauda de Macaco (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Cola de Mono (Completada)^000000"
+    },
+    "CQjxDQ": {
+        "en-US": "Monkey Tail Delivery [40]",
+        "pt-BR": "Entrega de Cauda de Macaco [40]",
+        "es-ES": "Entrega de Cola de Mono [40]"
+    },
+    "CgjxDQ": {
+        "en-US": "^8C8C8CLantern Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Lanterna (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Linterna (Completada)^000000"
+    },
+    "CwjxDQ": {
+        "en-US": "Lantern Delivery [45]",
+        "pt-BR": "Entrega de Lanterna [45]",
+        "es-ES": "Entrega de Linterna [45]"
+    },
+    "DAjxDQ": {
+        "en-US": "^8C8C8CConch Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Búzio (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Caracola (Completada)^000000"
+    },
+    "DQjxDQ": {
+        "en-US": "Conch Delivery [50]",
+        "pt-BR": "Entrega de Búzio [50]",
+        "es-ES": "Entrega de Caracola [50]"
+    },
+    "DgjxDQ": {
+        "en-US": "^8C8C8CMermaid's Heart Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Coração de Sereia (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Corazón de Sirena (Completada)^000000"
+    },
+    "DwjxDQ": {
+        "en-US": "Mermaid's Heart Delivery [55]",
+        "pt-BR": "Entrega de Coração de Sereia [55]",
+        "es-ES": "Entrega de Corazón de Sirena [55]"
+    },
+    "EAjxDQ": {
+        "en-US": "^8C8C8CMane Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Juba (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Crin de Jabalí (Completada)^000000"
+    },
+    "EQjxDQ": {
+        "en-US": "Mane Delivery [60]",
+        "pt-BR": "Entrega de Juba [60]",
+        "es-ES": "Entrega de Crin de Jabalí [60]"
+    },
+    "EgjxDQ": {
+        "en-US": "^8C8C8CLong Hair Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Cabelo Comprido (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Cabello Largo (Completada)^000000"
+    },
+    "EwjxDQ": {
+        "en-US": "Long Hair Delivery [65]",
+        "pt-BR": "Entrega de Cabelo Comprido [65]",
+        "es-ES": "Entrega de Cabello Largo [65]"
+    },
+    "FAjxDQ": {
+        "en-US": "^8C8C8CHorseshoe Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Ferradura (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Herradura (Completada)^000000"
+    },
+    "FQjxDQ": {
+        "en-US": "Horseshoe Delivery [70]",
+        "pt-BR": "Entrega de Ferradura [70]",
+        "es-ES": "Entrega de Herradura [70]"
+    },
+    "FgjxDQ": {
+        "en-US": "^8C8C8CShort Leg Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Perna Curta (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Pata Corta (Completada)^000000"
+    },
+    "FwjxDQ": {
+        "en-US": "Short Leg Delivery [75]",
+        "pt-BR": "Entrega de Perna Curta [75]",
+        "es-ES": "Entrega de Pata Corta [75]"
+    },
+    "GAjxDQ": {
+        "en-US": "^8C8C8CSand Clump Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Torrão de Areia (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Montón de Arena (Completada)^000000"
+    },
+    "GQjxDQ": {
+        "en-US": "Sand Clump Delivery [80]",
+        "pt-BR": "Entrega de Torrão de Areia [80]",
+        "es-ES": "Entrega de Montón de Arena [80]"
+    },
+    "GgjxDQ": {
+        "en-US": "^8C8C8CDry Sand Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Areia Seca (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Arena Seca (Completada)^000000"
+    },
+    "GwjxDQ": {
+        "en-US": "Dry Sand Delivery [85]",
+        "pt-BR": "Entrega de Areia Seca [85]",
+        "es-ES": "Entrega de Arena Seca [85]"
+    },
+    "HAjxDQ": {
+        "en-US": "^8C8C8CTurtle Shell Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Casco de Tartaruga (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Caparazón de Tortuga (Completada)^000000"
+    },
+    "HQjxDQ": {
+        "en-US": "Turtle Shell Delivery [90]",
+        "pt-BR": "Entrega de Casco de Tartaruga [90]",
+        "es-ES": "Entrega de Caparazón de Tortuga [90]"
+    },
+    "HgjxDQ": {
+        "en-US": "^8C8C8CLittle Evil Horn Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Chifre de Diabinho (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Cuerno de Diablillo (Completada)^000000"
+    },
+    "HwjxDQ": {
+        "en-US": "Little Evil Horn Delivery [95]",
+        "pt-BR": "Entrega de Chifre de Diabinho [95]",
+        "es-ES": "Entrega de Cuerno de Diablillo [95]"
+    },
+    "IAjxDQ": {
+        "en-US": "^8C8C8CIce Heart Delivery (Completed)^000000",
+        "pt-BR": "^8C8C8CEntrega de Coração de Gelo (Concluída)^000000",
+        "es-ES": "^8C8C8CEntrega de Corazón de Hielo (Completada)^000000"
+    },
+    "IQjxDQ": {
+        "en-US": "Ice Heart Delivery [100]",
+        "pt-BR": "Entrega de Coração de Gelo [100]",
+        "es-ES": "Entrega de Corazón de Hielo [100]"
+    },
+    "IgjxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nThe Eden Group accepts deliveries of materials used to craft various equipment.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nO Grupo do Éden recebe materiais usados na fabricação de vários equipamentos.",
+        "es-ES": "[Encargado de Logística del Edén]\nEl Grupo del Edén recibe materiales para fabricar distintos equipos."
+    },
+    "IwjxDQ": {
+        "en-US": "LV 1~30",
+        "pt-BR": "LV 1~30",
+        "es-ES": "LV 1~30"
+    },
+    "JAjxDQ": {
+        "en-US": "LV 35~55",
+        "pt-BR": "LV 35~55",
+        "es-ES": "LV 35~55"
+    },
+    "JQjxDQ": {
+        "en-US": "LV 60~80",
+        "pt-BR": "LV 60~80",
+        "es-ES": "LV 60~80"
+    },
+    "JgjxDQ": {
+        "en-US": "LV 85~100",
+        "pt-BR": "LV 85~100",
+        "es-ES": "LV 85~100"
+    },
+    "JwjxDQ": {
+        "en-US": "Cancel.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
+    },
+    "KAjxDQ": {
+        "en-US": "Your level is too low to proceed with this request.",
+        "pt-BR": "Seu nível é muito baixo para realizar este pedido.",
+        "es-ES": "Tu nivel es demasiado bajo para realizar esta solicitud."
+    },
+    "KQjxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nI'm sorry.\nWe have enough supplies from deliveries right now, so we cannot accept any more.\nPlease come back later.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nDesculpe.\nNo momento, já temos materiais suficientes e não podemos receber mais entregas.\nVolte mais tarde, por favor.",
+        "es-ES": "[Encargado de Logística del Edén]\nLo siento.\nPor ahora tenemos suficientes materiales y no podemos aceptar más entregas.\nVuelve más tarde, por favor."
+    },
+    "KgjxDQ": {
+        "en-US": "[Fluff Delivery Request]\nRequired Item : Fluff 30\nReward: Exp 5000",
+        "pt-BR": "[Pedido de Entrega de Felpa]\nItem necessário : Felpa 30\nRecompensa: Exp 5000",
+        "es-ES": "[Solicitud de Entrega de Pelusa]\nObjeto requerido : Pelusa 30\nRecompensa: Exp 5000"
+    },
+    "KwjxDQ": {
+        "en-US": "Deliver.",
+        "pt-BR": "Entregar.",
+        "es-ES": "Entregar."
+    },
+    "LAjxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nThank you for your help, {0}.\nThe items you delivered will be processed into supplies needed by the Eden Group and used where they are needed most.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nAgradecemos pela ajuda, {0}.\nOs itens entregues serão transformados em suprimentos necessários ao Grupo do Éden e usados onde forem mais necessários.",
+        "es-ES": "[Encargado de Logística del Edén]\nGracias por tu ayuda, {0}.\nLos objetos entregados se convertirán en suministros que necesita el Grupo del Edén y se usarán donde más hagan falta."
+    },
+    "LQjxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nYou do not have enough items to deliver.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nVocê não tem itens suficientes para a entrega.",
+        "es-ES": "[Encargado de Logística del Edén]\nNo tienes suficientes objetos para la entrega."
+    },
+    "LgjxDQ": {
+        "en-US": "[Sticky Webfoot Delivery Request]\nRequired Item : Sticky Webfoot 30\nReward: Exp 5400",
+        "pt-BR": "[Pedido de Entrega de Pata Pegajosa]\nItem necessário : Pata Pegajosa 30\nRecompensa: Exp 5400",
+        "es-ES": "[Solicitud de Entrega de Pata Pegajosa]\nObjeto requerido : Pata Pegajosa 30\nRecompensa: Exp 5400"
+    },
+    "LwjxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nThank you for your help, {0}.\nThe materials you delivered are processed into useful tools and distributed to adventurers.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nAgradecemos pela ajuda, {0}.\nOs materiais entregues são transformados em ferramentas úteis e distribuídos aos aventureiros.",
+        "es-ES": "[Encargado de Logística del Edén]\nGracias por tu ayuda, {0}.\nLos materiales entregados se convierten en herramientas útiles y se distribuyen entre los aventureros."
+    },
+    "MAjxDQ": {
+        "en-US": "[Grasshopper's Leg Delivery Request]\nRequired Item : Grasshopper's Leg 30\nReward: Exp 5940",
+        "pt-BR": "[Pedido de Entrega de Perna de Gafanhoto]\nItem necessário : Perna de Gafanhoto 30\nRecompensa: Exp 5940",
+        "es-ES": "[Solicitud de Entrega de Pata de Saltamontes]\nObjeto requerido : Pata de Saltamontes 30\nRecompensa: Exp 5940"
+    },
+    "MQjxDQ": {
+        "en-US": "[Snail's Shell Delivery Request]\nRequired Item : Snail's Shell 30\nReward: Exp 7020",
+        "pt-BR": "[Pedido de Entrega de Concha de Caracol]\nItem necessário : Concha de Caracol 30\nRecompensa: Exp 7020",
+        "es-ES": "[Solicitud de Entrega de Caparazón de Caracol]\nObjeto requerido : Caparazón de Caracol 30\nRecompensa: Exp 7020"
+    },
+    "MgjxDQ": {
+        "en-US": "[Bill of Birds Delivery Request]\nRequired Item : Bill of Birds 30\nReward: Exp 9720",
+        "pt-BR": "[Pedido de Entrega de Bico de Ave]\nItem necessário : Bico de Ave 30\nRecompensa: Exp 9720",
+        "es-ES": "[Solicitud de Entrega de Pico de Ave]\nObjeto requerido : Pico de Ave 30\nRecompensa: Exp 9720"
+    },
+    "MwjxDQ": {
+        "en-US": "[Bear's Footskin Delivery Request]\nRequired Item : Bear's Footskin 30\nReward: Exp 10800",
+        "pt-BR": "[Pedido de Entrega de Pata de Urso]\nItem necessário : Pata de Urso 30\nRecompensa: Exp 10800",
+        "es-ES": "[Solicitud de Entrega de Pata de Oso]\nObjeto requerido : Pata de Oso 30\nRecompensa: Exp 10800"
+    },
+    "NAjxDQ": {
+        "en-US": "[Resin Delivery Request]\nRequired Item : Resin 30\nReward: Exp 13980",
+        "pt-BR": "[Pedido de Entrega de Resina]\nItem necessário : Resina 30\nRecompensa: Exp 13980",
+        "es-ES": "[Solicitud de Entrega de Resina]\nObjeto requerido : Resina 30\nRecompensa: Exp 13980"
+    },
+    "NQjxDQ": {
+        "en-US": "[Monkey Tail Delivery Request]\nRequired Item : Monkey Tail 30\nReward: Exp 16200",
+        "pt-BR": "[Pedido de Entrega de Cauda de Macaco]\nItem necessário : Cauda de Macaco 30\nRecompensa: Exp 16200",
+        "es-ES": "[Solicitud de Entrega de Cola de Mono]\nObjeto requerido : Cola de Mono 30\nRecompensa: Exp 16200"
+    },
+    "NgjxDQ": {
+        "en-US": "[Lantern Delivery Request]\nRequired Item : Lantern 30\nReward: Exp 19980",
+        "pt-BR": "[Pedido de Entrega de Lanterna]\nItem necessário : Lanterna 30\nRecompensa: Exp 19980",
+        "es-ES": "[Solicitud de Entrega de Linterna]\nObjeto requerido : Linterna 30\nRecompensa: Exp 19980"
+    },
+    "NwjxDQ": {
+        "en-US": "[Conch Delivery Request]\nRequired Item : Conch 30\nReward: Exp 22140",
+        "pt-BR": "[Pedido de Entrega de Búzio]\nItem necessário : Búzio 30\nRecompensa: Exp 22140",
+        "es-ES": "[Solicitud de Entrega de Caracola]\nObjeto requerido : Caracola 30\nRecompensa: Exp 22140"
+    },
+    "OAjxDQ": {
+        "en-US": "[Mermaid's Heart Delivery Request]\nRequired Item : Mermaid's Heart 30\nReward: Exp 28560",
+        "pt-BR": "[Pedido de Entrega de Coração de Sereia]\nItem necessário : Coração de Sereia 30\nRecompensa: Exp 28560",
+        "es-ES": "[Solicitud de Entrega de Corazón de Sirena]\nObjeto requerido : Corazón de Sirena 30\nRecompensa: Exp 28560"
+    },
+    "OQjxDQ": {
+        "en-US": "[Mane Delivery Request]\nRequired Item : Mane 30\nReward: Exp 34380",
+        "pt-BR": "[Pedido de Entrega de Juba]\nItem necessário : Juba 30\nRecompensa: Exp 34380",
+        "es-ES": "[Solicitud de Entrega de Crin de Jabalí]\nObjeto requerido : Crin de Jabalí 30\nRecompensa: Exp 34380"
+    },
+    "OgjxDQ": {
+        "en-US": "[Long Hair Delivery Request]\nRequired Item : Long Hair 30\nReward: Exp 35640",
+        "pt-BR": "[Pedido de Entrega de Cabelo Comprido]\nItem necessário : Cabelo Comprido 30\nRecompensa: Exp 35640",
+        "es-ES": "[Solicitud de Entrega de Cabello Largo]\nObjeto requerido : Cabello Largo 30\nRecompensa: Exp 35640"
+    },
+    "OwjxDQ": {
+        "en-US": "[Horseshoe Delivery Request]\nRequired Item : Horseshoe 30\nReward: Exp 36000",
+        "pt-BR": "[Pedido de Entrega de Ferradura]\nItem necessário : Ferradura 30\nRecompensa: Exp 36000",
+        "es-ES": "[Solicitud de Entrega de Herradura]\nObjeto requerido : Herradura 30\nRecompensa: Exp 36000"
+    },
+    "PAjxDQ": {
+        "en-US": "[Short Leg Delivery Request]\nRequired Item : Short Leg 30\nReward: Exp 48600",
+        "pt-BR": "[Pedido de Entrega de Perna Curta]\nItem necessário : Perna Curta 30\nRecompensa: Exp 48600",
+        "es-ES": "[Solicitud de Entrega de Pata Corta]\nObjeto requerido : Pata Corta 30\nRecompensa: Exp 48600"
+    },
+    "PQjxDQ": {
+        "en-US": "[Sand Clump Delivery Request]\nRequired Item : Sand Clump 30\nReward: Exp 62040",
+        "pt-BR": "[Pedido de Entrega de Torrão de Areia]\nItem necessário : Torrão de Areia 30\nRecompensa: Exp 62040",
+        "es-ES": "[Solicitud de Entrega de Montón de Arena]\nObjeto requerido : Montón de Arena 30\nRecompensa: Exp 62040"
+    },
+    "PgjxDQ": {
+        "en-US": "[Dry Sand Delivery Request]\nRequired Item : Dry Sand 30\nReward: Exp 72060",
+        "pt-BR": "[Pedido de Entrega de Areia Seca]\nItem necessário : Areia Seca 30\nRecompensa: Exp 72060",
+        "es-ES": "[Solicitud de Entrega de Arena Seca]\nObjeto requerido : Arena Seca 30\nRecompensa: Exp 72060"
+    },
+    "PwjxDQ": {
+        "en-US": "[Turtle Shell Delivery Request]\nRequired Item : Turtle Shell 30\nReward: Exp 78300",
+        "pt-BR": "[Pedido de Entrega de Casco de Tartaruga]\nItem necessário : Casco de Tartaruga 30\nRecompensa: Exp 78300",
+        "es-ES": "[Solicitud de Entrega de Caparazón de Tortuga]\nObjeto requerido : Caparazón de Tortuga 30\nRecompensa: Exp 78300"
+    },
+    "QAjxDQ": {
+        "en-US": "[Little Evil Horn Delivery Request]\nRequired Item : Little Evil Horn 30\nReward: Exp 108360",
+        "pt-BR": "[Pedido de Entrega de Chifre de Diabinho]\nItem necessário : Chifre de Diabinho 30\nRecompensa: Exp 108360",
+        "es-ES": "[Solicitud de Entrega de Cuerno de Diablillo]\nObjeto requerido : Cuerno de Diablillo 30\nRecompensa: Exp 108360"
+    },
+    "QQjxDQ": {
+        "en-US": "[Ice Heart Delivery Request]\nRequired Item : Ice Heart 30\nReward: Exp 116640",
+        "pt-BR": "[Pedido de Entrega de Coração de Gelo]\nItem necessário : Coração de Gelo 30\nRecompensa: Exp 116640",
+        "es-ES": "[Solicitud de Entrega de Corazón de Hielo]\nObjeto requerido : Corazón de Hielo 30\nRecompensa: Exp 116640"
+    },
+    "QgjxDQ": {
+        "en-US": "[Eden Group Logistics Officer]\nGoodbye.",
+        "pt-BR": "[Responsável pela Logística do Éden]\nAté mais.",
+        "es-ES": "[Encargado de Logística del Edén]\nHasta luego."
+    }
+}

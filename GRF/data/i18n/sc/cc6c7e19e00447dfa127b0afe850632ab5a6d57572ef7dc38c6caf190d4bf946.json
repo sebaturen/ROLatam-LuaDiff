@@ -1,32 +1,32 @@
 {
     "gFiEDA": {
         "en-US": "Flyer Part-timer",
-        "pt-BR": "Trabalho temporário de distribuição de panfletos",
+        "pt-BR": "Distribuidor de Panfletos",
         "es-ES": "Reparto de Folletos"
     },
     "gViEDA": {
         "en-US": "Urgent!!! Seeking highly skilled and physically fit minstrels! You there who caught my eye!",
-        "pt-BR": "Urgente!!! Menestréis com talento e boa saúde! Você aí que cruzou o olhar comigo!",
+        "pt-BR": "Extra, Extra!!! Menestréis talentosos! Ei, você aí!",
         "es-ES": "¡¡¡Se busca urgentemente!!! ¡Ministriles con gran talento y buena salud! ¡Tú, el que me ha mirado a los ojos!"
     },
     "gliEDA": {
         "en-US": "[Emo-ji]\nEr, you're... I've heard the news. By the way, what are you doing here? You want to perform with us? No. Next to you, we'll just look like a bunch of kindergarten teachers putting on a recital. Anyway...",
-        "pt-BR": "[Emo-ji]\nAh, você... Já ouvi falar de você. Mas por que veio aqui? Para se apresentar com a gente? Dá um tempo com isso... Se você se apresentar com a gente, vai parecer aqueles professores numa apresentação de fim de ano do jardim de infância, sabe? Falando nisso...",
+        "pt-BR": "[Imote]\nAh, você... Já ouvi falar de você. Mas por que veio aqui? Vai cantar com a gente? Dá um tempo... Se você se apresentar com a gente, vai parecer aqueles atletas profissionais correndo ao lado de crianças, sabe? Não é legal...",
         "es-ES": "[Emo-ji]\nEh, tú... He oído rumores. \nPero, ¿por qué has venido aquí? \n¿Para actuar con nosotros? \nEso no, por favor... \nSi actúas con nosotros, vas a parecer un maestro en una fiesta de fin de curso de preescolar, ¿no? \nPor cierto..."
     },
     "g1iEDA": {
         "en-US": "[Emo-ji]\nWow, you look awesome! Man, I'm so envious of you. I'd better practice harder.",
-        "pt-BR": "[Emo-ji]\nNossa, isso é realmente incrível. Estou com inveja, com muita inveja. Eu também preciso me esforçar.",
+        "pt-BR": "[Imote]\nNossa, você é realmente incrível. Estou com inveja, com muita inveja. Eu também preciso me esforçar.",
         "es-ES": "[Emo-ji]\nVaya, qué genial. \nMe da envidia, me da envidia. \nYo también tengo que esforzarme."
     },
     "hFiEDA": {
         "en-US": "[Emo-ji]\nHm... You look like a great Minstrel. It's a shame that you've never been to Valhalla. Because if you did, I would have picked you right this minute. Oh, well. Have a good day!",
-        "pt-BR": "[Emo-ji]\nHum... você é realmente incrível, né? Mas não sinto a energia de Valhalla... É uma pena, uma pena mesmo. Se você tivesse visitado Valhalla pelo menos uma vez, eu teria te escolhido na hora. É uma pena, mas não tem jeito. Tenha um ótimo dia!",
+        "pt-BR": "[Imote]\nHm... você é realmente incrível, né? Mas não sinto a energia de Valhalla... É uma pena, uma pena mesmo. Se você tivesse visitado Valhalla pelo menos uma vez, eu teria te escolhido na hora. É uma pena, mas não tem jeito. Tenha um ótimo dia!",
         "es-ES": "[Emo-ji]\nMmm... \n¿Eres un ministril realmente genial? \nPero no siento la energía de Valhalla... \nQué pena, qué pena. \nSi hubieras estado en Valhalla al menos una vez, te hubiéramos contratado de inmediato. \nEs una lástima, pero no hay nada que hacer. \n¡Que tengas un buen día!"
     },
     "hViEDA": {
         "en-US": "[Emo-ji]\nWhat a sha--",
-        "pt-BR": "[Emo-ji]\nÉ realmente uma pena...",
+        "pt-BR": "[Imote]\nÉ realmente uma pena...",
         "es-ES": "[Emo-ji]\nEs una verdadera lástima..."
     },
     "hliEDA": {
@@ -36,7 +36,7 @@
     },
     "h1iEDA": {
         "en-US": "[Emo-ji]\nWhat a shame, but...",
-        "pt-BR": "[Emo-ji]\nÉ realmente uma pena, mas...",
+        "pt-BR": "[Imote]\nÉ realmente uma pena, mas...",
         "es-ES": "[Emo-ji]\nEs una pena, pero..."
     },
     "iFiEDA": {
@@ -46,7 +46,7 @@
     },
     "iViEDA": {
         "en-US": "[Emo-ji]\nUm... who...?",
-        "pt-BR": "[Emo-ji]\nOi... quem é...?",
+        "pt-BR": "[Imote]\nOi... quem é...?",
         "es-ES": "[Emo-ji]\nOye... ¿quién...?"
     },
     "iliEDA": {
@@ -56,22 +56,22 @@
     },
     "i1iEDA": {
         "en-US": "[Emo-ji]\nA fantastic show that'll immediately captivate your eyes and ears! There's nothing like this anywhere else in Midgard! It is and will be a one-of-a-kind show!",
-        "pt-BR": "[Emo-ji]\nUm show fantástico que vai cativar os olhos e ouvidos de todos! Um show incrível que você não vê em nenhum outro lugar da imensa Midgard! Um show fantástico que nunca existiu antes e nunca mais existirá!",
+        "pt-BR": "[Imote]\nUm show fantástico que vai cativar os olhos e ouvidos de todos! Um show incrível que você não vê em nenhum outro lugar da imensa Midgard! Um show fantástico que nunca existiu antes e nunca mais existirá!",
         "es-ES": "[Emo-ji]\n¡Un espectáculo fantástico que cautivará tus ojos y oídos! \n¡Un espectáculo increíble que no se puede ver en ningún otro lugar del vasto Midgard! \n¡Un espectáculo fantástico que no ha habido antes ni habrá después!"
     },
     "jFiEDA": {
         "en-US": "[Emo-ji]\nHey. Come watch our show later, will you?",
-        "pt-BR": "[Emo-ji]\nE aí? Se tiver tempo mais tarde, venha dar uma olhada!",
+        "pt-BR": "[Imote]\nE aí? Se tiver tempo mais tarde, venha dar uma olhada!",
         "es-ES": "[Emo-ji]\n¿Hola? \n¡Si tienes tiempo más tarde, ven a echar un vistazo!"
     },
     "jViEDA": {
         "en-US": "[Emo-ji]\nTake a flyer... Oh, Minstrel?",
-        "pt-BR": "[Emo-ji]\nPegue um panfleto... Ah, você é musicista?",
+        "pt-BR": "[Imote]\nPegue um panfleto... Ah, você é um Trovador?",
         "es-ES": "[Emo-ji]\nToma un folleto... \nEh, ¿ministril?"
     },
     "jliEDA": {
         "en-US": "[Emo-ji]\nHm... You've got potential, don't you? Once you gain more experience, maybe you can join us for a performance.",
-        "pt-BR": "[Emo-ji]\nHum... Você parece ter potencial, novato? Quando tiver mais experiência, venha se apresentar com a gente.",
+        "pt-BR": "[Imote]\nHm... Você parece ter potencial, viu? Quando tiver mais experiência, venha se apresentar com a gente.",
         "es-ES": "[Emo-ji]\nMmm...\n¿Tú eres un brote con potencial? \nCuando hayas acumulado un poco más de experiencia, ven a actuar con nosotros."
     },
     "j1iEDA": {
@@ -86,47 +86,47 @@
     },
     "kViEDA": {
         "en-US": "[Emo-ji]\nHi. It's a wonderful day, isn't it? On a day like this, I can't help but miss Mom back at home.",
-        "pt-BR": "[Emo-ji]\nE aí? O tempo tá ótimo, né? Nesses dias, eu sempre penso na minha mãe, lá na minha terra.",
+        "pt-BR": "[Imote]\nE aí? O tempo tá ótimo, né? Nesses dias, eu sempre penso na minha mãe, lá na minha terra.",
         "es-ES": "[Emo-ji]\n¿Qué tal?\n¿No hace un día estupendo? \nA mí, en días como este, me acuerdo de mi mamá, que está en mi pueblo."
     },
     "kliEDA": {
         "en-US": "[Emo-ji]\nMom told me not to get involved with artists.",
-        "pt-BR": "[Emo-ji]\nMinha mãe sempre disse pra eu não me envolver com gente do mundo das artes.",
+        "pt-BR": "[Imote]\nMinha mãe sempre disse pra eu não me envolver com gente do mundo das artes.",
         "es-ES": "[Emo-ji]\nMi mamá me dijo que no saliera con gente del mundo del arte."
     },
     "k1iEDA": {
         "en-US": "[Emo-ji]\nI tried to consciously avoid people involved in the arts, but before I knew it, I'd become one myself.",
-        "pt-BR": "[Emo-ji]\nPor ter evitado conscientemente pessoas que trabalham com arte, sem perceber, acabei me tornando uma delas.",
+        "pt-BR": "[Imote]\nPor ter evitado pessoas que trabalham com arte, sem perceber, acabei me tornando uma delas.",
         "es-ES": "[Emo-ji]\nAl evitar conscientemente a las personas que se dedican al arte, sin darme cuenta me convertí en una de ellas."
     },
     "lFiEDA": {
         "en-US": "[Emo-ji]\nMaybe that's why I have no friends.",
-        "pt-BR": "[Emo-ji]\nSerá que é por isso que eu não tenho amigos?",
+        "pt-BR": "[Imote]\nSerá que é por isso que eu não tenho amigos?",
         "es-ES": "[Emo-ji]\n¿Será por eso? \nNo tengo amigos."
     },
     "lViEDA": {
         "en-US": "[Emo-ji]\nDon't look at me like that. I've got lots of acquaintances.",
-        "pt-BR": "[Emo-ji]\nNão me olhe assim. Tenho muitos colegas, sabe.",
+        "pt-BR": "[Imote]\nNão me olhe assim. Tenho muitos colegas, sabe?",
         "es-ES": "[Emo-ji]\nNo me mires así. \nTengo muchos compañeros."
     },
     "lliEDA": {
         "en-US": "[Emo-ji]\nIt's been quite entertaining, meeting souls just as lonely and desperate as I and sharing artistic passion with them. Heh heh.",
-        "pt-BR": "[Emo-ji]\nEncontrar outras almas solitárias e desesperadas para queimar nossa paixão pela arte... é bem divertido, sabe? Hehe.",
+        "pt-BR": "[Imote]\nEncontrar outras almas solitárias e desesperadas para queimar nossa paixão pela arte... é bem divertido, viu? Hehe.",
         "es-ES": "[Emo-ji]\nReunirnos entre almas solitarias y desesperadas para encender nuestra llama artística... la verdad es que es bastante divertido. Jeje."
     },
     "l1iEDA": {
         "en-US": "[Emo-ji]\nYou know how it is, right? When you've been playing for so long, you lose your sparkle and get stuck inside a worn-out shell, just playing mechanically. We're a bunch of people like that.",
-        "pt-BR": "[Emo-ji]\nVocê também deve saber disso, né? Que, depois de tocar por muito tempo, a gente perde o brilho e fica preso num vazio, tocando mecanicamente. É isso que acontece com essas pessoas.",
+        "pt-BR": "[Imote]\nVocê também deve saber disso, né? Que, depois de tocar por muito tempo, a gente perde o brilho e fica preso num vazio, tocando mecanicamente. É isso que acontece com essas pessoas.",
         "es-ES": "[Emo-ji]\n¿Tú también lo sabes, no? \nQue cuando tocas durante mucho tiempo, pierdes el brillo y terminas atrapado en un interior desgastado, tocando mecánicamente. \nEsos son los que se juntan."
     },
     "mFiEDA": {
         "en-US": "[Emo-ji]\nBut your dead eyes tell the same story. You're one of us.",
-        "pt-BR": "[Emo-ji]\nMas, o seu olhar sem vida está me dizendo a mesma coisa. Você também é assim.",
+        "pt-BR": "[Imote]\nMas, o seu olhar sem vida está me dizendo a mesma coisa. Você também é assim.",
         "es-ES": "[Emo-ji]\nPero tu mirada apagada cuenta la misma historia. \nTú también eres así."
     },
     "mViEDA": {
         "en-US": "[Emo-ji]\nCan't you hear your luster begging you to let it out?",
-        "pt-BR": "[Emo-ji]\nNão está ouvindo o seu brilho pedindo para ser libertado?",
+        "pt-BR": "[Imote]\nNão está ouvindo o seu brilho pedindo para ser libertado?",
         "es-ES": "[Emo-ji]\n¿No oyes cómo tu brillo te pide que lo saques?"
     },
     "mliEDA": {
@@ -141,12 +141,12 @@
     },
     "nFiEDA": {
         "en-US": "[Emo-ji]\nRight now, we're building a massive performance venue where Odin's Temple stands. Seeing it might change your mind.",
-        "pt-BR": "[Emo-ji]\nNeste momento, estamos construindo um grande palco no local onde fica o Templo de Odin. Se você vir isso, vai mudar de ideia, não é?",
+        "pt-BR": "[Imote]\nNeste momento, estamos construindo um grande palco no local onde fica o Templo de Odin. Se você for lá dar uma olhada, vai mudar de ideia, não é?",
         "es-ES": "[Emo-ji]\nPara nuestro escenario, estamos construyendo el auditorio más grande del mundo justo donde está el templo de Odín. \nSeguro que si lo ves, cambiarás de opinión."
     },
     "nViEDA": {
         "en-US": "[Emo-ji]\nOnly the greatest artists who have transcended their limits will get to perform on that stage. When we finish building it, we're going to recruit new band members. Why don't you go take a look at it?",
-        "pt-BR": "[Emo-ji]\nSó os melhores artistas, que superaram seus limites, poderão subir nesse palco. Quando estiver tudo pronto, vamos começar a recrutar membros de verdade. Que tal dar uma olhada antes disso?",
+        "pt-BR": "[Imote]\nSó os melhores artistas, que superaram seus limites, poderão subir nesse palco. Quando estiver tudo pronto, vamos começar a recrutar membros de verdade. Que tal dar uma olhada lá?",
         "es-ES": "[Emo-ji]\nSolo los mejores artistas, los que han superado sus límites, podrán subirse a ese escenario. \nCuando esté todo listo, empezaremos a reclutar miembros de verdad. ¿Qué tal si antes vas a echar un vistazo?"
     },
     "nliEDA": {
@@ -156,32 +156,32 @@
     },
     "n1iEDA": {
         "en-US": "I still need to prepare myself mentally.",
-        "pt-BR": "Ainda preciso me preparar mentalmente.",
+        "pt-BR": "Ainda preciso me preparar.",
         "es-ES": "Todavía necesito prepararme mentalmente."
     },
     "oFiEDA": {
         "en-US": "[Emo-ji]\nReally? Good thinking. If you see that venue, you'll know I wasn't lying. It could be a turning point!",
-        "pt-BR": "[Emo-ji]\nÉ mesmo? Boa ideia. Quando você vir aquele palco, vai perceber que o que eu disse não é mentira. Pode até fazer você mudar de ideia!",
+        "pt-BR": "[Imote]\nÉ mesmo? Boa ideia. Quando você der uma boa olhada naquele palco, vai perceber que o que eu disse não é mentira. Pode até fazer você mudar de ideia!",
         "es-ES": "[Emo-ji]\n¿Ah, sí? \nBuena idea. \nCuando veas ese teatro, te darás cuenta de que no miento. \n¡Quizá sea un punto de inflexión!"
     },
     "oViEDA": {
         "en-US": "[Emo-ji]\nThe performance venue is in the <NAVI>[north of Odin's Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> area. I'll guide you there. It should be easy to find. I really hope you'll join us.",
-        "pt-BR": "[Emo-ji]\nO palco fica na região <NAVI>[ao norte do Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Vou te guiar até lá. Vai ser fácil encontrar. Adoraria que você se tornasse nosso companheiro.",
+        "pt-BR": "[Imote]\nO palco fica na região norte do <NAVI>[Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Vou te dar um mapa pra lá. Vai ser fácil encontrar. Adoraria que você se tornasse nosso companheiro.",
         "es-ES": "[Emo-ji]\nEl teatro está en la zona <NAVI>[al norte del Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. \nTe lo voy a mostrar. Será fácil de encontrar. \nOjalá te conviertas en nuestro compañero."
     },
     "oliEDA": {
         "en-US": "[Emo-ji]\nYou're so reluctant. Well, it's up to you. But I know you'll come back. Just know that I'm waiting for you here.",
-        "pt-BR": "[Emo-ji]\nTá hesitando, né? Tudo bem. Todo mundo tem suas razões. Mas você com certeza vai voltar pra me procurar. Vou esperar por você.",
+        "pt-BR": "[Imote]\nTá hesitando, né? Tudo bem. Todo mundo tem suas razões. Mas você com certeza vai voltar pra me procurar. Vou esperar por você.",
         "es-ES": "[Emo-ji]\nVaya, estás dudando. \nBueno, cada uno tiene sus razones. \nPero seguro que volverás a buscarme. \nTe esperaré."
     },
     "o1iEDA": {
         "en-US": "[Emo-ji]\nHey, you look awkward...",
-        "pt-BR": "[Emo-ji]\nEi, você tá meio sem jeito...",
+        "pt-BR": "[Imote]\nEi, você tá meio sem jeito...",
         "es-ES": "[Emo-ji]\nOye, qué incómodo..."
     },
     "pFiEDA": {
         "en-US": "[Emo-ji]\nWhat? They haven't even built the stage yet? Oh no... That's bad. They've gathered a ton of people!",
-        "pt-BR": "[Emo-ji]\nO quê? Ainda nem começaram a construir o palco? Nossa... Que problema. Já reuniram um monte de gente!",
+        "pt-BR": "[Imote]\nO quê? Ainda nem começaram a construir o palco? Nossa... Que problema. Já reuniram um monte de gente!",
         "es-ES": "[Emo-ji]\n¿Qué? \n¿Ni siquiera han podido construir el teatro? \nVaya... qué lío. \n¡Y con tanta gente reunida!"
     },
     "pViEDA": {
@@ -191,7 +191,7 @@
     },
     "pliEDA": {
         "en-US": "I can feel an Emotion Piece from that person!",
-        "pt-BR": "Sinto a energia de um fragmento de emoção vindo dessa pessoa!",
+        "pt-BR": "Sinto algo diferente emanando dessa pessoa!",
         "es-ES": "¡Siento la energía de los fragmentos de emoción en esa persona!"
     },
     "p1iEDA": {
@@ -201,17 +201,17 @@
     },
     "qFiEDA": {
         "en-US": "[Follower]\nPraise Odin! Welcome to the Prontera Sanctuary!",
-        "pt-BR": "[Fiel]\nLouvado seja! Seja bem-vindo à Catedral de Prontera!",
+        "pt-BR": "[Fiel]\nQue Odin seja louvado! Boas-vindas à Catedral de Prontera!",
         "es-ES": "[Fiel]\n¡Alabado sea! \n¡Bienvenido a la Catedral de Prontera!"
     },
     "qViEDA": {
         "en-US": "You have an Emotion Piece...",
-        "pt-BR": "Você está com uma Peça de Emoção...",
+        "pt-BR": "Você tem um Fragmento de Emoção...?",
         "es-ES": "Tienes un fragmento de emoción..."
     },
     "qliEDA": {
         "en-US": "[Follower]\nMe? The adventurer's? I haven't taken anything, I didn't steal anything!",
-        "pt-BR": "[Fiel]\nEu? Ou o do viajante? Eu não tenho nada, não roubei nada!",
+        "pt-BR": "[Fiel]\nEu? O fragmento é seu? Eu não tenho nada, não roubei nada!",
         "es-ES": "[Fiel]\n¿Mío? \n¿El tuyo, trotamundos? \nYo no tengo nada, ¡no he robado nada!"
     },
     "q1iEDA": {
@@ -226,12 +226,12 @@
     },
     "rViEDA": {
         "en-US": "[Follower]\nAh! So Odin has led you here! This too is His will!",
-        "pt-BR": "[Fiel]\nAh! Então foi Odin quem trouxe você até aqui, viajante! Isso também é tudo vontade Dele!",
+        "pt-BR": "[Fiel]\nAh! Então foi Odin quem trouxe você até aqui, Aventureiro! Isso também é tudo vontade Dele!",
         "es-ES": "[Fiel]\n¡Ah! \n¡Entonces fue Odín quien te trajo hasta aquí, trotamundos!\n¡Todo esto también es voluntad suya!"
     },
     "rliEDA": {
         "en-US": "[Follower]\nThen what should I do? How can I help? I can't even see it.",
-        "pt-BR": "[Fiel]\nEntão, o que eu devo fazer? Como posso te ajudar? Eu nem consigo ver.",
+        "pt-BR": "[Fiel]\nEntão, o que eu devo fazer? Como posso te ajudar? Eu nem consigo ver o tal fragmento.",
         "es-ES": "[Fiel]\nEntonces, ¿qué debo hacer? \n¿Cómo te lo entrego? \nA mí ni siquiera se me ve."
     },
     "r1iEDA": {
@@ -261,7 +261,7 @@
     },
     "tFiEDA": {
         "en-US": "[Follower]\nI think I know why an Emotion Piece came to me.\nTo listen to my singing. I sing to God when I'm happy or even when I'm sad and tired.",
-        "pt-BR": "[Fiel]\nAcho que sei por que essa Peça de Emoção veio até aqui!\nDeve ter vindo em busca dessa música. Quando estamos felizes, cantamos com alegria; quando estamos tristes e em dificuldades, cantamos buscando forças para superar.",
+        "pt-BR": "[Fiel]\nAcho que sei por que esse Fragmento de Emoção veio até aqui!\nDeve ter vindo em busca dessa música. Quando estamos felizes, cantamos com alegria; quando estamos tristes e em dificuldades, cantamos buscando forças para superar.",
         "es-ES": "[Fiel]\n¡Creo que sé por qué ese pedacito de emoción vino aquí!\nSeguramente vino en busca de esa canción. \nCuando estás contento, cantas de alegría; cuando estás triste o pasas por un momento difícil, cantas pidiendo la fuerza para superarlo."
     },
     "tViEDA": {
@@ -276,32 +276,32 @@
     },
     "t1iEDA": {
         "en-US": "[Follower]\nIt can't be a coincidence that you came to me today. Odin has to have sent you to me. Thank you so much.",
-        "pt-BR": "[Fiel]\nParece que não foi por acaso que você veio aqui neste momento, viajante. É claro que foi Ele quem te guiou! Agradeço muito por isso.",
+        "pt-BR": "[Fiel]\nParece que não foi por acaso que você veio aqui neste momento, Aventureiro. É claro que foi Ele quem te guiou! Agradeço muito por isso.",
         "es-ES": "[Fiel]\nNo me parece una coincidencia que hayas venido en un momento como este, trotamundos. \n¡Está claro que fue Él quien te trajo! \nTe lo agradezco de verdad."
     },
     "uFiEDA": {
         "en-US": "[Follower]\nHuh...? Is this the Emotion Piece? Wow! It looks so beautiful! Oh, there's no time for this. You're in a hurry, aren't you? Where's your next destination?",
-        "pt-BR": "[Fiel]\nHã...? Essa é a Peça de Emoção? É realmente... linda. Ah, não é hora para isso! Você disse que precisamos nos apressar, não foi? Qual é o próximo destino?",
+        "pt-BR": "[Fiel]\nHã...? Esse é o Fragmento de Emoção? É realmente... lindo. Ah, não é hora para isso! Você disse que precisamos nos apressar, não foi? Qual é o próximo destino?",
         "es-ES": "[Fiel]\n¿Eh...? \n¿Esto es un fragmento de emoción? \nEs realmente... hermoso. \n¡Ah, no es momento para esto! \nDijiste que teníamos que darnos prisa, ¿no? \n¿Cuál es el próximo destino?"
     },
     "uViEDA": {
         "en-US": "I don't know either... I was just told it's a blue sound...",
-        "pt-BR": "Eu também não sei bem... Só sei que é um som azul...",
+        "pt-BR": "Não sei bem... Ouço um som de água...",
         "es-ES": "Yo tampoco sé muy bien... Solo sé que se llama «sonido azul»..."
     },
     "uliEDA": {
         "en-US": "[Follower]\nA blue sound? Like the sound of sea waves? You'd better check the sea. Let me think where you can hear the sound of sea waves...",
-        "pt-BR": "[Fiel]\nSom azul? Como das ondas? Não é o som que as ondas fazem quando quebram? Acho que você precisa ir para o mar. Se for um mar onde se ouve o som das ondas...",
+        "pt-BR": "[Fiel]\nSom de água? Como das ondas? Não é o som que as ondas fazem quando quebram? Acho que você precisa ir para o mar. Se for um mar onde se ouve o som das ondas...",
         "es-ES": "[Fiel]\n¿El sonido del azul? \n¿No es el sonido que hacen las olas cuando rompen? \nCreo que deberías ir al mar. \nSi es un mar donde se oye el sonido de las olas..."
     },
     "u1iEDA": {
         "en-US": "[Follower]\nEmotion Pieces... The sound of sea waves... I think I know. You should go to <NAVI>[Kokomo Beach]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. I'm not sure, but it seems like that place is calling you.",
-        "pt-BR": "[Fiel]\nPeça de emoção... Som das ondas... De repente me lembrei. Vá até a <NAVI>[Praia Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Não sei ao certo, mas parece que é para lá que o destino te aguarda.",
+        "pt-BR": "[Fiel]\nFragmento de Emoção... Som das ondas... De repente me lembrei. Vá até a <NAVI>[Praia de Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Não sei ao certo, mas parece que é para lá que o destino te aguarda.",
         "es-ES": "[Fiel]\nEl fragmento de emoción... el sonido de las olas... De repente se me ocurre algo. \nVe a <NAVI>[Playa de Cocomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. \nNo estoy muy seguro, pero parece que ese lugar te está guiando, trotamundos."
     },
     "vFiEDA": {
         "en-US": "[Follower]\nThis too must be His will. Now, may God bless you on your journey.",
-        "pt-BR": "[Fiel]\nIsso também deve ser a vontade daquele que trouxe você até aqui, viajante. Então, desejo boa sorte na sua jornada!",
+        "pt-BR": "[Fiel]\nIsso também deve ser a vontade daquele que trouxe você até aqui, Aventureiro. Então, desejo boa sorte na sua jornada!",
         "es-ES": "[Fiel]\nSeguramente esto también sea la voluntad de quien te trajo hasta aquí, trotamundos. \n¡Pues eso, te deseo mucha suerte en tu camino!"
     },
     "vViEDA": {
@@ -311,82 +311,82 @@
     },
     "vliEDA": {
         "en-US": "Follow the energy.",
-        "pt-BR": "Sigo a força.",
+        "pt-BR": "Deixar a força te levar.",
         "es-ES": "Sigo esa fuerza."
     },
     "v1iEDA": {
         "en-US": "Stay here.",
-        "pt-BR": "Fico por aqui.",
+        "pt-BR": "Ficar por aqui.",
         "es-ES": "Me quedo aquí."
     },
     "wFiEDA": {
         "en-US": "[Follower]\n<NAVI>[Kokomo Beach]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI> Try going there. I'm not sure, but it seems to be leading you, Adventurer.",
-        "pt-BR": "[Fiel]\n<NAVI>[Praia Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Não sei bem por quê, mas parece que esse lugar está te guiando, viajante.",
+        "pt-BR": "[Fiel]\nNão sei bem o por quê, mas parece que você deve ir para a <NAVI>[Praia de Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>.",
         "es-ES": "[Fiel]\nVe a <NAVI>[Playa de Cocomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. \nNo estoy muy seguro, pero parece que ese lugar te está guiando."
     },
     "wViEDA": {
         "en-US": "[Follower]\nAh~ Ahh~",
-        "pt-BR": "[Fiel]\nAh, ah.",
+        "pt-BR": "[Fiel]\nLá, lá lá~.",
         "es-ES": "[Fiel]\nAh, ah."
     },
     "wliEDA": {
         "en-US": "Waiting Statue",
-        "pt-BR": "Pedra da Esposa",
+        "pt-BR": "Estátua de Mulher",
         "es-ES": "La Roca de la Esposa"
     },
     "w1iEDA": {
         "en-US": "[Waiting Statue]\nSplash, splash. The sound of sea waves continues, ignoring my sorrow. Splash, splash.",
-        "pt-BR": "[Pedra da Esposa]\nSplash, splash. O som das ondas não para, quanta crueldade. Splash, splash.",
+        "pt-BR": "[Estátua de Mulher]\nLá lá lá~ O som das ondas não para, quanta crueldade... Lá lá lá~",
         "es-ES": "[La roca de la esposa]\n¡Chas, plas!—cruelmente, el sonido de las olas no se detiene—¡chas, plas!—"
     },
     "xFiEDA": {
         "en-US": "A piece of emotion is here...",
-        "pt-BR": "Uma Peça de Emoção está aqui...",
+        "pt-BR": "Um Fragmento de Emoção está aqui...",
         "es-ES": "Aquí hay un pedazo de emoción..."
     },
     "xViEDA": {
         "en-US": "[Waiting Statue]\n......",
-        "pt-BR": "[Pedra da Esposa]\n......",
+        "pt-BR": "[Estátua de Mulher]\n......",
         "es-ES": "[La Piedra de la Esposa]\n......"
     },
     "xliEDA": {
         "en-US": "[Waiting Statue]\n......\n.........",
-        "pt-BR": "[Pedra da Esposa]\n......\n.........",
+        "pt-BR": "[Estátua de Mulher]\n......\n.........",
         "es-ES": "[La roca de la esposa]\n......\n........."
     },
     "x1iEDA": {
         "en-US": "[Waiting Statue]\n......\n.........\n............",
-        "pt-BR": "[Pedra da Esposa]\n......\n.........\n............",
+        "pt-BR": "[Estátua de Mulher]\n......\n.........\n............",
         "es-ES": "[La roca de la esposa]\n......\n.........\n............"
     },
     "yFiEDA": {
         "en-US": "[Waiting Statue]\nSplash, splash. The sound of sea waves continues as usual. My darling, why aren't you coming home? Splash.",
-        "pt-BR": "[Pedra da Esposa]\nSplash, splash.\nHoje também o som das ondas é longo e interminável...\nPor que você, tão cruel, não dá notícias?\nSplash.",
+        "pt-BR": "[Estátua de Mulher]\nLá lá lá~\nHoje, mais uma vez, o som das ondas é longo e interminável...\nPor que você é tão cruel e não dá notícias?\nLá lá lá~",
         "es-ES": "[La Roca de la Esposa]\n¡Zas! \n¡Zas! \nHoy también el sonido de las olas es largo, largo... \n¿Por qué, cruel, hoy tampoco hay noticias tuyas? \n¡Zas!"
     },
     "yViEDA": {
         "en-US": "Excuse me...",
-        "pt-BR": "Olha lá...",
+        "pt-BR": "Com licença...",
         "es-ES": "Mira..."
     },
     "yliEDA": {
         "en-US": "[Waiting Statue]\nGlance- Hah...",
-        "pt-BR": "[Pedra da Esposa]\nOlhando de soslaio...",
+        "pt-BR": "[Estátua de Mulher]\nOlhando o...",
         "es-ES": "[La roca de la esposa]\nEcha un vistazo..."
     },
     "y1iEDA": {
         "en-US": "Excuse me...?",
-        "pt-BR": "Olá...?",
+        "pt-BR": "Oi...?",
         "es-ES": "¿Oye...?"
     },
     "zFiEDA": {
         "en-US": "[Waiting Statue]\nHaven't you seen someone before who's turned into a stone while waiting for the person they love? Even if you haven't, please leave me alone.",
-        "pt-BR": "[Pedra da Esposa]\nÉ a primeira vez que vê alguém que se transformou em pedra à espera de açguém que partiu para longe? Se não for, deixe-me em paz. E, mesmo que seja a primeira vez, deixe-me em paz.",
+        "pt-BR": "[Estátua de Mulher]\nÉ a primeira vez que você vê alguém se transformar em Pedra enquanto espera pela volta da pessoa amada? Se não, por favor, me deixe em paz; mesmo que seja a primeira vez, por favor, me deixe em paz.",
         "es-ES": "[La Roca de la Esposa]\n¿Es la primera vez que ves a alguien que se ha convertido en piedra esperando a quien se fue lejos? \nSi no es así, déjame en paz; y si es la primera vez, déjame en paz."
     },
     "zViEDA": {
         "en-US": "[Waiting Statue]\nBecause I can't hear the waves. I can't miss even one.",
-        "pt-BR": "[Pedra da Esposa]\nPorque não consigo ouvir o som das ondas. Não posso perder um sequer.",
+        "pt-BR": "[Estátua de Mulher]\nEu preciso ouvir o som das ondas. Não posso perder uma sequer.",
         "es-ES": "[La Roca de la Esposa]\nPorque no oigo el sonido de las olas. \nNo puedo perderme ni una sola."
     },
     "zliEDA": {
@@ -396,72 +396,72 @@
     },
     "z1iEDA": {
         "en-US": "[Waiting Statue]\nYes, the sea waves. They sound like a sad song. I must pay attention to them.",
-        "pt-BR": "[Pedra da Esposa]\nSim, o som das ondas. Um canto melancólico. Como nenhum som é igual a outro, nem por um único instante, preciso ouvir com atenção.",
+        "pt-BR": "[Estátua de Mulher]\nSim, o som das ondas. Um canto melancólico. Como nenhum som é igual a outro, nem por um único instante, preciso ouvir com atenção.",
         "es-ES": "[La Roca de la Esposa]\nSí, el sonido de las olas. \nUna melodía triste. Como nunca suena igual ni por un solo instante, hay que escucharlo con mucha atención."
     },
     "0FiEDA": {
         "en-US": "[Waiting Statue]\nWhether it's a storm, a swell, or a typhoon. All I can hear while waiting for the person who left for the sea to return safely is the distant sound of the waves.",
-        "pt-BR": "[Pedra da Esposa]\nSeja uma tempestade, ondas fortes ou um furacão. Enquanto espero que a pessoa que partiu para o mar volte em segurança, o único som que ouço é o de ondas distantes.",
+        "pt-BR": "[Estátua de Mulher]\nSeja uma tempestade, ondas fortes ou um furacão. Enquanto espero o retorno do meu amor, o único som que ouço é o de ondas distantes.",
         "es-ES": "[La roca de la esposa]\nYa sea una tormenta, un oleaje o un tifón. \nMientras espero que la persona que se fue al mar regrese sana y salva, lo único que escucho es el sonido de las olas lejanas."
     },
     "0ViEDA": {
         "en-US": "[Waiting Statue]\nThe sea isn't something we can control. Just praying and waiting. That's all we can do.",
-        "pt-BR": "[Pedra da Esposa]\nÁguas imponentes que a força humana não consegue controlar... Não há nada a fazer além de esperar, rezando pra que ele volte são e salvo.",
+        "pt-BR": "[Estátua de Mulher]\nÁguas imponentes que a força humana não consegue controlar... Não há nada a fazer além de esperar, rezando pra que ele volte são e salvo.",
         "es-ES": "[La roca de la esposa]\nEsas aguas gigantescas contra las que no podemos hacer nada... \nLo único que podemos hacer es esperar y rezar para que regresen sanos y salvos."
     },
     "0liEDA": {
         "en-US": "[Waiting Statue]\nFor the person I love to find his way back home without help from a lighthouse, I must keep singing. More loudly than the sea waves.",
-        "pt-BR": "[Pedra da Esposa]\nPara que essa pessoa encontre este lugar sem a ajuda de um farol, eu preciso continuar cantando. Uma canção ainda mais forte que as ondas.",
+        "pt-BR": "[Estátua de Mulher]\nPara que essa pessoa encontre este lugar sem a ajuda de um farol, eu preciso continuar cantando. Uma canção ainda mais forte que as ondas.",
         "es-ES": "[La roca de la esposa]\nPara que la persona que se fue pueda encontrar este lugar sin faro, tengo que seguir cantando. \nUna canción que no se acalle ni siquiera con las olas."
     },
     "01iEDA": {
         "en-US": "[Waiting Statue]\nThis is the song of waves, and to me, it is the song of waiting. While waiting endlessly for someone who may or may not return, I've been having all kinds of emotions. Resignation, anxiety, regret...",
-        "pt-BR": "[Pedra da Esposa]\nEssa é a canção das ondas e, para mim, a canção da espera. Ao esperar sem fim por alguém que não se sabe quando e se irá retornar, o que se sente é resignação, ansiedade, saudade...",
+        "pt-BR": "[Estátua de Mulher]\nEssa é a canção das ondas e, para mim, a canção da espera. Ao esperar sem fim por alguém que não se sabe quando e se irá retornar, o que se sente é resignação, ansiedade, saudade...",
         "es-ES": "[La Roca de la Esposa]\nEsta es la canción de las olas, y para mí es la canción de la espera. \nLo único que se siente al esperar sin fin a alguien sin fecha de regreso es resignación, ansiedad, nostalgia..."
     },
     "1FiEDA": {
         "en-US": "But you still have hope.",
-        "pt-BR": "Mas você ainda possui esperanças.",
+        "pt-BR": "E você ainda tem esperança.",
         "es-ES": "Pero aún hay esperanza."
     },
     "1ViEDA": {
         "en-US": "[Waiting Statue]\nHope... Hope...? Yes! That's right! That's what it was! Even though I'm disappointed every day that the person doesn't come back, I still come here to wait day after day because I still have hope!",
-        "pt-BR": "[Pedra da Esposa]\nEsperança... esperança...? É isso mesmo! Eu tenho isso! Mesmo ficando desapontada com a pessoa que não volta até hoje, eu venho aqui todos os dias para esperar porque tenho esperança!",
+        "pt-BR": "[Estátua de Mulher]\nEsperança... esperança...? É isso mesmo! Eu tenho isso! Mesmo desapontada pelo meu amor não ter voltado, eu venho aqui todos os dias para esperar porque tenho esperança!",
         "es-ES": "[La Roca de la Esposa]\n¿Esperanza...? \n¿Esperanza...? \n¡Sí! \n¡Eso es! \nAunque me decepcione que esa persona no regrese hoy, salgo a este lugar todos los días a esperar porque tengo esperanza."
     },
     "1liEDA": {
         "en-US": "[Waiting Statue]\nHe'll come today, or tomorrow at the latest! That's right. I thought he might have lost his way and been swallowed by the waves, and I resigned myself to it. But if that were true, I wouldn't have come here!",
-        "pt-BR": "[Pedra da Esposa]\nHoje ele vai chegar, amanhã ele vai chegar! É isso mesmo. Eu já tinha desistido, achando que ele tinha se perdido e sido engolido pelas ondas, mas se fosse assim, eu não teria vindo aqui!",
+        "pt-BR": "[Estátua de Mulher]\nHoje ele vai chegar, amanhã ele vai chegar! É isso mesmo. Eu já tinha desistido, achando que ele tinha se perdido e sido engolido pelas ondas, mas se fosse assim, eu não teria vindo aqui!",
         "es-ES": "[La Roca de la Esposa]\n¡Hoy vendrá, o tal vez mañana! \nSí. \nYa me había resignado pensando que esa persona se había perdido y que las olas se la habían tragado, pero si fuera así, ¡no habría venido aquí!"
     },
     "11iEDA": {
         "en-US": "[Waiting Statue]\nYes, that's why I'm still waiting!",
-        "pt-BR": "[Pedra da Esposa]\nÉ isso mesmo. Eu estava esperando!!!",
+        "pt-BR": "[Estátua de Mulher]\nÉ isso mesmo. Eu estava esperando!!!",
         "es-ES": "[La Roca de la Esposa]\n¡Así es! \n¡Estaba esperando!!!"
     },
     "2FiEDA": {
         "en-US": "[Waiting Statue]\nThis way! This way!♩ Don't get lost, come to me Splash! Don't forget, come to me Splash, splash!",
-        "pt-BR": "[Pedra da Esposa]\nÉ aqui! É por aqui!♩ Não se perca e venha me encontrar! Splash! Não se esqueça de mim e venha me encontrar! Splash, splash!",
+        "pt-BR": "[Estátua de Mulher]\nÉ aqui! É por aqui! Não se perca e venha me encontrar! Lá lá lá~! Não se esqueça de mim e venha me encontrar! Lá lá lá~!",
         "es-ES": "[La Roca de la Esposa]\n¡Es aquí Por aquí♩\nNo te pierdas y ven a buscarme Chap- \nNo te olvides y ven a buscarme Chap- Chap-"
     },
     "2ViEDA": {
         "en-US": "[Waiting Statue]\nTomorrow, I'll come back here to sing, so he'll hear me and come home!",
-        "pt-BR": "[Pedra da Esposa]\nAmanhã vou voltar aqui e cantar, esperando ele retornar. Espero que ele ouça minha música, não se perca e venha me encontrar!",
+        "pt-BR": "[Estátua de Mulher]\nAmanhã vou voltar aqui e cantar, esperando ele retornar. Espero que ele ouça minha música, não se perca e venha me encontrar!",
         "es-ES": "[La Piedra de la Esposa]\nMañana volveré a salir aquí y cantaré mientras espero que regreses. ¡Ojalá escuches mi canto y vengas a buscarme sin perderte...!"
     },
     "2liEDA": {
         "en-US": "[Waiting Person]\nBy the way, who are you? You look like a wandering minstrel. Are you also waiting for someone?",
-        "pt-BR": "[Pedra da Esposa]\nMas quem é você? Você parece um menestrel errante. Você também está esperando por alguém?",
+        "pt-BR": "[Estátua de Mulher]\nMas quem é você? Você parece um Trovador. Está esperando por alguém?",
         "es-ES": "[La persona que espera]\nPero, ¿quién eres? \nPareces un trovador errante. \n¿Tú también estás esperando a alguien?"
     },
     "21iEDA": {
         "en-US": "- I briefly told her about the Emotion Pieces and the ancient temple. -",
-        "pt-BR": "- Contei brevemente sobre as Peças de Emoção e do antigo templo. -",
+        "pt-BR": "- Contei brevemente sobre os Fragmentos de Emoção e do templo. -",
         "es-ES": "- Conté brevemente la historia de la escultura conmovedora y del antiguo templo. -"
     },
     "3FiEDA": {
         "en-US": "[Waiting Person]\nYou're burdened with such an important task. Is there anything I can do to help? I'd love to repay you.",
-        "pt-BR": "[Pedra da Esposa]\nVocê carrega um fardo pesado. Posso ajudar? Também quero retribuir.",
+        "pt-BR": "[Estátua de Mulher]\nVocê carrega um fardo pesado. Posso ajudar? Também quero retribuir.",
         "es-ES": "[La persona que espera]\nLlevas una carga pesada. \n¿Puedo ayudarte? \nYo también quiero devolver el favor."
     },
     "3ViEDA": {
@@ -471,12 +471,12 @@
     },
     "3liEDA": {
         "en-US": "[Waiting Person]\nThe sound of the beginning...? Hmm... You don't mean the sound when the world began, do you? That would be far too long ago. The moment sound is born...",
-        "pt-BR": "[Pedra da Esposa]\nO som do início dos tempos...? Hum... Não tá falando do som de quando o mundo começou, né? Isso foi há muito tempo. O momento em que o som nasceu...",
+        "pt-BR": "[Estátua de Mulher]\nO som do início dos tempos...? Hã... Não tá falando do som de quando o mundo começou, né? Isso foi há muito tempo. O momento em que o som nasceu...",
         "es-ES": "[La persona que espera]\n¿El sonido del principio...? \nMmm... \nNo te refieres al sonido de cuando empezó el mundo, ¿verdad? \nEso fue hace demasiado tiempo. \nEl momento en que nace el sonido..."
     },
     "31iEDA": {
         "en-US": "[Waiting Person]\nWhere did you begin your career?",
-        "pt-BR": "[Pedra da Esposa]\nOnde você iniciou sua jornada?",
+        "pt-BR": "[Estátua de Mulher]\nOnde você iniciou sua jornada?",
         "es-ES": "[La persona que espera]\n¿Dónde conseguiste tu primer trabajo?"
     },
     "4FiEDA": {
@@ -486,17 +486,17 @@
     },
     "4ViEDA": {
         "en-US": "[Waiting Person]\nThen, you should go <NAVI>[there]<INFO>payon,62,157,0,101,0</INFO></NAVI>. I think that's where you'll find the answer. I can hear a voice waiting for you.",
-        "pt-BR": "[Pedra da Esposa]\nEntão, acho que você vai conseguir a resposta <NAVI>[naquele local]<INFO>payon,62,157,0,101,0</INFO></NAVI>. Eu ouço o som de alguém que está esperando por você.",
+        "pt-BR": "[Estátua de Mulher]\nEntão, acho que você vai conseguir a resposta <NAVI>[nesse lugar]<INFO>payon,62,157,0,101,0</INFO></NAVI>. Eu ouço o som de alguém que está esperando por você.",
         "es-ES": "[La persona que espera]\nEntonces, creo que podrás encontrar la respuesta en <NAVI>[ese lugar]<INFO>payon,62,157,0,101,0</INFO></NAVI>. \nMe parece que oigo un sonido que te está esperando."
     },
     "4liEDA": {
         "en-US": "[Waiting Statue]\nGo to <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. You'll find the answer there.",
-        "pt-BR": "[Pedra da Esposa]\nVá até <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. Acho que lá você vai encontrar a resposta.",
+        "pt-BR": "[Estátua de Mulher]\nVá até <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. Acho que lá você vai encontrar a resposta.",
         "es-ES": "[La Roca de la Esposa]\nVe a <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. \nCreo que ahí encontrarás la respuesta."
     },
     "41iEDA": {
         "en-US": "[Waiting Statue]\nThis way, this way. Come to me, don't get lost. Splash! Come to me, never forget. Splash, splash!",
-        "pt-BR": "[Pedra da Esposa]\nÉ aqui! É por aqui!♩ Não se perca e venha me encontrar! Splash! Não se esqueça de mim e venha me encontrar! Splash, splash!",
+        "pt-BR": "[Estátua de Mulher]\nÉ aqui! É por aqui! Não se perca e venha me encontrar! Lá lá lá~! Não se esqueça de mim e venha me encontrar! Lá lá lá~!",
         "es-ES": "[Mangbuseok]\nEs aquí. \nPor aquí. \nNo te pierdas y ven a buscarme. \n¡Chas! \nNo te olvides y ven a buscarme. \n¡Chas! ¡Chas!"
     },
     "5FiEDA": {
@@ -506,12 +506,12 @@
     },
     "5ViEDA": {
         "en-US": "[Singer]\nAh! Aaaaaah~~~ Aaargh!!!! Cough, cough!",
-        "pt-BR": "[Cantora]\nAh! Aaaaaaa~~~ Aaaargh!!!! Hah!",
+        "pt-BR": "[Cantora]\nLá LÁ LÁA! ÁÁÁaaaa~~~ Aaaargh!!!! *cof cof*!",
         "es-ES": "[Cantante]\n¡Ah! \n¡Aaaaaaa~~~ \n¡Aaaarg!!!! \n¡Jajaja!"
     },
     "5liEDA": {
         "en-US": "[Singer]\nWhy again! It was going well, why isn't it working again! I guess no matter how much I practice, it just won't work. Now it's my turn to enter this grave.",
-        "pt-BR": "[Cantora]\nPor que de novo! Tava indo tão bem, por que de novo não deu certo! Parece que, por mais que eu pratique, não consigo. Agora é a minha vez de entrar nesse túmulo.",
+        "pt-BR": "[Cantora]\nDe novo! Tava indo tão bem! Por que não deu certo?! Parece que, por mais que eu pratique, não consigo. Eu devia me enterrar nesse túmulo.",
         "es-ES": "[Cantante]\n¡¿Por qué otra vez?! \n¡Iba bien y ahora no sale! \nParece que por más que practique, no me sale. \nAhora me toca a mí entrar en esta tumba."
     },
     "51iEDA": {
@@ -521,7 +521,7 @@
     },
     "6FiEDA": {
         "en-US": "[Singer]\nAh, just by looking at you, I can tell you're a master with extraordinary skill! Since you're a minstrel, would you mind playing something for me?",
-        "pt-BR": "[Cantora]\nAh, dá pra ver logo que você é um artista com habilidades extraordinárias! Já que você é um menestrel, não tocaria um pouco pra mim?",
+        "pt-BR": "[Cantora]\nAh, dá pra ver logo de cara que você é um artista com habilidades extraordinárias! Já que você é um Trovador, não tocaria uma música pra mim?",
         "es-ES": "[Cantante]\n¡Ah, se nota a simple vista que eres un maestro con un nivel más que normal! \nComo eres un trovador, ¿no te gustaría tocar algo?"
     },
     "6ViEDA": {
@@ -536,7 +536,7 @@
     },
     "61iEDA": {
         "en-US": "[Singer]\nYes. The ability to wield one's voice freely. Reaching that level of mastery. My master had attained that level of mastery.",
-        "pt-BR": "[Cantora]\nSim. A habilidade de controlar a voz com total liberdade. É chegar a um nível superior. Meu mestre era alguém que havia alcançado esse nível de domínio da voz.",
+        "pt-BR": "[Cantora]\nSim. A habilidade de controlar a voz com total liberdade. É chegar a um nível superior. Meu professor era alguém que havia alcançado esse nível de domínio da voz.",
         "es-ES": "[Cantante]\nSí. \nMe refiero a la habilidad de manejar la voz con total libertad. \nEs decir, alcanzar ese nivel de maestría. \nMi maestro había alcanzado el nivel de la voz perfecta."
     },
     "7FiEDA": {
@@ -561,17 +561,17 @@
     },
     "8FiEDA": {
         "en-US": "Let me play some music for you.",
-        "pt-BR": "Vou tocar para você.",
+        "pt-BR": "Vou tocar uma música para você.",
         "es-ES": "Te voy a tocar algo."
     },
     "8ViEDA": {
         "en-US": "Listen to what your heart tells you",
-        "pt-BR": "Preste atenção ao som do coração",
+        "pt-BR": "~Ouça... O som do seu coraçãooo~",
         "es-ES": "Escuchar la voz del corazón"
     },
     "8liEDA": {
         "en-US": "[Singer]\nSound can only be erased by another sound. But sometimes silence overwhelms even the loudest noise.\nYes, my master also said something similar.",
-        "pt-BR": "[Cantora]\nO som pode ser sobreposto por outro som. Mas, às vezes, o silêncio pode sobrepor até o mais alto dos sons...\nÉ isso mesmo. O mestre também disse algo parecido.",
+        "pt-BR": "[Cantora]\nO som pode ser sobreposto por outro som. Mas, às vezes, o silêncio pode sobrepor até o mais alto dos sons...\nÉ isso mesmo. O professor também disse algo parecido.",
         "es-ES": "[Cantante]\nEl sonido se cubre con sonido. \nPero a veces, el vacío puede cubrir todos los sonidos...\nSí. \nMi maestro también dijo algo parecido."
     },
     "81iEDA": {
@@ -581,12 +581,12 @@
     },
     "9FiEDA": {
         "en-US": "[Singer]\nAh~ Aaaaaah~~~",
-        "pt-BR": "[Cantora]\nAh~ Aaaaaaa~~~",
+        "pt-BR": "[Cantora]\nLá lá~ Lá lááá~~~",
         "es-ES": "[Cantante]\nAh~ Aaaaaaa~~~"
     },
     "9ViEDA": {
         "en-US": "[Singer]\nAh-- - - Aaah ---- -- - - Aaaah - -- -",
-        "pt-BR": "[Cantora]\nAh-- - - Ah ---- -- - - Aaaaa - -- -",
+        "pt-BR": "[Cantora]\nLá-- - - LÁ ---- -- - - LÁÁÁÁÁÁÁÁÁÁÁÁ - -- -",
         "es-ES": "[Cantante]\nAh-- - - \nAh ---- -- - - \nAaaaa - -- -"
     },
     "9liEDA": {
@@ -596,22 +596,22 @@
     },
     "91iEDA": {
         "en-US": "[Singer]\nMaster! I've become a singer I'm no longer ashamed of. Master, I'm coming to be by your side now.",
-        "pt-BR": "[Cantora]\nMestre! Agora me tornei uma cantora da qual não sinto mais vergonha. Mestre, estou indo para ficar ao seu lado.",
+        "pt-BR": "[Cantora]\nProfessor! Agora me tornei uma cantora da qual não sinto mais vergonha. Ah professor, estou indo para ficar ao seu lado.",
         "es-ES": "[Cantante]\n¡Maestro! \nAhora también me he convertido en un cantante del que no me avergüenzo. \nMaestro, ahora voy a ir a tu lado."
     },
     "+FiEDA": {
         "en-US": "Huh? Die, die...?",
-        "pt-BR": "O quê? Morrer, você vai morrer...?",
+        "pt-BR": "Ao lado dele? Tipo, morrer? Você vai se m...?",
         "es-ES": "¿Eh? ¿Te vas a... a morir...?"
     },
     "+ViEDA": {
         "en-US": "[Singer]\nWhy would I die? Now that I've mastered my voice, I want to perform with my master without shame. Ah, are you talking about this grave?",
-        "pt-BR": "[Cantora]\nPor que morrer? Já que dominei a minha voz, tenho que me apresentar com o mestre sem me envergonhar. Ah, será que é por causa do túmulo...?",
+        "pt-BR": "[Cantora]\nHã? Não! Já que dominei a minha voz, tenho que me apresentar com o mestre sem me envergonhar. Ah, será que é por causa do túmulo do meu lado...?",
         "es-ES": "[Cantante]\n¿Por qué te vas a morir? \nYa que he encontrado mi voz, tengo que actuar contigo como cantante sin avergonzarme ante nadie. \nAh, ¿acaso es por la tumba...?"
     },
     "+liEDA": {
         "en-US": "[Singer]\nI just dug it as a way of reminding myself I should do it or die. As a symbolic gesture, you know.",
-        "pt-BR": "[Cantora]\nIsso é só porque eu vim aqui com a determinação de que eu deveria conseguir ou morrer tentando... Nossa, você não entende nada de romantismo.",
+        "pt-BR": "[Cantora]\nSó estou aqui porque minha voz era um caso de vida ou morte...! Nossa, você não entende nada de romantismo!",
         "es-ES": "[Cantante]\nEso es solo que yo estaba aquí con la determinación de morir... con la idea de que si no conseguía el sonido, me metería en esta tumba. \nVaya, no entiendes nada de romanticismo."
     },
     "+1iEDA": {
@@ -621,7 +621,7 @@
     },
     "/FiEDA": {
         "en-US": "- I briefly recounted the story of the Piece of Emotion and the ancient temple. -",
-        "pt-BR": "- Contei brevemente a história sobre a Peça de Emoção e o antigo templo. -",
+        "pt-BR": "- Contei brevemente a história sobre o Fragmento de Emoção e o templo. -",
         "es-ES": "- Me contó brevemente la historia de la escultura conmovedora y el antiguo templo. -"
     },
     "/ViEDA": {
@@ -641,17 +641,17 @@
     },
     "AFmEDA": {
         "en-US": "I've obtained all the Emotion Pieces I need.",
-        "pt-BR": "Consegui todas as Peças de Emoção.",
+        "pt-BR": "Consegui todas os Fragmentos de Emoção.",
         "es-ES": "Ya conseguí todos los fragmentos de emoción."
     },
     "AVmEDA": {
         "en-US": "I should go back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> now.",
-        "pt-BR": "Agora preciso voltar para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "pt-BR": "Agora preciso voltar para a <NAVI>[Historiadora]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "es-ES": "Ahora tengo que volver con <NAVI>[historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "AlmEDA": {
         "en-US": "Now, I should go get the rest of Inspiration Pieces.",
-        "pt-BR": "Agora preciso ir buscar o resto das Peças de Inspiração.",
+        "pt-BR": "Agora preciso ir buscar os Fragmentos de Inspiração.",
         "es-ES": "Ahora tengo que ir a conseguir el resto de los fragmentos de inspiración."
     },
     "A1mEDA": {
@@ -661,12 +661,12 @@
     },
     "BFmEDA": {
         "en-US": "[Singer]\nAah, aaaah! Now, I can manipulate my voice to sound like anything I want! I'm the master of my own voice!",
-        "pt-BR": "[Cantora]\nAaaah...! Agora posso emitir qualquer som que quiser! Isso significa que posso ser o que eu quiser!",
+        "pt-BR": "[Cantora]\nLálálá...~! Agora posso emitir qualquer som que quiser! Isso significa que posso ser o que eu quiser!",
         "es-ES": "[Cantante]\n¡Aaaah~~ \n¡Ahora puedo hacer cualquier sonido que quiera! \n¡Es el sonido de que puedo ser lo que sea!"
     },
     "BVmEDA": {
         "en-US": "Small Piece",
-        "pt-BR": "Pequeno fragmento",
+        "pt-BR": "Pequeno Fragmento",
         "es-ES": "Pequeño Fragmento"
     },
     "BlmEDA": {
@@ -676,7 +676,7 @@
     },
     "B1mEDA": {
         "en-US": "^0000CDI should hunt ^000000Shadow monsters at Level 105 or above^000000 to fill it with dark energy.",
-        "pt-BR": "^0000CDPreciso derrotar monstros sombrios de nível 105 ou mais^000000 para encher de energia sombria.",
+        "pt-BR": "^0000CDDerrote monstros de propriedade Sombrio de nível 105 ou mais^000000 para encher o fragmento com energia sombria.",
         "es-ES": "^0000CDTengo que cazar un monstruo de la oscuridad de nivel 105 o más^000000 para llenarme de energía oscura."
     },
     "CFmEDA": {
@@ -686,17 +686,17 @@
     },
     "CVmEDA": {
         "en-US": "I should hunt Shadow monsters at Level 105 or above to fill it with dark energy.",
-        "pt-BR": "Preciso derrotar monstros sombrios de nível 105 ou mais para encher de energia sombria.",
+        "pt-BR": "Preciso derrotar monstros Sombrios de nível 105 ou mais.",
         "es-ES": "Tengo que cazar un monstruo de la oscuridad de nivel 105 o más para llenarlo de energía oscura."
     },
     "ClmEDA": {
         "en-US": "As I fill the piece with dark energy and turn it into a crystal, I hold it in my hand and feel something <NAVI>[burning]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> fiercely envelop my body.",
-        "pt-BR": "Assim que enchi de energia sombria, o fragmento se cristalizou. Ao segurar o cristal na mão, senti como se um som <NAVI>[ardente]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> envolvesse todo o meu corpo.",
+        "pt-BR": "Assim que encheu o fragmento com a energia sombria, ele se cristalizou. Ao segurar o cristal na mão, você ouve um som <NAVI>[ardente]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI>",
         "es-ES": "Al llenarlo de energía oscura, el fragmento se cristalizó. Al tomar el cristal en mis manos, siento que algo <NAVI>[ardiente]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> me envuelve el cuerpo con un sonido feroz."
     },
     "C1mEDA": {
         "en-US": "Follow the sound.",
-        "pt-BR": "Vou seguir o som.",
+        "pt-BR": "Seguir o som.",
         "es-ES": "Voy siguiendo el sonido."
     },
     "DFmEDA": {
@@ -706,17 +706,17 @@
     },
     "DVmEDA": {
         "en-US": "^0000CDI should hunt ^000000Fire monsters at Level 130 or above^0000CD to fill it with fiery energy.",
-        "pt-BR": "^0000CDPreciso derrotar monstros de fogo de nível 130 ou mais^000000 para encher de energia de fogo.",
+        "pt-BR": "^0000CDDerrote monstros de propriedade Fogo de nível 130 ou mais^000000 para encher o fragmento com energia de fogo.",
         "es-ES": "^0000CDTengo que derrotar a un monstruo de fuego de nivel 130 o más^000000 para llenarme de energía de fuego."
     },
     "DlmEDA": {
         "en-US": "I should hunt Fire monsters at Level 130 or above to fill it with fiery energy.",
-        "pt-BR": "Preciso derrotar monstros de fogo de nível 130 ou mais para encher de energia de fogo.",
+        "pt-BR": "Preciso derrotar monstros de Fogo de nível 130 ou mais.",
         "es-ES": "Tengo que cazar monstruos de fuego de nivel 130 o más para llenar la energía de fuego."
     },
     "D1mEDA": {
         "en-US": "As I fill the piece with fiery energy and turn it into a crystal, a <NAVI>[mysterious]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> sound envelops my body.",
-        "pt-BR": "Ao encher com a energia do fogo, o fragmento se cristalizou. Ao segurar o cristal em minha mão, um som <NAVI>[misterioso]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> envolveu todo o meu corpo.",
+        "pt-BR": "Assim que encheu o fragmento com a energia do fogo, ele se cristalizou. Ao segurar o cristal na mão, você ouve um som <NAVI>[misterioso]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI>",
         "es-ES": "Al llenar la energía de fuego, el fragmento se cristalizó. Al tomar el cristal en la mano, <NAVI>[Místico]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> siento como si un sonido me envolviera."
     },
     "EFmEDA": {
@@ -726,37 +726,37 @@
     },
     "EVmEDA": {
         "en-US": "^0000CDI should hunt ^000000Dragon monsters at Level 180 or above^0000CD to fill it with draconic energy.",
-        "pt-BR": "^0000CDPreciso derrotar monstros da raça dragão de nível 180 ou mais^000000 para encher de energia dracônica.",
+        "pt-BR": "^0000CDDerrote monstros da raça Dragão de nível 180 ou mais^000000 para encher o fragmento de energia dracônica.",
         "es-ES": "^0000CDDebes derrotar a un monstruo de la raza de los dragones de nivel 180 o más^000000 para llenarte de energía de dragón."
     },
     "ElmEDA": {
         "en-US": "I should hunt Dragon monsters at Level 180 or above to fill it with draconic energy.",
-        "pt-BR": "Preciso derrotar monstros da raça dragão de nível 180 ou mais para encher de energia dracônica.",
+        "pt-BR": "Preciso derrotar Dragões de nível 180 ou mais.",
         "es-ES": "Tengo que cazar monstruos de la raza de los dragones de nivel 180 o más para llenar la energía del dragón."
     },
     "E1mEDA": {
         "en-US": "Fill it with draconic energy and turn it into a crystal.",
-        "pt-BR": "Ao encher de energia dracônica, o fragmento se cristalizou.",
+        "pt-BR": "Assim que encheu o fragmento com a energia dracônica, ele se cristalizou.",
         "es-ES": "Al recargar la energía del dragón, la escultura se cristalizó."
     },
     "FFmEDA": {
         "en-US": "<NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>",
-        "pt-BR": "<NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Vamos voltar logo para lá.",
+        "pt-BR": "Vamos voltar a falar com a <NAVI>[Historiadora]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>",
         "es-ES": "<NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "FVmEDA": {
         "en-US": "I should go get the rest of the Emotion Pieces.",
-        "pt-BR": "Preciso ir buscar as demais Peças de Emoção.",
+        "pt-BR": "Preciso buscar mais Fragmentos de Emoção.",
         "es-ES": "Tengo que ir a conseguir el resto de los fragmentos de emoción."
     },
     "FlmEDA": {
         "en-US": "I have no more business here. I should hurry back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
-        "pt-BR": "Não há mais nada para ver aqui. Vamos voltar logo para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "pt-BR": "Não há mais nada para ver aqui. Vamos voltar logo para a <NAVI>[Historiadora]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "es-ES": "Ya no hay nada más que ver aquí. Regresemos rápido con <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "F1mEDA": {
         "en-US": "There's nothing more for me to see here. I should go get the rest of the Emotion Pieces.",
-        "pt-BR": "Não há mais nada para ver aqui. Preciso ir buscar as demais Peças de Emoção.",
+        "pt-BR": "Não há mais nada para ver aqui. Preciso buscar mais Fragmentos de Emoção.",
         "es-ES": "Ya no hay nada más que ver aquí. Tengo que ir a conseguir el resto de los fragmentos de emoción."
     }
 }

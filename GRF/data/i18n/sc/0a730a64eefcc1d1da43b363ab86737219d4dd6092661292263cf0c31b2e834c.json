@@ -1,0 +1,1437 @@
+{
+    "gLrBDQ": {
+        "en-US": "Time Machine RUF-10",
+        "pt-BR": "Temporalizador RUF-10",
+        "es-ES": "Temporizador RUF-10"
+    },
+    "gbrBDQ": {
+        "en-US": "- You have too many items in your inventory to proceed. -",
+        "pt-BR": "- Por favor, reorganize seu inventário. -",
+        "es-ES": "- Por favor, reorganicen su inventario. -"
+    },
+    "grrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select what you wish to do.",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione a opção desejada.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione la opción deseada."
+    },
+    "g7rBDQ": {
+        "en-US": "About the Event.",
+        "pt-BR": "Sobre o Evento.",
+        "es-ES": "Acerca del Evento."
+    },
+    "hLrBDQ": {
+        "en-US": "Exchange for Circlet of Time",
+        "pt-BR": "Trocar por Diadema Temporal",
+        "es-ES": "Intercambiar por Diadema Temporal"
+    },
+    "hbrBDQ": {
+        "en-US": "Use Tear of Time",
+        "pt-BR": "Usar Lágrima Temporal",
+        "es-ES": "Usar Lágrima Temporal"
+    },
+    "hrrBDQ": {
+        "en-US": "Enchant White Knight Manteau",
+        "pt-BR": "Encantar Manto Branco",
+        "es-ES": "Encantar Manto Blanco"
+    },
+    "h7rBDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "iLrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nYou must be wearing <ITEM>[Galaxy Circlet]<INFO>18551</INFO></ITEM>, with refinement 12 or more to check rewards.",
+        "pt-BR": "[Temporalizador RUF-10]\nVocê deve estar equipando <ITEM>[Diadema Atemporal]<INFO>18551</INFO></ITEM>, com refino 12 ou mais.",
+        "es-ES": "[Temporizador RUF-10]\nDebe estar equipando un <ITEM>[Diadema Atemporal]<INFO>18551</INFO></ITEM>, con refinamiento 12 o más."
+    },
+    "ibrBDQ": {
+        "en-US": "Galaxy Circlet",
+        "pt-BR": "Diadema Atemporal",
+        "es-ES": "Diadema Atemporal"
+    },
+    "irrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nWe only process <ITEM>[Galaxy Circlet]<INFO>18551</INFO></ITEM> items.",
+        "pt-BR": "[Temporalizador RUF-10]\nTrabalho apenas com o <ITEM>[Diadema Atemporal]<INFO>18551</INFO></ITEM>",
+        "es-ES": "[Temporizador RUF-10]\nSolo trabajo con el <ITEM>[Diadema Atemporal]<INFO>18551</INFO></ITEM>"
+    },
+    "i7rBDQ": {
+        "en-US": "2 ~ 3 (Selectable)",
+        "pt-BR": "2 a 3 (Selecionável)",
+        "es-ES": "2 a 3 (Seleccionable)"
+    },
+    "jLrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe upgrade level is too low to exchange for rewards.",
+        "pt-BR": "[Temporalizador RUF-10]\nO nível de refino é baixo demais para trocar.",
+        "es-ES": "[Temporizador RUF-10]\nEl nivel de refinamiento es demasiado bajo para intercambiar."
+    },
+    "jbrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe reward you can exchange for is:  \nCirclet of Time ^0000FF(Any class of your choice)^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nA recompensa que você pode trocar é:  \nDiadema Temporal ^0000FFda Classe à sua escolha^000000.",
+        "es-ES": "[Temporizador RUF-10]\nLa recompensa que puede intercambiar es:\nDiadema Temporal ^0000FFde la Clase que elija^000000."
+    },
+    "jrrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSpecial Option Slot2 Level {0}\n^0000FF(Mettle, Affection, Adamantine, MasterArcher, MagicEssence, Acute, Tenacity)^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nEncanto Especial do Slot 2:\nInsígnia nível {0}\n^0000FFInsígnias da Potência, Maestria, Talento, Afeto, Dedicação, Virtude e Resiliência^000000.",
+        "es-ES": "[Temporizador RUF-10]\nEncanto Especial de la Ranura 2:\nInsignia nivel {0}\n^0000FFInsignias de Poder, Maestría, Talento, Afecto, Dedicación, Virtud y Resiliencia^000000."
+    },
+    "j7rBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSpecial Option Slot3 Level {0}\n^0000FFTemporal Jewel (Power), (Agility), (Vitality), (Intelligence), (Dexterity), (Luk)^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nEncanto Especial do Slot 3: \nJoia Temporal nível {0}\n^0000FFJoia Temporal de FOR, AGI, VIT, INT, DES e SOR^000000.",
+        "es-ES": "[Temporizador RUF-10]\nEncanto Especial de la Ranura 3:\nJoyas Temporales nivel {0}\n^0000FFJoya Temporal de FUE, AGI, VIT, INT, DES y SUE^000000."
+    },
+    "kLrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nStatus Option Slot4 Level 4  \n^0000FFStr, Agi, Vit, Int, Dex, Luk^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nEncanto Especial do Slot 4. \n^0000FFFOR, AGI, VIT, INT, DES e SOR^000000.",
+        "es-ES": "[Temporizador RUF-10]\nEncanto Especial de la Ranura 4.\n^0000FFFUE, AGI, VIT, INT, DES y SUE^000000."
+    },
+    "kbrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nIf you are ready, you can come back again to proceed with the exchange.",
+        "pt-BR": "[Temporalizador RUF-10]\nSe você acha que está com tudo pronto, volte até mim e juntos realizaremos o procedimento.",
+        "es-ES": "[Temporizador RUF-10]\nSi cree que tiene todo listo, vuelva a mí y juntos realizaremos el procedimiento."
+    },
+    "krrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nYou must be wearing <ITEM>[Galaxy Circlet]<INFO>18551</INFO></ITEM> to check the rewards.",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, equipe o <ITEM>[Diadema Atemporal]<INFO>18551</INFO></ITEM>",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, equipe el <ITEM>[Diadema Atemporal]<INFO>18551</INFO></ITEM>"
+    },
+    "k7rBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000If you wish to receive the reward, please proceed with caution!!^000000  \nDo you wish to continue?",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000PRESTE ATENÇÃO NA HORA DE SELECIONAR!!^000000  \nDeseja continuar?",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000¡¡PRESTE ATENCIÓN AL MOMENTO DE SELECCIONAR!!^000000\n¿Desea continuar?"
+    },
+    "lLrBDQ": {
+        "en-US": "Continue",
+        "pt-BR": "Continuar",
+        "es-ES": "Continuar"
+    },
+    "lbrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select the Status Option ^0000FFSlot4^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione o encanto para o ^0000FFSlot 4^000000.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione el encanto para la ^0000FFRanura 4^000000."
+    },
+    "lrrBDQ": {
+        "en-US": "Str+4",
+        "pt-BR": "FOR +4",
+        "es-ES": "FUE +4"
+    },
+    "l7rBDQ": {
+        "en-US": "Agi+4",
+        "pt-BR": "AGI +4",
+        "es-ES": "AGI +4"
+    },
+    "mLrBDQ": {
+        "en-US": "Vit+4",
+        "pt-BR": "VIT +4",
+        "es-ES": "VIT +4"
+    },
+    "mbrBDQ": {
+        "en-US": "Int+4",
+        "pt-BR": "INT +4",
+        "es-ES": "INT +4"
+    },
+    "mrrBDQ": {
+        "en-US": "Dex+4",
+        "pt-BR": "DES +4",
+        "es-ES": "DES +4"
+    },
+    "m7rBDQ": {
+        "en-US": "Luk+4",
+        "pt-BR": "SOR +4",
+        "es-ES": "SUE +4"
+    },
+    "nLrBDQ": {
+        "en-US": "STR+4",
+        "pt-BR": "FOR +4",
+        "es-ES": "FUE +4"
+    },
+    "nbrBDQ": {
+        "en-US": "AGI+4",
+        "pt-BR": "AGI +4",
+        "es-ES": "AGI +4"
+    },
+    "nrrBDQ": {
+        "en-US": "VIT+4",
+        "pt-BR": "VIT +4",
+        "es-ES": "VIT +4"
+    },
+    "n7rBDQ": {
+        "en-US": "INT+4",
+        "pt-BR": "INT +4",
+        "es-ES": "INT +4"
+    },
+    "oLrBDQ": {
+        "en-US": "DEX+4",
+        "pt-BR": "DES +4",
+        "es-ES": "DES +4"
+    },
+    "obrBDQ": {
+        "en-US": "LUK+4",
+        "pt-BR": "SOR +4",
+        "es-ES": "SUE +4"
+    },
+    "orrBDQ": {
+        "en-US": "Temporal Jewel (Power) Lv 2",
+        "pt-BR": "Joia Temporal FOR Nv.2",
+        "es-ES": "Joya Temporal FUE Nv.2"
+    },
+    "o7rBDQ": {
+        "en-US": "Temporal Jewel (Agility) Lv 2",
+        "pt-BR": "Joia Temporal AGI Nv.2",
+        "es-ES": "Joya Temporal AGI Nv.2"
+    },
+    "pLrBDQ": {
+        "en-US": "Temporal Jewel (Vitality) Lv 2",
+        "pt-BR": "Joia Temporal VIT Nv.2",
+        "es-ES": "Joya Temporal VIT Nv.2"
+    },
+    "pbrBDQ": {
+        "en-US": "Temporal Jewel (Intelligence) Lv 2",
+        "pt-BR": "Joia Temporal INT Nv.2",
+        "es-ES": "Joya Temporal INT Nv.2"
+    },
+    "prrBDQ": {
+        "en-US": "Temporal Jewel (Dexterity) Lv 2",
+        "pt-BR": "Joia Temporal DES Nv.2",
+        "es-ES": "Joya Temporal DES Nv.2"
+    },
+    "p7rBDQ": {
+        "en-US": "Temporal Jewel (Luk) Lv 2",
+        "pt-BR": "Joia Temporal SOR Nv.2",
+        "es-ES": "Joya Temporal SUE Nv.2"
+    },
+    "qLrBDQ": {
+        "en-US": "Temporal Jewel (Power) Lv 3",
+        "pt-BR": "Joia Temporal FOR Nv.3",
+        "es-ES": "Joya Temporal FUE Nv.3"
+    },
+    "qbrBDQ": {
+        "en-US": "Temporal Jewel (Agility) Lv 3",
+        "pt-BR": "Joia Temporal AGI Nv.3",
+        "es-ES": "Joya Temporal AGI Nv.3"
+    },
+    "qrrBDQ": {
+        "en-US": "Temporal Jewel (Vitality) Lv 3",
+        "pt-BR": "Joia Temporal VIT Nv.3",
+        "es-ES": "Joya Temporal VIT Nv.3"
+    },
+    "q7rBDQ": {
+        "en-US": "Temporal Jewel (Intelligence) Lv 3",
+        "pt-BR": "Joia Temporal INT Nv.3",
+        "es-ES": "Joya Temporal INT Nv.3"
+    },
+    "rLrBDQ": {
+        "en-US": "Temporal Jewel (Dexterity) Lv 3",
+        "pt-BR": "Joia Temporal DES Nv.3",
+        "es-ES": "Joya Temporal DES Nv.3"
+    },
+    "rbrBDQ": {
+        "en-US": "Temporal Jewel (Luk) Lv.3",
+        "pt-BR": "Joia Temporal SOR Nv.3",
+        "es-ES": "Joya Temporal SUE Nv.3"
+    },
+    "rrrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select the Special Option ^0000FFSlot3^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione o encanto para o ^0000FFSlot 3^000000.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione el encanto para la ^0000FFRanura 3^000000."
+    },
+    "r7rBDQ": {
+        "en-US": "Temporal Jewel (Power) Lv 2",
+        "pt-BR": "Joia Temporal FOR Nv.2",
+        "es-ES": "Joya Temporal FUE Nv.2"
+    },
+    "sLrBDQ": {
+        "en-US": "Temporal Jewel (Agility) Lv 2",
+        "pt-BR": "Joia Temporal AGI Nv.2",
+        "es-ES": "Joya Temporal AGI Nv.2"
+    },
+    "sbrBDQ": {
+        "en-US": "Temporal Jewel (Vitality) Lv 2",
+        "pt-BR": "Joia Temporal VIT Nv.2",
+        "es-ES": "Joya Temporal VIT Nv.2"
+    },
+    "srrBDQ": {
+        "en-US": "Temporal Jewel (Intelligence) Lv 2",
+        "pt-BR": "Joia Temporal INT Nv.2",
+        "es-ES": "Joya Temporal INT Nv.2"
+    },
+    "s7rBDQ": {
+        "en-US": "Temporal Jewel (Dexterity) Lv 2",
+        "pt-BR": "Joia Temporal DES Nv.2",
+        "es-ES": "Joya Temporal DES Nv.2"
+    },
+    "tLrBDQ": {
+        "en-US": "Temporal Jewel (Luk) Lv.2",
+        "pt-BR": "Joia Temporal SOR Nv.2",
+        "es-ES": "Joya Temporal SUE Nv.2"
+    },
+    "tbrBDQ": {
+        "en-US": "Temporal Jewel (Power) Lv 3",
+        "pt-BR": "Joia Temporal FOR Nv.3",
+        "es-ES": "Joya Temporal FUE Nv.3"
+    },
+    "trrBDQ": {
+        "en-US": "Temporal Jewel (Agility) Lv 3",
+        "pt-BR": "Joia Temporal AGI Nv.3",
+        "es-ES": "Joya Temporal AGI Nv.3"
+    },
+    "t7rBDQ": {
+        "en-US": "Temporal Jewel (Vitality) Lv 3",
+        "pt-BR": "Joia Temporal VIT Nv.3",
+        "es-ES": "Joya Temporal VIT Nv.3"
+    },
+    "uLrBDQ": {
+        "en-US": "Temporal Jewel (Intelligence) Lv 3",
+        "pt-BR": "Joia Temporal INT Nv.3",
+        "es-ES": "Joya Temporal INT Nv.3"
+    },
+    "ubrBDQ": {
+        "en-US": "Temporal Jewel (Dexterity) Lv 3",
+        "pt-BR": "Joia Temporal DES Nv.3",
+        "es-ES": "Joya Temporal DES Nv.3"
+    },
+    "urrBDQ": {
+        "en-US": "Temporal Jewel (Luk) Lv.3",
+        "pt-BR": "Joia Temporal SOR Nv.3",
+        "es-ES": "Joya Temporal SUE Nv.3"
+    },
+    "u7rBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select the Special Option ^0000FFSlot2^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione o encanto para o ^0000FFSlot 2^000000.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione el encanto para la ^0000FFRanura 2^000000."
+    },
+    "vLrBDQ": {
+        "en-US": "Mettle",
+        "pt-BR": "Potência",
+        "es-ES": "Poder"
+    },
+    "vbrBDQ": {
+        "en-US": "Acute",
+        "pt-BR": "Talento",
+        "es-ES": "Talento"
+    },
+    "vrrBDQ": {
+        "en-US": "Adamantine",
+        "pt-BR": "Resiliência",
+        "es-ES": "Resiliencia"
+    },
+    "v7rBDQ": {
+        "en-US": "Magic Essence",
+        "pt-BR": "Virtude",
+        "es-ES": "Virtud"
+    },
+    "wLrBDQ": {
+        "en-US": "Master Archer",
+        "pt-BR": "Maestria",
+        "es-ES": "Maestría"
+    },
+    "wbrBDQ": {
+        "en-US": "Tenacity",
+        "pt-BR": "Dedicação",
+        "es-ES": "Dedicación"
+    },
+    "wrrBDQ": {
+        "en-US": "Affection",
+        "pt-BR": "Afeição",
+        "es-ES": "Afecto"
+    },
+    "w7rBDQ": {
+        "en-US": "Mettle Lv.3",
+        "pt-BR": "Potência Nv.3",
+        "es-ES": "Poder Nv.3"
+    },
+    "xLrBDQ": {
+        "en-US": "Mettle Lv.5",
+        "pt-BR": "Potência Nv.5",
+        "es-ES": "Poder Nv.5"
+    },
+    "xbrBDQ": {
+        "en-US": "Mettle Lv.7",
+        "pt-BR": "Potência Nv.7",
+        "es-ES": "Poder Nv.7"
+    },
+    "xrrBDQ": {
+        "en-US": "Mettle Lv.9",
+        "pt-BR": "Potência Nv.9",
+        "es-ES": "Poder Nv.9"
+    },
+    "x7rBDQ": {
+        "en-US": "Mettle Lv.10",
+        "pt-BR": "Potência Nv.10",
+        "es-ES": "Poder Nv.10"
+    },
+    "yLrBDQ": {
+        "en-US": "Acute Lv.3",
+        "pt-BR": "Talento Nv.3",
+        "es-ES": "Talento Nv.3"
+    },
+    "ybrBDQ": {
+        "en-US": "Acute Lv.5",
+        "pt-BR": "Talento Nv.5",
+        "es-ES": "Talento Nv.5"
+    },
+    "yrrBDQ": {
+        "en-US": "Acute Lv.7",
+        "pt-BR": "Talento Nv.7",
+        "es-ES": "Talento Nv.7"
+    },
+    "y7rBDQ": {
+        "en-US": "Acute Lv.9",
+        "pt-BR": "Talento Nv.9",
+        "es-ES": "Talento Nv.9"
+    },
+    "zLrBDQ": {
+        "en-US": "Acute Lv.10",
+        "pt-BR": "Talento Nv.10",
+        "es-ES": "Talento Nv.10"
+    },
+    "zbrBDQ": {
+        "en-US": "Adamantine Lv.3",
+        "pt-BR": "Resiliência Nv.3",
+        "es-ES": "Resiliencia Nv.3"
+    },
+    "zrrBDQ": {
+        "en-US": "Adamantine Lv.5",
+        "pt-BR": "Resiliência Nv.5",
+        "es-ES": "Resiliencia Nv.5"
+    },
+    "z7rBDQ": {
+        "en-US": "Adamantine Lv.7",
+        "pt-BR": "Resiliência Nv.7",
+        "es-ES": "Resiliencia Nv.7"
+    },
+    "0LrBDQ": {
+        "en-US": "Adamantine Lv.9",
+        "pt-BR": "Resiliência Nv.9",
+        "es-ES": "Resiliencia Nv.9"
+    },
+    "0brBDQ": {
+        "en-US": "Adamantine Lv.10",
+        "pt-BR": "Resiliência Nv.10",
+        "es-ES": "Resiliencia Nv.10"
+    },
+    "0rrBDQ": {
+        "en-US": "Magic Essence Lv.3",
+        "pt-BR": "Virtude Nv.3",
+        "es-ES": "Virtud Nv.3"
+    },
+    "07rBDQ": {
+        "en-US": "Magic Essence Lv.5",
+        "pt-BR": "Virtude Nv.5",
+        "es-ES": "Virtud Nv.5"
+    },
+    "1LrBDQ": {
+        "en-US": "Magic Essence Lv.7",
+        "pt-BR": "Virtude Nv.7",
+        "es-ES": "Virtud Nv.7"
+    },
+    "1brBDQ": {
+        "en-US": "Magic Essence Lv.9",
+        "pt-BR": "Virtude Nv.9",
+        "es-ES": "Virtud Nv.9"
+    },
+    "1rrBDQ": {
+        "en-US": "Magic Essence Lv.10",
+        "pt-BR": "Virtude Nv.10",
+        "es-ES": "Virtud Nv.10"
+    },
+    "17rBDQ": {
+        "en-US": "Master Archer Lv.3",
+        "pt-BR": "Maestria Nv.3",
+        "es-ES": "Maestría Nv.3"
+    },
+    "2LrBDQ": {
+        "en-US": "Master Archer Lv.5",
+        "pt-BR": "Maestria Nv.5",
+        "es-ES": "Maestría Nv.5"
+    },
+    "2brBDQ": {
+        "en-US": "Master Archer Lv.7",
+        "pt-BR": "Maestria Nv.7",
+        "es-ES": "Maestría Nv.7"
+    },
+    "2rrBDQ": {
+        "en-US": "Master Archer Lv.9",
+        "pt-BR": "Maestria Nv.9",
+        "es-ES": "Maestría Nv.9"
+    },
+    "27rBDQ": {
+        "en-US": "Master Archer Lv.10",
+        "pt-BR": "Maestria Nv.10",
+        "es-ES": "Maestría Nv.10"
+    },
+    "3LrBDQ": {
+        "en-US": "Tenacity Lv.3",
+        "pt-BR": "Dedicação Nv.3",
+        "es-ES": "Dedicación Nv.3"
+    },
+    "3brBDQ": {
+        "en-US": "Tenacity Lv.5",
+        "pt-BR": "Dedicação Nv.5",
+        "es-ES": "Dedicación Nv.5"
+    },
+    "3rrBDQ": {
+        "en-US": "Tenacity Lv.7",
+        "pt-BR": "Dedicação Nv.7",
+        "es-ES": "Dedicación Nv.7"
+    },
+    "37rBDQ": {
+        "en-US": "Tenacity Lv.9",
+        "pt-BR": "Dedicação Nv.9",
+        "es-ES": "Dedicación Nv.9"
+    },
+    "4LrBDQ": {
+        "en-US": "Tenacity Lv.10",
+        "pt-BR": "Dedicação Nv.10",
+        "es-ES": "Dedicación Nv.10"
+    },
+    "4brBDQ": {
+        "en-US": "Affection Lv.3",
+        "pt-BR": "Afeição Nv.3",
+        "es-ES": "Afecto Nv.3"
+    },
+    "4rrBDQ": {
+        "en-US": "Affection Lv.5",
+        "pt-BR": "Afeição Nv.5",
+        "es-ES": "Afecto Nv.5"
+    },
+    "47rBDQ": {
+        "en-US": "Affection Lv.7",
+        "pt-BR": "Afeição Nv.7",
+        "es-ES": "Afecto Nv.7"
+    },
+    "5LrBDQ": {
+        "en-US": "Affection Lv.9",
+        "pt-BR": "Afeição Nv.9",
+        "es-ES": "Afecto Nv.9"
+    },
+    "5brBDQ": {
+        "en-US": "Affection Lv.10",
+        "pt-BR": "Afeição Nv.10",
+        "es-ES": "Afecto Nv.10"
+    },
+    "5rrBDQ": {
+        "en-US": "Circlet of Time (Rune Knight)",
+        "pt-BR": "Diadema Temporal (Cavaleiros Rúnicos)",
+        "es-ES": "Diadema Temporal (Caballeros Rúnicos)"
+    },
+    "57rBDQ": {
+        "en-US": "Circlet of Time (Archbishop)",
+        "pt-BR": "Diadema Temporal (Arcebispos)",
+        "es-ES": "Diadema Temporal (Arzobispos)"
+    },
+    "6LrBDQ": {
+        "en-US": "Circlet of Time (Mechanic)",
+        "pt-BR": "Diadema Temporal (Mecânicos)",
+        "es-ES": "Diadema Temporal (Mecánicos)"
+    },
+    "6brBDQ": {
+        "en-US": "Circlet of Time (Ranger)",
+        "pt-BR": "Diadema Temporal (Sentinelas)",
+        "es-ES": "Diadema Temporal (Errantes)"
+    },
+    "6rrBDQ": {
+        "en-US": "Circlet of Time (Guillotine Cross)",
+        "pt-BR": "Diadema Temporal (Sicários)",
+        "es-ES": "Diadema Temporal (Sicarios)"
+    },
+    "67rBDQ": {
+        "en-US": "Circlet of Time (Warlock)",
+        "pt-BR": "Diadema Temporal (Arcanos)",
+        "es-ES": "Diadema Temporal (Arcanos)"
+    },
+    "7LrBDQ": {
+        "en-US": "Circlet of Time (Royal Guard)",
+        "pt-BR": "Diadema Temporal (Guardiões Reais)",
+        "es-ES": "Diadema Temporal (Guardianes Reales)"
+    },
+    "7brBDQ": {
+        "en-US": "Circlet of Time (Sura)",
+        "pt-BR": "Diadema Temporal (Shuras)",
+        "es-ES": "Diadema Temporal (Shuras)"
+    },
+    "7rrBDQ": {
+        "en-US": "Circlet of Time (Geneticist)",
+        "pt-BR": "Diadema Temporal (Bioquímicos)",
+        "es-ES": "Diadema Temporal (Bioquímicos)"
+    },
+    "77rBDQ": {
+        "en-US": "Circlet of Time (Wanderer & Troubadour)",
+        "pt-BR": "Diadema Temporal (Artistas)",
+        "es-ES": "Diadema Temporal (Trovador y Nómada)"
+    },
+    "8LrBDQ": {
+        "en-US": "Circlet of Time (Guillotine Cross)",
+        "pt-BR": "Diadema Temporal (Renegados)",
+        "es-ES": "Diadema Temporal (Perseguidor de Sombras)"
+    },
+    "8brBDQ": {
+        "en-US": "Circlet of Time (Sorcerer)",
+        "pt-BR": "Diadema Temporal (Feiticeiros)",
+        "es-ES": "Diadema Temporal (Conjurador)"
+    },
+    "8rrBDQ": {
+        "en-US": "Circlet of Time (Super Novice)",
+        "pt-BR": "Diadema Temporal (Superaprendizes)",
+        "es-ES": "Diadema Temporal (Superprincipiante)"
+    },
+    "87rBDQ": {
+        "en-US": "Circlet of Time (Summoner)",
+        "pt-BR": "Diadema Temporal (Invocadores)",
+        "es-ES": "Diadema Temporal (Invocadores)"
+    },
+    "9LrBDQ": {
+        "en-US": "Circlet of Time (Star Emperor)",
+        "pt-BR": "Diadema Temporal (Mestres Estelares)",
+        "es-ES": "Diadema Temporal (Maestros Estelares)"
+    },
+    "9brBDQ": {
+        "en-US": "Circlet of Time (Soul Reaper)",
+        "pt-BR": "Diadema Temporal (Ceifadores)",
+        "es-ES": "Diadema Temporal (Segadores de Almas)"
+    },
+    "9rrBDQ": {
+        "en-US": "Circlet of Time (Rebellion)",
+        "pt-BR": "Diadema Temporal (Insurgentes)",
+        "es-ES": "Diadema Temporal (Rebelde)"
+    },
+    "97rBDQ": {
+        "en-US": "Circlet of Time (Oboro)",
+        "pt-BR": "Diadema Temporal (Oboro)",
+        "es-ES": "Diadema Temporal (Oboro)"
+    },
+    "+LrBDQ": {
+        "en-US": "Circlet of Time (Kagerou)",
+        "pt-BR": "Diadema Temporal (Kagerou)",
+        "es-ES": "Diadema Temporal (Kagerou)"
+    },
+    "+brBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select the Circlet of Time (Desired Class)",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione o Diadema Temporal da classe desejada.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione la Diadema Temporal de la clase deseada."
+    },
+    "+rrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe reward you have selected is:  \n^0000FF{0}^000000\nOption Slot2 ^0000FF{1}^000000\nOption Slot3 ^0000FF{2}^000000\nStatus Slot4 ^0000FF{3}^000000\nDo you wish to continue!?",
+        "pt-BR": "[Temporalizador RUF-10]\nA recompensa que você selecionou foi:  \n^0000FF{0}^000000\nEncanto do Slot 2 ^0000FF{1}^000000\nEncanto do Slot 3 ^0000FF{2}^000000\nEncanto do Slot 4 ^0000FF{3}^000000\nEstá correto?",
+        "es-ES": "[Temporizador RUF-10]\nLa recompensa que seleccionó fue:\n^0000FF{0}^000000\nEncanto de Ranura 2 ^0000FF{1}^000000\nEncanto de Ranura 3 ^0000FF{2}^000000\nEncanto de Ranura 4 ^0000FF{3}^000000\n¿Es correcto?"
+    },
+    "+7rBDQ": {
+        "en-US": "[Time Machine RUF-10]\nDone. I hope it's the option you wanted..",
+        "pt-BR": "[Temporalizador RUF-10]\nPronto, aqui está sua recompensa. Espero que você tenha LIDO e SELECIONADO corretamente.",
+        "es-ES": "[Temporizador RUF-10]\nListo, aquí está su recompensa. Espero que haya LEÍDO y SELECCIONADO correctamente."
+    },
+    "/LrBDQ": {
+        "en-US": "[Time Machine RUF-10]\nYou must be wearing a Circlet of Time Headgear to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, equipe um Diadema Temporal para prosseguir.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, equipe una Diadema Temporal para continuar."
+    },
+    "/brBDQ": {
+        "en-US": "Circlet of Time (Rune Knight)",
+        "pt-BR": "Diadema Temporal (Cavaleiros Rúnicos)",
+        "es-ES": "Diadema Temporal (Caballeros Rúnicos)"
+    },
+    "/rrBDQ": {
+        "en-US": "Circlet of Time (Royal Guard)",
+        "pt-BR": "Diadema Temporal (Guardiões Imperiais)",
+        "es-ES": "Diadema Temporal (Guardianes Imperiales)"
+    },
+    "/7rBDQ": {
+        "en-US": "Circlet of Time (Mechanic)",
+        "pt-BR": "Diadema Temporal (Mecânicos)",
+        "es-ES": "Diadema Temporal (Mecánicos)"
+    },
+    "ALvBDQ": {
+        "en-US": "Circlet of Time (Genetic)",
+        "pt-BR": "Diadema Temporal (Bioquímicos)",
+        "es-ES": "Diadema Temporal (Bioquímicos)"
+    },
+    "AbvBDQ": {
+        "en-US": "Circlet of Time (Guillotine Cross)",
+        "pt-BR": "Diadema Temporal (Sicários)",
+        "es-ES": "Diadema Temporal (Sicarios)"
+    },
+    "ArvBDQ": {
+        "en-US": "Circlet of Time (Shadow Chaser)",
+        "pt-BR": "Diadema Temporal (Renegados)",
+        "es-ES": "Diadema Temporal (Perseguidor de Sombras)"
+    },
+    "A7vBDQ": {
+        "en-US": "Circlet of Time (Arch Bishop)",
+        "pt-BR": "Diadema Temporal (Arcebispos)",
+        "es-ES": "Diadema Temporal (Arzobispos)"
+    },
+    "BLvBDQ": {
+        "en-US": "Circlet of Time (Sura)",
+        "pt-BR": "Diadema Temporal (Shuras)",
+        "es-ES": "Diadema Temporal (Shuras)"
+    },
+    "BbvBDQ": {
+        "en-US": "Circlet of Time (Warlock)",
+        "pt-BR": "Diadema Temporal (Arcanos)",
+        "es-ES": "Diadema Temporal (Arcanos)"
+    },
+    "BrvBDQ": {
+        "en-US": "Circlet of Time (Sorcerer)",
+        "pt-BR": "Diadema Temporal (Feiticeiros)",
+        "es-ES": "Diadema Temporal (Conjurador)"
+    },
+    "B7vBDQ": {
+        "en-US": "Circlet of Time (Ranger)",
+        "pt-BR": "Diadema Temporal (Sentinelas)",
+        "es-ES": "Diadema Temporal (Errantes)"
+    },
+    "CLvBDQ": {
+        "en-US": "Circlet of Time (Wanderer&Minstrel)",
+        "pt-BR": "Diadema Temporal (Artistas)",
+        "es-ES": "Diadema Temporal (Trovador y Nómada)"
+    },
+    "CbvBDQ": {
+        "en-US": "Circlet of Time (Star Emperor)",
+        "pt-BR": "Diadema Temporal (Mestres Estelares)",
+        "es-ES": "Diadema Temporal (Maestros Estelares)"
+    },
+    "CrvBDQ": {
+        "en-US": "Circlet of Time (Soul Reaper)",
+        "pt-BR": "Diadema Temporal (Ceifadores)",
+        "es-ES": "Diadema Temporal (Segadores de Almas)"
+    },
+    "C7vBDQ": {
+        "en-US": "Circlet of Time (Rebellion)",
+        "pt-BR": "Diadema Temporal (Insurgentes)",
+        "es-ES": "Diadema Temporal (Rebelde)"
+    },
+    "DLvBDQ": {
+        "en-US": "Circlet of Time (Oboro)",
+        "pt-BR": "Diadema Temporal (Oboro)",
+        "es-ES": "Diadema Temporal (Oboro)"
+    },
+    "DbvBDQ": {
+        "en-US": "Circlet of Time (Kagerou)",
+        "pt-BR": "Diadema Temporal (Kagerou)",
+        "es-ES": "Diadema Temporal (Kagerou)"
+    },
+    "DrvBDQ": {
+        "en-US": "Circlet of Time (Super Novice)",
+        "pt-BR": "Diadema Temporal (Superaprendizes)",
+        "es-ES": "Diadema Temporal (Superprincipiante)"
+    },
+    "D7vBDQ": {
+        "en-US": "Circlet of Time (Summoner)",
+        "pt-BR": "Diadema Temporal (Invocadores)",
+        "es-ES": "Diadema Temporal (Invocadores)"
+    },
+    "ELvBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000This is not an item we process.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000Eu não trabalho com isso.^000000",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000Yo no trabajo con eso.^000000"
+    },
+    "EbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000You must enchant the Circlet of Time Headgear Slot3 first before proceeding.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000Você deve ter um Diadema Temporal encantado no slot 3 para continuar.^000000",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000Debe tener una Diadema Temporal encantada en la ranura 3 para continuar.^000000"
+    },
+    "ErvBDQ": {
+        "en-US": "Mettle",
+        "pt-BR": "Potência",
+        "es-ES": "Poder"
+    },
+    "E7vBDQ": {
+        "en-US": "Adamantine",
+        "pt-BR": "Resiliência",
+        "es-ES": "Resiliencia"
+    },
+    "FLvBDQ": {
+        "en-US": "Master Archer",
+        "pt-BR": "Maestria",
+        "es-ES": "Maestría"
+    },
+    "FbvBDQ": {
+        "en-US": "Magic Essence",
+        "pt-BR": "Virtude",
+        "es-ES": "Virtud"
+    },
+    "FrvBDQ": {
+        "en-US": "Acute",
+        "pt-BR": "Talento",
+        "es-ES": "Talento"
+    },
+    "F7vBDQ": {
+        "en-US": "Affection",
+        "pt-BR": "Afeição",
+        "es-ES": "Afecto"
+    },
+    "GLvBDQ": {
+        "en-US": "Tenacity",
+        "pt-BR": "Dedicação",
+        "es-ES": "Dedicación"
+    },
+    "GbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nUsing a Tear of Time allows you to specifically enhance the Special Property in Slot2 for the Circlet of Time Headgear.",
+        "pt-BR": "[Temporalizador RUF-10]\nUsando uma Lágrima Temporal, permite encantar o Slot 2 no Diadema Temporal.\nA Lágrima Temporal pode ser adquirida por meios secretos.",
+        "es-ES": "[Temporizador RUF-10]\nUsando una Lágrima Temporal, permite encantar la Ranura 2 en la Diadema Temporal.\nLa Lágrima Temporal se puede adquirir por medios secretos."
+    },
+    "GrvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select the level of Tear of Time you wish to unleash its power.",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione o tipo de Lágrima Temporal que deseja utilizar.",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione el tipo de Lágrima Temporal que desea utilizar."
+    },
+    "G7vBDQ": {
+        "en-US": "Tear of Time (Greater)",
+        "pt-BR": "Lágrima Temporal Forte",
+        "es-ES": "Lágrima Temporal Fuerte"
+    },
+    "HLvBDQ": {
+        "en-US": "Tear of Time (Lesser)",
+        "pt-BR": "Lágrima Temporal Fraca",
+        "es-ES": "Lágrima Temporal Débil"
+    },
+    "HbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nTear of Time (Greater) not found in your inventory.  \nPlease check again to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nLágrima Temporal Forte não foi encontrada no seu inventário.\nPor favor, veja se não mentiu para mim.",
+        "es-ES": "[Temporizador RUF-10]\nNo se encontró Lágrima Temporal Fuerte en su inventario.\nPor favor, verifique que no me haya mentido."
+    },
+    "HrvBDQ": {
+        "en-US": "Tear of Time (Greater)",
+        "pt-BR": "Lágrima Temporal Forte",
+        "es-ES": "Lágrima Temporal Fuerte"
+    },
+    "H7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe 'Greater' level release will give the selected property at level 9-10.  \nWith a rate of ^0000FF80% : 20%^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nEsse poder da Lágrima vai liberar os encantos de nível 9 a 10. \nCom chances proporcionais de ^0000FF80% : 20%^000000",
+        "es-ES": "[Temporizador RUF-10]\nEse poder de la Lágrima liberará los encantos de nivel 9 a 10.\nCon probabilidades proporcionales de ^0000FF80% : 20%^000000"
+    },
+    "ILvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nTear of Time (Lesser) not found in your inventory.  \nPlease check again to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nLágrima Temporal Fraca não foi encontrada no seu inventário.\nPor favor, veja se não mentiu para mim.",
+        "es-ES": "[Temporizador RUF-10]\nNo se encontró Lágrima Temporal Débil en su inventario.\nPor favor, verifique que no me haya mentido."
+    },
+    "IbvBDQ": {
+        "en-US": "Tear of Time (Lesser)",
+        "pt-BR": "Lágrima Temporal Fraca",
+        "es-ES": "Lágrima Temporal Débil"
+    },
+    "IrvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe 'Lesser' level release will give the selected property at level 4-6.  \nWith a rate of ^0000FF70% : 20% : 10%^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nEsse poder da Lágrima vai liberar os encantos de nível 4-6.  \nCom chances proporcionais de ^0000FF70% : 20% : 10%^000000",
+        "es-ES": "[Temporizador RUF-10]\nEse poder de la Lágrima liberará los encantos de nivel 4-6.\nCon probabilidades proporcionales de ^0000FF70% : 20% : 10%^000000"
+    },
+    "I7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nPlease select the Option you wish to unleash.  \n^FF0000Caution!! The selected option will replace the existing option in Slot2.  \n^FF0000Please proceed with caution.",
+        "pt-BR": "[Temporalizador RUF-10]\nPor favor, selecione a opção desejada.\n^FF0000ATENÇÃO!! A opção selecionada vai substituir o encanto do Slot 2.^000000 \n^FF0000Esteja ciente disso!!!^000000",
+        "es-ES": "[Temporizador RUF-10]\nPor favor, seleccione la opción deseada.\n^FF0000¡¡ATENCIÓN!! La opción seleccionada reemplazará el encanto de la Ranura 2.^000000\n^FF0000¡¡Sea consciente de esto!!!^000000"
+    },
+    "JLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nAn unknown error has occurred. Please contact our staff for assistance.",
+        "pt-BR": "[Temporalizador RUF-10]\nErro. Por favor, tire uma foto e envie para a Central de Suporte.",
+        "es-ES": "[Temporizador RUF-10]\nError. Por favor, tome una foto y envíela al Centro de Soporte."
+    },
+    "JbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nYou are currently proceeding with:  \n^0000FF{0}^000000\nThe selected Option is ^0000FF{1}^000000\nDo you wish to continue!?",
+        "pt-BR": "[Temporalizador RUF-10]\nVocê usará uma:  \n^0000FF{0}^000000\nVocê escolheu: ^0000FF{1}^000000\nPosso continuar?",
+        "es-ES": "[Temporizador RUF-10]\nEl encanto actual es:\n^0000FF{0}^000000\nUsted eligió: ^0000FF{1}^000000\n¿Puedo continuar?"
+    },
+    "JrvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nDone. I hope it's the option you wanted..",
+        "pt-BR": "[Temporalizador RUF-10]\nFeito. Espero que você tenha escolhido as opções corretamente.",
+        "es-ES": "[Temporizador RUF-10]\nHecho. Espero que haya elegido las opciones correctamente."
+    },
+    "J7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nIf you unequip the item during this process, it could be dangerous.",
+        "pt-BR": "[Temporalizador RUF-10]\nDesequipar itens durante o processo é perigoso.",
+        "es-ES": "[Temporizador RUF-10]\nDesequipar objetos durante el proceso es peligroso."
+    },
+    "KLvBDQ": {
+        "en-US": "White Knight Mantle (Magic)",
+        "pt-BR": "Manto Branco Mágico",
+        "es-ES": "Manto Blanco Mágico"
+    },
+    "KbvBDQ": {
+        "en-US": "White Knight Mantle (Ranged)",
+        "pt-BR": "Manto Branco Distante",
+        "es-ES": "Manto Blanco Distante"
+    },
+    "KrvBDQ": {
+        "en-US": "White Knight Mantle (Melee)",
+        "pt-BR": "Manto Branco Físico",
+        "es-ES": "Manto Blanco Físico"
+    },
+    "K7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThis is not the item I process.",
+        "pt-BR": "[Temporalizador RUF-10]\nEu não trabalho com isso.",
+        "es-ES": "[Temporizador RUF-10]\nYo no trabajo con eso."
+    },
+    "LLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nEnchanting White Knight Manteau can be done from Slot 4 to Slot 2.  \nPlease select what you wish to do.",
+        "pt-BR": "[Temporalizador RUF-10]\nEncantar o Manto Branco inicia no Slot 4 e vai até o 2.\nSelecione o que deseja fazer.",
+        "es-ES": "[Temporizador RUF-10]\nEncantar el Manto Blanco comienza en la Ranura 4 y va hasta la 2.\nSeleccione lo que desea hacer."
+    },
+    "LbvBDQ": {
+        "en-US": "Upgrade Enchant",
+        "pt-BR": "Melhorar Encanto",
+        "es-ES": "Mejorar Encanto"
+    },
+    "LrvBDQ": {
+        "en-US": "Enchant Reset",
+        "pt-BR": "Resetar Encanto",
+        "es-ES": "Reiniciar Encanto"
+    },
+    "L7vBDQ": {
+        "en-US": "Enchant",
+        "pt-BR": "Encantar",
+        "es-ES": "Encantar"
+    },
+    "MLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSummary of Upgrade Enchant rules:",
+        "pt-BR": "[Temporalizador RUF-10]\nPreste atenção nas regras a seguir.",
+        "es-ES": "[Temporizador RUF-10]\nPreste atención a las siguientes reglas."
+    },
+    "MbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nAll options can be upgraded to a higher level up to Level 5.  \n^0000FFSpecial Option 'Spirit of Knight' can be upgraded up to Level 7.^000000  \n^FF0000Note: Luck Option upgrading to Level 3 will change to Skill Delay Lv1.^000000  \nIf you understand, shall we begin?",
+        "pt-BR": "[Temporalizador RUF-10]\nTodos os encantos serão melhorados para o nível 5.\n^0000FFA opção do Espírito do Cavaleiro vai até o 7.^000000  \n^FF0000Há um encanto de sorte do nível 3 que vai mudar para outro encanto em nível 1.^000000  \nSe você entendeu, podemos começar.",
+        "es-ES": "[Temporizador RUF-10]\nTodos los encantos serán mejorados al nivel 5.\n^0000FFLa opción del Espíritu del Caballero llega hasta el 7.^000000\n^FF0000Hay un encanto de suerte de nivel 3 que cambiará a otro encanto de nivel 1.^000000\nSi lo entendió, podemos comenzar."
+    },
+    "MrvBDQ": {
+        "en-US": "Let's start",
+        "pt-BR": "Começar",
+        "es-ES": "Comenzar"
+    },
+    "M7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThis item has not been enchanted. You need to Enchant Slot4 first.",
+        "pt-BR": "[Temporalizador RUF-10]\nEsse item não foi encantado. Primeiro, encante o Slot 4.",
+        "es-ES": "[Temporizador RUF-10]\nEste objeto no ha sido encantado. Primero, encante la Ranura 4."
+    },
+    "NLvBDQ": {
+        "en-US": "Expert Archer 1",
+        "pt-BR": "Mira Apurada 1",
+        "es-ES": "Arquero Experto 1"
+    },
+    "NbvBDQ": {
+        "en-US": "Expert Archer 2",
+        "pt-BR": "Mira Apurada 2",
+        "es-ES": "Arquero Experto 2"
+    },
+    "NrvBDQ": {
+        "en-US": "Expert Archer 2",
+        "pt-BR": "Mira Apurada 2",
+        "es-ES": "Arquero Experto 2"
+    },
+    "N7vBDQ": {
+        "en-US": "Expert Archer 3",
+        "pt-BR": "Mira Apurada 3",
+        "es-ES": "Arquero Experto 3"
+    },
+    "OLvBDQ": {
+        "en-US": "Expert Archer 3",
+        "pt-BR": "Mira Apurada 3",
+        "es-ES": "Arquero Experto 3"
+    },
+    "ObvBDQ": {
+        "en-US": "Expert Archer 4",
+        "pt-BR": "Mira Apurada 4",
+        "es-ES": "Arquero Experto 4"
+    },
+    "OrvBDQ": {
+        "en-US": "Expert Archer 4",
+        "pt-BR": "Mira Apurada 4",
+        "es-ES": "Arquero Experto 4"
+    },
+    "O7vBDQ": {
+        "en-US": "Expert Archer 5",
+        "pt-BR": "Mira Apurada 5",
+        "es-ES": "Arquero Experto 5"
+    },
+    "PLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe Slot2 Enchant upgrade has reached its maximum. Cannot upgrade further.",
+        "pt-BR": "[Temporalizador RUF-10]\nO slot 2 está no nível máximo. Não podemos ir além.",
+        "es-ES": "[Temporizador RUF-10]\nLa ranura 2 está en el nivel máximo. No podemos ir más allá."
+    },
+    "PbvBDQ": {
+        "en-US": "Warrior Stone 1",
+        "pt-BR": "Pedra do Guerreiro 1",
+        "es-ES": "Piedra del Guerrero 1"
+    },
+    "PrvBDQ": {
+        "en-US": "Warrior Stone 2",
+        "pt-BR": "Pedra do Guerreiro 2",
+        "es-ES": "Piedra del Guerrero 2"
+    },
+    "P7vBDQ": {
+        "en-US": "Warrior Stone 2",
+        "pt-BR": "Pedra do Guerreiro 2",
+        "es-ES": "Piedra del Guerrero 2"
+    },
+    "QLvBDQ": {
+        "en-US": "Warrior Stone 3",
+        "pt-BR": "Pedra do Guerreiro 3",
+        "es-ES": "Piedra del Guerrero 3"
+    },
+    "QbvBDQ": {
+        "en-US": "Warrior Stone 3",
+        "pt-BR": "Pedra do Guerreiro 3",
+        "es-ES": "Piedra del Guerrero 3"
+    },
+    "QrvBDQ": {
+        "en-US": "Warrior Stone 4",
+        "pt-BR": "Pedra do Guerreiro 4",
+        "es-ES": "Piedra del Guerrero 4"
+    },
+    "Q7vBDQ": {
+        "en-US": "Warrior Stone 4",
+        "pt-BR": "Pedra do Guerreiro 4",
+        "es-ES": "Piedra del Guerrero 4"
+    },
+    "RLvBDQ": {
+        "en-US": "Warrior Stone 5",
+        "pt-BR": "Pedra do Guerreiro 5",
+        "es-ES": "Piedra del Guerrero 5"
+    },
+    "RbvBDQ": {
+        "en-US": "Mage Stone 1",
+        "pt-BR": "Pedra do Mágico 1",
+        "es-ES": "Piedra del Mago 1"
+    },
+    "RrvBDQ": {
+        "en-US": "Mage Stone 2",
+        "pt-BR": "Pedra do Mágico 2",
+        "es-ES": "Piedra del Mago 2"
+    },
+    "R7vBDQ": {
+        "en-US": "Mage Stone 2",
+        "pt-BR": "Pedra do Mágico 2",
+        "es-ES": "Piedra del Mago 2"
+    },
+    "SLvBDQ": {
+        "en-US": "Mage Stone 3",
+        "pt-BR": "Pedra do Mágico 3",
+        "es-ES": "Piedra del Mago 3"
+    },
+    "SbvBDQ": {
+        "en-US": "Mage Stone 3",
+        "pt-BR": "Pedra do Mágico 3",
+        "es-ES": "Piedra del Mago 3"
+    },
+    "SrvBDQ": {
+        "en-US": "Mage Stone 4",
+        "pt-BR": "Pedra do Mágico 4",
+        "es-ES": "Piedra del Mago 4"
+    },
+    "S7vBDQ": {
+        "en-US": "Mage Stone 4",
+        "pt-BR": "Pedra do Mágico 4",
+        "es-ES": "Piedra del Mago 4"
+    },
+    "TLvBDQ": {
+        "en-US": "Mage Stone 5",
+        "pt-BR": "Pedra do Mágico 5",
+        "es-ES": "Piedra del Mago 5"
+    },
+    "TbvBDQ": {
+        "en-US": "Critical",
+        "pt-BR": "Crítico",
+        "es-ES": "Crítico"
+    },
+    "TrvBDQ": {
+        "en-US": "Critical 1",
+        "pt-BR": "Crítico 1",
+        "es-ES": "Crítico 1"
+    },
+    "T7vBDQ": {
+        "en-US": "Critical 1",
+        "pt-BR": "Crítico 1",
+        "es-ES": "Crítico 1"
+    },
+    "ULvBDQ": {
+        "en-US": "Critical 2",
+        "pt-BR": "Crítico 2",
+        "es-ES": "Crítico 2"
+    },
+    "UbvBDQ": {
+        "en-US": "Critical 2",
+        "pt-BR": "Crítico 2",
+        "es-ES": "Crítico 2"
+    },
+    "UrvBDQ": {
+        "en-US": "Critical 3",
+        "pt-BR": "Crítico 3",
+        "es-ES": "Crítico 3"
+    },
+    "U7vBDQ": {
+        "en-US": "Critical 3",
+        "pt-BR": "Crítico 3",
+        "es-ES": "Crítico 3"
+    },
+    "VLvBDQ": {
+        "en-US": "Critical 4",
+        "pt-BR": "Crítico 4",
+        "es-ES": "Crítico 4"
+    },
+    "VbvBDQ": {
+        "en-US": "Spell 1",
+        "pt-BR": "Pedra de Encantamento 1",
+        "es-ES": "Piedra de Encantamiento 1"
+    },
+    "VrvBDQ": {
+        "en-US": "Spell 2",
+        "pt-BR": "Pedra de Encantamento 2",
+        "es-ES": "Piedra de Encantamiento 2"
+    },
+    "V7vBDQ": {
+        "en-US": "Spell 2",
+        "pt-BR": "Pedra de Encantamento 2",
+        "es-ES": "Piedra de Encantamiento 2"
+    },
+    "WLvBDQ": {
+        "en-US": "Spell 3",
+        "pt-BR": "Pedra de Encantamento 3",
+        "es-ES": "Piedra de Encantamiento 3"
+    },
+    "WbvBDQ": {
+        "en-US": "Spell 3",
+        "pt-BR": "Pedra de Encantamento 3",
+        "es-ES": "Piedra de Encantamiento 3"
+    },
+    "WrvBDQ": {
+        "en-US": "Spell 4",
+        "pt-BR": "Pedra de Encantamento 4",
+        "es-ES": "Piedra de Encantamiento 4"
+    },
+    "W7vBDQ": {
+        "en-US": "Spell 4",
+        "pt-BR": "Pedra de Encantamento 4",
+        "es-ES": "Piedra de Encantamiento 4"
+    },
+    "XLvBDQ": {
+        "en-US": "Spell 5",
+        "pt-BR": "Pedra de Encantamento 5",
+        "es-ES": "Piedra de Encantamiento 5"
+    },
+    "XbvBDQ": {
+        "en-US": "LUK+1",
+        "pt-BR": "LUK+1",
+        "es-ES": "SUE+1"
+    },
+    "XrvBDQ": {
+        "en-US": "LUK+2",
+        "pt-BR": "LUK+2",
+        "es-ES": "SUE+2"
+    },
+    "X7vBDQ": {
+        "en-US": "LUK+2",
+        "pt-BR": "LUK+2",
+        "es-ES": "SUE+2"
+    },
+    "YLvBDQ": {
+        "en-US": "After-skill delay 1",
+        "pt-BR": "Anti-Horário 1",
+        "es-ES": "Posconjuración Nv. 1"
+    },
+    "YbvBDQ": {
+        "en-US": "After-skill delay 1",
+        "pt-BR": "Anti-Horário 1",
+        "es-ES": "Posconjuración Nv. 1"
+    },
+    "YrvBDQ": {
+        "en-US": "After-skill delay 2",
+        "pt-BR": "Anti-Horário 2",
+        "es-ES": "Posconjuración Nv. 2"
+    },
+    "Y7vBDQ": {
+        "en-US": "After-skill delay 2",
+        "pt-BR": "Anti-Horário 2",
+        "es-ES": "Posconjuración Nv. 2"
+    },
+    "ZLvBDQ": {
+        "en-US": "After-skill delay 3",
+        "pt-BR": "Anti-Horário 3",
+        "es-ES": "Posconjuración Nv. 3"
+    },
+    "ZbvBDQ": {
+        "en-US": "Spirit of Knight Lv.1",
+        "pt-BR": "Spirit of Knight Nv.1",
+        "es-ES": "Espíritu del Caballero Nv.1"
+    },
+    "ZrvBDQ": {
+        "en-US": "Spirit of Knight Lv.2",
+        "pt-BR": "Spirit of Knight Nv.2",
+        "es-ES": "Espíritu del Caballero Nv.2"
+    },
+    "Z7vBDQ": {
+        "en-US": "Spirit of Knight Lv.2",
+        "pt-BR": "Spirit of Knight Nv.2",
+        "es-ES": "Espíritu del Caballero Nv.2"
+    },
+    "aLvBDQ": {
+        "en-US": "Spirit of Knight Lv.3",
+        "pt-BR": "Spirit of Knight Nv.3",
+        "es-ES": "Espíritu del Caballero Nv.3"
+    },
+    "abvBDQ": {
+        "en-US": "Spirit of Knight Lv.3",
+        "pt-BR": "Spirit of Knight Nv.3",
+        "es-ES": "Espíritu del Caballero Nv.3"
+    },
+    "arvBDQ": {
+        "en-US": "Spirit of Knight Lv.4",
+        "pt-BR": "Spirit of Knight Nv.4",
+        "es-ES": "Espíritu del Caballero Nv.4"
+    },
+    "a7vBDQ": {
+        "en-US": "Spirit of Knight Lv.4",
+        "pt-BR": "Spirit of Knight Nv.4",
+        "es-ES": "Espíritu del Caballero Nv.4"
+    },
+    "bLvBDQ": {
+        "en-US": "Spirit of Knight Lv.5",
+        "pt-BR": "Spirit of Knight Nv.5",
+        "es-ES": "Espíritu del Caballero Nv.5"
+    },
+    "bbvBDQ": {
+        "en-US": "Spirit of Knight Lv.5",
+        "pt-BR": "Spirit of Knight Nv.5",
+        "es-ES": "Espíritu del Caballero Nv.5"
+    },
+    "brvBDQ": {
+        "en-US": "Spirit of Knight Lv.6",
+        "pt-BR": "Spirit of Knight Nv.6",
+        "es-ES": "Espíritu del Caballero Nv.6"
+    },
+    "b7vBDQ": {
+        "en-US": "Spirit of Knight Lv.6",
+        "pt-BR": "Spirit of Knight Nv.6",
+        "es-ES": "Espíritu del Caballero Nv.6"
+    },
+    "cLvBDQ": {
+        "en-US": "Spirit of Knight Lv.7",
+        "pt-BR": "Spirit of Knight Nv.7",
+        "es-ES": "Espíritu del Caballero Nv.7"
+    },
+    "cbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThis is not an Enchant I process.",
+        "pt-BR": "[Temporalizador RUF-10]\nEu não trabalho com esse encantamento.",
+        "es-ES": "[Temporizador RUF-10]\nYo no trabajo con ese encantamiento."
+    },
+    "crvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe Slot3 Enchant upgrade has reached its maximum. Cannot upgrade further.",
+        "pt-BR": "[Temporalizador RUF-10]\nO slot 3 está no nível máximo. Não podemos ir além.",
+        "es-ES": "[Temporizador RUF-10]\nLa ranura 3 está en el nivel máximo. No podemos ir más allá."
+    },
+    "c7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe Slot4 Enchant upgrade has reached its maximum. Cannot upgrade further.",
+        "pt-BR": "[Temporalizador RUF-10]\nO slot 4 está no nível máximo. Não podemos ir além.",
+        "es-ES": "[Temporizador RUF-10]\nLa ranura 4 está en el nivel máximo. No podemos ir más allá."
+    },
+    "dLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nYou are about to upgrade ^0000FFSlot {0}^000000\nCurrent option: ^0000FF{1}^000000\nIf successful, it will upgrade to ^0000FF{2}^000000\n^FF0000If it fails, it will decrease by 1 level.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\nEncantarei o ^0000FFSlot {0}^000000\nEncanto atual: ^0000FF{1}^000000\nEm caso de sucesso: ^0000FF{2}^000000\n^FF0000Se falhar, perde 1 nível.^000000",
+        "es-ES": "[Temporizador RUF-10]\nEncantaré la ^0000FFRanura {0}^000000\nEncanto actual: ^0000FF{1}^000000\nEn caso de éxito: ^0000FF{2}^000000\n^FF0000Si falla, pierde 1 nivel.^000000"
+    },
+    "dbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nMaterials required:  \n^0000FFTemporal Spell ^000000 {0} ea\n^0000FFTemporal Gemstone ^000000 {1} ea\n^0000FFFee ^000000 {2} Zeny\n^0000FFSuccess Rate ^000000 {3} %\nDo you wish to continue?",
+        "pt-BR": "[Temporalizador RUF-10]\nMateriais:  \n^0000FFPoder Temporal ^000000 {0} un\n^0000FFGema Temporal ^000000 {1} un\n^0000FFPreço ^000000 {2} Zeny\n^0000FFSucesso ^000000 {3} %\nContinuar?",
+        "es-ES": "[Temporizador RUF-10]\nMateriales:\n^0000FFPoder Temporal ^000000 {0} un\n^0000FFGema Temporal ^000000 {1} un\n^0000FFPrecio ^000000 {2} Zeny\n^0000FFÉxito ^000000 {3} %\n¿Continuar?"
+    },
+    "drvBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000Not enough Temporal Spell. Please check your inventory again.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000Não há Poder Temporal suficiente. Por favor, veja seu inventário.^000000",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000No hay suficiente Poder Temporal. Por favor, revise su inventario.^000000"
+    },
+    "d7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000Not enough Temporal Gemstone. Please check your inventory again.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000Não há Gema Temporal suficiente. Por favor, veja seu inventário.^000000",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000No hay suficiente Gema Temporal. Por favor, revise su inventario.^000000"
+    },
+    "eLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nInsufficient funds. Please check again.",
+        "pt-BR": "[Temporalizador RUF-10]\nDinheiro insuficiente.",
+        "es-ES": "[Temporizador RUF-10]\nDinero insuficiente."
+    },
+    "ebvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nUpgrade Enchant failed.  \nDisconnecting from the system.",
+        "pt-BR": "[Temporalizador RUF-10]\nFalha ao encantar. \nEncerrando o processo.",
+        "es-ES": "[Temporizador RUF-10]\nFalla al encantar.\nTerminando el proceso."
+    },
+    "ervBDQ": {
+        "en-US": "[Time Machine RUF-10]\nUpgrade Enchant successful.  \nThank you for using our service.",
+        "pt-BR": "[Temporalizador RUF-10]\nSucesso ao encantar.\nObrigado por usar nossos serviços.",
+        "es-ES": "[Temporizador RUF-10]\nÉxito al encantar.\nGracias por usar nuestros servicios."
+    },
+    "e7vBDQ": {
+        "en-US": "[Time Machine RUF-10]",
+        "pt-BR": "[Temporalizador RUF-10]",
+        "es-ES": "[Temporizador RUF-10]"
+    },
+    "fLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nWhich Slot would you like to Enchant?",
+        "pt-BR": "[Temporalizador RUF-10]\nQual slot deseja encantar?",
+        "es-ES": "[Temporizador RUF-10]\n¿Qué ranura desea encantar?"
+    },
+    "fbvBDQ": {
+        "en-US": "Slot4",
+        "pt-BR": "Slot 4",
+        "es-ES": "Ranura 4"
+    },
+    "frvBDQ": {
+        "en-US": "Slot3",
+        "pt-BR": "Slot 3",
+        "es-ES": "Ranura 3"
+    },
+    "f7vBDQ": {
+        "en-US": "Slot2",
+        "pt-BR": "Slot 2",
+        "es-ES": "Ranura 2"
+    },
+    "gLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThere is already an Enchant in Slot4.  \nPlease choose Upgrade Enchant or Enchant Slot3 instead if you wish to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nO Slot 4 já está encantado.  \nPor favor, escolha 'Melhorar Encanto' ou 'Encantar Slot 3' na próxima vez.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 4 ya está encantada.\nPor favor, elija 'Mejorar Encanto' o 'Encantar Ranura 3' la próxima vez."
+    },
+    "gbvBDQ": {
+        "en-US": "Warrior Stone",
+        "pt-BR": "Pedra do Guerreiro",
+        "es-ES": "Piedra del Guerrero"
+    },
+    "grvBDQ": {
+        "en-US": "Expert Archer",
+        "pt-BR": "Mira Apurada",
+        "es-ES": "Arquero Experto"
+    },
+    "g7vBDQ": {
+        "en-US": "Mage Stone",
+        "pt-BR": "Pedra do Mágico",
+        "es-ES": "Piedra del Mago"
+    },
+    "hLvBDQ": {
+        "en-US": "Spell",
+        "pt-BR": "Pedra de Encantamento",
+        "es-ES": "Piedra de Encantamiento"
+    },
+    "hbvBDQ": {
+        "en-US": "Critical",
+        "pt-BR": "Crítico",
+        "es-ES": "Crítico"
+    },
+    "hrvBDQ": {
+        "en-US": "After-skill delay",
+        "pt-BR": "Anti-Horário",
+        "es-ES": "Posconjuración"
+    },
+    "h7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSlot4 can be enhanced with 6 types of Options. Please select the Option you want.",
+        "pt-BR": "[Temporalizador RUF-10]\nSlot 4 pode ser encantado com 6 tipos de encantos. Por favor, selecione a opção desejada.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 4 se puede encantar con 6 tipos de encantos. Por favor, seleccione la opción deseada."
+    },
+    "iLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nWith a 100% success rate, shall we begin?",
+        "pt-BR": "[Temporalizador RUF-10]\nCom 100% de chance de sucesso, podemos começar?",
+        "es-ES": "[Temporizador RUF-10]\nCon 100% de probabilidad de éxito, ¿podemos comenzar?"
+    },
+    "ibvBDQ": {
+        "en-US": "Let's do it",
+        "pt-BR": "Vamos lá!",
+        "es-ES": "¡Vamos!"
+    },
+    "irvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nNot enough Temporal Spell. Please check your inventory again.",
+        "pt-BR": "[Temporalizador RUF-10]\nNão há Poder Temporal suficiente. Por favor, veja seu inventário.",
+        "es-ES": "[Temporizador RUF-10]\nNo hay suficiente Poder Temporal. Por favor, revise su inventario."
+    },
+    "i7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nNot enough Temporal Gemstone. Please check your inventory again.",
+        "pt-BR": "[Temporalizador RUF-10]\nNão há Gema Temporal suficiente. Por favor, veja seu inventário.",
+        "es-ES": "[Temporizador RUF-10]\nNo hay suficiente Gema Temporal. Por favor, revise su inventario."
+    },
+    "jLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000Caution!! Once you enchant Slot3, you will not be able to go back and upgrade Slot4's Enchant level.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000Atenção!! Ao encantar o Slot 3, você não poderá voltar a mexer no Slot 4.^000000",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000¡¡Atención!! Al encantar la Ranura 3, no podrá volver a tocar la Ranura 4.^000000"
+    },
+    "jbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSlot4 has not been enchanted yet. Cannot proceed.  \nPlease choose Enchant Slot4 instead if you wish to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nSlot 4 não foi encantado. Não podemos continuar.  \nPrimeiro, encante o Slot 4.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 4 no ha sido encantada. No podemos continuar.\nPrimero, encante la Ranura 4."
+    },
+    "jrvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThere is already an Enchant in Slot3.  \nPlease choose Upgrade Enchant or Enchant Slot2 instead if you wish to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nO Slot 4 já está encantado.  \nPor favor, escolha 'Melhorar Encanto' ou 'Encantar Slot 2' na próxima vez.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 4 ya está encantada.\nPor favor, elija 'Mejorar Encanto' o 'Encantar Ranura 2' la próxima vez."
+    },
+    "j7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSlot3 can be enhanced with 6 types of Options. Please select the Option you want.",
+        "pt-BR": "[Temporalizador RUF-10]\nSlot 3 pode ser encantado com 6 tipos de encantos. Por favor, selecione a opção desejada.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 3 se puede encantar con 6 tipos de encantos. Por favor, seleccione la opción deseada."
+    },
+    "kLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\n^FF0000Caution!! Once you enchant Slot2, you will not be able to go back and upgrade Slot3's Enchant level.^000000",
+        "pt-BR": "[Temporalizador RUF-10]\n^FF0000Atenção!! Ao encantar o Slot 2, você não poderá voltar a mexer no Slot 3.^000000",
+        "es-ES": "[Temporizador RUF-10]\n^FF0000¡¡Atención!! Al encantar la Ranura 2, no podrá volver a tocar la Ranura 3.^000000"
+    },
+    "kbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSlot3 or Slot4 has not been enchanted yet. Cannot proceed.  \nPlease choose Enchant Slot3 or Slot4 instead if you wish to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nSlot 3 ou Slot 4 não foi encantado. Não podemos continuar.  \nPrimeiro, encante o Slot 3 ou Slot 4.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 3 o la Ranura 4 no han sido encantadas. No podemos continuar.\nPrimero, encante la Ranura 3 o la Ranura 4."
+    },
+    "krvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThere is already an Enchant in Slot2.  \nPlease choose Upgrade Enchant or Reset Enchant instead if you wish to proceed.",
+        "pt-BR": "[Temporalizador RUF-10]\nO Slot 2 já está encantado.  \nPor favor, escolha 'Melhorar Encanto' na próxima vez.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 2 ya está encantada.\nPor favor, elija 'Mejorar Encanto' la próxima vez."
+    },
+    "k7vBDQ": {
+        "en-US": "Spirit of Knight",
+        "pt-BR": "Spirit of Knight",
+        "es-ES": "Espíritu del Caballero"
+    },
+    "lLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nSlot2 can be enhanced with 7 types of Options. Please select the Option you want.",
+        "pt-BR": "[Temporalizador RUF-10]\nSlot 2 pode ser encantado com 7 tipos de encantos. Por favor, selecione a opção desejada.",
+        "es-ES": "[Temporizador RUF-10]\nLa Ranura 2 se puede encantar con 7 tipos de encantos. Por favor, seleccione la opción deseada."
+    },
+    "lbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nThe 'Spirit of Knight' option has an additional cost.  \n^0000FFPay 100x Nyangvine. Do you wish to continue!?",
+        "pt-BR": "[Temporalizador RUF-10]\nO encanto 'Spirit of Knight' tem um custo adicional.\n^0000FFVocê gastará 100x MiauMiau.^000000 Deseja continuar?",
+        "es-ES": "[Temporizador RUF-10]\nEl encanto 'Espíritu del Caballero' tiene un costo adicional.\n^0000FFGastará 100x MiauFruto.^000000 ¿Desea continuar?"
+    },
+    "lrvBDQ": {
+        "en-US": "Pay",
+        "pt-BR": "Pagar",
+        "es-ES": "Pagar"
+    },
+    "l7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nNot enough Silvervine Fruit. Please check your inventory again.",
+        "pt-BR": "[Temporalizador RUF-10]\nNão há Fruta dos Gatos suficiente. Por favor, veja seu inventário.",
+        "es-ES": "[Temporizador RUF-10]\nNo hay suficiente Fruta Silvervine. Por favor, revise su inventario."
+    },
+    "mLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nOption to remove Enchant from the equipment.  \nPlease select the option you wish to proceed with.",
+        "pt-BR": "[Temporalizador RUF-10]\nVocê selecionou o reset de encantamentos.\nPor favor, selecione a opção desejada.",
+        "es-ES": "[Temporizador RUF-10]\nSeleccionó el reinicio de encantamientos.\nPor favor, seleccione la opción deseada."
+    },
+    "mbvBDQ": {
+        "en-US": "Remove all Enchants",
+        "pt-BR": "Remover todos os encantos.",
+        "es-ES": "Eliminar todos los encantos."
+    },
+    "mrvBDQ": {
+        "en-US": "Remove only Slot2",
+        "pt-BR": "Remover apenas do Slot 2.",
+        "es-ES": "Eliminar solo la Ranura 2."
+    },
+    "m7vBDQ": {
+        "en-US": "[Time Machine RUF-10]\nFee:  \n20x Silvervine. Do you wish to continue?",
+        "pt-BR": "[Temporalizador RUF-10]\nPreço:  \n20x Fruta dos Gatos. Continuar?",
+        "es-ES": "[Temporizador RUF-10]\nPrecio:\n20x Fruta Silvervine. ¿Continuar?"
+    },
+    "nLvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nFee:  \n50x Silvervine. Do you wish to continue?",
+        "pt-BR": "[Temporalizador RUF-10]\nPreço:  \n50x Fruta dos Gatos. Continuar?",
+        "es-ES": "[Temporizador RUF-10]\nPrecio:\n50x Fruta Silvervine. ¿Continuar?"
+    },
+    "nbvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nWhen using the 'Greater' grade, the selected option will be granted at Lv.1~5.\nThe probabilities are ^0000FF25% : 22% : 20% : 18% : 15%^000000.",
+        "pt-BR": "[Temporalizador RUF-10]\nAo usar a categoria 'Forte', a opção selecionada será concedida entre os níveis 1~5.\nAs probabilidades são ^0000FF25% : 22% : 20% : 18% : 15%^000000.",
+        "es-ES": "[Temporizador RUF-10]\nAl usar la categoría 'Fuerte', la opción seleccionada se otorgará entre los niveles 1~5.\nLas probabilidades son ^0000FF25% : 22% : 20% : 18% : 15%^000000."
+    },
+    "nrvBDQ": {
+        "en-US": "[Time Machine RUF-10]\nWhen using the 'Lesser' grade, the selected option will be granted at Lv.1~5.\nThe probabilities are ^0000FF35% : 25% : 20% : 15% : 5%^000000.",
+        "pt-BR": "[Temporalizador RUF-10]\nAo usar a categoria 'Fraca', a opção selecionada será concedida entre os níveis 1~5.\nAs probabilidades são ^0000FF35% : 25% : 20% : 15% : 5%^000000.",
+        "es-ES": "[Temporizador RUF-10]\nAl usar la categoría 'Débil', la opción seleccionada se otorgará entre los niveles 1~5.\nLas probabilidades son ^0000FF35% : 25% : 20% : 15% : 5%^000000."
+    }
+}

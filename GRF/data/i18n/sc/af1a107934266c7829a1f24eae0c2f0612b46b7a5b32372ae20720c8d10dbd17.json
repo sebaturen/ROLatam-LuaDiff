@@ -77,7 +77,7 @@
     "D6hh": {
         "en-US": "Please tell me about Bifrost.",
         "pt-BR": "Por favor, fale-me sobre a Bifrost.",
-        "es-ES": "Cuéntame sobre el Bifrost."
+        "es-ES": "Cuéntame sobre el Bifröst."
     },
     "EKhh": {
         "en-US": "[Professor Worm]",
@@ -172,7 +172,7 @@
     "Iqhh": {
         "en-US": "Bifrost? It's sleeping.\nIt's in a deep sleep.\nI might also be sleeping a lot later..\nIt's going to be my turn next!\nNo, no! I can't just be the one to take it.\nMonsters, I have to let more monsters loose!",
         "pt-BR": "Bifrost? Ele está dormindo.\nEstá em um sono profundo.\nEu também posso estar dormindo muito mais tarde...\nAgora será a minha vez!\nNão, não! Não posso ser o único a levá-la.\nMonstros, tenho que soltar mais monstros!",
-        "es-ES": "¿El Bifrost? Está durmiendo.\nEstá sumido en un sueño profundo.\nQuizás después yo también duerma mucho...\n¡La próxima vez me toca!\n¡No, no! No puedo ser yo quien lo tome.\nMonstruos, ¡debo liberar más monstruos!"
+        "es-ES": "¿El Bifröst? Está durmiendo.\nEstá sumido en un sueño profundo.\nQuizás después yo también duerma mucho...\n¡La próxima vez me toca!\n¡No, no! No puedo ser yo quien lo tome.\nMonstruos, ¡debo liberar más monstruos!"
     },
     "I6hh": {
         "en-US": "[Professor Worm]\nThis is my portrait?",
@@ -257,7 +257,7 @@
     "M6hh": {
         "en-US": "Every wall is filled with Professor Worm's notes.\nIf I study the walls carefully I might be able to gain some information on the tower or Bifrost.",
         "pt-BR": "Todas as paredes estão cheias de anotações do Professor Fabre.\nSe eu estudar as paredes com cuidado, talvez consiga obter alguma informação sobre a torre ou Bifrost.",
-        "es-ES": "Todas las paredes están llenas de notas del profesor Gusano.\nSi estudio las paredes con cuidado, quizá pueda obtener alguna información sobre la torre o el Bifrost."
+        "es-ES": "Todas las paredes están llenas de notas del profesor Gusano.\nSi estudio las paredes con cuidado, quizá pueda obtener alguna información sobre la torre o el Bifröst."
     },
     "NKhh": {
         "en-US": "Every wall has so much doodling.\nIt looks like my writing. I must have done it.\nPlease take a look at five different walls, analyze what I doodled, and let me know what you find.\nI'm so curious, so curious that all my memories might float away.",
@@ -277,12 +277,12 @@
     "N6hh": {
         "en-US": "I see. I was producing medicines to put Bifrost to sleep. For that, I was punished and transformed into a worm and my memories deteriorated so rapidly.\nLet me think about this for a bit.",
         "pt-BR": "Entendo. Eu estava produzindo medicamentos para colocar Bifrost para dormir. Por isso, fui punido e transformado em um verme e minha memória se deteriorou rapidamente.\nDeixe-me pensar um pouco sobre isso.",
-        "es-ES": "Ya veo. Estaba produciendo medicinas para hacer dormir al Bifrost. Por ello, me castigaron y transformaron en gusano, y mis recuerdos se deterioraron muy rápidamente.\nDéjame pensar un momento."
+        "es-ES": "Ya veo. Estaba produciendo medicinas para hacer dormir al Bifröst. Por ello, me castigaron y transformaron en gusano, y mis recuerdos se deterioraron muy rápidamente.\nDéjame pensar un momento."
     },
     "OKhh": {
         "en-US": "[Professor Worm]\nHey monster, thanks to you I think my memory is returning bit by bit.\nBut why did I get stuck in this tower?\nAnd for what reason did I put Bifrost to sleep?",
         "pt-BR": "[Professor Fabre]\nEi, monstro, graças a você, acho que minha memória está voltando pouco a pouco.\nMas por que fiquei preso nesta torre?\nE por qual motivo eu coloquei o Bifrost para dormir?",
-        "es-ES": "[Profesor Gusano]\nOye, monstruo, gracias a ti creo que mi memoria va volviendo poco a poco.\nPero, ¿por qué me quedé atrapado en esta torre?\n¿Y por qué razón puse a dormir al Bifrost?"
+        "es-ES": "[Profesor Gusano]\nOye, monstruo, gracias a ti creo que mi memoria va volviendo poco a poco.\nPero, ¿por qué me quedé atrapado en esta torre?\n¿Y por qué razón puse a dormir al Bifröst?"
     },
     "Oahh": {
         "en-US": "Don't ask me that!",
@@ -487,7 +487,7 @@
     "Yahh": {
         "en-US": "[Wall Note 1]\nI succeeded in putting Bifrost to sleep.\nI am just so amazing!\nBut why do I have to remain in a place like this, too?",
         "pt-BR": "[Nota de Parede 1]\nConsegui colocar o Bifrost para dormir.\nSou simplesmente incrível!\nMas por que também tenho que ficar em um lugar como esse?",
-        "es-ES": "[Nota 1 en la pared]\nLogré poner el Bifrost a dormir.\n¡Soy tan increíble!\nPero, ¿por qué tengo que permanecer yo también en un lugar así?"
+        "es-ES": "[Nota 1 en la pared]\nLogré poner el Bifröst a dormir.\n¡Soy tan increíble!\nPero, ¿por qué tengo que permanecer yo también en un lugar así?"
     },
     "Yqhh": {
         "en-US": "Professor Worm's notes on this wall have already been read.",
@@ -522,7 +522,7 @@
     "aKhh": {
         "en-US": "[Wall Note 2]\nIt hasn't been too long since I was imprisoned in the tower, but my memories are leaving me so rapidly.\nIt may be Bifrost's strong will to stay awake that is affecting me this way.",
         "pt-BR": "[Nota de Parede 2]\nNão faz muito tempo que fui aprisionado na torre, mas minhas memórias estão me deixando tão rapidamente.\nTalvez seja a forte vontade de Bifrost de ficar acordado que esteja me afetando dessa forma.",
-        "es-ES": "[Nota 2 en la pared]\nNo pasó mucho tiempo desde que me apresaron en la torre, pero mis recuerdos se borran muy rápidamente.\nPuede que lo que me está afectando de esta manera sea la fuerte voluntad del Bifrost de permanecer despierto."
+        "es-ES": "[Nota 2 en la pared]\nNo pasó mucho tiempo desde que me apresaron en la torre, pero mis recuerdos se borran muy rápidamente.\nPuede que lo que me está afectando de esta manera sea la fuerte voluntad del Bifröst de permanecer despierto."
     },
     "aahh": {
         "en-US": "[Wall Note 2]\nI wonder if I'll forget even my name... How it worries me...",
@@ -537,17 +537,17 @@
     "a6hh": {
         "en-US": "[Wall Note 3]\nIs this also because of Bifrost?\nIs it Bifrost's curse against me for putting her to sleep?\nIs it doing this to me while it's asleep?\nI can't believe it... My goodness!",
         "pt-BR": "[Nota da parede 3]\nIsso também é por causa de Bifrost?\nÉ a maldição de Bifrost contra mim por tê-la colocado para dormir?\nEla está fazendo isso comigo enquanto está dormindo?\nNão posso acreditar nisso... Meu Deus!",
-        "es-ES": "[Nota 3 en la pared]\n¿Esto también se debe al Bifrost?\n¿Es una maldición del Bifrost contra mí por hacerlo dormir?\n¿Me está haciendo esto mientras duerme?\nNo puedo creerlo... ¡Por todos los cielos!"
+        "es-ES": "[Nota 3 en la pared]\n¿Esto también se debe al Bifröst?\n¿Es una maldición del Bifröst contra mí por hacerlo dormir?\n¿Me está haciendo esto mientras duerme?\nNo puedo creerlo... ¡Por todos los cielos!"
     },
     "bKhh": {
         "en-US": "[Wall Note 4]\nBifrost's head is still growing continuously. I can't believe this... She's keep stretching beyond the tower!\nCould it be her strong will, is still awake and is trying to send a message?",
         "pt-BR": "[Nota de Parede 4]\nA cabeça de Bifrost ainda está crescendo continuamente. Não posso acreditar nisso... Ela continua se esticando para além da torre!\nSerá que, com sua forte vontade, ainda está acordada e tentando enviar uma mensagem?",
-        "es-ES": "[Nota 4 en la pared]\nLa cabeza del Bifrost sigue creciendo continuamente. No puedo creerlo... ¡Sigue extendiéndose más allá de la torre!\n¿Podría ser su fuerte voluntad que sigue despierta y está tratando de enviar un mensaje?"
+        "es-ES": "[Nota 4 en la pared]\nLa cabeza del Bifröst sigue creciendo continuamente. No puedo creerlo... ¡Sigue extendiéndose más allá de la torre!\n¿Podría ser su fuerte voluntad que sigue despierta y está tratando de enviar un mensaje?"
     },
     "bahh": {
         "en-US": "[Wall Note 5]\nThe person who will be under attack after Bifrost is none other than me!\nI feel an eerie gaze directed at me!\nI can't just sit here and take it.",
         "pt-BR": "[Nota da parede 5]\nA pessoa que estará sendo atacada depois de Bifrost não é outra senão eu!\nSinto um olhar sinistro direcionado a mim!\nNão posso simplesmente ficar aqui sentado e aceitar isso.",
-        "es-ES": "[Nota 5 en la pared]\n¡La persona que será atacada después del Bifrost no soy otro que yo!\n¡Siento una mirada inquietante dirigida hacia mí!\nNo puedo sentarme aquí y soportarlo."
+        "es-ES": "[Nota 5 en la pared]\n¡La persona que será atacada después del Bifröst no soy otro que yo!\n¡Siento una mirada inquietante dirigida hacia mí!\nNo puedo sentarme aquí y soportarlo."
     },
     "bqhh": {
         "en-US": "[Wall Note 5]\nMonsters, I have to create more monsters to protect me. As many as I could possibly create!",
@@ -587,7 +587,7 @@
     "dahh": {
         "en-US": "[Realistic diary recording by Frog No. 3]\n...He really feared Bifrost!\nHe said that she needs to be eliminated because one day she will endanger him.\nHe sure said it, that person! Ahhhh~ I can't remember him- that person!",
         "pt-BR": "[Registro realista do diário pelo Sapo nº 3]\n...Ele realmente temia a Bifrost!\nDisse que ela precisa ser eliminada porque um dia ela o colocará em perigo.\nEle disse isso mesmo, essa pessoa! Ahhhh~ Não consigo me lembrar dele - dessa pessoa!",
-        "es-ES": "[Grabación realista de la Rana-diario núm.3]\n¡...Realmente le temía al Bifrost!\nDijo que había que eliminarlo porque un día lo pondría en peligro.\n¡Ciertamente lo dijo, esa persona! Ahhhh No puedo recordar... ¡a esa persona!"
+        "es-ES": "[Grabación realista de la Rana-diario núm.3]\n¡...Realmente le temía al Bifröst!\nDijo que había que eliminarlo porque un día lo pondría en peligro.\n¡Ciertamente lo dijo, esa persona! Ahhhh No puedo recordar... ¡a esa persona!"
     },
     "dqhh": {
         "en-US": "[Diary Frog No.3]\nThis is the end of the recording.\nAnother Diary Frog probably got thrown onto the first floor of the tower.",
@@ -707,7 +707,7 @@
     "jahh": {
         "en-US": "[Realistic diary recording by Frog No. 6]\nLet's put Bifrost to sleep.\nHe told me to remain here and control her sleep.\nIf she awakes, it would be my fault.\nIt has already been many decades.",
         "pt-BR": "[Registro realista do diário pelo Sapo nº 6]\nVamos colocar a Bifrost para dormir.\nEle me disse para ficar aqui e controlar o sono dela.\nSe ela acordar, a culpa será minha.\nJá se passaram muitas décadas.",
-        "es-ES": "[Grabación realista de la Rana-diario núm.6]\nDurmamos al Bifrost.\nMe dijo que me quedara aquí y controlara su sueño.\nSi se despierta, será culpa mía.\nYa pasaron muchas décadas."
+        "es-ES": "[Grabación realista de la Rana-diario núm.6]\nDurmamos al Bifröst.\nMe dijo que me quedara aquí y controlara su sueño.\nSi se despierta, será culpa mía.\nYa pasaron muchas décadas."
     },
     "jqhh": {
         "en-US": "[Realistic diary recording by Frog No. 6]\nIt enrages me! How irritating!\nI want to just awaken her!\nWait... Who do I need to awaken again?",

@@ -16,27 +16,27 @@
     },
     "44teDQ": {
         "en-US": "- You will move to the saved location shortly. -",
-        "pt-BR": "- Você será levado ao local salvo em instantes. -",
+        "pt-BR": "- Você irá ao local salvo em instantes. -",
         "es-ES": "- Te moverás a la ubicación guardada en breve. -"
     },
     "5IteDQ": {
         "en-US": "Grape: Ah.. Ah.. Mic test. Can you hear me? If you can, spin around in place like an elephant trunk.",
-        "pt-BR": "Grape: Ah.. ah.. teste de microfone. Está ouvindo bem? Se estiver, gire no lugar imitando uma tromba de elefante.",
+        "pt-BR": "Uvo: Oi... teste de microfone. Me ouve? Se sim, digite /no1",
         "es-ES": "Grape: Ah... Ah... Prueba de micrófono. ¿Se oye bien? Si me oís, dad vueltas en el sitio haciendo trompa de elefante."
     },
     "5YteDQ": {
         "en-US": "Grape: Just kidding. A familiar place, isn't it? This is a place where the memories of a certain Super Novice have been reconstructed.",
-        "pt-BR": "Grape: É brincadeira. Este lugar é familiar, não é? Aqui é um local onde reconstruímos as memórias de certo Superaprendiz.",
+        "pt-BR": "Uvo: Este lugar é onde reconstruí as memórias de um certo Superaprendiz.",
         "es-ES": "Grape: Es broma. ¿Os resulta familiar este lugar? Es un lugar donde se han reconstruido los recuerdos de cierto Superprincipiante."
     },
     "5oteDQ": {
         "en-US": "Grape: First, take a look around? Once you've looked around enough, I'll call you.",
-        "pt-BR": "Grape: Primeiro, dê uma olhada por aí. Quando achar que já olhou o bastante, eu chamarei você.",
+        "pt-BR": "Uvo: Primeiro, dê uma olhada por aí.",
         "es-ES": "Grape: Primero echad un vistazo por ahí. Cuando crea que ya habéis visto bastante, os llamaré."
     },
     "54teDQ": {
         "en-US": "- Would you like to stop progress\n- in the Memorial Dungeon 『Super Novice's Memory』\n- and return to Aldebaran?\n- Some progress will be reset,\n- and you may be unable to enter\n- the Memorial Dungeon for a certain time.",
-        "pt-BR": "- Deseja interromper o progresso\n- do Calabouço Memorial 『Memórias de Superaprendiz』\n- e voltar para Aldebaran?\n- Parte do progresso será reiniciada,\n- e talvez você não possa entrar\n- no Calabouço Memorial por algum tempo.",
+        "pt-BR": "- Deseja interromper o progresso\n- da instância [Memórias de Aprendiz]\n- e voltar para Al De Baran?\n- Parte do progresso será reiniciada,\n- e talvez você não possa entrar\n- na instância por algum tempo.",
         "es-ES": "- ¿Quieres detener el progreso\n- de la mazmorra memorial 『Recuerdos de Superprincipiante』\n- y volver a Aldebaran?\n- Parte del progreso se reiniciará\n- y es posible que no puedas entrar\n- en la mazmorra memorial durante un tiempo."
     },
     "6IteDQ": {
@@ -51,127 +51,127 @@
     },
     "6oteDQ": {
         "en-US": "Rough-Looking Man",
-        "pt-BR": "Homem de Aparência Intimidadora",
+        "pt-BR": "Homem de Aparência Ameaçadora",
         "es-ES": "Hombre de aspecto rudo"
     },
     "64teDQ": {
         "en-US": "Rough-Looking Man: That back room sure is noisy today. Is something going on?",
-        "pt-BR": "Homem de Aparência Intimidadora: Aquele quarto lá no fundo está bem barulhento hoje, hein? Será que aconteceu alguma coisa?",
+        "pt-BR": "Homem de Aparência Ameaçadora: Aquele quarto lá no fundo está bem barulhento hoje, hein? Será que aconteceu alguma coisa?",
         "es-ES": "Hombre de aspecto rudo: Hoy hay mucho alboroto en esa sala del fondo, ¿no? ¿Pasa algo?"
     },
     "7IteDQ": {
         "en-US": "[Rough-Looking Man]\nThat back room sure is noisy today. Is something going on?",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nAquele quarto lá no fundo está bem barulhento hoje, hein? Será que aconteceu alguma coisa?",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nAquele quarto lá no fundo está bem barulhento hoje, hein? Será que aconteceu alguma coisa?",
         "es-ES": "[Hombre de aspecto rudo]\nHoy hay mucho alboroto en esa sala del fondo, ¿no? ¿Pasa algo?"
     },
     "7YteDQ": {
         "en-US": "Good-Natured Man: Beginner Club? Super Novice Club? Seems like they're holding some kind of event..",
-        "pt-BR": "Homem de Boa Aparência: Clube dos Aprendizes? Clube dos Superaprendiz? Parece que estão fazendo algum evento assim..",
+        "pt-BR": "Homem de Aparência Amigável: Clube do Aprendiz? Parece que estão fazendo algum evento assim.",
         "es-ES": "Hombre de aspecto amable: ¿Club de principiantes? ¿Club de Superprincipiante? Parece que celebran algo así..."
     },
     "7oteDQ": {
         "en-US": "[Good-Natured Man]\nBeginner Club? <B>Super Novice</B> Club? Seems like they're holding some kind of even<B>t</B>..",
-        "pt-BR": "[Homem de Boa Aparência]\nClube dos Aprendizes? Clube dos <B>Superaprendiz</B>? Parece que estão fazendo algum even<B>to</B> assim..",
+        "pt-BR": "[Homem de Aparência Amigável]\nClube do <B>Aprendiz</B>? Parece que estão fazendo algum even<B>to</B> assim.",
         "es-ES": "[Hombre de aspecto amable]\n¿Club de principiantes? ¿Club de <B>Superprincipiante</B>? Parece que celebran algo así..."
     },
     "74teDQ": {
         "en-US": "Good-Natured Man: You know that white-haired fellow who rented a room here recently?",
-        "pt-BR": "Homem de Boa Aparência: Sabe aquele sujeito de cabelo branco que alugou um quarto outro dia?",
+        "pt-BR": "Homem de Aparência Amigável: Sabe aquele sujeito de cabelo branco que alugou um quarto outro dia?",
         "es-ES": "Hombre de aspecto amable: Ya sabes, ese chico de pelo blanco que alquiló una habitación hace poco."
     },
     "8IteDQ": {
         "en-US": "[Good-Natured Man]\nYou know that white-haired fellow who rented a room here recently?",
-        "pt-BR": "[Homem de Boa Aparência]\nSabe aquele sujeito de cabelo branco que alugou um quarto outro dia?",
+        "pt-BR": "[Homem de Aparência Amigável]\nSabe aquele sujeito de cabelo branco que alugou um quarto outro dia?",
         "es-ES": "[Hombre de aspecto amable]\nYa sabes, ese chico de pelo blanco que alquiló una habitación hace poco."
     },
     "8YteDQ": {
         "en-US": "Rough-Looking Man: Ah! Ah.. You mean that unnecessarily confident fellow..",
-        "pt-BR": "Homem de Aparência Intimidadora: Ah! Ah.. aquele sujeito desnecessariamente confiante, não é..",
+        "pt-BR": "Homem de Aparência Ameaçadora: Ah! Ah... aquele sujeito desnecessariamente confiante, não é?",
         "es-ES": "Hombre de aspecto rudo: ¡Ah! Ah... Ese chico con una confianza absurda en sí mismo..."
     },
     "8oteDQ": {
         "en-US": "[Rough-Looking Man]\nAh! Ah.. You mean that unnecessarily confident fellow..",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nAh! Ah.. aquele sujeito desnecessariamente confiante, não é..",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nAh! Ah... aquele sujeito desnecessariamente confiante, não é?",
         "es-ES": "[Hombre de aspecto rudo]\n¡Ah! Ah... Ese chico con una confianza absurda en sí mismo..."
     },
     "84teDQ": {
         "en-US": "Rough-Looking Man: Well, once the event is over, it'll quiet down.",
-        "pt-BR": "Homem de Aparência Intimidadora: Bem, quando o evento acabar, deve ficar quieto.",
+        "pt-BR": "Homem de Aparência Ameaçadora: Bem, quando o evento acabar, deve ficar quieto.",
         "es-ES": "Hombre de aspecto rudo: Bueno, cuando termine el evento se calmará."
     },
     "9IteDQ": {
         "en-US": "[Rough-Looking Man]\nWell, once the event is over, it'll quiet down.",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nBem, quando o evento acabar, deve ficar quieto.",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nBem, quando o evento acabar, deve ficar quieto.",
         "es-ES": "[Hombre de aspecto rudo]\nBueno, cuando termine el evento se calmará."
     },
     "9YteDQ": {
         "en-US": "Good-Natured Man: Come to think of it, didn't you say you were enrolling in the mercenary training grounds? Are you all prepared?",
-        "pt-BR": "Homem de Boa Aparência: Pensando bem, você não disse que entraria no centro de treinamento de mercenários? Já preparou tudo?",
+        "pt-BR": "Homem de Aparência Amigável: Pensando bem, você não disse que entraria no centro de treinamento de Assistentes? Já preparou tudo?",
         "es-ES": "Hombre de aspecto amable: Ahora que lo pienso, ¿no dijiste que ibas a ingresar en el centro de entrenamiento de mercenarios? ¿Lo tienes todo preparado?"
     },
     "9oteDQ": {
         "en-US": "[Good-Natured Man]\nCome to think of it, didn't you say you were enrolling in the mercenary training groun<B>d</B>s? Are you all prepare<B>d</B>?",
-        "pt-BR": "[Homem de Boa Aparência]\nPensando bem, você não disse que entraria no cen<B>tro</B> de treinamento de mercenários? Já preparou tu<B>do</B>?",
+        "pt-BR": "[Homem de Aparência Amigável]\nPensando bem, você não disse que entraria no cen<B>tro</B> de treinamento de Assistentes? Já preparou tu<B>do</B>?",
         "es-ES": "[Hombre de aspecto amable]\nAhora que lo pienso, ¿no dijiste que ibas a ingresar en el centro de entrenamiento de mercenarios? ¿Lo tienes todo preparado?"
     },
     "94teDQ": {
         "en-US": "Rough-Looking Man: What's there to prepare? I'll just go. With someone like me, won't I pass easily?",
-        "pt-BR": "Homem de Aparência Intimidadora: O que há para preparar? É só ir. Com alguém como eu, não acha que vou me formar tranquilamente?",
+        "pt-BR": "Homem de Aparência Ameaçadora: O que há para preparar? É só ir. Com alguém como eu, não acha que vou me formar tranquilamente?",
         "es-ES": "Hombre de aspecto rudo: ¿Qué hay que preparar? Simplemente voy y ya está. Alguien como yo lo completará sin problema, ¿no?"
     },
     "+IteDQ": {
         "en-US": "[Rough-Looking Man]\nWhat's there to prepa<B>r</B>e? I'll just go. With someone like me, won't I pass easily?",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nO que há para preparar? É só ir. Com alguém como eu, não acha que vou me formar tranquilamente?",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nO que há para preparar? É só ir. Com alguém como eu, não acha que vou me formar tranquilamente?",
         "es-ES": "[Hombre de aspecto rudo]\n¿Qué hay que preparar? Simplemente voy y ya está. Alguien como yo lo completará sin problema, ¿no?"
     },
     "+YteDQ": {
         "en-US": "Rough-Looking Man: My dream is to graduate quickly, become a well-paid mercenary, and live while serving my rabbit-like parents.",
-        "pt-BR": "Homem de Aparência Intimidadora: Meu sonho é me formar logo, virar um mercenário que ganha muito dinheiro e viver sustentando meus pais fofinhos como coelhos.",
+        "pt-BR": "Homem de Aparência Ameaçadora: Meu sonho é me formar logo, virar um Assistente que ganha muito dinheiro e viver sustentando meus pais fofinhos como coelhos.",
         "es-ES": "Hombre de aspecto rudo: Mi sueño es graduarme pronto, convertirme en un mercenario que gane mucho dinero y vivir honrando a mis padres, que son como conejitos."
     },
     "+oteDQ": {
         "en-US": "[Rough-Looking Man]\nMy dream is to graduate quickly, become a well-paid mercenary, and live while serving my rabbit-like par<B>e</B>nts.",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nMeu sonho é me formar logo, virar um mercenário que ganha muito dinheiro e viver sustentando meus pais fofinhos como coelhos.",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nMeu sonho é me formar logo, virar um Assistente que ganha muito dinheiro e viver sustentando meus pais fofinhos como coelhos.",
         "es-ES": "[Hombre de aspecto rudo]\nMi sueño es graduarme pronto, convertirme en un mercenario que gane mucho dinero y vivir honrando a mis padres, que son como conejitos."
     },
     "+4teDQ": {
         "en-US": "Good-Natured Man: Is that the right word choice? Rabbit-like parents sounds kind of strange.",
-        "pt-BR": "Homem de Boa Aparência: Essa escolha de palavras está certa? Pais fofinhos como coelhos soa meio estranho.",
+        "pt-BR": "Homem de Aparência Amigável: Essa escolha de palavras está certa? Pais fofinhos como coelhos soa meio estranho.",
         "es-ES": "Hombre de aspecto amable: ¿Seguro que esa es la expresión correcta? Lo de padres como conejitos suena raro."
     },
     "/IteDQ": {
         "en-US": "[Good-Natured Man]\nIs that the right word choice? Rabbit-like par<B>e</B>nts sounds kind of strange.",
-        "pt-BR": "[Homem de Boa Aparência]\nEssa escolha de palavras está certa? Pais fofinhos como coelhos soa meio estranho.",
+        "pt-BR": "[Homem de Aparência Amigável]\nEssa escolha de palavras está certa? Pais fofinhos como coelhos soa meio estranho.",
         "es-ES": "[Hombre de aspecto amable]\n¿Seguro que esa es la expresión correcta? Lo de padres como conejitos suena raro."
     },
     "/YteDQ": {
         "en-US": "Good-Natured Man: Isn't \"rabbit-like\" usually used for children?",
-        "pt-BR": "Homem de Boa Aparência: Normalmente, não se diz que os filhos são fofinhos como coelhos?",
+        "pt-BR": "Homem de Aparência Amigável: Normalmente, não se diz que os filhos são fofinhos como coelhos?",
         "es-ES": "Hombre de aspecto amable: Normalmente eso de como conejitos se dice de los hijos, ¿no?"
     },
     "/oteDQ": {
         "en-US": "[Good-Natured Man]\nIsn't rabbit-like\" usually used for chil<B>d</B>ren?\"",
-        "pt-BR": "[Homem de Boa Aparência]\nNormalmente, não se diz que os filhos são fofinhos como coelhos?",
+        "pt-BR": "[Homem de Aparência Amigável]\nNormalmente, não se diz que os filhos são fofinhos como coelhos?",
         "es-ES": "[Hombre de aspecto amable]\nNormalmente eso de como conejitos se dice de los hijos, ¿no?"
     },
     "/4teDQ": {
         "en-US": "Rough-Looking Man: I'm not married, so what are you talking about?",
-        "pt-BR": "Homem de Aparência Intimidadora: Se eu nem sou casado, do que está falando?",
+        "pt-BR": "Homem de Aparência Ameaçadora: Se eu nem sou casado, do que está falando?",
         "es-ES": "Hombre de aspecto rudo: No estoy casado. ¿De qué hablas?"
     },
     "AIxeDQ": {
         "en-US": "[Rough-Looking Man]\nI'm not married, so what are you talking about?",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nSe eu nem sou casado, do que está falando?",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nSe eu nem sou casado, do que está falando?",
         "es-ES": "[Hombre de aspecto rudo]\nNo estoy casado. ¿De qué hablas?"
     },
     "AYxeDQ": {
         "en-US": "Good-Natured Man: Never mind.. If that's what you say, then I suppose it is..",
-        "pt-BR": "Homem de Boa Aparência: Não é nada.. Se é assim que você diz, então deve ser..",
+        "pt-BR": "Homem de Aparência Amigável: Não é nada... Se é assim que você diz, então deve ser...",
         "es-ES": "Hombre de aspecto amable: Nada... Si tú lo dices, así será..."
     },
     "AoxeDQ": {
         "en-US": "[Good-Natured Man]\nNever mind.. If that's what you say, then I suppose i<B>t</B> is..",
-        "pt-BR": "[Homem de Boa Aparência]\nNão é nada.. Se é assim que você diz, então deve ser..",
+        "pt-BR": "[Homem de Aparência Amigável]\nNão é nada... Se é assim que você diz, então deve ser...",
         "es-ES": "[Hombre de aspecto amable]\nNada... Si tú lo dices, así será..."
     },
     "A4xeDQ": {
@@ -181,137 +181,137 @@
     },
     "BIxeDQ": {
         "en-US": "Good-Natured Man",
-        "pt-BR": "Homem de Boa Aparência",
+        "pt-BR": "Homem de Aparência Amigável",
         "es-ES": "Hombre de aspecto amable"
     },
     "BYxeDQ": {
         "en-US": "Good-Natured Man: Hahaha. I know you didn't come looking for me.",
-        "pt-BR": "Homem de Boa Aparência: Hahaha, eu também sei que você não veio me procurar.",
+        "pt-BR": "Homem de Aparência Amigável: Hahaha, eu também sei que você não veio me procurar.",
         "es-ES": "Hombre de aspecto amable: Ja, ja, ja. Ya sé que no has venido a buscarme a mí."
     },
     "BoxeDQ": {
         "en-US": "[Good-Natured Man]\nHahaha. I know you didn't come looking for <B>m</B>e.",
-        "pt-BR": "[Homem de Boa Aparência]\nHahaha, eu também sei que você não veio me procurar.",
+        "pt-BR": "[Homem de Aparência Amigável]\nHahaha, eu também sei que você não veio me procurar.",
         "es-ES": "[Hombre de aspecto amable]\nJa, ja, ja. Ya sé que no has venido a buscarme a mí."
     },
     "B4xeDQ": {
         "en-US": "Good-Natured Man: You're, what was it, an adventurer, right?",
-        "pt-BR": "Homem de Boa Aparência: Você é aquilo, como se chama. Um aventureiro, não é?",
+        "pt-BR": "Homem de Aparência Amigável: Você é aquilo, como se chama? Viajante, não é?",
         "es-ES": "Hombre de aspecto amable: Tú eres, cómo era, un aventurero, ¿verdad?"
     },
     "CIxeDQ": {
         "en-US": "[Good-Natured Man]\nYou're, what was it, an <B>a</B>dventurer, right?",
-        "pt-BR": "[Homem de Boa Aparência]\nVocê é aquilo, como se chama. Um aventureiro, não é?",
+        "pt-BR": "[Homem de Aparência Amigável]\nVocê é aquilo, como se chama? Viajante, não é?",
         "es-ES": "[Hombre de aspecto amable]\nTú eres, cómo era, un aventurero, ¿verdad?"
     },
     "CYxeDQ": {
         "en-US": "Good-Natured Man: Those beings who barge into any house, rummage through this and that, and explore the world..",
-        "pt-BR": "Homem de Boa Aparência: Gente que entra em qualquer casa, vasculha todo tipo de objeto e explora o mundo..",
+        "pt-BR": "Homem de Aparência Amigável: Gente que entra em qualquer casa, vasculha todo tipo de objeto e explora o mundo...",
         "es-ES": "Hombre de aspecto amable: De esos seres que entran en cualquier casa, rebuscan entre toda clase de cosas y exploran el mundo..."
     },
     "CoxeDQ": {
         "en-US": "[Good-Natured Man]\nThose beings who barge into any house, rummage through this and that, and explore the world..",
-        "pt-BR": "[Homem de Boa Aparência]\nGente que entra em qualquer casa, vasculha todo tipo de objeto e explora o mundo..",
+        "pt-BR": "[Homem de Aparência Amigável]\nGente que entra em qualquer casa, vasculha todo tipo de objeto e explora o mundo...",
         "es-ES": "[Hombre de aspecto amable]\nDe esos seres que entran en cualquier casa, rebuscan entre toda clase de cosas y exploran el mundo..."
     },
     "C4xeDQ": {
         "en-US": "Good-Natured Man: It's all fine. I can understand. However!",
-        "pt-BR": "Homem de Boa Aparência: Tudo bem. Eu posso entender. Mas!",
+        "pt-BR": "Homem de Aparência Amigável: Tudo bem. Eu posso entender. Mas!",
         "es-ES": "Hombre de aspecto amable: Todo eso está bien. Puedo entenderlo. ¡Pero!"
     },
     "DIxeDQ": {
         "en-US": "[Good-Natured Man]\nIt's <B>a</B>ll fine. I can understand. However!",
-        "pt-BR": "[Homem de Boa Aparência]\nTu<B>do</B> bem. Eu posso entender. Mas!",
+        "pt-BR": "[Homem de Aparência Amigável]\nTu<B>do</B> bem. Eu posso entender. Mas!",
         "es-ES": "[Hombre de aspecto amable]\nTodo eso está bien. Puedo entenderlo. ¡Pero!"
     },
     "DYxeDQ": {
         "en-US": "Good-Natured Man: I cannot forgive you going into my room.",
-        "pt-BR": "Homem de Boa Aparência: Só não vou perdoar se entrar no meu quarto.",
+        "pt-BR": "Homem de Aparência Amigável: Só não vou perdoar se entrar no meu quarto.",
         "es-ES": "Hombre de aspecto amable: No puedo perdonar que entres en mi habitación."
     },
     "DoxeDQ": {
         "en-US": "[Good-Natured Man]\nI cannot forgive you going into my room.",
-        "pt-BR": "[Homem de Boa Aparência]\nSó não vou perdoar se entrar no meu quarto.",
+        "pt-BR": "[Homem de Aparência Amigável]\nSó não vou perdoar se entrar no meu quarto.",
         "es-ES": "[Hombre de aspecto amable]\nNo puedo perdonar que entres en mi habitación."
     },
     "D4xeDQ": {
         "en-US": "Rough-Looking Man: This fellow is acting up again. It's not as if he has anything worth taking in his room..",
-        "pt-BR": "Homem de Aparência Intimidadora: Lá vai ele tendo outro ataque. Nem tem nada para levar no quarto dele..",
+        "pt-BR": "Homem de Aparência Ameaçadora: Lá vai ele tendo outro ataque. Nem tem nada para levar no quarto dele...",
         "es-ES": "Hombre de aspecto rudo: Este amigo ya está con otro de sus ataques. Si ni siquiera tiene nada que llevarse de su cuarto..."
     },
     "EIxeDQ": {
         "en-US": "[Rough-Looking Man]\nThis fellow is acting up again. It's not as if he has anything worth taking in his room..",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nLá vai ele tendo outro ataque. Nem tem nada para levar no quarto dele..",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nLá vai ele tendo outro ataque. Nem tem nada para levar no quarto dele...",
         "es-ES": "[Hombre de aspecto rudo]\nEste amigo ya está con otro de sus ataques. Si ni siquiera tiene nada que llevarse de su cuarto..."
     },
     "EYxeDQ": {
         "en-US": "Rough-Looking Man: He really does act up over the strangest things. What an odd fellow.",
-        "pt-BR": "Homem de Aparência Intimidadora: Ele tem ataques por umas coisas muito estranhas. É bem peculiar.",
+        "pt-BR": "Homem de Aparência Ameaçadora: Ele tem ataques por umas coisas muito estranhas. É bem peculiar.",
         "es-ES": "Hombre de aspecto rudo: Desde luego, le dan ataques por cosas rarísimas. Es peculiar."
     },
     "EoxeDQ": {
         "en-US": "[Rough-Looking Man]\nHe really does act up over the strangest things. What an od<B>d</B> fellow.",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nEle tem ataques por umas coisas muito estranhas. É bem peculiar.",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nEle tem ataques por umas coisas muito estranhas. É bem peculiar.",
         "es-ES": "[Hombre de aspecto rudo]\nDesde luego, le dan ataques por cosas rarísimas. Es peculiar."
     },
     "E4xeDQ": {
         "en-US": "Good-Natured Man: My room is precious!",
-        "pt-BR": "Homem de Boa Aparência: Meu quarto é precioso!",
+        "pt-BR": "Homem de Aparência Amigável: Meu quarto é precioso!",
         "es-ES": "Hombre de aspecto amable: ¡Mi habitación es importante!"
     },
     "FIxeDQ": {
         "en-US": "[Good-Natured Man]\nMy room is precious!",
-        "pt-BR": "[Homem de Boa Aparência]\nMeu quarto é precioso!",
+        "pt-BR": "[Homem de Aparência Amigável]\nMeu quarto é precioso!",
         "es-ES": "[Hombre de aspecto amable]\n¡Mi habitación es importante!"
     },
     "FYxeDQ": {
         "en-US": "Good-Natured Man: This friend has quite a talent for using slightly difficult words.",
-        "pt-BR": "Homem de Boa Aparência: Este sujeito tem um grande talento para usar palavras difíceis de entender.",
+        "pt-BR": "Homem de Aparência Amigável: Este sujeito tem um grande talento para usar palavras difíceis de entender.",
         "es-ES": "Hombre de aspecto amable: Este amigo tiene un gran talento para usar palabras un poco difíciles."
     },
     "FoxeDQ": {
         "en-US": "[Good-Natured Man]\nThis friend has quite a talent for using slightly difficult words.",
-        "pt-BR": "[Homem de Boa Aparência]\nEste sujeito tem um grande talento para usar palavras difíceis de entender.",
+        "pt-BR": "[Homem de Aparência Amigável]\nEste sujeito tem um grande talento para usar palavras difíceis de entender.",
         "es-ES": "[Hombre de aspecto amable]\nEste amigo tiene un gran talento para usar palabras un poco difíciles."
     },
     "F4xeDQ": {
         "en-US": "Good-Natured Man: There are many times when I don't understand what he means, but he's still a good fellow.",
-        "pt-BR": "Homem de Boa Aparência: Muitas vezes não entendo o que ele quer dizer, mas ainda assim ele é uma boa pessoa.",
+        "pt-BR": "Homem de Aparência Amigável: Muitas vezes não entendo o que ele quer dizer, mas ainda assim ele é uma boa pessoa.",
         "es-ES": "Hombre de aspecto amable: Muchas veces no entiendo de qué habla, pero sigue siendo buen tipo."
     },
     "GIxeDQ": {
         "en-US": "[Good-Natured Man]\nThere are many times when I don't understand what he means, but he's still a good fellow.",
-        "pt-BR": "[Homem de Boa Aparência]\nMuitas vezes não entendo o que ele quer dizer, mas ainda assim ele é uma boa pessoa.",
+        "pt-BR": "[Homem de Aparência Amigável]\nMuitas vezes não entendo o que ele quer dizer, mas ainda assim ele é uma boa pessoa.",
         "es-ES": "[Hombre de aspecto amable]\nMuchas veces no entiendo de qué habla, pero sigue siendo buen tipo."
     },
     "GYxeDQ": {
         "en-US": "Good-Natured Man: Hm? Were you talking about me?",
-        "pt-BR": "Homem de Boa Aparência: Hm? Estava falando de mim?",
+        "pt-BR": "Homem de Aparência Amigável: Hm? Estava falando de mim?",
         "es-ES": "Hombre de aspecto amable: ¿Eh? ¿Hablabas de mí?"
     },
     "GoxeDQ": {
         "en-US": "[Rough-Looking Man]\nHm? Were you talking about me?",
-        "pt-BR": "[Homem de Aparência Intimidadora]\nHm? Estava falando de mim?",
+        "pt-BR": "[Homem de Aparência Ameaçadora]\nHm? Estava falando de mim?",
         "es-ES": "[Hombre de aspecto rudo]\n¿Eh? ¿Hablabas de mí?"
     },
     "G4xeDQ": {
         "en-US": "Good-Natured Man: No. Go on with what you were doing.",
-        "pt-BR": "Homem de Boa Aparência: Não, continue o que estava fazendo.",
+        "pt-BR": "Homem de Aparência Amigável: Não, continue o que estava fazendo.",
         "es-ES": "Hombre de aspecto amable: No, no. Sigue con lo que estabas haciendo."
     },
     "HIxeDQ": {
         "en-US": "[Good-Natured Man]\nNo. Go on with what you were doing.",
-        "pt-BR": "[Homem de Boa Aparência]\nNão, continue o que estava fazendo.",
+        "pt-BR": "[Homem de Aparência Amigável]\nNão, continue o que estava fazendo.",
         "es-ES": "[Hombre de aspecto amable]\nNo, no. Sigue con lo que estabas haciendo."
     },
     "HYxeDQ": {
         "en-US": "Good-Natured Man: That's my room. Did you perhaps come looking for me?",
-        "pt-BR": "Homem de Boa Aparência: Aquele é o meu quarto. Por acaso veio me procurar?",
+        "pt-BR": "Homem de Aparência Amigável: Aquele é o meu quarto. Por acaso veio me procurar?",
         "es-ES": "Hombre de aspecto amable: Esa es mi habitación. ¿Has venido a buscarme?"
     },
     "HoxeDQ": {
         "en-US": "[Good-Natured Man]\nThat's my room. Did you perhaps come looking for me?",
-        "pt-BR": "[Homem de Boa Aparência]\nAquele é o meu quarto. Por acaso veio me procurar?",
+        "pt-BR": "[Homem de Aparência Amigável]\nAquele é o meu quarto. Por acaso veio me procurar?",
         "es-ES": "[Hombre de aspecto amable]\nEsa es mi habitación. ¿Has venido a buscarme?"
     },
     "H4xeDQ": {
@@ -326,7 +326,7 @@
     },
     "IYxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nAh! Nice to see you.",
-        "pt-BR": "[<B>Amare</B>lo]\nAh! Que bom ver você.",
+        "pt-BR": "[<B>Amarelo</B>]\nAh! Que bom ver você.",
         "es-ES": "[<B>Amarillo</B>]\n¡Ah! Encantado de verte."
     },
     "IoxeDQ": {
@@ -336,27 +336,27 @@
     },
     "I4xeDQ": {
         "en-US": "[<B>Y</B>ellow]\nYour outfit is a little strange, though?",
-        "pt-BR": "[<B>Amare</B>lo]\nSua roupa está um pouco estranha, mas...",
+        "pt-BR": "[<B>Amarelo</B>]\nSua roupa está um pouco estranha, mas...",
         "es-ES": "[<B>Amarillo</B>]\nAunque tu atuendo es un poco extraño."
     },
     "JIxeDQ": {
         "en-US": "Yellow: You did come to attend the inauguration ceremony for the second president of the Super Novice Club, right?",
-        "pt-BR": "Amarelo: Você veio participar da cerimônia de posse do 2º presidente do Clube dos Superaprendiz, certo?",
+        "pt-BR": "Amarelo: Você veio participar da cerimônia de posse do 2º presidente do Clube do Aprendiz, certo?",
         "es-ES": "Amarillo: Has venido para participar en la ceremonia de toma de posesión del segundo presidente del club Superprincipiante, ¿verdad?"
     },
     "JYxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nYou came to attend the inauguration ceremony for the second president of the <B>Super Novice</B> Club, right?",
-        "pt-BR": "[<B>Amare</B>lo]\nVocê veio participar da cerimônia de posse do 2º presidente do clube <B>Superaprendiz</B>, certo?",
+        "pt-BR": "[<B>Amarelo</B>]\nVocê veio participar da cerimônia de posse do 2º presidente do Clube do <B>Aprendiz</B>, certo?",
         "es-ES": "[<B>Amarillo</B>]\nHas venido para participar en la ceremonia de toma de posesión del segundo presidente del club <B>Superprincipiante</B>, ¿verdad?"
     },
     "JoxeDQ": {
         "en-US": "Yellow: Then again, who else would come here if not a Super Novice trying to join the event?",
-        "pt-BR": "Amarelo: Afinal, se não fosse um Superaprendiz querendo participar do evento, quem viria a um lugar destes?",
+        "pt-BR": "Amarelo: Afinal, se não fosse um Aprendiz querendo participar do evento, quem viria a um lugar destes?",
         "es-ES": "Amarillo: En fin, si no fueras un Superprincipiante que viene a participar en el evento, ¿quién vendría a un lugar como este?"
     },
     "J4xeDQ": {
         "en-US": "[<B>Y</B>ellow]\nThen again, who else would come here if not a <B>Super Novice</B> trying to join the event?",
-        "pt-BR": "[<B>Amare</B>lo]\nAfinal, se não fosse um <B>Superaprendiz</B> querendo participar do evento, quem viria a um lugar destes?",
+        "pt-BR": "[<B>Amarelo</B>]\nAfinal, se não fosse um <B>Aprendiz</B> querendo participar do evento, quem viria a um lugar destes?",
         "es-ES": "[<B>Amarillo</B>]\nEn fin, si no fueras un <B>Superprincipiante</B> que viene a participar en el evento, ¿quién vendría a un lugar como este?"
     },
     "KIxeDQ": {
@@ -366,7 +366,7 @@
     },
     "KYxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nThere are still two more who haven't arrived. You came early enough, so I'll praise you for that.",
-        "pt-BR": "[<B>Amare</B>lo]\nAinda faltam dois que não chegaram. Como você chegou sem se atrasar muito, vou elogiar.",
+        "pt-BR": "[<B>Amarelo</B>]\nAinda faltam dois que não chegaram. Como você chegou sem se atrasar muito, vou elogiar.",
         "es-ES": "[<B>Amarillo</B>]\nTodavía faltan dos más por llegar. Has llegado sin demasiado retraso, así que te felicitaré."
     },
     "KoxeDQ": {
@@ -376,27 +376,27 @@
     },
     "K4xeDQ": {
         "en-US": "[<B>Y</B>ellow]\nOh, right, listen to me. They said the ceremony was star<B>t</B>ing just a moment ago.",
-        "pt-BR": "[<B>Amare</B>lo]\nAh, veja só minha cabeça. Eles disseram há pouco que a cerimônia ia começar.",
+        "pt-BR": "[<B>Amarelo</B>]\nAh, veja só minha cabeça. Eles disseram há pouco que a cerimônia ia começar.",
         "es-ES": "[<B>Amarillo</B>]\nAy, en qué estaré pensando. Hace un momento dijeron que iban a empezar la ceremonia."
     },
     "LIxeDQ": {
         "en-US": "Yellow: Hurry on into the room inside.",
-        "pt-BR": "Amarelo: Entre logo no quarto lá dentro.",
+        "pt-BR": "Amarelo: Entre logo no quarto acima.",
         "es-ES": "Amarillo: Entra rápido en la sala del fondo."
     },
     "LYxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nHurry on into the room inside.",
-        "pt-BR": "[<B>Amare</B>lo]\nEntre logo no quarto lá dentro.",
+        "pt-BR": "[<B>Amarelo</B>]\nEntre logo no quarto acima.",
         "es-ES": "[<B>Amarillo</B>]\nEntra rápido en la sala del fondo."
     },
     "LoxeDQ": {
         "en-US": "Yellow: Go into the room inside.",
-        "pt-BR": "Amarelo: Entre no quarto lá dentro.",
+        "pt-BR": "Amarelo: Entre no quarto acima.",
         "es-ES": "Amarillo: Entra en la sala del fondo."
     },
     "L4xeDQ": {
         "en-US": "[<B>Y</B>ellow]\nGo into the room inside.",
-        "pt-BR": "[<B>Amare</B>lo]\nEntre no quarto lá dentro.",
+        "pt-BR": "[<B>Amarelo</B>]\nEntre no quarto acima.",
         "es-ES": "[<B>Amarillo</B>]\nEntra en la sala del fondo."
     },
     "MIxeDQ": {
@@ -406,7 +406,7 @@
     },
     "MYxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nThe ceremony probably hasn't been going on for very long yet.",
-        "pt-BR": "[<B>Amare</B>lo]\nAcho que a cerimônia começou há pouco.",
+        "pt-BR": "[<B>Amarelo</B>]\nAcho que a cerimônia começou há pouco.",
         "es-ES": "[<B>Amarillo</B>]\nLa ceremonia no debe de llevar mucho tiempo empezada."
     },
     "MoxeDQ": {
@@ -416,17 +416,17 @@
     },
     "M4xeDQ": {
         "en-US": "[<B>Y</B>ellow]\nHm? Why am I not going in?",
-        "pt-BR": "[<B>Amare</B>lo]\nHm? Por que eu não entro?",
+        "pt-BR": "[<B>Amarelo</B>]\nHm? Por que eu não entro?",
         "es-ES": "[<B>Amarillo</B>]\n¿Eh? ¿Que por qué no entro yo?"
     },
     "NIxeDQ": {
         "en-US": "Yellow: Sigh.. That guy in there, calling himself the second president, told me to just stand here and send anyone who comes in inside.",
-        "pt-BR": "Amarelo: Haa.. O sujeito que diz ser o 2º presidente do clube lá dentro me mandou ficar aqui só para encaminhar quem chegasse.",
+        "pt-BR": "Amarelo: Haa... O sujeito que diz ser o 2º presidente do clube lá dentro me mandou ficar aqui só para encaminhar quem chegasse.",
         "es-ES": "Amarillo: Uf... Ese supuesto segundo presidente de club de ahí dentro me dijo que me quedara aquí y mandara dentro a quien llegara."
     },
     "NYxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nSigh.. That guy in there, calling himself the second president, told me to just stand here and send anyone who comes in inside.",
-        "pt-BR": "[<B>Amare</B>lo]\nHaa.. O sujeito que diz ser o 2º presidente do clube lá dentro me mandou ficar aqui só para encaminhar quem chegasse.",
+        "pt-BR": "[<B>Amarelo</B>]\nHaa... O sujeito que diz ser o 2º presidente do clube lá dentro me mandou ficar aqui só para encaminhar quem chegasse.",
         "es-ES": "[<B>Amarillo</B>]\nUf... Ese supuesto segundo presidente de club de ahí dentro me dijo que me quedara aquí y mandara dentro a quien llegara."
     },
     "NoxeDQ": {
@@ -436,7 +436,7 @@
     },
     "N4xeDQ": {
         "en-US": "[<B>Y</B>ellow]\nWhat a life.",
-        "pt-BR": "[<B>Amare</B>lo]\nQue sina a minha.",
+        "pt-BR": "[<B>Amarelo</B>]\nQue sina a minha.",
         "es-ES": "[<B>Amarillo</B>]\nQué mala suerte la mía."
     },
     "OIxeDQ": {
@@ -476,7 +476,7 @@
     },
     "P4xeDQ": {
         "en-US": "It is a bookshelf filled with various Books. There is a jar of jam, but let us ignore it.",
-        "pt-BR": "É uma estante com vários Livro. Há um pote de geleia, mas vamos ignorá-lo.",
+        "pt-BR": "É uma estante com vários Livros. Há um pote de geleia, mas vamos ignorá-lo.",
         "es-ES": "Es una estantería llena de diversos Libro. Hay un tarro de mermelada, pero será mejor ignorarlo."
     },
     "QIxeDQ": {
@@ -491,12 +491,12 @@
     },
     "QoxeDQ": {
         "en-US": "White: Hahahah. Ladies and gentlemen, thank you for gathering here for the endless growth and prosperity of the Super Novice Club.",
-        "pt-BR": "Branco: Hahahaha. Senhoras e senhores reunidos aqui pelo desenvolvimento e prosperidade infinitos do Clube dos Superaprendiz.",
+        "pt-BR": "Branco: Hahahaha. Senhoras e senhores reunidos aqui pelo desenvolvimento e prosperidade infinitos do Clube do Aprendiz.",
         "es-ES": "Blanco: Ja, ja, ja. Damas y caballeros reunidos aquí por el desarrollo y la prosperidad eternos del club Superprincipiante."
     },
     "Q4xeDQ": {
         "en-US": "[White]\nHahahah. Ladies and gentlemen, thank you for <B>g</B>athering here for the endless growth and prosperity of the <B>Super Novice</B> Club.",
-        "pt-BR": "[Branco]\nHahahaha. Senhoras e senhores reunidos aqui pelo desenvolvimento e prosperidade infinitos do clube <B>Superaprendiz</B>.",
+        "pt-BR": "[Branco]\nHahahaha. Senhoras e senhores reunidos aqui pelo desenvolvimento e prosperidade infinitos do clube <B>Aprendiz</B>.",
         "es-ES": "[Blanco]\nJa, ja, ja. Damas y caballeros reunidos aquí por el desarrollo y la prosperidad eternos del club <B>Superprincipiante</B>."
     },
     "RIxeDQ": {
@@ -511,12 +511,12 @@
     },
     "RoxeDQ": {
         "en-US": "White: I am □□□□! A man who pursues ordinariness, loves ordinariness, and will someday head out to sea.",
-        "pt-BR": "Branco: Eu sou □□□□! Um homem que busca a normalidade, ama a normalidade e um dia partirá para o mar.",
+        "pt-BR": "Branco: Eu sou ØØØØ! Um homem que busca a normalidade, ama a normalidade e um dia partirá para o mar.",
         "es-ES": "Blanco: ¡Yo soy □□□□! Un hombre que persigue lo ordinario, ama lo ordinario y en el futuro se hará a la mar."
     },
     "R4xeDQ": {
         "en-US": "[White]\nI am □□□□! A man who pursues ordinariness, loves ordinariness, and will someday head out to s<B>e</B>a.",
-        "pt-BR": "[Branco]\nEu sou □□□□! Um homem que busca a normalidade, ama a normalidade e um dia partirá para o mar.",
+        "pt-BR": "[Branco]\nEu sou ØØØØ! Um homem que busca a normalidade, ama a normalidade e um dia partirá para o mar.",
         "es-ES": "[Blanco]\n¡Yo soy □□□□! Un hombre que persigue lo ordinario, ama lo ordinario y en el futuro se hará a la mar."
     },
     "SIxeDQ": {
@@ -656,12 +656,12 @@
     },
     "Y4xeDQ": {
         "en-US": "Red: Ahem!! My name is □□□.",
-        "pt-BR": "Vermelho: Hmm, hmm!! Meu nome é □□□.",
+        "pt-BR": "Vermelho: Hmm, hmm!! Meu nome é ØØØ.",
         "es-ES": "Rojo: ¡Ejem, ejem! Mi nombre es □□□."
     },
     "ZIxeDQ": {
         "en-US": "[Red]\nAhem!! My name is □□□.",
-        "pt-BR": "[Vermelho]\nHmm, hmm!! Meu nome é □□□.",
+        "pt-BR": "[Vermelho]\nHmm, hmm!! Meu nome é ØØØ.",
         "es-ES": "[Rojo]\n¡Ejem, ejem! Mi nombre es □□□."
     },
     "ZYxeDQ": {
@@ -696,12 +696,12 @@
     },
     "a4xeDQ": {
         "en-US": "Red: Nice to meet you. That's my introduction! □□□□",
-        "pt-BR": "Vermelho: Conto com vocês. Minha apresentação acabou! □□□□",
+        "pt-BR": "Vermelho: Conto com vocês. Minha apresentação acabou! ØØØØ",
         "es-ES": "Rojo: Encantado. ¡Mi presentación termina aquí! □□□□"
     },
     "bIxeDQ": {
         "en-US": "[Red]\nNice to meet you. That's my introduction! □□□□",
-        "pt-BR": "[Vermelho]\nConto com vocês. Minha apresentação acabou! □□□□",
+        "pt-BR": "[Vermelho]\nConto com vocês. Minha apresentação acabou! ØØØØ",
         "es-ES": "[Rojo]\nEncantado. ¡Mi presentación termina aquí! □□□□"
     },
     "bYxeDQ": {
@@ -766,12 +766,12 @@
     },
     "eYxeDQ": {
         "en-US": "Red: Everyone sure is talkative today..",
-        "pt-BR": "Vermelho: Todo mundo está falando demais hoje..",
+        "pt-BR": "Vermelho: Todo mundo está falando demais hoje...",
         "es-ES": "Rojo: Hoy todo el mundo habla más de la cuenta..."
     },
     "eoxeDQ": {
         "en-US": "[Red]\nEveryone sure is talkative today..",
-        "pt-BR": "[Vermelho]\nTodo mundo está falando demais hoje..",
+        "pt-BR": "[Vermelho]\nTodo mundo está falando demais hoje...",
         "es-ES": "[Rojo]\nHoy todo el mundo habla más de la cuenta..."
     },
     "e4xeDQ": {
@@ -791,22 +791,22 @@
     },
     "foxeDQ": {
         "en-US": "Purple: ... My name is □□. I intend to become a knight.",
-        "pt-BR": "Roxo: ... Meu nome é □□ e pretendo me tornar cavaleiro.",
+        "pt-BR": "Roxo: ... Meu nome é ØØ e pretendo me tornar cavaleiro.",
         "es-ES": "Morado: ... Mi nombre es □□. Pretendo ser caballero."
     },
     "f4xeDQ": {
         "en-US": "[Purple]\n... My name is □□. I intend to become a knight.",
-        "pt-BR": "[Roxo]\n... Meu nome é □□ e pretendo me tornar cavaleiro.",
+        "pt-BR": "[Roxo]\n... Meu nome é ØØ e pretendo me tornar cavaleiro.",
         "es-ES": "[Morado]\n... Mi nombre es □□. Pretendo ser caballero."
     },
     "gIxeDQ": {
         "en-US": "Green: What? Wasn't this the Super Novice Club? What's with this random aspiring knight?",
-        "pt-BR": "Verde: O quê? Aqui não era o Clube dos Superaprendiz? Que história é essa de aspirante a cavaleiro do nada?",
+        "pt-BR": "Verde: O quê? Aqui não era o Clube do Aprendiz? Que história é essa de aspirante a cavaleiro do nada?",
         "es-ES": "Verde: ¿Qué? ¿Esto no era el club Superprincipiante? ¿A qué viene de repente un aspirante a caballero?"
     },
     "gYxeDQ": {
         "en-US": "[Green]\nWhat? Wasn't this the <B>Super Novice</B> Club? What's with this random aspiring knight?",
-        "pt-BR": "[Verde]\nO quê? Aqui não era o clube <B>Superaprendiz</B>? Que história é essa de aspirante a cavaleiro do nada?",
+        "pt-BR": "[Verde]\nO quê? Aqui não era o clube <B>Aprendiz</B>? Que história é essa de aspirante a cavaleiro do nada?",
         "es-ES": "[Verde]\n¿Qué? ¿Esto no era el club <B>Superprincipiante</B>? ¿A qué viene de repente un aspirante a caballero?"
     },
     "goxeDQ": {
@@ -821,12 +821,12 @@
     },
     "hIxeDQ": {
         "en-US": "White: Whatever the reason, Mr. □□ is a Novice right now, after all.",
-        "pt-BR": "Branco: Seja qual for o motivo, o Sr. □□ agora é um Aprendiz.",
+        "pt-BR": "Branco: Seja qual for o motivo, o Sr. ØØ agora é um Aprendiz.",
         "es-ES": "Blanco: Sea cual sea el motivo, ahora mismo el señor □□ es Superprincipiante."
     },
     "hYxeDQ": {
         "en-US": "[White]\nWhatever the reason, Mr. □□ is a <B>Super Novice</B> right now, after all.",
-        "pt-BR": "[Branco]\nSeja qual for o motivo, o Sr. □□ agora é um <B>Superaprendiz</B>.",
+        "pt-BR": "[Branco]\nSeja qual for o motivo, o Sr. ØØ agora é um <B>Aprendiz</B>.",
         "es-ES": "[Blanco]\nSea cual sea el motivo, ahora mismo el señor □□ es <B>Superprincipiante</B>."
     },
     "hoxeDQ": {
@@ -836,7 +836,7 @@
     },
     "h4xeDQ": {
         "en-US": "[Green]\nUgh? Is that how it works? Anyone who was a <B>Super Novice</B> when they joined is allowed?",
-        "pt-BR": "[Verde]\nUgh? Era isso? Então basta ser <B>Superaprendiz</B> na hora da inscrição?",
+        "pt-BR": "[Verde]\nUgh? Era isso? Então basta ser <B>Aprendiz</B> na hora da inscrição?",
         "es-ES": "[Verde]\n¿Eh? ¿Era eso? ¿Bastaba con ser <B>Superprincipiante</B> al unirse?"
     },
     "iIxeDQ": {
@@ -851,22 +851,22 @@
     },
     "ioxeDQ": {
         "en-US": "White: The first club president, Kym=Shun, said it was a shame how people keep forgetting the ordinary path as time passes..",
-        "pt-BR": "Branco: O primeiro presidente do clube, Kim=Shawn, disse que era uma pena que, com o tempo, muitos esquecessem o caminho da normalidade..",
+        "pt-BR": "Branco: O primeiro presidente do clube, Kim-Shawn, disse que era uma pena que, com o tempo, muitos esquecessem o caminho da normalidade...",
         "es-ES": "Blanco: El primer presidente del club, Kim=Shawn, dijo que era una pena que, con el tiempo, se fueran olvidando esos caminos ordinarios..."
     },
     "i4xeDQ": {
         "en-US": "[White]\nThe first club president, Kym=Shun, said it was a shame how people keep forgetting the ordinary path as time passes..",
-        "pt-BR": "[Branco]\nO primeiro presidente do clube, Kim=Shawn, disse que era uma pena que, com o tempo, muitos esquecessem o caminho da normalidade..",
+        "pt-BR": "[Branco]\nO primeiro presidente do clube, Kim-Shawn, disse que era uma pena que, com o tempo, muitos esquecessem o caminho da normalidade...",
         "es-ES": "[Blanco]\nEl primer presidente del club, Kim=Shawn, dijo que era una pena que, con el tiempo, se fueran olvidando esos caminos ordinarios..."
     },
     "jIxeDQ": {
         "en-US": "White: Only Novices can join.. Oh, who cares? I'm the second president.",
-        "pt-BR": "Branco: Só Aprendizes podiam se inscrever.. nada disso, o 2º presidente do clube sou eu.",
+        "pt-BR": "Branco: Só Aprendizes podiam se inscrever... nada disso, o 2º presidente do clube sou eu.",
         "es-ES": "Blanco: Que solo podían unirse los Superprincipiante... ¡ni hablar! El segundo presidente soy yo."
     },
     "jYxeDQ": {
         "en-US": "[White]\nOnly <B>Super Novice</B>s can join.. Oh, who cares? I'm the second president.",
-        "pt-BR": "[Branco]\nSó <B>Superaprendiz</B> podiam se inscrever.. nada disso, o 2º presidente do clube sou eu.",
+        "pt-BR": "[Branco]\nSó <B>Aprendiz</B> podiam se inscrever... nada disso, o 2º presidente do clube sou eu.",
         "es-ES": "[Blanco]\nQue solo podían unirse los <B>Superprincipiante</B>... ¡ni hablar! El segundo presidente soy yo."
     },
     "joxeDQ": {
@@ -881,22 +881,22 @@
     },
     "kIxeDQ": {
         "en-US": "White: Whether you become a Knight later! Or a Merchant! Or a Mage! Don't we all start as Super Novice?",
-        "pt-BR": "Branco: Seja cavaleiro depois! Seja mercador! Seja mago! Todos nós não começamos como Superaprendiz?",
+        "pt-BR": "Branco: Seja cavaleiro depois! Seja mercador! Seja mago! Todos nós não começamos como Aprendiz?",
         "es-ES": "Blanco: ¡Aunque más adelante se conviertan en caballeros, comerciantes o magos! ¿No empezamos todos como Superprincipiante?"
     },
     "kYxeDQ": {
         "en-US": "[White]\nWhether you become a Knight later! Or a Merchant! Or a Mage! Don't we all start as <B>Super Novice</B>?",
-        "pt-BR": "[Branco]\nSeja cavaleiro depois! Seja mercador! Seja mago! <B>Todos</B> nós não começamos como <B>Superaprendiz</B>?",
+        "pt-BR": "[Branco]\nSeja cavaleiro depois! Seja mercador! Seja mago! <B>Todos</B> nós não começamos como <B>Aprendiz</B>?",
         "es-ES": "[Blanco]\n¡Aunque más adelante se conviertan en caballeros, comerciantes o magos! ¿No empezamos <B>todos</B> como <B>Superprincipiante</B>?"
     },
     "koxeDQ": {
         "en-US": "White: I believe all you need to do is not forget the mindset and ordinariness from when you were a Super Novice.",
-        "pt-BR": "Branco: Acho que basta não esquecer a mentalidade e a normalidade daquela época de Superaprendiz.",
+        "pt-BR": "Branco: Acho que basta não esquecer a mentalidade e a normalidade daquela época de Aprendiz.",
         "es-ES": "Blanco: Creo que basta con no olvidar la mentalidad y la normalidad de aquellos tiempos como Superprincipiante."
     },
     "k4xeDQ": {
         "en-US": "[White]\nI believe all you need to do is not forget the mindset and ordinariness from when you were a <B>Super Novice</B>.",
-        "pt-BR": "[Branco]\nAcho que basta não esquecer a mentalidade e a normalidade daquela época de <B>Superaprendiz</B>.",
+        "pt-BR": "[Branco]\nAcho que basta não esquecer a mentalidade e a normalidade daquela época de <B>Aprendiz</B>.",
         "es-ES": "[Blanco]\nCreo que basta con no olvidar la mentalidad y la normalidad de aquellos tiempos como <B>Superprincipiante</B>."
     },
     "lIxeDQ": {
@@ -921,12 +921,12 @@
     },
     "mIxeDQ": {
         "en-US": "Green: Ah. Fine, I get it. I said I get it. Sorry for interrupting you, Mr. □□. Please continue.",
-        "pt-BR": "Verde: Ah. Tá, entendi. Eu já disse que entendi. Desculpa por interromper o Sr. □□. Continue o que estava fazendo.",
+        "pt-BR": "Verde: Ah. Tá, entendi. Eu já disse que entendi. Desculpa por interromper o Sr. ØØ. Continue o que estava fazendo.",
         "es-ES": "Verde: Ah. Vale, entendido. Ya lo he entendido. Siento haber interrumpido al señor □□. Continúe con lo que estaba haciendo."
     },
     "mYxeDQ": {
         "en-US": "[Green]\nAh. Fine, I get it. I said I get it. Sorry for interrupting you, Mr. □□. Please continue.",
-        "pt-BR": "[Verde]\nAh. Tá, entendi. Eu já disse que entendi. Desculpa por interromper o Sr. □□. Continue o que estava fazendo.",
+        "pt-BR": "[Verde]\nAh. Tá, entendi. Eu já disse que entendi. Desculpa por interromper o Sr. ØØ. Continue o que estava fazendo.",
         "es-ES": "[Verde]\nAh. Vale, entendido. Ya lo he entendido. Siento haber interrumpido al señor □□. Continúe con lo que estaba haciendo."
     },
     "moxeDQ": {
@@ -991,12 +991,12 @@
     },
     "poxeDQ": {
         "en-US": "Green: I'm □□□□. Honestly, I joined because I like Super Novice..",
-        "pt-BR": "Verde: Eu sou □□□□. Sinceramente, entrei porque gosto de Superaprendiz, mas..",
+        "pt-BR": "Verde: Eu sou ØØØØ. Sinceramente, entrei porque gosto de Aprendiz, mas...",
         "es-ES": "Verde: Soy □□□□. Sinceramente, me uní porque me gusta Superprincipiante, pero..."
     },
     "p4xeDQ": {
         "en-US": "[Green]\nI'm □□□□. Honestly, I joined because I like <B>Super Novice</B>..",
-        "pt-BR": "[Verde]\nEu sou □□□□. Sinceramente, entrei porque gosto de <B>Superaprendiz</B>, mas..",
+        "pt-BR": "[Verde]\nEu sou ØØØØ. Sinceramente, entrei porque gosto de <B>Aprendiz</B>, mas...",
         "es-ES": "[Verde]\nSoy □□□□. Sinceramente, me uní porque me gusta <B>Superprincipiante</B>, pero..."
     },
     "qIxeDQ": {
@@ -1011,12 +1011,12 @@
     },
     "qoxeDQ": {
         "en-US": "Green: I didn't think much of it at first, but now I'm thinking I might open up a new path to go forward as a Super Novice too.",
-        "pt-BR": "Verde: No começo eu não pensava muito nisso, mas agora acho que também vou abrir um novo caminho possível como Superaprendiz.",
+        "pt-BR": "Verde: No começo eu não pensava muito nisso, mas agora acho que também vou abrir um novo caminho possível como Aprendiz.",
         "es-ES": "Verde: Al principio no le di muchas vueltas, pero por eso estoy pensando en abrir un nuevo camino que también pueda seguir como Superprincipiante."
     },
     "q4xeDQ": {
         "en-US": "[Green]\nI didn't think much of it at first, but now I'm thinking I might open up a new path to go forward as a <B>Super Novice</B> too.",
-        "pt-BR": "[Verde]\nNo começo eu não pensava muito nisso, mas agora acho que também vou abrir um novo caminho possível como <B>Superaprendiz</B>.",
+        "pt-BR": "[Verde]\nNo começo eu não pensava muito nisso, mas agora acho que também vou abrir um novo caminho possível como <B>Aprendiz</B>.",
         "es-ES": "[Verde]\nAl principio no le di muchas vueltas, pero por eso estoy pensando en abrir un nuevo camino que también pueda seguir como <B>Superprincipiante</B>."
     },
     "rIxeDQ": {
@@ -1051,12 +1051,12 @@
     },
     "soxeDQ": {
         "en-US": "Green: Super Novice... Why does Super Novice even exist?",
-        "pt-BR": "Verde: Superaprendiz... Por que existe Superaprendiz?",
+        "pt-BR": "Verde: Aprendiz... Por que existe Aprendiz?",
         "es-ES": "Verde: Superprincipiante... ¿Para qué existe Superprincipiante?"
     },
     "s4xeDQ": {
         "en-US": "[Green]\n<B>Super Novice</B>... Why does <B>Super Novice</B> even exist?",
-        "pt-BR": "[Verde]\n<B>Superaprendiz</B>... Por que existe <B>Superaprendiz</B>?",
+        "pt-BR": "[Verde]\n<B>Aprendiz</B>... Por que existe <B>Aprendiz</B>?",
         "es-ES": "[Verde]\n<B>Superprincipiante</B>... ¿Para qué existe <B>Superprincipiante</B>?"
     },
     "tIxeDQ": {
@@ -1071,12 +1071,12 @@
     },
     "toxeDQ": {
         "en-US": "Green: Starting awkwardly as a Super Novice just leaves me full of worries about what to do.",
-        "pt-BR": "Verde: Ah, começar de forma ambígua como Superaprendiz só me deixa cheio de dúvidas sobre o que fazer.",
+        "pt-BR": "Verde: Ah, começar de forma ambígua como Aprendiz só me deixa cheio de dúvidas sobre o que fazer.",
         "es-ES": "Verde: Ah, como empiezas de forma tan ambigua como Superprincipiante, acabas lleno de dudas sobre qué hacer."
     },
     "t4xeDQ": {
         "en-US": "[Green]\nStarting awkwardly as a <B>Super Novice</B> just leaves me full of worries about what to do.",
-        "pt-BR": "[Verde]\nAh, começar de forma ambígua como <B>Superaprendiz</B> só me deixa cheio de dúvidas sobre o que fazer.",
+        "pt-BR": "[Verde]\nAh, começar de forma ambígua como <B>Aprendiz</B> só me deixa cheio de dúvidas sobre o que fazer.",
         "es-ES": "[Verde]\nAh, como empiezas de forma tan ambigua como <B>Superprincipiante</B>, acabas lleno de dudas sobre qué hacer."
     },
     "uIxeDQ": {
@@ -1086,12 +1086,12 @@
     },
     "uYxeDQ": {
         "en-US": "Auburn: Hello. I'm □□.",
-        "pt-BR": "Alaranjado: Olá. Eu me chamo □□.",
+        "pt-BR": "Alaranjado: Olá. Eu me chamo ØØ.",
         "es-ES": "Naranja: Hola. Me llamo □□."
     },
     "uoxeDQ": {
         "en-US": "[Auburn]\nHello. I'm □□.",
-        "pt-BR": "[Alaranjado]\nOlá. Eu me chamo □□.",
+        "pt-BR": "[Alaranjado]\nOlá. Eu me chamo ØØ.",
         "es-ES": "[Naranja]\nHola. Me llamo □□."
     },
     "u4xeDQ": {
@@ -1166,12 +1166,12 @@
     },
     "yYxeDQ": {
         "en-US": "Auburn: Mage clothes show too much skin.. Acolyte clothes are wrapped up too tightly.",
-        "pt-BR": "Alaranjado: As roupas de mago mostram pele demais.. As de noviço cobrem demais.",
+        "pt-BR": "Alaranjado: As roupas de mago mostram pele demais... As de noviço cobrem demais.",
         "es-ES": "Naranja: La ropa de mago deja ver demasiado... y la de acólito cubre demasiado."
     },
     "yoxeDQ": {
         "en-US": "[Auburn]\nMage clothes show too much skin.. Acolyte clothes are wrapped up too tightly.",
-        "pt-BR": "[Alaranjado]\nAs roupas de mago mostram pele demais.. As de noviço cobrem demais.",
+        "pt-BR": "[Alaranjado]\nAs roupas de mago mostram pele demais... As de noviço cobrem demais.",
         "es-ES": "[Naranja]\nLa ropa de mago deja ver demasiado... y la de acólito cubre demasiado."
     },
     "y4xeDQ": {
@@ -1191,22 +1191,22 @@
     },
     "zoxeDQ": {
         "en-US": "Blue: Everyone~ Sorry I'm late. I'm □□□□. A girl full of dreams.",
-        "pt-BR": "Azul: Pessoal~ Desculpem o atraso. Eu sou □□□□. Uma garota cheia de sonhos.",
+        "pt-BR": "Azul: Pessoal~ Desculpem o atraso. Eu sou ØØØØ. Uma garota cheia de sonhos.",
         "es-ES": "Azul: Hola a todos~ Perdón por llegar tarde. Soy □□□□. Una chica llena de sueños."
     },
     "z4xeDQ": {
         "en-US": "[Blue]\nEveryone~ Sorry I'm late. I'm □□□□. A girl full of dreams.",
-        "pt-BR": "[Azul]\nPessoal~ Desculpem o atraso. Eu sou □□□□. Uma garota cheia de sonhos.",
+        "pt-BR": "[Azul]\nPessoal~ Desculpem o atraso. Eu sou ØØØØ. Uma garota cheia de sonhos.",
         "es-ES": "[Azul]\nHola a todos~ Perdón por llegar tarde. Soy □□□□. Una chica llena de sueños."
     },
     "0IxeDQ": {
         "en-US": "Blue: Huh?! □□□□? You were already here?",
-        "pt-BR": "Azul: Hein?! □□□□? Você já estava aqui?",
+        "pt-BR": "Azul: Hein?! ØØØØ? Você já estava aqui?",
         "es-ES": "Azul: ¡¿Eh?! ¿□□□□? ¿Ya estabas aquí?"
     },
     "0YxeDQ": {
         "en-US": "[Blue]\nHuh?! □□□□? You were already here?",
-        "pt-BR": "[Azul]\nHein?! □□□□? Você já estava aqui?",
+        "pt-BR": "[Azul]\nHein?! ØØØØ? Você já estava aqui?",
         "es-ES": "[Azul]\n¡¿Eh?! ¿□□□□? ¿Ya estabas aquí?"
     },
     "0oxeDQ": {
@@ -1221,12 +1221,12 @@
     },
     "1IxeDQ": {
         "en-US": "White: Now, now, Miss □□□□. Please calm down..",
-        "pt-BR": "Branco: Calma, calma, senhorita □□□□..",
+        "pt-BR": "Branco: Calma, calma, senhorita ØØØØ..",
         "es-ES": "Blanco: Bueno, bueno, señorita □□□□. Cálmese..."
     },
     "1YxeDQ": {
         "en-US": "[White]\nNow, now, Miss □□□□. Please calm down..",
-        "pt-BR": "[Branco]\nCalma, calma, senhorita □□□□..",
+        "pt-BR": "[Branco]\nCalma, calma, senhorita ØØØØ..",
         "es-ES": "[Blanco]\nBueno, bueno, señorita □□□□. Cálmese..."
     },
     "1oxeDQ": {
@@ -1241,12 +1241,12 @@
     },
     "2IxeDQ": {
         "en-US": "Blue: Ugh, what? Miss □□□□? You're not some old man, are you? Ugh, that's gross.",
-        "pt-BR": "Azul: Ugh, o quê? Senhorita □□□□? Você nem é um tio? Ugh, que nojento.",
+        "pt-BR": "Azul: Ugh, o quê? Senhorita ØØØØ? Você nem é um tio? Ugh, que nojento.",
         "es-ES": "Azul: Uf, ¿qué? ¿Señorita □□□□? ¿Qué eres, un señor mayor? Uf, qué repelús."
     },
     "2YxeDQ": {
         "en-US": "[Blue]\nUgh, what? Miss □□□□? You're not some old man, are you? Ugh, that's gross.",
-        "pt-BR": "[Azul]\nUgh, o quê? Senhorita □□□□? Você nem é um tio? Ugh, que nojento.",
+        "pt-BR": "[Azul]\nUgh, o quê? Senhorita ØØØØ? Você nem é um tio? Ugh, que nojento.",
         "es-ES": "[Azul]\nUf, ¿qué? ¿Señorita □□□□? ¿Qué eres, un señor mayor? Uf, qué repelús."
     },
     "2oxeDQ": {
@@ -1261,12 +1261,12 @@
     },
     "3IxeDQ": {
         "en-US": "White: Just now, Mr. □□ pointed to Mr. □□ with auburn hair, didn't he? Please introduce yourself.",
-        "pt-BR": "Branco: Há pouco, o Sr. □□ indicou o Sr. □□ de cabelo alaranjado, certo? Apresente-se, por favor.",
+        "pt-BR": "Branco: Há pouco, o Sr. ØØ indicou a ØØ de cabelo alaranjado, certo? Apresente-se, por favor.",
         "es-ES": "Blanco: Hace un momento, el señor □□ señaló al señor □□, el del pelo anaranjado, ¿verdad? Preséntate, por favor."
     },
     "3YxeDQ": {
         "en-US": "[White]\nJust now, Mr. □□ pointed to Mr. □□ with auburn hair, didn't he? Please introduce yourself.",
-        "pt-BR": "[Branco]\nHá pouco, o Sr. □□ indicou o Sr. □□ de cabelo alaranjado, certo? Apresente-se, por favor.",
+        "pt-BR": "[Branco]\nHá pouco, o Sr. ØØ indicou a ØØ de cabelo alaranjado, certo? Apresente-se, por favor.",
         "es-ES": "[Blanco]\nHace un momento, el señor □□ señaló al señor □□, el del pelo anaranjado, ¿verdad? Preséntate, por favor."
     },
     "3oxeDQ": {
@@ -1366,12 +1366,12 @@
     },
     "8YxeDQ": {
         "en-US": "Black: My name is □□□.",
-        "pt-BR": "Preto: Meu nome é □□□.",
+        "pt-BR": "Preto: Meu nome é ØØØ.",
         "es-ES": "Negro: Mi nombre es □□□."
     },
     "8oxeDQ": {
         "en-US": "[Black]\nMy name is □□□.",
-        "pt-BR": "[Preto]\nMeu nome é □□□.",
+        "pt-BR": "[Preto]\nMeu nome é ØØØ.",
         "es-ES": "[Negro]\nMi nombre es □□□."
     },
     "84xeDQ": {
@@ -1431,17 +1431,17 @@
     },
     "/oxeDQ": {
         "en-US": "[<B>Y</B>ellow]\nWow, isn't that a bit much?",
-        "pt-BR": "[<B>Amare</B>lo]\nUau, isso não é maldade demais?",
+        "pt-BR": "[<B>Amarelo</B>]\nUau, isso não é maldade demais?",
         "es-ES": "[<B>Amarillo</B>]\n¡Eh, eso ha sido muy cruel!"
     },
     "/4xeDQ": {
         "en-US": "Black: The gemstone I read about in a Book yesterday is quite a fascinating stone.",
-        "pt-BR": "Preto: A gema que li ontem em Livro é uma pedra muito curiosa.",
+        "pt-BR": "Preto: A gema que li ontem no livro é uma pedra muito curiosa.",
         "es-ES": "Negro: La piedra Gemstone sobre la que leí ayer en Libro es realmente curiosa."
     },
     "AI1eDQ": {
         "en-US": "[Black]\nThe gemstone I read about in a Book yesterday is quite a fascinating stone.",
-        "pt-BR": "[Preto]\nA gema que li ontem em Livro é uma pedra muito curiosa.",
+        "pt-BR": "[Preto]\nA gema que li ontem no livro é uma pedra muito curiosa.",
         "es-ES": "[Negro]\nLa piedra Gemstone sobre la que leí ayer en Libro es realmente curiosa."
     },
     "AY1eDQ": {
@@ -1456,12 +1456,12 @@
     },
     "A41eDQ": {
         "en-US": "Black: Why isn't there a Sword silver stone? It would be nice if there were a Sword silver stone like my hair color..",
-        "pt-BR": "Preto: Por que não existe uma pedra Espadaprateada? Seria bom se existisse uma pedra Espadaprateada como a cor do meu cabelo..",
+        "pt-BR": "Preto: Por que não existe uma pedra Prateada? Seria bom se existisse uma pedra Prateada como a cor do meu cabelo...",
         "es-ES": "Negro: ¿Por qué no existe una Stone de color Espada plateado? Estaría bien que hubiera una Stone de color Espada plateado como mi pelo..."
     },
     "BI1eDQ": {
         "en-US": "[Black]\nWhy isn't there a Sword silver stone? It would be nice if there were a Sword silver stone like my hair color..",
-        "pt-BR": "[Preto]\nPor que não existe uma pedra Espadaprateada? Seria bom se existisse uma pedra Espadaprateada como a cor do meu cabelo..",
+        "pt-BR": "[Preto]\nPor que não existe uma pedra Prateada? Seria bom se existisse uma pedra Prateada como a cor do meu cabelo...",
         "es-ES": "[Negro]\n¿Por qué no existe una Stone de color Espada plateado? Estaría bien que hubiera una Stone de color Espada plateado como mi pelo..."
     },
     "BY1eDQ": {
@@ -1471,7 +1471,7 @@
     },
     "Bo1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nI said it was annoying, but you still made me stand there and guide people inside if anyone came. Did you forget already?",
-        "pt-BR": "[<B>Amare</B>lo]\nVocê disse que era incômodo, mas me mandou ficar aqui para guiar quem chegasse para dentro. Já esqueceu nesse meio-tempo?",
+        "pt-BR": "[<B>Amarelo</B>]\nVocê disse que era incômodo, mas me mandou ficar aqui para guiar quem chegasse para dentro. Já esqueceu nesse meio-tempo?",
         "es-ES": "[<B>Amarillo</B>]\nPero si dije que era un fastidio, y aun así me encargaste expresamente que guiara dentro a quien llegara. ¿Ya se te ha olvidado?"
     },
     "B41eDQ": {
@@ -1486,12 +1486,12 @@
     },
     "CY1eDQ": {
         "en-US": "Yellow: \"Ah! That's right,\" he says. Ugh! I can't exactly smack him.",
-        "pt-BR": "Amarelo: \"Ah! É verdade\", nada. Aaah! Eu nem posso bater nele.",
+        "pt-BR": "Amarelo: 'Ah! É verdade', nada. Aaah! Eu nem posso bater nele.",
         "es-ES": "Amarillo: ¡Ah! Es verdad, dice. ¡Uf! ¡Si pudiera, le daría un golpe!"
     },
     "Co1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nAh! That's right,\" he says. Ugh! I can't exactly smack him.\"",
-        "pt-BR": "[<B>Amare</B>lo]\nAh! É verdade\", nada. Aaah! Eu nem posso bater nele.\"",
+        "pt-BR": "[<B>Amarelo</B>]\n'Ah! É verdade', nada. Aaah! Eu nem posso bater nele.",
         "es-ES": "[<B>Amarillo</B>]\n¡Ah! Es verdad, dice. ¡Uf! ¡Si pudiera, le daría un golpe!"
     },
     "C41eDQ": {
@@ -1501,17 +1501,17 @@
     },
     "DI1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nAhem- Ahem!",
-        "pt-BR": "[<B>Amare</B>lo]\nHmm- hmm!",
+        "pt-BR": "[<B>Amarelo</B>]\nHmm- hmm!",
         "es-ES": "[<B>Amarillo</B>]\nMmm... ¡Ejem!"
     },
     "DY1eDQ": {
         "en-US": "Yellow: Nice to meet you. Everyone, my name is □□□.",
-        "pt-BR": "Amarelo: Prazer. Pessoal, eu me chamo □□□.",
+        "pt-BR": "Amarelo: Prazer. Pessoal, eu me chamo ØØØ.",
         "es-ES": "Amarillo: Encantado de veros. Soy □□□."
     },
     "Do1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nNice to meet you. Everyone, my name is □□□.",
-        "pt-BR": "[<B>Amare</B>lo]\nPrazer. Pessoal, eu me chamo □□□.",
+        "pt-BR": "[<B>Amarelo</B>]\nPrazer. Pessoal, eu me chamo ØØØ.",
         "es-ES": "[<B>Amarillo</B>]\nEncantado de veros. Soy □□□."
     },
     "D41eDQ": {
@@ -1521,7 +1521,7 @@
     },
     "EI1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nMy hobby is collecting various collectibles.",
-        "pt-BR": "[<B>Amare</B>lo]\nMeu hobby é colecionar vários tipos de objetos.",
+        "pt-BR": "[<B>Amarelo</B>]\nMeu hobby é colecionar vários tipos de objetos.",
         "es-ES": "[<B>Amarillo</B>]\nMi afición es reunir toda clase de objetos de colección."
     },
     "EY1eDQ": {
@@ -1531,7 +1531,7 @@
     },
     "Eo1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nAnd I plan to someday build something like a museum with the collectibles I gather.",
-        "pt-BR": "[<B>Amare</B>lo]\nE, com a coleção que reunir, pretendo abrir algo como um museu algum dia.",
+        "pt-BR": "[<B>Amarelo</B>]\nE, com a coleção que reunir, pretendo abrir algo como um museu algum dia.",
         "es-ES": "[<B>Amarillo</B>]\nY con esos objetos de colección que reúna, algún día pienso construir algo como un museo."
     },
     "E41eDQ": {
@@ -1541,27 +1541,27 @@
     },
     "FI1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nWell, plans can change depending on the situation. Until then, I hope we all get along.",
-        "pt-BR": "[<B>Amare</B>lo]\nBem, planos podem mudar conforme a situação. Até lá, conto com todos vocês.",
+        "pt-BR": "[<B>Amarelo</B>]\nBem, planos podem mudar conforme a situação. Até lá, conto com todos vocês.",
         "es-ES": "[<B>Amarillo</B>]\nBueno, los planes pueden cambiar según las circunstancias. Hasta entonces, espero contar con todos vosotros."
     },
     "FY1eDQ": {
         "en-US": "Yellow: All right! I'm done. Has everyone introduced themselves? □□□□, didn't you not do yours?",
-        "pt-BR": "Amarelo: Pronto! Eu terminei. Todos já se apresentaram? □□□□, você ainda não se apresentou, não foi?",
+        "pt-BR": "Amarelo: Pronto! Eu terminei. Todos já se apresentaram? ØØØØ, você ainda não se apresentou, não foi?",
         "es-ES": "Amarillo: ¡Bien! Yo ya he terminado. ¿Ya se ha presentado todo el mundo? □□□□, ¿tú no lo has hecho?"
     },
     "Fo1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nAll right! I'm done. Has everyone introduced themselves? □□□□, didn't you not do yours?",
-        "pt-BR": "[<B>Amare</B>lo]\nPronto! Eu terminei. Todos já se apresentaram? □□□□, você ainda não se apresentou, não foi?",
+        "pt-BR": "[<B>Amarelo</B>]\nPronto! Eu terminei. Todos já se apresentaram? ØØØØ, você ainda não se apresentou, não foi?",
         "es-ES": "[<B>Amarillo</B>]\n¡Bien! Yo ya he terminado. ¿Ya se ha presentado todo el mundo? □□□□, ¿tú no lo has hecho?"
     },
     "F41eDQ": {
         "en-US": "Green: Didn't.",
-        "pt-BR": "Verde: Não se apresentou.",
+        "pt-BR": "Verde: Não me apresentei.",
         "es-ES": "Verde: No lo ha hecho."
     },
     "GI1eDQ": {
         "en-US": "[Green]\nDidn't.",
-        "pt-BR": "[Verde]\nNão se apresentou.",
+        "pt-BR": "[Verde]\nNão me apresentei.",
         "es-ES": "[Verde]\nNo lo ha hecho."
     },
     "GY1eDQ": {
@@ -1581,7 +1581,7 @@
     },
     "HI1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nThey say there are countless items in this world, right?",
-        "pt-BR": "[<B>Amare</B>lo]\nDizem que existem inúmeros objetos neste mundo, certo?",
+        "pt-BR": "[<B>Amarelo</B>]\nDizem que existem inúmeros objetos neste mundo, certo?",
         "es-ES": "[<B>Amarillo</B>]\nEn este mundo existen innumerables objetos, ¿verdad?"
     },
     "HY1eDQ": {
@@ -1591,7 +1591,7 @@
     },
     "Ho1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nIf I could have all those various items, that would be wonderful..",
-        "pt-BR": "[<B>Amare</B>lo]\nSeria realmente ótimo se eu pudesse ter todos esses vários objetos..",
+        "pt-BR": "[<B>Amarelo</B>]\nSeria realmente ótimo se eu pudesse ter todos esses vários objetos..",
         "es-ES": "[<B>Amarillo</B>]\nSi pudiera poseer todos esos objetos tan diversos, sería maravilloso..."
     },
     "H41eDQ": {
@@ -1601,27 +1601,27 @@
     },
     "II1eDQ": {
         "en-US": "[<B>Y</B>ellow]\nIf I want to make them all mine, I'll have to earn money first, right?",
-        "pt-BR": "[<B>Amare</B>lo]\nPara fazer tudo isso meu, primeiro preciso ganhar dinheiro, não é?",
+        "pt-BR": "[<B>Amarelo</B>]\nPara fazer tudo isso meu, primeiro preciso ganhar dinheiro, não é?",
         "es-ES": "[<B>Amarillo</B>]\nPara hacerlos todos míos, primero tendré que ganar dinero, ¿no?"
     },
     "IY1eDQ": {
         "en-US": "Grape: Notice. The devices outside for proceeding to the next location have been activated.",
-        "pt-BR": "Grape: Aviso. Ativei lá fora os dispositivos para avançar ao próximo local.",
+        "pt-BR": "Uvo: Aviso. Ativei o dispositivo para avançar.",
         "es-ES": "Grape: Aviso. He activado fuera los dispositivos necesarios para avanzar al siguiente lugar."
     },
     "Io1eDQ": {
         "en-US": "Grape: I won't tell you what items they are. It would be too boring if I told you everything.",
-        "pt-BR": "Grape: Não vou dizer que tipo de objetos são. Se eu contar tudo, perde a graça.",
+        "pt-BR": "Uvo: Não vou contar qual é o dispositivo.",
         "es-ES": "Grape: No os diré qué objetos son. Si os lo dijera todo, no tendría gracia."
     },
     "I41eDQ": {
         "en-US": "Grape: Oh! Saying they're items is a hint too.. I already said it, so there's nothing I can do about it.",
-        "pt-BR": "Grape: Ah! Dizer que são objetos também é uma dica.. Mas já falei, então não tem jeito.",
+        "pt-BR": "Uvo: Ah! A dica é... ele gira e está no outro quarto.",
         "es-ES": "Grape: ¡Ah! Eso de objetos también era una pista... Como ya lo he dicho, no hay remedio."
     },
     "JI1eDQ": {
         "en-US": "Grape: Look carefully.",
-        "pt-BR": "Grape: Procure bem.",
+        "pt-BR": "Uvo: Procure bem.",
         "es-ES": "Grape: Buscad bien."
     }
 }

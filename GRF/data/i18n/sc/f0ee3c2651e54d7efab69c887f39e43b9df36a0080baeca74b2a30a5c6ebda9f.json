@@ -31,7 +31,7 @@
     },
     "xjB7DA": {
         "en-US": "[Max]\nAnother weirdo has joined us.",
-        "pt-BR": "[Max]\nMais uma pessoa esquisita por aqui.",
+        "pt-BR": "[Max]\nÉ mais uma pessoa esquisita por aqui.",
         "es-ES": "[Max]\nYa hay otro tipo raro más."
     },
     "xzB7DA": {
@@ -41,7 +41,7 @@
     },
     "yDB7DA": {
         "en-US": "[Diana]\nYeah. I was really shocked. That Meister handled her Madogear like an extension of her body, and then produced her walking stick when she got off it.",
-        "pt-BR": "[Diana]\nÉ mesmo. Eu fiquei realmente surpresa. Aquela engenheira manuseava o M.E.C.H.A. como se fosse parte do próprio corpo.\nAssim que saiu do M.E.C.H.A., ativou sua perna artificial...",
+        "pt-BR": "[Diana]\nÉ mesmo. Eu fiquei realmente surpresa. Aquela engenheira manuseava o M.E.C.H.A. como se fosse parte do próprio corpo.\nAssim que saiu do M.E.C.H.A., deu para ver sua Perna de Prata...",
         "es-ES": "[Diana]\nSí, claro. Te digo que me quedé realmente sorprendida. Ese artífice que manejaba el meca mágico como si fueran sus propias extremidades, en cuanto se lo quitó, sacó un bastón."
     },
     "yTB7DA": {
@@ -56,12 +56,12 @@
     },
     "yzB7DA": {
         "en-US": "[Diana]\nIt might be something precious to her.",
-        "pt-BR": "[Diana]\nTalvez tenha algum valor sentimental.",
+        "pt-BR": "[Diana]\nTalvez tenha algum valor sentimental?",
         "es-ES": "[Diana]\nQuizá sea algo muy valioso para él."
     },
     "zDB7DA": {
         "en-US": "[Diana]\nMax, if I got into an accident and had to retire from being an adventurer, what would you do?",
-        "pt-BR": "[Diana]\nMax, se um dia eu sofrer um acidente e tiver que deixar de ser aventureira, o que você vai fazer?",
+        "pt-BR": "[Diana]\nMax, se um dia eu sofrer um acidente e tiver que deixar de ser Desordeira, o que você vai fazer?",
         "es-ES": "[Diana]\nMax, si algún día tengo un accidente y tengo que retirarme como aventurera, ¿qué harás tú, Max?"
     },
     "zTB7DA": {
@@ -101,22 +101,22 @@
     },
     "1DB7DA": {
         "en-US": "<Verus Landscaping Dept>",
-        "pt-BR": "<Departamento de Limpeza Urbana de Verus>",
+        "pt-BR": "< Oficial de Limpeza >",
         "es-ES": "<Departamento de Limpieza Urbana de Verus>"
     },
     "1TB7DA": {
         "en-US": "[Landscaping Department Staff]\nYes, how may I help you?\nI'm a bit busy right now. If it's not urgent, please come back tomorrow.",
-        "pt-BR": "[Funcionária do Departamento de Limpeza]\nSim, sim, você tem alguma reclamação?\nEstamos ocupados agora, então, a menos que seja algo realmente urgente, volte depois!",
+        "pt-BR": "[Oficial de Limpeza]\nPois, não? Você tem alguma reclamação?\nEstou ocupada agora, então, a menos que seja algo realmente urgente, volte depois!",
         "es-ES": "[Empleada del Departamento de Limpieza]\nSí, sí, ¿tienes alguna queja?\nAhora estamos ocupados, así que si no es algo realmente urgente, vuelve otro día."
     },
     "1jB7DA": {
         "en-US": "[Landscaping Department Staff]\nOh!\nHey, you, Geneticist over there!\nYou're a Geneticist, right?\nYou came at the right time!",
-        "pt-BR": "[Funcionária do Departamento de Limpeza]\nAh!\nEi, você aí!\nVocê é um Bioquímico, não é?\nChegou na hora certa!",
+        "pt-BR": "[Oficial de Limpeza]\nAh!\nEi, você aí!\nVocê é da Guilda dos Bioquímicos, não é?\nChegou na hora certa!",
         "es-ES": "[Empleada del Departamento de Limpieza]\n¡Ah!\n¡Oye, prof. Genetista!\n¡Eres Genetista, ¿verdad?\n¡Qué bien que llegaste justo a tiempo!"
     },
     "1zB7DA": {
         "en-US": "[Landscaping Department Staff]\nI'm Aldina Crowley, working in the Landscaping Department under the Verus Development Division!\nWhen did you come to Verus? Today? Just now?",
-        "pt-BR": "[Funcionária do Departamento de Limpeza]\nEu sou a Aldina Crowley, e trabalho no Departamento de Limpeza da Divisão de Desmatamento de Verus!\nQuando você chegou em Verus? Hoje? Agora mesmo?",
+        "pt-BR": "[Oficial de Limpeza]\nEu sou a Aldina Crowley, e trabalho no Departamento de Limpeza de Verus!\nQuando você chegou em Verus? Hoje? Agora mesmo?",
         "es-ES": "[Empleada del Departamento de Limpieza]\n¡Me llamo Aldina Crowley y trabajo en el Departamento de Limpieza de la División de Desbroce de Verus!\n¿Cuándo llegaste a Verus? ¿Hoy? ¿Hace un momento?"
     },
     "2DB7DA": {
@@ -126,32 +126,32 @@
     },
     "2TB7DA": {
         "en-US": "[Aldina]\nFor days, there’s been a horrible smell coming from somewhere. We had no idea where it was coming from until it became this unbearable...\nWe figured out that something had been illegally dumped at the garbage site! But when you get close to the source, you can barely breathe even if you cover your nose.",
-        "pt-BR": "[Aldina]\nHá alguns dias, um cheiro horrível começou a vir de algum lugar. Eu não sabia de onde vinha até o cheiro ficar tão forte assim...\nEu sabia que tinha algo sendo jogado ilegalmente no lixão! Mas quando chego perto da fonte, não consigo respirar nem mesmo tapando o nariz.",
+        "pt-BR": "[Aldina]\nHá alguns dias, um cheiro horrível começou a vir de algum lugar. Eu não sabia de onde vinha até o cheiro ficar tão forte assim...\nEu sei que tem algo sendo jogado ilegalmente no lixão! Mas quando chego perto, não consigo respirar nem mesmo tapando o nariz.",
         "es-ES": "[Aldina]\nDesde hace unos días se siente un olor fétido que viene de algún lado. No sabía de dónde era hasta que el olor se volvió tan insoportable...\n¡Ya sabía que había basura tirada ilegalmente en el vertedero! Pero cuando me acerco al origen, ni siquiera puedo respirar aunque me tape la nariz."
     },
     "2jB7DA": {
         "en-US": "[Aldina]\nI heard only the most skilled geneticists can make special items!\nIs there any medicine to get rid of this smell? Or something that dissolves everything?",
-        "pt-BR": "[Aldina]\nDizem que só os melhores bioquímicos podem fabricar itens especiais!\nNão tem algum remédio pra tirar esse cheiro? Tipo, um remédio que derreta tudo...",
+        "pt-BR": "[Aldina]\nDizem que só os melhores bioquímicos podem fabricar itens especiais!\nNão tem algum remédio pra tirar esse cheiro? Tipo, um ácido que derreta tudo...?",
         "es-ES": "[Aldina]\n¡Dicen que para ser genetistas deben ser los mejores en la fabricación de objetos especiales!\n¿No habrá algún medicamento para eliminar este olor? ¿Algo que lo disuelva todo, por ejemplo...?"
     },
     "2zB7DA": {
         "en-US": "[Aldina]\nBut with this smell, I can't even guess what's in there. It smells like something rotting, or like a chemical, or like something disgusting I've never smelled in my life...",
-        "pt-BR": "[Aldina]\nMas, com esse cheiro, não dá nem para imaginar o que tem lá. Parece cheiro de algo podre, ou de produto químico, é uma sensação nojenta que nunca senti na vida...",
+        "pt-BR": "[Aldina]\nCom esse cheiro, não dá nem para imaginar o que tem lá. Parece cheiro de algo podre, ou de produto químico, é uma sensação nojenta que nunca senti na vida...",
         "es-ES": "[Aldina]\nPero con este olor, ni idea de qué puede haber ahí. Parece olor a podrido, o a productos químicos, o una sensación desagradable que nunca había olido en mi vida..."
     },
     "3DB7DA": {
         "en-US": "[Aldina]\nWe have a suspect, but unless we can get close to the evidence and verify what it is, we can't give him a fine, never mind stop the odor.",
-        "pt-BR": "[Aldina]\nTenho uma ideia de quem é o culpado. Mas se não consigo chegar perto das provas, não dá nem para multar, muito menos impedir o mau cheiro...",
+        "pt-BR": "[Aldina]\nTenho uma ideia de quem é o culpado. Mas se não consigo chegar perto das provas, não dá nem para aplicar uma multa, muito menos impedir o mau cheiro...",
         "es-ES": "[Aldina]\nTengo una idea de quién es el culpable. Pero si ni siquiera puedo acercarme a las pruebas, no solo no puedo multarlo, sino que ni siquiera puedo detener el mal olor..."
     },
     "3TB7DA": {
         "en-US": "[Aldina]\nRecently, a ^3300FFBiolo^000000 showed up with all kinds of exploration permits and set up shop here.\nI believe he's the culprit!",
-        "pt-BR": "[Aldina]\nUm ^3300FFCientista^000000 veio com todo tipo de licença para fazer uma investigação e montou um laboratório aqui.\nCom certeza é ele...!",
+        "pt-BR": "[Aldina]\nUm ^3300FFCientista^000000 veio fazer uma investigação e montou um laboratório aqui na cidade.\nCom certeza é ele...!",
         "es-ES": "[Aldina]\nUn ^3300FFBiólogo^000000, que vino con todo tipo de permisos para investigar, montó un laboratorio.\n¡Seguro que es él...!"
     },
     "3jB7DA": {
         "en-US": "[Aldina]\nPlease, help me get rid of this abomination at the dump site.",
-        "pt-BR": "[Aldina]\nPor favor!! Me ajude a tirar aquilo do depósito de lixo!",
+        "pt-BR": "[Aldina]\nPor favor!! Me ajude a tirar a origem do mau cheiro do depósito de lixo!",
         "es-ES": "[Aldina]\n¡Te lo ruego!! ¡Ayúdame a sacar eso del basurero!"
     },
     "3zB7DA": {
@@ -186,12 +186,12 @@
     },
     "5TB7DA": {
         "en-US": "[Aldina]\nAs for me, I can't get near <NAVI>[Source]<INFO>verus04,28,115,0,101,0</INFO></NAVI>... I can only ask for your help.",
-        "pt-BR": "[Aldina]\nComo eu não consigo chegar perto da <NAVI>[Origem]<INFO>verus04,28,115,0,101,0</INFO></NAVI>... só me resta pedir a sua ajuda.",
+        "pt-BR": "[Aldina]\nComo eu não consigo chegar perto da <NAVI>[Pilha de Lixo]<INFO>verus04,28,115,0,101,0</INFO></NAVI>... só me resta pedir a sua ajuda.",
         "es-ES": "[Aldina]\nYo no puedo acercarme a <NAVI>[Origen]<INFO>verus04,28,115,0,101,0</INFO></NAVI>... así que solo me queda pedirte ayuda."
     },
     "5jB7DA": {
         "en-US": "[Aldina]\nHuh? A gas mask?\nSure, we do have gas masks for emergencies, but even they don't--pardon?\nYou'll make a customized one?",
-        "pt-BR": "[Aldina]\nO quê? Máscara de gás?\nSe for do estoque do escritório, tem, mas nem isso vai adiantar... O quê?\nVocê vai fazer uma?",
+        "pt-BR": "[Aldina]\nO quê? Máscara de Respiração?\nSe for do estoque do escritório, tem, mas nem isso vai adiantar de quê?\nVocê vai fazer uma?",
         "es-ES": "[Aldina]\n¿Eh? ¿Una máscara antigás?\nSi se trata de material de emergencia para la oficina, sí que tenemos, pero eso no va a servir de nada... ¿Eh?\n¿Dices que la vas a hacer?"
     },
     "5zB7DA": {
@@ -201,7 +201,7 @@
     },
     "6DB7DA": {
         "en-US": "[Aldina]\nPardon? You made a gas mask?\nOh my... Is that something you can actually make yourself?",
-        "pt-BR": "[Aldina]\nO quê? Você fez uma máscara de gás?\nMinha nossa... isso é mesmo algo que dá pra fazer sozinho?",
+        "pt-BR": "[Aldina]\nO quê? Você fez uma Máscara de Respiração?\nMinha nossa... isso é mesmo algo que dá pra fazer só?",
         "es-ES": "[Aldina]\n¿Eh? ¿Dices que hiciste una máscara antigás?\n¡Vaya! ¿De verdad se puede hacer algo así uno mismo?"
     },
     "6TB7DA": {
@@ -211,17 +211,17 @@
     },
     "6jB7DA": {
         "en-US": "[Aldina]\nWelcome!...?\n That box...",
-        "pt-BR": "[Aldina]\nSeja bem-vindo!\n...? Essa caixa é...",
+        "pt-BR": "[Aldina]\nBoas-vindas!\n...? Isso aí é uma...",
         "es-ES": "[Aldina]\n¡Bienvenido!\n...? Esa caja es..."
     },
     "6zB7DA": {
         "en-US": "I told Aldina the cause of the odor was a desiccated Mandragora.",
-        "pt-BR": "Relatei à Aldina que a causa do cheiro era uma mandrágora seca e murcha.",
+        "pt-BR": "Relatei à Aldina que a causa do cheiro era uma Mandrágora seca e murcha.",
         "es-ES": "Le informé a Aldina de que la causa del olor era una mandragora seca y retorcida."
     },
     "7DB7DA": {
         "en-US": "[Aldina]\n...Ah, it's still a plant, monster or not.\nOkay, then let me give you a document.",
-        "pt-BR": "[Aldina]\n...Ah, claro, planta é planta mesmo.\nEntão vou preencher a documentação pra você.",
+        "pt-BR": "[Aldina]\n... Ah, claro, tinha que ser aquele cara mesmo.\nEntão vou preencher uma documentação pra você.",
         "es-ES": "[Aldina]\n...Ah, claro, las plantas son las plantas.\nEntonces te voy a preparar el informe."
     },
     "7TB7DA": {
@@ -241,7 +241,7 @@
     },
     "8DB7DA": {
         "en-US": "[Aldina]\nThis is... a notice of fines for illegal dumping.\nGo to <NAVI>[this place]<INFO>verus04,53,263,0,101,0</INFO></NAVI>, now. If you say it was sent by the Environmental Beautification Division, they might open the door.",
-        "pt-BR": "[Aldina]\nIsso é... uma notificação de multa por descarte ilegal.\nVá agora até <NAVI>[esse local]<INFO>verus04,53,263,0,101,0</INFO></NAVI>. \nSe disser que veio do Departamento de Limpeza Urbana, talvez eles abram a porta.",
+        "pt-BR": "[Aldina]\nIsso é uma... notificação de multa por descarte ilegal.\nVá agora até <NAVI>[essa casa]<INFO>verus04,53,263,0,101,0</INFO></NAVI>. \nSe disser que veio do Departamento de Limpeza Urbana, talvez ele abra a porta.",
         "es-ES": "[Aldina]\nEsto es... una multa por tirar basura sin permiso.\nVe ahora a <NAVI>[aquí]<INFO>verus04,53,263,0,101,0</INFO></NAVI>.\nSi dices que te lo envió el Departamento de Limpieza Urbana, tal vez te abran la puerta."
     },
     "8TB7DA": {
@@ -251,12 +251,12 @@
     },
     "8jB7DA": {
         "en-US": "[Aldina]\nHe insists whatever he created would vanish immediately, but considering how long that mummified radish-like Mandragora stank, we have no choice but to issue him a penalty notice.\nAre all scientists such strange people?",
-        "pt-BR": "[Aldina]\nEle diz que tudo que ele cria desaparece logo, mas... o que ele criou parece um nabo murcho e retorcido.\nO mau cheiro já dura dias, acho que já está na hora de mandar uma notificação.\nSerá que todos os cientistas são pessoas estranhas assim?",
+        "pt-BR": "[Aldina]\nEle diz que tudo que ele cria desaparece logo, mas... o que ele criou parece uma batata murcha e retorcida.\nO mau cheiro já dura dias, acho que já está na hora de mandar uma notificação.\nSerá que todos os cientistas são pessoas estranhas assim?",
         "es-ES": "[Aldina]\nÉl dice que todo va a desaparecer pronto, pero... más que algo que crezca, parece un nabo seco y retorcido; viendo el hedor que ha estado emanando durante días, creo que ya es hora de mandarle una notificación.\n¿Es que todos los científicos son gente tan rara?"
     },
     "8zB7DA": {
         "en-US": "Tell me about it.",
-        "pt-BR": "É mesmo.",
+        "pt-BR": "São sim.",
         "es-ES": "Sí, claro"
     },
     "9DB7DA": {
@@ -266,7 +266,7 @@
     },
     "9TB7DA": {
         "en-US": "Really?",
-        "pt-BR": "É mesmo?",
+        "pt-BR": "Você acha?",
         "es-ES": "¿En serio?"
     },
     "9jB7DA": {
@@ -276,7 +276,7 @@
     },
     "9zB7DA": {
         "en-US": "[Aldina]\nYes. My eyes weren't deceiving me. The only one who can handle that person... no, who can do something about him, is you, sir.",
-        "pt-BR": "[Aldina]\nÉ isso aí. Como eu imaginava, a única pessoa que pode dar um jeito naquele cara... \nquero dizer, que pode resolver isso de alguma forma, é você.",
+        "pt-BR": "[Aldina]\nComo eu imaginava, a única pessoa que pode dar um jeito naquele cara... \nquero dizer, que pode resolver isso de alguma forma, é você.",
         "es-ES": "[Aldina]\nSí. Como me imaginaba, la única persona que puede encargarse de esa persona... no, que puede hacer algo al respecto, eres tú."
     },
     "+DB7DA": {
@@ -286,12 +286,12 @@
     },
     "+TB7DA": {
         "en-US": "[Aldina]\nThank you!\nAs I wrote in that notice, his name is Gregor Diamant.\nPlease give him that box and the notice and collect the fine.\nThank you.",
-        "pt-BR": "[Aldina]\nObrigada!\nComo está escrito na notificação, o nome da pessoa que mora lá é Gregor Diamant.\nBasta entregar a caixa e a notificação e receber a multa por ele.\nConto com você.",
+        "pt-BR": "[Aldina]\nObrigada!\nComo está escrito na notificação, o nome da pessoa que mora lá é Gregor Diamant.\nBasta entregar a notificação para dar a multa à ele.\nConto com você.",
         "es-ES": "[Aldina]\n¡Gracias!\nComo dice en el aviso, el nombre de la persona que vive ahí es Gregor Diamant.\nSolo tienes que darle esa caja y el aviso, y traerme la multa.\nTe lo pido."
     },
     "+jB7DA": {
         "en-US": "[Aldina]\nDiamant's lab is <NAVI>[here]<INFO>verus04,53,263,0,101,0</INFO></NAVI>.",
-        "pt-BR": "[Aldina]\nO laboratório de Diamant fica <NAVI>[aqui]<INFO>verus04,53,263,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Aldina]\nO laboratório de Diamant fica <NAVI>[ao norte daqui]<INFO>verus04,53,263,0,101,0</INFO></NAVI>.",
         "es-ES": "[Aldina]\nEl laboratorio de Diamant está <NAVI>[aquí]<INFO>verus04,53,263,0,101,0</INFO></NAVI>."
     },
     "+zB7DA": {
@@ -316,7 +316,7 @@
     },
     "/zB7DA": {
         "en-US": "Piled Garbage",
-        "pt-BR": "Pilha de lixo",
+        "pt-BR": "Pilha de Lixo",
         "es-ES": "Montón de basura"
     },
     "ADF7DA": {
@@ -326,7 +326,7 @@
     },
     "ATF7DA": {
         "en-US": "Unauthorized Commercial Waste\nNo Dumping",
-        "pt-BR": "Lixo comercial não autorizado\nProibido jogar lixo sem autorização",
+        "pt-BR": "Lixo comercial e industrial.\nProibido jogar lixo sem autorização",
         "es-ES": "Basura comercial no autorizada\nProhibido tirar basura sin permiso"
     },
     "AjF7DA": {
@@ -341,12 +341,12 @@
     },
     "BDF7DA": {
         "en-US": "I think of ways to deal with it.",
-        "pt-BR": "Penso em uma solução.",
+        "pt-BR": "Pensar em uma solução.",
         "es-ES": "Pienso en una solución."
     },
     "BTF7DA": {
         "en-US": "I'm giving up for now.",
-        "pt-BR": "Por enquanto, desisto.",
+        "pt-BR": "Desistir.",
         "es-ES": "Por ahora, lo dejo."
     },
     "BjF7DA": {
@@ -356,17 +356,17 @@
     },
     "BzF7DA": {
         "en-US": "To stop that smell, what I need is...",
-        "pt-BR": "O que é preciso para bloquear aquele cheiro...",
+        "pt-BR": "O que é preciso para bloquear aquele cheiro...?",
         "es-ES": "Para bloquear ese olor, lo que necesito es..."
     },
     "CDF7DA": {
         "en-US": "I'd better make a mask.",
-        "pt-BR": "Aperto o nariz e tento me aproximar.",
+        "pt-BR": "Prender a respiração.",
         "es-ES": "Me tapo la nariz y me acerco."
     },
     "CTF7DA": {
         "en-US": "I need to make a mask to block the smell.",
-        "pt-BR": "Preciso fazer uma máscara pra bloquear o cheiro.",
+        "pt-BR": "Um bloqueador de cheiro.",
         "es-ES": "Tengo que hacerme una máscara que bloquee el olor."
     },
     "CjF7DA": {
@@ -376,47 +376,47 @@
     },
     "CzF7DA": {
         "en-US": "What kind of mask structure would be good...",
-        "pt-BR": "Que tipo de estrutura seria melhor para a máscara...",
+        "pt-BR": "Que tipo de estrutura seria melhor para a máscara...?",
         "es-ES": "¿Qué estructura le vendría bien a la mascarilla?"
     },
     "DDF7DA": {
         "en-US": "Layer multiple materials.",
-        "pt-BR": "Faço várias camadas de materiais.",
+        "pt-BR": "Cobrir o nariz com a camisa.",
         "es-ES": "Apilo varias capas de materiales."
     },
     "DTF7DA": {
         "en-US": "Develop a new odor-blocking material.",
-        "pt-BR": "Desenvolvo um novo material que bloqueia o cheiro.",
+        "pt-BR": "Fazer uma máscara pra bloquear o cheiro.",
         "es-ES": "Desarrollo un nuevo material que bloquee el olor."
     },
     "DjF7DA": {
         "en-US": "Still, I don't want to waste my time developing a new material over this. I'd rather collect some materials and use them based on my experience so far.\nLike what?",
-        "pt-BR": "Mas, em vez de desenvolver um material novo só por causa disso, acho melhor juntar materiais que já funcionam, com base na minha experiência até agora.\nMas que materiais?",
+        "pt-BR": "Mas, em vez de desenvolver um material novo, acho melhor juntar materiais que já funcionam, com base na minha experiência até agora.\nMas que materiais?",
         "es-ES": "Pero en lugar de desarrollar un material nuevo solo por eso, creo que sería mejor juntar materiales que ya sé que funcionan, basándome en mi experiencia.\n¿Qué voy a apilar?"
     },
     "DzF7DA": {
         "en-US": "Tightly woven fabric",
-        "pt-BR": "Tecido de malha fina",
+        "pt-BR": "Tecido de Malha Fina",
         "es-ES": "Tela tupida"
     },
     "EDF7DA": {
         "en-US": "Loose fabric",
-        "pt-BR": "Tecido de malha larga",
+        "pt-BR": "Tecido de Malha Grossa",
         "es-ES": "Tela de malla ancha"
     },
     "ETF7DA": {
         "en-US": "I think I need some dense fabric.\nWould ^0000FFPieces of Black Cloths^000000 be okay?",
-        "pt-BR": "Acho que precisamos de um tecido de trama fechada.\nUns pedaços de ^0000FFRetalho Negro^000000 serviria?",
+        "pt-BR": "Acho que precisamos de um tecido de trama fechada.\nUns pedaços de ^0000FFRetalho Negro^000000 serviriam?",
         "es-ES": "Creo que necesitaremos tela tupida.\n¿Serviría un ^0000FFtrozo de tela negra^000000?"
     },
     "EjF7DA": {
         "en-US": "Loose fabric might be difficult...",
-        "pt-BR": "Com tecido de malha larga vai ser difícil...",
+        "pt-BR": "Com tecido de malha grossa vai ser difícil...",
         "es-ES": "Con tela de malla ancha va a ser difícil..."
     },
     "EzF7DA": {
         "en-US": "To hold this thickly in place...",
-        "pt-BR": "Para fixar isso de forma mais resistente...",
+        "pt-BR": "Para fixar isso de forma mais resistente, que material devo usar...?",
         "es-ES": "Para fijar esto bien y que quede grueso..."
     },
     "FDF7DA": {
@@ -426,12 +426,12 @@
     },
     "FTF7DA": {
         "en-US": "Needle Packet",
-        "pt-BR": "Almofada de alfinetes",
+        "pt-BR": "Almofada de Alfinetes",
         "es-ES": "Paquete de agujas"
     },
     "FjF7DA": {
         "en-US": "Fish Backbone",
-        "pt-BR": "Espinha de peixe",
+        "pt-BR": "Espinha de Peixe",
         "es-ES": "Espina de pescado"
     },
     "FzF7DA": {
@@ -446,7 +446,7 @@
     },
     "GTF7DA": {
         "en-US": "The gas mask will probably smell fishy.\nNot a great idea.",
-        "pt-BR": "Desse jeito a máscara de gás vai feder a peixe.\nNão é uma ideia muito boa.",
+        "pt-BR": "Desse jeito a Máscara de Respiração vai feder a peixe.\nNão é uma ideia muito boa.",
         "es-ES": "Me parece que la máscara antigás va a oler a pescado.\nNo es una idea muy buena."
     },
     "GjF7DA": {
@@ -471,7 +471,7 @@
     },
     "HjF7DA": {
         "en-US": "Grasshopper's Legs",
-        "pt-BR": "Pernas de gafanhoto",
+        "pt-BR": "Pernas de Gafanhoto",
         "es-ES": "Patas de saltamontes"
     },
     "HzF7DA": {
@@ -486,7 +486,7 @@
     },
     "ITF7DA": {
         "en-US": "I can't even fathom how to process elunium.\nIt doesn't seem like a good idea.",
-        "pt-BR": "Não tenho ideia de como processar o elunium.\nNão parece ser uma ideia muito boa.",
+        "pt-BR": "Não tenho ideia de como processar o Elunium.\nNão parece ser uma ideia muito boa.",
         "es-ES": "No tengo ni idea de cómo procesar el elunium.\nNo parece una idea muy buena."
     },
     "IjF7DA": {
@@ -496,7 +496,7 @@
     },
     "IzF7DA": {
         "en-US": "Now gather 20 <ITEM>[Pieces of Black Cloth]<INFO>7205</INFO></ITEM>, 1 <ITEM>[Needle Packet]<INFO>7213</INFO></ITEM>, and 10 [Black Charcoal]<INFO>6251</INFO></ITEM>, to craft a Gas Mask and an Airtight Box.",
-        "pt-BR": "Então, agora preciso de 20 unidades de <ITEM>[Retalho Negro]INFO>7205</INFO></ITEM>, 1 unidade de <ITEM>[Almofada de Alfinetes]<INFO>7213</INFO></ITEM>, 10 unidades de <ITEM>[Carvão Negro]<INFO>6251</INFO></ITEM>, para fazer uma máscara de gás e uma caixa hermética.",
+        "pt-BR": "Então, agora preciso de 20 unidades de <ITEM>[Retalho Negro]INFO>7205</INFO></ITEM>, 1 unidade de <ITEM>[Almofada de Alfinetes]<INFO>7213</INFO></ITEM>, 10 unidades de <ITEM>[Carvão Negro]<INFO>6251</INFO></ITEM>, para fazer uma Máscara de Respiração e uma Caixa de Selagem.",
         "es-ES": "Bueno, ahora necesito 20 unidades de <ITEM>[Trozos de tela negra]<INFO>7205</INFO></ITEM>, 1 unidad de <ITEM>[Paquete de agujas]<INFO>7213</INFO></ITEM>, 10 <ITEM>[Carbón negro]<INFO>6251</INFO></ITEM>, para hacer una máscara antigás y una caja hermética."
     },
     "JDF7DA": {
@@ -506,32 +506,32 @@
     },
     "JTF7DA": {
         "en-US": "To craft a Gas Mask and an Airtight Box, you need 20 <ITEM>[Pieces of Black Cloth]<INFO>7205</INFO></ITEM>, 1 <ITEM>[Needle Packet]<INFO>7213</INFO></ITEM>, and 10 <ITEM>[Black Charcoal]<INFO>6251</INFO></ITEM>.",
-        "pt-BR": "Para fazer a máscara de gás e a caixa hermética, são necessários 20 <ITEM>[Retalhos Negros]<INFO>7205</INFO></ITEM>, 1 <ITEM>[Almofada de Alfinetes]<INFO>7213</INFO></ITEM>, 10 unidades de <ITEM>[Carvão Negro]<INFO>6251</INFO></ITEM>.",
+        "pt-BR": "Para fazer a Máscara de Respiração e a Caixa de Selagem, são necessários 20 <ITEM>[Retalhos Negros]<INFO>7205</INFO></ITEM>, 1 <ITEM>[Almofada de Alfinetes]<INFO>7213</INFO></ITEM>, 10 unidades de <ITEM>[Carvão Negro]<INFO>6251</INFO></ITEM>.",
         "es-ES": "Para hacer la máscara antigás y la caja hermética necesitas 20 unidades de <ITEM>[Trozos de tela negra]<INFO>7205</INFO></ITEM>, 1 unidad de <ITEM>[Paquete de agujas]<INFO>7213</INFO></ITEM>, <ITEM>[Carbón negro]<INFO>6251</INFO></ITEM> 10."
     },
     "JjF7DA": {
         "en-US": "I don't want to approach without a gas mask and a box.",
-        "pt-BR": "Sem a máscara de gás e a caixa, não quero nem chegar perto.",
+        "pt-BR": "Sem a Máscara de Respiração e a caixa, não quero nem chegar perto.",
         "es-ES": "No quiero acercarme sin el máscara antigás y la caja."
     },
     "JzF7DA": {
         "en-US": "Recreate the gas mask and sealing box",
-        "pt-BR": "Vou refazer a máscara de gás e a caixa hermética",
+        "pt-BR": "Recriar a Máscara e a Caixa.",
         "es-ES": "Vuelvo a fabricar la máscara antigás y la caja hermética"
     },
     "KDF7DA": {
         "en-US": "I'm quitting",
-        "pt-BR": "Vou parar",
+        "pt-BR": "Parar.",
         "es-ES": "Me rindo"
     },
     "KTF7DA": {
         "en-US": "Check materials",
-        "pt-BR": "Verificar os materiais",
+        "pt-BR": "Verificar os materiais.",
         "es-ES": "Revisando los materiales"
     },
     "KjF7DA": {
         "en-US": "I definitely made it... Did I leave it in the warehouse?",
-        "pt-BR": "Com certeza eu fiz... será que deixei no depósito?",
+        "pt-BR": "Com certeza eu trouxe os itens... será que deixei no Armazém?",
         "es-ES": "Claro que los hice... ¿Los habré dejado en el almacén?"
     },
     "KzF7DA": {
@@ -541,37 +541,37 @@
     },
     "LDF7DA": {
         "en-US": "Search the dump site.",
-        "pt-BR": "Procurar no depósito de lixo",
+        "pt-BR": "Vasculhar o lixo.",
         "es-ES": "Reviso el basurero"
     },
     "LTF7DA": {
         "en-US": "As I search the dump site that's rather small, I hear a barely audible noise.",
-        "pt-BR": "Enquanto vasculho o depósito de lixo, que não é tão grande assim, ouço um barulho fraco vindo de algum lugar.",
+        "pt-BR": "Enquanto vasculho a pilha de lixo, que não é tão grande assim, ouço um barulho fraco vindo de algum lugar.",
         "es-ES": "Mientras rebuscas en el basurero, que no es tan grande, oyes un sonido débil que viene de algún lado."
     },
     "LjF7DA": {
         "en-US": "I check the direction of the sound.",
-        "pt-BR": "Verifico de onde vem o som.",
+        "pt-BR": "Ver de onde vem o som.",
         "es-ES": "Miro hacia donde viene el sonido"
     },
     "LzF7DA": {
         "en-US": "Finish searching the area I was searching.",
-        "pt-BR": "Continuo vasculhando o lugar.",
+        "pt-BR": "Continuar vasculhando.",
         "es-ES": "Sigo rebuscando donde estaba"
     },
     "MDF7DA": {
         "en-US": "...\nI can't help but be bothered by the source of the noise.",
-        "pt-BR": "...\nDe qualquer forma, o lugar de onde vem o som me deixa intrigado.",
+        "pt-BR": "...\nDe qualquer forma, o lugar de onde vem o som me desperta curioidade.",
         "es-ES": "...\nDe todas formas, el lugar de donde viene el ruido me inquieta."
     },
     "MTF7DA": {
         "en-US": "I pick up an old broomstick lying nearby and poke around where I hear the noise. A dried-up Mandragora rolls down.\nThis is definitely where the smell is coming from.",
-        "pt-BR": "Pego uma vassoura velha e vasculho a área ao redor de onde o som veio.\nUma mandrágora seca e retorcida cai rolando.\nSem dúvida, o cheiro está vindo daqui.",
+        "pt-BR": "Pego uma vassoura velha e vasculho a área ao redor de onde o som veio.\nUma mandrágora seca e retorcida cai rolando.\nSem dúvida, o cheiro está vindo dela.",
         "es-ES": "Con una vieja escoba que estaba tirada ahí, revisé los alrededores de donde venía el ruido, y una mandrágora seca y retorcida rodó y cayó al suelo.\nSin duda, el olor viene de aquí."
     },
     "MjF7DA": {
         "en-US": "I listen intently.",
-        "pt-BR": "Presto atenção.",
+        "pt-BR": "Observar Mandrágora.",
         "es-ES": "Agudo el oído"
     },
     "MzF7DA": {
@@ -581,12 +581,12 @@
     },
     "NDF7DA": {
         "en-US": "I place it in the box.",
-        "pt-BR": "Coloco-a na caixa.",
+        "pt-BR": "Colocar Mandrágora na Caixa",
         "es-ES": "La meto en la caja"
     },
     "NTF7DA": {
         "en-US": "I put it in the box I had prepared and closed the lid.\nEven with the gas mask on, I could tell the odour had vanished.",
-        "pt-BR": "Coloquei-a na caixa que tinha trazido e fechei a tampa.\nMesmo usando a máscara de gás, sinto que o cheiro desapareceu do lugar.",
+        "pt-BR": "Coloquei-a na caixa e fechei a tampa.\nMesmo usando a Máscara de Respiração, sinto que o cheiro desapareceu do lugar.",
         "es-ES": "La metí en la caja que había traído y cerré la tapa.\nAunque llevo puesta la máscara antigás, siento que el olor ha desaparecido."
     },
     "NjF7DA": {
@@ -606,12 +606,12 @@
     },
     "OTF7DA": {
         "en-US": "Knock on the door.",
-        "pt-BR": "Bato na porta.",
+        "pt-BR": "Bater na porta.",
         "es-ES": "Llamo a la puerta."
     },
     "OjF7DA": {
         "en-US": "Wait a moment.",
-        "pt-BR": "Espero um pouco.",
+        "pt-BR": "Esperar um pouco.",
         "es-ES": "Espero un momento."
     },
     "OzF7DA": {
@@ -646,7 +646,7 @@
     },
     "QTF7DA": {
         "en-US": "Mr. Gregor Diamant? Are you there?",
-        "pt-BR": "Senhor Gregor Diamant? Está aí?",
+        "pt-BR": "Gregor Diamant? Está aí?",
         "es-ES": "¿Sr. Gregor Diamant? ¿Estás ahí?"
     },
     "QjF7DA": {
@@ -661,27 +661,27 @@
     },
     "RDF7DA": {
         "en-US": "Gloomy Voice: ...Who?",
-        "pt-BR": "Voz sombria: ...Quem é?",
+        "pt-BR": "Voz Sombria: ...Quem é?",
         "es-ES": "Voz sombría: ...¿Quién es?"
     },
     "RTF7DA": {
         "en-US": "[Gloomy Voice]\n...Who?",
-        "pt-BR": "[Voz sombria]\n...Quem é?",
+        "pt-BR": "[Voz Sombria]\n...Quem é?",
         "es-ES": "[Voz sombría]\n...¿Quién es?"
     },
     "RjF7DA": {
         "en-US": "Regarding the illegal dumping case, we're here to collect the fines.",
-        "pt-BR": "Vim cobrar a multa por descarte ilegal de lixo.",
+        "pt-BR": "Multa por descarte ilegal.",
         "es-ES": "Vengo a cobrar la multa por tirar basura en la calle."
     },
     "RzF7DA": {
         "en-US": "Gloomy Voice: What's that in your hand? Ah, we see. Come on in.",
-        "pt-BR": "Voz sombria: O que você está segurando? ... Ah, entendi. Entra.",
+        "pt-BR": "Voz Sombria: O quê? ... Ah, entendi. Entre.",
         "es-ES": "Voz sombría: Lo que tienes ahí... Ah, ya veo. Entra."
     },
     "SDF7DA": {
         "en-US": "[Gloomy Voice]\nWhat's that in your hand? Ah, we see.\nCome on in.",
-        "pt-BR": "[Voz sombria]\nO que você está segurando... Ah, entendi.\nEntra.",
+        "pt-BR": "[Voz Sombria]\nO quê? ... Ah, entendi.\nEntre.",
         "es-ES": "[Voz sombría]\nLo que llevas ahí... Ah, ya veo.\nEntra."
     },
     "STF7DA": {
@@ -706,12 +706,12 @@
     },
     "TTF7DA": {
         "en-US": "Guild Seller",
-        "pt-BR": "Vendedor da cooperativa",
+        "pt-BR": "Fornecedora Alquímica",
         "es-ES": "Vendedor del gremio"
     },
     "TjF7DA": {
         "en-US": "[Guild Seller]\nYes, beakers?",
-        "pt-BR": "[Vendedor da cooperativa]\nSim, um béquer?",
+        "pt-BR": "[Fornecedora Alquímica]\nUm béquer? Claro.",
         "es-ES": "[Vendedor de la cooperativa]\nSí, ¿un vaso de precipitados?"
     },
     "TzF7DA": {
@@ -726,7 +726,7 @@
     },
     "UTF7DA": {
         "en-US": "Anyway, beakers? Yes, we have them!",
-        "pt-BR": "Ah sim, um béquer? Sim, temos!",
+        "pt-BR": "Ah, um béquer? Sim, temos!",
         "es-ES": "En fin, ¿un vaso de precipitados? ¡Sí, lo tenemos!"
     },
     "UjF7DA": {
@@ -741,7 +741,7 @@
     },
     "VDF7DA": {
         "en-US": "That's a good one.",
-        "pt-BR": "Essa é boa.",
+        "pt-BR": "Quero ouvir.",
         "es-ES": "¡Esa idea me gusta!"
     },
     "VTF7DA": {
@@ -751,7 +751,7 @@
     },
     "VjF7DA": {
         "en-US": "[Gregor]\nThe goods are high quality.\nBut we can't give them away for free. As you know, we're all businesspeople at heart.",
-        "pt-BR": "[Gregor]\nO produto é de alta qualidade.\nMas não posso dar de graça. Como você sabe, nós todos somos comerciantes.",
+        "pt-BR": "[Gregor]\nO produto é de alta qualidade.\nMas não posso dar de graça. Como você sabe, nós todos somos mercadores.",
         "es-ES": "[Gregor]\nEl producto es de alta calidad.\nPero no te lo puedo dar gratis. Ya sabes, al fin y al cabo, también somos comerciantes."
     },
     "VzF7DA": {
@@ -766,17 +766,17 @@
     },
     "WTF7DA": {
         "en-US": "[Gregor]\n...Welcome, young Geneticist.\nWhat brings you here?",
-        "pt-BR": "[Gregor]\n...Seja bem-vindo, jovem Bioquímico.\nO que te trouxe até aqui?",
+        "pt-BR": "[Gregor]\n...boas-vindas, jovem.\nO que te trouxe até aqui?",
         "es-ES": "[Gregor]\n...Bienvenido, joven Genetista.\n¿Qué haces aquí?"
     },
     "WjF7DA": {
         "en-US": "Hands over the sealed box",
-        "pt-BR": "Mostrar a caixa hermética",
+        "pt-BR": "Mostrar a Caixa de Selagem.",
         "es-ES": "Entrega la caja hermética"
     },
     "WzF7DA": {
         "en-US": "[{0}]\nI found this at the dump site. Are you the culprit?\nWhy did you make something so stinky? How could you research something so bizarre?",
-        "pt-BR": "[{0}]\nEncontrei isso no depósito de lixo... o culpado é você?\nPor que diabos você criou uma coisa tão fedorenta? Como pode fazer uma pesquisa tão estranha...",
+        "pt-BR": "[^3300FF{0}^000000]\nEncontrei isso no depósito de lixo... o culpado é você?\nPor que diabos você criou uma coisa tão fedorenta? Como pode fazer uma pesquisa tão estranha...?",
         "es-ES": "[{0}]\nEncontré esto en el basurero, ¿eres tú el culpable?\n¿Por qué diablos hiciste algo tan apestoso? ¿Cómo es posible que hagas una investigación tan extraña..."
     },
     "XDF7DA": {
@@ -786,12 +786,12 @@
     },
     "XTF7DA": {
         "en-US": "[Gregor]\nWhy would anyone call you, your colleagues, or your teachers weird?\nThat's not the case, right? So you're normal. We're normal too. Okay? Let's respect each other's normality. As long as we don't commit crimes, that's fine, right? You know. Hahaha...",
-        "pt-BR": "[Gregor]\nPor que você chama você, seus colegas e seus mestres de pessoas esquisitas?\nNão é bem assim, né? Então você também é normal. Nós também somos normais. Ok? Vamos respeitar a normalidade uns dos outros. Desde que não cometamos crimes, tá tudo certo, né? Você sabe disso. Huhu...",
+        "pt-BR": "[Gregor]\nPor que você chama seus colegas e seus mestres de pessoas esquisitas?\nNão é bem assim, né? Então você também é normal. Nós também somos normais. Ok? Vamos respeitar a normalidade uns dos outros. Desde que não cometamos crimes, tá tudo certo, né? Você sabe disso. Huhu...",
         "es-ES": "[Gregor]\n¿Por qué dices que tú, tus compañeros y tus maestros son raros?\nNo puede ser. Entonces tú también eres normal. Nosotros también somos normales. ¿De acuerdo? Respetemos la normalidad de cada uno. Mientras no cometamos delitos, ¿no? Ya lo sabes. Jeje..."
     },
     "XjF7DA": {
         "en-US": "[{0}]\nYou already committed illegal dumping... Where exactly is the line for crime?",
-        "pt-BR": "[{0}]\nVocê já cometeu descarte ilegal de lixo... até onde fica o limite do crime?",
+        "pt-BR": "[^3300FF{0}^000000]\nVocê já cometeu descarte ilegal de lixo... até onde fica o limite do crime?",
         "es-ES": "[{0}]\nYa cometiste un delito de vertido ilegal... ¿Cuál es el alcance de los delitos?"
     },
     "XzF7DA": {
@@ -801,7 +801,7 @@
     },
     "YDF7DA": {
         "en-US": "[{0}]\nDoesn't illegal dumping prick your conscience?",
-        "pt-BR": "[{0}]\nO descarte ilegal não incomoda a sua consciência?",
+        "pt-BR": "[^3300FF{0}^000000]\nO descarte ilegal não incomoda a sua consciência?",
         "es-ES": "[{0}]\n¿Y tirar basura sin permiso no te remuerde la conciencia?"
     },
     "YTF7DA": {
@@ -816,7 +816,7 @@
     },
     "YzF7DA": {
         "en-US": "[{0}]\nWhat do you mean, researching into <B>that sort of thing</B>?",
-        "pt-BR": "[{0}]\nQue tipo de pesquisa seria essa?",
+        "pt-BR": "[^3300FF{0}^000000]\nQue tipo de pesquisa seria essa?",
         "es-ES": "[{0}]\n¿Qué es <B>ese</B> tipo de investigación?"
     },
     "ZDF7DA": {
@@ -831,12 +831,12 @@
     },
     "ZjF7DA": {
         "en-US": "[{0}]\nSo, back to the main topic. What's up with this stinky, shriveled Mandragora?",
-        "pt-BR": "[{0}]\nEntão, voltando ao assunto principal, o que é essa Mandragora murcha e fedorenta?",
+        "pt-BR": "[^3300FF{0}^000000]\nEntão, voltando ao assunto principal, o que é essa Mandragora murcha e fedorenta?",
         "es-ES": "[{0}]\nBueno, volviendo al tema principal, ¿qué es este mandragora apestosa y marchita?"
     },
     "ZzF7DA": {
         "en-US": "[Gregor]\nYeah... That's it. Exactly that. Well said.\n<B>We</B> decided to create something that isn't a lifeform to prove our conscience.",
-        "pt-BR": "[Gregor]\nÉ... É isso. Exatamente isso. Bem dito.\n<B>Nós</B>, então... para provarmos a nossa consciência decidimos criar algo que não fosse a vida.",
+        "pt-BR": "[Gregor]\nÉ... É isso. Exatamente isso. Bem dito.\nPara provarmos a nossa consciência, <B>nós</B> decidimos criar algo que não fosse a vida.",
         "es-ES": "[Gregor]\nSí... eso es. Justo eso. Bien dicho.\n<B>Nosotros</B>, verás... por eso decidimos crear algo que no fuera vida para demostrar nuestra conciencia."
     },
     "aDF7DA": {
@@ -856,7 +856,7 @@
     },
     "azF7DA": {
         "en-US": "[{0}]\n(That seems far from conscience...?)",
-        "pt-BR": "[{0}]\n(Não parece ser uma questão de consciência...)",
+        "pt-BR": "[^3300FF{0}^000000]\n(Não parece ser uma questão de consciência...)",
         "es-ES": "[{0}]\n(¿No te parece que eso está muy lejos de la conciencia...?)"
     },
     "bDF7DA": {
@@ -881,7 +881,7 @@
     },
     "cDF7DA": {
         "en-US": "[{0}]\nThe cost of disposing this waste product...",
-        "pt-BR": "[{0}]\nE quanto ao custo do descarte desses resíduos...",
+        "pt-BR": "[^3300FF{0}^000000]\nE quanto ao custo do descarte desses resíduos...",
         "es-ES": "[{0}]\nEl costo de la eliminación de residuos es..."
     },
     "cTF7DA": {
@@ -891,7 +891,7 @@
     },
     "cjF7DA": {
         "en-US": "[Gregor]\n^3300FFBiolos^000000... just like geneticists, how fast we progress depends entirely on who our mentor is...\nHere's a hint: why not create a tool to dispose of that Mandrake yourself?",
-        "pt-BR": "[Gregor]\n^3300FFCientistas^000000... assim como os bioquímicos, o progresso da pesquisa depende unicamente do seu mentor...\nVou te dar uma dica. Que tal você mesmo criar a ferramenta para descartar aquela Mandrágora?",
+        "pt-BR": "[Gregor]\n^3300FFCientistas^000000... assim como os bioquímicos, dependem unicamente do progresso da pesquisa...\nVou te dar uma dica. Que tal você mesmo criar a ferramenta para descartar aquela Mandrágora?",
         "es-ES": "[Gregor]\n^3300FFBiólogos^000000... al igual que con los genetistas, la velocidad de investigación puede variar mucho dependiendo del maestro...\nTe daré una pista. ¿No podrías fabricar tú mismo la herramienta para deshacerte de ese Mandragora?"
     },
     "czF7DA": {
@@ -906,7 +906,7 @@
     },
     "dTF7DA": {
         "en-US": "Talking automatic vacuum cleaner",
-        "pt-BR": "Um aspirador automático que fala",
+        "pt-BR": "Máquina de Lavar Louças",
         "es-ES": "Un robot de limpieza que habla"
     },
     "djF7DA": {
@@ -916,7 +916,7 @@
     },
     "dzF7DA": {
         "en-US": "Liquid that dissolves everything",
-        "pt-BR": "Um líquido que derrete tudo",
+        "pt-BR": "Líquido que derrete tudo",
         "es-ES": "Un líquido que lo derrite todo"
     },
     "eDF7DA": {
@@ -941,7 +941,7 @@
     },
     "fDF7DA": {
         "en-US": "[Gregor]\nNo, it's just like feeling sorry when you make that sound. The vacuum cleaner doesn't think. So what is it that you have to create now?",
-        "pt-BR": "[Gregor]\nNão, isso é exatamente como ficar com pena de tal barulho. O aspirador não pensa. Então, o que você precisa criar agora?",
+        "pt-BR": "[Gregor]\nNão, isso é exatamente como ficar com pena de tal barulho. A máquina não pensa. Então, o que você precisa criar agora?",
         "es-ES": "[Gregor]\nNo, es igual que cuando te da pena ese ruido. La aspiradora no piensa. Entonces, ¿qué es lo que tienes que crear ahora?"
     },
     "fTF7DA": {
@@ -956,12 +956,12 @@
     },
     "fzF7DA": {
         "en-US": "You just said we're normal.",
-        "pt-BR": "Mas você acabou de dizer que nós somos normais",
+        "pt-BR": "Você disse que nós somos normais!",
         "es-ES": "Pero hace un momento dijiste que nosotros éramos normales"
     },
     "gDF7DA": {
         "en-US": "Who's talking...",
-        "pt-BR": "Quem é que tem o direito de...",
+        "pt-BR": "Quem você pensa que é...?",
         "es-ES": "Quién va a decir..."
     },
     "gTF7DA": {
@@ -981,7 +981,7 @@
     },
     "hDF7DA": {
         "en-US": "[Gregor]\nHuh? Where'd the box go?\nDid you sell it? This is useless.\nGo make another one. We won't deal with you until you bring it back.",
-        "pt-BR": "[Gregor]\nHã? Cadê a caixa?\nVocê a vendeu? Isso aqui não dá pra usar.\nVai lá e refaz a caixa. Não vou falar contigo até trazer de volta.",
+        "pt-BR": "[Gregor]\nHã? Cadê a caixa?\nVocê a vendeu? Isso aqui não dá pra usar.\nVai lá e refaça a caixa. Não vou falar contigo até trazer de volta.",
         "es-ES": "[Gregor]\n¿Eh? ¿Dónde está la caja?\n¿La vendiste? Esto no sirve.\nVe a hacer otra. No te voy a hacer caso hasta que la traigas de vuelta."
     },
     "hTF7DA": {
@@ -1006,12 +1006,12 @@
     },
     "iTF7DA": {
         "en-US": "[Gregor]\nWhen you come back, feel free to use all the books on that desk to create it.\nMake the best one possible, okay?\nOh, right--what's your name?",
-        "pt-BR": "[Gregor]\nQuando voltar, use todos os livros que estão ali na mesa para tentar fazer isso.\nTente fazer o melhor que puder.\nAh, qual é o seu nome?",
+        "pt-BR": "[Gregor]\nQuando voltar, use todos os livros que estão ali na mesa para tentar fazer isso.\nTente fazer o melhor que puder.\nAliás, qual é o seu nome?",
         "es-ES": "[Gregor]\nCuando regreses, usa todos los libros que están ahí en el escritorio para intentar hacer eso.\nTienes que hacer algo lo mejor posible.\nAh, ¿cómo te llamas?"
     },
     "ijF7DA": {
         "en-US": "[{0}]\n...{0}.",
-        "pt-BR": "[{0}]\n...{0}.",
+        "pt-BR": "[^3300FF{0}^000000]\n...{0}.",
         "es-ES": "[{0}]\n...{0}."
     },
     "izF7DA": {
@@ -1036,7 +1036,7 @@
     },
     "jzF7DA": {
         "en-US": "[Gregor]\nNo riding inside the house. Get off.",
-        "pt-BR": "[Gregor]\nNão é permitido andar de veículo dentro de casa. Desce daí.",
+        "pt-BR": "[Gregor]\nNão é permitido usar Montaria dentro de casa. Desce daí.",
         "es-ES": "[Gregor]\nNo se permite usar vehículos dentro del edificio. Baja de ahí."
     },
     "kDF7DA": {
@@ -1046,7 +1046,7 @@
     },
     "kTF7DA": {
         "en-US": "[{0}]\nWho made you go through all this trouble...",
-        "pt-BR": "[{0}]\nQuem me fez passar por tudo isso, afinal...",
+        "pt-BR": "[^3300FF{0}^000000]\nQuem me fez passar por tudo isso, afinal...",
         "es-ES": "[{0}]\n¿Quién me mandó a pasar por todo esto...?"
     },
     "kjF7DA": {
@@ -1056,7 +1056,7 @@
     },
     "kzF7DA": {
         "en-US": "[{0}]\nWhat are we preparing for?",
-        "pt-BR": "[{0}]\nPronto para quê?",
+        "pt-BR": "[^3300FF{0}^000000]\nPara quê?",
         "es-ES": "[{0}]\n¿Listo para qué?"
     },
     "lDF7DA": {
@@ -1066,7 +1066,7 @@
     },
     "lTF7DA": {
         "en-US": "[Gregor]\nIt may not have life, but you do. <B>You</B> will gain new abilities that you can't by yourself.",
-        "pt-BR": "[Gregor]\nEmbora elas não tenham vida, enquanto você tiver, <B>vocês</B> ganharão uma nova habilidade que não seria possível a sós.",
+        "pt-BR": "[Gregor]\nEmbora elas não tenham vida, enquanto você viver, <B>vocês</B> ganharão uma nova habilidade que não seria possível a sós.",
         "es-ES": "[Gregor]\nAunque ellas no tengan vida, mientras tú la tengas, <B>ustedes</B> obtendrán una nueva habilidad que no podrían experimentar por separado."
     },
     "ljF7DA": {
@@ -1141,17 +1141,17 @@
     },
     "pDF7DA": {
         "en-US": "I'll listen.",
-        "pt-BR": "Vou ouvir",
+        "pt-BR": "Ouvir.",
         "es-ES": "Lo escucharé"
     },
     "pTF7DA": {
         "en-US": "It's okay",
-        "pt-BR": "Pode deixar",
+        "pt-BR": "Deixa pra lá.",
         "es-ES": "No hace falta"
     },
     "pjF7DA": {
         "en-US": "Clean desk",
-        "pt-BR": "Limpar a mesa",
+        "pt-BR": "Mesa",
         "es-ES": "Un escritorio limpio"
     },
     "pzF7DA": {
@@ -1166,7 +1166,7 @@
     },
     "qTF7DA": {
         "en-US": "I organize the contents of the books I've read.",
-        "pt-BR": "Organizo o conteúdo dos livros que li.",
+        "pt-BR": "Organizar os pensamentos.",
         "es-ES": "Hago un resumen de lo que leí en los libros."
     },
     "qjF7DA": {
@@ -1191,7 +1191,7 @@
     },
     "rjF7DA": {
         "en-US": "[{0}]\nCan't you separate it from the mandrake?",
-        "pt-BR": "[{0}]\nNão consegue se separar da mandrágora?",
+        "pt-BR": "[^3300FF{0}^000000]\nNão consegue se separar da mandrágora?",
         "es-ES": "[{0}]\n¿No se puede separar de la mandrágora?"
     },
     "rzF7DA": {
@@ -1206,12 +1206,12 @@
     },
     "sTF7DA": {
         "en-US": "When your nails grow",
-        "pt-BR": "Quando as unhas crescem",
+        "pt-BR": "Quando as ráizes crescem",
         "es-ES": "Cuando te crecen las uñas"
     },
     "sjF7DA": {
         "en-US": "[{0}]\nWhen your nails grow...",
-        "pt-BR": "[{0}]\nQuando as unhas crescem...",
+        "pt-BR": "[^3300FF{0}^000000]\nQuando as ráizes crescem...",
         "es-ES": "[{0}]\nCuando te crecen las uñas..."
     },
     "szF7DA": {
@@ -1221,12 +1221,12 @@
     },
     "tDF7DA": {
         "en-US": "[{0}]\nA formula that allows me to control every single cell of the created plant, not as a separate entity, but as the same entity...",
-        "pt-BR": "[{0}]\nUma fórmula que permita controlar as plantas criadas, não como entidades separadas, mas como parte de si...",
+        "pt-BR": "[^3300FF{0}^000000]\nUma fórmula que permita controlar as plantas criadas, não como entidades separadas, mas como parte de si...",
         "es-ES": "[{0}]\nUna fórmula que permita controlar las plantas creadas, no como entidades separadas, sino como una misma entidad, hasta el último célula..."
     },
     "tTF7DA": {
         "en-US": "[{0}]\nFor a windowless greenhouse to be normal, the inner space and outer space must be the same...",
-        "pt-BR": "[{0}]\nPara que uma estufa sem janelas não pareça estranha, o espaço interno e externo precisam ser iguais...",
+        "pt-BR": "[^3300FF{0}^000000]\nPara que uma estufa sem janelas não pareça estranha, o espaço interno e externo precisam ser iguais...",
         "es-ES": "[{0}]\nPara que un invernadero sin ventanas no resulte extraño, el espacio interior y el exterior deben ser iguales..."
     },
     "tjF7DA": {
@@ -1266,7 +1266,7 @@
     },
     "vTF7DA": {
         "en-US": "Dusty book",
-        "pt-BR": "Livro empoeirado",
+        "pt-BR": "Livro Empoeirado",
         "es-ES": "Libro lleno de polvo"
     },
     "vjF7DA": {
@@ -1291,7 +1291,7 @@
     },
     "wjF7DA": {
         "en-US": "[{0}]\nIt's fine...",
-        "pt-BR": "[{0}]\nTudo bem...",
+        "pt-BR": "[^3300FF{0}^000000]\nTudo bem...",
         "es-ES": "[{0}]\nNo, gracias..."
     },
     "wzF7DA": {
@@ -1311,12 +1311,12 @@
     },
     "xjF7DA": {
         "en-US": "Brushing off the dust and reading a book.",
-        "pt-BR": "Tiro a poeira e leio o livro.",
+        "pt-BR": "Tirar a poeira e ler o livro.",
         "es-ES": "Sacudo el polvo y leo el libro."
     },
     "xzF7DA": {
         "en-US": "We search for another book.",
-        "pt-BR": "Procuro outro livro.",
+        "pt-BR": "Procurar outro livro.",
         "es-ES": "Busco otro libro."
     },
     "yDF7DA": {
@@ -1346,7 +1346,7 @@
     },
     "zTF7DA": {
         "en-US": "[{0}]\nYes.",
-        "pt-BR": "[{0}]\nSim.",
+        "pt-BR": "[^3300FF{0}^000000]\nSim.",
         "es-ES": "[{0}]\nSí."
     },
     "zjF7DA": {
@@ -1356,7 +1356,7 @@
     },
     "zzF7DA": {
         "en-US": "[{0}]\nI'm not sure with just one book...",
-        "pt-BR": "[{0}]\nNão dá pra saber só com um livro...",
+        "pt-BR": "[^3300FF{0}^000000]\nNão dá pra saber só com um livro...",
         "es-ES": "[{0}]\nCon un solo libro no sé qué decirte..."
     },
     "0DF7DA": {
@@ -1386,7 +1386,7 @@
     },
     "1TF7DA": {
         "en-US": "Thick book",
-        "pt-BR": "Livro grosso",
+        "pt-BR": "Livro Grosso",
         "es-ES": "Un libro grueso"
     },
     "1jF7DA": {
@@ -1401,17 +1401,17 @@
     },
     "2DF7DA": {
         "en-US": "The Great Inventor Ul Rahwa and\n        Trouble-Shooter Sancho's Grand Adventure",
-        "pt-BR": "A Grande Aventura do Grande Inventor Ul Rahwa\n        e do Resgatador de Encrencas Sancho",
+        "pt-BR": "A Grande Aventura do Grande Inventor Rahwa\n        e do Resgatador de Encrencas Sancho",
         "es-ES": "La gran aventura del gran inventor Ul Rahwa\n        y el solucionador de problemas Sancho"
     },
     "2TF7DA": {
         "en-US": "Green Root Novel",
-        "pt-BR": "Romance de Green Root",
+        "pt-BR": "Romance de Raízes Caboclas",
         "es-ES": "Novela de Green Root"
     },
     "2jF7DA": {
         "en-US": "This is a storybook about an inventor named Ul Rah who drags Sancho, a novice adventurer who lives next door, into all sorts of adventures.\n...",
-        "pt-BR": "É um livro de histórias em que o inventor Ul Rah arrasta Sancho, um aventureiro novato que mora na casa ao lado, para fora de casa e o leva a todo tipo de aventura.\n...",
+        "pt-BR": "É um livro de histórias em que o inventor Rahwa arrasta Sancho, um aventureiro novato que mora na casa ao lado, para fora de casa e o leva a todo tipo de aventura.\n...",
         "es-ES": "Es un libro de cuentos en el que el inventor Ul Rah se lleva a Sancho, que acaba de convertirse en aventurero y vive al lado, a vivir todo tipo de aventuras.\n..."
     },
     "2zF7DA": {
@@ -1421,12 +1421,12 @@
     },
     "3DF7DA": {
         "en-US": "Sancho is still just an assistant, but because of Ul Rah, he's been through all kinds of hardships and ended up going everywhere from abandoned old castles to paradises in the underworld.",
-        "pt-BR": "Sancho ainda é apenas um simples assistente, mas, por causa de Ul Rah, encontra todo tipo de desafios e acaba conhecendo muitos lugares, desde um castelo abandonado até o paraíso subterrâneo.",
+        "pt-BR": "Sancho ainda é apenas um simples assistente, mas, por causa de Rahwa, encontra todo tipo de desafios e acaba conhecendo muitos lugares, desde um castelo abandonado até o paraíso subterrâneo.",
         "es-ES": "Aunque Sancho todavía es solo un simple inspector, gracias a Ul Rah ha pasado por todo tipo de penurias y ya no hay lugar que no haya visitado, desde un antiguo castillo abandonado hasta el paraíso subterráneo."
     },
     "3TF7DA": {
         "en-US": "He uncovers every hidden path in the dungeon and escapes danger with Ul Rah, who knows nothing. This impossible adventure grows more and more intriguing.",
-        "pt-BR": "Ele desvenda todos os caminhos secretos das masmorras e escapa com Ul Rah, que não sabe de nada, de situações de perigo. Essas aventuras inesperadas ficam cada vez mais interessantes.",
+        "pt-BR": "Ele desvenda todos os caminhos secretos das masmorras e escapa com Rahwa, que não sabe de nada, de situações de perigo. Essas aventuras inesperadas ficam cada vez mais interessantes.",
         "es-ES": "Descubre todo tipo de pasadizos ocultos en las mazmorras y saca de apuros a Ul Rah, que no tiene ni idea de nada. Estas aventuras imposibles se vuelven cada vez más interesantes."
     },
     "3jF7DA": {
@@ -1441,7 +1441,7 @@
     },
     "4DF7DA": {
         "en-US": "[{0}]\nNot yet...",
-        "pt-BR": "[{0}]\nAinda não...",
+        "pt-BR": "[^3300FF{0}^000000]\nAinda não...",
         "es-ES": "[{0}]\nTodavía no..."
     },
     "4TF7DA": {
@@ -1456,7 +1456,7 @@
     },
     "4zF7DA": {
         "en-US": "[{0}]\n...You don't mean...\nIt was a dream, is that it?",
-        "pt-BR": "[{0}]\n...Será que...\nFoi um sonho, é isso?",
+        "pt-BR": "[^3300FF{0}^000000]\n...Será que...\nFoi um sonho, é isso?",
         "es-ES": "[{0}]\n...¿No será que...\nFue un sueño, ¿verdad?"
     },
     "5DF7DA": {
@@ -1466,7 +1466,7 @@
     },
     "5TF7DA": {
         "en-US": "[{0}]\nWhere did you get that idea?",
-        "pt-BR": "[{0}]\nQue conversa é essa?",
+        "pt-BR": "[^3300FF{0}^000000]\nQue conversa é essa?",
         "es-ES": "[{0}]\n¿Qué es eso que dices?"
     },
     "5jF7DA": {
@@ -1481,17 +1481,17 @@
     },
     "6DF7DA": {
         "en-US": "[{0}]\nIt feels so empty...",
-        "pt-BR": "[{0}]\nQue vazio...",
+        "pt-BR": "[^3300FF{0}^000000]\nQue vazio...",
         "es-ES": "[{0}]\nQué vacío..."
     },
     "6TF7DA": {
         "en-US": "Warped Book",
-        "pt-BR": "Livro amassado",
+        "pt-BR": "Livro Amassado",
         "es-ES": "El libro deformado"
     },
     "6jF7DA": {
         "en-US": "Name and Essence\n:Distinguishing the Balladeer's Song",
-        "pt-BR": "Nome e essência\n: Distinguindo a canção do baladista",
+        "pt-BR": "Nome & Essência\n: Distinguindo a canção do baladista",
         "es-ES": "Nombre y esencia\n :Distinguir la canción del trovador"
     },
     "6zF7DA": {
@@ -1536,7 +1536,7 @@
     },
     "8zF7DA": {
         "en-US": "Stained book",
-        "pt-BR": "Livro manchado",
+        "pt-BR": "Livro Manchado",
         "es-ES": "El libro manchado"
     },
     "9DF7DA": {
@@ -1546,7 +1546,7 @@
     },
     "9TF7DA": {
         "en-US": "<FONT SIZE = 12>           Alphard Reinwald</FONT>\n<FONT SIZE = 10>           Translation: Fayrouz Krya</FONT>",
-        "pt-BR": "<FONT SIZE = 12>           Alphard Reinwald\n           Tradução: Fayrouz Krya",
+        "pt-BR": "<FONT SIZE = 12>           Alphard Reinwald\n           Tradução: Krya Fayrouz",
         "es-ES": "<FONT SIZE = 12>           Alfarad Reinwald</FONT>\n<FONT SIZE = 10>           Traducción: Fayrouz Krya</FONT>"
     },
     "9jF7DA": {
@@ -1611,7 +1611,7 @@
     },
     "AjJ7DA": {
         "en-US": "Sticky Book",
-        "pt-BR": "Livro pegajoso",
+        "pt-BR": "Livro Pegajoso",
         "es-ES": "Libro pegajoso"
     },
     "AzJ7DA": {

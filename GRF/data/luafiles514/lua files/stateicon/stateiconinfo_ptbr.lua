@@ -1968,10 +1968,10 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_TARGET_ASPD] = {
 		descript = {
+			{"%s"},
 			{
 				"Poção Mental"
 			},
-			{"%s"},
 			{
 				"SP máx. aumentado"
 			},
@@ -6661,7 +6661,10 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Dano mágico +5%."
+				"HP máx. +3%"
+			},
+			{
+				"SP máx. +3%"
 			}
 		}
 	},

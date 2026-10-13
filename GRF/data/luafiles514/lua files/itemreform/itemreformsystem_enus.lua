@@ -4362,5 +4362,2042 @@ ReformInfo_string = {
 			"2) Random Options : Maintained",
 			"3) Card and Enchant Information : Maintained"
 		}
+	},
+	[103] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[105] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[107] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[109] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[173] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[174] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[175] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[176] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[177] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[178] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[247] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[285] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[499] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[500] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[630] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[631] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[632] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[633] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[634] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[635] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[636] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[967] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Card and enchant : Transferred"
+		}
+	},
+	[982] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[104] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[106] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[108] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[110] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[179] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[180] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[181] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[182] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[183] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[184] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[248] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[286] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[501] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[502] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[637] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[638] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[639] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[640] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[641] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[642] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[643] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[968] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Card and enchant : Transferred"
+		}
+	},
+	[983] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[185] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Random Option : Transferred",
+			"2) Card and enchant : Transferred",
+			"3) Grade : Transferred"
+		}
+	},
+	[965] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Random Option : Transferred",
+			"2) Card and enchant : Transferred"
+		}
+	},
+	[966] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Random Option : Transferred",
+			"2) Card and enchant : Transferred"
+		}
+	},
+	[980] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Random Option : ^FF0000Deleted^000000",
+			"2) Card and enchant : Maintained"
+		}
+	},
+	[981] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Random Option : ^FF0000Deleted^000000",
+			"2) Card and enchant : Maintained"
+		}
+	},
+	[978] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[979] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[111] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[112] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[113] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[114] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[115] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[116] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[186] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[187] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[188] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[189] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[190] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[191] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[257] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[258] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[259] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[260] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[270] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[271] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[272] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[273] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[274] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[298] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[299] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[300] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[301] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[454] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[455] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[456] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[457] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[458] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[459] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[460] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[461] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[462] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[463] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[708] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[709] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[117] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[118] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[119] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[120] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[121] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[122] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[192] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[193] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[194] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[195] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[196] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[197] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[261] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[262] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[263] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[264] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[275] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[276] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[277] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[278] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[279] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[302] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[303] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[304] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[305] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[464] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[465] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[466] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[467] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[468] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[469] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[470] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[471] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[472] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[473] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[710] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[711] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[123] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[124] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[125] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[126] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[127] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[128] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[198] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[199] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[200] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[201] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[202] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[203] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[265] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[266] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[267] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[268] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[280] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[281] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[282] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[283] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[284] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[306] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[307] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[308] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[309] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[474] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[475] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[476] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[477] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[478] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[479] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[480] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[481] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[482] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[483] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[712] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[713] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred",
+			"4) Grade : Transferred"
+		}
+	},
+	[556] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[557] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[558] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[559] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[560] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[561] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[562] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[563] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[564] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[565] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[566] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[567] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[607] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[608] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[609] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[610] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[611] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[612] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[613] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Transferred",
+			"3) Card and enchant : Transferred"
+		}
+	},
+	[830] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[831] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[832] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[833] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[834] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[835] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[836] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[837] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[838] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[839] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[840] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[841] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[842] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[843] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[844] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[845] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[846] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[847] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[848] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[849] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[850] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[851] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[852] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[853] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[854] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[855] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[856] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[857] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[858] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[859] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[860] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[861] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[862] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[863] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[864] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[865] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[866] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[867] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[868] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[869] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[870] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[871] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[872] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[873] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[874] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[875] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
 	}
 }

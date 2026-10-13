@@ -8176,6 +8176,24 @@ mapTbl = {
 			mainTitle = "Tomb of Regret"
 		},
 		backgroundBmp = "dungeon_s2"
+	},
+	["1@pbs.rsw"] = {
+		displayName = "Baby Shark Playground",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Pinkfong Baby Shark",
+			mainTitle = "Baby Shark Playground"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["pbse.rsw"] = {
+		displayName = "Baby Shark Playground",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Pinkfong Baby Shark",
+			mainTitle = "Baby Shark Playground"
+		},
+		backgroundBmp = "dungeon"
 	}
 }
 function main()

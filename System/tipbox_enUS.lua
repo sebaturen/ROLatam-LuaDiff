@@ -377,7 +377,7 @@ tbl_string = {
 				[1] = "You can block a character's chat and whispers using /block CharacterName or /ex CharacterName. To unblock, use /unblock CharacterName or /in CharacterName.",
 				[2] = "You can also block or unblock all chats and whispers using /blockall, /exall, /unblockall, or /inall.",
 				[3] = "To check the list of blocked characters, use /block or /ex.",
-				[4] = "^ff0000※ No confirmation (Y/N) will be asked, so choose carefully.^000000",
+				[4] = "^ff0000[ ! ] No confirmation (Y/N) will be asked, so choose carefully.^000000",
 				[5] = "",
 				[6] = "<TIPBOX>>Game & Settings Commands<INFO>166</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
@@ -394,7 +394,7 @@ tbl_string = {
 			[2] = {
 				[1] = "If you are the party leader, you can invite others by right-clicking their character and selecting \"Invite to Party\" or by using /invite CharacterName.",
 				[2] = "To remove a member, use /expel CharacterName to remove them from ^3b488cyour party^000000.",
-				[3] = "^ff0000※ No confirmation (Y/N) will be asked, so choose carefully.^000000",
+				[3] = "^ff0000[ ! ] No confirmation (Y/N) will be asked, so choose carefully.^000000",
 				[4] = "",
 				[5] = "<TIPBOX>>Chat: Party<INFO>22</INFO></TIPBOX>",
 				[6] = "<TIPBOX>>Adventurer Agency<INFO>70</INFO></TIPBOX>",
@@ -615,12 +615,12 @@ tbl_string = {
 				[6] = "Remove Accessory: Removes the accessory item currently equipped by the pet.",
 				[7] = "Return to Egg: Returns the pet to its pre-hatched egg state.",
 				[8] = "",
-				[9] = "※ Pets successfully tamed can have their names changed.",
-				[10] = "※ By feeding your pet, you can improve intimacy with it.",
+				[9] = "[ ! ] Pets successfully tamed can have their names changed.",
+				[10] = "[ ! ] By feeding your pet, you can improve intimacy with it.",
 				[11] = "When your relationship with the pet becomes Cordial or higher, additional abilities may be added beyond its basic abilities.",
 				[12] = "However, if you feed the pet too much, or if you do not feed it and let it become hungry,",
 				[13] = "or if the owner character becomes incapacitated in battle, intimacy with the pet will decrease, and ^3b488cif intimacy continues to decrease, the pet may disappear^000000, so please always care for the pet you have tamed with attention and affection.",
-				[14] = "※ Pets can be returned to their pre-hatched egg state at any time, and can be hatched again using the 'Portable Egg Incubator' item.",
+				[14] = "[ ! ] Pets can be returned to their pre-hatched egg state at any time, and can be hatched again using the 'Portable Egg Incubator' item.",
 				[15] = "",
 				[16] = "<TIPBOX>>Pet System<INFO>47</INFO></TIPBOX>",
 				[17] = "",
@@ -700,7 +700,7 @@ tbl_string = {
 		Page = {
 			[1] = {
 				[1] = "You can enable the map name to be displayed on the screen when moving between major maps.",
-				[2] = "(^ff0000※Even if the map name display is enabled, it may not appear depending on the map's concept.^000000)",
+				[2] = "(^ff0000[ ! ]Even if the map name display is enabled, it may not appear depending on the map's concept.^000000)",
 				[3] = "",
 				[4] = "The map name display can be toggled ^ff0000in the Game Options (ESC) → Game Settings → Effect Settings^000000.",
 				[5] = "",
@@ -816,7 +816,7 @@ tbl_string = {
 				[11] = "/luk+ value",
 				[12] = "",
 				[13] = "Example: /str+ 9 will increase STR from 1 to 10.",
-				[14] = "^ff6677※Status points are consumed, so it only increases within available points.^000000",
+				[14] = "^ff6677[ ! ]Status points are consumed, so it only increases within available points.^000000",
 				[15] = "",
 				[16] = "<TIPBOX>>Status: STR<INFO>6</INFO></TIPBOX>",
 				[17] = "<TIPBOX>>Status: AGI<INFO>7</INFO></TIPBOX>",
@@ -995,7 +995,7 @@ tbl_string = {
 				[1] = "Resist",
 				[2] = "",
 				[3] = "Reduces incoming general physical damage by % before physical defense is calculated.",
-				[4] = "^FF0000※ Ignore Resist effects are applied only up to a maximum of 50%.^000000",
+				[4] = "^FF0000[ ! ] Ignore Resist effects are applied only up to a maximum of 50%.^000000",
 				[5] = "",
 				[6] = "<TIPBOX>>Trait Attributes<INFO>103</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>Character: Trait Status<INFO>96</INFO></TIPBOX>",
@@ -1010,7 +1010,7 @@ tbl_string = {
 				[1] = "Magic Resist",
 				[2] = "",
 				[3] = "Reduces incoming general magic damage by % before magic defense is calculated.",
-				[4] = "^FF0000※ Ignore Magic Resist effects are applied only up to a maximum of 50%.^000000",
+				[4] = "^FF0000[ ! ] Ignore Magic Resist effects are applied only up to a maximum of 50%.^000000",
 				[5] = "",
 				[6] = "<TIPBOX>>Trait Attributes<INFO>103</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>Character: Trait Status<INFO>96</INFO></TIPBOX>",
@@ -1025,7 +1025,7 @@ tbl_string = {
 				[1] = "Heal Plus",
 				[2] = "",
 				[3] = "Increases final healing received by %.",
-				[4] = "^FF0000※ This % increase is applied after general Heal increase effects.^000000",
+				[4] = "^FF0000[ ! ] This % increase is applied after general Heal increase effects.^000000",
 				[5] = "",
 				[6] = "<TIPBOX>>Trait Attributes<INFO>103</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>Character: Trait Status<INFO>96</INFO></TIPBOX>",
@@ -1040,7 +1040,7 @@ tbl_string = {
 				[1] = "Critical Rate",
 				[2] = "",
 				[3] = "Increases the basic Critical Damage bonus, which is normally 140%.",
-				[4] = "^FF0000※ If C.RATE is 10, the base Critical Damage bonus increases from 140% to 150%.^000000",
+				[4] = "^FF0000[ ! ] If C.RATE is 10, the base Critical Damage bonus increases from 140% to 150%.^000000",
 				[5] = "",
 				[6] = "<TIPBOX>>Trait Attributes<INFO>103</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>Character: Trait Status<INFO>96</INFO></TIPBOX>",
@@ -2868,7 +2868,7 @@ tbl_string = {
 				[3] = "",
 				[4] = "<TIPBOX>>4th Job Change Quest<INFO>9136</INFO></TIPBOX>",
 				[5] = "",
-				[6] = "※Notice",
+				[6] = "[ ! ]Notice",
 				[7] = "If you advanced to a 3rd Job in a non-transcendent state, Brightly <NAVI>[Bakhili]<INFO>prt_in,285,161,0,101,0,</INFO></NAVI> can assist with Transcendence once you reach Base Level 200.",
 				[8] = "",
 				[9] = "<TIPBOX>>Go to Job Page<INFO>9031</INFO></TIPBOX>",
@@ -6416,6 +6416,2084 @@ tbl_string = {
 				[36] = "",
 				[37] = "<TIPBOX>»View Airship Crash Site<INFO>6095</INFO></TIPBOX>",
 				[38] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6057] = {
+		Title = "Episode 14.2 Eclage",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.2",
+				[2] = "Eclage",
+				[3] = "",
+				[4] = "»Eclage Main Quests",
+				[5] = "<TIPBOX>Q Eclage Entrance<INFO>6058</INFO></TIPBOX>",
+				[6] = "<TIPBOX>Q Goliath (120)<INFO>6059</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q Dreaming Time (120)<INFO>6060</INFO></TIPBOX>",
+				[8] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q A Rumor About the King (120)<INFO>6062</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Kardui's Big Brother (120)<INFO>6063</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q The Missing Orb (120)<INFO>6064</INFO></TIPBOX>",
+				[12] = "",
+				[13] = "»Eclage General Quests",
+				[14] = "<TIPBOX>Q Light & Darkness (120)<INFO>6065</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q The Case of the Mysterious Burglar (120)<INFO>6066</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Laphine Pilly (120)<INFO>6067</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Pranksters of Eclage (120)<INFO>6068</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Wish to Be Big and Beautiful (120)<INFO>6069</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Getting Back Professor Worm's Memory (120)<INFO>6070</INFO></TIPBOX>",
+				[20] = "",
+				[21] = "»Eclage Repeatable Quests",
+				[22] = "<TIPBOX>Q Yai of the Wild (120)<INFO>6071</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Deliveryman That Runs Through Space (120)<INFO>6072</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Troublemakers in the Land of Blooming Flowers (120)<INFO>6073</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Laphines That Love the Land (120)<INFO>6074</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Lost Adventurers (120)<INFO>6075</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Food Supply (120)<INFO>6076</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q Dusting Off (120)<INFO>6077</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q Collecting Souvenirs (120)<INFO>6078</INFO></TIPBOX>",
+				[30] = "",
+				[31] = "»Eclage Other",
+				[32] = "<TIPBOX>Glove Socket Activation<INFO>6079</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Costume Headgear Crafting<INFO>6080</INFO></TIPBOX>",
+				[34] = "",
+				[35] = "<TIPBOX>»See Episode 14<INFO>4103</INFO></TIPBOX>",
+				[36] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6058] = {
+		Title = "Q Eclage Entrance",
+		Page = {
+			[1] = {
+				[1] = "First-time visitors to Eclage must fill out the required documents here before entering. Due to the recent increase in visitors from the Midgard continent, this procedure has become necessary. Thank you for your understanding.",
+				[2] = "<NAVI>[Security Guard]<INFO>ecl_fild01,94,322,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "None",
+				[6] = "",
+				[7] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6059] = {
+		Title = "Q Goliath (120)",
+		Page = {
+			[1] = {
+				[1] = "Could you bring me a new bridge piece for the repairs? I'll use magic to keep the bridge in place so no one falls while passing by!",
+				[2] = "<NAVI>[Fairy Carpenter]<INFO>eclage,102,32,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Eclage Entrance<INFO>6058</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6060] = {
+		Title = "Q Dreaming Time (120)",
+		Page = {
+			[1] = {
+				[1] = "You're heading to Eclage now, right? On your way, could you tell my friend Glacies near the entrance that I don't think I'll be able to make it today?",
+				[2] = "<NAVI>[Fairy Carpenter]<INFO>eclage,102,32,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Eclage Entrance<INFO>6058</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q Goliath (120)<INFO>6059</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6061] = {
+		Title = "Q Encounter in a Strange Land (120)",
+		Page = {
+			[1] = {
+				[1] = "Come over and let's have a chat. I'm Fome, from central Alfheim. And you are...",
+				[2] = "<NAVI>[Traveler Fome]<INFO>ecl_in01,32,52,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6062] = {
+		Title = "Q A Rumor About the King (120)",
+		Page = {
+			[1] = {
+				[1] = "Let's ask various people around Eclage about the rumors surrounding the new king.",
+				[2] = "<NAVI>[Traveler Fome]<INFO>ecl_in01,32,52,0,101,0</INFO></NAVI>",
+				[3] = "<NAVI>[Eclage Guard Leo]<INFO>eclage,112,40,0,101,0</INFO></NAVI>",
+				[4] = "<NAVI>[Laphine in Conversation]<INFO>eclage,274,294,0,101,0</INFO></NAVI>",
+				[5] = "<NAVI>[Eclage Resident]<INFO>eclage,275,294,0,101,0</INFO></NAVI>",
+				[6] = "<NAVI>[Resting Laphine]<INFO>ecl_in03,244,57,0,101,0</INFO></NAVI>",
+				[7] = "<NAVI>[Laphine on Duty]<INFO>ecl_in03,245,54,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "» Quest Requirements",
+				[10] = "^663399§Level 120^000000",
+				[11] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[12] = "",
+				[13] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6063] = {
+		Title = "Q Kardui's Big Brother (120)",
+		Page = {
+			[1] = {
+				[1] = "My older brother is in Bifrost Tower. I'd like you to deliver a letter to him. It's a very personal matter, so I'm asking you as a friend. Will you do it?",
+				[2] = "<NAVI>[Mayor Jun Kardui]<INFO>ecl_in03,41,90,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q A Rumor About the King (120)<INFO>6062</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6064] = {
+		Title = "Q The Missing Orb (120)",
+		Page = {
+			[1] = {
+				[1] = "It wouldn't look good for either me or Kardui to get directly involved. I'm counting on you. If you learn anything, come to where Kardui is.",
+				[2] = "<NAVI>[Hisie]<INFO>ecl_tdun04,32,35,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q A Rumor About the King (120)<INFO>6062</INFO></TIPBOX>",
+				[8] = "<TIPBOX>Q Kardui's Big Brother (120)<INFO>6063</INFO></TIPBOX>",
+				[9] = "",
+				[10] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6065] = {
+		Title = "Q Light & Darkness (120)",
+		Page = {
+			[1] = {
+				[1] = "Please, I beg you. Make Mr. Clever stop talking. I've been listening to him for a year, and I'm about to break out in hives.",
+				[2] = "<NAVI>[Prison Guard]<INFO>ecl_in02,133,115,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX> In Progress",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6066] = {
+		Title = "Q The Case of the Mysterious Burglar (120)",
+		Page = {
+			[1] = {
+				[1] = "What's that strange sound? I think I should go in and check it out.",
+				[2] = "<NAVI>[Location of the Suspicious Sound]<INFO>eclage,154,52,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6067] = {
+		Title = "Q Laphine Pilly (120)",
+		Page = {
+			[1] = {
+				[1] = "Look at this beautiful field. Every little blade of grass and every branch is alive with beauty...",
+				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Goliath (120)<INFO>6059</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6068] = {
+		Title = "Q Pranksters of Eclage (120)",
+		Page = {
+			[1] = {
+				[1] = "Several things have gone missing. This seems a little too strange to be just the pranksters' doing, doesn't it?",
+				[2] = "<NAVI>[Eirinn]<INFO>ecl_in02,160,37,0,101,0</INFO></NAVI>",
+				[3] = "<NAVI>[Bourbon]<INFO>ecl_in03,175,69,0,101,0</INFO></NAVI>",
+				[4] = "<NAVI>[Cecilia]<INFO>ecl_in01,26,88,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "» Quest Requirements",
+				[7] = "^663399§Level 120^000000",
+				[8] = "",
+				[9] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6069] = {
+		Title = "Q Wish to Be Big and Beautiful (120)",
+		Page = {
+			[1] = {
+				[1] = "My brother and I only kept in touch by letter. When the letters stopped, I rushed here to see him, only to find out he'd been taken to prison. Could you deliver my letter to him?",
+				[2] = "<NAVI>[Wuhari]<INFO>eclage,282,255,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6070] = {
+		Title = "Q Getting Back Professor Worm's Memory (120)",
+		Page = {
+			[1] = {
+				[1] = "You have something you want to ask, don't you? My memory may have gotten worse, but my intuition has become incredibly sharp! If you want the answer you're looking for, help me recover my memories!",
+				[2] = "<NAVI>[Professor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6071] = {
+		Title = "Q Yai of the Wild (120)",
+		Page = {
+			[1] = {
+				[1] = "The monster materials you brought me last time became popular among my friends. Would you mind getting a few more?",
+				[2] = "<NAVI>[Eclage Guard]<INFO>ecl_in01,82,70,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6072] = {
+		Title = "Q Deliveryman That Runs Through Space (120)",
+		Page = {
+			[1] = {
+				[1] = "Um, sorry to ask, but could you go to Splendide again today to pick up the mail?",
+				[2] = "<NAVI>[Eclage Messenger Roy]<INFO>ecl_fild01,205,86,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6073] = {
+		Title = "Q Troublemakers in the Land of Blooming Flowers (120)",
+		Page = {
+			[1] = {
+				[1] = "We've received many complaints that the Menblatts and Petals in the Land of Blooming Flowers are harassing travelers for no reason. Would you help me deal with them?",
+				[2] = "<NAVI>[Eclage Guard Leo]<INFO>eclage,112,40,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Encounter in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6074] = {
+		Title = "Q Laphines That Love the Land (120)",
+		Page = {
+			[1] = {
+				[1] = "Please let the Laphines know it's time to start work today!",
+				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Laphine Pilly (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6075] = {
+		Title = "Q Lost Adventurers (120)",
+		Page = {
+			[1] = {
+				[1] = "It's not really my responsibility, but I'd hate to see adventurers from another world get hurt. I think even the land itself would be saddened. Could you help me check that everyone is safe?",
+				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Laphine Pilly (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6076] = {
+		Title = "Q Food Supply (120)",
+		Page = {
+			[1] = {
+				[1] = "Food... I need food... Everything's starting to look yellow...",
+				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Laphine Pilly (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6077] = {
+		Title = "Q Dusting Off (120)",
+		Page = {
+			[1] = {
+				[1] = "They're hard to see and extremely annoying. Ah... It's not because I'm too lazy to deal with them myself. Hahaha...",
+				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Laphine Pilly (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6078] = {
+		Title = "Q Collecting Souvenirs (120)",
+		Page = {
+			[1] = {
+				[1] = "When I came to my senses, all the souvenirs you collected for me were gone! I'm sure I stored them right here...",
+				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 120^000000",
+				[6] = "<TIPBOX>Q Laphine Pilly (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6079] = {
+		Title = "Glove Socket Activation",
+		Page = {
+			[1] = {
+				[1] = "I'm Natullo, a socket specialist. Bring me an item sold by my younger brother Napara and 5 <ITEM>[Splendide Coin]<INFO>6081</INFO></ITEM>, and I'll open one socket for you.",
+				[2] = "<NAVI>[Socket Specialist Natullo]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Socket Targets",
+				[5] = "<ITEM>[Str Glove]<INFO>2917</INFO></ITEM>",
+				[6] = "<ITEM>[Int Glove]<INFO>2918</INFO></ITEM>",
+				[7] = "<ITEM>[Agi Glove]<INFO>2919</INFO></ITEM>",
+				[8] = "<ITEM>[Vit Glove]<INFO>2920</INFO></ITEM>",
+				[9] = "<ITEM>[Dex Glove]<INFO>2921</INFO></ITEM>",
+				[10] = "<ITEM>[Luk Glove]<INFO>2922</INFO></ITEM>",
+				[11] = "",
+				[12] = "» Cost",
+				[13] = "<ITEM>[Splendide Coin]<INFO>6081</INFO></ITEM> 5",
+				[14] = "",
+				[15] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6080] = {
+		Title = "Costume Headgear Crafting",
+		Page = {
+			[1] = {
+				[1] = "Oh, goodness. The Laphines only care about decorating Yais, so I thought I'd starve because no one was interested in pretty hats. If there's a hat you've always wanted, choose one from the list.",
+				[2] = "<NAVI>[Replication Specialist Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Common Materials",
+				[5] = "<ITEM>[Splendide Coin]<INFO>6081</INFO></ITEM> 50",
+				[6] = "<ITEM>[Crystal Mirror]<INFO>747</INFO></ITEM> 4",
+				[7] = "<ITEM>[Fairy Magic Powder]<INFO>6395</INFO></ITEM> 1",
+				[8] = "<ITEM>[Emerald]<INFO>721</INFO></ITEM> 10",
+				[9] = "<ITEM>[Ruby]<INFO>723</INFO></ITEM> 10",
+				[10] = "<ITEM>[Topaz]<INFO>728</INFO></ITEM> 10",
+				[11] = "<ITEM>[Zircon]<INFO>729</INFO></ITEM> 10",
+				[12] = "",
+				[13] = "» Craftable List",
+				[14] = "<ITEM>[Frog Hat]<INFO>5447</INFO></ITEM>",
+				[15] = "<ITEM>[Romantic Flower]<INFO>2269</INFO></ITEM>",
+				[16] = "<ITEM>[Magestic Goat]<INFO>2256</INFO></ITEM>",
+				[17] = "<ITEM>[Blush]<INFO>5040</INFO></ITEM>",
+				[18] = "<ITEM>[Valkyrie Helm]<INFO>5171</INFO></ITEM>",
+				[19] = "<ITEM>[Deviruchi Hat]<INFO>5038</INFO></ITEM>",
+				[20] = "<ITEM>[Assassin Mask]<INFO>5096</INFO></ITEM>",
+				[21] = "<ITEM>[Elven Ears]<INFO>2286</INFO></ITEM>",
+				[22] = "<ITEM>[Hahoe Mask]<INFO>5176</INFO></ITEM>",
+				[23] = "<ITEM>[Boy's Cap]<INFO>5016</INFO></ITEM>",
+				[24] = "",
+				[25] = "<TIPBOX>»See Eclage Quests<INFO>6057</INFO></TIPBOX>",
+				[26] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7068] = {
+		Title = "Episode 17.2 Legacy of the Wise One",
+		Page = {
+			[1] = {
+				[1] = "The adventurer and their companions enter the mansion to reclaim it from the Illusion forces holding out inside Great Sage Varmundt's estate.",
+				[2] = "Expecting fierce resistance, the group braces themselves and enters, only to be greeted by some unexpected faces.",
+				[3] = "",
+				[4] = "Welcome, guests, to the Sage's Mansion.",
+				[5] = "",
+				[6] = "<TIPBOX>»EP. 17.1 Illusion<INFO>7055</INFO></TIPBOX> completed",
+				[7] = "^663399§Level 130 or higher^000000",
+				[8] = "",
+				[9] = "»Starting Quest",
+				[10] = "<TIPBOX>Q Secret Entrance of the Mansion<INFO>7069</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "»Main Quests",
+				[13] = "<TIPBOX>Q Straggler in the Sewage<INFO>7070</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Mansion Guest<INFO>7071</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q What We Want to Know<INFO>7072</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Pest Extermination Operation<INFO>7073</INFO></TIPBOX>",
+				[17] = "",
+				[18] = "»Side Quests",
+				[19] = "<TIPBOX>Q Attend the Coronation<INFO>7074</INFO></TIPBOX>",
+				[20] = "<TIPBOX>Q Water Garden<INFO>7075</INFO></TIPBOX>",
+				[21] = "<TIPBOX>Q Quiet in the Library<INFO>7076</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Q Safe Warehouse<INFO>7077</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q The Bathhouse, Strange Creatures and Me<INFO>7078</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Breeding Grounds Forgotten by Time<INFO>7079</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Hidden Flower Garden<INFO>7080</INFO></TIPBOX>",
+				[26] = "",
+				[27] = "»Daily Quests",
+				[28] = "<TIPBOX>Q Sewage Treatment Plant, Power Plant No. 1<INFO>7081</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q Potato Chips Scattered by Illusion<INFO>7082</INFO></TIPBOX>",
+				[30] = "",
+				[31] = "<TIPBOX>»Ep17.2 Automatic Series<INFO>4111</INFO></TIPBOX>",
+				[32] = "",
+				[33] = "<TIPBOX>»Episode 17<INFO>4106</INFO></TIPBOX>",
+				[34] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7069] = {
+		Title = "Q Secret Entrance of the Mansion (130)",
+		Page = {
+			[1] = {
+				[1] = "The Sage's Mansion is finally open. But there is something odd about the entrance...",
+				[2] = "Pass through the sewage treatment plant leading into the mansion and check whether anyone has fallen behind.",
+				[3] = "",
+				[4] = "<TIPBOX>»EP. 17.1 Illusion<INFO>7055</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 130 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Rookie]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7070] = {
+		Title = "Q Straggler in the Sewage (130)",
+		Page = {
+			[1] = {
+				[1] = "While quickly pushing through the sewage treatment plant with your guard up, you hear a desperate voice from somewhere nearby.",
+				[2] = "You approach cautiously and find a familiar face... on the verge of death?!",
+				[3] = "",
+				[4] = "<TIPBOX>»Secret Entrance of the Mansion<INFO>7069</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 130 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[???????????????]<INFO>ba_pw02,93,93,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7071] = {
+		Title = "Q Mansion Guest (130)",
+		Page = {
+			[1] = {
+				[1] = "The automatic dolls that guarded Varmundt's enormous mansion strangely welcome the adventurers they have never met and offer their cooperation.",
+				[2] = "Alpha registers the guests according to procedure, but says a problem has occurred and asks the adventurer for help.",
+				[3] = "",
+				[4] = "- A daily quest becomes available after completing this quest.",
+				[5] = "No Signal (130)",
+				[6] = "",
+				[7] = "<TIPBOX>»Straggler in the Sewage<INFO>7070</INFO></TIPBOX> completed",
+				[8] = "^663399§Level 130 or higher^000000",
+				[9] = "",
+				[10] = "<NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7072] = {
+		Title = "Q What We Want to Know (130)",
+		Page = {
+			[1] = {
+				[1] = "After reexamining the old mercenary rebellion using government records, Tess finds discrepancies when comparing them with the testimony of Rebellion elders and is left puzzled.",
+				[2] = "He decides to reinvestigate by questioning witnesses who still remember exactly how the mansion looked when it served as a base during the mercenary rebellion.",
+				[3] = "",
+				[4] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 130 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Philopontes]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7073] = {
+		Title = "Q Pest Extermination Operation (130)",
+		Page = {
+			[1] = {
+				[1] = "After securing a promise of corporate responsibility, the adventurer tours the mansion and, at the manager's request, agrees to collect the cores of broken automatic dolls.",
+				[2] = "Then, an unexpected person suddenly appears before them...!",
+				[3] = "With a radar for tracking Illusion in hand, the adventurers pursue them to the bitter end!",
+				[4] = "",
+				[5] = "- Two daily quests become available after completing this quest.",
+				[6] = "Hey! Sweetie (130)",
+				[7] = "Core Collection (130)",
+				[8] = "",
+				[9] = "<TIPBOX>»What We Want to Know<INFO>7072</INFO></TIPBOX> completed",
+				[10] = "^663399§Level 130 or higher^000000",
+				[11] = "",
+				[12] = "<NAVI>[Rookie]<INFO>ba_maison,116,67,0,101,0</INFO></NAVI>",
+				[13] = "",
+				[14] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7074] = {
+		Title = "Q Attend the Coronation (130)",
+		Page = {
+			[1] = {
+				[1] = "The long journey began with the coronation of the Rune-Midgarts Kingdom and the stolen Terra Gloria.",
+				[2] = "Now that everything is beginning to return to its rightful place, let us witness the birth of a new king.",
+				[3] = "",
+				[4] = "<TIPBOX>»Pest Extermination Operation<INFO>7073</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 130 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Crux]<INFO>ba_maison,33,220,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7075] = {
+		Title = "Q Water Garden (130)",
+		Page = {
+			[1] = {
+				[1] = "The scientific criminal Elyumina fell in love at first sight with the mansion's automatic dolls. Unfortunately, the feeling was not mutual.",
+				[2] = "How about finding medicine for Elyumina, who has fallen ill from her unrequited love? Like it or not, you are all in the same boat now.",
+				[3] = "",
+				[4] = "- Four daily quests become available after completing this quest.",
+				[5] = "Whereabouts of the Gardener (130)",
+				[6] = "Hunt Silva Papilia (130)",
+				[7] = "Hunt Gran Papilia (180)",
+				[8] = "MD Water Garden (130, 180)",
+				[9] = "",
+				[10] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[11] = "^663399§Level 130 or higher^000000",
+				[12] = "",
+				[13] = "<NAVI>[Rensiz]<INFO>ba_pw02,46,267,0,101,0</INFO></NAVI>",
+				[14] = "",
+				[15] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7076] = {
+		Title = "Q Quiet in the Library (130)",
+		Page = {
+			[1] = {
+				[1] = "Tamarin and the others head to the library to investigate the legacy left by the Sage. The mansion may be exceptionally well preserved, but this is too much... and there is even a mysterious visitor?",
+				[2] = "",
+				[3] = "- Three daily quests become available after completing this quest.",
+				[4] = "Ultimate Scrap Collection (130)",
+				[5] = "Ultimate Bookworm (130)",
+				[6] = "Ultimate Book Organization (130)",
+				[7] = "",
+				[8] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[9] = "^663399§Level 130 or higher^000000",
+				[10] = "",
+				[11] = "<NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7077] = {
+		Title = "Q Safe Warehouse (160)",
+		Page = {
+			[1] = {
+				[1] = "The Great Sage's estate has several enormous warehouses befitting its size. While looking around one of them, the adventurer unexpectedly ends up running errands for an extreme-minded automatic doll.",
+				[2] = "",
+				[3] = "- Two daily quests become available after completing this quest.",
+				[4] = "Organize the Ground-Floor Warehouse (160)",
+				[5] = "Organize the Basement Warehouse (170)",
+				[6] = "",
+				[7] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[8] = "^663399§Level 160 or higher^000000",
+				[9] = "",
+				[10] = "<NAVI>[Jjak]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7078] = {
+		Title = "Q The Bathhouse, Strange Creatures and Me (130)",
+		Page = {
+			[1] = {
+				[1] = "After passing through the sewage treatment plant, you arrive at the bathhouse to wash off the grime. However, entry is blocked because strange creatures have appeared inside.",
+				[2] = "An old mansion just would not be complete without at least one ghost.",
+				[3] = "",
+				[4] = "- Two daily quests become available after completing this quest.",
+				[5] = "Between the Hot and Cold Baths (130)",
+				[6] = "Bathhouse Cleaning in Progress (130)",
+				[7] = "",
+				[8] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[9] = "^663399§Level 130 or higher^000000",
+				[10] = "",
+				[11] = "<NAVI>[Gentleman]<INFO>ba_in01,384,38,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7079] = {
+		Title = "Q Breeding Grounds Forgotten by Time (130)",
+		Page = {
+			[1] = {
+				[1] = "A magnificent and beautiful breeding ground stands in one corner of the grand estate. It is home to cats and Pitayas.",
+				[2] = "How about taking a tour of the breeding ground and trying the harvest experience under the guidance of the automatic dolls?",
+				[3] = "",
+				[4] = "- Two daily quests become available after completing this quest.",
+				[5] = "Harvest Pitaya Tails (130)",
+				[6] = "Play with the Pitayas (150)",
+				[7] = "",
+				[8] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[9] = "^663399§Level 130 or higher^000000",
+				[10] = "",
+				[11] = "<NAVI>[Ruinan]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7080] = {
+		Title = "Q Hidden Flower Garden (130)",
+		Page = {
+			[1] = {
+				[1] = "The automatic dolls finished their assignments but had no one to inspect them, so they have been waiting endlessly. They want to appoint the adventurer, whose magic reading resembles Varmundt's, as a temporary administrator to evaluate their work.",
+				[2] = "But it seems each administrator doll has a different idea in mind...?",
+				[3] = "",
+				[4] = "- Two daily quests become available after completing this quest.",
+				[5] = "Security Area 1 (130)",
+				[6] = "Security Area 2 (180)",
+				[7] = "",
+				[8] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[9] = "^663399§Level 130 or higher^000000",
+				[10] = "",
+				[11] = "<NAVI>[Garden Access Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7081] = {
+		Title = "Q Sewage Treatment Plant, Power Plant No. 1 (130)",
+		Page = {
+			[1] = {
+				[1] = "Cleaning robots are so cute... The small and adorable Cleaning Robot Ω is sad because terrifying monsters are keeping it from cleaning.",
+				[2] = "Defeat the monsters in the sewage treatment plant and Power Plant No. 1 for the little cleaning robot.",
+				[3] = "",
+				[4] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 130 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,30,329,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7082] = {
+		Title = "Q Potato Chips Scattered by Illusion (180)",
+		Page = {
+			[1] = {
+				[1] = "Illusion scattered signal-jamming chips throughout Power Plant No. 2 to interfere with the automatic dolls' communications.",
+				[2] = "They are deadly to automatic dolls, but to a living adventurer they look like delicious, nutritious snacks. Let me try one.",
+				[3] = "",
+				[4] = "<TIPBOX>»Mansion Guest<INFO>7071</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 180 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Previous page<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8118] = {
+		Title = "Episode 16.1 Banquet for Heroes",
+		Page = {
+			[1] = {
+				[1] = "The Seven Royal Families wish to entrust an important task to the hero who returned from the expedition to the New World.",
+				[2] = "",
+				[3] = "»Main Quests",
+				[4] = "<TIPBOX>Q Banquet for Heroes (100)<INFO>8119</INFO></TIPBOX>",
+				[5] = "<TIPBOX>Q Blessing Ritual (100)<INFO>8120</INFO></TIPBOX>",
+				[6] = "<TIPBOX>Q Clue to the Truth (100)<INFO>8121</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "»General Quests",
+				[9] = "<TIPBOX>Q House Walter (100)<INFO>8122</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q House Wigner (100)<INFO>8123</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q House Roegenburg (100)<INFO>8124</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q House Georg (100)<INFO>8125</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Why Am I Preparing the Banquet? (100)<INFO>8130</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Prontera Dungeon (100)<INFO>8134</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Prontera Underground Prison (100)<INFO>8135</INFO></TIPBOX>",
+				[16] = "",
+				[17] = "»Repeatable Quests",
+				[18] = "<TIPBOX>Q An Unreachable Past (100)<INFO>8126</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Please Deliver My Feelings (100)<INFO>8127</INFO></TIPBOX>",
+				[20] = "<TIPBOX>Q Jewels and Fabric (100)<INFO>8128</INFO></TIPBOX>",
+				[21] = "<TIPBOX>Q Martial Training (100)<INFO>8129</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Q Unexpected Sauce (100)<INFO>8131</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Whole-Roasted Griffon (100)<INFO>8132</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Washing Fifteen Plates (100)<INFO>8133</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q For a Precious Companion (100)<INFO>8136</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q No Eye for Beauty (100)<INFO>8137</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q A Clean Life (100)<INFO>8138</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q It's Dark, Human (100)<INFO>8139</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q A Fresh Prison Life (100)<INFO>8140</INFO></TIPBOX>",
+				[30] = "<TIPBOX>Q Suppressing the Darkness (100)<INFO>8141</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Small but Annoying (100)<INFO>8142</INFO></TIPBOX>",
+				[32] = "",
+				[33] = "<TIPBOX>»Ep16.1 Honor Token Rewards<INFO>4108</INFO></TIPBOX>",
+				[34] = "<TIPBOX>»Ep16.1 Noblesse Series<INFO>4112</INFO></TIPBOX>",
+				[35] = "",
+				[36] = "<TIPBOX>»Episode 16<INFO>4105</INFO></TIPBOX>",
+				[37] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8119] = {
+		Title = "Q Banquet for Heroes (100)",
+		Page = {
+			[1] = {
+				[1] = "Royal messengers in Prontera, Geffen, and other regions are looking for the hero who returned from the New World expedition.",
+				[2] = "<TIPBOX>»New World Entry Quests<INFO>6015</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "Speak with one of the royal messengers below.",
+				[6] = "Prontera <NAVI>[Royal Messenger]<INFO>prontera,121,72,0,101,0</INFO></NAVI>",
+				[7] = "Geffen <NAVI>[Royal Messenger]<INFO>geffen,123,68,0,101,0</INFO></NAVI>",
+				[8] = "Payon <NAVI>[Royal Messenger]<INFO>payon,168,65,0,101,0</INFO></NAVI>",
+				[9] = "Morroc <NAVI>[Royal Messenger]<INFO>morocc,152,97,0,101,0</INFO></NAVI>",
+				[10] = "Alberta <NAVI>[Royal Messenger]<INFO>alberta,119,59,0,101,0</INFO></NAVI>",
+				[11] = "Aldebaran <NAVI>[Royal Messenger]<INFO>aldebaran,159,113,0,101,0</INFO></NAVI>",
+				[12] = "Juno <NAVI>[Royal Messenger]<INFO>yuno,162,132,0,101,0</INFO></NAVI>",
+				[13] = "Lighthalzen <NAVI>[Royal Messenger]<INFO>lighthalzen,150,100,0,101,0</INFO></NAVI>",
+				[14] = "Rachel <NAVI>[Royal Messenger]<INFO>rachel,119,131,0,101,0</INFO></NAVI>",
+				[15] = "Veins <NAVI>[Royal Messenger]<INFO>veins,200,108,0,101,0</INFO></NAVI>",
+				[16] = "",
+				[17] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[18] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8120] = {
+		Title = "Q Blessing Ritual (100)",
+		Page = {
+			[1] = {
+				[1] = "Bell, an attendant at Prontera Palace, has invited the adventurer to attend the banquet.",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Attendant Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8121] = {
+		Title = "Q Clue to the Truth (100)",
+		Page = {
+			[1] = {
+				[1] = "In a room of Prontera Palace, attendant Bell has summoned Nillem. What will you uncover about the royal family's past while investigating with him?",
+				[2] = "<TIPBOX>»Blessing Ritual<INFO>8120</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Attendant Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8122] = {
+		Title = "Q House Walter (100)",
+		Page = {
+			[1] = {
+				[1] = "You visited House Walter in Prontera Palace and heard Walter Eisenach's concerns.",
+				[2] = "<TIPBOX>»Blessing Ritual<INFO>8120</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Ian Walter]<INFO>prt_cas_q,20,184,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8123] = {
+		Title = "Q House Wigner (100)",
+		Page = {
+			[1] = {
+				[1] = "You visited House Wigner in Prontera Palace and were introduced to the three Wigner siblings.",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Le Vieux Wigner]<INFO>prt_cas_q,82,20,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8124] = {
+		Title = "Q House Roegenburg (100)",
+		Page = {
+			[1] = {
+				[1] = "You visited House Roegenburg in Prontera Palace and looked into the rumors surrounding the Roegenburg family.",
+				[2] = "<TIPBOX>»House Wigner<INFO>8123</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Maximilian Roegenburg]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8125] = {
+		Title = "Q House Georg (100)",
+		Page = {
+			[1] = {
+				[1] = "You visited House Georg in Prontera Palace, met the queen, and learned about several rumors.",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Queen]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8126] = {
+		Title = "Q An Unreachable Past (100)",
+		Page = {
+			[1] = {
+				[1] = "Friedrich S. Heine of Prontera Palace wants to cling to even the faintest hope each day.",
+				[2] = "<TIPBOX>»Clue to the Truth<INFO>8121</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Friedrich S. Heine]<INFO>prt_cas_q,21,83,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8127] = {
+		Title = "Q Please Deliver My Feelings (100)",
+		Page = {
+			[1] = {
+				[1] = "Jurgen Wigner of House Wigner in Prontera Palace seems to have found true love.",
+				[2] = "<TIPBOX>»House Wigner<INFO>8123</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Jurgen Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8128] = {
+		Title = "Q Jewels and Fabric (100)",
+		Page = {
+			[1] = {
+				[1] = "The young lady of House Roegenburg wants a beautiful dress and rare accessories to match it.",
+				[2] = "<TIPBOX>»House Roegenburg<INFO>8124</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Agnes Roegenburg]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8129] = {
+		Title = "Q Martial Training (100)",
+		Page = {
+			[1] = {
+				[1] = "The butler of House Richard believes you are capable of easily completing the family's martial training.",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[House Richard Butler]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8130] = {
+		Title = "Q Why Am I Preparing the Banquet? (100)",
+		Page = {
+			[1] = {
+				[1] = "The royal head chef in the Prontera Palace kitchen is urging you to hurry and start preparing the banquet dishes!",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Royal Cook]<INFO>prt_cas,213,177,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8131] = {
+		Title = "Q Unexpected Sauce (100)",
+		Page = {
+			[1] = {
+				[1] = "For the perfect banquet, help the sauce master in the Prontera Palace kitchen make the perfect sauce.",
+				[2] = "<TIPBOX>»Why Am I Preparing the Banquet?<INFO>8130</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Sauce Master]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8132] = {
+		Title = "Q Whole-Roasted Griffon (100)",
+		Page = {
+			[1] = {
+				[1] = "In the Prontera Palace kitchen, today you roast Griffons once again. You also serve them.",
+				[2] = "<TIPBOX>»Why Am I Preparing the Banquet?<INFO>8130</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Royal Head Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8133] = {
+		Title = "Q Washing Fifteen Plates (100)",
+		Page = {
+			[1] = {
+				[1] = "Empty plates that need washing are scattered all around the Prontera Palace dining hall. Somehow, there are even some on the floor.",
+				[2] = "<TIPBOX>»Why Am I Preparing the Banquet?<INFO>8130</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Dishwasher]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8134] = {
+		Title = "Q Prontera Dungeon (100)",
+		Page = {
+			[1] = {
+				[1] = "The guard captain is looking for someone to help Prontera residents who are facing various problems.",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Attendant Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI> will guide you to the Guard Captain with Nillem.",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8135] = {
+		Title = "Q Prontera Underground Prison (100)",
+		Page = {
+			[1] = {
+				[1] = "I'm a big fan! Would you please inspect the Prontera Underground Prison and help resolve the prisoners' difficulties?",
+				[2] = "<TIPBOX>»Banquet for Heroes<INFO>8119</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Elond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8136] = {
+		Title = "Q For a Precious Companion (100)",
+		Page = {
+			[1] = {
+				[1] = "Prisoner 243AD265 in the Prontera Underground Prison hears a familiar voice they have longed for.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 243AD265]<INFO>prt_prison,243,259,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8137] = {
+		Title = "Q No Eye for Beauty (100)",
+		Page = {
+			[1] = {
+				[1] = "Prisoner 267BD184 in the Prontera Underground Prison needs more pretty eyes. Eyes.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 267BD184]<INFO>prt_prison,267,188,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8138] = {
+		Title = "Q A Clean Life (100)",
+		Page = {
+			[1] = {
+				[1] = "Prisoner 267BD184 wants to live a clean and hygienic life even inside a prison cell.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 267BD184]<INFO>prt_prison,260,154,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8139] = {
+		Title = "Q It's Dark, Human (100)",
+		Page = {
+			[1] = {
+				[1] = "Prisoner 95EB72 wants to drive away the darkness of the Prontera Underground Prison.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 95EB72]<INFO>prt_prison,101,72,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8140] = {
+		Title = "Q A Fresh Prison Life (100)",
+		Page = {
+			[1] = {
+				[1] = "Prisoner 117FM188 cannot stand the damp, humid interior of the Prontera Underground Prison.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 117FM188]<INFO>prt_prison,111,188,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8141] = {
+		Title = "Q Suppressing the Darkness (100)",
+		Page = {
+			[1] = {
+				[1] = "There is something essential for driving the dark darkness out of prisoner 103GD214's heart.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 103GD214]<INFO>prt_prison,98,214,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8142] = {
+		Title = "Q Small but Annoying (100)",
+		Page = {
+			[1] = {
+				[1] = "Prisoner 55HK115 seems to have something they absolutely must obtain, and intends to have you fetch it.",
+				[2] = "<TIPBOX>»Prontera Underground Prison<INFO>8135</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 100 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisoner 55HK115]<INFO>prt_prison,55,118,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous page<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10001] = {
+		Title = "Episode 15.1 Phantasmagorika!!",
+		Page = {
+			[1] = {
+				[1] = "Phantasmagorika is a massive excavation project that tells the story of the secrets surrounding Verus City and the people who lived in its advanced civilization.",
+				[2] = "",
+				[3] = "",
+				[4] = "»Phantasmagorika Main Quests",
+				[5] = "<TIPBOX>Q To Phantasmagorika! (140)<INFO>10002</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "»Phantasmagorika Side Quests",
+				[8] = "<TIPBOX>Excavation Team Registration (140)<INFO>10003</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Atnaad Excavation Team (140)<INFO>10004</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Daily Performance Report (140)<INFO>10005</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "»Phantasmagorika General Quests",
+				[13] = "<TIPBOX>Q Clear the Passage (140)<INFO>10006</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Block the Threat (140)<INFO>10007</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q New Power Source (140)<INFO>10008</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Core Collection (140)<INFO>10009</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q A Lap Around the Area (140)<INFO>10010</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Blessing of Destruction Raid (140)<INFO>10011</INFO></TIPBOX>",
+				[19] = "",
+				[20] = "<TIPBOX>»Episode 15<INFO>4104</INFO></TIPBOX>",
+				[21] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10002] = {
+		Title = "Q To Phantasmagorika! (140)",
+		Page = {
+			[1] = {
+				[1] = "Rekenber is recruiting capable people to join the Phantasmagorika project at the newly discovered ruins of Juperos!",
+				[2] = "<NAVI>[Promoter (Prontera)]<INFO>prontera,121,77,0,101,0</INFO></NAVI>",
+				[3] = "<NAVI>[Promoter (Morroc)]<INFO>morocc,208,287,0,101,0</INFO></NAVI>",
+				[4] = "<NAVI>[Promoter (Payon)]<INFO>payon,174,113,0,101,0</INFO></NAVI>",
+				[5] = "<NAVI>[Promoter (Geffen)]<INFO>geffen,135,64,0,101,0</INFO></NAVI>",
+				[6] = "<NAVI>[Promoter (Alberta)]<INFO>alberta,119,65,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "» Quest Requirements",
+				[9] = "^663399§Level 140^000000",
+				[10] = "",
+				[11] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10003] = {
+		Title = "Excavation Team Registration (140)",
+		Page = {
+			[1] = {
+				[1] = "Ask Nara at the Phantasmagorika Excavation Team reception desk to handle the registration procedure.",
+				[2] = "<NAVI>[Nara]<INFO>verus04,182,168,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10004] = {
+		Title = "Q Atnaad Excavation Team (140)",
+		Page = {
+			[1] = {
+				[1] = "After entering the Eden Group, you can receive instructions on how to join the Atnaad Excavation Team.",
+				[2] = "<NAVI>[Lime]<INFO>moc_para01,31,14,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10005] = {
+		Title = "Q Daily Performance Report (140)",
+		Page = {
+			[1] = {
+				[1] = "Submit the daily performance report, stamped by the leader of the Atnaad Excavation Team, to Commander Louis.",
+				[2] = "<NAVI>[Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "<TIPBOX>Excavation Team Registration<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10006] = {
+		Title = "Q Clear the Passage (140)",
+		Page = {
+			[1] = {
+				[1] = "Eliminate the monsters in the passage toward the eastern ruins, then report back to Manager Michelle.",
+				[2] = "<NAVI>[Manager Michelle]<INFO>ver_eju,114,40,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "<TIPBOX>Excavation Team Registration<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10007] = {
+		Title = "Q Block the Threat (140)",
+		Page = {
+			[1] = {
+				[1] = "Aggressive mechanical monsters roam the main excavation site of Phantasmagorika. Defeat them so the work can proceed smoothly.",
+				[2] = "<NAVI>[Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "<TIPBOX>Excavation Team Registration<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10008] = {
+		Title = "Q New Power Source (140)",
+		Page = {
+			[1] = {
+				[1] = "To help Lloyd's research, prepare 10 empty glass bottles and collect the condensed energy found among the mechanical debris.",
+				[2] = "<NAVI>[Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "<TIPBOX>Atnaad Excavation Team<INFO>10004</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10009] = {
+		Title = "Q Core Collection (140)",
+		Page = {
+			[1] = {
+				[1] = "To help Ian Atnaad's research, collect 20 operation control devices from the inner plaza.",
+				[2] = "<NAVI>[Ian Atnaad]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "<TIPBOX>Excavation Team Registration<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10010] = {
+		Title = "Q A Lap Around the Area (140)",
+		Page = {
+			[1] = {
+				[1] = "Help the busy security captain Kesler by listening to the concerns of his officers: Salgran, Geref, Sweden, and Fifth.",
+				[2] = "<NAVI>[Security Captain Kesler]<INFO>verus04,133,212,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10011] = {
+		Title = "Q Blessing of Destruction Raid (140)",
+		Page = {
+			[1] = {
+				[1] = "A random event! Stop the Blessing of Destruction group from attacking and destroying the ruins.",
+				[2] = "<NAVI>[Security Captain Kesler]<INFO>verus04,133,212,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Quest Requirements",
+				[5] = "^663399§Level 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4217] = {
+		Title = "Episode 18 Direction of Prayer",
+		Page = {
+			[1] = {
+				[1] = "Airship Manager Ellie discovers from the information analyzed so far that Illusion is also active in Rachel. With the Rebellion needing to settle matters involving Varmundt's Mansion and the Republic, the adventurer heads to Rachel in their place, only to encounter distrust and agitation there.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episode 17.2 Legacy of the Wise One<INFO>7068</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "",
+				[6] = "»Starting Quest",
+				[7] = "<TIPBOX>Q To the Holy Kingdom<INFO>4221</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "»Main Quests",
+				[10] = "<TIPBOX>Q Niren's Request<INFO>4222</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Children in Gray<INFO>4223</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Qualification for the Great Council<INFO>4224</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Gray Wolf Forest Great Council<INFO>4225</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Origin of the Weapons<INFO>4226</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Rebels<INFO>4227</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Wolf in Sheep's Clothing<INFO>4228</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q When Dialogue Is Needed<INFO>4229</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Investigating the High Priest's Villa<INFO>4230</INFO></TIPBOX>",
+				[19] = "",
+				[20] = "»Side Quests",
+				[21] = "<TIPBOX>Q Steward of Gray Wolf Village<INFO>4232</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Q I Can't Sleep<INFO>4233</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Collect the Stories<INFO>4234</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q This Isn't the Place<INFO>4235</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Our Daily Bread<INFO>4236</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Relic for Water Purification<INFO>4237</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Belated Migration<INFO>4238</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q Where Is My Home?<INFO>4239</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q There Are No Bad Beasts<INFO>4240</INFO></TIPBOX>",
+				[30] = "<TIPBOX>Q Oz's Labyrinth and the Peddler<INFO>4241</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Read the Room<INFO>4242</INFO></TIPBOX>",
+				[32] = "<TIPBOX>Q Even Children Know<INFO>4243</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Q The Price of Labor<INFO>4244</INFO></TIPBOX>",
+				[34] = "<TIPBOX>Q Flower of the Gray Wolf Forest<INFO>4245</INFO></TIPBOX>",
+				[35] = "<TIPBOX>Q Flower Room Work<INFO>4246</INFO></TIPBOX>",
+				[36] = "<TIPBOX>Q Make Gray Wolf Forest Safer<INFO>4247</INFO></TIPBOX>",
+				[37] = "",
+				[38] = "<TIPBOX>»Ep18 Gray Wolf Series<INFO>4218</INFO></TIPBOX>",
+				[39] = "<TIPBOX>»Ep18 Adulter Fides Series<INFO>4219</INFO></TIPBOX>",
+				[40] = "<TIPBOX>»Ep18 Vivatus Fides Series<INFO>4220</INFO></TIPBOX>",
+				[41] = "",
+				[42] = "<TIPBOX>»Episode 18<INFO>4216</INFO></TIPBOX>",
+				[43] = "<TIPBOX>»See Episodes<INFO>4101</INFO></TIPBOX>",
+				[44] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4221] = {
+		Title = "Q To the Holy Kingdom (170)",
+		Page = {
+			[1] = {
+				[1] = "The automatic dolls of Varmundt's Mansion, who said time was on our side, really did find a clue.",
+				[2] = "Where are the fugitives now, and what are they doing?",
+				[3] = "",
+				[4] = "<TIPBOX>»Episode 17.2 Legacy of the Wise One<INFO>7068</INFO></TIPBOX> completed",
+				[5] = "^663399§Level 170 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Smart Ellie]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4222] = {
+		Title = "Q Niren's Request (170)",
+		Page = {
+			[1] = {
+				[1] = "After learning about the intruders who entered the temple, Niren seems to have a request for the adventurer so she can focus on guarding the temple.",
+				[2] = "<TIPBOX>»To the Holy Kingdom<INFO>4221</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Security Officer Dent]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4223] = {
+		Title = "Q Children in Gray (170)",
+		Page = {
+			[1] = {
+				[1] = "Maram, Niren's son, seems to have something urgent to take care of.",
+				[2] = "Is there anything the adventurer can help with?",
+				[3] = "<TIPBOX>»Niren's Request<INFO>4222</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4224] = {
+		Title = "Q Qualification for the Great Council (170)",
+		Page = {
+			[1] = {
+				[1] = "To attend the great council in Gray Wolf Village, you must first be accepted as a member of the village. Complete tasks around the village and eventually you will earn the right to attend the council.",
+				[2] = "»Complete 10 General Quests in Gray Wolf Village",
+				[3] = "<TIPBOX>»Steward of Gray Wolf Village<INFO>4232</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»I Can't Sleep<INFO>4233</INFO></TIPBOX>",
+				[5] = "<TIPBOX>»Collect the Stories<INFO>4234</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»This Isn't the Place<INFO>4235</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Our Daily Bread<INFO>4236</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Relic for Water Purification<INFO>4237</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Belated Migration<INFO>4238</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Where Is My Home?<INFO>4239</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»There Are No Bad Beasts<INFO>4240</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Oz's Labyrinth and the Peddler<INFO>4241</INFO></TIPBOX>",
+				[13] = "^663399§Level 170 or higher^000000",
+				[14] = "",
+				[15] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4225] = {
+		Title = "Q Gray Wolf Forest Great Council (170)",
+		Page = {
+			[1] = {
+				[1] = "After building ties with the people of Gray Wolf Forest and being accepted as one of them, the adventurer is recognized for those efforts and invited to the great council that will decide the forest's future.",
+				[2] = "The great council has finally begun. What will be the outcome of the meeting?",
+				[3] = "»Progress \"Qualification for the Great Council\"",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Village Boy]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4226] = {
+		Title = "Q Origin of the Weapons (170)",
+		Page = {
+			[1] = {
+				[1] = "After a heated debate, the great council comes to an end. Among the dispersing crowd, Miriam notices something strange.",
+				[2] = "Several residents are unusually heavily armed. Where did those weapons come from, and why are the residents arming themselves?",
+				[3] = "<TIPBOX>»Gray Wolf Forest Great Council<INFO>4225</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4227] = {
+		Title = "Q Rebels (170)",
+		Page = {
+			[1] = {
+				[1] = "While Suad is still pondering the weapons that appeared in Gray Wolf Village and where they came from, news arrives that a member of the village has attacked a merchant caravan.",
+				[2] = "<TIPBOX>»Origin of the Weapons<INFO>4226</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4228] = {
+		Title = "Q Wolf in Sheep's Clothing (170)",
+		Page = {
+			[1] = {
+				[1] = "At last, the people of Gray Wolf Village have gathered in front of the temple.",
+				[2] = "Will they be able to make their voices heard by the people of Rachel?",
+				[3] = "<TIPBOX>»Rebels<INFO>4227</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Ordinary Person]<INFO>rachel,169,245,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4229] = {
+		Title = "Q When Dialogue Is Needed (170)",
+		Page = {
+			[1] = {
+				[1] = "Shocked by the betrayal of a trusted companion, Suad and the priests are shaken. Before long, however, they regain their composure and decide to restore order to the village and the temple.",
+				[2] = "Miriam leaves for the place her father went to so she can investigate what happened.",
+				[3] = "<TIPBOX>»Wolf in Sheep's Clothing<INFO>4228</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Niren]<INFO>rachel,116,200,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4230] = {
+		Title = "Q Investigating the High Priest's Villa (170)",
+		Page = {
+			[1] = {
+				[1] = "It seems Illusion, working together with High Priest Amal, is behind everything. Can you discover what they are trying to do at the High Priest's villa and why they caused turmoil in Rachel?",
+				[2] = "<TIPBOX>»When Dialogue Is Needed<INFO>4229</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Meeting Point]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4232] = {
+		Title = "Q Steward of Gray Wolf Village (170)",
+		Page = {
+			[1] = {
+				[1] = "Hazar, the chief merchant steward of Gray Wolf Village, wants to train his disciple Kamil, but things do not seem to be going smoothly from the very beginning.",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "^663399§Required Quest for the Great Council^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hazar]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4233] = {
+		Title = "Q I Can't Sleep (170)",
+		Page = {
+			[1] = {
+				[1] = "A child in Gray Wolf Forest looks exhausted from lack of sleep. Why have they been unable to sleep at all? The child seems to flinch every time the Firewind Kite cries. Let's hear what happened.",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "^663399§Required Quest for the Great Council^000000",
+				[5] = "",
+				[6] = "<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4234] = {
+		Title = "Q Collect the Stories (170)",
+		Page = {
+			[1] = {
+				[1] = "Gudra may not look like a scholar, but is actually an excellent one. It seems Gudra wants to gather stories from the people of Gray Wolf Village for some kind of research. Can you help?",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "^663399§Required Quest for the Great Council^000000",
+				[5] = "",
+				[6] = "<NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4235] = {
+		Title = "Q This Isn't the Place (170)",
+		Page = {
+			[1] = {
+				[1] = "Some young people have gathered by the quiet lakeside of Gray Wolf Village, muttering complaints about someone. Let's listen in and find out what they are talking about.",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "^663399§Required Quest for the Great Council^000000",
+				[5] = "",
+				[6] = "<NAVI>[Julan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4236] = {
+		Title = "Q Our Daily Bread (170)",
+		Page = {
+			[1] = {
+				[1] = "Eruin, who lives in Gray Wolf Village, is a trap hunter. Every day, Eruin looks for workers to retrieve the game caught in the traps.",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "^663399§Required Quest for the Great Council^000000",
+				[5] = "",
+				[6] = "<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4237] = {
+		Title = "Q Relic for Water Purification (170)",
+		Page = {
+			[1] = {
+				[1] = "Budan, who manages the water supply in Gray Wolf Village, is looking for someone to bring a sacred relic from Rachel for purifying drinking water.",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "^663399§Required Quest for the Great Council^000000",
+				[5] = "",
+				[6] = "<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4238] = {
+		Title = "Q Belated Migration (170)",
+		Page = {
+			[1] = {
+				[1] = "Horim, an employee at a hotel in Rachel, wants to leave for Gray Wolf Village.",
+				[2] = "Help Horim reach Gray Wolf Village.",
+				[3] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "^663399§Required Quest for the Great Council^000000",
+				[6] = "",
+				[7] = "<NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4239] = {
+		Title = "Q Where Is My Home? (170)",
+		Page = {
+			[1] = {
+				[1] = "Gray Wolf Village was meant to become a place to call home, but achieving that hope is not easy.",
+				[2] = "What is Ezekiel planning?",
+				[3] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "^663399§Required Quest for the Great Council^000000",
+				[6] = "",
+				[7] = "<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4240] = {
+		Title = "Q There Are No Bad Beasts (170)",
+		Page = {
+			[1] = {
+				[1] = "Humans are not the only members of Gray Wolf Village.",
+				[2] = "What is needed for everyone to live together in harmony?",
+				[3] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "^663399§Required Quest for the Great Council^000000",
+				[6] = "",
+				[7] = "<NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4241] = {
+		Title = "Q Oz's Labyrinth and the Peddler (170)",
+		Page = {
+			[1] = {
+				[1] = "Crossing Oz's Labyrinth, the only route leading to Gray Wolf Village, is no easy task.",
+				[2] = "What kind of trouble is there in Oz's Labyrinth?",
+				[3] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[4] = "^663399§Level 170 or higher^000000",
+				[5] = "^663399§Required Quest for the Great Council^000000",
+				[6] = "",
+				[7] = "<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4242] = {
+		Title = "Q Read the Room (170)",
+		Page = {
+			[1] = {
+				[1] = "Junok, a priest of Rachel, is deeply troubled by the conflict between immigrants and native residents. At Junok's request, investigate what kind of friction exists between the two sides.",
+				[2] = "<TIPBOX>»To the Holy Kingdom<INFO>4221</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4243] = {
+		Title = "Q Even Children Know (170)",
+		Page = {
+			[1] = {
+				[1] = "The adventurer finds a child in a corner of Rachel who seems to be excluded by several friends. What happened? Let's hear it directly from the child.",
+				[2] = "<TIPBOX>»To the Holy Kingdom<INFO>4221</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4244] = {
+		Title = "Q The Price of Labor (170)",
+		Page = {
+			[1] = {
+				[1] = "In a residential area of Rachel, a poorly dressed person keeps sighing and staring at the sky. It seems something is troubling them... Let's hear the story.",
+				[2] = "<TIPBOX>»To the Holy Kingdom<INFO>4221</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Amodifin]<INFO>rachel,181,51,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4245] = {
+		Title = "Q Flower of the Gray Wolf Forest (170)",
+		Page = {
+			[1] = {
+				[1] = "An uncomfortable truth is revealed in an alley of Rachel. Even so, the child refuses to give up and wants to keep trying.",
+				[2] = "<TIPBOX>»To the Holy Kingdom<INFO>4221</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Abused Child]<INFO>rachel,176,80,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Flower Room Work<INFO>4246</INFO></TIPBOX> continues with.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4246] = {
+		Title = "Q Flower Room Work (170)",
+		Page = {
+			[1] = {
+				[1] = "Mejai escaped the mistreatment she suffered in Rachel and started a business in pursuit of her dream. You are the partner who goes to Gray Wolf Forest every day to help with Mejai's business.",
+				[2] = "<TIPBOX>»Flower of the Gray Wolf Forest<INFO>4245</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4247] = {
+		Title = "Q Make Gray Wolf Forest Safer (170)",
+		Page = {
+			[1] = {
+				[1] = "The gatekeeper at the entrance to Gray Wolf Village is constantly troubled by monsters from the forest. It would be nice if someone kind could make Gray Wolf Forest safer.",
+				[2] = "<TIPBOX>»Children in Gray<INFO>4223</INFO></TIPBOX> completed",
+				[3] = "^663399§Level 170 or higher^000000",
+				[4] = "",
+				[5] = "<NAVI>[Camper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4111] = {
+		Title = "Ep17.2 Automatic Series",
+		Page = {
+			[1] = {
+				[1] = "You can exchange <ITEM>[Varmundt Ticket]<INFO>1000103</INFO></ITEM> and <ITEM>[Cor Core]<INFO>1000104</INFO></ITEM>, obtained while progressing through the episode, for various useful items at the Varmundt Mansion inn.",
+				[2] = "",
+				[3] = "^663399§Exchange Location^000000",
+				[4] = "»<NAVI>[Yeoncheong]<INFO>ba_in01,87,383,0,101,0</INFO></NAVI> Automatic Armor Exchange",
+				[5] = "»<NAVI>[Yecheong]<INFO>ba_in01,87,380,0,101,0</INFO></NAVI> Module and Modification Device Exchange",
+				[6] = "»<NAVI>[Cubrain]<INFO>ba_in01,87,376,0,101,0</INFO></NAVI> Upgrade Cube Shop",
+				[7] = "»<NAVI>[Spiera]<INFO>ba_in01,87,373,0,101,0</INFO></NAVI> Automatic Module Exchange",
+				[8] = "",
+				[9] = "^663399§Automatic Series^000000",
+				[10] = "» Requires +9 refined Illusion armor.",
+				[11] = "<ITEM>[Automatic Armor Type A]<INFO>450127</INFO></ITEM>",
+				[12] = "<ITEM>[Automatic Armor Type B]<INFO>450128</INFO></ITEM>",
+				[13] = "<ITEM>[Automatic Engine Wing Type A]<INFO>480020</INFO></ITEM>",
+				[14] = "<ITEM>[Automatic Engine Wing Type B]<INFO>480021</INFO></ITEM>",
+				[15] = "<ITEM>[Automatic Leg Type A]<INFO>470022</INFO></ITEM>",
+				[16] = "<ITEM>[Automatic Leg Type B]<INFO>470023</INFO></ITEM>",
+				[17] = "<ITEM>[Automatic Booster R]<INFO>490024</INFO></ITEM>",
+				[18] = "<ITEM>[Automatic Booster L]<INFO>490025</INFO></ITEM>",
+				[19] = "<ITEM>[Automatic Battle Chip R]<INFO>490026</INFO></ITEM>",
+				[20] = "<ITEM>[Automatic Battle Chip L]<INFO>490027</INFO></ITEM>",
+				[21] = "",
+				[22] = "^663399§Other Items^000000",
+				[23] = "<ITEM>[Illusion Upgrade Cube]<INFO>100251</INFO></ITEM>",
+				[24] = "<ITEM>[Automatic Upgrade Cube]<INFO>100252</INFO></ITEM>",
+				[25] = "",
+				[26] = "<TIPBOX>»Episode 17.2 Legacy of the Wise One<INFO>7068</INFO></TIPBOX>",
+				[27] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[28] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4106] = {
+		Title = "Episode 17",
+		Page = {
+			[1] = {
+				[1] = "While searching across Schwarzwald for a secret laboratory, the Rebellion and Secret Wings discover new hidden research facilities. The time has come to uncover the hidden truth together with the Rebellion.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 17.1 Illusion<INFO>7055</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»Episode 17.2 Legacy of the Wise One<INFO>7068</INFO></TIPBOX>",
+				[5] = "",
+				[6] = "<TIPBOX>»Ep17.1 Illusion, OS Series<INFO>4110</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep17.2 Automatic Series<INFO>4111</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ep17.1 Grace Series<INFO>4114</INFO></TIPBOX>",
+				[9] = "",
+				[10] = "Areas related to Episode 17 can be reached conveniently through Court Magician Nillem, who is visiting Einbroch's 'Cat on a Bullet.'",
+				[11] = "<NAVI>[Court Magician Nillem]<INFO>pub_cat,86,105,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»See Episodes<INFO>4101</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4105] = {
+		Title = "Episode 16",
+		Page = {
+			[1] = {
+				[1] = "Prontera Palace invites the adventurers who took part in the New World expedition to a banquet held in their honor. Attend as guests of Rune-Midgarts' Seven Royal Families and enjoy the banquet.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episode 16.1 Banquet for Heroes<INFO>8118</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»EP 16.2 Terra Gloria<INFO>8143</INFO></TIPBOX>",
+				[5] = "",
+				[6] = "<TIPBOX>»Ep16.1 Honor Token Rewards<INFO>4108</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep16.2 Schwartz Honor Token Rewards<INFO>4109</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ep16.1 Noblesse Series<INFO>4112</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ep16.2 Imperial Series<INFO>4113</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»See Episodes<INFO>4101</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4218] = {
+		Title = "Ep18 Gray Wolf Series",
+		Page = {
+			[1] = {
+				[1] = "You can exchange <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM>, obtained while progressing through the episode, for various useful equipment in Gray Wolf Village.",
+				[2] = "",
+				[3] = "^663399§Exchange Location^000000",
+				[4] = "»<NAVI>[Emmett]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Gray Wolf Series^000000",
+				[7] = "<ITEM>[Gray Wolf Suit]<INFO>450177</INFO></ITEM>",
+				[8] = "<ITEM>[Gray Wolf Robe]<INFO>450178</INFO></ITEM>",
+				[9] = "<ITEM>[Gray Wolf Manteau]<INFO>480091</INFO></ITEM>",
+				[10] = "<ITEM>[Gray Wolf Muffler]<INFO>480090</INFO></ITEM>",
+				[11] = "<ITEM>[Gray Wolf Boots]<INFO>470087</INFO></ITEM>",
+				[12] = "<ITEM>[Gray Wolf Shoes]<INFO>470088</INFO></ITEM>",
+				[13] = "<ITEM>[Gray Wolf Pendant]<INFO>490106</INFO></ITEM>",
+				[14] = "<ITEM>[Gray Wolf Ring]<INFO>490107</INFO></ITEM>",
+				[15] = "<ITEM>[Gray Wolf Earring]<INFO>490108</INFO></ITEM>",
+				[16] = "<ITEM>[Gray Wolf Necklace]<INFO>490109</INFO></ITEM>",
+				[17] = "",
+				[18] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[20] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4219] = {
+		Title = "Ep18 Adulter Fides Series",
+		Page = {
+			[1] = {
+				[1] = "These weapons can be obtained from the Villa of Deception Memorial Dungeon, accessible after clearing the episode.",
+				[2] = "",
+				[3] = "^663399§Adulter Fides Series^000000",
+				[4] = "They can be obtained from the normal difficulty of the Villa of Deception Memorial Dungeon.",
+				[5] = "<ITEM>[Two-Handed Sword]<INFO>600017</INFO></ITEM>",
+				[6] = "<ITEM>[Lance]<INFO>630012</INFO></ITEM>",
+				[7] = "<ITEM>[Guardian Sword]<INFO>500025</INFO></ITEM>",
+				[8] = "<ITEM>[Guardian Spear]<INFO>530013</INFO></ITEM>",
+				[9] = "<ITEM>[Axe]<INFO>520008</INFO></ITEM>",
+				[10] = "<ITEM>[Mace]<INFO>590021</INFO></ITEM>",
+				[11] = "<ITEM>[Rapier]<INFO>500026</INFO></ITEM>",
+				[12] = "<ITEM>[Hall]<INFO>590022</INFO></ITEM>",
+				[13] = "<ITEM>[Chakram]<INFO>610020</INFO></ITEM>",
+				[14] = "<ITEM>[Katar]<INFO>610021</INFO></ITEM>",
+				[15] = "<ITEM>[Dagger]<INFO>510032</INFO></ITEM>",
+				[16] = "<ITEM>[Crossbow]<INFO>700030</INFO></ITEM>",
+				[17] = "<ITEM>[Two-Handed Staff]<INFO>640019</INFO></ITEM>",
+				[18] = "<ITEM>[Rod]<INFO>640020</INFO></ITEM>",
+				[19] = "<ITEM>[Magic Book]<INFO>540019</INFO></ITEM>",
+				[20] = "<ITEM>[Poison Book]<INFO>540020</INFO></ITEM>",
+				[21] = "<ITEM>[Bible]<INFO>540021</INFO></ITEM>",
+				[22] = "<ITEM>[Wand]<INFO>550024</INFO></ITEM>",
+				[23] = "<ITEM>[Knuckle]<INFO>560018</INFO></ITEM>",
+				[24] = "<ITEM>[Claw]<INFO>560019</INFO></ITEM>",
+				[25] = "<ITEM>[Ballista]<INFO>700031</INFO></ITEM>",
+				[26] = "<ITEM>[Aiming Bow]<INFO>700032</INFO></ITEM>",
+				[27] = "<ITEM>[Violin]<INFO>570017</INFO></ITEM>",
+				[28] = "<ITEM>[Chain Rope]<INFO>580017</INFO></ITEM>",
+				[29] = "<ITEM>[Harp]<INFO>570018</INFO></ITEM>",
+				[30] = "<ITEM>[Ribbon]<INFO>580018</INFO></ITEM>",
+				[31] = "<ITEM>[Fuuma Shuriken]<INFO>650008</INFO></ITEM>",
+				[32] = "<ITEM>[Cross Fuuma Shuriken]<INFO>650009</INFO></ITEM>",
+				[33] = "<ITEM>[Revolver]<INFO>800003</INFO></ITEM>",
+				[34] = "<ITEM>[Shotgun]<INFO>820002</INFO></ITEM>",
+				[35] = "<ITEM>[Rifle]<INFO>810002</INFO></ITEM>",
+				[36] = "<ITEM>[Gatling Gun]<INFO>830003</INFO></ITEM>",
+				[37] = "<ITEM>[Launcher]<INFO>840002</INFO></ITEM>",
+				[38] = "<ITEM>[Moon Book]<INFO>540022</INFO></ITEM>",
+				[39] = "<ITEM>[Stardust Book]<INFO>540023</INFO></ITEM>",
+				[40] = "<ITEM>[Soul Stick]<INFO>550025</INFO></ITEM>",
+				[41] = "<ITEM>[Dark Wand]<INFO>550026</INFO></ITEM>",
+				[42] = "<ITEM>[Foxtail Wand]<INFO>550027</INFO></ITEM>",
+				[43] = "<ITEM>[Foxtail Model]<INFO>550028</INFO></ITEM>",
+				[44] = "",
+				[45] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[46] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[47] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4220] = {
+		Title = "Ep18 Vivatus Fides Series",
+		Page = {
+			[1] = {
+				[1] = "These weapons can be obtained from the Villa of Deception Memorial Dungeon, accessible after clearing the episode. They can be acquired on advanced difficulty or crafted by purifying Adulter Fides weapons. The purification ritual requires a +9 refined Adulter Fides weapon.",
+				[2] = "",
+				[3] = "^663399§Purification Ritual Location^000000",
+				[4] = "»<NAVI>[Bamdat]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Vivatus Fides Series^000000",
+				[7] = "<ITEM>[Two-Handed Sword]<INFO>600018</INFO></ITEM>",
+				[8] = "<ITEM>[Lance]<INFO>630013</INFO></ITEM>",
+				[9] = "<ITEM>[Guardian Sword]<INFO>500027</INFO></ITEM>",
+				[10] = "<ITEM>[Guardian Spear]<INFO>530014</INFO></ITEM>",
+				[11] = "<ITEM>[Axe]<INFO>520009</INFO></ITEM>",
+				[12] = "<ITEM>[Mace]<INFO>590023</INFO></ITEM>",
+				[13] = "<ITEM>[Rapier]<INFO>500028</INFO></ITEM>",
+				[14] = "<ITEM>[Hall]<INFO>590024</INFO></ITEM>",
+				[15] = "<ITEM>[Chakram]<INFO>610022</INFO></ITEM>",
+				[16] = "<ITEM>[Katar]<INFO>610023</INFO></ITEM>",
+				[17] = "<ITEM>[Dagger]<INFO>510033</INFO></ITEM>",
+				[18] = "<ITEM>[Crossbow]<INFO>700033</INFO></ITEM>",
+				[19] = "<ITEM>[Two-Handed Staff]<INFO>640021</INFO></ITEM>",
+				[20] = "<ITEM>[Rod]<INFO>640022</INFO></ITEM>",
+				[21] = "<ITEM>[Magic Book]<INFO>540024</INFO></ITEM>",
+				[22] = "<ITEM>[Poison Book]<INFO>540025</INFO></ITEM>",
+				[23] = "<ITEM>[Bible]<INFO>540026</INFO></ITEM>",
+				[24] = "<ITEM>[Wand]<INFO>550029</INFO></ITEM>",
+				[25] = "<ITEM>[Knuckle]<INFO>560020</INFO></ITEM>",
+				[26] = "<ITEM>[Claw]<INFO>560021</INFO></ITEM>",
+				[27] = "<ITEM>[Ballista]<INFO>700034</INFO></ITEM>",
+				[28] = "<ITEM>[Aiming Bow]<INFO>700035</INFO></ITEM>",
+				[29] = "<ITEM>[Violin]<INFO>570019</INFO></ITEM>",
+				[30] = "<ITEM>[Chain Rope]<INFO>580019</INFO></ITEM>",
+				[31] = "<ITEM>[Harp]<INFO>570020</INFO></ITEM>",
+				[32] = "<ITEM>[Ribbon]<INFO>580020</INFO></ITEM>",
+				[33] = "",
+				[34] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[35] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[36] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4216] = {
+		Title = "Episode 18",
+		Page = {
+			[1] = {
+				[1] = "According to information analyzed at Varmundt's Mansion, some members of Illusion appear to be carrying out an operation in Rachel. An adventurer is needed to investigate why they are targeting Rachel.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episode 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "<TIPBOX>»Ep18 Gray Wolf Series<INFO>4218</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Ep18 Adulter Fides Series<INFO>4219</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep18 Vivatus Fides Series<INFO>4220</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»See Episodes<INFO>4101</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4101] = {
+		Title = "Episodes",
+		Page = {
+			[1] = {
+				[1] = "A collection of quests and content that follows the game's major storylines.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episode 13<INFO>4102</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»Episode 14<INFO>4103</INFO></TIPBOX>",
+				[5] = "<TIPBOX>»Episode 15<INFO>4104</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Episode 16<INFO>4105</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Episode 17<INFO>4106</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Episode 18<INFO>4216</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Episode 19<INFO>4256</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Episode 20<INFO>4327</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»Episode 21<INFO>4366</INFO></TIPBOX>",
+				[12] = "",
+				[13] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[14] = "",
+				[15] = "<TIPBOX>»See Quests<INFO>4100</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6015] = {
+		Title = "New World Entry Quests",
+		Page = {
+			[1] = {
+				[1] = "» Entry Quests",
+				[2] = "<TIPBOX>Q Unfulfilled Greed, and Humans to the New World (95)<INFO>6005</INFO></TIPBOX>",
+				[3] = "<TIPBOX>Q Contract with the Cat Hand Agent (95)<INFO>6030</INFO></TIPBOX>",
+				[4] = "[ ! ] Complete either of the two quests to gain access to the New World!",
+				[5] = "",
+				[6] = "» Translator Quest",
+				[7] = "<TIPBOX>Q Translator (95)<INFO>6018</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Ash Vacuum Quests<INFO>6004</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Encounter with the Unknown Quests<INFO>6016</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»El Dicastes Quests<INFO>6028</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	}

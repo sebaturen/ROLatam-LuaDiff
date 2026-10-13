@@ -6600,7 +6600,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^7777777^000000 l ^77777756^000000",
 		"[Nv 8] ^7777778^000000 l ^77777764^000000",
 		"[Nv 9] ^7777779^000000 l ^77777772^000000",
-		"[Nv 10] ^7777710^000000 l ^77777780^000000"
+		"[Nv 10] ^77777110^000000 l ^77777780^000000"
 	},
 	[SKID.SL_SWOO] = {
 		"Eswoo",
@@ -14420,10 +14420,10 @@ SKILL_DESCRIPT = {
 		"Descrição: ^777777Teleporta para Prontera.^000000"
 	},
 	[SKID.ALL_GLASTHEIM_RECALL] = {
-		"Para Glast Heim",
+		"Para Glastheim",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
-		"Descrição: ^777777Teleporta para Glast Heim.^000000"
+		"Descrição: ^777777Teleporta para Glastheim.^000000"
 	},
 	[SKID.ALL_THANATOS_RECALL] = {
 		"Para Thanatos",
@@ -20087,7 +20087,7 @@ SKILL_DESCRIPT = {
 		"O dano aumenta em 50% se o oponente",
 		"estiver com o HP máx. menor que 50%.",
 		"Tem possibilidade do ataque ser crítico.",
-		"A chance é a metade de CRIT do usuário.",
+		"A chance é igual ao CRIT do usuário.",
 		"O dano é afetado pelo nível de base, POD",
 		"e nível aprendido de Físico Autodidata.^000000",
 		"Nível l ATQ l Nv. de Físico Autodidata",
@@ -21934,7 +21934,7 @@ SKILL_DESCRIPT = {
 		"^777777Avança em 1 alvo e causa dano físico",
 		"corpo a corpo de propriedade Neutro que",
 		"ignora a DEF de oponentes ao redor dele.",
-		"O golpes aumentam com as eferas usadas.",
+		"O golpes aumentam com as esferas usadas.",
 		"FOR e nível da Eleanor afetam o dano.^000000",
 		"^000088Consome todas as Esferas.^000000",
 		"Nível l ATQ l Área",

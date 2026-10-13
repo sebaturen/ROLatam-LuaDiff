@@ -2792,7 +2792,7 @@ SkillInfoList_string = {
 		SkillName = "Polvo de Yggdrasil"
 	},
 	[SKID.ECLAGE_RECALL] = {
-		SkillName = "Volver a Eclage"
+		SkillName = "Ir a Eclage"
 	},
 	[SKID.BA_POEMBRAGI2] = {
 		SkillName = "Poema de Bragi"
@@ -2804,13 +2804,16 @@ SkillInfoList_string = {
 		SkillName = "El Mundo de los Muertos"
 	},
 	[SKID.ALL_PRONTERA_RECALL] = {
-		SkillName = "Retirada de Prontera"
+		SkillName = "Ir a Prontera"
+	},
+	[SKID.ALL_GLASTHEIM_RECALL] = {
+		SkillName = "Regreso a Glastheim"
 	},
 	[SKID.ALL_THANATOS_RECALL] = {
-		SkillName = "Para Thanatos"
+		SkillName = "Regreso a Thanatos"
 	},
 	[SKID.ALL_LIGHTHALZEN_RECALL] = {
-		SkillName = "Para Lighthalzen"
+		SkillName = "Regreso a Lighthalzen"
 	},
 	[SKID.GC_DARKCROW] = {
 		SkillName = "Garra Tenebrosa"

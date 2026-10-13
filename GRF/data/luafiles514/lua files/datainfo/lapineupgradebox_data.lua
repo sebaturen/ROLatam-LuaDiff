@@ -20772,6 +20772,448 @@ tblLapineUpgradeBox_data = {
 					24732
 				}
 			}
+		},
+		Hero_LT_Refine_Melee = {
+			ItemID = 100744,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Saint_Hall_LT",
+					590030
+				},
+				{
+					"Undine_Spear_K_LT",
+					530019
+				},
+				{
+					"Demon_Hunting_Bible_LT",
+					540035
+				},
+				{
+					"Light_Blade_LT",
+					500038
+				},
+				{
+					"Magic_Sword_LT",
+					510040
+				},
+				{
+					"Fatalist_LT",
+					510041
+				},
+				{
+					"Iron_Staff_LT",
+					640027
+				},
+				{
+					"Blue_Crystal_Staff_LT",
+					640028
+				},
+				{
+					"Shadow_Staff_K_LT",
+					550045
+				},
+				{
+					"Freezing_Rod_LT",
+					550046
+				},
+				{
+					"Iron_Nail_K_LT",
+					560026
+				},
+				{
+					"Ray_Knuckle_LT",
+					560027
+				},
+				{
+					"Scalet_Dragon_L_Bow_LT",
+					700046
+				},
+				{
+					"Royal_Bow_K_LT",
+					700045
+				},
+				{
+					"Slate_Sword_LT",
+					500040
+				},
+				{
+					"Sword_Of_Bluefire_LT",
+					500039
+				},
+				{
+					"Trumpet_Shell_K_LT",
+					570027
+				},
+				{
+					"Barb_Wire_K_LT",
+					580027
+				},
+				{
+					"Narcis_Bow_LT",
+					700049
+				},
+				{"Avenger_LT", 620015},
+				{
+					"Meteor_Striker_LT",
+					590034
+				},
+				{
+					"Oriental_Sword_LT",
+					600023
+				},
+				{
+					"Dragonic_Slayer_LT",
+					600024
+				},
+				{
+					"Shiver_Katar_K_LT",
+					610033
+				},
+				{
+					"Blade_Katar_LT",
+					610034
+				},
+				{
+					"Humma_Clear_LT",
+					650024
+				},
+				{
+					"Fog_Dew_Sword_LT",
+					510060
+				},
+				{
+					"Crimson_Rose_LT",
+					800013
+				},
+				{
+					"Master_Soul_Rifle_LT",
+					810009
+				},
+				{
+					"Demon_S_Shot_LT",
+					820007
+				},
+				{
+					"The_Black_Gatling_LT",
+					830012
+				},
+				{
+					"Golden_L_Launcher_LT",
+					840008
+				},
+				{
+					"MeawFoxtail_LT",
+					550067
+				},
+				{
+					"OneSkyOneSun_LT",
+					540048
+				},
+				{
+					"SoulWeight_LT",
+					550068
+				},
+				{
+					"Freedom_Stick_LT",
+					550082
+				},
+				{
+					"Blessed_Knife_LT",
+					510072
+				}
+			}
+		},
+		Hero_LT_Refine_Magic = {
+			ItemID = 100745,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Saint_Hall_LT",
+					590030
+				},
+				{
+					"Undine_Spear_K_LT",
+					530019
+				},
+				{
+					"Demon_Hunting_Bible_LT",
+					540035
+				},
+				{
+					"Light_Blade_LT",
+					500038
+				},
+				{
+					"Magic_Sword_LT",
+					510040
+				},
+				{
+					"Fatalist_LT",
+					510041
+				},
+				{
+					"Iron_Staff_LT",
+					640027
+				},
+				{
+					"Blue_Crystal_Staff_LT",
+					640028
+				},
+				{
+					"Shadow_Staff_K_LT",
+					550045
+				},
+				{
+					"Freezing_Rod_LT",
+					550046
+				},
+				{
+					"Iron_Nail_K_LT",
+					560026
+				},
+				{
+					"Ray_Knuckle_LT",
+					560027
+				},
+				{
+					"Scalet_Dragon_L_Bow_LT",
+					700046
+				},
+				{
+					"Royal_Bow_K_LT",
+					700045
+				},
+				{
+					"Slate_Sword_LT",
+					500040
+				},
+				{
+					"Sword_Of_Bluefire_LT",
+					500039
+				},
+				{
+					"Trumpet_Shell_K_LT",
+					570027
+				},
+				{
+					"Barb_Wire_K_LT",
+					580027
+				},
+				{
+					"Narcis_Bow_LT",
+					700049
+				},
+				{"Avenger_LT", 620015},
+				{
+					"Meteor_Striker_LT",
+					590034
+				},
+				{
+					"Oriental_Sword_LT",
+					600023
+				},
+				{
+					"Dragonic_Slayer_LT",
+					600024
+				},
+				{
+					"Shiver_Katar_K_LT",
+					610033
+				},
+				{
+					"Blade_Katar_LT",
+					610034
+				},
+				{
+					"Humma_Clear_LT",
+					650024
+				},
+				{
+					"Fog_Dew_Sword_LT",
+					510060
+				},
+				{
+					"Crimson_Rose_LT",
+					800013
+				},
+				{
+					"Master_Soul_Rifle_LT",
+					810009
+				},
+				{
+					"Demon_S_Shot_LT",
+					820007
+				},
+				{
+					"The_Black_Gatling_LT",
+					830012
+				},
+				{
+					"Golden_L_Launcher_LT",
+					840008
+				},
+				{
+					"MeawFoxtail_LT",
+					550067
+				},
+				{
+					"OneSkyOneSun_LT",
+					540048
+				},
+				{
+					"SoulWeight_LT",
+					550068
+				},
+				{
+					"Freedom_Stick_LT",
+					550082
+				},
+				{
+					"Blessed_Knife_LT",
+					510072
+				}
+			}
+		},
+		Airboat_Manteau_Op_LT = {
+			ItemID = 108007,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Airboat_Manteau_Str_LT",
+					480926
+				},
+				{
+					"Airboat_Manteau_Agi_LT",
+					480927
+				},
+				{
+					"Airboat_Manteau_Vit_LT",
+					480928
+				},
+				{
+					"Airboat_Manteau_Int_LT",
+					480929
+				},
+				{
+					"Airboat_Manteau_Dex_LT",
+					480930
+				},
+				{
+					"Airboat_Manteau_Luk_LT",
+					480931
+				}
+			}
+		},
+		Airboat_Armor_RO_LT = {
+			ItemID = 108086,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Airboat_Armor_Str_LT",
+					450595
+				},
+				{
+					"Airboat_Armor_Agi_LT",
+					450596
+				},
+				{
+					"Airboat_Armor_Vit_LT",
+					450597
+				},
+				{
+					"Airboat_Armor_Int_LT",
+					450598
+				},
+				{
+					"Airboat_Armor_Dex_LT",
+					450599
+				},
+				{
+					"Airboat_Armor_Luk_LT",
+					450600
+				}
+			}
+		},
+		Thanos_11Refine_Cube = {
+			ItemID = 103678,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Thanos_Great_Sword",
+					21009
+				},
+				{
+					"Thanos_Katar",
+					28000
+				},
+				{"Thanos_Axe", 28100},
+				{"Thanos_Rod", 2023},
+				{"Thanos_Bow", 18119},
+				{
+					"Thanos_Sword",
+					13441
+				},
+				{
+					"Thanos_Dagger",
+					13093
+				},
+				{
+					"Thanos_Spear",
+					1438
+				},
+				{
+					"Thanos_Staff",
+					1669
+				},
+				{
+					"Thanos_Knuckle",
+					1836
+				},
+				{
+					"Thanos_Violin",
+					1933
+				},
+				{
+					"Thanos_Whip",
+					1988
+				},
+				{
+					"Thanos_Hammer",
+					16028
+				},
+				{
+					"Thanos_Helm_1",
+					400134
+				},
+				{
+					"Thanos_Helm_2",
+					400141
+				},
+				{
+					"Thanos_Helm_3",
+					400146
+				},
+				{
+					"Thanos_Helm_4",
+					400150
+				}
+			}
 		}
 	},
 	get_lapine_box = function(in_box_id)

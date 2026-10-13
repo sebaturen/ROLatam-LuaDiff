@@ -1781,7 +1781,7 @@
     },
     "pOzSAQ": {
         "en-US": "[Isac Mari]\nIngredients for Mine Helm:\n^3355FFSafety Helmet^000000 1\n^3355FFCandle^000000 1\n^3355FFCrystal Mirror^000000 1\n^3355FFSteel^000000 25",
-        "pt-BR": "[Isac Mari]\nSe quiser fazer um Capacete de Mineiro, você precisará de.\n^3355FFCapacete de Segurança^000000 1\n^3355FFChapéu de Vela^000000 1\n^3355FFEspelho de Cristal^000000 1\n^3355FFAço^000000 25",
+        "pt-BR": "[Isac Mari]\nSe quiser fazer um Capacete de Mineiro, você precisará de:\n^3355FF1 Capacete de Segurança^000000\n^3355FF1 Chapéu de Vela^000000\n^3355FF1 Espelho de Cristal^000000\n^3355FF25 Aços^000000",
         "es-ES": "[Isac Mari]\nIngredientes para el Yelmo de Mina:\n^3355FFCasco de Seguridad^000000 1\n^3355FFCandela^000000 1\n^3355FFEspejo de Cristal^000000 1\n^3355FFAcero^000000 25"
     },
     "pezSAQ": {
@@ -1811,7 +1811,7 @@
     },
     "quzSAQ": {
         "en-US": "[Isac Mari]\nIngredients for Bundle Hat:\n^3355FFTransparent Cloth^000000 150\n^3355FFResin^000000 100\n^3355FFCobaltblue Dyestuffs^000000 1",
-        "pt-BR": "[Isac Mari]\nSe quiser fazer uma Trouxinha.\n^3355FFTecido^000000 150\n^3355FFResina^000000 100\n^3355FFTintura Azul^000000 1",
+        "pt-BR": "[Isac Mari]\nSe quiser fazer uma Trouxinha.\n^3355FF150 Tecidos^000000\n^3355FF100 Resinas^000000\n^3355FF1 Tintura Azul^000000",
         "es-ES": "[Isac Mari]\nIngredientes para Bundle Hat:\n^3355FFTela Transparente^000000 150\n^3355FFResina^000000 100\n^3355FF Colorantes Azul Cobalto^000000 1"
     },
     "q+zSAQ": {
@@ -1851,7 +1851,7 @@
     },
     "suzSAQ": {
         "en-US": "[Isac Mari]\nIngredients for Bankruptcy of Heart:\n^3355FFCirclet(from monster)^000000 1\n^3355FFGold^000000 1\n^3355FFSteel^000000 20\n^3355FFFeather^000000 80\n^3355FFSticky Mucus^000000 800",
-        "pt-BR": "[Isac Mari]\nSe quiser fazer uma Ganância, precisará de.\n^3355FFTiara (mas não a comum vendida por NPCs)^000000 1\n^3355FFOuro^000000 1\n^3355FFAço^000000 20\n^3355FFPluma^000000 80\n^3355FFSticky Mucus^000000 800",
+        "pt-BR": "[Isac Mari]\nSe quiser fazer uma Ganância, precisará de.\n^3355FF1 Tiara (mas não a comum vendida por NPCs)^000000\n^3355FF1 Ouro^000000\n^3355FF20 Aços^000000\n^3355FF80 Plumas^000000\n^3355FF800 Muco Pegajoso^000000",
         "es-ES": "[Isac Mari]\nIngredientes para la Quiebra del Corazón:\n^3355FFCirclet(de monstruo)^000000 1\n^3355FFOro^000000 1\n{Acero^000000 20\n{Pluma ^000000 80\n{Moco pegajoso^000000 800"
     },
     "s+zSAQ": {
@@ -2146,7 +2146,7 @@
     },
     "7ezSAQ": {
         "en-US": "[Zic]\nOk! Ok! I see you wanna have a First Moon Hair Pin, right?\nWait...you seem restless!",
-        "pt-BR": "[Zic]\nOk! Ok! Estou sacando... Vc quer uma 'Presilha de Lua' certo?\nEspere!.... Você vai precisar esperar um pouco.",
+        "pt-BR": "[Zic]\nOk! Ok! Estou sacando... Você quer uma 'Presilha de Lua' certo?\nEspere!.... Você vai precisar esperar um pouco.",
         "es-ES": "[Zic]\n¡Vale! ¡Vale! Veo que quieres una horquilla de la Primera Luna, ¿verdad?\nEspera... ¡pareces inquieto!"
     },
     "7uzSAQ": {

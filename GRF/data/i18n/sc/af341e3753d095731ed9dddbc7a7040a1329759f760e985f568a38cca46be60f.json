@@ -1,17 +1,17 @@
 {
     "APhZDQ": {
         "en-US": "Exorcist",
-        "pt-BR": "Exorcista",
+        "pt-BR": "Jonchosa",
         "es-ES": "Exorcista"
     },
     "AfhZDQ": {
         "en-US": "Welcome.",
-        "pt-BR": "Seja bem-vindo.",
+        "pt-BR": "Boas-vindas.",
         "es-ES": "Bienvenido."
     },
     "AvhZDQ": {
         "en-US": "[Exorcist]\nWelcome.",
-        "pt-BR": "[Exorcista]\nSeja bem-vindo.",
+        "pt-BR": "[Jonchosa]\nBoas-vindas.",
         "es-ES": "[Exorcista]\nBienvenido."
     },
     "A/hZDQ": {
@@ -21,7 +21,7 @@
     },
     "BPhZDQ": {
         "en-US": "[Exorcist]\nAre you all right?",
-        "pt-BR": "[Exorcista]\nVocê está bem?",
+        "pt-BR": "[Jonchosa]\nVocê está bem?",
         "es-ES": "[Exorcista]\n¿Estás bien?"
     },
     "BfhZDQ": {
@@ -31,37 +31,37 @@
     },
     "BvhZDQ": {
         "en-US": "[Exorcist]\nThis is where my household and I reside. From now on, it will also be the hall of learning where you will train repeatedly and learn Taoist arts.",
-        "pt-BR": "[Exorcista]\nÉ o local onde eu e meus familiares vivemos. A partir de agora, também será o salão de aulas onde você treinará repetidamente para aprender e dominar as artes taoístas.",
+        "pt-BR": "[Jonchosa]\nÉ o local onde eu e meus familiares vivemos. A partir de agora, também será o centro onde você treinará repetidamente para aprender e dominar as artes taoístas.",
         "es-ES": "[Exorcista]\nEs el lugar donde vivimos mis allegados y yo. A partir de ahora, también será el salón de aprendizaje donde entrenarás una y otra vez para aprender y dominar las artes daoístas."
     },
     "B/hZDQ": {
         "en-US": "[Exorcist]\nNow, let us begin at once.",
-        "pt-BR": "[Exorcista]\nBem, vamos começar imediatamente.",
+        "pt-BR": "[Jonchosa]\nBem, vamos começar imediatamente.",
         "es-ES": "[Exorcista]\nBien, empecemos de inmediato."
     },
     "CPhZDQ": {
         "en-US": "[Exorcist]\nWhat are Taoist arts?",
-        "pt-BR": "[Exorcista]\nO que são artes taoístas?",
+        "pt-BR": "[Jonchosa]\nO que são artes taoístas?",
         "es-ES": "[Exorcista]\n¿Qué son las artes daoístas?"
     },
     "CfhZDQ": {
         "en-US": "[Exorcist]\nWhat are Taoist arts?\nThey can make snow fall in midsummer!",
-        "pt-BR": "[Exorcista]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!",
+        "pt-BR": "[Jonchosa]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!",
         "es-ES": "[Exorcista]\n¿Qué son las artes daoístas?\n¡Son hacer que nieve en pleno verano!"
     },
     "CvhZDQ": {
         "en-US": "[Exorcist]\nWhat are Taoist arts?\nThey can make snow fall in midsummer!\nShake heaven and earth!",
-        "pt-BR": "[Exorcista]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!\nSacudir os céus e a terra!",
+        "pt-BR": "[Jonchosa]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!\nSacudir os céus e a terra!",
         "es-ES": "[Exorcista]\n¿Qué son las artes daoístas?\n¡Son hacer que nieve en pleno verano!\n¡Sacudir el cielo y la tierra!"
     },
     "C/hZDQ": {
         "en-US": "[Exorcist]\nWhat are Taoist arts?\nThey can make snow fall in midsummer!\nShake heaven and earth!\nChange one's form~",
-        "pt-BR": "[Exorcista]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!\nSacudir os céus e a terra!\nMudar de forma~",
+        "pt-BR": "[Jonchosa]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!\nSacudir os céus e a terra!\nMudar de forma~",
         "es-ES": "[Exorcista]\n¿Qué son las artes daoístas?\n¡Son hacer que nieve en pleno verano!\n¡Sacudir el cielo y la tierra!\nO cambiar de forma~"
     },
     "DPhZDQ": {
         "en-US": "[Exorcist]\nWhat are Taoist arts?\nThey can make snow fall in midsummer!\nShake heaven and earth!\nChange one's form~\nAnd create and scatter clones.",
-        "pt-BR": "[Exorcista]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!\nSacudir os céus e a terra!\nMudar de forma~\nCriar clones e espalhá-los.",
+        "pt-BR": "[Jonchosa]\nO que são artes taoístas?\nÉ fazer a neve cair em pleno verão!\nSacudir os céus e a terra!\nMudar de forma~\nCriar clones e espalhá-los.",
         "es-ES": "[Exorcista]\n¿Qué son las artes daoístas?\n¡Son hacer que nieve en pleno verano!\n¡Sacudir el cielo y la tierra!\nO cambiar de forma~\nY crear copias para esparcirlas."
     },
     "DfhZDQ": {
@@ -81,42 +81,42 @@
     },
     "EPhZDQ": {
         "en-US": "[Exorcist]\nThey are wondrous arts, but by no means mere trickery.",
-        "pt-BR": "[Exorcista]\nSão técnicas incríveis, e de forma alguma, meros truques.",
+        "pt-BR": "[Jonchosa]\nSão técnicas incríveis, e de forma alguma, meros truques.",
         "es-ES": "[Exorcista]\nSon artes asombrosas, pero de ningún modo son simples ilusiones."
     },
     "EfhZDQ": {
         "en-US": "[Exorcist]\nHowever, rather than learning Taoist arts, you should focus on creating the vessel of a Taoist.",
-        "pt-BR": "[Exorcista]\nNo entanto, em vez de aprender artes taoístas, você deverá se concentrar em criar o recipiente de um taoísta.",
+        "pt-BR": "[Jonchosa]\nNo entanto, em vez de aprender artes taoístas, você deverá se concentrar em criar o recipiente de um taoísta.",
         "es-ES": "[Exorcista]\nPero tú deberás centrarte más en crear el recipiente de un daoísta que en aprender artes daoístas."
     },
     "EvhZDQ": {
         "en-US": "[Exorcist]\nThis is to lessen the burden on your body by ^0000CDusing talismans together when handling souls^000000. To use talismans freely, you need the vessel of a Taoist.",
-        "pt-BR": "[Exorcista]\nIsso é para aliviar a carga sobre o corpo ao ^0000CDusar talismãs junto com a manipulação de almas^000000. Para usar talismãs livremente, é necessário o recipiente de um taoísta.",
+        "pt-BR": "[Jonchosa]\nIsso é para aliviar a carga sobre o corpo ao ^0000CDusar talismãs junto com a manipulação de almas^000000. Para usar talismãs livremente, é necessário o recipiente de um taoísta.",
         "es-ES": "[Exorcista]\nEs para aliviar la carga que sufre tu cuerpo al ^0000CDusar talismanes junto con la manipulación de almas^000000. Para usar talismanes con libertad, necesitas el recipiente de un daoísta."
     },
     "E/hZDQ": {
         "en-US": "[Exorcist]\nThen what is a talisman? It is how those who understand the harmony of yin and yang and the principles of the five elements borrow spiritual power through words and images to enact faith.",
-        "pt-BR": "[Exorcista]\nEntão, o que é um talismã? É quando aqueles que compreenderam a harmonia do yin e yang e os princípios dos cinco elementos tomam emprestado o poder espiritual por meio de palavras e desenhos, e agem com fé.",
+        "pt-BR": "[Jonchosa]\nEntão, o que é um talismã? É quando aqueles que compreenderam a harmonia do Yin e Yang e os princípios dos cinco elementos tomam emprestado o poder espiritual por meio de palavras e desenhos, e agem com fé.",
         "es-ES": "[Exorcista]\nEntonces, ¿qué es un talismán? Es la práctica de la fe mediante letras e imágenes, tomando prestado el poder espiritual de quienes han comprendido la armonía del yin y el yang y los principios de los cinco elementos."
     },
     "FPhZDQ": {
         "en-US": "[Exorcist]\nYou must open your five senses, accept everything, and entrust your words and actions to that flow. Then you will gain energy and be able to use Taoist arts and talismans.",
-        "pt-BR": "[Exorcista]\nVocê deverá abrir seus cinco sentidos e aceitar tudo, entregando suas palavras e ações a esse fluxo. Assim, obterá energia para usar artes taoístas e talismãs.",
+        "pt-BR": "[Jonchosa]\nVocê deverá abrir seus cinco sentidos e aceitar tudo, entregando suas palavras e ações a esse fluxo. Assim, obterá energia para usar artes taoístas e talismãs.",
         "es-ES": "[Exorcista]\nDeberás abrir tus cinco sentidos, aceptarlo todo y dejar que tus palabras y acciones sigan ese flujo. Así obtendrás energía para usar artes daoístas y talismanes."
     },
     "FfhZDQ": {
         "en-US": "[Exorcist]\nTo do that, you must spend a thousand years here seeing and hearing a thousand things, dying and returning to life a thousand times, and accumulating a thousand years' worth of energy in your soul.",
-        "pt-BR": "[Exorcista]\nPara isso, você deve passar mil anos aqui, é preciso ver e ouvir mil coisas, morrer e voltar à vida mil vezes, acumulando em sua alma a energia desses mil anos.",
+        "pt-BR": "[Jonchosa]\nPara isso, você deve passar mil anos aqui, é preciso ver e ouvir mil coisas, morrer e voltar à vida mil vezes, acumulando em sua alma a energia desses mil anos.",
         "es-ES": "[Exorcista]\nPara ello, en este lugar deberías ver y oír mil cosas durante mil años, morir y volver a la vida mil veces, y acumular en tu alma la energía de esos mil años."
     },
     "FvhZDQ": {
         "en-US": "[Exorcist]\nThat is the very first step of Taoist arts.",
-        "pt-BR": "[Exorcista]\nEssa é a primeira etapa das artes taoístas.",
+        "pt-BR": "[Jonchosa]\nEssa é a primeira etapa das artes taoístas.",
         "es-ES": "[Exorcista]\nEse es precisamente el primer paso de las artes daoístas."
     },
     "F/hZDQ": {
         "en-US": "[Exorcist]\nLook at this Sol. It tried to skip that process, and ended up turning from a kite into a dog.",
-        "pt-BR": "[Exorcista]\nVeja o Suol. Ao tentar pular esse processo, ele, que era um pássaro, se transformou em um cachorro.",
+        "pt-BR": "[Jonchosa]\nVeja o Suol. Ao tentar pular esse processo, ele, que era um pássaro, se transformou em um cachorro.",
         "es-ES": "[Exorcista]\nMira a Sol. Intentó saltarse ese proceso y acabó transformándose de milano en perro."
     },
     "GPhZDQ": {
@@ -126,22 +126,22 @@
     },
     "GfhZDQ": {
         "en-US": "[Exorcist]\nThis place lies on an ambiguous boundary where the flow of time, space, and life and death are unclear. A thousand years here is but an instant outside.",
-        "pt-BR": "[Exorcista]\nEste é um lugar situado numa fronteira ambígua, onde o fluxo do tempo, o espaço, a vida e a morte se confundem. Mil anos aqui equivalem apenas a um instante lá fora.",
+        "pt-BR": "[Jonchosa]\nEste é um lugar situado numa fronteira ambígua, onde o fluxo do tempo, o espaço, a vida e a morte se confundem. Mil anos aqui equivalem apenas a um instante lá fora.",
         "es-ES": "[Exorcista]\nEste lugar se encuentra en una frontera ambigua entre el flujo del tiempo y el espacio, y entre la vida y la muerte. Mil años aquí no son más que un instante fuera."
     },
     "GvhZDQ": {
         "en-US": "[Exorcist]\nBut that is merely the orthodox method. Neither you nor I have much time, so let us extract only the essence and conduct ^0000CDabbreviated training^000000.",
-        "pt-BR": "[Exorcista]\nMas esse é apenas o método tradicional. Como nem eu, nem você, temos muito tempo, vamos extrair apenas o essencial e fazer um ^0000CDtreinamento mais curto^000000.",
+        "pt-BR": "[Jonchosa]\nMas esse é apenas o método tradicional. Como nem eu, nem você, temos muito tempo, vamos extrair apenas o essencial e fazer um ^0000CDtreinamento mais curto^000000.",
         "es-ES": "[Exorcista]\nPero ese no es más que el método ortodoxo. Como ni tú ni yo disponemos de mucho tiempo, extraeremos solo lo esencial y haremos un ^0000CDentrenamiento abreviado^000000."
     },
     "G/hZDQ": {
         "en-US": "[Exorcist]\nNow, let us begin the training to create the vessel of a Taoist.",
-        "pt-BR": "[Exorcista]\nAgora, vamos iniciar o treinamento para criar o recipiente de um taoísta.",
+        "pt-BR": "[Jonchosa]\nAgora, vamos iniciar o treinamento para criar o recipiente de um taoísta.",
         "es-ES": "[Exorcista]\nBien, ahora empecemos el entrenamiento para crear el recipiente de un daoísta."
     },
     "HPhZDQ": {
         "en-US": "[Exorcist]\nFrom now on, ^0000CDsweep the yard and rekindle the fire in the Fire Pit^000000 to boil water.",
-        "pt-BR": "[Exorcista]\nA partir de agora, ^0000CDvarra o quintal e reacenda as brasas da Fornalha^000000 para ferver água.",
+        "pt-BR": "[Jonchosa]\nA partir de agora, ^0000CDvarra o quintal e reacenda as brasas da Fornalha^000000 para ferver água.",
         "es-ES": "[Exorcista]\nA partir de ahora, ^0000CDbarre el patio y aviva las brasas del Hogar^000000 para hervir agua."
     },
     "HfhZDQ": {
@@ -151,17 +151,17 @@
     },
     "HvhZDQ": {
         "en-US": "[Exorcist]\nDo you truly think they are mere chores? Examining the ground to let pure energy flow and handling fire to make it grow?",
-        "pt-BR": "[Exorcista]\nVocê realmente acha que é apenas trabalho braçal? Observar a terra para fazer fluir uma energia límpida e lidar com o fogo para fazê-lo crescer?",
+        "pt-BR": "[Jonchosa]\nVocê realmente acha que é apenas trabalho braçal? Observar a terra para fazer fluir uma energia límpida e lidar com o fogo para fazê-lo crescer?",
         "es-ES": "[Exorcista]\n¿De verdad te parecen simples tareas domésticas? ¿Examinar la tierra para que fluya una energía pura y manejar el fuego para hacerlo crecer?"
     },
     "H/hZDQ": {
         "en-US": "[Exorcist]\nIf so, I will consider exempting you from this training if you face Sol and win. Surely you would not dismiss training as chores if you cannot even defeat this tiny bird. What will you do?",
-        "pt-BR": "[Exorcista]\nSe pensa assim, vou considerar isentar você deste treinamento caso vença um duelo contra Suol. Se não vencer mesmo este passarinho, não chamará o treinamento de trabalho braçal. O que me diz?",
+        "pt-BR": "[Jonchosa]\nSe pensa assim, vou considerar isentar você deste treinamento caso vença um duelo contra Suol. Se não vencer mesmo este passarinho, não chamará o treinamento de trabalho braçal. O que me diz?",
         "es-ES": "[Exorcista]\nEntonces consideraré eximirte de este entrenamiento si te enfrentas a Sol y ganas. Si ni siquiera puedes vencer a un ave tan pequeña, no llamarás tareas domésticas al entrenamiento. ¿Qué harás?"
     },
     "IPhZDQ": {
         "en-US": "[Exorcist]\nIn any case, even if you train, you must spar with Sol afterward to see the results of your training.",
-        "pt-BR": "[Exorcista]\nDe qualquer forma, mesmo que faça o treinamento, depois de concluí-lo terá de duelar com Suol para verificar os resultados.",
+        "pt-BR": "[Jonchosa]\nDe qualquer forma, mesmo que faça o treinamento, depois de concluí-lo terá de duelar com Suol para verificar os resultados.",
         "es-ES": "[Exorcista]\nDe todos modos, aunque entrenes, después de terminar tendrás que combatir contra Sol para comprobar los resultados."
     },
     "IfhZDQ": {
@@ -176,42 +176,42 @@
     },
     "I/hZDQ": {
         "en-US": "[Exorcist]\nA wise decision. It will surely help you. Sweep the yard first.",
-        "pt-BR": "[Exorcista]\nPensou bem. Certamente será útil para você. Primeiro, varra o quintal.",
+        "pt-BR": "[Jonchosa]\nPensou bem. Certamente será útil para você. Primeiro, varra o quintal.",
         "es-ES": "[Exorcista]\nHas pensado bien. Sin duda te será útil. Barre primero el patio."
     },
     "JPhZDQ": {
         "en-US": "[Exorcist]\nDo you truly intend to spar with Sol?\nHah... If you have eyes but cannot see properly, and ears but cannot hear properly, how are they any different from decorations?",
-        "pt-BR": "[Exorcista]\nVocê realmente quer duelar com Suol?\nHaha... Tem olhos, mas não enxerga direito; tem ouvidos, mas não escuta direito. Então eles só servem de enfeites?",
+        "pt-BR": "[Jonchosa]\nVocê realmente quer duelar com Suol?\nHaha... Tem olhos, mas não enxerga direito; tem ouvidos, mas não escuta direito. Então eles só servem de enfeites?",
         "es-ES": "[Exorcista]\n¿De verdad quieres combatir contra Sol?\nJa... Tienes ojos, pero no ves bien; tienes oídos, pero no oyes bien. ¿En qué se diferencian de meros adornos?"
     },
     "JfhZDQ": {
         "en-US": "[Exorcist]\nSince you wish it, I will let you spar with Sol, but...",
-        "pt-BR": "[Exorcista]\nJá que assim deseja, deixarei que duele com Suol, mas...",
+        "pt-BR": "[Jonchosa]\nJá que assim deseja, deixarei que duele com Suol, mas...",
         "es-ES": "[Exorcista]\nComo así lo deseas, haré que combatas contra Sol, pero..."
     },
     "JvhZDQ": {
         "en-US": "[Exorcist]\nSol~",
-        "pt-BR": "[Exorcista]\nSuol~",
+        "pt-BR": "[Jonchosa]\nSuol~",
         "es-ES": "[Exorcista]\nSol~"
     },
     "J/hZDQ": {
         "en-US": "[Sol]\nPii!",
-        "pt-BR": "[Sol]\nPii!",
+        "pt-BR": "[Suol]\nPii!",
         "es-ES": "[Sol]\n¡Pii!"
     },
     "KPhZDQ": {
         "en-US": "[Exorcist]\nMy lovely Sol~ Bite!!!!",
-        "pt-BR": "[Exorcista]\nSuolzinhoo~ Morde!!!!",
+        "pt-BR": "[Jonchosa]\nSuolzinhoo~ Morde!!!!",
         "es-ES": "[Exorcista]\nMi adorable Sol~ ¡muerde!"
     },
     "KfhZDQ": {
         "en-US": "[Sol]\nPiiit!!!!",
-        "pt-BR": "[Sol]\nPiiit!!!!",
+        "pt-BR": "[Suol]\nPiiiu!!!!",
         "es-ES": "[Sol]\n¡¡¡Piiit!!!"
     },
     "KvhZDQ": {
         "en-US": "[Exorcist]\nWhy seek me out in the middle of training?",
-        "pt-BR": "[Exorcista]\nPor que me procura no meio do treinamento?",
+        "pt-BR": "[Jonchosa]\nPor que me procura no meio do treinamento?",
         "es-ES": "[Exorcista]\n¿Por qué has venido a buscarme en mitad del entrenamiento?"
     },
     "K/hZDQ": {
@@ -221,17 +221,17 @@
     },
     "LPhZDQ": {
         "en-US": "[Exorcist]\nTo prepare meals, of course. Life in the mountains is not so easy.\nDo you know what we do after breakfast? We prepare lunch. Do you know what we do after lunch? We prepare dinner. Water must be boiled all day long.",
-        "pt-BR": "[Exorcista]\nPra preparar a refeição. A vida nas montanhas não é tão fácil.\nSabe o que se faz depois de terminar o café da manhã? Prepara-se o almoço. Sabe o que se faz depois do almoço? Prepara-se o jantar. A água precisa ferver o dia inteiro.",
+        "pt-BR": "[Jonchosa]\nPra preparar a refeição. A vida nas montanhas não é tão fácil.\nSabe o que se faz depois de terminar o café da manhã? Prepara-se o almoço. Sabe o que se faz depois do almoço? Prepara-se o jantar. A água precisa ferver o dia inteiro.",
         "es-ES": "[Exorcista]\nPreparar la comida. La vida en la montaña no es tan sencilla.\n¿Sabes qué hacemos cuando terminamos de desayunar? Preparamos el almuerzo. ¿Y qué hacemos cuando terminamos de almorzar? Preparamos la cena. Hay que hervir agua durante todo el día."
     },
     "LfhZDQ": {
         "en-US": "[Exorcist]\nIf you do not complete your training, the result will be the same no matter how many sparring matches you win. Still, I will not stop you if that is what you wish. Sol, come here.",
-        "pt-BR": "[Exorcista]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele e vença. Ainda assim, se quiser fazer isso, não o impedirei. Sol, venha cá.",
+        "pt-BR": "[Jonchosa]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele e vença. Ainda assim, se quiser fazer isso, não o impedirei. Sol, venha cá.",
         "es-ES": "[Exorcista]\nSi no terminas el entrenamiento, el resultado será el mismo aunque combatas y ganes varias veces. Aun así, si quieres hacerlo, no te detendré. Sol, ven aquí."
     },
     "LvhZDQ": {
         "en-US": "[Exorcist]\nWhy have you come? Do you wish to give up sparring?",
-        "pt-BR": "[Exorcista]\nPor que veio? Quer desistir do duelo?",
+        "pt-BR": "[Jonchosa]\nPor que veio? Quer desistir do duelo?",
         "es-ES": "[Exorcista]\n¿Por qué has venido? ¿Quieres abandonar el combate?"
     },
     "L/hZDQ": {
@@ -246,17 +246,17 @@
     },
     "MfhZDQ": {
         "en-US": "[Exorcist]\nYou understand your current position well now, do you not? Then begin training again.",
-        "pt-BR": "[Exorcista]\nAgora você entende bem sua situação, não é? Então volte a treinar.",
+        "pt-BR": "[Jonchosa]\nAgora você entende bem sua situação, não é? Então volte a treinar.",
         "es-ES": "[Exorcista]\nAhora entiendes bien tu situación, ¿verdad? Entonces vuelve a empezar el entrenamiento."
     },
     "MvhZDQ": {
         "en-US": "[Exorcist]\nGo on. Our Sol is waiting.",
-        "pt-BR": "[Exorcista]\nVá logo. Nosso Suol está esperando, não está?",
+        "pt-BR": "[Jonchosa]\nVá logo. Nosso Suol está esperando, não está?",
         "es-ES": "[Exorcista]\nVe ya. Nuestro Sol te está esperando."
     },
     "M/hZDQ": {
         "en-US": "[Exorcist]\nHmm... You defeated Sol by luck. But what you need is not luck, is it? How could that be called your achievement? So continue your training.",
-        "pt-BR": "[Exorcista]\nHmm... Você venceu Suol por sorte. Mas o que você precisa não é de sorte, certo? Como isso poderia ser uma conquista sua? Portanto, continue o treinamento.",
+        "pt-BR": "[Jonchosa]\nHmm... Você venceu Suol por sorte. Mas o que você precisa não é de sorte, certo? Como isso poderia ser uma conquista sua? Portanto, continue o treinamento.",
         "es-ES": "[Exorcista]\nMmm... Has vencido a Sol por pura suerte. Pero lo que necesitas no es suerte, ¿verdad? ¿Cómo podría llamarse eso un logro tuyo? Así que continúa con el entrenamiento."
     },
     "NPhZDQ": {
@@ -266,47 +266,47 @@
     },
     "NfhZDQ": {
         "en-US": "[Exorcist]\nA wise decision. Then continue your training.",
-        "pt-BR": "[Exorcista]\nPensou bem. Então continue o treinamento.",
+        "pt-BR": "[Jonchosa]\nPensou bem. Então continue o treinamento.",
         "es-ES": "[Exorcista]\nHas pensado bien. Entonces continúa con el entrenamiento."
     },
     "NvhZDQ": {
         "en-US": "[Exorcist]\nIf you do not complete your training, the result will be the same no matter how many sparring matches you win. Still, I will not stop you if that is what you wish. Only our Sol will be excited.",
-        "pt-BR": "[Exorcista]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele e vença. Ainda assim, se quiser fazer isso, não o impedirei. Só o Suol ficará animado.",
+        "pt-BR": "[Jonchosa]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele e vença. Ainda assim, se quiser fazer isso, não o impedirei. Só o Suol ficará animado.",
         "es-ES": "[Exorcista]\nSi no terminas el entrenamiento, el resultado será el mismo aunque combatas y ganes varias veces. Aun así, si quieres hacerlo, no te detendré. Nuestro Sol será el único que se divierta."
     },
     "N/hZDQ": {
         "en-US": "[Exorcist]\nHmm... You know your own skill as it stands now, do you not? You know that you need more training.",
-        "pt-BR": "[Exorcista]\nHmm... Acho que até você entende seu nível atual, não é? E que precisa treinar mais.",
+        "pt-BR": "[Jonchosa]\nHmm... Acho que até você entende seu nível atual, não é? E que precisa treinar mais.",
         "es-ES": "[Exorcista]\nMmm... Tú mismo entenderás cuál es ahora tu nivel, ¿verdad? Y que necesitas más entrenamiento."
     },
     "OPhZDQ": {
         "en-US": "[Exorcist]\nSomething is strange. Wait a moment.",
-        "pt-BR": "[Exorcista]\nHá algo estranho. Espere um momento.",
+        "pt-BR": "[Jonchosa]\nHá algo estranho. Espere um momento.",
         "es-ES": "[Exorcista]\nHay algo extraño. Espera un momento."
     },
     "OfhZDQ": {
         "en-US": "[Exorcist]\nYou have trained enough for now, so spar with our Sol.",
-        "pt-BR": "[Exorcista]\nVocê já treinou o suficiente, então duele com nosso Suol.",
+        "pt-BR": "[Jonchosa]\nVocê já treinou o suficiente, então duele com nosso Suol.",
         "es-ES": "[Exorcista]\nCon eso has entrenado lo suficiente, así que prueba a combatir contra nuestro Sol."
     },
     "OvhZDQ": {
         "en-US": "[Exorcist]\nYou can win, so finish sparring with Sol.",
-        "pt-BR": "[Exorcista]\nVocê pode vencê-lo sem problemas, então termine o duelo contra Suol.",
+        "pt-BR": "[Jonchosa]\nVocê pode vencê-lo sem problemas, então termine o duelo contra Suol.",
         "es-ES": "[Exorcista]\nPuedes ganar sin problema, así que termina de enfrentarte a Sol."
     },
     "O/hZDQ": {
         "en-US": "[Exorcist]\nWill you spar with Sol some more?",
-        "pt-BR": "[Exorcista]\nQuer duelar mais com Suol?",
+        "pt-BR": "[Jonchosa]\nQuer duelar mais com Suol?",
         "es-ES": "[Exorcista]\n¿Quieres combatir un poco más contra Sol?"
     },
     "PPhZDQ": {
         "en-US": "[Exorcist]\nIs your body all right? I will give you another chance, so do well this time.",
-        "pt-BR": "[Exorcista]\nSeu corpo está bem? Darei outra chance, então faça melhor desta vez.",
+        "pt-BR": "[Jonchosa]\nSeu corpo está bem? Darei outra chance, então faça melhor desta vez.",
         "es-ES": "[Exorcista]\n¿Estás bien? Te daré otra oportunidad, así que hazlo bien esta vez."
     },
     "PfhZDQ": {
         "en-US": "[Exorcist]\nYou have excellent potential. You will learn quickly. Let us end this training here and move on to the next.\nSol, guard the house well. I will be back soon.",
-        "pt-BR": "[Exorcista]\nSeu talento é excelente. Aprenderá em pouco tempo. Vamos encerrar este treinamento por aqui e passar ao próximo.\nSuol, cuide bem da casa. Voltarei logo.",
+        "pt-BR": "[Jonchosa]\nSeu talento é excelente. Aprenderá em pouco tempo. Vamos encerrar este treinamento por aqui e passar ao próximo.\nSuol, cuide bem da casa. Voltarei logo.",
         "es-ES": "[Exorcista]\nTienes gran talento. Lo aprenderás enseguida. Daremos por concluido este entrenamiento y pasaremos al siguiente.\nSol, cuida bien la casa. Volveré pronto."
     },
     "PvhZDQ": {
@@ -316,22 +316,22 @@
     },
     "P/hZDQ": {
         "en-US": "[Exorcist]\nWhy are you here? I came just in case. Come now, let us go.",
-        "pt-BR": "[Exorcista]\nPor que você está aqui? Vim conferir, venha. Vamos logo.",
+        "pt-BR": "[Jonchosa]\nPor que você está aqui? Vim conferir, venha. Vamos logo.",
         "es-ES": "[Exorcista]\n¿Por qué estás aquí? Vine por si acaso y te encuentro así. Vamos, date prisa."
     },
     "QPhZDQ": {
         "en-US": "[Exorcist]\nWhat are you doing here?",
-        "pt-BR": "[Exorcista]\nO que está fazendo aqui?",
+        "pt-BR": "[Jonchosa]\nO que está fazendo aqui?",
         "es-ES": "[Exorcista]\n¿Qué haces aquí?"
     },
     "QfhZDQ": {
         "en-US": "[Exorcist]\nSol, did you guard the house well? Is Ho not here yet?",
-        "pt-BR": "[Exorcista]\nSuol, cuidou bem da casa? Ho ainda não chegou?",
+        "pt-BR": "[Jonchosa]\nSuol, cuidou bem da casa? Ho ainda não chegou?",
         "es-ES": "[Exorcista]\nSol, ¿has cuidado bien la casa? ¿Ho aún no ha llegado?"
     },
     "QvhZDQ": {
         "en-US": "[Sol]\nPii-",
-        "pt-BR": "[Sol]\nPii-",
+        "pt-BR": "[Suol]\nPii-",
         "es-ES": "[Sol]\nPii-"
     },
     "Q/hZDQ": {
@@ -341,7 +341,7 @@
     },
     "RPhZDQ": {
         "en-US": "[Exorcist]\nTeacher Seo. Where were you, coming back now only to scold me for being late?",
-        "pt-BR": "[Exorcista]\nSenhor Seo. Por onde andou para só voltar agora e ainda reclamar que cheguei tarde?",
+        "pt-BR": "[Jonchosa]\nSenhor Seo. Por onde andou para só voltar agora e ainda reclamar que cheguei tarde?",
         "es-ES": "[Exorcista]\nSeñor Seo. ¿Dónde estabas para llegar ahora y encima reprocharme que me haya retrasado?"
     },
     "RfhZDQ": {
@@ -351,7 +351,7 @@
     },
     "RvhZDQ": {
         "en-US": "[Exorcist]\nI left the fish on the platform, and I brought plenty of wood, so do not be so quick-tempered.",
-        "pt-BR": "[Exorcista]\nDeixei os peixes sobre a plataforma e também trouxe bastante lenha, então não me venha com essa impaciência.",
+        "pt-BR": "[Jonchosa]\nDeixei os peixes sobre a plataforma e também trouxe bastante lenha, então não me venha com essa impaciência.",
         "es-ES": "[Exorcista]\nHe dejado los peces sobre la tarima y he traído bastante leña, así que no te pongas así con ese carácter impaciente."
     },
     "R/hZDQ": {
@@ -366,7 +366,7 @@
     },
     "SfhZDQ": {
         "en-US": "[Exorcist]\nThis is a short-term disciple I am looking after at the request of an acquaintance. They will soon finish their studies and descend the mountain.",
-        "pt-BR": "[Exorcista]\nÉ um discípulo temporário que estou cuidando a pedido de um conhecido. Logo terminará o aprendizado e descerá da montanha.",
+        "pt-BR": "[Jonchosa]\nÉ um discípulo temporário que estou cuidando a pedido de um conhecido. Logo terminará o aprendizado e descerá da montanha.",
         "es-ES": "[Exorcista]\nEs un discípulo temporal que he aceptado por petición de un conocido. Pronto terminará su aprendizaje y bajará de la montaña."
     },
     "SvhZDQ": {
@@ -391,7 +391,7 @@
     },
     "TvhZDQ": {
         "en-US": "[Exorcist]\nIt is too early to be pleased. The final training remains. ^0000CDClean the fish^000000 we caught together with Teacher Seo.",
-        "pt-BR": "[Exorcista]\nAinda é cedo para ficar contente. Resta o último treinamento. ^0000CDLimpe os peixes^000000 que pegamos com o Senhor Seo.",
+        "pt-BR": "[Jonchosa]\nAinda é cedo para ficar contente. Resta o último treinamento. ^0000CDLimpe os peixes^000000 que pegamos com o Senhor Seo.",
         "es-ES": "[Exorcista]\nAún es pronto para alegrarte. Queda el último entrenamiento. ^0000CDLimpia los peces^000000 que he traído junto con Señor Seo."
     },
     "T/hZDQ": {
@@ -406,7 +406,7 @@
     },
     "UfhZDQ": {
         "en-US": "[Exorcist]\nWhy? Does this also seem like a chore?",
-        "pt-BR": "[Exorcista]\nPor quê? Isso também parece trabalho braçal?",
+        "pt-BR": "[Jonchosa]\nPor quê? Isso também parece trabalho braçal?",
         "es-ES": "[Exorcista]\n¿Por qué? ¿Esto también te parece una tarea doméstica?"
     },
     "UvhZDQ": {
@@ -431,12 +431,12 @@
     },
     "VvhZDQ": {
         "en-US": "[Exorcist]\nYou must calm your mind to clean the fish well without damaging it.",
-        "pt-BR": "[Exorcista]\nÉ preciso acalmar bem a mente para preparar o peixe sem danificá-lo.",
+        "pt-BR": "[Jonchosa]\nÉ preciso acalmar bem a mente para preparar o peixe sem danificá-lo.",
         "es-ES": "[Exorcista]\nDebes calmar la mente para limpiar bien el pez sin dañarlo."
     },
     "V/hZDQ": {
         "en-US": "[Teacher Seo]\nSays the one who can't even clean fish, giving advice. Disciple, do you know why I'm the one cleaning the fish? Exorcist here is... Eek!!! Look at those eyes glaring at me!!",
-        "pt-BR": "[Senhor Seo]\nNem sabe limpar peixe e fica dando palpite. Discípulo, sabe por que sou eu quem limpo os peixes? Essa Exorcista, ela... Argh!!! Olha só esses olhos me encarando!!",
+        "pt-BR": "[Senhor Seo]\nNem sabe limpar peixe e fica dando palpite. Discípulo, sabe por que sou eu quem limpo os peixes? Essa Jonchosa, ela... Argh!!! Olha só esses olhos me encarando!!",
         "es-ES": "[Señor Seo]\nMira quién da consejos sin saber limpiarlos. Discípulo, ¿sabes por qué soy yo quien limpia el pescado? Exorcista, ese tipo... ¡¡Hic!! ¡¡Mira cómo me está fulminando con la mirada!!"
     },
     "WPhZDQ": {
@@ -456,7 +456,7 @@
     },
     "W/hZDQ": {
         "en-US": "[Exorcist]\nI would appreciate it if Teacher Seo would be your opponent.",
-        "pt-BR": "[Exorcista]\nEu agradeceria se o Senhor Seo fosse o seu oponente.",
+        "pt-BR": "[Jonchosa]\nEu agradeceria se o Senhor Seo fosse o seu oponente.",
         "es-ES": "[Exorcista]\nTe agradecería que Señor Seo se encargara de ti."
     },
     "XPhZDQ": {
@@ -466,7 +466,7 @@
     },
     "XfhZDQ": {
         "en-US": "[Exorcist]\nWith that mountain of fish to clean, what business do you have?",
-        "pt-BR": "[Exorcista]\nHá uma montanha de peixes para limpar. O que você quer?",
+        "pt-BR": "[Jonchosa]\nHá uma montanha de peixes para limpar. O que você quer?",
         "es-ES": "[Exorcista]\nCon esa montaña de peces por limpiar, ¿qué necesitas?"
     },
     "XvhZDQ": {
@@ -476,7 +476,7 @@
     },
     "X/hZDQ": {
         "en-US": "[Exorcist]\nYou heard.",
-        "pt-BR": "[Exorcista]\nOuviu?",
+        "pt-BR": "[Jonchosa]\nOuviu?",
         "es-ES": "[Exorcista]\nLo has oído, ¿no?"
     },
     "YPhZDQ": {
@@ -491,7 +491,7 @@
     },
     "YvhZDQ": {
         "en-US": "[Exorcist]\nDid it suit you better than expected? Unfortunately, that is all we brought today. That alone should be enough training, so go finish cleaning them.",
-        "pt-BR": "[Exorcista]\nDescobriu que tem talento para isso? Infelizmente, isso é tudo o que trouxemos hoje. Só isso já será treinamento suficiente, então vá terminar de limpar.",
+        "pt-BR": "[Jonchosa]\nDescobriu que tem talento para isso? Infelizmente, isso é tudo o que trouxemos hoje. Só isso já será treinamento suficiente, então vá terminar de limpar.",
         "es-ES": "[Exorcista]\n¿Después de probarlo, resulta que se te da sorprendentemente bien? Es una pena, pero eso es todo lo que hemos traído hoy. Solo con eso bastará para entrenar, así que ve y termina de limpiarlo."
     },
     "Y/hZDQ": {
@@ -501,7 +501,7 @@
     },
     "ZPhZDQ": {
         "en-US": "[Exorcist]\nKnowing your own abilities is also important. You judged quickly. Now, then, continue your training.",
-        "pt-BR": "[Exorcista]\nEntender as próprias capacidades também é importante. Você julgou rapidamente. Então continue o treinamento.",
+        "pt-BR": "[Jonchosa]\nEntender as próprias capacidades também é importante. Você julgou rapidamente. Então continue o treinamento.",
         "es-ES": "[Exorcista]\nTambién es importante conocer tus propias capacidades. Has tomado una decisión rápida. Bien, entonces continúa con el entrenamiento."
     },
     "ZfhZDQ": {
@@ -511,17 +511,17 @@
     },
     "ZvhZDQ": {
         "en-US": "[Exorcist]\nIs that so? Since you rejected training and confidently requested a sparring match, show us a performance worthy of that.",
-        "pt-BR": "[Exorcista]\nEntão é isso? Recusou o treinamento e pediu um duelo confiante, então mostre algo à altura.",
+        "pt-BR": "[Jonchosa]\nEntão é isso? Recusou o treinamento e pediu um duelo confiante, então mostre algo à altura.",
         "es-ES": "[Exorcista]\n¿Sí? Como rechazaste el entrenamiento y pediste combatir con confianza, muéstranos algo acorde a ello."
     },
     "Z/hZDQ": {
         "en-US": "[Exorcist]\nHmm... You defeated Teacher Seo by luck. But you are still clumsy. At this rate, you can never complete the vessel of a Taoist.",
-        "pt-BR": "[Exorcista]\nHmm... Você venceu o Senhor Seo por sorte. Mas ainda é inexperiente. Desse jeito, jamais conseguirá completar o recipiente de um taoísta.",
+        "pt-BR": "[Jonchosa]\nHmm... Você venceu o Senhor Seo por sorte. Mas ainda é inexperiente. Desse jeito, jamais conseguirá completar o recipiente de um taoísta.",
         "es-ES": "[Exorcista]\nMmm... Has vencido a Señor Seo por pura suerte. Pero aún eres torpe. Así jamás podrás completar el recipiente de un daoísta."
     },
     "aPhZDQ": {
         "en-US": "[Exorcist]\nIf you do not complete your training, the result will be the same no matter how many sparring matches you win. Still, I will not stop you if that is what you wish.",
-        "pt-BR": "[Exorcista]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele e vença. Ainda assim, se quiser fazer isso, não o impedirei.",
+        "pt-BR": "[Jonchosa]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele e vença. Ainda assim, se quiser fazer isso, não o impedirei.",
         "es-ES": "[Exorcista]\nSi no terminas el entrenamiento, el resultado será el mismo aunque combatas y ganes varias veces. Aun así, si quieres hacerlo, no te detendré."
     },
     "afhZDQ": {
@@ -531,12 +531,12 @@
     },
     "avhZDQ": {
         "en-US": "[Exorcist]\nWhat do you think? You know your own skill as it stands now, do you not? You know that you need more training.",
-        "pt-BR": "[Exorcista]\nO que acha? Acho que até você entende seu nível atual, não é? E que precisa treinar mais.",
+        "pt-BR": "[Jonchosa]\nO que acha? Acho que até você entende seu nível atual, não é? E que precisa treinar mais.",
         "es-ES": "[Exorcista]\n¿Qué te parece? Tú mismo entiendes cuál es ahora tu nivel, ¿verdad? Y que necesitas más entrenamiento."
     },
     "a/hZDQ": {
         "en-US": "[Exorcist]\nYou have finished enough training, so spar with Teacher Seo.",
-        "pt-BR": "[Exorcista]\nVocê treinou o suficiente, então duele com Senhor Seo.",
+        "pt-BR": "[Jonchosa]\nVocê treinou o suficiente, então duele com Senhor Seo.",
         "es-ES": "[Exorcista]\nYa has terminado el entrenamiento, así que prueba a combatir contra Señor Seo."
     },
     "bPhZDQ": {
@@ -546,12 +546,12 @@
     },
     "bfhZDQ": {
         "en-US": "[Exorcist]\nContinue your match with Teacher Seo.",
-        "pt-BR": "[Exorcista]\nTermine o duelo contra Senhor Seo.",
+        "pt-BR": "[Jonchosa]\nTermine o duelo contra Senhor Seo.",
         "es-ES": "[Exorcista]\nTermina de enfrentarte a Señor Seo."
     },
     "bvhZDQ": {
         "en-US": "[Exorcist]\nIt seems you are almost there, so try a little more.",
-        "pt-BR": "[Exorcista]\nParece que você está quase lá, tente mais um pouco.",
+        "pt-BR": "[Jonchosa]\nParece que você está quase lá, tente mais um pouco.",
         "es-ES": "[Exorcista]\nParece que solo falta un poco más, así que inténtalo un poco más..."
     },
     "b/hZDQ": {
@@ -561,17 +561,17 @@
     },
     "cPhZDQ": {
         "en-US": "[Exorcist]\nContinue your match with Teacher Seo. I believe you can win with just a little more.",
-        "pt-BR": "[Exorcista]\nTermine o duelo contra o Senhor Seo. Acho que você está quase vencendo.",
+        "pt-BR": "[Jonchosa]\nTermine o duelo contra o Senhor Seo. Acho que você está quase vencendo.",
         "es-ES": "[Exorcista]\nTermina de enfrentarte a Señor Seo. Creo que podrás vencer si sigues un poco más."
     },
     "cfhZDQ": {
         "en-US": "[Exorcist]\nLet me see...",
-        "pt-BR": "[Exorcista]\nVamos ver...",
+        "pt-BR": "[Jonchosa]\nVamos ver...",
         "es-ES": "[Exorcista]\nA ver..."
     },
     "cvhZDQ": {
         "en-US": "[Exorcist]\nDid you get mauled somewhere? Where has all your experience gone?",
-        "pt-BR": "[Exorcista]\nVocê foi se arrebentar em algum lugar? Onde foi parar toda a sua experiência?",
+        "pt-BR": "[Jonchosa]\nVocê foi se arrebentar em algum lugar? Onde foi parar toda a sua experiência?",
         "es-ES": "[Exorcista]\n¿Dónde te han dejado así? ¿Dónde quedó toda tu experiencia?"
     },
     "c/hZDQ": {
@@ -586,7 +586,7 @@
     },
     "dfhZDQ": {
         "en-US": "[Exorcist]\nShould you not first master all the skills you currently possess before learning something new?",
-        "pt-BR": "[Exorcista]\nVocê precisa dominar todas as técnicas que sabe antes de aprender algo novo, não acha?",
+        "pt-BR": "[Jonchosa]\nVocê precisa dominar todas as técnicas que sabe antes de aprender algo novo, não acha?",
         "es-ES": "[Exorcista]\n¿No crees que debes aprender todas las técnicas que ya posees antes de poder aprender otras nuevas?"
     },
     "dvhZDQ": {
@@ -596,7 +596,7 @@
     },
     "d/hZDQ": {
         "en-US": "[Exorcist]\nA mount in this place? You intend to learn something new while riding that? Impossible. Get down at once.",
-        "pt-BR": "[Exorcista]\nMontaria neste lugar? Quer aprender algo novo montado nela? Nem pensar. Desça logo.",
+        "pt-BR": "[Jonchosa]\nMontaria neste lugar? Quer aprender algo novo montado nela? Nem pensar. Desça logo.",
         "es-ES": "[Exorcista]\n¿Una montura en este lugar? ¿Pretendes aprender algo nuevo encima de ella? Ni hablar. Baja de inmediato."
     },
     "ePhZDQ": {
@@ -611,7 +611,7 @@
     },
     "evhZDQ": {
         "en-US": "[Exorcist]\nThis should be enough. You have formed the vessel of a Taoist enough to use Taoist arts and talismans. You may now descend the mountain.",
-        "pt-BR": "[Exorcista]\nIsso é suficiente. O recipiente de um taoísta foi criado a ponto de você poder usar artes taoístas e talismãs. Agora pode descer a montanha.",
+        "pt-BR": "[Jonchosa]\nIsso é suficiente. O recipiente de um taoísta foi criado a ponto de você poder usar artes taoístas e talismãs. Agora pode descer a montanha.",
         "es-ES": "[Exorcista]\nCon esto basta. Has creado el recipiente de un daoísta en la medida necesaria para poder usar artes daoístas y talismanes. Ya puedes bajar de la montaña."
     },
     "e/hZDQ": {
@@ -621,27 +621,27 @@
     },
     "fPhZDQ": {
         "en-US": "[Exorcist]\nYou did not merely work and fight here. You ^0000CDaccepted everything in this place with your whole body^000000. You gained the knowledge learned through work and the energy of each sparring opponent, so it is enough.",
-        "pt-BR": "[Exorcista]\nVocê não apenas trabalhou e lutou neste lugar. Você encarou e aceitou ^0000CDtudo neste lugar de corpo inteiro^000000. Obteve o conhecimento aprendido ao trabalhar e a energia de duelar com cada oponente, então isso é suficiente.",
+        "pt-BR": "[Jonchosa]\nVocê não apenas trabalhou e lutou neste lugar. Você encarou e aceitou ^0000CDtudo neste lugar de corpo inteiro^000000. Obteve o conhecimento aprendido ao trabalhar e a energia de duelar com cada oponente, então isso é suficiente.",
         "es-ES": "[Exorcista]\nNo solo has trabajado y peleado aquí; has aceptado ^0000CDtodo lo de este lugar con todo tu cuerpo^000000, chocando contra ello. Has obtenido el conocimiento aprendido con el trabajo y la energía de cada oponente en los combates. Eso basta."
     },
     "ffhZDQ": {
         "en-US": "[Exorcist]\nDeep in these mountains, all things in the universe exist. Simply seeing and hearing them closely is enough to realize their principles and gain enlightenment.",
-        "pt-BR": "[Exorcista]\nNas profundezas destas montanhas, há todas as coisas do universo. Apenas observar e escutar atentamente essas coisas já permite compreender os princípios e alcançar a iluminação.",
+        "pt-BR": "[Jonchosa]\nNas profundezas destas montanhas, há todas as coisas do universo. Apenas observar e escutar atentamente essas coisas já permite compreender os princípios e alcançar a iluminação.",
         "es-ES": "[Exorcista]\nEn estas montañas profundas se encuentra todo lo que compone el universo. Solo con observarlo y escucharlo detenidamente se comprenden los principios y se alcanza la iluminación."
     },
     "fvhZDQ": {
         "en-US": "[Exorcist]\nYou did not treat any of it carelessly, and gave your best effort. That is enough. You have learned all of yin, yang, and the five elements through your body.",
-        "pt-BR": "[Exorcista]\nVocê não fez nada com displicência; esforçou-se ao máximo em tudo. Isso é suficiente. Você assimilou com o corpo tudo sobre o yin, o yang e os cinco elementos.",
+        "pt-BR": "[Jonchosa]\nVocê não fez nada com displicência; esforçou-se ao máximo em tudo. Isso é suficiente. Você assimilou com o corpo tudo sobre o Yin, o Yang e os cinco elementos.",
         "es-ES": "[Exorcista]\nNo hiciste nada de todo eso a medias y te esforzaste al máximo. Eso basta. Has aprendido con el cuerpo todo sobre el yin, el yang y los cinco elementos."
     },
     "f/hZDQ": {
         "en-US": "[Teacher Seo]\nMaster Jeon. The meal is ready.",
-        "pt-BR": "[Senhor Seo]\nExorcista. A comida está pronta.",
+        "pt-BR": "[Senhor Seo]\nJonchosa. A comida está pronta.",
         "es-ES": "[Señor Seo]\nExorcista. La comida está lista."
     },
     "gPhZDQ": {
         "en-US": "[Exorcist]\nAre you not hungry? We prepared a meal to celebrate the completion of your training, so eat. This is the reward you earned through your efforts today.",
-        "pt-BR": "[Exorcista]\nNão está com fome? Preparamos uma refeição para celebrar o fim do treinamento, então coma. Esta é a recompensa que você conquistou com seu esforço de hoje.",
+        "pt-BR": "[Jonchosa]\nNão está com fome? Preparamos uma refeição para celebrar o fim do treinamento, então coma. Esta é a recompensa que você conquistou com seu esforço de hoje.",
         "es-ES": "[Exorcista]\n¿No tienes hambre? Hemos preparado un banquete para celebrar que has terminado el entrenamiento, así que come. Esta es la recompensa que has ganado con tu esfuerzo de hoy."
     },
     "gfhZDQ": {
@@ -661,27 +661,27 @@
     },
     "hPhZDQ": {
         "en-US": "[Exorcist]\nYin and yang, fire and water, wind and earth, and the energies of the four directions. And the effort to accept them. All of it resides here.",
-        "pt-BR": "[Exorcista]\nYin e yang, fogo e água, vento e terra, e a energia das quatro direções. E o esforço para aceitar tudo isso. Tudo está contido aqui.",
+        "pt-BR": "[Jonchosa]\nYin e yang, fogo e água, vento e terra, e a energia das quatro direções. E o esforço para aceitar tudo isso. Tudo está contido aqui.",
         "es-ES": "[Exorcista]\nEl yin y el yang, el fuego y el agua, el viento y la tierra, y las energías de las cuatro direcciones. Y el esfuerzo por aceptarlas. Todo está contenido aquí."
     },
     "hfhZDQ": {
         "en-US": "[Exorcist]\nYou may have thought they were trivial chores, but all of them were the first lesson of Taoist arts.",
-        "pt-BR": "[Exorcista]\nVocê talvez tenha pensado que fosse apenas trabalho braçal sem importância, mas tudo isso foi o primeiro aprendizado das artes taoístas.",
+        "pt-BR": "[Jonchosa]\nVocê talvez tenha pensado que fosse apenas trabalho braçal sem importância, mas tudo isso foi o primeiro aprendizado das artes taoístas.",
         "es-ES": "[Exorcista]\nPuede que pensaras que eran simples tareas insignificantes, pero todas ellas son precisamente el primer aprendizaje de las artes daoístas."
     },
     "hvhZDQ": {
         "en-US": "[Exorcist]\nIf you express the power to handle souls that you already possess, together with what you accepted and realized here, through talismans, you will be able to walk a new path no one has ever walked before.",
-        "pt-BR": "[Exorcista]\nSe você expressar por meio dos talismãs o poder de lidar com almas que já possui e aquilo que aceitou e compreendeu neste lugar, poderá trilhar um caminho que ninguém jamais percorreu.",
+        "pt-BR": "[Jonchosa]\nSe você expressar por meio dos talismãs o poder de lidar com almas que já possui e aquilo que aceitou e compreendeu neste lugar, poderá trilhar um caminho que ninguém jamais percorreu.",
         "es-ES": "[Exorcista]\nSi despliegas mediante talismanes el poder para manipular almas que ya posees y lo que has aceptado y comprendido aquí, podrás caminar por una nueva senda que nadie ha recorrido hasta ahora."
     },
     "h/hZDQ": {
         "en-US": "[Exorcist]\nAs one who walks a new path, it is only right that I, as your master, give you a new name.",
-        "pt-BR": "[Exorcista]\nComo alguém que trilha um novo caminho, é justo que eu, como mestre, lhe dê um novo nome.",
+        "pt-BR": "[Jonchosa]\nComo alguém que trilha um novo caminho, é justo que eu, como mestre, lhe dê um novo nome.",
         "es-ES": "[Exorcista]\nComo eres alguien que caminará una nueva senda, lo correcto es que, como maestro, te otorgue un nuevo nombre."
     },
     "iPhZDQ": {
         "en-US": "[Exorcist]\n^FF0000Soul Ascetic^000000. That is your new name.\nFrom now on, become a Soul Ascetic who encompasses both the power of a Soul Linker and a Taoist, and spread your will far and wide.",
-        "pt-BR": "[Exorcista]\n^FF0000Asceta das Almas^000000. Esse é o seu novo nome.\nA partir de agora, é um Asceta das Almas que reúne os poderes do invocador de almas e do taoísta, e espalhe amplamente seu ímpeto.",
+        "pt-BR": "[Jonchosa]\n^FF0000Asceta das Almas^000000. Esse é o seu novo nome.\nA partir de agora, é faz parte dos Asceta das Almas que reúne os poderes do ceifador de almas e do taoísta, e espalhe amplamente seu ímpeto.",
         "es-ES": "[Exorcista]\n^FF0000Asceta de Almas^000000. Ese será tu nuevo nombre.\nA partir de ahora, conviértete en Asceta de Almas, que reúne el poder del invocador de almas y del daoísta, y extiende tu voluntad por el mundo."
     },
     "ifhZDQ": {
@@ -691,7 +691,7 @@
     },
     "ivhZDQ": {
         "en-US": "[Exorcist]\nDo not tempt my disciple.",
-        "pt-BR": "[Exorcista]\nNão tente seduzir meu discípulo.",
+        "pt-BR": "[Jonchosa]\nNão tente seduzir meu discípulo.",
         "es-ES": "[Exorcista]\nNo tientes a mi discípulo."
     },
     "i/hZDQ": {
@@ -701,7 +701,7 @@
     },
     "jPhZDQ": {
         "en-US": "[Exorcist]\nThe disciple is not a worker to share your chores.",
-        "pt-BR": "[Exorcista]\nO discípulo não é um empregado para dividir as tarefas com você.",
+        "pt-BR": "[Jonchosa]\nO discípulo não é um empregado para dividir as tarefas com você.",
         "es-ES": "[Exorcista]\nEl discípulo no es un trabajador para repartirse tus tareas."
     },
     "jfhZDQ": {
@@ -711,7 +711,7 @@
     },
     "jvhZDQ": {
         "en-US": "[Exorcist]\nIt is right for the disciple to go out into the world and pursue great aspirations. Look. The disciple now has the vessel of a Taoist along with the ability to handle souls, and possesses the energy to use talismans freely.",
-        "pt-BR": "[Exorcista]\nO correto é que o discípulo saia mundo afora e realize grandes feitos. Veja. Agora, além de manipular almas, o discípulo possui o recipiente de um taoísta e a energia para usar talismãs livremente.",
+        "pt-BR": "[Jonchosa]\nO correto é que o discípulo saia mundo afora e realize grandes feitos. Veja. Agora, além de manipular almas, o discípulo possui o recipiente de um taoísta e a energia para usar talismãs livremente.",
         "es-ES": "[Exorcista]\nLo correcto es que el discípulo salga ahora y cumpla un gran propósito. Mira. Ahora el discípulo posee tanto la capacidad de manipular almas como el recipiente de un daoísta, y la energía necesaria para usar talismanes con libertad."
     },
     "j/hZDQ": {
@@ -721,27 +721,27 @@
     },
     "kPhZDQ": {
         "en-US": "[Exorcist]\nThere is no longer any reason to stay here, so descend the mountain.",
-        "pt-BR": "[Exorcista]\nNão há mais motivo para ficar aqui, então desça a montanha.",
+        "pt-BR": "[Jonchosa]\nNão há mais motivo para ficar aqui, então desça a montanha.",
         "es-ES": "[Exorcista]\nYa no hay motivo para que permanezcas aquí, así que baja de la montaña."
     },
     "kfhZDQ": {
         "en-US": "The wind is nice today. Blaze!",
-        "pt-BR": "Hoje o vento está gostoso. Ardência!",
+        "pt-BR": "Fornalha: Hoje o vento está gostoso.",
         "es-ES": "Hoy sopla buen viento. ¡Fiuu!"
     },
     "kvhZDQ": {
         "en-US": "I hope it does not rain. Blaze!",
-        "pt-BR": "Espero que não chova. Ardência!",
+        "pt-BR": "Fornalha: Espero que não chova.",
         "es-ES": "¿No lloverá, verdad? ¡Fiuu!"
     },
     "k/hZDQ": {
         "en-US": "It would be good to keep adding firewood today. Blaze!",
-        "pt-BR": "Hoje seria bom continuar colocando lenha. Ardência!",
+        "pt-BR": "Fornalha: Hoje seria bom continuar colocando lenha.",
         "es-ES": "Hoy me gustaría que siguieran echando leña. ¡Fiuu!"
     },
     "lPhZDQ": {
         "en-US": "What should we eat today? Blaze!",
-        "pt-BR": "O que vamos comer hoje? Ardência!",
+        "pt-BR": "Fornalha: O que vamos comer hoje?",
         "es-ES": "¿Qué comeremos hoy? ¡Fiuu!"
     },
     "lfhZDQ": {
@@ -761,7 +761,7 @@
     },
     "mPhZDQ": {
         "en-US": "Sol",
-        "pt-BR": "Sol",
+        "pt-BR": "Suol",
         "es-ES": "Sol"
     },
     "mfhZDQ": {
@@ -771,17 +771,17 @@
     },
     "mvhZDQ": {
         "en-US": "[Exorcist]\nDo not touch Sol carelessly. It is a sensitive child.",
-        "pt-BR": "[Exorcista]\nNão toque em Suol sem permissão. Ele é sensível.",
+        "pt-BR": "[Jonchosa]\nNão toque em Suol sem permissão. Ele é sensível.",
         "es-ES": "[Exorcista]\nNo toques a Sol sin permiso. Es muy sensible."
     },
     "m/hZDQ": {
         "en-US": "[Exorcist]\nWould you not become sensitive too if some dreadful Taoist art turned you from a kite flying in the sky into a dog?",
-        "pt-BR": "[Exorcista]\nSe você também fosse um pássaro atingido por uma técnica taoísta terrível e se transformasse em um cão, não ficaria sensível?",
+        "pt-BR": "[Jonchosa]\nSe você também fosse um pássaro atingido por uma técnica taoísta terrível e se transformasse em um cão, não ficaria sensível?",
         "es-ES": "[Exorcista]\nSi a ti te afectara una maldita arte daoísta y pasaras de ser un milano que vuela por el cielo a un perro, ¿no te volverías sensible?"
     },
     "nPhZDQ": {
         "en-US": "Sol",
-        "pt-BR": "Sol",
+        "pt-BR": "Suol",
         "es-ES": "Sol"
     },
     "nfhZDQ": {
@@ -801,12 +801,12 @@
     },
     "oPhZDQ": {
         "en-US": "[Exorcist]\nIt is not time to sweep there.",
-        "pt-BR": "[Exorcista]\nNão é hora de varrer esse lugar.",
+        "pt-BR": "[Jonchosa]\nNão é hora de varrer esse lugar.",
         "es-ES": "[Exorcista]\nNo tocaba barrer ahí."
     },
     "ofhZDQ": {
         "en-US": "[Exorcist]\nWon, do you intend to sweep the yard before even hearing the explanation? Come here.",
-        "pt-BR": "[Exorcista]\nVai varrer o quintal antes mesmo de ouvir a explicação? Venha cá.",
+        "pt-BR": "[Jonchosa]\nVai varrer o quintal antes mesmo de ouvir a explicação? Venha cá.",
         "es-ES": "[Exorcista]\nWon, ¿piensas barrer el patio antes de escuchar la explicación? Ven aquí."
     },
     "ovhZDQ": {
@@ -826,12 +826,12 @@
     },
     "pfhZDQ": {
         "en-US": "[Exorcist]\nThat area is good enough, so sweep somewhere else.",
-        "pt-BR": "[Exorcista]\nAí já basta. Agora, vá varrer outro lugar.",
+        "pt-BR": "[Jonchosa]\nAí já basta. Agora, vá varrer outro lugar.",
         "es-ES": "[Exorcista]\nAhí ya basta, así que barre otra zona."
     },
     "pvhZDQ": {
         "en-US": "[Exorcist]\nDo not slack off, and sweep diligently.",
-        "pt-BR": "[Exorcista]\nFaça um trabalho bem-feito. Varra com dedicação.",
+        "pt-BR": "[Jonchosa]\nFaça um trabalho bem-feito. Varra com dedicação.",
         "es-ES": "[Exorcista]\nNo intentes escaquearte y barre con ganas."
     },
     "p/hZDQ": {
@@ -886,12 +886,12 @@
     },
     "sfhZDQ": {
         "en-US": "[Exorcist]\nThat area is good enough, so now light the Fire Pit.",
-        "pt-BR": "[Exorcista]\nAí já está bom. Agora acenda o fogo da Fornalha.",
+        "pt-BR": "[Jonchosa]\nAí já está bom. Agora acenda o fogo da Fornalha.",
         "es-ES": "[Exorcista]\nAhí ya basta, así que ahora enciende el fuego del Hogar."
     },
     "svhZDQ": {
         "en-US": "[Exorcist]\nPut a little more strength into the hand holding the broom.",
-        "pt-BR": "[Exorcista]\nColoque um pouco mais de força na mão que segura a vassoura.",
+        "pt-BR": "[Jonchosa]\nColoque um pouco mais de força na mão que segura a vassoura.",
         "es-ES": "[Exorcista]\nPon un poco más de fuerza en la mano que sujeta la escoba."
     },
     "s/hZDQ": {
@@ -941,12 +941,12 @@
     },
     "vPhZDQ": {
         "en-US": "[Exorcist]\nIt is not time to light the fire. Sweep the yard first.",
-        "pt-BR": "[Exorcista]\nNão é hora de acender o fogo. Primeiro varra o quintal.",
+        "pt-BR": "[Jonchosa]\nNão é hora de acender o fogo. Primeiro varra o quintal.",
         "es-ES": "[Exorcista]\nNo toca encender el fuego. Barre primero el patio."
     },
     "vfhZDQ": {
         "en-US": "[{0}]\nLet's make the ember grow... Hoo~",
-        "pt-BR": "[{0}]\nVamos acender as brasas... Fuuu~",
+        "pt-BR": "[{0}]\nVamos acender as brasas... Ai ai~",
         "es-ES": "[{0}]\nVamos a avivar las brasas... Fuu~"
     },
     "vvhZDQ": {
@@ -961,17 +961,17 @@
     },
     "wPhZDQ": {
         "en-US": "[Exorcist]\nThe fire is good enough, so come here.",
-        "pt-BR": "[Exorcista]\nO fogo já está bom. Venha cá.",
+        "pt-BR": "[Jonchosa]\nO fogo já está bom. Venha cá.",
         "es-ES": "[Exorcista]\nEl fuego ya basta, así que ven aquí."
     },
     "wfhZDQ": {
         "en-US": "Oh~ Is it already this late? Blaze!!",
-        "pt-BR": "Ah~ Já ficou tão tarde assim? Ardência!!",
+        "pt-BR": "Fornalha: Ah~ Já ficou tão tarde assim?",
         "es-ES": "Oh~ ¿Ya es tan tarde? ¡¡Fiuu!!"
     },
     "wvhZDQ": {
         "en-US": "[Exorcist]\nThere is a technique to lighting a fire.",
-        "pt-BR": "[Exorcista]\nÉ preciso técnica para acender o fogo.",
+        "pt-BR": "[Jonchosa]\nÉ preciso técnica para acender o fogo.",
         "es-ES": "[Exorcista]\nPara encender fuego hace falta maña."
     },
     "w/hZDQ": {
@@ -1071,12 +1071,12 @@
     },
     "1vhZDQ": {
         "en-US": "Why does Master not do it?",
-        "pt-BR": "Por que a Exorcista não faz isso?",
+        "pt-BR": "Por que a Jonchosa não faz isso?",
         "es-ES": "¿Por qué no lo hace el maestro?"
     },
     "1/hZDQ": {
         "en-US": "[Teacher Seo]\nExorcist? It's better if he doesn't.\nExorcist may seem calm now, but he used to be something else. He ran wild all over the place, causing no end of trouble.",
-        "pt-BR": "[Senhor Seo]\nExorcista? É melhor não.\nEla parece calma agora, mas antigamente era impressionante. Dava trabalho por todo lado.",
+        "pt-BR": "[Senhor Seo]\nJonchosa? É melhor não.\nEla parece calma agora, mas antigamente era impressionante. Dava trabalho por todo lado.",
         "es-ES": "[Señor Seo]\n¿Exorcista? Es mejor que él no lo haga.\nExorcista parece tranquilo ahora, pero antes era tremendo. Andaba de aquí para allá dando problemas."
     },
     "2PhZDQ": {
@@ -1106,12 +1106,12 @@
     },
     "3fhZDQ": {
         "en-US": "[Teacher Seo]\nOh, right. We were talking about why Exorcist doesn't clean fish.",
-        "pt-BR": "[Senhor Seo]\nAh. Estávamos falando por que Exorcista não prepara os peixes, não é?",
+        "pt-BR": "[Senhor Seo]\nAh. Estávamos falando por que Jonchosa não prepara os peixes, não é?",
         "es-ES": "[Señor Seo]\nAh, cierto. Hablábamos de por qué Exorcista no limpia pescado."
     },
     "3vhZDQ": {
         "en-US": "[Teacher Seo]\nI told you earlier that Exorcist used to be something else, right? He was a wild, uncontrollable guy. He's calmed down a lot now, but he's still not good at sitting still and doing something quietly. Maybe he never grew up...",
-        "pt-BR": "[Senhor Seo]\nEu disse há pouco que Exorcista era impressionante antigamente, certo? Que era uma pessoa descontrolada. Agora ela está bem mais calma, mas ainda não é bom em ficar sentada, fazendo algo parada. Talvez ainda não tenha amadurecido...",
+        "pt-BR": "[Senhor Seo]\nEu disse há pouco que Jonchosa era impressionante antigamente, certo? Que era uma pessoa descontrolada. Agora ela está bem mais calma, mas ainda não é bom em ficar sentada, fazendo algo parada. Talvez ainda não tenha amadurecido...",
         "es-ES": "[Señor Seo]\nTe dije antes que Exorcista fue tremendo en el pasado, ¿verdad? Que era un tipo descontrolado que no paraba quieto. Ahora se ha calmado bastante, pero aún se le da mal sentarse quieto a hacer algo. Será que no ha madurado del todo..."
     },
     "3/hZDQ": {
@@ -1126,7 +1126,7 @@
     },
     "4fhZDQ": {
         "en-US": "[Teacher Seo]\nActually, looking only at those points, cleaning fish is something Exorcist should be doing, but that temperament of his...",
-        "pt-BR": "[Senhor Seo]\nNa verdade, olhando só por esse lado, quem deveria preparar peixes é Exorcista, mas aquele temperamento...",
+        "pt-BR": "[Senhor Seo]\nNa verdade, olhando só por esse lado, quem deveria preparar peixes é Jonchosa, mas aquele temperamento...",
         "es-ES": "[Señor Seo]\nSi miramos solo esos puntos, en realidad quien debería limpiar pescado es Exorcista, pero con su carácter..."
     },
     "4vhZDQ": {
@@ -1146,12 +1146,12 @@
     },
     "5fhZDQ": {
         "en-US": "[Teacher Seo]\nGo see Exorcist now.",
-        "pt-BR": "[Senhor Seo]\nAgora vá até Exorcista.",
+        "pt-BR": "[Senhor Seo]\nAgora vá até Jonchosa.",
         "es-ES": "[Señor Seo]\nVe ya a ver a Exorcista."
     },
     "5vhZDQ": {
         "en-US": "[Exorcist]\nWon, do you intend to work before even hearing the explanation? Come here.",
-        "pt-BR": "[Exorcista]\nVai trabalhar antes mesmo de ouvir a explicação? Venha cá.",
+        "pt-BR": "[Jonchosa]\nVai trabalhar antes mesmo de ouvir a explicação? Venha cá.",
         "es-ES": "[Exorcista]\nWon, ¿piensas trabajar antes de escuchar la explicación? Ven aquí."
     },
     "5/hZDQ": {
@@ -1171,7 +1171,7 @@
     },
     "6vhZDQ": {
         "en-US": "[Teacher Seo]\nThey're all cleaned!! Go tell Exorcist that you're done. I'll organize these.",
-        "pt-BR": "[Senhor Seo]\nTudo limpo!! Vá até Exorcista e diga que terminou. Eu vou ficar organizando.",
+        "pt-BR": "[Senhor Seo]\nTudo limpo!! Vá até Jonchosa e diga que terminou. Eu vou ficar organizando.",
         "es-ES": "[Señor Seo]\n¡¡Ya están todos limpios!! Ve a decirle a Exorcista que has terminado. Yo me quedaré ordenando esto."
     },
     "6/hZDQ": {
@@ -1256,7 +1256,7 @@
     },
     "+/hZDQ": {
         "en-US": "[Exorcist]\nHo, are you here?",
-        "pt-BR": "[Exorcista]\nHo, está aí?",
+        "pt-BR": "[Jonchosa]\nHo, está aí?",
         "es-ES": "[Exorcista]\nHo, ¿estás aquí?"
     },
     "/PhZDQ": {
@@ -1266,12 +1266,12 @@
     },
     "/fhZDQ": {
         "en-US": "[Exorcist]\nOh, you precious thing. Were you playing here all day? Are you hungry? Tonight, let us eat the fish that Ho likes.",
-        "pt-BR": "[Exorcista]\nAi, que gracinha. Ficou brincando aqui o dia todo? Não está com fome? No jantar de hoje, vamos comer o peixe que você gosta.",
+        "pt-BR": "[Jonchosa]\nAi, que gracinha. Ficou brincando aqui o dia todo? Não está com fome? No jantar de hoje, vamos comer o peixe que você gosta.",
         "es-ES": "[Exorcista]\nAy, preciosidad. ¿Has estado jugando aquí todo el día? ¿No tienes hambre? Esta noche comeremos el pescado que tanto le gusta a Ho."
     },
     "/vhZDQ": {
         "en-US": "[Exorcist]\nCatch ^0000CDfish^000000 here. It would be best to catch them with your bare hands.",
-        "pt-BR": "[Exorcista]\nVocê, tente pescar ^0000CDpeixes^000000 aqui. Seria bom pegá-los com as mãos.",
+        "pt-BR": "[Jonchosa]\nVocê, tente pescar ^0000CDpeixes^000000 aqui. Seria bom pegá-los com as mãos.",
         "es-ES": "[Exorcista]\nTú, prueba a ^0000CDpescar peces^000000 aquí. Será mejor que los atrapes con las manos desnudas."
     },
     "//hZDQ": {
@@ -1281,37 +1281,37 @@
     },
     "APlZDQ": {
         "en-US": "[Exorcist]\nThis is training. Why? Does this not seem like training either? Catching fish that swim quickly through the water is by no means easy.",
-        "pt-BR": "[Exorcista]\nIsto é o treinamento. Por quê? Isso também não parece treinamento? Pegar peixes que nadam rapidamente na água não é nada fácil.",
+        "pt-BR": "[Jonchosa]\nIsto é o treinamento. Por quê? Isso também não parece treinamento? Pegar peixes que nadam rapidamente na água não é nada fácil.",
         "es-ES": "[Exorcista]\nEsto es el entrenamiento. ¿Por qué? ¿También te parece que no es entrenamiento? Atrapar peces que nadan rápidamente en el agua no será nada fácil."
     },
     "AflZDQ": {
         "en-US": "[Exorcist]\nYou need eyes that can follow fast-swimming fish, and hands even faster than that. Breath control is also important. If there is better training than this, tell me.",
-        "pt-BR": "[Exorcista]\nÉ preciso ter olhos capazes de perseguir peixes que nadam velozmente e mãos ainda mais rápidas. Controlar a respiração também é importante. Se houver treinamento melhor do que este, diga-me.",
+        "pt-BR": "[Jonchosa]\nÉ preciso ter olhos capazes de perseguir peixes que nadam velozmente e mãos ainda mais rápidas. Controlar a respiração também é importante. Se houver treinamento melhor do que este, diga-me.",
         "es-ES": "[Exorcista]\nNecesitas ojos capaces de seguir a los peces que nadan rápido y manos aún más rápidas. Controlar la respiración también es importante. Dime si existe un entrenamiento mejor que este."
     },
     "AvlZDQ": {
         "en-US": "[Exorcist]\nYou still look dissatisfied. Then if you face Ho and win, I will consider removing this from the training process. However, if you cannot win, you will train without complaint.",
-        "pt-BR": "[Exorcista]\nVocê ainda parece descontente. Então, se enfrentar Ho e vencer, considerarei retirar isso do treinamento. Mas, se não vencer, terá de treinar sem reclamar.",
+        "pt-BR": "[Jonchosa]\nVocê ainda parece descontente. Então, se enfrentar Ho e vencer, considerarei retirar isso do treinamento. Mas, se não vencer, terá de treinar sem reclamar.",
         "es-ES": "[Exorcista]\nAún tienes cara de queja. Entonces consideraré eliminar esto del proceso de entrenamiento si te enfrentas a Ho y ganas. Pero si no puedes vencer, deberás entrenar sin protestar."
     },
     "A/lZDQ": {
         "en-US": "[Exorcist]\nIn any case, after you finish training, I will have you spar with Ho to see the results. Now, what will you do?",
-        "pt-BR": "[Exorcista]\nDe qualquer forma, depois de concluir o treinamento, farei você duelar com Ho para ver os resultados. Então, o que vai fazer?",
+        "pt-BR": "[Jonchosa]\nDe qualquer forma, depois de concluir o treinamento, farei você duelar com Ho para ver os resultados. Então, o que vai fazer?",
         "es-ES": "[Exorcista]\nAunque de todos modos, después de terminar el entrenamiento, te haré combatir contra Ho para ver los resultados. Bien, ¿qué harás?"
     },
     "BPlZDQ": {
         "en-US": "[Exorcist]\nIt will surely help you. Now catch the fish.",
-        "pt-BR": "[Exorcista]\nCertamente será útil para você. Então, agora pegue os peixes.",
+        "pt-BR": "[Jonchosa]\nCertamente será útil para você. Então, agora pegue os peixes.",
         "es-ES": "[Exorcista]\nSin duda te será útil. Entonces, pesca ahora los peces."
     },
     "BflZDQ": {
         "en-US": "[Exorcist]\nYou wish to spar with Ho?\nDoes it look easy because it is small and cute?",
-        "pt-BR": "[Exorcista]\nVocê quer duelar com Ho?\nAcha que vai ser fácil só porque ele é pequeno e fofinho?",
+        "pt-BR": "[Jonchosa]\nVocê quer duelar com Ho?\nAcha que vai ser fácil só porque ele é pequeno e fofinho?",
         "es-ES": "[Exorcista]\n¿Quieres combatir contra Ho?\n¿Te parece fácil por ser pequeño y adorable?"
     },
     "BvlZDQ": {
         "en-US": "[Exorcist]\nVery well. This is also experience, so do as you wish. Ho, do not hold back.",
-        "pt-BR": "[Exorcista]\nBem, isto também é experiência. Faça como quiser. Ho, não pegue leve.",
+        "pt-BR": "[Jonchosa]\nBem, isto também é experiência. Faça como quiser. Ho, não pegue leve.",
         "es-ES": "[Exorcista]\nBueno, está bien. Esto también es experiencia. Hazlo como quieras. Ho, no te contengas."
     },
     "B/lZDQ": {
@@ -1321,7 +1321,7 @@
     },
     "CPlZDQ": {
         "en-US": "[Exorcist]\nAre you not still training? What business do you have?",
-        "pt-BR": "[Exorcista]\nVocê ainda não está treinando? O que quer?",
+        "pt-BR": "[Jonchosa]\nVocê ainda não está treinando? O que quer?",
         "es-ES": "[Exorcista]\n¿No estabas entrenando? ¿Qué necesitas?"
     },
     "CflZDQ": {
@@ -1331,32 +1331,32 @@
     },
     "CvlZDQ": {
         "en-US": "[Exorcist]\nGood. The fish that live here receive the pure energy of this waterfall, so they are very large and full of vigor. If you are catching them well, it seems your training is bearing fruit. Now return to catching fish.",
-        "pt-BR": "[Exorcista]\nSim, os peixes que vivem aqui recebem a energia pura desta cachoeira, por isso são muito grandes e vigorosos. Se está conseguindo, parece que o treinamento está dando resultado. Agora volte a pescar.",
+        "pt-BR": "[Jonchosa]\nSim, os peixes que vivem aqui recebem a energia pura desta cachoeira, por isso são muito grandes e vigorosos. Se está conseguindo, parece que o treinamento está dando resultado. Agora volte a pescar.",
         "es-ES": "[Exorcista]\nSí, los peces que viven aquí reciben la energía pura de esta cascada, por lo que son muy grandes y vigorosos. Si los estás atrapando bien, parece que el entrenamiento está dando resultado. Ahora vuelve a pescar."
     },
     "C/lZDQ": {
         "en-US": "[Exorcist]\nYou still lack learning, yet you wish to spar with Ho? Then do so. It is also important to learn your limits firsthand.",
-        "pt-BR": "[Exorcista]\nAinda lhe falta aprendizado, mas quer duelar com Ho? Então faça isso. Também é importante perceber seus limites.",
+        "pt-BR": "[Jonchosa]\nAinda lhe falta aprendizado, mas quer duelar com Ho? Então faça isso. Também é importante perceber seus limites.",
         "es-ES": "[Exorcista]\n¿Quieres combatir contra Ho cuando aún te falta aprendizaje? Entonces hazlo. También es importante descubrir los límites con tu propio cuerpo."
     },
     "DPlZDQ": {
         "en-US": "[Exorcist]\nWhy seek me out in the middle of sparring? Do you wish to give up sparring?",
-        "pt-BR": "[Exorcista]\nPor que me procura no meio do duelo? Quer desistir?",
+        "pt-BR": "[Jonchosa]\nPor que me procura no meio do duelo? Quer desistir?",
         "es-ES": "[Exorcista]\n¿Por qué has venido a buscarme en mitad del combate? ¿Quieres abandonar el combate?"
     },
     "DflZDQ": {
         "en-US": "[Exorcist]\nKnowing your own abilities is also important. You judged quickly. Now, then, continue your training.",
-        "pt-BR": "[JExorcista]\nEntender as próprias capacidades também é importante. Você julgou rapidamente. Então continue o treinamento.",
+        "pt-BR": "[JJonchosa]\nEntender as próprias capacidades também é importante. Você julgou rapidamente. Então continue o treinamento.",
         "es-ES": "[Exorcista]\nTambién es importante conocer tus propias capacidades. Has tomado una decisión rápida. Bien, entonces continúa con el entrenamiento."
     },
     "DvlZDQ": {
         "en-US": "[Exorcist]\nSince you rejected training and confidently requested a sparring match, show us a performance worthy of that.",
-        "pt-BR": "[Exorcista]\nRecusou o treinamento e pediu um duelo com confiança, então mostre algo à altura.",
+        "pt-BR": "[Jonchosa]\nRecusou o treinamento e pediu um duelo com confiança, então mostre algo à altura.",
         "es-ES": "[Exorcista]\nComo rechazaste el entrenamiento y pediste combatir con confianza, muéstranos algo acorde a ello."
     },
     "D/lZDQ": {
         "en-US": "[Exorcist]\nHmm... You defeated our Ho by luck. But what you need is not luck, is it? Your movements are still clumsy, so continue training.",
-        "pt-BR": "[Exorcista]\nHmm... Você venceu nosso Ho por sorte. Mas isso não basta, certo? Seus movimentos ainda são inexperientes, então continue o treinamento.",
+        "pt-BR": "[Jonchosa]\nHmm... Você venceu nosso Ho por sorte. Mas isso não basta, certo? Seus movimentos ainda são inexperientes, então continue o treinamento.",
         "es-ES": "[Exorcista]\nMmm... Has vencido a nuestro Ho por pura suerte. Pero lo que necesitas no es suerte, ¿verdad? Tus movimientos aún son torpes, así que continúa con el entrenamiento."
     },
     "EPlZDQ": {
@@ -1366,7 +1366,7 @@
     },
     "EflZDQ": {
         "en-US": "[Exorcist]\nA wise decision. Then finish your training.",
-        "pt-BR": "[Exorcista]\nPensou bem. Então continue a treinar.",
+        "pt-BR": "[Jonchosa]\nPensou bem. Então continue a treinar.",
         "es-ES": "[Exorcista]\nHas pensado bien. Entonces termina el entrenamiento."
     },
     "EvlZDQ": {
@@ -1376,47 +1376,47 @@
     },
     "E/lZDQ": {
         "en-US": "[Exorcist]\nIf you do not complete your training, the result will be the same no matter how many sparring matches you have. Still, I will not stop you if that is what you wish.",
-        "pt-BR": "[Exorcista]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele. Ainda assim, se quiser fazer isso, não o impedirei.",
+        "pt-BR": "[Jonchosa]\nSe não concluir o treinamento, o resultado será o mesmo, não importa quantas vezes duele. Ainda assim, se quiser fazer isso, não o impedirei.",
         "es-ES": "[Exorcista]\nSi no terminas el entrenamiento, el resultado será el mismo aunque combatas varias veces. Aun así, si quieres hacerlo, no te detendré."
     },
     "FPlZDQ": {
         "en-US": "[Exorcist]\nSomething is strange. Give me a moment.",
-        "pt-BR": "[Exorcista]\nHá algo estranho. Aguarde um momento.",
+        "pt-BR": "[Jonchosa]\nHá algo estranho. Aguarde um momento.",
         "es-ES": "[Exorcista]\nHay algo extraño. Dame un momento."
     },
     "FflZDQ": {
         "en-US": "[Exorcist]\nYou have trained enough for now, so spar with Ho. I must see the results of your training.",
-        "pt-BR": "[Exorcista]\nVocê já treinou o bastante, então duele com Ho. Preciso ver os resultados do seu treinamento.",
+        "pt-BR": "[Jonchosa]\nVocê já treinou o bastante, então duele com Ho. Preciso ver os resultados do seu treinamento.",
         "es-ES": "[Exorcista]\nCon eso ya has entrenado lo suficiente, así que prueba a combatir contra Ho. Debo ver los resultados del entrenamiento."
     },
     "FvlZDQ": {
         "en-US": "[Exorcist]\nContinue your match with Ho. It should not be too difficult.",
-        "pt-BR": "[Exorcista]\nTermine o duelo contra Ho. Não será tão difícil.",
+        "pt-BR": "[Jonchosa]\nTermine o duelo contra Ho. Não será tão difícil.",
         "es-ES": "[Exorcista]\nTermina de enfrentarte a Ho. No será tan difícil."
     },
     "F/lZDQ": {
         "en-US": "[Exorcist]\nIs your body all right? I will give you another chance, so do well this time. You can do it.",
-        "pt-BR": "[Exorcista]\nSeu corpo está bem? Darei outra chance, então faça melhor desta vez. Você consegue.",
+        "pt-BR": "[Jonchosa]\nSeu corpo está bem? Darei outra chance, então faça melhor desta vez. Você consegue.",
         "es-ES": "[Exorcista]\n¿Estás bien? Te daré otra oportunidad, así que hazlo bien esta vez. Puedes hacerlo."
     },
     "GPlZDQ": {
         "en-US": "[Exorcist]\nNot bad. We can end the training here and move on to the next. Give me the fish you caught.",
-        "pt-BR": "[Exorcista]\nNada mau. Vamos encerrar o treinamento aqui e passar ao próximo. Entregue-me os peixes que pegou.",
+        "pt-BR": "[Jonchosa]\nNada mau. Vamos encerrar o treinamento aqui e passar ao próximo. Entregue-me os peixes que pegou.",
         "es-ES": "[Exorcista]\nNo está nada mal. Podemos dar por concluido este entrenamiento y pasar al siguiente. Dame los peces que atrapaste."
     },
     "GflZDQ": {
         "en-US": "[Exorcist]\nHo, come when it is time to eat, all right? I will see you later.",
-        "pt-BR": "[Exorcista]\nHo, venha quando for hora de comer, está bem? Até logo.",
+        "pt-BR": "[Jonchosa]\nHo, venha quando for hora de comer, está bem? Até logo.",
         "es-ES": "[Exorcista]\nHo, ven cuando sea hora de comer. Nos vemos luego."
     },
     "GvlZDQ": {
         "en-US": "[Exorcist]\nWhat are you doing here? Come, let us move on.",
-        "pt-BR": "[Exorcista]\nO que está fazendo aqui? Vamos para outro lugar.",
+        "pt-BR": "[Jonchosa]\nO que está fazendo aqui? Vamos para outro lugar.",
         "es-ES": "[Exorcista]\n¿Qué haces aquí? Vayamos a otro lugar."
     },
     "G/lZDQ": {
         "en-US": "[Exorcist]\nYou must not neglect your training.",
-        "pt-BR": "[Exorcista]\nNão se deve negligenciar o treinamento.",
+        "pt-BR": "[Jonchosa]\nNão se deve negligenciar o treinamento.",
         "es-ES": "[Exorcista]\nNo debes descuidar el entrenamiento."
     },
     "HPlZDQ": {
@@ -1431,12 +1431,12 @@
     },
     "HvlZDQ": {
         "en-US": "[Exorcist]\nYou will not catch any more there. It would be best to move.",
-        "pt-BR": "[Exorcista]\nAí já não é possível pegar mais nada. É melhor mudar de lugar.",
+        "pt-BR": "[Jonchosa]\nAí já não é possível pegar mais nada. É melhor mudar de lugar.",
         "es-ES": "[Exorcista]\nAhí ya no pescarás más. Será mejor que cambies de sitio."
     },
     "H/lZDQ": {
         "en-US": "[Exorcist]\nWon, do you intend to catch fish before even hearing the explanation? Come here.",
-        "pt-BR": "[Exorcista]\nVai pescar antes mesmo de ouvir a explicação? Venha cá.",
+        "pt-BR": "[Jonchosa]\nVai pescar antes mesmo de ouvir a explicação? Venha cá.",
         "es-ES": "[Exorcista]\nWon, ¿piensas pescar antes de escuchar la explicación? Ven aquí."
     },
     "IPlZDQ": {
@@ -1456,12 +1456,12 @@
     },
     "I/lZDQ": {
         "en-US": "[Exorcist]\nYou will not catch any more there, so move to another spot.",
-        "pt-BR": "[Exorcista]\nAí você não vai pegar mais nada, mude de lugar.",
+        "pt-BR": "[Jonchosa]\nAí você não vai pegar mais nada, mude de lugar.",
         "es-ES": "[Exorcista]\nAhí ya no pescarás más, así que cambia de sitio."
     },
     "JPlZDQ": {
         "en-US": "[Exorcist]\nDoing that will not make fish come. Do not slack off.",
-        "pt-BR": "[Exorcista]\nFazer isso não vai atrair os peixes. Leve a sério.",
+        "pt-BR": "[Jonchosa]\nFazer isso não vai atrair os peixes. Leve a sério.",
         "es-ES": "[Exorcista]\nHaciendo eso no vendrán los peces. No intentes escaquearte."
     },
     "JflZDQ": {
@@ -1506,7 +1506,7 @@
     },
     "LflZDQ": {
         "en-US": "[Exorcist]\nYou will not catch any there. It would be best to move.",
-        "pt-BR": "[Exorcista]\nAí não conseguirá pegar nada. É melhor mudar de lugar.",
+        "pt-BR": "[Jonchosa]\nAí não conseguirá pegar nada. É melhor mudar de lugar.",
         "es-ES": "[Exorcista]\nAhí no pescarás nada. Será mejor que cambies de sitio."
     },
     "LvlZDQ": {
@@ -1526,12 +1526,12 @@
     },
     "MflZDQ": {
         "en-US": "[Exorcist]\nFish will no longer go that way. It would be best to move.",
-        "pt-BR": "[Exorcista]\nOs peixes não irão mais para esse lado. É melhor mudar de lugar.",
+        "pt-BR": "[Jonchosa]\nOs peixes não irão mais para esse lado. É melhor mudar de lugar.",
         "es-ES": "[Exorcista]\nYa no irán más peces por allí. Será mejor que cambies de sitio."
     },
     "MvlZDQ": {
         "en-US": "[Exorcist]\nIf your mind is unsettled, you cannot even catch a fish that comes into your hands.",
-        "pt-BR": "[Exorcista]\nSe sua mente se dispersar, não conseguirá pegar nem o peixe que estiver na palma da sua mão.",
+        "pt-BR": "[Jonchosa]\nSe sua mente se dispersar, não conseguirá pegar nem o peixe que estiver na palma da sua mão.",
         "es-ES": "[Exorcista]\nSi tu mente se distrae, no podrás atrapar ni siquiera al pez que llega a tu mano."
     },
     "M/lZDQ": {
@@ -1586,12 +1586,12 @@
     },
     "PflZDQ": {
         "en-US": "[Exorcist]\nThat is enough, so come here.",
-        "pt-BR": "[Exorcista]\nIsso já basta. Venha cá.",
+        "pt-BR": "[Jonchosa]\nIsso já basta. Venha cá.",
         "es-ES": "[Exorcista]\nCon eso basta, ven aquí."
     },
     "PvlZDQ": {
         "en-US": "[Exorcist]\nYour posture is good, but you should focus a little more.",
-        "pt-BR": "[Exorcista]\nSua postura é boa, mas seria melhor se concentrar um pouco mais.",
+        "pt-BR": "[Jonchosa]\nSua postura é boa, mas seria melhor se concentrar um pouco mais.",
         "es-ES": "[Exorcista]\nLa postura es buena, pero será mejor que te concentres un poco más."
     },
     "P/lZDQ": {

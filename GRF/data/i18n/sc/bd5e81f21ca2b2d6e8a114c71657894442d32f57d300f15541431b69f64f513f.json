@@ -1,22 +1,22 @@
 {
     "gBJgDQ": {
         "en-US": "Grape: Welcome to the Library of Memories.",
-        "pt-BR": "Grape: Bem-vindo à Biblioteca das Memórias.",
+        "pt-BR": "Uvo: Boas-vindas à Biblioteca das Memórias.",
         "es-ES": "Grape: Bienvenido a la biblioteca de los recuerdos."
     },
     "gRJgDQ": {
         "en-US": "Grape: Well, unlike other libraries, this one is a bit hectic.",
-        "pt-BR": "Grape: Bem, diferente das outras bibliotecas, esta é um pouco caótica.",
+        "pt-BR": "Uvo: Bem, esta é um pouco caótica.",
         "es-ES": "Grape: Bueno, a diferencia de otras bibliotecas, esta es un poco caótica."
     },
     "ghJgDQ": {
         "en-US": "Grape: Many different memories are mixed together, but if it's you, {0}, I'm sure you can find the memory you want.",
-        "pt-BR": "Grape: Há várias memórias misturadas, mas você, {0}, deve conseguir encontrar a memória que procura.",
+        "pt-BR": "Uvo: Há várias memórias misturadas, mas você deve conseguir encontrar a memória que procura, {0}.",
         "es-ES": "Grape: Hay diversos recuerdos mezclados, pero estoy seguro de que tú, {0}, podrás encontrar el que buscas."
     },
     "gxJgDQ": {
         "en-US": "Grape: Then, good luck..",
-        "pt-BR": "Grape: Então, boa sorte..",
+        "pt-BR": "Uvo: Então, boa sorte...",
         "es-ES": "Grape: Entonces, que tengas suerte..."
     },
     "hBJgDQ": {
@@ -106,7 +106,7 @@
     },
     "lRJgDQ": {
         "en-US": "- From within the crack,\n- someone's memory is flowing out along with light.",
-        "pt-BR": "- Pelas fendas da rachadura,\n- a memória de alguém flui junto com a luz.",
+        "pt-BR": "- Pela rachadura, a memória\n- de alguém flui junto com a luz.",
         "es-ES": "- Desde el interior de la grieta,\n- el recuerdo de alguien fluye junto con la luz."
     },
     "lhJgDQ": {
@@ -136,42 +136,42 @@
     },
     "mxJgDQ": {
         "en-US": "Man: Strange rumors about the Memento of the Dead are spreading around Morocc Oasis.",
-        "pt-BR": "Homem: Estranhos rumores sobre Pertences dos Mortos estão circulando em torno do Oásis de Morroc.",
+        "pt-BR": "Homem: Estranhos rumores sobre Espólios estão circulando em torno do Oásis de Morroc.",
         "es-ES": "Hombre: En torno al oasis de Morroc circula un extraño rumor sobre las pertenencias de los muertos."
     },
     "nBJgDQ": {
         "en-US": "[Man]\nStrange rumors about the Memento of the Dead are spreading around Morocc Oasis.",
-        "pt-BR": "[Homem]\nEstranhos rumores sobre Pertences dos Mortos estão circulando em torno do Oásis de Morroc.",
+        "pt-BR": "[Homem]\nEstranhos rumores sobre Espólios estão circulando em torno do Oásis de Morroc.",
         "es-ES": "[Hombre]\nEn torno al oasis de <B>Morroc</B> circula un extraño rumor sobre las pertenencias de los muertos."
     },
     "nRJgDQ": {
         "en-US": "Yellow: Memento of the Dead? Is there even anything about that item worth making rumors about?",
-        "pt-BR": "Amarelo: Pertences dos Mortos? Há algo nesse item que possa gerar um rumor?",
+        "pt-BR": "Amarelo: Espólios? Há algo nesse item que possa gerar um rumor?",
         "es-ES": "Amarillo: ¿Pertenencias de los muertos? ¿Hay algo en ese objeto que pueda dar pie a rumores?"
     },
     "nhJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nMemento of the Dead? Is there even anything about that item worth making rumors about?",
-        "pt-BR": "[<B>Amare</B>lo]\nPertences dos Mortos? Há algo nesse item que possa gerar um rumor?",
+        "pt-BR": "[<B>Amarelo</B>]\nEspólios? Há algo nesse item que possa gerar um rumor?",
         "es-ES": "[<B>Amarillo</B>]\n¿Pertenencias de los muertos? ¿Hay algo en ese objeto que pueda dar pie a rumores?"
     },
     "nxJgDQ": {
         "en-US": "Man: The rumor says that, due to someone's mistake, undead monsters came to possess undead monsters,",
-        "pt-BR": "Homem: Dizem que, por erro de alguém, os Pertences dos Mortos acabaram ficando com monstros mortos-vivos,",
+        "pt-BR": "Homem: Dizem que, por erro de alguém, os Espólios acabaram ficando com monstros mortos-vivos,",
         "es-ES": "Hombre: Se rumorea que, por error de alguien, las pertenencias de los muertos acabaron en manos de monstruos no muertos"
     },
     "oBJgDQ": {
         "en-US": "[Man]\nThe rumor says that, due to someone's mistake, undead monsters came to possess undead monsters,",
-        "pt-BR": "[Homem]\nDizem que, por erro de alguém, os Pertences dos Mortos acabaram ficando com monstros mortos-vivos,",
+        "pt-BR": "[Homem]\nDizem que, por erro de alguém, os Espólios acabaram ficando com monstros mortos-vivos,",
         "es-ES": "[Hombre]\nSe rumorea que, por error de alguien, las pertenencias de los muertos acabaron en manos de monstruos no muertos"
     },
     "oRJgDQ": {
         "en-US": "Man: and that they will later be changed into Old Blue Boxes..",
-        "pt-BR": "Homem: e que mais tarde serão alterados para Caixas Azuis Antigas..",
+        "pt-BR": "Homem: e que mais tarde serão alterados para Velhas Caixas Azuis..",
         "es-ES": "Hombre: y que más adelante serán cambiadas por cajas azules antiguas..."
     },
     "ohJgDQ": {
         "en-US": "[Man]\nand that they will later be changed into Old Blue Boxes..",
-        "pt-BR": "[Homem]\ne que mais tarde serão alterados para Caixas Azuis Antigas..",
+        "pt-BR": "[Homem]\ne que mais tarde serão alterados para Velhas Caixas Azuis..",
         "es-ES": "[Hombre]\ny que más adelante serán cambiadas por cajas azules antiguas..."
     },
     "oxJgDQ": {
@@ -181,7 +181,7 @@
     },
     "pBJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nWhat kind of absurd rumor is that? Are there fools who believe it?",
-        "pt-BR": "[<B>Amare</B>lo]\nQue tipo de rumor absurdo é esse? Existem idiotas que acreditam nisso?",
+        "pt-BR": "[<B>Amarelo</B>]\nQue tipo de rumor absurdo é esse? Existem idiotas que acreditam nisso?",
         "es-ES": "[<B>Amarillo</B>]\n¿Qué clase de rumor tan absurdo es ese? ¿Hay idiotas que se lo crean?"
     },
     "pRJgDQ": {
@@ -201,7 +201,7 @@
     },
     "qBJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nNo? No, wait.. This may actually be something I can use for my plan.",
-        "pt-BR": "[<B>Amare</B>lo]\nNão? Não, espera.. Isso pode até ser usado a favor do meu plano.",
+        "pt-BR": "[<B>Amarelo</B>]\nNão? Não, espera.. Isso pode até ser usado a favor do meu plano.",
         "es-ES": "[<B>Amarillo</B>]\n¿No? No... Más bien, esto podría aprovecharlo para mis planes."
     },
     "qRJgDQ": {
@@ -216,12 +216,12 @@
     },
     "qxJgDQ": {
         "en-US": "Yellow: How much do merchants pay when they buy Mementos of the Dead?",
-        "pt-BR": "Amarelo: Quanto os mercadores pagam ao comprar Pertences dos Mortos?",
+        "pt-BR": "Amarelo: Quanto os mercadores pagam ao comprar Espólios?",
         "es-ES": "Amarillo: ¿A cuánto compran los mercaderes las pertenencias de los muertos?"
     },
     "rBJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nHow much do merchants pay when they buy Mementos of the Dead?",
-        "pt-BR": "[<B>Amare</B>lo]\nQuanto os mercadores pagam ao comprar Pertences dos Mortos?",
+        "pt-BR": "[<B>Amarelo</B>]\nQuanto os mercadores pagam ao comprar Espólios?",
         "es-ES": "[<B>Amarillo</B>]\n¿A cuánto compran los mercaderes las pertenencias de los muertos?"
     },
     "rRJgDQ": {
@@ -236,12 +236,12 @@
     },
     "rxJgDQ": {
         "en-US": "Yellow: Good! From now on, go to the fronts of Payon Dungeon and the Morocc Ruins and buy them all up.",
-        "pt-BR": "Amarelo: Ótimo! A partir de agora, vá para a frente do Calabouço Subterrâneo de Payon e das Ruínas de Morroc e compre tudo.",
+        "pt-BR": "Amarelo: Ótimo! A partir de agora, vá para a frente da Caverna de Payon e das Ruínas de Morroc e compre tudo.",
         "es-ES": "Amarillo: ¡Bien! A partir de ahora, ve a la entrada de la mazmorra subterránea de Payon y a las ruinas de Morroc y cómpralas todas."
     },
     "sBJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nGood! From now on, go to the fronts of Payon Dungeon and the Morocc Ruins and buy them all up.",
-        "pt-BR": "[<B>Amare</B>lo]\nÓtimo! A partir de agora, vá para a frente do Calabouço Subterrâneo de Payon e das Ruínas de Morroc e compre tu<B>do</B>.",
+        "pt-BR": "[<B>Amarelo</B>]\nÓtimo! A partir de agora, vá para a frente da Caverna de Payon e das Ruínas de Morroc e compre <B>tudo</B>.",
         "es-ES": "[<B>Amarillo</B>]\n¡Bien! A partir de ahora, ve a la entrada de la mazmorra subterránea de Payon y a las ruinas de <B>Morroc</B> y cómpralas todas."
     },
     "sRJgDQ": {
@@ -251,7 +251,7 @@
     },
     "shJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nHowever! Adjust the purchase price according to market conditions, starting at 230 Zeny and allowing up to 400 Zeny.",
-        "pt-BR": "[<B>Amare</B>lo]\nMas! Ajuste o preço de compra conforme a situação do mercado, começando em 230 zeny e permitindo até no máximo 400 zeny.",
+        "pt-BR": "[<B>Amarelo</B>]\nMas! Ajuste o preço de compra conforme a situação do mercado, começando em 230 zeny e permitindo até no máximo 400 zeny.",
         "es-ES": "[<B>Amarillo</B>]\nEso sí, ajusta el precio de compra según la situación del mercado. Empieza en 230 zenis y permite un máximo de 400 zenis."
     },
     "sxJgDQ": {
@@ -261,7 +261,7 @@
     },
     "tBJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nOnce we sweep up that much, people who don't know anything and want to join in on the false rumor will spring up everywhere.",
-        "pt-BR": "[<B>Amare</B>lo]\nSe varrermos o suficiente, surgirá uma multidão de gente ignorante querendo entrar nesse boato sem pensar.",
+        "pt-BR": "[<B>Amarelo</B>]\nSe varrermos o suficiente, surgirá uma multidão de gente ignorante querendo entrar nesse boato sem pensar.",
         "es-ES": "[<B>Amarillo</B>]\nSi acaparamos hasta ese punto, surgirán como setas tipos que, sin saber nada, querrán sumarse al falso rumor."
     },
     "tRJgDQ": {
@@ -271,7 +271,7 @@
     },
     "thJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nSecuring the supply early is important.",
-        "pt-BR": "[<B>Amare</B>lo]\nÉ importante garantir o estoque no início.",
+        "pt-BR": "[<B>Amarelo</B>]\nÉ importante garantir o estoque no início.",
         "es-ES": "[<B>Amarillo</B>]\nLo importante es asegurar existencias al principio."
     },
     "txJgDQ": {
@@ -281,7 +281,7 @@
     },
     "uBJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nWe'll ride this madness, make a tidy profit, and get out. Begin.",
-        "pt-BR": "[<B>Amare</B>lo]\nVamos pegar carona nessa loucura, lucrar bastante e cair fora. Comece.",
+        "pt-BR": "[<B>Amarelo</B>]\nVamos pegar carona nessa loucura, lucrar bastante e cair fora. Comece.",
         "es-ES": "[<B>Amarillo</B>]\nNos subiremos a esta locura, nos llevaremos una buena tajada y nos iremos. Empieza."
     },
     "uRJgDQ": {
@@ -291,32 +291,32 @@
     },
     "uhJgDQ": {
         "en-US": "Merchant: Hahaha.. You have gathered an incredible number of Mementos of the Dead.",
-        "pt-BR": "Mercador: Hahaha.. Você reuniu uma quantidade enorme de Pertences dos Mortos.",
+        "pt-BR": "Mercador: Hahaha.. Você reuniu uma quantidade enorme de Espólios.",
         "es-ES": "Mercader: Ja, ja, ja... Ha reunido usted una cantidad enorme de pertenencias de los muertos."
     },
     "uxJgDQ": {
         "en-US": "[Merchant]\nHahaha.. You have gathered an incredible number of Mementos of the Dead.",
-        "pt-BR": "[Mercador]\nHahaha.. Você reuniu uma quantidade enorme de Pertences dos Mortos.",
+        "pt-BR": "[Mercador]\nHahaha.. Você reuniu uma quantidade enorme de Espólios.",
         "es-ES": "[Mercader]\nJa, ja, ja... Ha reunido usted una cantidad enorme de pertenencias de los muertos."
     },
     "vBJgDQ": {
         "en-US": "Merchant: According to my information, the item they will become is almost certainly the Old Blue Box..",
-        "pt-BR": "Mercador: Segundo as informações, é quase certo que o item alterado será a Caixa Azul Antiga..",
+        "pt-BR": "Mercador: Segundo as informações, é quase certo que o item alterado será a Velha Caixa Azul..",
         "es-ES": "Mercader: Según la información, es casi seguro que el objeto al que cambiarán será una caja azul antigua..."
     },
     "vRJgDQ": {
         "en-US": "[Merchant]\nAccording to my information, the item they will become is almost certainly the Old Blue Box..",
-        "pt-BR": "[Mercador]\nSegundo as informações, é quase certo que o item alterado será a Caixa Azul Antiga..",
+        "pt-BR": "[Mercador]\nSegundo as informações, é quase certo que o item alterado será a Velha Caixa Azul..",
         "es-ES": "[Mercader]\nSegún la información, es casi seguro que el objeto al que cambiarán será una caja azul antigua..."
     },
     "vhJgDQ": {
         "en-US": "Merchant: I hear there will soon be an announcement regarding the Memento of the Dead. You could sell them then..",
-        "pt-BR": "Mercador: Ouvi um rumor de que em breve haverá um anúncio sobre os Pertences dos Mortos. Seria melhor vendê-los nessa hora..",
+        "pt-BR": "Mercador: Ouvi um rumor de que em breve haverá um anúncio sobre os Espólios. Seria melhor vendê-los nessa hora..",
         "es-ES": "Mercader: Y hay rumores de que pronto habrá un anuncio relacionado con las pertenencias de los muertos. Podría venderlas entonces..."
     },
     "vxJgDQ": {
         "en-US": "[Merchant]\nI hear there will soon be an announcement regarding the Memento of the Dead. You could sell them then..",
-        "pt-BR": "[Mercador]\nOuvi um rumor de que em breve haverá um anúncio sobre os Pertences dos Mortos. Seria melhor vendê-los nessa hora..",
+        "pt-BR": "[Mercador]\nOuvi um rumor de que em breve haverá um anúncio sobre os Espólios. Seria melhor vendê-los nessa hora..",
         "es-ES": "[Mercader]\nY hay rumores de que pronto habrá un anuncio relacionado con las pertenencias de los muertos. Podría venderlas entonces..."
     },
     "wBJgDQ": {
@@ -336,7 +336,7 @@
     },
     "wxJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nI believe the rumor too. But what can I do?",
-        "pt-BR": "[<B>Amare</B>lo]\nEsta jovem também acredita nesse rumor. Mas fazer o quê?",
+        "pt-BR": "[<B>Amarelo</B>]\nEsta jovem também acredita nesse rumor. Mas fazer o quê?",
         "es-ES": "[<B>Amarillo</B>]\nYo también estoy convencida de ese rumor. Pero ¿qué se le va a hacer?"
     },
     "xBJgDQ": {
@@ -346,7 +346,7 @@
     },
     "xRJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nFather says he'll kick me out of the house if I don't stop doing strange things and come home immediately.",
-        "pt-BR": "[<B>Amare</B>lo]\nMeu pai disse que, se eu não parar com essas maluquices e voltar imediatamente, vai me expulsar de casa.",
+        "pt-BR": "[<B>Amarelo</B>]\nMeu pai disse que, se eu não parar com essas maluquices e voltar imediatamente, vai me expulsar de casa.",
         "es-ES": "[<B>Amarillo</B>]\nMi padre dice que, si no dejo de hacer rarezas y vuelvo de inmediato, me echará de casa."
     },
     "xhJgDQ": {
@@ -361,32 +361,32 @@
     },
     "yBJgDQ": {
         "en-US": "Merchant: Very well. I will purchase every Memento of the Dead you have.",
-        "pt-BR": "Mercador: Muito bem. Comprarei todos os Pertences dos Mortos que a senhorita possui.",
+        "pt-BR": "Mercador: Muito bem. Comprarei todos os Espólios que a senhorita possui.",
         "es-ES": "Mercader: Muy bien. Compraré todas las pertenencias de los muertos que tenga."
     },
     "yRJgDQ": {
         "en-US": "[Merchant]\nVery well. I will purchase every Memento of the Dead you have.",
-        "pt-BR": "[Mercador]\nMuito bem. Comprarei todos os Pertences dos Mortos que a senhorita possui.",
+        "pt-BR": "[Mercador]\nMuito bem. Comprarei todos os Espólios que a senhorita possui.",
         "es-ES": "[Mercader]\nMuy bien. Compraré todas las pertenencias de los muertos que tenga."
     },
     "yhJgDQ": {
         "en-US": "Yellow: Thank you. The current market price is 1,500 Zeny, right?",
-        "pt-BR": "Amarelo: Obrigada. O preço atual é 1500 zeny, não é?",
+        "pt-BR": "Amarelo: Obrigada. O preço atual é 1.500 zeny, não é?",
         "es-ES": "Amarillo: Gracias. El precio de mercado actual era de 1500 zenis, ¿verdad?"
     },
     "yxJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nThank you. The current market price is 1,500 Zeny, right?",
-        "pt-BR": "[<B>Amare</B>lo]\nObrigada. O preço atual é 1500 zeny, não é?",
+        "pt-BR": "[<B>Amarelo</B>]\nObrigada. O preço atual é 1.500 zeny, não é?",
         "es-ES": "[<B>Amarillo</B>]\nGracias. El precio de mercado actual era de 1500 zenis, ¿verdad?"
     },
     "zBJgDQ": {
         "en-US": "Yellow: Since I'm selling them urgently, I'll hand them all over for 1,300 Zeny.",
-        "pt-BR": "Amarelo: Como também estou vendendo com pressa, passarei tudo por 1300 zeny.",
+        "pt-BR": "Amarelo: Como também estou vendendo com pressa, passarei tudo por 1.300 zeny.",
         "es-ES": "Amarillo: Como yo también tengo prisa por venderlas, se las dejaré todas a 1300 zenis."
     },
     "zRJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nSince I'm selling them urgently, I'll hand them all over for 1,300 Zeny.",
-        "pt-BR": "[<B>Amare</B>lo]\nComo também estou vendendo com pressa, passarei tu<B>do</B> por 1300 zeny.",
+        "pt-BR": "[<B>Amarelo</B>]\nComo também estou vendendo com pressa, passarei <B>tudo</B> por 1.300 zeny.",
         "es-ES": "[<B>Amarillo</B>]\nComo yo también tengo prisa por venderlas, se las dejaré todas a 1300 zenis."
     },
     "zhJgDQ": {
@@ -416,17 +416,17 @@
     },
     "0xJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nFirst, I'll visit Father in Morocc, and when my confinement is lifted, I might go to a place called Comodo.",
-        "pt-BR": "[<B>Amare</B>lo]\nPrimeiro vou visitar meu pai em Morroc e, quando meu castigo for suspenso, penso em ir a um lugar chamado Comodo.",
+        "pt-BR": "[<B>Amarelo</B>]\nPrimeiro vou visitar meu pai em Morroc e, quando meu castigo for suspenso, penso em ir a um lugar chamado Comodo.",
         "es-ES": "[<B>Amarillo</B>]\nPrimero iré a ver a mi padre en <B>Morroc</B> y, cuando me levanten el castigo, quizá visite un lugar llamado <B>Comodo</B>."
     },
     "1BJgDQ": {
         "en-US": "Yellow: I hear the performances by the Dancers are very wonderful, so shouldn't I see them?",
-        "pt-BR": "Amarelo: Dizem que as apresentações das dançarinas são incríveis. Não acha que devo assistir?",
+        "pt-BR": "Amarelo: Dizem que as apresentações das odaliscas são incríveis. Não acha que devo assistir?",
         "es-ES": "Amarillo: Dicen que los espectáculos de las bailarinas son magníficos. ¿No debería verlos?"
     },
     "1RJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nI hear the performances by the Dancers are very wonderful, so shouldn't I see them?",
-        "pt-BR": "[<B>Amare</B>lo]\nDizem que as apresentações das dançarinas são incríveis. Não acha que devo assistir?",
+        "pt-BR": "[<B>Amarelo</B>]\nDizem que as apresentações das odaliscas são incríveis. Não acha que devo assistir?",
         "es-ES": "[<B>Amarillo</B>]\nDicen que los espectáculos de las bailarinas son magníficos. ¿No debería verlos?"
     },
     "1hJgDQ": {
@@ -466,7 +466,7 @@
     },
     "3RJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nIs that so? What a foolish merchant.",
-        "pt-BR": "[<B>Amare</B>lo]\nFoi? Que mercador idiota.",
+        "pt-BR": "[<B>Amarelo</B>]\nFoi? Que mercador idiota.",
         "es-ES": "[<B>Amarillo</B>]\n¿Sí? Qué mercader tan estúpido."
     },
     "3hJgDQ": {
@@ -476,7 +476,7 @@
     },
     "3xJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nIf he was a merchant, he should have checked the information he knew at least one more time.",
-        "pt-BR": "[<B>Amare</B>lo]\nSe é mercador, deveria ao menos verificar mais uma vez até as informações que acha que conhece.",
+        "pt-BR": "[<B>Amarelo</B>]\nSe é mercador, deveria ao menos verificar mais uma vez até as informações que acha que conhece.",
         "es-ES": "[<B>Amarillo</B>]\nSi es mercader, debería haber comprobado una vez más incluso la información que creía conocer."
     },
     "4BJgDQ": {
@@ -486,17 +486,17 @@
     },
     "4RJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nHe enjoys himself in Comodo from time to time? That will be difficult from now on.",
-        "pt-BR": "[<B>Amare</B>lo]\nEle disse que se diverte às vezes em Comodo? Daqui para frente vai ficar difícil.",
+        "pt-BR": "[<B>Amarelo</B>]\nEle disse que se diverte às vezes em Comodo? Daqui para frente vai ficar difícil.",
         "es-ES": "[<B>Amarillo</B>]\n¿Que va de vez en cuando a <B>Comodo</B>? A partir de ahora lo tendrá difícil."
     },
     "4hJgDQ": {
         "en-US": "Yellow: Good. We're withdrawing from the Memento of the Dead market.",
-        "pt-BR": "Amarelo: Certo. Vamos sair do mercado de Pertences dos Mortos.",
+        "pt-BR": "Amarelo: Certo. Vamos sair do mercado de Espólios.",
         "es-ES": "Amarillo: Bien. Nos retiramos del mercado de las pertenencias de los muertos."
     },
     "4xJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nGood. We're withdrawing from the Memento of the Dead market.",
-        "pt-BR": "[<B>Amare</B>lo]\nCerto. Vamos sair do mercado de Pertences dos Mortos.",
+        "pt-BR": "[<B>Amarelo</B>]\nCerto. Vamos sair do mercado de Espólios.",
         "es-ES": "[<B>Amarillo</B>]\nBien. Nos retiramos del mercado de las pertenencias de los muertos."
     },
     "5BJgDQ": {
@@ -506,7 +506,7 @@
     },
     "5RJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nTell the ones buying in Morocc and Payon to liquidate all the items they have and withdraw as well.",
-        "pt-BR": "[<B>Amare</B>lo]\nDiga aos que estavam comprando em Morroc e Payon para liquidarem todos os itens que têm e encerrarem a retirada.",
+        "pt-BR": "[<B>Amarelo</B>]\nDiga aos que estavam comprando em Morroc e Payon para liquidarem todos os itens que têm e encerrarem a retirada.",
         "es-ES": "[<B>Amarillo</B>]\nDiles a los que estaban comprando en <B>Morroc</B> y Payon que liquiden todo lo que tengan y se retiren."
     },
     "5hJgDQ": {
@@ -516,7 +516,7 @@
     },
     "5xJgDQ": {
         "en-US": "[<B>Y</B>ellow]\nSince I made a lot of money this time, maybe I'll steadily collect collectibles for a while~",
-        "pt-BR": "[<B>Amare</B>lo]\nComo ganhamos muito dinheiro desta vez, talvez eu passe um tempo reunindo coleções aos poucos~",
+        "pt-BR": "[<B>Amarelo</B>]\nComo ganhamos muito dinheiro desta vez, talvez eu passe um tempo reunindo coleções aos poucos~",
         "es-ES": "[<B>Amarillo</B>]\nComo hemos ganado mucho dinero esta vez, quizá me dedique una temporada a reunir objetos de colección poco a poco~"
     },
     "6BJgDQ": {
@@ -536,12 +536,12 @@
     },
     "6xJgDQ": {
         "en-US": "Knight: You're a Super Novice, are you? So, what brings you here?",
-        "pt-BR": "Cavaleiro: Você é um Superaprendiz, certo? Então, o que deseja?",
+        "pt-BR": "Cavaleiro: Você é um Aprendiz, certo? Então, o que deseja?",
         "es-ES": "Caballero: Eres Superprincipiante, ¿verdad? Bien, ¿qué sucede?"
     },
     "7BJgDQ": {
         "en-US": "[Knight]\nYou're a <B>Super Novice</B>, are you? So, what brings you here?",
-        "pt-BR": "[Cavaleiro]\nVocê é um <B>Superaprendiz</B>, certo? Então, o que deseja?",
+        "pt-BR": "[Cavaleiro]\nVocê é um <B>Aprendiz</B>, certo? Então, o que deseja?",
         "es-ES": "[Caballero]\nEres <B>Superprincipiante</B>, ¿verdad? Bien, ¿qué sucede?"
     },
     "7RJgDQ": {
@@ -556,22 +556,22 @@
     },
     "7xJgDQ": {
         "en-US": "Knight: A knight? Haha, a knight. I see. Our Super Novice friend wanted to become a knight.",
-        "pt-BR": "Cavaleiro: Cavaleiro? Hahaha, cavaleiro. Entendo. Nosso amigo Superaprendiz quer se tornar cavaleiro.",
+        "pt-BR": "Cavaleiro: Cavaleiro? Hahaha, cavaleiro. Entendo. Nosso amigo Aprendiz quer se tornar cavaleiro.",
         "es-ES": "Caballero: ¿Caballero? Ja, ja. Un caballero, ya veo. Nuestro amigo Superprincipiante quiere ser caballero."
     },
     "8BJgDQ": {
         "en-US": "[Knight]\nA knight? Haha, a knight. I see. Our <B>Super Novice</B> friend wanted to become a knight.",
-        "pt-BR": "[Cavaleiro]\nCavaleiro? Hahaha, cavaleiro. Entendo. Nosso amigo <B>Superaprendiz</B> quer se tornar cavaleiro.",
+        "pt-BR": "[Cavaleiro]\nCavaleiro? Hahaha, cavaleiro. Entendo. Nosso amigo <B>Aprendiz</B> quer se tornar cavaleiro.",
         "es-ES": "[Caballero]\n¿Caballero? Ja, ja. Un caballero, ya veo. Nuestro amigo <B>Superprincipiante</B> quiere ser caballero."
     },
     "8RJgDQ": {
         "en-US": "Knight: My Super Novice friend, anyone can become a knight.",
-        "pt-BR": "Cavaleiro: Amigo Superaprendiz? De fato, qualquer um pode se tornar cavaleiro.",
+        "pt-BR": "Cavaleiro: Amigo Aprendiz? De fato, qualquer um pode se tornar cavaleiro.",
         "es-ES": "Caballero: Amigo Superprincipiante, cualquiera puede llegar a ser caballero."
     },
     "8hJgDQ": {
         "en-US": "[Knight]\nMy <B>Super Novice</B> friend, anyone can become a knight.",
-        "pt-BR": "[Cavaleiro]\nAmigo <B>Superaprendiz</B>? De fato, qualquer um pode se tornar cavaleiro.",
+        "pt-BR": "[Cavaleiro]\nAmigo <B>Aprendiz</B>? De fato, qualquer um pode se tornar cavaleiro.",
         "es-ES": "[Caballero]\nAmigo <B>Superprincipiante</B>, cualquiera puede llegar a ser caballero."
     },
     "8xJgDQ": {
@@ -616,22 +616,22 @@
     },
     "+xJgDQ": {
         "en-US": "Knight: Good, good. And let's gradually fix that habit of using dots, too.",
-        "pt-BR": "Cavaleiro: Muito bem, muito bem. E vamos tentar corrigir aos poucos esse seu hábito de usar tantos pontos.",
+        "pt-BR": "Cavaleiro: Muito bem, muito bem. E vamos tentar corrigir aos poucos esse seu hábito de usar tantas reticências.",
         "es-ES": "Caballero: Bien, bien. Y vayamos corrigiendo poco a poco ese hábito de poner tantos puntos."
     },
     "/BJgDQ": {
         "en-US": "[Knight]\nGood, good. And let's gradually fix that habit of using dots, too.",
-        "pt-BR": "[Cavaleiro]\nMuito bem, muito bem. E vamos tentar corrigir aos poucos esse seu hábito de usar tantos pontos.",
+        "pt-BR": "[Cavaleiro]\nMuito bem, muito bem. E vamos tentar corrigir aos poucos esse seu hábito de usar tantas reticênciass.",
         "es-ES": "[Caballero]\nBien, bien. Y vayamos corrigiendo poco a poco ese hábito de poner tantos puntos."
     },
     "/RJgDQ": {
         "en-US": "Knight: Shall we agree on about seven for now? You can fix it by the time you come find me after becoming a Swordsman, right?",
-        "pt-BR": "Cavaleiro: Primeiro vamos combinar em cerca de 7 pontos? Você consegue corrigir isso até vir me procurar depois de se tornar espadachim, certo?",
+        "pt-BR": "Cavaleiro: Primeiro vamos combinar em cerca de 7 pontos de reticências? Você consegue corrigir isso até vir me procurar depois de se tornar espadachim, certo?",
         "es-ES": "Caballero: ¿Qué tal si de momento lo dejamos en unos 7? Podrás corregirlo antes de venir a verme cuando seas espadachín, ¿verdad?"
     },
     "/hJgDQ": {
         "en-US": "[Knight]\nShall we agree on about seven for now? You can fix it by the time you come find me after becoming a Swordsman, right?",
-        "pt-BR": "[Cavaleiro]\nPrimeiro vamos combinar em cerca de 7 pontos? Você consegue corrigir isso até vir me procurar depois de se tornar espadachim, certo?",
+        "pt-BR": "[Cavaleiro]\nPrimeiro vamos combinar em cerca de 7 pontos de reticências? Você consegue corrigir isso até vir me procurar depois de se tornar espadachim, certo?",
         "es-ES": "[Caballero]\n¿Qué tal si de momento lo dejamos en unos 7? Podrás corregirlo antes de venir a verme cuando seas espadachín, ¿verdad?"
     },
     "/xJgDQ": {
@@ -646,12 +646,12 @@
     },
     "ARNgDQ": {
         "en-US": "Knight: Haha, you've already reduced one dot. See you again, my Super Novice friend.",
-        "pt-BR": "Cavaleiro: Hahaha, já diminuiu um ponto. Até outra hora, amigo Superaprendiz.",
+        "pt-BR": "Cavaleiro: Hahaha, já diminuiu um ponto da reticências. Até outra hora, amigo Aprendiz.",
         "es-ES": "Caballero: Ja, ja, ya has reducido un punto. Nos veremos de nuevo, amigo Superprincipiante."
     },
     "AhNgDQ": {
         "en-US": "[Knight]\nHaha, you've already reduced one dot. See you again, my <B>Super Novice</B> friend.",
-        "pt-BR": "[Cavaleiro]\nHahaha, já diminuiu um ponto. Até outra hora, amigo <B>Superaprendiz</B>.",
+        "pt-BR": "[Cavaleiro]\nHahaha, já diminuiu um ponto da reticências. Até outra hora, amigo <B>Aprendiz</B>.",
         "es-ES": "[Caballero]\nJa, ja, ya has reducido un punto. Nos veremos de nuevo, amigo <B>Superprincipiante</B>."
     },
     "AxNgDQ": {
@@ -946,12 +946,12 @@
     },
     "PRNgDQ": {
         "en-US": "Auburn: Next was.. my appointment with Mr. Cheese the Hunter, right?",
-        "pt-BR": "Alaranjado: O próximo era.. o compromisso com Queijo, o Caçador, certo?",
+        "pt-BR": "Alaranjado: O próximo era.. o compromisso com Dejiko, o Caçador, certo?",
         "es-ES": "Naranja: Lo siguiente era... ¿mi cita con el señor Queso, Cazador?"
     },
     "PhNgDQ": {
         "en-US": "[Auburn]\nNext was.. my appointment with Mr. Cheese the Hunter, right?",
-        "pt-BR": "[Alaranjado]\nO próximo era.. o compromisso com Queijo, o Caçador, certo?",
+        "pt-BR": "[Alaranjado]\nO próximo era.. o compromisso com Dejiko, o Caçador, certo?",
         "es-ES": "[Naranja]\nLo siguiente era... ¿mi cita con el señor Queso, Cazador?"
     },
     "PxNgDQ": {
@@ -976,12 +976,12 @@
     },
     "QxNgDQ": {
         "en-US": "Cherry: Today was profitable. A +7 Mocking Muffler, huh? How much is this going for these days?",
-        "pt-BR": "Cherry: Hoje rendeu bem. Um Muffler de Esquiva +7? Quanto isso vale atualmente?",
+        "pt-BR": "Cherry: Hoje rendeu bem. Uma Sobrepeliz de Esquiva +7? Quanto isso vale atualmente?",
         "es-ES": "Cherry: Hoy ha sido provechoso. Un +7 Manteau de Mofa... ¿Cuánto vale esto últimamente?"
     },
     "RBNgDQ": {
         "en-US": "[Cherry]\nToday was profitable. A +7 Mocking Muffler, huh? How much is this going for these days?",
-        "pt-BR": "[Cherry]\nHoje rendeu bem. Um Muffler de Esquiva +7? Quanto isso vale atualmente?",
+        "pt-BR": "[Cherry]\nHoje rendeu bem. Uma Sobrepeliz de Esquiva +7? Quanto isso vale atualmente?",
         "es-ES": "[Cherry]\nHoy ha sido provechoso. Un +7 Manteau de Mofa... ¿Cuánto vale esto últimamente?"
     },
     "RRNgDQ": {
@@ -996,27 +996,27 @@
     },
     "RxNgDQ": {
         "en-US": "Knight Yeo Chi",
-        "pt-BR": "Cavaleiro Yeoji",
+        "pt-BR": "Cavaleiro Essofeit",
         "es-ES": "Caballero Saltamontes"
     },
     "SBNgDQ": {
         "en-US": "Knight Yeo Chi: Hahaha! Miss Cookie, I got this while hunting today.",
-        "pt-BR": "Cavaleiro Yeoji: Hahaha! Sra. Cookie, consegui isto na caçada de hoje.",
+        "pt-BR": "Cavaleiro Essofeit: Hahaha! Sra. Cookie, consegui isto na caçada de hoje.",
         "es-ES": "Caballero Saltamontes: ¡Ja, ja, ja! Señorita Cookie, lo conseguí hoy mientras cazaba."
     },
     "SRNgDQ": {
         "en-US": "[Knight Yeo Chi]\nHahaha! Miss Cookie, I got this while hunting today.",
-        "pt-BR": "[Cavaleiro Yeoji]\nHahaha! Sra. Cookie, consegui isto na caçada de hoje.",
+        "pt-BR": "[Cavaleiro Essofeit]\nHahaha! Sra. Cookie, consegui isto na caçada de hoje.",
         "es-ES": "[Caballero Saltamontes]\n¡Ja, ja, ja! Señorita Cookie, lo conseguí hoy mientras cazaba."
     },
     "ShNgDQ": {
         "en-US": "Knight Yeo Chi: I thought it would be perfect to give to you, Miss Cookie, so I brought it.",
-        "pt-BR": "Cavaleiro Yeoji: Pensei: perfeito! Seria bom dar isto à Sra. Cookie, então trouxe.",
+        "pt-BR": "Cavaleiro Essofeit: Pensei: perfeito! Seria bom dar isto à Sra. Cookie, então trouxe.",
         "es-ES": "Caballero Saltamontes: Pensé que sería perfecto para usted, señorita Cookie, así que lo traje."
     },
     "SxNgDQ": {
         "en-US": "[Knight Yeo Chi]\nI thought it would be perfect to give to you, Miss Cookie, so I brought it.",
-        "pt-BR": "[Cavaleiro Yeoji]\nPensei: perfeito! Seria bom dar isto à Sra. Cookie, então trouxe.",
+        "pt-BR": "[Cavaleiro Essofeit]\nPensei: perfeito! Seria bom dar isto à Sra. Cookie, então trouxe.",
         "es-ES": "[Caballero Saltamontes]\nPensé que sería perfecto para usted, señorita Cookie, así que lo traje."
     },
     "TBNgDQ": {
@@ -1041,12 +1041,12 @@
     },
     "UBNgDQ": {
         "en-US": "Knight Yeo Chi: I had been eagerly waiting for the day we would hunt together, so that is truly unfortunate.",
-        "pt-BR": "Cavaleiro Yeoji: Eu esperava ansiosamente pelo dia em que caçaríamos juntos, então é uma pena.",
+        "pt-BR": "Cavaleiro Essofeit: Eu esperava ansiosamente pelo dia em que caçaríamos juntos, então é uma pena.",
         "es-ES": "Caballero Saltamontes: Llevaba esperando con ansias el día de cazar juntos, así que es una verdadera lástima."
     },
     "URNgDQ": {
         "en-US": "[Knight Yeo Chi]\nI had been eagerly waiting for the day we would hunt together, so that is truly unfortunate.",
-        "pt-BR": "[Cavaleiro Yeoji]\nEu esperava ansiosamente pelo dia em que caçaríamos juntos, então é uma pena.",
+        "pt-BR": "[Cavaleiro Essofeit]\nEu esperava ansiosamente pelo dia em que caçaríamos juntos, então é uma pena.",
         "es-ES": "[Caballero Saltamontes]\nLlevaba esperando con ansias el día de cazar juntos, así que es una verdadera lástima."
     },
     "UhNgDQ": {
@@ -1061,32 +1061,32 @@
     },
     "VBNgDQ": {
         "en-US": "Knight Yeo Chi: Hahaha, please don't worry. I am not such a petty person.",
-        "pt-BR": "Cavaleiro Yeoji: Hahaha, não se preocupe. Não sou uma pessoa de coração tão estreito.",
+        "pt-BR": "Cavaleiro Essofeit: Hahaha, não se preocupe. Não sou uma pessoa de coração tão estreito.",
         "es-ES": "Caballero Saltamontes: Ja, ja, ja. No se preocupe. No soy una persona tan mezquina."
     },
     "VRNgDQ": {
         "en-US": "[Knight Yeo Chi]\nHahaha, please don't worry. I am not such a petty person.",
-        "pt-BR": "[Cavaleiro Yeoji]\nHahaha, não se preocupe. Não sou uma pessoa de coração tão estreito.",
+        "pt-BR": "[Cavaleiro Essofeit]\nHahaha, não se preocupe. Não sou uma pessoa de coração tão estreito.",
         "es-ES": "[Caballero Saltamontes]\nJa, ja, ja. No se preocupe. No soy una persona tan mezquina."
     },
     "VhNgDQ": {
         "en-US": "Knight Yeo Chi: Come to think of it, I also had an urgent matter I had put off, so this works out.",
-        "pt-BR": "Cavaleiro Yeoji: Pensando bem, eu também tinha um assunto urgente que vinha adiando, então foi bom.",
+        "pt-BR": "Cavaleiro Essofeit: Pensando bem, eu também tinha um assunto urgente que vinha adiando, então foi bom.",
         "es-ES": "Caballero Saltamontes: Ahora que lo pienso, yo también tenía un asunto urgente pendiente, así que está bien."
     },
     "VxNgDQ": {
         "en-US": "[Knight Yeo Chi]\nCome to think of it, I also had an urgent matter I had put off, so this works out.",
-        "pt-BR": "[Cavaleiro Yeoji]\nPensando bem, eu também tinha um assunto urgente que vinha adiando, então foi bom.",
+        "pt-BR": "[Cavaleiro Essofeit]\nPensando bem, eu também tinha um assunto urgente que vinha adiando, então foi bom.",
         "es-ES": "[Caballero Saltamontes]\nAhora que lo pienso, yo también tenía un asunto urgente pendiente, así que está bien."
     },
     "WBNgDQ": {
         "en-US": "Knight Yeo Chi: I will go ahead first, so next time, let us be sure to hunt together.",
-        "pt-BR": "Cavaleiro Yeoji: Vou indo primeiro, então da próxima vez vamos caçar juntos com certeza.",
+        "pt-BR": "Cavaleiro Essofeit: Vou indo primeiro, então da próxima vez vamos caçar juntos com certeza.",
         "es-ES": "Caballero Saltamontes: Me marcho primero, así que la próxima vez vayamos a cazar juntos sin falta."
     },
     "WRNgDQ": {
         "en-US": "[Knight Yeo Chi]\nI will go ahead first, so next time, let us be sure to hunt together.",
-        "pt-BR": "[Cavaleiro Yeoji]\nVou indo primeiro, então da próxima vez vamos caçar juntos com certeza.",
+        "pt-BR": "[Cavaleiro Essofeit]\nVou indo primeiro, então da próxima vez vamos caçar juntos com certeza.",
         "es-ES": "[Caballero Saltamontes]\nMe marcho primero, así que la próxima vez vayamos a cazar juntos sin falta."
     },
     "WhNgDQ": {
@@ -1101,17 +1101,17 @@
     },
     "XBNgDQ": {
         "en-US": "Hunter Cheese",
-        "pt-BR": "Queijo, o Caçador",
+        "pt-BR": "Dejiko, o Caçador",
         "es-ES": "Cazador Queso"
     },
     "XRNgDQ": {
         "en-US": "Hunter Cheese: Wow~ Miss Cherry, it's been so long. How long has it been?",
-        "pt-BR": "Queijo, o Caçador: Uau~ Sra. Cherry, faz tempo. Quanto tempo faz?",
+        "pt-BR": "Dejiko, o Caçador: Uau~ Sra. Cherry, faz tempo. Quanto tempo faz?",
         "es-ES": "Cazador Queso: ¡Vaya~! Señorita Cherry, cuánto tiempo. ¿Cuánto hacía?"
     },
     "XhNgDQ": {
         "en-US": "[Hunter Cheese]\nWow~ Miss Cherry, it's been so long. How long has it been?",
-        "pt-BR": "[Queijo, o Caçador]\nUau~ Sra. Cherry, faz tempo. Quanto tempo faz?",
+        "pt-BR": "[Dejiko, o Caçador]\nUau~ Sra. Cherry, faz tempo. Quanto tempo faz?",
         "es-ES": "[Cazador Queso]\n¡Vaya~! Señorita Cherry, cuánto tiempo. ¿Cuánto hacía?"
     },
     "XxNgDQ": {
@@ -1126,42 +1126,42 @@
     },
     "YRNgDQ": {
         "en-US": "Hunter Cheese: I suppose I've been thinking of you, Miss Cherry? Hahaha..",
-        "pt-BR": "Queijo, o Caçador: Digamos que passei pensando na Sra. Cherry? Hahaha..",
+        "pt-BR": "Dejiko, o Caçador: Digamos que passei pensando na Sra. Cherry? Hahaha..",
         "es-ES": "Cazador Queso: Diría que pensando en usted, señorita Cherry. Ja, ja, ja..."
     },
     "YhNgDQ": {
         "en-US": "[Hunter Cheese]\nI suppose I've been thinking of you, Miss Cherry? Hahaha..",
-        "pt-BR": "[Queijo, o Caçador]\nDigamos que passei pensando na Sra. Cherry? Hahaha..",
+        "pt-BR": "[Dejiko, o Caçador]\nDigamos que passei pensando na Sra. Cherry? Hahaha..",
         "es-ES": "[Cazador Queso]\nDiría que pensando en usted, señorita Cherry. Ja, ja, ja..."
     },
     "YxNgDQ": {
         "en-US": "Hunter Cheese: Oh, right! I had something to give you, Miss Cherry. It's a +7 Mocking Muffler.",
-        "pt-BR": "Queijo, o Caçador: Ah, é mesmo! Eu tinha algo para dar à Sra. Cherry. É um Muffler de Esquiva +7.",
+        "pt-BR": "Dejiko, o Caçador: Ah, é mesmo! Eu tinha algo para dar à Sra. Cherry. É uma Sobrepeliz de Esquiva +7.",
         "es-ES": "Cazador Queso: ¡Ah, cierto! Tenía algo que darle, señorita Cherry. Es un +7 Manteau de Mofa."
     },
     "ZBNgDQ": {
         "en-US": "[Hunter Cheese]\nOh, right! I had something to give you, Miss Cherry. It's a +7 Mocking Muffler.",
-        "pt-BR": "[Queijo, o Caçador]\nAh, é mesmo! Eu tinha algo para dar à Sra. Cherry. É um Muffler de Esquiva +7.",
+        "pt-BR": "[Dejiko, o Caçador]\nAh, é mesmo! Eu tinha algo para dar à Sra. Cherry. É uma Sobrepeliz de Esquiva +7.",
         "es-ES": "[Cazador Queso]\n¡Ah, cierto! Tenía algo que darle, señorita Cherry. Es un +7 Manteau de Mofa."
     },
     "ZRNgDQ": {
         "en-US": "Hunter Cheese: It's one I used, but when I changed some equipment this time, I considered selling it, then thought of you and kept it.",
-        "pt-BR": "Queijo, o Caçador: Era meu, mas quando troquei alguns equipamentos, pensei em vender. Então lembrei da Sra. Cherry e guardei.",
+        "pt-BR": "Dejiko, o Caçador: Era meu, mas quando troquei alguns equipamentos, pensei em vender. Então lembrei da Sra. Cherry e guardei.",
         "es-ES": "Cazador Queso: Lo usaba yo, pero al cambiar un poco de equipo pensé en venderlo. Entonces me acordé de usted y lo guardé."
     },
     "ZhNgDQ": {
         "en-US": "[Hunter Cheese]\nIt's one I used, but when I changed some equipment this time, I considered selling it, then thought of you and kept it.",
-        "pt-BR": "[Queijo, o Caçador]\nEra meu, mas quando troquei alguns equipamentos, pensei em vender. Então lembrei da Sra. Cherry e guardei.",
+        "pt-BR": "[Dejiko, o Caçador]\nEra meu, mas quando troquei alguns equipamentos, pensei em vender. Então lembrei da Sra. Cherry e guardei.",
         "es-ES": "[Cazador Queso]\nLo usaba yo, pero al cambiar un poco de equipo pensé en venderlo. Entonces me acordé de usted y lo guardé."
     },
     "ZxNgDQ": {
         "en-US": "Hunter Cheese: You don't have a mocking garment yet, right?",
-        "pt-BR": "Queijo, o Caçador: Você ainda não tem uma capa de esquiva, certo?",
+        "pt-BR": "Dejiko, o Caçador: Você ainda não tem uma capa de esquiva, certo?",
         "es-ES": "Cazador Queso: Aún no tiene nada con Mofa que ponerse, ¿verdad?"
     },
     "aBNgDQ": {
         "en-US": "[Hunter Cheese]\nYou don't have a mocking garment yet, right?",
-        "pt-BR": "[Queijo, o Caçador]\nVocê ainda não tem uma capa de esquiva, certo?",
+        "pt-BR": "[Dejiko, o Caçador]\nVocê ainda não tem uma capa de esquiva, certo?",
         "es-ES": "[Cazador Queso]\nAún no tiene nada con Mofa que ponerse, ¿verdad?"
     },
     "aRNgDQ": {
@@ -1176,12 +1176,12 @@
     },
     "axNgDQ": {
         "en-US": "Hunter Cheese: You'll be using it when you become a Hunter, Miss Cherry. What could be too precious for that?",
-        "pt-BR": "Queijo, o Caçador: A Sra. Cherry vai usá-lo quando se tornar Caçador, então o que haveria de ser desperdício?",
+        "pt-BR": "Dejiko, o Caçador: A Sra. Cherry vai usá-lo quando se tornar Caçadora, então o que haveria de ser desperdício?",
         "es-ES": "Cazador Queso: Lo usará usted, señorita Cherry, que será Cazador en el futuro. ¿Qué podría dolerme perder?"
     },
     "bBNgDQ": {
         "en-US": "[Hunter Cheese]\nYou'll be using it when you become a Hunter, Miss Cherry. What could be too precious for that?",
-        "pt-BR": "[Queijo, o Caçador]\nA Sra. Cherry vai usá-lo quando se tornar Caçador, então o que haveria de ser desperdício?",
+        "pt-BR": "[Dejiko, o Caçador]\nA Sra. Cherry vai usá-lo quando se tornar Caçadora, então o que haveria de ser desperdício?",
         "es-ES": "[Cazador Queso]\nLo usará usted, señorita Cherry, que será Cazador en el futuro. ¿Qué podría dolerme perder?"
     },
     "bRNgDQ": {
@@ -1196,12 +1196,12 @@
     },
     "bxNgDQ": {
         "en-US": "Hunter Cheese: Even your heart is so lovely. I wanted to give it to you, so please don't feel too burdened.",
-        "pt-BR": "Queijo, o Caçador: Até seu coração é bonito. Estou dando porque quero dar, então não se sinta tão pressionada.",
+        "pt-BR": "Dejiko, o Caçador: Até seu coração é bonito. Estou dando porque quero dar, então não se sinta tão pressionada.",
         "es-ES": "Cazador Queso: Incluso su corazón es hermoso. Se lo doy porque quiero dárselo, así que no se sienta tan comprometida."
     },
     "cBNgDQ": {
         "en-US": "[Hunter Cheese]\nEven your heart is so lovely. I wanted to give it to you, so please don't feel too burdened.",
-        "pt-BR": "[Queijo, o Caçador]\nAté seu coração é bonito. Estou dando porque quero dar, então não se sinta tão pressionada.",
+        "pt-BR": "[Dejiko, o Caçador]\nAté seu coração é bonito. Estou dando porque quero dar, então não se sinta tão pressionada.",
         "es-ES": "[Cazador Queso]\nIncluso su corazón es hermoso. Se lo doy porque quiero dárselo, así que no se sienta tan comprometida."
     },
     "cRNgDQ": {
@@ -1216,22 +1216,22 @@
     },
     "cxNgDQ": {
         "en-US": "Hunter Cheese: I gave you a gift, and I should also help power level you until you become a Hunter..",
-        "pt-BR": "Queijo, o Caçador: Já lhe dei o presente, e também preciso ajudar você a upar até se tornar Caçador..",
+        "pt-BR": "Dejiko, o Caçador: Já lhe dei o presente, e também preciso ajudar você a evoluir até se tornar Caçadora..",
         "es-ES": "Cazador Queso: Ya le he dado el regalo, y también debería ayudarle a subir hasta que sea Cazador..."
     },
     "dBNgDQ": {
         "en-US": "[Hunter Cheese]\nI gave you a gift, and I should also help power level you until you become a Hunter..",
-        "pt-BR": "[Queijo, o Caçador]\nJá lhe dei o presente, e também preciso ajudar você a upar até se tornar Caçador..",
+        "pt-BR": "[Dejiko, o Caçador]\nJá lhe dei o presente, e também preciso ajudar você a evoluir até se tornar Caçadora..",
         "es-ES": "[Cazador Queso]\nYa le he dado el regalo, y también debería ayudarle a subir hasta que sea Cazador..."
     },
     "dRNgDQ": {
         "en-US": "Hunter Cheese: But I also want to try challenging higher-level hunting grounds to celebrate changing my equipment..",
-        "pt-BR": "Queijo, o Caçador: Mas, veja só, eu também quero testar uma área de caça mais avançada para comemorar a troca de equipamento..",
+        "pt-BR": "Dejiko, o Caçador: Mas, veja só, eu também quero testar uma área de caça mais avançada para comemorar a troca de equipamento..",
         "es-ES": "Cazador Queso: Pero, vaya, yo también quería probar una zona de caza superior para celebrar que cambié de equipo..."
     },
     "dhNgDQ": {
         "en-US": "[Hunter Cheese]\nBut I also want to try challenging higher-level hunting grounds to celebrate changing my equipment..",
-        "pt-BR": "[Queijo, o Caçador]\nMas, veja só, eu também quero testar uma área de caça mais avançada para comemorar a troca de equipamento..",
+        "pt-BR": "[Dejiko, o Caçador]\nMas, veja só, eu também quero testar uma área de caça mais avançada para comemorar a troca de equipamento..",
         "es-ES": "[Cazador Queso]\nPero, vaya, yo también quería probar una zona de caza superior para celebrar que cambié de equipo..."
     },
     "dxNgDQ": {
@@ -1246,37 +1246,37 @@
     },
     "eRNgDQ": {
         "en-US": "Hunter Cheese: Unfortunately, we should part ways for today, but next time, I'll definitely power level you.",
-        "pt-BR": "Queijo, o Caçador: Hoje é uma pena, mas vamos nos despedir por aqui. Da próxima vez eu com certeza ajudo você a upar.",
+        "pt-BR": "Dejiko, o Caçador: Hoje é uma pena, mas vamos nos despedir por aqui. Da próxima vez eu com certeza ajudo você a evoluir.",
         "es-ES": "Cazador Queso: Hoy es una lástima, pero lo dejamos aquí. La próxima vez le ayudaré a subir sin falta."
     },
     "ehNgDQ": {
         "en-US": "[Hunter Cheese]\nUnfortunately, we should part ways for today, but next time, I'll definitely power level you.",
-        "pt-BR": "[Queijo, o Caçador]\nHoje é uma pena, mas vamos nos despedir por aqui. Da próxima vez eu com certeza ajudo você a upar.",
+        "pt-BR": "[Dejiko, o Caçador]\nHoje é uma pena, mas vamos nos despedir por aqui. Da próxima vez eu com certeza ajudo você a evoluir.",
         "es-ES": "[Cazador Queso]\nHoy es una lástima, pero lo dejamos aquí. La próxima vez le ayudaré a subir sin falta."
     },
     "exNgDQ": {
         "en-US": "Cherry: Thank you. I'll level up diligently with the item I received.",
-        "pt-BR": "Cherry: Obrigada. Vou upar bastante com o item que recebi.",
+        "pt-BR": "Cherry: Obrigada. Vou evoluir bastante com o item que recebi.",
         "es-ES": "Cherry: Gracias. Subiré de nivel con ganas usando el objeto que he recibido."
     },
     "fBNgDQ": {
         "en-US": "[Cherry]\nThank you. I'll level up diligently with the item I received.",
-        "pt-BR": "[Cherry]\nObrigada. Vou upar bastante com o item que recebi.",
+        "pt-BR": "[Cherry]\nObrigada. Vou evoluir bastante com o item que recebi.",
         "es-ES": "[Cherry]\nGracias. Subiré de nivel con ganas usando el objeto que he recibido."
     },
     "fRNgDQ": {
         "en-US": "Acolyte Adolf",
-        "pt-BR": "Noviço Adolf",
+        "pt-BR": "Noviço Adolfo",
         "es-ES": "Acólito Adolf"
     },
     "fhNgDQ": {
         "en-US": "Acolyte Adolf: Hey~ Holy~ What are you doing?",
-        "pt-BR": "Noviço Adolf: E aí~ Holy~ O que está fazendo?",
+        "pt-BR": "Noviço Adolfo: E aí~ Holy~ O que está fazendo?",
         "es-ES": "Acólito Adolf: Eh~ Holy~ ¿Qué haces?"
     },
     "fxNgDQ": {
         "en-US": "[Acolyte Adolf]\nHey~ Holy~ What are you doing?",
-        "pt-BR": "[Noviço Adolf]\nE aí~ Holy~ O que está fazendo?",
+        "pt-BR": "[Noviço Adolfo]\nE aí~ Holy~ O que está fazendo?",
         "es-ES": "[Acólito Adolf]\nEh~ Holy~ ¿Qué haces?"
     },
     "gBNgDQ": {
@@ -1291,22 +1291,22 @@
     },
     "ghNgDQ": {
         "en-US": "Acolyte Adolf: Noooot at all. I have a weak stomach, so I couldn't go around pretending to be a woman.",
-        "pt-BR": "Noviço Adolf: Ne~m um pouco. Meu estômago é fraco demais para eu fingir ser mulher e agir assim.",
+        "pt-BR": "Noviço Adolfo: Nem um pouco. Meu estômago é fraco demais para eu fingir ser mulher e agir assim.",
         "es-ES": "Acólito Adolf: Para na~da. Yo tengo el estómago delicado y no podría actuar haciéndome pasar por mujer."
     },
     "gxNgDQ": {
         "en-US": "[Acolyte Adolf]\nNoooot at all. I have a weak stomach, so I couldn't go around pretending to be a woman.",
-        "pt-BR": "[Noviço Adolf]\nNe~m um pouco. Meu estômago é fraco demais para eu fingir ser mulher e agir assim.",
+        "pt-BR": "[Noviço Adolfo]\nNem um pouco. Meu estômago é fraco demais para eu fingir ser mulher e agir assim.",
         "es-ES": "[Acólito Adolf]\nPara na~da. Yo tengo el estómago delicado y no podría actuar haciéndome pasar por mujer."
     },
     "hBNgDQ": {
         "en-US": "Acolyte Adolf: Anyway, you sure have a strong stomach. Do the people bringing you items even know you're a man?",
-        "pt-BR": "Noviço Adolf: Seja como for, você tem estômago forte. As pessoas que trazem itens para você sabem que você é homem?",
+        "pt-BR": "Noviço Adolfo: Seja como for, você tem estômago forte. As pessoas que trazem itens para você sabem que você é homem?",
         "es-ES": "Acólito Adolf: En fin, tienes mucho estómago. ¿Los que te traen objetos saben que eres hombre?"
     },
     "hRNgDQ": {
         "en-US": "[Acolyte Adolf]\nAnyway, you sure have a strong stomach. Do the people bringing you items even know you're a man?",
-        "pt-BR": "[Noviço Adolf]\nSeja como for, você tem estômago forte. As pessoas que trazem itens para você sabem que você é homem?",
+        "pt-BR": "[Noviço Adolfo]\nSeja como for, você tem estômago forte. As pessoas que trazem itens para você sabem que você é homem?",
         "es-ES": "[Acólito Adolf]\nEn fin, tienes mucho estómago. ¿Los que te traen objetos saben que eres hombre?"
     },
     "hhNgDQ": {
@@ -1321,12 +1321,12 @@
     },
     "iBNgDQ": {
         "en-US": "Acolyte Adolf: What kind of nonsense is that?",
-        "pt-BR": "Noviço Adolf: Que besteira é essa?",
+        "pt-BR": "Noviço Adolfo: Que besteira é essa?",
         "es-ES": "Acólito Adolf: ¿Qué tontería es esa?"
     },
     "iRNgDQ": {
         "en-US": "[Acolyte Adolf]\nWhat kind of nonsense is that?",
-        "pt-BR": "[Noviço Adolf]\nQue besteira é essa?",
+        "pt-BR": "[Noviço Adolfo]\nQue besteira é essa?",
         "es-ES": "[Acólito Adolf]\n¿Qué tontería es esa?"
     },
     "ihNgDQ": {
@@ -1351,12 +1351,12 @@
     },
     "jhNgDQ": {
         "en-US": "Acolyte Adolf: So I'm saying that's a scam. They think you're a woman.",
-        "pt-BR": "Noviço Adolf: Então é golpe, não é? Eles acham que você é mulher.",
+        "pt-BR": "Noviço Adolfo: Então é golpe, não é? Eles acham que você é mulher.",
         "es-ES": "Acólito Adolf: Entonces eso es una estafa, ¿no? Ellos creen que eres una mujer."
     },
     "jxNgDQ": {
         "en-US": "[Acolyte Adolf]\nSo I'm saying that's a scam. They think you're a woman.",
-        "pt-BR": "[Noviço Adolf]\nEntão é golpe, não é? Eles acham que você é mulher.",
+        "pt-BR": "[Noviço Adolfo]\nEntão é golpe, não é? Eles acham que você é mulher.",
         "es-ES": "[Acólito Adolf]\nEntonces eso es una estafa, ¿no? Ellos creen que eres una mujer."
     },
     "kBNgDQ": {
@@ -1381,12 +1381,12 @@
     },
     "lBNgDQ": {
         "en-US": "Acolyte Adolf: Yes.. Yes, I'm sure that's how it is.",
-        "pt-BR": "Noviço Adolf: Sim.. Sim, claro.",
+        "pt-BR": "Noviço Adolfo: Sim.. Sim, claro.",
         "es-ES": "Acólito Adolf: Sí... Sí, claro."
     },
     "lRNgDQ": {
         "en-US": "[Acolyte Adolf]\nYes.. Yes, I'm sure that's how it is.",
-        "pt-BR": "[Noviço Adolf]\nSim.. Sim, claro.",
+        "pt-BR": "[Noviço Adolfo]\nSim.. Sim, claro.",
         "es-ES": "[Acólito Adolf]\nSí... Sí, claro."
     },
     "lhNgDQ": {
@@ -1401,22 +1401,22 @@
     },
     "mBNgDQ": {
         "en-US": "Acolyte Adolf: Are you buying?",
-        "pt-BR": "Noviço Adolf: Você paga?",
+        "pt-BR": "Noviço Adolfo: Você paga?",
         "es-ES": "Acólito Adolf: ¿Invitas tú?"
     },
     "mRNgDQ": {
         "en-US": "[Acolyte Adolf]\nAre you buying?",
-        "pt-BR": "[Noviço Adolf]\nVocê paga?",
+        "pt-BR": "[Noviço Adolfo]\nVocê paga?",
         "es-ES": "[Acólito Adolf]\n¿Invitas tú?"
     },
     "mhNgDQ": {
         "en-US": "Cherry: What nonsense. Obviously we each pay for ourselves.",
-        "pt-BR": "Cherry: Que besteira é essa. Claro que cada um paga o seu.",
+        "pt-BR": "Cherry: Que besteira é essa? Claro que cada um paga o seu.",
         "es-ES": "Cherry: ¿Qué tontería dices? Naturalmente, cada uno paga lo suyo."
     },
     "mxNgDQ": {
         "en-US": "[Cherry]\nWhat nonsense. Obviously we each pay for ourselves.",
-        "pt-BR": "[Cherry]\nQue besteira é essa. Claro que cada um paga o seu.",
+        "pt-BR": "[Cherry]\nQue besteira é essa? Claro que cada um paga o seu.",
         "es-ES": "[Cherry]\n¿Qué tontería dices? Naturalmente, cada uno paga lo suyo."
     },
     "nBNgDQ": {
@@ -1431,7 +1431,7 @@
     },
     "nhNgDQ": {
         "en-US": "Green: I think I've learned all the magic too..",
-        "pt-BR": "Verde: Parece que também aprendi todas as magias..",
+        "pt-BR": "Verde: Parece que também aprendi todas as magias de magos..",
         "es-ES": "Verde: Creo que también aprendí todas las magias..."
     },
     "nxNgDQ": {
@@ -1481,12 +1481,12 @@
     },
     "qBNgDQ": {
         "en-US": "Green: Does this mean my preparations are complete? Hehehe. I will become a 「Super Novice」.",
-        "pt-BR": "Verde: Com isso, será que a preparação acabou? Hehehe, vou me tornar um 「Superaprendiz」.",
+        "pt-BR": "Verde: Com isso, será que a preparação acabou? Hehehe, vou me tornar um [Superaprendiz].",
         "es-ES": "Verde: ¿Con esto ya está todo preparado? Je, je, je. Me convertiré en 「Superprincipiante」."
     },
     "qRNgDQ": {
         "en-US": "[Green]\nDoes this mean my preparations are complete? Hehehe. I will become a 「Super <B>Super Novice</B>」.",
-        "pt-BR": "[Verde]\nCom isso, será que a preparação acabou? Hehehe, vou me tornar um 「Super <B>Superaprendiz</B>」.",
+        "pt-BR": "[Verde]\nCom isso, será que a preparação acabou? Hehehe, vou me tornar um [<B>Superaprendiz</B>].",
         "es-ES": "[Verde]\n¿Con esto ya está todo preparado? Je, je, je. Me convertiré en 「Súper <B>Superprincipiante</B>」."
     },
     "qhNgDQ": {
@@ -1531,42 +1531,42 @@
     },
     "shNgDQ": {
         "en-US": "Green: Angel, can you hear my voice? ^^;",
-        "pt-BR": "Verde: Senhor anjo, está ouvindo minha voz? ^^;",
+        "pt-BR": "Verde: Anjo da Guarda, você pode me ouvir?",
         "es-ES": "Verde: Ángel, ¿puede oír mi voz? ^^;"
     },
     "sxNgDQ": {
         "en-US": "[Green]\nAngel, can you hear my voice? ^^;",
-        "pt-BR": "[Verde]\nSenhor anjo, está ouvindo minha voz? ^^;",
+        "pt-BR": "[Verde]\nAnjo da Guarda, você pode me ouvir?",
         "es-ES": "[Verde]\nÁngel, ¿puede oír mi voz? ^^;"
     },
     "tBNgDQ": {
         "en-US": "Green: It's Super Novice □□□□~",
-        "pt-BR": "Verde: Sou Superaprendiz □□□□~",
+        "pt-BR": "Verde: Sou ØØØØ, um Super Aprendiz!",
         "es-ES": "Verde: Soy Superprincipiante □□□□~"
     },
     "tRNgDQ": {
         "en-US": "[Green]\nIt's <B>Super Novice</B> □□□□~",
-        "pt-BR": "[Verde]\nSou <B>Superaprendiz</B> □□□□~",
+        "pt-BR": "[Verde]\nSou ØØØØ, um Super Aprendiz!",
         "es-ES": "[Verde]\nSoy <B>Superprincipiante</B> □□□□~"
     },
     "thNgDQ": {
         "en-US": "Green: Please help me~ T_T",
-        "pt-BR": "Verde: Me ajude, por favor~ T_T",
+        "pt-BR": "Verde: Eu preciso da sua ajuda, por favor!",
         "es-ES": "Verde: Ayúdeme, por favor~ T_T"
     },
     "txNgDQ": {
         "en-US": "[Green]\nPlease help me~ T_T",
-        "pt-BR": "[Verde]\nMe ajude, por favor~ T_T",
+        "pt-BR": "[Verde]\nEu preciso da sua ajuda, por favor!",
         "es-ES": "[Verde]\nAyúdeme, por favor~ T_T"
     },
     "uBNgDQ": {
         "en-US": "Green: Sigh, I'm doing all sorts of ridiculous things now.",
-        "pt-BR": "Verde: Ufa, cheguei a fazer todo tipo de coisa.",
+        "pt-BR": "Verde: Argh, cheguei a fazer todo tipo de coisa.",
         "es-ES": "Verde: Uf, he acabado haciendo toda clase de tonterías."
     },
     "uRNgDQ": {
         "en-US": "[Green]\nSigh, I'm doing all sorts of ridiculous things now.",
-        "pt-BR": "[Verde]\nUfa, cheguei a fazer todo tipo de coisa.",
+        "pt-BR": "[Verde]\nArgh, cheguei a fazer todo tipo de coisa.",
         "es-ES": "[Verde]\nUf, he acabado haciendo toda clase de tonterías."
     },
     "uhNgDQ": {
@@ -1581,12 +1581,12 @@
     },
     "vBNgDQ": {
         "en-US": "Green: Waaah! You startled me.",
-        "pt-BR": "Verde: Uaaaah! Que susto.",
+        "pt-BR": "Verde: Aaaaah! Que susto.",
         "es-ES": "Verde: ¡Uaaah! Qué susto."
     },
     "vRNgDQ": {
         "en-US": "[Green]\nWaaah! You startled me.",
-        "pt-BR": "[Verde]\nUaaaah! Que susto.",
+        "pt-BR": "[Verde]\nAaaaah! Que susto.",
         "es-ES": "[Verde]\n¡Uaaah! Qué susto."
     },
     "vhNgDQ": {
@@ -1626,12 +1626,12 @@
     },
     "xRNgDQ": {
         "en-US": "Angel: Super Novice □□□□, how may I help you?",
-        "pt-BR": "Anjo: Superaprendiz □□□□, em que posso ajudar?",
+        "pt-BR": "Anjo: Aprendiz ØØØØ, em que posso ajudar?",
         "es-ES": "Ángel: Señor □□□□, Superprincipiante, ¿en qué puedo ayudarle?"
     },
     "xhNgDQ": {
         "en-US": "[Angel]\n<B>Super Novice</B> □□□□, how may I help you?",
-        "pt-BR": "[Anjo]\n<B>Superaprendiz</B> □□□□, em que posso ajudar?",
+        "pt-BR": "[Anjo]\n<B>Aprendiz</B> ØØØØ, em que posso ajudar?",
         "es-ES": "[Ángel]\nSeñor □□□□, <B>Superprincipiante</B>, ¿en qué puedo ayudarle?"
     },
     "xxNgDQ": {
@@ -1646,12 +1646,12 @@
     },
     "yRNgDQ": {
         "en-US": "Angel: Excuse me, Novice, but could you summarize that in one line?",
-        "pt-BR": "Anjo: Desculpe, Superaprendiz, mas dá para resumir em uma linha?",
+        "pt-BR": "Anjo: Desculpe, Aprendiz, mas dá para resumir em uma linha?",
         "es-ES": "Ángel: Disculpe, señor Superprincipiante, ¿podría resumirlo en una línea?"
     },
     "yhNgDQ": {
         "en-US": "[Angel]\nExcuse me, <B>Super Novice</B>, but could you summarize that in one line?",
-        "pt-BR": "[Anjo]\nDesculpe, <B>Superaprendiz</B>, mas dá para resumir em uma linha?",
+        "pt-BR": "[Anjo]\nDesculpe, <B>Aprendiz</B>, mas dá para resumir em uma linha?",
         "es-ES": "[Ángel]\nDisculpe, señor <B>Superprincipiante</B>, ¿podría resumirlo en una línea?"
     },
     "yxNgDQ": {
@@ -1686,22 +1686,22 @@
     },
     "0RNgDQ": {
         "en-US": "Angel: Take care~ □□□□.",
-        "pt-BR": "Anjo: Boa sorte~ □□□□.",
+        "pt-BR": "Anjo: Boa sorte~ ØØØØ.",
         "es-ES": "Ángel: Que le vaya bien, señor □□□□~"
     },
     "0hNgDQ": {
         "en-US": "[Angel]\nTake care~ □□□□.",
-        "pt-BR": "[Anjo]\nBoa sorte~ □□□□.",
+        "pt-BR": "[Anjo]\nBoa sorte~ ØØØØ.",
         "es-ES": "[Ángel]\nQue le vaya bien, señor □□□□~"
     },
     "0xNgDQ": {
         "en-US": "Green: Aaaagh! I want to become a 「Super Novice」.",
-        "pt-BR": "Verde: Aaah! Eu quero me tornar um 「Superaprendiz」.",
+        "pt-BR": "Verde: Aaah! Eu quero me tornar um [Superaprendiz].",
         "es-ES": "Verde: ¡Aaah! Quiero convertirme en 「Superprincipiante」."
     },
     "1BNgDQ": {
         "en-US": "[Green]\nAaaagh! I want to become a 「Super <B>Super Novice</B>」.",
-        "pt-BR": "[Verde]\nAaah! Eu quero me tornar um 「Super <B>Superaprendiz</B>」.",
+        "pt-BR": "[Verde]\nAaah! Eu quero me tornar um [<B>Superaprendiz</B>].",
         "es-ES": "[Verde]\n¡Aaah! Quiero convertirme en 「Súper <B>Superprincipiante</B>」."
     },
     "1RNgDQ": {
@@ -1736,12 +1736,12 @@
     },
     "2xNgDQ": {
         "en-US": "Blue: Hiiing.. I don't think that suits me, but for now, Mom says I won't get any allowance if I don't attend..",
-        "pt-BR": "Azul: Hiiing.. Acho que aquilo não combina comigo, mas por enquanto, se eu não frequentar, minha mãe disse que não vou receber mesada..",
+        "pt-BR": "Azul: Ai ai.. Acho que aquilo não combina comigo, mas por enquanto, se eu não frequentar, minha mãe disse que não vou receber mesada..",
         "es-ES": "Azul: Joo... Creo que eso no va conmigo, pero por ahora mamá dice que si no voy, no habrá paga..."
     },
     "3BNgDQ": {
         "en-US": "[Blue]\nHiiing.. I don't think that suits me, but for now, Mom says I won't get any allowance if I don't attend..",
-        "pt-BR": "[Azul]\nHiiing.. Acho que aquilo não combina comigo, mas por enquanto, se eu não frequentar, minha mãe disse que não vou receber mesada..",
+        "pt-BR": "[Azul]\nAi ai.. Acho que aquilo não combina comigo, mas por enquanto, se eu não frequentar, minha mãe disse que não vou receber mesada..",
         "es-ES": "[Azul]\nJoo... Creo que eso no va conmigo, pero por ahora mamá dice que si no voy, no habrá paga..."
     },
     "3RNgDQ": {
@@ -1756,12 +1756,12 @@
     },
     "3xNgDQ": {
         "en-US": "Blue: Hellooo! I'm □□□□, and I'll be attending Kafra Training School starting today~",
-        "pt-BR": "Azul: Olááá! Meu nome é □□□□ e vou frequentar a Escola de Formação Kafra a partir de hoje~",
+        "pt-BR": "Azul: Olááá! Meu nome é ØØØØ e vou frequentar a Escola de Formação Kafra a partir de hoje~",
         "es-ES": "Azul: ¡Holaa! Me llamo □□□□ y a partir de hoy voy a asistir a la escuela de formación Kafra~"
     },
     "4BNgDQ": {
         "en-US": "[Blue]\nHellooo! I'm □□□□, and I'll be attending Kafra Training School starting today~",
-        "pt-BR": "[Azul]\nOlááá! Meu nome é □□□□ e vou frequentar a Escola de Formação Kafra a partir de hoje~",
+        "pt-BR": "[Azul]\nOlááá! Meu nome é ØØØØ e vou frequentar a Escola de Formação Kafra a partir de hoje~",
         "es-ES": "[Azul]\n¡Holaa! Me llamo □□□□ y a partir de hoy voy a asistir a la escuela de formación Kafra~"
     },
     "4RNgDQ": {
@@ -1786,12 +1786,12 @@
     },
     "5RNgDQ": {
         "en-US": "Kafra: We received word that you were coming. You're student □□□□, correct? That's a lovely name. Oh my..",
-        "pt-BR": "Kafra: Recebemos o aviso de que você viria. Você é a aluna □□□□, certo? É um belo nome. Ora..",
+        "pt-BR": "Kafra: Recebemos o aviso de que você viria. Você é a aluna ØØØØ, certo? É um belo nome. Ora..",
         "es-ES": "Kafra: Recibimos el aviso de que vendrías. Eres la estudiante □□□□, ¿verdad? Qué nombre tan bonito. Vaya..."
     },
     "5hNgDQ": {
         "en-US": "[Kafra]\nWe received word that you were coming. You're student □□□□, correct? That's a lovely name. Oh my..",
-        "pt-BR": "[Kafra]\nRecebemos o aviso de que você viria. Você é a aluna □□□□, certo? É um belo nome. Ora..",
+        "pt-BR": "[Kafra]\nRecebemos o aviso de que você viria. Você é a aluna ØØØØ, certo? É um belo nome. Ora..",
         "es-ES": "[Kafra]\nRecibimos el aviso de que vendrías. Eres la estudiante □□□□, ¿verdad? Qué nombre tan bonito. Vaya..."
     },
     "5xNgDQ": {
@@ -1881,12 +1881,12 @@
     },
     "+BNgDQ": {
         "en-US": "Green: I'd like to rent a cart.",
-        "pt-BR": "Verde: Gostaria de alugar um carrinho.",
+        "pt-BR": "Verde: Gostaria de comprar um carrinho.",
         "es-ES": "Verde: Quisiera alquilar un carro."
     },
     "+RNgDQ": {
         "en-US": "[Green]\nI'd like to rent a cart.",
-        "pt-BR": "[Verde]\nGostaria de alugar um carrinho.",
+        "pt-BR": "[Verde]\nGostaria de comprar um carrinho.",
         "es-ES": "[Verde]\nQuisiera alquilar un carro."
     },
     "+hNgDQ": {
@@ -1921,12 +1921,12 @@
     },
     "ABRgDQ": {
         "en-US": "Blue: □□□□? Oh, is that the new class you said you were making?",
-        "pt-BR": "Azul: □□□□? Ah, a nova classe que você disse que ia criar é isso?",
+        "pt-BR": "Azul: ØØØØ? Ah, a nova classe que você disse que ia criar é essa?",
         "es-ES": "Azul: ¿□□□□? Ah, ¿esa es la profesión nueva que ibas a crear?"
     },
     "ARRgDQ": {
         "en-US": "[Blue]\n□□□□? Oh, is that the new class you said you were making?",
-        "pt-BR": "[Azul]\n□□□□? Ah, a nova classe que você disse que ia criar é isso?",
+        "pt-BR": "[Azul]\nØØØØ? Ah, a nova classe que você disse que ia criar é essa?",
         "es-ES": "[Azul]\n¿□□□□? Ah, ¿esa es la profesión nueva que ibas a crear?"
     },
     "AhRgDQ": {
@@ -1941,12 +1941,12 @@
     },
     "BBRgDQ": {
         "en-US": "Blue: Wow, so you're asking me to do something that violates headquarters policy?",
-        "pt-BR": "Azul: Uau, você está me pedindo para fazer algo que viola as regras da matriz?",
+        "pt-BR": "Azul: Uau, você está me pedindo para fazer algo que viola as regras da Corporação Kafra?",
         "es-ES": "Azul: Vaya, ¿me estás pidiendo que haga algo que viola las normas de la sede?"
     },
     "BRRgDQ": {
         "en-US": "[Blue]\nWow, so you're asking me to do something that violates headquarters policy?",
-        "pt-BR": "[Azul]\nUau, você está me pedindo para fazer algo que viola as regras da matriz?",
+        "pt-BR": "[Azul]\nUau, você está me pedindo para fazer algo que viola as regras da Corporação Kaf?",
         "es-ES": "[Azul]\nVaya, ¿me estás pidiendo que haga algo que viola las normas de la sede?"
     },
     "BhRgDQ": {
@@ -1971,22 +1971,22 @@
     },
     "ChRgDQ": {
         "en-US": "Blue: But it's a little awkward here. You know Kafra Headquarters in Aldebaran, right?",
-        "pt-BR": "Azul: Mas aqui é meio complicado. Você conhece a Matriz Kafra em Aldebaran?",
+        "pt-BR": "Azul: Mas aqui é meio complicado. Você conhece o Quartel-General Kafra em Al De Baran?",
         "es-ES": "Azul: Pero aquí es un poco complicado. ¿Conoces la sede de Kafra en Aldebaran?"
     },
     "CxRgDQ": {
         "en-US": "[Blue]\nBut it's a little awkward here. You know Kafra Headquarters in Aldebaran, right?",
-        "pt-BR": "[Azul]\nMas aqui é meio complicado. Você conhece a Matriz Kafra em Aldebaran?",
+        "pt-BR": "[Azul]\nMas aqui é meio complicado. Você conhece a Quartel-General Kafra em Al De Baran?",
         "es-ES": "[Azul]\nPero aquí es un poco complicado. ¿Conoces la sede de Kafra en Aldebaran?"
     },
     "DBRgDQ": {
         "en-US": "Green: The big building around 11 o'clock?",
-        "pt-BR": "Verde: Aquele prédio grande perto das 11 horas?",
+        "pt-BR": "Verde: Aquele prédio grande no spot 7?",
         "es-ES": "Verde: ¿Ese edificio grande que está cerca de las 11 en punto?"
     },
     "DRRgDQ": {
         "en-US": "[Green]\nThe big building around 11 o'clock?",
-        "pt-BR": "[Verde]\nAquele prédio grande perto das 11 horas?",
+        "pt-BR": "[Verde]\nAquele prédio grande no spot 7?",
         "es-ES": "[Verde]\n¿Ese edificio grande que está cerca de las 11 en punto?"
     },
     "DhRgDQ": {
@@ -2116,22 +2116,22 @@
     },
     "JxRgDQ": {
         "en-US": "Captain: You said your name was □□□□? Ship work will be far harder than you think.",
-        "pt-BR": "Capitão: Disse que se chamava □□□□? O trabalho no mar é muito mais duro do que você imagina.",
+        "pt-BR": "Capitão: Disse que se chamava ØØØØ? O trabalho no mar é muito mais duro do que você imagina.",
         "es-ES": "Capitán: ¿Dijiste que te llamabas □□□□? El trabajo en un barco es mucho más duro de lo que imaginas."
     },
     "KBRgDQ": {
         "en-US": "[Captain]\nYou said your name was □□□□? Ship work will be far harder than you think.",
-        "pt-BR": "[Capitão]\nDisse que se chamava □□□□? O trabalho no mar é muito mais duro do que você imagina.",
+        "pt-BR": "[Capitão]\nDisse que se chamava ØØØØ? O trabalho no mar é muito mais duro do que você imagina.",
         "es-ES": "[Capitán]\n¿Dijiste que te llamabas □□□□? El trabajo en un barco es mucho más duro de lo que imaginas."
     },
     "KRRgDQ": {
         "en-US": "Captain: If you're half-hearted because you saw something in a comic, I'll tie you up and throw you into the sea. Are you confident?",
-        "pt-BR": "Capitão: Se sua decisão for meia-boca por causa de quadrinhos, vou amarrar você e jogar no mar. Tem confiança?",
+        "pt-BR": "Capitão: Se sua decisão for meia-boca, vou amarrar você e jogar no mar. Tem confiança?",
         "es-ES": "Capitán: Si te has hecho ilusiones a medias por ver cómics o algo así, te ataré y te tiraré al mar. ¿Tienes confianza?"
     },
     "KhRgDQ": {
         "en-US": "[Captain]\nIf you're half-hearted because you saw something in a comic, I'll tie you up and throw you into the sea. Are you confident?",
-        "pt-BR": "[Capitão]\nSe sua decisão for meia-boca por causa de quadrinhos, vou amarrar você e jogar no mar. Tem confiança?",
+        "pt-BR": "[Capitão]\nSe sua decisão for meia-boca, vou amarrar você e jogar no mar. Tem confiança?",
         "es-ES": "[Capitán]\nSi te has hecho ilusiones a medias por ver cómics o algo así, te ataré y te tiraré al mar. ¿Tienes confianza?"
     },
     "KxRgDQ": {
@@ -2171,12 +2171,12 @@
     },
     "MhRgDQ": {
         "en-US": "Eddga: It's been a while since we've been here too, □□□□. Wouldn't you say?",
-        "pt-BR": "Edgar: Faz tempo que não venho aqui, □□□□. Não acha?",
+        "pt-BR": "Edgar: Faz tempo que não venho aqui, ØØØØ. Não acha?",
         "es-ES": "Edgar: Hace tiempo que no venía por aquí, □□□□. ¿No crees?"
     },
     "MxRgDQ": {
         "en-US": "[Eddga]\nIt's been a while since we've been here too, □□□□. Wouldn't you say?",
-        "pt-BR": "[Edgar]\nFaz tempo que não venho aqui, □□□□. Não acha?",
+        "pt-BR": "[Edgar]\nFaz tempo que não venho aqui, ØØØØ. Não acha?",
         "es-ES": "[Edgar]\nHace tiempo que no venía por aquí, □□□□. ¿No crees?"
     },
     "NBRgDQ": {
@@ -2191,12 +2191,12 @@
     },
     "NhRgDQ": {
         "en-US": "Eddga: What? You punk?",
-        "pt-BR": "Edgar: O quê? Seu moleque?",
+        "pt-BR": "Edgar: O quê, moleque?",
         "es-ES": "Edgar: ¿Qué? ¿Qué dices, mocoso?"
     },
     "NxRgDQ": {
         "en-US": "[Eddga]\nWhat? You punk?",
-        "pt-BR": "[Edgar]\nO quê? Seu moleque?",
+        "pt-BR": "[Edgar]\nO quê, moleque?",
         "es-ES": "[Edgar]\n¿Qué? ¿Qué dices, mocoso?"
     },
     "OBRgDQ": {
@@ -2211,12 +2211,12 @@
     },
     "OhRgDQ": {
         "en-US": "Eddga: Good grief.. I was dumbfounded when a Super Novice who knew nothing came asking me to give him work.",
-        "pt-BR": "Edgar: Ora.. Quando um Superaprendiz que não sabia de nada apareceu pedindo trabalho, fiquei sem palavras.",
+        "pt-BR": "Edgar: Ora.. Quando um Aprendiz que não sabia de nada apareceu pedindo trabalho, fiquei sem palavras.",
         "es-ES": "Edgar: En fin... Cuando apareció un Superprincipiante que no sabía nada y me pidió trabajo, me quedé atónito."
     },
     "OxRgDQ": {
         "en-US": "[Eddga]\nGood grief.. I was dumbfounded when a <B>Super Novice</B> who knew nothing came asking me to give him work.",
-        "pt-BR": "[Edgar]\nOra.. Quando um <B>Superaprendiz</B> que não sabia de nada apareceu pedindo trabalho, fiquei sem palavras.",
+        "pt-BR": "[Edgar]\nOra.. Quando um <B>Aprendiz</B> que não sabia de nada apareceu pedindo trabalho, fiquei sem palavras.",
         "es-ES": "[Edgar]\nEn fin... Cuando apareció un <B>Superprincipiante</B> que no sabía nada y me pidió trabajo, me quedé atónito."
     },
     "PBRgDQ": {
@@ -2281,22 +2281,22 @@
     },
     "SBRgDQ": {
         "en-US": "Eddga: Fine, you punk! If you're quitting while you have some dream to pursue, then that's enough.",
-        "pt-BR": "Edgar: Certo, seu moleque! Se está desistindo enquanto tem um sonho de fazer algo, então está tudo bem.",
+        "pt-BR": "Edgar: Certo, moleque! Se está desistindo enquanto tem um sonho de fazer algo, então está tudo bem.",
         "es-ES": "Edgar: ¡Bien, mocoso! Si lo dejas teniendo algún sueño que perseguir, entonces está bien."
     },
     "SRRgDQ": {
         "en-US": "[Eddga]\nFine, you punk! If you're quitting while you have some dream to pursue, then that's enough.",
-        "pt-BR": "[Edgar]\nCerto, seu moleque! Se está desistindo enquanto tem um sonho de fazer algo, então está tudo bem.",
+        "pt-BR": "[Edgar]\nCerto, moleque! Se está desistindo enquanto tem um sonho de fazer algo, então está tudo bem.",
         "es-ES": "[Edgar]\n¡Bien, mocoso! Si lo dejas teniendo algún sueño que perseguir, entonces está bien."
     },
     "ShRgDQ": {
         "en-US": "Eddga: You usually act like you've got a screw loose, so when you suddenly said you were quitting, I worried something had happened. But that's enough, you punk.",
-        "pt-BR": "Edgar: Você sempre fica por aí parecendo um sujeito sem parafuso, então quando disse de repente que ia sair, fiquei preocupado se havia acontecido algo. Mas está bem, seu moleque.",
+        "pt-BR": "Edgar: Você sempre fica por aí parecendo um sujeito sem parafuso, então quando disse de repente que ia sair, fiquei preocupado se havia acontecido algo. Mas está bem, moleque.",
         "es-ES": "Edgar: Como normalmente pareces un tipo al que le falta un tornillo, me preocupé al oír que ibas a dejarlo de repente. Pero está bien, mocoso."
     },
     "SxRgDQ": {
         "en-US": "[Eddga]\nYou usually act like you've got a screw loose, so when you suddenly said you were quitting, I worried something had happened. But that's enough, you punk.",
-        "pt-BR": "[Edgar]\nVocê sempre fica por aí parecendo um sujeito sem parafuso, então quando disse de repente que ia sair, fiquei preocupado se havia acontecido algo. Mas está bem, seu moleque.",
+        "pt-BR": "[Edgar]\nVocê sempre fica por aí parecendo um sujeito sem parafuso, então quando disse de repente que ia sair, fiquei preocupado se havia acontecido algo. Mas está bem, moleque.",
         "es-ES": "[Edgar]\nComo normalmente pareces un tipo al que le falta un tornillo, me preocupé al oír que ibas a dejarlo de repente. Pero está bien, mocoso."
     },
     "TBRgDQ": {
@@ -2366,42 +2366,42 @@
     },
     "WRRgDQ": {
         "en-US": "Chiron Grik: Huh. You are the first person to say you wish to live as a Sage instead of calling it a class change.",
-        "pt-BR": "Cheiron Grik: Ora. É a primeira vez que vejo alguém dizer que quer viver como Sábio, em vez de falar em mudança de classe.",
+        "pt-BR": "Kayron Grig: Ora. É a primeira vez que vejo alguém dizer que quer viver como Sábio, em vez de falar em mudança de classe.",
         "es-ES": "Chiron Grieg: Vaya. Eres la primera persona que no habla de cambio de profesión, sino de querer vivir como Sabio."
     },
     "WhRgDQ": {
         "en-US": "[Chiron Grik]\nHuh. You are the first person to say you wish to live as a Sage instead of calling it a class change.",
-        "pt-BR": "[Cheiron Grik]\nOra. É a primeira vez que vejo alguém dizer que quer viver como Sábio, em vez de falar em mudança de classe.",
+        "pt-BR": "[Kayron Grig]\nOra. É a primeira vez que vejo alguém dizer que quer viver como Sábio, em vez de falar em mudança de classe.",
         "es-ES": "[Chiron Grieg]\nVaya. Eres la primera persona que no habla de cambio de profesión, sino de querer vivir como Sabio."
     },
     "WxRgDQ": {
         "en-US": "Chiron Grik: And that person is a Novice? Is it not still too early?",
-        "pt-BR": "Cheiron Grik: E ainda por cima essa pessoa é um Superaprendiz? Não seria cedo demais?",
+        "pt-BR": "Kayron Grig: E ainda por cima essa pessoa é um Aprendiz? Não seria cedo demais?",
         "es-ES": "Chiron Grieg: ¿Y encima esa persona es un Superprincipiante? ¿No es aún demasiado pronto?"
     },
     "XBRgDQ": {
         "en-US": "[Chiron Grik]\nAnd that person is a <B>Super Novice</B>? Is it not still too early?",
-        "pt-BR": "[Cheiron Grik]\nE ainda por cima essa pessoa é um <B>Superaprendiz</B>? Não seria cedo demais?",
+        "pt-BR": "[Kayron Grig]\nE ainda por cima essa pessoa é um <B>Aprendiz</B>? Não seria cedo demais?",
         "es-ES": "[Chiron Grieg]\n¿Y encima esa persona es un <B>Superprincipiante</B>? ¿No es aún demasiado pronto?"
     },
     "XRRgDQ": {
-        "en-US": "Chiron Grik: To become a Sage, one must enroll in Schweicherbil, undergo sufficient research in a specific subject,",
-        "pt-BR": "Cheiron Grik: Um sábio é alguém que ingressa em Schweicherbil, passa por um processo de pesquisa suficiente sobre uma disciplina específica,",
-        "es-ES": "Chiron Grieg: Un sabio es alguien que ingresa en Schweicherbil, pasa por un proceso de investigación suficiente sobre una materia concreta"
+        "en-US": "Chiron Grik: To become a Sage, one must enroll in Schweicherwil, undergo sufficient research in a specific subject,",
+        "pt-BR": "Kayron Grig: Um sábio é alguém que ingressa em Schweicherwil, passa por um processo de pesquisa suficiente sobre uma disciplina específica,",
+        "es-ES": "Chiron Grieg: Un sabio es alguien que ingresa en Schweicherwil, pasa por un proceso de investigación suficiente sobre una materia concreta"
     },
     "XhRgDQ": {
-        "en-US": "[Chiron Grik]\nTo become a Sage, one must enroll in Schweicherbil, undergo sufficient research in a specific subject,",
-        "pt-BR": "[Cheiron Grik]\nUm sábio é alguém que ingressa em Schweicherbil, passa por um processo de pesquisa suficiente sobre uma disciplina específica,",
-        "es-ES": "[Chiron Grieg]\nUn sabio es alguien que ingresa en Schweicherbil, pasa por un proceso de investigación suficiente sobre una materia concreta"
+        "en-US": "[Chiron Grik]\nTo become a Sage, one must enroll in Schweicherwil, undergo sufficient research in a specific subject,",
+        "pt-BR": "[Kayron Grig]\nUm sábio é alguém que ingressa em Schweicherwil, passa por um processo de pesquisa suficiente sobre uma disciplina específica,",
+        "es-ES": "[Chiron Grieg]\nUn sabio es alguien que ingresa en Schweicherwil, pasa por un proceso de investigación suficiente sobre una materia concreta"
     },
     "XxRgDQ": {
         "en-US": "Chiron Grik: write that research into a thesis, and only after passing the evaluation of that thesis can one become one..",
-        "pt-BR": "Cheiron Grik: escreve essa pesquisa como tese e só pode se tornar um depois de ser aprovado na avaliação dessa tese..",
+        "pt-BR": "Kayron Grig: escreve essa pesquisa como tese e só pode se tornar um depois de ser aprovado na avaliação dessa tese..",
         "es-ES": "Chiron Grieg: y escribe lo investigado en una tesis. Solo tras aprobar la evaluación de esa tesis puede convertirse en tal..."
     },
     "YBRgDQ": {
         "en-US": "[Chiron Grik]\nwrite that research into a thesis, and only after passing the evaluation of that thesis can one become one..",
-        "pt-BR": "[Cheiron Grik]\nescreve essa pesquisa como tese e só pode se tornar um depois de ser aprovado na avaliação dessa tese..",
+        "pt-BR": "[Kayron Grig]\nescreve essa pesquisa como tese e só pode se tornar um depois de ser aprovado na avaliação dessa tese..",
         "es-ES": "[Chiron Grieg]\ny escribe lo investigado en una tesis. Solo tras aprobar la evaluación de esa tesis puede convertirse en tal..."
     },
     "YRRgDQ": {
@@ -2416,122 +2416,122 @@
     },
     "YxRgDQ": {
         "en-US": "Chiron Grik: Huh. You've already completed a thesis? Impressive. Let me see it.",
-        "pt-BR": "Cheiron Grik: Ora. Já concluiu uma tese? Impressionante. Mostre-me.",
+        "pt-BR": "Kayron Grig: Ora. Já concluiu uma tese? Impressionante. Mostre-me.",
         "es-ES": "Chiron Grieg: Vaya. ¿Ya has terminado una tesis? Impresionante. Muéstramela."
     },
     "ZBRgDQ": {
         "en-US": "[Chiron Grik]\nHuh. You've already completed a thesis? Impressive. Let me see it.",
-        "pt-BR": "[Cheiron Grik]\nOra. Já concluiu uma tese? Impressionante. Mostre-me.",
+        "pt-BR": "[Kayron Grig]\nOra. Já concluiu uma tese? Impressionante. Mostre-me.",
         "es-ES": "[Chiron Grieg]\nVaya. ¿Ya has terminado una tesis? Impresionante. Muéstramela."
     },
     "ZRRgDQ": {
         "en-US": "Chiron Grik: Hmm..",
-        "pt-BR": "Cheiron Grik: Hmm..",
+        "pt-BR": "Kayron Grig: Hmm..",
         "es-ES": "Chiron Grieg: Mmm..."
     },
     "ZhRgDQ": {
         "en-US": "[Chiron Grik]\nHmm..",
-        "pt-BR": "[Cheiron Grik]\nHmm..",
+        "pt-BR": "[Kayron Grig]\nHmm..",
         "es-ES": "[Chiron Grieg]\nMmm..."
     },
     "ZxRgDQ": {
         "en-US": "Chiron Grik: Huh...",
-        "pt-BR": "Cheiron Grik: Ora...",
+        "pt-BR": "Kayron Grig: Ora...",
         "es-ES": "Chiron Grieg: Vaya..."
     },
     "aBRgDQ": {
         "en-US": "[Chiron Grik]\nHuh...",
-        "pt-BR": "[Cheiron Grik]\nOra...",
+        "pt-BR": "[Kayron Grig]\nOra...",
         "es-ES": "[Chiron Grieg]\nVaya..."
     },
     "aRRgDQ": {
         "en-US": "Chiron Grik: Hmm...",
-        "pt-BR": "Cheiron Grik: Humm...",
+        "pt-BR": "Kayron Grig: Humm...",
         "es-ES": "Chiron Grieg: Mmm..."
     },
     "ahRgDQ": {
         "en-US": "[Chiron Grik]\nHmm...",
-        "pt-BR": "[Cheiron Grik]\nHumm...",
+        "pt-BR": "[Kayron Grig]\nHumm...",
         "es-ES": "[Chiron Grieg]\nMmm..."
     },
     "axRgDQ": {
         "en-US": "Chiron Grik: Your polished writing style is quite skillful. You have talent for research.",
-        "pt-BR": "Cheiron Grik: O estilo é refinado e fluente, e sua habilidade é considerável. Você tem aptidão para pesquisa.",
+        "pt-BR": "Kayron Grig: O estilo é refinado e fluente, e sua habilidade é considerável. Você tem aptidão para pesquisa.",
         "es-ES": "Chiron Grieg: Con una prosa pulida y elegante, tienes bastante habilidad. Posees talento para la investigación."
     },
     "bBRgDQ": {
         "en-US": "[Chiron Grik]\nYour polished writing style is quite skillful. You have talent for research.",
-        "pt-BR": "[Cheiron Grik]\nO estilo é refinado e fluente, e sua habilidade é considerável. Você tem aptidão para pesquisa.",
+        "pt-BR": "[Kayron Grig]\nO estilo é refinado e fluente, e sua habilidade é considerável. Você tem aptidão para pesquisa.",
         "es-ES": "[Chiron Grieg]\nCon una prosa pulida y elegante, tienes bastante habilidad. Posees talento para la investigación."
     },
     "bRRgDQ": {
-        "en-US": "Chiron Grik: Huh. This is the first case of its kind in Schweicherbil history.",
-        "pt-BR": "Cheiron Grik: Ora, isso é inédito na história de Schweicherbil.",
-        "es-ES": "Chiron Grieg: Vaya. Es la primera vez que ocurre algo así en la historia de Schweicherbil."
+        "en-US": "Chiron Grik: Huh. This is the first case of its kind in Schweicherwil history.",
+        "pt-BR": "Kayron Grig: Ora, isso é inédito na história de Schweicherwil.",
+        "es-ES": "Chiron Grieg: Vaya. Es la primera vez que ocurre algo así en la historia de Schweicherwil."
     },
     "bhRgDQ": {
-        "en-US": "[Chiron Grik]\nHuh. This is the first case of its kind in Schweicherbil history.",
-        "pt-BR": "[Cheiron Grik]\nOra, isso é inédito na história de Schweicherbil.",
-        "es-ES": "[Chiron Grieg]\nVaya. Es la primera vez que ocurre algo así en la historia de Schweicherbil."
+        "en-US": "[Chiron Grik]\nHuh. This is the first case of its kind in Schweicherwil history.",
+        "pt-BR": "[Kayron Grig]\nOra, isso é inédito na história de Schweicherwil.",
+        "es-ES": "[Chiron Grieg]\nVaya. Es la primera vez que ocurre algo así en la historia de Schweicherwil."
     },
     "bxRgDQ": {
         "en-US": "Chiron Grik: If you have written a thesis this excellent, what does being a Super Novice matter?",
-        "pt-BR": "Cheiron Grik: Com uma tese tão excelente, que importância tem ser Superaprendiz?",
+        "pt-BR": "Kayron Grig: Com uma tese tão excelente, que importância tem ser Aprendiz?",
         "es-ES": "Chiron Grieg: Si has escrito una tesis tan excelente, ¿qué importa que seas Superprincipiante?"
     },
     "cBRgDQ": {
         "en-US": "[Chiron Grik]\nIf you have written a thesis this excellent, what does being a <B>Super Novice</B> matter?",
-        "pt-BR": "[Cheiron Grik]\nCom uma tese tão excelente, que importância tem ser <B>Superaprendiz</B>?",
+        "pt-BR": "[Kayron Grig]\nCom uma tese tão excelente, que importância tem ser <B>Aprendiz</B>?",
         "es-ES": "[Chiron Grieg]\nSi has escrito una tesis tan excelente, ¿qué importa que seas <B>Superprincipiante</B>?"
     },
     "cRRgDQ": {
         "en-US": "Chiron Grik: You graduate! From now on, live as a Sage.",
-        "pt-BR": "Cheiron Grik: Você está formado! A partir de agora, viva como Sábio.",
+        "pt-BR": "Kayron Grig: Você está formado! A partir de agora, viva como Sábio.",
         "es-ES": "Chiron Grieg: Estás graduado. A partir de ahora, vive como Sabio."
     },
     "chRgDQ": {
         "en-US": "[Chiron Grik]\nYou graduate! From now on, live as a Sage.",
-        "pt-BR": "[Cheiron Grik]\nVocê está formado! A partir de agora, viva como Sábio.",
+        "pt-BR": "[Kayron Grig]\nVocê está formado! A partir de agora, viva como Sábio.",
         "es-ES": "[Chiron Grieg]\nEstás graduado. A partir de ahora, vive como Sabio."
     },
     "cxRgDQ": {
         "en-US": "Chiron Grik: Be sure not to forget the mindset you have now...",
-        "pt-BR": "Cheiron Grik: Não se esqueça dessa mentalidade daqui em diante...",
+        "pt-BR": "Kayron Grig: Não se esqueça dessa mentalidade daqui em diante...",
         "es-ES": "Chiron Grieg: Procura no olvidar nunca la mentalidad que tienes ahora..."
     },
     "dBRgDQ": {
         "en-US": "[Chiron Grik]\nBe sure not to forget the mindset you have now...",
-        "pt-BR": "[Cheiron Grik]\nNão se esqueça dessa mentalidade daqui em diante...",
+        "pt-BR": "[Kayron Grig]\nNão se esqueça dessa mentalidade daqui em diante...",
         "es-ES": "[Chiron Grieg]\nProcura no olvidar nunca la mentalidad que tienes ahora..."
     },
     "dRRgDQ": {
         "en-US": "Chiron Grik: And cherish your thesis. It is the first Book you wrote.",
-        "pt-BR": "Cheiron Grik: Guarde bem sua tese. É o primeiro Livro que você escreveu.",
+        "pt-BR": "Kayron Grig: Guarde bem sua tese. É o primeiro livro que você escreveu.",
         "es-ES": "Chiron Grieg: Guarda bien tu tesis. Es el primer Libro que has escrito."
     },
     "dhRgDQ": {
         "en-US": "[Chiron Grik]\nAnd cherish your thesis. It is the first Book you wrote.",
-        "pt-BR": "[Cheiron Grik]\nGuarde bem sua tese. É o primeiro Livro que você escreveu.",
+        "pt-BR": "[Kayron Grig]\nGuarde bem sua tese. É o primeiro livro que você escreveu.",
         "es-ES": "[Chiron Grieg]\nGuarda bien tu tesis. Es el primer Libro que has escrito."
     },
     "dxRgDQ": {
         "en-US": "Chiron Grik: Read it from time to time and preserve the memory you have now. Now, then... May your path ahead be filled with knowledge.",
-        "pt-BR": "Cheiron Grik: Leia-a de vez em quando e preserve a memória de agora. Então... que seu caminho seja repleto de conhecimento.",
+        "pt-BR": "Kayron Grig: Leia-a de vez em quando e preserve a memória de agora. Então... que seu caminho seja repleto de conhecimento.",
         "es-ES": "Chiron Grieg: Mírala de vez en cuando y conserva este recuerdo. Bien, entonces... Que tu camino esté lleno de conocimiento."
     },
     "eBRgDQ": {
         "en-US": "[Chiron Grik]\nRead it from time to time and preserve the memory you have now. Now, then... May your path ahead be filled with knowledge.",
-        "pt-BR": "[Cheiron Grik]\nLeia-a de vez em quando e preserve a memória de agora. Então... que seu caminho seja repleto de conhecimento.",
+        "pt-BR": "[Kayron Grig]\nLeia-a de vez em quando e preserve a memória de agora. Então... que seu caminho seja repleto de conhecimento.",
         "es-ES": "[Chiron Grieg]\nMírala de vez en cuando y conserva este recuerdo. Bien, entonces... Que tu camino esté lleno de conocimiento."
     },
     "eRRgDQ": {
         "en-US": "Chiron Grik: Research diligently!!",
-        "pt-BR": "Cheiron Grik: Pesquise com afinco!!",
+        "pt-BR": "Kayron Grig: Pesquise com afinco!!",
         "es-ES": "Chiron Grieg: ¡Investiga con ahínco!"
     },
     "ehRgDQ": {
         "en-US": "[Chiron Grik]\nResearch diligently!!",
-        "pt-BR": "[Cheiron Grik]\nPesquise com afinco!!",
+        "pt-BR": "[Kayron Grig]\nPesquise com afinco!!",
         "es-ES": "[Chiron Grieg]\n¡Investiga con ahínco!"
     },
     "exRgDQ": {
@@ -2576,17 +2576,17 @@
     },
     "gxRgDQ": {
         "en-US": "Chiron Grik",
-        "pt-BR": "Cheiron Grik",
+        "pt-BR": "Kayron Grig",
         "es-ES": "Chiron Grieg"
     },
     "hBRgDQ": {
         "en-US": "Red: Ah.. come on.. I joined because it was a Super Novice Club, but what is this? Everyone has a class they want to be...",
-        "pt-BR": "Vermelho: Ah.. Poxa.. Entrei porque disseram que era um clube de Superaprendiz, mas o que é isso? Todo mundo tem uma classe que quer seguir...",
+        "pt-BR": "Vermelho: Ah.. Poxa.. Entrei porque disseram que era um clube de Aprendiz, mas o que é isso? Todo mundo tem uma classe que quer seguir...",
         "es-ES": "Rojo: Ah... Joder... Me uní porque decían que era un club Superprincipiante, pero ¿qué es esto? Todos tienen una profesión que quieren hacer..."
     },
     "hRRgDQ": {
         "en-US": "[Red]\nAh.. come on.. I joined because it was a <B>Super Novice</B> Club, but what is this? Everyone has a class they want to be...",
-        "pt-BR": "[Vermelho]\nAh.. Poxa.. Entrei porque disseram que era um clube de <B>Superaprendiz</B>, mas o que é isso? Todo mundo tem uma classe que quer seguir...",
+        "pt-BR": "[Vermelho]\nAh.. Poxa.. Entrei porque disseram que era um clube de <B>Aprendiz</B>, mas o que é isso? Todo mundo tem uma classe que quer seguir...",
         "es-ES": "[Rojo]\nAh... Joder... Me uní porque decían que era un club <B>Superprincipiante</B>, pero ¿qué es esto? Todos tienen una profesión que quieren hacer..."
     },
     "hhRgDQ": {
@@ -2711,12 +2711,12 @@
     },
     "nhRgDQ": {
         "en-US": "Mage Guild Member: You're a Super Novice. What brings you to the Mage Guild?",
-        "pt-BR": "Membro da Guilda dos Magos: Você é um Superaprendiz. O que o traz à guilda dos magos?",
+        "pt-BR": "Membro da Guilda dos Magos: Você é um Aprendiz. O que o traz à guilda dos magos?",
         "es-ES": "Miembro del gremio de magos: Eres Superprincipiante. ¿A qué has venido al gremio de magos?"
     },
     "nxRgDQ": {
         "en-US": "[Mage Guild Member]\nYou're a <B>Super Novice</B>. What brings you to the Mage Guild?",
-        "pt-BR": "[Membro da Guilda dos Magos]\nVocê é um <B>Superaprendiz</B>. O que o traz à guilda dos magos?",
+        "pt-BR": "[Membro da Guilda dos Magos]\nVocê é um <B>Aprendiz</B>. O que o traz à guilda dos magos?",
         "es-ES": "[Miembro del gremio de magos]\nEres <B>Superprincipiante</B>. ¿A qué has venido al gremio de magos?"
     },
     "oBRgDQ": {
@@ -2771,12 +2771,12 @@
     },
     "qhRgDQ": {
         "en-US": "Mage Guild Member: You could say it's hard to become a master without steady study and effort.",
-        "pt-BR": "Membro da Guilda dos Magos: Digamos que é difícil se tornar mestre sem estudo e esforço constantes?",
+        "pt-BR": "Membro da Guilda dos Magos: Digamos que é difícil se tornar Mago sem estudo e esforço constantes?",
         "es-ES": "Miembro del gremio de magos: Se podría decir que, sin investigación y esfuerzo constantes, es difícil convertirse en un maestro."
     },
     "qxRgDQ": {
         "en-US": "[Mage Guild Member]\nYou could say it's hard to become a master without steady study and effort.",
-        "pt-BR": "[Membro da Guilda dos Magos]\nDigamos que é difícil se tornar mestre sem estudo e esforço constantes?",
+        "pt-BR": "[Membro da Guilda dos Magos]\nDigamos que é difícil se tornar Mago sem estudo e esforço constantes?",
         "es-ES": "[Miembro del gremio de magos]\nSe podría decir que, sin investigación y esfuerzo constantes, es difícil convertirse en un maestro."
     },
     "rBRgDQ": {
@@ -2846,12 +2846,12 @@
     },
     "uRRgDQ": {
         "en-US": "Archer Guild Member: Looking again, you're a Super Novice.",
-        "pt-BR": "Membro da Guilda dos Arqueiros: Olhando de novo, você é um Superaprendiz.",
+        "pt-BR": "Membro da Guilda dos Arqueiros: Olhando de novo, você é um Aprendiz.",
         "es-ES": "Miembro del gremio de arqueros: Ahora que te miro bien, eras Superprincipiante."
     },
     "uhRgDQ": {
         "en-US": "[Archer Guild Member]\nLooking again, you're a <B>Super Novice</B>.",
-        "pt-BR": "[Membro da Guilda dos Arqueiros]\nOlhando de novo, você é um <B>Superaprendiz</B>.",
+        "pt-BR": "[Membro da Guilda dos Arqueiros]\nOlhando de novo, você é um <B>Aprendiz</B>.",
         "es-ES": "[Miembro del gremio de arqueros]\nAhora que te miro bien, eras <B>Superprincipiante</B>."
     },
     "uxRgDQ": {
@@ -2961,12 +2961,12 @@
     },
     "0BRgDQ": {
         "en-US": "Red: What? There's a membership fee? What money do Novices even have that you're charging a membership fee?",
-        "pt-BR": "Vermelho: O quê? Tem taxa de inscrição? Que dinheiro Superaprendiz teria para vocês cobrarem taxa?",
+        "pt-BR": "Vermelho: O quê? Tem taxa de inscrição? Que dinheiro Aprendiz teria para vocês cobrarem taxa?",
         "es-ES": "Rojo: ¿Qué? ¿Hay cuota de inscripción? ¿Qué dinero tienen los Superprincipiante para que les cobren una cuota?"
     },
     "0RRgDQ": {
         "en-US": "[Red]\nWhat? There's a membership fee? What money do <B>Super Novice</B>s even have that you're charging a membership fee?",
-        "pt-BR": "[Vermelho]\nO quê? Tem taxa de inscrição? Que dinheiro <B>Superaprendiz</B> teria para vocês cobrarem taxa?",
+        "pt-BR": "[Vermelho]\nO quê? Tem taxa de inscrição? Que dinheiro <B>Aprendiz</B> teria para vocês cobrarem taxa?",
         "es-ES": "[Rojo]\n¿Qué? ¿Hay cuota de inscripción? ¿Qué dinero tienen los <B>Superprincipiante</B> para que les cobren una cuota?"
     },
     "0hRgDQ": {
@@ -3096,12 +3096,12 @@
     },
     "6xRgDQ": {
         "en-US": "Guild Official: Come to think of it, many interesting Novices have been coming by lately.",
-        "pt-BR": "Representante da Guilda: Pensando bem, muitos Superaprendiz interessantes têm vindo ultimamente.",
+        "pt-BR": "Representante da Guilda: Pensando bem, muitos Aprendiz interessantes têm vindo ultimamente.",
         "es-ES": "Responsable del gremio: Ahora que lo pienso, últimamente vienen muchos Superprincipiante interesantes."
     },
     "7BRgDQ": {
         "en-US": "[Guild Official]\nCome to think of it, many interesting <B>Super Novice</B>s have been coming by lately.",
-        "pt-BR": "[Representante da Guilda]\nPensando bem, muitos <B>Superaprendiz</B> interessantes têm vindo ultimamente.",
+        "pt-BR": "[Representante da Guilda]\nPensando bem, muitos <B>Aprendiz</B> interessantes têm vindo ultimamente.",
         "es-ES": "[Responsable del gremio]\nAhora que lo pienso, últimamente vienen muchos <B>Superprincipiante</B> interesantes."
     },
     "7RRgDQ": {
@@ -3171,12 +3171,12 @@
     },
     "+hRgDQ": {
         "en-US": "Cathedral Priest: Brother Super Novice, what brings you here?",
-        "pt-BR": "Padre da Catedral: Irmão Superaprendiz, o que o traz aqui?",
+        "pt-BR": "Padre da Catedral: Irmão Aprendiz, o que o traz aqui?",
         "es-ES": "Sacerdote de la catedral: Hermano Superprincipiante, ¿a qué ha venido?"
     },
     "+xRgDQ": {
         "en-US": "[Cathedral Priest]\nBrother <B>Super Novice</B>, what brings you here?",
-        "pt-BR": "[Padre da Catedral]\nIrmão <B>Superaprendiz</B>, o que o traz aqui?",
+        "pt-BR": "[Padre da Catedral]\nIrmão <B>Aprendiz</B>, o que o traz aqui?",
         "es-ES": "[Sacerdote de la catedral]\nHermano <B>Superprincipiante</B>, ¿a qué ha venido?"
     },
     "/BRgDQ": {
@@ -3291,12 +3291,12 @@
     },
     "EhVgDQ": {
         "en-US": "Red: Not yet. I visited all the job guilds, but nothing really appeals to me. What about you? You still look like a Super Novice too.",
-        "pt-BR": "Vermelho: Ainda não. Visitei todas as guildas de classe, mas nada me atraiu. E você? Você também ainda parece Superaprendiz.",
+        "pt-BR": "Vermelho: Ainda não. Visitei todas as guildas de classe, mas nada me atraiu. E você? Você também ainda parece Aprendiz.",
         "es-ES": "Rojo: Todavía no. Visité todos los gremios de profesiones, pero ninguno me atrae. ¿Y tú? Tú también sigues pareciendo Superprincipiante."
     },
     "ExVgDQ": {
         "en-US": "[Red]\nNot yet. I visited all the job guilds, but nothing really appeals to me. What about you? You still look like a <B>Super Novice</B> too.",
-        "pt-BR": "[Vermelho]\nAinda não. Visitei todas as guildas de classe, mas nada me atraiu. E você? Você também ainda parece <B>Superaprendiz</B>.",
+        "pt-BR": "[Vermelho]\nAinda não. Visitei todas as guildas de classe, mas nada me atraiu. E você? Você também ainda parece <B>Aprendiz</B>.",
         "es-ES": "[Rojo]\nTodavía no. Visité todos los gremios de profesiones, pero ninguno me atrae. ¿Y tú? Tú también sigues pareciendo <B>Superprincipiante</B>."
     },
     "FBVgDQ": {
@@ -3351,12 +3351,12 @@
     },
     "HhVgDQ": {
         "en-US": "Green: Unfair? It's appealing instead. A Super Novice who has trained in the techniques of all six classes. How cool and appealing is that?",
-        "pt-BR": "Verde: Roubado nada, é até mais atraente. Um Superaprendiz que treinou técnicas das seis classes, isso não é incrível e atraente?",
+        "pt-BR": "Verde: Roubado nada, é até mais atraente. Um Aprendiz que treinou técnicas das seis classes, isso não é incrível e atraente?",
         "es-ES": "Verde: ¿Tramposo? Más bien es atractivo. Un Superprincipiante que ha entrenado las técnicas de seis profesiones. ¿No es genial y atractivo?"
     },
     "HxVgDQ": {
         "en-US": "[Green]\nUnfair? It's appealing instead. A <B>Super Novice</B> who has trained in the techniques of all six classes. How cool and appealing is that?",
-        "pt-BR": "[Verde]\nRoubado nada, é até mais atraente. Um <B>Superaprendiz</B> que treinou técnicas das seis classes, isso não é incrível e atraente?",
+        "pt-BR": "[Verde]\nRoubado nada, é até mais atraente. Um <B>Aprendiz</B> que treinou técnicas das seis classes, isso não é incrível e atraente?",
         "es-ES": "[Verde]\n¿Tramposo? Más bien es atractivo. Un <B>Superprincipiante</B> que ha entrenado las técnicas de seis profesiones. ¿No es genial y atractivo?"
     },
     "IBVgDQ": {
@@ -3371,12 +3371,12 @@
     },
     "IhVgDQ": {
         "en-US": "Green: Super? Super? Oh, I like that. It's decided. From now on, my class is 「Super Novice」.",
-        "pt-BR": "Verde: Super? Super? Oh, gostei. Decidido. A partir de agora, minha classe é 「Superaprendiz」.",
+        "pt-BR": "Verde: Super? Super? Oh, gostei. Decidido. A partir de agora, minha classe é [Superaprendiz].",
         "es-ES": "Verde: ¿Súper? ¿Súper? Oh, suena bien. Decidido. A partir de ahora, mi profesión será 「Superprincipiante」."
     },
     "IxVgDQ": {
         "en-US": "[Green]\nSuper? Super? Oh, I like that. It's decided. From now on, my class is 「Super <B>Super Novice</B>」.",
-        "pt-BR": "[Verde]\nSuper? Super? Oh, gostei. Decidido. A partir de agora, minha classe é 「Super <B>Superaprendiz</B>」.",
+        "pt-BR": "[Verde]\nSuper? Super? Oh, gostei. Decidido. A partir de agora, minha classe é [<B>Superaprendiz</B>].",
         "es-ES": "[Verde]\n¿Súper? ¿Súper? Oh, suena bien. Decidido. A partir de ahora, mi profesión será 「Súper <B>Superprincipiante</B>」."
     },
     "JBVgDQ": {
@@ -3401,12 +3401,12 @@
     },
     "KBVgDQ": {
         "en-US": "Red: Phew.. I have no choice. There's no class that really appeals to me, so now that it's come to this, I'll go all the way as a Super Novice.",
-        "pt-BR": "Vermelho: Ufa.. Não tem jeito. Não há classe que me atraia muito e, já que ficou assim, vou seguir como Superaprendiz até o fim.",
+        "pt-BR": "Vermelho: Ufa.. Não tem jeito. Não há classe que me atraia muito e, já que ficou assim, vou seguir como Aprendiz até o fim.",
         "es-ES": "Rojo: Uf... No hay remedio. Ninguna profesión me atrae de verdad, así que, ya que estamos, seguiré como Superprincipiante hasta el final."
     },
     "KRVgDQ": {
         "en-US": "[Red]\nPhew.. I have no choice. There's no class that really appeals to me, so now that it's come to this, I'll go all the way as a <B>Super Novice</B>.",
-        "pt-BR": "[Vermelho]\nUfa.. Não tem jeito. Não há classe que me atraia muito e, já que ficou assim, vou seguir como <B>Superaprendiz</B> até o fim.",
+        "pt-BR": "[Vermelho]\nUfa.. Não tem jeito. Não há classe que me atraia muito e, já que ficou assim, vou seguir como <B>Aprendiz</B> até o fim.",
         "es-ES": "[Rojo]\nUf... No hay remedio. Ninguna profesión me atrae de verdad, así que, ya que estamos, seguiré como <B>Superprincipiante</B> hasta el final."
     },
     "KhVgDQ": {
@@ -3576,37 +3576,37 @@
     },
     "SxVgDQ": {
         "en-US": "Grape",
-        "pt-BR": "Grape",
+        "pt-BR": "Uvo",
         "es-ES": "Grape"
     },
     "TBVgDQ": {
         "en-US": "[Grape]\nEveryone has a first time, right?",
-        "pt-BR": "[Grape]\nTodos têm um começo, não é?",
+        "pt-BR": "[Uvo]\nTodos têm um começo, não é?",
         "es-ES": "[Grape]\nTodos tienen un principio, ¿verdad?"
     },
     "TRVgDQ": {
         "en-US": "[Grape]\nFor me, Super <B>Super Novice</B> was the first.",
-        "pt-BR": "[Grape]\nPara mim, Super <B>Superaprendiz</B> foi o começo.",
+        "pt-BR": "[Uvo]\nPara mim, <B>Superaprendiz</B> foi o começo.",
         "es-ES": "[Grape]\nPara mí, el Súper <B>Superprincipiante</B> fue el principio."
     },
     "ThVgDQ": {
         "en-US": "[Grape]\nThere were kids who called me a fool. But now? Was I truly a fool?",
-        "pt-BR": "[Grape]\nHavia quem me chamasse de tolo. Mas e agora? Será que eu era mesmo tolo?",
+        "pt-BR": "[Uvo]\nHavia quem me chamasse de tolo. Mas e agora? Será que eu era mesmo tolo?",
         "es-ES": "[Grape]\nHubo quienes me llamaron idiota. Pero ahora, ¿lo era de verdad?"
     },
     "TxVgDQ": {
         "en-US": "Deporte",
-        "pt-BR": "Deforte",
+        "pt-BR": "Denise",
         "es-ES": "Deporte"
     },
     "UBVgDQ": {
         "en-US": "[Deporte]\nI don't know how I ended up becoming a Kafra either.",
-        "pt-BR": "[Deforte]\nEu também não sei como acabei me tornando Kafra.",
+        "pt-BR": "[Denise]\nEu também não sei como acabei me tornando Kafra.",
         "es-ES": "[Deporte]\nNi yo sé cómo acabé convirtiéndome en Kafra."
     },
     "URVgDQ": {
         "en-US": "[Deporte]\nIf I had to go back to the beginning and do it again? Well? I don't think anyone would.",
-        "pt-BR": "[Deforte]\nSe me mandassem voltar ao começo e fazer tudo de novo? Bem? Acho que ninguém faria.",
+        "pt-BR": "[Denise]\nSe me mandassem voltar ao começo e fazer tudo de novo? Bem? Acho que ninguém faria.",
         "es-ES": "[Deporte]\n¿Si me dijeran que volviera al principio y lo hiciera dos veces? No sé. Seguro que nadie lo haría."
     },
     "UhVgDQ": {
@@ -3651,7 +3651,7 @@
     },
     "WhVgDQ": {
         "en-US": "[<B>N</B>odor]\nIs it strange to remain a <B>Super Novice</B>?",
-        "pt-BR": "[Nodor]\nÉ estranho continuar sendo <B>Superaprendiz</B>?",
+        "pt-BR": "[Nodor]\nÉ estranho continuar sendo <B>Aprendiz</B>?",
         "es-ES": "[<B>Nodor</B>]\n¿Es raro seguir siendo <B>Superprincipiante</B>?"
     },
     "WxVgDQ": {
@@ -3661,17 +3661,17 @@
     },
     "XBVgDQ": {
         "en-US": "Grape: I have something to say. Could you come to the center for a moment?",
-        "pt-BR": "Grape: Tenho algo a dizer. Pode vir ao centro um instante?",
+        "pt-BR": "Uvo: Tenho algo a dizer. Pode vir ao centro um instante?",
         "es-ES": "Grape: Tengo algo que decirte. ¿Puedes venir un momento al centro?"
     },
     "XRVgDQ": {
         "en-US": "Grape: I think you've seen everything there is to see here. What do you think?",
-        "pt-BR": "Grape: Acho que você viu tudo o que podia ver aqui. O que acha?",
+        "pt-BR": "Uvo: Acho que você viu tudo o que podia ver aqui. O que acha?",
         "es-ES": "Grape: Creo que ya has visto todo lo que puede verse aquí. ¿Tú qué opinas?"
     },
     "XhVgDQ": {
         "en-US": "[Grape]\nI think you've seen everything there is to see here. What do you think?",
-        "pt-BR": "[Grape]\nAcho que você viu tudo o que podia ver aqui. O que acha?",
+        "pt-BR": "[Uvo]\nAcho que você viu tudo o que podia ver aqui. O que acha?",
         "es-ES": "[Grape]\nCreo que ya has visto todo lo que puede verse aquí. ¿Tú qué opinas?"
     },
     "XxVgDQ": {
@@ -3686,57 +3686,57 @@
     },
     "YRVgDQ": {
         "en-US": "Grape: Ah! That would be a problem. Take your time and go finish looking around.",
-        "pt-BR": "Grape: Ah! Aí fica complicado. Vá ver o resto com calma.",
+        "pt-BR": "Uvo: Ah! Aí fica complicado. Vá ver o resto com calma.",
         "es-ES": "Grape: ¡Ah! Entonces sería un problema. Ve a mirar el resto con calma."
     },
     "YhVgDQ": {
         "en-US": "[Grape]\nAh! That would be a problem. Take your time and go finish looking around.",
-        "pt-BR": "[Grape]\nAh! Aí fica complicado. Vá ver o resto com calma.",
+        "pt-BR": "[Uvo]\nAh! Aí fica complicado. Vá ver o resto com calma.",
         "es-ES": "[Grape]\n¡Ah! Entonces sería un problema. Ve a mirar el resto con calma."
     },
     "YxVgDQ": {
         "en-US": "Grape: I wasn't originally going to give you a test, but I got too bored while waiting.",
-        "pt-BR": "Grape: Eu não pretendia aplicar um teste, mas fiquei entediado demais enquanto esperava.",
+        "pt-BR": "Uvo: Eu não pretendia aplicar um teste, mas fiquei entediado demais enquanto esperava.",
         "es-ES": "Grape: En realidad no pensaba hacer una prueba, pero me aburrí muchísimo mientras esperaba."
     },
     "ZBVgDQ": {
         "en-US": "[Grape]\nI wasn't originally going to give you a test, but I got too bored while waiting.",
-        "pt-BR": "[Grape]\nEu não pretendia aplicar um teste, mas fiquei entediado demais enquanto esperava.",
+        "pt-BR": "[Uvo]\nEu não pretendia aplicar um teste, mas fiquei entediado demais enquanto esperava.",
         "es-ES": "[Grape]\nEn realidad no pensaba hacer una prueba, pero me aburrí muchísimo mientras esperaba."
     },
     "ZRVgDQ": {
         "en-US": "Grape: So I made a quiz. If you solve the quiz, I'll send you outside.",
-        "pt-BR": "Grape: Então criei um quiz. Se resolver o quiz, eu mando você para fora.",
+        "pt-BR": "Uvo: Então criei um quiz. Se resolver o quiz, eu mando você para fora.",
         "es-ES": "Grape: Así que preparé un cuestionario. Si lo resuelves, te enviaré fuera."
     },
     "ZhVgDQ": {
         "en-US": "[Grape]\nSo I made a quiz. If you solve the quiz, I'll send you outside.",
-        "pt-BR": "[Grape]\nEntão criei um quiz. Se resolver o quiz, eu mando você para fora.",
+        "pt-BR": "[Uvo]\nEntão criei um quiz. Se resolver o quiz, eu mando você para fora.",
         "es-ES": "[Grape]\nAsí que preparé un cuestionario. Si lo resuelves, te enviaré fuera."
     },
     "ZxVgDQ": {
         "en-US": "Grape: Try to get it right this time. You know, right? If you solve the quiz, I'll send you outside.",
-        "pt-BR": "Grape: Desta vez tente acertar. Sabe, né? Se resolver o quiz, eu mando você para fora.",
+        "pt-BR": "Uvo: Desta vez tente acertar. Sabe, né? Se resolver o quiz, eu mando você para fora.",
         "es-ES": "Grape: Esta vez intenta acertar. Ya sabes, si resuelves el cuestionario, te enviaré fuera."
     },
     "aBVgDQ": {
         "en-US": "[Grape]\nTry to get it right this time. You know, right? If you solve the quiz, I'll send you outside.",
-        "pt-BR": "[Grape]\nDesta vez tente acertar. Sabe, né? Se resolver o quiz, eu mando você para fora.",
+        "pt-BR": "[Uvo]\nDesta vez tente acertar. Sabe, né? Se resolver o quiz, eu mando você para fora.",
         "es-ES": "[Grape]\nEsta vez intenta acertar. Ya sabes, si resuelves el cuestionario, te enviaré fuera."
     },
     "aRVgDQ": {
         "en-US": "Grape: Now! Question. Who is the owner of this memory? If you looked carefully through every corner of the memory, you should know.",
-        "pt-BR": "Grape: Certo! A pergunta: de quem é esta memória? Se você observou bem cada canto da memória, deve saber.",
+        "pt-BR": "Uvo: Certo! A pergunta: de quem é esta memória? Se você observou bem cada canto da memória, deve saber.",
         "es-ES": "Grape: ¡Bien! Pregunta: ¿quién es el dueño de este recuerdo? Si has observado bien cada rincón del recuerdo, deberías saberlo."
     },
     "ahVgDQ": {
         "en-US": "[Grape]\nNow! Question. Who is the owner of this memory? If you looked carefully through every corner of the memory, you should know.",
-        "pt-BR": "[Grape]\nCerto! A pergunta: de quem é esta memória? Se você observou bem cada canto da memória, deve saber.",
+        "pt-BR": "[Uvo]\nCerto! A pergunta: de quem é esta memória? Se você observou bem cada canto da memória, deve saber.",
         "es-ES": "[Grape]\n¡Bien! Pregunta: ¿quién es el dueño de este recuerdo? Si has observado bien cada rincón del recuerdo, deberías saberlo."
     },
     "axVgDQ": {
         "en-US": "Grape",
-        "pt-BR": "Grape",
+        "pt-BR": "Uvo",
         "es-ES": "Grape"
     },
     "bBVgDQ": {
@@ -3746,7 +3746,7 @@
     },
     "bRVgDQ": {
         "en-US": "Deporte",
-        "pt-BR": "Deforte",
+        "pt-BR": "Denise",
         "es-ES": "Deporte"
     },
     "bhVgDQ": {
@@ -3776,42 +3776,42 @@
     },
     "cxVgDQ": {
         "en-US": "Grape: That's right. Correct. I'll send you outside. See you outside.",
-        "pt-BR": "Grape: Isso mesmo. Resposta correta. Vou mandar você para fora. Vejo você lá fora.",
+        "pt-BR": "Uvo: Isso mesmo. Resposta correta. Vou mandar você para fora. Vejo você lá fora.",
         "es-ES": "Grape: Correcto. Es la respuesta. Te enviaré fuera. Nos vemos fuera."
     },
     "dBVgDQ": {
         "en-US": "[Grape]\nThat's right. Correct. I'll send you outside. See you outside.",
-        "pt-BR": "[Grape]\nIsso mesmo. Resposta correta. Vou mandar você para fora. Vejo você lá fora.",
+        "pt-BR": "[Uvo]\nIsso mesmo. Resposta correta. Vou mandar você para fora. Vejo você lá fora.",
         "es-ES": "[Grape]\nCorrecto. Es la respuesta. Te enviaré fuera. Nos vemos fuera."
     },
     "dRVgDQ": {
         "en-US": "Grape: Nope. That's wrong. I'll give you another chance, so try again.",
-        "pt-BR": "Grape: Não é isso. Errou. Vou lhe dar outra chance. Tente de novo.",
+        "pt-BR": "Uvo: Não é isso. Errou. Vou lhe dar outra chance. Tente de novo.",
         "es-ES": "Grape: No. Te equivocas. Te daré otra oportunidad, así que inténtalo de nuevo."
     },
     "dhVgDQ": {
         "en-US": "[Grape]\nNope. That's wrong. I'll give you another chance, so try again.",
-        "pt-BR": "[Grape]\nNão é isso. Errou. Vou lhe dar outra chance. Tente de novo.",
+        "pt-BR": "[Uvo]\nNão é isso. Errou. Vou lhe dar outra chance. Tente de novo.",
         "es-ES": "[Grape]\nNo. Te equivocas. Te daré otra oportunidad, así que inténtalo de nuevo."
     },
     "dxVgDQ": {
         "en-US": "Grape: Now! Question. Among the friends in the memories, there is one you cannot meet outside. Who is it? If you've adventured this far, you should know.",
-        "pt-BR": "Grape: Certo! A pergunta: entre os amigos da memória, há um que não pode ser visto lá fora. Quem é? Se você chegou até aqui em sua aventura, deve saber.",
+        "pt-BR": "Uvo: Certo! A pergunta: entre os amigos da memória, há um que não pode ser visto lá fora. Quem é? Se você chegou até aqui em sua aventura, deve saber.",
         "es-ES": "Grape: ¡Bien! Pregunta: entre los amigos del recuerdo, hay uno al que no se puede ver fuera. ¿Quién es? Si has llegado hasta aquí en tu aventura, deberías saberlo."
     },
     "eBVgDQ": {
         "en-US": "[Grape]\nNow! Question. Among the friends in the memories, there is one you cannot meet outside. Who is it? If you've adventured this far, you should know.",
-        "pt-BR": "[Grape]\nCerto! A pergunta: entre os amigos da memória, há um que não pode ser visto lá fora. Quem é? Se você chegou até aqui em sua aventura, deve saber.",
+        "pt-BR": "[Uvo]\nCerto! A pergunta: entre os amigos da memória, há um que não pode ser visto lá fora. Quem é? Se você chegou até aqui em sua aventura, deve saber.",
         "es-ES": "[Grape]\n¡Bien! Pregunta: entre los amigos del recuerdo, hay uno al que no se puede ver fuera. ¿Quién es? Si has llegado hasta aquí en tu aventura, deberías saberlo."
     },
     "eRVgDQ": {
         "en-US": "Grape: Now! Question. While looking through the memories, you must have seen bold letters. Do you know what sentence they form when combined?",
-        "pt-BR": "Grape: Certo! A pergunta: ao examinar as memórias, você deve ter visto letras em negrito. Sabe que frase surge ao combiná-las?",
+        "pt-BR": "Uvo: Certo! A pergunta: ao examinar as memórias, você deve ter visto letras em negrito. Sabe que frase surge ao combiná-las?",
         "es-ES": "Grape: ¡Bien! Pregunta: al observar los recuerdos, habrás visto letras en negrita. ¿Sabes qué frase se forma al combinarlas?"
     },
     "ehVgDQ": {
         "en-US": "[Grape]\nNow! Question. While looking through the memories, you must have seen bold letters. Do you know what sentence they form when combined?",
-        "pt-BR": "[Grape]\nCerto! A pergunta: ao examinar as memórias, você deve ter visto letras em negrito. Sabe que frase surge ao combiná-las?",
+        "pt-BR": "[Uvo]\nCerto! A pergunta: ao examinar as memórias, você deve ter visto letras em negrito. Sabe que frase surge ao combiná-las?",
         "es-ES": "[Grape]\n¡Bien! Pregunta: al observar los recuerdos, habrás visto letras en negrita. ¿Sabes qué frase se forma al combinarlas?"
     },
     "exVgDQ": {
@@ -3826,7 +3826,7 @@
     },
     "fRVgDQ": {
         "en-US": "We're all Super Novice",
-        "pt-BR": "Somos todos Superaprendiz",
+        "pt-BR": "Somos todos Aprendiz",
         "es-ES": "Todos somos Superprincipiante"
     },
     "fhVgDQ": {
@@ -3836,107 +3836,107 @@
     },
     "fxVgDQ": {
         "en-US": "Grape: Now! Question. This is just a quiz I made for laughs, but among the friends in the memories, who do you think would be cursed at the most?",
-        "pt-BR": "Grape: Certo! A pergunta: isto é só um quiz feito para rir, mas qual amigo da memória parece que receberia mais xingamentos?",
+        "pt-BR": "Uvo: Certo! A pergunta: isto é só um quiz feito para rir, mas qual amigo da memória parece que receberia mais xingamentos?",
         "es-ES": "Grape: ¡Bien! Pregunta: este cuestionario lo hice solo para reírme, pero ¿cuál de los amigos del recuerdo crees que recibiría más críticas?"
     },
     "gBVgDQ": {
         "en-US": "[Grape]\nNow! Question. This is just a quiz I made for laughs, but among the friends in the memories, who do you think would be cursed at the most?",
-        "pt-BR": "[Grape]\nCerto! A pergunta: isto é só um quiz feito para rir, mas qual amigo da memória parece que receberia mais xingamentos?",
+        "pt-BR": "[Uvo]\nCerto! A pergunta: isto é só um quiz feito para rir, mas qual amigo da memória parece que receberia mais xingamentos?",
         "es-ES": "[Grape]\n¡Bien! Pregunta: este cuestionario lo hice solo para reírme, pero ¿cuál de los amigos del recuerdo crees que recibiría más críticas?"
     },
     "gRVgDQ": {
         "en-US": "Grape: . . . . . .",
-        "pt-BR": "Grape: . . . . . .",
+        "pt-BR": "Uvo: . . . . . .",
         "es-ES": "Grape: . . . . . ."
     },
     "ghVgDQ": {
         "en-US": "[Grape]\n. . . . . .",
-        "pt-BR": "[Grape]\n. . . . . .",
+        "pt-BR": "[Uvo]\n. . . . . .",
         "es-ES": "[Grape]\n. . . . . ."
     },
     "gxVgDQ": {
         "en-US": "Grape: Sorry, that was actually a lie. I'll send you outside. See you outside.",
-        "pt-BR": "Grape: Desculpe, na verdade era mentira. Vou mandar você para fora. Vejo você lá fora.",
+        "pt-BR": "Uvo: Desculpe, na verdade era mentira. Vou mandar você para fora. Vejo você lá fora.",
         "es-ES": "Grape: Perdón, en realidad era mentira. Te enviaré fuera. Nos vemos fuera."
     },
     "hBVgDQ": {
         "en-US": "[Grape]\nSorry, that was actually a lie. I'll send you outside. See you outside.",
-        "pt-BR": "[Grape]\nDesculpe, na verdade era mentira. Vou mandar você para fora. Vejo você lá fora.",
+        "pt-BR": "[Uvo]\nDesculpe, na verdade era mentira. Vou mandar você para fora. Vejo você lá fora.",
         "es-ES": "[Grape]\nPerdón, en realidad era mentira. Te enviaré fuera. Nos vemos fuera."
     },
     "hRVgDQ": {
         "en-US": "Grape: I'll send you outside. See you outside.",
-        "pt-BR": "Grape: Vou mandar você para fora. Vejo você lá fora.",
+        "pt-BR": "Uvo: Vou mandar você para fora. Vejo você lá fora.",
         "es-ES": "Grape: Te enviaré fuera. Nos vemos fuera."
     },
     "hhVgDQ": {
         "en-US": "[Grape]\nI'll send you outside. See you outside.",
-        "pt-BR": "[Grape]\nVou mandar você para fora. Vejo você lá fora.",
+        "pt-BR": "[Uvo]\nVou mandar você para fora. Vejo você lá fora.",
         "es-ES": "[Grape]\nTe enviaré fuera. Nos vemos fuera."
     },
     "hxVgDQ": {
         "en-US": "Grape: You did not come here through the proper route, did you? I'll reset everything and send you outside, so try again.",
-        "pt-BR": "Grape: Você não veio aqui pela rota normal, veio? Vou reiniciar tudo e mandar você para fora, então tente de novo.",
+        "pt-BR": "Uvo: Você não veio aqui pela rota normal, veio? Vou reiniciar tudo e mandar você para fora, então tente de novo.",
         "es-ES": "Grape: No has llegado aquí por la ruta normal, ¿verdad? Lo reiniciaré todo y te enviaré fuera, así que inténtalo de nuevo."
     },
     "iBVgDQ": {
         "en-US": "[Grape]\nYou did not come here through the proper route, did you? I'll reset everything and send you outside, so try again.",
-        "pt-BR": "[Grape]\nVocê não veio aqui pela rota normal, veio? Vou reiniciar tudo e mandar você para fora, então tente de novo.",
+        "pt-BR": "[Uvo]\nVocê não veio aqui pela rota normal, veio? Vou reiniciar tudo e mandar você para fora, então tente de novo.",
         "es-ES": "[Grape]\nNo has llegado aquí por la ruta normal, ¿verdad? Lo reiniciaré todo y te enviaré fuera, así que inténtalo de nuevo."
     },
     "iRVgDQ": {
         "en-US": "Grape: Bye-bye.",
-        "pt-BR": "Grape: tchau tchau",
+        "pt-BR": "Uvo: tchau tchau",
         "es-ES": "Grape: adiós adiós"
     },
     "ihVgDQ": {
         "en-US": "[Grape]\nBye-bye.",
-        "pt-BR": "[Grape]\ntchau tchau",
+        "pt-BR": "[Uvo]\ntchau tchau",
         "es-ES": "[Grape]\nadiós adiós"
     },
     "ixVgDQ": {
         "en-US": "Thoughts on Kachua (1)\nIn my view, she has a natural talent for making money.\nShe was born into a wealthy family by default, but the incident I personally considered the best was the Memento of the Dead incident..\nThey say she greatly inflated a small rumor known only to a few people, and amassed enormous wealth in the process.\nWell, it seems she bought a whole lot of collectibles she liked with the money she earned that way......",
-        "pt-BR": "Pensamentos sobre Kachua, ela (1)\nA meu ver, ela tem um talento nato para ganhar dinheiro.\nEla nasceu basicamente em uma família rica, mas o caso que pessoalmente considero o melhor foi o incidente dos Pertences dos Mortos..\nDizem que ela aumentou muito um pequeno rumor conhecido por alguns e acumulou enorme riqueza no processo.\nBem, parece que ela comprou uma quantidade enorme das coleções de que gosta com esse dinheiro......",
+        "pt-BR": "[1] Pensamentos sobre Kachua\nA meu ver, ela tem um talento nato para ganhar dinheiro.\nEla nasceu basicamente em uma família rica, mas o caso que pessoalmente considero o melhor foi o incidente dos Espólios..\nDizem que ela aumentou muito um pequeno rumor conhecido por alguns e acumulou enorme riqueza no processo.\nBem, parece que ela comprou uma quantidade enorme das coleções de que gosta com esse dinheiro......",
         "es-ES": "Pensamientos sobre Kachua (1)\nA mi parecer, tiene un talento innato para ganar dinero.\nBásicamente nació en una familia adinerada, pero personalmente el incidente que más me impresionó fue el de las pertenencias de los muertos...\nDicen que tomó un pequeño rumor que solo algunos conocían, lo infló enormemente y acumuló una fortuna increíble en el proceso.\nBueno, parece que con el dinero que ganó compró un montón de objetos de colección que le gustaban......"
     },
     "jBVgDQ": {
         "en-US": "Thoughts on Holy (1)\nFirst of all, this friend is a man. I don't know why he goes around pretending to be a woman, but he seems to enjoy it himself, so that's fortunate.",
-        "pt-BR": "Pensamentos sobre Holy (1)\nAntes de tudo, este amigo é homem. Não sei por que anda fingindo ser mulher, mas ele parece se divertir, então ainda bem.",
+        "pt-BR": "[1] Pensamentos sobre Holy\nAntes de tudo, este amigo é homem. Não sei por que anda fingindo ser mulher, mas ele parece se divertir, então tudo bem.",
         "es-ES": "Pensamientos sobre Holy (1)\nPara empezar, este amigo es hombre. No sé por qué va por ahí haciéndose pasar por mujer, pero parece que él se divierte, así que me alegro."
     },
     "jRVgDQ": {
         "en-US": "Thoughts on Grape (1)\nI don't think I'm normal either, but this friend is absolutely not normal.",
-        "pt-BR": "Pensamentos sobre Grape (1)\nTambém acho que eu não sou normal, mas este amigo definitivamente também não é normal.",
+        "pt-BR": "[1] Pensamentos sobre Uvo\nTambém acho que eu não sou normal, mas este amigo definitivamente também não é normal.",
         "es-ES": "Pensamientos sobre Grape (1)\nCreo que yo tampoco soy normal, pero este amigo definitivamente tampoco lo es."
     },
     "jhVgDQ": {
         "en-US": "Thoughts on Windsor (1)\nIn my life, I have never seen a friend with such a clear goal as this one.\nAnd astonishingly, this friend is incredibly unfunny. Those jokes are.. sigh, I wish he just wouldn't make them..",
-        "pt-BR": "Pensamentos sobre Windsor (1)\nEm toda a minha vida, nunca vi alguém com objetivos tão claros quanto este amigo.\nE, surpreendentemente, este amigo é incrivelmente sem graça. Essas piadas.. Ufa, melhor nem fazer..",
+        "pt-BR": "[1] Pensamentos sobre Windsor\nEm toda a minha vida, nunca vi alguém com objetivos tão claros quanto este amigo.\nE, surpreendentemente, este amigo é incrivelmente sem graça. Essas piadas.. Ufa, melhor nem fazer..",
         "es-ES": "Pensamientos sobre Windsor (1)\nEn toda mi vida no he visto a nadie con un objetivo tan claro como este amigo.\nY, sorprendentemente, este amigo es tremendamente aburrido. Esos chistes... Uf, ojalá simplemente no los hiciera..."
     },
     "jxVgDQ": {
         "en-US": "Thoughts on Deporte (1)\nThey say her life goal is to always live while having fun.\nWas her dream to be a rich layabout? But doesn't she have no money? That's not going to work. Heh.",
-        "pt-BR": "Pensamentos sobre Deforte (1)\nDizem que o objetivo de vida dela é sempre viver se divertindo.\nO sonho era ser desempregada rica, talvez? Mas ela não tem dinheiro, não é? Então não vai dar. Hehe",
+        "pt-BR": "[1] Pensamentos sobre Denise\nDizem que o objetivo de vida dela é sempre viver se divertindo.\nO sonho era ser desempregada rica, talvez? Mas ela não tem dinheiro, não é? Então não vai dar. Hehe",
         "es-ES": "Pensamientos sobre Deporte (1)\nDicen que su objetivo en la vida siempre ha sido vivir divirtiéndose.\n¿Que sueña con ser una desempleada rica? Pero ¿no le falta dinero? Entonces mal vamos."
     },
     "kBVgDQ": {
         "en-US": "Thoughts on Tzerero (1)\nOhh! The leader of our <B>Super Novice</B> Club! Our sturdy pillar! Our eternal pushover!\nHis sense of responsibility is the best in the world!",
-        "pt-BR": "Pensamentos sobre Tzerero (1)\nOooh! O líder do nosso clube <B>Superaprendiz</B>! Pilar firme! Eterno trouxa!\nEm responsabilidade, é o melhor do mundo!",
+        "pt-BR": "[1] Pensamentos sobre Tzerero\nOooh! O líder do nosso clube <B>Aprendiz</B>! Pilar firme! Eterno trouxa!\nEm responsabilidade, é o melhor do mundo!",
         "es-ES": "Pensamientos sobre Tzerero (1)\n¡Ohhh! ¡El líder de nuestro club <B>Superprincipiante</B>! ¡Un pilar robusto! ¡El eterno pardillo!\n¡Su sentido de la responsabilidad es el mejor del mundo!"
     },
     "kRVgDQ": {
         "en-US": "Thoughts on Jade (1)\nWhy do no normal people join the <B>Super Novice</B> Club? Still, he is smart..",
-        "pt-BR": "Pensamentos sobre Jade (1)\nPor que pessoas normais não entram no clube <B>Superaprendiz</B>? Ainda assim, ele é inteligente..",
+        "pt-BR": "[1] Pensamentos sobre Jade\nPor que pessoas normais não entram no clube <B>Aprendiz</B>? Ainda assim, ele é inteligente..",
         "es-ES": "Pensamientos sobre Jade (1)\n¿Por qué no entra gente normal en el club <B>Superprincipiante</B>? Aun así, es listo..."
     },
     "khVgDQ": {
         "en-US": "Thoughts on Kachua (4)\nI met her after a long time.\nShe told me about a strange phenomenon that has been happening to her recently.\nItems in her secret warehouse keep disappearing.\nIt seems it doesn't cause much trouble because only one item among countless piled-up items disappears...\nHm? Thinking about it again, what does that mean? It really does sound like a strange matter.",
-        "pt-BR": "Pensamentos sobre Kachua, ela (4)\nEncontrei-a depois de muito tempo.\nEla me contou suas preocupações sobre um fenômeno estranho que vem acontecendo com ela recentemente.\nItens de seu armazém secreto continuam desaparecendo.\nParece que não atrapalha muito, porque apenas um dos incontáveis itens empilhados desaparece...\nHã? Pensando de novo, o que isso quer dizer? Parece algo literalmente estranho.",
+        "pt-BR": "[4] Pensamentos sobre Kachua\nEncontrei-a depois de muito tempo.\nEla me contou suas preocupações sobre um fenômeno estranho que vem acontecendo com ela recentemente.\nItens de seu armazém secreto continuam desaparecendo.\nParece que não atrapalha muito, porque apenas um dos incontáveis itens empilhados desaparece...\nHã? Pensando de novo, o que isso quer dizer? Parece algo literalmente estranho.",
         "es-ES": "Pensamientos sobre Kachua (4)\nMe encontré con ella después de mucho tiempo.\nMe contó sus preocupaciones sobre un fenómeno extraño que le está ocurriendo últimamente.\nDecía que los objetos de su almacén secreto no paran de desaparecer.\nParece que, como solo desaparece uno entre incontables objetos acumulados, no le afecta demasiado al trabajo, pero...\n¿Eh? Pensándolo otra vez, ¿qué significa eso? Parece algo literalmente extraño."
     },
     "kxVgDQ": {
         "en-US": "Thoughts on Grape (4)\nThis crazy friend has done it again.\nGoing beyond the long, long Super <B>Super Novice</B>, they opened up a new path called Hyper <B>Super Novice</B>.\nAn amazing friend.",
-        "pt-BR": "Pensamentos sobre Grape (4)\nEste amigo maluco conseguiu mais uma.\nEle superou o longo, longuíssimo Super <B>Superaprendiz</B> e abriu um novo caminho chamado Hyper <B>Superaprendiz</B>.\nÉ um amigo impressionante.",
+        "pt-BR": "[4] Pensamentos sobre Uvo\nEste amigo maluco conseguiu mais uma.\nEle superou o longo, longuíssimo <B>Superaprendiz</B> e abriu um novo caminho chamado <B>Hiperaprendiz</B>.\nÉ um amigo impressionante.",
         "es-ES": "Pensamientos sobre Grape (4)\nEste amigo demente lo ha vuelto a conseguir.\nHa abierto un nuevo camino llamado Híper <B>Superprincipiante</B>, superando al largo y extenso Súper <B>Superprincipiante</B>.\nEs un amigo impresionante."
     },
     "lBVgDQ": {
@@ -3951,42 +3951,42 @@
     },
     "lhVgDQ": {
         "en-US": "Thoughts on Kachua (2)\nHer name appears quite often in a magazine I enjoy reading.\nA young businesswoman who achieved great success, or whatever they call her. As the magazine says, her talent for making money is innate.\nRecently, I heard she has been coming and going from the casino in Comodo, but from what I hear, she doesn't seem to be gambling in particular.\nIs she bored?",
-        "pt-BR": "Pensamentos sobre Kachua, ela (2)\nO nome dela aparece com frequência na revista que costumo ler.\nUma empresária de grande sucesso ainda jovem, ou algo assim. Como dizem nas revistas, seu talento para ganhar dinheiro é nato.\nRecentemente, ouvi dizer que ela anda frequentando cassinos em Comodo, mas pelo que se ouve, parece que ela não joga exatamente.\nSerá que está entediada?",
+        "pt-BR": "[2] Pensamentos sobre Kachua\nO nome dela aparece com frequência na revista que costumo ler.\nUma empresária de grande sucesso ainda jovem, ou algo assim. Como dizem nas revistas, seu talento para ganhar dinheiro é nato.\nRecentemente, ouvi dizer que ela anda frequentando cassinos em Comodo, mas pelo que se ouve, parece que ela não joga exatamente.\nSerá que está entediada?",
         "es-ES": "Pensamientos sobre Kachua (2)\nSu nombre aparece con bastante frecuencia en las revistas que suelo leer.\nQue si es una empresaria que triunfó a temprana edad o algo así. Como dicen las revistas, su talento para ganar dinero es innato.\nÚltimamente dicen que frecuenta un casino en Comodo, pero por lo que se oye, parece que no va precisamente a apostar.\n¿Estará aburrida?"
     },
     "lxVgDQ": {
         "en-US": "Thoughts on Holy (2)\nI met this friend after a long time. I was puzzled by the higher level and expensive equipment, whatever method was used to obtain them, but this friend still seems to be enjoying themselves.",
-        "pt-BR": "Pensamentos sobre Holy (2)\nEncontrei este amigo depois de muito tempo. Não sei que método ele usou, mas o nível elevado e os equipamentos caros me deixaram intrigado. Ainda assim, ele continua parecendo se divertir.",
+        "pt-BR": "[2] Pensamentos sobre Holy\nEncontrei este amigo depois de muito tempo. Não sei que método ele usou, mas o nível elevado e os equipamentos caros me deixaram intrigado. Ainda assim, ele continua parecendo se divertir.",
         "es-ES": "Pensamientos sobre Holy (2)\nMe encontré con este amigo después de mucho tiempo. No sé qué método habrá usado, pero su nivel elevado y su equipo caro me dejaron perplejo. Aun así, él seguía pareciendo feliz."
     },
     "mBVgDQ": {
         "en-US": "Thoughts on Grape (2)\nThis friend finally did it. From a mere <B>Super Novice</B>, they became a Super <B>Super Novice</B>. Truly amazing.\nBut I... am still a Novice.",
-        "pt-BR": "Pensamentos sobre Grape (2)\nEste amigo finalmente conseguiu. De mero <B>Superaprendiz</B>, acabou se tornando Super <B>Superaprendiz</B>. É realmente impressionante.\nMas eu.. ainda sou Aprendiz.",
+        "pt-BR": "[2] Pensamentos sobre Uvo\nEste amigo finalmente conseguiu. De mero <B>Aprendiz</B>, acabou se tornando <B>Superaprendiz</B>. É realmente impressionante.\nMas eu.. ainda sou Aprendiz.",
         "es-ES": "Pensamientos sobre Grape (2)\nEste amigo lo consiguió al final. De ser solo <B>Superprincipiante</B>, acabó convirtiéndose en Súper <B>Superprincipiante</B>. Es realmente impresionante.\nPero yo... sigo siendo Novice."
     },
     "mRVgDQ": {
         "en-US": "Thoughts on Windsor (2)\nThis friend ultimately became a Knight, just as he wanted.\nAnd this friend's jokes have gotten even worse.\nYes, he must have sold his sense of humor to the devil in exchange for skill.",
-        "pt-BR": "Pensamentos sobre Windsor (2)\nEste amigo finalmente se tornou cavaleiro, como desejava.\nE as piadas deste amigo ficaram ainda piores.\nSim, ele com certeza vendeu o senso de humor ao demônio em troca de habilidade.",
+        "pt-BR": "[2] Pensamentos sobre Windsor\nEste amigo finalmente se tornou cavaleiro, como desejava.\nE as piadas deste amigo ficaram ainda piores.\nSim, ele com certeza vendeu o senso de humor ao demônio em troca de habilidade.",
         "es-ES": "Pensamientos sobre Windsor (2)\nEste amigo terminó convirtiéndose en caballero tal como quería.\nY sus chistes han empeorado aún más.\nSí, seguro que vendió su sentido del humor al demonio a cambio de habilidad."
     },
     "mhVgDQ": {
         "en-US": "Thoughts on Deporte (2)\nI laughed for the first time in a while today. Her, a Kafra.\nHer image was so different from the Deporte I knew that Grape and I laughed for quite a while.",
-        "pt-BR": "Pensamentos sobre Deforte (2)\nHoje ri depois de muito tempo. Ela, uma Kafra.\nA imagem dela era tão diferente da que eu conhecia que ri por um bom tempo com Grape.",
+        "pt-BR": "[2] Pensamentos sobre Denise\nHoje ri depois de muito tempo. Ela, uma Kafra.\nA imagem dela era tão diferente da que eu conhecia que ri por um bom tempo com Uvo.",
         "es-ES": "Pensamientos sobre Deporte (2)\nHoy me reí después de mucho tiempo. ¿Ella, Kafra?\nComo era tan distinta de la imagen que tenía de ella, me reí un buen rato junto con Grape."
     },
     "mxVgDQ": {
         "en-US": "Thoughts on Tzerero (2)\nI saw a friend who became a sailor. He was cooler than I expected.\nSeeing him makes sailors look not bad at all, doesn't it?",
-        "pt-BR": "Pensamentos sobre Tzerero (2)\nVi um amigo que se tornou marinheiro. É mais legal do que eu imaginava.\nVendo esse amigo, marinheiro também não parece ruim, hein?",
+        "pt-BR": "[2] Pensamentos sobre Tzerero\nVi um amigo que se tornou marinheiro. É mais legal do que eu imaginava.\nVendo esse amigo, marinheiro também não parece ruim, hein?",
         "es-ES": "Pensamientos sobre Tzerero (2)\nVi a un amigo que se convirtió en marinero. Es más genial de lo que pensaba.\nAl verlo, ser marinero tampoco parece mala idea."
     },
     "nBVgDQ": {
         "en-US": "Thoughts on Jade (2)\nA genius.. He's a genius.. Becoming a Sage without going through Mage.. Was that possible?",
-        "pt-BR": "Pensamentos sobre Jade (2)\nÉ um gênio.. Um gênio.. Pular mago e ir direto para sábio.. Isso era possível?",
+        "pt-BR": "[2] Pensamentos sobre Jade\nÉ um gênio.. Um gênio.. Pular mago e ir direto para sábio.. Isso era possível?",
         "es-ES": "Pensamientos sobre Jade (2)\nEs un genio... Un genio... ¿Saltarse mago y pasar a sabio? ¿Eso era posible?"
     },
     "nRVgDQ": {
         "en-US": "Let's stop now..",
-        "pt-BR": "Chega, não acha..",
+        "pt-BR": "Chega, não acha...?",
         "es-ES": "Deje ya eso..."
     },
     "nhVgDQ": {
@@ -3996,7 +3996,7 @@
     },
     "nxVgDQ": {
         "en-US": "There are two ways to annoy people. One is to stop speaking midway, and",
-        "pt-BR": "Há duas maneiras de irritar uma pessoa. Uma é começar a falar e não",
+        "pt-BR": "Há duas maneiras de irritar uma pessoa. Uma é começar a falar e não...",
         "es-ES": "Hay dos maneras de hacer que una persona se enfade. Una es dejar una frase a medias y la otra"
     },
     "oBVgDQ": {
@@ -4026,37 +4026,37 @@
     },
     "pRVgDQ": {
         "en-US": "15F, 396 World Cup buk-ro, Mapo-gu, Seoul (Sangam-dong, Nuritkum Square R&D Tower)",
-        "pt-BR": "396 World Cup buk-ro, Mapo-gu, Seoul, 15º andar (Sangam-dong, Nuri Dream Square, Torre de Pesquisa e Desenvolvimento)",
+        "pt-BR": "Ficamos no endereço: 396 World Cup buk-ro, Mapo-gu, Sangam-dong, Nuri Dream Square 15º andar (Seul, Coreia do Sul).",
         "es-ES": "396, World Cup buk-ro, Mapo-gu, Seúl, planta 15 (torre de I+D Nuri Dream Square, Sangam-dong)"
     },
     "phVgDQ": {
         "en-US": "Thoughts on Kachua (3)\nHer condition is a little strange.\nFrom some point, she began obsessing over Diamond. She even seems willing to give away her collectibles if someone brings her Diamond.\nAs far as I can tell, she collected collectibles with an obsession I cannot understand, and has already grown tired of them?\nOr has she taken up a new collecting hobby?",
-        "pt-BR": "Pensamentos sobre Kachua, ela (3)\nO estado dela está um pouco estranho.\nDesde certo dia, ela começou a ficar obcecada por diamantes. Parece até que, se alguém lhe trouxer diamantes, ela entrega de bom grado suas coleções.\nDo meu ponto de vista, ela reunia coleções com uma obsessão incompreensível, mas será que já se cansou delas?\nOu será que encontrou um novo hobby de coleção?",
+        "pt-BR": "[3] Pensamentos sobre Kachua\nO estado dela está um pouco estranho.\nDesde certo dia, ela começou a ficar obcecada por diamantes. Parece até que, se alguém lhe trouxer diamantes, ela entrega de bom grado suas coleções.\nDo meu ponto de vista, ela reunia coleções com uma obsessão incompreensível, mas será que já se cansou delas?\nOu será que encontrou um novo hobby de coleção?",
         "es-ES": "Pensamientos sobre Kachua (3)\nSu estado es un poco extraño.\nDesde cierto día empezó a obsesionarse con los diamantes. Incluso parece dispuesta a entregar sus objetos de colección si le llevan diamantes.\nDesde mi punto de vista, reunía objetos por una obsesión incomprensible. ¿Se habrá cansado ya?\n¿O habrá encontrado una nueva afición de coleccionismo?"
     },
     "pxVgDQ": {
         "en-US": "Thoughts on Holy (3)\nThis friend came by one day, said they were leaving, and said it had been fun until now.\nThe expensive equipment they had worn all this time was nowhere to be seen.\nDid they get scammed by some bad people?",
-        "pt-BR": "Pensamentos sobre Holy (3)\nEste amigo apareceu certo dia dizendo que iria embora e que tinha se divertido até então.\nOs equipamentos caros que usava até então não estavam à vista.\nSerá que foi enganado por gente ruim?",
+        "pt-BR": "[3] Pensamentos sobre Holy\nEste amigo apareceu certo dia dizendo que iria embora e que tinha se divertido até então.\nOs equipamentos caros que usava até então não estavam à vista.\nSerá que foi enganado por gente ruim?",
         "es-ES": "Pensamientos sobre Holy (3)\nUn día, este amigo vino y dijo que se marchaba, y que todo este tiempo había sido divertido.\nNo se veía por ninguna parte el equipo caro que había estado usando.\n¿Lo habrán estafado unos tipos malvados?"
     },
     "qBVgDQ": {
         "en-US": "Thoughts on Grape (3)\nA friend I met recently came to brag to me, saying it was a way to break through limits.\nAs expected, this friend is amazing. But I am amazing too. Because I'm still a <B>Super Novice</B>!",
-        "pt-BR": "Pensamentos sobre Grape (3)\nO amigo que encontrei recentemente veio até mim se gabando sobre como romper limites.\nComo esperado, este amigo é impressionante. Mas eu também sou impressionante. Afinal, ainda sou <B>Superaprendiz</B>!",
+        "pt-BR": "[3] Pensamentos sobre Uvo\nO amigo que encontrei recentemente veio até mim se gabando sobre como romper limites.\nComo esperado, este amigo é impressionante. Mas eu também sou impressionante. Afinal, ainda sou <B>Superaprendiz</B>!",
         "es-ES": "Pensamientos sobre Grape (3)\nUn amigo que encontré hace poco vino a presumirme diciendo que había encontrado la forma de superar sus límites.\nComo era de esperar, este amigo es impresionante. Pero yo también soy impresionante. ¡Porque yo también sigo siendo <B>Superprincipiante</B>!"
     },
     "qRVgDQ": {
         "en-US": "Thoughts on Deporte (3)\nI met her after a long time.\nYes, even after becoming a Kafra, she is still herself.",
-        "pt-BR": "Pensamentos sobre Deforte (3)\nEncontrei-a depois de muito tempo.\nSim, mesmo tendo se tornado Kafra, ela continua sendo ela.",
+        "pt-BR": "[3] Pensamentos sobre Denise\nEncontrei-a depois de muito tempo.\nSim, mesmo tendo se tornado Kafra, ela continua sendo ela.",
         "es-ES": "Pensamientos sobre Deporte (3)\nMe encontré con ella después de mucho tiempo.\nSí, aunque se haya convertido en Kafra, ella sigue siendo ella."
     },
     "qhVgDQ": {
         "en-US": "Thoughts on Tzerero (3)\nHe quit being a promising sailor and settled into the <B>Super Novice</B> Club. Wow.. Why???",
-        "pt-BR": "Pensamentos sobre Tzerero (3)\nAbandonou a carreira promissora de marinheiro e se acomodou no clube <B>Superaprendiz</B>. Uau.. Por quê???",
+        "pt-BR": "[3] Pensamentos sobre Tzerero\nAbandonou a carreira promissora de marinheiro e se acomodou no clube <B>Aprendiz</B>. Uau.. Por quê???",
         "es-ES": "Pensamientos sobre Tzerero (3)\nDejó de ser un marinero prometedor y se instaló en el club <B>Superprincipiante</B>. Vaya... ¿¿¿por qué???"
     },
     "qxVgDQ": {
         "en-US": "Thoughts on Jade (3)\nI cannot understand how geniuses think.\nNormally, when you think of gemstones, isn't it Geffen or Juno? Why is he doing business in Payon?",
-        "pt-BR": "Pensamentos sobre Jade (3)\nNão dá para entender a mente dos gênios.\nNormalmente, quando se fala em gemas, não seria Geffen ou Juno? Por que ele está fazendo comércio em Payon?",
+        "pt-BR": "[3] Pensamentos sobre Jade\nNão dá para entender a mente dos gênios.\nNormalmente, quando se fala em gemas, não seria Geffen ou Juno? Por que ele está fazendo comércio em Payon?",
         "es-ES": "Pensamientos sobre Jade (3)\nNo se puede entender cómo piensan los genios.\nNormalmente, cuando se habla de Gemstones, ¿no se piensa en Geffen o Yuno? ¿Por qué hace negocios en Payon?"
     },
     "rBVgDQ": {
@@ -4081,7 +4081,7 @@
     },
     "sBVgDQ": {
         "en-US": "Carrot! Carrot! Carrot! Carrot! Carrot! Carrot! Carrot! Carrot!\nThe carrot, carrot, Daucus carota subsp. sativus,\nis also called a carrot and grows to around 1m in height.\nA type similar to the carrot commonly cultivated today was improved in France and widely spread throughout Europe by the 13th century.\nIt entered Korea around the 16th century.\nIn China, carrots are called honabok.",
-        "pt-BR": "Cenoura! Cenoura! Cenoura! Cenoura! Cenoura! Cenoura! Cenoura! Cenoura!\nCenoura, carrot, Daucus carota subsp. sativus\ntambém é chamada de cenoura-vermelha e tem cerca de 1 m de altura.\nUma variedade semelhante à cenoura comumente cultivada hoje foi melhorada na França e se espalhou amplamente pela Europa até o século XIII.\nEla chegou à Coreia por volta do século XVI.\nNa China, a cenoura é chamada de honabok.",
+        "pt-BR": "Cenoura! Cenoura! Cenoura! Cenoura! Cenoura! Cenoura! Cenoura! Cenoura!\nCenoura, carrot, zanahoria\ntambém é chamada de cenoura-vermelha e tem cerca de 1 m de altura.\nUma variedade semelhante à cenoura comumente cultivada hoje foi melhorada na França e se espalhou amplamente pela Europa até o século XIII.\nEla chegou à Coreia por volta do século XVI.\nNa China, a cenoura é chamada de honabok.",
         "es-ES": "¡Zanahoria! ¡Zanahoria! ¡Zanahoria! ¡Zanahoria! ¡Zanahoria! ¡Zanahoria! ¡Zanahoria! ¡Zanahoria!\nLa zanahoria, carrot, Daucus carota subsp. sativus,\ntambién llamada zanahoria común, mide alrededor de 1 m de altura.\nLas variedades similares a la zanahoria que se cultiva comúnmente hoy fueron mejoradas en Francia y se extendieron por Europa hasta el siglo XIII.\nLlegó a Corea alrededor del siglo XVI.\nEn China, a la zanahoria se la llama honabok."
     },
     "sRVgDQ": {
@@ -4176,7 +4176,7 @@
     },
     "wxVgDQ": {
         "en-US": "Official Website https://ro.gnjoy.com/",
-        "pt-BR": "Site oficial https://ro.gnjoy.com/",
+        "pt-BR": "Site oficial https://ro.gnjoylatam.com/",
         "es-ES": "Página web oficial https://ro.gnjoy.com/"
     }
 }

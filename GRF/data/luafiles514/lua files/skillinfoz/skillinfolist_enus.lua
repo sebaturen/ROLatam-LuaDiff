@@ -2465,9 +2465,7 @@ SkillInfoList_string = {
 	[SKID.ECL_SEQUOIADUST] = {
 		SkillName = "Yggdrasil Dust"
 	},
-	[SKID.ECLAGE_RECALL] = {
-		SkillName = "Return to Eclage"
-	},
+	[SKID.ECLAGE_RECALL] = {SkillName = "To Eclage"},
 	[SKID.BA_POEMBRAGI2] = {
 		SkillName = "Magic Strings"
 	},
@@ -2476,13 +2474,16 @@ SkillInfoList_string = {
 		SkillName = "The World of the Dead"
 	},
 	[SKID.ALL_PRONTERA_RECALL] = {
-		SkillName = "Prontera Recall"
+		SkillName = "To Prontera"
+	},
+	[SKID.ALL_GLASTHEIM_RECALL] = {
+		SkillName = "Call of Glastheim"
 	},
 	[SKID.ALL_THANATOS_RECALL] = {
-		SkillName = "Para Thanatos"
+		SkillName = "To Thanatos"
 	},
 	[SKID.ALL_LIGHTHALZEN_RECALL] = {
-		SkillName = "Para Lighthalzen"
+		SkillName = "To Lighthalzen"
 	},
 	[SKID.GC_DARKCROW] = {SkillName = "Dark Claw"},
 	[SKID.RA_UNLIMIT] = {SkillName = "No Limits"},

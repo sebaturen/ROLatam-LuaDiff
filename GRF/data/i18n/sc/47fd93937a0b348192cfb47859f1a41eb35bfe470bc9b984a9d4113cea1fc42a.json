@@ -26,7 +26,7 @@
     },
     "JUBhDA": {
         "en-US": "Yoop: You can use the exit under the stem.",
-        "pt-BR": "Yoop: É só sair pela saída na parte de baixo do tronco.",
+        "pt-BR": "Yoop: É só sair descendo este tronco.",
         "es-ES": "Yup: Solo tienes que salir por la salida que está debajo del tallo."
     },
     "JkBhDA": {
@@ -46,7 +46,7 @@
     },
     "KUBhDA": {
         "en-US": "Maggie: So this is where Egnoloria lives!",
-        "pt-BR": "Maggie: A Senhora Egnoloria mora num lugar assim!",
+        "pt-BR": "Maggie: A Senhora Egnoloria mora num lugar assim?!",
         "es-ES": "Magi: ¡Así que Egnoloria vive en un lugar como este!"
     },
     "KkBhDA": {
@@ -56,17 +56,17 @@
     },
     "K0BhDA": {
         "en-US": "Maggie: By the way, can we enter her chamber without asking her first?",
-        "pt-BR": "Maggie: Mas tudo bem entrar no quarto assim, sem pedir permissão?",
+        "pt-BR": "Maggie: Mas tudo bem entrar no quarto sem pedir permissão?",
         "es-ES": "Magi: Pero, ¿no pasa nada si entramos así sin más en la habitación?"
     },
     "LEBhDA": {
         "en-US": "Yoop: Shh!!!",
-        "pt-BR": "Yoop: Shhh!!!",
+        "pt-BR": "Yoop: Silêncio!!!",
         "es-ES": "Yup: ¡Shhh!!!"
     },
     "LUBhDA": {
         "en-US": "Yoop: Be quiet!",
-        "pt-BR": "Yoop: Fica quieto!",
+        "pt-BR": "Yoop: Fica quieta!",
         "es-ES": "Yup: ¡Cállate!"
     },
     "LkBhDA": {
@@ -81,17 +81,17 @@
     },
     "MEBhDA": {
         "en-US": "Yoop: Alright, now I'll tell you what to do.",
-        "pt-BR": "Yoop: Então, vou te dar a tarefa que vocês vão fazer a partir de agora.",
+        "pt-BR": "Yoop: Bem, a tarefa é a seguinte.",
         "es-ES": "Yup: Bueno, ahora te diré lo que tienen que hacer."
     },
     "MUBhDA": {
         "en-US": "Yoop: Your job is to turn this Mana Spring into a perfect place for Egnoloria to sleep.",
-        "pt-BR": "Yoop: A missão de vocês é preparar esta fonte de magia para que a Senhora Egnoloria possa dormir tranquilamente.",
+        "pt-BR": "Yoop: Vocês devem preparar a fonte de magia para que a Senhora Egnoloria possa dormir tranquilamente.",
         "es-ES": "Yup: Tu misión es crear el ambiente ideal en esta fuente de magia para que la señora Egnoloria pueda dormir tranquila."
     },
     "MkBhDA": {
         "en-US": "Yoop: First, heat the Mana Spring. Put a Salamander's Burning Heart into the container in the small room on the right side.",
-        "pt-BR": "Yoop: Primeiro, vocês precisam colocar o coração em chamas da salamandra no recipiente que está no quartinho à direita para aquecer a fonte de magia.",
+        "pt-BR": "Yoop: Primeiro, coloquem o Coração Incandescente no Caldeirão à direita.",
         "es-ES": "Yup: Primero, tienes que meter el corazón ardiente de la salamandra en el recipiente que está en la habitación pequeña de la derecha para calentar la fuente de magia."
     },
     "M0BhDA": {
@@ -101,22 +101,22 @@
     },
     "NEBhDA": {
         "en-US": "Yoop: Now, human...",
-        "pt-BR": "Yoop: Ora, humano......",
+        "pt-BR": "Yoop: Ai, ai humanos...",
         "es-ES": "Yup: Bueno, humano..."
     },
     "NUBhDA": {
         "en-US": "Yoop: Summon that arrogant fairy now.",
-        "pt-BR": "Yoop: A partir de agora, vamos invocar aquele cara insolente...",
+        "pt-BR": "Yoop: Vamos agir sem fazer barulho...",
         "es-ES": "Yup: A partir de ahora, vamos a invocar a ese chavito insolente..."
     },
     "NkBhDA": {
         "en-US": "Yoop: First, there's the Water Essence in the room in front of you to the right.",
-        "pt-BR": "Yoop: Primeiro, há uma essência de água no quarto à direita, ali à frente.",
+        "pt-BR": "Yoop: Primeiro, há um Caldeirão no quarto à direita, subindo.",
         "es-ES": "Yup: Primero, en la habitación de la derecha que está frente a ti hay energía del agua."
     },
     "N0BhDA": {
         "en-US": "Yoop: Think about how you summoned me as you pour your magic onto the Water Essence. You'll know how to summon Shez.",
-        "pt-BR": "Yoop: Se você derramar magia sobre a essência da água enquanto relembra o momento em que me invocou, vai descobrir naturalmente como invocar Sez.",
+        "pt-BR": "Yoop: Se você colocar o Coração no Caldeirão, vai descobrir naturalmente como invocar Shaz.",
         "es-ES": "Yup: Si te concentras en cómo me invocaste y derramas tu magia sobre la esencia del agua, descubrirás por ti mismo cómo invocar a Sez."
     },
     "OEBhDA": {
@@ -126,17 +126,17 @@
     },
     "OUBhDA": {
         "en-US": "Hot Container",
-        "pt-BR": "Caixa de calor",
+        "pt-BR": "Caldeirão",
         "es-ES": "Caliente"
     },
     "OkBhDA": {
         "en-US": "Put Burning Heart.",
-        "pt-BR": "Colocar o coração incandescente.",
+        "pt-BR": "Colocar o Coração Incandescente.",
         "es-ES": "Mete el corazón ardiente."
     },
     "O0BhDA": {
         "en-US": "- When I put the Burning Heart into the hot container, the air in the Mana Spring started warming up. -",
-        "pt-BR": "- Assim que coloquei o coração incandescente no caldeirão quente, a fonte de magia começou a aquecer suavemente. -",
+        "pt-BR": "- Assim que coloquei o Coração Incandescente no caldeirão, a fonte de magia começou a aquecer suavemente. -",
         "es-ES": "- En cuanto metiste el corazón ardiente en el recipiente caliente, la fuente de magia empezó a calentarse. -"
     },
     "PEBhDA": {
@@ -146,17 +146,17 @@
     },
     "PUBhDA": {
         "en-US": "Boiling Pot",
-        "pt-BR": "Panela fervendo",
+        "pt-BR": "Panela Fervendo",
         "es-ES": "Olla hirviendo"
     },
     "PkBhDA": {
         "en-US": "Put Mermaid's Heart.",
-        "pt-BR": "Colocar o coração da sereia.",
+        "pt-BR": "Colocar o Coração de Sereia.",
         "es-ES": "Mete el corazón de la sirena."
     },
     "P0BhDA": {
         "en-US": "- When I put the Mermaid's Heart into the boiling pot, the air in the Mana Spring started becoming more humid. -",
-        "pt-BR": "- Assim que coloquei o coração da sereia na panela fervente, a fonte de magia começou a ficar úmida. -",
+        "pt-BR": "- Assim que coloquei o Coração de Sereia na panela fervente, a fonte de magia começou a ficar úmida. -",
         "es-ES": "- Al poner el corazón de sirena en la olla hirviendo, la fuente de magia empezó a humedecerse. -"
     },
     "QEBhDA": {
@@ -166,7 +166,7 @@
     },
     "QUBhDA": {
         "en-US": "- When I planted the Yggdrasil Seed in the soft floor, it grew into a small sprout. -",
-        "pt-BR": "- Ao plantar a semente de Yggdrasil no solo macio, um pequeno broto cresceu. -",
+        "pt-BR": "- Ao plantar a Semente de Yggdrasil no solo macio, um pequeno broto cresceu. -",
         "es-ES": "- Al plantar la semilla de Yggdrasil en el suelo esponjoso, brotó un pequeño brote. -"
     },
     "QkBhDA": {
@@ -186,7 +186,7 @@
     },
     "RUBhDA": {
         "en-US": "Yoop: Gyaaaah! Egnoloria!!!!!",
-        "pt-BR": "Yoop: Gyaaaaaa! Egno-lo-ria!!!!!",
+        "pt-BR": "Yoop: Aaaaaaa! Egno-lo-ria!!!!!",
         "es-ES": "Yup: ¡Gyaaaaaaah! ¡Egnoloria!"
     },
     "RkBhDA": {
@@ -201,12 +201,12 @@
     },
     "SEBhDA": {
         "en-US": "Yoop: Now, climb up the stem and enter the room on the right side.",
-        "pt-BR": "Yoop: Então, a próxima é a sala à direita que aparece quando você sobe pelo tronco!",
+        "pt-BR": "Yoop: Então, a próxima é a sala à direita, subindo pelo tronco!",
         "es-ES": "Yup: ¡Entonces, lo siguiente es la habitación de la derecha que se ve al subir por el tallo!"
     },
     "SUBhDA": {
         "en-US": "Yoop: Put your Mermaid's Heart into the boiling pot in there to make the air less dry!!",
-        "pt-BR": "Yoop: Entre no quarto e coloque o coração da sereia na panela que está fervendo, e a fonte de magia vai ficar cheia de energia!!",
+        "pt-BR": "Yoop: Entre no quarto e coloque o Coração de Sereia na panela que está fervendo, e a fonte de magia vai ficar cheia de energia!!",
         "es-ES": "Yup: ¡Entra en la habitación y mete el corazón de sirena en la olla que está hirviendo, y la fuente de magia se humedecerá!"
     },
     "SkBhDA": {
@@ -216,12 +216,12 @@
     },
     "S0BhDA": {
         "en-US": "Yoop: Ah!!! They're after the embers!!!!!!",
-        "pt-BR": "Yoop: Ah!!! Aqueles caras que estão de olho na brasa!!!!!!",
+        "pt-BR": "Yoop: Argh!!! Um monstro foi atraído pelo fogo!!!!!!",
         "es-ES": "Yup: ¡Ay!!! ¡Los que buscan la chispa!"
     },
     "TEBhDA": {
         "en-US": "Fire Thief",
-        "pt-BR": "Aqueles que querem roubar o fogo",
+        "pt-BR": "Ladrão de Fogo",
         "es-ES": "Los que buscan el fuego"
     },
     "TUBhDA": {
@@ -236,7 +236,7 @@
     },
     "T0BhDA": {
         "en-US": "Yoop: Please take care of them all!!!!!",
-        "pt-BR": "Yoop: Acaba com todos aqueles caras!!!!!",
+        "pt-BR": "Yoop: Acabe com ele!!!!!",
         "es-ES": "Yup: ¡Acaba con todos esos tipos!!!!!"
     },
     "UEBhDA": {
@@ -246,7 +246,7 @@
     },
     "UUBhDA": {
         "en-US": "Yoop: You should start over.",
-        "pt-BR": "Yoop: Começa de novo.",
+        "pt-BR": "Yoop: Comece de novo.",
         "es-ES": "Yup: Empieza de nuevo desde el principio."
     },
     "UkBhDA": {
@@ -256,17 +256,17 @@
     },
     "U0BhDA": {
         "en-US": "Yoop: Now, climb up the central stem and plant your Yggdrasil Seed in the center of the chamber.",
-        "pt-BR": "Yoop: Então, agora sobe pelo tronco central e planta a semente de Yggdrasil bem no meio da sala!!!",
+        "pt-BR": "Yoop: Então, agora suba pelo tronco e plante a Semente de Yggdrasil bem no meio da sala!!!",
         "es-ES": "Yup: ¡¡¡Entonces lo siguiente es subir por el tronco central y plantar la semilla de Yggdrasil en medio de la habitación!!!"
     },
     "VEBhDA": {
         "en-US": "Yoop: Ah!!! They're after the moisture!!!!!!",
-        "pt-BR": "Yoop: Ah!!! Aqueles caras que estão atrás da umidade!!!!!!",
+        "pt-BR": "Yoop: Argh!!! Um monstro foi atraído pela água!!!!!!",
         "es-ES": "Yup: ¡Ay! ¡Los que buscan la humedad!"
     },
     "VUBhDA": {
         "en-US": "The moisture thief",
-        "pt-BR": "Aqueles que querem a água",
+        "pt-BR": "Ladrão de Água",
         "es-ES": "Los que buscan el agua"
     },
     "VkBhDA": {
@@ -276,12 +276,12 @@
     },
     "V0BhDA": {
         "en-US": "Yoop: Giaaak!!!!!",
-        "pt-BR": "Yoop: Gyaaa!!!!!",
+        "pt-BR": "Yoop: Argh!!!!!",
         "es-ES": "Yup: ¡¡¡¡Ay!!!!!"
     },
     "WEBhDA": {
         "en-US": "Yoop: Where do they keep coming from?!!!!",
-        "pt-BR": "Yoop: De onde é que eles continuam a aparecer assim!!!!",
+        "pt-BR": "Yoop: De onde eles surgiram?!!",
         "es-ES": "Yup: ¡¡¡¿De dónde siguen saliendo tantos?!!!!"
     },
     "WUBhDA": {
@@ -291,82 +291,82 @@
     },
     "WkBhDA": {
         "en-US": "Master Egnoloria: Don't you think you're way too loud for that?",
-        "pt-BR": "Mestre Egnoloria: Você não acha que a sua voz está barulhenta demais para isso?",
+        "pt-BR": "Mestre Egnoloria: Você não cansa de fazer barulho?",
         "es-ES": "Maestra Egnoloria: ¿No crees que tu voz es demasiado ruidosa para eso?"
     },
     "W0BhDA": {
         "en-US": "Master Egnoloria: Hoo...",
-        "pt-BR": "Mestre Egnoloria: Hoo...",
+        "pt-BR": "Mestre Egnoloria: Urgh...",
         "es-ES": "Maestro Egnoloria: Hoo..."
     },
     "XEBhDA": {
         "en-US": "Master Egnoloria: You really are interesting.",
-        "pt-BR": "Mestre Egnoloria: Acho isso bem interessante.",
+        "pt-BR": "Mestre Egnoloria: Isso me irrita.",
         "es-ES": "Maestro Egnoloria: A mí también me parece bastante interesante."
     },
     "XUBhDA": {
         "en-US": "Shez: Kyaaak!",
-        "pt-BR": "Shez: Gaaah!!!!!!!!",
+        "pt-BR": "Shaz: Aaah!!!!!!!!",
         "es-ES": "Shez: ¡Aaaargh!"
     },
     "XkBhDA": {
         "en-US": "Shez: Kyaaak!",
-        "pt-BR": "Shez: Gaaah!!!!!!!!",
+        "pt-BR": "Shaz: Aaah!!!!!!!!",
         "es-ES": "Shez: ¡Aaaargh!"
     },
     "X0BhDA": {
         "en-US": "Shez: How dare you summon me!!!",
-        "pt-BR": "Shez: Como ousaste me invocar?! O que estás fazendo!!!",
+        "pt-BR": "Shaz: Como ousa me invocar?!",
         "es-ES": "Shez: ¡¿Qué es esto de invocarme?!"
     },
     "YEBhDA": {
         "en-US": "Shez: Yoop asked them, didn't he?!? Right?!",
-        "pt-BR": "Shez: Foi o Yoop quem mandou, não foi?!? Não foi?!",
+        "pt-BR": "Shaz: Foi Yoop quem mandou, não foi?!?",
         "es-ES": "Shez: ¡¿Te lo mandó Yup-nim?! ¿¡Verdad?!"
     },
     "YUBhDA": {
         "en-US": "Shez: How can you do this to me? You're so mean!",
-        "pt-BR": "Shez: Vingar-se assim é maldade!!!",
+        "pt-BR": "Shaz: Isso é vingança!!!",
         "es-ES": "Shez: ¡Qué mal que te vengues así!"
     },
     "YkBhDA": {
         "en-US": "Yoop: Heh heh heh...",
-        "pt-BR": "Yoop: Huhu...",
+        "pt-BR": "Yoop: Haha...",
         "es-ES": "Yup: Jeje..."
     },
     "Y0BhDA": {
         "en-US": "Yoop: You should have stopped when I asked you nicely.",
-        "pt-BR": "Yoop: É, eu devia ter brincado só um pouquinho...",
+        "pt-BR": "Yoop: Não gostou, né? Haha!",
         "es-ES": "Yup: Te lo dije, debías haberte burlado un poco más..."
     },
     "ZEBhDA": {
         "en-US": "Yoop: Now, human. I want Ivein now.",
-        "pt-BR": "Yoop: Bom, humano, então o próximo é Ivein.",
+        "pt-BR": "Yoop: Bom, a próxima vítima é Ebein.",
         "es-ES": "Yup: Bueno, humano, el siguiente es Ivein."
     },
     "ZUBhDA": {
         "en-US": "Yoop: Follow the path upward and enter the room on the left side.",
-        "pt-BR": "Yoop: É o quarto à esquerda que aparece quando você sobe pelo caminho...",
+        "pt-BR": "Yoop: É o quarto à esquerda subindo este tronco.",
         "es-ES": "Yup: Es la habitación de la izquierda que se ve al subir por el pasillo..."
     },
     "ZkBhDA": {
         "en-US": "Shez: Meanie!!!",
-        "pt-BR": "Shez: Malandro!!!",
+        "pt-BR": "Shaz: Yoop, idiota!!!",
         "es-ES": "Shez: ¡Qué malhumorado!"
     },
     "Z0BhDA": {
         "en-US": "Yoop: You know what to do, right?",
-        "pt-BR": "Yoop: Agora já entende, né?",
+        "pt-BR": "Yoop: Agora me entende, né?",
         "es-ES": "Yup: ¿Ya lo entiendes, no?"
     },
     "aEBhDA": {
         "en-US": "Yoop: Pour your magic onto the Earth Essence there, just like the last time.",
-        "pt-BR": "Yoop: Usa o mesmo método para derramar magia sobre a energia da terra.",
+        "pt-BR": "Yoop: Faça o mesmo com Ebein!!",
         "es-ES": "Yup: Haz lo mismo y vierte la magia en la energía de la tierra."
     },
     "aUBhDA": {
         "en-US": "Water Essence",
-        "pt-BR": "Elemento Água",
+        "pt-BR": "Energia da Água",
         "es-ES": "Elemento del agua"
     },
     "akBhDA": {
@@ -381,32 +381,32 @@
     },
     "bEBhDA": {
         "en-US": "Yoop: You failed to summon Shez. Try again from the start.",
-        "pt-BR": "Yoop: Não consegues invocar o Shez... Começa de novo.",
+        "pt-BR": "Yoop: Não vai conseguir invocar Shaz... Comece de novo.",
         "es-ES": "Yup: ¿No pudiste invocar a Shez? Vuelve a empezar desde el principio."
     },
     "bUBhDA": {
         "en-US": "Ivein: Oh?",
-        "pt-BR": "Ivein: Nossa!",
+        "pt-BR": "Ebein: Ei!",
         "es-ES": "Ivein: ¡Vaya!"
     },
     "bkBhDA": {
         "en-US": "Ivein: So that's the one everyone's been talking about.",
-        "pt-BR": "Ivein: É você, de quem tanto se fala.",
+        "pt-BR": "Ebein: Então foi você!",
         "es-ES": "Ivein: Así que tú eres de quien tanto se habla."
     },
     "b0BhDA": {
         "en-US": "Ivein: I've felt it since I heard you summoned Yoop, but to summon us all as well? Truly remarkable power.",
-        "pt-BR": "Ivein: Eu já tinha percebido isso desde que ouvi falar que você invocou o Yoop, mas conseguir invocar todos nós também? É realmente uma habilidade incrível.",
+        "pt-BR": "Ebein: Você conseguiu invocar todo mundo? É uma habilidade incrível.",
         "es-ES": "Ivein: Lo intuí desde que oí que habías invocado a Yup, pero que hayas podido invocarnos a todos nosotros también es una habilidad realmente impresionante."
     },
     "cEBhDA": {
         "en-US": "Yoop: Hah hah! How do you like it?",
-        "pt-BR": "Yoop: Hehe, e aí!",
+        "pt-BR": "Yoop: Hehe, e aí?!",
         "es-ES": "Yup: ¡Jeje, ¿qué te parece!"
     },
     "cUBhDA": {
         "en-US": "Yoop: Now you know what it's like to get summoned like this!!!!",
-        "pt-BR": "Yoop: Agora que vocês também foram invocados!!!!",
+        "pt-BR": "Yoop: Agora que vocês também foram invocadas!!!!",
         "es-ES": "Yup: ¡Ahora que ustedes también han sido convocados!"
     },
     "ckBhDA": {
@@ -416,42 +416,42 @@
     },
     "c0BhDA": {
         "en-US": "Yoop: Angry, too. Aren't you?",
-        "pt-BR": "Yoop: Não é mesmo!!! Ficam com raiva e se sentem injustiçados, né?!",
+        "pt-BR": "Yoop: Agora sentiram na pele o que eu senti, não é?!",
         "es-ES": "Yup: ¡¡¡Te da rabia y te sientes injustamente tratado, ¿no?!"
     },
     "dEBhDA": {
         "en-US": "Shez: Well, not exactly.",
-        "pt-BR": "Shez: Bem, até esse ponto não...",
+        "pt-BR": "Shaz: Bem, até esse ponto não...",
         "es-ES": "Shez: Bueno, hasta ese punto no..."
     },
     "dUBhDA": {
         "en-US": "Shez: If they can summon Yoop, they can summon anyone.",
-        "pt-BR": "Shez: É que, já que o Yoop é o tipo de pessoa que pode ser convocada, eu também posso ser convocado, né.",
+        "pt-BR": "Shaz: É que, já que Yoop pode ser invocada, eu também posso ser invocada, né.",
         "es-ES": "Shez: Es que, si hasta a ti te convocan, significa que a mí también me pueden convocar."
     },
     "dkBhDA": {
         "en-US": "Ivein: That's really impressive.",
-        "pt-BR": "Ivein: É realmente incrível.",
+        "pt-BR": "Ebein: É realmente incrível.",
         "es-ES": "Ivein: Eres realmente increíble."
     },
     "d0BhDA": {
         "en-US": "Yoop: What? This is not the reaction I expected!",
-        "pt-BR": "Yoop: Não, por que essa reação tão sem graça!!!!",
+        "pt-BR": "Yoop: Ahhh, não esperava essa reação tão sem graça!!!!",
         "es-ES": "Yup: ¡¿Pero por qué esa reacción tan aburrida?!"
     },
     "eEBhDA": {
         "en-US": "Shez: What do you mean, boring?!",
-        "pt-BR": "Shez: Que reação sem graça é essa!",
+        "pt-BR": "Shaz: Que reação sem graça é essa?!",
         "es-ES": "Shez: ¡¿Insignificante, dices?!"
     },
     "eUBhDA": {
         "en-US": "Shez: I'm quite surprised by this human's affinity with elementals!",
-        "pt-BR": "Shez: Eu fiquei bem surpreso com a afinidade desse humano com os espíritos!",
+        "pt-BR": "Shaz: Eu fiquei bem surpresa com a afinidade desse humano com os Espíritos Elementais!",
         "es-ES": "Shez: ¡Me ha sorprendido bastante la afinidad de este humano con los espíritus!"
     },
     "ekBhDA": {
         "en-US": "Ivein: I find them interesting, too.",
-        "pt-BR": "Ivein: Eu também acho bem interessante.",
+        "pt-BR": "Ebein: Eu também acho bem interessante.",
         "es-ES": "Ivein: A mí también me parece bastante interesante."
     },
     "e0BhDA": {
@@ -461,7 +461,7 @@
     },
     "fEBhDA": {
         "en-US": "Shez: Is that...?",
-        "pt-BR": "Shez: Essa voz!!!",
+        "pt-BR": "Shaz: Essa voz!!!",
         "es-ES": "Shez: ¡Esta voz!"
     },
     "fUBhDA": {
@@ -471,7 +471,7 @@
     },
     "fkBhDA": {
         "en-US": "Earth Essence",
-        "pt-BR": "A Energia da Terra",
+        "pt-BR": "Energia da Terra",
         "es-ES": "La energía de la tierra"
     },
     "f0BhDA": {
@@ -486,17 +486,17 @@
     },
     "gUBhDA": {
         "en-US": "Yoop: You failed to summon Ivein. Try again from the start.",
-        "pt-BR": "Yoop: Não consegui invocar Ivein... Vamos tentar de novo desde o início.",
+        "pt-BR": "Yoop: Não vai conseguir invocar Ebein... Vamos tentar de novo desde o início.",
         "es-ES": "Yup: ¿No pude invocar a Ivein?... Inténtalo de nuevo desde el principio."
     },
     "gkBhDA": {
         "en-US": "Shez",
-        "pt-BR": "Shez",
+        "pt-BR": "Shaz",
         "es-ES": "Shez"
     },
     "g0BhDA": {
         "en-US": "Ivein",
-        "pt-BR": "Ivein",
+        "pt-BR": "Ebein",
         "es-ES": "Ivein"
     }
 }

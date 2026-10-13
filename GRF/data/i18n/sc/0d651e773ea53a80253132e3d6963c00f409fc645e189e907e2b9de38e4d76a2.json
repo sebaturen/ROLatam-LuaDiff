@@ -1,0 +1,527 @@
+{
+    "wMfEDQ": {
+        "en-US": "Arles Orleans",
+        "pt-BR": "Arles Orleans",
+        "es-ES": "Arles Orleans"
+    },
+    "wcfEDQ": {
+        "en-US": "<Spring Flower Festival>",
+        "pt-BR": "<Festival das Cerejeiras>",
+        "es-ES": "<Festival de las Flores de Cerezo>"
+    },
+    "wsfEDQ": {
+        "en-US": "[Arles]",
+        "pt-BR": "[Arles]",
+        "es-ES": "[Arles]"
+    },
+    "w8fEDQ": {
+        "en-US": "Hello.\nIt's a lovely spring, isn't it.\nDo you like ^4D4DFFCherry Blossom Rice Cake^000000...?",
+        "pt-BR": "Olá.\nQue primavera linda.\nVocê gosta de ^4D4DFFBolinho de Cerejeira^000000?",
+        "es-ES": "Hola.\nQué hermosa primavera.\n¿Te gusta el ^4D4DFFMochi de Flor de Cerezo^000000...?"
+    },
+    "xMfEDQ": {
+        "en-US": "[Arles]\nHmm, but it seems the timing isn't right now.\nWould you come find me a little later?",
+        "pt-BR": "[Arles]\nHmm, parece que agora não é um bom momento.\nVocê poderia me procurar um pouco mais tarde?",
+        "es-ES": "[Arles]\nMmm, pero parece que no es el momento ahora.\n¿Podrías buscarme un poco más tarde?"
+    },
+    "xcfEDQ": {
+        "en-US": "^4D4DFF== This is a level 30 or above quest. ==^000000",
+        "pt-BR": "^4D4DFF== Esta é uma missão de nível 30 ou superior. ==^000000",
+        "es-ES": "^4D4DFF== Esta es una misión de nivel 30 o superior. ==^000000"
+    },
+    "xsfEDQ": {
+        "en-US": "- You have too many items in your inventory to proceed with the quest. -",
+        "pt-BR": "- Você tem muitos itens no inventário para prosseguir com a missão. -",
+        "es-ES": "- Tienes demasiados objetos en el inventario para continuar con la misión. -"
+    },
+    "x8fEDQ": {
+        "en-US": "[Arles]\nThe spring flowers are truly a spectacle.\nI've come to spend spring in Prontera again this year...\nI've taken on a new challenge.\nOh, by the way, do you like ^4D4DFFCherry Blossom Rice Cake^000000?",
+        "pt-BR": "[Arles]\nAs flores da primavera são realmente um espetáculo.\nVim passar a primavera em Prontera novamente esse ano...\nE também aceitei um novo desafio.\nAh, a propósito, você gosta de ^4D4DFFBolinho de Cerejeira^000000?",
+        "es-ES": "[Arles]\nLas flores de primavera son realmente un espectáculo.\nPasé la primavera en Prontera nuevamente este año...\nAcepté un nuevo desafío.\nAh, por cierto, ¿te gusta el ^4D4DFFMochi de Flor de Cerezo^000000?"
+    },
+    "yMfEDQ": {
+        "en-US": "A new challenge?",
+        "pt-BR": "Um novo desafio?",
+        "es-ES": "¿Un nuevo desafío?"
+    },
+    "ycfEDQ": {
+        "en-US": "I love Cherry Blossom Rice Cake!",
+        "pt-BR": "Adoro Bolinho de Cerejeira!",
+        "es-ES": "¡Me encanta el Mochi de Flor de Cerezo!"
+    },
+    "ysfEDQ": {
+        "en-US": "[Arles]\nDo you happen to remember last year's Spring Event?\nHow should I put it... thanks to me, many people were able to enjoy spring more meaningfully.\nI was truly delighted.",
+        "pt-BR": "[Arles]\nVocê se lembra do evento da primavera do ano passado?\nComo posso dizer... graças a mim, muitas pessoas puderam aproveitar a primavera de forma mais significativa.\nFiquei realmente feliz.",
+        "es-ES": "[Arles]\n¿Recuerdas el evento de primavera del año pasado?\n¿Cómo decirlo? Gracias a mí, muchas personas pudieron disfrutar la primavera de manera más significativa.\nMe alegré mucho."
+    },
+    "y8fEDQ": {
+        "en-US": "[Arles]\nProntera has become a very meaningful place to me in many ways.\nSo I'm planning to do something again this time.",
+        "pt-BR": "[Arles]\nProntera se tornou um lugar muito especial para mim de diversas maneiras.\nEntão estou planejando criar alguma coisa novamente.",
+        "es-ES": "[Arles]\nProntera se ha convertido en un lugar muy significativo para mí en muchos sentidos.\nAsí que estoy planeando hacer algo nuevamente esta vez."
+    },
+    "zMfEDQ": {
+        "en-US": "[Arles]\nAh, first, would you bring me some ^4D4DFFSmall Spray of Flowers^000000 from Prontera's Flower Trees?\nIf you do, I'll tell you about my new challenge along with my gift of ^4D4DFFCherry Blossom Rice Cake^000000.",
+        "pt-BR": "[Arles]\nAh, primeiro, você poderia me trazer alguns ^4D4DFFRaminhos de Flores^000000 das Árvores de Cerejeira de Prontera?\nSe o fizer, contarei sobre meu novo desafio, além de te dar uns ^4D4DFFBolinhos de Cerejeira^000000.",
+        "es-ES": "[Arles]\nAh, primero, ¿podrías traerme algunas ^4D4DFFRamitas de Flores^000000 de los Árboles de Flores de Prontera?\nSi lo haces, te contaré sobre mi nuevo desafío, además de darte unos ^4D4DFFMochis de Flor de Cerezo^000000."
+    },
+    "zcfEDQ": {
+        "en-US": "Alright, got it.",
+        "pt-BR": "Tudo bem, entendi.",
+        "es-ES": "Está bien, entendido."
+    },
+    "zsfEDQ": {
+        "en-US": "Sorry, I'm busy.",
+        "pt-BR": "Desculpe, estou ocupado.",
+        "es-ES": "Lo siento, estoy ocupado."
+    },
+    "z8fEDQ": {
+        "en-US": "[Arles]\nYes, good. Quick to the point.\nJust like a reliable veteran adventurer.",
+        "pt-BR": "[Arles]\nSim, ótimo. Direto ao ponto.\nComo um viajante veterano e confiável.",
+        "es-ES": "[Arles]\nSí, genial. Directo al grano.\nComo un trotamundos veterano. Confiable."
+    },
+    "0MfEDQ": {
+        "en-US": "[Arles]\nIf you release the ^4D4DFFFlower Tree Energy^000000 from the Flower Trees,\nyou can obtain ^4D4DFFSmall Spray of Flowers^000000.\nJust bring me ^4D4DFF15^000000 of them.",
+        "pt-BR": "[Arles]\nSe você liberar a ^4D4DFFEnergia de Árvore Florida^000000 das Cerejeiras,\npoderá obter ^4D4DFFRaminhos de Flores^000000.\nBasta me trazer ^4D4DFF15^000000 deles.",
+        "es-ES": "[Arles]\nSi liberas la ^4D4DFFEnergía del Árbol de Flores^000000 de los Árboles de Flores,\npuedes obtener ^4D4DFFRamitas de Flores^000000.\nSolo tráeme ^4D4DFF15^000000 de ellas."
+    },
+    "0cfEDQ": {
+        "en-US": "Rainy: What, Master Arles's Cherry Blossom Rice Cake?",
+        "pt-BR": "Neblina: O quê, o Bolinho de Cerejeira do Mestre Arles?",
+        "es-ES": "Lluviosa: ¿Qué, el Mochi de Flor de Cerezo de Maestro Arles?"
+    },
+    "0sfEDQ": {
+        "en-US": "Cloudy: You're making it right now? Really?",
+        "pt-BR": "Nublado: Você está fazendo agora? É sério?",
+        "es-ES": "Nublado: ¿Lo estás haciendo ahora mismo? ¿En serio?"
+    },
+    "08fEDQ": {
+        "en-US": "[Arles]\nThat's a shame.\nIf you're busy, I suppose it can't be helped.",
+        "pt-BR": "[Arles]\nQue pena.\nSe você está ocupado, não tem jeito.",
+        "es-ES": "[Arles]\nQué lástima.\nSi estás ocupado, no hay remedio."
+    },
+    "1MfEDQ": {
+        "en-US": "Rainy: ...",
+        "pt-BR": "Neblina: ...",
+        "es-ES": "Lluviosa: ..."
+    },
+    "1cfEDQ": {
+        "en-US": "Cloudy: ......",
+        "pt-BR": "Nublado: ......",
+        "es-ES": "Nublado: ......"
+    },
+    "1sfEDQ": {
+        "en-US": "[Arles]\nSo you like ^4D4DFFCherry Blossom Rice Cake^000000.\nYou do know that I'm a master at making that rice cake, right?\nHeheh.",
+        "pt-BR": "[Arles]\nEntão, você gosta de ^4D4DFFBolinho de Cerejeira^000000.\nVocê sabe que sou um mestre em fazer esse bolinho, não sabe?\nHeheh.",
+        "es-ES": "[Arles]\nEntonces te gusta el ^4D4DFFMochi de Flor de Cerezo^000000.\nSabes que soy un maestro en hacer ese mochi, ¿verdad?\nJeje."
+    },
+    "18fEDQ": {
+        "en-US": "[Arles]\nI'd love to make you some ^4D4DFFCherry Blossom Rice Cake^000000 right away,\nbut I'm short on ingredients.\nI need several ^4D4DFFSmall Spray of Flowers^000000.\nWould you bring me some?",
+        "pt-BR": "[Arles]\nAdoraria fazer um ^4D4DFFBolinho de Cerejeira^000000 para você\nneste exato momento, mas estou sem ingredientes.\nPreciso de vários ^4D4DFFRaminhos de Flores^000000.\nVocê poderia me trazer alguns?",
+        "es-ES": "[Arles]\nMe encantaría hacerte un ^4D4DFFMochi de Flor de Cerezo^000000 ahora mismo,\npero me faltan ingredientes.\nNecesito varias ^4D4DFFRamitas de Flores^000000.\n¿Podrías traerme algunas?"
+    },
+    "2MfEDQ": {
+        "en-US": "Sorry, I'm busy.",
+        "pt-BR": "Desculpe, estou ocupado.",
+        "es-ES": "Lo siento, estoy ocupado."
+    },
+    "2cfEDQ": {
+        "en-US": "[Arles]\nOoh, you've brought some fine flower sprays.\nThe staff here will be pleased as well.",
+        "pt-BR": "[Arles]\nOoh, você trouxe os raminhos.\nA equipe aqui também ficará satisfeita.",
+        "es-ES": "[Arles]\nOh, has traído ramitas.\nEl personal aquí también estará satisfecho."
+    },
+    "2sfEDQ": {
+        "en-US": "Rainy: !",
+        "pt-BR": "Neblina: !",
+        "es-ES": "Lluviosa: ¡!"
+    },
+    "28fEDQ": {
+        "en-US": "Cloudy: !",
+        "pt-BR": "Nublado: !",
+        "es-ES": "Nublado: ¡!"
+    },
+    "3MfEDQ": {
+        "en-US": "[Arles]\nThis spring, I plan to put the flower sprays you adventurers bring to meaningful use.\nI'm thinking of crafting a splendid costume for everyone.\nThis will be my first time making a costume, but...\nwith my craftsmanship, shouldn't it be quite doable?",
+        "pt-BR": "[Arles]\nNesta primavera, pretendo usar os raminhos de flores que vocês, aventureiros, trazem para um propósito significativo.\nEstou pensando em criar um visual esplêndido para todos.\nEsta será minha primeira vez fazendo um visual, mas...\nCom minha habilidade, deve ser bem possível, não é?",
+        "es-ES": "[Arles]\nEsta primavera, planeo usar las Ramitas de Flores que ustedes, aventureros, trajeron para un propósito significativo.\nEstoy pensando en crear un disfraz espléndido para todos.\nSerá la primera vez que hago un disfraz, pero...\ncon mi habilidad, ¿no debería ser bastante factible?"
+    },
+    "3cfEDQ": {
+        "en-US": "[Arles]\nI'm going to make a ^4D4DFF[Costume] Yellow Cherry Blossom Hat^000000.\nI'll need a few materials for the crafting...\nCould you bring some to me?",
+        "pt-BR": "[Arles]\nVou fazer um ^4D4DFF[Visual] Chapéu do Desabrochar^000000.\nVou precisar de alguns materiais para a confecção...\nVocê poderia me trazer alguns?",
+        "es-ES": "[Arles]\nVoy a hacer un ^4D4DFF[Disfraz] Sombrero de Flor de Cerezo Amarillo^000000.\nNecesitaré algunos materiales para la confección...\n¿Podrías traerme algunos?"
+    },
+    "3sfEDQ": {
+        "en-US": "Sure, what materials do you need?",
+        "pt-BR": "Claro, de quais materiais você precisa?",
+        "es-ES": "Claro, ¿qué materiales necesitas?"
+    },
+    "38fEDQ": {
+        "en-US": "[Arles]\nExcellent.\nI need ^4D4DFF10x Small Spray of Flowers^000000 and ^4D4DFF5x Yellow Herb^000000.\nPlease come find me after you've prepared the materials.\nIt seems like a simple request...\nCan you do it?",
+        "pt-BR": "[Arles]\nExcelente.\nPreciso de ^4D4DFF10x Raminho de Flores^000000 e ^4D4DFF5x Erva Amarela^000000.\nPor favor, me procure depois de conseguir os materiais.\nParece um pedido simples...\nVocê consegue fazer?",
+        "es-ES": "[Arles]\nExcelente.\nNecesito ^4D4DFF10x Ramita de Flores^000000 y ^4D4DFF5x Hierba Amarilla^000000.\nPor favor, búscame después de preparar los materiales.\nParece una solicitud sencilla...\n¿Puedes hacerlo?"
+    },
+    "4MfEDQ": {
+        "en-US": "Okay.",
+        "pt-BR": "Ok.",
+        "es-ES": "Okey."
+    },
+    "4cfEDQ": {
+        "en-US": "Alright.",
+        "pt-BR": "Tudo bem.",
+        "es-ES": "Está bien."
+    },
+    "4sfEDQ": {
+        "en-US": "Got it.",
+        "pt-BR": "Entendido.",
+        "es-ES": "Entendido."
+    },
+    "48fEDQ": {
+        "en-US": "That's easy as eating Cherry Blossom Rice Cake while lying down.",
+        "pt-BR": "Isso é fácil como comer Bolinho de Cerejeira deitado.",
+        "es-ES": "Eso es tan fácil como comer Mochi de Flor de Cerezo acostado."
+    },
+    "5MfEDQ": {
+        "en-US": "[Arles]\nReliable as always.\nWell then, I'll get ready now.\nAh, first, let me give you something I prepared in advance as a token of gratitude.\nThank you for the flower sprays.",
+        "pt-BR": "[Arles]\nSabia que podia contar com você.\nBem, então já vou me preparar.\nAh, primeiro, vou te dar uma coisa que preparei antecipadamente como agradecimento.\nObrigado pelos raminhos.",
+        "es-ES": "[Arles]\nConfiables como siempre.\nBueno, entonces me prepararé un poco.\nAh, primero, déjame darte algo que preparé de antemano como agradecimiento.\nGracias por las ramitas."
+    },
+    "5cfEDQ": {
+        "en-US": "[Arles]\nWhat happened?\nYou don't have any Small Spray of Flowers.",
+        "pt-BR": "[Arles]\nO que aconteceu?\nVocê não tem Raminho de Flores.",
+        "es-ES": "[Arles]\n¿Qué pasó?\nNo tienes Ramitas de Flores."
+    },
+    "5sfEDQ": {
+        "en-US": "[Arles]\nYou should be able to find ^4D4DFFFlower Tree Energy^000000 near the Flower Trees in Prontera.\nJust bring me ^4D4DFF15x Small Spray of Flowers^000000!",
+        "pt-BR": "[Arles]\nVocê deve conseguir encontrar ^4D4DFFEnergia de Árvore Florida^000000 perto das Cerejeiras em Prontera.\nBasta me trazer ^4D4DFF15x Raminho de Flores^000000!",
+        "es-ES": "[Arles]\nDeberías poder encontrar ^4D4DFFEnergía del Árbol de Flores^000000 cerca de los Árboles de Flores en Prontera.\n¡Solo tráeme ^4D4DFF15x Ramita de Flores^000000!"
+    },
+    "58fEDQ": {
+        "en-US": "You've brought the materials.\nThank you.",
+        "pt-BR": "Você trouxe os materiais.\nObrigado.",
+        "es-ES": "Has traído los materiales.\nGracias."
+    },
+    "6MfEDQ": {
+        "en-US": "[Arles]\nNow then, shall we start crafting right away?",
+        "pt-BR": "[Arles]\nCerto, então... Vamos começar a confecção agora?",
+        "es-ES": "[Arles]\nBueno, ¿empezamos la confección ahora mismo?"
+    },
+    "6cfEDQ": {
+        "en-US": "[Arles]\nAlright...\nWeave the sprays like this...\nSecure them at this knot...\nHnngh...",
+        "pt-BR": "[Arles]\nCerto...\nTeça os raminhos assim...\nPrenda-os neste nó...\nUurrgh...",
+        "es-ES": "[Arles]\nBien...\nTeje las ramitas así...\nAsegúralas en este nudo...\nHnngh..."
+    },
+    "6sfEDQ": {
+        "en-US": "[Arles]\nJust a moment.\n...\nIt's almost finished.",
+        "pt-BR": "[Arles]\nSó um momento.\n...\nEstá quase pronto.",
+        "es-ES": "[Arles]\nUn momento.\n...\nEstá casi listo."
+    },
+    "68fEDQ": {
+        "en-US": "[Arles]\nAh, this is harder than I thought.\nI can make Cherry Blossom Rice Cake even while lying down, but...\nThough the costume crafting failed, please accept this as a gift.\nIt's a small token of my appreciation.",
+        "pt-BR": "[Arles]\nAh, isso é mais difícil do que eu pensava.\nPosso fazer Bolinho de Cerejeira até deitado, mas...\nEmbora a confecção do visual tenha falhado, por favor, aceite isto como um presente.\nÉ uma pequena prova de minha gratidão.",
+        "es-ES": "[Arles]\nAh, esto es más difícil de lo que pensaba.\nPuedo hacer Mochi de Flor de Cerezo incluso acostado, pero...\nAunque la confección del disfraz falló, por favor, acepta esto como un regalo.\nEs una pequeña muestra de mi gratitud."
+    },
+    "7MfEDQ": {
+        "en-US": "[Arles]\nIf you don't mind, would you bring the materials again?\nI'll make sure to craft a proper costume next time!",
+        "pt-BR": "[Arles]\nSe você não se importar, poderia trazer os materiais novamente?\nVou garantir que farei um visual adequado da próxima vez!",
+        "es-ES": "[Arles]\nSi no te importa, ¿podrías traer los materiales otra vez?\n¡La próxima vez me aseguraré de hacer un disfraz adecuado!"
+    },
+    "7cfEDQ": {
+        "en-US": "[Arles]\nThe ^4D4DFF[Costume] Yellow Cherry Blossom Hat^000000 is complete!\nWouldn't this be perfect for capturing the spring atmosphere?\nPlease wear this yellow hat and stroll through Prontera.\nYou can help spread the word about this hat to many people.",
+        "pt-BR": "[Arles]\nO ^4D4DFF[Visual] Chapéu do Desabrochar^000000 está finalizado!\nIsso não é perfeito para capturar a atmosfera da primavera?\nPor favor, use este chapéu amarelo e passeie por Prontera.\nVocê poderá ajudar divulgando sobre este chapéu para todo mundo..",
+        "es-ES": "[Arles]\n¡El ^4D4DFF[Disfraz] Sombrero de Flor de Cerezo Amarillo^000000 está completo!\n¿No sería perfecto para capturar la atmósfera primaveral?\nPor favor, usa este sombrero amarillo y pasea por Prontera.\nPuedes ayudar a difundir este sombrero entre muchas personas."
+    },
+    "7sfEDQ": {
+        "en-US": "[Arles]\nI'll continue working hard here making hats.\nAh, let me share some Cherry Blossom Rice Cake with you as well.",
+        "pt-BR": "[Arles]\nVou continuar trabalhando duro aqui com esses chapéus.\nAh, deixe-me compartilhar um pouco de Bolinho de Cerejeira com você também.",
+        "es-ES": "[Arles]\nSeguiré trabajando duro aquí haciendo sombreros.\nAh, déjame compartir un poco de Mochi de Flor de Cerezo contigo también."
+    },
+    "78fEDQ": {
+        "en-US": "[Arles]\nIf you gather more Small Spray of Flowers, please come find me again.\nCrafting requests are overflowing, but...\nfailures are more frequent than expected...\nI've prepared various gifts with the remaining materials.",
+        "pt-BR": "[Arles]\nSe você juntar mais Raminho de Flores, venha falar comigo novamente.\nOs pedidos de confecção estão transbordando, mas...\nas falhas são mais frequentes do que imaginava...\nPreparei vários presentes com os materiais que sobram.",
+        "es-ES": "[Arles]\nSi juntas más Ramitas de Flores, por favor, búscame otra vez.\nLos pedidos de confección son muchos, pero...\nlos fallos son más frecuentes de lo esperado.\nHe preparado varios regalos con los materiales restantes."
+    },
+    "8MfEDQ": {
+        "en-US": "[Arles]\nIf you bring 20x Small Spray of Flowers and 5x Yellow Herb to ^4D4DFFCloudy^000000 here, I'll give you one ^4D4DFFSpring Flower Festival Gift^000000.\nHave a nice day!",
+        "pt-BR": "[Arles]\nSe você trouxer 20x Raminho de Flores e 5x Erva Amarela para o ^4D4DFFNublado^000000 aqui, te darei uma ^4D4DFFCaixa de Presente do Festival das Cerejeiras^000000.\nTenha um ótimo dia!",
+        "es-ES": "[Arles]\nSi le traes 20x Ramita de Flores y 5x Hierba Amarilla a ^4D4DFFNublado^000000,\nte daré una ^4D4DFFCaja de Regalo del Festival de las Flores de Cerezo^000000.\nQue tengas un buen día."
+    },
+    "8cfEDQ": {
+        "en-US": "[Arles]\nI'm a bit short on materials.\nI need ^4D4DFF10x Small Spray of Flowers^000000 and ^4D4DFF5x Yellow Herb^000000.\nPlease come back when you have the materials ready.",
+        "pt-BR": "[Arles]\nEu meio que estou com poucos materiais.\nPreciso de ^4D4DFF10x Raminho de Flores^000000 e ^4D4DFF5x Erva Amarela^000000.\nPor favor, volte quando tiver preparado esses materiais.",
+        "es-ES": "[Arles]\nMe faltan algunos materiales.\nNecesito ^4D4DFF10x Ramita de Flores^000000 y ^4D4DFF5x Hierba Amarilla^000000.\nPor favor, vuelve cuando tengas los materiales listos."
+    },
+    "8sfEDQ": {
+        "en-US": "[Arles]\nHmm...\nCostume crafting is...\nnot as easy as I thought it would be.",
+        "pt-BR": "[Arles]\nHmm...\nConfecção de visuais é...\nmais difícil do que eu pensava.",
+        "es-ES": "[Arles]\nMmm...\nLa confección de disfraces es...\nmás difícil de lo que me imaginaba."
+    },
+    "88fEDQ": {
+        "en-US": "[Arles]\nIf you wish to purchase ^4D4DFFCherry Blossom Rice Cake^000000 with zeny,\nplease place your order with ^4D4DFFRainy^000000.\nIf I'm making it myself, I can make ^4D4DFF1x Cherry Blossom Rice Cake^000000\nwith ^4D4DFF2x Small Spray of Flowers^000000.",
+        "pt-BR": "[Arles]\nSe quiser comprar ^4D4DFFBolinho de Cerejeira^000000 usando zeny,\npor favor, faça seu pedido com ^4D4DFFNeblina^000000.\nSe for comigo, posso fazer ^4D4DFF1x Bolinho de Cerejeira^000000\nem troca de ^4D4DFF2x Raminho de Flores^000000.",
+        "es-ES": "[Arles]\nSi deseas comprar ^4D4DFFMochi de Flor de Cerezo^000000 con zeny,\npor favor, haz tu pedido con ^4D4DFFLluviosa^000000.\nSi yo mismo lo hago,\npuedo hacer ^4D4DFF1x Mochi de Flor de Cerezo^000000 con ^4D4DFF2x Ramita de Flores^000000."
+    },
+    "9MfEDQ": {
+        "en-US": "Order Cherry Blossom Rice Cake.",
+        "pt-BR": "Fazer pedido de Bolinho de Cerejeira.",
+        "es-ES": "Pedir Mochi de Flor de Cerezo."
+    },
+    "9cfEDQ": {
+        "en-US": "Never mind.",
+        "pt-BR": "Deixa pra lá.",
+        "es-ES": "Olvídalo."
+    },
+    "9sfEDQ": {
+        "en-US": "[Arles]\nHow many would you like me to make?\nI can make up to ^4D4DFF100^000000 at a time.",
+        "pt-BR": "[Arles]\nQuantos você gostaria que eu fizesse?\nPosso fazer até ^4D4DFF100^000000 de cada vez.",
+        "es-ES": "[Arles]\n¿Cuántos te gustaría que hiciera?\nPuedo hacer hasta ^4D4DFF100^000000 a la vez."
+    },
+    "98fEDQ": {
+        "en-US": "[Arles]\nWhenever you want to enjoy Cherry Blossom Rice Cake, bring some ^4D4DFFSmall Spray of Flowers^000000!",
+        "pt-BR": "[Arles]\nTraga alguns ^4D4DFFRaminhos de Flores^000000 sempre que quiser saborear um Bolinho de Cerejeira.",
+        "es-ES": "[Arles]\n¡Siempre que quieras disfrutar del Mochi de Flor de Cerezo, trae algunas ^4D4DFFRamitas de Flores^000000!"
+    },
+    "+MfEDQ": {
+        "en-US": "[Arles]\nIsn't that too many?\nThat's excessive.",
+        "pt-BR": "[Arles]\nIsso não é demais?\nQue exagero!",
+        "es-ES": "[Arles]\n¿No es demasiado?\n¡Qué exageración!"
+    },
+    "+cfEDQ": {
+        "en-US": "[Arles]\nTo make the {0} pieces you ordered,\nyou need {1}x Small Spray of Flowers, but you don't have enough materials.",
+        "pt-BR": "[Arles]\nPara fazer os {0} pedidos que você solicitou,\né necessário {1}x Raminho de Flores, mas você não tem material o suficiente.",
+        "es-ES": "[Arles]\nPara hacer los {0} que pediste,\nnecesitas {1}x Ramita de Flores, pero no tienes suficientes materiales."
+    },
+    "+sfEDQ": {
+        "en-US": "[Arles]\nPlease check your materials and place an order for as many as you can make.",
+        "pt-BR": "[Arles]\nPor favor, verifique seus materiais e faça um pedido para o máximo que puder fazer.",
+        "es-ES": "[Arles]\nPor favor, revisa tus materiales y haz un pedido de la cantidad que puedas."
+    },
+    "+8fEDQ": {
+        "en-US": "[Arles]\nHere are your ordered ^4D4DFFCherry Blossom Rice Cakes^000000.\nPlease eat them all before they spoil.",
+        "pt-BR": "[Arles]\nAqui estão os ^4D4DFFBolinhos de Cerejeira^000000 que você pediu.\nPor favor, coma antes que estraguem.",
+        "es-ES": "[Arles]\nAquí están los ^4D4DFFMochis de Flor de Cerezo^000000 que pediste.\nPor favor, cómelos todos antes de que se pongan malos."
+    },
+    "/MfEDQ": {
+        "en-US": "[Arles]\nWhenever you want to enjoy Cherry Blossom Rice Cake, bring some ^4D4DFFSmall Spray of Flowers^000000!",
+        "pt-BR": "[Arles]\nTraga alguns ^4D4DFFRaminhos de Flores^000000 sempre que quiser saborear o Bolinho de Cerejeira!",
+        "es-ES": "[Arles]\n¡Siempre que quieras disfrutar del Mochi de Flor de Cerezo, trae algunas ^4D4DFFRamitas de Flores^000000!"
+    },
+    "/cfEDQ": {
+        "en-US": "Cloudy",
+        "pt-BR": "Nublado",
+        "es-ES": "Nublado"
+    },
+    "/sfEDQ": {
+        "en-US": "[Cloudy]\nHello!\nMaster Arles is currently hard at work making costumes.\nI'm in charge of collecting and organizing the materials needed for crafting.\nWhat brings you here?",
+        "pt-BR": "[Nublado]\nOlá!\nO Mestre Arles está muito ocupado fazendo visuais agora.\nE eu estou encarregado de coletar e organizar os materiais necessários para a confecção.\nO que o traz aqui?",
+        "es-ES": "[Nublado]\n¡Hola!\nMaestro Arles está actualmente trabajando duro haciendo disfraces.\nEstoy a cargo de recolectar y organizar los materiales necesarios para la confección.\n¿Qué te trae por aquí?"
+    },
+    "/8fEDQ": {
+        "en-US": "Exchange materials for Festival Gift.",
+        "pt-BR": "Trocar materiais por Caixa de Presente.",
+        "es-ES": "Intercambiar materiales por Caja de Regalo."
+    },
+    "AMjEDQ": {
+        "en-US": "Come back later.",
+        "pt-BR": "Voltar depois.",
+        "es-ES": "Volver después."
+    },
+    "AcjEDQ": {
+        "en-US": "[Cloudy]\nIf you bring ^4D4DFF20x Small Spray of Flowers^000000 and ^4D4DFF5x Yellow Herb^000000,\nI'll open a ^4D4DFFSpring Flower Festival Gift^000000 for you on the spot!\nWould you like to open the gift?",
+        "pt-BR": "[Nublado]\nSe você trouxer ^4D4DFF20x Raminho de Flores^000000 e ^4D4DFF5x Erva Amarela^000000,\nabrirei uma ^4D4DFFCaixa de Presente do Festival das Cerejeiras^000000 para você na hora!\nGostaria de abrir a caixa?",
+        "es-ES": "[Nublado]\nSi traes ^4D4DFF20x Ramita de Flores^000000 y ^4D4DFF5x Hierbas Amarilla^000000,\n¡te abriré una ^4D4DFFCaja de Regalo del Festival de las Flores de Cerezo^000000 en el acto!\n¿Te gustaría abrir la caja?"
+    },
+    "AsjEDQ": {
+        "en-US": "Open the gift.",
+        "pt-BR": "Abrir a caixa.",
+        "es-ES": "Abrir la caja."
+    },
+    "A8jEDQ": {
+        "en-US": "[Cloudy]\nAh, thank you.\nI'll gratefully collect these precious materials.\nThis will allow Master Arles to craft even more costumes.",
+        "pt-BR": "[Nublado]\nAh, obrigado.\nVou coletar esses materiais preciosos com gratidão.\nIsso permitirá que o Mestre Arles faça ainda mais visuais.",
+        "es-ES": "[Nublado]\nAh, gracias.\nRecolectaré estos valiosos materiales con gratitud.\nEsto permitirá que Maestro Arles haga aún más disfraces."
+    },
+    "BMjEDQ": {
+        "en-US": "[Cloudy]\nThen, as a token of thanks, here is your ^4D4DFFSpring Flower Festival Gift^000000.\nI wonder what's inside?\nLet's open it right now!",
+        "pt-BR": "[Nublado]\nEntão, como agradecimento, aqui está sua ^4D4DFFCaixa de Presente do Festival das Cerejeiras^000000.\nO que será que tem dentro?\nVamos abrir agora mesmo!",
+        "es-ES": "[Nublado]\nEntonces, como agradecimiento, aquí está tu ^4D4DFFCaja de Regalo del Festival de las Flores de Cerezo^000000.\n¿Qué habrá adentro?\n¡Abramos ahora mismo!"
+    },
+    "BcjEDQ": {
+        "en-US": "[Cloudy]\nHow is it? Did you get a satisfying gift?\nIf you get more materials, please come find me again.",
+        "pt-BR": "[Nublado]\nComo foi? Você conseguiu um presente bom?\nSe conseguir mais materiais, me procure novamente.",
+        "es-ES": "[Nublado]\n¿Qué tal? ¿Conseguiste un regalo satisfactorio?\nSi consigues más materiales, por favor, búscame nuevamente."
+    },
+    "BsjEDQ": {
+        "en-US": "[Cloudy]\nOh dear, you don't have enough materials!\nYou need ^4D4DFF20x Small Spray of Flowers^000000 and ^4D4DFF5x Yellow Herb^000000.\nI'll be waiting!",
+        "pt-BR": "[Nublado]\nOh, caramba, você não tem materiais suficientes!\nVocê precisa de ^4D4DFF20x Raminho de Flores^000000 e ^4D4DFF5x Erva Amarela^000000.\nEstarei esperando!",
+        "es-ES": "[Nublado]\n¡Oh, vaya, no tienes suficientes materiales!\nNecesitas ^4D4DFF20x Ramita de Flores^000000 y ^4D4DFF5x Hierba Amarilla^000000.\n¡Estaré esperando!"
+    },
+    "B8jEDQ": {
+        "en-US": "[Cloudy]\nIf you need anything, come find me again!",
+        "pt-BR": "[Nublado]\nSe precisar de algo, é só me procurar!",
+        "es-ES": "[Nublado]\nSi necesitas algo, ¡no dudes en buscarme!"
+    },
+    "CMjEDQ": {
+        "en-US": "[Cloudy]\nHello.\nI'm helping Master Arles prepare for the Spring Festival.",
+        "pt-BR": "[Nublado]\nOlá.\nEstou ajudando o Mestre Arles nos preparativos do Festival da Primavera.",
+        "es-ES": "[Nublado]\nHola.\nEstoy ayudando al Maestro Arles a preparar el Festival de las Flores de Cerezo."
+    },
+    "CcjEDQ": {
+        "en-US": "[Cloudy]\nI'm busy preparing for the festival, so please come back later.",
+        "pt-BR": "[Nublado]\nEstou ocupado com os preparativos, então volte mais tarde.",
+        "es-ES": "[Nublado]\nEstoy ocupado con los preparativos, así que vuelve más tarde."
+    },
+    "CsjEDQ": {
+        "en-US": "Rainy",
+        "pt-BR": "Neblina",
+        "es-ES": "Lluviosa"
+    },
+    "C8jEDQ": {
+        "en-US": "Operator Check",
+        "pt-BR": "Verificação do Operador",
+        "es-ES": "Verificación del Operador"
+    },
+    "DMjEDQ": {
+        "en-US": "AM{0}/PM{1}",
+        "pt-BR": "AM{0}/PM{1}",
+        "es-ES": "AM{0}/PM{1}"
+    },
+    "DcjEDQ": {
+        "en-US": "[Rainy]\nIt's great that I've become Master Arles assistant coordinator, but I'm still inexperienced, so I'm not sure if things are going well or not.",
+        "pt-BR": "[Neblina]\nFico contente de ter me tornado assistente do Mestre Arles, mas tenho pouca experiência com isso, então não sei se as coisas estão indo bem ou não.",
+        "es-ES": "[Lluviosa]\nEs genial haberme convertido en la asistente de Maestro Arles, pero aún soy inexperta, así que no sé si las cosas van bien o no."
+    },
+    "DsjEDQ": {
+        "en-US": "[Rainy]\nI hope I don't hold Cloudy back...",
+        "pt-BR": "[Neblina]\nEspero não atrapalhar o Nublado...",
+        "es-ES": "[Lluviosa]\nEspero no estorbar a Nublado..."
+    },
+    "D8jEDQ": {
+        "en-US": "[Rainy]\nTo think I could taste Master Arles creations!\nI've just recently become his assistant, so I haven't seen the actual products yet.",
+        "pt-BR": "[Neblina]\nSó de pensar que eu poderia comer os quitutes do Mestre Arles!\nEu me tornei assistente recentemente, então ainda não vi os produtos finais.",
+        "es-ES": "[Lluviosa]\n¡Pensar que podría comer las creaciones de Maestro Arles!\nMe acabo de convertir en su asistente, así que aún no he visto los productos reales."
+    },
+    "EMjEDQ": {
+        "en-US": "[Rainy]\nCherry Blossom Rice Cake under this beautiful spring shade...\nHehe, I'm excited.",
+        "pt-BR": "[Neblina]\nBolinho de Cerejeira sob este belo céu de primavera...\nHehe, estou animada.",
+        "es-ES": "[Lluviosa]\nMochi de Flor de Cerezo bajo esta hermosa sombra primaveral...\nJeje, estoy emocionada."
+    },
+    "EcjEDQ": {
+        "en-US": "[Rainy]\nWe are currently selling ^4D4DFFCherry Blossom Rice Cake^000000 made personally by Master Arles.\nIt's available for a limited time for 3 hours,\nfrom ^FF000009:00^000000 to ^FF000012:00^000000.",
+        "pt-BR": "[Neblina]\nAtualmente estamos vendendo ^4D4DFFBolinho de Cerejeira^000000 feito pessoalmente pelo Mestre Arles.\nEstá disponível por tempo limitado durante 3 horas,\ndas ^FF000009:00^000000 às ^FF000012:00^000000.",
+        "es-ES": "[Lluviosa]\nActualmente estamos vendiendo ^4D4DFFMochi de Flor de Cerezo^000000 hecho personalmente por el Maestro Arles.\nEstá disponible por tiempo limitado durante 3 horas,\nde ^FF000009:00^000000 a ^FF000012:00^000000."
+    },
+    "EsjEDQ": {
+        "en-US": "[Rainy]\nThe amount we can make depends on the number of Small Spray of Flowers donated during the break.\nPlease buy lots.\nThe next limited sale time is from ^FF000021:00^000000 to ^FF000024:00^000000!",
+        "pt-BR": "[Neblina]\nA quantidade que podemos fazer depende do número de Raminhos de Flores doados antes do período de venda.\nCompre bastante.\nO próximo horário de venda limitada é das ^FF000021:00^000000 às ^FF000024:00^000000!",
+        "es-ES": "[Lluviosa]\nLa cantidad que podemos hacer depende del número de Ramitas de Flores donadas durante el descanso.\nCompra mucho.\n¡El próximo horario de venta limitada es de ^FF000021:00^000000 a ^FF000000:00^000000!"
+    },
+    "E8jEDQ": {
+        "en-US": "[Rainy]\nWe're currently out of Cherry Blossom Rice Cake.\nHowever, if you donate ^4D4DFFSmall Spray of Flowers^000000, we'll use them as materials for the next batch.",
+        "pt-BR": "[Neblina]\nAtualmente estamos sem Bolinho de Cerejeira.\nNo entanto, se você doar ^4D4DFFRaminhos de Flores^000000, nós os usaremos como materiais para o próximo lote.",
+        "es-ES": "[Lluviosa]\nActualmente no tenemos Mochi de Flor de Cerezo.\nSin embargo, si donas ^4D4DFFRamitas de Flores^000000, las usaremos como materiales para el próximo lote."
+    },
+    "FMjEDQ": {
+        "en-US": "[Rainy]\nSale hours are\n[^FF000009:00^000000 ~ ^FF000012:00^000000], [^FF000021:00^000000 ~ ^FF000024:00^000000]\nWe have two sales per day.",
+        "pt-BR": "[Neblina]\nOs horários de venda são:\ndas [^FF000009:00^000000 às ^FF000012:00^000000] e das [^FF000021:00^000000 às ^FF000024:00^000000]\nVendemos duas vezes ao dia.",
+        "es-ES": "[Lluviosa]\nLos horarios de venta son\nde [^FF000009:00^000000 a ^FF000012:00^000000] y de [^FF000021:00^000000 a ^FF000000:00^000000].\nTenemos dos ventas por día."
+    },
+    "FcjEDQ": {
+        "en-US": "[Arles]\n^FF0000Please talk to^000000\n^FF0000Master Arles at the front for exchanges.^000000",
+        "pt-BR": "[Arles]\n^FF0000Por favor, fale com^000000\n^FF0000o Mestre Arles lá na frente a respeito de trocas.^000000",
+        "es-ES": "[Arles]\n^FF0000Por favor, habla con^000000\n^FF0000Maestro Arles, allí en frente, para intercambios.^000000"
+    },
+    "FsjEDQ": {
+        "en-US": "[Rainy]\nHow many would you like to donate?",
+        "pt-BR": "[Neblina]\nQuantos você gostaria de doar?",
+        "es-ES": "[Lluviosa]\n¿Cuántas te gustaría donar?"
+    },
+    "F8jEDQ": {
+        "en-US": "[Rainy]\nAh... donors are wonderful people...\nWouldn't you consider donating at least one?\nHoo...",
+        "pt-BR": "[Neblina]\nAh, doadores são pessoas maravilhosas...\nVocê não consideraria doar pelo menos um?\nHoo...",
+        "es-ES": "[Lluviosa]\nAh... los donantes son personas maravillosas...\n¿No considerarías donar al menos una?"
+    },
+    "GMjEDQ": {
+        "en-US": "[Rainy]\nAh, dear adventurer. Please understand that we can only accept up to 100 at a time.",
+        "pt-BR": "[Neblina]\nAh, caro aventureiro. Por favor, entenda que só podemos aceitar até 100 de cada vez.",
+        "es-ES": "[Lluviosa]\nAh, querido trotamundos... Por favor, entiende que solo podemos aceptar hasta 100 a la vez."
+    },
+    "GcjEDQ": {
+        "en-US": "[Rainy]\nHmm, it seems you don't have that many.",
+        "pt-BR": "[Neblina]\nHmm, parece que você não tem tanto assim.",
+        "es-ES": "[Lluviosa]\nMmm, parece que no tienes tantas."
+    },
+    "GsjEDQ": {
+        "en-US": "[Rainy]\nAh, thank you!\nMaster will be delighted too.",
+        "pt-BR": "[Neblina]\nAh, obrigado!\nO mestre ficará muito feliz.",
+        "es-ES": "[Lluviosa]\n¡Ah, gracias!\nEl maestro también estará encantado."
+    },
+    "G8jEDQ": {
+        "en-US": "[Rainy]\nWe are currently selling ^4D4DFFCherry Blossom Rice Cake^000000 made personally by Master Arles.\nIt's available for a limited time for 3 hours,\nfrom ^FF000021:00^000000 to ^FF000024:00^000000.",
+        "pt-BR": "[Neblina]\nAtualmente estamos vendendo ^4D4DFFBolinho de Cerejeira^000000 feito pessoalmente pelo Mestre Arles.\nEstá disponível por um tempo limitado durante 3 horas,\ndas ^FF000021:00^000000 às ^FF000024:00^000000.",
+        "es-ES": "[Lluviosa]\nActualmente estamos vendiendo ^4D4DFFMochi de Flor de Cerezo^000000 hecho personalmente por el Maestro Arles.\nEstá disponible por tiempo limitado durante 3 horas,\nde ^FF000021:00^000000 a ^FF000000:00^000000."
+    },
+    "HMjEDQ": {
+        "en-US": "[Rainy]\nThe amount we can make depends on the number of Small Spray of Flowers donated during the break.\nPlease buy lots.\nThe next limited sale time is from ^FF000009:00^000000 to ^FF000012:00^000000!",
+        "pt-BR": "[Neblina]\nA quantidade que podemos fazer depende do número de Raminhos de Flores doados antes do período de venda.\nCompre bastante.\nO próximo horário de venda limitada é das ^FF000009:00^000000 às ^FF000012:00^000000!",
+        "es-ES": "[Lluviosa]\nLa cantidad que podemos hacer depende del número de Ramitas de Flores donadas durante el descanso.\nCompra mucho.\n¡El próximo horario de venta limitada es de ^FF000009:00^000000 a ^FF000012:00^000000!"
+    },
+    "HcjEDQ": {
+        "en-US": "[Rainy]\n^FF0000Please speak to^000000\n^FF0000Master Arles at the back for exchanges.^000000",
+        "pt-BR": "[Neblina]\n^FF0000Por favor, fale com^000000\n^FF0000o Mestre Arles lá atrás a respeito de trocas.^000000",
+        "es-ES": "[Lluviosa]\n^FF0000Por favor, habla con^000000\n^FF0000Maestro Arles, allí atrás, para intercambios.^000000"
+    },
+    "HsjEDQ": {
+        "en-US": "[Rainy]\nHello!\nWhy not enjoy the spring weather\nwhile eating Cherry Blossom Rice Cake made by Master Arles?",
+        "pt-BR": "[Neblina]\nOlá!\nPor que não aproveitar o clima da primavera\nenquanto come um Bolinho de Cerejeira feito pelo Mestre Arles?",
+        "es-ES": "[Lluviosa]\n¡Hola!\n¿Por qué no disfrutas del clima primaveral\nmientras comes el Mochi de Flor de Cerezo hecho por el Maestro Arles?"
+    },
+    "H8jEDQ": {
+        "en-US": "Beryl",
+        "pt-BR": "Nebuloso",
+        "es-ES": "Beryl"
+    },
+    "IMjEDQ": {
+        "en-US": "[Beryl]\nI'm in a great mood because even more flowers have bloomed this year!\nI'll make some splendid flower twigs again this year.\nThis time, I've used my special skills to make them even more effective.\nSo here's a much more magnificent ^4D4DFFBountiful Spray of Flowers^000000!!",
+        "pt-BR": "[Nebuloso]\nEstou de ótimo humor porque ainda mais flores desabrocharam este ano!\nVou fazer alguns ramos de flores esplêndidos novamente este ano.\nDesta vez, usei minhas habilidades especiais para torná-los ainda mais eficazes.\nEntão aqui está um ^4D4DFFRamo de Flores^000000 muito mais magnífico!!",
+        "es-ES": "[Beryl]\n¡Estoy de muy buen humor porque han florecido incluso más flores este año!\nHaré unos Ramos de Flores espléndidos otra vez este año.\nEsta vez, usé mis habilidades especiales para hacerlos aún más efectivos.\n¡Así que aquí tienes un ^4D4DFFRamo de Flores^000000 mucho mejor!!"
+    },
+    "IcjEDQ": {
+        "en-US": "[Beryl]\nWhen you use a ^4D4DFFBountiful Spray of Flowers^000000, the fresh spring spirit will linger on your body for quite a while.\nIf you want to enjoy the ambiance, be sure to make and use one!\nI'll make one for you if you bring me ^4D4DFF5x Small Spray of Flowers^000000.",
+        "pt-BR": "[Nebuloso]\nQuando você usa um ^4D4DFFRamo de Flores^000000, o espírito fresco da primavera permanecerá em seu corpo por um bom tempo.\nSe quiser aproveitar o ambiente, não deixe de fazer e usar um!\nFarei um para você se me trouxer ^4D4DFF5x Raminho de Flores^000000.",
+        "es-ES": "[Beryl]\nCuando usas un ^4D4DFFRamo de Flores^000000, el espíritu fresco de la primavera permanecerá en tu cuerpo por un buen rato.\n¡Si quieres disfrutar del ambiente, asegúrate de hacer uno y usarlo!\nTe haré uno si me traes ^4D4DFF5x Ramita de Flores^000000."
+    },
+    "IsjEDQ": {
+        "en-US": "Turn Small Spray of Flowers into Bountiful Spray of Flowers",
+        "pt-BR": "Transformar Raminhos de Flores em Ramos de Flores",
+        "es-ES": "Transformar Ramitas de Flores en Ramos de Flores"
+    },
+    "I8jEDQ": {
+        "en-US": "[Beryl]\n^4D4DFFBountiful Spray of Flowers^000000!! I put a lot of care into this year's twig.\nWhen you use this, you'll feel as if your body becomes incredibly light.",
+        "pt-BR": "[Nebuloso]\n^4D4DFFRamo de Flores^000000!! Coloquei muito cuidado no ramo deste ano.\nQuando você usar isso, sentirá como se seu corpo ficasse incrivelmente leve.",
+        "es-ES": "[Beryl]\n¡¡^4D4DFFRamo de Flores^000000!! Le puse mucho esmero al ramo de este año.\nCuando uses esto, sentirás como si tu cuerpo se volviera increíblemente ligero."
+    },
+    "JMjEDQ": {
+        "en-US": "[Beryl]\nGather these modest twigs... carefully sort them out... tie them with string like this...\nHere it is. When used, this will be imbued with the cool and light magical power of the flower twig.",
+        "pt-BR": "[Nebuloso]\nReúna esses ramos modestos... separe-os cuidadosamente... amarre-os com barbante assim...\nAqui está. Quando usado, isso será imbuído com o poder mágico fresco e leve do ramo de flor.",
+        "es-ES": "[Beryl]\nReúne estos ramos modestos... sepáralos cuidadosamente... átalos con cuerda así...\nAquí está. Cuando se usa, esto se imbuye del poder mágico fresco y ligero del ramo de flor."
+    },
+    "JcjEDQ": {
+        "en-US": "[Beryl]\nTo make a Bountiful Spray of Flowers, you need at least ^4D4DFF5x Small Spray of Flowers^000000.",
+        "pt-BR": "[Nebuloso]\nPara fazer um Ramo de Flores, você precisa de pelo menos ^4D4DFF5x Raminho de Flores^000000.",
+        "es-ES": "[Beryl]\nPara hacer un Ramo de Flores, necesitas al menos ^4D4DFF5x Ramita de Flores^000000."
+    },
+    "JsjEDQ": {
+        "en-US": "[Beryl]\nYou can get Small Spray of Flowers by releasing the ^4D4DFFFlower Tree Energy^000000 that appears near the flower trees and picking up what drops.",
+        "pt-BR": "[Nebuloso]\nVocê pode obter Raminhos de Flores liberando a ^4D4DFFEnergia de Árvore Florida^000000 que aparece perto das árvores de flores e pegando o que cai.",
+        "es-ES": "[Beryl]\nPuedes obtener Ramitas de Flores liberando la ^4D4DFFEnergía del Árbol de Flores^000000 que aparece cerca de los Árboles de Flores y recogiendo lo que cae."
+    },
+    "J8jEDQ": {
+        "en-US": "[Beryl]\nNow, hurry and go gather the materials!",
+        "pt-BR": "[Nebuloso]\nAgora, vá rápido e junte os materiais!",
+        "es-ES": "[Beryl]\n¡Ahora, ve rápido y junta los materiales!"
+    },
+    "KMjEDQ": {
+        "en-US": "[Beryl]\nRight.\nIf you need a flower twig imbued with wonderful effects,\ncome find me again.",
+        "pt-BR": "[Nebuloso]\nCerto.\nSe precisar de um ramo de flor imbuído com efeitos maravilhosos,\nvenha me procurar novamente.",
+        "es-ES": "[Beryl]\nCorrecto.\nSi necesitas un ramo de flor imbuido con efectos maravillosos,\nvuelve a buscarme."
+    }
+}

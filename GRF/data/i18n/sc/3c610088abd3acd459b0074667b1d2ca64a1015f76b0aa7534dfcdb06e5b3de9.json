@@ -1,0 +1,202 @@
+{
+    "gO/NDQ": {
+        "en-US": "Playful Penomena",
+        "pt-BR": "Penomena Travessa",
+        "es-ES": "Penomena Traviesa"
+    },
+    "ge/NDQ": {
+        "en-US": "Grumpy Hydra",
+        "pt-BR": "Hidra Ranzinza",
+        "es-ES": "Hidra Malhumorada"
+    },
+    "gu/NDQ": {
+        "en-US": "Nuisance Penomena",
+        "pt-BR": "Penomena Incômoda",
+        "es-ES": "Penomena Molesta"
+    },
+    "g+/NDQ": {
+        "en-US": "Bored Penomena",
+        "pt-BR": "Penomena Entediada",
+        "es-ES": "Penomena Aburrida"
+    },
+    "hO/NDQ": {
+        "en-US": "Timid Hydra",
+        "pt-BR": "Hidra Cautelosa",
+        "es-ES": "Hidra Cautelosa"
+    },
+    "he/NDQ": {
+        "en-US": "Baby Shark",
+        "pt-BR": "Bebê Tubarão",
+        "es-ES": "Tiburón Bebé"
+    },
+    "hu/NDQ": {
+        "en-US": "[Baby Shark]\nDoo doo doo doo doo doo!\nWe're going to play hide-and-seek!\nNow try to find us!\n{0}, you're on. If you find me three times, I'll give you <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>!",
+        "pt-BR": "[Bebê Tubarão]\nDu du ru du du ru!\nNós vamos brincar de esconde-esconde!\nAgora tente nos encontrar!\n{0}, está com você. Se me encontrar três vezes, eu te darei <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>!",
+        "es-ES": "[Tiburón Bebé]\n¡Du du ru du du ru!\nVamos a jugar a las escondidas.\n¡Ahora intenta encontrarnos!\n{0}, te toca a ti. Si me encuentras tres veces, ¡te daré una <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>!"
+    },
+    "h+/NDQ": {
+        "en-US": "[Baby Shark]\nAlright, let's go!",
+        "pt-BR": "[Bebê Tubarão]\nEntão, vamos começar!",
+        "es-ES": "[Tiburón Bebé]\n¡Empecemos!"
+    },
+    "iO/NDQ": {
+        "en-US": "Baby Shark and his friends have hidden themselves all around the place.\nWhere could Baby Shark be hiding?",
+        "pt-BR": "Bebê Tubarão e seus amigos se esconderam por aí.\nOnde estará o Bebê Tubarão?",
+        "es-ES": "Tiburón Bebé y sus amigos se han escondido.\n¿Dónde estará Tiburón Bebé?"
+    },
+    "ie/NDQ": {
+        "en-US": "You are carrying too many items to proceed with this quest.\nPlease organize your items and try again.",
+        "pt-BR": "Você está carregando itens demais e não pode prosseguir com a missão.\nPor favor, organize seu inventário e tente novamente.",
+        "es-ES": "Llevas demasiados objetos para continuar con esta misión.\nPor favor, organiza tus objetos e intenta otra vez."
+    },
+    "iu/NDQ": {
+        "en-US": "[Baby Shark]",
+        "pt-BR": "[Bebê Tubarão]",
+        "es-ES": "[Tiburón Bebé]"
+    },
+    "i+/NDQ": {
+        "en-US": "But that was only one game!\nLet's start over!",
+        "pt-BR": "Mas foi só uma vez!\nVamos recomeçar!",
+        "es-ES": "¡Pero esa fue solo una vez!\n¡Empecemos otra vez!"
+    },
+    "jO/NDQ": {
+        "en-US": "[Baby Shark]\nThen this time I'll have to hide really well.\nHere I come!",
+        "pt-BR": "[Bebê Tubarão]\nDessa vez, vou me esconder bem melhor.\nLá vou eu!",
+        "es-ES": "[Tiburón Bebé]\nAhora me esconderé mucho mejor.\n¡Allá voy!"
+    },
+    "je/NDQ": {
+        "en-US": "[Baby Shark]\n{0}, you're really good at finding me!\nYou won!",
+        "pt-BR": "[Bebê Tubarão]\n{0}, você é bom mesmo em me achar!\nVocê ganhou!",
+        "es-ES": "[Tiburón Bebé]\n{0}, eres genial encontrándome.\n¡Ganaste!"
+    },
+    "ju/NDQ": {
+        "en-US": "[Baby Shark]\nHere's the <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM> I promised.\nLet's play again tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nAqui, como prometido, <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nVamos brincar de novo amanhã!",
+        "es-ES": "[Tiburón Bebé]\nAquí tienes la <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM> que prometí.\n¡Juguemos otra vez mañana!"
+    },
+    "j+/NDQ": {
+        "en-US": "[Baby Shark]\nLet's play again tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nVamos brincar de novo amanhã!",
+        "es-ES": "[Tiburón Bebé]\n¡Juguemos otra vez mañana!"
+    },
+    "kO/NDQ": {
+        "en-US": "Would you like to return to Comodo?",
+        "pt-BR": "Deseja retornar a Comodo?",
+        "es-ES": "¿Deseas regresar a Comodo?"
+    },
+    "ke/NDQ": {
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí"
+    },
+    "ku/NDQ": {
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No"
+    },
+    "k+/NDQ": {
+        "en-US": "Dirt Pile",
+        "pt-BR": "Monte de Terra",
+        "es-ES": "Montón de Tierra"
+    },
+    "lO/NDQ": {
+        "en-US": "I already looked over here.\nLet's check somewhere else.",
+        "pt-BR": "Já procurei aqui.\nVamos buscar em outro lugar.",
+        "es-ES": "Ya busqué aquí.\nBusquemos en otro lugar."
+    },
+    "le/NDQ": {
+        "en-US": "[Baby Shark]\nAww, so close! I should have hidden myself better!",
+        "pt-BR": "[Bebê Tubarão]\nAh, que pena! Eu devia ter me escondido melhor!",
+        "es-ES": "[Tiburón Bebé]\nAy, casi. ¡Podría haberme escondido mejor!"
+    },
+    "lu/NDQ": {
+        "en-US": "It looks like there's no one down here.\nLet's look somewhere else.",
+        "pt-BR": "Parece que não tem ninguém aqui embaixo.\nVamos olhar em outro lugar.",
+        "es-ES": "Parece que no hay nadie debajo de esto.\nBusquemos en otro lugar."
+    },
+    "l+/NDQ": {
+        "en-US": "[Marse]\nOh no! I've been found!\nNothing I can do now...",
+        "pt-BR": "[Marse]\nAh, não! Fui descoberto!\nFazer o quê...",
+        "es-ES": "[Marse]\nVaya, me descubrieron.\nNi modo."
+    },
+    "mO/NDQ": {
+        "en-US": "[Phen]\nFlop flop.\nFlop!",
+        "pt-BR": "[Fen]\nGlub, glub!\nGlub!",
+        "es-ES": "[Phen]\n¡Gluglú! ¡Glup, glup!"
+    },
+    "me/NDQ": {
+        "en-US": "[Swordfish]\nOh... You found me!",
+        "pt-BR": "[Peixe-Espada]\nAh... Você me achou!",
+        "es-ES": "[Pez Espada]\n¡Ay, me encontraste!"
+    },
+    "mu/NDQ": {
+        "en-US": "[Phreeoni]\nOf all places! I can't believe I was found here.",
+        "pt-BR": "[Freeoni]\nDe todos os lugares, não acredito que me encontraram aqui.",
+        "es-ES": "[Phreeoni]\nDe todos los lugares, no esperaba que me encontraran aquí."
+    },
+    "m+/NDQ": {
+        "en-US": "[Cookie]\nAaaah!\nI came out to play for the first time in ages and was found right away!",
+        "pt-BR": "[Cookie]\nAaaah!\nFazia tempos que eu não vinha brincar e já me encontraram!",
+        "es-ES": "[Galleta]\n¡Aaaah!\n¡Vine a jugar después de tanto tiempo y me encontraron al instante!"
+    },
+    "nO/NDQ": {
+        "en-US": "[Baby Shark]\nAgain? That was fast!",
+        "pt-BR": "[Bebê Tubarão]\nDe novo? Essa foi rápida!",
+        "es-ES": "[Tiburón Bebé]\n¿Otra vez? ¡Qué rápido!"
+    },
+    "ne/NDQ": {
+        "en-US": "[Baby Shark]\nWow!",
+        "pt-BR": "[Bebê Tubarão]\nUau!",
+        "es-ES": "[Tiburón Bebé]\n¡Guau!"
+    },
+    "nu/NDQ": {
+        "en-US": "Phen",
+        "pt-BR": "Fen",
+        "es-ES": "Phen"
+    },
+    "n+/NDQ": {
+        "en-US": "Marse",
+        "pt-BR": "Marse",
+        "es-ES": "Marse"
+    },
+    "oO/NDQ": {
+        "en-US": "Swordfish",
+        "pt-BR": "Peixe-Espada",
+        "es-ES": "Pez Espada"
+    },
+    "oe/NDQ": {
+        "en-US": "Phreeoni",
+        "pt-BR": "Freeoni",
+        "es-ES": "Phreeoni"
+    },
+    "ou/NDQ": {
+        "en-US": "Cookie",
+        "pt-BR": "Cookie",
+        "es-ES": "Galleta"
+    },
+    "o+/NDQ": {
+        "en-US": "[Marse]\nPlaying hide and seek with everyone sounds like fun!",
+        "pt-BR": "[Marse]\nBrincar de esconde-esconde com todo mundo parece divertido!",
+        "es-ES": "[Marse]\n¿Jugar a las escondidas con todos? Suena divertido."
+    },
+    "pO/NDQ": {
+        "en-US": "[Phen]\nFlop. Flop.\nFlop flop.",
+        "pt-BR": "[Fen]\nGlub, glub!\nGlub, glub!",
+        "es-ES": "[Phen]\n¡Gluglú! ¡Glup, glup!"
+    },
+    "pe/NDQ": {
+        "en-US": "[Swordfish]\nWas I too late? Did I keep you waiting?",
+        "pt-BR": "[Peixe-Espada]\nEu não me atrasei, né? Eu te fiz esperar?",
+        "es-ES": "[Pez Espada]\nNo llegué tarde, ¿no cierto? ¿Te hice esperar?"
+    },
+    "pu/NDQ": {
+        "en-US": "[Phreeoni]\nToday I'll show you that I'm the master of hide-and-seek.",
+        "pt-BR": "[Freeoni]\nHoje vou te mostrar que sou mestre no esconde-esconde.",
+        "es-ES": "[Phreeoni]\nHoy te demostraré mi maestría en las escondidas."
+    },
+    "p+/NDQ": {
+        "en-US": "[Cookie]\nHehe...\nWhat an honor to be invited!\nI'll hide really well.\nBut if I do, you won't see me...\nAm I going to miss my chance to stand out?",
+        "pt-BR": "[Cookie]\nHehe...\nQue honra você ter me chamado!\nVou me esconder direitinho.\nMas se eu me esconder, você não vai me ver...\nSerá que vou perder a chance de finalmente me destacar?",
+        "es-ES": "[Galleta]\n¡Jeje!\n¿A mí? Qué honor...\nMe esconderé muy bien.\nPero, si me escondo, no me verás...\n¿Acaso estoy perdiendo mi oportunidad de destacarme?"
+    }
+}

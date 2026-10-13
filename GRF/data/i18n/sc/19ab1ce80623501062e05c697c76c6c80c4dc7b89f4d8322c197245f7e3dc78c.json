@@ -1,0 +1,267 @@
+{
+    "oFvJDQ": {
+        "en-US": "Admin Beta",
+        "pt-BR": "Autômata Beta",
+        "es-ES": "Autómata Beta"
+    },
+    "oVvJDQ": {
+        "en-US": "Do you need directions to the inner mansion?",
+        "pt-BR": "Você precisa de orientação sobre o interior da mansão?",
+        "es-ES": "¿Necesita información sobre el interior de la mansión?"
+    },
+    "olvJDQ": {
+        "en-US": "[Admin Beta]\nDo you need directions to the inner mansion?",
+        "pt-BR": "[Autômata Beta]\nPrecisa de orientação sobre o interior da mansão?",
+        "es-ES": "[Autómata Beta]\n¿Necesita información sobre el interior de la mansión?"
+    },
+    "o1vJDQ": {
+        "en-US": "[Admin Beta]\nBeyond this door are the Biosphere Environment, created by Master Varmunt for ecological research, and the Large Bath Meditatio.",
+        "pt-BR": "[Autômata Beta]\nAtrás desta porta fica o Ambiente da Ecosfera, criado pelo Mestre Varmunt para pesquisas ecológicas, e a Sauna Meditatio.",
+        "es-ES": "[Autómata Beta]\nAl otro lado de esta puerta se encuentran el Ambiente de la Ecosfera, creado por el señor Varmunt para sus investigaciones ecológicas. Además de eso, también está el Sauna Meditatio."
+    },
+    "pFvJDQ": {
+        "en-US": "Biosphere Environment Information",
+        "pt-BR": "Informações sobre o Ambiente da Ecosfera",
+        "es-ES": "Información sobre el Ambiente de la Ecosfera"
+    },
+    "pVvJDQ": {
+        "en-US": "Large Bath Information",
+        "pt-BR": "Informações sobre a Sauna",
+        "es-ES": "Información sobre el Sauna"
+    },
+    "plvJDQ": {
+        "en-US": "[Admin Beta]\nAre you curious about the Biosphere?",
+        "pt-BR": "[Autômata Beta]\nVejo que deseja saber mais sobre a Ecosfera.",
+        "es-ES": "[Autómata Beta]\nTiene curiosidad por la Ecosfera, ¿verdad?"
+    },
+    "p1vJDQ": {
+        "en-US": "What is the Biosphere?",
+        "pt-BR": "O que é a Ecosfera?",
+        "es-ES": "¿Qué es la Ecosfera?"
+    },
+    "qFvJDQ": {
+        "en-US": "Biosphere Environment Location",
+        "pt-BR": "Localização dos Ambientes da Ecosfera",
+        "es-ES": "Localización de los Ambientes de la Ecosfera"
+    },
+    "qVvJDQ": {
+        "en-US": "[Admin Beta]\nAs I mentioned earlier, the Biosphere is a space modeled precisely after real natural environments and terrain. Master Varmunt created and personally managed it for ecological research.",
+        "pt-BR": "[Autômata Beta]\nComo mencionei antes, a Ecosfera é um espaço que o Mestre Varmunt criou reproduzindo fielmente ambientes naturais e terrenos reais para estudar ecossistemas. Ele administrava o local pessoalmente.",
+        "es-ES": "[Autómata Beta]\nComo ya dije, la Ecosfera es un espacio creado por el señor Varmunt. Reproduce fielmente entornos naturales y terrenos reales para su estudio. Era un lugar que él gestionaba personalmente."
+    },
+    "qlvJDQ": {
+        "en-US": "[Admin Beta]\nMaster Varmunt created Environments modeled after locations that especially interested him, then released suitable specimen organisms into them for research.",
+        "pt-BR": "[Autômata Beta]\nO Mestre Varmunt criou Ambientes baseados em locais pelos quais tinha especial interesse, introduzindo neles formas de vida adequadas para estudá-las.",
+        "es-ES": "[Autómata Beta]\nEl señor Varmunt creó Ambientes por los que sentía especial interés y liberó allí mismo criaturas que encajaban en la muestra para estudiarlas."
+    },
+    "q1vJDQ": {
+        "en-US": "[Admin Beta]\nHowever, as our master's absence grew longer, the Biosphere remained tightly sealed until now.",
+        "pt-BR": "[Autômata Beta]\nContudo, devido à prolongada ausência do Mestre, a Ecosfera permaneceu completamente fechada até agora.",
+        "es-ES": "[Autómata Beta]\nAnte la prolongada ausencia del señor Varmunt, la Ecosfera ha permanecido firmemente cerrada hasta ahora."
+    },
+    "rFvJDQ": {
+        "en-US": "[Admin Beta]\nMaster Varmunt also kept the key, and we saw no need to open it, as we wished to preserve the environment in a pure state free from external contamination.",
+        "pt-BR": "[Autômata Beta]\nComo a chave também estava com o Mestre Varmunt, nós não a abrimos, a fim de preservar o ambiente em seu estado puro, livre de contaminações externas.",
+        "es-ES": "[Autómata Beta]\nComo la llave la tenía el señor Varmunt, nosotros no la abrimos. Así también preservamos el ambiente puro y sin contaminantes del exterior."
+    },
+    "rVvJDQ": {
+        "en-US": "[Admin Beta]\nHowever, recent reports of unusual energy within made us realize that the door to the Biosphere needed to be opened.",
+        "pt-BR": "[Autômata Beta]\nNo entanto, relatórios recentes indicaram uma atividade incomum em seu interior, levando-nos a concluir que seria necessário abrir as portas da Ecosfera.",
+        "es-ES": "[Autómata Beta]\nNo obstante, tras recibir informes recientes de que la energía del interior era inusual, consideramos necesario abrir la puerta de la Ecosfera."
+    },
+    "rlvJDQ": {
+        "en-US": "[Admin Beta]\nTherefore...",
+        "pt-BR": "[Autômata Beta]\nPor isso...",
+        "es-ES": "[Autómata Beta]\n¡Entonces...!"
+    },
+    "r1vJDQ": {
+        "en-US": "And so?",
+        "pt-BR": "Por isso?",
+        "es-ES": "¿\"Entonces\"?"
+    },
+    "sFvJDQ": {
+        "en-US": "[Admin Beta]\nAdmin Alpha scanned every corner of the mansion and finally found the master key.",
+        "pt-BR": "[Autômata Beta]\nA Autômata Alfa da Mansão examinou toda a propriedade e finalmente encontrou a chave mestra.",
+        "es-ES": "[Autómata Beta]\nLa Autómata Alfa escaneó toda la mansión y finalmente encontró la llave maestra."
+    },
+    "sVvJDQ": {
+        "en-US": "[Admin Beta]\nHowever, unlike us, who remain exactly the same as the time passes, living creatures are capable of change...",
+        "pt-BR": "[Autômata Beta]\nPorém, ao contrário de nós, que permanecemos sempre iguais com o passar do tempo, os seres vivos estão sujeitos a mudanças...",
+        "es-ES": "[Autómata Beta]\nSin embargo, a diferencia de nosotros, que permanecemos iguales a pesar del tiempo, los seres vivos son entidades cambiantes..."
+    },
+    "slvJDQ": {
+        "en-US": "[Admin Beta]\nAfter their habitats remained isolated from the outside world and neglected for so long, the specimens grew and became stronger on their own. From a biological perspective, this is a major achievement, and Master Varmunt would surely be pleased.",
+        "pt-BR": "[Autômata Beta]\nComo os habitats ficaram isolados do exterior e abandonados por muito tempo, as formas de vida usadas como amostras cresceram e se fortaleceram por conta própria. Do ponto de vista biológico, isso representa um grande avanço, e o Mestre Varmunt certamente ficaria satisfeito.",
+        "es-ES": "[Autómata Beta]\nAl permanecer en sus hábitats aislados del exterior y abandonadas durante mucho tiempo, las criaturas crecieron y se fortalecieron. Desde el punto de vista biológico, es un gran logro, y el señor Varmunt estaría muy alegre de eso..."
+    },
+    "s1vJDQ": {
+        "en-US": "[Admin Beta]\nWell... We were very pleased too. At least until countless monsters started storming through the door that had finally been opened again.",
+        "pt-BR": "[Autômata Beta]\nBem... Nós também ficamos felizes com isso. Pelo menos até inúmeros monstros começarem a avançar pela porta recém-aberta.",
+        "es-ES": "[Autómata Beta]\nY, bueno... a nosotros también nos alegró... hasta que numerosos monstruos empezaron a salir a montones por la puerta recién abierta."
+    },
+    "tFvJDQ": {
+        "en-US": "[Admin Beta]\nThe magic circles installed to identify monster types confirmed that they were indeed the monsters recorded in our data, but as they had survived extreme conditions for so long, they were stronger than the monsters in our records.",
+        "pt-BR": "[Autômata Beta]\nOs círculos mágicos instalados para identificar as categorias dos monstros confirmavam que eram os mesmos registrados em nossos dados. Porém, eles sobreviveram por tanto tempo em condições extremas que estavam mais fortes do que aqueles de nossos registros.",
+        "es-ES": "[Autómata Beta]\nSegún los círculos mágicos que dejamos grabados para identificar el tipo de monstruo, eran ciertamente los monstruos de nuestros datos, pero sobrevivieron tanto tiempo en condiciones extremas que ya no correspondían a nuestros datos registrados."
+    },
+    "tVvJDQ": {
+        "en-US": "[Admin Beta]\nWithout data on such powerful monsters, even we were unable to handle them, so we closed the door again and waited for you.",
+        "pt-BR": "[Autômata Beta]\nSem dados sobre essas criaturas poderosas, não tínhamos recursos suficientes para enfrentá-las. Por isso, fechamos novamente a porta e esperamos por você.",
+        "es-ES": "[Autómata Beta]\nSin datos, somos insuficientes para responder ante tanto poder, así que volvimos a cerrar la puerta mientras esperábamos por usted."
+    },
+    "tlvJDQ": {
+        "en-US": "For me?",
+        "pt-BR": "Por mim?",
+        "es-ES": "¿Por mí?"
+    },
+    "t1vJDQ": {
+        "en-US": "[Admin Beta]\nFrom what we have observed, you enjoy adventure. We have also seen your enthusiasm about everything new in this mansion.\nYou are exceptionally strong and responds to all manner of variables with great speed and accuracy.",
+        "pt-BR": "[Autômata Beta]\nPelo que observamos até agora, você aprecia aventuras. Também vimos seu entusiasmo diante de tudo que era novo nessa mansão.\nVocê é extremamente forte e sempre reagiu a todo tipo de situação de forma rápida e precisa.",
+        "es-ES": "[Autómata Beta]\nPor lo que hemos observado hasta ahora, a usted le gustan las aventuras. También vimos cómo su entusiasmo ardió cuando contempló la mansión.\nUsted es muy fuerte y su respuesta ante todo tipo de variables ha sido muy rápida y precisa."
+    },
+    "uFvJDQ": {
+        "en-US": "[Admin Beta]\nThat's why we decided to open the Biosphere for the first time to you, a very experienced adventurer.",
+        "pt-BR": "[Autômata Beta]\nPor isso, decidimos abrir a Ecosfera pela primeira vez para você, alguém com uma vasta experiência em aventuras.",
+        "es-ES": "[Autómata Beta]\nPor eso decidimos abrir por primera vez la Ecosfera a usted, alguien con experiencia en la aventura."
+    },
+    "uVvJDQ": {
+        "en-US": "[Admin Beta]\nWhile you face the monsters and fuels your adventurous spirit, we intend to focus on managing the Biosphere.",
+        "pt-BR": "[Autômata Beta]\nEnquanto você enfrenta os monstros e satisfaz seu espírito aventureiro, pretendemos nos concentrar na administração da Ecosfera.",
+        "es-ES": "[Autómata Beta]\nMientras usted aviva su espíritu aventurero enfrentándose a los monstruos, nosotros nos concentraremos en la administración de la Ecosfera."
+    },
+    "ulvJDQ": {
+        "en-US": "It feels like you are dumping this on me...",
+        "pt-BR": "Parece que estão jogando tudo pra cima de mim...",
+        "es-ES": "Siento que me estás cargando la responsabilidad..."
+    },
+    "u1vJDQ": {
+        "en-US": "[Admin Beta]\nIs work not meant to be left to experts? We are simply entrusting monster hunting to a more specialized expert. Our assessment is that no one other than you can accomplish this difficult task.",
+        "pt-BR": "[Autômata Beta]\nO trabalho deve ser confiado a especialistas, não é mesmo? Apenas estamos deixando a caça aos monstros nas mãos de alguém ainda mais especializado. Nossa conclusão é que só você seria capaz de realizar uma tarefa tão difícil.",
+        "es-ES": "[Autómata Beta]\n¿No se deben dejar los trabajos en manos de especialistas? Creo que estamos ante las mejores manos. Nuestro juicio es que no hay nadie, aparte de usted, capaz de llevar a cabo esta difícil tarea."
+    },
+    "vFvJDQ": {
+        "en-US": "[Admin Beta]\nFurthermore, we are not opening every habitat, only the ones that require the most urgent attention, like Ice, Fire, Grass, and Death Environments. So, the burden should be lighter.",
+        "pt-BR": "[Autômata Beta]\nAlém disso, não abriremos todos os habitats, apenas os Ambientes mais urgentes como: Geleira, Vulcão, Pradaria e Cemitério. Dessa forma, não deveria ser uma carga tão grande.",
+        "es-ES": "[Autómata Beta]\nAdemás, no abriremos todos los Hábitats, sino solo los Ambientes de Glaciar, Volcán, Pradera y Cementerio, que son los más urgentes, así que la carga será menor."
+    },
+    "vVvJDQ": {
+        "en-US": "[Admin Beta]\nYou may keep anything you obtain from the Biosphere Environment. Oh, and one more thing.",
+        "pt-BR": "[Autômata Beta]\nTudo que for obtido no Ambiente da Ecosfera poderá ficar com você. Ah, e mais uma coisa.",
+        "es-ES": "[Autómata Beta]\nTodo lo que obtenga en el Ambiente de la Ecosfera podrá quedárselo. Ah, una cosa más."
+    },
+    "vlvJDQ": {
+        "en-US": "[Admin Beta]\nRare items obtained from the monsters can be transformed into powerful equipment at <NAVI>[Inside]<INFO>ba_in01,362,48,0,101,0</INFO></NAVI>, so it may be worth investigating. It is mutually beneficial, after all.",
+        "pt-BR": "[Autômata Beta]\nOs itens raros obtidos dos monstros podem ser transformados em equipamentos poderosos no <NAVI>[interior]<INFO>ba_in01,362,48,0,101,0</INFO></NAVI>. Talvez valha a pena conferir. Afinal, trata-se de uma cooperação mutuamente benéfica.",
+        "es-ES": "[Autómata Beta]\nLos objetos raros obtenidos de los monstruos pueden convertirse en equipo poderoso en el <NAVI>[interior]<INFO>ba_in01,362,48,0,101,0</INFO></NAVI>. Tal vez le convenga echar un vistazo, ¿no?"
+    },
+    "v1vJDQ": {
+        "en-US": "[Admin Beta]\nWe are in a somewhat difficult situation and we lack the resources to handle it ourselves. For that reason, we would appreciate a little help from you, if possible...",
+        "pt-BR": "[Autômata Beta]\nEstamos em uma situação um pouco complicada e não temos recursos suficientes para lidar com ela. Por isso, gostaríamos que você nos ajudasse um pouco, se possível...",
+        "es-ES": "[Autómata Beta]\nAsí que estamos en una situación un poco complicada, y como nosotros somos algo insuficientes para responder, nos gustaría que usted nos ayudara un poco, si es posible..."
+    },
+    "wFvJDQ": {
+        "en-US": "[Admin Beta]\nIt seems that entering would be difficult, even for an expert like you. As dangerous monsters are concentrated there, we only open the door to adventurers with a ^0000CDBase Level of 230^000000 or higher.",
+        "pt-BR": "[Autômata Beta]\nParece que até mesmo um especialista como você teria dificuldades de entrar. Já que é uma área com alta concentração de monstros perigosos, só abrimos a porta para quem tenha nível de base ^0000CD230^000000 ou superior.",
+        "es-ES": "[Autómata Beta]\nAunque tenga mucha experiencia, puede representar un peligro importante la cantidad de monstruos poderosos, por eso solo abrimos la puerta si tiene ^0000CDNivel Base 230^000000 o superior."
+    },
+    "wVvJDQ": {
+        "en-US": "[Admin Beta]\nWe would really appreciate your help next time.",
+        "pt-BR": "[Autômata Beta]\nEsperamos poder contar com sua ajuda da próxima vez.",
+        "es-ES": "[Autómata Beta]\nEsperamos que pueda ayudarnos en otra ocasión."
+    },
+    "wlvJDQ": {
+        "en-US": "Biosphere Environment  - ^0000CDIce^000000",
+        "pt-BR": "Ambiente da Ecosfera - ^0000CDGeleira^000000",
+        "es-ES": "Ambiente de la Ecosfera - ^0000CDGlaciar^000000"
+    },
+    "w1vJDQ": {
+        "en-US": "Biosphere Environment  - ^FF0000Fire^000000",
+        "pt-BR": "Ambiente da Ecosfera - ^FF0000Vulcão^000000",
+        "es-ES": "Ambiente de la Ecosfera - ^FF0000Volcán^000000"
+    },
+    "xFvJDQ": {
+        "en-US": "Biosphere Environment  - ^006600Grass^000000",
+        "pt-BR": "Ambiente da Ecosfera - ^006600Pradaria^000000",
+        "es-ES": "Ambiente de la Ecosfera - ^006600Pradera^000000"
+    },
+    "xVvJDQ": {
+        "en-US": "Biosphere Environment  - ^660099Death^000000",
+        "pt-BR": "Ambiente da Ecosfera - ^660099Cemitério^000000",
+        "es-ES": "Ambiente de la Ecosfera - ^660099Cementerio^000000"
+    },
+    "xlvJDQ": {
+        "en-US": "Equipment Combination",
+        "pt-BR": "Combinação de Equipamentos",
+        "es-ES": "Combinación de equipo"
+    },
+    "x1vJDQ": {
+        "en-US": "[Admin Beta]\nBiosphere Environment - <FONT COLOR = 0000cd><B>Ice</B></FONT>\nThis area recreates the ecosystem of a region ruled by severe cold. Powerful monsters that survived extremely low temperatures inhabit this place.",
+        "pt-BR": "[Autômata Beta]\nAmbiente da Ecosfera - <FONT COLOR = 0000cd><B>Geleira</B></FONT>\nEste local reproduz o ecossistema de uma região dominada pelo frio cortante. É habitado por monstros poderosos que sobreviveram ao frio rigoroso.",
+        "es-ES": "[Autómata Beta]\nAmbiente de la Ecosfera - <FONT COLOR = 0000cd><B>Glaciar</B></FONT>\nEs un lugar que reproduce el ecosistema de una región dominada por un frío intenso. Allí habitan monstruos poderosos que sobrevivieron a esas bajas temperaturas."
+    },
+    "yFvJDQ": {
+        "en-US": "[Admin Beta]\nBiosphere Environment - <FONT COLOR = ff0000><B>Fire</B></FONT>\nThis area recreates the ecosystem ruled by fire and magma. It is mainly inhabited by monsters that survived burning hot temperatures, even hotter than the land where everything melts away.",
+        "pt-BR": "[Autômata Beta]\nAmbiente da Ecosfera - <FONT COLOR = ff0000><B>Vulcão</B></FONT>\nEste local reproduz o ecossistema de uma região dominada por fogo e magma. É habitado principalmente por monstros que sobreviveram ardendo em um calor ainda mais intenso do que o da terra onde tudo se derrete.",
+        "es-ES": "[Autómata Beta]\nAmbiente de la Ecosfera - <FONT COLOR = ff0000><B>Volcán</B></FONT>\nEs un lugar que reproduce el ecosistema de la región Fuego. Allí habitan principalmente monstruos que sobrevivieron a una tierra ardiente donde todo se derrite."
+    },
+    "yVvJDQ": {
+        "en-US": "[Admin Beta]\nBiosphere Environment - <FONT COLOR = 006600><B>Grass</B></FONT>\nThis area recreates the ecosystem of the Grassland region. Unlike the other habitats, you may think it is a mild environment, but life tends to thrive even more in such conditions.",
+        "pt-BR": "[Autômata Beta]\nAmbiente da Ecosfera - <FONT COLOR = 006600><B>Pradaria</B></FONT>\nEste local reproduz o ecossistema da região de Pradaria. Ao contrário dos outros habitats, este é mais ameno, mas é justamente nesse tipo de ambiente que os seres vivos crescem ainda mais.",
+        "es-ES": "[Autómata Beta]\nAmbiente de la Ecosfera - <FONT COLOR = 006600><B>Pradera</B></FONT>\nEs un lugar que reproduce el ecosistema de la región Pradera. Quizá parezca un entorno apacible, pero en un lugar tan próspero, el crecimiento de las criaturas no tuvo límites."
+    },
+    "ylvJDQ": {
+        "en-US": "[Admin Beta]\nBiosphere Environment - <FONT COLOR = 660099><B>Death</B></FONT>\nThis area recreates the ecosystem of a region imbued with the energy of Death. Please exercise caution, as many monsters have gained a greater power on the line between life and death.",
+        "pt-BR": "[Autômata Beta]\nAmbiente da Ecosfera - <FONT COLOR = 660099><B>Cemitério</B></FONT>\nEste local reproduz o ecossistema de uma região impregnada pela energia da Morte. Tenha cuidado, pois há muitos monstros que obtiveram um poder ainda maior na fronteira entre a vida e a morte.",
+        "es-ES": "[Autómata Beta]\nAmbiente de la Ecosfera - <FONT COLOR = 660099><B>Cementerio</B></FONT>\nEs un lugar que reproduce el ecosistema de una región impregnada de la energía de la Muerte. Tenga cuidado, pues hay muchos monstruos que obtuvieron su poder más allá de la vida y la muerte."
+    },
+    "y1vJDQ": {
+        "en-US": "[Admin Beta]\nThe visitors of the mansion seem to take a tremendous interest in powerful equipment.",
+        "pt-BR": "[Autômata Beta]\nOs visitantes da mansão parecem demonstrar grande interesse por equipamentos poderosos.",
+        "es-ES": "[Autómata Beta]\nQuien gusta de la aventura muestra un interés por el equipo poderoso."
+    },
+    "zFvJDQ": {
+        "en-US": "[Admin Beta]\nTherefore, we discovered a way to transform the runes and equipment obtained from the Biosphere into powerful equipment unlike anything found elsewhere. Please visit if you are interested.",
+        "pt-BR": "[Autômata Beta]\nPor isso, descobrimos uma maneira de transformar as runas e os equipamentos obtidos na Ecosfera em equipamentos poderosos que não podem ser encontrados em nenhum outro lugar. Caso tenha interesse, recomendo que visite o local.",
+        "es-ES": "[Autómata Beta]\nPor eso descubrimos un método para transformar las runas y equipos obtenidos en la Ecosfera en equipo poderoso que no se puede encontrar en ningún otro lugar. Si le interesa, le recomendamos que vaya a verlo."
+    },
+    "zVvJDQ": {
+        "en-US": "[Admin Beta]\nLarge Bath Meditatio is the largest recreational facility in the Varmunt Mansion. Our master would relieve his accumulated fatigue here at the end of each day.",
+        "pt-BR": "[Autômata Beta]\nA Sauna Meditatio é a maior instalação de descanso da Mansão de Varmunt. O Mestre costumava encerrar o dia nela, para aliviar o cansaço acumulado.",
+        "es-ES": "[Autómata Beta]\nEl Sauna Meditatio es la instalación de descanso más grande de la Mansión Varmunt. El señor solía aliviar ahí el cansancio acumulado para terminar su día."
+    },
+    "zlvJDQ": {
+        "en-US": "[Admin Beta]\nMaster Varmunt took great interest in the various effects of water and herbs. As he gradually expanded the mansion's facilities, Meditatio eventually reached the structure it has today.",
+        "pt-BR": "[Autômata Beta]\nO Mestre Varmunt demonstrava grande interesse pelos diversos efeitos da água e das ervas medicinais. Com a expansão gradual das instalações, Meditatio acabou adquirindo a estrutura que possui atualmente.",
+        "es-ES": "[Autómata Beta]\nEl señor Varmunt mostró gran interés por los diversos efectos del agua y las hierbas medicinales y fue ampliando gradualmente las instalaciones hasta que Meditatio tomó la forma que tiene ahora."
+    },
+    "z1vJDQ": {
+        "en-US": "[Admin Beta]\nMaster Varmunt also made the sauna facilities available to guests staying at the mansion. The guests never ceased to marvel at its considerable size.",
+        "pt-BR": "[Autômata Beta]\nO Mestre Varmunt também disponibilizava as instalações da sauna aos hóspedes da mansão. Eles ficavam maravilhados com a sua extensão considerável.",
+        "es-ES": "[Autómata Beta]\nEl señor Varmunt también ofrecía las instalaciones del sauna a los huéspedes que se alojaban en la mansión. Los huéspedes quedaban muy impresionados las amplias instalaciones."
+    },
+    "0FvJDQ": {
+        "en-US": "[Admin Beta]\nMeditatio contains many baths, each with its own name. A place called the Fountain of Wisdom seems especially famous among the guests.",
+        "pt-BR": "[Autômata Beta]\nMeditatio possui diversos banhos, cada um com seu próprio nome. Entre os hóspedes, o local conhecido como Fonte da Sabedoria parece ser especialmente famoso.",
+        "es-ES": "[Autómata Beta]\nMeditatio cuenta con varios baños que poseen nombres propios. Entre los huéspedes parece que es especialmente famoso el llamado Manantial de la Sabiduría."
+    },
+    "0VvJDQ": {
+        "en-US": "It sounds like a nice place.",
+        "pt-BR": "Parece um ótimo lugar.",
+        "es-ES": "Parece un lugar placentero."
+    },
+    "0lvJDQ": {
+        "en-US": "[Admin Beta]\nHowever, it seems that place has also had some problems lately. Ah, yes. It may be worthwhile for you, an adventurer and expert in this field, to visit it as well.",
+        "pt-BR": "[Autômata Beta]\nPorém, parece que esse local tem enfrentado alguns problemas ultimamente. Ah, sim! Talvez seja uma boa ideia que um especialista como você visite-o.",
+        "es-ES": "[Autómata Beta]\nSin embargo... parece que últimamente allí ha surgido algún problema. Tal vez sea buena idea que usted se tome tiempo de visitarlo."
+    },
+    "01vJDQ": {
+        "en-US": "[Admin Beta]\nVisit the <NAVI>[Scrubby]<INFO>ba_in01,384,38,0,101,0</INFO></NAVI> who manages the place, and he should be able to guide you.",
+        "pt-BR": "[Autômata Beta]\nProcure o <NAVI>[Esfriga]<INFO>ba_in01,384,38,0,101,0</INFO></NAVI> responsável pelo local para receber orientações.",
+        "es-ES": "[Autómata Beta]\nSi busca al <NAVI>[Exfoliador]<INFO>ba_in01,384,38,0,101,0</INFO></NAVI> que gestiona ese lugar, podrá recibir orientación."
+    },
+    "1FvJDQ": {
+        "en-US": "This door is open only to those who are ^0000CDBase Level 230 or higher^000000.",
+        "pt-BR": "Esta porta só está aberta para quem tem ^0000CDNível de base 230 ou superior^000000.",
+        "es-ES": "La puerta solo se abre a quien tenga un ^0000CDNivel Base 230 o superior^000000."
+    }
+}

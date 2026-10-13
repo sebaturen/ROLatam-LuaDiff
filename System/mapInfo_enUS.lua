@@ -454,6 +454,13 @@ mapTbl_string = {
 			mainTitle = "Oz Labyrinth"
 		}
 	},
+	["1@pbs.rsw"] = {
+		displayName = "Baby Shark Playground",
+		signName = {
+			mainTitle = "Baby Shark Playground",
+			subTitle = "Pinkfong Baby Shark"
+		}
+	},
 	["1@pop1.rsw"] = {
 		displayName = "Pope's Office",
 		signName = {
@@ -1132,7 +1139,7 @@ mapTbl_string = {
 		}
 	},
 	["ba_in01.rsw"] = {
-		displayName = "Varmunt Mansion Interior"
+		displayName = "Inside Varmunt Mansion"
 	},
 	["ba_lib.rsw"] = {
 		displayName = "Library Corridor of Memories",
@@ -1250,29 +1257,29 @@ mapTbl_string = {
 	["bl_death.rsw"] = {
 		displayName = "Biosphere Environment - Death",
 		signName = {
-			mainTitle = "Biosphere - Death",
-			subTitle = "Varmund's Biosphere"
+			mainTitle = "Environment - Death",
+			subTitle = "Varmunt's Biosphere"
 		}
 	},
 	["bl_grass.rsw"] = {
 		displayName = "Biosphere Environment - Grass",
 		signName = {
-			mainTitle = "Biosphere - Grass",
-			subTitle = "Varmund's Biosphere"
+			mainTitle = "Environment - Grass",
+			subTitle = "Varmunt's Biosphere"
 		}
 	},
 	["bl_ice.rsw"] = {
 		displayName = "Biosphere Environment - Ice",
 		signName = {
-			mainTitle = "Biosphere - Ice",
-			subTitle = "Varmund's Biosphere"
+			mainTitle = "Environment - Ice",
+			subTitle = "Varmunt's Biosphere"
 		}
 	},
 	["bl_lava.rsw"] = {
 		displayName = "Biosphere Environment - Fire",
 		signName = {
-			mainTitle = "Biosphere - Fire",
-			subTitle = "Varmund's Biosphere"
+			mainTitle = "Environment - Fire",
+			subTitle = "Varmunt's Biosphere"
 		}
 	},
 	["bossnia_01.rsw"] = {
@@ -1490,13 +1497,15 @@ mapTbl_string = {
 	["dew_dun01.rsw"] = {
 		displayName = "Krakatau Volcanic Island",
 		signName = {
-			mainTitle = "Krakatau Volcanic Island"
+			mainTitle = "Krakatau Volcanic Island",
+			subTitle = "Dewata"
 		}
 	},
 	["dew_dun02.rsw"] = {
 		displayName = "Istana Cave",
 		signName = {
-			mainTitle = "Istana Cave"
+			mainTitle = "Istana Cave",
+			subTitle = "Dewata"
 		}
 	},
 	["dew_fild01.rsw"] = {
@@ -3156,45 +3165,46 @@ mapTbl_string = {
 		signName = {mainTitle = "Jeepney"}
 	},
 	["mag_dun01.rsw"] = {
-		displayName = "Juno Norgroad Floor 1",
+		displayName = "Juno Noggroad Floor 1",
 		signName = {
-			mainTitle = "Juno Norgroad Floor 1"
+			mainTitle = "Juno Noggroad Floor 1"
 		}
 	},
 	["mag_dun01a.rsw"] = {
-		displayName = "Juno Norgroad Floor 1",
+		displayName = "Juno Noggroad Floor 1",
 		signName = {
-			mainTitle = "Juno Norgroad Floor 1"
+			mainTitle = "Juno Noggroad Floor 1"
 		}
 	},
 	["mag_dun01b.rsw"] = {
-		displayName = "Juno Norgroad Floor 1",
+		displayName = "Juno Noggroad Floor 1",
 		signName = {
-			mainTitle = "Juno Norgroad Floor 1"
+			mainTitle = "Juno Noggroad Floor 1"
 		}
 	},
 	["mag_dun02.rsw"] = {
-		displayName = "Juno Norgroad Floor 2",
+		displayName = "Juno Noggroad Floor 2",
 		signName = {
-			mainTitle = "Juno Norgroad Floor 2"
+			mainTitle = "Juno Noggroad Floor 2"
 		}
 	},
 	["mag_dun02a.rsw"] = {
-		displayName = "Juno Norgroad Floor 2",
+		displayName = "Juno Noggroad Floor 2",
 		signName = {
-			mainTitle = "Juno Norgroad Floor 2"
+			mainTitle = "Juno Noggroad Floor 2"
 		}
 	},
 	["mag_dun02b.rsw"] = {
-		displayName = "Juno Norgroad Floor 2",
+		displayName = "Juno Noggroad Floor 2",
 		signName = {
-			mainTitle = "Juno Norgroad Floor 2"
+			mainTitle = "Juno Noggroad Floor 2"
 		}
 	},
 	["mag_dun03.rsw"] = {
-		displayName = "Juno Norgroad Floor 3",
+		displayName = "Juno Noggroad Floor 3",
 		signName = {
-			mainTitle = "Norgroad Floor 3"
+			mainTitle = "Juno Noggroad Floor 3",
+			subTitle = "Juno Noggroad Floor 3"
 		}
 	},
 	["mal_dun01.rsw"] = {
@@ -3763,26 +3773,26 @@ mapTbl_string = {
 		}
 	},
 	["nif_fild01.rsw"] = {
-		displayName = "Skelington, the far village of Niflhiem",
+		displayName = "Skelington, the far village of Niflheim",
 		signName = {
 			mainTitle = "Far village Skelington",
-			subTitle = "Niflhiem"
+			subTitle = "Niflheim"
 		}
 	},
 	["nif_fild02.rsw"] = {
-		displayName = "Valley of Gyoll in Niflhiem",
+		displayName = "Valley of Gyoll in Niflheim",
 		signName = {
 			mainTitle = "Valley of Gyoll",
-			subTitle = "Niflhiem"
+			subTitle = "Niflheim"
 		}
 	},
 	["nif_in.rsw"] = {
-		displayName = "Inside Niflhiem"
+		displayName = "Inside Niflheim"
 	},
 	["niflheim.rsw"] = {
-		displayName = "Niflhiem, the Realm of the Dead",
+		displayName = "Niflheim, the Realm of the Dead",
 		signName = {
-			mainTitle = "Niflhiem",
+			mainTitle = "Niflheim",
 			subTitle = "Realm of the Dead"
 		}
 	},
@@ -4117,6 +4127,13 @@ mapTbl_string = {
 	},
 	["payon_in03.rsw"] = {
 		displayName = "Inside Payon"
+	},
+	["pbse.rsw"] = {
+		displayName = "Baby Shark Playground",
+		signName = {
+			mainTitle = "Baby Shark Playground",
+			subTitle = "Pinkfong Baby Shark"
+		}
 	},
 	["poring_w01.rsw"] = {
 		displayName = "Poring War Waiting Room",

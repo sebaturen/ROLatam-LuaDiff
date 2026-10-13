@@ -1,72 +1,72 @@
 {
     "YOyIDA": {
         "en-US": "Historian",
-        "pt-BR": "Historiador",
+        "pt-BR": "Historiadora",
         "es-ES": "Historiadora"
     },
     "YeyIDA": {
-        "en-US": "Troubadour",
-        "pt-BR": "Trovador",
-        "es-ES": "Trovador"
-    },
-    "YuyIDA": {
         "en-US": "Wanderer",
         "pt-BR": "Musa",
         "es-ES": "Nómada"
     },
+    "YuyIDA": {
+        "en-US": "Troubadour",
+        "pt-BR": "Trovador",
+        "es-ES": "Trovador"
+    },
     "Y+yIDA": {
         "en-US": "[Historian]\nWell, what to do—if I call someone now... I can't just call anyone because it's urgent. Somehow, even if it's just one person...",
-        "pt-BR": "[Historiador]\nUfa, o que fazer... Se eu ligasse agora pra chamar alguém... Não dá pra chamar qualquer um só porque tá urgente. De alguma forma, pelo menos uma pessoa...",
+        "pt-BR": "[Historiadora]\nAi, o que fazer...? Não dá pra chamar qualquer um só porque é urgente. De alguma forma, pelo menos alguém...",
         "es-ES": "[Historiadora]\nUf, ¿qué hago? \nSi llamo ahora mismo... \nNo puedo llamar a cualquiera porque sea urgente. \nDe alguna manera, aunque sea a uno solo..."
     },
     "ZOyIDA": {
         "en-US": "[Historian]\nWhere'd they come from?! No skilled person dropped in... Wait! There wasn't one... but there was!!!",
-        "pt-BR": "[Historiador]\nSerá que não aparece um especialista de repente...! Não tinha, ah mas tinha!!!",
+        "pt-BR": "[Historiadora]\nSerá se não aparece um especialista de repente...?! Não tinha, ah mas tinha!!!",
         "es-ES": "[Historiadora]\n¿No aparecerá por algún lado un experto de repente...? \n¡No había ninguno, pero sí había uno!!!"
     },
     "ZeyIDA": {
         "en-US": "[Historian]\nHey, {0}! Look at me! How did you get all the way here?",
-        "pt-BR": "[Historiador]\nEi, {0}! Olha pra mim! Como você chegou até aqui?",
+        "pt-BR": "[Historiadora]\nEi, {0}! Vem cá! Como você chegou até aqui?",
         "es-ES": "[Historiadora]\n¡Oye, {0}! \n¡Mírame! \n¿Cómo llegaste hasta aquí?"
     },
     "ZuyIDA": {
         "en-US": "To see the new performance hall.",
-        "pt-BR": "Vim dar uma olhada no novo palco.",
+        "pt-BR": "Ouvi uns rumores...",
         "es-ES": "Vine a ver el nuevo teatro."
     },
     "Z+yIDA": {
         "en-US": "[Historian]\nOh, so you heard the rumors and came. If it had been a coincidence, it really would have been fate. Ah, my name is Heren. I'm a folklore historian. I'm not a suspicious person. Stop standing there like that and come inside first.",
-        "pt-BR": "[Historiador]\nAh, você veio por causa dos rumores, né? Se fosse por acaso, teria sido mesmo o destino. Ah, meu nome é Heren. Sou historiador folclórico. Não sou ninguém suspeito. Não fique aí parado, vamos entrar primeiro.",
+        "pt-BR": "[Historiadora]\nAh, você veio por causa dos rumores, né? Ah, meu nome é Hellen. Sou historiadora folclórica. Vamos sair daqui e ir para um lugar especial.",
         "es-ES": "[Historiadora]\nAy, así que viniste por los rumores. \nSi hubiera sido una coincidencia, habría sido realmente el destino. \nAh, me llamo Heren. \nSoy historiador folclórico. \nNo soy una persona sospechosa. \nNo te quedes ahí así, mejor entramos primero."
     },
     "aOyIDA": {
         "en-US": "Uh, where?",
-        "pt-BR": "Ah, para onde?",
+        "pt-BR": "E vamos para onde?",
         "es-ES": "Eh, ¿adónde?"
     },
     "aeyIDA": {
         "en-US": "[Historian]\nYou came to see the performance, right? It's dangerous up here, so let's go down to the basement first.",
-        "pt-BR": "[Historiador]\nVocê veio ver a sala de espetáculos, não é? Aqui é perigoso, então vamos descer para o subsolo primeiro.",
+        "pt-BR": "[Historiadora]\nVocê veio ver a Fonte de Kvasir, não é? Aqui é perigoso, então vamos descer para o subsolo primeiro.",
         "es-ES": "[Historiadora]\nHas venido a ver el teatro, ¿no? \nEsto es peligroso, así que primero bajemos al sótano."
     },
     "auyIDA": {
         "en-US": "[Historian]\nYou gathered everyone quickly. Hurry inside. It's urgent.",
-        "pt-BR": "[Historiador]\nVocê reuniu todo mundo rapidinho, hein? Vamos entrar logo. É urgente.",
+        "pt-BR": "[Historiadora]\nVocê reuniu tudo rapidinho, hein? Vamos entrar logo. É urgente.",
         "es-ES": "[Historiadora]\nYa reuniste a todos en poco tiempo. \nEntra rápido. \nEs urgente."
     },
     "a+yIDA": {
         "en-US": "[Historian]\nWe're composing a song for the hero who stopped the world's decay. Kvasir's Vessel will likely be unveiled after its refurbishment.",
-        "pt-BR": "[Historiadora]\nEstou compondo uma canção para o herói que impediu a deterioração do mundo. A Embarcação de Kvasir deve ser restaurada e depois exibida ao público.",
+        "pt-BR": "[Historiadora]\nEstou compondo uma canção para o herói que impediu a deterioração do mundo. A Fonte de Kvasir deve ser restaurada e depois exibida ao público.",
         "es-ES": "[Historiadora]\nEstoy componiendo una canción para el héroe que detuvo la descomposición del mundo. \nCreo que el arca de Kvasir se va a renovar y luego se va a exhibir al público."
     },
     "bOyIDA": {
         "en-US": "[Historian]\nFinished your work? Then let's head down to the underground.",
-        "pt-BR": "[Historiador]\nJá terminou tudo? Então vamos para o subsolo.",
+        "pt-BR": "[Historiadora]\nJá terminou tudo? Então vamos para o subsolo.",
         "es-ES": "[Historiadora]\n¿Ya terminaste todo? \nEntonces bajemos al subsuelo."
     },
     "beyIDA": {
         "en-US": "[Historian]\nWell, what should I do—if I contact them now and ask them to come...",
-        "pt-BR": "[Historiador]\nUfa, o que fazer... Se eu ligasse pra ele agora...",
+        "pt-BR": "[Historiadora]\nAi, o que fazer...? Não dá pra chamar qualquer um só porque é urgente.",
         "es-ES": "[Historiadora]\nUf, qué lío... \nSi lo llamo ahora mismo..."
     },
     "buyIDA": {
@@ -81,27 +81,27 @@
     },
     "cOyIDA": {
         "en-US": "[Worker]\nEven if we wanted to do something, our job isn't performers—we're the ones building the venue. There's nothing we can do about it.",
-        "pt-BR": "[Trabalhador]\nPor mais que a gente queira fazer alguma coisa, nós não somos artistas. Estamos apenas construindo o palco.. não dá pra fazer nada, né?",
+        "pt-BR": "[Ajudante]\nPor mais que a gente queira fazer alguma coisa, nós não somos artistas. Estamos apenas construindo o palco... não dá pra fazer nada!",
         "es-ES": "[Obrero]\nAunque quisiera hacer algo, como nuestro trabajo no es ser artistas, sino construir el teatro, no hay nada que podamos hacer."
     },
     "ceyIDA": {
         "en-US": "[Worker]\nEven if I start practicing now with the goal of becoming a Wonderer, is that okay?",
-        "pt-BR": "[Trabalhador]\nE se eu começar a treinar agora com o objetivo de me tornar uma Musa, daria certo?",
+        "pt-BR": "[Ajudante]\nE se eu começar a treinar agora com o objetivo de me tornar uma Musa, daria certo?",
         "es-ES": "[Obrero]\n¿Podría empezar a practicar para convertirme en una Nómada a partir de ahora, o qué?"
     },
     "cuyIDA": {
         "en-US": "[Worker]\nWe can just fill in the collapsed areas first and restart, right?",
-        "pt-BR": "[Trabalhador]\nPodemos pelo menos tapar o que desabou e recomeçar, não é?",
+        "pt-BR": "[Ajudante]\nPodemos pelo menos tapar o que desabou e recomeçar, não é?",
         "es-ES": "[Obrero]\nPrimero podríamos rellenar las partes que se derrumbaron y volver a empezar, ¿no?"
     },
     "c+yIDA": {
         "en-US": "[Historian]\nI knew this would happen. That won't do. I told you that if we don't fill that gap, the collapse of the theater won't even be the main concern. The world will collapse.",
-        "pt-BR": "[Historiador]\nEu sabia que ia ser assim. Assim não dá. Eu disse que se não preencherem ali, o colapso do teatro nem vai parecer nada. O mundo vai desabar, eu disse.",
+        "pt-BR": "[Historiadora]\nEu sabia que ia ser assim. Assim não dá. Eu disse que se não preencherem ali, o colapso não vai aparecer. O mundo vai desabar, eu disse.",
         "es-ES": "[Historiadora]\nMe lo imaginaba, yo. \nEso no puede ser. \nYa te dije que si no rellenamos eso, el derrumbe del teatro no será nada comparado con lo que vendrá. \nDije que el mundo se derrumbará."
     },
     "dOyIDA": {
         "en-US": "[Director]\n{0}? Who is that person behind you? Today's fortune said a noble person with a bright, shining aura would appear—could this be the precious person who will help us?",
-        "pt-BR": "[Diretor]\n{0}? Quem é aquela pessoa aí atrás? Diziam que hoje apareceria uma pessoa importante cuja sorte brilharia intensamente. Será que é essa pessoa preciosa que vai nos ajudar?",
+        "pt-BR": "[Diretor]\n{0}? Quem é aquela pessoa aí atrás? Diziam que hoje apareceria uma pessoa importante. Será que é essa pessoa preciosa que vai nos ajudar?",
         "es-ES": "[Director]\n¿{0}? \n¿Quién es esa persona que está ahí atrás? \nDecían que hoy aparecería un benefactor con una suerte brillante, ¿es esa persona tan valiosa la que nos va a ayudar?"
     },
     "deyIDA": {
@@ -111,7 +111,7 @@
     },
     "duyIDA": {
         "en-US": "[Historian]\nAh, you said you came to see the performance? As you can see, this is the situation. That's why we need the adventurer's help.",
-        "pt-BR": "[Historiador]\nAh, você disse que veio ver o teatro, não é? Como você pode ver, a situação está assim. Por isso, precisamos da sua ajuda.",
+        "pt-BR": "[Historiadora]\nAh, você disse que veio ver o lugar, não é? Como você pode ver, a situação está assim. Por isso, precisamos da sua ajuda.",
         "es-ES": "[Historiadora]\nAh, ¿dijiste que venías a ver el teatro? \nComo ves, la situación es esta. \nPor eso necesitamos un poco de ayuda de tu parte, trotamundos."
     },
     "d+yIDA": {
@@ -121,42 +121,42 @@
     },
     "eOyIDA": {
         "en-US": "[Historian]\nYou're flustered, aren't you? But the only one who can resolve this is you, the skilled artist adventurer. Please help us.",
-        "pt-BR": "[Historiador]\nVocê deve estar surpreso, não é? Mas o único que pode resolver isso é você, um artista experiente. Por favor, nos ajude.",
+        "pt-BR": "[Historiadora]\nVocê deve estar em choque, não é? Mas só você que pode resolver isso, alguém experiente nas artes. Por favor, nos ajude.",
         "es-ES": "[Historiadora]\n¿Te sientes desconcertado?\nPero el único que puede resolver esto es un artista experto como tú, aventurero. \nAyúdanos, por favor."
     },
     "eeyIDA": {
         "en-US": "[Director]\nI'll explain. This place was originally where ^0000CDOdin's rituals^000000 were offered. Naturally, exceptional artists passed through to make the offerings. I drew inspiration from those records.",
-        "pt-BR": "[Diretor]\nVou te explicar isso. Este lugar era originalmente onde se realizavam ^0000CDrituais em homenagem a Odin. É claro que artistas excepcionais passaram por aqui. Eu me inspirei nesses registros.",
+        "pt-BR": "[Diretor]\nVou te explicar. Este lugar era originalmente onde se realizavam ^0000CDrituais em homenagem a Odin^000000. É claro que artistas excepcionais passaram por aqui. Eu me inspirei nesses registros.",
         "es-ES": "[Director]\nYo te lo explicaré. \nEste lugar era originalmente donde se realizaban los rituales para ^0000CDOdín. \nPor supuesto, por aquí pasaron artistas excepcionales. \nMe inspiré en esos registros."
     },
     "euyIDA": {
         "en-US": "[Director]\nWe decided to build a ^0000CDperformance hall here, one capable of staging shows that bridge ancient and modern times, making even the flow of time itself forgotten. Naturally, we planned to put the finest artists worthy of such a stage upon it.",
-        "pt-BR": "[Diretor]\nDecidi construir aqui um ^0000CDpalco capaz de realizar espetáculos que unissem a antigo e moderno, a ponto de fazer esquecer até mesmo o passar dos tempos. É claro que eu planejava colocar no palco os melhores artistas, à altura desse projeto.",
+        "pt-BR": "[Diretor]\nDecidi construir aqui um ^0000CDpalco capaz de realizar espetáculos que unissem o que há de novo e velho^000000, a ponto de fazer esquecer até mesmo o passar dos tempos. É claro que eu planejava colocar no palco os melhores artistas, à altura desse projeto.",
         "es-ES": "[Director]\nDecidimos construir aquí un ^0000CDteatro capaz de unir la antigüedad con la modernidad y hacer que el público se olvide del paso del tiempo. \nPor supuesto, teníamos previsto llevar al escenario a los mejores artistas, a la altura de este lugar."
     },
     "e+yIDA": {
         "en-US": "[Director]\nBut the moment we broke ground to build the performance hall, the ground collapsed, revealing this place. Is this the... Grrrumm Fleet?",
-        "pt-BR": "[Diretor]\nMas, assim que demos a primeira cavada para construir o teatro, o solo desabou e este lugar apareceu. Aqui é a... a Frota Grrrumm?",
+        "pt-BR": "[Diretor]\nMas, assim que demos a primeira cavada para construir o teatro, o solo desabou e este lugar apareceu. Aqui é a... a Fonte de Krvrs!",
         "es-ES": "[Director]\nPero justo cuando dimos la primera palada para construir el teatro, el suelo se derrumbó y apareció este lugar. \n¿Aquí está la... ¿Flota Gruñona?"
     },
     "fOyIDA": {
         "en-US": "Grr? Fleet?",
-        "pt-BR": "Grum? Frota?",
+        "pt-BR": "Fonte do quê?",
         "es-ES": "¿Krung? ¿Flota?"
     },
     "feyIDA": {
         "en-US": "[Historian]\n^0000CD<Kvashir's Vessel>^000000. They say this place held the songs of the gods, sustaining the heart of the world. The ritual in the records was for that purpose.",
-        "pt-BR": "[Historiador]\nÉ a ^0000CD<Embarcação de Kvasir}^000000. Dizem que aqui estavam guardadas as canções dos deuses, que sustentavam o coração do mundo. O ritual registrado nos anais era para isso mesmo.",
+        "pt-BR": "[Historiadora]\nÉ a ^0000CD<Fonte de Kvasir>^000000. Dizem que aqui estavam guardadas as canções dos deuses, que sustentavam o coração do mundo. O ritual registrado era para isso mesmo.",
         "es-ES": "[Historiadora]\nEs el ^0000CD<Barco de Kvasir>^000000. \nDicen que aquí se guardaban los cantos de los dioses que sostenían el corazón del mundo. \nEl ritual que aparece en los registros era para eso."
     },
     "fuyIDA": {
         "en-US": "[Historian]\nIt seems it was designated a sanctuary and access was forbidden, but given the state of Odin's temple now... likely no one knew about it, and proper records weren't kept either.",
-        "pt-BR": "[Historiador]\nParece que foi designado como santuário e o acesso era proibido, mas como o Templo de Odin também está nessa situação... Provavelmente ninguém sabia disso e não restaram registros adequados.",
+        "pt-BR": "[Historiadora]\nParece que foi designado como santuário e o acesso era proibido, mas como o Templo de Odin também está nessa situação... Provavelmente ninguém sabia disso e não restaram registros adequados.",
         "es-ES": "[Historiadora]\nParece que estaba designado como lugar sagrado y se prohibía el acceso, pero viendo cómo está ahora el templo de Odín... \nProbablemente nadie lo sabía y tampoco quedaron registros adecuados."
     },
     "f+yIDA": {
         "en-US": "[Historian]\nThat's why they stepped forward to build a performance hall and start construction...",
-        "pt-BR": "[Historiador]\nPor isso é que se propuseram a construir um teatro e a iniciar as obras...",
+        "pt-BR": "[Historiadora]\nPor isso é que se propuseram a construir um teatro e a iniciar as obras...",
         "es-ES": "[Historiadora]\nPor eso se lanzaron a construir un teatro y a hacer obras..."
     },
     "gOyIDA": {
@@ -166,27 +166,27 @@
     },
     "geyIDA": {
         "en-US": "[Historian]\nAs I mentioned earlier, this place holds the heart of the world. This very tree. It's like the heart of a person.",
-        "pt-BR": "[Historiador]\nComo mencionei há pouco, este lugar sustenta o coração do mundo. É exatamente esta árvore. É como o coração de uma pessoa.",
+        "pt-BR": "[Historiadora]\nComo mencionei há pouco, este lugar sustenta o coração do mundo. É exatamente esta árvore. É como o coração de uma pessoa.",
         "es-ES": "[Historiadora]\nComo te dije antes, este es el lugar que sostiene el corazón del mundo. \nEste árbol, precisamente. \nEs como el corazón de una persona."
     },
     "guyIDA": {
         "en-US": "[Historian]\nBut due to the construction, the guardian stones in the underground space were destroyed, and the Song of the Gods escaped through the cracks. That's why this tree is losing its life.",
-        "pt-BR": "[Historiador]\nMas, por causa da obra, a pedra guardiã que ficava no espaço subterrâneo foi destruída e, por essa brecha, todas as canções dos deuses escaparam. Por isso, essa árvore está perdendo a vida.",
+        "pt-BR": "[Historiadora]\nMas, por causa da obra, a pedra guardiã que ficava no espaço subterrâneo foi destruída e, por essa brecha, todas as canções dos deuses sumiram. Por isso, essa árvore está perdendo a vida.",
         "es-ES": "[Historiadora]\nPero, por las obras, la piedra protectora que estaba en el espacio subterráneo se rompió y, por esa grieta, se escaparon todos los cantos de los dioses. \nPor eso, este árbol está perdiendo la vida."
     },
     "g+yIDA": {
         "en-US": "[Historian]\nIt shouldn't be crumbling this easily under normal circumstances. Perhaps it's due to the passage of time. Being forgotten meant regular offerings weren't made, which likely weakened its power considerably.",
-        "pt-BR": "[Historiador]\nNormalmente, ele não deveria desmoronar tão facilmente assim. Provavelmente, isso aconteceu por causa do tempo que passou. E também porque, por ter sido esquecido, não recebemos oferendas regularmente, o que enfraqueceu bastante sua força.",
+        "pt-BR": "[Historiadora]\nNormalmente, não deveria desmoronar tão facilmente assim. Provavelmente, isso aconteceu por causa do tempo que passou. E também porque, por ter sido esquecido, não recebemos oferendas regularmente, o que enfraqueceu bastante sua força.",
         "es-ES": "[Historiadora]\nEn condiciones normales, no debería derrumbarse tan fácilmente. \nProbablemente sea por el paso de los años. \nY como se ha olvidado, ya no se le ofrecen sacrificios regularmente, así que su poder se ha debilitado mucho."
     },
     "hOyIDA": {
         "en-US": "[Historian]\nAnyway! Unless we restore the protective tree to its original state by filling it with the songs, only emptiness will remain in this world. Everything will corrode and be destroyed.",
-        "pt-BR": "[Historiador]\nDe qualquer forma! Se não encher a árvore de canções e restaurá-la ao seu estado original, só restará o vazio neste mundo. Tudo vai se corroer e ser destruído.",
+        "pt-BR": "[Historiadora]\nDe qualquer forma! Se não encher a árvore de canções e restaurá-la ao seu estado original, só restará ecos de um mundo vazio. Tudo vai se corroer e ser destruído.",
         "es-ES": "[Historiadora]\n¡En fin!\n Si no llenamos el árbol con canciones para devolverlo a su estado original, en este mundo solo quedará el vacío. \nTodo se corroerá y se destruirá."
     },
     "heyIDA": {
         "en-US": "You need my help...?",
-        "pt-BR": "Precisas da minha ajuda...?",
+        "pt-BR": "Precisa da minha ajuda...?",
         "es-ES": "¿Necesitas mi ayuda...?"
     },
     "huyIDA": {
@@ -196,32 +196,32 @@
     },
     "h+yIDA": {
         "en-US": "[Historian]\nOf course. We common folk couldn't possibly feel that song anyway. Fortunately, this world has tremendous artists who follow such things, right? That's exactly what {0} are.",
-        "pt-BR": "[Historiador]\nClaro. Afinal, nós, uns ignorantes, nem conseguimos sentir essa tal canção. Felizmente, neste mundo existem artistas incríveis que enxergam essas coisas, não é? São você, {0}.",
+        "pt-BR": "[Historiadora]\nClaro. Afinal, nós, uns ignorantes, nem conseguimos sentir essa tal canção. Felizmente, neste mundo existem artistas incríveis que enxergam essas coisas, não é? São artistas como você, {0}.",
         "es-ES": "[Historiadora]\nEs lógico. \nA los ignorantes como nosotros ni siquiera nos llega esa canción. \nPor suerte, en este mundo hay artistas increíbles que siguen esas cosas, ¿no? \nJusto los {0}."
     },
     "iOyIDA": {
         "en-US": "[Historian]\nThat's why I'm seeking your help. But I'm not asking just anyone. This is a heartfelt plea to you, the adventurer renowned as the greatest artist across the entire continent.",
-        "pt-BR": "[Historiador]\nÉ por isso que estou pedindo ajuda. Mas não estou pedindo a qualquer um. É um pedido sincero ao aventureiro, o melhor artista cujo nome ressoa por todo o continente.",
+        "pt-BR": "[Historiadora]\nÉ por isso que estou pedindo ajuda. Mas não estou pedindo a qualquer um. É um pedido sincero à você, seu nome ressoa por todo o continente.",
         "es-ES": "[Historiadora]\nPor eso quiero pedirte ayuda. \nPero no se la pido a cualquiera. \nEs una petición sincera dirigida a ti, el trotamundos, el mejor artista cuyo nombre resuena por todo el continente."
     },
     "ieyIDA": {
         "en-US": "Just me?",
-        "pt-BR": "Só eu?",
+        "pt-BR": "Somente eu?",
         "es-ES": "¿Estoy solo?"
     },
     "iuyIDA": {
         "en-US": "[Historian]\nAlone? Your companion is here. That person over there.",
-        "pt-BR": "[Historiador]\nSozinho? Seu colega já chegou. Aquele aí, do outro lado.",
+        "pt-BR": "[Historiadora]\nSomente? Não! Chamamos mais uma pessoa para compor um dueto.",
         "es-ES": "[Historiadora]\n¿Que si estoy solo? \nTu compañero ya llegó. \nMira, el que está allá."
     },
     "i+yIDA": {
         "en-US": "[Citizen]\nHey~ I heard about this place. They say it's a real hotspot? But are we dying? Guess I should buy that book with the 100 things to do before you die?",
-        "pt-BR": "[Cidadão]\nOi~ Ouvi os boatos e vim até aqui. Dizem que esse lugar é bem famoso, né? Mas a gente vai morrer? Acho que devia ter comprado aquele livro com as 100 coisas que preciso fazer antes de morrer...",
+        "pt-BR": "[Artista]\nOi~ Ouvi os boatos e vim até aqui. Dizem que esse lugar é bem famoso, né? Mas a gente vai morrer? Se sim, eu trouxe uns Amuletos...",
         "es-ES": "[Persona común]\nHola~ \nVine porque oí los rumores. ¿Dicen que este es un restaurante tan bueno? \nPero, ¿vamos a morir?\n¿Debería comprar ese libro que tiene las 100 cosas que hay que hacer antes de morir?"
     },
     "jOyIDA": {
         "en-US": "This body makes an entrance..",
-        "pt-BR": "Aqui estou eu..",
+        "pt-BR": "Estou aqui~!!",
         "es-ES": "¡Aquí estoy~"
     },
     "jeyIDA": {
@@ -231,22 +231,22 @@
     },
     "juyIDA": {
         "en-US": "[Historian]\nSave the introductions for later. This task required as many people as possible, so it's truly fortunate another person has arrived.",
-        "pt-BR": "[Historiador]\nDeixa a apresentação pra depois. Era um trabalho que precisava de bastante gente, então é uma sorte ter mais uma pessoa aqui.",
+        "pt-BR": "[Historiadora]\nDeixe a apresentação pra depois. Era um trabalho que precisava de bastante gente, então é uma sorte ter mais uma pessoa aqui.",
         "es-ES": "[Historiadora]\nYa te presentarás más tarde. \nEra un trabajo que necesitaba mucha gente, así que es una suerte que haya venido alguien más."
     },
     "j+yIDA": {
         "en-US": "[Historian]\nThough your classes differ, both of you share an inseparable connection through music—one that unites you through performance and dance. This common ground should make collaboration even smoother.",
-        "pt-BR": "[Historiador]\nVocês dois, embora tenham profissões diferentes, têm a música como grande ponto em comum, sendo a música o elo entre a música e a dança, e essa relação é inseparável; por isso, a cooperação deve fluir melhor.",
+        "pt-BR": "[Historiadora]\nVocês dois, embora tenham profissões diferentes, têm a música como grande ponto em comum, sendo a música o elo entre a música e a dança, e essa relação é inseparável; por isso, a cooperação deve fluir melhor.",
         "es-ES": "[Historiadora]\nUstedes dos, aunque tienen profesiones diferentes, tienen una relación inseparable bajo el gran punto en común de la música, con la interpretación y la danza como medios, así que la colaboración será aún mejor."
     },
     "kOyIDA": {
         "en-US": "[Historian]\nTime is short, so I'll explain right away. Everyone, please listen carefully. Before that, if you have urgent business that requires going outside, please inform the leader.",
-        "pt-BR": "[Historiador]\nComo o tempo é curto, vou explicar logo. Prestem atenção, por favor. Antes disso, se alguém lembrar de algo urgente e precisar sair, avise o diretor.",
+        "pt-BR": "[Historiadora]\nComo o tempo é curto, vou explicar logo. Prestem atenção, por favor. Antes disso, se alguém lembrar de algo urgente e precisar sair, avise o diretor.",
         "es-ES": "[Historiadora]\nComo tenemos prisa, te lo voy a explicar ya. Escuchen todos con atención. \nAntes de eso, si se te ocurre algo urgente y tienes que salir, avísale al director."
     },
     "keyIDA": {
         "en-US": "[Director]\nDidn't we agree to discuss this in detail with Heren? Or did something urgent come up? Well then, are you leaving?",
-        "pt-BR": "[Diretor]\nNão tínhamos combinado de conversar detalhadamente com Heren? Ou foi que te lembraste de um assunto urgente? Então, vais sair?",
+        "pt-BR": "[Diretor]\nNão tínhamos combinado de conversar detalhadamente com Hellen? Precisa mesmo sair?",
         "es-ES": "[Director]\n¿No habíamos acordado que Heren y tú iban a hablar en detalle? \n¿O es que se te ha ocurrido algo urgente? \nBueno, ¿vas a salir?"
     },
     "kuyIDA": {
@@ -291,12 +291,12 @@
     },
     "muyIDA": {
         "en-US": "[Historian]\nWhat is the Director saying? Is what I'm hearing real?",
-        "pt-BR": "[Historiador]\nO que o Diretor está dizendo? O que estou ouvindo agora é verdade?",
+        "pt-BR": "[Historiadora]\nO que o Diretor está dizendo? O que estou ouvindo agora é verdade?",
         "es-ES": "[Historiadora]\n¿Qué estás diciendo, jefe? \n¿Es verdad lo que estoy escuchando?"
     },
     "m+yIDA": {
         "en-US": "[Historian]\nNow, both of you. Listen carefully.",
-        "pt-BR": "[Historiador]\nBom, vocês dois. Ouçam com atenção.",
+        "pt-BR": "[Historiadora]\nBom, vocês dois. Ouçam com atenção.",
         "es-ES": "[Historiadora]\nBueno, ustedes dos. \nEscuchen bien."
     },
     "nOyIDA": {
@@ -306,72 +306,72 @@
     },
     "neyIDA": {
         "en-US": "[Historian]\nThere are twelve ^0000CD ^000000Guardian Stones that preserve the power of the Guardian. We must rebuild the destroyed Guardian Stones to restore this place to its former completeness.",
-        "pt-BR": "[Historiador]\nAs ^0000CDpedras guardiãs que preservam o poder dos guardiões são, no total, 12^000000. Este lugar será restaurado apenas se reconstruirmos as pedras guardiãs que foram destruídas.",
+        "pt-BR": "[Historiadora]\nExistem ^0000CD12 Pedras Guardiãs que preservam o poder da Fonte^000000. Este lugar será restaurado apenas se reconstruirmos as Pedras que foram destruídas.",
         "es-ES": "[Historiadora]\nHay un total de 12 ^0000CD Piedras Guardianas que preservan el poder de los árboles guardianes. \nPara que este lugar vuelva a estar completo, hay que volver a erigir las piedras guardianas que se han destruido."
     },
     "nuyIDA": {
         "en-US": "[Historian]\nThen how do we rebuild the destroyed Guardian Stones? They weren't crafted separately. They're crystallizations of the inspiration and emotion artists receive. By filling the empty spaces with those fragments, the Guardian Stones will be restored.",
-        "pt-BR": "[Historiador]\nEntão, como reconstruir as Pedras Guardiãs destruídas? As Pedras Guardiãs não são feitas separadamente. Elas são formadas pela cristalização da emoção e da inspiração que os artistas recebem. Se colocarmos esses fragmentos de volta nos lugares vazios, as Pedras Guardiãs serão restauradas.",
+        "pt-BR": "[Historiadora]\nEntão, como reconstruir as Pedras Guardiãs destruídas? As Pedras Guardiãs não são feitas separadamente. Elas são formadas pela cristalização da Emoção e da Inspiração que os artistas recebem. Se colocarmos esses fragmentos de volta nos lugares vazios, as Pedras Guardiãs serão restauradas.",
         "es-ES": "[Historiadora]\nEntonces, ¿cómo se reconstruyen las piedras guardianas destruidas? \nLas piedras guardianas no se fabrican por separado. \nEstán formadas por la cristalización de la emoción y la inspiración que reciben los artistas.\nSi vuelves a colocar esos fragmentos en los huecos, las piedras guardianas se restaurarán."
     },
     "n+yIDA": {
         "en-US": "[Citizen]\nIs there evidence for that? How do you know so well? Are you the designer?",
-        "pt-BR": "[Cidadão]\nTem alguma base pra isso? Como você sabe disso tão bem? Você é o projetista?",
+        "pt-BR": "[Artista]\nTem alguma base pra isso? Como você sabe disso tão bem?",
         "es-ES": "[Persona común]\n¿Tienes alguna prueba? \n¿Cómo es que sabes tanto? \n¿Eres el diseñador?"
     },
     "oOyIDA": {
         "en-US": "[Historian]\nAfter the Guardian Stone was destroyed, I examined this place for restoration. See those images carved into that wall? They aren't mere decorations; they all hold meaning. You could say they're a manual.",
-        "pt-BR": "[Historiador]\nDepois que as Pedras Guardiãs foram destruídas, examinei este lugar para a restauração. Vês as imagens gravadas naquela parede? Descobri que aquelas imagens não são apenas decoração, mas têm um significado. É como se fosse um manual.",
+        "pt-BR": "[Historiadora]\nDepois que as Pedras Guardiãs foram destruídas, examinei este lugar para a restauração. Vês as imagens gravadas naquela parede? Descobri que aquelas imagens não são apenas decoração, mas têm um significado. É como se fosse um manual.",
         "es-ES": "[Historiadora]\nDespués de que se destruyeran las piedras guardianas, examiné este lugar para restaurarlas. \n¿Ves los dibujos grabados en esa pared? \nResultó que esos dibujos no eran solo decoración, sino que todos tenían un significado. \nEs como un manual."
     },
     "oeyIDA": {
         "en-US": "[Citizen]\nI couldn't decipher all of it, only a small part. Anyway, we must find all ^0000CD pieces and bring back 12^000000 of them. So where do we get them?",
-        "pt-BR": "[Cidadão]\nNão consegui entender tudo, só uma pequena parte. De qualquer forma, precisamos encontrar todas as ^0000CD peças, um total de 12^000000. Mas onde vamos conseguir isso?",
+        "pt-BR": "[Artista]\nNão consegui entender tudo, só uma pequena parte. De qualquer forma, precisamos encontrar todos os ^0000CDFragmentos^000000. Mas onde vamos conseguir isso?",
         "es-ES": "[Persona común]\nNo pude interpretarlas todas, solo una pequeña parte. \nDe todos modos, hay que encontrar las 12 piezas. \n¿Y de dónde las sacamos?"
     },
     "ouyIDA": {
         "en-US": "[Historian]\nWhat is music and dance? Its essence, I mean. I believe it expresses everything we see and hear around us.",
-        "pt-BR": "[Historiador]\nO que são música e dança? A essência delas, quero dizer. Eu acho que são formas de expressar tudo o que vemos e ouvimos ao nosso redor...",
+        "pt-BR": "[Historiadora]\nVocês conseguem através da essência da Música e da Dança. São formas de expressar tudo o que vemos e ouvimos ao nosso redor...",
         "es-ES": "[Historiadora]\n¿Qué son la música y la danza? \nMe refiero a su esencia. \nYo creo que son la expresión de todo lo que vemos y oímos a nuestro alrededor..."
     },
     "o+yIDA": {
         "en-US": "[Historian]\nThe songs that slipped away probably went in search of inspiration and emotion. That's where they were born in the first place.",
-        "pt-BR": "[Historiador]\nAs canções que desapareceram provavelmente foram em busca da fonte de inspiração e emoção. Afinal, é desses lugares que elas nascem.",
+        "pt-BR": "[Historiadora]\nAs canções que desapareceram provavelmente foram em busca da fonte de inspiração e emoção. Afinal, é desses lugares que elas nascem.",
         "es-ES": "[Historiadora]\nLas canciones que se han perdido probablemente fueron en busca de la fuente de la inspiración y la emoción. \nPorque, al fin y al cabo, es ahí donde nacen."
     },
     "pOyIDA": {
         "en-US": "[Citizen]\nWhere might that be?",
-        "pt-BR": "[Cidadão]\nOnde seria isso?",
+        "pt-BR": "[Artista]\nOnde seria isso?",
         "es-ES": "[Persona común]\n¿Y dónde está eso?"
     },
     "peyIDA": {
         "en-US": "[Historian]\nFortunately, a brief record remains on this wall. It should provide a clue as to where we must go.",
-        "pt-BR": "[Historiador]\nFelizmente, ainda há um registro, mesmo que resumido, nesta parede. Deve servir de pista para saber para onde ir.",
+        "pt-BR": "[Historiadora]\nFelizmente, ainda há um registro, mesmo que resumido, nesta parede. Deve servir de pista para saber para onde ir.",
         "es-ES": "[Historiadora]\nPor suerte, en esta pared hay un registro, aunque sea breve. \nSerá una pista que nos dirá adónde ir."
     },
     "puyIDA": {
         "en-US": "[Historian]\nThere are records of ^0000CDEarth, Fire, Wind, Wondrous Life, the Sacred, and the Dark Ones^000000. These must be the inspiration.",
-        "pt-BR": "[Historiador]\n^0000CDHá registros sobre a terra, o fogo, o vento, a vida plena, o sagrado e algo das trevas^000000. Essas devem ser as fontes de inspiração.",
+        "pt-BR": "[Historiadora]\n^0000CDHá registros sobre a Terra, o Fogo, o Vento, a Riqueza, o Angelical e as Sombras^000000. Essas devem ser as fontes de inspiração.",
         "es-ES": "[Historiadora]\nHay registros sobre ^0000CDla tierra, el fuego, el viento, la vida maravillosa, lo sagrado y las cosas de la oscuridad^000000. \nEstas cosas deben ser la inspiración."
     },
     "p+yIDA": {
         "en-US": "[Historian]\n^0000CDThe sound of the beginning, the heart that freezes all, the heart that melts all, the song that echoes in deep caves, the sound of blue, the hymn to the gods^000000. These must be about emotion.",
-        "pt-BR": "[Historiador]\n^0000CDO som do início, da mente que congela tudo, da mente que derrete tudo, a canção que ressoa nas cavernas profundas, o som do azul, o hino dedicado aos deuses^000000. Essas devem ser sobre a emoção.",
+        "pt-BR": "[Historiadora]\nOs textos sobre Emoção mencionam:\n^0000CDO 'Som do Início', o 'Coração que Congela Tudo', o 'Coração que Derrete Tudo', a 'Canção das Profundezas', o 'Som das Águas' e o 'Hino aos Deuses'^000000.",
         "es-ES": "[Historiadora]\n^0000CDEl sonido del principio, el corazón que lo congela todo, el corazón que lo derrite todo, la canción que resuena en las cuevas profundas, el sonido azul, el himno a los dioses^000000. \nEsto debe ser sobre la emoción."
     },
     "qOyIDA": {
         "en-US": "[Historian]\nBy observing these faint clues and making inferences, we can determine the place we must go.",
-        "pt-BR": "[Historiador]\nBasta deduzir o lugar aonde devemos ir a partir dessas pistas escassas.",
+        "pt-BR": "[Historiadora]\nBasta deduzir o lugar aonde devemos ir a partir dessas pistas escassas.",
         "es-ES": "[Historiadora]\nSolo tienes que deducir el lugar al que debes ir a partir de estas débiles pistas."
     },
     "qeyIDA": {
         "en-US": "[Citizen]\nThen we can split it evenly! I have a rough idea. I'll take the sacred, the earth, the wind, the freezing heart, the melting heart, and the song echoing through deep caves!",
-        "pt-BR": "[Cidadão]\nEntão vamos nos dividir! Tenho uma ideia mais ou menos. Eu fico com o sagrado, a terra, o vento, o coração que congela, o coração que derrete e a canção que ressoa nas cavernas profundas!",
+        "pt-BR": "[Musa]\nEntão vamos nos dividir! Eu fico com o Angelical, a Terra, o Vento, o Coração que Congela Tudo, o Coração que Derrete Tudo e a Canção das Profundezas!",
         "es-ES": "[Persona común]\n¡Entonces lo dividimos a la mitad! \nTengo una idea aproximada. \n¡Yo me encargo de lo sagrado, la tierra, el viento, el corazón que congela, el corazón que derrite y la canción que resuena en las cuevas profundas!"
     },
     "quyIDA": {
         "en-US": "[Historian]\nNo, wait!! Hold on...!! Wow... you're really fast. You have an impatient nature. I was going to read you more of the manual. Would you prefer to listen a bit more, Adventurer?",
-        "pt-BR": "[Historiador]\nEi, espera aí!! Um momento...!! Nossa... você é rápido mesmo. Você é muito impaciente. Eu ia ler mais um pouco do manual pra você. O aventureiro quer ouvir mais um pouco?",
+        "pt-BR": "[Historiadora]\nEi, espera aí!! Um momento...!! Nossa... você é muito impaciente. Eu ia ler mais um pouco do manual pra vocês. Querem ouvir mais um pouco?",
         "es-ES": "[Historiadora]\n¡No, oye!! \nUn momento...!! \nVaya... qué rápido. \nEres muy impaciente. \nIba a leerte un poco más el manual. \n¿Prefieres que te explique un poco más, trotamundos?"
     },
     "q+yIDA": {
@@ -381,47 +381,47 @@
     },
     "rOyIDA": {
         "en-US": "[Historian]\nAdventurer, you should seek ^0000CDFire, Wondrous Life, Things of Darkness, Primordial Sound, Blue Sound, and Hymn to the Gods^000000.",
-        "pt-BR": "[Historiador]\nO aventureiro só precisa procurar ^0000CDFogo, Vida Plena, Coisas das Trevas, Som do Início, Som Azul e Hino ao Deus^000000.",
+        "pt-BR": "[Historiadora]\nUm Trovador só precisa procurar ^0000CDo Fogo, a Riqueza, as Sombra, o Som do Início, o Som das Água e o Hino aos Deuses^000000.",
         "es-ES": "[Historiadora]\nEl trotamundos debe buscar ^0000CDel fuego, la vida maravillosa, las cosas de la oscuridad, el sonido del principio, el sonido azul y el himno a los dioses^000000."
     },
     "reyIDA": {
         "en-US": "[Historian]\nThough my interpretation is only a small part... still, hear me out. When you think of things of darkness, what comes to mind first?",
-        "pt-BR": "[Historiador]\nMas o que eu interpretei é apenas uma pequena parte... Mesmo assim, dá uma ouvida. Primeiro, quando se fala em “Criaturas das Trevas”, o que vem à tua cabeça?",
+        "pt-BR": "[Historiadora]\nMas o que eu interpretei é apenas uma pequena parte... Mesmo assim, me ouça. Primeiro, quando se fala em “Sombras”, o que vem à cabeça?",
         "es-ES": "[Historiadora]\nAunque lo que interpreté es solo una pequeña parte... igual escúchalo. \nPrimero, cuando piensas en «las cosas de la oscuridad», ¿qué es lo primero que te viene a la mente?"
     },
     "ruyIDA": {
         "en-US": "Hell?",
-        "pt-BR": "O inferno?",
+        "pt-BR": "Os mortos?",
         "es-ES": "¿El infierno?"
     },
     "r+yIDA": {
         "en-US": "[Historian]\nSince we cannot find Hell, the dead must seek out <NAVI>[the place they go]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. Not all the dead belong to the darkness, but perhaps fear and pity for the departed have inspired diverse interpretations.",
-        "pt-BR": "[Historiador]\nComo não dá pra encontrar o inferno, os mortos devem ir para <NAVI>[O lugar para onde vão]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. Nem todos os mortos pertencem às trevas, mas provavelmente o medo e a compaixão pelos mortos devem ter servido de inspiração.",
+        "pt-BR": "[Historiadora]\nE para onde eles vão? Eles devem ir para o <NAVI>[Reino dos Mortos]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. Nem todos os mortos pertencem às trevas, mas provavelmente o medo e a compaixão devem ter servido de inspiração.",
         "es-ES": "[Historiadora]\nComo no puedes encontrar el infierno, los muertos deben ir a <NAVI>[lugar al que van]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. \nNo todos los muertos pertenecen a la oscuridad, pero es probable que el miedo y la compasión hacia ellos te hayan dado diversas inspiraciones."
     },
     "sOyIDA": {
         "en-US": "[Historian]\nThe fragment is likely in a weakened state. Capture monsters of the corresponding attribute—that is, dark attribute monsters—to fill the fragment's energy and obtain it.",
-        "pt-BR": "[Historiador]\nO fragmento provavelmente está enfraquecido. Basta derrotar um monstro do atributo correspondente, ou seja, do atributo das trevas, para recarregar a energia do fragmento de inspiração e obtê-lo.",
+        "pt-BR": "[Historiadora]\nO fragmento provavelmente está enfraquecido. Basta derrotar um monstro Sombrio para recarregar a energia do fragmento de inspiração e obtê-lo.",
         "es-ES": "[Historiadora]\nEl fragmento probablemente esté en un estado de poder débil. \nSolo tienes que derrotar a un monstruo de ese atributo, es decir, de atributo Oscuro, para recargar la energía del fragmento de inspiración y obtenerlo."
     },
     "seyIDA": {
         "en-US": "[Historian]\nAs for clues about the remaining Inspiration Fragments... I haven't deciphered those yet. But once you obtain the first fragment, it will likely reveal the next location. Everything is deeply intertwined.",
-        "pt-BR": "[Historiador]\nE quanto às pistas sobre os demais Fragmentos de Inspiração... ainda não consegui decifrar isso. Mas, assim que você conseguir o primeiro fragmento, ele provavelmente indicará o próximo local. Tudo está profundamente interligado.",
+        "pt-BR": "[Historiadora]\nE quanto às pistas sobre os demais Fragmentos de Inspiração... ainda não consegui decifrar isso. Mas, assim que você conseguir o primeiro fragmento, ele provavelmente indicará o próximo local. Tudo está profundamente interligado.",
         "es-ES": "[Historiadora]\nY las pistas sobre los demás fragmentos de inspiración... \nTodavía no he podido descifrarlas. \nPero si consigues el primer fragmento, probablemente te indicará el siguiente lugar. \nTodo está profundamente entrelazado."
     },
     "suyIDA": {
         "en-US": "[Historian]\nThen what remains are the fragments of emotion: the Sound of Genesis, the Sound of Blue, the Hymn to the Gods... Unfortunately, the manual doesn't elaborate on these. Though they represent human emotion, unlike nature, people are always changing.",
-        "pt-BR": "[Historiador]\nEntão, o que resta são os fragmentos da emoção: o Som do Início, o Som Azul, o Hino ao Deus... Infelizmente, isso não está explicado em detalhes no manual. Dizem que é a emoção que as pessoas sentem, mas, ao contrário da natureza, as pessoas estão sempre mudando.",
+        "pt-BR": "[Historiadora]\nEntão, o que resta são os fragmentos da emoção: o Som do Início, o Som das Águas, o Hino aos Deuses... Infelizmente, isso não está explicado em detalhes no manual. Dizem que é a emoção que as pessoas sentem, mas, ao contrário da natureza, as pessoas estão sempre mudando.",
         "es-ES": "[Historiadora]\nEntonces, lo que queda son los fragmentos de emoción: el Sonido Primigenio, el Sonido Azul, el Himno a los Dioses... \nLamentablemente, esto no aparece detallado en el manual. \nAunque se trata de emociones que siente la gente, a diferencia de la naturaleza, las personas siempre cambian."
     },
     "s+yIDA": {
         "en-US": "[Historian]\nThe only thing we can be certain of is the hymn to the gods... Back when this place was built, it naturally referred to the Temple of Odin. But now...",
-        "pt-BR": "[Historiador]\nO que dá pra entender é o “Hino ao Deus”... Na época em que este lugar foi construído, isso obviamente se referia ao Templo de Odin. Mas hoje em dia...",
+        "pt-BR": "[Historiadora]\nO que dá pra entender é o “Hino aos Deuses”... Na época em que este lugar foi construído, isso obviamente se referia ao Templo de Odin. Mas hoje em dia...",
         "es-ES": "[Historiadora]\nLo único que se puede deducir es el himno a los dioses... \nCuando se construyó este lugar, seguramente se refería al templo de Odín. \nPero hoy en día..."
     },
     "tOyIDA": {
         "en-US": "[Historian]\nA place facing the gods... If it's a place that always praises the gods...",
-        "pt-BR": "[Historiador]\nUm lugar voltado para os deuses... um lugar onde sempre se louva os deuses...",
+        "pt-BR": "[Historiadora]\nUm lugar voltado para os deuses... um lugar onde sempre se louva os deuses...",
         "es-ES": "[Historiadora]\nUn lugar dedicado a los dioses... \nSi es un lugar donde siempre se alaba a los dioses..."
     },
     "teyIDA": {
@@ -431,37 +431,37 @@
     },
     "tuyIDA": {
         "en-US": "[Historian]\nWell... this is a temple dedicated to Odin, and that place is where Freya's fanatics gather, isn't it? It's probably more likely to be a place dedicated to Odin.",
-        "pt-BR": "[Historiador]\nBem... este lugar é um templo dedicado a Odin, e aquele é onde ficam os fanáticos de Freya, não é? Provavelmente, é mais provável que seja um lugar dedicado a Odin.",
+        "pt-BR": "[Historiadora]\nBem... este lugar é um templo dedicado a Odin, e aquele é onde ficam os fanáticos de Freya, não é? É mais provável que seja um lugar dedicado a Odin.",
         "es-ES": "[Historiadora]\nBueno... este es un templo dedicado a Odín y ese es el lugar donde están los fanáticos de Freyja, ¿no? \nProbablemente sea un lugar dedicado a Odín."
     },
     "t+yIDA": {
         "en-US": "[Historian]\nCathedrals or churches... A couple places come to mind, but go to the <NAVI>[largest one]<INFO>prt_church,94,116,0,101,0</INFO></NAVI> first. You might hear someone singing loudly in praise of the gods and find it there.",
-        "pt-BR": "[Historiador]\nCatedrais ou igrejas... me vêm à cabeça alguns lugares, mas tente ir ao <NAVI>[maior deles]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>. Pois pode ter se fixado ao ouvir o canto de alguém louvando o deus em voz alta.",
+        "pt-BR": "[Historiadora]\nHm... me vêm à cabeça alguns lugares, mas tente ir à <NAVI>[Catedral de Prontera]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>. Acho que lá você conseguirá ouvir o canto de alguém louvando Odin em voz alta.",
         "es-ES": "[Historiadora]\nCatedrales o iglesias... \nSe me ocurren un par de lugares, pero ve al <NAVI>[lugar más grande]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>. \nQuizás se haya quedado ahí al escuchar a alguien alabando a los dioses en voz alta."
     },
     "uOyIDA": {
         "en-US": "[Historian]\nA fragment of emotion can probably only be obtained by moving someone's heart. Do your best to obtain a fragment there.",
-        "pt-BR": "[Historiador]\nA fragmento da emoção provavelmente só pode ser obtida se você tocar o coração das pessoas. Dá o teu melhor para conseguir o fragmento lá.",
+        "pt-BR": "[Historiadora]\nO fragmento da emoção provavelmente só pode ser obtido se você tocar o coração das pessoas. Dê o seu melhor para conseguir o fragmento lá.",
         "es-ES": "[Historiadora]\nLa pieza de la emoción probablemente solo se pueda conseguir si conmueves el corazón de alguien. \nHaz todo lo posible por conseguirla allí."
     },
     "ueyIDA": {
         "en-US": "[Historian]\nAs for the rest... I'm sorry, but I'd need to consult the manual further. For now, time is short—get going.",
-        "pt-BR": "[Historiador]\nQuanto ao resto... Desculpa, mas preciso dar uma olhada melhor no manual pra saber. Por enquanto, não dá tempo, então vai logo.",
+        "pt-BR": "[Historiadora]\nQuanto ao resto... Desculpa, mas preciso dar uma olhada melhor no manual pra saber. Por enquanto, não dá tempo, então vá logo.",
         "es-ES": "[Historiadora]\nLo demás... \nLo siento, pero tendré que revisar un poco más el manual para saberlo. De todos modos, no hay tiempo, así que ponte en marcha."
     },
     "uuyIDA": {
         "en-US": "[Natural Being]\nThen we can split it evenly! I have a rough idea. I'll take fire, wondrous life, things of darkness, the primordial sound, the blue sound, and the hymn to the gods!",
-        "pt-BR": "[Cidadão]\nEntão vamos dividir pela metade! Tenho uma ideia de como fazer. Eu fico com o fogo, a vida maravilhosa, as coisas das trevas, o som do início dos tempos, o som azul e o hino em louvor a Deus!",
+        "pt-BR": "[Trovador]\nEntão vamos nos dividir! Eu fico com o Fogo, a Riqueza, as Sombras, o Som do Início, o Som das Águas e o Hino aos Deuses!",
         "es-ES": "[Persona común]\n¡Entonces lo dividimos a la mitad! \nTengo una idea aproximada. \n¡Yo me encargo del fuego, la vida maravillosa, las cosas de la oscuridad, el sonido del principio, el sonido azul y el himno a los dioses!"
     },
     "u+yIDA": {
         "en-US": "[Historian]\nAdventurer, you should seek out ^0000CDwind, earth, the sacred, the freezing heart, the melting heart, and the song echoing through deep caves^000000.",
-        "pt-BR": "[Historiador]\nEntão, o aventureiro precisa trazer ^0000CDo vento, a terra, o sagrado, o coração que congela, o coração que derrete e a canção que ressoa nas cavernas profundas^000000.",
+        "pt-BR": "[Historiadora]\nEntão, a Musa precisa trazer ^0000CDo Vento, a Terra, o Angelical, o Coração que Congela Tudo, o Coração que Derrete Tudo e a Canção das Profundezas^000000.",
         "es-ES": "[Historiadora]\nTú, trotamundos, tendrás que buscar ^0000CDel viento, la tierra, lo sagrado, el corazón que hiela, el corazón que derrite y la canción que resuena en las profundidades de la cueva^000000."
     },
     "vOyIDA": {
         "en-US": "[Historian]\nThough my interpretation is only a fragment... still, hear me out. First, wind. Where does it first bring to mind?",
-        "pt-BR": "[Historiador]\nMas o que eu interpretei é apenas uma pequena parte... Mesmo assim, empreste-me seus ouvidos. Primeiro, o vento. Quando pensas nisso, o que te vem à cabeça primeiro?",
+        "pt-BR": "[Historiadora]\nMas o que eu interpretei é apenas uma pequena parte... Mesmo assim, me ouça. Primeiro, o Vento. Quando pensa nisso, o que te vem à cabeça primeiro?",
         "es-ES": "[Historiadora]\nAunque lo que interpreté es solo una pequeña parte... igual escúchalo. Primero, el viento. \n¿Qué es lo primero que te viene a la mente?"
     },
     "veyIDA": {
@@ -471,27 +471,27 @@
     },
     "vuyIDA": {
         "en-US": "[Historian]\nThat's a valid point. But it wouldn't have gone there. They say the wind that crosses the prairie goes everywhere. Because it's vast.",
-        "pt-BR": "[Historiador]\nÉ um argumento válido. Mas provavelmente não é lá. Dizem que o vento que atravessa a pradaria vai para qualquer lugar. Pois ela é vasta.",
+        "pt-BR": "[Historiadora]\nÉ um argumento válido. Mas provavelmente não é lá. Dizem que o vento que atravessa a pradaria vai para qualquer lugar. Pois ela é um campo aberto.",
         "es-ES": "[Historiadora]\nEs una respuesta lógica. \nPero no creo que hayas ido allí. \nDicen que el viento que atraviesa la pradera va a todas partes. \nPorque es muy amplia."
     },
     "v+yIDA": {
         "en-US": "[Historian]\n<NAVI>[Audumbla Grassland]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> Head near there. Watching the grass and flowers swaying with the wind, the ancients must have tried to imitate that. It must have inspired them.",
-        "pt-BR": "[Historiador]\n<NAVI>[Pradaria Audhumbla]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> Vai até perto de lá. Ao ver o movimento das ervas e flores levadas pelo vento, os antigos provavelmente tentaram imitar isso. Isso deve ter sido uma inspiração para eles.",
+        "pt-BR": "[Historiadora]\nVai até a <NAVI>[Pradaria Audhumbla]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>. Ao ver o movimento das ervas e flores levadas pelo vento, os antigos provavelmente tentaram imitar isso. Isso deve ter sido uma inspiração para eles.",
         "es-ES": "[Historiadora]\nVe a las cercanías de <NAVI>[Pradera de Audumla]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>. \nAl ver cómo se mueven la hierba y las flores con el viento, seguro que los antiguos intentaron imitarlo. \nEso les habrá inspirado."
     },
     "wOyIDA": {
         "en-US": "[Historian]\nThe fragment is likely in a weakened state. Capture a monster possessing the corresponding attribute—that is, the wind attribute—to fill the fragment's energy and obtain it.",
-        "pt-BR": "[Historiador]\nO fragmento provavelmente está com pouca energia. Basta derrotar um monstro com essa característica, ou seja, com a característica do vento, para recarregar a energia do Fragmento da Inspiração e obtê-lo.",
+        "pt-BR": "[Historiadora]\nO fragmento provavelmente está com pouca energia. Basta derrotar monstros do Vento, para recarregar a energia do Fragmento da Inspiração e obtê-lo.",
         "es-ES": "[Historiadora]\nProbablemente, el fragmento esté en un estado de energía débil. \nSolo tienes que cazar un monstruo con ese atributo, es decir, el atributo del viento, para llenar la energía del fragmento de inspiración y obtenerlo."
     },
     "weyIDA": {
         "en-US": "[Historian]\nThen what remains are the fragments of emotion: the freezing heart, the melting heart, the song echoing through deep caves... Unfortunately, the manual doesn't elaborate on these. Though they represent human emotion, unlike nature, people are ever-changing.",
-        "pt-BR": "[Historiador]\nEntão, o que resta são os fragmentos de emoção: Coração Gelado, Coração Derretido, Canção que Ressoa nas Cavernas Profundas... Infelizmente, isso não está explicado em detalhes no manual. Dizem que é a emoção que as pessoas sentem, mas, ao contrário da natureza, as pessoas estão sempre mudando.",
+        "pt-BR": "[Historiadora]\nEntão, o que resta são os fragmentos de emoção: Coração que Congela Tudo, Coração que Derrete Tudo e Canção das Profundezas... Infelizmente, isso não está explicado em detalhes no manual. Dizem que é a emoção que as pessoas sentem, mas, ao contrário da natureza, as pessoas estão sempre mudando.",
         "es-ES": "[Historiadora]\nEntonces lo que queda son los fragmentos de emoción: «Corazón helado», «Corazón derretido», «Canción que resuena en la cueva profunda»... \nLamentablemente, esto no aparece detallado en el manual. \nAunque se trata de emociones que siente el ser humano, a diferencia de la naturaleza, las personas siempre cambian."
     },
     "wuyIDA": {
         "en-US": "[Historian]\nThe only one we can somewhat grasp is the Freezing Heart... This is likely... a place of extreme cold. A location where snow falls constantly...",
-        "pt-BR": "[Historiador]\nO que dá pra saber é sobre o Coração Congelante... Isso provavelmente... um lugar muito frio. Um lugar onde sempre neva...",
+        "pt-BR": "[Historiadora]\nO que dá pra saber é sobre o Coração que Congela Tudo... Isso provavelmente... é num lugar muito frio. Um lugar onde sempre neva...",
         "es-ES": "[Historiadora]\nLo único que se sabe es «Corazón helado»... \nEsto probablemente sea... un lugar muy frío. \nUn lugar donde siempre nieva..."
     },
     "w+yIDA": {
@@ -501,47 +501,47 @@
     },
     "xOyIDA": {
         "en-US": "[Historian]\nIt's probably <NAVI>[that place]<INFO>xmas,82,146,0,101,0</INFO></NAVI>. People from cold places tend to have particularly well-developed artistic sensibilities.",
-        "pt-BR": "[Historiador]\nProvavelmente <NAVI>[aquele lugar]<INFO>xmas,82,146,0,101,0</INFO></NAVI> está certo. As pessoas de lugares frios têm um talento artístico especialmente desenvolvido.",
+        "pt-BR": "[Historiadora]\nProvavelmente é <NAVI>[Lutie]<INFO>xmas,82,146,0,101,0</INFO></NAVI>. As pessoas de lugares frios têm um talento artístico especialmente desenvolvido.",
         "es-ES": "[Historiadora]\nProbablemente sea <NAVI>[ese lugar]<INFO>xmas,82,146,0,101,0</INFO></NAVI>. \nLa gente de los lugares fríos suele tener un talento artístico especialmente desarrollado."
     },
     "xeyIDA": {
         "en-US": "[Historian]\nAh, you're here just in time. I've been waiting. The void has already begun to fill this place. Corrosion and erosion will start soon. If we don't stop it quickly...!",
-        "pt-BR": "[Historiador]\nAh, que bom que você chegou. Estava esperando por você. O vazio já começou a se espalhar por aqui. Em breve, a corrosão e a erosão vão começar. Se não impedirmos logo...!",
+        "pt-BR": "[Historiadora]\nAh, que bom que você chegou. Estava esperando por você. Os ecos do mundo vazio já começaram a se espalhar por aqui. Em breve, a corrosão vai começar. Se não impedirmos logo...!",
         "es-ES": "[Historiadora]\nAh, qué bien que llegaste. \nTe estaba esperando. \nEl vacío ya está empezando a invadir este lugar. \nPronto empezará la corrosión y la erosión. \n¡Si no lo detienes pronto...!"
     },
     "xuyIDA": {
         "en-US": "[Historian]\nBut what about the pieces? Have you lost them? Then there's nothing we can do. Please find them quickly.",
-        "pt-BR": "[Historiador]\nMas e as peças? Você as perdeu? Nesse caso, não há nada que possamos fazer. Por favor, traga-as logo.",
+        "pt-BR": "[Historiadora]\nMas e os fragmentos? Você os perdeu? Nesse caso, não há nada que possamos fazer. Por favor, traga-os logo.",
         "es-ES": "[Historiadora]\nPor cierto, ¿qué pasó con las piezas? \n¿Las perdiste? \nSi es así, no podemos hacer nada. \nVe a buscarlas ya."
     },
     "x+yIDA": {
         "en-US": "[Citizen]\nI tried my best, but it didn't work out. Heh. It's harder than I thought. Instead, I gathered all the pieces here—please take care of them!",
-        "pt-BR": "[Cidadão]\nTentei fazer o possível, mas não deu certo. Hehe. É mais difícil do que parecia. Mas trouxe todas as peças que encontrei, então conta comigo!",
+        "pt-BR": "[Artista]\nTentei fazer o possível! Hehe. É mais difícil do que parecia. Mas trouxe todas as peças que encontrei, então conta comigo!",
         "es-ES": "[Persona común]\nIntenté hacer algo, pero no me salió bien. \nJeje. \nEs más difícil de lo que pensaba. \n¡Pero traje todas las piezas que pude, así que cuídalas!"
     },
     "yOyIDA": {
         "en-US": "[Historian]\nThen I'll prepare the restoration ritual according to this manual. I'll send the signal to begin the ritual to this guardian tree.",
-        "pt-BR": "[Historiador]\nEntão vou preparar o ritual de restauração seguindo o manual. Vou enviar um sinal para esta árvore guardiã para dar início ao ritual.",
+        "pt-BR": "[Historiadora]\nVou preparar o ritual de restauração seguindo o manual. Vou enviar um sinal para este Guardião para dar início ao ritual.",
         "es-ES": "[Historiadora]\nEntonces prepararé el ritual de restauración siguiendo este manual. \nLe enviaré una señal a este árbol guardián para comenzar el ritual."
     },
     "yeyIDA": {
         "en-US": "[Historian]\nThe process is simple. See that spot along the ^0000CDwall where the altar^000000 is? That's where the Guardian Stone used to be.",
-        "pt-BR": "[Historiador]\nO processo é simples. Está vendo aquele altar ^0000CD ao longo da parede ^000000? Aquele é o local onde ficava a Pedra Guardiã.",
+        "pt-BR": "[Historiadora]\nO processo é simples. Está vendo esses ^0000CDcírculos ao seu redor^000000? Esses são os locais onde ficavam as Pedras Guardiãs.",
         "es-ES": "[Historiadora]\nEl proceso es sencillo. \n¿Ves el altar que está junto a esa pared? \nAhí es donde estaba la Piedra Guardiana."
     },
     "yuyIDA": {
         "en-US": "[Historian]\nPlace the ^0000CDfragments of inspiration and emotion you hold at that spot, and a new Guardian Stone will form.",
-        "pt-BR": "[Historiador]\nSe colocar os ^0000CDfragmentos de inspiração e emoção que possui nesse local, a Pedra Guardiã surgirá novamente.",
+        "pt-BR": "[Historiadora]\nSe colocar os ^0000CDFragmentos de Inspiração e Emoção nesse locais^000000, as Pedras Guardiãs surgirão novamente.",
         "es-ES": "[Historiadora]\nSi colocas ahí los ^0000CDFragmentos de Inspiración y Emoción que tienes,^000000 aparecerá una nueva Piedra Guardián."
     },
     "y+yIDA": {
         "en-US": "[Historian]\nOf course, you must also expel all the void that has filled this place. Only then will it be complete.",
-        "pt-BR": "[Historiador]\nÉ claro que também precisamos expulsar todo o vazio que se instalou aqui. Só assim este lugar ficará perfeito.",
+        "pt-BR": "[Historiadora]\nÉ claro que também precisamos expulsar todos os Ecos de um mundo vazio que se instalaram aqui. Só assim este lugar ficará perfeito.",
         "es-ES": "[Historiadora]\nPor supuesto, también hay que expulsar todo el vacío que se ha acumulado aquí. \nSolo así este lugar será perfecto."
     },
     "zOyIDA": {
         "en-US": "[Historian]\nShall we prepare the restoration ritual now?",
-        "pt-BR": "[Historiador]\nVamos preparar o ritual de recuperação agora?",
+        "pt-BR": "[Historiadora]\nVamos preparar o ritual de recuperação agora?",
         "es-ES": "[Historiadora]\n¿Preparamos ya el ritual de recuperación?"
     },
     "zeyIDA": {
@@ -556,7 +556,7 @@
     },
     "z+yIDA": {
         "en-US": "[Historian]\nBut... what happened during that time? Why don't I see the experiences you've had?",
-        "pt-BR": "[Historiador]\nMas... o que aconteceu nesse tempo? Deixe-me ver as suas experiências anteriores.",
+        "pt-BR": "[Historiadora]\nMas... o que aconteceu nesse tempo? Deixe-me ver as suas experiências anteriores.",
         "es-ES": "[Historiadora]\nPero... ¿qué te ha pasado durante todo este tiempo? \n¿Por qué no se ven tus experiencias de antes?"
     },
     "0OyIDA": {
@@ -571,7 +571,7 @@
     },
     "0uyIDA": {
         "en-US": "[Historian]\nHmm... But you must form a ^0000CDsolo party^000000 and come...",
-        "pt-BR": "[Historiador]\nHum... Mas você precisa formar um ^0000CDgrupo de 1 pessoa^000000 e vir até aqui...",
+        "pt-BR": "[Historiadora]\nHum... Mas você precisa formar um ^0000CDgrupo de 1 pessoa^000000 e vir até aqui...",
         "es-ES": "[Historiadora]\nMmm... Pero tienes que formar un ^0000CDgrupo de 1 persona^000000 y venir..."
     },
     "0+yIDA": {
@@ -581,77 +581,77 @@
     },
     "1OyIDA": {
         "en-US": "[Historian]\nThen let's begin. Ah... Just a moment. Seems something isn't quite ready yet. I'll start again shortly.",
-        "pt-BR": "[Historiador]\nEntão vamos começar. Ah... espera um pouco. Parece que ainda não está tudo pronto. Vamos recomeçar daqui a pouco.",
+        "pt-BR": "[Historiadora]\nEntão vamos começar. Ah... espera um pouco. Parece que ainda não está tudo pronto. Vamos recomeçar daqui a pouco.",
         "es-ES": "[Historiadora]\nEntonces, vamos a empezar. \nAh... un momento. \nParece que aún no estoy del todo listo. \nVolveré a empezar en un momento."
     },
     "1eyIDA": {
         "en-US": "[Historian]\nAlright, let's begin. Once the ritual preparations are complete, place your hand on the ^0000CDGuardian's Spring^000000. The guardian, sensing your emotions, will then begin its restoration.",
-        "pt-BR": "[Historiador]\nEntão vamos começar. Quando a preparação do ritual terminar, coloque a mão na ^0000CDFonte do Guardião^000000. Assim, o Guardião, sensível às tuas emoções, começará a recuperação.",
+        "pt-BR": "[Historiadora]\nEntão vamos começar. Quando a preparação do ritual terminar, coloque a mão no ^0000CDGuardião da Fonte^000000. Assim, começaremos a recuperação.",
         "es-ES": "[Historiadora]\nBueno, vamos a empezar. \nCuando termine la preparación del ritual, ^0000CDpon la mano sobre el resorte del guardián^000000. \nEntonces, el guardián, sensible a tus emociones, comenzará a recuperarse."
     },
     "1uyIDA": {
         "en-US": "[Historian]\nAlright. Once you're mentally prepared, we'll begin immediately.",
-        "pt-BR": "[Historiador]\nIsso mesmo. Assim que estiveres mentalmente preparado, começaremos imediatamente.",
+        "pt-BR": "[Historiadora]\nIsso mesmo. Assim que estiveres com tudo preparado, começaremos imediatamente.",
         "es-ES": "[Historiadora]\nSí. \nEn cuanto estés listo mentalmente, empezaremos de inmediato."
     },
     "1+yIDA": {
         "en-US": "[Historian]\nHmm... However, you must form a party of one and come...",
-        "pt-BR": "[Historiador]\nHum... Mas você precisa formar um grupo de 1 pessoa antes de vir...",
+        "pt-BR": "[Historiadora]\nHum... Mas você precisa formar um grupo de 1 pessoa antes de vir...",
         "es-ES": "[Historiadora]\nMmm... \nPero tienes que venir formando un grupo de una sola persona..."
     },
     "2OyIDA": {
         "en-US": "[Historian]\nAre you still collecting the pieces? I'm sorry. I wish I could give you more hints, but the interpretation isn't complete yet...",
-        "pt-BR": "[Historiador]\nAinda está procurando pelas peças? Desculpe. Gostaria de dar mais dicas, mas a interpretação é escassa...",
+        "pt-BR": "[Historiadora]\nAinda está procurando pelos fragmentos? Desculpe. Gostaria de dar mais dicas, mas a interpretação é escassa...",
         "es-ES": "[Historiadora]\n¿Todavía estás juntando las piezas? \nLo siento. \nMe gustaría darte más pistas, pero aún no he podido descifrarlo del todo..."
     },
     "2eyIDA": {
         "en-US": "[Historian]\nThis is my first time here. A place unlike any other!",
-        "pt-BR": "[Historiador]\nÉ a primeira vez que vejo um lugar assim. Um lugar que nunca vi em lugar nenhum!",
+        "pt-BR": "[Historiadora]\nÉ a primeira vez que vejo um lugar assim. Eu nunca vi isso em canto nenhum!",
         "es-ES": "[Historiadora]\nEs la primera vez que estoy en un lugar así. \n¡Un lugar que no se ve en ningún otro lado!"
     },
     "2uyIDA": {
         "en-US": "Citizen",
-        "pt-BR": "Cidadão",
+        "pt-BR": "Artista",
         "es-ES": "Natural"
     },
     "2+yIDA": {
         "en-US": "[Citizen]\nThis is such a thrilling experience. Don't you think?",
-        "pt-BR": "[Cidadão]\nÉ uma experiência realmente emocionante. Não é mesmo?",
+        "pt-BR": "[Artista]\nÉ uma experiência realmente emocionante. Não é mesmo?",
         "es-ES": "[Persona común]\nEs una experiencia realmente emocionante.\n¿No te parece?"
     },
     "3OyIDA": {
         "en-US": "Worker",
-        "pt-BR": "Trabalhador",
+        "pt-BR": "Ajudante",
         "es-ES": "Obrero"
     },
     "3eyIDA": {
         "en-US": "[Worker]\nAccidents can happen on the job, but this is a first.",
-        "pt-BR": "[Trabalhador]\nAcidentes podem acontecer durante o trabalho, mas é a primeira vez que vejo algo assim.",
+        "pt-BR": "[Ajudante]\nAcidentes podem acontecer durante o trabalho, mas é a primeira vez que vejo algo assim.",
         "es-ES": "[Obrero]\nMientras trabajamos pueden pasar accidentes, pero nunca había visto algo así."
     },
     "3uyIDA": {
         "en-US": "[Worker]\nWhen can we actually start working...",
-        "pt-BR": "[Trabalhador]\nQuando é que vamos poder começar a trabalhar...",
+        "pt-BR": "[Ajudante]\nQuando é que vamos poder começar a trabalhar...?",
         "es-ES": "[Obrero]\n¿Cuándo podremos empezar a trabajar...?"
     },
     "3+yIDA": {
         "en-US": "Guardian's Spring",
-        "pt-BR": "Fonte do Guardião",
+        "pt-BR": "Guardião da Fonte",
         "es-ES": "El Resorte del Guardián"
     },
     "4OyIDA": {
         "en-US": "[Historian]\nThey say to form a ^0000CDsolo party^000000 and come. An adventurer who is the ^0000CDmaster of a solo party^000000. It's a lonely battle you must fight alone.",
-        "pt-BR": "[Historiador]\nÉ necessário formar um ^0000CDgrupo de 1 pessoa^000000 e vir até aqui. É um ^0000CDgrupo de 1 pessoa^000000 do qual você, aventureiro, é o ^0000CDlíder^000000. É uma luta solitária que você tem que enfrentar sozinho.",
+        "pt-BR": "[Historiadora]\nÉ necessário formar um ^0000CDgrupo de 1 pessoa^000000 do qual você, viajante, é o ^0000CDlíder^000000. É uma luta solitária que você tem que enfrentar só.",
         "es-ES": "[Historiadora]\nTe dije que formaras un ^0000CDgrupo de 1 persona^000000. \nUn ^0000CDgrupo de 1 persona^000000 en el que tú, trotamundos, eres el ^0000CDlíder. \nEs una lucha solitaria que debes librar tú solo."
     },
     "4eyIDA": {
         "en-US": "[Historian]\nNow, place your hand on this Guardian's Spring. How does it feel? Unsettling, yet you sense a gentle power, right? Shall we begin?",
-        "pt-BR": "[Historiador]\nAgora, coloca a mão na Fonte do Guardião. E aí? Dá pra sentir uma força suave, apesar de um pouco inquietante, né? A gente pode começar agora?",
+        "pt-BR": "[Historiadora]\nAgora, coloque a mão no Guardião da Fonte. E aí? Sente uma força suave e inquietante, né? A gente pode começar agora?",
         "es-ES": "[Historiadora]\nBueno, ahora pon la mano sobre el resorte de este árbol guardián. \n¿Qué tal? Se siente una fuerza suave, aunque un poco inquietante, ¿verdad?\n¿Podemos empezar ya?"
     },
     "4uyIDA": {
         "en-US": "I'll begin the recovery ritual.",
-        "pt-BR": "Vou iniciar o ritual de recuperação.",
+        "pt-BR": "Iniciar o ritual!",
         "es-ES": "Voy a iniciar el ritual de recuperación."
     },
     "4+yIDA": {
@@ -661,62 +661,62 @@
     },
     "5OyIDA": {
         "en-US": "[Historian]\nHmm... That's... odd? It's not working even when following the manual. Let's try again in a moment.",
-        "pt-BR": "[Historiador]\nHum... Ora, ora... Que estranho, não é? Não está dando certo mesmo seguindo o manual. Vamos tentar de novo daqui a pouco.",
+        "pt-BR": "[Historiadora]\nHum... Ora, ora... Que estranho, não é? Não está dando certo mesmo seguindo o manual. Vamos tentar de novo daqui a pouco.",
         "es-ES": "[Historiadora]\nMmm... \nVaya... \nQué raro, ¿no? \nNo funciona aunque siga el manual. \nIntentémoslo de nuevo en un rato."
     },
     "5eyIDA": {
         "en-US": "[Historian]\nTo begin the recovery ritual, I need to prepare first. Tell me first. Don't go fiddling with the Guardian's Spring.",
-        "pt-BR": "[Historiador]\nPara iniciar o ritual de recuperação, preciso me preparar primeiro. Fala comigo primeiro. E não fique mexendo na Fonte do Guardião à toa.",
+        "pt-BR": "[Historiadora]\nPara iniciar o ritual de recuperação, preciso me preparar antes. Fale comigo primeiro. E não fique mexendo no Guardião da Fonte à toa.",
         "es-ES": "[Historiadora]\nPara iniciar el ritual de recuperación, primero tengo que prepararme yo.\nAvísame antes. \nY no le acaricies el resorte al guardián sin más."
     },
     "5uyIDA": {
         "en-US": "[Historian]\nI told you to join a party! ^0000CDForm a party of one^000000 and start over.",
-        "pt-BR": "[Historiador]\nEu disse que precisas entrar no grupo! ^0000CDForma um grupo de 1 pessoa^000000 e vamos recomeçar.",
+        "pt-BR": "[Historiadora]\nEu disse que você precisa formar um grupo! ^0000CDCrie um grupo de 1 pessoa^000000 e vamos recomeçar.",
         "es-ES": "[Historiadora]\n¡Te dije que tenías que unirte a un grupo! \n^0000CDForma un grupo de 1 persona^000000 y volvamos a empezar."
     },
     "5+yIDA": {
         "en-US": "[Historian]\nAlright, let's begin the recovery ritual now! Just eliminate all the void and fill the Guardian Stone's slots with the fragments! We'll be waiting outside!",
-        "pt-BR": "[Historiador]\nEntão, vamos começar o ritual de recuperação! Basta eliminar todo o vazio e preencher o espaço da Pedra Guardiã com os fragmentos! Nós vamos ficar por aqui!",
+        "pt-BR": "[Historiadora]\nEntão, vamos começar o ritual de recuperação! Basta eliminar todos os Ecos de um mundo vazio e preencher o espaço da Pedra Guardiã com os fragmentos! Nós vamos ficar por aqui!",
         "es-ES": "[Historiadora]\n¡Bueno, vamos a empezar el ritual de recuperación! \n¡Solo tienes que eliminar todo el vacío y colocar las piezas en el lugar de la piedra guardiana! \n¡Nosotros nos quedaremos afuera!"
     },
     "6OyIDA": {
         "en-US": "Adventurer {0} of this world begins the restoration ritual for {1}.",
-        "pt-BR": "O aventureiro {0} inicia o ritual de restauração de {1}.",
+        "pt-BR": "{0} iniciará o ritual na Fonte de Kvasir.",
         "es-ES": "El trotamundos de este mundo, {0}, inicio el Ritual de Restauración de {1}."
     },
     "6eyIDA": {
         "en-US": "[Historian]\nYou seem too tense. Let's try again once you relax.",
-        "pt-BR": "[Historiador]\nParece que você está muito nervoso. Quando relaxar, vamos tentar de novo.",
+        "pt-BR": "[Historiadora]\nParece que você está com a alma inquieta. Quando relaxar, vamos tentar de novo.",
         "es-ES": "[Historiadora]\nParece que estás muy nervioso. \nCuando te relajes, volvamos a empezar."
     },
     "6uyIDA": {
         "en-US": "[Historian]\nI told you to form a party of one. You're the adventurer, the ^0000CDmaster of a one-person party^000000. It's a lonely battle you must fight alone.",
-        "pt-BR": "[Historiador]\nEu disse para você formar um grupo de 1 pessoa e voltar. O aventureiro deve ser o ^0000CDmestre de um grupo de 1 pessoa^000000. É uma luta solitária que você precisa enfrentar sozinho.",
+        "pt-BR": "[Historiadora]\nEu disse para você formar um grupo de 1 pessoa e voltar. Você deve ser o ^0000CDlíder de um grupo de 1 pessoa^000000. É uma luta solitária que você precisa enfrentar só.",
         "es-ES": "[Historiadora]\nTe dije que formaras un grupo de un solo miembro. \nEres un grupo de un solo miembro en el que tú, ^0000CD, eres el maestro. \nEs una lucha solitaria que debes librar tú solo."
     },
     "6+yIDA": {
         "en-US": "[Historian]\nYou want to try again?",
-        "pt-BR": "[Historiador]\nVai tentar de novo?",
+        "pt-BR": "[Historiadora]\nVai tentar de novo?",
         "es-ES": "[Historiadora]\n¿Vas a volver a intentarlo?"
     },
     "7OyIDA": {
         "en-US": "Then take this. I've recovered the fragments that failed the ritual.",
-        "pt-BR": "Então, toma isto. Recuperei os fragmentos do ritual que falharam.",
+        "pt-BR": "Então, leve isto. Recuperei os fragmentos do ritual anterior.",
         "es-ES": "Pues toma esto. \nHe recuperado los Fragmentos del Ritual que fallaron."
     },
     "7eyIDA": {
         "en-US": "[Historian]\nAre you ready? Shall we begin?",
-        "pt-BR": "[Historiador]\nJá está tudo pronto? Podemos começar?",
+        "pt-BR": "[Historiadora]\nJá está com tudo pronto? Podemos começar?",
         "es-ES": "[Historiadora]\n¿Ya estás listo? \n¿Podemos empezar?"
     },
     "7uyIDA": {
         "en-US": "[Historian]\nI need to prepare first to begin the restoration ritual. Speak to me. And don't go fiddling with the Guardian's Spring.",
-        "pt-BR": "[Historiador]\nPara iniciar o ritual de recuperação, preciso primeiro me preparar. Fala comigo. E não fique mexendo na Fonte do Guardião à toa.",
+        "pt-BR": "[Historiadora]\nPara iniciar o ritual de recuperação, preciso primeiro me preparar. Fale comigo. E não fique mexendo no Guardião da Fonte à toa.",
         "es-ES": "[Historiadora]\nPara iniciar el Ritual de Recuperación, primero tengo que prepararme yo.\nDime cuando estés listo. \nY no le toques el Resorte al Guardián, por favor."
     },
     "7+yIDA": {
         "en-US": "[Historian]\nTouching that carelessly could cause serious trouble!!",
-        "pt-BR": "[Historiador]\nSe você mexer nisso sem cuidado, vai causar um grande problema!!",
+        "pt-BR": "[Historiadora]\nSe você mexer nisso sem cuidado, vai causar um grande problema!!",
         "es-ES": "[Historiadora]\n¡Si tocas eso sin cuidado, vas a meterte en un lío!!"
     }
 }

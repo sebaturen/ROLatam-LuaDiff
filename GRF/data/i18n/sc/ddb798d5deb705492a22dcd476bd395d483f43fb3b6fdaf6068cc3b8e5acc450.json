@@ -62,7 +62,7 @@
     "TC2kBw": {
         "en-US": "[Rookie]\nThe ^4D4DFFcentral area^000000 seems to be located in this laboratory, ^4D4DFFdeep inside the building's basement^000000.\nSince we, the Rebellion, have completely occupied this place, please feel free to go there.",
         "pt-BR": "[Lukie]\nA ^4D4DFFsala central^000000 parece estar localizada nesse laboratório, ^4D4DFFno fundo do porão do edifício^000000.\nJá que nós, Insurgentes, ocupamos totalmente esse lugar, fique à vontade para ir lá.",
-        "es-ES": "[Lukie]\nAl parecer, la ^4D4DFFzona central^000000 se encuentra en este laboratorio, ^4D4DFFen las profundidades del sótano del edificio^000000.\nYa que nosotros, la Rebelión, ocupamos completamente este lugar, eres libre de ir allí."
+        "es-ES": "[Lukie]\nAl parecer, la ^4D4DFFsala central^000000 se encuentra en este laboratorio, ^4D4DFFen las profundidades del sótano del edificio^000000.\nYa que nosotros, la Rebelión, ocupamos completamente este lugar, eres libre de ir allí."
     },
     "TS2kBw": {
         "en-US": "[Rookie]\nTeleport?\nThey cannot use it.\nWe have blocked it.\nActually, it's something we had never thought of ...",
@@ -500,9 +500,9 @@
         "es-ES": "[Lukie]\nDespués de activar la puerta, tenemos que vigilarla desde afuera.\nAsí que no podré entrar contigo."
     },
     "pC2kBw": {
-        "en-US": "Werner Laboratory central room",
-        "pt-BR": "Werner Laboratory central room",
-        "es-ES": "Werner Laboratory central room"
+        "en-US": "Central room",
+        "pt-BR": "Sala central",
+        "es-ES": "Sala central"
     },
     "pS2kBw": {
         "en-US": "[Rookie]\nAre you ready?\nIf you are entering now, I will activate the gate.",
@@ -631,8 +631,8 @@
     },
     "vi2kBw": {
         "en-US": "{0} Party's {1} member enters {2}",
-        "pt-BR": "{1}, do grupo {partyname} entrou no Laboratório Werner",
-        "es-ES": "{1}, del grupo {partyname}, entró al Laboratorio Werner."
+        "pt-BR": "{1}, do grupo {0} entrou no {2}",
+        "es-ES": "{1}, del grupo {0}, entró al {2}"
     },
     "vy2kBw": {
         "en-US": "Around the gate, you feel the flow of the magic power is unstable.\nThe gate that was shaking and unstable disappeared after completing its job.",
@@ -645,7 +645,7 @@
         "es-ES": "[Lukie]\nAh... Tengo que encenderlo cada vez. ¡Es tan molesto!"
     },
     "wS2kBw": {
-        "en-US": "^4D4DFFMD Only the party leader can enter [Central_room] now.^000000",
+        "en-US": "^4D4DFFMD Only the party leader can enter [Central room] now.^000000",
         "pt-BR": "^4D4DFFSomente líderes de grupo podem entrar nessa instância.^000000",
         "es-ES": "^4D4DFFMazmorra del recuerdo: solo el líder del grupo puede entrar a la [sala central] ahora.^000000"
     },
@@ -876,8 +876,8 @@
     },
     "7y2kBw": {
         "en-US": "{0} Party's {1} member enters {2}",
-        "pt-BR": "{1}, do grupo {0}, entrou no Laboratório Werner.",
-        "es-ES": "{1}, del grupo {partyname}, entró al Laboratorio Werner."
+        "pt-BR": "{1}, do grupo {0}, entrou no {2}",
+        "es-ES": "{1}, del grupo {0}, entró al {2}"
     },
     "8C2kBw": {
         "en-US": "- You are carrying too many items to proceed with this quest. -",

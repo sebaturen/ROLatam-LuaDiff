@@ -1,656 +1,547 @@
 {
     "AGpNDA": {
-        "ko-KR": "예언자 K",
         "en-US": "Prophet K",
         "pt-BR": "Profeta K",
         "es-ES": "Profeta K"
     },
     "AWpNDA": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You are carrying too many items and cannot proceed with the quest.\nPlease organize your inventory and try again.",
         "pt-BR": "Você possui muitos itens no inventário e não pode prosseguir com a missão.\nPor favor, organize seus itens e tente novamente.",
-        "es-ES": "No puede continuar con la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos en el inventario.\nPor favor, organiza tus objetos e inténtalo de nuevo."
     },
     "AmpNDA": {
-        "ko-KR": "[예언자 K]\n닭의 영혼조각을\n구해오는 것에\n성공한 것 같군!\n훌륭해!!",
         "en-US": "[Prophet K]\nIt seems you have succeeded\nin gathering\nthe Chicken Soul Fragments!\nExcellent!!",
-        "pt-BR": "[Profeta K]\nParece que você conseguiu\nrecuperar os\nFragmentos de Alma de Galo!\nExcelente!!",
-        "es-ES": "[Profeta K]\n¡Parece que has tenido éxito\nen recuperar\nlos Fragmentos de Alma de Gallo!\n¡¡Excelente!!"
+        "pt-BR": "[Profeta K]\nParece que você conseguiu recuperar os Fragmentos de Alma de Galo!\nExcelente!!",
+        "es-ES": "[Profeta K]\n¡Parece que te fue bien encontrando Fragmentos de Alma de Gallo!\n¡Excelente!"
     },
     "A2pNDA": {
-        "ko-KR": "[예언자 K]\n자 그럼 바로\n닭의 영혼조각을 이용해\n12지신 중 닭의 기운을 받은\n영웅의 위치를 찾는 의식을\n시작하도록 하지!",
         "en-US": "[Prophet K]\nWell then, let's begin\nthe ritual immediately!\nUsing the Chicken Soul Fragments,\nwe will locate the hero\nblessed by the Chicken,\none of the 12 Zodiac Deities!",
-        "pt-BR": "[Profeta K]\nCerto, então vamos começar\nimediatamente o ritual\nusando os Fragmentos de Alma de Galo\npara encontrar o herói\nque possui a energia do Galo\nentre os 12 Signos Divinos!",
-        "es-ES": "[Profeta K]\nBien, entonces ahora mismo,\nusando los Fragmentos de Alma de Gallo,\n¡comencemos el ritual para encontrar\nal héroe bendecido por la energía\ndel Gallo entre los 12 Signos Zodiacales!"
+        "pt-BR": "[Profeta K]\nCerto, então vamos começar imediatamente o ritual usando os Fragmentos de Alma de Galo para encontrar o herói que possui a energia do Galo entre os 12 Signos Divinos!",
+        "es-ES": "[Profeta K]\nEntonces, usando los Fragmentos de Alma de Gallo, vamos a iniciar el ritual para encontrar al héroe bendecido por una de las 12 Deidades del Zodiaco, el Gallo."
     },
     "BGpNDA": {
-        "ko-KR": "[예언자 K]\n찾은 것 같군...\n마나가 가득하고\n마법의 신비함이 숨쉬는 곳!",
         "en-US": "[Prophet K]\nI think I've found it...\nA place full of mana\nwhere the mystery of magic breathes!",
-        "pt-BR": "[Profeta K]\nParece que encontrei...\nUm lugar cheio de mana\ne onde o mistério da magia respira!",
-        "es-ES": "[Profeta K]\nParece que lo he encontrado...\n¡Un lugar lleno de maná\ndonde el misterio de la magia respira!"
+        "pt-BR": "[Profeta K]\nParece que encontrei...\nUm lugar cheio de mana e onde o mistério da magia respira!",
+        "es-ES": "[Profeta K]\nCreo que lo encontré...\n¡Es un lugar lleno de maná donde el misterio de la magia respira!"
     },
     "BWpNDA": {
-        "ko-KR": "[예언자 K]\n그 곳에 꽃밭이 보이는\n외곽 지역에\n말끔히 정장을 입은\n한 사내가 보이는군!",
         "en-US": "[Prophet K]\nIn the outskirts of that place\nwhere a flower garden is visible,\nI see a man dressed in a neat suit!",
-        "pt-BR": "[Profeta K]\nNa área externa daquele lugar\nonde se vê um jardim de flores\nvejo um homem vestido com um\nterno impecável!",
-        "es-ES": "[Profeta K]\n¡En las afueras de ese lugar,\ndonde se ve un jardín de flores,\npuedo ver a un hombre\nvestido con un traje impecable!"
+        "pt-BR": "[Profeta K]\nNa área externa daquele lugar existe um jardim de flores... Vejo um homem vestido com um\nterno impecável!",
+        "es-ES": "[Profeta K]\n¡Vislumbro en aquel lugar, en un jardín lleno de flores, a un hombre vestido con un traje impecable!"
     },
     "BmpNDA": {
-        "ko-KR": "[예언자 K]\n영혼의 부적을 안가져왔나?\n이미 효과가 다했으니, 그냥 자네가 알아서 처리해도 상관없네만.\n하던 이야기를 계속 하지.",
         "en-US": "[Prophet K]\nDid you not bring the Soul Amulet?\nIts effect has already worn off, so you can handle it as you see fit, no problem.\nLet's continue our story.",
         "pt-BR": "[Profeta K]\nVocê não trouxe o Amuleto da Alma?\nJá que seu efeito acabou, não há problema se você lidar com isso por conta própria.\nVamos continuar de onde paramos.",
-        "es-ES": "[Profeta K]\n¿No trajiste el Amuleto de Alma?\nSu efecto ya se agotó, así que no hay problema si te encargas de ello por tu cuenta.\nContinuemos con lo que estábamos hablando."
+        "es-ES": "[Profeta K]\n¿No trajiste el Talismán del Alma?\nComo ya se agotó su efecto, no me molesta que te encargues de ello por tu cuenta.\nSigamos de donde paramos."
     },
     "B2pNDA": {
-        "ko-KR": "[예언자 K]\n아마도 지역은\n게펜으로 추정되는데..\n가서 그 사람을 찾아봐주길\n바라네!",
         "en-US": "[Prophet K]\nThe area is presumed to be\nGeffen...\nI ask that you go\nand find that person!",
-        "pt-BR": "[Profeta K]\nAcredito que a região seja\nprovavelmente Geffen...\nEspero que você vá até lá\ne encontre aquela pessoa!",
-        "es-ES": "[Profeta K]\nSupongo que el área\nes Geffen...\nEspero que vayas\ny encuentres a esa persona."
+        "pt-BR": "[Profeta K]\nAcredito que a região seja provavelmente Geffen...\nEspero que você vá até lá e encontre a pessoa!",
+        "es-ES": "[Profeta K]\nMe imagino que está en Geffen.\n¡Ve allá y encuéntralo!"
     },
     "CGpNDA": {
-        "ko-KR": "[예언자 K]\n그를 찾아서 내가 준\n밀서를 건네주도록 하게.\n그 이후에 판단은\n그가 스스로 하겠지..\n모든 것 은 하늘의 뜻 대로..\n후후..",
         "en-US": "[Prophet K]\nFind him and deliver\nthe secret letter I gave you.\nHe will judge for himself\nafter that...\nEverything is according to heaven's will...\nHoo hoo..",
-        "pt-BR": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu lhe dei.\nA partir daí, a decisão\nserá dele...\nTudo segue a vontade do céu..\nHuhu..",
-        "es-ES": "[Profeta K]\nBúscalo y entrégale\nla carta secreta que te di.\nDespués de eso, él\ntomará su propia decisión...\nTodo sigue la voluntad del cielo...\nJuju..."
+        "pt-BR": "[Profeta K]\nEncontre-o e entregue a carta secreta que eu lhe dei.\nA partir daí, a decisão será dele...\nTudo segue a vontade dos céus...\nHuhu...",
+        "es-ES": "[Profeta K]\nCuando lo encuentres, dale la carta secreta.\nDespués, la decisión será toda suya...\nTodo sigue la voluntad celestial...\nHmhm."
     },
     "CWpNDA": {
-        "ko-KR": "[예언자 K]\n닭의 영혼조각을\n모아오는 일은\n잘 되고 있는가?",
         "en-US": "[Prophet K]\nIs the task of gathering\nthe Chicken Soul Fragments\ngoing well?",
-        "pt-BR": "[Profeta K]\nComo está indo a tarefa\nde juntar os\nFragmentos de Alma de Galo?",
-        "es-ES": "[Profeta K]\n¿Va bien la tarea de\nrecolectar los\nFragmentos de Alma de Gallo?"
+        "pt-BR": "[Profeta K]\nComo está indo a tarefa de juntar os Fragmentos de Alma de Galo?",
+        "es-ES": "[Profeta K]\n¿Cómo vas con la recolección de Fragmentos de Alma de Gallo?"
     },
     "CmpNDA": {
-        "ko-KR": "[예언자 K]\n아직은 조금 부족한 것 같군.\n그래, 나에게 무슨 할 말이라도\n있는가?",
         "en-US": "[Prophet K]\nIt still seems a bit lacking.\nYes, do you have something\nto say to me?",
-        "pt-BR": "[Profeta K]\nAinda parece estar um pouco insuficiente.\nCerto, você tem algo\npara me dizer?",
-        "es-ES": "[Profeta K]\nParece que todavía faltan algunos.\nDime, ¿tienes algo\nque quieras preguntarme?"
+        "pt-BR": "[Profeta K]\nAinda parece estar faltando.\nCerto, você tem algo para me dizer?",
+        "es-ES": "[Profeta K]\nParece que todavía te faltan algunos.\n¿Hay alguna otra cosa con la que te pueda ayudar?"
     },
     "C2pNDA": {
-        "ko-KR": "영혼을 얻는 위치를 물어본다.",
         "en-US": "Ask about the soul gathering location.",
-        "pt-BR": "Pergunta onde obter as almas.",
-        "es-ES": "Preguntar la ubicación para obtener las almas."
+        "pt-BR": "Perguntar onde obter as almas.",
+        "es-ES": "Quiero saber dónde obtener los Fragmentos de Alma."
     },
     "DGpNDA": {
-        "ko-KR": "대화를 종료한다",
         "en-US": "End the conversation.",
-        "pt-BR": "Encerra a conversa.",
-        "es-ES": "Terminar la conversación."
+        "pt-BR": "Encerrar a conversa.",
+        "es-ES": "No, gracias."
     },
     "DWpNDA": {
-        "ko-KR": "[예언자 K]\n유노 근처에 있는\n킬 하이르 학원 필드로 가면\n그랜드 페코가\n서식하고 있을 것 이네.",
         "en-US": "[Prophet K]\nIf you go to the Kiel Hyre Academy Fields\nnear Yuno,\nthere should be Grand Pecos\ninhabiting the area.",
-        "pt-BR": "[Profeta K]\nSe você for para os Campos da Academia Kiel Hyre\nperto de Juno\nencontrará Grand Pecos\nhabitando por lá.",
-        "es-ES": "[Profeta K]\nSi vas al campo de la Academia Kiel Hyre,\ncerca de Juno,\nencontrarás Grand Peco\nhabitando allí."
+        "pt-BR": "[Profeta K]\nSe você for para os Campos da Academia Kiel Hyre, perto de Juno, encontrará Grand Pecos.",
+        "es-ES": "[Profeta K]\nEn el campo de la Academia Kiel Hyre, cerca de Juno, habitan Gran Pecos."
     },
     "DmpNDA": {
-        "ko-KR": "[예언자 K]\n그랜드 페코를\n잡아서 닭의 영혼 조각\n150개를 구해와 주게.",
         "en-US": "[Prophet K]\nHunt Grand Pecos\nand gather 150\nChicken Soul Fragments for me.",
-        "pt-BR": "[Profeta K]\nDerrote Grand Pecos\ne traga para mim\n150 Fragmentos de Alma de Galo.",
-        "es-ES": "[Profeta K]\nPor favor, derrota al\nGrand Peco\ny consigue 150 Fragmentos de Alma de Gallo."
+        "pt-BR": "[Profeta K]\nDerrote Grand Pecos e traga para mim 150 Fragmentos de Alma de Galo.",
+        "es-ES": "[Profeta K]\nAcaba con los suficientes hasta que tengas Fragmentos de Alma de Gallo x150."
     },
     "D2pNDA": {
-        "ko-KR": "[예언자 K]\n그 정도라면 분명히\n닭의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
         "en-US": "[Prophet K]\nThat amount should surely be\nsufficient for the ritual\nto find the person blessed\nby the Chicken's energy.",
-        "pt-BR": "[Profeta K]\nCom essa quantidade, certamente\nserá o suficiente para o ritual\npara encontrar a pessoa\nque possui a energia do Galo.",
-        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Gallo."
+        "pt-BR": "[Profeta K]\nEssa quantidade certamente será o suficiente para encontrar a pessoa que possui a energia do Galo.",
+        "es-ES": "[Profeta K]\nCon eso será suficiente para encontrar a quien posee la energía del Gallo."
     },
     "EGpNDA": {
-        "ko-KR": "[예언자 K]\n영혼 조각을 전부 모으고\n나를 다시 찾아와주길 바라네.",
         "en-US": "[Prophet K]\nI hope you gather all the soul fragments\nand come find me again.",
-        "pt-BR": "[Profeta K]\nEspero que você colete todos\nos Fragmentos de Alma\ne volte até mim.",
-        "es-ES": "[Profeta K]\nEspero que reúnas todos\nlos Fragmentos de Alma\ny vuelvas a buscarme."
+        "pt-BR": "[Profeta K]\nEspero que você colete todos os Fragmentos de Alma e volte até mim.",
+        "es-ES": "[Profeta K]\nVe por los Fragmentos de Alma y vuelve cuando los tengas todos."
     },
     "EWpNDA": {
-        "ko-KR": "[예언자 K]\n나는 예언자 K라고 하네,\n12지신을 모시고 있는\n사제이기도 하며,\n주로 예지몽을 이용해\n미래를 예측하고는 하지.",
         "en-US": "[Prophet K]\nI am called Prophet K.\nI am a priest who serves\nthe 12 Zodiac Deities,\nand I mainly predict the future\nusing prophetic dreams.",
-        "pt-BR": "[Profeta K]\nMeu nome é Profeta K.\nSou um sacerdote que serve\nos 12 Signos Divinos,\ne geralmente prevejo o futuro\nusando sonhos premonitórios.",
-        "es-ES": "[Profeta K]\nMe llaman el Profeta K.\nSoy un sacerdote que sirve\na los 12 Dioses Zodiacales,\ny principalmente predigo el futuro\nusando sueños proféticos."
+        "pt-BR": "[Profeta K]\nMeu nome é Profeta K.\nSou um sacerdote que serve os 12 Signos Divinos, e geralmente prevejo o futuro usando sonhos Premonitórios.",
+        "es-ES": "[Profeta K]\nMe llaman el Profeta K.\nSoy un sacerdote que sirve a las 12 Deidades del Zodiaco y predigo el futuro a través de sueños."
     },
     "EmpNDA": {
-        "ko-KR": "[예언자 K]\n어제 저녁에 드디어\n12지신의 계시를 받아\n잠을 자다가 예지몽을 꿨어..\n이건 정말 중요한\n꿈 인 것 같아, 그래서 내가\n부탁할 사람이 필요한데..",
         "en-US": "[Prophet K]\nLast night, I finally\nreceived a revelation from the 12 Zodiac Deities\nand had a prophetic dream while sleeping..\nThis seems to be a very important\ndream, so I need\nsomeone to do me a favor...",
-        "pt-BR": "[Profeta K]\nFinalmente, ontem à noite,\nrecebi uma revelação dos 12 Signos Divinos\ne tive um sonho premonitório enquanto dormia...\nParece ser um sonho muito importante,\nentão preciso de alguém\npara me fazer um favor...",
-        "es-ES": "[Profeta K]\nAnoche, finalmente\nrecibí una revelación de los 12 Dioses Zodiacales\ny tuve un sueño profético mientras dormía...\nParece un sueño muy importante,\nasí que necesito\nque alguien me haga un favor..."
+        "pt-BR": "[Profeta K]\nFinalmente, ontem à noite, recebi uma revelação dos 12 Signos Divinos e tive um sonho premonitório...\nParece ser um sonho muito importante, então preciso de alguém para me fazer um favor...",
+        "es-ES": "[Profeta K]\nAnoche recibí una revelación de las 12 Deidades del Zodiaco y tuve un sueño profético mientras dormía...\nParece ser importante, necesito que alguien me haga un favor..."
     },
     "E2pNDA": {
-        "ko-KR": "^8B4513예지몽^000000에 대해서 듣는다.",
         "en-US": "Listen about the ^8B4513prophetic dream^000000.",
-        "pt-BR": "Ouve sobre o ^8B4513sonho premonitório^000000.",
-        "es-ES": "Escuchar sobre el ^8B4513sueño profético^000000."
+        "pt-BR": "Ouvir sobre o ^8B4513sonho premonitório^000000.",
+        "es-ES": "Escuchar el ^8B4513sueño profético^000000."
     },
     "FGpNDA": {
-        "ko-KR": "예언자 K의 ^8B4513부탁^000000을 들어본다",
         "en-US": "Hear Prophet K's ^8B4513request^000000.",
-        "pt-BR": "Ouve o ^8B4513pedido^000000 do Profeta K.",
+        "pt-BR": "Ouvir o ^8B4513pedido^000000 do Profeta K.",
         "es-ES": "Escuchar la ^8B4513solicitud^000000 del Profeta K."
     },
     "FWpNDA": {
-        "ko-KR": "[예언자 K]\n그래 그 꿈 속은..\n넓은 평야.. 한가로운\n바람...평온하고..\n기분 좋은 느낌이었어.",
         "en-US": "[Prophet K]\nYes, in that dream..\nIt was a wide plain.. a leisurely\nwind... calm and..\na pleasant feeling.",
-        "pt-BR": "[Profeta K]\nCerto, naquele sonho..\nHavia uma vasta planície.. um vento\ncalmo e despreocupado... tranquilo e..\nUma sensação agradável.",
-        "es-ES": "[Profeta K]\nBien, en ese sueño...\nHabía una llanura vasta... un viento\ntranquilo... sereno...\ny una sensación agradable."
+        "pt-BR": "[Profeta K]\nCerto, naquele sonho havia uma vasta planície... um vento\ncalmo e tranquilo que trazia uma sensação agradável.",
+        "es-ES": "[Profeta K]\nBien, en el sueño...\nHabía una llanura vasta, un viento tranquilo, sereno...\nera una sensación agradable."
     },
     "FmpNDA": {
-        "ko-KR": "[예언자 K]\n기분 좋은 미소를 띄고\n있을 때 쯤 갑자기..\n주변은 소음으로 가득차고\n시끄러워져만 갔어\n그 때 갑자기 어디선가 커다란\n빛이 주변의 소리를 잠재웠어.",
         "en-US": "[Prophet K]\nJust as I was wearing\na pleasant smile, suddenly..\nThe surroundings became filled with noise\nand kept getting louder.\nThen suddenly, a great light from somewhere\nsilenced the noise around me.",
-        "pt-BR": "[Profeta K]\nMais ou menos quando eu estava\nsorrindo satisfeito, de repente..\nO ambiente ficou cheio de ruído\ne cada vez mais barulhento.\nFoi quando, de repente, uma grande luz\nde algum lugar silenciou o ruído ao redor.",
-        "es-ES": "[Profeta K]\nCasi cuando tenía una sonrisa agradable\nen mi rostro, de repente...\nlos alrededores se llenaron de ruido\ny se volvieron cada vez más bulliciosos.\nEntonces, de repente, desde algún lugar, una gran\nluz silenció el ruido alrededor."
+        "pt-BR": "[Profeta K]\nEu estava sorrindo satisfeito e então, de repente o ambiente ficou cheio de ruído e cada vez mais barulhento.\nFoi quando uma grande luz vinda de algum lugar silenciou todo o ruído ao redor.",
+        "es-ES": "[Profeta K]\nDe repente, casi cuando esa calma dibujaba una sonrisa en mi rostro, el ambiente se llenó de ruido y ese ruido solo crecía y crecía.\nY de la nada, una luz surgió de algún lugar y silenció todo a su al rededor."
     },
     "F2pNDA": {
-        "ko-KR": "[예언자 K]\n바로 12지신 중\n닭의 신 이었어!\n닭의 신의 빛에 소음이 가득하던\n평야는 안정을 되찾았지만\n언제 또 다시 그런일이\n벌어질지 모른다는 느낌이 들었어.",
         "en-US": "[Prophet K]\nIt was the Chicken Deity,\none of the 12 Zodiac Deities!\nWith the Chicken Deity's light, the plain that was full of noise\nregained its peace, but\nI felt like such a thing could\nhappen again at any time.",
-        "pt-BR": "[Profeta K]\nEra o Deus Galo\nentre os 12 Signos Divinos!\nCom a luz do Deus Galo, a planície que estava cheia de ruído\nrecuperou sua estabilidade,\nmas senti que não sabia quando\nalgo assim poderia acontecer novamente.",
-        "es-ES": "[Profeta K]\n¡Era el Dios Gallo\nentre los 12 Signos Zodiacales!\nCon la luz del Dios Gallo, la llanura que estaba llena de ruido\nrecuperó su estabilidad,\npero sentí que no sabía\ncuándo podría ocurrir algo así nuevamente."
+        "pt-BR": "[Profeta K]\nEra o Deus Galo entre os 12 Signos Divinos!\nCom a luz do Deus Galo, a planície que estava cheia de ruído recuperou sua estabilidade, mas senti que algo assim poderia acontecer novamente.",
+        "es-ES": "[Profeta K]\n¡Era el Dios Gallo, una de las 12 Deidades del Zodiaco!\nCon su luz, la llanura que estaba llena de ruido recuperó su estabilidad, pero sentí que podría ocurrir nuevamente."
     },
     "GGpNDA": {
-        "ko-KR": "[예언자 K]\n그 때 알게 되었지,\n아 이건 예지몽이다!\n큰 환란이 앞으로\n일어날 것이다! 라고",
         "en-US": "[Prophet K]\nThat's when I realized,\nAh, this is a prophetic dream!\nA great calamity\nwill occur in the future!",
-        "pt-BR": "[Profeta K]\nFoi quando eu percebi,\nAh, isto é um sonho premonitório!\nUma grande calamidade\nestá prestes a acontecer!",
-        "es-ES": "[Profeta K]\nFue entonces cuando me di cuenta,\n¡Ah, esto es un sueño profético!\n¡Significa que una gran calamidad\nocurrirá en el futuro!"
+        "pt-BR": "[Profeta K]\nFoi quando eu percebi: Ah, isto é um sonho premonitório!\nUma grande calamidade está prestes a acontecer!",
+        "es-ES": "[Profeta K]\nFue entonces cuando me di cuenta, estaba contemplando una profecía.\n¡Significa que una calamidad pasará en el futuro!"
     },
     "GWpNDA": {
-        "ko-KR": "[예언자 K]\n그리고는 닭의 신 께서\n내게 말했어!\n12지신의 기운을 받은\n사람을 찾아야 한다고..\n그래야 이 환란을\n막을 수 있다고..",
         "en-US": "[Prophet K]\nAnd then the Chicken Deity\nspoke to me!\nWe must find the people\nblessed by the energy of the 12 Zodiac Deities..\nOnly then can we stop\nthis calamity..",
-        "pt-BR": "[Profeta K]\nE então o Deus Galo\nme disse!\nQue eu preciso encontrar\na pessoa que possui a energia dos 12 Signos Divinos..\nSó assim poderemos\nimpedir esta calamidade..",
-        "es-ES": "[Profeta K]\n¡Y entonces el Dios Gallo\nme habló!\nDijo que debíamos encontrar\na las personas bendecidas\npor la energía de los 12 Dioses Zodiacales...\nSolo así podremos\ndetener esta calamidad..."
+        "pt-BR": "[Profeta K]\nE então o Deus Galo me disse que eu preciso encontrar a pessoa que possui a energia dos 12 Signos Divinos...\nSó assim poderemos impedir esta calamidade...",
+        "es-ES": "[Profeta K]\n¡Y entonces el Dios Gallo me habló!\nDijo que debíamos encontrar a las personas bendecidas por la energía de las 12 Deidades del Zodiaco...\nSolo así podremos detener esta calamidad..."
     },
     "GmpNDA": {
-        "ko-KR": "[예언자 K]\n아직 그 사람의 이름도,\n사는 곳도 전혀 모르지만,\n이 예지몽은 나에게\n그 를 찾아야 한다고\n말하고 있어!.",
         "en-US": "[Prophet K]\nI still don't know their names\nor where they live at all,\nbut this prophetic dream\nis telling me\nthat I must find them!",
-        "pt-BR": "[Profeta K]\nAinda não sabemos o nome dela,\nnem onde vive,\nmas este sonho premonitório\nestá me dizendo\nque preciso encontrá-lo!",
-        "es-ES": "[Profeta K]\nTodavía no sé su nombre,\nni dónde vive,\n¡pero este sueño profético\nme dice que\ndebo encontrarlo!"
+        "pt-BR": "[Profeta K]\nAinda não sabemos o nome dela, nem onde vive, mas este sonho premonitório está me dizendo que preciso encontrá-la!",
+        "es-ES": "[Profeta K]\nTodavía no sé su nombre, ni dónde vive,\n¡pero este sueño profético me dice que debo encontrarlo!"
     },
     "G2pNDA": {
-        "ko-KR": "[예언자 K]\n역시 이대로는 단서가\n너무 부족해, 그래서\n나의 예언 능력을 발휘하는\n의식을 통해 그 를 찾아야 해",
         "en-US": "[Prophet K]\nAs expected, there are too few clues like this.\nSo, we must find them\nthrough a ritual where I utilize\nmy prophetic abilities.",
-        "pt-BR": "[Profeta K]\nRealmente, assim as pistas são\ninsuficientes. Portanto,\npreciso encontrá-lo através de um ritual\nonde utilizo minha habilidade de profecia.",
-        "es-ES": "[Profeta K]\nComo era de esperar, así no hay suficientes pistas.\nPor eso, necesito encontrarlo\nrealizando un ritual\ndonde despliego mi habilidad de profecía."
+        "pt-BR": "[Profeta K]\nRealmente... As pistas são insuficientes. Portanto, preciso encontrá-lo através de um ritual onde utilizo minha habilidade de profecia.",
+        "es-ES": "[Profeta K]\nComo era de esperar, tengo suficientes pistas.\nPor eso, necesito realizar un ritual para ampliar el poder de mi profecía."
     },
     "HGpNDA": {
-        "ko-KR": "[예언자 K]\n그 의식을 하기 위해서는\n의식에 가장 중요한\n찾고자 하는 대상을\n나타내는 물품, 또는 유사한\n기운, 에너지가 필요하지.",
         "en-US": "[Prophet K]\nTo perform that ritual,\nwe need the most important item:\nan object representing the target we seek,\nor a similar\nenergy, aura.",
-        "pt-BR": "[Profeta K]\nPara realizar este ritual,\né necessário um item que represente\no alvo que desejo encontrar,\nou uma energia semelhante,\né o mais importante.",
-        "es-ES": "[Profeta K]\nPara realizar ese ritual,\nse necesita lo más importante:\nun objeto que represente\nel objetivo que busco, o una energía similar."
+        "pt-BR": "[Profeta K]\nPara realizar este ritual é necessário um item que represente o alvo que desejo encontrar ou uma energia semelhante.",
+        "es-ES": "[Profeta K]\nPara realizar el ritual, necesito lo más importante:\nun objeto que represente lo que busco, o una energía que se le asemeje."
     },
     "HWpNDA": {
-        "ko-KR": "[예언자 K]\n그래서 그걸 구하기 위해\n자네의 도움이 필요한거야.",
         "en-US": "[Prophet K]\nThat's why I need your help\nto obtain it.",
-        "pt-BR": "[Profeta K]\nÉ por isso que preciso\nda sua ajuda para consegui-lo.",
-        "es-ES": "[Profeta K]\nEs por eso que para conseguir eso,\nnecesito tu ayuda."
+        "pt-BR": "[Profeta K]\nÉ por isso que preciso da sua ajuda para consegui-lo.",
+        "es-ES": "[Profeta K]\nPor eso necesito tu ayuda."
     },
     "HmpNDA": {
-        "ko-KR": "[예언자 K]\n그래서 이번에 꾼 꿈은\n닭의 기운을 받은\n사람을 말하는 것\n이라고 생각해.",
         "en-US": "[Prophet K]\nSo, I believe the dream I had this time\nrefers to the person\nblessed by the Chicken's energy.",
-        "pt-BR": "[Profeta K]\nEntão, acho que o sonho que tive\nse refere à pessoa\nque possui a energia do Galo.",
-        "es-ES": "[Profeta K]\nCreo que el sueño que tuve esta vez\nse refiere a la persona\nbendecida con la energía\ndel Gallo."
+        "pt-BR": "[Profeta K]\nEntão, acho que o sonho que tive se refere à pessoa que possui a energia do Galo.",
+        "es-ES": "[Profeta K]\nCreo que el sueño se refiere a la persona bendecida con la energía del Gallo."
     },
     "H2pNDA": {
-        "ko-KR": "[예언자 K]\n그래서 말야\n닭의 영혼 조각이 필요한데\n나를 도와 영혼 조각을\n찾아 줄 수 있겠는가?",
         "en-US": "[Prophet K]\nSo, you see,\nI need Chicken Soul Fragments.\nCan you help me find\nthe soul fragments?",
-        "pt-BR": "[Profeta K]\nSendo assim,\npreciso de Fragmentos de Alma de Galo.\nVocê pode me ajudar a\nencontrar os Fragmentos de Alma?",
-        "es-ES": "[Profeta K]\nAsí que, verás,\nnecesito Fragmentos de Alma de Gallo.\n¿Podrías ayudarme a encontrar\nlos Fragmentos de Alma?"
+        "pt-BR": "[Profeta K]\nSendo assim, preciso de Fragmentos de Alma de Galo.\nVocê pode me ajudar a encontrar os Fragmentos de Alma?",
+        "es-ES": "[Profeta K]\nNecesito Fragmentos de Alma de Gallo.\n¿Podrías ayudarme a encontrarlos?"
     },
     "IGpNDA": {
-        "ko-KR": "부탁을 들어준다.",
         "en-US": "Agree to the request.",
-        "pt-BR": "Aceita o pedido.",
+        "pt-BR": "Aceitar o pedido.",
         "es-ES": "Aceptar la solicitud."
     },
     "IWpNDA": {
-        "ko-KR": "부탁을 거절한다.",
         "en-US": "Refuse the request.",
-        "pt-BR": "Recusa o pedido.",
+        "pt-BR": "Recusar o pedido.",
         "es-ES": "Rechazar la solicitud."
     },
     "ImpNDA": {
-        "ko-KR": "[예언자 K]\n고맙네.\n여기 영혼의 부적을 주겠네\n이걸 가지고 있는 상태로\n닭의 영혼을 얻을 수 있는\n몬스터를 사냥해야 하네.",
         "en-US": "[Prophet K]\nThank you.\nI'll give you this Soul Amulet.\nWhile holding this,\nyou must hunt monsters\nfrom which you can obtain Chicken Souls.",
-        "pt-BR": "[Profeta K]\nAgradeço.\nAqui está o Amuleto da Alma.\nVocê precisa carregá-lo consigo\ne caçar monstros dos quais\npossa obter a Alma de Galo.",
-        "es-ES": "[Profeta K]\nGracias.\nTe daré este Amuleto de Alma.\nDebes llevarlo contigo\ny cazar monstruos de los que\npuedas obtener almas de gallo."
+        "pt-BR": "[Profeta K]\nAgradeço.\nAqui está o Amuleto da Alma.\nVocê precisa carregá-lo consigo e caçar monstros dos quais possa obter Fragmentos de Alma de Galo.",
+        "es-ES": "[Profeta K]\nGracias.\nTe daré este Talismán del Alma.\nDebes llevarlo contigo y cazar monstruos de los que puedas obtener Fragmentos de Alma de Gallo."
     },
     "I2pNDA": {
-        "ko-KR": "[예언자 K]\n모로크 근처에 있는,\n소그라트 사막에 가면\n픽키를 찾을 수 있을 것이네.",
         "en-US": "[Prophet K]\nIf you go to the Sograt Desert\nnear Morroc,\nyou should find Pickys.",
-        "pt-BR": "[Profeta K]\nSe você for para o Deserto Sograt,\nperto de Morroc,\npoderá encontrar Pickys.",
-        "es-ES": "[Profeta K]\nSi vas al Desierto de Sograt,\ncerca de Morroc,\npodrás encontrar Picky."
+        "pt-BR": "[Profeta K]\nSe você for para o Deserto de Sograt, perto de Morroc, poderá encontrar Pickys.",
+        "es-ES": "[Profeta K]\nSi vas al Desierto de Sograt, cerca de Morroc, podrás encontrar Pickys."
     },
     "JGpNDA": {
-        "ko-KR": "[예언자 K]\n픽키를 사냥해\n닭의 영혼조각 100개를\n모아오게!",
         "en-US": "[Prophet K]\nHunt Pickys and\ngather 100 Chicken Soul Fragments!",
-        "pt-BR": "[Profeta K]\nCace Pickys\ne colete 100 Fragmentos de Alma de Galo!",
-        "es-ES": "[Profeta K]\n¡Caza Pickys\ny reúne 100\nFragmentos de Alma de Gallo!"
+        "pt-BR": "[Profeta K]\nCace Pickys e colete 100 Fragmentos de Alma de Galo!",
+        "es-ES": "[Profeta K]\n¡Caza Pickys y reúne Fragmento de Alma de Gallo x100!"
     },
     "JWpNDA": {
-        "ko-KR": "[예언자 K]\n그 정도라면 충분히\n닭의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
         "en-US": "[Prophet K]\nThat amount should be\nsufficient for the ritual to find\nthe person blessed by the Chicken's energy.",
-        "pt-BR": "[Profeta K]\nCom essa quantidade, será\nsuficiente para o ritual\nde encontrar a pessoa\ncom a energia do Galo.",
-        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Gallo."
+        "pt-BR": "[Profeta K]\nEssa quantidade será suficiente para o ritual de encontrar a pessoa com a energia do Galo.",
+        "es-ES": "[Profeta K]\nCon esa cantidad, seguro será suficiente para el ritual para que pueda encontrar a la persona bendecida por la energía del Gallo."
     },
     "JmpNDA": {
-        "ko-KR": "[예언자 K]\n가방에 소지품이 가득하게\n차 있군. 소지품을 줄여야\n나를 도와줄 수 있다네.\n소지품을 줄이고 다시\n다시 나를 찾아오게",
         "en-US": "[Prophet K]\nYour bag is completely full of items.\nYou must reduce your inventory\nto be able to help me.\nReduce your inventory and\ncome find me again.",
-        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nVocê precisa reduzir seus itens\npara poder me ajudar.\nReduza seus itens e\nvolte até mim.",
-        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nDebes reducir el número de objetos\npara poder ayudarme.\nReduce tus objetos y vuelve\na buscarme."
+        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nVocê precisa reduzir seus itens para poder me ajudar.\nReduza seus itens e volte até mim.",
+        "es-ES": "[Profeta K]\nTu mochila está llena.\nDebes tener espacio en tu mochila para poder ayudarme.\nOrganiza tus objetos y vuelve a buscarme."
     },
     "J2pNDA": {
-        "ko-KR": "[예언자 K]\n어쩔 수 없지\n자네의 생각이 그렇다면..\n나에게 더 궁금한 점이 있나?",
         "en-US": "[Prophet K]\nIt can't be helped\nif that's your thinking..\nDo you have any other questions for me?",
         "pt-BR": "[Profeta K]\nNão há outro jeito.\nSe essa é a sua decisão...\nHá algo mais que queira saber?",
-        "es-ES": "[Profeta K]\nNo hay otra opción.\nSi esa es tu decisión...\n¿Hay algo más que quieras saber?"
+        "es-ES": "[Profeta K]\nNo puedo ayudarte.\nSi esa es tu decisión...\n¿Hay algo más que quieras saber?"
     },
     "KGpNDA": {
-        "ko-KR": "[예언자 K]\n세계의 운명이 달린..\n일인데...\n다시 생각 해 보고\n찾아오길 바라네.",
         "en-US": "[Prophet K]\nIt's a matter concerning\nthe fate of the world...\nPlease think it over again\nand come back.",
-        "pt-BR": "[Profeta K]\nÉ algo que envolve\no destino do mundo...\nEspero que reconsidere\ne volte até mim.",
-        "es-ES": "[Profeta K]\nEs un asunto del que depende\nel destino del mundo...\nEspero que lo reconsideres\ny vuelvas a buscarme."
+        "pt-BR": "[Profeta K]\nÉ algo que envolve o destino do mundo...\nEspero que reconsidere e volte até mim.",
+        "es-ES": "[Profeta K]\nDe esto depende el destino del mundo...\nEspero que lo reconsideres y vuelvas a buscarme."
     },
     "KWpNDA": {
-        "ko-KR": "[예언자 K]\n오! 닭의 기운이 가득하군!\n잘 모아왔어 훌륭해~!",
         "en-US": "[Prophet K]\nOh! It's full of the Chicken's energy!\nYou gathered them well, excellent~!",
-        "pt-BR": "[Profeta K]\nOh! Está cheio da energia do Galo!\nVocê os coletou muito bem, excelente~!",
-        "es-ES": "[Profeta K]\n¡Oh! ¡Está lleno de la energía del gallo!\nLos reuniste bien, ¡excelente~!"
+        "pt-BR": "[Profeta K]\nOh! Está cheio da energia do Galo!\nVocê os coletou todos, excelente!",
+        "es-ES": "[Profeta K]\n¡Oh! ¡Está lleno de la energía del Gallo!\n¡Excelente!"
     },
     "KmpNDA": {
-        "ko-KR": "[예언자 K]\n흠.. 하지만 이걸 어쩐다..\n픽키가 가지고 있는\n닭의 기운으로는\n12지신 중 닭의 기운을 받은\n영웅의 위치를 찾는 의식을\n하기 부족한 것 같아..",
         "en-US": "[Prophet K]\nHmm.. But what to do about this..\nIt seems the Chicken energy from the Pickys\nis insufficient..\nfor the ritual to locate the hero\nblessed by the Chicken,\none of the 12 Zodiac Deities..",
-        "pt-BR": "[Profeta K]\nHmm.. Mas o que fazer com isso..\nParece que a energia do Galo\nque os Pickys possuem\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia do Galo entre os 12 Signos Divinos..",
-        "es-ES": "[Profeta K]\nMmm... Pero, ¿qué hago con esto?\nParece que la energía del gallo\nque poseen los Pickys\nes insuficiente para el ritual\npara encontrar la ubicación del héroe\nbendecido por la energía del Gallo\nentre los 12 Signos Zodiacales..."
+        "pt-BR": "[Profeta K]\nHmm... Mas o que fazer com isso...\nParece que a energia do Galo que os Pickys possuem é insuficiente para o ritual...",
+        "es-ES": "[Profeta K]\nMmm... ¿Qué voy a lograr con esto?\nParece que la energía del Gallo que poseen los Pickys no es suficiente para el ritual, no voy a lograr encontrar a aquella persona bendecida por la Deidad del Zodiaco, Gallo."
     },
     "K2pNDA": {
-        "ko-KR": "[예언자 K]\n아무래도 말이야..\n닭의 영혼조각이\n더 필요할 것 같은데 말이야..",
         "en-US": "[Prophet K]\nIt seems, you see..\nthat we need more\nChicken Soul Fragments..",
-        "pt-BR": "[Profeta K]\nParece que..\nprecisamos de mais\nFragmentos de Alma de Galo..",
-        "es-ES": "[Profeta K]\nParece que...\nnecesitamos más Fragmentos de Alma de Gallo..."
+        "pt-BR": "[Profeta K]\nParece que precisamos de mais Fragmentos de Alma de Galo...",
+        "es-ES": "[Profeta K]\nParece que necesitamos más Fragmentos de Alma de Gallo..."
     },
     "LGpNDA": {
-        "ko-KR": "그랜드 페코 라니요..",
         "en-US": "Grand Pecos, you say..",
         "pt-BR": "Grand Pecos, é..",
-        "es-ES": "Grand Peco, dices.."
+        "es-ES": "Gran Peco, dices..."
     },
     "LWpNDA": {
-        "ko-KR": "[{0}]\n귀여운 그랜드 페코를\n어떻게 제 손으로\n사냥하라는건지..",
         "en-US": "[{0}]\nHow can you ask me to hunt\nthe cute Grand Pecos\nwith my own hands..",
-        "pt-BR": "[{0}]\nComo posso caçar\nos fofos Grand Pecos\ncom minhas próprias mãos..",
-        "es-ES": "[{0}]\nCómo podría cazar\nal adorable Grand Peco\ncon mis propias manos.."
+        "pt-BR": "[{0}]\nComo posso caçar os Grand Pecos fofos com minhas próprias mãos?",
+        "es-ES": "[{0}]\n¿Cómo puedo cazar a los adorables Gran Peco con mis propias manos?"
     },
     "LmpNDA": {
-        "ko-KR": "[예언자 K]\n어리석은 인간아..\n왜 이리도 부끄러워 하느뇨.\n12지신께서 네 곁에 항상\n함께 하신다는 것을 모르느냐..\n특별히 3000만 제니짜리\n모자를 선물로 주려 했거늘..",
         "en-US": "[Prophet K]\nFoolish human..\nWhy are you so ashamed?\nDo you not know that the 12 Zodiac Deities\nare always by your side..\nI was even going to give you a special\n30 million Zeny hat as a gift..",
-        "pt-BR": "[Profeta K]\nHumano tolo..\nPor que está tão envergonhado?\nNão sabe que os 12 Signos Divinos\nestão sempre ao seu lado?\nEu até ia te dar um chapéu especial\nno valor de 30 milhões de Zenny como presente..",
-        "es-ES": "[Profeta K]\nHumano necio...\n¿Por qué tanta vergüenza?\n¿No sabes que los 12 Dioses Zodiacales\nsiempre están a tu lado...?\nIncluso tenía pensado regalarte\nun gorro valorado en 30,000,000 de zeny..."
+        "pt-BR": "[Profeta K]\nHumano tolo...\nPor que está tão envergonhado?\nNão sabe que os 12 Signos Divinos estão sempre ao seu lado?\nEu até ia te dar um chapéu especial no valor de 30 milhões de Zeny como presente...",
+        "es-ES": "[Profeta K]\nHumano necio...\n¿Por qué haces esa pregunta?\n¿No sabes que las 12 Deidades del Zodiaco siempre están de tu lado?\nHabía pensado en regalarte un gorro valorado en 30,000,000 zeny..."
     },
     "L2pNDA": {
-        "ko-KR": "[{0}]\n하지만 귀여운..\n그랜드 페코를..어떻게..",
         "en-US": "[{0}]\nBut the cute..\nGrand Pecos.. how..",
-        "pt-BR": "[{0}]\nMas os fofos..\nGrand Pecos.. como..",
-        "es-ES": "[{0}]\nPero el adorable..\nGrand Peco.. cómo.."
+        "pt-BR": "[{0}]\nMas os Grand Pecos fofos...",
+        "es-ES": "[{0}]\nPero los adorables Gran Peco.."
     },
     "MGpNDA": {
-        "ko-KR": "[예언자 K]\n이번에는 특별히\n닭의 기운이 가득한\n귀엽고 유쾌한!\n그런 모자라네!",
         "en-US": "[Prophet K]\nThis time, very specially,\nit's a hat filled with the Chicken's energy\nthat is cute and cheerful!\nThat kind of hat!",
-        "pt-BR": "[Profeta K]\nDesta vez é muito especial,\né um chapéu fofo e alegre,\ncheio da energia do galo!\nUm chapéu assim!",
-        "es-ES": "[Profeta K]\n¡Esta vez es especial!\n¡Es un gorro lindo y alegre,\nlleno de la energía del gallo!"
+        "pt-BR": "[Profeta K]\nDesta vez é muito especial, é um chapéu fofo e alegre, cheio da energia do galo!\nUm chapéu desse jeito!",
+        "es-ES": "[Profeta K]\n¡Esta vez es especial!\n¡Es un gorro lindo y alegre, lleno de la energía del Gallo!"
     },
     "MWpNDA": {
-        "ko-KR": "[{0}]\n흐..흠.! 그..그렇다면..\n꼭.. 구해오곘습니다!",
         "en-US": "[{0}]\nH..Hmm.! Th..Then..\nI..I will definitely go get them!",
-        "pt-BR": "[{0}]\nHm..Hmm.! En..tão..\nCo.. com certeza vou trazê-los!",
-        "es-ES": "[{0}]\n¡Mm...! En-ton-ces...\n¡Def-init-iva-mente lo traeré!"
+        "pt-BR": "[{0}]\nHm...Hmm! E-então...\nC-com certeza vou trazê-los!",
+        "es-ES": "[{0}]\n¡Mm...! Entonces...\n¡Definitivamente cuenta conmigo!"
     },
     "MmpNDA": {
-        "ko-KR": "[예언자 K]\n오해가 풀려서 다행이야\n후후훗.....\n어서 구해와주길 부탁하네.\n흠흠..",
         "en-US": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHoo hoo hoot.....\nI ask that you please go get them quickly.\nAhem, ahem..",
-        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu.....\nPor favor, traga-os para mim.\nHum hum..",
-        "es-ES": "[Profeta K]\nMe alegra que hayas entendido.\nJujuju.....\nTe ruego que lo consigas pronto.\nEjém, ejém.."
+        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido!\nHuhuhu...\nPor favor, traga-os para mim.\nHum hum...",
+        "es-ES": "[Profeta K]\nMe alegra que hayas entendido, jeje...\nApúrate a conseguir los Fragmentos.\nHm, hm..."
     },
     "M2pNDA": {
-        "ko-KR": "영혼을 모아오는 걸 포기한다",
         "en-US": "Give up on gathering the souls.",
-        "pt-BR": "Desiste de coletar as almas.",
-        "es-ES": "Abandonar la recolección de almas."
+        "pt-BR": "Desistir de coletar as almas.",
+        "es-ES": "Renuncio a la tarea."
     },
     "NGpNDA": {
-        "ko-KR": "[예언자 K]\n이런... 정말 포기하려 하는가?\n이런... 큰일났군..\n나의 예지몽은 분명히 그들을\n찾아야 하는데...\n정말 포기할텐가?",
         "en-US": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is a big problem..\nMy prophetic dream clearly said we must\nfind them...\nAre you really going to give up?",
-        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não.. que problema..\nMeu sonho premonitório claramente diz\nque preciso encontrá-los...\nVocê realmente vai desistir?",
-        "es-ES": "[Profeta K]\nVaya... ¿De verdad piensas rendirte?\nEsto es malo...\nMi sueño profético claramente indica\nque debo encontrarlos...\n¿De verdad te rendirás?"
+        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não... que problema...\nMeu sonho premonitório claramente diz que preciso encontrá-los...\nVocê realmente vai desistir?",
+        "es-ES": "[Profeta K]\n¿De verdad piensas rendirte?\nEsto es malo...\nMi sueño claramente decía que esto era importante.\n¿De verdad te rendirás?"
     },
     "NWpNDA": {
-        "ko-KR": "포기한다.",
         "en-US": "I give up.",
-        "pt-BR": "Desisto.",
-        "es-ES": "Rendirse."
+        "pt-BR": "Desistir.",
+        "es-ES": "Me rindo."
     },
     "NmpNDA": {
-        "ko-KR": "포기하지 않는다.",
         "en-US": "I won't give up.",
-        "pt-BR": "Não desisto.",
-        "es-ES": "No rendirse."
+        "pt-BR": "Não desistir.",
+        "es-ES": "No me rindo."
     },
     "N2pNDA": {
-        "ko-KR": "[예언자 K]\n정 생각이 그렇다면\n어쩔 수 없지.\n생각이 바뀌면\n다시 나를 찾아오도록 하게.",
         "en-US": "[Prophet K]\nIf that's truly your decision,\nthen it can't be helped.\nIf you change your mind,\ncome find me again.",
-        "pt-BR": "[Profeta K]\nBem, se essa é a sua decisão,\nnão há o que fazer.\nSe mudar de ideia,\nvolte até mim.",
-        "es-ES": "[Profeta K]\nSi esa es tu decisión,\nno hay más remedio.\nSi cambias de opinión,\nvuelve a buscarme."
+        "pt-BR": "[Profeta K]\nBem, se essa é a sua decisão não há o que fazer.\nSe mudar de ideia, volte até mim.",
+        "es-ES": "[Profeta K]\nSi esa es tu decisión, no puedo hacer nada.\nSi cambias de opinión, vuelve a buscarme."
     },
     "OGpNDA": {
-        "ko-KR": "[예언자 K]\n그래, 잘 생각했네.\n어서 빨리 영혼 조각을\n찾아오도록 하게!",
         "en-US": "[Prophet K]\nGood, you thought well.\nHurry and go find\nthe soul fragments quickly!",
-        "pt-BR": "[Profeta K]\nCerto, boa decisão.\nRápido, vá buscar\nos Fragmentos de Alma!",
-        "es-ES": "[Profeta K]\nBien, buena decisión.\n¡Date prisa y trae\nlos Fragmentos de Alma!"
+        "pt-BR": "[Profeta K]\nCerto, boa decisão.\nRápido, vá buscar os Fragmentos de Alma!",
+        "es-ES": "[Profeta K]\nBien, buena decisión.\n¡Apúrate y trae los Fragmentos de Alma!"
     },
     "OWpNDA": {
-        "ko-KR": "[예언자 K]\n12지신 중 닭의 기운을 받은\n영웅의 위치를 아직 찾지\n못 했나 보군",
         "en-US": "[Prophet K]\nIt seems you still haven't found\nthe location of the hero blessed by the Chicken,\none of the 12 Zodiac Deities.",
-        "pt-BR": "[Profeta K]\nParece que você ainda não encontrou\na localização do herói\nque possui a energia do Galo entre os 12 Signos Divinos.",
-        "es-ES": "[Profeta K]\nParece que aún no has encontrado\nla ubicación del héroe bendecido\npor la energía del Gallo entre los 12 Signos Zodiacales."
+        "pt-BR": "[Profeta K]\nParece que você ainda não encontrou a localização do herói que possui a energia do Galo entre os 12 Signos Divinos.",
+        "es-ES": "[Profeta K]\nParece que todavía no encuentras en dónde está el héroe bendecido por la energía del Gallo, la Deidad del Zodiaco."
     },
     "OmpNDA": {
-        "ko-KR": "[예언자 K]\n마나가 가득하고\n마법의 신비함이 숨쉬는 곳!",
         "en-US": "[Prophet K]\nA place full of mana\nwhere the mystery of magic breathes!",
-        "pt-BR": "[Profeta K]\nUm lugar cheio de mana\ne onde o mistério da magia respira!",
-        "es-ES": "[Profeta K]\n¡Un lugar lleno de maná\ndonde el misterio de la magia respira!"
+        "pt-BR": "[Profeta K]\nUm lugar cheio de mana e onde o mistério da magia respira!",
+        "es-ES": "[Profeta K]\n¡Un lugar lleno de maná donde el misterio de la magia respira!"
     },
     "O2pNDA": {
-        "ko-KR": "[예언자 K]\n내가 준 밀서를 잃어버린건가?\n어쩔 수 없구만.\n다시 주겠네.",
         "en-US": "[Prophet K]\nDid you lose the secret letter I gave you?\nIt can't be helped then.\nI'll give you another one.",
         "pt-BR": "[Profeta K]\nPerdeu a carta secreta que eu lhe dei?\nNão tem outro jeito.\nAqui está outra.",
-        "es-ES": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nQué se le va a hacer.\nTe la daré de nuevo."
+        "es-ES": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nNi modo, tendré que darte otra."
     },
     "PGpNDA": {
-        "ko-KR": "[예언자 K]\n오 돌아왔군!\n닭의 기운을 받은\n영웅은 잘 찾았나?\n그래, 이야기는 어떻게\n진행됐나?",
         "en-US": "[Prophet K]\nOh, you're back!\nDid you find the hero\nblessed by the Chicken's energy well?\nSo, how did the conversation go?",
-        "pt-BR": "[Profeta K]\nOh, você voltou!\nConseguiu encontrar o herói\nque possui a energia do Galo?\nCerto, como foi\na conversa?",
-        "es-ES": "[Profeta K]\n¡Oh, has vuelto!\n¿Lograste encontrar al héroe\nbendecido por la energía del Gallo?\nDime, ¿cómo fue\nla conversación?"
+        "pt-BR": "[Profeta K]\nOh, você voltou!\nConseguiu encontrar o herói que possui a energia do Galo?\nCerto, como foi a conversa?",
+        "es-ES": "[Profeta K]\n¡Volviste!\n¿Lograste encontrar al héroe bendecido por la energía del Gallo?\nDime, ¿qué te dijo?"
     },
     "PWpNDA": {
-        "ko-KR": "- 그 동안 있었던 일을 -\n- 전부 이야기 했다. -",
         "en-US": "- I told him everything -\n- that happened during this time. -",
-        "pt-BR": "- Contou tudo que -\n- aconteceu até agora. -",
+        "pt-BR": "- Você conta tudo que aconteceu até agora. -",
         "es-ES": "- Le conté todo lo que había sucedido -"
     },
     "PmpNDA": {
-        "ko-KR": "[예언자 K]\n그래...그런 일이 있었군.\n좋아, 나머지는 내가 직접\n찾아가서 이야기 해 보도록\n하겠어.",
         "en-US": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself\nto find him and talk to him\nfrom here on out.",
-        "pt-BR": "[Profeta K]\nCerto... Então isso aconteceu.\nOk, o resto eu mesmo\nvou até lá\npara conversar.",
-        "es-ES": "[Profeta K]\nYa veo... Eso pasó.\nBien, el resto lo haré yo mismo,\niré personalmente\ny hablaré con él."
+        "pt-BR": "[Profeta K]\nCerto... Então isso aconteceu.\nOk, o resto eu mesmo vou até lá para conversar.",
+        "es-ES": "[Profeta K]\nYa veo, bien...\nEl resto me toca a mí, iré personalmente y hablaré con él."
     },
     "P2pNDA": {
-        "ko-KR": "[예언자 K]\n그 동안 너무 고마웠네\n그에대한 보답으로\n자네가 구해왔던\n영혼 조각이 조금 남아서\n12지신의 기운을 담아\n모자를 한번 만들어봤네.",
         "en-US": "[Prophet K]\nThank you so much for all your help.\nAs a reward,\nthere were some soul fragments left\nfrom what you gathered,\nso I tried making a hat\nimbued with the energy of the 12 Zodiac Deities.",
-        "pt-BR": "[Profeta K]\nMuito obrigado por tudo\naté agora.\nComo recompensa,\nsobraram alguns dos\nFragmentos de Alma que você coletou,\nentão imbui com a energia dos 12 Signos Divinos\ne fiz um chapéu para você.",
-        "es-ES": "[Profeta K]\nMuchas gracias por todo este tiempo.\nComo recompensa por ello,\nsobraron algunos de los\nFragmentos de Alma que conseguiste,\nasí que, imbuyéndolos con la energía\nde los 12 Signos Zodiacales, hice un gorro."
+        "pt-BR": "[Profeta K]\nMuito obrigado por tudo até agora.\nComo recompensa, sobraram alguns dos Fragmentos de Alma que você coletou, então imbui com a energia dos 12 Signos Divinos e fiz um chapéu para você.",
+        "es-ES": "[Profeta K]\nMuchas gracias por tu ayuda.\nComo recompensa, te hice un gorro que imbuí con la energía de las 12 Deidades del Zodiaco con los Fragmentos de Alma que sobraron."
     },
     "QGpNDA": {
-        "ko-KR": "[예언자 K]\n특별한 12지신의 기운이\n담긴 모자라서 3000만 제니의\n가치가 있지만 자네는 나를\n도와줬으니 특별히 20만제니에\n주도록 하지. 어떤가?",
         "en-US": "[Prophet K]\nIt's a special hat imbued with the energy\nof the 12 Zodiac Deities, worth 30 million Zeny,\nbut since you helped me,\nI'll specially give it to you for 200,000 Zeny.\nWhat do you say?",
-        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuiído com\na energia dos 12 Signos Divinos, vale 30 milhões de Zenny,\nmas como você me ajudou,\nvou te dar por um preço especial de 200k Zenny.\nO que acha?",
-        "es-ES": "[Profeta K]\nEs un gorro imbuido con la energía especial\nde los 12 Signos Zodiacales, con un valor de 30,000,000 de zeny,\npero como me ayudaste,\nte lo dejaré especial por 200,000 zeny.\n¿Qué te parece?"
+        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuído com a energia dos 12 Signos Divinos, vale 30 milhões de Zeny, mas como você me ajudou vou te dar por um preço especial de 200 mil Zeny.\nO que acha?",
+        "es-ES": "[Profeta K]\nEs un gorro imbuido con la energía especial de las 12 Deidades del Zodiaco, con un valor de 30,000,000 de zeny, pero como me ayudaste, te lo dejaré a un precio especial de 200,000 zeny. ¿Qué te parece?"
     },
     "QWpNDA": {
-        "ko-KR": "[{0}]\n너무 비싼거 아니에요?..",
         "en-US": "[{0}]\nIsn't it too expensive?..",
-        "pt-BR": "[{0}]\nNão é muito caro?..",
-        "es-ES": "[{0}]\n¿No es demasiado caro?.."
+        "pt-BR": "[{0}]\nNão é muito caro?",
+        "es-ES": "[{0}]\n¿No es demasiado caro?"
     },
     "QmpNDA": {
-        "ko-KR": "[예언자 K]\n잘 생각 해봐...\n무려 3000만 제니야!",
         "en-US": "[Prophet K]\nThink about it carefully...\nIt's a whopping 30 million Zeny!",
-        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 30 milhões de Zenny!",
-        "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Son 30,000,000 de zeny!"
+        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 30 milhões de Zeny!",
+        "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Son 30,000,000 zeny!"
     },
     "Q2pNDA": {
-        "ko-KR": "[예언자 K]\n선택에 후회는 절대\n없을 것 이네~!",
         "en-US": "[Prophet K]\nYou will absolutely never\nregret this choice~!",
-        "pt-BR": "[Profeta K]\nVocê definitivamente não\nse arrependerá da escolha~!",
+        "pt-BR": "[Profeta K]\nVocê definitivamente não se arrependerá da escolha!",
         "es-ES": "[Profeta K]\n¡Nunca te arrepentirás\nde esta elección~!"
     },
     "RGpNDA": {
-        "ko-KR": "제니가 부족..",
         "en-US": "Not enough Zeny...",
-        "pt-BR": "Estou sem Zenny..",
+        "pt-BR": "Estou sem Zeny...",
         "es-ES": "No tengo suficiente zeny..."
     },
     "RWpNDA": {
-        "ko-KR": "알겠어요, 20만제니에 주세요.",
         "en-US": "Okay, I'll take it for 200,000 Zeny.",
-        "pt-BR": "Tudo bem, me dê por 200k Zenny.",
-        "es-ES": "Está bien, démelos por 200,000 zeny."
+        "pt-BR": "Tudo bem, me dê por 200 mil Zeny.",
+        "es-ES": "Está bien, dámelo por 200,000 zeny."
     },
     "RmpNDA": {
-        "ko-KR": "[예언자 K]\n흐흠....\n12지신의 기운이 담긴!\n3000만 제니의 가치를 지닌\n신의 영물인데...\n그럴 수는 없네!\n빌려서 라도 오게나~!",
         "en-US": "[Prophet K]\nAhem....\nImbued with the energy of the 12 Zodiac Deities!\nA divine artifact worth 30 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nAhem....\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 30 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
-        "es-ES": "[Profeta K]\nEjem....\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 30,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
+        "pt-BR": "[Profeta K]\nAhem...\nEle é embuído com a energia dos 12 Signos Divinos!\nTem o valor de 30 milhões de Zeny, é uma relíquia divina...\nNão seja assim!\nCompre ele mesmo que tenha que pedir Zeny emprestado!",
+        "es-ES": "[Profeta K]\nEjem...\n¡Está imbuido con la energía de las 12 Deidades del Zodiaco!\n¡Tiene un valor de 30,000,000 zeny, es una reliquia divina!\n¡Eso es tacañería!\n¡Consigue más zeny! Pide prestado, si es necesario."
     },
     "R2pNDA": {
-        "ko-KR": "[예언자 K]\n특별히 아주 좋은 옵션을\n넣을 수 있도록 노력했지만..\n아쉽게도 그렇게\n만들지는 못했어.\n어쨋든 마음에 들었으면\n좋겠군.",
         "en-US": "[Prophet K]\nI tried specially to add\nvery good options..\nBut unfortunately,\nI couldn't make it that way.\nAnyway, I hope you like it.",
-        "pt-BR": "[Profeta K]\nTentei especialmente colocar\nopções muito boas nele..\nInfelizmente, não consegui\nfazê-lo daquela forma.\nDe qualquer modo, espero\nque goste.",
-        "es-ES": "[Profeta K]\nIntenté especialmente esforzarme\npara incluir opciones muy buenas...\nPero lamentablemente,\nno logré hacerlo tan bien.\nEspero que te guste, de todas formas."
+        "pt-BR": "[Profeta K]\nTentei especialmente colocar opções muito boas nele...\nInfelizmente, não consegui fazê-lo...\nDe qualquer modo, espero que goste.",
+        "es-ES": "[Profeta K]\nIntenté especialmente esforzarme para poner buenas opciones en él...\nLamentablemente, no logré hacerlo tan bien.\nEspero que aun así te guste."
     },
     "SGpNDA": {
-        "ko-KR": "[예언자 K]\n하지만,\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같네.",
         "en-US": "[Prophet K]\nHowever,\nit seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes blessed by the energy\nof the 12 Zodiac Deities will surely continue.",
-        "pt-BR": "[Profeta K]\nNo entanto,\nacho que meu sonho premonitório\nainda não terminou.\nParece que certamente\nsonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
-        "es-ES": "[Profeta K]\nSin embargo,\ncreo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes bendecidos por la energía\nde los 12 Signos Zodiacales continuarán."
+        "pt-BR": "[Profeta K]\nNo entanto, acho que meus sonhos premonitórios ainda não terminaram.\nParece que sonhos premonitórios sobre os outros heróis que possuem a energia dos 12 Signos Divinos virão.",
+        "es-ES": "[Profeta K]\nPero siento que la profecía aún no ha terminado.\nParece que los sueños sobre los otros héroes bendecidos por la energía de las 12 Deidades del Zodiaco seguirán."
     },
     "SWpNDA": {
-        "ko-KR": "[예언자 K]\n얼마 후 다시 나를 찾아와주게\n분명히 도와줄 일이 있을거야.",
         "en-US": "[Prophet K]\nCome find me again after a while.\nI'm sure there will be something you can help with.",
         "pt-BR": "[Profeta K]\nVolte até mim depois de um tempo.\nCertamente terei algo para sua ajuda.",
-        "es-ES": "[Profeta K]\nBúscame de nuevo en unos días.\nSeguramente habrá cosas en las que puedas ayudarme."
+        "es-ES": "[Profeta K]\nBúscame de nuevo en unos días.\nSeguramente habrá más cosas en las que podrás ayudarme."
     },
     "SmpNDA": {
-        "ko-KR": "[예언자 K]\n제니가 부족하군!\n12지신의 기운이 담긴!\n3000만 제니의 가치를 지닌\n신의 영물인데...\n그럴 수는 없네!\n빌려서 라도 오게나~!",
         "en-US": "[Prophet K]\nYou don't have enough Zeny!\nIt's a divine artifact imbued with the energy\nof the 12 Zodiac Deities, worth 30 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nEstá sem Zenny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 30 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
-        "es-ES": "[Profeta K]\n¡Te falta zeny!\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 30,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
+        "pt-BR": "[Profeta K]\nEstá sem Zeny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 30 milhões de Zeny, é uma relíquia divina...\nNão seja assim!\nVolte mesmo que tenha que pedir Zeny emprestado!",
+        "es-ES": "[Profeta K]\n¡Te falta zeny!\n¡Está imbuido con la energía de las 12 Deidades del Zodiaco!\n¡Tiene un valor de 30,000,000 zeny, es una reliquia divina!\n¡Eso es tacañería!\n¡Consigue más zeny! Pide prestado, si es necesario."
     },
     "S2pNDA": {
-        "ko-KR": "[예언자 K]\n가방에 소지품이 가득하게\n차 있군.\n소지품을 줄이고 다시\n다시 나를 찾아오게",
         "en-US": "[Prophet K]\nYour bag is completely full of items.\nReduce your inventory and\ncome find me again.",
-        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nReduza seus itens e\nvolte até mim.",
-        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nReduce tus objetos y vuelve\na buscarme."
+        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nReduza seus itens e volte até mim.",
+        "es-ES": "[Profeta K]\nTu mochila está llena.\nDebes tener espacio en tu mochila para poder ayudarme.\nOrganiza tus objetos y vuelve a buscarme."
     },
     "TGpNDA": {
-        "ko-KR": "[예언자 K]\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같아.",
         "en-US": "[Prophet K]\nIt seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes blessed by the energy\nof the 12 Zodiac Deities will surely continue.",
-        "pt-BR": "[Profeta K]\nAcho que meu sonho premonitório\nainda não terminou.\nParece que certamente\nsonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
-        "es-ES": "[Profeta K]\nCreo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes bendecidos por la energía\nde los 12 Signos Zodiacales continuarán."
+        "pt-BR": "[Profeta K]\nAcho que meus sonhos premonitórios ainda não terminaram.\nParece que sonhos premonitórios sobre os outros heróis que possuem a energia dos 12 Signos Divinos virão.",
+        "es-ES": "[Profeta K]\nPero siento que la profecía aún no ha terminado.\nParece que los sueños sobre los otros héroes bendecidos por la energía de las 12 Deidades del Zodiaco seguirán."
     },
     "TWpNDA": {
-        "ko-KR": "밸런 그레이",
         "en-US": "Valen Gray",
-        "pt-BR": "Valen Gray",
+        "pt-BR": "Balen Gray",
         "es-ES": "Valen Gray"
     },
     "TmpNDA": {
-        "ko-KR": "[밸런 그레이]\n날씨도 추워지고..\n외롭고...\n쓸쓸 하네....",
         "en-US": "[Valen Gray]\nThe weather is getting colder..\nLonely...\nDesolate....",
-        "pt-BR": "[Valen Gray]\nO tempo está ficando mais frio..\nEstou solitário...\nQue solidão....",
-        "es-ES": "[Valen Gray]\nEl clima se está enfriando..\nEstoy solo...\ny melancólico...."
+        "pt-BR": "[Balen Gray]\nO tempo está ficando mais frio...\nMe sinto só...\nQue solidão...",
+        "es-ES": "[Valen Gray]\nEl clima se está enfriando.\nEstoy solo...\nDesolado..."
     },
     "T2pNDA": {
-        "ko-KR": "-예언자 K가 말한 사람이 맞는 것 같은데 ^4D4DFF예언자 K의 밀서^000000가 없다.-",
         "en-US": "- It seems like the person Prophet K mentioned, but I don't have ^4D4DFFProphet K's Secret Letter^000000. -",
         "pt-BR": "- Parece ser a pessoa de quem o Profeta K falou, mas você não tem a ^4D4DFFCarta Secreta do Profeta K^000000. -",
-        "es-ES": "- Parece ser la persona de la que habló el Profeta K, pero no tengo la ^4D4DFFcarta secreta del Profeta K^000000.-"
+        "es-ES": "- Parece que es la persona de quien habló el Profeta K, pero no tengo la ^4D4DFFCarta Secreta del Profeta K^000000.-"
     },
     "UGpNDA": {
-        "ko-KR": "- 뭐라고 말을 걸어야 할까? -",
         "en-US": "- What should I say to him? -",
         "pt-BR": "- O que devo dizer para ele? -",
         "es-ES": "- ¿Qué debería decirle? -"
     },
     "UWpNDA": {
-        "ko-KR": "인상이 참 좋으세요.",
         "en-US": "You have a very nice impression.",
         "pt-BR": "Você tem uma boa aparência.",
-        "es-ES": "Tiene una impresión muy favorable."
+        "es-ES": "Te ves muy bien."
     },
     "UmpNDA": {
-        "ko-KR": "기운이 참 좋으세요",
         "en-US": "You have very good energy.",
         "pt-BR": "Você tem uma boa energia.",
-        "es-ES": "Tiene muy buena energía."
+        "es-ES": "Tienes buena energía."
     },
     "U2pNDA": {
-        "ko-KR": "얼굴에서 빛이 나시네요",
         "en-US": "Your face is glowing.",
         "pt-BR": "Seu rosto está brilhando.",
-        "es-ES": "Su rostro irradia luz."
+        "es-ES": "Tu rostro irradia luz."
     },
     "VGpNDA": {
-        "ko-KR": "조상님이 공덕을 많이 쌓았나봐요",
         "en-US": "Your ancestors must have accumulated much merit.",
         "pt-BR": "Parece que seus ancestrais acumularam muitos méritos.",
-        "es-ES": "Parece que sus ancestros acumularon muchas buenas acciones."
+        "es-ES": "Parece que tus ancestros acumularon buenas acciones."
     },
     "VWpNDA": {
-        "ko-KR": "[밸런 그레이]\n당신 인상이 더 좋은듯...\n...",
         "en-US": "[Valen Gray]\nYour impression seems better...\n...",
-        "pt-BR": "[Valen Gray]\nSua aparência é melhor...\n...",
-        "es-ES": "[Valen Gray]\nUsted tiene mejor impresión...\n..."
+        "pt-BR": "[Balen Gray]\nSua aparência é melhor...\n...",
+        "es-ES": "[Valen Gray]\nTú te ves mejor que yo...\n..."
     },
     "VmpNDA": {
-        "ko-KR": "[밸런 그레이]\n용건이나 말씀하시죠\n무슨일로.. 저를?",
         "en-US": "[Valen Gray]\nJust state your business.\nFor what reason.. are you approaching me?",
-        "pt-BR": "[Valen Gray]\nDiga logo o que quer\nO que traz.. você até mim?",
-        "es-ES": "[Valen Gray]\nMejor dígame el motivo\n¿A qué debo... su visita?"
+        "pt-BR": "[Balen Gray]\nDiga logo o que quer.\nO que traz você até mim?",
+        "es-ES": "[Valen Gray]\nMejor dime qué quieres.\n¿A qué debo tu visita?"
     },
     "V2pNDA": {
-        "ko-KR": "예언자 K의 밀서를 건넨다",
         "en-US": "Hand over Prophet K's Secret Letter.",
         "pt-BR": "Entrega a Carta Secreta do Profeta K.",
         "es-ES": "Entregar la carta secreta del Profeta K."
     },
     "WGpNDA": {
-        "ko-KR": "- 에언자 K의 밀서를 -\n- 건네고 자초지종을 -\n- 이야기 했다. -",
         "en-US": "- Handed over Prophet K's Secret Letter -\n- and explained the whole story. -",
-        "pt-BR": "- Entrega a Carta Secreta do -\n- Profeta K e explica -\n- toda a situação. -",
-        "es-ES": "- Le entregué la carta secreta del Profeta K -\n- y le conté todos los detalles -"
+        "pt-BR": "- Entrega a Carta Secreta do Profeta K e explica toda a situação. -",
+        "es-ES": "- Entrega la carta secreta del Profeta K -\n- Cuéntale todos los detalles -"
     },
     "WWpNDA": {
-        "ko-KR": "[밸런 그레이]\n솔직히 당신의 말을\n쉽게 믿을 수는 없어요.\n꼭 사기꾼이 하는\n말 처럼 들려요",
         "en-US": "[Valen Gray]\nFrankly, I can't easily\nbelieve your words.\nIt sounds just like\nwhat a scammer would say.",
-        "pt-BR": "[Valen Gray]\nSinceramente, não posso\nacreditar facilmente em suas palavras.\nSoam como as palavras\nde um golpista.",
-        "es-ES": "[Valen Gray]\nSinceramente, no puedo\ncreer sus palabras tan fácilmente.\nSuenan como las cosas\nque diría un estafador."
+        "pt-BR": "[Balen Gray]\nSinceramente, não posso acreditar facilmente em suas palavras.\nSoam como as palavras de um golpista.",
+        "es-ES": "[Valen Gray]\nSinceramente, no puedo creer en tus palabras tan fácilmente.\nSuenan como las cosas que diría un estafador."
     },
     "WmpNDA": {
-        "ko-KR": "[밸런 그레이]\n당신의 말을 믿고\n이 밀서를 읽게 하고 싶다면\n당신에 대한 신뢰가 필요해요.",
         "en-US": "[Valen Gray]\nIf you want me to believe your words\nand read this secret letter,\nI need to have trust in you.",
-        "pt-BR": "[Valen Gray]\nSe você quer que eu acredite em você\ne leia esta carta secreta,\npreciso confiar em você.",
-        "es-ES": "[Valen Gray]\nSi quiero creer en usted\ny leer esta carta secreta,\nnecesito tener confianza en usted."
+        "pt-BR": "[Balen Gray]\nSe você quer que eu acredite em você e leia esta carta secreta, preciso primeiro confiar em você.",
+        "es-ES": "[Valen Gray]\nSi quieres que crea en ti y lea la Carta secreta, necesito generar confianza en ti."
     },
     "W2pNDA": {
-        "ko-KR": "제가 어떻게 하면..될까요?",
         "en-US": "What should I do..?",
-        "pt-BR": "O que devo fazer..?",
+        "pt-BR": "O que devo fazer?",
         "es-ES": "¿Qué debo hacer...?"
     },
     "XGpNDA": {
-        "ko-KR": "[밸런 그레이]\n음... 제가 지금\n꼭 필요한게 있거든요,\n그 걸 가져다 주시면\n그쪽에서 그만큼 의지가\n있는 걸로 판단 할게요",
         "en-US": "[Valen Gray]\nHmm... There's something\nI really need right now.\nIf you can bring that to me,\nI'll take it as a sign of your\nsincerity.",
-        "pt-BR": "[Valen Gray]\nHmm... No momento,\nhá algo que eu realmente preciso,\nse você trouxer isso para mim,\nvou considerar isso como um sinal\nde sua sinceridade.",
-        "es-ES": "[Valen Gray]\nMmm... En este momento\nhay algo que necesito mucho.\nSi me lo trae,\nlo tomaré como una muestra\nde su determinación."
+        "pt-BR": "[Balen Gray]\nHmm... No momento, há algo que eu realmente preciso, se você trouxer isso para mim, vou considerar isso como um sinal de sua sinceridade.",
+        "es-ES": "[Valen Gray]\nMmm... Hay algo que de verdad necesito. Si me lo traes, lo tomaré como una muestra de sinceridad."
     },
     "XWpNDA": {
-        "ko-KR": "[밸런 그레이]\n제가 해양 생물과 관련된\n수집 취미가 있어서요\n소라 20개,\n집게발 20개를\n구해다 주세요",
         "en-US": "[Valen Gray]\nI have a collecting hobby\nrelated to marine creatures.\nPlease get me\n20 Conch Shells,\nand 20 Claws.",
-        "pt-BR": "[Valen Gray]\nTenho um hobby de colecionar\nitens relacionados a criaturas marinhas.\nPreciso que você me traga\n20 Conchas,\ne 20 Pinças de Caranguejo.",
-        "es-ES": "[Valen Gray]\nTengo un hobby de coleccionar\ncosas relacionadas con la vida marina.\nPor favor, consígame\n20 Caracolas\ny 20 Pinzas de Cangrejo."
+        "pt-BR": "[Balen Gray]\nTenho um hobby de colecionar itens relacionados a criaturas marinhas.\nPreciso que você me traga 20 Conchas e 20 Garras de Crustáceo.",
+        "es-ES": "[Valen Gray]\nTengo un pasatiempo de coleccionar cosas relacionadas a criaturas marinas.\nConsigue Caracola x20 y Pinza x20."
     },
     "XmpNDA": {
-        "ko-KR": "[밸런 그레이]\n이즈루드에서 바이아란섬으로\n이동한 후에 해저동굴 던전\n2층으로 가면\n커너투스와 바돈을 볼 수\n있을 거에요.",
         "en-US": "[Valen Gray]\nAfter moving from Izlude to Byalan Island,\ngo to the 2nd floor of the Undersea Cave Dungeon,\nand you should see\nCornutus and Vadon.",
-        "pt-BR": "[Valen Gray]\nDe Izlude, mova-se para a Ilha Byalan\ne depois vá para o 2º andar\ndo Túnel Submarino.\nLá você poderá encontrar\nCornutus e Vadon.",
-        "es-ES": "[Valen Gray]\nSi va de Izlude a la Isla Byalan\ny luego al segundo nivel\nde la mazmorra de la cueva submarina,\npodrá ver\nCornutus y Vadon."
+        "pt-BR": "[Balen Gray]\nVá para Izlude, então siga para a Ilha Byalan e depois vá para o 1º e 2º andar do Túnel Submarino.\nLá você poderá encontrar Cornutus e Vadon.",
+        "es-ES": "[Valen Gray]\nSi vas de Izlude a la Isla Byalan y luego a la Mazmorra de la cueva submarina de Izlude, piso 2, ahí encontrarás Cornutus y Vadon."
     },
     "X2pNDA": {
-        "ko-KR": "[밸런 그레이]\n커너투스에세 소라를\n바돈에게서 집게발을\n구할 수 있을 거에요.",
         "en-US": "[Valen Gray]\nYou can get Conch Shells from Cornutus\nand Claws from Vadon.",
-        "pt-BR": "[Valen Gray]\nVocê pode obter Conchas dos Cornutus\ne Pinças de Caranguejo dos Vadon.",
-        "es-ES": "[Valen Gray]\nPuede conseguir Caracolas\nde los Cornutus\ny Pinzas de Cangrejo de los Vadon."
+        "pt-BR": "[Balen Gray]\nVocê pode obter Conchas dos Cornutus e Garra de Crustáceo dos Vadon.",
+        "es-ES": "[Valen Gray]\nLos Cornutus tienen Caracola y los Vadon Pinza."
     },
     "YGpNDA": {
-        "ko-KR": "[밸런 그레이]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?\n기다리고 있을게요~!",
         "en-US": "[Valen Gray]\nIf you show that much sincerity,\nI should be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?\nI'll be waiting~!",
-        "pt-BR": "[Valen Gray]\nSe você mostrar essa boa vontade,\nvou conseguir confiar\nsuficientemente na sua história\ne no conteúdo desta carta secreta.\nVocê fará isso, não é?\nEstarei esperando~!",
-        "es-ES": "[Valen Gray]\nSi muestra esa buena voluntad,\ncreeré suficientemente en su historia\ny en el contenido de esta carta secreta.\n¿Aceptará?\n¡Estaré esperando~!"
+        "pt-BR": "[Balen Gray]\nSe você mostrar essa boa vontade vou conseguir confiar suficientemente na sua história e no conteúdo desta carta secreta.\nVocê fará isso, não é?\nEstarei esperando!",
+        "es-ES": "[Valen Gray]\nSi me ayudas, confiaré en ti y creeré tu historia y leeré la Carta secreta.\n¿Aceptas?\n¡Aquí te espero!"
     },
     "YWpNDA": {
-        "ko-KR": "[밸런 그레이]\n음..? 나한테\n할 말이 있지 않았나?..",
         "en-US": "[Valen Gray]\nHmm..? Didn't you have\nsomething to say to me?..",
-        "pt-BR": "[Valen Gray]\nHmm..? Você não tinha\nalgo para me dizer?..",
-        "es-ES": "[Valen Gray]\n¿Mm...? ¿No tenía\nalgo que decirme...?"
+        "pt-BR": "[Balen Gray]\nHmm? Você não tinha\nalgo para me dizer?",
+        "es-ES": "[Valen Gray]\n¿Mm...? ¿Querías decirme algo?"
     },
     "YmpNDA": {
-        "ko-KR": "[밸런 그레이]\n당신 기운이 더 좋은듯..\n...",
         "en-US": "[Valen Gray]\nYour energy seems better..\n...",
-        "pt-BR": "[Valen Gray]\nSua energia é melhor..\n...",
-        "es-ES": "[Valen Gray]\nUsted tiene mejor energía..\n..."
+        "pt-BR": "[Balen Gray]\nSua energia é melhor...\n...",
+        "es-ES": "[Valen Gray]\nTú te ves con más energía...\n..."
     },
     "Y2pNDA": {
-        "ko-KR": "[밸런 그레이]\n당신 얼굴에 빛이 더 나는듯..\n...",
         "en-US": "[Valen Gray]\nYour face seems to glow more..\n...",
-        "pt-BR": "[Valen Gray]\nSeu rosto está mais brilhante..\n...",
-        "es-ES": "[Valen Gray]\nSu rostro irradia más luz..\n..."
+        "pt-BR": "[Balen Gray]\nSeu rosto está mais brilhante...\n...",
+        "es-ES": "[Valen Gray]\nTu rostro irradia más luz..\n..."
     },
     "ZGpNDA": {
-        "ko-KR": "[밸런 그레이]\n당신 조상님이 더 쌓은듯..\n...",
         "en-US": "[Valen Gray]\nYour ancestors seem to have accumulated more..\n...",
-        "pt-BR": "[Valen Gray]\nSeus ancestrais acumularam mais..\n...",
-        "es-ES": "[Valen Gray]\nSus ancestros acumularon más..\n..."
+        "pt-BR": "[Balen Gray]\nSeus ancestrais acumularam mais...\n...",
+        "es-ES": "[Valen Gray]\nTus ancestros acumularon más..\n..."
     },
     "ZWpNDA": {
-        "ko-KR": "[밸런 그레이]\n왠지 나한테 할 이야기가..\n있어 보이는데..",
         "en-US": "[Valen Gray]\nFor some reason, it seems like\nyou have something to tell me..",
-        "pt-BR": "[Valen Gray]\nParece que você tem\nalgo para me dizer..",
-        "es-ES": "[Valen Gray]\nParece que tiene algo\nque contarme..."
+        "pt-BR": "[Balen Gray]\nParece que você tem algo para me dizer...",
+        "es-ES": "[Valen Gray]\nParece que me quieres contar algo..."
     },
     "ZmpNDA": {
-        "ko-KR": "부탁한 걸 가져왔어요",
         "en-US": "I've brought what you asked for.",
         "pt-BR": "Trouxe o que você pediu.",
-        "es-ES": "He traído lo que me pidió."
+        "es-ES": "Aquí tienes lo que me pediste."
     },
     "Z2pNDA": {
-        "ko-KR": "[밸런 그레이]\n음? 구해오시다니..\n신뢰를 드릴 수 밖에 없군요.\n이 정도 노력이라면\n12지신님도 감동하실거에요.\n물론 제 신뢰도\n무한히 쌓였습니다~!",
         "en-US": "[Valen Gray]\nHmm? You brought them..\nI have no choice but to trust you.\nWith this level of effort,\neven the 12 Zodiac Deities would be moved.\nOf course, my trust in you\nhas built up infinitely~!",
-        "pt-BR": "[Valen Gray]\nOh? Você realmente trouxe..\nNão tenho escolha senão confiar em você.\nCom esse esforço,\naté os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você\ncresceu infinitamente~!",
-        "es-ES": "[Valen Gray]\n¿Mm? ¿Los consiguió...?\nNo me queda más que confiar en usted.\nCon ese nivel de esfuerzo,\nhasta los 12 Dioses Zodiacales se conmoverían.\n¡Por supuesto, mi confianza en usted\ntambién ha crecido infinitamente~!"
+        "pt-BR": "[Balen Gray]\nOh? Você realmente trouxe...\nNão tenho escolha senão confiar em você.\nCom esse esforço, até os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você cresceu infinitamente!",
+        "es-ES": "[Valen Gray]\nDe verdad conseguiste todo...\nNo me queda más que confiar en ti.\nCon tanto esfuerzo, hasta las 12 Deidades del Zodiaco se conmoverían.\nY claro que yo también estoy conmovido por el esfuerzo. Confío en ti infinitamente."
     },
     "aGpNDA": {
-        "ko-KR": "[밸런 그레이]\n구해 오신건\n잘 받도록 하겠습니다.\n그리고 당신이 이야기한\n내용과 이 밀서를 신중하게\n읽어보겠습니다.",
         "en-US": "[Valen Gray]\nI'll accept what you\nbrought for me.\nAnd I will carefully read\nthe contents you mentioned\nand this secret letter.",
-        "pt-BR": "[Valen Gray]\nVou receber o que\nvocê trouxe.\nE vou ler com cuidado\na sua história\ne esta carta secreta.",
-        "es-ES": "[Valen Gray]\nAceptaré lo que\nha conseguido.\nY leeré con cuidado\nlo que me ha contado\ny esta carta secreta."
+        "pt-BR": "[Balen Gray]\nVou receber o que você trouxe.\nE vou ler com cuidado a sua história e esta carta secreta.",
+        "es-ES": "[Valen Gray]\nDame la carta.\nVoy a reflexionar lo que me contaste y a leer con cuidado la carta."
     },
     "aWpNDA": {
-        "ko-KR": "[밸런 그레이]\n그럼 이 밀서를 보내준\n예언자 K라는 분에게도\n잘 이야기해주시길.",
         "en-US": "[Valen Gray]\nPlease tell the person who sent this letter,\nProphet K,\nthe same for me.",
-        "pt-BR": "[Valen Gray]\nPor favor, diga também\nao Profeta K, que enviou esta carta,\nque conversei com você.",
-        "es-ES": "[Valen Gray]\nEntonces, por favor, dígale\na esa persona, el Profeta K,\nque me envió esta carta secreta,\nque todo está bien."
+        "pt-BR": "[Balen Gray]\nPor favor, diga também ao Profeta K, que enviou esta carta, que conversei com você.",
+        "es-ES": "[Valen Gray]\nPor favor, dile al Profeta K que leí su carta, que ya hablé contigo."
     },
     "ampNDA": {
-        "ko-KR": "[밸런 그레이]\n음...? 아직 부족해 보이는데요?\n소라 20개,\n집게발 20개를\n구해다 주세요",
         "en-US": "[Valen Gray]\nHmm...? It still seems insufficient?\nPlease get me\n20 Conch Shells,\nand 20 Claws.",
-        "pt-BR": "[Valen Gray]\nHmm...? Ainda parece insuficiente.\nPreciso de 20 Conchas,\ne 20 Pinças de Caranguejo.",
-        "es-ES": "[Valen Gray]\n¿Mm...? Aún parece no ser suficiente.\nPor favor, consiga\n20 Caracolas\ny 20 Pinzas de Cangrejo."
+        "pt-BR": "[Balen Gray]\nHmm...? Ainda parece que ainda falta algumas.\nPreciso de 20 Conchas e 20 Garras de Crustáceo.",
+        "es-ES": "[Valen Gray]\nHm... parece que aún te faltan cosas.\nNecesito Caracola x20 y Pinza x20."
     },
     "a2pNDA": {
-        "ko-KR": "[밸런 그레이]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?",
         "en-US": "[Valen Gray]\nIf you show that much sincerity,\nI should be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?",
-        "pt-BR": "[Valen Gray]\nSe você mostrar essa boa vontade,\nvou conseguir confiar\nsuficientemente na sua história\ne no conteúdo desta carta secreta.\nVocê fará isso, não é?",
-        "es-ES": "[Valen Gray]\nSi muestra esa buena voluntad,\ncreeré suficientemente en su historia\ny en el contenido de esta carta secreta.\n¿Aceptará?"
+        "pt-BR": "[Balen Gray]\nSe você mostrar essa boa vontade, vou conseguir confiar suficientemente na sua história e no conteúdo desta carta secreta.\nVocê fará isso, não é?",
+        "es-ES": "[Valen Gray]\nSi me ayudas, confiaré en ti y creeré tu historia y leeré la Carta secreta.\nMe vas a ayudar, ¿no?"
     },
     "bGpNDA": {
-        "ko-KR": "[밸런 그레이]\n바람도 불고\n쌀쌀 하네....",
         "en-US": "[Valen Gray]\nThe wind is blowing\nand it's chilly....",
-        "pt-BR": "[Valen Gray]\nO vento está soprando\ne está friozinho....",
-        "es-ES": "[Valen Gray]\nEl viento sopla\ny hace frío...."
+        "pt-BR": "[Balen Gray]\nO vento está soprando e está esfriando...",
+        "es-ES": "[Valen Gray]\nEl viento está soplando y hacer frío..."
     }
 }

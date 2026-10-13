@@ -1,47 +1,47 @@
 {
     "YOxT": {
         "en-US": "Mora Resident",
-        "pt-BR": "Morador de Mora",
+        "pt-BR": "Residente de Mora",
         "es-ES": "Posadero"
     },
     "YexT": {
         "en-US": "[Mora Resident]\nPrr... Prr...",
-        "pt-BR": "[Morador de Mora]\nPrr... Prr...",
+        "pt-BR": "[Residente de Mora]\nPrr... Prr...",
         "es-ES": "[Residente de Mora]\n*Prr* *Prr*"
     },
     "YuxT": {
         "en-US": "[Mora Resident]\nZzz...",
-        "pt-BR": "[Morador de Mora]\nZzz...",
+        "pt-BR": "[Residente de Mora]\nZzz...",
         "es-ES": "[Residente de Mora]\nZzz..."
     },
     "Y+xT": {
         "en-US": "[Mora Resident]\n*Snores*...",
-        "pt-BR": "[Morador de Mora]\n*Ronca*...",
+        "pt-BR": "[Residente de Mora]\n*Ronca*...",
         "es-ES": "[Residente de Mora]\n*Ronca*"
     },
     "ZOxT": {
         "en-US": "[Mora Resident]\nMlerm...",
-        "pt-BR": "[Morador de Mora]\nMlerm...",
+        "pt-BR": "[Residente de Mora]\nMlerm...",
         "es-ES": "[Residente de Mora]\n*Mlem*"
     },
     "ZexT": {
         "en-US": "[Mora Resident]\n*Soft snores*...",
-        "pt-BR": "[Morador de Mora]\n*Roncos suaves*...",
+        "pt-BR": "[Residente de Mora]\n*Roncos suaves*...",
         "es-ES": "[Residente de Mora]\n*Ronca suavemente*"
     },
     "ZuxT": {
         "en-US": "[Mora Resident]\n...zzZ",
-        "pt-BR": "[Morador de Mora]\n...zzZ",
+        "pt-BR": "[Residente de Mora]\n...zzZ",
         "es-ES": "[Residente de Mora]\n*zzZ*"
     },
     "Z+xT": {
         "en-US": "Innkeeper",
-        "pt-BR": "Estalajadeira",
+        "pt-BR": "Gerente da Estalagem",
         "es-ES": "Cajón"
     },
     "aOxT": {
         "en-US": "[Innkeeper]\nAh, another new adventurer.\nWhere do you come from?",
-        "pt-BR": "[Estalajadeira]\nAh, outro novo aventureiro.\nDe onde você vem?",
+        "pt-BR": "[Gerente da Estalagem]\nAh, outro novo aventureiro.\nDe onde você vem?",
         "es-ES": "[Posadero]\nEh, otro nuevo trotamundos.\n¿De dónde eres?"
     },
     "aexT": {
@@ -66,17 +66,17 @@
     },
     "bexT": {
         "en-US": "[Innkeeper]\nWhat's the rush?\nYou just got here, but you plan to head somewhere already?",
-        "pt-BR": "[Estalajadeira]\nQual é a pressa?\nAcabou de chegar aqui, mas já está planejando ir para algum lugar?",
+        "pt-BR": "[Gerente da Estalagem]\nQual é a pressa?\nAcabou de chegar aqui, mas já está planejando ir para algum lugar?",
         "es-ES": "[Posadero]\n¿Cuál es la prisa?\n¿Acabas de llegar y ya tienes pensado ir a algún lugar?"
     },
     "buxT": {
         "en-US": "[Innkeeper]\nHaste makes waste they say. Tsk tsk.\nAnyway, your save is done.",
-        "pt-BR": "[Estalajadeira]\nDizem que a pressa é inimiga da perfeição. Tsc tsc.\nDe qualquer forma, seu salvamento está concluído.",
+        "pt-BR": "[Gerente da Estalagem]\nDizem que a pressa é inimiga da perfeição. Tsc tsc.\nDe qualquer forma, seu salvamento está concluído.",
         "es-ES": "[Posadero]\nDicen que la prisa es mala consejera. *Tsc, tsc*\nDe todos modos, ya está guardado."
     },
     "b+xT": {
         "en-US": "[Innkeeper]\nOops, looks like I bothered a tired fella too much.\nIt's 5,000z. You want it?",
-        "pt-BR": "[Estalajadeira]\nOops, parece que eu incomodei demais um cara cansado.\nSão 5.000 z. Você quer?",
+        "pt-BR": "[Gerente da Estalagem]\nOops, parece que eu incomodei demais um cara cansado.\nSão 5.000 z. Você quer?",
         "es-ES": "[Posadero]\nUps, parece que no dejo descansar a nadie.\nSon 5000 zeny. ¿Lo quieres?"
     },
     "cOxT": {
@@ -91,17 +91,17 @@
     },
     "cuxT": {
         "en-US": "[Innkeeper]\nRest up.",
-        "pt-BR": "[Estalajadeira]\nDescanse.",
+        "pt-BR": "[Gerente da Estalagem]\nDescanse.",
         "es-ES": "[Posadero]\nDescansa."
     },
     "c+xT": {
         "en-US": "[Innkeeper]\nThe charge is 5,000z.",
-        "pt-BR": "[Estalajadeira]\nA taxa é de 5.000 z.",
+        "pt-BR": "[Gerente da Estalagem]\nA taxa é de 5.000 z.",
         "es-ES": "[Posadero]\nCuesta 5000 zeny."
     },
     "dOxT": {
         "en-US": "[Innkeeper]\nIf you don't have the money, soak yourself in the pond over yonder at the center of the village.\nIt'll at least warm your body up.",
-        "pt-BR": "[Estalajadeira]\nSe você não tiver dinheiro, mergulhe na lagoa que fica ali no centro da aldeia.\nIsso pelo menos aquecerá seu corpo.",
+        "pt-BR": "[Gerente da Estalagem]\nSe você não tiver dinheiro, mergulhe na lagoa que fica ali no centro da aldeia.\nIsso pelo menos aquecerá seu corpo.",
         "es-ES": "[Posadero]\nSi no tienes dinero, ve a remojarte en el charco del centro de la aldea.\nAl menos te calentará el cuerpo."
     },
     "dexT": {
@@ -116,32 +116,32 @@
     },
     "d+xT": {
         "en-US": "[Innkeeper]\nOh, I think I've heard about that place before!",
-        "pt-BR": "[Estalajadeira]\nAh, acho que já ouvi falar desse lugar antes!",
+        "pt-BR": "[Gerente da Estalagem]\nAh, acho que já ouvi falar desse lugar antes!",
         "es-ES": "[Posadero]\n¡Ah, creo que escuché hablar de ese lugar!"
     },
     "eOxT": {
         "en-US": "[Innkeeper]\nI heard there's a dreadful tower where vicious witches fill a huge pot with Savages and chant horrific incantations.",
-        "pt-BR": "[Estalajadeira]\nOuvi dizer que há uma torre terrível onde bruxas cruéis enchem uma panela enorme com selvagens e fazem encantamentos horríveis.",
+        "pt-BR": "[Gerente da Estalagem]\nOuvi dizer que há uma torre terrível onde bruxas cruéis enchem uma panela enorme com selvagens e fazem encantamentos horríveis.",
         "es-ES": "[Posadero]\nEscuché que hay una torre espeluznante habitada por brujas despiadadas que meten a los Salvajes en ollas gigantes y les lanzan hechizos horribles."
     },
     "eexT": {
         "en-US": "[Innkeeper]\nWhat's scarier is that you can't help but visit the tower again soon if you drink the Savage potion the witches give you!\nYou visit the tower again and again and end up turning into a massive Savage!",
-        "pt-BR": "[Estalajadeira]\nO que é mais assustador é que você não poderá deixar de visitar a torre novamente em breve se beber a poção Selvagem que as bruxas lhe deram!\nVocê visitará a torre várias vezes e acabará se transformando em um enorme Selvagem!",
+        "pt-BR": "[Gerente da Estalagem]\nO que é mais assustador é que você não poderá deixar de visitar a torre novamente em breve se beber a poção Selvagem que as bruxas lhe deram!\nVocê visitará a torre várias vezes e acabará se transformando em um enorme Selvagem!",
         "es-ES": "[Posadero]\n¡Lo que da más miedo es que, si bebes la poción hecha con Salvajes que te dan las brujas, no podrás evitar volver a la torre!\nVuelves a la torre una y otra vez, ¡y acabas convirtiéndote en un enorme Salvaje!"
     },
     "euxT": {
         "en-US": "[Innkeeper]\nHow horrifying!",
-        "pt-BR": "[Estalajadeira]\nQue horror!",
+        "pt-BR": "[Gerente da Estalagem]\nQue horror!",
         "es-ES": "[Posadero]\n¡Qué aterrador!"
     },
     "e+xT": {
         "en-US": "[Innkeeper]\nI heard there's a horrible, mad man who always stands fixed in place, whether it's rainy, windy, his lover calls, or even his parents call, and just stares in one direction!\nAnd that dark clouds are always around him, bringing all these rainstorms!",
-        "pt-BR": "[Estalajadeira]\nOuvi dizer que existe um homem terrível, completamente enlouquecido, que nunca sai do lugar, faça sol, chuva, vento, seja chamado por sua amada ou até pelos próprios pais, ele simplesmente fica ali... parado, encarando uma única direção!\nE dizem que nuvens negras pairam constantemente sobre ele, trazendo tempestades e desgraças por onde passa!",
+        "pt-BR": "[Gerente da Estalagem]\nOuvi dizer que existe um homem terrível, completamente enlouquecido, que nunca sai do lugar, faça sol, chuva, vento, seja chamado por sua amada ou até pelos próprios pais, ele simplesmente fica ali... parado, encarando uma única direção!\nE dizem que nuvens negras pairam constantemente sobre ele, trazendo tempestades e desgraças por onde passa!",
         "es-ES": "[Posadero]\nEscuché que hay un lunático siniestro que nunca se mueve de su lugar, sin importar la lluvia, el viento, las llamadas de su amante o de sus padres, ¡simplemente se queda mirando al horizonte!\nY nubes oscuras de tormenta se forman a su alrededor."
     },
     "fOxT": {
         "en-US": "[Innkeeper]\nSearch through the vegetable-shaped drawer on my right.",
-        "pt-BR": "[Estalajadeira]\nProcure na gaveta em forma de vegetal à minha direita.",
+        "pt-BR": "[Gerente da Estalagem]\nProcure na gaveta em forma de vegetal à minha direita.",
         "es-ES": "[Posadero]\nBusca en el cajón con forma de verdura a mi derecha."
     },
     "fexT": {

@@ -38748,5 +38748,13 @@ SKILL_INFO_LIST = {
 			1,
 			1
 		}
+	},
+	[SKID.ALL_GLASTHEIM_RECALL] = {
+		"ALL_GLASTHEIM_RECALL",
+		SkillName = "Para Glastheim",
+		MaxLv = 1,
+		SpAmount = {0},
+		bSeperateLv = false,
+		AttackRange = {1}
 	}
 }

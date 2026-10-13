@@ -1,0 +1,137 @@
+{
+    "QOLKDQ": {
+        "en-US": "Omega Robot",
+        "pt-BR": "Robô Ômega",
+        "es-ES": "Robot Omega"
+    },
+    "QeLKDQ": {
+        "en-US": "<Rune Exchange>",
+        "pt-BR": "<Troca de Runas>",
+        "es-ES": "<Intercambio de Runas>"
+    },
+    "QuLKDQ": {
+        "en-US": "Turururururururururu...",
+        "pt-BR": "Turururururururururu...",
+        "es-ES": "Turururururururururu..."
+    },
+    "Q+LKDQ": {
+        "en-US": "[Omega Robot]\nTurururururururururururururururururururururururu...",
+        "pt-BR": "[Robô Ômega]\nTurururururururururururururururururururururururu...",
+        "es-ES": "[Robot Omega]\nTurururururururururururururururururururururururu..."
+    },
+    "ROLKDQ": {
+        "en-US": "[{0}]\nIt seems to exchange rune fragments obtained from the Biosphere Environments for complete runes.",
+        "pt-BR": "[{0}]\nParece que ele transforma os fragmentos de runa obtidos nos Ambientes da Ecosfera em runas completas.",
+        "es-ES": "[{0}]\nParece que cambia los fragmentos de runa obtenidos dentro de los Ambientes de la Ecosfera por runas completas."
+    },
+    "ReLKDQ": {
+        "en-US": "Beta",
+        "pt-BR": "Autômata Beta",
+        "es-ES": "Beta"
+    },
+    "RuLKDQ": {
+        "en-US": "<Varmunt Equipment Engraving>",
+        "pt-BR": "<Gravação em Equipamentos de Varmunt>",
+        "es-ES": "<Grabado de equipo de Varmunt>"
+    },
+    "R+LKDQ": {
+        "en-US": "Do you have any items obtained from the Biosphere?",
+        "pt-BR": "Você possui algum item obtido na Ecosfera?",
+        "es-ES": "¿Tiene algún objeto obtenido en la Ecosfera?"
+    },
+    "SOLKDQ": {
+        "en-US": "[Admin Beta]\nSince you have come here, I presume you have something obtained from Artificial Habitat?",
+        "pt-BR": "[Autômata Beta]\nSe veio até aqui, imagino que tenha encontrado algo na Ecosfera, não é?",
+        "es-ES": "[Autómata Beta]\nSi ha venido hasta aquí, significa que tiene algo que obtuvo en la Ecosfera, ¿verdad?"
+    },
+    "SeLKDQ": {
+        "en-US": "[Admin Beta]\nBring me Master Varmunt's equipment obtained from an artificial habitat along with a Rune, and I will engrave the Rune onto the equipment. Please, consider it a small token of gratitude for helping us.",
+        "pt-BR": "[Autômata Beta]\nTraga Runas e equipamentos do Mestre Varmunt encontrados nos habitats artificiais, e gravarei as runas nos equipamentos. Considere como uma pequena retribuição pela ajuda que nos tem prestado.",
+        "es-ES": "[Autómata Beta]\nSi trae una Runa y equipo del señor Varmunt obtenido en el hábitat artificial, la grabaremos en el equipo. Considérelo una pequeña muestra de agradecimiento por la ayuda."
+    },
+    "SuLKDQ": {
+        "en-US": "[Admin Beta]\nThe runes used for engraving are handled by Omega Robot over here. Bring us Rune Fragments, and Omega will turn them into Runes.",
+        "pt-BR": "[Autômata Beta]\nAs Runas usadas na gravação são responsabilidade do Robô Ômega, que está à minha frente. Se nos trouxer Fragmentos de Runa, Ômega os transformará em Runas.",
+        "es-ES": "[Autómata Beta]\nLas Runas utilizadas para el grabado las gestiona Robot Omega, que está delante de mí. Si trae Fragmentos de Runa, los convertirá en Runas completas."
+    },
+    "S+LKDQ": {
+        "en-US": "[Admin Beta]\nNow, please examine my list. Such beautiful pieces of equipment!",
+        "pt-BR": "[Autômata Beta]\nEntão, por favor, verifique a minha lista. Que belos equipamentos!",
+        "es-ES": "[Autómata Beta]\nEntonces, le ruego que revise la lista que tengo. ¡Estos hermosos equipos...!"
+    },
+    "TOLKDQ": {
+        "en-US": "<General EQ Engraving>",
+        "pt-BR": "<Gravação de Equipamentos Comuns>",
+        "es-ES": "<Grabado de Equipamiento Común>"
+    },
+    "TeLKDQ": {
+        "en-US": "I know of some amazing equipment!",
+        "pt-BR": "Ei! Eu conheço um equipamento incrível!",
+        "es-ES": "Oiga, ¡sé de un equipamiento increíble!"
+    },
+    "TuLKDQ": {
+        "en-US": "[Admin Beta]\nHi there! Excellent. Welcome. Please hear me out. I know of some amazing equipment that may interest you.",
+        "pt-BR": "[Autômata Beta]\nOlá! Tudo bem? Você chegou na hora certa. Escute só. Eu conheço uns equipamentos incríveis que com certeza despertarão o seu interesse.",
+        "es-ES": "[Autómata Beta]\n¡Qué tal! Ha venido en buen momento, escuche: Conozco un equipamiento increíble que podría interesarle."
+    },
+    "T+LKDQ": {
+        "en-US": "[Admin Beta]\nOne day, Omega Robot turned the Rune Fragments brought from a Biosphere Environment into complete Runes.",
+        "pt-BR": "[Autômata Beta]\nUm dia, o Robô Ômega transformou os Fragmentos de Runa trazidos dos Ambientes da Ecosfera em Runas.",
+        "es-ES": "[Autómata Beta]\nUn día, el Robot Omega convirtió Fragmentos de Runa traídos de los Ambientes de la Ecosfera en Runas completas."
+    },
+    "UOLKDQ": {
+        "en-US": "[Admin Beta]\nWhile examining those runes, inspiration suddenly struck me. Using several compatible items as catalysts, I iengraved the runes onto equipment left behind by our guests. I believe this is what the guests called genius.",
+        "pt-BR": "[Autômata Beta]\nEnquanto examinava essas runas, tive uma inspiração repentina e gravei-as em equipamentos deixados pelos hóspedes, usando como catalisadores em alguns itens compatíveis. Os hóspedes chamaram o que eu fiz de \"genialidade\".",
+        "es-ES": "[Autómata Beta]\nMientras examinaba esas runas, se me ocurrió grabarlas en equipamiento compatible que habían dejado nuestros clientes. A esto que hice, ustedes le llaman \"genialidad\"."
+    },
+    "UeLKDQ": {
+        "en-US": "[Admin Beta]\nBut it cannot be done with every piece of equipment, only certain equipment... Well, just take a look. I will engrave them as a thank you for your help!",
+        "pt-BR": "[Autômata Beta]\nMas isso não funciona em todos os equipamentos, apenas em alguns deles... Bem, veja por conta própria. Farei a runificação como agradecimento pela sua ajuda!",
+        "es-ES": "[Autómata Beta]\nPero no se puede hacer con todos los equipamientos, eh, solo con algunos... ¡Ay, bueno ya! Eche un vistazo, le grabaré unas runas como agradecimiento."
+    },
+    "UuLKDQ": {
+        "en-US": "<Equipment Enchantment>",
+        "pt-BR": "<Encantamento de Equipamentos>",
+        "es-ES": "<Encantamiento de Equipamiento>"
+    },
+    "U+LKDQ": {
+        "en-US": "If you have Master Varmunt's engraved equipment, please come this way.",
+        "pt-BR": "Se possui equipamentos runificados, venha por aqui.",
+        "es-ES": "Si tiene equipamiento grabado del señor Varmunt, venga por aquí."
+    },
+    "VOLKDQ": {
+        "en-US": "[Admin Beta]\nDo you have Master Varmunt's engraved equipment obtained from the Biosphere Environments? If they have been ^0000CDrefined to 7^000000, they can be enchanted.",
+        "pt-BR": "[Autômata Beta]\nVocê possui equipamentos runificados obtidos nos Ambientes da Ecosfera? Se estiverem ^0000CDrefinados até 7^000000, será possível encantá-los.",
+        "es-ES": "[Autómata Beta]\n¿Tiene equipamiento grabado del señor Varmunt obtenido en los Ambientes de la Ecosfera? Si está ^0000CDrefinado hasta 7^000000, puede encantarse."
+    },
+    "VeLKDQ": {
+        "en-US": "[Admin Beta]\nBring a rune matching the equipment's attribute and the required fee, and you may enchant it up to 2 times. Enchantments can also be reseted.",
+        "pt-BR": "[Autômata Beta]\nSe trouxer uma runa compatível com o atributo de cada equipamento e pagar uma pequena taxa, poderá encantá-lo até 2 vezes. Também é possível redefinir os encantamentos.",
+        "es-ES": "[Autómata Beta]\nSi trae una runa compatible con el atributo de cada equipo y una pequeña comisión, podrá aplicar encantamientos hasta 2 veces. También es posible reiniciar el encantamiento."
+    },
+    "VuLKDQ": {
+        "en-US": "Grass Equipment Enchantment",
+        "pt-BR": "Encantamento de Equipamentos Pradaria",
+        "es-ES": "Encantamiento de equipo Pradera"
+    },
+    "V+LKDQ": {
+        "en-US": "Fire Equipment Enchantment",
+        "pt-BR": "Encantamento de Equipamentos Vulcão",
+        "es-ES": "Encantamiento de equipo Volcán"
+    },
+    "WOLKDQ": {
+        "en-US": "Ice Equipment Enchantment",
+        "pt-BR": "Encantamento de Equipamentos Geleira",
+        "es-ES": "Encantamiento de equipo de Glaciar"
+    },
+    "WeLKDQ": {
+        "en-US": "Death Equipment Enchantment",
+        "pt-BR": "Encantamento de Equipamentos Cemitério",
+        "es-ES": "Encantamiento de equipo Cementerio"
+    },
+    "WuLKDQ": {
+        "en-US": "[Admin Beta]\nUnderstood. I will enchant it immediately.",
+        "pt-BR": "[Autômata Beta]\nEntendido. Farei o encantamento agora mesmo.",
+        "es-ES": "[Autómata Beta]\nEntendido. Le ayudaré con el encantamiento de inmediato."
+    }
+}

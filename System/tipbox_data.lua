@@ -1833,6 +1833,561 @@ tbl_data = {
 		Search = 1,
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6057] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6058] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06058",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6059] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06059",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6060] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06059",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6061] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06061",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6062] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6063] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06063",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6064] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06064",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6065] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06065",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6066] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06066",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6067] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06067",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6068] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6069] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06069",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6070] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06070",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6071] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06071",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6072] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06072",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6073] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06073",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6074] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06067",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6075] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06067",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6076] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06076",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6077] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06076",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6078] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06076",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6079] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06079",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6080] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06080",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7068] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip07068",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7069] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7070] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7071] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7072] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7073] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7074] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7075] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7076] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7077] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7078] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7079] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7080] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7081] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7082] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8118] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip08118",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8119] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8120] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8121] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8122] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8123] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8124] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8125] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8126] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8127] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8128] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8129] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8130] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8131] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8132] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8133] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8134] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8135] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8136] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8137] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8138] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8139] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8140] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8141] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8142] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10001] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10001",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10002] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10003] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10004] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10005] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10006] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10007] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10008] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10009] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10010] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[10011] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4217] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4221] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4222] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4223] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4224] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4225] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4226] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4227] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4228] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4229] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4230] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4232] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4233] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4234] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4235] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4236] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4237] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4238] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4239] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4240] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4241] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4242] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4243] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4244] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4245] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4246] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4247] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4111] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4106] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4105] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4218] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4219] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4220] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4216] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4101] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6015] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
 	}
 }
 local function MergeTables(dest, src)

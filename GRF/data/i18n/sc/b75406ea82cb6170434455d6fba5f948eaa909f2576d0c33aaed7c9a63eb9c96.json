@@ -126,7 +126,7 @@
     },
     "WdBQDQ": {
         "en-US": "[Seoyeon]\n^4D4DFFAmatsu Underground Shrine^000000\n^4D4DFFAmatsu Underground Forest Battlefield^000000\n^4D4DFFAmatsu Tatami Maze^000000",
-        "pt-BR": "[Seoyeon]\n^4D4DFFTemplo Subterrâneo^000000\n^4D4DFFFloresta Subterrânea^000000\n^4D4DFFLabirinto de Tatames^000000",
+        "pt-BR": "[Seoyeon]\nVocê conhece o ^4D4DFFTemplo Subterrâneo^000000,\na ^4D4DFFFloresta Subterrânea^000000\ne o ^4D4DFFLabirinto de Tatames^000000?",
         "es-ES": "[Seoyeon]\n^4D4DFFSantuario Subterráneo de Amatsu^000000\n^4D4DFFCampo de Batalla del Bosque Subterráneo de Amatsu^000000\n^4D4DFFLaberinto de Tatami de Amatsu^000000"
     },
     "WtBQDQ": {
@@ -341,12 +341,12 @@
     },
     "hNBQDQ": {
         "en-US": "To the Inner World with Yeongwi.",
-        "pt-BR": "Para o Mundo Interior com Yeongwi.",
+        "pt-BR": "Entrar no Mundo Interior.",
         "es-ES": "Al Mundo Interior con Yeongwi."
     },
     "hdBQDQ": {
         "en-US": "Accept.",
-        "pt-BR": "Aceitar.",
+        "pt-BR": "Aceitar o desafio.",
         "es-ES": "Aceptar."
     },
     "htBQDQ": {
@@ -371,7 +371,7 @@
     },
     "itBQDQ": {
         "en-US": "A member of the {0} party accepts {1}.",
-        "pt-BR": "Um membro do Grupo {0} aceita entrar em {1}.",
+        "pt-BR": "Um membro do grupo [{0}] desafiou Yeongwi no Mundo Interior.",
         "es-ES": "Un miembro del grupo de {0} acepta entrar en {1}."
     },
     "i9BQDQ": {

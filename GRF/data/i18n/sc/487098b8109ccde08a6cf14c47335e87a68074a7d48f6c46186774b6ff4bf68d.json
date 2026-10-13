@@ -100,9 +100,9 @@
         "es-ES": "[Kayron Grik]\nLos Sabios son aquellos que promueven el desarrollo de este continente mediante el estudio y el registro interminables de todo el conocimiento relacionado con este mundo.\nConvertirse en Sabio es algo más que solo cambiarse de atuendo: Es un trabajo importante en el que hay que ser siempre consciente del deber y la responsabilidad que se tiene con la gente."
     },
     "9I+xBg": {
-        "en-US": "[Kayron Grik]\nYou may want to enter an enrollment application to the Schweicherbil Magic Academy.\nI believe they can explain in detail what you need to become a Sage.",
+        "en-US": "[Kayron Grik]\nYou may want to enter an enrollment application to the Schweicherwil Magic Academy.\nI believe they can explain in detail what you need to become a Sage.",
         "pt-BR": "[Kayron Grig]\nNesta primeira etapa, envie seu formulário de admissão para a Universidade de Juno.\nEles irão lhe explicar o que você tem que fazer.",
-        "es-ES": "[Kayron Grik]\nEs posible que desees presentar una solicitud para entrar a la Academia de Magia Schweicherbil.\nCreo que pueden explicarte detalladamente lo que necesitas para ser de la clase Sabio."
+        "es-ES": "[Kayron Grik]\nEs posible que desees presentar una solicitud para entrar a la Academia de Magia Schweicherwil.\nCreo que pueden explicarte detalladamente lo que necesitas para ser de la clase Sabio."
     },
     "9Y+xBg": {
         "en-US": "[Kayron Grik]\nSage job change...hmm...an interesting turn of phrase, I must say.\nAlthough that is what we say, it is very inappropriate to think of becoming a Sage as merely changing a job.",
@@ -110,9 +110,9 @@
         "es-ES": "[Kayron Grik]\nCambiar de clase a Sabio... Mmm... Qué interesante giro, debo decir.\nAunque eso es lo que decimos, es muy inadecuado pensar que convertirse en Sabio es simplemente cambiar de clase."
     },
     "9o+xBg": {
-        "en-US": "[Kayron Grik]\nIn order to be a Sage, you must enter an application to the Schweicherbil Magic Academy.\nYou will then take the entrance examination.",
+        "en-US": "[Kayron Grik]\nIn order to be a Sage, you must enter an application to the Schweicherwil Magic Academy.\nYou will then take the entrance examination.",
         "pt-BR": "[Kayron Grig]\nPara se tornar um Sábio, você precisa entregar seu formulário de admissão para a Universidade de Juno.\nFeito isso, você poderá realizar a prova de admissão.",
-        "es-ES": "[Kayron Grik]\nPara ser un Sabio, debes presentar una solicitud en la Academia de Magia Schweicherbil.\nDespués deberás realizar la prueba de admisión."
+        "es-ES": "[Kayron Grik]\nPara ser un Sabio, debes presentar una solicitud en la Academia de Magia Schweicherwil.\nDespués deberás realizar la prueba de admisión."
     },
     "94+xBg": {
         "en-US": "[Kayron Grik]\nAfter the examination, you will be assigned to study a specific subject...\nand finally, you will submit your dissertation to the university.",
@@ -125,9 +125,9 @@
         "es-ES": "[Kayron Grik]\nSoy yo quien evaluará tu tesis.\nCuando apruebes todos los cursos, te convertirás en Sabio."
     },
     "+Y+xBg": {
-        "en-US": "[Kayron Grik]\nPlease visit the Schweicherbil Magic Academy.\nA young Sage named Metheus Sylphe will accept your application.",
+        "en-US": "[Kayron Grik]\nPlease visit the Schweicherwil Magic Academy.\nA young Sage named Metheus Sylphe will accept your application.",
         "pt-BR": "[Kayron Grig]\nPrimeiro, dirija-se à Universidade de Juno.\nEntregue seu pedido de admissão a um jovem Sábio, Meteous Silf.",
-        "es-ES": "[Kayron Grik]\nVisita la Academia de Magia Schweicherbil.\nUn joven Sabio llamado Metheus Sylphe aceptará tu solicitud."
+        "es-ES": "[Kayron Grik]\nVisita la Academia de Magia Schweicherwil.\nUn joven Sabio llamado Metheus Sylphe aceptará tu solicitud."
     },
     "+o+xBg": {
         "en-US": "[Kayron Grik]\nI see...Well, seeing as you have leisure time to spare, I encourage you to peruse as many books as you can.\nYou can find and research every worldly matter within their pages.",
@@ -220,9 +220,9 @@
         "es-ES": "Personal de la Academia"
     },
     "DJCxBg": {
-        "en-US": "[Metheus Sylphe]\nWelcome to the\nSchweicherbil Magic\nAcademy. W-wait a second...\nDo I know you from somewhere?",
+        "en-US": "[Metheus Sylphe]\nWelcome to the\nSchweicherwil Magic\nAcademy. W-wait a second...\nDo I know you from somewhere?",
         "pt-BR": "[Meteous Silf]\nBem-vindo, esta é a Universidade de Juno.\nNome estranho né ?",
-        "es-ES": "[Metheus Sylphe]\nTe damos la bienvenida a la\nAcademia\nde Magia Schweicherbil. E-espera un segundo...\n¿Te conozco de algún lugar?"
+        "es-ES": "[Metheus Sylphe]\nTe damos la bienvenida a la\nAcademia\nde Magia Schweicherwil. E-espera un segundo...\n¿Te conozco de algún lugar?"
     },
     "DZCxBg": {
         "en-US": "[Metheus Sylphe]\nWe've met before, haven't\nwe? Oh gosh, I must sound\npretty crazy. I'm sorry, I guess it's because I haven't been\nsleeping too well? Oh well,\nhave a good day, adventurer~",
@@ -245,9 +245,9 @@
         "es-ES": "[Metheus Sylphe]\nSi conoces a algún candidato para Sabio, por favor, dale algún consejo...\nPor favor, saluda también de mi parte a tus colegas."
     },
     "EZCxBg": {
-        "en-US": "[Metheus Sylphe]\nWelcome to the Schweicherbil Magic Academy.",
+        "en-US": "[Metheus Sylphe]\nWelcome to the Schweicherwil Magic Academy.",
         "pt-BR": "[Meteous Silf]\nBem-vindo, esta é a Universidade de Juno.",
-        "es-ES": "[Metheus Sylphe]\nTe doy la bienvenida a la Academia de Magia Schweicherbil."
+        "es-ES": "[Metheus Sylphe]\nTe doy la bienvenida a la Academia de Magia Schweicherwil."
     },
     "EpCxBg": {
         "en-US": "[Metheus Sylphe]\nThis place is specialized in Sage class training. Mostly, what we do is study about monsters and magic spells.\nWe always welcome new students.",
@@ -275,9 +275,9 @@
         "es-ES": "[Metheus Sylphe]\nSi tienes amigos Magos, cuéntales sobre esta Academia.\nQue tengas un buen día."
     },
     "F5CxBg": {
-        "en-US": "[Metheus Sylphe]\nWelcome to the Schweicherbil Magic Academy.\nOh, You're a Mage. How may I assist you?",
+        "en-US": "[Metheus Sylphe]\nWelcome to the Schweicherwil Magic Academy.\nOh, You're a Mage. How may I assist you?",
         "pt-BR": "[Meteous Silf]\nBem-vindo, esta é a Universidade de Juno.\nUm mago. O que lhe traz aqui?",
-        "es-ES": "[Metheus Sylphe]\nTe doy la bienvenida a la Academia de Magia Schweicherbil.\nAh, eres de la clase Mago. ¿En qué puedo ayudarte?"
+        "es-ES": "[Metheus Sylphe]\nTe doy la bienvenida a la Academia de Magia Schweicherwil.\nAh, eres de la clase Mago. ¿En qué puedo ayudarte?"
     },
     "GJCxBg": {
         "en-US": "I want to enroll in the school.",
@@ -320,9 +320,9 @@
         "es-ES": "[Metheus Sylphe]\nSiempre tendrás las puertas abiertas.\nQue tengas un buen día."
     },
     "IJCxBg": {
-        "en-US": "[Metheus Sylphe]\nI see, you want to join the academy. Once again, welcome to the Schweicherbil Magic Academy.",
+        "en-US": "[Metheus Sylphe]\nI see, you want to join the academy. Once again, welcome to the Schweicherwil Magic Academy.",
         "pt-BR": "[Meteous Silf]\nAhn, um novo aluno. Seja bem-vindo à Universidade de Juno.",
-        "es-ES": "[Metheus Sylphe]\nYa veo, quieres unirte a la Academia. Una vez más, te doy la bienvenida a la Academia de Magia Schweicherbil."
+        "es-ES": "[Metheus Sylphe]\nYa veo, quieres unirte a la Academia. Una vez más, te doy la bienvenida a la Academia de Magia Schweicherwil."
     },
     "IZCxBg": {
         "en-US": "[Metheus Sylphe]\nPeople who have already met the basic requirement by reaching at Mage job level 40 are qualified for enrollment.\nA small registration fee will also be required.",
@@ -755,9 +755,9 @@
         "es-ES": "[Claytos Verdo]\nHaz tu mejor esfuerzo. Será una buena experiencia para ti.\nVuelve cuando termines tu solicitud de admisión."
     },
     "d5CxBg": {
-        "en-US": "[Claytos Verdo]\nWelcome to the Schweicherbil Magic Academy.\nYou applied for this test already, didn't you?",
+        "en-US": "[Claytos Verdo]\nWelcome to the Schweicherwil Magic Academy.\nYou applied for this test already, didn't you?",
         "pt-BR": "[Claytoss Berdo]\nPrazer em vê-lo. Bem-vindo à Universidade de Juno.\nVocê já terminou a matrícula, certo? Deixe-me ver...",
-        "es-ES": "[Claytos Verdo]\nTe doy la bienvenida a la Academia de Magia Schweicherbil.\nYa habías presentado esta prueba, ¿verdad?"
+        "es-ES": "[Claytos Verdo]\nTe doy la bienvenida a la Academia de Magia Schweicherwil.\nYa habías presentado esta prueba, ¿verdad?"
     },
     "eJCxBg": {
         "en-US": "[Claytos Verdo]\nLet's see, your name is {0}...\nOkay, let's get started!",
@@ -2320,9 +2320,9 @@
         "es-ES": "[Hermes Tris]\nSi por casualidad decides hacerlo, volveremos a vernos.\nCuídate, joven."
     },
     "sJGxBg": {
-        "en-US": "[Hermes Tris]\nWelcome to the Schweicherbil Magic Academy.",
+        "en-US": "[Hermes Tris]\nWelcome to the Schweicherwil Magic Academy.",
         "pt-BR": "[Hermes Tris]\nBem vindo, esta é a Universidade de Juno.",
-        "es-ES": "[Hermes Tris]\nTe doy la bienvenida a la Academia de Magia Schweicherbil."
+        "es-ES": "[Hermes Tris]\nTe doy la bienvenida a la Academia de Magia Schweicherwil."
     },
     "sZGxBg": {
         "en-US": "[Hermes Tris]\nWe Sages are more like scholars than Mages.\nWe are very helpful and powerful as members of a party.",
@@ -4701,11 +4701,13 @@
     },
     "jJOxBg": {
         "en-US": "[Saphien Layless]\nOne whose life has many possibilities...\nHow do you wish to lead your life?",
-        "pt-BR": "[Sapien Lylees]\nVocê possui muito potencial... posso sentir isso.\nJá decidiu qual caminho irá tomar?"
+        "pt-BR": "[Sapien Lylees]\nVocê possui muito potencial... posso sentir isso.\nJá decidiu qual caminho irá tomar?",
+        "es-ES": "[Sapien Lylees]\nTienes mucho potencial... lo noto.\n¿Ya has decidido qué camino vas a seguir?"
     },
     "jZOxBg": {
         "en-US": "[Saphien Layless]\nThat's right. Yggdrasil, the so-called 'World Tree',\nis the name of the tree that has been the source of life in this world.",
-        "pt-BR": "[Sapien Lylees]\nLembre-se que você não precisa escolher um caminho que não queira.\nEspero que você escolha aquele que mais lhe recompense."
+        "pt-BR": "[Sapien Lylees]\nLembre-se que você não precisa escolher um caminho que não queira.\nEspero que você escolha aquele que mais lhe recompense.",
+        "es-ES": "[Sapien Lylees]\nRecuerda que no tienes por qué elegir un camino que no te guste.\nEspero que elijas el que más te satisfaga."
     },
     "jpOxBg": {
         "en-US": "[Saphien Layless]\nThe first root reaches Asgard where the gods live and\nwhere we, mere humans, haven't yet explored or experienced.",

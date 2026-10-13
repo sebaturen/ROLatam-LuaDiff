@@ -37202,6 +37202,13 @@ SkillInfoList_data = {
 			3,
 			3
 		}
+	},
+	[SKID.ALL_GLASTHEIM_RECALL] = {
+		"ALL_GLASTHEIM_RECALL",
+		MaxLv = 1,
+		SpAmount = {0},
+		bSeperateLv = false,
+		AttackRange = {1}
 	}
 }
 local function MergeTables(dest, src)

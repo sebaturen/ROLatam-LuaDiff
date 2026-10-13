@@ -1,27 +1,27 @@
 {
     "AHOKDA": {
         "en-US": "Elder Scholar",
-        "pt-BR": "Ancião Erudito",
+        "pt-BR": "Velho Professor",
         "es-ES": "Anciano Erudito"
     },
     "AXOKDA": {
         "en-US": "[Elder Scholar]\nI would love to research further, but if my life is at risk in that place...",
-        "pt-BR": "[Ancião Erudito]\nEu gostaria de continuar pesquisando, mas se for um lugar onde minha vida corre risco...",
+        "pt-BR": "[Velho Professor]\nEu gostaria de continuar minha pesquisa, mas se for em um lugar onde minha vida corre risco...",
         "es-ES": "[Anciano Erudito]\nMe gustaría seguir investigando, pero si se trata de un lugar donde mi vida corre peligro..."
     },
     "AnOKDA": {
         "en-US": "[Elder Scholar]\nI suppose I have no choice but to hire a strong, reliable adventurer. Hm...",
-        "pt-BR": "[Ancião Erudito]\nAcho que não tenho outra escolha a não ser contratar um viajante forte e dedicado. Hmm...",
+        "pt-BR": "[Velho Professor]\nAcho que não tenho outra escolha a não ser contratar alguém forte. Hmm...",
         "es-ES": "[Anciano Erudito]\nSupongo que no me queda más remedio que contratar a un trotamundos fuerte y honesto. Hmm..."
     },
     "A3OKDA": {
         "en-US": "[Elder Scholar]\nSomeone above Level 200 should be sufficient... Easier said than done, though. Finding such talent isn't so simple.",
-        "pt-BR": "[Ancião Erudito]\nAlguém por volta do Nível 200 deve bastar... É fácil falar, mas não é tão fácil encontrar um talento assim.",
+        "pt-BR": "[Velho Professor]\nUma pessoa por volta do nível 200 deve bastar... É fácil falar, mas é difícil encontrar um talento assim.",
         "es-ES": "[Anciano Erudito]\nAlguien de Nivel 200 debería ser suficiente... Es fácil decirlo, pero no es tan fácil encontrar un talento así."
     },
     "BHOKDA": {
         "en-US": "[Elder Scholar]\nOh my, I can't believe it! The strong, reliable adventurer I've been looking for has finally shown up.\nWould you be interested in helping with my research?",
-        "pt-BR": "[Ancião Erudito]\nMinha nossa! Não acredito! O viajante dotado de força e dedicação que eu tanto procurava finalmente apareceu.\nPor acaso, você teria vontade de ajudar com a minha pesquisa?",
+        "pt-BR": "[Velho Professor]\nMinha nossa! Não acredito! Alguém forte o bastante finalmente apareceu!\nPor acaso, você teria vontade de ajudar com a minha pesquisa?",
         "es-ES": "[Anciano Erudito]\n¡Vaya! ¡No puede ser! El trotamundos lleno de fuerza y dedicación que tanto busqué por fin apareció.\n¿Por casualidad, tendría ganas de ayudar con mi investigación?"
     },
     "BXOKDA": {
@@ -31,37 +31,37 @@
     },
     "BnOKDA": {
         "en-US": "It seems suspicious...",
-        "pt-BR": "Achei meio suspeito...",
+        "pt-BR": "Acho meio suspeito...",
         "es-ES": "Me parece sospechoso..."
     },
     "B3OKDA": {
         "en-US": "[Elder Scholar]\nFor the sake of my keen eye that recognized your skills at one glance, please, don't do this!\nWhat? Are you going to help me?",
-        "pt-BR": "[Ancião Erudito]\nPelo bem dos meus olhos perspicazes em reconhecer as suas habilidades à primeira vista, não faça isso, por favor!\nO quê? Você vai me ajudar?",
+        "pt-BR": "[Velho Professor]\nEu tenho um bom olho para reconhecer alguém com habilidades poderosas, não recuse meu pedido de ajuda, por favor!\nO quê? Você vai me ajudar?",
         "es-ES": "[Anciano Erudito]\n¡Por el bienestar de mis ojos perceptivos, que han sabido reconocer tu destreza de un solo vistazo, no lo haga, por favor!\n¿Qué? ¿Que va a ayudarme?"
     },
     "CHOKDA": {
         "en-US": "[Elder Scholar]\nNo, it's just that... As everyone kept refusing, I got used to begging.\nThank you for your cooperation.",
-        "pt-BR": "[Ancião Erudito]\nNão, é que... Como todo mundo recusa, já me acostumei a implorar.\nAgradeço a sua colaboração.",
+        "pt-BR": "[Velho Professor]\nNão, é que... Como todo mundo recusa, já me acostumei a implorar.\nAgradeço a sua colaboração.",
         "es-ES": "[Anciano Erudito]\nNo, es que... Como todos se negaban, ya me acostumbré a suplicar.\nLe agradezco su colaboración."
     },
     "CXOKDA": {
         "en-US": "I never said I'd help...",
-        "pt-BR": "Ainda não disse que ia colaborar...",
+        "pt-BR": "Eu não disse que ia ajudar ainda...",
         "es-ES": "Todavía no dije que iba a colaborar..."
     },
     "CnOKDA": {
         "en-US": "[Elder Scholar]\nWell, but someone of your caliber should certainly be able to go to Niflheim and return safely.\nOf course, my time is running out, but it's not my time yet. Besides, I wouldn't be able to come back.",
-        "pt-BR": "[Ancião Erudito]\nBom, mas alguém do seu nível de habilidade deveria ser capaz de ir e voltar de Niflheim sem problemas.\nÉ claro, não falta muito para eu partir, mas ainda não chegou a hora. Além disso, eu não conseguiria voltar.",
+        "pt-BR": "[Velho Professor]\nBom, mas alguém do seu nível de habilidade deveria ser capaz de ir e voltar de Niflheim sem problemas.\nÉ claro, não falta muito para eu partir, mas ainda não chegou a minha hora. Além disso, eu não conseguiria voltar.",
         "es-ES": "[Anciano Erudito]\nPues bien, pero alguien de su nivel de habilidad debería poder ir y venir de Niflheim sin problemas.\nClaro, ya no queda mucho para que me vaya, pero aún no llegó la hora. Además, yo no podría regresar."
     },
     "C3OKDA": {
         "en-US": "[Elder Scholar]\nAccording to the documents I've discovered recently, the dead are holding a banquet in the darkest depths of Niflheim,\nand it's something beyond our imagination.\nHowever, I have no means to obtain more details about it.",
-        "pt-BR": "[Ancião Erudito]\nDe acordo com documentos recentes que encontrei, os mortos costumam dar um banquete nas trevas mais profundas de Niflheim, e de uma maneira que vai muito além da nossa imaginação.\nMas não tenho meios de conseguir mais detalhes a respeito.",
+        "pt-BR": "[Velho Professor]\nDe acordo com documentos recentes que encontrei, os mortos costumam dar um banquete nas trevas mais profundas de Niflheim, e de uma maneira que vai muito além da nossa imaginação.\nMas não tenho meios de conseguir mais detalhes a respeito.",
         "es-ES": "[Anciano Erudito]\nSegún documentos recientes que encontré, los muertos ofrecen un banquete en la oscuridad más profunda de Niflheim, y de una forma que supera por completo nuestra imaginación.\nPero no tengo medios para obtener más detalles al respecto."
     },
     "DHOKDA": {
         "en-US": "[Elder Scholar]\nI'm sure we'll find out soon enough, but I'm curious right now.\nCould you investigate this for me? I'll reward you handsomely.",
-        "pt-BR": "[Ancião Erudito]\nSem dúvida descobriremos em breve, mas estou curioso agora.\nVocê poderia dar uma investigada nisso? A recompensa será generosa.",
+        "pt-BR": "[Velho Professor]\nSem dúvida descobriremos em breve, mas estou curioso agora.\nVocê poderia dar uma investigada nisso? A recompensa será generosa.",
         "es-ES": "[Anciano Erudito]\nSin duda lo sabremos pronto, pero es que tengo curiosidad ahora mismo.\n¿Podrías investigarlo? La recompensa será generosa."
     },
     "DXOKDA": {
@@ -76,7 +76,7 @@
     },
     "D3OKDA": {
         "en-US": "[Garim Springfield]\nThank you. Oh, I forgot to introduce myself.\nMy name is Garim Springfield.\nI used to work at Sage Castle for a long time. Now that I am retired, I came here to enjoy my free time and submit requests.",
-        "pt-BR": "[Garim Springfield]\nObrigado. Agora que percebi, esqueci de me apresentar.\nMeu nome é Garim Springfield.\nTrabalhei por muito tempo no Castelo de Sage. Agora que me aposentei, vim para cá para aproveitar meu tempo livre e fazer solicitações.",
+        "pt-BR": "[Garim Springfield]\nAgora que percebi, esqueci de me apresentar.\nMeu nome é Garim Springfield.\nTrabalhei por muito tempo no Castelo dos Sábios. Agora que me aposentei, vim para cá para aproveitar meu tempo livre e fazer solicitações.",
         "es-ES": "[Garim Springfield]\nLe agradezco. Ahora que lo pienso, olvidé presentarme.\nMe llamo Garim Springfield.\nTrabajé durante muchos años en el Castillo de Sage. Ahora que me jubilé, vení acá para disfrutar de mi tiempo libre y hacer solicitudes."
     },
     "EHOKDA": {
@@ -91,7 +91,7 @@
     },
     "EnOKDA": {
         "en-US": "[Garim Springfield]\nConsidering your level, I don't think you believe you won't be able to come back...\nBut if you're this careful, I understand. Come to me when you are ready.",
-        "pt-BR": "[Garim Springfield]\nCom o seu nível de habilidade, acho que nem você acredita que não conseguirá voltar...\nMas se prefere ter mais cautela, tudo bem. Volte quando estiver pronto.",
+        "pt-BR": "[Garim Springfield]\nCom o seu nível de habilidade, acho que nem você acredita que não conseguirá voltar...\nMas se prefere ter mais cautela, tudo bem. Volte quando estiver com tudo pronto.",
         "es-ES": "[Garim Springfield]\nCon tu nivel de habilidad, Creo que ni tu mismo crees que no podrás regresar...\nPero si prefieres ser más cauteloso, no pasa nada. Vuelve cuando estés listo."
     },
     "E3OKDA": {
@@ -106,7 +106,7 @@
     },
     "FXOKDA": {
         "en-US": "[Garim Springfield]\nWhat? Did you really go to the Grand Banquet Hall in the depths of Niflheim?\nAnd you came back alive?\nHow amazing! I can't wait to hear your story!",
-        "pt-BR": "[Garim Springfield]\nHã? Não me diga que você realmente foi até o Salão de Banquete nas profundezas de Niflheim?\nE voltou com vida?\nIncrível! Quero ouvir a sua história!",
+        "pt-BR": "[Garim Springfield]\nHã? Não me diga que você realmente foi até o Salão dos Mortos nas profundezas de Niflheim?\nE voltou com vida?\nIncrível! Quero ouvir a sua história!",
         "es-ES": "[Garim Springfield]\n¿Eh? ¿De verdad fuiste hasta el Salón de Banquetes en las profundidades de Niflheim?\n¿Y regresaste con vida?\n¡Genial, pues cuéntame la historia!"
     },
     "FnOKDA": {
@@ -121,7 +121,7 @@
     },
     "GHOKDA": {
         "en-US": "[Garim Springfield]\nKnowing I can continue my research even after death lifted my mood.",
-        "pt-BR": "[Garim Springfield]\nSaber que vou poder continuar pesquisando mesmo depois de morrer até melhorou o meu humor.",
+        "pt-BR": "[Garim Springfield]\nSaber que vou poder continuar minha pesquisa mesmo depois de morrer até melhorou o meu humor.",
         "es-ES": "[Garim Springfield]\nSaber que podré seguir investigando aún después de morir me levantó el ánimo."
     },
     "GXOKDA": {
@@ -216,7 +216,7 @@
     },
     "K3OKDA": {
         "en-US": "Zzz... Zzz...",
-        "pt-BR": "Ronc... Ronc...",
+        "pt-BR": "Zzz... Zzz...",
         "es-ES": "Rrrrr... Rrrrr..."
     },
     "LHOKDA": {
@@ -241,7 +241,7 @@
     },
     "MHOKDA": {
         "en-US": "Sleep-talking Ghost",
-        "pt-BR": "Fantasma Adormecido Tagarela",
+        "pt-BR": "Fantasma Tagarela",
         "es-ES": "Fantasma Adormecido Parlanchín"
     },
     "MXOKDA": {
@@ -261,7 +261,7 @@
     },
     "NHOKDA": {
         "en-US": "The sleep-talking ghost is nowhere to be seen, and another ghost is dozing off.",
-        "pt-BR": "O Fantasma Adormecido Tagarela não está mais lá e tem outro fantasma cochilando.",
+        "pt-BR": "O Fantasma Tagarela não está mais lá e tem outro fantasma cochilando.",
         "es-ES": "El Fantasma Adormecido Parlanchín ya no se ve, y hay otro fantasma durmiendo."
     },
     "NXOKDA": {
@@ -296,7 +296,7 @@
     },
     "O3OKDA": {
         "en-US": "I'm not a door-to-door salesperson.",
-        "pt-BR": "Não sou vendedor a domicílio.",
+        "pt-BR": "Não sou da farmácia.",
         "es-ES": "No soy vendedor a domicilio."
     },
     "PHOKDA": {
@@ -336,12 +336,12 @@
     },
     "Q3OKDA": {
         "en-US": "[Fatigued Corpse]\nI... just want to rest in peace since I'm dead...\nI wish someone would beat them up and send them home as soon as the feast ends.",
-        "pt-BR": "[Morta Exausta]\nEu... só quero dormir em paz, já que estou morta...\nQueria que alguém desse uma surra neles pra mandá-los de volta assim que o banquete acabasse.",
+        "pt-BR": "[Morta Exausta]\nEu... só quero descansar em paz, já que estou morta...\nQueria que alguém desse uma surra neles pra mandá-los de volta assim que o banquete acabasse.",
         "es-ES": "[Muerta Agotada]\nYo... solo quiero dormir en paz, pues ya estoy muerta...\nOjalá alguien les diera una paliza para mandarlos de vuelta tan pronto termine el banquete."
     },
     "RHOKDA": {
         "en-US": "Are you talking about the banquet, right?",
-        "pt-BR": "Você está falando do banquete, né?",
+        "pt-BR": "Está falando do salão dos mortos?",
         "es-ES": "Te refieres al banquete, ¿no?"
     },
     "RXOKDA": {
@@ -351,7 +351,7 @@
     },
     "RnOKDA": {
         "en-US": "[Milla]\nMy name is Milla, and I'm now a resident of Niflheim.\nPlease help me rest in peace, living one.",
-        "pt-BR": "[Milla]\nMeu nome é Milla, e agora sou moradora de Niflheim.\nPor favor, me ajude a descansar em paz, encarnado.",
+        "pt-BR": "[Milla]\nMeu nome é Milla, e agora sou moradora de Niflheim.\nPor favor, me ajude a descansar em paz, alma viva.",
         "es-ES": "[Milla]\nMi nombre es Milla y ahora soy una habitante de Niflheim.\nTe ruego que me ayudes a descansar en paz, encarnado."
     },
     "R3OKDA": {
@@ -361,42 +361,42 @@
     },
     "SHOKDA": {
         "en-US": "Cute Appearance Only[200]",
-        "pt-BR": "Fofo Só na Aparência[200]",
+        "pt-BR": "[200] Só Parece Fofo",
         "es-ES": "Tierno Solo por Fuera[200]"
     },
     "SXOKDA": {
         "en-US": "Looks Cute But[200]",
-        "pt-BR": "Aparência Fofa Mas[200]",
+        "pt-BR": "[200] Só Parece Fofo",
         "es-ES": "Aspecto Tierno Pero[200]"
     },
     "SnOKDA": {
         "en-US": "I Said Not a Musical Instrument![200]",
-        "pt-BR": "Falei que Não É Instrumento Musical[200]",
+        "pt-BR": "[200] Não é um Instrumento",
         "es-ES": "Dije que No Es Instrumento Musical[200]"
     },
     "S3OKDA": {
         "en-US": "Not a Musical Instrument[200]",
-        "pt-BR": "Não É Instrumento Musical[200]",
+        "pt-BR": "[200] Não é um Instrumento",
         "es-ES": "No Es un Instrumento Musical[200]"
     },
     "THOKDA": {
         "en-US": "Kids with Messy Hair[240]",
-        "pt-BR": "Crianças de Cabelo Despenteado[240]",
+        "pt-BR": "[240] Crianças Cabeludas",
         "es-ES": "Niños de Pelo Revuelto[240]"
     },
     "TXOKDA": {
         "en-US": "Kids with Messy Hair[240]",
-        "pt-BR": "Crianças de Cabelo Despenteado[240]",
+        "pt-BR": "[240] Crianças Cabeludas",
         "es-ES": "Niños de Pelo Revuelto [240]"
     },
     "TnOKDA": {
         "en-US": "Those with Hanging Dolls[240]",
-        "pt-BR": "Aqueles com Bonecos Pendurados [240]",
+        "pt-BR": "[240] Crianças Penduradas",
         "es-ES": "Los que Llevan Muñecos [240]"
     },
     "T3OKDA": {
         "en-US": "Kids with Hanging Dolls[240]",
-        "pt-BR": "Crianças com Bonecos Pendurados[240]",
+        "pt-BR": "[240] Crianças Penduradas",
         "es-ES": "Niños que Llevan Muñecos[240]"
     },
     "UHOKDA": {
@@ -406,32 +406,32 @@
     },
     "UXOKDA": {
         "en-US": "I refuse.",
-        "pt-BR": "Recuso.",
+        "pt-BR": "Recusar.",
         "es-ES": "Lo rechazo."
     },
     "UnOKDA": {
         "en-US": "[Milla]\nKind living one, I thank you for your kindness.\nThe facilities include a banquet hall and an opera house, but the level of its residents varies a little from one to another.\nAfter analyzing your skills, I'll see if I can ask for your help or not...",
-        "pt-BR": "[Milla]\nÓ, gentil encarnado, agradeço a sua benevolência.\nLá dentro tem um salão de banquetes e um teatro, mas o nível dos ocupantes varia um pouco entre si.\nDepois de avaliar sua habilidades, vou ver se te peço ajuda ou não...",
+        "pt-BR": "[Milla]\nÓ, gentil alma viva, agradeço a sua benevolência.\nLá dentro tem um salão de banquetes e um teatro, mas o nível dos ocupantes varia um pouco entre si.\nDepois de avaliar sua habilidades, vou ver se te peço ajuda ou não...",
         "es-ES": "[Milla]\nOh, amable encarnado, agradezco tu benevolencia.\nAhí dentro hay un salón de banquetes y una ópera, pero el nivel de los ocupantes varía un poco de uno a otro.\nDependiendo de tus habilidades, veré lo qué puedo pedirte o no..."
     },
     "U3OKDA": {
         "en-US": "Piano Play[200]",
-        "pt-BR": "Tocar piano[200]",
+        "pt-BR": "[200] Tocar o Piano",
         "es-ES": "Tocar el piano[200]"
     },
     "VHOKDA": {
         "en-US": "Wake Them Up[240]",
-        "pt-BR": "Acordar todo mundo[240]",
+        "pt-BR": "[240] Acorde-os",
         "es-ES": "Despiertar a todos[240]"
     },
     "VXOKDA": {
         "en-US": "Annoying floor noise (Short Version)[240]",
-        "pt-BR": "Barulho de piso incômodo(curto)[240]",
+        "pt-BR": "[240] Peça Teatral Curta",
         "es-ES": "Ruido de piso molesto (corto)[240]"
     },
     "VnOKDA": {
         "en-US": "Annoying floor noise (Long Version)[240]",
-        "pt-BR": "Barulho de piso incômodo (longo)[240]",
+        "pt-BR": "[240] Peça Teatral Longa",
         "es-ES": "Ruido de piso molesto (largo)[240]"
     },
     "V3OKDA": {
@@ -441,17 +441,17 @@
     },
     "WHOKDA": {
         "en-US": "[Milla]\n^0000FFGhost Cubes^000000 and ^0000FFLude Garlys^000000 look cute, but they're terribly noisy.",
-        "pt-BR": "[Milla]\n^0000FFCubos Fantasma^000000 e ^0000FFLude Alhitas^000000 são fofinhos, mas fazem uma barulheira terrível.",
+        "pt-BR": "[Milla]\n^0000FFQuve Fantasma ^000000 e ^0000FFLude Alhitas^000000 são fofinhos, mas fazem uma barulheira terrível.",
         "es-ES": "[Milla]\n^0000FFCubos Fantasma^000000 y ^0000FFLude Ajos^000000 parecen tiernos, pero hacen un ruido espantoso."
     },
     "WXOKDA": {
         "en-US": "[Milla]\nI wish you'd beat the crap out of ^0000FF15 Ghost Cubes^000000 and ^0000FF15 Lude Garlys^000000 that haunt the Banquet Hall of the Dead. This way, you'd be helping them reach enlightment, at least for one day.",
-        "pt-BR": "[Milla]\nQueria que você desse uma boa surra em ^0000FF15 Cubos Fantasma^000000 e ^0000FF15 Lude Alhitas^000000 que assombram o Salão de Banquete dos Mortos. Assim, você ajudaria eles a alcançarem a iluminação, por um dia que seja.",
+        "pt-BR": "[Milla]\nQueria que você desse uma boa surra em ^0000FF15 Quve Fantasma ^000000 e ^0000FF15 Lude Alhitas^000000 que assombram o Salão de Banquete dos Mortos. Assim, você ajudaria eles a descansarem, por um dia que seja.",
         "es-ES": "[Milla]\nMe gustaría que le dieras una buena paliza a ^0000FF15 Cubos Fantasma^000000 y ^0000FF15 Lude Ajos^000000 que se aparecen en el Salón de Banquetes de los Muertos. Así, podrías ayudarles a alcanzar la iluminación, aunque por un solo día."
     },
     "WnOKDA": {
         "en-US": "I accept.",
-        "pt-BR": "Aceito.",
+        "pt-BR": "Aceitar.",
         "es-ES": "Acepto."
     },
     "W3OKDA": {
@@ -466,7 +466,7 @@
     },
     "XXOKDA": {
         "en-US": "[Milla]\nYawn...\nWell, it's not like I'm going to die from not sleeping...\nAfter all, I'm already dead.",
-        "pt-BR": "[Milla]\nUaaah...\nBem, não é como se eu fosse morrer por não conseguir dormir...\nAfinal, já estou morta.",
+        "pt-BR": "[Milla]\nUaaah...\nBem, não é como se eu fosse morrer por não conseguir descansar...\nAfinal, já estou morta.",
         "es-ES": "[Milla]\nAaaah...\nBueno, tampoco es que me vaya a morir por no dormir...\nAl fin y al cabo, ya estoy muerta."
     },
     "XnOKDA": {
@@ -486,12 +486,12 @@
     },
     "YXOKDA": {
         "en-US": "[Mila]\nThere are those out there called ^0000FFBrutal Murderers^000000.\nThe knives they're holding...\nThey're banging them everywhere, it's so noisy!",
-        "pt-BR": "[Milla]\nTem por aí aqueles chamados de ^0000FFAssassinos Brutais^000000.\nAs facas que eles carregam fazem muito barulho quando batem em qualquer lugar!",
+        "pt-BR": "[Milla]\nExistem por aí os ^0000FFAssassinos Brutais^000000.\nAs facas que eles carregam fazem muito barulho quando batem em qualquer lugar!",
         "es-ES": "[Milla]\nHay por ahí los que llaman ^0000FFAsesinos Brutales^000000.\nLos cuchillos que llevan en las manos...\n¡Hacen mucho ruido al golpearlos contra cualquier cosa!"
     },
     "YnOKDA": {
         "en-US": "[Mila]\nI wish you'd beat the crap out of ^0000FF10 Brutal Murderers^000000 and their buddies, ^0000FF10 Gan Ceanns^000000, that haunt the Banquet Hall of the Dead. This way, you'd help them reach enlightment, at least for one day.",
-        "pt-BR": "[Milla]\nQueria que você desse uma boa surra em ^0000FF10 Assassinos Brutais^000000 e seus parceiros, ^0000FF10 Gan Ceanns^000000, que assombram o Salão de Banquete dos Mortos. Assim, você ajudaria eles a alcançarem a iluminação, por um dia que seja.",
+        "pt-BR": "[Milla]\nQueria que você desse uma boa surra em ^0000FF10 Assassinos Brutais^000000 e seus parceiros, ^0000FF10 Gan Ceanns^000000, que assombram o Salão de Banquete dos Mortos. Assim, você ajudaria eles a descansarem, por um dia que seja.",
         "es-ES": "[Milla]\nMe gustaría que le dieras una buena paliza a ^0000FF10 Asesinos Brutales^000000 y a sus compañeros, ^0000FF10 Gan Ceanns^000000, que se aparecen en el Salón de Banquetes de los Muertos. Así, podrías ayudarles a alcanzar la iluminación, aunque por un solo día."
     },
     "Y3OKDA": {
@@ -521,7 +521,7 @@
     },
     "aHOKDA": {
         "en-US": "[Milla]\nThere are these creatures called ^0000FFDisguisers^000000.\nThey hair looks like an afro and they're always very excited.\nWhen they get together with ^0000FFBlue Moon Loli Ruris^000000, the creatures with straight hair, they get incredibly loud.",
-        "pt-BR": "[Milla]\nTem umas criaturas chamadas ^0000FFDisfarçados^000000.\nO cabelo delas parece um afro e são superanimadas.\nQuando elas se juntam com ^0000FFLoli Ruri Azuis^000000, aquelas criaturas com cabelo bem liso, você não vai acreditar como são barulhentas.",
+        "pt-BR": "[Milla]\nTem umas criaturas chamadas ^0000FFDisfarçados^000000.\nO cabelo delas parece um afro e são superanimadas.\nQuando elas se juntam com as ^0000FFLoli Ruri Azuis^000000, aquelas criaturas com cabelo bem liso, você não vai acreditar como são barulhentas.",
         "es-ES": "[Milla]\nHay unas criaturas llamadas ^0000FFDisfrazadores^000000.\nLlevan el pelo al estilo afro y están muy animadas.\nCuando se juntan con {}Loli Ruri Azules^000000, aquellas criaturas con el pelo muy liso, no te puedes imaginar lo ruidosas que se ponen."
     },
     "aXOKDA": {
@@ -531,7 +531,7 @@
     },
     "anOKDA": {
         "en-US": "[Milla]\nI hope you gave those ^0000FF15 Disguisers^000000 and\n^0000FF15 Blue Moon Loli Ruris^000000 haunting the Collapsed Opera House\na taste of their own medicine and sent them home.",
-        "pt-BR": "[Milla]\nEspero que você tenha dado uma boa lição nos \n^0000FF15 Disfarçados^000000 e ^0000FF15 Loli Ruri Azuis^000000 aterrorizando \no Teatro em Ruínas e tenha mandado eles de volta para casa.",
+        "pt-BR": "[Milla]\nEspero que você tenha dado uma boa lição nos \n^0000FF15 Disfarçados^000000 e ^0000FF15 Loli Ruri Azuis^000000\naterrorizando  o Teatro em Ruínas e tenha mandado eles de volta para casa.",
         "es-ES": "[Milla]\nEspero que les hayas dado una buena lección a los \n^0000FF15 Disfrazadores^000000 y a ^0000FF15 Loli Ruri Azules^000000 \ny los hayas mandado de vuelta a casa."
     },
     "a3OKDA": {
@@ -541,7 +541,7 @@
     },
     "bHOKDA": {
         "en-US": "[Milla]\nIf you go to the Collapsed Opera House, you'll see some kids carrying dolls around.\nThey're called ^0000FFGrote^000000 and ^0000FFPierrotzoist^000000.\nThose dolls they carry are just too noisy.",
-        "pt-BR": "[Milla]\nSe você for na Ópera em Ruínas, vai ver umas crianças andando por aí com bonecos pendurados.\nSão chamadas ^0000FFGrote^000000 e ^0000FFPierrotzoist^000000.\nOs bonecos que elas carregam são barulhentos pra caramba.",
+        "pt-BR": "[Milla]\nSe você for no Teatro em Ruínas, vai ver umas crianças andando por aí com bonecos pendurados.\nSão chamadas ^0000FFGrote^000000 e ^0000FFPierrotzoist^000000.\nOs bonecos que elas carregam são barulhentos pra caramba.",
         "es-ES": "[Milla]\nSi vas a la Ópera en Ruinas, verás a unos chicos que andan con muñecos colgados.\nSon llamados ^0000FFGrote^000000 y ^0000FFPierrotzoist^000000.\nEsos muñecos que llevan colgados hacen mucho ruido."
     },
     "bXOKDA": {
@@ -566,12 +566,12 @@
     },
     "cXOKDA": {
         "en-US": "[Milla]\nIn the Banquet Hall of the Dead, find the\n<NAVI>[Snoring Ghost]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI> and the\n<NAVI>[Sleep-talking Ghost]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI> to give their nose a little pinch.\nThey need to snap out of it.",
-        "pt-BR": "[Milla]\nNo Salão de Banquete dos Mortos, encontre o\n<NAVI>[Fantasma Roncador]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI> e o\n<NAVI>[Fantasma Adormecido Tagarela]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI> e aperte o nariz deles.\nEles precisam acordar.",
+        "pt-BR": "[Milla]\nNo Salão de Banquete dos Mortos, encontre o\n<NAVI>[Fantasma Roncador]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI>\ne o <NAVI>[Fantasma Tagarela]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>\ne aperte o nariz deles. Eles precisam acordar.",
         "es-ES": "[Milla]\nEn el Salón de Banquetes de los Muertos, encontra a el\n<NAVI>[Fantasma Roncador]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI> y el <NAVI>[Fantasma Dormido Parlanchín]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI> y pellízcales la nariz.\nTienen que despertarse ya."
     },
     "cnOKDA": {
         "en-US": "[Mila]\n...I can't eat anymore...\n...Hic.\nOh, you're back? I dozed off without realizing it.\nIt's really annoying to hear that snoring from here...",
-        "pt-BR": "[Milla]\nNão consigo comer mais...\nHic!\nAh, você voltou? Acabei cochilando sem perceber.\nÉ muito irritante ouvir esse ronco daqui...",
+        "pt-BR": "[Milla]\nNão consigo beber mais...\nHic!\nAh, você voltou? Acabei cochilando sem perceber.\nÉ muito irritante ouvir esse ronco daqui...",
         "es-ES": "[Milla]\nNo puedo comer más...\n¡Hic!\nAh, ¿ya regresaste? Me quedé dormida sin darme cuenta.\nEs muy molesto que se oiga ese ronquido hasta aquí..."
     },
     "c3OKDA": {
@@ -581,12 +581,12 @@
     },
     "dHOKDA": {
         "en-US": "[Milla]\nAre you saying it’s trivial?\nSending a few of them from the Collapsed Opera House home won't make me feel completely at ease.\nSo, can you help make things more comfortable for me?",
-        "pt-BR": "[Milla]\nVocê quer dizer que é algo trivial?\nMandar alguns da Ópera em Ruínas de volta pra casa não vai me deixar totalmente tranquila.\nEntão, você pode ajudar a deixar as coisas mais confortáveis pra mim?",
+        "pt-BR": "[Milla]\nVocê quer dizer que é algo trivial?\nMandar alguns do Teatro em Ruínas de volta pra casa não vai me deixar totalmente tranquila.\nEntão, você pode ajudar a deixar as coisas mais confortáveis pra mim?",
         "es-ES": "[Milla]\n¿Quieres decir que es algo trivial?\nBueno, mandar a unos cuantos de la Ópera en Ruinas a sus casas no iba a traer una paz absoluta.\nEntonces, ¿puedes ayudarme para que todo sea más cómodo para mí?"
     },
     "dXOKDA": {
         "en-US": "[Milla]\nDefeat anyone at the Collapsed Opera House.\nMaybe about 300?\nBeating this many once a day should be enough to give them a very big lesson.",
-        "pt-BR": "[Milla]\nDerrote qualquer um que estiver no Teatro em Ruínas.\nUns 300, talvez?\nDerrotar tantos uma vez ao dia deve bastar pra dar uma boa lição neles.",
+        "pt-BR": "[Milla]\nDerrote qualquer um que estiver no Teatro em Ruínas.\nUns 300 monstros, talvez?\nDerrotar tantos uma vez ao dia deve bastar pra dar uma boa lição neles.",
         "es-ES": "[Milla]\nDerrota a cualquiera que esté en la Ópera en Ruinas.\n¿Unos 300, quizá?\nDerrotar a tantos una vez al día debería bastar para darles una buena lección."
     },
     "dnOKDA": {
@@ -601,7 +601,7 @@
     },
     "eHOKDA": {
         "en-US": "[Milla]\nDefeat anyone at the Collapsed Opera House.\nMaybe about 1500?\nBeating this many once a day should be enough to give them a very big lesson.",
-        "pt-BR": "[Milla]\nDerrote qualquer um que estiver no Teatro em Ruínas.\nUns 1.500, talvez?\nDerrotar tantos uma vez ao dia deve bastar pra dar uma boa lição neles.",
+        "pt-BR": "[Milla]\nDerrote qualquer um que estiver no Teatro em Ruínas.\nUns 1.500 monstros, talvez?\nDerrotar tantos uma vez ao dia deve bastar pra dar uma boa lição neles.",
         "es-ES": "[Milla]\nDerrota a cualquiera que esté en la Ópera en Ruinas.\n¿Unos 1500, quizá?\nDerrotar a tantos una vez al día debería bastar para darles una buena lección."
     },
     "eXOKDA": {
@@ -621,12 +621,12 @@
     },
     "fHOKDA": {
         "en-US": "Another Dead: Shut up! Let me sleep!",
-        "pt-BR": "Outro Morto: Que barulho! Me deixa dormir!",
+        "pt-BR": "Morto: Que barulho! Me deixa dormir!",
         "es-ES": "Otro Muerto: ¡Qué ruido! ¡Déjame dormir!"
     },
     "fXOKDA": {
         "en-US": "Another Dead: That one never sleeps!",
-        "pt-BR": "Outro Morto: Aquele ali nunca dorme!",
+        "pt-BR": "Morto: Aquele ali nunca dorme!",
         "es-ES": "Otro Muerto: ¡Ese tipo nunca duerme!"
     },
     "fnOKDA": {
@@ -646,7 +646,7 @@
     },
     "gXOKDA": {
         "en-US": "Excited Gatekeeper's Friend: ♪ Let's sing... all night long... or forever... ♪",
-        "pt-BR": "Amigo do Guardião Animado: ♪ Vamos cantar... a noite toda... ou para sempre... ♪",
+        "pt-BR": "Amigo do Guardião Animado: Vamos cantar~... a noite toda... ou para sempre~",
         "es-ES": "Amigo del Guardián Animado: ♪ Cantemos... por toda la noche... o para siempre... ♪"
     },
     "gnOKDA": {
@@ -671,7 +671,7 @@
     },
     "hnOKDA": {
         "en-US": "Excited Gatekeeper: Yahoo! Living soul! After playing around! You don't have to go!",
-        "pt-BR": "Guardião Animado: Uhuu! Ó, encarnado! Depois de brincar! Não precisa ir embora!",
+        "pt-BR": "Guardião Animado: Uhuu! Ó, Alma Viva! Depois de brincar! Não precisa ir embora!",
         "es-ES": "Guardián Animado: ¡Hurra! ¡Oh, encarnado! ¡Después de jugar! ¡No necesita irse!"
     },
     "h3OKDA": {

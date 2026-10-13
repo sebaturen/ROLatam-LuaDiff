@@ -703,6 +703,178 @@ QuestInfoList = {
 		Summary = "Vuelve mañana",
 		CoolTimeQuest = 1
 	},
+	[1077] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En Jardín Suspendido, elimina 1 Silva Papilia."
+		},
+		Summary = "Jardín Suspendido"
+	},
+	[1078] = {
+		Title = "[Espera] LE - Jardín Suspendido",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1079] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En el Jardín Oculto, elimina 1 Pimiento Rojo."
+		},
+		Summary = "Jardín Oculto"
+	},
+	[1080] = {
+		Title = "[Espera] LE - Jardín Oculto",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1081] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En Edda de Glastheim, elimina 1 Rey Corrompido."
+		},
+		Summary = "Edda de Glastheim"
+	},
+	[1082] = {
+		Title = "[Espera] LE - EDDA de Glastheim",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1083] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En la Mansión de la Desilusión, elimina 1 Schulang."
+		},
+		Summary = "Mansión de la Desilusión"
+	},
+	[1084] = {
+		Title = "[Espera] LE - Mansión de la Desilusión",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1085] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En el Glastheim Infernal, elimina 1 Espejismo de Amdarais."
+		},
+		Summary = "Glastheim Infernal"
+	},
+	[1086] = {
+		Title = "[Espera] LE - Glastheim Infernal",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1087] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En Tumba del Monarca, elimina 1 Señor de la muerte."
+		},
+		Summary = "Tumba del Monarca"
+	},
+	[1088] = {
+		Title = "[Espera] LE - Tumba del Monarca",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1089] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En el Espacio Infinito, elimina 1 Tao Gunka Infinito."
+		},
+		Summary = "Espacio Infinito"
+	},
+	[1090] = {
+		Title = "[Espera] LE - Espacio Infinito",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1091] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En la Granja de Pitayas, elimina 1 Jefe Pitaya."
+		},
+		Summary = "Granja de Pitayas"
+	},
+	[1092] = {
+		Title = "[Espera] LE - Granja de Pitayas",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1093] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En el Santuario, elimina 5 Custodio del Templo y 5 Guardia del Templo."
+		},
+		Summary = "Purificación del Santuario"
+	},
+	[1094] = {
+		Title = "[Espera] LE - Purificación del Santuario",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1095] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En EDDA del Biolaboratorio, elimina 1 Espadachín Desconocido."
+		},
+		Summary = "EDDA del Biolaboratorio"
+	},
+	[1096] = {
+		Title = "[Espera] LE - EDDA del Biolaboratorio",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1097] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En Jardín Suspendido, elimina 1 Gran Papilia."
+		},
+		Summary = "Jardín Suspendido"
+	},
+	[1098] = {
+		Title = "[Espera] LE - Jardín Suspendido",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
+	},
+	[1099] = {
+		Title = "Liga de los Exploradores",
+		Description = {
+			"En el Jardín Oculto, elimina 1 Gran Pimiento Rojo (Difícil)."
+		},
+		Summary = "Jardín Oculto (Difícil)"
+	},
 	[1100] = {
 		Title = "¡En solitario en la Mazmorra de la Esfinge!",
 		Description = {
@@ -797,7 +969,7 @@ QuestInfoList = {
 	[1113] = {
 		Title = "Lope y Euridi: Promesa rota",
 		Description = {
-			"Tras unir las Pistas, es evidente que Pitt tuvo algo que ver con lo que le pasó a Lope…"
+			"Tras unir las Pistas, es evidente que Pitt tuvo algo que ver con lo que le pasó a Lope..."
 		},
 		Summary = ""
 	},
@@ -825,7 +997,7 @@ QuestInfoList = {
 	[1117] = {
 		Title = "Lope y Euridi: Promesa de eternidad",
 		Description = {
-			"Euridi toma bastante mal la noticia sobre Lope cuando le das el Anillo de Lope…"
+			"Euridi toma bastante mal la noticia sobre Lope cuando le das el Anillo de Lope..."
 		},
 		Summary = "Habla con la amiga de Euridi."
 	},
@@ -1375,107 +1547,107 @@ QuestInfoList = {
 	[1214] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
-			"Busca el Retrato del profesor Gusano en las estanterías del piso 4 de la Torre Bifrost."
+			"Busca el Retrato del profesor Gusano en las estanterías del piso 4 de la Torre Bifröst."
 		},
-		Summary = "Investiga las estanterías del piso 4 de la Torre Bifrost."
+		Summary = "Investiga las estanterías del piso 4 de la Torre Bifröst."
 	},
 	[1215] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Encontraste el Retrato del profesor Gusano. Llévaselo al profesor Gusano."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst."
 	},
 	[1216] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Consigue 1 Pétalo de la tierra de los pimpollos, recolecta 20 Hongos con forma de estrella y habla con el profesor Gusano."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst."
 	},
 	[1217] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
-			"Investiga los Registros del profesor Gusano en las paredes de la Torre Bifrost."
+			"Investiga los Registros del profesor Gusano en las paredes de la Torre Bifröst."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost tras investigar los Registros de 5 paredes."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst tras investigar los Registros de 5 paredes."
 	},
 	[1218] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Lee el primer Registro."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost tras investigar los Registros de 5 paredes."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst tras investigar los Registros de 5 paredes."
 	},
 	[1219] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Lee el segundo Registro."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost tras investigar los Registros de 5 paredes."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst tras investigar los Registros de 5 paredes."
 	},
 	[1220] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Lee el tercer registro."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost tras investigar los Registros de 5 paredes."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst tras investigar los Registros de 5 paredes."
 	},
 	[1221] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Lee el cuarto Registro."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost tras investigar los Registros de 5 paredes."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst tras investigar los Registros de 5 paredes."
 	},
 	[1222] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Lee el quinto registro."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost tras investigar los Registros de 5 paredes."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst tras investigar los Registros de 5 paredes."
 	},
 	[1223] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
-			"Busca la Rana diario núm. 3 en el piso 3 de la Torre Bifrost."
+			"Busca la Rana diario núm. 3 en el piso 3 de la Torre Bifröst."
 		},
-		Summary = "Habla con la Rana diario núm. 3 en el piso 3 de la Torre Bifrost."
+		Summary = "Habla con la Rana diario núm. 3 en el piso 3 de la Torre Bifröst."
 	},
 	[1224] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
-			"Busca la Rana diario núm. 6 en el piso 1 de la Torre Bifrost."
+			"Busca la Rana diario núm. 6 en el piso 1 de la Torre Bifröst."
 		},
-		Summary = "Habla con la Rana diario núm. 6 en el piso 1 de la Torre Bifrost."
+		Summary = "Habla con la Rana diario núm. 6 en el piso 1 de la Torre Bifröst."
 	},
 	[1225] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
-			"Elimina 15 Lichterns (azules) en el piso 1 de la Torre Bifrost."
+			"Elimina 15 Lichterns (azules) en el piso 1 de la Torre Bifröst."
 		},
-		Summary = "Habla con la Rana diario núm. 6 en el piso 1 de la Torre Bifrost."
+		Summary = "Habla con la Rana diario núm. 6 en el piso 1 de la Torre Bifröst."
 	},
 	[1226] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
-			"Busca la Rana diario núm. 30 cerca de la Torre Bifrost."
+			"Busca la Rana diario núm. 30 cerca de la Torre Bifröst."
 		},
-		Summary = "Habla con la Rana diario núm. 30 cerca de la Torre Bifrost."
+		Summary = "Habla con la Rana diario núm. 30 cerca de la Torre Bifröst."
 	},
 	[1227] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Obtén un Pétalo de la tierra de los pimpollos, recolecta 10 Hongos con forma de estrella."
 		},
-		Summary = "Habla con la Rana diario núm. 3 cerca de la Torre Bifrost."
+		Summary = "Habla con la Rana diario núm. 3 cerca de la Torre Bifröst."
 	},
 	[1228] = {
 		Title = "Recuperación de la memoria del profesor Gusano",
 		Description = {
 			"Informe final para el profesor Gusano."
 		},
-		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifrost."
+		Summary = "Habla con el profesor Gusano en el piso 4 de la Torre Bifröst."
 	},
 	[1229] = {
 		Title = "Entrenamiento de Espadachín",
@@ -3201,7 +3373,7 @@ QuestInfoList = {
 	[1494] = {
 		Title = "Investigación de Mitchell",
 		Description = {
-			"La anciana dice que hables con el pescador que vive al sur de la Academia Kiel Hyre. Él encontró el cuerpo de Allysia en el río…"
+			"La anciana dice que hables con el pescador que vive al sur de la Academia Kiel Hyre. Él encontró el cuerpo de Allysia en el río..."
 		},
 		Summary = "Busca al pescador."
 	},
@@ -3531,7 +3703,7 @@ QuestInfoList = {
 	[2031] = {
 		Title = "Cambio de clase a Alquimista",
 		Description = {
-			"Raspuchin te está llamando. Ve a hablar con él. No sé muy bien de qué hablarás con él…"
+			"Raspuchin te está llamando. Ve a hablar con él. No sé muy bien de qué hablarás con él..."
 		},
 		Summary = "Habla con el fastidioso Alquimista Raspuchin."
 	},
@@ -3643,21 +3815,21 @@ QuestInfoList = {
 	[2047] = {
 		Title = "Cambio de clase a Sabio",
 		Description = {
-			"Veamos cómo te fue en las pruebas escrita y práctica. Bien… según tu puntaje. Te sugiero que investigues sobre Yggdrasil. Pide ayuda al profesor Saphien en la Sala de conferencias."
+			"Veamos cómo te fue en las pruebas escrita y práctica. Bien... según tu puntaje. Te sugiero que investigues sobre Yggdrasil. Pide ayuda al profesor Saphien en la Sala de conferencias."
 		},
 		Summary = "Habla con el profesor Saphien en la Sala de conferencias."
 	},
 	[2048] = {
 		Title = "Cambio de clase a Sabio",
 		Description = {
-			"Veamos cómo te fue en las pruebas escrita y práctica. Bien… según tu puntaje. Te sugiero que estudies los diversos monstruos hay por todo el mundo. Pide ayuda al profesor Lucius en el Museo de los Monstruos."
+			"Veamos cómo te fue en las pruebas escrita y práctica. Bien... según tu puntaje. Te sugiero que estudies los diversos monstruos hay por todo el mundo. Pide ayuda al profesor Lucius en el Museo de los Monstruos."
 		},
 		Summary = "Habla con el profesor Lucius en el Museo de Monstruos."
 	},
 	[2049] = {
 		Title = "Cambio de clase a Sabio",
 		Description = {
-			"Veamos cómo te fue en las pruebas escrita y práctica. Bien… según tu puntaje. Te sugiero que estudies las propiedades de la magia. Pide ayuda al profesor Aebecee, en el laboratorio de somatología."
+			"Veamos cómo te fue en las pruebas escrita y práctica. Bien... según tu puntaje. Te sugiero que estudies las propiedades de la magia. Pide ayuda al profesor Aebecee, en el laboratorio de somatología."
 		},
 		Summary = "Habla con el profesor Aebecee en el laboratorio de somatología."
 	},
@@ -3860,7 +4032,7 @@ QuestInfoList = {
 	[2078] = {
 		Title = "Propiedad maldita",
 		Description = {
-			"Aunque ya había identificado el mineral, unos tipos sospechosos asaltaron a Shinokas. Él deja un mensaje. “Ellos… fue…”, y muere."
+			"Aunque ya había identificado el mineral, unos tipos sospechosos asaltaron a Shinokas. Él deja un mensaje. “Ellos... fue...”, y muere."
 		},
 		Summary = "Vuelve con Buender Hikeman."
 	},
@@ -4000,7 +4172,7 @@ QuestInfoList = {
 	[2111] = {
 		Title = "Un Mago en la mazmorra de hielo",
 		Description = {
-			"“Necesito construir un artefacto para romper ese hielo mágico. Mmm… ¿Me ayudarías? Necesito conseguir 5 Piedras de viento, 1 Martillo y 1 Pergamino en blanco”. -Hamion"
+			"“Necesito construir un artefacto para romper ese hielo mágico. Mmm... ¿Me ayudarías? Necesito conseguir 5 Piedras de viento, 1 Martillo y 1 Pergamino en blanco”. -Hamion"
 		},
 		Summary = "5 Piedras de viento, 1 Martillo y 1 Pergamino en blanco."
 	},
@@ -4014,7 +4186,7 @@ QuestInfoList = {
 	[2113] = {
 		Title = "Un Mago en la mazmorra de hielo",
 		Description = {
-			"“Bueno, supongo aquí nos separamos. Toma esto como un regalo… Y, por favor, no le digas a nadie más que el hielo me atrapó por mi propia culpa, ¿sí?”"
+			"“Bueno, supongo aquí nos separamos. Toma esto como un regalo... Y, por favor, no le digas a nadie más que el hielo me atrapó por mi propia culpa, ¿sí?”"
 		},
 		Summary = "Lleva el collar chispeante a Urstialla."
 	},
@@ -4525,7 +4697,7 @@ QuestInfoList = {
 	[2188] = {
 		Title = "Cambio de clase a Arzobispo",
 		Description = {
-			"El Sacerdote Dayan dice que necesitas hacer una peregrinación al árbol Yggdrasil. Recuerda que el primer camino es la meditación…"
+			"El Sacerdote Dayan dice que necesitas hacer una peregrinación al árbol Yggdrasil. Recuerda que el primer camino es la meditación..."
 		},
 		Summary = "Busca el manantial de Hvergelmir."
 	},
@@ -5349,7 +5521,7 @@ QuestInfoList = {
 	[3000] = {
 		Title = "Cambio de clase a Bardo",
 		Description = {
-			"Hermosa canción: Conocí a un hermoso Bardo cantor. Quiero pertenecer a la clase Bardo… ¿Debería preguntarle cómo se convirtió en Bardo?"
+			"Hermosa canción: Conocí a un hermoso Bardo cantor. Quiero pertenecer a la clase Bardo... ¿Debería preguntarle cómo se convirtió en Bardo?"
 		},
 		Summary = "  "
 	},
@@ -5370,7 +5542,7 @@ QuestInfoList = {
 	[3003] = {
 		Title = "Cambio de clase a Bardo",
 		Description = {
-			"Seguir en una canción: El Bardo Lalo me pide que lo siga en una canción. Si canto exactamente como él, podría pertenecer a la clase Bardo…"
+			"Seguir en una canción: El Bardo Lalo me pide que lo siga en una canción. Si canto exactamente como él, podría pertenecer a la clase Bardo..."
 		},
 		Summary = "  "
 	},
@@ -5426,7 +5598,7 @@ QuestInfoList = {
 	[3011] = {
 		Title = "Cambio de clase a Cruzado",
 		Description = {
-			"Reúnete con Gabriel San Valentín en el santuario de Prontera. Te hará la siguiente prueba… Vete ya."
+			"Reúnete con Gabriel San Valentín en el santuario de Prontera. Te hará la siguiente prueba... Vete ya."
 		},
 		Summary = "  "
 	},
@@ -5517,7 +5689,7 @@ QuestInfoList = {
 	[3024] = {
 		Title = "Cambio de clase a Monje",
 		Description = {
-			"Bien, el siguiente Monje que tienes que conocer es… ¡oh! Ve a Touha. Ve al norte desde aquí y lo encontrarás en el cementerio."
+			"Bien, el siguiente Monje que tienes que conocer es... ¡oh! Ve a Touha. Ve al norte desde aquí y lo encontrarás en el cementerio."
 		},
 		Summary = "Touha."
 	},
@@ -5538,7 +5710,7 @@ QuestInfoList = {
 	[3027] = {
 		Title = "Cambio de clase a Monje",
 		Description = {
-			"Hmm… Recolección de Hongos. Así que quieres poner a prueba tu tolerancia, ¿eh? Ve a prepararte y vuelve más tarde cuando tengas todo listo."
+			"Hmm... Recolección de Hongos. Así que quieres poner a prueba tu tolerancia, ¿eh? Ve a prepararte y vuelve más tarde cuando tengas todo listo."
 		},
 		Summary = "Recoge Hongos en la abadía."
 	},
@@ -5573,7 +5745,7 @@ QuestInfoList = {
 	[3032] = {
 		Title = "Cambio de clase a Monje: Hazte Monje",
 		Description = {
-			"¡Bien hecho! Ahora… Te daré una poción secreta. Si la bebes, tendrás suficiente fuerza física para transformarte en Monje. ¡Vuelve con el senséi Moohae!"
+			"¡Bien hecho! Ahora... Te daré una poción secreta. Si la bebes, tendrás suficiente fuerza física para transformarte en Monje. ¡Vuelve con el senséi Moohae!"
 		},
 		Summary = "  "
 	},
@@ -5718,7 +5890,7 @@ QuestInfoList = {
 		Summary = " 10 unidades de Leche, 100 Hierbas verdes, 50 Jellopy, 5 Botellas vacías."
 	},
 	[3066] = {
-		Title = "Niños de Veins: Para hacer un Jabón de chamelepu…",
+		Title = "Niños de Veins: Para hacer un Jabón de chamelepu...",
 		Description = {
 			"Ve a visitar al Sr. Saraman, el dueño de la granja de Camellos, con los ingredientes.  Él te dirá qué hacer con ellos. ¡Andando!"
 		},
@@ -5741,7 +5913,7 @@ QuestInfoList = {
 	[3069] = {
 		Title = "Niños de Veins: ¿Dónde está el Camello de arena de seda?",
 		Description = {
-			"Qué extraño… Los Camellos no responden a los estimulantes. Volvamos con el Sr. Saraman y averigüemos qué está pasando."
+			"Qué extraño... Los Camellos no responden a los estimulantes. Volvamos con el Sr. Saraman y averigüemos qué está pasando."
 		},
 		Summary = " "
 	},
@@ -5846,7 +6018,7 @@ QuestInfoList = {
 	[3085] = {
 		Title = "Llamada del comandante",
 		Description = {
-			"Abidal, un oficial de personal, tiene algo que decirte. El comandante de la expedición parece tener una misión importante para mí…"
+			"Abidal, un oficial de personal, tiene algo que decirte. El comandante de la expedición parece tener una misión importante para mí..."
 		},
 		Summary = ""
 	},
@@ -5928,7 +6100,7 @@ QuestInfoList = {
 		Summary = "  "
 	},
 	[3102] = {
-		Title = "Consolidación de grandes deudas: El bono de deuda aparece, pero…",
+		Title = "Consolidación de grandes deudas: El bono de deuda aparece, pero...",
 		Description = {
 			"Encuentras el bono de deuda, pero está mojado y rasgado. Parece completamente arruinado. Llévaselo a Muff de todos modos."
 		},
@@ -5951,7 +6123,7 @@ QuestInfoList = {
 	[3105] = {
 		Title = "Consolidación de grandes deudas: Reparación de la Secadora mágica",
 		Description = {
-			"Dorian te dice cómo arreglar la secadora y deja que la arregles tú. Parece difícil…"
+			"Dorian te dice cómo arreglar la secadora y deja que la arregles tú. Parece difícil..."
 		},
 		Summary = "  "
 	},
@@ -6014,7 +6186,7 @@ QuestInfoList = {
 	[3114] = {
 		Title = "Diamante robado: El doctor Wola",
 		Description = {
-			"Leblo… Oh, ¿el hombre de Geffen? Ya la preparé. Se la haré llegar en breve."
+			"Leblo... Oh, ¿el hombre de Geffen? Ya la preparé. Se la haré llegar en breve."
 		},
 		Summary = "  "
 	},
@@ -6112,7 +6284,7 @@ QuestInfoList = {
 	[3128] = {
 		Title = "Se busca a la Pandilla Z: El ataque de la Pandilla Z",
 		Description = {
-			"Encontraste al informante de la Pandilla Z. El agitador de la Pandilla Z parece estar en algún lugar del desierto de Morroc… Vuelve con Marybell."
+			"Encontraste al informante de la Pandilla Z. El agitador de la Pandilla Z parece estar en algún lugar del desierto de Morroc... Vuelve con Marybell."
 		},
 		Summary = "  "
 	},
@@ -6124,7 +6296,7 @@ QuestInfoList = {
 		Summary = "  "
 	},
 	[3130] = {
-		Title = "Se busca a la Pandilla Z: Descifrando la carta…",
+		Title = "Se busca a la Pandilla Z: Descifrando la carta...",
 		Description = {
 			"Parece un trozo de papel en blanco, pero si se le agrega la cantidad adecuada de calor y luz, se puede leer el contenido. Tienes que conseguir algunos materiales para esto."
 		},
@@ -6140,7 +6312,7 @@ QuestInfoList = {
 	[3132] = {
 		Title = "Se busca a la Pandilla Z: Busca al agitador de la Pandilla Z",
 		Description = {
-			"Descubriste que hay una entrada al escondite de la Pandilla Z en el desierto del sur de Morroc. Tal vez la contraseña de Gooho Ahn sea útil…"
+			"Descubriste que hay una entrada al escondite de la Pandilla Z en el desierto del sur de Morroc. Tal vez la contraseña de Gooho Ahn sea útil..."
 		},
 		Summary = "  ¡Weii arr prowd Z G gna Aynoen hwo sspotp uys wlil eb kckide on htier ssa!"
 	},
@@ -6348,7 +6520,7 @@ QuestInfoList = {
 		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3252] = {
-		Title = "Eso no era una Obeaune…",
+		Title = "Eso no era una Obeaune...",
 		Description = {
 			"Una solicitud de un cliente desconocido. Caza 30 Tritones en la mazmorra de Byalan."
 		},
@@ -6598,12 +6770,12 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[3335] = {
-		Title = "Crear un Sombrero de Flor de Cerezo no es fácil.",
+		Title = "Crear un Sombrero de Flor de Cerezo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Arles]<INFO>prontera,167,291,0,101,0</INFO></NAVI>",
-			"Te pedió que trajeras los materiales necesarios para hacer el disfraz.",
-			"Trae 10 Ramitas de Flores y 5 Hierbas Amarillas."
+			"<NAVI>[Arles]<INFO>prontera,167,291,0,101,0</INFO></NAVI>, en Prontera,",
+			"te pedió que trajeras los materiales necesarios para hacer el disfraz.",
+			"Trae 10x Ramita de Flores y 5x Hierba Amarilla."
 		},
 		Summary = "Entregar materiales a Arles"
 	},
@@ -8958,7 +9130,7 @@ QuestInfoList = {
 	[4254] = {
 		Title = "Hada con dolor de estómago",
 		Description = {
-			"Las hadas también tienen dolor de estómago…. Ayuda al hada a conseguir los materiales."
+			"Las hadas también tienen dolor de estómago.... Ayuda al hada a conseguir los materiales."
 		},
 		Summary = "10 Hierbas verdes."
 	},
@@ -9700,7 +9872,7 @@ QuestInfoList = {
 	[5053] = {
 		Title = "Arma tradicional",
 		Description = {
-			"Obtener la aprobación de la tribu jaty era mi tan anhelado deseo… En fin… La tribu jaty te dio su aprobación, trae 100 unidades de Cuero de Comodo en mi lugar."
+			"Obtener la aprobación de la tribu jaty era mi tan anhelado deseo... En fin... La tribu jaty te dio su aprobación, trae 100 unidades de Cuero de Comodo en mi lugar."
 		},
 		Summary = "Trae 100 unidades de Cuero de Comodo al Maestro herrero Gatti."
 	},
@@ -9798,7 +9970,7 @@ QuestInfoList = {
 	[5067] = {
 		Title = "Imagen aterradora 2",
 		Description = {
-			"El gato administrador dijo: “Una imagen aterradora… es realmente difícil… ¿Por qué no rendirse? ¡¡Será sencillorecolectar quejas!! Dicen que a veces el ejército hace eso~."
+			"El gato administrador dijo: “Una imagen aterradora... es realmente difícil... ¿Por qué no rendirse? ¡¡Será sencillorecolectar quejas!! Dicen que a veces el ejército hace eso~."
 		},
 		Summary = "Dile al director de Jugadores Gatunos que traiga una caja para recolectar quejas."
 	},
@@ -9966,7 +10138,7 @@ QuestInfoList = {
 	[5091] = {
 		Title = "A Malangdo",
 		Description = {
-			"A Malangdo…"
+			"A Malangdo..."
 		},
 		Summary = "Malangdo."
 	},
@@ -10092,7 +10264,7 @@ QuestInfoList = {
 	[5109] = {
 		Title = "Rumor preocupante",
 		Description = {
-			"Por ahí dicen que están experimentando con humanos en Lighthalzen… Investiga para averiguar dónde está ocurriendo esto."
+			"Por ahí dicen que están experimentando con humanos en Lighthalzen... Investiga para averiguar dónde está ocurriendo esto."
 		},
 		Summary = "Busca el lugar donde se está llevando a cabo la experimentación con humanos."
 	},
@@ -10104,7 +10276,7 @@ QuestInfoList = {
 		Summary = "Síguelo."
 	},
 	[5111] = {
-		Title = "Al laboratorio…",
+		Title = "Al laboratorio...",
 		Description = {
 			"Ve al laboratorio de Wolfchev para evitar que el Conejillo de Indias humano se te eche encima."
 		},
@@ -11664,7 +11836,7 @@ QuestInfoList = {
 		Title = "Cosita Molesta",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Un pequeño golpe en el cuerno… No lo entiendo porque no tengo un cuerno, pero supongo que debe ser algo molesto. Traigamos 20 Lijas cazando a los Taffy."
+			"Un pequeño golpe en el cuerno... No lo entiendo porque no tengo un cuerno, pero supongo que debe ser algo molesto. Traigamos 20 Lijas cazando a los Taffy."
 		},
 		Summary = ""
 	},
@@ -11980,7 +12152,7 @@ QuestInfoList = {
 	[5494] = {
 		Title = "[Se busca]",
 		Description = {
-			"Elimina a Lord Irine en los recuerdos de Sara."
+			"Elimina a Lord Irine en los recuerdos de Sarah."
 		}
 	},
 	[5495] = {
@@ -13910,15 +14082,15 @@ QuestInfoList = {
 		Summary = "Conversación con Robot de Limpieza Ømega completada"
 	},
 	[5893] = {
-		Title = "Limpieza de Planta de Tratamiento de Aguas Residuales I",
+		Title = "Limpieza de Estación de Aguas Residuales I",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Robot de Limpieza Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste porque no puede limpiar.",
 			"Derrota 44 <NAVI>[Venenum de desagüe]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"La recompensa solo se otorgará tras completar Limpieza de Planta de Tratamiento de Aguas Residuales I, II y III."
+			"La recompensa solo se otorgará tras completar Limpieza de Estación de Aguas Residuales I, II y III."
 		},
-		Summary = "Planta de Tratamiento de Aguas Residuales",
+		Summary = "Estación de Aguas Residuales",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5894] = {
@@ -13928,29 +14100,29 @@ QuestInfoList = {
 			"<NAVI>[Robot de Limpieza Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste porque no puede limpiar.",
 			"Derrota 44 <NAVI>[Calambre de desagüe]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"La recompensa solo se otorgará tras completar Limpieza de Planta de Tratamiento de Aguas Residuales I, II y III."
+			"La recompensa solo se otorgará tras completar Limpieza de Estación de Aguas Residuales I, II y III."
 		},
-		Summary = "Planta de Tratamiento de Aguas Residuales",
+		Summary = "Estación de Aguas Residuales",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5895] = {
-		Title = "Limpieza de Planta de Tratamiento de Aguas Residuales III",
+		Title = "Limpieza de Estación de Aguas Residuales III",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Robot de Limpieza Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste porque no puede limpiar.",
 			"Derrota 44 <NAVI>[Cascada de desagüe]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"La recompensa solo se otorgará tras completar Limpieza de Planta de Tratamiento de Aguas Residuales I, II y III."
+			"La recompensa solo se otorgará tras completar Limpieza de Estación de Aguas Residuales I, II y III."
 		},
 		Summary = "44 Cascada de desagüe",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5896] = {
-		Title = "[En espera] Limpieza de Planta de Tratamiento de Aguas Residuales",
+		Title = "[En espera] Limpieza de Estación de Aguas Residuales",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Tras cierto tiempo,",
-			"Podrás volver a aceptar la misión de Limpieza de Planta de Tratamiento de Aguas Residuales hablando con <NAVI>[Robot de Limpieza Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"Podrás volver a aceptar la misión de Limpieza de Estación de Aguas Residuales hablando con <NAVI>[Robot de Limpieza Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14071,7 +14243,7 @@ QuestInfoList = {
 		Description = {
 			"El dueño de la cabaña me sugirió que me uniera a la clase Cazavientos. Debería hablar con él.",
 			"",
-			"^FF0000Para cambiar de clase…^000000",
+			"^FF0000Para cambiar de clase...^000000",
 			"^FF0000Usa todos tus puntos de habilidad restantes.^000000",
 			"^FF0000Retira tu Halcón o Worg.^000000",
 			"^FF0000Bájate de tu montura.^000000"
@@ -14079,10 +14251,10 @@ QuestInfoList = {
 		Summary = "Habla con el dueño de la cabaña."
 	},
 	[5908] = {
-		Title = "Lugar del accidente aéreo",
+		Title = "Lugar de la Caída de la Aeronave",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Oigamos al Dr. Serafit hablar del Caída de la Aeronave."
+			"Oigamos al Dr. Serafit hablar de la Caída de la Aeronave."
 		},
 		Summary = ""
 	},
@@ -14814,7 +14986,7 @@ QuestInfoList = {
 		Title = "[Diario] Mímic mascota del diablo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"La supuesta mascota robó la comida, supongo que ya el trabajo quedó hecho… Informemos al <NAVI>[Diablo en la caja]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>."
+			"La supuesta mascota robó la comida, supongo que ya el trabajo quedó hecho... Informemos al <NAVI>[Diablo en la caja]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Avisa al diablo."
 	},
@@ -14829,7 +15001,7 @@ QuestInfoList = {
 	[6000] = {
 		Title = "Cambio de clase a Taekwon",
 		Description = {
-			"Elegiste tu camino para convertirte en Taekwon. Debes aumentar tu nivel de base y hablar con <NAVI>[Phoenix]<INFO>payon_in02,64,71,0,100,0,0</INFO></NAVI>."
+			"Elegiste tu camino para convertirte en Taekwon. Debes aumentar tu nivel de base y hablar con <NAVI>[Phoenix]<INFO>payon_in02,62,10,0,100,0,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
@@ -15014,7 +15186,7 @@ QuestInfoList = {
 	[7006] = {
 		Title = "Cambio de clase a Bailarina",
 		Description = {
-			"¡Tus pasos y ondas corporales estuvieron fantásticos! La instructora Bijou debe de estar muy impresionada. Vamos a averiguar lo que piensa realmente…"
+			"¡Tus pasos y ondas corporales estuvieron fantásticos! La instructora Bijou debe de estar muy impresionada. Vamos a averiguar lo que piensa realmente..."
 		},
 		Summary = "Conversación con Bijou."
 	},
@@ -15042,7 +15214,7 @@ QuestInfoList = {
 	[7010] = {
 		Title = "Guerrero del sol, la luna y las estrellas: ¿Estrellas?",
 		Description = {
-			"Tráeme un trozo de estrella y la arena de una estrella…"
+			"Tráeme un trozo de estrella y la arena de una estrella..."
 		},
 		Summary = "Un trozo de estrella, arena de una estrella."
 	},
@@ -15063,14 +15235,14 @@ QuestInfoList = {
 	[7013] = {
 		Title = "En busca de Rayan Moore",
 		Description = {
-			"… Expresaste que no te sientes bien haciendo tareas sencillas, y el Sr. Kidd te dice que le aclares a Echinacea que no quieres hacer esa tarea."
+			"... Expresaste que no te sientes bien haciendo tareas sencillas, y el Sr. Kidd te dice que le aclares a Echinacea que no quieres hacer esa tarea."
 		},
 		Summary = "Echinacea."
 	},
 	[7014] = {
 		Title = "En busca de Rayan Moore",
 		Description = {
-			"… Fue imposible convencer a Echinacea. Deberías regresar y ayudar al Sr. Kidd a como dé lugar."
+			"... Fue imposible convencer a Echinacea. Deberías regresar y ayudar al Sr. Kidd a como dé lugar."
 		},
 		Summary = "Sr. Kidd."
 	},
@@ -15084,7 +15256,7 @@ QuestInfoList = {
 	[7016] = {
 		Title = "En busca de Rayan Moore",
 		Description = {
-			"Debes investigar la región donde emboscaron a Rin. La zona está en algún lugar al oeste del Lago del abismo y al sur de la segunda colina desde la cima de la montaña…"
+			"Debes investigar la región donde emboscaron a Rin. La zona está en algún lugar al oeste del Lago del abismo y al sur de la segunda colina desde la cima de la montaña..."
 		},
 		Summary = "Investiga el campo oeste del Lago del abismo."
 	},
@@ -15105,7 +15277,7 @@ QuestInfoList = {
 	[7019] = {
 		Title = "En busca de Rayan Moore",
 		Description = {
-			"Entregaste el Diario y un Cristal a Kidd, pero no logras sacarte de la cabeza sus últimas palabras…"
+			"Entregaste el Diario y un Cristal a Kidd, pero no logras sacarte de la cabeza sus últimas palabras..."
 		},
 		Summary = ""
 	},
@@ -15161,7 +15333,7 @@ QuestInfoList = {
 	[7027] = {
 		Title = "En busca de Rayan Moore",
 		Description = {
-			"Te contaron una historia sospechosa mientras investigabas el edificio al que llegaste usando el pergamino. Dicen que los Diente de León están luchando entre sí…"
+			"Te contaron una historia sospechosa mientras investigabas el edificio al que llegaste usando el pergamino. Dicen que los Diente de León están luchando entre sí..."
 		},
 		Summary = "Informa al Sr. Kidd."
 	},
@@ -15210,7 +15382,7 @@ QuestInfoList = {
 	[7034] = {
 		Title = "En busca de Rayan Moore",
 		Description = {
-			"Echinacea analiza el número de patrón para detectar la fuerza de la longitud de onda mágica. Esto podría llevarnos a Rayan y tal vez incluso a Satán Morocc…"
+			"Echinacea analiza el número de patrón para detectar la fuerza de la longitud de onda mágica. Esto podría llevarnos a Rayan y tal vez incluso a Satán Morocc..."
 		},
 		Summary = ""
 	},
@@ -15238,7 +15410,7 @@ QuestInfoList = {
 	[7038] = {
 		Title = "Pasión por las Batatas asadas",
 		Description = {
-			"Consultaste a Defaria sobre tu preocupación, pero solo recibiste la tarea de reunir algunos materiales para asar Batatas…"
+			"Consultaste a Defaria sobre tu preocupación, pero solo recibiste la tarea de reunir algunos materiales para asar Batatas..."
 		},
 		Summary = "20 Batatas y 30 Leños."
 	},
@@ -15252,7 +15424,7 @@ QuestInfoList = {
 	[7040] = {
 		Title = "Por la tangente",
 		Description = {
-			"Aunque esta vez la conversación fue un poco más profunda, al final, ¡solo conseguiste que te volvieran a asignar la entrega de las Batatas…!"
+			"Aunque esta vez la conversación fue un poco más profunda, al final, ¡solo conseguiste que te volvieran a asignar la entrega de las Batatas...!"
 		},
 		Summary = "Entrega 2 Batatas a Echinacea."
 	},
@@ -15280,7 +15452,7 @@ QuestInfoList = {
 	[7044] = {
 		Title = "Trabajo a medio tiempo: Alimentación de León de montaña 1",
 		Description = {
-			"Se acabó el alimento para los Leones de montaña. Los Eruditos creen que estos monstrus son de la familia gatuna. He intentado alimentarlos con varias cosas… Esta vez me gustaría intentar con Comida para monstruos. ¿Puedes traerme 20 unidades de Comida para monstruos y 30 unidades de Comida para mascotas?"
+			"Se acabó el alimento para los Leones de montaña. Los Eruditos creen que estos monstrus son de la familia gatuna. He intentado alimentarlos con varias cosas... Esta vez me gustaría intentar con Comida para monstruos. ¿Puedes traerme 20 unidades de Comida para monstruos y 30 unidades de Comida para mascotas?"
 		},
 		Summary = "20 unidades de Comida para monstruos y 30 unidades de Comida para mascotas."
 	},
@@ -15301,7 +15473,7 @@ QuestInfoList = {
 	[7047] = {
 		Title = "Trabajo a medio tiempo: ¡Todo listo por hoy!",
 		Description = {
-			"Parece que todo el trabajo a tiempo parcial está hecho por hoy. Quizá Taab tenga más trabajo para ti si regresas después de unas 5 horas así…"
+			"Parece que todo el trabajo a tiempo parcial está hecho por hoy. Quizá Taab tenga más trabajo para ti si regresas después de unas 5 horas así..."
 		},
 		Summary = ""
 	},
@@ -15341,7 +15513,7 @@ QuestInfoList = {
 		Summary = "Busca otro sello dentro de la torre."
 	},
 	[7053] = {
-		Title = "Torre de Thanatos: Lo que quieren es…",
+		Title = "Torre de Thanatos: Lo que quieren es...",
 		Description = {
 			"Cuando encontraste la cuarta Llave, también encontraste el Diario de Varmunt. ¡Quizás este sea el Diario que estaba buscando Rekenber! Debo contarle esto a Burled."
 		},
@@ -15357,7 +15529,7 @@ QuestInfoList = {
 	[7055] = {
 		Title = "Favor de Myu: ¡El gato no!",
 		Description = {
-			"¡Myu pide un favor más! Ya que estás protegiendo a la Rosa silvestre, no debes hacer daño a ningún monstruo Rosa silvestre…"
+			"¡Myu pide un favor más! Ya que estás protegiendo a la Rosa silvestre, no debes hacer daño a ningún monstruo Rosa silvestre..."
 		},
 		Summary = ""
 	},
@@ -15394,7 +15566,7 @@ QuestInfoList = {
 		Description = {
 			"Cuando llegaste a ver al sapha, ya hacía tiempo que Terra se había ido. Alrededor del gigante endurecido, había esparcidos trozos de mineral muy brillantes. Estos fragmentos deben ser el Bradium."
 		},
-		Summary = "Si el Bradium está relacionado… ¿serían los saphas?"
+		Summary = "Si el Bradium está relacionado... ¿serían los saphas?"
 	},
 	[7061] = {
 		Title = "Mensajero: El paradero de Terra",
@@ -15668,7 +15840,7 @@ QuestInfoList = {
 	[7100] = {
 		Title = "Un mensaje de Bercascell",
 		Description = {
-			"Parece insignificante, pero ofreceremos este equipamiento que perteneció a un gremio. No te olvides de recogerlo más tarde… Aunque no sé si estará listo… Yo te lo entregaré. No lo olvides."
+			"Parece insignificante, pero ofreceremos este equipamiento que perteneció a un gremio. No te olvides de recogerlo más tarde... Aunque no sé si estará listo... Yo te lo entregaré. No lo olvides."
 		},
 		Summary = "Busca a Bercascell algunas veces."
 	},
@@ -15860,224 +16032,224 @@ QuestInfoList = {
 		Summary = "Caza 5 Sauces."
 	},
 	[7128] = {
-		Title = "¡Conquista el Desierto!",
+		Title = "Edén: ¡Conquista el Desierto!",
 		Description = {
 			"Encuentra un <NAVI>[perro parlante]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> en el campo sureste de Morroc, cerca de un oasis. Dile que ^4d4dffLa querida Boya es genial^000000."
 		},
 		Summary = "Conversación con el perro parlante."
 	},
 	[7129] = {
-		Title = "¡Conquista el Desierto!",
+		Title = "Edén: ¡Conquista el Desierto!",
 		Description = {
 			"Encuentra y caza 10 Cóndores para despejar el oasis."
 		},
 		Summary = "Caza 10 Cóndores."
 	},
 	[7130] = {
-		Title = "¡Conquista el Desierto!",
+		Title = "Edén: ¡Conquista el Desierto!",
 		Description = {
 			"Caza a esas Crías de lobo del desierto que ladran escandalosamente."
 		},
 		Summary = "Caza 10 Crías de lobo del desierto."
 	},
 	[7131] = {
-		Title = "¡Conquista el Desierto!",
+		Title = "Edén: ¡Conquista el Desierto!",
 		Description = {
 			"Los escorpiones han estado acechando y envenenando a la gente en el desierto. Caza al menos 5 para ayudar a despejar el oasis."
 		},
 		Summary = "Caza 5 Escorpiones."
 	},
 	[7132] = {
-		Title = "¡Conquista el Desierto!",
+		Title = "Edén: ¡Conquista el Desierto!",
 		Description = {
 			"Completaste tu entrenamiento en el Desierto. Informa tus resultados al instructor <NAVI>[Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> en la oficina del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[7133] = {
-		Title = "¡Conquista la Alcantarilla!",
+		Title = "Edén: ¡Conquista la Alcantarilla!",
 		Description = {
 			"Inscríbete para explorar la Alcantarilla de Prontera en el gremio de caballeros. Ve y encuentra un <NAVI>[Gato de pie]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI>  y dile: ^4d4dffLa ayuda de Boya es como un gigante y hermoso atún^000000."
 		},
 		Summary = ""
 	},
 	[7134] = {
-		Title = "¡Conquista la Alcantarilla!",
+		Title = "Edén: ¡Conquista la Alcantarilla!",
 		Description = {
 			"La primera parte del entrenamiento consiste en cazar Bichos ladrones."
 		},
 		Summary = "Caza 10 Bichos ladrones."
 	},
 	[7135] = {
-		Title = "¡Conquista la Alcantarilla!",
+		Title = "Edén: ¡Conquista la Alcantarilla!",
 		Description = {
 			"La siguiente parte del entrenamiento consiste en deshacerte de los monstruos Tarou."
 		},
 		Summary = "Caza 10 Tarou."
 	},
 	[7136] = {
-		Title = "¡Conquista la Alcantarilla!",
+		Title = "Edén: ¡Conquista la Alcantarilla!",
 		Description = {
 			"La siguiente parte del entrenamiento consiste una cacería de Familiares voladores."
 		},
 		Summary = "Caza 5 Familiares."
 	},
 	[7137] = {
-		Title = "¡Conquista la Alcantarilla!",
+		Title = "Edén: ¡Conquista la Alcantarilla!",
 		Description = {
 			"Completaste la tarea que te dio el gato de pie. Regresa e informa tus resultados al <NAVI>[instructor Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> en la oficina del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[7138] = {
-		Title = "¡Conquista la Cueva fantasma!",
+		Title = "Edén: ¡Conquista la Cueva fantasma!",
 		Description = {
 			"Encuentra a un miembro del Grupo del Edén frente a la <NAVI>[cueva]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> en el lado oeste de la Aldea de los arqueros de Payon."
 		},
 		Summary = "Conversación con un miembro del Grupo del Edén."
 	},
 	[7139] = {
-		Title = "¡Conquista la Cueva fantasma!",
+		Title = "Edén: ¡Conquista la Cueva fantasma!",
 		Description = {
 			"Hay muchos monstruos peligrosos en esa cueva y uno de ellos es el Esqueleto."
 		},
 		Summary = "Caza 15 Esqueletos."
 	},
 	[7140] = {
-		Title = "¡Conquista la Cueva fantasma!",
+		Title = "Edén: ¡Conquista la Cueva fantasma!",
 		Description = {
 			"¿Has visto a esos monstruos verdes recogiendo todo lo que sueltan los demás monstruos?"
 		},
 		Summary = "Caza 10 Poporing."
 	},
 	[7141] = {
-		Title = "¡Conquista la Cueva fantasma!",
+		Title = "Edén: ¡Conquista la Cueva fantasma!",
 		Description = {
 			"Completaste el entrenamiento que te dio Coral. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
 		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén."
 	},
 	[7142] = {
-		Title = "¡Conquista el Infierno de hormigas!",
+		Title = "Edén: ¡Conquista el Infierno de hormigas!",
 		Description = {
 			"Encuentra a un miembro del Grupo del Edén en la entrada del <NAVI>[Infierno de hormigas]<INFO>anthell01,29,264,0,101,0</INFO></NAVI>. Entra en el primer piso del Infierno de hormigas en la zona noreste de la fortaleza de Saint Darmain (este)."
 		},
 		Summary = ""
 	},
 	[7143] = {
-		Title = "¡Conquista el Infierno de hormigas!",
+		Title = "Edén: ¡Conquista el Infierno de hormigas!",
 		Description = {
 			"Caza 15 hormigas Pierre en el Infierno de hormigas e informa a Clod, miembro del Grupo del Edén, en la entrada."
 		},
 		Summary = ""
 	},
 	[7144] = {
-		Title = "¡Conquista el Infierno de hormigas!",
+		Title = "Edén: ¡Conquista el Infierno de hormigas!",
 		Description = {
 			"El segundo objetivo es la cacería de 15 hormigas Andre, que son más fuertes que las Pierre. Si no encuentras suficientes, ve al segundo piso del Infierno de hormigas. Pero ten cuidado, podrías encontrarte con Maya."
 		},
 		Summary = ""
 	},
 	[7145] = {
-		Title = "¡Conquista el Infierno de hormigas!",
+		Title = "Edén: ¡Conquista el Infierno de hormigas!",
 		Description = {
-			"El próximo objetivo es… ¡10 Vitata! Si logras deshacerte de 10 de estas hormigas, el Infierno de hormigas será un poco más seguro."
+			"El próximo objetivo es... ¡10 Vitata! Si logras deshacerte de 10 de estas hormigas, el Infierno de hormigas será un poco más seguro."
 		},
 		Summary = ""
 	},
 	[7146] = {
-		Title = "¡Conquista el Infierno de hormigas!",
+		Title = "Edén: ¡Conquista el Infierno de hormigas!",
 		Description = {
 			"Completaste el entrenamiento que te dio Clod. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
 		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7147] = {
-		Title = "¡Conquista el Pueblo de los Orcos!",
+		Title = "Edén: ¡Conquista el Pueblo de los Orcos!",
 		Description = {
 			"Encuentra a un miembro del Grupo del Edén llamado <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> en el Pueblo de los Orcos. Está en una cabaña cerca de la empleada de Kafra."
 		},
 		Summary = ""
 	},
 	[7148] = {
-		Title = "¡Conquista el Pueblo de los Orcos!",
+		Title = "Edén: ¡Conquista el Pueblo de los Orcos!",
 		Description = {
 			"Pueden ser crías, pero se convierten en feroces Guerreros orco. Caza 10 Bebés orco en el Pueblo de los Orcos."
 		},
 		Summary = ""
 	},
 	[7149] = {
-		Title = "¡Conquista el Pueblo de los Orcos!",
+		Title = "Edén: ¡Conquista el Pueblo de los Orcos!",
 		Description = {
 			"El siguiente enemigo es el Guerrero orco. Un Bebé orco se convierte en un Guerrero orco cuando crece. Caza 10 Guerreros orco."
 		},
 		Summary = ""
 	},
 	[7150] = {
-		Title = "¡Conquista el Pueblo de los Orcos!",
+		Title = "Edén: ¡Conquista el Pueblo de los Orcos!",
 		Description = {
-			"El siguiente objetivo es… ¡sí, lo adivinaste! Caza 10 Damas orco en el Pueblo de los Orcos."
+			"El siguiente objetivo es... ¡sí, lo adivinaste! Caza 10 Damas orco en el Pueblo de los Orcos."
 		},
 		Summary = ""
 	},
 	[7151] = {
-		Title = "¡Conquista el Pueblo de los Orcos!",
+		Title = "Edén: ¡Conquista el Pueblo de los Orcos!",
 		Description = {
 			"Completaste el entrenamiento que te dio Hooksha. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
 		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7152] = {
-		Title = "¡Conquista la Mazmorra de Orcos!",
+		Title = "Edén: ¡Conquista la Mazmorra de Orcos!",
 		Description = {
 			"Encuentra a un miembro del Grupo del Edén llamado <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> en el Pueblo de los Orcos. Está en una cabaña cerca de la empleada de Kafra."
 		},
 		Summary = ""
 	},
 	[7153] = {
-		Title = "¡Conquista la Mazmorra de Orcos!",
+		Title = "Edén: ¡Conquista la Mazmorra de Orcos!",
 		Description = {
 			"La Mazmorra de Orcos tiene muchos muertos vivientes. Tenemos que despejarla de su inmundicia. Empieza con una cacería de 20 Zombis orco."
 		},
 		Summary = ""
 	},
 	[7154] = {
-		Title = "¡Conquista la Mazmorra de Orcos!",
+		Title = "Edén: ¡Conquista la Mazmorra de Orcos!",
 		Description = {
 			"Tu próximo objetivo son los Esqueletos orco. Estos son los que quedan cuando los Zombis orco se descomponen lo suficiente. Una cacería de 20 Esqueletos orco debería ser suficiente."
 		},
 		Summary = ""
 	},
 	[7155] = {
-		Title = "¡Conquista la Mazmorra de Orcos!",
+		Title = "Edén: ¡Conquista la Mazmorra de Orcos!",
 		Description = {
 			"Completaste el entrenamiento que te dio Hooksha. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
 		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7156] = {
-		Title = "¡Conquista la Ciudad submarina!",
+		Title = "Edén: ¡Conquista la Ciudad submarina!",
 		Description = {
 			"Toma un barco desde Izlude hasta Isla Byalan. Entra al nivel más bajo de la mazmorra para llegar a la Ciudad submarina y encuentra al <NAVI>[miembro del Grupo del Edén]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> designado ahí."
 		},
 		Summary = ""
 	},
 	[7157] = {
-		Title = "¡Conquista la Ciudad submarina!",
+		Title = "Edén: ¡Conquista la Ciudad submarina!",
 		Description = {
 			"Tu primer entrenamiento de batalla aquí es luchar contra 15 Tritones. Pero ten cuidado. Son excelentes guerreros del mar."
 		},
 		Summary = ""
 	},
 	[7158] = {
-		Title = "¡Conquista la Ciudad submarina!",
+		Title = "Edén: ¡Conquista la Ciudad submarina!",
 		Description = {
 			"El siguiente adversario es el mago Strouf y su tridente. Encuentra a 10 de estos monstruos y acábalos."
 		},
 		Summary = ""
 	},
 	[7159] = {
-		Title = "¡Conquista la Ciudad submarina!",
+		Title = "Edén: ¡Conquista la Ciudad submarina!",
 		Description = {
 			"Completaste el entrenamiento que te dio Callandiva. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
@@ -16303,7 +16475,7 @@ QuestInfoList = {
 	[7191] = {
 		Title = "Designación de Shay: BK",
 		Description = {
-			"Para facilitar la recopilación de información, Shay presentó a BK, de los Comerciantes de Mano de gato. Tienes que decirle a BK que ^4d4dff“la bebida especial de Shay será entregada”^000000 si BK no ofrece ninguna ayuda…"
+			"Para facilitar la recopilación de información, Shay presentó a BK, de los Comerciantes de Mano de gato. Tienes que decirle a BK que ^4D4DFF“la bebida especial de Shay será entregada”^000000 si BK no ofrece ninguna ayuda..."
 		},
 		Summary = "Reúnete con BK en las afueras de la montaña Kamidal, en las afueras de El Dicastes."
 	},
@@ -16408,7 +16580,7 @@ QuestInfoList = {
 	[7207] = {
 		Title = "Caja de Cheshire",
 		Description = {
-			"Encontraste la caja de la que hablaba Cheshire en el Túnel de Kamidal. En la parte inferior de la caja, en letras pequeñas, dice ^4d4dffFrente a la grieta de Bifrost^000000. Tendrás que llevarla a Cheshire, que puede estar en cualquier parte de Bifrost."
+			"Encontraste la caja de la que hablaba Cheshire en el Túnel de Kamidal. En la parte inferior de la caja, en letras pequeñas, dice ^4D4DFFFrente a la grieta de Bifröst^000000. Tendrás que llevarla a Cheshire, que puede estar en cualquier parte de Bifröst."
 		},
 		Summary = ""
 	},
@@ -16429,7 +16601,7 @@ QuestInfoList = {
 	[7210] = {
 		Title = "Entrega diaria",
 		Description = {
-			"Cheshire está esperando la caja de Bradium. Debes llevar los objetos de hoy a Cheshire, que está esperando en Bifrost."
+			"Cheshire está esperando la caja de Bradium. Debes llevar los objetos de hoy a Cheshire, que está esperando en Bifröst."
 		},
 		Summary = ""
 	},
@@ -16455,196 +16627,196 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7214] = {
-		Title = "Entrenamiento avanzado en Comodo",
+		Title = "Edén: Entrenamiento avanzado en Comodo",
 		Description = {
 			"Busca la cueva situada al norte. Ahí hay alguien llamado <NAVI>[Romeo]<INFO>comodo,173,354,0,101,0</INFO></NAVI>. Ya sabes, como Romeo de “Romeo y Julieta”."
 		},
 		Summary = "Encuentra y habla con Romeo."
 	},
 	[7215] = {
-		Title = "Cacería de Gólem de estalactita",
+		Title = "Edén: Cacería de Gólem de estalactita",
 		Description = {
 			"Hay una cueva al norte de Comodo que tiene monstruos enormes. No debe ser complicado cazar 3."
 		},
 		Summary = "Caza 3 Gólem de estalactita y regresa con Romeo en Comodo."
 	},
 	[7216] = {
-		Title = "Más cacería de Gólem",
+		Title = "Edén: Más cacería de Gólem",
 		Description = {
 			"Ahora que has demostrado tu valía, caza otros 10 Gólem de estalactita para que los viajantes puedan transitar con seguridad por la cueva."
 		},
 		Summary = "Caza 10 Gólem de estalactita y regresa con Romeo en Comodo."
 	},
 	[7217] = {
-		Title = "Botines en el campo",
+		Title = "Edén: Botines en el campo",
 		Description = {
 			"El instructor <NAVI>[Romeo]<INFO>um_fild01,34,280,0,101,0</INFO></NAVI> te pidió que le lleves materiales tras la cacería de Wootan y Dríadas en el campo al norte de la cueva de Comodo."
 		},
 		Summary = "Encuentra 5 Protectores de hombros y 7 Hojas afiladas."
 	},
 	[7218] = {
-		Title = "Informa al instructor Ur",
+		Title = "Edén: Informa al instructor Ur",
 		Description = {
 			"Tus tareas para el paso 1 terminaron por ahora, así que vuelve a la sede del Grupo del Edén y habla con el instructor Ur."
 		},
 		Summary = "Informa esto al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7219] = {
-		Title = "Entrenamiento avanzado en Glastheim",
+		Title = "Edén: Entrenamiento avanzado en Glastheim",
 		Description = {
 			"Cerca de Geffen, hay una zona conocida como <NAVI>[Glastheim]<INFO>glast_01,195,131,0,101,0</INFO></NAVI>, que está infestada de monstruos con propiedad Muerto viviente y Fantasma."
 		},
 		Summary = "Encuentra y habla con Johan en Glastheim."
 	},
 	[7220] = {
-		Title = "Cacería de Espectros",
+		Title = "Edén: Cacería de Espectros",
 		Description = {
 			"Haz una cacería de Espectros para ayudar a despejar la abadía."
 		},
 		Summary = "Caza 20 Espectros y regresa con Johan afuera."
 	},
 	[7221] = {
-		Title = "Cacería de Druidas del mal",
+		Title = "Edén: Cacería de Druidas del mal",
 		Description = {
 			"Otro monstruo problemático en la abadía son los Druida del mal. Tendrás que cazarlos dentro de la abadía y regresar con Johan."
 		},
 		Summary = "Caza 10 Druidas del mal."
 	},
 	[7222] = {
-		Title = "Informa al instructor Ur",
+		Title = "Edén: Informa al instructor Ur",
 		Description = {
 			"Tu cacería en Glastheim ayudó a limpiar la abadía. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
 		Summary = "Informa esto al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7223] = {
-		Title = "Entrenamiento avanzado en Einbroch",
+		Title = "Edén: Entrenamiento avanzado en Einbroch",
 		Description = {
 			"La próxima misión de <NAVI>[entrenamiento]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> se realizará en la ciudad industrial de Einbroch, al este de Lighthalzen."
 		},
 		Summary = "Encuentra al instructor Kiren designado en el campo al sur de Einbroch."
 	},
 	[7224] = {
-		Title = "Cacería de Porcellio",
+		Title = "Edén: Cacería de Porcellio",
 		Description = {
 			"Como calentamiento, busca y caza 30 Porcellio que se arrastran por los campos de Einbroch."
 		},
 		Summary = "Caza 30 Porcellio y regresa con Kiren en el campo al sur de Einbroch."
 	},
 	[7225] = {
-		Title = "Invisible Quest",
+		Title = "Edén: Invisible Quest",
 		Description = {
 			"Place Holder"
 		},
 		Summary = "Place Holder"
 	},
 	[7226] = {
-		Title = "Cacería de Venenosos",
+		Title = "Edén: Cacería de Venenosos",
 		Description = {
 			"Hay monstruos verdes y en forma de gas conocidos como Venenosos y están aterrorizando a los trabajadores al norte de Einbroch."
 		},
 		Summary = "Caza 30 Venenosos."
 	},
 	[7227] = {
-		Title = "Cacería de Ositos de peluche",
+		Title = "Edén: Cacería de Ositos de peluche",
 		Description = {
 			"Los Ositos de peluche no son los adorables peluches para niños. Caza 5 de ellos rápidamente en el campo al norte de Einbroch."
 		},
 		Summary = "Caza 5 Ositos de peluche."
 	},
 	[7228] = {
-		Title = "Informa al instructor Ur",
+		Title = "Edén: Informa al instructor Ur",
 		Description = {
 			"Terminó tu trabajo en la zona de Einbroch. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
 		Summary = "Informa al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7229] = {
-		Title = "Entrenamiento avanzado en la mazmorra de hielo",
+		Title = "Edén: Entrenamiento avanzado en la mazmorra de hielo",
 		Description = {
 			"Si viajas al Norte desde Rachel, encontrarás una cueva en la <NAVI>[mazmorra de hielo]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI>. Es una larga caminata, pero vale la pena si puedes hacerla."
 		},
 		Summary = "Encuentra a la instructora designada Naomi en la mazmorra de hielo."
 	},
 	[7230] = {
-		Title = "Cacería de Siroma",
+		Title = "Edén: Cacería de Siroma",
 		Description = {
 			"Podrías pensar que son enormes bolas de nieve, pero en realidad son monstruos disfrazados."
 		},
 		Summary = "Caza 30 Siroma y regresa con Naomi cerca de la entrada de la cueva."
 	},
 	[7231] = {
-		Title = "Cacería y recolección",
+		Title = "Edén: Cacería y recolección",
 		Description = {
 			"Ahora que ya sabes cómo hacerlo, caza 30 Siroma adicionales y lleva 30 Cubos de hielo, 1 Salsa dulce y 1 Leche."
 		},
 		Summary = "Caza 30 Siroma y lleva 30 Cubos de hielo, 1 de Salsa dulce y 1 de Leche a Naomi."
 	},
 	[7232] = {
-		Title = "Informa al instructor Ur",
+		Title = "Edén: Informa al instructor Ur",
 		Description = {
 			"Terminaste tu cacería en la mazmorra de hielo. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
 		Summary = "Informa al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7233] = {
-		Title = "Entrenamiento avanzado en Ash Vacuum",
+		Title = "Edén: Entrenamiento avanzado en Ash Vacuum",
 		Description = {
 			"Dado que estás en la tercera clase, seguro te será fácil luchar contra los monstruos en <NAVI>[Ash Vacuum]<INFO>mid_camp,212,229,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Encuentra a la instructora designada Margaret en el campamento de expedición de Midgard"
 	},
 	[7234] = {
-		Title = "El favor de Margaret",
+		Title = "Edén: El favor de Margaret",
 		Description = {
 			"Margaret te pidió que encuentres a los instructores designados Meeru y Mine. Están en los campos al oeste y otro al este del campamento de la expedición de Midgard."
 		},
 		Summary = "Encuentra a Meeru y a Mine, completa sus misiones y regresa con Margaret."
 	},
 	[7235] = {
-		Title = "Cacería de Nepenthes",
+		Title = "Edén: Cacería de Nepenthes",
 		Description = {
 			"Meeru te pidió que caces 1 Nepenthes en el campo Manuk y regreses a verlo."
 		},
 		Summary = "Caza 1 Nepenthes y regresar con Meeru."
 	},
 	[7236] = {
-		Title = "Cacería de Pinguicula",
+		Title = "Edén: Cacería de Pinguicula",
 		Description = {
 			"Mine te pidió que caces 5 Pinguicula por él."
 		},
 		Summary = "Caza 5 Pinguicula y regresa con Mine."
 	},
 	[7237] = {
-		Title = "Informa al instructor Ur",
+		Title = "Edén: Informa al instructor Ur",
 		Description = {
 			"Terminó tu entrenamiento en Ash Vacuum. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
 		Summary = "Informa al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7238] = {
-		Title = "Tareas para Thorn (fácil)",
+		Title = "Edén: Tareas para Thorn (fácil)",
 		Description = {
 			"Thorn necesita materiales para refinar, así que llévale 20 unidades de Mineral de hierro y 10 unidades de Hierro."
 		},
 		Summary = "Recolecta 20 unidades de Mineral de hierro y 10 unidades de Hierro"
 	},
 	[7239] = {
-		Title = "Tareas para Thorn (difícil)",
+		Title = "Edén: Tareas para Thorn (difícil)",
 		Description = {
 			"Thorn necesita materiales para refinar, así que llévale 20 Placas de hierro usadas."
 		},
 		Summary = "Recolecta 20 Placas de hierro usadas."
 	},
 	[7240] = {
-		Title = "Mejora del equipamiento",
+		Title = "Edén: Mejora del equipamiento",
 		Description = {
 			"Lleva tu nuevo equipamiento del Grupo del Edén a Thorn, pídele que te lo refuerce y te dará una bonificación para el equipamiento."
 		},
 		Summary = ""
 	},
 	[7241] = {
-		Title = "Tareas para Thorn (en espera)",
+		Title = "Edén: Tareas para Thorn (en espera)",
 		Description = {
 			"Espera 24 horas y regresa con Thorn."
 		},
@@ -17495,7 +17667,7 @@ QuestInfoList = {
 	[7367] = {
 		Title = "Protección espiritual tradicional y chica imprudente 2",
 		Description = {
-			"Espera a que la chica termine de crear las Protecciones espirituales tradicionales. No tardará mucho. Tal vez una taza de té para matar el tiempo…"
+			"Espera a que la chica termine de crear las Protecciones espirituales tradicionales. No tardará mucho. Tal vez una taza de té para matar el tiempo..."
 		},
 		Summary = ""
 	},
@@ -17808,7 +17980,7 @@ QuestInfoList = {
 	[7412] = {
 		Title = "El viajero, la historia de Litrip",
 		Description = {
-			"Escuchaste la historia de la Rorre Bifrost."
+			"Escuchaste la historia de la Rorre Bifröst."
 		},
 		Summary = ""
 	},
@@ -17857,7 +18029,7 @@ QuestInfoList = {
 	[7419] = {
 		Title = "Por Eclage 2",
 		Description = {
-			"Decidiste entregar el correo del oficial de contacto de Splendide como un favor para Roy el mensajero, que estaba teniendo problemas en el borde de Bifrost debido al corte de las comunicaciones."
+			"Decidiste entregar el correo del oficial de contacto de Splendide como un favor para Roy el mensajero, que estaba teniendo problemas en el borde de Bifröst debido al corte de las comunicaciones."
 		},
 		Summary = "Oficial de contacto y buzón de Splendide."
 	},
@@ -17878,7 +18050,7 @@ QuestInfoList = {
 	[7422] = {
 		Title = "El regalo de Kardui",
 		Description = {
-			"Kardui dijo que preparó un regalo que lo puedes recoger de la líder de gabinete, Shinaim. Qué podrá ser…"
+			"Kardui dijo que preparó un regalo que lo puedes recoger de la líder de gabinete, Shinaim. Qué podrá ser..."
 		},
 		Summary = "Recibe el regalo a través de Shinaim."
 	},
@@ -17913,7 +18085,7 @@ QuestInfoList = {
 	[7427] = {
 		Title = "En momentos así, ¡hay que afrontarlo de frente!",
 		Description = {
-			"La verdad detrás de la ansiedad y el miedo de los laphines hacia Kardui ya quedó clara. ¿No debería saberlo el monarca? Tal vez sea posible conocer el motivo de todo esto…"
+			"La verdad detrás de la ansiedad y el miedo de los laphines hacia Kardui ya quedó clara. ¿No debería saberlo el monarca? Tal vez sea posible conocer el motivo de todo esto..."
 		},
 		Summary = "Habla con Kardui."
 	},
@@ -17934,7 +18106,7 @@ QuestInfoList = {
 	[7430] = {
 		Title = "Repartidor que recorre el espacio",
 		Description = {
-			"Entregaste la correspondencia de Splendide en lugar de Roy, quien sigue teniendo problemas en el borde de Bifrost."
+			"Entregaste la correspondencia de Splendide en lugar de Roy, quien sigue teniendo problemas en el borde de Bifröst."
 		},
 		Summary = "Oficina de contacto de Splendide, buzón."
 	},
@@ -18088,14 +18260,14 @@ QuestInfoList = {
 	[7452] = {
 		Title = "¡Encuentren a la líder de gabinete!",
 		Description = {
-			"La líder de gabinete Shinaim, responsable de todos estos sucesos, no ha dejado rastro de su paradero. Según las fuentes de Hisie, en Bifrost se han percibido los remanentes de una fuerza mágica."
+			"La líder de gabinete Shinaim, responsable de todos estos sucesos, no ha dejado rastro de su paradero. Según las fuentes de Hisie, en Bifröst se han percibido los remanentes de una fuerza mágica."
 		},
-		Summary = "Explora el norte de Bifrost."
+		Summary = "Explora el norte de Bifröst."
 	},
 	[7453] = {
 		Title = "El fin de la líder de gabinete",
 		Description = {
-			"El camino desde el norte hacia el sur en Bifrost. Antes se podía transitar, pero actualmente lo bloquea una enorme brecha en el sur. De camino a la grieta, encontraron el cadáver de la líder de gabinete."
+			"El camino desde el norte hacia el sur en Bifröst. Antes se podía transitar, pero actualmente lo bloquea una enorme brecha en el sur. De camino a la grieta, encontraron el cadáver de la líder de gabinete."
 		},
 		Summary = "Regresa con Kardui."
 	},
@@ -18193,7 +18365,7 @@ QuestInfoList = {
 	[7467] = {
 		Title = "Negocio de chocolate a medio tiempo",
 		Description = {
-			"Al parecer los ingredientes se tienen que entregar a diario. Quizá mañana a esta hora consigas un trabajo de medio tiempo…"
+			"Al parecer los ingredientes se tienen que entregar a diario. Quizá mañana a esta hora consigas un trabajo de medio tiempo..."
 		},
 		Summary = ""
 	},
@@ -18207,7 +18379,7 @@ QuestInfoList = {
 	[7469] = {
 		Title = "El negocio a medio tiempo de Jinha",
 		Description = {
-			"Al parecer los ingredientes se tienen que entregar a diario. Quizá mañana a esta hora consigas un trabajo de medio tiempo…"
+			"Al parecer los ingredientes se tienen que entregar a diario. Quizá mañana a esta hora consigas un trabajo de medio tiempo..."
 		},
 		Summary = ""
 	},
@@ -18368,7 +18540,7 @@ QuestInfoList = {
 	[7493] = {
 		Title = "Batalla de 17 contra 1",
 		Description = {
-			"¡Una sombra silenciosa se acerca a través de la fuerte tormenta de arena…! ¡Vence a 17 Escorpiones! Están en el campo sur de Morroc."
+			"¡Una sombra silenciosa se acerca a través de la fuerte tormenta de arena...! ¡Vence a 17 Escorpiones! Están en el campo sur de Morroc."
 		},
 		Summary = "Elimina los Escorpiones."
 	},
@@ -18564,9 +18736,9 @@ QuestInfoList = {
 	[7527] = {
 		Title = " Desafío 3 del reino de Valkiria",
 		Description = {
-			"Lucha contra Pyuriel, el paria furioso, y Lora, la guerrera en el Camino de guerreros del Corredor del abismo en el reino de Valkiria."
+			"Lucha contra Pyuriel, el paria furioso, y Lora, la guerrera en el Camino de guerreros del Pasillo del Abismo en el reino de Valkiria."
 		},
-		Summary = "Batalla en el Corredor del abismo."
+		Summary = "Batalla en el Pasillo del Abismo."
 	},
 	[7528] = {
 		Title = " Desafío 1 de Luina",
@@ -18585,9 +18757,9 @@ QuestInfoList = {
 	[7530] = {
 		Title = " Desafío 3 de Luina",
 		Description = {
-			"Lucha contra Gioia y Elvira en la Lágrima del héroe en el Corredor del abismo en Luina."
+			"Lucha contra Gioia y Elvira en la Lágrima del héroe en el Pasillo del Abismo en Luina."
 		},
-		Summary = "Batalla en el Corredor del abismo."
+		Summary = "Batalla en el Pasillo del Abismo."
 	},
 	[7531] = {
 		Title = " Desafío 1 de Britonia",
@@ -18606,9 +18778,9 @@ QuestInfoList = {
 	[7533] = {
 		Title = " Desafío 3 de Britonia",
 		Description = {
-			"Lucha contra Kades y Rudo, los guardianes de los muertos, en la Colina de los hombres muertos en el Corredor del abismo, en Britonia."
+			"Lucha contra Kades y Rudo, los guardianes de los muertos, en la Colina de los hombres muertos en el Pasillo del Abismo, en Britonia."
 		},
-		Summary = "Batalla en el Corredor del abismo."
+		Summary = "Batalla en el Pasillo del Abismo."
 	},
 	[7534] = {
 		Title = " Desafío 1 del lago Greenwood",
@@ -18627,9 +18799,9 @@ QuestInfoList = {
 	[7536] = {
 		Title = " Desafío 3 del lago Greenwood",
 		Description = {
-			"Lucha contra el general Daehyeon y la guerrera Soheon en el Viento antiguo del Corredor del abismo en el lago Greenwood."
+			"Lucha contra el general Daehyeon y la guerrera Soheon en el Viento antiguo del Pasillo del Abismo en el lago Greenwood."
 		},
-		Summary = "Batalla en el Corredor del abismo."
+		Summary = "Batalla en el Pasillo del Abismo."
 	},
 	[7537] = {
 		Title = " Desafío 1 de Nidabehl",
@@ -18870,7 +19042,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7572] = {
-		Title = "¿Lucile…?",
+		Title = "¿Lucile...?",
 		Description = {
 			"Lucile, una chica misteriosa en la Torre del Diablo, pidió ayuda para recuperar su cuerpo."
 		},
@@ -19462,7 +19634,7 @@ QuestInfoList = {
 		Title = "En espera del ritual",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Regresa a la sala para hablar con Bell. Se suponía que vendría un mago para el ritual…"
+			"Regresa a la sala para hablar con Bell. Se suponía que vendría un mago para el ritual..."
 		},
 		Summary = "Habla con Bell"
 	},
@@ -19961,7 +20133,7 @@ QuestInfoList = {
 		Title = "Cambio de clase a Genetista",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Demmi Calverine dijo que la mejor manera de acostumbrarse a un carro es balancearlo contra algo. Había muchas Esporas venenosas dentro de la jaula…"
+			"Demmi Calverine dijo que la mejor manera de acostumbrarse a un carro es balancearlo contra algo. Había muchas Esporas venenosas dentro de la jaula..."
 		},
 		Summary = "Derrota a 100 Esporas venenosas en la jaula."
 	},
@@ -20158,7 +20330,7 @@ QuestInfoList = {
 		Description = {
 			"Entramos al segundo piso de la mina siguiendo a Shawn McCurdy. Extrae 1 <ITEM>[Mineral púrpura]<INFO>25247</INFO></ITEM> en la mina y luego habla con <NAVI>[Shawn McCurdy]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>.",
 			"",
-			"^FF0000?El 2do piso de la mina no tiene guía automática desde el exterior.?^000000"
+			"^FF0000[!]El 2do piso de la mina no tiene guía automática desde el exterior.?^000000"
 		},
 		Summary = "Mineral Púrpura 1"
 	},
@@ -20202,7 +20374,7 @@ QuestInfoList = {
 			"encontrarás un <NAVI>[Elevador dañado]<INFO>rockmi2,97,119,0,101,0</INFO></NAVI]. Busca",
 			"1 <ITEM>[Caja de mineral púrpura]<INFO>25248</INFO></ITEM> debajo del elevador y regresa con <NAVI>[Shawn McCurdy]<INFO>rockmi2,10,86,0,101,0</INFO></NAVI>.",
 			"",
-			"^FF0000?El 2do piso de la mina no tiene guía automática desde el exterior.?^000000"
+			"^FF0000[!]El 2do piso de la mina no tiene guía automática desde el exterior.?^000000"
 		},
 		Summary = "Caja de Mineral 1"
 	},
@@ -20437,7 +20609,7 @@ QuestInfoList = {
 		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Una torre de vigilancia lo bastante alta para observar más allá de la muralla. Una mina no necesitaría una estructura así…"
+			"Una torre de vigilancia lo bastante alta para observar más allá de la muralla. Una mina no necesitaría una estructura así..."
 		},
 		Summary = "Torre de vigilancia"
 	},
@@ -20474,7 +20646,7 @@ QuestInfoList = {
 		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Elena Bolkova dijo que la situación más allá de la barrera no es normal y pidió que regresaras al Maullido de Bala para informar a <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Ella llamó al lugar de vertedero, pero…"
+			"Elena Bolkova dijo que la situación más allá de la barrera no es normal y pidió que regresaras al Maullido de Bala para informar a <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Ella llamó al lugar de vertedero, pero..."
 		},
 		Summary = "Informa a Tess"
 	},
@@ -20996,7 +21168,7 @@ QuestInfoList = {
 	[8022] = {
 		Title = "Inspección de la fábrica",
 		Description = {
-			"Parece que el panel de control principal no tiene ningún problema. Pero, después de golpear sobre su superficie, escuchas un desalentador sonido hueco. Parece que le faltan algunas piezas… Comunica tus hallazgos a Zelmeto."
+			"Parece que el panel de control principal no tiene ningún problema. Pero, después de golpear sobre su superficie, escuchas un desalentador sonido hueco. Parece que le faltan algunas piezas... Comunica tus hallazgos a Zelmeto."
 		},
 		Summary = ""
 	},
@@ -21010,7 +21182,7 @@ QuestInfoList = {
 	[8024] = {
 		Title = "Inspección de la fábrica",
 		Description = {
-			"La grúa se mueve de manera inestable y errática. El brazo mecánico tampoco parece lo suficientemente potente como para soportar las cargas que transporta… Comunica tus hallazgos a Zelmeto."
+			"La grúa se mueve de manera inestable y errática. El brazo mecánico tampoco parece lo suficientemente potente como para soportar las cargas que transporta... Comunica tus hallazgos a Zelmeto."
 		},
 		Summary = ""
 	},
@@ -21101,7 +21273,7 @@ QuestInfoList = {
 	[8037] = {
 		Title = "El que juega a los dados",
 		Description = {
-			"Entregaste a Kaci la carta de Hallen. Probablemente deberías averiguar lo que ella sabe…"
+			"Entregaste a Kaci la carta de Hallen. Probablemente deberías averiguar lo que ella sabe..."
 		},
 		Summary = ""
 	},
@@ -21122,7 +21294,7 @@ QuestInfoList = {
 	[8040] = {
 		Title = "El secreto de las Aeronaves",
 		Description = {
-			"¿De verdad…? ¿Hablas en serio? Una imitación del Fragmento del corazón de Ymir. Bueno, ¿dónde he oído eso antes? A ver, déjame pensar… "
+			"¿De verdad...? ¿Hablas en serio? Una imitación del Fragmento del corazón de Ymir. Bueno, ¿dónde he oído eso antes? A ver, déjame pensar..."
 		},
 		Summary = "Continúa hablando con Hallen."
 	},
@@ -21136,7 +21308,7 @@ QuestInfoList = {
 	[8042] = {
 		Title = "El secreto de las Aeronaves",
 		Description = {
-			"Descubriste que el director del laboratorio de Einbroch tiene un Fragmento del corazón de Ymir. Vale la pena investigarlo…"
+			"Descubriste que el director del laboratorio de Einbroch tiene un Fragmento del corazón de Ymir. Vale la pena investigarlo..."
 		},
 		Summary = " "
 	},
@@ -21150,7 +21322,7 @@ QuestInfoList = {
 	[8044] = {
 		Title = "El prometido de Euslan",
 		Description = {
-			"… ¿De verdad vas a salir a buscar a Thierry? ¡Muchas gracias! No sabes lo mucho que tu amable gesto significa para mí. Thierry se fue de viaje en una de las Aeronaves para buscar las medicinas que, según los médicos, necesito para mi enfermedad."
+			"... ¿De verdad vas a salir a buscar a Thierry? ¡Muchas gracias! No sabes lo mucho que tu amable gesto significa para mí. Thierry se fue de viaje en una de las Aeronaves para buscar las medicinas que, según los médicos, necesito para mi enfermedad."
 		},
 		Summary = " "
 	},
@@ -21185,7 +21357,7 @@ QuestInfoList = {
 	[8049] = {
 		Title = "El favor de Thierry",
 		Description = {
-			"No puedo entrar en más detalles, pero hago este trabajo para encontrar una cura para la enfermedad de Euslan. La medicina moderna no la puede curar…"
+			"No puedo entrar en más detalles, pero hago este trabajo para encontrar una cura para la enfermedad de Euslan. La medicina moderna no la puede curar..."
 		},
 		Summary = " "
 	},
@@ -21199,7 +21371,7 @@ QuestInfoList = {
 	[8051] = {
 		Title = "La medicina de Euslan",
 		Description = {
-			"No importa lo que me pase a mí, pero debo salvar a Euslan. Solo necesito 5 Runas de la oscuridad para completar la medicina. Por favor, trotamundos, ayúdame a conseguirlas…"
+			"No importa lo que me pase a mí, pero debo salvar a Euslan. Solo necesito 5 Runas de la oscuridad para completar la medicina. Por favor, trotamundos, ayúdame a conseguirlas..."
 		},
 		Summary = "Consigue 5 Runas de la oscuridad."
 	},
@@ -21248,7 +21420,7 @@ QuestInfoList = {
 	[8058] = {
 		Title = "Conversación con El Schatt",
 		Description = {
-			"“Este árbol significa mucho para todos en esta ciudad y tenemos recuerdos especiales de este lugar. Pero ese tipo, El Schatt, quiere talarlo para su construir su tienda…”. -Manainne"
+			"“Este árbol significa mucho para todos en esta ciudad y tenemos recuerdos especiales de este lugar. Pero ese tipo, El Schatt, quiere talarlo para su construir su tienda...”. -Manainne"
 		},
 		Summary = ""
 	},
@@ -21276,21 +21448,21 @@ QuestInfoList = {
 	[8062] = {
 		Title = "Kanainne",
 		Description = {
-			"“¡Ahora El Schatt no es más que un desalmado a quien solo le importa el dinero…! Ha cambiado completamente. Si mi hermana pudiese verlo, estaría revolcándose en su tumba…”. -Manainne"
+			"“¡Ahora El Schatt no es más que un desalmado a quien solo le importa el dinero...! Ha cambiado completamente. Si mi hermana pudiese verlo, estaría revolcándose en su tumba...”. -Manainne"
 		},
 		Summary = ""
 	},
 	[8063] = {
 		Title = "El espíritu de Kanayne",
 		Description = {
-			"Yo… ¿puedo entrar al cuerpo de mi hermana? Sí, si ella coopera, tal vez… Tal vez funcione. Tengo que… tengo que hacer algo antes de que él… él… se lastime aún más…"
+			"Yo... ¿puedo entrar al cuerpo de mi hermana? Sí, si ella coopera, tal vez... Tal vez funcione. Tengo que... tengo que hacer algo antes de que él... él... se lastime aún más..."
 		},
 		Summary = ""
 	},
 	[8064] = {
 		Title = "La Sopa de pastel de pescado de Cellette",
 		Description = {
-			"Por favor, lleva este pedido de Sopa de pastel de pescado a mi amiga Neha. Estoy muy feliz de que sea una clienta habitual…"
+			"Por favor, lleva este pedido de Sopa de pastel de pescado a mi amiga Neha. Estoy muy feliz de que sea una clienta habitual..."
 		},
 		Summary = "Llévale el pedido a Neha."
 	},
@@ -21304,21 +21476,21 @@ QuestInfoList = {
 	[8066] = {
 		Title = "La Sopa de pastel de pescado de Cellette",
 		Description = {
-			"Por favor, llévaselo a mi compañera Layoma. Pero… Ten cuidado. Tiene una manía con la puntualidad. Solo trata de no llegar tarde…"
+			"Por favor, llévaselo a mi compañera Layoma. Pero... Ten cuidado. Tiene una manía con la puntualidad. Solo trata de no llegar tarde..."
 		},
 		Summary = "Entrega el pedido a Layoma."
 	},
 	[8067] = {
 		Title = "La Sopa de pastel de pescado de Cellette",
 		Description = {
-			"Rápido, llévale esta Sopa de pastel de pescado a Erjan. Um, pero ten cuidado, es muy quisquilloso…"
+			"Rápido, llévale esta Sopa de pastel de pescado a Erjan. Um, pero ten cuidado, es muy quisquilloso..."
 		},
 		Summary = "Llévale el pedido a Erjan."
 	},
 	[8068] = {
 		Title = "La Sopa de pastel de pescado de Cellette",
 		Description = {
-			"¡Llegas tarde! ¿No sabes que esta sopa no sabe bien si no está muy caliente? Pero… Te puedo perdonar… pero con una condición. Tráeme ^FF00001 Látigo^000000 para azotarte con él. Será mejor que te apures, si no, no te dejaré ir tan fácilmente."
+			"¡Llegas tarde! ¿No sabes que esta sopa no sabe bien si no está muy caliente? Pero... Te puedo perdonar... pero con una condición. Tráeme ^FF00001 Látigo^000000 para azotarte con él. Será mejor que te apures, si no, no te dejaré ir tan fácilmente."
 		},
 		Summary = "Lleva 1 Látigo a Neha."
 	},
@@ -21339,14 +21511,14 @@ QuestInfoList = {
 	[8071] = {
 		Title = "La Sopa de pastel de pescado de Cellette",
 		Description = {
-			"Mm… Pero como el primogénito de la familia Franchesfeschu, no puedo comer esta sopa, a menos que esté debidamente preparada. ¡Ve! ¡Te ordeno que me traigas la ^ff0000Vajilla de porcelana^000000 común!"
+			"Mm... Pero como el primogénito de la familia Franchesfeschu, no puedo comer esta sopa, a menos que esté debidamente preparada. ¡Ve! ¡Te ordeno que me traigas la ^FF0000Vajilla de porcelana^000000 común!"
 		},
 		Summary = "Llévale a Erjan 1 Vajilla de porcelana."
 	},
 	[8072] = {
 		Title = "La Sopa de pastel de pescado de Cellette",
 		Description = {
-			"Ooh, ¿te azoté accidentalmente dos veces? Je, je… Bueno, estoy satisfecha. Voy a contarle a Cellette que hiciste un buen trabajo… Espero que regreses para volver a traerme mi sopa~."
+			"Ooh, ¿te azoté accidentalmente dos veces? Je, je... Bueno, estoy satisfecha. Voy a contarle a Cellette que hiciste un buen trabajo... Espero que regreses para volver a traerme mi sopa~."
 		},
 		Summary = "Regresa con Cellette."
 	},
@@ -21374,21 +21546,21 @@ QuestInfoList = {
 	[8076] = {
 		Title = "Klitzer y Calla",
 		Description = {
-			"Sé que estoy actuando como un completo idiota, pero daría cualquier cosa por ver a Calla… No escuches nada de lo que digo. Soy un pobre tonto enamorado de la persona equivocada. Tiene que ser así…"
+			"Sé que estoy actuando como un completo idiota, pero daría cualquier cosa por ver a Calla... No escuches nada de lo que digo. Soy un pobre tonto enamorado de la persona equivocada. Tiene que ser así..."
 		},
 		Summary = " "
 	},
 	[8077] = {
 		Title = "Klitzer y Calla",
 		Description = {
-			"Bueno, tal vez no lo pueda ver, pero ¿le darías mi violín a Klitzer por mí? Solía tocar esto para él todo el tiempo…"
+			"Bueno, tal vez no lo pueda ver, pero ¿le darías mi violín a Klitzer por mí? Solía tocar esto para él todo el tiempo..."
 		},
 		Summary = "Lleva el violín de Calla a Klitzer."
 	},
 	[8078] = {
 		Title = "Klitzer y Calla",
 		Description = {
-			"Es el violín de mi hija. Se lo regalé por sus quince años… ¡Te pasaste de la raya! ¡Guardias! ¡Acércate aquí!"
+			"Es el violín de mi hija. Se lo regalé por sus quince años... ¡Te pasaste de la raya! ¡Guardias! ¡Acércate aquí!"
 		},
 		Summary = "Se llevaron el violín de Calla."
 	},
@@ -21402,7 +21574,7 @@ QuestInfoList = {
 	[8080] = {
 		Title = "Klitzer y Calla",
 		Description = {
-			"Si pasas por Einbroch, ¿le podrías agradecer a Klitzer de mi parte por la flor? Y-y… Y… Dile que lo extraño mucho."
+			"Si pasas por Einbroch, ¿le podrías agradecer a Klitzer de mi parte por la flor? Y-y... Y... Dile que lo extraño mucho."
 		},
 		Summary = "Entrega el mensaje de Calla a Klitzer."
 	},
@@ -21416,7 +21588,7 @@ QuestInfoList = {
 	[8082] = {
 		Title = "Klitzer y Calla",
 		Description = {
-			"No soporto que el odio mezquino entre nuestras dos ciudades impida a mi hijo ver a la mujer que ama… Encuentra a alguien que podría conocer la historia de Einbroch y Einbech."
+			"No soporto que el odio mezquino entre nuestras dos ciudades impida a mi hijo ver a la mujer que ama... Encuentra a alguien que podría conocer la historia de Einbroch y Einbech."
 		},
 		Summary = " "
 	},
@@ -21444,7 +21616,7 @@ QuestInfoList = {
 	[8086] = {
 		Title = "Klitzer y Calla",
 		Description = {
-			"¿Cómo…?  ¿Qué dijiste? ¿Me acabas de decir que la madre de Calla me ha invitado a tomar el té con ella? ¡Por todos los dioses…!"
+			"¿Cómo...?  ¿Qué dijiste? ¿Me acabas de decir que la madre de Calla me ha invitado a tomar el té con ella? ¡Por todos los dioses...!"
 		},
 		Summary = " "
 	},
@@ -21493,7 +21665,7 @@ QuestInfoList = {
 	[8093] = {
 		Title = "Mensaje misterioso",
 		Description = {
-			"Sí, anoche un tipo me pidió que, si alguien estuviese buscando a un tal Phobe, le diera un mensaje. Básicamente, quiere que vayas a la “Cueva de hielo”. A ver, su nombre era… ¿Nogan? ¿Rogan? Algo así."
+			"Sí, anoche un tipo me pidió que, si alguien estuviese buscando a un tal Phobe, le diera un mensaje. Básicamente, quiere que vayas a la “Cueva de hielo”. A ver, su nombre era... ¿Nogan? ¿Rogan? Algo así."
 		},
 		Summary = "Ve a la Cueva de hielo."
 	},
@@ -21507,7 +21679,7 @@ QuestInfoList = {
 	[8095] = {
 		Title = "Encuentra a Phobe",
 		Description = {
-			"No te meterás en problemas si puedo encontrar la joya y a Phobe antes de que regrese sir Zhed, así que intentaré encontrarlos lo antes posible. Phobe es solo un niño, así que probablemente se está escondiendo en algún lugar de la ciudad…"
+			"No te meterás en problemas si puedo encontrar la joya y a Phobe antes de que regrese sir Zhed, así que intentaré encontrarlos lo antes posible. Phobe es solo un niño, así que probablemente se está escondiendo en algún lugar de la ciudad..."
 		},
 		Summary = "Intenta encontrar a Phobe."
 	},
@@ -21521,7 +21693,7 @@ QuestInfoList = {
 	[8097] = {
 		Title = "Jenny recibe la noticia",
 		Description = {
-			"Mientras devuelvo esta joya, ¿podrías decirle a mi esposa Jenny que nuestro hijo está bien? Ha estado muy preocupada por él, así que…"
+			"Mientras devuelvo esta joya, ¿podrías decirle a mi esposa Jenny que nuestro hijo está bien? Ha estado muy preocupada por él, así que..."
 		},
 		Summary = "Jenny."
 	},
@@ -21549,7 +21721,7 @@ QuestInfoList = {
 	[8101] = {
 		Title = "Recomendación del Sumo sacerdote Zhed",
 		Description = {
-			"Realmente quiero darte las gracias por venir a hablar conmigo. La pasé muy bien aprendiendo. Ahora tengo que ir a oficiar las ceremonias, así que… Adiós por ahora."
+			"Realmente quiero darte las gracias por venir a hablar conmigo. La pasé muy bien aprendiendo. Ahora tengo que ir a oficiar las ceremonias, así que... Adiós por ahora."
 		},
 		Summary = "Regresa con sir Zhed."
 	},
@@ -21563,7 +21735,7 @@ QuestInfoList = {
 	[8103] = {
 		Title = "Recomendación del Sumo sacerdote Zhed",
 		Description = {
-			"Quiero ofrecerte un consejo. No te acerques mucho al sumo sacerdote Zhed. Si lo haces, podrías terminar metiéndote en problemas…"
+			"Quiero ofrecerte un consejo. No te acerques mucho al sumo sacerdote Zhed. Si lo haces, podrías terminar metiéndote en problemas..."
 		},
 		Summary = "Regresa con sir Zhed."
 	},
@@ -21577,7 +21749,7 @@ QuestInfoList = {
 	[8105] = {
 		Title = "Recomendación del Sumo sacerdote Zhed",
 		Description = {
-			"Le advertí a Bekento que podría causarte problemas, pero parece que tú se los causaste a él. Tienes que entender que la mayoría de los intrusos reciben un gran castigo, pero debido a mi amistad con Bekento, te lo voy a dejar pasar. Recuerda eso…"
+			"Le advertí a Bekento que podría causarte problemas, pero parece que tú se los causaste a él. Tienes que entender que la mayoría de los intrusos reciben un gran castigo, pero debido a mi amistad con Bekento, te lo voy a dejar pasar. Recuerda eso..."
 		},
 		Summary = "Regresa con sir Zhed."
 	},
@@ -21591,7 +21763,7 @@ QuestInfoList = {
 	[8107] = {
 		Title = "El testimonio de Lachellen",
 		Description = {
-			"¡Ay, estoy tan celosa de Bruspetti! Últimamente, pasa demasiado tiempo con su nuevo novio… Pero sigue negándose a decirme cómo se llama. Veamos… ¿Creció en Lighthalzen? Es todo lo que sabe."
+			"¡Ay, estoy tan celosa de Bruspetti! Últimamente, pasa demasiado tiempo con su nuevo novio... Pero sigue negándose a decirme cómo se llama. Veamos... ¿Creció en Lighthalzen? Es todo lo que sabe."
 		},
 		Summary = "Encuentra a un extranjero en la ciudad."
 	},
@@ -21612,7 +21784,7 @@ QuestInfoList = {
 	[8110] = {
 		Title = "El aroma de Bruspetti",
 		Description = {
-			"Ese… Ese olor… ¡Huele tan bien! Como pétalos de rosa cabalgando sobre una suave brisa… Espera, ¿podría ser este el aroma que el padre de Bruspetti mencionó?"
+			"Ese... Ese olor... ¡Huele tan bien! Como pétalos de rosa cabalgando sobre una suave brisa... Espera, ¿podría ser este el aroma que el padre de Bruspetti mencionó?"
 		},
 		Summary = "Regresa a Rachel y anda a ver a Lachellen."
 	},
@@ -21640,7 +21812,7 @@ QuestInfoList = {
 	[8114] = {
 		Title = "El diario de Bruspetti",
 		Description = {
-			"¡Este debe ser el diario de Bruspetti! Pero… si lo lees, te estarías pasando de la raya. Tienes que preguntarle a Katinshuell si sabe por qué Bruspetti está en Lighthalzen."
+			"¡Este debe ser el diario de Bruspetti! Pero... si lo lees, te estarías pasando de la raya. Tienes que preguntarle a Katinshuell si sabe por qué Bruspetti está en Lighthalzen."
 		},
 		Summary = "Encuentra a Katinshuell."
 	},
@@ -21654,7 +21826,7 @@ QuestInfoList = {
 	[8116] = {
 		Title = "El testimonio de Lachellen",
 		Description = {
-			"¿El Manantial de Freya? ¡Oh, ese lugar me gusta! Hablando de eso, conozco a alguien que se llama Katinshuell que iba ahí muy seguido. Por lo general, los hombres no van solos…"
+			"¿El Manantial de Freya? ¡Oh, ese lugar me gusta! Hablando de eso, conozco a alguien que se llama Katinshuell que iba ahí muy seguido. Por lo general, los hombres no van solos..."
 		},
 		Summary = "Anda al Manantial de Freya."
 	},
@@ -21668,14 +21840,14 @@ QuestInfoList = {
 	[8118] = {
 		Title = "Conversación con el Sr. Shendar",
 		Description = {
-			"Espera, espera… ¿Así que alguien ha estado merodeando por aquí? Qué raro. Espera, ese tipo, el que podría ser el novio de Bruspetti…"
+			"Espera, espera... ¿Así que alguien ha estado merodeando por aquí? Qué raro. Espera, ese tipo, el que podría ser el novio de Bruspetti..."
 		},
 		Summary = "Recupera el diario de Bruspetti."
 	},
 	[8119] = {
 		Title = "El diario de Bruspetti",
 		Description = {
-			"Ya tienes permiso para llevarte el diario y así poder averiguar si Bruspetti y Katinshuell están relacionados… Lleva el diario a Katinshuell."
+			"Ya tienes permiso para llevarte el diario y así poder averiguar si Bruspetti y Katinshuell están relacionados... Lleva el diario a Katinshuell."
 		},
 		Summary = "Katinshuell."
 	},
@@ -21689,14 +21861,14 @@ QuestInfoList = {
 	[8121] = {
 		Title = "Conversación con Katinshuell",
 		Description = {
-			"Todavía se resiste a mí… ¿Cómo puedo hacer que revele la verdad? Quizás haya algo que pueda usar para hacerlo confesar…"
+			"Todavía se resiste a mí... ¿Cómo puedo hacer que revele la verdad? Quizás haya algo que pueda usar para hacerlo confesar..."
 		},
 		Summary = "Sigue hablando con Katinshuell."
 	},
 	[8122] = {
 		Title = "El lugar de descanso de Bruspetti",
 		Description = {
-			"… Por favor, déjame en paz. Perdí a la mujer que amo por una estupidez que hice en el pasado. Si quieres delatarme, hazlo…"
+			"... Por favor, déjame en paz. Perdí a la mujer que amo por una estupidez que hice en el pasado. Si quieres delatarme, hazlo..."
 		},
 		Summary = "Anda al Manantial de Freya."
 	},
@@ -21731,7 +21903,7 @@ QuestInfoList = {
 	[8127] = {
 		Title = "La excursión de Momotaro",
 		Description = {
-			"El jefe dijo que Dokebi ganó 20 millones de zeny hackeando cuentas ajenas… Como en el pueblo pasamos el tiempo sentados y charlando, no podemos matar a Dokebi ya que nuestro nivel es bajo, así que… ¿lo puedes hacer por nosotros?"
+			"El jefe dijo que Dokebi ganó 20 millones de zeny hackeando cuentas ajenas... Como en el pueblo pasamos el tiempo sentados y charlando, no podemos matar a Dokebi ya que nuestro nivel es bajo, así que... ¿lo puedes hacer por nosotros?"
 		},
 		Summary = "Derrota a Dokebi."
 	},
@@ -21745,14 +21917,14 @@ QuestInfoList = {
 	[8129] = {
 		Title = "La excursión de Momotaro",
 		Description = {
-			"Se supone que en este momento tengo que hacer que regreses… ¡PERO! Te daré una oportunidad. Si fracasas, ^3163FFno podrás aceptar este desafío.^000000Además, esta misión será bastante difícil."
+			"Se supone que en este momento tengo que hacer que regreses... ¡PERO! Te daré una oportunidad. Si fracasas, ^3163FFno podrás aceptar este desafío.^000000Además, esta misión será bastante difícil."
 		},
 		Summary = " ?"
 	},
 	[8130] = {
 		Title = "La excursión de Momotaro",
 		Description = {
-			"Realmente me sorprendes. ¡Tienes talento! Déjame mostrarte la salida. La pasé muy bien… No te olvides de tu premio."
+			"Realmente me sorprendes. ¡Tienes talento! Déjame mostrarte la salida. La pasé muy bien... No te olvides de tu premio."
 		},
 		Summary = " "
 	},
@@ -21766,7 +21938,7 @@ QuestInfoList = {
 	[8132] = {
 		Title = "La madre del lord en Amatsu",
 		Description = {
-			"Tú, que vienes de Rune-Midgarts, quizá podrías curar la enfermedad de mi madre. Te recompensaré bien si logras hacerlo… Mi madre vive en una casa de las afueras del palacio. Ven a verme cuando termines el tratamiento."
+			"Tú, que vienes de Rune-Midgarts, quizá podrías curar la enfermedad de mi madre. Te recompensaré bien si logras hacerlo... Mi madre vive en una casa de las afueras del palacio. Ven a verme cuando termines el tratamiento."
 		},
 		Summary = "Encuentra el tratamiento para curar a la madre del lord."
 	},
@@ -21794,7 +21966,7 @@ QuestInfoList = {
 	[8136] = {
 		Title = "La advertencia del Lobo gris",
 		Description = {
-			"Conociste a un Lobo gris que te advierte sobre alguien llamado Koshei, el Inmortal, y te dice que debes abandonar este lugar. Pero ¿quién es exactamente este Koshei? Quizás el Lobo gris regrese y se explique más…"
+			"Conociste a un Lobo gris que te advierte sobre alguien llamado Koshei, el Inmortal, y te dice que debes abandonar este lugar. Pero ¿quién es exactamente este Koshei? Quizás el Lobo gris regrese y se explique más..."
 		},
 		Summary = ""
 	},
@@ -21878,7 +22050,7 @@ QuestInfoList = {
 	[8148] = {
 		Title = "El amado de Lusalka",
 		Description = {
-			"Encontraste a un vagabundo de Moscovia que viajó a Prontera con Igor, pero ya se separaron. Dijo que Igor se dirigía a un desierto… El desierto más cercano que conoces es…"
+			"Encontraste a un vagabundo de Moscovia que viajó a Prontera con Igor, pero ya se separaron. Dijo que Igor se dirigía a un desierto... El desierto más cercano que conoces es..."
 		},
 		Summary = ""
 	},
@@ -22186,7 +22358,7 @@ QuestInfoList = {
 	[8192] = {
 		Title = "La consejera egoísta",
 		Description = {
-			"Quiero tomar una bebida de verdad, ^FF0000Alcohol^000000ic… ¡hip!. Ah. ¡Y necesito algunos refrigerios para mantener toda mi energía durante la lección! ^FF00001 Manzana, 3 Bananas y 5 Galletas bien horneadas^000000 sobre una fina ^FF0000Vajilla de porcelana^000000."
+			"Quiero tomar una bebida de verdad, ^FF0000Alcohol^000000ic... ¡hip!. Ah. ¡Y necesito algunos refrigerios para mantener toda mi energía durante la lección! ^FF00001 Manzana, 3 Bananas y 5 Galletas bien horneadas^000000 sobre una fina ^FF0000Vajilla de porcelana^000000."
 		},
 		Summary = "Vuelve con Aelle con la Bebida alcohólica y el bocadillo."
 	},
@@ -22200,7 +22372,7 @@ QuestInfoList = {
 	[8194] = {
 		Title = "La consejera borracha",
 		Description = {
-			"¡V-vete! ¡Habla con Canell, mi hermana…! Zzz, zzz, zzz…"
+			"¡V-vete! ¡Habla con Canell, mi hermana...! Zzz, zzz, zzz..."
 		},
 		Summary = " "
 	},
@@ -22242,7 +22414,7 @@ QuestInfoList = {
 	[8200] = {
 		Title = "Las solicitudes de los documentos de Ryosen",
 		Description = {
-			"Hice una solicitud a la oficina de Arunafeltz, pero todavía no recibo nada. ¿Podrías conseguirlo de Hansenne? Lo necesito para la reunión, pero nunca me lo envía. Se debe haber olvidado… ¡otra vez!"
+			"Hice una solicitud a la oficina de Arunafeltz, pero todavía no recibo nada. ¿Podrías conseguirlo de Hansenne? Lo necesito para la reunión, pero nunca me lo envía. Se debe haber olvidado... ¡otra vez!"
 		},
 		Summary = " "
 	},
@@ -22256,7 +22428,7 @@ QuestInfoList = {
 	[8202] = {
 		Title = "La restauración de los documentos",
 		Description = {
-			"La gente de Schwartzvalt tiene talento para restaurar cosas como esta… ¿Por qué no le pides a Hue que restaure esto? Va a gritar tan fuerte que las ventanas se van a romper."
+			"La gente de Schwartzvalt tiene talento para restaurar cosas como esta... ¿Por qué no le pides a Hue que restaure esto? Va a gritar tan fuerte que las ventanas se van a romper."
 		},
 		Summary = " "
 	},
@@ -22291,14 +22463,14 @@ QuestInfoList = {
 	[8207] = {
 		Title = "Hansenne no es culpable",
 		Description = {
-			"Lo único que quería era que se unieran más, que fortalecieran su amistad… Pero siempre surgen problemas. ¿Se te ocurre algo para hacer que se lleven mejor?"
+			"Lo único que quería era que se unieran más, que fortalecieran su amistad... Pero siempre surgen problemas. ¿Se te ocurre algo para hacer que se lleven mejor?"
 		},
 		Summary = " "
 	},
 	[8208] = {
 		Title = "El favor de Hansenne",
 		Description = {
-			"Pronto estará bien. Llegará a pensar que en realidad no fue para tanto. Pero el hecho es que… la relación entre Ryosen y Hue no se ve nada bien. ¿Por qué no los ayudas a que se lleven bien?"
+			"Pronto estará bien. Llegará a pensar que en realidad no fue para tanto. Pero el hecho es que... la relación entre Ryosen y Hue no se ve nada bien. ¿Por qué no los ayudas a que se lleven bien?"
 		},
 		Summary = " "
 	},
@@ -22340,7 +22512,7 @@ QuestInfoList = {
 	[8214] = {
 		Title = "La lección de Shurank",
 		Description = {
-			"¡Esos callos…! Solo alguien que domina la habilidad Aporreo tiene ese tipo de manos. Buen trabajo, espadachín. Estoy muy impresionado."
+			"¡Esos callos...! Solo alguien que domina la habilidad Aporreo tiene ese tipo de manos. Buen trabajo, espadachín. Estoy muy impresionado."
 		},
 		Summary = "Escucha la lección de Shurank."
 	},
@@ -22410,7 +22582,7 @@ QuestInfoList = {
 	[8224] = {
 		Title = "La pista",
 		Description = {
-			"¡Qué genial…! Bueno, bueno, buen trabajo. Ahora todo lo que tenemos que hacer es averiguar qué significa todo esto. Esto va a ser muy difícil. Tenemos que resolver esto, es la única pista que tenemos…"
+			"¡Qué genial...! Bueno, bueno, buen trabajo. Ahora todo lo que tenemos que hacer es averiguar qué significa todo esto. Esto va a ser muy difícil. Tenemos que resolver esto, es la única pista que tenemos..."
 		},
 		Summary = " "
 	},
@@ -22431,7 +22603,7 @@ QuestInfoList = {
 	[8227] = {
 		Title = "Regresa con Shurank",
 		Description = {
-			"¿Un suicidio…? ¡Aquí hay algo que huele mal! En cuanto a los otros tres sospechosos, me aseguraré de que los miembros de la Asociación de Espadachines los vigilen. Parece que este caso está cerrado por ahora. Una vez más, gracias por tu ayuda. ¿Por qué no se le informas a Shurank ahora? Supongo que todavía quiere mostrarte el manejo del arte de la espada."
+			"¿Un suicidio...? ¡Aquí hay algo que huele mal! En cuanto a los otros tres sospechosos, me aseguraré de que los miembros de la Asociación de Espadachines los vigilen. Parece que este caso está cerrado por ahora. Una vez más, gracias por tu ayuda. ¿Por qué no se le informas a Shurank ahora? Supongo que todavía quiere mostrarte el manejo del arte de la espada."
 		},
 		Summary = "Regresa con Shurank"
 	},
@@ -22578,7 +22750,7 @@ QuestInfoList = {
 	[8248] = {
 		Title = "Los avances de la investigación",
 		Description = {
-			"¿Cómo vamos a unificar tanta cantidad de datos y convertirlos en un traductor portátil…? ¿Puedes preguntarle su opinión al ingeniero mecánico de Schwarzwald?"
+			"¿Cómo vamos a unificar tanta cantidad de datos y convertirlos en un traductor portátil...? ¿Puedes preguntarle su opinión al ingeniero mecánico de Schwarzwald?"
 		},
 		Summary = ""
 	},
@@ -23351,7 +23523,7 @@ QuestInfoList = {
 	[8538] = {
 		Title = "Mañana en el Talón del Rey.",
 		Description = {
-			"No quiero volver a ver otra carta… ¡nunca más! Pero quizá mañana cambie de opinión. Volvamos a hablar con el Dr. Magnatum mañana."
+			"No quiero volver a ver otra carta... ¡nunca más! Pero quizá mañana cambie de opinión. Volvamos a hablar con el Dr. Magnatum mañana."
 		},
 		Summary = "Se reinicia a las 4:00.",
 		CoolTimeQuest = 1
@@ -23856,7 +24028,7 @@ QuestInfoList = {
 		Title = "De vuelta a Juperos",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Maura también se reunió con Frankelson. Maura quiere que vuelva a Juperos y me reúna con Naoise Lian, una de sus competidoras durante sus días como Mecánica. En lugar de ir allí físicamente…"
+			"Maura también se reunió con Frankelson. Maura quiere que vuelva a Juperos y me reúna con Naoise Lian, una de sus competidoras durante sus días como Mecánica. En lugar de ir allí físicamente..."
 		},
 		Summary = "Conéctate a la terminal a través de un meca mágico."
 	},
@@ -24568,28 +24740,28 @@ QuestInfoList = {
 	[8724] = {
 		Title = "Ilusión de las Gemelas",
 		Description = {
-			"Por mucho que intentes escuchar la historia de Briashen, es imposible mantener una conversación normal con ella. Te pide que encuentres a Kharis. Alguien que se parezca a ella… algo así."
+			"Por mucho que intentes escuchar la historia de Briashen, es imposible mantener una conversación normal con ella. Te pide que encuentres a Kharis. Alguien que se parezca a ella... algo así."
 		},
 		Summary = "Busca a Kharis"
 	},
 	[8725] = {
-		Title = "¿Se parece a…? (1)",
+		Title = "¿Se parece a...? (1)",
 		Description = {
-			"Una Errante llamada Ruelle dice que está buscando a Briashen. Pero ese no era el nombre que buscábamos… Después de eso, Ruelle desapareció."
+			"Una Errante llamada Ruelle dice que está buscando a Briashen. Pero ese no era el nombre que buscábamos... Después de eso, Ruelle desapareció."
 		},
 		Summary = ""
 	},
 	[8726] = {
-		Title = "¿Se parece a…? (2)",
+		Title = "¿Se parece a...? (2)",
 		Description = {
-			"Una errante llamado Kharis busca a una amiga de quien se separó. Pero después de oír la historia, fue Briashen quien resultó herida… Cuando conté que la historia era diferente, Kharis desapareció."
+			"Una errante llamado Kharis busca a una amiga de quien se separó. Pero después de oír la historia, fue Briashen quien resultó herida... Cuando conté que la historia era diferente, Kharis desapareció."
 		},
 		Summary = ""
 	},
 	[8727] = {
-		Title = "¿Se parece a…? (3)",
+		Title = "¿Se parece a...? (3)",
 		Description = {
-			"Una pistolera llamado Kharis dice que está buscando a una amiga perdida. Pero la Kharis que Briashen buscaba es una Errante… Después de decir eso, Kharis desapareció."
+			"Una pistolera llamado Kharis dice que está buscando a una amiga perdida. Pero la Kharis que Briashen buscaba es una Errante... Después de decir eso, Kharis desapareció."
 		},
 		Summary = ""
 	},
@@ -24697,6 +24869,22 @@ QuestInfoList = {
 		},
 		Summary = "Ir hacia el frente del árbol"
 	},
+	[8773] = {
+		Title = "Las preocupaciones del Profesor Worm",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Profesor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI> parece estar intentando recordar algo que ha vuelto a olvidar. Intenta tranquilizarlo."
+		},
+		Summary = "Habla con el Profesor Worm"
+	},
+	[8774] = {
+		Title = "El camino mÃ¡s rÃ¡pido al Nuevo Mundo",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"La alianza de las tres naciones ya estÃ¡ consolidada, asÃ­ que no hace falta reunirse con sus lÃ­deres ni realizar una prueba. Habla con <NAVI>[CapitÃ¡n de la Guardia Seobuk]<INFO>moc_fild22b,230,197,0,101,0</INFO></NAVI> cerca de la grieta dimensional."
+		},
+		Summary = "Habla con el CapitÃ¡n de la Guardia Seobuk en la grieta"
+	},
 	[8859] = {
 		Title = "Recuperó 5 cosas atrapadas",
 		IconName = "ico_dq.bmp",
@@ -24794,7 +24982,7 @@ QuestInfoList = {
 		IconName = "ico_vr.bmp",
 		Description = {
 			"¡Tu aventura con Sonic, Tails y Knuckles será inolvidable!",
-			"Pero… Siento que <NAVI>[alguien]<INFO>prt_in,178,97,0,101,0</INFO></NAVI> me está llamando."
+			"Pero... Siento que <NAVI>[alguien]<INFO>prt_in,178,97,0,101,0</INFO></NAVI> me está llamando."
 		},
 		Summary = "Habla con el bibliotecario."
 	},
@@ -24829,7 +25017,7 @@ QuestInfoList = {
 		IconName = "ico_vr.bmp",
 		Description = {
 			"Derrotaste con éxito a Sonic de metal, pero el secreto de esta base aún se desconoce.",
-			"¿Qué tipo de obstáculo te espera en el camino…?"
+			"¿Qué tipo de obstáculo te espera en el camino...?"
 		},
 		Summary = "Explora más."
 	},
@@ -25078,6 +25266,120 @@ QuestInfoList = {
 		Summary = "Reinicia a las 4 AM",
 		CoolTimeQuest = 1
 	},
+	[8986] = {
+		Title = "Hablar con Tiburón Bebé",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hablaste con Tiburón Bebé, que apareció en Comodo."
+		},
+		Summary = "Hablar con Tiburón Bebé (Completado)"
+	},
+	[8987] = {
+		Title = "Solicitud de Tiburón Bebé",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Tiburón Bebé]<INFO>comodo,199,145,0,101,0</INFO></NAVI>, que apareció en Cómodo, te pide que derrotes 20 monstruos que están causando problemas en el Parque de Baby Shark."
+		},
+		Summary = "Derrota 20 monstruos en el mapa"
+	},
+	[8988] = {
+		Title = "¿Dónde se escondió Tiburón Bebé?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Si encuentras a Tiburón Bebé tres veces, puedes recibir <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>."
+		},
+		Summary = "Encuentra a Tiburón Bebé"
+	},
+	[8989] = {
+		Title = "Solicitud de Tiburón Bebé (Nv. 200)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Tiburón Bebé]<INFO>comodo,199,145,0,101,0</INFO></NAVI>, que apareció en Comodo, te pidió que derrotes 300 monstruos de tipo Pez de nivel 200 o superior."
+		},
+		Summary = "Derrota 300 monstruos de tipo Pez de nivel 200 o superior"
+	},
+	[8990] = {
+		Title = "[Espera] Solicitud de Tiburón Bebé",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hoy has derrotado suficientes monstruos que están fastidiando a Tiburón Bebé y sus amigos. Mañana revisaremos si hay más monstruos."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[8991] = {
+		Title = "Búsqueda del Tesoro con Tiburón Bebé",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hoy toca búsqueda del tesoro."
+		},
+		Summary = "Jugar con Tiburón Bebé"
+	},
+	[8992] = {
+		Title = "Escondidas con Tiburón Bebé",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hoy toca jugar a las escondidas."
+		},
+		Summary = "Jugar con Tiburón Bebé"
+	},
+	[8993] = {
+		Title = "Encontrar a la Familia Tiburón",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hoy toca encontrar a la familia con Tiburón Bebé."
+		},
+		Summary = "Jugar con Tiburón Bebé"
+	},
+	[8994] = {
+		Title = "[Espera] Jugar con Tiburón Bebé",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Hoy ya jugaste con Tiburón Bebé! ¡Volvamos a jugar mañana!"
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[8995] = {
+		Title = "¡Busquemos las caracolas!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Tiburón Bebé dijo que escondió tesoros por todas partes. Pero las Cajas de Tesoro parecen un poco extrañas..."
+		},
+		Summary = "Hablar con las Cajas de Tesoro"
+	},
+	[8996] = {
+		Title = "¡Conseguimos todas las caracolas!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Resolviste todos los cuestionarios. Llevemos las caracolas a Tiburón Bebé."
+		},
+		Summary = "Hablar con Tiburón Bebé"
+	},
+	[8997] = {
+		Title = "¡Encuentra a Tiburón Mamá!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Iba a jugar con Tiburón Bebé, pero de repente empezamos a jugar a las escondidas con la Tiburón Mamá. ¡Encontremos a Tiburón Mamá!"
+		},
+		Summary = "Encontrar a Tiburón Mamá"
+	},
+	[8998] = {
+		Title = "¡Encuentra a Tiburón Papá!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Iba a jugar con Tiburón Bebé, pero de repente empezamos a jugar a las escondidas con Tiburón Papá. ¡Encontremos a Tiburón Papá!"
+		},
+		Summary = "Encontrar a Tiburón Papá"
+	},
+	[8999] = {
+		Title = "¡Encuentra a Tiburón Abuela!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Iba a jugar con Tiburón Bebé, pero de repente empezamos a jugar a las escondidas con Tiburón Abuela. ¡Encontremos a Tiburón Abuela!"
+		},
+		Summary = "Encontrar a Tiburón Abuela"
+	},
 	[9000] = {
 		Title = "Cambio de clase a Caballero",
 		Description = {
@@ -25116,7 +25418,7 @@ QuestInfoList = {
 	[9005] = {
 		Title = "La tenacidad de los Caballeros",
 		Description = {
-			"Sir Windsor solo te indica que lo sigas…"
+			"Sir Windsor solo te indica que lo sigas..."
 		},
 		Summary = "Habla con sir Windsor."
 	},
@@ -25384,7 +25686,7 @@ QuestInfoList = {
 	[9059] = {
 		Title = "¡Feliz Día de San Patricio!",
 		Description = {
-			"O’Riley te dio una Moneda ARRIBA por recolectar las almas que necesitaba para su Cerveza verde. Seguro que a alguien le servirá…"
+			"O’Riley te dio una Moneda ARRIBA por recolectar las almas que necesitaba para su Cerveza verde. Seguro que a alguien le servirá..."
 		},
 		Summary = ""
 	},
@@ -26883,7 +27185,7 @@ QuestInfoList = {
 	[9380] = {
 		Title = "Recolectar Fragmentos de Alma de Mono Fuerte.",
 		Description = {
-			"Caza Wootan Fighters y Wootan Shooters en el Campo de Umbala para recolectar 150 Fragmentos de Alma de Mono."
+			"Caza Luchador Wootan y Tirador Wootan en el Campo de Umbala para recolectar 150 Fragmentos de Alma de Mono."
 		},
 		Summary = "Obtener 150 Fragmentos de Alma de Mono."
 	},
@@ -26897,7 +27199,8 @@ QuestInfoList = {
 	[9382] = {
 		Title = "Ganar la confianza de Mark Han.",
 		Description = {
-			"Ve a la Mazmorra de Hielo, 1er piso, y consigue 20 Corazones de Hielo de los Siromas, y ve a Noggroad, 1er piso, y consigue 20 Corazones Ardientes de los Blazers. Llévaselos a Mark Han."
+			"Recoge 20 corazones glaciales en la Cueva de Hielo y 20 corazones Ardientes en la Cueva de Lava.",
+			"Después, regresa con Mark Han y entrégaselos."
 		},
 		Summary = "Ganar la confianza de Mark Han."
 	},
@@ -26909,39 +27212,39 @@ QuestInfoList = {
 		Summary = "Regresar con el Profeta K."
 	},
 	[9384] = {
-		Title = "Recolectar Fragmentos de Alma de Gallo.",
+		Title = "Las profecías del Profeta K",
 		Description = {
-			"Caza Pickys en el Desierto de Sograt, cerca de Morroc, para recolectar 100 Fragmentos de Alma de Gallo."
+			"Caza Pickys en el Desierto de Sograt, cerca de Morroc, para recolectar Fragmento de Alma de Gallo x100."
 		},
-		Summary = "Recolectar 100 Fragmentos de Alma de Gallo."
+		Summary = "Recolectar Fragmento de Alma de Gallo x100."
 	},
 	[9385] = {
-		Title = "Recolectar Fragmentos de Alma de Gallo Fuerte.",
+		Title = "Las profecías del Profeta K",
 		Description = {
-			"Caza Grand Pecos en el Campo de la Academia de Kiel Hyre, cerca de Yuno, para recolectar 150 Fragmentos de Alma de Gallo."
+			"Caza Gran Pecos en el Campo de la Academia de Kiel Hyre, cerca de Juno, para recolectar Fragmento de Alma de Gallo x100."
 		},
-		Summary = "Obtener 150 Fragmentos de Alma de Gallo."
+		Summary = "Obtener Fragmento de Alma de Gallo x100."
 	},
 	[9386] = {
-		Title = "Buscar a la persona con la energía del Gallo.",
+		Title = "Las profecías del Profeta K",
 		Description = {
 			"Ve a Geffen y busca a la persona con la energía del Gallo."
 		},
 		Summary = "Encontrar a la persona con la energía del Gallo."
 	},
 	[9387] = {
-		Title = "Ganar la confianza de Balun Gray.",
+		Title = "Las profecías del Profeta K",
 		Description = {
-			"Muévete desde Izlude a la Isla de Byalan y luego ve a la Cueva Submarina de Izlude. Caza Cornutus y Vadons y recolecta 20 Conchas y 20 Pinzas cada una para llevárselas a Balun Gray."
+			"Ve desde Izlude a la Isla de Byalan y luego ve a la Mazmorra de la Cueva Submarina de Izlude. Caza Cornutus y Vadons y recolecta Caracola x20 y Pinza x20. Luego llévale todo a Valen Gray."
 		},
-		Summary = "Ganar la confianza de Balun Gray."
+		Summary = "Gana la confianza de Valen Gray"
 	},
 	[9388] = {
-		Title = "Regresar con el Profeta K.",
+		Title = "Las profecías del Profeta K",
 		Description = {
-			"Regresa con el Profeta K, cuéntale toda la situación y recibe tu recompensa."
+			"Regresa con el Profeta K, cuéntale todo y recibe tu recompensa."
 		},
-		Summary = "Regresar con el Profeta K."
+		Summary = "Regresa con el Profeta K."
 	},
 	[9389] = {
 		Title = "Recolectar Fragmentos de Alma de Perro.",
@@ -28228,7 +28531,7 @@ QuestInfoList = {
 	[11019] = {
 		Title = "Exploración de Juperos",
 		Description = {
-			"¡Ah! Generalmente, las descripciones “vanidoso y extravagante” se refieren al científico loco que se rumorea vivió en esa era antigua. Pero si esto es cierto, puede que tenga que reelaborar mi tesis…"
+			"¡Ah! Generalmente, las descripciones “vanidoso y extravagante” se refieren al científico loco que se rumorea vivió en esa era antigua. Pero si esto es cierto, puede que tenga que reelaborar mi tesis..."
 		},
 		Summary = "Trae algo de Juperos que podría ser útil para su investigación."
 	},
@@ -28256,7 +28559,7 @@ QuestInfoList = {
 	[11023] = {
 		Title = "Ayuda al Sr. Zabaroo 1",
 		Description = {
-			"¿Asbar? Está dentro de la Tienda de herramientas. Lo identificarás inmediatamente… Solo busca al hombre con los ojos de loco!"
+			"¿Asbar? Está dentro de la Tienda de herramientas. Lo identificarás inmediatamente... Solo busca al hombre con los ojos de loco!"
 		},
 		Summary = "Encuentra a Asbar."
 	},
@@ -28319,21 +28622,21 @@ QuestInfoList = {
 	[11032] = {
 		Title = "Camino de la Isla Tortuga",
 		Description = {
-			"Aquí… ^3355FF- tur_dun01 X : 203. Y : 155 -^000000, debajo de la Piedra tortuga."
+			"Aquí... ^3355FF- tur_dun01 X : 203. Y : 155 -^000000, debajo de la Piedra tortuga."
 		},
 		Summary = "Encuentras tres agujeros pequeños debajo de la Piedra tortuga. Conseguiste la Llave de seguridad. Sigamos la pista."
 	},
 	[11033] = {
 		Title = "Camino de la Isla Tortuga",
 		Description = {
-			"Ve a… ^FF3355- tur_dun02 X : 46. Y : 125 -^000000, dentro del montón de tortugas."
+			"Ve a... ^FF3355- tur_dun02 X : 46. Y : 125 -^000000, dentro del montón de tortugas."
 		},
 		Summary = "Dentro de montón de cristales tortuga, se esconde un pergamino. Conseguiste la Llave del cristal de tortuga. Sigamos la pista."
 	},
 	[11034] = {
 		Title = "Camino de la Isla Tortuga",
 		Description = {
-			"Camina 5 pasos al este, 30 pasos al sur y 5 pasos alrededor… del pilar de la tortuga."
+			"Camina 5 pasos al este, 30 pasos al sur y 5 pasos alrededor... del pilar de la tortuga."
 		},
 		Summary = "En el borde de la placa de cristal, hay una llave larga. Conseguiste la Llave del pilar de la tortuga. Sigamos la pista."
 	},
@@ -28368,7 +28671,7 @@ QuestInfoList = {
 	[11039] = {
 		Title = "Reunión con los muertos",
 		Description = {
-			"Alguien que tienes que conocer allí… Supongo que deseas contactarte con los muertos… La ciudad de los muertos se encuentra al norte de este lugar."
+			"Alguien que tienes que conocer allí... Supongo que deseas contactarte con los muertos... La ciudad de los muertos se encuentra al norte de este lugar."
 		},
 		Summary = "Debes encontrar a un hombre llamado “Feylin”. Es muy importante que le digas que Billik te lo presentó. Llévale una Rosa."
 	},
@@ -28382,7 +28685,7 @@ QuestInfoList = {
 	[11041] = {
 		Title = "Reunión con los muertos",
 		Description = {
-			"No tengo idea quién te dijo que era posible contactar a los muertos… Pero sé que yo no te lo hubiera dicho. Además, hablar de esas cosas es un tabú."
+			"No tengo idea quién te dijo que era posible contactar a los muertos... Pero sé que yo no te lo hubiera dicho. Además, hablar de esas cosas es un tabú."
 		},
 		Summary = "No puedes rendirte ahora. Sigue intentando hablar con Feylin."
 	},
@@ -28492,7 +28795,7 @@ QuestInfoList = {
 	[11057] = {
 		Title = "Hierbas medicinales: Trabajo como asistente de la médica",
 		Description = {
-			"Por favor, reúne… ^3355FF2 Garras de leopardo^000000, ^3355FF10 Duraznos sólidos^000000, ^3355FF5 Pieles de sapo venenoso^000000, ^3355FF20 Raíces terrosas^000000, ^3355FF10 Brotes^000000 y ^3355FF5 Tarros de miel^000000."
+			"Por favor, reúne... ^3355FF2 Garras de leopardo^000000, ^3355FF10 Duraznos sólidos^000000, ^3355FF5 Pieles de sapo venenoso^000000, ^3355FF20 Raíces terrosas^000000, ^3355FF10 Brotes^000000 y ^3355FF5 Tarros de miel^000000."
 		},
 		Summary = "Consigue los materiales que Hua Tuo te pidió."
 	},
@@ -28590,7 +28893,7 @@ QuestInfoList = {
 	[11071] = {
 		Title = "El Rey del veneno",
 		Description = {
-			"Anda a hacer lo que ibas a hacer. Solo estoy decepcionado…"
+			"Anda a hacer lo que ibas a hacer. Solo estoy decepcionado..."
 		},
 		Summary = "Parece que Song Zhi Du se molestó. Puedo traerle algo para que se sienta mejor."
 	},
@@ -28604,7 +28907,7 @@ QuestInfoList = {
 	[11073] = {
 		Title = "El Rey del veneno",
 		Description = {
-			"Lo único que queda es preparar este veneno y hacer que el señor de Louyang lo beba…"
+			"Lo único que queda es preparar este veneno y hacer que el señor de Louyang lo beba..."
 		},
 		Summary = "Vuelve a hablar con él y escucha la historia, luego hazle el favor a Song Zhi Du."
 	},
@@ -28618,7 +28921,7 @@ QuestInfoList = {
 	[11075] = {
 		Title = "El Rey del veneno",
 		Description = {
-			"¡¡No!! ¡Volví a fallar! Y pensar que pasé mucho tiempo preparando todos esos materiales…"
+			"¡¡No!! ¡Volví a fallar! Y pensar que pasé mucho tiempo preparando todos esos materiales..."
 		},
 		Summary = "Se necesitan más materiales."
 	},
@@ -28646,7 +28949,7 @@ QuestInfoList = {
 	[11079] = {
 		Title = "El Rey del veneno",
 		Description = {
-			"Te lo ruego. No dejes que le haga daño al señor. No tengo dudas de que te ha pedido ayuda, y también a otros… Por favor, no dejes que lleve a cabo su plan."
+			"Te lo ruego. No dejes que le haga daño al señor. No tengo dudas de que te ha pedido ayuda, y también a otros... Por favor, no dejes que lleve a cabo su plan."
 		},
 		Summary = "Deshazte de la botella de Bai Long."
 	},
@@ -28674,7 +28977,7 @@ QuestInfoList = {
 	[11083] = {
 		Title = "El Rey del veneno",
 		Description = {
-			"… ¡Oh~, gracias, muchas gracias!"
+			"... ¡Oh~, gracias, muchas gracias!"
 		},
 		Summary = "Nagash Arses parece estar satisfecho. Dale la noticia a Song Zhi Du."
 	},
@@ -28784,14 +29087,14 @@ QuestInfoList = {
 		Summary = "Lugen."
 	},
 	[11099] = {
-		Title = "A mi amigo…",
+		Title = "A mi amigo...",
 		Description = {
 			"Lugen te pidió que entregues una carta a su amigo Otto, que trabaja en la barrera del oeste."
 		},
 		Summary = "Otto."
 	},
 	[11100] = {
-		Title = "A mi amigo…",
+		Title = "A mi amigo...",
 		Description = {
 			"Otto te pidió que le lleves su carta a Lugen y que le digas que lo visitará durante sus próximas vacaciones."
 		},
@@ -29148,14 +29451,14 @@ QuestInfoList = {
 	[11151] = {
 		Title = "En búsqueda del Maestro Song",
 		Description = {
-			"El maestro del kayak dice que la anfitriona de la cafetería es buena recordando caras…"
+			"El maestro del kayak dice que la anfitriona de la cafetería es buena recordando caras..."
 		},
 		Summary = "Ve a la cafetería."
 	},
 	[11152] = {
 		Title = "En búsqueda del Maestro Song",
 		Description = {
-			"Estuvo aquí en Comodo, pero luego se retiró a un lugar tranquilo cerca de Morroc, donde se reúne un gremio secreto. La mujer dijo que sonaba como “ash” o “asa”…"
+			"Estuvo aquí en Comodo, pero luego se retiró a un lugar tranquilo cerca de Morroc, donde se reúne un gremio secreto. La mujer dijo que sonaba como “ash” o “asa”..."
 		},
 		Summary = "Encuentra un edificio en la parte sureste de Morroc."
 	},
@@ -29204,14 +29507,14 @@ QuestInfoList = {
 	[11159] = {
 		Title = "La historia de Brian",
 		Description = {
-			"Ah… ¿Cuántos días han pasado desde que llegué aquí…? ¿De casualidad sabes qué día es hoy?"
+			"Ah... ¿Cuántos días han pasado desde que llegué aquí...? ¿De casualidad sabes qué día es hoy?"
 		},
 		Summary = "Escucha la historia de Brian."
 	},
 	[11160] = {
 		Title = "La historia de John",
 		Description = {
-			"Bueno… No hay nada… malo… no te preocupes…"
+			"Bueno... No hay nada... malo... no te preocupes..."
 		},
 		Summary = "Continúa tu conversación con John."
 	},
@@ -29253,7 +29556,7 @@ QuestInfoList = {
 	[11166] = {
 		Title = "La entrega a John",
 		Description = {
-			"… Muchas gracias…"
+			"... Muchas gracias..."
 		},
 		Summary = "Entrega a John completada."
 	},
@@ -29412,28 +29715,28 @@ QuestInfoList = {
 		Summary = "Vuelve a hablar con Kusmi."
 	},
 	[11189] = {
-		Title = "La ruta de suministro de Bifrost",
+		Title = "La ruta de suministro de Bifröst",
 		Description = {
 			"Kusmi aún necesita ayuda porque la ruta de suministro al continente está bloqueada."
 		},
 		Summary = "Vuelve a hablar con Kusmi."
 	},
 	[11190] = {
-		Title = "La ruta de suministro de Bifrost",
+		Title = "La ruta de suministro de Bifröst",
 		Description = {
 			"Encuentra un recluta laphine en Splendide para informarlo sobre la ruta de suministro."
 		},
 		Summary = ""
 	},
 	[11191] = {
-		Title = "Grietas en Bifrost",
+		Title = "Grietas en Bifröst",
 		Description = {
 			"Puedes llegar a Alfheim a través del Laberinto del Bosque brumoso. Sin embargo, nunca nadie ha regresado del Laberinto del Bosque brumoso."
 		},
 		Summary = "Regresa con Kusmi."
 	},
 	[11192] = {
-		Title = "Pueblo de Mora…",
+		Title = "Pueblo de Mora...",
 		Description = {
 			"Si vas al depósito del pueblo de Mora, el administrador te dará más detalles. Cuando estés de regreso, ¿podrías averiguar si mi amigo Rondo está en el pueblo de Mora?"
 		},
@@ -29454,28 +29757,28 @@ QuestInfoList = {
 		Summary = "Vuelve a hablar con Theodore."
 	},
 	[11195] = {
-		Title = "Bifrost",
+		Title = "Bifröst",
 		Description = {
 			"Y como te dije antes, lo que te conté es un secreto y no debes compartirlo con nadie. Necesitamos ayuda, pero estamos acorralados y no queremos que los demás lo sepan."
 		},
 		Summary = "Vuelve a hablar con Theodore."
 	},
 	[11196] = {
-		Title = "Bifrost",
+		Title = "Bifröst",
 		Description = {
-			"La ruta de suministro atraviesa Bifrost. Puedes llegar ahí desde la parte trasera de la base en Splendide. Si te atreves a ir, pregúntale a uno de los guardias cómo son las cosas ahí."
+			"La ruta de suministro atraviesa Bifröst. Puedes llegar ahí desde la parte trasera de la base en Splendide. Si te atreves a ir, pregúntale a uno de los guardias cómo son las cosas ahí."
 		},
 		Summary = "Encuentra un recluta laphine en Splendide para informarlo sobre la ruta de suministro."
 	},
 	[11197] = {
-		Title = "Grietas en Bifrost",
+		Title = "Grietas en Bifröst",
 		Description = {
 			"Puedes llegar a Alfheim a través del Laberinto del Bosque brumoso. Sin embargo, nunca nadie ha regresado del Laberinto del Bosque brumoso."
 		},
 		Summary = "Regresa con Theodore."
 	},
 	[11198] = {
-		Title = "Pueblo de Mora…",
+		Title = "Pueblo de Mora...",
 		Description = {
 			"Habla con el administrador del Depósito del pueblo de Mora para que te dé más información. Y si no es mucha molestia, ¿también podrías pasar por la casa de mi amiga Lilitia?"
 		},
@@ -29491,33 +29794,33 @@ QuestInfoList = {
 	[11200] = {
 		Title = "La pequeña bolsa",
 		Description = {
-			"No es una pregunta fácil de responder… Te agradezco que hayas encontrado mi bolsa… Mmm… Necesito tiempo para pensarlo."
+			"No es una pregunta fácil de responder... Te agradezco que hayas encontrado mi bolsa... Mmm... Necesito tiempo para pensarlo."
 		},
 		Summary = "Vuelve a hablar con Pauchon."
 	},
 	[11201] = {
-		Title = "Bifrost",
+		Title = "Bifröst",
 		Description = {
-			"Me comería la corteza de ese árbol si pudiera. Si alguien pudiera ayudar… *Solloza*"
+			"Me comería la corteza de ese árbol si pudiera. Si alguien pudiera ayudar... *Solloza*"
 		},
 		Summary = "Vuelve a hablar con Pauchon."
 	},
 	[11202] = {
-		Title = "Bifrost",
+		Title = "Bifröst",
 		Description = {
 			"Un camino gigante se abre desde la parte trasera de Splendide. ¡Ah! Ese guardia podría saber algo. Si vas en esa dirección, averigua qué está pasando."
 		},
 		Summary = "Encuentra un recluta laphine en Splendide para informarlo sobre la ruta de suministro."
 	},
 	[11203] = {
-		Title = "Grietas en Bifrost",
+		Title = "Grietas en Bifröst",
 		Description = {
 			"Puedes llegar a Alfheim a través del Laberinto del Bosque brumoso. Sin embargo, nunca nadie ha regresado del Laberinto del Bosque brumoso."
 		},
 		Summary = "Regresa con Pauchon."
 	},
 	[11204] = {
-		Title = "Pueblo de Mora…",
+		Title = "Pueblo de Mora...",
 		Description = {
 			"Es un tipo muy voluble, así que es posible que ya se haya ido. Pero se suponía que nos encontraríamos en el pueblo de Mora."
 		},
@@ -29603,7 +29906,7 @@ QuestInfoList = {
 	[11216] = {
 		Title = "El Fruto de Yggdrasil",
 		Description = {
-			"Bueno, no conozco los detalles del Fruto de Yggdrasil. Si tienes alguna pregunta, solo tienes que ir a mi casa en ^6666ccMalangdo oeste^000000. Mi padre debe estar aburridísimo ahí…"
+			"Bueno, no conozco los detalles del Fruto de Yggdrasil. Si tienes alguna pregunta, solo tienes que ir a mi casa en ^6666CCMalangdo oeste^000000. Mi padre debe estar aburridísimo ahí..."
 		},
 		Summary = "Conozcamos al padre de Brie, el Sr. Rican."
 	},
@@ -29647,7 +29950,7 @@ QuestInfoList = {
 		Description = {
 			"Rellena la grieta con la mezcla de arcilla gris y blanca. Fija la grieta con grapas."
 		},
-		Summary = "Reparemos la grieta con el kit de reparación. Cuando todos digan estén listos…"
+		Summary = "Reparemos la grieta con el kit de reparación. Cuando todos digan estén listos..."
 	},
 	[11223] = {
 		Title = "La gelatina más suave del mundo",
@@ -29780,7 +30083,7 @@ QuestInfoList = {
 		Description = {
 			"Rellena la grieta con la mezcla de arcilla gris y blanca. Fija la grieta con grapas."
 		},
-		Summary = "Reparemos la grieta con el kit de reparación. Cuando todos digan estén listos…"
+		Summary = "Reparemos la grieta con el kit de reparación. Cuando todos digan estén listos..."
 	},
 	[11242] = {
 		Title = "La gelatina más suave del mundo",
@@ -30356,7 +30659,7 @@ QuestInfoList = {
 	[11344] = {
 		Title = "¡¡Barrera!!",
 		Description = {
-			"Colocando las asas en el caparazón de Pupa… Regresa con Subino una vez que caces 5 Pupas y consigas 2 Caparazones. Las Pupas se encuentran en el campo al oeste de Izlude."
+			"Colocando las asas en el caparazón de Pupa... Regresa con Subino una vez que caces 5 Pupas y consigas 2 Caparazones. Las Pupas se encuentran en el campo al oeste de Izlude."
 		},
 		Summary = "5 Pupas, 2 Caparazones."
 	},
@@ -31408,7 +31711,7 @@ QuestInfoList = {
 		Description = {
 			"Una cosita pequeña y blanca pasó rápidamente por la entrada hace poco. No están seguros de si era un gato. Preguntemos al tipo afuera de la entrada."
 		},
-		Summary = "Habla con el Jakk Nervioso."
+		Summary = "Habla con el Jakk Tembloroso."
 	},
 	[11488] = {
 		Title = "El Jakk y el gato del Jakk",
@@ -31422,35 +31725,35 @@ QuestInfoList = {
 		Description = {
 			"Parece que el gatito del Jakk fue a Midgard a través del tallo de Yggdrasil. Probablemente pasó por Umbala. Vamos a investigar."
 		},
-		Summary = "Investigación en la entrada norte de Umbala."
+		Summary = "Investiga la entrada norte de Umbala."
 	},
 	[11490] = {
 		Title = "El Jakk y el gato del Jakk",
 		Description = {
 			"El investigador dice que le dijo a la cosita pequeña y blanca cómo llegar a Morroc. Vamos a investigar la entrada norte de Morroc que está cerca."
 		},
-		Summary = "Investigación en la entrada norte de Morroc."
+		Summary = "Investiga la entrada a Morocc."
 	},
 	[11491] = {
 		Title = "El Jakk y el gato del Jakk",
 		Description = {
 			"El Comerciante dice que le dijo a alguien cómo llegar a Alberta. Investiguemos la entrada norte de Alberta, que está cerca."
 		},
-		Summary = "Investigación en la entrada norte de Alberta."
+		Summary = "Investigación de la entrada de Alberta"
 	},
 	[11492] = {
 		Title = "El Jakk y el gato del Jakk",
 		Description = {
 			"Si vas cerca del puerto, encontrarás a muchos gatos que querrán quitarte el pescado. Investiguemos cerca del puerto."
 		},
-		Summary = "Investigación en el puerto de Alberta."
+		Summary = "Encuesta del Puerto de Alberta"
 	},
 	[11493] = {
 		Title = "El Jakk y el gato del Jakk",
 		Description = {
 			"Encontraste un gato blanco, pero no se parece al gatito del Jakk. El montón de arena que está detrás es sospechoso. Vamos a investigar."
 		},
-		Summary = "Investigación del montón de arena."
+		Summary = "Investigación del Montón de Arena."
 	},
 	[11494] = {
 		Title = "El Jakk y el gato del Jakk",
@@ -31494,7 +31797,7 @@ QuestInfoList = {
 		Title = "Jakk y los Jakks",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Atrapa a 10 Jakk Fugitivos en algún lugar del campo o la mazmorra y llévale a Hororong 10 Calabazas Decorativas que caen cuando lo atrapas y 20 Ramas Blancas Finas."
+			"Atrapa a 10x Jakk Fugitivo en algún lugar del campo o la mazmorra y llévale a Hororong 10x Decoración de Calabaza  y 20x Rama Blanca Fina."
 		},
 		Summary = "Jakk hacia Niflheim",
 		RewardItemList = {
@@ -31503,19 +31806,19 @@ QuestInfoList = {
 		}
 	},
 	[11502] = {
-		Title = "Jakk y los Jakks - En espera",
+		Title = "[Espera] Jakk y los Jakks",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Traje a Jakk a Niflheim. Según los fantasmas, Jakk dice que, si se queda mucho tiempo en la tierra de los vivos, el tallo crecerá, así que a descansar."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[11503] = {
 		Title = "Jakk y los Jakks",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Atrapa 10 Jakks Fugitivos en algún lugar del campo o mazmorra, y trae 10 Calabazas Decorativas que caen al atraparlo, y Ramas Blancas Finas a Hororing"
+			"Atrapa a 10x Jakk Fugitivo en algún lugar del campo o la mazmorra y llévale a Hororong 10x Decoración de Calabaza  y 20x Rama Blanca Fina."
 		},
 		Summary = "Jakk hacia Niflheim",
 		RewardItemList = {
@@ -31551,7 +31854,7 @@ QuestInfoList = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"No sé si es un gatito o no, pero se dice que un objeto blanco, pequeño y rápido pasó por la entrada hace poco. Pregúntale al tipo de la entrada."
+			"Una cosita pequeña y blanca pasó rápidamente por la entrada hace poco. No están seguros de si era un gato. Preguntemos al tipo afuera de la entrada."
 		},
 		Summary = "Habla con el Tembloroso Jakk."
 	},
@@ -31567,7 +31870,7 @@ QuestInfoList = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Parece que el gatito de Jakk atravesó el tallo de Yggdrasil hasta Midgard. Parece que estamos atravesando Umbala, así que investiguemos."
+			"Parece que el gatito del Jakk fue a Midgard a través del tallo de Yggdrasil. Probablemente pasó por Umbala. Vamos a investigar."
 		},
 		Summary = "Investiga la entrada norte de Umbala."
 	},
@@ -31575,7 +31878,7 @@ QuestInfoList = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Se dice que el investigador señaló el camino a Morocc, hacia algo pequeño y blanco. Investiga cerca de la entrada norte de Morocc."
+			"El investigador dice que le dijo a la cosita pequeña y blanca cómo llegar a Morroc. Vamos a investigar la entrada norte de Morroc que está cerca."
 		},
 		Summary = "Investiga la entrada a Morocc."
 	},
@@ -31583,7 +31886,7 @@ QuestInfoList = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Se dice que el comerciante mostró a alguien el camino a Alberta. Investiga la entrada norte de Alberta."
+			"El Comerciante dice que le dijo a alguien cómo llegar a Alberta. Investiguemos la entrada norte de Alberta, que está cerca."
 		},
 		Summary = "Investigación de la entrada de Alberta"
 	},
@@ -31591,7 +31894,7 @@ QuestInfoList = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Se dice que, si vas al puerto, hay muchos gatitos intentando pescar. Investiguemos la zona del puerto."
+			"Si vas cerca del puerto, encontrarás a muchos gatos que querrán quitarte el pescado. Investiguemos cerca del puerto."
 		},
 		Summary = "Encuesta del Puerto de Alberta"
 	},
@@ -31599,15 +31902,15 @@ QuestInfoList = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Encontré un gatito blanco, pero no parece ser el gatito de Jakk. El montón de arena que hay detrás es sospechoso, así que investiguemos."
+			"Encontraste un gato blanco, pero no se parece al gatito del Jakk. El montón de arena que está detrás es sospechoso. Vamos a investigar."
 		},
-		Summary = "Encuesta sobre montón de arena"
+		Summary = "Investigación del Montón de Arena."
 	},
 	[11514] = {
 		Title = "Jakk y el Gato de Jakk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"En un montón de arena, encontré un collar rojo con una cascabele y huesos que parecía pertenecer a un animal pequeño. Regresemos con el Jakk."
+			"En la arena encontraste huesos que parecen de un animal pequeño. También encontraste un collar rojo con un cascabel. Regresemos con el Jakk."
 		},
 		Summary = "Habla con el Jakk en Niflheim.",
 		RewardItemList = {
@@ -33502,14 +33805,14 @@ QuestInfoList = {
 	[12004] = {
 		Title = "El otro amigo de Maku",
 		Description = {
-			"Después de calmarse, Maku dice que su amigo Benkaistein siempre se aseguraba de no meterse en peleas. Quizá Digotz también conozca a este Benkaistein…"
+			"Después de calmarse, Maku dice que su amigo Benkaistein siempre se aseguraba de no meterse en peleas. Quizá Digotz también conozca a este Benkaistein..."
 		},
 		Summary = "Digotz."
 	},
 	[12005] = {
 		Title = "Benkaistein",
 		Description = {
-			"Digotz te dice que Benkaistein tiene una respuesta para la situación en la que él y Maku se encuentran. Está estudiando en un lugar con muchos libros…"
+			"Digotz te dice que Benkaistein tiene una respuesta para la situación en la que él y Maku se encuentran. Está estudiando en un lugar con muchos libros..."
 		},
 		Summary = "Encuentra el paradero de Benkaistein."
 	},
@@ -33537,7 +33840,7 @@ QuestInfoList = {
 	[12009] = {
 		Title = "Misión fallida",
 		Description = {
-			"Fracasaste en la misión que Kazien te dio porque revelaste demasiada información. Kazien puede darte otra oportunidad si lo intentas…"
+			"Fracasaste en la misión que Kazien te dio porque revelaste demasiada información. Kazien puede darte otra oportunidad si lo intentas..."
 		},
 		Summary = "Kazien."
 	},
@@ -33705,14 +34008,14 @@ QuestInfoList = {
 	[12033] = {
 		Title = "Rastros de sangre",
 		Description = {
-			"Encontraste rastros de sangre. Es posible que la persona que estuvo corriendo en esta dirección esté herida. El sendero conduce al norte… Annon debe estar cerca."
+			"Encontraste rastros de sangre. Es posible que la persona que estuvo corriendo en esta dirección esté herida. El sendero conduce al norte... Annon debe estar cerca."
 		},
 		Summary = ""
 	},
 	[12034] = {
 		Title = "La versión de Annon",
 		Description = {
-			"Encontraste un lugar extraño con más rastros de sangre. Annon tiene que estar por aquí… Cuando lo encuentres, pregúntale por qué huyó de Shuda."
+			"Encontraste un lugar extraño con más rastros de sangre. Annon tiene que estar por aquí... Cuando lo encuentres, pregúntale por qué huyó de Shuda."
 		},
 		Summary = ""
 	},
@@ -33768,7 +34071,7 @@ QuestInfoList = {
 	[12042] = {
 		Title = "El Diario de Benkaistein",
 		Description = {
-			"Entregaste el Diario de Benkaistein a Digotz y a Maku… Regresa con Digotz para saber cómo está y dile que Maku leyó el diario."
+			"Entregaste el Diario de Benkaistein a Digotz y a Maku... Regresa con Digotz para saber cómo está y dile que Maku leyó el diario."
 		},
 		Summary = "Digotz."
 	},
@@ -33789,9 +34092,9 @@ QuestInfoList = {
 	[12045] = {
 		Title = "Calmando al niño que llora 2",
 		Description = {
-			"Entrega el mensaje de la madre a Torpy: [Regresaré…]"
+			"Entrega el mensaje de la madre a Torpy: [Regresaré...]"
 		},
-		Summary = "Regresaré…"
+		Summary = "Regresaré..."
 	},
 	[12046] = {
 		Title = "Calmando al niño que llora 3",
@@ -34007,7 +34310,7 @@ QuestInfoList = {
 	[12082] = {
 		Title = "Cacería de Mariscos",
 		Description = {
-			"No preguntes por qué, solo caza 30 Mariscos, por favor. Es una misión secreta… Puedes encontrarlos en un campo al sur de Hugel o cerca del faro de Paros."
+			"No preguntes por qué, solo caza 30 Mariscos, por favor. Es una misión secreta... Puedes encontrarlos en un campo al sur de Hugel o cerca del faro de Paros."
 		},
 		Summary = "Caza 30 Mariscos."
 	},
@@ -34084,7 +34387,7 @@ QuestInfoList = {
 	[12094] = {
 		Title = "Cambio de clase a Guardia real",
 		Description = {
-			"La inscripción dice: “Eres tú quien tiene el poder sagrado… Encuentra mi recuerdo cerca de mi viejo castillo de Glastheim. Mis aposentos estaban al norte…”."
+			"La inscripción dice: “Eres tú quien tiene el poder sagrado... Encuentra mi recuerdo cerca de mi viejo castillo de Glastheim. Mis aposentos estaban al norte...”."
 		},
 		Summary = ""
 	},
@@ -34322,7 +34625,7 @@ QuestInfoList = {
 	[12134] = {
 		Title = "Contenedor instantáneo",
 		Description = {
-			"El dueño de la cantina tiene problemas debido a los muchos trotamundos extranjeros. Quisiera obtener un utensilio que se pueda usar fácil y rápidamente… Algo así como una hoja ancha."
+			"El dueño de la cantina tiene problemas debido a los muchos trotamundos extranjeros. Quisiera obtener un utensilio que se pueda usar fácil y rápidamente... Algo así como una hoja ancha."
 		},
 		Summary = "Recolecta 11 Hojas enormes. Preséntate con el administrador de suministros 2 en menos de 23 horas."
 	},
@@ -34357,7 +34660,7 @@ QuestInfoList = {
 	[12139] = {
 		Title = "¡Respeto por el gusto!",
 		Description = {
-			"El alto ministro está buscando el producto de Midgard, la Rosa eterna. No sé si sea un buen regalo, pero… Así que… Sé que no es una tarea sencilla, pero tráeme 1 Rosa eterna. Esto es solo entre tú y yo."
+			"El alto ministro está buscando el producto de Midgard, la Rosa eterna. No sé si sea un buen regalo, pero... Así que... Sé que no es una tarea sencilla, pero tráeme 1 Rosa eterna. Esto es solo entre tú y yo."
 		},
 		Summary = "Recolecta 1 Rosa eterna. Preséntate con el administrador de transporte 1 en menos de 23 horas."
 	},
@@ -34378,7 +34681,7 @@ QuestInfoList = {
 	[12142] = {
 		Title = "Solicitud peligrosa",
 		Description = {
-			"Mmm… No sé por dónde empezar. El alto ministro solicita marionetas de Midgard. No sé qué es, pero como el alto ministro lo pide, debe ser para un propósito muy importante. Trae 15 de ellos."
+			"Mmm... No sé por dónde empezar. El alto ministro solicita marionetas de Midgard. No sé qué es, pero como el alto ministro lo pide, debe ser para un propósito muy importante. Trae 15 de ellos."
 		},
 		Summary = "Recolecta 15 Marionetas. Preséntate con el administrador de transporte 1 en menos de 23 horas."
 	},
@@ -34399,7 +34702,7 @@ QuestInfoList = {
 	[12145] = {
 		Title = "Cocinas de otros mundos",
 		Description = {
-			"No cocinamos para nosotros, pero a muchos trotamundos parece gustarles el arte de comer. El dueño de la cantina necesita un plato para su nueva cocina. Pidió 20 Caparazones de cangrejo. No tengo ni idea dónde podemos conseguirlos, pero… buena suerte."
+			"No cocinamos para nosotros, pero a muchos trotamundos parece gustarles el arte de comer. El dueño de la cantina necesita un plato para su nueva cocina. Pidió 20 Caparazones de cangrejo. No tengo ni idea dónde podemos conseguirlos, pero... buena suerte."
 		},
 		Summary = "Recolecta 20 Caparazones de cangrejo. Preséntate con el administrador de transporte 1 en menos de 23 horas."
 	},
@@ -34434,7 +34737,7 @@ QuestInfoList = {
 	[12150] = {
 		Title = "Un vegetal muy naranja",
 		Description = {
-			"Esta una solicitud del dueño de la cantina. Quiere algunos vegetales para preparar un plato colorido. Bueno… Zanahoria, ¿verdad? Creo que así se llaman en tu tierra. Estaba hablando conmigo misma. Trae 100 de ellas."
+			"Esta una solicitud del dueño de la cantina. Quiere algunos vegetales para preparar un plato colorido. Bueno... Zanahoria, ¿verdad? Creo que así se llaman en tu tierra. Estaba hablando conmigo misma. Trae 100 de ellas."
 		},
 		Summary = "Recolecta 100 Zanahorias. Preséntate con el administrador de transporte 2 en menos de 23 horas."
 	},
@@ -34448,28 +34751,28 @@ QuestInfoList = {
 	[12152] = {
 		Title = "Sabe a comida casera",
 		Description = {
-			"El dueño de la cantina tiene otra solicitud… Extraña las papas que solía comer cuando era joven. Quiere 50 Batatas dulces. Si por casualidad vas a Midgard, intenta conseguirlas."
+			"El dueño de la cantina tiene otra solicitud... Extraña las papas que solía comer cuando era joven. Quiere 50 Batatas dulces. Si por casualidad vas a Midgard, intenta conseguirlas."
 		},
 		Summary = "Recolecta 50 Batatas dulces. Preséntate con el administrador de transporte 2 en menos de 23 horas."
 	},
 	[12153] = {
 		Title = "Planta peligrosa cuando se quema",
 		Description = {
-			"El dueño de la cantina quiere cocinar algo extraño. Dijo que será Banana asada, pero creo que ya cocinado algo parecido… Bueno, no puedo recordar mucho. En fin… necesitas conseguir 100 Bananas."
+			"El dueño de la cantina quiere cocinar algo extraño. Dijo que será Banana asada, pero creo que ya cocinado algo parecido... Bueno, no puedo recordar mucho. En fin... necesitas conseguir 100 Bananas."
 		},
 		Summary = "Recolecta 100 Bananas. Preséntate con el administrador de transporte 2 en menos de 23 horas."
 	},
 	[12154] = {
 		Title = "Inesperadamente normal",
 		Description = {
-			"Esta solicitud es… del dueño de la cantina. Quiere algo de Carne. La instrucción de su solicitud no incluye nada más. Con 50 trozos será suficiente. Me pregunto si realmente está dirigiendo su negocio…"
+			"Esta solicitud es... del dueño de la cantina. Quiere algo de Carne. La instrucción de su solicitud no incluye nada más. Con 50 trozos será suficiente. Me pregunto si realmente está dirigiendo su negocio..."
 		},
 		Summary = "Recolecta 50 unidades de Carne. Preséntate con el administrador de transporte 2 en menos de 23 horas."
 	},
 	[12155] = {
 		Title = "Regalo con corazón",
 		Description = {
-			"Hace unos días, vi al dueño de la cantina frustrado con todos los Cucharones rotos… Me sentí mal por, así que quiero que le consigas 20 Cucharones negros que puedes comprar en Midgard."
+			"Hace unos días, vi al dueño de la cantina frustrado con todos los Cucharones rotos... Me sentí mal por, así que quiero que le consigas 20 Cucharones negros que puedes comprar en Midgard."
 		},
 		Summary = "Recolecta 20 Cucharones negros. Preséntate con el administrador de transporte 2 en menos de 23 horas."
 	},
@@ -34964,9 +35267,9 @@ QuestInfoList = {
 		Summary = "Caza 4 monstruos Angra mantis."
 	},
 	[12227] = {
-		Title = "Pequeño pero feroz…",
+		Title = "Pequeño pero feroz...",
 		Description = {
-			"No parecían tan feroces… pero el trotamundos me pidió que acabe con ellos, así que tendrás que hacerlo tú."
+			"No parecían tan feroces... pero el trotamundos me pidió que acabe con ellos, así que tendrás que hacerlo tú."
 		},
 		Summary = "Caza 5 monstruos Parus."
 	},
@@ -34994,7 +35297,7 @@ QuestInfoList = {
 	[12231] = {
 		Title = "Material para el conservante",
 		Description = {
-			"*Sonríe* Nada menos que… ¡Antenas de insecto! El coleccionista de artículos generales me pidió que consiguiera cuatro. Yo personalmente no me lo comería por nada del mundo…"
+			"*Sonríe* Nada menos que... ¡Antenas de insecto! El coleccionista de artículos generales me pidió que consiguiera cuatro. Yo personalmente no me lo comería por nada del mundo..."
 		},
 		Summary = "Recolecta 4 Antenas de insecto."
 	},
@@ -35020,7 +35323,7 @@ QuestInfoList = {
 		Summary = "Consigue 3 Cupones de orco."
 	},
 	[12235] = {
-		Title = "Es bueno para la Resistencia…",
+		Title = "Es bueno para la Resistencia...",
 		Description = {
 			"El coleccionista de artículos generales me pidió tres Huesos de esqueleto, que se usarán para hacer tónicos."
 		},
@@ -35048,7 +35351,7 @@ QuestInfoList = {
 		Summary = "Recolecta 3 Corazas escamosas."
 	},
 	[12239] = {
-		Title = "Veneno por veneno…",
+		Title = "Veneno por veneno...",
 		Description = {
 			"El coleccionista de mercancías de enfrente me pidió dos Colmillos venenosos que se usarán en la investigación de la sustancia."
 		},
@@ -35312,7 +35615,7 @@ QuestInfoList = {
 		Description = {""}
 	},
 	[12278] = {
-		Title = "Hacia el lago Bakonawa…",
+		Title = "Hacia el lago Bakonawa...",
 		Description = {
 			"Entraste al lago para detener a Bakonawa. No creo que necesite regresar al lago hasta dentro de una semana."
 		},
@@ -35412,7 +35715,7 @@ QuestInfoList = {
 	[12292] = {
 		Title = "Los desconocidos",
 		Description = {
-			"Los responsables de construir el Árbol del hogar y de restaurar la tierra de Bifrost no son de la Asamblea de Ancianos, sino dos donas desconocidos. Pregúntale a Clever sobre los dos donas llamados Etran y Robert."
+			"Los responsables de construir el Árbol del hogar y de restaurar la tierra de Bifröst no son de la Asamblea de Ancianos, sino dos donas desconocidos. Pregúntale a Clever sobre los dos donas llamados Etran y Robert."
 		},
 		Summary = "Los desconocidos."
 	},
@@ -35468,7 +35771,7 @@ QuestInfoList = {
 	[12300] = {
 		Title = "Nueva visita a Etran",
 		Description = {
-			"Muestra la hoja del Árbol del hogar y anima a Etran. Si bien la negativa de Robert a recibir el collar fue de suma importancia…"
+			"Muestra la hoja del Árbol del hogar y anima a Etran. Si bien la negativa de Robert a recibir el collar fue de suma importancia..."
 		},
 		Summary = "Nueva visita a Etran."
 	},
@@ -35503,7 +35806,7 @@ QuestInfoList = {
 	[12305] = {
 		Title = "Sobre la cifra de capacidad",
 		Description = {
-			"Los comerciantes también tienen el estado del elemento principal. Simplemente, estudia la cifra de capacidad de cada estado. Por supuesto, depende de ti…"
+			"Los comerciantes también tienen el estado del elemento principal. Simplemente, estudia la cifra de capacidad de cada estado. Por supuesto, depende de ti..."
 		},
 		Summary = "Nadie te está obligando."
 	},
@@ -36700,7 +37003,7 @@ QuestInfoList = {
 	[12493] = {
 		Title = "Secuelas del desafío",
 		Description = {
-			"Estas secuelas van acompañadas de una profunda sensación de impotencia. Una vez que hayas entrado, no podrás volver a desafiar Modo Desafío de Glast Heim antes de que hayan pasado 3 días."
+			"Estas secuelas van acompañadas de una profunda sensación de impotencia. Una vez que hayas entrado, no podrás volver a desafiar Modo Desafío de Glastheim antes de que hayan pasado 3 días."
 		},
 		Summary = "Reinicio a las 04:00 dentro de 3 días"
 	},
@@ -36988,6 +37291,142 @@ QuestInfoList = {
 		Description = {""},
 		Summary = ""
 	},
+	[12544] = {
+		Title = "Consulta un contrato con el Agente Gyaruk",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Encuentra al Agente Gyaruk y firma un contrato con el Gremio de Mercaderes Mano de Gato.",
+			"<NAVI>[Campamento de la Alianza de Midgard]<INFO>mid_camp,70,95,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Encuentra a Gyaruk"
+	},
+	[12545] = {
+		Title = "Visita al Agente Mano de Gato",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Encuentra al <NAVI>[Agente Mano de Gato]<INFO>mid_camp,61,122,0,101,0</INFO></NAVI> en el Campamento de la Alianza de Midgard y luego vuelve con <NAVI>[Gyaruk Esponjoso]<INFO>mid_camp,70,95,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Visita al Agente Mano de Gato y regresa"
+	},
+	[12546] = {
+		Title = "Encuentro con Gorureung",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Encuentra a <NAVI>[Gorureung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> en el Campamento de la Alianza de Midgard para mejorar tu relaciÃ³n con el Gremio de Mercaderes Mano de Gato."
+		},
+		Summary = "Encuentra a Gorureung"
+	},
+	[12547] = {
+		Title = "El lugar de pesca de Gorureung",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Pesca 10 <NAVI>[Gorureung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> y llÃ©valos a <ITEM>[Trozos de Pescado]<INFO>6039</INFO></ITEM> en el Campamento de la Alianza de Midgard.",
+			"<NAVI>[Punto 1]<INFO>mid_camp,71,129,0,101,0</INFO></NAVI><NAVI>[Punto 2]<INFO>spl_fild02,321,166,0,101,0</INFO></NAVI><NAVI>[Punto 3]<INFO>spl_fild02,326,168,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 4]<INFO>spl_fild02,314,162,0,101,0</INFO></NAVI><NAVI>[Punto 5]<INFO>spl_fild03,226,151,0,101,0</INFO></NAVI><NAVI>[Punto 6]<INFO>spl_fild03,268,230,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 7]<INFO>spl_fild03,293,253,0,101,0</INFO></NAVI><NAVI>[Punto 8]<INFO>spl_fild03,165,100,0,101,0</INFO></NAVI><NAVI>[Punto 9]<INFO>spl_fild03,317,190,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 10]<INFO>spl_fild01,41,118,0,101,0</INFO></NAVI><NAVI>[Punto 11]<INFO>spl_fild01,317,361,0,101,0</INFO></NAVI><NAVI>[Punto 12]<INFO>spl_fild01,55,269,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 13]<INFO>spl_fild01,332,131,0,101,0</INFO></NAVI><NAVI>[Punto 14]<INFO>spl_fild01,170,74,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Pesca en los lugares de pesca"
+	},
+	[12548] = {
+		Title = "Ayuda al Agente de MinerÃ­a",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Extrae 3 <NAVI>[Agente de MinerÃ­a Mano de Gato]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> y llÃ©valos al <ITEM>[Mineral No Identificado]<INFO>6048</INFO></ITEM> en el Campamento de la Alianza de Midgard.",
+			"<NAVI>[Punto 1]<INFO>man_fild01,178,170,0,101,0</INFO></NAVI><NAVI>[Punto 2]<INFO>man_fild01,147,160,0,101,0</INFO></NAVI><NAVI>[Punto 3]<INFO>man_fild01,112,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 4]<INFO>man_fild01,92,159,0,101,0</INFO></NAVI><NAVI>[Punto 5]<INFO>man_fild01,170,315,0,101,0</INFO></NAVI><NAVI>[Punto 6]<INFO>man_fild01,146,267,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 7]<INFO>man_fild01,118,236,0,101,0</INFO></NAVI><NAVI>[Punto 8]<INFO>man_fild01,70,243,0,101,0</INFO></NAVI><NAVI>[Punto 9]<INFO>man_fild01,64,194,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 10]<INFO>man_fild03,82,133,0,101,0</INFO></NAVI><NAVI>[Punto 11]<INFO>man_fild03,67,159,0,101,0</INFO></NAVI><NAVI>[Punto 12]<INFO>man_fild03,66,169,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 13]<INFO>man_fild03,81,196,0,101,0</INFO></NAVI><NAVI>[Punto 14]<INFO>man_fild03,82,214,0,101,0</INFO></NAVI><NAVI>[Punto 15]<INFO>man_fild03,98,224,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 16]<INFO>man_fild03,104,246,0,101,0</INFO></NAVI><NAVI>[Punto 17]<INFO>man_fild03,91,270,0,101,0</INFO></NAVI><NAVI>[Punto 18]<INFO>man_fild03,95,300,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 19]<INFO>man_fild02,143,78,0,101,0</INFO></NAVI><NAVI>[Punto 20]<INFO>man_fild02,144,148,0,101,0</INFO></NAVI><NAVI>[Punto 21]<INFO>man_fild02,85,262,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 22]<INFO>man_fild02,146,365,0,101,0</INFO></NAVI><NAVI>[Punto 23]<INFO>man_fild02,336,305,0,101,0</INFO></NAVI><NAVI>[Punto 24]<INFO>man_fild02,252,124,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 25]<INFO>man_fild02,285,115,0,101,0</INFO></NAVI><NAVI>[Punto 26]<INFO>man_fild02,346,116,0,101,0</INFO></NAVI><NAVI>[Punto 27]<INFO>man_fild02,358,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 28]<INFO>man_fild02,241,227,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Extrae mineral en los puntos de minerÃ­a"
+	},
+	[12549] = {
+		Title = "El lugar de pesca de Gorureung",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Pesca 10 <NAVI>[Gorureung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> y llÃ©valos a <ITEM>[Trozos de Pescado]<INFO>6039</INFO></ITEM> en el Campamento de la Alianza de Midgard.",
+			"<NAVI>[Punto 1]<INFO>mid_camp,71,129,0,101,0</INFO></NAVI><NAVI>[Punto 2]<INFO>spl_fild02,321,166,0,101,0</INFO></NAVI><NAVI>[Punto 3]<INFO>spl_fild02,326,168,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 4]<INFO>spl_fild02,314,162,0,101,0</INFO></NAVI><NAVI>[Punto 5]<INFO>spl_fild03,226,151,0,101,0</INFO></NAVI><NAVI>[Punto 6]<INFO>spl_fild03,268,230,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 7]<INFO>spl_fild03,293,253,0,101,0</INFO></NAVI><NAVI>[Punto 8]<INFO>spl_fild03,165,100,0,101,0</INFO></NAVI><NAVI>[Punto 9]<INFO>spl_fild03,317,190,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 10]<INFO>spl_fild01,41,118,0,101,0</INFO></NAVI><NAVI>[Punto 11]<INFO>spl_fild01,317,361,0,101,0</INFO></NAVI><NAVI>[Punto 12]<INFO>spl_fild01,55,269,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 13]<INFO>spl_fild01,332,131,0,101,0</INFO></NAVI><NAVI>[Punto 14]<INFO>spl_fild01,170,74,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Pesca en los lugares de pesca"
+	},
+	[12550] = {
+		Title = "Ayuda al Agente de MinerÃ­a",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Extrae 3 <NAVI>[Agente de MinerÃ­a Mano de Gato]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> y llÃ©valos al <ITEM>[Mineral No Identificado]<INFO>6048</INFO></ITEM> en el Campamento de la Alianza de Midgard.",
+			"<NAVI>[Punto 1]<INFO>man_fild01,178,170,0,101,0</INFO></NAVI><NAVI>[Punto 2]<INFO>man_fild01,147,160,0,101,0</INFO></NAVI><NAVI>[Punto 3]<INFO>man_fild01,112,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 4]<INFO>man_fild01,92,159,0,101,0</INFO></NAVI><NAVI>[Punto 5]<INFO>man_fild01,170,315,0,101,0</INFO></NAVI><NAVI>[Punto 6]<INFO>man_fild01,146,267,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 7]<INFO>man_fild01,118,236,0,101,0</INFO></NAVI><NAVI>[Punto 8]<INFO>man_fild01,70,243,0,101,0</INFO></NAVI><NAVI>[Punto 9]<INFO>man_fild01,64,194,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 10]<INFO>man_fild03,82,133,0,101,0</INFO></NAVI><NAVI>[Punto 11]<INFO>man_fild03,67,159,0,101,0</INFO></NAVI><NAVI>[Punto 12]<INFO>man_fild03,66,169,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 13]<INFO>man_fild03,81,196,0,101,0</INFO></NAVI><NAVI>[Punto 14]<INFO>man_fild03,82,214,0,101,0</INFO></NAVI><NAVI>[Punto 15]<INFO>man_fild03,98,224,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 16]<INFO>man_fild03,104,246,0,101,0</INFO></NAVI><NAVI>[Punto 17]<INFO>man_fild03,91,270,0,101,0</INFO></NAVI><NAVI>[Punto 18]<INFO>man_fild03,95,300,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 19]<INFO>man_fild02,143,78,0,101,0</INFO></NAVI><NAVI>[Punto 20]<INFO>man_fild02,144,148,0,101,0</INFO></NAVI><NAVI>[Punto 21]<INFO>man_fild02,85,262,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 22]<INFO>man_fild02,146,365,0,101,0</INFO></NAVI><NAVI>[Punto 23]<INFO>man_fild02,336,305,0,101,0</INFO></NAVI><NAVI>[Punto 24]<INFO>man_fild02,252,124,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 25]<INFO>man_fild02,285,115,0,101,0</INFO></NAVI><NAVI>[Punto 26]<INFO>man_fild02,346,116,0,101,0</INFO></NAVI><NAVI>[Punto 27]<INFO>man_fild02,358,174,0,101,0</INFO></NAVI>",
+			"<NAVI>[Punto 28]<INFO>man_fild02,241,227,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Extrae mineral en los puntos de minerÃ­a"
+	},
+	[12551] = {
+		Title = "Encuentra al agente en el campamento provisional",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Encuentra al Agente Mano de Gato en el campamento provisional y firma un contrato con el gremio de mercaderes.",
+			"Destino: <NAVI>[Campamento de la Alianza de Midgard]<INFO>mid_camp,62,123,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Encuentra al Agente Mano de Gato"
+	},
+	[12552] = {
+		Title = "Primer encuentro con Kokkirin",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Completaste tu primera conversaciÃ³n con Kokkirin."
+		},
+		Summary = "Encuentra a Kokkirin"
+	},
+	[12553] = {
+		Title = "Primer encuentro con Hatcha",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Completaste tu primera conversaciÃ³n con Hatcha."
+		},
+		Summary = "Encuentra a Hatcha"
+	},
+	[12554] = {
+		Title = "Primer encuentro con Meong-Mung",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Completaste tu primera conversaciÃ³n con Meong-Mung."
+		},
+		Summary = "Encuentra a Meong-Mung"
+	},
+	[12555] = {
+		Title = "Primer encuentro con Keong-Eureung",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Completaste tu primera conversaciÃ³n con Keong-Eureung."
+		},
+		Summary = "Encuentra a Keong-Eureung"
+	},
+	[12556] = {
+		Title = "Primer encuentro con el GuÃ­a de las Almas",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Completaste tu primera conversaciÃ³n con el GuÃ­a de las Almas."
+		},
+		Summary = "Encuentra al GuÃ­a de las Almas"
+	},
 	[13000] = {
 		Title = "Recolección de cartas del CMR 2011",
 		Description = {
@@ -37096,7 +37535,7 @@ QuestInfoList = {
 	[13015] = {
 		Title = "Solicitud sobre monstruos Luciola Vespa",
 		Description = {
-			"Uno de esos monstruos que parecen abejas pico a Rohtert, así que solicitó que los exterminen…"
+			"Uno de esos monstruos que parecen abejas pico a Rohtert, así que solicitó que los exterminen..."
 		},
 		Summary = "Caza 30 monstruos Luciola Vespa y regresa con Gelkah."
 	},
@@ -37246,7 +37685,7 @@ QuestInfoList = {
 	[13042] = {
 		Title = "Solicitud sobre monstruos Medusa",
 		Description = {
-			"Esta es una solicitud de un diseñador de cabello en Alberta. Quiere saber si las serpientes de la cabeza de la Medusa son serpientes reales o es un peinado sofisticado…"
+			"Esta es una solicitud de un diseñador de cabello en Alberta. Quiere saber si las serpientes de la cabeza de la Medusa son serpientes reales o es un peinado sofisticado..."
 		},
 		Summary = "Caza 30 monstruos Medusa y regresa con Gelkah."
 	},
@@ -37400,7 +37839,7 @@ QuestInfoList = {
 	[13064] = {
 		Title = "Desempolvado (completada)",
 		Description = {
-			"A partir de ahora, Nuevo Oz ya podrá salir por sí solo. Aunque… las cosas podrían cambiar en el futuro."
+			"A partir de ahora, Nuevo Oz ya podrá salir por sí solo. Aunque... las cosas podrían cambiar en el futuro."
 		},
 		Summary = ""
 	},
@@ -37755,28 +38194,28 @@ QuestInfoList = {
 	[13115] = {
 		Title = "Búsqueda en la Torre de Thanatos (en espera)",
 		Description = {
-			"No son los rastros que Aigu está buscando… Volvamos a buscar más tarde."
+			"No son los rastros que Aigu está buscando... Volvamos a buscar más tarde."
 		},
 		Summary = ""
 	},
 	[13116] = {
 		Title = "Búsqueda en la tierra sagrada de Rachel (en espera)",
 		Description = {
-			"No son los rastros que Aigu está buscando… Volvamos a buscar más tarde."
+			"No son los rastros que Aigu está buscando... Volvamos a buscar más tarde."
 		},
 		Summary = ""
 	},
 	[13117] = {
 		Title = "Búsqueda en la isla anónima (en espera)",
 		Description = {
-			"No son los rastros que Aigu está buscando… Volvamos a buscar más tarde."
+			"No son los rastros que Aigu está buscando... Volvamos a buscar más tarde."
 		},
 		Summary = ""
 	},
 	[13118] = {
 		Title = "Búsqueda en el Lago del abismo (en espera)",
 		Description = {
-			"No son los rastros que Aigu está buscando… Volvamos a buscar más tarde."
+			"No son los rastros que Aigu está buscando... Volvamos a buscar más tarde."
 		},
 		Summary = ""
 	},
@@ -38183,7 +38622,7 @@ QuestInfoList = {
 	[13190] = {
 		Title = "Tesoro encontrado",
 		Description = {
-			"Oh, vaya… parece que el tesoro está bajo vigilancia. Si tan solo hubiera un trotamundos cerca."
+			"Oh, vaya... parece que el tesoro está bajo vigilancia. Si tan solo hubiera un trotamundos cerca."
 		},
 		Summary = ""
 	},
@@ -39674,14 +40113,14 @@ QuestInfoList = {
 	[14388] = {
 		Title = "Florista legendario",
 		Description = {
-			"Ah… Oí que hay un florista legendario en la zona de Morroc… ¿Puedes ir a verlo? No respondió ninguno de mis mensajes."
+			"Ah... Oí que hay un florista legendario en la zona de Morroc... ¿Puedes ir a verlo? No respondió ninguno de mis mensajes."
 		},
 		Summary = "Encuentra al florista legendario."
 	},
 	[14389] = {
 		Title = "¡¿No hay agua?!",
 		Description = {
-			"Bueno… esto es extraño, no sale agua. Eso es crucial para poder regar mis flores. ¿Puedes reunirte con el administrador de las instalaciones de agua en Morroc? Y el fertilizante todavía no llega. Por favor, ve a Payon ahora."
+			"Bueno... esto es extraño, no sale agua. Eso es crucial para poder regar mis flores. ¿Puedes reunirte con el administrador de las instalaciones de agua en Morroc? Y el fertilizante todavía no llega. Por favor, ve a Payon ahora."
 		},
 		Summary = ""
 	},
@@ -40055,7 +40494,7 @@ QuestInfoList = {
 		Title = "Una disculpa en forma de limpieza",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Quién más estaba ahí? No lo sé… Quizá lo recuerde si <NAVI>[este lugar]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> vuelve a estar limpio. ¿Lo limpiarías por mí? ¡Gracias! Primero tienes que limpiar el moho de la pared, sacar la grasa y limpiar el piso."
+			"¿Quién más estaba ahí? No lo sé... Quizá lo recuerde si <NAVI>[este lugar]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> vuelve a estar limpio. ¿Lo limpiarías por mí? ¡Gracias! Primero tienes que limpiar el moho de la pared, sacar la grasa y limpiar el piso."
 		},
 		Summary = "Empecemos a limpiar."
 	},
@@ -40103,7 +40542,7 @@ QuestInfoList = {
 		Title = "No lo soporto",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Oh, fui una buena persona toda mi vida, ¿y esto es lo que me toca? <NAVI>[Yo]<INFO>prontera,68,68,0,101,0</INFO></NAVI> ya no tengo más fuerzas para seguir viviendo… Sin embargo, 3 Medallones de Ternera podrían levantarme el ánimo."
+			"Oh, fui una buena persona toda mi vida, ¿y esto es lo que me toca? <NAVI>[Yo]<INFO>prontera,68,68,0,101,0</INFO></NAVI> ya no tengo más fuerzas para seguir viviendo... Sin embargo, 3 Medallones de Ternera podrían levantarme el ánimo."
 		},
 		Summary = "Comida para el alma."
 	},
@@ -40147,7 +40586,7 @@ QuestInfoList = {
 	[14491] = {
 		Title = "Tengo que rechazarlo otra vez",
 		Description = {
-			"Lo siento… Pero en realidad soy… Díselo al príncipe <NAVI>[Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI> sin herir sus sentimientos."
+			"Lo siento... Pero en realidad soy... Díselo al príncipe <NAVI>[Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI> sin herir sus sentimientos."
 		},
 		Summary = "Con Jurgen."
 	},
@@ -40452,7 +40891,7 @@ QuestInfoList = {
 	[14542] = {
 		Title = "¿Cómo está el Dragón?",
 		Description = {
-			"Hoy me encontré con un enemigo grande y aterrador. Todavía no veo a Tartufi… ¿Tartufi está bien? Averígualo por favor…"
+			"Hoy me encontré con un enemigo grande y aterrador. Todavía no veo a Tartufi... ¿Tartufi está bien? Averígualo por favor..."
 		},
 		Summary = "Comprueba la salud del Dragón."
 	},
@@ -40508,7 +40947,7 @@ QuestInfoList = {
 	[14550] = {
 		Title = "¿Cómo está el Dragón?",
 		Description = {
-			"Hoy encontré un gran enemigo aterrador y todavía no puedo encontrar a Tartufi… ¿Tartufi está bien? Averígualo por favor…"
+			"Hoy encontré un gran enemigo aterrador y todavía no puedo encontrar a Tartufi... ¿Tartufi está bien? Averígualo por favor..."
 		},
 		Summary = "Comprueba la salud del Dragón."
 	},
@@ -40661,7 +41100,7 @@ QuestInfoList = {
 		Summary = "Barco de pesca de anchoas"
 	},
 	[14572] = {
-		Title = "Caso perdido…",
+		Title = "Caso perdido...",
 		Description = {
 			"Estoy cansado de andar con este par, que no pueden ni quieren hacer nada. Debo volver con el Sr. Legalas sin ninguna alternativa."
 		},
@@ -41243,28 +41682,28 @@ QuestInfoList = {
 	[14684] = {
 		Title = "Dispositivo misterioso",
 		Description = {
-			"Proto… de emergencia… inici… ejecut… Opera… RT… 017 a… usuar… El… Enfri… amiento… 1 hora…"
+			"Proto... de emergencia... inici... ejecut... Opera... RT... 017 a... usuar... El... Enfri... amiento... 1 hora..."
 		},
 		Summary = "El enfriamiento."
 	},
 	[14685] = {
 		Title = "Dispositivo misterioso",
 		Description = {
-			"Proto… de emergencia… inici… ejecut… Opera… RT… 017 a… usuar… El… Enfri… amiento… 1 hora…"
+			"Proto... de emergencia... inici... ejecut... Opera... RT... 017 a... usuar... El... Enfri... amiento... 1 hora..."
 		},
 		Summary = "El enfriamiento."
 	},
 	[14686] = {
 		Title = "Dispositivo misterioso",
 		Description = {
-			"Proto… de emergencia… inici… ejecut… Opera… RT… 017 a… usuar… El… Enfri… amiento… 1 hora…"
+			"Proto... de emergencia... inici... ejecut... Opera... RT... 017 a... usuar... El... Enfri... amiento... 1 hora..."
 		},
 		Summary = "El enfriamiento."
 	},
 	[14687] = {
 		Title = "Dispositivo misterioso",
 		Description = {
-			"Proto… de emergencia… inici… ejecut… Opera… RT… 017 a… usuar… El… Enfri… amiento… 1 hora…"
+			"Proto... de emergencia... inici... ejecut... Opera... RT... 017 a... usuar... El... Enfri... amiento... 1 hora..."
 		},
 		Summary = "El enfriamiento."
 	},
@@ -41617,7 +42056,7 @@ QuestInfoList = {
 	[14961] = {
 		Title = "Postre de sandía",
 		Description = {
-			"Me recuerda a un postre fresco y dulce en un caluroso día de verano… <NAVI>[Ayudante Rami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> te guiará a través del evento donde podrás conseguir pudin de sandía."
+			"Me recuerda a un postre fresco y dulce en un caluroso día de verano... <NAVI>[Ayudante Rami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> te guiará a través del evento donde podrás conseguir pudin de sandía."
 		},
 		Summary = "Ayudante Lami"
 	},
@@ -41734,7 +42173,7 @@ QuestInfoList = {
 		Summary = "Habla con el entrenador Argos después de 20 segundos."
 	},
 	[15002] = {
-		Title = "Mazmorra del Recuerdo: El recuerdo de Sara",
+		Title = "Recuerdos de Sarah",
 		Description = {
 			"Espera que termine el tiempo de espera antes de volver a entrar a esta instancia."
 		},
@@ -41743,7 +42182,7 @@ QuestInfoList = {
 	[15003] = {
 		Title = "El trotamundos Leon",
 		Description = {
-			"Mazmorra del Recuerdo: Habla con el trotamundos Leon una vez que hayas visto el recuerdo de Sara."
+			"Mazmorra del Recuerdo: Habla con el trotamundos Leon una vez que hayas visto el recuerdo de Sarah."
 		},
 		Summary = ""
 	},
@@ -42697,14 +43136,14 @@ QuestInfoList = {
 	[16073] = {
 		Title = "El alma de Agrboda",
 		Description = {
-			"Recuperaste todas las piezas de Alma de Agrboda. Oyes una voz que te habla directamente: “Estoy… dejando mi alma contigo. Ayúdame a llegar hasta la Reina de los muertos…”."
+			"Recuperaste todas las piezas de Alma de Agrboda. Oyes una voz que te habla directamente: “Estoy... dejando mi alma contigo. Ayúdame a llegar hasta la Reina de los muertos...”."
 		},
 		Summary = ""
 	},
 	[16074] = {
 		Title = "Símbolo de los Nueve reinos",
 		Description = {
-			"La Dama del infierno te recompensó con el símbolo de los Nueve reinos. A quién debo decírselo primero…"
+			"La Dama del infierno te recompensó con el símbolo de los Nueve reinos. A quién debo decírselo primero..."
 		},
 		Summary = ""
 	},
@@ -42996,7 +43435,7 @@ QuestInfoList = {
 	[16120] = {
 		Title = "¿Un sueño?",
 		Description = {
-			"Tu mente ha sido arrastrada a alguna parte… Investiga los tubos de ensayo."
+			"Tu mente ha sido arrastrada a alguna parte... Investiga los tubos de ensayo."
 		},
 		Summary = ""
 	},
@@ -43113,7 +43552,7 @@ QuestInfoList = {
 		Summary = "Visita Glastheim."
 	},
 	[16137] = {
-		Title = "Orejas… ¡Las odio!",
+		Title = "Orejas... ¡Las odio!",
 		Description = {
 			"Sigamos a Leno hasta el próximo <NAVI>[Dónde investigar]<INFO>glast_01, 145, 51, 0, 101, 1</INFO></NAVI> en Glastheim."
 		},
@@ -43419,14 +43858,14 @@ QuestInfoList = {
 	[16204] = {
 		Title = "La grieta en el muro",
 		Description = {
-			"Limberg te pidió que regreses a la carretera Nogg y averigües qué hay en la grieta en el muro que el topógrafo mencionó en su informe técnico. Solo tienes que saltar y ver lo que hay al otro lado…"
+			"Limberg te pidió que regreses a la carretera Nogg y averigües qué hay en la grieta en el muro que el topógrafo mencionó en su informe técnico. Solo tienes que saltar y ver lo que hay al otro lado..."
 		},
 		Summary = ""
 	},
 	[16205] = {
 		Title = "Chimenea vacía del volcán",
 		Description = {
-			"Saltaste a la chimenea vacía del volcán y te llevó al Volcán de Thor… Comunica tus hallazgos al jefe del estudio Limberg."
+			"Saltaste a la chimenea vacía del volcán y te llevó al Volcán de Thor... Comunica tus hallazgos al jefe del estudio Limberg."
 		},
 		Summary = ""
 	},
@@ -45664,6 +46103,126 @@ QuestInfoList = {
 		NpcPosX = 181,
 		NpcPosY = 51
 	},
+	[16586] = {
+		Title = "Camino de la Misión Misionera",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Has recibido la misión de difundir la palabra de Odín por todo el continente. Cuando completes la misión, informa a <NAVI>[Misionera Rosetta]<INFO>prontera,226,329,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con Rosetta tras completar la misión"
+	},
+	[16587] = {
+		Title = "Misión Misionera en Umbala",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> ha venido a Umbala para difundir la palabra de Odín. Escucha qué dificultades está teniendo Tite."
+		},
+		Summary = "Habla con Tite tras completar la misión"
+	},
+	[16588] = {
+		Title = "Misión Misionera en Einbroch",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"<NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> ha venido a Einbroch para difundir la palabra de Odín. Escucha qué dificultades está teniendo Suan."
+		},
+		Summary = "Habla con Suan tras completar la misión"
+	},
+	[16589] = {
+		Title = "Fiesta de los Muertos, guía para los vivos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Busca a <NAVI>[Johan]<INFO>nif_dun01,101,246,0,101,0</INFO></NAVI>, que fue atraído al Salón de los Muertos por el Banquete de los Muertos, y tráelo de vuelta."
+		},
+		Summary = "Hablar con Johan"
+	},
+	[16590] = {
+		Title = "Fiesta de los Muertos, guía para los vivos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Busca a <NAVI>[María]<INFO>nif_dun01,213,148,0,101,0</INFO></NAVI>, que fue atraída al Salón de los Muertos por el Banquete de los Muertos, y tráela de vuelta."
+		},
+		Summary = "Hablar con María"
+	},
+	[16591] = {
+		Title = "Fiesta de los Muertos, guía para los vivos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Busca a <NAVI>[Azulia]<INFO>nif_dun01,160,183,0,101,0</INFO></NAVI>, que fue atraída al Salón de los Muertos por el Banquete de los Muertos, y tráela de vuelta."
+		},
+		Summary = "Hablar con Azulia"
+	},
+	[16592] = {
+		Title = "Fiesta de los Muertos, la noche del festival llega a su fin",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Para evitar que más vivos se sientan atraídos por el Banquete de los Muertos, expulsa a 100 de los muertos que deambulan por el <NAVI>[Salón de los Muertos]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[16593] = {
+		Title = "El Escondite de los Traviesos, la Inquietud de los Adultos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Busca a la traviesa <NAVI>[Ras]<INFO>ein_dun03,148,221,0,101,0</INFO></NAVI>, que se escondió en la Mazmorra de la Mina de Einbech, piso 3, y mándala de vuelta a casa."
+		},
+		Summary = "Hablar con Ras"
+	},
+	[16594] = {
+		Title = "El Escondite de los Traviesos, la Inquietud de los Adultos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Busca al travieso <NAVI>[Minassi]<INFO>ein_dun03,38,152,0,101,0</INFO></NAVI>, que se escondió en la Mazmorra de la Mina de Einbech, piso 3, y mándalo de vuelta a casa."
+		},
+		Summary = "Hablar con Minassi"
+	},
+	[16595] = {
+		Title = "El Escondite de los Traviesos, la Inquietud de los Adultos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Busca al travieso <NAVI>[Tiris]<INFO>ein_dun03,234,20,0,101,0</INFO></NAVI>, que se escondió en la Mazmorra de la Mina de Einbech, piso 3, y mándalo de vuelta a casa."
+		},
+		Summary = "Hablar con Tiris"
+	},
+	[16596] = {
+		Title = "El Escondite de los Traviesos, gestos para salvarlos",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Para evitar que los traviesos escondidos en <NAVI>[Mazmorra de la Mina de Einbech, piso 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI> resulten heridos, caza 100 criaturas de la Mazmorra de la Mina de Einbech, piso 3."
+		},
+		Summary = ""
+	},
+	[16597] = {
+		Title = "Regresa a la Catedral de Prontera",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Has completado la misión en Umbala. Regresa con <NAVI>[Misionera Rosetta]<INFO>prontera,226,329,0,101,0</INFO></NAVI> en Prontera."
+		},
+		Summary = "Hablar con Rosetta"
+	},
+	[16598] = {
+		Title = "Regresa a la Catedral de Prontera",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Has completado la misión en Einbroch. Regresa con <NAVI>[Misionera Rosetta]<INFO>prontera,226,329,0,101,0</INFO></NAVI> en Prontera."
+		},
+		Summary = "Hablar con Rosetta"
+	},
+	[16599] = {
+		Title = "Regresa sano y salvo tras completar la misión",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Has encontrado a las tres personas hechizadas por el Banquete de los Muertos. Tras expulsar a 100 muertos en el Salón de los Muertos, regresa con <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> e informa."
+		},
+		Summary = "Hablar con Tite"
+	},
+	[16600] = {
+		Title = "Regresa sano y salvo tras completar la misión",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Has encontrado a todos los niños en la Mazmorra de la Mina de Einbech, piso 3. Tras cazar también 100 criaturas de Mazmorra de la Mina de Einbech, piso 3, vuelve con <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> e informa."
+		},
+		Summary = "Hablar con Suan"
+	},
 	[16601] = {
 		Title = "Senda del Vigilante nocturno",
 		IconName = "ico_jq.bmp",
@@ -45695,6 +46254,62 @@ QuestInfoList = {
 			"Superaste la prueba, y es hora de cambiar de clase. Hablemos con <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> y procedamos con el cambio."
 		},
 		Summary = "Habla con Elena."
+	},
+	[16626] = {
+		Title = "Mensajero - La peticiÃ³n de Ark",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Encontraste rastros de una pelea en los campos cerca de Splendide. El rastro continÃºa hacia <NAVI>[el norte]<INFO>spl_fild01,341,109,0,101,0</INFO></NAVI>. Sigue buscando."
+		},
+		Summary = "Encuentra rastros de Terra"
+	},
+	[16627] = {
+		Title = "Mensajero - La peticiÃ³n de Ark",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Los rastros de una pelea en los campos cerca de Splendide conducen hacia <NAVI>[las raÃ­ces de un Ã¡rbol gigante]<INFO>spl_fild01,375,109,0,101,0</INFO></NAVI>. Sigue buscando."
+		},
+		Summary = "Encuentra rastros de Terra"
+	},
+	[16628] = {
+		Title = "Mensajero - La peticiÃ³n de Ark",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Mientras seguÃ­as el rastro de Terra en los campos cerca de Splendide, caÃ­ste entre las raÃ­ces de un Ã¡rbol gigante. AdÃ©ntrate <NAVI>[en el interior]<INFO>nyd_dun01,60,222,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Encuentra rastros de Terra"
+	},
+	[16629] = {
+		Title = "Mensajero - El paradero de Terra",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Busca mÃ¡s <NAVI>[Frutos de Yggdrasil]<INFO>spl_fild01,312,77,0,101,0</INFO></NAVI> en los campos cerca de Splendide."
+		},
+		Summary = "Recolecta Frutos de Yggdrasil"
+	},
+	[16630] = {
+		Title = "Mensajero - El paradero de Terra",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Busca mÃ¡s <NAVI>[Frutos de Yggdrasil]<INFO>spl_fild01,331,28,0,101,0</INFO></NAVI> en los campos cerca de Splendide."
+		},
+		Summary = "Recolecta Frutos de Yggdrasil"
+	},
+	[16631] = {
+		Title = "Mensajero - El paradero de Terra",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Entra <NAVI>[en el interior]<INFO>man_in01,17,128,0,101,0</INFO></NAVI> de la prisiÃ³n de Manuk y averigua quiÃ©n es la Laphine encarcelada."
+		},
+		Summary = "Habla con Snorren dentro de la prisiÃ³n"
+	},
+	[16632] = {
+		Title = "Mensajero - Demostrando la verdad",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"CuÃ©ntale la historia de Terra a <NAVI>[Luik]<INFO>man_in01,19,126,0,101,0</INFO></NAVI> en la Aldea de Manuk."
+		},
+		Summary = "Habla con Luik"
 	},
 	[17000] = {
 		Title = "Crisis en Rekenber",
@@ -45966,7 +46581,7 @@ QuestInfoList = {
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No había nada aquí. Tal vez podamos encontrar una pista del Sr. Kaufman… Vamos a buscar en otro lugar."
+			"No había nada aquí. Tal vez podamos encontrar una pista del Sr. Kaufman... Vamos a buscar en otro lugar."
 		},
 		Summary = "En otro lugar"
 	},
@@ -46653,7 +47268,7 @@ QuestInfoList = {
 		Title = "¿Tan de repente?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dicen que si durante la limpieza pisas mal el desagüe, en vez de caer en la Planta de Tratamiento de Aguas Residuales caerás al lago. Puede que haya algo allí. Vaya a revisar <NAVI>[ese lugar]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>."
+			"Dicen que si durante la limpieza pisas mal el desagüe, en vez de caer en la Estación de Aguas Residuales caerás al lago. Puede que haya algo allí. Vaya a revisar <NAVI>[ese lugar]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Explorar el Lago"
 	},
@@ -47244,7 +47859,7 @@ QuestInfoList = {
 		Title = "Cambio de clase 4: Colección de Piezas",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"El sonido de las olas del mar… Creo que lo conozco. Debes ir a la <NAVI>[playa de Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Mi intuición me dice que ese es tu próximo destino."
+			"El sonido de las olas del mar... Creo que lo conozco. Debes ir a la <NAVI>[playa de Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Mi intuición me dice que ese es tu próximo destino."
 		},
 		Summary = "Pieza de emoción 2."
 	},
@@ -47268,7 +47883,7 @@ QuestInfoList = {
 		Title = "Cambio de clase 4: ¿Dónde está el escenario?",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"¿Viniste a ver el nuevo escenario? Oh, no… Por ahora, ¿por qué no vamos al <NAVI>[sótano]<INFO>job4_tro,51,47,0,101,0</INFO></NAVI>? Allí te lo explicaré todo."
+			"¿Viniste a ver el nuevo escenario? Oh, no... Por ahora, ¿por qué no vamos al <NAVI>[sótano]<INFO>job4_tro,51,47,0,101,0</INFO></NAVI>? Allí te lo explicaré todo."
 		},
 		Summary = "Ve al sótano."
 	},
@@ -47459,7 +48074,7 @@ QuestInfoList = {
 		Summary = "Purga a los traidores"
 	},
 	[17523] = {
-		Title = "Purificación del santuario",
+		Title = "Purificación del Santuario",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Los Cazacorazones remanentes que aparecen en el depósito de corazones siguen causando problemas. ¡Acompáñanos en la operación de exterminio! - <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
@@ -47498,6 +48113,86 @@ QuestInfoList = {
 		},
 		Summary = "Se reinicia a las 04:00",
 		CoolTimeQuest = 1
+	},
+	[17528] = {
+		Title = "Entrega de Equipo Básico del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Ve a conocer a los administradores que seguirán proporcionándote equipo. Primero, sería buena idea hablar con el administrador <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>, encargado de las armaduras."
+		},
+		Summary = "Administrador Thorn"
+	},
+	[17529] = {
+		Title = "Entrega de Equipo Básico del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Después, ve a hablar con <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>, encargado de las armas avanzadas."
+		},
+		Summary = "Administrador Michael"
+	},
+	[17530] = {
+		Title = "Entrega de Equipo Básico del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Ahora es momento de recibir el equipo que ya puedes usar. Ve a hablar con <NAVI>[BK]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Administrador BK"
+	},
+	[17531] = {
+		Title = "Entrega de Equipo Básico del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Ve con <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI> y dile que ya recibiste todo el equipo básico."
+		},
+		Summary = "Informa al Instructor Ur"
+	},
+	[17532] = {
+		Title = "Entrega de Equipo Sombrío del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Si quieres recibir equipo adicional, habla con <NAVI>[Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Habla con el Instructor Boya"
+	},
+	[17533] = {
+		Title = "Entrega de Equipo Sombrío del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Si necesitas Equipo Sombrío, ve a hablar con el administrador <NAVI>[Emil]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI> en la armería."
+		},
+		Summary = "Administrador Emil"
+	},
+	[17534] = {
+		Title = "Entrega de Equipo Sombrío del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Informa a <NAVI>[Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI> que recibiste el Equipo Sombrío. Sería un problema si la entrega no quedara registrada."
+		},
+		Summary = "Informa al Instructor Boya"
+	},
+	[17535] = {
+		Title = "Entrega de Equipo Básico del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Si no tienes ningún equipo básico decente, habla sobre ello con el instructor <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>, que está aquí al lado."
+		},
+		Summary = "Habla con el Instructor Ur"
+	},
+	[17536] = {
+		Title = "Entrega de Equipo Avanzado del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Lleva 15 Bandas Elásticas y 3 Pelos Azules a <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI> y recibirás una armadura avanzada."
+		},
+		Summary = "Materiales para la Armadura"
+	},
+	[17537] = {
+		Title = "Entrega de Equipo Avanzado del Grupo del Edén",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Lleva 15 Picos Viejos a <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI> y recibirás un arma avanzada."
+		},
+		Summary = "Materiales para el Arma"
 	},
 	[17538] = {
 		Title = "Senda del Cielo: ¿Me estás llamando?",
@@ -47572,7 +48267,7 @@ QuestInfoList = {
 		Title = "Senda del Cielo: Buen Karma 4",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Por último… ayudemos a esa <NAVI>[persona]<INFO>payon,215,201,0,101,0,</INFO></NAVI> que vimos en Payon."
+			"Por último... ayudemos a esa <NAVI>[persona]<INFO>payon,215,201,0,101,0,</INFO></NAVI> que vimos en Payon."
 		},
 		Summary = "Ve a Payon."
 	},
@@ -47769,49 +48464,145 @@ QuestInfoList = {
 		},
 		Summary = "Búsqueda finalizada."
 	},
+	[17578] = {
+		Title = "Hora del anÃ¡lisis",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Uhari]<INFO>eclage,282,255,0,101,0,</INFO></NAVI> recibiÃ³ el documento de investigaciÃ³n, pero dice que es tan complejo que analizarlo llevarÃ¡ tiempo. Espera en Eclage y vuelve a hablar con Ã©l dentro de un rato."
+		},
+		Summary = "Habla con Uhari"
+	},
+	[17579] = {
+		Title = "RecopilaciÃ³n de informaciÃ³n completada",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Parece que no podrÃ¡s obtener mÃ¡s informaciÃ³n de los Sapha. Regresa con <NAVI>[Shay]<INFO>dic_in01,245,119,0,101,0,</INFO></NAVI> en la taberna de El Dicastes e informa de tus hallazgos."
+		},
+		Summary = "Habla con Shay"
+	},
+	[17580] = {
+		Title = "DespuÃ©s de la hipnosis",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Tras intentar hipnotizarte repetidamente en su oficina de El Dicastes, Ahat te dice que sigas las instrucciones de <NAVI>[Cheshire]<INFO>dic_in01,294,276,0,101,0,</INFO></NAVI> a partir de ahora. Habla con Cheshire."
+		},
+		Summary = "Habla con Cheshire"
+	},
+	[17581] = {
+		Title = "La convocatoria de Cheshire ha concluido",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Al regresar a El Dicastes y mostrarle a Cheshire las pruebas de que los rastros habÃ­an sido eliminados, quedÃ³ muy satisfecho. Habla con <NAVI>[Ahat]<INFO>dic_in01,300,280,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Habla con Ahat"
+	},
+	[17582] = {
+		Title = "Preparando el informe",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Por ahora, parece mejor seguir viajando a El Dicastes y obedeciendo las instrucciones de Cheshire para que crean que sigues hipnotizado. Ya terminaste tus asuntos aquÃ­, asÃ­ que sal <NAVI>[al exterior]<INFO>dic_in01,138,188,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Sal al exterior"
+	},
+	[17583] = {
+		Title = "DespuÃ©s de ordenar sus ideas",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"DespuÃ©s de ver las pruebas que presentaste en El Dicastes, <NAVI>[Hesranta]<INFO>dic_in01,158,188,0,101,0,</INFO></NAVI> parece hacer una pausa en la conversaciÃ³n para ordenar sus ideas."
+		},
+		Summary = "Habla con Hesranta"
+	},
+	[17584] = {
+		Title = "AcÃ©rcate",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Sorprendentemente, el famoso ministro de El Dicastes es un humano, no un Sapha. <NAVI>[Ahat]<INFO>dic_in01,300,280,0,101,0,</INFO></NAVI> te pidiÃ³ que te acercaras para hablar."
+		},
+		Summary = "Habla con Ahat"
+	},
+	[17585] = {
+		Title = "El enviado de Manuk",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"El <NAVI>[Miembro de la ExpediciÃ³n]<INFO>mid_campin,93,114,0,101,0,</INFO></NAVI> enviado a Manuk regresÃ³ al Campamento de la Alianza con el enviado de Manuk. Â¿Por quÃ© no ir a verlos?"
+		},
+		Summary = "Entra"
+	},
+	[17586] = {
+		Title = "La invitaciÃ³n de los Sapha",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"Sorprendentemente, <NAVI>[Bihanus]<INFO>mid_campin,110,120,0,101,0,</INFO></NAVI>, que se encuentra en el Campamento de la Alianza, es un Sapha de su capital, El Dicastes. El Sapha Ravail abriÃ³ la capital a los humanos y los invitÃ³ formalmente. Cuando estÃ©s listo, pregunta quÃ© debes hacer."
+		},
+		Summary = "Habla con Bihanus"
+	},
+	[17587] = {
+		Title = "Inspector Doha",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"El Inspector <NAVI>[Doha]<INFO>mid_campin,168,170,0,101,0,</INFO></NAVI>, que se encuentra en el Campamento de la Alianza, comenzÃ³ a hablar sobre el incidente del informe y su testigo."
+		},
+		Summary = "Habla con Doha"
+	},
+	[17588] = {
+		Title = "La colaboraciÃ³n de B.K.",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[B.K.]<INFO>dic_fild01,231,174,0,101,0,</INFO></NAVI>, del Gremio de Mercaderes Mano de Gato al pie del Monte Kamidal, solo darÃ¡ informaciÃ³n a cambio de Certificados Sapha. Sigue entregÃ¡ndole certificados hasta obtener suficiente informaciÃ³n."
+		},
+		Summary = "Habla con B.K."
+	},
+	[17589] = {
+		Title = "Finge estar hipnotizado",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[Ahat]<INFO>dic_in01,300,280,0,101,0,</INFO></NAVI> siguiÃ³ intentando hipnotizarte en su oficina de El Dicastes. Fingir estar hipnotizado durante la conversaciÃ³n podrÃ­a ayudarte a obtener informaciÃ³n."
+		},
+		Summary = "Habla con Ahat"
+	},
 	[17605] = {Summary = ""},
 	[17607] = {
-		Title = "Biosfera",
+		Title = "Ecosfera",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Solicitamos ayuda con el hábitat artificial dentro de la mansión Varmund."
+			"Solicitamos ayuda con el hábitat artificial dentro de la Mansión Varmunt."
 		},
-		Summary = "Completaste las instrucciones."
+		Summary = "Instrucciones completadas"
 	},
 	[17608] = {
-		Title = "Biosfera - Hielo",
+		Title = "Ecosfera: Hielo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Tras derrotar a 100 monstruos en la Biosfera de hielo, informa a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+			"Tras derrotar 100 monstruos en la Ecosfera de Hielo, repórtarselo a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
 		},
-		Summary = "¡Derrota a 100 monstruos!"
+		Summary = "Derrota 100 monstruos"
 	},
 	[17609] = {
-		Title = "Biosfera - Fuego",
+		Title = "Ecosfera: Fuego",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de derrotar a 100 monstruos en la Biosfera de fuego, informa a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+			"Después de derrotar 100 monstruos en la Ecosfera de Fuego, repórtarselo a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
 		},
-		Summary = "¡Derrota a 100 monstruos!"
+		Summary = "Derrota 100 monstruos"
 	},
 	[17610] = {
-		Title = "Biosfera - Hierba",
+		Title = "Ecosfera: Hierba",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de derrotar a 100 monstruos en la Biosfera de hierba, informa a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+			"Después de derrotar 100 monstruos en la Ecosfera de Hierba, repórtarselo a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
 		},
-		Summary = "¡Derrota a 100 monstruos!"
+		Summary = "Derrota 100 monstruos"
 	},
 	[17611] = {
-		Title = "Biosfera - Muerte",
+		Title = "Ecosfera: Muerte",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Tras derrotar a 100 monstruos en la Biosfera de muerte, informa a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
+			"Tras derrotar 100 monstruos en la Escosfera de la Muerte, repórtarselo a <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>."
 		},
-		Summary = "¡Derrota a 100 monstruos!"
+		Summary = "Derrota 100 monstruos"
 	},
 	[17612] = {
-		Title = "Tiempo de espera : Biosfera - Hielo",
+		Title = "[Espera] Ecosfera: Hielo",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Vuelve después de rato. - <NAVI>[Beta]<INFO>ba_in01,309,44,0,101,0</INFO></NAVI>"
@@ -48104,15 +48895,15 @@ QuestInfoList = {
 		Summary = "Hablar con Crux"
 	},
 	[18022] = {
-		Title = "¡Hey! Sweety",
+		Title = "Duelo contra Sweety",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Si Sweety, bajo supervisión en el Depósito de la Aeronave, se vuelve violenta, contrólala adecuadamente."
 		},
-		Summary = "Combatir contra Sweety"
+		Summary = "Finaliza la instancia"
 	},
 	[18023] = {
-		Title = "¡Hey! Sweety - En espera",
+		Title = "[Espera] Duelo contra Sweety",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Tras su arrebato, el cuerpo de Sweety necesita algo de estabilidad y reparación. Esta misión podrá aceptarse nuevamente tras el tiempo de espera hablando con <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI> en el Depósito de la Aeronave."
@@ -48714,35 +49505,35 @@ QuestInfoList = {
 	[18106] = {
 		Title = "Cuando cambie la marea",
 		Description = {
-			"Pídele al Sr. Ibanoff que zarpe para encontrar la Isla Errante… ¡Pero debes hacerlo antes de que suba la marea!"
+			"Pídele al Sr. Ibanoff que zarpe para encontrar la Isla Errante... ¡Pero debes hacerlo antes de que suba la marea!"
 		},
 		Summary = "Sr. Ibanoff."
 	},
 	[18107] = {
 		Title = "Partida",
 		Description = {
-			"Mientras la marea esté baja… iza las velas. ¡Navega hasta la Isla Errante!"
+			"Mientras la marea esté baja... iza las velas. ¡Navega hasta la Isla Errante!"
 		},
 		Summary = "Encuentra el timón del barco."
 	},
 	[18108] = {
 		Title = "¿La Isla Errante?",
 		Description = {
-			"¿Encontraste la Isla Errante? ¿¿Qué es eso?? Camina por la cubierta del barco y encuentra un lugar donde puedas ver mejor…"
+			"¿Encontraste la Isla Errante? ¿¿Qué es eso?? Camina por la cubierta del barco y encuentra un lugar donde puedas ver mejor..."
 		},
-		Summary = "En la cubierta…"
+		Summary = "En la cubierta..."
 	},
 	[18109] = {
 		Title = "¿¿La Isla Errante???",
 		Description = {
 			"¿Qué es eso? ¿¿Qué encontraste??"
 		},
-		Summary = "Investiga…"
+		Summary = "Investiga..."
 	},
 	[18110] = {
 		Title = "El anciano desconocido",
 		Description = {
-			"¡¿Podría ser todo esto cierto?! ¿Realmente estás llegando a la…? ¡¿Isla de las ballenas?! Habla con el anciano si quieres volver sano y salvo a tierra firme."
+			"¡¿Podría ser todo esto cierto?! ¿Realmente estás llegando a la...? ¡¿Isla de las ballenas?! Habla con el anciano si quieres volver sano y salvo a tierra firme."
 		},
 		Summary = "El anciano desconocido."
 	},
@@ -48763,21 +49554,21 @@ QuestInfoList = {
 	[18113] = {
 		Title = "Las pruebas del zar",
 		Description = {
-			"El zar Aleksay III te pidió pruebas de la existencia de la Isla de las ballenas. Parece que tendrás que volver a la Isla Errante…"
+			"El zar Aleksay III te pidió pruebas de la existencia de la Isla de las ballenas. Parece que tendrás que volver a la Isla Errante..."
 		},
 		Summary = "¡Encuentra el camino de vuelta a la Isla de las ballenas!"
 	},
 	[18114] = {
 		Title = "Antes del atardecer",
 		Description = {
-			"Pídele al Sr. Ibanoff que zarpe para encontrar la Isla de las ballenas… ¡Pero debes hacerlo antes de que se ponga el sol!"
+			"Pídele al Sr. Ibanoff que zarpe para encontrar la Isla de las ballenas... ¡Pero debes hacerlo antes de que se ponga el sol!"
 		},
 		Summary = "Sr. Ibanoff."
 	},
 	[18115] = {
 		Title = "Partida",
 		Description = {
-			"Mientras el sol siga brillando… iza las velas. Navega hasta la Isla de las ballenas."
+			"Mientras el sol siga brillando... iza las velas. Navega hasta la Isla de las ballenas."
 		},
 		Summary = "Usa el timón del barco."
 	},
@@ -48838,6 +49629,633 @@ QuestInfoList = {
 			"Una serie de incidentes ha concluido. Tengo curiosidad por saber cómo está ahora <NAVI>[Nihil]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>. ¡Vayamos al Castillo de Prontera a comprobarlo!"
 		},
 		Summary = "Hablar con Nihil"
+	},
+	[19000] = {
+		Title = "Tierra Floreciente",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Tierra Floreciente]<INFO>ecl_fild01,182,93,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Tierra Floreciente"
+	},
+	[19001] = {
+		Title = "[Espera] Tierra Floreciente",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19002] = {
+		Title = "Sauna Meditatio",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Sauna Meditatio]<INFO>ba_bath,160,29,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Sauna Meditatio"
+	},
+	[19003] = {
+		Title = "[Espera] Sauna Meditatio",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19004] = {
+		Title = "Pasillo de los Recuerdos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Pasillo de los Recuerdos]<INFO>ba_lib,160,13,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Pasillo de los Recuerdos"
+	},
+	[19005] = {
+		Title = "[Espera] Pasillo de los Recuerdos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19006] = {
+		Title = "Estación de Aguas Residuales",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Estación de Aguas Residuales]<INFO>ba_pw02,276,22,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Estación de Aguas Residuales"
+	},
+	[19007] = {
+		Title = "[Espera] Estación de Aguas Residuales",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19008] = {
+		Title = "Planta Mágica I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Planta Mágica I]<INFO>ba_pw01,17,116,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Planta Mágica I"
+	},
+	[19009] = {
+		Title = "[Espera] Planta Mágica I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19010] = {
+		Title = "Guarida del Dragón I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Guarida del Dragón, piso 2]<INFO>lasa_dun02,25,171,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Guarida del Dragón"
+	},
+	[19011] = {
+		Title = "[Espera] Guarida del Dragón I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19012] = {
+		Title = "Torre de Bifröst",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Torre de Bifröst]<INFO>ecl_tdun01,56,18,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Torre de Bifröst"
+	},
+	[19013] = {
+		Title = "[Espera] Torre de Bifröst",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19014] = {
+		Title = "Guarida del Dragón II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Guarida del Dragón, piso 3]<INFO>lasa_dun03,190,22,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Guarida del Dragón"
+	},
+	[19015] = {
+		Title = "[Espera] Guarida del Dragón II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19016] = {
+		Title = "Prisión Subterránea de Prontera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Prisión Subterránea de Prontera]<INFO>prt_prison,161,290,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Prisión Subterránea de Prontera"
+	},
+	[19017] = {
+		Title = "[Espera] Prisión Subterránea de Prontera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19018] = {
+		Title = "Prontera Destruida",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"^0000FFProntera Destruida^000000. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en Prontera Destruida"
+	},
+	[19019] = {
+		Title = "[Espera] Prontera Destruida",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19020] = {
+		Title = "Minas de Rockridge",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Minas de Rockridge]<INFO>rockmi1,245,22,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en las Minas de Rockridge"
+	},
+	[19021] = {
+		Title = "[Espera] Minas de Rockridge",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19022] = {
+		Title = "Castillo de Glastheim: Pasillo del Piso 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Pasillo del Piso 2]<INFO>gl_cas02_,104,32,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para entrar en esta zona.^000000"
+		},
+		Summary = "Derrota a Hombre Errante"
+	},
+	[19023] = {
+		Title = "[Espera] Castillo de Glastheim: Pasillo del Piso 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19024] = {
+		Title = "Refugio Subterráneo",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"^0000FFRefugio Subterráneo^000000. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a Necrófago Apestoso"
+	},
+	[19025] = {
+		Title = "[Espera] Refugio Subterráneo",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19026] = {
+		Title = "Laboratorio OPTATIO",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Laboratorio OPTATIO]<INFO>verus01,240,63,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para entrar en esta zona.^000000"
+		},
+		Summary = "Derrota a Robot Reparador Turbo y Cenere Verde"
+	},
+	[19027] = {
+		Title = "[Espera] Laboratorio OPTATIO",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19028] = {
+		Title = "Torre del Reloj Distorsionada, Piso 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Torre del Reloj Distorsionada, piso 2]<INFO>c_tower2_,269,26,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a Gran Reloj y Neo Punk"
+	},
+	[19029] = {
+		Title = "[Espera] Torre del Reloj Distorsionada, Piso 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19030] = {
+		Title = "Invernadero de Pitayas",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Invernadero de Pitayas]<INFO>ba_lost,162,41,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Invernadero de Pitayas"
+	},
+	[19031] = {
+		Title = "[Espera] Invernadero de Pitayas",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19032] = {
+		Title = "Torre del Reloj Distorsionada, Piso 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Torre del Reloj Distorsionada piso 3]<INFO>c_tower3_,64,148,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para entrar en esta zona.^000000"
+		},
+		Summary = "Derrota a Despertador"
+	},
+	[19033] = {
+		Title = "[Espera] Torre del Reloj Distorsionada, Piso 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19034] = {
+		Title = "Cañón de Oz",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Cañón de Oz]<INFO>ra_fild10,378,284,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a Cabra Gris y Lobo Gris Joven"
+	},
+	[19035] = {
+		Title = "[Espera] Cañón de Oz",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19036] = {
+		Title = "Rudus, Depósito de Relaves: Piso 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Rudus, Depósito de Relaves - Piso 2]<INFO>sp_rudus2,186,257,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Depósito de Relaves (Piso 2)"
+	},
+	[19037] = {
+		Title = "[Espera] Rudus, Depósito de Relaves: Piso 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19038] = {
+		Title = "Ruina Oeste de Juperos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Ruina Oeste de Juperos]<INFO>ver_eju,17,148,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a Robot de Reconocimiento"
+	},
+	[19039] = {
+		Title = "[Espera] Ruina Oeste de Juperos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19040] = {
+		Title = "Ciudad de Verus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Ciudad de Verus - Instituto Wish]<INFO>verus02,72,23,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a Robot Explorador y Robot Explorador Turbo"
+	},
+	[19041] = {
+		Title = "[Espera] Ciudad de Verus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19042] = {
+		Title = "Almacén Tártaro, Piso Superior",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Almacén Tártaro, Piso Superior]<INFO>ba_2whs01,156,34,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en Almacén Tártaro, Piso Superior"
+	},
+	[19043] = {
+		Title = "[Espera] Almacén Tártaro, Piso Superior",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19044] = {
+		Title = "Laberinto de Oz, Piso 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Laberinto de Oz, piso 1]<INFO>oz_dun01,284,171,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Laberinto de Oz (Piso 1)"
+	},
+	[19045] = {
+		Title = "[Espera] Laberinto de Oz, Piso 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19046] = {
+		Title = "Rudus, Depósito de Relaves: Piso 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Rudus, Depósito de Relaves - Piso 3]<INFO>sp_rudus3,364,207,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Depósito de Relaves (Piso 3)"
+	},
+	[19047] = {
+		Title = "[Espera] Rudus, Depósito de Relaves: Piso 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19048] = {
+		Title = "Noggroad",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Noggroad]<INFO>mag_dun03,119,123,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Cueva de Magma"
+	},
+	[19049] = {
+		Title = "[Espera] Noggroad",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19050] = {
+		Title = "Almacén Tártaro, Piso Inferior",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Almacén Tartaro, Piso Inferior]<INFO>ba_2whs02,337,331,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en Almacén Tartaro, Nivel Inferior"
+	},
+	[19051] = {
+		Title = "[Espera] Almacén Tártaro, Piso Inferior",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19052] = {
+		Title = "Abismo de Glastheim, Piso 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Abismo de Glastheim, piso 1]<INFO>gl_cas01_,200,33,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Abismo de Glastheim, Piso 1"
+	},
+	[19053] = {
+		Title = "[Espera] Abismo de Glastheim, Piso 1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19054] = {
+		Title = "Bosque del Lobo Gris I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Bosque del Lobo Gris]<INFO>gw_fild01,274,337,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Bosque del Lobo Gris"
+	},
+	[19055] = {
+		Title = "[Espera] Bosque del Lobo Gris I",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19056] = {
+		Title = "Bosque del Lobo Gris II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Bosque del Lobo Gris]<INFO>gw_fild02,122,384,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Bosque del Lobo Gris"
+	},
+	[19057] = {
+		Title = "[Espera] Bosque del Lobo Gris II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19058] = {
+		Title = "Mina de Einbech, Piso 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Mina de Einbech, piso 3]<INFO>ein_dun03,268,277,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Mina de Einbech, Piso 3"
+	},
+	[19059] = {
+		Title = "[Espera] Mina de Einbech, Piso 3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19060] = {
+		Title = "Antiguo Templo de Odín",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Antiguo Templo de Odín]<INFO>odin_past,291,230,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en el Antiguo Templo de Odín"
+	},
+	[19061] = {
+		Title = "[Espera] Antiguo Templo de Odín",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19062] = {
+		Title = "Cueva Subterránea del Lago del Abismo, Piso 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Cueva Subterránea del Lago del Abismo, piso 4]<INFO>abyss_04,168,162,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Cueva Subterránea del Lago del Abismo (Piso 4)"
+	},
+	[19063] = {
+		Title = "[Espera] Cueva Subterránea del Lago del Abismo, Piso 4",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[19064] = {
+		Title = "Planta Mágica II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Por encargo del Grupo del Edén, elimina a los monstruos del mapa",
+			"<NAVI>[Planta Mágica II]<INFO>ba_pw03,17,115,0,101,0</INFO></NAVI>. Cuando termines, repórtalo en el Tablón de Misiones Avanzadas.",
+			"^FF0000*Puede haber requisitos para acceder al mapa.^000000"
+		},
+		Summary = "Derrota a los monstruos en la Planta Mágica II"
+	},
+	[19065] = {
+		Title = "[Espera] Planta Mágica II",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla otra vez. La misión se puede aceptar en el Tablón de Misiones Avanzadas del Grupo del Edén."
+		},
+		Summary = "Se reinicia a las 04:00",
+		CoolTimeQuest = 1
 	},
 	[19066] = {
 		Title = "La historia del investigador Rudolf",
@@ -49298,7 +50716,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[19116] = {
-		Title = "Investigación de Pisruik (1)",
+		Title = "Investigación de Pisrick (1)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Si me traes los materiales que necesito, a cambio te diré qué estoy fabricando. Los materiales necesarios ahora son...",
@@ -49307,7 +50725,7 @@ QuestInfoList = {
 			"<ITEM>[Corazón de Obeaune]<INFO>950</INFO></ITEM> x10,",
 			"<ITEM>[Polvo de polilla]<INFO>1057</INFO></ITEM> x10",
 			"",
-			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
 		},
 		Summary = "",
 		NpcSpr = "4_M_ALCHE_D",
@@ -49316,12 +50734,12 @@ QuestInfoList = {
 		NpcPosY = 108
 	},
 	[19117] = {
-		Title = "Investigación de Pisruik (2-1)",
+		Title = "Investigación de Pisrick (2-1)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Necesito unas 20 <ITEM>[Flor carnívora]<INFO>1032</INFO></ITEM> para probar mi teoría... ¿Podrías encargarte también de esto?",
 			"",
-			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Flor carnívora x20",
 		NpcSpr = "4_M_ALCHE_D",
@@ -49330,12 +50748,12 @@ QuestInfoList = {
 		NpcPosY = 108
 	},
 	[19118] = {
-		Title = "Investigación de Pisruik (2-2)",
+		Title = "Investigación de Pisrick (2-2)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"El experimento no está saliendo como esperaba... ¿Podrías conseguirme solo 1 <ITEM>[Flor carnívora]<INFO>1032</INFO></ITEM> más? Por favor.",
 			"",
-			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Flor carnívora x1",
 		NpcSpr = "4_M_ALCHE_D",
@@ -49344,12 +50762,12 @@ QuestInfoList = {
 		NpcPosY = 108
 	},
 	[19119] = {
-		Title = "Investigación de Pisruik (3)",
+		Title = "Investigación de Pisrick (3)",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Oye... Lo siento, pero ¿podrías conseguirme unas gafas iguales a las que llevaba? No puedo moverme porque no veo nada, así que te agradecería muchísimo que las consiguieras por mí.",
 			"",
-			"Consigue <ITEM>[Gafas de friki]<INFO>2243</INFO></ITEM> y llévaselas a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+			"Consigue <ITEM>[Gafas de friki]<INFO>2243</INFO></ITEM> y llévaselas a <NAVI>[Pisrick]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
 			"^FF0000 Asegúrate de no tener en la bolsa otras Gafas de friki equipadas.^000000"
 		},
 		Summary = "Gafas de friki x1",
@@ -49388,10 +50806,10 @@ QuestInfoList = {
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Riot... ¿No piensa enseñármelo fácilmente?",
-			"¿Un lugar al que se llega trepando por enredaderas? ¿Niflhiem?",
-			"¿Quiere que traiga cinco huevos de Yhelle de Niflhiem?",
+			"¿Un lugar al que se llega trepando por enredaderas? ¿Niflheim?",
+			"¿Quiere que traiga cinco huevos de Yhelle de Niflheim?",
 			"",
-			"Busca a Yhelle en Niflhiem, consigue cinco <ITEM>[huevos]<INFO>574</INFO></ITEM> y llévaselos a <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
+			"Busca a Yhelle en Niflheim, consigue cinco <ITEM>[huevos]<INFO>574</INFO></ITEM> y llévaselos a <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
 			"",
 			"Zonas de aparición de Yhelle",
 			"<NAVI>[Lugar]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
@@ -49941,56 +51359,56 @@ QuestInfoList = {
 		Summary = "Caza zombis como favor para Leno."
 	},
 	[21015] = {
-		Title = "Guerra de muertos vivientes",
+		Title = "Edén: Guerra de muertos vivientes",
 		Description = {
 			"El creciente número de zombis y esqueletos es abrumador para los guardias de Payon. Te piden que mates a 10 zombis y 20 esqueletos para reducir sus números. Los esqueletos aparecerán cuando te adentres en la cueva."
 		},
 		Summary = "Elimina muertos vivientes en la cueva de Payon."
 	},
 	[21016] = {
-		Title = "Guerra contra los muertos vivientes (en espera)",
+		Title = "[Espera] Guerra contra los muertos vivientes",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un recluta en la aldea de los arqueros de Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21017] = {
-		Title = "Ritual de purificación del alma",
+		Title = "Edén: Ritual de purificación del alma",
 		Description = {
 			"Necesitas “Banhonbu” para purificar las almas de los espíritus dolientes de los aldeanos que fueron enterrados en el pasado. Derrota a Munak y Vaughan para recolectar las piezas de medio cuerno. Munak y Vaughn aparecen en el piso 3 de la cueva de Payon."
 		},
 		Summary = "15 Amuletos"
 	},
 	[21018] = {
-		Title = "Ritual de purificación del alma (en espera)",
+		Title = "[Espera] Ritual de purificación del alma",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un recluta en la aldea de los arqueros de Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21019] = {
-		Title = "Una taza de sake para las penas",
+		Title = "Edén: Licor para las penas",
 		Description = {
 			"Un monje de gran poder te pide que apacigües un fuego fantasmal con licor claro a cambio de 10 Alientos espirituales. El licor claro se puede conseguir con el <NAVI>[Abuelo de Payon]<INFO>payon,192,109,0,101,0</INFO></NAVI>, y el fuego fantasmal se puede encontrar en la aldea abandonada, en el piso 4 de la cueva de Payon."
 		},
 		Summary = "10 Respiraciones espirituales."
 	},
 	[21020] = {
-		Title = "Licor para las penas (en espera)",
+		Title = "[Espera] Licor para las penas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con el Monje errante en el piso 2 de la mazmorra de Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21021] = {
-		Title = "Rastros de magia",
+		Title = "Edén: Rastros de magia",
 		Description = {
 			"No sabes por qué necesitas un Pañuelo de chica para buscar el Rastro de magia, pero un joven erudito te pidió tres de ellos. Puedes conseguirlos con Sohee en la aldea abandonada de la cueva de Payon."
 		},
 		Summary = "3 Pañuelos de chica."
 	},
 	[21022] = {
-		Title = "Rastros de magia (en espera)",
+		Title = "[Espera] Rastros de magia",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. El Joven soltero de Payon puede asignarte esta misión."
 		},
@@ -50032,14 +51450,14 @@ QuestInfoList = {
 		Summary = "2 unidades de Tronco seco."
 	},
 	[21028] = {
-		Title = "Dulce fruto del trabajo",
+		Title = "Edén: Dulce fruto del trabajo",
 		Description = {
 			"Decidiste ayudar a Ricardo con su trabajo. Derrota a 5 Sauces en el bosque al sur de Payon y junta 3 Troncos secos."
 		},
 		Summary = "3 unidades de Troncos secos."
 	},
 	[21029] = {
-		Title = "Dulce fruto del trabajo - En espera",
+		Title = "[Espera] Dulce fruto del trabajo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el hombre nervioso de mediana edad en Payon."
 		},
@@ -50053,14 +51471,14 @@ QuestInfoList = {
 		Summary = "Cacería de boas."
 	},
 	[21031] = {
-		Title = "Cazaserpientes profesional",
+		Title = "Edén: Cazaserpientes profesional",
 		Description = {
 			"Decidí continuar con mi cacería de boas en el bosque al este de Payon. Hoy matarás 5 boas."
 		},
 		Summary = "Cacería de boas."
 	},
 	[21032] = {
-		Title = "Cazaserpientes profesional (en espera)",
+		Title = "[Espera] Cazaserpientes profesional",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con la dama preocupada en Payon."
 		},
@@ -50074,14 +51492,14 @@ QuestInfoList = {
 		Summary = "1 Tallo escamoso."
 	},
 	[21034] = {
-		Title = "Cebolla nociva",
+		Title = "Edén: Cebolla nociva",
 		Description = {
 			"Tras darse cuenta de que la cola de gusano confundía a la gente, la abuela te pidió que la mataras. Se pueden encontrar colas de gusano en los bosques al este de Payon."
 		},
 		Summary = "Caza la cola de gusano."
 	},
 	[21035] = {
-		Title = "Cebolla nociva - En espera",
+		Title = "[Espera] Cebolla nociva",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con la preocupada abuela de Fayon."
 		},
@@ -50095,14 +51513,14 @@ QuestInfoList = {
 		Summary = "Caza esporas."
 	},
 	[21037] = {
-		Title = "Antes del mundo de los hongos.",
+		Title = "Edén: Antes del mundo de los hongos",
 		Description = {
 			"El abuelo de Payon se alarma por la fecundidad de las esporas. Quiere que las mates antes de que invadan el bosque del este. ¡Caza las esporas!"
 		},
 		Summary = "Caza una espora."
 	},
 	[21038] = {
-		Title = "Antes de convertirte en un paraíso de hongos - En espera",
+		Title = "[Espera] Antes del mundo de los hongos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el preocupado abuelo de Payon."
 		},
@@ -50116,42 +51534,42 @@ QuestInfoList = {
 		Summary = "Habla con el hombre nervioso de mediana edad."
 	},
 	[21040] = {
-		Title = "Prisioneros con sueños de fuga",
+		Title = "Edén: Prisioneros con sueños de fuga",
 		Description = {
 			"En las mazmorras de Glastheim, una fuerza oscura se apoderó de la ciudad, resucitó a los muertos y reanimó a los muertos vivientes."
 		},
 		Summary = "Derrota Prisioneros esqueletos y Prisioneros zombis."
 	},
 	[21041] = {
-		Title = "Prisioneros con sueños de fuga (en espera)",
+		Title = "[Espera] Prisioneros con sueños de fuga",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Karon en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21042] = {
-		Title = "Torturadores endemoniados",
+		Title = "Edén: Torturadores endemoniados",
 		Description = {
 			"Se dice que los demonios salen a hurtadillas de las mazmorras de Glastheim, aprovechando el caos. Nadir intenta ayudar a Caronte, pero no es suficiente. Nadir te pide que derrotes Rybio."
 		},
 		Summary = "Derrota Rybio."
 	},
 	[21043] = {
-		Title = "Torturadores endemoniados (en espera)",
+		Title = "[Espera] Torturadores endemoniados",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nadir en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21044] = {
-		Title = "Sabor refinado",
+		Title = "Edén: Sabor refinado",
 		Description = {
 			"Se dice que las mazmorras de Glastheim están infestadas de demonios que aprovecharon el caos para escabullirse. Nadir se esfuerza por ayudar a Caronte, pero no es suficiente. Nadir te pide que derrotes Injusticias."
 		},
 		Summary = "Derrota Injusticias."
 	},
 	[21045] = {
-		Title = "Sabor refinado (en espera)",
+		Title = "[Espera] Sabor refinado",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nadir en Glastheim."
 		},
@@ -50165,182 +51583,182 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21047] = {
-		Title = "La pesadilla de Moscovia",
+		Title = "Edén: La pesadilla de Moscovia",
 		Description = {
 			"Se dice que hay muchas hadas ^4d4dffen lo más profundo de los bosques de la región de Moscovia^000000. Una de ellas te pide que extermines a los ^4d4dffUza^000000 que asustan y acosan a los transeúntes. A Moscovia se puede llegar en barco desde Alberta."
 		},
 		Summary = "Mata a los Uza."
 	},
 	[21048] = {
-		Title = "Pesadilla moscovita (en espera)",
+		Title = "[Espera] La pesadilla de Moscovia",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21049] = {
-		Title = "Muñeca hermosa",
+		Title = "Edén: Muñeca hermosa",
 		Description = {
 			"Esta es una solicitud para derrotar a ^4d4fffMiyabi^000000, una youma que deslumbra a la gente con su bella apariencia en el laberinto de Tatami^000000 dentro del ^4d4ffftorreón de Amatsu. Se puede llegar a Amatsu en barco desde Alberta."
 		},
 		Summary = "Derrota a Miyabi."
 	},
 	[21050] = {
-		Title = "Muñeca hermosa (en espera)",
+		Title = "[Espera] Muñeca hermosa",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes solicitar la misión desde el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21051] = {
-		Title = "¿Pasteles de arroz hechos de arena?",
+		Title = "Edén: ¿Pasteles de arroz hechos de arena?",
 		Description = {
 			"Se trata de una solicitud para exorcizar al ^4d4dffMi Gao^000000, un monstruo que se creó cuando la arena de la playa frente al castillo Yongji de Louyang^000000 se aglutinó sola. Se puede llegar a Louyang en barco desde Alberta."
 		},
 		Summary = "Extermina al Mi Gao."
 	},
 	[21052] = {
-		Title = "¿Sandy Mochi? (en espera)",
+		Title = "[Espera] ¿Pasteles de arroz hechos de arena?",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes pedir la misión desde el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21053] = {
-		Title = "Caballo sin cabeza",
+		Title = "Edén: Caballo sin cabeza",
 		Description = {
 			"Esta es una solicitud para exterminar al ^4d4dffCaballo sin cabeza^000000 que está aterrorizando a la gente en los ^4d4dffcampos de Brasilis^000000. Se puede llegar a Brasilis en barco desde Alberta."
 		},
 		Summary = "Extermina al Caballo sin cabeza."
 	},
 	[21054] = {
-		Title = "Caballo sin cabeza (en espera)",
+		Title = "[Espera] Caballo sin cabeza",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21055] = {
-		Title = "León del templo",
+		Title = "Edén: León del templo",
 		Description = {
 			"Esta es una solicitud para exterminar a ^4d4dffTamruan^000000, el guardián original del ^4d4dffAntiguo templo de Ayothaya^000000, que aterroriza a los fieles. Se puede llegar a Ayothaya en barco desde Alberta."
 		},
 		Summary = "Extermina a Tamruan."
 	},
 	[21056] = {
-		Title = "León del templo (en espera)",
+		Title = "[Espera] León del templo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21057] = {
-		Title = "Bird con un arco iris",
+		Title = "Edén: Pájaro Arcoíris",
 		Description = {
 			"Esta es una solicitud para controlar el número de ^4d4dffTucan^000000 que aumentó repentinamente en los ^4d4dffcampos de Brasilis^000000 y están dañando los cultivos. Se puede llegar a Brasilis en barco desde Alberta."
 		},
 		Summary = "Extermina a los Tucan."
 	},
 	[21058] = {
-		Title = "Bird con arcoíris (en espera)",
+		Title = "[Espera] Pájaro Arcoíris",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21059] = {
-		Title = "Una escoba, una olla de hierro fundido y una anciana",
+		Title = "Edén: Una escoba, una olla de hierro fundido y una anciana",
 		Description = {
 			"Una anciana montada en una escoba y con un gran caldero fue vista en los ^4d4dffdeep profundos bosques de Moscovia^000000. Como la anciana que monta la escoba y empuña el caldero es una bruja, esta bruja, ^4d4dffBabaya^000000, te pide que la exorcices. A Moscovia se puede llegar en barco desde Alberta."
 		},
 		Summary = "Derrota a Babayaga."
 	},
 	[21060] = {
-		Title = "Una escoba, una olla de hierro fundido y una señora (en espera)",
+		Title = "[Espera] Una escoba, una olla de hierro fundido y una señora",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21061] = {
-		Title = "Los perdedores, los ganadores y el resto",
+		Title = "Edén: Los perdedores, los ganadores y el resto",
 		Description = {
 			"Se dice que el ^4d4dfflaberinto de Tatami en Amatsu^000000 está embrujado por soldados que fueron sacrificados en una feroz guerra hace mucho tiempo. Esta es una solicitud para exterminar a los ^4d4dffMosqueteros a la antigua^000000 para proteger el castillo. Se puede llegar a Amatsu en barco desde Alberta."
 		},
 		Summary = "Extermina a los Mosqueteros a la antigua."
 	},
 	[21062] = {
-		Title = "Los perdedores, los ganadores y el resto (en espera)",
+		Title = "[Espera] Los perdedores, los ganadores y el resto",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21063] = {
-		Title = "Dama celestial",
+		Title = "Edén: Dama celestial",
 		Description = {
 			"Mucha gente visita el ^4d4dffTemplo de Muling en Kunlun^000000, pero eso se convirtió en un problema porque apareció una hermosa hada que ataca a la gente. Esta es una solicitud para detener a la peligrosa ^4d4dffHada doncella^000000. A Kunlun se puede llegar en barco desde Alberta."
 		},
-		Summary = "Castiga al Hada madrina."
+		Summary = "Caza la Ninfa Malvada"
 	},
 	[21064] = {
-		Title = "Dama celestial (en espera)",
+		Title = "[Espera] Dama Celestial",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21065] = {
-		Title = "La tumba donde yacen los secretos",
+		Title = "Edén: La tumba donde yacen los secretos",
 		Description = {
 			"^4d4dffLa tumba real del castillo de Yongji^000000 guarda muchas leyendas y secretos. Y también alberga muchos fantasmas, lo que puede ser un verdadero dolor de cabeza. Se trata de una solicitud para exorcizar a ^4d4dffHye-gun e Imaemang-lang^000000, que obstaculizan la investigación de la tumba en especial. Se puede llegar al castillo de Yongji en barco desde Alberta."
 		},
 		Summary = "Derrota a Yao Jung y a Mao Guai"
 	},
 	[21066] = {
-		Title = "La tumba donde yacen los secretos (en espera)",
+		Title = "[Espera] La tumba donde yacen los secretos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21067] = {
-		Title = "Te escucho al final de la noche y al final del día",
+		Title = "Edén: Caza de Shinobi",
 		Description = {
 			"Uno de los muchos secretos del ^4d4dfflaberinto de Tatami en Amatsu^000000 es un shinobi que murió hace mucho tiempo y estaba a cargo de la guerra de la información. A él se le pide que mate a un ^4d4dffShinobi^000000 que perdió su identidad y está atacando a la gente. Se puede llegar a Amatsu en barco desde Alberta."
 		},
 		Summary = "Derrota a un Shinobi."
 	},
 	[21068] = {
-		Title = "Te escucho al final de la noche y al final del día (en espera)",
+		Title = "[Espera] Caza de Shinobi",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes pedir la misión desde el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21069] = {
-		Title = "Candidato Son Goku",
+		Title = "Edén: Duraznos y Yoyos",
 		Description = {
-			"Un monstruo de melocotón y un grupo de monos aparecieron en el ^4d4dfftemplo de la Madre del rey del oeste en Kunlun^000000, y te piden que los derrotes antes de que crezcan, se conviertan en Goku y causen más estragos. A Kunlun se puede llegar en barco desde Alberta."
+			"Derrota al Duraznero Encantado en el ^4D4DFFSantuario de la reina de Kunlun^000000. Puedes llegar a la ciudad en barco desde Alberta."
 		},
-		Summary = "Derrota al Melocotonero Encantado"
+		Summary = "Derrota al Duraznero Encantado"
 	},
 	[21070] = {
-		Title = "Candidato Son Goku (en espera)",
+		Title = "[Espera] Duraznos y Yoyos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21071] = {
-		Title = "Un anciano en las nubes",
+		Title = "Edén: Un anciano en las nubes",
 		Description = {
 			"La casa del ^4d4dfftablón de damas de frescura en Kunlun^000000 es fresco por naturaleza, pero por alguna razón, esta frescura es desagradable. Se te pide que ayudes a librar al pueblo del ^4d4dffbarco desafortunado^000000, que ha estado causando problemas. A Kunlun se puede llegar en barco desde Alberta."
 		},
-		Summary = "Extermina a los Unakshun."
+		Summary = "Extermina a los Ermitaños Taoísta"
 	},
 	[21072] = {
-		Title = "Anciano en las nubes (en espera)",
+		Title = "[Espera] Anciano en las nubes",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
@@ -50543,126 +51961,126 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21101] = {
-		Title = "Cacería de la mosca cazadora",
+		Title = "Edén: Cacería de la mosca cazadora",
 		Description = {
 			"La Torre de Geffen organiza una campaña de exterminio de monstruos de las mazmorras en colaboración con el Grupo del Edén. Demuestra tus habilidades derrotando a 10 Moscas cazadoras en el piso 1 de la mazmorra subterránea de Geffen."
 		},
 		Summary = "Derrota a 10 Moscas cazadoras."
 	},
 	[21102] = {
-		Title = "Cacería de la Mosca cazadora (en espera)",
+		Title = "[Espera] Cacería de la Mosca cazadora",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21103] = {
-		Title = "Cacería de Moscas cazadoras hoy",
+		Title = "Edén: Cacería de Moscas cazadoras",
 		Description = {
 			"Los monstruos del sótano de la Torre de Geffen siguen multiplicándose cada día. Derrota a 10 Moscas cazadoras hoy de nuevo."
 		},
 		Summary = "Derrota a 10 Moscas cazadoras."
 	},
 	[21104] = {
-		Title = "Cacería de Necrófagos y Jakk",
+		Title = "Edén: Cacería de Necrófagos y Jakk",
 		Description = {
 			"La Torre de Geffen colabora con el Grupo del Edén para derrotar a los monstruos de las mazmorras. Baja al piso 2 de la mazmorra de Geffen y derrota a 10 Necrófagos y a 10 Jakk."
 		},
 		Summary = "Derrota a 10 Necrófagos y a 10 Jakk."
 	},
 	[21105] = {
-		Title = "Cacería de Necrófagos y Jakk (en espera)",
+		Title = "[Espera] Cacería de Necrófagos y Jakk",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21106] = {
-		Title = "Cacería de Necrófagos y Jakk de nuevo hoy",
+		Title = "Edén: Cacería de Necrófagos y Jakk",
 		Description = {
 			"Los monstruos del sótano de la Torre de Geffen siguen multiplicándose cada día. Hoy, mata a 10 Necrófagos y a 10 Jakk."
 		},
 		Summary = "Derrota a 10 Necrófagos y a 10 Jakk."
 	},
 	[21107] = {
-		Title = "Cacería de Marionetas y Deviruchi",
+		Title = "Edén: Cacería de Marionetas y Deviruchi",
 		Description = {
 			"Derrota a 10 Marionetas y 10 Deviruchi que viven en el piso 3 del sótano de la Torre de Geffen."
 		},
 		Summary = "Derrota a 10 Marionetas y a 10 Deviruchi."
 	},
 	[21108] = {
-		Title = "Cacería de Marionetas y Deviruchi (en espera)",
+		Title = "[Espera] Cacería de Marionetas y Deviruchi",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21109] = {
-		Title = "Cacería de Marionetas y Deviruchi (otra vez)",
+		Title = "Edén: Cacería de Marionetas y Deviruchi",
 		Description = {
 			"Cada vez hay más monstruos en el sótano de la Torre de Geffen. Derrota a 10 Marionetas y a 10 Deviruchi."
 		},
 		Summary = "Derrota a 10 Marionetas y 10 Deviruchi."
 	},
 	[21110] = {
-		Title = "Pesadilla galopante",
+		Title = "Edén: Pesadilla galopante",
 		Description = {
 			"El hombre afirma que no puede dormir porque hay pesadillas en las mazmorras de la Torre de Geffen. Nos parece más bien increíble, pero matemos a 10 Pesadillas de todos modos."
 		},
 		Summary = "Derrota a 10 Pesadillas."
 	},
 	[21111] = {
-		Title = "Pesadilla galopante (en espera)",
+		Title = "[Espera] Pesadilla galopante",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el hombre cansado en Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21112] = {
-		Title = "Pesadilla galopante",
+		Title = "Edén: Pesadilla galopante",
 		Description = {
 			"El hombre dice que hoy volvió a tener pesadillas y te pide que vuelvas a encargarte de las Pesadillas. ¿Acaso las pesadillas son el problema? De todos modos, eliminemos a 10 Pesadillas."
 		},
 		Summary = "Derrota a 10 Pesadillas."
 	},
 	[21113] = {
-		Title = "Adorables Petite voladores",
+		Title = "Edén: Adorables Petite voladores",
 		Description = {
 			"El chico dice que no puede acercarse a los Petite porque son demasiado agresivos, así que te pide que vayas a buscarle un Petite amable. Intenta acariciar a un Petite en su hábitat y trae un Petite que no te ataque. ¡Si te atacan, tendrás que enfrentarte a ellos!"
 		},
 		Summary = "Derrota a 10 Petite voladores."
 	},
 	[21114] = {
-		Title = "Adorables Petite voladores (en espera)",
+		Title = "[Espera] Adorables Petite voladores",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de mensajes del Grupo del Edén o con un chico Petite en Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21115] = {
-		Title = "Petite adorable en el aire de nuevo hoy",
+		Title = "Edén: Petite adorable en el aire",
 		Description = {
 			"Acerquémonos a los Petite y saludemos. Si te saludan, tráelos de vuelta, pero si te atacan, ¡defiéndete!"
 		},
 		Summary = "Derrota a 10 Petite voladores."
 	},
 	[21116] = {
-		Title = "Adorables Petite terrestres",
+		Title = "Edén: Adorables Petite terrestres",
 		Description = {
 			"El chico dice que un Petite terrestre está bien y quiere que vayas a la colonia de Petite terrestres y le traigas una mascota que no ataque. ¿Con cuántos Petite debes enfrentarte para encontrar uno que no ataque?"
 		},
 		Summary = "Derrota a 10 Petite terrestres."
 	},
 	[21117] = {
-		Title = "Adorables Petite terrestres (en espera)",
+		Title = "[Espera] Adorables Petite terrestres",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con el chico Petite en Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21118] = {
-		Title = "Petite también es adorable en la tierra",
+		Title = "Edén: Adorables Petite terrestres (en espera)",
 		Description = {
 			"Acerquémonos a los Petite y saludemos. Si te saludan, tráelos de vuelta, pero si te atacan, ¡defiéndete!"
 		},
@@ -50673,21 +52091,21 @@ QuestInfoList = {
 		Description = {
 			"Kale fue engañado para que entrara en un peligroso naufragio. Ve al barco hundido, rescata a Kale y derrota a 10 Skell señores del fuego para mantenerlo a salvo."
 		},
-		Summary = "Derrota a 10 Skell señores del fuego."
+		Summary = "Derrota a 10 Esqueleto Pirata"
 	},
 	[21121] = {
-		Title = "Vigila a un amigo (en espera)",
+		Title = "[Espera] Rescata a un amigo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Timothy en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21122] = {
-		Title = "Rescata a tus amigos de nuevo hoy",
+		Title = "Edén: Rescata a tus amigos",
 		Description = {
-			"Derrota a 20 Calaveras del equipo de fuego para Kale, luego captúralo y tráelo de vuelta."
+			"Derrota a 20 Esqueleto Pirata para Kale, luego captúralo y tráelo de vuelta."
 		},
-		Summary = "Derrotaste a 20 Calaveras de equipo de fuego."
+		Summary = "Derrota a 20 Esqueleto Pirata"
 	},
 	[21123] = {
 		Title = "Preocupación de bibliotecario",
@@ -50711,14 +52129,14 @@ QuestInfoList = {
 		Summary = "Mata a 10 Kukre."
 	},
 	[21126] = {
-		Title = "Hígado de Kukre cocido (en espera)",
+		Title = "[Espera] Hígado de Kukre cocido",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21127] = {
-		Title = "Todavía comemos hígado de Kukre",
+		Title = "Edén: Hígado de Kukre para comer",
 		Description = {
 			"Hoy cazamos los tesoros que se habrían comido los Kukre."
 		},
@@ -50732,14 +52150,14 @@ QuestInfoList = {
 		Summary = "Oculta 10 monedas antiguas en el barco hundido."
 	},
 	[21129] = {
-		Title = "Lógica económica para crear sin (en espera)",
+		Title = "[Espera] Lógica económica para crear sin",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21130] = {
-		Title = "La lógica económica de crear sin hoy",
+		Title = "Edén: La lógica económica de crear sin hoy",
 		Description = {
 			"Hoy, escondamos monedas antiguas en los barco hundidos para motivar a los trotamundos."
 		},
@@ -50774,147 +52192,147 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21135] = {
-		Title = "Limpieza del barco hundido, piso 1 (en espera)",
+		Title = "[Espera] Limpieza del barco hundido, piso 1",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21136] = {
-		Title = "Limpieza del barco hundido, piso 1 ",
+		Title = "Edén: Limpieza del barco hundido, piso 1",
 		Description = {
 			"Para cumplir tu promesa al fantasma de Drake, derrota a los monstruos del piso 1 del barco hundido y recolecta 10 Fragmentos de hueso, 5 Caparazones de gusano y 5 Tentáculos."
 		},
 		Summary = "Derrota a la Hidra y recolecta la basura."
 	},
 	[21137] = {
-		Title = "Limpieza del barco hundido, piso 2 (en espera)",
+		Title = "[Espera] Limpieza del barco hundido, piso 2",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21138] = {
-		Title = "Limpieza del barco hundido, piso 2",
+		Title = "Edén: Limpieza del barco hundido, piso 2",
 		Description = {
 			"Para cumplir nuestra promesa al fantasma de Drake, enfrentémonos a los monstruos del piso 2 del barco hundido."
 		},
 		Summary = "10 Susurros y Cráneo de Marinero Veloz"
 	},
 	[21140] = {
-		Title = "Una peregrinación pacífica",
+		Title = "Edén: Una peregrinación pacífica",
 		Description = {
 			"Caza a 30 Roween en el aeropuerto de Rachel para proteger a los peregrinos y trotamundos que entran y salen de Rachel."
 		},
 		Summary = "Mata a 30 Roween."
 	},
 	[21141] = {
-		Title = "Una peregrinación pacífica (en espera)",
+		Title = "[Espera] Una peregrinación pacífica",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el Guardia del aeropuerto en las llanuras de Ida en Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21142] = {
-		Title = "Una peregrinación pacífica",
+		Title = "Edén: Una peregrinación pacífica",
 		Description = {
 			"El aeropuerto de Rachel sigue lleno de gente hoy en día. Para evitar que los débiles salgan lastimados, caza a 30 Roween."
 		},
-		Summary = "Mata a 30 Roween."
+		Summary = "Mata a 30 Roween"
 	},
 	[21143] = {
-		Title = "Guardián de la belleza",
+		Title = "Edén: Guardián de la belleza",
 		Description = {
-			"Los Siroma del piso 1 de la Cueva de hielo le hicieron cosas indecibles al joven. Es una pena, pero… mata a 30 Siroma y ayúdale a vengarse."
+			"Los Siroma del piso 1 de la Cueva de hielo le hicieron cosas indecibles al joven. Es una pena, pero... mata a 30 Siroma y ayúdale a vengarse."
 		},
 		Summary = "Derrota a 30 Siroma."
 	},
 	[21144] = {
-		Title = "Guardián de la belleza (en espera)",
+		Title = "[Espera] Guardián de la belleza",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Leonard en Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21145] = {
-		Title = "El guardián de la belleza",
+		Title = "Edén: El guardián de la belleza",
 		Description = {
 			"No sé si debería enojarme tanto, pero aun así castigaré a los que no hacen nada bueno. Consigamos 30 Siroma hoy."
 		},
 		Summary = "Derrota a 30 Siroma."
 	},
 	[21146] = {
-		Title = "Piedra tragapiedras",
+		Title = "Edén: Piedra tragapiedras",
 		Description = {
 			"Para ayudar a los aldeanos que se ganan la vida recolectando minerales, derrota a 30 Stapo para darles tiempo de recolectarlos."
 		},
 		Summary = "Derrota a 30 Stapo."
 	},
 	[21147] = {
-		Title = "Piedra tragapiedras (en espera)",
+		Title = "[Espera] Piedra tragapiedras",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Craven en Veins."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21148] = {
-		Title = "Piedra tragapiedras",
+		Title = "Edén: Piedra tragapiedras",
 		Description = {
 			"Vamos a cazar 30 Stapo, quienes se tragan minerales, piedras y cualquier cosa que encuentren, para que los aldeanos puedan recolectar minerales."
 		},
 		Summary = "Asesina 30 Stapo."
 	},
 	[21149] = {
-		Title = "Explorar la Isla Tortuga",
+		Title = "Edén: Explorar la Isla Tortuga",
 		Description = {
 			"De todos modos, no podrás buscar a los caballeros extraviados. Ve a la Isla Tortuga, atrapa tantas Colas de dragón y Conejos de primavera como puedas y avísame."
 		},
 		Summary = "10 Colas de dragón y 10 Conejos de Primavera"
 	},
 	[21150] = {
-		Title = "Explorar la Isla Tortuga (en espera)",
+		Title = "[Espera] Explorar la Isla Tortuga",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con Tibalt, caballero de Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21151] = {
-		Title = "Exploración de la isla Tortuga de nuevo hoy",
+		Title = "Edén: Exploración de la isla Tortuga",
 		Description = {
 			"Caza 10 Colas de dragón y 10 Conejos de primavera para los Segundos caballeros de isla Tortuga."
 		},
 		Summary = "10 Colas de dragón y 10 Conejos de primavera asesinados."
 	},
 	[21152] = {
-		Title = "Derrota enjambre de tortugas 1",
+		Title = "Edén: Derrota a las Tortugas 1",
 		Description = {
 			"Según los informes, hay personas dentro de las mazmorras de la Isla Tortuga. Para que quienes exploran la mazmorra no corran riesgos, caza a los Solider y a los Permeter."
 		},
 		Summary = "Mata a 10 Solider y a 10 Permutation."
 	},
 	[21153] = {
-		Title = "Derrota a las Tortugas hoy de nuevo 1",
+		Title = "Edén: Derrota a las Tortugas 1",
 		Description = {
 			"Para mantener a los Segundos caballeros de la isla Tortuga a salvo, ayudémosles cazando a los Solider y a los Permutator."
 		},
 		Summary = "Derrotaste a 10 Solider y a 10 Permeter."
 	},
 	[21154] = {
-		Title = "Habilidad de tortuga 2",
+		Title = "Edén: Derrota a las Tortugas 2",
 		Description = {
 			"Según los informes, hay humanos dentro de las mazmorras de la Isla Tortuga. Para que quienes exploran la mazmorra no corran riesgos, caza Congeladores y Calentadores."
 		},
 		Summary = "Derrotaste a 10 Congeladores y a 10 Calentadores."
 	},
 	[21155] = {
-		Title = "Acaba con las hordas de tortugas de nuevo hoy 2",
+		Title = "Edén: Derrota a las Tortugas 2",
 		Description = {
 			"Para mantener a los Segundos caballeros de la isla Tortuga a salvo, caza a Frieza y a Tirador para ayudarles."
 		},
 		Summary = "Derrotaste a 10 Congeladores y a 10 Calentadores."
 	},
 	[21156] = {
-		Title = "Mata a un grupo de tortugas (en espera)",
+		Title = "[Espera] Horda de Tortugas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con Tibalt, caballero de Alberta."
 		},
@@ -50928,25 +52346,25 @@ QuestInfoList = {
 		Summary = "Habla con el líder templario desaparecido en la isla Tortuga."
 	},
 	[21158] = {
-		Title = "Cacería de los Ursuline",
+		Title = "Edén: Cacería de Atacantes",
 		Description = {
-			"Para ayudar al templario a orientarse, mata a 10 Ursuline."
+			"Para ayudar al templario a orientarse, mata a 10 Atacantes."
 		},
-		Summary = "Derrota a 10 Ursuline."
+		Summary = "Derrota a 10 Atacantes"
 	},
 	[21159] = {
-		Title = "Cacería de apartamentos (en espera)",
+		Title = "[Espera] Cacería de Atacantes",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla desde el tablón de anuncios del Grupo del Edén o con el capitán templario de la aldea Foster."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21160] = {
-		Title = "Cacería de Ursuline hoy",
+		Title = "Edén: Cacería de Atacantes",
 		Description = {
-			"Para ayudar al templario en su misión, matemos de nuevo a 10 Ursuline hoy."
+			"Para ayudar al templario en su misión, matemos de nuevo a 10 Atacantes."
 		},
-		Summary = "Derrota a 10 Ursuline."
+		Summary = "Derrota a 10 Atacantes"
 	},
 	[21161] = {
 		Title = "Entrega de la decisión",
@@ -50956,39 +52374,39 @@ QuestInfoList = {
 		Summary = "Habla con el caballero Tibald."
 	},
 	[21162] = {
-		Title = "Ocultar las monedas antiguas",
+		Title = "Edén: Ocultar las monedas antiguas",
 		Description = {
 			"Escondamos monedas antiguas en un naufragio."
 		},
-		Summary = "Oculta una moneda antigua en un naufragio."
+		Summary = "Oculta monedas antiguas en el barco hundido"
 	},
 	[21163] = {
-		Title = "Vuelve a ocultar la moneda antigua",
+		Title = "Edén: Vuelve a ocultar la moneda antigua",
 		Description = {
 			"Escondamos algunas monedas antiguas en el barco hundido."
 		},
-		Summary = "Oculta monedas antiguas en un naufragio."
+		Summary = "Oculta monedas antiguas en el barco hundido"
 	},
 	[21164] = {
-		Title = "Sigue ocultando monedas antiguas",
+		Title = "Edén: Sigue ocultando monedas antiguas",
 		Description = {
 			"Escondamos monedas antiguas en el barco hundido."
 		},
-		Summary = "Oculta monedas antiguas en el naufragio."
+		Summary = "Oculta monedas antiguas en el barco hundido"
 	},
 	[21165] = {
-		Title = "Sigue ocultando monedas antiguas",
+		Title = "Edén: Sigue ocultando monedas antiguas",
 		Description = {
 			"Escondamos las monedas antiguas en el barco hundido."
 		},
-		Summary = "Sigue ocultando monedas antiguas en los barcos hundidos."
+		Summary = "Sigue ocultando monedas antiguas en el barco hundido"
 	},
 	[21166] = {
-		Title = "Oculta todas las monedas antiguas",
+		Title = "Edén: Oculta todas las monedas antiguas",
 		Description = {
 			"Escondamos las monedas antiguas en el naufragio."
 		},
-		Summary = "Oculta todas las monedas antiguas en el barco hundido."
+		Summary = "Oculta todas las monedas antiguas en el barco hundido"
 	},
 	[21167] = {
 		Title = "La gente confía",
@@ -51166,14 +52584,14 @@ QuestInfoList = {
 		Summary = "Habla con el aprendiz"
 	},
 	[21202] = {
-		Title = "Tipos que estorban",
+		Title = "Edén: Tipos que estorban",
 		Description = {
 			"El aprendiz del Viejo erudito, a quien encontraste en un rincón del desierto, dice que no puede avanzar por culpa de los Hombres de arena, y te pide que los derrotes y le traigas ^4d4dff5 Trozos de arena^000000."
 		},
 		Summary = "5 Trozos de arena."
 	},
 	[21203] = {
-		Title = "Tipos que estorban (en espera)",
+		Title = "[Espera] Tipos que estorban",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el Chico errante en el desierto al este de Morroc."
 		},
@@ -51187,14 +52605,14 @@ QuestInfoList = {
 		Summary = "1 Pala de campo."
 	},
 	[21205] = {
-		Title = "Insomne",
+		Title = "Edén: Insomne",
 		Description = {
 			"Una solicitud de Rumin, miembro del gremio de Ladrones. Dice que a los miembros del gremio les incomodan los Verit y Minorous que se encuentran debajo el gremio. Derrota a los Verit y a los Minorous."
 		},
 		Summary = ""
 	},
 	[21206] = {
-		Title = "Insomne (en espera)",
+		Title = "[Espera] Insomne",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Rumin en las ruinas de Morroc."
 		},
@@ -51210,7 +52628,7 @@ QuestInfoList = {
 	[21208] = {
 		Title = "Una Momia y una Caja antigua azul",
 		Description = {
-			"Los amigos de Ernest creen que el Recuerdo de la Momia está en una Caja antigua azul. Quieren que derrotes a algunas Momias para conseguir más cofres y comprobarlo nuevamente…"
+			"Los amigos de Ernest creen que el Recuerdo de la Momia está en una Caja antigua azul. Quieren que derrotes a algunas Momias para conseguir más cofres y comprobarlo nuevamente..."
 		},
 		Summary = "1 Recuerdo."
 	},
@@ -51243,56 +52661,56 @@ QuestInfoList = {
 		Summary = "1 Papiro antiguo."
 	},
 	[21213] = {
-		Title = "Derrota a Isis",
+		Title = "Edén: Derrota a Isis",
 		Description = {
 			"Te piden que derrotes a Isis ya que supone un obstáculo para la investigación. Isis se encuentra en el piso 2 y 4 de la pirámide."
 		},
 		Summary = ""
 	},
 	[21214] = {
-		Title = "Derrota a Isis (en espera)",
+		Title = "[Espera] Derrota a Isis",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un ayudante en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21215] = {
-		Title = "Trabajadores de la esfinge",
+		Title = "Edén: Trabajadores de la esfinge",
 		Description = {
 			"Te pidieron que derrotes a Zerom y Réquiem ya que están interfiriendo con la investigación de la esfinge. Zerom y Réquiem se encuentran en piso 1 y 2 de la esfinge."
 		},
 		Summary = ""
 	},
 	[21216] = {
-		Title = "Trabajadores de la esfinge (en espera)",
+		Title = "[Espera] Trabajadores de la esfinge",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Ernest en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21217] = {
-		Title = "Secretos de la esfinge",
+		Title = "Edén: Secretos de la esfinge",
 		Description = {
 			"Se te pidió que consigas más Papiro para la investigación y que derrotes a Marduk y Pasana para facilitar la exploración de la pirámide."
 		},
 		Summary = "10 Papiros antiguos."
 	},
 	[21218] = {
-		Title = "Secretos de la esfinge (en espera)",
+		Title = "[Espera] Secretos de la esfinge",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Ernest en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21219] = {
-		Title = "Una Momia y una Caja antigua azul",
+		Title = "Edén: Una Momia y una Caja antigua azul",
 		Description = {
 			"Maxim y su grupo te piden que derrotes a 10 ^4d4dffMomias y traigas 1^000000 Recuerdo."
 		},
 		Summary = "1 Recuerdo."
 	},
 	[21220] = {
-		Title = "Una Momia y una Caja antigua azul (en espera)",
+		Title = "[Espera] Una Momia y una Caja antigua azul",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla con Maxim, el líder de la pirámide."
 		},
@@ -51306,14 +52724,14 @@ QuestInfoList = {
 		Summary = "Lucha contra Peco Pecos y Mukas."
 	},
 	[21222] = {
-		Title = "Amigos ruidosos",
+		Title = "Edén: Amigos ruidosos",
 		Description = {
 			"Decidí aceptar solicitudes de los lugareños. Primero recibí una solicitud para exterminar a los Peco Peco y a los Muka, algo que ya había hecho antes. Las quejas vienen principalmente del campo situado al suroeste de Izlude, y todas dicen que hay demasiado ruido."
 		},
 		Summary = "Lucha contra Peco Pecos y Mukas."
 	},
 	[21223] = {
-		Title = "Amigos ruidosos (en espera)",
+		Title = "[Espera] Amigos ruidosos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Phontes en Izlude."
 		},
@@ -51327,14 +52745,14 @@ QuestInfoList = {
 		Summary = "Derrota a los Muka y a los Metaleros."
 	},
 	[21225] = {
-		Title = "Huevos y saltamontes",
+		Title = "Edén: Huevos y saltamontes",
 		Description = {
 			"Una solicitud de la instructora Phontes para el entrenamiento. Te pide que derrotes a los Muka y a los Metaleros que aparecen al salir de Izlude en dirección al suroeste o al sur del suroeste. Si ya derrotaste a los Muka y a los Peco Peco antes, reconocerás el campo al acercarte."
 		},
 		Summary = "Derrota a los Muka y a los Metaleros."
 	},
 	[21226] = {
-		Title = "Huevos y saltamontes (en espera)",
+		Title = "[Espera] Huevos y saltamontes",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con la instructora Phontes en Izlude."
 		},
@@ -51348,14 +52766,14 @@ QuestInfoList = {
 		Summary = "Habla con Helden el universitario"
 	},
 	[21228] = {
-		Title = "¡Recolectar muestras es más difícil de lo que parece!",
+		Title = "Edén: ¡Recolectar muestras es más difícil de lo que parece!",
 		Description = {
 			"Helden necesita muestras de biología, pero le da mucho miedo entrar a la mazmorra. Te pide que caces Marinas y Plancton, que se encuentran en el piso 1 del Túnel submarino, y obtengas el espécimen “Célula única”."
 		},
 		Summary = "10 Células únicas."
 	},
 	[21229] = {
-		Title = "¡Recolectar muestras es más difícil de lo que parece! (en espera)",
+		Title = "[Espera] ¡Recolectar muestras es más difícil de lo que parece!",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con Helden, un estudiante universitario que está en la Isla Byalan."
 		},
@@ -51369,21 +52787,21 @@ QuestInfoList = {
 		Summary = "5 Pinzas."
 	},
 	[21231] = {
-		Title = "Seguir la corriente",
+		Title = "Edén: Seguir la corriente",
 		Description = {
 			"El gato comerciante te pide que le consigas más Pinzas porque cree que su Talismán de pinzas será todo un éxito. Los Vadon se encuentran en el piso 2 del Túnel submarino de Isla Byalan."
 		},
 		Summary = "5 Pinzas."
 	},
 	[21232] = {
-		Title = "Seguir la corriente (en espera)",
+		Title = "[Espera] Seguir la corriente",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de anuncios del Grupo del Edén o con el Comerciante errante en la Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
 	[21233] = {
-		Title = "¿No tener noticias es una buena noticia…? 1",
+		Title = "¿No tener noticias es una buena noticia...? 1",
 		Description = {
 			"Ernest, uno de los alumnos del grupo de investigación de Juno, está preocupado porque no ha recibido noticias de sus compañeros mientras él se recupera y reposa por sus heridas. Ve al piso 3 del Túnel submarino de Isla Byalan, busca al grupo y al líder Maxim y cuéntales lo que te dijo Ernest."
 		},
@@ -51397,42 +52815,42 @@ QuestInfoList = {
 		Summary = "10 unidades de Tinta de calamar."
 	},
 	[21235] = {
-		Title = "Dama soñada",
+		Title = "Edén: Dama soñada",
 		Description = {
 			"Nonda Ankana está muy borracho. No para de hablar de una mujer que conoció mientras estaba ebrio, pero diga lo que diga, era una Obeaune. Te pidió que confirmes si la mujer que vio era efectivamente una Obeaune. Derrota a Obeaune y toma el corazón de la sirena como prueba."
 		},
 		Summary = "1 Corazón de Obeaune"
 	},
 	[21236] = {
-		Title = "¿No tener noticias es una buena noticia…? 2",
+		Title = "¿No tener noticias es una buena noticia...? 2",
 		Description = {
 			"Kusekili te pidió que le entregues a Ernest la Sopa de tinta de calamar con huevos de rana que hizo. ¡Muy bien! Vamos a dársela."
 		},
 		Summary = "Entrega la Sopa de tinta a Ernest"
 	},
 	[21237] = {
-		Title = "Hoy por ti, mañana por mí",
+		Title = "Edén: Hoy por ti, mañana por mí",
 		Description = {
 			"A Ernest le molesta el comportamiento despreocupado del grupo, pero también le conmueve que se preocupen por él. Te pide que elimines a los amenazantes Peces espada y Marc del piso 4 para que el grupo pueda investigar con más calma."
 		},
 		Summary = "Derrota a los Peces espada y a los Marc."
 	},
 	[21238] = {
-		Title = "Hoy por ti, mañana por mí (en espera)",
+		Title = "[Espera] Hoy por ti, mañana por mí",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un ayudante en la mazmorra de Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
 	[21239] = {
-		Title = "Entrega de ingredientes",
+		Title = "Edén: Entrega de ingredientes",
 		Description = {
 			"Kusekili no investiga mucho en las mazmorras, solo cocina. Si logras encontrar al menos un ingrediente en la mazmorra, podrá cocinar algo increíble. Derrota a los Marse y obtén su tinta."
 		},
 		Summary = "10 unidades de Tinta de calamar."
 	},
 	[21240] = {
-		Title = "Entrega de ingredientes (en espera)",
+		Title = "[Espera] Entrega de ingredientes",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Kusekili en la mazmorra de Isla Byalan."
 		},
@@ -51446,21 +52864,21 @@ QuestInfoList = {
 		Summary = "1 Aleta y 1 Labio antiguo."
 	},
 	[21242] = {
-		Title = "Estorbo de guardias",
+		Title = "Edén: Estorbo de guardias",
 		Description = {
 			"Maxim quiere visitar el templo subterráneo después de darse cuenta de que Strouf no era un dios del mar, pero Strouf y Tritón le parecen muy molestos, así que te pidió que los elimines."
 		},
 		Summary = "Derrota a Strouf y a Tritón."
 	},
 	[21243] = {
-		Title = "Estorbo de guardias (en espera)",
+		Title = "[Espera] Estorbo de guardias",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Maxim en la mazmorra de Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
 	[21244] = {
-		Title = "Dama soñada (en espera)",
+		Title = "[Espera] Dama soñada",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nonda Ankana en la mazmorra de Isla Byalan."
 		},
@@ -51488,42 +52906,42 @@ QuestInfoList = {
 		Summary = "Derrota al Ambarnito."
 	},
 	[21249] = {
-		Title = "Operación de estabilización del patio de juegos - Avispón",
+		Title = "Edén: Operación de estabilización del patio de juegos - Avispón",
 		Description = {
 			"Afuera de las puertas de Prontera, un chico llamado Paul te pregunta si eres fuerte y, si es así, si puedes ayudarle a matar a un avispón. Le advirtieron que no jugara afuera, porque las abejas que escaparon de la colmena derribada por accidente se volvieron salvajes y peligrosas. Ayuda a proteger el parque infantil matando a los avispones."
 		},
 		Summary = "Derrota a los Avispones."
 	},
 	[21250] = {
-		Title = "Operación de estabilización del patio de juegos - Rockero",
+		Title = "Edén: Operación de estabilización del patio de juegos - Rockero",
 		Description = {
 			"Afuera de la puerta oeste de Prontera, un chico llamado Paul te pide que protejas los campos del oeste de una amenaza invisible. Dice que hay una población local de langostas gigantes justo al sur, y que no sabe cuándo invadirán los campos de oeste. Tranquilízalo derrotando a los Rockero en los campos al suroeste de Prontera."
 		},
 		Summary = "Derrota los Rockeros."
 	},
 	[21251] = {
-		Title = "¡El legendario caballero Ambarnito!",
+		Title = "Edén: ¡El legendario caballero Ambarnito!",
 		Description = {
 			"Afuera de la puerta oeste de Prontera, una chica llamada Anne te dice que n hombre, Hohenhallhoch, le dijo que posiblemente el temible Ambarnito está avanzando hacia Prontera desde los campos del oeste, y ella quiere que lo detengas. Derrota al Ambarnito para que se sienta a salvo."
 		},
 		Summary = "Derrota al Ambarnito."
 	},
 	[21252] = {
-		Title = "Operación de estabilización del patio de juegos - Avispón (En espera)",
+		Title = "[Espera] Operación de estabilización del patio de juegos - Avispón",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén o en el poste afuera de las puertas de Prontera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21253] = {
-		Title = "Operación de estabilización del patio de juegos - Rockero (en espera)",
+		Title = "[Espera] Operación de estabilización del patio de juegos - Rockero",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o en el poste afuera de las puertas de Prontera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21254] = {
-		Title = "¡El legendario caballero Ambarnito! En espera",
+		Title = "[Espera] ¡El legendario caballero Ambarnito!",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Anne afuera de las puertas de Prontera."
 		},
@@ -51537,7 +52955,7 @@ QuestInfoList = {
 		Summary = "Habla con el personal de la oficina de los Templarios."
 	},
 	[21256] = {
-		Title = "Orcos, ¡operación perdida!",
+		Title = "Edén: Orcos, ¡operación perdida!",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Me uní al exterminio de los Orcos. El líder exclamó con curiosidad: “¡Acabemos con las familias ^4d4dffGuerrero orco, Dama orco y Bebé orco^000000!” ¡Estemos a la altura de las expectativas y acabemos con ellos!"
@@ -51545,7 +52963,7 @@ QuestInfoList = {
 		Summary = "Mata a un Guerrero Orco, una Dama y un Bebé."
 	},
 	[21257] = {
-		Title = "¡Orcos, ¡operación perdida! (en espera)",
+		Title = "[Espera] ¡Orcos, ¡operación perdida!",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con los exterminadores del Pueblo de los Orcos."
@@ -51553,7 +52971,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21258] = {
-		Title = "Orcos extenuantes",
+		Title = "Edén: Orcos extenuantes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"En las mazmorras bajo el Pueblo de los Orcos, residen Zombis orcos muertos vivientes y Esqueletos orcos. Deshagámonos de estos orcos impíos."
@@ -51561,7 +52979,7 @@ QuestInfoList = {
 		Summary = "Derrota a los zombis y esqueletos Orco."
 	},
 	[21259] = {
-		Title = "Orcos extenuantes (en espera)",
+		Title = "[Espera] Orcos extenuantes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con los exterminadores del Pueblo de los Orcos."
@@ -51569,7 +52987,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21260] = {
-		Title = "Avaro",
+		Title = "Edén: Avaro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"En el piso 2 de los túneles subterráneos del Pueblo de los Orcos, hay un Orco deforme llamado “Zenorc”, que nunca ha visto la luz del sol y se volvió codicioso. Derrota a esta criatura codiciosa."
@@ -51577,7 +52995,7 @@ QuestInfoList = {
 		Summary = "Derrota a Zenorc."
 	},
 	[21261] = {
-		Title = "Avaro (en espera)",
+		Title = "[Espera] Avaro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con los exterminadores del Pueblo de los Orcos."
@@ -51585,7 +53003,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21262] = {
-		Title = "Exterminio de duendes feroces",
+		Title = "Edén: Exterminio de duendes feroces",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Al sur del Pueblo de los Orcos, un pequeño grupo de Duendes vive en una aldea. El subjefe de los exterminadores te pide ayuda para exterminar a los Duendes. Dice que, igual que con los Orcos, hay que impedir que expandan su territorio."
@@ -51593,7 +53011,7 @@ QuestInfoList = {
 		Summary = "Derrota a los Duendes con hacha y a los Duendes con mangual."
 	},
 	[21263] = {
-		Title = "Exterminio de duendes feroces (en espera)",
+		Title = "[Espera] Exterminio de duendes feroces",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
@@ -51601,7 +53019,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21264] = {
-		Title = "Exterminio de duendes elegantes",
+		Title = "Edén: Exterminio de duendes veloces",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Al sur del Pueblo de los Orcos, hay un pequeño clan de Duendes. El subjefe de los exterminadores te pide ayuda para exterminar a los Duendes. Dice que, igual que con los Orcos, hay que impedir que expandan su territorio."
@@ -51609,7 +53027,7 @@ QuestInfoList = {
 		Summary = "Derrota a los Duendes con martillo y Duendes con daga."
 	},
 	[21265] = {
-		Title = "Exterminio de duendes elegantes - (en espera)",
+		Title = "[Espera] Exterminio de duendes veloces",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
@@ -51641,7 +53059,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21269] = {
-		Title = "Criaturas problemáticas",
+		Title = "Edén: Criaturas problemáticas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Algunos duendes expandieron su territorio hacia los campos al este del clan de duendes. El vicecapitán de los Ravager ordenó exterminar a los duendes. Dijo que hay que detener cualquier nueva expansión."
@@ -51649,7 +53067,7 @@ QuestInfoList = {
 		Summary = "Los Duendes con Lucero del alba matan al Duende Arquero."
 	},
 	[21270] = {
-		Title = "Criaturas problemáticas (en espera)",
+		Title = "[Espera] Criaturas problemáticas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
@@ -51664,28 +53082,28 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21272] = {
-		Title = "Limpieza del monasterio",
+		Title = "Edén: Limpieza del monasterio",
 		Description = {
 			"Claude te pidió que te encargaras de los Espectros muertos vivientes y los Druidas del mal que están dentro del monasterio. Si logras encontrar a un sacerdote en el interior haciendo la limpieza, él debería ayuda de alguna manera."
 		},
 		Summary = "Espectro y Druida del mal muertos."
 	},
 	[21273] = {
-		Title = "Limpieza del monasterio (en espera)",
+		Title = "[Espera] Limpieza del monasterio",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o en el terrón que hay frente al monasterio de Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21274] = {
-		Title = "Catacumbas estabilizadas",
+		Title = "Edén: Catacumbas estabilizadas",
 		Description = {
 			"Los viejos sacerdotes enterrados en las catacumbas del monasterio despertaron como muertos vivientes y están causando problemas. Derrota al Sacerdote oscuro y al Sacerdote oscuro furioso para ayudar a estabilizar el monasterio."
 		},
 		Summary = "Derrota al Sacerdote oscuro y al Sacerdote oscuro enfurecido."
 	},
 	[21275] = {
-		Title = "Catacumbas estabilizadas (en espera)",
+		Title = "[Espera] Catacumbas estabilizadas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o en el terrón que hay frente al monasterio de Glastheim."
 		},
@@ -51699,14 +53117,14 @@ QuestInfoList = {
 		Summary = "Habla con el guardia del paso fronterizo."
 	},
 	[21277] = {
-		Title = "Trabajo en un puesto de control fronterizo",
+		Title = "Edén: Trabajo en un puesto de control fronterizo",
 		Description = {
 			"Cesare, guardián del puesto de control fronterizo, dice que es demasiado trabajo para su limitado personal atender las quejas de los transeúntes, así que te pide que te encargues de los monstruos en el campo cerca del puesto de control."
 		},
 		Summary = "Derrota Geófrafos y Mantis."
 	},
 	[21278] = {
-		Title = "Trabajo en el puesto de control fronterizo (en espera)",
+		Title = "[Espera] Trabajo en el puesto de control fronterizo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Cesare en el puesto de control fronterizo."
 		},
@@ -51720,140 +53138,140 @@ QuestInfoList = {
 		Summary = "5 Pieles de Cabra montesa, 5 Plumas de Gran Peco."
 	},
 	[21280] = {
-		Title = "Por nuestra seguridad",
+		Title = "Edén: Por nuestra seguridad",
 		Description = {
 			"Los guardias responsables de la seguridad de la Academia Kiel Hyre están preocupados por el número de ataques de Arpías y Durmientes en el campo entre la academia y las cabañas. Entonces, solicitan que se extermine a las Arpías y a los Durmientes."
 		},
 		Summary = "Exterminio de Arpías y Durmientes"
 	},
 	[21281] = {
-		Title = "Por nuestra seguridad (en espera)",
+		Title = "[Espera] Por nuestra seguridad",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un guardia de la Academia Kiel Hyre."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21282] = {
-		Title = "Objeto empresarial innovador",
+		Title = "Edén: Objeto empresarial innovador",
 		Description = {
 			"El comerciante de Mano Gatuna que conociste frente a la Academia Kiel Hyre te pidió que consiguieras ^4d4dff10 Pieles de Cabra montesa y 10 Plumas Gran Peco^000000. Tiene previsto vender edredones y almohadas a los estudiantes."
 		},
 		Summary = "10 Pieles de Cabra montesa y 10 Plumas de Gran Peco."
 	},
 	[21283] = {
-		Title = "Objeto empresarial innovador (en espera)",
+		Title = "[Espera] Objeto empresarial innovador",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con en la tienda Pata de Gato de la Academia Kiel Hyre."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21284] = {
-		Title = "Un final seguro",
+		Title = "Edén: Un final seguro",
 		Description = {
 			"Una estudiante que estuvo vigilando al comerciante de Pata de Gato en la Academia Kiel Hyre hizo una solicitud adicional. Dice que hay demasiadas Cabras y Gran Pecos, asegúrate de derrotar algunos."
 		},
 		Summary = "Derrota Cabras y Gran Peco"
 	},
 	[21285] = {
-		Title = "Un final seguro (en espera)",
+		Title = "[Espera] Un final seguro",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un estudiante en Kil'hyr."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21286] = {
-		Title = "Limpieza del piso 1 de la Torre del reloj",
+		Title = "Edén: Limpieza del piso 1 de la Torre del reloj",
 		Description = {
 			"Esta es una solicitud de Serdin, el guardián de la Torre del reloj de Al De Baran. Quieres que le ayudes a limpiar la torre del reloj derrotando al libro endemoniado ^4d4dffRideword^000000 y al polvo ^4d4dffPunk^000000 en el piso 1 de la torre del reloj."
 		},
 		Summary = "Derrota a Rideward y a Punk."
 	},
 	[21287] = {
-		Title = "Limpieza del piso 1 de la Torre del reloj (en espera)",
+		Title = "[Espera] Limpieza del piso 1 de la Torre del reloj",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de anuncios del Grupo del Edén o con Serdin, el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21288] = {
-		Title = "Relojes que cobran vida y se mueven I",
+		Title = "Edén: Relojes que cobran vida y se mueven I",
 		Description = {
 			"En la Torre del reloj hay pequeños relojes que cobran vida. Cerdin, el maestro de los relojes, ordenó su destrucción. Dice que quienes olvidaron su verdadero propósito son imperdonables. Los Relojes se encuentran sobre todo en el piso 2 de la Torre del reloj."
 		},
 		Summary = "Derrota Relojes."
 	},
 	[21289] = {
-		Title = "Relojes que cobran vida y se mueven I (en espera)",
+		Title = "[Espera] Relojes que cobran vida y se mueven I",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de mensajes del Grupo del Edén o con Cerdin, el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21290] = {
-		Title = "Relojes que cobran vida y se mueven II",
+		Title = "Edén: Relojes que cobran vida y se mueven II",
 		Description = {
 			"Además de este reloj, había otro en la Torre del reloj. Este es más molesto que el reloj y te piden que lo mates porque sigue sonando sin avisar. Las Alarmas son más frecuentes en el piso 3 de la Torre del reloj."
 		},
 		Summary = "Derrota Alarmas."
 	},
 	[21291] = {
-		Title = "Relojes que cobran vida y se mueven II (en espera)",
+		Title = "[Espera] Relojes que cobran vida y se mueven II",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de mensajes del Grupo del Edén o con Cerdin, el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21292] = {
-		Title = "Risas en el sótano",
+		Title = "Edén: Risas en el sótano",
 		Description = {
 			"Bajo Al De Baran hay una mazmorra que, según se dice, conduce al sótano de la Torre del reloj. A Cerdin lo persigue el sonido de la risa de una bruja desde las profundidades. Te pide que exorcices a la bruja, porque tal vez ella sea la responsable del estado de la Torre del reloj."
 		},
 		Summary = "Mata Bathory."
 	},
 	[21293] = {
-		Title = "Risas en el sótano (en espera)",
+		Title = "[Espera] Risas en el sótano",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21294] = {
-		Title = "La guerra noble",
+		Title = "Edén: La guerra noble",
 		Description = {
 			"Ein, un pescador de Hugel, dice que los Cangrejos y los Áster que aparecen en la playa arruinan sus redes recortadas y tiene que volver a recortarlas cada vez. Entonces, te pide que extermines a los Cangrejos y Áster para evitar que arruinen sus redes."
 		},
 		Summary = "Extermina a los Cangrejos y Áster."
 	},
 	[21295] = {
-		Title = "La experiencia del molusqueo",
+		Title = "Edén: La experiencia del molusqueo",
 		Description = {
 			"Ein, un pescador de Hugel, sugiere que experimentes la vida de un auténtico pueblo de pescadores ya que estás en la ciudad balneario de Hugel. Si pescas las Almejas y traes su carne, te preparará un plato delicioso."
 		},
 		Summary = "Derrota a 10 Almejas y trae 5 unidades de Carne de almeja."
 	},
 	[21296] = {
-		Title = "Avería de tubería",
+		Title = "Edén: Avería de tubería",
 		Description = {
 			"El herrero Dry, encargado de las obras hidráulicas en Hugel, ha estado teniendo problemas con las tuberías de agua conectadas al Lago del abismo y te solicitó que extermines a los Novu que merodean por el lago."
 		},
 		Summary = "Derrota a 10 Novus amarillos y 10 Novus rojos."
 	},
 	[21297] = {
-		Title = "La Guerra Noble (en espera)",
+		Title = "[Espera] La Guerra Noble",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el pescador Ein en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21298] = {
-		Title = "La experiencia del molusqueo (en espera)",
+		Title = "[Espera] La experiencia del molusqueo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el pescador Ein en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21299] = {
-		Title = "Avería de tubería (en espera)",
+		Title = "[Espera] Avería de tubería",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el herrero Dry en Hugel."
 		},
@@ -51874,14 +53292,14 @@ QuestInfoList = {
 		Summary = "Habla con Friedrich."
 	},
 	[21302] = {
-		Title = "Limpia los alrededores, por favor.",
+		Title = "Edén: Limpia los alrededores, por favor.",
 		Description = {
 			"A petición de Friedrich, decidí limpiar la zona alrededor del edificio de la fábrica al exterminar a los Metaling y Holden que están excavando, comiendo y dañando cosas."
 		},
 		Summary = "Derrota a los Holden y a los Metaling."
 	},
 	[21303] = {
-		Title = "Limpia los alrededores, por favor (en espera)",
+		Title = "[Espera] Limpia los alrededores, por favor",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Friedrich en la zona de la fábrica de los campos de Einbrook."
 		},
@@ -51895,42 +53313,42 @@ QuestInfoList = {
 		Summary = "Habla con Atin."
 	},
 	[21305] = {
-		Title = "Minero sombrío",
+		Title = "Edén: Minero sombrío",
 		Description = {
 			"Te piden que te encargues de un Pitman problemático en la mina de carbón de Einbach. La mina de carbón de Einbach se encuentra dentro del pueblo. Concentrémonos en el piso 1 de la mina."
 		},
 		Summary = "Derrota a Pitman."
 	},
 	[21306] = {
-		Title = "Minero sombrío (en espera)",
+		Title = "[Espera] Minero sombrío",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Atin en Einbech."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21307] = {
-		Title = "¿Por qué se mueve esa cosa?",
+		Title = "Edén: ¿Por qué se mueve esa cosa?",
 		Description = {
 			"En la mina de carbón de Einbech, una estufa antigua que debía servir de lugar de descanso para los mineros se averió y empezó a atacarlos. Derrota a la Estufa antigua y trae la paz a las minas."
 		},
 		Summary = "Derrota a las Estufas antiguas."
 	},
 	[21308] = {
-		Title = "¿Por qué se mueve esa cosa? (en espera)",
+		Title = "[Espera] ¿Por qué se mueve esa cosa?",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Atin en Einbech."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21309] = {
-		Title = "Minerales saltarines",
+		Title = "Edén: Minerales saltarines",
 		Description = {
 			"Los Minerales y las Obsidianas arrasan el piso 2 de la mina de Einbech, y los mineros tienen problemas. Ocupémonos de los Minerales y las Obsidianas."
 		},
 		Summary = "Derrota a los Minerales y a las Obsidianas."
 	},
 	[21310] = {
-		Title = "Mineral saltarín (en espera)",
+		Title = "[Espera] Minerales saltarines",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Atin en Einbech."
 		},
@@ -51944,42 +53362,42 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21312] = {
-		Title = "Gas tóxico flotante 1",
+		Title = "Edén: Gas tóxico flotante 1",
 		Description = {
 			"Ayuda a impedir que el gas venenoso se extienda a Lighthalzen y más allá. Derrota a los Venenosos que se encuentran en el campo de Einbroch."
 		},
 		Summary = "Derrota a los Venenosos."
 	},
 	[21313] = {
-		Title = "Gas tóxico flotante 1 (en espera)",
+		Title = "[Espera] Gas tóxico flotante 1",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Eisen de Einbroch."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21314] = {
-		Title = "Gas tóxico flotante 2",
+		Title = "Edén: Gas tóxico flotante 2",
 		Description = {
 			"Ayuda a impedir que el gas venenoso se extienda a Lighthalzen y más allá. Derrota a los Nocivos que se encuentran en los campos de Einbroch."
 		},
 		Summary = "Derrota a los Nocivos."
 	},
 	[21315] = {
-		Title = "Gas tóxico flotante 2 (en espera)",
+		Title = "[Espera] Gas tóxico flotante 2",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Eisen de Einbroch."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21316] = {
-		Title = "Adorable y terrible…",
+		Title = "Edén: Adorable y terrible...",
 		Description = {
 			"Unos autómatas con forma de oso atacan a la gente en un campo cercano a Einbroch. No te dejes engañar por su aspecto adorable, Eisen de Einbroch te contrató para eliminarlos."
 		},
 		Summary = "Mata Ositos de peluche."
 	},
 	[21317] = {
-		Title = "Adorable y terrible… (en espera)",
+		Title = "[Espera] Adorable y terrible...",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Eisen de Einbroch."
 		},
@@ -51993,42 +53411,42 @@ QuestInfoList = {
 		Summary = "Habla con Karl."
 	},
 	[21319] = {
-		Title = "¿Cuándo podemos meternos a la piscina?",
+		Title = "Edén: ¿Cuándo podemos meternos a la piscina?",
 		Description = {
 			"Amy, residente de Lighthalzen, está descontenta porque no puede meterse a la gran piscina al aire libre. Derrota a las Rafflesia como favor para Theodore, quien está de vacaciones, pero tiene que aguantar los reclamos de Amy."
 		},
 		Summary = "Derrota a las Rafflesia."
 	},
 	[21320] = {
-		Title = "¿Cuándo podemos meternos a la piscina? (en espera)",
+		Title = "[Espera] ¿Cuándo podemos meternos a la piscina?",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21321] = {
-		Title = "Golpe de tobillo",
+		Title = "Edén: Golpe de tobillo",
 		Description = {
 			"A Theodore le molesta que Miya le insista que se ocupe de los Gusanos de tallo que la atacaron en los campos cerca de Lighthalzen. Te pide que te encargues de ellos."
 		},
 		Summary = "Mata a los Gusanos de tallo."
 	},
 	[21322] = {
-		Title = "Golpe de tobillo (en espera)",
+		Title = "[Espera] Golpe de tobillo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21323] = {
-		Title = "Valle de los Cuatro Dioses",
+		Title = "Edén: Valle de los Cuatro Dioses",
 		Description = {
 			"Reno, un caballero temeroso de los fantasmas, es incapaz de cumplir con su misión en el Valle de la Parca. Decidiste ayudarlo y encargarte de cazar Brisas en ese lugar."
 		},
 		Summary = "Elimina Brisas."
 	},
 	[21324] = {
-		Title = "Valle de los Cuatro Dioses (en espera)",
+		Title = "[Espera] Valle de los Cuatro Dioses",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Reno en Lighthalzen."
 		},
@@ -52217,56 +53635,56 @@ QuestInfoList = {
 		Summary = "Habla con el líder Maxim."
 	},
 	[21351] = {
-		Title = "Colonia de hormigas de hierro I",
+		Title = "Edén: Colonia de hormigas de hierro I",
 		Description = {
 			"Ernest te pide que extermines Venatu morados y Venatu verdes que están interfiriendo en su exploración de Juperos."
 		},
 		Summary = "Derrota Venatu."
 	},
 	[21352] = {
-		Title = "Colonia hormigas de hierro I (en espera)",
+		Title = "[Espera] Colonia hormigas de hierro I",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Ernest cerca de la mazmorra de Euphoros."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21353] = {
-		Title = "Colonia de hormigas de hierro II",
+		Title = "Edén: Colonia de hormigas de hierro II",
 		Description = {
 			"Ernest te pide que extermines Venatu naranjas y Venatu azules que están interfiriendo en su exploración de Juperos."
 		},
 		Summary = "Derrota Venatu."
 	},
 	[21354] = {
-		Title = "Colonia de hormigas de hierro II (en espera)",
+		Title = "[Espera] Colonia de hormigas de hierro II",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Ernest cerca de la mazmorra de Euphoros."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21355] = {
-		Title = "Dimik colorido I",
+		Title = "Edén: Dimik colorido I",
 		Description = {
 			"Maxim te pide que mates Dimik verdes y Dimik azules para su investigación sobre Juperos."
 		},
 		Summary = "Derrota Dimik."
 	},
 	[21356] = {
-		Title = "Dimik colorido I (en espera)",
+		Title = "[Espera] Dimik colorido I",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Maxim cerca de la mazmorra de Euphoros."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21357] = {
-		Title = "Dimik colorido II",
+		Title = "Edén: Dimik colorido II",
 		Description = {
 			"Maxim te pide que mates Dimik naranjas y Dimik rojos para su investigación sobre Juperos."
 		},
 		Summary = "Derrota Dimik."
 	},
 	[21358] = {
-		Title = "DimiK colorido II (en espera)",
+		Title = "[Espera] Dimik colorido II",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Maxim cerca de la mazmorra de Euphoros."
 		},
@@ -52301,224 +53719,224 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21363] = {
-		Title = "Purificar la Isla anónima",
+		Title = "Edén: Purificar la Isla anónima",
 		Description = {
 			"Rotheart te pide que derrotes a los ^4d4dffZombis harapientos y Zombis asesinos^000000 para ayudar a purificar la isla."
 		},
 		Summary = "Derrota a los Zombis harapientos y Zombis asesinos."
 	},
 	[21364] = {
-		Title = "A la espera de purificar la Isla anónima",
+		Title = "[Espera] Purificar la Isla anónima",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Rotheart de la Isla anónima."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21365] = {
-		Title = "Llanto incesante",
+		Title = "Edén: Llanto incesante",
 		Description = {
 			"Rotheart te pide que mates a las ^4d4dffBanshee^000000 para ayudar a purificar la isla."
 		},
 		Summary = "Mata a las Banshee."
 	},
 	[21366] = {
-		Title = "Llora, llora, llora y espera",
+		Title = "[Espera] Llanto incesante",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Rotheart de la Isla anónima."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21367] = {
-		Title = "Señor de las marionetas muertas",
+		Title = "Edén: Señor de las marionetas muertas",
 		Description = {
 			"Rotheart te pide que derrotes a los ^4d4dffNigromantes^000000 para ayudar a purificar la isla."
 		},
 		Summary = "Derrota a los Nigromantes."
 	},
 	[21368] = {
-		Title = "A la espera del dueño de la marioneta muerta",
+		Title = "[Espera] Señor de las marionetas muertas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Rotheart de la Isla anónima."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21369] = {
-		Title = "Limpieza del santuario oeste del templo",
+		Title = "Edén: Limpieza del santuario oeste del templo",
 		Description = {
 			"El sacerdote Tebenio te pide que limpies el santuario entrando por el orificio que perforó en secreto. Derrota a los ^4d4dffFanbergh y los Isila^000000, los monstruos que suelen aparecer al oeste."
 		},
-		Summary = "Derrotaste a Farnberg y a Isila."
+		Summary = "Cazar a Vanberk y a Isila."
 	},
 	[21370] = {
-		Title = "Purificación de la zona oeste del santuario del templo (en espera)",
+		Title = "[Espera] Limpieza del santuario oeste del templo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Tebenio, el sacerdote de Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21371] = {
-		Title = "Limpieza del santuario este del templo",
+		Title = "Edén: Limpieza del santuario este del templo",
 		Description = {
 			"El sacerdote Tebenio te pide que limpies el santuario entrando por el orificio que perforó en secreto. Derrota a ^4d4dffHodremlin^000000, un monstruo que aparece al este."
 		},
 		Summary = "Derrota a Hordremlin."
 	},
 	[21372] = {
-		Title = "A la espera de purificar la zona este del santuario del templo",
+		Title = "[Espera] Limpieza del santuario este del templo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con el sacedote Tebenio de Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21373] = {
-		Title = "Limpieza del santuario sur del templo",
+		Title = "Edén: Limpieza del santuario sur del templo",
 		Description = {
 			"El sacerdote Tebenio te pide que limpies el santuario entrando por el orificio del sur. Derrota a los ^4d4dffAgab y los Ekio^000000, los monstruos que suelen aparecer al sur."
 		},
-		Summary = "Derrotaste a Agab y a Ekio."
+		Summary = "Cazar a Agav y a Echio."
 	},
 	[21374] = {
-		Title = "A la espera de purificar el santuario sur del templo",
+		Title = "[Espera] Limpieza del santuario sur del templo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Tebenio, el sacerdote de Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21375] = {
-		Title = "Contienda en la pradera: Kobold",
+		Title = "Edén: Contienda en la pradera: Kobold",
 		Description = {
 			"El cazador Harim de las Llanuras de Ida te pide que caces a los Kobold que están interfiriendo en el despeje de las llanuras."
 		},
 		Summary = "Derrota a los Kobold."
 	},
 	[21376] = {
-		Title = "Contienda en la pradera: Kobold (en espera)",
+		Title = "[Espera] Contienda en la pradera: Kobold",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Harim, el cazador de las Llanuras de Ida."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21377] = {
-		Title = "Contienda en la pradera: Vientos de la colina",
+		Title = "Edén: Contienda en la pradera: Vientos de la colina",
 		Description = {
 			"Harim, un cazador de las Llanuras de Ida, te pide que caces a los Vientos de la colina que están interfiriendo en el claro."
 		},
 		Summary = "Caza a los Vientos de la colina."
 	},
 	[21378] = {
-		Title = "Contienda en la pradera: Vientos de la colina (en espera)",
+		Title = "[Espera] Contienda en la pradera: Vientos de la colina",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Harim, el cazador de las Llanuras de Ida."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21379] = {
-		Title = "Mejor que el pelo de perro",
+		Title = "Edén: Mejor que el pelo de perro",
 		Description = {
 			"Cheddar, el granjero de Rachel, pide 20 unidades de pelo de Kobold. Matar a los Kobold es algo extra."
 		},
 		Summary = "Recoge 20 unidades de pelo de Kobold."
 	},
 	[21380] = {
-		Title = "Mejor que el pelo de perro (en espera)",
+		Title = "[Espera] Mejor que el pelo de perro",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con el granjero Cheddar de Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21381] = {
-		Title = "Guerras de malezas",
+		Title = "Edén: Guerras de malezas",
 		Description = {
 			"Minnie, agricultora de Veins, me pide que arranque a las ^4d4dffDrocera y una Muscipular^000000 que se interponen en su desmonte de tierras. Se encuentran sobre todo en los campos cercanos a Veins."
 		},
 		Summary = "Elimina la Drocera y la Muskypula."
 	},
 	[21382] = {
-		Title = "Guerra de malezas (en espera)",
+		Title = "[Espera] Guerra de malezas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con los minerales de Bane."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21383] = {
-		Title = "Mutación volcánica",
+		Title = "Edén: Mutación volcánica",
 		Description = {
 			"Los vigilantes de Veins fueron llamados para combatir los ^4d4dffMagmaring^000000 generados por un volcán cercano. Dicen que las piedras queman la vegetación a su paso."
 		},
 		Summary = "Lucha contra los Magmaring."
 	},
 	[21384] = {
-		Title = "Mutación en el volcán (en espera)",
+		Title = "[Espera] Mutación en el volcán",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla con el vigilante de Bane."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21385] = {
-		Title = "Contienda en la pradera: Lobo del desierto",
+		Title = "Edén: Contienda en la pradera: Lobo del desierto",
 		Description = {
 			"El cazador Sarim, de la Cueva de hielo, te pide que te unas a él en una cacería de ^4d4dffLobos del desierto^000000 y quiere que mates a 30 de ellos."
 		},
 		Summary = "Cacería del Lobo del desierto."
 	},
 	[21386] = {
-		Title = "Contienda en la pradera: Lobo del desierto (en espera)",
+		Title = "[Espera] Contienda en la pradera: Lobo del desierto",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con la Misión del cazador frente a la Cueva de hielo de la pradera de Audhumbla."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21387] = {
-		Title = "Corazones fríos, cocina fresca",
+		Title = "Edén: Corazones fríos, cocina fresca",
 		Description = {
 			"Tarim, quien atiende en la taberna de Rachel, te pide que consigas 20 ^4d4dffCorazones glaciales^000000, que se pueden encontrar en la Cueva de hielo."
 		},
 		Summary = "20 Corazones glaciales."
 	},
 	[21388] = {
-		Title = "Corazón frío, en espera de un plato frío",
+		Title = "[Espera] Corazones fríos, cocina fresca",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla con Tarim, que atiende el bar en la taberna de Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21389] = {
-		Title = "Abominables hombres de las nieves",
+		Title = "Edén: Abominables hombres de las nieves",
 		Description = {
 			"El amigo del mago que conociste en la Cueva de hielo te pidió que derrotaras a los ^4d4dffNevadísimos^000000 porque se estaban interponiendo en su camino."
 		},
 		Summary = "Derrota a los Nevadísimos."
 	},
 	[21390] = {
-		Title = "Abominables hombres de las nieves (en espera)",
+		Title = "[Espera] Abominables hombres de las nieves",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con el amigo del mago que está en la Cueva de hielo."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21391] = {
-		Title = "Dureza de los cristales de hielo",
+		Title = "Edén: Dureza de los cristales de hielo",
 		Description = {
 			"El mago amigo que conociste dentro de la Cueva de hielo te pide que derrotes a los ^4d4dffTitanes de hielo y a los Gazeti^000000 para su investigación."
 		},
 		Summary = "Derrotaste a los Titanes de hielo y Gazeti"
 	},
 	[21392] = {
-		Title = "Dureza de un Cristal de hielo (en espera)",
+		Title = "[Espera] Dureza de un Cristal de hielo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con el amigo del mago que está en la Cueva de hielo."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21393] = {
-		Title = "Investigación sobre demonios",
+		Title = "Edén: Investigación sobre demonios",
 		Description = {
 			"Mingmin, la alquimista de Geffen, promete dejarte entrar en Geffenia si la ayudas con su investigación sobre demonios. En Geffenia, enfrentémonos a los ^4d4dffÍncubo y a las Súcubo^000000."
 		},
 		Summary = "Lucha contra los Íncubo y las Súcubo."
 	},
 	[21394] = {
-		Title = "Investigación sobre demonios (en espera)",
+		Title = "[Espera] Investigación sobre demonios",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla con Mingmin, alquimista de Geffen."
 		},
@@ -52581,84 +53999,84 @@ QuestInfoList = {
 		Summary = "Dale las Patas a Chef Asadito."
 	},
 	[21410] = {
-		Title = "El infierno culinario",
+		Title = "[Espera] El infierno culinario",
 		Description = {
 			"Necesitas descansar antes de aceptar otra misión."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21411] = {
-		Title = "El infierno culinario",
+		Title = "Edén: El infierno culinario",
 		Description = {
 			"Es hora de un nuevo desafío culinario, así que vamos a atrapar 10 Ranas Thara y a conseguir 10 Patas palmípedas pegajosas para <NAVI>[Chef Asadito]<INFO>comodo,206,304,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Dale a Chef Asadito las Patas palmípedas pegajosas."
 	},
 	[21412] = {
-		Title = "Tratamiento facial de Dita",
+		Title = "[Espera] Tratamiento facial de Dita",
 		Description = {
 			"Necesitas descansar antes de aceptar otra misión."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21413] = {
-		Title = "Tratamiento facial de Dita",
+		Title = "Edén: Tratamiento facial de Dita",
 		Description = {
 			"Dita está sufriendo las secuelas de aplicarse Korasera, así que dale los 5 Tentáculos que conseguiste al derrotar a las 10 Hidras."
 		},
 		Summary = "Dale los tentáculos a Dita."
 	},
 	[21414] = {
-		Title = "Korasera",
+		Title = "[Espera] Korasera",
 		Description = {
 			"Necesitas descansar antes de aceptar otra misión."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21415] = {
-		Title = "Korasera",
+		Title = "Edén: Korasera",
 		Description = {
 			"Derrota a 10 Megalodones y regresa con <NAVI>[Cerabi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> para ayudarle a cultivar Ko Sera Sera. Si has conseguido esta misión por el Grupo del Edén, vuelva a la placa."
 		},
 		Summary = "Derrota a 10 Megalodones."
 	},
 	[21416] = {
-		Title = "Tipos lindos",
+		Title = "Edén: Tipos lindos",
 		Description = {
 			"Derrota a 10 Focas y 10 Nutrias de mar que están atacando a la gente en la playa de Kokomo."
 		},
 		Summary = ""
 	},
 	[21417] = {
-		Title = "Tipos lindos (en espera)",
+		Title = "[Espera] Tipos lindos",
 		Description = {
 			"Necesitas descansar antes de aceptar otra misión."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21418] = {
-		Title = "Tipos rudos",
+		Title = "Edén: Tipos rudos",
 		Description = {
 			"Derrotaste a 10 Gólems de estalactita, 5 Trilobites y 5 Megalith para despejar el camino a Umbala."
 		},
 		Summary = ""
 	},
 	[21419] = {
-		Title = "Tipos rudos (en espera)",
+		Title = "[Espera] Tipos rudos",
 		Description = {
 			"Necesitas descansar antes de aceptar otra misión."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21420] = {
-		Title = "Tipos asquerosos",
+		Title = "Edén: Tipos asquerosos",
 		Description = {
 			"Derrota a 15 Grove y a 10 Cocodrilos para un explorador que investiga la ecología del bosque de Papuchicha y el pantano de Zenhai."
 		},
 		Summary = ""
 	},
 	[21421] = {
-		Title = "Tipos asquerosos (en espera)",
+		Title = "[Espera] Tipos asquerosos",
 		Description = {
 			"Necesitas descansar antes de aceptar otra misión."
 		},
@@ -52826,7 +54244,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21501] = {
-		Title = "Cacería de un Avispón errante",
+		Title = "Edén: Cacería de un Avispón errante",
 		Description = {
 			"Caza un Avispón errante en el campo al oeste de Prontera."
 		},
@@ -52840,7 +54258,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21503] = {
-		Title = "Cacería de un Rockero errante",
+		Title = "Edén: Cacería de un Rockero errante",
 		Description = {
 			"Caza a un Rockero errante en el campo al suroeste de Prontera."
 		},
@@ -52854,7 +54272,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21505] = {
-		Title = "Cacería de un Caballero ámbar en fuga",
+		Title = "Edén: Cacería de un Caballero ámbar en fuga",
 		Description = {
 			"Caza a un Caballero ámbar errante en el campo al oeste de Prontera."
 		},
@@ -52868,7 +54286,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21507] = {
-		Title = "Cacería de un jefe Muka",
+		Title = "Edén: Cacería de un jefe Muka",
 		Description = {
 			"Cazaste a un jefe Muka en el campo al suroeste de Izlude."
 		},
@@ -52882,7 +54300,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21509] = {
-		Title = "Cacería de un jefe Pie Grande",
+		Title = "Edén: Cacería de un jefe Pie Grande",
 		Description = {
 			"Cazas a un jefe Pie Grande en el campo al sureste de Payon."
 		},
@@ -52896,7 +54314,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21511] = {
-		Title = "Cacería de un Cuerno macizo",
+		Title = "Edén: Cacería de un Cuerno macizo",
 		Description = {
 			"Caza un Cuerno macizo en el campo al noreste de Payon."
 		},
@@ -52910,7 +54328,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21513] = {
-		Title = "Cacería de un Sauce anciano veloz",
+		Title = "Edén: Cacería de un Sauce anciano veloz",
 		Description = {
 			"Caza un Sauce anciano veloz en el campo al sureste del Pueblo de los Orcos."
 		},
@@ -52924,7 +54342,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21515] = {
-		Title = "Cacería de un Coco resistente",
+		Title = "Edén: Cacería de un Coco resistente",
 		Description = {
 			"Caza un Coco resistente en el campo al suroeste de Prontera."
 		},
@@ -52938,7 +54356,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21517] = {
-		Title = "Cacería de un Yoyo veloz",
+		Title = "Edén: Cacería de un Yoyo veloz",
 		Description = {
 			"Caza un YoYo veloz en el campo al noreste de Prontera."
 		},
@@ -52952,7 +54370,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21519] = {
-		Title = "Cacería de una Perla blanca errante",
+		Title = "Edén: Cacería de una Perla blanca errante",
 		Description = {
 			"Caza un Jade blanco errante en el campo al suroeste de Izlude."
 		},
@@ -52966,7 +54384,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21521] = {
-		Title = "Cacería de un Guerrero Orco enfurecido",
+		Title = "Edén: Cacería de un Guerrero Orco enfurecido",
 		Description = {
 			"Caza a un Guerrero Orco iracundo en el Pueblo de los Orcos."
 		},
@@ -52980,7 +54398,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21523] = {
-		Title = "Cacería de un Duende veloz",
+		Title = "Edén: Cacería de un Duende veloz",
 		Description = {
 			"Caza un Duende veloz en el campo al sur del Pueblo de los Orcos."
 		},
@@ -52994,7 +54412,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21525] = {
-		Title = "Cacería de un Duende errante",
+		Title = "Edén: Cacería de un Duende errante",
 		Description = {
 			"Caza al Duende errante en el campo al sureste del Pueblo de los Orcos."
 		},
@@ -53008,7 +54426,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21527] = {
-		Title = "Cacería de un Petite veloz",
+		Title = "Edén: Cacería de un Petite veloz",
 		Description = {
 			"Caza un Petite veloz en el campo al oeste de Geffen."
 		},
@@ -53022,7 +54440,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21529] = {
-		Title = "Cacería de un Petite robusto",
+		Title = "Edén: Cacería de un Petite robusto",
 		Description = {
 			"Caza un Petite robusto en el campo al noroeste de Geffen."
 		},
@@ -53036,7 +54454,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21531] = {
-		Title = "Cacería de un Hombre de arena iracundo",
+		Title = "Edén: Cacería de un Hombre de arena iracundo",
 		Description = {
 			"Caza a un Hombre de arena furioso en el campo al sureste del sureste de Morroc."
 		},
@@ -53050,7 +54468,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21533] = {
-		Title = "Cacería de un Perseid veloz",
+		Title = "Edén: Cacería de un Perseid veloz",
 		Description = {
 			"Caza a un Perseid veloz en el campo al sureste de Komodo."
 		},
@@ -53064,7 +54482,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21535] = {
-		Title = "Cacería de un Grove errante",
+		Title = "Edén: Cacería de un Grove errante",
 		Description = {
 			"Caza a un Grove errante en el campo al este de Komodo."
 		},
@@ -53078,7 +54496,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21537] = {
-		Title = "Cacería de un Cocodrilo robusto.",
+		Title = "Edén: Cacería de un Cocodrilo robusto.",
 		Description = {
 			"Caza un Cocodrilo robusto en el campo al noreste de Komodo."
 		},
@@ -53092,7 +54510,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21539] = {
-		Title = "Cacería de un Luchador Utan iracundo (en espera)",
+		Title = "Edén: Cacería de un Luchador Utan iracundo (en espera)",
 		Description = {
 			"Caza a un Luchador Utan iracundo en el campo al oeste de Prontera."
 		},
@@ -53106,7 +54524,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21541] = {
-		Title = "Cacería de un Dríada veloz",
+		Title = "Edén: Cacería de un Dríada veloz",
 		Description = {
 			"Caza una Dríada veloz en el campo al noroeste de Komodo."
 		},
@@ -53120,7 +54538,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21543] = {
-		Title = "Cacería de Almejas veloces",
+		Title = "Edén: Cacería de Almejas veloces",
 		Description = {
 			"Caza una Almeja veloz en el campo al sur de Whigel."
 		},
@@ -53134,7 +54552,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21545] = {
-		Title = "Cacería de un Geógrafo robusto",
+		Title = "Edén: Cacería de un Geógrafo robusto",
 		Description = {
 			"Caza a un Geógrafo robusto en el campo al norte de Al De Baran."
 		},
@@ -53148,7 +54566,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21547] = {
-		Title = "Cacería de un jefe Gran Peko",
+		Title = "Edén: Cacería de un jefe Gran Peko",
 		Description = {
 			"Cazaste a un Gran Peko en el campo al norte del noroeste de Al De Baran."
 		},
@@ -53162,7 +54580,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21549] = {
-		Title = "Cacería de un jefe Cabra",
+		Title = "Edén: Cacería de un jefe Cabra",
 		Description = {
 			"Caza a un jefe Cabra en el campo al sureste de Yuno."
 		},
@@ -53176,7 +54594,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21551] = {
-		Title = "Cacería de una Sandalia veloz",
+		Title = "Edén: Cacería de una Sandalia veloz",
 		Description = {
 			"Caza una Sandalia veloz en el campo al sureste de Yuno."
 		},
@@ -53190,7 +54608,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21553] = {
-		Title = "Cacería de un Gusano de tallo veloz",
+		Title = "Edén: Cacería de un Gusano de tallo veloz",
 		Description = {
 			"Caza un único Gusano de tallo veloz en el campo al noreste de Lighthalzen."
 		},
@@ -53204,7 +54622,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21555] = {
-		Title = "Cacería de un Holden robusto",
+		Title = "Edén: Cacería de un Holden robusto",
 		Description = {
 			"Caza un Holden robusto en el campo al noreste de Einbroch."
 		},
@@ -53218,7 +54636,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21557] = {
-		Title = "Cacería de un Rafflesia veloz",
+		Title = "Edén: Cacería de un Rafflesia veloz",
 		Description = {
 			"Caza a un Rafflesia veloz en el campo al norte de Lighthalzen."
 		},
@@ -53232,7 +54650,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21559] = {
-		Title = "Cacería de un jefe Venomus",
+		Title = "Edén: Cacería de un jefe Venomus",
 		Description = {
 			"Cazaste a un jefe Venomus en el campo al norte de Einbroch."
 		},
@@ -53246,7 +54664,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21561] = {
-		Title = "Cacería de un Nocivo iracundo",
+		Title = "Edén: Cacería de un Nocivo iracundo",
 		Description = {
 			"Caza a un Nocivo iracundo en el campo al noreste de Einbroch."
 		},
@@ -53260,7 +54678,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21563] = {
-		Title = "Cacería de un Novus errante",
+		Title = "Edén: Cacería de un Novus errante",
 		Description = {
 			"Caza a un Novus errante en el campo al suroeste de Whigel."
 		},
@@ -53274,7 +54692,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21565] = {
-		Title = "Cacería de un Roween robusto",
+		Title = "Edén: Cacería de un Roween robusto",
 		Description = {
 			"Caza a un Roween robusto en el campo al este de Rachel."
 		},
@@ -53288,7 +54706,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21567] = {
-		Title = "Cacería de un jefe Stapo",
+		Title = "Edén: Cacería de un jefe Stapo",
 		Description = {
 			"Caza un jefe Stapo en el campo al sur del Bane."
 		},
@@ -53302,7 +54720,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21569] = {
-		Title = "Cacería de un Nublado furioso",
+		Title = "Edén: Cacería de un Nublado furioso",
 		Description = {
 			"Caza a un Nublado furioso en los campos de Ayothaya."
 		},
@@ -53316,7 +54734,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21571] = {
-		Title = "Cacería del jefe Jingdong",
+		Title = "Edén: Cacería del jefe Jingdong",
 		Description = {
 			"Caza a uno de los jefes en los campos de Kunlun."
 		},
@@ -53330,7 +54748,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21573] = {
-		Title = "Cacería de un Tucán iracundo",
+		Title = "Edén: Cacería de un Tucán iracundo",
 		Description = {
 			"Caza a un Tucán furioso en los campos de Brasilis."
 		},
@@ -53344,7 +54762,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21575] = {
-		Title = "Cacería un Crótalo robusto",
+		Title = "Edén: Cacería un Crótalo robusto",
 		Description = {
 			"Caza un Crótalo robusto en los campos de Moscovia."
 		},
@@ -53358,7 +54776,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21577] = {
-		Title = "Cacería de una Caracasa veloz",
+		Title = "Edén: Cacería de una Caracasa veloz",
 		Description = {
 			"Caza una Caracasa veloz en los campos de Amatsu."
 		},
@@ -53372,7 +54790,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21579] = {
-		Title = "Cacería de una Oveja de comida errante",
+		Title = "Edén: Cacería de una Oveja de comida errante",
 		Description = {
 			"Caza a un Devorador errante en los campos del castillo de Yongji."
 		},
@@ -53393,63 +54811,63 @@ QuestInfoList = {
 		Summary = "Ve al Templo de Odín."
 	},
 	[21582] = {
-		Title = "La despedida de los Skogul",
+		Title = "Edén: La despedida de los Skogul",
 		Description = {
 			"Derrota a 20 Skogul, de quienes se dice que se comunican con el diablo."
 		},
 		Summary = "20 Skogul."
 	},
 	[21583] = {
-		Title = "La despedida de los Skogul (en espera)",
+		Title = "[Espera] La despedida de los Skogul",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Morvand en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21584] = {
-		Title = "La despedida de los Skogul (otra vez)",
+		Title = "Edén: La despedida de los Skogul",
 		Description = {
 			"Derrota a 20 Skogul, de quienes se dice que se comunican con el diablo."
 		},
 		Summary = "20 Skogul."
 	},
 	[21585] = {
-		Title = "El exorcismo",
+		Title = "Edén: El exorcismo",
 		Description = {
 			"Mata a 20 Frus, cuyos extraños movimientos te dan escalofríos."
 		},
 		Summary = "20 Frus."
 	},
 	[21586] = {
-		Title = "El exorcismo (en espera)",
+		Title = "[Espera] El exorcismo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo del Edén o con Morvand en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21587] = {
-		Title = "El exorcismo (otra vez)",
+		Title = "Edén: El exorcismo",
 		Description = {
 			"Mata a 20 Frus, cuyos extraños movimientos te dan escalofríos."
 		},
 		Summary = "20 Frus."
 	},
 	[21588] = {
-		Title = "En realidad, no es tan adorable",
+		Title = "Edén: En realidad, no es tan adorable",
 		Description = {
 			"Derrota a 5 Skeggiold marrones y 5 Skeggiold azules, un monstruo simpático pero temible."
 		},
 		Summary = "5 Skeggiold de cada uno."
 	},
 	[21589] = {
-		Title = "En realidad, no es tan adorable (en espera)",
+		Title = "[Espera] En realidad, no es tan adorable",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Morvand en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21590] = {
-		Title = "En realidad, no es tan adorable (otra vez)",
+		Title = "Edén: En realidad, no es tan adorable",
 		Description = {
 			"Derrota a 5 Skeggiold marrones y 5 Skeggiold azules, el monstruo simpático pero temible."
 		},
@@ -53463,252 +54881,252 @@ QuestInfoList = {
 		Summary = "Ve al Desafío de vivir."
 	},
 	[21592] = {
-		Title = "Egnigem Cenia",
+		Title = "Edén: Egnigem Cenia",
 		Description = {
 			"Descansa en paz, Egnigem Cenia."
 		},
 		Summary = "30 Egnigem Cenia."
 	},
 	[21593] = {
-		Title = "Egnigem Cenia (en espera)",
+		Title = "[Espera] Egnigem Cenia",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21594] = {
-		Title = "Egnigem Cenia (otra vez)",
+		Title = "Edén: Egnigem Cenia",
 		Description = {
 			"Descansa en paz, Egnigem Cenia."
 		},
 		Summary = "30 Egnigem Cenia."
 	},
 	[21595] = {
-		Title = "Armeyer Dinze",
+		Title = "Edén: Armeyer Dinze",
 		Description = {
 			"Armeyer Dinze, descansa en paz."
 		},
 		Summary = "30 Armeyer Dinze."
 	},
 	[21596] = {
-		Title = "Armeyer Dinze (en espera)",
+		Title = "[Espera] Armeyer Dinze",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21597] = {
-		Title = "Armeyer Dinze (otra vez)",
+		Title = "Edén: Armeyer Dinze",
 		Description = {
 			"Armeyer Dinze, descansa en paz."
 		},
-		Summary = "30 Armeyer Dinze."
+		Summary = "30 Armeyer Dinze"
 	},
 	[21598] = {
-		Title = "Wickebine Tres",
+		Title = "Edén: Wickebine Tres",
 		Description = {
 			"Descansa en paz, Wickebine Tres."
 		},
 		Summary = "30 Wickebine Tres."
 	},
 	[21599] = {
-		Title = "Wickebine Tres (en espera)",
+		Title = "[Espera] Wickebine Tres",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21600] = {
-		Title = "El retorno de Wickebine Tres",
+		Title = "Edén: Wickebine Tres",
 		Description = {
 			"Descansa en paz, Wickebine Tres."
 		},
-		Summary = "30 Wickebine Tres."
+		Summary = "30 Wickebine Tres"
 	},
 	[21601] = {
-		Title = "Kavach Icarus",
+		Title = "Edén: Kavach Icarus",
 		Description = {
 			"Descansa en paz, Kavach Icarus."
 		},
 		Summary = "30 Kavach Icarus."
 	},
 	[21602] = {
-		Title = "Kavach Icarus (en espera)",
+		Title = "[Espera] Kavach Icarus",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21603] = {
-		Title = "Q.E.P.D. Kavach Icarus",
+		Title = "Edén: Kavach Icarus",
 		Description = {
 			"Descansa en paz, Kavach Icarus."
 		},
 		Summary = "30 Kavach Icarus."
 	},
 	[21604] = {
-		Title = "Errende Ebecee",
+		Title = "Edén: Errende Ebecee",
 		Description = {
 			"Descansa en paz, Errende Ebecee."
 		},
 		Summary = "30 Errende Ebecee."
 	},
 	[21605] = {
-		Title = "Errende Ebecee (en espera)",
+		Title = "[Espera] Errende Ebecee",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21606] = {
-		Title = "Descansa en paz, Errende Ebecee",
+		Title = "Edén: Errende Ebecee",
 		Description = {
 			"Descansa en paz, Errende Ebecee."
 		},
-		Summary = "30 Errend Ebecee."
+		Summary = "30 Errend Ebecee"
 	},
 	[21607] = {
-		Title = "Laurell Weinder",
+		Title = "Edén: Laurell Weinder",
 		Description = {
 			"Descansa en paz, Laurell Weinder."
 		},
 		Summary = "30 Laurell Weinder"
 	},
 	[21608] = {
-		Title = "Laurell Weinder (en espera)",
+		Title = "[Espera] Laurell Weinder",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21609] = {
-		Title = "Volver con Laurell Weinder",
+		Title = "Edén: Laurell Weinder",
 		Description = {
 			"Descansa en paz, Laurell Weinder."
 		},
 		Summary = "30 Laurell Weinder."
 	},
 	[21610] = {
-		Title = "Cecil Damon",
+		Title = "Edén: Cecil Damon",
 		Description = {
 			"Descansa en paz, Cecil Damon"
 		},
 		Summary = "2 Cecil Damon."
 	},
 	[21611] = {
-		Title = "Cecil Damon (en espera)",
+		Title = "[Espera] Cecil Damon",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21612] = {
-		Title = "Descansa en paz, Cecil Damon",
+		Title = "Edén: Cecil Damon",
 		Description = {
 			"Descansa en paz, Cecil Damon."
 		},
 		Summary = "2 Cecil Damon."
 	},
 	[21613] = {
-		Title = "Kathryne Keyron",
+		Title = "Edén: Kathryne Keyron",
 		Description = {
 			"Descansa en paz, Kathryne Keyron."
 		},
 		Summary = "2 Kathryne Keyron."
 	},
 	[21614] = {
-		Title = "Kathryne Keyron (en espera)",
+		Title = "[Espera] Kathryne Keyron",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21615] = {
-		Title = "Descansa en paz, Kathryne Keyron",
+		Title = "Edén: Kathryne Keyron",
 		Description = {
 			"Descansa en paz, Kathryne Keyron."
 		},
 		Summary = "2 Kathryne Keyron."
 	},
 	[21616] = {
-		Title = "Margarita Sorin",
+		Title = "Edén: Margarita Sorin",
 		Description = {
 			"Descansa en paz, Margarita Sorin."
 		},
 		Summary = "2 Margarita Sorin."
 	},
 	[21617] = {
-		Title = "Margarita Sorin (en espera)",
+		Title = "[Espera] Margarita Sorin",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21618] = {
-		Title = "Descansa en paz, Margarita Sorin",
+		Title = "Edén: Margarita Sorin",
 		Description = {
 			"Descansa en paz, Margarita Sorin."
 		},
 		Summary = "2 Margarita Sorin."
 	},
 	[21619] = {
-		Title = "Seyren Windsor",
+		Title = "Edén: Seyren Windsor",
 		Description = {
 			"Descansa en paz, Seyren Windsor."
 		},
 		Summary = "2 Seyren Windsor."
 	},
 	[21620] = {
-		Title = "Seyren Windsor (en espera)",
+		Title = "[Espera] Seyren Windsor",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21621] = {
-		Title = "Descansa en paz, Seyren Windsor",
+		Title = "Edén: Seyren Windsor",
 		Description = {
 			"Descansa en paz, Seyren Windsor."
 		},
 		Summary = "2 Seyren Windsor."
 	},
 	[21622] = {
-		Title = "Eremes Guile",
+		Title = "Edén: Eremes Guile",
 		Description = {
 			"Descansa en paz, Eremes Guile."
 		},
 		Summary = "2 Eremes Guile."
 	},
 	[21623] = {
-		Title = "Eremes Guile (en espera)",
+		Title = "[Espera] Eremes Guile",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21624] = {
-		Title = "Descansa en paz, Eremes Guile",
+		Title = "Edén: Eremes Guile",
 		Description = {
 			"Descansa en paz, Eremes Guile."
 		},
 		Summary = "2 Eremes Guile."
 	},
 	[21625] = {
-		Title = "Howard Alteisen",
+		Title = "Edén: Howard Alteisen",
 		Description = {
 			"Descansa en paz, Howard Alteisen."
 		},
 		Summary = "2 Howard Alteisen."
 	},
 	[21626] = {
-		Title = "Howard Alteisen (en espera)",
+		Title = "[Espera] Howard Alteisen",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21627] = {
-		Title = "Descansa en paz, Howard Alteisen",
+		Title = "Edén: Howard Alteisen",
 		Description = {
 			"Descansa en paz, Howard Alteisen."
 		},
@@ -53722,63 +55140,63 @@ QuestInfoList = {
 		Summary = "Ve a la Mazmorra de lava de Nogrod."
 	},
 	[21629] = {
-		Title = "Captura Terroroes nocturno",
+		Title = "Edén: Captura Terroroes nocturno",
 		Description = {
 			"Caza 30 Terrores nocturnos para exponerlos en el museo."
 		},
 		Summary = "30 Terrores nocturnos."
 	},
 	[21630] = {
-		Title = "Captura Terrores nocturnos (en espera)",
+		Title = "[Espera] Captura Terrores nocturnos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Elmes Platou, del personal del museo en Yuno."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21631] = {
-		Title = "Captura Terrores nocturnos (otra vez)",
+		Title = "Edén: Captura Terrores nocturnos",
 		Description = {
 			"Caza 30 Terrores nocturnos para exponerlos en el museo."
 		},
 		Summary = "30 Terrores nocturnos."
 	},
 	[21632] = {
-		Title = "Captura un Deleter",
+		Title = "Edén: Captura un Deleter",
 		Description = {
 			"Caza 30 Deleter para exponerlos en tu museo."
 		},
-		Summary = "30 Deleter celestiales y 30 Deleter terrenales."
+		Summary = "30 Deleter Volador y 30 Deleter Terrestre"
 	},
 	[21633] = {
-		Title = "Captura Deleter (en espera)",
+		Title = "[Espera] Captura Deleter",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Elmes Platou, del personal del museo en Yuno."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21634] = {
-		Title = "Captura al Deleter (otra vez)",
+		Title = "Edén: Captura al Deleter",
 		Description = {
 			"Caza 30 Deleter para que exponerlos en el museo."
 		},
-		Summary = "30 Deleter celestiales y 30 Deleter terrenales."
+		Summary = "30 Deleter Volador y 30 Deleter Terrestre"
 	},
 	[21635] = {
-		Title = "Recolecta Lava",
+		Title = "Edén: Recolecta Lava",
 		Description = {
 			"Recolecta 10 unidades de Lava para ayudar a las finanzas del museo."
 		},
 		Summary = "10 unidades de lava."
 	},
 	[21636] = {
-		Title = "Recolecta Lava (en espera)",
+		Title = "[Espera] Recolecta Lava",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Elmes Platou, del personal del museo en Yuno."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21637] = {
-		Title = "Recolecta Lava (otra vez)",
+		Title = "Edén: Recolecta Lava",
 		Description = {
 			"Recolecta 10 unidades de Lava para ayudar a las finanzas del museo."
 		},
@@ -53799,63 +55217,63 @@ QuestInfoList = {
 		Summary = "Vuelve a Whigel."
 	},
 	[21640] = {
-		Title = "Dragón del lago",
+		Title = "Edén: Dragón del lago",
 		Description = {
 			"Por la seguridad de los viajeros, caza 30 Ferus rojos y 30 Ferus verdes."
 		},
 		Summary = "30 Ferus rojos y 30 Ferus verdes."
 	},
 	[21641] = {
-		Title = "Dragón del lago (en espera)",
+		Title = "[Espera] Dragón del lago",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nahadan en Whigel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21642] = {
-		Title = "Dragón del lago Dashi",
+		Title = "Edén: Dragón del lago",
 		Description = {
 			"Cacemos 30 Ferus rojos y 30 Ferus verdes por la seguridad de los viajeros."
 		},
 		Summary = "30 Ferrus rojos y 30 Ferrus verdes."
 	},
 	[21643] = {
-		Title = "Dragón volador del lago",
+		Title = "Edén: Dragón volador del lago",
 		Description = {
 			"Caza 30 Ácidus amarillos y 30 Ácidus azules por la seguridad del lago."
 		},
 		Summary = "30 Ácidus amarillos y 30 Ácidus azules"
 	},
 	[21644] = {
-		Title = "Dragón volador del lago (en espera)",
+		Title = "[Espera] Dragón volador del lago",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nahadan en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21645] = {
-		Title = "Dragón volador del lago",
+		Title = "Edén: Dragón volador del lago",
 		Description = {
 			"Caza 30 Ácidus amarillos y 30 Ácidus azules por la seguridad del lago."
 		},
 		Summary = "30 Ácidus amarillos y 30 Ácidus azules"
 	},
 	[21646] = {
-		Title = "Dragón de tres cabezas del lago",
+		Title = "Edén: Dragón de tres cabezas del lago",
 		Description = {
 			"Caza 1 Hydrolancer en las profundidades de la región del lago."
 		},
 		Summary = "1 Hydrolancer."
 	},
 	[21647] = {
-		Title = "Dragón de tres cabezas del lago (en espera)",
+		Title = "[Espera] Dragón de tres cabezas del lago",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nahadan en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21648] = {
-		Title = "Dragón de tres cabezas del lago Dashi",
+		Title = "Edén: Dragón de tres cabezas del lago Dashi",
 		Description = {
 			"Caza 1 Hydrolancer en las profundidades de la región del lago."
 		},
@@ -53876,210 +55294,210 @@ QuestInfoList = {
 		Summary = "Ve a la Torre de Thanatos."
 	},
 	[21651] = {
-		Title = "Dentro de la caja del Mímico",
+		Title = "Edén: Dentro de la caja del Mímico",
 		Description = {
 			"Una solicitud de Avril, que parece más interesada en el contenido que en los monstruos. Caza 30 Mímicos antiguos."
 		},
 		Summary = "30 Mímicos antiguos."
 	},
 	[21652] = {
-		Title = "En la caja del Mímico (en espera)",
+		Title = "[Espera] En la caja del Mímico",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21653] = {
-		Title = "Dentro de la caja del Mímico otra vez",
+		Title = "Edén: Dentro de la caja del Mímico",
 		Description = {
 			"Una solicitud de Avril, que parece más interesada en el contenido que en los monstruos. Cacemos 30 Mímicos antiguos."
 		},
 		Summary = "30 Mímicos antiguos."
 	},
 	[21654] = {
-		Title = "Antigua sabiduría flotante",
+		Title = "Edén: Antigua sabiduría flotante",
 		Description = {
 			"Caza 30 Palabras de muerte, que pueden contener conocimientos raros."
 		},
 		Summary = "30 Palabras de muerte."
 	},
 	[21655] = {
-		Title = "Antigua sabiduría flotante (en espera)",
+		Title = "[Espera] Antigua sabiduría flotante",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21656] = {
-		Title = "Antigua sabiduría flotante (otra vez)",
+		Title = "Edén: Antigua sabiduría flotante",
 		Description = {
 			"Caza 30 Palabras de muerte que pueden contener conocimientos raros."
 		},
 		Summary = "30 Palabras de muerte."
 	},
 	[21657] = {
-		Title = "Barón del castillo ancestral",
+		Title = "Edén: Barón del castillo ancestral",
 		Description = {
 			"Caza 20 Barones búho mientras vigilas tu relación con el Duque búho."
 		},
 		Summary = "20 Barones búho."
 	},
 	[21658] = {
-		Title = "Barón del castillo ancestral (en espera)",
+		Title = "[Espera] Barón del castillo ancestral",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21659] = {
-		Title = "Barón del castillo ancestral",
+		Title = "Edén: Barón del castillo ancestral",
 		Description = {
 			"Caza 20 Barones búho mientras vigilas tu relación con el Duque búho."
 		},
 		Summary = "20 Barones búho."
 	},
 	[21660] = {
-		Title = "Piezas de conocimiento",
+		Title = "Edén: Piezas de conocimiento",
 		Description = {
 			"Recolecta 10 Páginas sangrientas, que a veces se encuentran en Palabra de muerte."
 		},
 		Summary = "10 Páginas sangrientas."
 	},
 	[21661] = {
-		Title = "Piezas de conocimiento (en espera)",
+		Title = "[Espera] Piezas de conocimiento",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21662] = {
-		Title = "Piezas de conocimiento (otra vez)",
+		Title = "Edén: Piezas de conocimiento",
 		Description = {
 			"Recolecta 10 Páginas sangrientas, que a veces se encuentran en Palabra de muerte."
 		},
 		Summary = "10 Páginas sangrientas."
 	},
 	[21663] = {
-		Title = "Viejos registros mágicos",
+		Title = "Edén: Viejos registros mágicos",
 		Description = {
 			"Recopilemos 10 Pergaminos mágicos desgastados de los que tiene el Anciano de vez en cuando."
 		},
 		Summary = "10 Pergaminos mágicos desgastados."
 	},
 	[21664] = {
-		Title = "Viejos registros mágicos (en espera)",
+		Title = "[Espera] Viejos registros mágicos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21665] = {
-		Title = "Viejos registros mágicos (otra vez)",
+		Title = "Edén: Viejos registros mágicos",
 		Description = {
 			"Recopilemos 10 Pergaminos mágicos desgastados de los que tiene el Anciano de vez en cuando."
 		},
 		Summary = "10 Pergaminos mágicos desgastados."
 	},
 	[21666] = {
-		Title = "Recolección de reciclaje",
+		Title = "Edén: Recolección de reciclaje",
 		Description = {
 			"Recolecta 30 unidades de Ropa andrajosa del Duque búho o el Barón búho."
 		},
 		Summary = "30 unidades de Ropa andrajosa."
 	},
 	[21667] = {
-		Title = "Recolección de reciclaje (en espera)",
+		Title = "[Espera] Recolección de reciclaje",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21668] = {
-		Title = "Recolección de reciclaje (otra vez)",
+		Title = "Edén: Recolección de reciclaje",
 		Description = {
 			"Recolecta 30 unidades de Ropa andrajosa que pertenezcan al Duque búho o al Barón búho."
 		},
 		Summary = "30 unidades de Ropa andrajosa."
 	},
 	[21669] = {
-		Title = "Vigilancia y castigo",
+		Title = "Edén: Vigilancia y castigo",
 		Description = {
 			"Caza 30 Agentes del castigo divino, que pretenden limitar la exploración humana."
 		},
 		Summary = "30 Agentes del castigo de dios."
 	},
 	[21670] = {
-		Title = "Vigilancia y castigo (en espera)",
+		Title = "[Espera] Vigilancia y castigo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21671] = {
-		Title = "Vigilancia y castigo (otra vez)",
+		Title = "Edén: Vigilancia y castigo",
 		Description = {
 			"Caza 30 Agentes del castigo divino, que pretenden limitar la exploración humana."
 		},
 		Summary = "30 Agentes del castigo divino."
 	},
 	[21672] = {
-		Title = "Dulce veneno",
+		Title = "Edén: Dulce veneno",
 		Description = {
 			"Caza 30 Consuelos, que solo son un dulce veneno para los oídos."
 		},
 		Summary = "30 Consuelos."
 	},
 	[21673] = {
-		Title = "Dulce veneno (en espera)",
+		Title = "[Espera] Dulce veneno",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21674] = {
-		Title = "Dulce veneno (otra vez)",
+		Title = "Edén: Dulce veneno",
 		Description = {
 			"Cacemos 30 Consuelos, que solo son un dulce veneno para los oídos."
 		},
 		Summary = "30 Consuelos."
 	},
 	[21675] = {
-		Title = "Descanso en la muerte",
+		Title = "Edén: Descanso en la muerte",
 		Description = {
 			"Cacemos 30 Señoras de la protección, ya que sus intenciones son, obviamente, darte descanso matándote."
 		},
 		Summary = "30 Señoras de la protección."
 	},
 	[21676] = {
-		Title = "Descanso en la muerte (en espera)",
+		Title = "[Espera] Descanso en la muerte",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21677] = {
-		Title = "Descanso en la muerte (otra vez)",
+		Title = "Edén: Descanso en la muerte",
 		Description = {
 			"Vamos a cazar a 30 Señoras de la protección, las que quieren darte descanso matándote."
 		},
 		Summary = "30 Señoras de la protección."
 	},
 	[21678] = {
-		Title = "Semillas de control",
+		Title = "Edén: Semillas de Control",
 		Description = {
 			"Para detener la vigilancia que inicia el control, caza a 30 Vigilantes."
 		},
 		Summary = "30 Vigilantes."
 	},
 	[21679] = {
-		Title = "Semillas de control (en espera)",
+		Title = "[Espera] Semillas de Control",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21680] = {
-		Title = "Las semillas del control de nuevo",
+		Title = "Edén: Semillas de Control",
 		Description = {
 			"Para detener la vigilancia que inicia el control, caza a 30 Vigilantes."
 		},
@@ -54100,189 +55518,189 @@ QuestInfoList = {
 		Summary = "Ve a Glastheim."
 	},
 	[21683] = {
-		Title = "A los bufones lamentables",
+		Title = "Edén: A los bufones lamentables",
 		Description = {
 			"Bufones lamentables, caza 30 Carat para consolar sus almas."
 		},
 		Summary = "30 Carat."
 	},
 	[21684] = {
-		Title = "A los bufones lamentables (en espera)",
+		Title = "[Espera] A los bufones lamentables",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21685] = {
-		Title = "A los bufones lamentables (otra vez)",
+		Title = "Edén: A los bufones lamentables",
 		Description = {
 			"Bufones lamentables, caza 30 Carat para consolar sus almas."
 		},
 		Summary = "30 Carat."
 	},
 	[21686] = {
-		Title = "A un pequeño insecto",
+		Title = "Edén: A un pequeño insecto",
 		Description = {
 			"Cacemos 30 Arclouze y enviémoslos a los dioses, que velan también por estos diminutos insectos."
 		},
 		Summary = "30 Arclouze."
 	},
 	[21687] = {
-		Title = "A un pequeño insecto (en espera)",
+		Title = "[Espera] A un pequeño insecto",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21688] = {
-		Title = "A un pequeño insecto (otra vez)",
+		Title = "Edén: A un pequeño insecto",
 		Description = {
 			"Cacemos 30 Arclouze y enviémoslos a los dioses, que velan también por estos diminutos gusanos."
 		},
 		Summary = "30 Arclouze."
 	},
 	[21689] = {
-		Title = "El cielo de los vivos",
+		Title = "Edén: El cielo de los vivos",
 		Description = {
 			"Muele a palos 30 Anolian para purificarlos."
 		},
 		Summary = "30 Anolian."
 	},
 	[21690] = {
-		Title = "El cielo de los vivos (en espera)",
+		Title = "[Espera] El cielo de los vivos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21691] = {
-		Title = "El cielo de los vivos (otra vez)",
+		Title = "Edén: El cielo de los vivos",
 		Description = {
 			"Muele a palos 30 Anolian para purificarlos."
 		},
 		Summary = "30 Anolian."
 	},
 	[21692] = {
-		Title = "No dudarás del alma",
+		Title = "Edén: No dudarás del alma",
 		Description = {
 			"No dudes que los Sting tienen alma, vamos a darles una paliza a 30 de ellos."
 		},
 		Summary = "30 Sting."
 	},
 	[21693] = {
-		Title = "No dudarás del alma (en espera)",
+		Title = "[Espera] No dudarás del alma",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21694] = {
-		Title = "No dudarás del alma (otra vez)",
+		Title = "Edén: No dudarás del alma",
 		Description = {
 			"No dudes que los Sting tienen alma, vamos a darles una paliza a 30 de ellos."
 		},
 		Summary = "30 Sting."
 	},
 	[21695] = {
-		Title = "Delicio… No, pobres almas",
+		Title = "Edén: Delicio... No, pobres almas",
 		Description = {
 			"Muele a palos 30 Majorous para purificarlos."
 		},
 		Summary = "30 Majorous."
 	},
 	[21696] = {
-		Title = "Delicio… No, pobres almas (en espera)",
+		Title = "[Espera] Delicio... No, pobres almas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21697] = {
-		Title = "Delicio… No, pobres almas (otra vez)",
+		Title = "Edén: Delicio... No, pobres almas",
 		Description = {
 			"Muele a palos 30 Majorous para purificarlos."
 		},
 		Summary = "30 Majorous."
 	},
 	[21698] = {
-		Title = "Solo una armadura vacía",
+		Title = "Edén: Solo una armadura vacía",
 		Description = {
 			"Caza 30 Raydric y ayuda a Chiave."
 		},
 		Summary = "30 Raydric."
 	},
 	[21699] = {
-		Title = "Solo una armadura vacía (en espera)",
+		Title = "[Espera] Solo una armadura vacía",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21700] = {
-		Title = "Solo una armadura vacía (otra vez)",
+		Title = "Edén: Solo una armadura vacía",
 		Description = {
 			"Cacemos 30 Raydric y ayuda a Chiave."
 		},
 		Summary = "30 Raydric."
 	},
 	[21701] = {
-		Title = "¿Almas justas?",
+		Title = "Edén: ¿Almas justas?",
 		Description = {
 			"Caza 30 Khalitzburg para ayudar a Chiave."
 		},
 		Summary = "30 Khalitzburg."
 	},
 	[21702] = {
-		Title = "¿Almas justas? (en espera)",
+		Title = "[Espera] ¿Almas justas?",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21703] = {
-		Title = "¿Almas justas? (otra vez)",
+		Title = "Edén: ¿Almas justas?",
 		Description = {
 			"Caza 30 Khalitzburg para ayudar a Chiave."
 		},
 		Summary = "30 Khalitzburg."
 	},
 	[21704] = {
-		Title = "El enemigo jurado de un caballero",
+		Title = "Edén: El enemigo jurado de un caballero",
 		Description = {
 			"Caza 30 Vagabundos y ayuda a Chiave."
 		},
 		Summary = "30 Vagabundos."
 	},
 	[21705] = {
-		Title = "El enemigo jurado de un caballero (en espera)",
+		Title = "[Espera] El enemigo jurado de un caballero",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21706] = {
-		Title = "El enemigo jurado de un caballero (otra vez)",
+		Title = "Edén: El enemigo jurado de un caballero",
 		Description = {
 			"Caza 30 Vagabundos y ayuda a Chiave."
 		},
 		Summary = "30 Vagabundos."
 	},
 	[21707] = {
-		Title = "Un oponente digno",
+		Title = "Edén: Un oponente digno",
 		Description = {
 			"Caza 10 Caballeros abismales y ayuda a Chiave."
 		},
 		Summary = "10 Caballeros abismales."
 	},
 	[21708] = {
-		Title = "Un oponente digno (en espera)",
+		Title = "[Espera] Un oponente digno",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21709] = {
-		Title = "Un oponente digno (otra vez)",
+		Title = "Edén: Un oponente digno",
 		Description = {
 			"Caza 10 Caballeros abismales y ayuda a Chiave."
 		},
@@ -54310,343 +55728,343 @@ QuestInfoList = {
 		Summary = "Hacia el pueblo de Mora"
 	},
 	[21713] = {
-		Title = "Chica envuelta en hojas",
+		Title = "Edén: Chica envuelta en hojas",
 		Description = {
 			"Derrota a 30 hermosas Pinguicula."
 		},
 		Summary = "Derrota 30 Pinguicula."
 	},
 	[21714] = {
-		Title = "Chica envuelta en hojas (en espera)",
+		Title = "[Espera] Chica envuelta en hojas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21715] = {
-		Title = "Chica envuelta en hojas (otra vez)",
+		Title = "Edén: Chica envuelta en hojas",
 		Description = {
 			"Derrota a 30 hermosas Pinguicula."
 		},
 		Summary = "Derrota 30 Pinguicula."
 	},
 	[21716] = {
-		Title = "Belleza emocionante",
+		Title = "Edén: Belleza emocionante",
 		Description = {
 			"Derrota a 30 increíblemente geniales Luciola Vespa."
 		},
 		Summary = "Derrota 30 Luciola Vespa."
 	},
 	[21717] = {
-		Title = "Belleza emocionante (en espera)",
+		Title = "[Espera] Belleza emocionante",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21718] = {
-		Title = "Belleza emocionante (otra vez)",
+		Title = "Edén: Belleza emocionante",
 		Description = {
 			"Derrota a 30 increíblemente geniales Luciola Vespa."
 		},
 		Summary = "Derrota 30 Luciola Vespa."
 	},
 	[21719] = {
-		Title = "Rey del Nuevo mundo",
+		Title = "Edén: Rey del Nuevo mundo",
 		Description = {
 			"Derrota a 1 majestuoso León enredadera."
 		},
 		Summary = "Derrota a 1 León enredadera."
 	},
 	[21720] = {
-		Title = "Rey del Nuevo mundo (en espera)",
+		Title = "[Espera] Rey del Nuevo mundo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21721] = {
-		Title = "Rey del Nuevo mundo",
+		Title = "Edén: Rey del Nuevo mundo",
 		Description = {
 			"Derrota a 1 majestuoso León enredadera."
 		},
 		Summary = "Derrota a 1 León enredadera."
 	},
 	[21722] = {
-		Title = "Dama vestida de hojas",
+		Title = "Edén: Dama vestida de hojas",
 		Description = {
 			"Derrota a 30 Pinguicula oscuras y a su belleza madura."
 		},
 		Summary = "Derrota 30 Pinguicula oscuras."
 	},
 	[21723] = {
-		Title = "Dama vestida de hojas (en espera)",
+		Title = "[Espera] Dama vestida de hojas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21724] = {
-		Title = "Dama vestida de hojas (otra vez)",
+		Title = "Edén: Dama vestida de hojas",
 		Description = {
 			"Derrota a 30 Pinguicula oscuras y a su belleza madura."
 		},
 		Summary = "Derrota 30 Pinguicula oscuras."
 	},
 	[21725] = {
-		Title = "Marcador de flores secas",
+		Title = "Edén: Marcador de flores secas",
 		Description = {
 			"Atrapemos 30 Nepenthes con hermosas flores."
 		},
 		Summary = "30 Nepenthes."
 	},
 	[21726] = {
-		Title = "Marcador de flores secas (en espera)",
+		Title = "[Espera] Marcador de flores secas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21727] = {
-		Title = "Marcador de flores secas",
+		Title = "Edén: Marcador de flores secas",
 		Description = {
 			"Atrapemos 30 Nepenthes con hermosas flores."
 		},
 		Summary = "30 Nepenthes."
 	},
 	[21728] = {
-		Title = "¡Lindos músculos!",
+		Title = "Edén: ¡Lindos músculos!",
 		Description = {
 			"Derrota a 30 Naga musculosos."
 		},
 		Summary = "Derrota 30 Naga."
 	},
 	[21729] = {
-		Title = "¡Lindos músculos! (En espera)",
+		Title = "[Espera] ¡Lindos músculos!",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21730] = {
-		Title = "De nuevo... ¡Lindos músculos!",
+		Title = "Edén: ¡Lindos músculos!",
 		Description = {
 			"Derrota a 30 Naga musculosos."
 		},
 		Summary = "Derrota 30 Naga."
 	},
 	[21731] = {
-		Title = "Como salido de un cuento de hadas.",
+		Title = "Edén: Como salido de un cuento de hadas.",
 		Description = {
 			"Derrota a 30 Cornus, unos monstruos salidos de un cuento de hadas."
 		},
 		Summary = "Derrota 30 Cornus."
 	},
 	[21732] = {
-		Title = "Como salido de un cuento de hadas (en espera).",
+		Title = "[Espera] Como salido de un cuento de hadas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21733] = {
-		Title = "Cuento de hadas. de nuevo",
+		Title = "Edén: Cuento de hadas",
 		Description = {
 			"Atrapemos 30 Cornus, como en un cuento de hadas."
 		},
 		Summary = "30 Cornus."
 	},
 	[21734] = {
-		Title = "Carisma estimulante",
+		Title = "Edén: Carisma estimulante",
 		Description = {
 			"Atrapemos 20 Larvas de escolopendra adorable con caparazones sexy."
 		},
 		Summary = "20 Larvas de escolopendra."
 	},
 	[21735] = {
-		Title = "Carisma estimulante (en espera)",
+		Title = "[Espera] Carisma estimulante",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21736] = {
-		Title = "Revitaliza tu atractivo",
+		Title = "Edén: Carisma estimulante",
 		Description = {
 			"Atrapemos 20 Larvas de escolopendra adorable con caparazones sexy."
 		},
 		Summary = "20 Larvas de escolopendra."
 	},
 	[21737] = {
-		Title = "Cuernos de encantamiento",
+		Title = "Edén: Cuernos de encantamiento",
 		Description = {
 			"Recolecta 20 preciosos Cuernos de encantamiento de Cornus."
 		},
 		Summary = "20 Cuernos de encantamiento."
 	},
 	[21738] = {
-		Title = "Cuerno de encantamiento (en espera)",
+		Title = "[Espera] Cuerno de encantamiento",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21739] = {
-		Title = "Un cuerno encantado (otra vez)",
+		Title = "Edén: Un cuerno encantado",
 		Description = {
 			"Recolecta 20 preciosos Cuernos de encantamiento que contienen la magia de Cornus."
 		},
 		Summary = "20 Cuernos de encantamiento."
 	},
 	[21740] = {
-		Title = "Insectos venenosos",
+		Title = "Edén: Insectos venenosos",
 		Description = {
 			"Derrota a 20 Escolopendras, criaturas temibles, fértiles y venenosas."
 		},
 		Summary = "20 Escolopendras."
 	},
 	[21741] = {
-		Title = "Insectos venenosos (en espera)",
+		Title = "[Espera] Insectos venenosos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21742] = {
-		Title = "Insectos venenosos (otra vez)",
+		Title = "Edén: Insectos venenosos",
 		Description = {
 			"Derrota a 20 Escolopendras, criaturas temibles, fértiles y venenosas."
 		},
 		Summary = "20 Escolopendras."
 	},
 	[21743] = {
-		Title = "Holgazán incompetente",
+		Title = "Edén: Holgazán incompetente",
 		Description = {
 			"20 Tatacho por ser perezosos y estar siempre en movimiento."
 		},
 		Summary = "20 Tatacho."
 	},
 	[21744] = {
-		Title = "Holgazán incompetente (en espera)",
+		Title = "[Espera] Holgazán incompetente",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21745] = {
-		Title = "Holgazán incompetente (otra vez)",
+		Title = "Edén: Holgazán incompetente",
 		Description = {
 			"20 Tatacho por ser perezosos y estar siempre en movimiento."
 		},
 		Summary = "20 Tatacho."
 	},
 	[21746] = {
-		Title = "Parece una coraza",
+		Title = "Edén: Las apariencias engañan",
 		Description = {
 			"Matemos a 30 Dolomedes, no sea que los necios se dejen engañar por las apariencias."
 		},
 		Summary = "30 Dolomedes."
 	},
 	[21747] = {
-		Title = "Parece una coraza (en espera)",
+		Title = "[Espera] Las apariencias engañan",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21748] = {
-		Title = "Las apariencias engañan (otra vez)",
+		Title = "Edén: Las apariencias engañan",
 		Description = {
 			"Para que los necios no se dejen engañar por las apariencias, matemos a 30 Dolomedes."
 		},
 		Summary = "30 Dolomedes."
 	},
 	[21749] = {
-		Title = "Rompe los cuernos",
+		Title = "Edén: Rompe los cuernos",
 		Description = {
 			"Derrota a 30 Scaraba de cuernos en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de cuernos."
 	},
 	[21750] = {
-		Title = "Cuernos de punta",
+		Title = "[Espera] Rompe los cuernos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21751] = {
-		Title = "Rompe los cuernos (otra vez)",
+		Title = "Edén: Rompe los cuernos",
 		Description = {
 			"Derrota a 30 Scaraba de cuernos en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de cuernos."
 	},
 	[21752] = {
-		Title = "Quítate los cuernos gemelos",
+		Title = "Edén: Quítate los cuernos gemelos",
 		Description = {
 			"Derrota a 30 Scaraba con cuernos gemelos en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de dos cuernos."
 	},
 	[21753] = {
-		Title = "Cuernos gemelos (en espera)",
+		Title = "[Espera] Cuernos gemelos",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21754] = {
-		Title = "Quítate los cuernos gemelos (otra vez)",
+		Title = "Edén: Cuernos gemelos",
 		Description = {
 			"Derrota a 30 Scaraba con cuernos gemelos en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de dos cuernos."
 	},
 	[21755] = {
-		Title = "Romper astas",
+		Title = "Edén: Romper astas",
 		Description = {
 			"Derrota a 30 Scaraba de asta en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de asta."
 	},
 	[21756] = {
-		Title = "Romper astas (en espera)",
+		Title = "[Espera] Romper astas",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21757] = {
-		Title = "Romper astas (otra vez)",
+		Title = "Edén: Romper astas",
 		Description = {
 			"Derrota a 30 Scaraba de asta en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de asta."
 	},
 	[21758] = {
-		Title = "Dominar Scaraba de rastrillo",
+		Title = "Edén: Dominar Scaraba de rastrillo",
 		Description = {
 			"Derrota a 30 Scaraba con garras en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de rastrillo."
 	},
 	[21759] = {
-		Title = "Dominar Scaraba de rastrillo (en espera)",
+		Title = "[Espera] Dominar Scaraba de rastrillo",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21760] = {
-		Title = "Dominar Scaraba de rastrillo (otra vez)",
+		Title = "Edén: Dominar Scaraba de rastrillo",
 		Description = {
 			"Derrota a 30 Scaraba de rastrillo en el Agujero de Scaraba."
 		},
 		Summary = "30 Scaraba de rastrillo."
 	},
 	[21761] = {
-		Title = "El tormento de Morroc",
+		Title = "Edén: El tormento de Morroc",
 		Description = {
 			"Derrota a 15 Cóndores de fuego y 15 Frilldora de fuego, transformados por el tormento de Morroc."
 		},
@@ -54660,14 +56078,14 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21763] = {
-		Title = "El tormento de Morroc (otra vez)",
+		Title = "Edén: El tormento de Morroc (otra vez)",
 		Description = {
 			"Derrota a 15 Cóndores de fuego y 15 Frilldora de fuego, transformados por el tormento de Morroc."
 		},
 		Summary = "15 Cóndores de fuego y 15 Frilldora de fuego."
 	},
 	[21764] = {
-		Title = "El truco de Morroc",
+		Title = "Edén: El truco de Morroc",
 		Description = {
 			"Derrota a 15 Hombres de arena y 15 Gólems de llama que hayan sido arrasados por los trucos de Morroc."
 		},
@@ -54681,49 +56099,49 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21766] = {
-		Title = "El truco de Morroc (otra vez)",
+		Title = "Edén: El truco de Morroc (otra vez)",
 		Description = {
 			"Derrota a 15 Hombres de arena y 15 Gólems de llama que hayan sido arrasados por los trucos de Morroc."
 		},
 		Summary = "15 Hombres de arena y 15 Gólems de llama."
 	},
 	[21767] = {
-		Title = "Nunu",
+		Title = "Edén: Nunu",
 		Description = {
 			"Cacemos 20 Miming y despejemos el camino para que Nuinui emprenda su aventura."
 		},
 		Summary = "20 Miming."
 	},
 	[21768] = {
-		Title = "Un niño burbujeante (en espera)",
+		Title = "[Espera] Un niño burbujeante",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nuinui en el Pueblo de Mora."
 		},
-		Summary = "Se reinicia a las 4:00."
+		Summary = "Se reinicia a las 4:00"
 	},
 	[21769] = {
-		Title = "Una niña burbujeante (otra vez)",
+		Title = "Edén: Una niña burbujeante",
 		Description = {
 			"Vamos a cazar 20 Miming para despejar el camino de Nunu hacia su aventura."
 		},
-		Summary = "20 Miming."
+		Summary = "20 Miming"
 	},
 	[21770] = {
-		Title = "Pequeño bromista",
+		Title = "Edén: Pequeño bromista",
 		Description = {
 			"Cacemos a 20 Fatum pequeños y despejemos el camino de Nuinui hacia su aventura."
 		},
-		Summary = "20 Fatum pequeños."
+		Summary = "20 Fatum pequeños"
 	},
 	[21771] = {
-		Title = "Pequeño bromista (en espera)",
+		Title = "[Espera] Pequeño bromista",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nuinui en el Pueblo de Mora."
 		},
-		Summary = "Se reinicia a las 4:00."
+		Summary = "Se reinicia a las 4:00"
 	},
 	[21772] = {
-		Title = "Pequeño bromista (otra vez)",
+		Title = "Edén: Pequeño bromista",
 		Description = {
 			"Cacemos a 20 Fatum pequeños y despejemos el camino de Nuinui hacia su aventura."
 		},
@@ -54737,49 +56155,49 @@ QuestInfoList = {
 		Summary = "Busca la Manifestación de Morroc."
 	},
 	[21774] = {
-		Title = "Formas angelicales",
+		Title = "Edén: Formas angelicales",
 		Description = {
 			"Caza a 30 Encarnaciones de Morroc tipo Valkiria para la fantasía irrealizable de Lartal."
 		},
 		Summary = "30 Encarnaciones de Morroc tipo Valkiria."
 	},
 	[21775] = {
-		Title = "Formas angelicales (en espera)",
+		Title = "[Espera] Formas angelicales",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Lartal en Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21776] = {
-		Title = "Formas angelicales (otra vez)",
+		Title = "Edén: Formas angelicales",
 		Description = {
 			"Caza 30 Morroc tipo Valkiria para la fantasía irrealizable de Lartal."
 		},
 		Summary = "30 Morroc tipo Valkiria."
 	},
 	[21777] = {
-		Title = "Bendición del descanso",
+		Title = "Edén: Bendición del descanso",
 		Description = {
 			"Caza a 30 Morroc de barro para la fantasía irrealizable de Lartal."
 		},
 		Summary = "30 Manifestaciones de Morroc de barro."
 	},
 	[21778] = {
-		Title = "Bendición del descanso (en espera)",
+		Title = "[Espera] Bendición del descanso",
 		Description = {
 			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Lartal en Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21779] = {
-		Title = "Bendición del descanso",
+		Title = "Edén: Bendición del descanso",
 		Description = {
 			"Caza a 30 Morroc de barro para la fantasía irrealizable de Lartal."
 		},
 		Summary = "30 Manifestaciones de Morroc de barro."
 	},
 	[21780] = {
-		Title = "Alegría vinculante",
+		Title = "Edén: Alegría vinculante",
 		Description = {
 			"Caza a 30 Morroc tipo Exorcista por los sueños irrealizables de Lartal."
 		},
@@ -54793,14 +56211,14 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21782] = {
-		Title = "El placer de la esclavitud",
+		Title = "Edén: El placer de la esclavitud",
 		Description = {
 			"Caza a 30 Morroc tipo Exorcista por los sueños irrealizables de Lartal."
 		},
 		Summary = "30 Manifestaciones exorcistas de Morroc"
 	},
 	[21783] = {
-		Title = "La encarnación de la pureza",
+		Title = "Edén: La encarnación de la pureza",
 		Description = {
 			"Caza a 30 Morroc tipo Fantasma por los sueños irrealizables de Lartal."
 		},
@@ -54814,14 +56232,14 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21785] = {
-		Title = "Implementación de la pureza",
+		Title = "Edén: Implementación de la pureza",
 		Description = {
 			"Caza a 30 Morroc tipo Fantasma por los sueños irrealizables de Lartal."
 		},
 		Summary = "30 Manifestaciones fantasmales de Morroc"
 	},
 	[21786] = {
-		Title = "Cacería de un Carat errante",
+		Title = "Edén: Cacería de un Carat errante",
 		Description = {
 			"Caza a un Carat errante en el piso 1 del castillo de Glastheim."
 		},
@@ -54835,7 +56253,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21788] = {
-		Title = "Cacería de un Meizuroth iracundo",
+		Title = "Edén: Cacería de un Meizuroth iracundo",
 		Description = {
 			"Caza a un Meizuroth iracundo en el piso 2 de las cavernas subterráneas de Glastheim."
 		},
@@ -54849,7 +56267,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21790] = {
-		Title = "Cacería de un Radrik robusto",
+		Title = "Edén: Cacería de un Radrik robusto",
 		Description = {
 			"Caza a un Radrik robusto en el piso 1 de los Caballeros de Glastheim."
 		},
@@ -54863,7 +56281,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21792] = {
-		Title = "Cacería de un Radrik veloz",
+		Title = "Edén: Cacería de un Radrik veloz",
 		Description = {
 			"Caza a un Radrik veloz en el piso 2 de los Caballeros de Glastheim."
 		},
@@ -54877,7 +56295,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21794] = {
-		Title = "Cacería de un Merodeador iracundo",
+		Title = "Edén: Cacería de un Merodeador iracundo",
 		Description = {
 			"Caza a un Merodeador Furioso en el piso 2 del Castillo de Glastheim."
 		},
@@ -54891,7 +56309,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21796] = {
-		Title = "Cacería de un Zombi asesino veloz",
+		Title = "Edén: Cacería de un Zombi asesino veloz",
 		Description = {
 			"Caza a un Zombi asesino veloz en el sótano del monasterio de la Isla Anónima."
 		},
@@ -54905,7 +56323,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21798] = {
-		Title = "Cacería de una Banshee veloz",
+		Title = "Edén: Cacería de una Banshee veloz",
 		Description = {
 			"Caza a una Banshee veloz en el piso 1 del monasterio de la Isla anónima."
 		},
@@ -54919,7 +56337,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21800] = {
-		Title = "Cacería de un jefe Nigromante",
+		Title = "Edén: Cacería de un jefe Nigromante",
 		Description = {
 			"Caza al jefe Nigromante en el sótano del monasterio de la Isla Anónima."
 		},
@@ -54933,7 +56351,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21802] = {
-		Title = "Cacería de un Terror nocturno iracundo",
+		Title = "Edén: Cacería de un Terror nocturno iracundo",
 		Description = {
 			"Caza a un Terror nocturno furioso en el piso 2 de la Mazmorra de lava de Nogrod."
 		},
@@ -54947,7 +56365,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21804] = {
-		Title = "Cacería de un jefe Mímico antiguo",
+		Title = "Edén: Cacería de un jefe Mímico antiguo",
 		Description = {
 			"Caza al jefe Mímico antiguo en el museo de la planta inferior de la Torre de Thanatos."
 		},
@@ -54961,7 +56379,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21806] = {
-		Title = "Cacería de una Palabra de muerte resistente",
+		Title = "Edén: Cacería de una Palabra de muerte resistente",
 		Description = {
 			"Caza una Palabra de muerte resistente en la zona abandonada al pie de la Torre de Thanatos."
 		},
@@ -54975,7 +56393,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21808] = {
-		Title = "Cacería de un Venatu iracundo (en espera)",
+		Title = "Edén: Cacería de un Venatu iracundo (en espera)",
 		Description = {
 			"Caza a un Venatu iracundo afuera de las ruinas de Euphoros."
 		},
@@ -54989,7 +56407,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21810] = {
-		Title = "Cacería de un Dimyke veloz",
+		Title = "Edén: Cacería de un Dimyke veloz",
 		Description = {
 			"Caza a un Dimyke veloz en el centro de Euphoros."
 		},
@@ -55003,7 +56421,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21812] = {
-		Title = "Cacería de un Ferus iracundo",
+		Title = "Edén: Cacería de un Ferus iracundo",
 		Description = {
 			"Caza un Ferus iracundo en el piso 1 de las cuevas bajo el Lago del abismo."
 		},
@@ -55017,7 +56435,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21814] = {
-		Title = "Cacería de un Ácidus robusto",
+		Title = "Edén: Cacería de un Ácidus robusto",
 		Description = {
 			"Caza a un Ácidus robusto en el piso 2 de la cueva bajo el Lago del abismo."
 		},
@@ -55031,7 +56449,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21816] = {
-		Title = "Cacería de un Consuelo errante",
+		Title = "Edén: Cacería de un Consuelo errante",
 		Description = {
 			"Caza a un Consuelo errante en la Sala de agonía de la planta superior de la Torre de Thanatos."
 		},
@@ -55045,7 +56463,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21818] = {
-		Title = "Cacería de un jefe Vigilante",
+		Title = "Edén: Cacería de un jefe Vigilante",
 		Description = {
 			"Caza a un jefe Vigilante en la Sala de odio de la planta superior de la Torre de Thanatos."
 		},
@@ -55059,7 +56477,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21820] = {
-		Title = "Cacería de jefe, Laurel Weinder",
+		Title = "Edén: Cacería de jefe, Laurel Weinder",
 		Description = {
 			"Caza a un jefe, Laurel Weinder, en el sótano del laboratorio de Biotecnología."
 		},
@@ -55073,7 +56491,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21822] = {
-		Title = "Cacería de un Cecil Dimon robusto",
+		Title = "Edén: Cacería de un Cecil Dimon robusto",
 		Description = {
 			"Caza a un Cecil Dimon robusto en el sótano del laboratorio de Biotecnología."
 		},
@@ -55087,7 +56505,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21824] = {
-		Title = "Cacería de un Viento de la colina veloz",
+		Title = "Edén: Cacería de un Viento de la colina veloz",
 		Description = {
 			"Caza a un Viento de la colina veloz en el campo al noreste-noroeste de Rachel."
 		},
@@ -55101,7 +56519,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21826] = {
-		Title = "Cacería de un Kobold robusto",
+		Title = "Edén: Cacería de un Kobold robusto",
 		Description = {
 			"Caza a un Kobold robusto en el campo al noroeste del norte de Lighthalzen."
 		},
@@ -55115,7 +56533,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21828] = {
-		Title = "Cacería de un Kobold (Arquero) veloz",
+		Title = "Edén: Cacería de un Kobold (Arquero) veloz",
 		Description = {
 			"Caza a un Kobold (Arquero) veloz en el campo al norte de Lighthalzen."
 		},
@@ -55129,7 +56547,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21830] = {
-		Title = "Cacería de un Snoyer robusto",
+		Title = "Edén: Cacería de un Snoyer robusto",
 		Description = {
 			"Caza a un Snoyer robusto en el piso 2 de la Cueva de hielo."
 		},
@@ -55143,7 +56561,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21832] = {
-		Title = "Cacería de un Titán de hielo veloz",
+		Title = "Edén: Cacería de un Titán de hielo veloz",
 		Description = {
 			"Caza a un Titán de hielo veloz en el piso 3 de la Cueva de hielo."
 		},
@@ -55157,7 +56575,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21834] = {
-		Title = "Cacería de un jefe Isila",
+		Title = "Edén: Cacería de un jefe Isila",
 		Description = {
 			"Caza a un jefe Isila en la sección oeste del santuario, en la primera planta del templo de Rachel."
 		},
@@ -55171,7 +56589,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21836] = {
-		Title = "Cacería de un jefe Ekio",
+		Title = "Edén: Cacería de un jefe Ekio",
 		Description = {
 			"Cazaste a un jefe Ekio en la sección sur del santuario, en el piso 1 del Templo de Rachel."
 		},
@@ -55185,7 +56603,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21838] = {
-		Title = "Cacería de un Agav veloz",
+		Title = "Edén: Cacería de un Agav veloz",
 		Description = {
 			"Caza a un Agav veloz en el santuario del Templo de Rachel, piso 2 , zona central."
 		},
@@ -55199,7 +56617,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21840] = {
-		Title = "Cacería de un Luciola Vespa errante",
+		Title = "Edén: Cacería de un Luciola Vespa errante",
 		Description = {
 			"Caza a un Luciola Vespa errante en los Campos espléndidos."
 		},
@@ -55213,7 +56631,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21842] = {
-		Title = "Cacería de una Pinguicula oscura robusta",
+		Title = "Edén: Cacería de una Pinguicula oscura robusta",
 		Description = {
 			"Caza a una Pinguicula oscura robusta en los Campos espléndidos."
 		},
@@ -55227,7 +56645,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21844] = {
-		Title = "Cacería de un Escolopendra veloz",
+		Title = "Edén: Cacería de un Escolopendra veloz",
 		Description = {
 			"Caza a un Escolopendra veloz al pie de la montaña Camidal."
 		},
@@ -55241,7 +56659,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21846] = {
-		Title = "Cacería de un jefe Dolomedes",
+		Title = "Edén: Cacería de un jefe Dolomedes",
 		Description = {
 			"Caza a un solo jefe Dolomedes al pie de la montaña Camidal."
 		},
@@ -55255,7 +56673,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21848] = {
-		Title = "Cacería de un Scaraba con astas errante",
+		Title = "Edén: Cacería de un Scaraba con astas errante",
 		Description = {
 			"Caza un Scaraba con astas errante en el piso 1 del Agujero de Scaraba."
 		},
@@ -55269,7 +56687,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21850] = {
-		Title = "Cacería de un jefe Miming",
+		Title = "Edén: Cacería de un jefe Miming",
 		Description = {
 			"Cazaste un jefe Miming en el sur de Befrost."
 		},
@@ -55283,7 +56701,7 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21852] = {
-		Title = "Cacería de un Fatum pequeño furioso",
+		Title = "Edén: Cacería de un Fatum pequeño furioso",
 		Description = {
 			"Caza a un Fatum pequeño furioso al norte de Befrost."
 		},
@@ -55327,14 +56745,14 @@ QuestInfoList = {
 	[21904] = {
 		Title = "El paradero del Rastreador de hierbas",
 		Description = {
-			"Acepté revisar el jardín de hierbas mientras Leno está fuera practicando. De hecho, un amigo suyo ya fue en su lugar… "
+			"Acepté revisar el jardín de hierbas mientras Leno está fuera practicando. De hecho, un amigo suyo ya fue en su lugar..."
 		},
 		Summary = "Habla con la niña"
 	},
 	[21905] = {
 		Title = "Apuesta con el Rastreador de hierbas",
 		Description = {
-			"Apostamos matar a una “Lunático” y conseguir un “Trébol”. Es una apuesta unilateral, pero… Hay muchos Lunáticos alrededor, así que vamos a derrotarlos rápidamente."
+			"Apostamos matar a una “Lunático” y conseguir un “Trébol”. Es una apuesta unilateral, pero... Hay muchos Lunáticos alrededor, así que vamos a derrotarlos rápidamente."
 		},
 		Summary = "1 Trébol para  la niña."
 	},
@@ -56423,6 +57841,14 @@ QuestInfoList = {
 		Summary = "En Busca de Joe",
 		CoolTimeQuest = 1
 	},
+	[25000] = {
+		Title = "¡Encuentra a Tiburón Abuelo!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Iba a jugar con Tiburón Bebé, pero de repente empezamos a jugar a las escondidas con Tiburón Abuelo. ¡Encontremos a Tiburón Abuelo!"
+		},
+		Summary = "Encontrar a Tiburón Abuelo"
+	},
 	[40000] = {
 		Title = "El ladrón de Lighthalzen",
 		Description = {
@@ -56473,7 +57899,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[40007] = {
-		Title = "La mejor manera de llegar al corazón de una mujer…",
+		Title = "La mejor manera de llegar al corazón de una mujer...",
 		Description = {
 			"Lleva un Bistec explosivo a la anciana Kroot para que reduzca el pago del contrato de Ling Mynmei a 50 000 zeny."
 		},
@@ -56874,7 +58300,7 @@ QuestInfoList = {
 	[50509] = {
 		Title = "Día de la Madre",
 		Description = {
-			"Synthia dice que Lenore y su madre estuvieron aquí para luchar contra el Señor de los muertos…"
+			"Synthia dice que Lenore y su madre estuvieron aquí para luchar contra el Señor de los muertos..."
 		},
 		Summary = "Continúa tu conversación con Synthia."
 	},
@@ -58681,14 +60107,14 @@ QuestInfoList = {
 	[60351] = {
 		Title = "El fantasma del baño",
 		Description = {
-			"Escuchas algo desde el baño. La segunda línea de la canción de Pedro era “^FF0000¡Madre, el agua se está desbordando!^000000 Si la luna desaparece 3 veces… no te preocupes…"
+			"Escuchas algo desde el baño. La segunda línea de la canción de Pedro era “^FF0000¡Madre, el agua se está desbordando!^000000 Si la luna desaparece 3 veces... no te preocupes..."
 		},
 		Summary = ""
 	},
 	[60352] = {
 		Title = "El fantasma del baño",
 		Description = {
-			"Escuchas algo desde el grifo. La tercera línea de la canción de Pedro era “^FF0000¡Madre, la sequía ha comenzado!^000000 No te preocupes… la cascada ayudará…"
+			"Escuchas algo desde el grifo. La tercera línea de la canción de Pedro era “^FF0000¡Madre, la sequía ha comenzado!^000000 No te preocupes... la cascada ayudará..."
 		},
 		Summary = ""
 	},
@@ -58702,7 +60128,7 @@ QuestInfoList = {
 	[60354] = {
 		Title = "El fantasma del baño",
 		Description = {
-			"Escuchas algo desde el espejo. La quinta línea de la canción de Pedro era “^FF0000¿Dónde estás, mamá?^000000 No te preocupes… la cascada ayudará…"
+			"Escuchas algo desde el espejo. La quinta línea de la canción de Pedro era “^FF0000¿Dónde estás, mamá?^000000 No te preocupes... la cascada ayudará..."
 		},
 		Summary = ""
 	},
@@ -59948,14 +61374,14 @@ QuestInfoList = {
 	[60582] = {
 		Title = "Cacería de Mantis Angra",
 		Description = {
-			"Caza Mantis Angra en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
+			"Caza Mantis Angra en Bifröst y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mantis Angra."
 	},
 	[60583] = {
 		Title = "Cacería de Arañas Pom",
 		Description = {
-			"Caza Arañas Pom en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
+			"Caza Arañas Pom en Bifröst y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Arañas Pom."
 	},
@@ -59976,14 +61402,14 @@ QuestInfoList = {
 	[60586] = {
 		Title = "Cacería de Miming",
 		Description = {
-			"Caza Miming en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
+			"Caza Miming en Bifröst y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Miming."
 	},
 	[60587] = {
 		Title = "Cacería de Fatum pequeños",
 		Description = {
-			"Caza Fatum pequeños en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
+			"Caza Fatum pequeños en Bifröst y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Fatum pequeños."
 	},
@@ -60312,7 +61738,7 @@ QuestInfoList = {
 	[60672] = {
 		Title = "Cultivo de la Semilla del hada",
 		Description = {
-			"Revisa la semilla con frecuencia para ver si creció…"
+			"Revisa la semilla con frecuencia para ver si creció..."
 		},
 		Summary = ""
 	},
@@ -60326,7 +61752,7 @@ QuestInfoList = {
 	[60680] = {
 		Title = "Cultivo de la Semilla del hada",
 		Description = {
-			"Revisa la semilla con frecuencia para ver si creció…"
+			"Revisa la semilla con frecuencia para ver si creció..."
 		},
 		Summary = ""
 	},
@@ -60382,7 +61808,7 @@ QuestInfoList = {
 	[60690] = {
 		Title = "Cultivo de la Semilla del hada",
 		Description = {
-			"Revisa la semilla con frecuencia para ver si creció…"
+			"Revisa la semilla con frecuencia para ver si creció..."
 		},
 		Summary = ""
 	},
@@ -60548,7 +61974,7 @@ QuestInfoList = {
 	[60730] = {
 		Title = "El sello de Megingjard",
 		Description = {
-			"Cuaque dijo que el pelotón encontró el “Megingjard” y estalló una discusión… Necesitas saber más sobre esa discusión. Quizá Jack. O. en los muelles de Alberta pueda ayudarte."
+			"Cuaque dijo que el pelotón encontró el “Megingjard” y estalló una discusión... Necesitas saber más sobre esa discusión. Quizá Jack. O. en los muelles de Alberta pueda ayudarte."
 		},
 		Summary = "Sigue siendo un Cruzado activo, así que creo que hablar con él será mucho más sencillo."
 	},
@@ -60571,7 +61997,7 @@ QuestInfoList = {
 		Description = {
 			"Sal de Jawaii con un Ala de mariposa o bebe hasta que termines en Rune-Midgarts. Ve a Comodo y visita a Royal Myst en el casino del sur. La forma más fácil de teletransportarse a Comodo es a través de Morroc."
 		},
-		Summary = "Un par de tragos de Alcohol pueden hacer que Royal Myst suelte la lengua…"
+		Summary = "Un par de tragos de Alcohol pueden hacer que Royal Myst suelte la lengua..."
 	},
 	[60734] = {
 		Title = "El sello de Megingjard",
@@ -60611,7 +62037,7 @@ QuestInfoList = {
 	[60739] = {
 		Title = "El sello de Megingjard",
 		Description = {
-			"A pesar de que no puede recordar, Emma siente la pérdida. Tu fe en la justicia se debilitó… Debes decirle a Max Von Shedough que él es el juez y, como tal, debe asumir su parte de la responsabilidad."
+			"A pesar de que no puede recordar, Emma siente la pérdida. Tu fe en la justicia se debilitó... Debes decirle a Max Von Shedough que él es el juez y, como tal, debe asumir su parte de la responsabilidad."
 		},
 		Summary = "Vuelve con Max Von Shedough en el castillo de Prontera."
 	},
@@ -61220,7 +62646,7 @@ QuestInfoList = {
 	[60930] = {
 		Title = "El misterio del asesinato en el museo",
 		Description = {
-			"Cuando entraste, nuevamente encontraste a la Sra. Fortuna guardando algo en su bolsillo…"
+			"Cuando entraste, nuevamente encontraste a la Sra. Fortuna guardando algo en su bolsillo..."
 		},
 		Summary = "Habla con la Sra. Fortuna."
 	},
@@ -61276,7 +62702,7 @@ QuestInfoList = {
 	[60938] = {
 		Title = "El misterio del asesinato en el museo",
 		Description = {
-			"El Curador principal dice tus pruebas no son suficientes para incriminarlo… La Sra. Fortuna tiene que saber sobre este giro inesperado."
+			"El Curador principal dice tus pruebas no son suficientes para incriminarlo... La Sra. Fortuna tiene que saber sobre este giro inesperado."
 		},
 		Summary = ""
 	},
@@ -61584,7 +63010,7 @@ QuestInfoList = {
 	[61026] = {
 		Title = "El ojo del Observador",
 		Description = {
-			"Ve con Bianca y lleva los objetos. ¡Ah! Y las 4 letras de la canción no llevan [-]… Cuando te miro a los ojos - Siento el latir de mi corazón. -Lloré todas esas noches - Miles de lágrimas como esta canción…"
+			"Ve con Bianca y lleva los objetos. ¡Ah! Y las 4 letras de la canción no llevan [-]... Cuando te miro a los ojos - Siento el latir de mi corazón. -Lloré todas esas noches - Miles de lágrimas como esta canción..."
 		},
 		Summary = ""
 	},
@@ -62676,7 +64102,7 @@ QuestInfoList = {
 	[62358] = {
 		Title = "Navidad caótica: El sueño de un niño",
 		Description = {
-			"Dile al niño ansioso… ¡que la Navidad sí va a llegar!"
+			"Dile al niño ansioso... ¡que la Navidad sí va a llegar!"
 		},
 		Summary = ""
 	},
@@ -63997,7 +65423,7 @@ QuestInfoList = {
 	[62585] = {
 		Title = "Kipp Brando y la carrera lenta",
 		Description = {
-			"Kipp cree que si vas muy lento en su desafío y ganas, significa que…fuiste muy lentamente."
+			"Kipp cree que si vas muy lento en su desafío y ganas, significa que...fuiste muy lentamente."
 		},
 		Summary = ""
 	},
@@ -66245,7 +67671,7 @@ QuestInfoList = {
 	[62907] = {
 		Title = "[Espera] 404 ¡No se puede encontrar!",
 		Description = {
-			"Atrapar bichos es muy agotador…¡cómo quisiera regresar a casa! Volvamos mañana para seguir atrapando bichos."
+			"Atrapar bichos es muy agotador...¡cómo quisiera regresar a casa! Volvamos mañana para seguir atrapando bichos."
 		},
 		Summary = "Se reinicia a las 4:00.",
 		CoolTimeQuest = 1
@@ -66385,7 +67811,7 @@ QuestInfoList = {
 	[62931] = {
 		Title = "Misión de Kiwi gatuno: Deviling",
 		Description = {
-			"¡Exterminar… Exterminar…!"
+			"¡Exterminar... Exterminar...!"
 		},
 		Summary = "Elimina a Deviling."
 	},
@@ -66441,7 +67867,7 @@ QuestInfoList = {
 	[62939] = {
 		Title = "Misión de Kiwi gatuno: Vocal",
 		Description = {
-			"Nunca me gustaron los bichos… acaba con este monstruo."
+			"Nunca me gustaron los bichos... acaba con este monstruo."
 		},
 		Summary = "Elimina a Vocal."
 	},
@@ -66504,7 +67930,7 @@ QuestInfoList = {
 	[62949] = {
 		Title = "Pesadilla en la calle Prontera",
 		Description = {
-			"Te han puesto en un estado de sueño. Quizás alguien pueda ayudarte…"
+			"Te han puesto en un estado de sueño. Quizás alguien pueda ayudarte..."
 		},
 		Summary = ""
 	},
@@ -66903,7 +68329,7 @@ QuestInfoList = {
 	[63032] = {
 		Title = "Mi posesión más querida",
 		Description = {
-			"Ve a Niflheim y busca a Rupert. Puede estar en cualquier lugar…"
+			"Ve a Niflheim y busca a Rupert. Puede estar en cualquier lugar..."
 		},
 		Summary = ""
 	},
@@ -67659,7 +69085,7 @@ QuestInfoList = {
 	[63225] = {
 		Title = "El misterio de un asesinato común",
 		Description = {
-			"Tal vez haya una pista en el piso…"
+			"Tal vez haya una pista en el piso..."
 		},
 		Summary = ""
 	},
@@ -67729,7 +69155,7 @@ QuestInfoList = {
 	[63235] = {
 		Title = "El trineo hacia el ayer",
 		Description = {
-			"Prepárate para… ¿¿un viaje en el tiempo?? Vuelve a hablar con Doc Holiday cuando tengas todo listo."
+			"Prepárate para... ¿¿un viaje en el tiempo?? Vuelve a hablar con Doc Holiday cuando tengas todo listo."
 		},
 		Summary = "Vuelve a hablar con Doc Holiday cuando tengas todo listo."
 	},
@@ -68018,7 +69444,7 @@ QuestInfoList = {
 		Description = {
 			"La abuela Boxter dice que el abuelo ha estado actuando de manera extraña últimamente. Quizás sea el momento de hablar con él directamente para llegar al fondo de este misterio."
 		},
-		Summary = "¿Buscar al abuelo cerca de…?"
+		Summary = "¿Buscar al abuelo cerca de...?"
 	},
 	[63279] = {
 		Title = "Feria Ferus",
@@ -68219,7 +69645,7 @@ QuestInfoList = {
 	[63308] = {
 		Title = "Celebración de la detonación",
 		Description = {
-			"Ya puedes completar las solicitudes de suministros para la celebración de la detonación. También puedes acceder al Chefcular Miau para obtener… ¡ganancias!"
+			"Ya puedes completar las solicitudes de suministros para la celebración de la detonación. También puedes acceder al Chefcular Miau para obtener... ¡ganancias!"
 		},
 		Summary = "Trae objetos para intercambiar con Kay D. Tona o el Chefcular Miau."
 	},
@@ -70501,7 +71927,7 @@ QuestInfoList = {
 	[63634] = {
 		Title = "Episodio Ragnarok",
 		Description = {
-			"Fui parte del Ciclo del Ragnarok… Seguiré soñando hasta que llegue el momento de volver a despertar."
+			"Fui parte del Ciclo del Ragnarok... Seguiré soñando hasta que llegue el momento de volver a despertar."
 		},
 		Summary = "Sueña hasta que despiertes."
 	},
@@ -71331,7 +72757,7 @@ QuestInfoList = {
 	[70012] = {
 		Title = "El tesoro de Izlude Irene",
 		Description = {
-			"“Para la siguiente pista, descended una cubierta. Cuando la halléis, el tesoro de Irene podréis reclamar… pero para cargar con las riquezas, vuestro saber pirata habréis de probar”."
+			"“Para la siguiente pista, descended una cubierta. Cuando la halléis, el tesoro de Irene podréis reclamar... pero para cargar con las riquezas, vuestro saber pirata habréis de probar”."
 		},
 		Summary = "Encuentra a Boca y habla con él."
 	},
@@ -71695,7 +73121,7 @@ QuestInfoList = {
 	[70065] = {
 		Title = "Turistas de Niflheim",
 		Description = {
-			"Kendall menciona que sus padres están enfermos de gravedad. Quizá hablar con ellos te ayude a averiguar qué les pasa…"
+			"Kendall menciona que sus padres están enfermos de gravedad. Quizá hablar con ellos te ayude a averiguar qué les pasa..."
 		},
 		Summary = ""
 	},
@@ -72287,7 +73713,7 @@ QuestInfoList = {
 	[70164] = {
 		Title = "Exposición de Rune-Midgarts: Misión de clase",
 		Description = {
-			"No es exactamente lo más seguro, pero no matará a nadie… Vuelve con Adime Pamidonna y tranquilízala…"
+			"No es exactamente lo más seguro, pero no matará a nadie... Vuelve con Adime Pamidonna y tranquilízala..."
 		},
 		Summary = ""
 	},
@@ -72322,7 +73748,7 @@ QuestInfoList = {
 	[70169] = {
 		Title = "Exposición de Rune-Midgarts: Misión de clase",
 		Description = {
-			"Busca la Caja fuerte secreta del señor Von Drebbin…"
+			"Busca la Caja fuerte secreta del señor Von Drebbin..."
 		},
 		Summary = ""
 	},
@@ -72711,6 +74137,134 @@ QuestInfoList = {
 		Description = {""},
 		Summary = ""
 	},
+	[100100] = {
+		Title = "LE - Oculto",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100101] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Rey Corrompido por encargo de la Liga de Exploradores."
+		},
+		Summary = "Edda de Glastheim"
+	},
+	[100102] = {
+		Title = "[Espera] LD - Edda de GH",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100103] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Shulang por encargo de la Liga de Exploradores."
+		},
+		Summary = "Mansión de la Desilusión"
+	},
+	[100104] = {
+		Title = "[Espera] LD - Mansión de la Desilusión",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100105] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Espejismo de Himmelmez por encargo de la Liga de Exploradores."
+		},
+		Summary = "Glastheim Infernal"
+	},
+	[100106] = {
+		Title = "[Espera] LD - Glastheim Infernal",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100107] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Señor de la Muerte por encargo de la Liga de Exploradores."
+		},
+		Summary = "Tumba del Monarca"
+	},
+	[100108] = {
+		Title = "[Espera] LD - Tumba del Monarca",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100109] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 10 Derretings por encargo de la Liga de Exploradores."
+		},
+		Summary = "Caída de la Aeronave"
+	},
+	[100110] = {
+		Title = "[Espera] LD - Caída de la Aeronave",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100111] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Princesa Tiara por encargo de la Liga de Exploradores."
+		},
+		Summary = "Mausoleo Fantasma"
+	},
+	[100112] = {
+		Title = "[Espera] LD - Mausoleo Fantasma",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100113] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Muliphen por encargo de la Liga de Exploradores."
+		},
+		Summary = "Arena Nocturna"
+	},
+	[100114] = {
+		Title = "[Espera] LD - Arena Nocturna",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
+	[100115] = {
+		Title = "Liga de Exploradores",
+		Description = {
+			"Derrota a 1 Fragmento de Thanatos por encargo de la Liga de Exploradores."
+		},
+		Summary = "Torre de Thanatos"
+	},
+	[100116] = {
+		Title = "[Espera] LD - Torre de Thanatos",
+		Description = {
+			"Has completado el encargo de la Liga de Exploradores. Podrás aceptarlo de nuevo cuando termine el tiempo de espera."
+		},
+		Summary = "",
+		CoolTimeQuest = 1
+	},
 	[291000] = {
 		Title = "",
 		Description = {""}
@@ -73058,6 +74612,22 @@ QuestInfoList = {
 			"Elimina 30 monstruos en la Cueva de Puerto Malaya (ma_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Cueva de Malaya"
+	},
+	[291531] = {
+		Title = "[Espera/Evento] Mansión de la Desilusión 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Usaste el servicio de reinicio de la instancia. Puedes usarlo una vez más hablando con <NAVI>[Aira]<INFO>wolfvill,79,260,0,101,0</INFO></NAVI>."
+		},
+		Summary = "4 de la mañana."
+	},
+	[291532] = {
+		Title = "[Espera/Evento] Mansión de la Desilusión 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Usaste el servicio de reinicio de la instancia. Solo puedes usar el servicio nuevamente mañana, hablando con <NAVI>[Aira]<INFO>wolfvill,79,260,0,101,0</INFO></NAVI>."
+		},
+		Summary = "4 de la mañana."
 	},
 	[293428] = {
 		Title = "Viaje a otro mundo",
@@ -73417,7 +74987,7 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 6-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Thanatos en <NAVI>[Recuerdo de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+			"Derrota 1 Thanatos en <NAVI>[Recuerdos de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Derrotar 1 Thanatos"
 	},
@@ -73425,7 +74995,7 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 6-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Fragmento de Thanatos en <NAVI>[Recuerdo de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+			"Derrota 1 Fragmento de Thanatos en <NAVI>[Recuerdos de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Derrotar 1 Fragmento de Thanatos"
 	},
@@ -73533,6 +75103,15 @@ QuestInfoList = {
 			"Has agotado todos los reinicios de la tienda diaria. Podrás volver a utilizarla después de las 04:00 a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295582] = {
+		Title = "Villa del Engaño - Uso del Remedio para Efectos Secundarios",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Has tomado un remedio altamente tóxico para tratar los efectos secundarios. Debido a su fuerte toxicidad, solo puede usarse una vez al día."
+		},
+		Summary = "Se reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[297001] = {

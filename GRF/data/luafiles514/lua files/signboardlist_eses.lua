@@ -2,14 +2,11 @@ SignBoardList_string = {
 	[1] = {
 		CONTENTS = "Nothing Typed"
 	},
-	[2] = {
-		CONTENTS = "  Equip. Ur"
-	},
-	[3] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[4] = {
-		CONTENTS = "  Equip. 100+"
+	[2] = {CONTENTS = "  Básico"},
+	[3] = {CONTENTS = "  Armas"},
+	[4] = {CONTENTS = "  Avanzado"},
+	[5] = {
+		CONTENTS = "  Alquiler Sombrío"
 	},
 	[6] = {
 		CONTENTS = "  Grupo del Edén"
@@ -198,32 +195,29 @@ SignBoardList_string = {
 	[774] = {
 		CONTENTS = "  Modo Pesadilla"
 	},
-	[833] = {
-		CONTENTS = "  Equip. Ur"
-	},
-	[834] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[835] = {
-		CONTENTS = "  Equip. 100+"
-	},
+	[833] = {CONTENTS = "  Básico"},
+	[834] = {CONTENTS = "  Armas"},
+	[835] = {CONTENTS = "  Avanzado"},
 	[836] = {
-		CONTENTS = "  Equip. Ur"
+		CONTENTS = "  Alquiler Sombrío"
 	},
-	[837] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[838] = {
-		CONTENTS = "  Equip. 100+"
-	},
-	[839] = {
-		CONTENTS = "  Equip. Ur"
-	},
+	[837] = {CONTENTS = "  Básico"},
+	[838] = {CONTENTS = "  Armas"},
+	[839] = {CONTENTS = "  Avanzado"},
 	[840] = {
-		CONTENTS = "  Equip. Boya"
+		CONTENTS = "  Alquiler Sombrío"
 	},
-	[841] = {
-		CONTENTS = "  Equip. 100+"
+	[841] = {CONTENTS = "  Básico"},
+	[842] = {CONTENTS = "  Armas"},
+	[843] = {CONTENTS = "  Avanzado"},
+	[844] = {
+		CONTENTS = "  Alquiler Sombrío"
+	},
+	[845] = {CONTENTS = "  Básico"},
+	[846] = {CONTENTS = "  Armas"},
+	[847] = {CONTENTS = "  Avanzado"},
+	[848] = {
+		CONTENTS = "  Alquiler Sombrío"
 	},
 	[885] = {
 		CONTENTS = "  Clan de la Espada"
@@ -380,5 +374,17 @@ SignBoardList_string = {
 	[974] = {CONTENTS = "  Comercio"},
 	[975] = {
 		CONTENTS = "  Encantador"
+	},
+	[1001] = {
+		CONTENTS = "  Ecosfera: Glaciar"
+	},
+	[1002] = {
+		CONTENTS = "  Ecosfera: Volcán"
+	},
+	[1003] = {
+		CONTENTS = "  Ecosfera: Pradera"
+	},
+	[1004] = {
+		CONTENTS = "  Ecosfera: Cementerio"
 	}
 }

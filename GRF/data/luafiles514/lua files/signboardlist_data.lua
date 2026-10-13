@@ -14,26 +14,35 @@ SignBoardList_data = {
 	},
 	[2] = {
 		MAPNAME = "moc_para01",
-		CELLX = 111,
-		CELLY = 83,
+		CELLX = 110,
+		CELLY = 79,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\C_Popping_Poring_Aura.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[3] = {
 		MAPNAME = "moc_para01",
-		CELLX = 112,
-		CELLY = 96,
+		CELLX = 110,
+		CELLY = 83,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\t_sword_of_kingdom.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[4] = {
 		MAPNAME = "moc_para01",
 		CELLX = 110,
-		CELLY = 97,
+		CELLY = 87,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\md_geffen_shield.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[5] = {
+		MAPNAME = "moc_para01",
+		CELLX = 110,
+		CELLY = 91,
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
@@ -3450,14 +3459,6 @@ SignBoardList_data = {
 		ICONID = 1,
 		FILEPATH = "information\\over_smithy.bmp"
 	},
-	[436] = {
-		MAPNAME = "prt_in",
-		CELLX = 90,
-		CELLY = 72,
-		HEIGHT = 0,
-		ICONID = 1,
-		FILEPATH = "information\\over_smithy.bmp"
-	},
 	[437] = {
 		MAPNAME = "prt_in",
 		CELLX = 117,
@@ -6120,35 +6121,35 @@ SignBoardList_data = {
 	},
 	[833] = {
 		MAPNAME = "moc_para0a",
-		CELLX = 111,
-		CELLY = 83,
+		CELLX = 110,
+		CELLY = 79,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\C_Popping_Poring_Aura.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[834] = {
 		MAPNAME = "moc_para0a",
-		CELLX = 112,
-		CELLY = 96,
+		CELLX = 110,
+		CELLY = 83,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\t_sword_of_kingdom.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[835] = {
 		MAPNAME = "moc_para0a",
 		CELLX = 110,
-		CELLY = 97,
+		CELLY = 87,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\md_geffen_shield.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[836] = {
-		MAPNAME = "moc_para0b",
-		CELLX = 111,
-		CELLY = 83,
+		MAPNAME = "moc_para0a",
+		CELLX = 110,
+		CELLY = 91,
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
@@ -6156,35 +6157,35 @@ SignBoardList_data = {
 	},
 	[837] = {
 		MAPNAME = "moc_para0b",
-		CELLX = 112,
-		CELLY = 96,
+		CELLX = 110,
+		CELLY = 79,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\C_Popping_Poring_Aura.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[838] = {
 		MAPNAME = "moc_para0b",
 		CELLX = 110,
-		CELLY = 97,
-		HEIGHT = 10,
-		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
-		CHARCOLOR = "#0x00FFFFFF"
-	},
-	[839] = {
-		MAPNAME = "moc_para0c",
-		CELLX = 111,
 		CELLY = 83,
 		HEIGHT = 10,
 		ICONID = 3,
-		FILEPATH = "item\\suffragium.bmp",
+		FILEPATH = "item\\t_sword_of_kingdom.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[839] = {
+		MAPNAME = "moc_para0b",
+		CELLX = 110,
+		CELLY = 87,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\md_geffen_shield.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[840] = {
-		MAPNAME = "moc_para0c",
-		CELLX = 112,
-		CELLY = 96,
+		MAPNAME = "moc_para0b",
+		CELLX = 110,
+		CELLY = 91,
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
@@ -6193,7 +6194,34 @@ SignBoardList_data = {
 	[841] = {
 		MAPNAME = "moc_para0c",
 		CELLX = 110,
-		CELLY = 97,
+		CELLY = 79,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\C_Popping_Poring_Aura.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[842] = {
+		MAPNAME = "moc_para0c",
+		CELLX = 110,
+		CELLY = 83,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\t_sword_of_kingdom.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[843] = {
+		MAPNAME = "moc_para0c",
+		CELLX = 110,
+		CELLY = 87,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\md_geffen_shield.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[844] = {
+		MAPNAME = "moc_para0c",
+		CELLX = 110,
+		CELLY = 91,
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\suffragium.bmp",
@@ -7364,6 +7392,42 @@ SignBoardList_data = {
 		HEIGHT = 0,
 		ICONID = 1,
 		FILEPATH = "group\\group_12.bmp"
+	},
+	[1001] = {
+		MAPNAME = "ba_in01",
+		CELLX = 310,
+		CELLY = 38,
+		HEIGHT = 0,
+		ICONID = 3,
+		FILEPATH = "item\\wl_frostmisty.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[1002] = {
+		MAPNAME = "ba_in01",
+		CELLX = 311,
+		CELLY = 56,
+		HEIGHT = 0,
+		ICONID = 3,
+		FILEPATH = "item\\gs_grounddrift.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[1003] = {
+		MAPNAME = "ba_in01",
+		CELLX = 325,
+		CELLY = 56,
+		HEIGHT = 0,
+		ICONID = 3,
+		FILEPATH = "item\\sg_star_bless.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[1004] = {
+		MAPNAME = "ba_in01",
+		CELLX = 339,
+		CELLY = 56,
+		HEIGHT = 0,
+		ICONID = 3,
+		FILEPATH = "item\\rl_banishing_buster.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
 	}
 }
 local function MergeTables(dest, src)

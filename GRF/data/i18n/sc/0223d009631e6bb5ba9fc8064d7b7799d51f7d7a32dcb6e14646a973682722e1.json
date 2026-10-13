@@ -1,12 +1,12 @@
 {
     "4Jx2DA": {
         "en-US": "I inserted the key I'd found into the cabin's keyhole and turned.",
-        "pt-BR": "Coloquei a chave que encontrei na fechadura da cabana e girei.",
+        "pt-BR": "Com a Chave que encontrei, eu consegui abrir a Cabana.",
         "es-ES": "Metí la llave que había encontrado en la cerradura de la cabaña y la giré."
     },
     "4Zx2DA": {
         "en-US": "-click-",
-        "pt-BR": "-clique-",
+        "pt-BR": "- Clique -",
         "es-ES": "-clic-"
     },
     "4px2DA": {
@@ -16,22 +16,22 @@
     },
     "45x2DA": {
         "en-US": "- Here's a hint.\n- Would you like to see the hint?",
-        "pt-BR": "- Há uma dica.\n- Quer ver a dica?",
+        "pt-BR": "- Há uma pista.\n- Quer ver a pista?",
         "es-ES": "- Hay una pista.\n- ¿Quieres ver la pista?"
     },
     "5Jx2DA": {
         "en-US": "View the hint.",
-        "pt-BR": "Ver a dica.",
+        "pt-BR": "Ler a pista.",
         "es-ES": "Miro la pista."
     },
     "5Zx2DA": {
         "en-US": "Don't look.",
-        "pt-BR": "Não ver.",
+        "pt-BR": "Não ler.",
         "es-ES": "No lo veo."
     },
     "5px2DA": {
         "en-US": "- In the Luluka Deep Forest Memorial Dungeon,\n- to use or activate certain objects,\n- you must find the relevant tools.",
-        "pt-BR": "- Na Masmorra Memorial da Floresta Profunda de Luluka,\n- para usar ou ativar \n- determinados objetos,\n- é preciso encontrar a ferramenta correspondente\n- para poder usá-los.",
+        "pt-BR": "- Na instância das Profundezas da Floresta de Luluka,\n- para usar ou ativar \n- determinados objetos,\n- é preciso encontrar a ferramenta correspondente\n- para poder usá-los.",
         "es-ES": "- En la mazmorra conmemorativa del Bosque Profundo de Luluka,\n- para usar o\n- activar ciertos objetos,\n- debes encontrar la herramienta correspondiente\n- para poder usarlos."
     },
     "55x2DA": {
@@ -41,12 +41,12 @@
     },
     "6Jx2DA": {
         "en-US": "I'm done watching.",
-        "pt-BR": "Chega de ver.",
+        "pt-BR": "Parar de ler.",
         "es-ES": "Ya basta."
     },
     "6Zx2DA": {
         "en-US": "Read again.",
-        "pt-BR": "Ver de novo.",
+        "pt-BR": "Ler de novo.",
         "es-ES": "Volver a ver."
     },
     "6px2DA": {
@@ -56,7 +56,7 @@
     },
     "65x2DA": {
         "en-US": "Small flower stems are tangled together haphazardly beside the cabin, forming flower bushes.",
-        "pt-BR": "Ao lado da cabana, pequenos ramos de flores estão entrelaçados, formando um arbusto de flores.",
+        "pt-BR": "Pequenos ramos de flores entrelaçadas formam um arbusto.",
         "es-ES": "Junto a la cabaña, los tallos de unas pequeñas flores se entrelazan formando un matorral."
     },
     "7Jx2DA": {
@@ -66,7 +66,7 @@
     },
     "7Zx2DA": {
         "en-US": "Check the flower bushes.",
-        "pt-BR": "Procurar no arbusto de flores.",
+        "pt-BR": "Dar uma olhada.",
         "es-ES": "Revisa el matorral de flores."
     },
     "7px2DA": {
@@ -81,17 +81,17 @@
     },
     "8Jx2DA": {
         "en-US": "A key? For what?",
-        "pt-BR": "Parece uma chave, né? De onde será essa chave?",
+        "pt-BR": "Parece uma chave! De onde será essa chave?",
         "es-ES": "¿Parece una llave? ¿De dónde será?"
     },
     "8Zx2DA": {
         "en-US": "There are flower bushes. I found a key here earlier.",
-        "pt-BR": "Tem um arbusto de flores. Foi aqui que peguei a chave há pouco, não foi?",
+        "pt-BR": "Tem um arbusto de flores. Foi aqui que peguei a chave.",
         "es-ES": "Hay un matorral de flores. ¿No fue aquí donde recogí la llave hace un rato?"
     },
     "8px2DA": {
         "en-US": "Storage",
-        "pt-BR": "Depósito",
+        "pt-BR": "Ferramentas",
         "es-ES": "Almacén"
     },
     "85x2DA": {
@@ -101,12 +101,12 @@
     },
     "9Jx2DA": {
         "en-US": "Geez, it's so dusty in here!",
-        "pt-BR": "Nossa... Dá uma limpada nessa poeira aí.",
+        "pt-BR": "Nossa... Precisam dar uma limpada nessa poeira aí.",
         "es-ES": "Ay, ¿por qué no limpias un poco el polvo?"
     },
     "9Zx2DA": {
         "en-US": "Small Spring",
-        "pt-BR": "Pequena nascente",
+        "pt-BR": "Pequena Nascente",
         "es-ES": "Pequeña fuente"
     },
     "9px2DA": {
@@ -121,12 +121,12 @@
     },
     "+Jx2DA": {
         "en-US": "Information about the spring is written on the sign.",
-        "pt-BR": "Tem um aviso sobre a água da fonte.",
+        "pt-BR": "Tem um aviso sobre a nascente de água.",
         "es-ES": "Hay un letrero con información sobre el agua del manantial."
     },
     "+Zx2DA": {
         "en-US": "[Warning: Poor Water Quality]\n- The water from this spring was tested and found\n- not suitable for drinking purposes.",
-        "pt-BR": "[Aviso de água imprópria para consumo]\n- Informamos que, de acordo com os resultados dos testes de qualidade,\n- esta água não é adequada para consumo.",
+        "pt-BR": "[Aviso]\n- Informamos que, de acordo com os resultados dos testes de qualidade,\n- esta água não é adequada para consumo.",
         "es-ES": "[Aviso de agua no apta para el consumo]\n- Te informamos que, según los resultados de los análisis de calidad del agua,\n- esta fuente no es apta para el consumo."
     },
     "+px2DA": {
@@ -136,12 +136,12 @@
     },
     "+5x2DA": {
         "en-US": "It seems to mean not to drink it directly but to purify it first.",
-        "pt-BR": "Parece que não dá pra beber direto, só depois de passar por um processo de filtragem.",
+        "pt-BR": "Entendi. Não beber esta água direto da nascente. Só depois de ser filtrada.",
         "es-ES": "Parece que no debes beberla directamente, sino después de purificarla."
     },
     "/Jx2DA": {
         "en-US": "If you dig up a plant like this, it probably has something edible attached, right?",
-        "pt-BR": "Se a gente colher essa planta, provavelmente tem algo que possa comer, né?",
+        "pt-BR": "Acredito que posso me alimentar se eu puder colher esta planta.",
         "es-ES": "Si desenterraras esta planta, seguro que encontraría algo comestible, ¿no?"
     },
     "/Zx2DA": {
@@ -151,7 +151,7 @@
     },
     "/px2DA": {
         "en-US": "Someone's Grave",
-        "pt-BR": "Túmulo de Alguém",
+        "pt-BR": "Túmulo",
         "es-ES": "Tumba de Alguien"
     },
     "/5x2DA": {
@@ -166,7 +166,7 @@
     },
     "AZ12DA": {
         "en-US": "Wild Animal Trace",
-        "pt-BR": "Vestígios de animais selvagens",
+        "pt-BR": "Vestígios de Animais",
         "es-ES": "Rastros de animales salvajes"
     },
     "Ap12DA": {
@@ -181,7 +181,7 @@
     },
     "BJ12DA": {
         "en-US": "Rough Trap",
-        "pt-BR": "Armadilha rudimentar",
+        "pt-BR": "Armadilha Rudimentar",
         "es-ES": "Una trampa rudimentaria"
     },
     "BZ12DA": {
@@ -196,7 +196,7 @@
     },
     "B512DA": {
         "en-US": "Piled Wood",
-        "pt-BR": "Local onde estão empilhados galhos",
+        "pt-BR": "Troncos Empilhados",
         "es-ES": "Lugar donde se apilan matorrales"
     },
     "CJ12DA": {
@@ -211,27 +211,27 @@
     },
     "Cp12DA": {
         "en-US": "Operator Check",
-        "pt-BR": "Verificação do administrador",
+        "pt-BR": "Verificação do Administrador",
         "es-ES": "Verificación del administrador"
     },
     "C512DA": {
         "en-US": "Progress----------\nDungeon{0} | New Movement{1} | Failure{2} |\nDate{3} | Date Confirmation{4} |\nTools----------\nKey{5} |\nHoe{6} | Bucket{7} | Water{8} |\nTrapL{9} | TrapR{10} |\nSurvival Items----------\nFood{11} | Quantity{12} | Fire Status{13} |\nPet\nEgg Check{14} | Falcon Check{15} | Warg Check{16} |",
-        "pt-BR": "Progresso----------\nMasmorra{0} | Novo deslocamento{1} | Falha{2} |\nData{3} | Confirmar data{4} |\nFerramentas----------\nChave{5} |\nEnxada{6} | Balde{7} | Bala de água{8} |\nArmadilha L{9} | Armadilha R{10} |\nItens de sobrevivência----------\nComida{11} | Quantidade{12} | Estado do fogo{13} |\nAnimais de estimação\nOvo{14} | Falcão{15} | Worg{16} |",
+        "pt-BR": "Progresso----------\nInstância {0} | Novo deslocamento {1} | Falha {2} |\nData {3} | Confirmar data {4} |\nFerramentas----------\nChave {5} |\nEnxada {6} | Balde {7} | Bala de Água {8} |\nArmadilha E {9} | Armadilha D {10} |\nItens de sobrevivência----------\nComida {11} | Quantidade {12} | Lenha {13} |\nAnimais de Estimação\nOvo {14} | Falcão {15} | Worg {16} |",
         "es-ES": "Progreso----------\nMazmorra{0} | Nuevo movimiento{1} | Fracaso{2} |\nFecha{3} | Confirmar fecha{4} |\nHerramientas----------\nLlave{5} |\nAzada{6} | Cubeta{7} | Cubo de agua{8} |\nTrampa L{9} | Trampa R{10} |\nArtículos de supervivencia----------\nComida{11} | Cantidad{12} | Estado del fuego{13} |\nMascotas\nHuevo{14} | Halcón{15} | Cuervo{16} |"
     },
     "DJ12DA": {
         "en-US": "Food Settings",
-        "pt-BR": "Configuração de comida",
+        "pt-BR": "Configuração de Comida",
         "es-ES": "Configuración de comida"
     },
     "DZ12DA": {
         "en-US": "Water setting",
-        "pt-BR": "Configuração de água",
+        "pt-BR": "Configuração de Água",
         "es-ES": "Configuración de agua"
     },
     "Dp12DA": {
         "en-US": "Reset Control Points",
-        "pt-BR": "Redefinir pontos de controle",
+        "pt-BR": "Resetar pontos de controle",
         "es-ES": "Inicializar puntos de control"
     },
     "D512DA": {
@@ -321,22 +321,22 @@
     },
     "IJ12DA": {
         "en-US": "I put all the tools in the storage.",
-        "pt-BR": "Guardei todas as ferramentas no galpão.",
+        "pt-BR": "Guardei todas as ferramentas no depósito.",
         "es-ES": "Guardé todas las herramientas en el almacén."
     },
     "IZ12DA": {
         "en-US": "Should I draw some water with my water bucket?",
-        "pt-BR": "Vou pegar água com o balde?",
+        "pt-BR": "Pegar água com o balde?",
         "es-ES": "¿Saco agua con el balde?"
     },
     "Ip12DA": {
         "en-US": "Draw water with a bucket.",
-        "pt-BR": "Vou pegar água com o balde.",
+        "pt-BR": "Pegar água com o balde.",
         "es-ES": "Saco agua con el balde."
     },
     "I512DA": {
         "en-US": "Just go.",
-        "pt-BR": "Só vou.",
+        "pt-BR": "Apenas ir.",
         "es-ES": "Me voy sin más."
     },
     "JJ12DA": {
@@ -346,37 +346,37 @@
     },
     "JZ12DA": {
         "en-US": "I already drew water.",
-        "pt-BR": "Já tirei a água, né?",
+        "pt-BR": "Já tirei a água!",
         "es-ES": "Ya sacaste el agua."
     },
     "Jp12DA": {
         "en-US": "I should pour the water into the water bottle in the cabin.",
-        "pt-BR": "Vamos despejar no galão de água que está dentro da cabana.",
+        "pt-BR": "Vamos despejar a água no filtro que está dentro da cabana.",
         "es-ES": "Vamos a verterlo en el bidón de agua potable que hay dentro de la cabaña."
     },
     "J512DA": {
         "en-US": "Should I dig and find something to eat?",
-        "pt-BR": "Será que consigo encontrar algo comestível para cavar?",
+        "pt-BR": "Será que consigo encontrar algo comestível?",
         "es-ES": "¿Buscamos algo comestible?"
     },
     "KJ12DA": {
         "en-US": "Dig with a hoe.",
-        "pt-BR": "Cavo com a enxada.",
+        "pt-BR": "Cavar com a enxada.",
         "es-ES": "Cavo con la azada."
     },
     "KZ12DA": {
         "en-US": "I've found something to eat.",
-        "pt-BR": "Consegui comida.",
+        "pt-BR": "Consegui algo para comer.",
         "es-ES": "Conseguiste comida."
     },
     "Kp12DA": {
         "en-US": "Digging beneath this plant may yield something edible.",
-        "pt-BR": "Se cavarmos debaixo dessa erva, podemos conseguir algo comestível.",
+        "pt-BR": "Se cavar debaixo dessa erva, posso conseguir algo comestível.",
         "es-ES": "Si cavas debajo de esta hierba, puedes conseguir algo comestible."
     },
     "K512DA": {
         "en-US": "I need a hoe to dig it out.",
-        "pt-BR": "Acho que bastaria ter algo como uma enxada...",
+        "pt-BR": "Mas preciso ter uma enxada...",
         "es-ES": "Creo que con algo como una azada bastaría..."
     },
     "LJ12DA": {
@@ -401,7 +401,7 @@
     },
     "MJ12DA": {
         "en-US": "I made it, but I doubt it can catch anything.",
-        "pt-BR": "Fui eu quem fiz, mas não parece que vai pegar nada, né?",
+        "pt-BR": "Espero pegar alguma coisa.",
         "es-ES": "Aunque la hice yo, ¿no parece que vaya a atrapar nada?"
     },
     "MZ12DA": {
@@ -411,7 +411,7 @@
     },
     "Mp12DA": {
         "en-US": "Don't get your hopes up.",
-        "pt-BR": "Não vamos criar muitas expectativas.",
+        "pt-BR": "Não vou criar muitas expectativas.",
         "es-ES": "No esperes mucho."
     },
     "M512DA": {
@@ -421,7 +421,7 @@
     },
     "NJ12DA": {
         "en-US": "Let's see... Erm...",
-        "pt-BR": "Deixa eu dar uma olhada... Hum...",
+        "pt-BR": "Deixa eu dar uma olhada... Hã...",
         "es-ES": "¿A ver qué es? Eh..."
     },
     "NZ12DA": {
@@ -431,12 +431,12 @@
     },
     "Np12DA": {
         "en-US": "Leave it where it is.",
-        "pt-BR": "Deixa pra lá.",
+        "pt-BR": "Deixar pra lá.",
         "es-ES": "Lo dejo ahí."
     },
     "N512DA": {
         "en-US": "Take it.",
-        "pt-BR": "Vou levá-lo.",
+        "pt-BR": "Levá-lo para a cabana.",
         "es-ES": "Me lo llevo."
     },
     "OJ12DA": {
@@ -446,47 +446,47 @@
     },
     "OZ12DA": {
         "en-US": "I'll just leave it where it is. If it's meant to live, then it'll survive.",
-        "pt-BR": "Vou deixar ele lá. Se tiver sorte, vai sobreviver.",
+        "pt-BR": "Vou deixar ele aí. Se tiver sorte, vai sobreviver.",
         "es-ES": "Mejor lo dejo ahí. Si tiene suerte, sobrevivirá."
     },
     "Op12DA": {
         "en-US": "Alright! I'll take it with me.",
-        "pt-BR": "É isso aí! Vou levá-lo.",
+        "pt-BR": "É isso aí! Vou levá-lo comigo!",
         "es-ES": "¡Sí! Me lo llevo."
     },
     "O512DA": {
         "en-US": "If I take it to the warm cabin, it'll be fine somehow.",
-        "pt-BR": "Se eu o levar para uma cabana quentinha, vai dar tudo certo.",
+        "pt-BR": "Se eu o levar para uma cesta quentinha, vai dar tudo certo.",
         "es-ES": "Si lo llevo a una cabaña calentita, seguro que se las arregla."
     },
     "PJ12DA": {
         "en-US": "This too is a law of nature.",
-        "pt-BR": "Isso também deve ser a mão da natureza.",
+        "pt-BR": "Isso é a lei da natureza.",
         "es-ES": "Supongo que esto también es el orden natural de las cosas."
     },
     "PZ12DA": {
         "en-US": "Oh?! I've caught something!",
-        "pt-BR": "Oi?! Algo mordeu a isca.",
+        "pt-BR": "Opa?! Algo mordeu a isca.",
         "es-ES": "¡Oh! Algo se ha enganchado."
     },
     "Pp12DA": {
         "en-US": "Pick up the food.",
-        "pt-BR": "Vou pegar comida.",
+        "pt-BR": "Pegar comida.",
         "es-ES": "Recojo comida."
     },
     "P512DA": {
         "en-US": "Well, I don't need more food right now.",
-        "pt-BR": "Bem, não é como se precisássemos de comida agora.",
+        "pt-BR": "Bem, não preciso de comida agora.",
         "es-ES": "Bueno, no es que necesite comida ya mismo."
     },
     "QJ12DA": {
         "en-US": "Should I chop some firewood for the fireplace?",
-        "pt-BR": "Será que corto lenha para a lareira?",
+        "pt-BR": "Devo cortar lenha para a lareira?",
         "es-ES": "¿Corto leña para la chimenea?"
     },
     "QZ12DA": {
         "en-US": "Chop the wood.",
-        "pt-BR": "Corto lenha.",
+        "pt-BR": "Cortar lenha.",
         "es-ES": "Corto leña."
     },
     "Qp12DA": {
@@ -496,12 +496,12 @@
     },
     "Q512DA": {
         "en-US": "This should be enough firewood for now.",
-        "pt-BR": "Essa quantidade de lenha já dá.",
+        "pt-BR": "Eu já tenho uma boa quantidade de lenha.",
         "es-ES": "Con esta cantidad de leña ya es suficiente."
     },
     "RJ12DA": {
         "en-US": "To get wood, I guess I'll have to chop some firewood here with an axe?",
-        "pt-BR": "Para conseguir madeira, vou ter que cortar um pouco de lenha com o machado aqui, né?",
+        "pt-BR": "Preciso de um machado para cortar a lenha.",
         "es-ES": "Para conseguir madera, ¿tendré que cortar un poco de leña con el hacha aquí?"
     },
     "RZ12DA": {
@@ -511,22 +511,22 @@
     },
     "Rp12DA": {
         "en-US": "Nothing's broken, I hope.",
-        "pt-BR": "Não deve ter quebrado nada, né?",
+        "pt-BR": "Não deve ter quebrado nada, eu espero.",
         "es-ES": "¿No se habrá roto nada?"
     },
     "R512DA": {
         "en-US": "This small spring provided me the water to drink while I was here.",
-        "pt-BR": "Esta é a pequena fonte que nos forneceu água limpa até agora.",
+        "pt-BR": "Esta é a pequena nascente que nos forneceu água até agora.",
         "es-ES": "Este es el pequeño manantial que nos ha dado agua limpia todo este tiempo."
     },
     "SJ12DA": {
         "en-US": "Digging it up will yield something to eat.",
-        "pt-BR": "Se cavar, dá pra conseguir comida.",
+        "pt-BR": "Se cavar, consigo comida.",
         "es-ES": "Si cavas, puedes conseguir algo de comer."
     },
     "SZ12DA": {
         "en-US": "If I leave it alone, wild animals might eat them.",
-        "pt-BR": "Se deixarmos assim, os animais selvagens vão comer, né?",
+        "pt-BR": "Se deixar assim, os animais selvagens devem comer.",
         "es-ES": "Si lo dejas ahí, se lo comerán los animales salvajes, ¿no?"
     },
     "Sp12DA": {

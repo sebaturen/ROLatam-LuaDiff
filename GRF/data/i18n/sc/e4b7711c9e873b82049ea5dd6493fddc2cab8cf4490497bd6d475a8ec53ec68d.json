@@ -6,12 +6,12 @@
     },
     "oc7pAQ": {
         "en-US": "- You have too many items, -\nPlease organize your items and try again.",
-        "pt-BR": "Você precisa limpar seu inventário antes de prosseguir.\nPor favor, alivie sua carga.",
+        "pt-BR": "- ^3300FFReorganize seu inventário e^000000 -\n- ^3300FFtente novamente mais tarde^000000 -",
         "es-ES": "-Tienes demasiados objetos.-\nOrganiza tus objetos e inténtalo de nuevo."
     },
     "os7pAQ": {
         "en-US": "[Macaron]\nGreetings, my friend!\nIt doesn't come every day!\nThe items you'll see today can only be exchanged for - voila!\nYou can only exchange it with<ITEM>[[Kachua] Mileage Coupon]<INFO>1000274</INFO></ITEM>!\nPick as much as you want!",
-        "pt-BR": "[Carigato]\nBoas vindas!\nHoje o dia está lindo!\nLindo para trocas da Kachua!\n<ITEM>[Cupons da Kachua]<INFO>1000274</INFO></ITEM> para ser mais exato!\nSinta-se live para escolher!",
+        "pt-BR": "[Carigato]\nBoas vindas!\nHoje o dia está lindo!\nLindo para trocar seu\n<ITEM>[Cupom da Kachua]<INFO>1000274</INFO></ITEM>!\nSinta-se livre para escolher!",
         "es-ES": "[Macaron]\n¡Saludos, amigo mío!\n¡Esto no es algo de todos los días!\nLos objetos que verás hoy solo pueden canjearse por... ¡Voilà!\n¡Solo se puede canjear por<ITEM>[Cupón de millas [Kachua]]<INFO>1000274</INFO></ITEM>!\n¡Elige todo lo que quieras!"
     },
     "o87pAQ": {
@@ -36,27 +36,107 @@
     },
     "p87pAQ": {
         "en-US": "[Macaron]\nYou're looking for ^FF0066Shadows^000000!\nThere you go!",
-        "pt-BR": "[Carigato]\nVocê está procurando por ^FF0066Equipamentos Sombrios^000000?\nAqui está!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de por ^FF0066Equipamentos Sombrios^000000?\nAqui está!",
         "es-ES": "[Macaron]\n¡Estás buscando ^FF0066Sombras^000000!\n¡Aquí tienes!"
     },
     "qM7pAQ": {
         "en-US": "[Macaron]\nYou're looking for ^FF0066Equipments^000000!\nThere you go!",
-        "pt-BR": "[Carigato]\nVocê está procurando por ^FF0066Equipmentos^000000?\nAqui está!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de por ^FF0066Equipmentos^000000?\nAqui está!",
         "es-ES": "[Macaron]\n¡Estás buscando ^FF0066Equipamiento^000000!\n¡Aquí tienes!"
     },
     "qc7pAQ": {
         "en-US": "[Macaron]\nYou're looking for ^FF0066Smelting, Refinement, and Useful Items^000000!\nThere you go!",
-        "pt-BR": "[Carigato]\nVocê está procurando por ^FF0066Utilitários^000000?\nAqui está!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de por ^FF0066Utilitários^000000?\nAqui está!",
         "es-ES": "[Macaron]\n¡Estás buscando ^FF0066Fundición, refinamiento y objetos útiles^000000!\n¡Aquí tienes!"
     },
     "qs7pAQ": {
         "en-US": "[Macaron]\nPlease come again soon!\nI won't be here forever.",
-        "pt-BR": "[Carigato]\nPor favor, volte logo!\nNão ficarei aqui para sempre.",
+        "pt-BR": "[Carigato]\nFique à vontade!\nEstarei aqui caso queira trocar o <ITEM>[Cupom da Kachua]<INFO>1000274</INFO></ITEM>.",
         "es-ES": "[Macaron]\n¡Vuelve pronto!\nNo estaré aquí para siempre."
     },
     "q87pAQ": {
         "en-US": "- You have too many items, -\nPlease organize your items and try again.",
-        "pt-BR": "- Reorganize seu inventário e -\n- tente novamente mais tarde -",
+        "pt-BR": "- ^3300FFReorganize seu inventário^000000 -\n- ^3300FFe tente novamente mais tarde^000000 -",
         "es-ES": "Tienes demasiados objetos y no puedo darte más.\n¡Vuelve cuando tengas espacio!"
+    },
+    "rM7pAQ": {
+        "en-US": "3-1 Skill Shadow",
+        "pt-BR": "Sombrios de Habilidade 3-1",
+        "es-ES": "Shadow de Habilidad 3-1"
+    },
+    "rc7pAQ": {
+        "en-US": "3-2 Skill Shadow",
+        "pt-BR": "Sombrios de Habilidade 3-2",
+        "es-ES": "Shadow de Habilidad 3-2"
+    },
+    "rs7pAQ": {
+        "en-US": "Extended Skill Shadow",
+        "pt-BR": "Sombrios de Habilidade EX",
+        "es-ES": "Shadow de Habilidad de Clase Expandida"
+    },
+    "r87pAQ": {
+        "en-US": "General Job Shadow",
+        "pt-BR": "Sombrios de Classe",
+        "es-ES": "Shadow de Clase General"
+    },
+    "sM7pAQ": {
+        "en-US": "Shadow Cube",
+        "pt-BR": "Cubos Sombrios",
+        "es-ES": "Cubo Shadow"
+    },
+    "sc7pAQ": {
+        "en-US": "Tuktak Boxes",
+        "pt-BR": "Combinadores Sombrios",
+        "es-ES": "Cajas Tuktak"
+    },
+    "ss7pAQ": {
+        "en-US": "Refinement Items",
+        "pt-BR": "Utilitários",
+        "es-ES": "Objetos de Refinamiento"
+    },
+    "s87pAQ": {
+        "en-US": "Useful Items",
+        "pt-BR": "Caixas de Equipamentos",
+        "es-ES": "Objetos Útiles"
+    },
+    "tM7pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF00663-1 Job Group Skill Shadow^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Sombrios de Habilidade 3-1^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando el ^FF0066Shadow de Habilidad del Grupo de Clases 3-1^000000!¡Aquí tienes!"
+    },
+    "tc7pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF00663-2 Job Group Skill Shadow^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Sombrios de Habilidade 3-2^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando el ^FF0066Shadow de Habilidad del Grupo de Clases 3-2^000000!¡Aquí tienes!"
+    },
+    "ts7pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF0066Extended Job Group Skill Shadow^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Sombrios de Habilidade de Classes Expandidas^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando el ^FF0066Shadow de Habilidad del Grupo de Clases Expandidas^000000!¡Aquí tienes!"
+    },
+    "t87pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF0066General Job Shadow^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Sombrios de Classe^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando el ^FF0066Shadow de Clase General^000000!¡Aquí tienes!"
+    },
+    "uM7pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF0066Shadow Cube^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Cubos Sombrios^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando el ^FF0066Cubo Shadow^000000!¡Aquí tienes!"
+    },
+    "uc7pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF0066Tuktak Boxes^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Combinadores Sombrios^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando las ^FF0066Cajas Tuktak^000000!¡Aquí las tienes!"
+    },
+    "us7pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF0066Refinement and Useful Items^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Utilitários^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando ^FF0066Objetos de Refinamiento y Objetos Útiles^000000!¡Aquí los tienes!"
+    },
+    "u87pAQ": {
+        "en-US": "[Macaron]\nYou're looking for ^FF0066Useful Items^000000!\nThere you go!",
+        "pt-BR": "[Carigato]\nVou abrir a minha loja de ^FF0066Caixas de Equipamentos^000000! Boas compras!",
+        "es-ES": "[Macaron]\n¡Estás buscando ^FF0066Objetos Útiles^000000!¡Aquí los tienes!"
     }
 }

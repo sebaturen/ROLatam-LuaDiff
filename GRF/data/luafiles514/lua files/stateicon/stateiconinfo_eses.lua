@@ -432,6 +432,9 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_ATTHASTE_POTION2] = {
 		descript = {
+			{
+				"Poción para Despertar"
+			},
 			{"%s"},
 			{
 				"Aumentar VELA"
@@ -440,6 +443,9 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_ATTHASTE_POTION3] = {
 		descript = {
+			{
+				"Poción berserk"
+			},
 			{"%s"},
 			{
 				"Aumentar VELA"
@@ -6118,11 +6124,11 @@ StateIconList_string = {
 	[EFST_IDs.EFST_FLOWER_LEAF2] = {
 		descript = {
 			{
-				"Festival de Fideos"
+				"Festival de Primavera"
 			},
 			{"%s"},
 			{
-				"Resistencia al Fuego"
+				"Aumentar la tasa de evasión y la evasión total"
 			},
 			{
 				"Aumenta el ASPD"
@@ -6139,7 +6145,10 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Daño Mágico +5%."
+				"HP máx. +3%"
+			},
+			{
+				"SP máx. +3%"
 			}
 		}
 	},
@@ -8019,17 +8028,17 @@ StateIconList_string = {
 	[EFST_IDs.EFST_GROUNDGRAVITY] = {
 		descript = {
 			{
-				"Gravitación Terrestre"
+				"Gravitación"
 			},
 			{"%s"},
 			{
-				"Reduce la velocidad de movimiento"
+				"Reduce la velocidad de movimiento."
 			},
 			{
-				"Aumenta el daño físico recibido"
+				"Aumenta el daño físico recibido."
 			},
 			{
-				"Aumenta el daño mágico recibido"
+				"Aumenta el daño mágico recibido."
 			}
 		}
 	},
@@ -8057,7 +8066,9 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_RISING_SUN] = {
 		descript = {
-			{"Amanecer"},
+			{
+				"Salida del Sol"
+			},
 			{"%s"},
 			{
 				"Estado de amanecer"
@@ -8075,7 +8086,9 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_SUNSET_SUN] = {
 		descript = {
-			{"Atardecer"},
+			{
+				"Puesta del Sol"
+			},
 			{"%s"},
 			{
 				"Estado de atardecer"

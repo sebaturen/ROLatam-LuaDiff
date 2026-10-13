@@ -1,17 +1,17 @@
 {
     "IN+FDA": {
         "en-US": "Golden Apple Suseok",
-        "pt-BR": "Maçã Dourada Suseok",
+        "pt-BR": "Vocalista do Maçã Dourada",
         "es-ES": "Suseok de Manzana Dorada"
     },
     "Id+FDA": {
         "en-US": "A promising talent is passing by? Want to take a look at me?",
-        "pt-BR": "Uma pessoa talentosa está passando? Quer me ver?",
+        "pt-BR": "Oi? Quer um autógrafo?",
         "es-ES": "Vaya, va pasando un talento de lo más tentador... ¿No quieres hablar conmigo un momento?"
     },
     "It+FDA": {
         "en-US": "[Suseok]\nHm? Isn't that the Wanderer who came to see us last time? Wow, I knew you'd become something great. Praise my eye for talent~",
-        "pt-BR": "[Suseok]\nOra? Não é a mesma Musa que veio nos procurar da última vez? Uau, eu sabia que você chegaria longe. Elogie meus olhos apurados~",
+        "pt-BR": "[Suseok]\nOra? Não é a mesma Musa que veio nos procurar da última vez? Uau, eu sabia que você chegaria longe. Tenho um bom faro para celebridades~",
         "es-ES": "[Suseok]\n¿Eh? \n¿No eres la Nómada que vino a buscarnos la última vez? \nVaya, ya sabía que llegarías a ser alguien. \nDe verdad, que tengo buen ojo, ¿eh?"
     },
     "I9+FDA": {
@@ -41,7 +41,7 @@
     },
     "KN+FDA": {
         "en-US": "[?????]\nHey. Stop hovering over there and look at me.",
-        "pt-BR": "[?????]\nEi. Você, pare de zanzar por aí e olhe para mim.",
+        "pt-BR": "[?????]\nEi. Você, pare de zanzar por aí e fale comigo.",
         "es-ES": "[?????]\nOye. \nDeja de dar vueltas por ahí y ven a hablar conmigo un momento"
     },
     "Kd+FDA": {
@@ -51,77 +51,77 @@
     },
     "Kt+FDA": {
         "en-US": "[Suseok]\nYoung one, could you check the schedule for me?",
-        "pt-BR": "[Suseok]\nJovem, pode conferir a agenda para mim?",
+        "pt-BR": "[Suseok]\nMeninas, poderiam conferir a agenda para mim?",
         "es-ES": "[Suseok]\nPequeña, ¿puedes revisar el horario?"
     },
     "K9+FDA": {
         "en-US": "[Member]\nStarting today, one evening performance. On weekends, one additional daytime performance. Whew, look at them adding more shows because of the crowd.",
-        "pt-BR": "[Membro]\nA partir de hoje, uma apresentação à noite. Nos fins de semana, mais uma apresentação à tarde. Nossa, olha só! Adicionaram mais apresentações porque está lotado.",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nHoje temos uma apresentação à noite. No final de semana, uma apresentação à tarde. Nossa, olha só! Adicionaram mais apresentações porque os ingressos acabaram.",
         "es-ES": "[Miembro]\nDesde hoy, una actuación por la noche. \nLos fines de semana se añade una función por la tarde. \nUf, mira cómo han añadido más actuaciones porque se llena de gente."
     },
     "LN+FDA": {
         "en-US": "[Member]\nYou have to work hard while you're popular. What if no one looks for <Golden Apple>? What if we end up scraping the floor at home with no work?",
-        "pt-BR": "[Membro]\nTem que trabalhar duro enquanto está em alta. E se ninguém mais procurar a <Maçã Dourada>? E se eu ficar em casa sem fazer nada?",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nTemos que trabalhar duro enquanto estamos em alta. E se ninguém mais quiser ouvir o <Maçã Dourada>? E se eu cair no ostracismo?",
         "es-ES": "[Miembro]\nHay que esforzarse cuando somos populares. \n¿Y si nadie busca a <Manzana Dorada>? \n¿Y si nos quedamos en casa sin hacer nada?"
     },
     "Ld+FDA": {
         "en-US": "Just thinking about it is...",
-        "pt-BR": "Só de pensar nisso...",
+        "pt-BR": "Tenho medo de virar subcelebridade...",
         "es-ES": "Uf, solo de pensarlo..."
     },
     "Lt+FDA": {
         "en-US": "[Member]\nThis performance is almost at its end now. Then it's vacation time!",
-        "pt-BR": "[Membro]\nEsta apresentação já está chegando ao fim. Então, férias!",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nEsta turnê já está chegando ao fim. Então, férias!",
         "es-ES": "[Miembro]\nYa casi termina esta temporada de actuaciones. \n¡Entonces, vacaciones!"
     },
     "L9+FDA": {
         "en-US": "Vacation, vacation!",
-        "pt-BR": "Férias, férias!",
+        "pt-BR": "Eu quero férias!!",
         "es-ES": "¡Vacaciones, vacaciones!"
     },
     "MN+FDA": {
         "en-US": "[Member]\nWhen I'm done with work, I'm going back home to see my mother!",
-        "pt-BR": "[Membro]\nQuando terminar o trabalho, vou voltar para minha terra natal e ver minha mãe!",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nQuando terminar o trabalho, vou voltar para minha terra natal e ver minha mãe!",
         "es-ES": "[Miembro]\n¡Cuando termine el trabajo, bajaré a mi tierra natal para ver a mi madre!"
     },
     "Md+FDA": {
         "en-US": "It's been far too long since I last saw her.",
-        "pt-BR": "Faz tanto tempo que não a vejo.",
+        "pt-BR": "Saudades, mãezinha!",
         "es-ES": "Hace demasiado tiempo que no la veo."
     },
     "Mt+FDA": {
         "en-US": "[Member]\nDon't say ominous things!",
-        "pt-BR": "[Membro]\nNão diga essas coisas!",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nNão falem que vamos flopar! Isso dá azar!",
         "es-ES": "[Miembro]\n¡No digas cosas de mal agüero!"
     },
     "M9+FDA": {
         "en-US": "That's really ominous!",
-        "pt-BR": "É muito agourento!",
+        "pt-BR": "Não vamos flopar!",
         "es-ES": "¡De verdad da mal rollo!"
     },
     "NN+FDA": {
         "en-US": "[Member]\nWhat? My mother is ominous?",
-        "pt-BR": "[Membro]\nO quê? Minha mãe é agourenta?",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nO quê? O que diabos é flopar?",
         "es-ES": "[Miembro]\n¿Qué? \n¿Mi madre da mal agüero?"
     },
     "Nd+FDA": {
         "en-US": "What's wrong with my mother?",
-        "pt-BR": "Por que minha mãe seria?",
+        "pt-BR": "O que é flopar?",
         "es-ES": "¿Qué le pasa a mi madre?"
     },
     "Nt+FDA": {
         "en-US": "[Member]\nYou know what I mean! I've never seen anyone who says things like that come back alive! It'd be a problem if you died! If even one person is missing from our group choreography, it won't be complete!",
-        "pt-BR": "[Membro]\nNão é isso, e vc sabe! Nunca vi ninguém que falasse uma coisa dessas voltar vivo! Você não pode morrer! Se faltar uma única pessoa na nossa coreografia, ela não estará completa!",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nAi, você sabe! Deixar de fazer sucesso! E se alguém sair da banda? Se faltar uma única pessoa na nossa coreografia, ela não estará completa!",
         "es-ES": "[Miembro]\n¡Eso! \n¡Nunca he visto volver con vida a nadie que diga esas cosas! \n¡No puedes morirte! \n¡Si falta uno solo en nuestra coreografía, ya no estará completa!"
     },
     "N9+FDA": {
         "en-US": "That's a death flag right there!",
-        "pt-BR": "Isso sim é presságio de morte!",
+        "pt-BR": "E se alguém morrer?!",
         "es-ES": "¡Eso sí que suena a anuncio de muerte!"
     },
     "ON+FDA": {
         "en-US": "[Member]\nCould you not kill me off as you please?",
-        "pt-BR": "[Membro]\nPode parar de me matar, por favor?",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nPode parar de querer me matar, por favor?",
         "es-ES": "[Miembro]\n¿Te importaría no matarme así como si nada?"
     },
     "Od+FDA": {
@@ -131,12 +131,12 @@
     },
     "Ot+FDA": {
         "en-US": "[Suseok]\nDon't fight, everyone, look over there. A stranger is watching us.",
-        "pt-BR": "[Suseok]\nParem de brigar e olhem para lá. Tem um estranho nos observando.",
+        "pt-BR": "[Suseok]\nParem de brigar e olhem para lá. Tem uma estranha nos observando.",
         "es-ES": "[Suseok]\nDejen de pelear y miren todos allá. \nUn extraño nos está observando"
     },
     "O9+FDA": {
         "en-US": "[Member]\nWe cannot accept requests for autographs or photos. Please contact the manager for bookings.",
-        "pt-BR": "[Membro]\nPedidos de autógrafo ou foto são complicados. Para convites, fale com o empresário.",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nNão dá para atender pedidos de autógrafo ou foto agora. Melhor falar com nosso empresário.",
         "es-ES": "[Miembro]\nNo podemos atender solicitudes de autógrafos ni de fotos. \nPara contrataciones, hablen con el mánager."
     },
     "PN+FDA": {
@@ -151,7 +151,7 @@
     },
     "Pt+FDA": {
         "en-US": "[Member]\nJoin? Well, if it's someone promising, we do accept people at any time...",
-        "pt-BR": "[Membro]\nEntrar no grupo? Bem, se a pessoa for boa, aceitamos de tempos em tempos, mas...",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nEntrar no grupo? Bem, se a pessoa for boa, aceitamos de tempos em tempos, mas...",
         "es-ES": "[Miembro]\n¿Unirse? \nBueno, si es alguien decente, aceptamos de vez en cuando, pero..."
     },
     "P9+FDA": {
@@ -171,12 +171,12 @@
     },
     "Qt+FDA": {
         "en-US": "[Suseok]\nDo you need someone to be with you? I think differently.",
-        "pt-BR": "[Suseok]\nVocê precisa de alguém para seguir com você? Eu penso um pouco diferente.",
+        "pt-BR": "[Suseok]\nVocê precisa de alguém para um dueto com você? Eu penso um pouco diferente.",
         "es-ES": "[Suseok]\n¿Necesitas gente con la que estar? \nYo no lo veo así."
     },
     "Q9+FDA": {
         "en-US": "[Member]\nIf you put it like that, it'll cause a misunderstanding. From the looks of it, you've steadily trained and reached a certain level, but lately you've been feeling more and more like you've hit a limit, right?",
-        "pt-BR": "[Membro]\nSe você fala assim, vai dar a impressão errada. Pelo que vejo, você treinou de forma constante e alcançou certo nível, mas ultimamente parece sentir cada vez mais que esbarrou em um limite, não é?",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nSuseok, se falar assim, vai dar a impressão errada. Pelo que vejo, você treinou de forma constante e alcançou certo nível, mas ultimamente parece sentir cada vez mais que esbarrou em um limite, não é?",
         "es-ES": "[Miembro]\nSi lo dices así, se presta a malentendidos. \nPor lo que veo, has entrenado con constancia y has alcanzado cierto nivel, pero últimamente sientes cada vez más que has chocado con un límite. \n¿Me equivoco?"
     },
     "RN+FDA": {
@@ -186,32 +186,32 @@
     },
     "Rd+FDA": {
         "en-US": "[Suseok]\nEveryone here was like that. We wanted to break through our limits by competing with one another among the best dancers. We achieved some results too... but...",
-        "pt-BR": "[Suseok]\nPorque todos aqui passaram por isso. Queríamos romper nossos limites competindo entre nós, junto dos melhores dançarinos. Tivemos algum resultado também... Mas...",
+        "pt-BR": "[Suseok]\nPorque todas aqui passaram por isso. Queríamos romper nossos limites competindo entre nós, junto das melhores dançarinas. Tivemos algum resultado também... Mas...",
         "es-ES": "[Suseok]\nTodos los que estamos aquí pasamos por lo mismo. \nQueríamos trabajar junto a los mejores bailarines y romper nuestros límites compitiendo entre nosotros. \nObtuvimos ciertos resultados... pero..."
     },
     "Rt+FDA": {
         "en-US": "[Member]\nBut it's not a method that suits everyone. From what we can see, you seem better suited to freedom rather than choreographed dance.",
-        "pt-BR": "[Membro]\nMas esse não é um método que sirva para todo mundo. Pelo que vemos, você combina mais com a liberdade do que com uma dança toda ensaiada.",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nMas esse não é um método que sirva para todo mundo. Pelo que vemos, você combina mais com a liberdade do que com uma dança toda ensaiada.",
         "es-ES": "[Miembro]\nPero no es un método que le sirva a todo el mundo. \nDesde nuestro punto de vista, te pega más algo libre que un baile perfectamente encajado."
     },
     "R9+FDA": {
         "en-US": "[Member]\nThat suits a free adventurer better. It's also nice for different adventurers who share the same purpose to come together and create harmony.",
-        "pt-BR": "[Membro]\nPara um aventureiro como você, isso se encaixar melhor. Também é bom quando diferentes aventureiros, que compartilham do mesmo propósito, se unem e criam harmonia.",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nPara uma aventureira como você, isso se encaixar melhor. Também é bom quando diferentes aventureiras, que compartilham do mesmo propósito, se unem e criam harmonia.",
         "es-ES": "[Miembro]\nEso suele ir mejor con los aventureros libres. \nTambién es bonito que aventureros distintos, unidos por un mismo propósito, se junten y creen armonía."
     },
     "SN+FDA": {
         "en-US": "That extraordinary aura.",
-        "pt-BR": "Essa aura fora do comum.",
+        "pt-BR": "Exatamente!",
         "es-ES": "Esa aura tan diferente."
     },
     "Sd+FDA": {
         "en-US": "[Member]\nRather than us, that path would suit you better. Of course we covet your talent too. But even if someone carrying the same concerns as you joins us, those concerns will continue.",
-        "pt-BR": "[Membro]\nSinceramente, isso combina mais com você do que com a gente. Claro que também queremos alguém como você. Mas mesmo que alguém com esse tipo de dilema se junte a nós, o dilema vai continuar.",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nSinceramente, isso combina mais com você do que com a gente. Claro que também queremos alguém como você. Mas mesmo que alguém com esse tipo de dilema se junte a nós, o dilema vai continuar.",
         "es-ES": "[Miembro]\nSinceramente, eso te iría mejor que estar con nosotros. \nClaro que también nos interesas. \nPero aunque alguien con esas inquietudes se una a nosotros, sus dudas seguirán ahí."
     },
     "St+FDA": {
         "en-US": "You clearly have the temperament of an adventurer.",
-        "pt-BR": "Porque você tem um grande espírito de aventureiro.",
+        "pt-BR": "Seu espírito é de aventureira.",
         "es-ES": "Porque tienes un claro espíritu de aventurero."
     },
     "S9+FDA": {
@@ -221,17 +221,17 @@
     },
     "TN+FDA": {
         "en-US": "[Member]\nAh, right! I heard they're building a new performance hall near Odin Temple. They're recruiting people with top-tier talent there, so how about going there?",
-        "pt-BR": "[Membro]\nAh, é mesmo! Ouvi dizer que estão construindo um novo palco perto do Templo de Odin. Parece que estão recrutando gente com técnica de ponta por lá, então que tal ir lá dar uma olhada?",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nAh, é mesmo! Ouvi dizer que estão construindo um novo palco perto do Templo de Odin. Parece que estão recrutando gente talentosa por lá, então que tal ir lá dar uma olhada?",
         "es-ES": "[Miembro]\n¡Ah, claro! \nDicen que están construyendo un nuevo escenario por la zona del Templo de Odín. \nEstán reclutando a personas con el mejor talento, ¿por qué no vas a echar un vistazo?"
     },
     "Td+FDA": {
         "en-US": "The large performance troupes have probably all received it.",
-        "pt-BR": "Acho que já chamaram todos os grupos de grande porte.",
+        "pt-BR": "Convidaram muita gente talentosa!",
         "es-ES": "Seguro que ya han aceptado a todos los grupos grandes."
     },
     "Tt+FDA": {
         "en-US": "[Member]\nYeah, a lot of different people will gather there, so it might help solve your concerns.",
-        "pt-BR": "[Membro]\nÉ, lá deve aparecer gente de todo tipo, então talvez você consiga resolver seus problemas.",
+        "pt-BR": "[Dançarina do Maçã Dourada]\nÉ, lá deve aparecer gente de todo tipo, então talvez você consiga resolver seus problemas.",
         "es-ES": "[Miembro]\nSí, allí se reunirá gente muy diversa, así que tal vez puedas resolver tus inquietudes."
     },
     "T9+FDA": {
@@ -241,7 +241,7 @@
     },
     "UN+FDA": {
         "en-US": "Didn't you throw that away before?",
-        "pt-BR": "Você não tinha jogado isso fora antes?",
+        "pt-BR": "Você não jogou isso fora?",
         "es-ES": "¿No la tiraste antes?"
     },
     "Ud+FDA": {
@@ -256,7 +256,7 @@
     },
     "U9+FDA": {
         "en-US": "[Suseok]\nReally? Good choice. The performance hall is in the <NAVI>[North of Odin Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> area. Just follow the directions.",
-        "pt-BR": "[Suseok]\nÉ? Pensou bem. O palco fica na região <NAVI>[Norte do Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. É só seguir a indicação.",
+        "pt-BR": "[Suseok]\nÉ? Ótimo. O palco fica na região norte do <NAVI>[Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. É só seguir a indicação.",
         "es-ES": "[Suseok]\n¿Sí? \nHas pensado bien. \nEl escenario está en la zona de <NAVI>[Norte del Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. \nSolo sigue las indicaciones."
     },
     "VN+FDA": {
@@ -286,32 +286,32 @@
     },
     "Wd+FDA": {
         "en-US": "[Suseok]\nReally? You think so? That's a shame. Then keep wandering and try to find the path that suits you. If you have time, watch our performance too.",
-        "pt-BR": "[Suseok]\nÉ? Parece mesmo? Que pena. Então continue andando por aí e procure o caminho que combine com você. E, se tiver tempo, venha assistir à nossa apresentação também.",
+        "pt-BR": "[Suseok]\nÉ? Você acha? Que pena. Então continue andando por aí e procure o caminho que combine com você. E, se tiver tempo, venha assistir à nossa apresentação também.",
         "es-ES": "[Suseok]\n¿Sí? \n¿Eso te parece? \nQué pena. \nEntonces sigue viajando y busca el camino que mejor vaya contigo. \nY si tienes tiempo, quédate a ver nuestra actuación."
     },
     "Wt+FDA": {
         "en-US": "[Suseok]\nThe performance hall is in the <NAVI>[North of Odin Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> area. Just follow the directions.",
-        "pt-BR": "[Suseok]\nO palco fica na região <NAVI>[Norte do Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. É só seguir a indicação.",
+        "pt-BR": "[Suseok]\nO palco fica na região norte do <NAVI>[Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. É só seguir a indicação.",
         "es-ES": "[Suseok]\nEl escenario está en la zona de <NAVI>[Norte del Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. \nSolo sigue las indicaciones."
     },
     "W9+FDA": {
         "en-US": "[Suseok]\nDid things go well where you went? You look busy.",
-        "pt-BR": "[Suseok]\nE então, foi tudo bem lá onde você foi? Você parece ocupado.",
+        "pt-BR": "[Suseok]\nE então, foi tudo bem lá onde você foi? Você parece ocupada.",
         "es-ES": "[Suseok]\n¿Qué tal te fue allí? \nPareces ocupado."
     },
     "XN+FDA": {
         "en-US": "Member",
-        "pt-BR": "Membro",
+        "pt-BR": "Dançarina do Maçã Dourada",
         "es-ES": "Miembro"
     },
     "Xd+FDA": {
         "en-US": "Ice Sculptor",
-        "pt-BR": "Escultor de Gelo",
+        "pt-BR": "Escultora de Gelo",
         "es-ES": "Escultor de Hielo"
     },
     "Xt+FDA": {
         "en-US": "I can feel the energy of a Piece of Emotion from that person!",
-        "pt-BR": "Estou sentindo a energia de uma Peça de Emoção vindo daquela pessoa!",
+        "pt-BR": "Sinto algo diferente emanando dessa pessoa!",
         "es-ES": "¡Siento la energía del Fragmento de Emoción en esa persona!"
     },
     "X9+FDA": {
@@ -321,12 +321,12 @@
     },
     "YN+FDA": {
         "en-US": "[Ice Sculptor]\nUgh, it's cold. I hate the cold, I hate hands that freeze stiff, and I hate the wind that feels like it'll tear my ears off. I hate it. I hate everything.",
-        "pt-BR": "[Escultor de Gelo]\nAh, que frio. Odeio o frio, odeio minhas mãos congelando, odeio esse vento que parece que vai arrancar minhas orelhas. Odeio. Odeio tudo.",
+        "pt-BR": "[Escultora de Gelo]\nAh, que frio. Odeio o frio, odeio minhas mãos congelando, odeio esse vento que parece que vai arrancar minhas orelhas. Odeio. Odeio tudo.",
         "es-ES": "[Escultor de Hielo]\nUf, qué frío. \nOdio el frío, odio estas manos congeladas, odio este viento que parece que me arrancará las orejas. \nLo odio. \nLo odio todo."
     },
     "Yd+FDA": {
         "en-US": "[Ice Sculptor]\nI wish everyone would just be buried under this snow!! Then I wouldn't have to work, right? I don't want to do anything.",
-        "pt-BR": "[Escultor de Gelo]\nTomara que todo mundo fique enterrado debaixo desta neve!! Aí eu não precisaria trabalhar, né? Não quero fazer absolutamente nada.",
+        "pt-BR": "[Escultora de Gelo]\nTomara que todo mundo fique enterrado debaixo desta neve!! Aí eu não precisaria trabalhar, né? Não quero fazer absolutamente nada.",
         "es-ES": "[Escultor de Hielo]\n¡Ojalá todos acabaran enterrados bajo esta nieve! \nEntonces no tendría que trabajar, ¿verdad? \nNo quiero hacer absolutamente nada."
     },
     "Yt+FDA": {
@@ -336,12 +336,12 @@
     },
     "Y9+FDA": {
         "en-US": "[Ice Sculptor]\nDid you come to commission work? Too bad, but I won't take any more jobs. This year's work is over, over!",
-        "pt-BR": "[Escultor de Gelo]\nVeio me pedir trabalho? Que pena, mas eu não vou aceitar mais nada. O trabalho deste ano acabou, acabou!",
+        "pt-BR": "[Escultora de Gelo]\nVeio me pedir trabalho? Que pena, mas eu não vou aceitar mais nada. O trabalho deste ano acabou, acabou!",
         "es-ES": "[Escultor de Hielo]\n¿Ha venido a encargarme trabajo? \nQué pena, pero no aceptaré más. \nEl trabajo de este año ya ha terminado, ¡se acabó!"
     },
     "ZN+FDA": {
         "en-US": "[Ice Sculptor]\nIt's too cold to want to do anything! Look at my hands. Are these hands or chunks of ice?",
-        "pt-BR": "[Escultor de Gelo]\nEstá tão frio que eu não quero fazer nada! Olha para as minhas mãos. Isso é uma mão ou um bloco de gelo?",
+        "pt-BR": "[Escultora de Gelo]\nEstá tão frio que eu não quero fazer nada! Olhe para as minhas mãos. Isso é uma mão ou um bloco de gelo?",
         "es-ES": "[Escultor de Hielo]\n¡Hace tanto frío que no quiero hacer nada! \nMire mis manos. \n¿Esto son manos o bloques de hielo?"
     },
     "Zd+FDA": {
@@ -351,12 +351,12 @@
     },
     "Zt+FDA": {
         "en-US": "Talk about the Piece of Emotion and the ancient temple.",
-        "pt-BR": "Fala sobre a Peça de Emoção e o templo antigo.",
+        "pt-BR": "Sobre o Fragmento de Emoção.",
         "es-ES": "Habla sobre el Fragmento de Emoción y el Antiguo Templo."
     },
     "Z9+FDA": {
         "en-US": "[Ice Sculptor]\nPardon? A Piece of Emotion? How could I possibly have something like that? All the energy in my heart is completely drained. All that's left is my hatred of the cold!",
-        "pt-BR": "[Escultor de Gelo]\nHã? Peça de Emoção? Não tem como eu ter algo assim. Toda a energia do meu coração já se esgotou. Só o que restou foi meu desgosto pelo frio!",
+        "pt-BR": "[Escultora de Gelo]\nHã? Emoção? Não tem como eu ter algo assim. Toda a energia do meu coração já se esgotou. Só o que restou foi meu desgosto pelo frio!",
         "es-ES": "[Escultor de Hielo]\n¿Eh? \n¿Un Fragmento de Emoción? \n¿Cómo voy a tener yo algo así? \nToda la energía de mi corazón está agotada. \n¡Solo me queda el sentimiento de odiar el frío!"
     },
     "aN+FDA": {
@@ -366,12 +366,12 @@
     },
     "ad+FDA": {
         "en-US": "[Ice Sculptor]\nYou can't do this work somewhere warm! Ice sculptures have to be made in cold places. I have to beautifully sculpt vivid moments out of ice...",
-        "pt-BR": "[Escultor de Gelo]\nEm um lugar quente eu não consigo trabalhar! Escultura de gelo tem que ser feita em lugar frio. Tenho que esculpir em gelo momentos vívidos e belos, mas...",
+        "pt-BR": "[Escultora de Gelo]\nEm um lugar quente eu não consigo trabalhar! Escultura de gelo tem que ser feita em lugar frio. Tenho que esculpir em gelo momentos vívidos e belos, mas...",
         "es-ES": "[Escultor de Hielo]\n¡En un lugar cálido no se puede trabajar! \n¡Las esculturas de hielo deben hacerse en lugares fríos! \nHay que tallar con hielo esos momentos vívidos y hermosos..."
     },
     "at+FDA": {
         "en-US": "[Ice Sculptor]\nAre you telling me to go play in the water instead of making ice sculptures?",
-        "pt-BR": "[Escultor de Gelo]\nEstá me dizendo para largar as esculturas de gelo e ir brincar na água?",
+        "pt-BR": "[Escultora de Gelo]\nEstá me dizendo para largar as esculturas de gelo e ir brincar na água?",
         "es-ES": "[Escultor de Hielo]\n¿Qué? \n¿Quiere que, en vez de esculpir hielo, me ponga a jugar en el agua?"
     },
     "a9+FDA": {
@@ -381,32 +381,32 @@
     },
     "bN+FDA": {
         "en-US": "[Ice Sculptor]\nHow can you say that? Then I'd have to give up this snow! I'm here because of the snow. That beautiful snow you can't see anywhere else!",
-        "pt-BR": "[Escultor de Gelo]\nComo você pode dizer uma coisa dessas? Isso quer dizer desistir desta neve! Eu estou aqui por causa da neve. Desta neve linda que não existe em nenhum outro lugar!",
+        "pt-BR": "[Escultora de Gelo]\nComo você pode dizer uma coisa dessas? Isso quer dizer desistir desta neve! Eu estou aqui por causa da neve. Desta neve linda que não existe em nenhum outro lugar!",
         "es-ES": "[Escultor de Hielo]\n¿Cómo puede decir algo así? \n¡Eso significaría renunciar a esta nieve! \nEstoy aquí por la nieve. \n¡Esta nieve hermosa que no puede verse en ningún otro lugar!"
     },
     "bd+FDA": {
         "en-US": "Do you like snow?",
-        "pt-BR": "Você gosta de neve?",
+        "pt-BR": "Você gosta da neve?",
         "es-ES": "¿Le gusta la nieve?"
     },
     "bt+FDA": {
         "en-US": "[Ice Sculptor]\nWhat kind of obvious question is that? How could anyone not love those flowers that turn to water the moment they touch your hand, yet are so beautiful as they fall?",
-        "pt-BR": "[Escultor de Gelo]\nMas é claro! Como eu poderia não gostar daquela flor que vira água no instante em que toca a mão, mas que no momento em que cai é bela demais?",
+        "pt-BR": "[Escultora de Gelo]\nMas é claro! Como eu poderia não gostar daquela flor que vira água no instante em que toca a mão, mas que no momento em que cai é bela demais?",
         "es-ES": "[Escultor de Hielo]\n¿Qué clase de pregunta es esa? \nAunque al tocarla se convierta en agua en un instante, ¿cómo no me va a gustar esa flor tan hermosa justo cuando cae?"
     },
     "b9+FDA": {
         "en-US": "[Ice Sculptor]\nWhen I first saw snowflakes, even though it was cold, I thought spring had come again. Those snowflakes drifting softly on the wind.",
-        "pt-BR": "[Escultor de Gelo]\nQuando vi os flocos de neve pela primeira vez, apesar do frio, achei que a primavera tinha voltado de novo. Aqueles flocos de neve caindo suavemente ao vento.",
+        "pt-BR": "[Escultora de Gelo]\nQuando vi os flocos de neve pela primeira vez, apesar do frio, achei que a primavera tinha voltado de novo. Aqueles flocos de neve caindo suavemente ao vento.",
         "es-ES": "[Escultor de Hielo]\nLa primera vez que vi copos de nieve, aunque hacía frío, pensé que la primavera había vuelto. \nEsos copos que caen suavemente llevados por el viento."
     },
     "cN+FDA": {
         "en-US": "[Ice Sculptor]\nI tried so hard because I wanted to express those snowflakes that drift down so softly you can barely even feel their weight...",
-        "pt-BR": "[Escultor de Gelo]\nEu me esforcei tanto porque queria expressar aqueles flocos de neve que caem suavemente, tão leves que nem parecem ter peso...",
+        "pt-BR": "[Escultora de Gelo]\nEu me esforcei tanto porque queria expressar aqueles flocos de neve que caem suavemente, tão leves que nem parecem ter peso...",
         "es-ES": "[Escultor de Hielo]\nHe intentado con todas mis fuerzas expresar esos copos ligeros que caen flotando, sin que se perciba siquiera su peso, pero..."
     },
     "cd+FDA": {
         "en-US": "[Ice Sculptor]\nBut it didn't go well, and the cold froze my hands, and now I guess it's really time to give up. I wanted to hold those snowflakes in my hands.",
-        "pt-BR": "[Escultor de Gelo]\nMas não está dando certo, minhas mãos congelam de tanto frio, e acho que agora chegou mesmo a hora de desistir. Eu queria segurar aqueles flocos de neve nas mãos.",
+        "pt-BR": "[Escultora de Gelo]\nMas não está dando certo, minhas mãos congelam de tanto frio, e acho que agora chegou mesmo a hora de desistir. Eu queria segurar aqueles flocos de neve nas mãos.",
         "es-ES": "[Escultor de Hielo]\nNada me sale bien, el frío me congela las manos, y supongo que de verdad ha llegado el momento de rendirme. \nQuería tener esos copos de nieve en mis manos."
     },
     "ct+FDA": {
@@ -416,17 +416,17 @@
     },
     "c9+FDA": {
         "en-US": "[Ice Sculptor]\nA dance...? While imitating snowflakes...?",
-        "pt-BR": "[Escultor de Gelo]\nUma dança...? Imitando os flocos de neve...?",
+        "pt-BR": "[Escultora de Gelo]\nDançando...? Como os flocos de neve...?",
         "es-ES": "[Escultor de Hielo]\n¿Bailar...? \n¿Imitando a los copos de nieve...?"
     },
     "dN+FDA": {
         "en-US": "[Ice Sculptor]\nAh...! It really looks just like snowflakes falling! Snowflakes riding the wind and drifting into the sky...!",
-        "pt-BR": "[Escultor de Gelo]\nAh...! Parece mesmo neve caindo! Flocos de neve voando para o céu ao sabor do vento...!",
+        "pt-BR": "[Escultora de Gelo]\nAh...! Parece mesmo neve caindo! Flocos de neve voando para o céu ao vento...!",
         "es-ES": "[Escultor de Hielo]\n¡Ah...! \n¡Es justo como si estuviera nevando de verdad! \n¡Copos de nieve que vuelan hacia el cielo llevados por el viento...!"
     },
     "dd+FDA": {
         "en-US": "[Ice Sculptor]\nThere was a way for me to express snowflakes myself!! Like this...! Like this...!",
-        "pt-BR": "[Escultor de Gelo]\nTambém havia um jeito de eu mesmo expressar os flocos de neve!! Assim...! Assim...!",
+        "pt-BR": "[Escultora de Gelo]\nTambém havia um jeito de eu mesma dançar com os flocos de neve!! Assim...! Assim...!",
         "es-ES": "[Escultor de Hielo]\n¡También había una forma de expresar yo mismo los copos de nieve! \n¡Así...! \n¡Así...!"
     },
     "dt+FDA": {
@@ -436,22 +436,22 @@
     },
     "d9+FDA": {
         "en-US": "[Ice Sculptor]\nThat's right. I shouldn't have been irritated just because it was cold. You can only see snowflakes when it's cold..!",
-        "pt-BR": "[Escultor de Gelo]\nÉ verdade. Eu não devia ficar irritado por causa do frio. Os flocos de neve só podem ser vistos quando está frio..!",
+        "pt-BR": "[Escultora de Gelo]\nÉ verdade. Eu não devia ficar irritada por causa do frio. Os flocos de neve só podem ser vistos quando está frio..!",
         "es-ES": "[Escultor de Hielo]\nTiene razón. \nNo debería haberme enfadado por el frío. \n¡Los copos de nieve solo pueden verse cuando hace frío...!"
     },
     "eN+FDA": {
         "en-US": "[Ice Sculptor]\nThank you so much for giving me snowflakes.",
-        "pt-BR": "[Escultor de Gelo]\nMuito obrigado por me dar os flocos de neve.",
+        "pt-BR": "[Escultora de Gelo]\nMuito obrigada por me ensinar a dançar.",
         "es-ES": "[Escultor de Hielo]\nMuchas gracias por darme los copos de nieve."
     },
     "ed+FDA": {
         "en-US": "[Ice Sculptor]\nBut my heart has been boiling this whole time, you know? I think that other piece is probably in a place like that. Somewhere like <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI> perhaps...? Hurry and go.",
-        "pt-BR": "[Escultor de Gelo]\nMas sabe, meu coração não para de ferver desde agora há pouco. Acho que o outro fragmento está em algum lugar assim. Algo como <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>...? Vá logo.",
+        "pt-BR": "[Escultora de Gelo]\nMas sabe, meu coração não para de ferver desde agora há pouco. Acho que o outro fragmento está em algum lugar assim. Algo como <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>...? Vá logo.",
         "es-ES": "[Escultor de Hielo]\nPero, ¿sabe? \nDesde hace un rato siento que mi corazón sigue hirviendo. \nCreo que ese otro fragmento debe de estar en un lugar como <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>. \nVaya enseguida."
     },
     "et+FDA": {
         "en-US": "As you grasp the crystal, you feel a force guiding you somewhere.",
-        "pt-BR": "Ao segurar o cristal na mão, você sente uma força guiando-o para algum lugar.",
+        "pt-BR": "Ao segurar o cristal na mão, você sente uma força guiando-a para algum lugar.",
         "es-ES": "Al tomar el cristal en sus manos, siente una fuerza que lo guía hacia algún lugar."
     },
     "e9+FDA": {
@@ -466,67 +466,67 @@
     },
     "fd+FDA": {
         "en-US": "[Ice Sculptor]\nDidn't I tell you that I could feel the energy of another piece from somewhere around <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?",
-        "pt-BR": "[Escultor de Gelo]\nEu não disse que sentia a energia de outro fragmento vindo da direção de <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?",
+        "pt-BR": "[Escultora de Gelo]\nEu não disse que sentia a energia de outro fragmento vindo da direção de <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?",
         "es-ES": "[Escultor de Hielo]\n¿No dijo que sentía la energía de otro fragmento por la zona de <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?"
     },
     "ft+FDA": {
         "en-US": "[Ice Sculptor]\nHuh? The one who taught me the dance of snowflakes...! I really enjoy this cold now.",
-        "pt-BR": "[Escultor de Gelo]\nAh? Você que me ensinou a dança dos flocos de neve...! Agora eu realmente passei a aproveitar este frio com alegria.",
+        "pt-BR": "[Escultora de Gelo]\nAh? Você que me ensinou a dança dos flocos de neve...! Agora eu realmente passei a aproveitar este frio com alegria.",
         "es-ES": "[Escultor de Hielo]\n¿Eh? \n¡Pero si eres quien me enseñó la danza de los copos de nieve...! \nAhora de verdad disfruto de este frío con alegría."
     },
     "f9+FDA": {
         "en-US": "Seeker",
-        "pt-BR": "Buscador",
+        "pt-BR": "Discípulo",
         "es-ES": "Buscador"
     },
     "gN+FDA": {
         "en-US": "[Seeker]\nWhew- It's hot again today. How can it be this hot?",
-        "pt-BR": "[Buscador]\nUfa- Hoje também está quente. Como pode estar tão quente assim?",
+        "pt-BR": "[Discípulo]\nArgh! Hoje também está quente. Como pode estar tão quente assim?",
         "es-ES": "[Buscador]\nUf... Hoy también hace calor. \n¿Cómo puede hacer tantísimo calor?"
     },
     "gd+FDA": {
         "en-US": "[Seeker]\nHow could anyone think of living in a place this hot? Ah, I want to meditate in cool shade.",
-        "pt-BR": "[Buscador]\nComo alguém pode pensar em viver num lugar tão quente? Ah, queria meditar em uma sombra fresquinha.",
+        "pt-BR": "[Discípulo]\nComo alguém pode pensar em viver num lugar tão quente? Ah, queria meditar em uma sombra fresquinha.",
         "es-ES": "[Buscador]\n¿Cómo pudo alguien pensar en vivir en un lugar tan caluroso? \nAh, quiero meditar a la sombra, en un sitio fresco."
     },
     "gt+FDA": {
         "en-US": "[Seeker]\nWhy did Master send me here to train? Could it be that I displeased him? Wouldn't it be better to go back and beg for forgiveness right now? Whatever it may be.",
-        "pt-BR": "[Buscador]\nPor que será que o mestre me mandou treinar num lugar desses? Será que ele pegou birra de mim? Não seria melhor eu ir lá agora mesmo pedir perdão, rastejando, seja pelo que for?",
+        "pt-BR": "[Discípulo]\nPor que será que o mestre me mandou treinar num lugar desses? Será que ele pegou birra de mim? Seria melhor eu ir lá agora mesmo pedir perdão, rastejando, seja pelo que for...",
         "es-ES": "[Buscador]\n¿Por qué el maestro me enviaría a entrenar a un lugar así? \n¿Será que le caí mal? \n¿No sería mejor volver ahora mismo y suplicarle? Sea por lo que sea."
     },
     "g9+FDA": {
         "en-US": "[Seeker]\nThen perhaps Master's heart would soften. Why was I born, and for what sin am I drying up in this place?",
-        "pt-BR": "[Buscador]\nTalvez assim o coração do mestre se acalme. Por que eu nasci e por qual pecado estou secando neste lugar?",
+        "pt-BR": "[Discípulo]\nTalvez assim o coração do mestre se acalme. Por que eu nasci e por qual pecado estou derretendo neste lugar?",
         "es-ES": "[Buscador]\nEntonces quizá el corazón del maestro se ablandaría. \n¿Por qué nací, y con qué pecado me marchito aquí?"
     },
     "hN+FDA": {
         "en-US": "A person is drying up!",
-        "pt-BR": "Uma pessoa está secando!",
+        "pt-BR": "Uma pessoa está derretendo?!",
         "es-ES": "¡Una persona se está marchitando!"
     },
     "hd+FDA": {
         "en-US": "[Seeker]\nWho are you to insult me like that? I merely exist. I am not a plant, so how could I be drying up?",
-        "pt-BR": "[Buscador]\nQuem é você para me insultar desse jeito? Eu apenas existo. Eu não sou uma planta, então como assim estou secando?",
+        "pt-BR": "[Discípulo]\nQuem é você para me insultar desse jeito? Eu apenas existo. Eu não sou um sorvete para derreter!",
         "es-ES": "[Buscador]\n¿Quién es usted para insultarme de esa manera? \nYo simplemente existo. \nNo soy una planta como para marchitarme."
     },
     "ht+FDA": {
         "en-US": "Talk about the Piece of Emotion and the ancient temple.",
-        "pt-BR": "Falar sobre a Peça de Emoção e o templo antigo.",
+        "pt-BR": "Sobre o Fragmento de Emoção.",
         "es-ES": "Habla sobre el Fragmento de emoción y el antiguo templo."
     },
     "h9+FDA": {
         "en-US": "[Seeker]\nHmm, that is quite strange. I haven't felt anything unusual recently. I'm someone who trains, so if something like that had appeared in me, I would have noticed it keenly.",
-        "pt-BR": "[Buscador]\nHmm, isso é realmente estranho. Ultimamente não senti nada de especial. Sou uma pessoa em treinamento, então se algo assim tivesse surgido em mim, eu teria percebido com certeza.",
+        "pt-BR": "[Discípulo]\nHmm, isso é realmente estranho. Ultimamente não senti nada de especial. Sou uma pessoa em treinamento, então se algo assim tivesse surgido em mim, eu teria percebido com certeza.",
         "es-ES": "[Buscador]\nHmm, eso sí que es extraño. \nÚltimamente no he sentido nada fuera de lo normal. \nSoy una persona que entrena; si algo así me hubiera pasado, me habría dado cuenta enseguida."
     },
     "iN+FDA": {
         "en-US": "[Seeker]\nStill, this is serious. If the world is going to perish, I cannot simply listen as one who seeks the Way. What can I do to help you? Please let me help!",
-        "pt-BR": "[Buscador]\nDe qualquer forma, isso é grave. Se o mundo vai acabar, como alguém que busca o caminho, não posso apenas ouvir e ficar parado. Como posso ajudá-lo? Por favor, deixe-me ajudar!",
+        "pt-BR": "[Discípulo]\nDe qualquer forma, isso é grave. Se o mundo vai acabar, como alguém que busca o caminho, não posso apenas ouvir e ficar parado. Como posso ajudá-la? Por favor, deixe-me ajudar!",
         "es-ES": "[Buscador]\nEn cualquier caso, esto es grave. \nSi el mundo va a ser destruido, como alguien que busca el camino no puedo quedarme sin hacer nada. \n¿En qué puedo ayudarle? \n¡Permítame ayudarle!"
     },
     "id+FDA": {
         "en-US": "[Seeker]\nAh, no. I nearly acted out of turn. I'm only a trainee. There's no way I could be of help.",
-        "pt-BR": "[Buscador]\nAh, não. Por pouco eu não me empolguei sem conhecer meu lugar. Sou apenas um aprendiz. Não há como eu poder ser útil.",
+        "pt-BR": "[Discípulo]\nAh, não. Por pouco eu não me empolguei sem conhecer meu lugar. Sou apenas um aprendiz. Não há como eu poder ser útil.",
         "es-ES": "[Buscador]\nAh, no, no. \nEstuve a punto de entrometerme sin saber cuál es mi lugar. \nNo soy más que un aprendiz. \nNo hay forma de que yo pueda ser de ayuda."
     },
     "it+FDA": {
@@ -536,57 +536,57 @@
     },
     "i9+FDA": {
         "en-US": "[Seeker]\nI thought so too... but I suppose Master did not see it that way. I thought I would become his foremost disciple, but instead he suddenly sent me to a place like this...",
-        "pt-BR": "[Buscador]\nEu também pensei isso... mas acho que, aos olhos do mestre, não era assim. Eu achava que me tornaria o discípulo principal, mas de repente ele me mandou para um lugar desses...",
+        "pt-BR": "[Discípulo]\nEu também pensei isso... mas acho que, aos olhos do mestre, não era assim. Eu achava que me tornaria o discípulo principal, mas de repente ele me mandou para um lugar desses...",
         "es-ES": "[Buscador]\nYo también lo pensaba... pero supongo que a los ojos del maestro no era así. \nCreí que me convertiría en su discípulo principal, y de repente me envió a un lugar como este..."
     },
     "jN+FDA": {
         "en-US": "[Seeker]\nShamefully, I still haven't even grasped his intent and have been wasting my time here. What did Master want me to see and learn in this place?",
-        "pt-BR": "[Buscador]\nVergonhosamente, ainda nem consegui compreender a intenção dele e estou desperdiçando meu tempo assim. O que será que o mestre queria que eu visse e aprendesse aqui?",
+        "pt-BR": "[Discípulo]\nVergonhosamente, ainda nem consegui compreender a intenção dele e estou desperdiçando meu tempo assim. O que será que o mestre queria que eu visse e aprendesse aqui?",
         "es-ES": "[Buscador]\nMe avergüenza decir que ni siquiera he logrado comprender todavía esa intención y sigo perdiendo el tiempo aquí. \n¿Qué querría el maestro que viera y aprendiera en este lugar?"
     },
     "jd+FDA": {
         "en-US": "[Seeker]\nSo I have no choice but to do what I can. If later you need even the slightest help, please tell me. I will gladly help you. Then...",
-        "pt-BR": "[Buscador]\nEntão não tenho escolha a não ser fazer o que posso. Se mais tarde você precisar nem que seja de uma pequena ajuda, fale comigo. Terei prazer em ajudar. Então...",
+        "pt-BR": "[Discípulo]\nEntão não tenho escolha a não ser fazer o que posso. Se mais tarde você precisar nem que seja de uma pequena ajuda, fale comigo. Terei prazer em ajudar. Então...",
         "es-ES": "[Buscador]\nAsí que no me queda otra que hacer lo que puedo. \nSi más adelante necesita aunque sea una pequeña ayuda, dígamelo. \nSe la ofreceré con gusto. \nEntonces..."
     },
     "jt+FDA": {
         "en-US": "[Seeker]\nHup! Hup!!!",
-        "pt-BR": "[Buscador]\nHá! Há!!!",
+        "pt-BR": "[Discípulo]\nIá! Rá!!!",
         "es-ES": "[Buscador]\n¡Ha! ¡Ha!!!"
     },
     "j9+FDA": {
         "en-US": "Your movements look rigid.",
-        "pt-BR": "Seu movimento parece rígido.",
+        "pt-BR": "Seus movimentos são travados.",
         "es-ES": "Su movimiento parece rígido."
     },
     "kN+FDA": {
         "en-US": "[Seeker]\nWhat do you mean, they look rigid? Ah, do you mean my body has stiffened because I am putting too much spirit into it?",
-        "pt-BR": "[Buscador]\nO que quer dizer com parecer rígido? Ah, será que quer dizer que meu corpo está tenso demais porque estou cheio de ímpeto?",
+        "pt-BR": "[Discípulo]\nO que quer dizer com travados? Ah, será que quer dizer que meu corpo está tenso demais porque estou cheio de ímpeto?",
         "es-ES": "[Buscador]\n¿Qué quiere decir con que parece rígido? \nAh, ¿quiere decir que, al concentrarme tanto, mi cuerpo se ha tensado?"
     },
     "kd+FDA": {
         "en-US": "[Seeker]\nIt's embarrassing to say, but among hundreds of disciples, none could match me in flexibility... I alone could bend my legs, waist, and even the tips of my toes three full turns.",
-        "pt-BR": "[Buscador]\nÉ vergonhoso dizer isso, mas entre centenas de discípulos, ninguém podia me igualar em flexibilidade... Só eu conseguia dobrar três voltas as pernas, a cintura e até a ponta dos pés.",
+        "pt-BR": "[Discípulo]\nÉ vergonhoso dizer isso, mas entre centenas de discípulos, ninguém podia me igualar em flexibilidade... Só eu conseguia dobrar as pernas, a cintura e até a ponta dos pés.",
         "es-ES": "[Buscador]\nAunque me avergüence decirlo, entre cientos de discípulos nadie podía superarme en flexibilidad... \nSolo yo podía doblar tres vueltas las piernas, la cintura e incluso la punta de los dedos del pie."
     },
     "kt+FDA": {
         "en-US": "It looks like martial arts from a cold place.",
-        "pt-BR": "Parece uma arte marcial de lugar frio.",
+        "pt-BR": "Parece luta de estátua.",
         "es-ES": "Parece un arte marcial de un lugar frío."
     },
     "k9+FDA": {
         "en-US": "[Seeker]\nMartial arts from a cold place... what could that mean? Certainly I can't move properly here, but that's only natural in such extreme temperatures... huh...?",
-        "pt-BR": "[Buscador]\nArte marcial de lugar frio..., o que isso significa? De fato, aqui não consigo me mover direito, mas isso é natural numa temperatura extrema dessas... Ah...?",
+        "pt-BR": "[Discípulo]\nLuta de estátua... o que isso significa? De fato, aqui não consigo me mover direito, mas isso é natural numa temperatura extrema dessas... Hã...?",
         "es-ES": "[Buscador]\n¿Un arte marcial de un lugar frío...? \n¿Qué querrá decir eso? \nDesde luego, aquí no puedo moverme como es debido, pero en una temperatura tan extrema eso es natural... eh...?"
     },
     "lN+FDA": {
         "en-US": "[Seeker]\nCome to think of it, Master once said something similar. That I should entrust my body to the flow and become softer...",
-        "pt-BR": "[Buscador]\nAgora que penso nisso, o mestre já disse algo parecido. Que eu deveria confiar o corpo ao fluxo e me tornar mais maleável..",
+        "pt-BR": "[Discípulo]\nParando pra pensar nisso, o mestre já disse algo parecido. Que eu deveria confiar o corpo ao fluxo e me tornar mais maleável..",
         "es-ES": "[Buscador]\nAhora que lo pienso, el maestro dijo algo parecido una vez. \nQue debía dejarme llevar por la corriente y volverme más flexible..."
     },
     "ld+FDA": {
         "en-US": "[Seeker]\nCould that be related to why he sent me here? But what could it mean? Doesn't being soft mean being weak?",
-        "pt-BR": "[Buscador]\nSerá que isso tem relação com o motivo de ele ter me enviado para cá? Mas o que seria isso? Ser maleável não significa ser mais frágil?",
+        "pt-BR": "[Discípulo]\nSerá que isso tem relação com o motivo de ele ter me enviado para cá? Mas o que seria isso? Ser maleável não significa ser mais frágil?",
         "es-ES": "[Buscador]\n¿Podría estar relacionado con la razón por la que me envió aquí? \nPero ¿qué significa eso? \n¿No quiere decir que ser flexible es ser débil?"
     },
     "lt+FDA": {
@@ -596,28 +596,28 @@
     },
     "l9+FDA": {
         "en-US": "[Seeker]\nMolten metal is... that's right! It is soft enough to become anything, yet because of its scorching heat, no one can touch it!",
-        "pt-BR": "[Buscador]\nMetal derretido... isso mesmo! Ele é maleável o bastante para se tornar qualquer coisa, mas ninguém consegue tocá-lo por causa do calor ardente!",
+        "pt-BR": "[Discípulo]\nMetal derretido... isso mesmo! Ele é maleável o bastante para se tornar qualquer coisa, mas ninguém consegue tocá-lo por causa do calor ardente!",
         "es-ES": "[Buscador]\nEl metal fundido... \n¡Es cierto! \nPuede llegar a convertirse en cualquier cosa por lo flexible que es, pero nadie puede tocarlo por el calor abrasador que desprende."
     },
     "mN+FDA": {
         "en-US": "[Seeker]\nNow I understand! Master knew what I lacked and sent me here so I could learn it!",
-        "pt-BR": "[Buscador]\nAgora eu entendi! O mestre sabia o que me faltava e me mandou para cá para que eu aprendesse isso!",
+        "pt-BR": "[Discípulo]\nAgora eu entendi! O mestre sabia o que me faltava e me mandou para cá para que eu aprendesse isso!",
         "es-ES": "[Buscador]\n¡Ahora lo entiendo! \n¡El maestro sabía lo que me faltaba y me envió aquí para que lo aprendiera!"
     },
     "md+FDA": {
         "en-US": "[Seeker]\nLike the mirage in this desert! Like the scorpion in this desert! Melt everything! Harden everything!",
-        "pt-BR": "[Buscador]\nComo aquela miragem do deserto! Como aquele escorpião do deserto! Derretendo tudo! Solidificando tudo!",
+        "pt-BR": "[Discípulo]\nComo aquela miragem do deserto! Como aquele escorpião do deserto! Derretendo tudo! Solidificando tudo!",
         "es-ES": "[Buscador]\n¡Como ese espejismo del desierto! \n¡Como ese escorpión del desierto! \n¡Derritiéndolo todo! ¡Solidificándolo todo!"
     },
     "mt+FDA": {
         "en-US": "[Seeker]\nSteps as light as a mirage! Fists as blazing as this heat!",
-        "pt-BR": "[Buscador]\nOs passos, leves como uma miragem! Os punhos, ardentes como esse calor!",
+        "pt-BR": "[Discípulo]\nOs passos, leves como uma miragem! Os punhos, ardentes como esse calor!",
         "es-ES": "[Buscador]\n¡Los pasos, ligeros como un espejismo! \n¡Los puños, ardientes como ese calor!"
     },
     "m9+FDA": {
         "en-US": "[Seeker]\nHup! Hup! I'm burning up! Hup! Fire!!",
-        "pt-BR": "[Buscador]\nHá! Há! Estou pegando fogoo..! Há! Fogoo!",
-        "es-ES": "[Buscador]\n¡Ha~ ha~ me estoy encendiendo~ ha~ fueeego~♨"
+        "pt-BR": "[Discípulo]\nIiiá! Iiiiáá! Estou pegando fogoo..! Rá! Fogoo~!",
+        "es-ES": "[Buscador]\n¡Ha~ ha~ me estoy encendiendo~ ha~ fueeego~"
     },
     "nN+FDA": {
         "en-US": "Oh my, that's hot.",
@@ -626,47 +626,47 @@
     },
     "nd+FDA": {
         "en-US": "[Seeker]\nOh dear! Did the heat burn you? Feeling hot? Then move with me! The way to forget heat is with more heat!",
-        "pt-BR": "[Buscador]\nOra! Você se queimou com o calor? Está sentindo calor? Então mova-se comigo! O calor se esquece com mais calor!",
+        "pt-BR": "[Discípulo]\nHaha! Você se queimou com o calor? Está sentindo calor? Então mova-se comigo! O calor se elimina com mais calor!",
         "es-ES": "[Buscador]\n¡Vaya! \n¿Se ha quemado con el calor? \n¿Se siente sofocado? \nEntonces, ¡muévase conmigo! \n¡El calor se olvida con más calor!"
     },
     "nt+FDA": {
         "en-US": "[Seeker]\nNow, follow my movements! Let out the blazing heat in your chest! Fire!!! With all your passion!",
-        "pt-BR": "[Buscador]\nVenha, siga meus movimentos! Libere o calor ardente dentro do seu peito! Foogoo!!! Com toda a paixão!",
+        "pt-BR": "[Discípulo]\nVenha, siga meus movimentos! Libere o calor ardente dentro do seu peito! Foogoo!!! Com toda a paixão!",
         "es-ES": "[Buscador]\n¡Vamos, intente seguir mis movimientos! \n¡Expulse el ardor que lleva en el pecho! \n¡Fueeego!!! \n¡Con toda su pasión!"
     },
     "n9+FDA": {
         "en-US": "[Seeker]\nNow I understand! Extremes connect to extremes, and this place itself is training!",
-        "pt-BR": "[Buscador]\nAgora eu entendo! O extremo conduz ao extremo, e este lugar mostra que a própria vida é prática!",
+        "pt-BR": "[Discípulo]\nAgora eu entendo! O extremo conduz ao extremo, e este lugar mostra que a própria vida é prática!",
         "es-ES": "[Buscador]\n¡Ahora lo entiendo! \n¡Los extremos se comunican entre sí, y este lugar demuestra que la vida misma es disciplina!"
     },
     "oN+FDA": {
         "en-US": "[Seeker]\nThank you for giving me enlightenment. I have now realized everything, so I will train my Fist of Flame and become a disciple who will not shame Master!",
-        "pt-BR": "[Buscador]\nObrigado por me dar essa iluminação. Agora que compreendi tudo, vou treinar o Punho Pseudo para me tornar um discípulo de que o mestre não precise se envergonhar!",
+        "pt-BR": "[Discípulo]\nObrigado por me dar essa iluminação. Agora que compreendi tudo, vou treinar o Punho Dançante para me tornar um discípulo de que o mestre não precise se envergonhar!",
         "es-ES": "[Buscador]\nGracias por darme esta iluminación. \nAhora que lo he comprendido todo, entrenaré el Yusagwon para convertirme en un discípulo del que mi maestro no tenga que avergonzarse."
     },
     "od+FDA": {
         "en-US": "[Seeker]\nHup! Hup!! Fire!",
-        "pt-BR": "[Buscador]\nHá! Há!! Fogoo!!",
+        "pt-BR": "[Discípulo]\nIiiiá! Iá!! Fogoo~!!",
         "es-ES": "[Buscador]\n¡Ha ha! Fueeego!!"
     },
     "ot+FDA": {
         "en-US": "[Seeker]\nBy the way. I've been hearing a sound like it's echoing from inside a cave. This is it, right? Then go to <NAVI>[Einbech Mine]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. I keep thinking about that place.",
-        "pt-BR": "[Buscador]\nMas veja só. Desde agora há pouco, estou ouvindo um som como se ecoasse dentro de uma caverna. É isso, não é? Então vá para <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. Não paro de pensar naquele lugar.",
+        "pt-BR": "[Discípulo]\nMas veja só. Desde agora há pouco, estou ouvindo um som como se ecoasse dentro de uma caverna. É isso, não é? Então vá para a <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. Não paro de pensar naquele lugar.",
         "es-ES": "[Buscador]\nPor cierto, desde hace rato oigo un sonido como resonando dentro de una cueva. \nEs eso, ¿verdad? \nEntonces vaya a <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. \nNo dejo de pensar en ese lugar."
     },
     "o9+FDA": {
         "en-US": "[Seeker]\nI told you to go to <NAVI>[Einbech Mine]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, but do you still have business here?",
-        "pt-BR": "[Buscador]\nEu disse que você tinha que ir para <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, mas ainda tem algo para fazer aqui?",
+        "pt-BR": "[Discípulo]\nEu disse que você tinha que ir para <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, mas ainda tem algo para fazer aqui?",
         "es-ES": "[Buscador]\nLe dije que debía ir a <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, ¿todavía tiene algo que hacer aquí?"
     },
     "pN+FDA": {
         "en-US": "[Seeker]\nI think I can complete it with just a little more! Soon, I may become Master's favorite disciple, right?",
-        "pt-BR": "[Buscador]\nAcho que, se eu me esforçar só mais um pouco, vou conseguir completar! Logo poderei me tornar o discípulo favorito do mestre, não é?",
+        "pt-BR": "[Discípulo]\nAcho que, se eu me esforçar só mais um pouco, vou conseguir completar minha jornada! Logo poderei me tornar o discípulo favorito do mestre, não acha?",
         "es-ES": "[Buscador]\n¡Creo que con un poco más podré completarlo! \n¿Pronto podré convertirme en el discípulo favorito del maestro, verdad?"
     },
     "pd+FDA": {
         "en-US": "Miner",
-        "pt-BR": "Mineirador",
+        "pt-BR": "Minerador",
         "es-ES": "Minero"
     },
     "pt+FDA": {
@@ -696,17 +696,17 @@
     },
     "q9+FDA": {
         "en-US": "[Miner]\nPlease save me. No matter how much I work, I never get any faster!",
-        "pt-BR": "Minerador",
+        "pt-BR": "[Minerador]\nMe ajudem! Não importa o quanto eu me esforce, o trabalho nunca termina!",
         "es-ES": "[Minero]\nAyúdeme. \n¡Por más que trabajo, no avanzo nada!"
     },
     "rN+FDA": {
         "en-US": "[Miner]\nWhew, who am I even talking to.",
-        "pt-BR": "[Minerador]\nAi... com quem é que eu estou falando.",
+        "pt-BR": "[Minerador]\nEr... com quem é que eu estou falando?",
         "es-ES": "[Minero]\nUf, ¿con quién estoy hablando?"
     },
     "rd+FDA": {
         "en-US": "You work without rest.",
-        "pt-BR": "Você trabalha sem parar.",
+        "pt-BR": "Você trabalha demais!",
         "es-ES": "No para ni un momento de trabajar."
     },
     "rt+FDA": {
@@ -721,7 +721,7 @@
     },
     "sN+FDA": {
         "en-US": "[Miner]\nBut... you don't look like one of those. So what brings you all the way here?",
-        "pt-BR": "[Minerador]\nMas... não parece ser esse tipo de coisa. O que o traz até aqui?",
+        "pt-BR": "[Minerador]\nMas... não parece ser esse tipo de coisa. O que a traz até aqui?",
         "es-ES": "[Minero]\nAunque... no parece ser eso. \nEntonces, ¿qué le trae hasta aquí?"
     },
     "sd+FDA": {
@@ -741,7 +741,7 @@
     },
     "tN+FDA": {
         "en-US": "[Miner]\nYou have to do it to make a living, what choice is there.\n...Actually, work isn't bad, and I don't hate it. The problem is that it's exhausting.",
-        "pt-BR": "[Minerador]\nTem que fazer para sobreviver, fazer o quê.\n... Na verdade, o trabalho nem é ruim, nem é que eu odeie, o problema é que é puxado.",
+        "pt-BR": "[Minerador]\nTem que fazer para sobreviver, fazer o quê?\n... Na verdade, o trabalho nem é ruim, nem é que eu odeie, o problema é que é puxado.",
         "es-ES": "[Minero]\nPero hay que hacerlo para ganarse la vida, qué le vamos a hacer.\n...\nEn realidad, el trabajo no me parece malo ni me disgusta; el problema es lo duro que es."
     },
     "td+FDA": {
@@ -761,7 +761,7 @@
     },
     "uN+FDA": {
         "en-US": "Try bending and straightening your back like this.",
-        "pt-BR": "Tente dobrar e esticar as costas assim.",
+        "pt-BR": "Vou te ensinar um alongamento!",
         "es-ES": "Pruebe a doblar y enderezar la espalda así."
     },
     "ud+FDA": {
@@ -771,7 +771,7 @@
     },
     "ut+FDA": {
         "en-US": "[Miner]\nHuh? That's really strange. My back doesn't hurt at all, and I'm faster too. But this movement is almost like... like dancing, you know? That light shake and getting back up...!",
-        "pt-BR": "[Minerador]\nUé? Que curioso? Não dói nada nas costas e ainda é mais rápido. Mas esse movimento é como se... como se eu estivesse dançando, não é? Aquele negócio de sacudir e levantar de leve...!",
+        "pt-BR": "[Minerador]\nUé? Que curioso! Não dói nada nas costas e ainda é mais rápido. Mas esse movimento é como se... como se eu estivesse dançando, não é? Aquele negócio de sacudir e levantar de leve...!",
         "es-ES": "[Minero]\n¿Eh? \nQué curioso... \nNo me duele nada la espalda y encima voy más rápido. \nPero este movimiento es como si... como si estuviera bailando. \nYa sabe, eso de sacudirse y levantarse con ligereza...!"
     },
     "u9+FDA": {
@@ -781,7 +781,7 @@
     },
     "vN+FDA": {
         "en-US": "[Miner]\nDig and dig and dig some more♬ One shovel stroke and one pickaxe swing♪ On the second strike it's gold and silver. Gold and treasure come pouring out♩ Grab your basket and come on over.♬",
-        "pt-BR": "[Minerador]\nCava, cava e cava de novo♬ Uma passada de pá e uma de picareta♪ Com duas já sai ouro, sai prata. Tesouros jorram sem parar♩ Pegue o cesto e venha logo.♬",
+        "pt-BR": "[Minerador]\nCavar, cavaaar e cavaaaar de novoooo~~ Uma passada de pá e uma de picareta~ Com duas já sai ouro, sai prata. Tesouros jorram sem parar~ Pegue o cesto e venha logo... Lálálá~",
         "es-ES": "[Minero]\nCava y cava, vuelve a cavar♬ un palazo, un golpe de pico♪ dos veces y sale oro, sale plata.\n♩ ¡Tesoros a montones! Ven deprisa con el cesto.♬"
     },
     "vd+FDA": {
@@ -806,22 +806,22 @@
     },
     "wd+FDA": {
         "en-US": "[Miner]\nFrom the looks of it, you've already gotten everything there is to get? Then I suppose you should be off now, right? Alright. Travel safely.",
-        "pt-BR": "[Minerador]\nPelo que vejo, parece que você já conseguiu tudo o que tinha para conseguir, não é? Então já está na hora de ir, certo? É. Vá com cuidado.",
+        "pt-BR": "[Minerador]\nPelo que vejo, parece que você já conseguiu tudo o que tinha para conseguir, não é? Então já está na hora de ir, certo? Vá com cuidado.",
         "es-ES": "[Minero]\nPor lo que veo, ya ha conseguido todo lo que tenía que conseguir. \nEntonces es hora de irse, ¿no? \nSí, claro. \nVaya con cuidado."
     },
     "wt+FDA": {
         "en-US": "Obtained all Pieces of Emotion.",
-        "pt-BR": "Consegui todos as Peças de Emoção.",
+        "pt-BR": "Consegui todos os Fragmentos de Emoção.",
         "es-ES": "He obtenido todos los Fragmentos de Emoción."
     },
     "w9+FDA": {
         "en-US": "Now I should return to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
-        "pt-BR": "Agora preciso voltar para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "pt-BR": "Agora preciso voltar para a <NAVI>[Historiadora]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "es-ES": "Ahora debo volver junto al <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "xN+FDA": {
         "en-US": "Now I should go obtain the remaining Pieces of Inspiration.",
-        "pt-BR": "Agora preciso ir atrás das demais Peças de Inspiração.",
+        "pt-BR": "Agora preciso ir atrás dos Fragmentos de Inspiração.",
         "es-ES": "Ahora debo ir a conseguir los Fragmentos de Inspiración que faltan."
     },
     "xd+FDA": {
@@ -831,7 +831,7 @@
     },
     "xt+FDA": {
         "en-US": "[Miner]\nI've been spreading work songs to the miners I meet. Now you can hear singing all throughout this tunnel.",
-        "pt-BR": "[Minerador]\nEstou espalhando canções de trabalho entre os mineiros que encontro. Agora dá para ouvir cantoria por toda esta mina.",
+        "pt-BR": "[Minerador]\nEstou espalhando canções de trabalho entre os mineradores que encontro. Agora dá para ouvir cantoria por toda esta mina.",
         "es-ES": "[Minero]\nEstoy enseñando canciones de trabajo a los mineros con los que me cruzo. Ahora se oyen canciones por todas estas galerías."
     },
     "x9+FDA": {
@@ -846,7 +846,7 @@
     },
     "yd+FDA": {
         "en-US": "I should defeat ^0000CDWind monsters of Level 105 or higher^000000 to fill it with the energy of wind.",
-        "pt-BR": "Preciso derrotar ^0000CDmonstros de vento de nível 105 ou mais^000000 e encher com energia do vento.",
+        "pt-BR": "^0000CDDerrote monstros de propriedade Vento de nível 105 ou mais^000000 e encher o fragmento com energia do vento.",
         "es-ES": "Debo derrotar a ^0000CDmonstruos de Viento de Nivel 105 o Superior^000000 para llenarlo con la energía del Viento."
     },
     "yt+FDA": {
@@ -856,82 +856,82 @@
     },
     "y9+FDA": {
         "en-US": "I should defeat Wind element monsters of Level 105 or higher to fill it with the energy of wind.",
-        "pt-BR": "Preciso derrotar monstros de propriedade vento de nível 105 ou superior e preenchê-lo com energia do vento.",
+        "pt-BR": "Preciso derrotar monstros de Vento de nível 105 ou mais.",
         "es-ES": "Debo derrotar a monstruos de atributo Viento de Nivel 105 o Superior para llenarlo con la energía del Viento."
     },
     "zN+FDA": {
         "en-US": "Once filled with the energy of wind, the piece became a crystal. When I grasp the crystal in my hand, it feels as though a sound resounding through <NAVI>[Earth]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI> wraps around my body.",
-        "pt-BR": "Ao preencher a energia do vento, o fragmento se tornou um cristal. Ao segurar o cristal na mão, senti como se um som vindo da <NAVI>[terra]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI> envolvesse todo o meu corpo.",
+        "pt-BR": "Quando você preencheu o fragmento com a energia do vento, ele se tornou um cristal. Ao segurar o cristal na mão, você ouve um som vindo da <NAVI>[terra]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>",
         "es-ES": "Cuando el Fragmento se llenó con la energía del Viento, quedó Cristalización.\nAl sostener el cristal en la mano, siento que me envuelve un sonido que resuena desde <NAVI>[Tierra]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>."
     },
     "zd+FDA": {
         "en-US": "Follow the sound.",
-        "pt-BR": "Sigo o som.",
+        "pt-BR": "Seguir o som.",
         "es-ES": "Sigo el sonido."
     },
     "zt+FDA": {
         "en-US": "Drawn by an unknown power, head toward the place where the unfamiliar voice is.",
-        "pt-BR": "Atraído por uma força desconhecida, sigo em direção ao lugar de onde vem a voz desconhecida.",
+        "pt-BR": "Atraída por uma força desconhecida, você vai em direção ao lugar de onde vem a voz desconhecida.",
         "es-ES": "Guiado por una fuerza desconocida, me dirijo al lugar del que proviene una voz desconocida."
     },
     "z9+FDA": {
         "en-US": "Decide to remain here a little longer and look around for other things.",
-        "pt-BR": "Decido ficar mais um pouco aqui e observar outras coisas.",
+        "pt-BR": "Você decidiu ficar mais um pouco aqui e observar outras coisas.",
         "es-ES": "Decido quedarme un poco más aquí y examinar otras cosas."
     },
     "0N+FDA": {
         "en-US": "I should defeat ^0000CDEarth monsters of Level 130 or higher^000000 to fill it with the energy of earth.",
-        "pt-BR": "Preciso derrotar ^0000CDmonstros de terra de nível 130 ou mais^000000 e encher com energia da terra.",
+        "pt-BR": "^0000CDDerrote monstros de propriedade Terra de nível 130 ou mais^000000 e encher o fragmento com energia da terra.",
         "es-ES": "Debo derrotar a ^0000CDmonstruos de Tierra de Nivel 130 o Superior^000000 para llenarlo con la energía del fuego."
     },
     "0d+FDA": {
         "en-US": "I should defeat Earth monsters of Level 130 or higher to fill it with the energy of earth.",
-        "pt-BR": "Preciso derrotar monstros de terra de nível 130 ou superior e preenchê-lo com energia da terra.",
+        "pt-BR": "Preciso derrotar monstros de Terra de nível 130 ou mais.",
         "es-ES": "Debo derrotar a monstruos de atributo Tierra de Nivel 130 o Superior para llenarlo con la energía del fuego."
     },
     "0t+FDA": {
         "en-US": "Once filled with the energy of earth, the piece became crystal. When I grasp the crystal in my hand, it feels as though the voice of <NAVI>[Heaven]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI> wraps around my body.",
-        "pt-BR": "Ao preencher com energia da terra, o fragmento se tornou um cristal. Ao segurar o cristal em minha mão, senti como se uma voz <NAVI>[celestial]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI> envolvesse todo o meu corpo.",
+        "pt-BR": "Quando você preencheu o fragmento com energia da terra, ele se tornou um cristal. Ao segurar o cristal em minha mão, você ouve uma voz <NAVI>[celestial]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>",
         "es-ES": "Cuando el fragmento se llenó con la energía de la Tierra, quedó Cristalización. \nAl sostener el cristal en la mano, siento que me envuelve la voz de <NAVI>[Cielo]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>."
     },
     "09+FDA": {
         "en-US": "There is nothing more to do here. Follow the piece's energy and move to Thanatos Tower.",
-        "pt-BR": "Não há mais nada para fazer aqui. Vamos para Memória de Thanatos conforme a energia do fragmento nos guia.",
+        "pt-BR": "Não há mais nada para fazer aqui. Vamos para a Torre de Thanatos.",
         "es-ES": "Aquí ya no hay nada más que hacer. \nSiguiendo la energía del fragmento, me dirigiré a Torre de Thanatos."
     },
     "1N+FDA": {
         "en-US": "I should defeat ^0000CDAngel monsters of Level 180 or higher^000000 to fill it with the energy of angels.",
-        "pt-BR": "Preciso derrotar ^0000CDmonstros da raça anjo de nível 180 ou mais^000000 e encher com energia angelical.",
+        "pt-BR": "^0000CDDerrote monstros da raça Anjo de nível 180 ou mais^000000 e encher o fragmento com energia angelical.",
         "es-ES": "Debo derrotar a ^0000CDmonstruos Ángel de Nivel 180 o Superior^000000 para llenarlo con la energía angelical."
     },
     "1d+FDA": {
         "en-US": "I should defeat Angel monsters of Level 180 or higher to fill it with the energy of angels.",
-        "pt-BR": "Preciso derrotar monstros da raça anjo de nível 180 ou mais e encher com energia angelical.",
+        "pt-BR": "Preciso derrotar monstros da raça anjo de nível 180 ou mais.",
         "es-ES": "Debo derrotar a monstruos de tipo Ángel de Nivel 180 o Superior para llenarlo con la energía angelical."
     },
     "1t+FDA": {
         "en-US": "Once filled with the energy of angels, the piece became crystal.",
-        "pt-BR": "Ao encher com energia angelical, o fragmento se cristalizou.",
+        "pt-BR": "Quando você preencheu o fragmento com energia angelical, ele se cristalizou.",
         "es-ES": "Cuando el fragmento se llenó con la energía angelical, quedó Cristalización."
     },
     "19+FDA": {
         "en-US": "Let's hurry back to Kvasir Hall.",
-        "pt-BR": "Vamos voltar depressa para Kvasir.",
+        "pt-BR": "Vamos voltar depressa para a Fonte de Kvasir.",
         "es-ES": "Debo volver cuanto antes junto a Kvasir."
     },
     "2N+FDA": {
         "en-US": "I should go obtain the remaining Pieces of Emotion.",
-        "pt-BR": "Preciso ir atrás das demais Peças de Emoção.",
+        "pt-BR": "Preciso ir atrás dos Fragmentos de Emoção.",
         "es-ES": "Debo ir a conseguir los Fragmentos de Emoción que faltan."
     },
     "2d+FDA": {
         "en-US": "There is nothing more to do here. I should hurry back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
-        "pt-BR": "Não há mais nada para fazer aqui. Preciso voltar depressa para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "pt-BR": "Não há mais nada para fazer aqui. Preciso voltar depressa para a <NAVI>[Historiadora]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "es-ES": "Aquí ya no hay nada más que hacer. Debo volver cuanto antes junto al <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "2t+FDA": {
         "en-US": "There is nothing more to do here. I should go obtain the remaining Pieces of Emotion.",
-        "pt-BR": "Não há mais nada para fazer aqui. Preciso ir atrás das demais Peças de Emoção.",
+        "pt-BR": "Não há mais nada para fazer aqui. Preciso ir atrás dos Fragmentos de Emoção.",
         "es-ES": "Aquí ya no hay nada más que hacer. \nDebo ir a conseguir los Fragmentos de Emoción que faltan."
     }
 }

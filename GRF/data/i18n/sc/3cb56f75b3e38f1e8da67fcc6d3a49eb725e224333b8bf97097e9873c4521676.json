@@ -6,7 +6,7 @@
     },
     "gd1TDQ": {
         "en-US": "[Firewood's Urgent Request]\nWild animal capture request.\n^123456Requirements:^000000\nAn adventurer who handles animals\n<FONT SIZE = 14>well</FONT>\n^DD5555Base Lv. 200/Job Lv. 60^000000 or higher\n<FONT SIZE = 14>^DD5555<B>Summoner</B> class especially preferred^000000</FONT>",
-        "pt-BR": "[Pedido Urgente de Carvalho]\nPedido para capturar animais selvagens.\n^123456Condições:^000000\nViajante saiba lidar <FONT SIZE = 14>bem</FONT> com animais,\ncom ^DD5555Nv. Base 200/Nv. Classe 60^000000 ou superior\n<FONT SIZE = 14>^DD5555Classe <B>Invocador</B> tem preferência especial^000000</FONT>",
+        "pt-BR": "[Pedido do Carpinteiro]\nPedido para capturar animais selvagens.\n^123456Condições:^000000\nViajante que saiba lidar <FONT SIZE = 14>bem</FONT> com animais,\ncom ^DD5555Nv. Base 200 e Nv. Classe 60^000000 ou superior\n<FONT SIZE = 14>^DD5555Classe <B>Invocador</B> tem preferência especial^000000</FONT>",
         "es-ES": "[Encargo urgente de Robles]\nEncargo de captura de animal salvaje.\n^123456Condiciones:^000000\nTrotamundos que sepan tratar <FONT SIZE = 14>bien</FONT>\na los animales y tengan ^DD5555Nivel de base 200/Nivel de clase 60^000000 o superior\n<FONT SIZE = 14>^DD5555<B>Invocador</B> tendrán preferencia.^000000</FONT>"
     },
     "gt1TDQ": {
@@ -16,12 +16,12 @@
     },
     "g91TDQ": {
         "en-US": "[Firewood's Urgent Request]\n^123456Special Notes:^000000\nThose who still carry the scent of\ncarnivorous animals such as wolves or falcons\ncannot take this request.",
-        "pt-BR": "[Pedido Urgente do Carpinteiro Carvalho]\n^123456Observações:^000000\nQuem ainda estiver com cheiro de\nanimais carnívoros, como lobos ou falcões,\nnão poderá realizar o pedido.",
+        "pt-BR": "Pedido do Carpinteiro\n^123456Observações:^000000\nQuem ainda estiver com cheiro de\nanimais carnívoros, como lobos ou falcões,\nnão poderá realizar o pedido.",
         "es-ES": "[Encargo urgente de Robles]\n^123456Nota:^000000\nQuienes aún tengan olor a animales carnívoros,\ncomo lobos o halcones,\nno podrán realizar este encargo."
     },
     "hN1TDQ": {
         "en-US": "[Firewood's Urgent Request]\nFor other details, please ask ^123456Firewood^000000 at <NAVI>[Firewood Carpentry Shop]<INFO>payon,252,297,0,101,0</INFO></NAVI> in Payon directly.",
-        "pt-BR": "[Pedido Urgente do Carpinteiro Carvalho]\nPara obter mais detalhes, fale diretamente com ^123456Carvalho^000000 na <NAVI>[Carpintaria do Carvalho]<INFO>payon,252,297,0,101,0</INFO></NAVI> em Payon.",
+        "pt-BR": "Pedido do Carpinteiro\nPara obter mais detalhes, fale diretamente com ^123456Carvalho^000000 na <NAVI>[Carpintaria do Carvalho]<INFO>payon,252,297,0,101,0</INFO></NAVI>, em Payon.",
         "es-ES": "[Encargo urgente de Robles]\nPara más detalles, consulta directamente con ^123456Robles^000000 en la <NAVI>[Carpintería Robles]<INFO>payon,252,297,0,101,0</INFO></NAVI> de Payon."
     },
     "hd1TDQ": {
@@ -46,12 +46,12 @@
     },
     "id1TDQ": {
         "en-US": "Carpentry Shop Part-Timer",
-        "pt-BR": "Bico na Carpintaria",
+        "pt-BR": "Aprendiz de Carpinteiro",
         "es-ES": "Ayudante de carpintería"
     },
     "it1TDQ": {
         "en-US": "[Carpentry Shop Part-Timer]\nTomorrow, I should go cut wood near the pond.",
-        "pt-BR": "[Bico na Carpintaria]\nAmanhã vou tentar cortar madeira perto do lago.",
+        "pt-BR": "[Aprendiz de Carpinteiro]\nAmanhã vou tentar cortar madeira perto do lago.",
         "es-ES": "[Ayudante de carpintería]\nMañana tendré que ir a cortar leña cerca de la laguna."
     },
     "i91TDQ": {
@@ -71,7 +71,7 @@
     },
     "jt1TDQ": {
         "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 14>Welcome, dear customer~!</FONT>\nThis is Firewood Carpentry Shop~",
-        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 14>Boas-vindas, caro cliente~!</FONT>\nEsta é a Carpintaria de Carvalho~",
+        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 14>Boas-vindas, caro cliente~!</FONT>\nEsta é a Carpintaria Carvalho~",
         "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 14>¡Bienvenida a nuestra clientela!</FONT>\nEsta es la Carpintería Robles."
     },
     "j91TDQ": {
@@ -86,7 +86,7 @@
     },
     "kd1TDQ": {
         "en-US": "About the request",
-        "pt-BR": "Sobre o pedido",
+        "pt-BR": "Sobre o Quadro de Pedidos",
         "es-ES": "Sobre el encargo"
     },
     "kt1TDQ": {
@@ -111,7 +111,7 @@
     },
     "lt1TDQ": {
         "en-US": "Firewood's Request",
-        "pt-BR": "Pedido de Carvalho",
+        "pt-BR": "Um pedido de Carvalho",
         "es-ES": "El encargo de Robles"
     },
     "l91TDQ": {
@@ -206,7 +206,7 @@
     },
     "qd1TDQ": {
         "en-US": "[Carpenter Firewood]\nAah~~!!\nOh dear!!!\n<FONT SIZE = 16>That's right!!!!!</FONT>",
-        "pt-BR": "[Carpinteiro Carvalho]\nAaaah~~!!!\nAi, meu Deus!!!\n<FONT SIZE = 16>É mesmo!!!!!</FONT>",
+        "pt-BR": "[Carpinteiro Carvalho]\nAaaah~~!!!\nAi, céus!!!\n<FONT SIZE = 16>É mesmo!!!!!</FONT>",
         "es-ES": "[Carpintero Robles]\n¡¡Ah!!\n¡¡Ay, ay!!\n<FONT SIZE = 16>¡¡¡Es verdad!!!</FONT>"
     },
     "qt1TDQ": {
@@ -321,7 +321,7 @@
     },
     "wN1TDQ": {
         "en-US": "Good grief! What is all this on the ground?",
-        "pt-BR": "Meu Deus! O que é tudo isso no chão?",
+        "pt-BR": "Céus! O que é tudo isso no chão?",
         "es-ES": "¡Vaya! ¿Qué es todo esto en el suelo?"
     },
     "wd1TDQ": {
@@ -411,7 +411,7 @@
     },
     "0t1TDQ": {
         "en-US": "[Carpenter Firewood]\nHe was a nasty-tempered man, but he wasn't so bad as to deserve that. How did this...\nOh dear...",
-        "pt-BR": "[Carpinteiro Carvalho]\nEle era um sujeito de gênio ruim, mas não era uma pessoa tão má assim. Como foi que...\nAi, meu Deus...",
+        "pt-BR": "[Carpinteiro Carvalho]\nEle era um sujeito de gênio ruim, mas não era uma pessoa tão má assim. Como foi que...\nAi, céus...",
         "es-ES": "[Carpintero Robles]\nEra un hombre de mal carácter, pero tampoco era tan mala persona como para acabar así...\nAy, ay..."
     },
     "091TDQ": {
@@ -441,7 +441,7 @@
     },
     "2N1TDQ": {
         "en-US": "[Carpenter Firewood]\nWhat do you think, adventurer?\nDo you think you can find something out?",
-        "pt-BR": "[Carpinteiro Carvalho]\nE então, aventureiro.\nAcha que descobriu algo?",
+        "pt-BR": "[Carpinteiro Carvalho]\nE então, viajante.\nAcha que descobriu algo?",
         "es-ES": "[Carpintero Robles]\n¿Qué tal, aventurero?\n¿Crees haber descubierto algo?"
     },
     "2d1TDQ": {
@@ -466,12 +466,12 @@
     },
     "3d1TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 16>Oh dear!!</FONT>\n<FONT SIZE = 14>You mustn't eat that!</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 16>Meu Deus!!!</FONT>\n<FONT SIZE = 14>Isso não é de comer!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 16>Céus!!!</FONT>\n<FONT SIZE = 14>Isso não é de comer!</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 16>¡¡Caramba!!</FONT>\n<FONT SIZE = 14>¡Eso no se come!</FONT>"
     },
     "3t1TDQ": {
         "en-US": "Oh dear!!",
-        "pt-BR": "Meu Deus!!!",
+        "pt-BR": "Céus!!!",
         "es-ES": "¡¡Caramba!!"
     },
     "391TDQ": {
@@ -521,7 +521,7 @@
     },
     "6N1TDQ": {
         "en-US": "Give the strawberry.",
-        "pt-BR": "Dar morangos.",
+        "pt-BR": "Dar o morango.",
         "es-ES": "Darle una fresa."
     },
     "6d1TDQ": {
@@ -546,7 +546,7 @@
     },
     "7d1TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Hmm?</FONT>\n<FONT SIZE = 14>What are you saying you'll give me?</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Hã?</FONT>\n<FONT SIZE = 14>O que você vai me dar?</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Hã?</FONT>\n<FONT SIZE = 14>Vai me dar o quê, se não tem nada?</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿Eh?</FONT>\n<FONT SIZE = 14>¿Qué dices que vas a darme?</FONT>"
     },
     "7t1TDQ": {
@@ -906,7 +906,7 @@
     },
     "Nd5TDQ": {
         "en-US": "[Lord Ijotu]\n<FONT SIZE = 16>Oh my~~!</FONT>\n<FONT SIZE = 16>Master Gwang!!!</FONT>\nHow did you get here so quickly?!",
-        "pt-BR": "[Senhor Lee]\n<FONT SIZE = 16>Meu Deus~~!</FONT>\n<FONT SIZE = 16>Mestre Gwang!!!</FONT>\nComo chegou tão rápido?!",
+        "pt-BR": "[Senhor Lee]\n<FONT SIZE = 16>Céus~~!</FONT>\n<FONT SIZE = 16>Mestre Gwang!!!</FONT>\nComo chegou tão rápido?!",
         "es-ES": "[Lord Lee Jotu]\n<FONT SIZE = 16>¡Ay, ay!</FONT>\n<FONT SIZE = 16>¡¡Maestro Gwang!!</FONT>\n¡¿Cómo ha llegado tan rápido?!"
     },
     "Nt5TDQ": {
@@ -1011,7 +1011,7 @@
     },
     "St5TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>If Geunseok finds out that they not only dug up the forest to make something strange, but also fed our friends strange medicine, it will be a real disaster!!</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Se Geunseok descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Se Hyunrok descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Si Geunseok se entera de que, además de remover el bosque para construir algo raro, les han dado una medicina extraña a mis amigos, ¡esto sí que será un gran problema!</FONT>"
     },
     "S95TDQ": {
@@ -1041,7 +1041,7 @@
     },
     "UN5TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>If that fellow finds out that they not only dug up the forest to make something strange, but also fed our friends strange medicine, it will be a real disaster!!</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Se aquele sujeito descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Se Hyunrok descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!!</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Si ese tipo se entera de que, además de remover el bosque para construir algo raro, les han dado una medicina extraña a mis amigos, ¡esto sí que será un gran problema!</FONT>"
     },
     "Ud5TDQ": {
@@ -1071,17 +1071,17 @@
     },
     "Vt5TDQ": {
         "en-US": "^00B7EE※ This event takes place in a Memorial Dungeon.^000000\n^00B7EEThe Deep Forest can only be entered by a one-person party (party leader).^000000",
-        "pt-BR": "^00B7EE※ Este evento ocorre em modo instanciado.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
+        "pt-BR": "^00B7EE* Este evento ocorre em uma instância.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
         "es-ES": "^00B7EE※ Este evento se desarrolla como memorial.^000000\n^00B7EEEl Bosque profundo solo puede realizarse en un grupo de 1 persona (líder del grupo).^000000"
     },
     "V95TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Oh dear!</FONT>\n<FONT SIZE = 14>What is this ominous mood?</FONT>\n<FONT SIZE = 14>As expected, Hyunrok seems to have noticed!</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Ai, ai!</FONT>\n<FONT SIZE = 14>Que atmosfera sinistra é esta!</FONT>\n<FONT SIZE = 14>Parece que Hyunrok percebeu mesmo!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Ai, ai!</FONT>\n<FONT SIZE = 14>Que atmosfera sinistra é esta?</FONT>\n<FONT SIZE = 14>Parece que Hyunrok percebeu mesmo!</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Ay!</FONT>\n<FONT SIZE = 14>¡Qué ambiente tan siniestro!</FONT>\n<FONT SIZE = 14>¡Parece que Hyunrok se ha dado cuenta!</FONT>"
     },
     "WN5TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>At this rate, isn't something truly terrible going to happen?</FONT>\n<FONT SIZE = 14>Let's go in quickly and try to stop Hyunrok.</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Desse jeito, algo realmente terrível pode acontecer!</FONT>\n<FONT SIZE = 14>Vamos entrar logo e tentar deter Hyunrok.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Desse jeito, algo realmente terrível pode acontecer!</FONT>\n<FONT SIZE = 14>Vamos entrar logo e tentar encontrar Hyunrok.</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡A este paso sí que va a pasar algo terrible!</FONT>\n<FONT SIZE = 14>Entremos rápido e intentemos detener a Hyunrok.</FONT>"
     },
     "Wd5TDQ": {
@@ -1121,12 +1121,12 @@
     },
     "YN5TDQ": {
         "en-US": "- The ripple looks unstable.\nPlease try again in a moment. -\n^00B7EE※ This event takes place in a Memorial Dungeon.^000000\n^00B7EEThe Deep Forest can only be entered by a one-person party (party leader).^000000",
-        "pt-BR": "- A ondulação parece instável.\nTente novamente em instantes. -\n^00B7EE※ Este evento ocorre em modo instanciado.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
+        "pt-BR": "- A ondulação parece instável.\nTente novamente em instantes. -\n^00B7EE* Este evento ocorre em uma instância.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
         "es-ES": "- La ondulación parece inestable.\nInténtalo de nuevo dentro de un momento. -\n^00B7EE※ Este evento se desarrolla como memorial.^000000\n^00B7EEEl Bosque profundo solo puede realizarse en un grupo de 1 persona (líder del grupo).^000000"
     },
     "Yd5TDQ": {
         "en-US": "{1} of the party {0} is entering {2}.",
-        "pt-BR": "{1} do grupo {0} entra em {2}",
+        "pt-BR": "{1} do grupo {0} entrou na Floresta Profunda.",
         "es-ES": "{1}, del grupo {0}, entra en {2}"
     },
     "Yt5TDQ": {
@@ -1156,7 +1156,7 @@
     },
     "Z95TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Before reading the letter, go take care of all your ^DD5555skill points^000000.</FONT>\n<FONT SIZE = 14>I don't know why either!</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Antes de ler a carta, vá resolver todos os seus ^DD5555pontos de habilidade^000000.</FONT>\n<FONT SIZE = 14>Eu também não sei por quê!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Antes de ler a carta, vá gastar todos os seus ^DD5555pontos de habilidade^000000.</FONT>\n<FONT SIZE = 14>Eu também não sei por quê!</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Antes de leer la carta, ve a gastar todos tus ^DD5555puntos de habilidad^000000.</FONT>\n<FONT SIZE = 14>¡Yo tampoco sé por qué!</FONT>"
     },
     "aN5TDQ": {
@@ -1171,7 +1171,7 @@
     },
     "at5TDQ": {
         "en-US": "[Hyunrok's Letter]\nThey say even brushing sleeves is fate...\nSurely your entering this forest, and our meeting one another, were all bonds ordained by the heavens.",
-        "pt-BR": "[Carta de Hyunrok]\nDizem que até um simples roçar de mangas cria um vínculo...\nO fato de você ter entrado nesta floresta e de termos nos encontrado certamente também foi um vínculo determinado pelos céus.",
+        "pt-BR": "[Carta de Hyunrok]\nDizem que até um simples olhar cria um vínculo...\nO fato de você ter entrado nesta floresta e de termos nos encontrado certamente também foi um vínculo determinado pelos céus.",
         "es-ES": "[Carta de Hyunrok]\nDicen que incluso el más leve roce de mangas es fruto del destino...\nQue hayas entrado en este bosque y que nos hayamos conocido debe de ser también un vínculo dispuesto por los cielos."
     },
     "a95TDQ": {
@@ -1226,7 +1226,7 @@
     },
     "dd5TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I'd like to give it to you, but the letter Hyunrok gave me disappears if it gets too far from the forest.</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Eu gostaria de dar a você, mas a carta que Hyunrok deu desaparece quando se afasta da floresta.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Eu gostaria de dar a você, mas a carta que Hyunrok deu desaparece quando se afasta da floresta profunda.</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Me gustaría dártela, pero la carta que entregó Hyunrok desaparece al alejarse del bosque.</FONT>"
     },
     "dt5TDQ": {
@@ -1236,7 +1236,7 @@
     },
     "d95TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>There are so many fun things outside the forest!</FONT>\n<FONT SIZE = 14>Of course, the forest is fun too!</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Há muitas coisas realmente divertidas fora da floresta!</FONT>\n<FONT SIZE = 14>Claro, a floresta também é divertida!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Há muitas coisas realmente divertidas fora da floresta profunda!</FONT>\n<FONT SIZE = 14>Claro, a floresta também é divertida!</FONT>",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Fuera del bosque hay un montón de cosas divertidas!</FONT>\n<FONT SIZE = 14>¡Por supuesto, el bosque también es divertido!</FONT>"
     },
     "eN5TDQ": {
@@ -1246,7 +1246,7 @@
     },
     "ed5TDQ": {
         "en-US": "{1} of the party {0} is entering {2}.",
-        "pt-BR": "{1} do grupo {0} entra em {2}",
+        "pt-BR": "{1} do grupo {0} entrou na Floresta Profunda.",
         "es-ES": "{1}, del grupo {0}, entra en {2}"
     }
 }

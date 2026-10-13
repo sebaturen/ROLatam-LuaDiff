@@ -51,7 +51,7 @@
     },
     "CtRlDA": {
         "en-US": "<Causality Manager>",
-        "pt-BR": "<Administrador da Lei de Causa e Efeito>",
+        "pt-BR": "<Dragão-do-Tempo>",
         "es-ES": "<Administrador de la Ley de Causa y Efecto>"
     },
     "C9RlDA": {
@@ -101,7 +101,7 @@
     },
     "FNRlDA": {
         "en-US": "Oscar, why are you here?",
-        "pt-BR": "Por que o Oscar está aqui?",
+        "pt-BR": "Por que você está aqui?",
         "es-ES": "¿Qué haces tú aquí, Oscar?"
     },
     "FdRlDA": {
@@ -121,7 +121,7 @@
     },
     "GNRlDA": {
         "en-US": "No, I was just passing by...",
-        "pt-BR": "Não, só estava passando por aqui...",
+        "pt-BR": "Não, só estava passando...",
         "es-ES": "No, solo pasaba por aquí..."
     },
     "GdRlDA": {
@@ -151,7 +151,7 @@
     },
     "HtRlDA": {
         "en-US": "Wait, let me think...",
-        "pt-BR": "Não, espera aí! Dá um tempo, vou pensar um pouco.",
+        "pt-BR": "Dá um tempo, vou pensar um pouco.",
         "es-ES": "¡No, espera un momento! Dame un momento para pensarlo."
     },
     "H9RlDA": {
@@ -171,7 +171,7 @@
     },
     "ItRlDA": {
         "en-US": "Challenge ^0000FF{0}^000000",
-        "pt-BR": "Desafio ^0000FF{0}^000000",
+        "pt-BR": "Criar ^0000FF{0}^000000",
         "es-ES": "Desafío ^0000FF{0}^000000"
     },
     "I9RlDA": {
@@ -196,7 +196,7 @@
     },
     "J9RlDA": {
         "en-US": "^0000FFIt appears the dungeon has not been generated, or you are attempting to enter a different dungeon than the party leader.^000000",
-        "pt-BR": "^0000FFParece que a masmorra não foi criada ou você está tentando entrar em uma masmorra diferente da do líder do grupo^000000",
+        "pt-BR": "^0000FFParece que a instância não foi criada ou você está tentando entrar em uma instância diferente da do líder do grupo^000000",
         "es-ES": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra diferente a la del líder del grupo^000000"
     },
     "KNRlDA": {
@@ -206,12 +206,12 @@
     },
     "KdRlDA": {
         "en-US": "{0} has joined {1}.",
-        "pt-BR": "{0}, aceitou o desafio {1}.",
+        "pt-BR": "{0} realizará {1}.",
         "es-ES": "{0}, miembro del grupo, entra en {1}."
     },
     "KtRlDA": {
         "en-US": "^0000FFYou cannot generate a dungeon unless you are the party leader.^000000",
-        "pt-BR": "^0000FFApenas o líder do grupo poderá criar a masmorra.^000000",
+        "pt-BR": "^0000FFApenas o líder do grupo poderá criar a instância.^000000",
         "es-ES": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
     },
     "K9RlDA": {
@@ -226,7 +226,7 @@
     },
     "LdRlDA": {
         "en-US": "<Red Dragon Queen>",
-        "pt-BR": "<Rainha do Dragão de Fogo>",
+        "pt-BR": "<Constelação de Fogo>",
         "es-ES": "<Reina Dragón de Fuego>"
     },
     "LtRlDA": {
@@ -236,12 +236,12 @@
     },
     "L9RlDA": {
         "en-US": "[Letizia]\nIt's been a while since I've met such an entertaining creature.",
-        "pt-BR": "[Letícia]\nJá faz um bom tempo que uma criatura não me divertia.",
+        "pt-BR": "[Letícia]\nJá faz um bom tempo que uma criatura como você não me divertia.",
         "es-ES": "[Leticia]\nHacía tiempo que un ser vivo no me hacía tan feliz."
     },
     "MNRlDA": {
         "en-US": "[Letizia]\nTo become our companion, you must gain support from at least two Dragon Signs and you did. Now, the final decision is up to you.",
-        "pt-BR": "[Letícia]\nPara se tornar nosso companheiro, é preciso obter a aprovação de pelo menos dois membros da constelação dos dragões. Você passou nesse teste e agora só falta a sua decisão.",
+        "pt-BR": "[Letícia]\nPara se tornar um de nós, é preciso obter a aprovação de pelo menos dois membros da constelação dos dragões. Você passou nesse teste e agora só falta a sua decisão.",
         "es-ES": "[Leticia]\nPara convertirte en nuestro compañero, debes obtener el consentimiento de al menos dos de las constelaciones de los dragones; has superado esa prueba y ahora solo queda tu voluntad."
     },
     "MdRlDA": {
@@ -251,7 +251,7 @@
     },
     "MtRlDA": {
         "en-US": "Hold on, let me reconsider.",
-        "pt-BR": "Espere um pouco, vou pensar melhor.",
+        "pt-BR": "Vou pensar melhor.",
         "es-ES": "Un momento, lo voy a pensar mejor."
     },
     "M9RlDA": {
@@ -271,7 +271,7 @@
     },
     "NtRlDA": {
         "en-US": "[Letizia]\nBefore we proceed, you'd better go put away that insignificant mount of yours somewhere to avoid having its energy get mixed with yours.",
-        "pt-BR": "[Letícia]\nAntes disso, para o despertar do seu corpo puro, vá deixar essa vida insignificante, a que chama de montaria, em algum lugar e retorne.",
+        "pt-BR": "[Letícia]\nAntes disso, para o despertar do seu corpo puro, vá deixar essa montaria em algum lugar e retorne.",
         "es-ES": "[Leticia]\nAntes de eso, para que tu cuerpo puro despierte, deja en algún lado esa vida insignificante en la que estás montado y vuelve."
     },
     "N9RlDA": {

@@ -11,7 +11,7 @@
     },
     "grlfDA": {
         "en-US": "[Yellow-haired Fairy]\nWhat's the matter? Why did you scream all of a sudden?",
-        "pt-BR": "[Fada de Cabelo Amarelo]\nO que tá acontecendo? De repente você grita assim...",
+        "pt-BR": "[Fada de Cabelo Amarelo]\nO que tá acontecendo? Por que gritou...?",
         "es-ES": "[Hada de Pelo Azul]\n¿Qué pasa? De repente gritas..."
     },
     "g7lfDA": {
@@ -66,7 +66,7 @@
     },
     "jblfDA": {
         "en-US": "[Blue-haired Fairy]\nAt this rate, I'll have to just wait for <FONT SIZE = 10>years, or even centuries,</FONT> without knowing when Egnoloria wakes up...",
-        "pt-BR": "[Fada de Cabelo Azul]\nSe continuar desse jeito, não sei quantos serão os anos<FONT SIZE = 10> ou décadas ou até centenas de anos</FONT> até Egnoloria acordar...",
+        "pt-BR": "[Fada de Cabelo Azul]\nSe continuar desse jeito, não sei quantos serão os anos - ou décadas ou até centenas de anos - até Egnoloria acordar...",
         "es-ES": "[Hada de Pelo Azul]\nA este paso, <FONT SIZE = 10>no sé si serán unos años, unas décadas o unos siglos... </FONT>Tendré que pasar un tiempo indefinido limpiándome las alas mientras espero a que Egnoloria despierte..."
     },
     "jrlfDA": {
@@ -91,12 +91,12 @@
     },
     "krlfDA": {
         "en-US": "- The fairies stopped talking and touched the <B>^00B7EEstrange-looking plant^000000</B> next to them, disappearing into thin air. -",
-        "pt-BR": "- As fadas que estavam conversando tocaram na <B>^00B7EEerva misteriosa^000000</B> ao lado delas e desapareceram num piscar de olhos. -",
+        "pt-BR": "- As fadas que estavam conversando tocaram na <B>^00B7EEPlanta Misteriosa^000000</B> ao lado delas e desapareceram num piscar de olhos. -",
         "es-ES": "- Las hadas que estaban conversando acariciaron la <B>^00B7EEPlanta Misteriosa^000000</B> que tenían al lado y desaparecieron en un instante. -"
     },
     "k7lfDA": {
         "en-US": "-  I feel like I must go and receive some kind of message.\nI feel like I can get help if I go to <NAVI>[Prontera Town Office]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>. -",
-        "pt-BR": "-  Tenho uma sensação estranha de há algum tipo de mensagem para mim.\nSinto que posso receber orientação se for ao <NAVI>[Cartório de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>. -",
+        "pt-BR": "- Tenho a sensação de que há algum tipo de mensagem para mim.\nSinto que posso receber orientação se for ao <NAVI>[Cartório de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>. -",
         "es-ES": "-  Siento una energía que me dice que tengo que ir a hacer algo de tradición.\n<NAVI>[Oficina de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI> Me da la sensación de que allí me podrán ayudar. -"
     },
     "lLlfDA": {
@@ -136,12 +136,12 @@
     },
     "m7lfDA": {
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>Heek!</B></FONT>\nWah!\nWho are you?",
-        "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!</B></FONT>\nQue susto!\nQuem é você!",
+        "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!</B></FONT>\nQue susto!\nQuem é você?!",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>¡Ay!</B></FONT>\n¡Qué susto!\n¡¿Quién eres?!"
     },
     "nLlfDA": {
         "en-US": "Yoop: Waaaggghhkk!",
-        "pt-BR": "Yoop: Aaaaiiieee!!!!!!!",
+        "pt-BR": "Yoop: Argh!!!!!!!",
         "es-ES": "Yoop: ¡Ay!!!!!!!"
     },
     "nblfDA": {
@@ -161,7 +161,7 @@
     },
     "oLlfDA": {
         "en-US": "Yoop : You're really...",
-        "pt-BR": "Yoop: Você é mesmo...",
+        "pt-BR": "Yoop: Eu lembro de você...",
         "es-ES": "Yoop: Tú eres realmente..."
     },
     "oblfDA": {
@@ -181,12 +181,12 @@
     },
     "pLlfDA": {
         "en-US": "Yoop: Do you know how fairy dust is created?",
-        "pt-BR": "Yoop: Você sabe como o pó de fada é criado?",
+        "pt-BR": "Yoop: Eu levei uma surra!",
         "es-ES": "Yoop: ¿Sabes cómo se hace el polvo de hadas...?"
     },
     "pblfDA": {
         "en-US": "[Yoop]\nI'm too busy to play with you...<FONT SIZE = 16><B>Hookyack!!</B></FONT>",
-        "pt-BR": "[Yoop]\nEu também estou ocupado, não tenho tempo pra brincar com você...\n<FONT SIZE = 16><B>Huuriááá!!</B></FONT>",
+        "pt-BR": "[Yoop]\nEu estou sem tempo pra brincar com você...\n<FONT SIZE = 16><B>Huuriááá!!</B></FONT>",
         "es-ES": "[Yoop]\nYo también estoy muy ocupado y no tengo tiempo para jugar contigo...<FONT SIZE = 16><B>¡Fui-k-yak!!</B></FONT>"
     },
     "prlfDA": {
@@ -206,7 +206,7 @@
     },
     "qblfDA": {
         "en-US": "[Maggie]\n{0}, have you seen...\nYoop?",
-        "pt-BR": "[Maggie]\nAh, {0}, por acaso...\nVocê não viu a Yoop?",
+        "pt-BR": "[Maggie]\nAh, {0}, por acaso...\nVocê não viu Yoop?",
         "es-ES": "[Magi]\n{0}, ¿por casualidad...\nno has visto a Yoop?"
     },
     "qrlfDA": {
@@ -216,7 +216,7 @@
     },
     "q7lfDA": {
         "en-US": "She just left.",
-        "pt-BR": "Responde que ela desapareceu há pouco.",
+        "pt-BR": "Yoop sumiu ainda agora.",
         "es-ES": "Responde que acaba de desaparecer."
     },
     "rLlfDA": {
@@ -226,12 +226,12 @@
     },
     "rblfDA": {
         "en-US": "[Maggie]\nHmm...\nWhat should I do?\nShe'll be back soon, right?\nMaybe I should wait for her...",
-        "pt-BR": "[Maggie]\nHum...\nO que eu faço?\nEla deve voltar logo, né?\nVou esperar um pouquinho...",
+        "pt-BR": "[Maggie]\nHum...\nO que eu faço?\nYoop deve voltar logo, né?\nVou esperar um pouquinho...",
         "es-ES": "[Magi]\nMmm...\n¿Qué hago?\nSeguro que vuelve pronto, ¿no?\n¿Espero un rato...?"
     },
     "rrlfDA": {
         "en-US": "[Maggie]\nDidn't she say where she was going?\nShe said hookyaaakkk. Is she having a problem...?",
-        "pt-BR": "[Maggie]\nEla não disse para onde ia?\nEla disse “Huuriáá”.... Será que ela está com problemas...?",
+        "pt-BR": "[Maggie]\nYoop não disse para onde ia?\nYoop disse “Huuriáá”.... Será que está com problemas...?",
         "es-ES": "[Magi]\n¿No dijiste adónde ibas?\nSi dijiste «fukiyaku», ¿será que pasó algo...?"
     },
     "r7lfDA": {
@@ -261,22 +261,22 @@
     },
     "tLlfDA": {
         "en-US": "[Maggie]\nI came here to become an Arch Mage,\nbut I couldn't meet Egnoloria because she had to get ready for her Deep Sleep.",
-        "pt-BR": "[Maggie]\nEu vim aqui porque quero me tornar um Magus...\nMas parece que Egnoloria está se preparando para um sono profundo e por isso não pude encontrá-la...",
+        "pt-BR": "[Maggie]\nEu vim aqui porque quero me juntar aos Magus...\nMas parece que Egnoloria está se preparando para um sono profundo e por isso não pude encontrá-la...",
         "es-ES": "[Magi]\nYo también vine porque quiero ser un Archimago...\nPero me dijeron que ahora Egnoloria se está preparando para su sueño profundo y no puedo encontrarla..."
     },
     "tblfDA": {
         "en-US": "[Maggie]\nInstead, Yoop told me what trials would earn Egnoloria's recognition!",
-        "pt-BR": "[Maggie]\nDaí, a Yoop estava me contando sobre essas provações que me dariam o reconhecimento da Egnoloria!",
+        "pt-BR": "[Maggie]\nDaí, Yoop estava me contando sobre esses testes que me dariam o reconhecimento da Egnoloria!",
         "es-ES": "[Magi]\n¡Pero Yoop me ha dicho cuál es la prueba para que Egnoloria te reconozca!"
     },
     "trlfDA": {
         "en-US": "[Maggie]\nI wanted to hear more details, but she's not here.\nOh well, I guess I'll collect the materials while waiting for him, then.",
-        "pt-BR": "[Maggie]\nQueria saber mais detalhes, mas ela não está mais aqui.\nBem, acho que vou juntando os materiais até a Yoop voltar.",
+        "pt-BR": "[Maggie]\nQueria saber mais detalhes, mas Yoop não está mais aqui.\nBem, acho que vou juntando os materiais até Yoop voltar.",
         "es-ES": "[Magi]\nQuería saber más detalles, pero no está aquí.\nNo hay más remedio, así que tendré que ir juntando materiales hasta que Yoop regrese."
     },
     "t7lfDA": {
         "en-US": "Maggie: It's a test to pass the trial.",
-        "pt-BR": "Maggie: É um teste para passar pela provação.",
+        "pt-BR": "Maggie: É um teste para mudar de classe!",
         "es-ES": "Magi: Es una prueba para superar la prueba."
     },
     "uLlfDA": {
@@ -286,12 +286,12 @@
     },
     "ublfDA": {
         "en-US": "[Maggie]\nInstead of just waiting here...\n{0}, how'd you like to collect the ^00B7EEchallenge materials^000000 with me?",
-        "pt-BR": "[Maggie]\nEm vez de ficar aqui esperando...\n{0}, você não quer vir comigo coletar ^00B7EEos materiais da provação^000000?",
+        "pt-BR": "[Maggie]\nEm vez de ficar aqui esperando...\n{0}, você não quer vir comigo coletar ^00B7EEos materiais do teste^000000?",
         "es-ES": "[Magi]\nEn lugar de quedarme aquí esperando...\n¿No te gustaría que {0} también vinieras a juntar ^00B7EElos materiales para la prueba^000000?"
     },
     "urlfDA": {
         "en-US": "<FONT SIZE = 10>I'm a bit scared to go there alone...</FONT>",
-        "pt-BR": "É um lugar meio assustador pra ir sozinho...",
+        "pt-BR": "É um lugar meio assustador pra ir sozinha...",
         "es-ES": "<FONT SIZE = 10>Es un lugar que da un poco de miedo ir solo...</FONT>"
     },
     "u7lfDA": {
@@ -301,42 +301,42 @@
     },
     "vLlfDA": {
         "en-US": "[Maggie]\nIt was the <B>^00B7EEBurning Heart^000000</B> you could get by catching ^00B7EESalamanders^000000 on the <FONT SIZE = 14>^00B7EEthird floor of Thor Volcano^000000</FONT>.",
-        "pt-BR": "[Maggie]\n<FONT SIZE = 14>^00B7EE3º andar do Vulcão Thor^000000</FONT>, onde dá pra pegar o <B>^00B7EECoração Incandescente^000000</B> derrotando a ^00B7EESalamandra^000000.",
+        "pt-BR": "[Maggie]\n<FONT SIZE = 14>^00B7EE3º andar do Vulcão de Thor^000000</FONT>, onde dá pra pegar o <B>^00B7EECoração Incandescente^000000</B> derrotando ^00B7EESalamandras^000000.",
         "es-ES": "[Magi]\n<FONT SIZE = 14>^00B7EE3.º piso del volcán Thor^000000</FONT> donde puedes cazar una ^00B7EEsalamandra^000000 para conseguir el <B>^00B7EEcorazón ardiente^000000</B>."
     },
     "vblfDA": {
         "en-US": "[Maggie]\nYoop said we have to hunt ^00B7EE10^000000 ^00B7EEmonsters in that area^000000 too to make the <B>fire energy</B> stronger.",
-        "pt-BR": "[Maggie]\nSegundo o Yoop, também é preciso caçar uns ^00B7EE10 monstros^000000 daquela área para fortalecer a <B>Energia do Fogo</B>.",
+        "pt-BR": "[Maggie]\nSegundo Yoop, também é preciso caçar uns ^4D4DFF10 monstros^000000 daquela área para fortalecer a <B>Energia do Fogo</B>.",
         "es-ES": "[Magi]\nSegún Yoop, también hay que cazar como ^00B7EE10^000000 de ^00B7EElos monstruos de esa zona^000000 para hacer que el <B>poder del fuego</B> sea más fuerte."
     },
     "vrlfDA": {
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>Eeek!!!!</B></FONT>\nWhat the hell are you doing following me all the way here!!!",
-        "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!!!!</B></FONT>\nVocê me seguiu até aqui? Que brincadeira é essa!!!",
+        "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!!!!</B></FONT>\nVocê me seguiu até aqui? Que brincadeira é essa?!",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>¡Ay, no!!!!</B></FONT>\n¿Qué haces siguiéndome hasta aquí?"
     },
     "v7lfDA": {
         "en-US": "Yoop: Why did you come here!!!!",
-        "pt-BR": "Yoop: Por que você veio!!!!",
+        "pt-BR": "Yoop: Por que você veio?!",
         "es-ES": "Yoop: ¡¿Por qué viniste?!"
     },
     "wLlfDA": {
         "en-US": "[Shez]\nErr?\nWho's this human,\nYoop?",
-        "pt-BR": "[Shez]\nOpa~\nQuem é esse humano?\nYoop?",
+        "pt-BR": "[Shaz]\nOpa~\nQuem é esse humano?\nYoop?",
         "es-ES": "[Shez]\nEh~a~\n¿Quién es este tipo?\nYoop."
     },
     "wblfDA": {
         "en-US": "Shez: You still haven't learned your lesson, have you?",
-        "pt-BR": "Shez: Parece q você não aprende, né?",
+        "pt-BR": "Shaz: Parece que você não aprende, né?",
         "es-ES": "Shez: Después de que te regañaran así la última vez y..."
     },
     "wrlfDA": {
         "en-US": "[Shez]\nJudging by their clothes, they don't look like they want to be Warlocks.",
-        "pt-BR": "[Shez]\nPelo aparência, não parece alguém querendo se tornar Arcano...",
+        "pt-BR": "[Shaz]\nPela aparência, não parece alguém querendo se tornar Magus...",
         "es-ES": "[Shez]\nPor su atuendo, no parece que sea alguien que quiera convertirse en brujo..."
     },
     "w7lfDA": {
         "en-US": "[Yoop]\nIt's no big deal.\nI'll send them back soon, so don't worry...",
-        "pt-BR": "[Yoop]\nNão é nada demais.\nVou mandá-lo embora logo, então não se preocupe......",
+        "pt-BR": "[Yoop]\nNão é nada demais.\nVou mandá-lo embora logo, então não se preocupe...",
         "es-ES": "[Yoop]\nNo es nada.\nTe voy a mandar de vuelta enseguida, así que no te preocupes......"
     },
     "xLlfDA": {
@@ -346,82 +346,82 @@
     },
     "xblfDA": {
         "en-US": "Explain the situation.",
-        "pt-BR": "Você explica a situação.",
+        "pt-BR": "Explicar a situação.",
         "es-ES": "Te explico la situación."
     },
     "xrlfDA": {
         "en-US": "[Shez]\nPfff...\n<FONT SIZE = 14><B>Pwahahahahahahahahahahahahahaha!!!!!",
-        "pt-BR": "[Shez]\nPuu...\n<FONT SIZE = 14><B>Puhahahahahahahahaha!!!!!!!!!!!!!!</B></FONT>",
+        "pt-BR": "[Shaz]\nHmm...\n<FONT SIZE = 14><B>Huhahahahahahahahaha!!!!!!!!!!!!!!</B></FONT>",
         "es-ES": "[Shez]\nJaja...\n<FONT SIZE = 14><B>¡Jajajajajajajaja!!!!!!!!!!!!!!</B></FONT>"
     },
     "x7lfDA": {
         "en-US": "Shez: Pwah hah hah hah hah hah hah hah hah hah hah hah hah hah",
-        "pt-BR": "Shez: Puhahahahahahahahaha!!!!!!!!!!!!!!",
+        "pt-BR": "Shaz: Huhahahahahahahahaha!!!!!!!!!!!!!!",
         "es-ES": "Shez: ¡Jajajajajajajajaja!!!!!!!!!!!!!!"
     },
     "yLlfDA": {
         "en-US": "[Shez]\nYoop... Oh, my...\nWere you ^00B7EEsummoned^000000 by this human?\n<FONT SIZE = 14><B>Hwahahahahahahahahahahahahahahahahahahahahahah!!!",
-        "pt-BR": "[Shez]\nYoop, não me diga...\nVocê foi ^00B7EEinvocada^000000 por um humano?\n<FONT SIZE = 14><B>Hahahaahahaahahaahahaahahaahaha!!!!!!!!</B></FONT>",
+        "pt-BR": "[Shaz]\nYoop, não me diga...\nVocê foi ^00B7EEinvocada^000000 por um humano?\n<FONT SIZE = 14><B>Hahahaahahaahahaahahaahahaahaha!!!!!!!!</B></FONT>",
         "es-ES": "[Shez]\nYoop, ¿no me digas que...\nte ha ^00B7EEinvocado^000000 un humano?\n<FONT SIZE = 14><B>Jajajajajajajajajajajaja!!!!!!!!</B></FONT>"
     },
     "yblfDA": {
         "en-US": "Shez: Oh my gosh, this is hilarious!!!",
-        "pt-BR": "Shez: Nossa, isso é hilário!!!",
+        "pt-BR": "Shaz: Nossa, isso é hilário!!!",
         "es-ES": "Shez: ¡Ay, qué gracioso!!!"
     },
     "yrlfDA": {
         "en-US": "[Shez]\n<FONT SIZE = 14><B>Pwahahah!</B></FONT>\nA fairy like Yoop.... Pffff!\nThis is the funniest thing I've seen in the last 100 years!! <FONT SIZE = 14><B>Kekekekekekekekekekekekekekekekekekekekekekekekeke",
-        "pt-BR": "[Shez]\n<FONT SIZE = 14><B>Hahaha!!!!!!!!</B></FONT>\nUma fada do nível de Yoop... hahahaha...\nEssa é a coisa mais engraçada que vi nos últimos 100 anos!! <FONT SIZE = 14><B>Hahahaahaha!!!!!!</B></FONT>",
+        "pt-BR": "[Shaz]\n<FONT SIZE = 14><B>Hahaha!!!!!!!!</B></FONT>\nUma fada do nível de Yoop... hahahaha...\nEssa é a coisa mais engraçada que vi nos últimos 100 anos!! <FONT SIZE = 14><B>Hahahaahaha!!!!!!</B></FONT>",
         "es-ES": "[Shez]\n<FONT SIZE = 14><B>¡Jajaja!</B></FONT>\nQue un hada del nivel de Yoop... jaja...\nParece lo más gracioso que he visto en los últimos 100 años <FONT SIZE = 14><B>¡Jajajajajaja!!!!!!</B></FONT>"
     },
     "y7lfDA": {
         "en-US": "Shez: Nothing's going to be funnier than this at least for another one hundred years!",
-        "pt-BR": "Shez: Nada vai superar isso pelos próximos 100 anos!!",
+        "pt-BR": "Shaz: Nada vai superar isso pelos próximos 100 anos!!",
         "es-ES": "Shez: ¡No creo que haya nada más gracioso que esto en todo este siglo!"
     },
     "zLlfDA": {
         "en-US": "[Shez]\n<B>For your information, the funniest thing that happened 100 years ago was when Yoop shattered a Stone of Futility while studying it.</B>",
-        "pt-BR": "[Shez]\n<B>Só pra constar, a coisa mais engraçada de 100 anos atrás foi quando a Yoop fazia um experimento com a Pedra do Vazio mas acabou destruindo-a.</B>",
+        "pt-BR": "[Shaz]\n<B>Só pra constar, a coisa mais engraçada de 100 anos atrás foi quando a Yoop fazia um experimento com a Pedra Oca mas acabou destruindo-a.</B>",
         "es-ES": "[Shez]\n<B>Por cierto, lo más gracioso de hace 100 años fue cuando Yoop estaba experimentando con la Piedra del Vacío y la hizo pedazos</B>"
     },
     "zblfDA": {
         "en-US": "[Shez]\n<B>It was the incident where the Stone of Futility, glittering like confetti from absorbing his mana, left her covered in shards like a porcupine!</B>",
-        "pt-BR": "[Shez]\n<B>Daí ela ficou com fragmentos cravados por todo o corpo, parecendo um porco-espinho, enquanto a Pedra do Vazio brilhava ao absorver sua magia!</B>",
+        "pt-BR": "[Shaz]\n<B>Daí ela ficou com fragmentos cravados por todo o corpo, parecendo um porco-espinho, enquanto a Pedra Oca brilhava ao absorver sua magia!</B>",
         "es-ES": "[Shez]\n<B>¡El incidente en el que la Piedra del Vacío brilló mientras absorbía magia con todo el cuerpo lleno de fragmentos, como si fuera un puercoespín!</B>"
     },
     "zrlfDA": {
         "en-US": "Shez: This incident is still known as the Yoop the Confetti Porcupine incident.",
-        "pt-BR": "Shez: Esse acontecimento ficou conhecido como [O Caso da Yoop-Porco-Espinho Brilhante]!",
+        "pt-BR": "Shaz: Chamamos Yoop de Porco-Espinho desde então!",
         "es-ES": "Shez: ¡A este incidente lo llamamos el [Incidente del Erupto Erizo]!"
     },
     "z7lfDA": {
         "en-US": "[Shez]\nHee hee hee hee hee hee hee hee\nOh my belly... my belly... hee hee hee hee hee",
-        "pt-BR": "[Shez]\nHahahaahaha\nAi, minha barriga... minha barriga... hahahahaha",
+        "pt-BR": "[Shaz]\nHahahaahaha\nAi, minha barriga... minha barriga... hahahahaha!!",
         "es-ES": "[Shez]\nJajajajajaja\nAy, mi barriga... mi barriga... Jajajajaja"
     },
     "0LlfDA": {
         "en-US": "[Yoop]\nGrr... Grr...\nStop laughing!!!",
-        "pt-BR": "[Yoop]\nGrrr...\nPára de rir!!!",
+        "pt-BR": "[Yoop]\nGrrr...\nPare de rir!!!",
         "es-ES": "[Yoop]\nK... kkk...\n¡Deja de reírte!!!"
     },
     "0blfDA": {
         "en-US": "[Shez]\nHee hee hee hee hee hee hee\nWh-what am I doing? I must share this news with Ivein!",
-        "pt-BR": "[Shez]\nHihihihihihihihihihihihihihihihihi\nAah, preciso contar isso para a Ivein!",
+        "pt-BR": "[Shaz]\nHihihihihihihihihihihihihihihihihi\nAah, preciso contar isso para a Ebein!",
         "es-ES": "[Shez]\nJijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijij"
     },
     "0rlfDA": {
         "en-US": "Shez: Hee hee hee! I've got something to make fun of him for the next 300 years!",
-        "pt-BR": "Shez: Hihihihihihihihihihihihihihih Tenho algo para zombá-la pelos próximos 300 anos!",
+        "pt-BR": "Shaz: Hihi! Tenho algo para zombá-la pelos próximos 300 anos!",
         "es-ES": "Shez: ¡Jijijiji!! Con esto me voy a burlar de él por lo menos 300 años, ¿no?"
     },
     "07lfDA": {
         "en-US": "[Yoop]\nWah!\nStop it!!!!",
-        "pt-BR": "[Yoop]\nAaaahh!!\nPára com isso!!!!",
+        "pt-BR": "[Yoop]\nAaaahh!!\nPare com isso!!!!",
         "es-ES": "[Yoop]\n¡Ay!!\n¡¡¡Ya basta!!!!"
     },
     "1LlfDA": {
         "en-US": "[Yoop]\nUrrggghh...",
-        "pt-BR": "[Yoop]\nUuuhhrrrr...",
+        "pt-BR": "[Yoop]\nGrrrr...",
         "es-ES": "[Yoop]\n¡Aaaaaaah...!"
     },
     "1blfDA": {
@@ -436,7 +436,7 @@
     },
     "17lfDA": {
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>That arrogant Shez...</B></FONT>\nNo...\nSince it's come to this... I want Ivein too...\nSummon them both...",
-        "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Aquela Shez insolente...</B></FONT>\nNão...\nJá que chegou a esse ponto... Ivein também...\nQuero que você invoque ambas!",
+        "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Aquela Shaz insolente...</B></FONT>\nNão...\nAquela... Ebein também...\nQuero que você invoque ambas!",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>A ese insolente Shez...</B></FONT>\nNo...\nYa que las cosas han llegado a esto... hasta a Ivein...\nTendrás que invocarlo..."
     },
     "2LlfDA": {
@@ -446,7 +446,7 @@
     },
     "2blfDA": {
         "en-US": "^00B7EEThis is a Memorial event.^000000\n^00B7EEThe class change exam can only be taken in a party of one.^000000",
-        "pt-BR": "^00B7EEEste é um evento que ocorre no Memorial.^000000\n^00B7EEO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
+        "pt-BR": "^00B7EEEste é um evento que ocorre na instância.^000000\n^00B7EEO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^00B7EEEste es un evento que se lleva a cabo en Memorial.^000000\n^00B7EELa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "2rlfDA": {
@@ -456,32 +456,32 @@
     },
     "27lfDA": {
         "en-US": "[Yoop]\nAlright, if you're ready, follow me.",
-        "pt-BR": "[Yoop]\nTudo bem, se você está pronto, venha comigo.",
+        "pt-BR": "[Yoop]\nTudo bem, se você está com tudo pronto, venha comigo.",
         "es-ES": "[Yoop]\nBueno, si ya estás listo mentalmente, sígueme."
     },
     "3LlfDA": {
         "en-US": "Get ready.",
-        "pt-BR": "Preparo-me mentalmente.",
+        "pt-BR": "Criar instância.",
         "es-ES": "Me preparo mentalmente."
     },
     "3blfDA": {
         "en-US": "Follow him.",
-        "pt-BR": "Vou atrás dele.",
+        "pt-BR": "Entrar na instância.",
         "es-ES": "Te sigo."
     },
     "3rlfDA": {
         "en-US": "I quit.",
-        "pt-BR": "Desisto.",
+        "pt-BR": "Desistir.",
         "es-ES": "Ya basta."
     },
     "37lfDA": {
         "en-US": "[Yoop]\nYou don't seem ready yet?\nFocus!",
-        "pt-BR": "[Yoop]\nParece que você ainda não está totalmente preparado, não é?\nConcentre-se!",
+        "pt-BR": "[Yoop]\nParece que você ainda não está totalmente ok, não é?\nConcentre-se!",
         "es-ES": "[Yoop]\n¿Acaso no estás del todo listo todavía?\n¡Concéntrate!"
     },
     "4LlfDA": {
         "en-US": "[Yoop]\nHeh heh heh... Shez is gonna be sorry...\nFollow me. This way!",
-        "pt-BR": "[Yoop]\nHehehehe... Vou dar uma lição naquela Shez...\nSiga-me! É por aqui!",
+        "pt-BR": "[Yoop]\nHehehehe... Vou dar uma lição naquela Shaz...\nSiga-me! É por aqui!",
         "es-ES": "[Yoop]\nJe, je, je... Le voy a dar una buena lección a ese Shez...\n¡Sígueme! ¡Por aquí!"
     },
     "4blfDA": {
@@ -491,12 +491,12 @@
     },
     "4rlfDA": {
         "en-US": "{0}!!! Let's go to {1}!!!",
-        "pt-BR": "{0}!!! Vamos partir para {1}!!!",
+        "pt-BR": "{0}!!! Vamos partir para a Fonte de Magia!!!",
         "es-ES": "¡{0}!!! ¡Partimos con {1}!!!"
     },
     "47lfDA": {
         "en-US": "[Yoop]\nShouldn't you be the <B>^00B7EEparty leader^000000</B>? You don't take this seriously, do you?",
-        "pt-BR": "[Yoop]\nVocê não deveria ser o <B>^00B7EElíder do grupo^000000</B>? Você precisa levar isso mais a sério, viu?",
+        "pt-BR": "[Yoop]\nVocê não deveria ser o <B>^4D4DFFlíder do grupo^000000</B>? Você precisa levar isso mais a sério, viu?",
         "es-ES": "[Yoop]\nSi no logras invocar a Shez...\n<B>vas a sentir en tus huesos cuál es el precio de haberme invocado sin pensar...</B>"
     },
     "5LlfDA": {
@@ -506,7 +506,7 @@
     },
     "5blfDA": {
         "en-US": "[Yoop]\nWhere the hell have you been all this time!!!\nHurry up and follow me!",
-        "pt-BR": "[Yoop]\nOnde você estava esse tempo todo!!!\nVem logo!",
+        "pt-BR": "[Yoop]\nOnde você estava esse tempo todo?!\nVamos logo!",
         "es-ES": "[Yoop]\n¡¿Dónde te habías metido?!\n¡Ven rápido!"
     },
     "5rlfDA": {
@@ -516,7 +516,7 @@
     },
     "57lfDA": {
         "en-US": "Shez",
-        "pt-BR": "Shez",
+        "pt-BR": "Shaz",
         "es-ES": "Shez"
     },
     "6LlfDA": {
@@ -531,17 +531,17 @@
     },
     "6rlfDA": {
         "en-US": "Maggie: Yoop-eeeeeeeeeeeeeeeeee....",
-        "pt-BR": "Maggie: Yoooopeeeeee.....",
+        "pt-BR": "Maggie: Yoooop...",
         "es-ES": "Magi: ¡Yoop!"
     },
     "67lfDA": {
         "en-US": "[Maggie]\nCome to think of it, my friends and I once made a bet about what Salamander meat would taste like. We worked hard to get it, but we couldn't cook it over a normal fire. It just went bad after a while.",
-        "pt-BR": "[Maggie]\nPensando bem, uma vez fiz uma aposta com meus amigos sobre qual seria o sabor da carne de salamandra.. Mas a carne que conseguimos com tanto esforço não cozinhava muito bem com fogo comum... Então, nem chegamos a provar e ela acabou estragando...",
+        "pt-BR": "[Maggie]\nUma vez fiz uma aposta com meus amigos sobre qual seria o sabor da carne de Salamandra... Mas a carne que conseguimos com tanto esforço não cozinhava muito bem com fogo comum... Então, nem chegamos a provar e ela acabou estragando...",
         "es-ES": "[Magi]\nAhora que lo pienso, hace tiempo hice una apuesta con mis amigos sobre qué sabor tendría la carne de salamandra, pero la carne que conseguimos con tanto esfuerzo no se cocinaba con fuego normal, así que ni siquiera pudimos probarla y se echó a perder."
     },
     "7LlfDA": {
         "en-US": "Maggie: Duga ate that spoiled meat and got sick. It was really painful to see.",
-        "pt-BR": "Maggie: O Duga achou que era um desperdício e acabou comendo a carne estragada. Ele passou mal e deu dó de ver...",
+        "pt-BR": "Maggie: O Du achou que era um desperdício e acabou comendo a carne estragada. Ele passou mal e deu dó de ver...",
         "es-ES": "Magi: Duga se comió la carne en mal estado porque le daba pena desperdiciarla, y la pasamos muy mal."
     },
     "7blfDA": {
@@ -561,17 +561,17 @@
     },
     "8LlfDA": {
         "en-US": "[Maggie]\nI... I shouldn't be standing here like this...\nSo, to get the next ingredient...",
-        "pt-BR": "[Maggie]\nEu não deveria ficar viajando assim...\nEntão, o próximo ingrediente fica em...",
+        "pt-BR": "[Maggie]\nEu não deveria ficar viajando assim...\nEntão, o próximo ingrediente...",
         "es-ES": "[Magi]\nEn lugar de... quedarme aquí así...\nBueno, el siguiente ingrediente es..."
     },
     "8blfDA": {
         "en-US": "[Maggie]\nCatch ^00B7EEBathhouse Mermaids^000000 in <FONT SIZE = 14><B>Varmunt Mansion Bathhouse</B></FONT> to obtain the <B>Mermaid's Heart</B>.",
-        "pt-BR": "[Maggie]\n<FONT SIZE = 14><B>Sauna da Mansão Varmunt</B></FONT>: é só capturar a ^00B7EEsereia da banheira^000000 para conseguir o <B>Coração de Sereia</B>.",
+        "pt-BR": "[Maggie]\nNa <FONT SIZE = 14><B>Sauna da Mansão Varmunt</B></FONT>, existe uma ^00B7EESereia^000000 que deve dar o <B>Coração de Sereia</B>.",
         "es-ES": "[Magi]\nTienes que cazar a la ^00B7EEsirena del baño^000000 de la <B>sala de baño de la mansión Varmunt</B> para conseguir el <B>corazón de sirena</B>."
     },
     "8rlfDA": {
         "en-US": "[Maggie]\nAnd we must hunt ^00B7EE10^000000 ^00B7EEmonsters in that area^000000 too, to strengthen the <B>water energy</B>.",
-        "pt-BR": "[Maggie]\nE também preciso capturar uns ^00B7EE10 monstros^000000 daquela área para fortalecer a <B>Energia da Água</B>.",
+        "pt-BR": "[Maggie]\nE também preciso eliminar uns ^4D4DFF10 monstros^000000 daquela área para fortalecer a <B>Energia da Água</B>.",
         "es-ES": "[Magi]\nY también hay que cazar como ^00B7EE10^000000 de los ^00B7EEmonstruos de esa zona^000000 para hacer que la <B>energía del agua</B> sea más fuerte."
     },
     "87lfDA": {
@@ -586,7 +586,7 @@
     },
     "9blfDA": {
         "en-US": "[Maggie]\nWhere I come from... there's a really scary mermaid legend.\nWhen I first heard that story, <FONT SIZE = 16><B>so</B></FONT> scary...\nI couldn't go near the beach for a while.",
-        "pt-BR": "[Maggie]\nNa minha cidade natal... tem uma lenda de sereias que dá muito medo.\nQuando ouvi essa história pela primeira vez, <FONT SIZE = 16><B>tive tanto</B></FONT> medo que...\npor um bom tempo, nem consegui chegar perto da praia.",
+        "pt-BR": "[Maggie]\nNa minha cidade natal... tem uma lenda de sereias que dá muito medo.\nQuando ouvi essa história pela primeira vez, tive tanto <FONT SIZE = 16><B>medo</B></FONT> que...\npor um bom tempo, nem consegui chegar perto da praia.",
         "es-ES": "[Magi]\nEn mi pueblo natal... hay una leyenda sobre una sirena que da mucho miedo.\nLa primera vez que escuché esa historia, <FONT SIZE = 16><B>me dio tanto</B></FONT> miedo que...\nno pude acercarme a la playa por un buen rato."
     },
     "9rlfDA": {
@@ -611,7 +611,7 @@
     },
     "+rlfDA": {
         "en-US": "[Maggie]\nThe last material is...\nGet the <B>Seed of Yggdrasil</B> from ^00B7EEShining Grass^000000 and we're done!!!",
-        "pt-BR": "[Maggie]\nO último material é...\nA <B>Semente de Yggdrasil</B> de uma ^00B7EEPlanta Brilhante^000000, e pronto!!!",
+        "pt-BR": "[Maggie]\nO último material é...\nA <B>Semente de Yggdrasil</B> de uma ^00B7EEPlanta Brilhante^000000, e só!!!",
         "es-ES": "[Magi]\nEl último ingrediente es...\n¡¡¡Si consigues la <B>semilla de Yggdrasil</B> en la ^00B7EEhierba brillante^000000, ya está todo listo!!!"
     },
     "+7lfDA": {
@@ -626,12 +626,12 @@
     },
     "/blfDA": {
         "en-US": "[Maggie]\nNow we just need Yoop to come back!",
-        "pt-BR": "[Maggie]\nAgora só falta a Yoop voltar!",
+        "pt-BR": "[Maggie]\nAgora só falta Yoop voltar!",
         "es-ES": "[Magi]\n¡Ahora solo falta que vuelva Yup!"
     },
     "/rlfDA": {
         "en-US": "[Maggie]\n<FONT SIZE = 14><B>Oh my gosh!!!</B></FONT>\nShe's appeared!!",
-        "pt-BR": "[Maggie]\n<FONT SIZE = 14><B>Ah!!!</B></FONT>\nEla apareceu!!",
+        "pt-BR": "[Maggie]\n<FONT SIZE = 14><B>Ah!!!</B></FONT>\nApareceu!!",
         "es-ES": "[Magi]\n<FONT SIZE = 14><B>¡Ay!!!</B></FONT>\n¡Ya apareció!!"
     },
     "/7lfDA": {
@@ -646,12 +646,12 @@
     },
     "AbpfDA": {
         "en-US": "[Yoop]\nUgh~~\nDon't even mention it...",
-        "pt-BR": "[Yoop]\nUgh~~\nNem me fale...",
+        "pt-BR": "[Yoop]\nUrgh~~\nNem me fale...",
         "es-ES": "[Yup]\nUf~~\nNi me lo digas..."
     },
     "ArpfDA": {
         "en-US": "<B>I've been through hell because of some weirdo...</B>",
-        "pt-BR": "<B>Passei por um inferno por causa de um cara esquisito...</B>",
+        "pt-BR": "<B>Passei por um inferno por causa de uma Feiticeira doida...</B>",
         "es-ES": "<B>Te diré que me costó un montón de trabajo por culpa de un tipo raro...</B>"
     },
     "A7pfDA": {
@@ -661,12 +661,12 @@
     },
     "BLpfDA": {
         "en-US": "[Maggie]\nOf course!\nOh, and {0} here got them too.",
-        "pt-BR": "[Maggie]\nClaro!\nAh, e trouxe o {0} junto também.",
+        "pt-BR": "[Maggie]\nClaro!\nAh, e trouxe {0} junto também.",
         "es-ES": "[Magi]\n¡Claro que sí!\nAh, por cierto, también traje a {0} contigo."
     },
     "BbpfDA": {
         "en-US": "[Yoop]\nLet's see...\nA Salamander's Heart, a Mermaid's Heart, and... an Yggdrasil Seed!\nYou've prepared the materials well.",
-        "pt-BR": "[Yoop]\nDeixa eu ver...\nO coração da salamandra... o coração da sereia... e a semente de Yggdrasil!\nVocê juntou tudo direitinho.",
+        "pt-BR": "[Yoop]\nDeixa eu ver...\nO Coração Incandescente... o Coração de Sereia... e a Semente de Yggdrasil!\nVocê juntou tudo direitinho.",
         "es-ES": "[Yup]\nA ver...\nEl corazón de la salamandra... el corazón de la sirena... ¡y la semilla de Yggdrasil!\nHas preparado bien los materiales."
     },
     "BrpfDA": {
@@ -676,27 +676,27 @@
     },
     "B7pfDA": {
         "en-US": "[Maggie]\n{0}, let's hurry and follow them!\nLet me know when you're ready!",
-        "pt-BR": "[Maggie]\n{0}, vamos logo atrás delas!\nAvise-me quando estiver pronto!",
+        "pt-BR": "[Maggie]\n{0}, vamos logo atrás!\nAvise-me quando estiver com tudo pronto!",
         "es-ES": "[Magi]\n¡{0}, sigámoslo rápido!\n¡Avísanos cuando estés listo!"
     },
     "CLpfDA": {
         "en-US": "[Maggie]\nWe have to follow before Yoop's magic fades!",
-        "pt-BR": "[Maggie]\nTemos que ir antes que a magia da Yoop acabe!",
+        "pt-BR": "[Maggie]\nTemos que ir antes que a magia de Yoop acabe!",
         "es-ES": "[Magi]\n¡Tenemos que ir antes de que se acabe la magia de Yup!"
     },
     "CbpfDA": {
         "en-US": "Check the warp portal.",
-        "pt-BR": "Verificar o portal de teleporte.",
+        "pt-BR": "Criar instância",
         "es-ES": "Revisa el portal de teletransporte."
     },
     "CrpfDA": {
         "en-US": "Enter.",
-        "pt-BR": "Entrar.",
+        "pt-BR": "Entrar na instância",
         "es-ES": "Entras."
     },
     "C7pfDA": {
         "en-US": "[Maggie]\nThere seems to be something wrong with the warp portal.\nPlease try again.",
-        "pt-BR": "[Maggie]\nParece que tem algum problema com o portal de teleporte.\nTente novamente.",
+        "pt-BR": "[Maggie]\nParece que tem algum problema com o portal.\nTente novamente.",
         "es-ES": "[Magi]\nParece que hay algún problema con el portal de teletransporte.\nInténtalo de nuevo."
     },
     "DLpfDA": {
@@ -711,7 +711,7 @@
     },
     "DrpfDA": {
         "en-US": "{0} I can see {1}!!!",
-        "pt-BR": "{0}, estou vendo o {1}!!!",
+        "pt-BR": "{0}, estou vendo a Fonte da Magia!!!",
         "es-ES": "¡Veo a {0} y a {1}!!!"
     },
     "D7pfDA": {
@@ -721,7 +721,7 @@
     },
     "ELpfDA": {
         "en-US": "[Maggie]\nOnly party leaders can enter {0}.",
-        "pt-BR": "[Maggie]\nSe não for o líder do grupo, não poderá entrar no {0}.",
+        "pt-BR": "[Maggie]\nSe não for o líder do grupo, não poderá entrar na Fonte da Magia.",
         "es-ES": "[Magi]\nSi no eres el líder del grupo, no puedes entrar en {0}."
     },
     "EbpfDA": {
@@ -746,7 +746,7 @@
     },
     "FbpfDA": {
         "en-US": "[Master Egnoloria]\nYou're carrying too much.\nWith such a complicated heart, your magic will scatter.",
-        "pt-BR": "[Mestre Egnoloria]\nVocê carrega peso demais.\nCom um coração tão confuso, a tua magia acabará se dispersando.",
+        "pt-BR": "[Mestre Egnoloria]\nVocê carrega peso demais.\nCom um coração tão confuso, a sua magia acabará se dispersando.",
         "es-ES": "[Maestra Egnoloria]\nLlevas demasiada carga.\nCon una mente tan complicada, tu magia se desequilibra."
     },
     "FrpfDA": {
@@ -786,22 +786,22 @@
     },
     "HbpfDA": {
         "en-US": "Yoop: Spare me...",
-        "pt-BR": "Yoop: Me salva......",
+        "pt-BR": "Yoop: Me salva...",
         "es-ES": "Yup: ¡Sálvame...!"
     },
     "HrpfDA": {
         "en-US": "Explains what has happened so far.",
-        "pt-BR": "Explica o que aconteceu até agora.",
+        "pt-BR": "Explicar o que aconteceu.",
         "es-ES": "Explica lo que ha pasado hasta ahora."
     },
     "H7pfDA": {
         "en-US": "[Master Egnoloria]\nYoop... <B>Your most mysterious ability seems to be the one that gives me a headache.</B>",
-        "pt-BR": "[Mestre Egno-loria]\nYoop... <B>Parece que a tua habilidade mais misteriosa é a de me causar dor de cabeça.</B>",
+        "pt-BR": "[Mestre Egnoloria]\nYoop... <B>Parece que sua habilidade mais poderosa é a de me causar dor de cabeça.</B>",
         "es-ES": "[Maestra Egnoloria]\nYup... <B>Parece que tu habilidad más misteriosa es la de darme dolor de cabeza a mí.</B>"
     },
     "ILpfDA": {
         "en-US": "[Master Egnoloria]\nAnd the task I assigned you under the name of ^00B7EEtrial^000000 won't end with a minor punishment like just now.",
-        "pt-BR": "[Mestre Egnoloria]\nE o fato de ter jogado a sua responsabilidade para mim, sob o pretexto de ^00B7EEprovação^000000, também não vai acabar com uma simples punição.",
+        "pt-BR": "[Mestre Egnoloria]\nE o fato de ter jogado a sua responsabilidade para mim, sob o pretexto de ^00B7EEteste de classe^000000, também vai ter punição.",
         "es-ES": "[Maestra Egnoloria]\nY el hecho de que me hayas endosado una tarea con el nombre de ^00B7EEprueba^000000 tampoco va a terminar con un castigo tan leve como el de hace un momento."
     },
     "IbpfDA": {
@@ -811,7 +811,7 @@
     },
     "IrpfDA": {
         "en-US": "Yoop: Ugh!! You knew all along...",
-        "pt-BR": "Yoop: Aaargh!! Como eu imaginava, você sabia...",
+        "pt-BR": "Yoop: Aaargh!! Como eu imaginava, me lasquei...",
         "es-ES": "Yup: ¡Ay! ¡Ya lo sabías...!"
     },
     "I7pfDA": {
@@ -826,17 +826,17 @@
     },
     "JbpfDA": {
         "en-US": "[Maggie]\n<FONT SIZE = 10>Um... well...</FONT>\n<FONT SIZE = 10>You said that if I pass the trial, I could become an ^00B7EEArch Mage^000000...\nIs that a lie too?",
-        "pt-BR": "[Maggie]\nÉ que... bem...\nVocê disse que, se eu passasse pela provação, poderia me tornar um ^00B7EEMagus^000000...\nIsso também era mentira?",
+        "pt-BR": "[Maggie]\nÉ que... bem...\nVocê disse que, se eu passasse pelo teste, poderia me juntar aos ^00B7EEMagus^000000...\nIsso também era mentira?",
         "es-ES": "[Magi]\n<FONT SIZE = 10>Yo... es que...</FONT>\n<FONT SIZE = 10>Dijiste que si Yup superaba la prueba, podría convertirse en ^00B7EEArcmago^000000...\n¿También es mentira eso de que puede convertirse en Arcmago?"
     },
     "JrpfDA": {
         "en-US": "[Master Egnoloria]\nHmm???\nArch Mage, huh...\nYou're an interesting human being.",
-        "pt-BR": "[Mestre Egnoloria]\nHum???\nMagus, hein...\nUm humano que diz coisas engraçadas.",
+        "pt-BR": "[Mestre Egnoloria]\nHã???\nMagus, hein...\nEssa humana diz coisas engraçadas.",
         "es-ES": "[Maestro Egnoloria]\n¿Hmm???\nArcmago, eh...\nEres un humano que dice cosas curiosas."
     },
     "J7pfDA": {
         "en-US": "[Master Egnoloria]\nBecoming an Arch Mage is a rather meaningless tale for you lot.",
-        "pt-BR": "[Mestre Egnoloria]\nTornar-se Magus não representa nada para vocês.",
+        "pt-BR": "[Mestre Egnoloria]\nJuntar-se aos Magus não significa nada para vocês.",
         "es-ES": "[Maestro Egnoloria]\nConvertirse en un Archimago no tiene mucho sentido para ustedes."
     },
     "KLpfDA": {
@@ -846,12 +846,12 @@
     },
     "KbpfDA": {
         "en-US": "[Master Egnoloria]\nWhat a foolish question.\nYou are human and elf, mage and beyond that, warlock and Archmage.",
-        "pt-BR": "[Mestre Egnoloria]\nQue pergunta tola.\nVocês são humanos e fadas, Magos e, além disso, Arcanos e Magus.",
+        "pt-BR": "[Mestre Egnoloria]\nQue pergunta tola.\nVocês são humanos, Magos e, futuramente, Arcanos e Magus.",
         "es-ES": "[Maestra Egnoloria]\nQué pregunta más tonta.\nSois humanos y elfos, magos y, más allá de eso, brujos y Archimagos."
     },
     "KrpfDA": {
         "en-US": "<FONT SIZE = 14><B>I've never heard of trials meant to become what you already are.</B></FONT>",
-        "pt-BR": "<FONT SIZE = 14><B>Nunca ouvi falar de provações para se tornar algo que você já é.</B></FONT>",
+        "pt-BR": "<FONT SIZE = 14><B>Não precisam de testes para se tornarem algo que vocês já são.</B></FONT>",
         "es-ES": "<FONT SIZE = 14><B>Nunca he oído hablar de pruebas para convertirte en lo que ya eres.</B></FONT>"
     },
     "K7pfDA": {
@@ -861,17 +861,17 @@
     },
     "LLpfDA": {
         "en-US": "[Master Egnoloria]\nNo matter what <B>name</B> you bear, the essence of <B>[you]</B> remains unchanged.\nBut clinging to such a <FONT SIZE = 14><B>shell</B></FONT> is part of what makes humans so amusing...",
-        "pt-BR": "[Mestre Egnoloria]\nPor mais que mude o seu <B>nome</B>, a essência do que <B>[você]</B> é não muda.\nMas ficar preso a essa <FONT SIZE = 14><B>casca</B></FONT> é realmente uma das coisas engraçadas dos humanos...",
+        "pt-BR": "[Mestre Egnoloria]\nPor mais que mude o seu <B>nome</B>, a essência do que <B>você é</B> não muda.\nMas ficar preso a essa <FONT SIZE = 14><B>casca</B></FONT> é realmente uma das coisas engraçadas dos humanos...",
         "es-ES": "[Maestra Egnoloria]\nPor mucho <B>nombre</B> que tengas, la esencia de <B>[tú]</B> no cambia.\nPero aferrarse a esa <FONT SIZE = 14><B>cáscara</B></FONT> es también parte de lo divertido de ser humano..."
     },
     "LbpfDA": {
         "en-US": "[Master Egnoloria]\n<B>Look upon your form once more.</B>\n<FONT SIZE = 14><B>What it means to be you.</B></FONT>",
-        "pt-BR": "[Mestre Egnoloria]\nOlhe novamente <B>para si mesmo.</B>\n<FONT SIZE = 14><B>Veja o sentido de sua existência.</B></FONT>",
+        "pt-BR": "[Mestre Egnoloria]\nOlhe novamente <B>para si mesma.</B>\n<FONT SIZE = 14><B>Você já é um Magus.</B></FONT>",
         "es-ES": "[Maestra Egnoloria]\nVuelve a <B>mirar tu aspecto.</B>\n<FONT SIZE = 14><B>Lo que eres tú.</B></FONT>"
     },
     "LrpfDA": {
         "en-US": "[Maggie]\nWhoa, when did that happen!!!",
-        "pt-BR": "[Maggie]\nEita, quando foi isso!!!",
+        "pt-BR": "[Maggie]\nEita, quando foi isso?!",
         "es-ES": "[Magi]\n¡Ay, ¿en qué momento?!"
     },
     "L7pfDA": {
@@ -881,7 +881,7 @@
     },
     "MLpfDA": {
         "en-US": "I want to become an Archmage.",
-        "pt-BR": "Quero me tornar um Magus.",
+        "pt-BR": "Quero me juntar aos Magus.",
         "es-ES": "Quiero ser un Arcmago."
     },
     "MbpfDA": {
@@ -891,7 +891,7 @@
     },
     "MrpfDA": {
         "en-US": "[Master Egnoloria]\n<FONT SIZE = 14><B>Very well.</B></FONT> <B>If you wish to be called Archmage, I will gladly call you Archmage.</B>",
-        "pt-BR": "[Mestre Egnoloria]\n<FONT SIZE = 14><B>Tudo bem.</B></FONT> <B>Se tu queres ser chamado de Magus, eu te chamarei de Magus de bom grado.</B>",
+        "pt-BR": "[Mestre Egnoloria]\n<FONT SIZE = 14><B>Certo.</B></FONT> <B>Se deseja se juntar aos Magus, eu farei isso de bom grado.</B>",
         "es-ES": "[Maestra Egnoloria]\n<FONT SIZE = 14><B>Está bien.</B></FONT> <B>Si quieres que te llamen Archimago, con mucho gusto te llamaré Archimago.</B>"
     },
     "M7pfDA": {
@@ -906,7 +906,7 @@
     },
     "NbpfDA": {
         "en-US": "[Master Egnoloria]\nGood. What you're called is up to you.",
-        "pt-BR": "[Mestre Egnoloria]\nÓtimo. Como você será chamado depende da sua escolha.",
+        "pt-BR": "[Mestre Egnoloria]\nÓtimo. Como você será chamada depende da sua escolha.",
         "es-ES": "[Maestra Egnoloria]\nBien. Cómo te llamen depende de ti."
     },
     "NrpfDA": {
@@ -931,12 +931,12 @@
     },
     "OrpfDA": {
         "en-US": "[Shez]\n<FONT SIZE = 14><B>Master!!!!</B></FONT>\nYoop-nim!!!!!!\nHe sulked because he got summoned by that guy!!!",
-        "pt-BR": "[Shez]\n<FONT SIZE = 14><B>Mestre!!!!</B></FONT>\nYoop!!!!!!\nEla ficou de mau humor porque foi invocada por aquele humano!!!",
+        "pt-BR": "[Shaz]\n<FONT SIZE = 14><B>Mestre!!!!</B></FONT>\nYoop!!!!!!\nYoop ficou de mau humor porque foi invocada por um humano!!!",
         "es-ES": "[Shez]\n<FONT SIZE = 14><B>¡Maestra!!!!</B></FONT>\n¡Yup-nim!!!!!!\n¡¡¡Se puso de mal humor porque ese humano lo invocó!!!"
     },
     "O7pfDA": {
         "en-US": "Shez: Please scold me!!!!!!!!",
-        "pt-BR": "Shez: Dá uma bronca nela!!!!!!!!",
+        "pt-BR": "Shaz: Dá uma bronca nela, Mestre!!!!!!!!",
         "es-ES": "Shez: ¡Castígalo!!!!!!!!"
     },
     "PLpfDA": {
@@ -946,22 +946,22 @@
     },
     "PbpfDA": {
         "en-US": "Yup : Master!!! Shez keeps teasing me!!!!",
-        "pt-BR": "Yoop: Mestre!!! Shez fica me provocando!!!!",
+        "pt-BR": "Yoop: Mestre!!! Shaz fica me provocando!!!!",
         "es-ES": "Yup: ¡Maestro!!! ¡Shez no deja de burlarse de mí!!!!"
     },
     "PrpfDA": {
         "en-US": "[Master Egnoloria]\nSigh...\nSo you're making a fuss over something so trivial...",
-        "pt-BR": "[Mestre Egnoloria]\nAh...\nEstão fazendo barulho por causa de uma bobagem dessas...",
+        "pt-BR": "[Mestre Egnoloria]\nAh...\nEstão fazendo barulho por causa de uma bobagem dessas...?",
         "es-ES": "[Maestra Egnoloria]\nAy...\n¿Estás armando un escándalo por algo tan insignificante?..."
     },
     "P7pfDA": {
         "en-US": "Master Egnoloria: He's not a toddler anymore...",
-        "pt-BR": "Mestre Egnoloria: Já não são mais crianças...",
+        "pt-BR": "Mestre Egnoloria: Vocês não são mais crianças...",
         "es-ES": "Maestra Egnoloria: No son niños de uno o dos años..."
     },
     "QLpfDA": {
         "en-US": "[Shez]\nBut!!!\nBut!!!",
-        "pt-BR": "[Shez]\nMas!!!\nMas!!!",
+        "pt-BR": "[Shaz]\nMas!!!\nMas!!!",
         "es-ES": "[Shez]\n¡Pero!!!\n¡Pero!!!"
     },
     "QbpfDA": {
@@ -971,52 +971,52 @@
     },
     "QrpfDA": {
         "en-US": "[Master Egnoloria]\nThough it was by chance, a mere novice who hasn't even received a name <B>summoned Yup, my vassal and the powerful wind elemental, and with just a small hint, summoned Shes of Water and Ivein of Earth as well.</B>",
-        "pt-BR": "[Mestre Egnoloria]\nMesmo que tenha sido por acaso, um mero novato sem nome <B>invocou Yoop, meu servo e detentor do poder do poderoso espírito do vento? E com apenas uma pequena ajuda invocou até mesmo Shez, da Água, e Ivein, da Terra?</B>",
+        "pt-BR": "[Mestre Egnoloria]\nMesmo que tenha sido por acaso, um mero novato sem nome <B>invocou Yoop, detentor do Espírito do Vento? E com apenas uma pequena ajuda invocou até mesmo Shaz, da Água, e Ebein, da Terra?</B>",
         "es-ES": "[Maestra Egnoloria]\nAunque haya sido una coincidencia, un novato sin nombre <B>invocó a Yup, mi subordinado y poseedor del poder de un poderoso espíritu del viento, y con solo una pequeña pista invocó hasta a Shez, del agua, y a Ivein, de la tierra.</B>"
     },
     "Q7pfDA": {
         "en-US": "[Master Egnoloria]\nMoreover, to capture even my interest—truly remarkable for a mere human.",
-        "pt-BR": "[Mestre Egnoloria]\nAlém disso, conseguiu despertar o meu interesse... Para um humano, és realmente um ser notável.",
+        "pt-BR": "[Mestre Egnoloria]\nBem, conseguiu despertar o meu interesse... Para um humano, isso te torna um ser notável.",
         "es-ES": "[Maestro Egnoloria]\nAdemás, has logrado despertar mi interés. Para ser un simple humano, eres realmente excelente."
     },
     "RLpfDA": {
         "en-US": "[Master Egnoloria]\nVery well.\nThen I shall bestow a <FONT SIZE = 14><B>name</B></FONT> befitting you.",
-        "pt-BR": "[Mestre Egnoloria]\nTudo bem.\nEntão, vou ter que te dar um <FONT SIZE = 14><B>nome</B></FONT> à altura disso.",
+        "pt-BR": "[Mestre Egnoloria]\nCerto.\nEntão, vou ter que mudar sua <FONT SIZE = 14><B>classe</B></FONT> para estar à altura disso.",
         "es-ES": "[Maestra Egnoloria]\nEstá bien.\nEntonces tendré que otorgarte un <FONT SIZE = 14><B>nombre</B></FONT> a la altura."
     },
     "RbpfDA": {
         "en-US": "Accept.",
-        "pt-BR": "Aceito.",
+        "pt-BR": "Aceito mudar de classe.",
         "es-ES": "Lo acepto."
     },
     "RrpfDA": {
         "en-US": "I do not accept.",
-        "pt-BR": "Não aceito.",
+        "pt-BR": "Não aceito mudar.",
         "es-ES": "No lo acepto."
     },
     "R7pfDA": {
         "en-US": "[Master Eggnororia]\nI decree!\nFrom this moment on, <B>in the name of Sila Egnoloria, the Fire Spirit King who commands magic and guards the primordial flame, I shall call you an Elemental Master.</B>",
-        "pt-BR": "[Mestre Egnoloria]\nEu ordeno!\nA partir de agora, <B>em meu nome, Sila Egnoloria, a governante da magia e rainha dos espíritos do fogo, que guarda a chama primordial, irei te chamar de Elementalista.</B>",
+        "pt-BR": "[Mestre Egnoloria]\nEu ordeno!\nA partir de agora, <B>em meu nome, Sila Egnoloria, a governante da magia e rainha dos Espíritos do Fogo, que guarda a chama primordial, transformarei você em Elementalista.</B>",
         "es-ES": "[Maestra Egnoloria]\n¡Te lo ordeno!\nA partir de ahora, <B>en nombre de mí, Sila Egnoloria, la que gobierna la magia y es la reina de los espíritus del fuego que protege la llama primigenia, te llamaré Elementalista.</B>"
     },
     "SLpfDA": {
         "en-US": "Shez: Congratulations!!",
-        "pt-BR": "Shez: Parabéns!!",
+        "pt-BR": "Shaz: Parabéns!!",
         "es-ES": "Shez: ¡Felicidades!!"
     },
     "SbpfDA": {
         "en-US": "Yup: Well, if the results are good, isn't that what matters!!!!",
-        "pt-BR": "Yoop: Ora, se o resultado é bom, é o que importa!!!!",
+        "pt-BR": "Yoop: Uau!!!!",
         "es-ES": "Yup: ¡¡¡Bueno, si el resultado es bueno, ¿no está bien?!!!!"
     },
     "SrpfDA": {
         "en-US": "[Master Egnoloria]\nMay your new name bring you a fresh breeze.",
-        "pt-BR": "[Mestra Egnoloria]\nQue o seu novo nome te traga um novo vigor.",
+        "pt-BR": "[Mestra Egnoloria]\nQue o sua nova posição te traga um novo vigor.",
         "es-ES": "[Maestra Egnoloria]\nQue tu nuevo nombre te traiga un nuevo aire"
     },
     "S7pfDA": {
         "en-US": "[Master Egnoloria]\nYeah... what do you think?\nWhether you're a Sorcerer or an Elemental Master, the world won't change.",
-        "pt-BR": "[Mestre Egnoloria]\nÉ... o que acha disso?\nSeja um Feiticeiro ou um Elementalista, o mundo permanecerá o mesmo.",
+        "pt-BR": "[Mestre Egnoloria]\nÉ só isso... o que achou?\nSeja um Feiticeiro ou um Elementalista, o mundo permanecerá o mesmo.",
         "es-ES": "[Maestra Egnoloria]\nSí... ¿qué te parece?\nYa seas hechicero o Elementalista, el mundo no cambia."
     },
     "TLpfDA": {
@@ -1031,17 +1031,17 @@
     },
     "TrpfDA": {
         "en-US": "Yoop: You're a true Archmage now too!!",
-        "pt-BR": "Yoop: Agora você também é um verdadeiro Magus!!",
+        "pt-BR": "Yoop: Agora você também é um Magus!!",
         "es-ES": "Yup: ¡¡Ahora tú también eres un verdadero Archimago!!"
     },
     "T7pfDA": {
         "en-US": "[Yoop]\nIf you have any questions about magic, feel free to ask this super☆powerful Yoop-nim anytime!\nMwahahaha!",
-        "pt-BR": "[Yoop]\nSe tiver alguma dúvida sobre magia, pode sempre perguntar para a super poderosa Yoop!\nHahaha!",
+        "pt-BR": "[Yoop]\nSe tiver alguma dúvida sobre magia, pode sempre perguntar para Yoop!\nHahaha!",
         "es-ES": "[Yup]\nSi tienes alguna duda sobre magia, ¡pregúntale cuando quieras a este súper☆poderoso Yup!\n¡Jajajaja!"
     },
     "ULpfDA": {
         "en-US": "Yoop : Huhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuh",
-        "pt-BR": "Yoop: Huahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahu",
+        "pt-BR": "Yoop: Mwahahaha!",
         "es-ES": "Yup: ¡Jajajajajajaja!!"
     },
     "UbpfDA": {
@@ -1051,12 +1051,12 @@
     },
     "UrpfDA": {
         "en-US": "Yoop: You're a true Elemental Master now!!",
-        "pt-BR": "Yoop: Agora você também é um verdadeiro Elementalistal!!",
+        "pt-BR": "Yoop: Agora você também é Elementalista!!",
         "es-ES": "Yup: ¡Ahora tú también eres un verdadero Elementalista!!"
     },
     "U7pfDA": {
         "en-US": "[Yoop]\nIf you have any questions about elementals, feel free to ask this super-ultra-powerful Yoop!\nMwahahaha!",
-        "pt-BR": "[Yoop]\nSe tiver alguma dúvida sobre os espíritos, pode sempre perguntar para a super poderosa Yoop!\nHahaha!",
+        "pt-BR": "[Yoop]\nSe tiver alguma dúvida sobre os Espíritos Elementais, pode sempre perguntar para Yoop!\nHahaha!",
         "es-ES": "[Yup]\nSi tienes alguna duda sobre los espíritus, ¡pregúntale cuando quieras a este súper poderoso Yup!\n¡Jajaja!"
     },
     "VLpfDA": {
@@ -1091,7 +1091,7 @@
     },
     "WrpfDA": {
         "en-US": "[Maggie]\nOh, come to think of it, there are tons of fairies and spirits here!!",
-        "pt-BR": "[Maggie]\nAh, agora que penso nisso, tem um monte de fadas e espíritos por aqui!!",
+        "pt-BR": "[Maggie]\nAh, agora que penso nisso, tem um monte de fadas e espíritos elementais por aqui!!",
         "es-ES": "[Magi]\n¡Ah, ahora que lo pienso, aquí hay un montón de hadas y espíritus!"
     },
     "W7pfDA": {
@@ -1101,62 +1101,62 @@
     },
     "XLpfDA": {
         "en-US": "[Shez]\nAn Arch Mage? That's so cool!\nIt reminds me of when I changed jobs to become a Warlock...",
-        "pt-BR": "[Shez]\nUm Magus, que legal!\nIsso me faz lembrar de quando me tornei um Arcano...",
+        "pt-BR": "[Shaz]\nUm Magus, que legal!\nIsso me faz lembrar de quando me tornei um Arcano...",
         "es-ES": "[Shez]\n¡Un archimago! ¡Qué guay!\nMe hace recordar cuando me convertí en brujo~"
     },
     "XbpfDA": {
         "en-US": "Shez: Whoa, who's this!!! {0}!!",
-        "pt-BR": "Shez: Quem é esse aí!!! {0}!!",
+        "pt-BR": "Shaz: Quem é esse aí? {0}!!",
         "es-ES": "Shez: ¡¿Quién es este?! ¡{0}!"
     },
     "XrpfDA": {
         "en-US": "[Shez]\nI thought that trial back then was quite a stretch for a human, and now you're an Archmage!\nThat's amazing, isn't it?",
-        "pt-BR": "[Shez]\nNaquela época, achei que o teste fosse bem difícil para um humano, e agora você é um Magus!\nIsso é incrível, né?",
+        "pt-BR": "[Shaz]\nNaquela época, achei que o teste fosse bem difícil para um humano, e agora você é um Magus!\nIsso é incrível, né?",
         "es-ES": "[Shez]\nYa en ese entonces pensé que el examen era bastante difícil para un humano, ¡y ahora eres un Archimago!\n¡Qué increíble!"
     },
     "X7pfDA": {
         "en-US": "[Shez]\nWelcome!\nHow's your elemental summoning coming along?",
-        "pt-BR": "[Shez]\nSeja bem-vindo!\nA invocação de espíritos está indo bem?",
+        "pt-BR": "[Shaz]\nBoas-vindas!\nA invocação de espíritos elementais está indo bem?",
         "es-ES": "[Shez]\nBienvenido~\n¿Te está yendo bien con la invocación de espíritus?"
     },
     "YLpfDA": {
         "en-US": "[Shez]\nSummoning spirits requires affinity more than magic power, so get along well with the spirits.",
-        "pt-BR": "[Shez]\nComo a afinidade é mais importante do que a magia na invocação de espíritos, tente se dar bem com eles.",
+        "pt-BR": "[Shaz]\nComo a afinidade é mais importante do que a magia na invocação de espíritos elementais, tente se dar bem com eles.",
         "es-ES": "[Shez]\nPara invocar espíritus, la afinidad es más importante que la magia, así que hazte amigo de ellos~"
     },
     "YbpfDA": {
         "en-US": "[Shez]\nHello.\nThis is the Mana Spring.",
-        "pt-BR": "[Shez]\nOlá.\nEsta é a Fonte de Magia.",
+        "pt-BR": "[Shaz]\nOlá.\nEsta é a Fonte de Magia.",
         "es-ES": "[Shez]\nHola.\nAquí está el manantial de magia."
     },
     "YrpfDA": {
         "en-US": "Ivane",
-        "pt-BR": "Ivein",
+        "pt-BR": "Ebein",
         "es-ES": "Ivein"
     },
     "Y7pfDA": {
         "en-US": "[Ivein]\nOh my!\n{0}!!\nTo see you become an Archmage!!\nI'm so moved!!!",
-        "pt-BR": "[Ivein]\nNossa!\n{0}!!\nQuem diria que eu veria você se tornar um Magus!!\nEstou emocionada!!!",
+        "pt-BR": "[Ebein]\nNossa!\n{0}!!\nQuem diria que eu veria você se tornar um Magus!!\nEstou emocionada!!!",
         "es-ES": "[Ivein]\n¡Ay!\n¡{0}!\n¡No me lo puedo creer, te has convertido en un Archimago!\n¡Estoy emocionada!"
     },
     "ZLpfDA": {
         "en-US": "[Ivein]\nAhh...\nI can see your soul burning even more beautifully.\nIt's the most radiant light.",
-        "pt-BR": "[Ivein]\nAh...\nPosso ver que sua alma resplandecendo de beleza.\nÉ a luz mais linda que existe.",
+        "pt-BR": "[Ebein]\nAh...\nPosso ver que sua alma resplandecendo de beleza.\nÉ a luz mais linda que existe.",
         "es-ES": "[Ivein]\nAh...\nSe ve que tu alma arde con más belleza.\nEs la luz más hermosa."
     },
     "ZbpfDA": {
         "en-US": "[Ivein]\nOh my!\n{0}!!\nAre you getting along well with the elementals?",
-        "pt-BR": "[Ivein]\nNossa!\n{0}!!\nVocê está se dando bem com os espíritos?",
+        "pt-BR": "[Ebein]\nNossa!\n{0}!!\nVocê está se dando bem com os espíritos elementais?",
         "es-ES": "[Ivein]\n¡Ay!\n¡{0}!\n¿Te llevas bien con los espíritus?"
     },
     "ZrpfDA": {
         "en-US": "[Ivein]\nAhh...\nThe spirits' singing reaches me before your reply, {0}.\nHeheh.",
-        "pt-BR": "[Ivein]\nAh...\nAntes mesmo da sua resposta, já ouço o canto dos espíritos.\nHuhuhu.",
+        "pt-BR": "[Ebein]\nAh...\nAntes mesmo da sua resposta, já ouço o canto dos elementos.\nHuhuhu.",
         "es-ES": "[Ivein]\nAy...\nAntes de que {0} respondas, ya escucho el canto de los espíritus.\nJejeje."
     },
     "Z7pfDA": {
         "en-US": "[Evein]\nHello.\nThis is the Well of Magic.",
-        "pt-BR": "[Ivein]\nOlá.\nAqui é a Fonte de Magia.",
+        "pt-BR": "[Ebein]\nOlá.\nAqui é a Fonte de Magia.",
         "es-ES": "[Ivein]\nHola.\nAquí está el manantial de magia."
     }
 }

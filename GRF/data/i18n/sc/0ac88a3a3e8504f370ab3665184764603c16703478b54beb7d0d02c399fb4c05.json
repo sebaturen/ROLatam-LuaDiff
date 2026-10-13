@@ -1,7 +1,7 @@
 {
     "4HI2Aw": {
         "en-US": "Scroll Merchant",
-        "pt-BR": "Mercador de Pergaminhos",
+        "pt-BR": "Mercadora de Pergaminhos",
         "es-ES": "Vendedor de Pergaminos"
     },
     "4XI2Aw": {
@@ -15,9 +15,9 @@
         "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "43I2Aw": {
-        "en-US": "[Mishuna] \nHello. I am Sage Mishuna, affiliated with the University of Schwerzeirvil. What brings you here?",
-        "pt-BR": "[Mishuna] \nOlá. Eu sou a Sage Mishuna, da Universidade de Schwerzeirvil. Com que objetivo você veio?",
-        "es-ES": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schwerzeirvil. ¿Con qué motivo habéis venido?"
+        "en-US": "[Mishuna] \nHello. I am Sage Mishuna, affiliated with the University of Schweicherwil. What brings you here?",
+        "pt-BR": "[Mishuna] \nOlá. Eu sou o sábio Mishuna, da Universidade de Schweicherwil. Com que objetivo você veio?",
+        "es-ES": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schweicherwil. ¿Con qué motivo habéis venido?"
     },
     "5HI2Aw": {
         "en-US": "I came to obtain new knowledge.",
@@ -26,7 +26,7 @@
     },
     "5XI2Aw": {
         "en-US": "[Mishuna] \nAh, so you’re Sage {0}. I was looking for you as it happens. The Association is searching for the new knowledge of Grand Sage Varmunt, who was lost in the past, and spreading it among the sages.",
-        "pt-BR": "[Mishuna] \nAh, então o senhor é o Sage {0}. Eu já estava procurando por você. A Associação está encontrando os novos conhecimentos do Grande Sábio Varmunt, que se perderam no passado, e está transmitindo aos sages.",
+        "pt-BR": "[Mishuna] \nAh, então você é {0}. Eu já estava procurando por você. A Associação está encontrando os novos conhecimentos do Grande Sábio Varmunt, que se perderam no passado, e está transmitindo aos sábios.",
         "es-ES": "[Mishuna] \nAh, así que sois el Sage {0}. Precisamente os estaba buscando. La Asociación está investigando el nuevo conocimiento del Gran Sabio Varmunt, que se perdió en el pasado, y lo está difundiendo entre los sabios."
     },
     "5nI2Aw": {
@@ -36,7 +36,7 @@
     },
     "53I2Aw": {
         "en-US": "[Mishuna] \nIt’s exactly the ^FF0000Elemental Change^000000 skill, which converts a monster’s attribute into one of the four elements, and the ^FF0000Converter Manufacturing^000000 skill, which manufactures the elemental converters needed to use ^FF0000Elemental Change^000000.",
-        "pt-BR": "[Mishuna] \nSão exatamente as habilidades ^FF0000Mudança Elemental^000000, que converte o atributo dos monstros nos quatro atributos, e ^FF0000Fabricação de Conversores^000000, que fabrica os conversores elementais necessários para usar ^FF0000Mudança Elemental^000000.",
+        "pt-BR": "[Mishuna] \nSão exatamente as habilidades ^FF0000Mudança Elemental^000000, que converte o atributo dos monstros nos quatro atributos, e ^FF0000Criar Conversor Elemental^000000, que fabrica os conversores elementais necessários para usar na ^FF0000Mudança Elemental^000000.",
         "es-ES": "[Mishuna] \nSe trata de la habilidad ^FF0000Cambio Elemental^000000, que convierte el atributo del monstruo en los cuatro atributos principales, y de la habilidad ^FF0000Fabricación de Convertidores^000000, que fabrica los convertidores elementales necesarios para usar ^FF0000Cambio Elemental^000000."
     },
     "6HI2Aw": {
@@ -46,7 +46,7 @@
     },
     "6XI2Aw": {
         "en-US": "[Mishuna] \nSo... are you ready to learn this new knowledge?",
-        "pt-BR": "[Mishuna] \nEntão... você está pronto para aprender esses novos conhecimentos?",
+        "pt-BR": "[Mishuna] \nEntão... você quer aprender esses novos conhecimentos?",
         "es-ES": "[Mishuna] \nAsí que... ¿estáis listos para aprender este nuevo conocimiento?"
     },
     "6nI2Aw": {
@@ -56,7 +56,7 @@
     },
     "63I2Aw": {
         "en-US": "Yes. Please teach me the new knowledge.",
-        "pt-BR": "Sim. Por favor, me ensine os novos conhecimentos.",
+        "pt-BR": "Sim. Por favor, me ensine.",
         "es-ES": "Sí. Por favor, enséñame ese nuevo conocimiento."
     },
     "7HI2Aw": {
@@ -66,7 +66,7 @@
     },
     "7XI2Aw": {
         "en-US": "[Mishuna] \nFirst, what you must learn is the ^FF0000Converter Manufacturing^000000 skill, which is needed to use the Elemental Change skill. Without an elemental converter, you can’t use ^FF0000Elemental Change^000000 either—so this is an absolutely necessary skill.",
-        "pt-BR": "[Mishuna] \nPrimeiro, o que você precisa aprender é a habilidade ^FF0000Fabricação de Conversores^000000, necessária para usar a habilidade ^FF0000Mudança Elemental^000000. Sem um conversor elemental, você nem consegue usar ^FF0000Mudança Elemental^000000. Por isso, é uma habilidade indispensável.",
+        "pt-BR": "[Mishuna] \nPrimeiro, o que você precisa aprender é a habilidade ^FF0000Criar Conversor Elemental^000000, necessária para usar a habilidade ^FF0000Mudança Elemental^000000. Sem um conversor elemental, você nem consegue usar ^FF0000Mudança Elemental^000000. Por isso, é uma habilidade indispensável.",
         "es-ES": "[Mishuna] \nLo primero que debéis aprender es la habilidad ^FF0000Fabricación de Convertidores^000000, necesaria para usar la habilidad ^FF0000Cambio Elemental^000000. Como sin convertidores elementales no podréis usar ^FF0000Cambio Elemental^000000 tampoco, es una habilidad imprescindible."
     },
     "7nI2Aw": {
@@ -76,7 +76,7 @@
     },
     "73I2Aw": {
         "en-US": "[Mishuna] \n^FF000010 Scorpion Tails^000000\n^FF00007 Hard Horns^000000\n^FF000012 Multicolored Back Shells^000000\n^FF000010 Snail Shells^000000\n^FF00004 Empty Scrolls^000000",
-        "pt-BR": "[Mishuna] \n^FF000010 Caudas de Escorpião^000000\n^FF00007 Chifres Duros^000000\n^FF000012 Capas/Casquinhas Coloridas das Costas^000000\n^FF000010 Casquilhos de Caracol^000000\n^FF00004 Pergaminhos Vazios^000000",
+        "pt-BR": "[Mishuna] \n^FF000010 Caudas de Escorpião^000000\n^FF00007 Chifres^000000\n^FF000012 Cascos Arco-íris^000000\n^FF000010 Cascos de Caramujo^000000\n^FF00004 Pergaminho em Branco^000000",
         "es-ES": "[Mishuna] \n^FF000010 Colas de Escorpión^000000\n^FF00007 Cuernos Duros^000000\n^FF000012 Caparazones de Espalda Multicolor^000000\n^FF000010 Caparazones de Caracol^000000\n^FF00004 Pergaminos Vacíos^000000"
     },
     "8HI2Aw": {
@@ -91,7 +91,7 @@
     },
     "8nI2Aw": {
         "en-US": "[Mishuna] \nIf you obtain these materials and bring them to me, I’ll teach you the ^FF0000Converter Manufacturing^000000 skill.",
-        "pt-BR": "[Mishuna] \nSe você conseguir esses materiais e trouxer até mim, eu vou te ensinar a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "pt-BR": "[Mishuna] \nSe você conseguir esses materiais e trouxer até mim, eu vou te ensinar a habilidade ^FF0000Criar Conversor Elemental^000000.",
         "es-ES": "[Mishuna] \nSi conseguís estos materiales y me los traéis, os enseñaré la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "83I2Aw": {
@@ -106,17 +106,17 @@
     },
     "9XI2Aw": {
         "en-US": "[Mishuna] \nBut if materials alone were enough to make it, then not only sages—any passing kid could make it if they knew the method, right? What’s needed here are the sage’s unique attribute abilities.",
-        "pt-BR": "[Mishuna] \nMas se fosse só ter os materiais para fabricar, não só sages—até qualquer criança que passa por aqui poderia fazer se soubesse o método, certo? O que é necessário aqui são as habilidades de atributo únicas do sage.",
+        "pt-BR": "[Mishuna] \nMas se fosse só ter os materiais para fabricar, não só sábios: até qualquer criança que passa por aqui poderia fazer se soubesse o método, certo? O que é necessário aqui são as habilidades de atributo únicas do Sábio.",
         "es-ES": "[Mishuna] \nPero si con solo materiales se pudiera fabricar, no solo los sabios—hasta un niño cualquiera podría hacerlo si supiera el método, ¿no? Lo que se necesita aquí son las habilidades de atributo únicas del sabio."
     },
     "9nI2Aw": {
         "en-US": "[Mishuna] \nTo make a Fire-element converter, you need the ^FF0000Frame Launcher^000000 skill. And to make a sustaining/continual converter, you need the ^FF0000Siezmic Weapon^000000 skill.",
-        "pt-BR": "[Mishuna] \nPara fabricar um conversor de Fogo, é necessário o ^FF0000Frame Launcher^000000. E para fabricar um conversor de continuidade/persistência, você precisa do ^FF0000Siezmic Weapon^000000.",
+        "pt-BR": "[Mishuna] \nPara fabricar um conversor de Fogo, é necessário ter ^FF0000Encantar com Chama^000000. E para fabricar um conversor de Terra, você precisa do ^FF0000Encantar com Terremoto^000000.",
         "es-ES": "[Mishuna] \nPara fabricar un convertidor de Fuego, necesitas la habilidad ^FF0000Frame Launcher^000000. Y para crear un convertidor de persistencia/continuidad, necesitas la habilidad ^FF0000Siezmic Weapon^000000."
     },
     "93I2Aw": {
         "en-US": "[Mishuna] \nLikewise, to make a Wind-element converter, you need the ^FF0000Lightning Loader^000000 skill; and to make a Water-element converter, you need the ^FF0000Frost Weapon^000000 skill.",
-        "pt-BR": "[Mishuna] \nDo mesmo modo, para fabricar um conversor de Vento, você precisa do ^FF0000Lightning Loader^000000; e para fabricar um conversor de Água, precisa do ^FF0000Frost Weapon^000000.",
+        "pt-BR": "[Mishuna] \nDo mesmo modo, para fabricar um conversor de Vento, você precisa do ^FF0000Encantar com Ventania^000000; e para fabricar um conversor de Água, precisa do ^FF0000Encantar com Geada^000000.",
         "es-ES": "[Mishuna] \nDel mismo modo, para un convertidor de Viento necesitas ^FF0000Lightning Loader^000000 y para uno de Agua necesitas ^FF0000Frost Weapon^000000."
     },
     "+HI2Aw": {
@@ -126,17 +126,17 @@
     },
     "+XI2Aw": {
         "en-US": "[Mishuna] \nNow, this is the knowledge left behind by Grand Sage Varmunt. Read it and learn the skill.",
-        "pt-BR": "[Mishuna] \nAhora, isto es el conocimiento que dejó el Gran Sabio Varmunt. Leiamlo y aprenda la habilidad.",
+        "pt-BR": "[Mishuna] \nAgora, este é o conhecimento deixado pelo Grande Sábio Varmunt. Leia-o e aprenda a habilidade.",
         "es-ES": "[Mishuna] \nAhora, este es el conocimiento que dejó el Gran Sabio Varmunt. Leedlo y aprended la habilidad."
     },
     "+nI2Aw": {
         "en-US": "- By reading a copy of the scroll said to have been left by Grand Sage Varmunt, you learned the ^FF0000Converter Manufacturing^000000 skill. -",
-        "pt-BR": "- Ao ler uma cópia do pergaminho que dizem ter sido deixado pelo Grande Sábio Varmunt, você aprendeu a habilidade ^FF0000Fabricação de Conversores^000000. -",
+        "pt-BR": "- Ao ler uma cópia do pergaminho que dizem ter sido deixado pelo Grande Sábio Varmunt, você aprendeu a habilidade ^FF0000Criar Conversor Elemental^000000. -",
         "es-ES": "- Al leer una copia del pergamino que se dice que dejó el Gran Sabio Varmunt, conociste la habilidad ^FF0000Fabricación de Convertidores^000000. -"
     },
     "+3I2Aw": {
         "en-US": "[Mishuna] \nYou learned it at an amazing speed! The skill of Sage {0}, rumored to be talented, really was true.",
-        "pt-BR": "[Mishuna] \nVocê aprendeu em uma velocidade realmente impressionante! Afinal, a capacidade do Sage {0}, que dizem ser muito competente, era real.",
+        "pt-BR": "[Mishuna] \nVocê aprendeu em uma velocidade realmente impressionante! Afinal, a capacidade de {0}, que dizem ser muito competente, era real.",
         "es-ES": "[Mishuna] \n¡Lo habéis aprendido a una velocidad impresionante! La capacidad del Sage {0}, del que se comenta que es muy competente, era verdad."
     },
     "/HI2Aw": {
@@ -151,7 +151,7 @@
     },
     "/nI2Aw": {
         "en-US": "- Upon reuniting with Mishuna, you remembered the ^FF0000Converter Manufacturing^000000 skill you’d forgotten! -",
-        "pt-BR": "- Com o reencontro com Mishuna, você lembrou a habilidade ^FF0000Fabricação de Conversores^000000 que havia esquecido! -",
+        "pt-BR": "- Com o reencontro com Mishuna, você lembrou a habilidade ^FF0000Criar Conversor Elemental^000000 que havia esquecido! -",
         "es-ES": "- Tras reencontraros con Mishuna, recordaste la habilidad ^FF0000Fabricación de Convertidores^000000 que tenías olvidada. -"
     },
     "/3I2Aw": {
@@ -161,7 +161,7 @@
     },
     "AHM2Aw": {
         "en-US": "[Mishuna] \nUnlike ^FF0000Converter Manufacturing^000000, which allowed you to manufacture as long as you had the corresponding attribute ability, ^FF0000Elemental Change^000000 lets you learn only one attribute.",
-        "pt-BR": "[Mishuna] \nDiferente de ^FF0000Fabricação de Conversores^000000, que permitia fabricar contanto que você tivesse a habilidade de atributo correspondente, ^FF0000Mudança Elemental^000000 só permite aprender um único atributo.",
+        "pt-BR": "[Mishuna] \nDiferente de ^FF0000Criar Conversor Elemental^000000, que permitia fabricar contanto que você tivesse a habilidade de atributo correspondente, ^FF0000Mudança Elemental^000000 só permite aprender um único atributo.",
         "es-ES": "[Mishuna] \nA diferencia de ^FF0000Fabricación de Convertidores^000000, en la que podíais fabricar con solo tener la habilidad de atributo correspondiente, ^FF0000Cambio Elemental^000000 solo permite aprender un atributo."
     },
     "AXM2Aw": {
@@ -196,17 +196,17 @@
     },
     "B3M2Aw": {
         "en-US": "[Mishuna] \nSince you don’t have the ^FF0000Frame Launcher^000000 attribute skill, you can’t learn the ^FF0000Fire-Elemental Change^000000 skill. Please choose a different attribute.",
-        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Frame Launcher^000000, não pode aprender a ^FF0000Mudança Elemental de Fogo^000000. Escolha outro atributo.",
+        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Encantar com Chama^000000, não pode aprender a ^FF0000Mudança Elemental de Fogo^000000. Escolha outro atributo.",
         "es-ES": "[Mishuna] \nNo tenéis la habilidad de atributo ^FF0000Frame Launcher^000000, así que no podéis aprender el ^FF0000Cambio Elemental de Fuego^000000. Elegid otro atributo."
     },
     "CHM2Aw": {
         "en-US": "[Mishuna] \nYou’ve chosen the ^FF0000Fire-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
-        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Fogo^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Fogo^000000. Para encantar as capacidades desse atributo, você precisa dos seguintes materiais.",
         "es-ES": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Fuego^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "CXM2Aw": {
         "en-US": "[Mishuna] \n^FF000020 Red Bloods^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt-BR": "[Mishuna] \n^FF000020 Sangue Vermelho^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "pt-BR": "[Mishuna] \n^FF000020 Sangue Escarlate^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
         "es-ES": "[Mishuna] \n^FF000020 Sangres Rojas^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "CnM2Aw": {
@@ -216,17 +216,17 @@
     },
     "C3M2Aw": {
         "en-US": "[Mishuna] \nSince you don’t have the ^FF0000Siezmic Weapon^000000 attribute skill, you can’t learn the ^FF0000Earth-Elemental Change^000000 skill. Please choose a different attribute.",
-        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Siezmic Weapon^000000, não pode aprender a ^FF0000Mudança Elemental de Terra^000000. Escolha outro atributo.",
+        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Encantar com Terremoto^000000, não pode aprender a ^FF0000Mudança Elemental de Terra^000000. Escolha outro atributo.",
         "es-ES": "[Mishuna] \nComo no tenéis la habilidad de atributo ^FF0000Siezmic Weapon^000000, no podéis aprender el ^FF0000Cambio Elemental de Tierra^000000. Elegid otro atributo."
     },
     "DHM2Aw": {
         "en-US": "[Mishuna] \nYou’ve chosen the ^FF0000Earth-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
-        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Terra^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Terra^000000. Para encantar as capacidades desse atributo, você precisa dos seguintes materiais.",
         "es-ES": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Tierra^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "DXM2Aw": {
         "en-US": "[Mishuna] \n^FF000020 Green Lives^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt-BR": "[Mishuna] \n^FF000020 Vidas Verdes^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "pt-BR": "[Mishuna] \n^FF000020 Vida Verdejante^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
         "es-ES": "[Mishuna] \n^FF000020 Vidas Verdes^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "DnM2Aw": {
@@ -236,17 +236,17 @@
     },
     "D3M2Aw": {
         "en-US": "[Mishuna] \nSince you don’t have the ^FF0000Lightning Loader^000000 attribute skill, you can’t learn the ^FF0000Wind-Elemental Change^000000 skill. Please choose a different attribute.",
-        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Lightning Loader^000000, não pode aprender a ^FF0000Mudança Elemental de Vento^000000. Escolha outro atributo.",
+        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Encantar com Ventania^000000, não pode aprender a ^FF0000Mudança Elemental de Vento^000000. Escolha outro atributo.",
         "es-ES": "[Mishuna] \nNo tenéis la habilidad de atributo ^FF0000Lightning Loader^000000, así que no podéis aprender el ^FF0000Cambio Elemental de Viento^000000. Elegid otro atributo."
     },
     "EHM2Aw": {
         "en-US": "[Mishuna] \nYou’ve chosen the ^FF0000Wind-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
-        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Vento^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Vento^000000. Para encantar as capacidades desse atributo, você precisa dos seguintes materiais.",
         "es-ES": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Viento^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "EXM2Aw": {
         "en-US": "[Mishuna] \n^FF000020 Wind of Budeer^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt-BR": "[Mishuna] \n^FF000020 Vento de Budeer^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "pt-BR": "[Mishuna] \n^FF000020 Frescor do Vento^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
         "es-ES": "[Mishuna] \n^FF000020 Viento de Budeer^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "EnM2Aw": {
@@ -256,12 +256,12 @@
     },
     "E3M2Aw": {
         "en-US": "[Mishuna] \nSince you don’t have the ^FF0000Frost Weapon^000000 attribute skill, you can’t learn the ^FF0000Water-Elemental Change^000000 skill. Please choose a different attribute.",
-        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Frost Weapon^000000, não pode aprender a ^FF0000Mudança Elemental de Água^000000. Escolha outro atributo.",
+        "pt-BR": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Encantar com Geada^000000, não pode aprender a ^FF0000Mudança Elemental de Água^000000. Escolha outro atributo.",
         "es-ES": "[Mishuna] \nNo tenéis la habilidad de atributo ^FF0000Frost Weapon^000000, así que no podéis aprender el ^FF0000Cambio Elemental de Agua^000000. Elegid otro atributo."
     },
     "FHM2Aw": {
         "en-US": "[Mishuna] \nYou’ve chosen the ^FF0000Water-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
-        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Água^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "pt-BR": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Água^000000. Para encantar as capacidades desse atributo, você precisa dos seguintes materiais.",
         "es-ES": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Agua^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "FXM2Aw": {
@@ -291,12 +291,12 @@
     },
     "GnM2Aw": {
         "en-US": "[Mishuna] \nJust like ^FF0000Converter Manufacturing^000000, remember that the success rate depends on the caster’s ability.",
-        "pt-BR": "[Mishuna] \nAssim como em ^FF0000Fabricação de Conversores^000000, lembre-se: a taxa de sucesso varia de acordo com a capacidade do conjurador.",
+        "pt-BR": "[Mishuna] \nAssim como em ^FF0000Criar Conversor Elemental^000000, lembre-se: a taxa de sucesso varia de acordo com a capacidade do conjurador.",
         "es-ES": "[Mishuna] \nComo con ^FF0000Fabricación de Convertidores^000000, recordad que la tasa de éxito varía según la capacidad del invocador."
     },
     "G3M2Aw": {
         "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Fire-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Fogo^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Fogo^000000 em {0}. Por um momento, não mexa o corpo.",
         "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Fuego^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "HHM2Aw": {
@@ -321,12 +321,12 @@
     },
     "IHM2Aw": {
         "en-US": "[Mishuna] \nThe Fire-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
-        "pt-BR": "[Mishuna] \nA habilidade de elemento Fogo foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "pt-BR": "[Mishuna] \nA habilidade de elemento Fogo foi aprendida por {0}. Espero que a utilize bem no futuro. Até logo~!",
         "es-ES": "[Mishuna] \nLa habilidad de elemento Fuego ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "IXM2Aw": {
         "en-US": "[Mishuna] \n^FF000020 Green Lives^000000 \n^FF00001 Payon Solution^000000 \n^FF00001 Morroc Solution^000000",
-        "pt-BR": "[Mishuna] \n^FF000020 Vidas Verdes^000000 \n^FF00001 Solução de Payon^000000 \n^FF00001 Solução de Morroc^000000",
+        "pt-BR": "[Mishuna] \n^FF000020 Vidas Verdejantes^000000 \n^FF00001 Solução de Payon^000000 \n^FF00001 Solução de Morroc^000000",
         "es-ES": "[Mishuna] \n^FF000020 Vidas Verdes^000000 \n^FF00001 Solución de Payon^000000 \n^FF00001 Solución de Morroc^000000"
     },
     "InM2Aw": {
@@ -336,12 +336,12 @@
     },
     "I3M2Aw": {
         "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Earth-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Terra^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Terra^000000 em {0}. Por um momento, não mexa o corpo.",
         "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Tierra^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "JHM2Aw": {
         "en-US": "[Mishuna] \nThe Earth-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
-        "pt-BR": "[Mishuna] \nA habilidade de elemento Terra foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "pt-BR": "[Mishuna] \nA habilidade de elemento Terra foi aprendida por {0}. Espero que a utilize bem no futuro. Até logo~!",
         "es-ES": "[Mishuna] \nLa habilidad de elemento Tierra ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "JXM2Aw": {
@@ -351,12 +351,12 @@
     },
     "JnM2Aw": {
         "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Wind-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Vento^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Vento^000000 em {0}. Por um momento, não mexa o corpo.",
         "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Viento^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "J3M2Aw": {
         "en-US": "[Mishuna] \nThe Wind-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
-        "pt-BR": "[Mishuna] \nA habilidade de elemento Vento foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "pt-BR": "[Mishuna] \nA habilidade de elemento Vento foi aprendida por {0}. Espero que a utilize bem no futuro. Até logo~!",
         "es-ES": "[Mishuna] \nLa habilidad de elemento Viento ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "KHM2Aw": {
@@ -366,12 +366,12 @@
     },
     "KXM2Aw": {
         "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Water-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Água^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Água^000000 em {0}. Por um momento, não mexa o corpo.",
         "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Agua^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "KnM2Aw": {
         "en-US": "[Mishuna] \nThe Water-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
-        "pt-BR": "[Mishuna] \nA habilidade de elemento Água foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "pt-BR": "[Mishuna] \nA habilidade de elemento Água foi aprendida por {0}. Espero que a utilize bem no futuro. Até logo~!",
         "es-ES": "[Mishuna] \nLa habilidad de elemento Agua ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "K3M2Aw": {
@@ -391,7 +391,7 @@
     },
     "LnM2Aw": {
         "en-US": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Fire-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
-        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Fogo^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Fogo^000000 e a habilidade ^FF0000Criar Conversor Elemental^000000.",
         "es-ES": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Fuego^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "L3M2Aw": {
@@ -406,22 +406,22 @@
     },
     "MXM2Aw": {
         "en-US": "[Mishuna] \nAs expected—you remembered it quickly. I hope you’ll use it effectively from now on. Farewell~!",
-        "pt-BR": "[Mishuna] \nComo eu esperava—você lembrou rápido. Espero que a utilize bem no futuro. Até logo~!",
+        "pt-BR": "[Mishuna] \nComo eu esperava! Você lembrou rápido. Espero que a utilize bem no futuro. Até logo~!",
         "es-ES": "[Mishuna] \nComo era de esperar—lo recordaste rápido. Espero que lo uses bien a partir de ahora. ¡Hasta luego~!"
     },
     "MnM2Aw": {
         "en-US": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Earth-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
-        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Terra^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Terra^000000 e a habilidade ^FF0000Criar Conversor Elemental^000000.",
         "es-ES": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Tierra^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "M3M2Aw": {
         "en-US": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Wind-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
-        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Vento^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Vento^000000 e a habilidade ^FF0000Criar Conversor Elemental^000000.",
         "es-ES": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Viento^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "NHM2Aw": {
         "en-US": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Water-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
-        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Água^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "pt-BR": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Água^000000 e a habilidade ^FF0000Criar Conversor Elemental^000000.",
         "es-ES": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Agua^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "NXM2Aw": {
@@ -456,18 +456,18 @@
     },
     "O3M2Aw": {
         "en-US": "- When the incantation ended, the memory of the ^FF0000Converter Manufacturing^000000 skill you used back then returned. -",
-        "pt-BR": "- Assim que o encantamento terminou, a lembrança da habilidade ^FF0000Fabricação de Conversores^000000 que você usava antes voltou. -",
+        "pt-BR": "- Assim que o encantamento terminou, a lembrança da habilidade ^FF0000Criar Conversor Elemental^000000 que você usava antes voltou. -",
         "es-ES": "- Al terminar el conjuro, volvió la memoria de la habilidad ^FF0000Fabricación de Convertidores^000000 que usabas antes. -"
     },
     "PHM2Aw": {
         "en-US": "[Mishuna] \nIf there’s a Sage nearby who still hasn’t learned the new knowledge, please tell them to come visit me. And I hope you’ll make good use of the knowledge I taught you before.",
-        "pt-BR": "[Mishuna] \nSe houver algum Sage por perto que ainda não tenha aprendido os novos conhecimentos, por favor diga para ele(a) me visitar. E espero que você use bem os conhecimentos que te ensinei antes.",
+        "pt-BR": "[Mishuna] \nSe houver algum Sábio por perto que ainda não tenha aprendido os novos conhecimentos, por favor diga para ele me visitar. E espero que você use bem os conhecimentos que te ensinei antes.",
         "es-ES": "[Mishuna] \nSi hay algún Sage cerca que todavía no haya aprendido el nuevo conocimiento, dadle un recado para que venga a verme. Y deseo que aprovecheis bien los conocimientos que os enseñé antes."
     },
     "PXM2Aw": {
-        "en-US": "[Mishuna] \nHello. I’m Sage Mishuna, affiliated with the University of Schwerzeirvil. Are you... not a Sage?",
-        "pt-BR": "[Mishuna] \nOlá. Eu sou a Sage Mishuna, da Universidade de Schwerzeirvil. Você não será... um Sage?",
-        "es-ES": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schwerzeirvil. ¿No serás... un Sage?"
+        "en-US": "[Mishuna] \nHello. I’m Sage Mishuna, affiliated with the University of Schweicherwil. Are you... not a Sage?",
+        "pt-BR": "[Mishuna] \nOlá. Eu sou o Sábio Mishuna, da Universidade de Schweicherwil. Você não é... um Sábio?",
+        "es-ES": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schweicherwil. ¿No serás... un Sage?"
     },
     "PnM2Aw": {
         "en-US": "[Mishuna] \n......",
@@ -480,9 +480,9 @@
         "es-ES": "[Mishuna] \nAh, me equivoqué. Lo siento. Supongo que como acabo de empezar a trabajar aquí, me pongo nerviosa y acabo cometiendo errores."
     },
     "QHM2Aw": {
-        "en-US": "[Mishuna] \nIf there’s a Sage nearby, could you please tell them that Sage Mishuna from the University of Schwerzeirvil is looking for them?",
-        "pt-BR": "[Mishuna] \nSe tiver algum Sage por perto, poderia avisar que a Sage Mishuna, da Universidade de Schwerzeirvil, está à procura?",
-        "es-ES": "[Mishuna] \nSi hay un Sage por aquí cerca, ¿podríais decirle que la Sage Mishuna de la Universidad de Schwerzeirvil lo está buscando?"
+        "en-US": "[Mishuna] \nIf there’s a Sage nearby, could you please tell them that Sage Mishuna from the University of Schweicherwil is looking for them?",
+        "pt-BR": "[Mishuna] \nSe tiver algum Sábio por perto, poderia avisar que Mishuna, da Universidade de Schweicherwil, está à procura?",
+        "es-ES": "[Mishuna] \nSi hay un Sage por aquí cerca, ¿podríais decirle que la Sage Mishuna de la Universidad de Schweicherwil lo está buscando?"
     },
     "QXM2Aw": {
         "en-US": "[Mishuna] \nI’m truly sorry for the inconvenience. Then... have a good day!",

@@ -16,17 +16,17 @@
     },
     "gyN4DA": {
         "en-US": "[Vicente]\nIs this your first time in the Shadow Workshop?\nI'm the Lighthalzen branch manager.\nSometimes I visit other branches like this.",
-        "pt-BR": "[Vicente]\nÉ a primeira vez que vem ao Ateliê das Sombras?\nSou o gerente da filial de Lighthalzen.\nDe vez em quando, faço visitas a outras filiais assim.",
+        "pt-BR": "[Vicente]\nÉ a primeira vez que vem ao Ateliê Sombrio?\nSou o gerente da filial de Lighthalzen.\nDe vez em quando, faço visitas a outras filiais.",
         "es-ES": "[Vicente]\n¿Es tu primera vez en el Taller de las Sombras?\nSoy el gerente de la sucursal de Richthausen.\nDe vez en cuando visito otras sucursales como esta."
     },
     "hCN4DA": {
         "en-US": "[Vicente]\nLong time no see.\nIt seems you haven't reached your limits yet.\nWhen you hit a wall and feel you can't grow any further, come find me.",
-        "pt-BR": "[Vicente]\nHá quanto tempo não nos vemos.\nParece que você ainda não atingiu seu limite.\nQuando chegar o dia em que você se deparar com um obstáculo e achar que não consegue mais evoluir, venha me procurar.",
+        "pt-BR": "[Vicente]\nHá quanto tempo não nos vemos.\nParece que você ainda não atingiu seu limite.\nQuando chegar o dia certo, venha me procurar.",
         "es-ES": "[Vicente]\nHace tiempo que no nos veíamos.\nParece que aún no sientes tus límites.\nCuando algún día te topes con un muro y sientas que ya no puedes crecer más, ven a buscarme."
     },
     "hSN4DA": {
         "en-US": "^4D4DFF There is a test event for the 4th Job Abyss Chaser.\nBase Level 200 or above, Transcendent Shadow Chasers can take the test.^000000",
-        "pt-BR": "^4D4DFF Está acontecendo um teste para a 4ª classe, Mandraque.\nVocê poderá participar se for um Renegado com nível de base 200 ou mais.^000000",
+        "pt-BR": "^4D4DFFPara fazer o teste da mudança de classe,\nVocê deve ser um Renegado com nível de base 200 ou mais.^000000",
         "es-ES": "^4D4DFF Hay un evento de prueba para la cuarta clase, Perseguidor Abisal.\nPuedes participar si tienes un nivel base de 200 o más y eres un Shadow Chaser heredado.^000000"
     },
     "hiN4DA": {
@@ -36,7 +36,7 @@
     },
     "hyN4DA": {
         "en-US": "[Vicente]\nHaven't you been feeling a bit stifled lately?\nYou know, like wanting to get stronger or get your hands on some new power.",
-        "pt-BR": "[Vicente]\nVocê tem se sentido um pouco frustrado ultimamente?\nComo se quisesse mais força ou poder para continuar evoluindo.",
+        "pt-BR": "[Vicente]\nVocê tem sentido uma certa frustração ultimamente?\nComo se quisesse mais força ou poder para continuar evoluindo.",
         "es-ES": "[Vicente]\n¿No te sientes un poco estancado últimamente?\nYa sabes, como ganas de ser más fuerte o de conseguir nuevos poderes."
     },
     "iCN4DA": {
@@ -46,17 +46,17 @@
     },
     "iSN4DA": {
         "en-US": "The Dark Elemental?",
-        "pt-BR": "O Elemental Sombrio?",
+        "pt-BR": "Elemental Sombrio?",
         "es-ES": "¿Los espíritus de la oscuridad?"
     },
     "iiN4DA": {
         "en-US": "[Vicente]\nYou look like you've never heard of it. I suppose you haven't.\nQuite some time ago, a member of the Assassin Guild encountered the dark elemental and acquired its power.\nHave you seen her, Miss Mayssel?",
-        "pt-BR": "[Vicente]\nPela tua cara, parece que nunca ouviu falar. É de se esperar.\nHá bastante tempo, alguém da Guilda dos Mercenários encontrou o Elemental Sombrio e conseguiu esse poder.\nVocê já a conheceu, a senhorita Mayssel?",
+        "pt-BR": "[Vicente]\nPela sua cara, parece que nunca ouviu falar. É de se esperar.\nHá bastante tempo, alguém da Guilda dos Sicários encontrou o Elemental Sombrio e conseguiu o poder do Abismo.\nVocê já a conheceu. Lembra da senhorita Mayssel?",
         "es-ES": "[Vicente]\nVaya, se te nota que no has oído hablar de ellos. Es normal.\nHace bastante tiempo, alguien del Gremio de Asesinos se encontró con un espíritu de la oscuridad y obtuvo su poder.\n¿Lo has visto alguna vez? Meisel."
     },
     "iyN4DA": {
         "en-US": "[Vicente]\nAnyway, it seems that once you get your hands on the power of darkness, you gain some pretty unique abilities.\nSo, the Assassin and Rogue Guilds have agreed to share information about this elemental whenever possible.",
-        "pt-BR": "[Vicente]\nDe qualquer forma, parece que, ao obter o poder das trevas, a pessoa passa a possuir habilidades bastante especiais.\nPor isso, a Guilda dos Mercenários e a Guilda dos Arruaceiros combinaram que, assim que obtivessem informações sobre esse Elemental, elas seriam compartilhadas.",
+        "pt-BR": "[Vicente]\nDe qualquer forma, parece que, ao obter o poder do Abismo, a pessoa passa a ter habilidades bastante especiais.\nPor isso, a Guilda dos Sicários e a Guilda dos Renegados combinaram que, assim que obtivessem informações sobre esse Elemental, elas seriam compartilhadas.",
         "es-ES": "[Vicente]\nEn fin, parece que al hacerse con el poder de la oscuridad, uno adquiere habilidades bastante especiales.\nPor eso, el Gremio de Asesinos y el Gremio de Ladrones acordaron compartir cualquier información que obtuvieran sobre el espíritu de la oscuridad, sin importar cuándo fuera."
     },
     "jCN4DA": {
@@ -66,27 +66,27 @@
     },
     "jSN4DA": {
         "en-US": "What does it have to do with me?",
-        "pt-BR": "E o que isso tem a ver comigo?",
+        "pt-BR": "E o que tenho a ver?",
         "es-ES": "¿Y eso qué tiene que ver conmigo?"
     },
     "jiN4DA": {
         "en-US": "[Vicente]\nIt matters. It matters a lot. Because from now on, you'll go try to acquire its power.\nBoth Doomk and I believe in giving more opportunities to more capable guild members.",
-        "pt-BR": "[Vicente]\nTem muito a ver! Pois é, a partir de agora vamos atrás desse Poder das Trevas.\nTanto o senhor Dumk quanto eu temos a política de dar uma chance aos membros da guilda que têm potencial.",
+        "pt-BR": "[Vicente]\nTem muito a ver! Pois é, a partir de agora vamos atrás desse Poder do Abismo.\nTanto o senhor Dumk quanto eu temos a política de dar uma chance aos membros da guilda que têm potencial.",
         "es-ES": "[Vicente]\nClaro que tiene que ver. Muchísimo. Porque ahora mismo vamos a ir a conseguir ese poder de la oscuridad.\nTanto el señor Dumk como yo tenemos la política de darle una oportunidad a cualquier miembro del gremio que tenga el potencial."
     },
     "jyN4DA": {
         "en-US": "[Vicente]\nIt took us a long time to pick one,\nwhich is you.\nYou should go. Acquiring the power of the dark elemental will benefit you in more ways than you can imagine.",
-        "pt-BR": "[Vicente]\nSelecionei com bastante cuidado.\nOu seja, você.\nEntão vamos lá. Se conseguirmos o poder das trevas, isso só vai te trazer benefícios, não vai te prejudicar.",
+        "pt-BR": "[Vicente]\nSelecionei com bastante cuidado.\nOu seja, você.\nEntão vamos lá. Se conseguirmos o poder do abismo, isso só vai te trazer benefícios, não vai te prejudicar.",
         "es-ES": "[Vicente]\nTe seleccioné después de pensarlo mucho.\nMe refiero a ti.\nAsí que vamos. Si conseguimos el poder de la oscuridad, te beneficiará, no te perjudicará."
     },
     "kCN4DA": {
         "en-US": "[Vicente]\nI've received some brief information about the dark elemental. Its traces have been found in two different locations.",
-        "pt-BR": "[Vicente]\nRecebi informações gerais sobre o espírito das trevas, mas há dois locais onde foram encontrados vestígios dele.",
+        "pt-BR": "[Vicente]\nRecebi informações gerais sobre o Elemental Sombrio, mas há dois locais onde foram encontrados vestígios dele.",
         "es-ES": "[Vicente]\nMe han pasado información general sobre el espíritu de la oscuridad, pero es que se han encontrado rastros de él en dos lugares distintos."
     },
     "kSN4DA": {
         "en-US": "[Vicente]\nThe Assassin Guild will investigate one of them. We'll investigate the trace found on Rachel's side.",
-        "pt-BR": "[Vicente]\nDecidimos que a Guilda dos Mercenários investigaria um deles, e nós ficaríamos com o vestígio encontrado em Rachel.",
+        "pt-BR": "[Vicente]\nDecidimos que a Guilda dos Sicários investigaria um deles, e nós ficaríamos com o vestígio encontrado em Rachel.",
         "es-ES": "[Vicente]\nHemos decidido que el Gremio de Asesinos investigue uno de ellos, y nosotros nos encargaremos del rastro que se encontró por el lado de Rahel."
     },
     "kiN4DA": {
@@ -96,27 +96,27 @@
     },
     "kyN4DA": {
         "en-US": "[Vicente]\nAccording to Mayssel, the dark elemental has a soft spot for humans who are kind to them.\nSure, it'll make things easier if you can also check Rachel.",
-        "pt-BR": "[Vicente]\nSegundo a senhorita Mayssel, o Elemental Sombrio é, de certa forma, sensível com humanos que são gentis com ele.\nSe você se oferecer para investigar Rachel, vai nos ajudar muito!",
+        "pt-BR": "[Vicente]\nSegundo a senhorita Mayssel, o Elemental Sombrio é, de certa forma, sensível com humanos que são gentis com ele.\nSe você se oferecer para investigar em Rachel, vai nos ajudar muito!",
         "es-ES": "[Vicente]\nSegún lo que dice la señorita Meisel, el espíritu de la oscuridad es bastante sensible y trata bien a los humanos que le han mostrado amabilidad.\nSi te encargas desde el principio, las cosas serán más fáciles."
     },
     "lCN4DA": {
         "en-US": "[Vicente]\nIf you successfully acquire the dark power, we'll grant you the new rank ^4D4DFFAbyss Chaser^000000.",
-        "pt-BR": "[Vicente]\nSe você conseguir obter o poder das trevas com sucesso, criaremos uma nova classificação chamada ^4D4DFFMandraque^000000.",
+        "pt-BR": "[Vicente]\nSe você conseguir obter o Poder do Abismo com sucesso, criaremos uma nova classe chamada ^4D4DFFMandraque^000000.",
         "es-ES": "[Vicente]\nSi consigues hacerte con el poder de la oscuridad, tenemos previsto crear un nuevo rango llamado ^4D4DFFPerseguidor Abisal^000000."
     },
     "lSN4DA": {
         "en-US": "Abyss Chaser!",
-        "pt-BR": "Mandraque!",
+        "pt-BR": "Mandraque?!",
         "es-ES": "¡Perseguidor Abisal!"
     },
     "liN4DA": {
         "en-US": "[Vicente]\nThat's right. Doomk has already gone to craft your new uniform. In the meantime, we should gather information and look for the dark elemental.",
-        "pt-BR": "[Vicente]\nIsso mesmo. O senhor Dumk já foi preparar o traje. Enquanto isso, vamos coletar informações e procurar pelo espírito das trevas.",
+        "pt-BR": "[Vicente]\nIsso mesmo. O senhor Dumk já foi preparar os novos uniformes. Enquanto isso, vamos coletar informações e procurar pelo Elemental Sombrio.",
         "es-ES": "[Vicente]\nSí. Dumk ya se fue a confeccionar el traje. Mientras tanto, nosotros recabamos información y buscamos al espíritu de la oscuridad."
     },
     "lyN4DA": {
         "en-US": "[Vicente]\nThe dark elemental can't hide from innocent souls like children.\nSomeone in Rachel has seen them.\nPlease go talk to this girl, ^4D4DFFJulie^000000, in the ^4D4DFFmarket district on the southwest side^000000.",
-        "pt-BR": "[Vicente]\nDizem que o espírito das trevas costuma aparecer para crianças inocentes.\nTemos relatos de avistamentos em Rachel.\nPor favor, vá até o ^4D4DFFbeco do mercado sudoeste^000000 e conversa com uma menina chamada ^4D4DFFJulie^000000.",
+        "pt-BR": "[Vicente]\nDizem que o Elemental Sombrio costuma aparecer para crianças inocentes.\nTemos relatos de avistamentos em Rachel.\nPor favor, vá até o ^4D4DFFbeco ao sul^000000 e converse com uma menina chamada ^4D4DFFJulie^000000.",
         "es-ES": "[Vicente]\nDicen que el espíritu de la oscuridad se le aparece a los niños inocentes.\nHay un avistamiento en Rahel.\nVe al ^4D4DFFcallejón del mercado del suroeste^000000 y habla con una niña llamada ^4D4DFFJulie^000000."
     },
     "mCN4DA": {
@@ -126,52 +126,52 @@
     },
     "mSN4DA": {
         "en-US": "[Vicente]\nOoh. So you heard the voice of a shadow that the kids called a fairy.\nSo, the Assassin Guild's information was correct.",
-        "pt-BR": "[Vicente]\nUau. Então você ouviu a voz da sombra que as crianças chamam de fada.\nA informação fornecida pela Guilda dos Mercenários estava correta mesmo.",
+        "pt-BR": "[Vicente]\nUau. Então você ouviu a voz da Sombra que as crianças chamam de fada.\nA informação fornecida pela Guilda dos Sicários estava correta mesmo.",
         "es-ES": "[Vicente]\nVaya. Así que oíste la voz de una sombra a la que los niños llaman «espíritu».\nLa información que nos dio el Gremio de Asesinos era correcta, al fin y al cabo."
     },
     "miN4DA": {
         "en-US": "[Vicente]\nAn object sustained with dark energy...\nThat reminds me, the Assassin Guild said the children who discovered it for the first time were playing with a rune of darkness at that time.",
-        "pt-BR": "[Vicente]\nUm objeto que contém a energia das trevas...\nSegundo a Guilda dos Mercenários, as crianças que o encontraram pela primeira vez estavam brincando com uma runa das trevas.",
+        "pt-BR": "[Vicente]\nUm item que contém a energia das sombras...?\nSegundo a Guilda dos Sicários, as crianças que o encontraram pela primeira vez estavam brincando com um Fragmento Sombrio.",
         "es-ES": "[Vicente]\nUn objeto que contiene el poder de la oscuridad...\nBueno, en la información que compartió el Gremio de Asesinos se mencionaba que los niños que lo descubrieron por primera vez lo invocaron mientras jugaban con runas de la oscuridad."
     },
     "myN4DA": {
         "en-US": "[Vicente]\nI'll look for a dark place. You should go get objects loaded with ^4D4DFFdark energy^000000.",
-        "pt-BR": "[Vicente]\nVou procurar por um local sem luz então, enquanto isso, ^4D4DFFtraga os objetos em que o poder das trevas^000000 está condensado.",
+        "pt-BR": "[Vicente]\nVou procurar por um local sem luz então, enquanto isso, ^4D4DFFtraga Fragmentos Sombrios e Cristais da Escuridão^000000.",
         "es-ES": "[Vicente]\nYo buscaré un lugar sin luz solar, así que mientras tanto, ^4D4DFFreúne objetos en los que se haya condensado el poder de la oscuridad^000000."
     },
     "nCN4DA": {
         "en-US": "[Vicente]\nCrystals of Darkness or Dark Pieces should do, right?\nWhen you get them, please come back here.\nIn the meantime, I'll look for a place where I can secretly summon the dark elemental.",
-        "pt-BR": "[Vicente]\nCristais das Escuridão ou Fragmentos Sombrios seriam suficientes, certo?\nQuando conseguir tudo, volte aqui.\nEnquanto isso, vou procurar por um local onde seja possível invocar o espírito das trevas sem chamar atenção.",
+        "pt-BR": "[Vicente]\n5 Cristais das Escuridão e 20 Fragmentos Sombrios seriam suficientes, certo?\nQuando conseguir tudo, volte aqui.\nEnquanto isso, vou procurar por um local onde seja possível invocar o Elemental Sombrio sem chamar atenção.",
         "es-ES": "[Vicente]\n¿No bastaría con cristales de oscuridad o fragmentos de oscuridad?\nCuando los tengas todos, ven aquí.\nMientras tanto, yo buscaré en secreto un lugar donde podamos invocar al espíritu de la oscuridad."
     },
     "nSN4DA": {
         "en-US": "[Vicente]\nObjects sustained with dark energy. These should do.\nAnd about the summoning place. The Assassin Guild has provided it to us because...",
-        "pt-BR": "[Vicente]\nObjetos com o poder das trevas condensado. Parece que isso vai ser suficiente.\nE quanto ao local, a Guilda dos Mercenários já providenciou um.",
+        "pt-BR": "[Vicente]\nItens com o poder sombrio... Parece que isso vai ser suficiente.\nE quanto ao local, a Guilda dos Sicários já providenciou um.",
         "es-ES": "[Vicente]\nObjetos en los que se haya condensado el poder de la oscuridad. Con eso parece que será suficiente.\nY en cuanto al lugar, la Gilda de los Asesinos ya lo ha preparado."
     },
     "niN4DA": {
         "en-US": "[Vicente]\nTo be precise, it is a matter of cooperating to share the dark elemental...\nBut if things go well from now on, we should be able to communicate with the dark elemental on a regular basis. So there's nothing to lose.",
-        "pt-BR": "[Vicente]\nNa verdade, é mais uma cooperação para compartilhar o espírito das trevas...\nMas, se tudo der certo, poderemos interagir com o espírito das trevas regularmente, então não deve haver problema.",
+        "pt-BR": "[Vicente]\nNa verdade, é mais uma cooperação para compartilhar o poder do Elemental Sombrio...\nMas, se tudo der certo, poderemos interagir com o Elemental Sombrio regularmente, então não deve haver problema.",
         "es-ES": "[Vicente]\nPara ser exactos, se trata de una colaboración para compartir el espíritu de la oscuridad, pero...\nSi todo sale bien, podremos interactuar con el espíritu de la oscuridad de forma regular, así que no hay problema, ¿no?"
     },
     "nyN4DA": {
         "en-US": "[Vicente]\nDoomk is waiting for you at the site.\nI'll mark the location. Please go there.",
-        "pt-BR": "[Vicente]\nO senhor Dumk já deve estar lá, esperando.\nQuanto ao local, vou marcar pra você, então vá até lá.",
+        "pt-BR": "[Vicente]\nO senhor Dumk já deve estar lá, esperando você.\nQuanto ao local, vou marcar pra você, então vá até lá.",
         "es-ES": "[Vicente]\nDumk ya se habrá adelantado al lugar y te estará esperando.\nTe marcaré la ubicación por separado, así que ve por ahí."
     },
     "oCN4DA": {
         "en-US": "[Vicente]\nMe? I'll go back to my workshop, of course. Hah hah hah.\nNow, good luck.",
-        "pt-BR": "[Vicente]\nEu? Eu tenho que voltar para o Ateliê. Haha.\nEntão, boa sorte!",
+        "pt-BR": "[Vicente]\nEu? Eu tenho que ficar no Ateliê. Haha.\nEntão, boa sorte!",
         "es-ES": "[Vicente]\n¿Yo? Yo tengo que volver al taller. Jaja.\nBueno, espero que te vaya bien."
     },
     "oSN4DA": {
         "en-US": "[Vicente]\nWouldn't 5 Crystals of Darkness and about 20 Dark Pieces be enough?\nWhen you get them, please come back here.\nI'll look for a suitable place in the meantime.",
-        "pt-BR": "[Vicente]\nCinco Cristais das Escuridão e uns 20 Fragmentos Sombrios devem ser suficientes, não é?\nQuando conseguir tudo, volte aqui.\nEnquanto isso, vou procurar um local adequado.",
+        "pt-BR": "[Vicente]\n5 Cristais das Escuridão e uns 20 Fragmentos Sombrios devem ser suficientes, não é?\nQuando conseguir tudo, volte aqui.\nEnquanto isso, vou procurar um local adequado.",
         "es-ES": "[Vicente]\n¿No bastarán cinco cristales de la oscuridad y unos veinte fragmentos de la oscuridad?\nCuando los consigas todos, ven aquí.\nMientras tanto, buscaré un lugar adecuado."
     },
     "oiN4DA": {
         "en-US": "[Vicente]\nPlease go meet Doomk at the place I've marked for you.\nDon't forget to bring the dark objects with you.",
-        "pt-BR": "[Vicente]\nBasta encontrar o senhor Dumk no local que eu marquei pra você.\nE não se esqueça de levar os itens das trevas que você trouxe.",
+        "pt-BR": "[Vicente]\nBasta encontrar o senhor Dumk no local que eu marquei pra você.\nE não se esqueça de levar os itens sombrios que você trouxe.",
         "es-ES": "[Vicente]\nSolo tienes que encontrarte con el señor Dumk en el punto que te he marcado.\nY no te olvides de llevar contigo los objetos de la oscuridad que hayas conseguido."
     },
     "oyN4DA": {
@@ -181,7 +181,7 @@
     },
     "pCN4DA": {
         "en-US": "[Julie]\nThose meanies!\nIf it was so dangerous, why did they go? What about me?\nHmph, I'm going to tell on them to the grown-ups!",
-        "pt-BR": "[Julie]\nVocês são muito maus!\nFalaram que é perigoso, mas foram sozinhos e me deixaram aqui?\nHmph. Vou contar tudo para os adultos!",
+        "pt-BR": "[Julie]\nVocês são muito maus!\nFalaram que é perigoso, mas foram sozinhos e me deixaram aqui?\nHmpf. Vou contar tudo para nossos pais!",
         "es-ES": "[Julie]\nQué malos son ustedes, chicos.\n¿Me dicen que es peligroso y no me dejan ir, pero se van ustedes solos?\n¡Bah! ¡Se lo voy a contar todo a los adultos!"
     },
     "pSN4DA": {
@@ -191,17 +191,17 @@
     },
     "piN4DA": {
         "en-US": "[Julie]\nAh! A grown-up showed up just when I needed them!\nAdventurer, please help me!",
-        "pt-BR": "[Julie]\nNossa, um adulto na hora certa!\nAventureiro! Aceite meu pedido!",
+        "pt-BR": "[Julie]\nOpa, um adulto na hora certa!\nViajante! Eu te peço um favor!",
         "es-ES": "[Julie]\n¡No, qué casualidad que aparezca un adulto justo en este momento!\n¡Aventurero! ¡Acepta mi encargo!"
     },
     "pyN4DA": {
         "en-US": "[Julie]\nMy brothers! They left me behind! They went to play with Blacky!\nI don't care if a wolf takes them away!",
-        "pt-BR": "[Julie]\nSão os meus irmãos. Eles me deixaram aqui sozinha. E foram brincar com o Blacky!\nNão tô nem aí se forem atacados por um lobo!",
+        "pt-BR": "[Julie]\nSão os meus irmãos. Eles me deixaram aqui sozinha. E foram brincar com o Vultinho!\nNão tô nem aí se eles forem atacados por um Galion!",
         "es-ES": "[Julie]\nSon mis hermanos. Me dejaron sola a mí. ¡Se fueron a jugar con Kkaman!\n¡No me importa si me lleva un lobo!"
     },
     "qCN4DA": {
         "en-US": "Blacky?",
-        "pt-BR": "Blacky?",
+        "pt-BR": "Vultinho?",
         "es-ES": "¿Kkaman?"
     },
     "qSN4DA": {
@@ -211,17 +211,17 @@
     },
     "qiN4DA": {
         "en-US": "[Julie]\nThey told me not to come because it was dangerous.\nHmph. Dangerous? What's so dangerous? If we get eaten, we'll all get eaten together!",
-        "pt-BR": "[Julie]\nFalaram que era perigoso e não deixaram a Julie ir.\nHunf. Perigoso, o que tem de perigoso? Se for pra ser devorada, vamos todos juntos!",
+        "pt-BR": "[Julie]\nFalaram que era perigoso e não me deixaram ir.\nHmpf. Perigoso... o que tem de perigoso? Se for pra morrer, vamos todos morrer juntos!",
         "es-ES": "[Julie]\nDijeron que era peligroso y no dejaron que Julie fuera.\nBah. ¿Qué peligro hay? ¡Si nos comen, nos comerán a todos juntos!"
     },
     "qyN4DA": {
         "en-US": "Should I go find them?",
-        "pt-BR": "Será que eu vou dar uma olhada?",
+        "pt-BR": "Devo dar uma olhada?",
         "es-ES": "¿Voy yo?"
     },
     "rCN4DA": {
         "en-US": "[Julie]\nYes! Go punish my brothers!\nThis is Julie's punishment!",
-        "pt-BR": "[Julie]\nVai sim! Vai lá e dá uma lição nos irmãos!\nÉ a punição da Julie!",
+        "pt-BR": "[Julie]\nDeve sim! Vai lá e dá uma lição nos meus irmãos!\nDiga para eles que foi a Julie quem mandou! Eu quero que eles saibam que fui eu!",
         "es-ES": "[Julie]\n¡Sí! ¡Ve y dales una lección a los chicos!\n¡Es el castigo que te ofrece Julie!"
     },
     "rSN4DA": {
@@ -231,7 +231,7 @@
     },
     "riN4DA": {
         "en-US": "[Julie]\nSouth, the top of the hill! Where the guard post used to be!\nTell them to go home quickly.\nThey left me behind. Hmph!",
-        "pt-BR": "[Julie]\nAo sul, no alto da colina! É onde ficava o posto de vigia!\nVai lá e manda eles voltarem logo pra casa.\nÉ o castigo por terem deixado a Julie pra trás. Hunf.",
+        "pt-BR": "[Julie]\nAo sul, no alto da colina! É onde ficava o posto de vigia!\nVai lá e manda eles voltarem logo pra casa.\nÉ o castigo por terem me deixado pra trás. Hmpf.",
         "es-ES": "[Julie]\n¡Al sur, en lo alto de la colina! ¡Donde estaba el puesto de vigilancia!\nVe y diles que se vayan rápido a casa.\nEs el castigo por haberme dejado sola a mí. ¡Bah!"
     },
     "ryN4DA": {
@@ -246,22 +246,22 @@
     },
     "sSN4DA": {
         "en-US": "This is strange. Why am I feeling weaker?",
-        "pt-BR": "Que estranho. Por que estou ficando fraco?",
+        "pt-BR": "Que estranho. Por que ele está ficando fraco?",
         "es-ES": "Qué raro. ¿Por qué me siento tan sin energía?"
     },
     "siN4DA": {
         "en-US": "I can barely see it now. Blacky. Blacky?",
-        "pt-BR": "Quase não dá pra ver. Blacky. Blacky?",
+        "pt-BR": "Quase não dá pra te ver. Vultinho. Vultinho?",
         "es-ES": "Casi no te veo. Negrito. ¿Negrito?"
     },
     "syN4DA": {
         "en-US": "Maybe it doesn't like its new home that we created for it.",
-        "pt-BR": "Parece que ele não está gostando muito do nosso novo cantinho.",
+        "pt-BR": "Parece que ele não gostou do novo cantinho.",
         "es-ES": "Parece que no te gusta mucho el nuevo hogar que preparamos."
     },
     "tCN4DA": {
         "en-US": "There's nowhere around here as safe as this place. What do we do?",
-        "pt-BR": "Mas não tem outro lugar seguro como este por aqui. O que vamos fazer?",
+        "pt-BR": "Mas não tem outro lugar seguro. O que vamos fazer?",
         "es-ES": "No hay ningún lugar tan seguro como este por aquí. ¿Qué hacemos?"
     },
     "tSN4DA": {
@@ -271,7 +271,7 @@
     },
     "tiN4DA": {
         "en-US": "[Mulie]\nWah! Err, me.\nWhat's an adventurer doing here?",
-        "pt-BR": "[Mulie]\nNossa, que susto. Sou eu.\nComo um aventureiro veio parar aqui?",
+        "pt-BR": "[Mulie]\nAi, que susto! Sou eu.\nComo você veio parar aqui?",
         "es-ES": "[Muli]\n¡Ay, qué susto! Soy yo.\n¿Qué hace un aventurero por aquí?"
     },
     "tyN4DA": {
@@ -281,27 +281,27 @@
     },
     "uCN4DA": {
         "en-US": "(Whisper... Peter... We have no choice. It's a tactical retreat.)",
-        "pt-BR": "(sussurrando... Peter... Não tem jeito. É uma retirada tática)",
+        "pt-BR": "Sussurrando: Peter... vamos sair de fininho.",
         "es-ES": "(Susurrando... Peter... No hay otra opción. Es una retirada estratégica)"
     },
     "uSN4DA": {
         "en-US": "(..Got it.. We can't let them find the fairy.. Whisper)",
-        "pt-BR": "(... tá bom... não podemos deixar q ele encontre a fada... sussurro)",
+        "pt-BR": "Sussurrando: Não podemos deixar que encontrem a fada...",
         "es-ES": "(... Está bien... No podemos dejar que la hada nos descubra... susurro)"
     },
     "uiN4DA": {
         "en-US": "[Peter]\nDon't look here after we leave!\nThis is our clubhouse.\nWe were going to bring Julie here with us the next time.",
-        "pt-BR": "[Peter]\nNão olhe para cá depois que a gente for embora!\nPorque aqui é o nosso esconderijo.\nDa próxima vez, vou trazer a Julie também.",
+        "pt-BR": "[Peter]\nNão fique olhando por aí depois que a gente for embora!\nPorque aqui é o nosso esconderijo.\nDa próxima vez, vamos trazer a Julie também.",
         "es-ES": "[Peter]\n¡No mires aquí después de que nos vayamos!\nPorque este es nuestro escondite.\nLa próxima vez traeré a Julie también."
     },
     "uyN4DA": {
         "en-US": "[Mulie]\nThat's right. This is our hideout. Hmph! We'll go home now.\nYou should come with us, too!",
-        "pt-BR": "[Mulie]\nÉ isso mesmo. Aqui é o nosso esconderijo, hehe. Então, vamos embora.\nAventureiro, venha com a gente!",
+        "pt-BR": "[Mulie]\nÉ isso mesmo. Aqui é o nosso esconderijo, hehe. Então, vamos embora.\nViajante, venha com a gente!",
         "es-ES": "[Muli]\nSí. Este es nuestro escondite, je. Bueno, nos vamos.\n¡Tú también vete ya, aventurero!"
     },
     "vCN4DA": {
         "en-US": "[Mulie]\nThere's no better place for our hideout than this.\nBut the grown-ups wouldn't be happy if they find out.\nAdventurer, please keep it secret.",
-        "pt-BR": "[Mulie]\nAcho que não tem esconderijo melhor do que este.\nEmbora seja um lugar que os adultos vãos nos dar bronca se descobrirem...\nAventureiro, guarde segredo.",
+        "pt-BR": "[Mulie]\nAcho que não tem esconderijo melhor do que este.\nEmbora seja um lugar que os adultos vão nos dar bronca se descobrirem...\nViajante, guarde segredo.",
         "es-ES": "[Muli]\nNo creo que haya un escondite tan bueno como este.\nAunque está en un lugar donde los adultos nos podrían pillar y regañarnos...\nAventurero, por favor, mantén esto en secreto."
     },
     "vSN4DA": {
@@ -326,7 +326,7 @@
     },
     "wSN4DA": {
         "en-US": "Looking closely, a faint shadow shimmers and seems to crawl, accompanied by a small voice.",
-        "pt-BR": "Olhando mais de perto, parece que uma sombra está tremulando e rastejando, e ouve-se uma voz fraca.",
+        "pt-BR": "Olhando mais de perto, parece que uma sombra está tremulando e ouve-se uma voz fraca.",
         "es-ES": "Al mirar más de cerca, se oye una vocecita que parece provenir de la sombra tenue, que se agita y se arrastra."
     },
     "wiN4DA": {
@@ -336,17 +336,17 @@
     },
     "wyN4DA": {
         "en-US": "[Whisper]\nThis place is filled with--ugh!--too much sunlight...\nI need ^4D4DFFdark energy^000000.",
-        "pt-BR": "[Voz fraca]\nAqui... é... muito... a luz do sol... aah... muita luz...\nPreciso de ^4D4DFFenergia da escuridão^000000.",
+        "pt-BR": "[Voz fraca]\nAqui... é... muita... luz do sol... aah... muita luz...\nPreciso de ^4D4DFFescuridão^000000.",
         "es-ES": "[Voz débil]\nAcá... hay... demasiada... luz del sol... ¡Uf! La luz lo inunda todo.\n^4D4DFFNecesito la energía de la oscuridad^000000"
     },
     "xCN4DA": {
         "en-US": "[Whisper]\nHey, big human over there... Find an object sustained with dark energy and call me from somewhere dark.",
-        "pt-BR": "[Voz fraca]\nEi, humano grande... Encontre um objeto que tenha a energia da escuridão e me chame em um lugar onde não tenha luz.",
+        "pt-BR": "[Voz fraca]\nEi, humano... Encontre um item que tenha a energia das sombras e me invoque em um lugar onde não tenha luz.",
         "es-ES": "[Voz débil]\nOye, humano grande... Trae algo que tenga la energía de la oscuridad y llámame a un lugar donde no entre la luz."
     },
     "xSN4DA": {
         "en-US": "[Whisper]\nMeanwhile, I'm going to hide in your shadow... Aaah... I'll repay you later...",
-        "pt-BR": "[Voz fraca]\nEnquanto isso, vou me esconder em sua sombra... Aaaah... Vou retribuir mais tarde...",
+        "pt-BR": "[Voz fraca]\nEnquanto isso, vou me esconder em sua sombra... Argh... Vou retribuir mais tarde...",
         "es-ES": "[Voz débil]\nMientras tanto, me esconderé en tu sombra... Aaaah... Te lo agradeceré..."
     },
     "xiN4DA": {
@@ -356,7 +356,7 @@
     },
     "xyN4DA": {
         "en-US": "I should find an object sustained with dark energy and call the elemental from somewhere dark.",
-        "pt-BR": "Parece que vou precisar de um objeto com a energia da escuridão para invocar o espírito em um lugar sem luz.",
+        "pt-BR": "Parece que vou precisar de um item com a energia das sombras para invocar o Elemental em um lugar sem luz.",
         "es-ES": "Parece que tendré que llevar un objeto con energía oscura y llamar al espíritu en un lugar donde no entre la luz."
     },
     "yCN4DA": {
@@ -376,7 +376,7 @@
     },
     "yyN4DA": {
         "en-US": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na instância.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "zCN4DA": {
@@ -386,22 +386,22 @@
     },
     "zSN4DA": {
         "en-US": "[Doomk]\nVerkhasel will open the gate when you're ready.\nThere's no guarantee the dark elemental will do as we say. You'd better be prepared for a fight.",
-        "pt-BR": "[Dumk]\nDecidimos que, assim que Verkhasel estiver pronto, abriremos o portal.\nNão há garantia de que o espírito das trevas vá obedecer sem resistência, então é melhor se preparar para lutar.",
+        "pt-BR": "[Dumk]\nDecidimos que, assim que Verkhasel estiver pronto, abriremos o portal.\nNão há garantia de que o Elemental Sombrio vá obedecer sem resistência, então é melhor se preparar para lutar.",
         "es-ES": "[Dumk]\nAcordamos que Verkhasel nos abriría el camino cuando estuviera listo.\nNo hay garantía de que el espíritu de la oscuridad te haga caso sin más, así que tendrás que prepararte un poco para la batalla, ¿no?"
     },
     "ziN4DA": {
         "en-US": "[Doomk]\nI trust you, but if you can't trust yourself, then I'll give you some time to prepare.",
-        "pt-BR": "[Dumk]\nEu confio em você, mas se você não se sente pronto, vou te dar um tempo para se preparar.",
+        "pt-BR": "[Dumk]\nEu confio em você, mas se você acha que não está com tudo pronto, vou te dar um tempo para se preparar.",
         "es-ES": "[Dumk]\nYo confío en ti, pero si tú no confías en ti mismo, te daré tiempo para prepararte."
     },
     "zyN4DA": {
         "en-US": "Apply for the Abyssal Mansion.",
-        "pt-BR": "Inscrever na “Mansão do Abismo”.",
+        "pt-BR": "Criar “Mansão do Abismo”.",
         "es-ES": "Solicito «La mansión sumergida en el abismo»."
     },
     "0CN4DA": {
         "en-US": "Enter the Abyssal Mansion.",
-        "pt-BR": "Entrando em “Mansão do Abismo”.",
+        "pt-BR": "Entrar na “Mansão do Abismo”.",
         "es-ES": "Entras en «La mansión sumergida en el abismo»."
     },
     "0SN4DA": {
@@ -416,12 +416,12 @@
     },
     "0yN4DA": {
         "en-US": "^4D4DFFThis is a Memorial event.\nOnly party leaders can request to enter the Memorial dungeon.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nA inscrição na masmorra do Memorial deve ser feita pelo líder do grupo.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na instância.\nA inscrição na instância deve ser feita pelo líder do grupo.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.\nLa solicitud para la mazmorra de Memorial debe hacerla el líder del grupo.^000000"
     },
     "1CN4DA": {
         "en-US": "[Doomk]\nHmm, is there a problem?\nSince this isn't our jurisdiction, we have no choice but to wait.",
-        "pt-BR": "[Dumk]\nHum, há algum problema?\nComo não é da nossa alçada, acho que vamos ter que esperar mesmo.",
+        "pt-BR": "[Dumk]\nHã, você não criou a instância?\nComo não temos muito tempo, acho que você deve criar a instância.",
         "es-ES": "[Dumk]\nMmm, ¿hay algún problema?\nComo no es de nuestra competencia, supongo que tendremos que esperar."
     },
     "1SN4DA": {
@@ -431,17 +431,17 @@
     },
     "1iN4DA": {
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
-        "pt-BR": "^4D4DFFEste é um evento realizado no Memorial.\nForme um grupo e tente novamente.^000000",
+        "pt-BR": "^4D4DFFEste é um evento realizado na instância.\nForme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo a través de Memorial.\nForma un grupo y vuelve a intentarlo.^000000"
     },
     "1yN4DA": {
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nForme um grupo e tente novamente.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na instância.\nForme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo a través del Memorial.\nForma un grupo y vuelve a intentarlo.^000000\n^4D4DFFPuedes formar un grupo con el comando /formar nombre_del_grupo ^000000."
     },
     "2CN4DA": {
         "en-US": "[Doomk]\nI was startled when you vanished midway.\nDid something major happen?\nAnyway... it's time you become a pursuer of the abyss.",
-        "pt-BR": "[Dumk]\nFiquei surpreso porque você sumiu no meio do caminho.\nAconteceu alguma coisa grave?\nDe qualquer forma... agora é hora de se tornar um Mandraque.",
+        "pt-BR": "[Dumk]\nFiquei surpreso porque você sumiu no meio do caminho.\nAconteceu alguma coisa grave?\nDe qualquer forma... agora é hora de se juntar aos Mandraques.",
         "es-ES": "[Dumk]\nMe di un susto de muerte porque desapareciste en medio de todo.\n¿Pasó algo grave o qué?\nEn fin... ya es hora de convertirnos en los Rastreadores del Abismo."
     },
     "2SN4DA": {
@@ -466,7 +466,7 @@
     },
     "3SN4DA": {
         "en-US": "[Doomk]\nGood. Excellent! Now, live as if you're the best in the world.\nOf course, that doesn't mean you can look down upon others.",
-        "pt-BR": "[Dumk]\nÓtimo. Muito bom. Viva com a sensação de que você é o maioral.\nÉ claro que isso não significa que pode menosprezar os outros.",
+        "pt-BR": "[Dumk]\nÓtimo. Muito bom. Viva com a sensação de que você é líder do abismo.\nÉ claro que isso não significa que pode menosprezar os outros.",
         "es-ES": "[Dumk]\nBien. Genial. Vive sintiéndote el mejor del mundo.\nPero eso no significa que debas menospreciar a los demás."
     },
     "3iN4DA": {

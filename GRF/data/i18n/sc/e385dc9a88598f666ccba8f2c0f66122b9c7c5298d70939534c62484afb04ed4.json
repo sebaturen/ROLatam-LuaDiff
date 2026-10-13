@@ -5,224 +5,224 @@
         "es-ES": "Richard"
     },
     "gckVCg": {
-        "en-US": "It seems like there are too many types of items. Let's try again after reducing the types of items.",
-        "pt-BR": "Muitos itens na bolsa. Por favor, esvazie seu inventário.",
-        "es-ES": "Tienes muchos objetos en tu inventario. Reorganiza tu inventario y regresa."
+        "en-US": "It seems like you are carrying too many types of items. Let's try again after reducing a little bit.",
+        "pt-BR": "Há itens demais em seu inventário. Por favor, reorganize-o e tente outra vez.",
+        "es-ES": "Tienes muchos objetos en tu inventario. Reorganiza tu inventario y regresa después."
     },
     "gskVCg": {
         "en-US": "The things I have are so heavy that it seems difficult to proceed any further. Let's try again after reducing the weight.",
-        "pt-BR": "Muito peso na bolsa. Por favor, esvazie seu inventário.",
-        "es-ES": "Tienes sobrepeso. Reorganiza tu inventario y regresa."
+        "pt-BR": "Você está carregando muito peso. Por favor, reorganize seu inventário e tente outra vez.",
+        "es-ES": "Tienes sobrepeso. Reorganiza tu inventario y regresa después."
     },
     "g8kVCg": {
         "en-US": "^999999Left hand (none)^000000",
         "pt-BR": "^999999Mão Esquerda (vazio)^000000",
-        "es-ES": "^999999Mano izquierda (vacía)^000000"
+        "es-ES": "^999999Mano Izquierda (vacío)^000000"
     },
     "hMkVCg": {
         "en-US": "^999999Right hand (none)^000000",
         "pt-BR": "^999999Mão Direita (vazio)^000000",
-        "es-ES": "^999999Mano derecha (vacía)^000000"
+        "es-ES": "^999999Mano Derecha (vacío)^000000"
     },
     "hckVCg": {
         "en-US": "^999999Armor (none)^000000",
         "pt-BR": "^999999Armadura (vazio)^000000",
-        "es-ES": "^999999Armadura (vacía)^000000"
+        "es-ES": "^999999Armadura (vacío)^000000"
     },
     "hskVCg": {
         "en-US": "^999999Shoes (none)^000000",
         "pt-BR": "^999999Calçado (vazio)^000000",
-        "es-ES": "^999999Calzado (vacíos)^000000"
+        "es-ES": "^999999Calzado (vacío)^000000"
     },
     "h8kVCg": {
         "en-US": "^999999Garment (none)^000000",
         "pt-BR": "^999999Capa (vazio)^000000",
-        "es-ES": "^999999Manto (vacía)^000000"
+        "es-ES": "^999999Capa (vacío)^000000"
     },
     "iMkVCg": {
         "en-US": "^999999Helmet - Upper (none)^000000",
         "pt-BR": "^999999Elmo - Topo (vazio)^000000",
-        "es-ES": "^999999Sombrero - Superior (vacío)^000000"
+        "es-ES": "^999999Yelmo - Superior (vacío)^000000"
     },
     "ickVCg": {
         "en-US": "^999999Accessories (none)^000000",
         "pt-BR": "^999999Acessório Esquerdo (vazio)^000000",
-        "es-ES": "^999999Accesorio (vacío)^000000"
+        "es-ES": "^999999Accesorio Izquierdo (vacío)^000000"
     },
     "iskVCg": {
         "en-US": "^999999Accessories (none)^000000",
         "pt-BR": "^999999Acessório Direito (vazio)^000000",
-        "es-ES": "^999999Accesorio (vacío)^000000"
+        "es-ES": "^999999Accesorio Derecho (vacío)^000000"
     },
     "i8kVCg": {
-        "en-US": "[Richard]\nJeremy, who has been in charge of separating armor cards, has gone on a trip!! So now I take over the work that Jeremy used to do.",
-        "pt-BR": "[Richard]\nOlá~ Eu trabalho com remoção de carta em equipamentos.",
-        "es-ES": "[Richard]\n¡Miau! Soy el responsable de quitar las cartas de los equipamientos y las armas."
+        "en-US": "[Richard]\nHello! I'm now in charge of card removal service.",
+        "pt-BR": "[Richard]\nOlá! Eu trabalho com remoção de cartas em equipamentos.",
+        "es-ES": "[Richard]\n¡Hola! Soy el responsable de extraer las cartas de los equipos."
     },
     "jMkVCg": {
-        "en-US": "[Richard]\nThe basic fee is 100,000 zeny, and the rules for using special items that can increase the success rate of socket removal work are the same. You will not receive separate zeny when using special items.",
+        "en-US": "[Richard]\nThe basic fee is 100,000 zeny, and the rules for using special items like lubricant that can increase the success rate of socket removal work are the same. You will not be charged when using these special items.",
         "pt-BR": "[Richard]\nVocê pode tentar remover por 100.000 zenys ou usar Lubrificantes para aumentar as chances de sucesso. Quando você opta pelos Lubrificantes, não há custo em zeny.",
-        "es-ES": "[Richard]\nTiene un costo de 100 000 zeny, o usa lubricantes para aumentar las posibilidades de éxito."
+        "es-ES": "[Richard]\nPuedes intentar extraerlas por 100.000 zenys o usar Lubricantes para aumentar la probabilidad de éxito. Cuando optas por los Lubricantes, no hay costo en zeny."
     },
     "jckVCg": {
-        "en-US": "[Richard]\nNo matter how you attempt to disconnect the socket, the equipment or card will not be destroyed. The only difference is the success rate.",
+        "en-US": "[Richard]\nNo matter how you attempt the removal, the equipment or card will not be destroyed. However, the Darklord Essences will be lost.",
         "pt-BR": "[Richard]\nNão se preocupe com as chances de sucesso, você não perde o equipamento ou a carta. Apenas atente-se às Essências de Morroc, estas podem ser perdidas.",
-        "es-ES": "[Richard]\n¿No es tu día de suerte? No hay problema, no perderás la carta ni el equipamiento en caso de falla."
+        "es-ES": "[Richard]\nNo te preocupes por las probabilidades de éxito: no perderás el equipo ni la carta. Solo presta atención a las Esencias de Morroc, ya que estas sí pueden perderse."
     },
     "jskVCg": {
-        "en-US": "I'll do it next time",
+        "en-US": "Never mind.",
         "pt-BR": "Sair",
-        "es-ES": "Cancelar."
+        "es-ES": "Salir"
     },
     "j8kVCg": {
-        "en-US": "[Richard]\nPlease come by anytime if you need work.",
+        "en-US": "[Richard]\nPlease come by anytime.",
         "pt-BR": "[Richard]\nVolte sempre.",
         "es-ES": "[Richard]\n¡A tus órdenes! Estaré aquí si cambias de opinión."
     },
     "kMkVCg": {
-        "en-US": "[Richard]\nThere's nothing in that area?",
-        "pt-BR": "[Richard]\nE cadê o equipamento?",
-        "es-ES": "[Richard]\n¿Y dónde está el equipamiento?"
+        "en-US": "[Richard]\nThere's nothing in there?",
+        "pt-BR": "[Richard]\nUé? Mas não tem nada aqui.",
+        "es-ES": "[Richard]\n¿Y dónde está el equipo?"
     },
     "kckVCg": {
-        "en-US": "[Richard]\nSorry, that device is not eligible for support.",
-        "pt-BR": "[Richard]\nDesculpe, não tenho serviço para esse equipamento.",
-        "es-ES": "[Richard]\nPerdóname, pero no sé cómo trabajar con este equipamiento."
+        "en-US": "[Richard]\nSorry, that equipment is not eligible for my services.",
+        "pt-BR": "[Richard]\nDesculpe, não posso trabalhar com este equipamento.",
+        "es-ES": "[Richard]\nPerdóname, pero no sé cómo trabajar con este equipo."
     },
     "kskVCg": {
-        "en-US": "Socket1 - has card",
+        "en-US": "Socket 1 - Card Inserted",
         "pt-BR": "Slot 1 - com Carta",
-        "es-ES": "Slot 1 - com Carta"
+        "es-ES": "Slot 1 - Con Carta"
     },
     "k8kVCg": {
         "en-US": "^777777Socket1 - No Card^000000",
         "pt-BR": "^777777Slot 1 - sem Carta^000000",
-        "es-ES": "^777777Slot 1 - sem Carta^000000"
+        "es-ES": "^777777Slot 1 - Sin Carta^000000"
     },
     "lMkVCg": {
-        "en-US": "Socket 2 - with card",
+        "en-US": "Socket 2 - Card Inserted",
         "pt-BR": "Slot 2 - com Carta",
-        "es-ES": "Slot 2 - com Carta"
+        "es-ES": "Slot 2 - Con Carta"
     },
     "lckVCg": {
         "en-US": "^777777Socket2 - No Card^000000",
         "pt-BR": "^777777Slot 2 - sem Carta^000000",
-        "es-ES": "^777777Slot 2 - sem Carta^000000"
+        "es-ES": "^777777Slot 2 - Sin Carta^000000"
     },
     "lskVCg": {
-        "en-US": "Socket 3 - with card",
+        "en-US": "Socket 3 - Card Inserted",
         "pt-BR": "Slot 3 - com Carta",
-        "es-ES": "Slot 3 - com Carta"
+        "es-ES": "Slot 3 - Con Carta"
     },
     "l8kVCg": {
         "en-US": "^777777Socket3 - No Card^000000",
         "pt-BR": "^777777Slot 3 - sem Carta^000000",
-        "es-ES": "^777777Slot 3 - sem Carta^000000"
+        "es-ES": "^777777Slot 3 - Sin Carta^000000"
     },
     "mMkVCg": {
-        "en-US": "Socket 4 - with card",
+        "en-US": "Socket 4 - Card Inserted",
         "pt-BR": "Slot 4 - com Carta",
-        "es-ES": "Slot 4 - com Carta"
+        "es-ES": "Slot 4 - Con Carta"
     },
     "mckVCg": {
         "en-US": "^777777Socket 4 - No Card^000000",
         "pt-BR": "^777777Slot 4 - sem Carta^000000",
-        "es-ES": "^777777Slot 4 - sem Carta^000000"
+        "es-ES": "^777777Slot 4 - Sin Carta^000000"
     },
     "mskVCg": {
-        "en-US": "[Richard]\nWhich socket do you want to remove the card from? They are classified as 1.2.3.4 sockets in order, starting from the leftmost socket.",
-        "pt-BR": "[Richard]\nQual slot deseja remover? A contagem começa da esquerda para a direita = 1 / 2 / 3 / 4",
-        "es-ES": "[Richard]\n¿De qué ranura quieres sacar la carta? El conteo va de izquierda a derecha = 1 / 2 / 3 / 4."
+        "en-US": "[Richard]\nWhich slot do you want to remove the card from? They are classified as slot 1, 2, 3, 4 in order, starting from the leftmost slot.",
+        "pt-BR": "[Richard]\nQual slot deseja remover? Os slots são numerados de 1 a 4, da esquerda para a direita = 1 / 2 / 3 / 4.",
+        "es-ES": "[Richard]\n¿De qué slot quieres extraer la carta? El conteo va de izquierda a derecha = 1 / 2 / 3 / 4."
     },
     "m8kVCg": {
-        "en-US": "stop working",
+        "en-US": "Cancel",
         "pt-BR": "Cancelar",
-        "es-ES": "Cancelar."
+        "es-ES": "Cancelar"
     },
     "nMkVCg": {
-        "en-US": "[Richard]\nThis socket is not equipped with a card. Why not check again?",
+        "en-US": "[Richard]\nThis slot does not contain any card. Would you like to check again?",
         "pt-BR": "[Richard]\nNão tem cartas nesse slot. Quer conferir de novo?",
-        "es-ES": "[Richard]\nNo hay cartas en la ranura seleccionada. ¿Quieres volver a comprobarlo?"
+        "es-ES": "[Richard]\nNo hay cartas en ese slot. ¿Quieres chequearlo otra vez?"
     },
     "nckVCg": {
-        "en-US": "^999999100,000z used (not enough)^000000",
-        "pt-BR": "^999999Pagar 100.000 z ​​(insuficiente)^000000",
-        "es-ES": "^999999Usar 100.000z (insuficiente)^000000"
+        "en-US": "^999999100,000z used (Insufficient)^000000",
+        "pt-BR": "^999999Pagar 100.000z ​​(insuficiente)^000000",
+        "es-ES": "^999999Pagar 100.000z ​​(insuficiente)^000000"
     },
     "nskVCg": {
-        "en-US": "Use 100,000z (no special items used)",
-        "pt-BR": "Pagar 100.000 z (sem Lubrificante)",
-        "es-ES": "Usar 100.000z (Sem lubrificante)"
+        "en-US": "Use 100,000z (do not use lubricant)",
+        "pt-BR": "Pagar 100.000z (sem Lubrificante)",
+        "es-ES": "Pagar 100.000z (sin Lubrificante)"
     },
     "n8kVCg": {
-        "en-US": "^999999New advanced lubricant (none)^000000",
+        "en-US": "^999999Premium Lubricant (none)^000000",
         "pt-BR": "^999999Lubrificante Refinado (indisponível)^000000",
-        "es-ES": "^999999Usar Lubrificante Refinado (insuficiente)^000000"
+        "es-ES": "^999999Usar Lubricante Premium (insuficiente)^000000"
     },
     "oMkVCg": {
-        "en-US": "Use of new high-quality lubricant",
-        "pt-BR": "Lubrificante Refinado",
-        "es-ES": "Usar Lubrificante Refinado"
+        "en-US": "Use Premium Lubricant",
+        "pt-BR": "Usar Lubrificante Refinado",
+        "es-ES": "Usar Lubricante Premium"
     },
     "ockVCg": {
-        "en-US": "^999999New general lubricant (none)^000000",
+        "en-US": "^999999Regular Lubricant (none)^000000",
         "pt-BR": "^999999Lubrificante Básico (indisponível)^000000",
-        "es-ES": "^999999Usar Lubrificante Básico (insuficiente)^000000"
+        "es-ES": "^999999Usar Lubricante Común (insuficiente)^000000"
     },
     "oskVCg": {
-        "en-US": "Use of new general lubricant",
-        "pt-BR": "Lubrificante Básico",
-        "es-ES": "Usar Lubrificante Básico"
+        "en-US": "Use Regular Lubricant",
+        "pt-BR": "Usar Lubrificante Básico",
+        "es-ES": "Usar Lubricante Común"
     },
     "o8kVCg": {
-        "en-US": "[Richard]\nThen please select the task fee.",
+        "en-US": "[Richard]\nThen please select how you wish to pay.",
         "pt-BR": "[Richard]\nSelecione a forma de pagamento.",
-        "es-ES": "[Richard]\nSelecciona la forma de pago. ¿Qué quieres usar?"
+        "es-ES": "[Richard]\nSelecciona la forma de pago."
     },
     "pMkVCg": {
-        "en-US": "Next time...",
+        "en-US": "Never mind...",
         "pt-BR": "Deixa pra lá...",
         "es-ES": "Volveré más tarde..."
     },
     "pckVCg": {
-        "en-US": "[Richard]\nLooks like I don't have enough Zeny to use as a fee. Please come back after paying the fee.",
-        "pt-BR": "[Richard]\nVocê precisa de mais zenys para pagar a taxa. Consiga mais zenys e venha novamente.",
-        "es-ES": "[Richard]\nNecesitas más zeny para poder pagar. Consigue más zeny y regresa."
+        "en-US": "[Richard]\nLooks like you don't have enough zeny to pay for the fee. Please come back after you have enough.",
+        "pt-BR": "[Richard]\nVocê precisa de mais zenys para pagar a taxa. Consiga mais zenys e volte mais tarde.",
+        "es-ES": "[Richard]\nNecesitas más zenys para poder pagar. Consigue más zenys y regresa después."
     },
     "pskVCg": {
         "en-US": "[Richard]\nThe success rate of basic separation using Zeny is 2%. Even if you fail, your equipment or cards will not be destroyed.",
-        "pt-BR": "[Richard]\nSem lubrificantes? Espero que esteja ciente que a chance de sucesso é 2%. Tem certeza de que quer continuar?",
-        "es-ES": "[Richard]\nSi usas 100 000 zeny, la probabilidad de éxito será del ^FF00002 %^000000. Las cartas y los equipamientos no se perderán en caso de falla."
+        "pt-BR": "[Richard]\nSem lubrificantes? Espero que esteja ciente que a chance de sucesso é de 2%. Tem certeza de que quer continuar?",
+        "es-ES": "[Richard]\n¿Sin Lubricantes? Espero que seas consciente de que la probabilidad de éxito es del 2%. ¿Seguro que quieres continuar?"
     },
     "p8kVCg": {
-        "en-US": "Next time...",
-        "pt-BR": "Fica pra próxima...",
+        "en-US": "Give up",
+        "pt-BR": "Fica pra próxima",
         "es-ES": "Volveré más tarde..."
     },
     "qMkVCg": {
-        "en-US": "proceed",
+        "en-US": "Proceed",
         "pt-BR": "Continuar",
-        "es-ES": "Por favor, quita mi carta."
+        "es-ES": "Continuar"
     },
     "qckVCg": {
-        "en-US": "[Richard]\nI don't think they have the new advanced lubricant.",
-        "pt-BR": "[Richard]\nAcho que você não tem um Lubrificante Sofisticado.",
-        "es-ES": "[Richard]\nNo tienes Lubricante de alta calidad."
+        "en-US": "[Richard]\nI don't think they have Premium Lubricant.",
+        "pt-BR": "[Richard]\nAcho que você não tem Lubrificante Refinado.",
+        "es-ES": "[Richard]\nNo tienes Lubricante Premium."
     },
     "qskVCg": {
-        "en-US": "[Richard]\nThe success rate of basic separation work using a new advanced lubricant is 20%. Even if you fail, your equipment or cards will not be destroyed.",
-        "pt-BR": "[Richard]\nLubrificante Sofisticado! Espero que esteja ciente que a chance de sucesso é 20%. Tem certeza de que quer continuar?",
-        "es-ES": "[Richard]\nEl uso de Lubricante de alta calidad hará que la probabilidad de éxito sea del ^FF000020 %^000000. Las cartas y los equipamientos no se perderán en caso de falla."
+        "en-US": "[Richard]\nThe success rate of basic separation work using a Premium Lubricant is 20%. Even if you fail, your equipment or cards will not be destroyed.",
+        "pt-BR": "[Richard]\nA chance de sucesso é de 20% ao utilizar Lubrificante Refinado. Mesmo que haja falha, seu equipamento e cartas não serão destruídos.",
+        "es-ES": "[Richard]\n¡Lubricante Premium! Espero que seas consciente de que la probabilidad de éxito es del 20%. ¿Seguro que quieres continuar?"
     },
     "q8kVCg": {
-        "en-US": "[Richard]\nI don't think we have the new general lubricant.",
-        "pt-BR": "[Richard]\nAcho que você não tem um Lubrificante Básico.",
-        "es-ES": "[Richard]\nNo tienes Lubricante general."
+        "en-US": "[Richard]\nI don't think you have the Regular Lubricant.",
+        "pt-BR": "[Richard]\nAcho que você não tem Lubrificante Básico.",
+        "es-ES": "[Richard]\nNo tienes Lubricante Común."
     },
     "rMkVCg": {
-        "en-US": "[Richard]\nThe success rate of basic separation work using a new general lubricant is 10%. Even if you fail, your equipment or cards will not be destroyed.",
+        "en-US": "[Richard]\nThe success rate of basic separation work using a Regular Lubricant is 10%. Even if you fail, your equipment or cards will not be destroyed.",
         "pt-BR": "[Richard]\nLubrificante Básico! Espero que esteja ciente que a chance de sucesso é 10%. Tem certeza de que quer continuar?",
-        "es-ES": "[Richard]\nEl uso de Lubricante general hará que la probabilidad de éxito sea del ^FF000010 %^000000. Las cartas y los equipamientos no se perderán en caso de falla."
+        "es-ES": "[Richard]\n¡Lubricante Común! Espero que seas consciente de que la probabilidad de éxito es del 10%. ¿Seguro que quieres continuar?"
     },
     "rckVCg": {
         "en-US": "[Richard]\nPlease come to me anytime if you need work.",
@@ -230,148 +230,343 @@
         "es-ES": "[Richard]\n¡A tus órdenes! Estaré aquí si cambias de opinión."
     },
     "rskVCg": {
-        "en-US": "[Richard]\nIt's equipment equipped with a precious boss card. This card cannot be separated with any type of lubricant. Bring the ultra-strong surfactant accelerator ^0000FFSilit Pong^000000 and I will do the work.",
+        "en-US": "[Richard]\nIt's equipment equipped with a precious boss card. This card cannot be separated with any type of lubricant. Bring the ultra-strong surfactant accelerator ^0000FFSilit Pong Bottle^000000 and I will do the work.",
         "pt-BR": "[Richard]\nUau! Isso é uma carta de MVP! Eu prefiro mexer nesse tipo de carta somente com um ^0000FFÓleo Removedor Especial^000000. Você tem aí?",
-        "es-ES": "[Richard]\n¡Vaya! ¡Es una carta de MVP! Prefiero quitar este tipo de cartas solo con una ^0000FFBotella de sale fácil.^000000."
+        "es-ES": "[Richard]\n¡Vaya! ¡Es una carta de MVP! Prefiero extraer este tipo de carta solo con una ^0000FFBotella de Sale Fácil^000000. ¿Tienes una?"
     },
     "r8kVCg": {
-        "en-US": "If you have Silit Pong, you have it.",
+        "en-US": "I have it!",
         "pt-BR": "Eu tenho!",
-        "es-ES": "Usar la Botella de sale fácil."
+        "es-ES": "¡Sí, tengo!"
     },
     "sMkVCg": {
-        "en-US": "[Richard]\nI don't think you have Silit Pong.",
-        "pt-BR": "[Richard]\nAcho que você não tem o Óleo Removedor Especial.",
-        "es-ES": "[Richard]\nNo creo que tengas la Botella de sale fácil."
+        "en-US": "[Richard]\nI don't think you have Silit Pong Bottle.",
+        "pt-BR": "[Richard]\nAcho que você não tem Óleo Removedor Especial.",
+        "es-ES": "[Richard]\nNo creo que tengas una Botella de Sale Fácil."
     },
     "sckVCg": {
         "en-US": "[Richard]\nSo can we continue?",
         "pt-BR": "[Richard]\nPosso continuar?",
-        "es-ES": "[Richard]\n¿Puedo continuar con la eliminación de la carta de MVP?"
+        "es-ES": "[Richard]\n¿Puedo seguir?"
     },
     "sskVCg": {
         "en-US": "Okay, so please proceed quickly!",
-        "pt-BR": "Pode. Mas faça isso rápido!",
-        "es-ES": "¡Sí, quitar la carta!"
+        "pt-BR": "Pode. Mas seja rápido!",
+        "es-ES": "¡Sí, pero rápido!"
     },
     "s8kVCg": {
-        "en-US": "[Richard]\nIt looks like you don't have Silit Pong.",
-        "pt-BR": "[Richard]\nAcho que você não tem o Óleo Removedor Especial.",
-        "es-ES": "[Richard]\nNo creo que tengas la Botella de sale fácil."
+        "en-US": "[Richard]\nIt looks like you don't have Silit Pong Bottle.",
+        "pt-BR": "[Richard]\nAcho que você não tem Óleo Removedor Especial.",
+        "es-ES": "[Richard]\nNo creo que tengas una Botella de Sale Fácil."
     },
     "tMkVCg": {
-        "en-US": "[Richard]\noh. It's meal time. Could you please come back later?",
+        "en-US": "[Richard]\nOh. It's meal time. Could you please come back later?",
         "pt-BR": "[Richard]\nAh, é hora de comer. Pode voltar mais tarde?",
         "es-ES": "[Richard]\nHora de comer. ¿Puedes volver en otro momento?"
     },
     "tckVCg": {
         "en-US": "[Richard]\nSeparation was successful. No damage to equipment and cards. Successful equipment and cards have been moved to the inventory.",
         "pt-BR": "[Richard]\nA separação foi um SUCESSO! Por favor, verifique seu inventário.",
-        "es-ES": "[Richard]\n^0000FF¡Tuvimos éxito!^000000 La carta y el equipamiento están en tu inventario."
+        "es-ES": "[Richard]\n¡La separación fue un ÉXITO! Por favor, revisa tu inventario."
     },
     "tskVCg": {
-        "en-US": "[Richard]\nDisconnection failed, but no damage to equipment or card. It has been preserved in its original condition.",
+        "en-US": "[Richard]\nSeparation failed, but no damage to equipment or card. It has been preserved in its original condition.",
         "pt-BR": "[Richard]\nA separação foi um FRACASSO! Pelo menos você não perdeu seu equipamento.",
-        "es-ES": "[Richard]\n^FF0000¡Fallamos!^000000 No te preocupes, la carta y el equipamiento no se perdieron."
+        "es-ES": "[Richard]\n¡La separación fue un FRACASO! Al menos no perdiste tu equipo."
     },
     "t8kVCg": {
-        "en-US": "[Richard]\nPlease use it next time you have a chance.",
-        "pt-BR": "[Richard]\nIsso encerra o processo de retirada de carta em slot. Por favor, use nosso serviço novamente.",
-        "es-ES": "[Richard]\nEsto finaliza el proceso de eliminación de carta en ranura. Por favor, usa mis servicios siempre que lo necesites."
+        "en-US": "[Richard]\nThe separation proccess is completed. Please come again next time.",
+        "pt-BR": "[Richard]\nO processo de retirada de carta do slot foi finalizado. Retorne para utilizar nosso serviço sempre que precisar.",
+        "es-ES": "[Richard]\nEsto finaliza el proceso de extracción de carta del slot. Por favor, usa nuestros servicios siempre que lo necesites."
     },
     "uMkVCg": {
         "en-US": "Lubricant exchangerTX140",
         "pt-BR": "Lubrificatron TX140",
-        "es-ES": "Lubricador TX140"
+        "es-ES": "Lubricatron TX140"
     },
     "uckVCg": {
-        "en-US": "[Lubricant exchanger TX140]\nThank you for your transaction.\nWe are now replacing old lubricants that cannot be used with new lubricants in the ratio below.",
-        "pt-BR": "[Lubrificatron TX140]\nOlá.\nEstamos agora substituindo lubrificantes antigos que não podem ser usados ​​por lubrificantes novos na proporção abaixo.",
-        "es-ES": "[Lubricador TX140]\nGracias por elegirnos.\nCambiamos los antiguos lubricantes por los nuevos."
+        "en-US": "[Lubricant exchanger TX140]\nThank you for your transaction.\nWe are now replacing old lubricants that cannot be used with new lubricants following the ratio below.",
+        "pt-BR": "[Lubrificatron TX140]\nOlá.\nEstamos substituindo lubrificantes antigos que não podem mais ser usados ​​por lubrificantes novos na proporção abaixo:",
+        "es-ES": "[Lubricatron TX140]\nHola.\nEstamos reemplazando los Lubricantes antiguos que ya no se pueden usar por nuevos Lubricantes, según la siguiente proporción:"
     },
     "uskVCg": {
-        "en-US": "^AAAAAAAdvanced lubricant (insufficient quantity)^000000",
+        "en-US": "^AAAAAAHigh Ranked Lubricant (insufficient quantity)^000000",
         "pt-BR": "^AAAAAALubrificante Sofisticado (insuficiente)^000000",
-        "es-ES": "^AAAAAALubrificante Sofisticado (insuficiente)^000000"
+        "es-ES": "^AAAAAALubricante de Alta Calidad (insuficiente)^000000"
     },
     "u8kVCg": {
-        "en-US": "Advanced Lubricant 1 > New Advanced Lubricant 8",
-        "pt-BR": "1x Lubrificante Sofisticado » 8x Lubrificante Refinado",
-        "es-ES": "Trocar 1 Lubrificante Sofisticado por 8 Lubrificante Refinado"
+        "en-US": "1x High Ranked Lubricant >> 8x Premium Lubricant",
+        "pt-BR": "1x Lubrificante Sofisticado >> 8x Lubrificante Refinado",
+        "es-ES": "1x Lubricante de Alta Calidad >> 8x Lubricante Premium"
     },
     "vMkVCg": {
         "en-US": "^AAAAAAGeneral lubricant (insufficient quantity)^000000",
         "pt-BR": "^AAAAAALubrificante Comum (insuficiente)^000000",
-        "es-ES": "^AAAAAALubrificante Comum (insuficiente)^000000"
+        "es-ES": "^AAAAAALubrificante General (insuficiente)^000000"
     },
     "vckVCg": {
-        "en-US": "General lubricant 1 > New general lubricant 9",
-        "pt-BR": "1 Lubrificante Comum » 9x Lubrificante Básico",
-        "es-ES": "Trocar 1 Lubrificante Comum por 9 Lubrificante Básico"
+        "en-US": "1x General Lubricant >> 9x Regular Lubricant",
+        "pt-BR": "1x Lubrificante Comum >> 9x Lubrificante Básico",
+        "es-ES": "1x Lubricante General >> 9x Lubricante Común"
     },
     "vskVCg": {
-        "en-US": "I quit",
+        "en-US": "Give up",
         "pt-BR": "Sair",
-        "es-ES": "Parar."
+        "es-ES": "Parar"
     },
     "v8kVCg": {
-        "en-US": "[Lubricant exchanger TX140]\nLet's deal again next time.",
+        "en-US": "[Lubricant exchanger TX140]\nSee you again next time.",
         "pt-BR": "[Lubrificatron TX140]\nVolte sempre.",
-        "es-ES": "[Lubricador TX140]\nOperación cancelada."
+        "es-ES": "[Lubricatron TX140]\nOperación cancelada."
     },
     "wMkVCg": {
-        "en-US": "Advanced lubricant",
+        "en-US": "High Ranked Lubricant",
         "pt-BR": "Lubrificante Sofisticado",
-        "es-ES": "High_RankLubricant"
+        "es-ES": "Lubricante de Alta Calidad"
     },
     "wckVCg": {
-        "en-US": "New advanced lubricant",
+        "en-US": "Premium Lubricant",
         "pt-BR": "Lubrificante Refinado",
-        "es-ES": "Lubrificante Refinado"
+        "es-ES": "Lubricante Premium"
     },
     "wskVCg": {
         "en-US": "[Lubricant exchanger TX140]\nYou do not have the item you wish to exchange.",
         "pt-BR": "[Lubrificatron TX140]\nVocê não possui o item que deseja trocar.",
-        "es-ES": "[Lubricador TX140]\nNo tienes lubricante para cambiar."
+        "es-ES": "[Lubricatron TX140]\nNo tienes el objeto que quieres cambiar."
     },
     "w8kVCg": {
-        "en-US": "General lubricant",
+        "en-US": "General Lubricant",
         "pt-BR": "Lubrificante Comum",
-        "es-ES": "General_Lubricant"
+        "es-ES": "Lubricante General"
     },
     "xMkVCg": {
-        "en-US": "New general lubricant",
+        "en-US": "Regular Lubricant",
         "pt-BR": "Lubrificante Básico",
-        "es-ES": "Lubrificante Básico"
+        "es-ES": "Lubricante Común"
     },
     "xckVCg": {
-        "en-US": "[Lubricant exchanger TX140]\nUp to 100 lubricants can be changed at one time. Would you like to exchange the maximum amount available?",
-        "pt-BR": "[Lubrificatron TX140]\nAté 100 lubrificantes podem ser trocados de uma só vez. Gostaria de trocar o valor máximo disponível?",
-        "es-ES": "[Lubricador TX140]\nPuedes cambiar hasta 100 lubricantes a la vez. ¿Quieres cambiar la cantidad máxima permitida?"
+        "en-US": "[Lubricant exchanger TX140]\nUp to 100 lubricants can be exchanged at one time. Would you like to exchange the maximum amount available?",
+        "pt-BR": "[Lubrificatron TX140]\nPodem ser trocados até 100 lubrificantes de uma só vez. Gostaria de trocar o valor máximo disponível?",
+        "es-ES": "[Lubricatron TX140]\nSe pueden cambiar hasta 100 lubricantes a la vez. ¿Quieres cambiar la cantidad máxima disponible?"
     },
     "xskVCg": {
-        "en-US": "quit",
+        "en-US": "Quit",
         "pt-BR": "Sair",
-        "es-ES": "Parar."
+        "es-ES": "Salir"
     },
     "x8kVCg": {
-        "en-US": "Exchange to the maximum",
-        "pt-BR": "Troque 100",
-        "es-ES": "Cambiar 100 a la vez."
+        "en-US": "Exchange 100x",
+        "pt-BR": "Trocar 100x",
+        "es-ES": "Cambiar 100x"
     },
     "yMkVCg": {
         "en-US": "Exchange only 1",
-        "pt-BR": "Troque 1",
-        "es-ES": "Cambiar 1 a la vez."
+        "pt-BR": "Trocar só 1x",
+        "es-ES": "Cambiar 1x"
     },
     "yckVCg": {
-        "en-US": "[Lubricant exchanger TX140]\nYou already have too many ^0000FF{0}^000000. Please come back after spending some time.",
-        "pt-BR": "[Lubrificatron TX140]\nVocê tem ^0000FF{0}^000000. Por favor, volte depois de diminuir a quantidade.",
-        "es-ES": "[Lubricador TX140]\nLa cantidad de ^0000FF{0}^000000 es más de lo que puedes cargar. Vuelve más tarde."
+        "en-US": "[Lubricant exchanger TX140]\nYou already have too many ^0000FF{0}^000000. Please come back after spending some of it.",
+        "pt-BR": "[Lubrificatron TX140]\nVocê está carregando muito ^0000FF{0}^000000. Volte após diminuir a quantidade.",
+        "es-ES": "[Lubricatron TX140]\nLa cantidad de ^0000FF{0}^000000 es más de lo que puedes cargar. Vuelve más tarde."
     },
     "yskVCg": {
-        "en-US": "[Lubricant exchanger TX140]\nWe exchanged {0} ^0000FF{1}^000000 for {2} ^0000FF{3}^000000. Thank you for using our service.",
-        "pt-BR": "[Lubrificatron TX140]\nTroquei {0} ^0000FF{1}^000000 por {2} ^0000FF{3}^000000. Obrigada por usar nosso serviço.",
-        "es-ES": "[Lubricador TX140]\n{1} ^0000FF{0}^000000 se cambiaron por {3} ^0000FF{2}^000000. Gracias."
+        "en-US": "[Lubricant exchanger TX140]\nWe exchanged ^0000FF{1}^000000x {0} for ^0000FF{3}^000000x {2}. Thank you for using our service.",
+        "pt-BR": "[Lubrificatron TX140]\nTroquei ^0000FF{1}^000000x {0} por ^0000FF{3}^000000x {2}. Obrigada por utilizar nosso serviço.",
+        "es-ES": "[Lubricatron TX140]\nSe cambiaron {1}x ^0000FF{0}^000000 por {3}x ^0000FF{2}^000000. Gracias por utilizar nuestro servicio."
+    },
+    "y8kVCg": {
+        "en-US": "[Richard]\nWould you like to remove a card from your equipment? We now support a new equipment position as well. Let's take a look.",
+        "pt-BR": "[Richard]\nDeseja remover uma carta do seu equipamento? Agora também oferecemos suporte a uma nova posição. Veja a seguir.",
+        "es-ES": "[Richard]\n¿Quieres extraer una carta de tu equipo? Ahora también ofrecemos soporte para una nueva posición. Vamos a revisarlo."
+    },
+    "zMkVCg": {
+        "en-US": "^FF0000Special Position^000000",
+        "pt-BR": "^FF0000Posição Especial^000000",
+        "es-ES": "^FF0000Posición Especial^000000"
+    },
+    "zckVCg": {
+        "en-US": "[Richard]\nCome back anytime you need my services. Also, when attempting the process with Zeny, you can retry removing the selected card. Please keep that in mind.",
+        "pt-BR": "[Richard]\nPode me procurar sempre que precisar dos meus serviços. Ah, e lembre-se de que ao fazer uma tentativa usando zenys, você poderá tentar remover a carta selecionada mais uma vez.",
+        "es-ES": "[Richard]\nVuelve cuando necesites mis servicios. Ah, al realizar un intento usando zenys, podrás volver a intentar extraer la carta seleccionada. Tenlo en cuenta."
+    },
+    "zskVCg": {
+        "en-US": "^FF0000You selected a special position that does not include the Upper position. If you are wearing headgear that occupies Upper/Middle/Lower or Upper/Middle, stop the process to save materials, talk to me again, and select the Upper position. ^000000",
+        "pt-BR": "^FF0000Você selecionou uma posição especial que não inclui o Topo. Se estiver usando um equipamento de cabeça que ocupe Topo/Meio/Baixo ou Topo/Meio: interrompa o processo para economizar materiais, fale comigo novamente e selecione a posição Topo. ^000000",
+        "es-ES": "^FF0000Has seleccionado una posición especial que no incluye la posición Superior. Si llevas un equipo para la cabeza que ocupe Superior/Centro/Inferior o Superior/Centro, detén el proceso para ahorrar materiales, vuelve a hablar conmigo y selecciona la posición Superior. ^000000"
+    },
+    "z8kVCg": {
+        "en-US": "Continue with the special position",
+        "pt-BR": "Continuar com a posição especial",
+        "es-ES": "Continuar con la posición especial"
+    },
+    "0MkVCg": {
+        "en-US": "^999999Middle (None)^000000",
+        "pt-BR": "^999999Meio (vazio)^000000",
+        "es-ES": "^999999Centro (vacío)^000000"
+    },
+    "0ckVCg": {
+        "en-US": "[Richard]\nAt this time, the supported position is Middle. Please check your equipment again.",
+        "pt-BR": "[Richard]\nNo momento, a posição disponível é o Meio. Verifique seu equipamento outra vez.",
+        "es-ES": "[Richard]\nActualmente, la posición disponible es Centro. Vuelve a revisar tu equipo."
+    },
+    "0skVCg": {
+        "en-US": "Socket 1 - ^0000FFCard Inserted^000000",
+        "pt-BR": "Slot 1 - ^0000FFCom Carta^000000",
+        "es-ES": "Slot 1 - ^0000FFCon Carta^000000"
+    },
+    "08kVCg": {
+        "en-US": "^999999Socket 1 - No Card^000000",
+        "pt-BR": "^999999Slot 1 - Sem Carta^000000",
+        "es-ES": "^999999Slot 1 - Sin Carta^000000"
+    },
+    "1MkVCg": {
+        "en-US": "Socket 2 - ^0000FFCard Inserted^000000",
+        "pt-BR": "Slot 2 - ^0000FFCom Carta^000000",
+        "es-ES": "Slot 2 - ^0000FFCon Carta^000000"
+    },
+    "1ckVCg": {
+        "en-US": "^999999Socket 2 - No Card^000000",
+        "pt-BR": "^999999Slot 2 - Sem Carta^000000",
+        "es-ES": "^999999Slot 2 - Sin Carta^000000"
+    },
+    "1skVCg": {
+        "en-US": "Socket 3 - ^0000FFCard Inserted^000000",
+        "pt-BR": "Slot 3 - ^0000FFCom Carta^000000",
+        "es-ES": "Slot 3 - ^0000FFCon Carta^000000"
+    },
+    "18kVCg": {
+        "en-US": "^999999Socket 3 - No Card^000000",
+        "pt-BR": "^999999Slot 3 - Sem Carta^000000",
+        "es-ES": "^999999Slot 3 - Sin Carta^000000"
+    },
+    "2MkVCg": {
+        "en-US": "Socket 4 - ^0000FFCard Inserted^000000",
+        "pt-BR": "Slot 4 - ^0000FFCom Carta^000000",
+        "es-ES": "Slot 4 - ^0000FFCon Carta^000000"
+    },
+    "2ckVCg": {
+        "en-US": "^999999Socket 4 - No Card^000000",
+        "pt-BR": "^999999Slot 4 - Sem Carta^000000",
+        "es-ES": "^999999Slot 4 - Sin Carta^000000"
+    },
+    "2skVCg": {
+        "en-US": "[Richard]\nWhich slot contains the card you want to remove? The sockets are numbered 1, 2, 3, and 4 from left to right.",
+        "pt-BR": "[Richard]\nQual slot contém a carta que deseja remover? Os slots são numerados de 1 a 4, da esquerda para a direita.",
+        "es-ES": "[Richard]\n¿De qué slot quieres extraer la carta? Los slots se numeran de 1 a 4, de izquierda a derecha."
+    },
+    "28kVCg": {
+        "en-US": "^999999Use 200,000z (Insufficient)^000000",
+        "pt-BR": "^999999Usar 200.000z (insuficiente)^000000",
+        "es-ES": "^999999Usar 200.000z (insuficiente)^000000"
+    },
+    "3MkVCg": {
+        "en-US": "Use 200,000z (do not use lubrificant)",
+        "pt-BR": "Usar 200.000z (sem Lubrificante)",
+        "es-ES": "Usar 200.000z (sin Lubricante)"
+    },
+    "3ckVCg": {
+        "en-US": "^9999992x Premium Lubricant (None)^000000",
+        "pt-BR": "^9999992x Lubrificante Refinado (indisponível)^000000",
+        "es-ES": "^9999992x Lubricante Premium (indisponible)^000000"
+    },
+    "3skVCg": {
+        "en-US": "Use 2x Premium Lubricant",
+        "pt-BR": "Usar 2x Lubrificante Refinado",
+        "es-ES": "Usar 2x Lubricante Premium"
+    },
+    "38kVCg": {
+        "en-US": "^9999992x Regular Lubricant (None)^000000",
+        "pt-BR": "^9999992x Lubrificante Básico (indisponível)^000000",
+        "es-ES": "^9999992x Lubricante Común (indisponible)^000000"
+    },
+    "4MkVCg": {
+        "en-US": "Use 2x Regular Lubricant",
+        "pt-BR": "Usar 2x Lubrificante Básico",
+        "es-ES": "Usar 2x Lubricante Común"
+    },
+    "4ckVCg": {
+        "en-US": "Use 1x Premium Lubricant",
+        "pt-BR": "Usar 1x Lubrificante Refinado",
+        "es-ES": "Usar 1x Lubricante Premium"
+    },
+    "4skVCg": {
+        "en-US": "Use 1x Regular Lubricant",
+        "pt-BR": "Usar 1x Lubrificante Básico",
+        "es-ES": "Usar 1x Lubricante Común"
+    },
+    "48kVCg": {
+        "en-US": "[Richard]",
+        "pt-BR": "[Richard]",
+        "es-ES": "[Richard]"
+    },
+    "5MkVCg": {
+        "en-US": "It's a special position. Removing cards from this type of equipment requires a considerable amount of materials. So please keep in mind that ^0000FFthe fee will also be doubled^000000.",
+        "pt-BR": "Esta é uma posição especial. Remover cartas desse tipo de equipamento exige uma quantidade considerável de materiais. Por isso, tenha em mente que ^0000FFa taxa também será dobrada^000000.",
+        "es-ES": "Es una posición especial. Extraer cartas de este tipo de equipo requiere una cantidad considerable de materiales. Por eso, ten en cuenta que ^0000FFla tarifa también será el doble^000000."
+    },
+    "5ckVCg": {
+        "en-US": "Now, please select the service fee.",
+        "pt-BR": "Por favor, escolha a taxa do serviço.",
+        "es-ES": "Por favor, elige la tarifa del servicio."
+    },
+    "5skVCg": {
+        "en-US": "[Richard]\nEven if the removal fails, your equipment and card will not be destroyed.",
+        "pt-BR": "[Richard]\nMesmo que a remoção falhe, o equipamento e a carta não serão danificados.",
+        "es-ES": "[Richard]\nAunque la extracción falle, el equipo y la carta no serán destruidos."
+    },
+    "58kVCg": {
+        "en-US": "[Richard]\nIt seems you don't have enough zeny. You need {0} zeny to pay the fee. Please come back after you have enough.",
+        "pt-BR": "[Richard]\nVocê precisa de {0} zenys para pagar a taxa. Consiga o valor necessário e volte mais tarde.",
+        "es-ES": "[Richard]\nParece que no tienes suficiente dinero. Necesitas {0} zenys para pagar la tarifa. Consigue la cantidad necesaria y vuelve a visitarme."
+    },
+    "6MkVCg": {
+        "en-US": "[Richard]\nThe removal failed, but neither the equipment nor the card was damaged. The card has been preserved in its equipped state.",
+        "pt-BR": "[Richard]\nA remoção falhou, mas o equipamento e a carta não sofreram danos. A carta permanecerá equipada como antes.",
+        "es-ES": "[Richard]\nLa extracción falló, pero el equipo y la carta no sufrieron daños. La carta permanecerá equipada como antes."
+    },
+    "6ckVCg": {
+        "en-US": "^FF0000Would you like to try again?^000000",
+        "pt-BR": "^FF0000Deseja tentar outra vez?^000000",
+        "es-ES": "^FF0000¿Quieres intentarlo otra vez?^000000"
+    },
+    "6skVCg": {
+        "en-US": "Retry!",
+        "pt-BR": "Tentar de novo!",
+        "es-ES": "¡Intentarlo otra vez!"
+    },
+    "68kVCg": {
+        "en-US": "[Richard]\nThat may be a wiser choice than forcing another attempt.",
+        "pt-BR": "[Richard]\nTalvez seja mais sensato do que insistir em outra tentativa.",
+        "es-ES": "[Richard]\nQuizás sea una decisión más sensata que insistir con otro intento."
+    },
+    "7MkVCg": {
+        "en-US": "[Richard]\nIt seems you don't have {0}x Premium Lubricant.",
+        "pt-BR": "[Richard]\nVocê não tem {0}x Lubrificante Refinado.",
+        "es-ES": "[Richard]\nParece que no tienes {0}x Lubricante Premium."
+    },
+    "7ckVCg": {
+        "en-US": "[Richard]\nIt seems you don't have {0}x Regular Lubricant.",
+        "pt-BR": "[Richard]\nVocê não tem {0}x Lubrificante Básico.",
+        "es-ES": "[Richard]\nParece que no tienes {0}x Lubricante Común."
+    },
+    "7skVCg": {
+        "en-US": "[Richard]\nIt's a special position. Removing a Boss Card from this type of equipment requires a considerable amount of materials. You'll need 2x ^0000FFSilit Pong Bottle^000000, so think carefully. Do you really want to continue?",
+        "pt-BR": "[Richard]\nAh, é uma posição especial. Remover uma carta de MVP desse tipo de equipamento exige muitos materiais. Por isso, pense bem, pois serão necessários 2x ^0000FFÓleo Removedor Especial^000000. Realmente deseja continuar?",
+        "es-ES": "[Richard]\nEs una posición especial. Extraer una carta de MVP de este tipo de equipo requiere muchos materiales. Por eso, necesitarás 2x ^0000FFBotella de Sale Fácil^000000. Piénsalo bien. ¿De verdad quieres continuar?"
+    },
+    "78kVCg": {
+        "en-US": "[Richard]\nThis equipment has a valuable Boss Card inserted. This type of card cannot be removed with Lubricants. Bring me ^0000FFSilit Pong Bottle^000000, and I'll take care of it.",
+        "pt-BR": "[Richard]\nEsse equipamento possui uma valiosa carta de MVP. Esse tipo de carta não pode ser removido com Lubrificantes. Traga ^0000FFÓleo Removedor Especial^000000 e eu farei o serviço.",
+        "es-ES": "[Richard]\nEste equipo tiene una valiosa carta de MVP. Este tipo de carta no se puede extraer con Lubricantes. Trae ^0000FFBotella de Sale Fácil^000000, y me encargaré del trabajo."
+    },
+    "8MkVCg": {
+        "en-US": "[Richard]\nYou need ^0000FF{0}x Silit Pong Bottle^000000, but you don't have enough.",
+        "pt-BR": "[Richard]\nVocê precisa de ^0000FF{0}x Óleo Removedor Especial^000000, mas não tem o suficiente.",
+        "es-ES": "[Richard]\nNecesitas ^0000FF{0}x Botella de Sale Fácil^000000, pero no tienes la cantidad suficiente."
+    },
+    "8ckVCg": {
+        "en-US": "[Richard]\nAre you sure you want to continue? You checked the position carefully, right? You're really going through with this? No changing your mind later...",
+        "pt-BR": "[Richard]\nTem certeza de que deseja continuar? Você verificou a posição corretamente, não é? Vou mesmo continuar, hein? Depois não vai poder voltar atrás...",
+        "es-ES": "[Richard]\n¿De verdad quieres continuar? Ya verificaste bien la posición, ¿verdad? ¿Seguro que quieres hacerlo? Después no podrás arrepentirte..."
     }
 }

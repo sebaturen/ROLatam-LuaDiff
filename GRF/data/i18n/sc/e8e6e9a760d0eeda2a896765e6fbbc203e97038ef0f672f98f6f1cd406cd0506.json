@@ -562,7 +562,7 @@
     "cNKhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}s\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}s",
         "pt-BR": "{2}x [<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n{5}x [<ITEM>{3}<INFO>{4}</INFO></ITEM>]",
-        "es-ES": "{drop_disp1}{2}[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n{5}[<ITEM>{3}<INFO>{4}</INFO></ITEM>]"
+        "es-ES": "{2}[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n{5}[<ITEM>{3}<INFO>{4}</INFO></ITEM>]"
     },
     "cdKhCQ": {
         "en-US": "[Hot Air Machine]\nPlease come back when you want to upgrade.",

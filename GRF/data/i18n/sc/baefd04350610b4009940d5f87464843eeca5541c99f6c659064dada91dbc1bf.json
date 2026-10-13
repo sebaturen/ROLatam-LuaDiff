@@ -1217,7 +1217,7 @@
     "s8Q8CA": {
         "en-US": "[3] EP14.1 Bifrost",
         "pt-BR": "[3] EP14.1 Bifrost",
-        "es-ES": "[3] EP14.1 Bifrost"
+        "es-ES": "[3] EP14.1 Bifröst"
     },
     "tMQ8CA": {
         "en-US": "[3] EP14.2 Eclage",
@@ -4097,7 +4097,7 @@
     "88Y8CA": {
         "en-US": "[Kay]\nChecking progress for ^4D4DFF「Episode 14.1 Bifrost」^000000.",
         "pt-BR": "[Kay]\nVerificando progresso de ^4D4DFF「Episodio 14.1 Bifrost」^000000.",
-        "es-ES": "[Kay]\nComprobando progreso de ^4D4DFF「Episodio 14.1 Bifrost」^000000."
+        "es-ES": "[Kay]\nComprobando progreso de ^4D4DFF「Episodio 14.1 Bifröst」^000000."
     },
     "9MY8CA": {
         "en-US": "Wandering Guardian not complete",
@@ -4157,17 +4157,17 @@
     "/8Y8CA": {
         "en-US": "[Kay]\n^4D4DFF「Episode 14.1 Bifrost」^000000 can be set from Lv100. Ending task.",
         "pt-BR": "[Kay]\n^4D4DFF「Episodio 14.1 Bifrost」^000000 pode ser configurado a partir do Lv100. Encerrando a tarefa.",
-        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.1 Bifrost」^000000 se puede configurar desde Lv100. Terminando la tarea."
+        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.1 Bifröst」^000000 se puede configurar desde Lv100. Terminando la tarea."
     },
     "AMc8CA": {
         "en-US": "[Kay]\n^4D4DFF「Episode 14.1 Bifrost」^000000 requires clearing ^4D4DFF「Episode 13 Other World」^000000. Ending task.",
         "pt-BR": "[Kay]\n^4D4DFF「Episodio 14.1 Bifrost」^000000 requer concluir ^4D4DFF「Episodio 13 Mundo Alterno」^000000. Encerrando a tarefa.",
-        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.1 Bifrost」^000000 requiere completar ^4D4DFF「Episodio 13 Mundo Alterno」^000000. Terminando la tarea."
+        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.1 Bifröst」^000000 requiere completar ^4D4DFF「Episodio 13 Mundo Alterno」^000000. Terminando la tarea."
     },
     "Acc8CA": {
         "en-US": "[Kay]\n^4D4DFF「Episode 14.1 Bifrost」^000000 does not require a task.",
         "pt-BR": "[Kay]\n^4D4DFF「Episodio 14.1 Bifrost」^000000 nao precisa de tarefa.",
-        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.1 Bifrost」^000000 no requiere tarea."
+        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.1 Bifröst」^000000 no requiere tarea."
     },
     "Asc8CA": {
         "en-US": "...Passing through the maze...",
@@ -4182,7 +4182,7 @@
     "BMc8CA": {
         "en-US": "Episode 14.1 Bifrost clear complete!",
         "pt-BR": "Conclusao do Episodio 14.1 Bifrost concluida!",
-        "es-ES": "¡Completado el Episodio 14.1 Bifrost!"
+        "es-ES": "¡Completado el Episodio 14.1 Bifröst!"
     },
     "Bcc8CA": {
         "en-US": "[Kay]\nChecking progress for ^4D4DFF「Episode 14.2 Eclage」^000000.",
@@ -4262,7 +4262,7 @@
     "FMc8CA": {
         "en-US": "[Kay]\n^4D4DFF「Episode 14.2 Eclage」^000000 requires clearing ^4D4DFF「Episode 14.1 Bifrost」^000000. Ending task.",
         "pt-BR": "[Kay]\n^4D4DFF「Episodio 14.2 Eclage」^000000 requer concluir ^4D4DFF「Episodio 14.1 Bifrost」^000000. Encerrando a tarefa.",
-        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.2 Eclage」^000000 requiere completar ^4D4DFF「Episodio 14.1 Bifrost」^000000. Terminando la tarea."
+        "es-ES": "[Kay]\n^4D4DFF「Episodio 14.2 Eclage」^000000 requiere completar ^4D4DFF「Episodio 14.1 Bifröst」^000000. Terminando la tarea."
     },
     "Fcc8CA": {
         "en-US": "[Kay]\n^4D4DFF「Episode 14.2 Eclage」^000000 does not require a task.",

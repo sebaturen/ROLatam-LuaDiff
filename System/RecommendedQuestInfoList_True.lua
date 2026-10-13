@@ -146,22 +146,22 @@ RecommendedQuestInfoList = {
 			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Observe que ela não será excluída mesmo que a missão seja concluída.^000000"
 		}
 	},
-	[7] = {
-		Title = "Festival do Macarrão",
-		IconName = "ico_ev.bmp",
-		Summary = "Venha para Lasagna!",
-		BgName = "reco_02.bmp",
+	[77] = {
+		Title = "Biosfera de Varmunt",
+		IconName = "ico_sc.bmp",
+		Summary = "Solicitamos a ajuda de Cliente",
+		NpcSpr = "4_EP17_BASIC_B",
+		BgName = "reco_77.bmp",
 		QuestInfo1 = {
-			"Que tal um delicioso macarrão?",
-			"Participe do Festival do Macarrão em <NAVI>[Lasanga]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! Você pode ganhar muitas recompensas!"
+			"Você não tem curiosidade sobre o Habitat Artificial que o Mestre Varmunt criou na <NAVI>[Mansão]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>?",
+			"Precisamos urgentemente da ajuda de aventureiros para derrotar os monstros que, após permanecerem isolados do mundo exterior por muitos anos, tornaram-se estranhamente poderosos."
 		},
 		QuestInfo2 = {
-			"Evento Temporário",
-			"Atente-se aos requisitos",
-			"^ff0000Nível mínimo: 50^000000"
+			"Público-alvo:",
+			"Qualquer Cliente de nível 230 ou superior"
 		},
 		QuestInfo3 = {
-			"^ff0000Ø Período: 03/08 a 18/08.^000000"
+			"^ff0000 Esta página apresenta uma atualização e não é uma missão. Ela não será removida mesmo após a conclusão da missão.^000000"
 		}
 	}
 }

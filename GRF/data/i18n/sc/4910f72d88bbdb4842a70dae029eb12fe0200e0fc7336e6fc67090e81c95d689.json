@@ -966,7 +966,7 @@
     },
     "IYM7": {
         "en-US": "[Avalanche]\nAh. Jarute Vyhannus.\nI thought it would be better for him to take a guard with him.",
-        "pt-BR": "[Avalanche]\nAh, você quer Jeruth Vyhannus.\nQuando ela partiu para a sua terra, fiquei preocupado por ela ter ido sozinha.",
+        "pt-BR": "[Avalanche]\nAh, você quer Jeruth Vehanus.\nQuando ela partiu para a sua terra, fiquei preocupado por ela ter ido sozinha.",
         "es-ES": "[Avalanche]\nAh. Jarute Vyhannus.\nPensé que sería mejor que anduviera acompañado de un guardia."
     },
     "IoM7": {
@@ -4191,7 +4191,7 @@
     },
     "poU7": {
         "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
-        "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
+        "pt-BR": "[Vigilante]\n(ininteligível)",
         "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     },
     "p4U7": {
@@ -4266,7 +4266,7 @@
     },
     "tYU7": {
         "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...",
-        "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...",
+        "pt-BR": "[Vigilante]\n(ininteligível)",
         "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX..."
     },
     "toU7": {
@@ -4341,7 +4341,7 @@
     },
     "xIU7": {
         "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
-        "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
+        "pt-BR": "[Vigilante]\n(ininteligível)",
         "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     }
 }

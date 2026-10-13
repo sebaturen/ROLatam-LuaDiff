@@ -70,9 +70,9 @@
         "es-ES": "[Ziki]\nSoy Ziki, el Hada de las Llaves.\nSi los objetos de la lista requieren un encantamiento especial, te ayudaré con gusto y con toda mi alegría."
     },
     "zksyDQ": {
-        "en-US": "[Ziki] No need.",
+        "en-US": "No need.",
         "pt-BR": "Encerrar",
-        "es-ES": "[Ziki] No es necesario."
+        "es-ES": "No es necesario."
     },
     "z0syDQ": {
         "en-US": "[Ziki]\nThat’s really unfortunate.",
@@ -133,5 +133,10 @@
         "en-US": "[Siki]\nMay the results you want be with you..",
         "pt-BR": "[Siki]\nQue o resultado que você deseja esteja junto...",
         "es-ES": "[Siki]\nQue los resultados que deseas te acompañen.."
+    },
+    "20syDQ": {
+        "en-US": "Thanos Helmet-LT",
+        "pt-BR": "Elmo de Thanos-LT",
+        "es-ES": "Casco de Thanos-LT"
     }
 }

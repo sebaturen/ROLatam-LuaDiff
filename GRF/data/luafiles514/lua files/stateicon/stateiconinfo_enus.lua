@@ -6085,7 +6085,8 @@ StateIconList_string = {
 				"Magical Power"
 			},
 			{"%s"},
-			{"MATK + 5%"}
+			{"Max HP +3%"},
+			{"Max SP +3%"}
 		}
 	},
 	[EFST_IDs.EFST_FLOWER_LEAF4] = {

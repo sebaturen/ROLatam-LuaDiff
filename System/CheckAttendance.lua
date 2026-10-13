@@ -1,4 +1,4 @@
-Config = {StartDate = 20260818, EndDate = 20260914}
+Config = {StartDate = 20260915, EndDate = 20261012}
 Reward = {
 	{
 		1,

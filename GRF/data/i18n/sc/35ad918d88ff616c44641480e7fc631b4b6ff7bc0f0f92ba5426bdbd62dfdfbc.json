@@ -6,7 +6,7 @@
     },
     "IXVtDA": {
         "en-US": "[Rody]\nBy the way, how are we going to secure more research funding...",
-        "pt-BR": "[Rody]\nAliás, como é que vamos conseguir o dinheiro para a pesquisa...",
+        "pt-BR": "[Rody]\nAliás, como é que vamos conseguir o dinheiro para a pesquisa...?",
         "es-ES": "[Rody]\nPor cierto, ¿cómo vamos a conseguir los fondos para la investigación...?"
     },
     "InVtDA": {
@@ -21,37 +21,37 @@
     },
     "JHVtDA": {
         "en-US": "[Mist]\nI've been a Mechanic for a while now, but... I don't understand you people and why you're in this line of business.\nWhy are you so conservative?",
-        "pt-BR": "[Mist]\nJá faz um tempo que sou um mecânico, mas sério... eu não entendo vocês.\nPor que vocês são tão conservadores?",
+        "pt-BR": "[Mist]\nJá faz um tempo que sou uma mecânica, mas sério... eu não entendo vocês.\nPor que vocês são tão cautelosos?",
         "es-ES": "[Mist]\nHace ya bastante que me reconocen como mecánico, pero en serio... este ambiente es demasiado.\n¿Por qué son tan conservadores?"
     },
     "JXVtDA": {
         "en-US": "[Rody]\nYeah. Mechanics are conservative.\nIsn't that obvious?\nOne design flaw could cost the user their limbs.",
-        "pt-BR": "[Rody]\nÉ verdade. Os mecânicos são conservadores.\nMas não é óbvio?\nBasta um único erro de projeto pra arrancar os braços e as pernas do usuário.",
+        "pt-BR": "[Rody]\nÉ verdade. Os mecânicos são cautelosos.\nMas não é óbvio?\nBasta um único erro de projeto pra arrancar os braços e as pernas do usuário.",
         "es-ES": "[Rody]\nEs verdad. Los mecánicos son conservadores.\n¿No es lógico?\nUn solo fallo de diseño y al usuario le vuelan las extremidades."
     },
     "JnVtDA": {
         "en-US": "[Rody]...\n\n...What? Aren't you Chainhart's student?",
-        "pt-BR": "[Rody]\n...\n...O que é isso, você não é aluno do Chainhart?",
+        "pt-BR": "[Rody]\n...\n...O que é isso, você não estudou com Luc Tomwa?",
         "es-ES": "[Rody]\n...\n...¿Qué pasa? ¿No eres discípulo de Chainhart?"
     },
     "J3VtDA": {
         "en-US": "I'm not his student",
-        "pt-BR": "Não sou aluno dele, mas...",
+        "pt-BR": "Não estudei com ele, mas...",
         "es-ES": "No soy su discípulo"
     },
     "KHVtDA": {
         "en-US": "Am I that famous?",
-        "pt-BR": "Eu sou tão famoso assim?",
+        "pt-BR": "Minha fama é tão grande assim?",
         "es-ES": "¿Tan famoso soy?"
     },
     "KXVtDA": {
         "en-US": "Hello",
-        "pt-BR": "Olá",
+        "pt-BR": "Olá!",
         "es-ES": "Hola"
     },
     "KnVtDA": {
         "en-US": "[Mist]\nHah hah.\nEven Chainhart has an eye for people.\nYes, you have to be at least this good to get your license without a thesis.",
-        "pt-BR": "[Mist]\nHaha.\nO Chainhart sabe escolher bem as pessoas.\nÉ, só assim pra conseguir ser aprovado sem nem mesmo possuir uma tese científica.",
+        "pt-BR": "[Mist]\nHaha.\nO Luc Tomwa sabe escolher bem as pessoas.\nÉ, só assim pra conseguir ser aprovado sem nem mesmo possuir uma tese científica.",
         "es-ES": "[Mist]\nJaja.\nChainhart sí que sabe elegir a la gente.\nSí, tienes que estar a este nivel para que valga la pena haberte dado el sello sin que tuvieras una tesis."
     },
     "K3VtDA": {
@@ -76,27 +76,27 @@
     },
     "L3VtDA": {
         "en-US": "[Rody]\nBut studying the mana engine itself? You don't have to be a fighter to do it. Also, what was that? Someone even studied how to become one with the mana engine--",
-        "pt-BR": "[Rody]\nMas a pesquisa sobre o mecanismo de mana pode ser feita mesmo sem esse preparo físico. \nMas, o que foi que você disse antes? Alguém está pesquisando sobre como se tornar um só com o mecanismo de mana...",
+        "pt-BR": "[Rody]\nMas a pesquisa sobre o mecanismo de mana pode ser feita mesmo sem esse preparo físico. \nMas, o que foi que você disse antes? Alguém está pesquisando sobre como se unificar com o mecanismo de mana...",
         "es-ES": "[Rody]\nPero la investigación sobre los mecanismos mágicos en sí se puede hacer sin eso, y ¿qué decías antes? Que alguien incluso está investigando cómo fundirse por completo con los mecanismos mágicos..."
     },
     "MHVtDA": {
         "en-US": "Mist: Enough. That's enough.",
-        "pt-BR": "Mist: Chega, chega.",
+        "pt-BR": "Mist: Chega, chega!",
         "es-ES": "Mist: Ya, ya."
     },
     "MXVtDA": {
         "en-US": "[Mist]\nHey, hey. That's old news to you, me, and everyone else. Nothing new.\nAnyway, you... What's your name again?\nI'm Mist. This is Rody.",
-        "pt-BR": "[Mist]\nEi, ei. Isso é papo velho. E, você, e todo mundo já sabe. Não é novidade.\nDe qualquer forma, lá... qual é o nome mesmo?\nEu sou a Mist. Este aqui é o Rody.",
+        "pt-BR": "[Mist]\nEi, ei. Isso é papo velho. E, você, e todo mundo já sabe. Não é novidade.\nDe qualquer forma, er... qual é o seu nome mesmo?\nEu sou a Mist. Este aqui é o Rody.",
         "es-ES": "[Mist]\nOye, oye. Eso ya lo sabemos todos, tú, yo y los demás. No hace falta repetirlo.\nEn fin, tú... ¿cómo te llamas?\nYo soy Mist. Este de aquí es Rody."
     },
     "MnVtDA": {
         "en-US": "[{0}]\nAn acquaintance of Chainhart, {0}.",
-        "pt-BR": "[{0}]\nUm conhecido de Chainhart, {0}.",
+        "pt-BR": "[{0}]\nSou colega de Luc Tomwa, {0}.",
         "es-ES": "[{0}]\nSoy {0}, un conocido de Chainhart."
     },
     "M3VtDA": {
         "en-US": "[Rody]\nAh, I told you I'm sorry.\nChainhart is pretty impressive, I'll give him that.",
-        "pt-BR": "[Rody]\nAh, olha, já disse que me desculpo.\nO Chainhart realmente tem razão.",
+        "pt-BR": "[Rody]\nAh, olha, já peço desculpas.\nO Luc Tomwa realmente tem razão.",
         "es-ES": "[Rody]\nAh, oye, ya te pedí perdón.\nHay que reconocer que Chainhart tiene razón."
     },
     "NHVtDA": {
@@ -111,12 +111,12 @@
     },
     "NnVtDA": {
         "en-US": "Mist: This bastard really...",
-        "pt-BR": "Mist: Esse cara é mesmo um...",
+        "pt-BR": "Mist: A vida é grande coisa, sim...",
         "es-ES": "Mist: Este tipo es realmente..."
     },
     "N3VtDA": {
         "en-US": "[Mist]\nRody's being a jerk, but I have to agree with him.\nI've heard the story about Chainhart's foreboding. Were you really ready to die?\nBut don't do that again.\nYou need to be alive to do your research.",
-        "pt-BR": "[Mist]\nO Rody é rude, mas não está errado.\nEu também ouvi falar da intuição do Chainhart... Você já estava preparado para morrer, não é?\nMas não faça isso de novo.\nÉ preciso ter vida pra poder pesquisar.",
+        "pt-BR": "[Mist]\nO Rody é rude, mas não está errado.\nEu também ouvi falar da intuição do Luc Tomwa... Você já estava preparado para morrer, não é?\nMas não faça isso de novo.\nÉ preciso ter vida pra poder pesquisar.",
         "es-ES": "[Mist]\nAunque Rody sea un poco duro, no le falta razón.\nYo también escuché lo de la intuición de Chainhart... ¿No dijiste que estabas preparado para morir?\nPero no lo vuelvas a hacer.\nPrimero está la vida, y luego la investigación."
     },
     "OHVtDA": {
@@ -126,12 +126,12 @@
     },
     "OXVtDA": {
         "en-US": "[Mist]\nWe Mechanics are conservative. We have to be.\nYou may not know this since you're a non-standard member, and I'm jealous of you. But people like you who became Mechanics without publishing a paper don't belong here.\nLet me introduce you to my mentor.",
-        "pt-BR": "[Mist]\nOs mecânicos são conservadores. Não há outra opção.\nVocê, que é diferente de todos aqui, talvez não saiba disso... Mas justamente por ter se tornado mecânico sem ter publicado nenhum artigo, você não se encaixa aqui.\nVou te apresentar ao meu mestre.",
+        "pt-BR": "[Mist]\nOs mecânicos são cautelosos. Não há outra opção.\nVocê, que é diferente de todos aqui, talvez não saiba disso... Mas justamente por ter se tornado mecânico sem ter publicado nenhum artigo, você não se encaixa aqui.\nVou te apresentar à minha mestre.",
         "es-ES": "[Mist]\nLos mecánicos son conservadores. No les queda otra.\nPuede que tú, que eres atípico en el buen sentido, aún no lo entiendas bien... pero precisamente los que se hicieron mecánicos sin tesis son los que menos encajan en seguir siendo mecánicos.\nTe voy a presentar a mi maestro."
     },
     "OnVtDA": {
         "en-US": "[Mist]\nShe's in Verus right now.\nAn introduction letter? You don't need that.\nJust go to Verus and look for\nMeister [<NAVI>Maura Paola Lagrange<INFO>verus04,214,251,0,101,0</INFO></NAVI>] and tell that Mistiria Trust sent you.",
-        "pt-BR": "[Mist]\nEla está em Verus agora.\nCarta de apresentação? Não precisa disso.\nProcure minha mestra [<NAVI>Maura Paula Lagrange<INFO>verus04,214,251,0,101,0</INFO></NAVI>] \nem Verus e diga que foi enviado pela Mistiria Trust.",
+        "pt-BR": "[Mist]\nEla está em Verus agora.\nCarta de apresentação? Não precisa disso.\nProcure minha mestra [<NAVI>Maura<INFO>verus04,214,251,0,101,0</INFO></NAVI>] \nem Verus e diga que foi Mist quem recomendou você.",
         "es-ES": "[Mist]\nAhora está en Verus.\n¿Una carta de presentación? No hace falta nada de eso.\nVe a ver a la maestra de Verus\n<NAVI>[Maura Paola Lagrange]<INFO>verus04,214,251,0,101,0</INFO></NAVI> y dile que te envía Mistiria Trust."
     },
     "O3VtDA": {
@@ -146,17 +146,17 @@
     },
     "PXVtDA": {
         "en-US": "[Rody]\nBut Mist, your logic is flawed.\nHow are you going to replenish your research funds with that?",
-        "pt-BR": "[Rody]\nMas, Mist. Tem um problema na tua teoria.\nVocê vai conseguir cobrir os custos da pesquisa assim?",
+        "pt-BR": "[Rody]\nMas, Mist. Tem um problema na sua teoria.\nVocê vai conseguir cobrir os custos da pesquisa assim?",
         "es-ES": "[Rody]\nPero Mist. Tu teoría tiene un problema.\n¿Así vas a poder cubrir los gastos de investigación?"
     },
     "PnVtDA": {
         "en-US": "Mist: That's something the evaluator will tell me.",
-        "pt-BR": "Mist: Isso é algo que só saberemos depois da avaliação.",
+        "pt-BR": "Mist: Só saberemos depois da avaliação.",
         "es-ES": "Mist: Eso se sabrá cuando nos evalúen."
     },
     "P3VtDA": {
         "en-US": "[Rody]\nWe're not satisfied yet. We need more knowledge and experience.\nThe same goes for Chainhart.",
-        "pt-BR": "[Rody]\nNão é que a gente tenha se acomodado, é só que ainda nos falta conhecimento e experiência.\nChainhart também está na mesma situação.",
+        "pt-BR": "[Rody]\nNão é que a gente tenha se acomodado, é só que ainda nos falta conhecimento e experiência.\nLuc Tomwa também está na mesma situação.",
         "es-ES": "[Rody]\nNo es que nos hayamos acomodado, es solo que aún nos falta conocimiento y experiencia.\nLo mismo pasa con Chainhart."
     },
     "QHVtDA": {
@@ -176,17 +176,17 @@
     },
     "Q3VtDA": {
         "en-US": "[Mist]\nIf others heard you, they'd think we're paupers.",
-        "pt-BR": "[Mist]\nSe alguém ouvir isso, vão achar que sou um mendigo.",
+        "pt-BR": "[Mist]\nSe alguém ouvir isso, vão achar que sou doida.",
         "es-ES": "[Mist]\nSi alguien lo oye, pensará que somos unos pobres."
     },
     "RHVtDA": {
         "en-US": "[Mist]\nHey there, partner.\nMm? You're lost. What are you talking about? You're way too experienced to get lost here.\nI'm a bit busy right now. Talk to him instead.",
-        "pt-BR": "[Mist]\nO que foi, parceiro?\nHã? Você se perdeu? Que conversa é essa? Um parceiro como você não tem como se perder por aqui.\nEstou um pouco ocupada. Fale com aquele cara ali.",
+        "pt-BR": "[Mist]\nO que foi, colega?\nHã? Você se perdeu? Que conversa é essa? Alguém como você não tem como se perder por aqui.\nEstou um pouco ocupada.",
         "es-ES": "[Mist]\n¿Qué pasa, compañero?\n¿Eh? ¿Te perdiste? ¿Qué dices? Si eres mi compañero, no hay forma de que te pierdas aquí.\nEstoy un poco ocupado. Juega con este amigo."
     },
     "RXVtDA": {
         "en-US": "[Mist]\nGo talk to my <NAVI>[teacher]<INFO>verus04,214,251,0,101,0</INFO></NAVI> in Verus.\nMaybe they'll help you change jobs?\n...Why should they help you?\nYou're partners, aren't you?",
-        "pt-BR": "[Mist]\nVá lá falar com a minha [<NAVI>Mestra<INFO>verus04,214,251,0,101,0</INFO></NAVI>] em Verus.\nTalvez ela te ajude com a mudança de classe?\n...Por que te ajudaria?\nSomos parceiros, não é?",
+        "pt-BR": "[Mist]\nVá lá falar com a minha [<NAVI>Mestra<INFO>verus04,214,251,0,101,0</INFO></NAVI>] em Verus.\nTalvez ela te ajude com a mudança de classe?\n... Por que te ajudaria?\nSomos da mesma classe, não é?",
         "es-ES": "[Mist]\nVe a ver a mi <NAVI>[Maestro]<INFO>verus04,214,251,0,101,0</INFO></NAVI> de Verus y habla con él.\n¿Quizás te ayude con el cambio de profesión?\n...¿Por qué te ayudaría?\n¿No somos compañeros?"
     },
     "RnVtDA": {
@@ -196,7 +196,7 @@
     },
     "R3VtDA": {
         "en-US": "[Mist]\nLook who's here! You look nice!\nI look forward to hearing the news of your research accomplishments.",
-        "pt-BR": "[Mist]\nQuem é esse aí? Parece ter um futuro brilhante, não é?\nEspero por ótimos feitos científicos.",
+        "pt-BR": "[Mist]\nEi, é você? Parece ter um futuro brilhante, não é?\nEspero por ótimos feitos científicos.",
         "es-ES": "[Mist]\n¿Quién es este? ¿Tienes buena suerte?\nEspero grandes resultados en tus investigaciones."
     },
     "SHVtDA": {
@@ -216,27 +216,27 @@
     },
     "S3VtDA": {
         "en-US": "[Maura]\nThis is just great. I can't get any work done...\nWah! Geez!\nHow long have you been standing there, Mechanic?",
-        "pt-BR": "[Maura]\nQue situação. Não consigo trabalhar...\nNossa. Que susto.\nDesde quando você está aí, Mecânico?",
+        "pt-BR": "[Maura]\nQue situação. Não consigo trabalhar...\nNossa. Que susto!\nDesde quando você está aí, Mecânico?",
         "es-ES": "[Maura]\nVaya, qué lío. No consigo hacer nada...\n¡Ay! ¡Qué susto!\n¿Desde cuándo estás ahí, Mecánico?"
     },
     "THVtDA": {
         "en-US": "[Maura]\nDo you have any business with me?\nIf you do, you should have called me instead of sneaking up on me like that. You made my heart stop.\nWhat is it?",
-        "pt-BR": "[Maura]\nVocê tem assuntos comigo?\nSe sim, deveria ter me chamado ao invés de ficar aí escondido. Levei um susto!\nO que você quer?",
+        "pt-BR": "[Maura]\nVocê tem assuntos comigo?\nSe sim, deveria ter me chamado ao invés de ficar aí se escondendo. Levei um susto!\nO que você quer?",
         "es-ES": "[Maura]\n¿Me buscas?\nSi es así, avísame, no te acerques sin hacer ruido... Me has dado un susto.\n¿Qué pasa?"
     },
     "TXVtDA": {
         "en-US": "Mistyria Trust...",
-        "pt-BR": "Mistiria Trust",
+        "pt-BR": "Mist me mandou.",
         "es-ES": "Mistiria Trust"
     },
     "TnVtDA": {
         "en-US": "[{0}]\nMy partner, Mistyria Trust, whom I came across in Juno, said you're in Veru--",
-        "pt-BR": "[{0}]\nA Mistyra Trust, uma parceira que conheci por acaso em Juno, está em Verus...",
+        "pt-BR": "[{0}]\nAh, a Mistyra Trust, uma parceira que conheci por acaso em Juno. Ela está em Verus...?",
         "es-ES": "[{0}]\nMistiria Trust, una compañera de trabajo que conocí por casualidad en Yuno, en Berus..."
     },
     "T3VtDA": {
         "en-US": "[Maura]\nAh, again!\nThat brat, again!!",
-        "pt-BR": "[Maura]\nAh, de novo!\nAquela garota, de novo!!",
+        "pt-BR": "[Maura]\nAh, de novo!\nEssa garota, de novo!!",
         "es-ES": "[Maura]\n¡Ah, otra vez!\n¡Ese tipo, otra vez!!"
     },
     "UHVtDA": {
@@ -246,22 +246,22 @@
     },
     "UXVtDA": {
         "en-US": "[Maura]\nNo... it's not that...\nThat girl says she doesn't want to become a Meister herself, but she keeps gathering up all the promising kids she sees and sending them to me.\nHow did she know where I was this time?",
-        "pt-BR": "[Maura]\nNão... não é nada disso...\nAquela garota diz que não quer ser uma Engenheira, mas sempre que vê umas pessoas promissores, os manda pra mim.\nComo ela descobriu onde eu estava dessa vez?",
+        "pt-BR": "[Maura]\nNão... não é nada disso...\nMist diz que não quer ser uma Engenheira, mas sempre que vê umas pessoas promissores, as manda pra mim.\nComo ela descobriu onde eu estava dessa vez?",
         "es-ES": "[Maura]\nNo... no es eso...\nEse tipo dice que no quiere ser Artífice, pero cada vez que ve a chicos prometedores, los junta a todos y me los envía.\n¿Cómo es que esta vez también supo dónde estoy?"
     },
     "UnVtDA": {
         "en-US": "[Maura]\nSo, young Mechanic. How did you become a Mechanic?",
-        "pt-BR": "[Maura]\nEntão, jovem mecânico. Como você se tornou um mecânico?",
+        "pt-BR": "[Maura]\nEntão, jovem. Como você se juntou aos mecânicos?",
         "es-ES": "[Maura]\nSí, joven mecánico. ¿Cómo es que te convertiste en mecánico?"
     },
     "U3VtDA": {
         "en-US": "Chainhart, by any chance...",
-        "pt-BR": "Por acaso, foi o Chainhart...",
+        "pt-BR": "Por acaso, foi o Luc Tomwa...",
         "es-ES": "¿Por casualidad te llamas Chainhart...?"
     },
     "VHVtDA": {
         "en-US": "[Maura]\nOh... so you're Chainhart's student?",
-        "pt-BR": "[Maura]\nAh... você é aluno do Chainhart?",
+        "pt-BR": "[Maura]\nAh... você estudou com Luc Tomwa?",
         "es-ES": "[Maura]\nAh... ¿Eres discípulo de Chainhart?"
     },
     "VXVtDA": {
@@ -271,12 +271,12 @@
     },
     "VnVtDA": {
         "en-US": "[Maura]\nAh, then let me guess: you also have seen it, haven't you?\nThe proof of us being Frankelson's students or successors.",
-        "pt-BR": "[Maura]\nAh, então você também... viu aquilo, ou algo assim?\nA prova de que somos discípulos ou sucessores daquele Frankelson...",
+        "pt-BR": "[Maura]\nAh, então você também... viu aqueles fantasmas...?\nA prova de que somos discípulos de Frankelson...",
         "es-ES": "[Maura]\nAh, entonces tú también... ¿has visto eso o algo así?\nTodos nosotros, como prueba de que somos discípulos o sucesores de ese Frankelson..."
     },
     "V3VtDA": {
         "en-US": "[Maura]\n...That thing whose greed for knowledge got it locked up in that place, forever wandering without knowing who it really was.",
-        "pt-BR": "[Maura]\n...por ser gananciosa, fiquei presa daquele lugar e acabei vendo aquilo...\nAquela coisa vagando sem rumo eternamente, sem saber o que é....",
+        "pt-BR": "[Maura]\n...por ser gananciosa, fiquei presa naquele lugar e acabei vendo aquilo...\nAquela coisa vagando sem rumo eternamente, sem saber o que é....",
         "es-ES": "[Maura]\n...por no conocer nuestro lugar y ser tan ambiciosos que quedamos atrapados dentro de la puerta, y acabamos convirtiéndonos en eso mismo de lo que tanto sospechábamos: algo confuso y ambiguo... lo has visto, ¿no?"
     },
     "WHVtDA": {
@@ -286,22 +286,22 @@
     },
     "WXVtDA": {
         "en-US": "[Maura]\nIsn't one of those beings enough?",
-        "pt-BR": "[Maura]\nNão basta uma só pessoa se tornar isso?",
+        "pt-BR": "[Maura]\nNão basta uma só pessoa se tornar mecânico?",
         "es-ES": "[Maura]\n¿No basta con que haya una sola persona que se convierta en algo así?"
     },
     "WnVtDA": {
         "en-US": "[Maura]\nEven though we Mechanics exist—or existed—thanks to his research and unintended sacrifice.",
-        "pt-BR": "[Maura]\nMesmo que sejamos mecânicos, ou tenhamos sido mecânicos, graças à pesquisa dele e, mesmo que não tenha sido intencional, graças ao sacrifício dele.",
+        "pt-BR": "[Maura]\nFoi graças à pesquisa dele que nos tornamos Mecânicos. Mesmo que não tenha sido intencional, foi graças ao sacrifício dele.",
         "es-ES": "[Maura]\nAunque seamos mecánicos, o hayamos sido mecánicos, gracias a su investigación y a un sacrificio que no fue intencional."
     },
     "W3VtDA": {
         "en-US": "== Maura looked down at his left leg. ==\n== Even without equipping a Madogear, from the knee down is covered in metal of a design similar to a Madogear. ==",
-        "pt-BR": "== Maura olhou para sua perna esquerda. ==\n== Mesmo sem equipar um M.E.C.H.A., do joelho para baixo está coberto de metal de um design similar a um M.E.C.H.A.. ==",
+        "pt-BR": "== Maura olhou para sua perna esquerda. ==\n== Do joelho para baixo está coberto de metal de um design similar a um M.E.C.H.A. ==",
         "es-ES": "== Maura miró su pierna izquierda. ==\n== Incluso sin equipar un Madogear, desde la rodilla hacia abajo está cubierta de metal de un diseño similar a un Madogear. =="
     },
     "XHVtDA": {
         "en-US": "[Maura]\nThis was an explosion.\nSure, my craftsmanship is exceptional. I can operate it seamlessly, and it doesn't weigh me down even in the rain. But the fact remains, I lost my leg.\nAh~, that bastard Mist!!",
-        "pt-BR": "[Maura]\nIsso aqui aconteceu em uma explosão.\nClaro que meu talento é incrível. Consigo manuseá-lo sem dificuldades e não me atrapalha mesmo na chuva. Mas é verdade que perdi uma perna.\nAh, aquele maldita Mist!!",
+        "pt-BR": "[Maura]\nEu perdi minha perna em uma explosão.\nClaro que meu talento é incrível. Consigo manusear meu joelho mecânico sem dificuldades e não me atrapalha mesmo na chuva. Por isso me chamam de Perna de Prata.\nPrincipalmente a maldita Mist!!",
         "es-ES": "[Maura]\nEsto es una explosión.\nClaro que mi destreza es increíble. Puedo manejarlo sin que se note y no se vuelve pesado aunque llueva. Pero es cierto que perdí una pierna.\n¡Ay, maldito Mist!"
     },
     "XXVtDA": {
@@ -321,17 +321,17 @@
     },
     "YHVtDA": {
         "en-US": "[Maura]\nWe Mechanics are always in pursuit of new inventions and technology, and yet we're more conservative than anyone else.\nWe don't try to put our theories into practice until we're absolutely confident in them.",
-        "pt-BR": "[Maura]\nNós estamos sempre criando coisas novas e buscando as tecnologias mais inovadoras, mas somos conservadores.\nPor isso, não fazemos experimentos até que a teoria esteja completa. Nunca se sabe quando minha vida pode estar em risco.",
+        "pt-BR": "[Maura]\nNós estamos sempre criando coisas novas e buscando as tecnologias mais inovadoras, mas somos cautelosos.\nPor isso, não fazemos experimentos até que a teoria esteja completa. Nunca se sabe quando sua vida pode estar em risco.",
         "es-ES": "[Maura]\nNosotros, verás, siempre estamos creando cosas nuevas y buscando la tecnología más avanzada, pero somos conservadores.\nPor eso no hacemos experimentos hasta que la teoría esté completa. Nunca se sabe cuándo mi vida podría estar en peligro."
     },
     "YXVtDA": {
         "en-US": "[Maura]\nWhat matters most is your life. You can't protect others without protecting yourself first.",
-        "pt-BR": "[Maura]\nO mais importante é a minha vida. Se eu não valorizar isso, coloco todos os meus colegas em perigo.",
+        "pt-BR": "[Maura]\nO mais importante é a vida. Se não valorizar isso, você coloca todos os colegas em perigo.",
         "es-ES": "[Maura]\nLo más importante es mi vida. Si no la valoro, todos mis compañeros corren peligro."
     },
     "YnVtDA": {
         "en-US": "[Maura]\nEven though I was being so careful, I ended up like this while developing new Madogear.\nSo, I became even more conservative after becoming a Meister than I was as a Mechanic.",
-        "pt-BR": "[Maura]\nMesmo sendo tão cautelosa, acabei ficando assim enquanto desenvolvia um novo tipo de M.E.C.H.A..\nPor isso, depois de me tornar Engenheira, fiquei ainda mais... conservadora do que quando era Mecânica.",
+        "pt-BR": "[Maura]\nMesmo sendo tão cautelosa, acabei ficando assim enquanto desenvolvia um novo tipo de M.E.C.H.A...\nPor isso, depois de me tornar Engenheira, fiquei ainda mais... cautelosa do que quando era Mecânica.",
         "es-ES": "[Maura]\nA pesar de ser tan cautelosa, terminé así mientras desarrollaba un nuevo artilugio mágico.\nPor eso, desde que me convertí en maestra, soy aún más... conservadora que cuando era mecánica."
     },
     "Y3VtDA": {
@@ -341,12 +341,12 @@
     },
     "ZHVtDA": {
         "en-US": "[Maura]\n...You're actually the first one from Mist who became a Mechanic without a thesis.\nOf course, we're not obligated to accept everyone who came to see us as our students, but... mm...",
-        "pt-BR": "[Maura]\n...Na verdade, entre as pessoas que a Mist enviou, você é o primeiro a se tornar Mecânico sem possuir uma tese de pesquisa.\nNão é que a gente tenha que aceitar como discípulo qualquer um que apareça, mas, hum...",
+        "pt-BR": "[Maura]\n...Na verdade, entre as pessoas que a Mist enviou, você é a primeira a se tornar Mecânico sem possuir uma tese de pesquisa.\nNão é que a gente tenha que aceitar como discípulo qualquer um que apareça, mas, hm...",
         "es-ES": "[Maura]\n...De hecho, entre la gente que ha enviado Mist, tú eres el primero en convertirte en mecánico sin tener una tesis.\nNo es que tengamos que aceptar como discípulos a todos los que vienen por supuesto, pero, mmm..."
     },
     "ZXVtDA": {
         "en-US": "[Maura]\nHave you heard of Neusch Lian...?",
-        "pt-BR": "[Maura]\nJá ouviu falar do Neusch Lian...?",
+        "pt-BR": "[Maura]\nJá ouviu falar de Neusch Lian...?",
         "es-ES": "[Maura]\n¿Has oído hablar alguna vez de Neusch Lian...?"
     },
     "ZnVtDA": {
@@ -371,7 +371,7 @@
     },
     "anVtDA": {
         "en-US": "[Maura]\nI'm not surprised. I decided to create this mana engine leg instead of regenerating my leg after meeting him.",
-        "pt-BR": "[Maura]\nÉ o que eu imaginava. ...O motivo de eu ter criado essa perna mecânica ao invés de regenerar minha perna original foi porque encontrei aquele cara.",
+        "pt-BR": "[Maura]\nÉ o que eu imaginava... O motivo de eu ter criado essa perna mecânica foi porque encontrei com Neusch Lian.",
         "es-ES": "[Maura]\nMe lo imaginaba. ...La razón por la que no regeneré mi pierna y en su lugar utilicé un mecanismo mágico fue porque conocí a ese tipo."
     },
     "a3VtDA": {
@@ -381,12 +381,12 @@
     },
     "bHVtDA": {
         "en-US": "[Maura]\nBut I had a partner who was so frail that even studying at the desk was too much for him.",
-        "pt-BR": "[Maura]\nMas eu tinha um colega que não possuía um corpo tão resistente... um cara que só ficava estudando teoria na mesa e acabou desmaiando e sendo levado para o hospital.",
+        "pt-BR": "[Maura]\nMas eu tinha um colega que não possuía um corpo tão resistente... um cara que só ficava estudando teoria na mesa e acabou desmaiando.",
         "es-ES": "[Maura]\nPero había un colega que no tenía un físico tan robusto... uno que se desmayó y lo tuvieron que llevar al hospital después de pasar tanto tiempo estudiando solo la teoría en su escritorio."
     },
     "bXVtDA": {
         "en-US": "[Maura]\nHe was researching how to become one with the mana engine.\nNot just reading brainwaves to control it perfectly... He was working on a completely new concept. A whole new level of Madogear.",
-        "pt-BR": "[Maura]\nA pesquisa que ele fazia era sobre se tornar um só com o mecanismo de mana.\nNão apenas sobre ler ondas cerebrais para um controle perfeito... Era sobre criar algo com um conceito totalmente novo. Um novo tipo de M.E.C.H.A..",
+        "pt-BR": "[Maura]\nA pesquisa que ele fazia era sobre se tornar um só com o mecanismo de mana.\nNão apenas sobre ler ondas cerebrais para um controle perfeito... Era sobre criar algo com um conceito totalmente novo. Um novo tipo de M.E.C.H.A.",
         "es-ES": "[Maura]\nLa investigación que él llevaba a cabo era sobre cómo fundirse en uno con el equipo mágico.\nNo me refiero a leer ondas cerebrales para controlarlo a la perfección... sino a crear un equipo mágico con un concepto completamente nuevo."
     },
     "bnVtDA": {
@@ -396,7 +396,7 @@
     },
     "b3VtDA": {
         "en-US": "== He recalled the essence of Mechanic that the Gate of Truth had shown him. Certainly, that synthesis method was not within what the Gate of Truth taught, but it didn't seem like it would be beyond it either. ==",
-        "pt-BR": "== Ele lembrou a essência de Mecânico que o Portal da Verdade lhe mostrara. Certamente, aquele método de síntese não estava dentro do que o Portal da Verdade ensinou, mas também não parecia que estaria além dele. ==",
+        "pt-BR": "== Maura mencionou um Portal da Verdade. Explicando que o conhecimento estaria além dele. ==",
         "es-ES": "== Recordó la esencia de Mecánico que el Portal de la Verdad le había mostrado. Ciertamente, ese método de síntesis no estaba dentro de lo que enseñó el Portal de la Verdad, pero tampoco parecía estar más allá de él. =="
     },
     "cHVtDA": {
@@ -441,7 +441,7 @@
     },
     "eHVtDA": {
         "en-US": "[{0}]\nThen why did that Lian guy...",
-        "pt-BR": "[{0}]\nEntão, por que aquele Lian...",
+        "pt-BR": "[{0}]\nEntão, por que aquele Lian...?",
         "es-ES": "[{0}]\nEntonces, ¿por qué ese tal Liang...?"
     },
     "eXVtDA": {
@@ -456,7 +456,7 @@
     },
     "e3VtDA": {
         "en-US": "[{0}]\nThe proper way is... no.",
-        "pt-BR": "[{0}]\nA maneira correta não é... essa, né.",
+        "pt-BR": "[{0}]\nA maneira correta não é... essa, né?",
         "es-ES": "[{0}]\nLa forma correcta no es... esa."
     },
     "fHVtDA": {
@@ -466,7 +466,7 @@
     },
     "fXVtDA": {
         "en-US": "== Maura took out a nipper from his tool belt at his waist and lightly struck his leg. ==\n== It made a clang sound. ==",
-        "pt-BR": "== Maura pegou um alicate do cinto de ferramentas em sua cintura e bateu levemente em sua perna. ==\n== Fez um som de clang. ==",
+        "pt-BR": "== Maura bateu novamente em sua perna. ==\n== Fez outro som de clang. ==",
         "es-ES": "== Maura sacó un alicate de su cinturón de herramientas en la cintura y golpeó ligeramente su pierna. ==\n== Hizo un ruido metálico. =="
     },
     "fnVtDA": {
@@ -476,12 +476,12 @@
     },
     "f3VtDA": {
         "en-US": "If it's a matter of not having metabolism...",
-        "pt-BR": "Se for um método que não realiza metabolismo...",
+        "pt-BR": "Um método sem metabolismo...?",
         "es-ES": "Si es un método que no realiza metabolismo..."
     },
     "gHVtDA": {
         "en-US": "Abandoning the human body?",
-        "pt-BR": "Significa abandonar o corpo humano?",
+        "pt-BR": "Abandonar o corpo humano?",
         "es-ES": "¿Significa que hay que deshacerse del cuerpo humano?"
     },
     "gXVtDA": {
@@ -501,7 +501,7 @@
     },
     "hHVtDA": {
         "en-US": "[Maura]\nYeah, that's what we do as Meisters.\nIn the end, no matter what you do, you can only base it on what you know. Things you make will still require your own skills and manual activation.",
-        "pt-BR": "[Maura]\nÉ isso mesmo, isso é o Engenheiro.\nNo fim das contas, como só dá pra incluir as informações que eu tenho conhecimento, da mesma forma, a habilidade da própria pessoa é necessária e o criador não tem escolha a não ser operá-lo diretamente.",
+        "pt-BR": "[Maura]\nÉ isso mesmo, isso é o pensamento de um Engenheiro.\nNo fim das contas, como só dá pra incluir as informações que eu tenho conhecimento, da mesma forma, a habilidade da própria pessoa é necessária e o criador não tem escolha a não ser operá-lo diretamente.",
         "es-ES": "[Maura]\nSí, eso es un Artífice.\nAl final, como solo se puede meter la información que yo conozco, igual se necesitan tus propias habilidades y el creador no tiene más remedio que manejarlo directamente."
     },
     "hXVtDA": {
@@ -511,7 +511,7 @@
     },
     "hnVtDA": {
         "en-US": "Then something capable of metabolism is...",
-        "pt-BR": "Então, se for uma forma de realizar o metabolismo...",
+        "pt-BR": "Uma forma de metabolizar...",
         "es-ES": "Entonces, si hablamos de cómo realizar el metabolismo..."
     },
     "h3VtDA": {
@@ -526,7 +526,7 @@
     },
     "iXVtDA": {
         "en-US": "There are a lot of people doing strange research.",
-        "pt-BR": "Tem muita gente fazendo pesquisas estranhas",
+        "pt-BR": "Que pesquisas estranhas",
         "es-ES": "Hay mucha gente haciendo investigaciones raras"
     },
     "inVtDA": {
@@ -536,17 +536,17 @@
     },
     "i3VtDA": {
         "en-US": "[Maura]\n...Anyway.\nEven if Mist told you about me, you wouldn't have come if you didn't want to.\nSo, let me ask you.\nWhy do you want to be a Meister?",
-        "pt-BR": "[Maura]\n...De qualquer forma.\nPor mais que tenha sido a Mist quem te apresentou, deve ter um motivo para você ter vindo até aqui.\nEntão, me diga.\nPor que você quer se tornar um Engenheiro?",
+        "pt-BR": "[Maura]\n...De qualquer forma.\nPor mais que tenha sido a Mist quem te apresentou, deve ter um motivo para você ter vindo até aqui.\nEntão, me diga.\nPor que você quer se juntar aos Engenheiros?",
         "es-ES": "[Maura]\n...En fin.\nPor mucho que Mist te haya presentado, habrá una razón por la que has llegado hasta aquí.\n¿Por qué?\n¿Por qué quieres ser un Artífice?"
     },
     "jHVtDA": {
         "en-US": "[{0}]\nMist sent me...",
-        "pt-BR": "[{0}]\nFui enviado pela Mist...",
+        "pt-BR": "[{0}]\nMist me enviou...",
         "es-ES": "[{0}]\nMist me envió..."
     },
     "jXVtDA": {
         "en-US": "[Maura]\nDo you just follow everything others tell you to do?\nHah hah.\nYou must have a desire to improve, which is why you've come this far. So, what do you think you can do once you become a Meister?",
-        "pt-BR": "[Maura]\nVocê faz tudo o que os outros mandam?\nHaha.\nVocê deve ter vindo até aqui porque tem vontade de melhorar. Então, o que você pode fazer quando se tornar um Engenheiro?",
+        "pt-BR": "[Maura]\nVocê faz tudo o que os outros mandam?\nHaha.\nVocê deve ter vindo até aqui porque tem vontade de melhorar. Então, o que você pode fazer quando se juntar aos Engenheiros?",
         "es-ES": "[Maura]\n¿Haces todo lo que te dicen los demás?\nJaja.\nSeguramente has llegado hasta aquí porque tienes ganas de mejorar. Bueno, ¿qué es lo que puedes hacer si te conviertes en Artífice?"
     },
     "jnVtDA": {
@@ -576,17 +576,17 @@
     },
     "k3VtDA": {
         "en-US": "[{0}]\nMiss Lagrange, you didn't...",
-        "pt-BR": "[{0}]\nSrta. Lagrange, você não...",
+        "pt-BR": "[{0}]\nSrta. Lagrange, você não...?",
         "es-ES": "[{0}]\n¿Acaso el señor Lagrange también...?"
     },
     "lHVtDA": {
         "en-US": "[Maura]\nYou grasp things quickly, which is convenient.\nYoung Mechanic, here's a task for you.",
-        "pt-BR": "[Maura]\nVocê entende rápido, isso facilita as coisas.\nJovem Mecânico, vou te dar uma tarefa.",
+        "pt-BR": "[Maura]\nVocê entende rápido, isso facilita as coisas.\nJovem, vou te dar uma tarefa.",
         "es-ES": "[Maura]\nQué rápido entiendes, qué fácil.\nJoven mecánico, te voy a dar una tarea."
     },
     "lXVtDA": {
         "en-US": "[Maura]\nThe remains of what was once Neusch Lian are in Juperos.\n<B>Use this gear</B> to raid the site and dismantle his remains.",
-        "pt-BR": "[Maura]\nOs destroços do que antes foi Neusch Lian estão em Juperos.\n<B>Usando esta engrenagem</B>, invada o local e separe os destroços.",
+        "pt-BR": "[Maura]\nOs destroços do que antes foi Neusch Lian estão em Juperos.\n<B>Fale com a Máquina ao meu lado</B>, invada o local e separe os destroços.",
         "es-ES": "[Maura]\nLos restos de lo que era ese Neusch Lian están en Juperos.\n<B>Usa los engranajes de este lado</B> para asaltar el lugar y desmontar los restos."
     },
     "lnVtDA": {
@@ -631,12 +631,12 @@
     },
     "nnVtDA": {
         "en-US": "[Maura]\nYou shouldn't be on a mount for such an important procedure. Get off.",
-        "pt-BR": "[Maura]\nUsar isso num momento tão importante não é muito legal, né? Desce daí primeiro.",
+        "pt-BR": "[Maura]\nUsar isso num momento tão importante não é muito legal, né? Desmonte da sua montaria primeiro.",
         "es-ES": "[Maura]\n¿Vienes en eso en un momento tan importante? Baja de ahí."
     },
     "n3VtDA": {
         "en-US": "[Maura]\nYou shouldn't be in that suit for such an important procedure. Take it off.",
-        "pt-BR": "[Maura]\nNuma hora tão importante assim, esse traje não combina... Remova primeiro.",
+        "pt-BR": "[Maura]\nNuma hora tão importante assim, esse M.E.C.H.A não combina... Remova primeiro.",
         "es-ES": "[Maura]\nEn un momento tan importante, ese atuendo no me convence... Baja de ahí."
     },
     "oHVtDA": {
@@ -646,12 +646,12 @@
     },
     "oXVtDA": {
         "en-US": "[{0}]\nThat's really kind of you...",
-        "pt-BR": "[{0}]\nMuito obrigado por isso...",
+        "pt-BR": "[{0}]\nAgradeço pelos elogios...",
         "es-ES": "[{0}]\nTe lo agradezco mucho..."
     },
     "onVtDA": {
         "en-US": "[Maura]\nWell then, you should be grateful.\nYou've just passed your Job Change test.\nI have the authority to approve that.",
-        "pt-BR": "[Maura]\nÉ, você deve se sentir grato.\nVocê acabou de passar no teste de mudança de classe.\nEu tenho autoridade para te dar essa aprovação.",
+        "pt-BR": "[Maura]\nÉ, você deve se sentir gratidão.\nVocê acabou de passar no teste de mudança de classe.\nEu tenho autoridade para te dar essa aprovação.",
         "es-ES": "[Maura]\nPues claro, tienes que dar las gracias.\nAcabas de pasar la prueba de cambio de clase sin problemas.\nYo me encargaré de dar la aprobación."
     },
     "o3VtDA": {
@@ -672,16 +672,16 @@
     "pnVtDA": {
         "en-US": "[Maura]\nEven if you fuse yourself with your Madogear because you don't want to end up like Frankelson, you will end up like Naoise because your Madogear is still your creation",
         "pt-BR": "[Maura]\nMesmo que você se una ao M.E.C.H.A para não acabar como o Frankelson, você ainda teria o mesmo destino do Lian porque o M.E.C.H.A é a sua criação.",
-        "es-ES": "[Maura]\nAunque digan que los humanos acaban como Franklson, si te fusionas con el conocimiento que hay al otro lado de la puerta, el artilugio mágico que tú mismo creas no va a ir más allá de tu propio conocimiento..."
+        "es-ES": "[Maura]\nAunque digan que los humanos acaban como Frankelson, si te fusionas con el conocimiento que hay al otro lado de la puerta, el artilugio mágico que tú mismo creas no va a ir más allá de tu propio conocimiento..."
     },
     "p3VtDA": {
         "en-US": "[Maura]\nIt's a shame we lost such a great researcher, though.",
-        "pt-BR": "[Maura]\nPerdi uma pessoa importante...",
+        "pt-BR": "[Maura]\nEu perdi uma pessoa importante...",
         "es-ES": "[Maura]\nHe perdido a alguien a quien apreciaba..."
     },
     "qHVtDA": {
         "en-US": "[Maura]\nYoung Mechanic.\nWhat have you learned?",
-        "pt-BR": "[Maura]\nJovem Mecânico.\nO que você aprendeu?",
+        "pt-BR": "[Maura]\nJovem.\nO que você aprendeu?",
         "es-ES": "[Maura]\nUn joven mecánico.\n¿Qué habrás aprendido?"
     },
     "qXVtDA": {
@@ -706,12 +706,12 @@
     },
     "rXVtDA": {
         "en-US": "[Maura]\nThat's a great answer.\nI enjoyed watching you two work together. It was an interesting experience.",
-        "pt-BR": "[Maura]\nGostei da resposta.\nBom trabalho em equipe. Foi uma experiência divertida.",
+        "pt-BR": "[Maura]\nGostei da resposta.\nBom trabalho! Foi uma experiência divertida.",
         "es-ES": "[Maura]\nMe gusta esa respuesta.\nBuena jugada en equipo, la disfruté. Fue una experiencia divertida."
     },
     "rnVtDA": {
         "en-US": "[Maura]\nThis excursion wasn't the experience of an auto-battle robot and adventurer {0}, but rather Meister Maura and Mechanic {0} who built the auto-battle robot. You'd better remember that.",
-        "pt-BR": "[Maura]\nEsta experiência não foi a de um robô autômato e do aventureiro {0}, mas sim da Engenheira Maura e do Mecânico {0}, que criou o robô autômato. Lembre-se muito bem disso.",
+        "pt-BR": "[Maura]\nEsta experiência não foi a de um robô autômato e de {0}, mas sim da Engenheira Maura e de {0}, que criou o ABR. Lembre-se muito bem disso.",
         "es-ES": "[Maura]\nEsto no es una experiencia del robot de combate automático y el aventurero {0}, sino del maestro Maura, quien creó el robot de combate automático, y del mecánico {0}. Recuérdalo bien."
     },
     "r3VtDA": {
@@ -721,12 +721,12 @@
     },
     "sHVtDA": {
         "en-US": "[Maura]\nNew Meister,\n{0} May your journey be filled with blessings.",
-        "pt-BR": "[Maura]\nNovo Engenheiro, {0}!\nQue a sorte esteja sempre ao seu lado.",
+        "pt-BR": "[Maura]\nJovem, {0}!\nQue a sorte esteja sempre ao seu lado!",
         "es-ES": "[Maura]\nNuevo maestro,\nque la suerte te acompañe en tu futuro, {0}."
     },
     "sXVtDA": {
         "en-US": "[Maura]\nNow, try to create things on your own.\nYou can always refer to that book I gave you if you need.",
-        "pt-BR": "[Maura]\nAgora, tente você mesmo criar o que surge em sua mente.\nUse aquele livro como referência.",
+        "pt-BR": "[Maura]\nNão esqueça de usar o Livro que lhe dei.\nEle ensinará tudo o que você precisa.",
         "es-ES": "[Maura]\nAhora intenta crear tú mismo lo que se te ocurra.\nConsulta ese libro."
     },
     "snVtDA": {
@@ -741,7 +741,7 @@
     },
     "tHVtDA": {
         "en-US": "Get Device Manufacturing Book for 100,000 Zeny.",
-        "pt-BR": "Pagar 100.000 Zeny pelo Livro de Mecatrônica.",
+        "pt-BR": "Pagar 100.000 Zeny.",
         "es-ES": "Pagas 100 000 zeni y recibes el Libro de Fabricación de Dispositivos"
     },
     "tXVtDA": {
@@ -771,27 +771,27 @@
     },
     "unVtDA": {
         "en-US": "E-type Gear",
-        "pt-BR": "Engrenagem Tipo E",
+        "pt-BR": "Máquina-E",
         "es-ES": "Engranaje tipo E"
     },
     "u3VtDA": {
         "en-US": "Maura: Ah, according to her design, Dash doesn't feel the need to greet you at the moment. She wouldn't answer you, even if you greet her first. Understand.",
-        "pt-BR": "Maura: Ah, da forma como foi projetada, Dash não tem motivos pra falar com você agora. Ela não vai responder. Entenda.",
+        "pt-BR": "Maura: Ah, ela está em manutenção.",
         "es-ES": "Maura: Ah, según el diseño, Dash no tiene por qué saludarte ahora. No te va a responder. Lo entiendo."
     },
     "vHVtDA": {
         "en-US": "[E-type Gear]\n+++ATH\nOK",
-        "pt-BR": "[Engrenagem Tipo E]\n+++ATH\nOK",
+        "pt-BR": "[Máquina-E]\n@@EM@@\n@@Manutenção@@",
         "es-ES": "[E-Gear]\n+++ATH\nOK"
     },
     "vXVtDA": {
         "en-US": "[E-type Gear]\n...",
-        "pt-BR": "[Engrenagem Tipo E]\n...",
+        "pt-BR": "[Máquina-E]\n...",
         "es-ES": "[Gear Tipo E]\n..."
     },
     "vnVtDA": {
         "en-US": "[E-type Gear]\nThe E-type gear begins operation.",
-        "pt-BR": "[Engrenagem Tipo E]\nO Engrenagem Tipo E está iniciando a operação.",
+        "pt-BR": "[Máquina-E]\nA Máquina-E está iniciando a operação.",
         "es-ES": "[Gear Tipo E]\nEl Gear Tipo E está comenzando a funcionar."
     },
     "v3VtDA": {
@@ -806,22 +806,22 @@
     },
     "wXVtDA": {
         "en-US": "[E-type Gear]\nPlease note that this system is not a teleportation device but a simulator.\nWhatever it creates, however, will become your reality for the moment.\nPlease be careful.",
-        "pt-BR": "[Engrenagem Tipo E]\nLembre-se de que este sistema não é um dispositivo de teletransporte, mas sim um dispositivo de simulação.\nNo entanto, tudo o que for criado durante a simulação será a sua realidade naquele momento.\nTenha muito cuidado.",
+        "pt-BR": "[Máquina-E]\nLembre-se de que eu não sou um dispositivo de teletransporte, mas de simulação.\nNo entanto, tudo o que for criado durante a simulação será a sua realidade naquele momento.\nTenha muito cuidado.",
         "es-ES": "[Engranaje Tipo E]\nTen en cuenta que este sistema no es un dispositivo de teletransporte, sino un generador de situaciones.\nSin embargo, es tu realidad.\nTen cuidado."
     },
     "wnVtDA": {
         "en-US": "[E-type Gear]\nConnecting...",
-        "pt-BR": "[Engrenagem Tipo E]\nTentando estabelecer conexão.",
+        "pt-BR": "[Máquina-E]\nTentando estabelecer conexão.",
         "es-ES": "[Engranaje Tipo E]\nIntentando establecer conexión."
     },
     "w3VtDA": {
         "en-US": "E-type Gear: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
-        "pt-BR": "Engrenagem Tipo E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
+        "pt-BR": "Máquina-E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
         "es-ES": "Engranaje Tipo E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519."
     },
     "xHVtDA": {
         "en-US": "[E-type Gear]\nCONNECT 230400",
-        "pt-BR": "[Engrenagem Tipo E]\nCONEXÃO 230400",
+        "pt-BR": "[Máquina-E]\nCONEXÃO 230400",
         "es-ES": "[Engranaje Tipo E]\nCONNECT 230400"
     },
     "xXVtDA": {
@@ -836,7 +836,7 @@
     },
     "x3VtDA": {
         "en-US": "[E-type Gear]\nLogged in.",
-        "pt-BR": "[Engrenagem Tipo E]\nConectado.",
+        "pt-BR": "[Máquina-E]\nConectado.",
         "es-ES": "[Engranaje tipo E]\nHas iniciado sesión."
     },
     "yHVtDA": {
@@ -846,77 +846,77 @@
     },
     "yXVtDA": {
         "en-US": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
-        "pt-BR": "^4D4DFFEste é um evento Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
+        "pt-BR": "^4D4DFFEsta é uma instância.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "ynVtDA": {
         "en-US": "Create Juperos Core VT",
-        "pt-BR": "Abertura do VT do Centro de Juperos",
+        "pt-BR": "Gerar Simulação",
         "es-ES": "Apertura del VT del centro de Uperos"
     },
     "y3VtDA": {
         "en-US": "Enter Juperos Core VT",
-        "pt-BR": "Entrando no VT do Centro de Juperos",
+        "pt-BR": "Entrar na Simulação",
         "es-ES": "Entrada al VT del centro de Uperos"
     },
     "zHVtDA": {
         "en-US": "[E-type Gear]\nNO CARRIER\nOK",
-        "pt-BR": "[Engrenagem Tipo E]\nSEM OPERADOR\nOK",
+        "pt-BR": "[Máquina-E]\nSEM OPERADOR\nOK",
         "es-ES": "[Engranaje Tipo E]\nNO CARRIER\nOK"
     },
     "zXVtDA": {
         "en-US": "[E-type Gear]\nConnection has been disconnected.\nPlease try again.",
-        "pt-BR": "[Engrenagem Tipo E]\nA conexão foi terminada.\nTente novamente.",
+        "pt-BR": "[Máquina-E]\nA conexão foi terminada.\nTente novamente.",
         "es-ES": "[Engranaje Tipo E]\nSe ha desconectado.\nInténtalo de nuevo."
     },
     "znVtDA": {
         "en-US": "[E-type Gear]\nA virtual terminal has been created.\nTo enter,\nplease select Enter Juperos Core VT.",
-        "pt-BR": "[Engrenagem Tipo E]\nO terminal virtual foi aberto.\nPara entrar,\nselecione o menu de entrada novamente.",
+        "pt-BR": "[Máquina-E]\nO terminal virtual foi aberto.\nPara entrar,\nselecione o menu de entrada novamente.",
         "es-ES": "[Engranaje Tipo E]\nSe ha abierto el terminal virtual.\nEl acceso comenzará en breve.\nVuelve a seleccionar el menú de acceso."
     },
     "z3VtDA": {
         "en-US": "[E-type Gear]\nPlease form a party first.",
-        "pt-BR": "[Engrenagem Tipo E]\nForme um grupo e tente novamente.",
+        "pt-BR": "[Máquina-E]\nForme um grupo e tente novamente.",
         "es-ES": "[Engranaje Tipo E]\nForma un grupo y vuelve a intentarlo."
     },
     "0HVtDA": {
         "en-US": "[E-type Gear]\nConnection failed.\nPlease try again.",
-        "pt-BR": "[Engrenagem Tipo E]\nFalha na conexão.\nTente novamente.",
+        "pt-BR": "[Máquina-E]\nFalha na conexão.\nTente novamente.",
         "es-ES": "[Engranaje Tipo E]\nLa conexión falló.\nInténtalo de nuevo."
     },
     "0XVtDA": {
         "en-US": "[E-type Gear]\nPlease wait while we connect you...",
-        "pt-BR": "[Engrenagem Tipo E]\nAguarde alguns instantes até a conexão ser estabelecida...",
+        "pt-BR": "[Máquina-E]\nAguarde alguns instantes até a conexão ser estabelecida...",
         "es-ES": "[Gear Tipo E]\nEspera un momento mientras se establece la conexión..."
     },
     "0nVtDA": {
         "en-US": "[E-type Gear]\nYou can only enter when your party leader creates the Memorial Dungeon.",
-        "pt-BR": "[Engrenagem Tipo E]\nO líder do grupo precisa abrir a Masmorra Memorial para que você possa entrar.",
+        "pt-BR": "[Máquina-E]\nO líder do grupo precisa abrir a Instância para que você possa entrar.",
         "es-ES": "[Engranaje Tipo E]\nEl líder del grupo debe abrir la mazmorra conmemorativa para que puedas entrar."
     },
     "03VtDA": {
         "en-US": "{0} has entered {1}(2/12).",
-        "pt-BR": "{0} entrou em {1} (2/12).",
+        "pt-BR": "{0} entrou na Simulação de Juperos (2/12).",
         "es-ES": "{0} ha entrado en {1}(2/12)."
     },
     "1HVtDA": {
         "en-US": "[E-type Gear]\n:",
-        "pt-BR": "[Engrenagem Tipo E]\n:",
+        "pt-BR": "[Máquina-E]\n:",
         "es-ES": "[E-Gear]\n:"
     },
     "1XVtDA": {
         "en-US": "[E-type Gear]\nReindexing completed.\nIf you'd like to start from scratch, please select Destroy Dungeon.",
-        "pt-BR": "[Engrenagem Tipo E]\nA redefinição do índice foi concluída.\nSe deseja recomeçar desde o início, clique no botão de destruição da masmorra.",
+        "pt-BR": "[Máquina-E]\nA redefinição do índice foi concluída.\nSe deseja recomeçar desde o início, clique no botão de destruição da instância.",
         "es-ES": "[E-Gear]\nSe ha completado el restablecimiento del índice.\nSi quieres volver a empezar desde la apertura del VT, presiona el botón de destruir mazmorra."
     },
     "1nVtDA": {
         "en-US": "[E-type Gear]\nVirtual Terminal has been opened.\nEntry will begin shortly.\nPlease select the entry menu.",
-        "pt-BR": "[Engrenagem Tipo E]\nO terminal virtual foi aberto.\nA entrada começará em breve.\nSeleciona o menu de entrada.",
+        "pt-BR": "[Máquina-E]\nO terminal virtual foi aberto.\nA entrada começará em breve.\nSeleciona o menu de entrada.",
         "es-ES": "[Engranaje Tipo E]\nSe ha abierto el terminal virtual.\nLa entrada comenzará en breve.\nSelecciona el menú de entrada."
     },
     "13VtDA": {
         "en-US": "[E-Type Gear]\nPlease wait a moment while connecting...",
-        "pt-BR": "[Engrenagem Tipo E]\nAguarde um momento até a conexão...",
+        "pt-BR": "[Máquina-E]\nAguarde um momento até a conexão...",
         "es-ES": "[Engranaje Tipo E]\nEspera un momento mientras te conectas..."
     }
 }

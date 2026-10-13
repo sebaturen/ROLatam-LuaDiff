@@ -6321,7 +6321,7 @@ SKILL_DESCRIPT = {
 		"[Lv 7] ^7777777^000000 l ^77777756^000000",
 		"[Lv 8] ^7777778^000000 l ^77777764^000000",
 		"[Lv 9] ^7777779^000000 l ^77777772^000000",
-		"[Lv 10] ^7777710^000000 l ^77777780^000000"
+		"[Lv 10] ^77777110^000000 l ^77777780^000000"
 	},
 	[SKID.SL_SWOO] = {
 		"Eswoo",
@@ -12842,9 +12842,9 @@ SKILL_DESCRIPT = {
 		"^777777 When using it, Petrification, Blind, Curse, Decrease Agility and Grampus Morph. ^000000"
 	},
 	[SKID.ECLAGE_RECALL] = {
-		"Move to Eclage",
+		"To Eclage",
 		"Max. Lv: 1",
-		"Skill Type: ^777777Supportive^bb0000^000000",
+		"Skill Type: ^777777Supportive^BB0000^000000",
 		"Description : ^777777Warp to Eclage Town. 3 seconds of fixed casting. 5 minute reuse time.^000000"
 	},
 	[SKID.ALL_NIFLHEIM_RECALL] = {
@@ -12854,27 +12854,27 @@ SKILL_DESCRIPT = {
 		"Description: ^777777 Niflheim Returns to 'The World of the Dead'. Cannot be reused for 5 minutes after use.^000000"
 	},
 	[SKID.ALL_PRONTERA_RECALL] = {
-		"Prontera Recall",
+		"To Prontera",
 		"Max. Lv: 2",
-		"Class : ^777777Support^bb0000(Recall)^000000",
-		"Subject : ^777777Return back to Prontera. Unavaialble for 15 minutes after use.^000000"
+		"Class : ^777777Support^BB0000(Recall)^000000",
+		"Subject : ^777777Move to Prontera. Unavaialble for 15 minutes after use.^000000"
 	},
 	[SKID.ALL_GLASTHEIM_RECALL] = {
-		"Glast Heim Return",
+		"To Glastheim",
 		"Max Lv: 1",
-		"Class: ^777777Supportive^bb0000 (Return)^000000",
-		"Details: ^777777Move to ''Glast Heim.'' Cools down for 5 minutes after use.^000000"
+		"Class: ^777777Supportive^BB0000 (Return)^000000",
+		"Details: ^777777Move to ''Glastheim.'' Cools down for 5 minutes after use.^000000"
 	},
 	[SKID.ALL_THANATOS_RECALL] = {
-		"Thanatos Tower Return",
+		"To Thanatos Tower",
 		"Max Lv: 1",
-		"Class: ^777777Supportive^bb0000 (Return)^000000",
+		"Class: ^777777Supportive^BB0000 (Return)^000000",
 		"Details: ^777777Move to 'Thanatos Tower' Cools down for 5 minutes after use.^000000"
 	},
 	[SKID.ALL_LIGHTHALZEN_RECALL] = {
-		"Lighthalzen Return",
+		"To Lighthalzen",
 		"Max Lv: 1",
-		"Class: ^777777Supportive^bb0000 (Return)^000000",
+		"Class: ^777777Supportive^BB0000 (Return)^000000",
 		"Details: ^777777Move to ''Lighthalzen.'' Cools down for 5 minutes after use.^000000"
 	},
 	[SKID.GC_DARKCROW] = {

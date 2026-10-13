@@ -322,7 +322,7 @@
     "4IYB": {
         "en-US": "Swordfish",
         "pt-BR": "Peixe-Espada",
-        "es-ES": "Pez espada"
+        "es-ES": "Pez Espada"
     },
     "4YYB": {
         "en-US": "Kukre",
@@ -632,7 +632,7 @@
     "HocB": {
         "en-US": "Joker",
         "pt-BR": "Coringa",
-        "es-ES": "Joker"
+        "es-ES": "Comodín"
     },
     "H4cB": {
         "en-US": "Khalitzburg",
@@ -1002,7 +1002,7 @@
     "aIcB": {
         "en-US": "Wanderer",
         "pt-BR": "Andarilho",
-        "es-ES": "Vagabundo"
+        "es-ES": "Caminante"
     },
     "aYcB": {
         "en-US": "Cramp",
@@ -1042,7 +1042,7 @@
     "cIcB": {
         "en-US": "Penomena",
         "pt-BR": "Penomena",
-        "es-ES": "Fenómena"
+        "es-ES": "Penomena"
     },
     "cYcB": {
         "en-US": "Desert Wolf",
@@ -1182,7 +1182,7 @@
     "jIcB": {
         "en-US": "Cookie",
         "pt-BR": "Cookie",
-        "es-ES": "Galleta Verde"
+        "es-ES": "Galleta"
     },
     "jYcB": {
         "en-US": "Antonio",
@@ -1277,7 +1277,7 @@
     "n4cB": {
         "en-US": "Cookie",
         "pt-BR": "Cookie",
-        "es-ES": "Galleta Verde"
+        "es-ES": "Galleta"
     },
     "oIcB": {
         "en-US": "Aster",
@@ -2167,7 +2167,7 @@
     "UYgB": {
         "en-US": "Joker",
         "pt-BR": "Coringa",
-        "es-ES": "Joker"
+        "es-ES": "Comodín"
     },
     "UogB": {
         "en-US": "Khalitzburg",
@@ -2187,7 +2187,7 @@
     "VYgB": {
         "en-US": "Penomena",
         "pt-BR": "Penomena",
-        "es-ES": "Fenómena"
+        "es-ES": "Penomena"
     },
     "VogB": {
         "en-US": "Sasquatch",
@@ -2432,7 +2432,7 @@
     "hogB": {
         "en-US": "Wanderer",
         "pt-BR": "Andarilho",
-        "es-ES": "Vagabundo"
+        "es-ES": "Caminante"
     },
     "h4gB": {
         "en-US": "Dokebi",
@@ -2931,7 +2931,7 @@
     },
     "6ogB": {
         "en-US": "Marse",
-        "pt-BR": "Marte",
+        "pt-BR": "Marse",
         "es-ES": "Marse"
     },
     "64gB": {
@@ -3222,7 +3222,7 @@
     "JIkB": {
         "en-US": "Eremes Guile",
         "pt-BR": "Eremes Guile",
-        "es-ES": "Astucia de Eremes"
+        "es-ES": "Eremes Guile"
     },
     "JYkB": {
         "en-US": "Howard Alt-Eisen",
@@ -3630,9 +3630,9 @@
         "es-ES": "Ácidus Azul"
     },
     "dokB": {
-        "en-US": "Bewler",
+        "en-US": "Ferus",
         "pt-BR": "Ferus",
-        "es-ES": "Bewler"
+        "es-ES": "Ferus"
     },
     "d4kB": {
         "en-US": "Yellow Novus",
@@ -3757,7 +3757,7 @@
     "j4kB": {
         "en-US": "Cookie",
         "pt-BR": "Cookie",
-        "es-ES": "Galleta Verde"
+        "es-ES": "Galleta"
     },
     "kIkB": {
         "en-US": "Carat",
@@ -4622,7 +4622,7 @@
     "PIoB": {
         "en-US": "Satan Morroc",
         "pt-BR": "Imperador Morroc",
-        "es-ES": "Satán Morocc"
+        "es-ES": "Emperador Morocc"
     },
     "PYoB": {
         "en-US": "Wounded Morroc",
@@ -5517,7 +5517,7 @@
     "74oB": {
         "en-US": "Eddga",
         "pt-BR": "Eddga",
-        "es-ES": "(null)"
+        "es-ES": "Eddga"
     },
     "8IoB": {
         "en-US": "Baphomet Jr. Ally",
@@ -6320,9 +6320,9 @@
         "es-ES": "Cenere"
     },
     "kIsB": {
-        "en-US": "Broken Antique Book",
-        "pt-BR": "Antigo Livro Danificado",
-        "es-ES": "Libro Antiguo Roto"
+        "en-US": "Antique Book",
+        "pt-BR": "Antigo Livro",
+        "es-ES": "Libro Antiguo"
     },
     "kYsB": {
         "en-US": "Lichtern",
@@ -7190,17 +7190,17 @@
         "es-ES": "Rechenier"
     },
     "PowB": {
-        "en-US": "Odorico",
+        "en-US": "Odoriko",
         "pt-BR": "Ahdara",
-        "es-ES": "Odorico"
+        "es-ES": "Odoriko"
     },
     "P4wB": {
-        "en-US": "Jew",
+        "en-US": "Juu",
         "pt-BR": "Procyon",
         "es-ES": "Juu"
     },
     "QIwB": {
-        "en-US": "D.Y",
+        "en-US": "D.Y.",
         "pt-BR": "Atria",
         "es-ES": "Dy"
     },
@@ -7425,9 +7425,9 @@
         "es-ES": "Sacerdote Corrupto"
     },
     "bYwB": {
-        "en-US": "Wandering Man",
+        "en-US": "Cursed Wanderer",
         "pt-BR": "Andarilho Amaldiçoado",
-        "es-ES": "Hombre Errante"
+        "es-ES": "Caminante Maldito"
     },
     "bowB": {
         "en-US": "Grave keeper with Hatred",
@@ -7642,7 +7642,7 @@
     "mIwB": {
         "en-US": "Big Bell",
         "pt-BR": "Despertador",
-        "es-ES": "Burbuja Grande"
+        "es-ES": "Despertador"
     },
     "mYwB": {
         "en-US": "Time Keeper",
@@ -8217,7 +8217,7 @@
     "C40B": {
         "en-US": "Furious Wanderer",
         "pt-BR": "Andarilho Feroz",
-        "es-ES": "Vagabundo Furioso"
+        "es-ES": "Caminante Furioso"
     },
     "DI0B": {
         "en-US": "Elusive Violy",
@@ -8632,12 +8632,12 @@
     "Xo0B": {
         "en-US": "Penomena Ringleader",
         "pt-BR": "Penomena Alfa",
-        "es-ES": "Cabecilla Fenómena"
+        "es-ES": "Cabecilla Penomena"
     },
     "X40B": {
         "en-US": "Furious Penomena",
         "pt-BR": "Penomena Feroz",
-        "es-ES": "Fenómena Furiosa"
+        "es-ES": "Penomena Furiosa"
     },
     "YI0B": {
         "en-US": "Elusive Pecopeco",
@@ -8722,7 +8722,7 @@
     "cI0B": {
         "en-US": "Swift Wanderer",
         "pt-BR": "Andarilho Ágil",
-        "es-ES": "Vagabundo Veloz"
+        "es-ES": "Caminante Veloz"
     },
     "cY0B": {
         "en-US": "Solid Nepenthes",
@@ -9205,9 +9205,9 @@
         "es-ES": "Cabecilla Congelador"
     },
     "0Y0B": {
-        "en-US": "Furious Bewler",
+        "en-US": "Furious Ferus",
         "pt-BR": "Ferus Feroz",
-        "es-ES": "Bewler Furioso"
+        "es-ES": "Ferus Furioso"
     },
     "0o0B": {
         "en-US": "Elusive Farmiliar",
@@ -9527,12 +9527,12 @@
     "EY4B": {
         "en-US": "Swift Antique book",
         "pt-BR": "Antigo Livro Ágil",
-        "es-ES": "Libro antiguo veloz"
+        "es-ES": "Libro Antiguo Veloz"
     },
     "Eo4B": {
         "en-US": "Solid Antique book",
         "pt-BR": "Antigo Livro Brutal",
-        "es-ES": "Libro antiguo sólido"
+        "es-ES": "Libro Antiguo Sólido"
     },
     "E44B": {
         "en-US": "Furious Anolian",
@@ -11312,7 +11312,7 @@
     "do8B": {
         "en-US": "Corrupted Wanderer",
         "pt-BR": "Andarilho Poluto",
-        "es-ES": "Vagabundo Contaminado"
+        "es-ES": "Caminante Contaminado"
     },
     "d48B": {
         "en-US": "Corrupted Spider Queen",
@@ -11327,7 +11327,7 @@
     "eY8B": {
         "en-US": "Garling",
         "pt-BR": "Alhoring",
-        "es-ES": "Garling"
+        "es-ES": "Ajoring"
     },
     "eo8B": {
         "en-US": "Infinite Poring",
@@ -12292,7 +12292,7 @@
     "OpAB": {
         "en-US": "Eremes Guile",
         "pt-BR": "Eremes Guile",
-        "es-ES": "Astucia de Eremes"
+        "es-ES": "Eremes Guile"
     },
     "O5AB": {
         "en-US": "Unknown Acolyte",
@@ -12672,7 +12672,7 @@
     "hpAB": {
         "en-US": "Hot-water Swordfish",
         "pt-BR": "Peixe Escaldado",
-        "es-ES": "Pez espada de agua caliente"
+        "es-ES": "Pez Espada de agua caliente"
     },
     "h5AB": {
         "en-US": "Sewage Venenum",
@@ -13648,7 +13648,7 @@
     },
     "SpEB": {
         "en-US": "Verkhasel",
-        "pt-BR": "Bercasell",
+        "pt-BR": "Verkhasel",
         "es-ES": "Verkhasel"
     },
     "S5EB": {
@@ -13999,7 +13999,7 @@
     "kJEB": {
         "en-US": "Ashen Goat",
         "pt-BR": "Bode Cinzento",
-        "es-ES": "Cabra Gris de Ceniza"
+        "es-ES": "Cabra Gris"
     },
     "kZEB": {
         "en-US": "Gray Wolf",
@@ -14259,7 +14259,7 @@
     "xJEB": {
         "en-US": "Penomena",
         "pt-BR": "Penomena",
-        "es-ES": "Fenómena"
+        "es-ES": "Penomena"
     },
     "xZEB": {
         "en-US": "Ground Petit",
@@ -14414,7 +14414,7 @@
     "45EB": {
         "en-US": "Wanderer",
         "pt-BR": "Andarilho",
-        "es-ES": "Vagabundo"
+        "es-ES": "Caminante"
     },
     "5JEB": {
         "en-US": "Agent of Divine Punishment",
@@ -14664,7 +14664,7 @@
     "FZIB": {
         "en-US": "Extra Joker",
         "pt-BR": "Coringa Extra",
-        "es-ES": "Joker Extra"
+        "es-ES": "Comodín Extra"
     },
     "FpIB": {
         "en-US": "Erzsebet",
@@ -14674,7 +14674,7 @@
     "F5IB": {
         "en-US": "Jeniffer",
         "pt-BR": "Jeniffer",
-        "es-ES": "Jennifer"
+        "es-ES": "Jeniffer"
     },
     "GJIB": {
         "en-US": "Orc General",
@@ -14723,12 +14723,12 @@
     },
     "IZIB": {
         "en-US": "Ancient Ninja's Soul",
-        "pt-BR": "Fantasma do Ninja",
-        "es-ES": "Espíritu de ninja antiguo"
+        "pt-BR": "Alma de Yeongwi",
+        "es-ES": "Espíritu de Yeongwi"
     },
     "IpIB": {
         "en-US": "Huiun",
-        "pt-BR": "Clod",
+        "pt-BR": "Heeun",
         "es-ES": "Huiyun"
     },
     "I5IB": {
@@ -14748,7 +14748,7 @@
     },
     "JpIB": {
         "en-US": "Mountain Lord",
-        "pt-BR": "Sangoon",
+        "pt-BR": "Senhor da Montanha",
         "es-ES": "Señor de la montaña"
     },
     "J5IB": {
@@ -14827,12 +14827,12 @@
         "es-ES": "Archi"
     },
     "NpIB": {
-        "en-US": "Odorico",
+        "en-US": "Odoriko",
         "pt-BR": "Ahdara",
-        "es-ES": "Odorico"
+        "es-ES": "Odoriko"
     },
     "N5IB": {
-        "en-US": "Jew",
+        "en-US": "Juu",
         "pt-BR": "Procyon",
         "es-ES": "Juu"
     },
@@ -14890,5 +14890,185 @@
         "en-US": "Rechenier",
         "pt-BR": "Shaula",
         "es-ES": "Rechenier"
+    },
+    "Q5IB": {
+        "en-US": "Acidus of Fire",
+        "pt-BR": "[Eco] Acidus Negro",
+        "es-ES": "Acidus de Fuego"
+    },
+    "RJIB": {
+        "en-US": "Ancient Mummy of Death",
+        "pt-BR": "[Eco] Múmia Anciã",
+        "es-ES": "Momia Antigua de la Muerte"
+    },
+    "RZIB": {
+        "en-US": "Angelgolt of Iceberg",
+        "pt-BR": "[Eco] Angelgolt",
+        "es-ES": "Angelgolt del Glaciar"
+    },
+    "RpIB": {
+        "en-US": "Aqua Elemental of Iceberg",
+        "pt-BR": "[Eco] Elemental da Água",
+        "es-ES": "Elemental de Agua del Glaciar"
+    },
+    "R5IB": {
+        "en-US": "Banshee of Death",
+        "pt-BR": "[Eco] Banshee",
+        "es-ES": "Banshee de la Muerte"
+    },
+    "SJIB": {
+        "en-US": "Centipede of Iceberg",
+        "pt-BR": "[Eco] Centopeia",
+        "es-ES": "Ciempiés del Glaciar"
+    },
+    "SZIB": {
+        "en-US": "Cornus of Prairie",
+        "pt-BR": "[Eco] Cornus",
+        "es-ES": "Cornus de la Pradera"
+    },
+    "SpIB": {
+        "en-US": "Deleter of Fire (Sky)",
+        "pt-BR": "[Eco] Deletério",
+        "es-ES": "Deleter Volador de Fuego"
+    },
+    "S5IB": {
+        "en-US": "Ditardeurs of Fire",
+        "pt-BR": "[Eco] Detardeurus",
+        "es-ES": "Detardeurus de Fuego"
+    },
+    "TJIB": {
+        "en-US": "Explosion of Fire",
+        "pt-BR": "[Eco] Explosão",
+        "es-ES": "Explosión de Fuego"
+    },
+    "TZIB": {
+        "en-US": "Flame Skull of Death",
+        "pt-BR": "[Eco] Crânio Flamejante",
+        "es-ES": "Cráneo en Llamas de la Muerte"
+    },
+    "TpIB": {
+        "en-US": "Flora of Prairie",
+        "pt-BR": "[Eco] Flora",
+        "es-ES": "Flora de la Pradera"
+    },
+    "T5IB": {
+        "en-US": "Hill Wind of Prairie",
+        "pt-BR": "[Eco] Vento da Colina",
+        "es-ES": "Viento de las Colinas de la Pradera"
+    },
+    "UJIB": {
+        "en-US": "Hunter Fly of Prairie",
+        "pt-BR": "[Eco] Mosca Caçadora",
+        "es-ES": "Mosca Cazadora de la Pradera"
+    },
+    "UZIB": {
+        "en-US": "Hydrolancer of Fire",
+        "pt-BR": "[Eco] Hydrolancer",
+        "es-ES": "Hydrolancer de Fuego"
+    },
+    "UpIB": {
+        "en-US": "Ice Titan of Iceberg",
+        "pt-BR": "[Eco] Titã de Gelo",
+        "es-ES": "Titán de Hielo del Glaciar"
+    },
+    "U5IB": {
+        "en-US": "Jakk of Fire",
+        "pt-BR": "[Eco] Jakk",
+        "es-ES": "Jakk de Fuego"
+    },
+    "VJIB": {
+        "en-US": "Knight of Abyss in Death",
+        "pt-BR": "[Eco] Cavaleiro do Abismo",
+        "es-ES": "Caballero del Abismo de la Muerte"
+    },
+    "VZIB": {
+        "en-US": "Ktullanux of Iceberg",
+        "pt-BR": "[Eco] Ktullanux",
+        "es-ES": "Ktullanux del Glaciar"
+    },
+    "VpIB": {
+        "en-US": "Lava Golem of Fire",
+        "pt-BR": "[Eco] Golem de Lava",
+        "es-ES": "Gólem de Lava de Fuego"
+    },
+    "V5IB": {
+        "en-US": "Lord of Death",
+        "pt-BR": "[Eco] Senhor dos Mortos",
+        "es-ES": "Señor de la Muerte"
+    },
+    "WJIB": {
+        "en-US": "Lude of Death",
+        "pt-BR": "[Eco] Lude",
+        "es-ES": "Lude de la Muerte"
+    },
+    "WZIB": {
+        "en-US": "Majoruros of Fire",
+        "pt-BR": "[Eco] Majoruros",
+        "es-ES": "Majoruros de Fuego"
+    },
+    "WpIB": {
+        "en-US": "Mistress of Prairie",
+        "pt-BR": "[Eco] Abelha-Rainha",
+        "es-ES": "Abeja Reina de la Pradera"
+    },
+    "W5IB": {
+        "en-US": "Pinguicula of Prairie",
+        "pt-BR": "[Eco] Pinguicula",
+        "es-ES": "Pinguicula de la Pradera"
+    },
+    "XJIB": {
+        "en-US": "Ragged Zombie of Death",
+        "pt-BR": "[Eco] Zumbi Dilacerado",
+        "es-ES": "Zombi Andrajoso de la Muerte"
+    },
+    "XZIB": {
+        "en-US": "Rhyncho of Iceberg",
+        "pt-BR": "[Eco] Rhyncho",
+        "es-ES": "Rhyncho del Glaciar"
+    },
+    "XpIB": {
+        "en-US": "Rocker of Prairie",
+        "pt-BR": "[Eco] Rocker",
+        "es-ES": "Rocker de la Pradera"
+    },
+    "X5IB": {
+        "en-US": "Savage of Prairie",
+        "pt-BR": "[Eco] Selvagem",
+        "es-ES": "Savage de la Pradera"
+    },
+    "YJIB": {
+        "en-US": "Siroma of Iceberg",
+        "pt-BR": "[Eco] Siroma",
+        "es-ES": "Siroma del Glaciar"
+    },
+    "YZIB": {
+        "en-US": "Snowier of Iceberg",
+        "pt-BR": "[Eco] Yeti",
+        "es-ES": "Snowier del Glaciar"
+    },
+    "YpIB": {
+        "en-US": "Wraith of Death",
+        "pt-BR": "[Eco] Alma Penada",
+        "es-ES": "Espectro de la Muerte"
+    },
+    "Y5IB": {
+        "en-US": "Violent Marse",
+        "pt-BR": "Marse Violento",
+        "es-ES": "Marse Violento"
+    },
+    "ZJIB": {
+        "en-US": "Violent Vadon",
+        "pt-BR": "Vadon Violento",
+        "es-ES": "Vadon Violento"
+    },
+    "ZZIB": {
+        "en-US": "Violent Cornutus",
+        "pt-BR": "Cornutus Violento",
+        "es-ES": "Cornutus Violento"
+    },
+    "ZpIB": {
+        "en-US": "Violent Swordfish",
+        "pt-BR": "Peixe-Espada Violento",
+        "es-ES": "Pez Espada Violento"
     }
 }

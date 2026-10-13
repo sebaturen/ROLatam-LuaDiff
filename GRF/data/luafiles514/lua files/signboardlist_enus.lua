@@ -2,14 +2,11 @@ SignBoardList_string = {
 	[1] = {
 		CONTENTS = "Nothing Typed"
 	},
-	[2] = {
-		CONTENTS = "  Equip. Ur"
-	},
-	[3] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[4] = {
-		CONTENTS = "  Equip. 100+"
+	[2] = {CONTENTS = "  Beginner"},
+	[3] = {CONTENTS = "  Weapons"},
+	[4] = {CONTENTS = "  Advanced"},
+	[5] = {
+		CONTENTS = "  Shadow Rental"
 	},
 	[6] = {
 		CONTENTS = "  Eden Group"
@@ -190,32 +187,29 @@ SignBoardList_string = {
 	[774] = {
 		CONTENTS = "  Nightmare mode"
 	},
-	[833] = {
-		CONTENTS = "  Equip. Ur"
-	},
-	[834] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[835] = {
-		CONTENTS = "  Equip. 100+"
-	},
+	[833] = {CONTENTS = "  Beginner"},
+	[834] = {CONTENTS = "  Weapons"},
+	[835] = {CONTENTS = "  Advanced"},
 	[836] = {
-		CONTENTS = "  Equip. Ur"
+		CONTENTS = "  Shadow Rental"
 	},
-	[837] = {
-		CONTENTS = "  Equip. Boya"
-	},
-	[838] = {
-		CONTENTS = "  Equip. 100+"
-	},
-	[839] = {
-		CONTENTS = "  Equip. Ur"
-	},
+	[837] = {CONTENTS = "  Beginner"},
+	[838] = {CONTENTS = "  Weapons"},
+	[839] = {CONTENTS = "  Advanced"},
 	[840] = {
-		CONTENTS = "  Equip. Boya"
+		CONTENTS = "  Shadow Rental"
 	},
-	[841] = {
-		CONTENTS = "  Equip. 100+"
+	[841] = {CONTENTS = "  Beginner"},
+	[842] = {CONTENTS = "  Weapons"},
+	[843] = {CONTENTS = "  Advanced"},
+	[844] = {
+		CONTENTS = "  Shadow Rental"
+	},
+	[845] = {CONTENTS = "  Beginner"},
+	[846] = {CONTENTS = "  Weapons"},
+	[847] = {CONTENTS = "  Advanced"},
+	[848] = {
+		CONTENTS = "  Shadow Rental"
 	},
 	[885] = {
 		CONTENTS = "  Sword Clan"
@@ -364,5 +358,17 @@ SignBoardList_string = {
 	[974] = {CONTENTS = "  Market"},
 	[975] = {
 		CONTENTS = "  Enchanter"
+	},
+	[1001] = {
+		CONTENTS = "  Biosphere - Bitter Cold"
+	},
+	[1002] = {
+		CONTENTS = "  Biosphere - Fire"
+	},
+	[1003] = {
+		CONTENTS = "  Biosphere - Grassland"
+	},
+	[1004] = {
+		CONTENTS = "  Biosphere - Death"
 	}
 }

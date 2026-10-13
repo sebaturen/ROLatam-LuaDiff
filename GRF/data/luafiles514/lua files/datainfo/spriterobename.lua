@@ -317,7 +317,7 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Accordion_Bag] = "C_Accordion_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_Panda_Bamboo] = "C_Panda_Bamboo",
 	[SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen] = "C_Star_Glasspen",
-	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window ",
+	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window",
 	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
 	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear",
 	[SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing] = "C_S_Thanatos_Wing",
@@ -325,7 +325,10 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_1st] = "C_2026RosFesta_1st",
 	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_2nd] = "C_2026RosFesta_2nd",
 	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_3rd] = "C_2026RosFesta_3rd",
-	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th] = "C_2026RosFesta_4th"
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th] = "C_2026RosFesta_4th",
+	[SPRITE_ROBE_IDs.ROBE_C_Han_Do] = "C_Han_Do",
+	[SPRITE_ROBE_IDs.ROBE_C_Smokie_Basket] = "C_Smokie_Basket",
+	[SPRITE_ROBE_IDs.ROBE_C_Cat_Fryingpan] = "C_Cat_Fryingpan"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -646,7 +649,7 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Accordion_Bag] = "C_Accordion_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_Panda_Bamboo] = "C_Panda_Bamboo",
 	[SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen] = "C_Star_Glasspen",
-	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window ",
+	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window",
 	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
 	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear",
 	[SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing] = "C_S_Thanatos_Wing",
@@ -654,7 +657,10 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_1st] = "C_2026RosFesta_1st",
 	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_2nd] = "C_2026RosFesta_2nd",
 	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_3rd] = "C_2026RosFesta_3rd",
-	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th] = "C_2026RosFesta_4th"
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th] = "C_2026RosFesta_4th",
+	[SPRITE_ROBE_IDs.ROBE_C_Han_Do] = "C_Han_Do",
+	[SPRITE_ROBE_IDs.ROBE_C_Smokie_Basket] = "C_Smokie_Basket",
+	[SPRITE_ROBE_IDs.ROBE_C_Cat_Fryingpan] = "C_Cat_Fryingpan"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -879,5 +885,8 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_1st,
 	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_2nd,
 	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_3rd,
-	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th
+	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th,
+	SPRITE_ROBE_IDs.ROBE_C_Han_Do,
+	SPRITE_ROBE_IDs.ROBE_C_Smokie_Basket,
+	SPRITE_ROBE_IDs.ROBE_C_Cat_Fryingpan
 }

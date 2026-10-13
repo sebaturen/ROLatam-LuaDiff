@@ -1,7 +1,7 @@
 {
     "QEuBDA": {
         "en-US": "Inn Employee",
-        "pt-BR": "Funcionário da pousada",
+        "pt-BR": "Camareira",
         "es-ES": "Empleado de posada"
     },
     "QUuBDA": {
@@ -11,27 +11,27 @@
     },
     "QkuBDA": {
         "en-US": "[Inn Employee]\nWelcome to Prontera. Please feel free to stay here and relieve your fatigue from a long journey.",
-        "pt-BR": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Descanse um pouco na nossa pousada antes de seguir viagem.",
+        "pt-BR": "[Camareira]\nBoas-vindas à estalagem de Prontera. Descanse um pouco nos nossos quartos antes de seguir viagem.",
         "es-ES": "[Empleado de la posada]\nBienvenido a Prontera. Descansa un rato en nuestra posada antes de seguir tu camino."
     },
     "Q0uBDA": {
         "en-US": "[Inn Employee]\nWelcome to Prontera. Please feel free to stay here and rest well.",
-        "pt-BR": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Descanse bem na nossa pousada antes de seguir viagem.",
+        "pt-BR": "[Camareira]\nBoas-vindas à estalagem de Prontera. Descanse bem na nossa cama antes de seguir viagem.",
         "es-ES": "[Empleado de la posada]\nBienvenido a Prontera. Descansa un rato en nuestra posada antes de seguir tu camino."
     },
     "REuBDA": {
         "en-US": "[Inn Employee]\nWelcome to Prontera. Why not stay here and relieve your fatigue from a long journey?",
-        "pt-BR": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Que tal descansar um pouco na nossa pousada?",
+        "pt-BR": "[Camareira]\nBoas-vindas à estalagem de Prontera. Que tal descansar um pouco na nossa cama?",
         "es-ES": "[Empleado de la posada]\nBienvenido a Prontera. ¿Qué tal si te relajas en nuestra posada?"
     },
     "RUuBDA": {
         "en-US": "[{0}]\n(I shouldn't indulge in pleasure, but I shouldn't sleep on the street, either, when I'm in a big city like this.)",
-        "pt-BR": "[{0}]\n(Por mais que eu queira me afastar do mundo, não preciso dormir no chão frio aqui em Prontera)",
+        "pt-BR": "[{0}]\n(Por mais que eu queira me afastar do mundo, não preciso dormir no chão frio de Prontera)",
         "es-ES": "[{0}]\n(Por mucho que quiera alejarme del mundo, no hace falta que venga hasta Prontera para dormir en el suelo frío)"
     },
     "RkuBDA": {
         "en-US": "[{0}]\n(Lately, my training has plateaued, and I feel stifled... but torturing myself physically isn't the answer.)",
-        "pt-BR": "[{0}]\n(Meu treino tá estagnado ultimamente e isso tá me deixando meio frustrado... mas apressar o corpo sem sentido não é a solução)",
+        "pt-BR": "[{0}]\n(Meu treino tá estagnado ultimamente e isso tá me deixando triste... mas ultrapassar os limites do corpo não é a solução)",
         "es-ES": "[{0}]\n(Últimamente mi entrenamiento se ha estancado y me siento un poco agobiado... pero maltratarme sin sentido no es la solución)"
     },
     "R0uBDA": {
@@ -41,12 +41,12 @@
     },
     "SEuBDA": {
         "en-US": "[Inn Employee]\nThank you, sir! You can use the second room upstairs.",
-        "pt-BR": "[Funcionário da pousada]\nObrigado, hóspede! É o segundo quarto no segundo andar.",
+        "pt-BR": "[Camareira]\nObrigada, hóspede! É o quarto 2 no segundo andar.",
         "es-ES": "[Empleado de la posada]\n¡Gracias, huésped! Puedes usar la segunda habitación del segundo piso."
     },
     "SUuBDA": {
         "en-US": "[Inn Employee]\nCheck-out is tomorrow at two in the afternoon. Now, enjoy your stay.",
-        "pt-BR": "[Funcionário da pousada]\nO check-out é até as 14h do dia seguinte. Descanse bem!",
+        "pt-BR": "[Camareira]\nO check-out é até as 14h do dia seguinte. Descanse bem!",
         "es-ES": "[Empleado de la posada]\nLa salida es hasta las 2 de la tarde del día siguiente. ¡Descansa bien!"
     },
     "SkuBDA": {
@@ -56,12 +56,12 @@
     },
     "S0uBDA": {
         "en-US": "[{0}]\n(......I feel as if I'm being watched.)",
-        "pt-BR": "[{0}]\n(......Sinto como se estivesse sendo observado por alguém)",
+        "pt-BR": "[{0}]\n(......Sinto como se alguém estivesse me observando)",
         "es-ES": "[{0}]\n(......Siento que me miran desde algún lado)"
     },
     "TEuBDA": {
         "en-US": "Look around.",
-        "pt-BR": "Olho ao redor.",
+        "pt-BR": "Olhar ao redor.",
         "es-ES": "Miro a mi alrededor."
     },
     "TUuBDA": {
@@ -71,22 +71,22 @@
     },
     "TkuBDA": {
         "en-US": "[{0}]\n(I don't think she wants to hurt me. I'm just going to watch her for now.)",
-        "pt-BR": "[{0}]\n(Não parece ser nada malicioso, então vou ficar de olho por enquanto)",
+        "pt-BR": "[{0}]\n(Não parece ser nada malicioso, então vou ignorar por enquanto)",
         "es-ES": "[{0}]\n(No parece que quiera hacerme daño, así que mejor lo voy a observar por ahora)"
     },
     "T0uBDA": {
         "en-US": "[{0}]\n(I should go upstairs. My room is the second one.)",
-        "pt-BR": "[{0}]\n(Vamos subir para o segundo andar. Disseram que era o segundo quarto, não foi?)",
+        "pt-BR": "[{0}]\n(Vou subir para o segundo andar. Disseram que era o segundo quarto)",
         "es-ES": "[{0}]\n(Subamos al segundo piso. Dijeron que era la segunda habitación)"
     },
     "UEuBDA": {
         "en-US": "[Inn Employee]\nYou can use the second room upstairs.",
-        "pt-BR": "[Funcionário da pousada]\nPodes ficar no segundo quarto do segundo andar.",
+        "pt-BR": "[Camareira]\nPode ficar no quarto 2 do segundo andar.",
         "es-ES": "[Empleado de la posada]\nPuedes quedarte en la segunda habitación del segundo piso."
     },
     "UUuBDA": {
         "en-US": "[Inn Employee]\nWelcome to Prontera. Please feel free to stay here while you're in the city.",
-        "pt-BR": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Descanse bem na nossa pousada e aproveite a viagem.",
+        "pt-BR": "[Camareira]\nBoas-vindas à estalagem de Prontera. Descanse e aproveite a estadia.",
         "es-ES": "[{PcName}]\n(Por mucho que quiera alejarme del mundo, no hace falta que venga hasta Prontera para dormir en el suelo frío)"
     },
     "UkuBDA": {
@@ -96,117 +96,117 @@
     },
     "U0uBDA": {
         "en-US": "[{0}]\n(The second room upstairs...)",
-        "pt-BR": "[{0}]\n(Segundo quarto do segundo andar...)",
+        "pt-BR": "[{0}]\n(Quarto 2 do segundo andar...)",
         "es-ES": "[{0}]\n(La segunda habitación del segundo piso...)"
     },
     "VEuBDA": {
         "en-US": "They're telling me to come out.",
-        "pt-BR": "Ele diz para eu sair daqui.",
+        "pt-BR": "Pare de me seguir, garota!!",
         "es-ES": "Me dicen que salga ya."
     },
     "VUuBDA": {
         "en-US": "[???]\nOh my? You caught me. How long have you known?",
-        "pt-BR": "[???]\nOpa? Fui pego, desde quando será que ele sabia?",
+        "pt-BR": "[???]\nOps! Fui descoberta, desde quando você sabia?",
         "es-ES": "[???]\n¿Qué? Me han pillado. ¿Desde cuándo lo sabían?"
     },
     "VkuBDA": {
         "en-US": "[{0}]\n(You weren't even trying to hide you were following me.)",
-        "pt-BR": "[{0}]\n(E isso depois de ter feito tanto barulho, como se quisesse que eu visse...)",
+        "pt-BR": "[{0}]\n(Ela fez tanto barulho... e ainda pergunta?!)",
         "es-ES": "[{0}]\n(Y eso que estaba haciendo ruido a propósito, como para que me vieran...)"
     },
     "V0uBDA": {
         "en-US": "[Seriang]\nHeh heh. I have no choice now, do I?\n<B>Here comes Seriang, the super genius Inquisitor!</B>",
-        "pt-BR": "[Seriang]\nHehe, se fui pego, não tem jeito, né?\n<B>O supergênio Inquisidor Seriang entra em cena!</B>",
+        "pt-BR": "[Serang]\nHehe, se fui descoberta, não tem jeito, né?\n<B>A Inquisidora incrível Serang entra em cena!</B>",
         "es-ES": "[Seryang]\nJeje, si me descubrieron, ¿qué se le va a hacer?\n<B>¡Aparece aquí el supergenio Inquisidor Seryang!</B>"
     },
     "WEuBDA": {
         "en-US": "What is an Inquisitor?",
-        "pt-BR": "Perguntar sobre \"Inquisidor\".",
+        "pt-BR": "Como você se tornou Inquisidora?",
         "es-ES": "Te pregunta sobre el Inquisidor."
     },
     "WUuBDA": {
         "en-US": "Why are you following me?",
-        "pt-BR": "Perguntar sobre o motivo da perseguição.",
+        "pt-BR": "Por que ficou me seguindo?",
         "es-ES": "Te pregunto por qué me seguías."
     },
     "WkuBDA": {
         "en-US": "[Seriang]\nSeriang thinks. Now is not the time to answer that question.",
-        "pt-BR": "[Seriang]\nSeriang acha que agora não é a hora de responder a essa pergunta.",
+        "pt-BR": "[Serang]\nAcho que agora não é a hora de responder a essa pergunta.",
         "es-ES": "[Seryang]\nSeryang piensa que... ahora no es el momento de responder a esa pregunta."
     },
     "W0uBDA": {
         "en-US": "[Seriang]\nRight now, you have a more urgent matter at hand.\nWhich is...",
-        "pt-BR": "[Seriang]\nNão há algo que te preocupe mais?\nIsso provavelmente é...",
+        "pt-BR": "[Serang]\nNão há algo que te preocupa mais?\nAlgo como...",
         "es-ES": "[Seriang]\n¿No hay algo que te preocupe más?\nEso es probablemente..."
     },
     "XEuBDA": {
         "en-US": "[Seriang]\nWhy have I been following you? Hmm, the answer is... because I'm interested in you and your impressive fighting skills.",
-        "pt-BR": "[Seriang]\nO motivo da perseguição? Hum, a resposta é que estou interessado em você, que possui habilidades marciais tão notáveis... não é?",
+        "pt-BR": "[Serang]\n...o motivo de eu te seguir? Hum, a resposta é que estou interessada em você, que possui habilidades marciais tão notáveis... certo?",
         "es-ES": "[Seriang]\n¿El motivo por el que te seguí? Ejem, la respuesta es que me interesas a ti, que tienes unas habilidades marciales tan famosas... ¿o no?"
     },
     "XUuBDA": {
         "en-US": "[Seriang]\nYou're a Sura, right?\nBut you seem to be stagnating lately. Hmm... Have you felt as if something's blocking you from the inside?",
-        "pt-BR": "[Seriang]\nVocê é um Shura?\nMas parece que está passando por uma fase difícil ultimamente. Hum, será que sua energia vital se interrompeu, seus meridianos estão bloqueados e seu treino de artes marciais foi interrompido?",
+        "pt-BR": "[Serang]\nVocê é da guilda dos Shuras, não é?\nMas parece que está passando por uma fase difícil ultimamente. Hum, será que sua energia vital se interrompeu, seus chakras estão desalinhados e seu treino de artes marciais foi interrompido?",
         "es-ES": "[Seriang]\n¿Eres un Sura?\nPero últimamente estás pasando por una crisis. Ejem, ¿se habrá interrumpido tu entrenamiento de artes marciales porque tus meridianos se han cortado o tus venas se han obstruido?"
     },
     "XkuBDA": {
         "en-US": "[{0}]\n(It's true my training has hit a plateau... How does this girl know my condition?)",
-        "pt-BR": "[{0}]\n(É verdade que meu treino está estagnado... Como essa garota sabe do meu estado?)",
+        "pt-BR": "[{0}]\n(É verdade que meu treino está estagnado... Como essa garota sabe disso?)",
         "es-ES": "[{0}]\n(Es cierto que he llegado a un estancamiento en mi entrenamiento... ¿Cómo sabe cómo estoy, este chico?)"
     },
     "X0uBDA": {
         "en-US": "[Seriang]\nSeriang has been watching you much longer than you know. Long enough to know you've been anxious.",
-        "pt-BR": "[Seriang]\nMais do que você imagina, eu venho observando você há muito tempo. O suficiente para saber que você está ansioso.",
+        "pt-BR": "[Serang]\nMais do que você imagina, eu venho observando você há muito tempo. O suficiente para saber que você está triste.",
         "es-ES": "[Seryang]\nSeryang te ha estado observando durante más tiempo de lo que crees. Lo suficiente como para saber perfectamente que estás inquieto."
     },
     "YEuBDA": {
         "en-US": "[Seriang]\nFor you, Sura, my friend, I've got a piece of advice.\nWould you be interested in hearing it?",
-        "pt-BR": "[Seriang]\nPara um Shura como você, Seriang tem um conselho a dar.\nVocê tem interesse?",
+        "pt-BR": "[Serang]\nPara um Shura como você, Serang tem um conselho a dar.\nVocê tem interesse?",
         "es-ES": "[Seryang]\nPara un maestro como tú, ¡ta-da!, tengo un consejo que darte.\n¿Te interesa?"
     },
     "YUuBDA": {
         "en-US": "I'm interested.",
-        "pt-BR": "Estou interessado.",
+        "pt-BR": "Tenho interesse.",
         "es-ES": "Sí, me interesa."
     },
     "YkuBDA": {
         "en-US": "Not interested.",
-        "pt-BR": "Não estou interessado.",
+        "pt-BR": "Não tenho interesse.",
         "es-ES": "No me interesa."
     },
     "Y0uBDA": {
         "en-US": "[Seriang]\nIf you're not interested, is it irrelevant? I'd hate to give away valuable advice cheaply.",
-        "pt-BR": "[Seriang]\nSe não te interessar, será que não vale a pena falar? Não quero dar um conselho tão valioso de graça.",
+        "pt-BR": "[Serang]\nSe não te interessar, será que não vale a pena falar? Não quero dar um conselho tão valioso de graça.",
         "es-ES": "[Seriang]\n¿Si no te interesa, entonces no vale la pena? No quiero dar un consejo tan valioso a la ligera."
     },
     "ZEuBDA": {
         "en-US": "[Seriang]\nHmm, good judgment. But truthfully, Seriang, even though she's a genius Inquisitor, is <FONT SIZE = 10>not yet</FONT> <FONT SIZE = 9>fully trained enough</FONT> to teach you.",
-        "pt-BR": "[Seriang]\nHum, boa decisão. Mas, na verdade, para te ensinar, na verdade, ainda me falta treino.",
+        "pt-BR": "[Serang]\nHa! Boa decisão. Mas, na verdade, para te ensinar, na verdade, ainda me falta treino.",
         "es-ES": "[Seryang]\nEjem, buena decisión. Pero la verdad es que, para darte una enseñanza, <FONT SIZE = 10>en realidad todavía</FONT> <FONT SIZE = 9>me falta práctica.</FONT>"
     },
     "ZUuBDA": {
         "en-US": "[Seriang]\nWhoa, whoa! Calm down. I said I'd offer you advice, not training. I know someone who's much better and more helpful to you than I am. Want to meet him?",
-        "pt-BR": "[Seriang]\nEi, não fique bravo. Eu disse que poderia te dar conselhos. Posso te apresentar alguém que é melhor do que eu e que pode te ajudar. Isso tá bom pra você?",
+        "pt-BR": "[Serang]\nEi, não fique com raiva. Eu disse que poderia te dar conselhos. Posso te apresentar alguém que é melhor do que eu e que pode te ajudar. Isso tá bom pra você?",
         "es-ES": "[Seryang]\nEh, no te enojes. Dije que podía darte un consejo. Puedo presentarte a alguien que es mejor que yo y que te puede ayudar. ¿Te parece bien?"
     },
     "ZkuBDA": {
         "en-US": "[Seriang]\nThe only one who can help you solve your problem is... <B>Odin</B>.",
-        "pt-BR": "[Seriang]\nSó há uma pessoa que pode resolver a tua dificuldade. É... <B>O deus Odin</B>.",
+        "pt-BR": "[Serang]\nSó há uma pessoa que pode resolver seu problema. É... o <B>Deus Odin</B>.",
         "es-ES": "[Seriang]\nSolo hay una persona que puede resolver tus dificultades. Es... <B>el dios Odín</B>."
     },
     "Z0uBDA": {
         "en-US": "......Not buying.",
-        "pt-BR": "......Não quero.",
+        "pt-BR": "......Não, valeu.",
         "es-ES": "......No, gracias."
     },
     "aEuBDA": {
         "en-US": "[Seriang]\nOh, come on. Why are you like that? Can't you take a joke?",
-        "pt-BR": "[Seriang]\nAh, por que assim? Não dá nem para brincar?",
+        "pt-BR": "[Serang]\nAh, por que você é assim? Não posso nem brincar?",
         "es-ES": "[Seryang]\nAy, ¿por qué? ¿Es que no se puede ni bromear?"
     },
     "aUuBDA": {
         "en-US": "[Seriang]\nBut I can't believe how quickly you said no.\nYou once were on the path of God, weren't you?",
-        "pt-BR": "[Seriang]\nMas não esperava que você recusasse tão categoricamente.\nVocê já deve ter trilhado o caminho traçado pela vontade dos deuses, não é?",
+        "pt-BR": "[Serang]\nMas não esperava que você recusasse tão categoricamente.\nSe esqueceu que você começou como um Noviço?",
         "es-ES": "[Seriang]\nPero no pensé que lo rechazarías con tanta rotundidad.\nTú, ¿no has caminado alguna vez por el camino marcado por la voluntad de los dioses?"
     },
     "akuBDA": {
@@ -216,42 +216,42 @@
     },
     "a0uBDA": {
         "en-US": "[Seriang]\nAh, so that's how you think.\n<B>Einhar</B>, whom Seriang would like you to meet, is waiting for you on the path to St. Capitolina Abbey.",
-        "pt-BR": "[Seriang]\nHum, então é isso que você está pensando.\nA pessoa que a Seriang gostaria de te apresentar, <B>Einhar</B>, está te esperando no caminho para a Abadia de Santa Capitolina.",
+        "pt-BR": "[Serang]\nHum, então é isso que você está pensando.\nA pessoa que gostaria de te apresentar, <B>Einhar</B>, está te esperando no caminho para a Abadia de Santa Capitolina.",
         "es-ES": "[Seryang]\nEjem, así que eso es lo que piensas.\nLa persona que Seryang quiere presentarte, <B>Einhar</B>, te está esperando en el camino hacia el monasterio de Santa Capitolina."
     },
     "bEuBDA": {
         "en-US": "[Seriang]\nHow about it? Is the abbey an unfamiliar place? Do you still hold memories of that place?\nYour soul that's become a fiend, you know.",
-        "pt-BR": "[Seriang]\nE aí, a abadia não é um lugar estranho para você? Você ainda guarda lembranças daquele lugar?\nDa sua alma, que sem perceber se tornou um fantasma, quero dizer.",
+        "pt-BR": "[Serang]\nE aí? A abadia não é familiar para você?\nVocê ainda guarda lembranças daquele lugar?",
         "es-ES": "[Seryang]\n¿Qué tal? ¿Te resulta familiar el monasterio? ¿Aún conservas recuerdos de ese lugar?\nMe refiero a tu alma, que sin darte cuenta se ha convertido en un fantasma."
     },
     "bUuBDA": {
         "en-US": "[Seriang]\nIf you still remember when you trained at the abbey, then Seriang has made the right decision to refer you to Einhar.",
-        "pt-BR": "[Seriang]\nSe você ainda se lembra dos tempos em que treinava na abadia, isso significa que a escolha de Seriang em te recomendar a Einhar não foi errada.",
+        "pt-BR": "[Serang]\nSe você ainda se lembra dos tempos em que treinava na abadia, isso significa que minha escolha em te recomendar a Einhar não foi errada.",
         "es-ES": "[Seryang]\nSi aún recuerdas la época en que te formabas en el monasterio, eso significará que la elección de Seryang al recomendarte a Einhar no fue errónea."
     },
     "bkuBDA": {
         "en-US": "[Seriang]\nWell then, I hope Seriang proves helpful to you.",
-        "pt-BR": "[Seriang]\nHum, espero que eu possa ser útil para você.",
+        "pt-BR": "[Serang]\nHum, espero que eu possa ser útil para você.",
         "es-ES": "[Seriang]\nEjem, espero de todo corazón que Se-ryang te sea de ayuda."
     },
     "b0uBDA": {
         "en-US": "[{0}]\n(What a strange broad! But it's true that I need help breaking through this growth block...)",
-        "pt-BR": "[{0}]\n(É um cara suspeito. Mas é verdade que preciso de um avanço no meu treinamento...)",
+        "pt-BR": "[{0}]\n(É uma menina suspeita. Mas é verdade que preciso de um avanço no meu treinamento...)",
         "es-ES": "[{0}]\n(Es un tipo sospechoso. Pero es cierto que necesito un avance en mi entrenamiento...)"
     },
     "cEuBDA": {
         "en-US": "[{0}]\n(Maybe I should take the risk and go see her. She said it's on the way to the Saint Capitolina Monastery, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>)",
-        "pt-BR": "[{0}]\n(Vou fingir que acredito nisso e dar uma passada lá. No caminho para a Abadia de Santa Capitolina, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>, foi o que ele disse)",
+        "pt-BR": "[{0}]\n(Vou fingir que acredito nisso e dar uma passada lá. No caminho para a Abadia de Santa Capitolina, devo falar com <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>)",
         "es-ES": "[{0}]\n(Voy a hacer como si me dejara engañar y voy a ir a verlo. En el camino hacia el monasterio de Santa Capitolina, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>, ¿no?)"
     },
     "cUuBDA": {
         "en-US": "세량",
-        "pt-BR": "Seriang",
+        "pt-BR": "Serang",
         "es-ES": "Seryang"
     },
     "ckuBDA": {
         "en-US": "[Seriang]\nHmm, a <B>super genius Inquisitor</B> should always have secrets to be interesting.",
-        "pt-BR": "[Seriang]\nHum, para um <B>Inquisidor supergênio</B>, é preciso ter segredos pra ficar interessante.",
+        "pt-BR": "[Serang]\nHã, para uma <B>Inquisidora</B>, é preciso ter segredos pra ficar interessante.",
         "es-ES": "[Seriang]\nEjem, para un <B>inquisidor supergenio</B> es inevitable tener secretos para que sea interesante."
     },
     "c0uBDA": {
@@ -261,12 +261,12 @@
     },
     "dEuBDA": {
         "en-US": "[Einhar]\nNow, move forward as an Inquisitor. God is on your side again.",
-        "pt-BR": "[Einhar]\nAgora, como um Inquisidor, espero que sigas adiante com devoção, sob a proteção de Deus.",
+        "pt-BR": "[Einhar]\nAgora, como membro dos Inquisidores, espero que siga adiante com devoção, sob a proteção de Deus.",
         "es-ES": "[Einhar]\nAhora, como inquisidor, espero que sigas adelante con devoción bajo la protección de Dios."
     },
     "dUuBDA": {
         "en-US": "[Einhar]\nI'll always watch over your path.",
-        "pt-BR": "[Einhar]\nEstarei sempre de olho nos teus passos.",
+        "pt-BR": "[Einhar]\nEstarei sempre de olho nos seus passos.",
         "es-ES": "[Einhar]\nSiempre estaré pendiente de tus pasos."
     },
     "dkuBDA": {
@@ -296,7 +296,7 @@
     },
     "e0uBDA": {
         "en-US": "You ask if he's Einhar.",
-        "pt-BR": "Você pergunta se ele é mesmo Einhar.",
+        "pt-BR": "Você é Einhar?",
         "es-ES": "Te pregunta si eres Einhar."
     },
     "fEuBDA": {
@@ -306,12 +306,12 @@
     },
     "fUuBDA": {
         "en-US": "He says he came on Seriang's recommendation.",
-        "pt-BR": "Diz que veio por indicação de Seriang.",
+        "pt-BR": "Serang mencionou você.",
         "es-ES": "Dice que ha venido por recomendación de Se-ryang."
     },
     "fkuBDA": {
         "en-US": "[Einhar]\nAh, so you're the one Seriang sent. Then you must be a Sura.\nI can smell the battlefield from you.",
-        "pt-BR": "[Einhar]\nAh, você foi enviado pelo Seriang? Se é assim, então vamos ao que interessa.\nSinto o cheiro do campo de batalha vindo de você.",
+        "pt-BR": "[Einhar]\nAh, Serang me recomendou a você? Se é assim, então vamos ao que interessa.\nSinto o cheiro do campo de batalha vindo de você.",
         "es-ES": "[Einhar]\nAh, ¿te envía Se-ryang? En ese caso, un placer.\nHueles a campo de batalla."
     },
     "f0uBDA": {
@@ -321,42 +321,42 @@
     },
     "gEuBDA": {
         "en-US": "[{0}]\n(<I>......How does he know?</I>)",
-        "pt-BR": "[{0}]\n(<I>......Como ele sabe disso?</I>)",
+        "pt-BR": "[{0}]\n(......Como ele sabe disso?)",
         "es-ES": "[{0}]\n(<I>......¿Cómo lo sabes?</I>)"
     },
     "gUuBDA": {
         "en-US": "[Einhar]\nI could tell because Seriang finds those Suras and sends them my way.",
-        "pt-BR": "[Einhar]\nEu sei porque o Seriang costuma encontrar esses Shuras e os envia para mim.",
+        "pt-BR": "[Einhar]\nEu sei porque Serang costuma encontrar Shuras e os envia para mim.",
         "es-ES": "[Einhar]\nSe-ryang busca a suras como tú y me los envía, así que me lo imaginaba."
     },
     "gkuBDA": {
         "en-US": "[{0}]\n(<I>......Why is he reading my mind?!</I>)",
-        "pt-BR": "[{0}]\n(<I>......Por que ele lê meus pensamentos?!</I>)",
+        "pt-BR": "[{0}]\n(.....Como ele lê meus pensamentos?!)",
         "es-ES": "[{0}]\n(<I>......¡¿Por qué me lees la mente?!</I>)"
     },
     "g0uBDA": {
         "en-US": "You ask who you are.",
-        "pt-BR": "Você pergunta quem ele é.",
+        "pt-BR": "Quem é você?",
         "es-ES": "Me preguntas quién soy."
     },
     "hEuBDA": {
         "en-US": "[Einhar]\nMy apologies for the late introduction. I am <B>Einhar Enard</B>. The Mace of the Unwise God.\nAn Inquisitor, just like Seriang.",
-        "pt-BR": "[Einhar]\nMeu nome é <B>Einhar Enard</B>. A Clava do Deus Insensato.\nSou um Inquisidor, assim como Seriang.",
+        "pt-BR": "[Einhar]\nMeu nome é <B>Einhar Enard</B>. A Clava do Deus Sensato.\nSou um Inquisidor, assim como Serang.",
         "es-ES": "[Einhar]\nMe presenté tarde. Soy <B>Einhar Enard</B>. El mazo del dios ignorante.\nSoy un inquisidor como Se-ryang."
     },
     "hUuBDA": {
         "en-US": "He asks what an Inquisitor is.",
-        "pt-BR": "Você pergunta o que é um Inquisidor.",
+        "pt-BR": "O que é um Inquisidor?",
         "es-ES": "Te pregunto qué es un inquisidor."
     },
     "hkuBDA": {
         "en-US": "[Einhar]\nDid Seriang not tell you anything?\nShe considers the very act of coming here a test of your earnestness.",
-        "pt-BR": "[Einhar]\nSeriang não te contou nada, não é?\nÉ porque ele considera que o próprio ato de chegar até aqui já é um teste de determinação.",
+        "pt-BR": "[Einhar]\nSerang não te contou nada, não é?\nÉ porque ela considera que o próprio ato de chegar até aqui já é um teste de determinação.",
         "es-ES": "[Einhar]\n¿Se-ryang no te contó nada, verdad?\nEs que para él, el mero hecho de llegar hasta aquí ya es una prueba de su fervor."
     },
     "h0uBDA": {
         "en-US": "[Einhar]\nSeriang wants to know if you're willing to embrace the knowledge of the unknown to become stronger.",
-        "pt-BR": "[Einhar]\nSeriang quer saber se pessoas como você são capazes de se agarrar ao desejo de se tornarem mais fortes e mergulhar de bom grado no conhecimento do desconhecido.",
+        "pt-BR": "[Einhar]\nSerang quer saber se pessoas como você são capazes de se agarrar ao desejo de se tornarem mais fortes e mergulhar de bom grado no conhecimento do desconhecido.",
         "es-ES": "[Einhar]\nA Se-ryang le interesa saber si gente como tú es capaz de aferrarse al deseo de ser más fuerte y lanzarse de buena gana al conocimiento de lo desconocido."
     },
     "iEuBDA": {
@@ -366,12 +366,12 @@
     },
     "iUuBDA": {
         "en-US": "[Einhar]\n<B>Inquisitors</B> were once Suras.",
-        "pt-BR": "[Einhar]\n<B>Os Inquisidores</B> são aqueles que já foram Shuras.",
+        "pt-BR": "[Einhar]\nOs <B>Inquisidores</B> são aqueles que já foram Shuras.",
         "es-ES": "[Einhar]\nLos <B>Inquisidores</B> son aquellos que alguna vez fueron demonios."
     },
     "ikuBDA": {
         "en-US": "[Einhar]\nYes, I too.\nWe are the prodigals who strayed from God's path to the fiend's, only to return to His embrace.",
-        "pt-BR": "[Einhar]\nSim, eu também.\nSão os filhos pródigos que passaram do caminho dos deuses para o caminho dos demônios e depois voltaram para o caminho dos deuses.",
+        "pt-BR": "[Einhar]\nSim, eu também fui um Shura.\nSão os pessoas que passaram do caminho dos Deuses para o caminho do Espírito e depois voltaram para o caminho dos Deuses.",
         "es-ES": "[Einhar]\nSí, yo también.\nSon hijos pródigos que pasaron del camino de los dioses al de los demonios y luego regresaron al camino de los dioses."
     },
     "i0uBDA": {
@@ -386,17 +386,17 @@
     },
     "jUuBDA": {
         "en-US": "I abandoned Him.",
-        "pt-BR": "\"Eu abandonei os deuses.\"",
+        "pt-BR": "Eu segui outro caminho.",
         "es-ES": "«Yo mismo abandoné a los dioses»."
     },
     "jkuBDA": {
         "en-US": "Curiosity arises.",
-        "pt-BR": "Isso me deixa curioso.",
+        "pt-BR": "Minha curiosidade aumentou.",
         "es-ES": "Me da curiosidad."
     },
     "j0uBDA": {
         "en-US": "[Einhar]\nBut Sura, why did you abandon Him?",
-        "pt-BR": "[Einhar]\nMas, Shura, qual foi a razão pela qual você abandonou os deuses?",
+        "pt-BR": "[Einhar]\nMas, Shura, qual foi a razão pela qual você seguiu outro caminho?",
         "es-ES": "[Einhar]\nPero, Sura, ¿por qué abandonaste a los dioses?"
     },
     "kEuBDA": {
@@ -421,27 +421,27 @@
     },
     "lEuBDA": {
         "en-US": "[Einhar]\nGood. It seems you've developed a desire to learn more about us Inquisitors.",
-        "pt-BR": "[Einhar]\nMuito bem. Parece que você ficou com vontade de saber um pouco mais sobre o Inquisidor.",
+        "pt-BR": "[Einhar]\nMuito bem. Parece que você ficou com vontade de saber um pouco mais sobre os Inquisidores.",
         "es-ES": "[Einhar]\nMuy bien. Parece que te ha entrado ganas de saber más sobre el Inquisidor."
     },
     "lUuBDA": {
         "en-US": "Why did you choose me?",
-        "pt-BR": "Ele pergunta por que você o escolheu.",
+        "pt-BR": "Por que me escolheram?",
         "es-ES": "Te pregunto por qué me elegiste a mí."
     },
     "lkuBDA": {
         "en-US": "[Einhar]\nIt was because you were a Sura who had trained to the limits of your own capabilities.",
-        "pt-BR": "[Einhar]\nIsso é porque você era um <FONT COLOR = FF0000>Shura que treinou até o limite de suas capacidades</FONT>.",
+        "pt-BR": "[Einhar]\nIsso é porque você é um desses <FONT COLOR = FF0000>Shuras que treinaram até o limite de suas capacidades</FONT>.",
         "es-ES": "[Einhar]\nEs porque eras un <FONT COLOR = FF0000>sura que se había entrenado hasta sus límites</FONT>."
     },
     "l0uBDA": {
         "en-US": "[Einhar]\nBecause you still had things to accomplish as who you were, you wouldn't have listened to Seriang or me.",
-        "pt-BR": "[Einhar]\nPara um sura que ainda tem algo a conquistar, isso é importante, e eu sei que as palavras minhas e de Seriang soariam apenas como reclamações.",
+        "pt-BR": "[Einhar]\nPara um Shura que ainda tem algo a conquistar, isso é importante, e eu sei que as palavras minhas e de Serang soariam apenas como reclamações.",
         "es-ES": "[Einhar]\nSé que para un sura al que aún le queda algo por lograr eso es lo importante, y que las palabras de Seryang y mías solo te suenan a sermones."
     },
     "mEuBDA": {
         "en-US": "[Einhar]\nBut now that you've reached where you have nothing to gain as a Sura, you're desperate. You want greater power.",
-        "pt-BR": "[Einhar]\nMas você, um sura que alcançou um patamar onde não há mais para onde subir, deve estar sedento por um poder ainda maior.",
+        "pt-BR": "[Einhar]\nMas você, um Shura que alcançou um patamar onde não há mais para onde subir, deve estar com vontade de ter um poder ainda maior.",
         "es-ES": "[Einhar]\nPero tú, que has alcanzado un nivel en el que ya no puedes subir más como sura, debes estar sediento de un poder aún mayor."
     },
     "mUuBDA": {
@@ -451,7 +451,7 @@
     },
     "mkuBDA": {
         "en-US": "What can you do to help me?",
-        "pt-BR": "Ele pergunta o que pode fazer por você.",
+        "pt-BR": "O que você pode fazer por mim?",
         "es-ES": "Me preguntas qué puedo hacer por ti."
     },
     "m0uBDA": {
@@ -461,12 +461,12 @@
     },
     "nEuBDA": {
         "en-US": "[Einhar]\nThis path will consume you. Painful yet glorious, it will lead you to greater heights.",
-        "pt-BR": "[Einhar]\nEsse caminho é o caminho de se queimar. Será doloroso, mas glorioso, e permitirá que alcances um patamar ainda mais elevado.",
+        "pt-BR": "[Einhar]\nEsse caminho será doloroso, mas glorioso, e permitirá que alcance um patamar ainda mais elevado.",
         "es-ES": "[Einhar]\nEse camino es el de quemarte a ti mismo. Será doloroso, pero glorioso, y te permitirá alcanzar un nivel aún más elevado."
     },
     "nUuBDA": {
         "en-US": "Still, to return like this...",
-        "pt-BR": "Mesmo assim, voltar assim...",
+        "pt-BR": "Não sei se quero voltar assim...",
         "es-ES": "Pero volver así..."
     },
     "nkuBDA": {
@@ -476,7 +476,7 @@
     },
     "n0uBDA": {
         "en-US": "[Einhar]\nWhat are you waiting for? Odin wants you back.",
-        "pt-BR": "[Einhar]\nO que estás pensando? Odin permitiu que voltasses.",
+        "pt-BR": "[Einhar]\nO que você tem em mente? Odin permitiu que voltasse.",
         "es-ES": "[Einhar]\n¿En qué estás pensando? Odín te ha permitido regresar."
     },
     "oEuBDA": {
@@ -486,7 +486,7 @@
     },
     "oUuBDA": {
         "en-US": "[Einhar]\nCome back. He's waiting for you with His doors wide open.",
-        "pt-BR": "[Einhar]\nVolte. O deus está com a porta aberta, esperando por você.",
+        "pt-BR": "[Einhar]\nVolte. Odin está com a porta aberta, esperando por você.",
         "es-ES": "[Einhar]\nRegresa. El dios te espera con la puerta más ancha abierta."
     },
     "okuBDA": {
@@ -506,12 +506,12 @@
     },
     "pUuBDA": {
         "en-US": "That fist's sharp!",
-        "pt-BR": "Que soco forte!",
+        "pt-BR": "Ai! Seu soco doeu!!",
         "es-ES": "¡Qué fuerte pegas!"
     },
     "pkuBDA": {
         "en-US": "[Einhar]\nIt's a basic skill for Inquisitors.\nYou can do it too, if you return to Odin's embrace.",
-        "pt-BR": "[Einhar]\nÉ uma habilidade básica de um Inquisidor.\nVocê também consegue fazer isso. Se voltar para os braços de Odin.",
+        "pt-BR": "[Einhar]\nÉ uma habilidade básica de um Inquisidor.\nVocê também conseguirá fazer isso. Se voltar para os braços de Odin.",
         "es-ES": "[Einhar]\nEs una cualidad básica de un Inquisidor.\nTú también puedes hacerlo. Si regresas al seno de Odín."
     },
     "p0uBDA": {
@@ -521,52 +521,52 @@
     },
     "qEuBDA": {
         "en-US": "[Einhar]\nI have accepted your desire to return to Odin.\nNow that you have passed the test of desperation, it is time to confirm your firmness in execution.",
-        "pt-BR": "[Einhar]\nAceitei o teu desejo de voltar para Odin.\nJá passaste no teste da sinceridade, agora é hora de confirmar a firmeza da tua determinação.",
+        "pt-BR": "[Einhar]\nAceitarei o seu desejo de voltar para Odin.\nVocê passou no teste da sinceridade, agora é hora de confirmar a sua determinação.",
         "es-ES": "[Einhar]\nHe aceptado tu deseo de volver con Odín.\nYa has superado la prueba de tu fervor, así que ahora es el momento de comprobar la firmeza de tu compromiso."
     },
     "qUuBDA": {
         "en-US": "[Einhar]\nEnter St. Capitolina Abbey through the eastern entrance.\nThere, you'll encounter a <B>heinous monster</B> that's been suppressing the abbey's energy for a long time.",
-        "pt-BR": "[Einhar]\nVá pelo caminho na direção leste e entre na Abadia de Santa Capitolina.\nLá dentro, você encontrará um <B>monstro terrível</B> que há muito tempo reprime sua energia na abadia.",
+        "pt-BR": "[Einhar]\nEntre na Abadia de Santa Capitolina. E me encontre no teatro.\nLá, vou guiar você ao santuário de um <B>monstro terrível</B> que há muito tempo reprime sua energia na abadia.",
         "es-ES": "[Einhar]\nEntra por el camino a las 3 en punto y dirígete al monasterio de Santa Capitolina.\nAllí te encontrarás con un <B>monstruo atroz</B> que lleva mucho tiempo reprimiendo su poder en el monasterio."
     },
     "qkuBDA": {
         "en-US": "[Einhar]\nPlease defeat it. This is your execution test.\nI'll be waiting on the <NAVI>[inside]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
-        "pt-BR": "[Einhar]\nDerrote-o. Essa é a prova de prática.\nEstarei esperando <NAVI>[lá dentro]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Einhar]\nDerrote-o. Essa é a prova de prática.\nEstarei esperando no <NAVI>[anfiteatro]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
         "es-ES": "[Einhar]\nAcaba con él. Esa es tu prueba de fe.\nTe estaré esperando en <NAVI>[Interior]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>."
     },
     "q0uBDA": {
         "en-US": "[Einhar]\nEnter the path ahead and proceed to St. Capitolina Abbey.\nThere, you'll encounter a heinous monster that's been suppressing the abbey's energy for a long time.",
-        "pt-BR": "[Einhar]\nSiga pelo caminho à frente e entre no Abadia de Santa Capitolina.\nLá dentro, você encontrará um monstro terrível que há muito tempo reprime sua energia na abadia.",
+        "pt-BR": "[Einhar]\nSiga pelo caminho à frente e entre no Abadia de Santa Capitolina.\nLá, vou guiar você ao santuário de um monstro terrível que há muito tempo reprime sua energia na abadia.",
         "es-ES": "[Einhar]\nEntra por el camino de adelante y dirígete al Monasterio de Santa Capitolina.\nAllí te encontrarás con un <B>monstruo atroz</B> que lleva mucho tiempo reprimiendo su poder en el monasterio."
     },
     "rEuBDA": {
         "en-US": "[Einhar]\nThe wall you face can be overcome in the name of God, so do not worry and focus on your training.",
-        "pt-BR": "[Einhar]\nA barreira que você enfrentará pode ser facilmente superada em nome de Deus, então não se preocupe e dedique-se à sua missão.",
+        "pt-BR": "[Einhar]\nA barreira que você enfrentará pode ser facilmente superada em nome de Odin, então não se preocupe e dedique-se à sua missão.",
         "es-ES": "[Einhar]\nEl muro al que te enfrentas es algo que puedes superar fácilmente en nombre de Dios, así que no te preocupes y dedícate por completo a tu misión."
     },
     "rUuBDA": {
         "en-US": "[Seriang]\nOooh, good job coming this far!\nI knew I had an eye for people!",
-        "pt-BR": "[Seriang]\nHum, você chegou aqui em segurança, não é mesmo!\nAfinal, parece que não me enganei ao julgar as pessoas!",
+        "pt-BR": "[Serang]\nHã, você chegou aqui em segurança, não é mesmo?!\nAfinal, parece que não me enganei ao julgar você!",
         "es-ES": "[Seryang]\n¡Eh, has llegado sano y salvo hasta aquí, amigo!\n¡Al fin y al cabo, no me equivoqué al juzgarte!"
     },
     "rkuBDA": {
         "en-US": "[Einhar]\nWelcome. The monster for your execution test is in the abbey's basement.\nIt's warded, but it's such a formidable monster that it can eventually break out of its prison.",
-        "pt-BR": "[Einhar]\nSeja bem-vindo. O monstro para o teste prático está no subsolo da abadia.\nEle está preso por um feitiço de contenção, mas, como é um monstro extremamente poderoso, se deixarmos isso de lado, o feitiço enfraquecerá e acabará por ruir.",
+        "pt-BR": "[Einhar]\nBoas-vindas. O monstro para o teste prático está no subsolo da abadia.\nEle está preso por um feitiço de contenção, mas, como é extremamente poderoso, o feitiço enfraquecerá e desaparecerá.",
         "es-ES": "[Einhar]\nBienvenido. El monstruo para tu prueba práctica está en los sótanos del monasterio.\nLo tenemos encerrado en un hechizo de contención, pero es tan poderoso que, si lo dejamos sin control, el hechizo se debilitará y acabará rompiéndose."
     },
     "r0uBDA": {
         "en-US": "[Einhar]\nThat's why we regularly reinforce the ward and weaken it like this.\nThink of this as a practice run for a duty you'll have to fulfill as an Inquisitor one day.",
-        "pt-BR": "[Einhar]\nPor isso, reforçamos constantemente o feitiço e também derrotamos o monstro para esgotar sua força.\nPodes pensar nisso como uma experiência antecipada do que terás de fazer algum dia, se te tornares um Inquisidor.",
+        "pt-BR": "[Einhar]\nPor isso, reforçamos constantemente o feitiço e também derrotamos o monstro para esgotar sua força.\nPodes pensar nisso como uma experiência antecipada do fará algum dia, se você se juntar aos Inquisidores.",
         "es-ES": "[Einhar]\nPor eso reforzamos el hechizo constantemente y derrotamos al monstruo para que pierda fuerza.\nPuedes pensar que es como una experiencia previa de lo que harás algún día si te conviertes en Inquisidor."
     },
     "sEuBDA": {
         "en-US": "[Einhar]\nYou haven't completed your execution test yet.\nWould you like to enter the underground ward again?",
-        "pt-BR": "[Einhar]\nAinda não concluíste a prova prática, não é?\nQueres entrar novamente no campo de força subterrâneo?",
+        "pt-BR": "[Einhar]\nAinda não concluiu a prova prática, não é?\nQuer entrar novamente nas catacumbas?",
         "es-ES": "[Einhar]\nAún no has completado la prueba práctica.\n¿Quieres volver a entrar en el barrier subterráneo?"
     },
     "sUuBDA": {
         "en-US": "Enter.",
-        "pt-BR": "Entrar.",
+        "pt-BR": "Desejo fazer o teste.",
         "es-ES": "Entro."
     },
     "skuBDA": {
@@ -576,22 +576,22 @@
     },
     "s0uBDA": {
         "en-US": "[Einhar]\nPlease come back when you're ready to take your test.",
-        "pt-BR": "[Einhar]\nVolte depois de ter decidido que vai fazer o teste.",
+        "pt-BR": "[Einhar]\nVolte depois de ter decidido se vai fazer o teste.",
         "es-ES": "[Einhar]\nRegresa cuando hayas tomado la decisión de hacer la prueba."
     },
     "tEuBDA": {
         "en-US": "[Seriang]\nPreparation is important. Why don't we give them some time, Einhar?",
-        "pt-BR": "[Seriang]\nA preparação também é importante, então que tal não pressioná-lo tanto, Einhar!",
+        "pt-BR": "[Serang]\nA preparação também é importante, então não pressione muito, Einhar!",
         "es-ES": "[Seryang]\nLa preparación también es importante, ¡así que mejor no lo presiones tanto, Einhar!"
     },
     "tUuBDA": {
         "en-US": "[Einhar]\nGood job. I'm very impressed by your heroism.",
-        "pt-BR": "[Einhar]\nMuito bem. Sua atitude heróica ficou bem gravada nos meus olhos.",
+        "pt-BR": "[Einhar]\nMuito bem. Sua atitude heróica ficou bem gravada pelos meus olhos.",
         "es-ES": "[Einhar]\nBien hecho. Tu actitud heroica la he grabado bien en mi mente."
     },
     "tkuBDA": {
         "en-US": "[Einhar]\nHowever, a single battle is insufficient both to suppress the monster's power and to serve as a standard for evaluation.\nTherefore, please defeat the monster within the underground ward <B>one more time</B>.",
-        "pt-BR": "[Einhar]\nNo entanto, uma única vez não é suficiente nem para conter o poder do monstro, nem como critério para a prova.\nEntão, <B>mais uma vez</B>, por favor, derrota o monstro dentro do feitiço subterrâneo.",
+        "pt-BR": "[Einhar]\nNo entanto, uma única vez não é suficiente nem para conter o poder do monstro, nem como critério para a prova.\nEntão, <B>mais uma vez</B>, por favor, derrote o monstro dentro da catacumba.",
         "es-ES": "[Einhar]\nSin embargo, una sola vez no es suficiente ni para contener el poder del monstruo ni como criterio para la prueba.\nAsí que te pido que <B>una vez más</B> derrotes al monstruo dentro del barrier subterráneo."
     },
     "t0uBDA": {
@@ -606,12 +606,12 @@
     },
     "uUuBDA": {
         "en-US": "[Einhar]\n<FONT COLOR = FF0000>If the previous passage to the ward still exists, please press [Destroy Dungeon] to close it and create a new one.</FONT>",
-        "pt-BR": "[Einhar]\n<FONT COLOR = FF0000>Se o corredor que abri anteriormente ainda estiver aberto, precisarei clicar em [Destruir Masmorra] para fechá-lo e entrar novamente.</FONT>",
+        "pt-BR": "[Einhar]\n<FONT COLOR = FF0000>Se a instância ainda estiver aberta, clique em [ENCERRAR] na janela para destruir a instância anterior e gerar uma nova.</FONT>",
         "es-ES": "[Einhar]\n<FONT COLOR = FF0000>Si el pasadizo que te abrí antes sigue abierto, presiona [Destruir mazmorra] para cerrarlo y vuelve a entrar.</FONT>"
     },
     "ukuBDA": {
         "en-US": "[Einhar]\nYou're just as agile and skilled as I thought.\nStill, not enough.",
-        "pt-BR": "[Einhar]\nHabilidade ágil e perspicaz, vi bem.\nMas ainda não é o suficiente.",
+        "pt-BR": "[Einhar]\nHabilidade ágil e perspicaz.\nMas ainda não é o suficiente.",
         "es-ES": "[Einhar]\nTu destreza y agilidad, las he visto bien.\nPero aún no es suficiente."
     },
     "u0uBDA": {
@@ -621,12 +621,12 @@
     },
     "vEuBDA": {
         "en-US": "[Einhar]\nYes. This is a part of the process of returning to His embrace.\nAs an Inquisitor, you'll have to exorcise evil creatures over and over again. You have to get used to it.",
-        "pt-BR": "[Einhar]\nSim. Este é o processo de retorno à graça de Deus.\nA repetição dos rituais de exorcismo se tornará o teu dia a dia daqui em diante. Precisas te acostumar com isso.",
+        "pt-BR": "[Einhar]\nSim. Este é o processo de retorno à graça de Odin.\nA repetição dos rituais de exorcismo se tornará cotidiana daqui em diante. Precisa se acostumar com isso.",
         "es-ES": "[Einhar]\nAsí es. Este es el proceso para regresar al seno de los dioses.\nLas repetidas exorcismos se convertirán en tu rutina diaria. Necesitas acostumbrarte a eso."
     },
     "vUuBDA": {
         "en-US": "[Einhar]\n<B>One more time</B>, please defeat the monster in the underground ward.\nI will open the passage again for you.",
-        "pt-BR": "[Einhar]\n<B>Mais uma vez</B>, por favor, derrote os monstros dentro do feitiço subterrâneo.\nVou abrir o corredor novamente para você.",
+        "pt-BR": "[Einhar]\n<B>Mais uma vez</B>, por favor, derrote o monstro dentro da catacumba.\nVou abrir o local novamente para você.",
         "es-ES": "[Einhar]\n<B>Una vez más</B>, por favor, derrota a los monstruos dentro del barrier subterráneo.\nTe volveré a abrir el pasaje."
     },
     "vkuBDA": {
@@ -646,7 +646,7 @@
     },
     "wUuBDA": {
         "en-US": "[Einhar]\nIf you quit now, you won't achieve anything.\nEverything you've done so far will go to waste. Please be resolute and carry on.",
-        "pt-BR": "[Einhar]\nSe desistires agora, não conseguirás nada.\nTudo o que fizeste até agora será em vão. Por isso, continue dando o seu melhor.",
+        "pt-BR": "[Einhar]\nSe desistir agora, não vai conseguir nada.\nTudo o que fez até agora será em vão. Por isso, continue dando o seu melhor.",
         "es-ES": "[Einhar]\nSi lo dejas ahora, no lograrás nada.\nTodo lo que has hecho hasta ahora se echará a perder. Así que sigue esforzándote."
     },
     "wkuBDA": {
@@ -661,12 +661,12 @@
     },
     "xEuBDA": {
         "en-US": "[Einhar]\nThis is part of the process of returning to His embrace.\nRepeated exorcisms will become your daily routine. You must get used to it.",
-        "pt-BR": "[Einhar]\nEste é o processo para voltar à graça de Deus.\nAs recorrentes missões de exorcismo se tornarão a sua rotina daqui para frente. Precisará se acostumar com isso.",
+        "pt-BR": "[Einhar]\nEste é o processo para voltar à graça de Odin.\nAs recorrentes missões de exorcismo se tornarão a sua rotina daqui para frente. Precisará se acostumar com isso.",
         "es-ES": "[Einhar]\nEste es el proceso de regresar al seno de los dioses.\nLas expediciones de exorcismo repetidas se convertirán en tu rutina diaria. Necesitas acostumbrarte a eso."
     },
     "xUuBDA": {
         "en-US": "[Einhar]\nI witnessed your defeat of that heinous monster. Your skill shines brilliantly.\nThen, <B>once more</B>......,",
-        "pt-BR": "[Einhar]\nVi bem como derrotaste aquele monstro terrível. A sua destreza brilha de forma deslumbrante.\nEntão, <B>mais uma vez</B>......,",
+        "pt-BR": "[Einhar]\nVi como você derrotou aquele monstro terrível. A sua destreza brilha de forma deslumbrante.\nEntão, <B>mais uma vez</B>......",
         "es-ES": "[Einhar]\nHe visto bien cómo derrotas a ese monstruo atroz. Tu destreza brilla de manera deslumbrante.\nEntonces, <B>una vez más</B>......,"
     },
     "xkuBDA": {
@@ -676,32 +676,32 @@
     },
     "x0uBDA": {
         "en-US": "[Seriang]\nSheesh, Einhar. Welcome the new Inquisitor already.\nThey've proved themselves plenty. Why are you torturing them?",
-        "pt-BR": "[Seriang]\nOra, Einhar. Dê logo as boas-vindas ao novo Inquisidor!\nAcho que ele já se provou o suficiente. Por que ficar atormentando tanto?",
+        "pt-BR": "[Serang]\nAi, Einhar. Dê logo as boas-vindas ao novo Inquisidor!\nAcho que já foram provas o suficiente. Por que ficar atormentando tanto?",
         "es-ES": "[Seryang]\nVaya, Einhar. ¿No estás dando la bienvenida a un nuevo inquisidor?\nYa ha habido suficiente prueba. ¿Por qué te escondes y me atormentas?"
     },
     "yEuBDA": {
         "en-US": "[Einhar]\n...I'd like to say one more time, but the test ends here.\nTorture? No. I just wanted to check their firmness of heart one more time, Seriang.",
-        "pt-BR": "[Einhar]\n......Gostaria de dizer “mais uma vez”, mas o teste termina por aqui.\nAtormentar? É apenas para confirmar mais uma vez a convicção no coração deles, Seriang.",
+        "pt-BR": "[Einhar]\n......Gostaria de dizer “mais uma vez”, mas o teste termina por aqui.\nAtormentar? É apenas para confirmar a fé deles, Serang.",
         "es-ES": "[Einhar]\n......Me gustaría decir «otra vez», pero la prueba termina aquí.\n¿Que lo estoy atormentando? Solo quiero confirmar una vez más que tienes un corazón firme, Se-ryang."
     },
     "yUuBDA": {
         "en-US": "[Einhar]\nBut as Seriang said, the test seems sufficient.\nHearing Seriang's story and coming to me confirmed how desperately you wanted to grow.",
-        "pt-BR": "[Einhar]\nMas, como você disse, parece que já chega de provas.\nAo ouvir sua história e ver como você veio até mim, percebi que você realmente deseja crescer.",
+        "pt-BR": "[Einhar]\nMas, como você disse, já chega de provas.\nAo ouvir sua história e ver como você veio até mim, percebi que você realmente deseja crescer.",
         "es-ES": "[Einhar]\nPero, como dices, Seryang, parece que ya ha habido suficientes pruebas.\nAl escuchar tu historia y ver cómo viniste a buscarme, me di cuenta de que deseabas crecer con todas tus fuerzas."
     },
     "ykuBDA": {
         "en-US": "[Einhar]\nAnd here, at St. Capitolina Abbey, I witnessed your repeated defeats of the sealed monster, confirming your will and your steadfast devotion to Odin.",
-        "pt-BR": "[Einhar]\nE aqui, na Abadia de Santa Capitolina, ao ver-te derrotar repetidamente os monstros selados, confirmei a tua determinação e o teu coração firme voltado para Odin.",
+        "pt-BR": "[Einhar]\nE aqui, na Abadia de Santa Capitolina, ao te ver derrotar o monstro, confirmei sua determinação e o teu coração voltado para Odin.",
         "es-ES": "[Einhar]\nY al ver cómo derrotabas una y otra vez a los monstruos sellados aquí, en el monasterio de Santa Capitolina, he comprobado tu voluntad y tu firme devoción por Odín."
     },
     "y0uBDA": {
         "en-US": "[Einhar]\nYou possess the qualifications to be an Inquisitor.\nNow, let us proceed with the ceremony to swear you in.",
-        "pt-BR": "[Einhar]\nÉ uma qualificação mais do que suficiente para um Inquisidor.\nEntão, vamos realizar aqui o ritual de renascimento como novo Inquisidor.",
+        "pt-BR": "[Einhar]\nÉ uma qualificação mais do que suficiente para um Inquisidor.\nEntão, vamos realizar aqui o ritual de renascimento dos Inquisidores.",
         "es-ES": "[Einahar]\nTienes las cualidades necesarias para ser un Inquisidor.\nEntonces, vamos a celebrar aquí mismo la ceremonia en la que renacerás como nuevo Inquisidor."
     },
     "zEuBDA": {
         "en-US": "[Einhar]\nLighten your mind and body, dismount, and then return.\nIf you still have unfinished business or uncompleted training as a Sura, please complete it all before returning.",
-        "pt-BR": "[Einhar]\nLimpe seu corpo e sua mente para que não fiquem excessivamente pesados, desça de sua montaria e então retorne.\nSe ainda houver alguma tarefa que não tenhas cumprido ou algum treino que não tenhas concluído como Shura, conclua e retorne.",
+        "pt-BR": "[Einhar]\nLimpe seu corpo e sua mente para que não fiquem excessivamente pesados, desça de sua montaria e então retorne.\nSe ainda houver alguma tarefa que não tenha cumprido ou algum treino que não tenha concluído como Shura, conclua e retorne.",
         "es-ES": "[Einhar]\nPrepárate, sin que tu cuerpo ni tu mente estén demasiado agobiados, baja de tu montura y vuelve aquí.\nSi aún te quedan tareas pendientes o prácticas que no hayas completado como sura, termina con todo eso antes de regresar."
     },
     "zUuBDA": {
@@ -711,22 +711,22 @@
     },
     "zkuBDA": {
         "en-US": "[Einhar]\nThe test is over. Now, lighten your mind and body, dismount, and come back to me.\nIf you still have things to do as a Sura, please complete them as well.",
-        "pt-BR": "[Einhar]\nO teste está encerrado. Agora, limpe seu corpo e sua mente para que não fiquem excessivamente pesados, desça de sua montaria e retorne para mim.\nSe ainda houver alguma tarefa pendente ou prática que não tenha sido realizada como Shura, conclua primeiro e retorne.",
+        "pt-BR": "[Einhar]\nO teste está encerrado. Agora, limpe seu corpo e sua mente para que não fiquem excessivamente pesados, desça de sua montaria e retorne para mim.\nSe ainda houver alguma tarefa que não tenha cumprido ou algum treino que não tenha concluído como Shura, conclua e retorne.",
         "es-ES": "[Einhar]\nLa prueba ha terminado. Bueno, ordena tu cuerpo y tu mente para que no estén demasiado cargados, baja de tu montura y vuelve a verme.\nSi aún te queda algo por hacer o alguna tarea sin completar como Asura, termina todo eso antes de venir."
     },
     "z0uBDA": {
         "en-US": "[Einhar]\nThen, let me guide you to the underground ward in the abbey.",
-        "pt-BR": "[Einhar]\nEntão, vou te guiar até o interior do campo de força subterrâneo da abadia.",
+        "pt-BR": "[Einhar]\nEntão, vou te guiar até o subterrâneo da abadia.",
         "es-ES": "[Einhar]\nEntonces, te guiaré al interior del barrier subterráneo del monasterio."
     },
     "0EuBDA": {
         "en-US": "Request to enter the underground ward",
-        "pt-BR": "Solicitação para entrada na barreira subterrânea",
+        "pt-BR": "Criar instância",
         "es-ES": "Solicitud de ingreso al recinto subterráneo"
     },
     "0UuBDA": {
         "en-US": "Enter the Underground Ward",
-        "pt-BR": "Entrar na Barreira Subterrânea",
+        "pt-BR": "Entrar nas Catacumbas",
         "es-ES": "Entrar al recinto subterráneo"
     },
     "0kuBDA": {
@@ -751,7 +751,7 @@
     },
     "1kuBDA": {
         "en-US": "[Einhar]\nYour application was successful. Please select 'Enter Underground Realm' to proceed.",
-        "pt-BR": "[Einhar]\nA solicitação foi bem-sucedida. Selecione “Entrar na Barreira Subterrânea” para entrar.",
+        "pt-BR": "[Einhar]\nA solicitação foi bem-sucedida. Selecione “Entrar nas Catacumbas” para entrar.",
         "es-ES": "[Einhar]\nLa solicitud se ha realizado con éxito. Selecciona «Entrar al recinto subterráneo» para acceder."
     },
     "10uBDA": {
@@ -761,12 +761,12 @@
     },
     "2EuBDA": {
         "en-US": "[Einhar]\nYou can only enter this Memorial Dungeon after your party leader created it. Please check again.",
-        "pt-BR": "[Einhar]\nO líder do grupo precisa criar a Masmorra Memorial para que possa entrar. Verifique novamente.",
+        "pt-BR": "[Einhar]\nO líder do grupo precisa criar a Instância para que possa entrar. Verifique novamente.",
         "es-ES": "[Einhar]\nEl líder del grupo debe crear la mazmorra conmemorativa para poder entrar. Por favor, compruébalo de nuevo."
     },
     "2UuBDA": {
         "en-US": "[Einhar]\nNo Memorial Dungeon exists. Please try again.",
-        "pt-BR": "[Einhar]\nA Masmorra Memorial não foi criada. Tente novamente, por favor.",
+        "pt-BR": "[Einhar]\nA Instância não foi criada. Tente novamente, por favor.",
         "es-ES": "[Einhar]\nNo se ha creado la mazmorra conmemorativa. Inténtalo de nuevo."
     },
     "2kuBDA": {
@@ -781,12 +781,12 @@
     },
     "3EuBDA": {
         "en-US": "[에인하르]\nYour bag is full. Please lighten your mind and body first.",
-        "pt-BR": "[Einhar]\nA mochila está cheia. Alivie sua mente e o seu corpo primeiro e tente novamente.",
+        "pt-BR": "[Einhar]\nPor favor, reorganize seu inventário primeiro.",
         "es-ES": "[Einhar]\nTu mochila está llena. Ordena tus cosas para que no te pesen demasiado el cuerpo y la mente, y luego regresa."
     },
     "3UuBDA": {
         "en-US": "[Einhar]\nYou still have unused Skill Points. Please finish your training as a Sura, and then come back.",
-        "pt-BR": "[Einhar]\nAinda sobraram pontos de habilidade. Se houver algum treino que não tenhas concluído como Shura, finalize e retorne depois.",
+        "pt-BR": "[Einhar]\nAinda sobraram pontos de habilidade. Utilize todos os seus pontos de habilidade antes de mudar de classe.",
         "es-ES": "[Einhar]\nTe sobran puntos de habilidad. Si como Sura tienes algún entrenamiento pendiente, complétalo todo y vuelve después."
     },
     "3kuBDA": {
@@ -796,22 +796,22 @@
     },
     "30uBDA": {
         "en-US": "[Einhar]\nAre you ready? Let's begin the ceremony.",
-        "pt-BR": "[Einhar]\nVocê está pronto? Vamos dar início ao ritual.",
+        "pt-BR": "[Einhar]\nVocê está com tudo pronto? Vamos dar início ao ritual.",
         "es-ES": "[Einahar]\n¿Estás listo? Vamos a comenzar el ritual."
     },
     "4EuBDA": {
         "en-US": "[Einhar]\nDear Odin, here stands {0}, the Sura who would like to be reborn as an Inquisitor.",
-        "pt-BR": "[Einhar]\nÓ deus Odin. Aqui está {0}, um Shura que deseja renascer como Inquisidor.",
+        "pt-BR": "[Einhar]\nÓ deus Odin. Aqui está {0}, Shura que deseja viver como os Inquisidores.",
         "es-ES": "[Einhar]\nOh, Odín, nuestro dios. Aquí se encuentra {0}, un sura que desea renacer como inquisidor."
     },
     "4UuBDA": {
         "en-US": "[Einhar]\nLend them your <FONT COLOR = FF0000>fire of purification</FONT>. Let them feel the <FONT COLOR = FF0000>power of faith</FONT>.",
-        "pt-BR": "[Einhar]\nDerrama sobre ele o <FONT COLOR = FF0000>Fogo Purificador</FONT> que queima a injustiça e concede-lhe a <FONT COLOR = FF0000>força da fé</FONT> forte e sincera.",
+        "pt-BR": "[Einhar]\nDerrame sobre essa pessoa o <FONT COLOR = FF0000>Fogo Purificador</FONT> que queima a injustiça e conceda-lhe a <FONT COLOR = FF0000>força da fé</FONT> forte e sincera.",
         "es-ES": "[Einhar]\nDerrama sobre él el <FONT COLOR = FF0000>fuego purificador</FONT> que quema la injusticia, y concédele el <FONT COLOR = FF0000>poder de la fe</FONT> fuerte y fiel."
     },
     "4kuBDA": {
         "en-US": "[Einhar]\nLet them become the <B>exorcising flame</B> and mete out punishment in your name.",
-        "pt-BR": "[Einhar]\nComo julgador do mal, que seu corpo se torne a <B>chama exterminadora de demônios</B> e, em nome de Odin, que ele queime os demônios.",
+        "pt-BR": "[Einhar]\nComo julgador do mal, que seu corpo se torne a <B>chama exterminadora</B> e, em nome de Odin, que queima os demônios.",
         "es-ES": "[Einhar]\nComo juzgador del mal, haz que su cuerpo se convierta en la <B>llama exterminadora</B> y que, en nombre de Odín, queme a los demonios."
     },
     "40uBDA": {
@@ -821,7 +821,7 @@
     },
     "5EuBDA": {
         "en-US": "[Einhar]\nThey are strong on the inside and outside, invincible in battle.",
-        "pt-BR": "[Einhar]\nQue seu corpo seja forte e seu espírito corajoso, para que ninguém possa derrubá-lo.",
+        "pt-BR": "[Einhar]\nQue seu corpo seja forte e seu espírito corajoso, para que ninguém possa lhe derrubar.",
         "es-ES": "[Einhar]\nQue tu cuerpo sea fuerte y tu espíritu valiente, para que nadie pueda derribarte."
     },
     "5UuBDA": {
@@ -831,12 +831,12 @@
     },
     "5kuBDA": {
         "en-US": "[Einhar]\nHere, let me give you this <ITEM>[Hourglass Necklace]<INFO>490087</INFO></ITEM> as a token of your growth.\nIt will be of help to you as you walk the path of the gods anew.",
-        "pt-BR": "[Einhar]\nAqui, como símbolo de crescimento, vou te dar de presente um <ITEM>[Colar de Ampulheta]<INFO>490087</INFO></ITEM>.\nIsso vai te ajudar agora que você está começando a trilhar o caminho dos deuses.",
+        "pt-BR": "[Einhar]\nComo símbolo de crescimento, vou te dar o <ITEM>[Colar de Ampulheta]<INFO>490087</INFO></ITEM>.\nIsso vai te ajudar a trilhar o caminho dos deuses.",
         "es-ES": "[Einhar]\nToma, como muestra de tu crecimiento, te regalo un <ITEM>[Collar de reloj de arena]<INFO>490087</INFO></ITEM>.\nTe será de ayuda en tu nuevo camino hacia los dioses."
     },
     "50uBDA": {
         "en-US": "[Einhar]\nYou won't need it once you get used to being His servant again, but until then, it'll be with you to guide you.",
-        "pt-BR": "[Einhar]\nQuando você já estiver acostumado com o seu crescimento, provavelmente não precisará mais dele, mas até lá ele será um bom companheiro para você.",
+        "pt-BR": "[Einhar]\nQuando você se acostumar com o seu crescimento, não precisará mais dele, mas até lá ele será um bom companheiro para você.",
         "es-ES": "[Einhar]\nPara cuando te hayas acostumbrado a tu nuevo yo, probablemente ya no lo usarás, pero hasta entonces será tu buen compañero."
     },
     "6EuBDA": {
@@ -846,77 +846,77 @@
     },
     "6UuBDA": {
         "en-US": "[Seriang]\nHave you become a fine Inquisitor? Now, all that's left is to move forward!",
-        "pt-BR": "[Seriang]\nSerá que você se tornou um excelente Inquisidor? Agora só resta seguir em frente!",
+        "pt-BR": "[Serang]\nSerá que você se tornou excelente entre os Inquisidores? Agora só resta seguir em frente!",
         "es-ES": "[Seryang]\n¿Te has convertido en un gran inquisidor? ¡Ahora solo queda seguir adelante!"
     },
     "6kuBDA": {
         "en-US": "[Seriang]\nIs there anything you want to talk about? Then you can come see Einhar anytime!",
-        "pt-BR": "[Seriang]\nTem algo que queiras conversar? Então, é só vir falar com o Einhar quando quiseres!",
+        "pt-BR": "[Serang]\nTem algo que queira conversar? Então, é só vir falar com o Einhar quando quiser!",
         "es-ES": "[Seryang]\n¿Hay algo de lo que quieras hablar? ¡Pues ven a ver a Einhar cuando quieras!"
     },
     "60uBDA": {
         "en-US": "[Seriang]\nSeriang, hmm! If we're meant to be, we'll meet again someday!",
-        "pt-BR": "[Seriang]\nCom Seriang... hum! Se algum dia nosso caminho se cruzar, com certeza nos encontraremos de novo!",
+        "pt-BR": "[Serang]\nSe algum dia nosso caminho se cruzar... ah, com certeza nos encontraremos de novo!",
         "es-ES": "[Seryang]\n¡Con Seryang, ejem! ¡Si algún día el destino nos une, nos volveremos a ver!"
     },
     "7EuBDA": {
         "en-US": "[Seriang]\nHave you completed your execution test yet?\nWhen you're outside, you should relax and take rest.",
-        "pt-BR": "[Seriang]\nAinda não concluíste todas as provas práticas?\nLá fora, relaxa e descansa bastante.",
+        "pt-BR": "[Serang]\nAinda não concluiu todas as provas práticas?\nRelaxe e descanse bastante.",
         "es-ES": "[Seryang]\n¿Aún no has completado todas las pruebas prácticas?\nAfuera, relájate y descansa lo suficiente."
     },
     "7UuBDA": {
         "en-US": "[Seriang]\nYou can tell how heinous this monster is by the sound of its howls coming from the basement.\nGood job beating it!",
-        "pt-BR": "[Seriang]\nAquele choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo e voltou, não é mesmo?",
+        "pt-BR": "[Serang]\nAquele choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo e voltou, não é mesmo?",
         "es-ES": "[Seryang]\nEsos gemidos que resuenan en el subsuelo dan una idea de lo feroz que es esa criatura.\n¡Pero has salido adelante y has regresado, amigo!"
     },
     "7kuBDA": {
         "en-US": "[Seriang]\nThe howls echoing from the basement give you a sense of that monster's savagery.\nBut you've overcome it and returned, my friend!",
-        "pt-BR": "[Seriang]\nO choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo isso e voltou, não é mesmo?",
+        "pt-BR": "[Serang]\nO choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo isso e voltou, não é mesmo?",
         "es-ES": "[Seriang]\nLos gemidos que resuenan en el subsuelo dan una idea de lo feroz que es esa bestia.\n¡Pero has logrado vencerla y has regresado, amigo!"
     },
     "70uBDA": {
         "en-US": "[Seriang]\nHave you completed your execution test yet?\nIf you want to try again, please talk to Einhar.",
-        "pt-BR": "[Seriang]\nAinda não completaste todas as provas práticas?\nSe quiseres tentar de novo, é só falar com Einhar.",
+        "pt-BR": "[Serang]\nAinda não completou todas as provas práticas?\nSe quiser tentar de novo, é só falar com Einhar.",
         "es-ES": "[Seryang]\n¿Acaso aún no has completado todas las pruebas prácticas?\nSi quieres volver a intentarlo, solo tienes que hablar con Einhar."
     },
     "8EuBDA": {
         "en-US": "[Seriang]\nI'd love to watch you fight, but mm... Seriang is not allowed to get close to the underground ward.\nMost people don't even know about this ward.",
-        "pt-BR": "[Seriang]\nGostaria de ver o teu talento, mas... bem. Seriang não pode se aproximar do Barreira Subterrânea sem mais nem menos.\nAfinal, a maioria das pessoas nem sabe que ela existe.",
+        "pt-BR": "[Serang]\nGostaria de ver sua luta, mas... bem. Não posso me aproximar do monstro terrível sem mais nem menos.\nAfinal, a maioria das pessoas nem sabe que ele existe.",
         "es-ES": "[Seriang]\nMe gustaría ver de qué estás hecho, pero... eh... Se-ryang no puede acercarse sin más al barrier subterráneo.\nEs un barrier que la mayoría ni siquiera sabe que existe."
     },
     "8UuBDA": {
         "en-US": "[Seriang]\nThat should tell you how much Einhar is counting on this test.\nAnd how high his expectations are for you!",
-        "pt-BR": "[Seriang]\nVocê deve saber o quanto Einhar está apostando nessa prova, não é?\nClaro, estou falando com você, que está prestando essa prova!",
+        "pt-BR": "[Serang]\nVocê deve saber o quanto Einhar está apostando nessa prova, não é?\nClaro, estou falando com você, que está prestando essa prova!",
         "es-ES": "[Seryang]\n¿Te das cuenta de lo mucho que Einhar espera de esta prueba?\n¡Claro que te lo digo a ti, que estás en medio de ella!"
     },
     "8kuBDA": {
         "en-US": "[Seriang]\nI'd love to watch you fight, but mm... Seriang is not allowed to get close to the ward.\nMost people don't even know about this ward.",
-        "pt-BR": "[Seriang]\nGostaria de ver como você se sai, mas... bem. Seriang não pode simplesmente entrar na barreira.\nAfinal, a maioria das pessoas nem sabe que ela existe.",
+        "pt-BR": "[Serang]\nGostaria de ver sua luta, mas... bem. Não posso me aproximar do monstro terrível sem mais nem menos.\nAfinal, a maioria das pessoas nem sabe que ele existe.",
         "es-ES": "[Seryang]\nMe gustaría ver de qué estás hecho, pero... ejem. Seryang no puede acercarse a las barreras sin más.\nLa mayoría ni siquiera sabe que existen."
     },
     "80uBDA": {
         "en-US": "[Seriang]\nHave you completed your execution test yet?\nHurry. You can be an Inquisitor after this!",
-        "pt-BR": "[Seriang]\nAinda não terminaste todas as provas práticas?\nSó depois de terminar tudo é que te tornas um Inquisidor!",
+        "pt-BR": "[Serang]\nAinda não terminou todas as provas práticas?\nSó depois de terminar tudo é que você pode se juntar à nós!",
         "es-ES": "[Seryang]\n¿Acaso aún no has completado todas las pruebas prácticas?\n¡Solo cuando las hayas completado todas te convertirás en Inquisidor!"
     },
     "9EuBDA": {
         "en-US": "[Seriang]\nNow, only the Inquisitor's ceremony remains.\nPrepare to meet that solemn and unforgettable moment with both gravity and joy.",
-        "pt-BR": "[Seriang]\nAgora só falta a cerimônia de Inquisidor.\nViva esse momento com seriedade e alegria, para que ele se torne uma lembrança para toda a vida.",
+        "pt-BR": "[Serang]\nAgora só falta a cerimônia de iniciação dos Inquisidores.\nViva esse momento com seriedade e alegria, para que ele se torne uma lembrança para toda a vida.",
         "es-ES": "[Seryang]\nAhora solo queda la ceremonia de Inquisidor.\nPrepárate para vivir ese momento, que será un recuerdo imborrable, a la vez solemne y divertido."
     },
     "9UuBDA": {
         "en-US": "[Seriang]\nI too assist Einhar in the Inquisitor appointment ceremony.\nIt's one of the few things I get to enjoy while on this long journey.",
-        "pt-BR": "[Seriang]\nEu também estou ao lado de Einhar, auxiliando no ritual de iniciação como Inquisidor.\nÉ uma das poucas alegrias da minha longa vida de viajante!",
+        "pt-BR": "[Serang]\nEu também estou ao lado de Einhar, auxiliando no ritual de iniciação dos Inquisidores.\nÉ uma das poucas alegrias da minha longa vida de viajante!",
         "es-ES": "[Seriang]\nYo también estoy junto a Einhar, ayudando en la ceremonia de convertirte en Inquisidor.\n¡Es uno de los pocos placeres de mi larga vida como viajero!"
     },
     "9kuBDA": {
         "en-US": "[Seriang]\nWelcome! Soon, you'll be one of us.\nI'll be counting on you, successor!",
-        "pt-BR": "[Seriang]\nSeja bem-vindo! Você está prestes a se tornar um membro da Ordem dos Inquisidores!\nConto com você, novato!",
+        "pt-BR": "[Serang]\nBoas-vindas! Você está prestes a se juntar à Ordem dos Inquisidores!\nConto com você, iniciante!",
         "es-ES": "[Seriang]\n¡Bienvenido! ¡Ya casi eres parte de los Inquisidores!\n¡Cuídate, novato!"
     },
     "90uBDA": {
         "en-US": "[Seriang]\nIf you go to Prontera, I recommend you stay at the Prontera Inn. It's got clean rooms and delicious food!",
-        "pt-BR": "[Seriang]\nSe fores a Prontera, recomendo ficar na pousada de Prontera. As instalações são ótimas e a comida é deliciosa!",
+        "pt-BR": "[Serang]\nSe for a Prontera, recomendo ficar na estalagem leste. As camas são ótimas e a comida é deliciosa!",
         "es-ES": "[Seryang]\nSi vas a Prontera, prueba a quedarte en la posada de Prontera. ¡Las instalaciones son buenas y la comida está deliciosa!"
     }
 }

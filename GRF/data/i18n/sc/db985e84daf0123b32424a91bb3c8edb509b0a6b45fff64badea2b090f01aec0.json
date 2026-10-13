@@ -1,132 +1,110 @@
 {
     "gGHBDA": {
-        "ko-KR": "포인트매니저",
         "en-US": "Point Manager",
         "pt-BR": "Gerenciador de Pontos",
         "es-ES": "Administrador de Puntos"
     },
     "gWHBDA": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot proceed with the quest because you are carrying too many items. Please organize your items and try again.",
         "pt-BR": "Você não pode prosseguir com a missão porque está carregando muitos itens. Por favor organize seus itens e tente novamente.",
         "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nPor favor organiza tus objetos e inténtalo de nuevo."
     },
     "gmHBDA": {
-        "ko-KR": "[포인트매니저]\n현재 ^0000FF{0}^000000 점의 포인트를 보유 중이시군요.\n어떤 상품을 원하십니까?",
         "en-US": "[Point Manager]\nYou currently have ^0000FF{0}^000000 points.\nWhich reward would you like?",
         "pt-BR": "[Gerenciador de Pontos]\nAtualmente você possui ^0000FF{0}^000000 pontos.\nQual recompensa você deseja?",
         "es-ES": "[Administrador de Puntos]\nActualmente tienes ^0000FF{0}^000000 puntos.\n¿Qué recompensa deseas?"
     },
     "g2HBDA": {
-        "ko-KR": "2포인트 선물 ^FF0000(포인트부족)^000000",
         "en-US": "2 Point Reward ^FF0000(Not enough points)^000000",
         "pt-BR": "Recompensa de 2 Pontos ^FF0000(Pontos insuficientes)^000000",
         "es-ES": "Recompensa de 2 Puntos ^FF0000(Puntos insuficientes)^000000"
     },
     "hGHBDA": {
-        "ko-KR": "10포인트 선물 ^FF0000(포인트부족)^000000",
         "en-US": "10 Point Reward ^FF0000(Not enough points)^000000",
         "pt-BR": "Recompensa de 10 Pontos ^FF0000(Pontos insuficientes)^000000",
         "es-ES": "Recompensa de 10 Puntos ^FF0000(Puntos insuficientes)^000000"
     },
     "hWHBDA": {
-        "ko-KR": "100포인트 선물 ^FF0000(포인트부족)^000000",
         "en-US": "100 Point Reward ^FF0000(Not enough points)^000000",
         "pt-BR": "Recompensa de 100 Pontos ^FF0000(Pontos insuficientes)^000000",
         "es-ES": "Recompensa de 100 Puntos ^FF0000(Puntos insuficientes)^000000"
     },
     "hmHBDA": {
-        "ko-KR": "300포인트 선물 ^FF0000(포인트부족)^000000",
         "en-US": "300 Point Reward ^FF0000(Not enough points)^000000",
         "pt-BR": "Recompensa de 300 Pontos ^FF0000(Pontos insuficientes)^000000",
         "es-ES": "Recompensa de 300 Puntos ^FF0000(Puntos insuficientes)^000000"
     },
     "h2HBDA": {
-        "ko-KR": "300포인트 선물",
         "en-US": "300 Point Reward",
         "pt-BR": "Recompensa de 300 Pontos",
         "es-ES": "Recompensa de 300 Puntos"
     },
     "iGHBDA": {
-        "ko-KR": "100포인트 선물",
         "en-US": "100 Point Reward",
         "pt-BR": "Recompensa de 100 Pontos",
         "es-ES": "Recompensa de 100 Puntos"
     },
     "iWHBDA": {
-        "ko-KR": "10포인트 선물",
         "en-US": "10 Point Reward",
         "pt-BR": "Recompensa de 10 Pontos",
         "es-ES": "Recompensa de 10 Puntos"
     },
     "imHBDA": {
-        "ko-KR": "2포인트 선물",
         "en-US": "2 Point Reward",
         "pt-BR": "Recompensa de 2 Pontos",
         "es-ES": "Recompensa de 2 Puntos"
     },
     "i2HBDA": {
-        "ko-KR": "현재포인트 조회",
         "en-US": "Check Current Points",
         "pt-BR": "Consultar Pontos Atuais",
         "es-ES": "Consultar Puntos Actuales"
     },
     "jGHBDA": {
-        "ko-KR": "[포인트매니저]\n현재 ^0000FF{0}^000000 점의 포인트를 보유 중이십니다",
         "en-US": "[Point Manager]\nYou currently have ^0000FF{0}^000000 points.",
         "pt-BR": "[Gerenciador de Pontos]\nAtualmente você possui ^0000FF{0}^000000 pontos.",
         "es-ES": "[Administrador de Puntos]\nActualmente tienes ^0000FF{0}^000000 puntos."
     },
     "jWHBDA": {
-        "ko-KR": "[포인트매니저]",
         "en-US": "[Point Manager]",
         "pt-BR": "[Gerenciador de Pontos]",
         "es-ES": "[Administrador de Puntos]"
     },
     "jmHBDA": {
-        "ko-KR": "현재 남은 포인트는 ^0000FF{0}^000000 점 입니다\n이 점수로는 상품을 받으실 수 없겠군요",
         "en-US": "The remaining points are ^0000FF{0}^000000.\nYou do not have enough points to receive a reward.",
         "pt-BR": "Os pontos restantes são ^0000FF{0}^000000.\nVocê não tem pontos suficientes para receber uma recompensa.",
         "es-ES": "Los puntos restantes son ^0000FF{0}^000000.\nNo tienes puntos suficientes para recibir una recompensa."
     },
     "j2HBDA": {
-        "ko-KR": "[포인트매니저]\n2포인트 선물을 고르셨군요. 지금 바로 지급해드리겠습니다",
         "en-US": "[Point Manager]\nYou selected the 2 point reward. It will be given to you now.",
         "pt-BR": "[Gerenciador de Pontos]\nVocê selecionou a recompensa de 2 pontos. Ela será entregue agora.",
         "es-ES": "[Administrador de Puntos]\nHas seleccionado la recompensa de 2 puntos. Se te entregará ahora."
     },
     "kGHBDA": {
-        "ko-KR": "남은 포인트는 ^0000FF{0}^000000 점 입니다",
         "en-US": "Remaining points: ^0000FF{0}^000000",
         "pt-BR": "Pontos restantes: ^0000FF{0}^000000",
         "es-ES": "Puntos restantes: ^0000FF{0}^000000"
     },
     "kWHBDA": {
-        "ko-KR": "[포인트매니저]\n뭔가 장부가 잘못 된 것 같은데요. 잔여 포인트를 다시 확인해주시겠습니까?",
         "en-US": "[Point Manager]\nSomething seems wrong with the records. Could you please check the remaining points again?",
         "pt-BR": "[Gerenciador de Pontos]\nAlgo parece errado com os registros. Você poderia verificar os pontos restantes novamente?",
         "es-ES": "[Administrador de Puntos]\nAlgo parece estar mal con los registros. ¿Podrías verificar nuevamente los puntos restantes?"
     },
     "kmHBDA": {
-        "ko-KR": "[포인트매니저]\n10포인트 선물을 고르셨군요. 지금 바로 지급해드리겠습니다",
         "en-US": "[Point Manager]\nYou selected the 10 point reward. It will be given to you now.",
         "pt-BR": "[Gerenciador de Pontos]\nVocê selecionou a recompensa de 10 pontos. Ela será entregue agora.",
         "es-ES": "[Administrador de Puntos]\nHas seleccionado la recompensa de 10 puntos. Se te entregará ahora."
     },
     "k2HBDA": {
-        "ko-KR": "[포인트매니저]\n100포인트 선물을 고르셨군요. 지금 바로 지급해드리겠습니다",
         "en-US": "[Point Manager]\nYou selected the 100 point reward. It will be given to you now.",
         "pt-BR": "[Gerenciador de Pontos]\nVocê selecionou a recompensa de 100 pontos. Ela será entregue agora.",
         "es-ES": "[Administrador de Puntos]\nHas seleccionado la recompensa de 100 puntos. Se te entregará ahora."
     },
     "lGHBDA": {
-        "ko-KR": "[포인트매니저]\n300포인트 선물을 고르셨군요. 지금 바로 지급해드리겠습니다",
         "en-US": "[Point Manager]\nYou selected the 300 point reward. It will be given to you now.",
         "pt-BR": "[Gerenciador de Pontos]\nVocê selecionou a recompensa de 300 pontos. Ela será entregue agora.",
         "es-ES": "[Administrador de Puntos]\nHas seleccionado la recompensa de 300 puntos. Se te entregará ahora."
     },
     "lWHBDA": {
-        "ko-KR": "[포인트매니저]\n선택하신 포인트만큼의 선물을 드리기엔 인벤토리에 여유공간이 없는 것 같습니다.",
         "en-US": "[Point Manager]\nIt seems you do not have enough space in your inventory to receive the reward for the selected points.",
         "pt-BR": "[Gerenciador de Pontos]\nParece que não há espaço suficiente no seu inventário para receber a recompensa dos pontos selecionados.",
         "es-ES": "[Administrador de Puntos]\nParece que no tienes suficiente espacio en tu inventario para recibir la recompensa por los puntos seleccionados."

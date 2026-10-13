@@ -1,0 +1,432 @@
+{
+    "wPzQDQ": {
+        "en-US": "Baby Shark",
+        "pt-BR": "Bebê Tubarão",
+        "es-ES": "Tiburón Bebé"
+    },
+    "wfzQDQ": {
+        "en-US": "You are carrying too many items to proceed with this quest.\nPlease organize your items and try again.",
+        "pt-BR": "Você está carregando muitos itens para prosseguir com esta missão.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "Llevas demasiados objetos para continuar con esta misión.\nPor favor, organiza tus objetos e intenta otra vez."
+    },
+    "wvzQDQ": {
+        "en-US": "[Baby Shark]\n{0},\nYou really are the best seeker!",
+        "pt-BR": "[Bebê Tubarão]\n{0},\nVocê realmente é o melhor no esconde-esconde!",
+        "es-ES": "[Tiburón Bebé]\n{0},\n¡Eres el mejor buscador que existe!"
+    },
+    "w/zQDQ": {
+        "en-US": "[Baby Shark]\nToday was so much fun too!\nHere, as promised, <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.\nLet's play again tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nHoje também foi muito divertido!\nAqui, como prometido, <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nVamos brincar de novo amanhã!",
+        "es-ES": "[Tiburón Bebé]\n¡Hoy también fue muy divertido!\nToma, como prometí, <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>.\n¡Juguemos otra vez mañana!\n¡Mamá, no me sigas mañana!"
+    },
+    "xPzQDQ": {
+        "en-US": "Mommy, you don't have to follow me tomorrow!",
+        "pt-BR": "Mamãe, não precisa vir junto amanhã!",
+        "es-ES": "¡Mamá, no me sigas mañana!"
+    },
+    "xfzQDQ": {
+        "en-US": "Daddy, you don't have to follow me tomorrow!",
+        "pt-BR": "Papai, não precisa vir junto amanhã!",
+        "es-ES": "¡Papá, no me sigas mañana!"
+    },
+    "xvzQDQ": {
+        "en-US": "Grandma, you don't have to follow me tomorrow!",
+        "pt-BR": "Vovó, não precisa vir junto amanhã!",
+        "es-ES": "¡Abuela, no me sigas mañana!"
+    },
+    "x/zQDQ": {
+        "en-US": "Grandpa, you don't have to follow me tomorrow!",
+        "pt-BR": "Vovô, não precisa vir junto amanhã!",
+        "es-ES": "¡Abuelo, no me sigas mañana!"
+    },
+    "yPzQDQ": {
+        "en-US": "[Baby Shark]\nShall we head back to Comodo?",
+        "pt-BR": "[Bebê Tubarão]\nVamos voltar para Comodo?",
+        "es-ES": "[Tiburón Bebé]\n¿Volvemos a Comodo?"
+    },
+    "yfzQDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
+    },
+    "yvzQDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "y/zQDQ": {
+        "en-US": "[Baby Shark]\nThen let's stay a little longer.",
+        "pt-BR": "[Bebê Tubarão]\nEntão vamos ficar mais um pouco.",
+        "es-ES": "[Tiburón Bebé]\nEntonces quedémonos un rato más."
+    },
+    "zPzQDQ": {
+        "en-US": "Mommy Shark",
+        "pt-BR": "Mamãe Tubarão",
+        "es-ES": "Tiburón Mamá"
+    },
+    "zfzQDQ": {
+        "en-US": "Daddy Shark",
+        "pt-BR": "Papai Tubarão",
+        "es-ES": "Tiburón Papá"
+    },
+    "zvzQDQ": {
+        "en-US": "Grandma Shark",
+        "pt-BR": "Vovó Tubarão",
+        "es-ES": "Tiburón Abuela"
+    },
+    "z/zQDQ": {
+        "en-US": "Grandpa Shark",
+        "pt-BR": "Vovô Tubarão",
+        "es-ES": "Tiburón Abuelo"
+    },
+    "0PzQDQ": {
+        "en-US": "[Baby Shark]\nOh, come on...",
+        "pt-BR": "[Bebê Tubarão]\nAh, qual é...",
+        "es-ES": "[Tiburón Bebé]\nAy, por favor..."
+    },
+    "0fzQDQ": {
+        "en-US": "[Baby Shark]\nMommy came along because she was curious about what I was playing...",
+        "pt-BR": "[Bebê Tubarão]\nMamãe veio porque estava curiosa sobre o que eu estava brincando...",
+        "es-ES": "[Tiburón Bebé]\nMamá vino porque tenía curiosidad por saber a qué estaba jugando..."
+    },
+    "0vzQDQ": {
+        "en-US": "[Mommy Shark]\nI came to see what Baby Shark is playing with friends.",
+        "pt-BR": "[Mamãe Tubarão]\nVim ver o que o Bebê Tubarão está brincando com os amigos.",
+        "es-ES": "[Tiburón Mamá]\nVine a ver a qué está jugando Tiburón Bebé con sus amigos."
+    },
+    "0/zQDQ": {
+        "en-US": "[Baby Shark]\nDaddy came along because he was curious about what I was playing...",
+        "pt-BR": "[Bebê Tubarão]\nPapai veio porque estava curioso sobre o que eu estava brincando...",
+        "es-ES": "[Tiburón Bebé]\nPapá vino porque tenía curiosidad por saber a qué estaba jugando..."
+    },
+    "1PzQDQ": {
+        "en-US": "[Daddy Shark]\nI came to see what Baby Shark is playing with friends.",
+        "pt-BR": "[Papai Tubarão]\nVim ver o que o Bebê Tubarão está brincando com os amigos.",
+        "es-ES": "[Tiburón Papá]\nVine a ver a qué está jugando Tiburón Bebé con sus amigos."
+    },
+    "1fzQDQ": {
+        "en-US": "[Baby Shark]\nGrandma came along because she was curious about what I was playing...",
+        "pt-BR": "[Bebê Tubarão]\nVovó veio porque estava curiosa sobre o que eu estava brincando...",
+        "es-ES": "[Tiburón Bebé]\nAbuela vino porque tenía curiosidad por saber a qué estaba jugando..."
+    },
+    "1vzQDQ": {
+        "en-US": "[Grandma Shark]\nI came to see what Baby Shark is playing with friends.",
+        "pt-BR": "[Vovó Tubarão]\nVim ver o que o Bebê Tubarão está brincando com os amigos.",
+        "es-ES": "[Tiburón Abuela]\nVine a ver a qué está jugando Tiburón Bebé con sus amigos."
+    },
+    "1/zQDQ": {
+        "en-US": "[Baby Shark]\nGrandpa came along because he was curious about what I was playing...",
+        "pt-BR": "[Bebê Tubarão]\nVovô veio porque estava curioso sobre o que eu estava brincando...",
+        "es-ES": "[Tiburón Bebé]\nAbuelo vino porque tenía curiosidad por saber a qué estaba jugando..."
+    },
+    "2PzQDQ": {
+        "en-US": "[Grandpa Shark]\nI came to see what Baby Shark is playing with friends.",
+        "pt-BR": "[Vovô Tubarão]\nVim ver o que o Bebê Tubarão está brincando com os amigos.",
+        "es-ES": "[Tiburón Abuelo]\nVine a ver a qué está jugando Tiburón Bebé con sus amigos."
+    },
+    "2fzQDQ": {
+        "en-US": "[Baby Shark]\nOh, geez! This is so embarrassing!",
+        "pt-BR": "[Bebê Tubarão]\nAh, nossa! Que vergonha!",
+        "es-ES": "[Tiburón Bebé]\n¡Ay, no! ¡Qué vergüenza!"
+    },
+    "2vzQDQ": {
+        "en-US": "[{0}]\nShall we all play hide and seek together?",
+        "pt-BR": "[{0}]\nVamos todos brincar de esconde-esconde juntos?",
+        "es-ES": "[{0}]\n¿Jugamos todos a las escondidas juntos?"
+    },
+    "2/zQDQ": {
+        "en-US": "[Baby Shark]\nOkay!",
+        "pt-BR": "[Bebê Tubarão]\nOk!",
+        "es-ES": "[Tiburón Bebé]\n¡De acuerdo!"
+    },
+    "3PzQDQ": {
+        "en-US": "Mommy!",
+        "pt-BR": "Mamãe!",
+        "es-ES": "¡Mamá!"
+    },
+    "3fzQDQ": {
+        "en-US": "Daddy!",
+        "pt-BR": "Papai!",
+        "es-ES": "¡Papá!"
+    },
+    "3vzQDQ": {
+        "en-US": "Grandma!",
+        "pt-BR": "Vovó!",
+        "es-ES": "¡Abuela!"
+    },
+    "3/zQDQ": {
+        "en-US": "Grandpa!",
+        "pt-BR": "Vovô!",
+        "es-ES": "¡Abuelo!"
+    },
+    "4PzQDQ": {
+        "en-US": "{0}, I'll show you how good I am at hide-and-seek!\nOkay, go hide!",
+        "pt-BR": "{0}, vou te mostrar como eu sou bom no esconde-esconde!\nEntão, vão se esconder!",
+        "es-ES": "{0}, ¡te voy a demostrar lo bueno que soy en las escondidas!\n¡Vamos, escóndanse!"
+    },
+    "4fzQDQ": {
+        "en-US": "[Mommy Shark]\nDo I have to hide too?",
+        "pt-BR": "[Mamãe Tubarão]\nEu também tenho que me esconder?",
+        "es-ES": "[Tiburón Mamá]\n¿Yo también tengo que esconderme?"
+    },
+    "4vzQDQ": {
+        "en-US": "[Daddy Shark]\nDo I have to hide too?",
+        "pt-BR": "[Papai Tubarão]\nEu também tenho que me esconder?",
+        "es-ES": "[Tiburón Papá]\n¿Yo también tengo que esconderme?"
+    },
+    "4/zQDQ": {
+        "en-US": "[Grandma Shark]\nDo I have to hide too?",
+        "pt-BR": "[Vovó Tubarão]\nEu também tenho que me esconder?",
+        "es-ES": "[Tiburón Abuela]\n¿Yo también tengo que esconderme?"
+    },
+    "5PzQDQ": {
+        "en-US": "[Grandpa Shark]\nDo I have to hide too?",
+        "pt-BR": "[Vovô Tubarão]\nEu também tenho que me esconder?",
+        "es-ES": "[Tiburón Abuelo]\n¿Yo también tengo que esconderme?"
+    },
+    "5fzQDQ": {
+        "en-US": "[{0}]\nI'm the seeker?",
+        "pt-BR": "[{0}]\nEu sou o pegador?",
+        "es-ES": "[{0}]\n¿Me toca a mí?"
+    },
+    "5vzQDQ": {
+        "en-US": "[Baby Shark]\nShow them your usual skills!",
+        "pt-BR": "[Bebê Tubarão]\nMostre a eles suas habilidades de sempre!",
+        "es-ES": "[Tiburón Bebé]\n¡Muéstrales tus habilidades de siempre!"
+    },
+    "5/zQDQ": {
+        "en-US": "[Baby Shark]\nAlright, let's get started!",
+        "pt-BR": "[Bebê Tubarão]\nEntão, vamos começar!",
+        "es-ES": "[Tiburón Bebé]\n¡Entonces, empecemos!"
+    },
+    "6PzQDQ": {
+        "en-US": "Today we decided to find",
+        "pt-BR": "Hoje decidimos encontrar",
+        "es-ES": "Hoy decidimos encontrar a"
+    },
+    "6fzQDQ": {
+        "en-US": "Mommy Shark who followed us to the playground.",
+        "pt-BR": "a Mamãe Tubarão que nos seguiu até o parquinho.",
+        "es-ES": "Tiburón Mamá, que nos siguió hasta el parque."
+    },
+    "6vzQDQ": {
+        "en-US": "Daddy Shark who followed us to the playground.",
+        "pt-BR": "o Papai Tubarão que nos seguiu até o parquinho.",
+        "es-ES": "Tiburón Papá, que nos siguió hasta el parque."
+    },
+    "6/zQDQ": {
+        "en-US": "Grandma Shark who followed us to the playground.",
+        "pt-BR": "a Vovó Tubarão que nos seguiu até o parquinho.",
+        "es-ES": "Tiburón Abuela, que nos siguió hasta el parque."
+    },
+    "7PzQDQ": {
+        "en-US": "Grandpa Shark who followed us to the playground.",
+        "pt-BR": "o Vovô Tubarão que nos seguiu até o parquinho.",
+        "es-ES": "Tiburón Abuelo, que nos siguió hasta el parque."
+    },
+    "7fzQDQ": {
+        "en-US": "But it looks like someone else might be there too...",
+        "pt-BR": "Mas parece que tem mais alguém por ali...",
+        "es-ES": "Pero parece que hay alguien más por ahí..."
+    },
+    "7vzQDQ": {
+        "en-US": "[Mommy Shark]\nOh my! I've been found.",
+        "pt-BR": "[Mamãe Tubarão]\nOh! Fui descoberta.",
+        "es-ES": "[Tiburón Mamá]\n¡Oh! Me han descubierto."
+    },
+    "7/zQDQ": {
+        "en-US": "[Mommy Shark]\nJust as Baby Shark said, you really are fast!",
+        "pt-BR": "[Mamãe Tubarão]\nComo o Bebê Tubarão disse, você é mesmo rápido!",
+        "es-ES": "[Tiburón Mamá]\nTiburón Bebé tenía razón. ¡Sí que eres rápido!"
+    },
+    "8PzQDQ": {
+        "en-US": "[Baby Shark]\nToday was so much fun too!\nHere, as promised, <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.\nLet's play again tomorrow!\nMommy, you don't have to follow me tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nHoje foi muito divertido também!\nAqui, como prometido, <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nVamos brincar de novo amanhã!\nMamãe, não precisa vir junto amanhã!",
+        "es-ES": "[Tiburón Bebé]\n¡Hoy también fue muy divertido!\nToma, como prometí, <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>.\n¡Juguemos otra vez mañana!\n¡Mamá, no me sigas mañana!"
+    },
+    "8fzQDQ": {
+        "en-US": "Mommy Shark: Hohohoho.",
+        "pt-BR": "Mamãe Tubarão: Hohohoho.",
+        "es-ES": "Tiburón Mamá: Jajajaja."
+    },
+    "8vzQDQ": {
+        "en-US": "[Mommy Shark]\nShall we head back to Comodo?",
+        "pt-BR": "[Mamãe Tubarão]\nVamos voltar para Comodo?",
+        "es-ES": "[Tiburón Mamá]\n¿Volvemos a Comodo?"
+    },
+    "8/zQDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
+    },
+    "9PzQDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No"
+    },
+    "9fzQDQ": {
+        "en-US": "[Mommy Shark]\nThen let's stay and watch a little longer.",
+        "pt-BR": "[Mamãe Tubarão]\nEntão vamos ficar assistindo mais um pouco.",
+        "es-ES": "[Tiburón Mamá]\nEntonces quedémonos viendo un rato más."
+    },
+    "9vzQDQ": {
+        "en-US": "[Daddy Shark]\nOh! I've been caught.",
+        "pt-BR": "[Papai Tubarão]\nAh! Fui pego.",
+        "es-ES": "[Tiburón Papá]\n¡Ay! Me descubrieron."
+    },
+    "9/zQDQ": {
+        "en-US": "[Daddy Shark]\nFound you!\nAh, that's not it.",
+        "pt-BR": "[Papai Tubarão]\nTe achei!\nAh, não é assim.",
+        "es-ES": "[Tiburón Papá]\n¡Te encontré!\nAh, no es esto."
+    },
+    "+PzQDQ": {
+        "en-US": "[Baby Shark]\nToday was so much fun too!\nHere, as promised, <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.\nLet's play again tomorrow!\nDad, you don't have to follow me tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nHoje foi muito divertido também!\nAqui, como prometido, <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nVamos brincar de novo amanhã!\nPapai, não precisa vir junto amanhã!",
+        "es-ES": "[Tiburón Bebé]\n¡Hoy también fue muy divertido!\nToma, como prometí, <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>.\n¡Juguemos otra vez mañana!\n¡Papá, no me sigas mañana!"
+    },
+    "+fzQDQ": {
+        "en-US": "Daddy Shark: Hehehehe.",
+        "pt-BR": "Papai Tubarão: Hehehehe.",
+        "es-ES": "Tiburón Papá: Jejejeje."
+    },
+    "+vzQDQ": {
+        "en-US": "[Daddy Shark]\nShall we head back to Comodo?",
+        "pt-BR": "[Papai Tubarão]\nVamos voltar para Comodo?",
+        "es-ES": "[Tiburón Papá]\n¿Volvemos a Comodo?"
+    },
+    "+/zQDQ": {
+        "en-US": "[Daddy Shark]\nThen let's stay and watch a little longer.",
+        "pt-BR": "[Papai Tubarão]\nEntão vamos ficar assistindo mais um pouco.",
+        "es-ES": "[Tiburón Papá]\nEntonces quedémonos viendo un rato más."
+    },
+    "/PzQDQ": {
+        "en-US": "[Grandma Shark]\nOh dear! You caught me, you caught me.",
+        "pt-BR": "[Vovó Tubarão]\nAi meu Deus! Você me pegou, você me pegou.",
+        "es-ES": "[Tiburón Abuela]\n¡Ay, Dios! Me encontraste, me encontraste."
+    },
+    "/fzQDQ": {
+        "en-US": "[Grandma Shark]\nOh my! I used to play hide-and-seek when I was young too.",
+        "pt-BR": "[Vovó Tubarão]\nAh! Quando eu era jovem, também brincava de esconde-esconde.",
+        "es-ES": "[Tiburón Abuela]\nAy, cuando era joven también jugaba a las escondidas."
+    },
+    "/vzQDQ": {
+        "en-US": "[Baby Shark]\nToday was so much fun too!\nHere, as promised, <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.\nLet's play again tomorrow!\nGrandma, you don't have to follow me tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nHoje foi muito divertido também!\nAqui, como prometido, <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nVamos brincar de novo amanhã!\nVovó, não precisa vir junto amanhã!",
+        "es-ES": "[Tiburón Bebé]\n¡Hoy también fue muy divertido!\nToma, como prometí, <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>.\n¡Juguemos otra vez mañana!\n¡Abuela, no me sigas mañana!"
+    },
+    "//zQDQ": {
+        "en-US": "Grandma Shark: Hohohoho.",
+        "pt-BR": "Vovó Tubarão: Hohohoho.",
+        "es-ES": "Tiburón Abuela: Jajajaja."
+    },
+    "AP3QDQ": {
+        "en-US": "[Grandma Shark]\nShall we head back to Comodo?",
+        "pt-BR": "[Vovó Tubarão]\nVamos voltar para Comodo?",
+        "es-ES": "[Tiburón Abuela]\n¿Volvemos a Comodo?"
+    },
+    "Af3QDQ": {
+        "en-US": "[Grandma Shark]\nThen let's stay and watch a little longer.",
+        "pt-BR": "[Vovó Tubarão]\nEntão vamos ficar assistindo mais um pouco.",
+        "es-ES": "[Tiburón Abuela]\nEntonces quedémonos viendo un rato más."
+    },
+    "Av3QDQ": {
+        "en-US": "[Grandpa Shark]\nOh my, I've been found.",
+        "pt-BR": "[Vovô Tubarão]\nAi, nossa! Fui descoberto.",
+        "es-ES": "[Tiburón Abuelo]\n¡Ay! Me han descubierto."
+    },
+    "A/3QDQ": {
+        "en-US": "[Grandpa Shark]\nIt's been a while, this is so fun.",
+        "pt-BR": "[Vovô Tubarão]\nFaz tempo que não fazia isso, como é divertido.",
+        "es-ES": "[Tiburón Abuelo]\nHacía tiempo que no jugaba así. ¡Qué divertido!"
+    },
+    "BP3QDQ": {
+        "en-US": "[Baby Shark]\nToday was so much fun too!\nHere, as promised, <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.\nLet's play again tomorrow!\nGrandpa, you don't have to follow me tomorrow!",
+        "pt-BR": "[Bebê Tubarão]\nHoje foi muito divertido também!\nAqui, como prometido, <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nVamos brincar de novo amanhã!\nVovô, não precisa vir junto amanhã!",
+        "es-ES": "[Tiburón Bebé]\n¡Hoy también fue muy divertido!\nToma, como prometí, <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>.\n¡Juguemos otra vez mañana!\n¡Abuelo, no me sigas mañana!"
+    },
+    "Bf3QDQ": {
+        "en-US": "Grandpa Shark: Hohohoho.",
+        "pt-BR": "Vovô Tubarão: Hohohoho.",
+        "es-ES": "Tiburón Abuelo: Jajajaja."
+    },
+    "Bv3QDQ": {
+        "en-US": "[Grandpa Shark]\nShall we head back to Comodo?",
+        "pt-BR": "[Vovô Tubarão]\nVamos voltar para Comodo?",
+        "es-ES": "[Tiburón Abuelo]\n¿Volvemos a Comodo?"
+    },
+    "B/3QDQ": {
+        "en-US": "[Grandpa Shark]\nThen let's stay and watch a little longer.",
+        "pt-BR": "[Vovô Tubarão]\nEntão vamos ficar assistindo mais um pouco.",
+        "es-ES": "[Tiburón Abuelo]\nEntonces quedémonos viendo un rato más."
+    },
+    "CP3QDQ": {
+        "en-US": "Suspicious Box",
+        "pt-BR": "Caixa Suspeita",
+        "es-ES": "Caja Sospechosa"
+    },
+    "Cf3QDQ": {
+        "en-US": "I already looked here.\nLet's check somewhere else.",
+        "pt-BR": "Já procurei aqui.\nVamos verificar em outro lugar.",
+        "es-ES": "Ya busqué aquí.\nBusquemos en otro lugar."
+    },
+    "Cv3QDQ": {
+        "en-US": "[Baby Shark]\nOh, come on, Mommy! You followed me too?",
+        "pt-BR": "[Bebê Tubarão]\nAh, qual é, mamãe! Você também me seguiu?",
+        "es-ES": "[Tiburón Bebé]\n¡Ay, por favor, mamá! ¿Tú también me seguiste?"
+    },
+    "C/3QDQ": {
+        "en-US": "[Baby Shark]",
+        "pt-BR": "[Bebê Tubarão]",
+        "es-ES": "[Tiburón Bebé]"
+    },
+    "DP3QDQ": {
+        "en-US": "{0}, let's find Mommy again first!",
+        "pt-BR": "{0}, vamos encontrar a mamãe de novo primeiro!",
+        "es-ES": "{0}, ¡busquemos a mamá otra vez primero!"
+    },
+    "Df3QDQ": {
+        "en-US": "{0}, let's find Daddy again first!",
+        "pt-BR": "{0}, vamos encontrar o papai de novo primeiro!",
+        "es-ES": "{0}, ¡busquemos a papá otra vez primero!"
+    },
+    "Dv3QDQ": {
+        "en-US": "{0}, let's find Grandma again first!",
+        "pt-BR": "{0}, vamos encontrar a vovó de novo primeiro!",
+        "es-ES": "{0}, ¡busquemos a la abuela otra vez primero!"
+    },
+    "D/3QDQ": {
+        "en-US": "{0}, let's find Grandpa again first!",
+        "pt-BR": "{0}, vamos encontrar o vovô de novo primeiro!",
+        "es-ES": "{0}, ¡busquemos al abuelo otra vez primero!"
+    },
+    "EP3QDQ": {
+        "en-US": "It doesn't look like anyone is under here.\nLet's look somewhere else.",
+        "pt-BR": "Parece que não tem ninguém aqui embaixo.\nVamos olhar em outro lugar.",
+        "es-ES": "Parece que no hay nadie debajo de esto.\nBusquemos en otro lugar."
+    },
+    "Ef3QDQ": {
+        "en-US": "[Baby Shark]\nOh, come on, Daddy! You followed me too?",
+        "pt-BR": "[Bebê Tubarão]\nAh, qual é, papai! Você também me seguiu?",
+        "es-ES": "[Tiburón Bebé]\n¡Ay, por favor, papá! ¿Tú también me seguiste?"
+    },
+    "Ev3QDQ": {
+        "en-US": "It doesn't look like anyone is inside here.\nLet's look somewhere else.",
+        "pt-BR": "Parece que não tem ninguém aqui dentro.\nVamos olhar em outro lugar.",
+        "es-ES": "Parece que no hay nadie dentro de esto.\nBusquemos en otro lugar."
+    },
+    "E/3QDQ": {
+        "en-US": "[Baby Shark]\nOh, come on, Grandma! You followed me too?",
+        "pt-BR": "[Bebê Tubarão]\nAh, qual é, vovó! Você também me seguiu?",
+        "es-ES": "[Tiburón Bebé]\n¡Ay, por favor, abuelo! ¿Tú también me seguiste?"
+    },
+    "FP3QDQ": {
+        "en-US": "[Baby Shark]\nOh, come on, Grandpa! You followed me too?",
+        "pt-BR": "[Bebê Tubarão]\nAh, qual é, vovô! Você também me seguiu?",
+        "es-ES": "[Tiburón Bebé]\n¡Ay, por favor, abuela! ¿Tú también me seguiste?"
+    },
+    "Ff3QDQ": {
+        "en-US": "[Baby Shark]\nYou really are the best seeker!\n{0},",
+        "pt-BR": "[Bebê Tubarão]\nVocê realmente é o melhor no esconde-esconde!\n{0},",
+        "es-ES": "[Tiburón Bebé]\n¡Eres el mejor buscador!\n{0},"
+    }
+}

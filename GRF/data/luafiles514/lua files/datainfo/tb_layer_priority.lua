@@ -4,6 +4,11 @@ TB_Layer_Priority = {
 	Default_Bottom = 300,
 	Default_Robe = 400,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Petal_Twin] = {
+			Default = 143,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Nine_Tailed_Fox] = {Default = 404, isIgnoreRiding = true},
 		[ACCESSORY_IDs.ACCESSORY_C_Feather_Hair_TT] = {
 			Default = 143,
 			Direction = {}
@@ -1849,14 +1854,6 @@ TB_Layer_Priority = {
 		[ACCESSORY_IDs.ACCESSORY_C_ROROGO] = {Default = 304, isIgnoreRiding = true},
 		[ACCESSORY_IDs.ACCESSORY_C_Spinning_Skulls] = {Default = 304},
 		[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304, isIgnoreRiding = true},
-		[ACCESSORY_IDs.ACCESSORY_PRONTERA_ARMY_CAP] = {
-			Default = -200,
-			Direction = {
-				[3] = 200,
-				[4] = 200,
-				[5] = 200
-			}
-		},
 		[ACCESSORY_IDs.ACCESSORY_C_Heine_Tab_1] = {
 			Default = 304,
 			Direction = {}

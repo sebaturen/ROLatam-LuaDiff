@@ -11,7 +11,7 @@
     },
     "oo9zDA": {
         "en-US": "He must have had quite a bit to drink. I should tell him it's dangerous.",
-        "pt-BR": "Pelo que vejo, ele parece ter bebido demais. Tenho que avisá-lo que ficar ali é perigoso.",
+        "pt-BR": "...veio daquele Velho Bêbado bem ali...",
         "es-ES": "Por lo que veo, parece que has bebido bastante, así que tengo que decirte que es peligroso."
     },
     "o49zDA": {
@@ -26,7 +26,7 @@
     },
     "pY9zDA": {
         "en-US": "Drunk Old Man",
-        "pt-BR": "Velho bêbado",
+        "pt-BR": "Velho Bêbado",
         "es-ES": "Anciano borracho"
     },
     "po9zDA": {
@@ -36,32 +36,32 @@
     },
     "p49zDA": {
         "en-US": "Erm, sir. You shouldn't be here. It's too dangerous.",
-        "pt-BR": "Olá, senhor... é perigoso ficar aqui.",
+        "pt-BR": "Senhor... é perigoso ficar aqui.",
         "es-ES": "Este... Disculpe, maestro, es peligroso que esté aquí."
     },
     "qI9zDA": {
         "en-US": "- The old man stared at me -\n- with a blank look on his face, -\n- and for some reason, I felt a deep curiosity about him. -",
-        "pt-BR": "- O senhor apenas olhou para mim\n- sem um pingo de emoção,\n- e aquilo me deixou intrigado.",
+        "pt-BR": "- O idoso apenas olhou para mim\n- sem um pingo de emoção,\n- e isso me despertou a atenção.",
         "es-ES": "- El anciano solo\n- me miró con indiferencia, pero sentí\n- una atracción inexplicable hacia él."
     },
     "qY9zDA": {
         "en-US": "- What is it? What could it be?\n- I must find out why I felt this way\n- before I can sleep soundly tonight.",
-        "pt-BR": "- Mas o que é isso?\n- Só vou conseguir ficar tranquilo\n- se descobrir o que foi que me deixou intrigado.",
+        "pt-BR": "- Mas o que será essa sensação?\n- Só vou me acalmar quando\n- descobrir o que me chamou atenção.",
         "es-ES": "- ¿Qué es? ¿Qué puede ser?\n- Tengo que averiguar la razón de esta atracción\n- para poder dormir tranquilo."
     },
     "qo9zDA": {
         "en-US": "Let's keep talking to the old man.",
-        "pt-BR": "Continuar conversando com o senhor.",
+        "pt-BR": "Continuar conversando.",
         "es-ES": "Sigamos hablando con el señor."
     },
     "q49zDA": {
         "en-US": "[{0}]\nErm, sir? It seems you've had too much to drink, and you're standing on a cliff. Why don't we go somewhere else? I mean somewhere safer.",
-        "pt-BR": "[{0}]\nCom licença... senhor? Parece que o senhor já bebeu bastante, e como este penhasco é perigoso, que tal irmos para outro lugar mais seguro?",
+        "pt-BR": "[^3300FF{0}^000000]\nCom licença... senhor? Parece que você já bebeu bastante, e como este penhasco é perigoso, não é melhor ir para um lugar mais seguro?",
         "es-ES": "[{0}]\nOye... ¿señor? \nParece que has bebido bastante, y este acantilado es peligroso, ¿qué tal si te vas a otro lugar a descansar?"
     },
     "rI9zDA": {
         "en-US": "- The old man said nothing\n- but just stared at me.\n- What was that? The feeling like he was\n- seeing right through me?",
-        "pt-BR": "- O senhor não disse nada,\n- apenas ficou me encarando.\n- O que é isso? Sinto que ele está\n- vendo através de mim?",
+        "pt-BR": "- O senhor não disse nada,\n- apenas ficou me encarando.\n- O que é isso? Parece que ele está\n- emanando uma energia peculiar.",
         "es-ES": "- El anciano no dijo nada,\n- solo se quedó mirándome.\n- ¿Qué pasa? ¿Por qué siento\n- como si me estuviera viendo hasta lo más profundo?"
     },
     "rY9zDA": {
@@ -71,27 +71,27 @@
     },
     "ro9zDA": {
         "en-US": "[Drunk Old Man]\nYou're one nosy youngster.",
-        "pt-BR": "[Velho bêbado]\nQue jovem barulhento...",
+        "pt-BR": "[Velho Bêbado]\nQue jovem barulhento...",
         "es-ES": "[Anciano borracho]\nEres un joven muy metiche."
     },
     "r49zDA": {
         "en-US": "[Drunk Old Man]\nI'm fine. I just...",
-        "pt-BR": "[Velho bêbado]\nTudo bem, não precisa se preocupar, meu jovem...",
+        "pt-BR": "[Velho Bêbado]\nTudo bem, não precisa se preocupar, jovem...",
         "es-ES": "[Anciano borracho]\nEstoy bien. Es solo que..."
     },
     "sI9zDA": {
         "en-US": "[Drunk Old Man]\nI was just looking around this village where I was born and raised, remembering the old days.",
-        "pt-BR": "[Velho bêbado]\nEu só estava dando uma volta pra recordar as memórias desta vila onde nasci e cresci.",
+        "pt-BR": "[Velho Bêbado]\nEu só estava dando uma volta pra recordar as memórias desta vila onde nasci e cresci.",
         "es-ES": "[Anciano borracho]\nSolo estaba echando un vistazo para recordar los recuerdos de este pueblo donde nací y crecí."
     },
     "sY9zDA": {
         "en-US": "Sorry for being nosy.",
-        "pt-BR": "Desculpe por me intrometer.",
+        "pt-BR": "Desculpe me intrometer.",
         "es-ES": "Perdón por ser tan metiche."
     },
     "so9zDA": {
         "en-US": "[Drunk Old Man]\nHah hah hah. You look like an archer. It seems such a carefree life and nosiness go hand in hand.",
-        "pt-BR": "[Velho bêbado]\nHahaha... Você parece ser um jovem arqueiro. Uma vida livre como o vento mas que também se interessa pela vida alheia.",
+        "pt-BR": "[Velho Bêbado]\nHahaha... Você parece ser um jovem arqueiro. Uma vida livre como o vento, mas que também se interessa pela vida alheia.",
         "es-ES": "[Anciano borracho]\nJajaja... \nPor lo que veo, eres de esos jóvenes que viven al día; una vida libre como el viento y la intromisión que la acompaña son como un destino ineludible."
     },
     "s49zDA": {
@@ -101,7 +101,7 @@
     },
     "tI9zDA": {
         "en-US": "[Drunk Old Man]\nYou seem frustrated because your growth has stagnated for so long. Am I wrong, young man?",
-        "pt-BR": "[Velho bêbado]\nParece que o jovem está impaciente porque seu crescimento está estagnado há um bom tempo. Não é, meu jovem?",
+        "pt-BR": "[Velho Bêbado]\nParece que você está impaciente porque seu crescimento está estagnado há um bom tempo. Não é, jovem?",
         "es-ES": "[Anciano borracho]\nParece que estás impaciente porque tu crecimiento se ha estancado hace tiempo.\n¿No es así, joven?"
     },
     "tY9zDA": {
@@ -111,17 +111,17 @@
     },
     "to9zDA": {
         "en-US": "[{0}]\nYes, that's right. I feel like I'm stuck, while everyone else is moving ahead of me...",
-        "pt-BR": "[{0}]\nSim, é verdade. Eu me sinto travado, enquanto todos seguem adiante na minha frente...",
+        "pt-BR": "[^3300FF{0}^000000]\nSim, é verdade. Eu me sinto sem perspectivas, enquanto todos seguem adiante...",
         "es-ES": "[{0}]\nSí, es cierto. \nSiento que me he quedado estancado mientras todos los demás avanzan más rápido que yo..."
     },
     "t49zDA": {
         "en-US": "[Drunk Old Man]\nDon't be impatient. The more impatient you are, the harder it will be to catch up with them. Oh, how about I tell you about myself when I was young? Who knows? Maybe you'll realize the path a young person should take?",
-        "pt-BR": "[Velho bêbado]\nNão seja impaciente, desse jeito só vai ficar ainda mais para trás... Ah! Que tal eu te contar uma história de quando eu era jovem? Quem sabe? Talvez você encontre o seu caminho.",
+        "pt-BR": "[Velho Bêbado]\nNão seja impaciente, desse jeito só vai ficar ainda mais para trás... Ah! Que tal eu te contar uma história de quando eu era jovem? Quem sabe? Talvez você encontre o seu caminho.",
         "es-ES": "[Anciano borracho]\nNo te apresures, si lo haces, solo terminarás quedándote más atrás... \n¡Ah!\nYa sé, te contaré una historia de cuando era joven. \n¿Quién sabe? \nTal vez te ayude a encontrar tu propio camino."
     },
     "uI9zDA": {
         "en-US": "[Drunk Old Man]\nYes... I think I know where to start.",
-        "pt-BR": "[Velho bêbado]\nÉ... vou começar por essa história.",
+        "pt-BR": "[Velho Bêbado]\nÉ... vou começar por essa história.",
         "es-ES": "[Anciano borracho]\nSi, seriá mejor que empiece por esa historia."
     },
     "uY9zDA": {
@@ -131,52 +131,52 @@
     },
     "uo9zDA": {
         "en-US": "[Drunk Old Man]\nWhen I was young, I was a coward. But like everyone else who grew up in Payon, I became an archer.",
-        "pt-BR": "[Velho bêbado]\nEu era um covarde quando era jovem, mas, como a maioria dos que vêm de Payon, acabei me tornando um arqueiro.",
+        "pt-BR": "[Velho Bêbado]\nEu era um covarde quando era jovem, mas, como a maioria dos que vêm de Payon, acabei me tornando um arqueiro.",
         "es-ES": "[Anciano borracho]\nCuando era joven era un cobarde, pero como la mayoría de los que nacen en Payon, terminé viviendo de la arquería de forma natural, como si fuera mi destino."
     },
     "u49zDA": {
         "en-US": "[Drunk Old Man]\nYeah, I definitely didn't choose to become an archer myself. I was just a coward, living day by day without any will or effort to get stronger.",
-        "pt-BR": "[Velho bêbado]\nÉ, com certeza eu não decidi me tornar um arqueiro. Eu era apenas um covarde, vivendo um dia após o outro sem me esforçar em ser mais forte.",
+        "pt-BR": "[Velho Bêbado]\nÉ, com certeza eu não decidi me tornar um arqueiro. Eu era apenas um fracote, vivendo um dia após o outro sem me esforçar em ser mais forte.",
         "es-ES": "[Anciano borracho]\nSí, la verdad es que yo tampoco elegí convertirme en arquero. \nSolo era un cobarde que vivía al día, sin ganas ni ganas de hacer ningún esfuerzo por hacerme más fuerte."
     },
     "vI9zDA": {
         "en-US": "[Drunk Old Man]\nBut time and experience can change even the most cowardly of hearts. Eventually, I'd make friends with good people and earned their recognition as a decent archer.",
-        "pt-BR": "[Velho bêbado]\nMesmo assim, o tempo e a experiência acabaram mudando esse covarde que eu era. Encontrei companheiros com quem compartilhei aventuras e passei a ser reconhecido como um arqueiro decente.",
+        "pt-BR": "[Velho Bêbado]\nMesmo assim, o tempo e a experiência acabaram me mudando. Encontrei companheiros com quem compartilhei aventuras e passei a ser reconhecido como um arqueiro decente.",
         "es-ES": "[Anciano borracho]\nAun así, la experiencia y el tiempo acabaron cambiando al cobarde que yo era. \nGané compañeros con quienes compartía mis sentimientos y pasé a ser reconocido por ellos como un arquero habilidoso."
     },
     "vY9zDA": {
         "en-US": "[Drunk Old Man]\nFunnily enough, I became arrogant. And when my arrogance reached its peak, I lost a comrade for the first time. It was shocking.",
-        "pt-BR": "[Velho bêbado]\nCuriosamente, com o tempo fiquei arrogante. Foi quando a arrogância chegou ao seu auge que eu perdi meu primeiro companheiro. Foi um grande choque para mim.",
+        "pt-BR": "[Velho Bêbado]\nCuriosamente, com o tempo fiquei arrogante. Foi quando a arrogância chegou ao seu auge que eu perdi meu primeiro companheiro. Foi um grande choque para mim.",
         "es-ES": "[Anciano borracho]\nResulta gracioso que incluso yo, siendo un cobarde, terminara volviéndome engreído. \nFue justo cuando mi arrogancia llegó al límite que perdí a mi primer compañero. \nPara alguien tan soberbio como yo, aquello fue un golpe devastador."
     },
     "vo9zDA": {
         "en-US": "[Drunk Old Man]\nI thought my skills could protect my comrades in any situation. It was hard knowing I lost a comrade because of my arrogance and mistakes, but I wasn't the only one who suffered that day.",
-        "pt-BR": "[Velho bêbado]\nEu achava que, com minhas habilidades, poderia proteger meus companheiros em qualquer situação. Foi difícil reconhecer que eu perdi um companheiro por causa da minha arrogância e dos meus erros.\nMas, eu não era o único a sofrer.",
+        "pt-BR": "[Velho Bêbado]\nEu achava que, com minhas habilidades, poderia proteger meus companheiros em qualquer situação. Foi difícil reconhecer que eu perdi um companheiro por causa da minha arrogância e dos meus erros.\nMas, eu não era o único a sofrer.",
         "es-ES": "[Anciano borracho]\nPensaba que con mi habilidad podría proteger a mis compañeros en cualquier situación. \nFue difícil porque sentía que los había perdido debido a mi soberbia y mis errores, pero estoy seguro de que no fui el único que sufrió."
     },
     "v49zDA": {
         "en-US": "[Drunk Old Man]\nI wasn't the only one who lost a friend that day. The others in my party lost friends too. After that, I became a coward again. I hid in my <B>secret place</B>.",
-        "pt-BR": "[O velho bêbado]\nEu não fui o único a perder um companheiro. Outras pessoas do meu grupo também perderam seus amigos. Depois daquilo, voltei a ser um covarde e me escondi no meu <B>lugar secreto</B>.",
+        "pt-BR": "[Velho Bêbado]\nEu não fui o único a perder um companheiro. Outras pessoas do meu grupo também perderam seus amigos. Depois daquilo, voltei a ser um covarde e me escondi no meu <B>lugar secreto</B>.",
         "es-ES": "[Anciano borracho]\nLos demás también perdieron a un compañero, no fui solo yo. Después de aquello, volví a ser un cobarde y me recluí en un <B>lugar secreto</B> que solo yo conocía."
     },
     "wI9zDA": {
         "en-US": "A secret place?",
-        "pt-BR": "Um lugar secreto?",
+        "pt-BR": "Lugar secreto?",
         "es-ES": "¿Un lugar secreto?"
     },
     "wY9zDA": {
         "en-US": "[Drunk Old Man]\nHah hah hah. Yes. I accidentally discovered that place when I was young. It had a <B>frog-shaped stone</B> by the entrance that must be turned <B>eastward</B> to enter.",
-        "pt-BR": "[Velho bêbado]\nHahaha, foi um lugar que descobri por acaso quando era jovem. Na entrada havia uma <B>pedra em forma de sapo</B> que você precisa girar para o <B>lado leste</B> para poder entrar.",
+        "pt-BR": "[Velho Bêbado]\nHahaha, foi um lugar que descobri por acaso quando era jovem. Na entrada havia uma <B>pedra em forma de sapo</B> que você precisa girar para o <B>lado leste</B> para poder entrar.",
         "es-ES": "[Anciano borracho]\nJe, je, je... fue un lugar que descubrí por pura casualidad en mi juventud. \nSolo podías llegar allí girando hacia <B>el este</B> la <B>piedra en forma de rana</B> que estaba en la entrada."
     },
     "wo9zDA": {
         "en-US": "[Drunk Old Man]\nOops, sorry, I got sidetracked.",
-        "pt-BR": "[Velho bêbado]\nPuxa, acabei desviando do assunto.",
+        "pt-BR": "[Velho Bêbado]\nPuxa, acabei desviando do assunto.",
         "es-ES": "[Anciano borracho]\nVaya, parece que me he desviado del tema y he terminado diciendo tonterías."
     },
     "w49zDA": {
         "en-US": "[Drunk Old Man]\nBack then, I was scared and cowardly. I only thought about myself. Because of my sudden disappearance, my companions had no choice but to scatter and go their separate ways.",
-        "pt-BR": "[Velho bêbado]\nNaquela época, eu tinha medo e era um covarde. Só pensava em mim mesmo. Como eu sumi de repente, meus companheiros acabaram se separando e cada um seguiu o seu caminho.",
+        "pt-BR": "[Velho Bêbado]\nNaquela época, eu tinha medo e era um fracote. Só pensava em mim mesmo. Como eu sumi de repente, meus companheiros acabaram se separando e cada um seguiu o seu caminho.",
         "es-ES": "[Anciano borracho]\nEn aquel entonces tenía miedo y era un cobarde. \nSolo pensaba en mí mismo. \nDebido a mi repentino retiro, mis compañeros terminaron dispersándose de esa manera."
     },
     "xI9zDA": {
@@ -186,12 +186,12 @@
     },
     "xY9zDA": {
         "en-US": "[Drunk Old Man]\nI've lost touch with some of them, but I know all of them are doing just fine. It's not like they depended on me for their living.",
-        "pt-BR": "[Velho bêbado]\nEmbora eu tenha perdido contato com eles, todos estão muito bem. Ninguém dependia de mim de qualquer maneira.",
+        "pt-BR": "[Velho Bêbado]\nEmbora eu tenha perdido contato com eles, todos estão muito bem. Ninguém dependia de mim de qualquer maneira.",
         "es-ES": "[Anciano borracho]\nAunque hay amigos con los que perdí el contacto, a todos les va bien en la vida. \nIncluso si no hubiera sido por mi culpa, probablemente ninguno habría tenido problemas para seguir adelante."
     },
     "xo9zDA": {
         "en-US": "[Drunk Old Man]\nEvery one of them was worth their salt.",
-        "pt-BR": "[Velho bêbado]\nEram amigos muito competentes, todos eles...",
+        "pt-BR": "[Velho Bêbado]\nEram amigos muito competentes, todos eles...",
         "es-ES": "[Anciano borracho]\nEran amigos que no desmerecían en ningún lado..."
     },
     "x49zDA": {
@@ -201,37 +201,37 @@
     },
     "yI9zDA": {
         "en-US": "[Drunk Old Man]\nI do miss them a little bit in my old age. I missed the friend I lost most of all. Still,",
-        "pt-BR": "[Velho bêbado]\nAgora que estamos todos velhos, sinto um pouco de saudade sim... Principalmente do amigo que perdi. Mas mesmo assim...",
+        "pt-BR": "[Velho Bêbado]\nAgora que estamos todos velhos, sinto um pouco de saudade sim... Principalmente do amigo que perdi. Mas mesmo assim...",
         "es-ES": "[Anciano borracho]\nA mi edad, los extraño un poco, especialmente al amigo que perdí en aquel entonces.\nAun así..."
     },
     "yY9zDA": {
         "en-US": "[Drunk Old Man]\n<B>Luluka Forest</B>, yeah, when I trained in that place filled with gentle breezes, I didn't miss them at all.",
-        "pt-BR": "[Velho bêbado]\n<B>Floresta de Luluka</B>... sim, naquele lugar envolto por uma suave brisa, quando eu treinava, acho que nem sentia saudade.",
+        "pt-BR": "[Velho Bêbado]\nNaquele lugar envolto por uma suave brisa, quando eu treinava na <B>Floresta de Luluka</B>, acho que nem sentia saudade.",
         "es-ES": "[Anciano borracho]\n<B>El bosque de Luluka</B>, sí, cuando entrenaba en ese lugar lleno de brisa cálida, creo que no sentía esa nostalgia."
     },
     "yo9zDA": {
         "en-US": "[Drunk Old Man]\nI trained without a single worry. Thanks to that training, I learned to command the wind's power and regained the courage to face the world again.",
-        "pt-BR": "[Velho bêbado]\nEu treinava sem nenhuma preocupação. Graças àquele treino, aprendi a controlar até mesmo a mais suave brisa e ganhei coragem para enfrentar o mundo novamente.",
+        "pt-BR": "[Velho Bêbado]\nEu treinava sem nenhuma preocupação. Graças àquele treino, aprendi a controlar até mesmo a mais suave brisa e ganhei coragem para enfrentar o mundo novamente.",
         "es-ES": "[Anciano borracho]\nMe dedicaba solo al entrenamiento, sin preocupaciones.\nGracias a ese entrenamiento, aprendí a controlar ese viento que me hacía cosquillas y gané el valor para volver a levantarme."
     },
     "y49zDA": {
         "en-US": "[Drunk Old Man]...\n ... ... ... ... ...",
-        "pt-BR": "[Velho bêbado]\n... ... ... ... ... ...",
+        "pt-BR": "[Velho Bêbado]\n... ... ... ... ... ...",
         "es-ES": "[Anciano borracho]\n... ... ... ... ... ..."
     },
     "zI9zDA": {
         "en-US": "[Drunk Old Man]\nHah hah hah. They say age doesn't matter when it comes to learning, and I've learned something from you today, young friend.",
-        "pt-BR": "[Velho bêbado]\nHehe, dizem que não há idade para aprender, e olha só, hoje eu aprendi uma coisa com esse jovem aqui.",
+        "pt-BR": "[Velho Bêbado]\nHehe, dizem que não há idade para aprender, e olha só, hoje eu aprendi uma coisa com você, jovem.",
         "es-ES": "[Anciano borracho]\nJe, je, dicen que para aprender no importa la edad, y resulta que he aprendido algo de ti, joven."
     },
     "zY9zDA": {
         "en-US": "[Drunk Old Man]\nInstead of wasting my time drinking all day, I should go look for my old friends.",
-        "pt-BR": "[Velho bêbado]\nEm vez de ficar aqui bebendo, acho que vou visitar meus velhos amigos. Já faz bastante tempo que não os vejo.",
+        "pt-BR": "[Velho Bêbado]\nEm vez de ficar aqui bebendo, acho que vou visitar meus velhos amigos. Já faz bastante tempo que não os vejo.",
         "es-ES": "[Anciano borracho]\nEn lugar de seguir aquí bebiendo, creo que voy a ir a visitar a mis viejos amigos, ya que hace mucho que no los veo."
     },
     "zo9zDA": {
         "en-US": "[Drunk Old Man]\nI hope you young folks achieve what you want too.",
-        "pt-BR": "[Velho bêbado]\nEspero que você também consiga o que deseja, meu jovem.",
+        "pt-BR": "[Velho Bêbado]\nEspero que você também consiga o que deseja, jovem.",
         "es-ES": "[Anciano borracho]\nEspero que tú también logres lo que deseas, joven."
     },
     "z49zDA": {
@@ -251,12 +251,12 @@
     },
     "0o9zDA": {
         "en-US": "Lilika Forest",
-        "pt-BR": "Floresta de Lirica",
+        "pt-BR": "Floresta de Lirika",
         "es-ES": "Bosque de Lirica"
     },
     "049zDA": {
         "en-US": "Erika Forest",
-        "pt-BR": "Floresta de Erica",
+        "pt-BR": "Floresta de Erika",
         "es-ES": "Bosque de Erica"
     },
     "1I9zDA": {
@@ -271,12 +271,12 @@
     },
     "1o9zDA": {
         "en-US": "- Was it the Lilika Forest?\n- That doesn't sound right.",
-        "pt-BR": "- Era a Floresta de Lirica?\n- Acho que não era...",
+        "pt-BR": "- Era a Floresta de Lirika?\n- Acho que não era...",
         "es-ES": "- ¿Es el Bosque de Lirica?\n- Me parece que no era ese..."
     },
     "149zDA": {
         "en-US": "- Was it the Erika Forest?\n- I don't think so?",
-        "pt-BR": "- Era a Floresta de Erica?\n- Acho que não era...",
+        "pt-BR": "- Era a Floresta de Erika?\n- Acho que não era...",
         "es-ES": "- ¿Es el Bosque de Erica?\n- ¿No creo que sea ese?"
     },
     "2I9zDA": {
@@ -386,7 +386,7 @@
     },
     "7Y9zDA": {
         "en-US": "- In the Luluka Forest\n- I should look for a frog-shaped stone.",
-        "pt-BR": "- Vou para a Floresta de Luluka.\n- pocurar pela pedra em forma de sapo.",
+        "pt-BR": "- Vou para a Floresta de Luluka.\n- procurar pela pedra em forma de sapo.",
         "es-ES": "- Busquemos\n- la piedra con forma de rana en el bosque de Luluka."
     },
     "7o9zDA": {
@@ -396,7 +396,7 @@
     },
     "749zDA": {
         "en-US": "Is this the frog-shaped stone?",
-        "pt-BR": "Será que essa é a pedra em forma de sapo?",
+        "pt-BR": "Essa é a pedra em forma de sapo?",
         "es-ES": "¿Es esta la piedra con forma de rana?"
     },
     "8I9zDA": {
@@ -406,7 +406,7 @@
     },
     "8Y9zDA": {
         "en-US": "Is it a different stone?",
-        "pt-BR": "Deve ser outra pedra, né?",
+        "pt-BR": "Deve ser outra pedra!",
         "es-ES": "¿Será otra piedra?"
     },
     "8o9zDA": {
@@ -421,17 +421,17 @@
     },
     "9I9zDA": {
         "en-US": "Found it! Now, if I turn this stone, I can enter that training ground, right?",
-        "pt-BR": "Encontrei! Ele disse que se eu girar a pedra poderei entrar, não é mesmo?",
+        "pt-BR": "Encontrei! Agora é só girá-la!",
         "es-ES": "¡Lo encontré! Dijiste que si giras la piedra, puedes ir ahí, ¿no?"
     },
     "9Y9zDA": {
         "en-US": "Ugh... This stone is stuck so tight I can't turn it. Maybe I should give it some time.",
-        "pt-BR": "Uugh.. A pedra tá emperrada, não consigo girar. Talvez eu devesse voltar outra hora.",
+        "pt-BR": "Argh... A pedra emperrou. Melhor voltar uma outra hora.",
         "es-ES": "Uf... La piedra está muy atascada, ¿no la puedo girar? Esperemos un poco."
     },
     "9o9zDA": {
         "en-US": "-Click-",
-        "pt-BR": "-Clique-",
+        "pt-BR": "- Clique -",
         "es-ES": "-Clic-"
     },
     "949zDA": {
@@ -441,7 +441,7 @@
     },
     "+I9zDA": {
         "en-US": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na instância.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "+Y9zDA": {
@@ -456,7 +456,7 @@
     },
     "+49zDA": {
         "en-US": "Should I turn it eastward to enter the Deep Luluka Forest?",
-        "pt-BR": "Será que o caminho para a Floresta Profunda de Luluka fica acessível se eu girar a pedra para o leste?",
+        "pt-BR": "Devo girar para o leste?",
         "es-ES": "¿Se puede llegar al Bosque Profundo de Luluka girando la piedra hacia el este?"
     },
     "/I9zDA": {
@@ -491,12 +491,12 @@
     },
     "ApBzDA": {
         "en-US": "Click, Click",
-        "pt-BR": "-Clique-",
+        "pt-BR": "- Clique -",
         "es-ES": "¡Clac, clac!"
     },
     "A5BzDA": {
         "en-US": "Deep Luluka Forest Memorial Dungeon creation failed.",
-        "pt-BR": "Falha na geração da Masmorra Memorial da Floresta Profunda de Luluka.",
+        "pt-BR": "Falha na geração da Instância da Floresta Profunda de Luluka.",
         "es-ES": "No se pudo generar la mazmorra conmemorativa del Bosque Profundo de Luluka."
     },
     "BJBzDA": {
@@ -541,22 +541,22 @@
     },
     "DJBzDA": {
         "en-US": "Ah! Ow, ow! I hit my nail on the stone!",
-        "pt-BR": "Ah! Ai, ai! Minha unha!",
+        "pt-BR": "Ah! Ai, ai! Me arranhei!",
         "es-ES": "¡Ah! ¡Ay, ay! Me pegué con la uña en una piedra."
     },
     "DZBzDA": {
         "en-US": "Hm... I think I should form a party by myself first.",
-        "pt-BR": "Hum... Parece que preciso formar um grupo sozinho para enfrentar o desafio.",
+        "pt-BR": "Hum... Parece que preciso formar um grupo para enfrentar o desafio.",
         "es-ES": "Mmm... Parece que aquí hay que formar un grupo de un solo jugador para enfrentarte al desafío, ¿no?"
     },
     "DpBzDA": {
         "en-US": "Only parties of 1 can enter the Deep Luluka Forest.",
-        "pt-BR": "Só é possível entrar na Floresta Profunda de Luluka com um grupo de 1 pessoa.",
+        "pt-BR": "Só é possível entrar nas Profundezas da Floresta de Luluka com um grupo de 1 pessoa.",
         "es-ES": "Solo se puede entrar en el Bosque Profundo de Luluka en un grupo de una sola persona."
     },
     "D5BzDA": {
         "en-US": "I can't enter the Deep Luluka Forest right now.",
-        "pt-BR": "Não consigo ir pra Floresta Profunda de Luluka agora.",
+        "pt-BR": "Não consigo ir pra as Profundezas da Floresta agora.",
         "es-ES": "Ahora no puedes ir al Bosque Profundo de Luluka."
     },
     "EJBzDA": {
@@ -566,57 +566,57 @@
     },
     "EZBzDA": {
         "en-US": "The path to the Deep Luluka Forest is not open yet.",
-        "pt-BR": "Parece que o caminho para a Floresta Profunda de Luluka ainda não foi aberto.",
+        "pt-BR": "Parece que o caminho para as Profundezas da Floresta ainda não foi aberto.",
         "es-ES": "Parece que el camino hacia el Bosque Profundo de Luluka aún no se ha abierto."
     },
     "EpBzDA": {
         "en-US": "Cabin Owner",
-        "pt-BR": "Dono da cabana",
+        "pt-BR": "Dono da Cabana",
         "es-ES": "El Dueño de la Cabaña"
     },
     "E5BzDA": {
         "en-US": "[Cabin Owner]\nFinally, you came out. Man, I thought I was going to die waiting for you.",
-        "pt-BR": "[Dono da Cabana]\nFinalmente apareceu. Estava quase morrendo de tédio de tanto esperar.",
+        "pt-BR": "[Dono da Cabana]\nFinalmente você apareceu. Estava quase morrendo de tédio de tanto esperar.",
         "es-ES": "[El Dueño de la Cabaña]\nPor fin saliste. \nEstaba a punto de desgastar la cuerda del arco de tanto esperar."
     },
     "FJBzDA": {
         "en-US": "[Cabin Owner]\nWhere were we?",
-        "pt-BR": "[Dono da cabana]\nOnde a gente estava na conversa mesmo?",
+        "pt-BR": "[Dono da Cabana]\nOnde a gente estava na conversa mesmo?",
         "es-ES": "[El Dueño de la Cabaña]\n¿Hasta dónde habíamos llegado?"
     },
     "FZBzDA": {
         "en-US": "[Cabin Owner]\nAh—yes, yes. I said you're no ordinary archer, right? This forest is not as innocent as it looks.",
-        "pt-BR": "[Dono da cabana]\nAh, sim, sim. Eu disse que você não era um arqueiro comum, não é? Esta floresta não é muito amistosa.",
+        "pt-BR": "[Dono da Cabana]\nAh, sim, sim. Eu disse que você não era um arqueiro comum, não é? Esta floresta não é muito amistosa.",
         "es-ES": "[El Dueño de la Cabaña]\nAh, sí, sí, te dije que no eres un arquero cualquiera, ¿no? \nEste bosque no es tan fácil de lo que parece."
     },
     "FpBzDA": {
         "en-US": "[Cabin Owner]\nI set up those paths for the animals to wander, but you set up traps along the animal trails I'd created. Even though they weren't good, they still managed to catch some animals, right? Do you know why?",
-        "pt-BR": "[Dono da cabana]\nEu criei aquelas trilhas para os animais passarem, mas você montou armadilhas por esse caminho. E, embora fossem rudimentares, alguns animais acabaram caindo, não é mesmo? Sabe por quê?",
+        "pt-BR": "[Dono da Cabana]\nEu criei aquelas trilhas para os animais passarem, mas você montou armadilhas por esse caminho. E, embora fossem rudimentares, alguns animais acabaram caindo, não é mesmo? Sabe por quê?",
         "es-ES": "[El Dueño de la Cabaña]\nYo había hecho esos pasillos para que los animales pudieran pasar, pero tus amigos pusieron trampas improvisadas ahí y los animales cayeron en ellas, ¿no? \n¿Sabes por qué?"
     },
     "F5BzDA": {
         "en-US": "[Cabin Owner]\nBecause those animals weren't acknowledged by the forest's wind. Any creature that fails to gain the recognition of that forest and its wind is harmed without exception.",
-        "pt-BR": "[Dono da cabana]\nPorque os animais não foram reconhecidos pelos ventos da floresta. Naquela floresta, qualquer ser vivo que não seja reconhecido pela floresta e seus ventos acaba se ferindo.",
+        "pt-BR": "[Dono da Cabana]\nPorque os animais não foram reconhecidos pelos Ventos da floresta. Naquela floresta, qualquer ser vivo que não seja reconhecido pela floresta e seus Ventos acaba se ferindo.",
         "es-ES": "[El Dueño de la Cabaña]\nPorque no lo aceptó el viento del bosque. \nEn ese bosque, cualquier ser vivo que no sea aceptado por el bosque y el viento acaba sufriendo algún daño."
     },
     "GJBzDA": {
         "en-US": "[Cabin Owner]\nIn that sense, you're extraordinary. You've survived in that dreadful forest for so many days!",
-        "pt-BR": "[Dono da cabana]\nPor isso, o fato de você ter sobrevivido nesta floresta significa que você não é, de jeito nenhum, uma pessoa comum.",
+        "pt-BR": "[Dono da Cabana]\nPor isso, o fato de você ter sobrevivido nesta floresta significa que você não é, de jeito nenhum, uma pessoa comum.",
         "es-ES": "[El Dueño de la Cabaña]\n¡El hecho de que hayas sobrevivido en un bosque tan enorme significa que no eres, de ninguna manera, alguien común y corriente!"
     },
     "GZBzDA": {
         "en-US": "[Cabin Owner]\nEven though you got locked up here after sneaking into someone else's house and causing trouble, you should be proud of surviving. It's a tough feat to accomplish.",
-        "pt-BR": "[Dono da cabana]\nMesmo que você tenha sido pego e preso por invadir a casa de outra pessoa, você deveria se orgulhar de ter sobrevivido. Afinal, foi uma situação e tanto a que você teve q superar.",
+        "pt-BR": "[Dono da Cabana]\nMesmo que eu possa te prender por invadir a casa de outra pessoa, você deveria se orgulhar de ter sobrevivido. Afinal, foi uma situação e tanto a que você teve que superar.",
         "es-ES": "[El Dueño de la Cabaña]\nAunque hayas venido a la casa de otro como un tonto, hayas tenido un accidente y te hayan encerrado, puedes estar orgulloso de haber sobrevivido. \nPorque lograste algo muy difícil."
     },
     "GpBzDA": {
         "en-US": "[Cabin Owner]\nBy the looks of you, you're frustrated because you can't grow as quickly as you'd like, aren't you? I've got a proposition for you.",
-        "pt-BR": "[Dono da Cabana]\nEu posso ver. Você está frustrado por estar estagnado, sem conseguir evoluir, não é mesmo? Por isso, quero te fazer uma proposta.",
+        "pt-BR": "[Dono da Cabana]\nEu posso ver. Você está triste pela estagnação, sem conseguir evoluir, não é mesmo? Por isso, quero te fazer uma proposta.",
         "es-ES": "[El Dueño de la Cabaña]\n¡Tachán! \n¿Lo ves? \nEstás estancado, sin poder volverte más fuerte, ¿no? \nPor eso, me gustaría hacerte una propuesta."
     },
     "G5BzDA": {
         "en-US": "[Cabin Owner]\nHow'd you like to become a Wind Hawk, just like me? That shouldn't take long since you've already reached the limits of your current job.",
-        "pt-BR": "[Dono da Cabana]\nQue tal se tornar um Falcão dos Ventos, assim como eu? Já que você já está no seu limite, não deve demorar muito para conseguir.",
+        "pt-BR": "[Dono da Cabana]\nQue tal se juntar aos Falcões dos Ventos, assim como eu? Já que você já está no seu limite, não deve demorar muito para conseguir.",
         "es-ES": "[El Dueño de la Cabaña]\n¿Qué tal si me sigues y te conviertes en un Cazavientos? \nBueno, ya que estás al borde de un precipicio, no creo que te lleve mucho tiempo."
     },
     "HJBzDA": {
@@ -626,12 +626,12 @@
     },
     "HZBzDA": {
         "en-US": "[{0}]\nIf it's the path for Wind Hawk to become stronger, I'm all for it.",
-        "pt-BR": "[{0}]\nSe você deseja seguir o caminho do Falcão dos Ventos para ficar mais forte, pode contar comigo!",
+        "pt-BR": "[^3300FF{0}^000000]\nSe você deseja que eu siga o caminho do Falcão dos Ventos para ficar mais forte, eu aceito!",
         "es-ES": "[{0}]\nSi es el camino para que cazavientos se vuelva más fuerte, lo haré sin dudarlo."
     },
     "HpBzDA": {
         "en-US": "[Cabin Owner]\nAlright, alright! Truth be told, I was a tiny bit worried you might refuse. Come on, let's start with your stance.",
-        "pt-BR": "[Dono da Cabana]\nÓtimo, ótimo! Na verdade, fiquei com um pouquinho de medo que você fosse recusar. Vamos lá, vamos começar pela postura.",
+        "pt-BR": "[Dono da Cabana]\nÓtimo! Na verdade, fiquei com um pouquinho de medo que você fosse recusar. Vamos lá, vamos começar pela postura.",
         "es-ES": "[El Dueño de la Cabaña]\n¡Genial, genial! \nLa verdad es que me preocupaba un poquito que me dijeras que no. Vamos, ¿empezamos por la postura?"
     },
     "H5BzDA": {
@@ -641,12 +641,12 @@
     },
     "IJBzDA": {
         "en-US": "[Cabin Owner]\nOkay, let me take a look at you again...",
-        "pt-BR": "[Dono da cabana]\nCerto, deixe-me olhar novamente.",
+        "pt-BR": "[Dono da Cabana]\nCerto, deixe-me olhar novamente.",
         "es-ES": "[El Dueño de la Cabaña]\n¿Lo volvemos a ver?"
     },
     "IZBzDA": {
         "en-US": "[Cabin Owner]\nI don't know if we'll meet again after today. In case we don't, here's my advice for you. Enjoy living as freely as the wind.",
-        "pt-BR": "[Dono da cabana]\nNão sei se nos veremos novamente, mas espero que você siga vivendo livre como o vento.",
+        "pt-BR": "[Dono da Cabana]\nNão sei se nos veremos novamente, mas espero que você siga vivendo livre como o vento.",
         "es-ES": "[El Dueño de la Cabaña]\nNo sé cuándo volveremos a vernos después de hoy, pero espero que vivas como el viento."
     },
     "IpBzDA": {
@@ -656,17 +656,17 @@
     },
     "I5BzDA": {
         "en-US": "[Cabin Owner]\nHah hah hah. Why do you want to know an old man's name?",
-        "pt-BR": "[Dono da cabana]\nHahaha, pra que você quer saber o nome de um velho como eu?",
+        "pt-BR": "[Dono da Cabana]\nHahaha, pra que você quer saber o nome de um velho como eu?",
         "es-ES": "[El Dueño de la Cabaña]\nJajaja, ¿para qué te sirve saber el nombre de un viejo como yo?"
     },
     "JJBzDA": {
         "en-US": "[Cabin Owner]\nJust call me Robin. I have other names too, but Robin is my favorite.",
-        "pt-BR": "[Dono da cabana]\nPode me chamar de Robin. Tenho outros nomes, mas Robin é meu favorito.",
+        "pt-BR": "[Dono da Cabana]\nPode me chamar de Robin. Tenho outros nomes, mas Robin é meu favorito.",
         "es-ES": "[El Dueño de la Cabaña]\nLlámame Robin. \nTengo otros nombres, pero me gusta Robin."
     },
     "JZBzDA": {
         "en-US": "[Cabin Owner]\nWell then, see you around.",
-        "pt-BR": "[Dono da cabana]\nEntão, a gente se vê por aí.",
+        "pt-BR": "[Dono da Cabana]\nEntão, a gente se vê por aí.",
         "es-ES": "[El Dueño de la Cabaña]\nEntonces, si es que podemos vernos, hasta la próxima."
     },
     "JpBzDA": {
@@ -676,7 +676,7 @@
     },
     "J5BzDA": {
         "en-US": "[Cabin Owner]\nHmm... Why don't you use all your remaining Skill Points first?",
-        "pt-BR": "[Dono da cabana]\nAh... Por enquanto, que tal usar todo os pontos de habilidade que você tem sobrando?",
+        "pt-BR": "[Dono da Cabana]\nAh... Por enquanto, que tal usar todo os pontos de habilidade que você tem sobrando?",
         "es-ES": "[El Dueño de la Cabaña]\nBah... \nPrimero voy a usar todos los puntos de habilidad que gané cuando era Errante y ver cómo me va."
     },
     "KJBzDA": {
@@ -686,12 +686,12 @@
     },
     "KZBzDA": {
         "en-US": "[Cabin Owner]\nHow are you going to show me how you shoot an arrow while on that mount? Get off it and do it properly.",
-        "pt-BR": "[Dono da cabana]\nComo você pretende ajustar a postura estando numa montaria? Desça da montaria para fazer direito.",
+        "pt-BR": "[Dono da Cabana]\nComo você pretende mudar de classe estando numa montaria? Desça da montaria para fazer direito.",
         "es-ES": "[El Dueño de la Cabaña]\n¿Cómo piensas adoptar la postura montado en el animal?\nBájate y prueba a adoptar la postura."
     },
     "KpBzDA": {
         "en-US": "[Cabin Owner]\nYes, that's how you should position your feet when you shoot an arrow. You can feel the wind more easily that way.",
-        "pt-BR": "[Dono da Cabana]\nÉ isso aí, quando atirar com o arco, as pernas devem ficar assim... É isso mesmo, assim dá pra sentir melhor o vento.",
+        "pt-BR": "[Dono da Cabana]\nÉ isso aí, quando atirar com o arco, as pernas devem ficar assim... É isso mesmo, assim dá pra sentir melhor o poder do vento.",
         "es-ES": "[El Dueño de la Cabaña]\nSí, cuando dispares el arco, las piernas así... \nSí, así se siente mejor el viento."
     },
     "K5BzDA": {
@@ -701,32 +701,32 @@
     },
     "LJBzDA": {
         "en-US": "[Cabin Owner]\nWhen you pull the bowstring, pull it smoothly—yes, just like that! You have a strong foundation, just like I thought.",
-        "pt-BR": "[Dono da cabana]\nQuando puxar a corda do arco, faça-o de forma suave... Assim mesmo. Você tem bons fundamentos.",
+        "pt-BR": "[Dono da Cabana]\nQuando puxar a corda do arco, faça-o de forma suave... Assim mesmo. Você tem bons fundamentos.",
         "es-ES": "[El Dueño de la Cabaña]\n¡Cuando tires de la cuerda del arco, hazlo suavemente, claro! \nAsí. \nComo siempre, tienes buenos fundamentos."
     },
     "LZBzDA": {
         "en-US": "[Cabin Owner]\nNow, try to feel the wind blowing from the forest. You'll feel it at a certain point. When you do, let go of the bowstring.",
-        "pt-BR": "[Dono da cabana]\nPronto, agora sinta a brisa que vem da floresta. Vai chegar um momento em que sentirá o vento. Nesse momento, solte a corda do arco.",
+        "pt-BR": "[Dono da Cabana]\nPronto, agora sinta a brisa que vem da floresta. Vai chegar um momento em que sentirá o Vento. Nesse momento, solte a corda do arco.",
         "es-ES": "[El Dueño de la Cabaña]\nBueno, ahora siente el viento que sopla desde el bosque. \nHabrá un momento en que lo sientas. \nEn ese momento, suelta la cuerda del arco."
     },
     "LpBzDA": {
         "en-US": "Let go of the bowstring.",
-        "pt-BR": "Solte a corda do arco.",
+        "pt-BR": "Soltar a corda do arco.",
         "es-ES": "Suelta la cuerda del arco."
     },
     "L5BzDA": {
         "en-US": "Wait a little longer.",
-        "pt-BR": "Espere mais um pouco.",
+        "pt-BR": "Esperar mais um pouco.",
         "es-ES": "Esperas un poco más."
     },
     "MJBzDA": {
         "en-US": "[Cabin Owner]\nNo. Try to feel the wind again.",
-        "pt-BR": "[Dono da cabana]\nNão. Tente sentir o vento de novo.",
+        "pt-BR": "[Dono da Cabana]\nNão. Tente sentir o poder do Vento de novo.",
         "es-ES": "[El Dueño de la Cabaña]\nNo. \nIntenta sentir el viento de nuevo"
     },
     "MZBzDA": {
         "en-US": "[Cabin Owner]\nCongratulations, buddy. Now, you're a Wind Hawk, who fights enemies alongside the wind.",
-        "pt-BR": "[Dono da cabana]\nParabéns, amigo. Agora você é um Falcão dos Ventos, aquele que luta com o vento ao seu lado.",
+        "pt-BR": "[Dono da Cabana]\nParabéns, jovem. Agora você pertence aos Falcões dos Ventos, aqueles que lutam com o Vento ao seu lado.",
         "es-ES": "[El Dueño de la Cabaña]\nFelicidades, amigo, por convertirte en un Cazavientos que domina el viento y lucha junto a él."
     }
 }

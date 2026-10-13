@@ -37,12 +37,12 @@
     "B3NV": {
         "en-US": "[Laphine Soldier]\nBut it's one of the mysteries of Bifrost.\nThat we can understand each other even if we speak different languages.",
         "pt-BR": "[Soldado Laphine]\nMas esse é um dos mistérios da Bifrost.\nO fato de podermos nos entender mesmo quando falamos idiomas diferentes.",
-        "es-ES": "[Soldado Laphine]\nPero es uno de los misterios de Bifrost.\nQue podamos entendernos aunque hablemos idiomas distintos."
+        "es-ES": "[Soldado Laphine]\nPero es uno de los misterios de Bifröst.\nQue podamos entendernos aunque hablemos idiomas distintos."
     },
     "CHNV": {
         "en-US": "[Laphine Soldier]\nTo be able to talk with everybody...\nPerhaps that's the power of Bifrost.",
         "pt-BR": "[Soldado Laphine]\nSer capaz de conversar com todo mundo...\nTalvez esse seja o poder da Bifrost.",
-        "es-ES": "[Soldado Laphine]\nPoder hablar con todo el mundo...\nTal vez ese sea el poder de Bifrost."
+        "es-ES": "[Soldado Laphine]\nPoder hablar con todo el mundo...\nTal vez ese sea el poder de Bifröst."
     },
     "CXNV": {
         "en-US": "[Laphine Soldier]\nYou human adventurers are incredible.\nYou're always going into the forest, where no one else dares to go.",
@@ -61,7 +61,7 @@
     },
     "DHNV": {
         "en-US": "Venture into the Hazy Forest.",
-        "pt-BR": "Aventurar-se na Floresta Nebulosa.",
+        "pt-BR": "Aventurar-se no Labirinto da Floresta",
         "es-ES": "Adentrarme al Bosque brumoso."
     },
     "DXNV": {
@@ -121,7 +121,7 @@
     },
     "GHNV": {
         "en-US": "Log Tunnel",
-        "pt-BR": "Túnel de registro",
+        "pt-BR": "Túnel",
         "es-ES": "Flor misteriosa"
     },
     "GXNV": {

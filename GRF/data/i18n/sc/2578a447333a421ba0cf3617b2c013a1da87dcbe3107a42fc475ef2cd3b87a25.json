@@ -6,12 +6,12 @@
     },
     "QQVdDQ": {
         "en-US": "Cutie!",
-        "pt-BR": "Fofura!",
+        "pt-BR": "Ei, fofura!",
         "es-ES": "¡Lindura!"
     },
     "QgVdDQ": {
         "en-US": "[Eunha]\nWelcome to Eunha's Heavenly Realm Branch Office!",
-        "pt-BR": "[Cosmos]\nBoas-vindas à filial celestial de Cosmos!",
+        "pt-BR": "[Cosmos]\nBoas-vindas à filial celestial do Cosmos!",
         "es-ES": "[Cosmos]\n¡Bienvenido a la sucursal celestial de Cosmos!"
     },
     "QwVdDQ": {
@@ -71,7 +71,7 @@
     },
     "TgVdDQ": {
         "en-US": "[Eunha]\nWhy? Is it too hard to spar with Huiun? It's fine. You can do it. I told him to go easy on you too. Go on.",
-        "pt-BR": "[Cosmos]\nPor quê? Está difícil duelar com Heeun? Não se preocupe. Você consegue. Eu também disse para ela pegar leve. Vá logo.",
+        "pt-BR": "[Cosmos]\nHã? Está difícil duelar com Heeun? Não se preocupe. Você consegue. Eu também disse para ele pegar leve. Vá logo.",
         "es-ES": "[Cosmos]\n¿Qué? ¿Te cuesta combatir contra Heeun? Calma, puedes hacerlo. Ya le dije que fuera suave contigo. Ve."
     },
     "TwVdDQ": {
@@ -111,7 +111,7 @@
     },
     "VgVdDQ": {
         "en-US": "^0000CDYou cannot proceed with the job change while riding a mount.^000000",
-        "pt-BR": "^0000CDNão é possível prosseguir com a mudança de classe montado.^000000",
+        "pt-BR": "^0000CDNão é possível prosseguir com a mudança de classe estando em uma montaria.^000000",
         "es-ES": "^0000CDNo puedes continuar con el cambio de clase mientras estás en una montura.^000000"
     },
     "VwVdDQ": {
@@ -136,12 +136,12 @@
     },
     "WwVdDQ": {
         "en-US": "[Huiun]\nHow am I supposed to know? Do you know how hard it was to spar moderately against a human? Then why don't you spar with them this time, Lady Eunha!",
-        "pt-BR": "[Heeun]\nComo eu sou saber? Sabe como foi difícil duelar com uma pessoa sem exagerar? Então, desta vez, que tal a Senhora Cosmos duelar?",
+        "pt-BR": "[Heeun]\nComo eu sou saber? Sabe como foi difícil duelar com uma pessoa sem exagerar? Então, desta vez, que tal o Senhor Cosmos duelar?",
         "es-ES": "[Huiyun]\n¿Por qué me preguntas a mí? ¿Sabes lo difícil que fue combatir con moderación contra un humano? ¡Te toca pelear esta vez, Cosmos!"
     },
     "XAVdDQ": {
         "en-US": "[Eunha]\nShould I...? Hah!!",
-        "pt-BR": "[Cosmos]\nSerá...? Ei!!",
+        "pt-BR": "[Cosmos]\nSerá?... Iiáá!!",
         "es-ES": "[Cosmos]\n¿Sí...? ¡Toma!"
     },
     "XQVdDQ": {
@@ -156,17 +156,17 @@
     },
     "XwVdDQ": {
         "en-US": "That doesn't mean you can hit people... Ah...?!!!",
-        "pt-BR": "Mesmo assim, bater em alguém... Ah...?!!!",
+        "pt-BR": "Mesmo assim, bater em alguém... Hã...?!!!",
         "es-ES": "Eso no es justificación. ¡Ay!"
     },
     "YAVdDQ": {
         "en-US": "[Eunha]\nI knew it!!! Look! The adventurer has gained enlightenment!",
-        "pt-BR": "[Cosmos]\nEu sabia!!! Veja só! O aventureiro alcançou a iluminação!",
+        "pt-BR": "[Cosmos]\nEu sabia!!! Veja só! O viajante alcançou a iluminação!",
         "es-ES": "[Cosmos]\n¡¡Lo sabía!! ¡Mira! ¡El aventurero alcanzó la iluminación!"
     },
     "YQVdDQ": {
         "en-US": "[Huiun]\n...You should have stepped in earlier. Anyway, what about you, Lady Eunha? If the adventurer received help and gained enlightenment, something should change for you too. Do you feel power rising, or your body becoming lighter, or anything like that?",
-        "pt-BR": "[Heeun]\n... Você deveria ter se envolvido desde o começo. Enfim, e a Senhora Cosmos? Se o aventureiro recebeu ajuda e alcançou a iluminação, a Senhora Cosmos também deveria mudar de alguma forma. Não sente o poder aumentando, o corpo ficando mais leve, ou algo assim?",
+        "pt-BR": "[Heeun]\n... Você deveria ter se envolvido desde o começo. Enfim, e o Senhor Cosmos? Se o viajante recebeu ajuda e alcançou a iluminação, o Senhor Cosmos também deveria mudar de alguma forma. Não sente o poder aumentando, o corpo ficando mais leve, ou algo assim?",
         "es-ES": "[Heeun]\n... Debí haber intervenido antes. Pero ¿y tú, Cosmos? Si el aventurero recibió ayuda y alcanzó la iluminación, tú también deberías notar algún cambio. ¿No sientes que te sube el poder o que el cuerpo se vuelve más ligero?"
     },
     "YgVdDQ": {
@@ -191,12 +191,12 @@
     },
     "ZgVdDQ": {
         "en-US": "[Eunha]\nI am free now! Goodbye, everyone! I am now...",
-        "pt-BR": "[Cosmos]\nAgora estou livre! Adeus, pessoal! Agora eu...",
+        "pt-BR": "[Cosmos]\nEu também estou livre! Adeus, pessoal! Agora eu...",
         "es-ES": "[Cosmos]\n¡Ahora soy libre! ¡Adiós a todos! Ahora yo..."
     },
     "ZwVdDQ": {
         "en-US": "[Huiun]\nLady Eunha, Lady Eunha!!! Even if you are leaving, you need to get ready first. What will you do if you leave like that?",
-        "pt-BR": "[Heeun]\nSenhora Cosmos, Senhora Cosmos!!! Mesmo que vá embora, precisa se preparar antes. Como pode partir desse jeito?",
+        "pt-BR": "[Heeun]\nSenhor Cosmos, Senhor Cosmos!!! Mesmo que vá embora, precisa se preparar antes. Como pode partir desse jeito?",
         "es-ES": "[Huiyun]\n¡Cosmos, Cosmos! Deberías prepararte antes de irte. ¿Cómo te puedes ir así nada más?"
     },
     "aAVdDQ": {
@@ -206,12 +206,12 @@
     },
     "aQVdDQ": {
         "en-US": "[Eunha]\nAdventurer, thank you. I felt reassured that you were my last one. I believed in you.",
-        "pt-BR": "[Cosmos]\nViajante, obrigada. Fiquei tranquila por você ser o meu último. Eu acreditei em você.",
+        "pt-BR": "[Cosmos]\nViajante, obrigado. Fiquei tranquilo por você ser o meu último estudante. Eu acreditei em você.",
         "es-ES": "[Cosmos]\nGracias. Qué tranquilidad que el último fuiste tú. Yo creí en ti."
     },
     "agVdDQ": {
         "en-US": "[Eunha]\nYou must have realized a lot by sparring with a celestial being too. You will reach a higher state.\nAh, right! Eunha, could you give me one more set of clothes?",
-        "pt-BR": "[Cosmos]\nVocê também deve ter aprendido muito ao duelar com um ser celestial. Vai alcançar um estágio mais elevado.\nAh, é mesmo! Cosmos, pode me dar mais uma roupa?",
+        "pt-BR": "[Cosmos]\nVocê também deve ter aprendido muito ao duelar com um ser celestial. Vai alcançar um estágio mais elevado.\nAh, é mesmo! Heeun, pode me dar mais uma roupa?",
         "es-ES": "[Cosmos]\nAl combatir contra un celestial, seguro que el aventurero también aprendió muchas cosas. Alcanzarás una esfera más elevada.\nAh, cierto. Cosmos, ¿me das una muda más?"
     },
     "awVdDQ": {
@@ -246,7 +246,7 @@
     },
     "cQVdDQ": {
         "en-US": "[Huiun]\nAh, congratulations. It suits you well. Thank you truly for helping us. If our paths cross again, we may meet once more. I will look forward to that day.",
-        "pt-BR": "[Heeun]\nOra, parabéns. Combina bem com você. Muito obrigada por ajudar. Se o destino nos unir novamente, poderemos nos encontrar outra vez. Aguardarei esse dia com alegria.",
+        "pt-BR": "[Heeun]\nOra, parabéns. Combina bem com você. Muito obrigado por ajudar. Se o destino nos unir novamente, poderemos nos encontrar outra vez. Aguardarei esse dia com alegria.",
         "es-ES": "[Heeun]\n¡Enhorabuena! Te queda muy bien. Muchas gracias por tu ayuda. Si nuestros destinos vuelven a cruzarse, nos veremos de nuevo. Esperaré con ilusión ese día."
     },
     "cgVdDQ": {
@@ -256,12 +256,12 @@
     },
     "cwVdDQ": {
         "en-US": "[Huiun]\nNow let us go, Lady Eunha. There is a mountain of work to do.",
-        "pt-BR": "[Heeun]\nAgora vamos, Senhora Cosmos. Há uma montanha de tarefas a fazer.",
+        "pt-BR": "[Heeun]\nAgora vamos, Senhor Cosmos. Há uma montanha de tarefas a fazer.",
         "es-ES": "[Heeun]\nVamonos, Cosmos. Tenemos muchísimo que hacer."
     },
     "dAVdDQ": {
         "en-US": "Is that how you've been speaking to the adventurer this whole time?",
-        "pt-BR": "Você falou assim com o viajante até agora?",
+        "pt-BR": "Você está me chamando de Senhor até agora?",
         "es-ES": "¿Apoco le has estado hablando así al aventurero?"
     },
     "dQVdDQ": {
@@ -276,7 +276,7 @@
     },
     "dwVdDQ": {
         "en-US": "[Eunha]\nHow do you like my house? I put some effort into it. Ah, of course, it isn't my real house. It's a temporary residence. Strictly temporary. You should go back now too.",
-        "pt-BR": "[Cosmos]\nO que achou da minha casa? Caprichei bastante. Ah, claro, não é uma casa de verdade. É uma morada temporária. Apenas temporária. Você também deve voltar agora.",
+        "pt-BR": "[Cosmos]\nO que achou da minha casa? Caprichei bastante. Ah, claro, não é uma casa de verdade. É uma morada temporária. Você deve voltar agora.",
         "es-ES": "[Cosmos]\n¿Qué te parece mi casa? Me esmeré un poco. Ah, claro, no es mi casa de verdad. Es una residencia temporal. Solo temporal. Tú también deberías volver ya."
     },
     "eAVdDQ": {
@@ -286,7 +286,7 @@
     },
     "eQVdDQ": {
         "en-US": "[Huiun]\nI would like to finish this matter and leave soon... Ask Lady Eunha when it will be finished.",
-        "pt-BR": "[Heeun]\nGostaria que terminássemos logo este assunto e partíssemos... Pergunte à Senhora Cosmos quando ela pretende terminar.",
+        "pt-BR": "[Heeun]\nGostaria que terminássemos logo este assunto e partíssemos... Pergunte ao Senhor Cosmos quando ele pretende terminar.",
         "es-ES": "[Heeun]\nQuisiera terminar este asunto cuanto antes y marcharnos... Pregúntale a Cosmos cuánto se piensa tardar."
     },
     "egVdDQ": {
@@ -306,7 +306,7 @@
     },
     "fQVdDQ": {
         "en-US": "[Eunha]\nDidn't you expect this to some extent after coming all this way? Why are you so surprised?",
-        "pt-BR": "[Cosmos]\nJá que chegou até aqui, não esperava mais ou menos isso? Por que ficou tão surpresa?",
+        "pt-BR": "[Cosmos]\nJá que chegou até aqui, não esperava mais ou menos isso? Por que ficou tão surpreso?",
         "es-ES": "[Cosmos]\nHasta este punto, ¿no te lo esperabas? ¿Por qué te sorprendes tanto?"
     },
     "fgVdDQ": {
@@ -326,7 +326,7 @@
     },
     "gQVdDQ": {
         "en-US": "[Eunha]\nIf you show just a little taste of the Heavenly Realm, this clever adventurer will realize many things. Then everyone here will be happy, right? If you help just a little.",
-        "pt-BR": "[Cosmos]\nSe mostrar só um pouco do sabor do Céu, o viajante esperto aprenderá muitas coisas. Então todos aqui ficarão felizes, certo? Se você ajudar só um pouco.",
+        "pt-BR": "[Cosmos]\nSe mostrar só um pouco do sabor do Céu, o viajante aprenderá muitas coisas. Então todos aqui ficarão felizes, certo? Se você ajudar só um pouco.",
         "es-ES": "[Cosmos]\nSi solo le muestras un poco del sabor del reino celestial, un aventurero listo comprenderá mucho. Entonces todos vamos a quedar felices, ¿verdad? Si nos ayudas un poco, claro."
     },
     "ggVdDQ": {
@@ -336,7 +336,7 @@
     },
     "gwVdDQ": {
         "en-US": "[Eunha]\nThe adventurer is as fragile as a baby bird, so go easy on them, all right? Cutie, good luck!",
-        "pt-BR": "[Cosmos]\nO viajante é frágil como um filhote de passarinho, então vá com cuidado, certo? Fofura, força!",
+        "pt-BR": "[Cosmos]\nO viajante é frágil como um filhote de passarinho, então vá com cuidado, certo? Força, fofura!",
         "es-ES": "[Cosmos]\nEl aventurero es frágil como un polluelo, así que debes ir con cuidado, ¿eh? ¡Ánimo, lindura!"
     },
     "hAVdDQ": {
@@ -346,7 +346,7 @@
     },
     "hQVdDQ": {
         "en-US": "[Eunha]\nAdventurer? Are you alive?",
-        "pt-BR": "[Cosmos]\nViajante? Está vivo?",
+        "pt-BR": "[Cosmos]\nViajante? Sobreviveu?",
         "es-ES": "[Cosmos]\n¿Aventurero? ¿Sigues con vida?"
     },
     "hgVdDQ": {
@@ -361,17 +361,17 @@
     },
     "iAVdDQ": {
         "en-US": "[Huiun]\nLady Eunha?? What about worrying about me??",
-        "pt-BR": "[Heeun]\nSenhora Cosmos?? Não se preocupa comigo??",
+        "pt-BR": "[Heeun]\nSenhor Cosmos?? Não se preocupa comigo??",
         "es-ES": "[Huiyun]\n¿¿Cosmos?? ¿Y qué hay de preocuparse por mí?"
     },
     "iQVdDQ": {
         "en-US": "[Eunha]\nHow do you like my house? I put some effort into it. Ah, of course, it isn't my real house. It's a temporary residence. Strictly temporary.",
-        "pt-BR": "[Cosmos]\nO que achou da minha casa? Caprichei bastante. Ah, claro, não é uma casa de verdade. É uma morada temporária. Apenas temporária.",
+        "pt-BR": "[Cosmos]\nO que achou da minha casa? Caprichei bastante. Ah, claro, não é uma casa de verdade. É uma morada temporária.",
         "es-ES": "[Cosmos]\n¿Qué te parece mi casa? Me esmeré un poco. Ah, claro, no es mi casa de verdad. Es una residencia temporal. Solo temporal."
     },
     "igVdDQ": {
         "en-US": "[Huiun]\nSo this is the place Lady Eunha cultivated. I should hear an explanation.",
-        "pt-BR": "[Heeun]\nEntão este deve ser o lugar cultivado pela Senhora Cosmos. Preciso ouvir uma explicação.",
+        "pt-BR": "[Heeun]\nEntão este deve ser o escritório do Senhor Cosmos. Preciso ouvir uma explicação.",
         "es-ES": "[Heeun]\nParece que este es el lugar que Cosmos ha cuidado. Tendré que escuchar una explicación."
     },
     "iwVdDQ": {
@@ -491,7 +491,7 @@
     },
     "ogVdDQ": {
         "en-US": "Thank you so much for sharing your precious fruit.",
-        "pt-BR": "Muito obrigada por dividir seus preciosos frutos comigo.",
+        "pt-BR": "Muito obrigado por dividir seus preciosos frutos comigo.",
         "es-ES": "Muchas gracias por compartir tus valiosos frutos."
     },
     "owVdDQ": {

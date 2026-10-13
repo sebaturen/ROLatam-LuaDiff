@@ -1,0 +1,97 @@
+{
+    "YIPSDQ": {
+        "en-US": "Laila",
+        "pt-BR": "Laila",
+        "es-ES": "Laila"
+    },
+    "YYPSDQ": {
+        "en-US": "Laila#Laila01",
+        "pt-BR": "Laila#Laila01",
+        "es-ES": "Laila#Laila01"
+    },
+    "YoPSDQ": {
+        "en-US": "- You are carrying too many items, so you cannot proceed with gem mining. -",
+        "pt-BR": "- Você está carregando muitos itens, então não é possível prosseguir com a mineração de gemas. -",
+        "es-ES": "- Llevas demasiados objetos, por lo que no puedes continuar con la extracción de gemas. -"
+    },
+    "Y4PSDQ": {
+        "en-US": "[Laila]\nWelcome, I'm Laila.",
+        "pt-BR": "[Laila]\nOlá, eu sou a Laila.",
+        "es-ES": "[Laila]\nBienvenido, soy Laila."
+    },
+    "ZIPSDQ": {
+        "en-US": "[Laila]\nI help those who have already entered the Sunken Tower to enter it again. \nIf you pay 10 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, I will help you re-enter.",
+        "pt-BR": "[Laila]\nEu ajudo apenas aqueles que já entraram na Torre Submersa a entrar novamente.\nSe você pagar 10 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, eu ajudarei você a entrar novamente.",
+        "es-ES": "[Laila]\nAyudo únicamente a quienes ya han entrado en la Torre Hundida a ingresar nuevamente.\nSi pagas 10 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, te ayudaré a volver a entrar."
+    },
+    "ZYPSDQ": {
+        "en-US": "Reset Sunken Tower Entry",
+        "pt-BR": "Reiniciar entrada na Torre Submersa",
+        "es-ES": "Reiniciar entrada a la Torre Hundida"
+    },
+    "ZoPSDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Sair",
+        "es-ES": "Salir"
+    },
+    "Z4PSDQ": {
+        "en-US": "[Laila]\nOh, you can enter without my help.\nI only help those who have already entered today to re-enter.",
+        "pt-BR": "[Laila]\nOh, você pode entrar sem precisar da minha ajuda.\nEu só ajudo aqueles que já entraram hoje a entrar novamente.",
+        "es-ES": "[Laila]\nOh, puedes entrar sin necesidad de mi ayuda.\nSolo ayudo a volver a entrar a quienes ya ingresaron hoy."
+    },
+    "aIPSDQ": {
+        "en-US": "[Laila]\nYou don't have enough <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM> for me to help you re-enter...\nYou need 10 Silvervine to re-enter.",
+        "pt-BR": "[Laila]\nVocê não tem <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM> suficiente para eu ajudar na reentrada...\nSão necessárias 10 Silvervine para entrar novamente.",
+        "es-ES": "[Laila]\nNo tienes suficiente <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM> para que pueda ayudarte a volver a entrar...\nNecesitas 10 Silvervine para volver a entrar."
+    },
+    "aYPSDQ": {
+        "en-US": "[Laila]\nTa-da~! \nYou can now enter the Sunken Tower again.\nYou can use this service multiple times a day, so come back whenever you need it.",
+        "pt-BR": "[Laila]\nTcharam~! \nAgora você pode entrar novamente na Torre Submersa.\nVocê pode usar este serviço várias vezes por dia, então volte sempre que precisar.",
+        "es-ES": "[Laila]\n¡Tachán~! \nAhora puedes entrar nuevamente en la Torre Hundida.\nPuedes usar este servicio varias veces al día, así que vuelve cuando lo necesites."
+    },
+    "aoPSDQ": {
+        "en-US": "[Laila]\nIf you want to enter the Sunken Tower again, I can help you.",
+        "pt-BR": "[Laila]\nSe quiser entrar novamente na Torre Submersa, posso ajudar você.",
+        "es-ES": "[Laila]\nSi quieres volver a entrar en la Torre Hundida, puedo ayudarte."
+    },
+    "a4PSDQ": {
+        "en-US": "Sunken Tower Switch",
+        "pt-BR": "Sunken Tower Switch",
+        "es-ES": "Sunken Tower Switch"
+    },
+    "bIPSDQ": {
+        "en-US": "GM equipment required",
+        "pt-BR": "Equipamento de GM necessário",
+        "es-ES": "Se requiere equipo de GM"
+    },
+    "bYPSDQ": {
+        "en-US": "Activate Sunken Tower cooldown reset NPC (Laila)",
+        "pt-BR": "Ativar NPC de reinicialização da Torre Submersa (Laila)",
+        "es-ES": "Activar NPC de reinicio de la Torre Hundida (Laila)"
+    },
+    "boPSDQ": {
+        "en-US": "ON",
+        "pt-BR": "ON",
+        "es-ES": "ON"
+    },
+    "b4PSDQ": {
+        "en-US": "OFF",
+        "pt-BR": "OFF",
+        "es-ES": "OFF"
+    },
+    "cIPSDQ": {
+        "en-US": "Laila ON",
+        "pt-BR": "Laila ON",
+        "es-ES": "Laila ON"
+    },
+    "cYPSDQ": {
+        "en-US": "Laila OFF",
+        "pt-BR": "Laila OFF",
+        "es-ES": "Laila OFF"
+    },
+    "coPSDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Sair",
+        "es-ES": "Salir"
+    }
+}

@@ -21910,7 +21910,7 @@
     "TVNJX0FDQ09VTlRfTElNSVRFRF9TQUxFX0lURU1fTlVN": {
         "ko-KR": "계정당 구매가능",
         "en-US": "Purchase per acc:",
-        "pt-BR": "1 por conta",
+        "pt-BR": "Limite por conta:",
         "es-ES": "Compra por acc:"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9TQUxFX0lURU1fTElNSVRfTlVN": {
@@ -23914,7 +23914,7 @@
         "ko-KR": "Default",
         "en-US": "Default",
         "pt-BR": "Padrão",
-        "es-ES": "Por defecto"
+        "es-ES": "Predeterm."
     },
     "TVNJX01BQ1JPX0NIRUNLX1JFTU9WRV9SVU5OSU5H": {
         "ko-KR": "이미 추적 중인 대상이 존재합니다.",
@@ -26209,5 +26209,53 @@
         "unknown_4": "El tiempo de reutilización de la habilidad será igual al nivel del elemental invocado × 3 segundos.",
         "pt-BR": "O tempo de recarga da habilidade será igual ao nível do elemental invocado × 3 segundos.",
         "es-ES": "El tiempo de reutilización de la habilidad será igual al nivel del elemental invocado × 3 segundos."
+    },
+    "TVNJX1NUT1JFX1RJVExFS0FQUkE=": {
+        "ko-KR": "카프라 창고",
+        "en-US": "Kafra Storage",
+        "pt-BR": "Armazém da Kafra",
+        "es-ES": "Almacén de Kafra"
+    },
+    "TVNJX1NUT1JFX1RJVExFTkFZTkc=": {
+        "ko-KR": "고양이손 창고",
+        "en-US": "Cat Hand Storage",
+        "pt-BR": "Armazém da Mão de Gato",
+        "es-ES": "Almacén de Mano de Gato"
+    },
+    "TVNJX1NUT1JFX09QRU4=": {
+        "ko-KR": "창고 열기 성공",
+        "en-US": "Storage opened successfully.",
+        "pt-BR": "Armazém aberto com sucesso.",
+        "es-ES": "Almacén abierto correctamente."
+    },
+    "TVNJX1NUT1JFX1dBSVQ=": {
+        "ko-KR": "대기중....",
+        "en-US": "Waiting....",
+        "pt-BR": "Aguardando....",
+        "es-ES": "Esperando...."
+    },
+    "TVNJX1NUT1JFX09QRU5GQUlM": {
+        "ko-KR": "창고 열기 실패 하였습니다.",
+        "en-US": "Failed to open storage.",
+        "pt-BR": "Falha ao abrir o armazém.",
+        "es-ES": "No se pudo abrir el almacén."
+    },
+    "TVNJX1NUT1JFX1NBTUVUQUI=": {
+        "ko-KR": "이미 사용중인 창고 입니다.",
+        "en-US": "This storage is already in use.",
+        "pt-BR": "Este armazém já está em uso.",
+        "es-ES": "Este almacén ya está en uso."
+    },
+    "TVNJX1NUT1JFX09ORVNFQw==": {
+        "ko-KR": "잠시만 기다려 주세요.",
+        "en-US": "Please wait a moment.",
+        "pt-BR": "Aguarde um momento.",
+        "es-ES": "Espera un momento."
+    },
+    "TVNJX1NUT1JFX05PVE5VTUJFUg==": {
+        "ko-KR": "유효한 창고 번호가 아닙니다.",
+        "en-US": "Invalid storage number.",
+        "pt-BR": "Número de armazém inválido.",
+        "es-ES": "Número de almacén no válido."
     }
 }

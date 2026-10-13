@@ -1,0 +1,1572 @@
+{
+    "gBudDQ": {
+        "en-US": "Level 40~69 Request Board",
+        "pt-BR": "Missões 40 - 69",
+        "es-ES": "40~69 Tablón de encargos"
+    },
+    "gRudDQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll quest reward EXP is increased by 50%!!^000000",
+        "pt-BR": "^4D4DFFBônus de EXP!^000000\n^4D4DFFDurante o evento, as recompensas em EXP aumentaram em 50%!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡La EXP de recompensa de todas las misiones aumenta un 50%!!^000000"
+    },
+    "ghudDQ": {
+        "en-US": "You cannot proceed with the quest because you have too many items. -",
+        "pt-BR": "Você está carregando itens demais para prosseguir.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos. -"
+    },
+    "gxudDQ": {
+        "en-US": "[Version Check]Paradise Group Normal Version",
+        "pt-BR": "[GM Mode] Versão Normal",
+        "es-ES": "[Verificación de versión] Versión normal del Grupo del Edén"
+    },
+    "hBudDQ": {
+        "en-US": "To receive requests -\n- You need ^4D4DFF'Paradise Group's Emblem'^000000. -",
+        "pt-BR": "Para aceitar uma missão, você precisa\nter o ^4D4DFF'Emblema do Grupo do Éden'^000000.",
+        "es-ES": "Para recibir un encargo, debes -\n- tener la ^4D4DFF'Insignia del Grupo del Edén'^000000. -"
+    },
+    "hRudDQ": {
+        "en-US": "You cannot use this board because your level is too low.",
+        "pt-BR": "Seu nível é insuficiente para usar este quadro de missões.",
+        "es-ES": "No tienes el nivel suficiente para usar este tablón."
+    },
+    "hhudDQ": {
+        "en-US": "View Individual Requests",
+        "pt-BR": "Ver missões individualmente",
+        "es-ES": "Ver encargos individuales"
+    },
+    "hxudDQ": {
+        "en-US": "Report Completed Requests",
+        "pt-BR": "Reportar missões concluídas",
+        "es-ES": "Informar encargos completados"
+    },
+    "iBudDQ": {
+        "en-US": "Accept All Requests at Once",
+        "pt-BR": "Aceitar todas as missões",
+        "es-ES": "Aceptar todos los encargos"
+    },
+    "iRudDQ": {
+        "en-US": "[Processing request settlement.]",
+        "pt-BR": "[Missões Concluídas]",
+        "es-ES": "[Procesando los encargos.]"
+    },
+    "ihudDQ": {
+        "en-US": "<Rescue Your Friend> completed.",
+        "pt-BR": "[Resgatar Amigos] - missão concluída.",
+        "es-ES": "<Rescata a tu amigo> se completó."
+    },
+    "ixudDQ": {
+        "en-US": "<Eat Kukre Inside> completed.",
+        "pt-BR": "[Barata do Mar] - missão concluída.",
+        "es-ES": "<Comerse el hígado de Kukre> se completó."
+    },
+    "jBudDQ": {
+        "en-US": "<The Economic Logic of Making It If It Doesn't Exist> completed.",
+        "pt-BR": "[Tesouro do Mar] - missão concluída.",
+        "es-ES": "<Si no existe, se fabrica> se completó."
+    },
+    "jRudDQ": {
+        "en-US": "<Shipwreck 1st Floor Cleanup> completed.",
+        "pt-BR": "[Limpando o Navio] - missão concluída.",
+        "es-ES": "<Limpieza de 1 piso del Barco Naufragado> se completó."
+    },
+    "jhudDQ": {
+        "en-US": "<Shipwreck 2nd Floor Cleanup> completed.",
+        "pt-BR": "[Navio Assombrado] - missão concluída.",
+        "es-ES": "<Limpieza de 2 piso del Barco Naufragado> se completó."
+    },
+    "jxudDQ": {
+        "en-US": "<Noble War> completed.",
+        "pt-BR": "[Guerra na Praia] - missão concluída.",
+        "es-ES": "<La noble guerra> se completó."
+    },
+    "kBudDQ": {
+        "en-US": "<Shellfish Digging Experience> completed.",
+        "pt-BR": "[Catador de Ostras] - missão concluída.",
+        "es-ES": "<Experiencia de recolección de Molusco> se completó."
+    },
+    "kRudDQ": {
+        "en-US": "<Annoying Orcs> completed.",
+        "pt-BR": "[Orcs Infernais] - missão concluída.",
+        "es-ES": "<Esos molestos orcos> se completó."
+    },
+    "khudDQ": {
+        "en-US": "^4D4DFFOrc is happy that the troublesome matter has been resolved.^000000",
+        "pt-BR": "^4D4DFFOs Goblins estão felizes.^000000",
+        "es-ES": "^4D4DFFOrco está feliz porque se resolvió el asunto que le molestaba.^000000"
+    },
+    "kxudDQ": {
+        "en-US": "^4D4DFFKnife Goblin's inner affinity has increased.^000000",
+        "pt-BR": "^4D4DFFSua reputação na Vila dos Goblins aumentou.^000000",
+        "es-ES": "^4D4DFFAumentó la afinidad interna de Duende con Cuchillo.^000000"
+    },
+    "lBudDQ": {
+        "en-US": "<Greedy> completed.",
+        "pt-BR": "[Ganancioso] - missão concluída.",
+        "es-ES": "<Insaciable> se completó."
+    },
+    "lRudDQ": {
+        "en-US": "<Orc, Annihilation Operation> completed.",
+        "pt-BR": "[Família Orc] - missão concluída.",
+        "es-ES": "<Orco, operación de exterminio total> se completó."
+    },
+    "lhudDQ": {
+        "en-US": "^FF4D4DThe Orcs' wariness has increased.^000000",
+        "pt-BR": "^FF4D4DSua reputação na Vila dos Orcs caiu.^000000",
+        "es-ES": "^FF4D4DAumentó el estado de alerta de los orcos.^000000"
+    },
+    "lxudDQ": {
+        "en-US": "<Fierce Knife Goblin Cleanup> completed.",
+        "pt-BR": "[Goblins Ferozes] - missão concluída.",
+        "es-ES": "<Eliminación de los Duende con Cuchillo feroces> se completó."
+    },
+    "mBudDQ": {
+        "en-US": "^FF4D4DKnife Goblin's wariness has increased.^000000",
+        "pt-BR": "^FF4D4DSua reputação na Vila dos Goblins caiu.^000000",
+        "es-ES": "^FF4D4DAumentó el estado de alerta de Duende con Cuchillo.^000000"
+    },
+    "mRudDQ": {
+        "en-US": "^4D4DFFOrc's inner affinity has increased.^000000",
+        "pt-BR": "^4D4DFFSua reputação na Vila dos Orcs aumentou.^000000",
+        "es-ES": "^4D4DFFAumentó la afinidad de Orco.^000000"
+    },
+    "mhudDQ": {
+        "en-US": "<Swift Knife Goblin Cleanup> completed.",
+        "pt-BR": "[Goblins Velozes] - missão concluída.",
+        "es-ES": "<Eliminación de los Duende con Cuchillo ágiles> se completó."
+    },
+    "mxudDQ": {
+        "en-US": "<Troublesome Ones> completed.",
+        "pt-BR": "[Goblins Atrozes] - missão concluída.",
+        "es-ES": "<Criaturas problemáticas> se completó."
+    },
+    "nBudDQ": {
+        "en-US": "<Eggs and Grasshoppers> completed.",
+        "pt-BR": "[Estranhos do Deserto] - missão concluída.",
+        "es-ES": "<Huevos y saltamontes> se completó."
+    },
+    "nRudDQ": {
+        "en-US": "<Biology Is All About Collecting Samples> completed.",
+        "pt-BR": "[Biologia Marinha] - missão concluída.",
+        "es-ES": "<La toma de muestras es lo más difícil de la biología> se completó."
+    },
+    "nhudDQ": {
+        "en-US": "<Make Hay While the Sun Shines> completed.",
+        "pt-BR": "[Amuleto de Caranguejo] - missão concluída.",
+        "es-ES": "<Hay que remar cuando sube la marea> se completó."
+    },
+    "nxudDQ": {
+        "en-US": "<Consideration for a Friend> completed.",
+        "pt-BR": "[Cuidando do Grupo] - missão concluída.",
+        "es-ES": "<Consideración por un amigo> se completó."
+    },
+    "oBudDQ": {
+        "en-US": "<Sourcing Cooking Ingredients> completed.",
+        "pt-BR": "[Ingredientes Culinários] - missão concluída.",
+        "es-ES": "<Obtención de ingredientes de cocina> se completó."
+    },
+    "oRudDQ": {
+        "en-US": "<Woman in the Illusion> completed.",
+        "pt-BR": "[Sereia Encantadora] - missão concluída.",
+        "es-ES": "<La mujer de la fantasía> se completó."
+    },
+    "ohudDQ": {
+        "en-US": "<Annoying Guardians> completed.",
+        "pt-BR": "[Deus dos Oceanos] - missão concluída.",
+        "es-ES": "<Centinelas molestos> se completó."
+    },
+    "oxudDQ": {
+        "en-US": "<Mummy and Blue Box> completed.",
+        "pt-BR": "[A Caixa da Múmia] - missão concluída.",
+        "es-ES": "<Momia y la caja azul> se completó."
+    },
+    "pBudDQ": {
+        "en-US": "<I Can't Sleep> completed.",
+        "pt-BR": "[Preciso Dormir!] - missão concluída.",
+        "es-ES": "<No puedo dormir> se completó."
+    },
+    "pRudDQ": {
+        "en-US": "<Defeat Isis> completed.",
+        "pt-BR": "[Metade Cobra] - missão concluída.",
+        "es-ES": "<Eliminación de Isis> se completó."
+    },
+    "phudDQ": {
+        "en-US": "<Workers of the Sphinx> completed.",
+        "pt-BR": "[Pedreiros] - missão concluída.",
+        "es-ES": "<Los trabajadores de la Esfinge> se completó."
+    },
+    "pxudDQ": {
+        "en-US": "<Secrets of the Sphinx> completed.",
+        "pt-BR": "[Oferenda aos Espíritos] - missão concluída.",
+        "es-ES": "<El secreto de la Esfinge> se completó."
+    },
+    "qBudDQ": {
+        "en-US": "<Those Blocking the Path Ahead> completed.",
+        "pt-BR": "[Areia Movediça] - missão concluída.",
+        "es-ES": "<Los que obstruyen el camino> se completó."
+    },
+    "qRudDQ": {
+        "en-US": "<Soul Purification Ritual> completed.",
+        "pt-BR": "[Ritual de Exorcismo] - missão concluída.",
+        "es-ES": "<Ritual de purificación de almas> se completó."
+    },
+    "qhudDQ": {
+        "en-US": "<Sorrow Soothing with a Drink> completed.",
+        "pt-BR": "[Enigma da Esfinge] - missão concluída.",
+        "es-ES": "<Tristeza consolada con una copa> se completó."
+    },
+    "qxudDQ": {
+        "en-US": "<Traces of Grand Magic> completed.",
+        "pt-BR": "[Cheiro de Magia] - missão concluída.",
+        "es-ES": "<Rastros de una gran magia> se completó."
+    },
+    "rBudDQ": {
+        "en-US": "<Hunt Hunterfly> completed.",
+        "pt-BR": "[Caça à Caçadora] - missão concluída.",
+        "es-ES": "<Cacería de Mosca Cazadora> se completó."
+    },
+    "rRudDQ": {
+        "en-US": "<Hunt Ghoul and Jakk> completed.",
+        "pt-BR": "[Magia Maligna] - missão concluída.",
+        "es-ES": "<Cacería de Necrófago y Jakk> se completó."
+    },
+    "rhudDQ": {
+        "en-US": "<Cute Ones> completed.",
+        "pt-BR": "[Amigos na Praia] - missão concluída.",
+        "es-ES": "<Criaturas adorables> se completó."
+    },
+    "rxudDQ": {
+        "en-US": "<Hard Ones> completed.",
+        "pt-BR": "[Duro como Pedra] - missão concluída.",
+        "es-ES": "<Criaturas duras> se completó."
+    },
+    "sBudDQ": {
+        "en-US": "<Gross Ones> completed.",
+        "pt-BR": "[A Cor Verde] - missão concluída.",
+        "es-ES": "<Criaturas repugnantes> se completó."
+    },
+    "sRudDQ": {
+        "en-US": "Settled a total of {0} completed requests.",
+        "pt-BR": "Você concluiu {0} missões.",
+        "es-ES": "Se procesaron un total de {0} encargos completados."
+    },
+    "shudDQ": {
+        "en-US": "All Available Requests",
+        "pt-BR": "Todas as Missões Disponíveis",
+        "es-ES": "Todos los encargos disponibles"
+    },
+    "sxudDQ": {
+        "en-US": "Level 40-49 Requests",
+        "pt-BR": "Missões de nível 40 a 49",
+        "es-ES": "40-49 Encargos de nivel"
+    },
+    "tBudDQ": {
+        "en-US": "Level 50-59 Requests",
+        "pt-BR": "Missões de nível 50 a 59",
+        "es-ES": "50-59 Encargos de nivel"
+    },
+    "tRudDQ": {
+        "en-US": "Level 60-69 Requests",
+        "pt-BR": "Missões de nível 60 a 69",
+        "es-ES": "60-69 Encargos de nivel"
+    },
+    "thudDQ": {
+        "en-US": "All available requests have been accepted.",
+        "pt-BR": "Você aceitou todas as missões disponíveis.",
+        "es-ES": "Se aceptaron todos los encargos disponibles."
+    },
+    "txudDQ": {
+        "en-US": "All available Level 40-49 requests have been accepted.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 40 a 49.",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 40-49 nivel."
+    },
+    "uBudDQ": {
+        "en-US": "All available Level 50-59 requests have been accepted.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 50 a 59.",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 50-59 nivel."
+    },
+    "uRudDQ": {
+        "en-US": "All available Level 60-69 requests have been accepted.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 60 a 69.",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 60-69 nivel."
+    },
+    "uhudDQ": {
+        "en-US": "[Accepting requests.]",
+        "pt-BR": "[Aceitando Missões]",
+        "es-ES": "[Recibiendo encargos.]"
+    },
+    "uxudDQ": {
+        "en-US": "Rescue Your Friend[40]",
+        "pt-BR": "[40] Resgatar Amigos",
+        "es-ES": "Rescata a tu amigo[40]"
+    },
+    "vBudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "vRudDQ": {
+        "en-US": "Eat Kukre Inside[40]",
+        "pt-BR": "[40] Barata do Mar",
+        "es-ES": "Comerse el hígado de Kukre[40]"
+    },
+    "vhudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "vxudDQ": {
+        "en-US": "The Economic Logic of Making It If It Doesn't Exist[40]",
+        "pt-BR": "[40] Tesouro do Mar",
+        "es-ES": "Si no existe, se fabrica[40]"
+    },
+    "wBudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "wRudDQ": {
+        "en-US": "Shipwreck 1st Floor Cleanup[40]",
+        "pt-BR": "[40] Limpando o Navio",
+        "es-ES": "Limpieza de 1 piso del Barco Naufragado[40]"
+    },
+    "whudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "wxudDQ": {
+        "en-US": "Shipwreck 2nd Floor Cleanup[40]",
+        "pt-BR": "[40] Navio Assombrado",
+        "es-ES": "Limpieza de 2 piso del Barco Naufragado[40]"
+    },
+    "xBudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "xRudDQ": {
+        "en-US": "Noble War[40]",
+        "pt-BR": "[40] Guerra na Praia",
+        "es-ES": "La noble guerra[40]"
+    },
+    "xhudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "xxudDQ": {
+        "en-US": "Shellfish Digging Experience[40]",
+        "pt-BR": "[40] Catador de Ostras",
+        "es-ES": "Experiencia de recolección de Molusco[40]"
+    },
+    "yBudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "yRudDQ": {
+        "en-US": "Annoying Orcs[40]",
+        "pt-BR": "[40] Orcs Infernais",
+        "es-ES": "Esos molestos orcos[40]"
+    },
+    "yhudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "yxudDQ": {
+        "en-US": "Greedy[40]",
+        "pt-BR": "[40] Ganancioso",
+        "es-ES": "Insaciable[40]"
+    },
+    "zBudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "zRudDQ": {
+        "en-US": "Orc, Annihilation Operation[40]",
+        "pt-BR": "[40] Família Orc",
+        "es-ES": "Orco, operación de exterminio total[40]"
+    },
+    "zhudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "zxudDQ": {
+        "en-US": "Fierce Knife Goblin Cleanup[40]",
+        "pt-BR": "[40] Goblins Ferozes",
+        "es-ES": "Eliminación de los Duende con Cuchillo feroces[40]"
+    },
+    "0BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "0RudDQ": {
+        "en-US": "Swift Knife Goblin Cleanup[40]",
+        "pt-BR": "[40] Goblins Velozes",
+        "es-ES": "Eliminación de los Duende con Cuchillo ágiles[40]"
+    },
+    "0hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "0xudDQ": {
+        "en-US": "Eggs and Grasshoppers[40]",
+        "pt-BR": "[40] Estranhos do Deserto",
+        "es-ES": "Huevos y saltamontes[40]"
+    },
+    "1BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "1RudDQ": {
+        "en-US": "Biology Is All About Collecting Samples[40]",
+        "pt-BR": "[40] Biologia Marinha",
+        "es-ES": "La toma de muestras es lo más difícil de la biología[40]"
+    },
+    "1hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "1xudDQ": {
+        "en-US": "Make Hay While the Sun Shines[40]",
+        "pt-BR": "[40] Amuleto de Caranguejo",
+        "es-ES": "Hay que remar cuando sube la marea[40]"
+    },
+    "2BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "2RudDQ": {
+        "en-US": "Mummy and Blue Box[40]",
+        "pt-BR": "[40] A Caixa da Múmia",
+        "es-ES": "Momia y la caja azul[40]"
+    },
+    "2hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "2xudDQ": {
+        "en-US": "Troublesome Ones[50]",
+        "pt-BR": "[50] Goblins Atrozes",
+        "es-ES": "Criaturas problemáticas[50]"
+    },
+    "3BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "3RudDQ": {
+        "en-US": "Consideration for a Friend[50]",
+        "pt-BR": "[50] Cuidando do Grupo",
+        "es-ES": "Consideración por un amigo[50]"
+    },
+    "3hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "3xudDQ": {
+        "en-US": "Sourcing Cooking Ingredients[50]",
+        "pt-BR": "[50] Ingredientes Culinários",
+        "es-ES": "Obtención de ingredientes de cocina[50]"
+    },
+    "4BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "4RudDQ": {
+        "en-US": "Woman in the Illusion[50]",
+        "pt-BR": "[50] Sereia Encantadora",
+        "es-ES": "La mujer de la fantasía[50]"
+    },
+    "4hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "4xudDQ": {
+        "en-US": "Annoying Guardians[50]",
+        "pt-BR": "[50] Deus dos Oceanos",
+        "es-ES": "Centinelas molestos[50]"
+    },
+    "5BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "5RudDQ": {
+        "en-US": "I Can't Sleep[50]",
+        "pt-BR": "[50] Preciso Dormir!",
+        "es-ES": "No puedo dormir[50]"
+    },
+    "5hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "5xudDQ": {
+        "en-US": "Those Blocking the Path Ahead[50]",
+        "pt-BR": "[50] Areia Movediça",
+        "es-ES": "Los que obstruyen el camino[50]"
+    },
+    "6BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "6RudDQ": {
+        "en-US": "Soul Purification Ritual[50]",
+        "pt-BR": "[50] Ritual de Exorcismo",
+        "es-ES": "Ritual de purificación de almas[50]"
+    },
+    "6hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "6xudDQ": {
+        "en-US": "Sorrow Soothing with a Drink[50]",
+        "pt-BR": "[50] Oferenda aos Espíritos",
+        "es-ES": "Tristeza consolada con una copa[50]"
+    },
+    "7BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "7RudDQ": {
+        "en-US": "Traces of Grand Magic[50]",
+        "pt-BR": "[50] Cheiro de Magia",
+        "es-ES": "Rastros de una gran magia[50]"
+    },
+    "7hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "7xudDQ": {
+        "en-US": "Hunt Hunterfly[55]",
+        "pt-BR": "[55] Caça à Caçadora",
+        "es-ES": "Cacería de Mosca Cazadora[55]"
+    },
+    "8BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "8RudDQ": {
+        "en-US": "Hunt Ghoul and Jakk[55]",
+        "pt-BR": "[55] Magia Maligna",
+        "es-ES": "Cacería de Necrófago y Jakk[55]"
+    },
+    "8hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "8xudDQ": {
+        "en-US": "Defeat Isis[60]",
+        "pt-BR": "[60] Metade Cobra",
+        "es-ES": "Eliminación de Isis[60]"
+    },
+    "9BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "9RudDQ": {
+        "en-US": "Workers of the Sphinx[60]",
+        "pt-BR": "[60] Pedreiros",
+        "es-ES": "Los trabajadores de la Esfinge[60]"
+    },
+    "9hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "9xudDQ": {
+        "en-US": "Secrets of the Sphinx[60]",
+        "pt-BR": "[60] Enigma da Esfinge",
+        "es-ES": "El secreto de la Esfinge[60]"
+    },
+    "+BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "+RudDQ": {
+        "en-US": "Cute Ones[60]",
+        "pt-BR": "[60] Amigos na Praia",
+        "es-ES": "Criaturas adorables[60]"
+    },
+    "+hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "+xudDQ": {
+        "en-US": "Hard Ones[60]",
+        "pt-BR": "[60] Duro como Pedra",
+        "es-ES": "Criaturas duras[60]"
+    },
+    "/BudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "/RudDQ": {
+        "en-US": "Gross Ones[60]",
+        "pt-BR": "[60] A Cor Verde",
+        "es-ES": "Criaturas repugnantes[60]"
+    },
+    "/hudDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar el encargo {0}"
+    },
+    "/xudDQ": {
+        "en-US": "{0}",
+        "pt-BR": "{0}",
+        "es-ES": "{0}"
+    },
+    "ABydDQ": {
+        "en-US": "^8C8C8CRescue Your Friend (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Resgatar Amigos^000000",
+        "es-ES": "^8C8C8CRescata a tu amigo(En curso)^000000"
+    },
+    "ARydDQ": {
+        "en-US": "^8C8C8CRescue Your Friend (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Resgatar Amigos^000000",
+        "es-ES": "^8C8C8CRescata a tu amigo(En espera)^000000"
+    },
+    "AhydDQ": {
+        "en-US": "^8C8C8CEat Kukre Inside (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Barata do Mar^000000",
+        "es-ES": "^8C8C8CComerse el hígado de Kukre(En curso)^000000"
+    },
+    "AxydDQ": {
+        "en-US": "^8C8C8CEat Kukre Inside (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Barata do Mar^000000",
+        "es-ES": "^8C8C8CComerse el hígado de Kukre(En espera)^000000"
+    },
+    "BBydDQ": {
+        "en-US": "^8C8C8CThe Economic Logic of Making It If It Doesn't Exist (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Tesouro do Mar^000000",
+        "es-ES": "^8C8C8CSi no existe, se fabrica(En curso)^000000"
+    },
+    "BRydDQ": {
+        "en-US": "^8C8C8CThe Economic Logic of Making It If It Doesn't Exist (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Tesouro do Mar^000000",
+        "es-ES": "^8C8C8CSi no existe, se fabrica(En espera)^000000"
+    },
+    "BhydDQ": {
+        "en-US": "^8C8C8CShipwreck 1st Floor Cleanup (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Limpando o Navio^000000",
+        "es-ES": "^8C8C8CLimpieza de 1 piso del Barco Naufragado(En curso)^000000"
+    },
+    "BxydDQ": {
+        "en-US": "^8C8C8CShipwreck 1st Floor Cleanup (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Limpando o Navio^000000",
+        "es-ES": "^8C8C8CLimpieza de 1 piso del Barco Naufragado(En espera)^000000"
+    },
+    "CBydDQ": {
+        "en-US": "^8C8C8CShipwreck 2nd Floor Cleanup (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Navio Assombrado^000000",
+        "es-ES": "^8C8C8CLimpieza de 2 piso del Barco Naufragado(En curso)^000000"
+    },
+    "CRydDQ": {
+        "en-US": "^8C8C8CShipwreck 2nd Floor Cleanup (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Navio Assombrado^000000",
+        "es-ES": "^8C8C8CLimpieza de 2 piso del Barco Naufragado(En espera)^000000"
+    },
+    "ChydDQ": {
+        "en-US": "^8C8C8CNoble War (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Guerra na Praia^000000",
+        "es-ES": "^8C8C8CLa noble guerra(En curso)^000000"
+    },
+    "CxydDQ": {
+        "en-US": "^8C8C8CNoble War (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Guerra na Praia^000000",
+        "es-ES": "^8C8C8CLa noble guerra(En espera)^000000"
+    },
+    "DBydDQ": {
+        "en-US": "^8C8C8CShellfish Digging Experience (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Catador de Ostras^000000",
+        "es-ES": "^8C8C8CExperiencia de recolección de Molusco(En curso)^000000"
+    },
+    "DRydDQ": {
+        "en-US": "^8C8C8CShellfish Digging Experience (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Catador de Ostras^000000",
+        "es-ES": "^8C8C8CExperiencia de recolección de Molusco(En espera)^000000"
+    },
+    "DhydDQ": {
+        "en-US": "^8C8C8CAnnoying Orcs (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Orcs Infernais^000000",
+        "es-ES": "^8C8C8CEsos molestos orcos(En curso)^000000"
+    },
+    "DxydDQ": {
+        "en-US": "^8C8C8CAnnoying Orcs (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Orcs Infernais^000000",
+        "es-ES": "^8C8C8CEsos molestos orcos(En espera)^000000"
+    },
+    "EBydDQ": {
+        "en-US": "^8C8C8CGreedy (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Ganancioso^000000",
+        "es-ES": "^8C8C8CInsaciable(En curso)^000000"
+    },
+    "ERydDQ": {
+        "en-US": "^8C8C8CGreedy (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Ganancioso^000000",
+        "es-ES": "^8C8C8CInsaciable(En espera)^000000"
+    },
+    "EhydDQ": {
+        "en-US": "^8C8C8COrc, Annihilation Operation (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Família Orc^000000",
+        "es-ES": "^8C8C8COrco, operación de exterminio total(En curso)^000000"
+    },
+    "ExydDQ": {
+        "en-US": "^8C8C8COrc, Annihilation Operation (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Família Orc^000000",
+        "es-ES": "^8C8C8COrco, operación de exterminio total(En espera)^000000"
+    },
+    "FBydDQ": {
+        "en-US": "^8C8C8CFierce Knife Goblin Cleanup (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Goblins Ferozes^000000",
+        "es-ES": "^8C8C8CEliminación de los Duende con Cuchillo feroces(En curso)^000000"
+    },
+    "FRydDQ": {
+        "en-US": "^8C8C8CFierce Knife Goblin Cleanup (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Goblins Ferozes^000000",
+        "es-ES": "^8C8C8CEliminación de los Duende con Cuchillo feroces(En espera)^000000"
+    },
+    "FhydDQ": {
+        "en-US": "^8C8C8CSwift Knife Goblin Cleanup (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Goblins Velozes^000000",
+        "es-ES": "^8C8C8CEliminación de los Duende con Cuchillo ágiles(En curso)^000000"
+    },
+    "FxydDQ": {
+        "en-US": "^8C8C8CSwift Knife Goblin Cleanup (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Goblins Velozes^000000",
+        "es-ES": "^8C8C8CEliminación de los Duende con Cuchillo ágiles(En espera)^000000"
+    },
+    "GBydDQ": {
+        "en-US": "^8C8C8CTroublesome Ones (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Goblins Atrozes^000000",
+        "es-ES": "^8C8C8CCriaturas problemáticas(En curso)^000000"
+    },
+    "GRydDQ": {
+        "en-US": "^8C8C8CTroublesome Ones (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Goblins Atrozes^000000",
+        "es-ES": "^8C8C8CCriaturas problemáticas(En espera)^000000"
+    },
+    "GhydDQ": {
+        "en-US": "^8C8C8CEggs and Grasshoppers (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Estranhos do Deserto^000000",
+        "es-ES": "^8C8C8CHuevos y saltamontes(En curso)^000000"
+    },
+    "GxydDQ": {
+        "en-US": "^8C8C8CEggs and Grasshoppers (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Estranhos do Deserto^000000",
+        "es-ES": "^8C8C8CHuevos y saltamontes(En espera)^000000"
+    },
+    "HBydDQ": {
+        "en-US": "^8C8C8CBiology Is All About Collecting Samples (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Biologia Marinha^000000",
+        "es-ES": "^8C8C8CLa toma de muestras es lo más difícil de la biología(En curso)^000000"
+    },
+    "HRydDQ": {
+        "en-US": "^8C8C8CBiology Is All About Collecting Samples (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Biologia Marinha^000000",
+        "es-ES": "^8C8C8CLa toma de muestras es lo más difícil de la biología(En espera)^000000"
+    },
+    "HhydDQ": {
+        "en-US": "^8C8C8CMake Hay While the Sun Shines (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Amuleto de Caranguejo^000000",
+        "es-ES": "^8C8C8CHay que remar cuando sube la marea(En curso)^000000"
+    },
+    "HxydDQ": {
+        "en-US": "^8C8C8CMake Hay While the Sun Shines (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Amuleto de Caranguejo^000000",
+        "es-ES": "^8C8C8CHay que remar cuando sube la marea(En espera)^000000"
+    },
+    "IBydDQ": {
+        "en-US": "^8C8C8CConsideration for a Friend (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cuidando do Grupo^000000",
+        "es-ES": "^8C8C8CConsideración por un amigo(En curso)^000000"
+    },
+    "IRydDQ": {
+        "en-US": "^8C8C8CConsideration for a Friend (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cuidando do Grupo^000000",
+        "es-ES": "^8C8C8CConsideración por un amigo(En espera)^000000"
+    },
+    "IhydDQ": {
+        "en-US": "^8C8C8CSourcing Cooking Ingredients (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Ingredientes Culinários^000000",
+        "es-ES": "^8C8C8CObtención de ingredientes de cocina(En curso)^000000"
+    },
+    "IxydDQ": {
+        "en-US": "^8C8C8CSourcing Cooking Ingredients (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Ingredientes Culinários^000000",
+        "es-ES": "^8C8C8CObtención de ingredientes de cocina(En espera)^000000"
+    },
+    "JBydDQ": {
+        "en-US": "^8C8C8CWoman in the Illusion (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Sereia Encantadora^000000",
+        "es-ES": "^8C8C8CLa mujer de la fantasía(En curso)^000000"
+    },
+    "JRydDQ": {
+        "en-US": "^8C8C8CWoman in the Illusion (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Sereia Encantadora^000000",
+        "es-ES": "^8C8C8CLa mujer de la fantasía(En espera)^000000"
+    },
+    "JhydDQ": {
+        "en-US": "^8C8C8CAnnoying Guardians (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Deus dos Oceanos^000000",
+        "es-ES": "^8C8C8CCentinelas molestos(En curso)^000000"
+    },
+    "JxydDQ": {
+        "en-US": "^8C8C8CAnnoying Guardians (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Deus dos Oceanos^000000",
+        "es-ES": "^8C8C8CCentinelas molestos(En espera)^000000"
+    },
+    "KBydDQ": {
+        "en-US": "^8C8C8CMummy and Blue Box (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) A Caixa da Múmia^000000",
+        "es-ES": "^8C8C8CMomia y la caja azul(En curso)^000000"
+    },
+    "KRydDQ": {
+        "en-US": "^8C8C8CMummy and Blue Box (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) A Caixa da Múmia^000000",
+        "es-ES": "^8C8C8CMomia y la caja azul(En espera)^000000"
+    },
+    "KhydDQ": {
+        "en-US": "^8C8C8CI Can't Sleep (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Preciso Dormir!^000000",
+        "es-ES": "^8C8C8CNo puedo dormir(En curso)^000000"
+    },
+    "KxydDQ": {
+        "en-US": "^8C8C8CI Can't Sleep (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Preciso Dormir!^000000",
+        "es-ES": "^8C8C8CNo puedo dormir(En espera)^000000"
+    },
+    "LBydDQ": {
+        "en-US": "^8C8C8CDefeat Isis (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Metade Cobra^000000",
+        "es-ES": "^8C8C8CEliminación de Isis(En curso)^000000"
+    },
+    "LRydDQ": {
+        "en-US": "^8C8C8CDefeat Isis (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Metade Cobra^000000",
+        "es-ES": "^8C8C8CEliminación de Isis(En espera)^000000"
+    },
+    "LhydDQ": {
+        "en-US": "^8C8C8CWorkers of the Sphinx (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pedreiros^000000",
+        "es-ES": "^8C8C8CLos trabajadores de la Esfinge(En curso)^000000"
+    },
+    "LxydDQ": {
+        "en-US": "^8C8C8CWorkers of the Sphinx (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pedreiros^000000",
+        "es-ES": "^8C8C8CLos trabajadores de la Esfinge(En espera)^000000"
+    },
+    "MBydDQ": {
+        "en-US": "^8C8C8CSecrets of the Sphinx (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Enigma da Esfinge^000000",
+        "es-ES": "^8C8C8CEl secreto de la Esfinge(En curso)^000000"
+    },
+    "MRydDQ": {
+        "en-US": "^8C8C8CSecrets of the Sphinx (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Enigma da Esfinge^000000",
+        "es-ES": "^8C8C8CEl secreto de la Esfinge(En espera)^000000"
+    },
+    "MhydDQ": {
+        "en-US": "^8C8C8CThose Blocking the Path Ahead (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Areia Movediça^000000",
+        "es-ES": "^8C8C8CLos que obstruyen el camino(En curso)^000000"
+    },
+    "MxydDQ": {
+        "en-US": "^8C8C8CThose Blocking the Path Ahead (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Areia Movediça^000000",
+        "es-ES": "^8C8C8CLos que obstruyen el camino(En espera)^000000"
+    },
+    "NBydDQ": {
+        "en-US": "^8C8C8CSoul Purification Ritual (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Ritual de Exorcismo^000000",
+        "es-ES": "^8C8C8CRitual de purificación de almas(En curso)^000000"
+    },
+    "NRydDQ": {
+        "en-US": "^8C8C8CSoul Purification Ritual (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Ritual de Exorcismo^000000",
+        "es-ES": "^8C8C8CRitual de purificación de almas(En espera)^000000"
+    },
+    "NhydDQ": {
+        "en-US": "^8C8C8CSorrow Soothing with a Drink (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Oferenda aos Espíritos^000000",
+        "es-ES": "^8C8C8CTristeza consolada con una copa(En curso)^000000"
+    },
+    "NxydDQ": {
+        "en-US": "^8C8C8CSorrow Soothing with a Drink (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Oferenda aos Espíritos^000000",
+        "es-ES": "^8C8C8CTristeza consolada con una copa(En espera)^000000"
+    },
+    "OBydDQ": {
+        "en-US": "^8C8C8CTraces of Grand Magic (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cheiro de Magia^000000",
+        "es-ES": "^8C8C8CRastros de una gran magia(En curso)^000000"
+    },
+    "ORydDQ": {
+        "en-US": "^8C8C8CTraces of Grand Magic (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cheiro de Magia^000000",
+        "es-ES": "^8C8C8CRastros de una gran magia(En espera)^000000"
+    },
+    "OhydDQ": {
+        "en-US": "^8C8C8CHunt Hunterfly (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Caça à Caçadora^000000",
+        "es-ES": "^8C8C8CCacería de Mosca Cazadora(En curso)^000000"
+    },
+    "OxydDQ": {
+        "en-US": "^8C8C8CHunt Hunterfly (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Caça à Caçadora^000000",
+        "es-ES": "^8C8C8CCacería de Mosca Cazadora(En espera)^000000"
+    },
+    "PBydDQ": {
+        "en-US": "^8C8C8CHunt Ghoul and Jakk (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Magia Maligna^000000",
+        "es-ES": "^8C8C8CCacería de Necrófago y Jakk(En curso)^000000"
+    },
+    "PRydDQ": {
+        "en-US": "^8C8C8CHunt Ghoul and Jakk (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Magia Maligna^000000",
+        "es-ES": "^8C8C8CCacería de Necrófago y Jakk(En espera)^000000"
+    },
+    "PhydDQ": {
+        "en-US": "^8C8C8CCute Ones (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Amigos na Praia^000000",
+        "es-ES": "^8C8C8CCriaturas adorables(En curso)^000000"
+    },
+    "PxydDQ": {
+        "en-US": "^8C8C8CCute Ones (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Amigos na Praia^000000",
+        "es-ES": "^8C8C8CCriaturas adorables(En espera)^000000"
+    },
+    "QBydDQ": {
+        "en-US": "^8C8C8CHard Ones (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Duro como Pedra^000000",
+        "es-ES": "^8C8C8CCriaturas duras(En curso)^000000"
+    },
+    "QRydDQ": {
+        "en-US": "^8C8C8CHard Ones (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Duro como Pedra^000000",
+        "es-ES": "^8C8C8CCriaturas duras(En espera)^000000"
+    },
+    "QhydDQ": {
+        "en-US": "^8C8C8CGross Ones (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) A Cor Verde^000000",
+        "es-ES": "^8C8C8CCriaturas repugnantes(En curso)^000000"
+    },
+    "QxydDQ": {
+        "en-US": "^8C8C8CGross Ones (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) A Cor Verde^000000",
+        "es-ES": "^8C8C8CCriaturas repugnantes(En espera)^000000"
+    },
+    "RBydDQ": {
+        "en-US": "Shipwreck[40]",
+        "pt-BR": "[40] Navio Fantasma",
+        "es-ES": "Barco Naufragado[40]"
+    },
+    "RRydDQ": {
+        "en-US": "Hugel[40]",
+        "pt-BR": "[40] Hugel",
+        "es-ES": "Hugel[40]"
+    },
+    "RhydDQ": {
+        "en-US": "Orc Village[40-50]",
+        "pt-BR": "[40-50] Vila dos Orcs",
+        "es-ES": "Aldea de los orcos[40-50]"
+    },
+    "RxydDQ": {
+        "en-US": "Izlude[40-50]",
+        "pt-BR": "[40-50] Izlude",
+        "es-ES": "Izlude[40-50]"
+    },
+    "SBydDQ": {
+        "en-US": "Morocc[40-60]",
+        "pt-BR": "[40-60] Morroc",
+        "es-ES": "Morroc[40-60]"
+    },
+    "SRydDQ": {
+        "en-US": "Payon Dungeon[50]",
+        "pt-BR": "[50] Caverna de Payon",
+        "es-ES": "Mazmorra de Payon[50]"
+    },
+    "ShydDQ": {
+        "en-US": "Geffen Underground[55]",
+        "pt-BR": "[55] Torre de Geffen",
+        "es-ES": "Subterráneo de Geffen[55]"
+    },
+    "SxydDQ": {
+        "en-US": "Comodo[60]",
+        "pt-BR": "[60] Comodo",
+        "es-ES": "Comodo[60]"
+    },
+    "TBydDQ": {
+        "en-US": "Quit.",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
+    },
+    "TRydDQ": {
+        "en-US": "You cannot proceed with this request because your level is too low.",
+        "pt-BR": "Você não tem nível suficiente para essa missão.",
+        "es-ES": "No tienes el nivel suficiente para realizar este encargo."
+    },
+    "ThydDQ": {
+        "en-US": "This is a request you are currently undertaking.",
+        "pt-BR": "Esta missão já está em andamento.",
+        "es-ES": "Este encargo está en curso."
+    },
+    "TxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Shipwreck 1st Floor\nTarget: Defeat Pirate Skeleton 20\nReward: Exp 8600, Jexp 9600",
+        "pt-BR": "[Missão Completa]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 20 Esqueletos Piratas\nRecompensa: EXP base 8.600, EXP classe 9.600",
+        "es-ES": "[Encargo completado]\nLugar: Barco Naufragado, piso 1\nObjetivo: Derrotar a Calavera Pirata 20 veces\nRecompensa: Exp 8600, Jexp 9600"
+    },
+    "UBydDQ": {
+        "en-US": "You have already completed this request.",
+        "pt-BR": "Essa missão já foi completada.",
+        "es-ES": "Este encargo ya fue realizado."
+    },
+    "URydDQ": {
+        "en-US": "[Timothy's Request North of Alberta]\nLocation: Shipwreck 1st Floor\nTarget: Defeat Pirate Skeleton 20\nReward: Exp 8600, Jexp 9600",
+        "pt-BR": "[Solicitação]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 20 Esqueletos Piratas\nRecompensa: EXP base 8.600, EXP classe 9.600",
+        "es-ES": "[Encargo de Timothy, al norte de Alberta]\nLugar: Barco Naufragado, piso 1\nObjetivo: Derrotar a Calavera Pirata 20 veces\nRecompensa: Exp 8600, Jexp 9600"
+    },
+    "UhydDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar missão.",
+        "es-ES": "Aceptar."
+    },
+    "UxydDQ": {
+        "en-US": "View another.",
+        "pt-BR": "Ver outras missões.",
+        "es-ES": "Ver otro."
+    },
+    "VBydDQ": {
+        "en-US": "Timothy's Request North of Alberta\n^4D4DFF<Rescue Your Friend>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Resgatar Amigos]^000000 foi aceita.",
+        "es-ES": "Encargo de Timothy, al norte de Alberta\nHas aceptado la misión ^4D4DFF<Rescata a tu amigo>^000000."
+    },
+    "VRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Shipwreck 1st Floor\nTarget: Defeat Kukre 10\nReward: Exp 6500, Jexp 6500",
+        "pt-BR": "[Missão Completa]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 10 Kukres\nRecompensa: EXP base 6.500, EXP classe 6.500",
+        "es-ES": "[Encargo completado]\nLugar: Barco Naufragado, piso 1\nObjetivo: Derrotar a Kukre 10 veces\nRecompensa: Exp 6500, Jexp 6500"
+    },
+    "VhydDQ": {
+        "en-US": "[Jonda Promoter's Request Inside Alberta Building]\nLocation: Shipwreck 1st Floor\nTarget: Defeat Kukre 10\nReward: Exp 6500, Jexp 6500",
+        "pt-BR": "[Solicitação]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 10 Kukres\nRecompensa: EXP base 6.500, EXP classe 6.500",
+        "es-ES": "[Encargo del promotor de Zonda dentro del edificio de Alberta]\nLugar: Barco Naufragado, piso 1\nObjetivo: Derrotar a Kukre 10 veces\nRecompensa: Exp 6500, Jexp 6500"
+    },
+    "VxydDQ": {
+        "en-US": "Jonda Promoter's Request Inside Alberta Building\n^4D4DFF<Eat Kukre Inside>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Barata do Mar]^000000 foi aceita.",
+        "es-ES": "Encargo del promotor de Zonda dentro del edificio de Alberta\nHas aceptado la misión ^4D4DFF<Comerse el hígado de Kukre>^000000."
+    },
+    "WBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Shipwreck 1st Floor\nTarget: Hide Old Coin 10\nReward: Exp 7000, Jexp 7000",
+        "pt-BR": "[Missão Completa]\nLocal: Navio Fantasma 1º piso\nObjetivo: Esconda 10 Dobrões\nRecompensa: EXP base 7.000, EXP classe 7.000",
+        "es-ES": "[Encargo completado]\nLugar: Barco Naufragado, piso 1\nObjetivo: Ocultar Moneda Antigua 10\nRecompensa: Exp 7000, Jexp 7000"
+    },
+    "WRydDQ": {
+        "en-US": "This is a request you are currently undertaking.\nIf you run out of coins during the request by selling or losing them, you can receive additional coins from the Jonda Promoter inside the beauty salon in central Alberta.",
+        "pt-BR": "A missão já está em andamento.\nSe você perder algum Dobrão, procure pela Funcionária Zonda no Salão de Beleza em Alberta.",
+        "es-ES": "Este encargo está en curso.\nSi durante el encargo no tienes suficientes monedas por haberlas vendido o perdido, puedes recibir monedas adicionales del promotor de Zonda dentro del salón de belleza del centro de Alberta."
+    },
+    "WhydDQ": {
+        "en-US": "[Jonda Promoter's Request Inside Alberta Building]\nLocation: Shipwreck 1st Floor\nTarget: Hide Old Coin 10\nReward: Exp 7000, Jexp 7000",
+        "pt-BR": "[Solicitação]\nLocal: Navio Fantasma 1º piso\nObjetivo: Esconda 10 Dobrões\nRecompensa: EXP base 7.000, EXP classe 7.000",
+        "es-ES": "[Encargo del promotor de Zonda dentro del edificio de Alberta]\nLugar: Barco Naufragado, piso 1\nObjetivo: Ocultar Moneda Antigua 10\nRecompensa: Exp 7000, Jexp 7000"
+    },
+    "WxydDQ": {
+        "en-US": "Jonda Promoter's Request Inside Alberta Building\n^4D4DFF<The Economic Logic of Making It If It Doesn't Exist>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Tesouro do Mar]^000000 foi aceita.",
+        "es-ES": "Encargo del promotor de Zonda dentro del edificio de Alberta\nHas aceptado la misión ^4D4DFF<Si no existe, se fabrica>^000000."
+    },
+    "XBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Shipwreck 1st Floor\nTarget: Defeat Hydra 10, Skeleton Bone 10, Insect Peeling 5, Collect Tentacle 5\nReward: Exp 9600, Jexp 8280",
+        "pt-BR": "[Missão Completa]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 10 Hidras e coletar 10 Ossos, 5 Peles de Verme e 5 Tentáculos\nRecompensa: EXP base 9.600, EXP classe 8.280",
+        "es-ES": "[Encargo completado]\nLugar: Barco Naufragado, piso 1\nObjetivo: Derrotar a Hidra 10 veces, recolectar Hueso de esqueleto 10, Caparazón de insecto 5, Tentáculo 5 unidades\nRecompensa: Exp 9600, Jexp 8280"
+    },
+    "XRydDQ": {
+        "en-US": "[Jonda Promoter's Request Inside Alberta Building]\nLocation: Shipwreck 1st Floor\nTarget: Defeat Hydra 10, Skeleton Bone 10, Insect Peeling 5, Collect Tentacle 5\nReward: Exp 9600, Jexp 8280",
+        "pt-BR": "[Solicitação]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 10 Hidras e coletar 10 Ossos, 5 Peles de Verme e 5 Tentáculos\nRecompensa: EXP base 9.600, EXP classe 8.280",
+        "es-ES": "[Encargo del promotor de Zonda dentro del edificio de Alberta]\nLugar: Barco Naufragado, piso 1\nObjetivo: Derrotar a Hidra 10 veces, recolectar Hueso de esqueleto 10, Caparazón de insecto 5, Tentáculo 5 unidades\nRecompensa: Exp 9600, Jexp 8280"
+    },
+    "XhydDQ": {
+        "en-US": "Jonda Promoter's Request Inside Alberta Building\n^4D4DFF<Shipwreck 1st Floor Cleanup>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Limpando o Navio]^000000 foi aceita.",
+        "es-ES": "Encargo del promotor de Zonda dentro del edificio de Alberta\nHas aceptado la misión ^4D4DFF<Limpieza de 1 piso del Barco Naufragado>^000000."
+    },
+    "XxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Shipwreck 2nd Floor\nTarget: Defeat Whisper 10, Swift Sailor Skull 1\nReward: Exp 11800, Jexp 9600",
+        "pt-BR": "[Missão Completa]\nLocal: Navio Fantasma 2º piso\nObjetivo: Caçar 10 Sussurros e 1 Marinheiro Ágil\nRecompensa: EXP base 11.800, EXP classe 9.600",
+        "es-ES": "[Encargo completado]\nLugar: Barco Naufragado, piso 2\nObjetivo: Derrotar a Susurro 10, Cráneo de Marinero Veloz 1\nRecompensa: Exp 11800, Jexp 9600"
+    },
+    "YBydDQ": {
+        "en-US": "[Jonda Promoter's Request Inside Alberta Building]\nLocation: Shipwreck 2nd Floor\nTarget: Defeat Whisper 10, Swift Sailor Skull 1\nReward: Exp 11800, Jexp 9600",
+        "pt-BR": "[Solicitação]\nLocal: Navio Fantasma 2º piso\nObjetivo: Caçar 10 Sussurros e 1 Marinheiro Ágil\nRecompensa: EXP base 11.800, EXP classe 9.600",
+        "es-ES": "[Encargo del promotor de Zonda dentro del edificio de Alberta]\nLugar: Barco Naufragado, piso 2\nObjetivo: Derrotar a Susurro 10, Cráneo de Marinero Veloz 1\nRecompensa: Exp 11800, Jexp 9600"
+    },
+    "YRydDQ": {
+        "en-US": "Jonda Promoter's Request Inside Alberta Building\n^4D4DFF<Shipwreck 2nd Floor Cleanup>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Navio Assombrado]^000000 foi aceita.",
+        "es-ES": "Encargo del promotor de Zonda dentro del edificio de Alberta\nHas aceptado la misión ^4D4DFF<Limpieza de 2 piso del Barco Naufragado>^000000."
+    },
+    "YhydDQ": {
+        "en-US": "Quit,",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar,"
+    },
+    "YxydDQ": {
+        "en-US": "[Request Complete]\nLocation: South Hugel Field\nTarget: Defeat Ester 10, Crab 10\nReward: Exp 8400, Jexp 8380",
+        "pt-BR": "[Missão Completa]\nLocal: Hugel\nObjetivo: Caçar 10 Estrelas do Mar e 10 Caranguejos\nRecompensa: EXP base 8.400, EXP classe 8.380",
+        "es-ES": "[Encargo completado]\nLugar: Campo al sur de Hugel\nObjetivo: Derrotar a Aster 10, Cangrejo 10\nRecompensa: Exp 8400, Jexp 8380"
+    },
+    "ZBydDQ": {
+        "en-US": "[Hugel Fisherman Ain's Request]\nLocation: South Hugel Field\nTarget: Defeat Ester 10, Crab 10\nReward: Exp 8400, Jexp 8380",
+        "pt-BR": "[Solicitação]\nLocal: Hugel\nObjetivo: Caçar 10 Estrelas do Mar e 10 Caranguejos\nRecompensa: EXP base 8.400, EXP classe 8.380",
+        "es-ES": "[Encargo del pescador Ain de Hugel]\nLugar: Campo al sur de Hugel\nObjetivo: Derrotar a Aster 10, Cangrejo 10\nRecompensa: Exp 8400, Jexp 8380"
+    },
+    "ZRydDQ": {
+        "en-US": "Hugel Fisherman Ain's Request\n^4D4DFF<Noble War>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Guerra na Praia]^000000 foi aceita.",
+        "es-ES": "Encargo del pescador Ain de Hugel\nHas aceptado la misión ^4D4DFF<La noble guerra>^000000."
+    },
+    "ZhydDQ": {
+        "en-US": "[Request Complete]\nLocation: South Hugel Field\nTarget: Defeat Shellfish 10, Collect Clam Flesh 5\nReward: Exp 8400, Jexp 8380",
+        "pt-BR": "[Missão Completa]\nLocal: Hugel\nObjetivo: Caçar 10 Moluscos e coletar 5 Carnes de Ostra\nRecompensa: EXP base 8.400, EXP classe 8.380",
+        "es-ES": "[Encargo completado]\nLugar: Campo al sur de Hugel\nObjetivo: Derrotar a Molusco 10, recolectar Carne de almeja 5 unidades\nRecompensa: Exp 8400, Jexp 8380"
+    },
+    "ZxydDQ": {
+        "en-US": "[Hugel Fisherman Ain's Request]\nLocation: South Hugel Field\nTarget: Defeat Shellfish 10, Collect Clam Flesh 5\nReward: Exp 8400, Jexp 8380",
+        "pt-BR": "[Solicitação]\nLocal: Hugel\nObjetivo: Caçar 10 Moluscos e coletar 5 Carnes de Ostra\nRecompensa: EXP base 8.400, EXP classe 8.380",
+        "es-ES": "[Encargo del pescador Ain de Hugel]\nLugar: Campo al sur de Hugel\nObjetivo: Derrotar a Molusco 10, recolectar carne de almeja 5 unidades\nRecompensa: Exp 8400, Jexp 8380"
+    },
+    "aBydDQ": {
+        "en-US": "Hugel Fisherman Ain's Request\n^4D4DFF<Shellfish Digging Experience>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Catador de Ostras]^000000 foi aceita.",
+        "es-ES": "Encargo del pescador Ain de Hugel\nHas aceptado la misión ^4D4DFF<Experiencia de recolección de Molusco>^000000."
+    },
+    "aRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Orc Dungeon 1st Floor\nTarget: Defeat Orc Skeleton 20, Orc Zombie 20\nReward: Exp 28700, Jexp 27400",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna Orc 1º piso\nObjetivo: Caçar 20 Orcs Esqueletos e 20 Orcs Zumbis\nRecompensa: EXP base 28.700, EXP classe 27.400",
+        "es-ES": "[Encargo completado]\nLugar: Mazmorra de los orcos, piso 1\nObjetivo: Derrotar a Orco Esqueleto 20, Orco Zombi 20\nRecompensa: Exp 28700, Jexp 27400"
+    },
+    "ahydDQ": {
+        "en-US": "[Orc Dungeon 1st Floor Expedition Leader's Request]\nLocation: Orc Dungeon 1st Floor\nTarget: Defeat Orc Skeleton 20, Orc Zombie 20\nReward: Exp 28700, Jexp 27400",
+        "pt-BR": "[Solicitação]\nLocal: Caverna Orc 1º piso\nObjetivo: Caçar 20 Orcs Esqueletos e 20 Orcs Zumbis\nRecompensa: EXP base 28.700, EXP classe 27.400",
+        "es-ES": "[Encargo del jefe del escuadrón de exterminio de la Mazmorra de los orcos, piso 1]\nLugar: Mazmorra de los orcos, piso 1\nObjetivo: Derrotar a Orco Esqueleto 20, Orco Zombi 20\nRecompensa: Exp 28700, Jexp 27400"
+    },
+    "axydDQ": {
+        "en-US": "Orc Dungeon 1st Floor Expedition Leader's Request\n^4D4DFF<Annoying Orcs>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Orcs Infernais]^000000 foi aceita.",
+        "es-ES": "Encargo del jefe del escuadrón de exterminio de la Mazmorra de los orcos, piso 1\nHas aceptado la misión ^4D4DFF<Esos molestos orcos>^000000."
+    },
+    "bBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Orc Dungeon 2nd Floor\nTarget: Defeat Zenorc 20\nReward: Exp 16000, Jexp 12000",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna Orc 2º piso\nObjetivo: Caçar 20 Zenorcs\nRecompensa: EXP base 16.000, EXP classe 12.000",
+        "es-ES": "[Encargo completado]\nLugar: Mazmorra de los orcos, piso 2\nObjetivo: Derrotar a Zenorc 20\nRecompensa: Exp 16000, Jexp 12000"
+    },
+    "bRydDQ": {
+        "en-US": "[Orc Dungeon 2nd Floor Expedition Leader's Request]\nLocation: Orc Dungeon 2nd Floor\nTarget: Defeat Zenorc 20\nReward: Exp 16000, Jexp 12000",
+        "pt-BR": "[Solicitação]\nLocal: Caverna Orc 2º piso\nObjetivo: Caçar 20 Zenorcs\nRecompensa: EXP base 16.000, EXP classe 12.000",
+        "es-ES": "[Encargo del jefe del escuadrón de exterminio de la Mazmorra de los orcos, piso 2]\nLugar: Mazmorra de los orcos, piso 2\nObjetivo: Derrotar a Zenorc 20\nRecompensa: Exp 16000, Jexp 12000"
+    },
+    "bhydDQ": {
+        "en-US": "Orc Dungeon 2F Subjugation Unit Leader's Request\n^4D4DFF<Greedy>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Ganancioso]^000000 foi aceita.",
+        "es-ES": "Encargo del jefe del escuadrón de exterminio de la Mazmorra de los orcos, piso 2\nHas aceptado la misión ^4D4DFF<Insaciable>^000000."
+    },
+    "bxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Orc Village\nTarget: Orc Warrior15, Orc Lady 15, Orc Baby 10 Defeated\nReward: Exp 23520, Jexp 24300",
+        "pt-BR": "[Missão Completa]\nLocal: Vila dos Orcs\nObjetivo: Caçar 15 Guerreiros Orc, 15 Senhoras Orc e 10 Filhotes de Orc\nRecompensa: EXP base 23.520, EXP classe 24.300",
+        "es-ES": "[Encargo completado]\nLugar: Aldea de los orcos\nObjetivo: Derrotar a Guerrero orco15, Dama Orco 15, Bebé Orco 10\nRecompensa: Exp 23520, Jexp 24300"
+    },
+    "cBydDQ": {
+        "en-US": "[Orc Village Subjugation Unit Leader's Request]\nLocation: Orc Village\nTarget: Orc Warrior15, Orc Lady 15, Orc Baby 10 Defeated\nReward: Exp 23520, Jexp 24300",
+        "pt-BR": "[Solicitação]\nLocal: Vila dos Orcs\nObjetivo: Caçar 15 Guerreiros Orc, 15 Senhoras Orc e 10 Filhotes de Orc\nRecompensa: EXP base 23.520, EXP classe 24.300",
+        "es-ES": "[Encargo del jefe del escuadrón de exterminio de la Aldea de los orcos]\nLugar: Aldea de los orcos\nObjetivo: Derrotar a Guerrero orco15, Dama Orco 15, Bebé Orco 10\nRecompensa: Exp 23520, Jexp 24300"
+    },
+    "cRydDQ": {
+        "en-US": "Orc Village Subjugation Unit Leader's Request\n^4D4DFF<Orc, Total Annihilation Operation>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Família Orc]^000000 foi aceita.",
+        "es-ES": "Encargo del jefe del escuadrón de exterminio de la Aldea de los orcos\nHas aceptado la misión ^4D4DFF<Orco, operación de exterminio total>^000000."
+    },
+    "chydDQ": {
+        "en-US": "[Request Complete]\nLocation: South Field of Orc Village\nTarget: Axe Goblin 10, Flail Knife Goblin 10 Defeated\nReward: Exp 13000, Jexp 8200",
+        "pt-BR": "[Missão Completa]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Machado e 10 Goblins de Mangual\nRecompensa: EXP base 13.000, EXP classe 8.200",
+        "es-ES": "[Encargo completado]\nLugar: Campo al sur de la Aldea de los orcos\nObjetivo: Derrotar a Duende con hacha 10, Duende con Cuchillo con mayal 10\nRecompensa: Exp 13000, Jexp 8200"
+    },
+    "cxydDQ": {
+        "en-US": "[Orc Village South Field Subjugation Unit Vice Leader's Request]\nLocation: South Field of Orc Village\nTarget: Axe Goblin 10, Flail Knife Goblin 10 Defeated\nReward: Exp 13000, Jexp 8200",
+        "pt-BR": "[Solicitação]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Machado e 10 Goblins de Mangual\nRecompensa: EXP base 13.000, EXP classe 8.200",
+        "es-ES": "[Encargo del subjefe del escuadrón de exterminio del campo al sur de la Aldea de los orcos]\nLugar: Campo al sur de la Aldea de los orcos\nObjetivo: Derrotar a Duende con hacha 10, Duende con Cuchillo con mayal 10\nRecompensa: Exp 13000, Jexp 8200"
+    },
+    "dBydDQ": {
+        "en-US": "Orc Village South Field Subjugation Unit Vice Leader's Request\n^4D4DFF<Savage Knife Goblin Cleanup>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Goblins Ferozes]^000000 foi aceita.",
+        "es-ES": "Encargo del subjefe del escuadrón de exterminio del campo al sur de la Aldea de los orcos\nHas aceptado la misión ^4D4DFF<Eliminación de los Duende con Cuchillo feroces>^000000."
+    },
+    "dRydDQ": {
+        "en-US": "[Request Complete]\nLocation: South Field of Orc Village\nTarget: Hammer Goblin 10, Dagger Knife Goblin 10 Defeated\nReward: Exp 13000, Jexp 8600",
+        "pt-BR": "[Missão Completa]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Adaga e 10 Goblins de Martelo\nRecompensa: EXP base 13.000, EXP classe 8.600",
+        "es-ES": "[Encargo completado]\nLugar: Campo al sur de la Aldea de los orcos\nObjetivo: Derrotar a Duende con martillo 10, Duende con Cuchillo con Daga 10\nRecompensa: Exp 13000, Jexp 8600"
+    },
+    "dhydDQ": {
+        "en-US": "[Orc Village South Field Subjugation Unit Vice Leader's Request]\nLocation: South Field of Orc Village\nTarget: Hammer Goblin 10, Dagger Knife Goblin 10 Defeated\nReward: Exp 13000, Jexp 8600",
+        "pt-BR": "[Solicitação]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Adaga e 10 Goblins de Martelo\nRecompensa: EXP base 13.000, EXP classe 8.600",
+        "es-ES": "[Encargo del subjefe del escuadrón de exterminio del campo al sur de la Aldea de los orcos]\nLugar: Campo al sur de la Aldea de los orcos\nObjetivo: Derrotar a Duende con martillo 10, Duende con Cuchillo con Daga 10\nRecompensa: Exp 13000, Jexp 8600"
+    },
+    "dxydDQ": {
+        "en-US": "Orc Village South Field Subjugation Unit Vice Leader's Request\n^4D4DFF<Agile Knife Goblin Cleanup>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Goblins Velozes]^000000 foi aceita.",
+        "es-ES": "Encargo del subjefe del escuadrón de exterminio del campo al sur de la Aldea de los orcos\nHas aceptado la misión ^4D4DFF<Eliminación de los Duende con Cuchillo ágiles>^000000."
+    },
+    "eBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Southeast Field of Orc Village\nTarget: Knife Goblin Archer 10, Morning Star Knife Goblin 10 Defeated\nReward: Exp 11800, Jexp 11900",
+        "pt-BR": "[Missão Completa]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins Arqueiros e 10 Goblins de Maça\nRecompensa: EXP base 11.800, EXP classe 11.900",
+        "es-ES": "[Encargo completado]\nLugar: Campo al sureste de la Aldea de los orcos\nObjetivo: Derrotar a Duende con Cuchillo Arquero 10, Duende con Cuchillo con lucero del alba 10\nRecompensa: Exp 11800, Jexp 11900"
+    },
+    "eRydDQ": {
+        "en-US": "[Orc Village South Field Subjugation Unit Vice Leader's Request]\nLocation: Southeast Field of Orc Village\nTarget: Knife Goblin Archer 10, Morning Star Knife Goblin 10 Defeated\nReward: Exp 11800, Jexp 11900",
+        "pt-BR": "[Solicitação]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins Arqueiros e 10 Goblins de Maça\nRecompensa: EXP base 11.800, EXP classe 11.900",
+        "es-ES": "[Encargo del subjefe del escuadrón de exterminio del campo al sur de la Aldea de los orcos]\nLugar: Campo al sureste de la Aldea de los orcos\nObjetivo: Derrotar a Duende con Cuchillo Arquero 10, Duende con Cuchillo con lucero del alba 10\nRecompensa: Exp 11800, Jexp 11900"
+    },
+    "ehydDQ": {
+        "en-US": "Orc Village South Field Subjugation Unit Vice Leader's Request\n^4D4DFF<Troublesome Ones>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Goblins Atrozes]^000000 foi aceita.",
+        "es-ES": "Encargo del subjefe del escuadrón de exterminio del campo al sur de la Aldea de los orcos\nHas aceptado la misión ^4D4DFF<Criaturas problemáticas>^000000."
+    },
+    "exydDQ": {
+        "en-US": "[Request Complete]\nLocation: Southwest Southwest and Southwest South of Izlude\nTarget: Magnolia 10, Metaller 10 Defeated\nReward: Exp 8400, Jexp 8380",
+        "pt-BR": "[Missão Completa]\nLocal: Norte de Morroc\nObjetivo: Caçar 10 Magnólias e 10 Metaller\nRecompensa: EXP base 8.400, EXP classe 8.380",
+        "es-ES": "[Encargo completado]\nUbicación: oeste-suroeste y sur-suroeste de Izlude\nObjetivo: eliminar Magnolia 10 y Metalero 10\nRecompensa: Exp 8400, Jexp 8380"
+    },
+    "fBydDQ": {
+        "en-US": "[Izlude Instructor Pontes' Request]\nLocation: Southwest Southwest and Southwest South of Izlude\nTarget: Magnolia 10, Metaller 10 Defeated\nReward: Exp 8400, Jexp 8380",
+        "pt-BR": "[Solicitação]\nLocal: Norte de Morroc\nObjetivo: Caçar 10 Magnólias e 10 Metaller\nRecompensa: EXP base 8.400, EXP classe 8.380",
+        "es-ES": "[Encargo del instructor Pontes de Izlude]\nUbicación: oeste-suroeste y sur-suroeste de Izlude\nObjetivo: eliminar Magnolia 10 y Metalero 10\nRecompensa: Exp 8400, Jexp 8380"
+    },
+    "fRydDQ": {
+        "en-US": "Izlude Instructor Pontes' Request\n^4D4DFF<Eggs and Grasshoppers>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Estranhos do Deserto]^000000 foi aceita.",
+        "es-ES": "Encargo del instructor Pontes de Izlude\nSe aceptó la misión ^4D4DFF<Huevos y saltamontes>^000000."
+    },
+    "fhydDQ": {
+        "en-US": "[Request Complete]\nLocation: Izlude Underwater Dungeon 1F\nTarget: Marina 10, Plankton 10 Defeated, Single Cell 10 Collected\nReward: Exp 9600, Jexp 8380",
+        "pt-BR": "[Missão Completa]\nLocal: Túnel Submarino 1º piso\nObjetivo: Caçar 10 Plâncton, 10 Marinas e coletar 10 Células Únicas\nRecompensa: EXP base 9.600, EXP classe 8.380",
+        "es-ES": "[Encargo completado]\nUbicación: mazmorra submarina de Izlude 1 piso\nObjetivo: eliminar Marina 10 y Plancton 10, recolectar Célula única 10\nRecompensa: Exp 9600, Jexp 8380"
+    },
+    "fxydDQ": {
+        "en-US": "[Byalan Island Student Helden's Request]\nLocation: Izlude Underwater Dungeon 1F\nTarget: Marina 10, Plankton 10 Defeated, Single Cell 10 Collected\nReward: Exp 9600, Jexp 8380",
+        "pt-BR": "[Solicitação]\nLocal: Túnel Submarino 1º piso\nObjetivo: Caçar 10 Plâncton, 10 Marinas e coletar 10 Células Únicas\nRecompensa: EXP base 9.600, EXP classe 8.380",
+        "es-ES": "[Encargo de Helden, estudiante de nivel universitario de la isla Byalan]\nUbicación: mazmorra submarina de Izlude 1 piso\nObjetivo: eliminar Marina 10 y Plancton 10, recolectar Célula única 10\nRecompensa: Exp 9600, Jexp 8380"
+    },
+    "gBydDQ": {
+        "en-US": "Byalan Island Student Helden's Request\n^4D4DFF<Biology's Hardest Part Is Collecting Samples>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Biologia Marinha]^000000 foi aceita.",
+        "es-ES": "Encargo de Helden, estudiante de nivel universitario de la isla Byalan\nSe aceptó la misión ^4D4DFF<Lo más difícil de la biología es recolectar muestras>^000000."
+    },
+    "gRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Izlude Underwater Dungeon 1F 2F\nTarget: Vadon 10 Defeated, Nipper 5 Collected\nReward: Exp 7800, Jexp 8380",
+        "pt-BR": "[Missão Completa]\nLocal: Túnel Submarino 2º piso\nObjetivo: Caçar 10 Vadons e coletar 5 Garras de Crustáceo\nRecompensa: EXP base 7.800, EXP classe 8.380",
+        "es-ES": "[Encargo completado]\nUbicación: mazmorra submarina de Izlude 1 piso y 2 piso\nObjetivo: eliminar Vadon 10, recolectar Pinza 5\nRecompensa: Exp 7800, Jexp 8380"
+    },
+    "ghydDQ": {
+        "en-US": "[Byalan Island Traveling Merchant's Request]\nLocation: Izlude Underwater Dungeon 1F 2F\nTarget: Vadon 10 Defeated, Nipper 5 Collected\nReward: Exp 7800, Jexp 8380",
+        "pt-BR": "[Solicitação]\nLocal: Túnel Submarino 2º piso\nObjetivo: Caçar 10 Vadons e coletar 5 Garras de Crustáceo\nRecompensa: EXP base 7.800, EXP classe 8.380",
+        "es-ES": "[Encargo de comerciante ambulante de la isla Byalan]\nUbicación: mazmorra submarina de Izlude 1 piso y 2 piso\nObjetivo: eliminar Vadon 10, recolectar Pinza 5\nRecompensa: Exp 7800, Jexp 8380"
+    },
+    "gxydDQ": {
+        "en-US": "Byalan Island Traveling Merchant's Request\n^4D4DFF<Make Hay While the Sun Shines>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Amuleto de Caranguejo]^000000 foi aceita.",
+        "es-ES": "Encargo de comerciante ambulante de la isla Byalan\nSe aceptó la misión ^4D4DFF<Hay que remar cuando sube la marea>^000000."
+    },
+    "hBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Izlude Underwater Dungeon 4F\nTarget: Swordfish 10, Marc 10 Defeated\nReward: Exp 12400, Jexp 14380",
+        "pt-BR": "[Missão Completa]\nLocal: Túnel Submarino 4º piso\nObjetivo: Caçar 10 Peixe-Espadas e 10 Cavalo-Marinhos\nRecompensa: EXP base 12.400, EXP classe 14.380",
+        "es-ES": "[Encargo completado]\nUbicación: mazmorra submarina de Izlude 4 piso\nObjetivo: eliminar Swordfish 10 y Marc 10\nRecompensa: Exp 12400, Jexp 14380"
+    },
+    "hRydDQ": {
+        "en-US": "[Izlude Underwater Dungeon 2F Member Ernest's Request]\nLocation: Izlude Underwater Dungeon 4F\nTarget: Swordfish 10, Marc 10 Defeated\nReward: Exp 12400, Jexp 14380",
+        "pt-BR": "[Solicitação]\nLocal: Túnel Submarino 4º piso\nObjetivo: Caçar 10 Peixe-Espadas e 10 Cavalo-Marinhos\nRecompensa: EXP base 12.400, EXP classe 14.380",
+        "es-ES": "[Encargo de Ernest, integrante del grupo del 2 piso de la mazmorra submarina de Izlude]\nUbicación: mazmorra submarina de Izlude 4 piso\nObjetivo: eliminar Swordfish 10 y Marc 10\nRecompensa: Exp 12400, Jexp 14380"
+    },
+    "hhydDQ": {
+        "en-US": "Izlude Underwater Dungeon 2F Member Ernest's Request\n^4D4DFF<Consideration for a Friend>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Cuidando do Grupo]^000000 foi aceita.",
+        "es-ES": "Encargo de Ernest, integrante del grupo del 2 piso de la mazmorra submarina de Izlude\nSe aceptó la misión ^4D4DFF<Un gesto de amistad>^000000."
+    },
+    "hxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Izlude Underwater Dungeon 3F\nTarget: Marse 20 Defeated, Squid Ink 10 Collected\nReward: Exp 10640, Jexp 10240",
+        "pt-BR": "[Missão Completa]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 20 Marses e coletar 10 Tintas de Polvo\nRecompensa: EXP base 10.640, EXP classe 10.240",
+        "es-ES": "[Encargo completado]\nUbicación: mazmorra submarina de Izlude 3 piso\nObjetivo: eliminar Marse 20, recolectar Tinta de calamar 10\nRecompensa: Exp 10640, Jexp 10240"
+    },
+    "iBydDQ": {
+        "en-US": "[Izlude Underwater Dungeon 3F Member Kusekili's Request]\nLocation: Izlude Underwater Dungeon 3F\nTarget: Marse 20 Defeated, Squid Ink 10 Collected\nReward: Exp 10640, Jexp 10240",
+        "pt-BR": "[Solicitação]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 20 Marses e coletar 10 Tintas de Polvo\nRecompensa: EXP base 10.640, EXP classe 10.240",
+        "es-ES": "[Encargo de Kusekili, integrante del grupo del 3.er piso de la mazmorra submarina de Izlude]\nUbicación: 3.er piso de la mazmorra submarina de Izlude\nObjetivo: eliminar Marse 20, recolectar Tinta de calamar 10\nRecompensa: Exp 10640, Jexp 10240"
+    },
+    "iRydDQ": {
+        "en-US": "Izlude Underwater Dungeon 3F Member Kusekili's Request\n^4D4DFF<Cooking Ingredient Supply>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Ingredientes Culinários]^000000 foi aceita.",
+        "es-ES": "Encargo de Kusekili, integrante del grupo del 3.er piso de la mazmorra submarina de Izlude\nSe aceptó la misión ^4D4DFF<Obtención de ingredientes culinarios>^000000."
+    },
+    "ihydDQ": {
+        "en-US": "[Request Complete]\nLocation: Izlude Underwater Dungeon 3F\nTarget: Obeaune 10 Defeated, Mermaid's Heart 1 Collected\nReward: Exp 9600, Jexp 9600",
+        "pt-BR": "[Missão Completa]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 10 Obeaune e coletar 1 Coração de Sereia\nRecompensa: EXP base 9.600, EXP classe 9.600",
+        "es-ES": "[Encargo completado]\nUbicación: 3.er piso de la mazmorra submarina de Izlude\nObjetivo: eliminar Obeaune 10, recolectar Corazón de Obeaune 1\nRecompensa: Exp 9600, Jexp 9600"
+    },
+    "ixydDQ": {
+        "en-US": "[Izlude Underwater Dungeon 3F Member Nonda Ancana's Request]\nLocation: Izlude Underwater Dungeon 3F\nTarget: Obeaune 10 Defeated, Mermaid's Heart 1 Collected\nReward: Exp 9600, Jexp 9600",
+        "pt-BR": "[Solicitação]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 10 Obeaune e coletar 1 Coração de Sereia\nRecompensa: EXP base 9.600, EXP classe 9.600",
+        "es-ES": "[Encargo de Nonda Ankana, integrante del grupo del 3.er piso de la mazmorra submarina de Izlude]\nUbicación: 3.er piso de la mazmorra submarina de Izlude\nObjetivo: eliminar Obeaune 10, recolectar Corazón de Obeaune 1\nRecompensa: Exp 9600, Jexp 9600"
+    },
+    "jBydDQ": {
+        "en-US": "Izlude Underwater Dungeon 3F Member Nonda Ancana's Request\n^4D4DFF<Woman in a Fantasy>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Sereia Encantadora]^000000 foi aceita.",
+        "es-ES": "Encargo de Nonda Ankana, integrante del grupo del 3.er piso de la mazmorra submarina de Izlude\nSe aceptó la misión ^4D4DFF<La mujer de la ilusión>^000000."
+    },
+    "jRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Izlude Underwater Dungeon 5F\nTarget: Strouf 10, Merman 10 Defeated\nReward: Exp 17200, Jexp 15600",
+        "pt-BR": "[Missão Completa]\nLocal: Túnel Submarino 5º piso\nObjetivo: Caçar 10 Strouf e 10 Tritões\nRecompensa: EXP base 17.200, EXP classe 15.600",
+        "es-ES": "[Encargo completado]\nUbicación: 5.º piso de la mazmorra submarina de Izlude\nObjetivo: eliminar Strouf 10 y Tritón 10\nRecompensa: Exp 17200, Jexp 15600"
+    },
+    "jhydDQ": {
+        "en-US": "[Izlude Underwater Dungeon 3F Leader Maxim's Request]\nLocation: Izlude Underwater Dungeon 5F\nTarget: Strouf 10, Merman 10 Defeated\nReward: Exp 17200, Jexp 15600",
+        "pt-BR": "[Solicitação]\nLocal: Túnel Submarino 5º piso\nObjetivo: Caçar 10 Strouf e 10 Tritões\nRecompensa: EXP base 17.200, EXP classe 15.600",
+        "es-ES": "[Encargo de Maxim, líder del grupo del 3.er piso de la mazmorra submarina de Izlude]\nUbicación: 5.º piso de la mazmorra submarina de Izlude\nObjetivo: eliminar Strouf 10 y Tritón 10\nRecompensa: Exp 17200, Jexp 15600"
+    },
+    "jxydDQ": {
+        "en-US": "Izlude Underwater Dungeon 3F Leader Maxim's Request\n^4D4DFF<Annoying Watchers>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Deus dos Oceanos]^000000 foi aceita.",
+        "es-ES": "Encargo de Maxim, líder del grupo del 3.er piso de la mazmorra submarina de Izlude\nSe aceptó la misión ^4D4DFF<Centinelas molestos>^000000."
+    },
+    "kBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Pyramid 3-4F\nTarget: Mummy10 Defeated, Memento 1 Collected\nReward: Exp 7200, Jexp 7800",
+        "pt-BR": "[Missão Completa]\nLocal: Pirâmide 3-4º piso\nObjetivo: Caçar 10 Múmias e coletar 1 Espólio\nRecompensa: EXP base 7.200, EXP classe 7.800",
+        "es-ES": "[Encargo completado]\nUbicación: 3-4 pisos de la Pirámide\nObjetivo: eliminar Momia10, recolectar Recuerdo 1\nRecompensa: Exp 7200, Jexp 7800"
+    },
+    "kRydDQ": {
+        "en-US": "[Pyramid 1F Leader Maxim's Request]\nLocation: Pyramid 3-4F\nTarget: Mummy10 Defeated, Memento 1 Collected\nReward: Exp 7200, Jexp 7800",
+        "pt-BR": "[Solicitação]\nLocal: Pirâmide 3-4º piso\nObjetivo: Caçar 10 Múmias e coletar 1 Espólio\nRecompensa: EXP base 7.200, EXP classe 7.800",
+        "es-ES": "[Encargo de Maxim, líder del grupo del 1.er piso de la Pirámide]\nUbicación: 3-4 pisos de la Pirámide\nObjetivo: eliminar Momia10, recolectar Recuerdo 1\nRecompensa: Exp 7200, Jexp 7800"
+    },
+    "khydDQ": {
+        "en-US": "Pyramid 1F Leader Maxim's Request\n^4D4DFF<Mummy and Blue Box>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[A Caixa da Múmia]^000000 foi aceita.",
+        "es-ES": "Encargo de Maxim, líder del grupo del 1.er piso de la Pirámide\nSe aceptó la misión ^4D4DFF<Momia y la caja azul>^000000."
+    },
+    "kxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Pyramid Basement 1F\nTarget: Verit 10, Minorous 10 Defeated\nReward: Exp 12000, Jexp 12800",
+        "pt-BR": "[Missão Completa]\nLocal: Subsolo da Pirâmide 1º piso\nObjetivo: Caçar 10 Verits e 10 Minorous\nRecompensa: EXP base 12.000, EXP classe 12.800",
+        "es-ES": "[Encargo completado]\nUbicación: 1.er piso subterráneo de la Pirámide\nObjetivo: eliminar Verit 10 y Minorous 10\nRecompensa: Exp 12000, Jexp 12800"
+    },
+    "lBydDQ": {
+        "en-US": "[Morocc Ruins Lumin's Request]\nLocation: Pyramid Basement 1F\nTarget: Verit 10, Minorous 10 Defeated\nReward: Exp 12000, Jexp 12800",
+        "pt-BR": "[Solicitação]\nLocal: Subsolo da Pirâmide 1º piso\nObjetivo: Caçar 10 Verits e 10 Minorous\nRecompensa: EXP base 12.000, EXP classe 12.800",
+        "es-ES": "[Encargo de Lumin en las ruinas de Morroc]\nUbicación: 1.er piso subterráneo de la Pirámide\nObjetivo: eliminar Verit 10 y Minorous 10\nRecompensa: Exp 12000, Jexp 12800"
+    },
+    "lRydDQ": {
+        "en-US": "Morocc Ruins Lumin's Request\n^4D4DFF<Unable to Sleep>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Preciso Dormir!]^000000 foi aceita.",
+        "es-ES": "Encargo de Lumin en las ruinas de Morroc\nSe aceptó la misión ^4D4DFF<No puedo dormir>^000000."
+    },
+    "lhydDQ": {
+        "en-US": "[Request Complete]\nLocation: Pyramid 4F\nTarget: Isis 20 Defeated\nReward: Exp 16740, Jexp 17880",
+        "pt-BR": "[Missão Completa]\nLocal: Pirâmide 4º piso\nObjetivo: Caçar 20 Ísis\nRecompensa: EXP base 16.740, EXP classe 17.880",
+        "es-ES": "[Encargo completado]\nUbicación: 4.º piso de la Pirámide\nObjetivo: eliminar Isis 20\nRecompensa: Exp 16740, Jexp 17880"
+    },
+    "lxydDQ": {
+        "en-US": "[Morocc Ruins Member Ernest's Request]\nLocation: Pyramid 4F\nTarget: Isis 20 Defeated\nReward: Exp 16740, Jexp 17880",
+        "pt-BR": "[Solicitação]\nLocal: Pirâmide 4º piso\nObjetivo: Caçar 20 Ísis\nRecompensa: EXP base 16.740, EXP classe 17.880",
+        "es-ES": "[Encargo de Ernest, integrante del grupo de las ruinas de Morroc]\nUbicación: 4.º piso de la Pirámide\nObjetivo: eliminar Isis 20\nRecompensa: Exp 16740, Jexp 17880"
+    },
+    "mBydDQ": {
+        "en-US": "Morocc Ruins Member Ernest's Request\n^4D4DFF<Isis Defeated>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Metade Cobra]^000000 foi aceita.",
+        "es-ES": "Encargo de Ernest, integrante del grupo de las ruinas de Morroc\nSe aceptó la misión ^4D4DFF<Eliminación de Isis>^000000."
+    },
+    "mRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Sphinx 1F\nTarget: Zerom 15, Requiem 15 Defeated\nReward: Exp 19450, Jexp 20090",
+        "pt-BR": "[Missão Completa]\nLocal: Esfinge 1º piso\nObjetivo: Caçar 15 Zerom e 15 Requiem\nRecompensa: EXP base 19.450, EXP classe 20.090",
+        "es-ES": "[Encargo completado]\nUbicación: 1.er piso de la Esfinge\nObjetivo: eliminar Zerom 15 y Réquiem 15\nRecompensa: Exp 19450, Jexp 20090"
+    },
+    "mhydDQ": {
+        "en-US": "[Morocc Ruins Member Ernest's Request]\nLocation: Sphinx 1F\nTarget: Zerom 15, Requiem 15 Defeated\nReward: Exp 19450, Jexp 20090",
+        "pt-BR": "[Solicitação]\nLocal: Esfinge 1º piso\nObjetivo: Caçar 15 Zerom e 15 Requiem\nRecompensa: EXP base 19.450, EXP classe 20.090",
+        "es-ES": "[Encargo de Ernest, integrante del grupo de las ruinas de Morroc]\nUbicación: 1.er piso de la Esfinge\nObjetivo: eliminar Zerom 15 y Réquiem 15\nRecompensa: Exp 19450, Jexp 20090"
+    },
+    "mxydDQ": {
+        "en-US": "Morocc Ruins Member Ernest's Request\n^4D4DFF<Sphinx's Workers>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Pedreiros]^000000 foi aceita.",
+        "es-ES": "Encargo de Ernest, integrante del grupo de las ruinas de Morroc\nSe aceptó la misión ^4D4DFF<Los trabajadores de la Esfinge>^000000."
+    },
+    "nBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Sphinx 2-3F\nTarget: Marduk15, Pasana15 Defeated, Old Papyrus10 Collected\nReward: Exp 25640, Jexp 24210",
+        "pt-BR": "[Missão Completa]\nLocal: Esfinge 2-3º piso\nObjetivo: Caçar 15 Marduks, 15 Pasanas e coletar 10 Antigos Papiros\nRecompensa: EXP base 25.640, EXP classe 24.210",
+        "es-ES": "[Encargo completado]\nUbicación: pisos 2-3 de la Esfinge\nObjetivo: eliminar Marduk15 y Pasana15, recolectar Papiro viejo10\nRecompensa: Exp 25640, Jexp 24210"
+    },
+    "nRydDQ": {
+        "en-US": "[Morocc Ruins Member Ernest's Request]\nLocation: Sphinx 2-3F\nTarget: Marduk15, Pasana15 Defeated, Old Papyrus10 Collected\nReward: Exp 25640, Jexp 24210",
+        "pt-BR": "[Solicitação]\nLocal: Esfinge 2-3º piso\nObjetivo: Caçar 15 Marduks, 15 Pasanas e coletar 10 Antigos Papiros\nRecompensa: EXP base 25.640, EXP classe 24.210",
+        "es-ES": "[Encargo de Ernest, integrante del grupo de las ruinas de Morroc]\nUbicación: pisos 2-3 de la Esfinge\nObjetivo: eliminar Marduk15 y Pasana15, recolectar Papiro viejo10\nRecompensa: Exp 25640, Jexp 24210"
+    },
+    "nhydDQ": {
+        "en-US": "Morocc Ruins Member Ernest's Request\n^4D4DFF<Sphinx's Secret>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Enigma da Esfinge]^000000 foi aceita.",
+        "es-ES": "Encargo de Ernest, integrante del grupo de las ruinas de Morroc\nSe aceptó la misión ^4D4DFF<El secreto de la Esfinge>^000000."
+    },
+    "nxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Southeast Desert of Morocc\nTarget: Sandman 10 Defeated, Grit 5 Collected\nReward: Exp 10800, Jexp 9600",
+        "pt-BR": "[Missão Completa]\nLocal: Sudeste de Morroc\nObjetivo: Caçar 10 Arenosos e coletar 5 Torrões de Areia\nRecompensa: EXP base 10.800, EXP classe 9.600",
+        "es-ES": "[Encargo completado]\nUbicación: desierto al sureste de Morroc\nObjetivo: eliminar Hombre de Arena 10, recolectar Arena 5\nRecompensa: Exp 10800, Jexp 9600"
+    },
+    "oBydDQ": {
+        "en-US": "[Wandering Boy's Request in East Desert of Morocc]\nLocation: Southeast Desert of Morocc\nTarget: Sandman 10 Defeated, Grit 5 Collected\nReward: Exp 10800, Jexp 9600",
+        "pt-BR": "[Solicitação]\nLocal: Sudeste de Morroc\nObjetivo: Caçar 10 Arenosos e coletar 5 Torrões de Areia\nRecompensa: EXP base 10.800, EXP classe 9.600",
+        "es-ES": "[Encargo del muchacho errante del desierto al este de Morroc]\nUbicación: desierto al sureste de Morroc\nObjetivo: eliminar Hombre de Arena 10, recolectar Arena 5\nRecompensa: Exp 10800, Jexp 9600"
+    },
+    "oRydDQ": {
+        "en-US": "Wandering Boy's Request in East Desert of Morocc\n^4D4DFF<Those Blocking the Road Ahead>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Areia Movediça]^000000 foi aceita.",
+        "es-ES": "Encargo del muchacho errante del desierto al este de Morroc\nSe aceptó la misión ^4D4DFF<Los que bloquean el camino>^000000."
+    },
+    "ohydDQ": {
+        "en-US": "[Request Complete]\nLocation: Payon Dungeon 3F\nTarget: Munak 15, Bongun 15 Defeated, Amulet 15 Collected\nReward: Exp 13200, Jexp 12300",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna de Payon 3º piso\nObjetivo: Caçar 15 Munaks, 15 Bonguns e coletar 15 Amuletos\nRecompensa: EXP base 13.200, EXP classe 12.300",
+        "es-ES": "[Encargo completado]\nUbicación: 3.er piso de la mazmorra de Payon\nObjetivo: eliminar Munak 15 y Bongun 15, recolectar Amuleto 15\nRecompensa: Exp 13200, Jexp 12300"
+    },
+    "oxydDQ": {
+        "en-US": "[Payon Dungeon Entrance Guard's Request]\nLocation: Payon Dungeon 3F\nTarget: Munak 15, Bongun 15 Defeated, Amulet 15 Collected\nReward: Exp 13200, Jexp 12300",
+        "pt-BR": "[Solicitação]\nLocal: Caverna de Payon 3º piso\nObjetivo: Caçar 15 Munaks, 15 Bonguns e coletar 15 Amuletos\nRecompensa: EXP base 13.200, EXP classe 12.300",
+        "es-ES": "[Encargo del guardia frente a la entrada de la mazmorra de Payon]\nUbicación: 3.er piso de la mazmorra de Payon\nObjetivo: eliminar Munak 15 y Bongun 15, recolectar Amuleto 15\nRecompensa: Exp 13200, Jexp 12300"
+    },
+    "pBydDQ": {
+        "en-US": "Payon Dungeon Entrance Guard's Request\n^4D4DFF<Soul Purification Ritual>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Ritual de Exorcismo]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia frente a la entrada de la mazmorra de Payon\nSe aceptó la misión ^4D4DFF<Ritual de purificación de almas>^000000."
+    },
+    "pRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Payon Dungeon 4F\nTarget: Purify Will-o'-Wisps with Hawha Wine, then collect Last Breath 10\nReward: Exp 9600, Jexp 9600",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna de Payon 4º piso\nObjetivo: Coletar 10 Último Suspiro\nRecompensa: EXP base 9.600, EXP classe 9.600",
+        "es-ES": "[Encargo completado]\nUbicación: 4.º piso de la mazmorra de Payon\nObjetivo: purificar los fuegos fatuos con Hwahwaju y luego recolectar Último Aliento 10\nRecompensa: Exp 9600, Jexp 9600"
+    },
+    "phydDQ": {
+        "en-US": "[Payon Dungeon 2F Wandering Monk's Request]\nLocation: Payon Dungeon 4F\nTarget: Purify Will-o'-Wisps with Hawha Wine, then collect Last Breath 10\nReward: Exp 9600, Jexp 9600",
+        "pt-BR": "[Solicitação]\nLocal: Caverna de Payon 4º piso\nObjetivo: Coletar 10 Último Suspiro\nRecompensa: EXP base 9.600, EXP classe 9.600",
+        "es-ES": "[Encargo del monje errante del 2.º piso de la mazmorra de Payon]\nUbicación: 4.º piso de la mazmorra de Payon\nObjetivo: purificar los fuegos fatuos con Hwahwaju y luego recolectar Último Aliento 10\nRecompensa: Exp 9600, Jexp 9600"
+    },
+    "pxydDQ": {
+        "en-US": "Payon Dungeon 2F Wandering Monk's Request\n^4D4DFF<Sorrow Eased by a Drink>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Oferenda aos Espíritos]^000000 foi aceita.",
+        "es-ES": "Encargo del monje errante del 2.º piso de la mazmorra de Payon\nSe aceptó la misión ^4D4DFF<Calmar la tristeza con una copa>^000000."
+    },
+    "qBydDQ": {
+        "en-US": "[Request Complete]\nLocation: Payon Dungeon 4F\nTarget: Sohee 12 Defeated, Girl's Handkerchief 3 Collected\nReward: Exp 10480, Jexp 12400",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna de Payon 4º piso\nObjetivo: Caçar 12 Sohees e coletar 3 Lenços de Menina\nRecompensa: EXP base 10.480, EXP classe 12.400",
+        "es-ES": "[Encargo completado]\nUbicación: 4.º piso de la mazmorra de Payon\nObjetivo: eliminar Sohee 12, recolectar Pañuelo de Niña 3\nRecompensa: Exp 10480, Jexp 12400"
+    },
+    "qRydDQ": {
+        "en-US": "[Payon Young Scholar's Request]\nLocation: Payon Dungeon 4F\nTarget: Sohee 12 Defeated, Girl's Handkerchief 3 Collected\nReward: Exp 10480, Jexp 12400",
+        "pt-BR": "[Solicitação]\nLocal: Caverna de Payon 4º piso\nObjetivo: Caçar 12 Sohees e coletar 3 Lenços de Menina\nRecompensa: EXP base 10.480, EXP classe 12.400",
+        "es-ES": "[Encargo del joven erudito de Payon]\nUbicación: 4.º piso de la mazmorra de Payon\nObjetivo: eliminar Sohee 12, recolectar Pañuelo de Niña 3\nRecompensa: Exp 10480, Jexp 12400"
+    },
+    "qhydDQ": {
+        "en-US": "Payon Young Scholar's Request\n^4D4DFF<Traces of Great Magic>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Cheiro de Magia]^000000 foi aceita.",
+        "es-ES": "Encargo del joven erudito de Payon\nSe aceptó la misión ^4D4DFF<Rastros de la gran magia>^000000."
+    },
+    "qxydDQ": {
+        "en-US": "[Request Complete]\nLocation: Geffen Dungeon 1F\nTarget: Hunterfly 10 Defeated\nReward: Exp 8000, Jexp 6800",
+        "pt-BR": "[Missão Completa]\nLocal: Torre de Geffen 1º piso\nObjetivo: Caçar 10 Moscas Caçadoras\nRecompensa: EXP base 8.000, EXP classe 6.800",
+        "es-ES": "[Encargo completado]\nUbicación: 1.er piso subterráneo de Geffen\nObjetivo: eliminar Mosca Cazadora 10\nRecompensa: Exp 8000, Jexp 6800"
+    },
+    "rBydDQ": {
+        "en-US": "[Novice Mage's Request in Front of Geffen Tower]\nLocation: Geffen Dungeon 1F\nTarget: Hunterfly 10 Defeated\nReward: Exp 8000, Jexp 6800",
+        "pt-BR": "[Solicitação]\nLocal: Torre de Geffen 1º piso\nObjetivo: Caçar 10 Moscas Caçadoras\nRecompensa: EXP base 8.000, EXP classe 6.800",
+        "es-ES": "[Encargo del mago aprendiz frente a la torre de Geffen]\nUbicación: 1.er piso subterráneo de Geffen\nObjetivo: eliminar Mosca Cazadora 10\nRecompensa: Exp 8000, Jexp 6800"
+    },
+    "rRydDQ": {
+        "en-US": "Novice Mage's Request in Front of Geffen Tower\n^4D4DFF<Hunterfly Hunting>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Caça à Caçadora]^000000 foi aceita.",
+        "es-ES": "Encargo del mago aprendiz frente a la torre de Geffen\nSe aceptó la misión ^4D4DFF<Caza de Mosca Cazadora>^000000."
+    },
+    "rhydDQ": {
+        "en-US": "[Request Complete]\nLocation: Geffen Dungeon 2F\nTarget: Ghoul 10, Jakk 10 Defeated\nReward: Exp 14800, Jexp 13660",
+        "pt-BR": "[Missão Completa]\nLocal: Torre de Geffen 2º piso \nObjetivo: Caçar 10 Carniçais e 10 Jakks\nRecompensa: EXP base 14.800, EXP classe 13.660",
+        "es-ES": "[Encargo completado]\nUbicación: 2.º piso subterráneo de Geffen\nObjetivo: eliminar Necrófago 10 y Jakk 10\nRecompensa: Exp 14800, Jexp 13660"
+    },
+    "rxydDQ": {
+        "en-US": "[Novice Mage's Request in Front of Geffen Tower]\nLocation: Geffen Dungeon 2F\nTarget: Ghoul 10, Jakk 10 Defeated\nReward: Exp 14800, Jexp 13660",
+        "pt-BR": "[Solicitação]\nLocal: Torre de Geffen 2º piso \nObjetivo: Caçar 10 Carniçais e 10 Jakks\nRecompensa: EXP base 14.800, EXP classe 13.660",
+        "es-ES": "[Encargo del mago aprendiz frente a la torre de Geffen]\nUbicación: 2.º piso subterráneo de Geffen\nObjetivo: eliminar Necrófago 10 y Jakk 10\nRecompensa: Exp 14800, Jexp 13660"
+    },
+    "sBydDQ": {
+        "en-US": "Novice Mage's Request in Front of Geffen Tower\n^4D4DFF<Ghoul and Jakk Hunting>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Magia Maligna]^000000 foi aceita.",
+        "es-ES": "Encargo del mago aprendiz frente a la torre de Geffen\nSe aceptó la misión ^4D4DFF<Caza de Necrófago y Jakk>^000000."
+    },
+    "sRydDQ": {
+        "en-US": "[Request Complete]\nLocation: Kokomo Beach\nTarget: Seal 10, Sea Otter 10 Defeated\nReward: Exp 10000, Jexp 10000",
+        "pt-BR": "[Missão Completa]\nLocal: Praia de Kokomo\nObjetivo: Caçar 10 Lontras e 10 Focas\nRecompensa: EXP base 10.000, EXP classe 10.000",
+        "es-ES": "[Encargo completado]\nUbicación: playa Cocomo\nObjetivo: eliminar Foca 10 y Nutria de mar 10\nRecompensa: Exp 10000, Jexp 10000"
+    },
+    "shydDQ": {
+        "en-US": "[Comodo Vigilante's Request]\nLocation: Kokomo Beach\nTarget: Seal 10, Sea Otter 10 Defeated\nReward: Exp 10000, Jexp 10000",
+        "pt-BR": "[Solicitação]\nLocal: Praia de Kokomo\nObjetivo: Caçar 10 Lontras e 10 Focas\nRecompensa: EXP base 10.000, EXP classe 10.000",
+        "es-ES": "[Encargo del vigilante de Comodo]\nUbicación: playa Cocomo\nObjetivo: eliminar Foca 10 y Nutria de mar 10\nRecompensa: Exp 10000, Jexp 10000"
+    },
+    "sxydDQ": {
+        "en-US": "Comodo Vigilante's Request\n^4D4DFF<Cute Ones>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Amigos na Praia]^000000 foi aceita.",
+        "es-ES": "Encargo del vigilante de Comodo\nSe aceptó la misión ^4D4DFF<Criaturas adorables>^000000."
+    },
+    "tBydDQ": {
+        "en-US": "[Request Complete]\nLocation: North Cave of Comodo\nTarget: Stractic Golem 10, Tri Joint 5, Megalith 5 Defeated\nReward: Exp 20000, Jexp 20000",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna Luanda\nObjetivo: Caçar 10 Megaliths, 10 Trilobitas e 10 Golens Estalactíticos\nRecompensa: EXP base 20.000, EXP classe 20.000",
+        "es-ES": "[Encargo completado]\nUbicación: cueva al norte de Comodo\nObjetivo: eliminar Gólem Stractic 10, Trilobites 5 y Megalith 5\nRecompensa: Exp 20000, Jexp 20000"
+    },
+    "tRydDQ": {
+        "en-US": "[Comodo Vigilante's Request]\nLocation: North Cave of Comodo\nTarget: Stractic Golem 10, Tri Joint 5, Megalith 5 Defeated\nReward: Exp 20000, Jexp 20000",
+        "pt-BR": "[Solicitação]\nLocal: Caverna Luanda\nObjetivo: Caçar 10 Megaliths, 10 Trilobitas e 10 Golens Estalactíticos\nRecompensa: EXP base 20.000, EXP classe 20.000",
+        "es-ES": "[Encargo del vigilante de Comodo]\nUbicación: cueva al norte de Comodo\nObjetivo: eliminar Gólem Stractic 10, Trilobites 5 y Megalith 5\nRecompensa: Exp 20000, Jexp 20000"
+    },
+    "thydDQ": {
+        "en-US": "Comodo Vigilante's Request\n^4D4DFF<Hard Ones>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Duro como Pedra]^000000 foi aceita.",
+        "es-ES": "Encargo del vigilante de Comodo\nSe aceptó la misión ^4D4DFF<Criaturas resistentes>^000000."
+    },
+    "txydDQ": {
+        "en-US": "[Request Complete]\nLocation: Papuchika Forest\nTarget: Grove15, Alligator 10 Defeated\nReward: Exp 15000, Jexp 15000",
+        "pt-BR": "[Missão Completa]\nLocal: Floresta Papuchica\nObjetivo: Caçar 15 Groove e 10 Crocodilos\nRecompensa: EXP base 15.000, EXP classe 15.000",
+        "es-ES": "[Encargo completado]\nUbicación: bosque Papuchika\nObjetivo: eliminar Grove15 y Cocodrilo 10\nRecompensa: Exp 15000, Jexp 15000"
+    },
+    "uBydDQ": {
+        "en-US": "[Comodo Explorer's Request]\nLocation: Papuchika Forest\nTarget: Grove15, Alligator 10 Defeated\nReward: Exp 15000, Jexp 15000",
+        "pt-BR": "[Solicitação]\nLocal: Floresta Papuchica\nObjetivo: Caçar 15 Groove e 10 Crocodilos\nRecompensa: EXP base 15.000, EXP classe 15.000",
+        "es-ES": "[Encargo del explorador de Comodo]\nUbicación: bosque Papuchika\nObjetivo: eliminar Grove15 y Cocodrilo 10\nRecompensa: Exp 15000, Jexp 15000"
+    },
+    "uRydDQ": {
+        "en-US": "Comodo Explorer's Request\n^4D4DFF<Disgusting Ones>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[A Cor Verde]^000000 foi aceita.",
+        "es-ES": "Encargo del explorador de Comodo\nSe aceptó la misión ^4D4DFF<Criaturas repugnantes>^000000."
+    }
+}

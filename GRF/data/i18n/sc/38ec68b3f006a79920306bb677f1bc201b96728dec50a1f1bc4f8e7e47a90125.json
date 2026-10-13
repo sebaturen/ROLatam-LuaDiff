@@ -16,7 +16,7 @@
     },
     "o/mLDA": {
         "en-US": "[Notice]\n - Your bag is full. Please check your weight and carrying item quantity, and then talk to me again. -",
-        "pt-BR": "[Aviso]\n - A mochila está cheia. Verifica o peso e a quantidade de itens que estás carregando e fala comigo de novo. -",
+        "pt-BR": "[Aviso]\n - Seu inventário está cheio. Verifique o peso e a quantidade de itens que estás carregando e fala comigo de novo. -",
         "es-ES": "[Aviso]\n - Tu mochila está llena. Revisa el peso y la cantidad de objetos que llevas y vuelve a hablarme. -"
     },
     "pPmLDA": {
@@ -41,7 +41,7 @@
     },
     "qPmLDA": {
         "en-US": "[Yulma]\nYou know the Secret Wings and the Rebellion have been tracking traces of Illusion's illegal experiments, right?",
-        "pt-BR": "[Yulma]\nVocê sabe que a Asa Secreta e a Rebelião continuam investigando os rastros dos experimentos ilegais da Ilusión, né?",
+        "pt-BR": "[Yulma]\nVocê sabe que a Vento Secreto e a Rebelião continuam investigando os rastros dos experimentos ilegais da Ilusión, né?",
         "es-ES": "[Yulma]\nYa sabes que Asa Secreta y la Rebelión siguen rastreando los rastros de los experimentos ilegales de Ilusión, ¿no?"
     },
     "qfmLDA": {
@@ -86,7 +86,7 @@
     },
     "sfmLDA": {
         "en-US": "[Yulma]\nThe Secret Wing Researches suspect that the test subjects in there have pushed out all the weaker ones.",
-        "pt-BR": "[Yulma]\nOs Pesquisadores da Asa Secreta dizem que, depois de uma competição acirrada entre os cobaias, os mais fortes acabaram ficando por lá.",
+        "pt-BR": "[Yulma]\nOs Pesquisadores da Vento Secreto dizem que, depois de uma competição acirrada entre os cobaias, os mais fortes acabaram ficando por lá.",
         "es-ES": "[Yulma]\nLos Investigadores del Asa Secreta dicen que, tras una competencia feroz entre los sujetos de experimentación, los más fuertes parecen haberse establecido ahí."
     },
     "svmLDA": {
@@ -101,12 +101,12 @@
     },
     "tPmLDA": {
         "en-US": "[Yulma]\nNeed a job, don't you? I know you do!\nIf you're interested, go to the 3rd floor of Rudus.",
-        "pt-BR": "[Yulma]\nPrecisas de trabalho? Eu sei de tudo, tá?\nSe estiveres interessado, vai até o 3º andar do Rudus.",
+        "pt-BR": "[Yulma]\nPrecisa de trabalho? Eu sei de tudo, tá?\nSe tiver interesse, vá até o 3º andar de Rudus.",
         "es-ES": "[Yulma]\nNecesitas trabajo, ¿verdad? Yo lo sé todo, ¿sabes?\nSi te interesa, ve al tercer piso de Rudus."
     },
     "tfmLDA": {
         "en-US": "[Yulma]\n<NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> is manning the entrance to the 4th floor.\nGo tell them I sent you, see if it's manageable, and come back!",
-        "pt-BR": "[Yulma]\n<NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> está encarregado do controle do caminho que leva ao 4º andar.\nVai lá, diz que fui eu quem te mandou e dá uma olhada pra ver se vale a pena!",
+        "pt-BR": "[Yulma]\n<NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI>, nosso encarregado, está controlando do caminho que leva ao 4º andar.\nVai lá, diz que fui eu quem te mandou e dá uma olhada pra ver se vale a pena!",
         "es-ES": "[Yulma]\n<NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> está a cargo de controlar el paso hacia el cuarto piso.\nVe y dile que te envié yo y comprueba por ti mismo si vale la pena intentarlo!"
     },
     "tvmLDA": {
@@ -116,7 +116,7 @@
     },
     "t/mLDA": {
         "en-US": "[Yulma]\nIf so, then help the Secret Wing people with their research.\nObviously, they can't hunt the monsters on their own. They need someone to do it for them.",
-        "pt-BR": "[Yulma]\nSe sim, dá uma mãozinha na pesquisa do pessoal da Asa Secreta.\nParece que eles não dão conta de capturar e estudar os monstros sozinhos, então estavam procurando alguém pra caçá-los.",
+        "pt-BR": "[Yulma]\nSe sim, dá uma mãozinha na pesquisa do pessoal da Vento Secreto.\nParece que eles não dão conta de capturar e estudar os monstros sozinhos, então estavam procurando alguém pra caçá-los.",
         "es-ES": "[Yulma]\nSi es así, ayuda un poco a la gente del Asa Secreta con la investigación.\nMe dijeron que les falta personal para cazar y estudiar a los monstruos por su cuenta, así que estaban buscando a alguien que los cazara."
     },
     "uPmLDA": {
@@ -186,7 +186,7 @@
     },
     "xfmLDA": {
         "en-US": "Abyssal Solitude",
-        "pt-BR": "Solidão do Abismo",
+        "pt-BR": "Solidão Abissal",
         "es-ES": "Soledad Abisal"
     },
     "xvmLDA": {
@@ -206,7 +206,7 @@
     },
     "yfmLDA": {
         "en-US": "[Yulma]\nThe Secret Wing Researchers are taking a break right now.\nWhy don't you go get some rest too, {0}?",
-        "pt-BR": "[Yulma]\nOs Pesquisadores da Asa Secreta estão no horário de descanso.\nQue tal descansar um pouco antes de voltar, {0}?",
+        "pt-BR": "[Yulma]\nOs Pesquisadores da Vento Secreto estão no horário de descanso.\nQue tal descansar um pouco antes de voltar, {0}?",
         "es-ES": "[Yulma]\nLos Investigadores del Ala Secreta están en su hora de descanso.\n¿Qué tal si tú descansas un poco antes de volver, {0}?"
     },
     "yvmLDA": {
@@ -231,7 +231,7 @@
     },
     "zvmLDA": {
         "en-US": "[Yulma]\nThe want to know how much they've degenerated, if they've mutated on their own after their initial experiment, things like that.\n<FONT SIZE = 9>Hmm... These researchers sound dangerous themselves, don't they? Researchers are all pretty much the same, in my opinion.</FONT>",
-        "pt-BR": "[Yulma]\nQuerem saber o quanto perderam a forma original, se isso foi uma mudança espontânea após o experimento, coisas assim.\nHmm... Esses pesquisadores tem jeito de ser um pouco perigosos também, né? Pra mim, todos os pesquisadores parecem iguais.</FONT>",
+        "pt-BR": "[Yulma]\nQuerem saber o quanto perderam a forma original, se isso foi uma mudança espontânea após o experimento, coisas assim.\nHmm... Esses pesquisadores tem jeito de ser um pouco perigosos também, né? Pra mim, todos os pesquisadores parecem iguais.",
         "es-ES": "[Yulma]\nQuieren saber cuánto se han alejado de su forma original, si han cambiado por sí mismos después del experimento, cosas así.\n<FONT SIZE = 9>Mmm... Estos investigadores también suelen ser un poco peligrosos, ¿no? Para mí, todos los investigadores parecen iguales.</FONT>"
     },
     "z/mLDA": {
@@ -261,7 +261,7 @@
     },
     "1PmLDA": {
         "en-US": "[Yulma]\nThe Secret Wing Researchers want to collect data about <FONT COLOR = 0000CD>Dolorians, Plagarions, and Deadres</FONT>.\nHow about hunting 10 of each?",
-        "pt-BR": "[Yulma]\nOs Pesquisadores da Asa Secreta querem coletar dados sobre <FONT COLOR = 0000CD>Dolorians, Plagarions e Deadres</FONT>.\nQue tal caçar 10 de cada?",
+        "pt-BR": "[Yulma]\nOs Pesquisadores da Vento Secreto querem coletar dados sobre <FONT COLOR = 0000CD>Dolorians, Plagarions e Deadres</FONT>.\nQue tal caçar 10 de cada?",
         "es-ES": "[Yulma]\nLos Investigadores del Ala Secreta quieren recopilar datos de <FONT COLOR = 0000CD>Dolorians, Plagarions y Deadres</FONT>.\n¿Qué tal si cazas 10 de cada uno?"
     },
     "1fmLDA": {
@@ -286,7 +286,7 @@
     },
     "2fmLDA": {
         "en-US": "[Yulma]\nThe Secret Wing Researchers finished their work for the day and went home.\nWhy don't you go get some rest too, {0}?",
-        "pt-BR": "[Yulma]\nOs Pesquisadores da Asa Secreta já terminaram o expediente e foram embora.\nQue tal descansar um pouco antes de voltar, {0}?",
+        "pt-BR": "[Yulma]\nOs Pesquisadores da Vento Secreto já terminaram o expediente e foram embora.\nQue tal descansar um pouco antes de voltar, {0}?",
         "es-ES": "[Yulma]\nLos Investigadores del Ala Secreta ya terminaron su jornada y se han ido.\n¿Qué tal si tú descansas un poco antes de volver, {0}?"
     },
     "2vmLDA": {
@@ -296,7 +296,7 @@
     },
     "2/mLDA": {
         "en-US": "[Yulma]\nEven the Twin Caputs and Venenums on the fourth floor are significantly different from the others.\nThey're bigger and more poisonous, for example.",
-        "pt-BR": "[Yulma]\nOs Caputs e os Venenums do 4º andar parecem ser versões bastante modificadas dos de outros andares.\nFicaram gigantes ou mais venenosos, por exemplo.",
+        "pt-BR": "[Yulma]\nOs Caputs e os Venenum do 4º andar parecem ser versões bastante modificadas dos de outros andares.\nFicaram gigantes ou mais venenosos, por exemplo.",
         "es-ES": "[Yulma]\nParece que los Gemelos Caput y los Venenum de la cuarta planta son versiones muy modificadas de los de otras plantas.\nSe han vuelto gigantes, o acumulan más veneno, por ejemplo."
     },
     "3PmLDA": {
@@ -326,7 +326,7 @@
     },
     "4fmLDA": {
         "en-US": "[Yulma]\nHere you go!\nYou worked hard today, so get some rest. Let's do our best again tomorrow!",
-        "pt-BR": "[Yulma]\nPronto, aqui está!\nVocê se esforçou bastante hoje. Descansa bem e vamos dar o nosso melhor amanhã também!",
+        "pt-BR": "[Yulma]\nPronto, aqui está!\nVocê se esforçou bastante hoje. Descanse bem e vamos dar o nosso melhor amanhã também!",
         "es-ES": "[Yulma]\n¡Toma, aquí tienes!\nTe has esforzado mucho hoy. ¡Descansas bien y mañana volvemos a darlo todo!"
     },
     "4vmLDA": {
@@ -351,7 +351,7 @@
     },
     "5vmLDA": {
         "en-US": "[Yulma]\nI can introduce you to the researcher onsite who can do it. Want to go talk to him?\nHe's probably in disguise to observe monsters in there, but I can tell you where he is.",
-        "pt-BR": "[Yulma]\nVou te apresentar um pesquisador que está no local agora, quer dar uma passada lá?\nProvavelmente ele está camuflado pra observar os monstros, mas vou te dar a localização, então dá uma passada lá!",
+        "pt-BR": "[Yulma]\nVou te apresentar um pesquisador que está no local agora, quer dar uma passada lá?\nProvavelmente ele está camuflado pra observar os monstros, mas vou te dar a localização, então dê uma passada lá!",
         "es-ES": "[Yulma]\nTe presentaré a un investigador que está ahora mismo en el campo, ¿quieres ir a verlo?\nProbablemente esté camuflado para observar a los monstruos, pero te diré dónde está, ¡así que ve a verlo!"
     },
     "5/mLDA": {
@@ -371,7 +371,7 @@
     },
     "6vmLDA": {
         "en-US": "[Yulma]\nSince we're meeting anyway, you can ask any questions you have directly! I heard that the \n<NAVI>[Researcher]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> usually lurks around the central area of Rudus 4th floor.",
-        "pt-BR": "[Yulma]\nJá que vais lá, se tiveres alguma dúvida, aproveita para perguntar diretamente! Pelo que ouvi dizer, o <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> fica vagando pela parte central do 4º andar de Rudus.",
+        "pt-BR": "[Yulma]\nJá que vais lá, se tiveres alguma dúvida, aproveita para perguntar diretamente! Pelo que ouvi dizer, o <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> ... fica vagando pela parte central do 4º andar de Rudus.",
         "es-ES": "[Yulma]\nYa que vas a ir a verlo, ¡aprovecha para preguntarle directamente si tienes alguna duda!\nEscuché que el <NAVI>[Investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> se merodea cerca de la zona central del cuarto piso de Rudus."
     },
     "6/mLDA": {
@@ -381,12 +381,12 @@
     },
     "7PmLDA": {
         "en-US": "[Yulma]\nSince you're going to meet the Secret Wings researcher anyway, why not ask any questions you have directly!\n<NAVI>[Researcher]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> is said to be lurking around the central area of Rudus 4th Floor.",
-        "pt-BR": "[Yulma]\nJá que vais encontrar o pesquisador do Vento Secreto, aproveita pra perguntar o que quiseres!\nOi, ouvi dizer que o <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> costuma ficar escondido mais ou menos na parte central do 4º andar de Rudus.",
+        "pt-BR": "[Yulma]\nJá que vais encontrar o pesquisador do Vento Secreto, aproveita pra perguntar o que quiseres!\nOi, ouvi dizer que o <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>... costuma ficar escondido mais ou menos na parte central do 4º andar de Rudus.",
         "es-ES": "[Yulma]\nYa que vas a ver al investigador del Viento Secreto, ¡aprovecha para preguntarle directamente si tienes alguna duda!\nEscuché que el <NAVI>[Investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> suele estar escondido por ahí, en la zona central del cuarto piso de Rudus."
     },
     "7fmLDA": {
         "en-US": "[Yulma]\nDid you go? Did you talk to him?\nThe researcher was pretty well hidden, wasn't he?",
-        "pt-BR": "[Yulma]\nJá voltaste? Conseguiste conversar um pouco?\nO pesquisador estava bem escondido, não estava?",
+        "pt-BR": "[Yulma]\nJá voltou? Conseguiu conversar um pouco?\nO pesquisador estava bem escondido, não estava?",
         "es-ES": "[Yulma]\n¿Ya regresaste? ¿Pudiste hablar un poco con él?\nEl investigador se escondió muy bien, ¿verdad?"
     },
     "7vmLDA": {
@@ -416,42 +416,42 @@
     },
     "8/mLDA": {
         "en-US": "Secret Wing Researcher",
-        "pt-BR": "Pesquisador da Asa Secreta",
+        "pt-BR": "Pesquisador",
         "es-ES": "Investigador del Ala Secreta"
     },
     "9PmLDA": {
         "en-US": "[Secret Wing Researcher]\nThis is great. Field work.\nI'll get plenty of monster observation.",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nQue bom. Trabalho de campo.\nVou conseguir observar muitos monstros.",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nAdoro fazer trabalho de campo.\nVou conseguir observar muitos monstros.",
         "es-ES": "[Investigador del Ala Secreta]\nQué bien... el trabajo de campo.\nAsí podré pasar más tiempo observando a los monstruos."
     },
     "9fmLDA": {
         "en-US": "[Secret Wing Researcher]\nWow!\nHow did you know I was here?",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nUau!\nComo você me reconheceu?",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nUau!\nComo você me encontrou?",
         "es-ES": "[Investigador del Ala Secreta]\n¡Vaya!\n¿Cómo me reconociste?"
     },
     "9vmLDA": {
         "en-US": "[Secret Wing Researcher]\nOh, it's you, {0}. Whew!\nYes, I've received word. You're here to renew your chip, right?",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nAh, olhando melhor, é {0}.\nRecebi a notificação. Você veio atualizar o chip, não é?",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nAh, só podia ser você, {0}.\nRecebi a notificação. Você veio atualizar o chip, não é?",
         "es-ES": "[Investigador del Ala Secreta]\nAh, ahora que te veo bien, eres {0}.\nMe avisaron. ¿Ha venido a actualizar el chip?"
     },
     "9/mLDA": {
         "en-US": "[Secret Wing Researcher]\nLet me see... I'll remove your chip for a moment.\nHm, hm... Now, I'm going to connect it to this machine I have to back up the data...",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nDeixa eu dar uma olhada... Vou tirar o chip por um instante.\nHum... Vou conectar ao meu equipamento... Limpar os dados...",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nDeixa eu dar uma olhada... Vou tirar o chip por um instante.\nHum... Vou conectar ao meu equipamento... Limpar os dados...",
         "es-ES": "[Investigador del Ala Secreta]\nA ver... Te voy a quitar el chip un momento.\nMmm... Lo conecto a mi máquina... y borraré los datos..."
     },
     "+PmLDA": {
         "en-US": "[Secret Wing Researcher]\nThere, it's done! All its data seems intact and undamaged. Let me stick it back to you.",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nPronto, já está! Os dados estão limpos, ótimo. Vou recolocá-lo.",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nPronto, já está! Os dados estão limpos, ótimo. Vou recolocá-lo em você.",
         "es-ES": "[Investigador del Ala Secreta]\n¡Ya está! Los datos están limpios y en perfecto estado. Te lo vuelvo a poner."
     },
     "+fmLDA": {
         "en-US": "[Secret Wing Researcher]\nSince this is part of your duties, if you return to <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, I'll provide a small allowance.\nI'm always indebted to you. Keep up the good work!",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nComo isso também dá trabalho, se você voltar e falar com o <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, vou te dar uma pequena gratificação.\nSempre fico em dívida com você. Bom trabalho!",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nComo isso também dá trabalho, se você voltar e falar com a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, vou te dar uma pequena gratificação.\nSempre fico em dívida com você. Bom trabalho!",
         "es-ES": "[Investigador del Ala Secreta]\nAl fin y al cabo, esto cuenta como trabajo. Si vuelves con <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, ella te entregará una pequeña recompensa.\nGracias por la ayuda de siempre. ¡Cuídate!"
     },
     "+vmLDA": {
         "en-US": "[Secret Wing Researcher]\nAck! Don't talk to me. I can't have the monsters notice me.\nGo away!",
-        "pt-BR": "[Pesquisador da Asa Secreta]\nEita! Se você fingir que me conhece, os monstros vêm pra cá!\nVai embora daqui!",
+        "pt-BR": "[Pesquisador da Vento Secreto]\nEi! Se você fingir que me conhece, os monstros vão vir pra cá!\nVai embora daqui!",
         "es-ES": "[Investigador del Ala Secreta]\n¡Ay! Si actúas como si me conocieras, ¡un monstruo se acercará!\n¡Aléjate de mí!"
     },
     "+/mLDA": {
@@ -461,7 +461,7 @@
     },
     "/PmLDA": {
         "en-US": "[Paian]\nZzz... Huh!\nS-Sorry! All clear, sir!",
-        "pt-BR": "[Paian]\nZzz... Ufa!\nD, desculpa aí! Tudo normal no trabalho!",
+        "pt-BR": "[Paian]\nZzz... Ah!\nD-desculpa! Tudo normal no trabalho!",
         "es-ES": "[Paian]\nZzz... ¡Uf!\n¡P-perdón! ¡Todo en orden durante el turno!"
     },
     "/fmLDA": {
@@ -471,7 +471,7 @@
     },
     "/vmLDA": {
         "en-US": "I'm not a civilian.",
-        "pt-BR": "Mas eu não sou um leigo.",
+        "pt-BR": "Mas eu não sou comum.",
         "es-ES": "Pero yo no soy un civil."
     },
     "//mLDA": {
@@ -481,12 +481,12 @@
     },
     "APqLDA": {
         "en-US": "[Paian]\nPlease go to Cat on a Bullet and consult with <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nShe's in charge of missions here.",
-        "pt-BR": "[Paian]\nVai até o Miado de Bala e conversa com a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nEla é a responsável pela missão aqui.",
+        "pt-BR": "[Paian]\nVá até o Miado de Bala e converse com a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nEla é a responsável pela missão aqui.",
         "es-ES": "[Paian]\nVe a Maullido de Bala y habla con <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nElla es la responsable de la misión aquí."
     },
     "AfqLDA": {
         "en-US": "[Paian]\nWiping his mouth* Oh, I-I wasn't drooling.\nI'm just trying to wipe off the hard-earned sweat.",
-        "pt-BR": "[Paian]\nSaliva... Ah, isso não é saliva, de jeito nenhum.\nSão gotas de suor que brilham de paixão e esforço.",
+        "pt-BR": "[Paian]\nSaliva...? Ah, isso não é saliva, de jeito nenhum.\nSão gotas de suor que brilham de paixão e esforço.",
         "es-ES": "[Paian]\nUf... Ah, esto no es saliva, en absoluto.\nSon gotas de sudor que brillan con pasión y esfuerzo."
     },
     "AvqLDA": {
@@ -496,22 +496,22 @@
     },
     "A/qLDA": {
         "en-US": "I want to enter Rudus Floor 4.",
-        "pt-BR": "Quero ir para o 4º andar do Rudus.",
+        "pt-BR": "Ir ao 4º andar de Rudus.",
         "es-ES": "Quiero ir al cuarto piso de Rudus."
     },
     "BPqLDA": {
         "en-US": "I'm pointing out your work attitude.",
-        "pt-BR": "Vou criticar a atitude dele no trabalho.",
+        "pt-BR": "Dormindo no trabalho?",
         "es-ES": "Voy a criticar su actitud en el trabajo."
     },
     "BfqLDA": {
         "en-US": "[Paian]\nThe fourth floor? I'm manning the entrance to that floor right now...\nAh, you came to see me on Julma's request from Cat on a Bullet?",
-        "pt-BR": "[Paian]\n4º andar? Sou eu quem controla essa área...\nAh, você recebeu um pedido da Yulma no “Gatinho com Balas” e veio aqui para dar uma olhada?",
+        "pt-BR": "[Paian]\n4º andar? Sou eu quem controla essa área...\nAh, você recebeu um pedido da Yulma no Miado de Bala e veio aqui para dar uma olhada?",
         "es-ES": "[Paian]\n¿El cuarto piso? Yo soy quien se encarga de ese lugar, pero...\nAh, ¿así que vienes de parte de Yulma en Maullido de Bala y viniste aquí a echar un vistazo??"
     },
     "BvqLDA": {
         "en-US": "[Paian]\nThen I should let you through.\nFeel free to check out the test subjects on the fourth floor. If you're interested in helping us with our research, then please go back to <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> and ask her.",
-        "pt-BR": "[Paian]\nEntão vou ter que deixar você passar.\nDepois de dar uma olhada nas cobaias do 4º andar, se quiser ajudar com o pedido de pesquisa, volte e pergunte a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Paian]\nEntão vou ter que deixar você passar.\nDepois de dar uma olhada nas cobaias do 4º andar, se quiser ajudar, volte para <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.",
         "es-ES": "[Paian]\nEntonces tengo que dejarte pasar.\nDespués de echar un vistazo a los especímenes del cuarto piso y, si deseas colaborar con la investigación, regresa y pregúntale a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>."
     },
     "B/qLDA": {
@@ -521,7 +521,7 @@
     },
     "CPqLDA": {
         "en-US": "[Paian]\nWhat? No, I wasn't!\n...S-so what? I was so tired!",
-        "pt-BR": "[Paian]\nAh, você acha que tenho problemas de atitude no trabalho?\nDá pra cochilar um pouco, né!!",
+        "pt-BR": "[Paian]\nAh, você acha que eu sou preguiçoso?\nPreciso descansar um pouco pelo menos!!",
         "es-ES": "[Paian]\n¡¿Qué, dices que tengo problemas de actitud en el trabajo?!\n¡O-Oye, cualquiera puede quedarse un poco dormido de vez en cuando!"
     },
     "CfqLDA": {
@@ -531,27 +531,27 @@
     },
     "CvqLDA": {
         "en-US": "[Paian]\nZzz... Huh! S-sorry!\nWould you like to go down to Rudus Floor 4?",
-        "pt-BR": "[Paian]\nZzz... Ufa! D, desculpa aí!\nQueres descer para o 4º andar de Rudus?",
+        "pt-BR": "[Paian]\nZzz... Argh! D-desculpa aí!\nQueres descer para o 4º andar de Rudus?",
         "es-ES": "[Paian]\nZzz... ¡Uf! ¡P-perdón!\n¿Quieres bajar a la cuarta planta de Rudus?"
     },
     "C/qLDA": {
         "en-US": "Moving.",
-        "pt-BR": "Vou.",
+        "pt-BR": "Descer.",
         "es-ES": "Me voy."
     },
     "DPqLDA": {
         "en-US": "Do not move.",
-        "pt-BR": "Não me desloco.",
+        "pt-BR": "Ficar.",
         "es-ES": "No te desplazas."
     },
     "DfqLDA": {
         "en-US": "[Paian]\nI'll move you. Please be careful!",
-        "pt-BR": "[Paian]\nVou te levar até lá. Cuida-te!",
+        "pt-BR": "[Paian]\nVou te levar até lá. Cuide-se!",
         "es-ES": "[Paian]\nTe llevaré. ¡Cuídate!"
     },
     "DvqLDA": {
         "en-US": "[Paian]\nGot it. Hah...",
-        "pt-BR": "[Paian]\nEntendi. Haaaam....",
+        "pt-BR": "[Paian]\nEntendi. *boceja*....",
         "es-ES": "[Paian]\nEntendido. Aaaah..."
     },
     "D/qLDA": {
@@ -561,7 +561,7 @@
     },
     "EPqLDA": {
         "en-US": "[Ansuria]\nOh, you're the adventurer from the last operation.\nIt's an honor to meet you in a place like this. May I buy you a drink?",
-        "pt-BR": "[Ansuria]\nAh, você é o viajante da última missão.\nÉ uma honra encontrá-lo aqui. Posso te pagar uma bebida?",
+        "pt-BR": "[Ansuria]\nAh, você é aquela pessoa da última missão.\nÉ uma honra encontrar você aqui. Posso te pagar uma bebida?",
         "es-ES": "[Ansuria]\nOh, eres el trotamundos de la última operación.\nEs un honor encontrarte aquí. ¿Te invito a una copa?"
     },
     "EfqLDA": {
@@ -576,27 +576,27 @@
     },
     "E/qLDA": {
         "en-US": "- There is a quest available after completing Episode 17.1 \"Illusion\" -",
-        "pt-BR": "- Há uma missão disponível após a conclusão do Episódio 17.1 \"Ilusión\" -",
+        "pt-BR": "- Há uma missão disponível após a conclusão do Episódio 17.1 Ilusión -",
         "es-ES": "- Hay una misión disponible tras completar el episodio 17.1 'Ilusión' -"
     },
     "FPqLDA": {
         "en-US": "[Ansuria]\nHere, give me a glass of Tropical Sograt!\nAh, is Tropical Sograt alright for you?",
-        "pt-BR": "[Ansuria]\nOlha, me serve um Sograt Tropical!\nAh, está tudo bem com um Sograt Tropical?",
+        "pt-BR": "[Ansuria]\nEi, me serve um Sograt Tropical!\nAh, está tudo bem em beber Sograt Tropical?",
         "es-ES": "[Ansuria]\n¡Oye, dame un Sograt Tropical!\nAh, ¿te parece bien un Sograt Tropical?"
     },
     "FfqLDA": {
         "en-US": "[Gerbena]\nI like chocolate milk.",
-        "pt-BR": "[Gerbena]\nEu prefiro chocolate com leite.",
+        "pt-BR": "[Gerbena]\nEu prefiro Escarlate Praiano.",
         "es-ES": "[Gerbena]\nA mí me gusta la leche con chocolate."
     },
     "FvqLDA": {
         "en-US": "[Ansuria]\nYou buy it with your own money.\nBy the way, Gerbena, how's the personnel selection for Amicitia going?",
-        "pt-BR": "[Ansuria]\nCompra com o teu próprio dinheiro.\nA propósito, Gerbena, como está indo a seleção de pessoal do lado de Amicitia?",
+        "pt-BR": "[Ansuria]\nCompre com o seu próprio dinheiro.\nA propósito, Gerbena, como está indo a seleção de pessoal para Amicitia?",
         "es-ES": "[Ansuria]\nCompra com o teu próprio dinheiro.\nA propósito, Gerbena, como está indo a seleção de pessoal do lado de Amicitia?"
     },
     "F/qLDA": {
         "en-US": "[Gerbena]\nWell... It's done for now.\nBut since we're not a big group, we don't have enough members to send there.",
-        "pt-BR": "[Gerbena]\nHum, bem... A formação já está pronta.\nMas, como o total de membros é pequeno, é verdade que o número de Rebeliões que podem ser mobilizados está um pouco baixo.",
+        "pt-BR": "[Gerbena]\nHum, bem... A formação já está pronta.\nMas, como o total de membros é pequeno, é verdade que o número de Rebeldes que podem ser mobilizados está um pouco baixo.",
         "es-ES": "[Gerbena]\nBueno, es que... La formación está completa por ahora.\nPero como no somos un grupo grande, no tenemos suficientes miembros para enviar allí."
     },
     "GPqLDA": {
@@ -616,17 +616,17 @@
     },
     "G/qLDA": {
         "en-US": "[Gerbena]\nHey, Adventurer!\nCould you help us?",
-        "pt-BR": "[Gerbena]\nEI, Viajante! \nVocê poderia nos ajudar?",
+        "pt-BR": "[Gerbena]\nEi, Viajante! \nVocê poderia nos ajudar?",
         "es-ES": "[Gerbena]\nOye, Trotamundos!\n¿Podrías ayudarnos un poco?"
     },
     "HPqLDA": {
         "en-US": "[Ansuria]\nGerbena, what are you talking about all of a sudden!",
-        "pt-BR": "[Ansuria]\nGerbena, do nada, o que é isso!",
+        "pt-BR": "[Ansuria]\nGerbena, do nada, o que é isso?",
         "es-ES": "[Ansuria]\n¡Gerbena, ¿de qué estás hablando de repente?!"
     },
     "HfqLDA": {
         "en-US": "[Gerbena]\nNo, Adventurer, you already took on the mission with the Rebellion last time.\nSo I was wondering if you could support us again this time...",
-        "pt-BR": "[Gerbena]\nNão, o Herói, você já se uniu à Rebelião na última operação e assumiu a missão, não foi?\nEntão, pensei que talvez pudesse nos dar uma força dessa vez também...",
+        "pt-BR": "[Gerbena]\nVocê já se uniu à Rebelião na última operação e assumiu a missão, não foi?\nEntão, pensei que talvez pudesse nos dar uma força dessa vez também...",
         "es-ES": "[Gerbena]\nNo, pero, héroe, en la última operación también se alió con la Rebelión para llevar a cabo la misión.\nPor eso pensaba que tal vez podría echarnos una mano esta vez también..."
     },
     "HvqLDA": {
@@ -636,17 +636,17 @@
     },
     "H/qLDA": {
         "en-US": "Let me hear what this is about first...",
-        "pt-BR": "Vamos ouvir primeiro do que se trata...",
+        "pt-BR": "Do que se trata...?",
         "es-ES": "Primero voy a escuchar de qué se trata..."
     },
     "IPqLDA": {
         "en-US": "[Ansuria]\nAh, that's right. That's the order of things.\nThe thing is, we've discovered a new testing facility near Einbroch.",
-        "pt-BR": "[Ansuria]\nAh, é verdade. Essa é a ordem certa.\nO que acontece é que descobrimos uma nova instalação experimental nos arredores de Einbroch.",
+        "pt-BR": "[Ansuria]\nAh, é verdade. Não expliquei.\nO que acontece é que descobrimos um novo laboratório clandestino nos arredores de Einbroch.",
         "es-ES": "[Ansuria]\nAh, claro. Ese es el orden.\nEl caso es que hemos descubierto unas nuevas instalaciones experimentales en los alrededores de Einbroch."
     },
     "IfqLDA": {
         "en-US": "[Ansuria]\nThe name is <FONT COLOR = 0000CD>Amicitia Research Institute</FONT>. According to data provided by Rekenber, it is said to be a sister lab to Werner's lab.",
-        "pt-BR": "[Ansuria]\nO nome é <FONT COLOR = 0000CD>Instituto de Pesquisa Amicitia</FONT>. Segundo os dados fornecidos por Rekenber, é um instituto irmão do Instituto Werner.",
+        "pt-BR": "[Ansuria]\nO nome é <FONT COLOR = 0000CD>Laboratório Amicitia</FONT>. Segundo os dados fornecidos pela Rekenber, é um instituto irmão do Laboratório Werner.",
         "es-ES": "[Ansuria]\nSe llama <FONT COLOR = 0000CD>Instituto de Investigación Amicitia</FONT>. Según los datos proporcionado por Rekenber se trata de un instituto asociado al Instituto Werner."
     },
     "IvqLDA": {
@@ -676,7 +676,7 @@
     },
     "J/qLDA": {
         "en-US": "[Gerbena]\nIf you could help us, sir hero, it would make the cleanup much easier for us!",
-        "pt-BR": "[Gerbena]\nSe o herói puder nos ajudar, a gente vai conseguir fazer o trabalho de limpeza com muito mais facilidade!",
+        "pt-BR": "[Gerbena]\nSe você puder nos ajudar, a gente vai conseguir fazer o trabalho de limpeza com muito mais facilidade!",
         "es-ES": "[Gerbena]\n¡Si nos ayudas, Héroe, nos resultará mucho más fácil llevar a cabo la limpieza!"
     },
     "KPqLDA": {
@@ -691,7 +691,7 @@
     },
     "KvqLDA": {
         "en-US": "[Ansuria]\nIt's an honor to work alongside you, adventurer!",
-        "pt-BR": "[Gerbena]\nÉ uma honra poder trabalhar ao lado de você, viajante!",
+        "pt-BR": "[Gerbena]\nÉ uma honra poder trabalhar ao seu lado, viajante!",
         "es-ES": "[Gerbena]\n¡Es un honor poder trabajar contigo, trotamundos!"
     },
     "K/qLDA": {
@@ -701,17 +701,17 @@
     },
     "LPqLDA": {
         "en-US": "[Ansuria]\nWould you prefer to take the mission alone, or with a Rebellion task force?",
-        "pt-BR": "[Ansuria]\nPrefere receber a missão sozinho ou junto com a equipe de missões da Rebelião?",
+        "pt-BR": "[Ansuria]\nPrefere receber a missão só ou junto com a equipe de missões da Rebelião?",
         "es-ES": "[Ansuria]\n¿Prefieres realizar las misiones solo o con el equipo de la Rebelión?"
     },
     "LfqLDA": {
         "en-US": "Alone is better.",
-        "pt-BR": "Prefiro sozinho.",
+        "pt-BR": "Prefiro ir só.",
         "es-ES": "Prefiero hacerlo solo."
     },
     "LvqLDA": {
         "en-US": "[Ansuria]\nThen we should combine the Rebellion mission teams and put the adventurer on a solo mission... *Mumble, mumble...*\nAh, why am I thinking about this alone? Gerbena, you help me!",
-        "pt-BR": "[Ansuria]\nEntão, vamos juntar a equipe de missões da Rebelião e deixar o viajante fazer a missão sozinho... murmura.\nAh, por que estou pensando sozinha? Gerbena, você também pensa!",
+        "pt-BR": "[Ansuria]\nEntão, vamos juntar a equipe de missões da Rebelião e deixar você fazer a missão só...\nAh, por que estou falando sozinha? Gerbena, você também fala!",
         "es-ES": "[Ansuria]\nEntonces, uniremos el equipo de misión de la Rebelión y la misión individual del trotamundos... *murmura*\n¡Ay, por qué estoy pensando en esto yo sola! ¡Gerbena, hazlo tú también!"
     },
     "L/qLDA": {
@@ -721,17 +721,17 @@
     },
     "MPqLDA": {
         "en-US": "[Ansuria]\nAh... My apologies.\nIt's our business, after all. We shouldn't have taken your help for granted.",
-        "pt-BR": "[Ansuria]\nAh... desculpa aí.\nÉ um trabalho nosso, mas eu esperava a ajuda do Herói sem pensar direito.",
+        "pt-BR": "[Ansuria]\nAh... desculpa aí.\nÉ um trabalho nosso, mas eu esperava a sua ajuda sem pensar direito.",
         "es-ES": "[Ansuria]\nAh... perdón.\nEste es un asunto nuestro, pero he dado por sentado que el héroe nos ayudaría."
     },
     "MfqLDA": {
         "en-US": "[Ansuria]\nYou must have your own business to attend to, Hero!\nWe'll figure this out on our own somehow.",
-        "pt-BR": "[Ansuria]\nO Herói deve ter seus próprios afazeres!\nVamos tentar resolver isso com nossas próprias forças.",
+        "pt-BR": "[Ansuria]\nVocê deve ter seus próprios afazeres!\nVamos tentar resolver isso com nossas próprias forças.",
         "es-ES": "[Ansuria]\n¡Seguramente el héroe tiene sus propios asuntos que atender!\nIntentaremos resolver este asunto por nuestros propios medios."
     },
     "MvqLDA": {
         "en-US": "[Ansuria]\nSir Hero, we'd like you to help us with these missions in the Amicitia Lab.\nWhich one can you do?",
-        "pt-BR": "[Ansuria]\nHerói, estas são as tarefas que o Instituto Amicitia gostaria de te pedir.\nEm qual delas você gostaria de ajudar?",
+        "pt-BR": "[Ansuria]\nViajante, estas são as tarefas que o Laboratório Amicitia gostaria de te pedir.\nEm qual delas você gostaria de ajudar?",
         "es-ES": "[Ansuria]\nHéroe, estas son las tareas que nos gustaría pedirte en el laboratorio Amicitia.\n¿En cuál de ellas nos ayudarías?"
     },
     "M/qLDA": {
@@ -746,7 +746,7 @@
     },
     "NfqLDA": {
         "en-US": "Werner's Traces",
-        "pt-BR": "Os rastros de Werner",
+        "pt-BR": "Rastros de Werner",
         "es-ES": "Rastro de Werner"
     },
     "NvqLDA": {
@@ -756,7 +756,7 @@
     },
     "N/qLDA": {
         "en-US": "[Ansuria]\nThank you for being so active in helping us.\nCould you come back after dawn?",
-        "pt-BR": "[Ansuria]\nObrigada por te juntares a nós com tanta dedicação.\nPodes voltar depois do amanhecer?",
+        "pt-BR": "[Ansuria]\nObrigada por se juntar a nós com tanta dedicação.\nPodes voltar depois do amanhecer?",
         "es-ES": "[Ansuria]\nGracias por colaborar tan activamente con nosotros.\n¿Podrías volver después del amanecer?"
     },
     "OPqLDA": {
@@ -766,7 +766,7 @@
     },
     "OfqLDA": {
         "en-US": "[Ansuria]\nThey show more characteristics of Earth and Fire Properties than the others. You won't miss them.\nThey're more like monsters than homunculi now.",
-        "pt-BR": "[Ansuria]\nElas apresentam características dos elementos terra e fogo muito mais fortes do que os indivíduos anteriores, então você vai reconhecê-las rapidamente.\nNa verdade, agora elas estão mais para monstros do que para homúnculos...",
+        "pt-BR": "[Ansuria]\nElas apresentam características dos elementos terra e fogo muito mais fortes do que os homúnculos, então você vai reconhecê-las rapidamente.\nNa verdade, agora elas estão mais para monstros do que para homúnculos...",
         "es-ES": "[Ansuria]\nTienen características de los elementos tierra y fuego mucho con mucha más intensidad que en los ejemplares anteriores, así que las reconocerás enseguida.\nDe hecho, ya casi se parecen más a monstruos que a homúnculos..."
     },
     "OvqLDA": {
@@ -776,12 +776,12 @@
     },
     "O/qLDA": {
         "en-US": "Hunt.",
-        "pt-BR": "Caçar.",
+        "pt-BR": "Vou caçar.",
         "es-ES": "Cazar."
     },
     "PPqLDA": {
         "en-US": "Not hunting.",
-        "pt-BR": "Não caçar.",
+        "pt-BR": "Não irei caçar.",
         "es-ES": "No cazar."
     },
     "PfqLDA": {
@@ -791,17 +791,17 @@
     },
     "PvqLDA": {
         "en-US": "[Ansuria]\nPlease make sure they won't break out of the lab.",
-        "pt-BR": "[Ansuria]\nPor favor, certifica-te de que as quimeras não consigam sair do laboratório.",
+        "pt-BR": "[Ansuria]\nPor favor, certifique-se de que as quimeras não consigam sair do laboratório.",
         "es-ES": "[Ansuria]\nTe pido que te asegures de que las quimeras no salgan del laboratorio."
     },
     "P/qLDA": {
         "en-US": "[Ansuria]\nMm? Have you changed your mind?",
-        "pt-BR": "[Ansuria]\nHmm? Mudaste de ideia?",
+        "pt-BR": "[Ansuria]\nHmm? Mudou de ideia?",
         "es-ES": "[Ansuria]\n¿Eh? ¿Has cambiado de opinión?"
     },
     "QPqLDA": {
         "en-US": "[Ansuria]\nWell, then... I'll have to reassign our teams... Ugh.\nSir hero, could you please reconsider calmly?",
-        "pt-BR": "[Ansuria]\nEntão... vou ter que reorganizar a equipe... Ugh.\nHerói, que tal repensar tudo com calma?",
+        "pt-BR": "[Ansuria]\nEntão... vou ter que reorganizar a equipe... Ugh.\nViajante, que tal repensar tudo com calma?",
         "es-ES": "[Ansuria]\nBueno, entonces... tendré que reorganizar el equipo... Uf.\nHéroe, ¿te importaría pensarlo con calma otra vez?"
     },
     "QfqLDA": {
@@ -811,12 +811,12 @@
     },
     "QvqLDA": {
         "en-US": "[Ansuria]\nPlease hunt 15 of each.",
-        "pt-BR": "[Ansuria]\nSão 15 de cada, por favor, caça-os bem.",
+        "pt-BR": "[Ansuria]\nSão 15 de cada, por favor, elimine-os.",
         "es-ES": "[Ansuria]\nSon 15 de cada uno, por favor, cázalos bien."
     },
     "Q/qLDA": {
         "en-US": "[Ansuria]\nWelcome back. You've completed the mission I assigned.",
-        "pt-BR": "[Ansuria]\nJá voltaste? Então, concluíste todas as missões que te pedi.",
+        "pt-BR": "[Ansuria]\nJá voltou? Então, você concluiu todas as missões que te pedi.",
         "es-ES": "[Ansuria]\n¿Ya regresaste? Veo que has completado la misión que te encargué."
     },
     "RPqLDA": {
@@ -826,7 +826,7 @@
     },
     "RfqLDA": {
         "en-US": "[Ansuria]\nAs expected of you, Hero. It's rare to find someone outside the Rebellion who works so diligently and efficiently.\nI'd be grateful if you could join us again tomorrow.",
-        "pt-BR": "[Ansuria]\nComo sempre, herói. É raro encontrar alguém que trabalhe de forma tão dedicada e organizada ao colaborar com o pessoal de fora da Rebelião.\nFicaria muito grato se pudesses participar da missão amanhã também.",
+        "pt-BR": "[Ansuria]\nComo sempre, viajante. É raro encontrar alguém que trabalhe de forma tão dedicada e organizada ao colaborar com o pessoal de fora da Rebelião.\nFicaria muito grato se pudesses participar da missão amanhã também.",
         "es-ES": "[Ansuria]\nComo era de esperar de ti, Héroe. Es raro encontrar a alguien fuera de la Rebelión que se encargue de todo con tanta diligencia y precisión.\nTe agradecería mucho que participaras en la misión de mañana también."
     },
     "RvqLDA": {
@@ -866,12 +866,12 @@
     },
     "TfqLDA": {
         "en-US": "[Ansuria]\nThanks to the groundwork you laid ahead of us, our entry should be smooth sailing.\nMy deepest gratitude.",
-        "pt-BR": "[Ansuria]\nGraças ao Herói ter limpado o caminho antes, a gente vai conseguir entrar sem problemas, né?\nMuito obrigada.",
+        "pt-BR": "[Ansuria]\nGraças a você ter limpado o caminho antes, a gente vai conseguir entrar sem problemas, né?\nMuito obrigada.",
         "es-ES": "[Ansuria]\nGracias a que el Héroe se adelantó y despejó el camino, podremos avanzar sin problemas.\nTe lo agradezco mucho."
     },
     "TvqLDA": {
         "en-US": "[Ansuria]\nWorking alongside someone outside the Rebellion, I've never felt such perfect synergy before.\nSir Hero, could you join us again tomorrow?",
-        "pt-BR": "[Ansuria]\nÉ a primeira vez que sinto que a gente se dá tão bem trabalhando com o pessoal de fora da Rebelião.\nHerói, você vai participar da missão amanhã também?",
+        "pt-BR": "[Ansuria]\nÉ a primeira vez que sinto que a gente se dá tão bem trabalhando com o pessoal de fora da Rebelião.\nViajante, você vai participar da missão amanhã também?",
         "es-ES": "[Ansuria]\nEs la primera vez que siento que nos llevamos tan bien trabajando con gente de fuera de la Rebelión.\nHéroe, ¿participarás en la misión de mañana también?"
     },
     "T/qLDA": {
@@ -896,7 +896,7 @@
     },
     "U/qLDA": {
         "en-US": "[Ansuria]\nIt's nothing else—we're searching for <FONT COLOR = 0000CD>Werner's Traces</FONT> on the 1st floor of the Amicitia Abandoned Lab.",
-        "pt-BR": "[Ansuria]\nNão é nada de mais, trata-se de encontrar <FONT COLOR = 0000CD>Vestígios de Werner</FONT> no 1º andar do Laboratório Abandonado Amicitia.",
+        "pt-BR": "[Ansuria]\nNão é nada de mais, trata-se de encontrar <FONT COLOR = 0000CD>Rastros de Werner</FONT> no 1º andar do Laboratório Abandonado Amicitia.",
         "es-ES": "[Ansuria]\nNo es otra cosa sino buscar <FONT COLOR = 0000CD>Rastros de Werner</FONT> en el primer piso del Laboratorio Abandonado Amicitia."
     },
     "VPqLDA": {
@@ -916,12 +916,12 @@
     },
     "V/qLDA": {
         "en-US": "I won't go.",
-        "pt-BR": "Não vou.",
+        "pt-BR": "Não estou afim.",
         "es-ES": "No me voy."
     },
     "WPqLDA": {
         "en-US": "[Ansuria]\nVery well. It won't be easy to find, so... I ask that you bring back just one trace, any trace at all.\nWell then, I'll be counting on you.",
-        "pt-BR": "[Ansuria]\nTudo bem. Como não deve ser fácil de encontrar... peço que traga apenas um único vestígio, qualquer que seja.\nEntão, conto com você.",
+        "pt-BR": "[Ansuria]\nTudo bem. Como não deve ser fácil de encontrar... peço que traga apenas um único rastro, qualquer que seja.\nEntão, conto com você.",
         "es-ES": "[Ansuria]\nMuy bien. Como no será fácil encontrarlo... así que te pido que me traigas aunque sea un solo indicio.\nBueno, cuento conmigo."
     },
     "WfqLDA": {
@@ -946,27 +946,27 @@
     },
     "XfqLDA": {
         "en-US": "Oh, this is a research journal. You've found something valuable.",
-        "pt-BR": "Ah, isso é um diário de pesquisa. Encontraste algo valioso.",
+        "pt-BR": "Ah, isso é um diário de pesquisa! Você encontrou algo valioso.",
         "es-ES": "Oh, esto es un diario de investigación. Encontraste algo valioso."
     },
     "XvqLDA": {
         "en-US": "Ah, this is a disc. It looks useful.",
-        "pt-BR": "Ah, isso é um disco. Vai ser útil.",
+        "pt-BR": "Ah, isso é um disco rígido! Vai ser útil.",
         "es-ES": "Ah, ¿esto es un disco? Me va a ser útil."
     },
     "X/qLDA": {
         "en-US": "What's this? It's long and curly... hair?",
-        "pt-BR": "O que é isso? Um cabelo comprido e encaracolado... um fio de cabelo?",
+        "pt-BR": "O que é isso? Um fio de... cabelo?",
         "es-ES": "¿Qué es esto? Un pelo largo y ondulado... ¿un mechón?"
     },
     "YPqLDA": {
         "en-US": "A business card holder, huh? That looks helpful.",
-        "pt-BR": "Um porta-cartões, parece que vai ser útil.",
+        "pt-BR": "Uma carteira? Parece que vai ser útil.",
         "es-ES": "Un tarjetero, parece que me va a servir."
     },
     "YfqLDA": {
         "en-US": "You've got the right one. I recognize Werner's handwriting.",
-        "pt-BR": "Você veio ao lugar certo. Essa anotação é a caligrafia do Werner.",
+        "pt-BR": "Você foi ao lugar certo. Essa é a caligrafia do Werner.",
         "es-ES": "Has venido al lugar correcto. Esta nota tiene la letra de Werner."
     },
     "YvqLDA": {
@@ -986,52 +986,52 @@
     },
     "ZfqLDA": {
         "en-US": "Something",
-        "pt-BR": "Algo",
+        "pt-BR": "Rastros",
         "es-ES": "Algo"
     },
     "ZvqLDA": {
         "en-US": "[Something]\nThere's something on the ground. Should I take a closer look?",
-        "pt-BR": "[Algo]\nTem algo no chão. Vamos dar uma olhada mais de perto?",
+        "pt-BR": "[Rastros]\nTem rastros no chão. Vamos dar uma olhada mais de perto?",
         "es-ES": "[Algo]\nHay algo en el suelo. ¿Lo miramos de cerca?"
     },
     "Z/qLDA": {
         "en-US": "[Something]\nI can barely make out the letters on the cover. Research Journal? Maybe it belongs to Werner.",
-        "pt-BR": "[Algo]\nConsegui decifrar as letras escritas na capa. Um diário de pesquisa? Pode ser do Werner.",
+        "pt-BR": "[Rastros]\nConsegui decifrar as letras escritas na capa do livro. Parece ser um diário de pesquisa? Pode ser do Werner.",
         "es-ES": "[Algo]\nApenas pude distinguir las letras escritas en la portada. ¿Un diario de investigación? Quizás sea de Werner."
     },
     "aPqLDA": {
         "en-US": "[Something]\nI'd better bring it with me.",
-        "pt-BR": "[Algo]\nVamos levar isso pra dar uma olhada.",
+        "pt-BR": "[Rastros]\nVamos levar isso pra dar uma olhada.",
         "es-ES": "[Algo]\nLlevémoslo para ver qué es."
     },
     "afqLDA": {
         "en-US": "[Something]\nIt looks like some sort of mechanical storage device. Should I take it with me? It might belong to Werner.",
-        "pt-BR": "[Algo]\nParece um dispositivo de armazenamento de máquina. Vou levar por enquanto? Pode ser do Werner.",
+        "pt-BR": "[Rastros]\nParece um dispositivo de armazenamento de máquina. Acho que isso é tudo? Pode ser do Werner.",
         "es-ES": "[Algo]\nParece un dispositivo de almacenamiento de la máquina. ¿Lo llevo por si acaso? Quizás sea de Werner."
     },
     "avqLDA": {
         "en-US": "[Something]\nLong, curly, dark hair. This has got to be Werner's!",
-        "pt-BR": "[Algo]\nCabelos longos, encaracolados e de cor escura. Isso com certeza é do Werner.",
+        "pt-BR": "[Rastros]\nCabelos longos, encaracolados e de cor escura. Isso com certeza é do Werner.",
         "es-ES": "[Algo]\nCabello largo, ondulado y oscuro. Sin duda es de Werner."
     },
     "a/qLDA": {
         "en-US": "[Something]\nIt's a business card holder. I can hardly read the letters on it because it's wet, but perhaps it belongs to Werner.",
-        "pt-BR": "[Algo]\nÉ um porta-cartões. Está molhado e a letra está difícil de ler, mas pode ser do Werner.",
+        "pt-BR": "[Rastros]\nÉ uma carteira. Está molhada e a letra está difícil de ler, mas pode ser do Werner.",
         "es-ES": "[Algo]\nEs un tarjetero. Está mojado, así que la letra es difícil de leer, pero podría ser de Werner."
     },
     "bPqLDA": {
         "en-US": "[Something]\nA research memo written in neat handwriting. It has to be Werner's.",
-        "pt-BR": "[Algo]\nAnotações de pesquisa com uma caligrafia elegante. A letra do Werner deve ser exatamente assim.",
+        "pt-BR": "[Rastros]\nAnotações de pesquisa com uma caligrafia elegante. A letra do Werner deve ser exatamente assim.",
         "es-ES": "[Algo]\nApuntes de investigación escritos con letra legible. La letra de Werner es exactamente así."
     },
     "bfqLDA": {
         "en-US": "[Something]\nSomething's dropped on the ground.\nIt's just a piece of garbage.",
-        "pt-BR": "[Algo]\nTem algo caído no chão.\nParece ser só lixo.",
+        "pt-BR": "[Rastros]\nTem rastros no chão.\nParece ser só lixo.",
         "es-ES": "[Algo]\nHay algo tirado en el suelo. \nParece que solo es basura."
     },
     "bvqLDA": {
         "en-US": "Something Remote Controller",
-        "pt-BR": "Algum Controle Remoto",
+        "pt-BR": "Controle Remoto",
         "es-ES": "Algun Control Remoto"
     },
     "b/qLDA": {
@@ -1046,22 +1046,22 @@
     },
     "cfqLDA": {
         "en-US": "[Ansuria]\nIts name is the Amicitia Research Institute. According to data provided by Rekenberg, it is said to be a sister institute to the Werner Research Institute.",
-        "pt-BR": "[Ansuria]\nO nome é Instituto de Pesquisa Amicitia. De acordo com os dados fornecidos por Rekenber, é um instituto irmão do Instituto Werner.",
+        "pt-BR": "[Ansuria]\nO nome do local é Laboratório Amicitia. De acordo com os dados fornecidos pela Rekenber, é um instituto irmão do Laboratório Werner.",
         "es-ES": "[Ansuria]\nSe llama Instituto de Investigación Amicitia. Según los proporcionada por Rekenber, se trata de un instituto asociado al Instituto Werner."
     },
     "cvqLDA": {
         "en-US": "[Gerbena]\nAh... My apologies.\nThis is our business, yet we carelessly expected the hero's assistance.",
-        "pt-BR": "[Gerbena]\nAh... cometi uma gafe.\nÉ um assunto nosso, mas acabei esperando a ajuda do herói de forma um tanto ingênua.",
+        "pt-BR": "[Gerbena]\nAh... cometi uma gafe.\nÉ um assunto nosso, mas acabei esperando sua ajuda de forma um tanto ingênua.",
         "es-ES": "[Gerbena]\nAh... te he ofendido.\nEs asunto nuestro, pero esperábamos tu ayuda de forma un poco ingenua."
     },
     "c/qLDA": {
         "en-US": "[Gerbena]\nYou must have your own matters to attend to, Sir Hero?\nWe'll resolve this matter by our own strength somehow.",
-        "pt-BR": "[Gerbena]\nO herói deve ter seus próprios afazeres, não é?\nVamos tentar resolver isso com nossas próprias forças.",
+        "pt-BR": "[Gerbena]\nVocê deve ter seus próprios afazeres, não é?\nVamos tentar resolver isso com nossas próprias forças.",
         "es-ES": "[Gerbena]\nSeguramente el héroe tiene sus propios asuntos que atender, ¿no?\nIntentaremos resolver esto por nuestras propias fuerzas."
     },
     "dPqLDA": {
         "en-US": "[Gerbena]\nSir hero, Amicitia had an Intensive Culture Room of homunculi on the second floor.\nThere, the researchers studied how to create more powerful mutant chimeras.",
-        "pt-BR": "[Gerbena]\nHerói, no segundo andar do Instituto Amicitia havia uma sala de cultivo intensivo de homúnculos.\nLá, eles estavam criando quimeras mutantes ainda mais poderosas.",
+        "pt-BR": "[Gerbena]\nViajante, no 2º andar do Laboratório Amicitia havia uma sala de cultivo intensivo de homúnculos.\nLá, eles estavam criando quimeras mutantes ainda mais poderosas.",
         "es-ES": "[Gerbena]\nHéroe, en el segundo piso del Instituto Amicitia había una sala de cultivo intensivo de homúnculos.\nAllí estaban creando quimeras aún más poderosas."
     },
     "dfqLDA": {
@@ -1071,12 +1071,12 @@
     },
     "dvqLDA": {
         "en-US": "Imitation and Authenticity",
-        "pt-BR": "Imitacão e realidade",
+        "pt-BR": "Imitação e Realidade",
         "es-ES": "Imitación y Realidad"
     },
     "d/qLDA": {
         "en-US": "Natural Change",
-        "pt-BR": "Mudança natural",
+        "pt-BR": "Mudança Natural",
         "es-ES": "Cambio Natural"
     },
     "ePqLDA": {
@@ -1086,17 +1086,17 @@
     },
     "efqLDA": {
         "en-US": "[Gerbena]\nPlease come back after dawn and work with me!",
-        "pt-BR": "[Gerbena]\nVolta depois do amanhecer para trabalharmos juntos!",
+        "pt-BR": "[Gerbena]\nVolte depois do amanhecer para trabalharmos juntos!",
         "es-ES": "[Gerbena]\n¡Vuelve después del amanecer para que trabajemos juntos!"
     },
     "evqLDA": {
         "en-US": "[Gerbena]\nAmong the tasks performed in the Intensive Culture Room was the mass production of mutant chimeras.",
-        "pt-BR": "[Gerbena]\nEntre as tarefas que fazíamos na sala de cultivo concentrado, havia a produção em massa de quimeras mutantes.",
+        "pt-BR": "[Gerbena]\nEntre as tarefas que fazíamos na sala de cultivo, havia a produção em massa de quimeras mutantes.",
         "es-ES": "[Gerbena]\nEntre los trabajos que se realizaban en la sala de cultivo intensivo, estaba la producción en masa de quimeras mutantes."
     },
     "e/qLDA": {
         "en-US": "[Gerbena]\nWe retransmutated the mutated homunculi and further amplified their aggression.",
-        "pt-BR": "[Gerbena]\nRe-mutamos os homúnculos mutantes e reforçamos ainda mais a agressividade deles.",
+        "pt-BR": "[Gerbena]\nAcabamos os homúnculos mutantes e acalmamos ainda mais a agressividade deles.",
         "es-ES": "[Gerbena]\nHacían mutar de nuevo a los homúnculos que ya habían mutado, y además intensificaban aún más su agresividad."
     },
     "fPqLDA": {
@@ -1116,12 +1116,12 @@
     },
     "f/qLDA": {
         "en-US": "[Gerbena]\nIt's an honor you'd help me!\nMay I join that hero?",
-        "pt-BR": "[Gerbena]\nÉ uma honra que você queira ajudar!\nPosso participar junto com você, herói?",
+        "pt-BR": "[Gerbena]\nÉ uma honra que você queira ajudar!\nEu conto com você, viajante?",
         "es-ES": "[Gerbena]\n¡Es un honor contar con tu ayuda!\n¿Puedo participar junto a ti, héroe?"
     },
     "gPqLDA": {
         "en-US": "[Ansuria]\nYou said you didn't want to go in there. Besides, they prefer doing it alone. So, just calm down, Gerbena.",
-        "pt-BR": "[Ansuria]\nAgora você diz que não, mas antes disse que não queria. Você prefere fazer isso sozinho, né? Calma aí, Gerbena.",
+        "pt-BR": "[Ansuria]\nAgora você diz que não, mas antes disse que não queria. Você prefere fazer isso só, né? Calma aí, Gerbena.",
         "es-ES": "[Ansuria]\nHace un rato decías que no querías. Además, ya dejó claro que prefiere trabajar solo. Cálmate, Gerbena."
     },
     "gfqLDA": {
@@ -1131,7 +1131,7 @@
     },
     "gvqLDA": {
         "en-US": "[Gerbena]\nAh, you've changed your tune, Hero...\nGerbena is heartbroken!",
-        "pt-BR": "[Gerbena]\nAh, herói, mudou de ideia...\nGerbena está muito triste!",
+        "pt-BR": "[Gerbena]\nAh, você mudou de ideia...\nEstou muito triste!",
         "es-ES": "[Gerbena]\n¡Ah, Héroe, has cambiado de opinión!\nGerbena está muy triste!"
     },
     "g/qLDA": {
@@ -1141,12 +1141,12 @@
     },
     "hPqLDA": {
         "en-US": "[Gerbena]\nThe Illusion Unit is currently deployed and continuing the mission.\nThanks to you, they've made a smooth entry and are suppressing the Chimera.",
-        "pt-BR": "[Gerbena]\nNo momento, a tropa Ilusion está em ação e continua com a missão.\nGraças a você, herói, eles conseguiram entrar sem dificuldades e estão subjugando a quimera.",
+        "pt-BR": "[Gerbena]\nNo momento, a tropa da Rebelião está em ação e continua com a missão.\nGraças a você, eles conseguiram entrar sem dificuldades e estão caçando a quimera.",
         "es-ES": "[Gerbena]\nAhora mismo, la unidad Ilusión está en acción y sigue con la misión.\nDicen que gracias a ti, Héroe, han podido entrar sin problemas y están neutralizando a las quimeras."
     },
     "hfqLDA": {
         "en-US": "[Gerbena]\nUgh, I really wanted to see the hero's amazing battle myself...\nSomeday, I'll get the chance, right?",
-        "pt-BR": "[Gerbena]\nUgh, eu também queria ver pessoalmente a tua luta incrível, herói...\nAlgum dia, terei a chance de ver, não é?",
+        "pt-BR": "[Gerbena]\nUgh, eu também queria ver pessoalmente você lutar...\nAlgum dia, terei a chance de ver, não é?",
         "es-ES": "[Gerbena]\n¡Ay! Tenía muchísimas ganas de ver en persona la magnífica batalla del héroe...\nAlgún día tendré la oportunidad de verlo, ¿no?"
     },
     "hvqLDA": {
@@ -1161,12 +1161,12 @@
     },
     "iPqLDA": {
         "en-US": "[Gerbena]\nAmong the homunculi in the intensive cultivation chamber are Mutant Chimera Lava and Mutant Chimera Fulgor.",
-        "pt-BR": "[Gerbena]\nEntre os homúnculos da sala de cultivo intensivo há a Quimera Lava e a Quimera Fulgor.",
+        "pt-BR": "[Gerbena]\nEntre os homúnculos da sala de cultivo intensivo estão a Quimera Lava e a Quimera Fulgor.",
         "es-ES": "[Gerbena]\nEntre los homúnculos de la sala de cultivo intensivo hay la Quimera Lava y la Quimera Fulgor."
     },
     "ifqLDA": {
         "en-US": "[Gerbena]\nThey appear similar to the original homunculi, Dieter and Bayeri, but they are significantly different.\nFor one thing, these mutant chimeras have no owners and are capable of multiplying themselves on their own.",
-        "pt-BR": "[Gerbena]\nEles parecem semelhantes aos homúnculos Dieter e Bayeri já conhecidos, mas são bem diferentes.\nPara começar, o fato de se reproduzirem por conta própria, sem um dono, já os diferencia dos homúnculos.",
+        "pt-BR": "[Gerbena]\nEles parecem semelhantes aos homúnculos Dieter e Bayeri já conhecidos, mas são bem diferentes.\nPara começar, o fato de se reproduzirem por conta própria, sem um mestre, já os diferencia dos homúnculos.",
         "es-ES": "[Gerbena]\nParecen similares a los homúnculos Dieter y Bayeri, pero son muy diferentes.\nPara empezar, el hecho de que se reproduzcan y tomen decisiones por sí mismos sin necesidad de un dueño ya los distingue de un homúnculo común."
     },
     "ivqLDA": {
@@ -1176,12 +1176,12 @@
     },
     "i/qLDA": {
         "en-US": "[Gerbena]\nSo, hero, could you help us hunt <FONT COLOR = 0000CD>15 Mutant Chimera Lava Eaters and 15 Mutant Chimera Fulgor</FONT>?",
-        "pt-BR": "[Gerbena]\nEntão, herói, você poderia nos ajudar a caçar 15 <FONT COLOR = 0000CD>Quimeras Lava e 15 Quimeras Fulgor</FONT>?",
+        "pt-BR": "[Gerbena]\nEntão, viajante, você poderia nos ajudar a caçar 15 <FONT COLOR = 0000CD>Quimeras Lava e 15 Quimeras Fulgor</FONT>?",
         "es-ES": "[Gerbena]\nEntonces, Héroe, ¿podrías ayudarnos a cazar <FONT COLOR = 0000CD>15 Quimeras Lava y 15 Quimeras Fulgor</FONT>?"
     },
     "jPqLDA": {
         "en-US": "[Ansuria]\nYou said you didn't want to earlier. You prefer doing it alone, don't you? Calm down, Gebena.",
-        "pt-BR": "[Ansuria]\nAgora você disse que não queria. Você prefere fazer isso sozinho, né? Acalma-te, Gerbena.",
+        "pt-BR": "[Ansuria]\nAgora você disse que não queria. Você prefere fazer isso só, né? Acalme-se, Gerbena.",
         "es-ES": "[Ansuria]\nAgora você disse que não queria. Você prefere fazer isso sozinho, né? Acalma-te, Gerbena."
     },
     "jfqLDA": {
@@ -1191,7 +1191,7 @@
     },
     "jvqLDA": {
         "en-US": "[Gerbena]\nYes! Mission complete, confirmed. I'm deploying the Illusion forces now!\nThanks to you, they should be able to enter smoothly and subdue the chimeras without difficulty.",
-        "pt-BR": "[Gerbena]\nSim! Missão concluída, confirmado. Agora vamos enviar o Esquadrão Ilusion!\nGraças a você, parece que eles vão conseguir entrar facilmente e neutralizar as quimeras.",
+        "pt-BR": "[Gerbena]\nSim! Missão concluída, confirmado. Agora vamos enviar o reporte para a Rebelião!\nGraças a você, parece que eles vão conseguir entrar facilmente e neutralizar as quimeras.",
         "es-ES": "[Gerbena]\n¡Sí! Misión completada, confirmado. ¡Ahora desplegaremos a la unidad Ilusión!\nDicen que gracias a ti podremos entrar fácilmente y neutralizar a las Quimeras."
     },
     "j/qLDA": {
@@ -1221,22 +1221,22 @@
     },
     "lPqLDA": {
         "en-US": "[Lana]\nWould you like to go to the 1st floor of Amicitia Research Institute?",
-        "pt-BR": "[Lana]\nQueres ir para o 1º andar do Instituto de Pesquisa Amicitia?",
+        "pt-BR": "[Lana]\nQuer ir para o 1º andar do Laboratório Amicitia?",
         "es-ES": "[Lana]\n¿Quieres ir al primer piso del Instituto de Investigación Amicitia?"
     },
     "lfqLDA": {
         "en-US": "I'm going.",
-        "pt-BR": "Vou.",
+        "pt-BR": "Sim, quero.",
         "es-ES": "Voy."
     },
     "lvqLDA": {
         "en-US": "No.",
-        "pt-BR": "Não vou.",
+        "pt-BR": "Não quero.",
         "es-ES": "No voy."
     },
     "l/qLDA": {
         "en-US": "[Lana]\nUnderstood. I'll transport you to the Amicitia Research Institute.",
-        "pt-BR": "[Lana]\nEntendi. Vou te levar até o Instituto de Pesquisa Amicitia.",
+        "pt-BR": "[Lana]\nEntendi. Vou te levar até o Laboratório Amicitia.",
         "es-ES": "[Lana]\nEntendido. Te llevaré al Instituto de Investigación Amicitia."
     },
     "mPqLDA": {

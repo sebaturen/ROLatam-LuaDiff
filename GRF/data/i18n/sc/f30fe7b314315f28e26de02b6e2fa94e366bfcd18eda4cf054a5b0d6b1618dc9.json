@@ -803,11 +803,13 @@
     },
     "/w0D": {
         "en-US": "Trans-Form-!! Bloody Murderer Fo-rm!!",
-        "pt-BR": "Sinto cheiro de sangue!"
+        "pt-BR": "Sinto cheiro de sangue!",
+        "es-ES": "¡Siento olor a sangre!"
     },
     "AA4D": {
         "en-US": "Trans-Form-!!! Bathory Fo-rm!!",
-        "pt-BR": "Vou fazer a magia acontecer!"
+        "pt-BR": "Vou fazer a magia acontecer!",
+        "es-ES": "¡Haré que la magia suceda!"
     },
     "AQ4D": {
         "en-US": "Trans-Form-!! Jack Fo-rm!!",
@@ -1113,5 +1115,178 @@
         "en-US": "Angel, please help me!",
         "pt-BR": "Anjo, por favor me ajude!",
         "es-ES": "¡Ángel, por favor ayúdame!"
+    },
+    "RQ4D": {
+        "en-US": "스모키가 왔으니 안심하라구!!"
+    },
+    "Rg4D": {
+        "en-US": "맹수의 힘이 솟아난다 !!"
+    },
+    "Rw4D": {
+        "en-US": "이것이 바로 신선의 도력이다 !!"
+    },
+    "SA4D": {
+        "en-US": "Smokie-formation!",
+        "pt-BR": "Hora de Morfar: Fumacento!",
+        "es-ES": "¡Formación Smokie!"
+    },
+    "SQ4D": {
+        "en-US": "Roaaar!",
+        "pt-BR": "Rawr !!",
+        "es-ES": "Grrr !!"
+    },
+    "Sg4D": {
+        "en-US": "This is my magic Power!",
+        "pt-BR": "A magia despertou!",
+        "es-ES": "Este es mi poder !!"
+    },
+    "Sw4D": {
+        "en-US": "I can smell the fragrance of flowers..",
+        "pt-BR": "Sinto o perfume das flores..",
+        "es-ES": "Puedo sentir el aroma de las flores.."
+    },
+    "TA4D": {
+        "en-US": "프론테라"
+    },
+    "TQ4D": {
+        "en-US": "이즈루드"
+    },
+    "Tg4D": {
+        "en-US": "게펜"
+    },
+    "Tw4D": {
+        "en-US": "페이욘"
+    },
+    "UA4D": {
+        "en-US": "모로크"
+    },
+    "UQ4D": {
+        "en-US": "알베르타"
+    },
+    "Ug4D": {
+        "en-US": "알데바란"
+    },
+    "Uw4D": {
+        "en-US": "유노"
+    },
+    "VA4D": {
+        "en-US": "리히타르젠"
+    },
+    "VQ4D": {
+        "en-US": "아인브로크"
+    },
+    "Vg4D": {
+        "en-US": "아인베흐"
+    },
+    "Vw4D": {
+        "en-US": "휘겔"
+    },
+    "WA4D": {
+        "en-US": "라헬"
+    },
+    "WQ4D": {
+        "en-US": "베인스"
+    },
+    "Wg4D": {
+        "en-US": "ì•„ë§ˆì¯”"
+    },
+    "Ww4D": {
+        "en-US": "ì¿¤ë£¬"
+    },
+    "XA4D": {
+        "en-US": "ì•„ìš”íƒ€ì•¼"
+    },
+    "XQ4D": {
+        "en-US": "ìš©ì§€ì„±"
+    },
+    "Xg4D": {
+        "en-US": "Prontera",
+        "pt-BR": "prontera",
+        "es-ES": "prontera"
+    },
+    "Xw4D": {
+        "en-US": "Izlude",
+        "pt-BR": "izlude",
+        "es-ES": "izlude"
+    },
+    "YA4D": {
+        "en-US": "Geffen",
+        "pt-BR": "geffen",
+        "es-ES": "geffen"
+    },
+    "YQ4D": {
+        "en-US": "Payon",
+        "pt-BR": "payon",
+        "es-ES": "payon"
+    },
+    "Yg4D": {
+        "en-US": "Morroc",
+        "pt-BR": "morocc",
+        "es-ES": "morocc"
+    },
+    "Yw4D": {
+        "en-US": "Alberta",
+        "pt-BR": "alberta",
+        "es-ES": "alberta"
+    },
+    "ZA4D": {
+        "en-US": "Aldebaran",
+        "pt-BR": "aldebaran",
+        "es-ES": "aldebaran"
+    },
+    "ZQ4D": {
+        "en-US": "Juno",
+        "pt-BR": "yuno",
+        "es-ES": "yuno"
+    },
+    "Zg4D": {
+        "en-US": "Lighthalzen",
+        "pt-BR": "lighthalzen",
+        "es-ES": "lighthalzen"
+    },
+    "Zw4D": {
+        "en-US": "Einbroch",
+        "pt-BR": "einbroch",
+        "es-ES": "einbroch"
+    },
+    "aA4D": {
+        "en-US": "Einbech",
+        "pt-BR": "einbech",
+        "es-ES": "einbech"
+    },
+    "aQ4D": {
+        "en-US": "Hugel",
+        "pt-BR": "hugel",
+        "es-ES": "hugel"
+    },
+    "ag4D": {
+        "en-US": "Rachel",
+        "pt-BR": "rachel",
+        "es-ES": "rachel"
+    },
+    "aw4D": {
+        "en-US": "Veins",
+        "pt-BR": "veins",
+        "es-ES": "veins"
+    },
+    "bA4D": {
+        "en-US": "Amatsu",
+        "pt-BR": "Amatsu",
+        "es-ES": "Amatsu"
+    },
+    "bQ4D": {
+        "en-US": "Kunlun",
+        "pt-BR": "Kunlun",
+        "es-ES": "Kunlun"
+    },
+    "bg4D": {
+        "en-US": "Ayothaya",
+        "pt-BR": "Ayothaya",
+        "es-ES": "Ayothaya"
+    },
+    "bw4D": {
+        "en-US": "Louyang",
+        "pt-BR": "Louyang",
+        "es-ES": "Louyang"
     }
 }

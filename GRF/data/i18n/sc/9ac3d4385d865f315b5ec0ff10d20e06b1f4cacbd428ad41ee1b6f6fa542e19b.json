@@ -77,17 +77,17 @@
     "L7TjAQ": {
         "en-US": "[Elise]\n4. Purchase Skill Tree Reset and Status Reset Service",
         "pt-BR": "[Lili]\n4. Reset de Atributos e Habilidades",
-        "es-ES": "[Elise]\n4. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de estado."
+        "es-ES": "[Elise]\n4. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de atributos."
     },
     "MLTjAQ": {
         "en-US": "[Elise]\n^FF00004. Purchase Skill Tree Reset and Status Reset Service^000000\nA service that allows you to reset ^0000CDSkill Tree^000000 ^EE00001 time^000000",
         "pt-BR": "[Lili]\n4. Reset de Atributos e Habilidades\nVocê poderá resetar a sua ^0000CDÁrvore de Habilidades^000000 e seus pontos de ^EE0000Atributos^000000.",
-        "es-ES": "[Elise]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de estado.^000000\nEste servicio te permite restablecer la ^0000CDbarra de habilidad^000000 ^EE0000una vez.^000000"
+        "es-ES": "[Elise]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de atributos.^000000\nEste servicio te permite restablecer la ^0000CDbarra de habilidad^000000 ^EE0000una vez.^000000"
     },
     "MbTjAQ": {
         "en-US": "[Elise]\n^FF00004. Purchase Skill Tree Reset and Status Reset Service^000000\nA service that allows you to reset ^0000CDStatus^000000 ^EE00001 time^000000 with ^0000CDNyangvine^000000 at a low price.",
         "pt-BR": "[Lili]\n4. Reset de Atributos e Habilidades\nAo custo de ^0000CDMiauMiau^000000 você pode ^EE0000resetar^000000 seus atributos e habilidades ^0000CDduma vez^000000 por Fruta.",
-        "es-ES": "[Elise]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de estado.^000000\nEste servicio te permite restablecer el ^0000CDestado^000000 ^EE0000una vez^000000, usando ^0000CDMiaufrutos^000000 y a un precio especial."
+        "es-ES": "[Elise]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de atributos.^000000\nEste servicio te permite restablecer los ^0000CDatributos^000000 ^EE0000una vez^000000, usando ^0000CDMiaufrutos^000000 y a un precio especial."
     },
     "MrTjAQ": {
         "en-US": "[Elise]\n^EE0000This service takes effect as soon as you purchase it^000000, so be careful to purchase it when you need it.",
@@ -607,12 +607,12 @@
     "mbTjAQ": {
         "en-US": "[Elise]\nThis is a service that allows you to reset your skill tree or status with a small amount of Nyangvine.",
         "pt-BR": "[Lili]\nVocê pode reiniciar seus atributos e habilidades ao custo de MiauMiau.",
-        "es-ES": "[Elise]\nEste servicio te permite restablecer tu barra de habilidades o tu estado por una pequeña cantidad de Miaufrutos."
+        "es-ES": "[Elise]\nEste servicio te permite restablecer tu barra de habilidades o tus atributos por una pequeña cantidad de Miaufrutos."
     },
     "mrTjAQ": {
-        "en-US": "[Elise]\nThe price of ^0000CDSkill Tree Reset^000000 is ^0000CD46 Nyangvine^000000, the price of ^0000CDStatus Reset^000000 is ^0000CD106 Nyangvine^000000.",
-        "pt-BR": "[Lili]\n^0000CDResetar as Habilidades^000000 custa ^0000CD46x MiauMiau^000000 e o ^0000CDReset de Atributos^000000 custa ^0000CD106x MiauMiau^000000.",
-        "es-ES": "[Elise]\nEl ^0000CDrestablecimiento de la barra de habilidad^000000 cuesta ^0000CD46 Miaufrutos^000000, y el ^0000CDrestablecimiento de estado^000000 cuesta ^0000CD106 Miaufrutos^000000."
+        "en-US": "[Elise]\nThe price of ^0000CDSkill Tree Reset^000000 is ^0000CD40 Nyangvine^000000, the price of ^0000CDStatus Reset^000000 is ^0000CD46 Nyangvine^000000.",
+        "pt-BR": "[Lili]\n^0000CDResetar as Habilidades^000000 custa ^0000CD40x MiauMiau^000000 e o ^0000CDReset de Atributos^000000 custa ^0000CD46x MiauMiau^000000.",
+        "es-ES": "[Elise]\nEl ^0000CDrestablecimiento de la barra de habilidad^000000 cuesta ^0000CD40 Miaufrutos^000000, y el ^0000CDrestablecimiento de atributos^000000 cuesta ^0000CD46 Miaufrutos^000000."
     },
     "m7TjAQ": {
         "en-US": "[Elise]\n^EE0000Reset occurs immediately after purchase, and only one service is provided at a time^000000.",
@@ -675,9 +675,9 @@
         "es-ES": "[Elise]\nTus pertenencias ya están organizadas. ¡Antes de continuar, solo te daré una ^0000CDadvertencia^000000!"
     },
     "p7TjAQ": {
-        "en-US": "[Elise]\n^EE0000Purchase the skill tree reset service with 46 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
-        "pt-BR": "[Lili]\n^EE0000Resetar habilidades custa 46x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
-        "es-ES": "[Elise]\n^EE0000Comprar el servicio de restablecimiento de la barra de habilidad con 46 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
+        "en-US": "[Elise]\n^EE0000Purchase the skill tree reset service with 40 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
+        "pt-BR": "[Lili]\n^EE0000Resetar habilidades custa 40x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Elise]\n^EE0000Comprar el servicio de restablecimiento de la barra de habilidad con 40 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
     },
     "qLTjAQ": {
         "en-US": "[Elise]\n^EE0000The service starts immediately upon purchase and is provided only once.^000000",
@@ -702,12 +702,12 @@
     "rLTjAQ": {
         "en-US": "[Elise]\nTo reset status, you need to reorganize your belongings until you have ^0000CD0 Weight^000000 and ^0000CDCart, Falcon, Warg, Madogear, Dragon, or other mount^000000 need to be removed.",
         "pt-BR": "[Lili]\nPara reinicializar seus atributos, ^0000CDvocê precisa ter ZERO de peso^000000 no seu inventário e equipamentos.",
-        "es-ES": "[Elise]\nPara restablecer el estado, debes reorganizar tus pertenencias hasta alcanzar ^0000CD0 de peso.^000000 ^0000CDTambién debes quitar cualquier Carreta, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
+        "es-ES": "[Elise]\nPara restablecer los atributos, debes reorganizar tus pertenencias hasta alcanzar ^0000CD0 de peso.^000000 ^0000CDTambién debes quitar cualquier Carreta, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
     },
     "rbTjAQ": {
         "en-US": "[Elise]\nThen, before proceeding with status reset, I will check the owner's status and proceed immediately!",
         "pt-BR": "[Lili]\nVou verificar se você preencheu todos os requisitos!",
-        "es-ES": "[Elise]\nAntes de continuar con el restablecimiento del estado, ¡revisaré tu estado y procederé de inmediato!"
+        "es-ES": "[Elise]\nAntes de continuar con el restablecimiento de atributos, ¡revisaré tu estado y procederé de inmediato!"
     },
     "rrTjAQ": {
         "en-US": "[Elise]\nMaster, you can only proceed if the weight of the ^0000CDitem in your inventory or equipped is 0^000000. Please organize everything and come back to me.",
@@ -720,19 +720,19 @@
         "es-ES": "[Elise]\nPara restablecer el estado, primero debes quitar el ^0000CDCarro, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
     },
     "sLTjAQ": {
-        "en-US": "[Elise]\n^EE0000Purchase the status reset service with 106 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
-        "pt-BR": "[Lili]\n^EE0000Resetar atributos custa 106x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
-        "es-ES": "[Elise]\n^EE0000Comprar el servicio de restablecimiento de estado con 106 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
+        "en-US": "[Elise]\n^EE0000Purchase the status reset service with 46 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
+        "pt-BR": "[Lili]\n^EE0000Resetar atributos custa 46x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Elise]\n^EE0000Comprar el servicio de restablecimiento de atributos con 46 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
     },
     "sbTjAQ": {
         "en-US": "[Elise]\nThen, let's reset the status! yap!",
         "pt-BR": "[Lili]\nEntão, vou resetar seus atributos! Yay!",
-        "es-ES": "[Elise]\nEntonces, ¡restableceré el estado! ¡Yap!"
+        "es-ES": "[Elise]\nEntonces, ¡restableceré los atributos! ¡Yay!"
     },
     "srTjAQ": {
         "en-US": "[Elise]\nNow open the status window and check it out!",
         "pt-BR": "[Lili]\nAgora, abra a janela de atributos e dê uma olhada!",
-        "es-ES": "[Elise]\n¡Listo! Abre la ventana de estado y revísalo."
+        "es-ES": "[Elise]\n¡Listo! Abre la ventana de atributos y revísalo."
     },
     "s7TjAQ": {
         "en-US": "Edward",
@@ -812,17 +812,17 @@
     "wrTjAQ": {
         "en-US": "[Edward]\n4. Purchase Skill Tree Reset and Status Reset Service",
         "pt-BR": "[Dudu]\n4. Reset de Atributos e Habilidades",
-        "es-ES": "[Edward]\n4. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de estado."
+        "es-ES": "[Edward]\n4. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de atributos."
     },
     "w7TjAQ": {
         "en-US": "[Edward]\n^FF00004. Purchase Skill Tree Reset and Status Reset Service^000000\nA service that allows you to reset ^0000CDSkill Tree^000000 ^EE00001 time^000000",
         "pt-BR": "[Dudu]\n4. Reset de Atributos e Habilidades\nVocê poderá resetar a sua ^0000CDÁrvore de Habilidades^000000 e seus pontos de ^EE0000Atributos^000000.",
-        "es-ES": "[Edward]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de estado.^000000\nEste servicio te permite restablecer la ^0000CDbarra de habilidad^000000 ^EE0000una vez.^000000"
+        "es-ES": "[Edward]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de atributos.^000000\nEste servicio te permite restablecer la ^0000CDbarra de habilidad^000000 ^EE0000una vez.^000000"
     },
     "xLTjAQ": {
         "en-US": "[Edward]\n^FF00004. Purchase Skill Tree Reset and Status Reset Service^000000\nA service that allows you to reset ^0000CDStatus^000000 ^EE00001 time^000000 with ^0000CDNyangvine^000000 at a low price.",
         "pt-BR": "[Dudu]\n4. Reset de Atributos e Habilidades\nAo custo de ^0000CDMiauMiau^000000 você pode ^EE0000resetar^000000 seus atributos e habilidades ^0000CDduma vez^000000 por Fruta.",
-        "es-ES": "[Edward]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de estado.^000000\nEste servicio te permite restablecer el ^0000CDestado^000000 ^EE0000una vez^000000, usando ^0000CDMiaufrutos^000000 y a un precio especial."
+        "es-ES": "[Edward]\n^FF00004. Comprar el servicio de restablecimiento de la barra de habilidad y restablecimiento de atributos.^000000\nEste servicio te permite restablecer los ^0000CDatributos^000000 ^EE0000una vez^000000, usando ^0000CDMiaufrutos^000000 y a un precio especial."
     },
     "xbTjAQ": {
         "en-US": "[Edward]\n^EE0000This service takes effect as soon as you purchase it^000000, so be careful to purchase it when you need it.",
@@ -1257,12 +1257,12 @@
     "G7XjAQ": {
         "en-US": "[Edward]\nThis is a service that allows you to reset your skill tree or status with a small amount of Nyangvine.",
         "pt-BR": "[Dudu]\nVocê pode reiniciar seus atributos e habilidades ao custo de MiauMiau.",
-        "es-ES": "[Edward]\nEste servicio te permite restablecer tu barra de habilidades o tu estado por una pequeña cantidad de Miaufrutos."
+        "es-ES": "[Edward]\nEste servicio te permite restablecer tu barra de habilidades o atributos por una pequeña cantidad de Miaufrutos."
     },
     "HLXjAQ": {
-        "en-US": "[Edward]\nThe price of ^0000CDSkill Tree Reset^000000 is ^0000CD46 Nyangvine^000000, the price of ^0000CDStatus Reset^000000 is ^0000CD106 Nyangvine^000000.",
-        "pt-BR": "[Dudu]\n^0000CDResetar as Habilidades^000000 custa ^0000CD46x MiauMiau^000000 e o ^0000CDReset de Atributos^000000 custa ^0000CD106x MiauMiau^000000.",
-        "es-ES": "[Edward]\nEl ^0000CDrestablecimiento de la barra de habilidad^000000 cuesta ^0000CD46 Miaufrutos^000000, y el ^0000CDrestablecimiento de estado^000000 cuesta ^0000CD106 Miaufrutos^000000."
+        "en-US": "[Edward]\nThe price of ^0000CDSkill Tree Reset^000000 is ^0000CD40 Nyangvine^000000, the price of ^0000CDStatus Reset^000000 is ^0000CD46 Nyangvine^000000.",
+        "pt-BR": "[Dudu]\n^0000CDResetar as Habilidades^000000 custa ^0000CD40x MiauMiau^000000 e o ^0000CDReset de Atributos^000000 custa ^0000CD46x MiauMiau^000000.",
+        "es-ES": "[Edward]\nEl ^0000CDrestablecimiento de la barra de habilidad^000000 cuesta ^0000CD40 Miaufrutos^000000, y el ^0000CDrestablecimiento de atributos^000000 cuesta ^0000CD46 Miaufrutos^000000."
     },
     "HbXjAQ": {
         "en-US": "[Edward]\n^EE0000Reset occurs immediately after purchase, and only one service is provided at a time^000000.",
@@ -1310,9 +1310,9 @@
         "es-ES": "[Edward]\nTus pertenencias ya están organizadas. ¡Antes de continuar, solo te daré una ^0000CDadvertencia^000000!"
     },
     "JrXjAQ": {
-        "en-US": "[Edward]\n^EE0000Purchase the skill tree reset service with 46 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible. Do you want to continue?^000000",
-        "pt-BR": "[Dudu]\n^EE0000Resetar habilidades custa 46x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
-        "es-ES": "[Edward]\n^EE0000Comprar el servicio de restablecimiento de la barra de habilidad con 46 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso. ¿Quieres continuar?^000000"
+        "en-US": "[Edward]\n^EE0000Purchase the skill tree reset service with 40 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible. Do you want to continue?^000000",
+        "pt-BR": "[Dudu]\n^EE0000Resetar habilidades custa 40x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Edward]\n^EE0000Comprar el servicio de restablecimiento de la barra de habilidad con 40 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso. ¿Quieres continuar?^000000"
     },
     "J7XjAQ": {
         "en-US": "[Edward]\n^EE0000The service starts immediately upon purchase and is provided only once.^000000",
@@ -1337,36 +1337,56 @@
     "K7XjAQ": {
         "en-US": "[Edward]\nTo reset status, you need to reorganize your belongings until you have ^0000CD0 Weight^000000 and ^0000CDCart, Falcon, Warg, Madogear, Dragon, or other mount^000000 need to be removed.",
         "pt-BR": "[Dudu]\nPara reinicializar seus atributos, ^0000CDvocê precisa ter ZERO de peso^000000 no seu inventário e equipamentos.",
-        "es-ES": "[Edward]\nPara restablecer el estado, debes reorganizar tus pertenencias hasta alcanzar ^0000CD0 de peso.^000000 ^0000CDTambién debes quitar cualquier Carreta, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
+        "es-ES": "[Edward]\nPara restablecer los atributos, debes reorganizar tus pertenencias hasta alcanzar ^0000CD0 de peso.^000000 ^0000CDTambién debes quitar cualquier Carreta, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
     },
     "LLXjAQ": {
         "en-US": "[Edward]\nThen, before proceeding with status reset, I will check the owner's status and proceed immediately!",
         "pt-BR": "[Dudu]\nVou verificar se você preencheu todos os requisitos.",
-        "es-ES": "[Edward]\nAntes de continuar con el restablecimiento del estado, ¡revisaré tu estado y procederé de inmediato!"
+        "es-ES": "[Edward]\nAntes de continuar con el restablecimiento de atributos, ¡revisaré tu estado y procederé de inmediato!"
     },
     "LbXjAQ": {
         "en-US": "[Edward]\nMaster, in order to reset the status, you need to remove ^0000CDCart, Falcon, Warg, Madogear, Dragon, or other mount^000000 first.",
         "pt-BR": "[Dudu]\nMestre, para resetar seus atributos, ^0000CDremova o Carrinho, PecoPeco, Falcão, Warg, M.E.C.H.A, Dragão, Montaria^000000 ou o que for.",
-        "es-ES": "[Edward]\nPara restablecer el estado, primero debes quitar el ^0000CDCarro, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
+        "es-ES": "[Edward]\nPara restablecer los atributos, primero debes quitar el ^0000CDCarro, Halcón, Warg, Meca mágico, Dragón u otra montura.^000000"
     },
     "LrXjAQ": {
-        "en-US": "[Edward]\n^EE0000Purchase the status reset service with 106 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible. Do you want to continue?^000000",
-        "pt-BR": "[Dudu]\n^EE0000Resetar atributos custa 106x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
-        "es-ES": "[Edward]\n^EE0000Comprar el servicio de restablecimiento de estado con 106 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso. ¿Quieres continuar?^000000"
+        "en-US": "[Edward]\n^EE0000Purchase the status reset service with 46 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible. Do you want to continue?^000000",
+        "pt-BR": "[Dudu]\n^EE0000Resetar atributos custa 46x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Edward]\n^EE0000Comprar el servicio de restablecimiento de atributos con 46 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso. ¿Quieres continuar?^000000"
     },
     "L7XjAQ": {
         "en-US": "[Edward]\nThen, let's reset the status! yap!",
         "pt-BR": "[Dudu]\nCerteza? Então, vou resetar seus atributos.",
-        "es-ES": "[Edward]\nEntonces, ¡restableceré el estado! ¡Yap!"
+        "es-ES": "[Edward]\nEntonces, ¡restableceré los atributos! ¡Yay!"
     },
     "MLXjAQ": {
         "en-US": "[Edward]\nNow open the status window and check it out!",
         "pt-BR": "[Dudu]\nAgora, abra a janela de atributos e dê uma olhada.",
-        "es-ES": "[Edward]\n¡Listo! Abre la ventana de estado y revísalo."
+        "es-ES": "[Edward]\n¡Listo! Abre la ventana de atributos y revísalo."
     },
     "MbXjAQ": {
         "en-US": "[Edward]\nMaster, your belongings have been neatly organized, but you are currently lacking the ^0000CDNyangvine^000000.",
         "pt-BR": "[Dudu]\nMestre, todos os requisitos foram cumpridos, mas você está sem ^0000CDMiauMiau^000000. Por favor, reveja seu inventário e tente novamente.",
         "es-ES": "[Edward]\nTus pertenencias ya están organizadas, pero te faltan ^0000CDMiaufrutos^000000."
+    },
+    "MrXjAQ": {
+        "en-US": "[Elise]\n^EE0000Purchase the skill tree reset service with 40 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
+        "pt-BR": "[Lili]\n^EE0000Resetar habilidades custa 40x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Elise]\n^EE0000Comprar el servicio de restablecimiento de la barra de habilidad con 40 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
+    },
+    "M7XjAQ": {
+        "en-US": "[Elise]\n^EE0000Purchase the status reset service with 46 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
+        "pt-BR": "[Lili]\n^EE0000Resetar atributos custa 46x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Elise]\n^EE0000Comprar el servicio de restablecimiento de estado con 46 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
+    },
+    "NLXjAQ": {
+        "en-US": "[Edward]\n^EE0000Purchase the skill tree reset service with 40 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
+        "pt-BR": "[Dudu]\n^EE0000Resetar habilidades custa 40x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Edward]\n^EE0000Comprar el servicio de restablecimiento de la barra de habilidad con 40 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
+    },
+    "NbXjAQ": {
+        "en-US": "[Edward]\n^EE0000Purchase the status reset service with 46 Nyangvine.^000000\n^EE0000The above exchanged items are not subject to subscription withdrawal, and refund is also not possible.^000000",
+        "pt-BR": "[Dudu]\n^EE0000Resetar atributos custa 46x MiauMiau.^000000\n^EE0000Não haverá restituição desse valor.^000000",
+        "es-ES": "[Edward]\n^EE0000Comprar el servicio de restablecimiento de estado con 46 Miaufrutos.^000000\n^EE0000Los objetos que ya se hayan canjeado no admiten cancelación de la suscripción ni reembolso.^000000"
     }
 }

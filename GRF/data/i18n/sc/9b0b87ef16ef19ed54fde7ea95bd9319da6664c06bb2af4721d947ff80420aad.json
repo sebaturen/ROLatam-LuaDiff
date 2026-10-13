@@ -66,8 +66,8 @@
     },
     "7XCnDA": {
         "en-US": "Crystal Corrupted by Curse",
-        "pt-BR": "Gema Corrompida",
-        "es-ES": "Mineral Corrompido"
+        "pt-BR": "Cristal Corrompido",
+        "es-ES": "Cristal Corrupto"
     },
     "7nCnDA": {
         "en-US": "King Schmidt's Manteau",
@@ -81,8 +81,8 @@
     },
     "8HCnDA": {
         "en-US": "Ore Eroded by Curse",
-        "pt-BR": "Cristal Corrompido",
-        "es-ES": "Cristal Corrupto"
+        "pt-BR": "Gema Corrompida",
+        "es-ES": "Mineral Corrompido"
     },
     "8XCnDA": {
         "en-US": "King Schmidt's Badge of Divine Power",
@@ -281,7 +281,7 @@
     },
     "GHGnDA": {
         "en-US": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] Relic\n===============\n[Required Materials]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}",
-        "pt-BR": "\"[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]\"",
+        "pt-BR": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]",
         "es-ES": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiales]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]"
     },
     "GXGnDA": {

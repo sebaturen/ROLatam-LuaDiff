@@ -606,12 +606,12 @@
     },
     "+e42": {
         "en-US": "^660066Edible when ripe, yellow food. Humans like this very much. Haven't tried it yet but smells like ripe sweet Potatoes.^000000",
-        "pt-BR": "^660066Alimento amarelo comestível quando maduro. Os humanos gostam muito dele. Ainda não experimentei, mas tem cheiro de batata doce madura.^000000",
+        "pt-BR": "^660066Alimento amarelo comestível quando maduro. Os humanos gostam muito dele. Ainda não experimentei, mas tem cheiro de Batata-doce madura.^000000",
         "es-ES": "^660066Este alimento amarillo es comestible cuando está maduro. A los humanos les gusta mucho. Aún no lo probé, pero huele a batatas dulces maduras.^000000"
     },
     "+u42": {
         "en-US": "You've found a document about ^990099 Nice Sweet Potatoes^000000. Check for details in the Quest Window.",
-        "pt-BR": "Você encontrou um documento sobre ^990099 Batata Doce Apetitosa^000000. Verifique os detalhes na Janela de Missões.",
+        "pt-BR": "Você encontrou um documento sobre ^990099 Batata-doce Apetitosa^000000. Verifique os detalhes na Janela de Missões.",
         "es-ES": "Encontraste un documento que describe el objeto ^990099Batata dulce buena^000000. Consulta la ventana Misiones para obtener más información."
     },
     "++42": {
@@ -1146,12 +1146,12 @@
     },
     "Ze82": {
         "en-US": "Yam?",
-        "pt-BR": "Batata Doce Assada?",
+        "pt-BR": "Batata-doce Assada?",
         "es-ES": "¿Hoja de mapache?"
     },
     "Zu82": {
         "en-US": "You were able to find information on the Yam.",
-        "pt-BR": "Você conseguiu encontrar informações sobre Batata Doce Assada.",
+        "pt-BR": "Você conseguiu encontrar informações sobre Batata-doce Assada.",
         "es-ES": "Encontraste información sobre el objeto Batata Asada."
     },
     "Z+82": {

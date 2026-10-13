@@ -7,232 +7,232 @@
     "YeNLDA": {
         "en-US": "You are carrying too many items and cannot proceed with the quest.\nPlease organize your inventory and try again.",
         "pt-BR": "Você possui muitos itens no inventário e não pode prosseguir com a missão.\nPor favor, organize seus itens e tente novamente.",
-        "es-ES": "No puede continuar con la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
+        "es-ES": "No puedes continuar con la misión porque tienes demasiados objetos. Por favor, organiza tus objetos y vuelve a intentarlo."
     },
     "YuNLDA": {
-        "en-US": "[Prophet K]\nIt seems you have succeeded\nin gathering\nthe Monkey Soul Fragments!\nExcellent!!",
-        "pt-BR": "[Profeta K]\nParece que você conseguiu\nrecuperar os\nFragmentos de Alma de Macaco!\nExcelente!!",
-        "es-ES": "[Profeta K]\n¡Parece que has tenido éxito\nen recuperar\nlos Fragmentos de Alma de Mono!\n¡¡Excelente!!"
+        "en-US": "[Prophet K]\nIt seems you have succeeded in gathering the Monkey Spirit!\nExcellent!!",
+        "pt-BR": "[Profeta K]\nParece que você conseguiu recuperar os Fragmentos de Alma de Macaco!\nExcelente!!",
+        "es-ES": "[Profeta K]\n¡Parece que lograste conseguir el fragmento del alma del mono! ¡Excelente!!"
     },
     "Y+NLDA": {
-        "en-US": "[Prophet K]\nWell then, let's begin\nthe ritual immediately!\nUsing the Monkey Soul Fragments,\nwe will locate the hero\nblessed by the Monkey,\none of the 12 Zodiac Deities!",
-        "pt-BR": "[Profeta K]\nCerto, então vamos começar\nimediatamente o ritual\nusando os Fragmentos de Alma de Macaco\npara encontrar o herói\nque possui a energia do Macaco\nentre os 12 Signos Divinos!",
-        "es-ES": "[Profeta K]\nBien, entonces ahora mismo,\nusando los Fragmentos de Alma de Mono,\n¡comencemos el ritual para encontrar\nal héroe bendecido por la energía\ndel Mono entre los 12 Signos Zodiacales!"
+        "en-US": "[Prophet K]\nWell then, let's begin the ritual immediately!\nUsing the Monkey Spirit, we will locate the hero blessed by the Monkey, one of the 12 Zodiac Deities!",
+        "pt-BR": "[Profeta K]\nCerto, então vamos começar imediatamente o ritual para encontrar o herói que possui a energia do Macaco!",
+        "es-ES": "[Profeta K]\n¡Muy bien, entonces comencemos el ritual de inmediato para encontrar al héroe que posee la energía del Mono!"
     },
     "ZONLDA": {
-        "en-US": "[Prophet K]\nI think I've found it...\nA place full of dust and sand\nwhere metallic civilization breathes!",
-        "pt-BR": "[Profeta K]\nParece que encontrei...\nUm lugar cheio de poeira\ne onde a civilização metálica respira!",
-        "es-ES": "[Profeta K]\nParece que lo he encontrado...\n¡Un lugar lleno de polvo y arena\ndonde la civilización metálica respira!"
+        "en-US": "[Prophet K]\nI think I've found it...\nA place full of dust and sand where metallic civilization breathes!",
+        "pt-BR": "[Profeta K]\nParece que encontrei...\nUm lugar cheio de poeira e onde a civilização metálica respira!",
+        "es-ES": "[Profeta K]\nParece que lo hemos encontrado... ¡Un lugar lleno de polvo de arena donde respira la civilización del metal!"
     },
     "ZeNLDA": {
-        "en-US": "[Prophet K]\nIn front of the place with the most\nactive metallic energy there,\nI see a man dressed in a neat suit!",
-        "pt-BR": "[Profeta K]\nNa frente do lugar com\na energia metálica mais ativa daquele local\nvejo um homem vestido com um\nterno impecável!",
-        "es-ES": "[Profeta K]\n¡Frente al lugar con la energía metálica\nmás activa de ese sitio,\npuedo ver a un hombre\nvestido con un traje impecable!"
+        "en-US": "[Prophet K]\nIn front of the place with the most active metallic energy there, I see a man dressed in a neat suit!",
+        "pt-BR": "[Profeta K]\nNa frente do lugar com a energia metálica mais ativa daquele local vejo um homem vestido com um terno impecável!",
+        "es-ES": "[Profeta K]\n¡Allí, justo frente al lugar donde la energía metálica es más intensa, veo a un hombre vestido con un traje impecable!"
     },
     "ZuNLDA": {
         "en-US": "[Prophet K]\nDid you not bring the Soul Amulet?\nIts effect has already worn off, so you can handle it as you see fit, no problem.\nLet's continue our story.",
         "pt-BR": "[Profeta K]\nVocê não trouxe o Amuleto da Alma?\nJá que seu efeito acabou, não há problema se você lidar com isso por conta própria.\nVamos continuar de onde paramos.",
-        "es-ES": "[Profeta K]\n¿No trajiste el Amuleto de Alma?\nSu efecto ya se agotó, así que no hay problema si te encargas de ello por tu cuenta.\nContinuemos con lo que estábamos hablando."
+        "es-ES": "[Profeta K]\n¿No trajiste el amuleto del Alma? Ya que su efecto se ha agotado, no me importa si te encargas de eso por tu cuenta. Sigamos con lo que estábamos hablando."
     },
     "Z+NLDA": {
-        "en-US": "[Prophet K]\nThe area is presumed to be\nEinbroch...\nI ask that you go\nand find that person!",
-        "pt-BR": "[Profeta K]\nAcredito que a região seja\nprovavelmente Einbech...\nEspero que você vá até lá\ne encontre aquela pessoa!",
-        "es-ES": "[Profeta K]\nSupongo que el área\nes Einbech...\nEspero que vayas\ny encuentres a esa persona."
+        "en-US": "[Prophet K]\nThe area is presumed to be Einbroch...\nI ask that you go and find that person!",
+        "pt-BR": "[Profeta K]\nAcredito que a região seja provavelmente Einbroch...\nEspero que você vá até lá e encontre aquela pessoa!",
+        "es-ES": "[Profeta K]\nCreo que la región probablemente sea Einbroch...\n¡Espero que vayas allí y encuentres a esa persona!"
     },
     "aONLDA": {
-        "en-US": "[Prophet K]\nFind him and deliver\nthe secret letter I gave you.\nHe will judge for himself\nafter that...\nEverything is according to heaven's will...\nHoo hoo..",
-        "pt-BR": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu lhe dei.\nA partir daí, a decisão\nserá dele...\nTudo segue a vontade do céu..\nHuhu..",
-        "es-ES": "[Profeta K]\nBúscalo y entrégale\nla carta secreta que te di.\nDespués de eso, él\ntomará su propia decisión...\nTodo sigue la voluntad del cielo...\nJuju..."
+        "en-US": "[Prophet K]\nFind him and deliver the secret letter I gave you.\nHe will judge for himself after that...\nEverything is according to heaven's will...\nHoo hoo...",
+        "pt-BR": "[Profeta K]\nEncontre-a e entregue a carta secreta que eu lhe dei.\nA partir daí, a decisão será dele...\nTudo segue a vontade divina...\nHuhu...",
+        "es-ES": "[Profeta K]\nEncuéntralo y entrégale la carta secreta que te di. A partir de entonces, la decisión será suya...\nTodo sucederá según la voluntad divina...\nJe, je..."
     },
     "aeNLDA": {
-        "en-US": "[Prophet K]\nIs the task of gathering\nthe Monkey Soul Fragments\ngoing well?",
-        "pt-BR": "[Profeta K]\nComo está indo a tarefa\nde juntar os\nFragmentos de Alma de Macaco?",
-        "es-ES": "[Profeta K]\n¿Va bien la tarea de\nrecolectar los\nFragmentos de Alma de Mono?"
+        "en-US": "[Prophet K]\nIs the task of gathering the Monkey Spirit going well?",
+        "pt-BR": "[Profeta K]\nComo está indo a tarefa de juntar os Fragmentos de Alma de Macaco?",
+        "es-ES": "[Profeta K]\n¿Cómo va la tarea de reunir los fragmentos del alma del mono?"
     },
     "auNLDA": {
-        "en-US": "[Prophet K]\nIt still seems a bit lacking.\nYes, do you have something\nto say to me?",
-        "pt-BR": "[Profeta K]\nAinda parece estar um pouco insuficiente.\nCerto, você tem algo\npara me dizer?",
-        "es-ES": "[Profeta K]\nParece que todavía faltan algunos.\nDime, ¿tienes algo\nque quieras preguntarme?"
+        "en-US": "[Prophet K]\nIt still seems a bit lacking.\nYes, do you have something to say to me?",
+        "pt-BR": "[Profeta K]\nAinda parece estar faltando.\nCerto, você tem algo para me dizer?",
+        "es-ES": "[Profeta K]\nParece que aún faltan unos cuantos. Bueno, ¿tienes algo que decirme?"
     },
     "a+NLDA": {
         "en-US": "Ask about the soul gathering location.",
-        "pt-BR": "Pergunta onde obter as almas.",
-        "es-ES": "Preguntar la ubicación para obtener las almas."
+        "pt-BR": "Perguntar onde obter as almas.",
+        "es-ES": "Preguntar dónde conseguir las almas."
     },
     "bONLDA": {
         "en-US": "End the conversation.",
-        "pt-BR": "Encerra a conversa.",
+        "pt-BR": "Encerrar a conversa.",
         "es-ES": "Terminar la conversación."
     },
     "beNLDA": {
-        "en-US": "[Prophet K]\nIf you go to the Umbala Fields\nnear Umbala Village,\nthere should be Utan Fighters and Utan Shooters\ninhabiting the area.",
-        "pt-BR": "[Profeta K]\nSe você for para os Campos de Umbala\nperto da vila de Umbala\nencontrará Utan Fighters e Utan Shooters\nhabitando por lá.",
-        "es-ES": "[Profeta K]\nSi vas al campo de Umbala,\ncerca de la aldea Umbala,\nencontrarás a Utan Fighters y Utan Shooters\nhabitando allí."
+        "en-US": "[Prophet K]\nIf you go to the Umbala Fields near Umbala Village, there should be Wootan Fighters and Wootan Shooters inhabiting the area.",
+        "pt-BR": "[Profeta K]\nSe você for para os arredores de Umbala, perto da vila de Umbala, encontrará Guerreiro Wootan e Artilheiro Wootan habitando por lá.",
+        "es-ES": "[Profeta K]\nSi vas al Campo de Umbala, cerca del pueblo de Umbala, encontrarás a los Luchadores Wootan y Tiradores Wootan."
     },
     "buNLDA": {
-        "en-US": "[Prophet K]\nHunt Utan Fighters and Utan Shooters\nand gather 150\nMonkey Soul Fragments for me.",
-        "pt-BR": "[Profeta K]\nDerrote Utan Fighters e Utan Shooters\ne traga para mim\n150 Fragmentos de Alma de Macaco.",
-        "es-ES": "[Profeta K]\nPor favor, derrota a los\nUtan Fighters y Utan Shooters\ny consigue 150 Fragmentos de Alma de Mono."
+        "en-US": "[Prophet K]\nHunt Wootan Fighters and Wootan Shooters, and gather 150 Monkey Spirit for me.",
+        "pt-BR": "[Profeta K]\nDerrote Guerreiro Wootan e Artilheiro Wootan e traga para mim 150 Fragmentos de Alma de Macaco.",
+        "es-ES": "[Profeta K]\nDerrota a Luchador Wootan y Tirador Wootan y tráeme 150 Fragmentos de alma de mono."
     },
     "b+NLDA": {
-        "en-US": "[Prophet K]\nThat amount should surely be\nsufficient for the ritual\nto find the person blessed\nby the Monkey's energy.",
-        "pt-BR": "[Profeta K]\nCom essa quantidade, certamente\nserá o suficiente para o ritual\npara encontrar a pessoa\nque possui a energia do Macaco.",
-        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Mono."
+        "en-US": "[Prophet K]\nThat amount should surely be sufficient for the ritual to find the person blessed by the Monkey's energy.",
+        "pt-BR": "[Profeta K]\nEssa quantidade certamente será o suficiente para o ritual de encontrar a pessoa que possui a energia do Macaco.",
+        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente será suficiente para el ritual para encontrar a la persona que posee la energía del Mono."
     },
     "cONLDA": {
-        "en-US": "[Prophet K]\nI hope you gather all the soul fragments\nand come find me again.",
-        "pt-BR": "[Profeta K]\nEspero que você colete todos\nos Fragmentos de Alma\ne volte até mim.",
-        "es-ES": "[Profeta K]\nEspero que reúnas todos\nlos Fragmentos de Alma\ny vuelvas a buscarme."
+        "en-US": "[Prophet K]\nI hope you gather all the soul fragments and come find me again.",
+        "pt-BR": "[Profeta K]\nEspero que você colete todos os Fragmentos de Alma e volte até mim.",
+        "es-ES": "[Profeta K]\nEspero que reúnas todos los fragmentos del alma y regreses conmigo."
     },
     "ceNLDA": {
-        "en-US": "[Prophet K]\nI am called Prophet K.\nI am a priest who serves\nthe 12 Zodiac Deities,\nand I mainly predict the future\nusing prophetic dreams.",
-        "pt-BR": "[Profeta K]\nMeu nome é Profeta K.\nSou um sacerdote que serve\nos 12 Signos Divinos,\ne geralmente prevejo o futuro\nusando sonhos premonitórios.",
-        "es-ES": "[Profeta K]\nMe llaman el Profeta K.\nSoy un sacerdote que sirve\na los 12 Dioses Zodiacales,\ny principalmente predigo el futuro\nusando sueños proféticos."
+        "en-US": "[Prophet K]\nI am called Prophet K.\nI am a priest who serves the 12 Zodiac Deities, and I mainly predict the future using prophetic dreams.",
+        "pt-BR": "[Profeta K]\nMeu nome é Profeta K.\nSou um sacerdote que serve os 12 Signos Divinos, e geralmente prevejo o futuro através de sonhos premonitórios.",
+        "es-ES": "[Profeta K]\nMi nombre es Profeta K.\nSoy un sacerdote que sirve a los 12 Dioses Zodiacales y, por lo general, predigo el futuro a través de sueños proféticos."
     },
     "cuNLDA": {
-        "en-US": "[Prophet K]\nLast night, I finally\nreceived a revelation from the 12 Zodiac Deities\nand had a prophetic dream while sleeping..\nThis seems to be a very important\ndream, so I need\nsomeone to do me a favor...",
-        "pt-BR": "[Profeta K]\nFinalmente, ontem à noite,\nrecebi uma revelação dos 12 Signos Divinos\ne tive um sonho premonitório enquanto dormia...\nParece ser um sonho muito importante,\nentão preciso de alguém\npara me fazer um favor...",
-        "es-ES": "[Profeta K]\nAnoche, finalmente\nrecibí una revelación de los 12 Dioses Zodiacales\ny tuve un sueño profético mientras dormía...\nParece un sueño muy importante,\nasí que necesito\nque alguien me haga un favor..."
+        "en-US": "[Prophet K]\nLast night, I finally received a revelation from the 12 Zodiac Deities and had a prophetic dream while sleeping...\nThis seems to be a very important dream, so I need someone to do me a favor...",
+        "pt-BR": "[Profeta K]\nFinalmente, ontem à noite, recebi uma revelação dos 12 Signos Divinos e tive um sonho premonitório enquanto dormia...\nParece ser um sonho muito importante, então preciso de alguém para me fazer um favor...",
+        "es-ES": "[Profeta K]\nFinalmente, anoche recibí una revelación de los 12 Dioses Zodiacales y tuve un sueño profético mientras dormía...\nParece un sueño muy importante, así que necesito a alguien a quien pedirle un favor..."
     },
     "c+NLDA": {
         "en-US": "Listen about the ^8B4513prophetic dream^000000.",
-        "pt-BR": "Ouve sobre o ^8B4513sonho premonitório^000000.",
+        "pt-BR": "Ouvir sobre o ^8B4513sonho premonitório^000000.",
         "es-ES": "Escuchar sobre el ^8B4513sueño profético^000000."
     },
     "dONLDA": {
         "en-US": "Hear Prophet K's ^8B4513request^000000.",
-        "pt-BR": "Ouve o ^8B4513pedido^000000 do Profeta K.",
+        "pt-BR": "Ouvir o ^8B4513pedido^000000 do Profeta K.",
         "es-ES": "Escuchar la ^8B4513solicitud^000000 del Profeta K."
     },
     "deNLDA": {
-        "en-US": "[Prophet K]\nYes, in that dream..\nIt was a dense forest..\nA hot and humid wind..\nA peaceful feeling.",
-        "pt-BR": "[Profeta K]\nCerto, naquele sonho..\nHavia uma floresta densa..\nUm vento quente e úmido..\nUma sensação pacífica.",
-        "es-ES": "[Profeta K]\nBien, en ese sueño...\nHabía un bosque frondoso...\nun viento cálido y húmedo...\nTenía una sensación pacífica."
+        "en-US": "[Prophet K]\nYes, in that dream...\nIt was a dense forest...\nA hot and humid wind...\nA peaceful feeling.",
+        "pt-BR": "[Profeta K]\nCerto, naquele sonho...\nHavia uma floresta densa...\nUm vento quente e úmido...\nUma sensação pacífica.",
+        "es-ES": "[Profeta K]\nBien, en ese sueño...\nHabía un bosque denso...\nUn viento cálido y húmedo...\nTenía una sensación pacífica."
     },
     "duNLDA": {
-        "en-US": "[Prophet K]\nJust as I was fully enjoying\nthe peaceful wind, suddenly..\nThe trees around me\nwere becoming devastated.\nThen suddenly, a sound overwhelming the forest\ncame from somewhere.",
-        "pt-BR": "[Profeta K]\nMais ou menos quando eu estava\naproveitando o vento pacífico, de repente..\nAs árvores ao redor estavam\nse tornando desoladas.\nFoi quando, de repente, um som que dominava a floresta\nveio de algum lugar.",
-        "es-ES": "[Profeta K]\nCasi cuando estaba disfrutando\ndel viento pacífico, de repente...\nlos árboles alrededor\ncomenzaron a deteriorarse.\nEntonces, de repente, desde algún lugar,\nsonó un sonido que dominaba el bosque."
+        "en-US": "[Prophet K]\nJust as I was fully enjoying the peaceful wind, suddenly...\nThe trees around me were becoming devastated.\nThen suddenly, a sound overwhelming the forest came from somewhere.",
+        "pt-BR": "[Profeta K]\nEnquanto eu estava aproveitando o vento pacífico as árvores ao redor começaram a morrer.\nFoi quando, de repente, um som veio de algum lugar e dominou a floresta.",
+        "es-ES": "[Profeta K]\nJusto cuando estaba disfrutando de la brisa tranquila, de repente... los árboles a mi alrededor comenzaron a marchitarse. En ese momento, de la nada, se escuchó un sonido que inundó todo el bosque."
     },
     "d+NLDA": {
-        "en-US": "[Prophet K]\nIt was the Monkey Deity,\none of the 12 Zodiac Deities!\nAt the sound of the Monkey Deity, the devastated trees\nregained their vitality, but\nI felt like such a thing could\nhappen again at any time.",
-        "pt-BR": "[Profeta K]\nEra o Deus Macaco\nentre os 12 Signos Divinos!\nCom o som do Deus Macaco, as árvores que estavam se desolando\nrecuperaram sua vitalidade,\nmas senti que não sabia quando\nalgo assim poderia acontecer novamente.",
-        "es-ES": "[Profeta K]\n¡Era el Dios Mono\nentre los 12 Signos Zodiacales!\nCon el sonido del Dios Mono, los árboles que se deterioraban\nrecuperaron su vitalidad,\npero sentí que no sabía\ncuándo podría ocurrir algo así nuevamente."
+        "en-US": "[Prophet K]\nIt was the Monkey Deity, one of the 12 Zodiac Deities!\nAt the sound of the Monkey Deity, the devastated trees regained their vitality, but I felt like such a thing could happen again at any time.",
+        "pt-BR": "[Profeta K]\nEra o Deus Macaco dos 12 Signos Divinos!\nCom o som do Deus Macaco, as árvores que estavam morrendo\nrecuperaram sua vitalidade, mas senti que isso poderia acontecer novamente.",
+        "es-ES": "[Profeta K]\n¡Era el Dios Mono de los 12 Signos Zodiacales!\nCon el sonido del Dios Mono, los árboles que se estaban muriendo\nrecuperaron su vitalidad, pero sentí que eso podría volver a suceder."
     },
     "eONLDA": {
-        "en-US": "[Prophet K]\nThat's when I realized,\nAh, this is a prophetic dream!\nA great calamity\nwill occur in the future!",
-        "pt-BR": "[Profeta K]\nFoi quando eu percebi,\nAh, isto é um sonho premonitório!\nUma grande calamidade\nestá prestes a acontecer!",
-        "es-ES": "[Profeta K]\nFue entonces cuando me di cuenta,\n¡Ah, esto es un sueño profético!\n¡Significa que una gran calamidad\nocurrirá en el futuro!"
+        "en-US": "[Prophet K]\nThat's when I realized,\nAh, this is a prophetic dream!\nA great calamity will occur in the future!",
+        "pt-BR": "[Profeta K]\nFoi quando eu percebi que aquilo era um sonho premonitório!\nUma grande calamidade está prestes a acontecer!",
+        "es-ES": "[Profeta K]\n¡Fue entonces cuando me di cuenta de que aquello era un sueño profético!\n¡Una gran calamidad está a punto de ocurrir!"
     },
     "eeNLDA": {
-        "en-US": "[Prophet K]\nAnd then the Monkey Deity\nspoke to me!\nWe must find the people\nblessed by the energy of the 12 Zodiac Deities..\nOnly then can we stop\nthis calamity..",
-        "pt-BR": "[Profeta K]\nE então o Deus Macaco\nme disse!\nQue eu preciso encontrar\na pessoa que possui a energia dos 12 Signos Divinos..\nSó assim poderemos\nimpedir esta calamidade..",
-        "es-ES": "[Profeta K]\n¡Y entonces el Dios Mono\nme habló!\nDijo que debíamos encontrar\na las personas bendecidas\npor la energía de los 12 Dioses Zodiacales...\nSolo así podremos\ndetener esta calamidad..."
+        "en-US": "[Prophet K]\nAnd then the Monkey Deity spoke to me!\nWe must find the people blessed by the energy of the 12 Zodiac Deities...\nOnly then can we stop this calamity...",
+        "pt-BR": "[Profeta K]\nE então o Deus Macaco me disse que eu preciso encontrar a pessoa que possui a energia dos 12 Signos Divinos.\nSó assim poderemos impedir esta calamidade.",
+        "es-ES": "[Profeta K]\n¡Y entonces el Dios del Mono me habló! Me dijo que debía encontrar a la persona que posee la energía de los 12 Dioses Zodiacales...\nSolo así podremos impedir esta calamidad."
     },
     "euNLDA": {
-        "en-US": "[Prophet K]\nI still don't know their names\nor where they live at all,\nbut this prophetic dream\nis telling me\nthat I must find them!",
-        "pt-BR": "[Profeta K]\nAinda não sabemos o nome dela,\nnem onde vive,\nmas este sonho premonitório\nestá me dizendo\nque preciso encontrá-lo!",
-        "es-ES": "[Profeta K]\nTodavía no sé su nombre,\nni dónde vive,\n¡pero este sueño profético\nme dice que\ndebo encontrarlo!"
+        "en-US": "[Prophet K]\nI still don't know their names or where they live at all, but this prophetic dream is telling me that I must find them!",
+        "pt-BR": "[Profeta K]\nAinda não sabemos o nome dela, nem onde vive, mas este sonho premonitório está me dizendo que preciso encontrá-la!",
+        "es-ES": "[Profeta K]\n¡Aún no sabemos su nombre ni dónde vive, pero este sueño profético me está diciendo que debo encontrarla!"
     },
     "e+NLDA": {
-        "en-US": "[Prophet K]\nAs expected, there are too few clues like this.\nSo, we must find them\nthrough a ritual where I utilize\nmy prophetic abilities.",
-        "pt-BR": "[Profeta K]\nRealmente, assim as pistas são\ninsuficientes. Portanto,\npreciso encontrá-lo através de um ritual\nonde utilizo minha habilidade de profecia.",
-        "es-ES": "[Profeta K]\nComo era de esperar, así no hay suficientes pistas.\nPor eso, necesito encontrarlo\nrealizando un ritual\ndonde despliego mi habilidad de profecía."
+        "en-US": "[Prophet K]\nAs expected, there are too few clues like this.\nSo, we must find them through a ritual where I utilize my prophetic abilities.",
+        "pt-BR": "[Profeta K]\nPrecisamos de pistas... Portanto, preciso encontrá-la através de um ritual onde utilizo minha habilidade de profecia.",
+        "es-ES": "[Profeta K]\nNecesitamos pistas... Por eso, debo encontrarla mediante un ritual en el que utilice mi habilidad de profecía."
     },
     "fONLDA": {
-        "en-US": "[Prophet K]\nTo perform that ritual,\nwe need the most important item:\nan object representing the target we seek,\nor a similar\nenergy, aura.",
-        "pt-BR": "[Profeta K]\nPara realizar este ritual,\né necessário um item que represente\no alvo que desejo encontrar,\nou uma energia semelhante,\né o mais importante.",
-        "es-ES": "[Profeta K]\nPara realizar ese ritual,\nse necesita lo más importante:\nun objeto que represente\nel objetivo que busco, o una energía similar."
+        "en-US": "[Prophet K]\nTo perform that ritual, we need the most important item:\nan object representing the target we seek, or a similar energy or aura.",
+        "pt-BR": "[Profeta K]\nPara realizar este ritual é necessário um item que represente a energia ou o alvo que desejo encontrar.",
+        "es-ES": "[Profeta K]\nPara llevar a cabo este ritual se necesita un objeto que represente la energía o el objetivo que deseo encontrar."
     },
     "feNLDA": {
-        "en-US": "[Prophet K]\nThat's why I need your help\nto obtain it.",
-        "pt-BR": "[Profeta K]\nÉ por isso que preciso\nda sua ajuda para consegui-lo.",
-        "es-ES": "[Profeta K]\nEs por eso que para conseguir eso,\nnecesito tu ayuda."
+        "en-US": "[Prophet K]\nThat's why I need your help to obtain it.",
+        "pt-BR": "[Profeta K]\nÉ por isso que preciso da sua ajuda.",
+        "es-ES": "[Profeta K]\nPor eso necesito tu ayuda."
     },
     "fuNLDA": {
-        "en-US": "[Prophet K]\nSo, I believe the dream I had this time\nrefers to the person\nblessed by the Monkey's energy.",
-        "pt-BR": "[Profeta K]\nEntão, acho que o sonho que tive\nse refere à pessoa\nque possui a energia do Macaco.",
-        "es-ES": "[Profeta K]\nCreo que el sueño que tuve esta vez\nse refiere a la persona\nbendecida con la energía\ndel Mono."
+        "en-US": "[Prophet K]\nSo, I believe the dream I had this time refers to the person blessed by the Monkey's energy.",
+        "pt-BR": "[Profeta K]\nEntão... acho que o sonho que tive se refere à pessoa que possui a energia do Macaco.",
+        "es-ES": "[Profeta K]\nEntonces... creo que el sueño que tuve se refiere a la persona que posee la energía del Mono."
     },
     "f+NLDA": {
-        "en-US": "[Prophet K]\nSo, you see,\nI need Monkey Soul Fragments.\nCan you help me find\nthe soul fragments?",
-        "pt-BR": "[Profeta K]\nSendo assim,\npreciso de Fragmentos de Alma de Macaco.\nVocê pode me ajudar a\nencontrar os Fragmentos de Alma?",
-        "es-ES": "[Profeta K]\nAsí que, verás,\nnecesito Fragmentos de Alma de Mono.\n¿Podrías ayudarme a encontrar\nlos Fragmentos de Alma?"
+        "en-US": "[Prophet K]\nSo, you see, I need Monkey Spirits.\nCan you help me find them?",
+        "pt-BR": "[Profeta K]\nSendo assim, preciso de Fragmentos de Alma de Macaco.\nVocê pode me ajudar a encontra-los?",
+        "es-ES": "[Profeta K]\nSiendo así, necesito Fragmentos del Alma del Mono.\n¿Me puedes ayudar a encontrarlos?"
     },
     "gONLDA": {
         "en-US": "Agree to the request.",
-        "pt-BR": "Aceita o pedido.",
+        "pt-BR": "Aceitar o pedido.",
         "es-ES": "Aceptar la solicitud."
     },
     "geNLDA": {
         "en-US": "Refuse the request.",
-        "pt-BR": "Recusa o pedido.",
+        "pt-BR": "Recusar o pedido.",
         "es-ES": "Rechazar la solicitud."
     },
     "guNLDA": {
-        "en-US": "[Prophet K]\nThank you.\nI'll give you this Soul Amulet.\nWhile holding this,\nyou must hunt monsters\nfrom which you can obtain Monkey Souls.",
-        "pt-BR": "[Profeta K]\nAgradeço.\nAqui está o Amuleto da Alma.\nVocê precisa carregá-lo consigo\ne caçar monstros dos quais\npossa obter a Alma de Macaco.",
-        "es-ES": "[Profeta K]\nGracias.\nTe daré este Amuleto de Alma.\nDebes llevarlo contigo\ny cazar monstruos de los que\npuedas obtener almas de mono."
+        "en-US": "[Prophet K]\nThank you.\nI'll give you this Soul Amulet.\nWhile holding this, you must hunt monsters from which you can obtain Monkey Spirits.",
+        "pt-BR": "[Profeta K]\nAgradeço.\nAqui está o Amuleto da Alma.\nVocê precisa carregá-lo consigo e caçar monstros dos quais possa obter a Fragmentos de Alma de Macaco.",
+        "es-ES": "[Profeta K]\nGracias.\nAquí tienes el Amuleto del Alma.\nDebes llevarlo contigo y cazar monstruos de los que puedas obtener Fragmentos del Alma de Mono."
     },
     "g+NLDA": {
-        "en-US": "[Prophet K]\nIf you go to the Prontera Fields\nor Ayothaya Fields,\nyou should find Yoyos.",
-        "pt-BR": "[Profeta K]\nSe você for para os Campos de Prontera,\nou para os Campos de Ayothaya,\npoderá encontrar Yoyos.",
-        "es-ES": "[Profeta K]\nSi vas a los campos de Prontiera\no a los campos de Ayothaya,\npodrás encontrar Yoyos."
+        "en-US": "[Prophet K]\nIf you go to the Prontera Fields or Ayothaya Fields, you should find Yoyos.",
+        "pt-BR": "[Profeta K]\nSe você for para os Campos de Prontera ou para os Campos de Ayothaya,\npoderá encontrar Yoyos.",
+        "es-ES": "[Profeta K]\nSi vas a los Campos de Prontera o a los Campos de Ayothaya,\npodrás encontrar Yoyos."
     },
     "hONLDA": {
-        "en-US": "[Prophet K]\nHunt Yoyos and\ngather 100 Monkey Soul Fragments!",
-        "pt-BR": "[Profeta K]\nCace Yoyos\ne colete 100 Fragmentos de Alma de Macaco!",
-        "es-ES": "[Profeta K]\n¡Caza Yoyos\ny reúne 100\nFragmentos de Alma de Mono!"
+        "en-US": "[Prophet K]\nHunt Yoyos and gather 100 Monkey Spirits!",
+        "pt-BR": "[Profeta K]\nCace Yoyos e colete 100 Fragmentos de Alma de Macaco!",
+        "es-ES": "[Profeta K]\n¡Caza Yoyos y recolecta 100 Fragmentos de Alma de Mono!"
     },
     "heNLDA": {
-        "en-US": "[Prophet K]\nThat amount should be\nsufficient for the ritual to find\nthe person blessed by the Monkey's energy.",
-        "pt-BR": "[Profeta K]\nCom essa quantidade, será\nsuficiente para o ritual\nde encontrar a pessoa\ncom a energia do Macaco.",
-        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Mono."
+        "en-US": "[Prophet K]\nThat amount should be sufficient for the ritual to find the person blessed by the Monkey's energy.",
+        "pt-BR": "[Profeta K]\nEssa quantidade será suficiente para o ritual.",
+        "es-ES": "[Profeta K]\nEsa cantidad será suficiente para el ritual."
     },
     "huNLDA": {
-        "en-US": "[Prophet K]\nYour bag is completely full of items.\nYou must reduce your inventory\nto be able to help me.\nReduce your inventory and\ncome find me again.",
-        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nVocê precisa reduzir seus itens\npara poder me ajudar.\nReduza seus itens e\nvolte até mim.",
-        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nDebes reducir el número de objetos\npara poder ayudarme.\nReduce tus objetos y vuelve\na buscarme."
+        "en-US": "[Prophet K]\nYour bag is completely full of items.\nYou must reduce your inventory to be able to help me.\nReduce your inventory and come find me again.",
+        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nVocê precisa reduzir seus itens para poder me ajudar.\nReduza seus itens e volte até mim.",
+        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nNecesitas reducir tus objetos para poder ayudarme.\nReduce tus objetos y regresa conmigo."
     },
     "h+NLDA": {
-        "en-US": "[Prophet K]\nIt can't be helped\nif that's your thinking..\nDo you have any other questions for me?",
+        "en-US": "[Prophet K]\nIt can't be helped if that's your thinking...\nDo you have any other questions for me?",
         "pt-BR": "[Profeta K]\nNão há outro jeito.\nSe essa é a sua decisão...\nHá algo mais que queira saber?",
-        "es-ES": "[Profeta K]\nNo hay otra opción.\nSi esa es tu decisión...\n¿Hay algo más que quieras saber?"
+        "es-ES": "[Profeta K]\nNo hay otra manera.\nSi esa es tu decisión...\n¿Hay algo más que quieras saber?"
     },
     "iONLDA": {
-        "en-US": "[Prophet K]\nIt's a matter concerning\nthe fate of the world...\nPlease think it over again\nand come back.",
-        "pt-BR": "[Profeta K]\nÉ algo que envolve\no destino do mundo...\nEspero que reconsidere\ne volte até mim.",
-        "es-ES": "[Profeta K]\nEs un asunto del que depende\nel destino del mundo...\nEspero que lo reconsideres\ny vuelvas a buscarme."
+        "en-US": "[Prophet K]\nIt's a matter concerning the fate of the world...\nPlease think it over again and come back.",
+        "pt-BR": "[Profeta K]\nÉ algo que envolve o destino do mundo...\nEspero que reconsidere e volte até mim.",
+        "es-ES": "[Profeta K]\nEs algo que tiene que ver con el destino del mundo...\nEspero que lo reconsideres y vuelvas a buscarme."
     },
     "ieNLDA": {
-        "en-US": "[Prophet K]\nOh! It's full of the Monkey's energy!\nYou gathered them well, excellent~!",
-        "pt-BR": "[Profeta K]\nOh! Está cheio da energia do Macaco!\nVocê os coletou muito bem, excelente~!",
-        "es-ES": "[Profeta K]\n¡Oh! ¡Está lleno de la energía del mono!\nLos reuniste bien, ¡excelente~!"
+        "en-US": "[Prophet K]\nOh! It's full of the Monkey's energy!\nYou gathered them well, excellent!",
+        "pt-BR": "[Profeta K]\nOh! Está cheio da energia do Macaco!\nVocê coletou todos. Excelente!",
+        "es-ES": "[Profeta K]\n¡Oh! ¡Está lleno de la energía del Mono!\nLos has reunido todos. ¡Excelente!"
     },
     "iuNLDA": {
-        "en-US": "[Prophet K]\nHmm.. But what to do about this..\nIt seems the Monkey energy from the Yoyos\nis insufficient..\nfor the ritual to locate the hero\nblessed by the Monkey,\none of the 12 Zodiac Deities..",
-        "pt-BR": "[Profeta K]\nHmm.. Mas o que fazer com isso..\nParece que a energia do Macaco\nque os Yoyos possuem\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia do Macaco entre os 12 Signos Divinos..",
-        "es-ES": "[Profeta K]\nMmm... Pero, ¿qué hago con esto?\nParece que la energía del mono\nque poseen los Yoyos\nes insuficiente para el ritual\npara encontrar la ubicación del héroe\nbendecido por la energía del Mono\nentre los 12 Signos Zodiacales..."
+        "en-US": "[Prophet K]\nHmm... But what to do about this...\nIt seems the Monkey energy from the Yoyos is insufficient...\nfor the ritual.",
+        "pt-BR": "[Profeta K]\nHmm... O que vou fazer agora?\nParece que a energia do Macaco que os Yoyos possuem é insuficiente para o ritual.",
+        "es-ES": "[Profeta K]\nHmm... ¿Qué voy a hacer ahora?\nParece que la energía del Mono que tienen los Yoyos no es suficiente para el ritual."
     },
     "i+NLDA": {
-        "en-US": "[Prophet K]\nIt seems, you see..\nthat we need more\nMonkey Soul Fragments..",
-        "pt-BR": "[Profeta K]\nParece que..\nprecisamos de mais\nFragmentos de Alma de Macaco..",
-        "es-ES": "[Profeta K]\nParece que...\nnecesitamos más Fragmentos de Alma de Mono..."
+        "en-US": "[Prophet K]\nIt seems, you see... that we need more Monkey Spirits...",
+        "pt-BR": "[Profeta K]\nPrecisamos de mais Fragmentos de Alma de Macaco...",
+        "es-ES": "[Profeta K]\nNecesitamos más Fragmentos del Alma del Mono..."
     },
     "jONLDA": {
-        "en-US": "Utan Fighters, you say?",
-        "pt-BR": "Utan Fighters, é?",
-        "es-ES": "¿Utan Fighters, dices?"
+        "en-US": "Wootan Fighters, you say?",
+        "pt-BR": "Guerreiro Wootan, é?",
+        "es-ES": "¿Luchador Wootan, dices?"
     },
     "jeNLDA": {
-        "en-US": "[{0}]\nI heard the Utan Fighters,\nnotorious for their violence,\nare a headache even in Umbala\nthese days..",
-        "pt-BR": "[{0}]\nOs Utan Fighters são famosos\npor serem selvagens,\nouvi dizer que até em Umbala\neles são um problema atualmente..",
-        "es-ES": "[{0}]\nHe oído que los Utan Fighters,\nfamosos por su ferocidad,\nson un dolor de cabeza\nincluso en Umbala estos días.."
+        "en-US": "[{0}]\nI heard the Wootan Fighters, notorious for their violence, are a headache even in Umbala these days...",
+        "pt-BR": "[{0}]\nOs Guerreiros Wootan são famosos por serem selvagens. \nOuvi dizer que até em Umbala eles são um problema...",
+        "es-ES": "[{0}]\nLos Guerreros Wootan son famosos por ser salvajes.\nHe oído que incluso en Umbala son un problema..."
     },
     "juNLDA": {
-        "en-US": "[Prophet K]\nFeeble human..\nWhy are you so afraid?\nDo you not know that the 12 Zodiac Deities\nare always by your side..\nI was even going to give you a special\n25 million Zeny hat as a gift..",
-        "pt-BR": "[Profeta K]\nHumano frágil..\nPor que está tão assustado?\nNão sabe que os 12 Signos Divinos\nestão sempre ao seu lado?\nEu até ia te dar um chapéu especial\nno valor de 25 milhões de Zenny como presente..",
-        "es-ES": "[Profeta K]\nHumano débil...\n¿Por qué tanto miedo?\n¿No sabes que los 12 Dioses Zodiacales\nsiempre están a tu lado...?\nIncluso tenía pensado regalarte\nun gorro valorado en 25,000,000 de zeny..."
+        "en-US": "[Prophet K]\nFeeble human...\nWhy are you so afraid?\nDo you not know that the 12 Zodiac Deities are always by your side?\nI was even going to give you a special 25 million Zeny hat as a gift...",
+        "pt-BR": "[Profeta K]\nHumano frágil...\nPor que está tão assustado?\nNão sabe que os 12 Signos Divinos estão sempre ao seu lado?\nEu até ia te dar um chapéu especial no valor de 25 milhões de Zeny como presente...",
+        "es-ES": "[Profeta K]\nFrágil humano...\n¿Por qué tienes tanto miedo?\n¿No sabes que los 12 Dioses Zodiacales siempre están a tu lado?\n¡Incluso iba a regalarte un sombrero especial valorado en 25 millones de Zeny como regalo...!"
     },
     "j+NLDA": {
         "en-US": "[{0}]\nLying again...",
@@ -240,149 +240,149 @@
         "es-ES": "[{0}]\nMientes de nuevo..."
     },
     "kONLDA": {
-        "en-US": "[Prophet K]\nThis time, very specially,\nit's a hat filled with the Monkey's energy\nthat everyone, young and old, will love!\nThat kind of hat!",
-        "pt-BR": "[Profeta K]\nDesta vez é muito especial,\né um chapéu cheio da energia do macaco\nque qualquer um, homem, mulher, criança ou adulto, vai adorar!\nUm chapéu assim!",
-        "es-ES": "[Profeta K]\n¡Esta vez es especial!\n¡Es un gorro lleno de la energía del mono\nque le gustará a todos,\nhombres, mujeres, niños y ancianos!"
+        "en-US": "[Prophet K]\nThis time, very specially, it's a hat filled with the Monkey's energy that everyone, young and old, will love!\nThat kind of hat!",
+        "pt-BR": "[Profeta K]\nDesta vez é muito especial, é um chapéu cheio da energia do macaco\nque qualquer um, homem ou mulher, criança ou adulto, vai adorar!\nEsse tipo de chapéu!",
+        "es-ES": "[Profeta K]\nEsta vez es muy especial, ¡es un sombrero lleno de la energía del mono\nque a cualquiera, hombre o mujer, niño o adulto, le va a encantar!\n¡Ese tipo de sombrero!"
     },
     "keNLDA": {
-        "en-US": "[{0}]\nH..Hmm.! Th..Then..\nI..I will definitely go get them!",
-        "pt-BR": "[{0}]\nHm..Hmm.! En..tão..\nCo.. com certeza vou trazê-los!",
-        "es-ES": "[{0}]\n¡Mm...! En-ton-ces...\n¡Def-init-iva-mente lo traeré!"
+        "en-US": "[{0}]\nH-Hmm! Th-Then...\nI-I will definitely go get them!",
+        "pt-BR": "[{0}]\nHm... Hmm... E-Então...\nCo-com certeza vou trazê-los!",
+        "es-ES": "[{0}]\n¡Mm...! E-Entonces...\n¡C-claro que los traeré!"
     },
     "kuNLDA": {
-        "en-US": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHoo hoo hoot.....\nI ask that you please go get them quickly.\nAhem, ahem..",
-        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu.....\nPor favor, traga-os para mim.\nHum hum..",
-        "es-ES": "[Profeta K]\nMe alegra que hayas entendido.\nJujuju.....\nTe ruego que lo consigas pronto.\nEjém, ejém.."
+        "en-US": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHoo hoo hoot...\nI ask that you please go get them quickly.\nAhem, ahem...",
+        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu...\nPor favor, traga-os para mim.\nHum hum...",
+        "es-ES": "[Profeta K]\nQué bien que se haya resuelto el malentendido.\nJujuju.....\nPor favor, tráemelos.\nEjém, ejém.."
     },
     "k+NLDA": {
         "en-US": "Give up on gathering the souls.",
-        "pt-BR": "Desiste de coletar as almas.",
-        "es-ES": "Abandonar la recolección de almas."
+        "pt-BR": "Desistir de coletar as almas.",
+        "es-ES": "Dejar de recolectar almas."
     },
     "lONLDA": {
-        "en-US": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is a big problem..\nMy prophetic dream clearly said we must\nfind them...\nAre you really going to give up?",
-        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não.. que problema..\nMeu sonho premonitório claramente diz\nque preciso encontrá-los...\nVocê realmente vai desistir?",
-        "es-ES": "[Profeta K]\nVaya... ¿De verdad piensas rendirte?\nEsto es malo...\nMi sueño profético claramente indica\nque debo encontrarlos...\n¿De verdad te rendirás?"
+        "en-US": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is a big problem..\nMy prophetic dream clearly said we must find them...\nAre you really going to give up?",
+        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não... que problema...\nMeu sonho premonitório claramente diz que preciso encontrá-los...\nVocê realmente vai desistir?",
+        "es-ES": "[Profeta K]\nVaya... ¿De verdad vas a dejarlo?\nOh, no... qué problema...\nMi sueño profético dice claramente que debo encontrarlos...\n¿De verdad vas a dejarlo?"
     },
     "leNLDA": {
         "en-US": "I give up.",
-        "pt-BR": "Desisto.",
+        "pt-BR": "Desistir.",
         "es-ES": "Rendirse."
     },
     "luNLDA": {
         "en-US": "I won't give up.",
-        "pt-BR": "Não desisto.",
+        "pt-BR": "Não desistir.",
         "es-ES": "No rendirse."
     },
     "l+NLDA": {
-        "en-US": "[Prophet K]\nIf that's truly your decision,\nthen it can't be helped.\nIf you change your mind,\ncome find me again.",
-        "pt-BR": "[Profeta K]\nBem, se essa é a sua decisão,\nnão há o que fazer.\nSe mudar de ideia,\nvolte até mim.",
-        "es-ES": "[Profeta K]\nSi esa es tu decisión,\nno hay más remedio.\nSi cambias de opinión,\nvuelve a buscarme."
+        "en-US": "[Prophet K]\nIf that's truly your decision, then it can't be helped.\nIf you change your mind, come find me again.",
+        "pt-BR": "[Profeta K]\nBem, se essa é a sua decisão, não há o que fazer.\nSe mudar de ideia, volte até mim.",
+        "es-ES": "[Profeta K]\nBueno, si esa es tu decisión, no hay nada que hacer.\nSi cambias de opinión, vuelve a verme."
     },
     "mONLDA": {
-        "en-US": "[Prophet K]\nGood, you thought well.\nHurry and go find\nthe soul fragments quickly!",
-        "pt-BR": "[Profeta K]\nCerto, boa decisão.\nRápido, vá buscar\nos Fragmentos de Alma!",
-        "es-ES": "[Profeta K]\nBien, buena decisión.\n¡Date prisa y trae\nlos Fragmentos de Alma!"
+        "en-US": "[Prophet K]\nGood, you thought well.\nHurry and go find the soul fragments quickly!",
+        "pt-BR": "[Profeta K]\nCerto, boa decisão.\nRápido, vá buscar os Fragmentos de Alma!",
+        "es-ES": "[Profeta K]\nBien, buena decisión.\n¡Rápido, ve a buscar los Fragmentos de Alma!"
     },
     "meNLDA": {
-        "en-US": "[Prophet K]\nIt seems you still haven't found\nthe location of the hero blessed by the Monkey,\none of the 12 Zodiac Deities.",
-        "pt-BR": "[Profeta K]\nParece que você ainda não encontrou\na localização do herói\nque possui a energia do Macaco entre os 12 Signos Divinos.",
-        "es-ES": "[Profeta K]\nParece que aún no has encontrado\nla ubicación del héroe bendecido\npor la energía del Mono entre los 12 Signos Zodiacales."
+        "en-US": "[Prophet K]\nIt seems you still haven't found the location of the hero blessed by the Monkey, one of the 12 Zodiac Deities.",
+        "pt-BR": "[Profeta K]\nParece que você ainda não encontrou a localização do herói que possui a energia do Macaco entre os 12 Signos Divinos.",
+        "es-ES": "[Profeta K]\nParece que aún no has encontrado la ubicación del héroe que posee la energía del Mono entre los 12 Signos Zodiacales."
     },
     "muNLDA": {
-        "en-US": "[Prophet K]\nA place full of dust and sand\nwhere metallic civilization breathes!",
-        "pt-BR": "[Profeta K]\nUm lugar cheio de poeira\ne onde a civilização metálica respira!",
-        "es-ES": "[Profeta K]\n¡Un lugar lleno de polvo y arena\ndonde la civilización metálica respira!"
+        "en-US": "[Prophet K]\nA place full of dust and sand where metallic civilization breathes!",
+        "pt-BR": "[Profeta K]\nUm lugar cheio de poeira e onde a civilização metálica respira!",
+        "es-ES": "[Profeta K]\n¡Un lugar lleno de polvo y donde respira la civilización metálica!"
     },
     "m+NLDA": {
         "en-US": "[Prophet K]\nDid you lose the secret letter I gave you?\nIt can't be helped then.\nI'll give you another one.",
         "pt-BR": "[Profeta K]\nPerdeu a carta secreta que eu lhe dei?\nNão tem outro jeito.\nAqui está outra.",
-        "es-ES": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nQué se le va a hacer.\nTe la daré de nuevo."
+        "es-ES": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nNo hay otra manera.\nAquí tienes otra."
     },
     "nONLDA": {
-        "en-US": "[Prophet K]\nOh, you're back!\nDid you find the hero\nblessed by the Monkey's energy well?\nSo, how did the conversation go?",
-        "pt-BR": "[Profeta K]\nOh, você voltou!\nConseguiu encontrar o herói\nque possui a energia do Macaco?\nCerto, como foi\na conversa?",
-        "es-ES": "[Profeta K]\n¡Oh, has vuelto!\n¿Lograste encontrar al héroe\nbendecido por la energía del Mono?\nDime, ¿cómo fue\nla conversación?"
+        "en-US": "[Prophet K]\nOh, you're back!\nDid you find the hero blessed by the Monkey's energy well?\nSo, how did the conversation go?",
+        "pt-BR": "[Profeta K]\nOh, você voltou!\nConseguiu encontrar o herói que possui a energia do Macaco?\nCerto, como foi a conversa?",
+        "es-ES": "[Profeta K]\n¡Ah, ya regresaste!\n¿Lograste encontrar al héroe que posee la energía del Mono?\nBien, ¿cómo fue la conversación?"
     },
     "neNLDA": {
-        "en-US": "- I told him everything -\n- that happened during this time. -",
-        "pt-BR": "- Contou tudo que -\n- aconteceu até agora. -",
+        "en-US": "- I told him everything that happened during this time. -",
+        "pt-BR": "- Você conta tudo que -\n- aconteceu até agora. -",
         "es-ES": "- Le conté todo lo que había sucedido -"
     },
     "nuNLDA": {
-        "en-US": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself\nto find him and talk to him\nfrom here on out.",
-        "pt-BR": "[Profeta K]\nCerto... Então isso aconteceu.\nOk, o resto eu mesmo\nvou até lá\npara conversar.",
-        "es-ES": "[Profeta K]\nYa veo... Eso pasó.\nBien, el resto lo haré yo mismo,\niré personalmente\ny hablaré con él."
+        "en-US": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself to find him and talk to him from here on out.",
+        "pt-BR": "[Profeta K]\nCerto... Então isso aconteceu.\nOk, o resto eu mesmo vou até lá para conversar.",
+        "es-ES": "[Profeta K]\nBien... Así que eso fue lo que pasó.\nEstá bien, yo mismo iré allá para hablar sobre el resto."
     },
     "n+NLDA": {
-        "en-US": "[Prophet K]\nThank you so much for all your help.\nAs a reward,\nthere were some soul fragments left\nfrom what you gathered,\nso I tried making a hat\nimbued with the energy of the 12 Zodiac Deities.",
-        "pt-BR": "[Profeta K]\nMuito obrigado por tudo\naté agora.\nComo recompensa,\nsobraram alguns dos\nFragmentos de Alma que você coletou,\nentão imbui com a energia dos 12 Signos Divinos\ne fiz um chapéu para você.",
-        "es-ES": "[Profeta K]\nMuchas gracias por todo este tiempo.\nComo recompensa por ello,\nsobraron algunos de los\nFragmentos de Alma que conseguiste,\nasí que, imbuyéndolos con la energía\nde los 12 Signos Zodiacales, hice un gorro."
+        "en-US": "[Prophet K]\nThank you so much for all your help.\nAs a reward, there were some Monkey Spirits left from what you gathered, so I tried making a hat imbued with the energy of the 12 Zodiac Deities.",
+        "pt-BR": "[Profeta K]\nMuito obrigado por tudo até agora.\nComo recompensa, sobraram alguns dos Fragmentos de Alma que você coletou, então imbui com a energia dos 12 Signos Divinos e fiz um chapéu para você.",
+        "es-ES": "[Profeta K]\nMuchas gracias por todo lo que has hecho hasta ahora.\nComo recompensa, me sobraron algunos de los Fragmentos de Alma que recolectaste, así que los imbuí con la energía de los 12 Signos Zodiacales e hice un sombrero para ti."
     },
     "oONLDA": {
-        "en-US": "[Prophet K]\nIt's a special hat imbued with the energy\nof the 12 Zodiac Deities, worth 25 million Zeny,\nbut since you helped me,\nI'll specially give it to you for 200,000 Zeny.\nWhat do you say?",
-        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuiído com\na energia dos 12 Signos Divinos, vale 25 milhões de Zenny,\nmas como você me ajudou,\nvou te dar por um preço especial de 200k Zenny.\nO que acha?",
-        "es-ES": "[Profeta K]\nEs un gorro imbuido con la energía especial\nde los 12 Signos Zodiacales, con un valor de 25,000,000 de zeny,\npero como me ayudaste,\nte lo dejaré especial por 200,000 zeny.\n¿Qué te parece?"
+        "en-US": "[Prophet K]\nIt's a special hat imbued with the energy of the 12 Zodiac Deities, worth 25 million Zeny, but since you helped me, I'll specially give it to you for 200,000 Zeny.\nWhat do you say?",
+        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuído com a energia dos 12 Signos Divinos. Ele vale 25 milhões de Zeny, mas como você me ajudou, vou te dar por um preço especial de 200 mil Zeny.\nO que acha?",
+        "es-ES": "[Profeta K]\nEs un sombrero especial imbuido con la energía de los 12 Signos Zodiacales. Vale 25 millones de Zeny, pero como me ayudaste, te lo voy a dar a un precio especial de 200 mil Zeny.\n¿Qué te parece?"
     },
     "oeNLDA": {
-        "en-US": "[{0}]\nIsn't it too expensive?..",
-        "pt-BR": "[{0}]\nNão é muito caro?..",
-        "es-ES": "[{0}]\n¿No es demasiado caro?.."
+        "en-US": "[{0}]\nIsn't it too expensive?",
+        "pt-BR": "[{0}]\nNão é muito caro?",
+        "es-ES": "[{0}]\n¿No es muy caro?"
     },
     "ouNLDA": {
         "en-US": "[Prophet K]\nThink about it carefully...\nIt's a whopping 25 million Zeny!",
-        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 25 milhões de Zenny!",
-        "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Son 25,000,000 de zeny!"
+        "pt-BR": "[Profeta K]\nPense bem...\nVale incríveis 25 milhões de Zeny!",
+        "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Vale la increíble suma de 25 millones de Zeny!"
     },
     "o+NLDA": {
-        "en-US": "[Prophet K]\nYou will absolutely never\nregret this choice~!",
-        "pt-BR": "[Profeta K]\nVocê definitivamente não\nse arrependerá da escolha~!",
-        "es-ES": "[Profeta K]\n¡Nunca te arrepentirás\nde esta elección~!"
+        "en-US": "[Prophet K]\nYou will absolutely never regret this choice!",
+        "pt-BR": "[Profeta K]\nVocê definitivamente não se arrependerá da escolha!",
+        "es-ES": "[Profeta K]\n¡Definitivamente no te arrepentirás de tu elección!"
     },
     "pONLDA": {
         "en-US": "Not enough Zeny...",
-        "pt-BR": "Estou sem Zenny..",
+        "pt-BR": "Estou sem Zeny..",
         "es-ES": "No tengo suficiente zeny..."
     },
     "peNLDA": {
         "en-US": "Okay, I'll take it for 200,000 Zeny.",
-        "pt-BR": "Tudo bem, me dê por 200k Zenny.",
-        "es-ES": "Está bien, démelos por 200,000 zeny."
+        "pt-BR": "Tudo bem, me dê por 200 mil Zeny.",
+        "es-ES": "Está bien, démelos por 200 000 zeny."
     },
     "puNLDA": {
         "en-US": "[Prophet K]\nAhem....\nImbued with the energy of the 12 Zodiac Deities!\nA divine artifact worth 25 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nAhem....\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 25 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
-        "es-ES": "[Profeta K]\nEjem....\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 25,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
+        "pt-BR": "[Profeta K]\nAhem...\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 25 milhões de Zeny, é uma relíquia divina...\nNão aja assim!\nVolte mesmo que tenha que pedir emprestado!",
+        "es-ES": "[Profeta K]\nEjem...\n¡Imbuido con la energía de los 12 Signos Zodiacales!\nVale 25 millones de Zeny, es una reliquia divina...\n¡No actúes así!\n¡Regresa aunque tengas que pedir prestado!"
     },
     "p+NLDA": {
-        "en-US": "[Prophet K]\nI tried specially to add\nvery good options..\nBut unfortunately,\nI couldn't make it that way.\nAnyway, I hope you like it.",
-        "pt-BR": "[Profeta K]\nTentei especialmente colocar\nopções muito boas nele..\nInfelizmente, não consegui\nfazê-lo daquela forma.\nDe qualquer modo, espero\nque goste.",
-        "es-ES": "[Profeta K]\nIntenté especialmente esforzarme\npara incluir opciones muy buenas...\nPero lamentablemente,\nno logré hacerlo tan bien.\nEspero que te guste, de todas formas."
+        "en-US": "[Prophet K]\nI tried specially to add very good options..\nBut unfortunately, I couldn't make it that way.\nAnyway, I hope you like it.",
+        "pt-BR": "[Profeta K]\nTentei colocar opções muito boas nele mas infelizmente não consegui.\nDe qualquer modo, espero que goste.",
+        "es-ES": "[Profeta K]\nTraté de ponerle opciones muy buenas, pero lamentablemente no lo logré.\nDe todos modos, espero que te guste."
     },
     "qONLDA": {
-        "en-US": "[Prophet K]\nHowever,\nit seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes blessed by the energy\nof the 12 Zodiac Deities will surely continue.",
-        "pt-BR": "[Profeta K]\nNo entanto,\nacho que meu sonho premonitório\nainda não terminou.\nParece que certamente\nsonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
-        "es-ES": "[Profeta K]\nSin embargo,\ncreo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes bendecidos por la energía\nde los 12 Signos Zodiacales continuarán."
+        "en-US": "[Prophet K]\nHowever, it seems my prophetic dream is not over yet.\nIt seems the prophetic dreams about the heroes blessed by the energy of the 12 Zodiac Deities will surely continue.",
+        "pt-BR": "[Profeta K]\nNo entanto, acho que meu sonho premonitório ainda não terminou.\nParece que sonhos premonitórios sobre os outros heróis que possuem a energia dos 12 Signos Divinos continuarão.",
+        "es-ES": "[Profeta K]\nSin embargo, creo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes que poseen la energía de los 12 Signos Zodiacales continuarán."
     },
     "qeNLDA": {
         "en-US": "[Prophet K]\nCome find me again after a while.\nI'm sure there will be something you can help with.",
         "pt-BR": "[Profeta K]\nVolte até mim depois de um tempo.\nCertamente terei algo para sua ajuda.",
-        "es-ES": "[Profeta K]\nBúscame de nuevo en unos días.\nSeguramente habrá cosas en las que puedas ayudarme."
+        "es-ES": "[Profeta K]\nRegresa a verme después de un tiempo.\nSeguramente tendré algo a cambio de tu ayuda."
     },
     "quNLDA": {
-        "en-US": "[Prophet K]\nYou don't have enough Zeny!\nIt's a divine artifact imbued with the energy\nof the 12 Zodiac Deities, worth 25 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nEstá sem Zenny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 25 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
-        "es-ES": "[Profeta K]\n¡Te falta zeny!\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 25,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
+        "en-US": "[Prophet K]\nYou don't have enough Zeny!\nIt's a divine artifact imbued with the energy of the 12 Zodiac Deities, worth 25 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
+        "pt-BR": "[Profeta K]\nEstá sem Zeny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 25 milhões de Zeny, é uma relíquia divina...\nNão aja assim!\nVolte mesmo que tenha que pedir emprestado!",
+        "es-ES": "[Profeta K]\n¡No tienes Zeny!\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\nVale 25 millones de Zeny, es una reliquia divina...\n¡No hagas eso!\n¡Regresa aunque tengas que pedir prestado!"
     },
     "q+NLDA": {
         "en-US": "[Prophet K]\nYour bag is completely full of items.\nReduce your inventory and\ncome find me again.",
-        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nReduza seus itens e\nvolte até mim.",
-        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nReduce tus objetos y vuelve\na buscarme."
+        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nReduza seus itens e volte até mim.",
+        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nReduce tus objetos y vuelve a buscarme."
     },
     "rONLDA": {
-        "en-US": "[Prophet K]\nIt seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes blessed by the energy\nof the 12 Zodiac Deities will surely continue.",
-        "pt-BR": "[Profeta K]\nAcho que meu sonho premonitório\nainda não terminou.\nParece que certamente\nsonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
-        "es-ES": "[Profeta K]\nCreo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes bendecidos por la energía\nde los 12 Signos Zodiacales continuarán."
+        "en-US": "[Prophet K]\nIt seems my prophetic dream is not over yet.\nIt seems the prophetic dreams about the heroes blessed by the energy of the 12 Zodiac Deities will surely continue.",
+        "pt-BR": "[Profeta K]\nAcho que meu sonho premonitórion ainda não terminou.\nParece que sonhos premonitórios sobre os outros heróis que possuem a energia dos 12 Signos Divinos continuarão.",
+        "es-ES": "[Profeta K]\nCreo que mi sueño profético aún no ha terminado.\nParece que seguirán las pesadillas proféticos\nsobre los demás héroes que poseen la energía de los 12 Signos Zodiacales."
     },
     "reNLDA": {
         "en-US": "Mark Han",
@@ -390,19 +390,19 @@
         "es-ES": "Mark Han"
     },
     "ruNLDA": {
-        "en-US": "[Mark Han]\nLately, it feels like even my heart\nis becoming desolate....\nFriends are leaving one by one..",
-        "pt-BR": "[Mark Han]\nUltimamente, sinto que\naté meu coração está ficando árido....\nMeus amigos também estão partindo, um a um..",
-        "es-ES": "[Mark Han]\nÚltimamente siento que\nmi corazón se está volviendo árido también...\nMis amigos también me abandonan uno a uno.."
+        "en-US": "[Mark Han]\nLately, it feels like even my heart is becoming desolate...\nFriends are leaving one by one..",
+        "pt-BR": "[Mark Han]\nUltimamente, sinto um aperto no coração...\nMeus amigos também estão partindo, um a um...",
+        "es-ES": "[Mark Han]\nÚltimamente, siento un nudo en el corazón...\nMis amigos también se están yendo, uno a uno..."
     },
     "r+NLDA": {
         "en-US": "- It seems like the person Prophet K mentioned, but I don't have ^4D4DFFProphet K's Secret Letter^000000. -",
         "pt-BR": "- Parece ser a pessoa de quem o Profeta K falou, mas você não tem a ^4D4DFFCarta Secreta do Profeta K^000000. -",
-        "es-ES": "-Parece ser la persona de la que habló el Profeta K, pero no tengo la ^4D4DFFcarta secreta del Profeta K^000000.-"
+        "es-ES": "-Parece ser la persona de la que habló el Profeta K, pero no tienes la ^4D4DFFcarta secreta del Profeta K^000000.-"
     },
     "sONLDA": {
-        "en-US": "[Mark Han]\nLately, it feels like even my heart\nis becoming desolate....\nFriends are leaving one by one..\nShould I really be like this..",
-        "pt-BR": "[Mark Han]\nUltimamente, sinto que\naté meu coração está ficando árido....\nMeus amigos também estão partindo, um a um..\nSerá que realmente preciso ser assim..",
-        "es-ES": "[Mark Han]\nÚltimamente siento que\nmi corazón se está volviendo árido también...\nMis amigos también me abandonan uno a uno..\n¿De verdad debo ser así.."
+        "en-US": "[Mark Han]\nLately, it feels like even my heart is becoming desolate...\nFriends are leaving one by one...\nShould I really be like this...",
+        "pt-BR": "[Mark Han]\nUltimamente, sinto um aperto no coração...\nMeus amigos também estão partindo, um a um...\nSerá que realmente preciso passar por isso?",
+        "es-ES": "[Mark Han]\nÚltimamente, siento un nudo en el corazón...\nMis amigos también se están yendo, uno por uno...\n¿De verdad tengo que pasar por esto?"
     },
     "seNLDA": {
         "en-US": "- What should I say to him? -",
@@ -412,136 +412,136 @@
     "suNLDA": {
         "en-US": "You have a very nice impression.",
         "pt-BR": "Você tem uma boa aparência.",
-        "es-ES": "Tiene una impresión muy favorable."
+        "es-ES": "Tienes buena presencia."
     },
     "s+NLDA": {
         "en-US": "You have very good energy.",
         "pt-BR": "Você tem uma boa energia.",
-        "es-ES": "Tiene muy buena energía."
+        "es-ES": "Tienes buena energía."
     },
     "tONLDA": {
         "en-US": "Your face is glowing.",
         "pt-BR": "Seu rosto está brilhando.",
-        "es-ES": "Su rostro irradia luz."
+        "es-ES": "Tu rostro resplandece."
     },
     "teNLDA": {
         "en-US": "Your ancestors must have accumulated much merit.",
         "pt-BR": "Parece que seus ancestrais acumularam muitos méritos.",
-        "es-ES": "Parece que sus ancestros acumularon muchas buenas acciones."
+        "es-ES": "Parece que tus ancestros acumularon muchos méritos."
     },
     "tuNLDA": {
-        "en-US": "[Mark Han]\nI'm full of worries right now...\n...",
-        "pt-BR": "[Mark Han]\nEstou cheio de preocupações agora...\n...",
-        "es-ES": "[Mark Han]\nEstoy lleno de preocupaciones ahora mismo...\n..."
+        "en-US": "[Mark Han]\nI'm full of worries right now...",
+        "pt-BR": "[Mark Han]\nEstou cheio de preocupações agora...",
+        "es-ES": "[Mark Han]\nAhora tengo muchas preocupaciones..."
     },
     "t+NLDA": {
-        "en-US": "[Mark Han]\nJust state your business.\nFor what reason.. are you approaching me?",
-        "pt-BR": "[Mark Han]\nDiga logo o que quer\nO que traz.. você até mim?",
-        "es-ES": "[Mark Han]\nMejor dígame el motivo\n¿A qué debo... su visita?"
+        "en-US": "[Mark Han]\nJust state your business.\nFor what reaso are you approaching me?",
+        "pt-BR": "[Mark Han]\nDiga logo o que quer.\nO que traz você até mim?",
+        "es-ES": "[Mark Han]\nDi de una vez lo que quieres.\n¿Qué te trae por aquí?"
     },
     "uONLDA": {
         "en-US": "Hand over Prophet K's Secret Letter.",
-        "pt-BR": "Entrega a Carta Secreta do Profeta K.",
+        "pt-BR": "Entregar a Carta Secreta do Profeta K.",
         "es-ES": "Entregar la carta secreta del Profeta K."
     },
     "ueNLDA": {
-        "en-US": "- Handed over Prophet K's Secret Letter -\n- and explained the whole story. -",
-        "pt-BR": "- Entrega a Carta Secreta do -\n- Profeta K e explica -\n- toda a situação. -",
-        "es-ES": "- Le entregué la carta secreta del Profeta K -\n- y le conté todos los detalles -"
+        "en-US": "- Handed over Prophet K's Secret Letter and explained the whole story. -",
+        "pt-BR": "- Entrega a Carta Secreta do Profeta K e explica toda a situação. -",
+        "es-ES": "- Le entregué la carta secreta del profeta K y le conté todo lo sucedido -"
     },
     "uuNLDA": {
-        "en-US": "[Mark Han]\nFrankly, I can't easily\nbelieve your words.\nIt sounds just like\nwhat a scammer would say.",
-        "pt-BR": "[Mark Han]\nSinceramente, não posso\nacreditar facilmente em suas palavras.\nSoam como as palavras\nde um golpista.",
-        "es-ES": "[Mark Han]\nSinceramente, no puedo\ncreer sus palabras tan fácilmente.\nSuenan como las cosas\nque diría un estafador."
+        "en-US": "[Mark Han]\nFrankly, I can't easily believe your words.\nIt sounds just like what a scammer would say.",
+        "pt-BR": "[Mark Han]\nSinceramente, não posso acreditar facilmente em suas palavras.\nSoam como as palavras de um golpista.",
+        "es-ES": "[Mark Han]\nSinceramente, no puedo creer sus palabras tan fácilmente.\nSuenan como las cosas que diría un estafador."
     },
     "u+NLDA": {
-        "en-US": "[Mark Han]\nIf you want me to believe your words\nand read this secret letter,\nI need to have trust in you.",
-        "pt-BR": "[Mark Han]\nSe você quer que eu acredite em você\ne leia esta carta secreta,\npreciso confiar em você.",
-        "es-ES": "[Mark Han]\nSi quiero creer en usted\ny leer esta carta secreta,\nnecesito tener confianza en usted."
+        "en-US": "[Mark Han]\nIf you want me to believe your words and read this secret letter, I need to have trust in you.",
+        "pt-BR": "[Mark Han]\nSe você quer que eu acredite em você e leia esta carta secreta, preciso confiar em você.",
+        "es-ES": "[Mark Han]\nSi quieres que crea en lo que dices y leer esta carta secreta, necesito confiar en ti."
     },
     "vONLDA": {
-        "en-US": "What should I do..?",
-        "pt-BR": "O que devo fazer..?",
-        "es-ES": "¿Qué debo hacer...?"
+        "en-US": "What should I do?",
+        "pt-BR": "O que devo fazer?",
+        "es-ES": "¿Qué debo hacer?"
     },
     "veNLDA": {
-        "en-US": "[Mark Han]\nHmm... There's something\nI really need right now.\nIf you can bring that to me,\nI'll take it as a sign of your\nsincerity.",
-        "pt-BR": "[Mark Han]\nHmm... No momento,\nhá algo que eu realmente preciso,\nse você trouxer isso para mim,\nvou considerar isso como um sinal\nde sua sinceridade.",
-        "es-ES": "[Mark Han]\nMmm... En este momento\nhay algo que necesito mucho.\nSi me lo trae,\nlo tomaré como una muestra\nde su determinación."
+        "en-US": "[Mark Han]\nHmm... There's something I really need right now.\nIf you can bring that to me, I'll take it as a sign of your sincerity.",
+        "pt-BR": "[Mark Han]\nHmm... No momento, há algo que eu realmente preciso, se você trouxer isso para mim, vou considerar isso como um sinal de sua sinceridade.",
+        "es-ES": "[Mark Han]\nMmm... Verás, ahora mismo hay algo que necesito urgentemente, si me lo traes, lo tomaré como una señal de tu sinceridad."
     },
     "vuNLDA": {
-        "en-US": "[Mark Han]\nI'm researching giving life\nto metal machines,\nso I'm looking for various hearts.\nPlease get me\n20 Burning Hearts,\nand 20 Ice Hearts.",
-        "pt-BR": "[Mark Han]\nEstou pesquisando sobre dar vida\na máquinas feitas de metal,\ne estou coletando vários tipos de corações.\nPreciso que você me traga\n20 Corações Incandescentes,\ne 20 Corações de Gelo.",
-        "es-ES": "[Mark Han]\nEstoy investigando cómo dar vida\na máquinas hechas de metal,\nasí que estoy buscando varios tipos de corazones.\nPor favor, consígame\n20 Corazones Ardientes\ny 20 Corazones de Hielo."
+        "en-US": "[Mark Han]\nI'm researching giving life to metal machines, so I'm looking for various hearts.\nPlease get me 20 Burning Hearts, and 20 Glacial Hearts.",
+        "pt-BR": "[Mark Han]\nEstou pesquisando sobre dar vida a máquinas feitas de metal e estou coletando vários tipos de corações.\nPreciso que você me traga 20 Corações Incandescentes e 20 Corações Glaciais.",
+        "es-ES": "[Mark Han]\nEstoy investigando cómo dar vida a máquinas hechas de metal, por lo que necesito conseguir distintos tipos de corazones.\nPor favor, consígueme 20 Corazones Ardientes y 20 Corazones Glaciales."
     },
     "v+NLDA": {
-        "en-US": "[Mark Han]\nGet Ice Hearts from Siroma\non the 1st floor of the Ice Dungeon\nin Rachel Audumla Grasslands,\nand Burning Hearts from Blazer\non the 1st floor of Noggroad\nin Elmes Plateau near Yuno..",
-        "pt-BR": "[Mark Han]\nVocê pode obter o Coração de Gelo\nda Siroma no 1º andar da\nCaverna de Gelo nos Campos de Rachel Audumla,\ne o Coração Incandescente\ndo Labareda no 1º andar da\nda caverna de magma..",
-        "es-ES": "[Mark Han]\nPuede conseguir el Corazón de Hielo\nde los Siroma en el primer nivel\nde la mazmorra de hielo en la Pradera Rachel Aumdurach,\ny el Corazón Ardiente\nde los Blazer en el primer nivel de Noggroad,\nen el Plateau Elmes cerca de Juno.."
+        "en-US": "[Mark Han]\nYou can get Glacial Hearts on Ice Dungeon in Rachel Fields, near Audumbla Grasslands.\nAs for the Burning Hearts,  you can get those on the Lava Dungeon.",
+        "pt-BR": "[Mark Han]\nVocê pode obter Corações Glaciais na Caverna de Gelo nos Arredores de Rachel, perto da Pradaria Audhumbla.\nJá os Corações Incandescentes, você pode conseguir eles na Caverna de Magma.",
+        "es-ES": "[Mark Han]\nPuedes conseguir Corazones Glaciales en la Mazmorra de Hielo a las afueras de Rachel, cerca de la Pradera de Audhumbla.\nEn cuanto a los Corazón Ardiente, puedes obtenerlos en en la Cueva de Magma."
     },
     "wONLDA": {
-        "en-US": "[Mark Han]\nIf you show that much sincerity,\nI should be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?\nI'll be waiting~!",
-        "pt-BR": "[Mark Han]\nSe você mostrar essa boa vontade,\nvou conseguir confiar\nsuficientemente na sua história\ne no conteúdo desta carta secreta.\nVocê fará isso, não é?\nEstarei esperando~!",
-        "es-ES": "[Mark Han]\nSi muestra esa buena voluntad,\ncreeré suficientemente en su historia\ny en el contenido de esta carta secreta.\n¿Aceptará?\n¡Estaré esperando~!"
+        "en-US": "[Mark Han]\nIf you show that much sincerity, I should be able to trust your story and the contents of this secret letter.\nYou'll do it, right?\nI'll be waiting!",
+        "pt-BR": "[Mark Han]\nSe você mostrar essa boa vontade vou conseguir confiar suficientemente na sua história e no conteúdo desta carta secreta.\nVocê fará isso, não é?\nEstarei esperando!",
+        "es-ES": "[Mark Han]\nSi demuestras ese nivel de buena fe, creo que podré confiar plenamente en tu historia y en el contenido de esta carta secreta. ¿Lo harás, verdad? ¡Te estaré esperando~!"
     },
     "weNLDA": {
-        "en-US": "[Mark Han]\nHmm..? Didn't you have\nsomething to say to me?..",
-        "pt-BR": "[Mark Han]\nHmm..? Você não tinha\nalgo para me dizer?..",
-        "es-ES": "[Mark Han]\n¿Mm...? ¿No tenía\nalgo que decirme...?"
+        "en-US": "[Mark Han]\nHmm? Didn't you have something to say to me?",
+        "pt-BR": "[Mark Han]\nHmm? Você não tinha algo para me dizer?",
+        "es-ES": "[Mark Han]\n¿Eh...? ¿No tenías algo que decirme?..."
     },
     "wuNLDA": {
-        "en-US": "[Mark Han]\nI'm so drained of energy right now...\n...",
-        "pt-BR": "[Mark Han]\nEstou sem energia, morrendo de cansado...\n...",
-        "es-ES": "[Mark Han]\nEstoy tan desanimado que me muero...\n..."
+        "en-US": "[Mark Han]\nI'm so drained of energy right now...",
+        "pt-BR": "[Mark Han]\nEstou sem energia, morrendo de cansaço...",
+        "es-ES": "[Mark Han]\nAhora mismo estoy tan agotado que me muero..."
     },
     "w+NLDA": {
-        "en-US": "[Mark Han]\nThanks for saying that, at least..\n...",
-        "pt-BR": "[Mark Han]\nObrigado pelas palavras, pelo menos..\n...",
-        "es-ES": "[Mark Han]\nAgradezco sus palabras, al menos...\n..."
+        "en-US": "[Mark Han]\nThanks for saying that, at least...",
+        "pt-BR": "[Mark Han]\nObrigado pelas palavras, pelo menos...",
+        "es-ES": "[Mark Han]\nGracias por tus palabras, al menos..."
     },
     "xONLDA": {
-        "en-US": "[Mark Han]\nWhat are you talking about...\n...",
-        "pt-BR": "[Mark Han]\nO que você está dizendo...\n...",
-        "es-ES": "[Mark Han]\nQué está diciendo...\n..."
+        "en-US": "[Mark Han]\nWhat are you talking about...",
+        "pt-BR": "[Mark Han]\nO que você está dizendo...",
+        "es-ES": "[Mark Han]\n¿Qué estás diciendo...?"
     },
     "xeNLDA": {
-        "en-US": "[Mark Han]\nFor some reason, it seems like\nyou have something to tell me..",
-        "pt-BR": "[Mark Han]\nParece que você tem\nalgo para me dizer..",
-        "es-ES": "[Mark Han]\nParece que tiene algo\nque contarme..."
+        "en-US": "[Mark Han]\nFor some reason, it seems like you have something to tell me...",
+        "pt-BR": "[Mark Han]\nParece que você tem algo para me dizer...",
+        "es-ES": "[Mark Han]\nPor alguna razón, parece que tienes algo que decirme..."
     },
     "xuNLDA": {
         "en-US": "I've brought what you asked for.",
         "pt-BR": "Trouxe o que você pediu.",
-        "es-ES": "He traído lo que me pidió."
+        "es-ES": "Traje lo que me pediste."
     },
     "x+NLDA": {
-        "en-US": "[Mark Han]\nHmm? You brought them..\nI have no choice but to trust you.\nWith this level of effort,\neven the 12 Zodiac Deities would be moved.\nOf course, my trust in you\nhas built up infinitely~!",
-        "pt-BR": "[Mark Han]\nOh? Você realmente trouxe..\nNão tenho escolha senão confiar em você.\nCom esse esforço,\naté os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você\ncresceu infinitamente~!",
-        "es-ES": "[Mark Han]\n¿Mm? ¿Los consiguió...?\nNo me queda más que confiar en usted.\nCon ese nivel de esfuerzo,\nhasta los 12 Dioses Zodiacales se conmoverían.\n¡Por supuesto, mi confianza en usted\ntambién ha crecido infinitamente~!"
+        "en-US": "[Mark Han]\nHmm? You brought them...\nI have no choice but to trust you.\nWith this level of effort, even the 12 Zodiac Deities would be moved.\nOf course, my trust in you has built up infinitely!",
+        "pt-BR": "[Mark Han]\nOh? Você realmente trouxe...\nNão tenho escolha senão confiar em você.\nCom esse esforço, até os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você cresceu infinitamente!",
+        "es-ES": "[Mark Han]\n¿Eh? De verdad lo has traído...\nNo me queda más remedio que confiar en ti.\nCon ese esfuerzo, hasta los 12 Dioses Zodiacales se conmoverían.\n¡Claro, mi confianza en ti ha crecido infinitamente!"
     },
     "yONLDA": {
-        "en-US": "[Mark Han]\nI'll accept what you\nbrought for me.\nAnd I will carefully read\nthe contents you mentioned\nand this secret letter.",
-        "pt-BR": "[Mark Han]\nVou receber o que\nvocê trouxe.\nE vou ler com cuidado\na sua história\ne esta carta secreta.",
-        "es-ES": "[Mark Han]\nAceptaré lo que\nha conseguido.\nY leeré con cuidado\nlo que me ha contado\ny esta carta secreta."
+        "en-US": "[Mark Han]\nI'll accept what you brought for me.\nAnd I will carefully read the contents you mentioned and this secret letter.",
+        "pt-BR": "[Mark Han]\nVou receber o que você trouxe.\nE vou ler com cuidado a sua história e esta carta secreta.",
+        "es-ES": "[Mark Han]\nVoy a recibir lo que trajiste.\nY voy a leer con atención tu historia y esta carta secreta."
     },
     "yeNLDA": {
-        "en-US": "[Mark Han]\nPlease tell the person who sent this letter,\nProphet K,\nthe same for me.",
-        "pt-BR": "[Mark Han]\nPor favor, diga também\nao Profeta K, que enviou esta carta,\nque conversei com você.",
-        "es-ES": "[Mark Han]\nEntonces, por favor, dígale\na esa persona, el Profeta K,\nque me envió esta carta secreta,\nque todo está bien."
+        "en-US": "[Mark Han]\nPlease tell the person who sent this letter, Prophet K, the same for me.",
+        "pt-BR": "[Mark Han]\nPor favor, diga também ao Profeta K, que enviou esta carta, que conversei com você.",
+        "es-ES": "[Mark Han]\nPor favor, dile también al Profeta K, quien envió esta carta, que hablé contigo."
     },
     "yuNLDA": {
-        "en-US": "[Mark Han]\nHmm...? It still seems insufficient?\nPlease get me\n20 Ice Hearts,\nand 20 Burning Hearts.",
-        "pt-BR": "[Mark Han]\nHmm...? Ainda parece insuficiente.\nPreciso de 20 Corações de Gelo,\ne 20 Corações Incandescentes.",
-        "es-ES": "[Mark Han]\n¿Mm...? Aún parece no ser suficiente.\nPor favor, consiga\n20 Corazones de Hielo\ny 20 Corazones Ardientes."
+        "en-US": "[Mark Han]\nHmm? It still seems insufficient?\nPlease get me 20 Glacial Hearts, and 20 Burning Hearts.",
+        "pt-BR": "[Mark Han]\nHmm? Ainda parece estar faltando.\nPreciso de 20 Corações Glaciais e 20 Corações Incandescentes.",
+        "es-ES": "[Mark Han]\n¿Eh...? Parece que aún no es suficiente. Por favor, consígueme 20 Corazones Glaciales y 20 Corazones Ardientes ."
     },
     "y+NLDA": {
-        "en-US": "[Mark Han]\nIf you show that much sincerity,\nI should be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?",
-        "pt-BR": "[Mark Han]\nSe você mostrar essa boa vontade,\nvou conseguir confiar\nsuficientemente na sua história\ne no conteúdo desta carta secreta.\nVocê fará isso, não é?",
-        "es-ES": "[Mark Han]\nSi muestra esa buena voluntad,\ncreeré suficientemente en su historia\ny en el contenido de esta carta secreta.\n¿Aceptará?"
+        "en-US": "[Mark Han]\nIf you show that much sincerity, I should be able to trust your story and the contents of this secret letter.\nYou'll do it, right?",
+        "pt-BR": "[Mark Han]\nSe você mostrar essa boa vontade, vou conseguir confiar suficientemente na sua história e no conteúdo desta carta secreta.\nVocê fará isso, não é?",
+        "es-ES": "[Mark Han]\nSi demuestras esa buena voluntad, podré confiar lo suficiente en tu historia y en el contenido de esta carta secreta.\nLo harás, ¿verdad?"
     },
     "zONLDA": {
-        "en-US": "[Mark Han]\nThe wind is blowing\nand the weather isn't bad either..",
-        "pt-BR": "[Mark Han]\nO vento está soprando\ne o clima não está ruim..",
-        "es-ES": "[Mark Han]\nEl viento sopla\ny el clima no está mal.."
+        "en-US": "[Mark Han]\nThe wind is blowing and the weather isn't bad either...",
+        "pt-BR": "[Mark Han]\nO vento está soprando e o clima não está ruim...",
+        "es-ES": "[Mark Han]\nEl viento sopla y el clima no está mal..."
     }
 }

@@ -16,7 +16,7 @@
     },
     "w9EuAw": {
         "en-US": "[Pisrick]\nCough cough...\nMerry~ guild~ cough\n...Eh?\nWhat, looking at someone else's research without permission!",
-        "pt-BR": "[Pisrick]\nTosse tosse...\nFeliz~ guilda~ tosse\n...Eh?\nO quê, olhando a pesquisa de outra pessoa sem permissão!",
+        "pt-BR": "[Pisrick]\nTosse tosse...\nFeliz... cof... guilda... cof...\nHã?\nO quê, olhando a pesquisa de outra pessoa sem permissão!",
         "es-ES": "[Pisrick]\nTos tos...\nFeliz~ gremio~ tos\n...¿Eh?\n¡Qué, mirando la investigación de otra persona sin permiso!"
     },
     "xNEuAw": {
@@ -76,7 +76,7 @@
     },
     "z9EuAw": {
         "en-US": "[Pisrick]\nWhat I need right now is\n5 Yellow_Gemstones, 4 Empty Potion Bottles,\n10 Hearts of Mermaid, 10 Moth Dust.\nCome back when you have them all.",
-        "pt-BR": "[Pisrick]\nO que eu preciso agora é\n5 Gemas_Amarelas, 4 Frascos de Poção Vazios,\n10 Corações de Sereia, 10 Pó de Mariposa.\nVolte quando tiver todos eles.",
+        "pt-BR": "[Pisrick]\nO que eu preciso agora é\n5 Gemas Amarelas, 4 Garrafas de Poção,\n10 Corações de Sereia, 10 Pó de Traça.\nVolte quando tiver todos eles.",
         "es-ES": "[Pisrick]\nLo que necesito ahora es\n5 Gemas_Amarillas, 4 Frascos de Poción Vacíos,\n10 Corazones de Sirena, 10 Polvo de Polilla.\nVuelve cuando los tengas todos."
     },
     "0NEuAw": {
@@ -86,27 +86,27 @@
     },
     "0dEuAw": {
         "en-US": "[Pisrick]\nJunior {0},\nthe items I requested...\n4 Empty Potion Bottles...\n....uh...\nWhat was it again?",
-        "pt-BR": "[Pisrick]\nJúnior {0},\nos itens que solicitei...\n4 Frascos de Poção Vazios...\n....uh...\nO que era mesmo?",
+        "pt-BR": "[Pisrick]\nJúnior {0},\nos itens que solicitei...\n4 Garrafas de Poção...\n....uh...\nO que era mesmo?",
         "es-ES": "[Pisrick]\nJúnior {0},\nlos objetos que solicité...\n4 Frascos de Poción Vacíos...\n....uh...\n¿Qué era?"
     },
     "0tEuAw": {
         "en-US": "5 Yellow_Gemstones,",
-        "pt-BR": "5 Gemas_Amarelas,",
+        "pt-BR": "5 Gemas Amarelas,",
         "es-ES": "5 Gemas_Amarillas,"
     },
     "09EuAw": {
         "en-US": "5 Blue_Gemstones,",
-        "pt-BR": "5 Gemas_Azuis,",
+        "pt-BR": "5 Gemas Azuis,",
         "es-ES": "5 Gemas_Azules,"
     },
     "1NEuAw": {
         "en-US": "5 Red_Gemstones,",
-        "pt-BR": "5 Gemas_Vermelhas,",
+        "pt-BR": "5 Gemas Vermelhas,",
         "es-ES": "5 Gemas_Rojas,"
     },
     "1dEuAw": {
         "en-US": "[Pisrick]\n5 Yellow_Gemstones...\nand...",
-        "pt-BR": "[Pisrick]\n5 Gemas_Amarelas...\ne...",
+        "pt-BR": "[Pisrick]\n5 Gemas Amarelas...\ne...",
         "es-ES": "[Pisrick]\n5 Gemas_Amarillas...\ny..."
     },
     "1tEuAw": {
@@ -131,7 +131,7 @@
     },
     "2tEuAw": {
         "en-US": "10 Moth Dust.",
-        "pt-BR": "10 Pó de Mariposa.",
+        "pt-BR": "10 Pó de Traça.",
         "es-ES": "10 Polvo de Polilla."
     },
     "29EuAw": {
@@ -141,7 +141,7 @@
     },
     "3NEuAw": {
         "en-US": "[Pisrick]\nRight. 5 Yellow_Gemstones, 4 Empty Potion Bottles,\n10 Hearts of Mermaid, 10 Moth Dust.\nDo you have them all?",
-        "pt-BR": "[Pisrick]\nCerto. 5 Gemas_Amarelas, 4 Frascos de Poção Vazios,\n10 Corações de Sereia, 10 Pó de Mariposa.\nVocê tem todos eles?",
+        "pt-BR": "[Pisrick]\nCerto. 5 Gemas Amarelas, 4 Garrafas de Poção,\n10 Corações de Sereia, 10 Pó de Traça.\nVocê tem todos eles?",
         "es-ES": "[Pisrick]\nCorrecto. 5 Gemas_Amarillas, 4 Frascos de Poción Vacíos,\n10 Corazones de Sirena, 10 Polvo de Polilla.\n¿Los tienes todos?"
     },
     "3dEuAw": {

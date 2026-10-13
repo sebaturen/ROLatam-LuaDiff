@@ -6,7 +6,7 @@
     },
     "YU1kDA": {
         "en-US": "^FF0000Please lighten your load before you accept this trial.^000000",
-        "pt-BR": "^FF0000Antes de enfrentar a provação, por favor, reduza um pouco a carga que carrga.^000000",
+        "pt-BR": "^FF0000Antes de enfrentar a provação, por favor, reorganize seu inventário e tente novamente.^000000",
         "es-ES": "^FF0000Antes de enfrentarte a la prueba, aligera un poco la carga que llevas.^000000"
     },
     "Yk1kDA": {
@@ -41,7 +41,7 @@
     },
     "aE1kDA": {
         "en-US": "Dark Illusion",
-        "pt-BR": "Ilusão das Trevas",
+        "pt-BR": "Fantasma da Escuridão",
         "es-ES": "Ilusión Oscura"
     },
     "aU1kDA": {
@@ -126,13 +126,17 @@
     },
     "eU1kDA": {
         "en-US": "Illusion of Darkness",
-        "pt-BR": "A Ilusão das Trevas",
+        "pt-BR": "Fantasma da Escuridão",
         "es-ES": "Ilusión de la Oscuridad"
     },
     "ek1kDA": {
-        "en-US": "test"
+        "en-US": "test",
+        "pt-BR": "test",
+        "es-ES": "test"
     },
     "e01kDA": {
-        "en-US": "test"
+        "en-US": "test",
+        "pt-BR": "test",
+        "es-ES": "test"
     }
 }

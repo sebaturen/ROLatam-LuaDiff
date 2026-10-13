@@ -1,0 +1,2097 @@
+{
+    "AGuvDQ": {
+        "en-US": "Level 70~99 Request Board",
+        "pt-BR": "Missões 70 - 99",
+        "es-ES": "70~99 Tablón de encargos"
+    },
+    "AWuvDQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll quest reward EXP is increased by 50%!!^000000",
+        "pt-BR": "^4D4DFFBônus de EXP!^000000\n^4D4DFFDurante o evento, as recompensas em EXP aumentaram em 50%!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡La EXP de recompensa de todas las misiones aumenta un 50%!!^000000"
+    },
+    "AmuvDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items. -",
+        "pt-BR": "Você está carregando itens demais para prosseguir.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos. -"
+    },
+    "A2uvDQ": {
+        "en-US": "[Version Check] Eden Group Normal Version",
+        "pt-BR": "[GM Mode] Versão Normal",
+        "es-ES": "[Verificación de versión] Versión normal del Grupo del Edén"
+    },
+    "BGuvDQ": {
+        "en-US": "To receive requests -\n- You need ^4D4DFF'Eden Group Mark'^000000. -",
+        "pt-BR": "Para aceitar uma missão, você precisa\nter o ^4D4DFF'Emblema do Grupo do Éden'^000000.",
+        "es-ES": "Para recibir encargos, debes tener -\n- ^4D4DFF'Emblema del Grupo del Edén'^000000. -"
+    },
+    "BWuvDQ": {
+        "en-US": "You cannot use this board because your level is too low.",
+        "pt-BR": "Seu nível é insuficiente para usar este quadro de missões.",
+        "es-ES": "No tienes el nivel necesario para usar este tablón."
+    },
+    "BmuvDQ": {
+        "en-US": "View Individual Requests",
+        "pt-BR": "Ver missões individualmente",
+        "es-ES": "Ver encargos individuales"
+    },
+    "B2uvDQ": {
+        "en-US": "Report Completed Requests",
+        "pt-BR": "Reportar missões concluídas",
+        "es-ES": "Informar encargos completados"
+    },
+    "CGuvDQ": {
+        "en-US": "Accept All Requests at Once",
+        "pt-BR": "Aceitar todas as missões",
+        "es-ES": "Aceptar todos los encargos"
+    },
+    "CWuvDQ": {
+        "en-US": "[Processing request settlement.]",
+        "pt-BR": "[Missões Concluídas]",
+        "es-ES": "[Se están procesando los encargos.]"
+    },
+    "CmuvDQ": {
+        "en-US": "<Academy Safety Enhancement> completed.",
+        "pt-BR": "[Proteger a Academia] - missão concluída.",
+        "es-ES": "<Refuerzo de la seguridad de la academia> completado."
+    },
+    "C2uvDQ": {
+        "en-US": "<Groundbreaking Business Item> completed.",
+        "pt-BR": "[Itens Valiosos] - missão concluída.",
+        "es-ES": "<Idea de negocio innovadora> completado."
+    },
+    "DGuvDQ": {
+        "en-US": "<Sure Finish> completed.",
+        "pt-BR": "[Animais no Campus] - missão concluída.",
+        "es-ES": "<Un final definitivo> completado."
+    },
+    "DWuvDQ": {
+        "en-US": "<Clock Tower 1F Cleaning> completed.",
+        "pt-BR": "[Faxina na Torre] - missão concluída.",
+        "es-ES": "<Limpieza del piso 1 de la Torre del Reloj> completado."
+    },
+    "DmuvDQ": {
+        "en-US": "<Living Clock 1> completed.",
+        "pt-BR": "[Objeto Animado] - missão concluída.",
+        "es-ES": "<Relojes que cobran vida 1> completado."
+    },
+    "D2uvDQ": {
+        "en-US": "<Living Clock 2> completed.",
+        "pt-BR": "[Objeto Vivo] - missão concluída.",
+        "es-ES": "<Relojes que cobran vida 2> completado."
+    },
+    "EGuvDQ": {
+        "en-US": "<Laughter Echoing from Underground> completed.",
+        "pt-BR": "[Risadas no Subsolo] - missão concluída.",
+        "es-ES": "<Risas provenientes del subsuelo> completado."
+    },
+    "EWuvDQ": {
+        "en-US": "<Monastery Purification> completed.",
+        "pt-BR": "[Purificando o Lugar] - missão concluída.",
+        "es-ES": "<Purificación del monasterio> completado."
+    },
+    "EmuvDQ": {
+        "en-US": "<Catacomb Stabilization> completed.",
+        "pt-BR": "[Cemitério de Sacerdotes] - missão concluída.",
+        "es-ES": "<Estabilización de las catacumbas> completado."
+    },
+    "E2uvDQ": {
+        "en-US": "<Aerial Petit Is Cute> completed.",
+        "pt-BR": "[Dragões Fofinhos] - missão concluída.",
+        "es-ES": "<Petit Aéreo es adorable> completado."
+    },
+    "FGuvDQ": {
+        "en-US": "<Ground Petit Is Cute> completed.",
+        "pt-BR": "[Dragões Fortinhos] - missão concluída.",
+        "es-ES": "<Petit Terrestre es adorable> completado."
+    },
+    "FWuvDQ": {
+        "en-US": "<Hunt Marionette and Deviruchi> completed.",
+        "pt-BR": "[Seres Demoníacos] - missão concluída.",
+        "es-ES": "<Caza de Marioneta y Deviruchi> completado."
+    },
+    "FmuvDQ": {
+        "en-US": "<Horse Running Through Nightmare> completed.",
+        "pt-BR": "[Cavalos Sinistros] - missão concluída.",
+        "es-ES": "<El caballo que corre por Pesadilla> completado."
+    },
+    "F2uvDQ": {
+        "en-US": "<Please Clean Up the Surrounding Area.> completed.",
+        "pt-BR": "[Patrulhamento] - missão concluída.",
+        "es-ES": "<Por favor, limpia los alrededores.> completado."
+    },
+    "GGuvDQ": {
+        "en-US": "<Floating Toxic Gas 1> completed.",
+        "pt-BR": "[Gases Venenosos] - missão concluída.",
+        "es-ES": "<Gas tóxico flotante 1> completado."
+    },
+    "GWuvDQ": {
+        "en-US": "<Floating Toxic Gas 2> completed.",
+        "pt-BR": "[Gases Tóxicos] - missão concluída.",
+        "es-ES": "<Gas tóxico flotante 2> completado."
+    },
+    "GmuvDQ": {
+        "en-US": "<Cute and Terrible...> completed.",
+        "pt-BR": "[Boneco Assassino] - missão concluída.",
+        "es-ES": "<Adorable y aterrador...> completado."
+    },
+    "G2uvDQ": {
+        "en-US": "<Shadow Miner> completed.",
+        "pt-BR": "[Trabalhadores da Mina] - missão concluída.",
+        "es-ES": "<Minero Sombra> completado."
+    },
+    "HGuvDQ": {
+        "en-US": "<Why Is Something Like That Moving?!> completed.",
+        "pt-BR": "[Como isso se move?] - missão concluída.",
+        "es-ES": "<¡¿Por qué se mueve algo así?!> completado."
+    },
+    "HWuvDQ": {
+        "en-US": "<Jumping Mineral> completed.",
+        "pt-BR": "[Minérios Saltitantes] - missão concluída.",
+        "es-ES": "<Mineral saltarín> completado."
+    },
+    "HmuvDQ": {
+        "en-US": "<Why Is There Such a Large Pool!> completed.",
+        "pt-BR": "[Uma Grande Piscina] - missão concluída.",
+        "es-ES": "<¡¿Por qué, si hay una piscina tan grande?!> completado."
+    },
+    "H2uvDQ": {
+        "en-US": "<Slap the Ankles> completed.",
+        "pt-BR": "[Bate no Tornozelo] - missão concluída.",
+        "es-ES": "<Chapoteos en los tobillos> completado."
+    },
+    "IGuvDQ": {
+        "en-US": "<The Name Called Valley of Death> completed.",
+        "pt-BR": "[Brisa Desagradável] - missão concluída.",
+        "es-ES": "<El nombre Valle de la Muerte> completado."
+    },
+    "IWuvDQ": {
+        "en-US": "<Border Checkpoint Work> completed.",
+        "pt-BR": "[Problema na Fronteira] - missão concluída.",
+        "es-ES": "<Trabajo en el puesto fronterizo> completado."
+    },
+    "ImuvDQ": {
+        "en-US": "<The Culprit Behind the Broken Water Pipes> completed.",
+        "pt-BR": "[Um Grande Lago] - missão concluída.",
+        "es-ES": "<El causante de la avería de las tuberías> completado."
+    },
+    "I2uvDQ": {
+        "en-US": "<A Peaceful Pilgrimage> completed.",
+        "pt-BR": "[Peregrinação Pacífica] - missão concluída.",
+        "es-ES": "<Por una peregrinación tranquila> completado."
+    },
+    "JGuvDQ": {
+        "en-US": "<Guardian of Beauty> completed.",
+        "pt-BR": "[Guardião da Beleza] - missão concluída.",
+        "es-ES": "<Guardián de la belleza> completado."
+    },
+    "JWuvDQ": {
+        "en-US": "<Stone That Swallows Stones> completed.",
+        "pt-BR": "[Pedra sobre Pedra] - missão concluída.",
+        "es-ES": "<La piedra que devora piedras> completado."
+    },
+    "JmuvDQ": {
+        "en-US": "<Prisoners Dreaming of Escape> completed.",
+        "pt-BR": "[Fugitivos da Prisão] - missão concluída.",
+        "es-ES": "<Prisioneros que sueñan con escapar> completado."
+    },
+    "J2uvDQ": {
+        "en-US": "<Elegant Taste> completed.",
+        "pt-BR": "[Gosto da Vingança] - missão concluída.",
+        "es-ES": "<Gusto refinado> completado."
+    },
+    "KGuvDQ": {
+        "en-US": "<Vicious Torturer> completed.",
+        "pt-BR": "[Torturador Sádico] - missão concluída.",
+        "es-ES": "<El cruel torturador> completado."
+    },
+    "KWuvDQ": {
+        "en-US": "<Touring Turtle Island> completed.",
+        "pt-BR": "[Passeio pela Ilha] - missão concluída.",
+        "es-ES": "<Recorrido por la Isla Tortuga> completado."
+    },
+    "KmuvDQ": {
+        "en-US": "<Defeat the Turtle Swarm> completed.",
+        "pt-BR": "[Nativos da Ilha] - missão concluída.",
+        "es-ES": "<Exterminio de la horda de tortugas> completado."
+    },
+    "K2uvDQ": {
+        "en-US": "<Hunt Assaulter> completed.",
+        "pt-BR": "[Tartaruga Ninja] - missão concluída.",
+        "es-ES": "<Caza de Atacante> completado."
+    },
+    "LGuvDQ": {
+        "en-US": "<Messenger of the Temple> completed.",
+        "pt-BR": "[Arauto do Templo] - missão concluída.",
+        "es-ES": "<El león del templo> completado."
+    },
+    "LWuvDQ": {
+        "en-US": "<Bird with a Rainbow> completed.",
+        "pt-BR": "[Pássaro Colorido] - missão concluída.",
+        "es-ES": "<El ave que posee un arcoíris> completado."
+    },
+    "LmuvDQ": {
+        "en-US": "<Headless Horse> completed.",
+        "pt-BR": "[Lenda do Folclore] - missão concluída.",
+        "es-ES": "<El caballo sin cabeza> completado."
+    },
+    "L2uvDQ": {
+        "en-US": "<Moscovia's Nightmare> completed.",
+        "pt-BR": "[Pesadelo Soviético] - missão concluída.",
+        "es-ES": "<La Pesadilla de Moscóvia> completado."
+    },
+    "MGuvDQ": {
+        "en-US": "<Broom, Iron Pot, and Grandmother> completed.",
+        "pt-BR": "[Vovó Vidente] - missão concluída.",
+        "es-ES": "<La escoba, el caldero de hierro y la abuela> completado."
+    },
+    "MWuvDQ": {
+        "en-US": "<Rice Cake Made of Sand?> completed.",
+        "pt-BR": "[Areias Atacam?] - missão concluída.",
+        "es-ES": "<¿Pastel hecho de arena?> completado."
+    },
+    "MmuvDQ": {
+        "en-US": "<Tomb Where Secrets Sleep> completed.",
+        "pt-BR": "[Tumba de Segredos] - missão concluída.",
+        "es-ES": "<La tumba donde duerme un secreto> completado."
+    },
+    "M2uvDQ": {
+        "en-US": "<Beautiful Doll> completed.",
+        "pt-BR": "[Bonecas Delicadas] - missão concluída.",
+        "es-ES": "<Una hermosa muñeca> completado."
+    },
+    "NGuvDQ": {
+        "en-US": "<Losers, Winners, and Those Left Behind> completed.",
+        "pt-BR": "[Vigia Morto-Vivo] - missão concluída.",
+        "es-ES": "<El perdedor, el ganador y quien quedó atrás> completado."
+    },
+    "NWuvDQ": {
+        "en-US": "<I Hear Words at Night, I Hear Words by Day.> completed.",
+        "pt-BR": "[Alguém à Espreita] - missão concluída.",
+        "es-ES": "<Oigo lo que se dice de noche y también lo que se dice de día.> completado."
+    },
+    "NmuvDQ": {
+        "en-US": "<Heavenly Woman> completed.",
+        "pt-BR": "[Donzela Celestial] - missão concluída.",
+        "es-ES": "<La mujer celestial> completado."
+    },
+    "N2uvDQ": {
+        "en-US": "<Candidate for Sun Wukong> completed.",
+        "pt-BR": "[Pêssegos e Yoyos] - missão concluída.",
+        "es-ES": "<Candidato a Sun Wukong> completado."
+    },
+    "OGuvDQ": {
+        "en-US": "<Old Man Above the Clouds> completed.",
+        "pt-BR": "[Homem nas Nuvens] - missão concluída.",
+        "es-ES": "<El anciano sobre las nubes> completado."
+    },
+    "OWuvDQ": {
+        "en-US": "<Settled {0} completed requests in total.>",
+        "pt-BR": "Você concluiu {0} missões.",
+        "es-ES": "Se procesaron un total de {0} encargos completados."
+    },
+    "OmuvDQ": {
+        "en-US": "<All Available Requests>",
+        "pt-BR": "Todas as Missões Disponíveis",
+        "es-ES": "Todos los encargos disponibles"
+    },
+    "O2uvDQ": {
+        "en-US": "<Level 70-79 Requests>",
+        "pt-BR": "Missões de nível 70 a 79",
+        "es-ES": "Encargos de 70-79 nivel"
+    },
+    "PGuvDQ": {
+        "en-US": "<Level 80-89 Requests>",
+        "pt-BR": "Missões de nível 80 a 89",
+        "es-ES": "Encargos de 80-89 nivel"
+    },
+    "PWuvDQ": {
+        "en-US": "<Level 90-99 Requests>",
+        "pt-BR": "Missões de nível 90 a 99",
+        "es-ES": "Encargos de 90-99 nivel"
+    },
+    "PmuvDQ": {
+        "en-US": "<Accepted all available requests.>",
+        "pt-BR": "Você aceitou todas as missões disponíveis.",
+        "es-ES": "Se aceptaron todos los encargos disponibles."
+    },
+    "P2uvDQ": {
+        "en-US": "<Accepted all available Level 70-79 requests.>",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 70 a 79.",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 70-79 nivel."
+    },
+    "QGuvDQ": {
+        "en-US": "<Accepted all available Level 80-89 requests.>",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 80 a 89.",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 80-89 nivel."
+    },
+    "QWuvDQ": {
+        "en-US": "<Accepted all available Level 90-99 requests.>",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 90 a 99.",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 90-99 nivel."
+    },
+    "QmuvDQ": {
+        "en-US": "[Accepting requests.]",
+        "pt-BR": "[Aceitando Missões]",
+        "es-ES": "[Recibiendo encargos.]"
+    },
+    "Q2uvDQ": {
+        "en-US": "Improve School Safety [70]",
+        "pt-BR": "[70] Proteger a Academia",
+        "es-ES": "Mejorar la seguridad escolar[70]"
+    },
+    "RGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "RWuvDQ": {
+        "en-US": "Groundbreaking Business Item [70]",
+        "pt-BR": "[70] Itens Valiosos",
+        "es-ES": "Objeto empresarial innovador[70]"
+    },
+    "RmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "R2uvDQ": {
+        "en-US": "A Solid Finish [70]",
+        "pt-BR": "[70] Animais no Campus",
+        "es-ES": "Asunto terminado[70]"
+    },
+    "SGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "SWuvDQ": {
+        "en-US": "Clean Clock Tower 1F [70]",
+        "pt-BR": "[70] Faxina na Torre",
+        "es-ES": "Limpiar la Torre del relojP1[70]"
+    },
+    "SmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "S2uvDQ": {
+        "en-US": "Monastery Purification [70]",
+        "pt-BR": "[70] Purificando o Lugar",
+        "es-ES": "Purificación del monasterio[70]"
+    },
+    "TGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "TWuvDQ": {
+        "en-US": "Border Checkpoint Work [70]",
+        "pt-BR": "[70] Problema na Fronteira",
+        "es-ES": "Trabajo en el punto de control fronterizo[70]"
+    },
+    "TmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "T2uvDQ": {
+        "en-US": "Temple Lion [70]",
+        "pt-BR": "[70] Arauto do Templo",
+        "es-ES": "León del Templo[70]"
+    },
+    "UGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "UWuvDQ": {
+        "en-US": "Rainbow Bird [70]",
+        "pt-BR": "[70] Pássaro Colorido",
+        "es-ES": "Ave arcoíris[70]"
+    },
+    "UmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "U2uvDQ": {
+        "en-US": "[75] Cute Sky Petite",
+        "pt-BR": "[75] Dragões Fofinhos",
+        "es-ES": "[75] Petite celestial adorable"
+    },
+    "VGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "VWuvDQ": {
+        "en-US": "[75] Cute Ground Petite",
+        "pt-BR": "[75] Dragões Fortinhos",
+        "es-ES": "[75] Petite terrestre adorable"
+    },
+    "VmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "V2uvDQ": {
+        "en-US": "[80] A Living, Moving Clock 1",
+        "pt-BR": "[80] Objeto Animado",
+        "es-ES": "[80] Relojes que cobran vida y se muevenI"
+    },
+    "WGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "WWuvDQ": {
+        "en-US": "[80] A Living, Moving Clock 2",
+        "pt-BR": "[80] Objeto Vivo",
+        "es-ES": "[80] Relojes que cobran vida y se muevenII"
+    },
+    "WmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "W2uvDQ": {
+        "en-US": "[80] Laughter from Underground",
+        "pt-BR": "[80] Risadas no Subsolo",
+        "es-ES": "[80] Risas subterráneas"
+    },
+    "XGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "XWuvDQ": {
+        "en-US": "[80] Marionette and Deviruchi Hunting",
+        "pt-BR": "[80] Seres Demoníacos",
+        "es-ES": "[80] Cacería de Marionetas y Deviruchi"
+    },
+    "XmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "X2uvDQ": {
+        "en-US": "[80] Riding a Nightmare",
+        "pt-BR": "[80] Cavalos Sinistros",
+        "es-ES": "[80] Pesadilla galopante"
+    },
+    "YGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "YWuvDQ": {
+        "en-US": "[80] Clean up the surroundings, please",
+        "pt-BR": "[80] Patrulhamento",
+        "es-ES": "[80] Limpia los alrededores, por favor"
+    },
+    "YmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "Y2uvDQ": {
+        "en-US": "[80] Floating Toxic Gas 1",
+        "pt-BR": "[80] Gases Venenosos",
+        "es-ES": "[80] Gas tóxico flotanteI"
+    },
+    "ZGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "ZWuvDQ": {
+        "en-US": "[80] Floating Toxic Gas 2",
+        "pt-BR": "[80] Gases Tóxicos",
+        "es-ES": "[80] Gas tóxico flotanteII"
+    },
+    "ZmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "Z2uvDQ": {
+        "en-US": "[80] Cute and Terrible",
+        "pt-BR": "[80] Boneco Assassino",
+        "es-ES": "[80] Adorable y terrible"
+    },
+    "aGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "aWuvDQ": {
+        "en-US": "[80] Why is there such a big pool!",
+        "pt-BR": "[80] Uma Grande Piscina",
+        "es-ES": "[80] ¿Cuándo podemos meternos a la piscina?"
+    },
+    "amuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "a2uvDQ": {
+        "en-US": "[80] Ankle Snapping",
+        "pt-BR": "[80] Bate no Tornozelo",
+        "es-ES": "[80] Golpe de tobillo"
+    },
+    "bGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "bWuvDQ": {
+        "en-US": "[80] Valley of the Four Gods",
+        "pt-BR": "[80] Brisa Desagradável",
+        "es-ES": "[80] Valle de los Cuatro Dioses"
+    },
+    "bmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "b2uvDQ": {
+        "en-US": "[80] Pipe Failure",
+        "pt-BR": "[80] Um Grande Lago",
+        "es-ES": "[80] Avería de tubería"
+    },
+    "cGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "cWuvDQ": {
+        "en-US": "[80] Headless Horse",
+        "pt-BR": "[80] Lenda do Folclore",
+        "es-ES": "[80] Caballo sin cabeza"
+    },
+    "cmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "c2uvDQ": {
+        "en-US": "[80] Moscovia Nightmare",
+        "pt-BR": "[80] Pesadelo Soviético",
+        "es-ES": "[80] Pesadilla en Moscovia"
+    },
+    "dGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "dWuvDQ": {
+        "en-US": "[80] Broom, Cast Iron Pot, and Grandmother",
+        "pt-BR": "[80] Vovó Vidente",
+        "es-ES": "[80] La abuela, la escoba y el caldero"
+    },
+    "dmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "d2uvDQ": {
+        "en-US": "[80] Rice cake made from sand?",
+        "pt-BR": "[80] Areias Atacam?",
+        "es-ES": "[80] ¿Pastel de arroz hecho de arena?"
+    },
+    "eGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "eWuvDQ": {
+        "en-US": "[80] A tomb where secrets sleep",
+        "pt-BR": "[80] Tumba de Segredos",
+        "es-ES": "[80] La tumba donde yacen los secretos"
+    },
+    "emuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "e2uvDQ": {
+        "en-US": "[80] Beautiful Doll",
+        "pt-BR": "[80] Bonecas Delicadas",
+        "es-ES": "[80] Muñeca hermosa"
+    },
+    "fGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "fWuvDQ": {
+        "en-US": "[80] Losers, winners, and those left behind",
+        "pt-BR": "[80] Vigia Morto-Vivo",
+        "es-ES": "[80] Perdedores, ganadores y los que se quedan atrás"
+    },
+    "fmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "f2uvDQ": {
+        "en-US": "[85] Shadow Miner",
+        "pt-BR": "[85] Trabalhadores da Mina",
+        "es-ES": "[85] Minero sombrío"
+    },
+    "gGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "gWuvDQ": {
+        "en-US": "[85] Why is it moving like that!",
+        "pt-BR": "[85] Como isso se move?",
+        "es-ES": "[85] ¿Por qué se mueve así?"
+    },
+    "gmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "g2uvDQ": {
+        "en-US": "[85] Jumping Minerals",
+        "pt-BR": "[85] Minérios Saltitantes",
+        "es-ES": "[85] Minerales saltarines"
+    },
+    "hGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "hWuvDQ": {
+        "en-US": "[85] Prison Break",
+        "pt-BR": "[85] Fugitivos da Prisão",
+        "es-ES": "[85] Fuga de la prisión"
+    },
+    "hmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "h2uvDQ": {
+        "en-US": "[85] Refined Taste",
+        "pt-BR": "[85] Gosto da Vingança",
+        "es-ES": "[85] Sabor refinado"
+    },
+    "iGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "iWuvDQ": {
+        "en-US": "[90] Catacomb Stabilization",
+        "pt-BR": "[90] Cemitério de Sacerdotes",
+        "es-ES": "[90] Estabilización de la catacumba"
+    },
+    "imuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "i2uvDQ": {
+        "en-US": "[90] A Peaceful Pilgrimage",
+        "pt-BR": "[90] Peregrinação Pacífica",
+        "es-ES": "[90] Una peregrinación pacífica"
+    },
+    "jGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "jWuvDQ": {
+        "en-US": "[90] Guardian of Beauty",
+        "pt-BR": "[90] Guardião da Beleza",
+        "es-ES": "[90] Guardián de la belleza"
+    },
+    "jmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "j2uvDQ": {
+        "en-US": "[90] Stone Swallowing Stone",
+        "pt-BR": "[90] Pedra sobre Pedra",
+        "es-ES": "[90] Piedra tragapiedras"
+    },
+    "kGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "kWuvDQ": {
+        "en-US": "[90] A Vicious Torturer",
+        "pt-BR": "[90] Torturador Sádico",
+        "es-ES": "[90] Un torturador vicioso"
+    },
+    "kmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "k2uvDQ": {
+        "en-US": "[90] Explore Turtle Island",
+        "pt-BR": "[90] Passeio pela Ilha",
+        "es-ES": "[90] Explora la Isla Tortuga"
+    },
+    "lGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "lWuvDQ": {
+        "en-US": "[90] Defeat the Turtle Swarm",
+        "pt-BR": "[90] Nativos da Ilha",
+        "es-ES": "[90] Derrota a la multitud de tortugas"
+    },
+    "lmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "l2uvDQ": {
+        "en-US": "[90] Hunting Ground",
+        "pt-BR": "[90] Tartaruga Ninja",
+        "es-ES": "[90] Coto de caza"
+    },
+    "mGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "mWuvDQ": {
+        "en-US": "[90] Shinobi Hunting",
+        "pt-BR": "[90] Alguém à Espreita",
+        "es-ES": "[90] Cacería de Shinobi"
+    },
+    "mmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "m2uvDQ": {
+        "en-US": "[90] Celestial Lady",
+        "pt-BR": "[90] Donzela Celestial",
+        "es-ES": "[90] Dama celestial"
+    },
+    "nGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "nWuvDQ": {
+        "en-US": "[90] Monkey King Candidate",
+        "pt-BR": "[90] Pêssegos e Yoyos",
+        "es-ES": "[90] Candidato a Rey Mono"
+    },
+    "nmuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "n2uvDQ": {
+        "en-US": "[90] Old Man on the Clouds",
+        "pt-BR": "[90] Homem nas Nuvens",
+        "es-ES": "[90] Anciano en las nubes"
+    },
+    "oGuvDQ": {
+        "en-US": "Accept Request {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Aceptar la solicitud {0}"
+    },
+    "oWuvDQ": {
+        "en-US": "{0}",
+        "pt-BR": "{0}",
+        "es-ES": "{0}"
+    },
+    "omuvDQ": {
+        "en-US": "^8C8C8CAcademy Safety Enhancement(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Proteger a Academia^000000",
+        "es-ES": "^8C8C8CRefuerzo de la seguridad de la academia(en curso)^000000"
+    },
+    "o2uvDQ": {
+        "en-US": "^8C8C8CAcademy Safety Enhancement(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Proteger a Academia^000000",
+        "es-ES": "^8C8C8CRefuerzo de la seguridad de la academia(en espera)^000000"
+    },
+    "pGuvDQ": {
+        "en-US": "^8C8C8CGroundbreaking Business Item(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Itens Valiosos^000000",
+        "es-ES": "^8C8C8CIdea de negocio innovadora(en curso)^000000"
+    },
+    "pWuvDQ": {
+        "en-US": "^8C8C8CGroundbreaking Business Item(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Itens Valiosos^000000",
+        "es-ES": "^8C8C8CIdea de negocio innovadora(en espera)^000000"
+    },
+    "pmuvDQ": {
+        "en-US": "^8C8C8CSure Finish(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Animais no Campus^000000",
+        "es-ES": "^8C8C8CUn cierre definitivo(en curso)^000000"
+    },
+    "p2uvDQ": {
+        "en-US": "^8C8C8CSure Finish(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Animais no Campus^000000",
+        "es-ES": "^8C8C8CUn cierre definitivo(en espera)^000000"
+    },
+    "qGuvDQ": {
+        "en-US": "^8C8C8CClock Tower 1F Cleaning(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Faxina na Torre^000000",
+        "es-ES": "^8C8C8CLimpieza del 1 piso de la Torre del Reloj(en curso)^000000"
+    },
+    "qWuvDQ": {
+        "en-US": "^8C8C8CClock Tower 1F Cleaning(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Faxina na Torre^000000",
+        "es-ES": "^8C8C8CLimpieza del 1 piso de la Torre del Reloj(en espera)^000000"
+    },
+    "qmuvDQ": {
+        "en-US": "^8C8C8CLiving Clock 1(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Objeto Animado^000000",
+        "es-ES": "^8C8C8CReloj viviente 1(en curso)^000000"
+    },
+    "q2uvDQ": {
+        "en-US": "^8C8C8CLiving Clock 1(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Objeto Animado^000000",
+        "es-ES": "^8C8C8CReloj viviente 1(en espera)^000000"
+    },
+    "rGuvDQ": {
+        "en-US": "^8C8C8CLiving Clock 2(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Objeto Vivo^000000",
+        "es-ES": "^8C8C8CReloj viviente 2(en curso)^000000"
+    },
+    "rWuvDQ": {
+        "en-US": "^8C8C8CLiving Clock 2(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Objeto Vivo^000000",
+        "es-ES": "^8C8C8CReloj viviente 2(en espera)^000000"
+    },
+    "rmuvDQ": {
+        "en-US": "^8C8C8CLaughter Echoing from Underground(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Risadas no Subsolo^000000",
+        "es-ES": "^8C8C8CRisas provenientes del subsuelo(en curso)^000000"
+    },
+    "r2uvDQ": {
+        "en-US": "^8C8C8CLaughter Echoing from Underground(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Risadas no Subsolo^000000",
+        "es-ES": "^8C8C8CRisas provenientes del subsuelo(en espera)^000000"
+    },
+    "sGuvDQ": {
+        "en-US": "^8C8C8CMonastery Purification(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Purificando o Lugar^000000",
+        "es-ES": "^8C8C8CPurificación del monasterio(en curso)^000000"
+    },
+    "sWuvDQ": {
+        "en-US": "^8C8C8CMonastery Purification(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Purificando o Lugar^000000",
+        "es-ES": "^8C8C8CPurificación del monasterio(en espera)^000000"
+    },
+    "smuvDQ": {
+        "en-US": "^8C8C8CCatacomb Stabilization(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cemitério de Sacerdotes^000000",
+        "es-ES": "^8C8C8CEstabilización de las catacumbas(en curso)^000000"
+    },
+    "s2uvDQ": {
+        "en-US": "^8C8C8CCatacomb Stabilization(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cemitério de Sacerdotes^000000",
+        "es-ES": "^8C8C8CEstabilización de las catacumbas(en espera)^000000"
+    },
+    "tGuvDQ": {
+        "en-US": "^8C8C8CAerial Petit Is Cute(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Dragões Fofinhos^000000",
+        "es-ES": "^8C8C8CPetit Aéreo es adorable(en curso)^000000"
+    },
+    "tWuvDQ": {
+        "en-US": "^8C8C8CAerial Petit Is Cute(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Dragões Fofinhos^000000",
+        "es-ES": "^8C8C8CPetit Aéreo es adorable(en espera)^000000"
+    },
+    "tmuvDQ": {
+        "en-US": "^8C8C8CGround Petit Is Cute(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Dragões Fortinhos^000000",
+        "es-ES": "^8C8C8CPetit Terrestre es adorable(en curso)^000000"
+    },
+    "t2uvDQ": {
+        "en-US": "^8C8C8CGround Petit Is Cute(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Dragões Fortinhos^000000",
+        "es-ES": "^8C8C8CPetit Terrestre es adorable(en espera)^000000"
+    },
+    "uGuvDQ": {
+        "en-US": "^8C8C8CHunt Marionette and Deviruchi(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Seres Demoníacos^000000",
+        "es-ES": "^8C8C8CCazar a Marioneta y Deviruchi(en curso)^000000"
+    },
+    "uWuvDQ": {
+        "en-US": "^8C8C8CHunt Marionette and Deviruchi(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Seres Demoníacos^000000",
+        "es-ES": "^8C8C8CCazar a Marioneta y Deviruchi(en espera)^000000"
+    },
+    "umuvDQ": {
+        "en-US": "^8C8C8CHorse Running Through Nightmare(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cavalos Sinistros^000000",
+        "es-ES": "^8C8C8CCaballo que corre por Pesadilla(en curso)^000000"
+    },
+    "u2uvDQ": {
+        "en-US": "^8C8C8CHorse Running Through Nightmare(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cavalos Sinistros^000000",
+        "es-ES": "^8C8C8CCaballo que corre por Pesadilla(en espera)^000000"
+    },
+    "vGuvDQ": {
+        "en-US": "^8C8C8CPlease Clean Up the Surrounding Area.(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Patrulhamento^000000",
+        "es-ES": "^8C8C8CPor favor, despeja los alrededores.(en curso)^000000"
+    },
+    "vWuvDQ": {
+        "en-US": "^8C8C8CPlease Clean Up the Surrounding Area.(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Patrulhamento^000000",
+        "es-ES": "^8C8C8CPor favor, despeja los alrededores.(en espera)^000000"
+    },
+    "vmuvDQ": {
+        "en-US": "^8C8C8CFloating Toxic Gas 1(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Gases Venenosos^000000",
+        "es-ES": "^8C8C8CGas tóxico flotante 1(en curso)^000000"
+    },
+    "v2uvDQ": {
+        "en-US": "^8C8C8CFloating Toxic Gas 1(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Gases Venenosos^000000",
+        "es-ES": "^8C8C8CGas tóxico flotante 1(en espera)^000000"
+    },
+    "wGuvDQ": {
+        "en-US": "^8C8C8CFloating Toxic Gas 2(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Gases Tóxicos^000000",
+        "es-ES": "^8C8C8CGas tóxico flotante 2(en curso)^000000"
+    },
+    "wWuvDQ": {
+        "en-US": "^8C8C8CFloating Toxic Gas 2(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Gases Tóxicos^000000",
+        "es-ES": "^8C8C8CGas tóxico flotante 2(en espera)^000000"
+    },
+    "wmuvDQ": {
+        "en-US": "^8C8C8CCute and Terrible...(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Boneco Assassino^000000",
+        "es-ES": "^8C8C8CAdorable y aterrador...(en curso)^000000"
+    },
+    "w2uvDQ": {
+        "en-US": "^8C8C8CCute and Terrible...(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Boneco Assassino^000000",
+        "es-ES": "^8C8C8CAdorable y aterrador...(en espera)^000000"
+    },
+    "xGuvDQ": {
+        "en-US": "^8C8C8CShadow Miner(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Trabalhadores da Mina^000000",
+        "es-ES": "^8C8C8CMinero de Sombra(en curso)^000000"
+    },
+    "xWuvDQ": {
+        "en-US": "^8C8C8CShadow Miner(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Trabalhadores da Mina^000000",
+        "es-ES": "^8C8C8CMinero de Sombra(en espera)^000000"
+    },
+    "xmuvDQ": {
+        "en-US": "^8C8C8CWhy Is Something Like That Moving!(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Como isso se move?^000000",
+        "es-ES": "^8C8C8C¡¿Por qué se mueve eso?!(en curso)^000000"
+    },
+    "x2uvDQ": {
+        "en-US": "^8C8C8CWhy Is Something Like That Moving!(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Como isso se move?^000000",
+        "es-ES": "^8C8C8C¡¿Por qué se mueve eso?!(en espera)^000000"
+    },
+    "yGuvDQ": {
+        "en-US": "^8C8C8CJumping Mineral(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Minérios Saltitantes^000000",
+        "es-ES": "^8C8C8CMineral saltarín(en curso)^000000"
+    },
+    "yWuvDQ": {
+        "en-US": "^8C8C8CJumping Mineral(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Minérios Saltitantes^000000",
+        "es-ES": "^8C8C8CMineral saltarín(en espera)^000000"
+    },
+    "ymuvDQ": {
+        "en-US": "^8C8C8CWhy Is There Such a Large Pool!(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Uma Grande Piscina^000000",
+        "es-ES": "^8C8C8C¡¿Por qué, si hay una piscina tan grande?!(en curso)^000000"
+    },
+    "y2uvDQ": {
+        "en-US": "^8C8C8CWhy Is There Such a Large Pool!(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Uma Grande Piscina^000000",
+        "es-ES": "^8C8C8C¡¿Por qué, si hay una piscina tan grande?!(en espera)^000000"
+    },
+    "zGuvDQ": {
+        "en-US": "^8C8C8CSlap the Ankles(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Bate no Tornozelo^000000",
+        "es-ES": "^8C8C8CGolpes en los tobillos(en curso)^000000"
+    },
+    "zWuvDQ": {
+        "en-US": "^8C8C8CSlap the Ankles(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Bate no Tornozelo^000000",
+        "es-ES": "^8C8C8CGolpes en los tobillos(en espera)^000000"
+    },
+    "zmuvDQ": {
+        "en-US": "^8C8C8CThe Name Called Valley of Death(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Brisa Desagradável^000000",
+        "es-ES": "^8C8C8CEl nombre Valle de la Muerte(en curso)^000000"
+    },
+    "z2uvDQ": {
+        "en-US": "^8C8C8CThe Name Called Valley of Death(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Brisa Desagradável^000000",
+        "es-ES": "^8C8C8CEl nombre Valle de la Muerte(en espera)^000000"
+    },
+    "0GuvDQ": {
+        "en-US": "^8C8C8CBorder Checkpoint Work(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Problema na Fronteira^000000",
+        "es-ES": "^8C8C8CTrabajo en el puesto de control fronterizo(en curso)^000000"
+    },
+    "0WuvDQ": {
+        "en-US": "^8C8C8CBorder Checkpoint Work(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Problema na Fronteira^000000",
+        "es-ES": "^8C8C8CTrabajo en el puesto de control fronterizo(en espera)^000000"
+    },
+    "0muvDQ": {
+        "en-US": "^8C8C8CThe Culprit Behind the Broken Water Pipes(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Um Grande Lago^000000",
+        "es-ES": "^8C8C8CEl culpable de la avería de las tuberías(en curso)^000000"
+    },
+    "02uvDQ": {
+        "en-US": "^8C8C8CThe Culprit Behind the Broken Water Pipes(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Um Grande Lago^000000",
+        "es-ES": "^8C8C8CEl culpable de la avería de las tuberías(en espera)^000000"
+    },
+    "1GuvDQ": {
+        "en-US": "^8C8C8CA Peaceful Pilgrimage(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Peregrinação Pacífica^000000",
+        "es-ES": "^8C8C8CQue tengas una peregrinación tranquila(en curso)^000000"
+    },
+    "1WuvDQ": {
+        "en-US": "^8C8C8CA Peaceful Pilgrimage(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Peregrinação Pacífica^000000",
+        "es-ES": "^8C8C8CQue tengas una peregrinación tranquila(en espera)^000000"
+    },
+    "1muvDQ": {
+        "en-US": "^8C8C8CGuardian of Beauty(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Guardião da Beleza^000000",
+        "es-ES": "^8C8C8CGuardián de la belleza(en curso)^000000"
+    },
+    "12uvDQ": {
+        "en-US": "^8C8C8CGuardian of Beauty(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Guardião da Beleza^000000",
+        "es-ES": "^8C8C8CGuardián de la belleza(en espera)^000000"
+    },
+    "2GuvDQ": {
+        "en-US": "^8C8C8CStone That Swallows Stones(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pedra sobre Pedra^000000",
+        "es-ES": "^8C8C8CLa piedra que devora piedras(en curso)^000000"
+    },
+    "2WuvDQ": {
+        "en-US": "^8C8C8CStone That Swallows Stones(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pedra sobre Pedra^000000",
+        "es-ES": "^8C8C8CLa piedra que devora piedras(en espera)^000000"
+    },
+    "2muvDQ": {
+        "en-US": "^8C8C8CPrisoners Dreaming of Escape(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Fugitivos da Prisão^000000",
+        "es-ES": "^8C8C8CPrisioneros que sueñan con escapar(en curso)^000000"
+    },
+    "22uvDQ": {
+        "en-US": "^8C8C8CPrisoners Dreaming of Escape(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Fugitivos da Prisão^000000",
+        "es-ES": "^8C8C8CPrisioneros que sueñan con escapar(en espera)^000000"
+    },
+    "3GuvDQ": {
+        "en-US": "^8C8C8CElegant Taste(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Gosto da Vingança^000000",
+        "es-ES": "^8C8C8CGusto refinado(en curso)^000000"
+    },
+    "3WuvDQ": {
+        "en-US": "^8C8C8CElegant Taste(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Gosto da Vingança^000000",
+        "es-ES": "^8C8C8CGusto refinado(en espera)^000000"
+    },
+    "3muvDQ": {
+        "en-US": "^8C8C8CVicious Torturer(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Torturador Sádico^000000",
+        "es-ES": "^8C8C8CTorturador despiadado(en curso)^000000"
+    },
+    "32uvDQ": {
+        "en-US": "^8C8C8CVicious Torturer(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Torturador Sádico^000000",
+        "es-ES": "^8C8C8CTorturador despiadado(en espera)^000000"
+    },
+    "4GuvDQ": {
+        "en-US": "^8C8C8CExploring Turtle Island (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Passeio pela Ilha^000000",
+        "es-ES": "^8C8C8CExplorar la Isla Tortuga(en curso)^000000"
+    },
+    "4WuvDQ": {
+        "en-US": "^8C8C8CExploring Turtle Island (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Passeio pela Ilha^000000",
+        "es-ES": "^8C8C8CExplorar la Isla Tortuga(en espera)^000000"
+    },
+    "4muvDQ": {
+        "en-US": "^8C8C8CDefeat the Turtle Horde (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Nativos da Ilha^000000",
+        "es-ES": "^8C8C8CEliminar la horda de tortugas(en curso)^000000"
+    },
+    "42uvDQ": {
+        "en-US": "^8C8C8CDefeat the Turtle Horde (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Nativos da Ilha^000000",
+        "es-ES": "^8C8C8CEliminar la horda de tortugas(en espera)^000000"
+    },
+    "5GuvDQ": {
+        "en-US": "^8C8C8CHunt Assaulter (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Tartaruga Ninja^000000",
+        "es-ES": "^8C8C8CCazar a Atacante(en curso)^000000"
+    },
+    "5WuvDQ": {
+        "en-US": "^8C8C8CHunt Assaulter (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Tartaruga Ninja^000000",
+        "es-ES": "^8C8C8CCazar a Atacante(en espera)^000000"
+    },
+    "5muvDQ": {
+        "en-US": "^8C8C8CThe Lion of the Temple (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Arauto do Templo^000000",
+        "es-ES": "^8C8C8CEl león del templo(en curso)^000000"
+    },
+    "52uvDQ": {
+        "en-US": "^8C8C8CThe Lion of the Temple (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Arauto do Templo^000000",
+        "es-ES": "^8C8C8CEl león del templo(en espera)^000000"
+    },
+    "6GuvDQ": {
+        "en-US": "^8C8C8CThe Bird with a Rainbow (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pássaro Colorido^000000",
+        "es-ES": "^8C8C8CEl ave con un arcoíris(en curso)^000000"
+    },
+    "6WuvDQ": {
+        "en-US": "^8C8C8CThe Bird with a Rainbow (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pássaro Colorido^000000",
+        "es-ES": "^8C8C8CEl ave con un arcoíris(en espera)^000000"
+    },
+    "6muvDQ": {
+        "en-US": "^8C8C8CThe Headless Horse (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Lenda do Folclore^000000",
+        "es-ES": "^8C8C8CCaballo sin cabeza(en curso)^000000"
+    },
+    "62uvDQ": {
+        "en-US": "^8C8C8CThe Headless Horse (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Lenda do Folclore^000000",
+        "es-ES": "^8C8C8CCaballo sin cabeza(en espera)^000000"
+    },
+    "7GuvDQ": {
+        "en-US": "^8C8C8CMoscovia's Nightmare (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pesadelo Soviético^000000",
+        "es-ES": "^8C8C8CLa Pesadilla de Moscóvia(en curso)^000000"
+    },
+    "7WuvDQ": {
+        "en-US": "^8C8C8CMoscovia's Nightmare (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pesadelo Soviético^000000",
+        "es-ES": "^8C8C8CLa Pesadilla de Moscóvia(en espera)^000000"
+    },
+    "7muvDQ": {
+        "en-US": "^8C8C8CThe Broom, Iron Pot, and Grandma (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Vovó Vidente^000000",
+        "es-ES": "^8C8C8CLa escoba, el caldero de hierro y la abuela(en curso)^000000"
+    },
+    "72uvDQ": {
+        "en-US": "^8C8C8CThe Broom, Iron Pot, and Grandma (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Vovó Vidente^000000",
+        "es-ES": "^8C8C8CLa escoba, el caldero de hierro y la abuela(en espera)^000000"
+    },
+    "8GuvDQ": {
+        "en-US": "^8C8C8CA Rice Cake Made of Sand? (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Areias Atacam?^000000",
+        "es-ES": "^8C8C8C¿Pastel de arroz hecho de arena?(en curso)^000000"
+    },
+    "8WuvDQ": {
+        "en-US": "^8C8C8CA Rice Cake Made of Sand? (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Areias Atacam?^000000",
+        "es-ES": "^8C8C8C¿Pastel de arroz hecho de arena?(en espera)^000000"
+    },
+    "8muvDQ": {
+        "en-US": "^8C8C8CThe Tomb Where Secrets Sleep (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Tumba de Segredos^000000",
+        "es-ES": "^8C8C8CLa tumba donde duerme un secreto(en curso)^000000"
+    },
+    "82uvDQ": {
+        "en-US": "^8C8C8CThe Tomb Where Secrets Sleep (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Tumba de Segredos^000000",
+        "es-ES": "^8C8C8CLa tumba donde duerme un secreto(en espera)^000000"
+    },
+    "9GuvDQ": {
+        "en-US": "^8C8C8CBeautiful Doll (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Bonecas Delicadas^000000",
+        "es-ES": "^8C8C8CHermosa muñeca(en curso)^000000"
+    },
+    "9WuvDQ": {
+        "en-US": "^8C8C8CBeautiful Doll (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Bonecas Delicadas^000000",
+        "es-ES": "^8C8C8CHermosa muñeca(en espera)^000000"
+    },
+    "9muvDQ": {
+        "en-US": "^8C8C8CLosers, Winners, and Those Left Behind (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Vigia Morto-Vivo^000000",
+        "es-ES": "^8C8C8CEl perdedor, el ganador y quien quedó(en curso)^000000"
+    },
+    "92uvDQ": {
+        "en-US": "^8C8C8CLosers, Winners, and Those Left Behind (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Vigia Morto-Vivo^000000",
+        "es-ES": "^8C8C8CEl perdedor, el ganador y quien quedó(en espera)^000000"
+    },
+    "+GuvDQ": {
+        "en-US": "^8C8C8CI Hear What Is Said at Night and What Is Said During the Day. (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Alguém à Espreita^000000",
+        "es-ES": "^8C8C8COigo lo que se dice de noche y también lo que se dice de día.(en curso)^000000"
+    },
+    "+WuvDQ": {
+        "en-US": "^8C8C8CI Hear What Is Said at Night and What Is Said During the Day. (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Alguém à Espreita^000000",
+        "es-ES": "^8C8C8COigo lo que se dice de noche y también lo que se dice de día.(en espera)^000000"
+    },
+    "+muvDQ": {
+        "en-US": "^8C8C8CCelestial Woman (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Donzela Celestial^000000",
+        "es-ES": "^8C8C8CMujer celestial(en curso)^000000"
+    },
+    "+2uvDQ": {
+        "en-US": "^8C8C8CCelestial Woman (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Donzela Celestial^000000",
+        "es-ES": "^8C8C8CMujer celestial(en espera)^000000"
+    },
+    "/GuvDQ": {
+        "en-US": "^8C8C8CCandidate Sun Wukong (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Pêssegos e Yoyos^000000",
+        "es-ES": "^8C8C8CAspirante a Sun Wukong(en curso)^000000"
+    },
+    "/WuvDQ": {
+        "en-US": "^8C8C8CCandidate Sun Wukong (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Pêssegos e Yoyos^000000",
+        "es-ES": "^8C8C8CAspirante a Sun Wukong(en espera)^000000"
+    },
+    "/muvDQ": {
+        "en-US": "^8C8C8COld Man Above the Clouds (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Homem nas Nuvens^000000",
+        "es-ES": "^8C8C8CAnciano sobre las nubes(en curso)^000000"
+    },
+    "/2uvDQ": {
+        "en-US": "^8C8C8COld Man Above the Clouds (Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Homem nas Nuvens^000000",
+        "es-ES": "^8C8C8CAnciano sobre las nubes(en espera)^000000"
+    },
+    "AGyvDQ": {
+        "en-US": "Kiel Hyre [70]",
+        "pt-BR": "[70] Academia Kiel Hyre",
+        "es-ES": "Kiel Hyre [70]."
+    },
+    "AWyvDQ": {
+        "en-US": "Clock Tower [70-80]",
+        "pt-BR": "[70-80] Torre do Relógio",
+        "es-ES": "Torre del Reloj[70-80]"
+    },
+    "AmyvDQ": {
+        "en-US": "Glastheim [70-90]",
+        "pt-BR": "[70-90] Glastheim",
+        "es-ES": "Glastheim[70-90]"
+    },
+    "A2yvDQ": {
+        "en-US": "Geffen [75-80]",
+        "pt-BR": "[75-80] Geffen",
+        "es-ES": "Geffen[75-80]"
+    },
+    "BGyvDQ": {
+        "en-US": "Einbroch[80-85]",
+        "pt-BR": "[80-85] Einbroch",
+        "es-ES": "Einbroch[80-85]"
+    },
+    "BWyvDQ": {
+        "en-US": "[80] Lighthalzen",
+        "pt-BR": "[80] Lighthalzen",
+        "es-ES": "[80] Lighthalzen"
+    },
+    "BmyvDQ": {
+        "en-US": "[90] Turtle Island",
+        "pt-BR": "[90] Ilha da Tartaruga",
+        "es-ES": "[90] Isla Tortuga"
+    },
+    "B2yvDQ": {
+        "en-US": "Localizing [70-90]",
+        "pt-BR": "[70-90] Ilha Nação",
+        "es-ES": "Localización[70-90]"
+    },
+    "CGyvDQ": {
+        "en-US": "Others [70-90]",
+        "pt-BR": "[70-90] Outros",
+        "es-ES": "Otros[70-90]"
+    },
+    "CWyvDQ": {
+        "en-US": "Quit.",
+        "pt-BR": "Cancelar",
+        "es-ES": "Dejarlo."
+    },
+    "CmyvDQ": {
+        "en-US": "You do not have a high enough level to proceed with this quest.",
+        "pt-BR": "Você não tem nível suficiente para essa missão.",
+        "es-ES": "No puedes realizar esta solicitud porque tu nivel es insuficiente."
+    },
+    "C2yvDQ": {
+        "en-US": "This quest is currently in progress.",
+        "pt-BR": "Esta missão já está em andamento.",
+        "es-ES": "Esta solicitud está en curso."
+    },
+    "DGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Field near Kiel Hyre's Villa\nTargets: Defeat Harpy 15, Sleeper 15\nRewards: Exp 36840, Jexp 40200",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 15 Harpias e 15 Rochosos\nRecompensa: EXP base 36.840, EXP classe 40.200",
+        "es-ES": "[Solicitud completada]\nUbicación: Campo cercano a la mansión de Kiel Hyre\nObjetivo: derrotar a Arpía 15, Durmiente 15\nRecompensa: Exp 36840, Jexp 40200"
+    },
+    "DWyvDQ": {
+        "en-US": "This quest has already been completed.",
+        "pt-BR": "Essa missão já foi completada.",
+        "es-ES": "Esta solicitud ya fue realizada."
+    },
+    "DmyvDQ": {
+        "en-US": "[Kiel Hyre Academy Security Guard's Quest]\nLocation: Field near Kiel Hyre's Villa\nTargets: Defeat Harpy 15, Sleeper 15\nRewards: Exp 36840, Jexp 40200",
+        "pt-BR": "[Solicitação]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 15 Harpias e 15 Rochosos\nRecompensa: EXP base 36.840, EXP classe 40.200",
+        "es-ES": "[Solicitud del guardia de la Academia Kiel Hyre]\nUbicación: Campo cercano a la mansión de Kiel Hyre\nObjetivo: derrotar a Arpía 15, Durmiente 15\nRecompensa: Exp 36840, Jexp 40200"
+    },
+    "D2yvDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar missão.",
+        "es-ES": "Aceptar."
+    },
+    "EGyvDQ": {
+        "en-US": "View Another.",
+        "pt-BR": "Ver outras missões.",
+        "es-ES": "Ver otra."
+    },
+    "EWyvDQ": {
+        "en-US": "Kiel Hyre Academy Security Guard's Quest\n^4D4DFF<Strengthen Academy Security>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Proteger a Academia]^000000 foi aceita.",
+        "es-ES": "Solicitud del guardia de la Academia Kiel Hyre\nHas aceptado la misión ^4D4DFF<Refuerzo de la seguridad de la academia>^000000."
+    },
+    "EmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Field near Kiel Hyre Academy\nTargets: Collect Antelope Skin 10, PecoPeco Feather 10\nRewards: Exp 14200, Jexp 14200",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Coletar 10 Peles de Bode e 10 Penas de Grand Peco\nRecompensa: EXP base 14.200, EXP classe 14.200",
+        "es-ES": "[Solicitud completada]\nUbicación: Campo cercano a la Academia Kiel Hyre\nObjetivo: recolectar Piel de antílope 10, Pluma de Pecopeco 10\nRecompensa: Exp 14200, Jexp 14200"
+    },
+    "E2yvDQ": {
+        "en-US": "[Kiel Hyre Academy Cat Hand Merchant's Quest]\nLocation: Field near Kiel Hyre Academy\nTargets: Collect Antelope Skin 10, PecoPeco Feather 10\nRewards: Exp 14200, Jexp 14200",
+        "pt-BR": "[Solicitação]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Coletar 10 Peles de Bode e 10 Penas de Grand Peco\nRecompensa: EXP base 14.200, EXP classe 14.200",
+        "es-ES": "[Solicitud del mercader Mano de Gato de la Academia Kiel Hyre]\nUbicación: Campo cercano a la Academia Kiel Hyre\nObjetivo: recolectar Piel de antílope 10, Pluma de Pecopeco 10\nRecompensa: Exp 14200, Jexp 14200"
+    },
+    "FGyvDQ": {
+        "en-US": "Kiel Hyre Academy Cat Hand Merchant's Quest\n^4D4DFF<Revolutionary Business Item>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Itens Valiosos]^000000 foi aceita.",
+        "es-ES": "Solicitud del mercader Mano de Gato de la Academia Kiel Hyre\nHas aceptado la misión ^4D4DFF<Idea de negocio innovadora>^000000."
+    },
+    "FWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Field near Kiel Hyre Academy\nTargets: Defeat Goat 20, Grand Peco 20\nRewards: Exp 42960, Jexp 43880",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 20 Bodes e 20 Grand Pecos\nRecompensa: EXP base 42.960, EXP classe 43.880",
+        "es-ES": "[Solicitud completada]\nUbicación: Campo cercano a la Academia Kiel Hyre\nObjetivo: derrotar a Cabra 20, Gran Peco 20\nRecompensa: Exp 42960, Jexp 43880"
+    },
+    "FmyvDQ": {
+        "en-US": "[Kiel Hyre Academy Student's Quest]\nLocation: Field near Kiel Hyre Academy\nTargets: Defeat Goat 20, Grand Peco 20\nRewards: Exp 42960, Jexp 43880",
+        "pt-BR": "[Solicitação]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 20 Bodes e 20 Grand Pecos\nRecompensa: EXP base 42.960, EXP classe 43.880",
+        "es-ES": "[Solicitud del estudiante de la Academia Kiel Hyre]\nUbicación: Campo cercano a la Academia Kiel Hyre\nObjetivo: derrotar a Cabra 20, Gran Peco 20\nRecompensa: Exp 42960, Jexp 43880"
+    },
+    "F2yvDQ": {
+        "en-US": "Kiel Hyre Academy Student's Quest\n^4D4DFF<Finish It For Sure>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Animais no Campus]^000000 foi aceita.",
+        "es-ES": "Solicitud del estudiante de la Academia Kiel Hyre\nHas aceptado la misión ^4D4DFF<Un cierre definitivo>^000000."
+    },
+    "GGyvDQ": {
+        "en-US": "Quit,",
+        "pt-BR": "Cancelar",
+        "es-ES": "Dejarlo,"
+    },
+    "GWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Aldebaran Clock Tower 1st Floor\nTargets: Defeat Rideword 20, Punk 15\nRewards: Exp 33820, Jexp 40650",
+        "pt-BR": "[Missão Completa]\nLocal: Torre do Relógio 1º piso\nObjetivo: Caçar 20 Ridewords e 15 Punks\nRecompensa: EXP base 33.820, EXP classe 40.650",
+        "es-ES": "[Solicitud completada]\nUbicación: 1.er piso de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Rideword 20, Punk 15\nRecompensa: Exp 33820, Jexp 40650"
+    },
+    "GmyvDQ": {
+        "en-US": "[Kiel Hyre Academy Security Guard's Quest]\nLocation: Aldebaran Clock Tower 1st Floor\nTargets: Defeat Rideword 20, Punk 15\nRewards: Exp 33820, Jexp 40650",
+        "pt-BR": "[Solicitação]\nLocal: Torre do Relógio 1º piso\nObjetivo: Caçar 20 Ridewords e 15 Punks\nRecompensa: EXP base 33.820, EXP classe 40.650",
+        "es-ES": "[Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran]\nUbicación: 1.er piso de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Rideword 20, Punk 15\nRecompensa: Exp 33820, Jexp 40650"
+    },
+    "G2yvDQ": {
+        "en-US": "Aldebaran Clock Tower Manager Serdin's Quest\n^4D4DFF<Cleaning the 1st Floor of the Clock Tower>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Faxina na Torre]^000000 foi aceita.",
+        "es-ES": "Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran\nHas aceptado la misión ^4D4DFF<Limpieza del 1.er piso de la Torre del Reloj>^000000."
+    },
+    "HGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Aldebaran Clock Tower 2nd Floor\nTarget: Defeat Clock 15\nRewards: Exp 20310, Jexp 17370",
+        "pt-BR": "[Missão Completa]\nLocal: Torre do Relógio 2º piso\nObjetivo: Caçar 15 Relógios\nRecompensa: EXP base 20.310, EXP classe 17.370",
+        "es-ES": "[Solicitud completada]\nUbicación: 2 piso de superficie de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Reloj 15\nRecompensa: Exp 20310, Jexp 17370"
+    },
+    "HWyvDQ": {
+        "en-US": "[Aldebaran Clock Tower Manager Serdin's Quest]\nLocation: Aldebaran Clock Tower 2nd Floor\nTarget: Defeat Clock 15\nRewards: Exp 20310, Jexp 17370",
+        "pt-BR": "[Solicitação]\nLocal: Torre do Relógio 2º piso\nObjetivo: Caçar 15 Relógios\nRecompensa: EXP base 20.310, EXP classe 17.370",
+        "es-ES": "[Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran]\nUbicación: 2 piso de superficie de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Reloj 15\nRecompensa: Exp 20310, Jexp 17370"
+    },
+    "HmyvDQ": {
+        "en-US": "Aldebaran Clock Tower Manager Serdin's Quest\n^4D4DFF<Living Clock 1>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Objeto Animado]^000000 foi aceita.",
+        "es-ES": "Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran\nHas aceptado la misión ^4D4DFF<Reloj viviente 1>^000000."
+    },
+    "H2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Aldebaran Clock Tower 3rd Floor\nTarget: Defeat Alarm 20\nRewards: Exp 28320, Jexp 27960",
+        "pt-BR": "[Missão Completa]\nLocal: Torre do Relógio 3º piso\nObjetivo: Caçar 20 Alarmes\nRecompensa: EXP base 28.320, EXP classe 27.960",
+        "es-ES": "[Solicitud completada]\nUbicación: 3 piso de superficie de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Alarma 20\nRecompensa: Exp 28320, Jexp 27960"
+    },
+    "IGyvDQ": {
+        "en-US": "[Aldebaran Clock Tower Manager Serdin's Quest]\nLocation: Aldebaran Clock Tower 3rd Floor\nTarget: Defeat Alarm 20\nRewards: Exp 28320, Jexp 27960",
+        "pt-BR": "[Solicitação]\nLocal: Torre do Relógio 3º piso\nObjetivo: Caçar 20 Alarmes\nRecompensa: EXP base 28.320, EXP classe 27.960",
+        "es-ES": "[Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran]\nUbicación: 3 piso de superficie de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Alarma 20\nRecompensa: Exp 28320, Jexp 27960"
+    },
+    "IWyvDQ": {
+        "en-US": "Aldebaran Clock Tower Manager Serdin's Quest\n^4D4DFF<Living Clock 2>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Objeto Vivo]^000000 foi aceita.",
+        "es-ES": "Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran\nHas aceptado la misión ^4D4DFF<Reloj viviente 2>^000000."
+    },
+    "ImyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Aldebaran Clock Tower Basement 4th Floor\nTarget: Defeat Bathory 20\nRewards: Exp 25720, Jexp 27280",
+        "pt-BR": "[Missão Completa]\nLocal: Subsolo da Torre do Relógio 4º piso\nObjetivo: Caçar 20 Bathorys\nRecompensa: EXP base 25.720, EXP classe 27.280",
+        "es-ES": "[Solicitud completada]\nUbicación: 4 piso subterráneo de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Bathory 20\nRecompensa: Exp 25720, Jexp 27280"
+    },
+    "I2yvDQ": {
+        "en-US": "[Aldebaran Clock Tower Manager Serdin's Quest]\nLocation: Aldebaran Clock Tower Basement 4th Floor\nTarget: Defeat Bathory 20\nRewards: Exp 25720, Jexp 27280",
+        "pt-BR": "[Solicitação]\nLocal: Subsolo da Torre do Relógio 4º piso\nObjetivo: Caçar 20 Bathorys\nRecompensa: EXP base 25.720, EXP classe 27.280",
+        "es-ES": "[Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran]\nUbicación: 4 piso subterráneo de la Torre del Reloj de Aldebaran\nObjetivo: derrotar a Bathory 20\nRecompensa: Exp 25720, Jexp 27280"
+    },
+    "JGyvDQ": {
+        "en-US": "Aldebaran Clock Tower Manager Serdin's Quest\n^4D4DFF<Laughter Heard From Below>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Risadas no Subsolo]^000000 foi aceita.",
+        "es-ES": "Solicitud de Serdin, administrador de la Torre del Reloj de Aldebaran\nHas aceptado la misión ^4D4DFF<Risas provenientes del subsuelo>^000000."
+    },
+    "JWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Glastheim Monastery 1st Floor\nTargets: Defeat Wraith 15, Evil Druid 15\nRewards: Exp 37640, Jexp 37050",
+        "pt-BR": "[Missão Completa]\nLocal: Abadia 1º piso\nObjetivo: Caçar 15 Druidas Malignos e 15 Aparições\nRecompensa: EXP base 37.640, EXP classe 37.050",
+        "es-ES": "[Solicitud completada]\nUbicación: 1 piso del Monasterio de Glastheim\nObjetivo: derrotar a Espectro 15, Druida del Mal 15\nRecompensa: Exp 37640, Jexp 37050"
+    },
+    "JmyvDQ": {
+        "en-US": "[Claude's Quest at the Entrance of Glastheim Monastery]\nLocation: Glastheim Monastery 1st Floor\nTargets: Defeat Wraith 15, Evil Druid 15\nRewards: Exp 37640, Jexp 37050",
+        "pt-BR": "[Solicitação]\nLocal: Abadia 1º piso\nObjetivo: Caçar 15 Druidas Malignos e 15 Aparições\nRecompensa: EXP base 37.640, EXP classe 37.050",
+        "es-ES": "[Solicitud de Claude, en la entrada del Monasterio de Glastheim]\nUbicación: 1 piso del Monasterio de Glastheim\nObjetivo: derrotar a Espectro 15, Druida del Mal 15\nRecompensa: Exp 37640, Jexp 37050"
+    },
+    "J2yvDQ": {
+        "en-US": "Claude's Quest at the Entrance of Glastheim Monastery\n^4D4DFF<Purify the Monastery>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Purificando o Lugar]^000000 foi aceita.",
+        "es-ES": "Solicitud de Claude, en la entrada del Monasterio de Glastheim\nHas aceptado la misión ^4D4DFF<Purificación del monasterio>^000000."
+    },
+    "KGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Glastheim Prison\nTargets: Defeat Zombie Prisoner 10, Skel Prisoner 10\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Missão Completa]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Esqueletos Prisioneiros e 10 Zumbis Prisioneiros\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim\nObjetivo: derrotar a Prisionero Zombi 10, Prisionero Esqueleto 10\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "KWyvDQ": {
+        "en-US": "[Claude's Quest at the Entrance of Glastheim Castle]\nLocation: Glastheim Prison\nTargets: Defeat Zombie Prisoner 10, Skel Prisoner 10\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Solicitação]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Esqueletos Prisioneiros e 10 Zumbis Prisioneiros\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Solicitud de Karon, el sacerdote cansado de la entrada del Castillo de Glastheim]\nUbicación: Prisión subterránea de Glastheim\nObjetivo: derrotar a Prisionero Zombi 10, Prisionero Esqueleto 10\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "KmyvDQ": {
+        "en-US": "Claude's Quest at the Entrance of Glastheim Castle\n^4D4DFF<Prisoners Dreaming of Escape>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Fugitivos da Prisão]^000000 foi aceita.",
+        "es-ES": "Solicitud de Karon, el sacerdote cansado de la entrada del Castillo de Glastheim\nHas aceptado la misión ^4D4DFF<Prisioneros que sueñan con escapar>^000000."
+    },
+    "K2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Glastheim Prison\nTarget: Defeat Injustice 20\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Missão Completa]\nLocal: Prisão 1º piso\nObjetivo: Elimine 20 Injustiçados\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim\nObjetivo: derrotar a Injusticia 20\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "LGyvDQ": {
+        "en-US": "[Nadir the Sluggish Mage's Quest at the Entrance of Glastheim Castle]\nLocation: Glastheim Prison\nTarget: Defeat Injustice 20\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Solicitação]\nLocal: Prisão 1º piso\nObjetivo: Elimine 20 Injustiçados\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Solicitud de Nadir, el mago apático de la entrada del Castillo de Glastheim]\nUbicación: Prisión subterránea de Glastheim\nObjetivo: derrotar a Injusticia 20\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "LWyvDQ": {
+        "en-US": "Nadir the Sluggish Mage's Quest at the Entrance of Glastheim Castle\n^4D4DFF<Refined Taste>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Gosto da Vingança]^000000 foi aceita.",
+        "es-ES": "Solicitud de Nadir, el mago apático de la entrada del Castillo de Glastheim\nHas aceptado la misión ^4D4DFF<Gusto refinado>^000000."
+    },
+    "LmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Glastheim Monastery Catacombs\nTargets: Defeat Dark Priest 10, Furious Dark Priest 1\nRewards: Exp 96220, Jexp 91630",
+        "pt-BR": "[Missão Completa]\nLocal: Cemitério\nObjetivo: Caçar 10 Sacerdotes Malditos e 1 Sacerdote Maldito Feroz \nRecompensa: EXP base 96.220, EXP classe 91.630",
+        "es-ES": "[Solicitud completada]\nUbicación: Catacumbas del Monasterio de Glastheim\nObjetivo: derrotar a Sacerdote Oscuro 10, Sacerdote Oscuro enfurecido 1\nRecompensa: Exp 96220, Jexp 91630"
+    },
+    "L2yvDQ": {
+        "en-US": "[Claude's Quest at the Entrance of Glastheim Monastery]\nLocation: Glastheim Monastery Catacombs\nTargets: Defeat Dark Priest 10, Furious Dark Priest 1\nRewards: Exp 96220, Jexp 91630",
+        "pt-BR": "[Solicitação]\nLocal: Cemitério\nObjetivo: Caçar 10 Sacerdotes Malditos e 1 Sacerdote Maldito Feroz \nRecompensa: EXP base 96.220, EXP classe 91.630",
+        "es-ES": "[Solicitud de Claude, en la entrada del Monasterio de Glastheim]\nUbicación: Catacumbas del Monasterio de Glastheim\nObjetivo: derrotar a Sacerdote Oscuro 10, Sacerdote Oscuro enfurecido 1\nRecompensa: Exp 96220, Jexp 91630"
+    },
+    "MGyvDQ": {
+        "en-US": "Claude's Quest at the Entrance of Glastheim Monastery\n^4D4DFF<Catacombs Stabilization>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Cemitério de Sacerdotes]^000000 foi aceita.",
+        "es-ES": "Solicitud de Claude, en la entrada del Monasterio de Glastheim\nHas aceptado la misión ^4D4DFF<Estabilización de las catacumbas>^000000."
+    },
+    "MWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Glastheim Prison\nTarget: Defeat Rybio 10\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Missão Completa]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Rybios\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim\nObjetivo: derrotar a Rybio 10\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "MmyvDQ": {
+        "en-US": "[Nadir the Sluggish Mage's Quest at the Entrance of Glastheim Castle]\nLocation: Glastheim Prison\nTarget: Defeat Rybio 10\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Solicitação]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Rybios\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Solicitud de Nadir, el mago apático de la entrada del Castillo de Glastheim]\nUbicación: Prisión subterránea de Glastheim\nObjetivo: derrotar a Rybio 10\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "M2yvDQ": {
+        "en-US": "Nadir the Sluggish Mage's Quest at the Entrance of Glastheim Castle\n^4D4DFF<Cruel Torturer>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Torturador Sádico]^000000 foi aceita.",
+        "es-ES": "Solicitud de Nadir, el mago apático de la entrada del Castillo de Glastheim\nHas aceptado la misión ^4D4DFF<Torturador despiadado>^000000."
+    },
+    "NGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Geffen West Field\nTarget: Defeat Aerial Petit 10\nRewards: Exp 9900, Jexp 10120",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores de Geffen\nObjetivo: Caçar 10 Petites Voadores\nRecompensa: EXP base 9.900, EXP classe 10.120",
+        "es-ES": "[Solicitud completada]\nUbicación: Campo al oeste de Geffen\nObjetivo: derrotar a Petit Aéreo 10\nRecompensa: Exp 9900, Jexp 10120"
+    },
+    "NWyvDQ": {
+        "en-US": "[Petit Boy's Quest in Front of Geffen West Entrance]\nLocation: Geffen West Field\nTarget: Defeat Aerial Petit 10\nRewards: Exp 9900, Jexp 10120",
+        "pt-BR": "[Solicitação]\nLocal: Arredores de Geffen\nObjetivo: Caçar 10 Petites Voadores\nRecompensa: EXP base 9.900, EXP classe 10.120",
+        "es-ES": "[Solicitud del chico Petit frente a la entrada oeste de Geffen]\nUbicación: Campo al oeste de Geffen\nObjetivo: derrotar a Petit Aéreo 10\nRecompensa: Exp 9900, Jexp 10120"
+    },
+    "NmyvDQ": {
+        "en-US": "Petit Boy's Quest in Front of Geffen West Entrance\n^4D4DFF<Cute Aerial Petit>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Dragões Fofinhos]^000000 foi aceita.",
+        "es-ES": "Solicitud del chico Petit frente a la entrada oeste de Geffen\nHas aceptado la misión ^4D4DFF<Petit Aéreo es adorable>^000000."
+    },
+    "N2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Geffen Northwest Field\nTarget: Defeat Ground Petit 10\nRewards: Exp 12860, Jexp 13160",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores de Glastheim\nObjetivo: Caçar 10 Petites Verdes\nRecompensa: EXP base 12.860, EXP classe 13.160",
+        "es-ES": "[Solicitud completada]\nUbicación: Campo al oeste-noroeste de Geffen\nObjetivo: derrotar a Petit Terrestre 10\nRecompensa: Exp 12860, Jexp 13160"
+    },
+    "OGyvDQ": {
+        "en-US": "[Petit Boy's Quest in Front of Geffen West Entrance]\nLocation: Geffen Northwest Field\nTarget: Defeat Ground Petit 10\nRewards: Exp 12860, Jexp 13160",
+        "pt-BR": "[Solicitação]\nLocal: Arredores de Glastheim\nObjetivo: Caçar 10 Petites Verdes\nRecompensa: EXP base 12.860, EXP classe 13.160",
+        "es-ES": "[Solicitud del chico Petit frente a la entrada oeste de Geffen]\nUbicación: Campo al oeste-noroeste de Geffen\nObjetivo: derrotar a Petit Terrestre 10\nRecompensa: Exp 12860, Jexp 13160"
+    },
+    "OWyvDQ": {
+        "en-US": "Petit Boy's Quest in Front of Geffen West Entrance\n^4D4DFF<Cute Ground Petit>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Dragões Fortinhos]^000000 foi aceita.",
+        "es-ES": "Solicitud del chico Petit frente a la entrada oeste de Geffen\nHas aceptado la misión ^4D4DFF<Petit Terrestre es adorable>^000000."
+    },
+    "OmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Geffen Dungeon 3rd Floor\nTargets: Defeat Marionette 10 Deviruchi 10\nRewards: Exp 37520, Jexp 41740",
+        "pt-BR": "[Missão Completa]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Marionetes e 10 Deviruchis\nRecompensa: EXP base 37.520, EXP classe 41.740",
+        "es-ES": "[Solicitud completada]\nUbicación: 3 piso subterráneo de Geffen\nObjetivo: derrotar a Marioneta 10 Deviruchi 10\nRecompensa: Exp 37520, Jexp 41740"
+    },
+    "O2yvDQ": {
+        "en-US": "[Low-Level Mage's Quest in Front of Geffen Tower]\nLocation: Geffen Dungeon 3rd Floor\nTargets: Defeat Marionette 10 Deviruchi 10\nRewards: Exp 37520, Jexp 41740",
+        "pt-BR": "[Solicitação]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Marionetes e 10 Deviruchis\nRecompensa: EXP base 37.520, EXP classe 41.740",
+        "es-ES": "[Solicitud del mago novato frente a la Torre de Geffen]\nUbicación: 3 piso subterráneo de Geffen\nObjetivo: derrotar a Marioneta 10 Deviruchi 10\nRecompensa: Exp 37520, Jexp 41740"
+    },
+    "PGyvDQ": {
+        "en-US": "Low-Level Mage's Quest in Front of Geffen Tower\n^4D4DFF<Hunt Marionette and Deviruchi>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Seres Demoníacos]^000000 foi aceita.",
+        "es-ES": "Solicitud del mago novato frente a la Torre de Geffen\nHas aceptado la misión ^4D4DFF<Cazar a Marioneta y Deviruchi>^000000."
+    },
+    "PWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Geffen Dungeon 3rd Floor\nTarget: Defeat Nightmare 10\nRewards: Exp 42000, Jexp 38000",
+        "pt-BR": "[Missão Completa]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Pesadelos\nRecompensa: EXP base 42.000, EXP classe 38.000",
+        "es-ES": "[Solicitud completada]\nUbicación: 3 piso subterráneo de Geffen\nObjetivo: derrotar a Pesadilla 10\nRecompensa: Exp 42000, Jexp 38000"
+    },
+    "PmyvDQ": {
+        "en-US": "[Tired Man's Quest in Front of Geffen Dungeon Entrance]\nLocation: Geffen Dungeon 3rd Floor\nTarget: Defeat Nightmare 10\nRewards: Exp 42000, Jexp 38000",
+        "pt-BR": "[Solicitação]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Pesadelos\nRecompensa: EXP base 42.000, EXP classe 38.000",
+        "es-ES": "[Solicitud del hombre cansado frente a la entrada de la Mazmorra Subterránea de Geffen]\nUbicación: 3 piso subterráneo de Geffen\nObjetivo: derrotar a Pesadilla 10\nRecompensa: Exp 42000, Jexp 38000"
+    },
+    "P2yvDQ": {
+        "en-US": "Tired Man's Quest in Front of Geffen Dungeon Entrance\n^4D4DFF<Horse Running Through Nightmare>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Cavalos Sinistros]^000000 foi aceita.",
+        "es-ES": "Solicitud del hombre cansado frente a la entrada de la Mazmorra Subterránea de Geffen\nHas aceptado la misión ^4D4DFF<Caballo que corre por Pesadilla>^000000."
+    },
+    "QGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Kiel Hyre Academy West Einbroch Field\nTargets: Defeat Metaling 20, Holden 10\nRewards: Exp 40920, Jexp 38220",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores de Einbroch\nObjetivo: Caçar 20 Metalings e 20 Holdens\nRecompensa: EXP base 40.920, EXP classe 38.220",
+        "es-ES": "[Solicitud completada]\nUbicación: Campo de Einbroch al oeste de la Academia Kiel Hyre\nObjetivo: derrotar a Metaling 20, Holden 10\nRecompensa: Exp 40920, Jexp 38220"
+    },
+    "QWyvDQ": {
+        "en-US": "Friedrich Schumacher's Quest in Kiel Hyre Academy West Einbroch Field\nLocation: Kiel Hyre Academy West Einbroch Field\nTargets: Defeat Metaling 20, Holden 10\nRewards: Exp 40920, Jexp 38220",
+        "pt-BR": "[Solicitação]\nLocal: Arredores de Einbroch\nObjetivo: Caçar 20 Metalings e 20 Holdens\nRecompensa: EXP base 40.920, EXP classe 38.220",
+        "es-ES": "[Solicitud de Friedrich Schumacher en el campo de Einbroch al oeste de la Academia Kiel Hyre]\nUbicación: Campo de Einbroch al oeste de la Academia Kiel Hyre\nObjetivo: derrotar a Metaling 20, Holden 10\nRecompensa: Exp 40920, Jexp 38220"
+    },
+    "QmyvDQ": {
+        "en-US": "Kiel Hyre Academy West Einbroch Field Friedrich Schumacher's Quest\n^4D4DFF<Please clean up the area.>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Patrulhamento]^000000 foi aceita.",
+        "es-ES": "Solicitud de Friedrich Schumacher en el campo de Einbroch al oeste de la Academia Kiel Hyre\nHas aceptado la misión ^4D4DFF<Por favor, despeja los alrededores.>^000000."
+    },
+    "Q2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: North of Einbroch\nTarget: Defeat Venomous 20\nRewards: Exp 38200, Jexp 33440",
+        "pt-BR": "[Missão Completa]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Venenosas\nRecompensa: EXP base 38.200, EXP classe 33.440",
+        "es-ES": "[Encargo completado]\nUbicación: norte de Einbroch\nObjetivo: eliminar Venenoso 20 veces\nRecompensa: Exp 38200, Jexp 33440"
+    },
+    "RGyvDQ": {
+        "en-US": "[Einbroch Guard Eisen's Quest]\nLocation: North of Einbroch\nTarget: Defeat Venomous 20\nRewards: Exp 38200, Jexp 33440",
+        "pt-BR": "[Solicitação]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Venenosas\nRecompensa: EXP base 38.200, EXP classe 33.440",
+        "es-ES": "[Encargo del guardia Aizen de Einbroch]\nUbicación: norte de Einbroch\nObjetivo: eliminar Venenoso 20 veces\nRecompensa: Exp 38200, Jexp 33440"
+    },
+    "RWyvDQ": {
+        "en-US": "Einbroch Guard Eisen's Quest\n^4D4DFF<Floating Poisonous Gas 1>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Gases Venenosos]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia Aizen de Einbroch\nSe aceptó la misión ^4D4DFF<Gas tóxico flotante 1>^000000."
+    },
+    "RmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Northeast of Einbroch\nTarget: Defeat Noxious 20\nRewards: Exp 39200, Jexp 35680",
+        "pt-BR": "[Missão Completa]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Tóxicas\nRecompensa: EXP base 39.200, EXP classe 35.680",
+        "es-ES": "[Encargo completado]\nUbicación: noreste de Einbroch\nObjetivo: eliminar Nocivo 20 veces\nRecompensa: Exp 39200, Jexp 35680"
+    },
+    "R2yvDQ": {
+        "en-US": "[Einbroch Guard Eisen's Quest]\nLocation: Northeast of Einbroch\nTarget: Defeat Noxious 20\nRewards: Exp 39200, Jexp 35680",
+        "pt-BR": "[Solicitação]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Tóxicas\nRecompensa: EXP base 39.200, EXP classe 35.680",
+        "es-ES": "[Encargo del guardia Aizen de Einbroch]\nUbicación: noreste de Einbroch\nObjetivo: eliminar Nocivo 20 veces\nRecompensa: Exp 39200, Jexp 35680"
+    },
+    "SGyvDQ": {
+        "en-US": "Einbroch Guard Eisen's Quest\n^4D4DFF<Floating Poisonous Gas 2>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Gases Tóxicos]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia Aizen de Einbroch\nSe aceptó la misión ^4D4DFF<Gas tóxico flotante 2>^000000."
+    },
+    "SWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Field near Northeast of Einbroch\nTarget: Defeat Teddy Bear 15\nRewards: Exp 48600, Jexp 51420",
+        "pt-BR": "[Missão Completa]\nLocal: Nordeste de Einbroch\nObjetivo: Caçar 15 Ursinhos\nRecompensa: EXP base 48.600, EXP classe 51.420",
+        "es-ES": "[Encargo completado]\nUbicación: campo cercano al noreste de Einbroch\nObjetivo: eliminar Osito de Peluche 15 veces\nRecompensa: Exp 48600, Jexp 51420"
+    },
+    "SmyvDQ": {
+        "en-US": "[Einbroch Guard Eisen's Quest]\nLocation: Field near Northeast of Einbroch\nTarget: Defeat Teddy Bear 15\nRewards: Exp 48600, Jexp 51420",
+        "pt-BR": "[Solicitação]\nLocal: Nordeste de Einbroch\nObjetivo: Caçar 15 Ursinhos\nRecompensa: EXP base 48.600, EXP classe 51.420",
+        "es-ES": "[Encargo del guardia Aizen de Einbroch]\nUbicación: campo cercano al noreste de Einbroch\nObjetivo: eliminar Osito de Peluche 15 veces\nRecompensa: Exp 48600, Jexp 51420"
+    },
+    "S2yvDQ": {
+        "en-US": "Einbroch Guard Eisen's Quest\n^4D4DFF<Cute and Terrible...>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Boneco Assassino]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia Aizen de Einbroch\nSe aceptó la misión ^4D4DFF<Adorable y aterrador...>^000000."
+    },
+    "TGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Einbech Mine 1st Floor\nTarget: Defeat Pitman 20\nRewards: Exp 77500, Jexp 69780",
+        "pt-BR": "[Missão Completa]\nLocal: Mina de Einbech 1º piso\nObjetivo: Caçar 20 Mineiros\nRecompensa: EXP base 77.500, EXP classe 69.780",
+        "es-ES": "[Encargo completado]\nUbicación: mina de Einbech 1 piso\nObjetivo: eliminar Minero 20 veces\nRecompensa: Exp 77500, Jexp 69780"
+    },
+    "TWyvDQ": {
+        "en-US": "[Einbech Guard Atin's Quest]\nLocation: Einbech Mine 1st Floor\nTarget: Defeat Pitman 20\nRewards: Exp 77500, Jexp 69780",
+        "pt-BR": "[Solicitação]\nLocal: Mina de Einbech 1º piso\nObjetivo: Caçar 20 Mineiros\nRecompensa: EXP base 77.500, EXP classe 69.780",
+        "es-ES": "[Encargo del guardia Atin de Einbech]\nUbicación: mina de Einbech 1 piso\nObjetivo: eliminar Minero 20 veces\nRecompensa: Exp 77500, Jexp 69780"
+    },
+    "TmyvDQ": {
+        "en-US": "Einbech Guard Atin's Quest\n^4D4DFF<Shadow Miner>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Trabalhadores da Mina]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia Atin de Einbech\nSe aceptó la misión ^4D4DFF<Minero de Sombra>^000000."
+    },
+    "T2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Einbech Mine 2nd Floor\nTarget: Defeat Waste Stove 15\nRewards: Exp 72040, Jexp 71084",
+        "pt-BR": "[Missão Completa]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Fornalhas Velhas\nRecompensa: EXP base 72.040, EXP classe 71.084",
+        "es-ES": "[Encargo completado]\nUbicación: mina de Einbech 2 piso\nObjetivo: eliminar Estufa de Residuos 15 veces\nRecompensa: Exp 72040, Jexp 71084"
+    },
+    "UGyvDQ": {
+        "en-US": "[Einbech Guard Atin's Quest]\nLocation: Einbech Mine 2nd Floor\nTarget: Defeat Waste Stove 15\nRewards: Exp 72040, Jexp 71084",
+        "pt-BR": "[Solicitação]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Fornalhas Velhas\nRecompensa: EXP base 72.040, EXP classe 71.084",
+        "es-ES": "[Encargo del guardia Atin de Einbech]\nUbicación: mina de Einbech 2 piso\nObjetivo: eliminar Estufa de Residuos 15 veces\nRecompensa: Exp 72040, Jexp 71084"
+    },
+    "UWyvDQ": {
+        "en-US": "Einbech Guard Atin's Quest\n^4D4DFF<Why is something like that moving?!>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Como isso se move?]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia Atin de Einbech\nSe aceptó la misión ^4D4DFF<¡¿Por qué se mueve esa cosa?!>^000000."
+    },
+    "UmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Einbech Mine 2nd Floor\nTargets: Defeat Mineral 15, Obsidian 5\nRewards: Exp 72530, Jexp 89290",
+        "pt-BR": "[Missão Completa]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Mineral e 5 Obsidianas\nRecompensa: EXP base 72.530, EXP classe 89.290",
+        "es-ES": "[Encargo completado]\nUbicación: mina de Einbech, piso 2\nObjetivo: eliminar Mineral 15 veces, Obsidiana 5 veces\nRecompensa: Exp 72530, Jexp 89290"
+    },
+    "U2yvDQ": {
+        "en-US": "[Einbech Guard Atin's Quest]\nLocation: Einbech Mine 2nd Floor\nTargets: Defeat Mineral 15, Obsidian 5\nRewards: Exp 72530, Jexp 89290",
+        "pt-BR": "[Solicitação]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Mineral e 5 Obsidianas\nRecompensa: EXP base 72.530, EXP classe 89.290",
+        "es-ES": "[Encargo del guardia Atin de Einbech]\nUbicación: mina de Einbech, piso 2\nObjetivo: eliminar Mineral 15 veces, Obsidiana 5 veces\nRecompensa: Exp 72530, Jexp 89290"
+    },
+    "VGyvDQ": {
+        "en-US": "Einbech Guard Atin's Quest\n^4D4DFF<Jumping Mineral>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Minérios Saltitantes]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia Atin de Einbech\nSe aceptó la misión ^4D4DFF<Mineral saltarín>^000000."
+    },
+    "VWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: North of Lighthalzen\nTarget: Defeat Rafflesia 20\nRewards: Exp 51440, Jexp 52640",
+        "pt-BR": "[Missão Completa]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Rafflesias\nRecompensa: EXP base 51.440, EXP classe 52.640",
+        "es-ES": "[Encargo completado]\nUbicación: norte de Lighthalzen\nObjetivo: eliminar Rafflesia 20 veces\nRecompensa: Exp 51440, Jexp 52640"
+    },
+    "VmyvDQ": {
+        "en-US": "[Theodore's Quest in Lighthalzen]\nLocation: North of Lighthalzen\nTarget: Defeat Rafflesia 20\nRewards: Exp 51440, Jexp 52640",
+        "pt-BR": "[Solicitação]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Rafflesias\nRecompensa: EXP base 51.440, EXP classe 52.640",
+        "es-ES": "[Encargo de Theodore de Lighthalzen]\nUbicación: norte de Lighthalzen\nObjetivo: eliminar Rafflesia 20 veces\nRecompensa: Exp 51440, Jexp 52640"
+    },
+    "V2yvDQ": {
+        "en-US": "Theodore's Quest in Lighthalzen\n^4D4DFF<Why, when there is such a large pool!>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Uma Grande Piscina]^000000 foi aceita.",
+        "es-ES": "Encargo de Theodore de Lighthalzen\nSe aceptó la misión ^4D4DFF<¡¿Por qué, si hay una piscina tan grande?!>^000000."
+    },
+    "WGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: North of Lighthalzen\nTarget: Defeat Stem Worm 20\nRewards: Exp 49890, Jexp 53416",
+        "pt-BR": "[Missão Completa]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Talos-de-Verme\nRecompensa: EXP base 49.890, EXP classe 53.416",
+        "es-ES": "[Encargo completado]\nUbicación: norte de Lighthalzen\nObjetivo: eliminar Gusano de Tallo 20 veces\nRecompensa: Exp 49890, Jexp 53416"
+    },
+    "WWyvDQ": {
+        "en-US": "[Theodore's Quest in Lighthalzen]\nLocation: North of Lighthalzen\nTarget: Defeat Stem Worm 20\nRewards: Exp 49890, Jexp 53416",
+        "pt-BR": "[Solicitação]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Talos-de-Verme\nRecompensa: EXP base 49.890, EXP classe 53.416",
+        "es-ES": "[Encargo de Theodore de Lighthalzen]\nUbicación: norte de Lighthalzen\nObjetivo: eliminar Gusano de Tallo 20 veces\nRecompensa: Exp 49890, Jexp 53416"
+    },
+    "WmyvDQ": {
+        "en-US": "Theodore's Quest in Lighthalzen\n^4D4DFF<Slapping Ankles>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Bate no Tornozelo]^000000 foi aceita.",
+        "es-ES": "Encargo de Theodore de Lighthalzen\nSe aceptó la misión ^4D4DFF<Golpes en los tobillos>^000000."
+    },
+    "W2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Northeast of Lighthalzen, Valley of Death\nTarget: Defeat Breeze 20\nRewards: Exp 84392, Jexp 79024",
+        "pt-BR": "[Missão Completa]\nLocal: Nordeste de Lighthalzen\nObjetivo: Caçar 20 Breezes\nRecompensa: EXP base 84.392, EXP classe 79.024",
+        "es-ES": "[Encargo completado]\nUbicación: noreste de Lighthalzen, Valle de la Parca\nObjetivo: eliminar Brisa 20 veces\nRecompensa: Exp 84392, Jexp 79024"
+    },
+    "XGyvDQ": {
+        "en-US": "[Reno's Quest in Lighthalzen]\nLocation: Northeast of Lighthalzen, Valley of Death\nTarget: Defeat Breeze 20\nRewards: Exp 84392, Jexp 79024",
+        "pt-BR": "[Solicitação]\nLocal: Nordeste de Lighthalzen\nObjetivo: Caçar 20 Breezes\nRecompensa: EXP base 84.392, EXP classe 79.024",
+        "es-ES": "[Encargo de Reno de Lighthalzen]\nUbicación: noreste de Lighthalzen, Valle de la Parca\nObjetivo: eliminar Brisa 20 veces\nRecompensa: Exp 84392, Jexp 79024"
+    },
+    "XWyvDQ": {
+        "en-US": "Reno's Quest in Lighthalzen\n^4D4DFF<The Name Valley of Death>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Brisa Desagradável]^000000 foi aceita.",
+        "es-ES": "Encargo de Reno de Lighthalzen\nSe aceptó la misión ^4D4DFF<El nombre Valle de la Parca>^000000."
+    },
+    "XmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Turtle Island Field\nTargets: Defeat Dragon Tail 10, Spring Rabbit 10\nRewards: Exp 76000, Jexp 72000",
+        "pt-BR": "[Missão Completa]\nLocal: Ilha da Tartaruga\nObjetivo: Caçar 10 Coelhos e 10 Lavadeiras\nRecompensa: EXP base 76.000, EXP classe 72.000",
+        "es-ES": "[Encargo completado]\nUbicación: campo de Isla Tortuga\nObjetivo: eliminar Cola de Dragón 10 veces, Conejo de primavera 10 veces\nRecompensa: Exp 76000, Jexp 72000"
+    },
+    "X2yvDQ": {
+        "en-US": "[Alberta Dock Knight Tivald's Quest]\nLocation: Turtle Island Field\nTargets: Defeat Dragon Tail 10, Spring Rabbit 10\nRewards: Exp 76000, Jexp 72000",
+        "pt-BR": "[Solicitação]\nLocal: Ilha da Tartaruga\nObjetivo: Caçar 10 Coelhos e 10 Lavadeiras\nRecompensa: EXP base 76.000, EXP classe 72.000",
+        "es-ES": "[Encargo del caballero Tybalt del muelle de Alberta]\nUbicación: campo de Isla Tortuga\nObjetivo: eliminar Cola de Dragón 10, Conejo de primavera 10\nRecompensa: Exp 76000, Jexp 72000"
+    },
+    "YGyvDQ": {
+        "en-US": "Alberta Dock Knight Tivald's Quest\n^4D4DFF<Explore Turtle Island>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Passeio pela Ilha]^000000 foi aceita.",
+        "es-ES": "Encargo del caballero Tybalt del muelle de Alberta\nSe aceptó la misión ^4D4DFF<Recorrer Isla Tortuga>^000000."
+    },
+    "YWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Turtle Island Dungeon 1st, 2nd Floors\nTargets: Defeat Solider 10, Permeter 10, Freezer 10, Heater 10\nRewards: Exp 102000, Jexp 104000",
+        "pt-BR": "[Missão Completa]\nLocal: Ilha da Tartaruga 2º piso\nObjetivo: Caçar 10 Aquecedores, 10 Congeladores, 10 Batedores e 10 Solidificadores\nRecompensa: EXP base 102.000, EXP classe 104.000",
+        "es-ES": "[Encargo completado]\nUbicación: Mazmorra de Isla Tortuga 1, 2 pisos\nObjetivo: eliminar Solider 10, Permeter 10, Congelador 10, Calentador 10\nRecompensa: Exp 102000, Jexp 104000"
+    },
+    "YmyvDQ": {
+        "en-US": "[Alberta Dock Knight Tivald's Quest]\nLocation: Turtle Island Dungeon 1st, 2nd Floors\nTargets: Defeat Solider 10, Permeter 10, Freezer 10, Heater 10\nRewards: Exp 102000, Jexp 104000",
+        "pt-BR": "[Solicitação]\nLocal: Ilha da Tartaruga 2º piso\nObjetivo: Caçar 10 Aquecedores, 10 Congeladores, 10 Batedores e 10 Solidificadores\nRecompensa: EXP base 102.000, EXP classe 104.000",
+        "es-ES": "[Encargo del caballero Tybalt del muelle de Alberta]\nUbicación: Mazmorra de Isla Tortuga 1, 2 pisos\nObjetivo: eliminar Solider 10, Permeter 10, Congelador 10, Calentador 10\nRecompensa: Exp 102000, Jexp 104000"
+    },
+    "Y2yvDQ": {
+        "en-US": "Alberta Dock Knight Tivald's Quest\n^4D4DFF<Defeat the Turtle Horde>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Nativos da Ilha]^000000 foi aceita.",
+        "es-ES": "Encargo del caballero Tybalt del muelle de Alberta\nSe aceptó la misión ^4D4DFF<Eliminar la horda de tortugas>^000000."
+    },
+    "ZGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Turtle Island Dungeon (Yanggu Village)\nTarget: Defeat Assaulter 10\nRewards: Exp 52000, Jexp 67000",
+        "pt-BR": "[Missão Completa]\nLocal: Vila das Boas Tartarugas\nObjetivo: Caçar 10 Agressores\nRecompensa: EXP base 52.000, EXP classe 67.000",
+        "es-ES": "[Encargo completado]\nUbicación: Mazmorra de Isla Tortuga (aldea Yangger)\nObjetivo: eliminar Atacante 10\nRecompensa: Exp 52000, Jexp 67000"
+    },
+    "ZWyvDQ": {
+        "en-US": "[Captain of the Knights' Quest at Turtle Island Dungeon (Yanggu Village)]\nLocation: Turtle Island Dungeon (Yanggu Village)\nTarget: Defeat Assaulter 10\nRewards: Exp 52000, Jexp 67000",
+        "pt-BR": "[Solicitação]\nLocal: Vila das Boas Tartarugas\nObjetivo: Caçar 10 Agressores\nRecompensa: EXP base 52.000, EXP classe 67.000",
+        "es-ES": "[Encargo del capitán de la orden de caballeros de la Mazmorra de Isla Tortuga (aldea Yangger)]\nUbicación: Mazmorra de Isla Tortuga (aldea Yangger)\nObjetivo: eliminar Atacante 10\nRecompensa: Exp 52000, Jexp 67000"
+    },
+    "ZmyvDQ": {
+        "en-US": "Captain of the Knights' Quest at Turtle Island Dungeon (Yanggu Village)\n^4D4DFF<Hunt Assaulter>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Tartaruga Ninja]^000000 foi aceita.",
+        "es-ES": "Encargo del capitán de la orden de caballeros de la Mazmorra de Isla Tortuga (aldea Yangger)\nSe aceptó la misión ^4D4DFF<Caza de Atacante>^000000."
+    },
+    "Z2yvDQ": {
+        "en-US": "Ayothaya [70]",
+        "pt-BR": "[70] Ayothaya",
+        "es-ES": "Ayothaya [70]."
+    },
+    "aGyvDQ": {
+        "en-US": "Brasilis[70-80]",
+        "pt-BR": "[70-80] Brasilis",
+        "es-ES": "Brasilis[70-80]"
+    },
+    "aWyvDQ": {
+        "en-US": "[80] Moscovia",
+        "pt-BR": "[80] Moscóvia",
+        "es-ES": "[80] Moscovia"
+    },
+    "amyvDQ": {
+        "en-US": "[80] Louyang",
+        "pt-BR": "[80] Louyang",
+        "es-ES": "[80] Louyang"
+    },
+    "a2yvDQ": {
+        "en-US": "Amatsu[80-90]",
+        "pt-BR": "[80-90] Amatsu",
+        "es-ES": "Amatsu[80-90]"
+    },
+    "bGyvDQ": {
+        "en-US": "[90] Kunlun",
+        "pt-BR": "[90] Kunlun",
+        "es-ES": "[90] Kunlun"
+    },
+    "bWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat Tamruan 20\nRewards: Exp 30000, Jexp 30000",
+        "pt-BR": "[Missão Completa]\nLocal: Santuário de Ayothaya\nObjetivo: Caçar 20 Tamruan\nRecompensa: EXP base 30.000, EXP classe 30.000",
+        "es-ES": "[Encargo completado]\nUbicación: templo antiguo de Ayothaya\nObjetivo: eliminar Tamruan 20\nRecompensa: Exp 30000, Jexp 30000"
+    },
+    "bmyvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat Tamruan 20\nRewards: Exp 30000, Jexp 30000",
+        "pt-BR": "[Solicitação]\nLocal: Santuário de Ayothaya\nObjetivo: Caçar 20 Tamruan\nRecompensa: EXP base 30.000, EXP classe 30.000",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: templo antiguo de Ayothaya\nObjetivo: eliminar Tamruan 20\nRecompensa: Exp 30000, Jexp 30000"
+    },
+    "b2yvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<The Lion of the Temple>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Arauto do Templo]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<El león del templo>^000000."
+    },
+    "cGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Brasilis Field\nTarget: Defeat Toucan 20\nRewards: Exp 30000, Jexp 30000",
+        "pt-BR": "[Missão Completa]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Espíritos do Vento\nRecompensa: EXP base 30.000, EXP classe 30.000",
+        "es-ES": "[Encargo completado]\nUbicación: campo de Brasilis\nObjetivo: eliminar Tucán 20\nRecompensa: Exp 30000, Jexp 30000"
+    },
+    "cWyvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Brasilis Field\nTarget: Defeat Toucan 20\nRewards: Exp 30000, Jexp 30000",
+        "pt-BR": "[Solicitação]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Espíritos do Vento\nRecompensa: EXP base 30.000, EXP classe 30.000",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: campo de Brasilis\nObjetivo: eliminar Tucán 20\nRecompensa: Exp 30000, Jexp 30000"
+    },
+    "cmyvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<The Bird with a Rainbow>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Pássaro Colorido]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<El ave del arcoíris>^000000."
+    },
+    "c2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Brasilis Field\nTarget: Defeat Headless Mule 20\nRewards: Exp 35000, Jexp 35000",
+        "pt-BR": "[Missão Completa]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Mulas-sem-Cabeça\nRecompensa: EXP base 35.000, EXP classe 35.000",
+        "es-ES": "[Encargo completado]\nUbicación: campo de Brasilis\nObjetivo: eliminar Mula sin Cabeza 20\nRecompensa: Exp 35000, Jexp 35000"
+    },
+    "dGyvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Brasilis Field\nTarget: Defeat Headless Mule 20\nRewards: Exp 35000, Jexp 35000",
+        "pt-BR": "[Solicitação]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Mulas-sem-Cabeça\nRecompensa: EXP base 35.000, EXP classe 35.000",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: campo de Brasilis\nObjetivo: eliminar Mula sin Cabeza 20\nRecompensa: Exp 35000, Jexp 35000"
+    },
+    "dWyvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<The Headless Horse>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Lenda do Folclore]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<El caballo sin cabeza>^000000."
+    },
+    "dmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Moscovia Deep Forest\nTarget: Defeat Uzhas 20\nRewards: Exp 42660, Jexp 43600",
+        "pt-BR": "[Missão Completa]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Kikimoras\nRecompensa: EXP base 42.660, EXP classe 43.600",
+        "es-ES": "[Encargo completado]\nUbicación: bosque profundo de Moscóvia\nObjetivo: eliminar Uzhas 20\nRecompensa: Exp 42660, Jexp 43600"
+    },
+    "d2yvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Moscovia Deep Forest\nTarget: Defeat Uzhas 20\nRewards: Exp 42660, Jexp 43600",
+        "pt-BR": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Kikimoras\nRecompensa: EXP base 42.660, EXP classe 43.600",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: bosque profundo de Moscóvia\nObjetivo: eliminar Uzhas 20\nRecompensa: Exp 42660, Jexp 43600"
+    },
+    "eGyvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<Moscovia's Nightmare>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Pesadelo Soviético]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<Pesadilla de Moscóvia>^000000."
+    },
+    "eWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Moscovia Deep Deep Forest\nTarget: Defeat Baba Yaga 20\nRewards: Exp 45700, Jexp 46700",
+        "pt-BR": "[Missão Completa]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Baba-Yagas\nRecompensa: EXP base 45.700, EXP classe 46.700",
+        "es-ES": "[Encargo completado]\nUbicación: bosque muy profundo de Moscóvia\nObjetivo: eliminar Baba Yaga 20\nRecompensa: Exp 45700, Jexp 46700"
+    },
+    "emyvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Moscovia Deep Deep Forest\nTarget: Defeat Baba Yaga 20\nRewards: Exp 45700, Jexp 46700",
+        "pt-BR": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Baba-Yagas\nRecompensa: EXP base 45.700, EXP classe 46.700",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: bosque muy profundo de Moscóvia\nObjetivo: eliminar Baba Yaga 20\nRecompensa: Exp 45700, Jexp 46700"
+    },
+    "e2yvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<The Broom, Iron Pot, and Grandma>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Vovó Vidente]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<La escoba, el caldero de hierro y la abuela>^000000."
+    },
+    "fGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Louyang Field\nTarget: Defeat Mi Gao 20\nRewards: Exp 39600, Jexp 35000",
+        "pt-BR": "[Missão Completa]\nLocal: Sul de Louyang\nObjetivo: Caçar 20 Mi Gao\nRecompensa: EXP base 39.600, EXP classe 35.000",
+        "es-ES": "[Encargo completado]\nUbicación: campo de Louyang\nObjetivo: eliminar Mi Gao 20\nRecompensa: Exp 39600, Jexp 35000"
+    },
+    "fWyvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Louyang Field\nTarget: Defeat Mi Gao 20\nRewards: Exp 39600, Jexp 35000",
+        "pt-BR": "[Solicitação]\nLocal: Sul de Louyang\nObjetivo: Caçar 20 Mi Gao\nRecompensa: EXP base 39.600, EXP classe 35.000",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: campo de Louyang\nObjetivo: eliminar Mi Gao 20\nRecompensa: Exp 39600, Jexp 35000"
+    },
+    "fmyvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<A Rice Cake Made of Sand?>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Areias Atacam?]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<¿Un pastel de arroz hecho con arena?>^000000."
+    },
+    "f2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Louyang Royal Tomb\nTargets: Defeat Yao Jun 15, Jing Guai 15\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Missão Completa]\nLocal: Tumba Real\nObjetivo: Caçar 15 Yao Jun e 15 Jing Guai\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Encargo completado]\nUbicación: mausoleo real de Louyang\nObjetivo: eliminar Yao Jun 15, Jing Guai 15\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "gGyvDQ": {
+        "en-US": "[ Eden Group's Quest]\nLocation: Louyang Royal Tomb\nTargets: Defeat Yao Jun 15, Jing Guai 15\nRewards: Exp 72000, Jexp 72000",
+        "pt-BR": "[Solicitação]\nLocal: Tumba Real\nObjetivo: Caçar 15 Yao Jun e 15 Jing Guai\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: mausoleo real de Louyang\nObjetivo: eliminar Yao Jun 15, Jing Guai 15\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "gWyvDQ": {
+        "en-US": "Eden Group's Quest\n^4D4DFF<The Tomb Where Secrets Sleep>^000000 quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Tumba de Segredos]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<La tumba donde duermen los secretos>^000000."
+    },
+    "gmyvDQ": {
+        "en-US": "[Request Complete]\nLocation: Amatsu Tatami Maze\nTarget: Defeat Miyabi 20\nReward: EXP 36800, Job EXP 40100",
+        "pt-BR": "[Missão Completa]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Bonecos de Miyabi\nRecompensa: EXP base 36.800, EXP classe 40.100",
+        "es-ES": "[Encargo completado]\nUbicación: Laberinto de tatamis de Amatsu\nObjetivo: eliminar Miyabi 20\nRecompensa: Exp 36800, Jexp 40100"
+    },
+    "g2yvDQ": {
+        "en-US": "[Eden Group Request]\nLocation: Amatsu Tatami Maze\nTarget: Defeat Miyabi 20\nReward: EXP 36800, Job EXP 40100",
+        "pt-BR": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Bonecos de Miyabi\nRecompensa: EXP base 36.800, EXP classe 40.100",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: Laberinto de tatamis de Amatsu\nObjetivo: eliminar Miyabi 20\nRecompensa: Exp 36800, Jexp 40100"
+    },
+    "hGyvDQ": {
+        "en-US": "Eden Group Request\nYou have accepted the ^4D4DFF<Beautiful Doll>^000000 quest.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Bonecas Delicadas]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<La hermosa muñeca>^000000."
+    },
+    "hWyvDQ": {
+        "en-US": "[Request Complete]\nLocation: Amatsu Tatami Maze\nTarget: Defeat Firelock Soldier 20\nReward: EXP 47500, Job EXP 48300",
+        "pt-BR": "[Missão Completa]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Zumbis Atiradores\nRecompensa: EXP base 47.500, EXP classe 48.300",
+        "es-ES": "[Encargo completado]\nUbicación: Laberinto de tatamis de Amatsu\nObjetivo: eliminar Soldado Arcabucero 20\nRecompensa: Exp 47500, Jexp 48300"
+    },
+    "hmyvDQ": {
+        "en-US": "[Eden Group Request]\nLocation: Amatsu Tatami Maze\nTarget: Defeat Firelock Soldier 20\nReward: EXP 47500, Job EXP 48300",
+        "pt-BR": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Zumbis Atiradores\nRecompensa: EXP base 47.500, EXP classe 48.300",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: Laberinto de tatamis de Amatsu\nObjetivo: eliminar Soldado Arcabucero 20\nRecompensa: Exp 47500, Jexp 48300"
+    },
+    "h2yvDQ": {
+        "en-US": "Eden Group Request\nYou have accepted the ^4D4DFF<The Defeated, the Victor, and Those Left Behind>^000000 quest.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Vigia Morto-Vivo]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<Quien perdió, quien ganó y quien quedó>^000000."
+    },
+    "iGyvDQ": {
+        "en-US": "[Request Complete]\nLocation: Amatsu Tatami Maze\nTarget: Defeat Shinobi 20\nReward: EXP 81120, Job EXP 72200",
+        "pt-BR": "[Missão Completa]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Shinobi\nRecompensa: EXP base 81.120, EXP classe 72.200",
+        "es-ES": "[Encargo completado]\nUbicación: Laberinto de tatamis de Amatsu\nObjetivo: eliminar Shinobi 20\nRecompensa: Exp 81120, Jexp 72200"
+    },
+    "iWyvDQ": {
+        "en-US": "[Eden Group Request]\nLocation: Amatsu Tatami Maze\nTarget: Defeat Shinobi 20\nReward: EXP 81120, Job EXP 72200",
+        "pt-BR": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Shinobi\nRecompensa: EXP base 81.120, EXP classe 72.200",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: Laberinto de tatamis de Amatsu\nObjetivo: eliminar Shinobi 20\nRecompensa: Exp 81120, Jexp 72200"
+    },
+    "imyvDQ": {
+        "en-US": "Eden Group Request\nYou have accepted the ^4D4DFF<I Hear Everything, Day or Night.>^000000 quest.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Alguém à Espreita]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<Oigo lo que se dice de noche y también lo que se dice de día.>^000000."
+    },
+    "i2yvDQ": {
+        "en-US": "[Request Complete]\nLocation: Kunlun Peach Tree Garden\nTarget: Defeat Evil Nymph 20\nReward: EXP 76600, Job EXP 83700",
+        "pt-BR": "[Missão Completa]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ninfas Perversas\nRecompensa: EXP base 76.600, EXP classe 83.700",
+        "es-ES": "[Encargo completado]\nUbicación: Paraíso de Mureung de Kunlun\nObjetivo: eliminar Ninfa Malvada 20\nRecompensa: Exp 76600, Jexp 83700"
+    },
+    "jGyvDQ": {
+        "en-US": "[Eden Group Request]\nLocation: Kunlun Peach Tree Garden\nTarget: Defeat Evil Nymph 20\nReward: EXP 76600, Job EXP 83700",
+        "pt-BR": "[Solicitação]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ninfas Perversas\nRecompensa: EXP base 76.600, EXP classe 83.700",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: Paraíso de Mureung de Kunlun\nObjetivo: eliminar Ninfa Malvada 20\nRecompensa: Exp 76600, Jexp 83700"
+    },
+    "jWyvDQ": {
+        "en-US": "Eden Group Request\nYou have accepted the ^4D4DFF<Celestial Maiden>^000000 quest.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Donzela Celestial]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<La mujer celestial>^000000."
+    },
+    "jmyvDQ": {
+        "en-US": "[Request Complete]\nLocation: Kunlun Queen Mother of the West Shrine\nTarget: Defeat Enchanted Peach Tree 20\nReward: EXP 63000, Job EXP 71900",
+        "pt-BR": "[Missão Completa]\nLocal: Tabuleiro de Go\nObjetivo: Caçar 20 Pessegueiras Encantadas\nRecompensa: EXP base 63.000, EXP classe 71.900",
+        "es-ES": "[Encargo completado]\nUbicación: templo de la Reina Madre del Oeste de Kunlun\nObjetivo: eliminar Duraznero Encantado 20\nRecompensa: Exp 63000, Jexp 71900"
+    },
+    "j2yvDQ": {
+        "en-US": "[Eden Group Request]\nLocation: Kunlun Queen Mother of the West Shrine\nTarget: Defeat Enchanted Peach Tree 20\nReward: EXP 63000, Job EXP 71900",
+        "pt-BR": "[Solicitação]\nLocal: Tabuleiro de Go\nObjetivo: Caçar 20 Pessegueiras Encantadas\nRecompensa: EXP base 63.000, EXP classe 71.900",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: templo de la Reina Madre del Oeste de Kunlun\nObjetivo: eliminar Duraznero Encantado 20\nRecompensa: Exp 63000, Jexp 71900"
+    },
+    "kGyvDQ": {
+        "en-US": "Eden Group Request\nYou have accepted the ^4D4DFF<Monkey King Candidate>^000000 quest.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Pêssegos e Yoyos]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<Aspirante a Sun Wukong>^000000."
+    },
+    "kWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Kunlun Taoist Hermit's Go Board\nTarget: Defeat 20 Taoist Hermit\nReward: Exp 72000, Jexp 72000",
+        "pt-BR": "[Missão Completa]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ermitão Maligno\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[Encargo completado]\nUbicación: tablero de Go del ermitaño de Kunlun\nObjetivo: eliminar Ermitaño Taoísta 20\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "kmyvDQ": {
+        "en-US": "[ Eden Group Quest]\nLocation: Kunlun Taoist Hermit's Go Board\nTarget: Defeat 20 Taoist Hermit\nReward: Exp 72000, Jexp 72000",
+        "pt-BR": "[Solicitação]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ermitão Maligno\nRecompensa: EXP base 72.000, EXP classe 72.000",
+        "es-ES": "[ Encargo del Grupo del Edén]\nUbicación: tablero de Go del ermitaño de Kunlun\nObjetivo: eliminar Ermitaño Taoísta 20\nRecompensa: Exp 72000, Jexp 72000"
+    },
+    "k2yvDQ": {
+        "en-US": "Eden Group Quest\n^4D4DFF<Cloud-Dwelling Elder>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Homem nas Nuvens]^000000 foi aceita.",
+        "es-ES": "Encargo del Grupo del Edén\nSe aceptó la misión ^4D4DFF<El anciano sobre las nubes>^000000."
+    },
+    "lGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Field near the Schwartzvald Border Checkpoint\nTarget: Defeat 10 Geographer, 10 Mantis\nReward: Exp 19760, Jexp 15150",
+        "pt-BR": "[Missão Completa]\nLocal: Norte de Al De Baran\nObjetivo: Caçar 10 Plantas Carnívoras e 10 Louva-a-Deus\nRecompensa: EXP base 19.760, EXP classe 15.150",
+        "es-ES": "[Encargo completado]\nUbicación: campo cercano al puesto de control fronterizo de Schwarzwald\nObjetivo: eliminar Geógrafo 10, Mantis 10\nRecompensa: Exp 19760, Jexp 15150"
+    },
+    "lWyvDQ": {
+        "en-US": "[Schwartzvald Border Checkpoint Commander Cesare's Quest]\nLocation: Field near the Schwartzvald Border Checkpoint\nTarget: Defeat 10 Geographer, 10 Mantis\nReward: Exp 19760, Jexp 15150",
+        "pt-BR": "[Solicitação]\nLocal: Norte de Al De Baran\nObjetivo: Caçar 10 Plantas Carnívoras e 10 Louva-a-Deus\nRecompensa: EXP base 19.760, EXP classe 15.150",
+        "es-ES": "[Encargo de Cesare, jefe del puesto de control fronterizo de Schwarzwald]\nUbicación: campo cercano al puesto de control fronterizo de Schwarzwald\nObjetivo: eliminar Geógrafo 10, Mantis 10\nRecompensa: Exp 19760, Jexp 15150"
+    },
+    "lmyvDQ": {
+        "en-US": "Schwartzvald Border Checkpoint Commander Cesare's Quest\n^4D4DFF<A Day at the Border Checkpoint>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Problema na Fronteira]^000000 foi aceita.",
+        "es-ES": "Encargo de Cesare, jefe del puesto de control fronterizo de Schwarzwald\nSe aceptó la misión ^4D4DFF<El trabajo del puesto fronterizo>^000000."
+    },
+    "l2yvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Hugel Southwest Field\nTarget: Defeat 10 Yellow Red Novus, 10 Red Red Novus\nReward: Exp 43080, Jexp 40160",
+        "pt-BR": "[Missão Completa]\nLocal: Sul de Hugel\nObjetivo: Caçar 10 Novus Escarlates e 10 Novus Dourados \nRecompensa: EXP base 43.080, EXP classe 40.160",
+        "es-ES": "[Encargo completado]\nUbicación: campo al suroeste de Hugel\nObjetivo: eliminar Novus Rojo amarillo 10, Novus Rojo rojo 10\nRecompensa: Exp 43080, Jexp 40160"
+    },
+    "mGyvDQ": {
+        "en-US": "[Hugel Blacksmith Drey's Quest]\nLocation: Hugel Southwest Field\nTarget: Defeat 10 Yellow Red Novus, 10 Red Red Novus\nReward: Exp 43080, Jexp 40160",
+        "pt-BR": "[Solicitação]\nLocal: Sul de Hugel\nObjetivo: Caçar 10 Novus Escarlates e 10 Novus Dourados \nRecompensa: EXP base 43.080, EXP classe 40.160",
+        "es-ES": "[Encargo del herrero Dry de Hugel]\nUbicación: campo al suroeste de Hugel\nObjetivo: eliminar Novus Rojo amarillo 10, Novus Rojo rojo 10\nRecompensa: Exp 43080, Jexp 40160"
+    },
+    "mWyvDQ": {
+        "en-US": "Hugel Blacksmith Drey's Quest\n^4D4DFF<The Cause of the Broken Water Pipe>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Um Grande Lago]^000000 foi aceita.",
+        "es-ES": "Encargo del herrero Dry de Hugel\nSe aceptó la misión ^4D4DFF<La causa de la avería en las tuberías>^000000."
+    },
+    "mmyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: East Rachel\nTarget: Defeat 30 Roween\nReward: Exp 86000, Jexp 82000",
+        "pt-BR": "[Missão Completa]\nLocal: Arredores de Rachel\nObjetivo: Caçar 30 Roweens\nRecompensa: EXP base 86.000, EXP classe 82.000",
+        "es-ES": "[Encargo completado]\nUbicación: este de Rachel\nObjetivo: eliminar Roween 30\nRecompensa: Exp 86000, Jexp 82000"
+    },
+    "m2yvDQ": {
+        "en-US": "[Airship Guard's Quest in Front of the East Rachel Airship Airport]\nLocation: East Rachel\nTarget: Defeat 30 Roween\nReward: Exp 86000, Jexp 82000",
+        "pt-BR": "[Solicitação]\nLocal: Arredores de Rachel\nObjetivo: Caçar 30 Roweens\nRecompensa: EXP base 86.000, EXP classe 82.000",
+        "es-ES": "[Encargo de la guardia del aeropuerto frente al aeropuerto de dirigibles al este de Rachel]\nUbicación: este de Rachel\nObjetivo: eliminar Roween 30\nRecompensa: Exp 86000, Jexp 82000"
+    },
+    "nGyvDQ": {
+        "en-US": "Airship Guard's Quest in Front of the East Rachel Airship Airport\n^4D4DFF<A Peaceful Pilgrimage>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Peregrinação Pacífica]^000000 foi aceita.",
+        "es-ES": "Encargo de la guardia del aeropuerto frente al aeropuerto de dirigibles al este de Rachel\nSe aceptó la misión ^4D4DFF<Por un peregrinaje tranquilo>^000000."
+    },
+    "nWyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: Ice Cave 1F\nTarget: Defeat 30 Siroma\nReward: Exp 92000, Jexp 82000",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna de Gelo 1º piso\nObjetivo: Caçar 30 Siromas\nRecompensa: EXP base 92.000, EXP classe 82.000",
+        "es-ES": "[Encargo completado]\nUbicación: Cueva de Hielo piso 1\nObjetivo: eliminar Siroma 30\nRecompensa: Exp 92000, Jexp 82000"
+    },
+    "nmyvDQ": {
+        "en-US": "[Leonard's Quest on the East Road from Central Rachel]\nLocation: Ice Cave 1F\nTarget: Defeat 30 Siroma\nReward: Exp 92000, Jexp 82000",
+        "pt-BR": "[Solicitação]\nLocal: Caverna de Gelo 1º piso\nObjetivo: Caçar 30 Siromas\nRecompensa: EXP base 92.000, EXP classe 82.000",
+        "es-ES": "[Encargo de Leonard en la avenida al este del centro de Rachel]\nUbicación: Cueva de Hielo piso 1\nObjetivo: eliminar Siroma 30\nRecompensa: Exp 92000, Jexp 82000"
+    },
+    "n2yvDQ": {
+        "en-US": "Leonard's Quest on the East Road from Central Rachel\n^4D4DFF<Guardian of Beauty>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Guardião da Beleza]^000000 foi aceita.",
+        "es-ES": "Encargo de Leonard en la avenida al este del centro de Rachel\nSe aceptó la misión ^4D4DFF<El guardián de la belleza>^000000."
+    },
+    "oGyvDQ": {
+        "en-US": "[Quest Complete]\nLocation: North Veins\nTarget: Defeat 30 Stapo\nReward: Exp 86000, Jexp 82000",
+        "pt-BR": "[Missão Completa]\nLocal: Sul de Veins\nObjetivo: Caçar 30 Stapos\nRecompensa: EXP base 86.000, EXP classe 82.000",
+        "es-ES": "[Encargo completado]\nUbicación: norte de Veins\nObjetivo: eliminar Stapo 30\nRecompensa: Exp 86000, Jexp 82000"
+    },
+    "oWyvDQ": {
+        "en-US": "[Market Merchant Craven's Quest Next to Veins Plaza]\nLocation: North Veins\nTarget: Defeat 30 Stapo\nReward: Exp 86000, Jexp 82000",
+        "pt-BR": "[Solicitação]\nLocal: Sul de Veins\nObjetivo: Caçar 30 Stapos\nRecompensa: EXP base 86.000, EXP classe 82.000",
+        "es-ES": "[Encargo de Craven en el mercado junto a la plaza de Veins]\nUbicación: norte de Veins\nObjetivo: eliminar Stapo 30\nRecompensa: Exp 86000, Jexp 82000"
+    },
+    "omyvDQ": {
+        "en-US": "Market Merchant Craven's Quest Next to Veins Plaza\n^4D4DFF<The Stone That Swallows Stones>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Pedra sobre Pedra]^000000 foi aceita.",
+        "es-ES": "Encargo de Craven en el mercado junto a la plaza de Veins\nSe aceptó la misión ^4D4DFF<La piedra que devora piedras>^000000."
+    }
+}

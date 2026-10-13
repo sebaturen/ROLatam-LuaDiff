@@ -51,12 +51,12 @@
     },
     "CqnDAQ": {
         "en-US": "[Jeremy]\nDear sweet heart~\nPlease call me Chief Designer Jeremy.",
-        "pt-BR": "[Jeremy]\nQuerido coração~\nPor favor, me chame de Chief Designer Jeremy.",
+        "pt-BR": "[Estilista]\nMeu bem~\nVocê precisa dar um tapa na sua aparência!",
         "es-ES": "[Jeremy]\nCariño.\nLlámame Diseñadora jefa Jeremy."
     },
     "C6nDAQ": {
         "en-US": "[Jeremy]\nMy shop is always open for you, so please visit me anytime you want.",
-        "pt-BR": "[Jeremy]\nMinha loja está sempre aberta para você, portanto, visite-me sempre que quiser.",
+        "pt-BR": "[Estilista]\nMinha loja está sempre aberta para você, portanto, visite-me sempre que quiser, meu bem.",
         "es-ES": "[Jeremy]\nMi tienda está siempre abierta para ti, así que visítame cuando quieras."
     },
     "DKnDAQ": {
@@ -96,12 +96,12 @@
     },
     "E6nDAQ": {
         "en-US": "- You cannot use this service. Please talk to Stylist. -",
-        "pt-BR": "- Você não pode usar esse serviço. Fale com o Stylist. -",
+        "pt-BR": "- Você não pode usar esse serviço. Fale com o Estilista. -",
         "es-ES": "-No puedes usar este servicio. Habla con la estilista.-"
     },
     "FKnDAQ": {
         "en-US": "[Assistant]\nWelcome.\nI am an Assistant who dreams of becoming a stylist. I'll change your style after receiving the materials.",
-        "pt-BR": "[Assistente]\nBem-vindo.\nSou uma Assistente que sonha em se tornar uma estilista. Vou mudar seu estilo depois de receber os materiais.",
+        "pt-BR": "[Assistente]\nBoas-vindas\nSou Assistente que sonha em se tornar uma estilista. Vou mudar seu estilo depois de receber os materiais.",
         "es-ES": "[Asistente]\nTe damos la bienvenida.\nSoy una asistente que sueña con convertirse en estilista. Cambiaré tu estilo después de recibir los materiales."
     },
     "FanDAQ": {
@@ -111,12 +111,12 @@
     },
     "FqnDAQ": {
         "en-US": "Change Hairstyle",
-        "pt-BR": "Mudança de penteado",
+        "pt-BR": "Mudar penteado",
         "es-ES": "Cambiar de peinado."
     },
     "F6nDAQ": {
         "en-US": "[Assistant]\nYou need Dyestuff of the color you want and a fee of 1,000 zeny to dye your hair.\nWhat color do you want?",
-        "pt-BR": "[Assistente]\nVocê precisa de Dyestuff da cor que deseja e de uma taxa de 1.000 Zeny para pintar seu cabelo.\nQue cor você deseja?",
+        "pt-BR": "[Assistente]\nVocê precisa de Tintura da cor que deseja e de uma taxa de 1.000 Zeny para pintar seu cabelo.\nQue cor você deseja?",
         "es-ES": "[Asistente]\nNecesitas un Tinte del color que quieras y una tarifa de 1000 zeny para teñirte el cabello.\n¿De qué color lo quieres?"
     },
     "GKnDAQ": {
@@ -181,7 +181,7 @@
     },
     "JKnDAQ": {
         "en-US": "[Assistant]\nYou must have the Dyestuff of the color you pick.",
-        "pt-BR": "[Assistente]\nVocê deve ter o Dyestuff da cor que escolher.",
+        "pt-BR": "[Assistente]\nVocê deve ter o Tintura da cor que escolher.",
         "es-ES": "[Asistente]\nDebes tener el Tinte del color que elijas."
     },
     "JanDAQ": {
@@ -206,12 +206,12 @@
     },
     "KanDAQ": {
         "en-US": "Look another one",
-        "pt-BR": "Veja outra",
+        "pt-BR": "Ver outra",
         "es-ES": "Ver otro."
     },
     "KqnDAQ": {
         "en-US": "I want this style",
-        "pt-BR": "Eu quero esse estilo",
+        "pt-BR": "Eu quero esse!",
         "es-ES": "Quiero este estilo."
     },
     "K6nDAQ": {
@@ -226,22 +226,22 @@
     },
     "LanDAQ": {
         "en-US": "[Assistant]\nYou pick number {0} style.\nIt requires....",
-        "pt-BR": "[Assistente]\nVocê escolhe o estilo número {0}.\nEle requer....",
+        "pt-BR": "[Assistente]\nVocê escolheu o estilo número {0}.\nEle requer....",
         "es-ES": "[Asistente]\nElegiste el estilo número {0}.\nEste requiere..."
     },
     "LqnDAQ": {
         "en-US": "[Assistant]\n3 Counteragent,\n3 Mixture,\n100 Daenggie,\n100 Short Daenggie,\n100 Black Hair,\n100 Golden Hair,\n100 Glossy Hair,",
-        "pt-BR": "[Assistente]\n3 Contra-agente,\n3 Mistura,\n100 Daenggie,\n100 Daenggie curtos,\n100 cabelos pretos,\n100 Golden Hair (cabelo dourado),\n100 Glossy Hair,",
+        "pt-BR": "[Assistente]\n3 Antígeno,\n3 Mistura,\n100 Cabelos Morenos,\n100 Cabelos Perfumados,\n100 Cabelos Dourados,\n100 Trança,\n100 Trança Curta e...",
         "es-ES": "[Asistente]\n3 Contraagentes,\n3 Mezclas,\n100 Trenzas,\n100 Trenzas cortas,\n100 Cabellos negros,\n100 Cabellos dorados,\n100 Cabellos brillantes"
     },
     "L6nDAQ": {
         "en-US": "[Assistant]\n...and 99,800 Zeny!",
-        "pt-BR": "[Assistente]\n...e 99.800 Zeny!",
+        "pt-BR": "[Assistente]\n...99.800 Zeny!",
         "es-ES": "[Asistente]\n...¡y 99800 zeny!"
     },
     "MKnDAQ": {
         "en-US": "I'm ready.",
-        "pt-BR": "Estou pronto.",
+        "pt-BR": "Mude meu estilo!",
         "es-ES": "Todo listo."
     },
     "ManDAQ": {
@@ -256,7 +256,7 @@
     },
     "M6nDAQ": {
         "en-US": "- Crunch Crunch Crunch Crunch -\n- Rub Rub Rub Rub -\n- Scrub Scrub Scrub Scrub -\n- Vroom Vroom Vroom Vroom -",
-        "pt-BR": "- Crunch Crunch Crunch Crunch -\n- Esfregar Esfregar Esfregar Esfregar -\n- Esfregar Esfregar Esfregar Esfregar -\n- Vroom Vroom Vroom Vroom Vroom -",
+        "pt-BR": "*Lava o cabelo*\n*Seca o cabelo*\n*Pinta o cabelo*\n*Corta o cabelo*",
         "es-ES": "*Crac, crac, crac, crac*\n*Frufrú, frufrú, frufrú, frufrú*\n*Frufrú, frufrú, frufrú, frufrú*\n*Brrrum, brrrum, brrrum, brrrum*"
     },
     "NKnDAQ": {
@@ -266,17 +266,17 @@
     },
     "NanDAQ": {
         "en-US": "[Assistant]\nQuite a lot. Can you remember all?",
-        "pt-BR": "[Assistente]\nBastante. Você consegue se lembrar de tudo?",
+        "pt-BR": "[Assistente]\nBastante itens. Você consegue se lembrar de tudo?",
         "es-ES": "[Asistente]\nEs bastante. ¿Puedes recordarlo todo?"
     },
     "NqnDAQ": {
         "en-US": "Assistant Kukri",
-        "pt-BR": "Kukri assistente",
+        "pt-BR": "Assistente Kukri",
         "es-ES": "Asistente Kukri"
     },
     "N6nDAQ": {
         "en-US": "Assistant Sena",
-        "pt-BR": "Assistente da Sena",
+        "pt-BR": "Assistente Sena",
         "es-ES": "Asistente Sena"
     },
     "OKnDAQ": {

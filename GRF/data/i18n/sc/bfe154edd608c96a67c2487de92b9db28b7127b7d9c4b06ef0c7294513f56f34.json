@@ -20,9 +20,9 @@
         "es-ES": "Consejos"
     },
     "hDW9": {
-        "en-US": "[Cenia]\nThe Monster Museum was founded by\nthe Sages of the Schweicherbil\nMagic Academy after researching\nevery creature dwelling in the\nRune-Midgard continent.",
-        "pt-BR": "[Cenia]\nO Museu do Monstro foi fundado por\npelos Sábios da Schweicherbil\nAcademia de Magia depois de pesquisar\ntodas as criaturas que habitam o continente de\ncontinente de Rune-Midgard.",
-        "es-ES": "[Cenia]\nEl Museo de los Monstruos fue fundado\npor los Sabios de la Academia\nde Magia Schweicherbil tras investigar\ntodas las criaturas que habitan\nel continente de Midgard."
+        "en-US": "[Cenia]\nThe Monster Museum was founded by\nthe Sages of the Schweicherwil\nMagic Academy after researching\nevery creature dwelling in the\nRune-Midgard continent.",
+        "pt-BR": "[Cenia]\nO Museu do Monstro foi fundado por\npelos Sábios da Schweicherwil\nAcademia de Magia depois de pesquisar\ntodas as criaturas que habitam o continente de\ncontinente de Rune-Midgard.",
+        "es-ES": "[Cenia]\nEl Museo de los Monstruos fue fundado\npor los Sabios de la Academia\nde Magia Schweicherwil tras investigar\ntodas las criaturas que habitan\nel continente de Midgard."
     },
     "hTW9": {
         "en-US": "[Cenia]\nIn this museum, you can see every\nsingle monster in Rune-Midgard,\neven the ones you hardly ever encounter.",
@@ -210,13 +210,13 @@
         "es-ES": "Alice"
     },
     "qjW9": {
-        "en-US": "Scientific name : Alice \n  Size : Medium\n  Attribute : Neutral",
+        "en-US": "Scientific name : Alice\n  Size : Medium\n  Attribute : Neutral",
         "pt-BR": "Nome científico : Alice \nTamanho : Médio\nAtributo : Neutro",
         "es-ES": "Nombre científico: Alice \n  Tamaño: Mediano\n  Atributo: Neutral"
     },
     "qzW9": {
         "en-US": "Explanation :\nAlice is a robot made to assist as\na castle housemaid. They've been\nknown to remain and automatically\ndo their tasks long after the\ncastle has been abandoned.",
-        "pt-BR": "Explicação :\nAlice é um robô feito para ajudar como\nempregada doméstica do castelo. Eles são\nconhecidos por permanecerem e automaticamente\nsuas tarefas muito tempo depois de o\ncastelo ter sido abandonado.",
+        "pt-BR": "Explicação :\nAlice é um robô feito para ajudar como\nempregada doméstica do castelo. Eles são\nconhecidos por permanecerem e automaticamente\nfazerem suas tarefas muito tempo depois de o\ncastelo ter sido abandonado.",
         "es-ES": "Explicación:\nAlice es un robot hecho para ayudar\ncomo criada en el castillo. Se sabe que sigue allí y hace sus tareas\nen forma automática,\npese a que el castillo\nfue abandonado hace mucho."
     },
     "rDW9": {

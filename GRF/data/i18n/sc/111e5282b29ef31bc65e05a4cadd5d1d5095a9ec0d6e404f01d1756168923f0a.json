@@ -1,0 +1,1952 @@
+{
+    "oIeYDQ": {
+        "en-US": "120~140 Request Board",
+        "pt-BR": "Missões 120 - 140",
+        "es-ES": "120~140 Tablero de encargos"
+    },
+    "oYeYDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items. -",
+        "pt-BR": "Você está carregando itens demais para prosseguir.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos. -"
+    },
+    "ooeYDQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll quest reward EXP is increased by 50%!!^000000",
+        "pt-BR": "^4D4DFFBônus de EXP!^000000\n^4D4DFFDurante o evento, as recompensas em EXP aumentaram em 50%!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡La EXP de recompensa de todas las misiones aumenta un 50%!!^000000"
+    },
+    "o4eYDQ": {
+        "en-US": "[Version Check] Eden Group Standard Version",
+        "pt-BR": "[GM Mode] Versão Normal",
+        "es-ES": "[Comprobación de versión] Versión normal del Grupo del Edén"
+    },
+    "pIeYDQ": {
+        "en-US": "To accept a request, -\n- you must have the ^4D4DFF'Eden Group Mark'^000000. -",
+        "pt-BR": "Para aceitar uma missão, você precisa\nter o ^4D4DFF'Emblema do Grupo do Éden'^000000.",
+        "es-ES": "Para aceptar el encargo, debes tener -\n- ^4D4DFF'Insignia del Grupo del Edén'^000000. -"
+    },
+    "pYeYDQ": {
+        "en-US": "Your level is too low to use this board.",
+        "pt-BR": "Seu nível é insuficiente para usar este quadro de missões.",
+        "es-ES": "No puedes usar este tablero porque tu nivel es insuficiente."
+    },
+    "poeYDQ": {
+        "en-US": "View Individual Requests",
+        "pt-BR": "Ver missões individualmente",
+        "es-ES": "Ver encargos individuales"
+    },
+    "p4eYDQ": {
+        "en-US": "Report Completed Requests",
+        "pt-BR": "Reportar missões concluídas",
+        "es-ES": "Informar encargos completados"
+    },
+    "qIeYDQ": {
+        "en-US": "Accept All Requests",
+        "pt-BR": "Aceitar todas as missões",
+        "es-ES": "Aceptar todos los encargos"
+    },
+    "qYeYDQ": {
+        "en-US": "[Processing completed requests.]",
+        "pt-BR": "[Missões Concluídas]",
+        "es-ES": "[Se están procesando los encargos.]"
+    },
+    "qoeYDQ": {
+        "en-US": "Completed <Take Out the Radio Operator First>.",
+        "pt-BR": "[Menina Gótica] - missão concluída.",
+        "es-ES": "<Primero, el de la radio> completado."
+    },
+    "q4eYDQ": {
+        "en-US": "Completed <Demon Purification>.",
+        "pt-BR": "[Purificar o Mal] - missão concluída.",
+        "es-ES": "<Purificación demoníaca> completado."
+    },
+    "rIeYDQ": {
+        "en-US": "Completed <Before You Are Bewitched>.",
+        "pt-BR": "[Seres Gelatinosos] - missão concluída.",
+        "es-ES": "<Antes de caer en el engaño> completado."
+    },
+    "rYeYDQ": {
+        "en-US": "Completed <Dragon of the Lake>.",
+        "pt-BR": "[Dragões do Lago] - missão concluída.",
+        "es-ES": "<El dragón del lago> completado."
+    },
+    "roeYDQ": {
+        "en-US": "Completed <Wyvern of the Lake>.",
+        "pt-BR": "[Dragões do Subsolo] - missão concluída.",
+        "es-ES": "<El wyvern del lago> completado."
+    },
+    "r4eYDQ": {
+        "en-US": "Completed <Three-Headed Dragon of the Lake>.",
+        "pt-BR": "[Dragão do Tesouro] - missão concluída.",
+        "es-ES": "<El dragón de tres cabezas del lago> completado."
+    },
+    "sIeYDQ": {
+        "en-US": "Completed <Surveillance and Punishment>.",
+        "pt-BR": "[Punição Angelical] - missão concluída.",
+        "es-ES": "<Vigilancia y castigo> completado."
+    },
+    "sYeYDQ": {
+        "en-US": "Completed <Sweet Poison>.",
+        "pt-BR": "[Som Angelical] - missão concluída.",
+        "es-ES": "<Dulce veneno> completado."
+    },
+    "soeYDQ": {
+        "en-US": "Completed <Rest Through Death>.",
+        "pt-BR": "[Descanso Angelical] - missão concluída.",
+        "es-ES": "<Descanso mediante Muerte> completado."
+    },
+    "s4eYDQ": {
+        "en-US": "Completed <Seed of Control>.",
+        "pt-BR": "[Vigia Angelical] - missão concluída.",
+        "es-ES": "<La semilla del control> completado."
+    },
+    "tIeYDQ": {
+        "en-US": "Completed <Venomous Insect>.",
+        "pt-BR": "[Alerta Venenoso] - missão concluída.",
+        "es-ES": "<El insecto venenoso> completado."
+    },
+    "tYeYDQ": {
+        "en-US": "Completed <Incompetent Slacker>.",
+        "pt-BR": "[Animal Pateta] - missão concluída.",
+        "es-ES": "<El holgazán incompetente> completado."
+    },
+    "toeYDQ": {
+        "en-US": "Completed <Nameless Island Purification>.",
+        "pt-BR": "[Irmãos Zumbis] - missão concluída.",
+        "es-ES": "<Purificación de la Isla Sin Nombre> completado."
+    },
+    "t4eYDQ": {
+        "en-US": "Completed <Cry, Cry, and Cry Again>.",
+        "pt-BR": "[Gritos e mais Gritos] - missão concluída.",
+        "es-ES": "<Llorar, llorar y volver a llorar> completado."
+    },
+    "uIeYDQ": {
+        "en-US": "Completed <Master of the Dead Marionette>.",
+        "pt-BR": "[Controle dos Mortos] - missão concluída.",
+        "es-ES": "<El dueño de la Marioneta muerta> completado."
+    },
+    "uYeYDQ": {
+        "en-US": "Completed <Temple Sanctuary West Area Purification>.",
+        "pt-BR": "[Limpe a Ala Oeste] - missão concluída.",
+        "es-ES": "<Purificación de la zona oeste del Santuario del Templo> completado."
+    },
+    "uoeYDQ": {
+        "en-US": "Completed <Temple Sanctuary East Area Purification>.",
+        "pt-BR": "[Limpe a Ala Leste] - missão concluída.",
+        "es-ES": "<Purificación de la zona este del Santuario del Templo> completado."
+    },
+    "u4eYDQ": {
+        "en-US": "Completed <Temple Sanctuary South Area Purification>.",
+        "pt-BR": "[Limpe a Ala Sul] - missão concluída.",
+        "es-ES": "<Purificación de la zona sur del Santuario del Templo> completado."
+    },
+    "vIeYDQ": {
+        "en-US": "Completed <Dream Demon Research>.",
+        "pt-BR": "[Demônios dos Sonhos] - missão concluída.",
+        "es-ES": "<Investigación sobre el demonio onírico> completado."
+    },
+    "vYeYDQ": {
+        "en-US": "Completed <Egnigem Cenia>.",
+        "pt-BR": "[Cobaia Espadachim] - missão concluída.",
+        "es-ES": "<Egnigem Cenia> completado."
+    },
+    "voeYDQ": {
+        "en-US": "Completed <Armeyer Dinze>.",
+        "pt-BR": "[Cobaia Mercadora] - missão concluída.",
+        "es-ES": "<Armeyer Dinze> completado."
+    },
+    "v4eYDQ": {
+        "en-US": "Completed <Wickebine Tres>.",
+        "pt-BR": "[Cobaia Gatuna] - missão concluída.",
+        "es-ES": "<Wickebine Tres> completado."
+    },
+    "wIeYDQ": {
+        "en-US": "Completed <Kibak Icarus>.",
+        "pt-BR": "[Cobaia Arqueiro] - missão concluída.",
+        "es-ES": "<Kivak Icarus> completado."
+    },
+    "wYeYDQ": {
+        "en-US": "Completed <Errende Ebecee>.",
+        "pt-BR": "[Cobaia Noviço] - missão concluída.",
+        "es-ES": "<Errende Ebecee> completado."
+    },
+    "woeYDQ": {
+        "en-US": "Completed <Laurell Weinder>.",
+        "pt-BR": "[Cobaia Mago] - missão concluída.",
+        "es-ES": "<Laurell Weinder> completado."
+    },
+    "w4eYDQ": {
+        "en-US": "Completed <Looks Are Just a Shell>.",
+        "pt-BR": "[Parece uma Joia] - missão concluída.",
+        "es-ES": "<La apariencia es solo una fachada> completado."
+    },
+    "xIeYDQ": {
+        "en-US": "Completed <Snap Off the Single Horn>.",
+        "pt-BR": "[Um Único Chifre] - missão concluída.",
+        "es-ES": "<Romper el cuerno único> completado."
+    },
+    "xYeYDQ": {
+        "en-US": "Completed <Break Off the Twin Horns>.",
+        "pt-BR": "[São Dois Chifres] - missão concluída.",
+        "es-ES": "<Partir los cuernos gemelos> completado."
+    },
+    "xoeYDQ": {
+        "en-US": "Completed <Crunch the Antlers>.",
+        "pt-BR": "[Chifres de Galho] - missão concluída.",
+        "es-ES": "<Quebrar las astas de ciervo> completado."
+    },
+    "x4eYDQ": {
+        "en-US": "Completed <Crack the Rake Horns>.",
+        "pt-BR": "[Chifres de Pinça] - missão concluída.",
+        "es-ES": "<Destrozar los cuernos en forma de rastrillo> completado."
+    },
+    "yIeYDQ": {
+        "en-US": "Completed <Fluffy Little One>.",
+        "pt-BR": "[Carinha Felpudo] - missão concluída.",
+        "es-ES": "<El pequeño peludo> completado."
+    },
+    "yYeYDQ": {
+        "en-US": "Completed <Little Troublemaker>.",
+        "pt-BR": "[Fada Travessa] - missão concluída.",
+        "es-ES": "<El pequeño travieso> completado."
+    },
+    "yoeYDQ": {
+        "en-US": "Completed <Angelic Form>.",
+        "pt-BR": "[Forma de Anjo] - missão concluída.",
+        "es-ES": "<La figura de un ángel> completado."
+    },
+    "y4eYDQ": {
+        "en-US": "Completed <Blessing of Rest>.",
+        "pt-BR": "[Forma de Lama] - missão concluída.",
+        "es-ES": "<La bendición del descanso> completado."
+    },
+    "zIeYDQ": {
+        "en-US": "Completed <Joy of Servitude>.",
+        "pt-BR": "[Forma Humana] - missão concluída.",
+        "es-ES": "<La alegría de la servidumbre> completado."
+    },
+    "zYeYDQ": {
+        "en-US": "Completed <Embodiment of Purity>.",
+        "pt-BR": "[Forma Fantasma] - missão concluída.",
+        "es-ES": "<La encarnación de la pureza> completado."
+    },
+    "zoeYDQ": {
+        "en-US": "Completed <Cecil Damon>.",
+        "pt-BR": "[Cobaia Atiradora] - missão concluída.",
+        "es-ES": "<Cecil Damon> completado."
+    },
+    "z4eYDQ": {
+        "en-US": "Completed <Kathryne Keyron>.",
+        "pt-BR": "[Cobaia Arquimaga] - missão concluída.",
+        "es-ES": "<Kathryne Keyron> completado."
+    },
+    "0IeYDQ": {
+        "en-US": "Completed <Margaretha Sorin>.",
+        "pt-BR": "[Cobaia Sacerdotisa] - missão concluída.",
+        "es-ES": "<Margarita Sorin> completado."
+    },
+    "0YeYDQ": {
+        "en-US": "Completed <Seyren Windsor>.",
+        "pt-BR": "[Cobaia Lorde] - missão concluída.",
+        "es-ES": "<Seyren Windsor> completado."
+    },
+    "0oeYDQ": {
+        "en-US": "Completed <Eremes Guile>.",
+        "pt-BR": "[Cobaia Algoz] - missão concluída.",
+        "es-ES": "<Astucia de Eremes> completado."
+    },
+    "04eYDQ": {
+        "en-US": "Completed <Howard Alt-Eisen>.",
+        "pt-BR": "[Cobaia Ferreiro] - missão concluída.",
+        "es-ES": "<Howard Alteisen> completado."
+    },
+    "1IeYDQ": {
+        "en-US": "Completed <Morroc's Harassment>.",
+        "pt-BR": "[Animais de Fogo] - missão concluída.",
+        "es-ES": "<El acoso de Morroc> completado."
+    },
+    "1YeYDQ": {
+        "en-US": "Completed <Morroc's Schemes>.",
+        "pt-BR": "[Criaturas de Fogo] - missão concluída.",
+        "es-ES": "<Las artimañas de Morroc> completado."
+    },
+    "1oeYDQ": {
+        "en-US": "Processed a total of {0} completed requests.",
+        "pt-BR": "Você concluiu {0} missões.",
+        "es-ES": "Se procesaron un total de {0} encargos completados."
+    },
+    "14eYDQ": {
+        "en-US": "All Available Requests",
+        "pt-BR": "Todas as Missões Disponíveis",
+        "es-ES": "Todos los encargos disponibles"
+    },
+    "2IeYDQ": {
+        "en-US": "120 Level Requests",
+        "pt-BR": "Missões de nível 120",
+        "es-ES": "Encargos de 120 nivel"
+    },
+    "2YeYDQ": {
+        "en-US": "130 Level Requests",
+        "pt-BR": "Missões de nível 130",
+        "es-ES": "Encargos de 130 nivel"
+    },
+    "2oeYDQ": {
+        "en-US": "140 Level Requests",
+        "pt-BR": "Missões de nível 140",
+        "es-ES": "Encargos de 140 nivel"
+    },
+    "24eYDQ": {
+        "en-US": "You have accepted all available requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis.",
+        "es-ES": "Se aceptaron todos los encargos disponibles."
+    },
+    "3IeYDQ": {
+        "en-US": "You have accepted all available 120 Level requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 120",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 120 nivel."
+    },
+    "3YeYDQ": {
+        "en-US": "You have accepted all available 130 Level requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 130",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 130 nivel."
+    },
+    "3oeYDQ": {
+        "en-US": "You have accepted all available 140 Level requests.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 140",
+        "es-ES": "Se aceptaron todos los encargos disponibles de 140 nivel."
+    },
+    "34eYDQ": {
+        "en-US": "[Accepting requests.]",
+        "pt-BR": "[Aceitando Missões]",
+        "es-ES": "[Se están aceptando los encargos.]"
+    },
+    "4IeYDQ": {
+        "en-US": "[120] From the Radio Operator",
+        "pt-BR": "[120] Menina Gótica",
+        "es-ES": "[120] Del operador de radio"
+    },
+    "4YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "4oeYDQ": {
+        "en-US": "[120] Demon Purification",
+        "pt-BR": "[120] Purificar o Mal",
+        "es-ES": "[120] Purificación de demonios"
+    },
+    "44eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "5IeYDQ": {
+        "en-US": "[120] Before being deceived",
+        "pt-BR": "[120] Seres Gelatinosos",
+        "es-ES": "[120] Antes de ser engañado"
+    },
+    "5YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "5oeYDQ": {
+        "en-US": "[120] Dragon in the Lake",
+        "pt-BR": "[120] Dragões do Lago",
+        "es-ES": "[120] Dragón en el lago"
+    },
+    "54eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "6IeYDQ": {
+        "en-US": "[120] Drake of the Lake",
+        "pt-BR": "[120] Dragões do Subsolo",
+        "es-ES": "[120] Drake del lago"
+    },
+    "6YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "6oeYDQ": {
+        "en-US": "[120] Three-Headed Dragon of the Lake",
+        "pt-BR": "[120] Dragão do Tesouro",
+        "es-ES": "[120] Dragón de tres cabezas del lago"
+    },
+    "64eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "7IeYDQ": {
+        "en-US": "[120] Surveillance and Punishment",
+        "pt-BR": "[120] Punição Angelical",
+        "es-ES": "[120] Vigilancia y castigo"
+    },
+    "7YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "7oeYDQ": {
+        "en-US": "[120] Sweet Poison",
+        "pt-BR": "[120] Som Angelical",
+        "es-ES": "[120] Dulce veneno"
+    },
+    "74eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "8IeYDQ": {
+        "en-US": "[120] Rest in Death",
+        "pt-BR": "[120] Descanso Angelical",
+        "es-ES": "[120] Descanso en la muerte"
+    },
+    "8YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "8oeYDQ": {
+        "en-US": "[120] Seeds of Control",
+        "pt-BR": "[120] Vigia Angelical",
+        "es-ES": "[120] Semillas de control"
+    },
+    "84eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "9IeYDQ": {
+        "en-US": "[120] Poisonous Bug",
+        "pt-BR": "[120] Alerta Venenoso",
+        "es-ES": "[120] Insecto venenoso"
+    },
+    "9YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "9oeYDQ": {
+        "en-US": "[120] Incompetent lazy person",
+        "pt-BR": "[120] Animal Pateta",
+        "es-ES": "[120] Incompetente y negligente"
+    },
+    "94eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "+IeYDQ": {
+        "en-US": "[120] Nameless Island Purification",
+        "pt-BR": "[120] Irmãos Zumbis",
+        "es-ES": "[120] Purificación de la Isla Anónima"
+    },
+    "+YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "+oeYDQ": {
+        "en-US": "[120] Cry, cry, cry again",
+        "pt-BR": "[120] Gritos e mais Gritos",
+        "es-ES": "[120] Llorar, llorar, volver a llorar"
+    },
+    "+4eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "/IeYDQ": {
+        "en-US": "[120] The master of the dead marionette",
+        "pt-BR": "[120] Controle dos Mortos",
+        "es-ES": "[120] El maestro de la marioneta muerta"
+    },
+    "/YeYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "/oeYDQ": {
+        "en-US": "[120] Sanctuary Cleansing - West",
+        "pt-BR": "[120] Limpe a Ala Oeste",
+        "es-ES": "[120] Limpieza del santuario: oeste"
+    },
+    "/4eYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "AIiYDQ": {
+        "en-US": "[120] Sanctuary Cleansing - East",
+        "pt-BR": "[120] Limpe a Ala Leste",
+        "es-ES": "[120] Limpieza del santuario: este"
+    },
+    "AYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "AoiYDQ": {
+        "en-US": "[120] Sanctuary Cleansing - South",
+        "pt-BR": "[120] Limpe a Ala Sul",
+        "es-ES": "[120] Limpieza del santuario: sur"
+    },
+    "A4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "BIiYDQ": {
+        "en-US": "[120] Dream Demon Research",
+        "pt-BR": "[120] Demônios dos Sonhos",
+        "es-ES": "[120] Investigación sobre el demonio del sueño"
+    },
+    "BYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "BoiYDQ": {
+        "en-US": "[130] Egnigem Cenia",
+        "pt-BR": "[130] Cobaia Espadachim",
+        "es-ES": "[130] Egnigem Cenia"
+    },
+    "B4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "CIiYDQ": {
+        "en-US": "[130] Armeyer Dinze",
+        "pt-BR": "[130] Cobaia Mercadora",
+        "es-ES": "[130] Armeyer Dinze"
+    },
+    "CYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "CoiYDQ": {
+        "en-US": "[130] Wickebine Tres",
+        "pt-BR": "[130] Cobaia Gatuna",
+        "es-ES": "[130] Wickebine Tres"
+    },
+    "C4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "DIiYDQ": {
+        "en-US": "[130] Kavach Icarus",
+        "pt-BR": "[130] Cobaia Arqueiro",
+        "es-ES": "[130] Kavach Icarus"
+    },
+    "DYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "DoiYDQ": {
+        "en-US": "[130] Errende Ebecee",
+        "pt-BR": "[130] Cobaia Noviço",
+        "es-ES": "[130] Errende Ebecee"
+    },
+    "D4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "EIiYDQ": {
+        "en-US": "[130] Laurell Weinder",
+        "pt-BR": "[130] Cobaia Mago",
+        "es-ES": "[130] Laurell Weinder"
+    },
+    "EYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "EoiYDQ": {
+        "en-US": "[130] Appearance can be deceiving",
+        "pt-BR": "[130] Parece uma Joia",
+        "es-ES": "[130] Las apariencias engañan"
+    },
+    "E4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "FIiYDQ": {
+        "en-US": "[130] Snap one's horn",
+        "pt-BR": "[130] Um Único Chifre",
+        "es-ES": "[130] Romper tu propio cuerno"
+    },
+    "FYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "FoiYDQ": {
+        "en-US": "[130] Twin Horns",
+        "pt-BR": "[130] São Dois Chifres",
+        "es-ES": "[130] Cuernos gemelos"
+    },
+    "F4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "GIiYDQ": {
+        "en-US": "[130] Steer the deer's antlers",
+        "pt-BR": "[130] Chifres de Galho",
+        "es-ES": "[130] Guiar las astas del ciervo"
+    },
+    "GYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "GoiYDQ": {
+        "en-US": "[130] Crunching the claws",
+        "pt-BR": "[130] Chifres de Pinça",
+        "es-ES": "[130] Crujir de garras"
+    },
+    "G4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "HIiYDQ": {
+        "en-US": "[130] Fluffy Kid",
+        "pt-BR": "[130] Carinha Felpudo",
+        "es-ES": "[130] Pequeñín mullido"
+    },
+    "HYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "HoiYDQ": {
+        "en-US": "[130] Little Prankster",
+        "pt-BR": "[130] Fada Travessa",
+        "es-ES": "[130] Pequeño bromista"
+    },
+    "H4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "IIiYDQ": {
+        "en-US": "[130] Angel Shape",
+        "pt-BR": "[130] Forma de Anjo",
+        "es-ES": "[130] Forma de ángel"
+    },
+    "IYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "IoiYDQ": {
+        "en-US": "[130] Blessing of Rest",
+        "pt-BR": "[130] Forma de Lama",
+        "es-ES": "[130] Bendición del descanso"
+    },
+    "I4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "JIiYDQ": {
+        "en-US": "[130] The Joy of Servitude",
+        "pt-BR": "[130] Forma Humana",
+        "es-ES": "[130] La alegría de la servidumbre"
+    },
+    "JYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "JoiYDQ": {
+        "en-US": "[130] Embodiment of Purity",
+        "pt-BR": "[130] Forma Fantasma",
+        "es-ES": "[130] Encarnación de la pureza"
+    },
+    "J4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "KIiYDQ": {
+        "en-US": "[140] Cecil Damon",
+        "pt-BR": "[140] Cobaia Atiradora",
+        "es-ES": "[140] Cecil Damon"
+    },
+    "KYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "KoiYDQ": {
+        "en-US": "[140] Kathryne Keyron",
+        "pt-BR": "[140] Cobaia Arquimaga",
+        "es-ES": "[140] Kathryne Keyron"
+    },
+    "K4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "LIiYDQ": {
+        "en-US": "[140] Margaretha Sorin",
+        "pt-BR": "[140] Cobaia Sacerdotisa",
+        "es-ES": "[140] Margarita Sorin"
+    },
+    "LYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "LoiYDQ": {
+        "en-US": "[140] Seyren Windsor",
+        "pt-BR": "[140] Cobaia Lorde",
+        "es-ES": "[140] Seyren Windsor"
+    },
+    "L4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "MIiYDQ": {
+        "en-US": "[140] Eremes Guile",
+        "pt-BR": "[140] Cobaia Algoz",
+        "es-ES": "[140] Eremes Guile"
+    },
+    "MYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "MoiYDQ": {
+        "en-US": "[140] Howard Alteisen",
+        "pt-BR": "[140] Cobaia Ferreiro",
+        "es-ES": "[140] Howard Alteisen"
+    },
+    "M4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "NIiYDQ": {
+        "en-US": "[140] Morroc's Harassment",
+        "pt-BR": "[140] Animais de Fogo",
+        "es-ES": "[140] El acoso de Morroc"
+    },
+    "NYiYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "NoiYDQ": {
+        "en-US": "[140] Morroc's Trick",
+        "pt-BR": "[140] Criaturas de Fogo",
+        "es-ES": "[140] El truco de Morroc"
+    },
+    "N4iYDQ": {
+        "en-US": "Request {0} Accepted",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "OIiYDQ": {
+        "en-US": "{0}",
+        "pt-BR": "{0}",
+        "es-ES": "{0}"
+    },
+    "OYiYDQ": {
+        "en-US": "^8C8C8CTake Out the Radio Operator First (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Menina Gótica^000000",
+        "es-ES": "^8C8C8CPrimero, el de la radio(en curso)^000000"
+    },
+    "OoiYDQ": {
+        "en-US": "^8C8C8CTake Out the Radio Operator First (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Menina Gótica^000000",
+        "es-ES": "^8C8C8CPrimero, el de la radio(en espera)^000000"
+    },
+    "O4iYDQ": {
+        "en-US": "^8C8C8CDemon Purification (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Purificar o Mal^000000",
+        "es-ES": "^8C8C8CPurificación demoníaca(en curso)^000000"
+    },
+    "PIiYDQ": {
+        "en-US": "^8C8C8CDemon Purification (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Purificar o Mal^000000",
+        "es-ES": "^8C8C8CPurificación demoníaca(en espera)^000000"
+    },
+    "PYiYDQ": {
+        "en-US": "^8C8C8CBefore You Are Bewitched (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Seres Gelatinosos^000000",
+        "es-ES": "^8C8C8CAntes de caer en el engaño(en curso)^000000"
+    },
+    "PoiYDQ": {
+        "en-US": "^8C8C8CBefore You Are Bewitched (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Seres Gelatinosos^000000",
+        "es-ES": "^8C8C8CAntes de caer en el engaño(en espera)^000000"
+    },
+    "P4iYDQ": {
+        "en-US": "^8C8C8CDragon of the Lake (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Dragões do Lago^000000",
+        "es-ES": "^8C8C8CEl dragón del lago(en curso)^000000"
+    },
+    "QIiYDQ": {
+        "en-US": "^8C8C8CDragon of the Lake (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Dragões do Lago^000000",
+        "es-ES": "^8C8C8CEl dragón del lago(en espera)^000000"
+    },
+    "QYiYDQ": {
+        "en-US": "^8C8C8CWyvern of the Lake (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Dragões do Subsolo^000000",
+        "es-ES": "^8C8C8CEl wyvern del lago(en curso)^000000"
+    },
+    "QoiYDQ": {
+        "en-US": "^8C8C8CWyvern of the Lake (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Dragões do Subsolo^000000",
+        "es-ES": "^8C8C8CEl wyvern del lago(en espera)^000000"
+    },
+    "Q4iYDQ": {
+        "en-US": "^8C8C8CThree-Headed Dragon of the Lake (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Dragão do Tesouro^000000",
+        "es-ES": "^8C8C8CEl dragón de tres cabezas del lago(en curso)^000000"
+    },
+    "RIiYDQ": {
+        "en-US": "^8C8C8CThree-Headed Dragon of the Lake (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Dragão do Tesouro^000000",
+        "es-ES": "^8C8C8CEl dragón de tres cabezas del lago(en espera)^000000"
+    },
+    "RYiYDQ": {
+        "en-US": "^8C8C8CSurveillance and Punishment (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Punição Angelical^000000",
+        "es-ES": "^8C8C8CVigilancia y castigo(en curso)^000000"
+    },
+    "RoiYDQ": {
+        "en-US": "^8C8C8CSurveillance and Punishment (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Punição Angelical^000000",
+        "es-ES": "^8C8C8CVigilancia y castigo(en espera)^000000"
+    },
+    "R4iYDQ": {
+        "en-US": "^8C8C8CSweet Poison (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Som Angelical^000000",
+        "es-ES": "^8C8C8CDulce veneno(en curso)^000000"
+    },
+    "SIiYDQ": {
+        "en-US": "^8C8C8CSweet Poison (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Som Angelical^000000",
+        "es-ES": "^8C8C8CDulce veneno(en espera)^000000"
+    },
+    "SYiYDQ": {
+        "en-US": "^8C8C8CRest Through Death (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Descanso Angelical^000000",
+        "es-ES": "^8C8C8CDescanso mediante Muerte(en curso)^000000"
+    },
+    "SoiYDQ": {
+        "en-US": "^8C8C8CRest Through Death (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Descanso Angelical^000000",
+        "es-ES": "^8C8C8CDescanso mediante Muerte(en espera)^000000"
+    },
+    "S4iYDQ": {
+        "en-US": "^8C8C8CSeed of Control (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Vigia Angelical^000000",
+        "es-ES": "^8C8C8CLa semilla del control(en curso)^000000"
+    },
+    "TIiYDQ": {
+        "en-US": "^8C8C8CSeed of Control (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Vigia Angelical^000000",
+        "es-ES": "^8C8C8CLa semilla del control(en espera)^000000"
+    },
+    "TYiYDQ": {
+        "en-US": "^8C8C8CVenomous Insect (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Alerta Venenoso^000000",
+        "es-ES": "^8C8C8CEl insecto venenoso(en curso)^000000"
+    },
+    "ToiYDQ": {
+        "en-US": "^8C8C8CVenomous Insect (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Alerta Venenoso^000000",
+        "es-ES": "^8C8C8CEl insecto venenoso(en espera)^000000"
+    },
+    "T4iYDQ": {
+        "en-US": "^8C8C8CIncompetent Slacker (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Animal Pateta^000000",
+        "es-ES": "^8C8C8CEl holgazán incompetente(en curso)^000000"
+    },
+    "UIiYDQ": {
+        "en-US": "^8C8C8CIncompetent Slacker (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Animal Pateta^000000",
+        "es-ES": "^8C8C8CEl holgazán incompetente(en espera)^000000"
+    },
+    "UYiYDQ": {
+        "en-US": "^8C8C8CNameless Island Purification (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Irmãos Zumbis^000000",
+        "es-ES": "^8C8C8CPurificación de la Isla Sin Nombre(en curso)^000000"
+    },
+    "UoiYDQ": {
+        "en-US": "^8C8C8CNameless Island Purification (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Irmãos Zumbis^000000",
+        "es-ES": "^8C8C8CPurificación de la Isla Sin Nombre(en espera)^000000"
+    },
+    "U4iYDQ": {
+        "en-US": "^8C8C8CCry, Cry, and Cry Again (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Gritos e mais Gritos^000000",
+        "es-ES": "^8C8C8CLlorar, llorar y volver a llorar(en curso)^000000"
+    },
+    "VIiYDQ": {
+        "en-US": "^8C8C8CCry, Cry, and Cry Again (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Gritos e mais Gritos^000000",
+        "es-ES": "^8C8C8CLlorar, llorar y volver a llorar(en espera)^000000"
+    },
+    "VYiYDQ": {
+        "en-US": "^8C8C8CMaster of the Dead Marionette (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Controle dos Mortos^000000",
+        "es-ES": "^8C8C8CEl dueño de la Marioneta muerta(en curso)^000000"
+    },
+    "VoiYDQ": {
+        "en-US": "^8C8C8CMaster of the Dead Marionette (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Controle dos Mortos^000000",
+        "es-ES": "^8C8C8CEl dueño de la Marioneta muerta(en espera)^000000"
+    },
+    "V4iYDQ": {
+        "en-US": "^8C8C8CTemple Sanctuary West Area Purification (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Limpe a Ala Oeste^000000",
+        "es-ES": "^8C8C8CPurificación de la zona oeste del Santuario del Templo(en curso)^000000"
+    },
+    "WIiYDQ": {
+        "en-US": "^8C8C8CTemple Sanctuary West Area Purification (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Limpe a Ala Oeste^000000",
+        "es-ES": "^8C8C8CPurificación de la zona oeste del Santuario del Templo(en espera)^000000"
+    },
+    "WYiYDQ": {
+        "en-US": "^8C8C8CTemple Sanctuary East Area Purification (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Limpe a Ala Leste^000000",
+        "es-ES": "^8C8C8CPurificación de la zona este del Santuario del Templo(en curso)^000000"
+    },
+    "WoiYDQ": {
+        "en-US": "^8C8C8CTemple Sanctuary East Area Purification (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Limpe a Ala Leste^000000",
+        "es-ES": "^8C8C8CPurificación de la zona este del Santuario del Templo(en espera)^000000"
+    },
+    "W4iYDQ": {
+        "en-US": "^8C8C8CTemple Sanctuary South Area Purification (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Limpe a Ala Sul^000000",
+        "es-ES": "^8C8C8CPurificación de la zona sur del Santuario del Templo(en curso)^000000"
+    },
+    "XIiYDQ": {
+        "en-US": "^8C8C8CTemple Sanctuary South Area Purification (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Limpe a Ala Sul^000000",
+        "es-ES": "^8C8C8CPurificación de la zona sur del Santuario del Templo(en espera)^000000"
+    },
+    "XYiYDQ": {
+        "en-US": "^8C8C8CDream Demon Research (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Demônios dos Sonhos^000000",
+        "es-ES": "^8C8C8CInvestigación sobre el demonio onírico(en curso)^000000"
+    },
+    "XoiYDQ": {
+        "en-US": "^8C8C8CDream Demon Research (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Demônios dos Sonhos^000000",
+        "es-ES": "^8C8C8CInvestigación sobre el demonio onírico(en espera)^000000"
+    },
+    "X4iYDQ": {
+        "en-US": "^8C8C8CEgnigem Cenia (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Espadachim^000000",
+        "es-ES": "^8C8C8CEgnigem Cenia(en curso)^000000"
+    },
+    "YIiYDQ": {
+        "en-US": "^8C8C8CEgnigem Cenia (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Espadachim^000000",
+        "es-ES": "^8C8C8CEgnigem Cenia(en espera)^000000"
+    },
+    "YYiYDQ": {
+        "en-US": "^8C8C8CArmeyer Dinze (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Mercadora^000000",
+        "es-ES": "^8C8C8CArmeyer Dinze(en curso)^000000"
+    },
+    "YoiYDQ": {
+        "en-US": "^8C8C8CArmeyer Dinze (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Mercadora^000000",
+        "es-ES": "^8C8C8CArmeyer Dinze(en espera)^000000"
+    },
+    "Y4iYDQ": {
+        "en-US": "^8C8C8CWickebine Tres (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Gatuna^000000",
+        "es-ES": "^8C8C8CWickebine Tres(en curso)^000000"
+    },
+    "ZIiYDQ": {
+        "en-US": "^8C8C8CWickebine Tres (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Gatuna^000000",
+        "es-ES": "^8C8C8CWickebine Tres(en espera)^000000"
+    },
+    "ZYiYDQ": {
+        "en-US": "^8C8C8CKibak Icarus (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Arqueiro^000000",
+        "es-ES": "^8C8C8CKivak Icarus(en curso)^000000"
+    },
+    "ZoiYDQ": {
+        "en-US": "^8C8C8CKibak Icarus (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Arqueiro^000000",
+        "es-ES": "^8C8C8CKivak Icarus(en espera)^000000"
+    },
+    "Z4iYDQ": {
+        "en-US": "^8C8C8CErrende Ebecee (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Noviço^000000",
+        "es-ES": "^8C8C8CErrende Ebecee(en curso)^000000"
+    },
+    "aIiYDQ": {
+        "en-US": "^8C8C8CErrende Ebecee (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Noviço^000000",
+        "es-ES": "^8C8C8CErrende Ebecee(en espera)^000000"
+    },
+    "aYiYDQ": {
+        "en-US": "^8C8C8CLaurell Weinder (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Mago^000000",
+        "es-ES": "^8C8C8CLaurell Weinder(en curso)^000000"
+    },
+    "aoiYDQ": {
+        "en-US": "^8C8C8CLaurell Weinder (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Mago^000000",
+        "es-ES": "^8C8C8CLaurell Weinder(en espera)^000000"
+    },
+    "a4iYDQ": {
+        "en-US": "^8C8C8CLooks Are Just a Shell (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Parece uma Joia^000000",
+        "es-ES": "^8C8C8CLa apariencia es solo una fachada(en curso)^000000"
+    },
+    "bIiYDQ": {
+        "en-US": "^8C8C8CLooks Are Just a Shell (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Parece uma Joia^000000",
+        "es-ES": "^8C8C8CLa apariencia es solo una fachada(en espera)^000000"
+    },
+    "bYiYDQ": {
+        "en-US": "^8C8C8CSnap Off the Single Horn (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Um Único Chifre^000000",
+        "es-ES": "^8C8C8CRomper el cuerno único(en curso)^000000"
+    },
+    "boiYDQ": {
+        "en-US": "^8C8C8CSnap Off the Single Horn (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Um Único Chifre^000000",
+        "es-ES": "^8C8C8CRomper el cuerno único(en espera)^000000"
+    },
+    "b4iYDQ": {
+        "en-US": "^8C8C8CBreak Off the Twin Horns (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) São Dois Chifres^000000",
+        "es-ES": "^8C8C8CPartir los cuernos gemelos(en curso)^000000"
+    },
+    "cIiYDQ": {
+        "en-US": "^8C8C8CBreak Off the Twin Horns (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) São Dois Chifres^000000",
+        "es-ES": "^8C8C8CPartir los cuernos gemelos(en espera)^000000"
+    },
+    "cYiYDQ": {
+        "en-US": "^8C8C8CCrunch the Antlers (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Chifres de Galho^000000",
+        "es-ES": "^8C8C8CQuebrar las astas de ciervo(en curso)^000000"
+    },
+    "coiYDQ": {
+        "en-US": "^8C8C8CCrunch the Antlers (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Chifres de Galho^000000",
+        "es-ES": "^8C8C8CQuebrar las astas de ciervo(en espera)^000000"
+    },
+    "c4iYDQ": {
+        "en-US": "^8C8C8CCrack the Rake Horns (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Chifres de Pinça^000000",
+        "es-ES": "^8C8C8CDestrozar los cuernos en forma de rastrillo(en curso)^000000"
+    },
+    "dIiYDQ": {
+        "en-US": "^8C8C8CCrack the Rake Horns (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Chifres de Pinça^000000",
+        "es-ES": "^8C8C8CDestrozar los cuernos en forma de rastrillo(en espera)^000000"
+    },
+    "dYiYDQ": {
+        "en-US": "^8C8C8CFluffy Little One (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Carinha Felpudo^000000",
+        "es-ES": "^8C8C8CEl pequeño peludo(en curso)^000000"
+    },
+    "doiYDQ": {
+        "en-US": "^8C8C8CFluffy Little One (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Carinha Felpudo^000000",
+        "es-ES": "^8C8C8CEl pequeño peludo(en espera)^000000"
+    },
+    "d4iYDQ": {
+        "en-US": "^8C8C8CLittle Troublemaker (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Fada Travessa^000000",
+        "es-ES": "^8C8C8CEl pequeño travieso(en curso)^000000"
+    },
+    "eIiYDQ": {
+        "en-US": "^8C8C8CLittle Troublemaker (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Fada Travessa^000000",
+        "es-ES": "^8C8C8CEl pequeño travieso(en espera)^000000"
+    },
+    "eYiYDQ": {
+        "en-US": "^8C8C8CAngelic Form (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Forma de Anjo^000000",
+        "es-ES": "^8C8C8CLa figura de un ángel(en curso)^000000"
+    },
+    "eoiYDQ": {
+        "en-US": "^8C8C8CAngelic Form (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Forma de Anjo^000000",
+        "es-ES": "^8C8C8CLa figura de un ángel(en espera)^000000"
+    },
+    "e4iYDQ": {
+        "en-US": "^8C8C8CBlessing of Rest (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Forma de Lama^000000",
+        "es-ES": "^8C8C8CLa bendición del descanso(en curso)^000000"
+    },
+    "fIiYDQ": {
+        "en-US": "^8C8C8CBlessing of Rest (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Forma de Lama^000000",
+        "es-ES": "^8C8C8CLa bendición del descanso(en espera)^000000"
+    },
+    "fYiYDQ": {
+        "en-US": "^8C8C8CJoy of Servitude (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Forma Humana^000000",
+        "es-ES": "^8C8C8CLa alegría de la servidumbre(en curso)^000000"
+    },
+    "foiYDQ": {
+        "en-US": "^8C8C8CJoy of Servitude (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Forma Humana^000000",
+        "es-ES": "^8C8C8CLa alegría de la servidumbre(en espera)^000000"
+    },
+    "f4iYDQ": {
+        "en-US": "^8C8C8CEmbodiment of Purity (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Forma Fantasma^000000",
+        "es-ES": "^8C8C8CLa encarnación de la pureza(en curso)^000000"
+    },
+    "gIiYDQ": {
+        "en-US": "^8C8C8CEmbodiment of Purity (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Forma Fantasma^000000",
+        "es-ES": "^8C8C8CLa encarnación de la pureza(en espera)^000000"
+    },
+    "gYiYDQ": {
+        "en-US": "^8C8C8CCecil Damon (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Atiradora^000000",
+        "es-ES": "^8C8C8CCecil Damon(en curso)^000000"
+    },
+    "goiYDQ": {
+        "en-US": "^8C8C8CCecil Damon (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Atiradora^000000",
+        "es-ES": "^8C8C8CCecil Damon(en espera)^000000"
+    },
+    "g4iYDQ": {
+        "en-US": "^8C8C8CKathryne Keyron (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Arquimaga^000000",
+        "es-ES": "^8C8C8CKathryne Keyron(en curso)^000000"
+    },
+    "hIiYDQ": {
+        "en-US": "^8C8C8CKathryne Keyron (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Arquimaga^000000",
+        "es-ES": "^8C8C8CKathryne Keyron(en espera)^000000"
+    },
+    "hYiYDQ": {
+        "en-US": "^8C8C8CMargaretha Sorin (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Sacerdotisa^000000",
+        "es-ES": "^8C8C8CMargarita Sorin(en curso)^000000"
+    },
+    "hoiYDQ": {
+        "en-US": "^8C8C8CMargaretha Sorin (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Sacerdotisa^000000",
+        "es-ES": "^8C8C8CMargarita Sorin(en espera)^000000"
+    },
+    "h4iYDQ": {
+        "en-US": "^8C8C8CSeyren Windsor (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Lorde^000000",
+        "es-ES": "^8C8C8CSeyren Windsor(en curso)^000000"
+    },
+    "iIiYDQ": {
+        "en-US": "^8C8C8CSeyren Windsor (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Lorde^000000",
+        "es-ES": "^8C8C8CSeyren Windsor(en espera)^000000"
+    },
+    "iYiYDQ": {
+        "en-US": "^8C8C8CEremes Guile (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Algoz^000000",
+        "es-ES": "^8C8C8CAstucia de Eremes(en curso)^000000"
+    },
+    "ioiYDQ": {
+        "en-US": "^8C8C8CEremes Guile (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Algoz^000000",
+        "es-ES": "^8C8C8CAstucia de Eremes(en espera)^000000"
+    },
+    "i4iYDQ": {
+        "en-US": "^8C8C8CHoward Alt-Eisen (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cobaia Ferreiro^000000",
+        "es-ES": "^8C8C8CHoward Alteisen(en curso)^000000"
+    },
+    "jIiYDQ": {
+        "en-US": "^8C8C8CHoward Alt-Eisen (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cobaia Ferreiro^000000",
+        "es-ES": "^8C8C8CHoward Alteisen(en espera)^000000"
+    },
+    "jYiYDQ": {
+        "en-US": "^8C8C8CMorroc's Harassment (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Animais de Fogo^000000",
+        "es-ES": "^8C8C8CEl acoso de Morroc(en curso)^000000"
+    },
+    "joiYDQ": {
+        "en-US": "^8C8C8CMorroc's Harassment (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Animais de Fogo^000000",
+        "es-ES": "^8C8C8CEl acoso de Morroc(en espera)^000000"
+    },
+    "j4iYDQ": {
+        "en-US": "^8C8C8CMorroc's Schemes (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Criaturas de Fogo^000000",
+        "es-ES": "^8C8C8CLas artimañas de Morroc(en curso)^000000"
+    },
+    "kIiYDQ": {
+        "en-US": "^8C8C8CMorroc's Scheme (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Criaturas de Fogo^000000",
+        "es-ES": "^8C8C8CLas artimañas de Morroc(en espera)^000000"
+    },
+    "kYiYDQ": {
+        "en-US": "[120] Odin's Temple",
+        "pt-BR": "[120] Templo de Odin",
+        "es-ES": "[120] Templo de Odín"
+    },
+    "koiYDQ": {
+        "en-US": "[120] Abyss Lake",
+        "pt-BR": "[120] Lago do Abismo",
+        "es-ES": "[120] Lago del abismo"
+    },
+    "k4iYDQ": {
+        "en-US": "[120] Thanatos Tower",
+        "pt-BR": "[120] Torre de Thanatos",
+        "es-ES": "[120] Torre de Thanatos"
+    },
+    "lIiYDQ": {
+        "en-US": "Midgard Allied Forces Post[120-140]",
+        "pt-BR": "[120-140] Ash Vacuum",
+        "es-ES": "Campamento de la Alianza de Midgard[120-140]"
+    },
+    "lYiYDQ": {
+        "en-US": "[120] Nameless Island",
+        "pt-BR": "[120] Ilha Esquecida",
+        "es-ES": "[120] Isla Anónima"
+    },
+    "loiYDQ": {
+        "en-US": "[120] Rachel Sanctuary",
+        "pt-BR": "[120] Santuário de Rachel",
+        "es-ES": "[120] Santuario de Rachel"
+    },
+    "l4iYDQ": {
+        "en-US": "Bio Lab[130-140]",
+        "pt-BR": "[130-140] Biolaboratório",
+        "es-ES": "Laboratorio biológico[130-140]"
+    },
+    "mIiYDQ": {
+        "en-US": "[130] Dimensional Rift",
+        "pt-BR": "[130] Fenda Dimensional",
+        "es-ES": "[130] Grieta dimensional"
+    },
+    "mYiYDQ": {
+        "en-US": "Other[120-130]",
+        "pt-BR": "[120-130] Outros",
+        "es-ES": "Otros[120-130]"
+    },
+    "moiYDQ": {
+        "en-US": "Cancel.",
+        "pt-BR": "Cancelar",
+        "es-ES": "Salir."
+    },
+    "m4iYDQ": {
+        "en-US": "Your level is too low to undertake this request.",
+        "pt-BR": "Você não tem nível suficiente para essa missão.",
+        "es-ES": "No puedes realizar este encargo porque tu nivel es insuficiente."
+    },
+    "nIiYDQ": {
+        "en-US": "You have already completed this request.",
+        "pt-BR": "Essa missão já foi concluída.",
+        "es-ES": "Ya realizaste este encargo."
+    },
+    "nYiYDQ": {
+        "en-US": "You are currently undertaking this request.",
+        "pt-BR": "Esta missão já está em andamento.",
+        "es-ES": "Este encargo está actualmente en curso."
+    },
+    "noiYDQ": {
+        "en-US": "The first request received directly from a client must be completed by returning to that client.",
+        "pt-BR": "Você recebeu essa missão diretamente do Solicitante, portanto você deverá reportá-la para ele.",
+        "es-ES": "El primer encargo recibido directamente del solicitante debe completarse regresando con el solicitante."
+    },
+    "n4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Hugel Odin Temple\nObjective: Defeat Skogul 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Templo de Odin\nObjetivo: Caçar 20 Skogul\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Templo de Odín de Hugel\nObjetivo: Skogul 20 eliminados\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "oIiYDQ": {
+        "en-US": "[Take Out the Radio Operator First]\nMorvand's request in front of the Hugel dock\nLocation: Hugel Odin Temple\nObjective: Defeat Skogul 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Menina Gótica]\nSolicitação de Morband\nLocal: Templo de Odin\nObjetivo: Caçar 20 Skogul\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Primero, el de la radio]\nEncargo de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín de Hugel\nObjetivo: Skogul 20 eliminados\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "oYiYDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar missão.",
+        "es-ES": "Aceptar."
+    },
+    "ooiYDQ": {
+        "en-US": "View another request.",
+        "pt-BR": "Ver outras missões.",
+        "es-ES": "Ver otra cosa."
+    },
+    "o4iYDQ": {
+        "en-US": "Morvand's request in front of the Hugel dock\nYou have accepted the ^4D4DFF<Take Out the Radio Operator First>^000000 quest.",
+        "pt-BR": "A solicitação de Morband\n^4D4DFF[Menina Gótica]^000000 foi aceita.",
+        "es-ES": "Encargo de Morvand frente al muelle de Hugel\nSe aceptó la misión ^4D4DFF<Primero, el de la radio>^000000."
+    },
+    "pIiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Hugel Odin Temple\nObjective: Defeat Frus 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Templo de Odin\nObjetivo: Caçar 20 Frus\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Templo de Odín de Hugel\nObjetivo: Frus 20 eliminados\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "pYiYDQ": {
+        "en-US": "[Demon Purification]\nMorvand's request in front of the Hugel dock\nLocation: Hugel Odin Temple\nObjective: Defeat Frus 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Purificar o Mal]\nSolicitação de Morband\nLocal: Templo de Odin\nObjetivo: Caçar 20 Frus\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Purificación demoníaca]\nEncargo de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín de Hugel\nObjetivo: Frus 20 eliminados\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "poiYDQ": {
+        "en-US": "Morvand's request in front of the Hugel dock\nYou have accepted the ^4D4DFF<Demon Purification>^000000 quest.",
+        "pt-BR": "A solicitação de Morband\n^4D4DFF[Purificar o Mal]^000000 foi aceita.",
+        "es-ES": "Encargo de Morvand frente al muelle de Hugel\nSe aceptó la misión ^4D4DFF<Purificación demoníaca>^000000."
+    },
+    "p4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Hugel Odin Temple\nObjective: Defeat Skeggiold Brown 5, Blue 5\nReward: Exp 600000, Jexp 600000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Templo de Odin\nObjetivo: Caçar 5 Skeggiold Azuis e 5 Skeggiold Marrons\nRecompensa: EXP base 600.000, EXP classe 600.000, 2x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Templo de Odín de Hugel\nObjetivo: Skeggiold marrón 5, azul 5 eliminados\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 2"
+    },
+    "qIiYDQ": {
+        "en-US": "[Before You Are Bewitched]\nMorvand's request in front of the Hugel dock\nLocation: Hugel Odin Temple\nObjective: Defeat Skeggiold Brown 5, Blue 5\nReward: Exp 600000, Jexp 600000, Eden Group Coin 2",
+        "pt-BR": "[Seres Gelatinosos]\nSolicitação de Morband\nLocal: Templo de Odin\nObjetivo: Caçar 5 Skeggiold Azuis e 5 Skeggiold Marrons\nRecompensa: EXP base 600.000, EXP classe 600.000, 2x Moeda do Éden",
+        "es-ES": "[Antes de caer en el engaño]\nEncargo de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín de Hugel\nObjetivo: Skeggiold marrón 5, azul 5 eliminados\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 2"
+    },
+    "qYiYDQ": {
+        "en-US": "Morvand's request in front of the Hugel dock\nYou have accepted the ^4D4DFF<Before You Are Bewitched>^000000 quest.",
+        "pt-BR": "A solicitação de Morband\n^4D4DFF[Seres Gelatinosos]^000000 foi aceita.",
+        "es-ES": "Encargo de Morvand frente al muelle de Hugel\nSe aceptó la misión ^4D4DFF<Antes de caer en el engaño>^000000."
+    },
+    "qoiYDQ": {
+        "en-US": "Cancel,",
+        "pt-BR": "Cancelar",
+        "es-ES": "Salir,"
+    },
+    "q4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Abyss Lake\nObjective: Defeat Ferus Red 30, Green 30\nReward: Exp 500000, Jexp 500000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Ferus Verdes e 30 Ferus Escarlates\nRecompensa: EXP base 500.000, EXP classe 500.000, 2x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Lago del Abismo\nObjetivo: Ferus rojo 30, verde 30 eliminados\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 2"
+    },
+    "rIiYDQ": {
+        "en-US": "[Dragon of the Lake]\nNahadan's request in front of the Hugel street stall\nLocation: Abyss Lake\nObjective: Defeat Ferus Red 30, Green 30\nReward: Exp 500000, Jexp 500000, Eden Group Coin 2",
+        "pt-BR": "[Dragões do Lago]\nSolicitação de Nahadan, em Hugel\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Ferus Verdes e 30 Ferus Escarlates\nRecompensa: EXP base 500.000, EXP classe 500.000, 2x Moeda do Éden",
+        "es-ES": "[El dragón del lago]\nEncargo de Nahadan frente al puesto de Hugel\nUbicación: Lago del Abismo\nObjetivo: Ferus rojo 30, verde 30 eliminados\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 2"
+    },
+    "rYiYDQ": {
+        "en-US": "Nahadan's request in front of the Hugel street stall\nYou have accepted the ^4D4DFF<Dragon of the Lake>^000000 quest.",
+        "pt-BR": "A solicitação de Nahadan, em Hugel\n^4D4DFF[Dragões do Lago]^000000 foi aceita.",
+        "es-ES": "Encargo de Nahadan frente al puesto de Hugel\nSe aceptó la misión ^4D4DFF<El dragón del lago>^000000."
+    },
+    "roiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Abyss Lake\nObjective: Defeat Gold Acidus Yellow 30, Blue 30\nReward: Exp 500000, Jexp 500000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Acidus Azuis e 30 Acidus Dourados\nRecompensa: EXP base 500.000, EXP classe 500.000, 2x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Lago del Abismo\nObjetivo: Ácidus dorado amarillo 30, azul 30 eliminados\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 2"
+    },
+    "r4iYDQ": {
+        "en-US": "[Wyvern of the Lake]\nNahadan's request in front of the Hugel street stall\nLocation: Abyss Lake\nObjective: Defeat Gold Acidus Yellow 30, Blue 30\nReward: Exp 500000, Jexp 500000, Eden Group Coin 2",
+        "pt-BR": "[Dragões do Subsolo]\nSolicitação de Nahadan, em Hugel\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Acidus Azuis e 30 Acidus Dourados\nRecompensa: EXP base 500.000, EXP classe 500.000, 2x Moeda do Éden",
+        "es-ES": "[El wyvern del lago]\nEncargo de Nahadan frente al puesto de Hugel\nUbicación: Lago del Abismo\nObjetivo: Ácidus dorado amarillo 30, azul 30 eliminados\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 2"
+    },
+    "sIiYDQ": {
+        "en-US": "Nahadan's request in front of the Hugel street stall\nYou have accepted the ^4D4DFF<Wyvern of the Lake>^000000 quest.",
+        "pt-BR": "A solicitação de Nahadan, em Hugel\n^4D4DFF[Dragões do Subsolo]^000000 foi aceita.",
+        "es-ES": "Encargo de Nahadan frente al puesto de Hugel\nSe aceptó la misión ^4D4DFF<El wyvern del lago>^000000."
+    },
+    "sYiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Abyss Lake\nObjective: Defeat Hydrolancer 1\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Lago do Abismo\nObjetivo: Caçar 1 Hydrolancer\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Lago del Abismo\nObjetivo: Hydrolancer 1 eliminado\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "soiYDQ": {
+        "en-US": "[Three-Headed Dragon of the Lake]\nNahadan's request in front of the Hugel street stall\nLocation: Abyss Lake\nObjective: Defeat Hydrolancer 1\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Dragão do Tesouro]\nSolicitação de Nahadan, em Hugel\nLocal: Lago do Abismo\nObjetivo: Caçar 1 Hydrolancer\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[El dragón de tres cabezas del lago]\nEncargo de Nahadan frente al puesto de Hugel\nUbicación: Lago del Abismo\nObjetivo: Hydrolancer 1 eliminado\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "s4iYDQ": {
+        "en-US": "Nahadan's request in front of the Hugel street stall\nYou have accepted the ^4D4DFF<Three-Headed Dragon of the Lake>^000000 quest.",
+        "pt-BR": "A solicitação de Nahadan, em Hugel\n^4D4DFF[Dragão do Tesouro]^000000 foi aceita.",
+        "es-ES": "Encargo de Nahadan frente al puesto de Hugel\nSe aceptó la misión ^4D4DFF<El dragón de tres cabezas del lago>^000000."
+    },
+    "tIiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Defeat Baroness of Retribution 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Retribuição\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Baronesa de la Retribución 30 eliminadas\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "tYiYDQ": {
+        "en-US": "[Watch and Punish]\nTatt's request inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Baroness of Retribution 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Punição Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Retribuição\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Vigilancia y castigo]\nEncargo de Tat dentro del 1 piso de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Baronesa de la Retribución 30 eliminadas\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "toiYDQ": {
+        "en-US": "Tatt's request inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Watch and Punish>^000000 quest.",
+        "pt-BR": "A solicitação de uma Aventureira\n^4D4DFF[Punição Angelical]^000000 foi aceita.",
+        "es-ES": "Encargo de Tat dentro del 1 piso de la Torre de Thanatos\nSe aceptó la misión ^4D4DFF<Vigilancia y castigo>^000000."
+    },
+    "t4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Defeat Lady Solace 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Conforto\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Encargo completado]\nUbicación: Torre de Thanatos\nObjetivo: Dama del Consuelo 30 eliminadas\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "uIiYDQ": {
+        "en-US": "[Sweet Poison]\nTatt's request inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Lady Solace 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Som Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Conforto\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Dulce veneno]\nSolicitud de Tart dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Dama del Consuelo 30 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "uYiYDQ": {
+        "en-US": "Tatt's request inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Sweet Poison>^000000 quest.",
+        "pt-BR": "A solicitação de uma Aventureira\n^4D4DFF[Som Angelical]^000000 foi aceita.",
+        "es-ES": "Solicitud de Tart dentro del piso 1 de la Torre de Thanatos\nMisión ^4D4DFF<Dulce veneno>^000000 aceptada."
+    },
+    "uoiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Thanatos Tower\nObjective: Defeat Mistress of Shelter 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Abrigo\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Abeja reina de la Protección 30 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "u4iYDQ": {
+        "en-US": "[Rest Through Death]\nTatt's request inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Mistress of Shelter 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Descanso Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Abrigo\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Descanso mediante la Muerte]\nSolicitud de Tart dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Abeja reina de la Protección 30 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "vIiYDQ": {
+        "en-US": "Tatt's request inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Rest Through Death>^000000 quest.",
+        "pt-BR": "A solicitação de uma Aventureira\n^4D4DFF[Descanso Angelical]^000000 foi aceita.",
+        "es-ES": "Solicitud de Tart dentro del piso 1 de la Torre de Thanatos\nMisión ^4D4DFF<Descanso mediante la Muerte>^000000 aceptada."
+    },
+    "vYiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Dame of Sentinel 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Observação\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Dama de Centinela 30 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "voiYDQ": {
+        "en-US": "[Seed of Control]\nTatt's request inside Thanatos Tower 1F\nLocation: Thanatos Tower\nObjective: Defeat Dame of Sentinel 30\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Vigia Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Observação\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Semilla del control]\nSolicitud de Tart dentro del piso 1 de la Torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Dama de Centinela 30 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "v4iYDQ": {
+        "en-US": "Tatt's request inside Thanatos Tower 1F\nYou have accepted the ^4D4DFF<Seed of Control>^000000 quest.",
+        "pt-BR": "A solicitação de uma Aventureira\n^4D4DFF[Vigia Angelical]^000000 foi aceita.",
+        "es-ES": "Solicitud de Tart dentro del piso 1 de la Torre de Thanatos\nMisión ^4D4DFF<Semilla del control>^000000 aceptada."
+    },
+    "wIiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Centipede 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Centopeias\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Faldas del monte Kamidal\nObjetivo: Escolopendra 20 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "wYiYDQ": {
+        "en-US": "[Venomous Insect]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Centipede 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Alerta Venenoso]\nSolicitação do jovem Téo\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Centopeias\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Insecto venenoso]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Faldas del monte Kamidal\nObjetivo: Escolopendra 20 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "woiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Venomous Insect>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Alerta Venenoso]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Insecto venenoso>^000000 aceptada."
+    },
+    "w4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Tatacho 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Tatachos\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Faldas del monte Kamidal\nObjetivo: Tatacho 20 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "xIiYDQ": {
+        "en-US": "[Incompetent Slacker]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Tatacho 20\nReward: Exp 600000, Jexp 600000, Eden Group Coin 1",
+        "pt-BR": "[Animal Pateta]\nSolicitação do jovem Téo\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Tatachos\nRecompensa: EXP base 600.000, EXP classe 600.000, 1x Moeda do Éden",
+        "es-ES": "[Holgazán incompetente]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Faldas del monte Kamidal\nObjetivo: Tatacho 20 eliminaciones\nRecompensa: Exp 600000, Jexp 600000, Moneda del Grupo del Edén 1"
+    },
+    "xYiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Incompetent Slacker>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Animal Pateta]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Holgazán incompetente>^000000 aceptada."
+    },
+    "xoiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Dolomedes 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Arredores de Manuka\nObjetivo: Caçar 30 Dolomedes\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Faldas del monte Kamidal\nObjetivo: Dolomedes 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "x4iYDQ": {
+        "en-US": "[Appearances Are Just a Shell]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Kamidal Mountain Foothills\nObjective: Defeat Dolomedes 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Parece uma Joia]\nSolicitação do jovem Téo\nLocal: Arredores de Manuka\nObjetivo: Caçar 30 Dolomedes\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[La apariencia es solo una cáscara]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Faldas del monte Kamidal\nObjetivo: Dolomedes 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "yIiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Appearances Are Just a Shell>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Parece uma Joia]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<La apariencia es solo una cáscara>^000000 aceptada."
+    },
+    "yYiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Scaraba Hall\nObjective: Defeat Uni-horn Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Chifre\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de un Cuerno 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "yoiYDQ": {
+        "en-US": "[Snap Off the Single Horn]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Scaraba Hall\nObjective: Defeat Uni-horn Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Um Único Chifre]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Chifre\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Corta el cuerno]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de un Cuerno 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "y4iYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Snap Off the Single Horn>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Um Único Chifre]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Corta el cuerno>^000000 aceptada."
+    },
+    "zIiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Scaraba Hall\nObjective: Defeat Horn Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Chifres Duplos\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de dos Cuernos 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "zYiYDQ": {
+        "en-US": "[Break Off the Twin Horns]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Scaraba Hall\nObjective: Defeat Horn Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[São Dois Chifres]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Chifres Duplos\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Corta los dos cuernos]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de dos Cuernos 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "zoiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Break Off the Twin Horns>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[São Dois Chifres]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Corta los dos cuernos>^000000 aceptada."
+    },
+    "z4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Scaraba Hall\nObjective: Defeat Antler Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Galhados\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de Astas 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "0IiYDQ": {
+        "en-US": "[Crunch the Antlers]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Scaraba Hall\nObjective: Defeat Antler Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Chifres de Galho]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Galhados\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Cruje las astas]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de Astas 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "0YiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Crunch the Antlers>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Chifres de Galho]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Cruje las astas>^000000 aceptada."
+    },
+    "0oiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Scaraba Hall\nObjective: Defeat Rake Horn Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Ancinhos\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de Rastrillo 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "04iYDQ": {
+        "en-US": "[Crack the Rake Horns]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Scaraba Hall\nObjective: Defeat Rake Horn Scaraba 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Chifres de Pinça]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Ancinhos\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Quiebra las astas de rastrillo]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Salón de Scaraba\nObjetivo: Scaraba de Rastrillo 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "1IiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Crack the Rake Horns>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Chifres de Pinça]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Quiebra las astas de rastrillo>^000000 aceptada."
+    },
+    "1YiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Flame Basin\nObjective: Defeat Fire Condor 15, Frilldora 15\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Condores de Fogo e 15 Frilldoras de Fogo\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Fuego Cuenca\nObjetivo: Cóndor de Fuego 15, Frilldora 15 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "1oiYDQ": {
+        "en-US": "[Morroc's Torment]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Flame Basin\nObjective: Defeat Fire Condor 15, Frilldora 15\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Animais de Fogo]\nSolicitação do jovem Téo\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Condores de Fogo e 15 Frilldoras de Fogo\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[El acoso de Morroc]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Fuego Cuenca\nObjetivo: Cóndor de Fuego 15, Frilldora 15 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "14iYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Morroc's Torment>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Animais de Fogo]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<El acoso de Morroc>^000000 aceptada."
+    },
+    "2IiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Flame Basin\nObjective: Defeat Fire Sandman 15, Golem 15\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Arenosos de Fogo e 15 Golens de Fogo\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Fuego Cuenca\nObjetivo: Hombre de Arena de Fuego 15, Gólem 15 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "2YiYDQ": {
+        "en-US": "[Morroc's Scheme]\nTheodore's request at the Midgard Allied Forces Post\nLocation: Flame Basin\nObjective: Defeat Fire Sandman 15, Golem 15\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Criaturas de Fogo]\nSolicitação do jovem Téo\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Arenosos de Fogo e 15 Golens de Fogo\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Las maquinaciones de Morroc]\nSolicitud de Theodore en el Campamento de la Alianza de Midgard\nUbicación: Fuego Cuenca\nObjetivo: Hombre de Arena de Fuego 15, Gólem 15 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "2oiYDQ": {
+        "en-US": "Theodore's request at the Midgard Allied Forces Post\nYou have accepted the ^4D4DFF<Morroc's Scheme>^000000 quest.",
+        "pt-BR": "A solicitação do jovem Téo\n^4D4DFF[Criaturas de Fogo]^000000 foi aceita.",
+        "es-ES": "Solicitud de Theodore en el Campamento de la Alianza de Midgard\nMisión ^4D4DFF<Las maquinaciones de Morroc>^000000 aceptada."
+    },
+    "24iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Nameless Island Monastery\nObjective: Defeat Ragged Zombie 30, Zombie Slaughter 30\nReward: Exp 1000000, Jexp 600000, Eden Group Coin 2",
+        "pt-BR": "[Missão completa]\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Massacres e 30 Zumbis Dilacerados\nRecompensa: EXP base 1.000.000, EXP classe 600.000, 2x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Monasterio de la Isla Sin Nombre\nObjetivo: Zombi Harapiento 30, Zombi Asesino 30 eliminaciones\nRecompensa: Exp 1000000, Jexp 600000, Monedas del Grupo del Edén 2"
+    },
+    "3IiYDQ": {
+        "en-US": "[Purifying Nameless Island]\nRotert's request at the Nameless Island dock\nLocation: Nameless Island Monastery\nObjective: Defeat Ragged Zombie 30, Zombie Slaughter 30\nReward: Exp 1000000, Jexp 600000, Eden Group Coin 2",
+        "pt-BR": "[Irmãos Zumbis]\nSolicitação de Rotert\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Massacres e 30 Zumbis Dilacerados\nRecompensa: EXP base 1.000.000, EXP classe 600.000, 2x Moeda do Éden",
+        "es-ES": "[Purificación de la Isla Sin Nombre]\nSolicitud de Rotert en el embarcadero de la Isla Sin Nombre\nUbicación: Monasterio de la Isla Sin Nombre\nObjetivo: Zombi Harapiento 30, Zombi Asesino 30 eliminaciones\nRecompensa: Exp 1000000, Jexp 600000, Monedas del Grupo del Edén 2"
+    },
+    "3YiYDQ": {
+        "en-US": "Rotert's request at the Nameless Island dock\nYou have accepted the ^4D4DFF<Purifying Nameless Island>^000000 quest.",
+        "pt-BR": "A solicitação de Rotert\n^4D4DFF[Irmãos Zumbis]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rotert en el embarcadero de la Isla Sin Nombre\nMisión ^4D4DFF<Purificación de la Isla Sin Nombre>^000000 aceptada."
+    },
+    "3oiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Nameless Island Monastery\nObjective: Defeat Banshee 30\nReward: Exp 500000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Banshees\nRecompensa: EXP base 500.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Monasterio de la Isla Sin Nombre\nObjetivo: Banshee 30 eliminaciones\nRecompensa: Exp 500000, Jexp 300000, Moneda del Grupo del Edén 1"
+    },
+    "34iYDQ": {
+        "en-US": "[Wail, Wail, and Wail Again]\nRotert's request at the Nameless Island dock\nLocation: Nameless Island Monastery\nObjective: Defeat Banshee 30\nReward: Exp 500000, Jexp 300000, Eden Group Coin 1",
+        "pt-BR": "[Gritos e mais Gritos]\nSolicitação de Rotert\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Banshees\nRecompensa: EXP base 500.000, EXP classe 300.000, 1x Moeda do Éden",
+        "es-ES": "[Llora, llora y vuelve a llorar]\nSolicitud de Rotert en el embarcadero de la Isla Sin Nombre\nUbicación: Monasterio de la Isla Sin Nombre\nObjetivo: Banshee 30 eliminaciones\nRecompensa: Exp 500000, Jexp 300000, Moneda del Grupo del Edén 1"
+    },
+    "4IiYDQ": {
+        "en-US": "Rotert's request at the Nameless Island dock\nYou have accepted the ^4D4DFF<Wail, Wail, and Wail Again>^000000 quest.",
+        "pt-BR": "A solicitação de Rotert\n^4D4DFF[Gritos e mais Gritos]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rotert en el embarcadero de la Isla Sin Nombre\nMisión ^4D4DFF<Llora, llora y vuelve a llorar>^000000 aceptada."
+    },
+    "4YiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Nameless Island Monastery\nObjective: Defeat Necromancer 20\nReward: Exp 600000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 20 Necromantes\nRecompensa: EXP base 600.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Monasterio de la Isla Sin Nombre\nObjetivo: Nigromante 20 eliminaciones\nRecompensa: Exp 600000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "4oiYDQ": {
+        "en-US": "[Master of the Dead Marionette]\nRotert's request at the Nameless Island dock\nLocation: Nameless Island Monastery\nObjective: Defeat Necromancer 20\nReward: Exp 600000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Controle dos Mortos]\nSolicitação de Rotert\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 20 Necromantes\nRecompensa: EXP base 600.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Dueño de la Marioneta muerta]\nSolicitud de Rotert en el embarcadero de la Isla Sin Nombre\nUbicación: Monasterio de la Isla Sin Nombre\nObjetivo: Nigromante 20 eliminaciones\nRecompensa: Exp 600000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "44iYDQ": {
+        "en-US": "Rotert's request at the Nameless Island dock\nYou have accepted the ^4D4DFF<Master of the Dead Marionette>^000000 quest.",
+        "pt-BR": "A solicitação de Rotert\n^4D4DFF[Controle dos Mortos]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rotert en el embarcadero de la Isla Sin Nombre\nMisión ^4D4DFF<Dueño de la Marioneta muerta>^000000 aceptada."
+    },
+    "5IiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Temple Sanctuary West Area\nObjective: Defeat Vanberk 20, Isilla 20\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Isillas e 20 Vanberks\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Zona oeste del Santuario del Templo\nObjetivo: Vanberk 20, Isilla 20 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "5YiYDQ": {
+        "en-US": "[Purifying the Temple Sanctuary West Area]\nRachel Priest Tebenio's request\nLocation: Temple Sanctuary West Area\nObjective: Defeat Vanberk 20, Isilla 20\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Limpe a Ala Oeste]\nSolicitação da Noviça Thelma\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Isillas e 20 Vanberks\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Purificación de la zona oeste del Santuario del Templo]\nSolicitud del sacerdote Tebenio de Rachel\nUbicación: Zona oeste del Santuario del Templo\nObjetivo: Vanberk 20, Isilla 20 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "5oiYDQ": {
+        "en-US": "Rachel Priest Tebenio's request\nYou have accepted the ^4D4DFF<Purifying the Temple Sanctuary West Area>^000000 quest.",
+        "pt-BR": "A solicitação da Noviça Thelma\n^4D4DFF[Limpe a Ala Oeste]^000000 foi aceita.",
+        "es-ES": "Solicitud del sacerdote Tebenio de Rachel\nMisión ^4D4DFF<Purificación de la zona oeste del Santuario del Templo>^000000 aceptada."
+    },
+    "54iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Temple Sanctuary East Area\nObjective: Defeat Hodremlin 30\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Santuário de Rachel\nObjetivo: Caçar 30 Hodremlin\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Zona este del Santuario del Templo\nObjetivo: Hodremlin 30 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "6IiYDQ": {
+        "en-US": "[Purifying the Temple Sanctuary East Area]\nRachel Priest Tebenio's request\nLocation: Temple Sanctuary East Area\nObjective: Defeat Hodremlin 30\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Limpe a Ala Leste]\nSolicitação da Noviça Thelma\nLocal: Santuário de Rachel\nObjetivo: Caçar 30 Hodremlin\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Purificación de la zona este del Santuario del Templo]\nSolicitud del sacerdote Tebenio de Rachel\nUbicación: Zona este del Santuario del Templo\nObjetivo: Hodremlin 30 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "6YiYDQ": {
+        "en-US": "Rachel Priest Tebenio's request\nYou have accepted the ^4D4DFF<Purifying the Temple Sanctuary East Area>^000000 quest.",
+        "pt-BR": "A solicitação da Noviça Thelma\n^4D4DFF[Limpe a Ala Leste]^000000 foi aceita.",
+        "es-ES": "Solicitud del sacerdote Tebenio de Rachel\nMisión ^4D4DFF<Purificación de la zona este del Santuario del Templo>^000000 aceptada."
+    },
+    "6oiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Temple Sanctuary South Area\nObjective: Defeat Agav 20, Echio 20\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Agav e 20 Echios\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Zona sur del Santuario del Templo\nObjetivo: Agav 20, Echio 20 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "64iYDQ": {
+        "en-US": "[Purifying the Temple Sanctuary South Area]\nRachel Priest Tebenio's request\nLocation: Temple Sanctuary South Area\nObjective: Defeat Agav 20, Echio 20\nReward: Exp 500000, Jexp 500000, Eden Group Coin 1",
+        "pt-BR": "[Limpe a Ala Sul]\nSolicitação da Noviça Thelma\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Agav e 20 Echios\nRecompensa: EXP base 500.000, EXP classe 500.000, 1x Moeda do Éden",
+        "es-ES": "[Purificación de la zona sur del Santuario del Templo]\nSolicitud del sacerdote Tebenio de Rachel\nUbicación: Zona sur del Santuario del Templo\nObjetivo: Agav 20, Echio 20 eliminaciones\nRecompensa: Exp 500000, Jexp 500000, Moneda del Grupo del Edén 1"
+    },
+    "7IiYDQ": {
+        "en-US": "Rachel Priest Tebenio's request\nYou have accepted the ^4D4DFF<Purifying the Temple Sanctuary South Area>^000000 quest.",
+        "pt-BR": "A solicitação da Noviça Thelma\n^4D4DFF[Limpe a Ala Sul]^000000 foi aceita.",
+        "es-ES": "Solicitud del sacerdote Tebenio de Rachel\nMisión ^4D4DFF<Purificación de la zona sur del Santuario del Templo>^000000 aceptada."
+    },
+    "7YiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Egnigem Cenia 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Egnigem Cenia\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Egnigem Cenia 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "7oiYDQ": {
+        "en-US": "[Egnigem Cenia]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Egnigem Cenia 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Espadachim]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Egnigem Cenia\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Egnigem Cenia]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Egnigem Cenia 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "74iYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Egnigem Cenia>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Espadachim]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Egnigem Cenia>^000000 aceptada."
+    },
+    "8IiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Armeyer Dinze 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Armeyer Dinze\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Armeyer Dinze 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "8YiYDQ": {
+        "en-US": "[Armeyer Dinze]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Armeyer Dinze 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Mercadora]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Armeyer Dinze\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Armeyer Dinze]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Armeyer Dinze 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "8oiYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Armeyer Dinze>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Mercadora]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Armeyer Dinze>^000000 aceptada."
+    },
+    "84iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Wickebine Tres 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Wickebine Tres\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Wickebine Tres 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "9IiYDQ": {
+        "en-US": "[Wickebine Tres]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Wickebine Tres 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Gatuna]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Wickebine Tres\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Wickebine Tres]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Wickebine Tres 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "9YiYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Wickebine Tres>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Gatuna]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Wickebine Tres>^000000 aceptada."
+    },
+    "9oiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Kavach Icarus 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Kavach Ícaro\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Kavach Icarus 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "94iYDQ": {
+        "en-US": "[Kavach Icarus]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Kavach Icarus 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Arqueiro]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Kavach Ícaro\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Kavach Icarus]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Kavach Icarus 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "+IiYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Kavach Icarus>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Arqueiro]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Kavach Icarus>^000000 aceptada."
+    },
+    "+YiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Errende Ebecee 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Errende Ebecee\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Errende Ebecee 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "+oiYDQ": {
+        "en-US": "[Errende Ebecee]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Errende Ebecee 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Noviço]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Errende Ebecee\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Errende Ebecee]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Errende Ebecee 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "+4iYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Errende Ebecee>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Noviço]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Errende Ebecee>^000000 aceptada."
+    },
+    "/IiYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Laurell Weinder 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Laurell Weinder\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Laurell Weinder 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "/YiYDQ": {
+        "en-US": "[Laurell Weinder]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Laurell Weinder 30\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Mago]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Laurell Weinder\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Laurell Weinder]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Laurell Weinder 30 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "/oiYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Laurell Weinder>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Mago]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Laurell Weinder>^000000 aceptada."
+    },
+    "/4iYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Cecil Damon 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Cecil Damon\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Cecil Damon 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "AImYDQ": {
+        "en-US": "[Cecil Damon]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Cecil Damon 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Atiradora]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Cecil Damon\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Cecil Damon]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Cecil Damon 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "AYmYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Cecil Damon>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Atiradora]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Cecil Damon>^000000 aceptada."
+    },
+    "AomYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Kathryne Keyron 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Kathryne Keyron\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Kathryne Keyron 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "A4mYDQ": {
+        "en-US": "[Kathryne Keyron]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Kathryne Keyron 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Arquimaga]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Kathryne Keyron\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Kathryne Keyron]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Kathryne Keyron 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "BImYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Kathryne Keyron>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Arquimaga]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Kathryne Keyron>^000000 aceptada."
+    },
+    "BYmYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Margaretha Sorin 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Margaretha Sorin\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Margarita Sorin 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "BomYDQ": {
+        "en-US": "[Margaretha Sorin]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Margaretha Sorin 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Sacerdotisa]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Margaretha Sorin\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Margarita Sorin]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Margarita Sorin 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "B4mYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Margaretha Sorin>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Sacerdotisa]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Margarita Sorin>^000000 aceptada."
+    },
+    "CImYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Seyren Windsor 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Seyren Windsor\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Seyren Windsor 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "CYmYDQ": {
+        "en-US": "[Seyren Windsor]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Seyren Windsor 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Lorde]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Seyren Windsor\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Seyren Windsor]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Seyren Windsor 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "ComYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Seyren Windsor>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Lorde]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Seyren Windsor>^000000 aceptada."
+    },
+    "C4mYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Eremes Guile 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Eremes Guile\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Astucia de Eremes 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "DImYDQ": {
+        "en-US": "[Eremes Guile]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Eremes Guile 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Algoz]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Eremes Guile\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Astucia de Eremes]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Astucia de Eremes 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "DYmYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Eremes Guile>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Algoz]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Astucia de Eremes>^000000 aceptada."
+    },
+    "DomYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bio Lab\nObjective: Defeat Howard Alt-Eisen 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Howard Alt-Eisen\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Calabozo Biológico\nObjetivo: Howard Alteisen 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "D4mYDQ": {
+        "en-US": "[Howard Alt-Eisen]\nAnonymous Adventurer's request in the Lighthalzen slums\nLocation: Bio Lab\nObjective: Defeat Howard Alt-Eisen 2\nReward: Exp 1000000, Jexp 1000000, Eden Group Coin 1",
+        "pt-BR": "[Cobaia Ferreiro]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Howard Alt-Eisen\nRecompensa: EXP base 1.000.000, EXP classe 1.000.000, 1x Moeda do Éden",
+        "es-ES": "[Howard Alteisen]\nSolicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nUbicación: Calabozo Biológico\nObjetivo: Howard Alteisen 2 eliminaciones\nRecompensa: Exp 1000000, Jexp 1000000, Moneda del Grupo del Edén 1"
+    },
+    "EImYDQ": {
+        "en-US": "Anonymous Adventurer's request in the Lighthalzen slums\nYou have accepted the ^4D4DFF<Howard Alt-Eisen>^000000 quest.",
+        "pt-BR": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Ferreiro]^000000 foi aceita.",
+        "es-ES": "Solicitud de un aventurero anónimo en los barrios bajos de Lighthalzen\nMisión ^4D4DFF<Howard Alteisen>^000000 aceptada."
+    },
+    "EYmYDQ": {
+        "en-US": "[Request Complete]\nLocation: Dimensional Gap\nObjective: Defeat Valkyrie-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Inveja\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo valquiria 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "EomYDQ": {
+        "en-US": "[Angelic Form]\nLartal's request in Morroc\nLocation: Dimensional Gap\nObjective: Defeat Valkyrie-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Forma de Anjo]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Inveja\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Forma de ángel]\nSolicitud de Rartal en Morroc\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo valquiria 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "E4mYDQ": {
+        "en-US": "Lartal's request in Morroc\nYou have accepted the ^4D4DFF<Angelic Form>^000000 quest.",
+        "pt-BR": "A solicitação de uma Criança em Morroc\n^4D4DFF[Forma de Anjo]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rartal en Morroc\nMisión ^4D4DFF<Forma de ángel>^000000 aceptada."
+    },
+    "FImYDQ": {
+        "en-US": "[Request Complete]\nLocation: Dimensional Gap\nObjective: Defeat Mud-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Gula\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo barro 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "FYmYDQ": {
+        "en-US": "[Blessing of Rest]\nLartal's request in Morroc\nLocation: Dimensional Gap\nObjective: Defeat Mud-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Forma de Lama]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Gula\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Bendición del descanso]\nSolicitud de Rartal en Morroc\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo barro 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "FomYDQ": {
+        "en-US": "Lartal's request in Morroc\nYou have accepted the ^4D4DFF<Blessing of Rest>^000000 quest.",
+        "pt-BR": "A solicitação de uma Criança em Morroc\n^4D4DFF[Forma de Lama]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rartal en Morroc\nMisión ^4D4DFF<Bendición del descanso>^000000 aceptada."
+    },
+    "F4mYDQ": {
+        "en-US": "[Request Complete]\nLocation: Dimensional Gap\nObjective: Defeat Exorcist-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Vaidade\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo exorcista 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "GImYDQ": {
+        "en-US": "[Joy of Subjugation]\nRequest from Lartal in Morroc\nLocation: Dimensional Gap\nObjective: Defeat Exorcist-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Forma Humana]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Vaidade\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[El placer de la sumisión]\nSolicitud de Rartal en Morroc\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo exorcista 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "GYmYDQ": {
+        "en-US": "Request from Lartal in Morroc\n^4D4DFF<Joy of Subjugation>^000000 quest accepted.",
+        "pt-BR": "A solicitação de uma Criança em Morroc\n^4D4DFF[Forma Humana]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rartal en Morroc\nMisión ^4D4DFF<El placer de la sumisión>^000000 aceptada."
+    },
+    "GomYDQ": {
+        "en-US": "[Request Complete]\nLocation: Dimensional Gap\nObjective: Defeat Ghost-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Ira\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo espectral 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "G4mYDQ": {
+        "en-US": "[Embodiment of Purity]\nRequest from Lartal in Morroc\nLocation: Dimensional Gap\nObjective: Defeat Ghost-type Incarnation of Morroc 30\nReward: Exp 800000, Jexp 800000, Eden Group Coin 1",
+        "pt-BR": "[Forma Fantasma]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Ira\nRecompensa: EXP base 800.000, EXP classe 800.000, 1x Moeda do Éden",
+        "es-ES": "[Manifestación de la pureza]\nSolicitud de Rartal en Morroc\nUbicación: Grieta dimensional\nObjetivo: Encarnación de Morocc de tipo espectral 30 eliminaciones\nRecompensa: Exp 800000, Jexp 800000, Moneda del Grupo del Edén 1"
+    },
+    "HImYDQ": {
+        "en-US": "Request from Lartal in Morroc\n^4D4DFF<Embodiment of Purity>^000000 quest accepted.",
+        "pt-BR": "A solicitação de uma Criança em Morroc\n^4D4DFF[Forma Fantasma]^000000 foi aceita.",
+        "es-ES": "Solicitud de Rartal en Morroc\nMisión ^4D4DFF<Manifestación de la pureza>^000000 aceptada."
+    },
+    "HYmYDQ": {
+        "en-US": "[Request Complete]\nLocation: Geffenia\nObjective: Defeat Incubus 5, Succubus 5\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Geffenia\nObjetivo: Caçar 5 Incubus e 5 Succubus\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Geffenia\nObjetivo: Íncubo 5, Súcubo 5 eliminaciones\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1"
+    },
+    "HomYDQ": {
+        "en-US": "[Dream Demon Research]\nRequest from Mingmin, Geffen Alchemist\nLocation: Geffenia\nObjective: Defeat Incubus 5, Succubus 5\nReward: Exp 400000, Jexp 400000, Eden Group Coin 1",
+        "pt-BR": "[Demônios dos Sonhos]\nSolicitação de Mingmin, em Geffen\nLocal: Geffenia\nObjetivo: Caçar 5 Incubus e 5 Succubus\nRecompensa: EXP base 400.000, EXP classe 400.000, 1x Moeda do Éden",
+        "es-ES": "[Investigación sobre demonios oníricos]\nSolicitud del alquimista Mingmin de Geffen\nUbicación: Geffenia\nObjetivo: Íncubo 5, Súcubo 5 eliminaciones\nRecompensa: Exp 400000, Jexp 400000, Moneda del Grupo del Edén 1"
+    },
+    "H4mYDQ": {
+        "en-US": "Request from Mingmin, Geffen Alchemist\n^4D4DFF<Dream Demon Research>^000000 quest accepted.",
+        "pt-BR": "A solicitação de Mingmin\n^4D4DFF[Demônio dos Sonhos]^000000 foi aceita.",
+        "es-ES": "Solicitud del alquimista Mingmin de Geffen\nMisión ^4D4DFF<Investigación sobre demonios oníricos>^000000 aceptada."
+    },
+    "IImYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bifrost Outskirts\nObjective: Defeat Miming 20\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Bifröst\nObjetivo: Caçar 20 Plagiadores\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Alrededores de Bifröst\nObjetivo: Miming 20 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "IYmYDQ": {
+        "en-US": "[Fluffy Little One]\nRequest from Nyu Nyu in Mora Village\nLocation: Bifrost Outskirts\nObjective: Defeat Miming 20\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Carinha Felpudo]\nSolicitação da rafflen Lulu\nLocal: Bifröst\nObjetivo: Caçar 20 Plagiadores\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Pequeño peludo]\nSolicitud de Nyuni en la aldea de Mora\nUbicación: Alrededores de Bifröst\nObjetivo: Miming 20 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "IomYDQ": {
+        "en-US": "Request from Nyu Nyu in Mora Village\n^4D4DFF<Fluffy Little One>^000000 quest accepted.",
+        "pt-BR": "A solicitação da rafflen Lulu\n^4D4DFF[Carinha Felpudo]^000000 foi aceita.",
+        "es-ES": "Solicitud de Nyuni en la aldea de Mora\nMisión ^4D4DFF<Pequeño peludo>^000000 aceptada."
+    },
+    "I4mYDQ": {
+        "en-US": "[Request Complete]\nLocation: Bifrost Outskirts\nObjective: Defeat Little Fatum 20\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Missão completa]\nLocal: Bifröst\nObjetivo: Caçar 20 Pequenos Fatum\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Solicitud completada]\nUbicación: Alrededores de Bifröst\nObjetivo: Fatum pequeño 20 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "JImYDQ": {
+        "en-US": "[Little Troublemaker]\nRequest from Nyu Nyu in Mora Village\nLocation: Bifrost Outskirts\nObjective: Defeat Little Fatum 20\nReward: Exp 850000, Jexp 850000, Eden Group Coin 1",
+        "pt-BR": "[Fada Travessa]\nSolicitação da rafflen Lulu\nLocal: Bifröst\nObjetivo: Caçar 20 Pequenos Fatum\nRecompensa: EXP base 850.000, EXP classe 850.000, 1x Moeda do Éden",
+        "es-ES": "[Pequeño travieso]\nSolicitud de Nyuni en la aldea de Mora\nUbicación: Alrededores de Bifröst\nObjetivo: Fatum pequeño 20 eliminaciones\nRecompensa: Exp 850000, Jexp 850000, Moneda del Grupo del Edén 1"
+    },
+    "JYmYDQ": {
+        "en-US": "Request from Nyu Nyu in Mora Village\n^4D4DFF<Little Troublemaker>^000000 quest accepted.",
+        "pt-BR": "A solicitação da rafflen Lulu\n^4D4DFF[Fada Travessa]^000000 foi aceita.",
+        "es-ES": "Solicitud de Nyuni en la aldea de Mora\nMisión ^4D4DFF<Pequeño travieso>^000000 aceptada."
+    }
+}

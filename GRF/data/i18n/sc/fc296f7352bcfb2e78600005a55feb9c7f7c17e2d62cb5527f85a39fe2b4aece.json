@@ -26,12 +26,12 @@
     },
     "ZbDOAg": {
         "en-US": "[Phoenix]\nAre you feeling calm\nand at peace? I will ask\nyou a very important question.\nGive me your honest answer.",
-        "pt-BR": "[Fênix]\nVocê está se sentindo calmo\ne em paz? Vou lhe fazer\numa pergunta muito importante.\nDê-me sua resposta honesta.",
+        "pt-BR": "[Fênix]\nVocê está se sentindo \nem paz? Vou lhe fazer\numa pergunta muito importante.\nDê-me sua resposta honesta.",
         "es-ES": "[Fénix]\n¿Te sientes en tranquilidad\ny en paz? Déjame hacerte\nuna pregunta muy importante.\nDame una respuesta sincera."
     },
     "ZrDOAg": {
         "en-US": "[Phoenix]\n^FF0000Are you ready to dedicate\nyourself to the special art\nI will teach you, and uphold\nthe dignity of its philosophy?",
-        "pt-BR": "[Fênix]\n^FF0000Você está pronto\npara se dedicar à arte especial\nque vou te ensinar,\ne defender a dignidade de sua filosofia?",
+        "pt-BR": "[Fênix]\n^FF0000Você deseja\nse dedicar à arte especial\nque vou te ensinar,\ne defender a dignidade de sua filosofia?",
         "es-ES": "[Fénix]\n^FF0000¿Tienes lo necesario para dedicarte\nal arte especial\nque te enseñaré y a mantener\nla dignidad de su filosofía?"
     },
     "Z7DOAg": {
@@ -46,12 +46,12 @@
     },
     "abDOAg": {
         "en-US": "[Phoenix]\nVery well. You are no\nlonger just a student.\nYou are now entrusted with\nthe powers and responsibilities\nof a disciple of ^FF0000Taekwon Do^000000.",
-        "pt-BR": "[Fênix]\nMuito bem. Você não é mais\napenas um estudante.\nAgora lhe foram confiados\nos poderes e as responsabilidades\nde um discípulo do ^FF0000Taekwon Do^000000.",
+        "pt-BR": "[Fênix]\nMuito bem. Você não é mais\napenas estudante.\nAgora lhe foram confiados\nos poderes e as responsabilidades\nde um discípulo do ^FF0000Taekwon Do^000000.",
         "es-ES": "[Fénix]\nMuy bien. Ya no eres\nsolo un estudiante.\nAhora se te confían\nlos poderes y las responsabilidades\nde un discípulo de ^FF0000TaekwonDo^000000."
     },
     "arDOAg": {
         "en-US": "[Phoenix]\n''Taekwon'' has the meaning\nof ''punching and kicking,''\nand ''Do'' has the meaning\nof ''art.'' This martial art is\nfocused on skills using\nthe fists and the feet.",
-        "pt-BR": "[Fênix]\n''Taekwon'' tem o significado de\nde ''socos e chutes''\ne ''Do'' tem o significado de ''arte''.\nEssa arte marcial\nconcentra-se em habilidades\nque usam os punhos e os pés.",
+        "pt-BR": "[Fênix]\n''Taekwon'' tem o significado de\nde ''socos e chutes''\ne ''Do'' tem o significado de ''arte''.\nEssa arte marcial\nconcentra-se em habilidades\nque usam os pés.",
         "es-ES": "[Fénix]\nTaekwon significa\npuñetazos y patadas\ny Do significa\narte. Este arte marcial se\ncentra en las habilidades con\nlos puños y los pies."
     },
     "a7DOAg": {
@@ -66,7 +66,7 @@
     },
     "bbDOAg": {
         "en-US": "[Bong Hwang]\n On riding status,\n you can't do a job change;\n please unequip your riding pet and try again!",
-        "pt-BR": "[Bong Hwang]\nEnquanto estiver em montaria,\nvocê não pode fazer uma Mudança de Classe;\ndesça do animal e tente novamente!",
+        "pt-BR": "[Fênix]\nEnquanto estiver numa montaria,\nvocê não pode fazer uma Mudança de Classe;\ndesça do animal e tente novamente!",
         "es-ES": "[Bong Hwang]\n Mientras estés en una montura,\n no puedes hacer un cambio de clase.\n ¡Quítale a tu mascota el equipo de montar y prueba de nuevo!"
     },
     "brDOAg": {
@@ -76,12 +76,12 @@
     },
     "b7DOAg": {
         "en-US": "are now a  ^FF0000Taekwon Girl^000000.",
-        "pt-BR": "agora é uma ^FF0000Garota Taekwon^000000.",
+        "pt-BR": "agora é uma lutadora ^FF0000Taekwon^000000.",
         "es-ES": "ahora eres una ^FF0000Chica Taekwon^000000."
     },
     "cLDOAg": {
         "en-US": "are now a  ^FF0000Taekwon Boy^000000.",
-        "pt-BR": "agora é um ^FF0000Garoto Taekwon^000000.",
+        "pt-BR": "agora é um lutador ^FF0000Taekwon^000000.",
         "es-ES": "ahora eres un ^FF0000Chico Taekwon^000000."
     },
     "cbDOAg": {
@@ -91,7 +91,7 @@
     },
     "crDOAg": {
         "en-US": "[Phoenix]\nPlease, take this training\nuniform and guard set: make\ngood use of these gifts. As\nyou travel and train, enlighten.\nothers about our art and learn^FFFFFF ^000000 what you can from them in return.",
-        "pt-BR": "[Fênix]\nPor favor, aceite este uniforme\nde treinamento e conjunto de proteção:\nfaça bom uso desses presentes.\nEnquanto você viaja e treina,\nilumine outros sobre nossa arte e aprenda ^FFFFFF ^000000 o que puder com eles também.",
+        "pt-BR": "[Fênix]\nPor favor, aceite este uniforme\nde treinamento e conjunto de proteção:\nfaça bom uso desses presentes.\nEnquanto você viaja e treina,\nilumine outros sobre nossa arte e aprenda o que puder com outras pessoas também.",
         "es-ES": "[Fénix]\nToma este conjunto de uniforme\nde entrenamiento y protector.\nUsa bien estos regalos. Mientras\nviajas y entrenas, cuéntales\na otros sobre nuestro arte y, a cambio, aprende^FFFFFF ^000000lo que puedas de ellos."
     },
     "c7DOAg": {
@@ -101,7 +101,7 @@
     },
     "dLDOAg": {
         "en-US": "[Phoenix]\nCome to think of it, I received a call from ^4D4DFFEden group^000000.\nI think they have a  ^4D4DFFrequest^000000 for you.",
-        "pt-BR": "[Fênix]\nPensando bem, recebi um chamado do grupo ^4D4DFFÉden^000000.\nAcho que eles têm um ^4D4DFFpedido^000000 para você.",
+        "pt-BR": "[Fênix]\nPensando bem, recebi um chamado do grupo do ^4D4DFFÉden^000000.\nAcho que eles têm um ^4D4DFFpedido^000000 para você.",
         "es-ES": "[Fénix]\nAhora que lo pienso, recibí una llamada del ^4D4DFFGrupo del Edén^000000.\nCreo que tienen una ^4D4DFFsolicitud^000000 para ti."
     },
     "dbDOAg": {
@@ -121,7 +121,7 @@
     },
     "eLDOAg": {
         "en-US": "[Phoenix]\nAs a practitioner of my\nart, the ability to quickly\nmake the best decision will\nbe necessary in battle. Now,\nwe will begin the questioning.",
-        "pt-BR": "[Fênix]\nComo praticante da minha arte,\na capacidade de tomar rapidamente\na melhor decisão será\nserá necessária em batalha. Agora,\ncomeçaremos o questionamento.",
+        "pt-BR": "[Fênix]\nComo praticante do Taekwon Do,\na capacidade de tomar uma\ndecisão em batalha deve ser imediata.\nAgora, começaremos o questionamento.",
         "es-ES": "[Fénix]\nComo profesional de mi\narte, la capacidad de tomar\nla mejor decisión con rapidez\nes fundamental en el combate. Bien,\ncomenzaremos con las preguntas."
     },
     "ebDOAg": {
@@ -191,17 +191,17 @@
     },
     "hrDOAg": {
         "en-US": "Insist that I'm right, regardless",
-        "pt-BR": "Vou insistir que estou certo, custe o que custar.",
+        "pt-BR": "Insistir na minha verdade.",
         "es-ES": "Insistiré en que tengo razón."
     },
     "h7DOAg": {
         "en-US": "Disregard conflicting viewpoint",
-        "pt-BR": "Vou desconsiderar pontos de vista conflitantes.",
+        "pt-BR": "Desconsiderar pontos conflitantes.",
         "es-ES": "Ignoraré el conflicto."
     },
     "iLDOAg": {
         "en-US": "Accept differences and learn from them",
-        "pt-BR": "Vou aceitar as diferenças e aprender com elas.",
+        "pt-BR": "Aceitar as diferenças e aprender com elas.",
         "es-ES": "Aceptaré las diferencias y aprenderé de ellas."
     },
     "ibDOAg": {
@@ -276,7 +276,7 @@
     },
     "l7DOAg": {
         "en-US": "[Phoenix]\nAnd so, I've dedicated\nmyself to becoming stronger.\nI have been training to achieve\nenlightenment, developing an art^FFFFFF ^000000 to hone the mind and body that\nI wish to share with the world.",
-        "pt-BR": "[Fênix]\nE, assim, eu me dediquei\na me tornar mais forte.\nTenho treinado para alcançar a\niluminação, desenvolvendo uma arte^FFFFFF ^000000 para aprimorar a mente e o corpo que\ndesejo compartilhar com o mundo.",
+        "pt-BR": "[Fênix]\nE, assim, eu me dediquei\na me tornar mais forte.\nTenho treinado para alcançar a\niluminação, desenvolvendo uma arte para aprimorar a mente e o corpo que\ndesejo compartilhar com o mundo.",
         "es-ES": "[Fénix]\nPor eso, entrené para ser más fuerte.\nMe esforcé por alcanzar la iluminación y desarrollé un arte^FFFFFF ^000000para perfeccionar la mente y el cuerpo que quiero compartir con el mundo."
     },
     "mLDOAg": {
@@ -296,7 +296,7 @@
     },
     "m7DOAg": {
         "en-US": "No, thank you.",
-        "pt-BR": "Não, obrigado.",
+        "pt-BR": "Agradeço, mas não.",
         "es-ES": "No, gracias."
     },
     "nLDOAg": {
@@ -316,7 +316,7 @@
     },
     "n7DOAg": {
         "en-US": "[Phoenix]\nThe mind is not necessarily\nbound to the limits of the body, but you will never fulfill your\ntrue potential without integrating mind and body. Go, gain ^FF00001 a higher\nBase Level^000000, and then return.",
-        "pt-BR": "[Fênix]\nA mente não está necessariamente\npresa aos limites do corpo, mas você nunca atingirá\nseu verdadeiro potencial sem integrar a mente e o corpo.\nPasse ^FF00001 Nível Básico^000000 e depois retorne.",
+        "pt-BR": "[Fênix]\nA mente não está necessariamente\npresa aos limites do corpo, mas você nunca atingirá\nseu verdadeiro potencial sem integrar a mente e o corpo.\nPasse ^FF00001 Nível de Base^000000 e depois retorne.",
         "es-ES": "[Fénix]\nLa mente no está necesariamente\natada a los límites del cuerpo, pero nunca desarrollarás tu\nverdadero potencial si no integras mente y cuerpo. Vete, gana ^FF00001 nivel de base\nsuperior^000000 y luego vuelve."
     },
     "oLDOAg": {
@@ -341,7 +341,7 @@
     },
     "pLDOAg": {
         "en-US": "[Phoenix]\nNoble Adventurer:\nIf you know anyone who\nhas not chosen their path\nin life, please recommend\nthem to me. If they're interested,\nI may teach them my art ...",
-        "pt-BR": "[Fênix]\nNobre Aventureiro:\nSe você conhece alguém que\nnão escolheu seu caminho\nna vida, por favor, direcione\na pessoa para mim. Se ela estiver interessada,\nposso ensinar a minha arte...",
+        "pt-BR": "[Fênix]\nNobre viajante:\nSe você conhece alguém que\nnão escolheu seu caminho\nna vida, por favor, direcione\na pessoa para mim. Se ela estiver interessada,\nposso ensinar a minha arte...",
         "es-ES": "[Fénix]\nNoble trotamundos, si conoces a alguien que todavía no eligió su camino en la vida, envíalo conmigo. Si le interesa, puedo enseñarle mi arte..."
     }
 }

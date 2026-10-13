@@ -16899,6 +16899,10 @@ SKILL_DELAY_LIST = {
 		SkillSinglePostDelay = {3000}
 	},
 	[SKID.NPC_MILLENNIUMSHIELD] = {},
+	[SKID.ALL_GLASTHEIM_RECALL] = {
+		SkillCastFixedDelay = {1000},
+		SkillSinglePostDelay = {300000}
+	},
 	[SKID.IQ_FIRST_FAITH_POWER] = {
 		SkillGlobalPostDelay = {
 			500,

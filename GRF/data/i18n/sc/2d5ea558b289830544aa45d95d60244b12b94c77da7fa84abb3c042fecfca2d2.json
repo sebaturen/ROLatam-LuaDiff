@@ -10,14 +10,14 @@
         "es-ES": "Tienes muchos artículos.\nPor favor reorganice su inventario y vuelva a intentarlo."
     },
     "QrwSCg": {
-        "en-US": "[Mysterious Candy Shop] \n<ITEM>[Costume Mileage Coin]<INFO>7000</INFO></ITEM> can be exchanged for the following.",
-        "pt-BR": "[Casinha de Bonecas] \nEscolha uma das opções abaixo para usar seu <ITEM>[Moeda de Visual]<INFO>7000</INFO></ITEM>.",
-        "es-ES": "[Casa de Muñecas]\nElija una de las opciones a continuación para utilizar su <ITEM>[Moneda de progreso decorativo]<INFO>7000</INFO></ITEM>."
+        "en-US": "[Mysterious Candy Shop] \n<ITEM>[Costume Coin]<INFO>7000</INFO></ITEM> can be exchanged for the following.",
+        "pt-BR": "[Casinha de Bonecas] \nEscolha uma das opções abaixo para usar sua <ITEM>[Moeda de Visual]<INFO>7000</INFO></ITEM>.",
+        "es-ES": "[Casa de Muñecas]\nElija una de las opciones a continuación para utilizar su <ITEM>[Moneda de Disfraz]<INFO>7000</INFO></ITEM>."
     },
     "Q7wSCg": {
         "en-US": "Limited Costume",
         "pt-BR": "Visual Exclusivo",
-        "es-ES": "Visual exclusivo"
+        "es-ES": "Disfraz exclusivo"
     },
     "RLwSCg": {
         "en-US": "Cancel",
@@ -27,36 +27,36 @@
     "RbwSCg": {
         "en-US": "Normal Costume",
         "pt-BR": "Visual Comum",
-        "es-ES": "Visual común"
+        "es-ES": "Disfraz común"
     },
     "RrwSCg": {
-        "en-US": "Top Stone",
+        "en-US": "Costume Stone (Top)",
         "pt-BR": "Pedra de Visual (Topo)",
-        "es-ES": "Piedra visual (Superior)"
+        "es-ES": "Piedra de Disfraz (Superior)"
     },
     "R7wSCg": {
-        "en-US": "Middle Stone",
+        "en-US": "Costume Stone (Middle)",
         "pt-BR": "Pedra de Visual (Meio)",
-        "es-ES": "Piedra visual (Centro)"
+        "es-ES": "Piedra de Disfraz (Centro)"
     },
     "SLwSCg": {
-        "en-US": "Bottom Stone",
+        "en-US": "Costume Stone (Lower)",
         "pt-BR": "Pedra de Visual (Baixo)",
-        "es-ES": "Piedra visual (Inferior)"
+        "es-ES": "Piedra de Disfraz (Inferior)"
     },
     "SbwSCg": {
-        "en-US": "Wear Normal Stone",
+        "en-US": "Costume Stone (Garment)",
         "pt-BR": "Pedra de Visual (Capa)",
-        "es-ES": "Piedra visual (Manto)"
+        "es-ES": "Piedra de Disfraz (Capa)"
     },
     "SrwSCg": {
-        "en-US": "Wear Dual Stone & Effect Stone",
+        "en-US": "Dual Stone & Effect Stone",
         "pt-BR": "Pedra de Efeito & Pedra Dual",
         "es-ES": "Piedra de Efecto y Piedra Dual"
     },
     "S7wSCg": {
-        "en-US": "[Mysterious Candy Shop]\nI'll show you how to exchange the mileage you have.",
-        "pt-BR": "[Casinha de Bonecas] \nDeixe-me mostrar como usar seus Cupons.",
-        "es-ES": "[Casa de Muñecas]\nDéjame mostrarte cómo usar tus cupones."
+        "en-US": "[Mysterious Candy Shop]\nI'll show you how to exchange the coins you have.",
+        "pt-BR": "[Casinha de Bonecas] \nDeixe-me mostrar como usar suas moedas.",
+        "es-ES": "[Casa de Muñecas]\nDéjame mostrarte cómo usar tus monedas."
     }
 }

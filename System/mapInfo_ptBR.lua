@@ -1,8 +1,8 @@
 mapTbl_string = {
 	["1@4cdn.rsw"] = {
-		displayName = "Caverna Ilusória da Provação Final",
+		displayName = "Provação Final",
 		signName = {
-			mainTitle = "Caverna Ilusória da Provação Final"
+			mainTitle = "Provação Final"
 		}
 	},
 	["1@4drk.rsw"] = {
@@ -12,15 +12,15 @@ mapTbl_string = {
 		}
 	},
 	["1@4igd.rsw"] = {
-		displayName = "Arena de Treinamento da Justiça",
+		displayName = "Arena da Justiça",
 		signName = {
-			mainTitle = "Arena de Treinamento da Justiça"
+			mainTitle = "Arena da Justiça"
 		}
 	},
 	["1@4inq.rsw"] = {
-		displayName = "Subsolo do Mosteiro",
+		displayName = "Subsolo da Abadia",
 		signName = {
-			mainTitle = "Subsolo do Mosteiro"
+			mainTitle = "Subsolo da Abadia"
 		}
 	},
 	["1@4mag.rsw"] = {
@@ -30,9 +30,9 @@ mapTbl_string = {
 		}
 	},
 	["1@4mst.rsw"] = {
-		displayName = "Núcleo de Juperos VT",
+		displayName = "Núcleo de  Juperos",
 		signName = {
-			mainTitle = "Núcleo de Juperos VT"
+			mainTitle = "Núcleo de  Juperos"
 		}
 	},
 	["1@4sac.rsw"] = {
@@ -42,15 +42,15 @@ mapTbl_string = {
 		}
 	},
 	["1@4tro.rsw"] = {
-		displayName = "Embarcação de Kvasir",
+		displayName = "Fonte de Kvasir",
 		signName = {
-			mainTitle = "Embarcação de Kvasir"
+			mainTitle = "Fonte de Kvasir"
 		}
 	},
 	["1@4win.rsw"] = {
-		displayName = "Floresta Profunda de Luluka",
+		displayName = "Profundezas de Luluka",
 		signName = {
-			mainTitle = "Floresta Profunda de Luluka"
+			mainTitle = "Profundezas de Luluka"
 		}
 	},
 	["1@adv.rsw"] = {
@@ -108,10 +108,10 @@ mapTbl_string = {
 		}
 	},
 	["1@ch_u.rsw"] = {
-		displayName = "Torre Afundada",
+		displayName = "Torre Submersa",
 		signName = {
-			mainTitle = "Torre Afundada",
-			subTitle = "Área Corrompida da Antiga Torre Sem Fim"
+			mainTitle = "Torre Submersa",
+			subTitle = "Antiga Torre sem Fim"
 		}
 	},
 	["1@cor.rsw"] = {
@@ -226,9 +226,9 @@ mapTbl_string = {
 		}
 	},
 	["1@ge_sn.rsw"] = {
-		displayName = "Torneio Noturno",
+		displayName = "Arena Noturna",
 		signName = {
-			mainTitle = "Torneio Noturno"
+			mainTitle = "Arena Noturna"
 		}
 	},
 	["1@ge_st.rsw"] = {
@@ -310,9 +310,9 @@ mapTbl_string = {
 		}
 	},
 	["1@herbs.rsw"] = {
-		displayName = "Jardim Oculto",
+		displayName = "Jardim Secreto",
 		signName = {
-			mainTitle = "Jardim Oculto"
+			mainTitle = "Jardim Secreto"
 		}
 	},
 	["1@infi.rsw"] = {
@@ -322,9 +322,9 @@ mapTbl_string = {
 		}
 	},
 	["1@jtb.rsw"] = {
-		displayName = "Pesadelo Musical",
+		displayName = "Sonho Sombio",
 		signName = {
-			mainTitle = "Pesadelo Musical"
+			mainTitle = "Sonho Sombio"
 		}
 	},
 	["1@lab.rsw"] = {
@@ -340,9 +340,9 @@ mapTbl_string = {
 		}
 	},
 	["1@lost.rsw"] = {
-		displayName = "Menageria Esquecida pelo Tempo",
+		displayName = "Fazenda de Pitayas",
 		signName = {
-			mainTitle = "Menageria Esquecida pelo Tempo",
+			mainTitle = "Fazenda de Pitayas",
 			subTitle = "Vale Perdido"
 		}
 	},
@@ -396,8 +396,8 @@ mapTbl_string = {
 	["1@mjo1.rsw"] = {
 		displayName = "Local da Queda do Aeroplano",
 		signName = {
-			mainTitle = "Local do Acidente",
-			subTitle = "Monte Mjolnir"
+			mainTitle = "Monte Mjolnir",
+			subTitle = "Local do Acidente"
 		}
 	},
 	["1@mjo2.rsw"] = {
@@ -426,10 +426,8 @@ mapTbl_string = {
 		}
 	},
 	["1@os_a.rsw"] = {
-		displayName = "Missão de Ocupação OS",
-		signName = {
-			mainTitle = "Missão de Ocupação OS"
-		}
+		displayName = "Missão OS",
+		signName = {mainTitle = "Missão OS"}
 	},
 	["1@os_b.rsw"] = {
 		displayName = "OS Restrito",
@@ -441,6 +439,13 @@ mapTbl_string = {
 		displayName = "Labirinto de Oz",
 		signName = {
 			mainTitle = "Labirinto de Oz"
+		}
+	},
+	["1@pbs.rsw"] = {
+		displayName = "Parquinho do Baby Shark",
+		signName = {
+			mainTitle = "Parquinho do Baby Shark",
+			subTitle = "Baby Shark - Pinkfong"
 		}
 	},
 	["1@pop1.rsw"] = {
@@ -508,9 +513,9 @@ mapTbl_string = {
 		}
 	},
 	["1@sthb.rsw"] = {
-		displayName = "Sussurro Sombrio",
+		displayName = "Fortaleza Voadora",
 		signName = {
-			mainTitle = "Sussurro Sombrio"
+			mainTitle = "Fortaleza Voadora"
 		}
 	},
 	["1@sthc.rsw"] = {
@@ -532,9 +537,9 @@ mapTbl_string = {
 		}
 	},
 	["1@tcamp.rsw"] = {
-		displayName = "Base Militar do Vulcão Thor",
+		displayName = "Base Militar do Vulcão de Thor",
 		signName = {
-			mainTitle = "Base Militar de Thor"
+			mainTitle = "Base Militar do Vulcão"
 		}
 	},
 	["1@thts.rsw"] = {
@@ -748,7 +753,7 @@ mapTbl_string = {
 	["8@thts.rsw"] = {
 		displayName = "Memória de Thanatos",
 		signName = {
-			mainTitle = "Espadachim Demoníaco Memória de Thanatos",
+			mainTitle = "Topo da Torre",
 			subTitle = "Memória de Thanatos"
 		}
 	},
@@ -809,16 +814,16 @@ mapTbl_string = {
 		}
 	},
 	["abyss_03a.rsw"] = {
-		displayName = "Caverna Subterr?nea do Lago do Abismo (3)",
+		displayName = "Caverna Subterrânea do Lago do Abismo (3)",
 		signName = {
-			mainTitle = "Caverna Subterr?nea (3)",
+			mainTitle = "Caverna Subterrânea (3)",
 			subTitle = "Lago do Abismo"
 		}
 	},
 	["abyss_03b.rsw"] = {
-		displayName = "Caverna Subterr?nea do Lago do Abismo (3)",
+		displayName = "Caverna Subterrânea do Lago do Abismo (3)",
 		signName = {
-			mainTitle = "Caverna Subterr?nea (3)",
+			mainTitle = "Caverna Subterrânea (3)",
 			subTitle = "Lago do Abismo"
 		}
 	},
@@ -843,9 +848,7 @@ mapTbl_string = {
 	},
 	["alb2trea.rsw"] = {
 		displayName = "Ilha de Alberta",
-		signName = {
-			mainTitle = "Ilha de Alberta"
-		}
+		signName = {mainTitle = "Ilhota", subTitle = "Alberta"}
 	},
 	["alb_ship.rsw"] = {
 		displayName = "Navio de Alberta"
@@ -989,34 +992,36 @@ mapTbl_string = {
 	["amicitia1.rsw"] = {
 		displayName = "Laboratório Abandonado de Amicitia",
 		signName = {
-			mainTitle = "1º Andar Laboratório Central",
-			subTitle = "Laboratório Abandonado de Amicitia"
+			mainTitle = "Amicitia (1)",
+			subTitle = "Laboratório Abandonado"
 		}
 	},
 	["amicitia2.rsw"] = {
 		displayName = "Laboratório Abandonado de Amicitia",
 		signName = {
-			mainTitle = "2º Andar Sala de Cultivo Intensivo",
-			subTitle = "Laboratório Abandonado de Amicitia"
+			mainTitle = "Amicitia (2)",
+			subTitle = "Sala de Cultivo"
 		}
 	},
 	["ant_d02_i.rsw"] = {
-		displayName = "Jardim da Percep??o",
+		displayName = "Ilusão dos Gêmeos",
 		signName = {
-			mainTitle = "Jardim da Percep??o",
-			subTitle = "Ilus?o"
+			mainTitle = "Ilusão dos Gêmeos",
+			subTitle = "Jardim da Percepção"
 		}
 	},
 	["anthell01.rsw"] = {
 		displayName = "Formigueiro Infernal (1)",
 		signName = {
-			mainTitle = "Formigueiro Infernal"
+			mainTitle = "Formigueiro Infernal",
+			subTitle = "Deserto de Sograt"
 		}
 	},
 	["anthell02.rsw"] = {
 		displayName = "Formigueiro Infernal (2)",
 		signName = {
-			mainTitle = "Formigueiro Infernal"
+			mainTitle = "Formigueiro Infernal",
+			subTitle = "Deserto de Sograt"
 		}
 	},
 	["arena_room.rsw"] = {
@@ -1130,13 +1135,13 @@ mapTbl_string = {
 		}
 	},
 	["ba_2whs01.rsw"] = {
-		displayName = "Armazém Tártaro (1)",
+		displayName = "Armazém Tártaro, Piso Superior",
 		signName = {
 			mainTitle = "Armazém Tártaro (1)"
 		}
 	},
 	["ba_2whs02.rsw"] = {
-		displayName = "Armazém Tártaro (2)",
+		displayName = "Armazém Tártaro, Piso Inferior",
 		signName = {
 			mainTitle = "Armazém Tártaro (2)"
 		}
@@ -1160,7 +1165,7 @@ mapTbl_string = {
 		}
 	},
 	["ba_in01.rsw"] = {
-		displayName = "Interior da Mansão"
+		displayName = "Interior da Mansão de Varmunt"
 	},
 	["ba_lib.rsw"] = {
 		displayName = "Corredor das Memórias",
@@ -1182,9 +1187,9 @@ mapTbl_string = {
 		}
 	},
 	["ba_pw01.rsw"] = {
-		displayName = "Usina Mágica (1)",
+		displayName = "Usina Mágica I",
 		signName = {
-			mainTitle = "Usina Mágica (1)"
+			mainTitle = "Usina Mágica I"
 		}
 	},
 	["ba_pw02.rsw"] = {
@@ -1194,9 +1199,9 @@ mapTbl_string = {
 		}
 	},
 	["ba_pw03.rsw"] = {
-		displayName = "Usina Mágica (2)",
+		displayName = "Usina Mágica II",
 		signName = {
-			mainTitle = "Usina Mágica (2)"
+			mainTitle = "Usina Mágica II"
 		}
 	},
 	["bat_a01.rsw"] = {
@@ -1272,31 +1277,31 @@ mapTbl_string = {
 		}
 	},
 	["bl_death.rsw"] = {
-		displayName = "Biosfera - Cemitério",
+		displayName = "Ecosfera - Cemitério",
 		signName = {
 			mainTitle = "Cemitério",
-			subTitle = "Bioesfera de Varmunt"
+			subTitle = "Ecosfera de Varmunt"
 		}
 	},
 	["bl_grass.rsw"] = {
-		displayName = "Biosfera - Savana",
+		displayName = "Ecosfera - Pradaria",
 		signName = {
-			mainTitle = "Savana",
-			subTitle = "Bioesfera de Varmunt"
+			mainTitle = "Pradaria",
+			subTitle = "Ecosfera de Varmunt"
 		}
 	},
 	["bl_ice.rsw"] = {
-		displayName = "Biosfera - Tundra",
+		displayName = "Ecosfera - Geleira",
 		signName = {
-			mainTitle = "Tundra",
-			subTitle = "Bioesfera de Varmunt"
+			mainTitle = "Geleira",
+			subTitle = "Ecosfera de Varmunt"
 		}
 	},
 	["bl_lava.rsw"] = {
-		displayName = "Biosfera - Inferno",
+		displayName = "Ecosfera - Vulcão",
 		signName = {
-			mainTitle = "Inferno",
-			subTitle = "Bioesfera de Varmunt"
+			mainTitle = "Vulcão",
+			subTitle = "Ecosfera de Varmunt"
 		}
 	},
 	["bossnia_01.rsw"] = {
@@ -1318,13 +1323,15 @@ mapTbl_string = {
 	["bra_dun01.rsw"] = {
 		displayName = "Caverna das Cataratas",
 		signName = {
-			mainTitle = "Caverna das Cataratas"
+			mainTitle = "Caverna das Cataratas",
+			subTitle = "Brasilis"
 		}
 	},
 	["bra_dun02.rsw"] = {
 		displayName = "Profundezas das Cataratas",
 		signName = {
-			mainTitle = "Profundezas das Cataratas"
+			mainTitle = "Profundezas das Cataratas",
+			subTitle = "Brasilis"
 		}
 	},
 	["bra_fild01.rsw"] = {
@@ -1413,7 +1420,7 @@ mapTbl_string = {
 		}
 	},
 	["clock_01.rsw"] = {
-		displayName = "Câmara Desconhecida da Torre do Relógio",
+		displayName = "Câmara Desconhecida",
 		signName = {
 			mainTitle = "Câmara Desconhecida",
 			subTitle = "Torre do Relógio"
@@ -1496,9 +1503,9 @@ mapTbl_string = {
 		}
 	},
 	["conch_in.rsw"] = {
-		displayName = "Dentro do Con-Chilina",
+		displayName = "Dentro do Conchilina",
 		signName = {
-			mainTitle = "Dentro do Con-Chilina",
+			mainTitle = "Dentro do Conchilina",
 			subTitle = "O Navio de Lasagna"
 		}
 	},
@@ -1517,13 +1524,15 @@ mapTbl_string = {
 	["dew_dun01.rsw"] = {
 		displayName = "Vulcão Krakatau",
 		signName = {
-			mainTitle = "Vulcão Krakatau"
+			mainTitle = "Vulcão Krakatau",
+			subTitle = "Dewata"
 		}
 	},
 	["dew_dun02.rsw"] = {
 		displayName = "Caverna Istana",
 		signName = {
-			mainTitle = "Caverna Istana"
+			mainTitle = "Caverna Istana",
+			subTitle = "Dewata"
 		}
 	},
 	["dew_fild01.rsw"] = {
@@ -1546,25 +1555,29 @@ mapTbl_string = {
 	["dic_dun01.rsw"] = {
 		displayName = "Túnel Kamidal",
 		signName = {
-			mainTitle = "Túnel Kamidal"
+			mainTitle = "Túnel Kamidal",
+			subTitle = "Jotunheim"
 		}
 	},
 	["dic_dun02.rsw"] = {
 		displayName = "Caverna Scaraba",
 		signName = {
-			mainTitle = "Caverna Scaraba"
+			mainTitle = "Caverna Scaraba",
+			subTitle = "Jotunheim"
 		}
 	},
 	["dic_dun02a.rsw"] = {
 		displayName = "Caverna Scaraba",
 		signName = {
-			mainTitle = "Caverna Scaraba"
+			mainTitle = "Caverna Scaraba",
+			subTitle = "Túnel Kamidal"
 		}
 	},
 	["dic_dun02b.rsw"] = {
 		displayName = "Caverna Scaraba",
 		signName = {
-			mainTitle = "Caverna Scaraba"
+			mainTitle = "Caverna Scaraba",
+			subTitle = "Túnel Kamidal"
 		}
 	},
 	["dic_dun03.rsw"] = {
@@ -1836,7 +1849,8 @@ mapTbl_string = {
 	["gef_dun03.rsw"] = {
 		displayName = "Calabouço de Geffen (3)",
 		signName = {
-			mainTitle = "Calabouço de Geffen (3)"
+			mainTitle = "Calabouço de Geffen (3)",
+			subTitle = "Subsolo mais Profundo"
 		}
 	},
 	["gef_f10_a.rsw"] = {
@@ -1947,7 +1961,8 @@ mapTbl_string = {
 	["gef_tower.rsw"] = {
 		displayName = "Torre de Geffen",
 		signName = {
-			mainTitle = "Torre de Geffen"
+			mainTitle = "Torre de Geffen",
+			subTitle = "Guilda dos Bruxos"
 		}
 	},
 	["gefenia01.rsw"] = {
@@ -2027,7 +2042,7 @@ mapTbl_string = {
 		}
 	},
 	["gl_cas01_.rsw"] = {
-		displayName = "Porão de Glastheim",
+		displayName = "Porão de Glastheim (1)",
 		signName = {
 			mainTitle = "Porão do Castelo",
 			subTitle = "Glastheim"
@@ -2036,7 +2051,7 @@ mapTbl_string = {
 	["gl_cas02.rsw"] = {
 		displayName = "Castelo de Glastheim (2)",
 		signName = {
-			mainTitle = "Castelo (2)",
+			mainTitle = "Castelo de Glastheim (2)",
 			subTitle = "Glastheim"
 		}
 	},
@@ -2243,13 +2258,15 @@ mapTbl_string = {
 	["gon_dun02.rsw"] = {
 		displayName = "Tabuleiro de Go",
 		signName = {
-			mainTitle = "Tabuleiro de Go"
+			mainTitle = "Tabuleiro de Go",
+			subTitle = "Kunlun"
 		}
 	},
 	["gon_dun03.rsw"] = {
 		displayName = "Terra das Fadas",
 		signName = {
-			mainTitle = "Terra das Fadas"
+			mainTitle = "Terra das Fadas",
+			subTitle = "Kunlun"
 		}
 	},
 	["gon_fild01.rsw"] = {
@@ -2276,9 +2293,9 @@ mapTbl_string = {
 		}
 	},
 	["grademk.rsw"] = {
-		displayName = "Instalação de Aprimoramento de Grau",
+		displayName = "Butique de Grau",
 		signName = {
-			subTitle = "Instalação de Aprimoramento de Grau"
+			subTitle = "Butique de Grau"
 		}
 	},
 	["guild_room.rsw"] = {
@@ -2342,7 +2359,8 @@ mapTbl_string = {
 	["harboro2.rsw"] = {
 		displayName = "Esgotos de Rockridge",
 		signName = {
-			mainTitle = "Esgotos de Rockridge"
+			mainTitle = "Esgotos de Rockridge",
+			subTitle = "Rockridge"
 		}
 	},
 	["himinn.rsw"] = {
@@ -2463,7 +2481,8 @@ mapTbl_string = {
 	["in_moc_16.rsw"] = {
 		displayName = "Guilda dos Mercenários",
 		signName = {
-			mainTitle = "Guilda dos Mercenários"
+			mainTitle = "Guilda dos Mercenários",
+			subTitle = "Fortaleza das Areias"
 		}
 	},
 	["in_orcs01.rsw"] = {
@@ -2475,31 +2494,36 @@ mapTbl_string = {
 	["in_sphinx1.rsw"] = {
 		displayName = "Esfinge (1)",
 		signName = {
-			mainTitle = "Esfinge (1)"
+			mainTitle = "Esfinge (1)",
+			subTitle = "Morroc"
 		}
 	},
 	["in_sphinx2.rsw"] = {
 		displayName = "Esfinge (2)",
 		signName = {
-			mainTitle = "Esfinge (2)"
+			mainTitle = "Esfinge (2)",
+			subTitle = "Morroc"
 		}
 	},
 	["in_sphinx3.rsw"] = {
 		displayName = "Esfinge (3)",
 		signName = {
-			mainTitle = "Esfinge (3)"
+			mainTitle = "Esfinge (3)",
+			subTitle = "Morroc"
 		}
 	},
 	["in_sphinx4.rsw"] = {
 		displayName = "Esfinge (4)",
 		signName = {
-			mainTitle = "Esfinge (4)"
+			mainTitle = "Esfinge (4)",
+			subTitle = "Morroc"
 		}
 	},
 	["in_sphinx5.rsw"] = {
 		displayName = "Esfinge (5)",
 		signName = {
-			mainTitle = "Esfinge (5)"
+			mainTitle = "Esfinge (5)",
+			subTitle = "Morroc"
 		}
 	},
 	["int_land.rsw"] = {
@@ -2522,7 +2546,7 @@ mapTbl_string = {
 		displayName = "Ilhota",
 		signName = {mainTitle = "Ilhota"}
 	},
-	["itemmall.rsw"] = {displayName = "Mercado"},
+	["itemmall.rsw"] = {displayName = "Shopping"},
 	["iz_ac01.rsw"] = {
 		displayName = "Academia Criatura (1)",
 		signName = {
@@ -2533,24 +2557,28 @@ mapTbl_string = {
 	["iz_ac01_a.rsw"] = {
 		displayName = "Academia Criatura (1)",
 		signName = {
+			mainTitle = "Térreo",
 			subTitle = "Academia Criatura (1)"
 		}
 	},
 	["iz_ac01_b.rsw"] = {
 		displayName = "Academia Criatura (1)",
 		signName = {
+			mainTitle = "Térreo",
 			subTitle = "Academia Criatura (1)"
 		}
 	},
 	["iz_ac01_c.rsw"] = {
 		displayName = "Academia Criatura (1)",
 		signName = {
+			mainTitle = "Térreo",
 			subTitle = "Academia Criatura (1)"
 		}
 	},
 	["iz_ac01_d.rsw"] = {
 		displayName = "Academia Criatura (1)",
 		signName = {
+			mainTitle = "Térreo",
 			subTitle = "Academia Criatura (1)"
 		}
 	},
@@ -2564,37 +2592,41 @@ mapTbl_string = {
 	["iz_ac02_a.rsw"] = {
 		displayName = "Academia Criatura (2)",
 		signName = {
+			mainTitle = "Primeiro Andar",
 			subTitle = "Academia Criatura (2)"
 		}
 	},
 	["iz_ac02_b.rsw"] = {
 		displayName = "Academia Criatura (2)",
 		signName = {
+			mainTitle = "Primeiro Andar",
 			subTitle = "Academia Criatura (2)"
 		}
 	},
 	["iz_ac02_c.rsw"] = {
 		displayName = "Academia Criatura (2)",
 		signName = {
+			mainTitle = "Primeiro Andar",
 			subTitle = "Academia Criatura (2)"
 		}
 	},
 	["iz_ac02_d.rsw"] = {
 		displayName = "Academia Criatura (2)",
 		signName = {
+			mainTitle = "Primeiro Andar",
 			subTitle = "Academia Criatura (2)"
 		}
 	},
 	["iz_d04_i.rsw"] = {
-		displayName = "Ilusão Submarina (1)",
+		displayName = "Ilusão do Mar (1)",
 		signName = {
-			mainTitle = "Ilusão Submarina (1)"
+			mainTitle = "Ilusão do Mar (1)"
 		}
 	},
 	["iz_d05_i.rsw"] = {
-		displayName = "Ilusão Submarina (2)",
+		displayName = "Ilusão do Mar (2)",
 		signName = {
-			mainTitle = "Ilusão Submarina (2)"
+			mainTitle = "Ilusão do Mar (2)"
 		}
 	},
 	["iz_dun00.rsw"] = {
@@ -2638,6 +2670,18 @@ mapTbl_string = {
 			mainTitle = "Túnel Submarino (5)",
 			subTitle = "Ilha Byalan"
 		}
+	},
+	["iz_in_a.rsw"] = {
+		displayName = "Interior de Izlude"
+	},
+	["iz_in_b.rsw"] = {
+		displayName = "Interior de Izlude"
+	},
+	["iz_in_c.rsw"] = {
+		displayName = "Interior de Izlude"
+	},
+	["iz_in_d.rsw"] = {
+		displayName = "Interior de Izlude"
 	},
 	["iz_int.rsw"] = {
 		displayName = "Navio Naufragado",
@@ -2775,9 +2819,9 @@ mapTbl_string = {
 		}
 	},
 	["job4_tro.rsw"] = {
-		displayName = "Embarcação Vazia de Kvasir",
+		displayName = "Fonte de Kvasir",
 		signName = {
-			mainTitle = "Embarcação Vazia de Kvasir"
+			mainTitle = "Fonte de Kvasir"
 		}
 	},
 	["job_cru.rsw"] = {
@@ -2873,15 +2917,15 @@ mapTbl_string = {
 		}
 	},
 	["juperos_01a.rsw"] = {
-		displayName = "Ru?nas de Juperos (1)",
+		displayName = "Ruínas de Juperos (1)",
 		signName = {
-			mainTitle = "Ru?nas de Juperos"
+			mainTitle = "Ruínas de Juperos"
 		}
 	},
 	["juperos_01b.rsw"] = {
-		displayName = "Ru?nas de Juperos (1)",
+		displayName = "Ruínas de Juperos (1)",
 		signName = {
-			mainTitle = "Ru?nas de Juperos"
+			mainTitle = "Ruínas de Juperos"
 		}
 	},
 	["juperos_02.rsw"] = {
@@ -2938,19 +2982,19 @@ mapTbl_string = {
 	["knight_2-1.rsw"] = {displayName = "Cavalaria"},
 	["knight_3-1.rsw"] = {displayName = "Cavalaria"},
 	["lasa_dun01.rsw"] = {
-		displayName = "Ninho do Dragão (1)",
+		displayName = "Ninho do Dragão",
 		signName = {
 			mainTitle = "Ninho do Dragão (1)"
 		}
 	},
 	["lasa_dun02.rsw"] = {
-		displayName = "Ninho do Dragão (2)",
+		displayName = "Ninho do Dragão",
 		signName = {
 			mainTitle = "Ninho do Dragão (2)"
 		}
 	},
 	["lasa_dun03.rsw"] = {
-		displayName = "Ninho do Dragão (3)",
+		displayName = "Ninho do Dragão",
 		signName = {
 			mainTitle = "Ninho do Dragão (3)"
 		}
@@ -3541,37 +3585,43 @@ mapTbl_string = {
 	["moc_pryd01.rsw"] = {
 		displayName = "Pirâmide (1)",
 		signName = {
-			mainTitle = "Pirâmide (1)"
+			mainTitle = "Pirâmide (1)",
+			subTitle = "Morroc"
 		}
 	},
 	["moc_pryd02.rsw"] = {
 		displayName = "Pirâmide (2)",
 		signName = {
-			mainTitle = "Pirâmide (2)"
+			mainTitle = "Pirâmide (2)",
+			subTitle = "Morroc"
 		}
 	},
 	["moc_pryd03.rsw"] = {
 		displayName = "Pirâmide (3)",
 		signName = {
-			mainTitle = "Pirâmide (3)"
+			mainTitle = "Pirâmide (3)",
+			subTitle = "Morroc"
 		}
 	},
 	["moc_pryd04.rsw"] = {
 		displayName = "Pirâmide (4)",
 		signName = {
-			mainTitle = "Pirâmide (4)"
+			mainTitle = "Pirâmide (4)",
+			subTitle = "Morroc"
 		}
 	},
 	["moc_pryd05.rsw"] = {
 		displayName = "Subsolo da Pirâmide (1)",
 		signName = {
-			mainTitle = "Subsolo da Pirâmide (1)"
+			mainTitle = "Subsolo da Pirâmide (1)",
+			subTitle = "Morroc"
 		}
 	},
 	["moc_pryd06.rsw"] = {
 		displayName = "Subsolo da Pirâmide (2)",
 		signName = {
-			mainTitle = "Subsolo da Pirâmide (2)"
+			mainTitle = "Subsolo da Pirâmide (2)",
+			subTitle = "Morroc"
 		}
 	},
 	["moc_prydb1.rsw"] = {
@@ -3602,7 +3652,10 @@ mapTbl_string = {
 		}
 	},
 	["monk_in.rsw"] = {
-		displayName = "Interior da Abadia"
+		displayName = "Interior da Abadia",
+		signName = {
+			mainTitle = "Abadia de Santa Capitolina"
+		}
 	},
 	["monk_test.rsw"] = {
 		displayName = "Teste dos Monges"
@@ -3652,19 +3705,22 @@ mapTbl_string = {
 	["mosk_dun02.rsw"] = {
 		displayName = "Floresta Encantada (2)",
 		signName = {
-			mainTitle = "Floresta Encantada (2)"
+			mainTitle = "Floresta Encantada (2)",
+			subTitle = "Moscóvia"
 		}
 	},
 	["mosk_dun03.rsw"] = {
 		displayName = "Floresta Encantada (3)",
 		signName = {
-			mainTitle = "Floresta Encantada (3)"
+			mainTitle = "Floresta Encantada (3)",
+			subTitle = "Moscóvia"
 		}
 	},
 	["mosk_fild01.rsw"] = {
 		displayName = "Ilha Baleia",
 		signName = {
-			mainTitle = "Ilha Baleia"
+			mainTitle = "Ilha Baleia",
+			subTitle = "Moscóvia"
 		}
 	},
 	["mosk_fild02.rsw"] = {
@@ -3707,9 +3763,9 @@ mapTbl_string = {
 		}
 	},
 	["new_1-3.rsw"] = {
-		displayName = "Jardins do Academia Criatura",
+		displayName = "Jardins da Academia",
 		signName = {
-			mainTitle = "Jardins do Instituto"
+			mainTitle = "Jardins da Academia"
 		}
 	},
 	["new_1-4.rsw"] = {
@@ -3755,7 +3811,10 @@ mapTbl_string = {
 		}
 	},
 	["new_3-3.rsw"] = {
-		displayName = "Campo de Treinamento"
+		displayName = "Campo de Treinamento",
+		signName = {
+			mainTitle = "Campo de Treinamento"
+		}
 	},
 	["new_3-4.rsw"] = {
 		displayName = "Campo de Treinamento",
@@ -3806,17 +3865,17 @@ mapTbl_string = {
 		}
 	},
 	["nif_dun01.rsw"] = {
-		displayName = "Calabouço de Niflheim - Salão dos Mortos",
+		displayName = "Salão dos Mortos",
 		signName = {
 			mainTitle = "Salão dos Mortos",
-			subTitle = "Calabouço de Niflheim 1º Andar"
+			subTitle = "Calabouço de Niflheim (1)"
 		}
 	},
 	["nif_dun02.rsw"] = {
-		displayName = "Calabouço de Niflheim - Ópera em Ruínas",
+		displayName = "Teatro em Ruínas",
 		signName = {
-			mainTitle = "Ópera em Ruínas",
-			subTitle = "Calabouço de Niflheim 2º Andar"
+			mainTitle = "Teatro em Ruínas",
+			subTitle = "Calabouço de Niflheim (2)"
 		}
 	},
 	["nif_fild01.rsw"] = {
@@ -3830,16 +3889,16 @@ mapTbl_string = {
 		displayName = "Vale de Gyoll",
 		signName = {
 			mainTitle = "Vale de Gyoll",
-			subTitle = "Arredores de Nifflheim"
+			subTitle = "Arredores de Niflheim"
 		}
 	},
 	["nif_in.rsw"] = {
-		displayName = "Interior de Nifflheim"
+		displayName = "Interior de Niflheim"
 	},
 	["niflheim.rsw"] = {
-		displayName = "Nifflheim",
+		displayName = "Niflheim",
 		signName = {
-			mainTitle = "Nifflheim",
+			mainTitle = "Niflheim",
 			subTitle = "O Reino dos Mortos"
 		}
 	},
@@ -3862,25 +3921,25 @@ mapTbl_string = {
 		}
 	},
 	["odin_tem01.rsw"] = {
-		displayName = "Templo de Odin (1)",
+		displayName = "Templo de Odin (Oeste)",
 		signName = {
 			mainTitle = "Templo de Odin"
 		}
 	},
 	["odin_tem02.rsw"] = {
-		displayName = "Templo de Odin (2)",
+		displayName = "Templo de Odin (Sul)",
 		signName = {
 			mainTitle = "Templo de Odin"
 		}
 	},
 	["odin_tem02a.rsw"] = {
-		displayName = "Templo de Odin (2)",
+		displayName = "Templo de Odin (Sul)",
 		signName = {
 			mainTitle = "Templo de Odin"
 		}
 	},
 	["odin_tem02b.rsw"] = {
-		displayName = "Templo de Odin (2)",
+		displayName = "Templo de Odin (Sul)",
 		signName = {
 			mainTitle = "Templo de Odin"
 		}
@@ -3888,7 +3947,7 @@ mapTbl_string = {
 	["odin_tem03.rsw"] = {
 		displayName = "Templo de Odin (3)",
 		signName = {
-			mainTitle = "Templo de Odin"
+			mainTitle = "Templo de Odin (Norte)"
 		}
 	},
 	["orcsdun01.rsw"] = {
@@ -4180,6 +4239,13 @@ mapTbl_string = {
 	["payon_in03.rsw"] = {
 		displayName = "Interior de Payon"
 	},
+	["pbse.rsw"] = {
+		displayName = "Parquinho do Baby Shark",
+		signName = {
+			mainTitle = "Parquinho do Baby Shark",
+			subTitle = "Baby Shark - Pinkfong"
+		}
+	},
 	["poring_w01.rsw"] = {
 		displayName = "Sala de Espera da Guerra dos Porings",
 		signName = {
@@ -4203,7 +4269,8 @@ mapTbl_string = {
 		}
 	},
 	["prt_are01.rsw"] = {
-		displayName = "Teste dos Arruaceiros"
+		displayName = "Teste dos Arruaceiros",
+		signName = {mainTitle = "Arena"}
 	},
 	["prt_are_in.rsw"] = {
 		displayName = "Sala de Espera da Arena de Izlude",
@@ -4424,25 +4491,29 @@ mapTbl_string = {
 	["prt_sewb1.rsw"] = {
 		displayName = "Esgotos de Prontera (1)",
 		signName = {
-			mainTitle = "Esgotos de Prontera (1)"
+			mainTitle = "Esgoto Subterrâneo (1)",
+			subTitle = "Prontera"
 		}
 	},
 	["prt_sewb2.rsw"] = {
 		displayName = "Esgotos de Prontera (2)",
 		signName = {
-			mainTitle = "Esgotos de Prontera (2)"
+			mainTitle = "Esgoto Subterrâneo (2)",
+			subTitle = "Prontera"
 		}
 	},
 	["prt_sewb3.rsw"] = {
 		displayName = "Esgotos de Prontera (3)",
 		signName = {
-			mainTitle = "Esgotos de Prontera (3)"
+			mainTitle = "Esgoto Subterrâneo (3)",
+			subTitle = "Prontera"
 		}
 	},
 	["prt_sewb4.rsw"] = {
 		displayName = "Esgotos de Prontera (4)",
 		signName = {
-			mainTitle = "Esgotos de Prontera (4)"
+			mainTitle = "Esgoto Subterrâneo (4)",
+			subTitle = "Prontera"
 		}
 	},
 	["prtg_cas01.rsw"] = {
@@ -5174,16 +5245,16 @@ mapTbl_string = {
 		}
 	},
 	["ra_fild12a.rsw"] = {
-		displayName = "Plan?cie de Ida",
+		displayName = "Planície de Ida",
 		signName = {
-			mainTitle = "Plan?cie de Ida",
+			mainTitle = "Planície de Ida",
 			subTitle = "Arredores de Rachel (12)"
 		}
 	},
 	["ra_fild12b.rsw"] = {
-		displayName = "Plan?cie de Ida",
+		displayName = "Planície de Ida",
 		signName = {
-			mainTitle = "Plan?cie de Ida",
+			mainTitle = "Planície de Ida",
 			subTitle = "Arredores de Rachel (12)"
 		}
 	},
@@ -5204,17 +5275,17 @@ mapTbl_string = {
 		}
 	},
 	["ra_san01a.rsw"] = {
-		displayName = "Santu?rio de Freya (1)",
+		displayName = "Santuário de Freya (1)",
 		signName = {
 			mainTitle = "Sessrumnir",
-			subTitle = "Santu?rio de Freya (1)"
+			subTitle = "Santuário de Freya (1)"
 		}
 	},
 	["ra_san01b.rsw"] = {
-		displayName = "Santu?rio de Freya (1)",
+		displayName = "Santuário de Freya (1)",
 		signName = {
 			mainTitle = "Sessrumnir",
-			subTitle = "Santu?rio de Freya (1)"
+			subTitle = "Santuário de Freya (1)"
 		}
 	},
 	["ra_san02.rsw"] = {
@@ -5282,15 +5353,15 @@ mapTbl_string = {
 		}
 	},
 	["rockmi1.rsw"] = {
-		displayName = "Minas de Rockridge (1)",
+		displayName = "Minas de Rockridge",
 		signName = {
-			mainTitle = "Minas de Rockridge"
+			mainTitle = "Minas de Rockridge (1)"
 		}
 	},
 	["rockmi2.rsw"] = {
-		displayName = "Minas de Rockridge (2)",
+		displayName = "Minas de Rockridge",
 		signName = {
-			mainTitle = "Minas de Rockridge"
+			mainTitle = "Minas de Rockridge (2)"
 		}
 	},
 	["rockrdg1.rsw"] = {
@@ -5397,7 +5468,7 @@ mapTbl_string = {
 	["sp_os.rsw"] = {
 		displayName = "Distrito OS",
 		signName = {
-			mainTitle = "OS",
+			mainTitle = "Distrito OS",
 			subTitle = "Fronteira de Segurança"
 		}
 	},
@@ -5409,24 +5480,24 @@ mapTbl_string = {
 		}
 	},
 	["sp_rudus2.rsw"] = {
-		displayName = "Rudus, depósito de rejeitos (2)",
+		displayName = "Rudus - Depósito de Rejeitos (2)",
 		signName = {
 			mainTitle = "Rudus (2)",
 			subTitle = "Depósito de Rejeitos"
 		}
 	},
 	["sp_rudus3.rsw"] = {
-		displayName = "Rudus, depósito de rejeitos (3)",
+		displayName = "Rudus - Depósito de Rejeitos (3)",
 		signName = {
 			mainTitle = "Rudus (3)",
 			subTitle = "Depósito de Rejeitos"
 		}
 	},
 	["sp_rudus4.rsw"] = {
-		displayName = "Rudus 4º Andar - Área de Descarte de Experimentos",
+		displayName = "Rudus - Depósito de Rejeitos (4)",
 		signName = {
-			mainTitle = "Rudus 4º Andar",
-			subTitle = "Área de Descarte de Experimentos"
+			mainTitle = "Rudus (4)",
+			subTitle = "Depósito de Rejeitos"
 		}
 	},
 	["spl_fild01.rsw"] = {
@@ -5953,14 +6024,14 @@ mapTbl_string = {
 	["ve_fild03a.rsw"] = {
 		displayName = "Arredores de Veins (3)",
 		signName = {
-			mainTitle = "Entrada do Vulc?o",
+			mainTitle = "Entrada do Vulcão",
 			subTitle = "Arredores de Veins (3)"
 		}
 	},
 	["ve_fild03b.rsw"] = {
 		displayName = "Arredores de Veins (3)",
 		signName = {
-			mainTitle = "Entrada do Vulc?o",
+			mainTitle = "Entrada do Vulcão",
 			subTitle = "Arredores de Veins (3)"
 		}
 	},
@@ -6108,6 +6179,9 @@ mapTbl_string = {
 			mainTitle = "Prontera",
 			subTitle = "Dimensão Paralela"
 		}
+	},
+	["x_prt_in.rsw"] = {
+		displayName = "Interior de Prontera Dimensional"
 	},
 	["x_ra.rsw"] = {
 		displayName = "Rachel Dimensional",

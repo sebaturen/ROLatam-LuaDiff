@@ -1,71 +1,88 @@
 {
     "oExABQ": {
         "en-US": "ze summoner",
-        "pt-BR": "ze summoner"
+        "pt-BR": "ze summoner",
+        "es-ES": "ze summoner"
     },
     "oUxABQ": {
         "en-US": "[ze summoner]\nGive me the password...",
-        "pt-BR": "[ze summoner]\nGive me the password..."
+        "pt-BR": "[ze summoner]\nGive me the password...",
+        "es-ES": "[ze summoner]\nDame la contraseña..."
     },
     "okxABQ": {
         "en-US": "[ze summoner]\nTell me what you want...",
-        "pt-BR": "[ze summoner]\nTell me what you want..."
+        "pt-BR": "[ze summoner]\nTell me what you want...",
+        "es-ES": "[ze summoner]\nDime qué quieres..."
     },
     "o0xABQ": {
         "en-US": "Start summon",
-        "pt-BR": "Start summon"
+        "pt-BR": "Start summon",
+        "es-ES": "Iniciar invocación"
     },
     "pExABQ": {
         "en-US": "Kill all monsters",
-        "pt-BR": "Kill all monsters"
+        "pt-BR": "Kill all monsters",
+        "es-ES": "Matar a todos los monstruos"
     },
     "pUxABQ": {
         "en-US": "Cancel",
-        "pt-BR": "Cancel"
+        "pt-BR": "Cancel",
+        "es-ES": "Cancelar"
     },
     "pkxABQ": {
         "en-US": "[ze summoner]\nGive me the monster ID\nexample: poring = 1002",
-        "pt-BR": "[ze summoner]\nGive me the monster ID\nexample: poring = 1002"
+        "pt-BR": "[ze summoner]\nGive me the monster ID\nexample: poring = 1002",
+        "es-ES": "[ze summoner]\nDame el ID del monstruo\nejemplo: poring = 1002"
     },
     "p0xABQ": {
         "en-US": "[ze summoner]\nHow many monsters do you want to summon?\nMax 100 monsters can be summoned at once.",
-        "pt-BR": "[ze summoner]\nHow many monsters do you want to summon?\nMax 100 monsters can be summoned at once."
+        "pt-BR": "[ze summoner]\nHow many monsters do you want to summon?\nMax 100 monsters can be summoned at once.",
+        "es-ES": "[ze summoner]\n¿Cuántos monstruos quieres invocar?\nSe pueden invocar máximo 100 monstruos a la vez."
     },
     "qExABQ": {
         "en-US": "[ze summoner]\nCancel summon.",
-        "pt-BR": "[ze summoner]\nCancel summon."
+        "pt-BR": "[ze summoner]\nCancel summon.",
+        "es-ES": "[ze summoner]\nCancelar invocación."
     },
     "qUxABQ": {
         "en-US": "[ze summoner]\nInput a number inside the range.",
-        "pt-BR": "[ze summoner]\nInput a number inside the range."
+        "pt-BR": "[ze summoner]\nInput a number inside the range.",
+        "es-ES": "[ze summoner]\nIngresa un número dentro del rango."
     },
     "qkxABQ": {
         "en-US": "ITS RAINING MOOOOOBS HALLELUJAH!!!",
-        "pt-BR": "ITS RAINING MOOOOOBS HALLELUJAH!!!"
+        "pt-BR": "ITS RAINING MOOOOOBS HALLELUJAH!!!",
+        "es-ES": "¡¡¡ESTÁ LLOVIENDO MOOOOOBS, ALELUYA!!!"
     },
     "q0xABQ": {
         "en-US": "Experiment Monster",
-        "pt-BR": "Experiment Monster"
+        "pt-BR": "Experiment Monster",
+        "es-ES": "Monstruo experimental"
     },
     "rExABQ": {
         "en-US": "[ze summoner]\nAll the monsters have been killed.",
-        "pt-BR": "[ze summoner]\nAll the monsters have been killed."
+        "pt-BR": "[ze summoner]\nAll the monsters have been killed.",
+        "es-ES": "[ze summoner]\nTodos los monstruos han sido asesinados."
     },
     "rUxABQ": {
         "en-US": "None of them is alive now!!!",
-        "pt-BR": "None of them is alive now!!!"
+        "pt-BR": "None of them is alive now!!!",
+        "es-ES": "¡¡¡Ninguno de ellos está vivo ahora!!!"
     },
     "rkxABQ": {
         "en-US": "[ze summoner]\nSee you.",
-        "pt-BR": "[ze summoner]\nSee you."
+        "pt-BR": "[ze summoner]\nSee you.",
+        "es-ES": "[ze summoner]\nNos vemos."
     },
     "r0xABQ": {
         "en-US": "[ze summoner]\nCheck the password again.",
-        "pt-BR": "[ze summoner]\nCheck the password again."
+        "pt-BR": "[ze summoner]\nCheck the password again.",
+        "es-ES": "[ze summoner]\nVerifica la contraseña de nuevo."
     },
     "sExABQ": {
         "en-US": "Good job: {0}, You Killed the last mob.",
-        "pt-BR": "Good job: {0}, You Killed the last mob."
+        "pt-BR": "Good job: {0}, You Killed the last mob.",
+        "es-ES": "Buen trabajo: {0}, mataste al último mob."
     },
     "sUxABQ": {
         "en-US": "gef_fild04",

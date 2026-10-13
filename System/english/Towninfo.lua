@@ -117,20 +117,6 @@ mapNPCInfoTable = {
 			TYPE = 0
 		}
 	},
-	tra_fild = {
-		{
-			name = "Storage",
-			X = 94,
-			Y = 171,
-			TYPE = 6
-		},
-		{
-			name = "Storage",
-			X = 114,
-			Y = 80,
-			TYPE = 6
-		}
-	},
 	prt_monk = {
 		{
 			name = "Weapons",

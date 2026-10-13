@@ -147,22 +147,22 @@ RecommendedQuestInfoList = {
 			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Observe que ela não será excluída mesmo que a missão seja concluída.^000000"
 		}
 	},
-	[7] = {
-		Title = "Festival de Fideos",
-		IconName = "ico_ev.bmp",
-		Summary = "¡Ven a Lasagna!",
-		BgName = "reco_02.bmp",
+	[77] = {
+		Title = "Biosfera de Varmunt",
+		IconName = "ico_sc.bmp",
+		Summary = "Solicitamos la ayuda de Cliente",
+		NpcSpr = "4_EP17_BASIC_B",
+		BgName = "reco_77.bmp",
 		QuestInfo1 = {
-			"¿Qué tal un poco de fideos deliciosos?",
-			"¡Únete al Festival de Fideos en <NAVI>[Lasagna]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! ¡Puedes conseguir grandes recompensas!"
+			"¿No siente curiosidad por el Hábitat artificial que el maestro Varmunt ha creado dentro de la <NAVI>[mansión]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>?",
+			"Necesitamos urgentemente la ayuda del aventurero para eliminar a los monstruos que se han vuelto extrañamente fuertes tras largos años aislados del exterior."
 		},
 		QuestInfo2 = {
-			"Evento Limitado",
-			"Consulta los requisitos",
-			"^ff0000Nivel mínimo: 50^000000"
+			"Objetivo:",
+			"Cualquier Cliente de nivel 230 o superior"
 		},
 		QuestInfo3 = {
-			"^ff0000Ø Periodo: Del 3 al 18 de agosto.^000000"
+			"^ff0000 Esta página es una presentación de la actualización, no una misión. Ten en cuenta que no se eliminará aunque completes la misión.^000000"
 		}
 	}
 }

@@ -6,47 +6,47 @@
     },
     "4dGCDA": {
         "en-US": "[Einhar]\nYou've safely entered the underground ward.\nNow, you must earn the recognition of the sealstones forming this ward.\nThey're located on the northwest, northeast, southeast, and southwest sides of the ward.",
-        "pt-BR": "[Einhar]\nVocê entrou no Barreira Subterrânea sem problemas.\nAgora você precisa fazer com que as Pedras de Selamento que compõem a barreira reconheçam a sua presença.\nAs Pedras de Selamento estão localizadas nas direções noroeste, nordeste, sudeste e sudoeste desta barreira.",
+        "pt-BR": "[Einhar]\nVocê entrou nas catacumbas sem problemas.\nAgora você precisa fazer com que os Selos que compõem a barreira reconheçam a sua presença.\nOs Selos estão localizados nas direções noroeste, nordeste, sudeste e sudoeste deste local.",
         "es-ES": "[Einhar]\nHas entrado sin problemas en el barrier subterráneo.\nAhora debes hacer que las piedras de sellado que forman el barrier reconozcan tu presencia.\nLas piedras de sellado están ubicadas en las posiciones de las 11, la 1, las 4 y las 8 de este barrier."
     },
     "4tGCDA": {
         "en-US": "[Einhar]\nThe seals present at 11 o'clock are Nid, 1 o'clock is Eh, 4 o'clock is Siegel, and 8 o'clock is Uwin.\nIllustrated, it looks like this:\nNid - Eh\n |  Barrier  |\nUwin - Siegel",
-        "pt-BR": "[Einhar]\nO selo que está a noroeste é o Nid, o que está a nordeste é o Eh, o que está a sudeste é o Siegel e o que está a sudoeste é o Uwin.\nSe representarmos em um desenho, ficaria assim:\nNid - Eh\n |  Barreira  |\nUwin - Siegel",
+        "pt-BR": "[Einhar]\nO selo que está a noroeste é o Njord, o que está a nordeste é Ysa, o que está a sudeste é o Siegel e o que está a sudoeste é o Wynn.\nSe representarmos em um desenho, ficaria assim:\n Njord - Ysa\n |  Centro  |\n Wynn - Siegel",
         "es-ES": "[Einhar]\nEl sello que se encuentra en la posición de las 11 es Nid, el de la 1 es Eh, el de las 4 es Siegel y el de las 8 es Uwin.\nSi lo representamos en un diagrama, quedaría así:\nNid - Eh\n |  Barrera  |\nUwin - Siegel"
     },
     "49GCDA": {
         "en-US": "[Einhar]\nYou must earn their recognition in a specific order to access the ward freely.\nTheir order changes at regular intervals.",
-        "pt-BR": "[Einhar]\nSó dá pra entrar e sair do selo se você for reconhecido pelas pedras de selo na ordem correta.\nA ordem muda a certos intervalos de tempo.",
+        "pt-BR": "[Einhar]\nSó dá pra entrar no centro se você interagir com os Selos na ordem correta.\nA ordem muda em certos intervalos de tempo.",
         "es-ES": "[Einahar]\nSolo podrás entrar y salir del sello si haces que las piedras de sellado te reconozcan en el orden correcto.\nEl orden cambia cada cierto tiempo."
     },
     "5NGCDA": {
         "en-US": "Their current order is Nid, Eh, Siegel, and Uwin.",
-        "pt-BR": "A ordem atual é Nid - Eh - Shigel - Uwin.",
+        "pt-BR": "A ordem atual é ^3300FFNjord › Ysa › Shigel › Wynn^000000.",
         "es-ES": "El orden actual es Nid - Eh - Siegel - Uwin."
     },
     "5dGCDA": {
         "en-US": "Their current order is Eh, Uwin, Nid, and Siegel.",
-        "pt-BR": "A ordem atual é Eh - Uwin - Nid - Siegel.",
+        "pt-BR": "A ordem atual é ^3300FFYsa › Wynn › Njord › Siegel^000000.",
         "es-ES": "El orden actual es Eh - Uwin - Need - Siegel."
     },
     "5tGCDA": {
         "en-US": "Their current order is Siegel, Uwin, Nid, and Eh.",
-        "pt-BR": "A ordem atual é Siegel - Uwin - Nid - Eh.",
+        "pt-BR": "A ordem atual é ^3300FFSiegel › Wynn › Njord › Ysa^000000.",
         "es-ES": "El orden actual es Siegel - Uwin - Need - Eh."
     },
     "59GCDA": {
         "en-US": "Their current order is Uwin, Siegel, Eh, and Nid.",
-        "pt-BR": "A ordem atual é Uwin - Siegel - Eh - Nid.",
+        "pt-BR": "A ordem atual é ^3300FFWynn › Siegel › Ysa › Njord^000000.",
         "es-ES": "El orden actual es Uwin - Siegel - Eh - Nid."
     },
     "6NGCDA": {
         "en-US": "[Einhar]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
-        "pt-BR": "[Einhar]\nA barreira do selo reconheceu a tua presença.\nAgora poderá entrar na barreira e lutar contra o monstro selado.",
+        "pt-BR": "[Einhar]\nO Selo reconheceu a tua presença.\nAgora poderá entrar no centro e lutar contra o monstro selado.",
         "es-ES": "[Einhar]\nEl sello ha reconocido tu presencia.\nAhora puedes entrar en el sello y luchar contra el monstruo sellado."
     },
     "6dGCDA": {
         "en-US": "I'll go in right away.",
-        "pt-BR": "Vou entrar agora mesmo.",
+        "pt-BR": "Entrar agora mesmo.",
         "es-ES": "Voy a entrar ya."
     },
     "6tGCDA": {
@@ -56,97 +56,97 @@
     },
     "69GCDA": {
         "en-US": "[Einhar]\nYou'll enter the ward now.\nThe monster will attack you right away. Please be prepared.",
-        "pt-BR": "[Einhar]\nVou te levar para dentro da barreira.\nO monstro vai atacar imediatamente, então eteja preparado.",
+        "pt-BR": "[Einhar]\nVou te levar para dentro da barreira.\nO monstro vai atacar imediatamente, então esteja com tudo preparado.",
         "es-ES": "[Einhar]\nTe llevaré al interior del barrier.\nEl monstruo te atacará de inmediato, así que prepárate bien."
     },
     "7NGCDA": {
         "en-US": "[Einhar]\nYes. Let me know when you're ready. I'll guide you into the ward.",
-        "pt-BR": "[Einhar]\nSim. Avise-me quando estiver pronto. Vou te guiar para dentro da barreira.",
+        "pt-BR": "[Einhar]\nSim. Avise-me quando estiver com tudo pronto. Vou te guiar para dentro da barreira.",
         "es-ES": "[Einhar]\nSí. Cuando estés listo, avísame. Te guiaré al interior del círculo."
     },
     "7dGCDA": {
         "en-US": "[Einhar]\nThe seal is not responding.",
-        "pt-BR": "[Einhar]\nO selo não está reagindo.",
+        "pt-BR": "[Einhar]\nSem reação.",
         "es-ES": "[Einhar]\nEl sello no muestra ninguna reacción."
     },
     "7tGCDA": {
         "en-US": "Seal Nid",
-        "pt-BR": "Selo Nid",
+        "pt-BR": "Selo Njord",
         "es-ES": "Sello Need"
     },
     "79GCDA": {
         "en-US": "[Seal Nid]\nA low buzzing sound echoed as the sealstone flashed briefly. It must have recognized me. I should move on.",
-        "pt-BR": "[Selo Nid]\nOuviu-se um zumbido baixo e o selamento brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "pt-BR": "[Selo Njord]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
         "es-ES": "[Nid del Sello]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
     },
     "8NGCDA": {
         "en-US": "[Seal Nid]\nThe sealstone isn't responding. Maybe I forgot the order.",
-        "pt-BR": "[Selo Nid]\nA pedra de selamento não está reagindo. Parece que esta não é esta a ordem correta...",
+        "pt-BR": "[Selo Njord]\nO Selo não está reagindo. Acho que você errou a ordem...",
         "es-ES": "[Sello Neid]\nEl sello no da ninguna señal. Parece que no es este el paso correcto..."
     },
     "8dGCDA": {
         "en-US": "[Seal Nid]\nA low humming sound was heard, and the seal flashed briefly. It must have recognized me.",
-        "pt-BR": "[Selo Nid]\nOuviu-se um zumbido baixo e o selamento brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
+        "pt-BR": "[Selo Njord]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
         "es-ES": "[Sello Neid]\nSe escuchó un zumbido bajo y el sello brilló brevemente. Parece que se completó el reconocimiento."
     },
     "8tGCDA": {
         "en-US": "[Seal Nid]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
-        "pt-BR": "[Selo Nid]\nA barreira de selamento reconheceu a tua presença.\nAgora poderá entrar na barreira e lutar contra o monstro selado.",
+        "pt-BR": "[Selo Njord]\nO Selo reconheceu sua presença.\nAgora você pode entrar na barreira do centro e lutar contra o monstro.",
         "es-ES": "[Sello Need]\nLa barrera del sello ha detectado tu presencia.\nAhora puedes entrar en la barrera y luchar contra el monstruo sellado."
     },
     "89GCDA": {
         "en-US": "[Seal Nid]\nYou're moving into the ward.",
-        "pt-BR": "[Selo Nid]\nEstou me movendo para dentro da barreira.",
+        "pt-BR": "[Selo Njord]\nVocê deve entrar na barreira do centro.",
         "es-ES": "[Nido Sellado]\nMe voy a mover al interior del círculo."
     },
     "9NGCDA": {
         "en-US": "[Seal Nid]\nPlease try again when you're ready.",
-        "pt-BR": "[Selo Nid]\nAssim que estiver pronto, entre em contato novamente.",
+        "pt-BR": "[Selo Njord]\nAssim que estiver com tudo pronto, entre em contato comigo.",
         "es-ES": "[Seal Need]\nPrepárate y vuelve a contactarme."
     },
     "9dGCDA": {
         "en-US": "[Seal Nid]\nThe seal is not responding.",
-        "pt-BR": "[Selo Nid]\nO selo não dá nenhuma reação.",
+        "pt-BR": "[Selo Njord]\nSem reação.",
         "es-ES": "[Sello Need]\nEl sello no muestra ninguna reacción."
     },
     "9tGCDA": {
         "en-US": "Seal Eh",
-        "pt-BR": "Selo Eh",
+        "pt-BR": "Selo Ysa",
         "es-ES": "Sello Eh"
     },
     "99GCDA": {
         "en-US": "[Seal Eh]\nA low humming sound echoed as the seal flashed briefly. It must have recognized me. I should move on.",
-        "pt-BR": "[Selo Eh]\nOuviu-se um zumbido baixo e o selamento brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "pt-BR": "[Selo Ysa]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
         "es-ES": "[Sello Eh]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
     },
     "+NGCDA": {
         "en-US": "[Seal Eh]\nThe sealstone shows no reaction. This must not be the correct sequence.......",
-        "pt-BR": "[Selo Eh]\nA pedra de selamento não dá sinal. Parece que esta não é a ordem correta...",
+        "pt-BR": "[Selo Ysa]\nO Selo não está reagindo. Acho que você errou a ordem...",
         "es-ES": "[Sello Eh]\nEl sello no muestra ninguna reacción. Parece que no es este el paso correcto..."
     },
     "+dGCDA": {
         "en-US": "[Seal Eh]\nA low humming sound was heard, and the seal flashed briefly. It must have recognized me.",
-        "pt-BR": "[Selo Eh]\nOuviu-se um zumbido baixo e o selamento brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
+        "pt-BR": "[Selo Ysa]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
         "es-ES": "[Sello Eh]\nSe oye un zumbido bajo y el sello brilla brevemente. Parece que el reconocimiento se ha completado."
     },
     "+tGCDA": {
         "en-US": "[Seal Eh]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
-        "pt-BR": "[Selo Eh]\nA barreira do selo reconheceu a tua presença.\nAgora poderá entrar na barreira e lutar contra o monstro selado.",
+        "pt-BR": "[Selo Ysa]\nO Selo reconheceu sua presença.\nAgora você pode entrar na barreira do centro e lutar contra o monstro.",
         "es-ES": "[Sello Eh]\nEl sello ha reconocido tu presencia.\nAhora puedes entrar en el sello y luchar contra el monstruo sellado."
     },
     "+9GCDA": {
         "en-US": "[Seal Eh]\nYou're moving into the ward.",
-        "pt-BR": "[Selo Eh]\nEstou me movendo para dentro da barreira.",
+        "pt-BR": "[Selo Ysa]\nVocê deve entrar na barreira do centro.",
         "es-ES": "[Sello Eh]\nMe voy a mover al interior del círculo."
     },
     "/NGCDA": {
         "en-US": "[Seal Eh]\nPlease try again when you're ready.",
-        "pt-BR": "[Selo Eh]\nAssim que estiver pronto, entre em contato novamente.",
+        "pt-BR": "[Selo Ysa]\nAssim que estiver com tudo pronto, entre em contato comigo.",
         "es-ES": "[Sello Eh]\nPrepárate y vuelve a contactarme."
     },
     "/dGCDA": {
         "en-US": "[Seal Eh]\nThe seal is not responding.",
-        "pt-BR": "[Selo Eh]\nO selamento não dá nenhuma resposta.",
+        "pt-BR": "[Selo Ysa]\nSem reação.",
         "es-ES": "[Sello Eh]\nEl sello no muestra ninguna reacción."
     },
     "/tGCDA": {
@@ -156,87 +156,87 @@
     },
     "/9GCDA": {
         "en-US": "[Seal Siegel]\nA low humming sound echoed as the seal flashed briefly. Recognition must be complete. Let's proceed to the next step.",
-        "pt-BR": "[Selo Siegel]\nOuviu-se um zumbido baixo e o selo brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "pt-BR": "[Selo Siegel]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
         "es-ES": "[Siegel del Sello]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
     },
     "ANKCDA": {
         "en-US": "[Seal Siegel]\nThe sealstone shows no reaction. This must not be the correct sequence.......",
-        "pt-BR": "[Selo Siegel]\nA pedra do selo não dá sinal de vida. Parece que esta não é a ordem correta...",
+        "pt-BR": "[Selo Siegel]\nO Selo não está reagindo. Acho que você errou a ordem...",
         "es-ES": "[Siegel del Sello]\nLa piedra del sello no muestra ninguna reacción. Parece que no es este el paso correcto..."
     },
     "AdKCDA": {
         "en-US": "[Seal Siegel]\nA low humming sound was heard, and the seal flashed briefly. It must have recognized me.",
-        "pt-BR": "[Selo Siegel]\nOuviu-se um zumbido baixo e o selo brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
+        "pt-BR": "[Selo Siegel]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
         "es-ES": "[Sello Siegel]\nSe oye un zumbido bajo y el sello brilla brevemente. Parece que el reconocimiento se ha completado."
     },
     "AtKCDA": {
         "en-US": "[Seal Siegel]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
-        "pt-BR": "[Selo Siegel]\nA barreira de selamento reconheceu a tua presença.\nAgora poderá entrar na barreira e lutar contra o monstro selado.",
+        "pt-BR": "[Selo Siegel]\nO Selo reconheceu sua presença.\nAgora você pode entrar na barreira do centro e lutar contra o monstro.",
         "es-ES": "[Sello de Sellado]\nHas sido reconocido por el barrier de sellado.\nAhora puedes entrar en el barrier y luchar contra el monstruo sellado."
     },
     "A9KCDA": {
         "en-US": "[Seal Siegel]\nEnter the ward.",
-        "pt-BR": "[Selo Siegel]\nEstou me movendo para dentro da barreira.",
+        "pt-BR": "[Selo Siegel]\nVocê deve entrar na barreira do centro.",
         "es-ES": "[Siegel de sellado]\nTe trasladaré al interior del sello."
     },
     "BNKCDA": {
         "en-US": "[Seal Siegel]\nPlease try again when you're ready.",
-        "pt-BR": "[Selo Siegel]\nTente novamente quando estiver pronto.",
+        "pt-BR": "[Selo Siegel]\nAssim que estiver com tudo pronto, entre em contato comigo.",
         "es-ES": "[Sello de Sellado]\nPrepárate y vuelve a contactarme."
     },
     "BdKCDA": {
         "en-US": "[Seal Siegel]\nThe seal is not responding.",
-        "pt-BR": "[Selo Siegel]\nO selo não está reagindo.",
+        "pt-BR": "[Selo Siegel]\nSem reação.",
         "es-ES": "[Siegel del Sello]\nEl sello no muestra ninguna reacción."
     },
     "BtKCDA": {
         "en-US": "Seal Uwin",
-        "pt-BR": "Selo Uwin",
+        "pt-BR": "Selo Wynn",
         "es-ES": "Sello Uwin"
     },
     "B9KCDA": {
         "en-US": "[Seal Uwin]\nA low humming sound echoed as the sealstone flashed briefly. It must have recognized me.",
-        "pt-BR": "[Selo Uwin]\nOuviu-se zumbido baixo e o selamento brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
+        "pt-BR": "[Selo Wynn]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído.",
         "es-ES": "[Sello Uwin]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó."
     },
     "CNKCDA": {
         "en-US": "[Seal Uwin]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
-        "pt-BR": "[Selo Uwin]\nSua presença foi reconhecida pela barreira de selamento.\nAgora você poderá entrar na barreira e lutar contra o monstro selado.",
+        "pt-BR": "[Selo Wynn]\nO Selo reconheceu sua presença.\nAgora você poderá entrar na barreira e lutar contra o monstro selado.",
         "es-ES": "[Sello Uwin]\nHe hecho que el sello reconozca tu presencia.\nAhora puedes entrar en el perímetro y luchar contra el monstruo sellado."
     },
     "CdKCDA": {
         "en-US": "[Seal Uwin]\nYou're moving into the ward.",
-        "pt-BR": "[Selo Uwin]\nEstou me movendo para dentro da barreira.",
+        "pt-BR": "[Selo Wynn]\nVocê deve entrar na barreira do centro.",
         "es-ES": "[Sello Uwin]\nTe trasladaré al interior del círculo mágico."
     },
     "CtKCDA": {
         "en-US": "[Seal Uwin]\nPlease try again when you're ready.",
-        "pt-BR": "[Selo Uwin]\nAssim que estiver pronto, tente novamente.",
+        "pt-BR": "[Selo Wynn]\nAssim que estiver com tudo pronto, entre em contato comigo.",
         "es-ES": "[Sello Uwin]\nPrepárate y vuelve a contactarme."
     },
     "C9KCDA": {
         "en-US": "[Seal Uwin]\nThis sealstone isn't responding. Maybe I forgot the order.",
-        "pt-BR": "[Selo Uwin]\nNão há nenhuma reação na pedra de selamento. Parece que esta não é a ordem correta...",
+        "pt-BR": "[Selo Wynn]\nO Selo não está reagindo. Acho que você errou a ordem...",
         "es-ES": "[Sello Uwin]\nNo hay ninguna reacción en la piedra del sello. Parece que no es este el orden..."
     },
     "DNKCDA": {
         "en-US": "[Seal Uwin]\nA low humming sound echoed as the seal flashed briefly. It must have recognized me. I should move on.",
-        "pt-BR": "[Selo Uwin]\nOuviu-se um zumbido baixo e o selo brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "pt-BR": "[Selo Wynn]\nVocê ouve um barulho fraco e o Selo brilhou por um breve momento. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
         "es-ES": "[Sello Uwin]\nSe oye un zumbido grave y el sello brilla brevemente. Parece que se ha completado el reconocimiento. Pasemos al siguiente paso."
     },
     "DdKCDA": {
         "en-US": "[Seal Uwin]\nThe seal shows no reaction.",
-        "pt-BR": "[Selo Uwin]\nO selamento não dá sinal algum.",
+        "pt-BR": "[Selo Wynn]\nSem reação.",
         "es-ES": "[Sello Uwin]\nEl sello no da ninguna señal."
     },
     "DtKCDA": {
         "en-US": "Heinous Monster",
-        "pt-BR": "Monstro terrível",
+        "pt-BR": "Bafomé Primordial",
         "es-ES": "Monstruo atroz"
     },
     "D9KCDA": {
         "en-US": "[Einhar]\nYou've completed your task safely.\nWould you like to leave the ward?",
-        "pt-BR": "[Einhar]\nVocê concluiu sua tarefa com sucesso.\nVai voltar para fora do campo de força?",
+        "pt-BR": "[Einhar]\nVocê concluiu sua tarefa com sucesso.\nVai voltar para a Abadia de Santa Capitolina?",
         "es-ES": "[Einhar]\nYa terminaste tu tarea sin problemas.\n¿Vas a regresar al exterior del barrier?"
     },
     "ENKCDA": {

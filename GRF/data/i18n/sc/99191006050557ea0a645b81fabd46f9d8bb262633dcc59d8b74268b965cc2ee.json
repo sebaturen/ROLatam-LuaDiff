@@ -1,57 +1,57 @@
 {
     "AD5+DA": {
         "en-US": "Honorable Knight",
-        "pt-BR": "Cavaleiro Honrado",
+        "pt-BR": "Guardião Honrado",
         "es-ES": "Caballero de Honor"
     },
     "AT5+DA": {
         "en-US": "[Honorable Knight]\nThis is the Knight's Office, where the King's Knights stay.",
-        "pt-BR": "[Cavaleiro Honrado]\nEste é o quarto dos cavaleiros do rei.",
+        "pt-BR": "[Guardião Honrado]\nEste é o quarto dos Guardiões Reais.",
         "es-ES": "[Caballero honorable]\nEste es el salón de los caballeros donde se alojan los caballeros del rey."
     },
     "Aj5+DA": {
         "en-US": "[Honorable Knight]\nWe are the shield that protects the king. We are very proud of what we do.",
-        "pt-BR": "[Cavaleiro Honrado]\nSomos o escudo que protege o rei, estamos fazendo um trabalho muito honrado.",
+        "pt-BR": "[Guardião Honrado]\nSomos o escudo que protege o rei, estamos fazendo um trabalho muito honrado.",
         "es-ES": "[Caballero de honor]\nSomos el escudo que protege al rey, hacemos un trabajo muy honorable."
     },
     "Az5+DA": {
         "en-US": "[Honorable Knight]\nWe kindly ask that you maintain decorum and observe proper etiquette within the knight's quarters.",
-        "pt-BR": "[Cavaleiro Honrado]\nPedimos para que mantenha o respeito e siga as regras de etiqueta dentro da sala dos cavaleiros.",
+        "pt-BR": "[Guardião Honrado]\nPedimos para que mantenha o respeito e siga as regras de etiqueta dentro da sala dos Guardiões.",
         "es-ES": "[Caballero de honor]\nTe pedimos que mantengas el silencio y te comportes con respeto dentro de la sala de los caballeros."
     },
     "BD5+DA": {
         "en-US": "Faithful Knight",
-        "pt-BR": "Cavaleiro Leal",
+        "pt-BR": "Guardião Leal",
         "es-ES": "Caballero leal"
     },
     "BT5+DA": {
         "en-US": "[Faithful Knight]\nTo protect the king, one cannot merely hone their combat prowess.",
-        "pt-BR": "[Cavaleiro Leal]\nPara proteger o rei, não basta apenas aprimorar a capacidade de combate.",
+        "pt-BR": "[Guardião Leal]\nPara proteger o rei, não basta apenas aprimorar a capacidade de combate.",
         "es-ES": "[Caballero leal]\nPara proteger al rey, no basta con solo perfeccionar la destreza en el combate."
     },
     "Bj5+DA": {
         "en-US": "[Faithful Knight]\nWe exist for his honor. It's our duty to protect it at all costs.",
-        "pt-BR": "[Cavaleiro Leal]\nNós existimos para defender a honra do rei, e nossa principal missão é garantir que ela não seja manchada.",
+        "pt-BR": "[Guardião Leal]\nNós existimos para defender a honra do rei, e nossa principal missão é garantir que ela não seja manchada.",
         "es-ES": "[Caballero leal]\nExistimos para defender el honor del rey, y nuestra principal misión es evitar que se vea mancillado."
     },
     "Bz5+DA": {
         "en-US": "[Faithful Knight]\nTherefore, loyalty to the king is paramount.",
-        "pt-BR": "[Cavaleiro Leal]\nPor isso, o mais importante é a lealdade ao rei.",
+        "pt-BR": "[Guardião Leal]\nPor isso, o mais importante é a lealdade ao rei.",
         "es-ES": "[Caballero leal]\nPor eso, lo más importante es la lealtad al rey."
     },
     "CD5+DA": {
         "en-US": "[충성스러운 기사]\nThe strength of the spirit is the strength of the body.",
-        "pt-BR": "[Cavaleiro Leal]\nA força da mente é a força do corpo.",
+        "pt-BR": "[Guardião Leal]\nA força da mente é a força do corpo.",
         "es-ES": "[Caballero leal]\nLa fuerza del espíritu es la fuerza del cuerpo."
     },
     "CT5+DA": {
         "en-US": "[Faithful Knight]\nWe are always ready to obey the king's command.",
-        "pt-BR": "[Cavaleiro Leal]\nEstamos sempre prontos para cumprir as ordens do rei.",
+        "pt-BR": "[Guardião Leal]\nEstamos sempre prontos para cumprir as ordens do rei.",
         "es-ES": "[Caballero leal]\nEstamos siempre listos para cumplir las órdenes del rey."
     },
     "Cj5+DA": {
         "en-US": "King's Knight",
-        "pt-BR": "Cavaleiro do Rei",
+        "pt-BR": "Guardião Real",
         "es-ES": "Caballero del Rey"
     },
     "Cz5+DA": {
@@ -66,22 +66,22 @@
     },
     "DT5+DA": {
         "en-US": "^FF0000To ensure a smooth process, please remove some items from your bag.^000000",
-        "pt-BR": "^FF0000Para que tudo corra bem, por favor, retire um pouco da bagagem de sua mochila.^000000",
+        "pt-BR": "^FF0000Reorganize os itens do seu inventário e volte novamente.^000000",
         "es-ES": "^FF0000Para que todo vaya bien, te pediría que sacaras un poco de equipaje de tu mochila.^000000"
     },
     "Dj5+DA": {
         "en-US": "[King's Knight]\nYou are the victor of the final duel.",
-        "pt-BR": "[Cavaleiro do Rei]\nVocê é o vencedor do combate final.",
+        "pt-BR": "[Guardião Real]\nVocê venceu o combate final.",
         "es-ES": "[Caballero del Rey]\nAsí que fuiste tú quien ganó el combate final."
     },
     "Dz5+DA": {
         "en-US": "[King's Knight]\nYou meet the requirements to become an Imperial Guard, yet you haven't changed jobs yet.",
-        "pt-BR": "[Cavaleiro do Rei]\nVocê cumpriu os requisitos para se tornar um Guardião Imperial, mas ainda não mudou de classe.",
+        "pt-BR": "[Guardião Real]\nVocê cumpriu os requisitos para se juntar aos Guardiões Imperiais, mas ainda não mudou de classe.",
         "es-ES": "[Caballero del Rey]\nCumples con los requisitos para convertirte en Guardia Imperial, pero aún no has cambiado de profesión."
     },
     "ED5+DA": {
         "en-US": "[King's Knight]\nShall you transfer to the Imperial Guard now?",
-        "pt-BR": "[Cavaleiro do Rei]\nDeseja mudar agora para a Guardião Imperial?",
+        "pt-BR": "[Guardião Real]\nDeseja se juntar aos Guardiões Imperiais agora?",
         "es-ES": "[Caballero del Rey]\n¿Quieres cambiar ahora a la Guardia Imperial?"
     },
     "ET5+DA": {
@@ -96,72 +96,72 @@
     },
     "Ez5+DA": {
         "en-US": "[King's Knight]\nYou have now become an Imperial Guard.",
-        "pt-BR": "[Cavaleiro do Rei]\nAgora você se tornou um Guardião Imperial.",
+        "pt-BR": "[Guardião Real]\nAgora você faz parte dos Guardiões Imperiais.",
         "es-ES": "[Caballero del Rey]\nAhora te has convertido en un guardia imperial."
     },
     "FD5+DA": {
         "en-US": "[King's Knight]\nMay you become a knight worthy of the title.",
-        "pt-BR": "[Cavaleiro do Rei]\nEspero que se torne um cavaleiro digno desse título.",
+        "pt-BR": "[Guardião Real]\nEspero que se torne um Guardião digno desse título.",
         "es-ES": "[Caballero del Rey]\nEspero que te conviertas en un caballero digno de ese título."
     },
     "FT5+DA": {
         "en-US": "[King's Knight]\nIt appears you still have skill points remaining.",
-        "pt-BR": "[Cavaleiro do Rei]\nParece que você ainda tem pontos de habilidade não distribuídos.",
+        "pt-BR": "[Guardião Real]\nParece que você ainda tem pontos de habilidade não distribuídos.",
         "es-ES": "[Caballero del Rey]\nParece que aún te quedan puntos de habilidad."
     },
     "Fj5+DA": {
         "en-US": "[King's Knight]\nPlease try again after using them all.",
-        "pt-BR": "[Cavaleiro do Rei]\nTente novamente após distribuí-los.",
+        "pt-BR": "[Guardião Real]\nTente novamente após distribuí-los.",
         "es-ES": "[Caballero del Rey]\nEspero que lo intentes de nuevo después de gastarlos todos."
     },
     "Fz5+DA": {
         "en-US": "[King's Knight]\nPlease speak to me again after you are ready.",
-        "pt-BR": "[Cavaleiro do Rei]\nQuando estiver pronto, fale comigo novamente.",
+        "pt-BR": "[Guardião Real]\nQuando estiver pronto, fale comigo novamente.",
         "es-ES": "[Caballero del Rey]\nEspero que termines de prepararte y me vuelvas a hablar."
     },
     "GD5+DA": {
         "en-US": "[King's Knight]\nO bearer of the glorious title, I hope you will use your power wisely, worthy of that honor.",
-        "pt-BR": "[Cavaleiro do Rei]\nÓ tu que conquistaste este glorioso título, espero que use este poder de forma benéfica, à altura desta honra.",
+        "pt-BR": "[Guardião Real]\nÓ tu que conquistaste este glorioso título, espero que use este poder de forma benéfica, à altura desta honra.",
         "es-ES": "[Caballero del Rey]\nOh, tú que has obtenido este glorioso título, espero que uses tu poder de manera beneficiosa, como corresponde a tal honor."
     },
     "GT5+DA": {
         "en-US": "[King's Knight]\nWhat brings you to the knight's chamber?",
-        "pt-BR": "[Cavaleiro do Rei]\nPor que motivo vieste ao salão dos cavaleiros?",
+        "pt-BR": "[Guardião Real]\nPor que motivo vieste ao Quarto dos Guardiões?",
         "es-ES": "[Caballero del Rey]\n¿Qué te trae por la sala de caballeros?"
     },
     "Gj5+DA": {
         "en-US": "[King's Knight]\nI sense a different kind of strength in you than ours.",
-        "pt-BR": "[Cavaleiro do Rei]\nSinto que você possui um tipo de força diferente da nossa.",
+        "pt-BR": "[Guardião Real]\nSinto que você possui um tipo de força diferente da nossa.",
         "es-ES": "[Caballero del Rey]\nPercibo en ti un tipo de fortaleza diferente a la nuestra."
     },
     "Gz5+DA": {
         "en-US": "[King's Knight]\nWell, even if you have no particular business here, since you've come this far, why not rest a little before you go?",
-        "pt-BR": "[Cavaleiro do Rei]\nBem, mesmo que não tenha nada específico a fazer, já que vieste até aqui, descanse um pouco antes de ir embora.",
+        "pt-BR": "[Guardião Real]\nBem, mesmo que não tenha nada específico a fazer, já que vieste até aqui, descanse um pouco antes de ir embora.",
         "es-ES": "[Caballero del Rey]\nBueno, aunque no tengas ningún asunto en particular, ya que estás aquí, descansa un rato antes de irte."
     },
     "HD5+DA": {
         "en-US": "[King's Knight]\nYou must form a party consisting of exactly ^0000FF1 member^000000 to proceed.",
-        "pt-BR": "[Cavaleiro do Rei]\nÉ preciso formar um grupo de ^0000FF1 pessoa^000000 para poder prosseguir.",
+        "pt-BR": "[Guardião Real]\nÉ preciso formar um grupo de ^0000FF1 pessoa^000000 para poder prosseguir.",
         "es-ES": "[Caballero del Rey]\nSolo puedes avanzar si formas un grupo de ^0000FF1 persona^000000."
     },
     "HT5+DA": {
         "en-US": "Request ^0000FF{0}^000000",
-        "pt-BR": "Solicitar ^0000FF{0}^000000",
+        "pt-BR": "Criar ^0000FF{0}^000000",
         "es-ES": "Solicita a ^0000FF{0}^000000"
     },
     "Hj5+DA": {
         "en-US": "[King's Knight]\n^0000FFCannot proceed unless you are the party leader.^000000",
-        "pt-BR": "[Cavaleiro do Rei]\n^0000FFSe você não for o líder do grupo, não será possível prosseguir.^000000",
+        "pt-BR": "[Guardião Real]\n^0000FFSe você não for o líder do grupo, não será possível prosseguir.^000000",
         "es-ES": "[Caballero del Rey]\n^0000FFSi no eres el líder del grupo, no podrás continuar.^000000"
     },
     "Hz5+DA": {
         "en-US": "[King's Knight]\nWill you participate in the trial duel?",
-        "pt-BR": "[Cavaleiro do Rei]\nDeseja participar do duelo de provação?",
+        "pt-BR": "[Guardião Real]\nDeseja participar do teste?",
         "es-ES": "[Caballero del Rey]\n¿Participarás en el combate de prueba?"
     },
     "ID5+DA": {
         "en-US": "Entering the Trial Duel Arena.",
-        "pt-BR": "Entrar na Arena do Duelo.",
+        "pt-BR": "Entrar na Arena do Duelo",
         "es-ES": "Entrar en la arena de la prueba."
     },
     "IT5+DA": {
@@ -171,7 +171,7 @@
     },
     "Ij5+DA": {
         "en-US": "^0000FFIt appears the dungeon has not been generated, or you are attempting to enter a different dungeon than the party leader.^000000",
-        "pt-BR": "^0000FFParece que a masmorra não foi criada ou você está tentando entrar em uma masmorra diferente da do líder do grupo^000000",
+        "pt-BR": "^0000FFParece que a instância não foi criada ou você está tentando entrar em uma instância diferente da do líder do grupo^000000",
         "es-ES": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra diferente a la del líder del grupo^000000"
     },
     "Iz5+DA": {
@@ -186,7 +186,7 @@
     },
     "JT5+DA": {
         "en-US": "^0000FFYou cannot generate a dungeon unless you are the party leader.^000000",
-        "pt-BR": "^0000FFSe você não for o líder do grupo, não é possível criar a masmorra.^000000",
+        "pt-BR": "^0000FFSe você não for o líder do grupo, não é possível criar a instância.^000000",
         "es-ES": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
     },
     "Jj5+DA": {
@@ -196,87 +196,87 @@
     },
     "Jz5+DA": {
         "en-US": "[King's Knight]\nHuh???",
-        "pt-BR": "[Cavaleiro do Rei]\nHã???",
+        "pt-BR": "[Guardião Real]\nHã???",
         "es-ES": "[Caballero del Rey]\n¿Eh???"
     },
     "KD5+DA": {
         "en-US": "[King's Knight]\nIf we'd had a proper conversation, you wouldn't have answered like that.",
-        "pt-BR": "[Cavaleiro do Rei]\nSe tivéssemos conversado direito, você não teria respondido assim.",
+        "pt-BR": "[Guardião Real]\nSe tivéssemos conversado direito, você não teria respondido assim.",
         "es-ES": "[Caballero del Rey]\nSi hubieras hablado bien, no habrías respondido así."
     },
     "KT5+DA": {
         "en-US": "[왕의 기사]\nShouldn't you show some conviction in your opinion?",
-        "pt-BR": "[Cavaleiro do Rei]\nNão acha que deveria demonstrar mais convicção em sua opinião?",
+        "pt-BR": "[Guardião Real]\nNão acha que deveria demonstrar mais convicção em sua opinião?",
         "es-ES": "[Caballero del Rey]\n¿No deberías mostrar una opinión más firme?"
     },
     "Kj5+DA": {
         "en-US": "[King's Knight]\nThis won't do. I must return to discuss this further.",
-        "pt-BR": "[Cavaleiro do Rei]\nDesse jeito não dá. Volte aqui depois de ter conversado de novo.",
+        "pt-BR": "[Guardião Real]\nDesse jeito não dá. Volte aqui depois de ter conversado de novo.",
         "es-ES": "[Caballero del Rey]\nNo va a funcionar, vuelve a hablar con él."
     },
     "Kz5+DA": {
         "en-US": "[King's Knight]\nIndeed... I see.",
-        "pt-BR": "[Cavaleiro do Rei]\nComo era de se esperar... É isso mesmo.",
+        "pt-BR": "[Guardião Real]\nComo era de se esperar... É isso mesmo.",
         "es-ES": "[Caballero del Rey]\nVaya... así es."
     },
     "LD5+DA": {
         "en-US": "[King's Knight]\nYou've chosen powerful equipment and exceptional swordsmanship.",
-        "pt-BR": "[Cavaleiro do Rei]\nEscolheste um equipamento poderoso e uma esgrima excelente.",
+        "pt-BR": "[Guardião Real]\nEscolheste um equipamento poderoso e uma espada excelente.",
         "es-ES": "[Caballero del Rey]\n¿Has elegido un equipo poderoso y una esgrima excepcional?"
     },
     "LT5+DA": {
         "en-US": "[King's Knight]\nVery well, show us what you've got.",
-        "pt-BR": "[Cavaleiro do Rei]\nMuito bem, então mostre-me essa força.",
+        "pt-BR": "[Guardião Real]\nMuito bem, então mostre-me essa força.",
         "es-ES": "[Caballero del Rey]\nBien, demuéstrame ese poder."
     },
     "Lj5+DA": {
         "en-US": "[King's Knight]\nIf you're ready to participate in the contest, speak to me again.",
-        "pt-BR": "[Cavaleiro do Rei]\nSe estiveres pronto para o duelo, fala comigo novamente.",
+        "pt-BR": "[Guardião Real]\nSe estiveres com tudo pronto para o duelo, fale comigo novamente.",
         "es-ES": "[Caballero del Rey]\nSi estás listo para el duelo, vuelve a hablarme."
     },
     "Lz5+DA": {
         "en-US": "[King's Knight]\nYou chose faith and loyalty.",
-        "pt-BR": "[Cavaleiro do Rei]\nEscolheste a fé e a lealdade?",
+        "pt-BR": "[Guardião Real]\nEscolheste a fé e a lealdade?",
         "es-ES": "[Caballero del Rey]\n¿Has elegido la fe y la lealtad?"
     },
     "MD5+DA": {
         "en-US": "[King's Knight]\nKnights who exist for the king, and those recognized for their loyalty and devotion, treated as the finest knights—that would be the Royal Guard.",
-        "pt-BR": "[Cavaleiro do Rei]\nOs cavaleiros que existem para servir ao rei, e que são tratados como os melhores cavaleiros por terem sua lealdade e fé reconhecidas, são os Guardiões Reais.",
+        "pt-BR": "[Guardião Real]\nOs Templários que existem para servir ao rei, e que são tratados como os melhores Templários por terem sua lealdade e fé reconhecidas, são os Guardiões Reais.",
         "es-ES": "[Caballero del Rey]\nLos caballeros que existen para el rey, y aquellos a quienes se les reconoce su lealtad y fe y se les trata como los mejores caballeros, son precisamente la Guardia Real."
     },
     "MT5+DA": {
         "en-US": "[King's Knight]\nBut time keeps passing, and through the ongoing battles and hardships they endure, the Royal Guards are gradually losing their very essence.",
-        "pt-BR": "[Cavaleiro do Rei]\nMas o tempo continua passando, e, no decorrer das batalhas e provações incessantes, os Guardiões Reais estão perdendo sua essência.",
+        "pt-BR": "[Guardião Real]\nMas o tempo continua passando, e, no decorrer das batalhas e provações incessantes, os Guardiões Reais estão perdendo sua essência.",
         "es-ES": "[Caballero del Rey]\nPero el tiempo sigue pasando y, en medio de las continuas batallas y penurias, los Guardias Reales están perdiendo su esencia."
     },
     "Mj5+DA": {
         "en-US": "[King's Knight]\nThat's why a culling is necessary.",
-        "pt-BR": "[Cavaleiro do Rei]\nÉ por isso que é necessária uma seleção.",
+        "pt-BR": "[Guardião Real]\nÉ por isso que é necessária uma seleção.",
         "es-ES": "[Caballero del Rey]\nPor eso es necesario hacer una selección."
     },
     "Mz5+DA": {
         "en-US": "[King's Knight]\nWe seek to select those who can properly wield their strength and justice as honorable Knights of the King.",
-        "pt-BR": "[Cavaleiro do Rei]\nPretendemos selecionar aqueles que, como honrados cavaleiros do rei, possam fazer valer corretamente sua força e justiça.",
+        "pt-BR": "[Guardião Real]\nPretendemos selecionar aqueles que, como honrados Guardiões Reais, possam fazer valer corretamente sua força e justiça.",
         "es-ES": "[El Caballero del Rey]\nQueremos seleccionar a aquellos que, como honorables caballeros del rey, puedan hacer valer su fuerza y su justicia de la manera correcta."
     },
     "ND5+DA": {
         "en-US": "[King's Knight]\nTo that end, the royal court has decided to host a tournament.",
-        "pt-BR": "[Cavaleiro do Rei]\nPara isso, decidimos organizar um torneio promovido pela realeza.",
+        "pt-BR": "[Guardião Real]\nPara isso, decidimos organizar um torneio promovido pela realeza.",
         "es-ES": "[Caballero del Rey]\nPara ello, la Casa Real ha decidido organizar un torneo."
     },
     "NT5+DA": {
         "en-US": "[King's Knight]\nAre you using your power correctly?",
-        "pt-BR": "[Cavaleiro do Rei]\nVocê está usando seu poder da maneira correta?",
+        "pt-BR": "[Guardião Real]\nVocê está usando seu poder da maneira correta?",
         "es-ES": "[Caballero del Rey]\n¿Estás usando tu poder de la manera correcta?"
     },
     "Nj5+DA": {
         "en-US": "[King's Knight]\nIs your conviction unwavering and steadfast?",
-        "pt-BR": "[Cavaleiro do Rei]\nSuas convicções permanecem inabaláveis e firmes?",
+        "pt-BR": "[Guardião Real]\nSuas convicções permanecem inabaláveis e firmes?",
         "es-ES": "[Caballero del Rey]\n¿Tu convicción se mantiene firme, sin vacilar?"
     },
     "Nz5+DA": {
         "en-US": "[King's Knight]\nIf that's the case, how about you join the arena for this battle?",
-        "pt-BR": "[Cavaleiro do Rei]\nSe sim, que tal participar deste torneio?",
+        "pt-BR": "[Guardião Real]\nSe sim, que tal participar deste torneio?",
         "es-ES": "[Caballero del Rey]\nSi es así, ¿qué te parece participar en este torneo?"
     },
     "OD5+DA": {
@@ -291,7 +291,7 @@
     },
     "Oj5+DA": {
         "en-US": "[King's Knight]\nDidn't I tell you I needed to weed out one?",
-        "pt-BR": "[Cavaleiro do Rei]\nEu disse que seria necessária uma seleção, não foi?",
+        "pt-BR": "[Guardião Real]\nEu disse que seria necessária uma seleção, não foi?",
         "es-ES": "[Caballero del Rey]\n¿Te dije que era necesario hacer una selección?"
     },
     "Oz5+DA": {
@@ -301,107 +301,107 @@
     },
     "PD5+DA": {
         "en-US": "[King's Knight]\nIt would be better for you to experience it yourself.",
-        "pt-BR": "[Cavaleiro do Rei]\nAcho melhor você experimentar por conta própria.",
+        "pt-BR": "[Guardião Real]\nAcho melhor você experimentar por conta própria.",
         "es-ES": "[Caballero del Rey]\nCreo que será mejor que lo experimentes por ti mismo."
     },
     "PT5+DA": {
         "en-US": "[King's Knight]\nBefore participating in the tournament, go meet and speak with the two knights I will tell you about.",
-        "pt-BR": "[Cavaleiro do Rei]\nAntes de participar do duelo, encontre os dois cavaleiros que eu vou te indicar e tenha uma conversa com eles.",
+        "pt-BR": "[Guardião Real]\nAntes de participar do duelo, encontre os dois Guardiões Reais que eu vou te indicar e tenha uma conversa com eles.",
         "es-ES": "[Caballero del Rey]\nAntes de participar en el duelo, ve a hablar con los dos caballeros que te voy a indicar."
     },
     "Pj5+DA": {
         "en-US": "[King's Knight]\nOne is ^4D4DFFKnight of Devotion^000000.",
-        "pt-BR": "[Cavaleiro do Rei]\nUm deles é a ^4D4DFFCavaleira da Devoção^000000.",
+        "pt-BR": "[Guardião Real]\nUm deles é a ^4D4DFFGuardiã da Devoção^000000.",
         "es-ES": "[Caballero del Rey]\nUno es el ^4D4DFFCaballera de la Devoción^000000."
     },
     "Pz5+DA": {
         "en-US": "[King's Knight]\n<NAVI>[Northwest of Prontera]<INFO>prontera,58,364,</INFO></NAVI> is where you can meet him.",
-        "pt-BR": "[Cavaleiro do Rei]\nSe fores a <NAVI>[Noroeste de Prontera]<INFO>prontera,58,364,</INFO></NAVI>, poderás encontrá-lo.",
+        "pt-BR": "[Guardião Real]\nSe fores a <NAVI>[Noroeste de Prontera]<INFO>prontera,58,364,</INFO></NAVI>, poderás encontrá-la.",
         "es-ES": "[Caballero del Rey]\nSi vas a <NAVI>[Noroeste de Prontera]<INFO>prontera,58,364,</INFO></NAVI>, podrás encontrarlo."
     },
     "QD5+DA": {
         "en-US": "[King's Knight]\nThe other one is ^4D4DFFKnight of Armament^000000.",
-        "pt-BR": "[Cavaleiro do Rei]\nO outro é o ^4D4DFFCavaleiro do Armamento^000000.",
+        "pt-BR": "[Guardião Real]\nO outro é o ^4D4DFFGuardião de Armadura^000000.",
         "es-ES": "[Caballero del Rey]\nEl otro es el ^4D4DFFCaballero del Armamento^000000."
     },
     "QT5+DA": {
         "en-US": "[Knight of the King]\n<NAVI>[Northeast of Prontera]<INFO>prontera,276,355,</INFO></NAVI> is where you can find him.",
-        "pt-BR": "[Cavaleiro do Rei]\nSe fores a <NAVI>[Nordeste de Prontera]<INFO>prontera,276,355,</INFO></NAVI>, vais encontrá-lo.",
+        "pt-BR": "[Guardião Real]\nSe fores a <NAVI>[Nordeste de Prontera]<INFO>prontera,276,355,</INFO></NAVI>, vais encontrá-lo.",
         "es-ES": "[Caballero del Rey]\nSi vas a <NAVI>[Noreste de Prontera]<INFO>prontera,276,355,</INFO></NAVI>, podrás encontrarlo."
     },
     "Qj5+DA": {
         "en-US": "[Knight of the King]\nThrough conversations with the two knights, determine for yourself where your sense of justice lies.",
-        "pt-BR": "[Cavaleiro do Rei]\nConverse com os dois cavaleiros e tente descobrir por si mesmo de que lado está a sua justiça.",
+        "pt-BR": "[Guardião Real]\nConverse com os dois Guardiões e tente descobrir de que lado está a sua justiça.",
         "es-ES": "[Caballero del Rey]\nA través de la conversación con los dos caballeros, intenta descubrir por ti mismo de qué lado está tu sentido de la justicia."
     },
     "Qz5+DA": {
         "en-US": "[Knight of the King]\nThen come back to me and formally apply to participate in the duel.",
-        "pt-BR": "[Cavaleiro do Rei]\nDepois disso, retorne e inscreva-se formalmente para o duelo.",
+        "pt-BR": "[Guardião Real]\nDepois disso, retorne e inscreva-se formalmente para o duelo.",
         "es-ES": "[Caballero del Rey]\nDespués, vuelve a verme para solicitar formalmente tu participación en el duelo."
     },
     "RD5+DA": {
         "en-US": "[Knight of Devotion]\nThen take care on your journey.",
-        "pt-BR": "[Cavaleiro do Rei]\nEntão, vá com cuidado.",
+        "pt-BR": "[Guardião Real]\nEntão, vá com cuidado.",
         "es-ES": "[Caballero del Rey]\nBueno, cuídate en el camino."
     },
     "RT5+DA": {
         "en-US": "[Knight of Devotion]\nHesitation is not a good emotion.",
-        "pt-BR": "[Cavaleiro do Rei]\nA hesitação não é uma coisa boa.",
+        "pt-BR": "[Guardião Real]\nA hesitação não é uma coisa boa.",
         "es-ES": "[Caballero del Rey]\nLa indecisión no es un buen sentimiento."
     },
     "Rj5+DA": {
         "en-US": "[Knight of Devotion]\nMake a swift decision and come back to me.",
-        "pt-BR": "[Cavaleiro do Rei]\nTome uma decisão firme e volte para me ver.",
+        "pt-BR": "[Guardião Real]\nTome uma decisão firme e volte para me ver.",
         "es-ES": "[Caballero del Rey]\nEspero que tomes una decisión rápida y vuelvas a verme."
     },
     "Rz5+DA": {
         "en-US": "[King's Knight]\nGo meet the Knight of Devotion and the Knight of Armament and talk with them.",
-        "pt-BR": "[Cavaleiro do Rei]\nVá encontrar a Cavaleira da Devoção e o Cavaleiro do Armamento e converse com eles.",
+        "pt-BR": "[Guardião Real]\nVá encontrar a Guardiã da Devoção e o Guardião de Armadura e converse com eles.",
         "es-ES": "[Caballero del Rey]\nVe a hablar con el Caballera de la Devoción y el Caballero del Armamento."
     },
     "SD5+DA": {
         "en-US": "[King's Knight]\nSoon, a contest will unfold to determine who among the Royal Guards is the true King's Knight.",
-        "pt-BR": "[Cavaleiro do Rei]\nEm breve, terá início o torneio para selecionar, dentre os Guardiões Reais, quem é digno de ser o verdadeiro Cavaleiro do Rei.",
+        "pt-BR": "[Guardião Real]\nEm breve, terá início o torneio para selecionar, dentre os Guardiões Reais, quem é digno de ser o verdadeiro Guardião Imperial.",
         "es-ES": "[Caballero del Rey]\nPronto se llevará a cabo un duelo para determinar quién es el verdadero Caballero del Rey entre los Guardias Reales."
     },
     "ST5+DA": {
         "en-US": "[Knight of Devotion]\nI wish you could participate, but your training still seems insufficient.",
-        "pt-BR": "[Cavaleiro do Rei]\nSeria bom se você pudesse participar, mas ainda parece que te falta treino.",
+        "pt-BR": "[Guardião Real]\nSeria bom se você pudesse participar, mas ainda parece que te falta treino.",
         "es-ES": "[Caballero del Rey]\nMe gustaría que tú también pudieras participar, pero parece que aún te falta entrenamiento."
     },
     "Sj5+DA": {
         "en-US": "[Knight of Devotion]\nTrain harder until you qualify, then apply to join.",
-        "pt-BR": "[Cavaleiro do Rei]\nTreine um pouco mais até estar qualificado e, então, inscreva-se para participar.",
+        "pt-BR": "[Guardião Real]\nTreine um pouco mais até estar qualificado e, então, inscreva-se para participar.",
         "es-ES": "[Caballero del Rey]\nEntrena un poco más hasta que estés a la altura y luego solicita participar."
     },
     "Sz5+DA": {
         "en-US": "- ^4D4DFFYou must be a Royal Guard with a base level of 200 or higher and in the Succession state to proceed with this quest.^000000 -",
-        "pt-BR": "- ^4D4DFFVocê pode realizar esta missão se for um Guardião Real com nível base 200 e estiver qualificado para promoção.^000000 -",
+        "pt-BR": "- ^4D4DFFVocê pode realizar esta missão se for um Guardião Real com nível base 200 e estiver qualificado para a mudança de classe.^000000 -",
         "es-ES": "- ^4D4DFFPuedes realizar esta misión si eres un guardia real con un nivel base de 200 o más y estás en estado de sucesión.^000000 -"
     },
     "TD5+DA": {
         "en-US": "Knight of Devotion",
-        "pt-BR": "Cavaleira da Devoção",
+        "pt-BR": "Guardiã da Devoção",
         "es-ES": "Caballera de la Devoción"
     },
     "TT5+DA": {
         "en-US": "[Knight of Devotion]\nI am a knight devoted to the king.",
-        "pt-BR": "[Cavaleira da Devoção]\nSou uma cavaleira dedicada ao rei.",
+        "pt-BR": "[Guardiã da Devoção]\nSou uma Guardiã dedicada ao rei.",
         "es-ES": "[Caballera de la Devoción]\nSoy un caballero dedicado al rey."
     },
     "Tj5+DA": {
         "en-US": "[Knight of Devotion]\nI believe that devotion through prayer alone is the most ideal.",
-        "pt-BR": "[Cavaleira da Devoção]\nAcredito que a forma mais ideal de devoção é através da oração.",
+        "pt-BR": "[Guardiã da Devoção]\nAcredito que a forma mais ideal de devoção é através da oração.",
         "es-ES": "[Caballera de la Devoción]\nCreo que lo más ideal es dedicarse exclusivamente a la oración."
     },
     "Tz5+DA": {
         "en-US": "[Knight of Devotion]\nLet's meet on the battlefield.",
-        "pt-BR": "[Cavaleira da Devoção]\nNos vemos na arena de duelo.",
+        "pt-BR": "[Guardiã da Devoção]\nNos vemos na arena de duelo.",
         "es-ES": "[Caballera de la Devoción]\nNos vemos en la arena de duelo."
     },
     "UD5+DA": {
         "en-US": "[Knight of Devotion]\nI hope you achieve a favorable outcome.",
-        "pt-BR": "[Cavaleira da Devoção]\nEspero que tudo corra bem.",
+        "pt-BR": "[Guardiã da Devoção]\nEspero que tudo corra bem.",
         "es-ES": "[Caballera de la Devoción]\nEspero que te vaya bien."
     },
     "UT5+DA": {
@@ -411,102 +411,102 @@
     },
     "Uj5+DA": {
         "en-US": "[Knight of Devotion]\nIt means I regret the reality that force is necessary to protect the king from the dangers of this world.",
-        "pt-BR": "[Cavaleira da Devoção]\nSignifica que lamento a realidade de que a força é necessária para proteger o rei dos perigos deste mundo.",
+        "pt-BR": "[Guardiã da Devoção]\nSignifica que lamento a realidade de que a força é necessária para proteger o rei dos perigos deste mundo.",
         "es-ES": "[Caballera de la Devoción]\nSignifica que me entristece la realidad de que se necesite la fuerza para proteger al rey de los peligros de este mundo."
     },
     "Uz5+DA": {
         "en-US": "[Knight of Devotion]\nActually, I wanted to become a priest.",
-        "pt-BR": "[Cavaleira da Devoção]\nNa verdade, eu queria ser uma clériga.",
+        "pt-BR": "[Guardiã da Devoção]\nNa verdade, eu queria ser uma Sacerdotisa.",
         "es-ES": "[Caballera de la Devoción]\nLa verdad es que yo quería ser clérigo."
     },
     "VD5+DA": {
         "en-US": "[Knight of Devotion]\nBut I had a talent for swordsmanship.",
-        "pt-BR": "[Cavaleira da Devoção]\nMas eu tinha talento para a esgrima.",
+        "pt-BR": "[Guardiã da Devoção]\nMas eu tinha talento para a Espada.",
         "es-ES": "[Caballera de la Devoción]\nPero tenía talento para la esgrima."
     },
     "VT5+DA": {
         "en-US": "[Knight of Devotion]\nI wanted my abilities to be put to good use, and so I joined the knight order.",
-        "pt-BR": "[Cavaleira da Devoção]\nEu queria que minhas habilidades fossem úteis, por isso eu entrei para a Ordem dos Cavaleiros.",
+        "pt-BR": "[Guardiã da Devoção]\nEu queria que minhas habilidades fossem úteis, por isso eu entrei para a Ordem dos Templários.",
         "es-ES": "[Caballera de la Devoción]\nQuería que mis habilidades se usaran para el bien, y por eso me uní a la orden de caballeros."
     },
     "Vj5+DA": {
         "en-US": "[Knight of Devotion]\nI pray every day. I pray for the current peace to endure, and for the conflicts now unfolding to be resolved without fighting.",
-        "pt-BR": "[Cavaleira da Devoção]\nEu rezo todos os dias. Desejo que a paz atual se mantenha e que os conflitos que estão acontecendo agora possam ser resolvidos sem lutas.",
+        "pt-BR": "[Guardiã da Devoção]\nEu rezo todos os dias. Desejo que a paz atual se mantenha e que os conflitos que estão acontecendo agora possam ser resolvidos sem lutas.",
         "es-ES": "[Caballera de la Devoción]\nRezo todos los días. Deseando que la paz actual se mantenga y que los conflictos que están ocurriendo ahora se resuelvan sin lucha."
     },
     "Vz5+DA": {
         "en-US": "[Knight of Devotion]\nI only wished to serve as a shield to protect the king and citizens, not as a sword to attack enemies.",
-        "pt-BR": "[Cavaleira da Devoção]\nEu só queria ser um escudo para proteger o rei e os cidadãos, e não uma espada para atacar o inimigo.",
+        "pt-BR": "[Guardiã da Devoção]\nEu só queria ser um escudo para proteger o rei e os cidadãos, e não uma espada para atacar o inimigo.",
         "es-ES": "[Caballera de la Devoción]\nNo quería ser una espada para atacar al enemigo, sino solo un escudo para proteger al rey y a los ciudadanos."
     },
     "WD5+DA": {
         "en-US": "[Knight of Devotion]\nBut many knights hold different views than I do.",
-        "pt-BR": "[Cavaleira da Devoção]\nMas há muitos cavaleiros que pensam diferente de mim.",
+        "pt-BR": "[Guardiã da Devoção]\nMas há muitos templários que pensam diferente de mim.",
         "es-ES": "[Caballera de la Devoción]\nPero hay muchos caballeros que piensan diferente a mí."
     },
     "WT5+DA": {
         "en-US": "[Knight of Devotion]\nI do not intend to deny their beliefs, but I will carry out my own will.",
-        "pt-BR": "[Cavaleira da Devoção]\nNão pretendo negar as convicções deles, mas vou seguir em frente com a minha vontade.",
+        "pt-BR": "[Guardiã da Devoção]\nNão pretendo negar as convicções deles, mas vou seguir em frente com a minha vontade.",
         "es-ES": "[Caballera de la Devoción]\nNo pretendo negar sus creencias, pero yo seguiré adelante con mi propósito."
     },
     "Wj5+DA": {
         "en-US": "[Knight of Devotion]\nSoon, the arena for the contest for that honorable position will be set.",
-        "pt-BR": "[Cavaleira da Devoção]\nDizem que em breve terá início uma disputa por um cargo de honra.",
+        "pt-BR": "[Guardiã da Devoção]\nDizem que em breve terá início uma disputa por um cargo de honra.",
         "es-ES": "[Caballera de la Devoción]\nDicen que pronto se librará una batalla por un puesto de honor."
     },
     "Wz5+DA": {
         "en-US": "[Knight of Devotion]\nWhat is certain is that to stand firm as the King's Knight, one must be strong.",
-        "pt-BR": "[Cavaleira da Devoção]\nO que é certo é que, para seguir firme como cavaleira do rei, preciso ser forte.",
+        "pt-BR": "[Guardiã da Devoção]\nO que é certo é que, para seguir firme como Guardião Real, preciso ser forte.",
         "es-ES": "[Caballera de la Devoción]\nLo que sí tengo claro es que, para seguir adelante con firmeza como caballero del rey, tengo que ser fuerte."
     },
     "XD5+DA": {
         "en-US": "[Knight of Devotion]\nStrength isn't just about relying on brute force and knocking down your opponent. I intend to prove that.",
-        "pt-BR": "[Cavaleira da Devoção]\nFocar apenas na força bruta e em derrubar o adversário não é o que define a verdadeira força; é isso o que pretendo provar.",
+        "pt-BR": "[Guardiã da Devoção]\nFocar apenas na força bruta e em derrubar o adversário não é o que define a verdadeira força; é isso o que pretendo provar.",
         "es-ES": "[Caballera de la Devoción]\nLa fuerza no consiste solo en centrarse en la violencia y en derribar al oponente; tengo la intención de demostrarlo."
     },
     "XT5+DA": {
         "en-US": "[Knight of Devotion]\nI will prioritize blocking enemy attacks and aim to defeat opponents using only the minimum necessary force.",
-        "pt-BR": "[Cavaleira da Devoção]\nVou dar prioridade em bloquear os ataques do inimigo e pretendo derrubar o adversário usando o mínimo de força possível.",
+        "pt-BR": "[Guardiã da Devoção]\nVou dar prioridade em bloquear os ataques do inimigo e pretendo derrubar o adversário usando o mínimo de força possível.",
         "es-ES": "[Caballera de la Devoción]\nDaré prioridad a bloquear los ataques del enemigo y pienso derrotar al rival con la mínima fuerza posible."
     },
     "Xj5+DA": {
         "en-US": "[Knight of Devotion]\nAs a knight of the king, the most important quality is not physical strength or equipment, but the power born of faith and loyalty.",
-        "pt-BR": "[Cavaleira da Devoção]\nA qualidade mais importante para um cavaleiro do rei não é a força que vem da força física e do equipamento, mas sim a força que surge da fé e da lealdade.",
+        "pt-BR": "[Guardiã da Devoção]\nA qualidade mais importante para um Guardião Real não é a força que vem da força física e do equipamento, mas sim a força que surge da fé e da lealdade.",
         "es-ES": "[Caballera de la Devoción]\nLa cualidad más importante de un caballero del rey no es la fuerza que se obtiene al dedicar toda tu energía a la fuerza física y el equipo, sino la que surge de la fe y la lealtad."
     },
     "Xz5+DA": {
         "en-US": "[Knight of Devotion]\nI believe that is the core virtue a knight who exists for the king must possess.",
-        "pt-BR": "[Cavaleira da Devoção]\nAcho que essa é a qualidade essencial que um cavaleiro que existe para servir ao rei deve possuir.",
+        "pt-BR": "[Guardiã da Devoção]\nAcho que essa é a qualidade essencial que um guardião que existe para servir ao rei deve possuir.",
         "es-ES": "[Caballera de la Devoción]\nCreo que esa es la cualidad esencial que debe tener un caballero que existe para el rey."
     },
     "YD5+DA": {
         "en-US": "[Knight of Devotion]\nThen what is your definition?",
-        "pt-BR": "[Cavaleira da Devoção]\nEntão, qual é a sua definição de justiça?",
+        "pt-BR": "[Guardiã da Devoção]\nEntão, qual é a sua definição de justiça?",
         "es-ES": "[Caballera de la Devoción]\nEntonces, ¿cuál es tu definición de justicia?"
     },
     "YT5+DA": {
         "en-US": "[Knight of Devotion]\nIs powerful equipment and exceptional swordsmanship your priority, or is it a heart devoted to the gods and loyalty to the king?",
-        "pt-BR": "[Cavaleira da Devoção]\nO que vem primeiro: equipamentos poderosos e uma excelente habilidade com a espada, ou o coração dedicado a Deus e a lealdade ao rei?",
+        "pt-BR": "[Guardiã da Devoção]\nO que vem primeiro: equipamentos poderosos e uma excelente habilidade com a espada, ou o coração dedicado a Deus e a lealdade ao rei?",
         "es-ES": "[Caballera de la Devoción]\n¿Son lo primero el equipo poderoso y la excelente esgrima, o el corazón que sirve a Dios y la lealtad al rey?"
     },
     "Yj5+DA": {
         "en-US": "Powerful equipment and exceptional swordsmanship",
-        "pt-BR": "Equipamentos poderosos e excelente habilidade com a espada",
+        "pt-BR": "Acredito no Poder!",
         "es-ES": "Equipo poderoso y destreza con la espada"
     },
     "Yz5+DA": {
         "en-US": "Faith and Loyalty",
-        "pt-BR": "Fé e lealdade",
+        "pt-BR": "Acredito na Fé!",
         "es-ES": "Fe y lealtad"
     },
     "ZD5+DA": {
         "en-US": "[Knight of Devotion]\nThis is a matter requiring careful consideration and response.",
-        "pt-BR": "[Cavaleira da Devoção]\nÉ algo que você deve pensar com cuidado antes de responder.",
+        "pt-BR": "[Guardiã da Devoção]\nÉ algo que você deve pensar com cuidado antes de responder.",
         "es-ES": "[Caballera de la Devoción]\nEs algo que debes pensar con cuidado antes de responder."
     },
     "ZT5+DA": {
         "en-US": "[Knight of Devotion]\nAre you certain your justice is what you speak of?",
-        "pt-BR": "[Cavaleira da Devoção]\nTem certeza de que isso é o que representa a sua definição de justiça?",
+        "pt-BR": "[Guardiã da Devoção]\nTem certeza de que isso é o que representa a sua definição de justiça?",
         "es-ES": "[Caballera de la Devoción]\n¿Estás seguro de que lo que acabas de decir es tu definición de justicia?"
     },
     "Zj5+DA": {
@@ -521,47 +521,47 @@
     },
     "aD5+DA": {
         "en-US": "[Knight of Devotion]\nIs that so...",
-        "pt-BR": "[Cavaleira da Devoção]\nÉ mesmo...",
+        "pt-BR": "[Guardiã da Devoção]\nÉ mesmo...",
         "es-ES": "[Caballera de la Devoción]\n¿De verdad...?"
     },
     "aT5+DA": {
         "en-US": "[Knight of Devotion]\nIs focusing solely on force truly the right way...",
-        "pt-BR": "[Cavaleira da Devoção]\nSerá que essa abordagem, que se concentra apenas na força, é realmente a correta...",
+        "pt-BR": "[Guardiã da Devoção]\nSerá que essa abordagem, que se concentra apenas na força, é realmente a correta...",
         "es-ES": "[Caballera de la Devoción]\n¿Es realmente correcto centrarse solo en la fuerza bruta...?"
     },
     "aj5+DA": {
         "en-US": "[Knight of Devotion]\nYou hold different views than I do, but I respect that.",
-        "pt-BR": "[Cavaleira da Devoção]\nVocê possui uma opinião diferente da minha, mas eu respeito isso.",
+        "pt-BR": "[Guardiã da Devoção]\nVocê possui uma opinião diferente da minha, mas eu respeito isso.",
         "es-ES": "[Caballera de la Devoción]\nTienes una opinión diferente a la mía, pero la respeto."
     },
     "az5+DA": {
         "en-US": "[Knight of Devotion]\nAre you joining the arena as well? Perhaps we'll meet in the dueling grounds.",
-        "pt-BR": "[Cavaleira da Devoção]\nVocê também vai participar do campo de batalha? Talvez a gente se encontre na arena de duelos.",
+        "pt-BR": "[Guardiã da Devoção]\nVocê também vai participar do campo de batalha? Talvez a gente se encontre na arena de duelos.",
         "es-ES": "[Caballera de la Devoción]\n¿Tú también vas a participar en el campo de batalla? Quizás nos veamos en la arena de duelos."
     },
     "bD5+DA": {
         "en-US": "[Knight of Devotion]\nWell, I understand. Be careful going in.",
-        "pt-BR": "[Cavaleira da Devoção]\nDe qualquer forma, entendi. Vá com cuidado.",
+        "pt-BR": "[Guardiã da Devoção]\nDe qualquer forma, entendi. Vá com cuidado.",
         "es-ES": "[Caballera de la Devoción]\nDe todos modos, lo entiendo perfectamente. Bueno, entonces, entra con cuidado."
     },
     "bT5+DA": {
         "en-US": "[Knight of Devotion]\nPlease think deeply about it and give me your answer later.",
-        "pt-BR": "[Cavaleira da Devoção]\nPense bem e depois me dê uma resposta.",
+        "pt-BR": "[Guardiã da Devoção]\nPense bem e depois me dê uma resposta.",
         "es-ES": "[Caballera de la Devoción]\nTe pido que lo pienses bien y me des una respuesta más adelante."
     },
     "bj5+DA": {
         "en-US": "[Knight of Devotion]\nI see.",
-        "pt-BR": "[Cavaleira da Devoção]\nEntendo.",
+        "pt-BR": "[Guardiã da Devoção]\nEntendo.",
         "es-ES": "[Caballera de la Devoción]\nYa veo."
     },
     "bz5+DA": {
         "en-US": "[Knight of Devotion]\nI'm glad to meet someone who shares my purpose.",
-        "pt-BR": "[Cavaleira da Devoção]\nFico feliz em encontrar alguém que pensa como eu.",
+        "pt-BR": "[Guardiã da Devoção]\nFico feliz em encontrar alguém que pensa como eu.",
         "es-ES": "[Caballera de la Devoción]\nMe alegra encontrar a alguien que piensa como yo."
     },
     "cD5+DA": {
         "en-US": "[Knight of Devotion]\nAre you participating in the duel as well?",
-        "pt-BR": "[Cavaleira da Devoção]\nVocê também vai participar do duelo?",
+        "pt-BR": "[Guardiã da Devoção]\nVocê também vai participar do duelo?",
         "es-ES": "[Caballera de la Devoción]\n¿Tú también vas a participar en el duelo?"
     },
     "cT5+DA": {
@@ -571,177 +571,177 @@
     },
     "cj5+DA": {
         "en-US": "[Knight of Devotion]\nIf I cannot achieve victory until the very end, I hope you will accomplish it for me.",
-        "pt-BR": "[Cavaleira da Devoção]\nSe por acaso eu não conseguir alcançar a vitória, espero que pelo menos você consiga.",
+        "pt-BR": "[Guardiã da Devoção]\nSe por acaso eu não conseguir alcançar a vitória, espero que pelo menos você consiga.",
         "es-ES": "[Caballera de la Devoción]\nSi por casualidad no consigo ganar hasta el final, espero que al menos tú lo logres."
     },
     "cz5+DA": {
         "en-US": "[Knight of Devotion]\nI sincerely hope our will is fulfilled.",
-        "pt-BR": "[Cavaleira da Devoção]\nEspero que nossa causa seja concretizada.",
+        "pt-BR": "[Guardiã da Devoção]\nEspero que nossa causa seja concretizada.",
         "es-ES": "[Caballera de la Devoción]\nOjalá logremos cumplir con nuestro propósito."
     },
     "dD5+DA": {
         "en-US": "[Knight of Devotion]\nThank you. Please proceed with caution.",
-        "pt-BR": "[Cavaleira da Devoção]\nObrigada! Vá com cuidado.",
+        "pt-BR": "[Guardiã da Devoção]\nObrigada! Vá com cuidado.",
         "es-ES": "[Caballera de la Devoción]\nGracias, ten cuidado al entrar."
     },
     "dT5+DA": {
         "en-US": "Knight of Armament",
-        "pt-BR": "Cavaleiro do Armamento",
+        "pt-BR": "Guardião de Armadura",
         "es-ES": "Caballero del Armamento"
     },
     "dj5+DA": {
         "en-US": "[Knight of Armament]\nHere lies the grave of my comrade-in-arms who lost his life fighting alongside me on the battlefield.",
-        "pt-BR": "[Cavaleiro do Armamento]\nAqui está o túmulo de um companheiro que perdeu a vida lutando ao meu lado no campo de batalha.",
+        "pt-BR": "[Guardião de Armadura]\nAqui está o túmulo de um companheiro que perdeu a vida lutando ao meu lado no campo de batalha.",
         "es-ES": "[Caballero del Armamento]\nAquí están las tumbas de los compañeros que perdieron la vida luchando a mi lado en el campo de batalla."
     },
     "dz5+DA": {
         "en-US": "[Knight of Armament]\nIf only he had been stronger... That tragedy wouldn't have happened.",
-        "pt-BR": "[Cavaleiro do Armamento]\nSe ele tivesse sido um pouco mais forte... essa tragédia não teria acontecido.",
+        "pt-BR": "[Guardião de Armadura]\nSe ele tivesse sido um pouco mais forte... essa tragédia não teria acontecido.",
         "es-ES": "[Caballero del Armamento]\nSi él hubiera sido un poco más fuerte... esa tragedia no habría ocurrido."
     },
     "eD5+DA": {
         "en-US": "[Knight of Armament]\nI hope we meet again on the battlefield.",
-        "pt-BR": "[Cavaleiro do Armamento]\nSeria ótimo se pudéssemos nos encontrar no campo de duelo.",
+        "pt-BR": "[Guardião de Armadura]\nSeria ótimo se pudéssemos nos encontrar no campo de duelo.",
         "es-ES": "[Caballero del Armamento]\nOjalá nos podamos encontrar en el campo de duelo."
     },
     "eT5+DA": {
         "en-US": "[Knight of Armament]\nI hope you achieve a favorable outcome.",
-        "pt-BR": "[Cavaleiro do Armamento]\nEspero que tudo dê certo.",
+        "pt-BR": "[Guardião de Armadura]\nEspero que tudo dê certo.",
         "es-ES": "[Caballero del Armamento]\nEspero que te vaya bien."
     },
     "ej5+DA": {
         "en-US": "[Knight of Armament]\nTo become stronger... one must train endlessly.",
-        "pt-BR": "[Cavaleiro do Armamento]\nPara ficar mais forte... é preciso treinar sem parar.",
+        "pt-BR": "[Guardião de Armadura]\nPara ficar mais forte... é preciso treinar sem parar.",
         "es-ES": "[El Caballero del Armamento]\nPara ser más fuerte... hay que entrenar sin descanso."
     },
     "ez5+DA": {
         "en-US": "[Knight of Armament]\nBetter weapons and armor are also very important.",
-        "pt-BR": "[Cavaleiro do Armamento]\nArmas e armaduras melhores também são muito importantes.",
+        "pt-BR": "[Guardião de Armadura]\nArmas e armaduras melhores também são muito importantes.",
         "es-ES": "[Caballero del Armamento]\nContar con mejores armas y armaduras también es muy importante."
     },
     "fD5+DA": {
         "en-US": "[Knight of Armament]\nWhat saddens me is that many spend excessive time pursuing dignity and performing service activities.",
-        "pt-BR": "[Cavaleiro do Armamento]\nO que me entristece é que, muitas vezes, gastamos tempo demais apenas com formalidades e dignidade.",
+        "pt-BR": "[Guardião de Armadura]\nO que me entristece é que, muitas vezes, gastamos tempo demais apenas com formalidades e dignidade.",
         "es-ES": "[Caballero del Armamento]\nLo que me entristece es que, a menudo, se dedica más tiempo del necesario a mantener la dignidad y a realizar actividades de servicio."
     },
     "fT5+DA": {
         "en-US": "[Knight of Armament]\nHalf-heartedness protects no one.",
-        "pt-BR": "[Cavaleiro do Armamento]\nSe fizermos o trabalho pela metade, não conseguiremos proteger ninguém.",
+        "pt-BR": "[Guardião de Armadura]\nSe fizermos o trabalho pela metade, não conseguiremos proteger ninguém.",
         "es-ES": "[Caballero del Armamento]\nSi te quedas a medio camino, no podrás proteger a nadie."
     },
     "fj5+DA": {
         "en-US": "[Knight of Armament]\nI believe it's right for us to sacrifice so others can carry out their duties.",
-        "pt-BR": "[Cavaleiro do Armamento]\nAcho que é certo a gente se sacrificar para que os outros possam fazer suas atividades.",
+        "pt-BR": "[Guardião de Armadura]\nAcho que é certo a gente se sacrificar para que os outros possam fazer suas atividades.",
         "es-ES": "[Caballero del Armamento]\nCreo que es correcto que nosotros nos sacrifiquemos para que otros puedan dedicarse a sus actividades de servicio."
     },
     "fz5+DA": {
         "en-US": "[Knight of Armament]\nAnd when permanent peace comes to this land, and the day arrives when battle is no longer needed... Wouldn't that be the time to make up for what we've lost?",
-        "pt-BR": "[Cavaleiro do Armamento]\nAssim, quando a paz duradoura chegar a este país e o dia em que não houver mais necessidade de lutar chegar... não será o momento para então recuperarmos o que perdemos?",
+        "pt-BR": "[Guardião de Armadura]\nAssim, quando a paz duradoura chegar a este país e o dia em que não houver mais necessidade de lutar chegar... não será o momento para então recuperarmos o que perdemos?",
         "es-ES": "[Caballero del Armamento]\nY así, cuando llegue el día en que la paz permanente se instale en este país y ya no haya necesidad de luchar... ¿no podríamos recuperar entonces lo que hemos perdido?"
     },
     "gD5+DA": {
         "en-US": "[Knight of Armament]\nIt is said that an arena for determining the true strong will soon be prepared.",
-        "pt-BR": "[Cavaleiro do Armamento]\nDizem que em breve será preparada uma arena de confronto para determinar quem é o mais forte.",
+        "pt-BR": "[Guardião de Armadura]\nDizem que em breve será preparada uma arena de confronto para determinar quem é o mais forte.",
         "es-ES": "[Caballero del Armamento]\nDicen que pronto se preparará un escenario de enfrentamiento para determinar quién es el verdadero fuerte."
     },
     "gT5+DA": {
         "en-US": "[Knight of Arms]\nThis is a good opportunity to assert my will.",
-        "pt-BR": "[Cavaleiro do Armamento]\nÉ uma ótima oportunidade para mostrar minha determinação.",
+        "pt-BR": "[Guardião de Armadura]\nÉ uma ótima oportunidade para mostrar minha determinação.",
         "es-ES": "[Caballero del Armamento]\nEs una buena oportunidad para hacer valer mi voluntad."
     },
     "gj5+DA": {
         "en-US": "[Knight of Armament]\nAt this moment, threatened by powerful monsters, physical strength must be prioritized above all else.",
-        "pt-BR": "[Cavaleiro do Armamento]\nNeste momento, em que somos ameaçados por monstros poderosos, a força física deve ser priorizada acima de tudo.",
+        "pt-BR": "[Guardião de Armadura]\nNeste momento, em que somos ameaçados por monstros poderosos, a força física deve ser priorizada acima de tudo.",
         "es-ES": "[Caballero del Armamento]\nEn este momento, en el que nos amenazan poderosos monstruos, la fuerza física debe ser lo primero."
     },
     "gz5+DA": {
         "en-US": "[Knight of Armament]\nI intend to show it to you in front of everyone.",
-        "pt-BR": "[Cavaleiro do Armamento]\nPretendo demonstrar isso diante de todos.",
+        "pt-BR": "[Guardião de Armadura]\nPretendo demonstrar isso diante de todos.",
         "es-ES": "[Caballero del Armamento]\nPienso demostrarlo ante todos."
     },
     "hD5+DA": {
         "en-US": "[Knight of Armament]\nThen what are your thoughts?",
-        "pt-BR": "[Cavaleiro do Armamento]\nEntão, qual é a sua opinião?",
+        "pt-BR": "[Guardião de Armadura]\nEntão, qual é a sua opinião?",
         "es-ES": "[Caballero del Armamento]\nEntonces, ¿qué opinas tú?"
     },
     "hT5+DA": {
         "en-US": "[Knight of Armament]\nIs powerful equipment and exceptional swordsmanship your priority, or is devotion to the gods and loyalty to the king your priority?",
-        "pt-BR": "[Cavaleiro do Armamento]\nPrioriza equipamentos poderosos e uma técnica excepcional, ou a devoção a Deus e a lealdade ao rei?",
+        "pt-BR": "[Guardião de Armadura]\nPrioriza equipamentos poderosos e uma técnica excepcional, ou a devoção a Deus e a lealdade ao rei?",
         "es-ES": "[Caballero del Armamento]\n¿Son más importantes un equipo poderoso y una esgrima excepcional, o el corazón que sirve a los dioses y la lealtad al rey?"
     },
     "hj5+DA": {
         "en-US": "[Knight of Armament]\nThis is a matter that requires careful consideration and response.",
-        "pt-BR": "[Cavaleiro do Armamento]\nÉ algo que você deve pensar com cuidado antes de responder.",
+        "pt-BR": "[Guardião de Armadura]\nÉ algo que você deve pensar com cuidado antes de responder.",
         "es-ES": "[Caballero del Armamento]\nEs algo que debes pensar con cuidado antes de responder."
     },
     "hz5+DA": {
         "en-US": "[Knight of Armament]\nAre you certain your definition is correct?",
-        "pt-BR": "[Cavaleiro do Armamento]\nTem certeza de que a sua definição de justiça é a correta?",
+        "pt-BR": "[Guardião de Armadura]\nTem certeza de que a sua definição de justiça é a correta?",
         "es-ES": "[Caballero del Armamento]\n¿Estás seguro de que lo que acabas de decir es tu definición de justicia?"
     },
     "iD5+DA": {
         "en-US": "[Knight of Armament]\nI see.",
-        "pt-BR": "[Cavaleiro do Armamento]\nComo eu imaginava.",
+        "pt-BR": "[Guardião de Armadura]\nComo eu imaginava.",
         "es-ES": "[Caballero del Armamento]\n¿Así es, entonces?"
     },
     "iT5+DA": {
         "en-US": "[Knight of Armament]\nWhen I first saw you, I could sense you were a knight of the same kind as me.",
-        "pt-BR": "[Cavaleiro do Armamento]\nQuando te vi pela primeira vez, percebi que era um cavaleiro igual a mim.",
+        "pt-BR": "[Guardião de Armadura]\nQuando te vi pela primeira vez, percebi que era da Ordem dos Templários, igual a mim.",
         "es-ES": "[Caballero del Armamento]\nCuando te vi por primera vez, sentí que eras un caballero de mi misma clase."
     },
     "ij5+DA": {
         "en-US": "[Knight of Armament]\nIt truly delights me to meet one who shares my purpose.",
-        "pt-BR": "[Cavaleiro do Armamento]\nFico muito feliz por encontrar alguém que pensa como eu.",
+        "pt-BR": "[Guardião de Armadura]\nFico muito feliz por encontrar alguém que pensa como eu.",
         "es-ES": "[Caballero del Armamento]\nMe alegra mucho encontrar a alguien que piensa igual que yo."
     },
     "iz5+DA": {
         "en-US": "[Knight of Armament]\nAre you participating in the combat arena? Perhaps we'll meet as opponents in the combat ring.",
-        "pt-BR": "[Cavaleiro do Armamento]\nVocê também vai participar do torneio? Talvez a gente se encontre na arena de duelos.",
+        "pt-BR": "[Guardião de Armadura]\nVocê também vai participar do torneio? Talvez a gente se encontre na arena de duelos.",
         "es-ES": "[Caballero del Armamento]\n¿También vas a participar en el torneo? Quizás nos veamos en la arena de combate."
     },
     "jD5+DA": {
         "en-US": "[Knight of Armament]\nIt was a pleasure. Now, proceed with caution.",
-        "pt-BR": "[Cavaleiro do Armamento]\nFoi um prazer conhecê-lo. Então, tenha cuidado ao entrar.",
+        "pt-BR": "[Guardião de Armadura]\nFoi um prazer te conhecer. Então, tenha cuidado ao entrar.",
         "es-ES": "[Caballero del Armamento]\nHa sido un placer conocerte. Bueno, entra con cuidado."
     },
     "jT5+DA": {
         "en-US": "[Knight of Armament]\nPlease think deeply and give me your answer again.",
-        "pt-BR": "[Cavaleiro do Armamento]\nPense bem e dê-me uma resposta novamente.",
+        "pt-BR": "[Guardião de Armadura]\nPense bem e dê-me uma resposta novamente.",
         "es-ES": "[Caballero del Armamento]\nPiensa bien en ello y luego me das tu respuesta."
     },
     "jj5+DA": {
         "en-US": "[Knight of Armament]\nI see...",
-        "pt-BR": "[Cavaleiro do Armamento]\nEntendo...",
+        "pt-BR": "[Guardião de Armadura]\nEntendo...",
         "es-ES": "[Caballero del Armamento]\nYa veo..."
     },
     "jz5+DA": {
         "en-US": "[Knight of Armament]\nI thought you would share my views...",
-        "pt-BR": "[Cavaleiro do Armamento]\nAchei que, sendo você, teria a mesma opinião que eu...",
+        "pt-BR": "[Guardião de Armadura]\nAchei que, sendo você, teria a mesma opinião que eu...",
         "es-ES": "[Caballero del Armamento]\nPensé que tú compartirías mi opinión..."
     },
     "kD5+DA": {
         "en-US": "[Knight of the Armor]\nAre you participating in the duel as well?",
-        "pt-BR": "[Cavaleiro do Armamento]\nVocê também vai participar do duelo?",
+        "pt-BR": "[Guardião de Armadura]\nVocê também vai participar do duelo?",
         "es-ES": "[Caballero del Armamento]\n¿Tú también vas a participar en el duelo?"
     },
     "kT5+DA": {
         "en-US": "[Knight of Armament]\nPerhaps we'll meet as duel opponents.",
-        "pt-BR": "[Cavaleiro do Armamento]\nTalvez a gente acabe se encontrando como adversários no duelo.",
+        "pt-BR": "[Guardião de Armadura]\nTalvez a gente acabe se encontrando como adversários no duelo.",
         "es-ES": "[Caballero del Armamento]\nQuizás nos encontremos como rivales en el duelo."
     },
     "kj5+DA": {
         "en-US": "[Knight of the Armor]\nIf we do meet, I will never lose.",
-        "pt-BR": "[Cavaleiro do Armamento]\nSe isso acontecer, não vou perder de jeito nenhum.",
+        "pt-BR": "[Guardião de Armadura]\nSe isso acontecer, não vou perder de jeito nenhum.",
         "es-ES": "[Caballero del Armamento]\nSi nos encontramos, no voy a perder de ninguna manera."
     },
     "kz5+DA": {
         "en-US": "[Knight of Armament]\nThen proceed with caution.",
-        "pt-BR": "[Cavaleiro do Armamento]\nEntão, vá com cuidado.",
+        "pt-BR": "[Guardião de Armadura]\nEntão, vá com cuidado.",
         "es-ES": "[Caballero del Armamento]\nBueno, entonces, ten cuidado al entrar."
     },
     "lD5+DA": {
         "en-US": "[Knight of Armament]\nHave a good day.",
-        "pt-BR": "[Cavaleiro do Armamento]\nTenha um bom dia.",
+        "pt-BR": "[Guardião de Armadura]\nTenha um bom dia.",
         "es-ES": "[Caballero del Armamento]\nQue tengas un buen día."
     }
 }

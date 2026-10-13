@@ -62,7 +62,7 @@
     "zDBG": {
         "en-US": "You promised to take the box of Bradium to Cheshire, who will be waiting for you near the Crevice of Bifrost.",
         "pt-BR": "Você prometeu levar a caixa de Bradium para Cheshire, que estará esperando por você perto da Fenda de Bifrost.",
-        "es-ES": "Prometiste llevar la caja de Bradium a Cheshire, que te estará esperando cerca de la Grieta de Bifrost."
+        "es-ES": "Prometiste llevar la caja de Bradium a Cheshire, que te estará esperando cerca de la Grieta de Bifröst."
     },
     "zTBG": {
         "en-US": "You decided to give up delivering the box.\nYou left the box as it is.",
@@ -77,7 +77,7 @@
     "zzBG": {
         "en-US": "The piece of paper is marked with some mysterious symbol, and below it is written ^4D4DFFTo: The Crevice of Bifrost^000000 in small letters.",
         "pt-BR": "O pedaço de papel está marcado com um símbolo misterioso e, abaixo dele, está escrito ^4D4DFFPara: Fenda de Bifrost^000000 em letras minúsculas.",
-        "es-ES": "El trozo de papel tiene un tipo de símbolo misterioso, y debajo aparece escrito ^4D4DFFDestino: La Grieta de Bifrost^000000 en letras minúsculas."
+        "es-ES": "El trozo de papel tiene un tipo de símbolo misterioso, y debajo aparece escrito ^4D4DFFDestino: La Grieta de Bifröst^000000 en letras minúsculas."
     },
     "0DBG": {
         "en-US": "This must the box Cheshire was talking about.\nYou decide to take it to the location shown on the piece of paper.",
@@ -92,7 +92,7 @@
     "0jBG": {
         "en-US": "You've already obtained the box Cheshire was talking about.\nNow you only have to take it to the Crevice of Bifrost.",
         "pt-BR": "Você já obteve a caixa de que a Cheshire estava falando.\nAgora você só precisa levá-la para a Fenda de Bifrost.",
-        "es-ES": "Ya obtuviste la caja de la que hablaba Cheshire.\nAhora solo tienes que llevarla a la Grieta de Bifrost."
+        "es-ES": "Ya obtuviste la caja de la que hablaba Cheshire.\nAhora solo tienes que llevarla a la Grieta de Bifröst."
     },
     "0zBG": {
         "en-US": "[Cheshire]\nSo you've brought it?\nThe amount is less than it was, but I guess I can't help it.\nNext time, you must bring the box to me intact.",

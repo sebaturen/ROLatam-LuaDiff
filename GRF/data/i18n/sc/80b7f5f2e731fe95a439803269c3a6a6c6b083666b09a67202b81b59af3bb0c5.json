@@ -1101,7 +1101,7 @@
     },
     "/MBGBg": {
         "en-US": "[Kahris]\n..., ...",
-        "pt-BR": "[Kahris]\n..., ...",
+        "pt-BR": "[Kahris]\n... ...",
         "es-ES": "[Kahris]\n..., ..."
     },
     "/cBGBg": {
@@ -1121,7 +1121,7 @@
     },
     "AMFGBg": {
         "en-US": "[Kahris]\n......, ....",
-        "pt-BR": "[Kahris]\n......, ....",
+        "pt-BR": "[Kahris]\n...... ....",
         "es-ES": "[Kahris]\n......, ...."
     },
     "AcFGBg": {
@@ -1136,7 +1136,7 @@
     },
     "A8FGBg": {
         "en-US": "[Kahris]\n...., ...",
-        "pt-BR": "[Kahris]\n...., ...",
+        "pt-BR": "[Kahris]\n.... ...",
         "es-ES": "[Kahris]\n...., ..."
     },
     "BMFGBg": {
@@ -1151,7 +1151,7 @@
     },
     "BsFGBg": {
         "en-US": "[Kahris]\n..., .....",
-        "pt-BR": "[Kahris]\n..., .....",
+        "pt-BR": "[Kahris]\n... .....",
         "es-ES": "[Kahris]\n..., ....."
     },
     "B8FGBg": {
@@ -1161,12 +1161,12 @@
     },
     "CMFGBg": {
         "en-US": "[Kahris]\n...., .., ...",
-        "pt-BR": "[Kahris]\n...., .., ...",
+        "pt-BR": "[Kahris]\n.... .., ...",
         "es-ES": "[Kahris]\n...., .., ..."
     },
     "CcFGBg": {
         "en-US": "...., .., ...",
-        "pt-BR": "...., .., ...",
+        "pt-BR": ".... .., ...",
         "es-ES": "...., .., ..."
     },
     "CsFGBg": {

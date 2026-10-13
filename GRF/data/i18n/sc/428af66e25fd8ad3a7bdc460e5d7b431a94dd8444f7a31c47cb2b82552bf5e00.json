@@ -1,27 +1,27 @@
 {
     "wGWHDA": {
         "en-US": "Adventurer, drive away the void and place the pieces on the altars that support this world's heart.",
-        "pt-BR": "Aventureiro, afaste o vazio e coloque no altar os fragmentos que sustentam o coração do mundo.",
+        "pt-BR": "Viajante, afaste os Ecos de um mundo vazio e coloque os fragmentos nos altares.",
         "es-ES": "Tú, expulsa el vacío y coloca sobre el altar las piezas que sostienen el corazón del mundo"
     },
     "wWWHDA": {
         "en-US": "I should repair all the Guardian Stones and drive away the void.",
-        "pt-BR": "Vamos erguer todas as Pedras Guardiãs e expulsar o Vazio.",
+        "pt-BR": "Erga todas as Pedras Guardiãs e expulse os Ecos de um Mundo Vazio.",
         "es-ES": "Levantemos todas las piedras guardianas y expulsemos el vacío."
     },
     "wmWHDA": {
         "en-US": "Void",
-        "pt-BR": "Vazio",
+        "pt-BR": "Ecos do Vazio",
         "es-ES": "El vacío"
     },
     "w2WHDA": {
         "en-US": "As long as the void remains in the heart, corrosion and erosion will continue.",
-        "pt-BR": "Enquanto houver vazio no coração, a corrosão e a erosão continuarão",
+        "pt-BR": "Enquanto houver Ecos Vazios no coração, a erosão e a corrosão continuarão.",
         "es-ES": "Mientras quede vacío en el corazón, la corrosión y la erosión continuarán"
     },
     "xGWHDA": {
         "en-US": "Dedicate the songs to the {0} guardians who have not yet woken up.",
-        "pt-BR": "Dedico uma canção aos guardiões do povo {0} que ainda não abriram os olhos",
+        "pt-BR": "Dedico uma canção à {0}º Pedra Guardiã que despertou.",
         "es-ES": "Dedica una canción a los guardianes de {0} que aún no han abierto los ojos"
     },
     "xWWHDA": {
@@ -31,7 +31,7 @@
     },
     "xmWHDA": {
         "en-US": "Erosion",
-        "pt-BR": "A erosão",
+        "pt-BR": "Erosão",
         "es-ES": "La erosión"
     },
     "x2WHDA": {
@@ -46,42 +46,42 @@
     },
     "yWWHDA": {
         "en-US": "Guardian Stone",
-        "pt-BR": "Pedras Guardiãs",
+        "pt-BR": "Pedra Guardiã",
         "es-ES": "Piedras de protección"
     },
     "ymWHDA": {
         "en-US": "Now that all the Guardian Stones are set, let's head toward the Guardian Tree.",
-        "pt-BR": "Já que colocamos todas as Pedras Guardiãs, vamos dar uma olhada na Árvore Guardiã.",
+        "pt-BR": "Já que despertamos todas as Pedras Guardiãs, vamos dar uma olhada na Árvore Guardiã.",
         "es-ES": "Ya que colocamos todas las piedras protectoras, vamos hacia el árbol protector."
     },
     "y2WHDA": {
         "en-US": "I've already repaired this Guardian Stone. I should check the others.",
-        "pt-BR": "Já colocamos as Pedras Guardiãs aqui. Vamos dar uma olhada em outros lugares.",
+        "pt-BR": "Já despertei uma Pedra Guardiã aqui. Vou olhar outros lugares.",
         "es-ES": "Aquí ya hemos colocado una piedra guardiana. Echemos un vistazo a otros lugares."
     },
     "zGWHDA": {
         "en-US": "When I placed an Inspiration Piece on the empty altar, it took shape and became a Guardian Stone.",
-        "pt-BR": "Ao colocar uma Peça de inspiração no altar vazio, ela tomou forma e se transformou em uma Pedra Guardiã.",
+        "pt-BR": "Ao colocar um Fragmento de Inspiração no altar vazio, ele tomou forma e se transformou em uma Pedra Guardiã.",
         "es-ES": "Coloca un fragmento de inspiración en el altar vacío. La piedra guardiana ha tomado forma."
     },
     "zWWHDA": {
         "en-US": "I need an Inspiration Piece to place on this altar.",
-        "pt-BR": "Precisamos de uma Peça de inspiração para colocar no altar vazio.",
+        "pt-BR": "Precisamos de um Fragmento de Inspiração para colocar no altar vazio.",
         "es-ES": "Necesito un fragmento de inspiración para ponerlo en el altar vacío."
     },
     "zmWHDA": {
         "en-US": "When I placed an Emotion Piece on the empty altar, it took shape and became a Guardian Stone.",
-        "pt-BR": "Ao colocar uma Peça de Emoção no altar vazio, ela tomou forma e se transformou em uma Pedra Guardiã.",
+        "pt-BR": "Ao colocar um Fragmento de Emoção no altar vazio, ele tomou forma e se transformou em uma Pedra Guardiã.",
         "es-ES": "Coloca un fragmento de emoción en el altar vacío y se ha creado una piedra protectora que ha tomado forma."
     },
     "z2WHDA": {
         "en-US": "I need an Emotion Piece to place on this altar.",
-        "pt-BR": "Precisamos de uma Peça de Emoção para colocar no altar vazio.",
+        "pt-BR": "Precisamos de um Fragmento de Emoção para colocar no altar vazio.",
         "es-ES": "Necesitas un fragmento de emoción para colocarlo en el altar vacío."
     },
     "0GWHDA": {
         "en-US": "Guardian's Spring",
-        "pt-BR": "Fonte do Guardião",
+        "pt-BR": "Guardião da Fonte",
         "es-ES": "El resorte del guardián"
     },
     "0WWHDA": {
@@ -141,17 +141,17 @@
     },
     "3GWHDA": {
         "en-US": "[Guardian Tree]\nI will give you one verse of the songs of the ancients.",
-        "pt-BR": "[Árvore Guardiã]\nDar-te-ei um verso de uma canção antiga.",
+        "pt-BR": "[Árvore Guardiã]\nTe darei um verso de um poema antigo.",
         "es-ES": "[Guardián]\nTe daré un verso de una canción antigua."
     },
     "3WWHDA": {
         "en-US": "[Guardian Tree]\nYour new name is ^0000CDMaestro^000000. Make sure the songs of life will never again be forgotten from the rest of your world.",
-        "pt-BR": "[Árvore Guardiã]\nSeu novo nome é ^0000CDMaestro^000000. Faça com que a canção da vida não seja esquecida por todas as pessoas do mundo.",
+        "pt-BR": "[Árvore Guardiã]\nDa música, surge um dom.\nDo aprendizado ao mestre do som.\nA canção da vida você perpetuará.\nE um ^0000CDMaestro^000000 você se tornará.",
         "es-ES": "[Guardián]\nTu nuevo nombre es ^0000CDMaestro^000000. Haz que la canción de la vida no caiga en el olvido para todos los habitantes del mundo."
     },
     "3mWHDA": {
         "en-US": "[Guardian Tree]\nYour new name is ^0000CDDiva^000000. Make sure the songs of life will never again be forgotten from the rest of your world.",
-        "pt-BR": "[Árvore Guardiã]\nSeu novo nome é ^0000CDDiva^000000. Faça com que a canção da vida não seja esquecida por ninguém neste mundo.",
+        "pt-BR": "[Árvore Guardiã]\nDa dança, surge um dom.\nDo aprendizado ao domínio do som.\nA canção da vida você perpetuará.\nE uma ^0000CDDiva^000000 você se tornará.",
         "es-ES": "[Guardián]\nTu nuevo nombre es ^0000CDDiva^000000. Haz que la canción de la vida no caiga en el olvido para todos los habitantes del mundo."
     },
     "32WHDA": {
@@ -181,7 +181,7 @@
     },
     "5GWHDA": {
         "en-US": "[Historian]\nThe songs of life that we must not forget...",
-        "pt-BR": "[Historiador]\nA canção da vida que não se esquece...",
+        "pt-BR": "[Historiador]\nA 'canção da vida você perpetuará'...",
         "es-ES": "[Historiador]\nLa canción de la vida que no se olvida..."
     },
     "5WWHDA": {
@@ -201,37 +201,37 @@
     },
     "6GWHDA": {
         "en-US": "[Director]\nIs that so? How disappointing. Then again, you seem too much of a free spirit to be tied down to one place. Now that you've broken through your limits, you'll surely accomplish even more.",
-        "pt-BR": "[Diretor]\nÉ mesmo? Que pena. Mas, pensando bem, você parece ter uma alma muito livre para ficar preso a algo. Já que ultrapassou os limites, vai poder fazer muito mais, não é?",
+        "pt-BR": "[Diretor]\nÉ mesmo? Que pena. Mas, pensando bem, você parece ter uma alma muito livre para ficar aqui. Já que ultrapassou os limites, vai poder fazer muito mais, não é?",
         "es-ES": "[Jefe]\n¿Ah, sí? Qué pena. Aunque, la verdad, pareces un alma demasiado libre como para estar atado a algo. Ya que has superado tus límites, seguro que podrás hacer muchas más cosas."
     },
     "6WWHDA": {
         "en-US": "[Director]\nAh, what a shame, such a shame. Well then, please try to roam freely and make sure the songs aren't forgotten. I'll do my best to protect this place.",
-        "pt-BR": "[Diretor]\nAh, é realmente uma pena, uma pena. Então, por favor, viaje livremente e faça o possível para que as canções não sejam esquecidas. Eu também vou cuidar bem deste lugar.",
+        "pt-BR": "[Diretor]\nAh, é realmente uma pena, uma pena. Então, por favor, viaje livremente e faça o possível para que as canções não sejam esquecidas. Eu também vou cuidar deste lugar.",
         "es-ES": "[Jefe]\nAh, qué pena, qué lástima. Bueno, entonces por favor, anda libremente por ahí y haz todo lo posible para que las canciones no se pierdan. Yo también me encargaré de cuidar bien este lugar."
     },
     "6mWHDA": {
         "en-US": "[Historian]\nAdventurer, your shoulders bear a heavier burden now. Well, then, we should get out of here.",
-        "pt-BR": "[Historiador]\nSeu fardo ficou mais pesado, aventureiro. Bem, então vamos embora.",
+        "pt-BR": "[Historiador]\nSeu fardo ficou mais pesado, viajante. Bem, então vamos embora.",
         "es-ES": "[Historiador]\nEl aventurero tiene ahora una gran responsabilidad sobre sus hombros. Bueno, pues vamos a irnos ya."
     },
     "62WHDA": {
         "en-US": "[Guardian Tree]\nYou have nothing else to gain here.",
-        "pt-BR": "[Árvore Guardiã]\nVocê não tem mais nada a ganhar aqui.",
+        "pt-BR": "[Árvore Guardiã]\nVocê não tem mais nada a fazer aqui.",
         "es-ES": "[Guardián]\nYa no hay nada más que puedas obtener aquí."
     },
     "7GWHDA": {
         "en-US": "I have not yet repaired all the Guardian Stones.",
-        "pt-BR": "Ainda não recupereitodas as Pedras Guardiãs.",
+        "pt-BR": "Ainda não recuperei todas as Pedras Guardiãs.",
         "es-ES": "Aún no has erigido todas las piedras guardianas."
     },
     "7WWHDA": {
         "en-US": "Historian",
-        "pt-BR": "Historiador",
+        "pt-BR": "Historiadora",
         "es-ES": "Historiador"
     },
     "7mWHDA": {
         "en-US": "Citizen",
-        "pt-BR": "Cidadão",
+        "pt-BR": "Artista",
         "es-ES": "Natural"
     },
     "72WHDA": {

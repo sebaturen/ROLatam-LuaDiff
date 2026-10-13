@@ -813,5 +813,10 @@
         "en-US": "[Neede]\nI have no idea what she's up to all day, but all I hear is ''Ack!?or ''Arrrgh!?or ''Kyaa!?and things blowing up! Such a strange woman ...",
         "pt-BR": "[Neede]\nNão tenho ideia do que ela está fazendo o dia todo, mas tudo o que ouço é ack!?ou arrrgh!?ou ayaa!?e coisas explodindo! Uma mulher tão estranha...",
         "es-ES": "[Neede]\nNo tengo ni idea de lo que está haciendo todo el día, pero todo lo que oigo es ack! ... o arrrgh! ... o ayaa! ... y las cosas explotando! Qué mujer tan extraña..."
+    },
+    "Yzj0CQ": {
+        "en-US": "[Eden Group Teleport Service]\nAh, have you met <NAVI>[Rumin in Orc Village]<INFO>in_orcs01,36,172,000,0</INFO></NAVI> yet?\nHe seems to be waiting for someone; I was wondering if it was you.",
+        "pt-BR": "[Oficial do Éden]\nAh, você já encontrou <NAVI>[Rumin na Vila dos Orcs]<INFO>in_orcs01,36,172,000,0</INFO></NAVI>?\nEle parece estar esperando por alguém; eu queria saber se é você.",
+        "es-ES": "[Oficial de Teletransporte del Edén]\nAh, ¿has conocido ya a <NAVI>[Rumin en Pueblo Orco]<INFO>in_orcs01,36,172,000,0</INFO></NAVI>?\nParece estar esperando a alguien; me preguntaba si serías tú."
     }
 }

@@ -1,0 +1,1487 @@
+{
+    "QBfXDQ": {
+        "en-US": "Advanced Mission Board",
+        "pt-BR": "Missões Avançadas",
+        "es-ES": "Tablón de Misiones Avanzadas"
+    },
+    "QRfXDQ": {
+        "en-US": "<Level 130~190>",
+        "pt-BR": "[Nível 130 - 190]",
+        "es-ES": "<Nivel 130 - 190>"
+    },
+    "QhfXDQ": {
+        "en-US": "You are carrying too many items to proceed with the quest.\nPlease organize your items and try again.",
+        "pt-BR": "Você está carregando itens demais para prosseguir.\nOrganize seus itens e tente novamente.",
+        "es-ES": "Llevas demasiados objetos para continuar con la misión.\nOrganiza tus objetos e inténtalo de nuevo."
+    },
+    "QxfXDQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll mission EXP rewards are increased by 50%!!^000000",
+        "pt-BR": "^4D4DFFBônus de EXP!^000000\n^4D4DFFDurante o evento, as recompensas em EXP aumentaram em 50%!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡Las recompensas de EXP de todas las misiones aumentan un 50%!^000000"
+    },
+    "RBfXDQ": {
+        "en-US": "[Version Check] Eden Group Normal Version",
+        "pt-BR": "[GM Mode] Versão Normal",
+        "es-ES": "[Verificación de Versión] Versión Normal del Grupo del Edén"
+    },
+    "RRfXDQ": {
+        "en-US": "- To accept missions -\n- You must have an ^4D4DFF'Eden Group Token'^000000. -",
+        "pt-BR": "Para aceitar uma missão, você precisa -\n- ter o ^4D4DFF'Emblema do Grupo do Éden'^000000. -",
+        "es-ES": "- Para aceptar misiones -\n- Debes tener una ^4D4DFF'Insignia del Grupo del Edén'^000000. -"
+    },
+    "RhfXDQ": {
+        "en-US": "Your level is too low to use this board.",
+        "pt-BR": "Seu nível é insuficiente para usar este quadro de missões.",
+        "es-ES": "Tu nivel es demasiado bajo para usar este tablón."
+    },
+    "RxfXDQ": {
+        "en-US": "View Individual Missions",
+        "pt-BR": "Ver missões individualmente",
+        "es-ES": "Ver Misiones Individuales"
+    },
+    "SBfXDQ": {
+        "en-US": "Report Completed Missions",
+        "pt-BR": "Reportar missões concluídas",
+        "es-ES": "Reportar Misiones Completadas"
+    },
+    "SRfXDQ": {
+        "en-US": "Accept All Missions",
+        "pt-BR": "Aceitar todas as missões",
+        "es-ES": "Aceptar Todas las Misiones"
+    },
+    "ShfXDQ": {
+        "en-US": "[Processing completed missions.]",
+        "pt-BR": "[Missões Concluídas]",
+        "es-ES": "[Procesando misiones completadas.]"
+    },
+    "SxfXDQ": {
+        "en-US": "<Flowering Land> completed.",
+        "pt-BR": "[Campo Florescente] - missão concluída.",
+        "es-ES": "<Tierra Floreciente> completada."
+    },
+    "TBfXDQ": {
+        "en-US": "<Bathhouse Meditatio> completed.",
+        "pt-BR": "[Sauna Meditatio] - missão concluída.",
+        "es-ES": "<Sauna Meditatio> completada."
+    },
+    "TRfXDQ": {
+        "en-US": "<Library Memory Corridor> completed.",
+        "pt-BR": "[Corredor das Memórias] - missão concluída.",
+        "es-ES": "<Pasillo de los Recuerdos> completada."
+    },
+    "ThfXDQ": {
+        "en-US": "<Sewage Treatment Plant> completed.",
+        "pt-BR": "[Estação de Esgoto] - missão concluída.",
+        "es-ES": "<Estación de Aguas Residuales> completada."
+    },
+    "TxfXDQ": {
+        "en-US": "<Power Plant No. 1> completed.",
+        "pt-BR": "[Usina Mágica I] - missão concluída.",
+        "es-ES": "<Planta Mágica I> completada."
+    },
+    "UBfXDQ": {
+        "en-US": "<Dragon Nest> completed.",
+        "pt-BR": "[Ninho do Dragão] - missão concluída.",
+        "es-ES": "<Guarida del Dragón> completada."
+    },
+    "URfXDQ": {
+        "en-US": "<Bifrost Tower> completed.",
+        "pt-BR": "[Torre de Bifrost] - missão concluída.",
+        "es-ES": "<Torre de Bifrost> completada."
+    },
+    "UhfXDQ": {
+        "en-US": "<Prontera Underground Prison> completed.",
+        "pt-BR": "[Prisão de Prontera] - missão concluída.",
+        "es-ES": "<Prisión Subterránea de Prontera> completada."
+    },
+    "UxfXDQ": {
+        "en-US": "<Invaded Prontera> completed.",
+        "pt-BR": "[Prontera Destruída] - missão concluída.",
+        "es-ES": "<Prontera Destruida> completada."
+    },
+    "VBfXDQ": {
+        "en-US": "<Rock Ridge Mine> completed.",
+        "pt-BR": "[Minas de Rockridge] - missão concluída.",
+        "es-ES": "<Minas de Rockridge> completada."
+    },
+    "VRfXDQ": {
+        "en-US": "<2F Corridor> completed.",
+        "pt-BR": "[Castelo Maldito] - missão concluída.",
+        "es-ES": "<Castillo de Glastheim: Pasillo del Piso 2> completada."
+    },
+    "VhfXDQ": {
+        "en-US": "<Underground Bunker> completed.",
+        "pt-BR": "[Abrigo Subterrâneo] - missão concluída.",
+        "es-ES": "<Refugio Subterráneo> completada."
+    },
+    "VxfXDQ": {
+        "en-US": "<Laboratory - OPTATIO> completed.",
+        "pt-BR": "[Optatio] - missão concluída.",
+        "es-ES": "<Laboratorio OPTATIO> completada."
+    },
+    "WBfXDQ": {
+        "en-US": "<Distorted Clock Tower 2F> completed.",
+        "pt-BR": "[Torre Distorcida I] - missão concluída.",
+        "es-ES": "<Torre del Reloj Distorsionada, Piso 2> completada."
+    },
+    "WRfXDQ": {
+        "en-US": "<Lost Valley Ranch> completed.",
+        "pt-BR": "[Estufa de Pitayas] - missão concluída.",
+        "es-ES": "<Criadero del Valle Perdido> completada."
+    },
+    "WhfXDQ": {
+        "en-US": "<Distorted Clock Tower 3F> completed.",
+        "pt-BR": "[Torre Distorcida II] - missão concluída.",
+        "es-ES": "<Torre del Reloj Distorsionada, Piso 3> completada."
+    },
+    "WxfXDQ": {
+        "en-US": "<Oz Gorge and Ida Plain> completed.",
+        "pt-BR": "[Arredores de Rachel] - missão concluída.",
+        "es-ES": "<Cañón de Oz> completada."
+    },
+    "XBfXDQ": {
+        "en-US": "<Rudus Disposal Site 2F> completed.",
+        "pt-BR": "[Depósito Rudus I] - missão concluída.",
+        "es-ES": "<Rudus, Depósito de Relaves: Piso 2> completada."
+    },
+    "XRfXDQ": {
+        "en-US": "<Juperos Eastern Ruins> completed.",
+        "pt-BR": "[Oeste de Juperos] - missão concluída.",
+        "es-ES": "<Ruina Oeste de Juperos> completada."
+    },
+    "XhfXDQ": {
+        "en-US": "<Verus City> completed.",
+        "pt-BR": "[Cidade de Verus] - missão concluída.",
+        "es-ES": "<Ciudad de Verus> completada."
+    },
+    "XxfXDQ": {
+        "en-US": "<Tartaros Storage Upper Floor> completed.",
+        "pt-BR": "[Armazém Tártaro I] - missão concluída.",
+        "es-ES": "<Almacén Tártaro, Piso Superior> completada."
+    },
+    "YBfXDQ": {
+        "en-US": "<Oz Labyrinth 1F> completed.",
+        "pt-BR": "[Labirinto de Oz] - missão concluída.",
+        "es-ES": "<Laberinto de Oz, Piso 1> completada."
+    },
+    "YRfXDQ": {
+        "en-US": "<Rudus Disposal Site 3F> completed.",
+        "pt-BR": "[Depósito Rudus II] - missão concluída.",
+        "es-ES": "<Rudus, Depósito de Relaves: Piso 3> completada."
+    },
+    "YhfXDQ": {
+        "en-US": "<Juno Nogg Road 3F> completed.",
+        "pt-BR": "[Noggroad] - missão concluída.",
+        "es-ES": "<Noggroad> completada."
+    },
+    "YxfXDQ": {
+        "en-US": "<Tartaros Storage Lower Floor> completed.",
+        "pt-BR": "[Armazém Tártaro II] - missão concluída.",
+        "es-ES": "<Almacén Tártaro, Nivel Inferior> completada."
+    },
+    "ZBfXDQ": {
+        "en-US": "<Glast Heim Abyss 1F> completed.",
+        "pt-BR": "[Porões de Glastheim] - missão concluída.",
+        "es-ES": "<Abismo de Glastheim, Piso 1> completada."
+    },
+    "ZRfXDQ": {
+        "en-US": "<Gray Wolf Forest> completed.",
+        "pt-BR": "[Lobo Cinzento] - missão concluída.",
+        "es-ES": "<Bosque del Lobo Gris I> completada."
+    },
+    "ZhfXDQ": {
+        "en-US": "<Einbech Mine 3F> completed.",
+        "pt-BR": "[Profundezas da Mina] - missão concluída.",
+        "es-ES": "<Mina de Einbech, Piso 3> completada."
+    },
+    "ZxfXDQ": {
+        "en-US": "<Ancient Odin Temple> completed.",
+        "pt-BR": "[Passado do Templo] - missão concluída.",
+        "es-ES": "<Antiguo Templo de Odín> completada."
+    },
+    "aBfXDQ": {
+        "en-US": "<Hugel Abyss Lake Underground Cave 4F> completed.",
+        "pt-BR": "[Profundezas do Lago] - missão concluída.",
+        "es-ES": "<Cueva Subterránea del Lago del Abismo, Piso 4> completada."
+    },
+    "aRfXDQ": {
+        "en-US": "<Power Plant No. 2> completed.",
+        "pt-BR": "[Usina Mágica II] - missão concluída.",
+        "es-ES": "<Planta Mágica II> completada."
+    },
+    "ahfXDQ": {
+        "en-US": "Processed {0} completed missions.",
+        "pt-BR": "Você concluiu {0} missões.",
+        "es-ES": "Se procesaron {0} misiones completadas."
+    },
+    "axfXDQ": {
+        "en-US": "All Available Missions",
+        "pt-BR": "Aceitar todas disponíveis",
+        "es-ES": "Todas las Misiones Disponibles"
+    },
+    "bBfXDQ": {
+        "en-US": "Missions [Lv. 130+]",
+        "pt-BR": "Missões [Nv. 130+]",
+        "es-ES": "Misiones [Nv. 130+]"
+    },
+    "bRfXDQ": {
+        "en-US": "Missions [Lv. 140+]",
+        "pt-BR": "Missões [Nv. 140+]",
+        "es-ES": "Misiones [Nv. 140+]"
+    },
+    "bhfXDQ": {
+        "en-US": "Missions [Lv. 150+]",
+        "pt-BR": "Missões [Nv. 150+]",
+        "es-ES": "Misiones [Nv. 150+]"
+    },
+    "bxfXDQ": {
+        "en-US": "Missions [Lv. 160+]",
+        "pt-BR": "Missões [Nv. 160+]",
+        "es-ES": "Misiones [Nv. 160+]"
+    },
+    "cBfXDQ": {
+        "en-US": "Missions [Lv. 170+]",
+        "pt-BR": "Missões [Nv. 170+]",
+        "es-ES": "Misiones [Nv. 170+]"
+    },
+    "cRfXDQ": {
+        "en-US": "Missions [Lv. 180+]",
+        "pt-BR": "Missões [Nv. 180+]",
+        "es-ES": "Misiones [Nv. 180+]"
+    },
+    "chfXDQ": {
+        "en-US": "Missions [Lv. 190+]",
+        "pt-BR": "Missões [Nv. 190+]",
+        "es-ES": "Misiones [Nv. 190+]"
+    },
+    "cxfXDQ": {
+        "en-US": "You have accepted all available missions.",
+        "pt-BR": "Você aceitou todas as missões disponíveis.",
+        "es-ES": "Has aceptado todas las misiones disponibles."
+    },
+    "dBfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 130+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 130+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 130+."
+    },
+    "dRfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 140+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 140+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 140+."
+    },
+    "dhfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 150+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 150+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 150+."
+    },
+    "dxfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 160+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 160+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 160+."
+    },
+    "eBfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 170+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 170+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 170+."
+    },
+    "eRfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 180+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 180+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 180+."
+    },
+    "ehfXDQ": {
+        "en-US": "You have accepted all available missions for Lv. 190+.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 190+.",
+        "es-ES": "Has aceptado todas las misiones disponibles para Nv. 190+."
+    },
+    "exfXDQ": {
+        "en-US": "[Accepting missions.]",
+        "pt-BR": "[Aceitando Missões]",
+        "es-ES": "[Aceptando misiones.]"
+    },
+    "fBfXDQ": {
+        "en-US": "Flowering Land[130]",
+        "pt-BR": "[130] Campo Florescente",
+        "es-ES": "Tierra Floreciente [130]"
+    },
+    "fRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "fhfXDQ": {
+        "en-US": "Bathhouse Meditatio[130]",
+        "pt-BR": "[130] Sauna Meditatio",
+        "es-ES": "Sauna Meditatio [130]"
+    },
+    "fxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "gBfXDQ": {
+        "en-US": "Library Memory Corridor[130]",
+        "pt-BR": "[130] Corredor das Memórias",
+        "es-ES": "Pasillo de los Recuerdos [130]"
+    },
+    "gRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "ghfXDQ": {
+        "en-US": "Sewage Treatment Plant[130]",
+        "pt-BR": "[130] Estação de Esgoto",
+        "es-ES": "Estación de Aguas Residuales [130]"
+    },
+    "gxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "hBfXDQ": {
+        "en-US": "Power Plant No. 1[130]",
+        "pt-BR": "[130] Usina Mágica I",
+        "es-ES": "Planta Mágica I [130]"
+    },
+    "hRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "hhfXDQ": {
+        "en-US": "Dragon Nest[130]",
+        "pt-BR": "[130] Ninho do Dragão",
+        "es-ES": "Guarida del Dragón [130]"
+    },
+    "hxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "iBfXDQ": {
+        "en-US": "Bifrost Tower[140]",
+        "pt-BR": "[140] Torre de Bifrost",
+        "es-ES": "Torre de Bifrost [140]"
+    },
+    "iRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "ihfXDQ": {
+        "en-US": "Dragon Nest[140]",
+        "pt-BR": "[140] Ninho do Dragão",
+        "es-ES": "Guarida del Dragón [140]"
+    },
+    "ixfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "jBfXDQ": {
+        "en-US": "Prontera Underground Prison[140]",
+        "pt-BR": "[140] Prisão de Prontera",
+        "es-ES": "Prisión Subterránea de Prontera [140]"
+    },
+    "jRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "jhfXDQ": {
+        "en-US": "Invaded Prontera[140]",
+        "pt-BR": "[140] Prontera Destruída",
+        "es-ES": "Prontera Destruida [140]"
+    },
+    "jxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "kBfXDQ": {
+        "en-US": "Rock Ridge Mine[140]",
+        "pt-BR": "[140] Minas de Rockridge",
+        "es-ES": "Minas de Rockridge [140]"
+    },
+    "kRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "khfXDQ": {
+        "en-US": "2F Corridor[150]",
+        "pt-BR": "[150] Castelo Maldito",
+        "es-ES": "Castillo de Glastheim: Pasillo del Piso 2 [150]"
+    },
+    "kxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "lBfXDQ": {
+        "en-US": "Underground Bunker[150]",
+        "pt-BR": "[150] Abrigo Subterrâneo",
+        "es-ES": "Refugio Subterráneo [150]"
+    },
+    "lRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "lhfXDQ": {
+        "en-US": "Laboratory - OPTATIO[150]",
+        "pt-BR": "[150] Optatio",
+        "es-ES": "Laboratorio OPTATIO [150]"
+    },
+    "lxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "mBfXDQ": {
+        "en-US": "Distorted Clock Tower 2F[150]",
+        "pt-BR": "[150] Torre Distorcida I",
+        "es-ES": "Torre del Reloj Distorsionada, Piso 2 [150]"
+    },
+    "mRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "mhfXDQ": {
+        "en-US": "Lost Valley Ranch[150]",
+        "pt-BR": "[150] Estufa de Pitayas",
+        "es-ES": "Criadero del Valle Perdido [150]"
+    },
+    "mxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "nBfXDQ": {
+        "en-US": "Distorted Clock Tower 3F[160]",
+        "pt-BR": "[160] Torre Distorcida II",
+        "es-ES": "Torre del Reloj Distorsionada, Piso 3 [160]"
+    },
+    "nRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "nhfXDQ": {
+        "en-US": "Oz Gorge and Ida Plain[160]",
+        "pt-BR": "[160] Arredores de Rachel",
+        "es-ES": "Cañón de Oz [160]"
+    },
+    "nxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "oBfXDQ": {
+        "en-US": "Rudus Disposal Site 2F[160]",
+        "pt-BR": "[160] Depósito Rudus I",
+        "es-ES": "Rudus, Depósito de Relaves: Piso 2 [160]"
+    },
+    "oRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "ohfXDQ": {
+        "en-US": "Juperos Eastern Ruins[160]",
+        "pt-BR": "[160] Oeste de Juperos",
+        "es-ES": "Ruina Oeste de Juperos [160]"
+    },
+    "oxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "pBfXDQ": {
+        "en-US": "Verus City[160]",
+        "pt-BR": "[160] Cidade de Verus",
+        "es-ES": "Ciudad de Verus [160]"
+    },
+    "pRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "phfXDQ": {
+        "en-US": "Tartaros Storage Upper Floor[170]",
+        "pt-BR": "[170] Armazém Tártaro I",
+        "es-ES": "Almacén Tártaro, Piso Superior [170]"
+    },
+    "pxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "qBfXDQ": {
+        "en-US": "Oz Labyrinth 1F[170]",
+        "pt-BR": "[170] Labirinto de Oz",
+        "es-ES": "Laberinto de Oz, Piso 1 [170]"
+    },
+    "qRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "qhfXDQ": {
+        "en-US": "Rudus Disposal Site 3F[170]",
+        "pt-BR": "[170] Depósito Rudus II",
+        "es-ES": "Rudus, Depósito de Relaves: Piso 3 [170]"
+    },
+    "qxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "rBfXDQ": {
+        "en-US": "Juno Nogg Road 3F[175]",
+        "pt-BR": "[175] Noggroad",
+        "es-ES": "Noggroad [175]"
+    },
+    "rRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "rhfXDQ": {
+        "en-US": "Tartaros Storage Lower Floor[180]",
+        "pt-BR": "[180] Armazém Tártaro II",
+        "es-ES": "Almacén Tártaro, Nivel Inferior [180]"
+    },
+    "rxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "sBfXDQ": {
+        "en-US": "Glast Heim Abyss 1F[180]",
+        "pt-BR": "Porões de Glastheim[180]",
+        "es-ES": "Abismo de Glastheim, Piso 1 [180]"
+    },
+    "sRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "shfXDQ": {
+        "en-US": "Gray Wolf Forest[180]",
+        "pt-BR": "[180] Lobo Cinzento I",
+        "es-ES": "Bosque del Lobo Gris I [180]"
+    },
+    "sxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "tBfXDQ": {
+        "en-US": "Gray Wolf Forest[180]",
+        "pt-BR": "[180] Lobo Cinzento II",
+        "es-ES": "Bosque del Lobo Gris I [180]"
+    },
+    "tRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "thfXDQ": {
+        "en-US": "Einbech Mine 3F[180]",
+        "pt-BR": "[180] Profundezas da Mina",
+        "es-ES": "Mina de Einbech, Piso 3 [180]"
+    },
+    "txfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "uBfXDQ": {
+        "en-US": "Ancient Odin Temple[190]",
+        "pt-BR": "[190] Passado do Templo",
+        "es-ES": "Antiguo Templo de Odín [190]"
+    },
+    "uRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "uhfXDQ": {
+        "en-US": "Hugel Abyss Lake Underground Cave 4F[190]",
+        "pt-BR": "[190] Profundezas do Lago",
+        "es-ES": "Cueva Subterránea del Lago del Abismo, Piso 4 [190]"
+    },
+    "uxfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "vBfXDQ": {
+        "en-US": "Power Plant No. 2[190]",
+        "pt-BR": "[190] Usina Mágica II",
+        "es-ES": "Planta Mágica II [190]"
+    },
+    "vRfXDQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita.",
+        "es-ES": "Aceptar Misión {0}"
+    },
+    "vhfXDQ": {
+        "en-US": "{0}",
+        "pt-BR": "{0}",
+        "es-ES": "{0}"
+    },
+    "vxfXDQ": {
+        "en-US": "^8C8C8CFlowering Land[130](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Campo Florescente^000000",
+        "es-ES": "^8C8C8CTierra Floreciente [130] (En Curso)^000000"
+    },
+    "wBfXDQ": {
+        "en-US": "^8C8C8CFlowering Land[130](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Campo Florescente^000000",
+        "es-ES": "^8C8C8CTierra Floreciente [130] (En Espera)^000000"
+    },
+    "wRfXDQ": {
+        "en-US": "^8C8C8CBathhouse Meditatio[130](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Sauna Meditatio^000000",
+        "es-ES": "^8C8C8CSauna Meditatio [130] (En Curso)^000000"
+    },
+    "whfXDQ": {
+        "en-US": "^8C8C8CBathhouse Meditatio[130](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Sauna Meditatio^000000",
+        "es-ES": "^8C8C8CSauna Meditatio [130] (En Espera)^000000"
+    },
+    "wxfXDQ": {
+        "en-US": "^8C8C8CLibrary Memory Corridor[130](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Corredor das Memórias^000000",
+        "es-ES": "^8C8C8CPasillo de los Recuerdos [130] (En Curso)^000000"
+    },
+    "xBfXDQ": {
+        "en-US": "^8C8C8CLibrary Memory Corridor[130](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Corredor das Memórias^000000",
+        "es-ES": "^8C8C8CPasillo de los Recuerdos [130] (En Espera)^000000"
+    },
+    "xRfXDQ": {
+        "en-US": "^8C8C8CSewage Treatment Plant[130](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Estação de Esgoto^000000",
+        "es-ES": "^8C8C8CEstación de Aguas Residuales [130] (En Curso)^000000"
+    },
+    "xhfXDQ": {
+        "en-US": "^8C8C8CSewage Treatment Plant[130](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Estação de Esgoto^000000",
+        "es-ES": "^8C8C8CEstación de Aguas Residuales [130] (En Espera)^000000"
+    },
+    "xxfXDQ": {
+        "en-US": "^8C8C8CPower Plant No. 1[130](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Usina Mágica I^000000",
+        "es-ES": "^8C8C8CPlanta Mágica I [130] (En Curso)^000000"
+    },
+    "yBfXDQ": {
+        "en-US": "^8C8C8CPower Plant No. 1[130](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Usina Mágica I^000000",
+        "es-ES": "^8C8C8CPlanta Mágica I [130] (En Espera)^000000"
+    },
+    "yRfXDQ": {
+        "en-US": "^8C8C8CDragon Nest[130](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Ninho do Dragão^000000",
+        "es-ES": "^8C8C8CGuarida del Dragón [130] (En Curso)^000000"
+    },
+    "yhfXDQ": {
+        "en-US": "^8C8C8CDragon Nest[130](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Ninho do Dragão^000000",
+        "es-ES": "^8C8C8CGuarida del Dragón [130] (En Espera)^000000"
+    },
+    "yxfXDQ": {
+        "en-US": "^8C8C8CBifrost Tower[140](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Torre de Bifrost^000000",
+        "es-ES": "^8C8C8CTorre de Bifrost [140] (En Curso)^000000"
+    },
+    "zBfXDQ": {
+        "en-US": "^8C8C8CBifrost Tower[140](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Torre de Bifrost^000000",
+        "es-ES": "^8C8C8CTorre de Bifrost [140] (En Espera)^000000"
+    },
+    "zRfXDQ": {
+        "en-US": "^8C8C8CDragon Nest[140](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Ninho do Dragão^000000",
+        "es-ES": "^8C8C8CGuarida del Dragón [140] (En Curso)^000000"
+    },
+    "zhfXDQ": {
+        "en-US": "^8C8C8CDragon Nest[140](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Ninho do Dragão^000000",
+        "es-ES": "^8C8C8CGuarida del Dragón [140] (En Espera)^000000"
+    },
+    "zxfXDQ": {
+        "en-US": "^8C8C8CProntera Underground Prison[140](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Prisão de Prontera^000000",
+        "es-ES": "^8C8C8CPrisión Subterránea de Prontera [140] (En Curso)^000000"
+    },
+    "0BfXDQ": {
+        "en-US": "^8C8C8CProntera Underground Prison[140](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Prisão de Prontera^000000",
+        "es-ES": "^8C8C8CPrisión Subterránea de Prontera [140] (En Espera)^000000"
+    },
+    "0RfXDQ": {
+        "en-US": "^8C8C8CInvaded Prontera[140](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Prontera Destruída^000000",
+        "es-ES": "^8C8C8CProntera Destruida [140] (En Curso)^000000"
+    },
+    "0hfXDQ": {
+        "en-US": "^8C8C8CInvaded Prontera[140](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Prontera Destruída^000000",
+        "es-ES": "^8C8C8CProntera Destruida [140] (En Espera)^000000"
+    },
+    "0xfXDQ": {
+        "en-US": "^8C8C8CRock Ridge Mine[140](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Minas de Rockridge^000000",
+        "es-ES": "^8C8C8CMinas de Rockridge [140] (En Curso)^000000"
+    },
+    "1BfXDQ": {
+        "en-US": "^8C8C8CRock Ridge Mine[140](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Minas de Rockridge^000000",
+        "es-ES": "^8C8C8CMinas de Rockridge [140] (En Espera)^000000"
+    },
+    "1RfXDQ": {
+        "en-US": "^8C8C8C2F Corridor[150](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Castelo Maldito^000000",
+        "es-ES": "^8C8C8CCastillo de Glastheim: Pasillo del Piso 2 [150] (En Curso)^000000"
+    },
+    "1hfXDQ": {
+        "en-US": "^8C8C8C2F Corridor[150](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Castelo Maldito^000000",
+        "es-ES": "^8C8C8CCastillo de Glastheim: Pasillo del Piso 2 [150] (En Espera)^000000"
+    },
+    "1xfXDQ": {
+        "en-US": "^8C8C8CUnderground Bunker[150](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Abrigo Subterrâneo^000000",
+        "es-ES": "^8C8C8CRefugio Subterráneo [150] (En Curso)^000000"
+    },
+    "2BfXDQ": {
+        "en-US": "^8C8C8CUnderground Bunker[150](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Abrigo Subterrâneo^000000",
+        "es-ES": "^8C8C8CRefugio Subterráneo [150] (En Espera)^000000"
+    },
+    "2RfXDQ": {
+        "en-US": "^8C8C8CLaboratory - OPTATIO[150](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Optatio^000000",
+        "es-ES": "^8C8C8CLaboratorio OPTATIO [150] (En Curso)^000000"
+    },
+    "2hfXDQ": {
+        "en-US": "^8C8C8CLaboratory - OPTATIO[150](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Optatio^000000",
+        "es-ES": "^8C8C8CLaboratorio OPTATIO [150] (En Espera)^000000"
+    },
+    "2xfXDQ": {
+        "en-US": "^8C8C8CDistorted Clock Tower 2F[150](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Torre Distorcida I^000000",
+        "es-ES": "^8C8C8CTorre del Reloj Distorsionada, Piso 2 [150] (En Curso)^000000"
+    },
+    "3BfXDQ": {
+        "en-US": "^8C8C8CDistorted Clock Tower 2F[150](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Torre Distorcida I^000000",
+        "es-ES": "^8C8C8CTorre del Reloj Distorsionada, Piso 2 [150] (En Espera)^000000"
+    },
+    "3RfXDQ": {
+        "en-US": "^8C8C8CLost Valley Ranch[150](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Estufa de Pitayas^000000",
+        "es-ES": "^8C8C8CCriadero del Valle Perdido [150] (En Curso)^000000"
+    },
+    "3hfXDQ": {
+        "en-US": "^8C8C8CLost Valley Ranch[150](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Estufa de Pitayas^000000",
+        "es-ES": "^8C8C8CCriadero del Valle Perdido [150] (En Espera)^000000"
+    },
+    "3xfXDQ": {
+        "en-US": "^8C8C8CDistorted Clock Tower 3F[160](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Torre Distorcida II^000000",
+        "es-ES": "^8C8C8CTorre del Reloj Distorsionada, Piso 3 [160] (En Curso)^000000"
+    },
+    "4BfXDQ": {
+        "en-US": "^8C8C8CDistorted Clock Tower 3F[160](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Torre Distorcida II^000000",
+        "es-ES": "^8C8C8CTorre del Reloj Distorsionada, Piso 3 [160] (En Espera)^000000"
+    },
+    "4RfXDQ": {
+        "en-US": "^8C8C8COz Gorge and Ida Plain[160](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Arredores de Rachel^000000",
+        "es-ES": "^8C8C8CCañón de Oz [160] (En Curso)^000000"
+    },
+    "4hfXDQ": {
+        "en-US": "^8C8C8COz Gorge and Ida Plain[160](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Arredores de Rachel^000000",
+        "es-ES": "^8C8C8CCañón de Oz [160] (En Espera)^000000"
+    },
+    "4xfXDQ": {
+        "en-US": "^8C8C8CRudus Disposal Site 2F[160](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Depósito Rudus I^000000",
+        "es-ES": "^8C8C8CRudus, Depósito de Relaves: Piso 2 [160] (En Curso)^000000"
+    },
+    "5BfXDQ": {
+        "en-US": "^8C8C8CRudus Disposal Site 2F[160](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Depósito Rudus I^000000",
+        "es-ES": "^8C8C8CRudus, Depósito de Relaves: Piso 2 [160] (En Espera)^000000"
+    },
+    "5RfXDQ": {
+        "en-US": "^8C8C8CJuperos Eastern Ruins[160](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Oeste de Juperos^000000",
+        "es-ES": "^8C8C8CRuina Oeste de Juperos [160] (En Curso)^000000"
+    },
+    "5hfXDQ": {
+        "en-US": "^8C8C8CJuperos Eastern Ruins[160](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Oeste de Juperos^000000",
+        "es-ES": "^8C8C8CRuina Oeste de Juperos [160] (En Espera)^000000"
+    },
+    "5xfXDQ": {
+        "en-US": "^8C8C8CVerus City[160](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cidade de Verus^000000",
+        "es-ES": "^8C8C8CCiudad de Verus [160] (En Curso)^000000"
+    },
+    "6BfXDQ": {
+        "en-US": "^8C8C8CVerus City[160](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cidade de Verus^000000",
+        "es-ES": "^8C8C8CCiudad de Verus [160] (En Espera)^000000"
+    },
+    "6RfXDQ": {
+        "en-US": "^8C8C8CTartaros Storage Upper Floor[170](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Armazém Tártaro I^000000",
+        "es-ES": "^8C8C8CAlmacén Tártaro, Piso Superior [170] (En Curso)^000000"
+    },
+    "6hfXDQ": {
+        "en-US": "^8C8C8CTartaros Storage Upper Floor[170](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Armazém Tártaro I^000000",
+        "es-ES": "^8C8C8CAlmacén Tártaro, Piso Superior [170] (En Espera)^000000"
+    },
+    "6xfXDQ": {
+        "en-US": "^8C8C8COz Labyrinth 1F[170](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Labirinto de Oz^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz, Piso 1 [170] (En Curso)^000000"
+    },
+    "7BfXDQ": {
+        "en-US": "^8C8C8COz Labyrinth 1F[170](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Labirinto de Oz^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz, Piso 1 [170] (En Espera)^000000"
+    },
+    "7RfXDQ": {
+        "en-US": "^8C8C8CRudus Disposal Site 3F[170](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Depósito Rudus II^000000",
+        "es-ES": "^8C8C8CRudus, Depósito de Relaves: Piso 3 [170] (En Curso)^000000"
+    },
+    "7hfXDQ": {
+        "en-US": "^8C8C8CRudus Disposal Site 3F[170](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Depósito Rudus II^000000",
+        "es-ES": "^8C8C8CRudus, Depósito de Relaves: Piso 3 [170] (En Espera)^000000"
+    },
+    "7xfXDQ": {
+        "en-US": "^8C8C8CJuno Nogg Road 3F[175](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Noggroad^000000",
+        "es-ES": "^8C8C8CNoggroad [175] (En Curso)^000000"
+    },
+    "8BfXDQ": {
+        "en-US": "^8C8C8CJuno Nogg Road 3F[175](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Noggroad^000000",
+        "es-ES": "^8C8C8CNoggroad [175] (En Espera)^000000"
+    },
+    "8RfXDQ": {
+        "en-US": "^8C8C8CTartaros Storage Lower Floor[180](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Armazém Tártaro II^000000",
+        "es-ES": "^8C8C8CAlmacén Tártaro, Nivel Inferior [180] (En Curso)^000000"
+    },
+    "8hfXDQ": {
+        "en-US": "^8C8C8CTartaros Storage Lower Floor[180](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Armazém Tártaro II^000000",
+        "es-ES": "^8C8C8CAlmacén Tártaro, Nivel Inferior [180] (En Espera)^000000"
+    },
+    "8xfXDQ": {
+        "en-US": "^8C8C8CGlast Heim Abyss 1F[180](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Porões de Glastheim^000000",
+        "es-ES": "^8C8C8CAbismo de Glastheim, Piso 1 [180] (En Curso)^000000"
+    },
+    "9BfXDQ": {
+        "en-US": "^8C8C8CGlast Heim Abyss 1F[180](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Porões de Glastheim^000000",
+        "es-ES": "^8C8C8CAbismo de Glastheim, Piso 1 [180] (En Espera)^000000"
+    },
+    "9RfXDQ": {
+        "en-US": "^8C8C8CGray Wolf Forest[180](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Lobo Cinzento^000000",
+        "es-ES": "^8C8C8CBosque del Lobo Gris I [180] (En Curso)^000000"
+    },
+    "9hfXDQ": {
+        "en-US": "^8C8C8CGray Wolf Forest[180](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Lobo Cinzento^000000",
+        "es-ES": "^8C8C8CBosque del Lobo Gris I [180] (En Espera)^000000"
+    },
+    "9xfXDQ": {
+        "en-US": "^8C8C8CGray Wolf Forest[180](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Lobo Cinzento^000000",
+        "es-ES": "^8C8C8CBosque del Lobo Gris I [180] (En Curso)^000000"
+    },
+    "+BfXDQ": {
+        "en-US": "^8C8C8CGray Wolf Forest[180](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Lobo Cinzento^000000",
+        "es-ES": "^8C8C8CBosque del Lobo Gris I [180] (En Espera)^000000"
+    },
+    "+RfXDQ": {
+        "en-US": "^8C8C8CEinbech Mine 3F[180](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Profundezas da Mina^000000",
+        "es-ES": "^8C8C8CMina de Einbech, Piso 3 [180] (En Curso)^000000"
+    },
+    "+hfXDQ": {
+        "en-US": "^8C8C8CEinbech Mine 3F[180](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Profundezas da Mina^000000",
+        "es-ES": "^8C8C8CMina de Einbech, Piso 3 [180] (En Espera)^000000"
+    },
+    "+xfXDQ": {
+        "en-US": "^8C8C8CAncient Odin Temple[190](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Passado do Templo^000000",
+        "es-ES": "^8C8C8CAntiguo Templo de Odín [190] (En Curso)^000000"
+    },
+    "/BfXDQ": {
+        "en-US": "^8C8C8CAncient Odin Temple[190](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Passado do Templo^000000",
+        "es-ES": "^8C8C8CAntiguo Templo de Odín [190] (En Espera)^000000"
+    },
+    "/RfXDQ": {
+        "en-US": "^8C8C8CHugel Abyss Lake Underground Cave 4F[190](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Profundezas do Lago^000000",
+        "es-ES": "^8C8C8CCueva Subterránea del Lago del Abismo, Piso 4 [190] (En Curso)^000000"
+    },
+    "/hfXDQ": {
+        "en-US": "^8C8C8CHugel Abyss Lake Underground Cave 4F[190](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Profundezas do Lago^000000",
+        "es-ES": "^8C8C8CCueva Subterránea del Lago del Abismo, Piso 4 [190] (En Espera)^000000"
+    },
+    "/xfXDQ": {
+        "en-US": "^8C8C8CPower Plant No. 2[190](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Usina Mágica II^000000",
+        "es-ES": "^8C8C8CPlanta Mágica II [190] (En Curso)^000000"
+    },
+    "ABjXDQ": {
+        "en-US": "^8C8C8CPower Plant No. 2[190](Waiting)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Usina Mágica II^000000",
+        "es-ES": "^8C8C8CPlanta Mágica II [190] (En Espera)^000000"
+    },
+    "ARjXDQ": {
+        "en-US": "Cancel.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
+    },
+    "AhjXDQ": {
+        "en-US": "Your level is too low to proceed with this mission.",
+        "pt-BR": "Seu nível é insuficiente para realizar esta missão.",
+        "es-ES": "Tu nivel es demasiado bajo para realizar esta misión."
+    },
+    "AxjXDQ": {
+        "en-US": "You have already completed this mission.",
+        "pt-BR": "Você já concluiu esta missão.",
+        "es-ES": "Ya completaste esta misión."
+    },
+    "BBjXDQ": {
+        "en-US": "This mission is currently in progress.",
+        "pt-BR": "Esta missão está em andamento.",
+        "es-ES": "Esta misión está en curso."
+    },
+    "BRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Flowering Land>^000000\nObjective: Defeat 60 monsters in the area\nReward: Exp 1042488, Jexp 2760588, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Campo Florescente]^000000\nObjetivo: Derrote 60 monstros do mapa\nRecompensa: EXP Base 1.042.488, EXP Classe 2.760.588, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Tierra Floreciente>^000000\nObjetivo: Derrota a 60 monstruos de la zona\nRecompensa: EXP Base 1042488, EXP Clase 2760588, Moneda del Edén x2"
+    },
+    "BhjXDQ": {
+        "en-US": "[Flowering Land]\nEden Group Exclusive Mission\nLocation: Flowering Land\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1042488, Jexp 2760588, Eden Group Coin 2",
+        "pt-BR": "[Campo Florescente]\nPedido do Grupo do Éden\nLocal: Campo Florescente\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 14.2 Eclage[INFO]6057[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.042.488, EXP Classe 2.760.588, 2x Moeda do Éden",
+        "es-ES": "[Tierra Floreciente]\nMisión Exclusiva del Grupo del Edén\nUbicación: Tierra Floreciente\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1042488, EXP Clase 2760588, Moneda del Edén x2"
+    },
+    "BxjXDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Aceptar."
+    },
+    "CBjXDQ": {
+        "en-US": "View another mission.",
+        "pt-BR": "Ver outras missões.",
+        "es-ES": "Ver otras misiones."
+    },
+    "CRjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Flowering Land>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Campo Florescente]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Tierra Floreciente>^000000 misión aceptada."
+    },
+    "ChjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Bathhouse Meditatio>^000000\nObjective: Defeat 60 monsters in the area\nReward: Exp 1163508, Jexp 814463, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Sauna Meditatio]^000000\nObjetivo: Derrote 60 monstros do mapa\nRecompensa: EXP Base 1.163.508, EXP Classe 814.463, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Sauna Meditatio>^000000\nObjetivo: Derrota a 60 monstruos de la zona\nRecompensa: EXP Base 1163508, EXP Clase 814463, Moneda del Edén x2"
+    },
+    "CxjXDQ": {
+        "en-US": "[Bathhouse Meditatio]\nEden Group Exclusive Mission\nLocation: Bathhouse Meditatio\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1163508, Jexp 814463, Eden Group Coin 2",
+        "pt-BR": "[Sauna Meditatio]\nPedido do Grupo do Éden\nLocal: Sauna Meditatio\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.163.508, EXP Classe 814.463, 2x Moeda do Éden",
+        "es-ES": "[Sauna Meditatio]\nMisión Exclusiva del Grupo del Edén\nUbicación: Sauna Meditatio\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1163508, EXP Clase 814463, Moneda del Edén x2"
+    },
+    "DBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Bathhouse Meditatio>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Sauna Meditatio]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Sauna Meditatio>^000000 misión aceptada."
+    },
+    "DRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Library Memory Corridor>^000000\nObjective: Defeat 60 monsters in the area\nReward: Exp 1700618, Jexp 1190430, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Corredor das Memórias]^000000\nObjetivo: Derrote 60 monstros do mapa\nRecompensa: EXP Base 1.700.618, EXP Classe 1.190.430, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Pasillo de los Recuerdos>^000000\nObjetivo: Derrota a 60 monstruos de la zona\nRecompensa: EXP Base 1700618, EXP Clase 1190430, Moneda del Edén x2"
+    },
+    "DhjXDQ": {
+        "en-US": "[Library Memory Corridor]\nEden Group Exclusive Mission\nLocation: Library Memory Corridor\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1700618, Jexp 1190430, Eden Group Coin 2",
+        "pt-BR": "[Corredor das Memórias]\nPedido do Grupo do Éden\nLocal: Corredor das Memórias\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.700.618, EXP Classe 1.190.430, 2x Moeda do Éden",
+        "es-ES": "[Pasillo de los Recuerdos]\nMisión Exclusiva del Grupo del Edén\nUbicación: Pasillo de los Recuerdos\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1700618, EXP Clase 1190430, Moneda del Edén x2"
+    },
+    "DxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Library Memory Corridor>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Corredor das Memórias]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Pasillo de los Recuerdos>^000000 misión aceptada."
+    },
+    "EBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Sewage Treatment Plant>^000000\nObjective: Defeat 60 monsters in the area\nReward: Exp 1685862, Jexp 1180080, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Estação de Esgoto]^000000\nObjetivo: Derrote 60 monstros do mapa\nRecompensa: EXP Base 1.685.862, EXP Classe 1.180.080, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Estación de Aguas Residuales>^000000\nObjetivo: Derrota a 60 monstruos de la zona\nRecompensa: EXP Base 1685862, EXP Clase 1180080, Moneda del Edén x2"
+    },
+    "ERjXDQ": {
+        "en-US": "[Sewage Treatment Plant]\nEden Group Exclusive Mission\nLocation: Sewage Treatment Plant\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1685862, Jexp 1180080, Eden Group Coin 2",
+        "pt-BR": "[Estação de Esgoto]\nPedido do Grupo do Éden\nLocal: Estação de Esgoto\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.685.862, EXP Classe 1.180.080, 2x Moeda do Éden",
+        "es-ES": "[Estación de Aguas Residuales]\nMisión Exclusiva del Grupo del Edén\nUbicación: Estación de Aguas Residuales\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1685862, EXP Clase 1180080, Moneda del Edén x2"
+    },
+    "EhjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Sewage Treatment Plant>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Estação de Esgoto]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Estación de Aguas Residuales>^000000 misión aceptada."
+    },
+    "ExjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Power Plant No. 1>^000000\nObjective: Defeat 60 monsters in the area\nReward: Exp 1845139, Jexp 1291584, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Usina Mágica I]^000000\nObjetivo: Derrote 60 monstros do mapa\nRecompensa: EXP Base 1.845.139, EXP Classe 1.291.584, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Planta Mágica I>^000000\nObjetivo: Derrota a 60 monstruos de la zona\nRecompensa: EXP Base 1845139, EXP Clase 1291584, Moneda del Edén x2"
+    },
+    "FBjXDQ": {
+        "en-US": "[Power Plant No. 1]\nEden Group Exclusive Mission\nLocation: Power Plant No. 1\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1845139, Jexp 1291584, Eden Group Coin 2",
+        "pt-BR": "[Usina Mágica I]\nPedido do Grupo do Éden\nLocal: Usina Mágica 1º andar\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.845.139, EXP Classe 1.291.584, 2x Moeda do Éden",
+        "es-ES": "[Planta Mágica I]\nMisión Exclusiva del Grupo del Edén\nUbicación: Planta Mágica I\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1845139, EXP Clase 1291584, Moneda del Edén x2"
+    },
+    "FRjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Power Plant No. 1>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Usina Mágica I]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Planta Mágica I>^000000 misión aceptada."
+    },
+    "FhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Dragon Nest>^000000\nObjective: Defeat 60 monsters in the area\nReward: Exp 1110729, Jexp 1413414, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Ninho do Dragão]^000000\nObjetivo: Derrote 60 monstros do mapa\nRecompensa: EXP Base 1.110.729, EXP Classe 1.413.414, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Guarida del Dragón>^000000\nObjetivo: Derrota a 60 monstruos de la zona\nRecompensa: EXP Base 1110729, EXP Clase 1413414, Moneda del Edén x2"
+    },
+    "FxjXDQ": {
+        "en-US": "[Dragon Nest]\nEden Group Exclusive Mission\nLocation: Dragon Nest\nObjective: Defeat 60 monsters in the area\n^FF0005There may be requirements to enter this area.^000000\nReward: Exp 1110729, Jexp 1413414, Eden Group Coin 2",
+        "pt-BR": "[Ninho do Dragão]\nPedido do Grupo do Éden\nLocal: Ninho do Dragão 2º andar\nObjetivo: Derrote 60 monstros do mapa\n^FF0005Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.110.729, EXP Classe 1.413.414, 2x Moeda do Éden",
+        "es-ES": "[Guarida del Dragón]\nMisión Exclusiva del Grupo del Edén\nUbicación: Guarida del Dragón\nObjetivo: Derrota a 60 monstruos de la zona\n^FF0005Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 1110729, EXP Clase 1413414, Moneda del Edén x2"
+    },
+    "GBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Dragon Nest>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Ninho do Dragão]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Guarida del Dragón>^000000 misión aceptada."
+    },
+    "GRjXDQ": {
+        "en-US": "Cancel,",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "GhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Bifrost Tower>^000000\nObjective: Defeat 30 Cenere, 30 Damaged Ancient Book\nReward: Exp 2940165, Jexp 3741390, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Torre de Bifrost]^000000\nObjetivo: Derrote 30 Cenere, 30 Livro Antigo Danificado\nRecompensa: EXP Base 2.940.165, EXP Classe 3.741.390, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Torre de Bifrost>^000000\nObjetivo: Derrota Cenere x30, Libro Antiguo x30\nRecompensa: EXP Base 2940165, EXP Clase 3741390, Moneda del Edén x2"
+    },
+    "GxjXDQ": {
+        "en-US": "[Bifrost Tower]\nEden Group Exclusive Mission\nLocation: Bifrost Tower\nObjective: Defeat 30 Cenere, 30 Damaged Ancient Book\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 2940165, Jexp 3741390, Eden Group Coin 2",
+        "pt-BR": "[Torre de Bifrost]\nPedido do Grupo do Éden\nLocal: Torre de Bifrost\nObjetivo: Derrote 30 Cenere, 30 Livro Antigo Danificado\n[TIPBOX]EP 14.2 Eclage[INFO]6057[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 2.940.165, EXP Classe 3.741.390, 2x Moeda do Éden",
+        "es-ES": "[Torre de Bifrost]\nMisión Exclusiva del Grupo del Edén\nUbicación: Torre de Bifrost\nObjetivo: Derrota Cenere x30, Libro Antiguo x30\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 2940165, EXP Clase 3741390, Moneda del Edén x2"
+    },
+    "HBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Bifrost Tower>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Torre de Bifrost]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Torre de Bifrost>^000000 misión aceptada."
+    },
+    "HRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Dragon Nest>^000000\nObjective: Defeat 120 monsters in the area\nReward: Exp 3892320, Jexp 4530780, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Ninho do Dragão]^000000\nObjetivo: Derrote 120 monstros do mapa\nRecompensa: EXP Base 3.892.320, EXP Classe 4.530.780, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Guarida del Dragón>^000000\nObjetivo: Derrota a 120 monstruos de la zona\nRecompensa: EXP Base 3892320, EXP Clase 4530780, Moneda del Edén x2"
+    },
+    "HhjXDQ": {
+        "en-US": "[Dragon Nest]\nEden Group Exclusive Mission\nLocation: Dragon Nest\nObjective: Defeat 120 monsters in the area\n^FF0007There may be requirements to enter this area.^000000\nReward: Exp 3892320, Jexp 4530780, Eden Group Coin 2",
+        "pt-BR": "[Ninho do Dragão]\nPedido do Grupo do Éden\nLocal: Ninho do Dragão 3º andar\nObjetivo: Derrote 120 monstros do mapa\n^FF0007Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.892.320, EXP Classe 4.530.780, 2x Moeda do Éden",
+        "es-ES": "[Guarida del Dragón]\nMisión Exclusiva del Grupo del Edén\nUbicación: Guarida del Dragón\nObjetivo: Derrota a 120 monstruos de la zona\n^FF0007Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 3892320, EXP Clase 4530780, Moneda del Edén x2"
+    },
+    "HxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Prontera Underground Prison>^000000\nObjective: Defeat 120 monsters in the area\nReward: Exp 3024000, Jexp 3024000, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Prisão de Prontera]^000000\nObjetivo: Derrote 120 monstros do mapa\nRecompensa: EXP Base 3.024.000, EXP Classe 3.024.000, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Prisión Subterránea de Prontera>^000000\nObjetivo: Derrota a 120 monstruos de la zona\nRecompensa: EXP Base 3024000, EXP Clase 3024000, Moneda del Edén x2"
+    },
+    "IBjXDQ": {
+        "en-US": "[Prontera Underground Prison]\nEden Group Exclusive Mission\nLocation: Prontera Underground Prison\nObjective: Defeat 120 monsters in the area\n<TIPBOX>Q Prontera Underground Prison   (100)<INFO>8135</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 3024000, Jexp 3024000, Eden Group Coin 2",
+        "pt-BR": "[Prisão de Prontera]\nPedido do Grupo do Éden\nLocal: Prisão de Prontera\nObjetivo: Derrote 120 monstros do mapa\n[TIPBOX]EP 16.1 Banquete Real[INFO]8135[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.024.000, EXP Classe 3.024.000, 2x Moeda do Éden",
+        "es-ES": "[Prisión Subterránea de Prontera]\nMisión Exclusiva del Grupo del Edén\nUbicación: Prisión de Prontera\nObjetivo: Derrota a 120 monstruos de la zona\n<TIPBOX>Prisión Subterránea de Prontera   (100)<INFO>8135</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 3024000, EXP Clase 3024000, Moneda del Edén x2"
+    },
+    "IRjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Prontera Underground Prison>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Prisão de Prontera]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Prisión Subterránea de Prontera>^000000 misión aceptada."
+    },
+    "IhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Invaded Prontera>^000000\nObjective: Defeat 120 monsters in the area\nReward: Exp 3584280, Jexp 2409120, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Prontera Destruída]^000000\nObjetivo: Derrote 120 monstros do mapa\nRecompensa: EXP Base 3.584.280, EXP Classe 2.409.120, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Prontera Destruida>^000000\nObjetivo: Derrota a 120 monstruos de la zona\nRecompensa: EXP Base 3584280, EXP Clase 2409120, Moneda del Edén x2"
+    },
+    "IxjXDQ": {
+        "en-US": "[Invaded Prontera]\nEden Group Exclusive Mission\nLocation: Invaded Prontera\nObjective: Defeat 120 monsters in the area\n<TIPBOX>EP 16.1 Banquet for Heroes<INFO>8118</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 3584280, Jexp 2409120, Eden Group Coin 2",
+        "pt-BR": "[Prontera Destruída]\nPedido do Grupo do Éden\nLocal: Prontera Destruída\nObjetivo: Derrote 120 monstros do mapa\n[TIPBOX]EP 16.1 Banquete Real[INFO]8118[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.584.280, EXP Classe 2.409.120, 2x Moeda do Éden",
+        "es-ES": "[Prontera Destruida]\nMisión Exclusiva del Grupo del Edén\nUbicación: Prontera Destruida\nObjetivo: Derrota a 120 monstruos de la zona\n<TIPBOX>EP 16.1 Un Banquete para los Héroes<INFO>8118</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 3584280, EXP Clase 2409120, Moneda del Edén x2"
+    },
+    "JBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Invaded Prontera>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Prontera Destruída]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Prontera Destruida>^000000 misión aceptada."
+    },
+    "JRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Rock Ridge Mine>^000000\nObjective: Defeat 120 monsters in the area\nReward: Exp 3154932, Jexp 3178296, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Minas de Rockridge]^000000\nObjetivo: Derrote 120 monstros do mapa\nRecompensa: EXP Base 3.154.932, EXP Classe 3.178.296, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Minas de Rockridge>^000000\nObjetivo: Derrota a 120 monstruos de la zona\nRecompensa: EXP Base 3154932, EXP Clase 3178296, Moneda del Edén x2"
+    },
+    "JhjXDQ": {
+        "en-US": "[Rock Ridge Mine]\nEden Group Exclusive Mission\nLocation: Rock Ridge Mine\nObjective: Defeat 120 monsters in the area\n^FF0010There may be requirements to enter this area.^000000\nReward: Exp 3154932, Jexp 3178296, Eden Group Coin 2",
+        "pt-BR": "[Minas de Rockridge]\nPedido do Grupo do Éden\nLocal: Minas de Rockridge\nObjetivo: Derrote 120 monstros do mapa\n^FF0010Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.154.932, EXP Classe 3.178.296, 2x Moeda do Éden",
+        "es-ES": "[Minas de Rockridge]\nMisión Exclusiva del Grupo del Edén\nUbicación: Minas de Rockridge\nObjetivo: Derrota a 120 monstruos de la zona\n^FF0010Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 3154932, EXP Clase 3178296, Moneda del Edén x2"
+    },
+    "JxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Rock Ridge Mine>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Minas de Rockridge]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Minas de Rockridge>^000000 misión aceptada."
+    },
+    "KBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<2F Corridor>^000000\nObjective: Defeat 30 Wanderer\nReward: Exp 6092805, Jexp 17482113, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Castelo Maldito]^000000\nObjetivo: Derrote 30 Andarilho Amaldiçoado\nRecompensa: EXP Base 6.092.805, EXP Classe 17.482.113, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Castillo de Glastheim: Pasillo del Piso 2>^000000\nObjetivo: Derrota Caminante Maldito x30\nRecompensa: EXP Base 6092805, EXP Clase 17482113, Moneda del Edén x2"
+    },
+    "KRjXDQ": {
+        "en-US": "[2F Corridor]\nEden Group Exclusive Mission\nLocation: 2F Corridor\nObjective: Defeat 30 Wanderer\n^FF0011There may be requirements to enter this area.^000000\nReward: Exp 6092805, Jexp 17482113, Eden Group Coin 2",
+        "pt-BR": "[Castelo Maldito]\nPedido do Grupo do Éden\nLocal: Castelo de Glastheim (Modo Pesadelo)\nObjetivo: Derrote 30 Andarilho Amaldiçoado\n^FF0011Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 6.092.805, EXP Classe 17.482.113, 2x Moeda do Éden",
+        "es-ES": "[Castillo de Glastheim: Pasillo del Piso 2]\nMisión Exclusiva del Grupo del Edén\nUbicación: Castillo de Glastheim: Pasillo del Piso 2\nObjetivo: Derrota Caminante Maldito x30\n^FF0011Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 6092805, EXP Clase 17482113, Moneda del Edén x2"
+    },
+    "KhjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<2F Corridor>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Castelo Maldito]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Castillo de Glastheim: Pasillo del Piso 2>^000000 misión aceptada."
+    },
+    "KxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Underground Bunker>^000000\nObjective: Defeat 30 Smelly Ghoul\nReward: Exp 1258659, Jexp 1303554, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Abrigo Subterrâneo]^000000\nObjetivo: Derrote 30 Zumbi Fedorento\nRecompensa: EXP Base 1.258.659, EXP Classe 1.303.554, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Refugio Subterráneo>^000000\nObjetivo: Derrota Necrófago Apestoso x30\nRecompensa: EXP Base 1258659, EXP Clase 1303554, Moneda del Edén x2"
+    },
+    "LBjXDQ": {
+        "en-US": "[Underground Bunker]\nEden Group Exclusive Mission\nLocation: Underground Bunker\nObjective: Defeat 30 Smelly Ghoul\n<TIPBOX>EP 15.2   Memory Record<INFO>10013</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1258659, Jexp 1303554, Eden Group Coin 2",
+        "pt-BR": "[Abrigo Subterrâneo]\nPedido do Grupo do Éden\nLocal: Abrigo Subterrâneo\nObjetivo: Derrote 30 Zumbi Fedorento\n[TIPBOX]EP 15 Fantasmagórica[INFO]10013[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.258.659, EXP Classe 1.303.554, 2x Moeda do Éden",
+        "es-ES": "[Refugio Subterráneo]\nMisión Exclusiva del Grupo del Edén\nUbicación: Refugio Subterráneo\nObjetivo: Derrota Necrófago Apestoso x30\n<TIPBOX>EP 15 Fantasmagórica<INFO>10013</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1258659, EXP Clase 1303554, Moneda del Edén x2"
+    },
+    "LRjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Underground Bunker>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Abrigo Subterrâneo]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Refugio Subterráneo>^000000 misión aceptada."
+    },
+    "LhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Laboratory - OPTATIO>^000000\nObjective: Defeat 20 Repair Robot Turbo, 30 Green Cenere\nReward: Exp 1145250, Jexp 1154700, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Optatio]^000000\nObjetivo: Derrote 20 Robô Reparador Turbo, 30 Fumaça Verde\nRecompensa: EXP Base 1.145.250, EXP Classe 1.154.700, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Laboratorio OPTATIO>^000000\nObjetivo: Derrota Robot Reparador Turbo x20, Cenere Verde x30\nRecompensa: EXP Base 1145250, EXP Clase 1154700, Moneda del Edén x2"
+    },
+    "LxjXDQ": {
+        "en-US": "[Laboratory - OPTATIO]\nEden Group Exclusive Mission\nLocation: Laboratory - OPTATIO\nObjective: Defeat 20 Repair Robot Turbo, 30 Green Cenere\n<TIPBOX>EP 15.2   Memory Record<INFO>10013</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1145250, Jexp 1154700, Eden Group Coin 2",
+        "pt-BR": "[Optatio]\nPedido do Grupo do Éden\nLocal: Laboratório Optatio\nObjetivo: Derrote 20 Robô Reparador Turbo, 30 Fumaça Verde\n[TIPBOX]EP 15 Fantasmagórica[INFO]10013[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.145.250, EXP Classe 1.154.700, 2x Moeda do Éden",
+        "es-ES": "[Laboratorio OPTATIO]\nMisión Exclusiva del Grupo del Edén\nUbicación: Laboratorio OPTATIO\nObjetivo: Derrota Robot Reparador Turbo x20, Cenere Verde x30\n<TIPBOX>EP 15 Fantasmagórica<INFO>10013</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1145250, EXP Clase 1154700, Moneda del Edén x2"
+    },
+    "MBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Laboratory - OPTATIO>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Optatio]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Laboratorio OPTATIO>^000000 misión aceptada."
+    },
+    "MRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Distorted Clock Tower 2F>^000000\nObjective: Defeat 40 Big Ben, 40 Neo Punk\nReward: Exp 1971508, Jexp 2016352, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Torre Distorcida I]^000000\nObjetivo: Derrote 40 Marca-Tempo, 40 Neo Punk\nRecompensa: EXP Base 1.971.508, EXP Classe 2.016.352, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Torre del Reloj Distorsionada, Piso 2>^000000\nObjetivo: Derrota Gran Reloj x40, Neo Punk x40\nRecompensa: EXP Base 1971508, EXP Clase 2016352, Moneda del Edén x3"
+    },
+    "MhjXDQ": {
+        "en-US": "[Distorted Clock Tower 2F]\nEden Group Exclusive Mission\nLocation: Distorted Clock Tower 2F\nObjective: Defeat 40 Big Ben, 40 Neo Punk\n^FF0014There may be requirements to enter this area.^000000\nReward: Exp 1971508, Jexp 2016352, Eden Group Coin 3",
+        "pt-BR": "[Torre Distorcida I]\nPedido do Grupo do Éden\nLocal: Torre do Relógio 2º andar (Modo Pesadelo)\nObjetivo: Derrote 40 Marca-Tempo, 40 Neo Punk\n^FF0014Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.971.508, EXP Classe 2.016.352, 3x Moeda do Éden",
+        "es-ES": "[Torre del Reloj Distorsionada, Piso 2]\nMisión Exclusiva del Grupo del Edén\nUbicación: Torre del Reloj Distorsionada, Piso 2\nObjetivo: Derrota Gran Reloj x40, Neo Punk x40\n^FF0014Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 1971508, EXP Clase 2016352, Moneda del Edén x3"
+    },
+    "MxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Distorted Clock Tower 2F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Torre Distorcida I]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Torre del Reloj Distorsionada, Piso 2>^000000 misión aceptada."
+    },
+    "NBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Lost Valley Ranch>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 25429197, Jexp 17800499, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Estufa de Pitayas]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 25.429.197, EXP Classe 17.800.499, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Criadero del Valle Perdido>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 25429197, EXP Clase 17800499, Moneda del Edén x3"
+    },
+    "NRjXDQ": {
+        "en-US": "[Lost Valley Ranch]\nEden Group Exclusive Mission\nLocation: Lost Valley Ranch\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 25429197, Jexp 17800499, Eden Group Coin 3",
+        "pt-BR": "[Estufa de Pitayas]\nPedido do Grupo do Éden\nLocal: Estufa de Pitayas\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 25.429.197, EXP Classe 17.800.499, 3x Moeda do Éden",
+        "es-ES": "[Criadero del Valle Perdido]\nMisión Exclusiva del Grupo del Edén\nUbicación: Criadero del Valle Perdido\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 25429197, EXP Clase 17800499, Moneda del Edén x3"
+    },
+    "NhjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Lost Valley Ranch>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Estufa de Pitayas]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Criadero del Valle Perdido>^000000 misión aceptada."
+    },
+    "NxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Distorted Clock Tower 3F>^000000\nObjective: Defeat 50 Big Bell\nReward: Exp 7513000, Jexp 8457500, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Torre Distorcida II]^000000\nObjetivo: Derrote 50 Despertador\nRecompensa: EXP Base 7.513.000, EXP Classe 8.457.500, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Torre del Reloj Distorsionada, Piso 3>^000000\nObjetivo: Derrota Despertador x50\nRecompensa: EXP Base 7513000, EXP Clase 8457500, Moneda del Edén x2"
+    },
+    "OBjXDQ": {
+        "en-US": "[Distorted Clock Tower 3F]\nEden Group Exclusive Mission\nLocation: Distorted Clock Tower 3F\nObjective: Defeat 50 Big Bell\n^FF0016There may be requirements to enter this area.^000000\nReward: Exp 7513000, Jexp 8457500, Eden Group Coin 2",
+        "pt-BR": "[Torre Distorcida II]\nPedido do Grupo do Éden\nLocal: Torre do Relógio 3º andar (Modo Pesadelo)\nObjetivo: Derrote 50 Despertador\n^FF0016Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 7.513.000, EXP Classe 8.457.500, 2x Moeda do Éden",
+        "es-ES": "[Torre del Reloj Distorsionada, Piso 3]\nMisión Exclusiva del Grupo del Edén\nUbicación: Torre del Reloj Distorsionada, Piso 3\nObjetivo: Derrota Despertador x50\n^FF0016Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 7513000, EXP Clase 8457500, Moneda del Edén x2"
+    },
+    "ORjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Distorted Clock Tower 3F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Torre Distorcida II]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Torre del Reloj Distorsionada, Piso 3>^000000 misión aceptada."
+    },
+    "OhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Oz Gorge and Ida Plain>^000000\nObjective: Defeat 40 Ashen Goat, 40 Young Gray Wolf\nReward: Exp 13866768, Jexp 9706824, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Arredores de Rachel]^000000\nObjetivo: Derrote 40 Bode Cinzento, 40 Filhote de Lobo Cinzento\nRecompensa: EXP Base 13.866.768, EXP Classe 9.706.824, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Cañón de Oz>^000000\nObjetivo: Derrota Cabra Gris x40, Lobo Gris Joven x40\nRecompensa: EXP Base 13866768, EXP Clase 9706824, Moneda del Edén x3"
+    },
+    "OxjXDQ": {
+        "en-US": "[Oz Gorge and Ida Plain]\nEden Group Exclusive Mission\nLocation: Oz Gorge and Ida Plain\nObjective: Defeat 40 Ashen Goat, 40 Young Gray Wolf\n^FF0017There may be requirements to enter this area.^000000\nReward: Exp 13866768, Jexp 9706824, Eden Group Coin 3",
+        "pt-BR": "[Arredores de Rachel]\nPedido do Grupo do Éden\nLocal: Desfiladeiro Oz e Planície de Ida\nObjetivo: Derrote 40 Bode Cinzento, 40 Filhote de Lobo Cinzento\n^FF0017Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 13.866.768, EXP Classe 9.706.824, 3x Moeda do Éden",
+        "es-ES": "[Cañón de Oz]\nMisión Exclusiva del Grupo del Edén\nUbicación: Cañón de Oz\nObjetivo: Derrota Cabra Gris x40, Lobo Gris Joven x40\n^FF0017Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 13866768, EXP Clase 9706824, Moneda del Edén x3"
+    },
+    "PBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Oz Gorge and Ida Plain>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Arredores de Rachel]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Cañón de Oz>^000000 misión aceptada."
+    },
+    "PRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Rudus Disposal Site 2F>^000000\nObjective: Defeat 80 monsters in the area\nReward: Exp 13603464, Jexp 9522360, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Depósito Rudus I]^000000\nObjetivo: Derrote 80 monstros do mapa\nRecompensa: EXP Base 13.603.464, EXP Classe 9.522.360, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Rudus, Depósito de Relaves: Piso 2>^000000\nObjetivo: Derrota a 80 monstruos de la zona\nRecompensa: EXP Base 13603464, EXP Clase 9522360, Moneda del Edén x3"
+    },
+    "PhjXDQ": {
+        "en-US": "[Rudus Disposal Site 2F]\nEden Group Exclusive Mission\nLocation: Rudus Disposal Site 2F\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 17.1 Illusion<INFO>7055</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 13603464, Jexp 9522360, Eden Group Coin 3",
+        "pt-BR": "[Depósito Rudus I]\nPedido do Grupo do Éden\nLocal: Depósito Rudus 2º andar\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 17.1 Ilusión[INFO]7055[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 13.603.464, EXP Classe 9.522.360, 3x Moeda do Éden",
+        "es-ES": "[Rudus, Depósito de Relaves: Piso 2]\nMisión Exclusiva del Grupo del Edén\nUbicación: Rudus, Depósito de Relaves (2)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 17.1 Ilusión<INFO>7055</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 13603464, EXP Clase 9522360, Moneda del Edén x3"
+    },
+    "PxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Rudus Disposal Site 2F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Depósito Rudus I]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Rudus, Depósito de Relaves: Piso 2>^000000 misión aceptada."
+    },
+    "QBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Juperos Eastern Ruins>^000000\nObjective: Defeat 50 Scout Robot\nReward: Exp 21257100, Jexp 14880024, Eden Group Coin 2",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Oeste de Juperos]^000000\nObjetivo: Derrote 50 Robô de Reconhecimento\nRecompensa: EXP Base 21.257.100, EXP Classe 14.880.024, 2x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Ruina Oeste de Juperos>^000000\nObjetivo: Derrota Robot de Reconocimiento x50\nRecompensa: EXP Base 21257100, EXP Clase 14880024, Moneda del Edén x2"
+    },
+    "QRjXDQ": {
+        "en-US": "[Juperos Eastern Ruins]\nEden Group Exclusive Mission\nLocation: Juperos Eastern Ruins\nObjective: Defeat 50 Scout Robot\n<TIPBOX>EP 15.1   To Phantasmagorica!!<INFO>10001</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 21257100, Jexp 14880024, Eden Group Coin 2",
+        "pt-BR": "[Oeste de Juperos]\nPedido do Grupo do Éden\nLocal: Ruína Oeste de Juperos\nObjetivo: Derrote 50 Robô de Reconhecimento\n[TIPBOX]EP 15.1 Fantasmagórica[INFO]10001[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 21.257.100, EXP Classe 14.880.024, 2x Moeda do Éden",
+        "es-ES": "[Ruina Oeste de Juperos]\nMisión Exclusiva del Grupo del Edén\nUbicación: Ruina Oeste de Juperos\nObjetivo: Derrota Robot de Reconocimiento x50\n<TIPBOX>EP 15.1   Fantasmagórica<INFO>10001</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 21257100, EXP Clase 14880024, Moneda del Edén x2"
+    },
+    "QhjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Juperos Eastern Ruins>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Oeste de Juperos]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Ruina Oeste de Juperos>^000000 misión aceptada."
+    },
+    "QxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Verus City>^000000\nObjective: Defeat 40 Exploration Robot, 40 Exploration Robot Turbo\nReward: Exp 12216160, Jexp 16305872, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Cidade de Verus]^000000\nObjetivo: Derrote 40 Robô Explorador, 40 Robô Explorador Turbo\nRecompensa: EXP Base 12.216.160, EXP Classe 16.305.872, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Ciudad de Verus>^000000\nObjetivo: Derrota Robot Explorador x40, Robot Explorador Turbo x40\nRecompensa: EXP Base 12216160, EXP Clase 16305872, Moneda del Edén x3"
+    },
+    "RBjXDQ": {
+        "en-US": "[Verus City]\nEden Group Exclusive Mission\nLocation: Verus City\nObjective: Defeat 40 Exploration Robot, 40 Exploration Robot Turbo\n<TIPBOX>EP 15.1   To Phantasmagorica!!<INFO>10001</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 12216160, Jexp 16305872, Eden Group Coin 3",
+        "pt-BR": "[Cidade de Verus]\nPedido do Grupo do Éden\nLocal: Praça de Verus\nObjetivo: Derrote 40 Robô Explorador, 40 Robô Explorador Turbo\n[TIPBOX]EP 15.1 Fantasmagórica[INFO]10001[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 12.216.160, EXP Classe 16.305.872, 3x Moeda do Éden",
+        "es-ES": "[Ciudad de Verus]\nMisión Exclusiva del Grupo del Edén\nUbicación: Ciudad de Verus\nObjetivo: Derrota Robot Explorador x40, Robot Explorador Turbo x40\n<TIPBOX>EP 15.1   Fantasmagórica<INFO>10001</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 12216160, EXP Clase 16305872, Moneda del Edén x3"
+    },
+    "RRjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Verus City>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Cidade de Verus]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Ciudad de Verus>^000000 misión aceptada."
+    },
+    "RhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Tartaros Storage Upper Floor>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 44954533, Jexp 31468133, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Armazém Tártaro I]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 44.954.533, EXP Classe 31.468.133, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Almacén Tártaro, Piso Superior>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 44954533, EXP Clase 31468133, Moneda del Edén x3"
+    },
+    "RxjXDQ": {
+        "en-US": "[Tartaros Storage Upper Floor]\nEden Group Exclusive Mission\nLocation: Tartaros Storage Upper Floor\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 44954533, Jexp 31468133, Eden Group Coin 3",
+        "pt-BR": "[Armazém Tártaro I]\nPedido do Grupo do Éden\nLocal: Armazém Tártaro 1º andar\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 44.954.533, EXP Classe 31.468.133, 3x Moeda do Éden",
+        "es-ES": "[Almacén Tártaro, Piso Superior]\nMisión Exclusiva del Grupo del Edén\nUbicación: Almacén Tártaro, Piso Superior\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 44954533, EXP Clase 31468133, Moneda del Edén x3"
+    },
+    "SBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Tartaros Storage Upper Floor>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Armazém Tártaro I]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Almacén Tártaro, Piso Superior>^000000 misión aceptada."
+    },
+    "SRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Oz Labyrinth 1F>^000000\nObjective: Defeat 80 monsters in the area\nReward: Exp 28732040, Jexp 20112390, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Labirinto de Oz]^000000\nObjetivo: Derrote 80 monstros do mapa\nRecompensa: EXP Base 28.732.040, EXP Classe 20.112.390, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Laberinto de Oz, Piso 1>^000000\nObjetivo: Derrota a 80 monstruos de la zona\nRecompensa: EXP Base 28732040, EXP Clase 20112390, Moneda del Edén x3"
+    },
+    "ShjXDQ": {
+        "en-US": "[Oz Labyrinth 1F]\nEden Group Exclusive Mission\nLocation: Oz Labyrinth 1F\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 28732040, Jexp 20112390, Eden Group Coin 3",
+        "pt-BR": "[Labirinto de Oz]\nPedido do Grupo do Éden\nLocal: Labirinto de Oz 1º andar\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 18 Caminho da Oração[INFO]4217[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 28.732.040, EXP Classe 20.112.390, 3x Moeda do Éden",
+        "es-ES": "[Laberinto de Oz, Piso 1]\nMisión Exclusiva del Grupo del Edén\nUbicación: Laberinto de Oz (1)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 18 Camino de la Oración<INFO>4217</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 28732040, EXP Clase 20112390, Moneda del Edén x3"
+    },
+    "SxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Oz Labyrinth 1F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Labirinto de Oz]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Laberinto de Oz, Piso 1>^000000 misión aceptada."
+    },
+    "TBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Rudus Disposal Site 3F>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 30639280, Jexp 21447552, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Depósito Rudus II]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 30.639.280, EXP Classe 21.447.552, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Rudus, Depósito de Relaves: Piso 3>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 30639280, EXP Clase 21447552, Moneda del Edén x3"
+    },
+    "TRjXDQ": {
+        "en-US": "[Rudus Disposal Site 3F]\nEden Group Exclusive Mission\nLocation: Rudus Disposal Site 3F\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.1 Illusion<INFO>7055</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 30639280, Jexp 21447552, Eden Group Coin 3",
+        "pt-BR": "[Depósito Rudus II]\nPedido do Grupo do Éden\nLocal: Depósito Rudus 3º andar\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.1 Ilusión[INFO]7055[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 30.639.280, EXP Classe 21.447.552, 3x Moeda do Éden",
+        "es-ES": "[Rudus, Depósito de Relaves: Piso 3]\nMisión Exclusiva del Grupo del Edén\nUbicación: Rudus, Depósito de Relaves (3)\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.1 Ilusión<INFO>7055</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 30639280, EXP Clase 21447552, Moneda del Edén x3"
+    },
+    "ThjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Rudus Disposal Site 3F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Depósito Rudus II]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Rudus, Depósito de Relaves: Piso 3>^000000 misión aceptada."
+    },
+    "TxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Juno Nogg Road 3F>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 43520973, Jexp 30464573, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Noggroad]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 43.520.973, EXP Classe 30.464.573, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Noggroad>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 43520973, EXP Clase 30464573, Moneda del Edén x3"
+    },
+    "UBjXDQ": {
+        "en-US": "[Juno Nogg Road 3F]\nEden Group Exclusive Mission\nLocation: Juno Nogg Road 3F\nObjective: Defeat 160 monsters in the area\n^FF0024There may be requirements to enter this area.^000000\nReward: Exp 43520973, Jexp 30464573, Eden Group Coin 3",
+        "pt-BR": "[Noggroad]\nPedido do Grupo do Éden\nLocal: Caverna de Magma 3º andar\nObjetivo: Derrote 160 monstros do mapa\n^FF0024Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 43.520.973, EXP Classe 30.464.573, 3x Moeda do Éden",
+        "es-ES": "[Noggroad]\nMisión Exclusiva del Grupo del Edén\nUbicación: Noggroad\nObjetivo: Derrota a 160 monstruos de la zona\n^FF0024Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 43520973, EXP Clase 30464573, Moneda del Edén x3"
+    },
+    "URjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Juno Nogg Road 3F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Noggroad]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Noggroad>^000000 misión aceptada."
+    },
+    "UhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Tartaros Storage Lower Floor>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 33749488, Jexp 23624560, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Armazém Tártaro II]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 33.749.488, EXP Classe 23.624.560, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Almacén Tártaro, Nivel Inferior>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 33749488, EXP Clase 23624560, Moneda del Edén x3"
+    },
+    "UxjXDQ": {
+        "en-US": "[Tartaros Storage Lower Floor]\nEden Group Exclusive Mission\nLocation: Tartaros Storage Lower Floor\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 33749488, Jexp 23624560, Eden Group Coin 3",
+        "pt-BR": "[Armazém Tártaro II]\nPedido do Grupo do Éden\nLocal: Armazém Tártaro 2º andar\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 33.749.488, EXP Classe 23.624.560, 3x Moeda do Éden",
+        "es-ES": "[Almacén Tártaro, Nivel Inferior]\nMisión Exclusiva del Grupo del Edén\nUbicación: Almacén Tártaro, Piso Inferior\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 33749488, EXP Clase 23624560, Moneda del Edén x3"
+    },
+    "VBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Tartaros Storage Lower Floor>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Armazém Tártaro II]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Almacén Tártaro, Nivel Inferior>^000000 misión aceptada."
+    },
+    "VRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Glast Heim Abyss 1F>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 35686094, Jexp 24863418, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Porões de Glastheim]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 35.686.094, EXP Classe 24.863.418, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Abismo de Glastheim, Piso 1>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 35686094, EXP Clase 24863418, Moneda del Edén x3"
+    },
+    "VhjXDQ": {
+        "en-US": "[Glast Heim Abyss 1F]\nEden Group Exclusive Mission\nLocation: Glast Heim Abyss 1F\nObjective: Defeat 160 monsters in the area\n^FF0026There may be requirements to enter this area.^000000\nReward: Exp 35686094, Jexp 24863418, Eden Group Coin 3",
+        "pt-BR": "[Porões de Glastheim]\nPedido do Grupo do Éden\nLocal: Porões de Glastheim\nObjetivo: Derrote 160 monstros do mapa\n^FF0026Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 35.686.094, EXP Classe 24.863.418, 3x Moeda do Éden",
+        "es-ES": "[Abismo de Glastheim, Piso 1]\nMisión Exclusiva del Grupo del Edén\nUbicación: Abismo de Glastheim, Piso 1\nObjetivo: Derrota a 160 monstruos de la zona\n^FF0026Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 35686094, EXP Clase 24863418, Moneda del Edén x3"
+    },
+    "VxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Glast Heim Abyss 1F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Porões de Glastheim]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Abismo de Glastheim, Piso 1>^000000 misión aceptada."
+    },
+    "WBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Gray Wolf Forest>^000000\nObjective: Defeat 80 monsters in the area\nReward: Exp 26550614, Jexp 18585440, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Lobo Cinzento]^000000\nObjetivo: Derrote 80 monstros do mapa\nRecompensa: EXP Base 26.550.614, EXP Classe 18.585.440, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Bosque del Lobo Gris I>^000000\nObjetivo: Derrota a 80 monstruos de la zona\nRecompensa: EXP Base 26550614, EXP Clase 18585440, Moneda del Edén x3"
+    },
+    "WRjXDQ": {
+        "en-US": "[Gray Wolf Forest]\nEden Group Exclusive Mission\nLocation: Gray Wolf Forest\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 26550614, Jexp 18585440, Eden Group Coin 3",
+        "pt-BR": "[Lobo Cinzento]\nPedido do Grupo do Éden\nLocal: Floresta do Lobo Cinzento (1)\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 18 Caminho da Oração[INFO]4217[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 26.550.614, EXP Classe 18.585.440, 3x Moeda do Éden",
+        "es-ES": "[Bosque del Lobo Gris I]\nMisión Exclusiva del Grupo del Edén\nUbicación: Bosque del Lobo Gris (1)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 18 Camino de la Oración<INFO>4217</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 26550614, EXP Clase 18585440, Moneda del Edén x3"
+    },
+    "WhjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Gray Wolf Forest>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Lobo Cinzento]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Bosque del Lobo Gris I>^000000 misión aceptada."
+    },
+    "WxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Gray Wolf Forest>^000000\nObjective: Defeat 80 monsters in the area\nReward: Exp 26878720, Jexp 18815104, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Lobo Cinzento]^000000\nObjetivo: Derrote 80 monstros do mapa\nRecompensa: EXP Base 26.878.720, EXP Classe 18.815.104, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Bosque del Lobo Gris I>^000000\nObjetivo: Derrota a 80 monstruos de la zona\nRecompensa: EXP Base 26878720, EXP Clase 18815104, Moneda del Edén x3"
+    },
+    "XBjXDQ": {
+        "en-US": "[Gray Wolf Forest]\nEden Group Exclusive Mission\nLocation: Gray Wolf Forest\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 26878720, Jexp 18815104, Eden Group Coin 3",
+        "pt-BR": "[Lobo Cinzento]\nPedido do Grupo do Éden\nLocal: Floresta do Lobo Cinzento (2)\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 18 Caminho da Oração[INFO]4217[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 26.878.720, EXP Classe 18.815.104, 3x Moeda do Éden",
+        "es-ES": "[Bosque del Lobo Gris I]\nMisión Exclusiva del Grupo del Edén\nUbicación: Bosque del Lobo Gris (1)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 18 Camino de la Oración<INFO>4217</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 26878720, EXP Clase 18815104, Moneda del Edén x3"
+    },
+    "XRjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Einbech Mine 3F>^000000\nObjective: Defeat 160 monsters in the area\nReward: Exp 93011586, Jexp 65108094, Eden Group Coin 3",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Profundezas da Mina]^000000\nObjetivo: Derrote 160 monstros do mapa\nRecompensa: EXP Base 93.011.586, EXP Classe 65.108.094, 3x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Mina de Einbech, Piso 3>^000000\nObjetivo: Derrota a 160 monstruos de la zona\nRecompensa: EXP Base 93011586, EXP Clase 65108094, Moneda del Edén x3"
+    },
+    "XhjXDQ": {
+        "en-US": "[Einbech Mine 3F]\nEden Group Exclusive Mission\nLocation: Einbech Mine 3F\nObjective: Defeat 160 monsters in the area\n^FF0029There may be requirements to enter this area.^000000\nReward: Exp 93011586, Jexp 65108094, Eden Group Coin 3",
+        "pt-BR": "[Profundezas da Mina]\nPedido do Grupo do Éden\nLocal: Mina de Einbech 3º andar\nObjetivo: Derrote 160 monstros do mapa\n^FF0029Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 93.011.586, EXP Classe 65.108.094, 3x Moeda do Éden",
+        "es-ES": "[Mina de Einbech, Piso 3]\nMisión Exclusiva del Grupo del Edén\nUbicación: Mina de Einbech, piso 3\nObjetivo: Derrota a 160 monstruos de la zona\n^FF0029Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 93011586, EXP Clase 65108094, Moneda del Edén x3"
+    },
+    "XxjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Einbech Mine 3F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Profundezas da Mina]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Mina de Einbech, Piso 3>^000000 misión aceptada."
+    },
+    "YBjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Ancient Odin Temple>^000000\nObjective: Defeat 240 monsters in the area\nReward: Exp 98882731, Jexp 69217943, Eden Group Coin 4",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Passado do Templo]^000000\nObjetivo: Derrote 240 monstros do mapa\nRecompensa: EXP Base 98.882.731, EXP Classe 69.217.943, 4x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Antiguo Templo de Odín>^000000\nObjetivo: Derrota a 240 monstruos de la zona\nRecompensa: EXP Base 98882731, EXP Clase 69217943, Moneda del Edén x4"
+    },
+    "YRjXDQ": {
+        "en-US": "[Ancient Odin Temple]\nEden Group Exclusive Mission\nLocation: Ancient Odin Temple\nObjective: Defeat 240 monsters in the area\n^FF0030There may be requirements to enter this area.^000000\nReward: Exp 98882731, Jexp 69217943, Eden Group Coin 4",
+        "pt-BR": "[Passado do Templo]\nPedido do Grupo do Éden\nLocal: Antigo Templo de Odin\nObjetivo: Derrote 240 monstros do mapa\n^FF0030Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 98.882.731, EXP Classe 69.217.943, 4x Moeda do Éden",
+        "es-ES": "[Antiguo Templo de Odín]\nMisión Exclusiva del Grupo del Edén\nUbicación: Antiguo Templo de Odín\nObjetivo: Derrota a 240 monstruos de la zona\n^FF0030Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 98882731, EXP Clase 69217943, Moneda del Edén x4"
+    },
+    "YhjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Ancient Odin Temple>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Passado do Templo]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Antiguo Templo de Odín>^000000 misión aceptada."
+    },
+    "YxjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Hugel Abyss Lake Underground Cave 4F>^000000\nObjective: Defeat 240 monsters in the area\nReward: Exp 79912332, Jexp 55938546, Eden Group Coin 4",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Profundezas do Lago]^000000\nObjetivo: Derrote 240 monstros do mapa\nRecompensa: EXP Base 79.912.332, EXP Classe 55.938.546, 4x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Cueva Subterránea del Lago del Abismo, Piso 4>^000000\nObjetivo: Derrota a 240 monstruos de la zona\nRecompensa: EXP Base 79912332, EXP Clase 55938546, Moneda del Edén x4"
+    },
+    "ZBjXDQ": {
+        "en-US": "[Hugel Abyss Lake Underground Cave 4F]\nEden Group Exclusive Mission\nLocation: Hugel Abyss Lake Underground Cave 4F\nObjective: Defeat 240 monsters in the area\n^FF0031There may be requirements to enter this area.^000000\nReward: Exp 79912332, Jexp 55938546, Eden Group Coin 4",
+        "pt-BR": "[Profundezas do Lago]\nPedido do Grupo do Éden\nLocal: Caverna do Lago do Abismo 4º andar\nObjetivo: Derrote 240 monstros do mapa\n^FF0031Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 79.912.332, EXP Classe 55.938.546, 4x Moeda do Éden",
+        "es-ES": "[Cueva Subterránea del Lago del Abismo, Piso 4]\nMisión Exclusiva del Grupo del Edén\nUbicación: Cueva Subterránea del Lago del Abismo, piso 4\nObjetivo: Derrota a 240 monstruos de la zona\n^FF0031Puede haber requisitos para entrar en esta zona.^000000\nRecompensa: EXP Base 79912332, EXP Clase 55938546, Moneda del Edén x4"
+    },
+    "ZRjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Hugel Abyss Lake Underground Cave 4F>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Profundezas do Lago]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Cueva Subterránea del Lago del Abismo, Piso 4>^000000 misión aceptada."
+    },
+    "ZhjXDQ": {
+        "en-US": "[Mission Complete]\n^4D4DFF<Power Plant No. 2>^000000\nObjective: Defeat 240 monsters in the area\nReward: Exp 63975339, Jexp 44782794, Eden Group Coin 4",
+        "pt-BR": "[Missão Concluída]\n^4D4DFF[Usina Mágica II]^000000\nObjetivo: Derrote 240 monstros do mapa\nRecompensa: EXP Base 63.975.339, EXP Classe 44.782.794, 4x Moeda do Éden",
+        "es-ES": "[Misión Completada]\n^4D4DFF<Planta Mágica II>^000000\nObjetivo: Derrota a 240 monstruos de la zona\nRecompensa: EXP Base 63975339, EXP Clase 44782794, Moneda del Edén x4"
+    },
+    "ZxjXDQ": {
+        "en-US": "[Power Plant No. 2]\nEden Group Exclusive Mission\nLocation: Power Plant No. 2\nObjective: Defeat 240 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 63975339, Jexp 44782794, Eden Group Coin 4",
+        "pt-BR": "[Usina Mágica II]\nPedido do Grupo do Éden\nLocal: Usina Mágica 2º andar\nObjetivo: Derrote 240 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 63.975.339, EXP Classe 44.782.794, 4x Moeda do Éden",
+        "es-ES": "[Planta Mágica II]\nMisión Exclusiva del Grupo del Edén\nUbicación: Planta Mágica II\nObjetivo: Derrota a 240 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 63975339, EXP Clase 44782794, Moneda del Edén x4"
+    },
+    "aBjXDQ": {
+        "en-US": "Eden Group Exclusive Mission\n^4D4DFF<Power Plant No. 2>^000000 mission accepted.",
+        "pt-BR": "Pedido do Grupo do Éden\n^4D4DFF[Usina Mágica II]^000000 missão aceita.",
+        "es-ES": "Misión Exclusiva del Grupo del Edén\n^4D4DFF<Planta Mágica II>^000000 misión aceptada."
+    }
+}

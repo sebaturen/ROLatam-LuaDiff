@@ -5,9 +5,9 @@
         "es-ES": "Aira"
     },
     "weEZDQ": {
-        "en-US": "[Aira] Ah, it is not yet time for you to meet me. Please go back and have an apple.",
-        "pt-BR": "[Aira] Ah, senhor, ainda não é hora de me encontrar. Volte e vá comer uma maçã.",
-        "es-ES": "[Aira] Ah, profesor, aún no es el momento de verme. Regrese y coma una manzana mientras tanto."
+        "en-US": "[Aira]\nAh, it is not yet time for you to meet me. Please go back and have an apple.",
+        "pt-BR": "[Aira]\nAh, senhor, ainda não é hora de me encontrar. Volte e vá comer uma maçã.",
+        "es-ES": "[Aira]\nAh, profesor, aún no es el momento de verme. Regrese y coma una manzana mientras tanto."
     },
     "wuEZDQ": {
         "en-US": "Villa of Deception",
@@ -21,12 +21,12 @@
     },
     "xOEZDQ": {
         "en-US": "^000044{0}^000000 Created",
-        "pt-BR": "^000044{0}^000000 criado",
+        "pt-BR": "Criar ^000044{0}^000000",
         "es-ES": "^000044{0}^000000 creado"
     },
     "xeEZDQ": {
         "en-US": "^0000FF{0}^000000 Created",
-        "pt-BR": "^0000FF{0}^000000 criado",
+        "pt-BR": "Criar ^0000FF{0}^000000",
         "es-ES": "^0000FF{0}^000000 creado"
     },
     "xuEZDQ": {
@@ -40,9 +40,9 @@
         "es-ES": "^0000FFTodos los efectos secundarios de la entrada han desaparecido.^000000"
     },
     "yOEZDQ": {
-        "en-US": "[Aira] Thanks to you, {0}, I arrived safely at the village. However, it seems something inside the villa has come back to life again. I may need your help once more.",
-        "pt-BR": "[Aira] Graças a você, {0}, conseguimos chegar em segurança até a vila. Mas parece que algo reviveu novamente dentro da mansão. Acho que precisaremos da sua ajuda mais uma vez.",
-        "es-ES": "[Aira] Gracias a usted, {0}, he llegado sana y salva al pueblo. Pero parece que algo ha vuelto a despertar dentro de la villa. Creo que tendré que pedirle ayuda una vez más."
+        "en-US": "[Aira]\nThanks to you, {0}, I arrived safely at the village. However, it seems something inside the villa has come back to life again. I may need your help once more.",
+        "pt-BR": "[Aira]\nGraças a você, {0}, conseguimos chegar em segurança até a Mansão. Mas parece que algo reviveu novamente lá dentro dos aposentos. Acho que precisaremos da sua ajuda mais uma vez.",
+        "es-ES": "[Aira]\nGracias a usted, {0}, he llegado sana y salva al pueblo. Pero parece que algo ha vuelto a despertar dentro de la villa. Creo que tendré que pedirle ayuda una vez más."
     },
     "yeEZDQ": {
         "en-US": "Enter",
@@ -56,7 +56,7 @@
     },
     "y+EZDQ": {
         "en-US": "^0000FFVilla of Deception(Advanced)^000000",
-        "pt-BR": "^0000FFMansão da Desilusão(Avançado)^000000",
+        "pt-BR": "^0000FFMansão da Desilusão (Difícil)^000000",
         "es-ES": "^0000FFMansión de la Desilusión(Avanzado)^000000"
     },
     "zOEZDQ": {
@@ -71,7 +71,7 @@
     },
     "zuEZDQ": {
         "en-US": "Villa of Deception(Advanced)",
-        "pt-BR": "Mansão da Desilusão(Avançado)",
+        "pt-BR": "Mansão da Desilusão (Difícil)",
         "es-ES": "Mansión de la Desilusión(Avanzado)"
     },
     "z+EZDQ": {
@@ -91,7 +91,7 @@
     },
     "0uEZDQ": {
         "en-US": "<ITEM>Required Item<INFO>1000471</INFO></ITEM> Required Level: 200 or higher ^0000FFYou do not meet the dungeon entry requirements (level/required items). Entry has been canceled",
-        "pt-BR": "<ITEM>Item Necessário<INFO>1000471</INFO></ITEM> Nível necessário: 200 ou superior ^0000FFVocê não atende às condições de entrada da masmorra (nível/item necessário). A entrada foi cancelada",
+        "pt-BR": "Item necessário: <ITEM>Chave da Mansão da Desilusão<INFO>1000471</INFO></ITEM> \nNível necessário: 200 ou superior \n^0000FFVocê não atende às condições de entrada da instância. A entrada foi cancelada.^000000",
         "es-ES": "<ITEM>Objeto requerido<INFO>1000471</INFO></ITEM> Nivel requerido: 200 o superior ^0000FFNo se cumplen los requisitos de entrada de la mazmorra (nivel/objeto requerido). Se cancela la entrada"
     },
     "0+EZDQ": {
@@ -101,7 +101,7 @@
     },
     "1OEZDQ": {
         "en-US": "A member of {0} party is participating in the {1} dungeon.",
-        "pt-BR": "Um membro do grupo {0} participa da incursão na masmorra {1}.",
+        "pt-BR": "Um membro do grupo {0} entrou na {1}.",
         "es-ES": "Un miembro del grupo {0} participa en la incursión de la mazmorra {1}."
     },
     "1eEZDQ": {
@@ -138,5 +138,65 @@
         "en-US": "Villa of Deception",
         "pt-BR": "Mansão da Desilusão",
         "es-ES": "Mansión de la Desilusión"
+    },
+    "3OEZDQ": {
+        "en-US": "[Aira]\nYou feel like helping once again?\nWell, I have a prayer that removes the entrance block.\nSo, you can enter the Mansion one more time in the day.",
+        "pt-BR": "[Aira]\nVocê está com vontade de ajudar mais uma vez?\nBem, eu tenho uma oração que remove o bloqueio da entrada.\nAssim, você pode entrar na Mansão mais uma vez no dia.",
+        "es-ES": "[Aira]\n¿Tienes ganas de ayudar una vez más?\nBueno, tengo una oración que elimina el bloqueo de entrada.\nAsí, puedes entrar a la Mansión una vez más en el día."
+    },
+    "3eEZDQ": {
+        "en-US": "Villa of Deception",
+        "pt-BR": "Mansão da Ilusão",
+        "es-ES": "Mansión de la Ilusión"
+    },
+    "3uEZDQ": {
+        "en-US": "[Event] Reset side effect 2 times per day after entering",
+        "pt-BR": "[Evento] Resetar instância",
+        "es-ES": "[Evento] Reinicio de efecto secundario 2 veces por día después de entrar"
+    },
+    "3+EZDQ": {
+        "en-US": "[Aira]\nTo withstand the prayer, you need to be at least level 230.\nAnd the first time is provided for free,\nthe second time requires 10x <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>.",
+        "pt-BR": "[Aira]\nPara suportar a oração, você precisa ter pelo menos nível 230.\nE a primeira vez é fornecida gratuitamente,\nna segunda vez são necessários 10x <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
+        "es-ES": "[Aira]\nPara soportar la oración, necesitas tener al menos nivel 230.\nY la primera vez se proporciona gratis,\nla segunda vez se necesitan 10x <ITEM>[MiauFruto]<INFO>6909</INFO></ITEM>."
+    },
+    "4OEZDQ": {
+        "en-US": "Reset Instance",
+        "pt-BR": "Resetar Instância",
+        "es-ES": "Reiniciar Instancia"
+    },
+    "4eEZDQ": {
+        "en-US": "Give up",
+        "pt-BR": "Desistir",
+        "es-ES": "Rendirse"
+    },
+    "4uEZDQ": {
+        "en-US": "[Aira]\nIt's not an easy task, so you'll need time to prepare.\nI'll wait until you have everything ready.",
+        "pt-BR": "[Aira]\nNão é uma tarefa fácil, então você vai precisar de tempo para se preparar.\nVou esperar até que você esteja com tudo pronto.",
+        "es-ES": "[Aira]\nNo es una tarea fácil, así que necesitarás tiempo para prepararte.\nEsperaré hasta que tengas todo listo."
+    },
+    "4+EZDQ": {
+        "en-US": "[Aira]\nIt seems you don't have the Mansion Waiting mission.\nPlease check once more.",
+        "pt-BR": "[Aira]\nParece que você não possui a missão de Espera da Mansão.\nPor favor, verifique mais uma vez.",
+        "es-ES": "[Aira]\nParece que no tienes la misión de Espera de la Mansión.\nPor favor, verifica una vez más."
+    },
+    "5OEZDQ": {
+        "en-US": "[Aira]\nYou don't have the strength to withstand the reset prayer.\nIf you reach level 230, I can help.",
+        "pt-BR": "[Aira]\nVocê não tem força para suportar a oração de reinicialização.\nSe chegar ao nível 230, eu poderei ajudar.",
+        "es-ES": "[Aira]\nNo tienes la fuerza para soportar la oración de reinicio.\nSi llegas al nivel 230, podré ayudarte."
+    },
+    "5eEZDQ": {
+        "en-US": "[Aira]\nThe reset prayer cannot be used frequently, so it's only possible 2 times per day!\nMore than that can strain the body. I'll help you tomorrow.",
+        "pt-BR": "[Aira]\nA oração de reinicialização não pode ser usada com frequência, então só é possível 2 vezes por dia!\nMais do que isso pode sobrecarregar o corpo. Amanhã eu lhe ajudarei.",
+        "es-ES": "[Aira]\nLa oración de reinicio no se puede usar con frecuencia, ¡así que solo es posible 2 veces por día!\nMás que eso puede sobrecargar el cuerpo. Mañana te ayudaré."
+    },
+    "5uEZDQ": {
+        "en-US": "[Aira]\nFor the second reset of the day, 10x <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM> are required.\nIt seems you don't have enough.",
+        "pt-BR": "[Aira]\nPara o segundo reset do dia, são necessários 10x <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.\nParece que você não tem a quantidade suficiente.",
+        "es-ES": "[Aira]\nPara el segundo reinicio del día, se necesitan 10x <ITEM>[MiauFruto]<INFO>6909</INFO></ITEM>.\nParece que no tienes la cantidad suficiente."
+    },
+    "5+EZDQ": {
+        "en-US": "[Aira]\nI have removed the waiting mission of the Mansion of Disillusion.\nNow you can enter again.",
+        "pt-BR": "[Aira]\nRemovi a missão de espera da Mansão da Desilusão.\nAgora você pode entrar novamente.",
+        "es-ES": "[Aira]\nHe eliminado la misión de espera de la Mansión de la Desilusión.\nAhora puedes entrar nuevamente."
     }
 }

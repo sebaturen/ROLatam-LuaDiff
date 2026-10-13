@@ -15,6 +15,12 @@ tblLapineUpgradeBox_string = {
 		Abyss_Ddbox4 = {
 			NeedSource_String = "Energa del dragón caliente"
 		},
+		Airboat_Armor_RO_LT = {
+			NeedSource_String = "Armadura del Barco Aéreo"
+		},
+		Airboat_Manteau_Op_LT = {
+			NeedSource_String = "Manto del Aerobote"
+		},
 		AllMighty_Up = {
 			NeedSource_String = "Sombríos Todopoderosos"
 		},
@@ -187,6 +193,12 @@ tblLapineUpgradeBox_string = {
 		Hasty_Up = {
 			NeedSource_String = "Sombrío Fugaz"
 		},
+		Hero_LT_Refine_Magic = {
+			NeedSource_String = "Armas Primordiales-LT"
+		},
+		Hero_LT_Refine_Melee = {
+			NeedSource_String = "Armas Primordiales-LT"
+		},
 		Hero_Refine_Cube_LT = {
 			NeedSource_String = "Sealed Hero Weapons"
 		},
@@ -218,13 +230,13 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Sombrío del Infinito"
 		},
 		Joy_Of_Victory = {
-			NeedSource_String = "Victory Wing Ear (1)"
+			NeedSource_String = "Alas Victoriosas (1)"
 		},
 		Labyrinth_Box_IL = {
 			NeedSource_String = "Equipo de Illusión del Laberinto"
 		},
 		Lens_Craft_Stone = {
-			NeedSource_String = "Deepblue Sunglasses(1)"
+			NeedSource_String = "Gafas de Neón (1)"
 		},
 		Loki_Advice = {
 			NeedSource_String = "Sello de Copas"
@@ -286,6 +298,9 @@ tblLapineUpgradeBox_string = {
 		Metal_7_Ticket = {
 			NeedSource_String = "Arma de Metal"
 		},
+		Metal_Rifine_Ticket = {
+			NeedSource_String = "Arma de Metal"
+		},
 		Moonlight_Box_IL = {
 			NeedSource_String = "Illusión de Luz de Luna"
 		},
@@ -306,7 +321,7 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "Battle Processor(1)"
 		},
 		P_Sungl_Dduck_Box = {
-			NeedSource_String = "Poring Sunglasses+"
+			NeedSource_String = "Gafas de Sol Poring [1]"
 		},
 		PerfectSize_Up = {
 			NeedSource_String = "Sombria Perfeita"
@@ -387,7 +402,7 @@ tblLapineUpgradeBox_string = {
 			NeedSource_String = "+7 Shadow Equipment"
 		},
 		Shadow_Refine_Hammer = {
-			NeedSource_String = "Shadow Item"
+			NeedSource_String = "Equip. Sombrío"
 		},
 		Skill_Sha_R_M_Magic = {
 			NeedSource_String = "Sombríos de Habilidad"
@@ -403,6 +418,9 @@ tblLapineUpgradeBox_string = {
 		},
 		Temporal_Refine_Cube = {
 			NeedSource_String = "Itens Temporais"
+		},
+		Thanos_11Refine_Cube = {
+			NeedSource_String = "Equipo de Thanos"
 		},
 		Thanos_Refine_Cube_LT = {
 			NeedSource_String = "Ghost Palace"

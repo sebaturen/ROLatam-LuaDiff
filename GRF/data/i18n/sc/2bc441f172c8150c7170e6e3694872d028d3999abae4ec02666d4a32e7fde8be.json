@@ -766,7 +766,7 @@
     },
     "OTig": {
         "en-US": "[Serutero]\nHello, I'm Serutero,\nguardian of the roads that\nlead to Sandaruman Fortress.\nIf you really want to go there,\nI'll permit you to continue, but^FFFFFF  ^000000 you must beware of its dangers...",
-        "pt-BR": "[Serutero]\nOlá, eu sou o Serutero,\nguardião das estradas que\nlevam à Fortaleza de Sandaruman.\nSe você realmente quiser ir até lá,\neu permitirei que você continue, mas^FFFFFF ^000000 você deve tomar cuidado com os perigos...",
+        "pt-BR": "[Serutero]\nOlá, eu sou o Serutero,\nguardião das estradas que\nlevam à Fortaleza de Sanderman.\nSe você realmente quiser ir até lá,\neu permitirei que você continue, mas^FFFFFF ^000000 você deve tomar cuidado com os perigos...",
         "es-ES": "[Serutero]\nHola, soy Serutero,\nguardián de los caminos que\nconducen a la Fortaleza de Saint Darmain.\nSi realmente quieres ir allí,\nte permitiré continuar, pero^FFFFFF ^000000debes tener cuidado con los peligros que esconde..."
     },
     "Ojig": {
@@ -776,37 +776,37 @@
     },
     "Ozig": {
         "en-US": "Sandaruman Fortress?",
-        "pt-BR": "Fortaleza de Sandaruman?",
+        "pt-BR": "Fortaleza de Sanderman?",
         "es-ES": "¿Fortaleza de Saint Darmain?"
     },
     "PDig": {
         "en-US": "[Serutero]\nSo you're really going\nto go to Sandaruman\nFortress. Alright then,\ngood luck, and be careful!",
-        "pt-BR": "[Serutero]\nEntão você vai mesmo\nir para a Fortaleza de Sandaruman.\nMuito bem, então,\nboa sorte e cuidado!",
+        "pt-BR": "[Serutero]\nEntão você vai mesmo\nir para a Fortaleza de Sanderman.\nMuito bem, então,\nboa sorte e cuidado!",
         "es-ES": "[Serutero]\nAsí que realmente irás\na la Fortaleza de\nSaint Darmain. Muy bien,\nbuena suerte ¡y ten cuidado!"
     },
     "PTig": {
         "en-US": "[Serutero]\nAlthough Sandaruman\nFortress is infested with\nmonsters now, it used to be\na province where people lived.\nHowever, they were always\ninvaded and pillaged...",
-        "pt-BR": "[Serutero]\nEmbora a Fortaleza de Sandaruman\nesteja infestada de\nmonstros agora, ela costumava ser\numa província onde as pessoas viviam.\nNo entanto, elas sempre eram\ninvadidas e saqueadas...",
+        "pt-BR": "[Serutero]\nEmbora a Fortaleza de Sanderman\nesteja infestada de\nmonstros agora, ela costumava ser\numa província onde as pessoas viviam.\nNo entanto, elas sempre eram\ninvadidas e saqueadas...",
         "es-ES": "[Serutero]\nAunque la Fortaleza de\nSaint Darmain está infestada de\nmonstruos ahora, solía ser\nuna provincia llena de gente.\nSin embargo, siempre había\ninvasiones y saqueos..."
     },
     "Pjig": {
         "en-US": "[Serutero]\nSandaruman's inhabitants\neventually adapted to the\ninvasions, developing smoke\nsignals and fortifications to\nwithstand the ravages of war.\nThen, Comodo was built...",
-        "pt-BR": "[Serutero]\nOs habitantes de Sandaruman\nacabaram se adaptando às\ninvasões, desenvolvendo sinais de fumaça\nsinais de fumaça e fortificações para\nsuportar os estragos da guerra.\nEntão, Comodo foi construída...",
+        "pt-BR": "[Serutero]\nOs habitantes de Sanderman\nacabaram se adaptando às\ninvasões, desenvolvendo sinais de fumaça\nsinais de fumaça e fortificações para\nsuportar os estragos da guerra.\nEntão, Comodo foi construída...",
         "es-ES": "[Serutero]\nLos habitantes de Saint Darmain\nfinalmente se adaptaron a las\ninvasiones y desarrollaron señales\nde humo y fortificaciones para\nresistir los estragos de la guerra.\nLuego, construyeron Comodo..."
     },
     "Pzig": {
         "en-US": "[Serutero]\nComodo grew in power and\ninfluence and eventually annexed Sandaruman. More and more people\nmoved from the fortress to Comodo until Sandaruman Fotress was\nessentially abandoned.",
-        "pt-BR": "[Serutero]\nComodo cresceu em poder e influência\ninfluência e, por fim, anexou Sandaruman. Mais e mais pessoas\npessoas se mudaram da fortaleza para Comodo até que a Fortaleza de Sandaruman foi\nessencialmente abandonada.",
+        "pt-BR": "[Serutero]\nComodo cresceu em poder e influência\ninfluência e, por fim, anexou Sanderman. Mais e mais pessoas\npessoas se mudaram da fortaleza para Comodo até que a Fortaleza de Sanderman foi\nessencialmente abandonada.",
         "es-ES": "[Serutero]\nComodo fue creciendo en poder y en\ninfluencia hasta que finalmente anexó a Saint Darmain. Cada vez más personas\nse fueron de la fortaleza a Comodo hasta que la Fortaleza de Saint Darmain\nquedó básicamente abandonada."
     },
     "QDig": {
         "en-US": "[Serutero]\nThere were a few people\nremaining in Sandaruman,\nbut they revolted and some\nfledging government came into\npower there. The monsters took\nthe chance to take over...",
-        "pt-BR": "[Serutero]\nHavia poucas pessoas\nque ficaram em Sandaruman,\nmas elas se revoltaram e um\ngoverno incipiente chegou ao\npoder. Os monstros aproveitaram\na chance de assumir o controle...",
+        "pt-BR": "[Serutero]\nHavia poucas pessoas\nque ficaram em Sanderman,\nmas elas se revoltaram e um\ngoverno incipiente chegou ao\npoder. Os monstros aproveitaram\na chance de assumir o controle...",
         "es-ES": "[Serutero]\nSolo quedaron algunas personas\nviviendo en Saint Darmain,\npero se rebelaron y un\ngobierno incipiente subió \nal poder en la zona. Los monstruos aprovecharon\nla oportunidad para tomar el control..."
     },
     "QTig": {
         "en-US": "[Serutero]\nThere's nothing around\nSandaruman now. Well, nothing\nexcept maybe Paros Lighthouse,\nwhich is southwest of here. That place might be of interest to\naspiring Rogues, I hear...",
-        "pt-BR": "[Serutero]\nNão há nada ao redor de\nSandaruman agora. Bem, nada\nexceto, talvez, o Farol de Paros,\nque fica a sudoeste daqui. Esse lugar pode ser de interesse para\naspirantes a Arruaceiros, pelo que ouvi...",
+        "pt-BR": "[Serutero]\nNão há nada ao redor de\nSanderman agora. Bem, nada\nexceto, talvez, o Farol de Paros,\nque fica a sudoeste daqui. Esse lugar pode ser de interesse para\naspirantes a Arruaceiros, pelo que ouvi...",
         "es-ES": "[Serutero]\nYa no queda nada en\nSaint Darmain. Bueno, nada\nexcepto quizás el faro de Pharos,\nque está al suroeste de aquí. Ese lugar podría ser de interés para\nlos aspirantes a Pícaros, o eso escuché..."
     },
     "Qjig": {

@@ -6,7 +6,7 @@
     },
     "Iap5DA": {
         "en-US": "I'm Verkhasel from the Assassin Guild, here to cooperate with you.",
-        "pt-BR": "Sou Verkhasel, da Guilda dos Mercenários, com quem vamos colaborar desta vez.",
+        "pt-BR": "Sou Verkhasel, da Guilda dos Sicários.",
         "es-ES": "Soy Verkhasel, del Gremio de Asesinos, con el que colaboraremos esta vez."
     },
     "Iqp5DA": {
@@ -16,7 +16,7 @@
     },
     "I6p5DA": {
         "en-US": "[Doomk]\nHm. I didn't know there was a place like this.\nIt definitely fits what the dark elemental wanted.\nSo, what do we do now?",
-        "pt-BR": "[Dumk]\nHum. Existia um lugar assim?\nCom certeza é perfeito para as condições exigidas pelo espírito das trevas.\nEntão, o que a gente faz agora?",
+        "pt-BR": "[Dumk]\nOh. Existia um lugar assim?\nCom certeza é perfeito para as condições exigidas pelo espírito das trevas.\nEntão, o que a gente faz agora?",
         "es-ES": "[Dumk]\nHmm. ¿Existía un lugar así?\nSin duda, encaja a la perfección con las condiciones que exigió el espíritu de la oscuridad.\nEntonces, ¿qué hacemos ahora?"
     },
     "JKp5DA": {
@@ -26,17 +26,17 @@
     },
     "Jap5DA": {
         "en-US": "[Mayssel]\nWe're not hunting it; we're summoning it, Doomk.\nYou're as crude as I remember.",
-        "pt-BR": "[Mayssel]\nNão é para caçar, mas sim invocar, Dumk.\nVocê continua rude como sempre.",
+        "pt-BR": "[Mayssel]\nNão é para caçar, mas sim invocar, Dumk.\nVocê continua soberbo como sempre.",
         "es-ES": "[Meisel]\nNo es ir a atraparlo, sino a invocarlo, Dumk.\nSigues teniendo la lengua afilada."
     },
     "Jqp5DA": {
         "en-US": "[Mayssel]\nMy name is Mayssel, and I'm the manager of the Assassin Guild's Veins branch.\nI don't know if you remember me, but I go teach beginning adventurers at the Academy sometimes.",
-        "pt-BR": "[Mayssel]\nSou Mayssel, gerente da Guilda dos Mercenários Veins.\nÀs vezes saio para orientar aventureiros novatos, não sei se você se lembra de mim.",
+        "pt-BR": "[Mayssel]\nSou Mayssel, gerente da Guilda dos Sicários.\nÀs vezes saio de Veins para orientar Aprendizes, não sei se você se lembra de mim.",
         "es-ES": "[Meisel]\nSoy Meisel, la jefa de la sucursal de Bains del Gremio de Asesinos.\nA veces salgo a guiar a aventureros novatos, no sé si te acuerdas."
     },
     "J6p5DA": {
         "en-US": "[Mayssel]\nWe the Assassins have agreed to cooperate with you because the power of the dark elemental is important to all of us.\nOur information helped you find it, didn't it?",
-        "pt-BR": "[Mayssel]\nComo o poder do espírito das trevas é importante para todos nós, decidimos cooperar.\nFoi uma sorte poder verificar as informações facilmente, não foi?",
+        "pt-BR": "[Mayssel]\nComo o poder do Elemental Sombrio é importante para todos nós, decidimos cooperar.\nFoi fácil poder verificar as informações, não foi?",
         "es-ES": "[Meisel]\nEl poder del espíritu de la oscuridad es importante para todos nosotros, así que decidimos cooperar.\nMenos mal que pudiste consultar la información fácilmente, ¿no?"
     },
     "KKp5DA": {
@@ -46,7 +46,7 @@
     },
     "Kap5DA": {
         "en-US": "[Mayssel]\nI don't know everything.\nFor now, let's look for a place that the dark elemental likes.",
-        "pt-BR": "[Mayssel]\nEu não sei tudo, sabe.\nPrimeiro, vamos procurar um lugar que agrade o Elemental Sombrio.",
+        "pt-BR": "[Mayssel]\nEu não sei de tudo, sabe?\nPrimeiro, vamos procurar um lugar que agrade o Elemental Sombrio.",
         "es-ES": "[Meisel]\nNo lo sé todo.\nPrimero, busquemos un lugar que le guste al espíritu de la oscuridad."
     },
     "Kqp5DA": {
@@ -56,22 +56,22 @@
     },
     "K6p5DA": {
         "en-US": "[Doomk]\nHey, why don't we just scatter and look?\nIt'll respond to wherever it likes, won't it?",
-        "pt-BR": "[Dumk]\nEi, vamos cada um dar uma volta por aí.\nSe ele gostar de algum lugar, vai reagir.",
+        "pt-BR": "[Dumk]\nEi, vamos dar uma volta por aí.\nSe ele gostar de algum lugar, vai reagir.",
         "es-ES": "[Dumk]\nOye, mejor andemos cada uno por su lado.\nSi le gusta algún lugar, ya nos lo dirá."
     },
     "LKp5DA": {
         "en-US": "[Verkhasel]\nAlright, I'll go look for a suitable place on my own.",
-        "pt-BR": "[Verkhasel]\nEntão vou dar uma olhada pra ver se tem algum lugar adequado.",
+        "pt-BR": "[Verkhasel]\nEu vou dar uma olhada pra ver se tem algum lugar adequado.",
         "es-ES": "[Verkhasel]\nEntonces voy a dar una vuelta a ver si encuentro un lugar adecuado."
     },
     "Lap5DA": {
         "en-US": "[Mayssel]\nWell then, I'll look around the area too.\nFrankly, I don't think it'd mind wherever we call it.",
-        "pt-BR": "[Mayssel]\nBem, então eu também vou dar uma olhada por aqui.\nNa verdade, acho que não faz diferença se a gente chamá-lo em qualquer lugar.",
+        "pt-BR": "[Mayssel]\nBem, então eu também vou dar uma olhada por aí.\nNa verdade, acho que não faz diferença se a gente invocá-lo em qualquer lugar.",
         "es-ES": "[Meisel]\nBueno, entonces yo también voy a echar un vistazo por aquí.\nAunque, la verdad, creo que no importa mucho dónde lo invoquemos."
     },
     "Lqp5DA": {
         "en-US": "[Doomk]\nYou heard them. Let's get moving.\nThere's a garden beyond this building. Why don't you check it out?\nIf the dark elemental responds, signal us. We'll be right there.",
-        "pt-BR": "[Dumk]\nViu só? Vamos nos mexer também.\nParece que tem um jardim do outro lado do prédio, tente procurar por lá.\nSe o Elemental Sombrio reagir, mande um sinal. Eu vou logo pra lá.",
+        "pt-BR": "[Dumk]\nViu? Vamos andando também.\nParece que tem um jardim do outro lado do prédio, tente procurar por lá.\nSe o Elemental Sombrio reagir, mande um sinal. Eu vou logo pra lá.",
         "es-ES": "[Dumk]\n¿Viste? Movámonos nosotros también.\nParece que hay un jardín más allá del edificio, busca por ahí.\nSi el espíritu de la oscuridad responde, mándame una señal. Iré de inmediato"
     },
     "L6p5DA": {
@@ -86,7 +86,7 @@
     },
     "Map5DA": {
         "en-US": "The Assassin and Rogue Guilds share the same root. Of course, we cooperate with each other.",
-        "pt-BR": "Como a Guilda dos Mercenários e a Guilda dos Arruaceiros têm a mesma origem, a cooperação é algo natural.",
+        "pt-BR": "Como a Guilda dos Sicários e a Guilda dos Renegados têm a mesma origem, a cooperação é algo natural.",
         "es-ES": "Los gremios de los Asesinos y de los Ladrones comparten un mismo origen, así que es lógico que colaboren."
     },
     "Mqp5DA": {
@@ -111,7 +111,7 @@
     },
     "Nqp5DA": {
         "en-US": "I'm back!",
-        "pt-BR": "Este corpo, ressuscitou!",
+        "pt-BR": "Este corpo ressuscitou!",
         "es-ES": "¡Este cuerpo, resucita!"
     },
     "N6p5DA": {
@@ -126,27 +126,27 @@
     },
     "Oap5DA": {
         "en-US": "[Mayssel]\nDarky! Long time no see!",
-        "pt-BR": "[Mayssel]\nDarky! Há quanto tempo!",
+        "pt-BR": "[Mayssel]\nTrevoso! Há quanto tempo!",
         "es-ES": "[Meisel]\n¡Eodumi! ¡Cuánto tiempo sin verte!"
     },
     "Oqp5DA": {
         "en-US": "[Blacky]\nOooh? That's a name I haven't heard in a while.\nBut now, this body's name is Blacky.\nSome young humans gave me this precious name.",
-        "pt-BR": "[Blacky]\nOh? Faz tempo que não ouço esse nome.\nMas agora o nome deste corpo é Blacky.\nÉ um nome precioso que as crianças humanas me deram.",
+        "pt-BR": "[Vultinho]\nTrevoso? Faz tempo que não ouço esse nome.\nMas agora o nome deste corpo é Vultinho.\nÉ um nome precioso que as crianças humanas me deram.",
         "es-ES": "[Kkaman-i]\n¿Oh? Hace tiempo que no oigo ese nombre.\nPero ahora mi nombre es Kkaman-i.\nLos humanos pequeños me pusieron un nombre precioso."
     },
     "O6p5DA": {
         "en-US": "[Blacky]\nWhew! By the way, what kind of place is this? It's pretty nice.\nCan I stay here for a while?",
-        "pt-BR": "[Blacky]\nUfa... Enfim, o que é esse lugar aqui? É bem legal, né?\nPor enquanto, posso fazer disso meu lar?",
+        "pt-BR": "[Vultinho]\nUfa... Enfim, o que é esse lugar aqui? É bem legal, né?\nPor enquanto, posso fazer disso meu lar?",
         "es-ES": "[Kkaman-i]\nUf... Por cierto, ¿qué es esto? ¿Es un lugar genial?\n¿Puedo usar esto como mi morada por un tiempo?"
     },
     "PKp5DA": {
         "en-US": "[Doomk]\nWhat's this? This dark thing.\nIs this the dark elemental?\nIt looks pretty interesting....",
-        "pt-BR": "[Dumk]\nO que é isso? Essa coisa toda preta.\nSerá que é o tal Elemental Sombrio?\nTem uma aparência bem estranha...",
+        "pt-BR": "[Dumk]\nO que é isso? Essa coisa toda sombria.\nSerá que é o tal Elemental Sombrio?\nTem uma aparência bem estranha...",
         "es-ES": "[Dumk]\n¿Qué es esto? ¿Esta cosa negra?\n¿Es este el espíritu de la oscuridad?\nTiene un aspecto curioso..."
     },
     "Pap5DA": {
         "en-US": "[Verkhasel]\nThis place is private property, anyway. People can't come in here as they please. You can stay for as long as you want.",
-        "pt-BR": "[Berkasel]\nDe qualquer forma, este é um lugar com acesso restrito, onde ninguém pode entrar, então fique à vontade pelo tempo que quiser.",
+        "pt-BR": "[Verkhasel]\nDe qualquer forma, este é um lugar com acesso restrito, onde ninguém pode entrar, então fique à vontade pelo tempo que quiser.",
         "es-ES": "[Berkasel]\nDe todos modos, este es un lugar al que nadie puede entrar, así que puedes quedarte todo el tiempo que quieras."
     },
     "Pqp5DA": {
@@ -156,32 +156,32 @@
     },
     "P6p5DA": {
         "en-US": "[Blacky]\nThat condition, you mean you want a portion of this body's power, right?\nFine. That much is within this body's expectations.",
-        "pt-BR": "[Blacky]\nEssa condição é que você quer uma parte do poder deste corpo, não é?\nTudo bem. Isso está dentro do que eu esperava.",
+        "pt-BR": "[Vultinho]\nEssa condição é que você quer uma parte do meu poder, não é?\nTudo bem. Isso está dentro do que eu esperava.",
         "es-ES": "[Negrito]\nEsa condición será que quieres quedarte con parte de mi poder, ¿no?\nEstá bien. Hasta ahí, estaba dentro de lo que esperaba."
     },
     "QKp5DA": {
         "en-US": "[Blacky]\nSince you're already familiar with the energy of darkness, I'm not worried about our compatibility,\nbut I wouldn't want to lend my power to some random weakling.",
-        "pt-BR": "[Blacky]\nParece que vocês já possuem a energia das sombras, então não estou preocupado com a compatibilidade.\nMas o cara que vai absorver o poder deste corpo não pode ser tão fraco a ponto de desmaiar a qualquer momento, né?",
+        "pt-BR": "[Vultinho]\nParece que vocês já possuem a energia das sombras, então não estou preocupado com a compatibilidade.\nMas a pessoa que vai absorver o poder deste corpo não pode ser tão fraco a ponto de desmaiar.",
         "es-ES": "[Negrito]\nParece que ya tienen la energía de las sombras, así que no me preocupa la compatibilidad.\nPero el que vaya a absorber mi poder no puede ser tan débil como para caerse a cada rato."
     },
     "Qap5DA": {
         "en-US": "[Blacky]\nAnd I'll decide who that is.",
-        "pt-BR": "[Blacky]\nE quem vai ser o escolhido, sou eu quem decide.",
+        "pt-BR": "[Vultinho]\nE quem vai ser o escolhido, sou eu quem decide.",
         "es-ES": "[Negrito]\nY yo decidiré quién será ese."
     },
     "Qqp5DA": {
         "en-US": "[Doomk]\nDo as you please.\nAs long as you stay here and share your power with us, nothing else matters.",
-        "pt-BR": "[Dumk]\nFaça como quiser.\nDesde que continuem aqui e compartilhem o poder, não me importo com o resto.",
+        "pt-BR": "[Dumk]\nFaça como quiser.\nDesde que continue aqui e compartilhe o poder, não me importo com o resto.",
         "es-ES": "[Dumk]\nHaz lo que quieras.\nMientras sigas quedándote aquí y compartiendo tu poder, me da igual."
     },
     "Q6p5DA": {
         "en-US": "[Doomk]\nAnd don't forget that we Shadow Chasers are your first choice.",
-        "pt-BR": "[Dumk]\nE não se esqueça de que o primeiro canddato é o nosso Renegado.",
+        "pt-BR": "[Dumk]\nE queremos que você empreste seu poder para um de nossos Renegados.",
         "es-ES": "[Dumk]\nY no te olvides de que el primer destinatario somos nosotros, los Shadow Chasers."
     },
     "RKp5DA": {
         "en-US": "[Blacky]\nDoesn't this end after just one time?",
-        "pt-BR": "[Blacky]\nNão vai acabar logo de uma vez, né?",
+        "pt-BR": "[Vultinho]\nIsso não vai acabar tão cedo, né?",
         "es-ES": "[Negrito]\n¿No se acabará en una sola vez?"
     },
     "Rap5DA": {
@@ -191,12 +191,12 @@
     },
     "Rqp5DA": {
         "en-US": "[Blacky]\nThis body...",
-        "pt-BR": "[Blacky]\nEste corpo é...",
+        "pt-BR": "[Vultinho]\nEste corpo é...",
         "es-ES": "[Negrito]\nEste cuerpo es..."
     },
     "R6p5DA": {
         "en-US": "Great, isn't it! I'm an elemental who can give you anything you want!",
-        "pt-BR": "É grandioso! Sou um espírito capaz de fazer qualquer coisa!",
+        "pt-BR": "É grandioso! Sou um Elemental capaz de fazer qualquer coisa!",
         "es-ES": "¡Es grandioso! ¡Soy un espíritu capaz de hacer cualquier cosa!"
     },
     "SKp5DA": {
@@ -206,32 +206,32 @@
     },
     "Sap5DA": {
         "en-US": "[Blacky]\nAlright. You over there.\nYou brought me the darkness!\nI'll test you.",
-        "pt-BR": "[Blacky]\nTudo bem. Ei, humano.\nHumano que trouxe a escuridão para mim!\nVou te testar.",
+        "pt-BR": "[Vultinho]\nTudo bem. Ei, humano.\nHumano que trouxe a escuridão para mim!\nVou te testar.",
         "es-ES": "[Kkaman-i]\nBien. Oye, humano.\n¡Humano que le trajiste la oscuridad a este cuerpo!\nTe pondré a prueba."
     },
     "Sqp5DA": {
         "en-US": "[Blacky]\nI'll only test your skills, so don't be scared. Get ready.",
-        "pt-BR": "[Blacky]\nVou apenas avaliar o teu nível, então não se assuste e prepare-se.",
+        "pt-BR": "[Vultinho]\nVou apenas avaliar seu nível, então não se assuste e prepare-se.",
         "es-ES": "[Kkaman-i]\nSolo voy a evaluar tu nivel, así que no te asustes y prepárate."
     },
     "S6p5DA": {
         "en-US": "[Doomk]\nHah hah hah... Being an elemental, you seem kinda innocent, huh?\nAlright. With this, we can show the world our power as Abyss Chasers.",
-        "pt-BR": "[Dumk]\nHuhuhuh... Será que por ser um espírito você tem um lado meio ingênuo?\nTudo bem. Com isso, poderemos mostrar ao mundo o nosso poder sob o nome de Mandraque.",
+        "pt-BR": "[Dumk]\nHuhuhuh... Será que por ser um Elemental você tem um lado meio ingênuo?\nTudo bem. Com isso, poderemos mostrar ao mundo o nosso poder sob o nome de Mandraque.",
         "es-ES": "[Dumk]\nJajaja... ¿Será por ser un espíritu que tienes algo de ingenuo?\nBien. Con esto podremos mostrar al mundo nuestro poder bajo el nombre de Perseguidor Abisal."
     },
     "TKp5DA": {
         "en-US": "I don't have enough Crystals of Darkness or Dark Pieces.",
-        "pt-BR": "Parece que ainda faltam Cristais da Escuridão e Fragmentos Sombrios...",
+        "pt-BR": "Faltam Cristais da Escuridão e Fragmentos Sombrios...",
         "es-ES": "Parece que nos faltan cristales de oscuridad y fragmentos de oscuridad..."
     },
     "Tap5DA": {
         "en-US": "[Blacky]\nReady?\nThen, whom should I use...?\nHmm... Yes, you!",
-        "pt-BR": "[Blacky]\nTudo pronto?\nEntão, quem seria uma boa escolha...\nHmmm. É, será você!",
+        "pt-BR": "[Vultinho]\nTudo pronto?\nEntão, quem seria uma boa escolha...\nHmmm. É, será você!",
         "es-ES": "[Kkaman-i]\n¿Ya estás listo?\nEntonces, ¿quién sería un buen candidato...?\nMmm... ¡Sí, me quedo contigo!"
     },
     "Tqp5DA": {
         "en-US": "[Blacky]\nVerkhasel, right?\nY-your white hair displeases me.\nSo, I'm going to use you.",
-        "pt-BR": "[Blacky]\nVerkasel, certo?\nNão gosto do teu cabelo branco.\nPor isso, vou te usar.",
+        "pt-BR": "[Vultinho]\nVerkasel, certo?\nNão gosto do seu cabelo branco.\nPor isso, vou te usar.",
         "es-ES": "[Negrito]\n¿Dijiste que te llamabas Verkhasel?\nNo me gusta tu pelo blanco.\nAsí que te voy a usar."
     },
     "T6p5DA": {
@@ -246,7 +246,7 @@
     },
     "Uap5DA": {
         "en-US": "This... What the hell...!",
-        "pt-BR": "O que... é isso...!",
+        "pt-BR": "O que... é isso...?!",
         "es-ES": "¡¿Qué... qué me has hecho...?!"
     },
     "Uqp5DA": {
@@ -256,27 +256,27 @@
     },
     "U6p5DA": {
         "en-US": "Possessed Verkhasel",
-        "pt-BR": "Verkasel sendo controlado",
+        "pt-BR": "Verkasel Possuído",
         "es-ES": "Verkhasel bajo control"
     },
     "VKp5DA": {
         "en-US": "Come on, show me what you've got.",
-        "pt-BR": "Vamos lá, mostre logo o que você sabe fazer.",
+        "pt-BR": "Mostre o que você sabe fazer.",
         "es-ES": "Vamos, muéstrame de qué estás hecho."
     },
     "Vap5DA": {
         "en-US": "[Blacky]\nHah hah hah hah! You won.\nFor your information, this fight was just to see if you could accept darkness.",
-        "pt-BR": "[Blacky]\nHah hah hah hah! Você venceu.\nEsta luta foi apenas para ver se você conseguiria aceitar a escuridão.",
+        "pt-BR": "[Vultinho]\nHah hah hah hah! Você venceu.\nEsta luta foi apenas para ver se você conseguiria aguentar a escuridão.",
         "es-ES": "[Negrito]\nJajajaja, ¡qué fácil me ganaste!\nAh, de todos modos, solo fue una pelea de prueba para ver si podías aceptar la oscuridad."
     },
     "Vqp5DA": {
         "en-US": "[Blacky]\nThat guy Verkhasel isn't weak, you know.\nDon't you dare get cocky later?",
-        "pt-BR": "[Blacky]\nAquele cara chamado Verkhasel não é fraco, tá?\nNão fique se achando, tá?",
+        "pt-BR": "[Vultinho]\nAquele cara chamado Verkhasel não é fraco, tá?\nNão fique se achando, beleza?",
         "es-ES": "[Negrito]\nEs que ese tipo llamado Verkhasel no es débil, ¿sabes?\n¿No te atrevas a ponerte chulo más adelante, eh?"
     },
     "V6p5DA": {
         "en-US": "[Blacky]\nYou seem qualified enough.\nAlright! Then shall I share some of my power with you?\nWhen you're ready to accept my power, come talk to me again.",
-        "pt-BR": "[Blacky]\nParece que você tem potencial suficiente.\nÓtimo! Então, que tal eu te dar um pouco do meu poder?\nQuando estiver pronto para receber meu poder, fala comigo de novo.",
+        "pt-BR": "[Vultinho]\nParece que você tem potencial suficiente.\nÓtimo! Então, que tal eu te dar um pouco do meu poder?\nQuando estiver com tudo pronto para receber meu poder, fale comigo de novo.",
         "es-ES": "[Negrito]\nParece que tienes suficiente potencial.\n¡Bien! ¿Te voy a compartir un poco de mi poder?\nCuando estés listo para recibir mi poder, vuelve a hablarme."
     },
     "WKp5DA": {
@@ -286,17 +286,17 @@
     },
     "Wap5DA": {
         "en-US": "[Doomk]\nNow I see it. The ^4D4DFFAbyss Chaser^000000, we've been preparing for quite some time.\nWe've even got a new uniform for it.",
-        "pt-BR": "[Dumk]\nAgora consigo ver. O título de ^4D4DFFMandraque^000000 que estivemos preparando há tanto tempo.\nPreparei um uniforme com um novo design especialmente para este dia.",
+        "pt-BR": "[Dumk]\nAgora consigo ver! O título de ^4D4DFFMandraque^000000 que estivemos preparando há tanto tempo!\nPreparei um uniforme com um novo design especialmente para esta classe.",
         "es-ES": "[Dumk]\nPor fin lo veo. El ^4D4DFFPerseguidor Abisal^000000 que he estado preparando durante bastante tiempo.\nPreparé un uniforme con un nuevo diseño para este día."
     },
     "Wqp5DA": {
         "en-US": "[Doomk]\nWe've made sure it looks just as awesome as our other uniforms.\nDark elemental, we're ready. Come on, give them a makeover.",
-        "pt-BR": "[Dumk]\nDesta vez, fiz de tudo para que a elegância fosse de tirar o fôlego.\nElemental Sombrio, tudo pronto do nosso lado. Vamos lá, transforme esse cara em algo novo.",
+        "pt-BR": "[Dumk]\nDesta vez, fiz de tudo para que a elegância fosse de tirar o fôlego.\nElemental Sombrio, tudo pronto do nosso lado. Vamos lá, emprese seu poder para nós!",
         "es-ES": "[Dumk]\nEsta vez también lo hice para que la genialidad sea una explosión.\nEspíritu de la oscuridad. Por mi parte, todo está listo. Vamos, renueva a este chico."
     },
     "W6p5DA": {
         "en-US": "[Blacky]\nHah hah hah. As you wish.\nI'm an elemental who never forgets the favors.\nNow, relax and accept my energy.",
-        "pt-BR": "[Blacky]\nHuhuhuh. É isso aí.\nEu sou um espírito que sabe retribuir favores.\nEntão relaxa e receba a minha energia.",
+        "pt-BR": "[Vultinho]\nHuhuhuh. É isso aí.\nEu sou um Elemental que sabe retribuir favores.\nEntão relaxe e receba a minha energia.",
         "es-ES": "[Kkaman-i]\nJujuju. Así es.\nEste ser es un espíritu que sabe cómo devolver un favor.\nEntonces, relájate y recibe la energía de este ser."
     },
     "XKp5DA": {
@@ -311,37 +311,37 @@
     },
     "Xqp5DA": {
         "en-US": "Congratulations.",
-        "pt-BR": "Parabéns.",
+        "pt-BR": "Parabéns!",
         "es-ES": "Felicidades."
     },
     "X6p5DA": {
         "en-US": "[Doomk]\nWait, don't you think you're way past such a rookie mistake?\nYou've still got some Skill Points left.\nPlease use them all, and then talk to me again.",
-        "pt-BR": "[Dumk]\nEspera aí, você ainda comete erros tão básicos assim?\nAinda tem pontos de habilidade sobrando.\nEsgote todos eles e depois volte a falar comigo.",
+        "pt-BR": "[Dumk]\nEspera aí, você ainda comete erros tão básicos assim?\nAinda tem pontos de habilidade sobrando.\nUse todos eles e depois volte a falar comigo.",
         "es-ES": "[Dumk]\nUn momento, ¿todavía cometes errores tan básicos?\nTe quedan puntos de habilidad.\nAgótalos todos y luego vuelve a hablarme."
     },
     "YKp5DA": {
         "en-US": "[Blacky]\nI don't know what that means, but you should listen to your senior.",
-        "pt-BR": "[Blacky]\nNão sei o que é, mas como é o que o teu veterano está dizendo, ouça com atenção.",
+        "pt-BR": "[Vultinho]\nNão sei o que aconteceu, mas ouça o que seu veterano está dizendo, ouça com atenção.",
         "es-ES": "[Kkaman-i]\nNo sé qué es, pero como lo dice tu senior, escúchalo bien."
     },
     "Yap5DA": {
         "en-US": "[Blacky]\nAlright, we're done now, right? Okay, then get out of my house!",
-        "pt-BR": "[Blacky]\nPronto, já acabou, não é? Então, agora saia da minha casa!",
+        "pt-BR": "[Vultinho]\nPronto, já acabou, não é? Então, agora saia da minha casa!",
         "es-ES": "[Kkaman-i]\nBueno, ¿ya terminaste? ¡Pues ahora lárgate de mi casa!"
     },
     "Yqp5DA": {
         "en-US": "Not bad! You're more compatible with me than I thought!",
-        "pt-BR": "Você é bom, hein?! A gente combina bem!",
+        "pt-BR": "Você é bom, hein?! A gente até que combina bem!",
         "es-ES": "¡No te va nada mal! ¡Tu energía encaja perfectamente con la mía!"
     },
     "Y6p5DA": {
         "en-US": "Grr, you used me!",
-        "pt-BR": "Grr, você usou o meu corpo como bem entendeu...!",
+        "pt-BR": "Grr, você usou o meu corpo...!",
         "es-ES": "¡Grrr, seguro que has usado mi cuerpo a tu antojo...!"
     },
     "ZKp5DA": {
         "en-US": "[Doomk]\nTalk to the Dark Elemental when you're ready.\nYou spent all your Skill Points, right?",
-        "pt-BR": "[Dumk]\nQuando estiver pronto, fala com o Elemental Sombrio.\nJá gastou todos os pontos de habilidade, certo?",
+        "pt-BR": "[Dumk]\nQuando estiver com tudo pronto, fale com o Elemental Sombrio.\nJá gastou todos os pontos de habilidade, certo?",
         "es-ES": "[Dumk]\nCuando estés listo, habla con el espíritu de la oscuridad.\nYa habrás gastado todos los puntos de habilidad, ¿no?"
     },
     "Zap5DA": {

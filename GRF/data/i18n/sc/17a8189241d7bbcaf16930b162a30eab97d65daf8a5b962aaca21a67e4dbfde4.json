@@ -1,152 +1,152 @@
 {
     "oMR/DA": {
         "en-US": "King's Knight",
-        "pt-BR": "Cavaleiro do Rei",
+        "pt-BR": "Guardião Real",
         "es-ES": "Caballero del Rey"
     },
     "ocR/DA": {
         "en-US": "^FF0000Lighten your load before joining the tourney.^000000",
-        "pt-BR": "^FF0000Antes de participar do treino, alivie um pouco a carga que estás carregando.^000000",
+        "pt-BR": "^FF0000Reorganize seu inventário e tente novamente.^000000",
         "es-ES": "^FF0000Antes de participar en el combate, aligera un poco tu equipaje.^000000"
     },
     "osR/DA": {
         "en-US": "[King's Knight]\nWelcome to the Hall of Trials.",
-        "pt-BR": "[Cavaleiro do Rei]\nSeja bem-vindo à Arena de Duelo.",
+        "pt-BR": "[Guardião Real]\nBoas-vindas à Arena de Duelo.",
         "es-ES": "[Caballero del Rey]\nTe doy la bienvenida al campo de entrenamiento para la prueba."
     },
     "o8R/DA": {
         "en-US": "[King's Knight]\nThe rules of this tourney are simple.",
-        "pt-BR": "[Cavaleiro do Rei]\nAs regras do torneio são simples.",
+        "pt-BR": "[Guardião Real]\nAs regras do duelo são simples.",
         "es-ES": "[Caballero del Rey]\nLas reglas del combate son sencillas."
     },
     "pMR/DA": {
         "en-US": "[King's Knight]\nIt's a one-on-one battle, and whoever defeats their opponent wins.",
-        "pt-BR": "[Cavaleiro do Rei]\nÉ uma luta um contra um, e quem derrubar o adversário vence.",
+        "pt-BR": "[Guardião Real]\nÉ uma luta um contra um, e quem derrubar o adversário vence.",
         "es-ES": "[Caballero del Rey]\nEs un combate uno contra uno, y gana quien derribe a su oponente."
     },
     "pcR/DA": {
         "en-US": "[King's Knight]\nYour first opponent is the ^0000FFKnight of Armament^000000.",
-        "pt-BR": "[Cavaleiro do Rei]\nSeu primeiro adversário é o ^0000FFCavaleiro do Armamento^000000.",
+        "pt-BR": "[Guardião Real]\nSeu primeiro adversário é o ^0000FFGuardião de Armadura^000000.",
         "es-ES": "[El Caballero del Rey]\nTu primer rival es el ^0000FFCaballero del Armamento^000000."
     },
     "psR/DA": {
         "en-US": "[Knight of Armament]\nWe meet again, just as I expected.",
-        "pt-BR": "[Cavaleiro do Armamento]\nComo era de se esperar, acabamos nos encontrando aqui.",
+        "pt-BR": "[Guardião de Armadura]\nComo era de se esperar, acabamos nos encontrando aqui.",
         "es-ES": "[Caballero del Armamento]\nComo era de esperarse, nos encontramos aquí."
     },
     "p8R/DA": {
         "en-US": "[Knight of Armament]\nI hope this becomes a splendid contest between kindred spirits.",
-        "pt-BR": "[Cavaleiro do Armamento]\nEspero que seja uma bela batalha entre aqueles que compartilham os mesmos ideais.",
+        "pt-BR": "[Guardião de Armadura]\nEspero que seja uma bela batalha entre aqueles que compartilham os mesmos ideais.",
         "es-ES": "[Caballero del Armamento]\nEspero que sea una gran contienda entre quienes compartimos los mismos ideales."
     },
     "qMR/DA": {
         "en-US": "[King's Knight]\nThen, let's get started.",
-        "pt-BR": "[Cavaleiro do Rei]\nEntão, vamos começar.",
+        "pt-BR": "[Guardião Real]\nEntão, vamos começar.",
         "es-ES": "[Caballero del Rey]\nEntonces, empecemos."
     },
     "qcR/DA": {
         "en-US": "[King's Knight]\nMay it be a good match.",
-        "pt-BR": "[Cavaleiro do Rei]\nEspero que seja uma boa luta.",
+        "pt-BR": "[Guardião Real]\nEspero que seja uma boa luta.",
         "es-ES": "[Caballero del Rey]\nEspero que sea un buen combate."
     },
     "qsR/DA": {
         "en-US": "Knight of Armament",
-        "pt-BR": "Cavaleiro do Armamento",
+        "pt-BR": "Guardião de Armadura",
         "es-ES": "Caballero del Armamento"
     },
     "q8R/DA": {
         "en-US": "[King's Knight]\nLet's resume your match.",
-        "pt-BR": "[Cavaleiro do Rei]\nVamos continuar a luta.",
+        "pt-BR": "[Guardião Real]\nVamos continuar a luta.",
         "es-ES": "[Caballero del Rey]\nSigamos con el combate"
     },
     "rMR/DA": {
         "en-US": "[King's Knight]\nFocus on the match.",
-        "pt-BR": "[Cavaleiro do Rei]\nConcentre-se na luta.",
+        "pt-BR": "[Guardião Real]\nConcentre-se na luta.",
         "es-ES": "[Caballero del Rey]\nConcéntrate en el combate."
     },
     "rcR/DA": {
         "en-US": "[King's Knight]\nThat was a good fight.",
-        "pt-BR": "[Cavaleiro do Rei]\nFoi uma bela luta.",
+        "pt-BR": "[Guardião Real]\nFoi uma bela luta.",
         "es-ES": "[Caballero del Rey]\nHa sido un combate genial."
     },
     "rsR/DA": {
         "en-US": "[King's Knight]\nYour next opponent is the ^0000FFKnight of Devotion^000000.",
-        "pt-BR": "[Cavaleiro do Rei]\nO próximo adversário é a ^0000FFCavaleira da Devoção^000000.",
+        "pt-BR": "[Guardião Real]\nO próximo adversário é a ^0000FFGuardiã da Devoção^000000.",
         "es-ES": "[Caballero del Rey]\nTu próximo rival es ^0000FFEl Caballera de la Devoción^000000."
     },
     "r8R/DA": {
         "en-US": "[Knight of Devotion]\nWe meet here.",
-        "pt-BR": "[Cavaleira da Devoção]\nEntão nos encontramos aqui.",
+        "pt-BR": "[Guardiã da Devoção]\nEntão nos encontramos aqui.",
         "es-ES": "[Caballera de la Devoción]\nAsí que nos encontramos aquí."
     },
     "sMR/DA": {
         "en-US": "[Knight of Devotion]\nI will not lose, for the sake of my justice.",
-        "pt-BR": "[Cavaleira da Devoção]\nPela minha justiça, não vou perder de jeito nenhum.",
+        "pt-BR": "[Guardiã da Devoção]\nPela minha justiça, não vou perder de jeito nenhum.",
         "es-ES": "[Caballera de la Devoción]\nPor mi propio sentido de la justicia, no voy a perder bajo ningún concepto."
     },
     "scR/DA": {
         "en-US": "[King's Knight]\nWhoever wins this match will earn the title of Imperial Guard.",
-        "pt-BR": "[Cavaleiro do Rei]\nConcederei o título de Guardião Imperial àquele que vencer esta batalha.",
+        "pt-BR": "[Guardião Real]\nConcederei o título de Guardião Imperial àquele que vencer esta batalha.",
         "es-ES": "[Caballero del Rey]\nAl que gane este duelo le concederé el título de Guardia Imperial."
     },
     "ssR/DA": {
         "en-US": "[King's Knight]\nThen let's see a good fight.",
-        "pt-BR": "[Cavaleiro do Rei]\nEntão, mostrem-me uma boa luta.",
+        "pt-BR": "[Guardião Real]\nEntão, mostrem-me uma boa luta.",
         "es-ES": "[Caballero del Rey]\nPues haz que sea un buen combate."
     },
     "s8R/DA": {
         "en-US": "Knight of Devotion",
-        "pt-BR": "Cavaleira da Devoção",
+        "pt-BR": "Guardiã da Devoção",
         "es-ES": "Caballera de la Devoción"
     },
     "tMR/DA": {
         "en-US": "[King's Knight]\nYour first opponent is the ^0000FFKnight of Devotion^000000.",
-        "pt-BR": "[Cavaleiro do Rei]\nSeu primeiro adversário é a ^0000FFCavaleira da Devoção^000000.",
+        "pt-BR": "[Guardião Real]\nSeu primeiro adversário é a ^0000FFGuardiã da Devoção^000000.",
         "es-ES": "[Caballero del Rey]\nTu primer rival es ^0000FFCaballera de la Devoción^000000."
     },
     "tcR/DA": {
         "en-US": "[Knight of Devotion]\nWe meet again, just as I expected.",
-        "pt-BR": "[Cavaleira da Devoção]\nComo era de se esperar, acabamos nos encontrando aqui.",
+        "pt-BR": "[Guardiã da Devoção]\nComo era de se esperar, acabamos nos encontrando aqui.",
         "es-ES": "[Caballera de la Devoción]\nComo era de esperarse, nos encontramos aquí."
     },
     "tsR/DA": {
         "en-US": "[Knight of Devotion]\nI hope this becomes a splendid contest between kindred spirits.",
-        "pt-BR": "[Cavaleira da Devoção]\nEspero que seja uma bela luta entre aqueles que compartilham o mesmo propósito.",
+        "pt-BR": "[Guardiã da Devoção]\nEspero que seja uma bela luta entre aqueles que compartilham o mesmo propósito.",
         "es-ES": "[Caballera de la Devoción]\nEspero que sea un combate emocionante entre quienes compartimos el mismo propósito."
     },
     "t8R/DA": {
         "en-US": "[King's Knight]\nYour next opponent is the ^0000FFKnight of Armament^000000.",
-        "pt-BR": "[Cavaleiro do Rei]\nO próximo adversário é o ^0000FFCavaleiro do Armamento^000000.",
+        "pt-BR": "[Guardião Real]\nO próximo adversário é o ^0000FFGuardião de Armadura^000000.",
         "es-ES": "[Caballero del Rey]\nTu siguiente rival es el ^0000FFCaballero del Armamento^000000."
     },
     "uMR/DA": {
         "en-US": "[Knight of Armament]\nWe meet here.",
-        "pt-BR": "[Cavaleiro do Armamento]\nEntão nos encontramos aqui.",
+        "pt-BR": "[Guardião de Armadura]\nEntão nos encontramos aqui.",
         "es-ES": "[Caballero del Armamento]\nAsí que nos encontramos aquí."
     },
     "ucR/DA": {
         "en-US": "[Knight of Armament]\nI'll show you the power of superior armament.",
-        "pt-BR": "[Cavaleiro do Armamento]\nVou te mostrar que o poder de uma armadura superior vence a batalha.",
+        "pt-BR": "[Guardião de Armadura]\nVou te mostrar que o poder de uma armadura superior vence a batalha.",
         "es-ES": "[Caballero del Armamento]\nTe demostraré ahora mismo que el poder de las armas es lo que decide el combate."
     },
     "usR/DA": {
         "en-US": "[King's Knight]\nYou've proven your sense of justice well.",
-        "pt-BR": "[Cavaleiro do Rei]\nVocê provou muito bem a sua justiça.",
+        "pt-BR": "[Guardião Real]\nVocê provou muito bem a sua justiça.",
         "es-ES": "[Caballero del Rey]\nHas demostrado muy bien tu justicia."
     },
     "u8R/DA": {
         "en-US": "[King's Knight]\nThe definition of justice tends to change, depending on the time you live in.",
-        "pt-BR": "[Cavaleiro do Rei]\nA definição de justiça tende a mudar de acordo com o curso dos tempos.",
+        "pt-BR": "[Guardião Real]\nA definição de justiça tende a mudar de acordo com o curso dos tempos.",
         "es-ES": "[Caballero del Rey]\nLa justicia tiende a cambiar según la corriente de la época."
     },
     "vMR/DA": {
         "en-US": "[King's Knight]\nFor now, I suggest you go with the flow. Later, maybe you can help prevent the same conflict from happening.",
-        "pt-BR": "[Cavaleiro do Rei]\nPor enquanto, siga fielmente as suas convicções. No futuro, você poderá ajudar a prevenir futuros conflitos como este.",
+        "pt-BR": "[Guardião Real]\nPor enquanto, siga fielmente as suas convicções. No futuro, você poderá ajudar a prevenir próximos conflitos como este.",
         "es-ES": "[Caballero del Rey]\nPor ahora, sé fiel a la corriente actual, y haz todo lo posible para que, a medida que pase el tiempo y cambie la época, no surja de nuevo un conflicto como este."
     },
     "vcR/DA": {
         "en-US": "[King's Knight]\nCongratulations on your victory. Would you like to accept the title of Imperial Guard now?",
-        "pt-BR": "[Cavaleiro do Rei]\nParabéns pela sua vitória. Deseja receber o título de Guardião Imperial agora mesmo?",
+        "pt-BR": "[Guardião Real]\nParabéns pela sua vitória. Deseja receber o título de Guardião Imperial agora mesmo?",
         "es-ES": "[Caballero del Rey]\nFelicidades por la victoria, ¿quieres recibir el título de Guardia Imperial ahora mismo?"
     },
     "vsR/DA": {
@@ -161,57 +161,57 @@
     },
     "wMR/DA": {
         "en-US": "[King's Knight]\nYou have now become an Imperial Guard.",
-        "pt-BR": "[Cavaleiro do Rei]\nAgora você se tornou um Guardião Imperial.",
+        "pt-BR": "[Guardião Real]\nAgora você se tornou um Guardião Imperial.",
         "es-ES": "[Caballero del Rey]\nAhora te has convertido en un guardia imperial."
     },
     "wcR/DA": {
         "en-US": "[King's Knight]\nCarry yourself well to match your title.",
-        "pt-BR": "[Cavaleiro do Rei]\nProcure agir de forma digna a este título.",
+        "pt-BR": "[Guardião Real]\nProcure agir de forma digna a este título.",
         "es-ES": "[Caballero del Rey]\nAsegúrate de comportarte de manera digna de ese título."
     },
     "wsR/DA": {
         "en-US": "[King's Knight]\nMay the king's honor always be with you.",
-        "pt-BR": "[Cavaleiro do Rei]\nQue a honra do rei esteja sempre contigo.",
+        "pt-BR": "[Guardião Real]\nQue a honra do rei esteja sempre contigo.",
         "es-ES": "[Caballero del Rey]\nQue el honor del rey te acompañe siempre."
     },
     "w8R/DA": {
         "en-US": "[King's Knight]\nIt appears you still have skill points remaining.",
-        "pt-BR": "[Cavaleiro do Rei]\nParece que você ainda tem pontos de habilidade não distribuídos.",
+        "pt-BR": "[Guardião Real]\nParece que você ainda tem pontos de habilidade não distribuídos.",
         "es-ES": "[Caballero del Rey]\nParece que aún te quedan puntos de habilidad."
     },
     "xMR/DA": {
         "en-US": "[King's Knight]\nPlease try again after using them all.",
-        "pt-BR": "[Cavaleiro do Rei]\nTente novamente após ditribuí-los.",
+        "pt-BR": "[Guardião Real]\nTente novamente após ditribuí-los.",
         "es-ES": "[Caballero del Rey]\nEspero que lo intentes de nuevo después de gastarlos todos."
     },
     "xcR/DA": {
         "en-US": "[King's Knight]\nPlease speak to me again after you are ready.",
-        "pt-BR": "[Cavaleiro do Rei]\nQuando estiver pronto, fala comigo de novo.",
+        "pt-BR": "[Guardião Real]\nQuando estiver pronto, fala comigo de novo.",
         "es-ES": "[Caballero del Rey]\nEspero que termines de prepararte y me vuelvas a hablar."
     },
     "xsR/DA": {
         "en-US": "[King's Knight]\nConduct yourself in a manner befitting the Imperial Guard from now on.\nMay honor always be with you.",
-        "pt-BR": "[Cavaleiro do Rei]\nA partir de agora, comporte-se de forma digna de um Guardião Imperial.\nQue a honra esteja sempre contigo.",
+        "pt-BR": "[Guardião Real]\nA partir de agora, comporte-se de forma digna de um Guardião Imperial.\nQue a honra esteja sempre contigo.",
         "es-ES": "[Caballero del Rey]\nA partir de ahora, compórtate como corresponde a un miembro de la Guardia Imperial.\nQue el honor te acompañe siempre."
     },
     "x8R/DA": {
         "en-US": "Knight of Devotion",
-        "pt-BR": "Cavaleira da Devoção",
+        "pt-BR": "Guardiã da Devoção",
         "es-ES": "Caballera de la Devoción"
     },
     "yMR/DA": {
         "en-US": "[Knight of Devotion]\nLet's have a good fight.",
-        "pt-BR": "[Cavaleira da Devoção]\nVamos ter uma boa luta.",
+        "pt-BR": "[Guardiã da Devoção]\nVamos ter uma boa luta.",
         "es-ES": "[Caballera de la Devoción]\nTengamos un buen combate."
     },
     "ycR/DA": {
         "en-US": "Knight of Armament",
-        "pt-BR": "Cavaleiro do Armamento",
+        "pt-BR": "Guardião de Armadura",
         "es-ES": "Caballero del Armamento"
     },
     "ysR/DA": {
         "en-US": "[Knight of Armament]\nLet's have a good fight.",
-        "pt-BR": "[Cavaleiro do Armamento]\nVamos ter uma boa luta.",
+        "pt-BR": "[Guardião de Armadura]\nVamos ter uma boa luta.",
         "es-ES": "[Caballero de las Armas]\nTengamos un buen combate."
     }
 }

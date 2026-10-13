@@ -16,17 +16,17 @@
     },
     "Y4JwDA": {
         "en-US": "[Rumin]\nHmm... I was looking for someone, and... Sorry, you're not it.\nDon't be disappointed.\nYou're talented in your own way.",
-        "pt-BR": "[Rumin]\nHum... Eu estava procurando por alguém, desculpa. Você não é o talento que eu esperava.\nMas não fique desapontado por causa disso.\nVocê tem o seu próprio charme, não é?",
+        "pt-BR": "[Rumin]\nHum... Eu estava procurando por alguém, desculpa. Você não é quem eu esperava.\nMas não se desaponte por causa disso.\nVocê tem o seu próprio charme, não é?",
         "es-ES": "[Rumin]\nMmm... Estaba buscando a alguien, lo siento. No eres el talento que esperaba.\nPero no te desanimes.\nTienes tu propio encanto, ¿no?"
     },
     "ZIJwDA": {
         "en-US": "[Rumin]\nI'm looking for someone.\nSomeone like you, an awesome Guillotine Cross who's reached the Maximum Level.\nYou, if you just push a little harder, you could be the talent I'm looking for?",
-        "pt-BR": "[Rumin]\nEstou procurando por alguém.\nUm amigo Sicário tão incrível como você e que tenha atingido o nível máximo.\nSe você se esforçar um pouquinho mais, poderá se tornar o talento que eu estava procurando, não é?",
+        "pt-BR": "[Rumin]\nEstou procurando por alguém.\nAlgum Sicário tão incrível como você e que tenha atingido o nível máximo.\nSe você se esforçar um pouquinho mais, poderá se tornar a pessoa que eu estava procurando, que tal?",
         "es-ES": "[Rumin]\nEstoy buscando a alguien.\nMe refiero a un amigo que sea un Guillotine Cross tan genial como tú y que haya llegado al límite de nivel.\nSi te esfuerzas un poco más, ¿te convertirás en el talento que estaba buscando?"
     },
     "ZYJwDA": {
         "en-US": "^4D4DFF There is a trial event for the 4th job, Shadow Cross.\nBase Level 200 or higher, can be advanced with a Guillotine Cross.^000000",
-        "pt-BR": "^4D4DFF Há um teste para a 4ª classe, Executor.\nÉ possível participar se você for um Sicário de nível de base 200 ou mais.^000000",
+        "pt-BR": "^4D4DFFPara fazer o teste de mudança de classe,\nvocê precisa ser um Sicário de nível de base 200 ou mais.^000000",
         "es-ES": "^4D4DFF Hay un evento de prueba para la cuarta clase, Ejecutor.\nPuedes participar si tienes un nivel base de 200 o más y eres un Guillotine Cross heredado.^000000"
     },
     "ZoJwDA": {
@@ -41,7 +41,7 @@
     },
     "aIJwDA": {
         "en-US": "[Rumin]\nRecently, the Guild has been collecting information with Mayssel and Verkhasel in the lead,\nand they've just discovered some decisive clue.",
-        "pt-BR": "[Rumin]\nRecentemente, sob a liderança de Mayssel e Verkhasel, a guilda vem coletando algumas informações,\ne parece que eles acabaram de conseguir uma pista importante.",
+        "pt-BR": "[Rumin]\nRecentemente, sob a liderança de Mayssel e Verkhasel, a guilda vem coletando algumas informações sobre uma missão secreta,\ne parece que eles acabaram de conseguir uma pista importante.",
         "es-ES": "[Rumin]\nHace poco, bajo la dirección de Meisel y Verkasel, el gremio estaba recopilando información,\ny parece que hace unos días dieron con una pista decisiva."
     },
     "aYJwDA": {
@@ -51,7 +51,7 @@
     },
     "aoJwDA": {
         "en-US": "[Rumin]\nVerkhasel is waiting for you at the safehouse in the eastern Veins district. You should go there now.\nVerkhasel will tell you more about the operation.",
-        "pt-BR": "[Rumin]\nOs outros colegas estão te esperando no esconderijo no distrito leste de Veins, então vá lá agora mesmo.\nVerkhasel vai te dar mais detalhes.",
+        "pt-BR": "[Rumin]\nOs outros colegas estão te esperando no esconderijo em Veins, então vá lá agora mesmo.\nVerkhasel vai te dar mais detalhes.",
         "es-ES": "[Rumin]\nTus compañeros te están esperando en un refugio del distrito este de Bains, así que ve ahí ahora mismo.\nVerkhasel te dará todos los detalles."
     },
     "a4JwDA": {
@@ -61,7 +61,7 @@
     },
     "bIJwDA": {
         "en-US": "[Rumin]\nI only heard it's in the eastern Veins district, but wouldn't knocking on every door one by one tell us?",
-        "pt-BR": "[Rumin]\nSó ouvi dizer que é ^4D4DFFno interior do distrito leste de Veins^000000, mas se você bater em cada porta, uma por uma, vai descobrir, não é?",
+        "pt-BR": "[Rumin]\nSó ouvi dizer que é ^4D4DFFno interior de uma casa leste dentro de Veins^000000, mas se você bater em cada porta, uma por uma, vai descobrir, não é?",
         "es-ES": "[Rumin]\nSolo me dijeron que es ^4D4DFFen un lugar recóndito del distrito este de Bains^000000, pero ¿no crees que lo descubrirás si vas tocando puerta por puerta?"
     },
     "bYJwDA": {
@@ -71,17 +71,17 @@
     },
     "boJwDA": {
         "en-US": "[Rumin]\nGo to the safehouse in the eastern Veins district.\nYou don't think you can find it?\nAlright, then I'll plant some plants nearby. Would that help?",
-        "pt-BR": "[Rumin]\nVá até o esconderijo no distrito leste de Veins.\nNão sabe onde fica...?\nNão tem jeito. Vou plantar umas ervas por perto. Isso vai te ajudar, certo?",
+        "pt-BR": "[Rumin]\nVá até o esconderijo no interior de uma casa leste dentro de Veins.\nNão sabe onde fica...?\nNão tem jeito. Vou plantar umas ervas por perto. Isso vai te ajudar, certo?",
         "es-ES": "[Rumin]\nVe a buscar la casa escondida en el distrito este de Bains.\n¿Que no sabes dónde está?\nNo hay más remedio. Voy a plantar unas plantas cerca. Así podrás encontrarla, ¿no?"
     },
     "b4JwDA": {
         "en-US": "[Rumin]\nI'll be really disappointed in you if you can't find it even after this.\nThey'll be disappointed in me, too, for sending someone so incompetent their way.",
-        "pt-BR": "[Rumin]\nSe você não conseguir encontrar mesmo depois de tudo isso, vou ficar muito decepcionado.\nPediram pra eu selecionar e enviar talentos, e se eu não conseguir, vou levar uma bronca também...",
+        "pt-BR": "[Rumin]\nSe você não conseguir encontrar mesmo depois de tudo isso, vou ficar muito decepcionado.\nPediram pra eu selecionar e enviar o melhor dos melhores, e se eu não conseguir, vou levar uma bronca também...",
         "es-ES": "[Rumin]\nSi no la encuentras después de todo lo que hice, me voy a decepcionar muchísimo.\nMe pidieron que seleccionara y enviara a gente con talento, y si no lo hago, me van a regañar..."
     },
     "cIJwDA": {
         "en-US": "[Rumin]\nDo you have any more business with me?\nRight now, I'm like a talent scout.\nI find promising adventurers and throw them into the darkness.",
-        "pt-BR": "[Rumin]\nTem mais alguma coisa pra falar comigo?\nNo momento, sou tipo um caçador de talentos.\nEstou procurando talentos promissores pra jogar na escuridão.",
+        "pt-BR": "[Rumin]\nTem mais alguma coisa pra falar comigo?\nNo momento, estou concentrado em observar os melhores sicários.\nEstou procurando talentos promissores que aguentam a escuridão dentro do corpo.",
         "es-ES": "[Rumin]\n¿Qué más necesitas de mí?\nAhora soy como un seleccionador de pollitos.\nMe dedico a buscar pollitos prometedores y lanzarlos a la oscuridad."
     },
     "cYJwDA": {
@@ -96,17 +96,17 @@
     },
     "c4JwDA": {
         "en-US": "[Verkhasel]\n...?\nAn uninvited guest, I see.\nWould you kindly leave?",
-        "pt-BR": "[Verkhasel]\n ...?\nUm convidado indesejado.\nPoderia se retirar?",
+        "pt-BR": "[Verkhasel]\n ...?\nAlguém indesejado.\nPoderia se retirar?",
         "es-ES": "[Verkhasel]\n ...? Un invitado no deseado.\n¿Te irías en silencio?"
     },
     "dIJwDA": {
         "en-US": "[Verkhasel]\n{0}?\nDid Rumin send you?\nThis explains why he told us not to worry.",
-        "pt-BR": "[Verkhasel]\n{0}?\nDisseram que mandariam um talento que valesse a pena. Esse talento seria você?\nJá percebo por que o Rumin estava tão confiante.",
+        "pt-BR": "[Verkhasel]\n{0}?\nDisseram que mandariam uma pessoa que valesse a pena. Essa pessoa seria você?\nJá vi por que o Rumin estava tão confiante.",
         "es-ES": "[Verkhasel]\n{0}?\nDijiste que enviarías a alguien útil, ¿y ese eres tú?\nYa veo por qué Lumin estaba tan seguro."
     },
     "dYJwDA": {
         "en-US": "[Verkhasel]\nWell, the conditions are just right.\nWithout further ado, let me ask you something.\nHave you heard of the ^4D4DFFShadow Phenomenon^000000?",
-        "pt-BR": "[Verkhasel]\nBem, parece q está tudo certo.\nVou direto ao ponto.\nJá ouviu falar sobre o ^4D4DFFFenômeno Sombrio^000000?",
+        "pt-BR": "[Verkhasel]\nBem, parece que está tudo certo.\nVou direto ao ponto.\nJá ouviu falar sobre o ^4D4DFFFenômeno Sombrio^000000?",
         "es-ES": "[Verkhasel]\nAdemás, tus condiciones son adecuadas, lo cual es bueno.\nSin más preámbulos, te pregunto:\n¿Has oído hablar alguna vez del ^4D4DFFfenómeno de las sombras^000000?"
     },
     "doJwDA": {
@@ -121,12 +121,12 @@
     },
     "eIJwDA": {
         "en-US": "Did you want my attention...?",
-        "pt-BR": "Você queria que eu me interessasse...?",
+        "pt-BR": "Por que teria...?",
         "es-ES": "¿Querías que te prestara atención...?"
     },
     "eYJwDA": {
         "en-US": "[Verkhasel]\nLet's cut to the chase.\nThe ^4D4DFFShadow Phenomenon^000000 is traces left behind when a specific being stays in a place and then leaves.\nAnd that specific being...\nWe're calling it the ^4D4DFFDark Elemental^000000 for now, but its true identity is unknown.",
-        "pt-BR": "[Verkhasel]\nVamos direto ao ponto.\nO ^4D4DFFFenômeno Sombrio0} é um vestígio deixado quando uma entidade passa por um local.\nE essa entidade...\nPor enquanto, a chamamos de ^4D4DFFElemental Sombrio^000000, mas não sabemos sua verdadeira identidade.",
+        "pt-BR": "[Verkhasel]\nVamos direto ao ponto.\nO ^4D4DFFFenômeno Sombrio^000000 é um vestígio deixado quando uma entidade passa por um local.\nE essa entidade...\nPor enquanto, a chamamos de ^4D4DFFElemental Sombrio^000000, mas não sabemos sua verdadeira identidade.",
         "es-ES": "[Verkhasel]\nVamos al grano.\nEl ^4D4DFFFenómeno de la Sombra^000000 es como el rastro que queda cuando un ser se queda en un lugar y luego se va.\nY ese ser es...\nPor ahora lo llamamos ^4D4DFFEspíritu de la Oscuridad^000000, pero no sabemos su verdadera identidad."
     },
     "eoJwDA": {
@@ -136,22 +136,22 @@
     },
     "e4JwDA": {
         "en-US": "[Mayssel]\nLong time, no see.\nI haven't seen you since the last time we operated together.\nWhich is fine by me. I don't like mixing business with personal matters.",
-        "pt-BR": "[Mayssel]\nHá quanto tempo.\nParece que é a primeira vez que nos vemos desde a última missão.\nPrefiro assim, não gosto de misturar negócios com assuntos pessoais.",
+        "pt-BR": "[Mayssel]\nHá quanto tempo!\nParece que é a primeira vez que nos vemos desde a última missão.\nPrefiro assim, não gosto de misturar negócios com assuntos pessoais.",
         "es-ES": "[Meisel]\nHa sido un placer.\nCreo que es la primera vez que nos vemos desde la última misión.\nLa verdad es que esa distancia entre nosotros es perfecta."
     },
     "fIJwDA": {
         "en-US": "[Mayssel]\n^4D4DFFDark Elemental^000000, I'll just call it ^4D4DFFShadow^000000 for now.\nAfter all, I know this Shadow better than anyone else.",
-        "pt-BR": "[Mayssel]\n^4D4DFFElemental Sombrio^000000, vou chamá-lo simplesmente de ^4D4DFFSombra^000000.\nAfinal, ninguém entende melhor da Sombra do que eu.",
+        "pt-BR": "[Mayssel]\nVamos chamar o ^4D4DFFElemental Sombrio^000000 de, simplesmente, ^4D4DFFSombra^000000.\nAfinal, ninguém entende melhor das Sombras do que eu.",
         "es-ES": "[Meisel]\n^4D4DFFEspíritu de la Oscuridad^000000, lo llamaré simplemente ^4D4DFFsombra^000000.\nDespués de todo, soy quien mejor conoce las sombras."
     },
     "fYJwDA": {
         "en-US": "[Verkhasel]\nYes. She was fortunate enough to encounter the Shadow and gain its power.\nShe's even capable of commanding darkness.",
-        "pt-BR": "[Verkhasel]\nÉ isso mesmo. Mayssel conseguiu o poder das Sombras graças a uma conexão especial no passado.\nE passou a ser capaz de comandar a escuridão.",
+        "pt-BR": "[Verkhasel]\nÉ isso mesmo. Mayssel conseguiu o poder das Sombras graças a uma conexão especial no passado.\nE passou a ser capaz de controlar a escuridão.",
         "es-ES": "[Verkhasel]\nSí. Meisel pudo obtener el poder de las sombras gracias a un vínculo especial en el pasado.\nY así pudo aprender a usar la oscuridad."
     },
     "foJwDA": {
         "en-US": "[Mayssel]\nIt was by accident, but the Shadow can be really helpful to you, {0}.\nTo the Guild as well.",
-        "pt-BR": "[Mayssel]\nFoi por acaso, mas a Sombra pode ser um grande aliado para você, {0}.\nÉ claro que também seria benéfico para a Guilda obter esse poder.",
+        "pt-BR": "[Mayssel]\nEntendi que a Sombra pode ser um grande aliado para você, {0}.\nÉ claro que também seria benéfico para a Guilda obter esse poder.",
         "es-ES": "[Meisel]\nAunque fue una casualidad, las sombras te serán de gran ayuda, {0}.\nPor supuesto, también sería bueno que el gremio obtuviera ese poder."
     },
     "f4JwDA": {
@@ -171,7 +171,7 @@
     },
     "goJwDA": {
         "en-US": "[Mayssel]\nI'm grateful for that too. That's why we invited you here today.\nWe called you to share some very solid intelligence we received, but why did only you, Vicente, show up?",
-        "pt-BR": "[Mayssel]\nEu também sou muito grata por isso. Não foi por isso que te convidei?\nChamei-te porque recebi informações muito concretas desta vez e queria compartilhá-las, mas por que só o Vicente veio?",
+        "pt-BR": "[Mayssel]\nEu também sou muito grata por isso. Não foi por isso que te convidei?\nTe chamei porque recebi informações muito concretas desta vez e queria compartilhá-las, mas por que só Vicente veio?",
         "es-ES": "[Meisel]\nYo también te estoy muy agradecido por eso. ¿No es por eso que te invité?\nTe llamé para compartir información muy confiable que recibí esta vez, pero ¿por qué solo viniste tú, Vicente?"
     },
     "g4JwDA": {
@@ -186,7 +186,7 @@
     },
     "hYJwDA": {
         "en-US": "Vicente: I knew it! That's why Doomk hurried off to the Workshop. To design a new uniform.",
-        "pt-BR": "Vicente: Ora... Então Dumk já deve estar preparando o uniforme. Não me admira que tenha dito que iria para o Ateliê.",
+        "pt-BR": "Vicente: Ah... Por isso Dumk foi pro ateliê preparar novos uniformes.",
         "es-ES": "Vicente: Vaya... Entonces, el señor Dumk debe estar preparando los uniformes. Por eso decía que se iba al taller."
     },
     "hoJwDA": {
@@ -196,12 +196,12 @@
     },
     "h4JwDA": {
         "en-US": "What names?",
-        "pt-BR": "Que nome é esse!?",
+        "pt-BR": "E que nome foi escolhido?!",
         "es-ES": "¿Qué es eso!?"
     },
     "iIJwDA": {
         "en-US": "[Mayssel]\nWe've reorganized the group under the name ^4D4DFFShadow Cross^000000.\nIf you successfully acquire the power of the Shadow, you'll become a Shadow Cross, right?",
-        "pt-BR": "[Mayssel]\nReestruturei a organização com o nome ^4D4DFFExecutor^000000.\nSe você conseguir dominar e exercer o poder sobre as sombras, vai se tornar um Executor, certo?",
+        "pt-BR": "[Mayssel]\nSerão os ^4D4DFFExecutores^000000.\nSe você conseguir dominar e exercer o poder sobre as sombras, vai se tornar um Executor, viu?",
         "es-ES": "[Meisel]\nHemos reorganizado la organización con el nombre de ^4D4DFFEjecutor^000000.\nSi logras hacerte con el poder de la oscuridad, te convertirás en Ejecutor, ¿no?"
     },
     "iYJwDA": {
@@ -216,12 +216,12 @@
     },
     "i4JwDA": {
         "en-US": "[Verkhasel]\nWe share the information.\nBut that's all.\nNo one knows who will get their hands on it first.\nBut I believe in {0}, this guy.",
-        "pt-BR": "[Verkhasel]\nNós compartilhamos as informações.\nMas só até aí.\nNinguém sabe quem vai conseguir primeiro.\nMas eu, acredito nesse cara, {0}.",
+        "pt-BR": "[Verkhasel]\nNós compartilhamos as informações.\nMas só até aí.\nNinguém sabe quem vai conseguir primeiro.\nMas eu acredito em {0}.",
         "es-ES": "[Verkhasel]\nCompartimos la información.\nPero eso es todo.\nNadie sabe quién lo conseguirá primero.\nPero yo, {0}, confío en este chico."
     },
     "jIJwDA": {
         "en-US": "[Verkhasel]\nI bet Mayssel's secret handmade cookie set on {name} finding the Shadow more quickly than your candidate.",
-        "pt-BR": "[Verkhasel]\nAposto um pote de biscoitos caseiros da Mayssel que {name} vai encontrar o espírito das trevas antes de vocês.",
+        "pt-BR": "[Verkhasel]\nAposto um pote de biscoitos caseiros da Mayssel que {name} vai encontrar o espírito das Sombras antes de vocês.",
         "es-ES": "[Verkhasel]\nApostaré el juego de galletas caseras que Maycel tiene guardado a que te encontrarás con el espíritu de la oscuridad antes que ustedes."
     },
     "jYJwDA": {
@@ -231,7 +231,7 @@
     },
     "joJwDA": {
         "en-US": "[Mayssel]\nThen I'll break Verkhasel's third dagger.",
-        "pt-BR": "[Mayssel]\nEntão vou quebrar a terceira adaga do Verkhasel.",
+        "pt-BR": "[Mayssel]\nSe der errado eu vou quebrar a adaga do Verkhasel pela 3ª vez.",
         "es-ES": "[Meisel]\nEntonces romperé la tercera daga de Verkhasel."
     },
     "j4JwDA": {
@@ -241,7 +241,7 @@
     },
     "kIJwDA": {
         "en-US": "[Vicente]\nYou guys are so confident, aren't you? Well, we too have an ace up our sleeve.\nBet whatever you want--cookies or daggers.",
-        "pt-BR": "[Vicente]\nVocês estão muito confiantes, não é? Acham que do nosso lado não temos talentos também?\nSeja biscoito ou adaga, tanto faz.",
+        "pt-BR": "[Vicente]\nVocês estão muito confiantes, não é? Acham que do nosso lado não temos os melhores Renegados também?\nSeja biscoito ou adaga, tanto faz.",
         "es-ES": "[Vicente]\n¿Todos están tan seguros? ¿Acaso creen que por aquí no hay talento?\nYa que me da igual si son galletas o dagas."
     },
     "kYJwDA": {
@@ -251,7 +251,7 @@
     },
     "koJwDA": {
         "en-US": "[Mayssel]\nYes. The information we've obtained this time matches what I recall.\nThe Shadow Phenomenon has most recently been sighted in the fields near Veins and Rachel.\nThe witnesses are village children.",
-        "pt-BR": "[Mayssel]\nSim. As informações que conseguimos desta vez correspondem com o que já temos.\nO local onde o Fenômeno Sombrio foi avistado mais recentemente é nos campos próximos a Veins e Rachel.\nAs testemunhas são as crianças da vila.",
+        "pt-BR": "[Mayssel]\nSim. As informações que conseguimos desta vez correspondem com o que já temos.\nO local onde o Fenômeno Sombrio foi avistado mais recentemente é nos campos entre Veins e Rachel.\nAs testemunhas são as crianças da vila.",
         "es-ES": "[Meisel]\nSí. La información que has conseguido esta vez coincide con lo que yo recuerdo.\nEl lugar donde se ha visto el fenómeno de las sombras más recientemente es en los campos cercanos a Bains y Rahel.\nLos que lo vieron fueron unos niños del pueblo."
     },
     "k4JwDA": {
@@ -311,12 +311,12 @@
     },
     "noJwDA": {
         "en-US": "[Verkhasel]\nYou've found something, haven't you?\nIt asked you to call it back in a dark place, huh.\nThen, we'd better find one quickly.",
-        "pt-BR": "[Verkhasel]\nParece que você encontrou alguma coisa.\nEle disse para chamá-lo novamente em um lugar escuro...\nEntão, precisamos encontrar um local adequado.",
+        "pt-BR": "[Verkhasel]\nParece que você encontrou alguma coisa.\nEle disse para chamá-lo novamente em um lugar escuro...?\nEntão, precisamos encontrar um local adequado.",
         "es-ES": "[Verkhasel]\nParece que has tenido suerte.\nDijo que lo volvieras a llamar en un lugar oscuro...\nSolo hay que buscar un lugar adecuado."
     },
     "n4JwDA": {
         "en-US": "[Verkhasel]\nAh! I know a suitable place.\nRemember the mansion we visited for our last mission?\nIt's always shady, built in a valley.",
-        "pt-BR": "[Verkhasel]\nAh! Conheço um bom lugar para isso.\nPor acaso você se lembra daquela mansão que visitamos na última missão?\nFica entre dois desfiladeiros, então está sempre coberta por sombras.",
+        "pt-BR": "[Verkhasel]\nAh! Conheço um bom lugar para isso.\nPor acaso você se lembra daquela mansão que visitamos na última missão?\nFica entre dois desfiladeiros, então está sempre na escuridão.",
         "es-ES": "[Verkhasel]\n¡Ah! Hay un lugar adecuado.\n¿Te acuerdas de esa mansión donde estuvimos en la misión anterior?\nEstá entre dos barrancos, así que siempre está a la sombra."
     },
     "oIJwDA": {
@@ -331,7 +331,7 @@
     },
     "ooJwDA": {
         "en-US": "[Verkhasel]\nI'll discuss that part separately with Mayssel.\n{0}.\nFirst, find Crystals of Darkness and Dark Pieces.",
-        "pt-BR": "[Verkhasel]\nVamos deixar essa parte para eu discutir depois com a Mayssel.\n{0}.\nPrimeiro, encontre o “Cristal da Escuridão” e o “Fragmento Sombrio”.",
+        "pt-BR": "[Verkhasel]\nVamos deixar essa parte para eu discutir depois com a Mayssel.\n{0}.\nPrimeiro, traga “Cristal da Escuridão” e o “Fragmento Sombrio”.",
         "es-ES": "[Verkhasel]\nDe ese tema hablaré por separado con Meisel.\n{0}.\nPrimero, busca el «Cristal de la Oscuridad» y el «Fragmento de la Oscuridad»."
     },
     "o4JwDA": {
@@ -341,7 +341,7 @@
     },
     "pIJwDA": {
         "en-US": "[Verkhasel]\nCrystals of Darkness and Dark Pieces should be dark enough to summon the elemental.\nWhen you gather them all, come to the location I told you.\nI'll have the place ready for you.",
-        "pt-BR": "[Verkhasel]\nO Cristal da Escuridão e o Fragmento Sombrio devem ser suficientes para invocar um espírito.\nQuando reunir tudo, basta ir ao local que indiquei.\nVou preparar tudo para que você possa entrar imediatamente.",
+        "pt-BR": "[Verkhasel]\nO Cristal da Escuridão e o Fragmento Sombrio devem ser suficientes para invocar a Sombra.\nQuando reunir tudo, basta ir ao local que indiquei.\nVou preparar tudo para que você possa entrar imediatamente.",
         "es-ES": "[Verkhasel]\nCon el Cristal de la Oscuridad y el Fragmento de la Oscuridad debería bastar para invocar a un espíritu.\nCuando los tengas todos, ven al lugar que te indiqué.\nLo prepararé para que puedas entrar de inmediato."
     },
     "pYJwDA": {
@@ -366,17 +366,17 @@
     },
     "qYJwDA": {
         "en-US": "[Vicente]\nOh? An uninvited guest, are we?\nI'm sorry, but this house already has an owner.\nCould you go pick a different house?",
-        "pt-BR": "[Vicente]\nO quê? Você não foi convidado, não é mesmo?\nDesculpe, mas esta casa já tem dono.\nVocê poderia escolher outra casa?",
+        "pt-BR": "[Vicente]\nHã? Não te convidaram, não é mesmo?\nDesculpe, mas esta casa já tem dono.\nVocê poderia escolher outra casa?",
         "es-ES": "[Vicente]\n¿Qué? ¿Eres un invitado no deseado?\nLo siento, pero esta casa ya tiene dueño.\n¿Podrías elegir otra casa?"
     },
     "qoJwDA": {
         "en-US": "[Vicente]\nAre you the Assassin Guild's candidate?\nAh, I'm the manager of the Shadow Workshop's Lighthalzen branch.",
-        "pt-BR": "[Vicente]\nVocê é o candidato da Guilda dos Mercenários?\nAh, eu sou o gerente do Ateliê das Sombras em Lighthalzen.",
+        "pt-BR": "[Vicente]\nVocê pertence à Guilda dos Sicários?\nAh, eu sou o gerente do Ateliê Sombrio em Lighthalzen.",
         "es-ES": "[Vicente]\n¿Eres tú el elegido por el Gremio de Asesinos?\nAh, soy el gerente de la sucursal de Lichtharzen del Taller de las Sombras."
     },
     "q4JwDA": {
         "en-US": "[Vicente]\nThe Workshop is under the Rogue Guild, and mainly specializes in providing Shadow Chasers with supplies that they need.\nBut when you get down to it, we're just one big family, right?\nThis time I'm here to exchange information.",
-        "pt-BR": "[Vicente]\nO Ateliê pertence à Guilda dos Arruaceiros e geralmente fornecemos suprimentos para os Renegados.\nMas, no fim das contas, somos todos da mesma família, não é mesmo?\nDesta vez, vim aqui para trocar informações.",
+        "pt-BR": "[Vicente]\nO Ateliê pertence à Guilda dos Renegados e geralmente fornecemos suprimentos para nossos afiliados.\nMas, no fim das contas, somos todos da mesma família, não é mesmo?\nDesta vez, vim aqui para trocar informações.",
         "es-ES": "[Vicente]\nAunque pertenecemos al Gremio de Logos, por lo general les proporcionamos suministros a los Cazadores de Sombras.\n¿Acaso no somos como una misma familia?\nEsta vez he venido para intercambiar información."
     },
     "rIJwDA": {
@@ -406,12 +406,12 @@
     },
     "sYJwDA": {
         "en-US": "Villager: Hey, what are you doing over there?",
-        "pt-BR": "Morador: Tem algo pra ver aí?",
+        "pt-BR": "Morador: O que você tá fazendo aí?",
         "es-ES": "Pueblo: ¿Qué haces ahí?"
     },
     "soJwDA": {
         "en-US": "[Villager]\nAre you an adventurer?\nThere's nothing but fish traps and fishing nets over there. What are you looking for?\nI came here to see if my son was playing with the fishing nets.",
-        "pt-BR": "[Morador da vila]\nVocê é um aventureiro?\nAí só deve ter armadilhas para peixes ou redes de pesca, o que você está procurando?\nAliás, meu filho tem zanzado por aqui e eu vim ver se ele não estava brincando com as redes...",
+        "pt-BR": "[Morador de Veins]\nVocê é um desses aventureiros?\nAí só deve ter redes de pesca, o que você está procurando?\nAliás, meu filho tem zanzado por aqui e eu vim ver se ele não estava brincando com as redes...",
         "es-ES": "[Pueblo]\n¿No eres un aventurero?\nAhí solo hay nasas y redes, ¿qué haces ahí?\nJusto venía a ver si mi hijo había estado haciendo travesuras con las redes por aquí..."
     },
     "s4JwDA": {
@@ -421,37 +421,37 @@
     },
     "tIJwDA": {
         "en-US": "[Villager]\nRecently, my son and some other village kids have been hanging out here often to play.\nBut as you know, this isn't exactly a safe place for them to be.",
-        "pt-BR": "[Morador da vila]\nUltimamente, meu filho e algumas crianças da vila têm se reunido pra brincar aqui com frequência.\nMas este lugar não é exatamente seguro, não é mesmo?",
+        "pt-BR": "[Morador de Veins]\nUltimamente, meu filho e algumas crianças da vila têm se reunido pra brincar aqui com frequência.\nMas este lugar não é exatamente seguro, não é mesmo?",
         "es-ES": "[Vecino]\nÚltimamente, mi hijo y unos cuantos niños del pueblo se juntan y juegan aquí a menudo.\nPero este no es un lugar muy seguro, ¿no?"
     },
     "tYJwDA": {
         "en-US": "[Villager]\nSo today, I told him to stay in the village and play quietly, but he insisted he had to come here.\nHe said he promised to see someone here, hidden away in those nets.",
-        "pt-BR": "[Morador da vila]\nPor isso, hoje eu disse pra ele ficar quietinho brincando na vila, mas ele disse que tinha que vir aqui.\nFalou que tinha que encontrar alguém, alguém escondido no meio das redes, algo assim.",
+        "pt-BR": "[Morador de Veins]\nPor isso, hoje eu disse pra ele ficar quietinho brincando na vila, mas ele disse que tinha que vir aqui.\nFalou que tinha que encontrar alguém, alguém escondido no meio das redes, algo assim.",
         "es-ES": "[Vecino]\nPor eso le dije que hoy se quedara en el pueblo y se portara bien, pero me dijo que tenía que venir aquí sí o sí.\nMe dijo que iba a ver a alguien, que lo tenía bien escondido en la red y cosas así."
     },
     "toJwDA": {
         "en-US": "[Villager]\nI came to see if he caught something with a net.\nWhat about you, adventurer?",
-        "pt-BR": "[Morador da vila]\nFiquei pensando se ele teria pescado alguma coisa com a rede, então vim dar uma olhada.\nE você? O que está fazendo por aqui, aventureiro?",
+        "pt-BR": "[Morador de Veins]\nFiquei pensando se ele teria pescado alguma coisa, então vim dar uma olhada.\nE você? O que está fazendo por aqui, viajante?",
         "es-ES": "[Vecino]\nPensé que tal vez habían pescado algo con la red o que tenían algo atrapado ahí, así que vine a ver,\ny sí. ¿Qué pasa, aventurero?"
     },
     "t4JwDA": {
         "en-US": "I'm looking for witnesses for an investigation.",
-        "pt-BR": "Estou procurando testemunhas para uma investigação.",
+        "pt-BR": "Estou atrás de testemunhas.",
         "es-ES": "Estoy buscando testigos para la investigación."
     },
     "uIJwDA": {
         "en-US": "[Villager]\nHmm. I see.\nI don't know much myself, but my son has been hanging around here a lot lately. You should ask him.",
-        "pt-BR": "[Morador da vila]\nHum. É mesmo?\nEu não sei de nada, mas quem anda por aqui o tempo todo é o meu filho, você deveria perguntar a ele.",
+        "pt-BR": "[Morador de Veins]\nOh. É mesmo?\nEu não sei de nada, mas quem anda por aqui o tempo todo é o meu filho, você deveria perguntar a ele.",
         "es-ES": "[Pueblo]\nMmm. Ya veo.\nYo no sé nada en particular, pero mi hijo ha estado yendo y viniendo por aquí sin parar últimamente, así que pregúntale a él."
     },
     "uYJwDA": {
         "en-US": "[Villager]\nBy now, he must be playing by the entrance to the village.\nHuh? His name? Oh, I forgot to tell you, didn't I?\nIt's Tori.",
-        "pt-BR": "[Morador da vila]\nEle deve estar brincando na entrada da vila agora.\nHã? O nome do meu filho? Ah... eu não te disse, né?\nChama-se Tori.",
+        "pt-BR": "[Morador de Veins]\nEle deve estar brincando na entrada de Veins agora.\nHã? O nome do meu filho? Ah... eu não te disse, né?\nChama-se Tori.",
         "es-ES": "[Pueblo]\nA estas horas estará jugando en la entrada del pueblo.\n¿Eh? ¿El nombre de mi hijo? Ah... se me había olvidado.\nSe llama Tori."
     },
     "uoJwDA": {
         "en-US": "[Villager]\nWell, if you don't see him nearby, just shout out \"Tori!\" Hah hah hah.\nNow, if you'll excuse me, I'd better go back. I've confirmed the net is in good shape.",
-        "pt-BR": "[Morador da vila]\nBem, se não conseguir encontrá-lo, é só gritar bem alto “Tori!”. Hahaha.\nEntão, eu vou indo. Já verifiquei que a rede está intacta.",
+        "pt-BR": "[Morador de Veins]\nBem, se não conseguir encontrá-lo, é só gritar bem alto “TORI!”. Hahaha.\nEntão, eu vou indo. Já verifiquei que a rede está intacta.",
         "es-ES": "[Vecino]\nBueno, si no lo ves por ahí, grita fuerte «¡Tori!». Jajaja.\nBueno, yo me voy. Ya confirmé que la red está intacta."
     },
     "u4JwDA": {
@@ -466,7 +466,7 @@
     },
     "vYJwDA": {
         "en-US": "Hey! Blacky!",
-        "pt-BR": "Ei! Blacky!",
+        "pt-BR": "Ei! Vultinho!",
         "es-ES": "¡Oye, Negrito!"
     },
     "voJwDA": {
@@ -476,42 +476,42 @@
     },
     "v4JwDA": {
         "en-US": "[Blacky]\nWhat is it, human?\nErr? You're not one of those tiny ones.\nWhat did you call me?",
-        "pt-BR": "[Blacky]\nO que é isso, humano?\nÃh? Você não é como os humanos pequenos.\nO que você quer de mim?",
+        "pt-BR": "[Vultinho]\nO que é isso, humano?\nHã? Você não é como os humanos pequenos.\nO que você quer de mim?",
         "es-ES": "[Negrito]\n¿Qué pasa? Humano.\n¿Qué es esto? No son los humanos pequeños.\n¿Qué quieres de mí?"
     },
     "wIJwDA": {
         "en-US": "[Blacky]\nUgh... This place is way too bright for my liking.\nI'm losing my bodyyyy...\nDarkness... I need darkness... Aaahh...",
-        "pt-BR": "[Blacky]\nUgh... A luz do sol está muito forte aqui.\nEu estou ficando fraco...\nPreciso de escuridão, preciso de escuridão. Aaaah...",
+        "pt-BR": "[Vultinho]\nUgh... A luz do sol está muito forte aqui.\nEu estou ficando fraco...\nPreciso de escuridão, preciso de escuridão. Aaaah...",
         "es-ES": "[Negrito]\nUgh... Aquí entra demasiado sol.\nMe estoy debilitandooo...\nNecesito oscuridad, oscuridad. Aaaah..."
     },
     "wYJwDA": {
         "en-US": "[Blacky]\nYeah, those kids had their limits. You're an adult, aren't you?\nTake this body to a place filled with darkness and no light!",
-        "pt-BR": "[Blacky]\nÉ, aqueles pequenos tinham seus limites. Você, você é um adulto, não é?\nLeve-me para um lugar cheio de escuridão, onde não entre luz!",
+        "pt-BR": "[Vultinho]\nÉ, aqueles pequenos tinham seus limites. Você, você é um adulto, não é?\nLeve-me para um lugar cheio de escuridão, onde não entre luz!",
         "es-ES": "[Negrito]\nSí, esos chiquillos tenían sus límites. Tú, tú ya eres un adulto, ¿no?\n¡Llévame a un lugar lleno de oscuridad donde no entre la luz!"
     },
     "woJwDA": {
         "en-US": "[Blacky]\nI refuse to perish in this wilderness! It took me so long to reach this human realm.\nCall me again somewhere dark, and I'll grant you one wish.",
-        "pt-BR": "[Blacky]\nNão posso simplesmente desaparecer assim no deserto! Depois de tanto esforço para chegar aqui.\nSe me levar para um lugar onde não haja luz, eu concederei qualquer desejo!",
+        "pt-BR": "[Vultinho]\nNão posso simplesmente desaparecer assim no deserto! Depois de tanto esforço para chegar aqui.\nSe me levar para um lugar onde não haja luz, eu concederei qualquer desejo!",
         "es-ES": "[Negrito]\n¡No puedo desaparecer así en este páramo! ¿Cómo voy a salir de aquí?\n¡Si me llevas a un lugar donde no entre la luz, te concederé cualquier deseo!"
     },
     "w4JwDA": {
         "en-US": "[Blacky]\nI don't forget any favors done for me.\nI'll put a shadowy tail on you. Call me when you find a suitable place for me.",
-        "pt-BR": "[Blacky]\nVou retribuir esse favor com certeza.\nDeixarei com você uma sombra da minha cauda. Assim, poderá me chamar quando estiver em um lugar adequado.",
+        "pt-BR": "[Vultinho]\nVou retribuir esse favor com certeza.\nDeixarei com você o poder das Sombras. Assim, poderá me chamar quando estiver em um lugar adequado.",
         "es-ES": "[Kkaman-i]\nTe devolveré el favor sin falta.\nTe pondré una sombra de cola, así que avísame cuando tengas un lugar adecuado."
     },
     "xIJwDA": {
         "en-US": "How can I call you?",
-        "pt-BR": "Como posso te chamar?",
+        "pt-BR": "Como posso te invocar?",
         "es-ES": "¿Cómo me llamas?"
     },
     "xYJwDA": {
         "en-US": "[Blacky]\nIt's simple. Find objects filled with darkness and use them to call me.\nIn this world, there are many dark objects. Crystals of Darkness and Dark Pieces, for instance.",
-        "pt-BR": "[Blacky]\nIsso é simples. Use um objeto repleto de escuridão para me chamar.\nExistem muitas coisas envoltas em escuridão neste mundo, como Cristais da Escuridão e Fragmentos Sombrios.",
+        "pt-BR": "[Vultinho]\nIsso é simples. Use um objeto repleto de escuridão para me chamar.\nExistem muitas coisas envoltas em escuridão neste mundo, como Cristais da Escuridão e Fragmentos Sombrios.",
         "es-ES": "[Negrito]\nEso es fácil. Llama a este cuerpo con un objeto en el que se haya condensado la oscuridad.\nEn el mundo existen cosas como runas de la oscuridad o fragmentos de oscuridad."
     },
     "xoJwDA": {
         "en-US": "[Blacky]\nI used those kids' Crystals of Darkness to cross over to this realm, but... Ugh, I didn't know it was so bright...",
-        "pt-BR": "[Blacky]\nEu usei o Cristal da Escuridão que os pequenos tinham para entrar neste mundo, mas... ah... aqui tem muita luz...",
+        "pt-BR": "[Vultinho]\nEu usei o Cristal da Escuridão que as crianças tinham para entrar neste mundo, mas... ah... aqui tem muita luz...",
         "es-ES": "[Negrito]\nAunque logré entrar en este mundo usando el runa de la oscuridad que tenían los chiquillos... Ay... Aquí hay luz..."
     },
     "x4JwDA": {
@@ -526,12 +526,12 @@
     },
     "yYJwDA": {
         "en-US": "Villager",
-        "pt-BR": "Morador da vila",
+        "pt-BR": "Morador de Veins",
         "es-ES": "Gente del pueblo"
     },
     "yoJwDA": {
         "en-US": "Blacky",
-        "pt-BR": "Blacky",
+        "pt-BR": "Vultinho",
         "es-ES": "Kkaman"
     },
     "y4JwDA": {
@@ -556,7 +556,7 @@
     },
     "z4JwDA": {
         "en-US": "[Noah]\nHe should be around here somewhere.\nHe'll come out if you call him.\nAdventurer, can you shout loudly? Because you have to shout for him. Noah can't do it.",
-        "pt-BR": "[Noah]\nAcho que ele deve estar por aqui.\nSe você chamar bem alto, ele vai aparecer.\nVocê tem uma voz forte, aventureiro? Chama bem alto. A garganta da Noah tá doendo.",
+        "pt-BR": "[Noah]\nAcho que ele deve estar por aqui.\nSe você chamar bem alto, ele vai aparecer.\nVocê tem uma voz boa? Grite bem alto. Minha garganta já tá doendo.",
         "es-ES": "[Noah]\n¿No estará por aquí?\nSi la llamas fuerte, seguro que sale.\n¿Tienes buena voz, aventurero? Llámala fuerte. A Noah le duele la garganta."
     },
     "0IJwDA": {
@@ -606,7 +606,7 @@
     },
     "2YJwDA": {
         "en-US": "Noah: An adventurer came looking for you.",
-        "pt-BR": "Noah: Um aventureiro veio te ver.",
+        "pt-BR": "Noah: Essa pessoa veio te ver.",
         "es-ES": "Noah: ¿Pero si ha venido a visitarte el aventurero?"
     },
     "2oJwDA": {
@@ -626,7 +626,7 @@
     },
     "3YJwDA": {
         "en-US": "[Tori]\nHuh? That's not the adventurer from back then.\nUgh, what was that? You scared me.\nNot long ago, I picked up something an adventurer dropped.",
-        "pt-BR": "[Tori]\nHã? Não é o aventureiro de antes.\nAh, qual é! Você me assustou.\nHá um tempo atrás, eu encontrei um objeto que um aventureiro deixou cair.",
+        "pt-BR": "[Tori]\nHã? Não é o cara de antes.\nAh, qual é! Você me assustou.\nHá um tempo atrás, eu encontrei um objeto que um aventureiro deixou cair.",
         "es-ES": "[Tori]\n¿Eh? No eres ese aventurero de antes.\nAy, qué, me has dado un susto.\nHace poco recogí algo que se le había caído a un aventurero."
     },
     "3oJwDA": {
@@ -636,57 +636,57 @@
     },
     "34JwDA": {
         "en-US": "[Noah]\nBlacky ate it. That thing.",
-        "pt-BR": "[Noah]\nFoi o Blacky que comeu... aquilo.",
+        "pt-BR": "[Noah]\nFoi o Vultinho que comeu... aquilo.",
         "es-ES": "[Noah]\nKkaman se lo comió. Eso."
     },
     "4IJwDA": {
         "en-US": "Is Blacky a friend too?",
-        "pt-BR": "O Blacky é seu amigo também?",
+        "pt-BR": "O Vultinho é seu amigo também?",
         "es-ES": "¿Kkaman-i también es tu amigo?"
     },
     "4YJwDA": {
         "en-US": "[Tori]\nNo. No, wait. Now that I think about it, it's Blacky. It's getting lighter and lighter... Huh?\nAdventurer! You're the one taking requests, right?\nSave Blacky!",
-        "pt-BR": "[Tori]\nNão. Espera aí. Pensando melhor, é o Blacky. Ele está ficando cada vez mais claro... Hã?\nAventureiro! Você aceita missões, não é?\nSalve o Blacky!",
+        "pt-BR": "[Tori]\nAh! O Vultinho! Ele está ficando cada vez mais claro...!\nViajante! Você aceita missões, não é?\nSalve o Vultinho!",
         "es-ES": "[Tori]\nNo. No lo es. Ahora que lo pienso, sí es Kkaman-i. Se está volviendo cada vez más pálido... ¿Eh?\n¡Aventurero! ¿Eres el que recibe encargos, verdad?\n¡Salva a Kkaman-i!"
     },
     "4oJwDA": {
         "en-US": "[Tori]\nI found a shiny, shiny black bead! It was so pretty I hid it because I was afraid someone would take it if I showed it off.",
-        "pt-BR": "[Tori]\nEu encontrei uma bolinha preta brilhante! Era tão bonita que, com medo de que roubassem de mim, eu a escondi.",
+        "pt-BR": "[Tori]\nEu encontrei uma bolinha sombria e brilhante! Era tão bonita que, com medo de que roubassem de mim, eu a escondi.",
         "es-ES": "[Tori]\n¡Encontré una bolita negra que brilla! Era tan bonita que, mientras la presumía, me dio miedo que me la quitaran, así que la escondí."
     },
     "44JwDA": {
         "en-US": "[Noah]\nIt's at the beach, at a small dock. I hid it deep inside a net container!\nThen a black fairy popped out. It's Blacky!",
-        "pt-BR": "[Noah]\nÉ na praia, num pequeno cais. Escondi bem escondido dentro de uma caixa de rede de pesca!\nEntão, uma fada preta apareceu de repente. É o Blacky!",
+        "pt-BR": "[Noah]\nÉ na praia, num pequeno cais. Escondi bem escondido dentro de uma caixa de rede de pesca!\nEntão, uma fada sombria apareceu de repente. É o Vultinho!",
         "es-ES": "[Noah]\nEstá en la playa, en un pequeño muelle. ¡La escondí bien escondida dentro de una caja de redes!\nY entonces salió un duendecito negro. ¡Es Kkaman!"
     },
     "5IJwDA": {
         "en-US": "[Tori]\nBlacky is a fairy, right? It says it's feeling weak. It says there should be more black ones.\nAdventurer, please look after Blacky.",
-        "pt-BR": "[Tori]\nO Blacky é uma fada, né? Ele diz q está ficando fraco. Diz que precisa de mais coisas pretas.\nAventureiro, cuide do Blacky.",
+        "pt-BR": "[Tori]\nO Vultinho é uma fada, né? Ele diz que está ficando fraco. Diz que precisa de mais coisas escuras.\nViajante, cuide do Vultinho.",
         "es-ES": "[Tori]\n¿Kkaman es un hada, verdad? Dice que no tiene energía. Dice que necesita más cosas negras.\nAventurero, por favor, échale un vistazo a Kkaman."
     },
     "5YJwDA": {
         "en-US": "Tori: Ask Blacky what it likes!",
-        "pt-BR": "Tori: Pergunte ao Blacky do que ele gosta!",
+        "pt-BR": "Tori: Pergunte ao Vultinho do que ele gosta!",
         "es-ES": "Tori: ¡Pregúntale a Kkaman qué le gusta!"
     },
     "5oJwDA": {
         "en-US": "Noah: Ask him!",
-        "pt-BR": "Noah: Pergunta!",
+        "pt-BR": "Noah: Pergunte!",
         "es-ES": "Noah: ¡Pregúntale!"
     },
     "54JwDA": {
         "en-US": "[Noah]\nBlacky... what If you look at the coastal landing?\nThere's a box where they store nets. He's hiding in there!",
-        "pt-BR": "[Noah]\nBlacky... e se você for até o cais à beira-mar?\nLá tem uma caixa onde guardam as redes. Ele está escondido lá!",
+        "pt-BR": "[Noah]\nVultinho... e se você for até o cais à beira-mar?\nLá tem uma caixa onde guardam as redes. Ele está escondido lá!",
         "es-ES": "[Noah]\nA Kkaman... ¿la ves en el embarcadero de la costa?\nAhí hay una caja donde guardan las redes. ¡Está escondida ahí!"
     },
     "6IJwDA": {
         "en-US": "[Noah]\nNoah and Tori can't go today, so Adventurer, please go check on him and feed Blacky. Okay?",
-        "pt-BR": "[Noah]\nComo a Noah e o Tori não podem ir lá hoje, o aventureiro vai ter que dar uma olhada e dar comida para o Blacky, tá?",
+        "pt-BR": "[Noah]\nComo eu e o Tori não podemos ir lá hoje, você vai ter que dar uma olhada e dar comida para o Vultinho, tá?",
         "es-ES": "[Noah]\nComo Noah y Tori no podemos ir hoy, ve tú, aventurero, a ver a Kkaman-i y dale de comer. ¿Sí?"
     },
     "6YJwDA": {
         "en-US": "[Noah]\nNoah always plays with Tori.",
-        "pt-BR": "[Noah]\nNoah sempre brinca com o Tori.",
+        "pt-BR": "[Noah]\nEu sempre saio para brincar com o Tori.",
         "es-ES": "[Noah]\nNoah siempre juega con Tori."
     },
     "6oJwDA": {
@@ -696,7 +696,7 @@
     },
     "64JwDA": {
         "en-US": "[Tori]\nBlacky must be hungry. But we can't leave the village today.\nAdventurer, please go see Blacky for me.",
-        "pt-BR": "[Tori]\nO Blacky deve estar com fome. Mas hoje não podemos sair da vila.\nAventureiro, vai dar uma olhada no Blacky pra mim.",
+        "pt-BR": "[Tori]\nO Vultinho deve estar com fome. Mas hoje não podemos sair da vila.\nViajante, vai dar uma olhada no Vultinho pra mim.",
         "es-ES": "[Tori]\nKkaman-i debe tener hambre. Pero hoy no podemos salir del pueblo.\nVe a ver a Kkaman-i, aventurero."
     },
     "7IJwDA": {
@@ -716,12 +716,12 @@
     },
     "74JwDA": {
         "en-US": "[Verkhasel]\nWhen you're ready to enter, speak to me.",
-        "pt-BR": "[Verkhasel]\nQuando estiver pronto para entrar, fale comigo.",
+        "pt-BR": "[Verkhasel]\nQuando estiver com tudo pronto para entrar, fale comigo.",
         "es-ES": "[Verkhasel]\nCuando estés listo para entrar, háblame."
     },
     "8IJwDA": {
         "en-US": "^4D4DFFThis is an event leading to the Memorial Dungeon. After forming a party, speak to Verkhasel while in party leader status.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre na Masmorra Memorial. Crie um grupo e, como líder, fale com Verkhasel.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na Instância. Crie um grupo e, como líder, fale com Verkhasel.^000000",
         "es-ES": "^4D4DFFEste es un evento que se desarrolla en la Mazmorra Memorial. Crea un grupo y, como líder del grupo, habla con Verkhasel.^000000"
     },
     "8YJwDA": {
@@ -736,7 +736,7 @@
     },
     "84JwDA": {
         "en-US": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na Instância.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "9IJwDA": {
@@ -746,12 +746,12 @@
     },
     "9YJwDA": {
         "en-US": "Applying for 'Shadowed Manor'.",
-        "pt-BR": "Inscrever na missão “Mansão Sombria”.",
+        "pt-BR": "Criar 'Mansão Sombria'.",
         "es-ES": "Solicita «La mansión sumida en las sombras»."
     },
     "9oJwDA": {
         "en-US": "Entering 'Shadowed Manor'.",
-        "pt-BR": "Entrando na “Mansão Sombria”.",
+        "pt-BR": "Entrar na 'Mansão Sombria'.",
         "es-ES": "Entras en «La mansión sumida en las sombras»."
     },
     "94JwDA": {
@@ -766,27 +766,27 @@
     },
     "+YJwDA": {
         "en-US": "^4D4DFFThis is a Memorial event.\nOnly party leaders can request to enter the Memorial dungeon.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nA inscrição na masmorra do Memorial deve ser feita pelo líder do grupo.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na Instância.\nA inscrição na Instância deve ser feita pelo líder do grupo.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.\nLa solicitud para la mazmorra de Memorial debe hacerla el líder del grupo.^000000"
     },
     "+oJwDA": {
         "en-US": "[Verkhasel]\nSorry, but could you wait a moment?\nSince it's a specially managed location, it's not structured for easy entry like walking into my own home.",
-        "pt-BR": "[Verkhasel]\nDesculpe, mas você pode esperar mais um pouco?\nComo é um local com segurança especial, não dá pra entrar tão à vontade como se fosse na minha própria casa.",
+        "pt-BR": "[Verkhasel]\nDesculpe, mas você pode esperar mais um pouco?\nComo é um local com segurança especial, não dá pra entrar tão à vontade como se fosse sua casa.",
         "es-ES": "[Verkhasel]\nLo siento, ¿podrías esperar un momento?\nComo se trata de un lugar con seguridad especial, no es un lugar al que puedas entrar tan fácilmente como a tu propia casa."
     },
     "+4JwDA": {
         "en-US": "[Verkhasel]\nIf you wait just a little longer, an environment the dark elemental will like will be created.",
-        "pt-BR": "[Verkhasel]\nSe vocÊ esperar só mais um pouco, o ambiente ficará do jeito que o Elemental Sombrio gosta.",
+        "pt-BR": "[Verkhasel]\nSe você esperar só mais um pouco, o ambiente ficará do jeito que o Elemental Sombrio gosta.",
         "es-ES": "[Verkhasel]\nSi esperas un poco más, se creará un ambiente que le gustará al espíritu de la oscuridad."
     },
     "/IJwDA": {
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
-        "pt-BR": "^4D4DFFEste é um evento realizado no Memorial.\nForme um grupo e tente novamente.^000000",
+        "pt-BR": "^4D4DFFEste é um evento realizado na Instância.\nForme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo a través de Memorial.\nForma un grupo y vuelve a intentarlo.^000000"
     },
     "/YJwDA": {
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nForme um grupo e tente novamente.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na Instância.\nForme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo a través del Memorial.\nForma un grupo y vuelve a intentarlo.^000000\n^4D4DFFPuedes formar un grupo con el comando /formar nombre_del_grupo ^000000."
     },
     "/oJwDA": {
@@ -801,12 +801,12 @@
     },
     "AINwDA": {
         "en-US": "[Verkhasel]\nFrom this moment on, you are a Shadow Cross.\nI hope you continue to move forward while holding onto your convictions.",
-        "pt-BR": "[Verkhasel]\nA partir de agora, você é um Executor.\nEspero que continue seguindo em frente, mantendo suas convicções.",
+        "pt-BR": "[Verkhasel]\nA partir de agora, você é pertence aos Executores.\nEspero que continue seguindo em frente, mantendo suas convicções.",
         "es-ES": "[Verkhasel]\nA partir de ahora, eres un Ejecutor.\nEspero que sigas adelante manteniendo tus convicciones."
     },
     "AYNwDA": {
         "en-US": "[Verkhasel]\nCongratulations on becoming Shadow Cross.",
-        "pt-BR": "[Verkhasel]\nParabéns por se tornar um Executor.",
+        "pt-BR": "[Verkhasel]\nParabéns por se juntar aos Executores.",
         "es-ES": "[Verkhasel]\nFelicidades por convertirte en Ejecutor."
     },
     "AoNwDA": {

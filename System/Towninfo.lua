@@ -129,20 +129,6 @@ mapNPCInfoTable = {
 			TYPE = 0
 		}
 	},
-	tra_fild = {
-		{
-			name = "Armazém",
-			X = 94,
-			Y = 171,
-			TYPE = 6
-		},
-		{
-			name = "Armazém",
-			X = 114,
-			Y = 80,
-			TYPE = 6
-		}
-	},
 	prt_monk = {
 		{
 			name = "Arma",

@@ -6,92 +6,92 @@
     },
     "Ybd8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 14><B>No!!!</B></FONT>\nWhy won't you tell me?!\nI deserve to know!!!",
-        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Não!!!</B></FONT>\nPor que diabos você não me conta?!\nEu tenho todo o direito de saber!!!",
+        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Não!!!</B></FONT>\nPor que você não me conta?!\nEu tenho todo o direito de saber!!!",
         "es-ES": "[Elma]\n<FONT SIZE = 14><B>¡No!!!</B></FONT>\n¿Por qué no me lo dices?!\n¡Tengo todo el derecho a saberlo!!!"
     },
     "Yrd8DA": {
         "en-US": "Elma: Are you ignoring me now?",
-        "pt-BR": "Elma: Você tá me ignorando agora?!",
+        "pt-BR": "Elma: Você tá me ignorando?!",
         "es-ES": "Elma: ¿Me estás ignorando?!"
     },
     "Y7d8DA": {
         "en-US": "[Kiran]\nEven if you say that, as I've told you many times, there's nothing we can tell you.",
-        "pt-BR": "[Kiran]\nMesmo que você diga isso, como já mencionei várias vezes, não há nada que possamos te contar.",
+        "pt-BR": "[Kiran]\n...Como já mencionei várias vezes, não há nada que possamos te contar.",
         "es-ES": "[Kiran]\nAunque lo digas así, como ya te he dicho varias veces, desde nuestro lado no hay nada que podamos decirte."
     },
     "ZLd8DA": {
         "en-US": "Kiran: And please stop yelling.",
-        "pt-BR": "Kiran: Não grite assim.",
+        "pt-BR": "Kiran: Pare de gritar.",
         "es-ES": "Kiran: No grites así."
     },
     "Zbd8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 14><B>Liar!</B></FONT>\nYou're just trying to keep their powers to yourself, aren't you?",
-        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Mentira!</B></FONT>\nVocê tá tentando monopolizar todo o poder assim, né?",
+        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Mentira!</B></FONT>\nVocê tá tentando monopolizar todo o poder!",
         "es-ES": "[Elma]\n<FONT SIZE = 14><B>¡Mentira!</B></FONT>\n¿Estás tratando de acaparar todo el poder de esa manera?"
     },
     "Zrd8DA": {
         "en-US": "Elma: How despicable!!!!!!!!!!",
-        "pt-BR": "Elma: Que covardia!!!!!!!!!!",
+        "pt-BR": "Elma: COVARDE!!!!!!!!!!",
         "es-ES": "Elma: ¡Qué mezquino!!!!!!!!!!"
     },
     "Z7d8DA": {
         "en-US": "[Kiran]\nThe powers of elementals aren't ours--or anyone else's--to keep.\nIt's up to them to choose whom they lend their powers to.",
-        "pt-BR": "[Kiran]\nO poder dos espíritos não é algo que alguém possa monopolizar.\nAfinal, são eles que decidem se vão emprestar o poder ou não, não é?",
+        "pt-BR": "[Kiran]\nO poder dos Espíritos Elementais não é algo que alguém possa monopolizar.\nAfinal, são eles que decidem se vão emprestar o poder, certo?",
         "es-ES": "[Kiran]\nEl poder de los espíritus no es algo que alguien pueda acaparar.\nSon ellos quienes deciden si te prestan su poder o no, ¿no?"
     },
     "aLd8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 14><B>Hmph!!!</B></FONT>\nFine!!!\nIf you won't tell me, I'll find out by any means necessary!!!!",
-        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Hmph!!!</B></FONT>\nTudo bem!!!\nSe você não me contar, vou descobrir de qualquer jeito!!!!",
+        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Hmpf!!!</B></FONT>\nTudo bem!!!\nSe você não me contar, vou descobrir de qualquer jeito!!!!",
         "es-ES": "[Elma]\n<FONT SIZE = 14><B>¡Bah!!!</B></FONT>\n¡¡¡Vale!!!\nSi no me lo dices, haré lo que sea necesario para descubrirlo!!!!"
     },
     "abd8DA": {
         "en-US": "[Elma]\n^00B7EEKiran^000000 clearly knows something, but he won't tell me.",
-        "pt-BR": "[Elma]\n^00B7EEÉ óbvio que o Kiran^000000 sabe de alguma coisa, mas não quer me contar.",
+        "pt-BR": "[Elma]\nÉ ^00B7EEóbvio^000000 que o Kiran sabe de alguma coisa, mas não quer me contar.",
         "es-ES": "[Elma]\n^00B7EEKiran^000000 seguro que sabe algo, pero no me lo dice."
     },
     "ard8DA": {
         "en-US": "[Elma]\nHmph!!!\nFine!!!\nIf you won't tell me, I'll find out by any means necessary!!!!",
-        "pt-BR": "[Elma]\nHmph!!!\nTudo bem!!!\nSe não me contar, vou descobrir de qualquer jeito!!!!",
+        "pt-BR": "[Elma]\nHmpf!!!\nTudo bem!!!\nSe não me contar, vou descobrir de qualquer jeito!!!!",
         "es-ES": "[Elma]\n¡Bah!\n¡¡¡Vale!!!\nSi no me lo dices, haré lo que sea necesario para averiguarlo!!!!"
     },
     "a7d8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 14><B>WHAT IS IT?</B></FONT>",
-        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Que é isso!</B></FONT>",
+        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>O que quer???</B></FONT>",
         "es-ES": "[Elma]\n<FONT SIZE = 14><B>¡¿Qué pasa?!</B></FONT>"
     },
     "bLd8DA": {
         "en-US": "How to summon greater elementals.",
-        "pt-BR": "Sobre como invocar um espírito superior",
+        "pt-BR": "Como invocar um Elemental superior?",
         "es-ES": "Sobre cómo invocar a un espíritu superior"
     },
     "bbd8DA": {
         "en-US": "[Elma]\nOooh~~\nSo you're also interested in ^00B7EEsummoning greater elementals^000000, huh?",
-        "pt-BR": "[Elma]\nHihihi.\nParece que você também está interessado em ^00B7EEinvocar espíritos superiores^000000, né?",
+        "pt-BR": "[Elma]\nHihihi.\nParece que você também tem interesse em ^00B7EEEspíritos Elementais Superiores^000000, não é?",
         "es-ES": "[Elma]\nOh, vaya.\nParece que tú también estás interesado en ^00B7EEinvocar espíritus superiores^000000, ¿no?"
     },
     "brd8DA": {
         "en-US": "[Elma]\nKiran keeps saying it has to do with effort or spirit affinity, but if that's all it takes to summon them, <B>there's no way I couldn't do it by now, right?</B>",
-        "pt-BR": "[Elma]\nO Kiran fala de esforço e afinidade com espíritos, mas se fosse possível invocá-los com essas coisas, <B>não teria motivo para eu não conseguir, né?</B>",
+        "pt-BR": "[Elma]\nO Kiran fala de afinidade com espíritos elementais, mas se fosse possível invocá-los com essas coisas, <B>eu já teria conseguido, né?</B>",
         "es-ES": "[Elma]\nKiran habla de esfuerzo y afinidad con los espíritus, pero si se pudiera invocar con eso, <B>¿cómo no iba a poder hacerlo yo?</B>"
     },
     "b7d8DA": {
         "en-US": "[Elma]\nThere has to be a summoning spell or scroll or something!",
-        "pt-BR": "[Elma]\nCom certeza deve existir algum feitiço ou pergaminho para invocar espíritos superiores!",
+        "pt-BR": "[Elma]\nCom certeza deve existir algum feitiço ou pergaminho para invocar espíritos elementais superiores!",
         "es-ES": "[Elma]\n¡Seguro que hay algún hechizo o pergamino para invocar espíritus superiores!"
     },
     "cLd8DA": {
         "en-US": "Elma: There has to be a trick!",
-        "pt-BR": "Elma: Com certeza é algum truque!",
+        "pt-BR": "Elma: É algum truque!",
         "es-ES": "Elma: ¡Seguro que es un truco!"
     },
     "cbd8DA": {
         "en-US": "[Elma]\nHeh... but I knew he'd never share it with me anyway!",
-        "pt-BR": "[Elma]\nHuh... Mas eu já sabia que você não ia me contar mesmo!",
+        "pt-BR": "[Elma]\nHuh... Mas eu já sabia que Kiran não ia me contar mesmo!",
         "es-ES": "[Elma]\nJe... ¡Pero de todos modos ya sabía que no me lo ibas a decir!"
     },
     "crd8DA": {
         "en-US": "[Elma]\nThat's why I've been coming to this place to watch him secretly every day!",
-        "pt-BR": "[Elma]\nPor isso, eu vinha aqui todos os dias pra ficar de olho no Kiran às escondidas!",
+        "pt-BR": "[Elma]\nPor isso, eu vim aqui todos os dias pra ficar de olho no Kiran às escondidas!",
         "es-ES": "[Elma]\n¡Por eso andaba por aquí todos los días, espiando a Kiran a escondidas!"
     },
     "c7d8DA": {
@@ -106,7 +106,7 @@
     },
     "dbd8DA": {
         "en-US": "[Elma]\nFinally!!!!\n<B>I saw it!!!!</B>\n<B>Kiran secretly leaving his office after arguing with me!!!!!!</B>",
-        "pt-BR": "[Elma]\nFinalmente!!!!\n<FONT SIZE = 14><B>Eu vi!!!!</B></FONT>\n<B>O senhor Kiran, depois de discutir comigo, indo sorrateiramente para algum lugar!!!!!!</B>",
+        "pt-BR": "[Elma]\nAté que um dia...\n<FONT SIZE = 14><B>Eu vi!!!!</B></FONT>\n<B>Eu vi Kiran indo sorrateiramente para algum lugar!!!!!!</B>",
         "es-ES": "[Elma]\n¡¡¡Por fin!!!!\n<FONT SIZE = 14><B>¡¡¡Lo vi!!!!</B></FONT>\n<B>¡¡¡Cómo el señor Kiran, después de discutir conmigo, se escabullía a algún lugar!!!!!!</B>"
     },
     "drd8DA": {
@@ -126,27 +126,27 @@
     },
     "ebd8DA": {
         "en-US": "[Elma]\nIt was the famous <FONT SIZE = 14><B>[Great Sage Varmunt's] mansion</B></FONT>!!!!!!\nIf it's that place, it's gotta be full of ^00B7EEmagic books that summon high-level elementals^000000!!! Or magical artifacts!!! Stuff like that?!",
-        "pt-BR": "[Elma]\nEra a famosa <FONT SIZE = 14><B>[mansão do Grande Sábio Varmunt]</B></FONT>!!!!!!\nSe for lá, deve ter um monte de coisas como ^00B7EElivros de magia para invocar espíritos superiores^000000!!! Ou artefatos mágicos!!!",
+        "pt-BR": "[Elma]\nA famosa <FONT SIZE = 14><B>Mansão do Grande Sábio Varmunt</B></FONT>!!!!!!\nSe for lá, deve ter um monte de coisas como ^00B7EElivros de magia para invocar Elementais superiores^000000!!! Ou artefatos mágicos!!!",
         "es-ES": "[Elma]\n¡¡¡Era nada menos que la famosa <FONT SIZE = 14><B>mansión del Gran Sabio Varmunt</B></FONT>!!!!!!\nSi es ahí, ¡seguro que hay un montón de cosas como el ^00B7EElibro de magia para invocar espíritus superiores^000000 o artefactos mágicos!!!"
     },
     "erd8DA": {
         "en-US": "[Elma]\nI'm going to check it out while Kiran is too busy to follow me!\nFirst, I want to look around the ^00B7EEMagic Power Plant in the basement of the Varmunt Mansion!",
-        "pt-BR": "[Elma]\nAcho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra conferir onde ele foi!!!\nPra começar, não dá pra deixar de dar uma olhada na ^00B7EEUsina Mágica^000000 que fica no porão da mansão de Varmunt, né?!",
+        "pt-BR": "[Elma]\nAcho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra conferir onde ele foi!!!\nPra começar, vamos olhar a ^00B7EEUsina Mágica^000000 que fica na mansão de Varmunt, né?!",
         "es-ES": "[Elma]\n¡Tendré que aprovechar un momento en que Kiran esté ocupado para ver adónde se fue!!!\nPara empezar, ¡no puedo dejar de echarle un vistazo a la ^00B7EEcentral de energía mágica^000000 que dicen que está en el sótano de la mansión de Varmunt, ¿no?!"
     },
     "e7d8DA": {
         "en-US": "[Elma]\n<B>Magic Power Plant</B>! Just the name itself sounds so magical!\nWant to watch me summon a greater elemental? Then, follow me!",
-        "pt-BR": "[Elma]\n<B>Usina Mágica</B>... só de ouvir o nome já dá a sensação de que a magia vai transbordar!!!\nSe você também quiser ver a gente invocando espíritos superiores com todo o estilo, pode vir junto!",
+        "pt-BR": "[Elma]\n<B>Usina Mágica</B>... só de ouvir o nome já dá a sensação de que a magia vai transbordar!!!\nSe você também quiser ver, pode vir junto!",
         "es-ES": "[Elma]\n¡Solo con oír el nombre de <B>«Central Mágica»</B> ya siento como si la magia fuera a desbordarse!!!\nSi tú también quieres ver cómo invoco a un espíritu superior de manera espectacular, ¡puedes venir conmigo!"
     },
     "fLd8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 10>I'm going to check it out while Kiran is too busy to follow me!</FONT>\nFirst, I want to look around the ^00B7EEMagic Power Plant^000000 in the basement of the Varmunt Mansion!",
-        "pt-BR": "[Elma]\nAcho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra dar uma olhada aonde ele foi!!!\nPra começar, não dá pra deixar de dar uma olhada na ^00B7EEUsina Mágica^000000 que fica no porão da Mansão Varmunt, né?!",
+        "pt-BR": "[Elma]\nAcho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra dar uma olhada aonde ele foi!!!\nPra começar, vamos olhar a ^00B7EEUsina Mágica^000000 que fica na mansão de Varmunt, né?!",
         "es-ES": "[Elma]\n<FONT SIZE = 10>¡Creo que tengo que aprovechar que Kiran está ocupado para ver adónde se fue!!!</FONT>\nPara empezar, ¡no puedo dejar de echar un vistazo a la ^00B7EEcentral de energía mágica^000000 que dicen que está en el sótano de la mansión Varmunt!"
     },
     "fbd8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 14><B>What the...?!</B></FONT>\nHow did you do that?!\n<FONT SIZE = 10>I want to change jobs too!!!</FONT>",
-        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>Que coisa é essa!!!</B>\nComo você fez isso!!!\nEu também quero mudar de classe!!!",
+        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>COMO ASSIM?!</B>\nComo você fez isso???\nEu também quero mudar de classe!!!",
         "es-ES": "[Elma]\n<FONT SIZE = 14><B>¡¿Qué es esto?!</B></FONT>\n¡¿Cómo lo hiciste?!\n<FONT SIZE = 10>¡Yo también quiero cambiar de clase!</FONT>"
     },
     "frd8DA": {
@@ -156,7 +156,7 @@
     },
     "f7d8DA": {
         "en-US": "[Elma]\nWhat?\nI'm busy. Stop talking to me!",
-        "pt-BR": "[Elma]\nQue é isso.\nEstou ocupada, não venha me encher o saco!",
+        "pt-BR": "[Elma]\nO que quer?\nEstou ocupada, não venha me encher o saco!",
         "es-ES": "[Elma]\n¿Qué pasa?\n¡No me hables, estoy ocupada!"
     },
     "gLd8DA": {
@@ -166,32 +166,32 @@
     },
     "gbd8DA": {
         "en-US": "[Kiran]\nSigh...\nFor days now, she's been coming here to harass me about <B>how to summon greater elementals</B>, shouting at me to give her the method. Not only that, she won't leave and is even <B>spying</B> on me. She's been nothing but a nuisance.",
-        "pt-BR": "[Kiran]\nAi...\nHá dias que ela vem aqui gritando pra eu <B>revelar o método de invocar espíritos superiores</B>, e ainda por cima não vai embora e fica me <B>vigiando</B>, o que é um verdadeiro incômodo.",
+        "pt-BR": "[Kiran]\nAi, ai...\nHá dias que Elma vem aqui gritando pra eu revelar como <B>invocar Espíritos Elementais superiores</B>, e ainda por cima fica me <B>vigiando</B>. Um verdadeiro incômodo.",
         "es-ES": "[Kiran]\nAy...\nLlevas varios días viniendo aquí a gritarme que te dé <B>la forma de invocar espíritus superiores</B>,  y encima, no se va y se queda <B>vigilándome</B>, lo cual es una verdadera molestia."
     },
     "grd8DA": {
         "en-US": "[Kiran]\nSummoning a greater elemental depends on personal effort and affinity with the elemental. Just knowing the 'method' doesn't mean you can summon a greater elemental.",
-        "pt-BR": "[Kiran]\nConvocar um espírito superior depende do esforço pessoal e da afinidade com os espíritos, então não é só por saber o “método” que você consegue convocar um espírito superior.",
+        "pt-BR": "[Kiran]\nConvocar um espírito elemental superior depende da afinidade com os espíritos elementais, então não é só por saber o “método”.",
         "es-ES": "[Kiran]\nInvocar a un espíritu superior depende del esfuerzo personal y de la afinidad con los espíritus, así que no es que por saber el «método» ya puedas invocarlo."
     },
     "g7d8DA": {
         "en-US": "[Kiran]\nIf you focus only on the method without proper preparation, you'll get seriously hurt.",
-        "pt-BR": "[Kiran]\nSe você ficar obcecado apenas pelo método sem se preparar, vai acabar se machucando feio.",
+        "pt-BR": "[Kiran]\nSe você tem obsessão apenas pelo método, sem se preparar, vai acabar se machucando feio.",
         "es-ES": "[Kiran]\nSi te obsesionas con el método sin estar preparado, te vas a lastimar gravemente."
     },
     "hLd8DA": {
         "en-US": "[Kiran]\nBut no matter how hard I try, I can't convince her that I'm not lying. She's been giving me a headache.",
-        "pt-BR": "[Kiran]\nMas, por mais que eu fale, ela não acredita em mim e fica dizendo para eu não mentir, então não sei o que fazer e isso tá me dando dor de cabeça.",
+        "pt-BR": "[Kiran]\nMas, por mais que eu fale, ela não acredita em mim. Então não sei o que fazer e isso tá me dando dor de cabeça.",
         "es-ES": "[Kiran]\nPero por más que te lo diga, no me crees y me dices que no mienta, así que no sé qué hacer y me duele la cabeza."
     },
     "hbd8DA": {
         "en-US": "[Kiran]\nElma needs to stop being so stubborn and listen to reason.",
-        "pt-BR": "[Kiran]\nA Elma também não devia ficar teimando e precisava perceber isso por conta própria...",
+        "pt-BR": "[Kiran]\nA Elma também não devia ficar teimando e precisava saber disso por conta própria...",
         "es-ES": "[Kiran]\nElma debería dejar de ser tan terca y darse cuenta por sí misma..."
     },
     "hrd8DA": {
         "en-US": "Potent Mana Stone",
-        "pt-BR": "Pedra transbordando de magia",
+        "pt-BR": "Pedra Mágica",
         "es-ES": "Una piedra rebosante de magia"
     },
     "h7d8DA": {
@@ -211,12 +211,12 @@
     },
     "ird8DA": {
         "en-US": "[Elma]\nIt's probably because of the overflowing mana in this place, but ^00B7EEMana Addicted Dolors^000000 and ^00B7EEUnleashed Plasmas^000000 are especially clinging to me annoyingly.",
-        "pt-BR": "[Elma]\nTalvez por causa da magia particularmente forte neste lugar, parece que ^00B7EE[Dolor Viciada]^000000 e ^00B7EE[Magia Liberta]^000000 estão grudando em mim de um jeito bem chato.",
+        "pt-BR": "[Elma]\nTalvez por causa da magia particularmente forte neste lugar, parece que ^00B7EEDolor Viciada^000000 e ^00B7EEMagia Liberta^000000 estão grudando em mim de um jeito bem chato.",
         "es-ES": "[Elma]\nQuizá sea porque la magia de este lugar es especialmente densa, pero parece que ^00B7EE[Dolor Adicta al Mana\n]^000000 y ^00B7EE[Magia Liberada]^000000 se pegan a mí de forma especialmente molesta."
     },
     "i7d8DA": {
         "en-US": "[Elma]\nHunt about 10 of each, will you? That should keep this place clear for a while.",
-        "pt-BR": "[Elma]\nSe a gente derretesse umas 10 de cada, o lugar aqui já ficaria mais limpo, né?",
+        "pt-BR": "[Elma]\nSe a gente se livrasse de umas 10 de cada, o lugar aqui já ficaria mais limpo, né?",
         "es-ES": "[Elma]\nSi acabas con 10 de cada, el lugar se va a quedar un poco más limpio, ¿no?"
     },
     "jLd8DA": {
@@ -236,7 +236,7 @@
     },
     "j7d8DA": {
         "en-US": "A bookshelf overflowing with magic",
-        "pt-BR": "Estante transbordando de magia",
+        "pt-BR": "Livro Mágico",
         "es-ES": "Estanterías rebosantes de magia"
     },
     "kLd8DA": {
@@ -246,17 +246,17 @@
     },
     "kbd8DA": {
         "en-US": "[Elma]\nEeek!!!!!!\n<FONT SIZE = 14><B>Again</B></FONT>! It ran away again!!!!",
-        "pt-BR": "[Elma]\nEita!!!!!!\n<FONT SIZE = 14><B>De novo</B></FONT> fugiu!!!!",
+        "pt-BR": "[Elma]\nEita!!!!!!\n<FONT SIZE = 14><B>Fugiu</B></FONT> de novo!!!!",
         "es-ES": "[Elma]\n¡Ay, no!!!!!!\n<FONT SIZE = 14><B>Otra vez</B></FONT> se han escapado!!!!"
     },
     "krd8DA": {
         "en-US": "[Elma]\n<B>Geez, how come all these books keep running away from me?</B>",
-        "pt-BR": "[Elma]\n<B>Mas, sério, os livros daqui fogem sempre que tento ler!!!</B>",
+        "pt-BR": "[Elma]\n<B>Os livros daqui fogem sempre que tento ler!!!</B>",
         "es-ES": "[Elma]\n<B>¡Pero qué pasa con los libros de aquí! ¡En cuanto intento leerlos, se escapan!</B>"
     },
     "k7d8DA": {
         "en-US": "[Elma]\nAh!!!!\nIt's heading your way!!\nCatch that ^00B7EERoaming Spellook^000000 over there!!!",
-        "pt-BR": "[Elma]\nAh!!!!\nEstá fugindo para aquele lado!!\nPega lá o ^00B7EE[Grimório Errante]^000000!!!",
+        "pt-BR": "[Elma]\nAh!!!!\nEstá fugindo para aquele lado!!\nPega lá o ^00B7EEGrimório Errante^000000!!!",
         "es-ES": "[Elma]\n¡Ay!\n¡Se escapa por ahí!\n¡Atrapa ese ^00B7EE[Grimorio errante]^000000!"
     },
     "lLd8DA": {
@@ -266,7 +266,7 @@
     },
     "lbd8DA": {
         "en-US": "[Elma]\nRummage, rummage\nRustle",
-        "pt-BR": "[Elma]\nRevirando\nFarfalhando",
+        "pt-BR": "[Elma]\nRevirando\nRelendo",
         "es-ES": "[Elma]\nHojeando\nCrujido"
     },
     "lrd8DA": {
@@ -276,12 +276,12 @@
     },
     "l7d8DA": {
         "en-US": "[Elma]\nThis is it!\nAn elemental summoning spellbook!!!",
-        "pt-BR": "[Elma]\nÉ isso mesmo!\nO livro de magia para invocar espíritos!!!",
+        "pt-BR": "[Elma]\nÉ isso mesmo!\nO livro de magia para invocar espíritos elementais!!!",
         "es-ES": "[Elma]\n¡Es esto!\n¡El libro de magia para invocar espíritus!!!"
     },
     "mLd8DA": {
         "en-US": "[Elma]\nIt's got to have how to summon greater elementals in it, doesn't it?",
-        "pt-BR": "[Elma]\nCom certeza deve ter aqui dentro o método para invocar espíritos de nível superior, né?",
+        "pt-BR": "[Elma]\nCom certeza deve ter aqui dentro o método para invocar espíritos elementais de nível superior, né?",
         "es-ES": "[Elma]\nSeguro que aquí dentro está escrito cómo invocar a un espíritu superior, ¿no?"
     },
     "mbd8DA": {
@@ -301,7 +301,7 @@
     },
     "nLd8DA": {
         "en-US": "[Elma]\n<FONT SIZE = 14><B>It's just a plain elemental summoning spellbook!!!!</B></FONT>",
-        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>É só um livro de magia de invocação de espíritos comum!!!!</B></FONT>",
+        "pt-BR": "[Elma]\n<FONT SIZE = 14><B>É só um livro de magia de invocação de espíritos comuns!!!!</B></FONT>",
         "es-ES": "[Elma]\n<FONT SIZE = 14><B>¡¡¡Es solo un libro de magia para invocar espíritus normal y corriente!!!!</B></FONT>"
     },
     "nbd8DA": {
@@ -311,7 +311,7 @@
     },
     "nrd8DA": {
         "en-US": "Check the magic book.",
-        "pt-BR": "Olhar o livro de magia.",
+        "pt-BR": "Olhar o Livro Mágico.",
         "es-ES": "Revisa el libro de magia."
     },
     "n7d8DA": {
@@ -326,7 +326,7 @@
     },
     "obd8DA": {
         "en-US": "- As I opened the magic book handed to me by Elma, a strange distortion occurred and a refreshing breeze began to blow. -",
-        "pt-BR": "- Ao abrir o livro de magia que Elma me entregou, uma brisa refrescante começou a soprar, acompanhada por uma estranha distorção. -",
+        "pt-BR": "- Ao abrir o Livro Mágico que Elma me entregou, uma brisa refrescante começou a soprar, acompanhada por uma estranha distorção. -",
         "es-ES": "- Al abrir el libro de magia que me pasó Elma, empezó a soplar una brisa refrescante acompañada de una extraña distorsión. -"
     },
     "ord8DA": {
@@ -356,27 +356,27 @@
     },
     "p7d8DA": {
         "en-US": "[???]\nGyaaak!!!\nWhere the hell am I this time!!!!",
-        "pt-BR": "[???]\nGaaah!!!\nQue lugar é esse, afinal!!!!",
+        "pt-BR": "[???]\nAaaah!!!\nQue lugar é esse, afinal???!",
         "es-ES": "[???]\n¡Ay!!!\n¿¡Dónde estamos ahora?!"
     },
     "qLd8DA": {
         "en-US": "[???]\nWait a minute...\nEven spacetime's warped a bit, isn't it?!?\nYou jerks, did you summon me here?!!!!!",
-        "pt-BR": "[???]\nEspera aí...\nAté o espaço-tempo ficou meio distorcido, né?!?\nForam vocês que me trouxeram pra cá!!!!!",
+        "pt-BR": "[???]\nEspera aí...\nAté o espaço-tempo ficou meio distorcido, né?!?\nForam vocês que me trouxeram pra cá???!",
         "es-ES": "[???]\nNo, espera un momento...\n¡¿Incluso el espacio-tiempo se ha distorsionado un poco?!\n¡¿Sois vosotros los que me habéis traído aquí?!"
     },
     "qbd8DA": {
         "en-US": "??? : What the hell have you done?",
-        "pt-BR": "??? : Que diabos estão fazendooooooo!!!!!!!",
+        "pt-BR": "??? : Que diabos estão fazendooooooo??!!!",
         "es-ES": "??? : ¡¿Qué carajos estás haciendooooooo!!!!!!!"
     },
     "qrd8DA": {
         "en-US": "[Elma]\nWhat is this tiny thing?",
-        "pt-BR": "[Elma]\nQue é isso, esse bichinho minúsculo...",
+        "pt-BR": "[Elma]\nO que é esse bichinho minúsculo...?",
         "es-ES": "[Elma]\n¿Qué es este enano...?"
     },
     "q7d8DA": {
         "en-US": "Elma: It looks like a tangerine.",
-        "pt-BR": "Elma: Parece um pouco com uma tangerina, não é?",
+        "pt-BR": "Elma: Parece uma Ervilha, não é?",
         "es-ES": "Elma: ¿Te ves un poco como una mandarina?"
     },
     "rLd8DA": {
@@ -386,7 +386,7 @@
     },
     "rbd8DA": {
         "en-US": "[???]\nDo you even know who I am!!!!\nHow dare you call the great wind elemental...",
-        "pt-BR": "[???]\nVocê sabe quem eu sou!!!!\nComo ousa chamar o grande elemental do vento......",
+        "pt-BR": "[???]\nVocê sabe quem eu sou?!\nComo ousa chamar o grande Elemental do Vento...",
         "es-ES": "[???]\n¡¿Sabes quién soy yo?!\n¿Cómo te atreves a... el gran elemental del viento..."
     },
     "rrd8DA": {
@@ -416,7 +416,7 @@
     },
     "s7d8DA": {
         "en-US": "Kiran's Book Box",
-        "pt-BR": "A gaveta da mesa de Kiran",
+        "pt-BR": "Caixa de Kiran",
         "es-ES": "El cajón del escritorio de Kiran"
     },
     "tLd8DA": {
@@ -431,22 +431,22 @@
     },
     "trd8DA": {
         "en-US": "- Among the intimidating books, the <Advanced Elementalism Guide> catches my eye. -",
-        "pt-BR": "- Entre os livros que parecem difíceis, o <Guia de Elementalismo Avançado> chama a atenção. -",
+        "pt-BR": "- Entre os livros que parecem difíceis, o <Guia dos Elementais Evoluídos> chama a atenção. -",
         "es-ES": "- Entre los libros que parecen difíciles, llama la atención el <Manual de Elementalismo Avanzado>. -"
     },
     "t7d8DA": {
         "en-US": "Take out the book.",
-        "pt-BR": "Pego o livro.",
+        "pt-BR": "Pegar o livro.",
         "es-ES": "Saco el libro."
     },
     "uLd8DA": {
         "en-US": "I quit.",
-        "pt-BR": "Vou parar por aqui.",
+        "pt-BR": "Parar por aqui.",
         "es-ES": "Ya basta."
     },
     "ubd8DA": {
         "en-US": "- Could this be the book Elma was looking for?\nWhy didn't she see it when it's in such an obvious spot? -",
-        "pt-BR": "- Será que é o livro que a Elma estava procurando?\nA Elma estava bem ali, em um lugar tão visível, por que ela não conseguiu encontrar? -",
+        "pt-BR": "- Será que é o livro que a Elma estava procurando?\nO livro estava bem ali, em um lugar tão visível, por que Elma não conseguiu encontrar? -",
         "es-ES": "- ¿Será el libro que buscaba Elma?\nSi está en un lugar tan visible, ¿por qué no lo encontró? -"
     },
     "urd8DA": {

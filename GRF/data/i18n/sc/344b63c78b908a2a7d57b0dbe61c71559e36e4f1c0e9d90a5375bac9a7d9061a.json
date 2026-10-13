@@ -1,0 +1,207 @@
+{
+    "oCa9DQ": {
+        "en-US": "Gate Attendant",
+        "pt-BR": "Gerente do Portal",
+        "es-ES": "Gerente del Portal"
+    },
+    "oSa9DQ": {
+        "en-US": "[Gate Attendant]\nThe dimensional connection leading to the Corridor of the Abyss has finally stabilized, allowing entry at all times.",
+        "pt-BR": "[Gerente do Portal]\nA conexão dimensional que leva ao Portal do Abismo finalmente se estabilizou, permitindo a entrada a qualquer momento.",
+        "es-ES": "[Gerente del Portal]\nLa conexión dimensional que lleva al Portal del Abismo finalmente se ha estabilizado, permitiendo la entrada en cualquier momento."
+    },
+    "oia9DQ": {
+        "en-US": "[Gate Attendant]\nTherefore, we have decided to open the Agit Dungeon and the Corridor of the Abyss to general adventurers at all times, upon payment of a prescribed entrance fee.",
+        "pt-BR": "[Gerente do Portal]\nPortanto, decidimos abrir a Masmorra do Castelo e o Portal do Abismo para todos os aventureiros, por uma pequena bagatela, é claro.",
+        "es-ES": "[Gerente del Portal]\nPor lo tanto, hemos decidido abrir la Mazmorra del Castillo y el Portal del Abismo para todos los trotamundos en cualquier momento, mediante el pago de una pequeña tarifa."
+    },
+    "oya9DQ": {
+        "en-US": "[Gate Attendant]\nGuild members of the guild that currently occupies each Agit may use the gate free of charge.",
+        "pt-BR": "[Gerente do Portal]\nOs membros do clã que atualmente ocupa cada Castelo podem usar o portal gratuitamente.",
+        "es-ES": "[Gerente del Portal]\nLos miembros del clan que actualmente ocupa cada Castillo pueden usar el portal de forma gratuita."
+    },
+    "pCa9DQ": {
+        "en-US": "Greenwood Lake Dungeon 1F",
+        "pt-BR": "Calabouço do Bosque Celestial, 1º andar",
+        "es-ES": "Mazmorra del Lago Greenwood, piso 1"
+    },
+    "pSa9DQ": {
+        "en-US": "Greenwood Lake Dungeon 2F",
+        "pt-BR": "Calabouço do Bosque Celestial, 2º andar",
+        "es-ES": "Mazmorra del Lago Greenwood, piso 2"
+    },
+    "pia9DQ": {
+        "en-US": "Corridor of the Abyss",
+        "pt-BR": "Portal do Abismo",
+        "es-ES": "Portal del Abismo"
+    },
+    "pya9DQ": {
+        "en-US": "Greenwood Lake Dungeon 1F - 50,000 Zeny",
+        "pt-BR": "1º andar - 50.000 zenys",
+        "es-ES": "Piso 1 - 50.000 zenys"
+    },
+    "qCa9DQ": {
+        "en-US": "Greenwood Lake Dungeon 2F - 100,000 Zeny",
+        "pt-BR": "2º andar - 100.000 zenys",
+        "es-ES": "Piso 2 - 100.000 zenys"
+    },
+    "qSa9DQ": {
+        "en-US": "Corridor of the Abyss - 500,000 Zeny",
+        "pt-BR": "Portal do Abismo - 500.000 zenys",
+        "es-ES": "Portal del Abismo - 500.000 zenys"
+    },
+    "qia9DQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "qya9DQ": {
+        "en-US": "Information",
+        "pt-BR": "Informações",
+        "es-ES": "Información"
+    },
+    "rCa9DQ": {
+        "en-US": "[Gate Attendant]\nI will open the gate to Greenwood Lake Dungeon 1F.",
+        "pt-BR": "[Gerente do Portal]\nEnviarei você para o 1º andar do Calabouço do Bosque Celestial.",
+        "es-ES": "[Gerente del Portal]\nTe enviaré al primer piso de la Mazmorra del Lago Greenwood."
+    },
+    "rSa9DQ": {
+        "en-US": "[Gate Attendant]\nThe entrance fee is 50,000 Zeny. Please check your balance.",
+        "pt-BR": "[Gerente do Portal]\nA taxa de entrada é de 50.000 zenys. Por favor, verifique seu saldo.",
+        "es-ES": "[Gerente del Portal]\nLa tarifa de entrada es de 50.000 zenys. Por favor, verifica tu saldo."
+    },
+    "ria9DQ": {
+        "en-US": "[Gate Attendant]\nI will open the gate to Greenwood Lake Dungeon 2F.",
+        "pt-BR": "[Gerente do Portal]\nEnviarei você para o 2º andar do Calabouço do Bosque Celestial.",
+        "es-ES": "[Gerente del Portal]\nTe enviaré al segundo piso de la Mazmorra del Lago Greenwood."
+    },
+    "rya9DQ": {
+        "en-US": "[Gate Attendant]\nThe entrance fee is 100,000 Zeny. Please check your balance.",
+        "pt-BR": "[Gerente do Portal]\nA entrada custa 100.000 zenys. Por favor, verifique seu saldo.",
+        "es-ES": "[Gerente del Portal]\nLa tarifa de entrada es de 100.000 zenys. Por favor, verifica tu saldo."
+    },
+    "sCa9DQ": {
+        "en-US": "[Gate Attendant]\nI will open the gate to 'Ancient Wind', the dimensional rift connected to Greenwood Lake – the Corridor of the Abyss.",
+        "pt-BR": "[Gerente do Portal]\nEnviarei você para o Portal do Abismo chamado \"Ventos Ancestrais\".",
+        "es-ES": "[Gerente del Portal]\nTe enviaré al Portal del Abismo llamado \"Viento Antiguo\"."
+    },
+    "sSa9DQ": {
+        "en-US": "[Gate Attendant]\nThe entrance fee is 500,000 Zeny. Please check your balance.",
+        "pt-BR": "[Gerente do Portal]\nA entrada custa 500.000 zenys. Por favor, verifique seu saldo.",
+        "es-ES": "[Gerente del Portal]\nLa tarifa de entrada es de 500.000 zenys. Por favor, verifica tu saldo."
+    },
+    "sia9DQ": {
+        "en-US": "[Gate Attendant]\nPlease count on us again next time.",
+        "pt-BR": "[Gerente do Portal]\nPor favor, utilize nossos serviços novamente na próxima vez.",
+        "es-ES": "[Gerente del Portal]\nPor favor, utiliza nuestros servicios nuevamente la próxima vez."
+    },
+    "sya9DQ": {
+        "en-US": "[Gate Attendant]\nThe investment you all have made has finally borne fruit.\nWith the technical capabilities of the Cat Hand Services, we have finally been able to keep the Corridor of the Abyss gate open at all times.",
+        "pt-BR": "[Gerente do Portal]\nO investimento que todos vocês fizeram finalmente deu frutos.\nCom a capacidade técnica da Agência Pata de Gato, finalmente conseguimos manter o Portal do Abismo aberto permanentemente.",
+        "es-ES": "[Gerente del Portal]\nLa inversión que todos ustedes han hecho finalmente ha dado frutos.\nCon la capacidad técnica de la Agencia Pata de Gato, finalmente hemos podido mantener el Portal del Abismo abierto permanentemente."
+    },
+    "tCa9DQ": {
+        "en-US": "Corridor of the Abyss?",
+        "pt-BR": "Portal do Abismo?",
+        "es-ES": "¿Portal del Abismo?"
+    },
+    "tSa9DQ": {
+        "en-US": "Open at all times?",
+        "pt-BR": "Aberto permanentemente?",
+        "es-ES": "¿Abierto permanentemente?"
+    },
+    "tia9DQ": {
+        "en-US": "[Gate Attendant]\nThe Corridor of the Abyss is a name given for convenience.\nSimply put, it can be described as ^0000CDthe other side of a dimensional crack^000000.",
+        "pt-BR": "[Gerente do Portal]\nO Portal do Abismo é um nome dado por conveniência.\nEm termos simples, é uma ^0000CDfenda dimensional^000000.",
+        "es-ES": "[Gerente del Portal]\nEl Portal del Abismo es un nombre dado por conveniencia.\nEn términos simples, es una ^0000CD grieta dimensional^000000."
+    },
+    "tya9DQ": {
+        "en-US": "[Gate Attendant]\nEver since Morroc created the dimensional rift, such dimensional cracks have been discovered here and there.\nThe Corridor of the Abyss is believed to be part of the distant past, or perhaps the future.",
+        "pt-BR": "[Gerente do Portal]\nDesde quando Satã Morroc começou a criar fendas dimensionais, elas aparecem em vários lugares.\nPresumimos que o Portal do Abismo é uma fenda que liga o passado e o futuro.",
+        "es-ES": "[Gerente del Portal]\nDesde que Satán Morroc empezó a crear grietas dimensionales, estas han aparecido en varios lugares.\nSuponemos que el Portal del Abismo es una grieta que conecta el pasado con el futuro."
+    },
+    "uCa9DQ": {
+        "en-US": "[Gate Attendant]\nIn particular, the Corridor of the Abyss is a forced connection to the other side of a dimension that is especially strongly linked.\nI suspect this is because there are beings drawn to the power of the Emperium.",
+        "pt-BR": "[Gerente do Portal]\nO Portal do Abismo forçou uma conexão poderosa com o nosso lado.\nTalvez tenha sido o poder do Emperium.",
+        "es-ES": "[Gerente del Portal]\nEl Portal del Abismo forzó una poderosa conexión con nuestro lado.\nQuizás se deba al poder del Emperium."
+    },
+    "uSa9DQ": {
+        "en-US": "[Gate Attendant]\nThere are currently four known dimensional corridors in total.\nAll of them make contact with Agit areas that possess the energy of the Emperium.",
+        "pt-BR": "[Gerente do Portal]\nAtualmente, existem quatro Portais do Abismo.\nTodos possuem certo contato com a energia do Emperium.",
+        "es-ES": "[Gerente del Portal]\nActualmente, existen cuatro Portais do Abismo.\nTodos tienen algún contacto con la energía del Emperium."
+    },
+    "uia9DQ": {
+        "en-US": "[Gate Manager]\nWe have named the other side of each crack as follows:\n^0000CDWarrior's Road, Hill of the Dead, Ancient Wind, and Hero's Tear.^000000\nAnd collectively, we call them all the ^0000CDCorridor of the Abyss^000000.",
+        "pt-BR": "[Gerente do Portal]\nNós nomeamos esses portais da seguinte forma:\n^0000CDCaminho do Guerreiro, Colina dos Mortos, Ventos Ancestrais e Lágrimas do Herói.^000000\nE, coletivamente, chamamos todos eles de ^0000CDPortal do Abismo^000000.",
+        "es-ES": "[Gerente del Portal]\nHemos nombrado estos portales de la siguiente manera:\n^0000CDSendero del Guerrero, Colina de los Muertos, Viento Antiguo y Lágrimas del Héroe.^000000\nY, colectivamente, los llamamos a todos ^0000CDPortal del Abismo^000000."
+    },
+    "uya9DQ": {
+        "en-US": "[Gate Attendant]\nWhat the past, or the future, or unknown regions we do not know hold within them...\nThe power held by the Corridor of the Abyss is both fearsome and sweet.",
+        "pt-BR": "[Gerente do Portal]\nO passado, o futuro, regiões desconhecidas...\nTudo isso torna o Portal do Abismo assustador e curioso.",
+        "es-ES": "[Gerente del Portal]\nEl pasado, el futuro, regiones desconocidas...\nTodo eso hace que el Portal del Abismo sea tan aterrador y fascinante."
+    },
+    "vCa9DQ": {
+        "en-US": "[Gate Attendant]\nNow that the gate connection is stable, entry is possible at any time.\nWould you not like to explore the Corridor of the Abyss yourself?",
+        "pt-BR": "[Gerente do Portal]\nAgora que a conexão do portal está estável, a entrada é possível a qualquer momento.\nVocê não gostaria de explorar o Portal do Abismo por conta própria?",
+        "es-ES": "[Gerente del Portal]\nAhora que la conexión del portal es estable, la entrada es posible en cualquier momento.\n¿No te gustaría explorar el Portal del Abismo por ti mismo?"
+    },
+    "vSa9DQ": {
+        "en-US": "[Gate Attendant]\nThe Corridor of the Abyss is formed beyond the dimensional cracks, with unstable pathways.\nTo travel back and forth between this side and the corridor, an artificial dimensional connection is required.",
+        "pt-BR": "[Gerente do Portal]\nO Portal do Abismo é delicadamente ligado à Fenda Dimensional.\nPara entrar ou sair, é necessária uma conexão artificial.",
+        "es-ES": "[Gerente del Portal]\nEl Portal del Abismo mantiene una conexión delicada con la Grieta Dimensional.\nPara entrar o salir, se requiere una conexión artificial."
+    },
+    "via9DQ": {
+        "en-US": "[Gate Attendant]\nUntil now, the maximum maintenance time was about four days...\nHowever, with the improved technical capabilities of the Cat Hand Services, we have finally achieved a constant connection.",
+        "pt-BR": "[Gerente do Portal]\nAté agora, essa conexão durava 4 dias.\nNo entanto, com a capacidade técnica aprimorada da Agência Pata de Gato, finalmente alcançamos uma conexão permanente.",
+        "es-ES": "[Gerente del Portal]\nHasta ahora, esa conexión duraba cuatro días.\nSin embargo, con la capacidad técnica mejorada de la Agencia Pata de Gato, finalmente hemos logrado una conexión permanente."
+    },
+    "vya9DQ": {
+        "en-US": "[Gate Attendant]\nWe open the gate free of charge to guild members of the guild that occupies each castle.\nTo cover maintenance costs, we charge a prescribed fee to others.",
+        "pt-BR": "[Gerente do Portal]\nAbrimos o portal gratuitamente para os membros do clã que ocupa cada castelo.\nPara cobrir os custos de manutenção, cobramos uma taxa de serviço do resto do público.",
+        "es-ES": "[Gerente del Portal]\nAbrimos el portal de forma gratuita para los miembros del clan que ocupa cada castillo.\nPara cubrir los costos de mantenimiento, les cobramos una tarifa a los demás."
+    },
+    "wCa9DQ": {
+        "en-US": "[Gate Attendant]\nThis is for the stable and continuous service of the gate, so we ask for your patronage.",
+        "pt-BR": "[Gerente do Portal]\nIsso é pelo bem de um serviço estável e contínuo do portal, portanto, pedimos sua compreensão.",
+        "es-ES": "[Gerente del Portal]\nEsto es para el servicio estable y continuo del portal, por lo que pedimos su comprensión."
+    },
+    "wSa9DQ": {
+        "en-US": "Gate Manager",
+        "pt-BR": "Gerente do Portal",
+        "es-ES": "Gerente del Portal"
+    },
+    "wia9DQ": {
+        "en-US": "[Gate Manager]\nI am the gate attendant dispatched from the Dimensional Movement Management Department of the Cat Hand Services.\nHow may I assist you?",
+        "pt-BR": "[Gerente do Portal]\nSou da Agência Pata de Gato, trabalhando como Gerente do Portal do Abismo. Em que posso ajudar?",
+        "es-ES": "[Gerente del Portal]\nSoy de la agencia Pata de Gato y trabajo como gerente del Portal del Abismo. ¿En qué te puedo ayudar?"
+    },
+    "wya9DQ": {
+        "en-US": "Dungeon 2F Access",
+        "pt-BR": "Acesso ao 2º andar",
+        "es-ES": "Acceso al piso 2"
+    },
+    "xCa9DQ": {
+        "en-US": "Corridor of the Abyss Access",
+        "pt-BR": "Acesso ao Portal do Abismo",
+        "es-ES": "Acceso al Portal del Abismo"
+    },
+    "xSa9DQ": {
+        "en-US": "[Gate Manager]\nSo you wish to explore the depths of the Greenwood Lake Dungeon.\nI will guide you. Good luck.",
+        "pt-BR": "[Gerente do Portal]\nEntão deseja explorar as profundezas do Calabouço do Bosque Celestial.\nVou guiar você. Boa sorte.",
+        "es-ES": "[Gerente del Portal]\nEntonces deseas explorar las profundidades de la Mazmorra del Lago Greenwood. Te guiaré. Buena suerte."
+    },
+    "xia9DQ": {
+        "en-US": "[Gate Manager]\nI will guide you to 'Ancient Wind', the dimensional rift connected to Greenwood Lake – the Corridor of the Abyss. Good luck.",
+        "pt-BR": "[Gerente do Portal]\nEnviarei você para o Portal do Abismo chamado \"Ventos Ancestrais\".",
+        "es-ES": "[Gerente del Portal]\nTe guiaré hasta el Portal del Abismo llamado \"Viento Antiguo\"."
+    },
+    "xya9DQ": {
+        "en-US": "[Gate Manager]\nPlease count on us again next time.",
+        "pt-BR": "[Gerente do Portal]\nPor favor, utilize nossos serviços novamente na próxima vez.",
+        "es-ES": "[Gerente del Portal]\nPor favor, utiliza nuestros servicios nuevamente la próxima vez."
+    },
+    "yCa9DQ": {
+        "en-US": "[Gate Manager]\nYou are not currently a guild member of the guild occupying the castle.\nPlease pay the entrance fee through the gate attendant in the center of Greenwood Lake to use our services.",
+        "pt-BR": "[Gerente do Portal]\nVocê não é atualmente um membro do clã que ocupa o castelo.\nPor favor, pague a taxa de entrada através da Gerente do Portal no Bosque Celestial para utilizar nossos serviços.",
+        "es-ES": "[Gerente del Portal]\nActualmente no eres miembro del clan que ocupa el castillo.\nPor favor, paga la tarifa de entrada a través de la Gerente del Portal en el Lago Greenwood y utiliza nuestros servicios."
+    }
+}

@@ -136,7 +136,7 @@
     },
     "G8NNDQ": {
         "en-US": "[Banyak]\nWhat a pleasant surprise! To meet you here, of all places.",
-        "pt-BR": "[Banyak]\nQue alegria vê-lo, ainda mais aqui.",
+        "pt-BR": "[Banyak]\nQue alegria te rever, ainda mais aqui.",
         "es-ES": "[Banyak]\n¡Qué alegría verte! Encontrarnos aquí, nada menos."
     },
     "HMNNDQ": {
@@ -156,7 +156,7 @@
     },
     "H8NNDQ": {
         "en-US": "[Banyak]\nBy the way, have you been well? Your complexion looks very dark... You look very tired. Your energy also seems unstable.",
-        "pt-BR": "[Banyak]\nDe qualquer forma, como tem passado? Seu semblante parece muito abatido... Você parece muito cansado. Sua energia também parece instável.",
+        "pt-BR": "[Banyak]\nDe qualquer forma, como tem passado? Seu semblante parece muito abatido... Você parece sofrer de cansaço. Sua energia também parece instável.",
         "es-ES": "[Banyak]\nPor cierto, ¿cómo te ha ido todo este tiempo? Tienes muy mala cara... Parece que estás muy cansado. Y tu energía también parece inestable."
     },
     "IMNNDQ": {
@@ -191,7 +191,7 @@
     },
     "JsNNDQ": {
         "en-US": "[Banyak]\nInside this tavern, there is a painting of a mountain peak hanging on the wall. Stand before it, show proper respect, and shout this.\n= One who seeks to meet the Taoist is here. Achoo! Achoo! Achoochoo! =",
-        "pt-BR": "[Banyak]\nHá uma pintura com um pico desenhado pendurada aqui na taverna. Preste seus respeitos diante dela e grite assim:\n= Aquele que deseja encontrar o taoísta está aqui. Atchim! Atchim! Atchitchim! =",
+        "pt-BR": "[Banyak]\nHá uma pintura com um pico desenhado pendurada lá na taverna. Preste seus respeitos diante dela e grite assim:\n= Aquele que deseja encontrar a Taoísta está aqui. Atchim! Atchim! Atchitchim! =",
         "es-ES": "[Banyak]\nEn esta posada hay un cuadro con un pico de montaña. Ponte delante de él, muestra el debido respeto y grita lo siguiente:\n= Quien desea conocer al daoísta está aquí. ¡Achís! ¡Achís! ¡Achichís! ="
     },
     "J8NNDQ": {
@@ -201,7 +201,7 @@
     },
     "KMNNDQ": {
         "en-US": "[Banyak]\nYes. Then that person will appear. If you tell them about your condition, they should help you. Probably?",
-        "pt-BR": "[Banyak]\nSim. E essa pessoa aparecerá. Se contar sobre seu estado, ela o ajudará. Provavelmente?",
+        "pt-BR": "[Banyak]\nSim. E essa pessoa aparecerá. Se contar sobre seu estado, ela te ajudará. Talvez?",
         "es-ES": "[Banyak]\nSí. Entonces aparecerá esa persona. Si le cuentas cuál es tu situación, te ayudará. Probablemente."
     },
     "KcNNDQ": {
@@ -216,27 +216,27 @@
     },
     "K8NNDQ": {
         "en-US": "[Banyak]\nDid you forget the incantation? Inside this tavern, stand before the painting of a mountain peak, show proper respect, and shout this.\n= One who seeks to meet the Taoist is here. Achoo! Achoo! Achoochoo! =",
-        "pt-BR": "[Banyak]\nEsqueceu o encantamento? Preste seus respeitos diante da pintura com um pico desenhado aqui nda taverna e grite assim:\n= Aquele que deseja encontrar o Taoísta está aqui. Atchim! Atchim! Atchitchim! =",
+        "pt-BR": "[Banyak]\nEsqueceu o encantamento? Preste seus respeitos diante da pintura com um pico desenhado aqui nda taverna e grite assim:\n= Aquele que deseja encontrar a Taoísta está aqui. Atchim! Atchim! Atchitchim! =",
         "es-ES": "[Banyak]\n¿Has olvidado las palabras? En esta posada hay un cuadro con un pico de montaña. Ponte delante de él, muestra el debido respeto y grita lo siguiente:\n= Quien desea conocer al daoísta está aquí. ¡Achís! ¡Achís! ¡Achichís! ="
     },
     "LMNNDQ": {
         "en-US": "[Banyak]\nTraveler, did you meet the master?",
-        "pt-BR": "[Banyak]\nViajante, encontrou o mestre?",
+        "pt-BR": "[Banyak]\nViajante, encontrou a mestre?",
         "es-ES": "[Banyak]\nViajero, ¿ya conociste al maestro?"
     },
     "LcNNDQ": {
         "en-US": "Has that person not arrived yet?",
-        "pt-BR": "Ele ainda não chegou?",
+        "pt-BR": "Ela ainda não chegou?",
         "es-ES": "¿Aún no llegó esa persona?"
     },
     "LsNNDQ": {
         "en-US": "[Banyak]\nThere he comes. Master! Master Jeon! Over here.",
-        "pt-BR": "[Banyak]\nLá vem ele. Mestre! Mestre Jeon! Aqui.",
+        "pt-BR": "[Banyak]\nLá vem ela. Mestre! Mestre Jeon! Aqui.",
         "es-ES": "[Banyak]\nAhí viene. ¡Maestro! ¡Maestro Jeon! Por aquí."
     },
     "L8NNDQ": {
         "en-US": "[Exorcist]\nBanyak. It has been a long time.",
-        "pt-BR": "[Exorcista]\nBanyak. Há quanto tempo.",
+        "pt-BR": "[Jonchosa]\nBanyak. Há quanto tempo.",
         "es-ES": "[Exorcista]\nBanyak. ¡Cuánto tiempo!"
     },
     "MMNNDQ": {
@@ -246,17 +246,17 @@
     },
     "McNNDQ": {
         "en-US": "[Exorcist]\nIndeed. I heard you introduced me to this person and asked me to help. I came to confirm it.",
-        "pt-BR": "[Exorcista]\nExato. Ouvi dizer que você me apresentou a esta pessoa. E pediu que eu a ajudasse. Vim confirmar.",
+        "pt-BR": "[Jonchosa]\nExato. Ouvi dizer que você me apresentou a esta pessoa. E pediu que eu a ajudasse. Vim confirmar.",
         "es-ES": "[Exorcista]\nAsí es. Me dijeron que me recomendaste a esta persona y que me pediste que la ayudara. Vine a comprobarlo."
     },
     "MsNNDQ": {
         "en-US": "[Banyak]\nThat's right. The traveler is in desperate need of help.",
-        "pt-BR": "[Banyak]\nSim. O viajante precisa muito de ajuda.",
+        "pt-BR": "[Banyak]\nSim. Essa pessoa precisa muito de ajuda.",
         "es-ES": "[Banyak]\nAsí es. El viajero necesita ayuda con urgencia."
     },
     "M8NNDQ": {
         "en-US": "[Exorcist]\nWhy should I help this one?",
-        "pt-BR": "[Exorcista]\nE por que eu deveria ajudá-lo?",
+        "pt-BR": "[Jonchosa]\nE por que eu deveria ajudar?",
         "es-ES": "[Exorcista]\n¿Y por qué tendría que ayudar a esta persona?"
     },
     "NMNNDQ": {
@@ -266,17 +266,17 @@
     },
     "NcNNDQ": {
         "en-US": "[Exorcist]\nI remember it well...!",
-        "pt-BR": "[Exorcista]\nLembro-me muito bem...!",
+        "pt-BR": "[Jonchosa]\nLembro-me muito bem...!",
         "es-ES": "[Exorcista]\n¡Lo recuerdo perfectamente...!"
     },
     "NsNNDQ": {
         "en-US": "[Banyak]\nEven if it weren't a debt, this is still someone in trouble. Please help, kind-hearted master. I would like to help, but this is not something I can do.",
-        "pt-BR": "[Banyak]\nMesmo que não fosse por uma dívida, ele é alguém em dificuldades. Peço que o ajude com seu coração generoso, mestre. Eu gostaria de ajudar, mas não é algo que eu possa fazer.",
+        "pt-BR": "[Banyak]\nMesmo que não fosse por uma dívida, essa pessoa tem dificuldades. Peço que ajude com seu coração generoso, mestre. Eu gostaria de ajudar, mas não é algo que eu possa fazer.",
         "es-ES": "[Banyak]\nAunque no fuera por la deuda, sigue siendo alguien que necesita ayuda. Ayúdalo, maestro de gran corazón. Me gustaría ayudarlo yo, pero no es algo que pueda hacer."
     },
     "N8NNDQ": {
         "en-US": "[Exorcist]\nFine. What help do you need from me? Should I write you a talisman?",
-        "pt-BR": "[Exorcista]\nMuito bem, que tipo de ajuda você precisa de mim? Devo escrever um talismã para você?",
+        "pt-BR": "[Jonchosa]\nMuito bem, que tipo de ajuda você precisa de mim? Devo escrever um talismã para você?",
         "es-ES": "[Exorcista]\nBien, ¿qué ayuda necesitas de mí? ¿Debo escribirte un talismán?"
     },
     "OMNNDQ": {
@@ -286,12 +286,12 @@
     },
     "OcNNDQ": {
         "en-US": "[Exorcist]\nI'm no physician. Are you asking me to examine someone just because they look half dead?",
-        "pt-BR": "[Exorcista]\nNão sou médico. Está me pedindo para examinar alguém só porque parece estar morrendo?",
+        "pt-BR": "[Jonchosa]\nNão sou médica. Está me pedindo para examinar alguém só porque parece estar morrendo?",
         "es-ES": "[Exorcista]\nNo soy médico. ¿Me pides que examine a alguien solo porque parece medio muerto?"
     },
     "OsNNDQ": {
         "en-US": "[Banyak]\nYou'll look anyway. Come on.",
-        "pt-BR": "[Banyak]\nMas o senhor vai examinar, não vai? Vamos.",
+        "pt-BR": "[Banyak]\nMas a senhora vai examinar, não vai? Por favor.",
         "es-ES": "[Banyak]\nAun así, lo examinarás. Vamos."
     },
     "O8NNDQ": {
@@ -301,7 +301,7 @@
     },
     "PMNNDQ": {
         "en-US": "[Exorcist]\nHuh? Look at this. You handle souls, but you have far exceeded the range of power your body can endure. You won't live long.",
-        "pt-BR": "[Exorcista]\nHã? Ora, veja só. Você lida com almas, mas já ultrapassou em muito o limite de poder que seu corpo consegue suportar. Não viverá por muito tempo.",
+        "pt-BR": "[Jonchosa]\nHã? Ora, veja só. Você lida com almas, mas já ultrapassou em muito o limite de poder que seu corpo consegue suportar. Não viverá por muito tempo.",
         "es-ES": "[Exorcista]\n¿Eh? ¿Qué tenemos aquí? Manipulas almas, pero superaste con creces el límite de poder que tu cuerpo puede soportar. No vivirás mucho."
     },
     "PcNNDQ": {
@@ -311,7 +311,7 @@
     },
     "PsNNDQ": {
         "en-US": "[Exorcist]\n10.",
-        "pt-BR": "[Exorcista]\n10.",
+        "pt-BR": "[Jonchosa]\n10.",
         "es-ES": "[Exorcista]\n10."
     },
     "P8NNDQ": {
@@ -321,17 +321,17 @@
     },
     "QMNNDQ": {
         "en-US": "[Exorcist]\n9...",
-        "pt-BR": "[Exorcista]\n9...",
+        "pt-BR": "[Jonchosa]\n9...",
         "es-ES": "[Exorcista]\n9..."
     },
     "QcNNDQ": {
         "en-US": "[Exorcist]\n9...\n8...",
-        "pt-BR": "[Exorcista]\n9...\n8...",
+        "pt-BR": "[Jonchosa]\n9...\n8...",
         "es-ES": "[Exorcista]\n9...\n8..."
     },
     "QsNNDQ": {
         "en-US": "[Exorcist]\n9...\n8...\n7...",
-        "pt-BR": "[Exorcista]\n9...\n8...\n7...",
+        "pt-BR": "[Jonchosa]\n9...\n8...\n7...",
         "es-ES": "[Exorcista]\n9...\n8...\n7..."
     },
     "Q8NNDQ": {
@@ -341,7 +341,7 @@
     },
     "RMNNDQ": {
         "en-US": "[Exorcist]\nIt was a joke.",
-        "pt-BR": "[Exorcista]\nÉ brincadeira.",
+        "pt-BR": "[Jonchosa]\nÉ brincadeira.",
         "es-ES": "[Exorcista]\nEra una broma."
     },
     "RcNNDQ": {
@@ -351,7 +351,7 @@
     },
     "RsNNDQ": {
         "en-US": "[Exorcist]\nI am a Taoist, not a Soul Ascetic. This one is also a Soul Ascetic, not a Taoist.",
-        "pt-BR": "[Exorcista]\nSou taoísta, não um Asceta das Almas. E essa pessoa também é Asceta das Almas, não taoísta.",
+        "pt-BR": "[Jonchosa]\nSou Taoísta, não uma Asceta das Almas. E essa pessoa faz parte dos Ceifadores, não Taoísta.",
         "es-ES": "[Exorcista]\nSoy Daoísta, no Asceta de Almas. Y esta persona también es Asceta de Almas, no Daoísta."
     },
     "R8NNDQ": {
@@ -361,7 +361,7 @@
     },
     "SMNNDQ": {
         "en-US": "[Exorcist]\nThe idea is plausible. However, the vessel of a Taoist is something one is born with. Only those born with it can learn Taoist arts and use talismans.",
-        "pt-BR": "[Exorcista]\nA ideia faz sentido. Mas o recipiente de um taoísta é algo inato. Apenas os que nascem com ele podem aprender artes taoístas e usar talismãs.",
+        "pt-BR": "[Jonchosa]\nA ideia faz sentido. Mas o recipiente de um taoísta é algo inato. Apenas os que nascem com ele podem aprender artes taoístas e usar talismãs.",
         "es-ES": "[Exorcista]\nLa idea tiene sentido. Pero el recipiente de un daoísta es algo con lo que se nace. Solo quienes nacen con él pueden aprender artes daoístas y usar talismanes."
     },
     "ScNNDQ": {
@@ -371,7 +371,7 @@
     },
     "SsNNDQ": {
         "en-US": "[Exorcist]\nOnly if they die and come back to life.",
-        "pt-BR": "[Exorcista]\nSó morrendo e voltando à vida.",
+        "pt-BR": "[Jonchosa]\nSó morrendo e voltando à vida.",
         "es-ES": "[Exorcista]\nSolo morir y volver a la vida."
     },
     "S8NNDQ": {
@@ -381,37 +381,37 @@
     },
     "TMNNDQ": {
         "en-US": "[Exorcist]\nFor one who already walks another path to learn Taoist arts, they would need to steadily train their energy for a thousand years to strengthen their vessel and learn how to use the tools.",
-        "pt-BR": "[Exorcista]\nPara alguém que já trilha outro caminho para aprender artes taoístas, seria preciso treinar a energia pouco a pouco por mil anos para fortalecer o recipiente e aprender a usar as ferramentas.",
+        "pt-BR": "[Jonchosa]\nPara alguém que já trilha outro caminho para aprender artes taoístas, seria preciso treinar a energia pouco a pouco por mil anos para fortalecer o recipiente e aprender a usar as ferramentas.",
         "es-ES": "[Exorcista]\nPara que alguien que ya sigue otro camino pueda aprender artes daoístas, tendría que entrenar su energía de forma constante durante mil años para fortalecer su recipiente y aprender a usar los talismanes."
     },
     "TcNNDQ": {
         "en-US": "[Exorcist]\nBut I am not sure whether you have that much resolve.",
-        "pt-BR": "[Exorcista]\nMas não sei se você tem tamanha determinação.",
+        "pt-BR": "[Jonchosa]\nMas não sei se você tem tamanha determinação.",
         "es-ES": "[Exorcista]\nAunque no sé si tienes tanta determinación."
     },
     "TsNNDQ": {
         "en-US": "I am ready!!!",
-        "pt-BR": "Estou preparado!!!",
+        "pt-BR": "Eu tenho determinação!!!",
         "es-ES": "¡¡¡Estoy preparado!!!"
     },
     "T8NNDQ": {
         "en-US": "[Exorcist]\nHmm... If you make good use of your firm will, the experience you have built as an adventurer, and your exceptional qualities, it may not be impossible. Very well. I will try teaching this one Taoist arts. I shall accept you as my ^0000CDtemporary disciple^000000.",
-        "pt-BR": "[Exorcista]\nHmm... Se aproveitar bem sua firme vontade, a experiência acumulada como aventureiro e seu talento excepcional, talvez não seja impossível. Muito bem. Tentarei ensinar artes taoístas a essa pessoa. Aceitarei você como meu ^0000CDdiscípulo temporário^000000.",
+        "pt-BR": "[Jonchosa]\nHmm... Se aproveitar bem sua firme vontade, a experiência acumulada como aventureiro e seu talento excepcional, talvez não seja impossível. Muito bem. Tentarei ensinar artes taoístas a essa pessoa. Aceitarei você como meu ^0000CDdiscípulo temporário^000000.",
         "es-ES": "[Exorcista]\nMmm... Si aprovechas bien tu firme voluntad, la experiencia que has acumulado como aventurero y tus cualidades excepcionales, quizá no sea imposible. Bien. Intentaré enseñarte artes daoístas. Te aceptaré como ^0000CDdiscípulo provisional^000000."
     },
     "UMNNDQ": {
         "en-US": "Thank you, Master.",
-        "pt-BR": "Obrigado, mestre.",
+        "pt-BR": "Agradeço, mestre.",
         "es-ES": "Gracias, maestro."
     },
     "UcNNDQ": {
         "en-US": "[Exorcist]\nIt is too early to thank me. All I can do is teach. Learning and mastering it will be entirely up to this one.",
-        "pt-BR": "[Exorcista]\nAinda é cedo para agradecer. O que posso fazer é apenas ensinar; aprender e dominar caberá inteiramente a você.",
+        "pt-BR": "[Jonchosa]\nAinda é cedo para agradecer. O que posso fazer é apenas ensinar; aprender e dominar caberá inteiramente a você.",
         "es-ES": "[Exorcista]\nAún es pronto para agradecerme. Lo único que puedo hacer es enseñar; aprenderlo y dominarlo dependerá por completo de ti."
     },
     "UsNNDQ": {
         "en-US": "[Exorcist]\nMy training will be extremely harsh. Are you prepared?",
-        "pt-BR": "[Exorcista]\nMeus ensinamentos serão muito rigorosos. Está preparado?",
+        "pt-BR": "[Jonchosa]\nMeus ensinamentos serão muito rigorosos. Está com tudo preparado?",
         "es-ES": "[Exorcista]\nMi enseñanza será muy dura. ¿Estás preparado?"
     },
     "U8NNDQ": {
@@ -421,7 +421,7 @@
     },
     "VMNNDQ": {
         "en-US": "[Exorcist]\nGood to hear. This place is not suitable for training, so let us move elsewhere.",
-        "pt-BR": "[Exorcista]\nÉ bom saber. Este lugar não é adequado para treinamento, vamos mudar de local.",
+        "pt-BR": "[Jonchosa]\nÉ bom saber. Este lugar não é adequado para treinamento, vamos mudar de local.",
         "es-ES": "[Exorcista]\nEso quería oír. Este lugar no es adecuado para entrenar, así que vayamos a otro sitio."
     },
     "VcNNDQ": {
@@ -431,7 +431,7 @@
     },
     "VsNNDQ": {
         "en-US": "[Exorcist]\nWait a moment. I have preparations to make, so speak with Banyak in the meantime.",
-        "pt-BR": "[Exorcista]\nEspere um momento. Tenho algo a preparar, converse com Banyak enquanto isso.",
+        "pt-BR": "[Jonchosa]\nEspere um momento. Tenho algo a preparar, converse com Banyak enquanto isso.",
         "es-ES": "[Exorcista]\nEspera un momento. Tengo que preparar algo. Mientras tanto, habla con Banyak."
     },
     "V8NNDQ": {
@@ -446,17 +446,17 @@
     },
     "WcNNDQ": {
         "en-US": "[Exorcist]\nIt is not as though we are going off to die. Why say such a thing?\nDisciple, have you prepared your heart? I must also send word to my household, so tell me as soon as you are ready.",
-        "pt-BR": "[Exorcista]\nVocê fala como se ele fosse morrer.\nDiscípulo, está mentalmente preparado? Preciso avisar meus familiares também, portanto, diga-me assim que estiver pronto.",
+        "pt-BR": "[Jonchosa]\nVocê fala como se fosse morrer.\nDiscípulo, está mentalmente preparado? Preciso avisar meus familiares também, portanto, diga-me assim que estiver com tudo pronto.",
         "es-ES": "[Exorcista]\nNo va a morir, no hace falta decirlo así.\nDiscípulo, ¿te sientes preparado? También debo avisar a los míos, así que dímelo en cuanto estés listo."
     },
     "WsNNDQ": {
         "en-US": "You may send word now.",
-        "pt-BR": "Acho que já pode avisá-los.",
+        "pt-BR": "Avise seus familiares.",
         "es-ES": "Creo que ya puede avisarlos."
     },
     "W8NNDQ": {
         "en-US": "I think we can depart now!",
-        "pt-BR": "Acho que já podemos partir!",
+        "pt-BR": "Podemos partir!",
         "es-ES": "Creo que ya podemos partir."
     },
     "XMNNDQ": {
@@ -466,47 +466,47 @@
     },
     "XcNNDQ": {
         "en-US": "[Exorcist]\nWait. Now that I look, you have not even finished growing yet, have you? You would not endure this. Go train on your own somewhere else first. I will wait.",
-        "pt-BR": "[Exorcista]\nEspere, agora que vejo, você ainda nem terminou de crescer. Assim não aguentará. Vá treinar sozinho em outro lugar e volte. Eu esperarei.",
+        "pt-BR": "[Jonchosa]\nEspere, agora que vejo, você ainda nem terminou de crescer. Assim não aguentará. Vá treinar sozinho em outro lugar e volte. Eu esperarei.",
         "es-ES": "[Exorcista]\nEspera. Ahora que me fijo, aún no has terminado de crecer, ¿verdad? No lo soportarías. Ve a entrenar por tu cuenta a otro sitio primero. Te esperaré."
     },
     "XsNNDQ": {
         "en-US": "[Exorcist]\nBefore you go, form a one-person party first. The mindset of enduring lonely training alone is important.",
-        "pt-BR": "[Exorcista]\nAntes de ir, forme um grupo de uma pessoa. A mentalidade de suportar um treinamento solitário é importante.",
+        "pt-BR": "[Jonchosa]\nAntes de ir, forme um grupo de uma pessoa. A mentalidade de suportar um treinamento solitário é importante.",
         "es-ES": "[Exorcista]\nAntes de irte, forma primero un grupo de una sola persona. Es importante tener la mentalidad de soportar un entrenamiento en solitario."
     },
     "X8NNDQ": {
         "en-US": "[Exorcist]\nWait a moment. My household will notify me when they are ready to receive a new disciple.",
-        "pt-BR": "[Exorcista]\nEspere um momento. Meus familiares avisarão quando estiverem prontos para receber um novo discípulo.",
+        "pt-BR": "[Jonchosa]\nEspere um momento. Meus familiares avisarão quando estiverem prontos para receber um novo discípulo.",
         "es-ES": "[Exorcista]\nEspera un momento. Me avisarán cuando los míos estén preparados para recibir a un nuevo discípulo."
     },
     "YMNNDQ": {
         "en-US": "[Exorcist]\nThey have finished preparing, so let us go.",
-        "pt-BR": "[Exorcista]\nComo os preparativos terminaram, vamos partir.",
+        "pt-BR": "[Jonchosa]\nComo os preparativos terminaram, vamos partir.",
         "es-ES": "[Exorcista]\nYa terminaron los preparativos, así que vámonos."
     },
     "YcNNDQ": {
         "en-US": "[Exorcist]\nThen let us depart at once.",
-        "pt-BR": "[Exorcista]\nEntão vamos partir imediatamente.",
+        "pt-BR": "[Jonchosa]\nEntão vamos partir imediatamente.",
         "es-ES": "[Exorcista]\nEntonces partamos de inmediato."
     },
     "YsNNDQ": {
         "en-US": "[Exorcist]\n... Wait a moment. Something seems to have gone wrong.",
-        "pt-BR": "[Exorcista]\n... Espere um momento. Parece que algo deu errado.",
+        "pt-BR": "[Jonchosa]\n... Espere um momento. Parece que algo deu errado.",
         "es-ES": "[Exorcista]\n... Espera un momento. Parece que algo salió mal."
     },
     "Y8NNDQ": {
         "en-US": "[Exorcist]\nWait... why are you in such a hurry? I have not even sent word yet.",
-        "pt-BR": "[Exorcista]\nEspere... Por que tanta pressa? Ainda nem enviei o aviso.",
+        "pt-BR": "[Jonchosa]\nEspere... Por que tanta pressa? Ainda nem enviei o aviso.",
         "es-ES": "[Exorcista]\nEspera... ¿Por qué tanta prisa? Aún no he avisado a los míos."
     },
     "ZMNNDQ": {
         "en-US": "[Exorcist]\nI told you to form a one-person party before you go.",
-        "pt-BR": "[Exorcista]\nEu disse para formar um grupo de uma pessoa antes de ir.",
+        "pt-BR": "[Jonchosa]\nEu disse para formar um grupo de uma pessoa antes de ir.",
         "es-ES": "[Exorcista]\nTe dije que formaras un grupo de una sola persona antes de irte."
     },
     "ZcNNDQ": {
         "en-US": "[Exorcist]\nLook into this gourd. What do you see inside?",
-        "pt-BR": "[Exorcista]\nOlhe dentro desta cabaça. O que vê lá dentro?",
+        "pt-BR": "[Jonchosa]\nOlhe dentro desta cabaça. O que vê lá dentro?",
         "es-ES": "[Exorcista]\nMira dentro de esta calabaza. ¿Qué ves en su interior?"
     },
     "ZsNNDQ": {
@@ -516,22 +516,22 @@
     },
     "Z8NNDQ": {
         "en-US": "Traveler {0} is sucked into the gourd.",
-        "pt-BR": "Viajante {0}, você é sugado para dentro da cabaça.",
+        "pt-BR": "{0} está trilhando o caminho dos Ascetas.",
         "es-ES": "El viajero {0} es absorbido al interior de la calabaza."
     },
     "aMNNDQ": {
         "en-US": "[Exorcist]\nWhat is there so much to prepare?",
-        "pt-BR": "[Exorcista]\nPor que há tanta coisa para preparar?",
+        "pt-BR": "[Jonchosa]\nPor que há tanta coisa para preparar?",
         "es-ES": "[Exorcista]\n¿Por qué hay tanto que preparar?"
     },
     "acNNDQ": {
         "en-US": "Exorcist",
-        "pt-BR": "Exorcista",
+        "pt-BR": "Jonchosa",
         "es-ES": "Exorcista"
     },
     "asNNDQ": {
         "en-US": "[Exorcist]\nI have something to discuss with Banyak first, so wait.",
-        "pt-BR": "[Exorcista]\nTenho algo a discutir primeiro com Banyak, espere.",
+        "pt-BR": "[Jonchosa]\nTenho algo a discutir primeiro com Banyak, espere.",
         "es-ES": "[Exorcista]\nPrimero tengo algo que hablar con Banyak, así que espera."
     },
     "a8NNDQ": {
@@ -541,7 +541,7 @@
     },
     "bMNNDQ": {
         "en-US": "Piii---",
-        "pt-BR": "Pii---",
+        "pt-BR": "Piu---",
         "es-ES": "Piiii---"
     },
     "bcNNDQ": {
@@ -551,7 +551,7 @@
     },
     "bsNNDQ": {
         "en-US": "Landscape Painting",
-        "pt-BR": "Pintura de paisagem",
+        "pt-BR": "Pintura de Paisagem",
         "es-ES": "Cuadro de paisaje"
     },
     "b8NNDQ": {
@@ -566,7 +566,7 @@
     },
     "ccNNDQ": {
         "en-US": "[{0}]\nOne who seeks to meet the Taoist is here. Achoo! Achoo! Achoochoo!",
-        "pt-BR": "[{0}]\nAquele que deseja encontrar o Taoísta está aqui. Atchim! Atchim! Atchitchim!",
+        "pt-BR": "[{0}]\nAquele que deseja encontrar a Taoísta está aqui. Atchim! Atchim! Atchitchim!",
         "es-ES": "[{0}]\nQuien desea conocer al daoísta está aquí. ¡Achís! ¡Achís! ¡Achichís!"
     },
     "csNNDQ": {
@@ -581,7 +581,7 @@
     },
     "dMNNDQ": {
         "en-US": "[Dog]\nPiii-",
-        "pt-BR": "[Cão]\nPiii-",
+        "pt-BR": "[Cão]\nPiiiu-",
         "es-ES": "[Perro]\nPiii-"
     },
     "dcNNDQ": {
@@ -621,12 +621,12 @@
     },
     "fMNNDQ": {
         "en-US": "[Jangseung]\nBanyak? Banyak... Banyak, you say.",
-        "pt-BR": "[Jangseung]\nBanyak? Banyak... Banyak, você diz.",
+        "pt-BR": "[Jangseung]\nSenhor Banyak? Ah... Banyak, você diz.",
         "es-ES": "[Jangseung]\n¿Banyak? Banyak... Banyak, dices."
     },
     "fcNNDQ": {
         "en-US": "[Jangseung]\nYou mean that Soul Ascetic.",
-        "pt-BR": "[Jangseung]\nEstá falando daquele Asceta das Almas.",
+        "pt-BR": "[Jangseung]\nEstá falando daquele Ceifador de Almas?",
         "es-ES": "[Jangseung]\nTe refieres a ese Asceta de Almas."
     },
     "fsNNDQ": {

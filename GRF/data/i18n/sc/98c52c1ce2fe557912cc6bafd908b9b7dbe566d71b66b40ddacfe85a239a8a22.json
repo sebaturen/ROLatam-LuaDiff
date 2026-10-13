@@ -276,7 +276,7 @@
     },
     "15h7": {
         "en-US": "^FF0000[Vol. 10: Small Earth Monsters]^000000\n5. Coco\nA small Squirrel with dark, piercing eyes. It's always holding an Acorn, and would be cute if it didn't always have a look of utter contempt.\n^0099FFItem Drops^000000: Acorn, Fluff, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Vol. 10: Monstros de Terra Pequenos]^000000\n5. Koko\nUm pequeno Esquilo com olhos escuros e penetrantes. Está sempre segurando uma Avelã e seria fofo se não estivesse sempre com cara de desdém.\n^0099FFItens Soltos^000000: Avelã, Felpa, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Vol. 10: Monstros de Terra Pequenos]^000000\n5. Koko\nUm pequeno Esquilo com olhos escuros e penetrantes. Está sempre segurando uma Avelã e seria fofo se não estivesse sempre com cara de desdém.\n^0099FFItens Soltos^000000: Avelã, Felpa, Couro, Batata-doce",
         "es-ES": "^FF0000[Vol.10: Monstruos de tierra pequeños]^000000\n5. Coco\nUna ardilla pequeña de ojos oscuros y penetrantes. Siempre lleva una bellota en la mano, y sería adorable si no tuviera siempre una mirada de desprecio absoluto.\n^0099FFBotín^000000: Bellota, Pelusa, Cuero, Batata"
     },
     "2Jh7": {
@@ -286,7 +286,7 @@
     },
     "2Zh7": {
         "en-US": "^FF0000[Vol. 10: Small Earth Monsters]^000000\n7. Smokie\nA chubby little raccoon that loves nothing better than to scamper. It's rumored to use a magic leaf to become invisible!\n^0099FFItem Drops^000000: Raccon Leaf, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Vol. 10: Monstros de Terra Pequenos]^000000\n7. Fumacento\nUm pequeno racum gorducho que gosta de correr mais que tudo. Dizem que ele usa uma folha mágica para ficar invisível!\n^0099FFItens Soltos^000000: Folha de Racum, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Vol. 10: Monstros de Terra Pequenos]^000000\n7. Fumacento\nUm pequeno racum gorducho que gosta de correr mais que tudo. Dizem que ele usa uma folha mágica para ficar invisível!\n^0099FFItens Soltos^000000: Folha de Racum, Couro, Batata-doce",
         "es-ES": "^FF0000[Vol.10: Monstruos de tierra pequeños]^000000\n7. Smokie\nUn pequeño mapache gordito que ama corretear. ¡Se rumorea que usa una hoja mágica para hacerse invisible!\n^0099FFBotín^000000: Hoja de mapache, Cuero, Batata"
     },
     "2ph7": {
@@ -316,7 +316,7 @@
     },
     "35h7": {
         "en-US": "^FF0000[Vol. 11: Medium Earth Monsters]^000000\n1. Willow\nCreature reborn from an old tree. Its features and the sounds it makes are incredibly eerie.\n^0099FFItem Drops^000000: Tree Root, Trunk, Red Herb, Sweet Potato",
-        "pt-BR": "^FF0000[Vol. 11: Monstros de Terra Médios]^000000\n1. Salgueiro\nCriatura renascida de uma árvore antiga. Seus traços e os sons que faz são muito sinistros.\n^0099FFItens Soltos^000000: Raiz de Árvore, Tronco, Erva Vermelha, Batata Doce",
+        "pt-BR": "^FF0000[Vol. 11: Monstros de Terra Médios]^000000\n1. Salgueiro\nCriatura renascida de uma árvore antiga. Seus traços e os sons que faz são muito sinistros.\n^0099FFItens Soltos^000000: Raiz de Árvore, Tronco, Erva Vermelha, Batata-doce",
         "es-ES": "^FF0000[Vol.11: Monstruos de tierra medianos]^000000\n1. Sauce\nCriatura renacida de un árbol viejo. Sus características y los sonidos que emite son increíblemente espeluznantes.\n^0099FFBotín^000000: Raíz de árbol, Tronco, Hierba roja, Batata"
     },
     "4Jh7": {
@@ -381,7 +381,7 @@
     },
     "7Jh7": {
         "en-US": "^FF0000[Vol. 12: Great Earth Monsters]^000000\n3. Bigfoot\nAlthough its name may be misleading, Bigfoot is actually a large bear. It walks like it owns the forest, and it does.\n^0099FFItem Drops^000000: Bear's Foot Skin, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Vol. 12: Monstros de Terra Grandes]^000000\n3. Pé-grande\nApesar de seu nome poder gerar confusões, o Pé-grande é, na verdade, um urso grande. Ele anda como se fosse o dono da floresta e ele é.\n^0099FFItens Soltos^000000: Pele de Pata de Urso, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Vol. 12: Monstros de Terra Grandes]^000000\n3. Pé-grande\nApesar de seu nome poder gerar confusões, o Pé-grande é, na verdade, um urso grande. Ele anda como se fosse o dono da floresta e ele é.\n^0099FFItens Soltos^000000: Pele de Pata de Urso, Couro, Batata-doce",
         "es-ES": "^FF0000[Vol.12: Monstruos de tierra grandes]^000000\n3. Pie grande\nAunque su nombre puede ser engañoso, Pie grande en realidad es un oso grande. Camina como si fuera el dueño del bosque, y lo es.\n^0099FFBotín^000000: Piel de pata de oso, Cuero, Batata"
     },
     "7Zh7": {
@@ -416,7 +416,7 @@
     },
     "85h7": {
         "en-US": "^0099FFItem Drops^000000: Resin, Trunk, Sweet Potato",
-        "pt-BR": "^0099FFItens Soltos^000000: Resina, Tronco, Batata Doce",
+        "pt-BR": "^0099FFItens Soltos^000000: Resina, Tronco, Batata-doce",
         "es-ES": "^0099FFBotín^000000: Resina, Tronco, Batata"
     },
     "9Jh7": {
@@ -1811,12 +1811,12 @@
     },
     "Cpp7": {
         "en-US": "^FF0000[Prontera Maze 1F Monsters]^000000\n8. Bigfoot\nAlthough its name may be misleading, Bigfoot is actually a large bear. It walks like it owns the forest, and it does.\n^0099FFItem Drops^000000: Bear's Foot Skin, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Labirinto de Prontera 1º Piso]^000000\n8. Pé-grande\nApesar de seu nome poder gerar confusões, o Pé-grande é, na verdade, um urso grande. Ele anda como se fosse o dono da floresta e ele é.\n^0099FFItens Soltos^000000: Pele de Pata de Urso, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Labirinto de Prontera 1º Piso]^000000\n8. Pé-grande\nApesar de seu nome poder gerar confusões, o Pé-grande é, na verdade, um urso grande. Ele anda como se fosse o dono da floresta e ele é.\n^0099FFItens Soltos^000000: Pele de Pata de Urso, Couro, Batata-doce",
         "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P1]^000000\n8. Pie grande\nAunque su nombre puede ser engañoso, Pie grande en realidad es un oso grande. Camina como si fuera el dueño del bosque, y lo es.\n^0099FFBotín^000000: Piel de pata de oso, Cuero, Batata"
     },
     "C5p7": {
         "en-US": "^FF0000[Prontera Maze 1F Monsters]^000000\n9. Smokie\nA chubby little raccoon that loves nothing better than to scamper. It's rumored to use a magic leaf to become invisible!\n^0099FFItem Drops^000000: Raccon Leaf, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Labirinto de Prontera 1º Piso]^000000\n9. Fumacento\nUm pequeno racum gorducho que gosta de correr mais que tudo. Dizem que ele usa uma folha mágica para ficar invisível!\n^0099FFItens Soltos^000000: Folha de Racum, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Labirinto de Prontera 1º Piso]^000000\n9. Fumacento\nUm pequeno racum gorducho que gosta de correr mais que tudo. Dizem que ele usa uma folha mágica para ficar invisível!\n^0099FFItens Soltos^000000: Folha de Racum, Couro, Batata-doce",
         "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P1]^000000\n9. Smokie\nUn pequeño mapache gordito que ama corretear. ¡Se rumorea que usa una hoja mágica para hacerse invisible!\n^0099FFBotín^000000: Hoja de mapache, Cuero, Batata"
     },
     "DJp7": {
@@ -1891,7 +1891,7 @@
     },
     "Gpp7": {
         "en-US": "^FF0000[Prontera Maze 1F Monsters]^000000\n23. Coco\nA small Squirrel with dark, piercing eyes. It's always holding an Acorn, and would be cute if it didn't always have a look of utter contempt.\n^0099FFItem Drops^000000: Acorn, Fluff, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Labirinto de Prontera 1º Piso]^000000\n23. Koko\nUm pequeno Esquilo com olhos escuros e penetrantes. Está sempre segurando uma Avelã e seria fofo se não estivesse sempre com cara de desdém.\n^0099FFItens Soltos^000000: Avelã, Felpa, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Labirinto de Prontera 1º Piso]^000000\n23. Koko\nUm pequeno Esquilo com olhos escuros e penetrantes. Está sempre segurando uma Avelã e seria fofo se não estivesse sempre com cara de desdém.\n^0099FFItens Soltos^000000: Avelã, Felpa, Couro, Batata-doce",
         "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P1]^000000\n23. Coco\nUna ardilla pequeña de ojos oscuros y penetrantes. Siempre lleva una bellota en la mano, y sería adorable si no tuviera siempre una mirada de desprecio absoluto.\n^0099FFBotín^000000: Bellota, Pelusa, Cuero, Batata"
     },
     "G5p7": {
@@ -1946,12 +1946,12 @@
     },
     "JZp7": {
         "en-US": "^FF0000[Prontera Maze 3F Monsters]^000000\n8. Bigfoot\nAlthough its name may be misleading, Bigfoot is actually a large bear. It walks like it owns the forest, and it does.\n^0099FFItem Drops^000000: Bear's Foot Skin, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n8. Pé-grande\nApesar de seu nome poder gerar confusões, o Pé-grande é, na verdade, um urso grande. Ele anda como se fosse o dono da floresta e ele é.\n^0099FFItens Soltos^000000: Pele de Pata de Urso, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n8. Pé-grande\nApesar de seu nome poder gerar confusões, o Pé-grande é, na verdade, um urso grande. Ele anda como se fosse o dono da floresta e ele é.\n^0099FFItens Soltos^000000: Pele de Pata de Urso, Couro, Batata-doce",
         "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P3]^000000\n8. Pie grande\nAunque su nombre puede ser engañoso, Pie grande en realidad es un oso grande. Camina como si fuera el dueño del bosque, y lo es.\n^0099FFBotín^000000: Piel de pata de oso, Cuero, Batata"
     },
     "Jpp7": {
         "en-US": "^FF0000[Prontera Maze 3F Monsters]^000000\n9. Smokie\nA chubby little raccoon that loves nothing better than to scamper. It's rumored to use a magic leaf to become invisible!\n^0099FFItem Drops^000000: Raccon Leaf, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n9. Fumacento\nUm pequeno racum gorducho que gosta de correr mais que tudo. Dizem que ele usa uma folha mágica para ficar invisível!\n^0099FFItens Soltos^000000: Folha de Racum, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n9. Fumacento\nUm pequeno racum gorducho que gosta de correr mais que tudo. Dizem que ele usa uma folha mágica para ficar invisível!\n^0099FFItens Soltos^000000: Folha de Racum, Couro, Batata-doce",
         "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P3]^000000\n9. Smokie\nUn pequeño mapache gordito que ama corretear. ¡Se rumorea que usa una hoja mágica para hacerse invisible!\n^0099FFBotín^000000: Hoja de mapache, Cuero, Batata"
     },
     "J5p7": {
@@ -2016,7 +2016,7 @@
     },
     "M5p7": {
         "en-US": "^FF0000[Prontera Maze 3F Monsters]^000000\n22. Coco\nA small Squirrel with dark, piercing eyes. It's always holding an Acorn, and would be cute if it didn't always have a look of utter contempt.\n^0099FFItem Drops^000000: Acorn, Fluff, Leather, Sweet Potato",
-        "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n22. Koko\nUm pequeno Esquilo com olhos escuros e penetrantes. Está sempre segurando uma Avelã e seria fofo se não estivesse sempre com cara de desdém.\n^0099FFItens Soltos^000000: Avelã, Felpa, Couro, Batata Doce",
+        "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n22. Koko\nUm pequeno Esquilo com olhos escuros e penetrantes. Está sempre segurando uma Avelã e seria fofo se não estivesse sempre com cara de desdém.\n^0099FFItens Soltos^000000: Avelã, Felpa, Couro, Batata-doce",
         "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P3]^000000\n22. Coco\nUna ardilla pequeña de ojos oscuros y penetrantes. Siempre lleva una bellota en la mano, y sería adorable si no tuviera siempre una mirada de desprecio absoluto.\n^0099FFBotín^000000: Bellota, Pelusa, Cuero, Batata"
     },
     "NJp7": {

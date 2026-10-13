@@ -369,8 +369,14 @@
         "pt-BR": "^0000FF{0} ^000000- falha na reserva",
         "es-ES": "^0000FF{0} ^000000- Reserva fallida"
     },
-    "6t82DQ": {},
+    "6t82DQ": {
+        "en-US": "Constellation Tower",
+        "pt-BR": "A Torre da Constelação",
+        "es-ES": "La Torre de la Constelación"
+    },
     "6982DQ": {
-        "pt-BR": "^0000FFForme um grupo com pelo menos 1 pessoa e prossiga.^000000"
+        "en-US": "^0000FFUnless you are the party leader, you cannot create a dungeon.^000000",
+        "pt-BR": "^0000FFForme um grupo com pelo menos 1 pessoa e prossiga.^000000",
+        "es-ES": "^0000FFSi no eres el líder del grupo, no es posible crear una mazmorra.^000000"
     }
 }

@@ -1,84 +1,84 @@
 Navi_Map = {
 	{
 		"06guild_01",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_02",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_03",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_04",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_05",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_06",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_07",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_08",
-		"Arena de Batalha de Cl? ",
+		"Arena de Batalha de Clã ",
 		5001,
 		100,
 		100
 	},
 	{
 		"06guild_r",
-		"Arena de Batalha de Cl? - Sala de Espera ",
+		"Arena de Batalha de Clã - Sala de Espera ",
 		5001,
 		200,
 		200
 	},
 	{
 		"abbey01",
-		"Monast?io ",
+		"Monastério ",
 		5001,
 		400,
 		400
 	},
 	{
 		"abbey02",
-		"Monast?io ",
+		"Monastério ",
 		5001,
 		300,
 		300
 	},
 	{
 		"abbey03",
-		"Monast?io ",
+		"Monastério ",
 		5001,
 		240,
 		240
@@ -99,21 +99,21 @@ Navi_Map = {
 	},
 	{
 		"abyss_01",
-		"Caverna Subterr?ea do Lago do Abismo ",
+		"Caverna Subterrânea do Lago do Abismo ",
 		5001,
 		300,
 		300
 	},
 	{
 		"abyss_02",
-		"Caverna Subterr?ea do Lago do Abismo ",
+		"Caverna Subterrânea do Lago do Abismo ",
 		5001,
 		300,
 		300
 	},
 	{
 		"abyss_03",
-		"Caverna Subterr?ea do Lago do Abismo ",
+		"Caverna Subterrânea do Lago do Abismo ",
 		5001,
 		200,
 		200
@@ -197,28 +197,28 @@ Navi_Map = {
 	},
 	{
 		"alde_dun01",
-		"Torre do Rel?io (s1) ",
+		"Torre do Relógio (s1) ",
 		5001,
 		320,
 		320
 	},
 	{
 		"alde_dun02",
-		"Torre do Rel?io (s2) ",
+		"Torre do Relógio (s2) ",
 		5001,
 		300,
 		300
 	},
 	{
 		"alde_dun03",
-		"Torre do Rel?io (s3) ",
+		"Torre do Relógio (s3) ",
 		5001,
 		300,
 		300
 	},
 	{
 		"alde_dun04",
-		"Torre do Rel?io (s4) ",
+		"Torre do Relógio (s4) ",
 		5001,
 		300,
 		300
@@ -253,14 +253,14 @@ Navi_Map = {
 	},
 	{
 		"ama_dun02",
-		"Campo de Batalha da Floresta Subterr?ea ",
+		"Campo de Batalha da Floresta Subterrânea ",
 		5001,
 		240,
 		240
 	},
 	{
 		"ama_dun03",
-		"Templo Subterr?eo de Amatsu ",
+		"Templo Subterrâneo de Amatsu ",
 		5001,
 		240,
 		240
@@ -351,7 +351,7 @@ Navi_Map = {
 	},
 	{
 		"arug_dun01",
-		"Calabou? Subterr?eo de Castelo ",
+		"Calabouço Subterrâneo de Castelo ",
 		5001,
 		400,
 		400
@@ -365,14 +365,14 @@ Navi_Map = {
 	},
 	{
 		"ayo_dun01",
-		"Labirinto do Santu?io Ancestral ",
+		"Labirinto do Santuário Ancestral ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ayo_dun02",
-		"Interior do Santu?io Ancestral ",
+		"Interior do Santuário Ancestral ",
 		5001,
 		300,
 		300
@@ -533,14 +533,14 @@ Navi_Map = {
 	},
 	{
 		"bif_fild01",
-		"Floresta da Neblina - Sul de Bifr?t ",
+		"Floresta da Neblina - Sul de Bifröst ",
 		5001,
 		400,
 		400
 	},
 	{
 		"bif_fild02",
-		"Floresta da Neblina - Norte de Bifr?t ",
+		"Floresta da Neblina - Norte de Bifröst ",
 		5001,
 		400,
 		400
@@ -617,14 +617,14 @@ Navi_Map = {
 	},
 	{
 		"c_tower1",
-		"Torre do Rel?io (1) ",
+		"Torre do Relógio (1) ",
 		5001,
 		400,
 		400
 	},
 	{
 		"c_tower2",
-		"Torre do Rel?io (2) ",
+		"Torre do Relógio (2) ",
 		5001,
 		300,
 		300
@@ -638,7 +638,7 @@ Navi_Map = {
 	},
 	{
 		"c_tower3",
-		"Torre do Rel?io (3) ",
+		"Torre do Relógio (3) ",
 		5001,
 		260,
 		260
@@ -652,7 +652,7 @@ Navi_Map = {
 	},
 	{
 		"c_tower4",
-		"Torre do Rel?io (4) ",
+		"Torre do Relógio (4) ",
 		5001,
 		216,
 		216
@@ -708,7 +708,7 @@ Navi_Map = {
 	},
 	{
 		"cmd_fild06",
-		"Fortaleza de S? Darmain (Oeste) ",
+		"Fortaleza de São Darmain (Oeste) ",
 		5001,
 		400,
 		400
@@ -722,14 +722,14 @@ Navi_Map = {
 	},
 	{
 		"cmd_fild08",
-		"Fortaleza de S? Darmain (Leste) ",
+		"Fortaleza de São Darmain (Leste) ",
 		5001,
 		400,
 		400
 	},
 	{
 		"cmd_fild09",
-		"Fortaleza de S? Darmain (Sul) ",
+		"Fortaleza de São Darmain (Sul) ",
 		5001,
 		400,
 		400
@@ -757,7 +757,7 @@ Navi_Map = {
 	},
 	{
 		"comodo",
-		"Cidade Litor?ea de Comodo ",
+		"Cidade Litorânea de Comodo ",
 		5001,
 		360,
 		380
@@ -785,7 +785,7 @@ Navi_Map = {
 	},
 	{
 		"dew_dun01",
-		"Vulc? Krakatau ",
+		"Vulcão Krakatau ",
 		5001,
 		360,
 		360
@@ -820,14 +820,14 @@ Navi_Map = {
 	},
 	{
 		"dic_dun01",
-		"T?el Kamidal 01",
+		"Túnel Kamidal 01",
 		5001,
 		400,
 		256
 	},
 	{
 		"dic_dun02",
-		"T?el Kamidal 02",
+		"Túnel Kamidal 02",
 		5001,
 		240,
 		240
@@ -848,7 +848,7 @@ Navi_Map = {
 	},
 	{
 		"dic_dun03",
-		"T?el Kamidal - Pesadelo ",
+		"Túnel Kamidal - Pesadelo ",
 		5001,
 		240,
 		240
@@ -904,14 +904,14 @@ Navi_Map = {
 	},
 	{
 		"ecl_hub01",
-		"Per?etros de Eclage ",
+		"Perímetros de Eclage ",
 		5001,
 		200,
 		180
 	},
 	{
 		"ecl_in01",
-		"Pra? de Eclage ",
+		"Praça de Eclage ",
 		5003,
 		100,
 		120
@@ -932,28 +932,28 @@ Navi_Map = {
 	},
 	{
 		"ecl_tdun01",
-		"Torre de Bifr?t (1) ",
+		"Torre de Bifröst (1) ",
 		5001,
 		120,
 		120
 	},
 	{
 		"ecl_tdun02",
-		"Torre de Bifr?t (2) ",
+		"Torre de Bifröst (2) ",
 		5001,
 		120,
 		100
 	},
 	{
 		"ecl_tdun03",
-		"Torre de Bifr?t (3) ",
+		"Torre de Bifröst (3) ",
 		5001,
 		100,
 		100
 	},
 	{
 		"ecl_tdun04",
-		"Topo da Torre de Bifr?t ",
+		"Topo da Torre de Bifröst ",
 		5001,
 		60,
 		60
@@ -974,14 +974,14 @@ Navi_Map = {
 	},
 	{
 		"ein_dun01",
-		"Calabou? da Mina ",
+		"Calabouço da Mina ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ein_dun02",
-		"Calabou? da Mina ",
+		"Calabouço da Mina ",
 		5001,
 		300,
 		300
@@ -1079,7 +1079,7 @@ Navi_Map = {
 	},
 	{
 		"einbroch",
-		"Einbroch, a cidade de a? ",
+		"Einbroch, a cidade de aço ",
 		5001,
 		340,
 		380
@@ -1114,14 +1114,14 @@ Navi_Map = {
 	},
 	{
 		"gef_dun00",
-		"Calabou? de Geffen (1) ",
+		"Calabouço de Geffen (1) ",
 		5001,
 		200,
 		200
 	},
 	{
 		"gef_dun01",
-		"Calabou? de Geffen (2) ",
+		"Calabouço de Geffen (2) ",
 		5001,
 		300,
 		300
@@ -1366,7 +1366,7 @@ Navi_Map = {
 	},
 	{
 		"gl_chyard",
-		"Cemit?io de Glast Heim ",
+		"Cemitério de Glast Heim ",
 		5001,
 		300,
 		300
@@ -1415,14 +1415,14 @@ Navi_Map = {
 	},
 	{
 		"gl_prison",
-		"Pris? Subterr?ea de Glast Heim (0) ",
+		"Prisão Subterrânea de Glast Heim (0) ",
 		5001,
 		200,
 		200
 	},
 	{
 		"gl_prison1",
-		"Pris? Subterr?ea de Glast Heim (1) ",
+		"Prisão Subterrânea de Glast Heim (1) ",
 		5001,
 		200,
 		200
@@ -1471,7 +1471,7 @@ Navi_Map = {
 	},
 	{
 		"gld2_ald",
-		"Portal do Abismo: L?rimas do Her? ",
+		"Portal do Abismo: Lágrimas do Herói ",
 		5001,
 		300,
 		300
@@ -1499,35 +1499,35 @@ Navi_Map = {
 	},
 	{
 		"gld_dun01",
-		"Calabou? do Feudo do Bosque Celestial ",
+		"Calabouço do Feudo do Bosque Celestial ",
 		5001,
 		240,
 		240
 	},
 	{
 		"gld_dun02",
-		"Calabou? do Feudo de Luina ",
+		"Calabouço do Feudo de Luina ",
 		5001,
 		200,
 		200
 	},
 	{
 		"gld_dun03",
-		"Calabou? do Feudo das Valqu?ias ",
+		"Calabouço do Feudo das Valquírias ",
 		5001,
 		300,
 		300
 	},
 	{
 		"gld_dun04",
-		"Calabou? do Feudo de Britoniah ",
+		"Calabouço do Feudo de Britoniah ",
 		5001,
 		300,
 		300
 	},
 	{
 		"gon_dun01",
-		"Santu?io de Xi Wang Mu ",
+		"Santuário de Xi Wang Mu ",
 		5001,
 		300,
 		300
@@ -1562,7 +1562,7 @@ Navi_Map = {
 	},
 	{
 		"gon_test",
-		"Sal? de Batalhas ",
+		"Salão de Batalhas ",
 		5001,
 		100,
 		120
@@ -1632,7 +1632,7 @@ Navi_Map = {
 	},
 	{
 		"hu_fild03",
-		"Campo de Ca?",
+		"Campo de Caça",
 		5001,
 		400,
 		400
@@ -1674,7 +1674,7 @@ Navi_Map = {
 	},
 	{
 		"hugel",
-		"Hugel, a Vila do Jardim Fant?tico ",
+		"Hugel, a Vila do Jardim Fantástico ",
 		5001,
 		268,
 		280
@@ -1716,14 +1716,14 @@ Navi_Map = {
 	},
 	{
 		"in_hunter",
-		"Guilda dos Ca?dores ",
+		"Guilda dos Caçadores ",
 		5001,
 		200,
 		200
 	},
 	{
 		"in_moc_16",
-		"Guilda dos Mercen?ios ",
+		"Guilda dos Mercenários ",
 		5001,
 		200,
 		200
@@ -1821,42 +1821,42 @@ Navi_Map = {
 	},
 	{
 		"iz_dun00",
-		"T?el Submarino (0) ",
+		"Túnel Submarino (0) ",
 		5001,
 		400,
 		400
 	},
 	{
 		"iz_dun01",
-		"T?el Submarino (1) ",
+		"Túnel Submarino (1) ",
 		5001,
 		300,
 		300
 	},
 	{
 		"iz_dun02",
-		"T?el Submarino (3) ",
+		"Túnel Submarino (3) ",
 		5001,
 		400,
 		400
 	},
 	{
 		"iz_dun03",
-		"T?el Submarino (4) ",
+		"Túnel Submarino (4) ",
 		5001,
 		300,
 		300
 	},
 	{
 		"iz_dun04",
-		"T?el Submarino (5) ",
+		"Túnel Submarino (5) ",
 		5001,
 		280,
 		300
 	},
 	{
 		"iz_dun05",
-		"T?el Submarino (6) ",
+		"Túnel Submarino (6) ",
 		5001,
 		280,
 		280
@@ -1968,7 +1968,7 @@ Navi_Map = {
 	},
 	{
 		"jupe_cave",
-		"Entrada das Ru?as de Juperos ",
+		"Entrada das Ruínas de Juperos ",
 		5001,
 		232,
 		100
@@ -2010,7 +2010,7 @@ Navi_Map = {
 	},
 	{
 		"juperos_01",
-		"Ru?as de Juperos ",
+		"Ruínas de Juperos ",
 		5001,
 		300,
 		300
@@ -2031,35 +2031,35 @@ Navi_Map = {
 	},
 	{
 		"juperos_02",
-		"Ru?as de Juperos ",
+		"Ruínas de Juperos ",
 		5001,
 		300,
 		300
 	},
 	{
 		"kh_dun01",
-		"F?rica de Rob? ?N?el 1 ",
+		"Fábrica de Robô - Nível 1 ",
 		5001,
 		240,
 		240
 	},
 	{
 		"kh_dun02",
-		"F?rica de Rob? - N?el 2 ",
+		"Fábrica de Robô - Nível 2 ",
 		5001,
 		240,
 		240
 	},
 	{
 		"kh_mansion",
-		"Mans? de Kiel Hyre ",
+		"Mansão de Kiel Hyre ",
 		5001,
 		100,
 		100
 	},
 	{
 		"kh_rossi",
-		"A Mans? Rosimier ",
+		"A Mansão Rosimier ",
 		5001,
 		300,
 		300
@@ -2080,35 +2080,35 @@ Navi_Map = {
 	},
 	{
 		"lasa_dun01",
-		"Ninho do Drag?",
+		"Ninho do Dragão",
 		5001,
 		220,
 		220
 	},
 	{
 		"lasa_dun02",
-		"Ninho do Drag?",
+		"Ninho do Dragão",
 		5001,
 		220,
 		220
 	},
 	{
 		"lasa_dun03",
-		"Ninho do Drag?",
+		"Ninho do Dragão",
 		5001,
 		320,
 		320
 	},
 	{
 		"lasa_dun_q",
-		"Ninho do Drag?",
+		"Ninho do Dragão",
 		5001,
 		320,
 		320
 	},
 	{
 		"lasa_fild01",
-		"Plan?ies Ravioli",
+		"Planícies Ravioli",
 		5001,
 		400,
 		400
@@ -2136,7 +2136,7 @@ Navi_Map = {
 	},
 	{
 		"lasagna",
-		"Cidade Portu?ia de Lasagna",
+		"Cidade Portuária de Lasagna",
 		5001,
 		400,
 		400
@@ -2150,35 +2150,35 @@ Navi_Map = {
 	},
 	{
 		"lhz_d_n2",
-		"Laborat?io de Somatologia - Pesadelo",
+		"Laboratório de Somatologia - Pesadelo",
 		5001,
 		96,
 		64
 	},
 	{
 		"lhz_dun01",
-		"Laborat?io de Somatologia ",
+		"Laboratório de Somatologia ",
 		5001,
 		300,
 		300
 	},
 	{
 		"lhz_dun02",
-		"Laborat?io de Somatologia ",
+		"Laboratório de Somatologia ",
 		5001,
 		300,
 		300
 	},
 	{
 		"lhz_dun03",
-		"Laborat?io de Somatologia ",
+		"Laboratório de Somatologia ",
 		5001,
 		280,
 		280
 	},
 	{
 		"lhz_dun04",
-		"Laborat?io de Somatologia ",
+		"Laboratório de Somatologia ",
 		5001,
 		300,
 		300
@@ -2311,7 +2311,7 @@ Navi_Map = {
 	},
 	{
 		"ma_dun01",
-		"Hospital de Bangungot, 1?andar ",
+		"Hospital de Bangungot, 1º andar ",
 		5001,
 		200,
 		200
@@ -2409,7 +2409,7 @@ Navi_Map = {
 	},
 	{
 		"mag_dun01",
-		"Calabou? de Magma ",
+		"Calabouço de Magma ",
 		5001,
 		260,
 		260
@@ -2430,7 +2430,7 @@ Navi_Map = {
 	},
 	{
 		"mag_dun02",
-		"Calabou? de Magma ",
+		"Calabouço de Magma ",
 		5001,
 		260,
 		260
@@ -2528,14 +2528,14 @@ Navi_Map = {
 	},
 	{
 		"mid_camp",
-		"Acampamento da Expedição da Alian? ",
+		"Acampamento da Expedição da Aliança ",
 		5001,
 		400,
 		400
 	},
 	{
 		"mid_campin",
-		"Acampamento da Expedição da Alian? ",
+		"Acampamento da Expedição da Aliança ",
 		5003,
 		400,
 		200
@@ -2829,7 +2829,7 @@ Navi_Map = {
 	},
 	{
 		"moc_para01",
-		"Grupo do ?en ",
+		"Grupo do Éden ",
 		5003,
 		200,
 		200
@@ -2857,42 +2857,42 @@ Navi_Map = {
 	},
 	{
 		"moc_pryd01",
-		"Dentro da Pir?ide (1) ",
+		"Dentro da Pirâmide (1) ",
 		5001,
 		200,
 		200
 	},
 	{
 		"moc_pryd02",
-		"Dentro da Pir?ide (2) ",
+		"Dentro da Pirâmide (2) ",
 		5001,
 		200,
 		200
 	},
 	{
 		"moc_pryd03",
-		"Dentro da Pir?ide (3) ",
+		"Dentro da Pirâmide (3) ",
 		5001,
 		200,
 		200
 	},
 	{
 		"moc_pryd04",
-		"Dentro da Pir?ide (4) ",
+		"Dentro da Pirâmide (4) ",
 		5001,
 		200,
 		200
 	},
 	{
 		"moc_pryd05",
-		"Dentro da Pir?ide (5) ",
+		"Dentro da Pirâmide (5) ",
 		5001,
 		232,
 		232
 	},
 	{
 		"moc_pryd06",
-		"Dentro da Pir?ide (6) ",
+		"Dentro da Pirâmide (6) ",
 		5001,
 		204,
 		204
@@ -2906,21 +2906,21 @@ Navi_Map = {
 	},
 	{
 		"moc_prydn1",
-		"Base da Pir?ide 01 - Pesadelo ",
+		"Base da Pirâmide 01 - Pesadelo ",
 		5001,
 		232,
 		232
 	},
 	{
 		"moc_prydn2",
-		"Base da Pir?ide 02 - Pesadelo ",
+		"Base da Pirâmide 02 - Pesadelo ",
 		5001,
 		204,
 		204
 	},
 	{
 		"moc_ruins",
-		"Ru?as de Morroc ",
+		"Ruínas de Morroc ",
 		5001,
 		200,
 		200
@@ -2955,7 +2955,7 @@ Navi_Map = {
 	},
 	{
 		"moro_vol",
-		"C?culo de Fogo ",
+		"Círculo de Fogo ",
 		5001,
 		400,
 		400
@@ -2976,7 +2976,7 @@ Navi_Map = {
 	},
 	{
 		"moscovia",
-		"Mosc?ia ",
+		"Moscóvia ",
 		5001,
 		400,
 		400
@@ -3011,14 +3011,14 @@ Navi_Map = {
 	},
 	{
 		"mosk_fild02",
-		"Campo de Mosc?ia ",
+		"Campo de Moscóvia ",
 		5001,
 		300,
 		300
 	},
 	{
 		"mosk_in",
-		"Interior de Mosc?ia ",
+		"Interior de Moscóvia ",
 		5003,
 		300,
 		300
@@ -3074,7 +3074,7 @@ Navi_Map = {
 	},
 	{
 		"nif_fild01",
-		"Skellington, um vilarejo solit?io em Nifflheim ",
+		"Skellington, um vilarejo solitário em Nifflheim ",
 		5001,
 		400,
 		400
@@ -3130,14 +3130,14 @@ Navi_Map = {
 	},
 	{
 		"odin_tem01",
-		"Santu?io de Odin ",
+		"Santuário de Odin ",
 		5001,
 		400,
 		400
 	},
 	{
 		"odin_tem02",
-		"Santu?io de Odin ",
+		"Santuário de Odin ",
 		5001,
 		400,
 		400
@@ -3158,14 +3158,14 @@ Navi_Map = {
 	},
 	{
 		"odin_tem03",
-		"Santu?io de Odin ",
+		"Santuário de Odin ",
 		5001,
 		400,
 		400
 	},
 	{
 		"orcsdun01",
-		"Calabou? dos Orcs (1) ",
+		"Calabouço dos Orcs (1) ",
 		5001,
 		200,
 		200
@@ -3193,7 +3193,7 @@ Navi_Map = {
 	},
 	{
 		"orcsdun02",
-		"Calabou? dos Orcs (2) ",
+		"Calabouço dos Orcs (2) ",
 		5001,
 		200,
 		200
@@ -3494,7 +3494,7 @@ Navi_Map = {
 	},
 	{
 		"prt_cas",
-		"Pal?io de Prontera ",
+		"Palácio de Prontera ",
 		5003,
 		400,
 		356
@@ -3606,7 +3606,7 @@ Navi_Map = {
 	},
 	{
 		"prt_gld",
-		"Feudo das Valqu?ias ",
+		"Feudo das Valquírias ",
 		5001,
 		320,
 		320
@@ -3620,14 +3620,14 @@ Navi_Map = {
 	},
 	{
 		"prt_lib",
-		"Memorial das Fam?ias Reais [Presente] ",
+		"Memorial das Famílias Reais [Presente] ",
 		5001,
 		160,
 		120
 	},
 	{
 		"prt_lib_q",
-		"Memorial das Fam?ias Reais [Passado] ",
+		"Memorial das Famílias Reais [Passado] ",
 		5001,
 		160,
 		120
@@ -3683,14 +3683,14 @@ Navi_Map = {
 	},
 	{
 		"prt_prison",
-		"Pris? de Prontera ",
+		"Prisão de Prontera ",
 		5001,
 		300,
 		300
 	},
 	{
 		"prt_q",
-		"Prontera Destru?a ",
+		"Prontera Destruída ",
 		5001,
 		312,
 		392
@@ -3746,7 +3746,7 @@ Navi_Map = {
 	},
 	{
 		"que_god01",
-		"Mapa da Miss? ",
+		"Mapa da Missão ",
 		5001,
 		300,
 		140
@@ -3760,7 +3760,7 @@ Navi_Map = {
 	},
 	{
 		"que_god02",
-		"Mapa da Miss? ",
+		"Mapa da Missão ",
 		5001,
 		200,
 		140
@@ -3774,7 +3774,7 @@ Navi_Map = {
 	},
 	{
 		"que_hugel",
-		"Subterr?eos do Santu?io de Odin ",
+		"Subterrâneos do Santuário de Odin ",
 		5001,
 		200,
 		200
@@ -3788,7 +3788,7 @@ Navi_Map = {
 	},
 	{
 		"que_lhz",
-		"Laborat?io de Somatologia ",
+		"Laboratório de Somatologia ",
 		5001,
 		300,
 		300
@@ -3802,7 +3802,7 @@ Navi_Map = {
 	},
 	{
 		"que_qsch01",
-		"Vis? de Okolnir ",
+		"Visão de Okolnir ",
 		5001,
 		400,
 		400
@@ -3823,7 +3823,7 @@ Navi_Map = {
 	},
 	{
 		"que_thor",
-		"Vulc? de Thor ",
+		"Vulcão de Thor ",
 		5001,
 		200,
 		100
@@ -3844,14 +3844,14 @@ Navi_Map = {
 	},
 	{
 		"ra_fild02",
-		"C?ion ",
+		"Cânion ",
 		5001,
 		400,
 		400
 	},
 	{
 		"ra_fild03",
-		"Plan?ie de Ida ",
+		"Planície de Ida ",
 		5001,
 		400,
 		400
@@ -3879,14 +3879,14 @@ Navi_Map = {
 	},
 	{
 		"ra_fild07",
-		"C?ion ",
+		"Cânion ",
 		5001,
 		400,
 		400
 	},
 	{
 		"ra_fild08",
-		"Plan?ie de Ida ",
+		"Planície de Ida ",
 		5001,
 		400,
 		400
@@ -3900,21 +3900,21 @@ Navi_Map = {
 	},
 	{
 		"ra_fild10",
-		"C?ion ",
+		"Cânion ",
 		5001,
 		400,
 		400
 	},
 	{
 		"ra_fild11",
-		"Plan?ie de Ida ",
+		"Planície de Ida ",
 		5001,
 		400,
 		400
 	},
 	{
 		"ra_fild12",
-		"Plan?ie de Ida ",
+		"Planície de Ida ",
 		5001,
 		400,
 		400
@@ -3935,7 +3935,7 @@ Navi_Map = {
 	},
 	{
 		"ra_fild13",
-		"Costa das L?rimas ",
+		"Costa das Lágrimas ",
 		5001,
 		400,
 		400
@@ -3949,7 +3949,7 @@ Navi_Map = {
 	},
 	{
 		"ra_san01",
-		"Santu?io ",
+		"Santuário ",
 		5001,
 		280,
 		280
@@ -3970,28 +3970,28 @@ Navi_Map = {
 	},
 	{
 		"ra_san02",
-		"Santu?io ",
+		"Santuário ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ra_san03",
-		"Santu?io ",
+		"Santuário ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ra_san04",
-		"Santu?io ",
+		"Santuário ",
 		5001,
 		240,
 		240
 	},
 	{
 		"ra_san05",
-		"Santu?io ",
+		"Santuário ",
 		5001,
 		300,
 		300
@@ -4012,7 +4012,7 @@ Navi_Map = {
 	},
 	{
 		"ra_temsky",
-		"Escrit?io da Papisa - Os Jardins Sagrados ",
+		"Escritório da Papisa - Os Jardins Sagrados ",
 		5001,
 		200,
 		200
@@ -4096,7 +4096,7 @@ Navi_Map = {
 	},
 	{
 		"schg_dun01",
-		"Calabou? Subterr?eo de Castelo ",
+		"Calabouço Subterrâneo de Castelo ",
 		5001,
 		400,
 		400
@@ -4187,7 +4187,7 @@ Navi_Map = {
 	},
 	{
 		"splendide",
-		"Base dos Espl?didos, Esplendor ",
+		"Base dos Esplêndidos, Esplendor ",
 		5001,
 		400,
 		400
@@ -4222,14 +4222,14 @@ Navi_Map = {
 	},
 	{
 		"teg_dun01",
-		"Calabou? da Guilda 1 ",
+		"Calabouço da Guilda 1 ",
 		5001,
 		300,
 		300
 	},
 	{
 		"teg_dun02",
-		"Calabou? da Guilda 2 ",
+		"Calabouço da Guilda 2 ",
 		5001,
 		200,
 		200
@@ -4243,126 +4243,126 @@ Navi_Map = {
 	},
 	{
 		"tha_t01",
-		"Torre de Thanatos ?Andar Inferior ",
+		"Torre de Thanatos - Andar Inferior ",
 		5001,
 		300,
 		300
 	},
 	{
 		"tha_t02",
-		"Torre de Thanatos ?Andar Inferior ",
+		"Torre de Thanatos - Andar Inferior ",
 		5001,
 		300,
 		300
 	},
 	{
 		"tha_t03",
-		"Torre de Thanatos ?Andar Inferior ",
+		"Torre de Thanatos - Andar Inferior ",
 		5001,
 		280,
 		280
 	},
 	{
 		"tha_t04",
-		"Torre de Thanatos ?Andar Inferior ",
+		"Torre de Thanatos - Andar Inferior ",
 		5001,
 		280,
 		280
 	},
 	{
 		"tha_t05",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		240,
 		240
 	},
 	{
 		"tha_t06",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		240,
 		240
 	},
 	{
 		"tha_t07",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		140,
 		200
 	},
 	{
 		"tha_t08",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		140,
 		200
 	},
 	{
 		"tha_t09",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		180,
 		180
 	},
 	{
 		"tha_t10",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		180,
 		180
 	},
 	{
 		"tha_t11",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		180,
 		180
 	},
 	{
 		"tha_t12",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		180,
 		180
 	},
 	{
 		"thana_boss",
-		"Torre de Thanatos ?Área Desconhecida ",
+		"Torre de Thanatos - Área Desconhecida ",
 		5001,
 		280,
 		280
 	},
 	{
 		"thana_step",
-		"Torre de Thanatos ?Andar Superior ",
+		"Torre de Thanatos - Andar Superior ",
 		5001,
 		240,
 		400
 	},
 	{
 		"thor_camp",
-		"Acampamento do Vulc? de Thor ",
+		"Acampamento do Vulcão de Thor ",
 		5001,
 		300,
 		360
 	},
 	{
 		"thor_v01",
-		"Vulc? de Thor ",
+		"Vulcão de Thor ",
 		5001,
 		300,
 		300
 	},
 	{
 		"thor_v02",
-		"Vulc? de Thor ",
+		"Vulcão de Thor ",
 		5001,
 		240,
 		240
 	},
 	{
 		"thor_v03",
-		"Vulc? de Thor ",
+		"Vulcão de Thor ",
 		5001,
 		300,
 		300
@@ -4439,7 +4439,7 @@ Navi_Map = {
 	},
 	{
 		"tur_dun02",
-		"Calabou? da Ilha da Tartaruga ",
+		"Calabouço da Ilha da Tartaruga ",
 		5001,
 		300,
 		300
@@ -4453,21 +4453,21 @@ Navi_Map = {
 	},
 	{
 		"tur_dun04",
-		"Pal?io da Ilha da Tartaruga ",
+		"Palácio da Ilha da Tartaruga ",
 		5001,
 		200,
 		200
 	},
 	{
 		"tur_dun05",
-		"P?tano Subterr?eo (1) ",
+		"Pântano Subterrâneo (1) ",
 		5001,
 		100,
 		100
 	},
 	{
 		"tur_dun06",
-		"P?tano Subterr?eo (2) ",
+		"Pântano Subterrâneo (2) ",
 		5001,
 		100,
 		100
@@ -4495,7 +4495,7 @@ Navi_Map = {
 	},
 	{
 		"um_fild03",
-		"P?tano de Kalala ",
+		"Pântano de Kalala ",
 		5001,
 		400,
 		400
@@ -4523,21 +4523,21 @@ Navi_Map = {
 	},
 	{
 		"un_bk_q",
-		"Abrigo Subterr?eo ",
+		"Abrigo Subterrâneo ",
 		5001,
 		400,
 		400
 	},
 	{
 		"un_bunker",
-		"Abrigo Subterr?eo ",
+		"Abrigo Subterrâneo ",
 		5001,
 		400,
 		400
 	},
 	{
 		"un_myst",
-		"T?el do Abrigo ",
+		"Túnel do Abrigo ",
 		5001,
 		400,
 		220
@@ -4642,21 +4642,21 @@ Navi_Map = {
 	},
 	{
 		"ver_eju",
-		"Ru?as de Juperos (Oeste) ",
+		"Ruínas de Juperos (Oeste) ",
 		5001,
 		300,
 		300
 	},
 	{
 		"ver_tunn",
-		"T?el de Verus ",
+		"Túnel de Verus ",
 		5001,
 		120,
 		100
 	},
 	{
 		"verus01",
-		"Laborat?io OPTATIO de Experimentos ",
+		"Laboratório OPTATIO de Experimentos ",
 		5001,
 		300,
 		300
@@ -4670,7 +4670,7 @@ Navi_Map = {
 	},
 	{
 		"verus03",
-		"Pra? Central de Verus ",
+		"Praça Central de Verus ",
 		5001,
 		280,
 		280
@@ -4747,7 +4747,7 @@ Navi_Map = {
 	},
 	{
 		"xmas_dun01",
-		"Dep?ito da F?rica de Brinquedos ",
+		"Depósito da Fábrica de Brinquedos ",
 		5001,
 		260,
 		260
@@ -4887,7 +4887,7 @@ Navi_Map = {
 	},
 	{
 		"yuno_in02",
-		"Castelo dos S?ios ",
+		"Castelo dos Sábios ",
 		5003,
 		200,
 		240

@@ -3859,11 +3859,11 @@ ReformInfo_data = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Informa??œ?ë£???‚•es do resultado da combina??œ?ë£???‚•o</B>",
-			"1) N??œ?ë¦³el de refino : ^4D4DFF+1^000000",
-			"2) Informa??œ?ë£???‚•es de op??œ?ë£???‚•o aleat??œ?ë¦®ia : Mantidas",
-			"3) Informa??œ?ë£???‚•es de cartas e encantamentos : Mantidas",
-			"4) Informa??œ?ë£???‚•es de classifica??œ?ë£???‚•o : Mantidas"
+			"<B>Informa???»??Œ·???êµ²es do resultado da combina???»??Œ·???êµ²o</B>",
+			"1) N???»??”±ì¿®l de refino : ^4D4DFF+1^000000",
+			"2) Informa???»??Œ·???êµ²es de op???»??Œ·???êµ²o aleat???»??”±ì·«a : Mantidas",
+			"3) Informa???»??Œ·???êµ²es de cartas e encantamentos : Mantidas",
+			"4) Informa???»??Œ·???êµ²es de classifica???»??Œ·???êµ²o : Mantidas"
 		}
 	},
 	[1874] = {
@@ -3879,11 +3879,11 @@ ReformInfo_data = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Informa??œ?ë£???‚•es do resultado da combina??œ?ë£???‚•o</B>",
-			"1) N??œ?ë¦³el de refino : ^4D4DFF+1^000000",
-			"2) Informa??œ?ë£???‚•es de op??œ?ë£???‚•o aleat??œ?ë¦®ia : Mantidas",
-			"3) Informa??œ?ë£???‚•es de cartas e encantamentos : Mantidas",
-			"4) Informa??œ?ë£???‚•es de classifica??œ?ë£???‚•o : Mantidas"
+			"<B>Informa???»??Œ·???êµ²es do resultado da combina???»??Œ·???êµ²o</B>",
+			"1) N???»??”±ì¿®l de refino : ^4D4DFF+1^000000",
+			"2) Informa???»??Œ·???êµ²es de op???»??Œ·???êµ²o aleat???»??”±ì·«a : Mantidas",
+			"3) Informa???»??Œ·???êµ²es de cartas e encantamentos : Mantidas",
+			"4) Informa???»??Œ·???êµ²es de classifica???»??Œ·???êµ²o : Mantidas"
 		}
 	},
 	[1875] = {
@@ -3899,11 +3899,11 @@ ReformInfo_data = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Informa??œ?ë£???‚•es do resultado da combina??œ?ë£???‚•o</B>",
-			"1) N??œ?ë¦³el de refino : ^4D4DFF+1^000000",
-			"2) Informa??œ?ë£???‚•es de op??œ?ë£???‚•o aleat??œ?ë¦®ia : Mantidas",
-			"3) Informa??œ?ë£???‚•es de cartas e encantamentos : Mantidas",
-			"4) Informa??œ?ë£???‚•es de classifica??œ?ë£???‚•o : Mantidas"
+			"<B>Informa???»??Œ·???êµ²es do resultado da combina???»??Œ·???êµ²o</B>",
+			"1) N???»??”±ì¿®l de refino : ^4D4DFF+1^000000",
+			"2) Informa???»??Œ·???êµ²es de op???»??Œ·???êµ²o aleat???»??”±ì·«a : Mantidas",
+			"3) Informa???»??Œ·???êµ²es de cartas e encantamentos : Mantidas",
+			"4) Informa???»??Œ·???êµ²es de classifica???»??Œ·???êµ²o : Mantidas"
 		}
 	},
 	[644] = {
@@ -6233,6 +6233,58 @@ ReformInfo_data = {
 		PreserveSocketItem = true,
 		PreserveGrade = true
 	},
+	[219] = {
+		BaseItem = "Thanos_Helm_1",
+		Material = {},
+		ResultItem = "Thanos_Helm1_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[220] = {
+		BaseItem = "Thanos_Helm_2",
+		Material = {},
+		ResultItem = "Thanos_Helm2_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[221] = {
+		BaseItem = "Thanos_Helm_3",
+		Material = {},
+		ResultItem = "Thanos_Helm3_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[222] = {
+		BaseItem = "Thanos_Helm_4",
+		Material = {},
+		ResultItem = "Thanos_Helm4_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
 	[38] = {
 		BaseItem = "Thanos_Sword_AD",
 		Material = {Blacksmith_Blessing = 14},
@@ -7168,6 +7220,3578 @@ ReformInfo_data = {
 		RandomOptionCode = "",
 		PreserveSocketItem = true,
 		PreserveGrade = true
+	},
+	[103] = {
+		BaseItem = "Thanos_Helm_1",
+		Material = {Armor_Stone_1 = 100, Gray_Shard = 100},
+		ResultItem = "Thanos_Helm1_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[105] = {
+		BaseItem = "Thanos_Helm_2",
+		Material = {Armor_Stone_1 = 100, Gray_Shard = 100},
+		ResultItem = "Thanos_Helm2_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[107] = {
+		BaseItem = "Thanos_Helm_3",
+		Material = {Armor_Stone_1 = 100, Gray_Shard = 100},
+		ResultItem = "Thanos_Helm3_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[109] = {
+		BaseItem = "Great_Hero_Boots",
+		Material = {
+			Armor_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Hero_Boots_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[173] = {
+		BaseItem = "Smoky_TransformHat",
+		Material = {Armor_Stone_1 = 100, Raccoon_Leaf = 150},
+		ResultItem = "Smoky_TransformHat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[174] = {
+		BaseItem = "Whikebain_Ears_K",
+		Material = {Armor_Stone_1 = 100, Black_Kitty_Doll = 50},
+		ResultItem = "Whikebain_Ears_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[175] = {
+		BaseItem = "Survive_Circlet_K",
+		Material = {Armor_Stone_1 = 100, Soft_Silk_Cloth = 100},
+		ResultItem = "Survive_Circlet_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[176] = {
+		BaseItem = "GoldFish_Hat",
+		Material = {Armor_Stone_1 = 100, Shining_Scales = 150},
+		ResultItem = "GoldFish_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[177] = {
+		BaseItem = "Imp_Hat",
+		Material = {Armor_Stone_1 = 100, Hot_Hair = 150},
+		ResultItem = "Imp_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[178] = {
+		BaseItem = "Thanos_Helm_4",
+		Material = {Armor_Stone_1 = 100, Gray_Shard = 100},
+		ResultItem = "Thanos_Helm4_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[247] = {
+		BaseItem = "Whikebain_Ears",
+		Material = {Armor_Stone_1 = 100, Black_Kitty_Doll = 50},
+		ResultItem = "Whikebain_Ears_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[285] = {
+		BaseItem = "Mad_Bunny_K_",
+		Material = {
+			Armor_Stone_1 = 100,
+			Feather = 100,
+			Soft_Feather = 100
+		},
+		ResultItem = "Mad_Bunny_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[499] = {
+		BaseItem = "King_Tiger_Doll_Hat",
+		Material = {Armor_Stone_1 = 100, Tiger_Footskin = 40},
+		ResultItem = "King_Tiger_Doll_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[500] = {
+		BaseItem = "Zaha_Doll_Hat",
+		Material = {
+			Armor_Stone_1 = 100,
+			Limpid_Celestial_Robe = 200,
+			Soft_Silk_Cloth = 100
+		},
+		ResultItem = "Baksojin_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[630] = {
+		BaseItem = "Sagittarius_DiademK",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Sagittarius_DiademK_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[631] = {
+		BaseItem = "Scorpio_Diadem_K",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Scorpio_Diadem_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[632] = {
+		BaseItem = "Large_Sorcerer_Crown",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Large_Sorcerer_Crown_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[633] = {
+		BaseItem = "Stripe_Hat",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Stripe_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[634] = {
+		BaseItem = "Phantom_Cap",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Phantom_Cap_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[635] = {
+		BaseItem = "Ignis_CapK",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Ignis_CapK_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[636] = {
+		BaseItem = "Clock_Casket_RD",
+		Material = {
+			Armor_Stone_1 = 100,
+			EP17_1_EVT02 = 100,
+			EP17_1_EVT39 = 20
+		},
+		ResultItem = "Clock_Casket_RD_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[967] = {
+		BaseItem = "Officer_Cap",
+		Material = {
+			Armor_Stone_1 = 100,
+			["Black_Bear's_Skin"] = 100
+		},
+		ResultItem = "Officer_Cap_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[982] = {
+		BaseItem = "Dolor_HatK",
+		Material = {
+			Armor_Stone_1 = 150,
+			Polluted_Spell = 15,
+			Coagulated_Spell = 100
+		},
+		ResultItem = "Dolor_HatK_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "G0",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[104] = {
+		BaseItem = "Thanos_Helm_1",
+		Material = {Armor_Stone_2 = 100, Gray_Shard = 300},
+		ResultItem = "Thanos_Helm1_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[106] = {
+		BaseItem = "Thanos_Helm_2",
+		Material = {Armor_Stone_2 = 100, Gray_Shard = 300},
+		ResultItem = "Thanos_Helm2_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[108] = {
+		BaseItem = "Thanos_Helm_3",
+		Material = {Armor_Stone_2 = 100, Gray_Shard = 300},
+		ResultItem = "Thanos_Helm3_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[110] = {
+		BaseItem = "Great_Hero_Boots",
+		Material = {
+			Armor_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Hero_Boots_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[179] = {
+		BaseItem = "Smoky_TransformHat",
+		Material = {Armor_Stone_2 = 100, Raccoon_Leaf = 300},
+		ResultItem = "Smoky_TransformHat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[180] = {
+		BaseItem = "Whikebain_Ears_K",
+		Material = {Armor_Stone_2 = 100, Black_Kitty_Doll = 100},
+		ResultItem = "Whikebain_Ears_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[181] = {
+		BaseItem = "Survive_Circlet_K",
+		Material = {Armor_Stone_2 = 100, Soft_Silk_Cloth = 200},
+		ResultItem = "Survive_Circlet_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[182] = {
+		BaseItem = "GoldFish_Hat",
+		Material = {Armor_Stone_2 = 100, Shining_Scales = 300},
+		ResultItem = "GoldFish_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[183] = {
+		BaseItem = "Imp_Hat",
+		Material = {Armor_Stone_2 = 100, Hot_Hair = 300},
+		ResultItem = "Imp_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[184] = {
+		BaseItem = "Thanos_Helm_4",
+		Material = {Armor_Stone_2 = 100, Gray_Shard = 300},
+		ResultItem = "Thanos_Helm4_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[248] = {
+		BaseItem = "Whikebain_Ears",
+		Material = {Armor_Stone_2 = 100, Black_Kitty_Doll = 100},
+		ResultItem = "Whikebain_Ears_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[286] = {
+		BaseItem = "Mad_Bunny_K_",
+		Material = {
+			Armor_Stone_2 = 100,
+			Feather = 200,
+			Soft_Feather = 200
+		},
+		ResultItem = "Mad_Bunny_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[501] = {
+		BaseItem = "King_Tiger_Doll_Hat",
+		Material = {Armor_Stone_2 = 100, Tiger_Footskin = 80},
+		ResultItem = "King_Tiger_Doll_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[502] = {
+		BaseItem = "Zaha_Doll_Hat",
+		Material = {
+			Armor_Stone_2 = 100,
+			Limpid_Celestial_Robe = 400,
+			Soft_Silk_Cloth = 200
+		},
+		ResultItem = "Baksojin_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[637] = {
+		BaseItem = "Sagittarius_DiademK",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Sagittarius_DiademK_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[638] = {
+		BaseItem = "Scorpio_Diadem_K",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Scorpio_Diadem_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[639] = {
+		BaseItem = "Large_Sorcerer_Crown",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Large_Sorcerer_Crown_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[640] = {
+		BaseItem = "Stripe_Hat",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Stripe_Hat_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[641] = {
+		BaseItem = "Phantom_Cap",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Phantom_Cap_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[642] = {
+		BaseItem = "Ignis_CapK",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Ignis_CapK_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[643] = {
+		BaseItem = "Clock_Casket_RD",
+		Material = {
+			Armor_Stone_2 = 100,
+			EP17_1_EVT02 = 300,
+			EP17_1_EVT39 = 60
+		},
+		ResultItem = "Clock_Casket_RD_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[968] = {
+		BaseItem = "Officer_Cap",
+		Material = {
+			Armor_Stone_2 = 100,
+			["Black_Bear's_Skin"] = 200
+		},
+		ResultItem = "Officer_Cap_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[983] = {
+		BaseItem = "Dolor_HatK",
+		Material = {
+			Armor_Stone_2 = 150,
+			Polluted_Spell = 30,
+			Coagulated_Spell = 200
+		},
+		ResultItem = "Dolor_HatK_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "G0",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[185] = {
+		BaseItem = "SurviveOrb_K",
+		Material = {Armor_Stone_3 = 100, Fragment_Of_Crystal = 450},
+		ResultItem = "SurviveOrb_K_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 0,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[965] = {
+		BaseItem = "SeeOtter_Fan",
+		Material = {Acc_Stone_3 = 100, Sea_Otter_Leather = 300},
+		ResultItem = "SeeOtter_Fan_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 0,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[966] = {
+		BaseItem = "FurSeal_Fan",
+		Material = {Acc_Stone_3 = 100, Sea_Otter_Leather = 300},
+		ResultItem = "FurSeal_Fan_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 0,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[980] = {
+		BaseItem = "Red_Force_Pendant",
+		Material = {
+			Acc_Stone_3 = 150,
+			GH_Cursed_Crystal = 350,
+			GH_Cursed_Gemstone = 350
+		},
+		ResultItem = "Red_Force_Pendant_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "G0",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[981] = {
+		BaseItem = "Blue_Mental_Pendant",
+		Material = {
+			Acc_Stone_3 = 150,
+			GH_Cursed_Crystal = 350,
+			GH_Cursed_Gemstone = 350
+		},
+		ResultItem = "Blue_Mental_Pendant_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "G0",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[978] = {
+		BaseItem = "Thanatos_Sword",
+		Material = {
+			Armor_Stone_1 = 200,
+			Piece_Of_Bone_Armor = 15,
+			Mine_As = 50,
+			Sakray_Fury2 = 5,
+			Sakray_Regret2 = 5
+		},
+		ResultItem = "Thanatos_Sword_FA",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[979] = {
+		BaseItem = "Thanatos_Sword",
+		Material = {
+			Armor_Stone_2 = 200,
+			Piece_Of_Bone_Armor = 30,
+			Mine_As = 100,
+			Sakray_Fury2 = 9,
+			Sakray_Regret2 = 9
+		},
+		ResultItem = "Thanatos_Sword_FA",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[111] = {
+		BaseItem = "Up_Saint_Hall",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Saint_Hall_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[112] = {
+		BaseItem = "Up_Undine_Spear_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Undine_Spear_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[113] = {
+		BaseItem = "Up_Demon_Hunting_Bible",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Demon_Hunting_Bible_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[114] = {
+		BaseItem = "Up_Light_Blade",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Light_Blade_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[115] = {
+		BaseItem = "Up_Magic_Sword",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Magic_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[116] = {
+		BaseItem = "Up_Fatalist",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Fatalist_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[186] = {
+		BaseItem = "Up_Iron_Staff",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Iron_Staff_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[187] = {
+		BaseItem = "Up_Blue_Crystal_Staff",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Blue_Crystal_Staff_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[188] = {
+		BaseItem = "Up_Shadow_Staff_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Shadow_Staff_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[189] = {
+		BaseItem = "Up_Freezing_Rod",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Freezing_Rod_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[190] = {
+		BaseItem = "Up_Iron_Nail_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Iron_Nail_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[191] = {
+		BaseItem = "Up_Ray_Knuckle",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Ray_Knuckle_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[257] = {
+		BaseItem = "Up_Sword_Of_Bluefire",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Sword_Of_Bluefire_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[258] = {
+		BaseItem = "Up_Slate_Sword",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Slate_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[259] = {
+		BaseItem = "Up_Royal_Bow_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Royal_Bow_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[260] = {
+		BaseItem = "Up_Scalet_Dragon_L_Bow",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Scalet_Dragon_L_Bow_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[270] = {
+		BaseItem = "Up_Trumpet_Shell_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Trumpet_Shell_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[271] = {
+		BaseItem = "Up_Barb_Wire_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Barb_Wire_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[272] = {
+		BaseItem = "Up_Narcis_Bow",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Narcis_Bow_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[273] = {
+		BaseItem = "Up_Avenger",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Avenger_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[274] = {
+		BaseItem = "Up_Meteor_Striker",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Meteor_Striker_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[298] = {
+		BaseItem = "Up_Blade_Katar",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Blade_Katar_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[299] = {
+		BaseItem = "Up_Shiver_Katar_K",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Shiver_Katar_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[300] = {
+		BaseItem = "Up_Dragonic_Slayer",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Dragonic_Slayer_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[301] = {
+		BaseItem = "Up_Oriental_Sword",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Oriental_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[454] = {
+		BaseItem = "Up_Fog_Dew_Sword",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Fog_Dew_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[455] = {
+		BaseItem = "Up_Humma_Clear",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Humma_Clear_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[456] = {
+		BaseItem = "Up_The_Black_Gatling",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "The_Black_Gatling_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[457] = {
+		BaseItem = "Up_Crimson_Rose",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Crimson_Rose_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[458] = {
+		BaseItem = "Up_Demon_S_Shot",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Demon_S_Shot_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[459] = {
+		BaseItem = "Up_OneSkyOneSun",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "OneSkyOneSun_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[460] = {
+		BaseItem = "Up_Golden_L_Launcher",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Golden_L_Launcher_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[461] = {
+		BaseItem = "Up_Master_Soul_Rifle",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Master_Soul_Rifle_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[462] = {
+		BaseItem = "Up_SoulWeight",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "SoulWeight_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[463] = {
+		BaseItem = "Up_MeawFoxtail",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "MeawFoxtail_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[708] = {
+		BaseItem = "Up_Freedom_Stick",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Freedom_Stick_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[709] = {
+		BaseItem = "Up_Blessed_Knife",
+		Material = {
+			Weapon_Stone_1 = 100,
+			Bio_Test_Fragment = 100,
+			Bio_Reseearch_Docu = 50
+		},
+		ResultItem = "Blessed_Knife_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[117] = {
+		BaseItem = "Up_Saint_Hall",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Saint_Hall_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[118] = {
+		BaseItem = "Up_Undine_Spear_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Undine_Spear_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[119] = {
+		BaseItem = "Up_Demon_Hunting_Bible",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Demon_Hunting_Bible_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[120] = {
+		BaseItem = "Up_Light_Blade",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Light_Blade_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[121] = {
+		BaseItem = "Up_Magic_Sword",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Magic_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[122] = {
+		BaseItem = "Up_Fatalist",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Fatalist_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[192] = {
+		BaseItem = "Up_Iron_Staff",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Iron_Staff_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[193] = {
+		BaseItem = "Up_Blue_Crystal_Staff",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Blue_Crystal_Staff_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[194] = {
+		BaseItem = "Up_Shadow_Staff_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Shadow_Staff_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[195] = {
+		BaseItem = "Up_Freezing_Rod",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Freezing_Rod_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[196] = {
+		BaseItem = "Up_Iron_Nail_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Iron_Nail_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[197] = {
+		BaseItem = "Up_Ray_Knuckle",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Ray_Knuckle_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[261] = {
+		BaseItem = "Up_Sword_Of_Bluefire",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Sword_Of_Bluefire_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[262] = {
+		BaseItem = "Up_Slate_Sword",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Slate_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[263] = {
+		BaseItem = "Up_Royal_Bow_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Royal_Bow_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[264] = {
+		BaseItem = "Up_Scalet_Dragon_L_Bow",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Scalet_Dragon_L_Bow_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[275] = {
+		BaseItem = "Up_Trumpet_Shell_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Trumpet_Shell_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[276] = {
+		BaseItem = "Up_Barb_Wire_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Barb_Wire_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[277] = {
+		BaseItem = "Up_Narcis_Bow",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Narcis_Bow_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[278] = {
+		BaseItem = "Up_Avenger",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Avenger_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[279] = {
+		BaseItem = "Up_Meteor_Striker",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Meteor_Striker_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[302] = {
+		BaseItem = "Up_Blade_Katar",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Blade_Katar_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[303] = {
+		BaseItem = "Up_Shiver_Katar_K",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Shiver_Katar_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[304] = {
+		BaseItem = "Up_Dragonic_Slayer",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Dragonic_Slayer_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[305] = {
+		BaseItem = "Up_Oriental_Sword",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Oriental_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[464] = {
+		BaseItem = "Up_Fog_Dew_Sword",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Fog_Dew_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[465] = {
+		BaseItem = "Up_Humma_Clear",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Humma_Clear_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[466] = {
+		BaseItem = "Up_The_Black_Gatling",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "The_Black_Gatling_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[467] = {
+		BaseItem = "Up_Crimson_Rose",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Crimson_Rose_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[468] = {
+		BaseItem = "Up_Demon_S_Shot",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Demon_S_Shot_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[469] = {
+		BaseItem = "Up_OneSkyOneSun",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "OneSkyOneSun_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[470] = {
+		BaseItem = "Up_Golden_L_Launcher",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Golden_L_Launcher_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[471] = {
+		BaseItem = "Up_Master_Soul_Rifle",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Master_Soul_Rifle_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[472] = {
+		BaseItem = "Up_SoulWeight",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "SoulWeight_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[473] = {
+		BaseItem = "Up_MeawFoxtail",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "MeawFoxtail_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[710] = {
+		BaseItem = "Up_Freedom_Stick",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Freedom_Stick_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[711] = {
+		BaseItem = "Up_Blessed_Knife",
+		Material = {
+			Weapon_Stone_2 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150
+		},
+		ResultItem = "Blessed_Knife_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[123] = {
+		BaseItem = "Up_Saint_Hall",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Saint_Hall_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[124] = {
+		BaseItem = "Up_Undine_Spear_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Undine_Spear_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[125] = {
+		BaseItem = "Up_Demon_Hunting_Bible",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Demon_Hunting_Bible_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[126] = {
+		BaseItem = "Up_Light_Blade",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Light_Blade_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[127] = {
+		BaseItem = "Up_Magic_Sword",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Magic_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[128] = {
+		BaseItem = "Up_Fatalist",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Fatalist_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[198] = {
+		BaseItem = "Up_Iron_Staff",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Iron_Staff_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[199] = {
+		BaseItem = "Up_Blue_Crystal_Staff",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Blue_Crystal_Staff_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[200] = {
+		BaseItem = "Up_Shadow_Staff_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Shadow_Staff_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[201] = {
+		BaseItem = "Up_Freezing_Rod",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Freezing_Rod_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[202] = {
+		BaseItem = "Up_Iron_Nail_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Iron_Nail_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[203] = {
+		BaseItem = "Up_Ray_Knuckle",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Ray_Knuckle_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[265] = {
+		BaseItem = "Up_Sword_Of_Bluefire",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Sword_Of_Bluefire_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[266] = {
+		BaseItem = "Up_Slate_Sword",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Slate_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[267] = {
+		BaseItem = "Up_Royal_Bow_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Royal_Bow_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[268] = {
+		BaseItem = "Up_Scalet_Dragon_L_Bow",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Scalet_Dragon_L_Bow_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[280] = {
+		BaseItem = "Up_Trumpet_Shell_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Trumpet_Shell_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[281] = {
+		BaseItem = "Up_Barb_Wire_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Barb_Wire_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[282] = {
+		BaseItem = "Up_Narcis_Bow",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Narcis_Bow_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[283] = {
+		BaseItem = "Up_Avenger",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Avenger_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[284] = {
+		BaseItem = "Up_Meteor_Striker",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Meteor_Striker_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[306] = {
+		BaseItem = "Up_Blade_Katar",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Blade_Katar_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[307] = {
+		BaseItem = "Up_Shiver_Katar_K",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Shiver_Katar_K_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[308] = {
+		BaseItem = "Up_Dragonic_Slayer",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Dragonic_Slayer_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[309] = {
+		BaseItem = "Up_Oriental_Sword",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Oriental_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[474] = {
+		BaseItem = "Up_Fog_Dew_Sword",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Fog_Dew_Sword_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[475] = {
+		BaseItem = "Up_Humma_Clear",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Humma_Clear_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[476] = {
+		BaseItem = "Up_The_Black_Gatling",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "The_Black_Gatling_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[477] = {
+		BaseItem = "Up_Crimson_Rose",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Crimson_Rose_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[478] = {
+		BaseItem = "Up_Demon_S_Shot",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Demon_S_Shot_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[479] = {
+		BaseItem = "Up_OneSkyOneSun",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "OneSkyOneSun_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[480] = {
+		BaseItem = "Up_Golden_L_Launcher",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Golden_L_Launcher_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[481] = {
+		BaseItem = "Up_Master_Soul_Rifle",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Master_Soul_Rifle_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[482] = {
+		BaseItem = "Up_SoulWeight",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "SoulWeight_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[483] = {
+		BaseItem = "Up_MeawFoxtail",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "MeawFoxtail_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[712] = {
+		BaseItem = "Up_Freedom_Stick",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Freedom_Stick_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[713] = {
+		BaseItem = "Up_Blessed_Knife",
+		Material = {
+			Weapon_Stone_3 = 100,
+			Bio_Test_Fragment = 300,
+			Bio_Reseearch_Docu = 150,
+			M_Dimension_Essence = 1
+		},
+		ResultItem = "Blessed_Knife_LT",
+		NeedRefineMin = 9,
+		NeedRefineMax = 19,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = true,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[556] = {
+		BaseItem = "Barmund_Ice_Hood",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Ice_Hood",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[557] = {
+		BaseItem = "Barmund_Death_Hood",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Death_Hood",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[558] = {
+		BaseItem = "Barmund_Flame_Hood",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Flame_Hood",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[559] = {
+		BaseItem = "Barmund_Plain_Hood",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Plain_Hood",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[560] = {
+		BaseItem = "Barmund_Ice_Boots",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Ice_Boots",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[561] = {
+		BaseItem = "Barmund_Death_Boots",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Death_Boots",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[562] = {
+		BaseItem = "Barmund_Flame_Boots",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Flame_Boots",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[563] = {
+		BaseItem = "Barmund_Plain_Boots",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Plain_Boots",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[564] = {
+		BaseItem = "Barmund_Ice_Armor",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Ice_Armor",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[565] = {
+		BaseItem = "Barmund_Death_Armor",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Death_Armor",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[566] = {
+		BaseItem = "Barmund_Plain_Armor",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Plain_Armor",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[567] = {
+		BaseItem = "Barmund_Flame_Armor",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Barmund_Flame_Armor",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[607] = {
+		BaseItem = "Sagittarius_DiademK_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Sagittarius_DiademK_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[608] = {
+		BaseItem = "Scorpio_Diadem_K_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Scorpio_Diadem_K_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[609] = {
+		BaseItem = "Large_Sorcerer_Crown_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Large_Sorcerer_Crown_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[610] = {
+		BaseItem = "Stripe_Hat_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Stripe_Hat_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[611] = {
+		BaseItem = "Phantom_Cap_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Phantom_Cap_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[612] = {
+		BaseItem = "Ignis_CapK_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Ignis_CapK_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[613] = {
+		BaseItem = "Clock_Casket_RD_LT",
+		Material = {Shadowdecon = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Clock_Casket_RD_LT",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[830] = {
+		BaseItem = "Punish_Hall",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Punish_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[831] = {
+		BaseItem = "Saint_Bringer",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Saint_Bringer",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[832] = {
+		BaseItem = "Humma_Brilliance",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Humma_Brilliance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[833] = {
+		BaseItem = "Luppiter_Spear",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Luppiter_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[834] = {
+		BaseItem = "Holy_Raise_Spear",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Holy_Raise_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[835] = {
+		BaseItem = "Lightforce_Foxtail_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Lightforce_Foxtail_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[836] = {
+		BaseItem = "Shining_Light_Katar",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Shining_Light_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[837] = {
+		BaseItem = "Angel_Wing_Bow",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Angel_Wing_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[838] = {
+		BaseItem = "Guardian_Saber",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Guardian_Saber",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[839] = {
+		BaseItem = "Holy_Light_Dagger",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Holy_Light_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[840] = {
+		BaseItem = "Light_Power_Harp",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Light_Power_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[841] = {
+		BaseItem = "Light_Power_Spark",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Light_Power_Spark",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[842] = {
+		BaseItem = "Lighting_Splatter",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Lighting_Splatter",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[843] = {
+		BaseItem = "Justice_Bomber",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Justice_Bomber",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[844] = {
+		BaseItem = "Last_Dawn",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Last_Dawn",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[845] = {
+		BaseItem = "Devil_Hunter",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devil_Hunter",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[846] = {
+		BaseItem = "Road_Of_Glory",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Road_Of_Glory",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[847] = {
+		BaseItem = "Victory_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Victory_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[848] = {
+		BaseItem = "Divine_Buster",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Divine_Buster",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[849] = {
+		BaseItem = "Orign_Of_Life",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Orign_Of_Life",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[850] = {
+		BaseItem = "Destiny_Staff",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Destiny_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[851] = {
+		BaseItem = "Blessed_Bible",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Blessed_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[852] = {
+		BaseItem = "Soul_Liberator",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Soul_Liberator",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[853] = {
+		BaseItem = "Demonic_Claw",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Demonic_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[854] = {
+		BaseItem = "Sealed_Bible",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Sealed_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[855] = {
+		BaseItem = "Darkness_Tablet",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Darkness_Tablet",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[856] = {
+		BaseItem = "Devil_Wing_Staff",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devil_Wing_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[857] = {
+		BaseItem = "Doom_Bible",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Doom_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[858] = {
+		BaseItem = "Soul_Harvest",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Soul_Harvest",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[859] = {
+		BaseItem = "The_Reaper",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "The_Reaper",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[860] = {
+		BaseItem = "Underworld_Knife",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Underworld_Knife",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[861] = {
+		BaseItem = "Devil_Cursed_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devil_Cursed_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[862] = {
+		BaseItem = "Dark_Angel_Ray_Bow",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Dark_Angel_Ray_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[863] = {
+		BaseItem = "Crime_Violine",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Crime_Violine",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[864] = {
+		BaseItem = "Crime_Whip",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Crime_Whip",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[865] = {
+		BaseItem = "RG_5649",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "RG_5649",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[866] = {
+		BaseItem = "Devil_L_Launcher",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devil_L_Launcher",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[867] = {
+		BaseItem = "Screaming_Rifle",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Screaming_Rifle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[868] = {
+		BaseItem = "Devils_Bullet",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devils_Bullet",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[869] = {
+		BaseItem = "Outlaw_Cursed_Shotgun",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Outlaw_Cursed_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[870] = {
+		BaseItem = "Blood_Rapier",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Blood_Rapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[871] = {
+		BaseItem = "Destruction_Axe",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Destruction_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[872] = {
+		BaseItem = "Devil_Claw",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devil_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[873] = {
+		BaseItem = "Execution_Great_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Execution_Great_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[874] = {
+		BaseItem = "Devil_Guardian_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Devil_Guardian_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[875] = {
+		BaseItem = "Darkness_Foxtail_Model",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Darkness_Foxtail_Model",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
 	}
 }
 ReformItemList = {
@@ -7677,7 +11301,11 @@ ReformItemList = {
 		215,
 		216,
 		217,
-		218
+		218,
+		219,
+		220,
+		221,
+		222
 	},
 	Hero_Weapon_Hammer_6 = {
 		444,
@@ -7733,6 +11361,255 @@ ReformItemList = {
 		428,
 		429,
 		433
+	},
+	C_Armor_Reform_1 = {
+		103,
+		105,
+		107,
+		109,
+		173,
+		174,
+		175,
+		176,
+		177,
+		178,
+		247,
+		285,
+		499,
+		500,
+		630,
+		631,
+		632,
+		633,
+		634,
+		635,
+		636,
+		967,
+		982
+	},
+	C_Armor_Reform_2 = {
+		104,
+		106,
+		108,
+		110,
+		179,
+		180,
+		181,
+		182,
+		183,
+		184,
+		248,
+		286,
+		501,
+		502,
+		637,
+		638,
+		639,
+		640,
+		641,
+		642,
+		643,
+		968,
+		983
+	},
+	C_Armor_Reform_3 = {
+		185,
+		965,
+		966,
+		980,
+		981
+	},
+	FA_Armor_Reform_1 = {978},
+	FA_Armor_Reform_2 = {979},
+	C_Weapon_Reform_1 = {
+		111,
+		112,
+		113,
+		114,
+		115,
+		116,
+		186,
+		187,
+		188,
+		189,
+		190,
+		191,
+		257,
+		258,
+		259,
+		260,
+		270,
+		271,
+		272,
+		273,
+		274,
+		298,
+		299,
+		300,
+		301,
+		454,
+		455,
+		456,
+		457,
+		458,
+		459,
+		460,
+		461,
+		462,
+		463,
+		708,
+		709
+	},
+	C_Weapon_Reform_2 = {
+		117,
+		118,
+		119,
+		120,
+		121,
+		122,
+		192,
+		193,
+		194,
+		195,
+		196,
+		197,
+		261,
+		262,
+		263,
+		264,
+		275,
+		276,
+		277,
+		278,
+		279,
+		302,
+		303,
+		304,
+		305,
+		464,
+		465,
+		466,
+		467,
+		468,
+		469,
+		470,
+		471,
+		472,
+		473,
+		710,
+		711
+	},
+	C_Weapon_Reform_3 = {
+		123,
+		124,
+		125,
+		126,
+		127,
+		128,
+		198,
+		199,
+		200,
+		201,
+		202,
+		203,
+		265,
+		266,
+		267,
+		268,
+		280,
+		281,
+		282,
+		283,
+		284,
+		306,
+		307,
+		308,
+		309,
+		474,
+		475,
+		476,
+		477,
+		478,
+		479,
+		480,
+		481,
+		482,
+		483,
+		712,
+		713
+	},
+	Barmund_Hammer = {
+		556,
+		557,
+		558,
+		559,
+		560,
+		561,
+		562,
+		563,
+		564,
+		565,
+		566,
+		567
+	},
+	OS_Helm_Hammer = {
+		607,
+		608,
+		609,
+		610,
+		611,
+		612,
+		613
+	},
+	Justice_Weapon_Hammer = {
+		830,
+		831,
+		832,
+		833,
+		834,
+		835,
+		836,
+		837,
+		838,
+		839,
+		840,
+		841,
+		842,
+		843,
+		844,
+		845,
+		846,
+		847,
+		848,
+		849,
+		850,
+		851,
+		852
+	},
+	Injustice_Weapon_Hammer = {
+		853,
+		854,
+		855,
+		856,
+		857,
+		858,
+		859,
+		860,
+		861,
+		862,
+		863,
+		864,
+		865,
+		866,
+		867,
+		868,
+		869,
+		870,
+		871,
+		872,
+		873,
+		874,
+		875
 	}
 }
 local function MergeTables(dest, src)

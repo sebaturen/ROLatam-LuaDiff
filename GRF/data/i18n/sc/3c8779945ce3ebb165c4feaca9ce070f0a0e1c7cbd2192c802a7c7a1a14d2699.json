@@ -1,0 +1,372 @@
+{
+    "4GjMDQ": {
+        "en-US": "Mommy Shark",
+        "pt-BR": "Mamãe Tubarão",
+        "es-ES": "Tiburón Mamá"
+    },
+    "4WjMDQ": {
+        "en-US": "Daddy Shark",
+        "pt-BR": "Papai Tubarão",
+        "es-ES": "Tiburón Papá"
+    },
+    "4mjMDQ": {
+        "en-US": "Grandma Shark",
+        "pt-BR": "Vovó Tubarão",
+        "es-ES": "Tiburón Abuela"
+    },
+    "42jMDQ": {
+        "en-US": "Grandpa Shark",
+        "pt-BR": "Vovô Tubarão",
+        "es-ES": "Tiburón Abuelo"
+    },
+    "5GjMDQ": {
+        "en-US": "Baby Shark",
+        "pt-BR": "Bebê Tubarão",
+        "es-ES": "Tiburón Bebé"
+    },
+    "5WjMDQ": {
+        "en-US": "Your level is insufficient to proceed with this quest.\nRequired Level: 100",
+        "pt-BR": "Seu nível é insuficiente para prosseguir com esta missão.\nNível necessário: 100",
+        "es-ES": "Tu nivel es demasiado bajo para continuar esta misión.\nNivel requerido: 100"
+    },
+    "5mjMDQ": {
+        "en-US": "You are carrying too many items and cannot proceed with the quest.\nPlease organize your inventory and try again.",
+        "pt-BR": "Você está carregando itens demais e não pode prosseguir com a missão.\nPor favor, organize seu inventário e tente novamente.",
+        "es-ES": "Llevas demasiados objetos para continuar con la misión.\nPor favor, organiza tus objetos e inténtalo otra vez."
+    },
+    "52jMDQ": {
+        "en-US": "[Baby Shark]\nWhoa! There are so many people!",
+        "pt-BR": "[Bebê Tubarão]\nUau! Tem tanta gente aqui!",
+        "es-ES": "[Tiburón Bebé]\n¡Guau! ¡Hay mucha gente aquí!"
+    },
+    "6GjMDQ": {
+        "en-US": "[{0}]\nA shark!",
+        "pt-BR": "[{0}]\nUm tubarão!",
+        "es-ES": "[{0}]\n¡Un tiburón!"
+    },
+    "6WjMDQ": {
+        "en-US": "[Baby Shark]\nHi! Is this your first time seeing a shark?\nHehe, did I surprise you?",
+        "pt-BR": "[Bebê Tubarão]\nOi! É a primeira vez que você vê um tubarão?\nHehe, você se assustou?",
+        "es-ES": "[Tiburón Bebé]\n¡Hola! ¿Es la primera vez que ves un tiburón?\nJeje, ¿te asustaste?"
+    },
+    "6mjMDQ": {
+        "en-US": "== Baby Shark stares at me with curiosity. ==",
+        "pt-BR": "== Bebê Tubarão olha para mim com curiosidade. ==",
+        "es-ES": "== Tiburón Bebé me mira con curiosidad. =="
+    },
+    "62jMDQ": {
+        "en-US": "[Baby Shark]\nI'm Baby Shark!\nI'm on my way to the beach town of Comodo with my whole family!",
+        "pt-BR": "[Bebê Tubarão]\nEu sou o Bebê Tubarão!\nEstou indo para a cidade de Comodo com toda a minha família!",
+        "es-ES": "[Tiburón Bebé]\n¡Soy Tiburón Bebé!\n¡Estoy viajando a la ciudad de Comodo con toda mi familia!"
+    },
+    "7GjMDQ": {
+        "en-US": "[{0}]\nBut this is Prontera, right?",
+        "pt-BR": "[{0}]\nMas aqui é Prontera...",
+        "es-ES": "[{0}]\n¿Pero esto no es Prontera?"
+    },
+    "7WjMDQ": {
+        "en-US": "[Baby Shark]\nYeah, I know! Daddy is figuring out how to get to Comodo from here.",
+        "pt-BR": "[Bebê Tubarão]\nÉ, eu sei! O papai está tentando descobrir como ir daqui até Comodo.",
+        "es-ES": "[Tiburón Bebé]\nSí, ¡lo sé! Papá está averiguando cómo llegar a Comodo desde aquí."
+    },
+    "7mjMDQ": {
+        "en-US": "[Daddy Shark]\nBaby Shark, don't bother strangers.",
+        "pt-BR": "[Papai Tubarão]\nBebê Tubarão, não incomode as outras pessoas.",
+        "es-ES": "[Tiburón Papá]\nTiburón Bebé, no vayas molestando a los demás."
+    },
+    "72jMDQ": {
+        "en-US": "Are you lost?",
+        "pt-BR": "Você está perdido?",
+        "es-ES": "¿Te perdiste?"
+    },
+    "8GjMDQ": {
+        "en-US": "[Mommy Shark]\nHmm... I heard we could use this ticket here...",
+        "pt-BR": "[Mamãe Tubarão]\nHmm... Eu ouvi dizer que poderíamos usar este bilhete aqui...",
+        "es-ES": "[Tiburón Mamá]\nMmm... Escuché que podía usar este cupón aquí."
+    },
+    "8WjMDQ": {
+        "en-US": "Look at the ticket.",
+        "pt-BR": "Olhar para o bilhete.",
+        "es-ES": "Mirar el cupón."
+    },
+    "8mjMDQ": {
+        "en-US": "[{0}]\nThis is a special ticket for the Kafra Service. We should look for a Kafra staff member.",
+        "pt-BR": "[{0}]\nEste é um bilhete especial do Serviço Kafra. Vamos procurar por uma funcionária Kafra.",
+        "es-ES": "[{0}]\nEste es un cupón especial del Servicio Kafra. Será mejor llamar a una Empleada de Kafra."
+    },
+    "82jMDQ": {
+        "en-US": "[Kafra Staff]\nYou came to the right place. We can depart right now, what would you like to do?",
+        "pt-BR": "[Funcionária Kafra]\nVeio ao lugar certo. Podemos partir agora mesmo, o que gostaria de fazer?",
+        "es-ES": "[Empleada de Kafra]\nHas venido al lugar correcto. Podemos partir ahora mismo. ¿Qué te gustaría hacer?"
+    },
+    "9GjMDQ": {
+        "en-US": "[Baby Shark]\nThank you for helping me! Do you want to be my friend?",
+        "pt-BR": "[Bebê Tubarão]\nMuito obrigado por me ajudar! Quer ser meu amigo?",
+        "es-ES": "[Tiburón Bebé]\n¡Muchas gracias por ayudar! ¿Quieres ser mi amigo?"
+    },
+    "9WjMDQ": {
+        "en-US": "[{0}]\nSure. I'm {0}.",
+        "pt-BR": "[{0}]\nClaro. Eu sou {0}.",
+        "es-ES": "[{0}]\nClaro. Soy {0}."
+    },
+    "9mjMDQ": {
+        "en-US": "[Baby Shark]\nYay, awesome! I'll introduce you to my best friend William! William is...",
+        "pt-BR": "[Bebê Tubarão]\nEba, que legal! Vou te apresentar ao meu melhor amigo William! O William é...",
+        "es-ES": "[Tiburón Bebé]\n¡Guau, qué bien! ¡Te presentaré a mi mejor amigo William también! William es..."
+    },
+    "92jMDQ": {
+        "en-US": "[Mommy Shark]\nThank you for helping, {0}.\nCould you play with Baby Shark and create some good memories with him in Comodo?",
+        "pt-BR": "[Mamãe Tubarão]\nObrigada pela ajuda, {0}.\nVocê poderia fazer companhia ao Bebê Tubarão e criar boas lembranças com ele em Comodo?",
+        "es-ES": "[Tiburón Mamá]\nGracias por ayudar, {0}.\n¿Podrías acompañar a Tiburón Bebé y crear buenos recuerdos con él en Comodo?"
+    },
+    "+GjMDQ": {
+        "en-US": "[Baby Shark]\nPlay with me!",
+        "pt-BR": "[Bebê Tubarão]\nVem brincar comigo!",
+        "es-ES": "[Tiburón Bebé]\n¡Juega conmigo!"
+    },
+    "+WjMDQ": {
+        "en-US": "[{0}]\n... Alright!",
+        "pt-BR": "[{0}]\n... Tudo bem!",
+        "es-ES": "[{0}]\n¡Bueno!"
+    },
+    "+mjMDQ": {
+        "en-US": "[Baby Shark]\nSo we're friends now, right?\nHere's a gift of our friendship!",
+        "pt-BR": "[Bebê Tubarão]\nEntão, agora somos amigos, né?\nVou te dar isto como um presente da nossa amizade!",
+        "es-ES": "[Tiburón Bebé]\n¿Entonces ya somos amigos, verdad?\n¡Te regalo esto como muestra de nuestra amistad!"
+    },
+    "+2jMDQ": {
+        "en-US": "I received the <ITEM>[Costume] Baby Shark Head<INFO>401367</INFO></ITEM>. This is a friendship gift from Baby Shark!",
+        "pt-BR": "Recebi do Tubarão Bebê o <ITEM>[Visual] Cabeça do Baby Shark<INFO>401367</INFO></ITEM>. Este é o presente de nossa amizade!",
+        "es-ES": "Recibí de Tiburón Bebé el <ITEM>[Disfraz] Cabeza de Baby Shark<INFO>401367</INFO></ITEM>. ¡Es un regalo de nuestra amistad!"
+    },
+    "/GjMDQ": {
+        "en-US": "[Baby Shark]\nAlright, off to Comodo!",
+        "pt-BR": "[Bebê Tubarão]\nCerto, vamos para Comodo!",
+        "es-ES": "[Tiburón Bebé]\n¡Bien, nos vamos a Comodo!"
+    },
+    "/WjMDQ": {
+        "en-US": "[Baby Shark]\nDoo doo doo doo doo doo!\nWhat shall we play today? Let's go play!",
+        "pt-BR": "[Bebê Tubarão]\nDu du ru du du ru!\nDo que vamos brincar hoje? Vamos brincar!",
+        "es-ES": "[Tiburón Bebé]\n¡Du ru du ru!\n¿A qué jugaremos hoy? ¡Vamos a jugar!"
+    },
+    "/mjMDQ": {
+        "en-US": "Would you like to go to Comodo?",
+        "pt-BR": "Deseja ir para Comodo?",
+        "es-ES": "¿Deseas ir a Comodo?"
+    },
+    "/2jMDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
+    },
+    "AGnMDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "AWnMDQ": {
+        "en-US": "[Baby Shark]\nYay!",
+        "pt-BR": "[Bebê Tubarão]\nOba!",
+        "es-ES": "[Tiburón Bebé]\n¡Qué bien!"
+    },
+    "AmnMDQ": {
+        "en-US": "[Baby Shark]\nSee you next time then!",
+        "pt-BR": "[Bebê Tubarão]\nAté a próxima!",
+        "es-ES": "[Tiburón Bebé]\n¡Hasta la próxima!"
+    },
+    "A2nMDQ": {
+        "en-US": "[Baby Shark]\nHello, {0}!",
+        "pt-BR": "[Bebê Tubarão]\nOi, {0}!",
+        "es-ES": "[Tiburón Bebé]\n¡Hola, {0}!"
+    },
+    "BGnMDQ": {
+        "en-US": "Today was so much fun!\nDid you collect a lot of coins?",
+        "pt-BR": "Hoje foi muito divertido!\nConseguiu pegar muitas moedas?",
+        "es-ES": "¡Hoy fue muy divertido!\n¿Juntaste muchas monedas?"
+    },
+    "BWnMDQ": {
+        "en-US": "You're going to play with me today too, right?",
+        "pt-BR": "Você vai brincar comigo hoje também, né?",
+        "es-ES": "¿Jugarás conmigo hoy también, verdad?"
+    },
+    "BmnMDQ": {
+        "en-US": "Play with Baby Shark (Instance)",
+        "pt-BR": "Brincar com o Bebê Tubarão (Instância)",
+        "es-ES": "Jugar con Tiburón Bebé (instancia)"
+    },
+    "B2nMDQ": {
+        "en-US": "Help Baby Shark.",
+        "pt-BR": "Ajudar o Bebê Tubarão.",
+        "es-ES": "Ayudar a Tiburón Bebé."
+    },
+    "CGnMDQ": {
+        "en-US": "Exchange Items.",
+        "pt-BR": "Trocar Itens.",
+        "es-ES": "Intercambiar objetos."
+    },
+    "CWnMDQ": {
+        "en-US": "Cancel.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
+    },
+    "CmnMDQ": {
+        "en-US": "^FF0000You must create a 1-player party to enter.^000000",
+        "pt-BR": "^FF0000É necessário criar um grupo com 1 membro para poder entrar.^000000",
+        "es-ES": "^FF0000Debes crear un grupo con 1 miembro para entrar.^000000"
+    },
+    "C2nMDQ": {
+        "en-US": "^4D4DFFYou can only proceed with a 1-player party.^000000",
+        "pt-BR": "^4D4DFFSó é possível prosseguir com um grupo de 1 membro.^000000",
+        "es-ES": "^4D4DFFSolo se puede seguir con un grupo de 1 miembro.^000000"
+    },
+    "DGnMDQ": {
+        "en-US": "[Baby Shark]\nToday was so much fun!\nYou'll play with me tomorrow too, right?",
+        "pt-BR": "[Bebê Tubarão]\nHoje foi muito divertido!\nVocê vai brincar comigo amanhã também, né?",
+        "es-ES": "[Tiburón Bebé]\n¡Hoy fue muy divertido!\n¿Jugarás conmigo mañana también, verdad?"
+    },
+    "DWnMDQ": {
+        "en-US": "[Baby Shark]\nYay! Let's play!\nHehe, it'll be so much fun today too!",
+        "pt-BR": "[Bebê Tubarão]\nOba! Vamos brincar!\nHehe, hoje eu também vou me divertir muito!",
+        "es-ES": "[Tiburón Bebé]\n¡Qué bien! ¡Vamos a jugar!\n¡Hoy también me voy a divertir mucho!"
+    },
+    "DmnMDQ": {
+        "en-US": "Treasure Hunt with Baby Shark",
+        "pt-BR": "Caça ao Tesouro com o Bebê Tubarão",
+        "es-ES": "Búsqueda del Tesoro con Tiburón Bebé"
+    },
+    "D2nMDQ": {
+        "en-US": "Hide and Seek with Baby Shark",
+        "pt-BR": "Esconde-esconde com o Bebê Tubarão",
+        "es-ES": "Escondidas con Tiburón Bebé"
+    },
+    "EGnMDQ": {
+        "en-US": "Find the Family with Baby Shark",
+        "pt-BR": "Procurando a Família Tubarão",
+        "es-ES": "Encontrar a la Familia Tiburón"
+    },
+    "EWnMDQ": {
+        "en-US": "[Baby Shark]\nOh, by the way, there are some kids at the playground who try to stop us from playing.\nEven when we ask them to play with us, they say no!\nIf you tell them off, they’ll run away.",
+        "pt-BR": "[Bebê Tubarão]\nAh é, no parquinho tem uns caras que ficam atrapalhando a nossa brincadeira.\nMesmo quando a gente chama, eles não querem brincar!\nSe você der uma bronca neles, eles vão sair correndo.",
+        "es-ES": "[Tiburón Bebé]\nAh, sí, en el parque hay algunos que siempre vienen a arruinarnos el juego.\n¡Aunque los invitemos, no quieren jugar con nosotros!\nSi les das una buena reprimenda, ¡saldrán corriendo!"
+    },
+    "EmnMDQ": {
+        "en-US": "Prepare to Play (Generate Instance)",
+        "pt-BR": "Preparar para Brincar (Criar Instância)",
+        "es-ES": "Prepararse para jugar (generar instancia)"
+    },
+    "E2nMDQ": {
+        "en-US": "Let's Play! (Enter Instance)",
+        "pt-BR": "Vamos Brincar! (Entrar na Instância)",
+        "es-ES": "¡A jugar! (entrar a la instancia)"
+    },
+    "FGnMDQ": {
+        "en-US": "Party Name:{0}\nParty Leader:{1}\n^0000FF{2} ^000000 - Reservation Failed",
+        "pt-BR": "Nome do Grupo:{0}\nLíder do Grupo:{1}\n^0000FF{2} ^000000 - Falha na Reserva",
+        "es-ES": "Nombre del grupo:{0}\nLíder del grupo:{1}\n^0000FF{2} ^000000 - Error en la reserva"
+    },
+    "FWnMDQ": {
+        "en-US": "I've decided what I will do today.",
+        "pt-BR": "Já decidi o que farei hoje.",
+        "es-ES": "Ya decidí qué hacer hoy."
+    },
+    "FmnMDQ": {
+        "en-US": "^FF0000An unknown error occurred.^000000",
+        "pt-BR": "^FF0000Um erro desconhecido ocorreu.^000000",
+        "es-ES": "^FF0000Ocurrió un error desconocido.^000000"
+    },
+    "F2nMDQ": {
+        "en-US": "^FF0000I'm not fully prepared to go play yet.^000000",
+        "pt-BR": "^FF0000Ainda não estou pronto para ir brincar.^000000",
+        "es-ES": "^FF0000Aún no estoy listo para ir a jugar.^000000"
+    },
+    "GGnMDQ": {
+        "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt-BR": "^FF0000Você não pode entrar se não estiver em um grupo.^000000",
+        "es-ES": "^FF0000No puedes entrar a menos que estés en un grupo.^000000"
+    },
+    "GWnMDQ": {
+        "en-US": "Party member {1} of party {0} is entering {2}.",
+        "pt-BR": "O membro {1} do grupo {0} está entrando em {2}.",
+        "es-ES": "El miembro {1}, del grupo {0}, está entrando en {2}."
+    },
+    "GmnMDQ": {
+        "en-US": "Decided to go play in a little bit.",
+        "pt-BR": "Decidimos ir brincar daqui a pouco.",
+        "es-ES": "Decidimos ir a jugar dentro de un rato."
+    },
+    "G2nMDQ": {
+        "en-US": "Only the party leader can go play with Baby Shark.",
+        "pt-BR": "Apenas o líder do grupo pode ir brincar com o Bebê Tubarão.",
+        "es-ES": "Solo el líder del grupo puede ir a jugar con Tiburón Bebé."
+    },
+    "HGnMDQ": {
+        "en-US": "[Baby Shark]\nI want to play with my friends, but the big fish keep getting in the way.",
+        "pt-BR": "[Bebê Tubarão]\nQuero brincar com meus amigos, mas os peixes grandes ficam atrapalhando.",
+        "es-ES": "[Tiburón Bebé]\nQuiero jugar con mis amigos, pero los peces grandes siempre vienen a arruinarnos el juego."
+    },
+    "HWnMDQ": {
+        "en-US": "== This quest requires you to defeat 20 monsters that are causing trouble in Baby Shark Playground. ==\n== Would you like to go to the Playground? ==",
+        "pt-BR": "== Esta é uma missão para derrotar 20 monstros que estão causando confusão no Parquinho do Baby Shark. ==\n== Deseja ir para o Parquinho? ==",
+        "es-ES": "== Esta misión requiere derrotar 20 monstruos que están causando problemas en el Parque de Baby Shark. ==\n== ¿Deseas ir al parque? =="
+    },
+    "HmnMDQ": {
+        "en-US": "== Canceled. ==",
+        "pt-BR": "== Cancelado. ==",
+        "es-ES": "== Cancelado. =="
+    },
+    "H2nMDQ": {
+        "en-US": "[Baby Shark]\nWhoa! You already beat up all the big fish? {0}, you're really strong! Awesome!",
+        "pt-BR": "[Bebê Tubarão]\nUau! Você já derrotou todos aqueles peixes grandes? {0}, você é muito forte! Que legal!",
+        "es-ES": "[Tiburón Bebé]\n¡Guau! ¿Ya derrotaste a todos los peces grandes? {0}, ¡eres muy fuerte! ¡Increíble!"
+    },
+    "IGnMDQ": {
+        "en-US": "[Baby Shark]\nAs a thank-you gift, I'll give you <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.\nBig fish might show up again, but thanks to you, I think I'll be able to play a lot today! Thank you!",
+        "pt-BR": "[Tubarão Bebê]\nComo agradecimento, vou te dar <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.\nTalvez ainda apareçam peixes grandes de novo, mas, graças a você, parece que hoje vou poder brincar bastante! Muito obrigado!",
+        "es-ES": "[Tiburón Bebé]\nPara agradecerte, te daré <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>.\nPuede que los peces grandes regresen, pero gracias a ti podré divertirme hoy. ¡Gracias!"
+    },
+    "IWnMDQ": {
+        "en-US": "[Baby Shark]\nThe big fish might come back, but thanks to you, I can play a lot today! Thank you!",
+        "pt-BR": "[Bebê Tubarão]\nOs peixes grandes podem voltar, mas graças a você, acho que hoje vou poder brincar bastante! Obrigado!",
+        "es-ES": "[Tiburón Bebé]\nPuede que los peces grandes regresen, pero gracias a ti podré divertirme hoy. ¡Gracias!"
+    },
+    "ImnMDQ": {
+        "en-US": "[Baby Shark]\nDoo doo doo doo doo doo!\nI want to play with my friends, but the big fish keep getting in the way.\n{0}, can you help us out? Pretty pleaaase!\nIf you accept my request, I'll give you <ITEM>[Baby Shark Coin]<INFO>1002959</INFO></ITEM>.",
+        "pt-BR": "[Bebê Tubarão]\nDu du ru du du ru!\nQuero brincar com meus amigos, mas os peixes grandes ficam atrapalhando.\n{0}, você pode nos ajudar? Por favooor!\nSe aceitar o meu pedido, eu te dou <ITEM>[Moeda Baby Shark]<INFO>1002959</INFO></ITEM>.",
+        "es-ES": "[Tiburón Bebé]\n¡Du ru du ru!\nQuiero jugar con mis amigos, pero los peces grandes siempre vienen a arruinarnos el juego.\n{0}, ¿puedes ayudarnos? ¡Por favor!\nSi aceptas, te daré <ITEM>[Moneda Baby Shark]<INFO>1002959</INFO></ITEM>."
+    },
+    "I2nMDQ": {
+        "en-US": "== This quest requires you to defeat 20 monsters that are causing trouble in Baby Shark Playground. ==",
+        "pt-BR": "== Esta é uma missão para derrotar 20 monstros que estão causando confusão no Parquinho do Baby Shark. ==",
+        "es-ES": "== Esta misión requiere derrotar 20 monstruos que están causando problemas en el Parque de Baby Shark. =="
+    },
+    "JGnMDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Aceptar."
+    },
+    "JWnMDQ": {
+        "en-US": "Refuse.",
+        "pt-BR": "Recusar.",
+        "es-ES": "Rechazar."
+    },
+    "JmnMDQ": {
+        "en-US": "[Baby Shark]\nHehe, thank you! I'm counting on you!",
+        "pt-BR": "[Bebê Tubarão]\nHehe, obrigado! Conto com você!",
+        "es-ES": "[Tiburón Bebé]\n¡Gracias! ¡Cuento contigo!"
+    },
+    "J2nMDQ": {
+        "en-US": "[Baby Shark]\nGuess it can't be helped...",
+        "pt-BR": "[Bebê Tubarão]\nFazer o quê...",
+        "es-ES": "[Tiburón Bebé]\nQué se le va a hacer..."
+    },
+    "KGnMDQ": {
+        "en-US": "[Baby Shark]\nI like playing shopkeeper!",
+        "pt-BR": "[Bebê Tubarão]\nEu gosto de brincar de lojinha!",
+        "es-ES": "[Tiburón Bebé]\n¡Me gusta jugar a la tiendita!"
+    },
+    "KWnMDQ": {
+        "en-US": "[Baby Shark]\nAlright. Let's play again next time!",
+        "pt-BR": "[Bebê Tubarão]\nTudo bem. Vamos brincar de novo da próxima vez!",
+        "es-ES": "[Tiburón Bebé]\nEntendido. ¡Volvamos a jugar la próxima vez!"
+    }
+}

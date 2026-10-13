@@ -1,12 +1,12 @@
 {
     "oH5bDQ": {
         "en-US": "Exorcist",
-        "pt-BR": "Exorcista",
+        "pt-BR": "Jonchosa",
         "es-ES": "Exorcista"
     },
     "oX5bDQ": {
         "en-US": "[Exorcist]\nNow, this is the new place where you will train. As you can see, there are many trees.",
-        "pt-BR": "[Exorcista]\nBem, este é o novo lugar onde você treinará. Como pode ver, há muitas árvores.",
+        "pt-BR": "[Jonchosa]\nBem, este é o novo lugar onde você treinará. Como pode ver, há muitas árvores.",
         "es-ES": "[Exorcista]\nBien, este es el nuevo lugar donde entrenarás. Como ves, hay muchos árboles."
     },
     "on5bDQ": {
@@ -16,7 +16,7 @@
     },
     "o35bDQ": {
         "en-US": "[Exorcist]\n^0000CDBring me tree branches^000000. You must never harm the trees. You must only pick up branches that fall when shaken by the wind. Be careful, as they disappear the moment they touch the ground.",
-        "pt-BR": "[Exorcista]\n^0000CDTraga galhos^000000. Jamais deve ferir as árvores: você deve recolher apenas os galhos que caem ao serem balançados pelo vento. Se caírem no chão, desaparecerão imediatamente, então tome cuidado.",
+        "pt-BR": "[Jonchosa]\n^0000CDTraga galhos^000000. Jamais deve ferir as árvores: você deve recolher apenas os galhos que caem ao serem balançados pelo vento. Se caírem no chão, desaparecerão imediatamente, então tome cuidado.",
         "es-ES": "[Exorcista]\n^0000CDTrae ramas^000000. No debes dañar los árboles bajo ningún concepto. Solo debes recoger y traer las ramas que caigan al ser mecidas por el viento. Ten cuidado, porque desaparecerán en cuanto toquen el suelo."
     },
     "pH5bDQ": {
@@ -26,17 +26,17 @@
     },
     "pX5bDQ": {
         "en-US": "[Exorcist]\nWhy? Does this also seem trivial? Does it not feel like training?",
-        "pt-BR": "[Exorcista]\nPor quê? Isso também parece insignificante? Parece que não é treinamento?",
+        "pt-BR": "[Jonchosa]\nPor quê? Isso também parece insignificante? Parece que não é treinamento?",
         "es-ES": "[Exorcista]\n¿Por qué? ¿Esto también te parece insignificante? ¿Te parece que no es entrenamiento?"
     },
     "pn5bDQ": {
         "en-US": "[Mountain Lord]\nExorcist, what are you doing here? Leaving only Sol at home.",
-        "pt-BR": "[Senhor da Montanha]\nExorcista, o que está fazendo aqui? E ainda deixando o Suol sozinho em casa.",
+        "pt-BR": "[Senhor da Montanha]\nJonchosa, o que está fazendo aqui? E ainda deixando o Suol sozinho em casa.",
         "es-ES": "[Señor de la montaña]\nExorcista, ¿qué haces aquí? Dejando solo a Sol en casa."
     },
     "p35bDQ": {
         "en-US": "[Exorcist]\nI am repaying a debt, so do not interfere.",
-        "pt-BR": "[Exorcista]\nEstou pagando uma dívida, então não atrapalhe.",
+        "pt-BR": "[Jonchosa]\nEstou pagando uma dívida, então não atrapalhe.",
         "es-ES": "[Exorcista]\nEstoy pagando una deuda, así que no estorbes."
     },
     "qH5bDQ": {
@@ -51,7 +51,7 @@
     },
     "qn5bDQ": {
         "en-US": "[Exorcist]\nSee? You are interfering right now.",
-        "pt-BR": "[Exorcista]\nVê? Agora mesmo você está atrapalhando.",
+        "pt-BR": "[Jonchosa]\nVê? Agora mesmo você está atrapalhando.",
         "es-ES": "[Exorcista]\nYa ves. Justo ahora estás estorbando."
     },
     "q35bDQ": {
@@ -61,7 +61,7 @@
     },
     "rH5bDQ": {
         "en-US": "[Exorcist]\nAt the request of someone I know, I took on a short-term disciple and have been training them. Right! This works out well. You should face my disciple for a bit. Do not attack them in earnest.",
-        "pt-BR": "[Exorcista]\nA pedido de um conhecid, aceitei um discípulo temporário. Ah, certo! Isso vem a calhar. Enfrente meu discípulo um pouco. Mas não lute com toda a seriedade.",
+        "pt-BR": "[Jonchosa]\nA pedido de um conhecido, aceitei um discípulo temporário. Ah, certo! Isso vem a calhar. Enfrente meu discípulo um pouco. Mas não lute com toda a seriedade.",
         "es-ES": "[Exorcista]\nHe aceptado a un discípulo temporal por petición de un conocido y lo estaba entrenando. ¡Eso es! Has llegado en buen momento. Hazle un poco de oponente a mi discípulo. Pero no vayas en serio."
     },
     "rX5bDQ": {
@@ -71,17 +71,17 @@
     },
     "rn5bDQ": {
         "en-US": "[Exorcist]\nI told them to pick up branches as training, and they were surprised. They must surely think it is a mere chore. What training could be more suitable for creating the vessel of a Taoist?",
-        "pt-BR": "[Exorcista]\nComo treinamento, pedi ao discípulo que recolhesse galhos, e ficou surpreso. Sem dúvida deve achar que é trabalho braçal. Que treinamento poderia ser mais adequado para criar o recipiente de um taoísta?",
+        "pt-BR": "[Jonchosa]\nComo treinamento, pedi ao discípulo que recolhesse galhos, e ficou surpreso. Sem dúvida deve achar que é trabalho braçal. Que treinamento poderia ser mais adequado para criar o recipiente de um taoísta?",
         "es-ES": "[Exorcista]\nLe dije que recogiera ramas como entrenamiento y se sorprendió. Seguro que piensa que es una tarea doméstica. ¿Qué entrenamiento puede haber más adecuado que este para crear el recipiente de un daoísta?"
     },
     "r35bDQ": {
         "en-US": "[Mountain Lord]\nGoodness!! They think reading the wind is such an easy task? They must think Exorcist bought those abilities somewhere and simply attached them.",
-        "pt-BR": "[Senhor da Montanha]\nOra essa!! Uma tarefa difícil dessas, que exige ler o vento? Você deve achar que Exorcista simplesmente comprou as habilidades em um quiosque e grudou no próprio corpo.",
+        "pt-BR": "[Senhor da Montanha]\nOra essa!! Uma tarefa difícil dessas, que exige ler o vento? Você deve achar que Jonchosa simplesmente comprou as habilidades em um quiosque e grudou no próprio corpo.",
         "es-ES": "[Señor de la montaña]\n¡¡Vaya!! ¿Con una tarea tan difícil como leer el viento? Parece que cree que Exorcista compró sus habilidades en alguna parte y se las puso encima."
     },
     "sH5bDQ": {
         "en-US": "[Exorcist]\nIf you can face this Mountain Lord here and win, I will consider letting this training pass. How about it? If you are strong enough to defeat Mountain Lord, you would not need more training.",
-        "pt-BR": "[Exorcista]\nSe enfrentar o Senhor da Montanha e vencer, considerarei deixar este treinamento passar. O que acha? Se consegue vencer até ele, não deve precisar de mais treinamento.",
+        "pt-BR": "[Jonchosa]\nSe enfrentar o Senhor da Montanha e vencer, considerarei deixar este treinamento passar. O que acha? Se consegue vencer até ele, não deve precisar de mais treinamento.",
         "es-ES": "[Exorcista]\nSi te enfrentas a este Señor de la montaña y ganas, consideraré pasar por alto este entrenamiento. ¿Qué te parece? Si eres capaz de vencer incluso a Señor de la montaña, no necesitarás más entrenamiento."
     },
     "sX5bDQ": {
@@ -91,12 +91,12 @@
     },
     "sn5bDQ": {
         "en-US": "[Exorcist]\nThat sounds good. The disciple performs the trick, and the master gets exempted from rent.",
-        "pt-BR": "[Exorcista]\nÓtimo. O discípulo faz o trabalho, e o mestre fica isento do aluguel.",
+        "pt-BR": "[Jonchosa]\nÓtimo. O discípulo faz o trabalho, e o mestre fica isento do aluguel.",
         "es-ES": "[Exorcista]\nEso suena bien. El discípulo hace el espectáculo y el maestro se libra del alquiler."
     },
     "s35bDQ": {
         "en-US": "[Exorcist]\nWhat will you do?",
-        "pt-BR": "[Exorcista]\nO que você fará?",
+        "pt-BR": "[Jonchosa]\nO que você fará?",
         "es-ES": "[Exorcista]\n¿Qué harás?"
     },
     "tH5bDQ": {
@@ -116,7 +116,7 @@
     },
     "t35bDQ": {
         "en-US": "[Exorcist]\nDo not be too disappointed. After the training is over, I will arrange a sparring match. We must see the results of the disciple's training, must we not?",
-        "pt-BR": "[Exorcista]\nNão fique tão decepcionado. Depois que ele concluir o treinamento, arranjarei um duelo. Também precisamos ver os resultados do treinamento do discípulo, não é?",
+        "pt-BR": "[Jonchosa]\nNão fique tão decepcionado. Depois que ele concluir o treinamento, arranjarei um duelo. Também precisamos ver os resultados do treinamento do discípulo, não é?",
         "es-ES": "[Exorcista]\nNo te decepciones tanto. Después del entrenamiento prepararé un combate. También habrá que ver los resultados del entrenamiento del discípulo, ¿no?"
     },
     "uH5bDQ": {
@@ -126,7 +126,7 @@
     },
     "uX5bDQ": {
         "en-US": "[Exorcist]\nGo around the nearby trees and bring back branches.",
-        "pt-BR": "[Exorcista]\nVá perto das árvores ao redor e traga os galhos.",
+        "pt-BR": "[Jonchosa]\nVá perto das árvores ao redor e traga os galhos.",
         "es-ES": "[Exorcista]\nTú, ve rodeando los árboles de alrededor y trae ramas."
     },
     "un5bDQ": {
@@ -136,7 +136,7 @@
     },
     "u35bDQ": {
         "en-US": "[Exorcist]\nIt is more like a deal I took on in place of repaying a debt. Now, begin the sparring match.",
-        "pt-BR": "[Exorcista]\nFoi um tipo de acordo que aceitei no lugar de pagar uma dívida. Então, comecem o duelo.",
+        "pt-BR": "[Jonchosa]\nFoi um tipo de acordo que aceitei no lugar de pagar uma dívida. Então, comecem o duelo.",
         "es-ES": "[Exorcista]\nEs una tarea que acepté para pagar una deuda. Bien, entonces probad el combate."
     },
     "vH5bDQ": {
@@ -146,7 +146,7 @@
     },
     "vX5bDQ": {
         "en-US": "[Exorcist]\nWhy seek me out in the middle of training?",
-        "pt-BR": "[Exorcista]\nPor que me procura no meio do treinamento?",
+        "pt-BR": "[Jonchosa]\nPor que me procura no meio do treinamento?",
         "es-ES": "[Exorcista]\n¿Por qué has venido a buscarme en mitad del entrenamiento?"
     },
     "vn5bDQ": {
@@ -156,12 +156,12 @@
     },
     "v35bDQ": {
         "en-US": "[Exorcist]\nThey are sacred trees that uphold the yin and yang of this world. If you light a fire with branches that fall from these trees, the fire lasts long and burns well.\nNow continue your training. You must never harm the trees.",
-        "pt-BR": "[Exorcista]\nSão árvores sagradas que sustentam o yin e o yang deste mundo. Se acender uma fogueira com os galhos que caem dessas árvores, o fogo dura muito e queima bem.\nAgora continue o treinamento. Jamais cause dano às árvores.",
+        "pt-BR": "[Jonchosa]\nSão árvores sagradas que sustentam o yin e o yang deste mundo. Se acender uma fogueira com os galhos que caem dessas árvores, o fogo dura muito e queima bem.\nAgora continue o treinamento. Jamais cause dano às árvores.",
         "es-ES": "[Exorcista]\nSon árboles sagrados que sostienen el yin y el yang de este mundo. Si enciendes fuego con las ramas que caen de estos árboles, el fuego dura mucho y arde bien.\nAhora continúa con el entrenamiento. No debes dañar los árboles bajo ningún concepto."
     },
     "wH5bDQ": {
         "en-US": "[Exorcist]\nEven though you have not finished training? Are you that confident?",
-        "pt-BR": "[Exorcista]\nMesmo sem ter concluído o treinamento? Tem tanta confiança assim?",
+        "pt-BR": "[Jonchosa]\nMesmo sem ter concluído o treinamento? Tem tanta confiança assim?",
         "es-ES": "[Exorcista]\n¿Aunque aún no has terminado el entrenamiento? ¿Tanta confianza tienes?"
     },
     "wX5bDQ": {
@@ -171,7 +171,7 @@
     },
     "wn5bDQ": {
         "en-US": "[Exorcist]\nWhy seek me out in the middle of sparring? Do you wish to give up sparring?",
-        "pt-BR": "[Exorcista]\nPor que me procura no meio do duelo? Quer desistir?",
+        "pt-BR": "[Jonchosa]\nPor que me procura no meio do duelo? Quer desistir?",
         "es-ES": "[Exorcista]\n¿Por qué has venido a buscarme en mitad del combate? ¿Quieres abandonar el combate?"
     },
     "w35bDQ": {
@@ -186,7 +186,7 @@
     },
     "xX5bDQ": {
         "en-US": "[Exorcist]\nYou understand your current position well now, do you not? Then begin training again.",
-        "pt-BR": "[Exorcista]\nAgora você entende bem sua situação, não é? Então volte a treinar.",
+        "pt-BR": "[Jonchosa]\nAgora você entende bem sua situação, não é? Então volte a treinar.",
         "es-ES": "[Exorcista]\nAhora entiendes bien tu situación, ¿verdad? Entonces vuelve a empezar el entrenamiento."
     },
     "xn5bDQ": {
@@ -196,12 +196,12 @@
     },
     "x35bDQ": {
         "en-US": "[Exorcist]\nThen why are you dawdling here? Go on. Mountain Lord is waiting.",
-        "pt-BR": "[Exorcista]\nEntão por que está enrolando aqui? Vá logo. O Senhor da Montanha está esperando, não está?",
+        "pt-BR": "[Jonchosa]\nEntão por que está enrolando aqui? Vá logo. O Senhor da Montanha está esperando, não está?",
         "es-ES": "[Exorcista]\nEntonces, ¿por qué sigues aquí perdiendo el tiempo? Ve ya. Señor de la montaña te está esperando."
     },
     "yH5bDQ": {
         "en-US": "[Exorcist]\nHmm... You somehow defeated Mountain Lord by chance. What do you think?",
-        "pt-BR": "[Exorcista]\nHmm... Por sorte, você venceu o Senhor da Montanha. O que acha disso?",
+        "pt-BR": "[Jonchosa]\nHmm... Por sorte, você venceu o Senhor da Montanha. O que acha disso?",
         "es-ES": "[Exorcista]\nMmm... Has vencido a Señor de la montaña por pura suerte. ¿Qué te parece a ti?"
     },
     "yX5bDQ": {
@@ -221,12 +221,12 @@
     },
     "zH5bDQ": {
         "en-US": "[Exorcist]\nA wise decision. Understanding your own position is important as well. Then continue your training.",
-        "pt-BR": "[Exorcista]\nPensou bem. Também é importante conhecer sua própria posição. Então continue o treinamento.",
+        "pt-BR": "[Jonchosa]\nPensou bem. Também é importante conhecer sua própria posição. Então continue o treinamento.",
         "es-ES": "[Exorcista]\nHas pensado bien. También es importante conocer tu propia posición. Entonces continúa con el entrenamiento."
     },
     "zX5bDQ": {
         "en-US": "[Exorcist]\nAre you hoping for luck? What meaning is there in winning a fight without learning the basics?",
-        "pt-BR": "[Exorcista]\nEstá esperando um golpe de sorte? Que sentido há em vencer uma luta sem aprender o básico?",
+        "pt-BR": "[Jonchosa]\nEstá esperando um golpe de sorte? Que sentido há em vencer uma luta sem aprender o básico?",
         "es-ES": "[Exorcista]\n¿Esperas un golpe de suerte? ¿Qué sentido tiene ganar una pelea sin dominar los fundamentos?"
     },
     "zn5bDQ": {
@@ -236,12 +236,12 @@
     },
     "z35bDQ": {
         "en-US": "[Exorcist]\nWhat do you think? Do you not feel that you need more training?",
-        "pt-BR": "[Exorcista]\nO que acha? Você mesmo não sente que precisa de mais treinamento?",
+        "pt-BR": "[Jonchosa]\nO que acha? Você mesmo não sente que precisa de mais treinamento?",
         "es-ES": "[Exorcista]\n¿Qué te parece a ti? ¿No crees que necesitas más entrenamiento?"
     },
     "0H5bDQ": {
         "en-US": "[Exorcist]\nIt may be tedious, but it is necessary training. Work hard.",
-        "pt-BR": "[Exorcista]\nPode ser entediante, mas é um treinamento indispensável. Esforce-se.",
+        "pt-BR": "[Jonchosa]\nPode ser entediante, mas é um treinamento indispensável. Esforce-se.",
         "es-ES": "[Exorcista]\nSerá aburrido, pero es un entrenamiento indispensable. Esfuérzate."
     },
     "0X5bDQ": {
@@ -251,17 +251,17 @@
     },
     "0n5bDQ": {
         "en-US": "[Exorcist]\nIf you continue clashing with them, you will surely come to realize something as well. I will not stop you.",
-        "pt-BR": "[Exorcista]\nSe continuar se chocando contra isso, certamente perceberá algo. Não o impedirei.",
+        "pt-BR": "[Jonchosa]\nSe continuar se chocando contra isso, certamente perceberá algo. Não o impedirei.",
         "es-ES": "[Exorcista]\nSi sigues chocando contra él, seguro que acabarás comprendiendo algo. No te detendré."
     },
     "035bDQ": {
         "en-US": "[Exorcist]\nWait, something is strange. Could you wait a moment?",
-        "pt-BR": "[Exorcista]\nEspere, há algo estranho. Pode aguardar um momento?",
+        "pt-BR": "[Jonchosa]\nEspere, há algo estranho. Pode aguardar um momento?",
         "es-ES": "[Exorcista]\nUn momento, hay algo extraño. ¿Puedes esperar un poco?"
     },
     "1H5bDQ": {
         "en-US": "[Exorcist]\nThat should be enough training, so spar with this Mountain Lord here.",
-        "pt-BR": "[Exorcista]\nVocê já treinou o suficiente, então tente duelar com o Senhor da Montanha.",
+        "pt-BR": "[Jonchosa]\nVocê já treinou o suficiente, então tente duelar com o Senhor da Montanha.",
         "es-ES": "[Exorcista]\nCon eso ya has entrenado lo suficiente, así que prueba a combatir contra este Señor de la montaña."
     },
     "1X5bDQ": {
@@ -271,12 +271,12 @@
     },
     "1n5bDQ": {
         "en-US": "[Exorcist]\nIs sparring with Mountain Lord difficult? Do not worry. You trained diligently, so you should surely be able to win.",
-        "pt-BR": "[Exorcista]\nEstá difícil duelar com e Senhor da Montanha? Não se preocupe. Você treinou com dedicação, então certamente conseguirá vencer.",
+        "pt-BR": "[Jonchosa]\nEstá difícil duelar com e Senhor da Montanha? Não se preocupe. Você treinou com dedicação, então certamente conseguirá vencer.",
         "es-ES": "[Exorcista]\n¿Te resulta duro combatir contra Señor de la montaña? No te preocupes. Has entrenado con constancia, así que seguro que podrás ganar."
     },
     "135bDQ": {
         "en-US": "[Exorcist]\nWill you spar with Mountain Lord again?",
-        "pt-BR": "[Exorcista]\nQuer duelar com o Senhor da Montanha novamente?",
+        "pt-BR": "[Jonchosa]\nQuer duelar com o Senhor da Montanha novamente?",
         "es-ES": "[Exorcista]\n¿Quieres volver a combatir contra Señor de la montaña?"
     },
     "2H5bDQ": {
@@ -286,7 +286,7 @@
     },
     "2X5bDQ": {
         "en-US": "[Exorcist]\nAre you all right? The results of your training are showing, so try just a little more.",
-        "pt-BR": "[Exorcista]\nVocê está bem? Os resultados do treinamento estão aparecendo, então tente só mais um pouco.",
+        "pt-BR": "[Jonchosa]\nVocê está bem? Os resultados do treinamento estão aparecendo, então tente só mais um pouco.",
         "es-ES": "[Exorcista]\n¿Estás bien? Se ven los frutos del entrenamiento, así que solo tienes que intentarlo un poco más."
     },
     "2n5bDQ": {
@@ -296,7 +296,7 @@
     },
     "235bDQ": {
         "en-US": "[Exorcist]\nThat was excellent.",
-        "pt-BR": "[Exorcista]\nIsso foi excelente.",
+        "pt-BR": "[Jonchosa]\nIsso foi excelente.",
         "es-ES": "[Exorcista]\nCon eso basta. Ha sido excelente."
     },
     "3H5bDQ": {
@@ -306,17 +306,17 @@
     },
     "3X5bDQ": {
         "en-US": "[Exorcist]\nStop scheming to increase your tenants.",
-        "pt-BR": "[Exorcista]\nPare com essa artimanha para conseguir mais inquilinos.",
+        "pt-BR": "[Jonchosa]\nPare com essa artimanha para conseguir mais inquilinos.",
         "es-ES": "[Exorcista]\nDeja de intentar aumentar tus inquilinos."
     },
     "3n5bDQ": {
         "en-US": "[Mountain Lord]\nI am enjoying myself for the first time in a while! If not the disciple, then you should face me, Exorcist!",
-        "pt-BR": "[Senhor da Montanha]\nFaz tempo que não me divirto assim! Se não for o discípulo, então que tal você, Exorcista, me enfrentar?",
+        "pt-BR": "[Senhor da Montanha]\nFaz tempo que não me divirto assim! Se não for o discípulo, então que tal você, Jonchosa, me enfrentar?",
         "es-ES": "[Señor de la montaña]\n¡Es que hacía mucho que no me divertía tanto! Si no es el discípulo, ¡enfréntate tú a mí, Exorcista!"
     },
     "335bDQ": {
         "en-US": "[Exorcist]\nYou, come back with me now.",
-        "pt-BR": "[Exorcista]\nAgora volte comigo.",
+        "pt-BR": "[Jonchosa]\nAgora volte comigo.",
         "es-ES": "[Exorcista]\nTú, vuelve conmigo ahora."
     },
     "4H5bDQ": {
@@ -326,7 +326,7 @@
     },
     "4X5bDQ": {
         "en-US": "[Exorcist]\nWhy are you here? I came just in case. Come now, let us go.",
-        "pt-BR": "[Exorcista]\nPor que você está aqui? Vim conferir, só para ficar de olho. Vamos logo.",
+        "pt-BR": "[Jonchosa]\nPor que você está aqui? Vim conferir, só para ficar de olho. Vamos logo.",
         "es-ES": "[Exorcista]\n¿Por qué estás aquí? Vine por si acaso y te encuentro así. Vamos, date prisa."
     },
     "4n5bDQ": {
@@ -371,12 +371,12 @@
     },
     "6n5bDQ": {
         "en-US": "[Exorcist]\nNo matter how long you wait there, there are no more branches.",
-        "pt-BR": "[Exorcista]\nMesmo que espere aí para sempre, não haverá mais galhos.",
+        "pt-BR": "[Jonchosa]\nMesmo que espere aí para sempre, não haverá mais galhos.",
         "es-ES": "[Exorcista]\nAunque esperes ahí cien días, ya no habrá más ramas."
     },
     "635bDQ": {
         "en-US": "[Exorcist]\nWhy are you in such a hurry? Should you not listen to the explanation first? Come here.",
-        "pt-BR": "[Exorcista]\nPor que a pressa? Primeiro você deve ouvir a explicação. Venha cá.",
+        "pt-BR": "[Jonchosa]\nPor que a pressa? Primeiro você deve ouvir a explicação. Venha cá.",
         "es-ES": "[Exorcista]\n¿Por qué tanta prisa? Primero debes escuchar la explicación. Ven aquí."
     },
     "7H5bDQ": {
@@ -396,7 +396,7 @@
     },
     "735bDQ": {
         "en-US": "[Exorcist]\nNot bad for your first time. It does not seem the wind will blow that way anymore, so move to another spot.",
-        "pt-BR": "[Exorcista]\nPara a primeira vez, foi bom. Parece que o vento não soprará mais para esse lado, então mude de lugar.",
+        "pt-BR": "[Jonchosa]\nPara a primeira vez, foi bom. Parece que o vento não soprará mais para esse lado, então mude de lugar.",
         "es-ES": "[Exorcista]\nNo está mal para ser la primera vez. Ya no parece que vaya a soplar más viento por ahí, así que cambia de sitio."
     },
     "8H5bDQ": {
@@ -451,7 +451,7 @@
     },
     "+n5bDQ": {
         "en-US": "[Exorcist]\nNo matter how long you wait there, you cannot obtain any branches.",
-        "pt-BR": "[Exorcista]\nMesmo que espere aí para sempre, não obterá mais galhos.",
+        "pt-BR": "[Jonchosa]\nMesmo que espere aí para sempre, não obterá mais galhos.",
         "es-ES": "[Exorcista]\nAunque esperes ahí cien días, no conseguirás ramas."
     },
     "+35bDQ": {
@@ -471,7 +471,7 @@
     },
     "/n5bDQ": {
         "en-US": "[Exorcist]\nNow check another tree. The wind will no longer blow there.",
-        "pt-BR": "[Exorcista]\nAgora observe outra árvore. O vento não soprará mais nesse lugar.",
+        "pt-BR": "[Jonchosa]\nAgora observe outra árvore. O vento não soprará mais nesse lugar.",
         "es-ES": "[Exorcista]\nAhora mira otro árbol. Allí ya no soplará más viento."
     },
     "/35bDQ": {
@@ -551,7 +551,7 @@
     },
     "Dn9bDQ": {
         "en-US": "[Exorcist]\nThat is enough branches, so come here.",
-        "pt-BR": "[Exorcista]\nEssa quantidade de galhos é suficiente. Venha cá.",
+        "pt-BR": "[Jonchosa]\nEssa quantidade de galhos é suficiente. Venha cá.",
         "es-ES": "[Exorcista]\nCon esas ramas basta, así que ven aquí."
     },
     "D39bDQ": {

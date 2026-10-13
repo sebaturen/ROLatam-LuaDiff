@@ -1,0 +1,927 @@
+{
+    "ANXHDQ": {
+        "en-US": "Missionary Rosetta",
+        "pt-BR": "Missionária Roseta",
+        "es-ES": "Misionera Rosetta"
+    },
+    "AdXHDQ": {
+        "en-US": "Brother",
+        "pt-BR": "irmão",
+        "es-ES": "Hermano"
+    },
+    "AtXHDQ": {
+        "en-US": "Sister",
+        "pt-BR": "irmã",
+        "es-ES": "Hermana"
+    },
+    "A9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nHello, {0}. What brings you here?\nI am Missionary Rosetta, and I am in charge of guiding high-ranking clergy through missionary work.",
+        "pt-BR": "[Missionária Roseta]\nOlá, {0}. O que traz você até aqui?\nSou a missionária Roseta, responsável por orientar membros do alto clero sobre o trabalho missionário.",
+        "es-ES": "[Misionera Rosetta]\nHola, {0}. ¿Qué te trae por aquí?\nSoy la Misionera Rosetta y me encargo de gestionar los servicios misioneros para el clérigos de alto rango."
+    },
+    "BNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nThis missionary service is intended for Cardinals and Inquisitors who have devoted themselves to God.\nUnfortunately, those who do not meet the requirements cannot participate.",
+        "pt-BR": "[Missionária Roseta]\nEsta missão é destinada a quem serve a Deus como Cardeal ou Inquisidor.\nInfelizmente, quem não cumprir os requisitos não poderá participar.",
+        "es-ES": "[Misionera Rosetta]\nEste servicio misionero está destinado a cardenales o inquisidores que se han consagrado a lo Divino.\nLamentablemente, quienes no cumplen los requisitos no pueden participar."
+    },
+    "BdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nHello, {0}. Have you come to participate in missionary work?",
+        "pt-BR": "[Missionária Roseta]\nOlá, {0}. Você veio participar do trabalho missionário?",
+        "es-ES": "[Misionera Rosetta]\nHola, {0}. ¿Has venido a participar en el servicio misionero?"
+    },
+    "BtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nTo participate in this mission and expand the limits of Warp Portal, you must first train Warp Portal up to 4 levels.",
+        "pt-BR": "[Missionária Roseta]\nPara participar desta missão e ampliar os limites do Portal de Teletransporte, primeiro você precisa treinar o Portal de Teletransporte até alcançar 4 níveis.",
+        "es-ES": "[Misionera Rosetta]\nPara participar en este servicio y ampliar los límites del Portal de Teletransporte, primero debes entrenar tu habilidad de Portal de Teletransporte hasta el nivel 4."
+    },
+    "B9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nTrain Warp Portal further and come see me again, and I will tell you about this missionary service.",
+        "pt-BR": "[Missionária Roseta]\nTreine mais o Portal de Teletransporte e volte a falar comigo. Então, explicarei sobre esta atividade missionária.",
+        "es-ES": "[Misionera Rosetta]\nEntrene más el Portal de Teletransporte y vuelva a verme. Entonces te daré información sobre este servicio misionero."
+    },
+    "CNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nTo participate in this mission and expand the limits of Warp Portal, you must first have all three Warp Portal memory slots in use.",
+        "pt-BR": "[Missionária Roseta]\nPara participar desta missão e ampliar os limites do Portal de Teletransporte, primeiro você precisa estar usando todos os três espaços de memória do Portal de Teletransporte.",
+        "es-ES": "[Misionera Rosetta]\nPara participar en este servicio y ampliar los límites del Portal de Teletransporte, primero debes estar utilizando las tres ranuras de memoria del Portal de Teletransporte."
+    },
+    "CdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nMemorize various locations and come see me again, and I will tell you about this missionary service.",
+        "pt-BR": "[Missionária Roseta]\nMemorize diversos lugares e volte a falar comigo. Então, explicarei sobre esta atividade missionária.",
+        "es-ES": "[Misionera Rosetta]\nMemorice diversos lugares y vuelva a verme. Entonces te daré información sobre este servicio misionero."
+    },
+    "CtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nHello, {0}. You have become an exceptional member of the clergy! You must have devoted a great deal of training and effort to achieving such a brilliant accomplishment.",
+        "pt-BR": "[Missionária Roseta]\nOlá, {0}. Você se tornou alguém de grande destaque no clero! Deve ter dedicado muito treinamento e esforço para alcançar uma conquista tão brilhante.",
+        "es-ES": "[Misionera Rosetta]\nHola, {0}. ¡Te has convertido en un clérigo extraordinario! Debes haber dedicado mucho entrenamiento y esfuerzo para lograr una hazaña tan notable."
+    },
+    "C9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nMy name is Missionary Rosetta, and I am in charge of missionary work at Prontera Cathedral.",
+        "pt-BR": "[Missionária Roseta]\nEu me chamo missionária Roseta e sou responsável pelo trabalho missionário da Catedral de Prontera.",
+        "es-ES": "[Misionera Rosetta]\nSoy la Misionera Rosetta, encargada del servicio misionero de la Catedral de Prontera."
+    },
+    "DNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nHave you come to participate in missionary work?\nYou always readily lend your help to the cathedral, {0}. Please accept my deepest gratitude and respect.",
+        "pt-BR": "[Missionária Roseta]\nVocê veio participar do trabalho missionário?\nExpresso minha profunda gratidão e respeito a você, {0}, por sempre se prontificar a ajudar nos trabalhos da catedral.",
+        "es-ES": "[Misionera Rosetta]\n¿Ha venido para participar en la servicio misionero?\nTe expreso mi más profundo agradecimiento y respeto, {0}, por estar siempre dispuesto a ayudar en la labor de la Catedral."
+    },
+    "DdXHDQ": {
+        "en-US": "I will participate.",
+        "pt-BR": "Vou participar.",
+        "es-ES": "Participaré."
+    },
+    "DtXHDQ": {
+        "en-US": "I will not participate.",
+        "pt-BR": "Não vou participar.",
+        "es-ES": "No participaré."
+    },
+    "D9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nThank you, as always. I would like you to travel across the continent, helping the believers there and guiding the nonbelievers to the faith.",
+        "pt-BR": "[Missionária Roseta]\nAgradeço, como sempre. Gostaria de pedir que viaje por todo o continente, ajude os fiéis de cada lugar e conduza os descrentes à fé.",
+        "es-ES": "[Misionera Rosetta]\nComo siempre, muchas gracias. Me gustaría pedirte que viajes por todo el continente para asistir a los creyentes y guiar a los no creyentes hacia la fe."
+    },
+    "ENXHDQ": {
+        "en-US": "[Missionary Rosetta]\nGiven the nature of missionary work, which requires visiting many different places, I imagine it will be quite demanding.",
+        "pt-BR": "[Missionária Roseta]\nImagino que o trabalho missionário seja bastante trabalhoso, já que exige visitar diversos lugares.",
+        "es-ES": "[Misionera Rosetta]\nImagino que esta servicio misionera será bastante complicada, dado que requiere visitar muchos lugares diferentes."
+    },
+    "EdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nTherefore, for those participating in this mission, the cathedral will permit the limits of Warp Portal to be expanded so that you can carry out missionary work in a wider variety of places.",
+        "pt-BR": "[Missionária Roseta]\nPor isso, a catedral pretende permitir, apenas a quem participar desta missão, ampliar os limites do Portal de Teletransporte, para ajudar no trabalho missionário em uma variedade ainda maior de lugares.",
+        "es-ES": "[Misionera Rosetta]\nPara apoyar a quienes participan en esta misión, la Catedral ha decidido autorizar una ampliación de los límites del portal de teletransporte, lo que te permitirá llegar a un mayor número de lugares."
+    },
+    "EtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nOf course, it cannot be expanded without limit, but you will be able to memorize more locations than before. This will aid you in your missionary work, {0}.",
+        "pt-BR": "[Missionária Roseta]\nÉ claro que não será possível ampliar esse limite indefinidamente, mas você poderá memorizar mais lugares do que agora. Isso ajudará nas atividades missionárias de {0}.",
+        "es-ES": "[Misionera Rosetta]\nPor supuesto, no podrá ampliarse de forma ilimitada, pero podrás guardar más lugares que antes. Esto será de gran ayuda para tus actividades misioneras, {0}."
+    },
+    "E9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nThen speak to me again when you are ready.\nI will explain this missionary service to you.",
+        "pt-BR": "[Missionária Roseta]\nEntão, quando estiver com o coração preparado, fale comigo novamente.\nExplicarei sobre esta missão.",
+        "es-ES": "[Misionera Rosetta]\nEntonces, cuando esté listo, por favor, vuelva a hablar conmigo.\nTe explicaré los detalles de este servicio misionero."
+    },
+    "FNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI see I misunderstood. Then again, a high-ranking member of the clergy like you, {0}, must be extremely busy with other matters as well.",
+        "pt-BR": "[Missionária Roseta]\nParece que me enganei. Afinal, alguém do alto clero como {0} deve estar extremamente ocupado com outras tarefas.",
+        "es-ES": "[Misionera Rosetta]\nVeo que me equivoqué. Después de todo, alguien de su rango como usted, {0}, seguramente estará muy ocupado con otros asuntos."
+    },
+    "FdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI would be delighted if you participated next time.",
+        "pt-BR": "[Missionária Roseta]\nFicarei feliz se puder participar em outra oportunidade.",
+        "es-ES": "[Misionera Rosetta]\nMe encantaría que participara en la próxima oportunidad."
+    },
+    "FtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nThis missionary service will take place in a total of two locations. Neither location is close to Prontera.",
+        "pt-BR": "[Missionária Roseta]\nEsta missão será realizada em um total de dois lugares. Nenhum dos dois fica perto de Prontera.",
+        "es-ES": "[Misionera Rosetta]\nEsta misión se llevará a cabo en dos lugares en total. Ninguno de los dos está cerca de Prontera."
+    },
+    "F9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nOne is Umbala, which borders Niflheim, known as the land of the dead, and the other is Einbroch, beyond the border.",
+        "pt-BR": "[Missionária Roseta]\nUm deles é Umbala, que faz fronteira com Niflheim, conhecida como a terra dos mortos, e o outro é Einbroch, além da fronteira.",
+        "es-ES": "[Misionera Rosetta]\nUna es Umbala, que limita con Niflheim, conocida como la tierra de los muertos, y la otra es Einbroch, más allá de la frontera."
+    },
+    "GNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will allow you to memorize one additional warp location so that you can travel to each location more easily.",
+        "pt-BR": "[Missionária Roseta]\nPara facilitar sua visita a cada lugar, permitirei que você memorize mais um destino de teletransporte.",
+        "es-ES": "[Misionera Rosetta]\nPara que te sea más fácil visitar cada lugar, te permitiré memorizar un punto de teletransporte más."
+    },
+    "GdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nYou may visit either location first. Once there, simply assist the sisters and brothers already engaged in missionary work.",
+        "pt-BR": "[Missionária Roseta]\nVocê pode ir primeiro a qualquer um dos dois lugares. Lá, basta ajudar as irmãs e os irmãos que já estão realizando atividades missionárias.",
+        "es-ES": "[Misionera Rosetta]\nPuedes ir primero a cualquiera de los dos lugares. Una vez allí, ayude a las hermanas y los hermanos que ya están realizando actividades misioneras."
+    },
+    "GtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nWhich location would you like to visit first?",
+        "pt-BR": "[Missionária Roseta]\nQual lugar você gostaria de visitar primeiro?",
+        "es-ES": "[Misionera Rosetta]\n¿Qué lugar te gustaría visitar primero?"
+    },
+    "G9XHDQ": {
+        "en-US": "Umbala",
+        "pt-BR": "Umbala",
+        "es-ES": "Umbala"
+    },
+    "HNXHDQ": {
+        "en-US": "Einbroch",
+        "pt-BR": "Einbroch",
+        "es-ES": "Einbroch"
+    },
+    "HdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nIn Umbala, Sister Tite is working diligently in missionary service.\nHowever, I heard that a rather serious problem occurred recently.",
+        "pt-BR": "[Missionária Roseta]\nEm Umbala, a irmã Tite está se dedicando ao trabalho missionário.\nNo entanto, parece que surgiu um problema bastante grave recentemente.",
+        "es-ES": "[Misionera Rosetta]\nEn Umbala, la hermana Tite se dedica con empeño a la labor misionera.\nSin embargo, parece que recientemente ocurrió un incidente bastante grave."
+    },
+    "HtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI heard that the other brothers and sisters engaged in missionary work, along with the residents of Umbala, suddenly went missing.",
+        "pt-BR": "[Missionária Roseta]\nDisseram que outros irmãos e irmãs que se dedicavam ao trabalho missionário, assim como os habitantes de Umbala, desapareceram repentinamente.",
+        "es-ES": "[Misionera Rosetta]\nDicen que otros hermanos y hermanas que se dedicaban a la labor misionera, junto con los habitantes de Umbala, desaparecieron de repente"
+    },
+    "H9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will make arrangements so you can hear the details in person.\nFirst, I will add one more Warp Portal memory location so you can travel conveniently to Umbala......",
+        "pt-BR": "[Missionária Roseta]\nProvidenciarei tudo para que você possa ouvir os detalhes pessoalmente.\nPrimeiro, aumentarei em um o número de destinos de teletransporte que você pode memorizar para facilitar sua viagem a Umbala......",
+        "es-ES": "[Misionera Rosetta]\nPrepararé todo para que puedas ir personalmente a escuchar los detalles.\nPrimero, agregaré una ubicación de memoria más para el portal de teletransporte, para que puedas viajar cómodamente a Umbala..."
+    },
+    "INXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will warp you to Umbala. Once you arrive in Umbala, use the ^FF0000/memo^000000 command to memorize Umbala.\nThen Umbala will be memorized in the fourth memory slot.",
+        "pt-BR": "[Missionária Roseta]\nEnviarei você para Umbala. Ao chegar a Umbala, memorize Umbala usando o comando ^FF0000/memo^000000.\nAssim, Umbala será memorizada no quarto espaço de memória.",
+        "es-ES": "[Misionera Rosetta]\nTe llevaré a Umbala. Una vez que llegues, memoriza Umbala con el comando ^FF0000/memo^000000.\nAsí, Umbala quedará guardada en la cuarta ranura de memoria."
+    },
+    "IdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nThen go to Umbala and hear what Sister <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> has to say.\nI pray that you will spread Odin's name throughout this world and return safely.",
+        "pt-BR": "[Missionária Roseta]\nEntão, vá até Umbala e ouça o que a irmã <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> tem a dizer.\nRezarei para que tudo corra bem e para que você espalhe o nome de Odin por este mundo.",
+        "es-ES": "[Misionera Rosetta]\nEntonces, ve a Umbala y escucha la historia de la hermana <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI>.\nRezaré para que puedas difundir el nombre de Odín por el mundo sin contratiempos."
+    },
+    "ItXHDQ": {
+        "en-US": "[Missionary Rosetta]\nIn Einbroch, Brother Suan is dedicated to educational service.\nHe opened a study room for children left on their own during the day while their parents work in factories.",
+        "pt-BR": "[Missionária Roseta]\nEm Einbroch, o irmão Suan está se dedicando ao trabalho educacional.\nEle abriu uma sala de estudos para as crianças que ficam sozinhas durante o dia enquanto seus pais trabalham nas fábricas.",
+        "es-ES": "[Misionera Rosetta]\nEn Einbroch, el hermano Suan se dedica con empeño al servicio educativo.\nAbrió un centro de estudios para niños que se quedaban sin supervisión mientras sus padres trabajaban en las fábricas durante el día."
+    },
+    "I9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nThey are quite adorable children, but they seem to be rather mischievous.\nPlease go meet them and see whether there is anything you can do to help.",
+        "pt-BR": "[Missionária Roseta]\nParece que são crianças muito adoráveis, mas também bastante travessas.\nVá conhecê-las e descubra se há algo em que possa ajudar.",
+        "es-ES": "[Misionera Rosetta]\nSon niños bastante adorables, pero parece que son unos traviesos.\nVe a conocerlos y averigua si hay algo en lo que puedas ayudarles."
+    },
+    "JNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will make arrangements so you can hear the details in person.\nFirst, I will add one more Warp Portal memory location so you can travel conveniently to Einbroch......",
+        "pt-BR": "[Missionária Roseta]\nProvidenciarei tudo para que você possa ouvir os detalhes pessoalmente.\nPrimeiro, aumentarei em um o número de destinos de teletransporte que você pode memorizar para facilitar sua viagem a Einbroch......",
+        "es-ES": "[Misionera Rosetta]\nPrepararé todo para que puedas ir personalmente a escuchar los detalles.\nPrimero, agregaré una ubicación de memoria más para el portal de teletransporte, para que puedas viajar cómodamente a Einbroch..."
+    },
+    "JdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will warp you to Einbroch. Once you arrive in Einbroch, use the ^FF0000/memo^000000 command to memorize Einbroch.\nThen Einbroch will be memorized in the fourth memory slot.",
+        "pt-BR": "[Missionária Roseta]\nEnviarei você para Einbroch. Ao chegar a Einbroch, memorize Einbroch usando o comando ^FF0000/memo^000000.\nAssim, Einbroch será memorizada no quarto espaço de memória.",
+        "es-ES": "[Misionera Rosetta]\nTe llevaré a Einbroch. Una vez que llegues, memoriza Einbroch con el comando ^FF0000/memo^000000.\nAsí, Einbroch quedará guardado en la cuarta ranura de memoria."
+    },
+    "JtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nThen go to Einbroch and hear what Brother <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> has to say.\nI pray that you will spread Odin's name throughout this world and return safely.",
+        "pt-BR": "[Missionária Roseta]\nEntão, vá até Einbroch e ouça o que o irmão <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> tem a dizer.\nRezarei para que tudo corra bem e para que você espalhe o nome de Odin por este mundo.",
+        "es-ES": "[Misionera Rosetta]\nEntonces, ve a Einbroch y escucha la historia del hermano <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI>.\nRezaré para que puedas difundir el nombre de Odín por el mundo sin contratiempos."
+    },
+    "J9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nYou have returned safely after completing your mission. I received word from Sister Tite and Brother Suan.\nI heard that you resolved the problems in both locations admirably.",
+        "pt-BR": "[Missionária Roseta]\nVocê retornou em segurança após concluir a missão. Recebi notícias da irmã Tite e do irmão Suan.\nSoube que você resolveu com excelência os problemas que havia nos dois lugares.",
+        "es-ES": "[Misionera Rosetta]\nHas regresado sana y salva de tu misión. Recibí noticias de la Hermana Tite y del Hermano Suan.\nMe informaron que resolviste con éxito los problemas en ambos lugares."
+    },
+    "KNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nBased on what I have observed, I believe that you, {0}, will continue striving to uphold Odin's name, so I will allow you to memorize two more locations.",
+        "pt-BR": "[Missionária Roseta]\nDepois de observar suas ações, concluí que {0} continuará se esforçando para exaltar o nome de Odin. Por isso, permitirei que você memorize mais dois lugares.",
+        "es-ES": "[Misionera Rosetta]\nTras observar tus acciones, he llegado a la conclusión de que, {0}, seguirás dedicándote a honrar el nombre de Odín, por lo tanto, te concederé acceso a dos lugares adicionales."
+    },
+    "KdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI hope you will continue to think and act as a faithful follower of Odin.\nThen I will call upon you again if the need arises.",
+        "pt-BR": "[Missionária Roseta]\nEspero que continue pensando e agindo como uma pessoa de fé, leal a Odin.\nEntão, voltarei a procurá-lo quando surgir alguma necessidade.",
+        "es-ES": "[Misionera Rosetta]\nEspero que continúe pensando y actuando como una fiel creyente de Odin.\nEntonces, volveré a solicitar su ayuda cuando surja alguna necesidad."
+    },
+    "KtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nWait, did you not go to see Sister Tite? Have you returned after completing the task?",
+        "pt-BR": "[Missionária Roseta]\nOra, você não tinha ido encontrar a irmã Tite? Já concluiu o trabalho e voltou?",
+        "es-ES": "[Misionera Rosetta]\n¿No había ido a visitar a la hermana Tite? ¿Ya regresó tras terminar tu trabajo?"
+    },
+    "K9XHDQ": {
+        "en-US": "[Missionary Rosetta]\n<NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> seemed to be in quite a difficult situation. Please hurry and help her.",
+        "pt-BR": "[Missionária Roseta]\nA irmã <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> parecia estar enfrentando muitas dificuldades. Seria ótimo se você fosse ajudá-la o quanto antes.",
+        "es-ES": "[Misionera Rosetta]\nLa hermana <NAVI>[Tite]<INFO>umbala,127,140,0,101,0</INFO></NAVI> parecía que lo estaba pasando bastante mal. Te agradecería que fueras a ayudarla."
+    },
+    "LNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nWait, did you not go to see Brother Suan? Have you returned after completing the task?",
+        "pt-BR": "[Missionária Roseta]\nOra, você não tinha ido encontrar o irmão Suan? Já concluiu o trabalho e voltou?",
+        "es-ES": "[Misionera Rosetta]\n¿No habías ido a ver al hermano Suan?¿Ya terminaste el trabajo y regresaste?"
+    },
+    "LdXHDQ": {
+        "en-US": "[Missionary Rosetta]\n<NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> seemed to be extremely busy. Please help him with his work.",
+        "pt-BR": "[Missionária Roseta]\nO irmão <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> parecia estar extremamente ocupado. Seria ótimo se você pudesse ajudá-lo com o trabalho.",
+        "es-ES": "[Misionera Rosetta]\nEl hermano <NAVI>[Suan]<INFO>einbroch,178,148,0,101,0</INFO></NAVI> parecía que estaba muy ocupado. Te agradecería que le echases una mano."
+    },
+    "LtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will make arrangements so you can hear the details in person.\nFirst, to help you travel conveniently to Einbroch, I will save the coordinates of Einbroch to the fourth Warp Portal memory location, which is the first slot.",
+        "pt-BR": "[Missionária Roseta]\nProvidenciarei tudo para que você possa ouvir os detalhes pessoalmente.\nPrimeiro, para facilitar sua viagem a Einbroch, salvarei as coordenadas de Einbroch no quarto destino de teletransporte memorizado, ou seja, no primeiro espaço.",
+        "es-ES": "[Misionera Rosetta]\nPrepararé todo para que puedas ir personalmente a escuchar los detalles.\nPrimero, para que puedas viajar cómodamente a Einbroch, guardaré las coordenadas en el cuarto destino de teletransporte memorizado, es decir, en la primera ranura."
+    },
+    "L9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nIf there is no fourth memorized location, the third memorized location will be erased and the coordinates of Einbroch will be saved.",
+        "pt-BR": "[Missionária Roseta]\nCaso não haja um quarto destino memorizado, o terceiro destino memorizado será apagado e as coordenadas de Einbroch serão salvas.",
+        "es-ES": "[Misionera Rosetta]\nSi no hay una cuarta ubicación guardada, la tercera se sobrescribirá con las coordenadas de Einbroch."
+    },
+    "MNXHDQ": {
+        "en-US": "Save it.",
+        "pt-BR": "Salvar.",
+        "es-ES": "Guardar."
+    },
+    "MdXHDQ": {
+        "en-US": "Ask her to wait a moment.",
+        "pt-BR": "Pedir que espere um pouco.",
+        "es-ES": "Pedirle que espere un momento."
+    },
+    "MtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nThe coordinates have been saved. You can now open a Warp Portal and travel to Einbroch.",
+        "pt-BR": "[Missionária Roseta]\nAs coordenadas foram salvas. Agora você pode abrir um Portal de Teletransporte e ir para Einbroch.",
+        "es-ES": "[Misionera Rosetta]\nYa lo guardé. Ahora puedes abrir un Portal de Teletransporte para viajar a Einbroch."
+    },
+    "M9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nOh, it seems you did not use ^FF0000/memo^000000 to memorize Umbala. I cannot save coordinates to an empty memory location.",
+        "pt-BR": "[Missionária Roseta]\nOra, parece que você não memorizou Umbala usando ^FF0000/memo^000000, não é? Não posso salvar coordenadas em um espaço de memória vazio.",
+        "es-ES": "[Misionera Rosetta]\nOh, parece que no has guardado Umbala con ^FF0000/memo^000000, ¿verdad? No puedo guardar coordenadas en un espacio de memoria vacío."
+    },
+    "NNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nAn error has occurred.",
+        "pt-BR": "[Missionária Roseta]\nOcorreu um erro.",
+        "es-ES": "[Misionera Rosetta]\nSe ha producido un error."
+    },
+    "NdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nPlease fill all Warp Portal memory slots.",
+        "pt-BR": "[Missionária Roseta]\nPreencha todos os espaços de memória do Portal de Teletransporte.",
+        "es-ES": "[Misionera Rosetta]\nLlene todas las ranuras de memoria de Portal de Teletransporte."
+    },
+    "NtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI will make arrangements so you can hear the details in person.\nFirst, to help you travel conveniently to Umbala, I will save the coordinates of Umbala to the fourth Warp Portal memory location, which is the first slot.",
+        "pt-BR": "[Missionária Roseta]\nProvidenciarei tudo para que você possa ouvir os detalhes pessoalmente.\nPrimeiro, para facilitar sua viagem a Umbala, salvarei as coordenadas de Umbala no quarto destino de teletransporte memorizado, ou seja, no primeiro espaço.",
+        "es-ES": "[Misionera Rosetta]\nPrepararé todo para que puedas ir personalmente a escuchar los detalles.\nPrimero, para que puedas viajar cómodamente a Umbala, guardaré las coordenadas en el cuarto destino de teletransporte memorizado, es decir, en la primera ranura."
+    },
+    "N9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nThe coordinates have been saved. You can now open a Warp Portal and travel to Umbala.",
+        "pt-BR": "[Missionária Roseta]\nAs coordenadas foram salvas. Agora você pode abrir um Portal de Teletransporte e ir para Umbala.",
+        "es-ES": "[Misionera Rosetta]\nYa lo guardé. Ahora puedes abrir un Portal de Teletransporte para viajar a Umbala."
+    },
+    "ONXHDQ": {
+        "en-US": "[Missionary Rosetta]\nOh, it seems you did not use ^FF0000/memo^000000 to memorize Einbroch. I cannot save coordinates to an empty memory location.",
+        "pt-BR": "[Missionária Roseta]\nOra, parece que você não memorizou Einbroch usando ^FF0000/memo^000000, não é? Não posso salvar coordenadas em um espaço de memória vazio.",
+        "es-ES": "[Misionera Rosetta]\nOh, parece que no has guardado Einbroch con ^FF0000/memo^000000, ¿verdad? No puedo guardar coordenadas en un espacio de memoria vacío."
+    },
+    "OdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nError 5 has occurred. If it occurs repeatedly, please contact the support team.",
+        "pt-BR": "[Missionária Roseta]\nOcorreu o erro 5. Caso ele volte a ocorrer, entre em contato com a equipe de atendimento.",
+        "es-ES": "[Misionera Rosetta]\nSe ha producido el error 5. Si se repite, ponte en contacto con el equipo de soporte."
+    },
+    "OtXHDQ": {
+        "en-US": "[Missionary Rosetta]\nWhat brings you here? Ah, the additional Warp Portal memory locations I granted you disappeared after you retrained Warp Portal.",
+        "pt-BR": "[Missionária Roseta]\nO que aconteceu? Ah, depois de treinar novamente o Portal de Teletransporte, os espaços de memória adicionais que concedi desapareceram.",
+        "es-ES": "[Misionera Rosetta]\n¿Qué sucede? Ah, ¿volvió a entrenar Portal de teletransporte y ya no recuerda que amplié sus lugares de memoria de teletransporte?"
+    },
+    "O9XHDQ": {
+        "en-US": "[Missionary Rosetta]\nYou came to the right person, as those memory locations were expanded with special permission from the cathedral.\nI will verify this and expand them again.",
+        "pt-BR": "[Missionária Roseta]\nComo esses espaços de memória foram ampliados com uma autorização especial da catedral, você fez bem em me procurar.\nVou verificar e ampliá-los novamente.",
+        "es-ES": "[Misionera Rosetta]\nDado que esos espacios de memoria se ampliaron con autorización especial de la Catedral, hiciste bien en buscarme.\nLo verificaré y los ampliaré de nuevo."
+    },
+    "PNXHDQ": {
+        "en-US": "[Missionary Rosetta]\nI have restored the additional memory locations I granted you.\nPlease continue traveling the world and spreading the word of Odin.",
+        "pt-BR": "[Missionária Roseta]\nRestaurei os espaços de memória que havia ampliado.\nContinue viajando pelo mundo e difundindo a palavra de Odin.",
+        "es-ES": "[Misionera Rosetta]\nHe restaurado el espacio de memoria ampliadas.\nEspero que continúe yendo por el mundo para difundir la palabra de Odín."
+    },
+    "PdXHDQ": {
+        "en-US": "[Missionary Rosetta]\nError 6 has occurred. If it occurs repeatedly, please contact the support team.",
+        "pt-BR": "[Missionária Roseta]\nOcorreu o erro 6. Caso ele volte a ocorrer, entre em contato com a equipe de atendimento.",
+        "es-ES": "[Misionera Rosetta]\nSe ha producido el error 6. Si se repite, ponte en contacto con el equipo de soporte."
+    },
+    "PtXHDQ": {
+        "en-US": "Tite",
+        "pt-BR": "Tite",
+        "es-ES": "Tite"
+    },
+    "P9XHDQ": {
+        "en-US": "[Tite]\nI am a faithful follower working to spread the voice of Odin here in Umbala.",
+        "pt-BR": "[Tite]\nSou uma devota fiel que se esforça para transmitir a voz de Odin aqui em Umbala.",
+        "es-ES": "[Tite]\nSoy una fiel devota que se esfuerza por transmitir la voz de Odín aquí en Umbala."
+    },
+    "QNXHDQ": {
+        "en-US": "[Tite]\nI am a faithful follower working to spread the voice of Odin here in Umbala.\nAlthough right now, I am at a loss because a troubling situation has arisen.",
+        "pt-BR": "[Tite]\nSou uma devota fiel que se esforça para transmitir a voz de Odin aqui em Umbala.\nMas agora surgiu um problema, e eu não sabia o que fazer.",
+        "es-ES": "[Tite]\nSoy una fiel devota que se esfuerza por transmitir la voz de Odín aquí en Umbala.\nAunque ahora me encuentro en un aprieto y no sé qué hacer."
+    },
+    "QdXHDQ": {
+        "en-US": "[Tite]\nOh! You are a member of the clergy from Prontera who came to help with the missionary work!\nBut right now, there is something that must be resolved before the missionary work.",
+        "pt-BR": "[Tite]\nAh! Você é do clero e veio de Prontera para ajudar no trabalho missionário!\nMas agora há algo que precisa ser resolvido antes mesmo da missão.",
+        "es-ES": "[Tite]\n¡Ay! ¡Eres del clero y viniste desde Prontera para ayudar en la labor misionera!\nPero ahora hay un asunto que debemos resolver antes que la misión."
+    },
+    "QtXHDQ": {
+        "en-US": "[Tite]\nPeople are going missing. And only the missionaries who came with me.\nWhen I asked the people of Umbala, they said the missionaries may have been lured away by a banquet in Niflheim.",
+        "pt-BR": "[Tite]\nAlgumas pessoas estão desaparecendo. E são apenas os missionários que vieram comigo.\nQuando perguntei aos habitantes de Umbala, disseram que eles talvez tenham sido atraídos para o banquete de Niflheim.",
+        "es-ES": "[Tite]\nHay personas desaparecidas. Y solo son los misioneros que vinieron conmigo.\nCuando pregunté habitantes de Umbala, me dijeron que tal vez hayan sido atraídos al banquete de Niflheim."
+    },
+    "Q9XHDQ": {
+        "en-US": "[Tite]\nThey say that here, near the land of the dead, you can hear the sounds of a banquet held by the beings of Niflheim.\nThe locals are already accustomed to it, but missionaries visiting for the first time may have been entranced and entered the banquet hall.",
+        "pt-BR": "[Tite]\nDizem que, neste lugar próximo à terra dos mortos, é possível ouvir o som do banquete realizado pelos seres de Niflheim.\nOs habitantes daqui já estão acostumados, mas os missionários recém-chegados podem ter sido atraídos e entrado no salão do banquete.",
+        "es-ES": "[Tite]\nDicen que, cerca de la Tierra de los Muertos, se escucha el sonido de los banquetes celebrados por los seres de Niflheim.\nEllos ya están acostumbrados, pero creen que los misioneros recién llegados pudieron haber sido atraídos hasta el salón del banquete."
+    },
+    "RNXHDQ": {
+        "en-US": "[Tite]\nI need to rescue them, but the people of Umbala desperately tried to stop me, saying it was too dangerous.\nUnless someone is an adventurer, an ordinary person normally cannot even enter Niflheim.",
+        "pt-BR": "[Tite]\nPreciso ir salvá-los, mas os habitantes de Umbala tentaram me impedir, dizendo que era perigoso.\nDisseram que, a menos que seja alguém como um aventureiro, uma pessoa comum normalmente nem sequer consegue entrar em Niflheim.",
+        "es-ES": "[Tite]\nDebo ir a rescatarlos, pero los habitantes de Umbala intentaron detenerme diciendo que era peligroso.\nAl parecer, a menos que seas un aventurero, la gente común ni siquiera puede entrar en Niflheim."
+    },
+    "RdXHDQ": {
+        "en-US": "Say that I am an adventurer.",
+        "pt-BR": "Dizer que sou um aventureiro.",
+        "es-ES": "Decir que soy aventurero."
+    },
+    "RtXHDQ": {
+        "en-US": "Say that I will help as a member of the clergy.",
+        "pt-BR": "Dizer que ajudarei como membro do clero.",
+        "es-ES": "Decir que ayudaré como miembro del clero."
+    },
+    "R9XHDQ": {
+        "en-US": "[Tite]\nOh my! Did you not come to help as a member of the clergy?",
+        "pt-BR": "[Tite]\nOra? Você não veio ajudar na condição de membro do clero?",
+        "es-ES": "[Tite]\n¿Qué? ¿No viniste a ayudar como miembro del clero?"
+    },
+    "SNXHDQ": {
+        "en-US": "[Tite]\nYou are both a member of the clergy and an adventurer? My goodness, Odin has sent exactly the right person at the right time!",
+        "pt-BR": "[Tite]\nVocê pertence ao clero e também é um aventureiro? Céus, Odin enviou a pessoa certa na hora certa!",
+        "es-ES": "[Tite]\n¿Pertences al clero y además eres aventurero? ¡Por Dios, Odín ha enviado a la persona indicada en el momento justo!"
+    },
+    "SdXHDQ": {
+        "en-US": "[Tite]\nBut the people of Umbala said it would be difficult for anyone who was not an adventurer.",
+        "pt-BR": "[Tite]\nMas os habitantes de Umbala disseram que seria difícil para quem não fosse aventureiro.",
+        "es-ES": "[Tite]\nPero la gente de Umbala dijo que sería difícil a menos que fueras aventurero."
+    },
+    "StXHDQ": {
+        "en-US": "[Tite]\nYou are both a member of the clergy and an adventurer? Odin must have sent you for this very moment!",
+        "pt-BR": "[Tite]\nVocê pertence ao clero e também é um aventureiro? Então, Odin enviou você justamente para este momento!",
+        "es-ES": "[Tite]\n¿Pertences al clero y además eres aventurero? ¡Odín debe haberlo enviado para este preciso momento!"
+    },
+    "S9XHDQ": {
+        "en-US": "[Tite]\nPlease, you must save my companions. And to prevent this from happening again, it would be good if you could reduce the noise from the banquet.",
+        "pt-BR": "[Tite]\nPor favor, salve meus companheiros. E, para evitar que isso aconteça novamente, seria bom se pudesse reduzir o barulho do banquete.",
+        "es-ES": "[Tite]\nSe lo ruego. Salve a mis compañeros. Además, sería bueno poder reducir el ruido del banquete para evitar que esto vuelva a suceder."
+    },
+    "TNXHDQ": {
+        "en-US": "[Tite]\nThey say that if you cause a commotion and drive the beings out of the banquet hall, it should remain quiet for a while.\nMay I ask you to do that as well?",
+        "pt-BR": "[Tite]\nDizem que, se você causar uma confusão e expulsar os seres do salão do banquete, o lugar ficará em silêncio por algum tempo.\nPosso pedir que faça isso também?",
+        "es-ES": "[Tite]\nDicen que si ahuyentas a las criaturas del salón del banquete armando un alboroto, el salón estará tranquilo por un tiempo.\n¿Podrías hacer eso también?"
+    },
+    "TdXHDQ": {
+        "en-US": "Say to leave it all to me.",
+        "pt-BR": "Dizer que pode deixar tudo comigo.",
+        "es-ES": "Decirle que puede contar conmigo."
+    },
+    "TtXHDQ": {
+        "en-US": "[Tite]\nThank you so much! The banquet is being held at the <NAVI>[Banquet Hall of the Dead]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI> in Niflheim.\nPlease drive away the beings wandering around the Banquet Hall of the Dead, about 100 of them, and rescue the lost believers, 3 in total.",
+        "pt-BR": "[Tite]\nMuito obrigada! O banquete está sendo realizado no <NAVI>[Salão do Banquete dos Mortos]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI> de Niflheim.\nExpulse os seres que vagam pelo Salão do Banquete dos Mortos, cerca de 100 ao todo, e resgate os fiéis perdidos, 3 ao todo.",
+        "es-ES": "[Tite]\n¡Muchas gracias! El banquete se celebra en el <NAVI>[Salón de los Muertos]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI> de Niflheim.\nPor favor, ahuyenta a unos 100 espíritus errantes del Salón de los Muertos y rescata a los tres creyentes perdidos."
+    },
+    "T9XHDQ": {
+        "en-US": "[Tite]\nEveryone returned safely. They also say they can no longer hear the noise from the banquet.\nThanks to you, we can safely continue our missionary work in Umbala.",
+        "pt-BR": "[Tite]\nTodos voltaram em segurança. E dizem que o barulho do banquete já não pode ser ouvido.\nGraças a você, poderemos continuar realizando nossas atividades missionárias em Umbala sem problemas.",
+        "es-ES": "[Tite]\nTodos regresaron sanos y salvos. También dicen que ya no se escucha el ruido del banquete.\nGracias a ti, podremos seguir con nuestras actividades misioneras en Umbala sin problemas."
+    },
+    "UNXHDQ": {
+        "en-US": "[Tite]\nThank you so much.\nWe can handle things here on our own now. Please return to <NAVI>[Prontera Cathedral]<INFO>prontera,226,329,0,101,0</INFO></NAVI> and report back.",
+        "pt-BR": "[Tite]\nMuito obrigada.\nAgora conseguiremos cuidar do trabalho daqui por conta própria. Volte à <NAVI>[Catedral de Prontera]<INFO>prontera,226,329,0,101,0</INFO></NAVI> e faça seu relatório.",
+        "es-ES": "[Tite]\nMuchas gracias.\nAhora podremos encargarnos de todo por nuestra cuenta. Regrese a la <NAVI>[Catedral de Prontera]<INFO>prontera,226,329,0,101,0</INFO></NAVI> y presente su informe."
+    },
+    "UdXHDQ": {
+        "en-US": "[Tite]\nThe banquet is being held at the <NAVI>[Banquet Hall of the Dead]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI> in Niflheim.\nPlease drive away the beings wandering around the Banquet Hall of the Dead, about 100 of them, and rescue the lost believers, 3 in total.",
+        "pt-BR": "[Tite]\nO banquete está sendo realizado no <NAVI>[Salão do Banquete dos Mortos]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI> de Niflheim.\nExpulse os seres que vagam pelo Salão do Banquete dos Mortos, cerca de 100 ao todo, e resgate os fiéis perdidos, 3 ao todo.",
+        "es-ES": "[Tite]\nEl banquete se celebra en el <NAVI>[Salón de los Muertos]<INFO>nif_dun01,145,85,0,101,0</INFO></NAVI> de Niflheim.\nAhuyenta a unos 100 espíritus errantes del Salón de los Muertos y rescata a los tres creyentes perdidos."
+    },
+    "UtXHDQ": {
+        "en-US": "[Tite]\nEveryone returned safely. They also say they can no longer hear the noise from the banquet.\nThanks to you, we can safely continue our missionary work in Umbala. It is all thanks to you.",
+        "pt-BR": "[Tite]\nTodos voltaram em segurança. E dizem que o barulho do banquete já não pode ser ouvido.\nGraças a você, poderemos continuar realizando nossas atividades missionárias em Umbala sem problemas. Devemos tudo a você.",
+        "es-ES": "[Tite]\nTodos regresaron sanos y salvos. Además, dicen que ya no se escucha el ruido del banquete.\nGracias a ti, podremos seguir con nuestras actividades misioneras en Umbala sin problemas. Todo es gracias a usted."
+    },
+    "U9XHDQ": {
+        "en-US": "[Tite]\nError 7 has occurred. If it occurs repeatedly, please contact the support team.",
+        "pt-BR": "[Tite]\nOcorreu o erro 7. Caso ele volte a ocorrer, entre em contato com a equipe de atendimento.",
+        "es-ES": "[Tite]\nSe ha producido el error 7. Si se repite, ponte en contacto con el equipo de soporte."
+    },
+    "VNXHDQ": {
+        "en-US": "Johan",
+        "pt-BR": "Yohan",
+        "es-ES": "Johan"
+    },
+    "VdXHDQ": {
+        "en-US": "[Johan]\nWoohoo! Let us enjoy the festival of the dead!\nDance the waltz, play the Instrument, and listen to the screams of the living!",
+        "pt-BR": "[Yohan]\nIá! Vamos aproveitar o festival dos mortos!\nDançar valsa, tocar Instrumento Musical e ouvir os gritos dos vivos!",
+        "es-ES": "[Johan]\n¡Sí! ¡Disfrutemos del festival de los muertos!\n¡Bailemos un vals, toquemos instrumentos y escuchemos los gritos de los vivos!"
+    },
+    "VtXHDQ": {
+        "en-US": "[Johan]\nWait. The dead... Am I dead?\nNo, I'm not! I'm alive! I shouldn't be here!",
+        "pt-BR": "[Yohan]\nEspere. Morto... eu sou um morto?\nNão sou! Estou vivo! Não posso ficar aqui!",
+        "es-ES": "[Johan]\nUn momento. ¿Los muertos? ¿Acaso soy un muerto?\nNo, ¿verdad? ¡Soy un vivo! ¡No debería estar aquí!"
+    },
+    "V9XHDQ": {
+        "en-US": "Open a Warp Portal for him.",
+        "pt-BR": "Abrir um Portal de Teletransporte.",
+        "es-ES": "Abrir un Portal de Teletransporte."
+    },
+    "WNXHDQ": {
+        "en-US": "Say that we should return to Umbala.",
+        "pt-BR": "Dizer para voltar a Umbala.",
+        "es-ES": "Decirle que regrese a Umbala."
+    },
+    "WdXHDQ": {
+        "en-US": "[Johan]\nEek! Who's there?",
+        "pt-BR": "[Yohan]\nAah! Quem é você?",
+        "es-ES": "[Johan]\n¡Aaah! ¿Quién está ahí?"
+    },
+    "WtXHDQ": {
+        "en-US": "[Johan]\nY-you came looking for me? From Umbala? Thank you! Should I take this Warp Portal?",
+        "pt-BR": "[Yohan]\nV-você veio me procurar? De Umbala? Obrigado! É só entrar neste Portal de Teletransporte?",
+        "es-ES": "[Johan]\n¿V-viniste a buscarme? ¿Desde Umbala? ¡Gracias! ¿Debo entrar en este Portal de teletransporte?"
+    },
+    "W9XHDQ": {
+        "en-US": "[Johan]\nNow that I've come to my senses, this place is terrifying! I-I want to get out of here quickly. Thank you for coming to rescue me.",
+        "pt-BR": "[Yohan]\nAgora que voltei a mim, este lugar é assustador demais! Q-quero sair daqui depressa. Obrigado por vir me salvar.",
+        "es-ES": "[Johan]\n¡Ahora que recuperé el sentido, este lugar me da muchísimo miedo! Quiero salir de aquí cuanto antes. Gracias por venir a rescatarme."
+    },
+    "XNXHDQ": {
+        "en-US": "[{0}]\nIt seems I have found everyone who went missing. Let's return to Umbala.",
+        "pt-BR": "[{0}]\nParece que encontramos todas as pessoas desaparecidas. Vamos voltar para Umbala.",
+        "es-ES": "[{0}]\nParece que encontré a todas las personas desaparecidas. Regresemos a Umbala."
+    },
+    "XdXHDQ": {
+        "en-US": "[Johan]\nWoohoo! Let's enjoy the festival of the dead!",
+        "pt-BR": "[Yohan]\nIá! Vamos aproveitar o festival dos mortos!",
+        "es-ES": "[Johan]\n¡Yuju! ¡Disfrutemos del Festival de los Muertos!"
+    },
+    "XtXHDQ": {
+        "en-US": "[Johan]\nWait, wasn't I one of the dead? Huh?",
+        "pt-BR": "[Yohan]\nUé, eu não era um morto? Ué?",
+        "es-ES": "[Johan]\nEh, ¿acaso yo no soy un muerto? ¿Eh?"
+    },
+    "X9XHDQ": {
+        "en-US": "Maria",
+        "pt-BR": "Maria",
+        "es-ES": "María"
+    },
+    "YNXHDQ": {
+        "en-US": "[Maria]\nI am calm. I suddenly realized that I was in Niflheim, but I did not panic.",
+        "pt-BR": "[Maria]\nSou uma pessoa calma. Percebi de repente que estava em Niflheim, mas não entrei em pânico.",
+        "es-ES": "[María]\nSoy una persona tranquila. De repente me di cuenta de que estaba en Niflheim, pero no entré en pánico."
+    },
+    "YdXHDQ": {
+        "en-US": "[Maria]\nI have been through many other hardships. Still, I would like to get out of here quickly.",
+        "pt-BR": "[Maria]\nJá passei por muitas outras adversidades. Ainda assim, gostaria de sair daqui o quanto antes.",
+        "es-ES": "[María]\nYa he pasado por muchas otras adversidades. Pero sí que quiero salir de aquí lo antes posible."
+    },
+    "YtXHDQ": {
+        "en-US": "Open a Warp Portal.",
+        "pt-BR": "Abrir um Portal de Teletransporte.",
+        "es-ES": "Abrir un Portal de Teletransporte."
+    },
+    "Y9XHDQ": {
+        "en-US": "Take her to Umbala.",
+        "pt-BR": "Levar para Umbala.",
+        "es-ES": "Llevarla a Umbala."
+    },
+    "ZNXHDQ": {
+        "en-US": "[Maria]\nI wanted to return to Umbala as soon as possible. Thank you.\nI will never forget what you have done for me.",
+        "pt-BR": "[Maria]\nEu queria voltar para Umbala o quanto antes. Agradeço.\nNão me esquecerei deste favor.",
+        "es-ES": "[María]\nQuería regresar cuanto antes a Umbala. Gracias.\nNunca olvidaré este favor."
+    },
+    "ZdXHDQ": {
+        "en-US": "Blue",
+        "pt-BR": "Azulia",
+        "es-ES": "Azulia"
+    },
+    "ZtXHDQ": {
+        "en-US": "[Blue]\nHello~ I'm Blue, your goddess of luck~\nLet's all have fun together!",
+        "pt-BR": "[Azulia]\nOlá~ Sou a deusa da sorte de todos vocês. Eu sou a Azulia~\nVamos todos brincar e nos divertir!",
+        "es-ES": "[Azulia]\nHola~ Soy Azulia, ¡tu Diosa de la Suerte!\n¡Vamos a divertirnos mucho juntos!"
+    },
+    "Z9XHDQ": {
+        "en-US": "[Blue]\nDance and feast on the banquet food!\nOnce you eat it, you can never go back~ Ahaha!",
+        "pt-BR": "[Azulia]\nVamos dançar e saborear o banquete da festa!\nDepois de comer, nunca mais poderão voltar~ Ahahá!",
+        "es-ES": "[Azulia]\n¡Bailemos y disfrutemos del banquete!\nSi comen, ya no podrán regresar~ ¡Ja, ja, ja!"
+    },
+    "aNXHDQ": {
+        "en-US": "[Blue]\nOhh, I'm feeling a little drowsy. I feel like I might never wake up if I fall asleep now~ How thrilling!",
+        "pt-BR": "[Azulia]\nUéé, estou um pouco sonolenta. Parece que, se eu dormir assim, nunca mais vou acordar~ Que emoção!",
+        "es-ES": "[Azulia]\nAy, me siento un poco somnolienta. Siento que si me duermo ahora, no despertaré jamás~ ¡Qué emocionante!"
+    },
+    "adXHDQ": {
+        "en-US": "[Blue]\nI was just starting to feel like getting some sleep. But the festival kept going, so I couldn't~",
+        "pt-BR": "[Azulia]\nEu estava mesmo querendo dormir um pouco. Mas não conseguia porque o festival não parava~",
+        "es-ES": "[Azulia]\nJusto tenía ganas de dormir un poco. Pero no podía porque el festival no terminaba~"
+    },
+    "atXHDQ": {
+        "en-US": "[Blue]\nSince you're sending me home, I should go get some sleep. Everyone~ Blue will rest for a little while, then come back~!",
+        "pt-BR": "[Azulia]\nJá que vão me mandar para casa, vou dormir um pouco. Pessoal~ Azulia vai descansar só um pouquinho e depois volta~!",
+        "es-ES": "[Azulia]\nYa que me enviarán a casa, iré a dormir un poco. Todos~ ¡Azulia descansará un poco y luego volverá~!"
+    },
+    "a9XHDQ": {
+        "en-US": "Suan",
+        "pt-BR": "Suan",
+        "es-ES": "Suan"
+    },
+    "bNXHDQ": {
+        "en-US": "[Suan]\nI run a study room here in Einbroch and look after the children.\nThe parents here are busy working in factories during the day.",
+        "pt-BR": "[Suan]\nAbri uma sala de estudos aqui em Einbroch e cuido das crianças.\nOs pais daqui ficam ocupados durante o dia, trabalhando nas fábricas.",
+        "es-ES": "[Suan]\nDirijo un centro de estudios aquí en Einbroch para cuidar de los niños.\nLos padres de este lugar están ocupados durante el día porque trabajan en las fábricas."
+    },
+    "bdXHDQ": {
+        "en-US": "[Suan]\nIt is a natural way to teach them Odin's word and help them become familiar with it...... Ugh, this is no time for an explanation.\nI'm sorry. I have an urgent matter to deal with......, so let's talk later.",
+        "pt-BR": "[Suan]\nAssim, elas podem conhecer naturalmente a palavra de Odin e se familiarizar com ela...... Ah, agora não é hora para esta explicação.\nDesculpe. Tenho uma emergência para resolver...... Falamos depois.",
+        "es-ES": "[Suan]\nAsí puedo enseñarles de forma natural la palabra de Odín y hacer que se familiaricen con ella... Ah, este no es momento para explicaciones.\nDisculpa. Tengo un asunto urgente... hablaremos después."
+    },
+    "btXHDQ": {
+        "en-US": "[Suan]\nWhat? You're a high-ranking member of the clergy sent by Prontera Cathedral to help me? I can't thank you enough!",
+        "pt-BR": "[Suan]\nO quê? Você é do alto clero e foi enviado pela Catedral de Prontera para me ajudar? Não poderia estar mais agradecido!",
+        "es-ES": "[Suan]\n¿Qué? ¿Eres miembro del alto clero y te envió la Catedral de Prontera para ayudarme? ¡No podría estar más agradecido!"
+    },
+    "b9XHDQ": {
+        "en-US": "[Suan]\nP-please help! Something terrible has happened. I think the children entered a dangerous place.",
+        "pt-BR": "[Suan]\nA-ajude, por favor! Aconteceu algo terrível. Parece que as crianças entraram em um lugar perigoso.",
+        "es-ES": "[Suan]\n¡P-por favor, ayuda! Es un desastre. Creo que los niños se han adentrado en una zona peligrosa."
+    },
+    "cNXHDQ": {
+        "en-US": "[Suan]\nIt happened while I looked away for just a moment...... The children who returned said they were playing deep inside the Einbech Mine.",
+        "pt-BR": "[Suan]\nFoi quando desviei o olhar por um instante....... As crianças que voltaram disseram que estavam brincando nas profundezas da mina de Einbech.",
+        "es-ES": "[Suan]\nOcurrió mientras aparté la mirada un momento... Según los niños que regresaron, estaban jugando en lo más profundo de la mina de Einbech."
+    },
+    "cdXHDQ": {
+        "en-US": "[Suan]\nIt seems they went all the way to the deepest part and became trapped. It looks like they went as deep as 3 floors.",
+        "pt-BR": "[Suan]\nParece que entraram até a parte mais profunda e acabaram ficando presas. Acho que chegaram até o 3º andar.",
+        "es-ES": "[Suan]\nParece que se adentraron hasta lo más profundo y quedaron atrapados. Creo que llegaron hasta el tercer piso."
+    },
+    "ctXHDQ": {
+        "en-US": "[Suan]\nIt seems three children are still trapped inside. Please go and find them.\nAnd please hunt the monsters so the children are not attacked.",
+        "pt-BR": "[Suan]\nParece que três crianças ainda não conseguiram sair de lá. Por favor, vá procurá-las.\nE também cace os monstros para impedir que elas sejam atacadas.",
+        "es-ES": "[Suan]\nParece que tres niños siguen atrapados allí dentro. Por favor, ve a buscarlos.\nY por favor, acaba con los monstruos para que no ataquen a los niños."
+    },
+    "c9XHDQ": {
+        "en-US": "Say that I will help.",
+        "pt-BR": "Dizer que vou ajudar.",
+        "es-ES": "Decir que ayudaré."
+    },
+    "dNXHDQ": {
+        "en-US": "Say that this is what I am supposed to do.",
+        "pt-BR": "Dizer que isso já era sua obrigação.",
+        "es-ES": "Decir que esto ya era tu obligación."
+    },
+    "ddXHDQ": {
+        "en-US": "[Suan]\nSob, thank you. I would feel a little better if you hunted the monsters, about 100 of them, in <NAVI>[Einbech Mine Dungeon Floor 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>.\nPlease save our children.",
+        "pt-BR": "[Suan]\nSnif, muito obrigado. Ficarei um pouco mais tranquilo se você caçar os monstros do <NAVI>[Mazmorra de la mina de Einbech, piso 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>, cerca de 100 ao todo.\nPor favor, salve nossas crianças.",
+        "es-ES": "[Suan]\nSnif, muchas gracias. Me tranquilizaría un poco si pudieras cazar unos 100 monstruos en la <NAVI>[Mina de Mazmorra (3)]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>.\nPor favor, salve a nuestros niños."
+    },
+    "dtXHDQ": {
+        "en-US": "[Suan]\nThank you!!!!! You must have been sent by Odin. All the children returned safely.\nYou little rascals, you troublemakers! Still, thank you for coming back!",
+        "pt-BR": "[Suan]\nMuito obrigado!!!!! Parece que você foi enviado por Odin. Todas as crianças voltaram em segurança.\nSeus pestinhas, seus encrenqueiros! Mesmo assim, agradeço por terem voltado!",
+        "es-ES": "[Suan]\n¡¡¡¡¡Muchas gracias!!!!! Debes ser alguien enviado por Odín. Todos los niños regresaron sanos y salvos.\n¡Pequeños traviesos! Aun así, ¡me alegra mucho que hayan vuelto!"
+    },
+    "d9XHDQ": {
+        "en-US": "[Suan]\nThank you so much.\nNow that the children are back, we can run the study room ourselves as usual.",
+        "pt-BR": "[Suan]\nAgradeço de verdade.\nAgora que as crianças voltaram, conseguiremos administrar a sala de estudos por conta própria, como de costume.",
+        "es-ES": "[Suan]\nSe lo agradezco de verdad.\nAhora que los niños regresaron, podremos encargarnos del aula de estudio por nuestra cuenta, como de costumbre."
+    },
+    "eNXHDQ": {
+        "en-US": "[Suan]\nPlease return to <NAVI>[Prontera Cathedral]<INFO>prontera,226,329,0,101,0</INFO></NAVI> and report what happened.",
+        "pt-BR": "[Suan]\nVolte à <NAVI>[Catedral de Prontera]<INFO>prontera,226,329,0,101,0</INFO></NAVI> e relate tudo o que aconteceu.",
+        "es-ES": "[Suan]\nRegrese a la <NAVI>[Catedral de Prontera]<INFO>prontera,226,329,0,101,0</INFO></NAVI> e informe de lo sucedido."
+    },
+    "edXHDQ": {
+        "en-US": "[Suan]\nSob, I would feel a little better if you hunted the monsters, about 100 of them, in <NAVI>[Einbech Mine Dungeon Floor 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>.\nPlease save our children who cannot get out of the laboratory.",
+        "pt-BR": "[Suan]\nSnif, ficarei um pouco mais tranquilo se você caçar os monstros do <NAVI>[Mazmorra de la mina de Einbech, piso 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>, cerca de 100 ao todo.\nPor favor, salve nossas crianças que não conseguem sair do laboratório.",
+        "es-ES": "[Suan]\nSnif, me sentiría un poco más tranquilo si pudieras cazar unos 100 monstruos en la <NAVI>[Mina de Mazmorra (3)]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>.\nPor favor, salve a nuestros niños, que no pueden salir de la mina."
+    },
+    "etXHDQ": {
+        "en-US": "[Suan]\nYou little rascals, you troublemakers! Still, thank you for coming back!\nIt was my fault for taking my eyes off the children. Even so, thank you so much for bringing them back safely.",
+        "pt-BR": "[Suan]\nSeus pestinhas, seus encrenqueiros! Mesmo assim, agradeço por terem voltado!\nFoi minha culpa por ter tirado os olhos das crianças. Ainda assim, agradeço muito por trazê-las de volta em segurança.",
+        "es-ES": "[Suan]\n¡Pequeños traviesos! ¡Me alegra mucho que hayan regresado!\nFue mi culpa por perderlos de vista. Muchísimas gracias por traerlos de vuelta sanos y salvos."
+    },
+    "e9XHDQ": {
+        "en-US": "[Suan]\nError 8 has occurred. If it occurs repeatedly, please contact the support team.",
+        "pt-BR": "[Suan]\nOcorreu o erro 8. Caso ele volte a ocorrer, entre em contato com a equipe de atendimento.",
+        "es-ES": "[Suan]\nSe ha producido el error 8. Si se repite, ponte en contacto con el equipo de soporte."
+    },
+    "fNXHDQ": {
+        "en-US": "Ras",
+        "pt-BR": "Las",
+        "es-ES": "Ras"
+    },
+    "fdXHDQ": {
+        "en-US": "[Ras]\nWaaah...... The grown-ups were guarding it, so it looked fun and I snuck inside.\nNaga doesn't know the way out. I want to leave.",
+        "pt-BR": "[Las]\nBuá...... Entrei escondido porque parecia divertido, já que os adultos estavam vigiando.\nNaga não sabe o caminho para sair. Quero ir embora.",
+        "es-ES": "[Ras]\nBua...... Parecía divertido porque los adultos estaban vigilando, así que entré a escondidas.\nPero ahora no sé cómo salir. Quiero irme."
+    },
+    "ftXHDQ": {
+        "en-US": "[Ras]\nI want to go home. Please send me home.......",
+        "pt-BR": "[Las]\nQuero ir para casa. Por favor, me mande para casa.......",
+        "es-ES": "[Ras]\nQuiero irme a casa. Por favor, llévenme a casa......."
+    },
+    "f9XHDQ": {
+        "en-US": "Say that we should return to Einbroch.",
+        "pt-BR": "Dizer para voltar a Einbroch.",
+        "es-ES": "Decirle que regrese a Einbroch."
+    },
+    "gNXHDQ": {
+        "en-US": "[Ras]\nYou're sending me home? Thank you!\nDo I go in here?",
+        "pt-BR": "[Las]\nVocê vai me mandar para casa? Obrigado!\nÉ só entrar aqui?",
+        "es-ES": "[Ras]\n¿Me envías a casa? ¡Gracias!\n¿Debo entrar por aquí?"
+    },
+    "gdXHDQ": {
+        "en-US": "[Ras]\nWow, this looks fun! This is a Warp Portal, right? I've never used one before!\nI'm glad I came here!",
+        "pt-BR": "[Las]\nUau, parece divertido! Isto é um Portal de Teletransporte, não é? Nunca usei um antes!\nAcho que valeu a pena vir até aqui!",
+        "es-ES": "[Ras]\n¡Guau, esto parece divertido! ¿Es un Portal de Teletransporte? ¡Es la primera vez que uso uno!\n¡Me alegro de haber venido!"
+    },
+    "gtXHDQ": {
+        "en-US": "[{0}]\nIt seems I have found everyone who went missing. Let's return to Einbroch.",
+        "pt-BR": "[{0}]\nParece que encontramos todas as pessoas desaparecidas. Vamos voltar para Einbroch.",
+        "es-ES": "[{0}]\nParece que encontré a todas las personas desaparecidas. Volvamos a Einbroch."
+    },
+    "g9XHDQ": {
+        "en-US": "Minas",
+        "pt-BR": "Minassi",
+        "es-ES": "Minassi"
+    },
+    "hNXHDQ": {
+        "en-US": "[Minas]\nWaaah, I'm hungry. I'm cold and sleepy.\nI want to go home.",
+        "pt-BR": "[Minassi]\nBuá, estou com fome. Estou com frio e sono.\nQuero ir para casa.",
+        "es-ES": "[Minassi]\nBua, Tengo hambre. Y frío, y sueño.\nQuiero ir a casa."
+    },
+    "hdXHDQ": {
+        "en-US": "[Minas]\nWho are you? An adventurer?\nCan you take me with you?",
+        "pt-BR": "[Minassi]\nQuem é você? Um aventureiro?\nPode me levar com você?",
+        "es-ES": "[Minassi]\n¿Quién eres? ¿Un trotamundos?\n¿Podrías llevarme contigo, por favor?"
+    },
+    "htXHDQ": {
+        "en-US": "[Minas]\nAre you taking me home? Sniff, I miss my mom.",
+        "pt-BR": "[Minassi]\nVocê vai me levar para casa? Snif, quero ver minha mãe.",
+        "es-ES": "[Minassi]\n¿Me llevas a casa? Snif, extraño a mi mamá."
+    },
+    "h9XHDQ": {
+        "en-US": "[Minas]\nMy legs hurt. I want to go home and lie down.\nCan I get home by going through here?",
+        "pt-BR": "[Minassi]\nMinhas pernas doem. Quero voltar para casa e me deitar.\nPosso voltar para casa entrando aqui?",
+        "es-ES": "[Minassi]\nMe duelen las piernas. Quiero irme a casa a acostarme.\n¿Si entro por ahí puedo irme a casa?"
+    },
+    "iNXHDQ": {
+        "en-US": "Tiris",
+        "pt-BR": "Tiris",
+        "es-ES": "Tiris"
+    },
+    "idXHDQ": {
+        "en-US": "[Tiris]\nWhere did all my friends go?\nThey were here with me just a moment ago.",
+        "pt-BR": "[Tiris]\nOnde foram todos os meus amigos?\nEles estavam aqui comigo até agora há pouco.",
+        "es-ES": "[Tiris]\n¿A dónde se fueron mis amigos?\nEstábamos juntos hace un momento."
+    },
+    "itXHDQ": {
+        "en-US": "[Tiris]\nDid I get lost?\nWaaah, waaah!",
+        "pt-BR": "[Tiris]\nSerá que se perderam?\nBuá, buáá!",
+        "es-ES": "[Tiris]\n¿Acaso me perdí?\n¡Bua, buaaa!"
+    },
+    "i9XHDQ": {
+        "en-US": "[Tiris]\nWaaah! Huh?!\nW-when did you get here? You should have said something sooner!",
+        "pt-BR": "[Tiris]\nBuá! Buá?!\nD-desde quando você está aí? Devia ter falado antes!",
+        "es-ES": "[Tiris]\n¡Bua! ¿¡Bua!?\n¿D-Desde cuándo está aquí? ¡Deberías haber dicho algo antes!"
+    },
+    "jNXHDQ": {
+        "en-US": "[Tiris]\nCan you take me home? Then I want to leave right away!\nSniff, my teacher and parents must be worried.",
+        "pt-BR": "[Tiris]\nVocê pode me levar para casa? Então quero ir agora mesmo!\nSnif, o professor e meus pais devem estar preocupados.",
+        "es-ES": "[Tiris]\n¿Puedes llevarme a casa? ¡Entonces vámonos ahora mismo!\nSnif, mi maestro y mis padres deben estar preocupados."
+    },
+    "jdXHDQ": {
+        "en-US": "Traveler's Stone Monument",
+        "pt-BR": "Lápide do Viajante",
+        "es-ES": "Estela del viajero"
+    },
+    "jtXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nIt seems I can consecrate Traveler's Stone Monument using Holy Water or Blue Gemstone.\nSomething mysterious may happen once the consecration is complete.",
+        "pt-BR": "[Lápide do Viajante]\nParece que é possível consagrar Lápide do Viajante usando Água Benta ou Gema Azul.\nTalvez algo misterioso aconteça quando a consagração for concluída.",
+        "es-ES": "[Estela del viajero]\nParece que se puede consagrar la Estela del viajero usando Agua Bendita o Gema Azul.\nAlgo misterioso podría ocurrir una vez completada la consagración."
+    },
+    "j9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nIf I stop after starting or run out of materials, all consecration performed so far will be nullified, so it would be best to prepare Holy Water or Blue Gemstone, at least 10 in total.",
+        "pt-BR": "[Lápide do Viajante]\nSe eu parar depois de começar ou ficar sem materiais, toda a consagração feita até então será anulada. É melhor preparar pelo menos 10 unidades de Água Benta ou Gema Azul.",
+        "es-ES": "[Estela del viajero]\nSi el proceso se interrumpe o te quedas sin materiales, perderás el progreso realizado hasta el momento. Será mejor preparar al menos 10 Aguas Benditas o Gemas Azules."
+    },
+    "kNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nI should also check whether there is a saved location among my Warp Portal slots that I can replace.",
+        "pt-BR": "[Lápide do Viajante]\nTambém é melhor verificar se há algum local salvo que possa ser substituído entre os espaços do Portal de Teletransporte.",
+        "es-ES": "[Estela del viajero]\nTambién deberías comprobar si hay una ranura de guardado en tu Portal de Teletransporte que puedas reemplazar."
+    },
+    "kdXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nDuring the consecration, I cannot fight back even if nearby monsters attack me, so it would be best to clear the surrounding area thoroughly before starting.\nIf I am ready, shall I begin the consecration?",
+        "pt-BR": "[Lápide do Viajante]\nDurante a consagração, não será possível revidar mesmo se os monstros próximos atacarem. É melhor limpar bem os arredores antes de começar.\nSe tudo estiver pronto, devo iniciar a consagração?",
+        "es-ES": "[Estela del viajero]\nNo podrás defenderte de los monstruos cercanos mientras realizas la consagración, así que es mejor despejar la zona primero.\n¿Estás listo para comenzar la consagración?"
+    },
+    "ktXHDQ": {
+        "en-US": "Begin the consecration.",
+        "pt-BR": "Iniciar a consagração.",
+        "es-ES": "Comenzar la consagración."
+    },
+    "k9XHDQ": {
+        "en-US": "I still have preparations to make.",
+        "pt-BR": "Ainda há preparativos a fazer.",
+        "es-ES": "Aún falta algo por preparar."
+    },
+    "lNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nA mysterious energy surrounds Traveler's Stone Monument.\nIt seems I can perform one consecration. I took out Holy Water or Blue Gemstone.",
+        "pt-BR": "[Lápide do Viajante]\nUma energia misteriosa envolve Lápide do Viajante.\nParece possível realizar uma etapa da consagração. Retirei Água Benta ou Gema Azul.",
+        "es-ES": "[Estela del viajero]\nUna energía misteriosa envuelve Estela del viajero.\nParece que se puede realizar una consagración. Saqué Agua Bendita o Gema Azul."
+    },
+    "ldXHDQ": {
+        "en-US": "Perform the consecration.",
+        "pt-BR": "Consagrar.",
+        "es-ES": "Consagrar."
+    },
+    "ltXHDQ": {
+        "en-US": "Do not perform the consecration.",
+        "pt-BR": "Não consagrar.",
+        "es-ES": "No consagrar."
+    },
+    "l9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe consecration is not yet complete, but there is no more Holy Water or Blue Gemstone.\nIt seems I was not sufficiently prepared.",
+        "pt-BR": "[Lápide do Viajante]\nA consagração ainda não foi concluída, mas não há mais Água Benta nem Gema Azul.\nParece que os preparativos foram insuficientes.",
+        "es-ES": "[Estela del viajero]\nLa consagración aún no ha concluido, pero te has quedado sin Agua Bendita ni Gema Azul.\nParece que no me preparé lo suficiente."
+    },
+    "mNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nI brought both Blue Gemstone and Holy Water.\nWhich one should I use for the consecration?",
+        "pt-BR": "[Lápide do Viajante]\nPreparei tanto Gema Azul quanto Água Benta.\nQual dos dois devo usar para realizar a consagração?",
+        "es-ES": "[Estela del viajero]\nHas preparado tanto Gemas Azules como Agua Bendita.\n¿Cuál usarás para la consagración?"
+    },
+    "mdXHDQ": {
+        "en-US": "Blue Gemstone",
+        "pt-BR": "Gema Azul",
+        "es-ES": "Gema Azul"
+    },
+    "mtXHDQ": {
+        "en-US": "Holy Water",
+        "pt-BR": "Água Benta",
+        "es-ES": "Agua Bendita"
+    },
+    "m9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nI used Blue Gemstone to consecrate Traveler's Stone Monument.",
+        "pt-BR": "[Lápide do Viajante]\nUsei Gema Azul para consagrar Lápide do Viajante.",
+        "es-ES": "[Estela del viajero]\nUsé Gema Azul para consagrar Estela del viajero."
+    },
+    "nNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nTraveler's Stone Monument was consecrated using Holy Water.",
+        "pt-BR": "[Lápide do Viajante]\nUsei Água Benta para consagrar Lápide do Viajante.",
+        "es-ES": "[Estela del viajero]\nUsé Agua Bendita para consagrar Estela del viajero."
+    },
+    "ndXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nAn error occurred, so the consecration failed.",
+        "pt-BR": "[Lápide do Viajante]\nOcorreu um erro e a consagração não foi realizada.",
+        "es-ES": "[Estela del viajero]\nOcurrió un error y la consagración falló."
+    },
+    "ntXHDQ": {
+        "en-US": "The consecration is 100% complete. A mysterious energy surrounds my body.",
+        "pt-BR": "A consagração foi 100% concluída. Uma energia misteriosa envolve o corpo.",
+        "es-ES": "La consagración se completó al 100%. Una energía misteriosa envuelve tu cuerpo."
+    },
+    "n9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe currently memorized locations are as follows.\nI can erase one of the locations memorized in the slots and store the memory of this location.",
+        "pt-BR": "[Lápide do Viajante]\nOs locais memorizados atualmente são os seguintes.\nÉ possível apagar a memória de um dos locais armazenados nos espaços e gravar a memória deste lugar.",
+        "es-ES": "[Estela del viajero]\nLos lugares guardados actualmente son los siguientes.\nPuedes borrar el recuerdo de uno de los lugares guardados en los espacios y guardar la memoria de este lugar"
+    },
+    "oNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nWhich slot's memory should I replace?\n^FF0000A new memory cannot be stored in a slot with no memorized location. Selecting such a slot will end the process without completing the consecration.^000000",
+        "pt-BR": "[Lápide do Viajante]\nA memória de qual espaço deve ser substituída?\n^FF0000Não é possível gravar uma nova memória em um espaço sem nenhuma memória. Ao selecionar esse espaço, a consagração será encerrada sem ser concluída.^000000",
+        "es-ES": "[Estela del viajero]\n¿Qué memoria de ranura deseas reemplazar?\n^FF0000No puedes imprimir una nueva memoria en una ranura vacía. Seleccionar una ranura vacía finalizará el proceso sin completar la consagración.^000000"
+    },
+    "odXHDQ": {
+        "en-US": "1st Slot",
+        "pt-BR": "1 espaço",
+        "es-ES": "1 ranura"
+    },
+    "otXHDQ": {
+        "en-US": "2nd Slot",
+        "pt-BR": "2 espaço",
+        "es-ES": "2 ranura"
+    },
+    "o9XHDQ": {
+        "en-US": "3rd Slot",
+        "pt-BR": "3 espaço",
+        "es-ES": "3 ranura"
+    },
+    "pNXHDQ": {
+        "en-US": "4th Slot",
+        "pt-BR": "4 espaço",
+        "es-ES": "4 ranura"
+    },
+    "pdXHDQ": {
+        "en-US": "5th Slot",
+        "pt-BR": "5 espaço",
+        "es-ES": "5 ranura"
+    },
+    "ptXHDQ": {
+        "en-US": "6th Slot",
+        "pt-BR": "6 espaço",
+        "es-ES": "6 ranura"
+    },
+    "p9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe memory of the new location will be saved in the 1st slot.",
+        "pt-BR": "[Lápide do Viajante]\nA memória do novo local será armazenada no 1º espaço.",
+        "es-ES": "[Estela del viajero]\nEl recuerdo del nuevo lugar se guardará en la 1 ranura."
+    },
+    "qNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nA new memory cannot be stored in an empty slot or one with no memorized location.",
+        "pt-BR": "[Lápide do Viajante]\nNão é possível gravar uma nova memória em um espaço vazio ou sem nenhuma memória.",
+        "es-ES": "[Estela del viajero]\nNo se puede guardar un nuevo recuerdo en un espacio vacío o en el que no haya ningún recuerdo."
+    },
+    "qdXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe memory of the new location will be saved in the 2nd slot.",
+        "pt-BR": "[Lápide do Viajante]\nA memória do novo local será armazenada no 2º espaço.",
+        "es-ES": "[Estela del viajero]\nEl recuerdo del nuevo lugar se guardará en la 2 ranura."
+    },
+    "qtXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe memory of the new location will be saved in the 3rd slot.",
+        "pt-BR": "[Lápide do Viajante]\nA memória do novo local será armazenada no 3º espaço.",
+        "es-ES": "[Estela del viajero]\nEl recuerdo del nuevo lugar se guardará en la 3 ranura."
+    },
+    "q9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe memory of the new location will be saved in the 4th slot.",
+        "pt-BR": "[Lápide do Viajante]\nA memória do novo local será armazenada no 4º espaço.",
+        "es-ES": "[Estela del viajero]\nEl recuerdo del nuevo lugar se guardará en la 4 ranura."
+    },
+    "rNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe memory of the new location will be saved in the 5th slot.",
+        "pt-BR": "[Lápide do Viajante]\nA memória do novo local será armazenada no 5º espaço.",
+        "es-ES": "[Estela del viajero]\nEl recuerdo del nuevo lugar se guardará en la 5 ranura."
+    },
+    "rdXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe memory of the new location will be saved in the 6th slot.",
+        "pt-BR": "[Lápide do Viajante]\nA memória do novo local será armazenada no 6º espaço.",
+        "es-ES": "[Estela del viajero]\nEl recuerdo del nuevo lugar se guardará en la 6 ranura."
+    },
+    "rtXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nEnding the consecration.",
+        "pt-BR": "[Lápide do Viajante]\nA consagração será encerrada.",
+        "es-ES": "[Estela del viajero]\nSe finalizará la consagración."
+    },
+    "r9XHDQ": {
+        "en-US": "It seems approximately {0}% of the consecration has been completed.",
+        "pt-BR": "Parece que a consagração avançou cerca de {0}%.",
+        "es-ES": "La consagración parece haber avanzado aproximadamente {0}%."
+    },
+    "sNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe Blue Gemstone or Holy Water consumed during the consecration so far cannot be recovered.\nEnd the consecration?",
+        "pt-BR": "[Lápide do Viajante]\nNão é possível recuperar Gema Azul nem Água Benta consumidas na consagração até agora.\nDeseja encerrar a consagração?",
+        "es-ES": "[Estela del viajero]\nNo se pueden recuperar las Gema Azul ni el Agua Bendita ya consumidos para la consagración.\n¿Deseas finalizar la consagración?"
+    },
+    "sdXHDQ": {
+        "en-US": "End the consecration.",
+        "pt-BR": "Encerrar a consagração.",
+        "es-ES": "Finalizar la consagración."
+    },
+    "stXHDQ": {
+        "en-US": "Think it over again.",
+        "pt-BR": "Pensar novamente.",
+        "es-ES": "Pensarlo de nuevo."
+    },
+    "s9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nI decided to end the consecration.",
+        "pt-BR": "[Lápide do Viajante]\nDecidi encerrar a consagração.",
+        "es-ES": "[Estela del viajero]\nDecidí finalizar la consagración."
+    },
+    "tNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nI decided to continue the consecration.",
+        "pt-BR": "[Lápide do Viajante]\nDecidi continuar a consagração.",
+        "es-ES": "[Estela del viajero]\nDecidí continuar con la consagración."
+    },
+    "tdXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nI decided to make further preparations before attempting the consecration.",
+        "pt-BR": "[Lápide do Viajante]\nDecidi concluir mais alguns preparativos antes de tentar a consagração.",
+        "es-ES": "[Estela del viajero]\nDecidí prepararme un poco más antes de intentar la consagración."
+    },
+    "ttXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nTraveler's Stone Monument stands silently in place.",
+        "pt-BR": "[Lápide do Viajante]\nLápide do Viajante permanece imóvel, guardando seu lugar.",
+        "es-ES": "[Estela del viajero]\nEstela del viajero permanece inmóvil en su lugar."
+    },
+    "t9XHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nCheck whether any of the saved locations in the 4th, 5th, or 6th slot are worth replacing.",
+        "pt-BR": "[Lápide do Viajante]\nTambém é melhor verificar se há algum local salvo que possa ser substituído entre os 4º, 5º e 6º espaços do Portal de Teletransporte.",
+        "es-ES": "[Estela del viajero]\nComprueba si hay una ubicación guardada entre las ranuras 4, 5 o 6 del Portal de Teletransporte que puedas reemplazar."
+    },
+    "uNXHDQ": {
+        "en-US": "[Traveler's Stone Monument]\nThe locations currently remembered are as follows.\nYou can erase the memory of one of the locations remembered in the 4, 5, or 6 slot and plant the memory of this place there.",
+        "pt-BR": "[Lápide do Viajante]\nOs locais memorizados atualmente são os seguintes.\nÉ possível apagar a memória de um dos locais memorizados nos 4, 5 e 6 slots e gravar a memória deste local.",
+        "es-ES": "[Estela del viajero]\nLas ubicaciones guardadas actualmente son las siguientes.\nPuedes borrar el recuerdo de uno de los lugares guardados de una de las ranuras 4, 5 o 6 y guardar la ubicación de este lugar."
+    }
+}

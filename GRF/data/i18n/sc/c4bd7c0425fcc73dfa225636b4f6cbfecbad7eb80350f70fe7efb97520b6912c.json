@@ -1366,7 +1366,7 @@
     },
     "MQMYDA": {
         "en-US": "Item - 30 Sweet Potatoes\nUnion Coins: 40",
-        "pt-BR": "Item - 30 Batata Doce\nMoedas Sindicais: 40",
+        "pt-BR": "Item - 30 Batata-doce\nMoedas Sindicais: 40",
         "es-ES": "Objeto - 30 batatas\nMonedas sindicales: 40"
     },
     "MgMYDA": {
@@ -2566,7 +2566,7 @@
     },
     "IQQYDA": {
         "en-US": "Item - 30 Sweet Potatoes\nUnion Coins: 25",
-        "pt-BR": "Item - 30 Batata Doce\nMoedas Sindicais: 25",
+        "pt-BR": "Item - 30 Batata-doce\nMoedas Sindicais: 25",
         "es-ES": "Objeto - 30 batatas\nMonedas sindicales: 25"
     },
     "IgQYDA": {
@@ -6021,7 +6021,7 @@
     },
     "1AYYDA": {
         "en-US": "Where's the sweet potato?",
-        "pt-BR": "Cadê a Batata Doce?",
+        "pt-BR": "Cadê a Batata-doce?",
         "es-ES": "¿Dónde está la batata?"
     },
     "1QYYDA": {
@@ -6031,22 +6031,22 @@
     },
     "1gYYDA": {
         "en-US": "[Jung Fan]\nI really need Sweet Potato!",
-        "pt-BR": "[Jung Fan]\nEstou precisando muito de Batata Doce!",
+        "pt-BR": "[Jung Fan]\nEstou precisando muito de Batata-doce!",
         "es-ES": "[Jung Fan]\n¡Necesito mucho Batata Doce!"
     },
     "1wYYDA": {
         "en-US": "[Jung Fan]\nI'm craving sweet potatoes! Hahah!",
-        "pt-BR": "[Jung Fan]\nBateu a vontade de comer Batata Doce! Hahah!",
+        "pt-BR": "[Jung Fan]\nBateu a vontade de comer Batata-doce! Hahah!",
         "es-ES": "[Jung Fan]\n¡Me han entrado ganas de comer batata dulce! ¡Jajaja!"
     },
     "2AYYDA": {
         "en-US": "[Jung Fan]\nSweet potatoes? Sweet potatoes? Sweet potatoes!!!!!!!!!!!!",
-        "pt-BR": "[Jung Fan]\nBatata Doce? Batata Doce? Batata Doce!!!!!!!!!!!!",
+        "pt-BR": "[Jung Fan]\nBatata-doce? Batata-doce? Batata-doce!!!!!!!!!!!!",
         "es-ES": "[Jung Fan]\n¿Batata Doce? ¿Batata Doce? ¡Batata Doce!!!!!!!!!!!!"
     },
     "2QYYDA": {
         "en-US": "[Jung Fan]\nGeez... when are they going to deliver my sweet potatoes?",
-        "pt-BR": "[Jung Fan]\nPoxa... quando vão entregar a minha Batata Doce?",
+        "pt-BR": "[Jung Fan]\nPoxa... quando vão entregar a minha Batata-doce?",
         "es-ES": "[Jung Fan]\nVaya... ¿cuándo me entregarán mi batata dulce?"
     },
     "2gYYDA": {
@@ -8426,12 +8426,12 @@
     },
     "tQgYDA": {
         "en-US": "[Pikiner]\nThanks, I'll use this heat to bake a sweet potato.",
-        "pt-BR": "[Pikiner]\nValeu, vou usar esse calor para assar uma Batata Doce.",
+        "pt-BR": "[Pikiner]\nValeu, vou usar esse calor para assar uma Batata-doce.",
         "es-ES": "[Pikiner]\nGracias, voy a aprovechar este calor para asar una batata dulce."
     },
     "tggYDA": {
         "en-US": "[Pikiner]\nWhere's the sweet potato?",
-        "pt-BR": "[Pikiner]\nCadê a Batata Doce?",
+        "pt-BR": "[Pikiner]\nCadê a Batata-doce?",
         "es-ES": "[Pikiner]\n¿Dónde está la batata?"
     },
     "twgYDA": {
@@ -8644,5 +8644,9 @@
         "pt-BR": "[Oficial do Governo]\nDividimos a confiança em um ranking de fama, entre ^A662D9Ametista^000000, ^E25A68Peridoto^000000, ^5C57E4Aquamarina^000000 e ^B3DFFBDiamante^000000.",
         "es-ES": "[Funcionaria del Gobierno]\nHemos dividido la confianza en una clasificación de fama, entre ^A662D9Amatista^000000, ^E25A68Peridoto^000000, ^5C57E4Aguamarina^000000 y ^B3DFFBDiamante^000000."
     },
-    "4QgYDA": {}
+    "4QgYDA": {
+        "en-US": "Region:\nConstellation Tower",
+        "pt-BR": "Local:\nA Torre da Constelação",
+        "es-ES": "Lugar del avistamiento\nLa Torre de la Constelación"
+    }
 }

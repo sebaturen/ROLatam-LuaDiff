@@ -149,22 +149,22 @@ And your story awaits.]],
 			"^ff0000 This page is an update introduction, not a quest. Please note that it will not be removed even after completing the quest.^000000"
 		}
 	},
-	[7] = {
-		Title = "Noddle Festival",
-		IconName = "ico_ev.bmp",
-		Summary = "Come to Lasagna!",
-		BgName = "reco_02.bmp",
+	[77] = {
+		Title = "Varmunt's Biosphere",
+		IconName = "ico_sc.bmp",
+		Summary = "We request your assistance, Customer.",
+		NpcSpr = "4_EP17_BASIC_B",
+		BgName = "reco_77.bmp",
 		QuestInfo1 = {
-			"How about some delicious Noddle?",
-			"Join the Noddle Festival in <NAVI>[Lasagna]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI! You can earn great rewards!"
+			"Are you curious about the Artificial Habitat that Master Varmunt created within the <NAVI>[Mansion]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>?",
+			"Your help is urgently needed to defeat the monsters that have grown strangely powerful after being isolated from the outside world for many years."
 		},
 		QuestInfo2 = {
-			"Limited-Time Event",
-			"Check the requirements",
-			"^ff0000Minimum Level: 50^000000"
+			"Eligible:",
+			"Any Customer of Level 230 or higher"
 		},
 		QuestInfo3 = {
-			"^ff0000Ø Period: Aug 3 to Aug 18.^000000"
+			"^ff0000 This page introduces an update and is not a quest. Please note that it will not be removed even after you complete the quest.^000000"
 		}
 	}
 }

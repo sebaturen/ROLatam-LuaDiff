@@ -1,0 +1,647 @@
+{
+    "wIl7DQ": {
+        "en-US": "Level 1–39 Mission Board",
+        "pt-BR": "Missões 1 - 39",
+        "es-ES": "1~39 Tablero de encargos"
+    },
+    "wYl7DQ": {
+        "en-US": "^4D4DFFEXP Event in Progress!^000000\n^4D4DFFAll quest reward EXP is increased by 50%!!^000000",
+        "pt-BR": "^4D4DFFBônus de EXP!^000000\n^4D4DFFDurante o evento, as recompensas em EXP aumentaram em 50%!!^000000",
+        "es-ES": "^4D4DFF¡Evento de EXP en curso!^000000\n^4D4DFF¡La EXP de recompensa de todas las misiones aumenta un 50%!!^000000"
+    },
+    "wol7DQ": {
+        "en-US": "You have too many items in your inventory to proceed with the quest. -",
+        "pt-BR": "Você está carregando itens demais para prosseguir.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos. -"
+    },
+    "w4l7DQ": {
+        "en-US": "[Version Check] Eden Group Standard Version",
+        "pt-BR": "[GM Mode] Versão Normal",
+        "es-ES": "[Verificación de versión]Versión normal del Grupo del Edén"
+    },
+    "xIl7DQ": {
+        "en-US": "To accept a mission -\n- you must have the ^4D4DFF'Eden Group Mark'^000000. -",
+        "pt-BR": "Para aceitar uma missão, você precisa\nter o ^4D4DFF'Emblema do Grupo do Éden'^000000.",
+        "es-ES": "Para aceptar un encargo, necesitas -\n- ^4D4DFF'Insignia del Grupo del Edén'^000000. -"
+    },
+    "xYl7DQ": {
+        "en-US": "Your level is too low to use this mission board.",
+        "pt-BR": "Seu nível é insuficiente para usar este quadro de missões.",
+        "es-ES": "No puedes usar este tablero porque tu nivel es insuficiente."
+    },
+    "xol7DQ": {
+        "en-US": "View Individual Missions",
+        "pt-BR": "Ver missões individualmente",
+        "es-ES": "Ver encargos individuales"
+    },
+    "x4l7DQ": {
+        "en-US": "Turn In All Completed Missions",
+        "pt-BR": "Reportar missões concluídas",
+        "es-ES": "Informar todos los encargos completados"
+    },
+    "yIl7DQ": {
+        "en-US": "Accept All Missions",
+        "pt-BR": "Aceitar todas as missões",
+        "es-ES": "Aceptar todos los encargos"
+    },
+    "yYl7DQ": {
+        "en-US": "[Processing mission rewards.]",
+        "pt-BR": "[Missões Concluídas]",
+        "es-ES": "[Procesando los encargos.]"
+    },
+    "yol7DQ": {
+        "en-US": "<Sweet as Honey Labor> completed.",
+        "pt-BR": "[Trabalho Braçal] - missão concluída.",
+        "es-ES": "<Trabajo dulce como la miel> completado."
+    },
+    "y4l7DQ": {
+        "en-US": "<Playground Stabilization Operation-Hornet> completed.",
+        "pt-BR": "[Salvando o Parquinho] - missão concluída.",
+        "es-ES": "<Operación de estabilización del área de juegos-Avispón> completada."
+    },
+    "zIl7DQ": {
+        "en-US": "<Playground Stabilization Operation-Rocker> completed.",
+        "pt-BR": "[Insetos Musicais] - missão concluída.",
+        "es-ES": "<Operación de estabilización del área de juegos-Rockero> completada."
+    },
+    "zYl7DQ": {
+        "en-US": "<The Legendary Knight, Ambernite> completed.",
+        "pt-BR": "[Problema Pegajoso] - missão concluída.",
+        "es-ES": "<El caballero legendario, Ambarnito> completado."
+    },
+    "zol7DQ": {
+        "en-US": "<Undead War> completed.",
+        "pt-BR": "[Guerra aos Mortos] - missão concluída.",
+        "es-ES": "<Guerra de los no muertos> completada."
+    },
+    "z4l7DQ": {
+        "en-US": "<Professional Snake Hunter> completed.",
+        "pt-BR": "[Medo de Cobras] - missão concluída.",
+        "es-ES": "<Cazador profesional de serpientes> completado."
+    },
+    "0Il7DQ": {
+        "en-US": "<That Is a Harmful Onion> completed.",
+        "pt-BR": "[Não é uma Cebola] - missão concluída.",
+        "es-ES": "<Esa cebolla es perjudicial> completado."
+    },
+    "0Yl7DQ": {
+        "en-US": "<Before Mushrooms Take Over> completed.",
+        "pt-BR": "[Cogumelos Estranhos] - missão concluída.",
+        "es-ES": "<Antes de que todo se llene de hongos> completado."
+    },
+    "0ol7DQ": {
+        "en-US": "<Loud Troublemakers> completed.",
+        "pt-BR": "[Bichos Barulhentos] - missão concluída.",
+        "es-ES": "<Los escandalosos> completado."
+    },
+    "04l7DQ": {
+        "en-US": "<BBQ's Cooking Hell> completed.",
+        "pt-BR": "[Churrasco Ruim] - missão concluída.",
+        "es-ES": "<El infierno culinario de Bobby Q> completado."
+    },
+    "1Il7DQ": {
+        "en-US": "<Honey Skin Bunny Q> completed.",
+        "pt-BR": "[Tratamento de Pele] - missão concluída.",
+        "es-ES": "<Bunny Q de piel suave como la miel> completado."
+    },
+    "1Yl7DQ": {
+        "en-US": "<Que Sera Sera Co Sera Sera> completed.",
+        "pt-BR": "[Tempero Korasera] - missão concluída.",
+        "es-ES": "<Que será, será, cose será, será> completado."
+    },
+    "1ol7DQ": {
+        "en-US": "Turned in a total of {0} completed missions.",
+        "pt-BR": "Você concluiu {0} missões.",
+        "es-ES": "Se procesaron un total de {0} encargos completados."
+    },
+    "14l7DQ": {
+        "en-US": "All Available Missions",
+        "pt-BR": "Todas as Missões Disponíveis",
+        "es-ES": "Todos los encargos disponibles"
+    },
+    "2Il7DQ": {
+        "en-US": "Level 1-10 Missions",
+        "pt-BR": "Missões de nível 1 a 10",
+        "es-ES": "Encargos de 1-10 niveles"
+    },
+    "2Yl7DQ": {
+        "en-US": "Level 11-20 Missions",
+        "pt-BR": "Missões de nível 11 a 20",
+        "es-ES": "Encargos de 11-20 niveles"
+    },
+    "2ol7DQ": {
+        "en-US": "Level 21-30 Missions",
+        "pt-BR": "Missões de nível 21 a 30",
+        "es-ES": "Encargos de 21-30 niveles"
+    },
+    "24l7DQ": {
+        "en-US": "Accepted all available missions.",
+        "pt-BR": "Você aceitou todas as missões disponíveis.",
+        "es-ES": "Aceptaste todos los encargos disponibles."
+    },
+    "3Il7DQ": {
+        "en-US": "Accepted all available Level 1-10 missions.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 1 a 10.",
+        "es-ES": "Aceptaste todos los encargos disponibles de 1-10 niveles."
+    },
+    "3Yl7DQ": {
+        "en-US": "Accepted all available Level 11-20 missions.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 11 a 20.",
+        "es-ES": "Aceptaste todos los encargos disponibles de 11-20 niveles."
+    },
+    "3ol7DQ": {
+        "en-US": "Accepted all available Level 21-30 missions.",
+        "pt-BR": "Você aceitou todas as missões disponíveis do nível 21 a 30.",
+        "es-ES": "Aceptaste todos los encargos disponibles de 21-30 niveles."
+    },
+    "34l7DQ": {
+        "en-US": "[Accepting missions.]",
+        "pt-BR": "[Aceitando Missões]",
+        "es-ES": "[Aceptando encargos.]"
+    },
+    "4Il7DQ": {
+        "en-US": "Sweet as Honey Labor[1]",
+        "pt-BR": "[1] Trabalho Braçal",
+        "es-ES": "Trabajo dulce como la miel[1]"
+    },
+    "4Yl7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "4ol7DQ": {
+        "en-US": "[10] Playground Stabilization Operation - Hornet",
+        "pt-BR": "[10] Salvando o Parquinho",
+        "es-ES": "[10] Operación de estabilización del patio de juegos: Avispón"
+    },
+    "44l7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "5Il7DQ": {
+        "en-US": "[10] Playground Stabilization Operation - Rocker",
+        "pt-BR": "[10] Insetos Musicais",
+        "es-ES": "[10] Operación de estabilización del patio de juegos: Rockero"
+    },
+    "5Yl7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "5ol7DQ": {
+        "en-US": "[10] The legendary knight, Ambernite!",
+        "pt-BR": "[10] Problema Pegajoso",
+        "es-ES": "[10] ¡Ambarnito, el caballero legendario!"
+    },
+    "54l7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "6Il7DQ": {
+        "en-US": "Undead War[15]",
+        "pt-BR": "[15] Guerra aos Mortos",
+        "es-ES": "Guerra de los no muertos[15]"
+    },
+    "6Yl7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "6ol7DQ": {
+        "en-US": "Professional Snake Hunter[15]",
+        "pt-BR": "[15] Medo de Cobras",
+        "es-ES": "Cazador profesional de serpientes[15]"
+    },
+    "64l7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "7Il7DQ": {
+        "en-US": "That Is a Harmful Onion.[15]",
+        "pt-BR": "[15] Não é uma Cebola",
+        "es-ES": "Esa cebolla es perjudicial.[15]"
+    },
+    "7Yl7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "7ol7DQ": {
+        "en-US": "Before Mushrooms Take Over.[15]",
+        "pt-BR": "[15] Cogumelos Estranhos",
+        "es-ES": "Antes de que todo se llene de hongos.[15]"
+    },
+    "74l7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "8Il7DQ": {
+        "en-US": "Loud Troublemakers[20]",
+        "pt-BR": "[20] Bichos Barulhentos",
+        "es-ES": "Los escandalosos[20]"
+    },
+    "8Yl7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "8ol7DQ": {
+        "en-US": "BBQ's Cooking Hell[30]",
+        "pt-BR": "[30] Churrasco Ruim",
+        "es-ES": "Las desventuras culinarias de Dito Asadito[30]"
+    },
+    "84l7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "9Il7DQ": {
+        "en-US": "Honey Skin Bunny Q[30]",
+        "pt-BR": "[30] Tratamento de Pele",
+        "es-ES": "Tratamiento facial de Dita[30]"
+    },
+    "9Yl7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "9ol7DQ": {
+        "en-US": "Que Sera Sera Co Sera Sera[30]",
+        "pt-BR": "[30] Tempero Korasera",
+        "es-ES": "Qué será, será[30]"
+    },
+    "94l7DQ": {
+        "en-US": "Accept Mission {0}",
+        "pt-BR": "Missão {0} aceita",
+        "es-ES": "Encargo {0} aceptado"
+    },
+    "+Il7DQ": {
+        "en-US": "{0}",
+        "pt-BR": "{0}",
+        "es-ES": "{0}"
+    },
+    "+Yl7DQ": {
+        "en-US": "^8C8C8CSweet as Honey Labor (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Trabalho Braçal ^000000",
+        "es-ES": "^8C8C8CTrabajo dulce como la miel(en curso)^000000"
+    },
+    "+ol7DQ": {
+        "en-US": "^8C8C8CSweet as Honey Labor (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Trabalho Braçal ^000000",
+        "es-ES": "^8C8C8CTrabajo dulce como la miel(en espera)^000000"
+    },
+    "+4l7DQ": {
+        "en-US": "^8C8C8CPlayground Stabilization Operation-Hornet (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Salvando o Parquinho ^000000",
+        "es-ES": "^8C8C8COperación de estabilización del área de juegos-Avispón(en curso)^000000"
+    },
+    "/Il7DQ": {
+        "en-US": "^8C8C8CPlayground Stabilization Operation-Hornet (Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Salvando o Parquinho ^000000",
+        "es-ES": "^8C8C8COperación de estabilización del área de juegos-Avispón(en espera)^000000"
+    },
+    "/Yl7DQ": {
+        "en-US": "^8C8C8CPlayground Stabilization Operation - Rocker (In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Insetos Musicais ^000000",
+        "es-ES": "^8C8C8COperación de estabilización del área de juegos-Rockero(en curso)^000000"
+    },
+    "/ol7DQ": {
+        "en-US": "^8C8C8CPlayground Stabilization Operation-Rocker(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Insetos Musicais ^000000",
+        "es-ES": "^8C8C8COperación de estabilización del área de juegos-Rockero(en espera)^000000"
+    },
+    "/4l7DQ": {
+        "en-US": "^8C8C8CLegendary Knight, Ambernite(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Problema Pegajoso ^000000",
+        "es-ES": "^8C8C8CEl caballero legendario, Ambarnito(en curso)^000000"
+    },
+    "AIp7DQ": {
+        "en-US": "^8C8C8CLegendary Knight, Ambernite(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Problema Pegajoso ^000000",
+        "es-ES": "^8C8C8CEl caballero legendario, Ambarnito(en espera)^000000"
+    },
+    "AYp7DQ": {
+        "en-US": "^8C8C8CUndead War(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Guerra aos Mortos ^000000",
+        "es-ES": "^8C8C8CGuerra de los no muertos(en curso)^000000"
+    },
+    "Aop7DQ": {
+        "en-US": "^8C8C8CUndead War(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Guerra aos Mortos ^000000",
+        "es-ES": "^8C8C8CGuerra de los no muertos(en espera)^000000"
+    },
+    "A4p7DQ": {
+        "en-US": "^8C8C8CPro Snake Hunter(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Medo de Cobras ^000000",
+        "es-ES": "^8C8C8CCazador profesional de serpientes(en curso)^000000"
+    },
+    "BIp7DQ": {
+        "en-US": "^8C8C8CPro Snake Hunter(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Medo de Cobras ^000000",
+        "es-ES": "^8C8C8CCazador profesional de serpientes(en espera)^000000"
+    },
+    "BYp7DQ": {
+        "en-US": "^8C8C8CThat Is a Harmful Onion.(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Não é uma Cebola ^000000",
+        "es-ES": "^8C8C8CEsa cebolla es perjudicial.(en curso)^000000"
+    },
+    "Bop7DQ": {
+        "en-US": "^8C8C8CThat Is a Harmful Onion.(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Não é uma Cebola ^000000",
+        "es-ES": "^8C8C8CEsa cebolla es perjudicial.(en espera)^000000"
+    },
+    "B4p7DQ": {
+        "en-US": "^8C8C8CBefore It Becomes a Mushroom Field.(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Cogumelos Estranhos ^000000",
+        "es-ES": "^8C8C8CAntes de que todo se llene de hongos.(en curso)^000000"
+    },
+    "CIp7DQ": {
+        "en-US": "^8C8C8CBefore It Becomes a Mushroom Field.(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Cogumelos Estranhos ^000000",
+        "es-ES": "^8C8C8CAntes de que todo se llene de hongos.(en espera)^000000"
+    },
+    "CYp7DQ": {
+        "en-US": "^8C8C8CNoisy Guys(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Bichos Barulhentos ^000000",
+        "es-ES": "^8C8C8CLos escandalosos(en curso)^000000"
+    },
+    "Cop7DQ": {
+        "en-US": "^8C8C8CNoisy Guys(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Bichos Barulhentos ^000000",
+        "es-ES": "^8C8C8CLos escandalosos(en espera)^000000"
+    },
+    "C4p7DQ": {
+        "en-US": "^8C8C8CBarbie Q's Cooking Hell(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Churrasco Ruim ^000000",
+        "es-ES": "^8C8C8CEl infierno culinario de Bobby Q(en curso)^000000"
+    },
+    "DIp7DQ": {
+        "en-US": "^8C8C8CBarbie Q's Cooking Hell(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Churrasco Ruim ^000000",
+        "es-ES": "^8C8C8CEl infierno culinario de Bobby Q(en espera)^000000"
+    },
+    "DYp7DQ": {
+        "en-US": "^8C8C8CSilky Skin Bunny Q(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Tratamento de Pele ^000000",
+        "es-ES": "^8C8C8CBunny Q de piel suave como la miel(en curso)^000000"
+    },
+    "Dop7DQ": {
+        "en-US": "^8C8C8CSilky Skin Bunny Q(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Tratamento de Pele ^000000",
+        "es-ES": "^8C8C8CBunny Q de piel suave como la miel(en espera)^000000"
+    },
+    "D4p7DQ": {
+        "en-US": "^8C8C8CQue Sera Sera Co Sera Sera(In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em Curso) Tempero Korasera^000000",
+        "es-ES": "^8C8C8CQue será, será, cose será, será(en curso)^000000"
+    },
+    "EIp7DQ": {
+        "en-US": "^8C8C8CQue Sera Sera Co Sera Sera(Pending)^000000",
+        "pt-BR": "^8C8C8C(Em Espera) Tempero Korasera ^000000",
+        "es-ES": "^8C8C8CQue será, será, cose será, será(en espera)^000000"
+    },
+    "EYp7DQ": {
+        "en-US": "Payon Field[1-15]",
+        "pt-BR": "[1-15] Payon",
+        "es-ES": "Campo de Payon[1-15]"
+    },
+    "Eop7DQ": {
+        "en-US": "[10] Prontera",
+        "pt-BR": "[10] Prontera",
+        "es-ES": "[10] Prontera"
+    },
+    "E4p7DQ": {
+        "en-US": "Payon Dungeon[15]",
+        "pt-BR": "[15] Vila dos Arqueiros",
+        "es-ES": "Calabozo de Payon[15]"
+    },
+    "FIp7DQ": {
+        "en-US": "Izlude Field[20]",
+        "pt-BR": "[20] Izlude",
+        "es-ES": "Campo de Izlude[20]"
+    },
+    "FYp7DQ": {
+        "en-US": "Comodo Dungeon[30]",
+        "pt-BR": "[30] Comodo",
+        "es-ES": "Mazmorra de Comodo[30]."
+    },
+    "Fop7DQ": {
+        "en-US": "Quit.",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
+    },
+    "F4p7DQ": {
+        "en-US": "You cannot proceed with this quest due to insufficient level.",
+        "pt-BR": "Você não tem nível suficiente para essa missão.",
+        "es-ES": "No puedes realizar este encargo porque tu nivel es insuficiente."
+    },
+    "GIp7DQ": {
+        "en-US": "This quest is currently in progress.",
+        "pt-BR": "Esta missão já está em andamento.",
+        "es-ES": "Este encargo está en curso."
+    },
+    "GYp7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Payon South Field\nTarget: Defeat Willow 5, Collect 3 Barren Trunk\nReward: Exp 800, Jexp 800",
+        "pt-BR": "[Missão Completa]\nLocal: Sul de Payon\nObjetivo: Caçar 5 Salgueiros e coletar 3 Troncos Estéreis.\nRecompensa: EXP base 800, EXP classe 800",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al sur de Payon\nObjetivo: Sauce 5 eliminados, Tronco seco 3 recolectados\nRecompensa: Exp 800, Jexp 800"
+    },
+    "Gop7DQ": {
+        "en-US": "This quest has already been completed.",
+        "pt-BR": "Essa missão já foi completada.",
+        "es-ES": "Ya realizaste este encargo."
+    },
+    "G4p7DQ": {
+        "en-US": "[Payon Anxious Middle-Aged Man's Request]\nLocation: Payon South Field\nObjective: Defeat Willow 5, Collect Barren Trunk 3\nReward: Exp 800, Jexp 800",
+        "pt-BR": "[Solicitação]\nLocal: Sul de Payon\nObjetivo: Caçar 5 Salgueiros e coletar 3x Tronco Estéril.\nRecompensa: EXP base 800, EXP classe 800",
+        "es-ES": "[Encargo del hombre de mediana edad ansioso de Payon]\nUbicación: Campo al sur de Payon\nObjetivo: Sauce 5 eliminados, Tronco seco 3 recolectados\nRecompensa: Exp 800, Jexp 800"
+    },
+    "HIp7DQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar missão.",
+        "es-ES": "Aceptar."
+    },
+    "HYp7DQ": {
+        "en-US": "View another.",
+        "pt-BR": "Ver outras missões.",
+        "es-ES": "Ver otro."
+    },
+    "Hop7DQ": {
+        "en-US": "Payon Anxious Middle-aged Man's Request\n^4D4DFF<Sweet Labor>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Trabalho Braçal]^000000 foi aceita.",
+        "es-ES": "Encargo del hombre de mediana edad ansioso de Payon\nAceptaste la misión ^4D4DFF<Trabajo dulce como la miel>^000000."
+    },
+    "H4p7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Payon East Field\nTarget: Defeat Boa 5\nReward: Exp 1600, Jexp 1400",
+        "pt-BR": "[Missão Completa]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Jiboias\nRecompensa: EXP base 1.600, EXP classe 1.400",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al este de Payon\nObjetivo: Boa 5 eliminadas\nRecompensa: Exp 1600, Jexp 1400"
+    },
+    "IIp7DQ": {
+        "en-US": "[Payon Worried Young Lady's Request]\nLocation: Payon East Field\nTarget: Defeat Boa 5\nReward: Exp 1600, Jexp 1400",
+        "pt-BR": "[Solicitação]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Jiboias\nRecompensa: EXP base 1.600, EXP classe 1.400",
+        "es-ES": "[Encargo de la joven preocupada de Payon]\nUbicación: Campo al este de Payon\nObjetivo: Boa 5 eliminadas\nRecompensa: Exp 1600, Jexp 1400"
+    },
+    "IYp7DQ": {
+        "en-US": "Payon Worried Young Lady's Request\n^4D4DFF<Pro Snake Hunter>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Medo de Cobras]^000000 foi aceita.",
+        "es-ES": "Encargo de la joven preocupada de Payon\nAceptaste la misión ^4D4DFF<Cazador profesional de serpientes>^000000."
+    },
+    "Iop7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Payon East Field\nTarget: Defeat Wormtail 5\nReward: Exp 1600, Jexp 1400",
+        "pt-BR": "[Missão Completa]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Rabo-de-Verme\nRecompensa: EXP base 1.600, EXP classe 1.400",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al este de Payon\nObjetivo: Wormtail 5 eliminados\nRecompensa: Exp 1600, Jexp 1400"
+    },
+    "I4p7DQ": {
+        "en-US": "[Payon Worried Old Lady's Request]\nLocation: Payon East Field\nTarget: Defeat Wormtail 5\nReward: Exp 1600, Jexp 1400",
+        "pt-BR": "[Solicitação]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Rabo-de-Verme\nRecompensa: EXP base 1.600, EXP classe 1.400",
+        "es-ES": "[Encargo de la anciana preocupada de Payon]\nUbicación: Campo al este de Payon\nObjetivo: Wormtail 5 eliminados\nRecompensa: Exp 1600, Jexp 1400"
+    },
+    "JIp7DQ": {
+        "en-US": "Payon Worried Old Lady's Request\n^4D4DFF<That Is a Harmful Onion.>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Não é uma Cebola]^000000 foi aceita.",
+        "es-ES": "Encargo de la anciana preocupada de Payon\nAceptaste la misión ^4D4DFF<Esa cebolla es perjudicial.>^000000."
+    },
+    "JYp7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Payon East Field\nTarget: Defeat Spore 10\nReward: Exp 3000, Jexp 2000",
+        "pt-BR": "[Missão Completa]\nLocal: Leste de Payon\nObjetivo: Caçar 10 Esporos\nRecompensa: EXP base 3.000, EXP classe 2.000",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al este de Payon\nObjetivo: Spore 10 eliminados\nRecompensa: Exp 3000, Jexp 2000"
+    },
+    "Jop7DQ": {
+        "en-US": "[Payon Worried Old Man's Request]\nLocation: Payon East Field\nTarget: Defeat Spore 10\nReward: Exp 3000, Jexp 2000",
+        "pt-BR": "[Solicitação]\nLocal: Leste de Payon\nObjetivo: Caçar 10 Esporos\nRecompensa: EXP base 3.000, EXP classe 2.000",
+        "es-ES": "[Encargo del anciano preocupado de Payon]\nUbicación: Campo al este de Payon\nObjetivo: Spore 10 eliminados\nRecompensa: Exp 3000, Jexp 2000"
+    },
+    "J4p7DQ": {
+        "en-US": "Payon Worried Old Man's Request\n^4D4DFF<Before It Becomes a Mushroom Field.>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Cogumelos Estranhos]^000000 foi aceita.",
+        "es-ES": "Encargo del anciano preocupado de Payon\nAceptaste la misión ^4D4DFF<Antes de que todo se llene de hongos.>^000000."
+    },
+    "KIp7DQ": {
+        "en-US": "Quit,",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar,"
+    },
+    "KYp7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Prontera West Field\nTarget: Defeat Hornet 10\nReward: Exp 1200, Jexp 1000",
+        "pt-BR": "[Missão Completa]\nLocal: Oeste de Prontera\nObjetivo: Caçar 10 Zangões\nRecompensa: EXP base 1.200, EXP classe 1.000",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al oeste de Prontera\nObjetivo: Avispón 10 eliminados\nRecompensa: Exp 1200, Jexp 1000"
+    },
+    "Kop7DQ": {
+        "en-US": "[Paul's Request Outside Prontera West Gate]\nLocation: Prontera West Field\nTarget: Defeat Hornet 10\nReward: Exp 1200, Jexp 1000",
+        "pt-BR": "[Solicitação]\nLocal: Oeste de Prontera\nObjetivo: Caçar 10 Zangões\nRecompensa: EXP base 1.200, EXP classe 1.000",
+        "es-ES": "[Encargo de Paul, fuera de la puerta oeste de Prontera]\nUbicación: Campo al oeste de Prontera\nObjetivo: Avispón 10 eliminados\nRecompensa: Exp 1200, Jexp 1000"
+    },
+    "K4p7DQ": {
+        "en-US": "Paul's Request Outside Prontera West Gate\n^4D4DFF<Playground Stabilization Operation-Hornet>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Salvando o Parquinho]^000000 foi aceita.",
+        "es-ES": "Encargo de Paul, fuera de la puerta oeste de Prontera\nAceptaste la misión ^4D4DFF<Operación de estabilización del área de juegos-Avispón>^000000."
+    },
+    "LIp7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Prontera Southwest Field\nTarget: Defeat Rocker 10\nReward: Exp 1600, Jexp 1400",
+        "pt-BR": "[Missão Completa]\nLocal: Sudoeste de Prontera\nObjetivo: Caçar 10 Rockers\nRecompensa: EXP base 1.600, EXP classe 1.400",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al suroeste de Prontera\nObjetivo: Rockero 10 eliminados\nRecompensa: Exp 1600, Jexp 1400"
+    },
+    "LYp7DQ": {
+        "en-US": "[Paul's Request Outside Prontera West Gate]\nLocation: Prontera Southwest Field\nObjective: Defeat Rocker 10\nReward: Exp 1600, Jexp 1400",
+        "pt-BR": "[Solicitação]\nLocal: Sudoeste de Prontera\nObjetivo: Caçar 10 Rockers\nRecompensa: EXP base 1.600, EXP classe 1.400",
+        "es-ES": "[Encargo de Paul, fuera de la puerta oeste de Prontera]\nUbicación: Campo al suroeste de Prontera\nObjetivo: Rockero 10 eliminados\nRecompensa: Exp 1600, Jexp 1400"
+    },
+    "Lop7DQ": {
+        "en-US": "Paul's Request Outside Prontera West Gate\n^4D4DFF<Playground Stabilization Operation - Rocker>^000000 Quest accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Insetos Musicais]^000000 foi aceita.",
+        "es-ES": "Encargo de Paul, fuera de la puerta oeste de Prontera\nAceptaste la misión ^4D4DFF<Operación de estabilización del área de juegos-Rockero>^000000."
+    },
+    "L4p7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Prontera Southwest Field\nTarget: Defeat Ambernite 10\nReward: Exp 2000, Jexp 2000",
+        "pt-BR": "[Missão Completa]\nLocal: Noroeste de Prontera\nObjetivo: Caçar 10 Ambernites\nRecompensa: EXP base 2.000, EXP classe 2.000",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al oeste-oeste de Prontera\nObjetivo: Ambarnito 10 eliminados\nRecompensa: Exp 2000, Jexp 2000"
+    },
+    "MIp7DQ": {
+        "en-US": "[Anne's Request Outside Prontera West Gate]\nLocation: Prontera Southwest Field\nTarget: Defeat Ambernite 10\nReward: Exp 2000, Jexp 2000",
+        "pt-BR": "[Solicitação]\nLocal: Noroeste de Prontera\nObjetivo: Caçar 10 Ambernites\nRecompensa: EXP base 2.000, EXP classe 2.000",
+        "es-ES": "[Encargo de Anne, fuera de la puerta oeste de Prontera]\nUbicación: Campo al oeste-oeste de Prontera\nObjetivo: Ambarnito 10 eliminados\nRecompensa: Exp 2000, Jexp 2000"
+    },
+    "MYp7DQ": {
+        "en-US": "Anne's Request Outside Prontera West Gate\n^4D4DFF<Legendary Knight, Ambernite>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Problema Pegajoso]^000000 foi aceita.",
+        "es-ES": "Encargo de Anne, fuera de la puerta oeste de Prontera\nAceptaste la misión ^4D4DFF<El caballero legendario, Ambarnito>^000000."
+    },
+    "Mop7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Payon Dungeon 1st Floor\nTarget: Defeat Zombie 10, Skeleton 20\nReward: Exp 3200, Jexp 3000",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna de Payon\nObjetivo: Caçar 10 Zumbis e 20 Esqueletos\nRecompensa: EXP base 3.200, EXP classe 3.000",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Payon, piso 1\nObjetivo: Zombi 10, Esqueleto 20 eliminados\nRecompensa: Exp 3200, Jexp 3000"
+    },
+    "M4p7DQ": {
+        "en-US": "[Guard's Request in Front of Payon Dungeon Entrance]\nLocation: Payon Dungeon 1st Floor\nTarget: Defeat Zombie 10, Skeleton 20\nReward: Exp 3200, Jexp 3000",
+        "pt-BR": "[Solicitação]\nLocal: Caverna de Payon\nObjetivo: Caçar 10 Zumbis e 20 Esqueletos\nRecompensa: EXP base 3.200, EXP classe 3.000",
+        "es-ES": "[Encargo del guardia frente a la entrada del Calabozo de Payon]\nUbicación: Calabozo de Payon, piso 1\nObjetivo: Zombi 10, Esqueleto 20 eliminados\nRecompensa: Exp 3200, Jexp 3000"
+    },
+    "NIp7DQ": {
+        "en-US": "Guard's Request in Front of Payon Dungeon Entrance\n^4D4DFF<Undead War>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Guerra aos Mortos]^000000 foi aceita.",
+        "es-ES": "Encargo del guardia frente a la entrada del Calabozo de Payon\nAceptaste la misión ^4D4DFF<Guerra de los no muertos>^000000."
+    },
+    "NYp7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Izlude Southwest Field\nTarget: Defeat Muka 10, Peco Peco 10\nReward: Exp 4800, Jexp 4200",
+        "pt-BR": "[Missão Completa]\nLocal: Sul de Izlude\nObjetivo: Caçar 10 Mukas e 10 PecoPecos\nRecompensa: EXP base 4.800, EXP classe 4.200",
+        "es-ES": "[Encargo completado]\nUbicación: Campo al suroeste de Izlude\nObjetivo: Muka 10, Peco Peco 10 eliminados\nRecompensa: Exp 4800, Jexp 4200"
+    },
+    "Nop7DQ": {
+        "en-US": "[Instructor Pontes' Request in Izlude]\nLocation: Izlude Southwest Field\nTarget: Defeat Muka 10, Peco Peco 10\nReward: Exp 4800, Jexp 4200",
+        "pt-BR": "[Solicitação]\nLocal: Sul de Izlude\nObjetivo: Caçar 10 Mukas e 10 PecoPecos\nRecompensa: EXP base 4.800, EXP classe 4.200",
+        "es-ES": "[Encargo del instructor Pontes de Izlude]\nUbicación: Campo al suroeste de Izlude\nObjetivo: Muka 10, Peco Peco 10 eliminados\nRecompensa: Exp 4800, Jexp 4200"
+    },
+    "N4p7DQ": {
+        "en-US": "Instructor Pontes' Request in Izlude\n^4D4DFF<Noisy Guys>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Bichos Barulhentos]^000000 foi aceita.",
+        "es-ES": "Encargo del instructor Pontes de Izlude\nAceptaste la misión ^4D4DFF<Los escandalosos>^000000."
+    },
+    "OIp7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Comodo Dungeon\nTarget: Defeat Thara Frog 10, Collect 10 Sticky Webfoot\nReward: Exp 5500, Jexp 5500",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Sapos de Thara e coletar 10 Patas Pegajosas\nRecompensa: EXP base 5.500, EXP classe 5.500",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Comodo\nObjetivo: Rana Thara 10 eliminadas, Pata pegajosa 10 recolectadas\nRecompensa: Exp 5500, Jexp 5500"
+    },
+    "OYp7DQ": {
+        "en-US": "[Comodo Chef Barbie Q's Request]\nLocation: Comodo Dungeon\nTarget: Defeat Thara Frog 10, Collect 10 Sticky Webfoot\nReward: Exp 5500, Jexp 5500",
+        "pt-BR": "[Solicitação]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Sapos de Thara e coletar 10 Patas Pegajosas\nRecompensa: EXP base 5.500, EXP classe 5.500",
+        "es-ES": "[Encargo del cocinero Bobby Q de Comodo]\nUbicación: Calabozo de Comodo\nObjetivo: Rana Thara 10 eliminadas, Pata pegajosa 10 recolectadas\nRecompensa: Exp 5500, Jexp 5500"
+    },
+    "Oop7DQ": {
+        "en-US": "Comodo Chef Barbie Q's Request\n^4D4DFF<Barbie Q's Cooking Hell>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Churrasco Ruim]^000000 foi aceita.",
+        "es-ES": "Encargo del cocinero Bobby Q de Comodo\nAceptaste la misión ^4D4DFF<El infierno culinario de Bobby Q>^000000."
+    },
+    "O4p7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Comodo Dungeon\nTarget: Defeat Hydra 10, Collect 5 Tentacle\nReward: Exp 5500, Jexp 5500",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Hidras e coletar 5 Tentáculos\nRecompensa: EXP base 5.500, EXP classe 5.500",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Comodo\nObjetivo: Hidra 10 eliminadas, Tentáculo 5 recolectados\nRecompensa: Exp 5500, Jexp 5500"
+    },
+    "PIp7DQ": {
+        "en-US": "[Comodo Bunny Q's Request]\nLocation: Comodo Dungeon\nTarget: Defeat Hydra 10, Collect 5 Tentacle\nReward: Exp 5500, Jexp 5500",
+        "pt-BR": "[Solicitação]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Hidras e coletar 5 Tentáculos\nRecompensa: EXP base 5.500, EXP classe 5.500",
+        "es-ES": "[Encargo de Bunny Q de Comodo]\nUbicación: Calabozo de Comodo\nObjetivo: Hidra 10 eliminadas, Tentáculo 5 recolectados\nRecompensa: Exp 5500, Jexp 5500"
+    },
+    "PYp7DQ": {
+        "en-US": "Comodo Bunny Q's Request\n^4D4DFF<Silky Skin Bunny Q>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Tratamento de Pele]^000000 foi aceita.",
+        "es-ES": "Encargo de Bunny Q de Comodo\nAceptaste la misión ^4D4DFF<Bunny Q de piel suave como la miel>^000000."
+    },
+    "Pop7DQ": {
+        "en-US": "[Quest Complete]\nLocation: Comodo Dungeon\nTarget: Defeat Megalodon 10\nReward: Exp 5500, Jexp 5500",
+        "pt-BR": "[Missão Completa]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Megalodon\nRecompensa: EXP base 5.500, EXP classe 5.500",
+        "es-ES": "[Encargo completado]\nUbicación: Calabozo de Comodo\nObjetivo: Megalodón 10 eliminados\nRecompensa: Exp 5500, Jexp 5500"
+    },
+    "P4p7DQ": {
+        "en-US": "[Comodo Village Chief's Request]\nLocation: Comodo Dungeon\nTarget: Defeat Megalodon 10\nReward: Exp 5500, Jexp 5500",
+        "pt-BR": "[Solicitação]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Megalodon\nRecompensa: EXP base 5.500, EXP classe 5.500",
+        "es-ES": "[Encargo del jefe de la aldea de Comodo de Comodo]\nUbicación: Calabozo de Comodo\nObjetivo: Megalodón 10 eliminados\nRecompensa: Exp 5500, Jexp 5500"
+    },
+    "QIp7DQ": {
+        "en-US": "Comodo Village Chief's Request\n^4D4DFF<Que Sera Sera Co Sera Sera>^000000 quest has been accepted.",
+        "pt-BR": "[Solicitação]\n^4D4DFF[Tempero Korasera]^000000 foi aceita.",
+        "es-ES": "Encargo del jefe de la aldea de Comodo de Comodo\nAceptaste la misión ^4D4DFF<Que será, será, cose será, será>^000000."
+    }
+}

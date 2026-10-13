@@ -1,0 +1,2232 @@
+{
+    "gFnmDQ": {
+        "en-US": "Eden Group Instructor Ur",
+        "pt-BR": "Instrutor Ur",
+        "es-ES": "Instructor Ur del Grupo del Edén"
+    },
+    "gVnmDQ": {
+        "en-US": "Hey, rookie! Need some equipment?",
+        "pt-BR": "Ei! Precisa de equipamentos?",
+        "es-ES": "¡Eh, principiante! ¿Necesitas equipo?"
+    },
+    "glnmDQ": {
+        "en-US": "You there, looking around! Are you looking for me?",
+        "pt-BR": "Ei, você! Está me procurando?",
+        "es-ES": "¡Eh, tú, que miras por todas partes! ¿Me buscas?"
+    },
+    "g1nmDQ": {
+        "en-US": "Hey, veteran! Here for stronger equipment, right?",
+        "pt-BR": "Que tal equipamentos mais fortes?",
+        "es-ES": "¡Eh, veterano! Vienes por equipo más potente, ¿verdad?"
+    },
+    "hFnmDQ": {
+        "en-US": "[Instructor Ur]\nGood heavens! You're still not one of our members?\nWhy not join the Eden Group while you're here?",
+        "pt-BR": "[Instrutor Ur]\nMinha nossa! Você ainda não faz parte do nosso grupo?\nQue tal aproveitar e entrar no Grupo do Éden?",
+        "es-ES": "[Instructor Ur]\n¡Cielos! ¿Todavía no eres miembro de nuestro grupo?\n¿Por qué no aprovechas y te unes al Grupo del Edén?"
+    },
+    "hVnmDQ": {
+        "en-US": "[Instructor Ur]\nThe Eden Group offers all sorts of benefits, starting with basic equipment.\nWe also arrange missions suited to each adventurer's level.",
+        "pt-BR": "[Instrutor Ur]\nO Grupo do Éden oferece vários benefícios, começando por equipamentos básicos.\nTambém oferecemos missões adequadas ao nível de cada aventureiro.",
+        "es-ES": "[Instructor Ur]\nEl Grupo del Edén ofrece muchas ventajas, empezando por equipo básico.\nTambién ofrecemos misiones adecuadas al nivel de cada aventurero."
+    },
+    "hlnmDQ": {
+        "en-US": "[Instructor Ur]\nIf you're interested, talk to <NAVI>[Lime]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> beside me.",
+        "pt-BR": "[Instrutor Ur]\nSe tiver interesse, fale com <NAVI>[Lenore]<INFO>moc_para01,27,31,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Instructor Ur]\nSi te interesa, habla con <NAVI>[Lime]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI>, aquí al lado."
+    },
+    "h1nmDQ": {
+        "en-US": "[Instructor Ur]\nLet's see... Oh my!\nYou're practically fresh out of the egg!",
+        "pt-BR": "[Instrutor Ur]\nDeixe eu ver... Nossa!\nVocê acabou de sair do ovo!",
+        "es-ES": "[Instructor Ur]\nA ver... ¡Vaya!\n¡Acabas de salir del cascarón!"
+    },
+    "iFnmDQ": {
+        "en-US": "[Instructor Ur]\nCome see me when you reach Base Level 10. I'll find some equipment a rookie can use. Got it?",
+        "pt-BR": "[Instrutor Ur]\nVolte quando alcançar o nível de base 10. Vou procurar equipamentos adequados para iniciantes. Combinado?",
+        "es-ES": "[Instructor Ur]\nVen a verme cuando alcances el nivel base 10. Te buscaré equipo adecuado para principiantes. ¿De acuerdo?"
+    },
+    "iVnmDQ": {
+        "en-US": "[Instructor Ur]\nHello, rookie!\nLooks like you need help. Let me guess: you're here for equipment?",
+        "pt-BR": "[Instrutor Ur]\nOlá, iniciante!\nParece que precisa de ajuda. Deixe eu adivinhar: veio buscar equipamentos?",
+        "es-ES": "[Instructor Ur]\n¡Hola, principiante!\nParece que necesitas ayuda. A ver si adivino: ¿vienes por equipo?"
+    },
+    "ilnmDQ": {
+        "en-US": "Yes!!! I need equipment!",
+        "pt-BR": "Sim!!! Preciso de equipamentos!",
+        "es-ES": "¡¡¡Sí!!! ¡Necesito equipo!"
+    },
+    "i1nmDQ": {
+        "en-US": "You give out equipment?",
+        "pt-BR": "Vocês dão equipamentos?",
+        "es-ES": "¿Dan equipo?"
+    },
+    "jFnmDQ": {
+        "en-US": "I'm just looking around.",
+        "pt-BR": "Só vim dar uma olhada.",
+        "es-ES": "Solo estoy mirando."
+    },
+    "jVnmDQ": {
+        "en-US": "[Instructor Ur]\nHahaha! I knew it!",
+        "pt-BR": "[Instrutor Ur]\nHahaha! Eu sabia!",
+        "es-ES": "[Instructor Ur]\n¡Ja, ja, ja! ¡Lo sabía!"
+    },
+    "jlnmDQ": {
+        "en-US": "[Instructor Ur]\nOf course! You know the Eden Group arranges all sorts of missions, right?\nThe more missions our visiting adventurers complete, the better it is for us too. See what I mean?",
+        "pt-BR": "[Instrutor Ur]\nClaro! Você sabe que o Grupo do Éden oferece todo tipo de missão, não é?\nQuanto mais missões os aventureiros que nos visitam completam, melhor para nós também. Entendeu?",
+        "es-ES": "[Instructor Ur]\n¡Claro! Sabes que el Grupo del Edén ofrece todo tipo de misiones, ¿verdad?\nCuantas más misiones completen los aventureros que nos visitan, mejor nos irá a nosotros también. ¿Entiendes?"
+    },
+    "j1nmDQ": {
+        "en-US": "[Instructor Ur]\nThat's why we offer various benefits to adventurers who join the Eden Group. Equipment support is part of that.",
+        "pt-BR": "[Instrutor Ur]\nPor isso oferecemos vários benefícios aos aventureiros que entram no Grupo do Éden. O fornecimento de equipamentos faz parte disso.",
+        "es-ES": "[Instructor Ur]\nPor eso ofrecemos diversas ventajas a los aventureros que se unen al Grupo del Edén. El suministro de equipo forma parte de ellas."
+    },
+    "kFnmDQ": {
+        "en-US": "[Instructor Ur]\nDidn't you feel lost, stepping into this huge world with practically nothing? We've been there ourselves, so we know how you feel.",
+        "pt-BR": "[Instrutor Ur]\nVocê não se sentiu perdido ao chegar a este mundo enorme praticamente sem nada? Nós já passamos por isso, então sabemos como é.",
+        "es-ES": "[Instructor Ur]\n¿No te sentiste perdido al llegar a este mundo enorme sin casi nada? Nosotros también pasamos por eso, así que te entendemos."
+    },
+    "kVnmDQ": {
+        "en-US": "I'd like some equipment too!",
+        "pt-BR": "Eu também quero equipamentos!",
+        "es-ES": "¡Yo también quiero equipo!"
+    },
+    "klnmDQ": {
+        "en-US": "Oh, I see.",
+        "pt-BR": "Ah, entendi...",
+        "es-ES": "Ah, ya veo."
+    },
+    "k1nmDQ": {
+        "en-US": "[Instructor Ur]\nHahaha! Now that's the kind of enthusiasm I like!",
+        "pt-BR": "[Instrutor Ur]\nHahaha! É desse entusiasmo que eu gosto!",
+        "es-ES": "[Instructor Ur]\n¡Ja, ja, ja! ¡Ese es el entusiasmo que me gusta!"
+    },
+    "lFnmDQ": {
+        "en-US": "[Instructor Ur]\nI guess that didn't really interest you.\nIf you ever need equipment, come see me. We've got plenty of useful gear.",
+        "pt-BR": "[Instrutor Ur]\nParece que isso não chamou muito a sua atenção.\nSe precisar de equipamentos depois, venha me ver. Temos muita coisa útil.",
+        "es-ES": "[Instructor Ur]\nParece que eso no te interesó demasiado.\nSi alguna vez necesitas equipo, ven a verme. Tenemos muchas cosas útiles."
+    },
+    "lVnmDQ": {
+        "en-US": "[Instructor Ur]\nReally? My mistake. Have a look around, then. There are plenty of friendly people here.\nCheck the mission boards if you have time. Come see me whenever you need equipment.",
+        "pt-BR": "[Instrutor Ur]\nÉ mesmo? Me enganei. Então fique à vontade para olhar. Tem muita gente animada por aqui.\nSe tiver tempo, confira os quadros de missões. Venha me ver sempre que precisar de equipamentos.",
+        "es-ES": "[Instructor Ur]\n¿De verdad? Me equivoqué. Echa un vistazo, entonces. Hay mucha gente simpática por aquí.\nSi tienes tiempo, revisa los tablones de misiones. Ven a verme cuando necesites equipo."
+    },
+    "llnmDQ": {
+        "en-US": "[Instructor Ur]\nBack again, rookie?",
+        "pt-BR": "[Instrutor Ur]\nVoltou, iniciante?",
+        "es-ES": "[Instructor Ur]\n¿Has vuelto, principiante?"
+    },
+    "l1nmDQ": {
+        "en-US": "[Instructor Ur]\nHello! Looks like you need help. Let me guess: you're here for equipment?",
+        "pt-BR": "[Instrutor Ur]\nOlá! Parece que precisa de ajuda. Deixe eu adivinhar: veio buscar equipamentos?",
+        "es-ES": "[Instructor Ur]\n¡Hola! Parece que necesitas ayuda. A ver si adivino: ¿vienes por equipo?"
+    },
+    "mFnmDQ": {
+        "en-US": "[Instructor Ur]\nHahaha! I knew it!\nPerfect timing. You can now get intermediate weapons as well as basic armor.",
+        "pt-BR": "[Instrutor Ur]\nHahaha! Eu sabia!\nChegou na hora certa. Agora você pode receber armas intermediárias além das armaduras básicas.",
+        "es-ES": "[Instructor Ur]\n¡Ja, ja, ja! ¡Lo sabía!\nLlegas justo a tiempo. Ahora puedes recibir armas intermedias además de armaduras básicas."
+    },
+    "mVnmDQ": {
+        "en-US": "[Instructor Ur]\nReally? My mistake. Have a look around, then. There are plenty of friendly people here.\nCheck the mission boards if you have time. Come see me whenever you need equipment.",
+        "pt-BR": "[Instrutor Ur]\nÉ mesmo? Me enganei. Então fique à vontade para olhar. Tem muita gente animada por aqui.\nSe tiver tempo, confira os quadros de missões. Venha me ver sempre que precisar de equipamentos.",
+        "es-ES": "[Instructor Ur]\n¿De verdad? Me equivoqué. Echa un vistazo, entonces. Hay mucha gente simpática por aquí.\nSi tienes tiempo, revisa los tablones de misiones. Ven a verme cuando necesites equipo."
+    },
+    "mlnmDQ": {
+        "en-US": "[Instructor Ur]\nBack again, rookie?\nYou're already past level 45. I can hardly call you a rookie anymore! If you want a weapon suited to your level, talk to Michael.",
+        "pt-BR": "[Instrutor Ur]\nVoltou, iniciante?\nJá passou do nível 45. Nem dá mais para chamar você de iniciante! Se quiser uma arma adequada ao seu nível, fale com Michael.",
+        "es-ES": "[Instructor Ur]\n¿Has vuelto, principiante?\nYa pasaste del nivel 45. ¡Casi no puedo seguir llamándote principiante! Si buscas un arma adecuada a tu nivel, habla con Michael."
+    },
+    "m1nmDQ": {
+        "en-US": "[Instructor Ur]\nHello, my impressive friend! Here for my help, right?",
+        "pt-BR": "[Instrutor Ur]\nOlá, coleguinha! Veio pedir minha ajuda, não é?",
+        "es-ES": "[Instructor Ur]\n¡Hola, gran aventurero! Vienes por mi ayuda, ¿verdad?"
+    },
+    "nFnmDQ": {
+        "en-US": "Do you have any better equipment?",
+        "pt-BR": "Vocês têm equipamentos melhores?",
+        "es-ES": "¿Tienen equipo mejor?"
+    },
+    "nVnmDQ": {
+        "en-US": "I just stopped by.",
+        "pt-BR": "Só passei por aqui.",
+        "es-ES": "Solo pasaba por aquí."
+    },
+    "nlnmDQ": {
+        "en-US": "[Instructor Ur]\nI like people who take the initiative and ask for help when they need it.\nYou've come to the right place. Better equipment? Of course we have it.",
+        "pt-BR": "[Instrutor Ur]\nGosto de gente que toma a iniciativa e pede ajuda quando precisa.\nVeio ao lugar certo. Equipamentos melhores? Claro que temos.",
+        "es-ES": "[Instructor Ur]\nMe gusta la gente que toma la iniciativa y pide ayuda cuando la necesita.\nLlegas al lugar indicado. ¿Equipo mejor? Claro que lo tenemos."
+    },
+    "n1nmDQ": {
+        "en-US": "[Instructor Ur]\nReally? This place is starting to feel like a second home, isn't it?\nMake yourself comfortable. Come see me if you need anything. New equipment, for example. Got it?",
+        "pt-BR": "[Instrutor Ur]\nÉ mesmo? Aqui já está parecendo uma segunda casa, não é?\nFique à vontade. Se precisar de ajuda, me procure. De equipamentos novos, por exemplo. Combinado?",
+        "es-ES": "[Instructor Ur]\n¿De verdad? Este lugar ya parece un segundo hogar, ¿no?\nPonte cómodo. Si necesitas ayuda, ven a verme. Por ejemplo, si necesitas equipo nuevo. ¿De acuerdo?"
+    },
+    "oFnmDQ": {
+        "en-US": "[Instructor Ur]\nHello! Having a good day?",
+        "pt-BR": "[Instrutor Ur]\nOlá! Está tendo um bom dia?",
+        "es-ES": "[Instructor Ur]\n¡Hola! ¿Qué tal va el día?"
+    },
+    "oVnmDQ": {
+        "en-US": "[Instructor Ur]\nHave you visited the Eden Group armory? You should meet the people who will keep you supplied with equipment.\nThey're all in the armory, so go say hello.",
+        "pt-BR": "[Instrutor Ur]\nJá visitou o arsenal do Grupo do Éden? Seria bom conhecer quem vai fornecer seus equipamentos daqui para frente.\nEstão todos no arsenal. Vá cumprimentá-los.",
+        "es-ES": "[Instructor Ur]\n¿Ya visitaste la armería del Grupo del Edén? Deberías conocer a quienes te suministrarán equipo de ahora en adelante.\nEstán todos en la armería. Ve a saludarlos."
+    },
+    "olnmDQ": {
+        "en-US": "[Instructor Ur]\nFirst, meet <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>, the quartermaster in charge of armor. He's the eldest, after all.\nOff you go.",
+        "pt-BR": "[Instrutor Ur]\nPrimeiro, vá conhecer <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>, o responsável pelas armaduras. Afinal, ele é o mais velho.\nPode ir.",
+        "es-ES": "[Instructor Ur]\nPrimero, ve a conocer a <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>, el encargado de las armaduras. Al fin y al cabo, es el mayor.\nAnda, ve."
+    },
+    "o1nmDQ": {
+        "en-US": "[Instructor Ur]\nHaven't introduced yourself yet? Did you forget who to meet first?",
+        "pt-BR": "[Instrutor Ur]\nAinda não foi se apresentar? Esqueceu quem deve conhecer primeiro?",
+        "es-ES": "[Instructor Ur]\n¿Todavía no te presentaste? ¿Olvidaste a quién debes conocer primero?"
+    },
+    "pFnmDQ": {
+        "en-US": "[Instructor Ur]\nSo you've met Thorn?\nNext, go introduce yourself to <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>, who handles weapons.",
+        "pt-BR": "[Instrutor Ur]\nJá conheceu Thorn?\nAgora vá se apresentar a <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>, que cuida das armas.",
+        "es-ES": "[Instructor Ur]\n¿Ya conociste a Thorn?\nAhora ve a presentarte ante <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>, que se encarga de las armas."
+    },
+    "pVnmDQ": {
+        "en-US": "[Instructor Ur]\nHave you met Michael? Then it's time to meet <NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI>, who handles basic equipment.\nBK will give you the basic gear you need. Off you go!",
+        "pt-BR": "[Instrutor Ur]\nJá conheceu Michael? Então é hora de conhecer <NAVI>[BK]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>, que cuida dos equipamentos básicos.\nBK vai entregar os equipamentos básicos de que você precisa. Pode ir!",
+        "es-ES": "[Instructor Ur]\n¿Ya conociste a Michael? Entonces te toca conocer a <NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI>, que se encarga del equipo básico.\nBK te dará el equipo básico que necesitas. ¡Anda, ve!"
+    },
+    "plnmDQ": {
+        "en-US": "[Instructor Ur]\nHave you met everyone in charge of equipment? Feels reassuring, doesn't it?",
+        "pt-BR": "[Instrutor Ur]\nJá conheceu todos os responsáveis pelos equipamentos? Dá uma sensação de segurança, não dá?",
+        "es-ES": "[Instructor Ur]\n¿Ya conociste a todos los encargados del equipo? Da tranquilidad, ¿verdad?"
+    },
+    "p1nmDQ": {
+        "en-US": "[Instructor Ur]\nCome see me anytime you need help.",
+        "pt-BR": "[Instrutor Ur]\nSempre que precisar de ajuda, venha me ver.",
+        "es-ES": "[Instructor Ur]\nVen a verme cuando necesites ayuda."
+    },
+    "qFnmDQ": {
+        "en-US": "[Instructor Ur]\nOh! If you want gear you can wear in addition to your basic equipment, talk to Boya beside me. Now, goodbye for real!",
+        "pt-BR": "[Instrutor Ur]\nAh! Se quiser equipamentos para usar além dos básicos, fale com Boya aqui ao lado. Agora sim, até mais!",
+        "es-ES": "[Instructor Ur]\n¡Ah! Si quieres equipo que puedas usar además del básico, habla con Boya, aquí al lado. ¡Ahora sí, adiós!"
+    },
+    "qVnmDQ": {
+        "en-US": "[Instructor Ur]\nHave you talked to Boya about Shadow equipment? What's Shadow equipment, you ask? Ask Boya that too.",
+        "pt-BR": "[Instrutor Ur]\nJá conversou com Boya sobre equipamentos sombrios? Quer saber o que são? Pergunte isso a Boya também.",
+        "es-ES": "[Instructor Ur]\n¿Ya hablaste con Boya sobre el equipo sombrío? ¿Quieres saber qué es? Pregúntaselo también a Boya."
+    },
+    "qlnmDQ": {
+        "en-US": "[Instructor Ur]\nNeed more equipment? If you lost what we gave you, go back to the armory.\n<NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI> will give you replacements.",
+        "pt-BR": "[Instrutor Ur]\nPrecisa de mais equipamentos? Se perdeu os que recebeu, volte ao arsenal.\nO responsável por eles é o <NAVI>[BK]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Instructor Ur]\n¿Necesitas más equipo? Si perdiste el que recibiste, vuelve a la armería.\n<NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI> te dará otro."
+    },
+    "q1nmDQ": {
+        "en-US": "[Instructor Ur]\nIf you need an intermediate weapon, go see <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Instrutor Ur]\nSe precisar de uma arma intermediária, procure <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Instructor Ur]\nSi necesitas un arma intermedia, ve a ver a <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>."
+    },
+    "rFnmDQ": {
+        "en-US": "[Instructor Ur]\nUm... What brings you to me, then?",
+        "pt-BR": "[Instrutor Ur]\nAh... Então, o que trouxe você até mim?",
+        "es-ES": "[Instructor Ur]\nEh... Entonces, ¿qué te trae por aquí?"
+    },
+    "rVnmDQ": {
+        "en-US": "[Instructor Ur]\nThere's one simple thing you need to do to receive better equipment.",
+        "pt-BR": "[Instrutor Ur]\nHá uma tarefa simples que você precisa fazer para receber equipamentos melhores.",
+        "es-ES": "[Instructor Ur]\nHay una tarea sencilla que debes hacer para recibir equipo mejor."
+    },
+    "rlnmDQ": {
+        "en-US": "[Instructor Ur]\n'Gather the materials for the equipment you'll be using yourself.'\nYou understand, right?",
+        "pt-BR": "[Instrutor Ur]\n'Busque os materiais dos equipamentos que você vai usar.'\nEntendeu, não é?",
+        "es-ES": "[Instructor Ur]\n'Consigue los materiales del equipo que vas a usar.'\n¿Entendido?"
+    },
+    "r1nmDQ": {
+        "en-US": "[Instructor Ur]\nBring ^0000CD15 Elastic Bands and 3 Kobold Hairs^000000 to <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Instrutor Ur]\nLeve ^0000CD15 Elásticos e 3 Cabelos Azuis^000000 para <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Instructor Ur]\nLleva ^0000CD15 Bandas Elásticas y 3 Pelos de Kobold^000000 a <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>."
+    },
+    "sFnmDQ": {
+        "en-US": "[Instructor Ur]\nLet's see... ^0000CD15 Old Picks^000000. Bring those to <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Instrutor Ur]\nDeixe eu ver... ^0000CD15 Picaretas Velhas^000000. Leve-as para <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Instructor Ur]\nA ver... ^0000CD15 Picos Viejos^000000. Llévaselos a <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>."
+    },
+    "sVnmDQ": {
+        "en-US": "[Instructor Ur]\nBring the right quantities and you'll get some good equipment. Off you go.",
+        "pt-BR": "[Instrutor Ur]\nTraga as quantidades certas e receberá bons equipamentos. Pode ir.",
+        "es-ES": "[Instructor Ur]\nTrae las cantidades correctas y recibirás buen equipo. Anda, ve."
+    },
+    "slnmDQ": {
+        "en-US": "[Instructor Ur]\nHave you gathered the Elastic Bands and Kobold Hairs for Thorn?",
+        "pt-BR": "[Instrutor Ur]\nJá conseguiu os Elásticos e os Cabelos Azuis para Thorn?",
+        "es-ES": "[Instructor Ur]\n¿Ya conseguiste las Bandas Elásticas y los Pelos de Kobold para Thorn?"
+    },
+    "s1nmDQ": {
+        "en-US": "[Instructor Ur]\nYou've gathered some fine materials. Nicely done! Take them to <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI> and he'll give you good armor. Go on.",
+        "pt-BR": "[Instrutor Ur]\nVocê trouxe materiais de ótima qualidade. Muito bem! Leve-os para <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>. Ele entregará boas armaduras. Pode ir.",
+        "es-ES": "[Instructor Ur]\nTrajiste materiales de buena calidad. ¡Muy bien! Llévaselos a <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI> y te dará buenas armaduras. Anda, ve."
+    },
+    "tFnmDQ": {
+        "en-US": "[Instructor Ur]\nOh... Haven't found them yet?\nJust bring ^0000CD15 Elastic Bands and 3 Kobold Hairs^000000 to Thorn. Not too hard, right?",
+        "pt-BR": "[Instrutor Ur]\nAh... Ainda não conseguiu?\nÉ só levar ^0000CD15 Elásticos e 3 Cabelos Azuis^000000 para Thorn. Não é tão difícil, não é?",
+        "es-ES": "[Instructor Ur]\nAh... ¿Todavía no los conseguiste?\nSolo lleva ^0000CD15 Bandas Elásticas y 3 Pelos de Kobold^000000 a Thorn. No es tan difícil, ¿verdad?"
+    },
+    "tVnmDQ": {
+        "en-US": "[Instructor Ur]\nHave you gathered the Old Picks for Michael?",
+        "pt-BR": "[Instrutor Ur]\nJá conseguiu as Picaretas Velhas para Michael?",
+        "es-ES": "[Instructor Ur]\n¿Ya conseguiste los Picos Viejos para Michael?"
+    },
+    "tlnmDQ": {
+        "en-US": "[Instructor Ur]\nYou brought exactly the right amount. Well done! Take them to <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>. He'll give you a good weapon.",
+        "pt-BR": "[Instrutor Ur]\nTrouxe a quantidade certinha. Muito bem! Leve tudo para <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>. Ele vai entregar uma boa arma.",
+        "es-ES": "[Instructor Ur]\nTrajiste la cantidad exacta. ¡Muy bien! Llévaselos a <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>. Te dará una buena arma."
+    },
+    "t1nmDQ": {
+        "en-US": "[Instructor Ur]\nOh... Haven't found them yet?\nJust bring ^0000CD15 Old Picks^000000 to Michael. Not too hard, right?",
+        "pt-BR": "[Instrutor Ur]\nAh... Ainda não conseguiu?\nÉ só levar ^0000CD15 Picaretas Velhas^000000 para Michael. Não é tão difícil, não é?",
+        "es-ES": "[Instructor Ur]\nAh... ¿Todavía no los conseguiste?\nSolo lleva ^0000CD15 Picos Viejos^000000 a Michael. No es tan difícil, ¿verdad?"
+    },
+    "uFnmDQ": {
+        "en-US": "[Instructor Ur]\nGetting good use out of your equipment? You haven't lost or sold it, have you?",
+        "pt-BR": "[Instrutor Ur]\nEstá aproveitando os equipamentos que recebeu? Não perdeu nem vendeu nada, não é?",
+        "es-ES": "[Instructor Ur]\n¿Estás aprovechando el equipo que recibiste? No lo habrás perdido ni vendido, ¿verdad?"
+    },
+    "uVnmDQ": {
+        "en-US": "[Instructor Ur]\nIf you have, don't worry. Go see <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> or <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>.\nThey'll replace the equipment you want in exchange for <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>.",
+        "pt-BR": "[Instrutor Ur]\nSe isso aconteceu, não se preocupe. Procure <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>\nou <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>. Eles entregarão os equipamentos que você quiser em troca de <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>.",
+        "es-ES": "[Instructor Ur]\nSi te pasó, no te preocupes. Ve a ver a <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> o a <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>.\nTe darán de nuevo el equipo que quieras a cambio de <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>."
+    },
+    "ulnmDQ": {
+        "en-US": "[Instructor Ur]\nOut of Eden Coins? See the mission boards beside me? You can earn coins from missions for level 100 and above, so take a look.",
+        "pt-BR": "[Instrutor Ur]\nEstá sem Moedas do Éden? Vê os quadros de missões aqui ao lado? Você pode ganhar moedas nas missões de nível 100 ou superior. Dê uma olhada.",
+        "es-ES": "[Instructor Ur]\n¿No tienes Monedas del Edén? ¿Ves los tablones de misiones de al lado? Puedes ganar monedas con misiones de nivel 100 o superior. Échales un vistazo."
+    },
+    "u1nmDQ": {
+        "en-US": "[Instructor Ur]\nOh... Hello? What brings you here?",
+        "pt-BR": "[Instrutor Ur]\nAh... Olá? O que trouxe você aqui?",
+        "es-ES": "[Instructor Ur]\nAh... ¿Hola? ¿Qué te trae por aquí?"
+    },
+    "vFnmDQ": {
+        "en-US": "Eden Group Instructor Boya",
+        "pt-BR": "Instrutora Boya",
+        "es-ES": "Instructora Boya del Grupo del Edén"
+    },
+    "vVnmDQ": {
+        "en-US": "You look like you need more power. Am I right?",
+        "pt-BR": "Quer mais poder?",
+        "es-ES": "Parece que necesitas más poder. ¿Me equivoco?"
+    },
+    "vlnmDQ": {
+        "en-US": "[Instructor Boya]\nWhat business does a nonmember have with me?",
+        "pt-BR": "[Instrutora Boya]\nO que alguém de fora do Grupo do Éden quer comigo?",
+        "es-ES": "[Instructora Boya]\n¿Qué quiere de mí alguien que no pertenece al Grupo del Edén?"
+    },
+    "v1nmDQ": {
+        "en-US": "[Instructor Boya]\nThen again, joining the Eden Group might give us something to discuss.\nTalk to <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> beside me about joining.",
+        "pt-BR": "[Instrutora Boya]\nPor outro lado, entrar no Grupo do Éden pode nos dar um assunto.\nInscreva-se com a <NAVI>[Lenore]<INFO>moc_para01,27,31,0,101,0,</INFO></NAVI>, aqui ao lado.",
+        "es-ES": "[Instructora Boya]\nAunque, si te unes al Grupo del Edén, quizá tengamos algo de qué hablar.\nHabla con <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI>, aquí al lado, para inscribirte."
+    },
+    "wFnmDQ": {
+        "en-US": "[Instructor Boya]\nHere for equipment? But you can barely carry a knife.\nCome back at Base Level 10. You'll be able to use something by then.",
+        "pt-BR": "[Instrutora Boya]\nVeio buscar equipamentos? Mas você mal consegue segurar uma faca.\nVolte no nível de base 10. Até lá, já poderá usar alguma coisa.",
+        "es-ES": "[Instructora Boya]\n¿Vienes por equipo? Pero apenas puedes sostener un cuchillo.\nVuelve en el nivel base 10. Para entonces podrás usar algo."
+    },
+    "wVnmDQ": {
+        "en-US": "[Instructor Boya]\nHmm... Looks like you need something stronger than basic equipment. Am I right?\nYou're not too intimidated by the crowd to speak up, are you?",
+        "pt-BR": "[Instrutora Boya]\nHm... Parece que precisa de algo mais forte que equipamentos básicos. Acertei?\nNão vai ficar intimidado com tanta gente e deixar de falar, vai?",
+        "es-ES": "[Instructora Boya]\nMmm... Parece que necesitas algo más potente que el equipo básico. ¿Me equivoco?\nNo te intimidará tanta gente como para quedarte sin hablar, ¿verdad?"
+    },
+    "wlnmDQ": {
+        "en-US": "Yes, I need equipment.",
+        "pt-BR": "Sim, preciso de equipamentos.",
+        "es-ES": "Sí, necesito equipo."
+    },
+    "w1nmDQ": {
+        "en-US": "I-I'm just looking around.",
+        "pt-BR": "S-só vim dar uma olhada.",
+        "es-ES": "S-solo estoy mirando."
+    },
+    "xFnmDQ": {
+        "en-US": "[Instructor Boya]\nI do provide that kind of gear, but it's rather specialized. Do you know what Shadow equipment is?",
+        "pt-BR": "[Instrutora Boya]\nEu forneço esse tipo de equipamento, mas é bem especial. Você sabe o que são equipamentos sombrios?",
+        "es-ES": "[Instructora Boya]\nYo proporciono ese tipo de equipo, pero es bastante especial. ¿Sabes qué es el equipo sombrío?"
+    },
+    "xVnmDQ": {
+        "en-US": "Yes, I do.",
+        "pt-BR": "Sim, sei.",
+        "es-ES": "Sí, lo sé."
+    },
+    "xlnmDQ": {
+        "en-US": "What's that?",
+        "pt-BR": "O que é isso?",
+        "es-ES": "¿Qué es eso?"
+    },
+    "x1nmDQ": {
+        "en-US": "[Instructor Boya]\nThen this will be quick. Good.",
+        "pt-BR": "[Instrutora Boya]\nEntão a conversa vai ser rápida. Ótimo.",
+        "es-ES": "[Instructora Boya]\nEntonces esto será rápido. Bien."
+    },
+    "yFnmDQ": {
+        "en-US": "[Instructor Boya]\nShadow equipment is special gear that brings out your potential. You can wear it in addition to your regular equipment.",
+        "pt-BR": "[Instrutora Boya]\nEquipamentos sombrios são equipamentos especiais que despertam seu potencial. Você pode usá-los junto com seus equipamentos comuns.",
+        "es-ES": "[Instructora Boya]\nEl equipo sombrío es un equipo especial que despierta tu potencial. Puedes usarlo además de tu equipo normal."
+    },
+    "yVnmDQ": {
+        "en-US": "[Instructor Boya]\nFor example, leather armor is thin and light, so it's easy to move in, but it doesn't offer much defense.\nWhat if you added another layer of armor? You'd gain more defense, right? That's what Shadow equipment does.",
+        "pt-BR": "[Instrutora Boya]\nPor exemplo, uma armadura de couro é fina e leve, permitindo movimentos livres, mas não oferece muita defesa.\nE se você colocasse outra armadura por cima? Ganharia mais defesa, certo? É esse o papel dos equipamentos sombrios.",
+        "es-ES": "[Instructora Boya]\nPor ejemplo, una armadura de cuero es fina y ligera, así que permite moverse bien, pero ofrece poca defensa.\n¿Y si añadieras otra armadura encima? Ganarías más defensa, ¿verdad? Esa es la función del equipo sombrío."
+    },
+    "ylnmDQ": {
+        "en-US": "[Instructor Boya]\nPress ALT+Q to open the Equipment window. You'll see a special equipment section. That's where you equip Shadow gear.",
+        "pt-BR": "[Instrutora Boya]\nPressione ALT+Q para abrir a janela de equipamentos. Você verá uma seção de equipamentos especiais. É lá que se equipam os equipamentos sombrios.",
+        "es-ES": "[Instructora Boya]\nPulsa ALT+Q para abrir la ventana de equipo. Verás una sección de equipo especial. Ahí es donde se equipa el equipo sombrío."
+    },
+    "y1nmDQ": {
+        "en-US": "[Instructor Boya]\nIf you're curious, try it. You've got nothing to lose. Interested?",
+        "pt-BR": "[Instrutora Boya]\nSe tem curiosidade, experimente. Não tem nada a perder. Que tal?",
+        "es-ES": "[Instructora Boya]\nSi tienes curiosidad, pruébalo. No tienes nada que perder. ¿Te interesa?"
+    },
+    "zFnmDQ": {
+        "en-US": "Yes!!! Absolutely!!!",
+        "pt-BR": "Sim!!! Muito!!!",
+        "es-ES": "¡¡¡Sí!!! ¡¡¡Muchísimo!!!"
+    },
+    "zVnmDQ": {
+        "en-US": "I'll come back later.",
+        "pt-BR": "Volto outra hora.",
+        "es-ES": "Volveré luego."
+    },
+    "zlnmDQ": {
+        "en-US": "[Instructor Boya]\nI like that energy.",
+        "pt-BR": "[Instrutora Boya]\nGosto dessa energia.",
+        "es-ES": "[Instructora Boya]\nMe gusta ese entusiasmo."
+    },
+    "z1nmDQ": {
+        "en-US": "[Instructor Boya]\nYou're making me sound like a merchant!\nSo you're not interested right now? Fine. But remember: you'll definitely come back to see me.",
+        "pt-BR": "[Instrutora Boya]\nAssim você me faz parecer uma vendedora!\nEntão não quer agora? Tudo bem. Mas lembre-se: você ainda vai voltar a me procurar.",
+        "es-ES": "[Instructora Boya]\n¡Así me haces parecer una vendedora!\n¿No te interesa por ahora? Bien. Pero recuerda: seguro que volverás a verme."
+    },
+    "0FnmDQ": {
+        "en-US": "[Instructor Boya]\nReally? Here to check the mission boards, then?",
+        "pt-BR": "[Instrutora Boya]\nÉ mesmo? Veio olhar os quadros de missões, então?",
+        "es-ES": "[Instructora Boya]\n¿De verdad? ¿Viniste a mirar los tablones de misiones, entonces?"
+    },
+    "0VnmDQ": {
+        "en-US": "[Instructor Boya]\nYou're here. How's the weather outside?\nAnyway...",
+        "pt-BR": "[Instrutora Boya]\nVocê chegou. Como está o tempo lá fora?\nEnfim...",
+        "es-ES": "[Instructora Boya]\nYa estás aquí. ¿Qué tiempo hace afuera?\nEn fin..."
+    },
+    "0lnmDQ": {
+        "en-US": "[Instructor Boya]\nHere for Shadow equipment? Go see <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI> in the Eden Group armory.\nYou can rent it whenever you like with <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>.",
+        "pt-BR": "[Instrutora Boya]\nVeio buscar equipamentos sombrios? Procure <NAVI>[Emily]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI>, no arsenal do Grupo do Éden.\nVocê pode alugá-los sempre que quiser com <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>.",
+        "es-ES": "[Instructora Boya]\n¿Vienes por equipo sombrío? Ve a ver a <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI> en la armería del Grupo del Edén.\nPuedes alquilarlo cuando quieras con <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>."
+    },
+    "01nmDQ": {
+        "en-US": "[Instructor Boya]\nIf you don't have Eden Coins, check the mission boards for level 100 and above.\nThere are always plenty of missions waiting for adventurers, with Eden Coins as rewards.",
+        "pt-BR": "[Instrutora Boya]\nSe não tiver Moedas do Éden, confira os quadros de missões de nível 100 ou superior.\nSempre há muitas missões esperando por aventureiros, com Moedas do Éden como recompensa.",
+        "es-ES": "[Instructora Boya]\nSi no tienes Monedas del Edén, revisa los tablones de misiones de nivel 100 o superior.\nSiempre hay muchas misiones esperando aventureros, con Monedas del Edén como recompensa."
+    },
+    "1FnmDQ": {
+        "en-US": "[Instructor Boya]\nIf you need Shadow equipment, see Quartermaster <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI> in the armory.\nYou'll get to ^0000CDrent Shadow equipment suited to you for 72 hours^000000.",
+        "pt-BR": "[Instrutora Boya]\nSe precisar de equipamentos sombrios, procure a responsável <NAVI>[Emily]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI>.\nEla vai ^0000CDalugar equipamentos sombrios adequados a você por 72 horas^000000.",
+        "es-ES": "[Instructora Boya]\nSi necesitas equipo sombrío, busca al encargado <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI> en la armería.\nTe ^0000CDalquilará equipo sombrío adecuado para ti durante 72 horas^000000."
+    },
+    "1VnmDQ": {
+        "en-US": "[Instructor Boya]\nHave you met <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI>? You'll see him as soon as you enter the Eden Group armory, so he shouldn't be hard to find.",
+        "pt-BR": "[Instrutora Boya]\nJá conheceu <NAVI>[Emily]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI>? Você vai vê-la assim que entrar no arsenal do Grupo do Éden. Não será difícil encontrá-la.",
+        "es-ES": "[Instructora Boya]\n¿Ya conociste a <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI>? Lo verás en cuanto entres en la armería del Grupo del Edén. No será difícil encontrarlo."
+    },
+    "1lnmDQ": {
+        "en-US": "[Instructor Boya]\nYou're back. How do you like the Shadow equipment?\nWhen the rental expires, go back and rent it again.",
+        "pt-BR": "[Instrutora Boya]\nVocê voltou. Gostou dos equipamentos sombrios?\nQuando o aluguel acabar, volte lá e alugue novamente.",
+        "es-ES": "[Instructora Boya]\nHas vuelto. ¿Te gusta el equipo sombrío?\nCuando termine el alquiler, vuelve a alquilarlo."
+    },
+    "11nmDQ": {
+        "en-US": "[Instructor Boya]\nCome to think of it... Why don't you have basic equipment? Planning to get by with Shadow equipment alone? It's only meant to support your regular gear.",
+        "pt-BR": "[Instrutora Boya]\nPensando bem... Por que está sem equipamentos básicos? Vai tentar se virar só com os sombrios? Eles servem apenas de apoio aos equipamentos comuns.",
+        "es-ES": "[Instructora Boya]\nAhora que lo pienso... ¿Por qué no tienes equipo básico? ¿Piensas arreglártelas solo con equipo sombrío? Solo sirve como apoyo al equipo normal."
+    },
+    "2FnmDQ": {
+        "en-US": "[Instructor Boya]\nIf you don't have decent gear, talk to Instructor Ur beside me about basic equipment.",
+        "pt-BR": "[Instrutora Boya]\nSe não tiver equipamentos adequados, fale com o Instrutor Ur aqui ao lado sobre equipamentos básicos.",
+        "es-ES": "[Instructora Boya]\nSi no tienes equipo adecuado, habla con el instructor Ur, aquí al lado, sobre el equipo básico."
+    },
+    "2VnmDQ": {
+        "en-US": "[Instructor Boya]\nFor basic equipment, talk to Instructor Ur beside me.",
+        "pt-BR": "[Instrutora Boya]\nSobre equipamentos básicos, fale com o Instrutor Ur aqui ao lado.",
+        "es-ES": "[Instructora Boya]\nPara el equipo básico, habla con el instructor Ur, aquí al lado."
+    },
+    "2lnmDQ": {
+        "en-US": "[Instructor Boya]\nIf you want to rent more Shadow equipment, see <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI> in the Eden Group armory.",
+        "pt-BR": "[Instrutora Boya]\nSe quiser alugar mais equipamentos sombrios, procure <NAVI>[Emily]<INFO>moc_para01,110,91,0,101,0,</INFO></NAVI>, no arsenal do Grupo do Éden.",
+        "es-ES": "[Instructora Boya]\nSi quieres alquilar más equipo sombrío, ve a ver a <NAVI>[Emil]<INFO>moc_para0b,110,91,0,101,0,</INFO></NAVI> en la armería del Grupo del Edén."
+    },
+    "21nmDQ": {
+        "en-US": "[Instructor Boya]\nWhat is it? If you're looking for missions, use the boards beside me.",
+        "pt-BR": "[Instrutora Boya]\nO que foi? Se procura missões, use os quadros aqui ao lado.",
+        "es-ES": "[Instructora Boya]\n¿Qué ocurre? Si buscas misiones, usa los tablones de al lado."
+    },
+    "3FnmDQ": {
+        "en-US": "Quartermaster Emil",
+        "pt-BR": "Gerente Emily",
+        "es-ES": "Encargado Emil"
+    },
+    "3VnmDQ": {
+        "en-US": "Shadow Equipment",
+        "pt-BR": "Equipamentos Sombrios",
+        "es-ES": "Equipo Sombrío"
+    },
+    "3lnmDQ": {
+        "en-US": "[Emil]\nHello! Interested in Shadow equipment? But you're not an Eden Group member, are you?",
+        "pt-BR": "[Emily]\nOlá! Tem interesse em equipamentos sombrios? Mas você não faz parte do Grupo do Éden, não é?",
+        "es-ES": "[Emil]\n¡Hola! ¿Te interesa el equipo sombrío? Pero no eres miembro del Grupo del Edén, ¿verdad?"
+    },
+    "31nmDQ": {
+        "en-US": "[Emil]\nI can't just hand it out to anyone. Go talk to <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> in the lobby first. I'll be waiting.",
+        "pt-BR": "[Emily]\nNão posso entregar para qualquer um. Fale primeiro com <NAVI>[Lenore]<INFO>moc_para01,27,31,0,101,0,</INFO></NAVI>. Vou esperar.",
+        "es-ES": "[Emil]\nNo puedo dárselo a cualquiera. Habla primero con <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> en el vestíbulo. Te esperaré."
+    },
+    "4FnmDQ": {
+        "en-US": "You are carrying too many items to continue this conversation.\nPlease make room in your inventory and try again.",
+        "pt-BR": "Você está carregando itens demais para continuar a conversa.\nLibere espaço no inventário e tente novamente.",
+        "es-ES": "Llevas demasiados objetos para continuar la conversación.\nLibera espacio en el inventario e inténtalo de nuevo."
+    },
+    "4VnmDQ": {
+        "en-US": "An advanced Shadow equipment set.",
+        "pt-BR": "Alugar Sombrios Avançados",
+        "es-ES": "Un conjunto de equipo sombrío avanzado."
+    },
+    "4lnmDQ": {
+        "en-US": "^AAAAAAAdvanced Shadow equipment set - Not enough Eden Coins^000000",
+        "pt-BR": "^AAAAAAVocê não tem Moedas do Éden suficientes^000000",
+        "es-ES": "^AAAAAAConjunto de equipo sombrío avanzado - Monedas del Edén insuficientes^000000"
+    },
+    "41nmDQ": {
+        "en-US": "[Emil]\nHello! Here to rent Shadow equipment?\nWould you like an advanced set? A ^0000CD72-hour rental^000000 of one advanced Shadow equipment set costs 20 <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>.",
+        "pt-BR": "[Emily]\nOlá! Veio alugar equipamentos sombrios?\nQuer um conjunto sombrio avançado? O ^0000CDaluguel por 72 horas^000000 de um conjunto sombrio avançado custa 20 <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>.",
+        "es-ES": "[Emil]\n¡Hola! ¿Vienes a alquilar equipo sombrío?\n¿Quieres un conjunto avanzado? El ^0000CDalquiler por 72 horas^000000 de un conjunto avanzado cuesta 20 <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>."
+    },
+    "5FnmDQ": {
+        "en-US": "A basic Shadow equipment set.",
+        "pt-BR": "Alugar Sombrios Básicos",
+        "es-ES": "Un conjunto de equipo sombrío básico."
+    },
+    "5VnmDQ": {
+        "en-US": "[Emil]\nHey, you don't have enough Eden Coins! It's ^0000CD20 Eden Coins^000000 to rent one set for 72 hours.\nIf you're short on coins, earn some by completing missions for level 100 and above from the mission boards.",
+        "pt-BR": "[Emily]\nEi, faltam Moedas do Éden! São ^0000CD20 Moedas do Éden^000000 para alugar um conjunto por 72 horas.\nSe precisar de moedas, complete missões de nível 100 ou superior nos quadros de missões.",
+        "es-ES": "[Emil]\n¡Oye, no tienes suficientes Monedas del Edén! Son ^0000CD20 Monedas del Edén^000000 para alquilar un conjunto por 72 horas.\nSi te faltan monedas, completa misiones de nivel 100 o superior en los tablones de misiones."
+    },
+    "5lnmDQ": {
+        "en-US": "[Emil]\nHold on. To rent advanced Shadow equipment, you need to have reached at least a third job. It takes that much experience to handle this gear.",
+        "pt-BR": "[Emily]\nEspere. Para alugar equipamentos sombrios avançados, você precisa ter alcançado pelo menos a terceira classe. É preciso essa experiência para usar esses equipamentos.",
+        "es-ES": "[Emil]\nEspera. Para alquilar equipo sombrío avanzado, debes haber alcanzado al menos la tercera clase. Necesitas esa experiencia para manejar este equipo."
+    },
+    "51nmDQ": {
+        "en-US": "[Emil]\nGo get some more experience and come back. I'll be waiting.",
+        "pt-BR": "[Emily]\nVá ganhar mais experiência e depois volte. Vou esperar.",
+        "es-ES": "[Emil]\nVe a ganar más experiencia y vuelve. Te esperaré."
+    },
+    "6FnmDQ": {
+        "en-US": "[Emil]\nHere, your advanced Shadow equipment set. I picked out a good one! Come back anytime after it expires and I'll rent you another.",
+        "pt-BR": "[Emily]\nAqui está seu conjunto de equipamentos sombrios avançados. Escolhi um dos bons! Quando o prazo acabar, volte quando quiser para alugar outro.",
+        "es-ES": "[Emil]\nAquí tienes tu conjunto de equipo sombrío avanzado. ¡Elegí uno bueno! Cuando venza el plazo, vuelve cuando quieras y te alquilaré otro."
+    },
+    "6VnmDQ": {
+        "en-US": "[Emil]\nWhat? That's unusual. Feeling nostalgic? Or are you out of Eden Coins?\nWell... Everyone has their reasons.",
+        "pt-BR": "[Emily]\nO quê? Que estranho. Bateu a nostalgia? Ou está sem Moedas do Éden?\nBom... Cada um tem seus motivos.",
+        "es-ES": "[Emil]\n¿Qué? Qué raro. ¿Sientes nostalgia? ¿O no tienes Monedas del Edén?\nBueno... Cada quien tendrá sus motivos."
+    },
+    "6lnmDQ": {
+        "en-US": "[Emil]\nI'll rent it to you since you asked, but come back when you want equipment suited to your level. If you need <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>, check the mission boards.",
+        "pt-BR": "[Emily]\nVou alugar porque você pediu, mas volte quando quiser equipamentos adequados ao seu nível. Se precisar de <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>, confira os quadros de missões.",
+        "es-ES": "[Emil]\nTe lo alquilaré porque lo pides, pero vuelve cuando quieras equipo adecuado a tu nivel. Si necesitas <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>, revisa los tablones de misiones."
+    },
+    "61nmDQ": {
+        "en-US": "[Emil]\nHuh? A new face. Did Boya send you?\nThen you must be here for basic Shadow equipment.",
+        "pt-BR": "[Emily]\nHein? Um rosto novo. Boya mandou você?\nEntão deve ter vindo buscar equipamentos sombrios básicos.",
+        "es-ES": "[Emil]\n¿Eh? Una cara nueva. ¿Te envió Boya?\nEntonces vienes por equipo sombrío básico."
+    },
+    "7FnmDQ": {
+        "en-US": "[Emil]\nDo you know what Shadow equipment is, though?",
+        "pt-BR": "[Emily]\nMas você sabe o que são equipamentos sombrios?",
+        "es-ES": "[Emil]\nPero ¿sabes qué es el equipo sombrío?"
+    },
+    "7VnmDQ": {
+        "en-US": "Yes! I know.",
+        "pt-BR": "Sim! Eu sei.",
+        "es-ES": "¡Sí! Lo sé."
+    },
+    "7lnmDQ": {
+        "en-US": "No! I don't!",
+        "pt-BR": "Não! Não sei!",
+        "es-ES": "¡No! ¡No lo sé!"
+    },
+    "71nmDQ": {
+        "en-US": "[Emil]\nYou do? Good for you. I'll make an exception and lend you basic Shadow equipment for free until you reach level 100.",
+        "pt-BR": "[Emily]\nSabe? Muito bem. Vou abrir uma exceção e emprestar equipamentos sombrios básicos de graça até você chegar ao nível 100.",
+        "es-ES": "[Emil]\n¿Lo sabes? Muy bien. Haré una excepción y te prestaré equipo sombrío básico gratis hasta que alcances el nivel 100."
+    },
+    "8FnmDQ": {
+        "en-US": "[Emil]\nJust kidding. The Eden Group already offers adventurers up to level 99 a ^0000CDfree 72-hour rental^000000 of a basic Shadow equipment set.",
+        "pt-BR": "[Emily]\nBrincadeira. O Grupo do Éden já oferece aos aventureiros até o nível 99 o ^0000CDaluguel gratuito por 72 horas^000000 de um conjunto de equipamentos sombrios básicos.",
+        "es-ES": "[Emil]\nEs broma. El Grupo del Edén ya ofrece a los aventureros hasta el nivel 99 el ^0000CDalquiler gratuito por 72 horas^000000 de un conjunto de equipo sombrío básico."
+    },
+    "8VnmDQ": {
+        "en-US": "[Emil]\nOnce you're past ^0000CDlevel 100^000000, you can ^0000CDrent advanced Shadow equipment^000000. That isn't free, of course. We charge <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>. But that's for later.",
+        "pt-BR": "[Emily]\nDepois de passar do ^0000CDnível 100^000000, você pode ^0000CDalugar equipamentos sombrios avançados^000000. Claro que não é de graça. Cobramos <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>. Mas isso fica para depois.",
+        "es-ES": "[Emil]\nCuando pases del ^0000CDnivel 100^000000, podrás ^0000CDalquilar equipo sombrío avanzado^000000. Eso no es gratis, claro. Cobramos <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>. Pero ya hablaremos de eso después."
+    },
+    "8lnmDQ": {
+        "en-US": "[Emil]\nHere's your basic Shadow equipment set. Wearing the complete set grants special bonuses, so try to equip every piece.",
+        "pt-BR": "[Emily]\nAqui está seu conjunto de equipamentos sombrios básicos. Usar o conjunto completo concede bônus especiais, então procure equipar todas as peças.",
+        "es-ES": "[Emil]\nAquí tienes tu conjunto de equipo sombrío básico. Usar el conjunto completo otorga bonificaciones especiales, así que procura equipar todas las piezas."
+    },
+    "81nmDQ": {
+        "en-US": "[Emil]\nYou don't know? Boya didn't even tell you that? Oh, well.",
+        "pt-BR": "[Emily]\nNão sabe? Boya nem explicou isso? Fazer o quê.",
+        "es-ES": "[Emil]\n¿No lo sabes? ¿Boya ni siquiera te lo explicó? Qué remedio."
+    },
+    "9FnmDQ": {
+        "en-US": "[Emil]\nIn short, Shadow equipment is special gear that brings out your potential. You can wear it in addition to your regular equipment.",
+        "pt-BR": "[Emily]\nResumindo, equipamentos sombrios são equipamentos especiais que despertam seu potencial. Você pode usá-los junto com seus equipamentos comuns.",
+        "es-ES": "[Emil]\nEn pocas palabras, el equipo sombrío es un equipo especial que despierta tu potencial. Puedes usarlo además de tu equipo normal."
+    },
+    "9VnmDQ": {
+        "en-US": "[Emil]\nFor example, leather armor is thin and light, so it's easy to move in, but it doesn't offer much defense.\nWhat if you added another layer of armor? You'd gain more defense, right? That's what Shadow equipment does.",
+        "pt-BR": "[Emily]\nPor exemplo, uma armadura de couro é fina e leve, permitindo movimentos livres, mas não oferece muita defesa.\nE se você colocasse outra armadura por cima? Ganharia mais defesa, certo? É esse o papel dos equipamentos sombrios.",
+        "es-ES": "[Emil]\nPor ejemplo, una armadura de cuero es fina y ligera, así que permite moverse bien, pero ofrece poca defensa.\n¿Y si añadieras otra armadura encima? Ganarías más defensa, ¿verdad? Esa es la función del equipo sombrío."
+    },
+    "9lnmDQ": {
+        "en-US": "[Emil]\nTry to equip the entire Shadow equipment set you rent. Wearing the complete set grants special bonuses.",
+        "pt-BR": "[Emily]\nProcure equipar todo o conjunto de equipamentos sombrios alugado. Usar o conjunto completo concede bônus especiais.",
+        "es-ES": "[Emil]\nProcura equipar todo el conjunto de equipo sombrío que alquiles. Usar el conjunto completo otorga bonificaciones especiales."
+    },
+    "91nmDQ": {
+        "en-US": "[Emil]\nYou can check your equipped Shadow gear in the special equipment section of the Equipment window. Press ALT+Q to open it.",
+        "pt-BR": "[Emily]\nConfira seus equipamentos sombrios na seção de equipamentos especiais da janela de equipamentos. Pressione ALT+Q para abri-la.",
+        "es-ES": "[Emil]\nPuedes consultar tu equipo sombrío en la sección de equipo especial de la ventana de equipo. Pulsa ALT+Q para abrirla."
+    },
+    "+FnmDQ": {
+        "en-US": "[Instructor Boya]\nTrying it once is better than hearing about it a hundred times. Want to equip it?",
+        "pt-BR": "[Instrutora Boya]\nExperimentar uma vez é melhor que ouvir cem explicações. Quer equipar?",
+        "es-ES": "[Instructora Boya]\nProbarlo una vez vale más que oír cien explicaciones. ¿Quieres equiparlo?"
+    },
+    "+VnmDQ": {
+        "en-US": "Yes!!",
+        "pt-BR": "Sim!!",
+        "es-ES": "¡¡Sí!!"
+    },
+    "+lnmDQ": {
+        "en-US": "No, thanks.",
+        "pt-BR": "Não, valeu.",
+        "es-ES": "No, gracias."
+    },
+    "+1nmDQ": {
+        "en-US": "[Emil]\nHere's your basic Shadow equipment set.",
+        "pt-BR": "[Emily]\nAqui está seu conjunto de equipamentos sombrios básicos.",
+        "es-ES": "[Emil]\nAquí tienes tu conjunto de equipo sombrío básico."
+    },
+    "/FnmDQ": {
+        "en-US": "[Emil]\nWhy not? Give it a try. I told you it's free!\nHonestly... If you change your mind, come back anytime.",
+        "pt-BR": "[Emily]\nPor que não? Experimente. Eu disse que é de graça!\nOra... Se mudar de ideia, volte quando quiser.",
+        "es-ES": "[Emil]\n¿Por qué no? Pruébalo. ¡Te dije que es gratis!\nEn fin... Si cambias de opinión, vuelve cuando quieras."
+    },
+    "/VnmDQ": {
+        "en-US": "[Emil]\nDon't cry when the equipment disappears after the rental expires. Just come rent it again. Now go back to <NAVI>[Boya]<INFO>moc_para0b,25,31,0,101,0,</INFO></NAVI> and show off your Shadow equipment set. Nice meeting you.",
+        "pt-BR": "[Emily]\nNão vá chorar quando os equipamentos sumirem ao fim do aluguel. É só voltar e alugar de novo. Agora volte até <NAVI>[Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>... e mostre seu conjunto de equipamentos sombrios. Foi bom conhecer você.",
+        "es-ES": "[Emil]\nNo llores cuando el equipo desaparezca al terminar el alquiler. Vuelve a alquilarlo y listo. Ahora vuelve con <NAVI>[Boya]<INFO>moc_para0b,25,31,0,101,0,</INFO></NAVI> y presume de tu conjunto de equipo sombrío. Fue un placer conocerte."
+    },
+    "/lnmDQ": {
+        "en-US": "[Emil]\nHave you shown it off to Boya? Or are you here to rent it again?",
+        "pt-BR": "[Emily]\nJá mostrou para Boya? Ou veio alugar de novo?",
+        "es-ES": "[Emil]\n¿Ya se lo mostraste a Boya? ¿O vienes a alquilarlo otra vez?"
+    },
+    "/1nmDQ": {
+        "en-US": "I'm here to rent it again.",
+        "pt-BR": "Vim alugar de novo.",
+        "es-ES": "Vengo a alquilarlo otra vez."
+    },
+    "AFrmDQ": {
+        "en-US": "[Emil]\nWhat? All that time passed before you even showed Boya? What were you doing?\nGo report to <NAVI>[Boya]<INFO>moc_para0b,25,31,0,101,0,</INFO></NAVI> first. It causes trouble if the rental isn't reported. Report back before renting again. Go on!",
+        "pt-BR": "[Emily]\nO quê? Já passou tudo isso de tempo e você nem mostrou para Boya? O que estava fazendo?\nPrimeiro, vá falar com <NAVI>[Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>. Dá problema se o aluguel não for informado. Faça o relatório antes de alugar novamente. Vamos!",
+        "es-ES": "[Emil]\n¿Qué? ¿Pasó tanto tiempo y ni siquiera se lo mostraste a Boya? ¿Qué hacías?\nVe a informar a <NAVI>[Boya]<INFO>moc_para0b,25,31,0,101,0,</INFO></NAVI> primero. Nos causa problemas que no se informe del alquiler. Hazlo antes de volver a alquilar. ¡Anda!"
+    },
+    "AVrmDQ": {
+        "en-US": "[Emil]\nYou're back? Here to rent basic Shadow equipment?",
+        "pt-BR": "[Emily]\nVoltou? Veio alugar equipamentos sombrios básicos?",
+        "es-ES": "[Emil]\n¿Volviste? ¿Vienes a alquilar equipo sombrío básico?"
+    },
+    "AlrmDQ": {
+        "en-US": "Yes! Please rent it to me!",
+        "pt-BR": "Sim! Quero alugar!",
+        "es-ES": "¡Sí! ¡Quiero alquilarlo!"
+    },
+    "A1rmDQ": {
+        "en-US": "I came to see how you're doing.",
+        "pt-BR": "Vim saber como você está.",
+        "es-ES": "Vine a ver cómo estás."
+    },
+    "BFrmDQ": {
+        "en-US": "[Emil]\nAll right, all right. Here's your basic Shadow equipment set. Put it on and get out there adventuring. Good luck!",
+        "pt-BR": "[Emily]\nCerto, certo. Aqui está seu conjunto de equipamentos sombrios básicos. Equipe tudo e vá se aventurar. Boa sorte!",
+        "es-ES": "[Emil]\nEstá bien, está bien. Aquí tienes tu conjunto de equipo sombrío básico. Equípalo y sal a vivir aventuras. ¡Buena suerte!"
+    },
+    "BVrmDQ": {
+        "en-US": "[Emil]\nWhat? Checking on me? Since when are we that close?\nStill, it feels nice. Have a good day yourself!",
+        "pt-BR": "[Emily]\nO quê? Saber como estou? Desde quando temos essa intimidade?\nMas até que gostei. Tenha um bom dia também!",
+        "es-ES": "[Emil]\n¿Qué? ¿Venías a verme? ¿Desde cuándo tenemos tanta confianza?\nAunque se agradece. ¡Que tengas un buen día tú también!"
+    },
+    "BlrmDQ": {
+        "en-US": "[Emil]\nWhat is it? Interested in Shadow equipment? I'm busy right now, so go ask <NAVI>[Instructor Boya]<INFO>moc_para0b,25,31,0,101,0,</INFO></NAVI> in the lobby.",
+        "pt-BR": "[Emily]\nO que foi? Tem interesse em equipamentos sombrios? Estou ocupada agora, então vá perguntar a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,31,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Emil]\n¿Qué ocurre? ¿Te interesa el equipo sombrío? Ahora estoy ocupado, así que ve a preguntarle a <NAVI>[Instructora Boya]<INFO>moc_para0b,25,31,0,101,0,</INFO></NAVI> en el vestíbulo."
+    },
+    "B1rmDQ": {
+        "en-US": "Quartermaster Thorn",
+        "pt-BR": "Ferreiro Thorn",
+        "es-ES": "Encargado Thorn"
+    },
+    "CFrmDQ": {
+        "en-US": "Advanced Armor",
+        "pt-BR": "Equip. Avançado",
+        "es-ES": "Armaduras Avanzadas"
+    },
+    "CVrmDQ": {
+        "en-US": "[Thorn]\nOh my, you seem quite interested in equipment!",
+        "pt-BR": "[Thorn]\nOra, parece que você se interessa bastante por equipamentos!",
+        "es-ES": "[Thorn]\n¡Vaya, parece que te interesa mucho el equipo!"
+    },
+    "ClrmDQ": {
+        "en-US": "[Thorn]\nThen talk to <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> in the lobby and join the Eden Group. After that, you can get all the equipment you need.",
+        "pt-BR": "[Thorn]\nEntão vá para o saguão e fale com <NAVI>[Lenore]<INFO>moc_para01,27,31,0,101,0,</INFO></NAVI>. Depois poderá receber os equipamentos de que precisar.",
+        "es-ES": "[Thorn]\nEntonces habla con <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> en el vestíbulo y únete al Grupo del Edén. Después podrás recibir el equipo que necesites."
+    },
+    "C1rmDQ": {
+        "en-US": "[Thorn]\nHello there. I see you're past Base Level 100. You'd like advanced armor, I take it?\nBut we can't skip the proper procedure.",
+        "pt-BR": "[Thorn]\nOlá. Vejo que já passou do nível de base 100. Quer armaduras avançadas, imagino?\nMas não podemos pular as etapas.",
+        "es-ES": "[Thorn]\nHola. Veo que ya pasaste del nivel base 100. Quieres armaduras avanzadas, supongo.\nPero no podemos saltarnos los pasos."
+    },
+    "DFrmDQ": {
+        "en-US": "[Thorn]\nGo back out through the door and see Instructor <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> in the lobby.\nUr will explain how to get advanced armor.",
+        "pt-BR": "[Thorn]\nSaia pela porta por onde entrou e procure o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>.\nUr vai explicar como obter armaduras avançadas.",
+        "es-ES": "[Thorn]\nSal por la puerta por donde entraste y busca al instructor <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> en el vestíbulo.\nUr te explicará cómo conseguir armaduras avanzadas."
+    },
+    "DVrmDQ": {
+        "en-US": "[Thorn]\nHello there. What a charming young adventurer.\nI like the look in your eyes.",
+        "pt-BR": "[Thorn]\nOlá. Quanta simpatia vinda de você!\nGostei desse brilho nos olhos.",
+        "es-ES": "[Thorn]\nHola. Qué joven aventurero tan simpático.\nMe gusta esa mirada."
+    },
+    "DlrmDQ": {
+        "en-US": "[Thorn]\nYou can't receive my advanced armor just yet, but I have a feeling we'll meet again soon.",
+        "pt-BR": "[Thorn]\nAinda não pode receber minhas armaduras avançadas, mas sinto que nos veremos de novo em breve.",
+        "es-ES": "[Thorn]\nTodavía no puedes recibir mis armaduras avanzadas, pero presiento que volveremos a vernos pronto."
+    },
+    "D1rmDQ": {
+        "en-US": "[Thorn]\nOnce you're past Base Level 100, ask Ur about advanced armor and come back to me. I'll have it ready for you.",
+        "pt-BR": "[Thorn]\nQuando passar do nível de base 100, peça as orientações a Ur sobre armaduras avançadas e volte aqui. Vou entregá-las na hora.",
+        "es-ES": "[Thorn]\nCuando pases del nivel base 100, pide a Ur información sobre las armaduras avanzadas y vuelve. Te las daré enseguida."
+    },
+    "EFrmDQ": {
+        "en-US": "[Thorn]\nHave you met <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>? Not yet? Then go ask him what he does.\nIt was a pleasure meeting you. Hahaha!",
+        "pt-BR": "[Thorn]\nJá conheceu <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>? Ainda não? Então vá perguntar o que ele faz.\nFoi um prazer. Hahaha!",
+        "es-ES": "[Thorn]\n¿Ya conociste a <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>? ¿Todavía no? Entonces ve a preguntarle a qué se dedica.\nFue un placer conocerte. ¡Ja, ja, ja!"
+    },
+    "EVrmDQ": {
+        "en-US": "[Thorn]\nStill have something to tell me? But <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> beside me is looking over, wondering when you'll visit him.",
+        "pt-BR": "[Thorn]\nAinda tem algo para me dizer? É melhor falar com <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Thorn]\n¿Todavía tienes algo que decirme? Pero <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>, aquí al lado, está mirando y esperando a que vayas a verlo."
+    },
+    "ElrmDQ": {
+        "en-US": "[Thorn]\nAh, welcome. Ur told you to gather the materials for your armor, I trust?",
+        "pt-BR": "[Thorn]\nAh, boas-vindas. Ur orientou você a buscar os materiais para suas armaduras, certo?",
+        "es-ES": "[Thorn]\nAh, bienvenido. Ur te indicó que reunieras los materiales para tus armaduras, ¿verdad?"
+    },
+    "E1rmDQ": {
+        "en-US": "[Thorn]\nLet's see. Did you bring everything?",
+        "pt-BR": "[Thorn]\nVamos ver. Trouxe tudo?",
+        "es-ES": "[Thorn]\nA ver. ¿Trajiste todo?"
+    },
+    "FFrmDQ": {
+        "en-US": "[Thorn]\nWait... Materials aren't the issue here. Advanced armor is only for Eden Group members at level 100 or above. Go raise your level and come back.",
+        "pt-BR": "[Thorn]\nEspere... O problema não são os materiais. Só posso entregar armaduras avançadas a membros do Grupo do Éden de nível 100 ou superior. Vá subir de nível e volte.",
+        "es-ES": "[Thorn]\nEspera... El problema no son los materiales. Solo puedo entregar armaduras avanzadas a miembros del Grupo del Edén de nivel 100 o superior. Ve a subir de nivel y vuelve."
+    },
+    "FVrmDQ": {
+        "en-US": "[Thorn]\nYou've brought some fine materials. Time to give you your advanced armor.",
+        "pt-BR": "[Thorn]\nTrouxe materiais de ótima qualidade. Hora de entregar suas armaduras avançadas.",
+        "es-ES": "[Thorn]\nTrajiste materiales de buena calidad. Es hora de darte tus armaduras avanzadas."
+    },
+    "FlrmDQ": {
+        "en-US": "[Thorn]\nAdvanced armor comes in physical and magical types. Would you like to see the lists first?",
+        "pt-BR": "[Thorn]\nAs armaduras avançadas têm versões físicas e mágicas. Quer ver as listas primeiro?",
+        "es-ES": "[Thorn]\nLas armaduras avanzadas pueden ser físicas o mágicas. ¿Quieres ver las listas primero?"
+    },
+    "F1rmDQ": {
+        "en-US": "Yes, please show me.",
+        "pt-BR": "Sim, mostre, por favor.",
+        "es-ES": "Sí, muéstramelas."
+    },
+    "GFrmDQ": {
+        "en-US": "No, thanks.",
+        "pt-BR": "Não, valeu.",
+        "es-ES": "No, gracias."
+    },
+    "GVrmDQ": {
+        "en-US": "= Physical Advanced Armor =\n<ITEM>[Advanced Eden Cap]<INFO>400139</INFO></ITEM>\n<ITEM>[Advanced Eden Suit]<INFO>450185</INFO></ITEM>\n<ITEM>[Advanced Eden Manteau]<INFO>480105</INFO></ITEM>\n<ITEM>[Advanced Eden Boots]<INFO>470069</INFO></ITEM>\n<ITEM>[Advanced Eden Ring]<INFO>490126</INFO></ITEM>\n<ITEM>[Advanced Eden Glove]<INFO>490127</INFO></ITEM>",
+        "pt-BR": "= Equip. de Bônus Físico =\n<ITEM>[Boina Física do Éden II]<INFO>400139</INFO></ITEM>\n<ITEM>[Armadura Física do Éden II]<INFO>450185</INFO></ITEM>\n<ITEM>[Capa Física do Éden II]<INFO>480105</INFO></ITEM>\n<ITEM>[Bota Física do Éden II]<INFO>470069</INFO></ITEM>\n<ITEM>[Anel Físico do Éden II]<INFO>490126</INFO></ITEM>\n<ITEM>[Luva Física do Éden II]<INFO>490127</INFO></ITEM>",
+        "es-ES": "= Armaduras Avanzadas Físicas =\n<ITEM>[Gorra Avanzado del Edén]<INFO>400139</INFO></ITEM>\n<ITEM>[Traje Avanzado del Edén]<INFO>450185</INFO></ITEM>\n<ITEM>[Manto Avanzado del Edén]<INFO>480105</INFO></ITEM>\n<ITEM>[Botas Avanzado del Edén]<INFO>470069</INFO></ITEM>\n<ITEM>[Anillo Avanzado del Edén]<INFO>490126</INFO></ITEM>\n<ITEM>[Guante Avanzado del Edén]<INFO>490127</INFO></ITEM>"
+    },
+    "GlrmDQ": {
+        "en-US": "= Magical Advanced Armor =\n<ITEM>[Advanced Eden Hat]<INFO>400140</INFO></ITEM>\n<ITEM>[Advanced Eden Robe]<INFO>450186</INFO></ITEM>\n<ITEM>[Advanced Eden Muffler]<INFO>480106</INFO></ITEM>\n<ITEM>[Advanced Eden Shoes]<INFO>470093</INFO></ITEM>\n<ITEM>[Advanced Eden Magic Ring]<INFO>490128</INFO></ITEM>\n<ITEM>[Advanced Eden Necklace]<INFO>490129</INFO></ITEM>",
+        "pt-BR": "= Equip. de Bônus Mágico =\n<ITEM>[Boina Mágica do Éden II]<INFO>400140</INFO></ITEM>\n<ITEM>[Armadura Mágica do Éden II]<INFO>450186</INFO></ITEM>\n<ITEM>[Capa Mágica do Éden II]<INFO>480106</INFO></ITEM>\n<ITEM>[Bota Mágica do Éden II]<INFO>470093</INFO></ITEM>\n<ITEM>[Anel Mágico do Éden II]<INFO>490128</INFO></ITEM>\n<ITEM>[Colar Mágico do Éden II]<INFO>490129</INFO></ITEM>",
+        "es-ES": "= Armaduras Avanzadas Mágicas =\n<ITEM>[Sombrero Avanzado del Edén]<INFO>400140</INFO></ITEM>\n<ITEM>[Túnica Avanzado del Edén]<INFO>450186</INFO></ITEM>\n<ITEM>[Bufanda Avanzado del Edén]<INFO>480106</INFO></ITEM>\n<ITEM>[Zapatos Avanzado del Edén]<INFO>470093</INFO></ITEM>\n<ITEM>[Anillo Mágico Avanzado del Edén]<INFO>490128</INFO></ITEM>\n<ITEM>[Collar Avanzado del Edén]<INFO>490129</INFO></ITEM>"
+    },
+    "G1rmDQ": {
+        "en-US": "[Thorn]\nThat's what we have for each type.",
+        "pt-BR": "[Thorn]\nÉ isso que temos para hoje.",
+        "es-ES": "[Thorn]\nEso es lo que tenemos de cada tipo."
+    },
+    "HFrmDQ": {
+        "en-US": "[Thorn]\nYou know exactly what you need, don't you?",
+        "pt-BR": "[Thorn]\nVocê sabe exatamente do que precisa, não é?",
+        "es-ES": "[Thorn]\nSabes exactamente lo que necesitas, ¿verdad?"
+    },
+    "HVrmDQ": {
+        "en-US": "[Thorn]\nSo, do you need physical advanced armor or magical advanced armor?",
+        "pt-BR": "[Thorn]\nEntão, precisa de equipamentos físicos ou mágicos?",
+        "es-ES": "[Thorn]\nEntonces, ¿necesitas armaduras avanzadas físicas o mágicas?"
+    },
+    "HlrmDQ": {
+        "en-US": "Physical advanced armor",
+        "pt-BR": "Equipamentos de bônus FÍSICO!",
+        "es-ES": "Armaduras avanzadas físicas"
+    },
+    "H1rmDQ": {
+        "en-US": "Magical advanced armor",
+        "pt-BR": "Equipamentos de bônus MÁGICO!",
+        "es-ES": "Armaduras avanzadas mágicas"
+    },
+    "IFrmDQ": {
+        "en-US": "[Thorn]\nHere is your full set of physical advanced armor. Come back if you lose any of it.",
+        "pt-BR": "[Thorn]\nAqui está seu conjunto completo de armaduras físicas. Volte se perder alguma peça.",
+        "es-ES": "[Thorn]\nAquí tienes tu conjunto completo de armaduras avanzadas físicas. Vuelve si pierdes alguna pieza."
+    },
+    "IVrmDQ": {
+        "en-US": "[Thorn]\nAs long as you have <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>, I'll give you replacements whenever you need them.",
+        "pt-BR": "[Thorn]\nBasta ter <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>. Assim, entregarei outras sempre que precisar.",
+        "es-ES": "[Thorn]\nMientras tengas <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>, te daré otras cuando las necesites."
+    },
+    "IlrmDQ": {
+        "en-US": "[Thorn]\nIt seems you haven't received an advanced weapon from <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> yet. Go see him right away.",
+        "pt-BR": "[Thorn]\nParece que ainda não recebeu uma arma do <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>. Vá falar com ele logo.",
+        "es-ES": "[Thorn]\nParece que todavía no recibiste un arma avanzada de <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>. Ve a verlo enseguida."
+    },
+    "I1rmDQ": {
+        "en-US": "Well then, goodbye!",
+        "pt-BR": "Então, até mais!",
+        "es-ES": "¡Bueno, adiós!"
+    },
+    "JFrmDQ": {
+        "en-US": "[Thorn]\nHere is your full set of magical advanced armor. Come back if you lose any of it.",
+        "pt-BR": "[Thorn]\nAqui está seu conjunto completo de armaduras mágicas. Volte se perder alguma peça.",
+        "es-ES": "[Thorn]\nAquí tienes tu conjunto completo de armaduras avanzadas mágicas. Vuelve si pierdes alguna pieza."
+    },
+    "JVrmDQ": {
+        "en-US": "[Thorn]\nYou're still a little short.",
+        "pt-BR": "[Thorn]\nAinda está faltando um pouco do que preciso.",
+        "es-ES": "[Thorn]\nTodavía te falta un poco."
+    },
+    "JlrmDQ": {
+        "en-US": "[Thorn]\nJust bring ^0000CD15 Elastic Bands and 3 Kobold Hairs^000000. I'll trade them for some fine gear.",
+        "pt-BR": "[Thorn]\nBasta trazer ^0000CD15 Elásticos e 3 Cabelos Azuis^000000. Vou trocar por bons equipamentos.",
+        "es-ES": "[Thorn]\nSolo trae ^0000CD15 Bandas Elásticas y 3 Pelos de Kobold^000000. Te los cambiaré por buen equipo."
+    },
+    "J1rmDQ": {
+        "en-US": "[Thorn]\nDon't you need an advanced weapon?\nTake the materials for it to Michael right away.",
+        "pt-BR": "[Thorn]\nNão precisa de uma arma?\nLeve os materiais para Michael logo.",
+        "es-ES": "[Thorn]\n¿No necesitas un arma avanzada?\nLlévale enseguida los materiales a Michael."
+    },
+    "KFrmDQ": {
+        "en-US": "[Thorn]\nOr did you come for advanced armor?",
+        "pt-BR": "[Thorn]\nOu veio buscar armaduras avançadas?",
+        "es-ES": "[Thorn]\n¿O viniste por armaduras avanzadas?"
+    },
+    "KVrmDQ": {
+        "en-US": "I need advanced armor.",
+        "pt-BR": "Preciso de armaduras avançadas.",
+        "es-ES": "Necesito armaduras avanzadas."
+    },
+    "KlrmDQ": {
+        "en-US": "I'll be going now.",
+        "pt-BR": "Já estou indo.",
+        "es-ES": "Ya me voy."
+    },
+    "K1rmDQ": {
+        "en-US": "[Thorn]\nSo you came for armor? Take what you need, then hurry over to <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Thorn]\nEntão veio buscar armaduras? Pegue o que precisa e vá logo falar com <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Thorn]\n¿Así que viniste por armaduras? Toma lo que necesitas y ve enseguida con <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>."
+    },
+    "LFrmDQ": {
+        "en-US": "[Thorn]\nYes, off you go. You shouldn't keep <NAVI>[him]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> waiting too long.",
+        "pt-BR": "[Thorn]\nIsso, pode ir. Não é bom deixar os outros esperarem, principalmente <NAVI>[ele]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Thorn]\nSí, anda. No está bien hacer esperar tanto a <NAVI>[él]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>."
+    },
+    "LVrmDQ": {
+        "en-US": "[Thorn]\nWelcome. Here for advanced armor, I take it?",
+        "pt-BR": "[Thorn]\nBoas-vindas. Veio buscar armaduras avançadas, imagino?",
+        "es-ES": "[Thorn]\nBienvenido. Vienes por armaduras avanzadas, supongo."
+    },
+    "LlrmDQ": {
+        "en-US": "[Thorn]\nWait... Coins aren't the issue here. Advanced armor is only for Eden Group members at level 100 or above. Go raise your level and come back.",
+        "pt-BR": "[Thorn]\nEspere... O problema não são as moedas. Só posso entregar armaduras avançadas a membros do Grupo do Éden de nível 100 ou superior. Vá subir de nível e volte.",
+        "es-ES": "[Thorn]\nEspera... El problema no son las monedas. Solo puedo entregar armaduras avanzadas a miembros del Grupo del Edén de nivel 100 o superior. Ve a subir de nivel y vuelve."
+    },
+    "L1rmDQ": {
+        "en-US": "[Thorn]\nFor 10 <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM>, you can take the type of advanced armor you want.",
+        "pt-BR": "[Thorn]\nVocê pode levar um conjunto de armaduras avançadas por 10 <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>.",
+        "es-ES": "[Thorn]\nPor 10 <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM>, puedes llevarte el tipo de armaduras avanzadas que quieras."
+    },
+    "MFrmDQ": {
+        "en-US": "[Thorn]\nWelcome back. You're that charming young adventurer from before.",
+        "pt-BR": "[Thorn]\nBoas-vindas de volta. Eu lembro de você.",
+        "es-ES": "[Thorn]\nBienvenido de nuevo. Eres aquel joven aventurero simpático de antes."
+    },
+    "MVrmDQ": {
+        "en-US": "[Thorn]\nWhat's wrong? Eager to get your advanced armor? Don't worry. I reckon you'll be able to use it soon. Hahaha!",
+        "pt-BR": "[Thorn]\nO que foi? Tem ânsia de receber armaduras mais avançadas? Não se preocupe. Acho que logo poderá usá-las. Hahaha!",
+        "es-ES": "[Thorn]\n¿Qué pasa? ¿Impaciente por recibir tus armaduras avanzadas? No te preocupes. Creo que pronto podrás usarlas. ¡Ja, ja, ja!"
+    },
+    "MlrmDQ": {
+        "en-US": "[Thorn]\nHello there. Need something from me? There is a proper order to these things, you know.",
+        "pt-BR": "[Thorn]\nOlá. Precisa de algo comigo? Mas tudo tem uma ordem, sabe?",
+        "es-ES": "[Thorn]\nHola. ¿Necesitas algo de mí? Pero estas cosas tienen un orden, ¿sabes?"
+    },
+    "M1rmDQ": {
+        "en-US": "[Thorn]\nNo matter how eager you are, speak to <NAVI>[Instructor Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> in the lobby first and get his instructions.",
+        "pt-BR": "[Thorn]\nPor mais pressa que tenha, fale primeiro com <NAVI>[Instrutor Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Thorn]\nPor mucha prisa que tengas, habla primero con <NAVI>[Instructor Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> en el vestíbulo para recibir instrucciones."
+    },
+    "NFrmDQ": {
+        "en-US": "Quartermaster Michael",
+        "pt-BR": "Administrador Michael",
+        "es-ES": "Encargado Michael"
+    },
+    "NVrmDQ": {
+        "en-US": "Intermediate and Advanced Weapons",
+        "pt-BR": "Armas do Éden",
+        "es-ES": "Armas Intermedias y Avanzadas"
+    },
+    "NlrmDQ": {
+        "en-US": "[Michael]\nNice to meet you. You're not an Eden Group member yet, are you?",
+        "pt-BR": "[Michael]\nPrazer em conhecer você. Ainda não faz parte do Grupo do Éden, não é?",
+        "es-ES": "[Michael]\nUn placer conocerte. Todavía no eres miembro del Grupo del Edén, ¿verdad?"
+    },
+    "N1rmDQ": {
+        "en-US": "[Michael]\nThis equipment is for Eden Group members. Would you speak to <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> in the lobby first?",
+        "pt-BR": "[Michael]\nEstes equipamentos são para membros do Grupo do Éden. Pode falar primeiro com <NAVI>[Lenore]<INFO>moc_para01,27,31,0,101,0,</INFO></NAVI>?",
+        "es-ES": "[Michael]\nEste equipo es para los miembros del Grupo del Edén. ¿Puedes hablar primero con <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> en el vestíbulo?"
+    },
+    "OFrmDQ": {
+        "en-US": "[Michael]\nYou seem to be here for an advanced weapon.\nYou need to gather the materials for your weapon yourself. <NAVI>[Instructor Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> in the lobby can tell you which materials to bring.",
+        "pt-BR": "[Michael]\nParece que veio buscar uma arma mais avançada.\nVocê precisa coletar os materiais necessários. Sabe que pode informar quais materiais trazer? O <NAVI>[Instrutor Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>!",
+        "es-ES": "[Michael]\nParece que vienes por un arma avanzada.\nDebes conseguir los materiales de tu arma. <NAVI>[Instructor Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI>, en el vestíbulo, puede indicarte cuáles traer."
+    },
+    "OVrmDQ": {
+        "en-US": "[Michael]\nOr have you come back for an intermediate weapon?",
+        "pt-BR": "[Michael]\nOu voltou para buscar uma arma intermediária?",
+        "es-ES": "[Michael]\n¿O volviste por un arma intermedia?"
+    },
+    "OlrmDQ": {
+        "en-US": "I'm fine, thanks.",
+        "pt-BR": "Não preciso, valeu.",
+        "es-ES": "Estoy bien, gracias."
+    },
+    "O1rmDQ": {
+        "en-US": "Yes, I need one!",
+        "pt-BR": "Sim, preciso!",
+        "es-ES": "¡Sí, necesito una!"
+    },
+    "PFrmDQ": {
+        "en-US": "[Michael]\nAll right. It's time for you to use advanced weapons instead of intermediate ones. Off you go.",
+        "pt-BR": "[Michael]\nCerto. Já é hora de usar armas avançadas em vez das intermediárias. Pode ir.",
+        "es-ES": "[Michael]\nBien. Ya es hora de usar armas avanzadas en lugar de intermedias. Anda, ve."
+    },
+    "PVrmDQ": {
+        "en-US": "[Michael]\nYou must really be in a hurry.",
+        "pt-BR": "[Michael]\nVocê deve estar mesmo com pressa.",
+        "es-ES": "[Michael]\nDebes tener mucha prisa."
+    },
+    "PlrmDQ": {
+        "en-US": "[Michael]\nHello, nice to meet you. Weren't you going to speak to Thorn, though?",
+        "pt-BR": "[Michael]\nOlá, prazer em conhecer você. Mas não ia falar com Thorn?",
+        "es-ES": "[Michael]\nHola, un placer conocerte. Pero ¿no ibas a hablar con Thorn?"
+    },
+    "P1rmDQ": {
+        "en-US": "[Michael]\nHello, nice to meet you. I'm Michael, in charge of intermediate and advanced weapons.",
+        "pt-BR": "[Michael]\nOlá, prazer em conhecer você. Sou Michael, responsável pelas armas intermediárias e avançadas.",
+        "es-ES": "[Michael]\nHola, un placer conocerte. Soy Michael, encargado de las armas intermedias y avanzadas."
+    },
+    "QFrmDQ": {
+        "en-US": "[Michael]\nI can't give you a weapon you can use just yet, but come back when you've grown a little stronger. I'll give you a good one.",
+        "pt-BR": "[Michael]\nAinda não posso entregar uma arma que você possa usar, mas volte quando ficar um pouco mais forte. Vou dar uma arma das boas.",
+        "es-ES": "[Michael]\nTodavía no puedo darte un arma que puedas usar, pero vuelve cuando seas un poco más fuerte. Te daré una buena."
+    },
+    "QVrmDQ": {
+        "en-US": "[Michael]\nYou can receive intermediate weapons at Base Level 45 and advanced weapons once you're past level 100.",
+        "pt-BR": "[Michael]\nVocê pode receber armas intermediárias no nível de base 45 e armas avançadas depois de passar do nível 100.",
+        "es-ES": "[Michael]\nPuedes recibir armas intermedias en el nivel base 45 y armas avanzadas cuando pases del nivel 100."
+    },
+    "QlrmDQ": {
+        "en-US": "[Michael]\nWondering where to get equipment you can use right now? <NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI> beside me can provide it. Go see him.",
+        "pt-BR": "[Michael]\nQuer saber onde conseguir equipamentos para usar agora? Você pode receber alguns deles com <NAVI>[BK]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>. Vá falar com ele.",
+        "es-ES": "[Michael]\n¿Quieres saber dónde conseguir equipo para usar ahora? <NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI>, aquí al lado, puede dártelo. Ve a verlo."
+    },
+    "Q1rmDQ": {
+        "en-US": "[Michael]\nOh, now that I look, you're already high enough level for an intermediate weapon! Would you like one?",
+        "pt-BR": "[Michael]\nAh, olhando melhor, você já tem nível para receber uma arma intermediária! Quer uma?",
+        "es-ES": "[Michael]\n¡Ah, ahora que lo veo, ya tienes nivel para recibir un arma intermedia! ¿Quieres una?"
+    },
+    "RFrmDQ": {
+        "en-US": "Yes, please!",
+        "pt-BR": "Sim, por favor!",
+        "es-ES": "¡Sí, por favor!"
+    },
+    "RVrmDQ": {
+        "en-US": "[Michael]\nAfter you get your intermediate weapon, make sure you visit BK. All right?",
+        "pt-BR": "[Michael]\nDepois de receber sua arma intermediária, não deixe de falar com BK. Certo?",
+        "es-ES": "[Michael]\nDespués de recibir tu arma intermedia, no olvides visitar a BK. ¿De acuerdo?"
+    },
+    "RlrmDQ": {
+        "en-US": "[Michael]\nAll right. Come back anytime you need an intermediate weapon. Take care.",
+        "pt-BR": "[Michael]\nCerto. Volte sempre que precisar de uma arma intermediária. Cuide-se.",
+        "es-ES": "[Michael]\nBien. Vuelve cuando necesites un arma intermedia. Cuídate."
+    },
+    "R1rmDQ": {
+        "en-US": "[Michael]\nTake care, then.",
+        "pt-BR": "[Michael]\nEntão, cuide-se.",
+        "es-ES": "[Michael]\nEntonces, cuídate."
+    },
+    "SFrmDQ": {
+        "en-US": "[Michael]\nI told you to get your basic equipment from <NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI>. Why did you come back?",
+        "pt-BR": "[Michael]\nEu disse para buscar seus equipamentos básicos com <NAVI>[BK]<INFO>moc_para01,110,79,0,101,0,</INFO></NAVI>. Por que voltou?",
+        "es-ES": "[Michael]\nTe dije que buscaras tu equipo básico con <NAVI>[BK]<INFO>moc_para0b,110,79,0,101,0,</INFO></NAVI>. ¿Por qué volviste?"
+    },
+    "SVrmDQ": {
+        "en-US": "[Michael]\nHmm? Aren't you supposed to see <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> now? I saw what happened!",
+        "pt-BR": "[Michael]\nHã? Você não deveria ir falar com <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>? Eu ouvi tudo!",
+        "es-ES": "[Michael]\n¿Mmm? ¿No deberías ir a ver a <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> ahora? ¡Lo vi todo!"
+    },
+    "SlrmDQ": {
+        "en-US": "[Michael]\nHave you come back because you need an intermediate weapon?",
+        "pt-BR": "[Michael]\nVoltou porque precisa de uma arma intermediária?",
+        "es-ES": "[Michael]\n¿Volviste porque necesitas un arma intermedia?"
+    },
+    "S1rmDQ": {
+        "en-US": "[Michael]\nOh, then let me get you an intermediate weapon. One moment...",
+        "pt-BR": "[Michael]\nAh, então vou entregar uma arma intermediária. Só um momento...",
+        "es-ES": "[Michael]\nAh, entonces te daré un arma intermedia. Un momento..."
+    },
+    "TFrmDQ": {
+        "en-US": "[Michael]\nAll right. Come back anytime you need an intermediate weapon. Take care.",
+        "pt-BR": "[Michael]\nCerto. Volte sempre que precisar de uma arma intermediária. Cuide-se.",
+        "es-ES": "[Michael]\nBien. Vuelve cuando necesites un arma intermedia. Cuídate."
+    },
+    "TVrmDQ": {
+        "en-US": "[Michael]\nWelcome. You brought the materials Ur told you about, right?",
+        "pt-BR": "[Michael]\nBoas-vindas. Trouxe os materiais que Ur pediu, certo?",
+        "es-ES": "[Michael]\nBienvenido. Trajiste los materiales que te indicó Ur, ¿verdad?"
+    },
+    "TlrmDQ": {
+        "en-US": "[Michael]\nHmm... You're a little short. Weren't you told to bring ^0000CD15 Old Picks^000000? You need the full amount.",
+        "pt-BR": "[Michael]\nHm... Está faltando um pouco mais. Não pediram ^0000CD15 Picaretas Velhas^000000? Precisa trazer a quantidade completa.",
+        "es-ES": "[Michael]\nMmm... Te faltan algunos. ¿No te pidieron ^0000CD15 Picos Viejos^000000? Debes traer la cantidad completa."
+    },
+    "T1rmDQ": {
+        "en-US": "[Michael]\nOh, are you here for an intermediate weapon instead?",
+        "pt-BR": "[Michael]\nAh, veio buscar uma arma intermediária?",
+        "es-ES": "[Michael]\nAh, ¿viniste por un arma intermedia?"
+    },
+    "UFrmDQ": {
+        "en-US": "No. I'll bring the materials.",
+        "pt-BR": "Não. Trouxe os materiais.",
+        "es-ES": "No. Traeré los materiales."
+    },
+    "UVrmDQ": {
+        "en-US": "Yes, an intermediate weapon, please.",
+        "pt-BR": "Sim, uma arma, por favor.",
+        "es-ES": "Sí, un arma intermedia, por favor."
+    },
+    "UlrmDQ": {
+        "en-US": "[Michael]\nI'll be waiting for the materials, then.",
+        "pt-BR": "[Michael]\nEntão vou esperar os materiais.",
+        "es-ES": "[Michael]\nEntonces esperaré los materiales."
+    },
+    "U1rmDQ": {
+        "en-US": "[Michael]\nI see. An intermediate weapon. I'll get you one.",
+        "pt-BR": "[Michael]\nEntendi. Uma arma intermediária. Vou entregar.",
+        "es-ES": "[Michael]\nEntiendo. Un arma intermedia. Te daré una."
+    },
+    "VFrmDQ": {
+        "en-US": "[Michael]\nYou've brought the right amount. I'll give you an advanced weapon. I have some suited to your job. Which would you like?",
+        "pt-BR": "[Michael]\nTrouxe a quantidade certa. Vou entregar uma arma avançada. Preparei opções para sua classe. Qual você quer?",
+        "es-ES": "[Michael]\nTrajiste la cantidad correcta. Te daré un arma avanzada. Preparé opciones para tu clase. ¿Cuál quieres?"
+    },
+    "VVrmDQ": {
+        "en-US": "[Michael]\nBut why has your level gone down? You need to be past level 100 to receive a weapon. Go get stronger and come back.",
+        "pt-BR": "[Michael]\nMas por que seu nível diminuiu? Precisa passar do nível 100 para receber uma arma. Vá ficar mais forte e volte.",
+        "es-ES": "[Michael]\nPero ¿por qué bajó tu nivel? Debes pasar del nivel 100 para recibir un arma. Ve a hacerte más fuerte y vuelve."
+    },
+    "VlrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Rune Knight <ITEM>[Two-Handed Sword]<INFO>600021</INFO></ITEM>\nor Eden Rune Knight <ITEM>[Lance]<INFO>630015</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Espada Rúnica do Éden]<INFO>600021</INFO></ITEM>\nou <ITEM>[Lança Rúnica do Éden]<INFO>630015</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Caballero Rúnico del Edén <ITEM>[Espada a Dos Manos]<INFO>600021</INFO></ITEM>\no Caballero Rúnico del Edén <ITEM>[Lanza]<INFO>630015</INFO></ITEM>?"
+    },
+    "V1rmDQ": {
+        "en-US": "Eden Rune Knight Two-Handed Sword",
+        "pt-BR": "Espada Rúnica do Éden",
+        "es-ES": "Espada a Dos Manos del Edén (Caballero Rúnico)"
+    },
+    "WFrmDQ": {
+        "en-US": "Eden Rune Knight Lance",
+        "pt-BR": "Lança Rúnica do Éden",
+        "es-ES": "Lanza del Edén (Caballero Rúnico)"
+    },
+    "WVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Royal Guard <ITEM>[Spear]<INFO>530018</INFO></ITEM>\nor Eden Royal Guard <ITEM>[Sword]<INFO>500036</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha:\n<ITEM>[Lança Guardiã do Éden]<INFO>530018</INFO></ITEM>\nou <ITEM>[Espada Guardiã do Éden]<INFO>500036</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Guardia Real del Edén <ITEM>[Lanza]<INFO>530018</INFO></ITEM>\no Guardia Real del Edén <ITEM>[Espada]<INFO>500036</INFO></ITEM>?"
+    },
+    "WlrmDQ": {
+        "en-US": "Eden Royal Guard Spear",
+        "pt-BR": "Lança Guardiã do Éden",
+        "es-ES": "Lanza del Edén (Guardia Real)"
+    },
+    "W1rmDQ": {
+        "en-US": "Eden Royal Guard Sword",
+        "pt-BR": "Espada Guardiã do Éden",
+        "es-ES": "Espada del Edén (Guardia Real)"
+    },
+    "XFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Mechanic <ITEM>[Two-Handed Axe]<INFO>620012</INFO></ITEM>\nor Eden Mechanic <ITEM>[Axe]<INFO>520012</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Lábris Mecânico do Éden]<INFO>620012</INFO></ITEM>\nou <ITEM>[Machado Mecânico do Éden]<INFO>520012</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Mecánico del Edén <ITEM>[Hacha a Dos Manos]<INFO>620012</INFO></ITEM>\no Mecánico del Edén <ITEM>[Hacha]<INFO>520012</INFO></ITEM>?"
+    },
+    "XVrmDQ": {
+        "en-US": "Eden Mechanic Two-Handed Axe",
+        "pt-BR": "Lábris Mecânico do Éden",
+        "es-ES": "Hacha a Dos Manos del Edén (Mecánico)"
+    },
+    "XlrmDQ": {
+        "en-US": "Eden Mechanic Axe",
+        "pt-BR": "Machado Mecânico do Éden",
+        "es-ES": "Hacha del Edén (Mecánico)"
+    },
+    "X1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Genetic <ITEM>[Sword]<INFO>500037</INFO></ITEM>\nor Eden Genetic <ITEM>[Mace]<INFO>590028</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Espada Bioquímica do Éden]<INFO>500037</INFO></ITEM>\nou <ITEM>[Maça Bioquímica do Éden]<INFO>590028</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Genetista del Edén <ITEM>[Espada]<INFO>500037</INFO></ITEM>\no Genetista del Edén <ITEM>[Maza]<INFO>590028</INFO></ITEM>?"
+    },
+    "YFrmDQ": {
+        "en-US": "Eden Genetic Sword",
+        "pt-BR": "Espada Bioquímica do Éden",
+        "es-ES": "Espada del Edén (Genetista)"
+    },
+    "YVrmDQ": {
+        "en-US": "Eden Genetic Mace",
+        "pt-BR": "Maça Bioquímica do Éden",
+        "es-ES": "Maza del Edén (Genetista)"
+    },
+    "YlrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Guillotine Cross <ITEM>[Chakram]<INFO>610026</INFO></ITEM>\nor Eden Guillotine Cross <ITEM>[Katar]<INFO>610027</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Chakram Sicário do Éden]<INFO>610026</INFO></ITEM>\nou <ITEM>[Katar Sicário do Éden]<INFO>610027</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Sicario del Edén <ITEM>[Chakram]<INFO>610026</INFO></ITEM>\no Sicario del Edén <ITEM>[Katar]<INFO>610027</INFO></ITEM>?"
+    },
+    "Y1rmDQ": {
+        "en-US": "Eden Guillotine Cross Chakram",
+        "pt-BR": "Chakram Sicário do Éden",
+        "es-ES": "Chakram del Edén (Sicario)"
+    },
+    "ZFrmDQ": {
+        "en-US": "Eden Guillotine Cross Katar",
+        "pt-BR": "Katar Sicário do Éden",
+        "es-ES": "Katar del Edén (Sicario)"
+    },
+    "ZVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Shadow Chaser <ITEM>[Dagger]<INFO>510038</INFO></ITEM>\nor Eden Shadow Chaser <ITEM>[Bow]<INFO>700041</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Adaga Renegada do Éden]<INFO>510038</INFO></ITEM>\nou <ITEM>[Arco Renegado do Éden]<INFO>700041</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Acechador de Sombras del Edén <ITEM>[Daga]<INFO>510038</INFO></ITEM>\no Acechador de Sombras del Edén <ITEM>[Arco]<INFO>700041</INFO></ITEM>?"
+    },
+    "ZlrmDQ": {
+        "en-US": "Eden Shadow Chaser Dagger",
+        "pt-BR": "Adaga Renegada do Éden",
+        "es-ES": "Daga del Edén (Acechador de Sombras)"
+    },
+    "Z1rmDQ": {
+        "en-US": "Eden Shadow Chaser Bow",
+        "pt-BR": "Arco Renegado do Éden",
+        "es-ES": "Arco del Edén (Acechador de Sombras)"
+    },
+    "aFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Warlock <ITEM>[Staff]<INFO>640023</INFO></ITEM>\nor Eden Warlock <ITEM>[Wand]<INFO>640024</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Cajado Arcanista do Éden]<INFO>640023</INFO></ITEM>\nou <ITEM>[Cetro Arcanista do Éden]<INFO>640024</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Brujo del Edén <ITEM>[Bastón]<INFO>640023</INFO></ITEM>\no Brujo del Edén <ITEM>[Varita]<INFO>640024</INFO></ITEM>?"
+    },
+    "aVrmDQ": {
+        "en-US": "Eden Warlock Staff",
+        "pt-BR": "Cajado Arcanista do Éden",
+        "es-ES": "Bastón del Edén (Brujo)"
+    },
+    "alrmDQ": {
+        "en-US": "Eden Warlock Wand",
+        "pt-BR": "Cetro Arcanista do Éden",
+        "es-ES": "Varita del Edén (Brujo)"
+    },
+    "a1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Sorcerer <ITEM>[Magic Book]<INFO>540031</INFO></ITEM>\nor Eden Sorcerer <ITEM>[Spellbook]<INFO>540032</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Livro Feiticeiro do Éden]<INFO>540031</INFO></ITEM>\nou <ITEM>[Grimório Feiticeiro do Éden]<INFO>540032</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Hechicero del Edén <ITEM>[Libro Mágico]<INFO>540031</INFO></ITEM>\no Hechicero del Edén <ITEM>[Libro de Hechizos]<INFO>540032</INFO></ITEM>?"
+    },
+    "bFrmDQ": {
+        "en-US": "Eden Sorcerer Magic Book",
+        "pt-BR": "Livro Feiticeiro do Éden",
+        "es-ES": "Libro Mágico del Edén (Hechicero)"
+    },
+    "bVrmDQ": {
+        "en-US": "Eden Sorcerer Spellbook",
+        "pt-BR": "Grimório Feiticeiro do Éden",
+        "es-ES": "Libro de Hechizos del Edén (Hechicero)"
+    },
+    "blrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Arch Bishop <ITEM>[Staff]<INFO>550041</INFO></ITEM>\nor Eden Arch Bishop <ITEM>[Mace]<INFO>590029</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Cetro Arcebispal do Éden]<INFO>550041</INFO></ITEM>\nou <ITEM>[Martelo Arcebispal do Éden]<INFO>590029</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Arzobispo del Edén <ITEM>[Bastón]<INFO>550041</INFO></ITEM>\no Arzobispo del Edén <ITEM>[Maza]<INFO>590029</INFO></ITEM>?"
+    },
+    "b1rmDQ": {
+        "en-US": "Eden Arch Bishop Staff",
+        "pt-BR": "Cetro Arcebispal do Éden",
+        "es-ES": "Bastón del Edén (Arzobispo)"
+    },
+    "cFrmDQ": {
+        "en-US": "Eden Arch Bishop Mace",
+        "pt-BR": "Martelo Arcebispal do Éden",
+        "es-ES": "Maza del Edén (Arzobispo)"
+    },
+    "cVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Sura <ITEM>[Knuckle]<INFO>560024</INFO></ITEM>\nor Eden Sura <ITEM>[Claw]<INFO>560025</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Soco-Inglês Afiado do Éden]<INFO>560024</INFO></ITEM>\nou <ITEM>[Punho Afiado do Éden]<INFO>560025</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Sura del Edén <ITEM>[Puño]<INFO>560024</INFO></ITEM>\no Sura del Edén <ITEM>[Garra]<INFO>560025</INFO></ITEM>?"
+    },
+    "clrmDQ": {
+        "en-US": "Eden Sura Knuckle",
+        "pt-BR": "Soco-Inglês Afiado do Éden",
+        "es-ES": "Puño del Edén (Sura)"
+    },
+    "c1rmDQ": {
+        "en-US": "Eden Sura Claw",
+        "pt-BR": "Punho Afiado do Éden",
+        "es-ES": "Garra del Edén (Sura)"
+    },
+    "dFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Ranger <ITEM>[Bow]<INFO>700042</INFO></ITEM>\nor Eden Ranger <ITEM>[Crossbow]<INFO>700043</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Arco Sentinela do Éden]<INFO>700042</INFO></ITEM>\nou <ITEM>[Besta Sentinela do Éden]<INFO>700043</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Explorador del Edén <ITEM>[Arco]<INFO>700042</INFO></ITEM>\no Explorador del Edén <ITEM>[Ballesta]<INFO>700043</INFO></ITEM>?"
+    },
+    "dVrmDQ": {
+        "en-US": "Eden Ranger Bow",
+        "pt-BR": "Arco Sentinela do Éden",
+        "es-ES": "Arco del Edén (Explorador)"
+    },
+    "dlrmDQ": {
+        "en-US": "Eden Ranger Crossbow",
+        "pt-BR": "Besta Sentinela do Éden",
+        "es-ES": "Ballesta del Edén (Explorador)"
+    },
+    "d1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Minstrel <ITEM>[Violin]<INFO>570022</INFO></ITEM>\nor Eden Minstrel <ITEM>[Harp]<INFO>570023</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Violino Trovador do Éden]<INFO>570022</INFO></ITEM>\nou <ITEM>[Harpa Ressoante do Éden]<INFO>570023</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Trovador del Edén <ITEM>[Violín]<INFO>570022</INFO></ITEM>\no Trovador del Edén <ITEM>[Arpa]<INFO>570023</INFO></ITEM>?"
+    },
+    "eFrmDQ": {
+        "en-US": "Eden Minstrel Violin",
+        "pt-BR": "Violino Trovador do Éden",
+        "es-ES": "Violín del Edén (Trovador)"
+    },
+    "eVrmDQ": {
+        "en-US": "Eden Minstrel Harp",
+        "pt-BR": "Harpa Ressoante do Éden",
+        "es-ES": "Arpa del Edén (Trovador)"
+    },
+    "elrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Wanderer <ITEM>[Whip]<INFO>580022</INFO></ITEM>\nor Eden Wanderer <ITEM>[Rope]<INFO>580023</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Chicote Bailarino do Éden]<INFO>580022</INFO></ITEM>\nou <ITEM>[Chicote Ressonante do Éden]<INFO>580023</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Trotamundos del Edén <ITEM>[Látigo]<INFO>580022</INFO></ITEM>\no Trotamundos del Edén <ITEM>[Cuerda]<INFO>580023</INFO></ITEM>?"
+    },
+    "e1rmDQ": {
+        "en-US": "Eden Wanderer Whip",
+        "pt-BR": "Chicote Bailarino do Éden",
+        "es-ES": "Látigo del Edén (Trotamundos)"
+    },
+    "fFrmDQ": {
+        "en-US": "Eden Wanderer Rope",
+        "pt-BR": "Chicote Ressonante do Éden",
+        "es-ES": "Cuerda del Edén (Trotamundos)"
+    },
+    "fVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Kagerou & Oboro <ITEM>[Huuma Shuriken]<INFO>650012</INFO></ITEM>\nor Eden Kagerou & Oboro <ITEM>[Cross Huuma Shuriken]<INFO>650013</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Shuriken Ninpou do Éden]<INFO>650012</INFO></ITEM>\nou <ITEM>[Shuriken Togatana do Éden]<INFO>650013</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Kagerou y Oboro del Edén <ITEM>[Shuriken Huuma]<INFO>650012</INFO></ITEM>\no Kagerou y Oboro del Edén <ITEM>[Shuriken Huuma Cruzado]<INFO>650013</INFO></ITEM>?"
+    },
+    "flrmDQ": {
+        "en-US": "Eden Kagerou & Oboro Huuma Shuriken",
+        "pt-BR": "Shuriken Ninpou do Éden",
+        "es-ES": "Shuriken Huuma del Edén (Kagerou y Oboro)"
+    },
+    "f1rmDQ": {
+        "en-US": "Eden Kagerou & Oboro Cross Huuma Shuriken",
+        "pt-BR": "Shuriken Togatana do Éden",
+        "es-ES": "Shuriken Huuma Cruzado del Edén (Kagerou y Oboro)"
+    },
+    "gFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Rebellion <ITEM>[Revolver]<INFO>800006</INFO></ITEM>\nor Eden Rebellion <ITEM>[Gatling Gun]<INFO>830004</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Revólver Insurgente do Éden]<INFO>800006</INFO></ITEM>\nou <ITEM>[Metralhadora Insurgente do Éden]<INFO>830004</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Rebelde del Edén <ITEM>[Revólver]<INFO>800006</INFO></ITEM>\no Rebelde del Edén <ITEM>[Ametralladora Gatling]<INFO>830004</INFO></ITEM>?"
+    },
+    "gVrmDQ": {
+        "en-US": "Eden Rebellion Revolver",
+        "pt-BR": "Revólver Insurgente do Éden",
+        "es-ES": "Revólver del Edén (Rebelde)"
+    },
+    "glrmDQ": {
+        "en-US": "Eden Rebellion Gatling Gun",
+        "pt-BR": "Metralhadora Insurgente do Éden",
+        "es-ES": "Ametralladora Gatling del Edén (Rebelde)"
+    },
+    "g1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Star Emperor <ITEM>[Sun Book]<INFO>540033</INFO></ITEM>\nor Eden Star Emperor <ITEM>[Moon Book]<INFO>540034</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Livro Solar do Éden]<INFO>540033</INFO></ITEM>\nou <ITEM>[Livro Lunar do Éden]<INFO>540034</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Emperador Estelar del Edén <ITEM>[Libro del Sol]<INFO>540033</INFO></ITEM>\no Emperador Estelar del Edén <ITEM>[Libro de la Luna]<INFO>540034</INFO></ITEM>?"
+    },
+    "hFrmDQ": {
+        "en-US": "Eden Star Emperor Sun Book",
+        "pt-BR": "Livro Solar do Éden",
+        "es-ES": "Libro del Sol del Edén (Emperador Estelar)"
+    },
+    "hVrmDQ": {
+        "en-US": "Eden Star Emperor Moon Book",
+        "pt-BR": "Livro Lunar do Éden",
+        "es-ES": "Libro de la Luna del Edén (Emperador Estelar)"
+    },
+    "hlrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Soul Reaper <ITEM>[Staff]<INFO>640025</INFO></ITEM>\nor Eden Soul Reaper <ITEM>[Soul Stick]<INFO>640026</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Varinha Ceifeira do Éden]<INFO>640025</INFO></ITEM>\nou <ITEM>[Vareta Necromante do Éden]<INFO>640026</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Segador de Almas del Edén <ITEM>[Bastón]<INFO>640025</INFO></ITEM>\no Segador de Almas del Edén <ITEM>[Vara de Almas]<INFO>640026</INFO></ITEM>?"
+    },
+    "h1rmDQ": {
+        "en-US": "Eden Soul Reaper Staff",
+        "pt-BR": "Varinha Ceifeira do Éden",
+        "es-ES": "Bastón del Edén (Segador de Almas)"
+    },
+    "iFrmDQ": {
+        "en-US": "Eden Soul Reaper Soul Stick",
+        "pt-BR": "Vareta Necromante do Éden",
+        "es-ES": "Vara de Almas del Edén (Segador de Almas)"
+    },
+    "iVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Summoner <ITEM>[Foxtail]<INFO>550042</INFO></ITEM>\nor Eden Summoner <ITEM>[Foxtail Model]<INFO>550043</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Raminho de Fauna do Éden]<INFO>550042</INFO></ITEM>\nou <ITEM>[Raminho de Selva do Éden]<INFO>550043</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Invocador del Edén <ITEM>[Cola de Zorro]<INFO>550042</INFO></ITEM>\no Invocador del Edén <ITEM>[Modelo de Cola de Zorro]<INFO>550043</INFO></ITEM>?"
+    },
+    "ilrmDQ": {
+        "en-US": "Eden Summoner Foxtail",
+        "pt-BR": "Raminho de Fauna do Éden",
+        "es-ES": "Cola de Zorro del Edén (Invocador)"
+    },
+    "i1rmDQ": {
+        "en-US": "Eden Summoner Foxtail Model",
+        "pt-BR": "Raminho de Selva do Éden",
+        "es-ES": "Modelo de Cola de Zorro del Edén (Invocador)"
+    },
+    "jFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Super Novice <ITEM>[Dagger]<INFO>510039</INFO></ITEM>\nor Eden Super Novice <ITEM>[Wand]<INFO>550044</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Adaga Superaprendiz do Éden]<INFO>510039</INFO></ITEM>\nou <ITEM>[Báculo Superaprendiz do Éden]<INFO>550044</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Superprincipiante del Edén <ITEM>[Daga]<INFO>510039</INFO></ITEM>\no Superprincipiante del Edén <ITEM>[Varita]<INFO>550044</INFO></ITEM>?"
+    },
+    "jVrmDQ": {
+        "en-US": "Eden Super Novice Dagger",
+        "pt-BR": "Adaga Superaprendiz do Éden",
+        "es-ES": "Daga del Edén (Superprincipiante)"
+    },
+    "jlrmDQ": {
+        "en-US": "Eden Super Novice Wand",
+        "pt-BR": "Báculo Superaprendiz do Éden",
+        "es-ES": "Varita del Edén (Superprincipiante)"
+    },
+    "j1rmDQ": {
+        "en-US": "[Michael]\nHmm... It looks a little early for you to receive an advanced weapon.",
+        "pt-BR": "[Michael]\nHum... Parece um pouco cedo para você receber uma arma avançada.",
+        "es-ES": "[Michael]\nMmm... Parece un poco pronto para que recibas un arma avanzada."
+    },
+    "kFrmDQ": {
+        "en-US": "[Michael]\nThese weapons are tailored to your job, so you should change to a higher job first. Come back afterward and I'll give you a weapon that fits your job perfectly.",
+        "pt-BR": "[Michael]\nEstas armas são feitas para cada classe, então é melhor mudar para uma classe superior primeiro. Volte depois e entregarei uma arma perfeita para sua classe.",
+        "es-ES": "[Michael]\nEstas armas están adaptadas a cada clase, así que deberías cambiar a una clase superior primero. Vuelve después y te daré un arma perfecta para tu clase."
+    },
+    "kVrmDQ": {
+        "en-US": "[Michael]\nGood choice. Here's the weapon you requested.\nIf you need another advanced weapon or lose this one, come back anytime. Bring 10 <ITEM>[Eden Coin]<INFO>25223</INFO></ITEM> and I'll give you a new one.",
+        "pt-BR": "[Michael]\nBoa escolha. Aqui está a arma que pediu.\nSe precisar de outra arma avançada ou perder esta, volte com 10 <ITEM>[Moeda do Éden]<INFO>25223</INFO></ITEM>. Só assim eu entregarei uma arma nova.",
+        "es-ES": "[Michael]\nBuena elección. Aquí tienes el arma que pediste.\nSi necesitas otra arma avanzada o pierdes esta, vuelve cuando quieras. Trae 10 <ITEM>[Moneda del Edén]<INFO>25223</INFO></ITEM> y te daré una nueva."
+    },
+    "klrmDQ": {
+        "en-US": "[Michael]\nIt looks like you haven't received advanced armor from <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI> yet. Go see him!",
+        "pt-BR": "[Michael]\nParece que ainda não recebeu armaduras avançadas do <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>. Vá falar com ele!",
+        "es-ES": "[Michael]\nParece que todavía no recibiste armaduras avanzadas de <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>. ¡Ve a verlo!"
+    },
+    "k1rmDQ": {
+        "en-US": "[Michael]\nHave a good day, then!",
+        "pt-BR": "[Michael]\nEntão, tenha um bom dia!",
+        "es-ES": "[Michael]\n¡Entonces, que tengas un buen día!"
+    },
+    "lFrmDQ": {
+        "en-US": "[Michael]\nYou haven't seen <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI> yet? If you want advanced armor, go see him.",
+        "pt-BR": "[Michael]\nAinda não foi falar com <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>? Se quiser armaduras avançadas, vá vê-lo.",
+        "es-ES": "[Michael]\n¿Todavía no fuiste a ver a <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>? Si quieres armaduras avanzadas, ve a verlo."
+    },
+    "lVrmDQ": {
+        "en-US": "I'd like a new weapon.",
+        "pt-BR": "Quero uma arma nova.",
+        "es-ES": "Quiero un arma nueva."
+    },
+    "llrmDQ": {
+        "en-US": "All right, I'll go.",
+        "pt-BR": "Certo, vou até lá.",
+        "es-ES": "Está bien, iré."
+    },
+    "l1rmDQ": {
+        "en-US": "[Michael]\nBut... You need to be past level 100 to receive a weapon. Go get stronger and come back.",
+        "pt-BR": "[Michael]\nMas... Precisa passar do nível 100 para receber uma arma. Vá ficar mais forte e volte.",
+        "es-ES": "[Michael]\nPero... Debes pasar del nivel 100 para recibir un arma. Ve a hacerte más fuerte y vuelve."
+    },
+    "mFrmDQ": {
+        "en-US": "[Michael]\nAll right. Take your time and choose a weapon you really like.",
+        "pt-BR": "[Michael]\nCerto. Olhe com calma e escolha uma arma de que goste.",
+        "es-ES": "[Michael]\nBien. Mira con calma y elige un arma que te guste."
+    },
+    "mVrmDQ": {
+        "en-US": "[Michael]\nAll right. Off you go.",
+        "pt-BR": "[Michael]\nCerto. Pode ir.",
+        "es-ES": "[Michael]\nBien. Anda, ve."
+    },
+    "mlrmDQ": {
+        "en-US": "[Michael]\nHello! Nice to see you. Here because you need a weapon?",
+        "pt-BR": "[Michael]\nOlá! Que bom ver você. Veio porque precisa de uma arma?",
+        "es-ES": "[Michael]\n¡Hola! Me alegra verte. ¿Vienes porque necesitas un arma?"
+    },
+    "m1rmDQ": {
+        "en-US": "I'm here for an advanced weapon.",
+        "pt-BR": "Quero uma arma avançada.",
+        "es-ES": "Vengo por un arma avanzada."
+    },
+    "nFrmDQ": {
+        "en-US": "I'm here for an intermediate weapon.",
+        "pt-BR": "Quero uma arma intermediária.",
+        "es-ES": "Vengo por un arma intermedia."
+    },
+    "nVrmDQ": {
+        "en-US": "[Michael]\nYou've come to the right place. Take your time and choose a weapon you really like.",
+        "pt-BR": "[Michael]\nVeio ao lugar certo. Olhe com calma e escolha uma arma de que goste.",
+        "es-ES": "[Michael]\nLlegaste al lugar indicado. Mira con calma y elige un arma que te guste."
+    },
+    "nlrmDQ": {
+        "en-US": "[Michael]\nReally? Why would... No, never mind. An intermediate weapon. I'll get you one.",
+        "pt-BR": "[Michael]\nMas por quê...? Não, deixa pra lá. Uma arma intermediária. Vou entregar.",
+        "es-ES": "[Michael]\n¿En serio? ¿Por qué...? No, olvídalo. Un arma intermedia. Te daré una."
+    },
+    "n1rmDQ": {
+        "en-US": "[Michael]\nHello! Nice to see you. Here for an intermediate weapon?",
+        "pt-BR": "[Michael]\nOlá! Que bom ver você. Veio buscar uma arma intermediária?",
+        "es-ES": "[Michael]\n¡Hola! Me alegra verte. ¿Vienes por un arma intermedia?"
+    },
+    "oFrmDQ": {
+        "en-US": "[Michael]\nAll right. You've come to the right place.",
+        "pt-BR": "[Michael]\nCerto. Veio ao lugar certo.",
+        "es-ES": "[Michael]\nBien. Llegaste al lugar indicado."
+    },
+    "oVrmDQ": {
+        "en-US": "[Michael]\nHello! Good to see you again.",
+        "pt-BR": "[Michael]\nOlá! Que bom ver você de novo.",
+        "es-ES": "[Michael]\n¡Hola! Me alegra volver a verte."
+    },
+    "olrmDQ": {
+        "en-US": "[Michael]\nHello! Interested in weapons? Then speak to <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> in the lobby first.",
+        "pt-BR": "[Michael]\nOlá! Tem interesse em armas? Então fale primeiro com <NAVI>[Instrutor Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Michael]\n¡Hola! ¿Te interesan las armas? Entonces habla primero con <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> en el vestíbulo."
+    },
+    "o1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Doram <ITEM>[Foxtail]<INFO>550038</INFO></ITEM>\nor Eden Doram <ITEM>[Foxtail Model]<INFO>550039</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Planta de Fauna do Éden]<INFO>550038</INFO></ITEM>\nou <ITEM>[Planta de Selva do Éden]<INFO>550039</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Doram del Edén <ITEM>[Cola de Zorro]<INFO>550038</INFO></ITEM>\no Doram del Edén <ITEM>[Modelo de Cola de Zorro]<INFO>550039</INFO></ITEM>?"
+    },
+    "pFrmDQ": {
+        "en-US": "Eden Doram Foxtail",
+        "pt-BR": "Planta de Fauna do Éden",
+        "es-ES": "Cola de Zorro del Edén (Doram)"
+    },
+    "pVrmDQ": {
+        "en-US": "Eden Doram Foxtail Model",
+        "pt-BR": "Planta de Selva do Éden",
+        "es-ES": "Modelo de Cola de Zorro del Edén (Doram)"
+    },
+    "plrmDQ": {
+        "en-US": "[Michael]\nGood choice. See you next time. Come back whenever you need another weapon.",
+        "pt-BR": "[Michael]\nBoa escolha. Até a próxima. Volte sempre que precisar de outra arma.",
+        "es-ES": "[Michael]\nBuena elección. Hasta la próxima. Vuelve cuando necesites otra arma."
+    },
+    "p1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Knight <ITEM>[Two-Handed Sword]<INFO>600020</INFO></ITEM>\nor Eden Knight <ITEM>[Lance]<INFO>630014</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Espada Cavaleira do Éden]<INFO>600020</INFO></ITEM>\nou <ITEM>[Lança Cavaleira do Éden]<INFO>630014</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Caballero del Edén <ITEM>[Espada a Dos Manos]<INFO>600020</INFO></ITEM>\no Caballero del Edén <ITEM>[Lanza]<INFO>630014</INFO></ITEM>?"
+    },
+    "qFrmDQ": {
+        "en-US": "Eden Knight Two-Handed Sword",
+        "pt-BR": "Espada Cavaleira do Éden",
+        "es-ES": "Espada a Dos Manos del Edén (Caballero)"
+    },
+    "qVrmDQ": {
+        "en-US": "Eden Knight Lance",
+        "pt-BR": "Lança Cavaleira do Éden",
+        "es-ES": "Lanza del Edén (Caballero)"
+    },
+    "qlrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Crusader <ITEM>[Spear]<INFO>530017</INFO></ITEM>\nor Eden Crusader <ITEM>[Sword]<INFO>500033</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Lança Templária do Éden]<INFO>530017</INFO></ITEM>\nou <ITEM>[Espada Templária do Éden]<INFO>500033</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Cruzado del Edén <ITEM>[Lanza]<INFO>530017</INFO></ITEM>\no Cruzado del Edén <ITEM>[Espada]<INFO>500033</INFO></ITEM>?"
+    },
+    "q1rmDQ": {
+        "en-US": "Eden Crusader Spear",
+        "pt-BR": "Lança Templária do Éden",
+        "es-ES": "Lanza del Edén (Cruzado)"
+    },
+    "rFrmDQ": {
+        "en-US": "Eden Crusader Sword",
+        "pt-BR": "Espada Templária do Éden",
+        "es-ES": "Espada del Edén (Cruzado)"
+    },
+    "rVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Blacksmith <ITEM>[Two-Handed Axe]<INFO>620011</INFO></ITEM>\nor Eden Blacksmith <ITEM>[Axe]<INFO>520011</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Lábris Ferreiro do Éden]<INFO>620011</INFO></ITEM>\nou <ITEM>[Machado Ferreiro do Éden]<INFO>520011</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Herrero del Edén <ITEM>[Hacha a Dos Manos]<INFO>620011</INFO></ITEM>\no Herrero del Edén <ITEM>[Hacha]<INFO>520011</INFO></ITEM>?"
+    },
+    "rlrmDQ": {
+        "en-US": "Eden Blacksmith Two-Handed Axe",
+        "pt-BR": "Lábris Ferreiro do Éden",
+        "es-ES": "Hacha a Dos Manos del Edén (Herrero)"
+    },
+    "r1rmDQ": {
+        "en-US": "Eden Blacksmith Axe",
+        "pt-BR": "Machado Ferreiro do Éden",
+        "es-ES": "Hacha del Edén (Herrero)"
+    },
+    "sFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Alchemist <ITEM>[Sword]<INFO>500034</INFO></ITEM>\nor Eden Alchemist <ITEM>[Mace]<INFO>590026</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Espada Alquímica do Éden]<INFO>500034</INFO></ITEM>\nou <ITEM>[Maça Alquímica do Éden]<INFO>590026</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Alquimista del Edén <ITEM>[Espada]<INFO>500034</INFO></ITEM>\no Alquimista del Edén <ITEM>[Maza]<INFO>590026</INFO></ITEM>?"
+    },
+    "sVrmDQ": {
+        "en-US": "Eden Alchemist Sword",
+        "pt-BR": "Espada Alquímica do Éden",
+        "es-ES": "Espada del Edén (Alquimista)"
+    },
+    "slrmDQ": {
+        "en-US": "Eden Alchemist Mace",
+        "pt-BR": "Maça Alquímica do Éden",
+        "es-ES": "Maza del Edén (Alquimista)"
+    },
+    "s1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Assassin <ITEM>[Chakram]<INFO>610024</INFO></ITEM>\nor Eden Assassin <ITEM>[Katar]<INFO>610025</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Chakram Mercenário do Éden]<INFO>610024</INFO></ITEM>\nou <ITEM>[Katar Mercenário do Éden]<INFO>610025</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Asesino del Edén <ITEM>[Chakram]<INFO>610024</INFO></ITEM>\no Asesino del Edén <ITEM>[Katar]<INFO>610025</INFO></ITEM>?"
+    },
+    "tFrmDQ": {
+        "en-US": "Eden Assassin Chakram",
+        "pt-BR": "Chakram Mercenário do Éden",
+        "es-ES": "Chakram del Edén (Asesino)"
+    },
+    "tVrmDQ": {
+        "en-US": "Eden Assassin Katar",
+        "pt-BR": "Katar Mercenário do Éden",
+        "es-ES": "Katar del Edén (Asesino)"
+    },
+    "tlrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Rogue <ITEM>[Dagger]<INFO>510036</INFO></ITEM>\nor Eden Rogue <ITEM>[Bow]<INFO>700037</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Adaga Arruaceira do Éden]<INFO>510036</INFO></ITEM>\nou <ITEM>[Arco Arruaceiro do Éden]<INFO>700037</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Pícaro del Edén <ITEM>[Daga]<INFO>510036</INFO></ITEM>\no Pícaro del Edén <ITEM>[Arco]<INFO>700037</INFO></ITEM>?"
+    },
+    "t1rmDQ": {
+        "en-US": "Eden Rogue Dagger",
+        "pt-BR": "Adaga Arruaceira do Éden",
+        "es-ES": "Daga del Edén (Pícaro)"
+    },
+    "uFrmDQ": {
+        "en-US": "Eden Rogue Bow",
+        "pt-BR": "Arco Arruaceiro do Éden",
+        "es-ES": "Arco del Edén (Pícaro)"
+    },
+    "uVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Wizard <ITEM>[Staff]<INFO>550034</INFO></ITEM>\nor Eden Wizard <ITEM>[Wand]<INFO>550035</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Cetro Bruxo do Éden]<INFO>550034</INFO></ITEM>\nou <ITEM>[Cajado Bruxo do Éden]<INFO>550035</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Mago Superior del Edén <ITEM>[Bastón]<INFO>550034</INFO></ITEM>\no Mago Superior del Edén <ITEM>[Varita]<INFO>550035</INFO></ITEM>?"
+    },
+    "ulrmDQ": {
+        "en-US": "Eden Wizard Staff",
+        "pt-BR": "Cetro Bruxo do Éden",
+        "es-ES": "Bastón del Edén (Mago Superior)"
+    },
+    "u1rmDQ": {
+        "en-US": "Eden Wizard Wand",
+        "pt-BR": "Cajado Bruxo do Éden",
+        "es-ES": "Varita del Edén (Mago Superior)"
+    },
+    "vFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Sage <ITEM>[Magic Book]<INFO>540027</INFO></ITEM>\nor Eden Sage <ITEM>[Spellbook]<INFO>540028</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Livro Sábio do Éden]<INFO>540027</INFO></ITEM>\nou <ITEM>[Grimório Sábio do Éden]<INFO>540028</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Sabio del Edén <ITEM>[Libro Mágico]<INFO>540027</INFO></ITEM>\no Sabio del Edén <ITEM>[Libro de Hechizos]<INFO>540028</INFO></ITEM>?"
+    },
+    "vVrmDQ": {
+        "en-US": "Eden Sage Magic Book",
+        "pt-BR": "Livro Sábio do Éden",
+        "es-ES": "Libro Mágico del Edén (Sabio)"
+    },
+    "vlrmDQ": {
+        "en-US": "Eden Sage Spellbook",
+        "pt-BR": "Grimório Sábio do Éden",
+        "es-ES": "Libro de Hechizos del Edén (Sabio)"
+    },
+    "v1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Priest <ITEM>[Staff]<INFO>550036</INFO></ITEM>\nor Eden Priest <ITEM>[Mace]<INFO>590027</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Cetro Sacerdotal do Éden]<INFO>550036</INFO></ITEM>\nou <ITEM>[Martelo Sacerdotal do Éden]<INFO>590027</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Sacerdote del Edén <ITEM>[Bastón]<INFO>550036</INFO></ITEM>\no Sacerdote del Edén <ITEM>[Maza]<INFO>590027</INFO></ITEM>?"
+    },
+    "wFrmDQ": {
+        "en-US": "Eden Priest Staff",
+        "pt-BR": "Cetro Sacerdotal do Éden",
+        "es-ES": "Bastón del Edén (Sacerdote)"
+    },
+    "wVrmDQ": {
+        "en-US": "Eden Priest Mace",
+        "pt-BR": "Martelo Sacerdotal do Éden",
+        "es-ES": "Maza del Edén (Sacerdote)"
+    },
+    "wlrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Monk <ITEM>[Knuckle]<INFO>560022</INFO></ITEM>\nor Eden Monk <ITEM>[Claw]<INFO>560023</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Soqueira de Combo do Éden]<INFO>560022</INFO></ITEM>\nou <ITEM>[Garra de Esferas do Éden]<INFO>560023</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Monje del Edén <ITEM>[Puño]<INFO>560022</INFO></ITEM>\no Monje del Edén <ITEM>[Garra]<INFO>560023</INFO></ITEM>?"
+    },
+    "w1rmDQ": {
+        "en-US": "Eden Monk Knuckle",
+        "pt-BR": "Soqueira de Combo do Éden",
+        "es-ES": "Puño del Edén (Monje)"
+    },
+    "xFrmDQ": {
+        "en-US": "Eden Monk Claw",
+        "pt-BR": "Garra de Esferas do Éden",
+        "es-ES": "Garra del Edén (Monje)"
+    },
+    "xVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Hunter <ITEM>[Bow]<INFO>700038</INFO></ITEM>\nor Eden Hunter <ITEM>[Crossbow]<INFO>700039</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Balista Caçadora do Éden]<INFO>700038</INFO></ITEM>\nou <ITEM>[Besta Caçadora do Éden]<INFO>700039</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Cazador del Edén <ITEM>[Arco]<INFO>700038</INFO></ITEM>\no Cazador del Edén <ITEM>[Ballesta]<INFO>700039</INFO></ITEM>?"
+    },
+    "xlrmDQ": {
+        "en-US": "Eden Hunter Bow",
+        "pt-BR": "Balista Caçadora do Éden",
+        "es-ES": "Arco del Edén (Cazador)"
+    },
+    "x1rmDQ": {
+        "en-US": "Eden Hunter Crossbow",
+        "pt-BR": "Besta Caçadora do Éden",
+        "es-ES": "Ballesta del Edén (Cazador)"
+    },
+    "yFrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Bard & Dancer <ITEM>[Bow]<INFO>700040</INFO></ITEM>\nor Eden Bard <ITEM>[Violin]<INFO>570021</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Arco Harmônico do Éden]<INFO>700040</INFO></ITEM>\nou <ITEM>[Violino Lírico do Éden]<INFO>570021</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Bardo y Bailarina del Edén <ITEM>[Arco]<INFO>700040</INFO></ITEM>\no Bardo del Edén <ITEM>[Violín]<INFO>570021</INFO></ITEM>?"
+    },
+    "yVrmDQ": {
+        "en-US": "Eden Bard & Dancer Bow",
+        "pt-BR": "Arco Harmônico do Éden",
+        "es-ES": "Arco del Edén (Bardo y Bailarina)"
+    },
+    "ylrmDQ": {
+        "en-US": "Eden Bard Violin",
+        "pt-BR": "Violino Lírico do Éden",
+        "es-ES": "Violín del Edén (Bardo)"
+    },
+    "y1rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Bard & Dancer <ITEM>[Bow]<INFO>700040</INFO></ITEM>\nor Eden Dancer <ITEM>[Rope]<INFO>580021</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Arco Harmônico do Éden]<INFO>700040</INFO></ITEM>\nou <ITEM>[Cordame Bailarino do Éden]<INFO>580021</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Bardo y Bailarina del Edén <ITEM>[Arco]<INFO>700040</INFO></ITEM>\no Bailarina del Edén <ITEM>[Cuerda]<INFO>580021</INFO></ITEM>?"
+    },
+    "zFrmDQ": {
+        "en-US": "Eden Dancer Rope",
+        "pt-BR": "Cordame Bailarino do Éden",
+        "es-ES": "Cuerda del Edén (Bailarina)"
+    },
+    "zVrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Ninja <ITEM>[Huuma Shuriken]<INFO>650010</INFO></ITEM>\nor Eden Ninja <ITEM>[Cross Huuma Shuriken]<INFO>650011</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Huuma Ninpou do Éden]<INFO>650010</INFO></ITEM>\nou <ITEM>[Huuma Togatana do Éden]<INFO>650011</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Ninja del Edén <ITEM>[Shuriken Huuma]<INFO>650010</INFO></ITEM>\no Ninja del Edén <ITEM>[Shuriken Huuma Cruzado]<INFO>650011</INFO></ITEM>?"
+    },
+    "zlrmDQ": {
+        "en-US": "Eden Ninja Huuma Shuriken",
+        "pt-BR": "Huuma Ninpou do Éden",
+        "es-ES": "Shuriken Huuma del Edén (Ninja)"
+    },
+    "z1rmDQ": {
+        "en-US": "Eden Ninja Cross Huuma Shuriken",
+        "pt-BR": "Huuma Togatana do Éden",
+        "es-ES": "Shuriken Huuma Cruzado del Edén (Ninja)"
+    },
+    "0FrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Gunslinger <ITEM>[Revolver]<INFO>800005</INFO></ITEM>\nor Eden Gunslinger <ITEM>[Rifle]<INFO>810003</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Revólver Justiceiro do Éden]<INFO>800005</INFO></ITEM>\nou <ITEM>[Rifle Justiceiro do Éden]<INFO>810003</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Pistolero del Edén <ITEM>[Revólver]<INFO>800005</INFO></ITEM>\no Pistolero del Edén <ITEM>[Rifle]<INFO>810003</INFO></ITEM>?"
+    },
+    "0VrmDQ": {
+        "en-US": "Eden Gunslinger Revolver",
+        "pt-BR": "Revólver Justiceiro do Éden",
+        "es-ES": "Revólver del Edén (Pistolero)"
+    },
+    "0lrmDQ": {
+        "en-US": "Eden Gunslinger Rifle",
+        "pt-BR": "Rifle Justiceiro do Éden",
+        "es-ES": "Rifle del Edén (Pistolero)"
+    },
+    "01rmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Star Gladiator <ITEM>[Fighting Book]<INFO>540029</INFO></ITEM>\nor Eden Star Gladiator <ITEM>[Martial Arts Book]<INFO>540030</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Livro Mestre do Éden]<INFO>540029</INFO></ITEM>\nou <ITEM>[Manual Mestre do Éden]<INFO>540030</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Gladiador Estelar del Edén <ITEM>[Libro de Combate]<INFO>540029</INFO></ITEM>\no Gladiador Estelar del Edén <ITEM>[Libro de Artes Marciales]<INFO>540030</INFO></ITEM>?"
+    },
+    "1FrmDQ": {
+        "en-US": "Eden Star Gladiator Fighting Book",
+        "pt-BR": "Livro Mestre do Éden",
+        "es-ES": "Libro de Combate del Edén (Gladiador Estelar)"
+    },
+    "1VrmDQ": {
+        "en-US": "Eden Star Gladiator Martial Arts Book",
+        "pt-BR": "Manual Mestre do Éden",
+        "es-ES": "Libro de Artes Marciales del Edén (Gladiador Estelar)"
+    },
+    "1lrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Soul Linker <ITEM>[Dagger]<INFO>510037</INFO></ITEM>\nor Eden Soul Linker <ITEM>[Staff]<INFO>550037</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Adaga Espiritual do Éden]<INFO>510037</INFO></ITEM>\nou <ITEM>[Bastão Espiritual do Éden]<INFO>550037</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Enlazador de Almas del Edén <ITEM>[Daga]<INFO>510037</INFO></ITEM>\no Enlazador de Almas del Edén <ITEM>[Bastón]<INFO>550037</INFO></ITEM>?"
+    },
+    "11rmDQ": {
+        "en-US": "Eden Soul Linker Dagger",
+        "pt-BR": "Adaga Espiritual do Éden",
+        "es-ES": "Daga del Edén (Enlazador de Almas)"
+    },
+    "2FrmDQ": {
+        "en-US": "Eden Soul Linker Staff",
+        "pt-BR": "Bastão Espiritual do Éden",
+        "es-ES": "Bastón del Edén (Enlazador de Almas)"
+    },
+    "2VrmDQ": {
+        "en-US": "[Michael]\nWhich would you like: Eden Super Novice <ITEM>[Sword]<INFO>500035</INFO></ITEM>\nor Eden Super Novice <ITEM>[Staff]<INFO>550040</INFO></ITEM>?",
+        "pt-BR": "[Michael]\nFaça sua escolha: \n<ITEM>[Espada Aprendiz do Éden]<INFO>500035</INFO></ITEM>\nou <ITEM>[Báculo Aprendiz do Éden]<INFO>550040</INFO></ITEM>?",
+        "es-ES": "[Michael]\n¿Cuál quieres: Superprincipiante del Edén <ITEM>[Espada]<INFO>500035</INFO></ITEM>\no Superprincipiante del Edén <ITEM>[Bastón]<INFO>550040</INFO></ITEM>?"
+    },
+    "2lrmDQ": {
+        "en-US": "Eden Super Novice Sword",
+        "pt-BR": "Espada Aprendiz do Éden",
+        "es-ES": "Espada del Edén (Superprincipiante)"
+    },
+    "21rmDQ": {
+        "en-US": "Eden Super Novice Staff",
+        "pt-BR": "Báculo Aprendiz do Éden",
+        "es-ES": "Bastón del Edén (Superprincipiante)"
+    },
+    "3FrmDQ": {
+        "en-US": "[Michael]\nAn intermediate weapon... Ah... Uh?! Oh dear, I'm sorry. Intermediate weapons are meant for intermediate adventurers.",
+        "pt-BR": "[Michael]\nUma arma intermediária... Ah... Hã?! Nossa, desculpe. Armas intermediárias são para aventureiros intermediários.",
+        "es-ES": "[Michael]\nUn arma intermedia... Ah... ¡¿Eh?! Vaya, lo siento. Las armas intermedias son para aventureros intermedios."
+    },
+    "3VrmDQ": {
+        "en-US": "[Michael]\nThese weapons are tailored to your job, so you'll need to change to a higher job first. Come back afterward and I'll give you a weapon that fits your job perfectly.\nFor now, you'll have to use a basic Eden Group weapon.",
+        "pt-BR": "[Michael]\nEstas armas são feitas para cada classe, então precisa mudar para uma classe superior primeiro. Volte depois e entregarei uma arma perfeita para sua classe.\nPor enquanto, terá que usar uma arma básica do Grupo do Éden.",
+        "es-ES": "[Michael]\nEstas armas están adaptadas a cada clase, así que primero debes cambiar a una clase superior. Vuelve después y te daré un arma perfecta para tu clase.\nPor ahora tendrás que usar un arma básica del Grupo del Edén."
+    },
+    "3lrmDQ": {
+        "en-US": "Oh! You're not a third job yet! Advanced weapons can only be used by third jobs and above.",
+        "pt-BR": "Somente Classes 3 podem usar armas avançadas.",
+        "es-ES": "¡Ah! ¡Todavía no eres de tercera clase! Solo los personajes de tercera clase o superior pueden usar armas avanzadas."
+    },
+    "31rmDQ": {
+        "en-US": "Quartermaster BK",
+        "pt-BR": "Especialista BK",
+        "es-ES": "Encargado BK"
+    },
+    "4FrmDQ": {
+        "en-US": "Beginner Equipment",
+        "pt-BR": "Equip. Básico",
+        "es-ES": "Equipo para Principiantes"
+    },
+    "4VrmDQ": {
+        "en-US": "[BK]\nHere for basic equipment? We only give it to Eden Group members, though.",
+        "pt-BR": "[BK]\nVeio buscar equipamentos básicos? Mas só entregamos para membros do Grupo do Éden.",
+        "es-ES": "[BK]\n¿Vienes por equipo básico? Pero solo se lo damos a los miembros del Grupo del Edén."
+    },
+    "4lrmDQ": {
+        "en-US": "[BK]\nYou can join the Eden Group by talking to <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> in the lobby.",
+        "pt-BR": "[BK]\nVocê pode entrar no Grupo do Éden falando com <NAVI>[Lenore]<INFO>moc_para01,27,31,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[BK]\nPuedes unirte al Grupo del Edén hablando con <NAVI>[Lime Evenor]<INFO>moc_para0b,27,31,0,101,0,</INFO></NAVI> en el vestíbulo."
+    },
+    "41rmDQ": {
+        "en-US": "[BK]\nHello! New here? Then go see Thorn before me.",
+        "pt-BR": "[BK]\nOlá! É iniciante? Então fale com Thorn antes de vir até mim.",
+        "es-ES": "[BK]\n¡Hola! ¿Eres nuevo? Entonces ve a ver a Thorn antes que a mí."
+    },
+    "5FrmDQ": {
+        "en-US": "[BK]\nHello! New here? Then go see Michael first. See him right beside me?",
+        "pt-BR": "[BK]\nOlá! É iniciante? Então fale com Michael primeiro. Está vendo ele aqui ao lado?",
+        "es-ES": "[BK]\n¡Hola! ¿Eres nuevo? Entonces ve a ver a Michael primero. ¿Lo ves aquí al lado?"
+    },
+    "5VrmDQ": {
+        "en-US": "[BK]\nHello! New here? Ur sent you, right? Have you met everyone else?\nI'm BK. I provide equipment for beginner adventurers. Nice to meet you. Hey, you're happy to meet me too, right?",
+        "pt-BR": "[BK]\nOlá! É iniciante? Ur mandou você, certo? Já conheceu os outros?\nSou BK. Entrego equipamentos para aventureiros iniciantes. Prazer! Ei, você também gostou de me conhecer, não é?",
+        "es-ES": "[BK]\n¡Hola! ¿Eres nuevo? Ur te envió, ¿verdad? ¿Ya conociste a los demás?\nSoy BK. Entrego equipo a los aventureros principiantes. ¡Un placer! Oye, también te alegra conocerme, ¿verdad?"
+    },
+    "5lrmDQ": {
+        "en-US": "[BK]\nI'll give you your basic equipment now. Have you decided which weapon to use? Want to see the list?",
+        "pt-BR": "[BK]\nVou entregar seus equipamentos básicos agora. Já decidiu que arma usar? Quer ver a lista?",
+        "es-ES": "[BK]\nAhora te daré tu equipo básico. ¿Ya decidiste qué arma usar? ¿Quieres ver la lista?"
+    },
+    "51rmDQ": {
+        "en-US": "Yes! Show me the weapon list.",
+        "pt-BR": "Mostre a lista de armas.",
+        "es-ES": "¡Sí! Muéstrame la lista de armas."
+    },
+    "6FrmDQ": {
+        "en-US": "[BK]\nHere's the list of Eden Group weapons. Take a good look and see which suits you.",
+        "pt-BR": "[BK]\nAqui está a lista de armas do Grupo do Éden. Olhe com atenção e veja qual combina com você.",
+        "es-ES": "[BK]\nAquí tienes la lista de armas del Grupo del Edén. Mírala bien y elige la que te convenga."
+    },
+    "6VrmDQ": {
+        "en-US": "= Basic Weapon List =\n<ITEM>[Eden Sword]<INFO>500032</INFO></ITEM>\n<ITEM>[Eden Axe]<INFO>520010</INFO></ITEM>\n<ITEM>[Eden Mace]<INFO>590025</INFO></ITEM>\n<ITEM>[Eden Dagger]<INFO>510035</INFO></ITEM>\n<ITEM>[Eden Bow]<INFO>700036</INFO></ITEM>\n<ITEM>[Eden Rod]<INFO>550032</INFO></ITEM>\n<ITEM>[Eden Revolver]<INFO>800004</INFO></ITEM>\n<ITEM>[Eden Foxtail]<INFO>550033</INFO></ITEM>",
+        "pt-BR": "= Lista de Armas Básicas =\n<ITEM>[Espada do Grupo do Éden]<INFO>500032</INFO></ITEM>\n<ITEM>[Machado do Grupo do Éden]<INFO>520010</INFO></ITEM>\n<ITEM>[Maça do Grupo do Éden]<INFO>590025</INFO></ITEM>\n<ITEM>[Adaga do Grupo do Édenn]<INFO>510035</INFO></ITEM>\n<ITEM>[Arco do Grupo do Éden]<INFO>700036</INFO></ITEM>\n<ITEM>[Cajado do Grupo do Éden]<INFO>550032</INFO></ITEM>\n<ITEM>[Revólver do Grupo do Éden]<INFO>800004</INFO></ITEM>\n<ITEM>[Cauda de Gato do Grupo do Éden]<INFO>550033</INFO></ITEM>",
+        "es-ES": "= Lista de Armas Básicas =\n<ITEM>[Espada del Edén]<INFO>500032</INFO></ITEM>\n<ITEM>[Hacha del Edén]<INFO>520010</INFO></ITEM>\n<ITEM>[Maza del Edén]<INFO>590025</INFO></ITEM>\n<ITEM>[Daga del Edén]<INFO>510035</INFO></ITEM>\n<ITEM>[Arco del Edén]<INFO>700036</INFO></ITEM>\n<ITEM>[Vara del Edén]<INFO>550032</INFO></ITEM>\n<ITEM>[Revólver del Edén]<INFO>800004</INFO></ITEM>\n<ITEM>[Cola de Zorro del Edén]<INFO>550033</INFO></ITEM>"
+    },
+    "6lrmDQ": {
+        "en-US": "[BK]\nReally? So you know exactly what you need? That's a good attitude.",
+        "pt-BR": "[BK]\nÉ mesmo? Então sabe exatamente do que precisa? Boa atitude.",
+        "es-ES": "[BK]\n¿De verdad? ¿Sabes exactamente lo que necesitas? Esa es una buena actitud."
+    },
+    "61rmDQ": {
+        "en-US": "[BK]\nHave you decided which weapon to take, then?",
+        "pt-BR": "[BK]\nEntão, decidiu que arma vai levar?",
+        "es-ES": "[BK]\nEntonces, ¿decidiste qué arma llevarte?"
+    },
+    "7FrmDQ": {
+        "en-US": "Eden Sword",
+        "pt-BR": "Espada do Grupo do Éden",
+        "es-ES": "Espada del Edén"
+    },
+    "7VrmDQ": {
+        "en-US": "Eden Axe",
+        "pt-BR": "Machado do Grupo do Éden",
+        "es-ES": "Hacha del Edén"
+    },
+    "7lrmDQ": {
+        "en-US": "Eden Mace",
+        "pt-BR": "Maça do Grupo do Éden",
+        "es-ES": "Maza del Edén"
+    },
+    "71rmDQ": {
+        "en-US": "Eden Dagger",
+        "pt-BR": "Adaga do Grupo do Éden",
+        "es-ES": "Daga del Edén"
+    },
+    "8FrmDQ": {
+        "en-US": "Eden Bow",
+        "pt-BR": "Arco do Grupo do Éden",
+        "es-ES": "Arco del Edén"
+    },
+    "8VrmDQ": {
+        "en-US": "Eden Rod",
+        "pt-BR": "Cajado do Grupo do Éden",
+        "es-ES": "Vara del Edén"
+    },
+    "8lrmDQ": {
+        "en-US": "Eden Revolver",
+        "pt-BR": "Revólver do Grupo do Éden",
+        "es-ES": "Revólver del Edén"
+    },
+    "81rmDQ": {
+        "en-US": "Eden Foxtail",
+        "pt-BR": "Cauda de Gato do Grupo do Éden",
+        "es-ES": "Cola de Zorro del Edén"
+    },
+    "9FrmDQ": {
+        "en-US": "Eden Sword",
+        "pt-BR": "Espada do Grupo do Éden",
+        "es-ES": "Espada del Edén"
+    },
+    "9VrmDQ": {
+        "en-US": "Eden Axe",
+        "pt-BR": "Machado do Grupo do Éden",
+        "es-ES": "Hacha del Edén"
+    },
+    "9lrmDQ": {
+        "en-US": "Eden Mace",
+        "pt-BR": "Maça do Grupo do Éden",
+        "es-ES": "Maza del Edén"
+    },
+    "91rmDQ": {
+        "en-US": "Eden Dagger",
+        "pt-BR": "Adaga do Grupo do Éden",
+        "es-ES": "Daga del Edén"
+    },
+    "+FrmDQ": {
+        "en-US": "Eden Bow",
+        "pt-BR": "Arco do Grupo do Éden",
+        "es-ES": "Arco del Edén"
+    },
+    "+VrmDQ": {
+        "en-US": "Eden Rod",
+        "pt-BR": "Cajado do Grupo do Éden",
+        "es-ES": "Vara del Edén"
+    },
+    "+lrmDQ": {
+        "en-US": "Eden Revolver",
+        "pt-BR": "Revólver do Grupo do Éden",
+        "es-ES": "Revólver del Edén"
+    },
+    "+1rmDQ": {
+        "en-US": "Eden Foxtail",
+        "pt-BR": "Cauda de Gato do Grupo do Éden",
+        "es-ES": "Cola de Zorro del Edén"
+    },
+    "/FrmDQ": {
+        "en-US": "[BK]\nThat's the weapon settled... Now, armor comes in physical and magical types. Which would you like?\nOf course, if it doesn't suit you after trying it, you can come back for the other type.",
+        "pt-BR": "[BK]\nA arma está escolhida... Agora, as armaduras têm versões físicas e mágicas. Qual você quer?\nClaro, se experimentar e não gostar, pode voltar e pegar o outro tipo.",
+        "es-ES": "[BK]\nYa elegiste el arma... Ahora, las armaduras pueden ser físicas o mágicas. ¿Cuáles quieres?\nClaro, si las pruebas y no te sirven, puedes volver por el otro tipo."
+    },
+    "/VrmDQ": {
+        "en-US": "[BK]\nI have armor lists too. Want to see them?",
+        "pt-BR": "[BK]\nTambém tenho a lista das armaduras. Quer ver?",
+        "es-ES": "[BK]\nTambién tengo listas de las armaduras. ¿Quieres verlas?"
+    },
+    "/lrmDQ": {
+        "en-US": "[BK]\nIf you don't know what to choose, think about your job.",
+        "pt-BR": "[BK]\nSe não souber o que escolher, pense na sua classe.",
+        "es-ES": "[BK]\nSi no sabes qué elegir, piensa en tu clase."
+    },
+    "/1rmDQ": {
+        "en-US": "[BK]\nIf you have a close-combat job, like a Swordman or Thief type, physical armor is a good choice.\nFor jobs that mainly rely on skills, like Mage or Acolyte types, magical armor will help.",
+        "pt-BR": "[BK]\nSe sua classe luta corpo a corpo, como Espadachim ou Gatuno, armaduras físicas são uma boa escolha.\nPara classes que usam principalmente habilidades, como as de Mago ou Noviço, armaduras mágicas ajudam.",
+        "es-ES": "[BK]\nSi tu clase lucha cuerpo a cuerpo, como las de Espadachín o Ladrón, las armaduras físicas son una buena opción.\nPara clases que usan principalmente habilidades, como las de Mago o Acólito, las armaduras mágicas ayudan."
+    },
+    "AFvmDQ": {
+        "en-US": "= Physical Basic Armor List =\n<ITEM>[Eden Cap]<INFO>400137</INFO></ITEM>\n<ITEM>[Eden Suit]<INFO>450183</INFO></ITEM>\n<ITEM>[Eden Manteau]<INFO>480103</INFO></ITEM>\n<ITEM>[Eden Boots]<INFO>470067</INFO></ITEM>\n<ITEM>[Eden Ring]<INFO>490122</INFO></ITEM>\n<ITEM>[Eden Glove]<INFO>490123</INFO></ITEM>",
+        "pt-BR": "= Equip. de Bônus Físico =\n<ITEM>[Boina Física do Éden]<INFO>400137</INFO></ITEM>\n<ITEM>[Armadura Física do Éden]<INFO>450183</INFO></ITEM>\n<ITEM>[Capa Física do Éden]<INFO>480103</INFO></ITEM>\n<ITEM>[Bota Física do Éden]<INFO>470067</INFO></ITEM>\n<ITEM>[Anel Físico do Éden]<INFO>490122</INFO></ITEM>\n<ITEM>[Luva Física do Éden]<INFO>490123</INFO></ITEM>",
+        "es-ES": "= Lista de Armaduras Básicas Físicas =\n<ITEM>[Gorra del Edén]<INFO>400137</INFO></ITEM>\n<ITEM>[Traje del Edén]<INFO>450183</INFO></ITEM>\n<ITEM>[Manto del Edén]<INFO>480103</INFO></ITEM>\n<ITEM>[Botas del Edén]<INFO>470067</INFO></ITEM>\n<ITEM>[Anillo del Edén]<INFO>490122</INFO></ITEM>\n<ITEM>[Guante del Edén]<INFO>490123</INFO></ITEM>"
+    },
+    "AVvmDQ": {
+        "en-US": "= Magical Basic Armor List =\n<ITEM>[Eden Hat]<INFO>400138</INFO></ITEM>\n<ITEM>[Eden Robe]<INFO>450184</INFO></ITEM>\n<ITEM>[Eden Muffler]<INFO>480104</INFO></ITEM>\n<ITEM>[Eden Shoes]<INFO>470068</INFO></ITEM>\n<ITEM>[Eden Magic Ring]<INFO>490124</INFO></ITEM>\n<ITEM>[Eden Necklace]<INFO>490125</INFO></ITEM>",
+        "pt-BR": "= Equip. de Bônus Mágico =\n<ITEM>[Boina Mágica do Éden]<INFO>400138</INFO></ITEM>\n<ITEM>[Armadura Mágica do Éden]<INFO>450184</INFO></ITEM>\n<ITEM>[Capa Mágica do Éden]<INFO>480104</INFO></ITEM>\n<ITEM>[Bota Mágica do Éden]<INFO>470068</INFO></ITEM>\n<ITEM>[Anel Mágico do Éden]<INFO>490124</INFO></ITEM>\n<ITEM>[Colar Mágico do Éden]<INFO>490125</INFO></ITEM>",
+        "es-ES": "= Lista de Armaduras Básicas Mágicas =\n<ITEM>[Sombrero del Edén]<INFO>400138</INFO></ITEM>\n<ITEM>[Túnica del Edén]<INFO>450184</INFO></ITEM>\n<ITEM>[Bufanda del Edén]<INFO>480104</INFO></ITEM>\n<ITEM>[Zapatos del Edén]<INFO>470068</INFO></ITEM>\n<ITEM>[Anillo Mágico del Edén]<INFO>490124</INFO></ITEM>\n<ITEM>[Collar del Edén]<INFO>490125</INFO></ITEM>"
+    },
+    "AlvmDQ": {
+        "en-US": "[BK]\nSo, have you decided which armor to take?",
+        "pt-BR": "[BK]\nEntão, decidiu que armaduras vai levar?",
+        "es-ES": "[BK]\nEntonces, ¿decidiste qué armaduras llevarte?"
+    },
+    "A1vmDQ": {
+        "en-US": "Physical armor, please.",
+        "pt-BR": "Equipamentos de bônus FÍSICO!",
+        "es-ES": "Armaduras físicas, por favor."
+    },
+    "BFvmDQ": {
+        "en-US": "Magical armor, please.",
+        "pt-BR": "Equipamentos de bônus MÁGICO!",
+        "es-ES": "Armaduras mágicas, por favor."
+    },
+    "BVvmDQ": {
+        "en-US": "Physical armor",
+        "pt-BR": "Equipamento Físico",
+        "es-ES": "Armaduras físicas"
+    },
+    "BlvmDQ": {
+        "en-US": "Magical armor",
+        "pt-BR": "Equipamento Mágico",
+        "es-ES": "Armaduras mágicas"
+    },
+    "B1vmDQ": {
+        "en-US": "[BK]\nHere are your choices: {0}, {1}.",
+        "pt-BR": "[BK]\nAqui está o que escolheu: \n{0}\n{1}.",
+        "es-ES": "[BK]\nAquí tienes lo que elegiste: {0}, {1}."
+    },
+    "CFvmDQ": {
+        "en-US": "[BK]\nPut them to good use. If you lose them or want something else, come back. I'll give you more whenever you need them. Got it?",
+        "pt-BR": "[BK]\nAproveite. Se perder ou quiser outra coisa, volte até mim. Vou entregar sempre que precisar. Combinado?",
+        "es-ES": "[BK]\nAprovéchalos bien. Si los pierdes o quieres otra cosa, vuelve. Te daré más cuando los necesites. ¿De acuerdo?"
+    },
+    "CVvmDQ": {
+        "en-US": "[BK]\nOh! When you reach level 45, go to Michael, whom you met earlier, for an intermediate weapon. Don't forget!",
+        "pt-BR": "[BK]\nAh! Quando chegar ao nível 45, procure Michael para receber uma arma intermediária. Não esqueça!",
+        "es-ES": "[BK]\n¡Ah! Cuando alcances el nivel 45, ve a ver a Michael, a quien conociste antes, para recibir un arma intermedia. ¡No lo olvides!"
+    },
+    "ClvmDQ": {
+        "en-US": "[BK]\nNow go to <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> and report that you've received your basic equipment. Off you go.",
+        "pt-BR": "[BK]\nAgora vá até <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>. Informe-o que recebeu seus equipamentos básicos. Pode ir.",
+        "es-ES": "[BK]\nAhora ve con <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> e informa que recibiste tu equipo básico. Anda, ve."
+    },
+    "C1vmDQ": {
+        "en-US": "[BK]\nGo see <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI>. Just tell him you've received all your basic equipment.",
+        "pt-BR": "[BK]\nVá falar com <NAVI>[Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>. É só dizer que recebeu todos os seus equipamentos básicos.",
+        "es-ES": "[BK]\nVe a ver a <NAVI>[Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI>. Solo dile que recibiste todo tu equipo básico."
+    },
+    "DFvmDQ": {
+        "en-US": "[BK]\nHello! You must need something from me.",
+        "pt-BR": "[BK]\nOlá! Deve estar precisando de alguma coisa comigo.",
+        "es-ES": "[BK]\n¡Hola! Debes necesitar algo de mí."
+    },
+    "DVvmDQ": {
+        "en-US": "[BK]\nHmm... You're past Base Level 100, aren't you? You'd be better off with more advanced equipment.",
+        "pt-BR": "[BK]\nHm... Você já passou do nível de base 100, não é? Seria melhor usar equipamentos mais avançados.",
+        "es-ES": "[BK]\nMmm... Ya pasaste del nivel base 100, ¿verdad? Te convendría usar equipo más avanzado."
+    },
+    "DlvmDQ": {
+        "en-US": "[BK]\nYou can get advanced weapons from <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> and advanced armor from <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>. Want to go see them?",
+        "pt-BR": "[BK]\nVocê pode receber armas avançadas de <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>. Ah! E armaduras avançadas do <NAVI>[Thorn]<INFO>moc_para01,110,87,0,101,0,</INFO></NAVI>. Quer ir falar com eles?",
+        "es-ES": "[BK]\nPuedes recibir armas avanzadas de <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> y armaduras avanzadas de <NAVI>[Thorn]<INFO>moc_para0b,110,87,0,101,0,</INFO></NAVI>. ¿Quieres ir a verlos?"
+    },
+    "D1vmDQ": {
+        "en-US": "Understood.",
+        "pt-BR": "Entendi.",
+        "es-ES": "Entendido."
+    },
+    "EFvmDQ": {
+        "en-US": "I'm here for basic equipment.",
+        "pt-BR": "Vim buscar equipamentos básicos.",
+        "es-ES": "Vengo por equipo básico."
+    },
+    "EVvmDQ": {
+        "en-US": "[BK]\nHope you get some great equipment! Bye!",
+        "pt-BR": "[BK]\nEspero que consiga ótimos equipamentos! Até mais!",
+        "es-ES": "[BK]\n¡Espero que consigas un equipo estupendo! ¡Adiós!"
+    },
+    "ElvmDQ": {
+        "en-US": "[BK]\nOh, really? Why insist on equipment that's below your level? I'll give it to you if you want it, but... Well, anyway.",
+        "pt-BR": "[BK]\nAh, é? Por que insistir em equipamentos abaixo do seu nível? Se quiser, eu entrego, mas... Bom, enfim.",
+        "es-ES": "[BK]\nAh, ¿sí? ¿Por qué insistir en equipo inferior a tu nivel? Si lo quieres, te lo daré, pero... Bueno, en fin."
+    },
+    "E1vmDQ": {
+        "en-US": "[BK]\nHmm... Are you here for an intermediate weapon? If so, go see <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI> beside me.",
+        "pt-BR": "[BK]\nHã... Veio buscar uma arma intermediária? Se for isso, procure <NAVI>[Michael]<INFO>moc_para01,110,83,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[BK]\nMmm... ¿Vienes por un arma intermedia? Si es así, ve a ver a <NAVI>[Michael]<INFO>moc_para0b,110,83,0,101,0,</INFO></NAVI>, aquí al lado."
+    },
+    "FFvmDQ": {
+        "en-US": "[BK]\nHope you get a great weapon! Bye!",
+        "pt-BR": "[BK]\nEspero que consiga uma ótima arma! Até mais!",
+        "es-ES": "[BK]\n¡Espero que consigas un arma estupenda! ¡Adiós!"
+    },
+    "FVvmDQ": {
+        "en-US": "[BK]\nOh, really? My mistake, then.",
+        "pt-BR": "[BK]\nAh, é? Então me enganei.",
+        "es-ES": "[BK]\nAh, ¿sí? Entonces me equivoqué."
+    },
+    "FlvmDQ": {
+        "en-US": "[BK]\nDo you need a basic weapon or basic armor?",
+        "pt-BR": "[BK]\nPrecisa de uma arma básica ou de armaduras básicas?",
+        "es-ES": "[BK]\n¿Necesitas un arma básica o armaduras básicas?"
+    },
+    "F1vmDQ": {
+        "en-US": "I need a basic weapon.",
+        "pt-BR": "Preciso de uma arma básica.",
+        "es-ES": "Necesito un arma básica."
+    },
+    "GFvmDQ": {
+        "en-US": "I need basic armor.",
+        "pt-BR": "Preciso de armaduras básicas.",
+        "es-ES": "Necesito armaduras básicas."
+    },
+    "GVvmDQ": {
+        "en-US": "[BK]\nWhich basic weapon?",
+        "pt-BR": "[BK]\nQual arma básica?",
+        "es-ES": "[BK]\n¿Qué arma básica?"
+    },
+    "GlvmDQ": {
+        "en-US": "[BK]\nHere's the {0} you requested. Have a great adventure!",
+        "pt-BR": "[BK]\nAqui está {0}, como pediu. Tenha uma ótima aventura!",
+        "es-ES": "[BK]\nAquí tienes {0}, como pediste. ¡Que tengas una gran aventura!"
+    },
+    "G1vmDQ": {
+        "en-US": "[BK]\nAnd armor? What type of basic armor do you need?",
+        "pt-BR": "[BK]\nE as armaduras? De que tipo de armaduras básicas precisa?",
+        "es-ES": "[BK]\n¿Y las armaduras? ¿Qué tipo de armaduras básicas necesitas?"
+    },
+    "HFvmDQ": {
+        "en-US": "Physical basic armor, please.",
+        "pt-BR": "Equipamentos de bônus FÍSICO!",
+        "es-ES": "Armaduras básicas físicas, por favor."
+    },
+    "HVvmDQ": {
+        "en-US": "Magical basic armor, please.",
+        "pt-BR": "Equipamentos de bônus MÁGICO!",
+        "es-ES": "Armaduras básicas mágicas, por favor."
+    },
+    "HlvmDQ": {
+        "en-US": "[BK]\nPhysical armor? Which piece?",
+        "pt-BR": "[BK]\nArmaduras físicas? Qual peça?",
+        "es-ES": "[BK]\n¿Armaduras físicas? ¿Qué pieza?"
+    },
+    "H1vmDQ": {
+        "en-US": "Eden Cap",
+        "pt-BR": "Boina Física do Éden",
+        "es-ES": "Gorra del Edén"
+    },
+    "IFvmDQ": {
+        "en-US": "Eden Suit",
+        "pt-BR": "Armadura Física do Éden",
+        "es-ES": "Traje del Edén"
+    },
+    "IVvmDQ": {
+        "en-US": "Eden Manteau",
+        "pt-BR": "Capa Física do Éden",
+        "es-ES": "Manto del Edén"
+    },
+    "IlvmDQ": {
+        "en-US": "Eden Boots",
+        "pt-BR": "Bota Física do Éden",
+        "es-ES": "Botas del Edén"
+    },
+    "I1vmDQ": {
+        "en-US": "Eden Ring",
+        "pt-BR": "Anel Físico do Éden",
+        "es-ES": "Anillo del Edén"
+    },
+    "JFvmDQ": {
+        "en-US": "Eden Glove",
+        "pt-BR": "Luva Física do Éden",
+        "es-ES": "Guante del Edén"
+    },
+    "JVvmDQ": {
+        "en-US": "All the physical basic armor!",
+        "pt-BR": "Todos os equipamentos físicos!",
+        "es-ES": "¡Todas las armaduras básicas físicas!"
+    },
+    "JlvmDQ": {
+        "en-US": "Eden Cap",
+        "pt-BR": "Boina Física do Éden",
+        "es-ES": "Gorra del Edén"
+    },
+    "J1vmDQ": {
+        "en-US": "Eden Suit",
+        "pt-BR": "Armadura Física do Éden",
+        "es-ES": "Traje del Edén"
+    },
+    "KFvmDQ": {
+        "en-US": "Eden Manteau",
+        "pt-BR": "Capa Física do Éden",
+        "es-ES": "Manto del Edén"
+    },
+    "KVvmDQ": {
+        "en-US": "Eden Boots",
+        "pt-BR": "Bota Física do Éden",
+        "es-ES": "Botas del Edén"
+    },
+    "KlvmDQ": {
+        "en-US": "Eden Ring",
+        "pt-BR": "Anel Físico do Éden",
+        "es-ES": "Anillo del Edén"
+    },
+    "K1vmDQ": {
+        "en-US": "Eden Glove",
+        "pt-BR": "Luva Física do Éden",
+        "es-ES": "Guante del Edén"
+    },
+    "LFvmDQ": {
+        "en-US": "[BK]\nOh, you need a full physical basic armor set? Here you go. Put it to good use!",
+        "pt-BR": "[BK]\nAh, precisa de um conjunto completo de armaduras básicas físicas? Aqui está. Faça bom proveito!",
+        "es-ES": "[BK]\nAh, ¿necesitas un conjunto completo de armaduras básicas físicas? Aquí tienes. ¡Aprovéchalo bien!"
+    },
+    "LVvmDQ": {
+        "en-US": "[BK]\nMagical armor? Which piece?",
+        "pt-BR": "[BK]\nArmaduras mágicas? Qual peça?",
+        "es-ES": "[BK]\n¿Armaduras mágicas? ¿Qué pieza?"
+    },
+    "LlvmDQ": {
+        "en-US": "Eden Hat",
+        "pt-BR": "Boina Mágica do Éden",
+        "es-ES": "Sombrero del Edén"
+    },
+    "L1vmDQ": {
+        "en-US": "Eden Robe",
+        "pt-BR": "Armadura Mágica do Éden",
+        "es-ES": "Túnica del Edén"
+    },
+    "MFvmDQ": {
+        "en-US": "Eden Muffler",
+        "pt-BR": "Capa Mágica do Éden",
+        "es-ES": "Bufanda del Edén"
+    },
+    "MVvmDQ": {
+        "en-US": "Eden Shoes",
+        "pt-BR": "Bota Mágica do Éden",
+        "es-ES": "Zapatos del Edén"
+    },
+    "MlvmDQ": {
+        "en-US": "Eden Magic Ring",
+        "pt-BR": "Anel Mágico do Éden",
+        "es-ES": "Anillo Mágico del Edén"
+    },
+    "M1vmDQ": {
+        "en-US": "Eden Necklace",
+        "pt-BR": "Colar Mágico do Éden",
+        "es-ES": "Collar del Edén"
+    },
+    "NFvmDQ": {
+        "en-US": "All the magical basic armor!",
+        "pt-BR": "Todos os equipamentos mágicos!",
+        "es-ES": "¡Todas las armaduras básicas mágicas!"
+    },
+    "NVvmDQ": {
+        "en-US": "Eden Hat",
+        "pt-BR": "Boina Mágica do Éden",
+        "es-ES": "Sombrero del Edén"
+    },
+    "NlvmDQ": {
+        "en-US": "Eden Robe",
+        "pt-BR": "Armadura Mágica do Éden",
+        "es-ES": "Túnica del Edén"
+    },
+    "N1vmDQ": {
+        "en-US": "Eden Muffler",
+        "pt-BR": "Capa Mágica do Éden",
+        "es-ES": "Bufanda del Edén"
+    },
+    "OFvmDQ": {
+        "en-US": "Eden Shoes",
+        "pt-BR": "Bota Mágica do Éden",
+        "es-ES": "Zapatos del Edén"
+    },
+    "OVvmDQ": {
+        "en-US": "Eden Magic Ring",
+        "pt-BR": "Anel Mágico do Éden",
+        "es-ES": "Anillo Mágico del Edén"
+    },
+    "OlvmDQ": {
+        "en-US": "Eden Necklace",
+        "pt-BR": "Colar Mágico do Éden",
+        "es-ES": "Collar del Edén"
+    },
+    "O1vmDQ": {
+        "en-US": "[BK]\nOh, you need a full magical basic armor set? Here you go. Put it to good use!",
+        "pt-BR": "[BK]\nAh, precisa de um conjunto completo de armaduras básicas mágicas? Aqui está. Faça bom proveito!",
+        "es-ES": "[BK]\nAh, ¿necesitas un conjunto completo de armaduras básicas mágicas? Aquí tienes. ¡Aprovéchalo bien!"
+    },
+    "PFvmDQ": {
+        "en-US": "[BK]\nHere's the {0} you requested. Have a great adventure!",
+        "pt-BR": "[BK]\nAqui está {0}, como pediu. Tenha uma ótima aventura!",
+        "es-ES": "[BK]\nAquí tienes {0}, como pediste. ¡Que tengas una gran aventura!"
+    },
+    "PVvmDQ": {
+        "en-US": "[BK]\nHello! Want some basic equipment? Then go see <NAVI>[Instructor Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> in the lobby first for instructions.",
+        "pt-BR": "[BK]\nOlá! Quer equipamentos básicos? Então fale primeiro com <NAVI>[Instrutor Ur]<INFO>moc_para01,23,31,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[BK]\n¡Hola! ¿Quieres equipo básico? Entonces habla primero con <NAVI>[Instructor Ur]<INFO>moc_para0b,23,31,0,101,0,</INFO></NAVI> en el vestíbulo para recibir instrucciones."
+    }
+}

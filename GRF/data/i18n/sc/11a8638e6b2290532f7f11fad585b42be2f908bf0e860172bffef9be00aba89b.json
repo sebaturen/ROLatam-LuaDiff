@@ -325,9 +325,9 @@
         "es-ES": "[Gerente de los Lanzas Blancas]"
     },
     "QWJyDQ": {
-        "en-US": "Very few people make it this far. On behalf of WS, I offer you my respect.",
-        "pt-BR": "Pouquíssimas pessoas chegam até aqui. Em nome da WS, eu te dou meus parabéns.",
-        "es-ES": "Muy pocos llegan hasta aquí. En nombre de LB, mis respetos."
+        "en-US": "Very few people make it this far. On behalf of the White Spear, I offer you my respect.",
+        "pt-BR": "Pouquíssimas pessoas chegam até aqui. Em nome dos Lanças Brancas, eu te dou meus parabéns.",
+        "es-ES": "Muy pocos llegan hasta aquí. En nombre de de los Lanzas Blancas, mis respetos."
     },
     "QmJyDQ": {
         "en-US": "Had you advanced just a little farther, you would have reached the finals. What a shame. Still, it was a truly magnificent match.",
@@ -447,7 +447,7 @@
     "WWJyDQ": {
         "en-US": "From this moment onward, {0} and his {1} lackeys will entertain the ladies and gentlemen of the Dark Arena!",
         "pt-BR": "Senhoras e senhores! A partir de agora, {0} e seus {1} seguidores nos proporcionarão um espetáculo nesta Arena das Trevas!",
-        "es-ES": "¡A partir de ahora, {0} y sus {pt_count_all - 1} acompañantes nos van a ofrecer un espectáculo en esta Arena Oscura!"
+        "es-ES": "¡A partir de ahora, {0} y sus {1} acompañantes nos van a ofrecer un espectáculo en esta Arena Oscura!"
     },
     "WmJyDQ": {
         "en-US": "There have always been warriors brave enough to challenge this place alone. However, very few have met a favorable end! Introducing the lone challenger, {0}!!!",
@@ -636,7 +636,7 @@
     },
     "f2JyDQ": {
         "en-US": "Impressive. They cleared ROUND 2 without any particular difficulty. They may be comparable to the main force of some rural guild.",
-        "pt-BR": "Nada mal. Eles também superaram a Rodada 2 sem grandes dificuldades. Acho q podemos dizer que são do nível de um clã importante de alguma vila pacata por aí.",
+        "pt-BR": "Nada mal. Eles também superaram a Rodada 2 sem grandes dificuldades. Acho que podemos dizer que são do nível de um clã importante de alguma vila pacata por aí.",
         "es-ES": "Nada mal. También han superado la ronda 2 sin grandes problemas. Podrían ser la fuerza principal de algún gremio de pueblo."
     },
     "gGJyDQ": {
@@ -742,17 +742,17 @@
     "lGJyDQ": {
         "en-US": "HP! {0}, Aura Barrier: {1} Stars!",
         "pt-BR": "HP! {0}, Barreira de Aura de {1} estrelas!",
-        "es-ES": "¡Salud! {0}, ¡barrera de aura de atributo {1}!"
+        "es-ES": "¡HP! {0}, ¡Barrera de Aura de {1} estrellas!"
     },
     "lWJyDQ": {
-        "en-US": "{0}~{1}!!!!",
-        "pt-BR": "{0}~{1}!!!!",
-        "es-ES": "¡{0}~{1}!!!!"
+        "en-US": "{0}! {1}!!!!",
+        "pt-BR": "{0}! {1}!!!!",
+        "es-ES": "¡{0}¡!{1}¡¡!!"
     },
     "lmJyDQ": {
         "en-US": "{0}: My beloved children! Help me!!!!!!",
         "pt-BR": "{0}: Meus queridos filhos! Ajudem-me!!!!!!",
-        "es-ES": "{0}: ¡Mis adorables pequeños! ¡¡¡Ayudadme!!!!!!"
+        "es-ES": "{0}: ¡Mis adorables pequeños! ¡¡Ayúdenme!!"
     },
     "l2JyDQ": {
         "en-US": "HP - {0} / Effective Hits {1}",
@@ -760,14 +760,14 @@
         "es-ES": "Salud - {0} / Golpes efectivos {1}"
     },
     "mGJyDQ": {
-        "en-US": "Arena Official: Team {0}~ Where are your registered party members~? A penalty will be imposed until they return.",
-        "pt-BR": "Comissão da Arena: Equipe de {0}~ Onde estão os membros registrados do grupo~? Aplicaremos uma penalidade até que todos retornem.",
-        "es-ES": "Comité de la arena: Equipo {0}~ ¿Dónde están los miembros registrados del grupo~? Aplicaremos una penalización hasta que regresen."
+        "en-US": "Arena Official: Team {0}! Where are your registered party members? A penalty will be imposed until they return.",
+        "pt-BR": "Comissão da Arena: Equipe de {0}! Onde estão os membros registrados do grupo? Aplicaremos uma penalidade até que todos retornem.",
+        "es-ES": "Comité de la arena: ¡Equipo {0}! ¿Dónde están los miembros registrados del grupo? Aplicaremos una penalización hasta que regresen."
     },
     "mWJyDQ": {
-        "en-US": "Arena Official: Team {0}~ Please revive your fallen members quickly~. A penalty will be imposed until they are revived.",
-        "pt-BR": "Comissão da Arena: Equipe de {0}~ Ressuscitem os membros caídos depressa~. Uma penalidade será aplicada até que sejam ressuscitados.",
-        "es-ES": "Comité de la arena: Equipo {0}~ Revivan rápido a los caídos~. Se aplicará una penalización hasta la resurrección."
+        "en-US": "Arena Official: Team {0}! Please revive your fallen members quickly!. A penalty will be imposed until they are revived.",
+        "pt-BR": "Comissão da Arena: ¡Equipe de {0}! Ressuscitem os membros caídos depressa! Uma penalidade será aplicada até que sejam ressuscitados.",
+        "es-ES": "Comité de la arena: ¡Equipo {0}¡ Revivan rápido a los caídos! Se aplicará una penalización hasta la resurrección."
     },
     "mmJyDQ": {
         "en-US": "20 seconds remain until the end of the match.",
@@ -782,12 +782,12 @@
     "nGJyDQ": {
         "en-US": "We do not have much time, so let us finish this quickly.",
         "pt-BR": "Não temos muito tempo, então vamos acabar logo com isso.",
-        "es-ES": "No hay tiempo, acabemos rápido."
+        "es-ES": "No tenemos mucho tiempo, así que terminemos con esto de una vez."
     },
     "nWJyDQ": {
         "en-US": "Neither of us has anything to say, do we? Let us begin.",
         "pt-BR": "Nenhum de nós tem nada a dizer, não é mesmo? Vamos começar.",
-        "es-ES": "No tenemos nada que decirnos, ¿verdad? Empecemos."
+        "es-ES": "No tenemos nada que decir, ¿verdad? Empecemos."
     },
     "nmJyDQ": {
         "en-US": "You look familiar. Did I see you at the arena during the day?",
@@ -797,7 +797,7 @@
     "n2JyDQ": {
         "en-US": "I do not think we are close enough to exchange friendly greetings...",
         "pt-BR": "Não acho que tenhamos intimidade suficiente para trocar cumprimentos...",
-        "es-ES": "No creo que tengamos una relación tan cercana como para preguntarnos cómo estamos..."
+        "es-ES": "No creo que tengamos una relación tan cercana como para intercambiar saludos amistosos..."
     },
     "oGJyDQ": {
         "en-US": "Do not worry. I will finish you without pain.",
@@ -872,7 +872,7 @@
     "rmJyDQ": {
         "en-US": "It is still more comfortable to compete as solo than to perform in awkward coordination with Alphonse.",
         "pt-BR": "É muito mais tranquilo agir sozinha do que fazer uma apresentação em sintonia com Alphonse, com quem nem sequer combino.",
-        "es-ES": "Es mucho más cómodo actuar como Sol que coordinarme con Alphonse en una combinación que ni siquiera nos pega."
+        "es-ES": "Es mucho más fácil competir sola que hacer equipo con Alphonse, con quien ni siquiera compagino."
     },
     "r2JyDQ": {
         "en-US": "You are less impressive than I expected.",

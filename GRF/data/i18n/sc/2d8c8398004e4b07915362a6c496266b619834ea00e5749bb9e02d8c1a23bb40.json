@@ -66,7 +66,8 @@
     },
     "zWPDCQ": {
         "en-US": "Encantar com Pedra de Efeito Gráfico",
-        "pt-BR": "Encantar com Pedra de Efeito Gráfico"
+        "pt-BR": "Encantar com Pedra de Efeito Gráfico",
+        "es-ES": "Encantar con Piedra Gráfica"
     },
     "zmPDCQ": {
         "en-US": "[Wilton Gunha]\nEu sou muuuito ocupado, melhor você procurar o que fazer~",
@@ -560,17 +561,17 @@
     },
     "MGTDCQ": {
         "en-US": "Reload Stone({0}left)",
-        "pt-BR": "Pedra da Pós-conjuração (Topo) ({0} un)",
+        "pt-BR": "Pedra de Demora 1 (Topo) ({0} un)",
         "es-ES": "Piedra de Recarga ({0} un)"
     },
     "MWTDCQ": {
         "en-US": "EXP Stone({0}left)",
-        "pt-BR": "Pedra da EXP (Topo) ({0} un)",
+        "pt-BR": "Pedra de EXP +2% (Topo) ({0} un)",
         "es-ES": "Piedra de EXP ({0} un)"
     },
     "MmTDCQ": {
         "en-US": "Casting Stone({0}left)",
-        "pt-BR": "Pedra de Variável (Topo) ({0} un)",
+        "pt-BR": "Pedra de Variável -3% (Topo) ({0} un)",
         "es-ES": "Piedra de Lanzamiento ({0} un)"
     },
     "M2TDCQ": {
@@ -585,7 +586,7 @@
     },
     "NWTDCQ": {
         "en-US": "Critical Stone({0}left)",
-        "pt-BR": "Pedra de Crítico (Topo) ({0} un)",
+        "pt-BR": "Pedra de Mortal 2 (Topo) ({0} un)",
         "es-ES": "Piedra de Critico ({0} un)"
     },
     "NmTDCQ": {
@@ -805,7 +806,7 @@
     },
     "YWTDCQ": {
         "en-US": "Critical Stone({0}left)",
-        "pt-BR": "Pedra de Crítico (Meio) {0} un)",
+        "pt-BR": "Pedra de Mortal 1 (Meio) ({0} un)",
         "es-ES": "Piedra de Critico ({0} un)"
     },
     "YmTDCQ": {
@@ -815,17 +816,17 @@
     },
     "Y2TDCQ": {
         "en-US": "Reload Stone({0}left)",
-        "pt-BR": "Pedra de Pós-conjuração (Meio) ({0} un)",
+        "pt-BR": "Pedra de Demora 2 (Meio) ({0} un)",
         "es-ES": "Piedra de Recarga ({0} un)"
     },
     "ZGTDCQ": {
         "en-US": "EXP Stone({0}left)",
-        "pt-BR": "Pedra de EXP (Meio) ({0} un)",
+        "pt-BR": "Pedra de EXP +2% (Meio) ({0} un)",
         "es-ES": "Piedra de EXP ({0} un)"
     },
     "ZWTDCQ": {
         "en-US": "Casting Stone({0}left)",
-        "pt-BR": "Pedra de Variável (Meio) ({0} un)",
+        "pt-BR": "Pedra de Variável -3% (Meio) ({0} un)",
         "es-ES": "Piedra de Lanzamiento ({0} un)"
     },
     "ZmTDCQ": {
@@ -975,32 +976,32 @@
     },
     "g2TDCQ": {
         "en-US": "VIT Exchange Stone({0}left)",
-        "pt-BR": "Pedra de Troca de VIT (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mudança de VIT (Baixo) ({0} un)",
         "es-ES": "Piedra Intercambio VIT ({0} un)"
     },
     "hGTDCQ": {
         "en-US": "AGI Exchange Stone({0}left)",
-        "pt-BR": "Pedra de Troca de AGI (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mudança de AGI (Baixo) ({0} un)",
         "es-ES": "Piedra Intercambio AGI ({0} un)"
     },
     "hWTDCQ": {
         "en-US": "DEX Exchange Stone({0}left)",
-        "pt-BR": "Pedra de Troca de DES (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mudança de DES (Baixo) ({0} un)",
         "es-ES": "Piedra de intercambio DES ({0} un)"
     },
     "hmTDCQ": {
         "en-US": "LUK Exchange Stone({0}left)",
-        "pt-BR": "Pedra de Troca de SOR (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mudança de SOR (Baixo) ({0} un)",
         "es-ES": "Piedra de intercambio SUE ({0} un)"
     },
     "h2TDCQ": {
         "en-US": "STR Exchange Stone({0}left)",
-        "pt-BR": "Pedra de Troca de FOR (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mudança de FOR (Baixo) ({0} un)",
         "es-ES": "Piedra de intercambio FUE ({0} un)"
     },
     "iGTDCQ": {
         "en-US": "INT Exchange Stone({0}left)",
-        "pt-BR": "Pedra de Troca de INT (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mudança de INT (Baixo) ({0} un)",
         "es-ES": "Piedra de intercambio INT ({0} un)"
     },
     "iWTDCQ": {
@@ -1010,7 +1011,7 @@
     },
     "imTDCQ": {
         "en-US": "EXP Stone({0}left)",
-        "pt-BR": "Pedra de EXP (Baixo) ({0} un)",
+        "pt-BR": "Pedra de EXP +2% (Baixo) ({0} un)",
         "es-ES": "Piedra EXP ({0} un)"
     },
     "i2TDCQ": {
@@ -1030,12 +1031,12 @@
     },
     "jmTDCQ": {
         "en-US": "Max HP Stone({0}left)",
-        "pt-BR": "Pedra de HP Maior (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mais HP (Baixo) ({0} un)",
         "es-ES": "Piedra HP Máx. ({0} un)"
     },
     "j2TDCQ": {
         "en-US": "Max SP Stone({0}left)",
-        "pt-BR": "Pedra de SP Maior (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Mais SP (Baixo) ({0} un)",
         "es-ES": "Piedra SP Máx. ({0} un)"
     },
     "kGTDCQ": {
@@ -1050,7 +1051,7 @@
     },
     "kmTDCQ": {
         "en-US": "Reload Stone({0}left)",
-        "pt-BR": "Pedra de Pós-conjuração (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Demora 3 (Baixo) ({0} un)",
         "es-ES": "Piedra de Recarga({0} un)"
     },
     "k2TDCQ": {
@@ -1065,7 +1066,7 @@
     },
     "lWTDCQ": {
         "en-US": "Casting Stone({0}left)",
-        "pt-BR": "Pedra de Variável (Baixo) ({0} un)",
+        "pt-BR": "Pedra de Variável -3% (Baixo) ({0} un)",
         "es-ES": "Piedra de Lanzamiento ({0} un)"
     },
     "lmTDCQ": {
@@ -1085,7 +1086,7 @@
     },
     "mWTDCQ": {
         "en-US": "Critical Stone({0}left)",
-        "pt-BR": "Pedra de Crítico ({0} un)",
+        "pt-BR": "Pedra de Mortal 3 (Baixo) ({0} un)",
         "es-ES": "Piedra de Crítica ({0} un)"
     },
     "mmTDCQ": {
@@ -1335,7 +1336,7 @@
     },
     "y2TDCQ": {
         "en-US": "HP Absorb Stone({0}left)",
-        "pt-BR": "Pedra de Absorção de HP (Capa) ({0} un)",
+        "pt-BR": "Pedra de Absorção de HP 1 (Capa) ({0} un)",
         "es-ES": "Piedra Absorbente de HP ({0} un)"
     },
     "zGTDCQ": {
@@ -1345,12 +1346,12 @@
     },
     "zWTDCQ": {
         "en-US": "Casting Stone({0}left)",
-        "pt-BR": "Pedra de Fixa Maior (Capa) ({0} un)",
+        "pt-BR": "Pedra de Fixa -0,5 (Capa) ({0} un)",
         "es-ES": "Piedra de Lanzamiento ({0} un)"
     },
     "zmTDCQ": {
         "en-US": "Minor Casting Stone({0}left)",
-        "pt-BR": "Pedra de Fixa Menor (Capa) ({0} un)",
+        "pt-BR": "Pedra de Fixa -0,3 (Capa) ({0} un)",
         "es-ES": "Piedra de Lanzamiento Menor ({0} un)"
     },
     "z2TDCQ": {
@@ -1370,12 +1371,12 @@
     },
     "0mTDCQ": {
         "en-US": "Critical Stone({0}left)",
-        "pt-BR": "Pedra de Crítico (Capa) ({0} un)",
+        "pt-BR": "Pedra de Mortal 4 (Capa) ({0} un)",
         "es-ES": "Piedra Crítica ({0} un)"
     },
     "02TDCQ": {
         "en-US": "Casting Stone({0}left)",
-        "pt-BR": "Pedra de Variável (Capa) ({0} un)",
+        "pt-BR": "Pedra de Variável -10% (Capa) ({0} un)",
         "es-ES": "Piedra de Lanzamiento ({0} un)"
     },
     "1GTDCQ": {
@@ -1790,12 +1791,12 @@
     },
     "JmXDCQ": {
         "en-US": "^8C8C8CEffect Stone(Empty)^000000",
-        "pt-BR": "^8C8C8CPedra de Efeito (Vazia)^000000",
+        "pt-BR": "^8C8C8CPedra Gráfica (Vazio)^000000",
         "es-ES": "^8C8C8CPiedra de Efecto (Vacía)^000000"
     },
     "J2XDCQ": {
         "en-US": "Effect Stone",
-        "pt-BR": "Pedra de Efeito",
+        "pt-BR": "Pedra Gráfica",
         "es-ES": "Piedra de Efecto"
     },
     "KGXDCQ": {
@@ -1810,12 +1811,12 @@
     },
     "KmXDCQ": {
         "en-US": "Toothless Footprints ({0} left)",
-        "pt-BR": "Pegadas do Banguela ({0} un)",
+        "pt-BR": "Pedra de Pegada: Pegadas do Banguela ({0} un)",
         "es-ES": "Huellas de Chimuelo ({0} restantes)"
     },
     "K2XDCQ": {
         "en-US": "Bouncing Toothless Footprints ({0} left)",
-        "pt-BR": "Pulinhos do Banguela ({0} un)",
+        "pt-BR": "Pedra de Pegada: Pulinhos do Banguela (Capa) ({0} un)",
         "es-ES": "Huellas Saltarinas de Chimuelo ({0} restantes)"
     },
     "LGXDCQ": {
@@ -1925,17 +1926,17 @@
     },
     "QWXDCQ": {
         "en-US": "Spirit of Leadership({0})",
-        "pt-BR": "Espírito de Liderança({0})",
+        "pt-BR": "Pedra Gráfica: Espírito de Liderança ({0} un)",
         "es-ES": "Espíritu de Liderazgo({0})"
     },
     "QmXDCQ": {
         "en-US": "Spirit of Influence({0})",
-        "pt-BR": "Espírito de Influência({0})",
+        "pt-BR": "Pedra Gráfica: Espírito de Influência ({0} un)",
         "es-ES": "Espíritu de Influencia({0})"
     },
     "Q2XDCQ": {
         "en-US": "Operation Firebird Footprints ({0} left)",
-        "pt-BR": "Operation Firebird do Banguela ({0} un)",
+        "pt-BR": "Pedra de Pegada: Operação Ave de Fogo ({0} un)",
         "es-ES": "Operación Fénix de Chimuelo ({0} restantes)"
     },
     "RGXDCQ": {
@@ -2060,222 +2061,267 @@
     },
     "XGXDCQ": {
         "en-US": "Range Stone({0}left)",
-        "pt-BR": "Pedra de Alcance({0}left)",
+        "pt-BR": "Pedra de Alcance (Topo) ({0} un)",
         "es-ES": "Piedra de Alcance({0}left)"
     },
     "XWXDCQ": {
         "en-US": "Melee Stone({0}left)",
-        "pt-BR": "Pedra de Corpo({0}left)",
+        "pt-BR": "Pedra de Corpo (Topo) ({0} un)",
         "es-ES": "Piedra de Alcance({0}left)"
     },
     "XmXDCQ": {
         "en-US": "Melee Stone({0}left)",
-        "pt-BR": "Pedra de Corpo({0}left)",
+        "pt-BR": "Pedra de Corpo (Meio) ({0} un)",
         "es-ES": "Piedra de Cuerpo({0}left)"
     },
     "X2XDCQ": {
         "en-US": "Range Stone({0}left)",
-        "pt-BR": "Pedra de Alcance({0}left)",
+        "pt-BR": "Pedra de Alcance (Baixo) ({0} un)",
         "es-ES": "Piedra de Alcance({0}left)"
     },
     "YGXDCQ": {
         "en-US": "Melee Stone({0}left)",
-        "pt-BR": "Pedra de Corpo({0}left)",
+        "pt-BR": "Pedra de Corpo (Baixo) ({0} un)",
         "es-ES": "Piedra de Cuerpo({0}left)"
     },
     "YWXDCQ": {
         "en-US": "Dumpling Footprints ({0} left",
-        "pt-BR": "Pedra de Pegada: Bolinhos ({0} left",
+        "pt-BR": "Pedra de Pegada: Bolinhos ({0} un)",
         "es-ES": "Piedra de Huella: Bollos({0} left"
     },
     "YmXDCQ": {
         "en-US": "Panda Footprints({0} left",
-        "pt-BR": "Pedra de Pegada: Pandas({0} left",
+        "pt-BR": "Pedra de Pegada: Pandas ({0} un)",
         "es-ES": "Piedra de Huella: Pandas({0} left"
     },
     "Y2XDCQ": {
         "en-US": "Panda Color Footprints({0} left",
-        "pt-BR": "Pedra de Pegada: Pandas Coloridos({0} left",
+        "pt-BR": "Pedra de Pegada: Pandas Coloridos ({0} un)",
         "es-ES": "Piedra de Huella: Pandas Coloridos({0} left"
     },
     "ZGXDCQ": {
         "en-US": "Magical Feather({0})",
-        "pt-BR": "Pedra Gráfica: Corações({0})",
+        "pt-BR": "Pedra Gráfica: Corações ({0} un)",
         "es-ES": "Piedra Gráfica: Corazones({0})"
     },
     "ZWXDCQ": {
         "en-US": "Camellia({0})",
-        "pt-BR": "Pedra Gráfica: Camélia({0})",
+        "pt-BR": "Pedra Gráfica: Camélia ({0} un)",
         "es-ES": "Piedra Gráfica: Camelia({0})"
     },
     "ZmXDCQ": {
         "en-US": "Roar({0})",
-        "pt-BR": "Pedra Gráfica: Dragão Alado({0})",
+        "pt-BR": "Pedra Gráfica: Dragão Alado ({0} un)",
         "es-ES": "Piedra Gráfica: Dragón Alado({0})"
     },
     "Z2XDCQ": {
         "en-US": "Romantic Roses({0})",
-        "pt-BR": "Pedra Gráfica: Rosas Românticas({0})",
+        "pt-BR": "Pedra Gráfica: Rosas Românticas ({0} un)",
         "es-ES": "Piedra Gráfica: Rosas Románticas({0})"
     },
     "aGXDCQ": {
         "en-US": "Valhalla's Blessing({0})",
-        "pt-BR": "Pedra Gráfica: Popstar({0})",
+        "pt-BR": "Pedra Gráfica: Popstar ({0} un)",
         "es-ES": "Piedra Gráfica: Popstar({0})"
     },
     "aWXDCQ": {
         "en-US": "Angels' Blessing({0})",
-        "pt-BR": "Pedra Gráfica: Luz Angelical({0})",
+        "pt-BR": "Pedra Gráfica: Luz Angelical ({0} un)",
         "es-ES": "Piedra Gráfica: Luz Angelical({0})"
     },
     "amXDCQ": {
         "en-US": "TIme Accessary({0})",
-        "pt-BR": "Pedra Gráfica: Relógios({0})",
+        "pt-BR": "Pedra Gráfica: Relógios ({0} un)",
         "es-ES": "Piedra Gráfica: Relojes({0})"
     },
     "a2XDCQ": {
         "en-US": "Golden Aura({0})",
-        "pt-BR": "Pedra Gráfica: Vento Amarelado({0})",
+        "pt-BR": "Pedra Gráfica: Vento Amarelado ({0} un)",
         "es-ES": "Piedra Gráfica: Viento Amarillento({0})"
     },
     "bGXDCQ": {
         "en-US": "Magic Digital Space({0})",
-        "pt-BR": "Pedra Gráfica: Espaço Digital({0})",
+        "pt-BR": "Pedra Gráfica: Espaço Digital ({0} un)",
         "es-ES": "Piedra Gráfica: Espacio Digital({0})"
     },
     "bWXDCQ": {
         "en-US": "Magic Power Stone({0}left)",
-        "pt-BR": "Pedra de Poder Mágico({0}",
+        "pt-BR": "Pedra de Propriedade (Topo) ({0} un)",
         "es-ES": "Piedra de Poder Mágico({0}"
     },
     "bmXDCQ": {
         "en-US": "Rune Knight Stone({0}left)",
-        "pt-BR": "Pedra de Cavaleiro Rúnico({0}",
+        "pt-BR": "Pedra de Cavaleiro Rúnico (Topo) ({0} un)",
         "es-ES": "Piedra de Caballero Rúnico({0}"
     },
     "b2XDCQ": {
         "en-US": "Warlock Stone({0}left)",
-        "pt-BR": "Pedra de Arcano({0}",
+        "pt-BR": "Pedra de Arcano (Topo) ({0} un)",
         "es-ES": "Piedra de Arcano({0}"
     },
     "cGXDCQ": {
         "en-US": "Royal Guard Stone({0}left)",
-        "pt-BR": "Pedra de Guardião Real({0}",
+        "pt-BR": "Pedra de Guardião Real ({0} un)",
         "es-ES": "Piedra de Guardia Real({0}"
     },
     "cWXDCQ": {
         "en-US": "Magic Power Stone({0}left)",
-        "pt-BR": "Pedra de Poder Mágico({0}",
+        "pt-BR": "Pedra de Propriedade (Meio) ({0} un)",
         "es-ES": "Piedra de Poder Mágico({0}"
     },
     "cmXDCQ": {
         "en-US": "Rune Knight Stone({0}left)",
-        "pt-BR": "Pedra de Cavaleiro Rúnico({0}",
+        "pt-BR": "Pedra de Cavaleiro Rúnico (Meio) ({0} un)",
         "es-ES": "Piedra de Caballero Rúnico({0}"
     },
     "c2XDCQ": {
         "en-US": "Warlock Stone({0}left)",
-        "pt-BR": "Pedra de Arcano({0}",
+        "pt-BR": "Pedra de Arcano (Meio) ({0} un)",
         "es-ES": "Piedra de Arcano({0}"
     },
     "dGXDCQ": {
         "en-US": "Royal Guard Stone({0}left)",
-        "pt-BR": "Pedra de Guardião Real({0}",
+        "pt-BR": "Pedra de Guardião Real (Meio) ({0} un)",
         "es-ES": "Piedra de Guardia Real({0}"
     },
     "dWXDCQ": {
         "en-US": "Magic Power Stone({0}left)",
-        "pt-BR": "Pedra de Poder Mágico({0}",
+        "pt-BR": "Pedra de Propriedade (Baixo) ({0} un)",
         "es-ES": "Piedra de Poder Mágico({0}"
     },
     "dmXDCQ": {
         "en-US": "Rune Knight Stone({0}left)",
-        "pt-BR": "Pedra de Cavaleiro Rúnico({0}",
+        "pt-BR": "Pedra de Cavaleiro Rúnico (Baixo) ({0} un)",
         "es-ES": "Piedra de Caballero Rúnico({0}"
     },
     "d2XDCQ": {
         "en-US": "Warlock Stone({0}left)",
-        "pt-BR": "Pedra de Arcano({0}",
+        "pt-BR": "Pedra de Arcano (Baixo) ({0} un)",
         "es-ES": "Piedra de Arcano({0}"
     },
     "eGXDCQ": {
         "en-US": "Royal Guard Stone({0}left)",
-        "pt-BR": "Pedra de Guardião Real({0}",
+        "pt-BR": "Pedra de Guardião Real (Baixo) ({0} un)",
         "es-ES": "Piedra de Guardia Real({0}"
     },
     "eWXDCQ": {
         "en-US": "ASPD Stone(Dual)({0}left)",
-        "pt-BR": "Vel.Atq +1 (Dupla)({0}",
+        "pt-BR": "Pedra de Vel.Atq +1 (Dual) ({0} un)",
         "es-ES": "Piedra de VELA +1 (Doble)({0}"
     },
     "emXDCQ": {
         "en-US": "Minor Casting Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Fixa -0,1 (Dupla)({0}",
+        "pt-BR": "Pedra de Fixa -0,1 (Dual) ({0} un)",
         "es-ES": "Piedra de Fija -0,1 (Doble)({0}"
     },
     "e2XDCQ": {
         "en-US": "Casting Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Conjuração Variável (Dupla)({0}",
+        "pt-BR": "Pedra de Variável -10% (Dual) ({0} un)",
         "es-ES": "Piedra de Conjuración Variable (Doble)({0}"
     },
     "fGXDCQ": {
         "en-US": "Range Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Alcance (Dupla)({0}",
+        "pt-BR": "Pedra de Alcance (Dual) ({0} un)",
         "es-ES": "Piedra de Alcance (Doble)({0}"
     },
     "fWXDCQ": {
         "en-US": "Melee Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Dano Corpo a Corpo (Dupla)({0}",
+        "pt-BR": "Pedra de Corpo (Dual) ({0} un)",
         "es-ES": "Piedra de Daño Cuerpo a Cuerpo (Doble)({0}"
     },
     "fmXDCQ": {
         "en-US": "SP Absorb Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Absorção de SP (Dupla)({0}",
+        "pt-BR": "Pedra de Absorção de SP (Dual) ({0} un)",
         "es-ES": "Piedra de Absorción de SP (Doble)({0}"
     },
     "f2XDCQ": {
         "en-US": "HP Absorb Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Absorção de HP (Dupla)({0}",
+        "pt-BR": "Pedra de Absorção de HP (Dual) ({0} un)",
         "es-ES": "Piedra de Absorción de HP (Doble)({0}"
     },
     "gGXDCQ": {
         "en-US": "Magic Power Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Poder Mágico (Dupla)({0}",
+        "pt-BR": "Pedra de Propriedade (Dual) ({0} un)",
         "es-ES": "Piedra de Poder Mágico (Doble)({0}"
     },
     "gWXDCQ": {
         "en-US": "Reload Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Recarga (Dupla)({0}",
+        "pt-BR": "Pedra de Pós (Dual) ({0} un)",
         "es-ES": "Piedra de Recarga (Doble)({0}"
     },
     "gmXDCQ": {
         "en-US": "Creative Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Criatividade (Dupla)({0}",
+        "pt-BR": "Pedra de CRV (Dual) ({0} un)",
         "es-ES": "Piedra de Creatividad (Doble)({0}"
     },
     "g2XDCQ": {
         "en-US": "Critical Stone(Dual)({0}left)",
-        "pt-BR": "Pedra Crítica (Dupla)({0}",
+        "pt-BR": "Pedra Crítica (Dual) ({0} un)",
         "es-ES": "Piedra Crítica (Doble)({0}"
     },
     "hGXDCQ": {
         "en-US": "Concentration Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Concentração (Dupla)({0}",
+        "pt-BR": "Pedra de Concentração (Dual) ({0} un)",
         "es-ES": "Piedra de Concentración (Doble)({0}"
     },
     "hWXDCQ": {
         "en-US": "Spell Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Feitiço (Dupla)({0}",
+        "pt-BR": "Pedra de Feitiço (Dual) ({0} un)",
         "es-ES": "Piedra de Hechizo (Doble)({0}"
     },
     "hmXDCQ": {
         "en-US": "Power Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Poder (Dupla)({0}",
+        "pt-BR": "Pedra de Poder (Dual) ({0} un)",
         "es-ES": "Piedra de Poder (Doble)({0}"
     },
     "h2XDCQ": {
         "en-US": "Stamina Wisdom Stone(Dual)({0}left)",
-        "pt-BR": "Pedra de Vigor e Sabedoria (Dupla)({0}",
+        "pt-BR": "Pedra de Vigor e Sabedoria (Dual) ({0} un)",
         "es-ES": "Piedra de Resistencia y Sabiduría (Doble)({0}"
+    },
+    "iGXDCQ": {
+        "en-US": "Wanderer Maestro Stone({0}left)",
+        "pt-BR": "Pedra de Músicos (Topo) ({0} un)",
+        "es-ES": "Piedra de Músicos (Superior) ({0} un)"
+    },
+    "iWXDCQ": {
+        "en-US": "Genetic Stone({0}left)",
+        "pt-BR": "Pedra de Bioquímico (Topo) ({0} un)",
+        "es-ES": "Piedra de Bioquímico (Superior) ({0} un)"
+    },
+    "imXDCQ": {
+        "en-US": "Sorcerer Stone({0}left)",
+        "pt-BR": "Pedra de Feiticeiro (Topo) ({0} un)",
+        "es-ES": "Piedra de Brujo (Superior) ({0} un)"
+    },
+    "i2XDCQ": {
+        "en-US": "Wanderer Maestro Stone({0}left)",
+        "pt-BR": "Pedra de Músicos (Meio) ({0} un)",
+        "es-ES": "Piedra de Músicos (Medio) ({0} un)"
+    },
+    "jGXDCQ": {
+        "en-US": "Genetic Stone({0}left)",
+        "pt-BR": "Pedra de Bioquímico (Meio) ({0} un)",
+        "es-ES": "Piedra de Bioquímico (Medio) ({0} un)"
+    },
+    "jWXDCQ": {
+        "en-US": "Sorcerer Stone({0}left)",
+        "pt-BR": "Pedra de Feiticeiro (Meio) ({0} un)",
+        "es-ES": "Piedra de Brujo (Medio) ({0} un)"
+    },
+    "jmXDCQ": {
+        "en-US": "Wanderer Maestro Stone({0}left)",
+        "pt-BR": "Pedra de Músicos (Baixo) ({0} un)",
+        "es-ES": "Piedra de Músicos (Inferior) ({0} un)"
+    },
+    "j2XDCQ": {
+        "en-US": "Genetic Stone({0}left)",
+        "pt-BR": "Pedra de Bioquímico (Baixo) ({0} un)",
+        "es-ES": "Piedra de Bioquímico (Inferior) ({0} un)"
+    },
+    "kGXDCQ": {
+        "en-US": "Sorcerer Stone({0}left)",
+        "pt-BR": "Pedra de Feiticeiro (Baixo) ({0} un)",
+        "es-ES": "Piedra de Brujo (Inferior) ({0} un)"
     }
 }
