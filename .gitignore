@@ -6,3 +6,4 @@
 Tool/UPDATE/*
 Tool/*.log
 *.bson
+/tmp
