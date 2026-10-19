@@ -19,7 +19,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Módulo Automático"
 		},
 		Avenger_Cube = {
-			NeedSource_String = "Cutelo Ancestral"
+			NeedSource_String = "Hacha Ancestral"
 		},
 		Barb_Wire_K_Cube = {
 			NeedSource_String = "Concertina Ancestral"
@@ -57,6 +57,9 @@ tblLapineDdukddakBox_string = {
 		CriticalHit_Mix = {
 			NeedSource_String = "Ciritical Shadows"
 		},
+		D_Gw_Extractor = {
+			NeedSource_String = "Arma del Glaciar Sombrío"
+		},
 		Demon_Hunt_Bible_Cube = {
 			NeedSource_String = "Tomo Primordial"
 		},
@@ -91,16 +94,16 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Sea Otter Mini Fan"
 		},
 		Fatalist_Cube = {
-			NeedSource_String = "Adaga Ancestral"
+			NeedSource_String = "Daga Ancestral"
 		},
 		Fog_Dew_Sword_Cube = {
 			NeedSource_String = "Wakizashi Ancestral"
 		},
 		Freedom_Stick_Cube = {
-			NeedSource_String = "Bastão Ancestral"
+			NeedSource_String = "Bastón Ancestral"
 		},
 		Freezing_Rod_Cube = {
-			NeedSource_String = "Feitiço Ancestral"
+			NeedSource_String = "Hechizo Ancestral"
 		},
 		FullPeneShadow_Mix = {
 			NeedSource_String = "Ignorar DEF"
@@ -112,7 +115,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "+7 Sombra de Gemstone"
 		},
 		Golden_L_Launcher_Cube = {
-			NeedSource_String = "Lança-Granadas Ancestral"
+			NeedSource_String = "Lanzagranadas Ancestral"
 		},
 		Gunslinger_Enchant = {
 			NeedSource_String = "Boneca Insurgente"
@@ -124,7 +127,10 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Sombrío Fugaz"
 		},
 		Humma_Clear_Cube = {
-			NeedSource_String = "Shuriken Huuma Ancestral"
+			NeedSource_String = "Huuma Shuriken Ancestral"
+		},
+		Ice_F_Stone_Box2 = {
+			NeedSource_String = "Gema Glacial"
 		},
 		Illusion_Module_Mix = {NeedSource_String = "Modulo"},
 		ImmunedAthena_Mix = {
@@ -134,7 +140,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Sombrío do Infinito"
 		},
 		Iron_Nail_K_Cube = {
-			NeedSource_String = "Garra Ancestral"
+			NeedSource_String = "Uñas Ancestrales"
 		},
 		Iron_Staff_Cube = {
 			NeedSource_String = "Cetro Ancestral"
@@ -161,7 +167,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Ancestral ou Ciclonal"
 		},
 		Light_Blade_Cube = {
-			NeedSource_String = "Vingadora Ancestral"
+			NeedSource_String = "Vengadora Ancestral"
 		},
 		M_BlitzShadow_Mix = {
 			NeedSource_String = "Blitz Shadows"
@@ -170,7 +176,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Luva Anti-Raça"
 		},
 		Magic_Sword_Cube = {
-			NeedSource_String = "Punhal Ancestral"
+			NeedSource_String = "Puñal Ancestral"
 		},
 		MagicalShadow_Mix = {
 			NeedSource_String = "Equip. Sombrío Mágico"
@@ -188,7 +194,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Rifle Ancestral"
 		},
 		MeawFoxtail_Cube = {
-			NeedSource_String = "Cauda de Gato Ancestral"
+			NeedSource_String = "Cola de Gato Ancestral"
 		},
 		Meteor_Striker_Cube = {
 			NeedSource_String = "Maça Ancestral"
@@ -197,7 +203,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Arco Ancestral"
 		},
 		OneSkyOneSun_Cube = {
-			NeedSource_String = "Enciclopédia Ancestral"
+			NeedSource_String = "Enciclopedia Ancestral"
 		},
 		Oriental_Sword_Cube = {
 			NeedSource_String = "Espada Ancestral"
@@ -227,7 +233,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "[Sombríos Raciais"
 		},
 		Ray_Knuckle_Cube = {
-			NeedSource_String = "Guantelete de Ray"
+			NeedSource_String = "Nudillera Ancestral"
 		},
 		ReloadShadow_Mix = {
 			NeedSource_String = "Sombríos de Pós"
@@ -236,7 +242,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Botas Ancestrales"
 		},
 		Royal_Bow_K_Cube = {
-			NeedSource_String = "Arco Ancestral"
+			NeedSource_String = "Ballesta Ancestral"
 		},
 		SLD_Card_Recipe = {
 			NeedSource_String = "Cartas Seladas"
@@ -251,7 +257,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Equip. Sombrío"
 		},
 		Shadow_Staff_K_Cube = {
-			NeedSource_String = "Báculo Sombrío"
+			NeedSource_String = "Cayado Ancestral"
 		},
 		Shiver_Katar_K_Cube = {
 			NeedSource_String = "Katar Ancestral"
@@ -260,10 +266,10 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Escudo Sangriento"
 		},
 		Slate_Sword_Cube = {
-			NeedSource_String = "Lâmina Ancestral"
+			NeedSource_String = "Hoja Ancestral"
 		},
 		SoulWeight_Cube = {
-			NeedSource_String = "Pêndulo Ancestral"
+			NeedSource_String = "Péndulo Ancestral"
 		},
 		SpellCasterShadow_Mix = {
 			NeedSource_String = "Spell Flow Shadows, Caster Shadows"
@@ -281,7 +287,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Sabre Ancestral"
 		},
 		The_Black_Gatling_Cube = {
-			NeedSource_String = "Gatling Ancestral"
+			NeedSource_String = "Ametralladora Ancestral"
 		},
 		True_GemShadow_Mix = {
 			NeedSource_String = "Sombrío de Joyas"

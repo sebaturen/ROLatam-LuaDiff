@@ -1,0 +1,1832 @@
+{
+    "wAUODg": {
+        "en-US": "Gray Wolf Village Resident",
+        "pt-BR": "Morador da Vila dos Lobos Cinzentos",
+        "es-ES": "Habitante de la Aldea del Lobo Gris"
+    },
+    "wQUODg": {
+        "en-US": "[Gray Wolf Village Resident]\nAre you here to help our village again today?\nWe're always grateful.",
+        "pt-BR": "[Morador da Vila dos Lobos Cinzentos]\nVeio ajudar nossa vila hoje também?\nAgradeço como sempre.",
+        "es-ES": "[Habitante de la Aldea del Lobo Gris]\n¿Viniste hoy también a ayudar a nuestra aldea?\nSiempre te lo agradecemos."
+    },
+    "wgUODg": {
+        "en-US": "^4D4DFFThere is a quest available for level 200 or higher.^000000",
+        "pt-BR": "^4D4DFFHá uma missão disponível para personagens de nível 200 ou superior.^000000",
+        "es-ES": "^4D4DFFHay una misión disponible para personajes de nivel 200 o superior.^000000"
+    },
+    "wwUODg": {
+        "en-US": "[Gray Wolf Village Resident]\nCould you wait a moment?\nMaram has been looking for you.\nWait here for a bit. They'll be here soon.",
+        "pt-BR": "[Morador da Vila dos Lobos Cinzentos]\nVocê pode esperar um pouco?\nMaram estava procurando você.\nEspere aqui um pouco. Logo vai chegar.",
+        "es-ES": "[Habitante de la Aldea del Lobo Gris]\nOye, ¿puedes esperar un momento?\nMaram te estaba buscando.\nEspera aquí un poco. Vendrá pronto."
+    },
+    "xAUODg": {
+        "en-US": "[Gray Wolf Village Resident]\nCome to think of it, did you give Maram that doll you used to wear on your head for a while?\nI saw them talking to a doll that looked something like that.",
+        "pt-BR": "[Morador da Vila dos Lobos Cinzentos]\nPensando bem, você deu para Maram aquele boneco que carregava na cabeça por um tempo?\nVi que estava conversando com um boneco parecido com aquele.",
+        "es-ES": "[Habitante de la Aldea del Lobo Gris]\nAhora que lo pienso, ¿le diste a Maram la muñeca que llevabas sobre la cabeza durante un tiempo?\nLa vi hablando con una muñeca que se parecía a esa."
+    },
+    "xQUODg": {
+        "en-US": "[Gray Wolf Village Resident]\nI thought Maram had been so busy lately that this was how they were relieving stress.\nCome to think of it, didn't you talk to that doll too?",
+        "pt-BR": "[Morador da Vila dos Lobos Cinzentos]\nAchei que Maram estivesse fazendo isso para aliviar o estresse, já que anda muito ocupado ultimamente.\nPensando bem, você também conversava com aquele boneco?",
+        "es-ES": "[Habitante de la Aldea del Lobo Gris]\nPensé que Maram estaba tan ocupada últimamente que se desahogaba así.\nAhora que lo pienso, ¿tú también hablabas con una muñeca?"
+    },
+    "xgUODg": {
+        "en-US": "Maram: Have you been waiting long?",
+        "pt-BR": "Maram: Esperou muito?",
+        "es-ES": "Maram: ¿Esperaste mucho?"
+    },
+    "xwUODg": {
+        "en-US": "[Gray Wolf Village Resident]\nMaram is here.\nI'll let you two talk.",
+        "pt-BR": "[Morador da Vila dos Lobos Cinzentos]\nMaram chegou.\nEntão conversem.",
+        "es-ES": "[Habitante de la Aldea del Lobo Gris]\nYa llegó Maram.\nEntonces hablen."
+    },
+    "yAUODg": {
+        "en-US": "Maram: Thanks!",
+        "pt-BR": "Maram: Obrigado!",
+        "es-ES": "Maram: ¡Gracias!"
+    },
+    "yQUODg": {
+        "en-US": "[Maram]\nYou haven't been waiting too long, have you?",
+        "pt-BR": "[Maram]\nVocê não esperou muito, né?",
+        "es-ES": "[Maram]\nNo habrá esperado mucho, ¿verdad?"
+    },
+    "ygUODg": {
+        "en-US": "I heard you were talking to a doll?",
+        "pt-BR": "Ouvi dizer que você estava conversando com um boneco?",
+        "es-ES": "¿Dicen que hablabas con una muñeca?"
+    },
+    "ywUODg": {
+        "en-US": "[Maram]\nAh, well, yes. Technically, I did talk to a doll. I did, but...\nBut that was Ellie, you know?",
+        "pt-BR": "[Maram]\nAh, n-não, quer dizer... sim. No fim das contas, é verdade que eu conversei com um boneco. É verdade, mas...\nSó que aquilo era Ellie, entende?",
+        "es-ES": "[Maram]\nAh, bueno, sí. Al final sí estaba hablando con una muñeca. Sí, pero...\n¡Pero era Ellie!"
+    },
+    "zAUODg": {
+        "en-US": "Suad: Good, we didn't miss each other.",
+        "pt-BR": "Suad: Ainda bem que não acabamos desencontrando.",
+        "es-ES": "Suad: Por suerte, no nos cruzamos por caminos distintos."
+    },
+    "zQUODg": {
+        "en-US": "[Miriam]\nSo why did you call everyone together, Maram?",
+        "pt-BR": "[Miriam]\nEntão por que você reuniu todo mundo, Maram?",
+        "es-ES": "[Miriam]\nEntonces, ¿por qué nos reuniste a todos, Maram?"
+    },
+    "zgUODg": {
+        "en-US": "[Suad]\nSorry, but I can't stay long. I need to go see Niren. It's about the council.",
+        "pt-BR": "[Suad]\nDesculpe, mas não posso ficar muito tempo. Preciso ir falar com a senhora Niren. Por causa do assunto do conselho.",
+        "es-ES": "[Suad]\nLo siento, pero no puedo quedarme mucho tiempo. Tengo que ir a ver a Niren. Es por un asunto del consejo."
+    },
+    "zwUODg": {
+        "en-US": "[Maram]\nNow that everyone's here, I'll explain things one by one.\nFirst, the reason I asked you to come too, Adventurer, is because Ellie came to see me...",
+        "pt-BR": "[Maram]\nAgora que todos estão aqui, vou explicar uma coisa de cada vez.\nPrimeiro, chamei até você, aventureiro, porque Ellie veio me procurar...",
+        "es-ES": "[Maram]\nYa que estamos todos reunidos, explicaré todo paso a paso.\nPrimero, reuní también al aventurero porque Ellie vino a buscarme..."
+    },
+    "0AUODg": {
+        "en-US": "[Maram]\nShe actually came all the way to Rachel as Mini Ellie without any fear.\nI ran into her while she was heading to the temple with a local kid guiding her.",
+        "pt-BR": "[Maram]\nEla veio até Rachel sem medo nenhum, na forma da Mini Ellie.\nEncontrei-a a caminho do templo, usando uma criança da região como guia.",
+        "es-ES": "[Maram]\nLlegó hasta Rachel sin miedo, con la apariencia de Mini Ellie.\nLa encontré camino al templo, guiada por un niño del lugar."
+    },
+    "0QUODg": {
+        "en-US": "[Maram]\nAfter that, Ellie went back and said she'd found a sea route to the north where Bagot went, the place where Jormungand is said to be sealed.\nShe said she'd figured out how to get there by sea.",
+        "pt-BR": "[Maram]\nDepois daquele incidente, Ellie voltou para o norte, para onde Bagot foi, ou seja, o lugar onde dizem que Jormungand está selado.\nEla disse que descobriu uma rota marítima até lá.",
+        "es-ES": "[Maram]\nDespués de aquello, Ellie regresó y dijo que había descubierto una ruta hacia el norte, adonde cruzó Bagot, es decir, el lugar donde dicen que Jormungand está sellado.\nDijo que había encontrado una ruta marítima hacia allí."
+    },
+    "0gUODg": {
+        "en-US": "[Maram]\nShe told me she'd come all this way to let you know the news, Adventurer, and asked me to pass the message along.",
+        "pt-BR": "[Maram]\nEla disse que veio até aqui para contar essa notícia ao aventureiro e me pediu que transmitisse a mensagem.",
+        "es-ES": "[Maram]\nMe pidió que le dijera que había venido hasta aquí para contarle esa noticia al aventurero."
+    },
+    "0wUODg": {
+        "en-US": "[Miriam]\nThen can we find a Fragment of Ymir's Heart?\nWhere is Ellie now?",
+        "pt-BR": "[Miriam]\nEntão podemos encontrar o Fragmento do Coração de Ymir?\nOnde Ellie está agora?",
+        "es-ES": "[Miriam]\nEntonces, ¿podremos encontrar un fragmento del Corazón de Ymir?\n¿Dónde está Ellie ahora?"
+    },
+    "1AUODg": {
+        "en-US": "[Maram]\nJust like what happened with you before, Adventurer, the connection was cut off and she turned into something like a wad of cotton.\nI was worried about her, so I left her in my room for now....",
+        "pt-BR": "[Maram]\nComo aconteceu com o aventureiro da outra vez, a conexão foi cortada e ela virou algo parecido com um tufo de algodão.\nFiquei preocupado, então deixei ela no meu quarto por enquanto....",
+        "es-ES": "[Maram]\nIgual que le pasó la última vez con el aventurero, se cortó la conexión y quedó como una especie de bola de algodón.\nMe preocupaba dejarla así, así que la dejé en mi habitación...."
+    },
+    "1QUODg": {
+        "en-US": "[Suad]\nThen where did she tell us to go?\nIf we head north, we should be able to find a Fragment of Ymir's Heart and punish that Bagot.",
+        "pt-BR": "[Suad]\nEntão, onde ela disse para irmos?\nSe formos para o norte, poderemos encontrar o Fragmento do Coração de Ymir e punir esse tal de Bagot, certo?",
+        "es-ES": "[Suad]\nEntonces, ¿dónde dijo que debíamos ir?\nSi vamos al norte, podremos encontrar el fragmento del Corazón de Ymir y castigar a ese tal Bagot, ¿verdad?"
+    },
+    "1gUODg": {
+        "en-US": "[Miriam]\nSuad, stay here and protect this place.\nI'll go.\nCouldn't Maram relay messages between us?",
+        "pt-BR": "[Miriam]\nSuad, fique aqui e proteja este lugar.\nEu vou.\nMaram pode nos passar as informações no caminho, não pode?",
+        "es-ES": "[Miriam]\nSuad, tú protege este lugar.\nYo iré.\n¿No bastaría con que Maram nos transmitiera los mensajes mientras tanto?"
+    },
+    "1wUODg": {
+        "en-US": "[Suad]\n..... I don't like it, but I suppose there's no choice.\nThis is an important time for Gray Wolf Village and the natives.",
+        "pt-BR": "[Suad]\n..... Não gosto disso, mas não há outro jeito.\nEste é um momento importante para a Vila dos Lobos Cinzentos e os nativos.",
+        "es-ES": "[Suad]\n..... No me gusta, pero no hay otra opción.\nEste es un momento importante para la Aldea del Lobo Gris y los habitantes nativos."
+    },
+    "2AUODg": {
+        "en-US": "[Suad]\nEven if a council is formed, the whole situation won't change overnight.\nFor the time being, we'll need people in the middle to coordinate things and make sure everyone understands what's expected.",
+        "pt-BR": "[Suad]\nMesmo que o conselho seja formado, a situação não vai mudar da noite para o dia.\nPor enquanto, ainda será preciso ter pessoas no meio para coordenar as coisas e dizer o que deve ser feito.",
+        "es-ES": "[Suad]\nAunque se forme el consejo, la situación no cambiará de la noche a la mañana.\nPor un tiempo, necesitaremos personas que sirvan de intermediarias y coordinen las cosas para que esto se vuelva algo normal."
+    },
+    "2QUODg": {
+        "en-US": "[Maram]\nRight. That's why Mother trusts you enough to keep moving things forward.\nI'll make sure to carry the news back and forth, so trust Miriam and the Adventurer and wait for us.",
+        "pt-BR": "[Maram]\nSim, é por isso que minha mãe também confia em você e está tocando as coisas adiante.\nVou me esforçar para levar as notícias, então confie em Miriam e no aventureiro e espere.",
+        "es-ES": "[Maram]\nSí, por eso mi madre también confía en ti y sigue adelante con todo esto.\nYo me encargaré de transmitir las noticias, así que confía en Miriam y en el aventurero y espera."
+    },
+    "2gUODg": {
+        "en-US": "[Suad]\nI suppose there's no choice.\nI'd like to talk more, but I need to go to the temple.\nI'm counting on you.",
+        "pt-BR": "[Suad]\nNão há outro jeito.\nGostaria de conversar mais, mas preciso ir ao templo.\nConto com vocês.",
+        "es-ES": "[Suad]\nNo hay otra opción.\nMe gustaría seguir hablando, pero debo ir al templo.\nCuento con ustedes."
+    },
+    "2wUODg": {
+        "en-US": "[Miriam]\nThen where should we go?\nDo you know, Adventurer?",
+        "pt-BR": "[Miriam]\nEntão, para onde devemos ir?\nAventureiro, você sabe?",
+        "es-ES": "[Miriam]\nEntonces, ¿adónde debemos ir?\nAventurero, ¿usted lo sabe?"
+    },
+    "3AUODg": {
+        "en-US": "[Maram]\nI think she said to come to the main building of Varmundt's Mansion.\nCould you show us the way?",
+        "pt-BR": "[Maram]\nAcho que disseram para irmos ao edifício principal da Mansão de Varmundt.\nVocê poderia nos mostrar o caminho?",
+        "es-ES": "[Maram]\nCreo que dijo que fuéramos al edificio principal de la Mansión de Varmundt.\n¿Podría guiarnos?"
+    },
+    "3QUODg": {
+        "en-US": "[Gray Wolf Village Resident]\nI've been hearing a lot about you lately.\nThanks for everything you've done for our village.",
+        "pt-BR": "[Morador da Vila dos Lobos Cinzentos]\nTenho ouvido falar muito de você ultimamente.\nObrigado por tudo que tem feito pela nossa vila.",
+        "es-ES": "[Habitante de la Aldea del Lobo Gris]\nÚltimamente he oído hablar mucho de ti.\nGracias por todo lo que haces por nuestra aldea."
+    },
+    "3gUODg": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "3wUODg": {
+        "en-US": "[Maram]\nYou haven't been waiting too long, have you?\nMiriam and Suad should be here soon.\nOh, there they are now.",
+        "pt-BR": "[Maram]\nEspero que você não tenha esperado muito.\nMiriam e Suad também devem chegar logo.\nAh, estão vindo ali.",
+        "es-ES": "[Maram]\nNo habrá esperado mucho, ¿verdad?\nMiriam y Suad también llegarán pronto.\nAh, justo vienen por allí."
+    },
+    "4AUODg": {
+        "en-US": "[Maram]\nShall we get going?\nVarmundt's Mansion... I'm looking forward to it.\nIf you head out first, I'll follow!",
+        "pt-BR": "[Maram]\nEntão, vamos?\nEstou ansioso para conhecer a Mansão de Varmundt.\nSe você for na frente, eu acompanho!",
+        "es-ES": "[Maram]\nEntonces, ¿vamos?\nMe emociona que vayamos a la Mansión de Varmundt.\n¡Si se adelanta, lo seguiré!"
+    },
+    "4QUODg": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "4gUODg": {
+        "en-US": "[Miriam]\nLet's hear what Maram has to say first.\nWe were probably called here for something important.",
+        "pt-BR": "[Miriam]\nPrimeiro, vamos ouvir o que Maram tem a dizer.\nDeve ter nos chamado por algum assunto importante.",
+        "es-ES": "[Miriam]\nPrimero escuchemos lo que tiene que decir Maram.\nSeguro nos llamó por algo importante."
+    },
+    "4wUODg": {
+        "en-US": "[Miriam]\nIt seems I'll be relying on you during this journey.\nI look forward to working with you.",
+        "pt-BR": "[Miriam]\nParece que vamos contar com sua ajuda nesta jornada.\nConto com você daqui para frente.",
+        "es-ES": "[Miriam]\nParece que dependeremos de usted durante este viaje.\nContamos con usted de ahora en adelante."
+    },
+    "5AUODg": {
+        "en-US": "Suad",
+        "pt-BR": "Suad",
+        "es-ES": "Suad"
+    },
+    "5QUODg": {
+        "en-US": "[Suad]\nI'm sure there's plenty to discuss, but for now, let's hear what Maram has to say.",
+        "pt-BR": "[Suad]\nDeve haver muita coisa a dizer, mas, por enquanto, vamos ouvir Maram.",
+        "es-ES": "[Suad]\nSeguro hay mucho de qué hablar, pero por ahora escuchemos lo que tiene que decir Maram."
+    },
+    "5gUODg": {
+        "en-US": "[Suad]\nSigh.... Why is it that I can't join you for these important matters....\nIt's a shame, but there's no helping it.",
+        "pt-BR": "[Suad]\nUff.... Por que nunca consigo participar dessas coisas importantes....\nÉ uma pena, mas não há outro jeito.",
+        "es-ES": "[Suad]\nUf.... ¿Por qué nunca puedo participar en estas cosas importantes....?\nEs una lástima, pero no hay otra opción."
+    },
+    "5wUODg": {
+        "en-US": "Smart Ellie",
+        "pt-BR": "Ellie Inteligente",
+        "es-ES": "Smart Ellie"
+    },
+    "6AUODg": {
+        "en-US": "[Ellie]\nWelcome, guest.\nThe others are already here as well.\nI've already given them a general explanation of what happened.",
+        "pt-BR": "[Ellie]\nBem-vindo, convidado.\nOs outros já estão aqui.\nJá expliquei por alto o que aconteceu.",
+        "es-ES": "[Ellie]\nBienvenido, invitado.\nLos demás ya están aquí.\nYa les expliqué a grandes rasgos lo sucedido."
+    },
+    "6QUODg": {
+        "en-US": "[Crux]\nIt's been a while.\nI came by for a routine check-in and happened to hear about the matter.",
+        "pt-BR": "[Crux]\nQuanto tempo.\nVim para o contato periódico e acabei ouvindo sobre esse assunto.",
+        "es-ES": "[Crux]\nHa pasado tiempo.\nVine por el contacto periódico y justo terminé enterándome de todo esto."
+    },
+    "6gUODg": {
+        "en-US": "[Leizi]\nI heard something big happened in Rachel?\nI stopped by for my regular report and ended up hearing quite the story.",
+        "pt-BR": "[Nalandro]\nOuvi dizer que aconteceu algo sério em Rachel.\nEu também passei por aqui para fazer meu relatório periódico e acabei ouvindo uma história e tanto.",
+        "es-ES": "[Lazy]\n¿Dicen que pasó algo grave en Rachel?\nYo también vine por mi informe periódico y terminé escuchando una historia increíble."
+    },
+    "6wUODg": {
+        "en-US": "[Leizi]\nThanks to that, I even got to meet our honored guests from Rachel. I insisted on coming in Tes's place, and it looks like I made the right call~",
+        "pt-BR": "[Nalandro]\nGraças a isso, também conheci convidados ilustres vindos de Rachel. Insisti em vir no lugar de Tes, e acho que fiz bem~",
+        "es-ES": "[Lazy]\nGracias a eso también pude conocer a nuestros distinguidos invitados de Rachel. Insistí en venir en lugar de Tess, y parece que hice bien~"
+    },
+    "7AUODg": {
+        "en-US": "[Leizi]\nYou two, since you're in Schwarzwald, have you been to Juno yet?\nOh? You stopped by while transferring? Then go again. Go twice!",
+        "pt-BR": "[Nalandro]\nVocês dois, já que vieram a Schwarzwald, já foram a Juno?\nOh? Passaram por lá numa conexão? Então vão mais uma vez. Vão duas vezes!",
+        "es-ES": "[Lazy]\nUstedes dos, ya que vinieron a Schwarzwald, ¿fueron a Yuno?\n¿Oh? ¿Pasaron por allí durante una conexión? Entonces vayan otra vez. ¡Vayan dos veces!"
+    },
+    "7QUODg": {
+        "en-US": "[Maram]\nHaha! Leizi? You're quite the cheerful person!\nOf course. Could you tell me about some good places to eat in Juno later?\nI have a feeling we'll be relying on you quite a bit from now on, so I look forward to working with you.",
+        "pt-BR": "[Maram]\nHaha! Senhor Nalandro? Você é uma pessoa muito divertida!\nClaro. Depois, poderia me indicar alguns bons lugares para comer em Juno?\nAcho que vou contar muito com você daqui para frente, então conto com sua ajuda.",
+        "es-ES": "[Maram]\n¡Jajá! ¿Señor Lazy? ¡Es usted una persona muy alegre!\nClaro. ¿Más adelante podría recomendarme algún buen lugar para comer en Yuno?\nParece que dependeremos mucho de usted de ahora en adelante. Encantado de contar con su ayuda."
+    },
+    "7gUODg": {
+        "en-US": "[Miriam]\nThank you for your consideration.\nOnce this is all over, I'll be sure to visit Juno.",
+        "pt-BR": "[Miriam]\nAgradeço pela consideração.\nQuando tudo isso terminar, com certeza visitarei Juno.",
+        "es-ES": "[Miriam]\nGracias por preocuparse por nosotros.\nCuando todo esto termine, sin duda visitaré Yuno."
+    },
+    "7wUODg": {
+        "en-US": "[Miriam]\nBy the way, I understand that Bagot has more companions working with Bagot.\nThat's what we learned through Father.",
+        "pt-BR": "[Miriam]\nA propósito, pelo que sei, há outros companheiros colaborando com Bagot e Bagot.\nFoi isso que descobri pelas informações obtidas através de meu pai.",
+        "es-ES": "[Miriam]\nPor cierto, tengo entendido que Bagot tiene otros compañeros que colaboran con Bagot.\nEso es lo que descubrimos gracias a la información obtenida por mi padre."
+    },
+    "8AUODg": {
+        "en-US": "[Miriam]\nBagot probably left to join up with that companion....",
+        "pt-BR": "[Miriam]\nProvavelmente Bagot partiu para se reunir com esse companheiro....",
+        "es-ES": "[Miriam]\nProbablemente Bagot se fue para reunirse con ese compañero...."
+    },
+    "8QUODg": {
+        "en-US": "[Leizi]\nThat place was up north, Issgard, wasn't it?\nThat's where it is, right?",
+        "pt-BR": "[Nalandro]\nAquele lugar ao norte, era Isgard, certo?\nÉ lá, não é?",
+        "es-ES": "[Lazy]\nEse lugar está al norte, ¿dijeron que se llamaba Isgard?\n¿Es ahí, verdad?"
+    },
+    "8gUODg": {
+        "en-US": "[Ellie]\nExactly.\nHe mentioned the legendary Jormungand, so the only northern continent connected to Jormungand is Issgard.",
+        "pt-BR": "[Ellie]\nExatamente.\nEle mencionou o lendário Jormungand, então o único continente ao norte relacionado a Jormungand é Isgard.",
+        "es-ES": "[Ellie]\nExactamente.\nComo mencionó al legendario Jormungand, el único continente del norte relacionado con Jormungand es Isgard."
+    },
+    "8wUODg": {
+        "en-US": "[Ellie]\nAnd Master's Collection No. 3, which they took, was an airship containing navigation records for Issgard.",
+        "pt-BR": "[Ellie]\nE a Coleção nº 3 do mestre que eles levaram era uma aeronave com registros de navegação de Isgard.",
+        "es-ES": "[Ellie]\nAdemás, la Colección N.º 3 del Maestro que se llevaron era una aeronave que contenía registros de navegación de Isgard."
+    },
+    "9AUODg": {
+        "en-US": "[Miriam]\nThen does that mean Bagot already had Issgard in mind even before speaking with Father?",
+        "pt-BR": "[Miriam]\nEntão Bagot já tinha Isgard em mente antes mesmo de conversar com meu pai?",
+        "es-ES": "[Miriam]\nEntonces, ¿quiere decir que Bagot ya tenía en mente Isgard incluso antes de hablar con su padre?"
+    },
+    "9QUODg": {
+        "en-US": "[Ellie]\nThat's highly likely, new guest.\nI suspect Illusion discovered the route stored in the airship and added it to the list of possible destinations.",
+        "pt-BR": "[Ellie]\nÉ bem provável, novo convidado.\nPresumo que a Ilusión tenha encontrado a rota armazenada na aeronave e a colocado entre os possíveis destinos.",
+        "es-ES": "[Eli]\nEs muy probable, nuevos invitados.\nSuponemos que Illusion encontró la ruta almacenada en la aeronave y la incluyó entre los destinos candidatos."
+    },
+    "9gUODg": {
+        "en-US": "[Ellie]\nWhile you guests were active in Arunafeltz, the airship was quite busy.\nIt traveled throughout the Midgard continent, including Arunafeltz and Schwarzwald, and always left traces of heading north in the end.",
+        "pt-BR": "[Ellie]\nEnquanto vocês estavam atuando em Arunafeltz, a aeronave esteve bastante ocupada.\nEla transitou por vários pontos do continente de Midgard, incluindo Arunafeltz e Schwarzwald, e sempre deixou rastros de que, por fim, seguia para o norte.",
+        "es-ES": "[Eli]\nMientras ustedes estaban activos en Arunafeltz, la aeronave estuvo bastante ocupada.\nViajó por distintos lugares del continente de Midgard, incluidos Arunafeltz y Schwarzwald, y siempre dejó rastros de haberse dirigido al norte al final."
+    },
+    "9wUODg": {
+        "en-US": "[Ellie]\nWyl(1), that is, Master's Collection No. 3.\nAlthough we lost connection with Wyl(1)'s core, I somehow managed to crack the code.",
+        "pt-BR": "[Ellie]\nWile(1), ou seja, a Coleção nº 3 do mestre.\nApesar de termos perdido a conexão com o núcleo da Wile(1), conseguimos decifrar o código de algum modo.",
+        "es-ES": "[Eli]\nMe refiero a Wile(1), la Colección n.º 3 del amo.\nAunque quedó desconectado del núcleo de Wile(1), de algún modo logramos descifrar el código."
+    },
+    "+AUODg": {
+        "en-US": "Saenggangi: Reporting. Everything's normal!",
+        "pt-BR": "Saenggangi: Relatório. Tudo normal!",
+        "es-ES": "Saenggangi: Reportando. ¡Todo normal!"
+    },
+    "+QUODg": {
+        "en-US": "[Ellie]\nRight on time.\nSaenggangi will report the results of the test flight.",
+        "pt-BR": "[Ellie]\nChegou bem na hora.\nSaenggangi vai informar os resultados do voo de teste.",
+        "es-ES": "[Eli]\nJusto acaba de llegar.\nSaenggangi les informará los resultados del vuelo de prueba."
+    },
+    "+gUODg": {
+        "en-US": "[Saenggangi]\nHuh? I already reported it. Everything's normal!\nConfirmed the barrier around Issgard.\nEntry impossible.",
+        "pt-BR": "[Saenggangi]\nEi, eu já informei, está tudo normal!\nConfirmei a barreira de Isgard.\nEntrada impossível.",
+        "es-ES": "[Saenggangi]\nOye, ya reporté, ¡todo normal!\nConfirmé la barrera de Isgard.\nNo se puede ingresar."
+    },
+    "+wUODg": {
+        "en-US": "[Saenggangi]\nDetected a high-level energy flow near the barrier. Traces of Wyl(1).\nBut how did Wyl(1) and Master travel back and forth?",
+        "pt-BR": "[Saenggangi]\nDetectei um fluxo de energia de alta intensidade perto da barreira. Rastros da Wile(1).\nMas como Wile(1) e o mestre iam e voltavam?",
+        "es-ES": "[Saenggangi]\nDetecté un flujo de energía de alta intensidad cerca de la barrera. Rastros del Wile(1).\nPero ¿cómo viajaban Wile(1) y el amo de un lado a otro?"
+    },
+    "/AUODg": {
+        "en-US": "[Leizi]\nLord Varmundt is a great sage, after all. Maybe he used some special method?\nLike the power of a Fragment of Ymir's Heart, for example.",
+        "pt-BR": "[Nalandro]\nO senhor Varmundt é um grande sábio, afinal. Será que ele não usou algum método especial?\nPor exemplo, o poder de um Fragmento do Coração de Ymir.",
+        "es-ES": "[Lazy]\nBarmund es un Gran Sabio. ¿No habrá usado algún método especial?\nPor ejemplo, el poder de un fragmento del Corazón de Ymir."
+    },
+    "/QUODg": {
+        "en-US": "[Crux]\nSorry to interrupt, but if this concerns Jormungand, wouldn't it be better to ask the royal family for help?",
+        "pt-BR": "[Crux]\nDesculpem interromper, mas, se isso estiver relacionado a Jormungand, não seria melhor pedir ajuda à família real?",
+        "es-ES": "[Crux]\nDisculpen que interrumpa, pero si esto está relacionado con Jormungand, ¿no sería mejor pedir ayuda a la familia real?"
+    },
+    "/gUODg": {
+        "en-US": "[Leizi]\nRune-Midgarts? Why?",
+        "pt-BR": "[Nalandro]\nEm Rune-Midgard? Por quê?",
+        "es-ES": "[Lazy]\n¿A Rune-Midgarts? ¿Por qué?"
+    },
+    "/wUODg": {
+        "en-US": "[Crux]\nIf you know the secret history behind the founding of Rune-Midgarts, it should be obvious. It has an inseparable connection to Jormungand.",
+        "pt-BR": "[Crux]\nSe conhecem a história secreta da fundação de Rune-Midgard, isso deve parecer óbvio, pois ela tem uma ligação inseparável com Jormungand.",
+        "es-ES": "[Crux]\nSi conocen la historia secreta de la fundación de Rune-Midgarts, resultará evidente, pero existe una relación inseparable con Jormungand."
+    },
+    "AAYODg": {
+        "en-US": "[Crux]\nI understand that several members of the Geoborg family are currently in the north researching Jormungand.\nI was wondering if that place might be the Issgard you're talking about...",
+        "pt-BR": "[Crux]\nPelo que sei, alguns membros da família Geoborg estão no norte pesquisando Jormungand.\nEntão pensei que esse lugar talvez fosse justamente Isgard, de que vocês estão falando...",
+        "es-ES": "[Crux]\nTengo entendido que algunos miembros de la familia Geoborg están en el norte investigando a Jormungand.\nMe preguntaba si ese lugar podría ser justamente Isgard, del que están hablando..."
+    },
+    "AQYODg": {
+        "en-US": "[Maram]\nYou mean the Curse of Jormungand!\nThe Geoborg family certainly must have a lot of information related to Jormungand.",
+        "pt-BR": "[Maram]\nEntão é a Maldição de Jormungand!\nDe fato, a família Geoborg deve ter muitas informações relacionadas a Jormungand.",
+        "es-ES": "[Maram]\n¡Se refieren a la Maldición de Jormungand!\nSin duda, la familia Geoborg debe tener mucha información relacionada con Jormungand."
+    },
+    "AgYODg": {
+        "en-US": "[Ellie]\nYou said they travel back and forth to the northern lands for their research, correct?\nThen are they able to freely cross beyond the barrier?",
+        "pt-BR": "[Ellie]\nVocê disse que eles fazem pesquisas indo e vindo pelas terras do norte, certo?\nEntão essas pessoas conseguem atravessar livremente para além da barreira da proteção?",
+        "es-ES": "[Eli]\nDijeron que viajan de un lado a otro por las tierras del norte mientras realizan sus investigaciones, ¿verdad?\nEntonces, ¿esas personas pueden cruzar libremente al otro lado de la barrera del campo de protección?"
+    },
+    "AwYODg": {
+        "en-US": "[Ellie]\nHumans, we've confirmed the route, and all that's left is to find a way through the path blocked by the barrier.\nHurry and find a solution.\nSaenggangi and I will get the airship ready.",
+        "pt-BR": "[Ellie]\nHumanos, já definimos a rota, e agora só falta encontrar um jeito de atravessar o caminho bloqueado pela barreira.\nVão logo descobrir uma solução.\nSaenggangi e eu vamos fazer a manutenção da aeronave.",
+        "es-ES": "[Eli]\nHumanos, ya hemos confirmado la ruta y solo queda abrir el camino bloqueado por la barrera.\nVayan de inmediato y averigüen cómo hacerlo.\nSaenggangi y yo nos encargaremos del mantenimiento de la aeronave."
+    },
+    "BAYODg": {
+        "en-US": "[Leizi]\nRight. This isn't the time to sit around talking.\nHey, Crux, you should've told us something like that sooner!",
+        "pt-BR": "[Nalandro]\nÉ. Não é hora de ficarmos só discutindo aqui.\nEi, Crux, você devia ter contado isso antes!",
+        "es-ES": "[Lazy]\nSí. No era momento de quedarnos aquí discutiendo en teoría.\n¡Oye, Crux, debiste contarnos algo así mucho antes!"
+    },
+    "BQYODg": {
+        "en-US": "[Crux]\nWell... matters concerning the royal family aren't something to be shared carelessly.\nPlease put in a good word for me so I don't get scolded later.",
+        "pt-BR": "[Crux]\nÉ que... assuntos da família real não devem ser divulgados levianamente.\nPor favor, expliquem bem a situação para que eu não leve uma bronca depois.",
+        "es-ES": "[Crux]\nEs que... los asuntos de la familia real no deben divulgarse a la ligera.\nPor favor, explíquenlo bien para que después no me regañen."
+    },
+    "BgYODg": {
+        "en-US": "[Leizi]\nThen let's do this.\n{0}, you go to Prontera with Crux.\nEllie and Saenggangi will prepare the airship, and I'll get ready for the journey with our guests from Rachel.",
+        "pt-BR": "[Nalandro]\nEntão vamos fazer assim.\n{0}, vá até Prontera com Crux.\nEllie e Saenggangi vão fazer a manutenção da aeronave, e eu vou preparar a viagem com o pessoal que veio de Rachel.",
+        "es-ES": "[Lazy]\nEntonces hagamos esto.\n{0}, ve a Prontera con Crux.\nEli y Saenggangi se encargarán del mantenimiento de la aeronave, y yo prepararé el viaje con los visitantes de Rachel."
+    },
+    "BwYODg": {
+        "en-US": "[Maram]\nThat would be best.\nAfter all, it wouldn't be easy for us to enter the Kingdom of Rune-Midgarts.",
+        "pt-BR": "[Maram]\nAcho melhor assim.\nAfinal, nós não conseguimos entrar facilmente no Reino de Rune-Midgard.",
+        "es-ES": "[Maram]\nMe parece bien.\nDespués de todo, a nosotros no nos resulta fácil entrar al Reino de Rune-Midgarts."
+    },
+    "CAYODg": {
+        "en-US": "[Miriam]\nWe'll stay here, prepare, and learn what we can.\nSafe travels.",
+        "pt-BR": "[Miriam]\nFicaremos aqui nos preparando e aprendendo várias coisas.\nVá e volte em segurança.",
+        "es-ES": "[Miriam]\nMe quedaré aquí preparándome y aprendiendo varias cosas.\nQue tengan buen viaje."
+    },
+    "CQYODg": {
+        "en-US": "[Ellie]\nHmm, then Ellie and Saenggangi will go prepare the airship, okay?",
+        "pt-BR": "[Ellie]\nHum, então Ellie e Saenggangi vão fazer a manutenção da aeronave?",
+        "es-ES": "[Eli]\nMmm, entonces, ¿Eli y Saenggangi irán a hacerle mantenimiento a la aeronave?"
+    },
+    "CgYODg": {
+        "en-US": "[Crux]\nThen I'll escort you to Prontera.\nLet me know when you're ready.",
+        "pt-BR": "[Crux]\nEntão vou acompanhar você até Prontera.\nAvise quando estiver pronto.",
+        "es-ES": "[Crux]\nEntonces, los acompañaré a Prontera.\nAvísenme cuando estén listos."
+    },
+    "CwYODg": {
+        "en-US": "[Ellie]\nThen, guests, go take care of your respective tasks.\nWe'll inspect the route we used for the test flight.",
+        "pt-BR": "[Ellie]\nEntão, convidados, cada um cuide do que precisa fazer.\nNós vamos verificar a rota usada no voo de teste.",
+        "es-ES": "[Eli]\nEntonces, invitados, ocúpense cada uno de sus tareas.\nNosotros revisaremos por nuestra cuenta la ruta del vuelo de prueba."
+    },
+    "DAYODg": {
+        "en-US": "Leizi",
+        "pt-BR": "Nalandro",
+        "es-ES": "Lazy"
+    },
+    "DQYODg": {
+        "en-US": "[Leizi]\nHow was Rachel?\nJuno's still the best, right?",
+        "pt-BR": "[Nalandro]\nComo foi Rachel?\nJuno ainda é a melhor, não é?",
+        "es-ES": "[Lazy]\n¿Qué te pareció Rachel?\nYuno sigue siendo la mejor, ¿verdad?"
+    },
+    "DgYODg": {
+        "en-US": "[Leizi]\nI heard we have to cross the Orum Mountains and then the sea?\nThat means we're going much farther than Lutie. It's going to be freezing, isn't it?",
+        "pt-BR": "[Nalandro]\nOuvi dizer que vamos ter que atravessar a Cordilheira de Orm e cruzar o mar, não é?\nIsso significa que vamos muito além de Lutie. Deve ser um frio absurdo, hein?",
+        "es-ES": "[Lazy]\nPor lo que escuché, ¿hay que cruzar la cordillera de Orem y atravesar el mar?\nEntonces significa que iremos mucho más lejos que Lutie. ¿No hará muchísimo frío?"
+    },
+    "DwYODg": {
+        "en-US": "[Leizi]\nWhile you're in Prontera, I'll do some shopping.\nMaybe I'll take our guests from Rachel to the Lighthalzen Department Store.",
+        "pt-BR": "[Nalandro]\nEnquanto você vai até Prontera, vou fazer umas compras.\nAcho que vou levar o pessoal de Rachel para dar uma passada na loja de departamentos de Lighthalzen.",
+        "es-ES": "[Lazy]\nMientras vas a Prontera, yo aprovecharé para ir de compras.\nQuizá lleve también a los visitantes de Rachel a los grandes almacenes de Lighthalzen."
+    },
+    "EAYODg": {
+        "en-US": "Crux",
+        "pt-BR": "Crux",
+        "es-ES": "Crux"
+    },
+    "EQYODg": {
+        "en-US": "[Crux]\nIt's been a long time.\nLady Spica and Lady Skia asked me to send you their regards.\nIt's good to see you haven't changed.",
+        "pt-BR": "[Crux]\nQuanto tempo.\nA senhorita Spica e a senhorita Skia pediram que eu mandasse lembranças.\nÉ bom ver que você continua como sempre.",
+        "es-ES": "[Crux]\nCuánto tiempo sin vernos.\nSpica y Skia me pidieron que les enviara sus saludos.\nMe alegra ver que sigue igual de siempre."
+    },
+    "EgYODg": {
+        "en-US": "[Crux]\nThen, may I escort you to Prontera Palace?",
+        "pt-BR": "[Crux]\nEntão posso acompanhar você até o Palácio Real de Prontera?",
+        "es-ES": "[Crux]\nEntonces, ¿puedo acompañarlos al Palacio Real de Prontera?"
+    },
+    "EwYODg": {
+        "en-US": "Let's go right now!",
+        "pt-BR": "Vamos agora mesmo!",
+        "es-ES": "¡Vamos ahora mismo!"
+    },
+    "FAYODg": {
+        "en-US": "Give me a moment.",
+        "pt-BR": "Espere um pouco.",
+        "es-ES": "Espera un momento."
+    },
+    "FQYODg": {
+        "en-US": "[Crux]\nUnderstood. I'll escort you to the palace immediately.",
+        "pt-BR": "[Crux]\nEntendido. Vou acompanhar você imediatamente ao palácio.",
+        "es-ES": "[Crux]\nEntendido. Los acompañaré de inmediato al palacio."
+    },
+    "FgYODg": {
+        "en-US": "[Crux]\nLet me know whenever you're ready.",
+        "pt-BR": "[Crux]\nAvise quando estiver pronto.",
+        "es-ES": "[Crux]\nAvísenme cuando estén listos."
+    },
+    "FwYODg": {
+        "en-US": "[Miriam]\nI think I understand just how remarkable Varmundt is.\nYou can tell just by looking at the grandeur of this mansion.",
+        "pt-BR": "[Miriam]\nAcho que agora entendo o quanto o senhor Varmundt é extraordinário.\nBasta olhar para a imponência desta mansão.",
+        "es-ES": "[Miriam]\nCreo que empiezo a entender lo extraordinario que debe ser ese Barmund.\nBasta con ver la magnificencia de esta mansión."
+    },
+    "GAYODg": {
+        "en-US": "[Miriam]\nWhile you're in Prontera, I'll contact Suad as well and go over our upcoming schedule once more.\nWe can get the supplies we need with advice from Leizi, right?",
+        "pt-BR": "[Miriam]\nEnquanto você estiver em Prontera, também entrarei em contato com Suad e revisarei mais uma vez nossos próximos planos.\nPodemos providenciar os suprimentos necessários seguindo os conselhos do senhor Nalandro, certo?",
+        "es-ES": "[Miriam]\nMientras estén en Prontera, también me pondré en contacto con Suad y volveré a revisar el itinerario de aquí en adelante.\nPodemos conseguir los suministros necesarios siguiendo los consejos de Lazy, ¿verdad?"
+    },
+    "GQYODg": {
+        "en-US": "[Maram]\nI never thought I'd get to visit a place like this in my life.\nWow....\nNow I see why Ellie was always bragging about her master. Hahaha.",
+        "pt-BR": "[Maram]\nNunca imaginei que um dia viria a um lugar destes.\nNossa....\nAgora entendo por que Ellie vivia se gabando do mestre. Hahaha.",
+        "es-ES": "[Maram]\nNunca imaginé que llegaría a un lugar como este en toda mi vida.\nVaya....\nAhora entiendo por qué Eli no paraba de presumir de su amo. Ja, ja, ja."
+    },
+    "GgYODg": {
+        "en-US": "[Maram]\nI'll make sure everything is ready for the journey.\nSafe travels!",
+        "pt-BR": "[Maram]\nVou cuidar bem dos preparativos para a viagem.\nBoa viagem!",
+        "es-ES": "[Maram]\nMe aseguraré de dejar bien preparados los preparativos del viaje.\n¡Que les vaya bien!"
+    },
+    "GwYODg": {
+        "en-US": "Navigator Ginger",
+        "pt-BR": "Navegadora Ginger",
+        "es-ES": "Navegante Ginger"
+    },
+    "HAYODg": {
+        "en-US": "[Saenggangi]\nI'm in charge of the airship If!\nThe new route is amazing!\nLooking forward to working with you.",
+        "pt-BR": "[Saenggangi]\nSou responsável pela aeronave If!\nEssa nova rota é incrível!\nConto com você.",
+        "es-ES": "[Saenggangi]\n¡Estoy a cargo de la aeronave If!\n¡La nueva ruta es increíble!\nCuento con ustedes."
+    },
+    "HQYODg": {
+        "en-US": "[Saenggangi]\nI'll analyze the data from our trip near the barrier once more.\nOnce I simulate a few more predicted routes, we can determine a stable route.",
+        "pt-BR": "[Saenggangi]\nVou analisar mais uma vez os dados da viagem até as proximidades da barreira.\nSe eu simular mais algumas rotas previstas, conseguiremos definir uma rota estável.",
+        "es-ES": "[Saenggangi]\nAnalizaré una vez más los datos del viaje hasta las cercanías de la barrera.\nSi simulo algunas rutas previstas más, podremos determinar una ruta estable."
+    },
+    "HgYODg": {
+        "en-US": "[Saenggangi]\nSaenggangi is busy~!",
+        "pt-BR": "[Saenggangi]\nSaenggangi está ocupado~!",
+        "es-ES": "[Saenggangi]\n¡Saenggangi está muy ocupado~!"
+    },
+    "HwYODg": {
+        "en-US": "[Crux]\nI've already requested an audience.\nPlease, come inside.",
+        "pt-BR": "[Crux]\nJá solicitei uma audiência.\nVamos entrar.",
+        "es-ES": "[Crux]\nYa solicité una audiencia.\nPasemos al interior."
+    },
+    "IAYODg": {
+        "en-US": "This is where Nihill, who fulfilled his duty and responsibility in recovering Terra Gloria, was crowned.\nI wasn't able to attend in person because I couldn't make the time......",
+        "pt-BR": "Foi aqui que ocorreu a coroação de Nihill, que cumpriu seu dever e sua responsabilidade na recuperação de Terra Glória.\nNão pude comparecer pessoalmente por falta de tempo......",
+        "es-ES": "Aquí tuvo lugar la coronación de Nihill, quien cumplió con su deber y responsabilidad en la recuperación de Terra Gloria.\nNo pude hacerme un tiempo para asistir en persona......"
+    },
+    "IQYODg": {
+        "en-US": "[Crux]\nAs I mentioned earlier, I brought {0} here because they are looking for information about the region where Jormungand is sealed.",
+        "pt-BR": "[Crux]\nComo mencionei antes, trouxe {0} porque está procurando informações sobre a região onde Jormungand foi selado.",
+        "es-ES": "[Crux]\nComo ya mencioné, {0} está buscando información sobre la región donde Jormungand fue sellado, por eso lo traje."
+    },
+    "IgYODg": {
+        "en-US": "[Nihill]\nThe day has finally come when I can be of help to you.\nStrictly speaking, this is a secret tied to the royal family, and the Geoborg family is directly involved,\nbut all seven royal families of Rune-Midgarts share a sense of responsibility for it.",
+        "pt-BR": "[Nihill]\nFinalmente chegou o dia em que posso ser útil a você.\nA rigor, trata-se de uma história secreta envolvendo a família real e também a família Geoborg,\nmas as sete famílias reais de Rune-Midgard sentem-se responsáveis por esse assunto.",
+        "es-ES": "[Nihill]\nPor fin llegó el día en que puedo serte de ayuda.\nEstrictamente hablando, es una historia secreta relacionada con la familia real y también involucra a la familia Geoborg,\npero las siete familias reales de Rune-Midgarts sienten responsabilidad por ese asunto."
+    },
+    "IwYODg": {
+        "en-US": "[Catherine]\nI heard you're searching for the land where Jormungand is sealed.\nDo you truly wish to go there?",
+        "pt-BR": "[Catherine]\nOuvi dizer que está procurando a terra onde Jormungand foi selado.\nVocê realmente deseja ir até lá?",
+        "es-ES": "[Catherine]\nEscuché que buscas la tierra donde Jormungand fue sellado.\n¿De verdad deseas ir a ese lugar?"
+    },
+    "JAYODg": {
+        "en-US": "I have to go!",
+        "pt-BR": "Preciso ir!",
+        "es-ES": "¡Debo ir!"
+    },
+    "JQYODg": {
+        "en-US": "[Catherine]\nThe Geoborg family is known to have received the Curse of Jormungand.\nEveryone present here is aware of that fact.",
+        "pt-BR": "[Catherine]\nDizem que a família Geoborg recebeu a Maldição de Jormungand.\nTodos os presentes aqui sabem disso.",
+        "es-ES": "[Catherine]\nSe sabe que la familia Geoborg recibió la Maldición de Jormungand.\nEs un hecho que todos los presentes aquí conocen."
+    },
+    "JgYODg": {
+        "en-US": "[Catherine]\nBecause of that, the Geoborg family is more closely connected to Jormungand than anyone else on the Midgard continent.\nAs a result, we know far more than what is known to the rest of the world.",
+        "pt-BR": "[Catherine]\nPor causa disso, entre todos no continente de Midgard, os Geoborg são os mais próximos de Jormungand.\nPor isso, também sabemos muitas outras coisas que não são de conhecimento público.",
+        "es-ES": "[Catherine]\nGracias a eso, los Geoborg son quienes están más estrechamente ligados a Jormungand en el continente de Midgard.\nPor eso, también saben muchas cosas que no son de conocimiento público."
+    },
+    "JwYODg": {
+        "en-US": "[Catherine]\nWhen the Order of Jormungand disappeared from this land, they did not all perish.",
+        "pt-BR": "[Catherine]\nQuando a seita de Jormungand desapareceu destas terras, nem todos morreram.",
+        "es-ES": "[Catherine]\nCuando el culto de Jormungand desapareció de estas tierras, no fue porque todos hubieran muerto."
+    },
+    "KAYODg": {
+        "en-US": "[Catherine]\nThey were trapped in an icy land beyond the sea, and that land was sealed by an unknown power.\nAnd there are guardians there who protect the seal.",
+        "pt-BR": "[Catherine]\nEles ficaram presos em uma terra de gelo além do mar, e essa terra foi selada por uma força desconhecida.\nE lá existem guardiões que protegem o selo.",
+        "es-ES": "[Catherine]\nQuedaron confinados en una tierra helada al otro lado del mar, y esa tierra fue sellada por un poder desconocido.\nAdemás, allí hay guardianes que protegen el sello."
+    },
+    "KQYODg": {
+        "en-US": "Guardians?!",
+        "pt-BR": "Guardiões?!",
+        "es-ES": "¡¿Guardianes?!"
+    },
+    "KgYODg": {
+        "en-US": "[Nihill]\nSurprising, isn't it? I only learned the details from the palace archives after I was formally crowned.",
+        "pt-BR": "[Nihill]\nSurpreendente, não é? Eu também só soube disso pelos registros secretos do palácio depois de assumir oficialmente o trono.",
+        "es-ES": "[Nihill]\nSorprendente, ¿verdad? Yo también recibí esa información de los archivos secretos del palacio después de ascender oficialmente al trono."
+    },
+    "KwYODg": {
+        "en-US": "[Nihill]\nWhat's even more surprising is the land of ice, that Issgard where Jormungand is said to be sealed.",
+        "pt-BR": "[Nihill]\nO mais surpreendente é aquela terra de gelo, ou seja, Isgard, onde dizem que Jormungand foi selado.",
+        "es-ES": "[Nihill]\nLo más sorprendente es esa tierra helada, es decir, Isgard, donde dicen que Jormungand fue sellado."
+    },
+    "LAYODg": {
+        "en-US": "[Nihill]\nMembers of the Geoborg family have apparently been traveling to and from Issgard for quite some time.\nThat's also why I invited former Queen Catherine here today.",
+        "pt-BR": "[Nihill]\nDizem que membros da família Geoborg já viajavam regularmente para Isgard há muito tempo.\nFoi por isso que convidei Sua Majestade, a rainha viúva Catherine, para estar aqui hoje.",
+        "es-ES": "[Nihill]\nDicen que los miembros de la familia Geoborg ya viajaban de ida y vuelta a Isgard desde hace tiempo.\nPor eso invité hoy aquí a Su Majestad la reina madre Catherine."
+    },
+    "LQYODg": {
+        "en-US": "[Catherine]\nThat's right.\nTristan III has three sisters.\nTwo of them are currently in Issgard.",
+        "pt-BR": "[Catherine]\nIsso mesmo.\nTristan III tem três irmãs.\nDuas delas estão atualmente em Isgard.",
+        "es-ES": "[Catherine]\nAsí es.\nTristan III tiene tres hermanas.\nDos de ellas se encuentran actualmente en Isgard."
+    },
+    "LgYODg": {
+        "en-US": "How? No, why?",
+        "pt-BR": "Como? Não, por quê?",
+        "es-ES": "¿Cómo? No, ¿por qué?"
+    },
+    "LwYODg": {
+        "en-US": "[Catherine]\nNaturally, to break the Curse of Jormungand.\nWhat happened to Tristan III was ultimately because of the Curse.\nHe ended up that way while pursuing something that imitated the Curse of Jormungand.",
+        "pt-BR": "[Catherine]\nNaturalmente, para quebrar a Maldição de Jormungand.\nO que aconteceu com Tristan III também foi, no fim das contas, por causa da Maldição.\nEle acabou assim ao perseguir algo que imitava a Maldição de Jormungand.",
+        "es-ES": "[Catherine]\nNaturalmente, para romper la Maldición de Jormungand.\nLo que le ocurrió a Tristan III también fue, al final, por culpa de la Maldición.\nTerminó así mientras perseguía algo que imitaba la Maldición de Jormungand."
+    },
+    "MAYODg": {
+        "en-US": "[Catherine]\nIt is painful to witness the death of one's own kin.\nThere is nothing strange about the princesses setting out to break the Curse.",
+        "pt-BR": "[Catherine]\nÉ triste ver um membro da família morrer.\nNão há nada de estranho em as princesas terem partido para quebrar a Maldição.",
+        "es-ES": "[Catherine]\nEs triste ver morir a un miembro de la propia familia.\nNo tiene nada de extraño que las princesas hayan decidido buscar una forma de romper la Maldición."
+    },
+    "MQYODg": {
+        "en-US": "[Catherine]\nMy nephew should be here by now, so hear what he has to say.\nHe actually travels to and from Issgard, so he should know how to get there.",
+        "pt-BR": "[Catherine]\nPor acaso, meu sobrinho deve estar aqui, então ouça o que ele tem a dizer.\nComo ele realmente viaja de ida e volta para Isgard, deve saber como chegar lá.",
+        "es-ES": "[Catherine]\nJustamente mi sobrino debe estar por aquí, así que escuchen lo que tenga que decir.\nComo viaja realmente de ida y vuelta a Isgard, sabrá cómo llegar allí."
+    },
+    "MgYODg": {
+        "en-US": "[Nihill]\nI sent word for him to come here at once.\nHe should arrive if we wait a little.",
+        "pt-BR": "[Nihill]\nJá enviei uma mensagem pedindo que viesse direto para cá.\nSe esperarmos um pouco, deve chegar.",
+        "es-ES": "[Nihill]\nYa envié un mensaje para que venga directamente aquí.\nSi esperamos un poco, debería llegar."
+    },
+    "MwYODg": {
+        "en-US": "[Catherine]\n...If only I had known about that box a little sooner.",
+        "pt-BR": "[Catherine]\n...Se ao menos tivéssemos descoberto aquela caixa um pouco antes.",
+        "es-ES": "[Catherine]\n...Ojalá hubiera sabido de esa caja un poco antes."
+    },
+    "NAYODg": {
+        "en-US": "[Lehar]\nI heard you were looking for me?\nOh, Auntie, you're here too. Crux, you were here too?",
+        "pt-BR": "[Lehar]\nDisseram que estavam me procurando?\nAh, minha tia também está aqui. Crux, você também veio?",
+        "es-ES": "[Lehar]\n¿Me estaban buscando?\nAh, también está mi tía política. ¿Y Crux también estaba aquí?"
+    },
+    "NQYODg": {
+        "en-US": "[Crux]\nIt's been a while.\nYou look as healthy as ever.\nSorry to keep everyone waiting.",
+        "pt-BR": "[Crux]\nQuanto tempo.\nVejo que continua saudável.\nDesculpem por fazer todos esperarem tanto.",
+        "es-ES": "[Crux]\nCuánto tiempo sin vernos.\nVeo que sigue tan saludable como siempre.\nPerdón por haberlos hecho esperar tanto."
+    },
+    "NgYODg": {
+        "en-US": "[Lehar]\nOh, right. Right.\nBrother Nihill—no, Your Highness? Your Majesty?\nAh, I just can't get used to this.\nAnyway, why did you call me?\nI'm a little late because I was running errands for my aunts.",
+        "pt-BR": "[Lehar]\nAh, é verdade. É verdade.\nIrmão Nihill, quer dizer, Vossa Alteza? Vossa Majestade?\nAh, ainda não me acostumei com isso.\nEnfim, por que me chamou?\nCheguei um pouco atrasado porque estava fazendo uns favores para minhas tias.",
+        "es-ES": "[Lehar]\nAh, cierto. Cierto.\nHermano Nihill, no, ¿Su Alteza? ¿Su Majestad?\nAh, no logro acostumbrarme.\nEn fin, ¿para qué me llamaron?\nLlegué un poco tarde porque estaba haciendo unos encargos para mis tías."
+    },
+    "NwYODg": {
+        "en-US": "Catherine: Lehar, your court etiquette is remarkably unchanged from when you were a child.",
+        "pt-BR": "Catherine: Lehar, seus modos na corte continuam praticamente iguais aos de quando você era criança. É impressionante.",
+        "es-ES": "Catherine: Lehar, es sorprendente lo poco que han cambiado tus modales en la corte desde que eras pequeño."
+    },
+    "OAYODg": {
+        "en-US": "Lehar: Sorrrry...",
+        "pt-BR": "Lehar: Desculpaaa...",
+        "es-ES": "Lehar: Perdoooón..."
+    },
+    "OQYODg": {
+        "en-US": "[Nihill]\nTo get straight to the point, you're leaving for Issgard soon, aren't you?\nWhen you do, I'd like you to take this person and their companions with you.",
+        "pt-BR": "[Nihill]\nIndo direto ao ponto, você vai partir para Isgard em breve, certo?\nQuando for, gostaria que levasse esta pessoa e seus companheiros com você.",
+        "es-ES": "[Nihill]\nPara ir directo al grano, pronto partirás hacia Isgard, ¿verdad?\nQuisiera que entonces llevaras contigo a esta persona y a sus compañeros."
+    },
+    "OgYODg": {
+        "en-US": "[Lehar]\nHuh? All of a sudden? Wait, why? What's going on?\nWasn't it a secret???\nWe were allowed to talk about it?!!!!",
+        "pt-BR": "[Lehar]\nHã? Assim, de repente? Mas por quê? O que aconteceu?\nNão era segredo???\nPodia contar isso?!!!!",
+        "es-ES": "[Lehar]\n¿Eh? ¿Así de repente? No, ¿por qué? ¿Qué pasó?\n¿No era un secreto???\n¿¡¿Se podía contar?!!!!"
+    },
+    "OwYODg": {
+        "en-US": "[Catherine]\nLehar. Calm down.\nThis person has a reason they absolutely must go to Issgard.",
+        "pt-BR": "[Catherine]\nLehar. Acalme-se.\nEsta pessoa precisa ir a Isgard por um motivo.",
+        "es-ES": "[Catherine]\nLehar. Tranquilízate.\nEsta persona tiene una razón por la que debe ir a Isgard sin falta."
+    },
+    "PAYODg": {
+        "en-US": "Tell them about Illusion.",
+        "pt-BR": "Conta sobre a Ilusión.",
+        "es-ES": "Le cuentas sobre Illusion."
+    },
+    "PQYODg": {
+        "en-US": "[Lehar]\nIf that's the case, this is serious.\nThen we'll need to use the Guardian's Box.\nPlease allow it.",
+        "pt-BR": "[Lehar]\nNesse caso, a situação é séria.\nEntão teremos que usar a Caixa do Guardião.\nDê sua permissão.",
+        "es-ES": "[Lehar]\nEntonces esto es grave.\nEn ese caso, tendremos que usar la Caja del Guardián.\nDenme permiso."
+    },
+    "PgYODg": {
+        "en-US": "[Nihill]\nVery well. Then, {0}, let's move to the next room.\nThe Guardian's Box is there.",
+        "pt-BR": "[Nihill]\nEstá bem. Então, {0}, vamos para a sala ao lado.\nA Caixa do Guardião está lá.",
+        "es-ES": "[Nihill]\nDe acuerdo. Entonces, {0}, vayamos a la habitación contigua.\nLa Caja del Guardián está allí."
+    },
+    "PwYODg": {
+        "en-US": "[Catherine]\nI'll be going now.\nI sincerely hope you achieve what you seek.\nLehar, give my regards to your mother.",
+        "pt-BR": "[Catherine]\nEu já vou.\nEspero que consiga alcançar o que deseja.\nLehar, mande lembranças à sua mãe.",
+        "es-ES": "[Catherine]\nYo me retiraré.\nEspero sinceramente que logren lo que desean.\nLehar, dale mis saludos a tu madre."
+    },
+    "QAYODg": {
+        "en-US": "Lehar: Of course! Mother is doing well, as always.",
+        "pt-BR": "Lehar: Claro! Minha mãe está sempre bem.",
+        "es-ES": "Lehar: ¡Claro! Mi madre siempre está bien."
+    },
+    "QQYODg": {
+        "en-US": "[Crux]\nI will escort the former Queen.\nI look forward to seeing you again.",
+        "pt-BR": "[Crux]\nEu acompanharei Sua Majestade, a rainha viúva.\nEntão, espero vê-los novamente em outra ocasião.",
+        "es-ES": "[Crux]\nYo acompañaré a Su Majestad la reina madre.\nEntonces, espero con gusto el día en que volvamos a encontrarnos."
+    },
+    "QgYODg": {
+        "en-US": "[Lehar]\nShall we go too? The timing is just right.",
+        "pt-BR": "[Lehar]\nVamos também? O momento é perfeito.",
+        "es-ES": "[Lehar]\n¿Nosotros también vamos? Justo estamos a tiempo."
+    },
+    "QwYODg": {
+        "en-US": "Catherine",
+        "pt-BR": "Catherine",
+        "es-ES": "Catherine"
+    },
+    "RAYODg": {
+        "en-US": "Lehar",
+        "pt-BR": "Lehar",
+        "es-ES": "Lehar"
+    },
+    "RQYODg": {
+        "en-US": "[Lehar]\nI mean Brother Nihill—no, His Majesty's private room.\nLet's go.",
+        "pt-BR": "[Lehar]\nEstou falando do quarto particular do irmão Nihill, quer dizer, de Sua Majestade.\nVamos logo.",
+        "es-ES": "[Lehar]\nMe refiero a la habitación privada del hermano Nihill... no, de Su Majestad.\nVamos."
+    },
+    "RgYODg": {
+        "en-US": "[Nihill]\nWhen it's just us, you can simply call me brother.\nYou're not bound to the palace anyway...",
+        "pt-BR": "[Nihill]\nQuando estivermos só entre nós, pode me chamar apenas de irmão.\nAfinal, você nem está preso às obrigações do palácio...",
+        "es-ES": "[Nihill]\nCuando estemos entre nosotros, solo llámame hermano.\nDespués de todo, tú tampoco estás atado al palacio..."
+    },
+    "RwYODg": {
+        "en-US": "[Lehar]\nOh, then please don't tell my mother.\nI really hate studying court etiquette!",
+        "pt-BR": "[Lehar]\nAh, então não conte isso para minha mãe.\nEu odeio mesmo estudar etiqueta!",
+        "es-ES": "[Lehar]\nAh, entonces no se lo diga a mi madre.\n¡De verdad odio estudiar protocolo!"
+    },
+    "SAYODg": {
+        "en-US": "Lehar: I'd rather undergo exorcism training at the monastery.",
+        "pt-BR": "Lehar: Prefiro fazer treinamento de exorcismo no monastério.",
+        "es-ES": "Lehar: Preferiría entrenar en exorcismo en el monasterio."
+    },
+    "SQYODg": {
+        "en-US": "Nihill",
+        "pt-BR": "Nihill",
+        "es-ES": "Nihill"
+    },
+    "SgYODg": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Não é possível prosseguir com a missão porque você está carregando itens demais.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos.\nOrganiza tu inventario y vuelve a intentarlo."
+    },
+    "SwYODg": {
+        "en-US": "[Nihill]\nThis ordinary-looking book is the Guardian's Box.\nWhen you open the cover, a space like the inside of a box appears.",
+        "pt-BR": "[Nihill]\nEste objeto que parece um livro comum é a Caixa do Guardião.\nQuando se abre a capa, surge um espaço como o de uma caixa.",
+        "es-ES": "[Nihill]\nEsto que parece un libro común es la Caja del Guardián.\nAl abrir la cubierta, aparece un espacio en su interior, como si fuera una caja."
+    },
+    "TAYODg": {
+        "en-US": "[Nihill]\nOnly direct descendants of the seven royal families can actually use it.\nIn this case, we'll need my seal and Lehar's.",
+        "pt-BR": "[Nihill]\nNa verdade, apenas descendentes diretos das sete famílias reais podem usá-la.\nNeste caso, precisamos dos meus selos e dos de Lehar.",
+        "es-ES": "[Nihill]\nEn realidad, solo los descendientes directos de las siete familias reales pueden usarla.\nEn este caso, necesitamos mi sello y el de Lehar."
+    },
+    "TQYODg": {
+        "en-US": "[Lehar]\nTo enter Issgard, you need to receive an ^4D4DFFinvitation^000000.\nHow many companions will be traveling with you, Adventurer?",
+        "pt-BR": "[Lehar]\nPara entrar em Isgard, é preciso receber um ^4D4DFFconvite^000000.\nQuantos companheiros irão com o aventureiro ao todo?",
+        "es-ES": "[Lehar]\nPara entrar a Isgard, deben recibir una ^4D4DFFinvitación^000000.\n¿Cuántos compañeros irán junto con el aventurero?"
+    },
+    "TgYODg": {
+        "en-US": "I have quite a few companions.",
+        "pt-BR": "Tenho muitos companheiros.",
+        "es-ES": "Tengo bastantes compañeros."
+    },
+    "TwYODg": {
+        "en-US": "[Lehar]\nUh... then Hellrock won't be enough.\nYou need to cross the sea. Are you planning to take a ship?",
+        "pt-BR": "[Lehar]\nHum... então Hellok não vai dar conta.\nPrecisamos atravessar o mar. Vocês pretendem ir de navio?",
+        "es-ES": "[Lehar]\nEh... entonces con Hellok no será posible.\nHay que cruzar el mar. ¿Piensan ir en barco?"
+    },
+    "UAYODg": {
+        "en-US": "We'll take Lord Varmundt's airship.",
+        "pt-BR": "Vou embarcar na aeronave do mestre Varmundt.",
+        "es-ES": "Iremos en la aeronave de Barmund."
+    },
+    "UQYODg": {
+        "en-US": "[Lehar]\nAh! An airship! Great.\nThen I'll send a request for entry permission.",
+        "pt-BR": "[Lehar]\nAh! Uma aeronave! Ótimo.\nEntão vou enviar uma solicitação de permissão de entrada.",
+        "es-ES": "[Lehar]\n¡Ah! ¡Una aeronave! Perfecto.\nEntonces enviaré una solicitud de permiso de entrada y salida."
+    },
+    "UgYODg": {
+        "en-US": "Lehar began writing something on fine paper bearing the royal seal.\nBeside him, Nihill seems to correct the wording from time to time.",
+        "pt-BR": "Lehar começou a escrever algo em um papel de alta qualidade com o selo oficial da família real.\nAo lado, Nihill parece corrigir algumas expressões de vez em quando.",
+        "es-ES": "Lehar comenzó a escribir algo sobre un papel de alta calidad con el sello real estampado.\nParece que, a su lado, Nihill corrige de vez en cuando algunas expresiones."
+    },
+    "UwYODg": {
+        "en-US": "[Lehar]\nAh, there we go!\nThen I'll stamp the seal and put the letter in the box.\nNow we just have to wait a little.",
+        "pt-BR": "[Lehar]\nAh, pronto!\nEntão vou colocar o selo e guardar a carta na caixa.\nAgora é só esperar um pouco.",
+        "es-ES": "[Lehar]\n¡Ah, listo!\nEntonces pondré el sello y meteré la carta en la caja.\nAhora solo hay que esperar un momento."
+    },
+    "VAYODg": {
+        "en-US": "[Nihill]\nI hope they find this in time.",
+        "pt-BR": "[Nihill]\nEspero que eles encontrem isto a tempo.",
+        "es-ES": "[Nihill]\nEspero que la encuentren a tiempo."
+    },
+    "VQYODg": {
+        "en-US": "How does it work?",
+        "pt-BR": "Como isso funciona?",
+        "es-ES": "¿Cómo funciona?"
+    },
+    "VgYODg": {
+        "en-US": "[Nihill]\nThis box was left behind by the first Tristan Gaebolg.\nIt was an artifact kept in the royal treasury under the pretense that it was one of his cherished possessions.",
+        "pt-BR": "[Nihill]\nEsta caixa foi deixada pelo primeiro Tristan Gaebolg.\nÉ uma relíquia que estava guardada no tesouro real sob o pretexto de ser um de seus objetos de estimação.",
+        "es-ES": "[Nihill]\nEsta caja fue dejada por Tristan Geoborg, el fundador.\nEs una reliquia que se conservaba en los archivos reales como uno de sus objetos más preciados."
+    },
+    "VwYODg": {
+        "en-US": "[Nihill]\nAccording to the records, it was a letter box frequently used by the founding king.\nThe instructions simply said to write a letter and place it inside, so several retainers tried putting letters in it, but nothing happened.",
+        "pt-BR": "[Nihill]\nSegundo os registros, era uma caixa de correspondência que o rei fundador costumava usar.\nComo diziam que bastava escrever uma carta e colocá-la dentro, alguns súditos tentaram fazer isso, mas nada aconteceu.",
+        "es-ES": "[Nihill]\nSegún los registros, era un buzón que el rey fundador usaba con frecuencia.\nComo decía que para usarlo solo había que escribir una carta y colocarla dentro, algunos funcionarios lo intentaron, pero no ocurrió nada."
+    },
+    "WAYODg": {
+        "en-US": "[Lehar]\nThat's why it was recorded under the name \"Letter Storage Box.\"\nIn reality, it was a magical item that reacted to the magic of a specific person.",
+        "pt-BR": "[Lehar]\nPor isso, ela foi registrada com o nome de Caixa de Correspondência.\nNa verdade, era um item mágico que reagia ao poder mágico de certas pessoas.",
+        "es-ES": "[Lehar]\nPor eso quedó registrado con el nombre de buzón de correspondencia.\nEn realidad, era un objeto mágico que reaccionaba al poder mágico de determinadas personas."
+    },
+    "WQYODg": {
+        "en-US": "[Lehar]\nWhile my aunt was organizing the library, she came across the records, learned about this box, and tried putting a letter inside.",
+        "pt-BR": "[Lehar]\nMinha tia estava organizando a biblioteca quando encontrou os registros sobre esta caixa e decidiu colocar uma carta dentro...",
+        "es-ES": "[Lehar]\nMientras mi tía organizaba los archivos, encontró un registro sobre esta caja y probó colocando una carta dentro,"
+    },
+    "WgYODg": {
+        "en-US": "So it worked properly?",
+        "pt-BR": "E funcionou corretamente?",
+        "es-ES": "¿Y funcionó correctamente?"
+    },
+    "WwYODg": {
+        "en-US": "[Lehar]\nThat's right.\nThe reply came from those guarding the seal of Issgard.\nWith an invitation imbued with their blessing, you can come and go freely.",
+        "pt-BR": "[Lehar]\nIsso mesmo.\nQuem respondeu foram os responsáveis por proteger o selo de Isgard.\nCom um convite abençoado por eles, é possível entrar e sair de lá.",
+        "es-ES": "[Lehar]\nExactamente.\nQuienes respondieron fueron las personas que protegen el sello de Isgard.\nSi tienes una invitación imbuida con su bendición, puedes entrar y salir."
+    },
+    "XAYODg": {
+        "en-US": "[Nihill]\nIt looks like we've received a reply.",
+        "pt-BR": "[Nihill]\nParece que chegou uma resposta.",
+        "es-ES": "[Nihill]\nParece que llegó una respuesta."
+    },
+    "XQYODg": {
+        "en-US": "[Lehar]\nIt's an invitation! Oh, there's another letter here too.\nIt says we're welcome.\nThey say it's been a long time since they've seen Varmundt's airship?",
+        "pt-BR": "[Lehar]\nÉ um convite! Ah, tem outra carta aqui também.\nDiz que somos bem-vindos.\nEles dizem que faz muito tempo desde a última vez que viram a aeronave de Varmundt.",
+        "es-ES": "[Lehar]\n¡Es una invitación! Ah, aquí también hay otra carta.\nDice que nos dan la bienvenida.\n¿Y dicen que ha pasado mucho tiempo desde la última vez que vieron la aeronave de Barmund?"
+    },
+    "XgYODg": {
+        "en-US": "[Lehar]\nGreat. With this, you and your companions can now go to Issgard.",
+        "pt-BR": "[Lehar]\nÓtimo. Com isso, você e seus companheiros poderão ir para Isgard.",
+        "es-ES": "[Lehar]\nBien. Con esto, el aventurero y sus compañeros podrán ir a Isgard."
+    },
+    "XwYODg": {
+        "en-US": "[Lehar]\nIt says we should give this to the kid in charge of the airship.",
+        "pt-BR": "[Lehar]\nDizem que basta entregar isto ao rapaz que cuida da aeronave.",
+        "es-ES": "[Lehar]\nDicen que solo hay que entregársela a quien está a cargo de la aeronave."
+    },
+    "YAYODg": {
+        "en-US": "[Nihill]\nIt seems everything worked out well.",
+        "pt-BR": "[Nihill]\nParece que tudo foi resolvido.",
+        "es-ES": "[Nihill]\nParece que todo salió bien."
+    },
+    "YQYODg": {
+        "en-US": "[Lehar]\nI can board the airship too, right?\nI'll stop by the monastery and the cathedral before I go.",
+        "pt-BR": "[Lehar]\nEu também posso embarcar na aeronave, certo?\nVou passar pelo mosteiro e pela catedral antes de ir.",
+        "es-ES": "[Lehar]\nYo también puedo subir a la aeronave, ¿verdad?\nPasaré por el monasterio y la catedral antes de ir."
+    },
+    "YgYODg": {
+        "en-US": "[Nihill]\nLehar, ask Crux for directions to Varmundt's mansion.",
+        "pt-BR": "[Nihill]\nLehar, pergunte a Crux como chegar até a mansão do mestre Varmundt.",
+        "es-ES": "[Nihill]\nLehar, pregúntale a Crux cómo llegar hasta la mansión de Barmund."
+    },
+    "YwYODg": {
+        "en-US": "[Nihill]\nYou'll need a guide in Issgard as well, so it would be best to travel with Lehar.\nWill you leave right away?",
+        "pt-BR": "[Nihill]\nVocê também vai precisar de um guia em Isgard, então será melhor ir com Lehar.\nQuer ir agora?",
+        "es-ES": "[Nihill]\nTú también necesitarás un guía en Isgard, así que será mejor que vayas con Lehar.\n¿Quieres ir ahora mismo?"
+    },
+    "ZAYODg": {
+        "en-US": "Return to Varmundt's Mansion.",
+        "pt-BR": "Voltar para a Mansão de Varmundt.",
+        "es-ES": "Regresar a la mansión de Barmund."
+    },
+    "ZQYODg": {
+        "en-US": "Stop by Prontera first.",
+        "pt-BR": "Vou passar por Prontera.",
+        "es-ES": "Pasar por Prontera."
+    },
+    "ZgYODg": {
+        "en-US": "[Lehar]\nThen I'll find my own way to Varmundt's mansion, so let's take the airship together!\nI'm looking forward to it!",
+        "pt-BR": "[Lehar]\nEntão eu mesma encontrarei o caminho até a mansão do mestre Varmundt, então vamos juntos de aeronave!\nEstou ansiosa!",
+        "es-ES": "[Lehar]\nEntonces encontraré por mi cuenta el camino hasta la mansión de Barmund, ¡así que vayamos juntos en la aeronave!\n¡Qué emoción!"
+    },
+    "ZwYODg": {
+        "en-US": "[Lehar]\nThen let's head out together.\nI need to stop by the cathedral.\nSee you later at Varmundt's mansion!",
+        "pt-BR": "[Lehar]\nEntão vamos sair juntos.\nPreciso passar na catedral.\nNos vemos depois na mansão do mestre Varmundt!",
+        "es-ES": "[Lehar]\nEntonces salgamos juntos.\nTengo que pasar por la catedral.\n¡Nos vemos luego en la mansión de Barmund!"
+    },
+    "aAYODg": {
+        "en-US": "[Nihill]\nSomehow, it feels like the peace and future of the continent are in your hands.\nThe royal family will provide whatever support it can through Lehar, so ask whenever you need anything.",
+        "pt-BR": "[Nihill]\nDe algum modo, parece que a paz e o futuro do continente estão em suas mãos.\nA família real prestará todo o apoio possível por meio de Lehar, então peça o que precisar a qualquer momento.",
+        "es-ES": "[Nihill]\nParece que la paz y el futuro del continente están en tus manos.\nLa familia real brindará todo el apoyo posible a través de Lehar, así que pide lo que necesites en cualquier momento."
+    },
+    "aQYODg": {
+        "en-US": "[Nihill]\nYou'll be traveling with Lehar from now on, won't you?\nI'm counting on you.",
+        "pt-BR": "[Nihill]\nDaqui para frente, você seguirá com Lehar, certo?\nConto com você.",
+        "es-ES": "[Nihill]\nDe ahora en adelante estarás con Lehar, ¿verdad?\nCuento contigo."
+    },
+    "agYODg": {
+        "en-US": "[Lehar]\nNow that we have the invitation, there shouldn't be any problem entering Issgard.\nShall we leave right away?",
+        "pt-BR": "[Lehar]\nComo já recebemos o convite, não deve haver problema para entrar em Isgard.\nQuer ir agora?",
+        "es-ES": "[Lehar]\nYa tenemos la invitación, así que no debería haber problemas para entrar a Isgard.\n¿Nos vamos de inmediato?"
+    },
+    "awYODg": {
+        "en-US": "Book-Shaped Box",
+        "pt-BR": "Caixa em forma de livro",
+        "es-ES": "Caja con forma de libro"
+    },
+    "bAYODg": {
+        "en-US": "It looks like a luxurious hardcover book, but it's actually a small box for storing letters and other items.",
+        "pt-BR": "Parece uma luxuosa edição de capa dura, mas na verdade é uma pequena caixa onde podem ser guardadas cartas e coisas do tipo.",
+        "es-ES": "Parece un lujoso libro de tapa dura, pero en realidad es una pequeña caja donde se pueden guardar cartas y otros objetos."
+    },
+    "bQYODg": {
+        "en-US": "[Saenggangi]\nOh, perfect timing.\nWhile waiting for you, I finished preparing the airship for departure.\nI was waiting to send the other guests to the airship boarding area as soon as they arrived.",
+        "pt-BR": "[Saenggangi]\nAh, que bom encontrar você agora.\nEnquanto esperava os convidados, terminei os preparativos para a partida da aeronave.\nEu estava esperando para mandar os outros convidados para a plataforma de embarque assim que chegassem.",
+        "es-ES": "[Saenggangi]\nAh, justo a tiempo.\nMientras esperaba a los invitados, terminé de preparar la aeronave para partir.\nEstaba esperando para enviar a los demás invitados a la zona de embarque de la aeronave en cuanto llegaran."
+    },
+    "bgYODg": {
+        "en-US": "[Saenggangi]\nA guest of a guest named Lehar came by and asked me to show them around, so I did.\nDo you happen to know anything about that guest?",
+        "pt-BR": "[Saenggangi]\nUm convidado de uma pessoa chamada Lehar veio me procurar e pediu orientação, então mostrei o caminho direitinho.\nVocê sabe alguma coisa sobre esse convidado?",
+        "es-ES": "[Saenggangi]\nVino un invitado de un huésped llamado Lehar y me pidió que lo guiara, así que lo guié bien.\nInvitado, ¿sabes algo sobre esa persona?"
+    },
+    "bwYODg": {
+        "en-US": "Lehar is a new member of our group.",
+        "pt-BR": "Lehar é a nova integrante do nosso grupo.",
+        "es-ES": "Lehar es nuestro nuevo compañero."
+    },
+    "cAYODg": {
+        "en-US": "[Saenggangi]\nAha. Then don't worry. I showed the new guest around properly.",
+        "pt-BR": "[Saenggangi]\nAh, entendi. Então não precisa se preocupar, porque orientei direitinho a nova convidada.",
+        "es-ES": "[Saenggangi]\nAh, ya veo. Entonces no tienes que preocuparte, porque guié bien al nuevo invitado."
+    },
+    "cQYODg": {
+        "en-US": "[Saenggangi]\nThere come the other guests.",
+        "pt-BR": "[Saenggangi]\nOlha, os outros convidados estão chegando.",
+        "es-ES": "[Saenggangi]\nMira, ahí vienen los otros invitados."
+    },
+    "cgYODg": {
+        "en-US": "[Leizi]\nHey, have you been waiting long?\nNo, right? We timed our arrival perfectly, didn't we?",
+        "pt-BR": "[Nalandro]\nEi, esperou muito?\nNão, né? Nós é que chegamos no horário certinho, não foi?",
+        "es-ES": "[Lazy]\n¡Hola! ¿Esperaste mucho?\nNo, ¿verdad? Llegamos justo a tiempo, ¿no?"
+    },
+    "cwYODg": {
+        "en-US": "[Maram]\nI went to give Suad and Mother the news.\nWe're fully prepared.",
+        "pt-BR": "[Maram]\nFui avisar Suad e minha mãe.\nEstamos com tudo pronto.",
+        "es-ES": "[Maram]\nFui a avisarles a Suad y a mi madre.\nYa tenemos todo preparado."
+    },
+    "dAYODg": {
+        "en-US": "[Miriam]\nWe can leave at any time.\nYou said you were going to Prontera to find a way to enter Issgard. Did everything go well?",
+        "pt-BR": "[Miriam]\nPodemos partir a qualquer momento.\nVocê disse que iria a Prontera descobrir uma forma de entrar em Isgard. Deu tudo certo?",
+        "es-ES": "[Miriam]\nPodemos partir en cualquier momento.\nDijeron que irían a Prontera a averiguar cómo entrar a Isgard. ¿Les fue bien?"
+    },
+    "dQYODg": {
+        "en-US": "Show the Guardian's Invitation.",
+        "pt-BR": "Mostra o Convite do Guardião.",
+        "es-ES": "Muestras la Invitación del Guardián."
+    },
+    "dgYODg": {
+        "en-US": "[Leizi]\nSo that's basically a pass, right?\nMagic really is convenient.\nSo, are we leaving now?",
+        "pt-BR": "[Nalandro]\nEntão isso aí é o passe de entrada, certo?\nMagia é mesmo muito conveniente.\nEntão vamos partir agora?",
+        "es-ES": "[Lazy]\nO sea que eso es como un permiso de paso, ¿no?\nQué práctico es esto de la magia.\nEntonces, ¿ya nos vamos?"
+    },
+    "dwYODg": {
+        "en-US": "There are more people in the group.",
+        "pt-BR": "Ainda falta alguém do grupo.",
+        "es-ES": "Hay más compañeros."
+    },
+    "eAYODg": {
+        "en-US": "[Lehar]\n{0}!\nAm I late?\nI'm not, right?\nThese must be the companions you mentioned before!",
+        "pt-BR": "[Lehar]\n{0}!\nEu me atrasei?\nNão, né?\nEntão estas são as pessoas do grupo que você mencionou antes!",
+        "es-ES": "[Lehar]\n¡{0}!\n¿Llegué tarde?\nNo, ¿verdad?\n¡Estas son las personas de las que me hablaste antes!"
+    },
+    "eQYODg": {
+        "en-US": "[Lehar]\nHello.\nI'm Lehar, and I'll be guiding you to Issgard.\nIt's nice to meet you.",
+        "pt-BR": "[Lehar]\nOlá.\nSou Lehar e vou guiá-los até Isgard.\nConto com vocês.",
+        "es-ES": "[Lehar]\nHola.\nSoy Lehar y los guiaré hasta Isgard.\nMucho gusto."
+    },
+    "egYODg": {
+        "en-US": "[Saenggangi]\nSo, shall we get going?\nCome on, make up your mind already!",
+        "pt-BR": "[Saenggangi]\nEntão, vamos partir?\nDecida logo!",
+        "es-ES": "[Saenggangi]\nInvitado, ¿nos vamos entonces?\n¡Decídete rápido!"
+    },
+    "ewYODg": {
+        "en-US": "[Leizi]\nWhat's the rush?\nWe haven't even introduced ourselves yet.\nI'm Leizi.\nHave you ever been to Juno?",
+        "pt-BR": "[Nalandro]\nPor que tanta pressa?\nA gente nem se apresentou ainda.\nEu sou Nalandro.\nVocê já foi a Juno?",
+        "es-ES": "[Lazy]\n¿Por qué tanta prisa?\nAún ni siquiera nos hemos presentado.\nMe llamo Lazy.\n¿Has estado en Yuno?"
+    },
+    "fAYODg": {
+        "en-US": "[Lehar]\nHuh? Of course. I transferred in Juno on the way here.\nAnyway, uh... let me check the passengers for a moment.",
+        "pt-BR": "[Lehar]\nHein? Claro. Eu vim fazendo baldeação em Juno.\nPrimeiro, é... vou só conferir os passageiros por um instante.",
+        "es-ES": "[Lehar]\n¿Eh? Claro. Vine haciendo conexión en Yuno.\nPrimero, eh... déjame revisar un momento a los pasajeros."
+    },
+    "fQYODg": {
+        "en-US": "[Lehar]\nAh, there's the woman with long hair wearing a veil.\nEveryone's here, right?\nI think we're ready to go. Where are we headed?",
+        "pt-BR": "[Lehar]\nAh, tem uma mulher de cabelos compridos usando véu.\nTodos já chegaram, certo?\nAcho que podemos ir. Para onde vamos?",
+        "es-ES": "[Lehar]\nAh, está la mujer de cabello largo con velo.\nYa llegaron todos, ¿verdad?\nCreo que ya podemos ir. ¿Adónde vamos?"
+    },
+    "fgYODg": {
+        "en-US": "[Miriam]\n.....?\nDo you know me well?",
+        "pt-BR": "[Miriam]\n.....?\nVocê me conhece bem?",
+        "es-ES": "[Miriam]\n.....?\n¿Me conoce bien?"
+    },
+    "fwYODg": {
+        "en-US": "[Lehar]\nNo? Of course I don't know you well.\nNice to meet you!",
+        "pt-BR": "[Lehar]\nNão? Claro que não conheço bem.\nPrazer em conhecer você!",
+        "es-ES": "[Lehar]\n¿No? Claro que no la conozco bien.\n¡Mucho gusto!"
+    },
+    "gAYODg": {
+        "en-US": "[Saenggangi]\nAll right, guests, head to the airship boarding platform.\nSaenggangi will get you there express~!",
+        "pt-BR": "[Saenggangi]\nEntão, convidados, vamos para a plataforma de embarque da aeronave.\nSaenggangi vai levar vocês em serviço expresso~!",
+        "es-ES": "[Saenggangi]\nEntonces, invitados, vayan a la zona de embarque de la aeronave.\n¡Saenggangi los llevará en servicio exprés~!"
+    },
+    "gQYODg": {
+        "en-US": "[Saenggangi]\nWe're going to Issgard aboard the If.\nYou're boarding right now, right?",
+        "pt-BR": "[Saenggangi]\nVamos para Isgard a bordo da If.\nVai embarcar agora, certo?",
+        "es-ES": "[Saenggangi]\nIremos a Isgard en el If.\n¿Subimos ahora mismo?"
+    },
+    "ggYODg": {
+        "en-US": "Board the If!",
+        "pt-BR": "Embarcar na If!",
+        "es-ES": "¡Subir al If!"
+    },
+    "gwYODg": {
+        "en-US": "Wait just a moment.",
+        "pt-BR": "Espere só um pouco.",
+        "es-ES": "Espera un momento."
+    },
+    "hAYODg": {
+        "en-US": "[Saenggangi]\nThis way, guest.",
+        "pt-BR": "[Saenggangi]\nÉ por aqui.",
+        "es-ES": "[Saenggangi]\nInvitado, por aquí."
+    },
+    "hQYODg": {
+        "en-US": "[Saenggangi]\nWe'll depart once everything is ready.",
+        "pt-BR": "[Saenggangi]\nPartimos quando tudo estiver pronto.",
+        "es-ES": "[Saenggangi]\nPartiremos cuando estén listos."
+    },
+    "hgYODg": {
+        "en-US": "[Saenggangi]\nThe route calculations are perfect.\nNo problems.",
+        "pt-BR": "[Saenggangi]\nO cálculo da rota está perfeito.\nSem problemas.",
+        "es-ES": "[Saenggangi]\nEl cálculo de la ruta es perfecto.\nNo hay problema."
+    },
+    "hwYODg": {
+        "en-US": "[Saenggangi]\nWe're getting ready for full-scale operations, you know?\nBefore that, we'll run a few test flights to keep the airship in good condition.",
+        "pt-BR": "[Saenggangi]\nEstou preparando tudo para começarmos as operações de verdade.\nAntes disso, vou fazer alguns voos de teste para manter a aeronave em boas condições.",
+        "es-ES": "[Saenggangi]\nEstoy preparándome para comenzar las operaciones regulares.\nAntes de eso, haré algunos vuelos de prueba para mantener la aeronave en buenas condiciones."
+    },
+    "iAYODg": {
+        "en-US": "[Saenggangi]\nIs there anywhere you'd like to go?\nI'll take you there on a test flight!",
+        "pt-BR": "[Saenggangi]\nTem algum lugar para onde você queira ir?\nLevo você em um voo de teste!",
+        "es-ES": "[Saenggangi]\n¿Hay algún lugar al que quieras ir?\n¡Te llevaré en un vuelo de prueba!"
+    },
+    "iQYODg": {
+        "en-US": "Prontera",
+        "pt-BR": "Prontera",
+        "es-ES": "Prontera"
+    },
+    "igYODg": {
+        "en-US": "Juno",
+        "pt-BR": "Juno",
+        "es-ES": "Yuno"
+    },
+    "iwYODg": {
+        "en-US": "Rachel",
+        "pt-BR": "Rachel",
+        "es-ES": "Rachel"
+    },
+    "jAYODg": {
+        "en-US": "I'm good.",
+        "pt-BR": "Tudo bem.",
+        "es-ES": "Está bien."
+    },
+    "jQYODg": {
+        "en-US": "[Saenggangi]\nGot it.\nOff to Prontera. Whoosh~!",
+        "pt-BR": "[Saenggangi]\nEntendido.\nVamos para Prontera. Vruum~!",
+        "es-ES": "[Saenggangi]\nEntendido.\nVamos a Prontera. ¡Fiu~!"
+    },
+    "jgYODg": {
+        "en-US": "[Saenggangi]\nGot it.\nOff to Juno. Whoosh~!",
+        "pt-BR": "[Saenggangi]\nEntendido.\nVamos para Juno. Vruum~!",
+        "es-ES": "[Saenggangi]\nEntendido.\nVamos a Yuno. ¡Fiu~!"
+    },
+    "jwYODg": {
+        "en-US": "[Saenggangi]\nGot it.\nOff to Rachel. Whoosh~!",
+        "pt-BR": "[Saenggangi]\nEntendido.\nVamos para Rachel. Vruum~!",
+        "es-ES": "[Saenggangi]\nEntendido.\nVamos a Rachel. ¡Fiu~!"
+    },
+    "kAYODg": {
+        "en-US": "[Saenggangi]\nGot it.",
+        "pt-BR": "[Saenggangi]\nEntendido.",
+        "es-ES": "[Saenggangi]\nEntendido."
+    },
+    "kQYODg": {
+        "en-US": "[Leizi]\nI'm going back and forth to Juno to make regular reports.\nI'm practically a government servant, aren't I?",
+        "pt-BR": "[Nalandro]\nEstou indo e voltando de Juno para fazer os relatórios periódicos.\nParece até trabalho forçado, não acha?",
+        "es-ES": "[Lazy]\nVoy y vengo de Yuno para entregar informes periódicos.\nEsto ya parece trabajo forzado, ¿no crees?"
+    },
+    "kgYODg": {
+        "en-US": "I'll go to Juno too.",
+        "pt-BR": "Eu também quero ir para Juno.",
+        "es-ES": "Yo también quiero ir a Yuno."
+    },
+    "kwYODg": {
+        "en-US": "Have a safe trip.",
+        "pt-BR": "Boa viagem.",
+        "es-ES": "Que te vaya bien."
+    },
+    "lAYODg": {
+        "en-US": "[Leizi]\nAll right, then.\nSaenggangi will drop you off in Juno.",
+        "pt-BR": "[Nalandro]\nEntão faça isso.\nSaenggangi vai deixar você em Juno.",
+        "es-ES": "[Lazy]\nEntonces hazlo.\nSaenggangi te dejará en Yuno."
+    },
+    "lQYODg": {
+        "en-US": "[Saenggangi]\nGuests getting off at Juno, now's the time.",
+        "pt-BR": "[Saenggangi]\nPassageiro que vai descer em Juno, é agora.",
+        "es-ES": "[Saenggangi]\nInvitado que baja en Yuno, ahora."
+    },
+    "lgYODg": {
+        "en-US": "[Leizi]\nTraveling by airship sure is convenient.",
+        "pt-BR": "[Nalandro]\nViajar de aeronave é bem prático.",
+        "es-ES": "[Lazy]\nViajar en aeronave es cómodo y práctico."
+    },
+    "lwYODg": {
+        "en-US": "[Maram]\nI agreed to procure supplies for the Ice Castle.\nWhen it comes to procuring supplies, I'm the one for the job.\nThat's why I'm on my way to Rachel.",
+        "pt-BR": "[Maram]\nEu fiquei encarregado de providenciar os suprimentos para o Castelo de Gelo.\nQuando se trata de conseguir suprimentos, ninguém melhor do que eu.\nPor isso, estou indo para Rachel.",
+        "es-ES": "[Maram]\nQuedé a cargo de conseguir los suministros para el Castillo de Hielo.\nDespués de todo, cuando se trata de conseguir suministros, soy la indicada.\nPor eso voy camino a Rachel."
+    },
+    "mAYODg": {
+        "en-US": "I'll go to Rachel too.",
+        "pt-BR": "Eu também quero ir para Rachel.",
+        "es-ES": "Yo también quiero ir a Rachel."
+    },
+    "mQYODg": {
+        "en-US": "[Maram]\nYou must have some business in Rachel, then?",
+        "pt-BR": "[Maram]\nParece que você tem algo para fazer em Rachel, não é?",
+        "es-ES": "[Maram]\nParece que tienes algo que hacer en Rachel, ¿verdad?"
+    },
+    "mgYODg": {
+        "en-US": "[Saenggangi]\nGuests getting off at Rachel, now's the time.",
+        "pt-BR": "[Saenggangi]\nPassageiro que vai descer em Rachel, é agora.",
+        "es-ES": "[Saenggangi]\nInvitado que baja en Rachel, ahora."
+    },
+    "mwYODg": {
+        "en-US": "[Maram]\nThen I'll be off.",
+        "pt-BR": "[Maram]\nEntão, já vou.",
+        "es-ES": "[Maram]\nEntonces, me iré."
+    },
+    "nAYODg": {
+        "en-US": "[Saenggangi]\nWe'll fly straight to the final point we reached during the test flight.\nOh, right. Where's the way to get past the barrier?",
+        "pt-BR": "[Saenggangi]\nVou voar de uma vez até o ponto final do voo de teste.\nAh, e onde está a forma de atravessar a barreira?",
+        "es-ES": "[Saenggangi]\nVolaremos de una sola vez hasta el punto final del vuelo de prueba.\nPor cierto, ¿dónde está la forma de atravesar la barrera?"
+    },
+    "nQYODg": {
+        "en-US": "[Lehar]\nI gave you the invitation granting permission to visit the Ice Castle, right?\nYou just need to give it to the person in charge of the airship...",
+        "pt-BR": "[Lehar]\nEu entreguei o convite que permite a visita ao Castelo de Gelo, certo?\nÉ só entregar para quem cuida da aeronave...",
+        "es-ES": "[Lehar]\nLes di una invitación que autoriza la visita al Castillo de Hielo, ¿verdad?\nSolo tienen que entregársela a quien esté a cargo de la aeronave..."
+    },
+    "ngYODg": {
+        "en-US": "Give the invitation to Saenggangi.",
+        "pt-BR": "Entrega o convite a Saenggangi.",
+        "es-ES": "Le das la invitación a Saenggangi."
+    },
+    "nwYODg": {
+        "en-US": "[Saenggangi]\nAh! The missing puzzle piece!\nA specific frequency code is being detected from the invitation.",
+        "pt-BR": "[Saenggangi]\nAh! Uma peça do quebra-cabeça!\nUm código de frequência específico foi detectado no convite.",
+        "es-ES": "[Saenggangi]\n¡Ah! ¡La pieza que faltaba!\nDetecto un código de frecuencia específico en la invitación."
+    },
+    "oAYODg": {
+        "en-US": "[Saenggangi]\nYeah. I know what to do now.\nYou can rest until we arrive.",
+        "pt-BR": "[Saenggangi]\nSim. Já entendi como fazer.\nDescanse até chegarmos.",
+        "es-ES": "[Saenggangi]\nSí. Ya sé cómo hacerlo.\nInvitado, descansa hasta que lleguemos."
+    },
+    "oQYODg": {
+        "en-US": "[Lehar]\nWhat? You lost the invitation?!\nNo. That can't be right.\nDidn't you leave it in storage???!!!",
+        "pt-BR": "[Lehar]\nO quê? Você perdeu o convite?!\nNão. Não pode ser.\nVocê não deixou no armazém???!!!",
+        "es-ES": "[Lehar]\n¿Qué? ¡¿Perdieron la invitación?!\nNo. No puede ser.\n¿No la dejaron guardada en el almacén???!!!"
+    },
+    "ogYODg": {
+        "en-US": "[Saenggangi]\nThen we'll have to turn back.\nReturning to Varmundt's Mansion.",
+        "pt-BR": "[Saenggangi]\nEntão temos que voltar.\nVamos retornar à Mansão de Varmundt.",
+        "es-ES": "[Saenggangi]\nEntonces tendremos que regresar.\nVolvemos a la mansión de Barmund."
+    },
+    "owYODg": {
+        "en-US": "[Saenggangi]\nWe're traveling along the optimal route.\nYou can rest until we reach the destination.",
+        "pt-BR": "[Saenggangi]\nEstamos seguindo pela melhor rota.\nDescanse até chegarmos ao destino.",
+        "es-ES": "[Saenggangi]\nEstamos siguiendo la mejor ruta.\nInvitado, descansa hasta que lleguemos al destino."
+    },
+    "pAYODg": {
+        "en-US": "[Saenggangi]\nThis way, guest.\nSaenggangi has to stay here and guard the If.\nIf you want to return to Varmundt's Mansion, just ask anytime.",
+        "pt-BR": "[Saenggangi]\nÉ por aqui.\nSaenggangi precisa ficar aqui para proteger a If.\nSe quiser voltar para a Mansão de Varmundt, é só pedir a qualquer momento.",
+        "es-ES": "[Saenggangi]\nInvitado, por aquí.\nSaenggangi tiene que quedarse aquí para cuidar el If.\nSi quieres regresar a la mansión de Barmund, pídemelo cuando quieras."
+    },
+    "pQYODg": {
+        "en-US": "Get off now.",
+        "pt-BR": "Descer agora.",
+        "es-ES": "Bajar ahora."
+    },
+    "pgYODg": {
+        "en-US": "Get off a little later.",
+        "pt-BR": "Descer daqui a pouco.",
+        "es-ES": "Bajar dentro de un rato."
+    },
+    "pwYODg": {
+        "en-US": "[Saenggangi]\nThen, whoosh~",
+        "pt-BR": "[Saenggangi]\nEntão, vruum~",
+        "es-ES": "[Saenggangi]\nEntonces, ¡fiu~"
+    },
+    "qAYODg": {
+        "en-US": "[Saenggangi]\nGot it.\nTell me later.",
+        "pt-BR": "[Saenggangi]\nEntendido.\nFale comigo depois.",
+        "es-ES": "[Saenggangi]\nEntendido.\nDímelo después."
+    },
+    "qQYODg": {
+        "en-US": "[Saenggangi]\nThe airship is always ready to fly.\nWhere would you like to go?",
+        "pt-BR": "[Saenggangi]\nA aeronave está sempre disponível.\nPara onde deseja ir?",
+        "es-ES": "[Saenggangi]\nLa aeronave está disponible en cualquier momento.\n¿Adónde los llevo?"
+    },
+    "qgYODg": {
+        "en-US": "Varmundt's Mansion",
+        "pt-BR": "Mansão de Varmundt",
+        "es-ES": "Mansión de Barmund"
+    },
+    "qwYODg": {
+        "en-US": "Issgard",
+        "pt-BR": "Isgard",
+        "es-ES": "Isgard"
+    },
+    "rAYODg": {
+        "en-US": "[Saenggangi]\nThen, whoosh whoosh~",
+        "pt-BR": "[Saenggangi]\nEntão, vruum vruum~",
+        "es-ES": "[Saenggangi]\nEntonces, ¡fiu, fiu~"
+    },
+    "rQYODg": {
+        "en-US": "[Leizi]\nWhoa. Even the interior of the Great Sage's airship is on another level.\nI've ridden Valkyrie Air's airships a few times, but they were nothing like this.",
+        "pt-BR": "[Nalandro]\nUau. A aeronave do Grande Sábio é diferente até por dentro.\nJá viajei algumas vezes nas aeronaves da Valkyrie Airlines, mas nenhuma era assim.",
+        "es-ES": "[Lazy]\nVaya. La aeronave del Gran Sabio es diferente hasta por dentro.\nHe viajado varias veces en las aeronaves de Valkyrie Airlines, pero ninguna era como esta."
+    },
+    "rgYODg": {
+        "en-US": "[Leizi]\nEver heard of airport fashion?\nWhat do you think? Looks good, right?",
+        "pt-BR": "[Nalandro]\nVocê conhece o tal visual de aeroporto?\nE aí, não está estiloso?",
+        "es-ES": "[Lazy]\n¿Conoces eso de la moda de aeropuerto?\n¿Qué tal? Me veo genial, ¿verdad?"
+    },
+    "rwYODg": {
+        "en-US": "[Leizi]\nThey say it's cold there, right?\nBetter make sure I've got plenty of warm clothes.",
+        "pt-BR": "[Nalandro]\nDizem que lá é frio, não é?\nÉ melhor levar bastante roupa de frio.",
+        "es-ES": "[Lazy]\nDicen que allá hace frío, ¿no?\nTengo que llevar suficiente ropa de abrigo."
+    },
+    "sAYODg": {
+        "en-US": "Leizi: We're landing already? My secret cold-weather gear is finally going to shine!",
+        "pt-BR": "Nalandro: Já vamos pousar? Minha roupa de frio secreta finalmente vai mostrar seu valor!",
+        "es-ES": "Lazy: ¿Ya vamos a aterrizar? ¡Por fin podré lucir mi ropa de abrigo secreta!"
+    },
+    "sQYODg": {
+        "en-US": "Maram: This doesn't even compare to a commercial airship. So this is a private airship...!",
+        "pt-BR": "Maram: Nem dá para comparar com uma aeronave comercial. Então esta é uma aeronave particular...!",
+        "es-ES": "Maram: No se puede comparar con una aeronave comercial. ¡Así es una aeronave privada...!"
+    },
+    "sgYODg": {
+        "en-US": "[Maram]\nLater, I'm planning to discuss with Saenggangi whether I can use the airship regularly.\nIf they need all kinds of resources, they'll need someone to deliver them too, right?",
+        "pt-BR": "[Maram]\nDepois, pretendo conversar com Saenggangi para saber se posso usar a aeronave regularmente.\nSe forem necessários vários recursos, também vão precisar de alguém para fazer as entregas, certo?",
+        "es-ES": "[Maram]\nMás adelante pienso hablar con Saenggangi para ver si puedo usar la aeronave periódicamente.\nSi necesitan diversos recursos, también necesitarán a alguien que los entregue, ¿verdad?"
+    },
+    "swYODg": {
+        "en-US": "Maram: We've finally arrived, right? I should take a deep breath before getting off.",
+        "pt-BR": "Maram: Finalmente chegamos, não é? Acho melhor respirar fundo antes de descer.",
+        "es-ES": "Maram: Por fin llegamos, ¿verdad? Será mejor que respire hondo antes de bajar."
+    },
+    "tAYODg": {
+        "en-US": "Miriam:This is my first time on such a long journey, so my heart is racing a little.",
+        "pt-BR": "Miriam:É a primeira vez que faço uma viagem tão longa, então estou um pouco ansiosa.",
+        "es-ES": "Miriam:Es la primera vez que hago un viaje tan largo, así que estoy un poco emocionada."
+    },
+    "tQYODg": {
+        "en-US": "Miriam: I feel more excited than nervous. Maybe I still have a lot of training to do.",
+        "pt-BR": "Miriam: Estou me sentindo mais animada do que tensa. Será que ainda me falta treinamento?",
+        "es-ES": "Miriam: Más que nerviosa, me siento emocionada. ¿Será que aún me falta entrenamiento?"
+    },
+    "tgYODg": {
+        "en-US": "Miriam:I'm a little nervous. Will it be very cold?",
+        "pt-BR": "Miriam:Estou um pouco nervosa. Será que vai estar muito frio?",
+        "es-ES": "Miriam:Estoy un poco nerviosa. ¿Hará mucho frío?"
+    },
+    "twYODg": {
+        "en-US": "[Lehar]\nPlease give the invitation we received from the royal palace to Saenggangi.\nIt should allow the entire airship to be recognized as an authorized entity.",
+        "pt-BR": "[Lehar]\nEntregue ao Saenggangi o convite que recebeu no palácio real.\nAssim, será possível reconhecer toda a aeronave como uma unidade autorizada.",
+        "es-ES": "[Lehar]\nEntrégale a Saenggangi la invitación que recibimos en el palacio.\nDebería poder reconocer toda la aeronave como una unidad autorizada."
+    },
+    "uAYODg": {
+        "en-US": "[Lehar]\nThings were hectic earlier because we boarded in a hurry, right?\nI'm Lehar from St. Capitolina Abbey.",
+        "pt-BR": "[Lehar]\nAntes estávamos tão ocupados embarcando às pressas que nem tivemos tempo, não é?\nSou Lehar, do Mosteiro de Santa Capitolina.",
+        "es-ES": "[Lehar]\nAntes subimos con tanta prisa que no tuvimos tiempo de presentarnos bien, ¿verdad?\nSoy Lehar, del Monasterio de Santa Capitolina."
+    },
+    "uQYODg": {
+        "en-US": "[Lehar]\nWhile helping with research related to Jormungand, I somehow ended up traveling back and forth to Issgard, and that's how I came to accompany all of you.",
+        "pt-BR": "[Lehar]\nEnquanto ajudava nas pesquisas relacionadas a Jormungand, acabei indo e voltando de Isgard, e foi assim que vim acompanhá-los.",
+        "es-ES": "[Lehar]\nMientras ayudaba con las investigaciones relacionadas con Jormungand, terminé viajando de ida y vuelta a Isgard, y así fue como terminé acompañándolos."
+    },
+    "ugYODg": {
+        "en-US": "[Leizi]\nYou're a polite young man, just like a rookie!\nI like you.\nJust call me Leizi.",
+        "pt-BR": "[Nalandro]\nVocê é um jovem educado e com cara de novato!\nGostei de você.\nPode me chamar de Nalandro.",
+        "es-ES": "[Lazy]\n¡Eres un joven muy educado y con pinta de novato!\nMe caes bien.\nPuedes llamarme Lazy con confianza."
+    },
+    "uwYODg": {
+        "en-US": "[Maram]\nI'm Maram. I came along in case I could be of help on this journey.\nIf it's a matter of delivering supplies or news, I should be able to handle it well.",
+        "pt-BR": "[Maram]\nSou Maram. Vim porque achei que poderia ajudar nesta jornada.\nSe for para entregar suprimentos ou notícias, acredito que posso fazer um bom trabalho.",
+        "es-ES": "[Maram]\nSoy Maram. Vine pensando que podría ser de ayuda en este viaje.\nSi se trata de llevar suministros o transmitir noticias, creo que podré hacerlo bien."
+    },
+    "vAYODg": {
+        "en-US": "[Miriam]\nI'm Miriam.\nI came with Maram.\nI look forward to working with you.",
+        "pt-BR": "[Miriam]\nSou Miriam.\nVim com Maram.\nConto com vocês daqui para frente.",
+        "es-ES": "[Miriam]\nSoy Miriam.\nVine junto con Maram.\nEspero que nos llevemos bien de ahora en adelante."
+    },
+    "vQYODg": {
+        "en-US": "[Lehar]\nMiriam?\nOh, keeping up the mysterious act as always~\nI'll take the hint and pretend I don't know.",
+        "pt-BR": "[Lehar]\nMiriam?\nOh, como sempre, toda misteriosa~\nVou fingir que não percebi.",
+        "es-ES": "[Lehar]\n¿Miriam?\nOh, como era de esperar, todo un misterio~\nHaré como que no sé nada."
+    },
+    "vgYODg": {
+        "en-US": "[Miriam]\nHmm?\nIs that so...",
+        "pt-BR": "[Miriam]\nHm?\nEntendo...",
+        "es-ES": "[Miriam]\n¿Mmm?\nYa veo..."
+    },
+    "vwYODg": {
+        "en-US": "[Leizi]\nHey, young man.\nJudging by your outfit, are you an exorcist?",
+        "pt-BR": "[Nalandro]\nEi, jovem.\nPelo seu traje, você é do tipo exorcista?",
+        "es-ES": "[Lazy]\nOye, joven.\nPor tu atuendo, ¿eres del tipo exorcista?"
+    },
+    "wAYODg": {
+        "en-US": "[Lehar]\nHuh? Ah, yes. That's right!\nI've lived at St. Capitolina Abbey since I was young, so...",
+        "pt-BR": "[Lehar]\nHein? Ah, sim. Isso mesmo!\nÉ que cresci no Mosteiro de Capitolina desde pequeno...",
+        "es-ES": "[Lehar]\n¿Eh? Ah, sí. ¡Así es!\nHe vivido en el Monasterio de Santa Capitolina desde pequeño..."
+    },
+    "wQYODg": {
+        "en-US": "[Leizi]\nThen you're a servant of the gods, so what connection do you have to the Gaebolg royal family?\nOh my, don't tell me you're a prince?",
+        "pt-BR": "[Nalandro]\nEntão você é um servo de Deus. Qual é a sua relação com a família real Gaebolg?\nOra, será que você é um príncipe?",
+        "es-ES": "[Lazy]\nEntonces eres un servidor de Dios. ¿Qué relación tienes con la familia real Geoborg?\nVaya, ¿acaso eres un príncipe?"
+    },
+    "wgYODg": {
+        "en-US": "[Lehar]\nCome on, a prince? Of course not.\nMy mother was a sibling of the previous king and the youngest princess of the Gaebolg family.",
+        "pt-BR": "[Lehar]\nQue príncipe, nada. Não sou.\nMinha mãe era irmã do falecido rei e a princesa mais nova da família Gaebolg.",
+        "es-ES": "[Lehar]\nVamos, ¿qué príncipe ni qué nada? No lo soy.\nMi madre era hermana del anterior rey y la princesa menor de la familia Geoborg."
+    },
+    "wwYODg": {
+        "en-US": "[Lehar]\nMy mother was concerned about her family's Curse, so she entrusted me to the abbey and raised me there...\nMy aunts were at the abbey too...",
+        "pt-BR": "[Lehar]\nMinha mãe se preocupava com a Maldição de sua família, então me deixou aos cuidados do mosteiro enquanto eu crescia...\nMinhas tias também estavam no mosteiro...",
+        "es-ES": "[Lehar]\nA mi madre le preocupaba la Maldición de su familia, así que me dejó al cuidado del monasterio mientras crecía...\nAdemás, una de mis tías también estaba allí..."
+    },
+    "xAYODg": {
+        "en-US": "[Maram]\nWere they at the abbey in order to break the Curse?",
+        "pt-BR": "[Maram]\nVocê estava no mosteiro para quebrar a Maldição?",
+        "es-ES": "[Maram]\n¿Estaban en el monasterio para romper la Maldición?"
+    },
+    "xQYODg": {
+        "en-US": "[Lehar]\nThat's right. In the end, the Curse manifested in the previous king's direct son, and my aunts fell into despair.",
+        "pt-BR": "[Lehar]\nIsso mesmo. No fim, a Maldição se manifestou no filho direto do falecido rei, e minhas tias ficaram desesperadas.",
+        "es-ES": "[Lehar]\nAsí es. Al final, la Maldición se manifestó en el hijo directo del anterior rey, y mis tías quedaron desesperadas."
+    },
+    "xgYODg": {
+        "en-US": "[Lehar]\nJust as they had resolved to break the family's Curse themselves, an opportunity arose, so they went to Issgard, which is practically the source of Jormungand.",
+        "pt-BR": "[Lehar]\nEnquanto estavam determinadas a romper pessoalmente a Maldição da família, surgiu uma oportunidade, e então foram para Isgard, que é praticamente a origem de Jormungand.",
+        "es-ES": "[Lehar]\nJusto cuando estaban decididas a romper personalmente la Maldición de la familia, surgió una oportunidad y fueron a Isgard, que es prácticamente el origen de Jormungand."
+    },
+    "xwYODg": {
+        "en-US": "[Miriam]\nWhat kind of place is Issgard?",
+        "pt-BR": "[Miriam]\nComo é Isgard?",
+        "es-ES": "[Miriam]\n¿Qué clase de lugar es Isgard?"
+    },
+    "yAYODg": {
+        "en-US": "[Lehar]\nIt's a frozen land.\nEverywhere you look, there's nothing but snow, ice, and glaciers.\nAh, but it's warm inside the Ice Castle.",
+        "pt-BR": "[Lehar]\nÉ uma terra congelada.\nPara onde quer que olhe, só há neve, gelo e geleiras.\nAh, mas dentro do Castelo de Gelo é quente.",
+        "es-ES": "[Lehar]\nEs una tundra helada.\nMires donde mires, solo hay nieve, hielo y glaciares.\nAh, pero dentro del castillo de hielo hace calor."
+    },
+    "yQYODg": {
+        "en-US": "[Lehar]\nWhat was it again? I heard Leon did something with some kind of magic power.\nHahahaha...\nI can't remember.",
+        "pt-BR": "[Lehar]\nComo era mesmo? Ouvi dizer que Leon fez alguma coisa com um certo poder mágico.\nHahahaha...\nNão me lembro.",
+        "es-ES": "[Lehar]\n¿Cómo era? Escuché que Leon había hecho algo con cierto poder mágico.\nJajajaja...\nNo me acuerdo."
+    },
+    "ygYODg": {
+        "en-US": "[Leizi]\nIs there anything in particular we should watch out for?\nIf Illusion is involved, something must have gone wrong.",
+        "pt-BR": "[Nalandro]\nNão tem nada em especial com que precisamos tomar cuidado?\nSe for coisa da Illusion, com certeza já deve ter acontecido alguma confusão.",
+        "es-ES": "[Lazy]\n¿No hay nada en especial con lo que debamos tener cuidado?\nSi se trata de Illusion, seguro que ya causaron algún problema."
+    },
+    "ywYODg": {
+        "en-US": "[Lehar]\nThe number of Rgans has increased rapidly lately. Could that be related?\nI think it'd be better for you to go and see for yourselves...",
+        "pt-BR": "[Lehar]\nRecentemente, o número de Rgans aumentou drasticamente. Será que isso tem alguma relação?\nAcho melhor vocês irem lá e verem pessoalmente os detalhes...",
+        "es-ES": "[Lehar]\nÚltimamente, la cantidad de Rgan ha aumentado drásticamente. ¿Tendrá algo que ver?\nCreo que será mejor que vayan a verlo en persona..."
+    },
+    "zAYODg": {
+        "en-US": "[Saenggangi]\nAirship If.\nWe will be landing shortly.\nPlease brace yourselves for any possible impact.",
+        "pt-BR": "[Saenggangi]\nAeronave If.\nVamos pousar em breve.\nPreparem-se para qualquer possível impacto.",
+        "es-ES": "[Saenggangi]\nAeronave If.\nEstamos a punto de aterrizar.\nPrepárense por si ocurre algún impacto."
+    },
+    "zQYODg": {
+        "en-US": "[Lehar]\nOh! We've arrived!\nShall we head to the Ice Castle?",
+        "pt-BR": "[Lehar]\nOh! Chegamos!\nEntão, vamos até o Castelo de Gelo?",
+        "es-ES": "[Lehar]\n¡Oh! ¡Ya llegamos!\nEntonces, ¿vamos al castillo de hielo?"
+    },
+    "zgYODg": {
+        "en-US": "[Lehar]\nHellrock's sled is nice, but the airship is even better!\nShall we get off first?\nI'll guide you to the Ice Castle!",
+        "pt-BR": "[Lehar]\nO trenó de Hellok é bom, mas a aeronave é ainda melhor, não acha?\nVamos descer primeiro?\nVou guiá-los até o Castelo de Gelo!",
+        "es-ES": "[Lehar]\nEl trineo de Hellok también está bien, pero la aeronave es aún mejor, ¿no?\n¿Bajamos primero?\n¡Los guiaré hasta el castillo de hielo!"
+    },
+    "zwYODg": {
+        "en-US": "[Saenggangi]\nSaenggangi will wait here.\nThe airship is ready to depart at any time!",
+        "pt-BR": "[Saenggangi]\nSaenggangi vai esperar aqui.\nA aeronave pode partir a qualquer momento!",
+        "es-ES": "[Saenggangi]\nSaenggangi se quedará esperando aquí.\n¡La aeronave puede despegar en cualquier momento!"
+    },
+    "0AYODg": {
+        "en-US": "[Saenggangi]\nAre you taking the airship?",
+        "pt-BR": "[Saenggangi]\nVai pegar a aeronave?",
+        "es-ES": "[Saenggangi]\n¿Vas a subir a la aeronave?"
+    },
+    "0QYODg": {
+        "en-US": "Please.",
+        "pt-BR": "Por favor.",
+        "es-ES": "Por favor."
+    },
+    "0gYODg": {
+        "en-US": "No, I'm not going back.",
+        "pt-BR": "Não, não vou voltar.",
+        "es-ES": "No, no voy a regresar."
+    },
+    "0wYODg": {
+        "en-US": "[Saenggangi]\nIt's cold, so hurry inside.\nWe can depart at any time.",
+        "pt-BR": "[Saenggangi]\nEstá frio, então entre logo.\nPodemos partir a qualquer momento.",
+        "es-ES": "[Saenggangi]\nHace frío, así que entra rápido.\nPodemos partir en cualquier momento."
+    },
+    "1AYODg": {
+        "en-US": "Leizi:Woo~hoo~! This is it! The winter sea!!!",
+        "pt-BR": "Nalandro:Uhu~! É disso que estou falando! Mar de inverno!!!",
+        "es-ES": "Lazy:¡Wooo~! ¡Esto sí! ¡¡¡El mar en invierno!!!"
+    },
+    "1QYODg": {
+        "en-US": "Maram:Wow... I've never seen a place filled with nothing but ice like this..!!",
+        "pt-BR": "Maram:Nossa.. É a primeira vez que vejo um lugar tão cheio de gelo assim..!!",
+        "es-ES": "Maram:Dios mío.. ¡¡Es la primera vez que veo un lugar lleno únicamente de hielo..!!"
+    },
+    "1gYODg": {
+        "en-US": "Miriam:I should've listened more carefully when Leizi told me to buy warm clothes...",
+        "pt-BR": "Miriam:Eu deveria ter prestado mais atenção quando Nalandro disse para comprar roupas...",
+        "es-ES": "Miriam:Debí haber prestado más atención.. cuando Lazy dijo que compráramos ropa..."
+    },
+    "1wYODg": {
+        "en-US": "[Lehar]\nAh, fortunately we landed close to the Ice Castle.\nI usually take this route too.",
+        "pt-BR": "[Lehar]\nAh, ainda bem que pousamos perto do Castelo de Gelo.\nEu costumo passar por este caminho.",
+        "es-ES": "[Lehar]\nAh, por suerte aterrizamos cerca del castillo de hielo.\nNormalmente también paso por este camino."
+    },
+    "2AYODg": {
+        "en-US": "[Lehar]\nPerfect timing. Someone from the Ice Castle came out to meet us!",
+        "pt-BR": "[Lehar]\nOlha só, vieram nos receber do Castelo de Gelo!",
+        "es-ES": "[Lehar]\n¡Justo salieron del castillo de hielo a recibirnos!"
+    },
+    "2QYODg": {
+        "en-US": "[Iwin Soldier]\nWhaaat?\nIt was you, Lehar?\nSomething suspicious came flying in, so I thought it was those varmints.",
+        "pt-BR": "[Soldado Arwin]\nUai...\nEra você, Lehar?\nVi uma coisa suspeita voando e achei que fosse aquela cambada.",
+        "es-ES": "[Soldado de Awin]\n¿Quééé?\n¿Eras Lehar?\nVi que se acercaba algo sospechoso volando y pensé que eran esos desgraciados."
+    },
+    "2gYODg": {
+        "en-US": "[Iwin Soldier]\nAnd who're they?\nFriends of Lehar?\nWho'd you bring along this time, huh?",
+        "pt-BR": "[Soldado Arwin]\nE esse povo aí, quem é?\nSão amigos de Lehar?\nQuem foi que você trouxe, hein?",
+        "es-ES": "[Soldado de Awin]\n¿Y ustedes quiénes son?\n¿Son amigos de Lehar?\n¿A quién trajiste contigo, eh?"
+    },
+    "2wYODg": {
+        "en-US": "[Lehar]\nRight, right. They're all with me!\nLeon approved them too, so let's hurry to the Ice Castle.",
+        "pt-BR": "[Lehar]\nIsso, isso. Todos fazem parte do meu grupo!\nLeon também autorizou a presença deles, então vamos logo para o Castelo de Gelo.",
+        "es-ES": "[Lehar]\nSí, sí. ¡Todos vienen conmigo!\nLeon también les dio permiso, así que vayamos al castillo de hielo."
+    },
+    "3AYODg": {
+        "en-US": "[Lehar]\nLet's get somewhere safe first.\nFollow me!",
+        "pt-BR": "[Lehar]\nPrimeiro, vamos para um lugar seguro.\nSigam-me!",
+        "es-ES": "[Lehar]\nPrimero vayamos a un lugar seguro.\n¡Síganme!"
+    },
+    "3QYODg": {
+        "en-US": "Iwin Soldier",
+        "pt-BR": "Soldado Arwin",
+        "es-ES": "Soldado de Awin"
+    },
+    "3gYODg": {
+        "en-US": "[Iwin Soldier]\nThe road to the Ice Castle is a bit complicated.\nI'll put this marker on you, so just follow it.",
+        "pt-BR": "[Soldado Arwin]\nO caminho até o Castelo de Gelo é meio complicado.\nVou colocar esta marca em vocês, então é só seguir.",
+        "es-ES": "[Soldado de Awin]\nEl camino hasta el castillo de hielo es un poco complicado.\nLes pondré esta marca, así que síganla."
+    },
+    "3wYODg": {
+        "en-US": "[Iwin Soldier]\nDon't worry about things here. You can go on ahead.\nWe'll keep an eye on this airship.",
+        "pt-BR": "[Soldado Arwin]\nPode ir sem se preocupar com este lugar.\nNós vamos proteger esta aeronave.",
+        "es-ES": "[Soldado de Awin]\nNo se preocupen por este lugar, pueden irse tranquilos.\nNosotros vigilaremos esta aeronave."
+    },
+    "4AYODg": {
+        "en-US": "[Iwin Soldier]\nNot a single feather on you, huh?\nPretty cold, isn't it?",
+        "pt-BR": "[Soldado Arwin]\nO que vamos fazer sem nenhuma pena?\nEstá com muito frio, não é?",
+        "es-ES": "[Soldado de Awin]\nQué mal que no tengas ni una sola pluma.\n¿Tienes mucho frío?"
+    },
+    "4QYODg": {
+        "en-US": "[Lehar]\nOnce we cross here, we'll reach the Ice Castle, the village of the guardians.\nLet's head inside.\nJust keep going straight in.",
+        "pt-BR": "[Lehar]\nPassando por aqui, chegamos ao Castelo de Gelo, a aldeia dos guardiões.\nVamos entrar logo.\nÉ só seguir em frente até o interior.",
+        "es-ES": "[Lehar]\nSi cruzamos por aquí, llegaremos al castillo de hielo, la aldea de los guardianes.\nEntremos de una vez.\nSolo tienen que seguir derecho hasta el interior."
+    },
+    "4gYODg": {
+        "en-US": "[Lehar]\nThis way.\nThis is the Ice Castle. It's not as cold inside as you expected, right?",
+        "pt-BR": "[Lehar]\nÉ por aqui.\nEste é o Castelo de Gelo. Por dentro, não é tão frio quanto parece, não é?",
+        "es-ES": "[Lehar]\nEs por aquí.\nEste es el castillo de hielo. Por dentro no hace tanto frío como parece, ¿verdad?"
+    },
+    "4wYODg": {
+        "en-US": "Leon:Lehar. It seems the people who requested permission with the invitation have arrived.",
+        "pt-BR": "Leon:Lehar. Parece que chegaram aqueles que pediram permissão por meio do convite.",
+        "es-ES": "Leon:Lehar. Parece que ya llegaron quienes solicitaron permiso mediante la invitación."
+    },
+    "5AYODg": {
+        "en-US": "[Leon Petit]\nI'm Leon of the Petit family.\nSomehow, I ended up serving as the guardian of the Ice Castle.\nPlease feel free to call me Leon.",
+        "pt-BR": "[Leon Petit]\nSou Leon, da família Petit.\nPor acaso, acabei assumindo o posto de guardião do Castelo de Gelo.\nPode me chamar simplesmente de Leon.",
+        "es-ES": "[Leon Petit]\nSoy Leon, de la familia Petit.\nPor algunas circunstancias, terminé ocupando el puesto de guardián del castillo de hielo.\nPueden llamarme simplemente Leon."
+    },
+    "5QYODg": {
+        "en-US": "[Aurelie Petit]\nYou can just call me Aurelie.\nYou're still a young adventurer with your whole future ahead of you.\nIt's truly been a long time since I've seen an adventurer.",
+        "pt-BR": "[Aurelie Petit]\nPode me chamar de Aurelie.\nVocê ainda é um aventureiro cheio de vigor.\nFaz muito tempo mesmo que não vejo um aventureiro.",
+        "es-ES": "[Aurelie Petit]\nPuedes llamarme Aurelie.\nAún eres un aventurero joven y lleno de energía.\nHa pasado muchísimo tiempo desde la última vez que vi a un aventurero."
+    },
+    "5gYODg": {
+        "en-US": "[Leon Petit]\nLehar's letter said this was related to the recent disturbances in Issgard.\nCould you tell us exactly what happened?",
+        "pt-BR": "[Leon Petit]\nNa carta de Lehar, dizia que isso estava relacionado às recentes anomalias em Isgard.\nPoderia nos contar os detalhes?",
+        "es-ES": "[Leon Petit]\nEn la carta de Lehar decía que esto estaba relacionado con los recientes sucesos extraños de Isgard.\n¿Podrían contarnos exactamente qué ocurrió?"
+    },
+    "5wYODg": {
+        "en-US": "Tell them about Illusion and Bagot.",
+        "pt-BR": "Conta sobre a Illusion e Bagot.",
+        "es-ES": "Cuenta lo sucedido acerca de Illusion y Bagot."
+    },
+    "6AYODg": {
+        "en-US": "[Aurelie Petit]\nThey took a fragment of Ymir's Heart?\nThen those suspicious signs we've been seeing for some time...",
+        "pt-BR": "[Aurelie Petit]\nEles levaram um fragmento do Coração de Ymir?\nEntão aqueles sinais suspeitos que começaram a aparecer há algum tempo...",
+        "es-ES": "[Aurelie Petit]\n¿Dices que se llevaron un fragmento del Corazón de Ymir?\nEntonces esas señales sospechosas que empezaron a aparecer hace algún tiempo ..."
+    },
+    "6QYODg": {
+        "en-US": "[Leon Petit]\nIt seems certain that part of the barrier has been breached.\nI wonder how much greater the changes have become while we were asleep...",
+        "pt-BR": "[Leon Petit]\nParece certo que parte da barreira foi rompida.\nQuanta coisa ainda maior terá mudado enquanto estávamos adormecidos...",
+        "es-ES": "[Leon Petit]\nParece claro que una parte de la barrera fue vulnerada.\nMe pregunto cuántos cambios aún mayores ocurrieron mientras dormíamos ..."
+    },
+    "6gYODg": {
+        "en-US": "[Aurelie Petit]\nThen there's a good chance those people called Illusion have joined forces with the Rgan.\nWe'll need to keep a closer watch on that area.",
+        "pt-BR": "[Aurelie Petit]\nEntão é muito provável que aqueles chamados Illusion tenham se aliado aos Rgan.\nPrecisamos reforçar ainda mais a vigilância daquele lado.",
+        "es-ES": "[Aurelie Petit]\nEntonces es muy probable que esos sujetos llamados Illusion hayan conspirado con Rgan.\nTendremos que reforzar aún más la vigilancia de esa zona."
+    },
+    "6wYODg": {
+        "en-US": "[Leon Petit]\nFor now, I suppose we should be thankful that the Rgan themselves still can't leave the barrier.",
+        "pt-BR": "[Leon Petit]\nTalvez devamos considerar uma sorte o fato de que, até agora, os próprios Rgan ainda não conseguem sair da barreira.",
+        "es-ES": "[Leon Petit]\nPor ahora, al menos deberíamos considerarnos afortunados de que Rgan aún no pueda salir de la barrera."
+    },
+    "7AYODg": {
+        "en-US": "[Aurelie Petit]\nBut I think it's only a matter of time.\nWe need to prepare countermeasures as well.\nEspecially if we're going to maintain the barrier.",
+        "pt-BR": "[Aurelie Petit]\nMas acho que é só questão de tempo.\nNós também precisamos de medidas de prevenção.\nAté para manter a barreira.",
+        "es-ES": "[Aurelie Petit]\nPero creo que solo es cuestión de tiempo.\nNosotros también necesitamos una medida preventiva.\nTambién para poder mantener la barrera."
+    },
+    "7QYODg": {
+        "en-US": "[Vellgunde]\nI was wondering what all this commotion was about. Well, look who it is.\nLehar, did you go into town?",
+        "pt-BR": "[Vellgunde]\nEu estava me perguntando por que estava tão barulhento, e veja só quem está aqui.\nLehar, você foi até a cidade?",
+        "es-ES": "[Vellgunde]\nMe preguntaba a qué venía tanto alboroto, y mira quién está aquí.\nLehar, ¿fuiste al pueblo?"
+    },
+    "7gYODg": {
+        "en-US": "Leizi: Who's this now?",
+        "pt-BR": "Nalandro: Quem é agora?",
+        "es-ES": "Lazy: ¿Y ahora quién es?"
+    },
+    "7wYODg": {
+        "en-US": "Lehar: Auntie...",
+        "pt-BR": "Lehar: Tia mais nova...",
+        "es-ES": "Lehar: Tía menor..."
+    },
+    "8AYODg": {
+        "en-US": "[Voglinde]\nRight. Did your errand go well?\nThere are quite a few unfamiliar youngsters here.\nLeon, Aurelie, has everyone introduced themselves?",
+        "pt-BR": "[Voglinde]\nCerto. E sua tarefa, correu tudo bem?\nVieram muitos jovens que eu nunca tinha visto.\nLeon, Aurelie, todos já se apresentaram?",
+        "es-ES": "[Voglinde]\nYa veo. ¿Terminaste bien el encargo?\nHan llegado muchos jóvenes que no había visto antes.\nLeon, Aurelie, ¿ya se presentaron todos?"
+    },
+    "8QYODg": {
+        "en-US": "[Leon Petit]\nAh, was I being rude?\nI was so focused on asking what I wanted to know that I failed to consider the others.\nIt's been a long time since I've had to deal with this many people...",
+        "pt-BR": "[Leon Petit]\nAh, fui indelicado?\nFiquei tão ocupado perguntando o que queria saber que acabei não pensando nos demais.\nFaz muito tempo que não recebo tanta gente assim...",
+        "es-ES": "[Leon Petit]\nAh, ¿he sido descortés?\nEstaba tan ocupado preguntando primero lo que quería saber que no pensé en los demás.\nHace mucho que no trato con tanta gente..."
+    },
+    "8gYODg": {
+        "en-US": "[Aurelie Petit]\nSame here. My apologies.\nIt's a serious issue for us as well.",
+        "pt-BR": "[Aurelie Petit]\nO mesmo vale para mim. Desculpe.\nÉ que isso também é um problema sério por aqui.",
+        "es-ES": "[Aurelie Petit]\nLo mismo digo. Lamento haber sido descortés.\nEs que para nosotros también es un problema grave."
+    },
+    "8wYODg": {
+        "en-US": "[Leizi]\nOh, that's understandable.\nAs for the details you want, my companions and I can tell you more later.\nMy apologies for the late introduction. I'm Leizi of Schwarzwald.",
+        "pt-BR": "[Nalandro]\nAh, isso pode acontecer.\nE, depois, eu e meu grupo contamos com mais detalhes tudo o que quiserem saber.\nPerdoem a demora em me apresentar. Sou Nalandro, de Schwarzwald.",
+        "es-ES": "[Lazy]\nAy, no se preocupe, puede pasar.\nY sobre los detalles que quieren saber, mis compañeros y yo se los contaremos con más calma después.\nDisculpen la demora en presentarme. Soy Lazy, de Schwarzwald."
+    },
+    "9AYODg": {
+        "en-US": "[Miriam]\nThank you for your hospitality.\nI'm Miriam of Arunafeltz.",
+        "pt-BR": "[Miriam]\nAgradeço pela recepção.\nSou Miriam, de Arunafeltz.",
+        "es-ES": "[Miriam]\nGracias por recibirnos.\nSoy Miriam, de Arunafeltz."
+    },
+    "9QYODg": {
+        "en-US": "[Maram]\nLikewise, I'm Maram of Arunafeltz.\nIt seems we'll be relying on you from time to time. I look forward to working with you.",
+        "pt-BR": "[Maram]\nDa mesma forma, sou Maram, de Arunafeltz.\nParece que vamos depender bastante da ajuda de vocês daqui para frente. Conto com vocês.",
+        "es-ES": "[Maram]\nYo también soy Maram, de Arunafeltz.\nParece que recurriremos a ustedes con frecuencia de ahora en adelante. Espero que podamos llevarnos bien."
+    },
+    "9gYODg": {
+        "en-US": "[Voglinde]\nSchwarzwald, and now Arunafeltz too....\nThis doesn't sound like a short story.",
+        "pt-BR": "[Voglinde]\nPrimeiro Schwarzwald, agora até Arunafeltz....\nParece que essa história não vai ser curta.",
+        "es-ES": "[Voglinde]\nPrimero Schwarzwald y ahora hasta Arunafeltz....\nParece que no será una historia corta."
+    },
+    "9wYODg": {
+        "en-US": "[Voglinde]\nYou newcomers know how to fight, don't you?\nThis place is harsh, so it'll be a problem if you're weak.",
+        "pt-BR": "[Voglinde]\nVocês, jovens recém-chegados, sabem lutar?\nEsta região é tão inóspita que vai ser difícil se forem fracos, viu?",
+        "es-ES": "[Voglinde]\nUstedes, los recién llegados, ¿saben pelear un poco?\nEsta región es tan inhóspita que sería un problema si fueran débiles, ¿saben?"
+    },
+    "+AYODg": {
+        "en-US": "[Leizi]\nOh, we're sturdy youngsters~\nHaha, you're looking quite spry yourself, ma'am!",
+        "pt-BR": "[Nalandro]\nAh, somos jovens bem resistentes~\nHaha, a senhora também está cheia de energia!",
+        "es-ES": "[Lazy]\nAy, son jóvenes fuertes~\n¡Ja, ja! ¡Usted también se conserva muy bien, señora!"
+    },
+    "+QYODg": {
+        "en-US": "[Voglinde]\nOh my, listen to this youngster.\nJust call me Auntie. I'm Lehar's aunt.",
+        "pt-BR": "[Voglinde]\nOra, ora, veja só como esse jovem fala.\nPode me chamar de tia à vontade. Sou tia de Lehar.",
+        "es-ES": "[Voglinde]\nAy, ay, mira cómo habla este jovencito.\nLlámame tía con confianza. Soy la tía de Lehar."
+    },
+    "+gYODg": {
+        "en-US": "[Voglinde]\nMy, you're all so young, I wonder if you even eat properly.\nAnyway, Lehar, did you finish all my errands?",
+        "pt-BR": "[Voglinde]\nAi, esses jovens... nem sei se estão se alimentando direito.\nMas enfim, Lehar, você terminou tudo o que pedi?",
+        "es-ES": "[Voglinde]\nAy, no sé si estos jovencitos siquiera comen como es debido.\nPor cierto, Lehar, ¿terminaste todos mis encargos?"
+    },
+    "+wYODg": {
+        "en-US": "[Lehar]\nUh, yes. I took care of everything you asked me to do. Should I tell you about it separately later?",
+        "pt-BR": "[Lehar]\nAh, sim, sim. Fiz tudo o que a senhora pediu, tia. Quer que eu conte os detalhes depois?",
+        "es-ES": "[Lehar]\nAh, sí, sí. Ya terminé todo lo que me pidió, tía. ¿Se lo cuento en privado después?"
+    },
+    "/AYODg": {
+        "en-US": "[Voglinde]\nYes. Let's talk again later.\nFor now, we should take care of our guests first.\nI wonder if you've all eaten properly.",
+        "pt-BR": "[Voglinde]\nCerto. Vamos conversar de novo mais tarde.\nPrimeiro, precisamos cuidar dos nossos jovens convidados.\nNem sei se vocês comeram direito antes de vir.",
+        "es-ES": "[Voglinde]\nBien. Hablemos de nuevo más tarde.\nPrimero habrá que atender a estos jovencitos.\nNo sé si habrán comido bien antes de venir."
+    },
+    "/QYODg": {
+        "en-US": "[Voglinde]\nAh, right.\nI'm Voglinde of the Gaebolg family.\nI hunt Rgan here.\nI'm glad you all look capable.",
+        "pt-BR": "[Voglinde]\nAh, isso mesmo.\nSou Voglinde, da família Gaebolg.\nFico aqui caçando Rgan.\nAinda bem que todos vocês parecem bem capazes.",
+        "es-ES": "[Voglinde]\nAh, cierto.\nSoy Voglinde, de la familia Geoborg.\nMe dedico a cazar Rgan por aquí.\nMe alegra ver que todos parecen jóvenes capaces."
+    },
+    "/gYODg": {
+        "en-US": "[Vellgunde]\nOh, there she goes again, fussing over the youngsters.\nI'm Vellgunde, also of the Gaebolg family.\nI conduct various kinds of research here.",
+        "pt-BR": "[Vellgunde]\nAh, minha irmã começa de novo só porque apareceram alguns jovens.\nEu também sou da família Gaebolg, Vellgunde.\nFaço diversos tipos de pesquisa por aqui.",
+        "es-ES": "[Vellgunde]\nAy, esta hermana mía vuelve a emocionarse solo porque hay jovencitos por aquí.\nYo también soy de la familia Geoborg. Me llamo Vellgunde.\nInvestigo varias cosas en este lugar."
+    },
+    "/wYODg": {
+        "en-US": "[Vellgunde]\nI mainly research Jormungand and the rituals and magic of the Rgans.\nI'm hoping to find even the slightest clue about the Curse.\nThanks to that, I've come to understand the structure of Rgan magic somewhat.",
+        "pt-BR": "[Vellgunde]\nEstudo principalmente Jormungand, além dos feitiços e do poder mágico dos Rgans.\nQuero encontrar ao menos uma pista sobre a Maldição.\nGraças a isso, já entendo um pouco da estrutura mágica dos Rgans.",
+        "es-ES": "[Vellgunde]\nPrincipalmente investigo cosas como la hechicería y el poder mágico de Jormungand y de los Rgan.\nQuiero encontrar aunque sea una pista sobre la Maldición.\nGracias a eso, ya he llegado a comprender un poco la estructura mágica de los Rgan."
+    },
+    "AAcODg": {
+        "en-US": "[Aurelie Petit]\nWith so many people around, it's a little overwhelming.\nYou said your name was Leizi, right?\nCould you tell us what you know about Illusion?",
+        "pt-BR": "[Aurelie Petit]\nComo posso dizer... Com tanta gente, está difícil me concentrar.\nVocê aí, era Nalandro, não era?\nPode me passar informações sobre a Illusion?",
+        "es-ES": "[Aurelie Petit]\nHay tanta gente que cuesta concentrarse.\nTú eras Lazy, ¿verdad?\n¿Podrías darnos información sobre Illusion?"
+    },
+    "AQcODg": {
+        "en-US": "[Leizi]\nOf course. I brought a thick stack of documents just in case.\nJust call me whenever you need me.",
+        "pt-BR": "[Nalandro]\nClaro. Por precaução, trouxe uma pilha grossa de documentos.\nÉ só me chamar quando quiser.",
+        "es-ES": "[Lazy]\nClaro. Por si acaso, traje un buen montón de documentos.\nSolo llámenme cuando quieran."
+    },
+    "AgcODg": {
+        "en-US": "[Vellgunde]\nHmm. Then I'll head back to my post.\nAs I mentioned earlier, I conduct research here.",
+        "pt-BR": "[Vellgunde]\nHmm. Então vou voltar ao meu lugar.\nComo eu disse antes, faço pesquisas aqui.",
+        "es-ES": "[Vellgunde]\nHmm. Entonces volveré a mi lugar.\nComo dije antes, estoy investigando aquí."
+    },
+    "AwcODg": {
+        "en-US": "[Vellgunde]\nI use part of the Iwin barracks as a laboratory.\nIf you want to talk more, come find me.",
+        "pt-BR": "[Vellgunde]\nUso uma parte do alojamento dos Arwins como laboratório.\nSe quiser conversar mais, venha me procurar.",
+        "es-ES": "[Vellgunde]\nUso una parte del cuartel de los Awin como laboratorio.\nSi quieren seguir hablando, vengan a verme."
+    },
+    "BAcODg": {
+        "en-US": "[Voglinde]\nYou youngsters should come have something to eat once you're done talking.",
+        "pt-BR": "[Voglinde]\nE vocês, jovens, quando terminarem de conversar, venham comer alguma coisa.",
+        "es-ES": "[Voglinde]\nUstedes también, jovencitos, cuando terminen de hablar, vengan a comer algo."
+    },
+    "BQcODg": {
+        "en-US": "Lehar: Leon is waiting for you.",
+        "pt-BR": "Lehar: Leon está esperando.",
+        "es-ES": "Lehar: Leon los está esperando."
+    },
+    "BgcODg": {
+        "en-US": "[Lehar]\nI still have a few things to take care of.\nCould you go see my aunt first?\nI'll talk with the Iwins for a bit and follow you shortly.",
+        "pt-BR": "[Lehar]\nAinda tenho algumas coisas para organizar.\nPoderiam ir primeiro até minha tia?\nVou conversar um pouco com os Arwins e logo alcanço vocês.",
+        "es-ES": "[Lehar]\nTodavía me quedan algunas cosas por organizar.\n¿Podrían ir primero con mi tía?\nHablaré un poco con los Awin y los alcanzaré enseguida."
+    },
+    "BwcODg": {
+        "en-US": "[Lehar]\nThe Iwin scouts should be outside.\nThey're always patrolling the area and keeping watch on the Rgans.\nIf you want to learn the surrounding terrain, traveling with the Iwin scouts will be a big help.",
+        "pt-BR": "[Lehar]\nA patrulha Arwin deve estar lá fora.\nEles ficam circulando por esta região e vigiando os Rgans.\nSe quiser conhecer melhor os arredores, acompanhar a patrulha Arwin vai ajudar bastante.",
+        "es-ES": "[Lehar]\nEl grupo de exploración de Awin debe estar afuera.\nSiempre recorren los alrededores vigilando a los Rgan.\nSi quieren conocer la geografía de la zona, acompañar al grupo de exploración de Awin les será de gran ayuda."
+    },
+    "CAcODg": {
+        "en-US": "[Lehar]\nPerfect timing.\nLeon said he needed some people, and here you two are.",
+        "pt-BR": "[Lehar]\nChegaram em boa hora.\nLeon disse que precisava de algumas pessoas, e justo agora temos vocês dois aqui.",
+        "es-ES": "[Lehar]\nLlegaron justo a tiempo.\nLeon dijo que necesitaba a algunas personas, y justo están ustedes dos."
+    },
+    "CQcODg": {
+        "en-US": "[Lehar]\nWhere is Maram?\nIs he busy?",
+        "pt-BR": "[Lehar]\nOnde está Maram?\nSerá que está ocupado?",
+        "es-ES": "[Lehar]\n¿Dónde está Maram?\n¿Está ocupado?"
+    },
+    "CgcODg": {
+        "en-US": "[Miriam]\nIt seems Maram will be handling supply procurement and transportation.\nHe's either busy hauling things around by airship or helping Vellgunde.",
+        "pt-BR": "[Miriam]\nParece que Maram vai ficar responsável pelo abastecimento e pelo transporte.\nEstá levando coisas sem parar de aeronave ou ajudando Vellgunde de perto.",
+        "es-ES": "[Miriam]\nParece que Maram se encargará exclusivamente del abastecimiento y el transporte.\nEstá transportando cosas en la aeronave o ayudando junto a Vellgunde."
+    },
+    "CwcODg": {
+        "en-US": "[Lehar]\nIs that so?\nI suppose two people should be enough for now.\nCould you two go see Leon?\nIt sounds like he needs some extra hands.\nI have something else to take care of...",
+        "pt-BR": "[Lehar]\nÉ mesmo?\nPor enquanto, talvez duas pessoas sejam suficientes.\nVocês dois poderiam ir até Leon?\nParece que ele precisa de ajuda com alguma coisa.\nEu tenho outro assunto para resolver...",
+        "es-ES": "[Lehar]\n¿Ah, sí?\nPor ahora, supongo que dos personas bastarán.\n¿Podrían ir con Leon?\nParece que necesita ayuda con algo.\nYo tengo otro asunto que atender..."
+    },
+    "DAcODg": {
+        "en-US": "[Miriam]\nIf Leon called for us, we should go.\nShall we go together?",
+        "pt-BR": "[Miriam]\nSe Leon chamou, temos que ir.\nVamos juntos?",
+        "es-ES": "[Miriam]\nSi Leon nos llamó, debemos ir.\n¿Vamos juntos?"
+    },
+    "DQcODg": {
+        "en-US": "[Lehar]\nLeon should be in his room.\nGo up the stairs and it's the room on the left.\nMiriam has already gone ahead.",
+        "pt-BR": "[Lehar]\nLeon deve estar no quarto.\nSuba as escadas e entre no quarto à esquerda.\nMiriam já foi na frente.",
+        "es-ES": "[Lehar]\nLeon debe estar en su habitación.\nSuban por las escaleras; es la habitación de la izquierda.\nMiriam ya se fue."
+    },
+    "DgcODg": {
+        "en-US": "[Lehar]\nI stay here and help my aunts with various errands whenever they call for me.\nMy mother actually wanted to join us too, but she was in poor health...",
+        "pt-BR": "[Lehar]\nEu fico por aqui e, quando minhas tias me chamam, vou ajudá-las com várias tarefas.\nNa verdade, minha mãe também queria participar, mas a saúde dela era frágil...",
+        "es-ES": "[Lehar]\nMe quedo aquí y, cuando mis tías me llaman, voy a ayudarlas con distintas tareas.\nEn realidad, mi madre también quería colaborar, pero como siempre ha sido delicada de salud..."
+    },
+    "DwcODg": {
+        "en-US": "[Lehar]\nNow that you're helping out too, it's nice to finally have a little breathing room!",
+        "pt-BR": "[Lehar]\nAgora que você está ajudando com o trabalho, fiquei com um pouco mais de folga. Que bom!",
+        "es-ES": "[Lehar]\n¡Ahora que usted nos ayuda con el trabajo, por fin tengo un poco más de tiempo libre!"
+    },
+    "EAcODg": {
+        "en-US": "Guardian Leon",
+        "pt-BR": "Guardião Leon",
+        "es-ES": "Guardián Leon"
+    },
+    "EQcODg": {
+        "en-US": "[Leon Petit]\nHaha... Have things settled down a bit?\nThen let me tell you about Issgard.",
+        "pt-BR": "[Leon Petit]\nHaha.. Conseguiram se organizar um pouco?\nEntão agora vou contar um pouco sobre Isgard.",
+        "es-ES": "[Leon Petit]\nJa, ja.. ¿Ya quedó todo un poco más claro?\nEntonces ahora les contaré un poco sobre Isgard."
+    },
+    "EgcODg": {
+        "en-US": "[Leon Petit]\nIssgard is literally a land of ice, but it isn't actually land as you know it.\nGeologically speaking, that is.",
+        "pt-BR": "[Leon Petit]\nIsgard é literalmente uma terra de gelo, mas não é uma terra como vocês conhecem.\nQuero dizer, geologicamente falando.",
+        "es-ES": "[Leon Petit]\nIsgard es, literalmente, una tierra de hielo, pero en realidad no es una tierra como la que ustedes conocen.\nMe refiero, geológicamente hablando."
+    },
+    "EwcODg": {
+        "en-US": "[Aurelie Petit]\nIssgard is a land formed from the frozen body of Jormungand.\nAnd the Rgan, who formed the core of the Jormungand cult, became trapped here.",
+        "pt-BR": "[Aurelie Petit]\nIsgard é uma terra formada pelo corpo congelado de Jormungand.\nE os Rgan, que eram o núcleo do culto de Jormungand, ficaram presos aqui.",
+        "es-ES": "[Aurelie Petit]\nIsgard es una tierra formada cuando el cuerpo de Jormungand se congeló.\nY Rgan, que era el núcleo de la orden de Jormungand, quedó atrapado aquí."
+    },
+    "FAcODg": {
+        "en-US": "Then what is the barrier for?",
+        "pt-BR": "Então qual é a função da barreira?",
+        "es-ES": "¿Entonces cuál es la función de la barrera?"
+    },
+    "FQcODg": {
+        "en-US": "[Leon Petit]\nIt isn't a barrier that seals Jormungand, but rather a massive prison that keeps the Rgans bound to this land from escaping.",
+        "pt-BR": "[Leon Petit]\nNão é uma barreira para selar Jormungand, mas uma enorme prisão que impede os Rgans presos nesta terra de sair.",
+        "es-ES": "[Leon Petit]\nNo es una barrera para sellar a Jormungand, sino una enorme prisión que impide que los Rgan atrapados en esta tierra puedan salir."
+    },
+    "FgcODg": {
+        "en-US": "[Maram]\nThen what role do the two of you have?\nAnd this Ice Castle is...?",
+        "pt-BR": "[Maram]\nEntão qual é o papel de vocês dois?\nE este Castelo de Gelo...?",
+        "es-ES": "[Maram]\nEntonces, ¿qué función cumplen ustedes dos?\n¿Y este castillo de hielo...?"
+    },
+    "FwcODg": {
+        "en-US": "[Leizi]\nIf this place is a giant prison, then are these two the wardens?",
+        "pt-BR": "[Nalandro]\nSe este lugar é uma enorme prisão, então vocês são os carcereiros?",
+        "es-ES": "[Lazy]\nSi este lugar es una enorme prisión, ¿ustedes serían los carceleros?"
+    },
+    "GAcODg": {
+        "en-US": "[Leon Petit]\nThat's not entirely wrong.\nBut if possible, please call us guardians.\nThe Iwins take great pride in being called guardians.",
+        "pt-BR": "[Leon Petit]\nNão está errado.\nMas, se possível, chamem-nos de guardiões.\nOs Arwins sentem muito orgulho de serem chamados de guardiões.",
+        "es-ES": "[Leon Petit]\nNo es del todo incorrecto.\nPero, si es posible, llámenos guardianes.\nLos Awin se sienten muy orgullosos de que los llamen guardianes."
+    },
+    "GQcODg": {
+        "en-US": "[Miriam]\nBy Iwin, you mean those people who look like giant birds... right?\nI've never seen anything like them before... I'm sorry. It seems I still have much to learn.",
+        "pt-BR": "[Miriam]\nQuando diz Arwin, está falando daqueles que parecem pássaros gigantes.. certo?\nNunca vi algo assim.. Desculpe. Acho que ainda tenho muito a aprender.",
+        "es-ES": "[Miriam]\nCuando dice Awin, se refiere a esas personas que parecen.. aves gigantes, ¿verdad?\nEs la primera vez que veo algo así.. Lo siento. Parece que aún me falta mucho por aprender."
+    },
+    "GgcODg": {
+        "en-US": "[Aurelie Petit]\nHahahahaha. The Iwin really are birds originally.\nIn fact, they were a flock of migratory birds that traveled through the Orum Mountains, but...",
+        "pt-BR": "[Aurelie Petit]\nHahahahaha. Arwin eram pássaros mesmo originalmente.\nNa verdade, eram um grupo de aves migratórias que atravessava a Cordilheira de Orm,",
+        "es-ES": "[Aurelie Petit]\nJajajajaja. Awin originalmente sí eran aves.\nEn realidad, eran un grupo de aves migratorias que recorría la cordillera de Orm,"
+    },
+    "GwcODg": {
+        "en-US": "[Aurelie Petit]\nThey stopped in Issgard for a short rest and ended up getting caught in the sealing.\nEver since then, they've guarded this place alongside us while keeping watch over the barrier.",
+        "pt-BR": "[Aurelie Petit]\nmas acabaram envolvidos no selamento enquanto descansavam por algum tempo em Isgard.\nDesde então, vigiam a barreira conosco e protegem este lugar.",
+        "es-ES": "[Aurelie Petit]\npero se quedaron un tiempo en Isgard para descansar y terminaron atrapados en el sellado.\nDesde entonces, vigilan la barrera junto con nosotros y protegen este lugar."
+    },
+    "HAcODg": {
+        "en-US": "[Leon Petit]\nSince we're on the subject, would you like to meet the Iwins?\nThey're always patrolling Issgard, so hearing what they have to say should be helpful.",
+        "pt-BR": "[Leon Petit]\nJá que estamos falando deles, que tal conhecer os Arwins?\nComo patrulham Isgard o tempo todo, ouvir o que eles têm a dizer também será útil.",
+        "es-ES": "[Leon Petit]\nYa que hablamos de ellos, ¿qué tal si conocen a los Awin?\nPatrullan constantemente Isgard, así que escuchar lo que tienen que decir también les será de ayuda."
+    },
+    "HQcODg": {
+        "en-US": "[Leon Petit]\nThe rest of you, please make yourselves comfortable.\nFortunately, the places Varmundt built while traveling back and forth are still here...",
+        "pt-BR": "[Leon Petit]\nOs demais também podem ficar à vontade.\nFelizmente, os locais que o mestre Varmundt construiu quando vinha e ia ainda permanecem aqui...",
+        "es-ES": "[Leon Petit]\nLos demás también pueden ponerse cómodos.\nPor suerte, los lugares que el señor Varmundt preparó cuando venía y se iba todavía siguen aquí..."
+    },
+    "HgcODg": {
+        "en-US": "Varmundt?",
+        "pt-BR": "Varmundt?",
+        "es-ES": "¿Varmundt?"
+    },
+    "HwcODg": {
+        "en-US": "[Aurelie Petit]\nIt's been quite a while since he last came here.\nI'm sure he's doing well somewhere, don't you think?\nAnyway, now that you've come all this way, I hope you find what you're looking for.",
+        "pt-BR": "[Aurelie Petit]\nJá faz bastante tempo que ele não aparece por aqui.\nDeve estar bem em algum lugar, não acha?\nDe qualquer forma, já que vieram até aqui, espero que encontrem o que estão procurando.",
+        "es-ES": "[Aurelie Petit]\nHace bastante que no viene.\nSupongo que estará bien en algún lugar, ¿no crees?\nEn fin, ya que llegaron hasta aquí, espero que puedan encontrar lo que buscan."
+    },
+    "IAcODg": {
+        "en-US": "[Leizi]\nThen, {0}, you go meet the Iwins.\nMaram, Miriam, and I will stay here and discuss what we should do next.",
+        "pt-BR": "[Nalandro]\nEntão, {0}, vá conhecer os Arwins.\nEu, Maram e Miriam vamos conversar aqui sobre o que fazer a seguir.",
+        "es-ES": "[Lazy]\nEntonces, {0}, ve a conocer a los Awin.\nMaram, Miriam y yo hablaremos aquí sobre qué haremos a partir de ahora."
+    },
+    "IQcODg": {
+        "en-US": "[Miriam]\nThat would be best.\nWe'll explore this place as well and look for a way to deal with the situation.",
+        "pt-BR": "[Miriam]\nAcho que é melhor assim.\nNós também vamos explorar este lugar e procurar uma forma de lidar com a situação.",
+        "es-ES": "[Miriam]\nMe parece lo mejor.\nNosotros también exploraremos este lugar y buscaremos alguna forma de responder a la situación."
+    },
+    "IgcODg": {
+        "en-US": "[Maram]\nThen I'll look into the supply situation around here.\nIf there's anything we need, we'll have to establish a supply route so we can procure it without trouble.",
+        "pt-BR": "[Maram]\nEntão, vou verificar a situação dos suprimentos por aqui.\nSe precisarmos de alguma coisa, teremos que criar uma rota de abastecimento para não passarmos por dificuldades.",
+        "es-ES": "[Maram]\nEntonces investigaré un poco la situación de los suministros de este lugar.\nSi hace falta algo, habrá que establecer una ruta para poder abastecerlo sin inconvenientes."
+    },
+    "IwcODg": {
+        "en-US": "[Maram]\nI'll also need to discuss it with Lord Saenggang.\nDon't worry about us. Please take care of what you need to do first.",
+        "pt-BR": "[Maram]\nTambém preciso conversar um pouco com o Sr. Saenggang.\nNão se preocupe conosco e cuide primeiro do que precisa fazer.",
+        "es-ES": "[Maram]\nTambién tendré que hablarlo con Saenggangi.\nNo se preocupe por nosotros y ocúpese primero de lo que tenga que hacer."
+    },
+    "JAcODg": {
+        "en-US": "[Aurelie Petit]\nLehar, give that to them.\nShall I show the others around inside?",
+        "pt-BR": "[Aurelie Petit]\nLehar, entregue aquilo, por favor.\nEntão, que tal eu mostrar o interior aos outros?",
+        "es-ES": "[Aurelie Petit]\nLehar, entrégaselo.\nEntonces, ¿les doy a los demás un recorrido por el interior?"
+    },
+    "JQcODg": {
+        "en-US": "What do you mean by \"that\"?",
+        "pt-BR": "Aquilo?",
+        "es-ES": "¿A qué se refiere con eso?"
+    },
+    "JgcODg": {
+        "en-US": "[Lehar]\nI'm talking about Snow Flower Petal.\nYou'll need this if you're going to stay here.\nIt's crystallized magic in the shape of a flower, and it's used for almost everything around here.",
+        "pt-BR": "[Lehar]\nEstou falando da Pétala de Flor de Neve.\nVocê vai precisar disso para viver por aqui.\nÉ magia cristalizada em forma de flor, e aqui ela serve para praticamente tudo.",
+        "es-ES": "[Lehar]\nMe refiero a Pétalo de Copo de Nieve.\nSi van a vivir aquí, seguramente lo necesitarán.\nEs poder mágico cristalizado con forma de flor, y aquí se usa prácticamente para todo."
+    },
+    "JwcODg": {
+        "en-US": "[Lehar]\nI'll give you some, so use it wherever you find it useful.\nYou may also receive some as a reward if you help the Iwins with their work.",
+        "pt-BR": "[Lehar]\nVou lhe dar algumas, então use-as se encontrar algo útil para fazer com elas.\nSe ajudar os Arwins, talvez também possa recebê-las como recompensa.",
+        "es-ES": "[Lehar]\nLes daré un poco, así que úsenlo si encuentran dónde les pueda servir.\nSi ayudan a los Awin con su trabajo, también podrían recibirlo como recompensa."
+    },
+    "KAcODg": {
+        "en-US": "[Lehar]\nThen I'll go take care of a few things for a while.",
+        "pt-BR": "[Lehar]\nEntão, vou sair por um momento para cuidar de algumas coisas.",
+        "es-ES": "[Lehar]\nEntonces yo también iré un momento a ocuparme de varias cosas."
+    },
+    "KQcODg": {
+        "en-US": "Guardian Aurelie",
+        "pt-BR": "Guardião Aurelie",
+        "es-ES": "Guardiana Aurelie"
+    },
+    "KgcODg": {
+        "en-US": "Vellgunde",
+        "pt-BR": "Vellgunde",
+        "es-ES": "Vellgunde"
+    },
+    "KwcODg": {
+        "en-US": "Voglinde",
+        "pt-BR": "Voglinde",
+        "es-ES": "Voglinde"
+    },
+    "LAcODg": {
+        "en-US": "[Crux]\nAdventurer, this way.\nI'll show you there right away.\nPlease go to the ^4D4DFFoffice^000000.",
+        "pt-BR": "[Crux]\nAventureiro, é por aqui.\nVou guiá-lo agora mesmo.\nBasta ir até o ^4D4DFFescritório^000000.",
+        "es-ES": "[Crux]\nAventurero, por aquí.\nLo guiaré de inmediato.\nDebe dirigirse a la ^4D4DFFoficina^000000."
+    },
+    "LQcODg": {
+        "en-US": "[Crux]\nAdventurer, this way.\nI'll show you there right away.\nPlease go straight into the ^4D4DFFprivate room^000000.",
+        "pt-BR": "[Crux]\nAventureiro, é por aqui.\nVou guiá-lo agora mesmo.\nBasta entrar direto no ^4D4DFFquarto particular^000000.",
+        "es-ES": "[Crux]\nAventurero, por aquí.\nLo guiaré de inmediato.\nDebe entrar directamente a la ^4D4DFFhabitación privada^000000."
+    }
+}

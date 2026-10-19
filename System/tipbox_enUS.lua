@@ -702,7 +702,7 @@ tbl_string = {
 				[1] = "You can enable the map name to be displayed on the screen when moving between major maps.",
 				[2] = "(^ff0000[ ! ]Even if the map name display is enabled, it may not appear depending on the map's concept.^000000)",
 				[3] = "",
-				[4] = "The map name display can be toggled ^ff0000in the Game Options (ESC) → Game Settings → Effect Settings^000000.",
+				[4] = "The map name display can be toggled ^ff0000in the Game Options (ESC) > Game Settings > Effect Settings^000000.",
 				[5] = "",
 				[6] = "<TIPBOX>>Effect Settings<INFO>143</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>",
@@ -741,7 +741,7 @@ tbl_string = {
 			[1] = {
 				[1] = "You can expand your field of view.",
 				[2] = ">Open Game Settings by pressing ESC or the option button.",
-				[3] = "→Check Zoom Out in the Control Settings tab to increase the maximum view.",
+				[3] = ">Check Zoom Out in the Control Settings tab to increase the maximum view.",
 				[4] = ">You can also use the /zoom command.",
 				[5] = "",
 				[6] = "<TIPBOX>>Control Settings<INFO>152</INFO></TIPBOX>",
@@ -768,7 +768,7 @@ tbl_string = {
 				[1] = "You can enable the emblem border display during WoE.",
 				[2] = "",
 				[3] = ">Open Game Settings with ESC or the option button.",
-				[4] = "→Check \"Show Emblem Frame\" in the Basic Settings tab.",
+				[4] = ">Check \"Show Emblem Frame\" in the Basic Settings tab.",
 				[5] = "",
 				[6] = ">Command",
 				[7] = "/frame",
@@ -787,8 +787,8 @@ tbl_string = {
 				[2] = "(Default: Damage above 999999 is displayed as 999999)",
 				[3] = "",
 				[4] = ">Open Game Settings with ESC or the option button.",
-				[5] = "→Click Effect Settings.",
-				[6] = "→Enable Extended Damage Display.",
+				[5] = ">Click Effect Settings.",
+				[6] = ">Enable Extended Damage Display.",
 				[7] = "",
 				[8] = "You can change the damage font.",
 				[9] = "<TIPBOX>>Change Damage Font<INFO>192</INFO></TIPBOX>",
@@ -8494,6 +8494,797 @@ tbl_string = {
 				[10] = "<TIPBOX>»Encounter with the Unknown Quests<INFO>6016</INFO></TIPBOX>",
 				[11] = "<TIPBOX>»El Dicastes Quests<INFO>6028</INFO></TIPBOX>",
 				[12] = "<TIPBOX>»See tip list<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4256] = {
+		Title = "Episode 19#Quest",
+		Page = {
+			[1] = {
+				[1] = "Bagot, the last member of Illusion, headed to Issgard, where Jormungandr is said to be sealed. Episode 19 takes place in the new region of Issgard.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "<TIPBOX>»Ep19 Snow Flower Armor Series<INFO>4258</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Ep19 Glacier Weapon Series<INFO>4259</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»View Episodes<INFO>4101</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4257] = {
+		Title = "Episode 19 Issgard, Land of Snow Flowers#QuestEpisode",
+		Page = {
+			[1] = {
+				[1] = "Bagot threw Rachel's temple into chaos and used a stolen fragment of Ymir's Heart to create a chimera that imitated a god. According to the priest Yus, Bagot's destination is not merely northern Midgard, but Issgard, a land of ice across the sea. The adventurer and their companions set out for Issgard, where ancient legends still endure.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 18 Direction of Prayer<INFO>4217</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "»Starting Quest",
+				[7] = "<TIPBOX>Q Guests on the North Wind, Meeting at Ice Castle(200)<INFO>4260</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "»Main Quests",
+				[10] = "<TIPBOX>Q Eagle Patrol(200)<INFO>4261</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Encounter with Experiment 210426(200)<INFO>4262</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Lazy's Plan(200)<INFO>4263</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Infiltrating the Snake's Nest(200)<INFO>4264</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Infiltration Progress Report(200)<INFO>4265</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Searching for Clues(200)<INFO>4266</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Slipping in Silently(200)<INFO>4267</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Growing Suspicion(200)<INFO>4268</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q A Narrow Miss, Bagot's True Intentions(200)<INFO>4269</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Chaos in the Snake's Nest, the Missing People(200)<INFO>4270</INFO></TIPBOX>",
+				[20] = "",
+				[21] = "»Side Quests",
+				[22] = "<TIPBOX>Q Saint of Purification(200)<INFO>4271</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Frozen Sea(200)<INFO>4272</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Things to Know(200)<INFO>4273</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q An Old Snake(200)<INFO>4274</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Doctrine and Sermons(200)<INFO>4275</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q A Special Way to Survive(200)<INFO>4276</INFO></TIPBOX>",
+				[28] = "",
+				[29] = "»Daily Quests",
+				[30] = "<TIPBOX>Q Searching for a Hideout on the Surface(200)<INFO>4277</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Helping Moryara Fish(200)<INFO>4278</INFO></TIPBOX>",
+				[32] = "<TIPBOX>Q Joryara's Happy Lunchtime(200)<INFO>4279</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Q Do Not Feed the Animals!(200)<INFO>4280</INFO></TIPBOX>",
+				[34] = "<TIPBOX>Q Secret Fun(200)<INFO>4281</INFO></TIPBOX>",
+				[35] = "<TIPBOX>Q Lunch's Menu Choice(200)<INFO>4282</INFO></TIPBOX>",
+				[36] = "<TIPBOX>Q Priest, Have Mercy(200)<INFO>4283</INFO></TIPBOX>",
+				[37] = "<TIPBOX>Q An Unfamiliar Face(200)<INFO>4284</INFO></TIPBOX>",
+				[38] = "<TIPBOX>Q Gathering Bellgund's Research Materials(200)<INFO>4285</INFO></TIPBOX>",
+				[39] = "<TIPBOX>Q Searching for the Stranded(200)<INFO>4286</INFO></TIPBOX>",
+				[40] = "<TIPBOX>Q An Elegant Hobby(200)<INFO>4287</INFO></TIPBOX>",
+				[41] = "<TIPBOX>Q For Safe Working Conditions(200)<INFO>4288</INFO></TIPBOX>",
+				[42] = "<TIPBOX>Q Our Precious Sustenance(200)<INFO>4289</INFO></TIPBOX>",
+				[43] = "<TIPBOX>Q Friederike's Day(200)<INFO>4290</INFO></TIPBOX>",
+				[44] = "<TIPBOX>Q Do We Need a Refrigerator?(200)<INFO>4291</INFO></TIPBOX>",
+				[45] = "<TIPBOX>Q Crispy Tools(200)<INFO>4292</INFO></TIPBOX>",
+				[46] = "<TIPBOX>Q A Place to Be Abandoned 1(220)<INFO>4293</INFO></TIPBOX>",
+				[47] = "<TIPBOX>Q A Place to Be Abandoned 2(240)<INFO>4294</INFO></TIPBOX>",
+				[48] = "<TIPBOX>Q Digging Again and Again(200)<INFO>4295</INFO></TIPBOX>",
+				[49] = "<TIPBOX>Q Patrolling with the Iwins(200)<INFO>4296</INFO></TIPBOX>",
+				[50] = "<TIPBOX>MD 19 Simulation Juncea<INFO>4297</INFO></TIPBOX>",
+				[51] = "<TIPBOX>MD 19 Airship Destruction<INFO>4298</INFO></TIPBOX>",
+				[52] = "",
+				[53] = "<TIPBOX>»Ep19 Snow Flower Armor Series<INFO>4258</INFO></TIPBOX>",
+				[54] = "<TIPBOX>»Ep19 Glacier Weapon Series<INFO>4259</INFO></TIPBOX>",
+				[55] = "",
+				[56] = "<TIPBOX>»Episode 19<INFO>4256</INFO></TIPBOX>",
+				[57] = "<TIPBOX>»View Episodes<INFO>4101</INFO></TIPBOX>",
+				[58] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4258] = {
+		Title = "Ep19 Snow Flower Armor Series#SnowFlowerPetals",
+		Page = {
+			[1] = {
+				[1] = "You can exchange <ITEM>[Snow Flower Petals]<INFO>1000608</INFO></ITEM> obtained while progressing through the episode for various useful equipment items at Ice Castle.",
+				[2] = "",
+				[3] = "^663399§Exchange Location^000000",
+				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Snow Flower Armor Series^000000",
+				[7] = "<ITEM>[Snow Flower Armor]<INFO>450206</INFO></ITEM>",
+				[8] = "<ITEM>[Snow Flower Robe]<INFO>450207</INFO></ITEM>",
+				[9] = "<ITEM>[Snow Flower Manteau]<INFO>480159</INFO></ITEM>",
+				[10] = "<ITEM>[Snow Flower Muffler]<INFO>480160</INFO></ITEM>",
+				[11] = "<ITEM>[Snow Flower Boots]<INFO>470115</INFO></ITEM>",
+				[12] = "<ITEM>[Snow Flower Shoes]<INFO>470116</INFO></ITEM>",
+				[13] = "<ITEM>[Snow Flower Pendant]<INFO>490176</INFO></ITEM>",
+				[14] = "<ITEM>[Snow Flower Ring]<INFO>490177</INFO></ITEM>",
+				[15] = "<ITEM>[Snow Flower Necklace]<INFO>490178</INFO></ITEM>",
+				[16] = "<ITEM>[Snow Flower Earring]<INFO>490179</INFO></ITEM>",
+				[17] = "",
+				[18] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[20] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4259] = {
+		Title = "Ep19 Glacier Weapon Series#Zeny",
+		Page = {
+			[1] = {
+				[1] = "These weapons are a masterpiece series created by Voglinde at Ice Castle in Issgard. With support from Maram, they can be purchased with Zeny.",
+				[2] = "",
+				[3] = "^663399§Exchange Location^000000",
+				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Glacier Weapon Series^000000",
+				[7] = "<ITEM>[Glacier Two-Handed Sword]<INFO>600027</INFO></ITEM>",
+				[8] = "<ITEM>[Glacier Lance]<INFO>630018</INFO></ITEM>",
+				[9] = "<ITEM>[Glacier Sword]<INFO>500049</INFO></ITEM>",
+				[10] = "<ITEM>[Glacier Basic Sword]<INFO>500050</INFO></ITEM>",
+				[11] = "<ITEM>[Glacier Spear]<INFO>530025</INFO></ITEM>",
+				[12] = "<ITEM>[Glacier Mechanic Axe]<INFO>620017</INFO></ITEM>",
+				[13] = "<ITEM>[Glacier Axe]<INFO>520017</INFO></ITEM>",
+				[14] = "<ITEM>[Glacier Mace]<INFO>590038</INFO></ITEM>",
+				[15] = "<ITEM>[Glacier Mechanic Mace]<INFO>590039</INFO></ITEM>",
+				[16] = "<ITEM>[Glacier Rogue Knife]<INFO>510061</INFO></ITEM>",
+				[17] = "<ITEM>[Glacier Basic Knife]<INFO>510062</INFO></ITEM>",
+				[18] = "<ITEM>[Glacier Bow]<INFO>700052</INFO></ITEM>",
+				[19] = "<ITEM>[Glacier Knuckle]<INFO>560032</INFO></ITEM>",
+				[20] = "<ITEM>[Glacier Book]<INFO>540049</INFO></ITEM>",
+				[21] = "<ITEM>[Glacier Katar]<INFO>610037</INFO></ITEM>",
+				[22] = "<ITEM>[Glacier Wand]<INFO>550069</INFO></ITEM>",
+				[23] = "<ITEM>[Glacier Staff]<INFO>640033</INFO></ITEM>",
+				[24] = "<ITEM>[Glacier Foxtail]<INFO>550070</INFO></ITEM>",
+				[25] = "<ITEM>[Glacier Violin]<INFO>570029</INFO></ITEM>",
+				[26] = "<ITEM>[Glacier Whip]<INFO>580030</INFO></ITEM>",
+				[27] = "<ITEM>[Glacier Huuma Shuriken]<INFO>650025</INFO></ITEM>",
+				[28] = "<ITEM>[Glacier Revolver]<INFO>800014</INFO></ITEM>",
+				[29] = "<ITEM>[Glacier Rifle]<INFO>810010</INFO></ITEM>",
+				[30] = "<ITEM>[Glacier Shotgun]<INFO>820008</INFO></ITEM>",
+				[31] = "<ITEM>[Glacier Gatling Gun]<INFO>830013</INFO></ITEM>",
+				[32] = "<ITEM>[Glacier Launcher]<INFO>840009</INFO></ITEM>",
+				[33] = "",
+				[34] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[35] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[36] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4260] = {
+		Title = "Q Guests on the North Wind, Meeting at Ice Castle(200)#QuestEpisode19Start",
+		Page = {
+			[1] = {
+				[1] = "At the entrance to Gray Wolf Village, Maram passes on a message from Ely: a sea route to Issgard has been found, and you are asked to come to Varmundt's Mansion. Maram and Miriam want to join the journey to Issgard to recover the fragment of Ymir's Heart stolen by Bagot.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 18 Direction of Prayer<INFO>4217</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Gray Wolf Village Resident]<INFO>wolfvill,223,83,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4261] = {
+		Title = "Q Eagle Patrol(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Ice Castle in Issgard is home to the proud Eagle Patrol. To learn about the area around the castle, you need to join the Eagle Patrol and accompany them on patrol.",
+				[2] = "",
+				[3] = "<TIPBOX>»Guests on the North Wind, Meeting at Ice Castle<INFO>4260</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Patrol Captain]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4262] = {
+		Title = "Q Encounter with Experiment 210426(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "While patrolling the harsh icy plains of Issgard with the Eagle Patrol, you discover some suspicious traces...",
+				[2] = "",
+				[3] = "<TIPBOX>»Eagle Patrol<INFO>4261</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Mysterious Young Man]<INFO>1@iwp,240,373,0,101,0</INFO></NAVI>",
+				[7] = "※Navigation is only available on the map where the patrol is taking place.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4263] = {
+		Title = "Q Lazy's Plan(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "The mysterious young man you met while patrolling the Frozen Scale Plains possessed remarkable powers. After seeing a mysterious scroll, Lazy comes up with a plan.",
+				[2] = "",
+				[3] = "<TIPBOX>»Eagle Patrol<INFO>4261</INFO></TIPBOX> In progress",
+				[4] = "<TIPBOX>»Encounter with Experiment 210426<INFO>4262</INFO></TIPBOX> Completed",
+				[5] = "^663399§Level 200 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4264] = {
+		Title = "Q Infiltrating the Snake's Nest(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "You and Lazy decide to use Rgan Transformation Scrolls outside the Snake's Nest to disguise yourselves as Rgans and infiltrate it. Lazy's latest scheme unfolds far from home, near Ice Castle in Issgard! Will it work this time?",
+				[2] = "",
+				[3] = "<TIPBOX>»Lazy's Plan<INFO>4263</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>jor_back3,88,318,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4265] = {
+		Title = "Q Infiltration Progress Report(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Unable to gather any more information in the Snake's Nest, the adventurer and Lazy decide to return to Ice Castle and report what they learned about the airship and the abducted people.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4266] = {
+		Title = "Q Searching for Clues(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "While the humans in the Snake's Nest are away, Lazy suggests searching their living quarters for information. The goal is to find clues about Illusion's research and the conflict between Bagot and Juncea.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltration Progress Report<INFO>4265</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>jor_nest,124,204,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4267] = {
+		Title = "Q Slipping in Silently(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Juncea arrived in Issgard before Bagot and built up her position by working with the Rgans. She is upset that Bagot, who joined later, is receiving all the benefits. Taking advantage of the tension between them might yield good results.",
+				[2] = "",
+				[3] = "<TIPBOX>»Searching for Clues<INFO>4266</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Juncea]<INFO>jor_nset,31,140,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4268] = {
+		Title = "Q Growing Suspicion(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Lazy, who is working with you at Ice Castle in Issgard, suggests trying to win Juncea over now that a rift has formed between her and Bagot.",
+				[2] = "",
+				[3] = "<TIPBOX>»Slipping in Silently<INFO>4267</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4269] = {
+		Title = "Q A Narrow Miss, Bagot's True Intentions(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "You rush to the Snake's Nest, home of the Rgans, as Lazy suggested, but something feels wrong. Searching Juncea's laboratory might reveal a clue.",
+				[2] = "",
+				[3] = "<TIPBOX>»Growing Suspicion<INFO>4268</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Unfamiliar Box]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>",
+				[7] = "※This leads to an MD for story progression.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4270] = {
+		Title = "Q Chaos in the Snake's Nest, the Missing People(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Horr, who helps the adventurer at Ice Castle in Issgard, wants to restore Juncea to her original form. Meanwhile, Lazy says the activity in the Snake's Nest is suspicious and suggests investigating.",
+				[2] = "",
+				[3] = "<TIPBOX>»A Narrow Miss, Bagot's True Intentions<INFO>4269</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4271] = {
+		Title = "Q Saint of Purification(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Voglinde is waiting for her nephew at Ice Castle in Issgard. She is troubled because her nephew Lehar has not brought Friederike, the saint needed for purification.",
+				[2] = "",
+				[3] = "<TIPBOX>»Guests on the North Wind, Meeting at Ice Castle<INFO>4260</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Voglinde]<INFO>icas_in,162,224,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4272] = {
+		Title = "Q Frozen Sea(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Shurr at Ice Castle in Issgard wants to find a friend. It seems the friend went out to the plains and has not returned. Help Shurr find them!",
+				[2] = "",
+				[3] = "<TIPBOX>»Saint of Purification<INFO>4271</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4273] = {
+		Title = "Q Things to Know(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Delphanagand, a highest-ranking Rgan near the hatchery, wants you to hear what the middle-ranking Rgans working there have to say. ",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Delphanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4274] = {
+		Title = "Q An Old Snake(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Aleigand, a highest-ranking Rgan, suddenly threatens the adventurer disguised as a Rgan...! What could be making Aleigand act this way?",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4275] = {
+		Title = "Q Doctrine and Sermons(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Somewhere in their nest, one Rgan stands out by calmly speaking to the others. What could he be telling them...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4276] = {
+		Title = "Q A Special Way to Survive(200)#QuestEpisode19",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Mimirgand wants to teach the fresh-faced new priest all sorts of things. Learn the Rgan way of survival, starting with the basics.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4277] = {
+		Title = "Q Searching for a Hideout on the Surface(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Horr wants to investigate all the fields of Issgard to find the hideout of the Rgan leaders who vanished. Help Horr search for their hideout.",
+				[2] = "",
+				[3] = "<TIPBOX>»Chaos in the Snake's Nest, the Missing People<INFO>4270</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>icecastle,32,184,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4278] = {
+		Title = "Q Helping Moryara Fish(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "At the frozen tip of Issgard, the Iwin Moryara gazes alone at the gentle waves in a secluded place. He wants to have the adventurer he has just met try fishing. But...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Guests on the North Wind, Meeting at Ice Castle<INFO>4260</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4279] = {
+		Title = "Q Joryara's Happy Lunchtime(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Joryara is the cook at the Iwin-only dining hall, Ice Castle's only welfare facility in Issgard. Yet Joryara has a duty even more important than cooking. What could it be...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Guests on the North Wind, Meeting at Ice Castle<INFO>4260</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4280] = {
+		Title = "Q Do Not Feed the Animals!(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "The quartermaster of the Ice Castle patrol in Issgard is troubled by food someone has recently been hiding for wild animals in the Frozen Scale Hills.",
+				[2] = "",
+				[3] = "<TIPBOX>»Eagle Patrol<INFO>4261</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Quartermaster]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4281] = {
+		Title = "Q Secret Fun(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Issgard is bitterly cold. Even the warmly fur-clad Iwins cannot escape the chill. Private Horiryu wants to use the adventurer to replace the supplies with warmer feathers.",
+				[2] = "",
+				[3] = "<TIPBOX>»Eagle Patrol<INFO>4261</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Private Horiryu]<INFO>icas_in,33,53,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4282] = {
+		Title = "Q Lunch's Menu Choice(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Lunch is surviving in the Frozen Scale Plains of Issgard while dreaming of a bright future. Help feed hungry Lunch in this land of nothing but ice.",
+				[2] = "",
+				[3] = "<TIPBOX>»Encounter with Experiment 210426<INFO>4262</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4283] = {
+		Title = "Q Priest, Have Mercy(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. A loyal Rgan named Pabuyasabigand wants you to bring him shells from outside.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Pabuyasabigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4284] = {
+		Title = "Q An Unfamiliar Face(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Among them is one who keeps making very strange requests. Listen to what the odd Rgan Sidrgand has to say.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4285] = {
+		Title = "Q Gathering Bellgund's Research Materials(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Bellgund, who is researching at Ice Castle in Issgard, needs magic cores for his research. Just then, an adventurer happens to pass by.",
+				[2] = "",
+				[3] = "<TIPBOX>»Guests on the North Wind, Meeting at Ice Castle<INFO>4260</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Bellgund]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4286] = {
+		Title = "Q Searching for the Stranded(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "While infiltrating the Snake's Nest, you discovered evidence that many people from Midgard had been abducted.",
+				[2] = "You rescued the captives, but some seem to have escaped from the Rgan nest and become stranded in the snowfields.",
+				[3] = "",
+				[4] = "<TIPBOX>»Chaos in the Snake's Nest, the Missing People<INFO>4270</INFO></TIPBOX> Completed",
+				[5] = "^663399§Level 200 or higher^000000",
+				[6] = "",
+				[7] = "<NAVI>[Leon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>",
+				[8] = "<NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>",
+				[9] = "",
+				[10] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4287] = {
+		Title = "Q An Elegant Hobby(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Berbergand's hobby is handicrafts, and once he starts, there is no end to his work or his demands for materials.",
+				[2] = "",
+				[3] = "<TIPBOX>»A Special Way to Survive<INFO>4276</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4288] = {
+		Title = "Q For Safe Working Conditions(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Hanadeosaragand, who is responsible for gathering ice, has a serious concern. Priest, please help!",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltrating the Snake's Nest<INFO>4264</INFO></TIPBOX> In progress",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hanadeosaragand]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4289] = {
+		Title = "Q Our Precious Sustenance(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Rgans live in the Snake's Nest in Issgard. Mimirgand wants your help gathering fuel and magical power the Rgan way.",
+				[2] = "",
+				[3] = "<TIPBOX>»A Special Way to Survive<INFO>4276</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Name]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4290] = {
+		Title = "Q Friederike's Day(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Friederike, the Saint of Purification sent to Ice Castle in Issgard, is tasked with purifying Rgan magic cores. She is looking for an adventurer to gather the magic stones she needs to purify.",
+				[2] = "",
+				[3] = "<TIPBOX>»Saint of Purification<INFO>4271</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Friederike]<INFO>icas_in,32,123,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4291] = {
+		Title = "Q Do We Need a Refrigerator?(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Tataring, who narrowly survived being stranded in Issgard, is staying at Ice Castle. From time to time, Tataring asks for help obtaining food.",
+				[2] = "",
+				[3] = "<TIPBOX>»Frozen Sea<INFO>4272</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4292] = {
+		Title = "Q Crispy Tools(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Tataring is settling in well at Ice Castle and seems to have set traps to obtain food. Shall we check whether the traps are working properly?",
+				[2] = "",
+				[3] = "<TIPBOX>»Frozen Sea<INFO>4272</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4293] = {
+		Title = "Q A Place to Be Abandoned 1(220)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Shurr, the impressive diving Iwin at Ice Castle in Issgard, thinks the monsters living on floor 1 of the Abandoned Pit need to be thinned out. Adventurers are just the people for an aggressive cleanup.",
+				[2] = "",
+				[3] = "<TIPBOX>»Frozen Sea<INFO>4272</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4294] = {
+		Title = "Q A Place to Be Abandoned 2(240)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Shurr, the impressive diving Iwin at Ice Castle in Issgard, thinks the monsters living on floor 2 of the Abandoned Pit need to be thinned out. Adventurers are just the people for an aggressive cleanup.",
+				[2] = "",
+				[3] = "<TIPBOX>»Frozen Sea<INFO>4272</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4295] = {
+		Title = "Q Digging Again and Again(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Shurr, the impressive diving Iwin at Ice Castle in Issgard, wants to regularly investigate ominous traces in the Abandoned Pit to ensure safety.",
+				[2] = "",
+				[3] = "<TIPBOX>»Frozen Sea<INFO>4272</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4296] = {
+		Title = "Q Patrolling with the Iwins(200)#QuestEpisode19DailyQuest",
+		Page = {
+			[1] = {
+				[1] = "The Eagle Patrol of Ice Castle in Issgard is a dependable force. The patrol captain is always recruiting people to join the rounds. If you wish, you can join their patrol every day.",
+				[2] = "",
+				[3] = "<TIPBOX>»Eagle Patrol<INFO>4261</INFO></TIPBOX> Completed",
+				[4] = "^663399§Level 200 or higher^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4297] = {
+		Title = "MD 19 Simulation Juncea#200EpisodeDailyQuest",
+		Page = {
+			[1] = {
+				[1] = "Ice Castle's researchers decided that the monster data from Juncea's transformation could be used for combat training. Based on the adventurer's testimony, they created data for Simulation Juncea. A training ground that recreates the battle with Juncea has been built in a corner of the Snake's Nest.",
+				[2] = "",
+				[3] = "§ Prerequisite: <TIPBOX>»Chaos in the Snake's Nest, the Missing People<INFO>4270</INFO></TIPBOX> Completed",
+				[4] = "",
+				[5] = "§ Dungeon Details",
+				[6] = "> Can be completed daily (resets at 04:00 the next day)",
+				[7] = "> Time limit: 60 minutes",
+				[8] = "> Level 200 or higher",
+				[9] = "",
+				[10] = "<NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Episode 18 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4298] = {
+		Title = "MD 19 Airship Destruction#200EpisodeDailyQuest",
+		Page = {
+			[1] = {
+				[1] = "The airship stolen by Illusion is in the Snake's Nest. After discussing it with your companions, you decide to destroy it so that Illusion and the Rgans can no longer use it. But the airship, which embodies Varmundt's ingenuity, will not be easy to take down...",
+				[2] = "",
+				[3] = "§ Prerequisite: <TIPBOX>»Infiltration Progress Report<INFO>4265</INFO></TIPBOX> Completed",
+				[4] = "",
+				[5] = "§ Dungeon Details",
+				[6] = "> Can be completed daily (resets at 04:00 the next day)",
+				[7] = "> Time limit: 60 minutes",
+				[8] = "> Level 200 or higher",
+				[9] = "^663399§This MD is used for quest progression.^000000",
+				[10] = "",
+				[11] = "<NAVI>[Rope]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Episode 18 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	}

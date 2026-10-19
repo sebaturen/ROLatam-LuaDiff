@@ -1,0 +1,257 @@
+{
+    "AKn4DQ": {
+        "en-US": "Corporal Morurang",
+        "pt-BR": "Cabo Morurang",
+        "es-ES": "Cabo Morurang"
+    },
+    "Aan4DQ": {
+        "en-US": "<Eagle Patrol>",
+        "pt-BR": "<Patrulha da Águia>",
+        "es-ES": "<Patrulla de Águilas>"
+    },
+    "Aqn4DQ": {
+        "en-US": "movexy_{0}",
+        "pt-BR": "movexy_{0}",
+        "es-ES": "movexy_{0}"
+    },
+    "A6n4DQ": {
+        "en-US": "movexy_{0}",
+        "pt-BR": "movexy_{0}",
+        "es-ES": "movexy_{0}"
+    },
+    "BKn4DQ": {
+        "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
+        "pt-BR": "OnMoveEnd_Mas[rota{0}]/[destino{1} {2}]/[atual{3} {4}]/[executar{5}]",
+        "es-ES": "OnMoveEnd_Mas[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]/[Ejecutar{5}]"
+    },
+    "Ban4DQ": {
+        "en-US": "[←]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[←]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[←]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Bqn4DQ": {
+        "en-US": "[→]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[→]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[→]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "B6n4DQ": {
+        "en-US": "[↓]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↓]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↓]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "CKn4DQ": {
+        "en-US": "[↑]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↑]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↑]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Can4DQ": {
+        "en-US": "[↗]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↗]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↗]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Cqn4DQ": {
+        "en-US": "[↘]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↘]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↘]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "C6n4DQ": {
+        "en-US": "[↖]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↖]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↖]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "DKn4DQ": {
+        "en-US": "[↙]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↙]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Dan4DQ": {
+        "en-US": "Recruit Borira",
+        "pt-BR": "Recruta Borira",
+        "es-ES": "Recluta Borira"
+    },
+    "Dqn4DQ": {
+        "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
+        "pt-BR": "OnMoveEnd_Mas[rota{0}]/[destino{1} {2}]/[atual{3} {4}]/[executar{5}]",
+        "es-ES": "OnMoveEnd_Mas[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]/[Ejecutar{5}]"
+    },
+    "D6n4DQ": {
+        "en-US": "[←]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[←]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[←]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "EKn4DQ": {
+        "en-US": "[→]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[→]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[→]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Ean4DQ": {
+        "en-US": "[↓]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↓]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↓]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Eqn4DQ": {
+        "en-US": "[↑]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↑]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↑]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "E6n4DQ": {
+        "en-US": "[↗]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↗]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↗]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "FKn4DQ": {
+        "en-US": "[↘]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↘]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↘]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Fan4DQ": {
+        "en-US": "[↖]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↖]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↖]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Fqn4DQ": {
+        "en-US": "[↙]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↙]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "F6n4DQ": {
+        "en-US": "Private Rorur",
+        "pt-BR": "Soldado Rorur",
+        "es-ES": "Soldado de segunda Rorur"
+    },
+    "GKn4DQ": {
+        "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
+        "pt-BR": "OnMoveEnd_Mas[rota{0}]/[destino{1} {2}]/[atual{3} {4}]/[executar{5}]",
+        "es-ES": "OnMoveEnd_Mas[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]/[Ejecutar{5}]"
+    },
+    "Gan4DQ": {
+        "en-US": "[←]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[←]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[←]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Gqn4DQ": {
+        "en-US": "[→]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[→]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[→]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "G6n4DQ": {
+        "en-US": "[↓]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↓]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↓]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "HKn4DQ": {
+        "en-US": "[↑]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↑]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↑]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Han4DQ": {
+        "en-US": "[↗]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↗]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↗]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Hqn4DQ": {
+        "en-US": "[↘]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↘]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↘]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "H6n4DQ": {
+        "en-US": "[↖]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↖]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↖]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "IKn4DQ": {
+        "en-US": "[↙]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↙]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Ian4DQ": {
+        "en-US": "Private First Class Horiryu",
+        "pt-BR": "Soldado Horiryu",
+        "es-ES": "Soldado de primera Horiryu"
+    },
+    "Iqn4DQ": {
+        "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
+        "pt-BR": "OnMoveEnd_Mas[rota{0}]/[destino{1} {2}]/[atual{3} {4}]/[executar{5}]",
+        "es-ES": "OnMoveEnd_Mas[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]/[Ejecutar{5}]"
+    },
+    "I6n4DQ": {
+        "en-US": "[←]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[←]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[←]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "JKn4DQ": {
+        "en-US": "[→]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[→]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[→]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Jan4DQ": {
+        "en-US": "[↓]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↓]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↓]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Jqn4DQ": {
+        "en-US": "[↑]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↑]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↑]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "J6n4DQ": {
+        "en-US": "[↗]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↗]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↗]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "KKn4DQ": {
+        "en-US": "[↘]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↘]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↘]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Kan4DQ": {
+        "en-US": "[↖]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↖]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↖]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "Kqn4DQ": {
+        "en-US": "[↙]/[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]",
+        "pt-BR": "[↙]/[rota{0}]/[destino{1} {2}]/[atual{3} {4}]",
+        "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
+    },
+    "K6n4DQ": {
+        "en-US": "Corporal Moruryu",
+        "pt-BR": "Cabo Moruryu",
+        "es-ES": "Cabo Moruryu"
+    },
+    "LKn4DQ": {
+        "en-US": "Recruit Pororong",
+        "pt-BR": "Recruta Ppororong",
+        "es-ES": "Recluta Pororong"
+    },
+    "Lan4DQ": {
+        "en-US": "Private Torari",
+        "pt-BR": "Soldado Torari",
+        "es-ES": "Soldado de segunda Torari"
+    },
+    "Lqn4DQ": {
+        "en-US": "Private First Class Porarang",
+        "pt-BR": "Soldado Porarang",
+        "es-ES": "Soldado de primera Porarang"
+    },
+    "L6n4DQ": {
+        "en-US": "Corporal Poruryo",
+        "pt-BR": "Cabo Pporuryo",
+        "es-ES": "Cabo Poruryo"
+    },
+    "MKn4DQ": {
+        "en-US": "Recruit Horurung",
+        "pt-BR": "Recruta Horurung",
+        "es-ES": "Recluta Horurung"
+    },
+    "Man4DQ": {
+        "en-US": "Private Ttorarong",
+        "pt-BR": "Soldado Ttorarong",
+        "es-ES": "Soldado de segunda Ttorarong"
+    },
+    "Mqn4DQ": {
+        "en-US": "Private First Class Ssorur",
+        "pt-BR": "Soldado Ssorur",
+        "es-ES": "Soldado de primera Ssorur"
+    }
+}

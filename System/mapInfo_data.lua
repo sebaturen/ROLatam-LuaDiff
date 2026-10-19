@@ -939,7 +939,25 @@ mapTbl_data = {
 	["bl_ice.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
 	["bl_death.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
 	["1@pbs.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
-	["pbse.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"}
+	["pbse.rsw"] = {notifyEnter = true, backgroundBmp = "dungeon"},
+	["icecastle.rsw"] = {backgroundBmp = "village", notifyEnter = true},
+	["icas_in.rsw"] = {backgroundBmp = "village_s2", notifyEnter = true},
+	["jor_tail.rsw"] = {backgroundBmp = "field2_s2", notifyEnter = true},
+	["jor_back1.rsw"] = {backgroundBmp = "field2_s2", notifyEnter = true},
+	["jor_back2.rsw"] = {backgroundBmp = "field2_s2", notifyEnter = true},
+	["jor_back3.rsw"] = {backgroundBmp = "field2_s2", notifyEnter = true},
+	["jor_nest.rsw"] = {backgroundBmp = "noname", notifyEnter = true},
+	["jor_dun01.rsw"] = {backgroundBmp = "dungeon_s2", notifyEnter = true},
+	["jor_dun02.rsw"] = {backgroundBmp = "dungeon_s2", notifyEnter = true},
+	["jor_dun03.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
+	["jor_ab01.rsw"] = {backgroundBmp = "dungeon_s2", notifyEnter = true},
+	["jor_ab02.rsw"] = {backgroundBmp = "dungeon_s2", notifyEnter = true},
+	["jor_que.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
+	["air_if.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
+	["1@iwp.rsw"] = {backgroundBmp = "field2_s2", notifyEnter = true},
+	["1@jorchs.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
+	["1@jorlab.rsw"] = {backgroundBmp = "noname_s2", notifyEnter = true},
+	["1@whl.rsw"] = {backgroundBmp = "noname", notifyEnter = true}
 }
 function main()
 	for name, info in pairs(mapTbl) do

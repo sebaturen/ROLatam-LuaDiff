@@ -1000,5 +1000,7 @@ ShadowFactorTable = {
 	[jobtbl.JT_MD_Airboat_Boss] = 3.5,
 	[jobtbl.JT_MD_Airboat_Boss2] = 3.5,
 	[jobtbl.JT_MD_Airboat_Boss3] = 3.5,
-	[jobtbl.JT_MD_Airboat_Boss4] = 3.5
+	[jobtbl.JT_MD_Airboat_Boss4] = 3.5,
+	[jobtbl.JT_EP19_MD_BOX1] = 1.2,
+	[jobtbl.JT_EP19_MD_BOX2] = 1.2
 }

@@ -950,7 +950,7 @@
         "es-ES": "Rideword"
     },
     "XocB": {
-        "en-US": "Skel Prisoner",
+        "en-US": "Skeleton Prisoner",
         "pt-BR": "Esqueleto Prisioneiro",
         "es-ES": "Prisionero Esqueleto"
     },
@@ -7040,9 +7040,9 @@
         "es-ES": "Mercenario"
     },
     "IIwB": {
-        "en-US": "Skelly Cat",
+        "en-US": "SkellyCat",
         "pt-BR": "Zumbichano",
-        "es-ES": "Gato Esquelético"
+        "es-ES": "Zombigato"
     },
     "IYwB": {
         "en-US": "Runaway Jakk",
@@ -7750,7 +7750,7 @@
         "es-ES": "Gran Mayordomo Sufriente"
     },
     "rowB": {
-        "en-US": "Corrupted monk",
+        "en-US": "Corrupted Monk",
         "pt-BR": "Alma Penada Sombria",
         "es-ES": "Monje Corrupto"
     },
@@ -8880,7 +8880,7 @@
         "es-ES": "Cabecilla Manananggal"
     },
     "kI0B": {
-        "en-US": "Furious Majorous",
+        "en-US": "Furious Majoruros",
         "pt-BR": "Majoruros Feroz",
         "es-ES": "Majoruros Furioso"
     },
@@ -10400,7 +10400,7 @@
         "es-ES": "Sohee resentida"
     },
     "wI4B": {
-        "en-US": "Deleter",
+        "en-US": "Ground Deleter",
         "pt-BR": "Deletério",
         "es-ES": "Deleter Terrestre"
     },
@@ -10455,9 +10455,9 @@
         "es-ES": "Atacante siniestro"
     },
     "y44B": {
-        "en-US": "Matte Drainliar",
+        "en-US": "Mattiliar",
         "pt-BR": "Mattiliar",
-        "es-ES": "Drainliar mate"
+        "es-ES": "Mattiliar"
     },
     "zI4B": {
         "en-US": "Restless Dead",
@@ -10466,18 +10466,18 @@
     },
     "zY4B": {
         "en-US": "Restless Dead",
-        "pt-BR": "Zumbi Ilusional",
+        "pt-BR": "Zumbi Inquieto",
         "es-ES": "Muerto sin descanso"
     },
     "zo4B": {
         "en-US": "Restless Dead",
-        "pt-BR": "Carniçal Ilusional",
-        "es-ES": "Muerto sin descanso"
+        "pt-BR": "Carniçal Inquieto",
+        "es-ES": "Necrófago Inquieto"
     },
     "z44B": {
         "en-US": "Sweet Nightmare",
         "pt-BR": "Doce Pesadelo",
-        "es-ES": "Dulce pesadilla"
+        "es-ES": "Dulce Pesadilla"
     },
     "0I4B": {
         "en-US": "Neon Mushroom",
@@ -11102,12 +11102,12 @@
     "TI8B": {
         "en-US": "Death Lord",
         "pt-BR": "Monarca Lich",
-        "es-ES": "Señor de la muerte"
+        "es-ES": "Señor de la Muerte"
     },
     "TY8B": {
         "en-US": "Death Lord",
         "pt-BR": "Monarca Lich",
-        "es-ES": "Señor de la muerte"
+        "es-ES": "Señor de la Muerte"
     },
     "To8B": {
         "en-US": "Nightmare",
@@ -11280,19 +11280,19 @@
         "es-ES": "Terror Nocturno Rígido"
     },
     "cI8B": {
-        "en-US": "Stiff Deleter(Sky)",
-        "pt-BR": "Deleter Voador",
+        "en-US": "Stiff Flying Deleter",
+        "pt-BR": "Exterminador",
         "es-ES": "Deleter rígido (cielo)"
     },
     "cY8B": {
-        "en-US": "Stiff Deleter(Ground)",
+        "en-US": "Stiff Ground Deleter",
         "pt-BR": "Deleter",
         "es-ES": "Deleter rígido (tierra)"
     },
     "co8B": {
         "en-US": "Rigid Explosion",
         "pt-BR": "Explosão",
-        "es-ES": "Explosión rígida"
+        "es-ES": "Explosión Rígida"
     },
     "c48B": {
         "en-US": "Stiff Kaho",
@@ -12350,9 +12350,9 @@
         "es-ES": "Acidus Esqueleto"
     },
     "RpAB": {
-        "en-US": "Bone Ditardeurs",
-        "pt-BR": "Detale Esqueleto",
-        "es-ES": "Detale Esqueleto"
+        "en-US": "Bone Detardeurus",
+        "pt-BR": "Detardeurus Esqueleto",
+        "es-ES": "Detardeurus Esqueleto"
     },
     "R5AB": {
         "en-US": "Bone Ferus",
@@ -14427,7 +14427,7 @@
         "es-ES": "Calavera Flameante"
     },
     "5pEB": {
-        "en-US": "Knight of the Abyss",
+        "en-US": "Abysmal Knight",
         "pt-BR": "Cavaleiro do Abismo",
         "es-ES": "Caballero del Abismo"
     },
@@ -14892,164 +14892,164 @@
         "es-ES": "Rechenier"
     },
     "Q5IB": {
-        "en-US": "Acidus of Fire",
+        "en-US": "[Bio] Black Acidus",
         "pt-BR": "[Eco] Acidus Negro",
-        "es-ES": "Acidus de Fuego"
+        "es-ES": "[Eco] Acidus Negro"
     },
     "RJIB": {
-        "en-US": "Ancient Mummy of Death",
+        "en-US": "[Bio] Ancient Mummy",
         "pt-BR": "[Eco] Múmia Anciã",
-        "es-ES": "Momia Antigua de la Muerte"
+        "es-ES": "[Eco] Momia Antigua"
     },
     "RZIB": {
-        "en-US": "Angelgolt of Iceberg",
+        "en-US": "[Bio] Angelgolt",
         "pt-BR": "[Eco] Angelgolt",
-        "es-ES": "Angelgolt del Glaciar"
+        "es-ES": "[Eco] Angelgolt"
     },
     "RpIB": {
-        "en-US": "Aqua Elemental of Iceberg",
+        "en-US": "[Bio] Aqua Elemental",
         "pt-BR": "[Eco] Elemental da Água",
-        "es-ES": "Elemental de Agua del Glaciar"
+        "es-ES": "[Eco] Elemental de Agua"
     },
     "R5IB": {
-        "en-US": "Banshee of Death",
+        "en-US": "[Bio] Banshee",
         "pt-BR": "[Eco] Banshee",
-        "es-ES": "Banshee de la Muerte"
+        "es-ES": "[Eco] Banshee"
     },
     "SJIB": {
-        "en-US": "Centipede of Iceberg",
+        "en-US": "[Bio] Centipede",
         "pt-BR": "[Eco] Centopeia",
-        "es-ES": "Ciempiés del Glaciar"
+        "es-ES": "[Eco] Escolopendra"
     },
     "SZIB": {
-        "en-US": "Cornus of Prairie",
+        "en-US": "[Bio] Cornus",
         "pt-BR": "[Eco] Cornus",
-        "es-ES": "Cornus de la Pradera"
+        "es-ES": "[Eco] Cornus"
     },
     "SpIB": {
-        "en-US": "Deleter of Fire (Sky)",
-        "pt-BR": "[Eco] Deletério",
-        "es-ES": "Deleter Volador de Fuego"
+        "en-US": "[Bio] Flying Deleter",
+        "pt-BR": "[Eco] Exterminador",
+        "es-ES": "[Eco] Deleter Volador"
     },
     "S5IB": {
-        "en-US": "Ditardeurs of Fire",
+        "en-US": "[Bio] Detardeurus",
         "pt-BR": "[Eco] Detardeurus",
-        "es-ES": "Detardeurus de Fuego"
+        "es-ES": "[Eco] Detardeurus"
     },
     "TJIB": {
-        "en-US": "Explosion of Fire",
-        "pt-BR": "[Eco] Explosão",
-        "es-ES": "Explosión de Fuego"
+        "en-US": "[Bio] Explosion",
+        "pt-BR": "[Eco] Estrondo",
+        "es-ES": "[Eco] Explosión"
     },
     "TZIB": {
-        "en-US": "Flame Skull of Death",
+        "en-US": "[Bio] Flame Skull",
         "pt-BR": "[Eco] Crânio Flamejante",
-        "es-ES": "Cráneo en Llamas de la Muerte"
+        "es-ES": "[Eco] Calavera Flameante"
     },
     "TpIB": {
-        "en-US": "Flora of Prairie",
+        "en-US": "[Bio] Flora",
         "pt-BR": "[Eco] Flora",
-        "es-ES": "Flora de la Pradera"
+        "es-ES": "[Eco] Flora"
     },
     "T5IB": {
-        "en-US": "Hill Wind of Prairie",
+        "en-US": "[Bio] Hill Wind",
         "pt-BR": "[Eco] Vento da Colina",
-        "es-ES": "Viento de las Colinas de la Pradera"
+        "es-ES": "[Eco] Viento de la Colina"
     },
     "UJIB": {
-        "en-US": "Hunter Fly of Prairie",
+        "en-US": "[Bio] Hunter Fly",
         "pt-BR": "[Eco] Mosca Caçadora",
-        "es-ES": "Mosca Cazadora de la Pradera"
+        "es-ES": "[Eco] Mosca Cazadora"
     },
     "UZIB": {
-        "en-US": "Hydrolancer of Fire",
+        "en-US": "[Bio] Hydrolancer",
         "pt-BR": "[Eco] Hydrolancer",
-        "es-ES": "Hydrolancer de Fuego"
+        "es-ES": "[Eco] Hydrolancer"
     },
     "UpIB": {
-        "en-US": "Ice Titan of Iceberg",
+        "en-US": "[Bio] Ice Titan",
         "pt-BR": "[Eco] Titã de Gelo",
-        "es-ES": "Titán de Hielo del Glaciar"
+        "es-ES": "[Eco] Titán de Hielo"
     },
     "U5IB": {
-        "en-US": "Jakk of Fire",
+        "en-US": "[Bio] Jakk",
         "pt-BR": "[Eco] Jakk",
-        "es-ES": "Jakk de Fuego"
+        "es-ES": "[Eco] Jakk"
     },
     "VJIB": {
-        "en-US": "Knight of Abyss in Death",
+        "en-US": "[Bio] Abysmal Knight",
         "pt-BR": "[Eco] Cavaleiro do Abismo",
-        "es-ES": "Caballero del Abismo de la Muerte"
+        "es-ES": "[Eco] Caballero Abismal"
     },
     "VZIB": {
-        "en-US": "Ktullanux of Iceberg",
+        "en-US": "[Bio] Ktullanux",
         "pt-BR": "[Eco] Ktullanux",
-        "es-ES": "Ktullanux del Glaciar"
+        "es-ES": "[Eco] Ktullanux"
     },
     "VpIB": {
-        "en-US": "Lava Golem of Fire",
+        "en-US": "[Bio] Lava Golem",
         "pt-BR": "[Eco] Golem de Lava",
-        "es-ES": "Gólem de Lava de Fuego"
+        "es-ES": "[Eco] Gólem de Lava"
     },
     "V5IB": {
-        "en-US": "Lord of Death",
+        "en-US": "[Bio] Lord of the Dead",
         "pt-BR": "[Eco] Senhor dos Mortos",
-        "es-ES": "Señor de la Muerte"
+        "es-ES": "[Eco] Señor de los Muertos"
     },
     "WJIB": {
-        "en-US": "Lude of Death",
+        "en-US": "[Bio] Lude",
         "pt-BR": "[Eco] Lude",
-        "es-ES": "Lude de la Muerte"
+        "es-ES": "[Eco] Lude"
     },
     "WZIB": {
-        "en-US": "Majoruros of Fire",
+        "en-US": "[Bio] Majoruros",
         "pt-BR": "[Eco] Majoruros",
-        "es-ES": "Majoruros de Fuego"
+        "es-ES": "[Eco] Majoruros"
     },
     "WpIB": {
-        "en-US": "Mistress of Prairie",
+        "en-US": "[Bio] Mistress",
         "pt-BR": "[Eco] Abelha-Rainha",
-        "es-ES": "Abeja Reina de la Pradera"
+        "es-ES": "[Eco] Abeja Reina"
     },
     "W5IB": {
-        "en-US": "Pinguicula of Prairie",
+        "en-US": "[Bio] Pinguicula",
         "pt-BR": "[Eco] Pinguicula",
-        "es-ES": "Pinguicula de la Pradera"
+        "es-ES": "[Eco] Pinguicula"
     },
     "XJIB": {
-        "en-US": "Ragged Zombie of Death",
+        "en-US": "[Bio] Ragged Zombie",
         "pt-BR": "[Eco] Zumbi Dilacerado",
-        "es-ES": "Zombi Andrajoso de la Muerte"
+        "es-ES": "[Eco] Zombi Harapiento"
     },
     "XZIB": {
-        "en-US": "Rhyncho of Iceberg",
+        "en-US": "[Bio] Rhyncho",
         "pt-BR": "[Eco] Rhyncho",
-        "es-ES": "Rhyncho del Glaciar"
+        "es-ES": "[Eco] Rhyncho"
     },
     "XpIB": {
-        "en-US": "Rocker of Prairie",
+        "en-US": "[Bio] Rocker",
         "pt-BR": "[Eco] Rocker",
-        "es-ES": "Rocker de la Pradera"
+        "es-ES": "[Eco] Rockero"
     },
     "X5IB": {
-        "en-US": "Savage of Prairie",
+        "en-US": "[Bio] Savage",
         "pt-BR": "[Eco] Selvagem",
-        "es-ES": "Savage de la Pradera"
+        "es-ES": "[Eco] Salvaje"
     },
     "YJIB": {
-        "en-US": "Siroma of Iceberg",
+        "en-US": "[Bio] Siroma",
         "pt-BR": "[Eco] Siroma",
-        "es-ES": "Siroma del Glaciar"
+        "es-ES": "[Eco] Siroma"
     },
     "YZIB": {
-        "en-US": "Snowier of Iceberg",
+        "en-US": "[Bio] Snowier",
         "pt-BR": "[Eco] Yeti",
-        "es-ES": "Snowier del Glaciar"
+        "es-ES": "[Eco] Nevadísimo"
     },
     "YpIB": {
-        "en-US": "Wraith of Death",
+        "en-US": "[Bio] Wraith",
         "pt-BR": "[Eco] Alma Penada",
-        "es-ES": "Espectro de la Muerte"
+        "es-ES": "[Eco] Espectro"
     },
     "Y5IB": {
         "en-US": "Violent Marse",
@@ -15070,5 +15070,210 @@
         "en-US": "Violent Swordfish",
         "pt-BR": "Peixe-Espada Violento",
         "es-ES": "Pez Espada Violento"
+    },
+    "Z5IB": {
+        "en-US": "Calmaring",
+        "pt-BR": "Calamaring",
+        "es-ES": "Kalamaring"
+    },
+    "aJIB": {
+        "en-US": "Cave Calmaring",
+        "pt-BR": "Calamaring da Caverna",
+        "es-ES": "Kalamaring de cueva"
+    },
+    "aZIB": {
+        "en-US": "Cave Flower",
+        "pt-BR": "Imobilização da Caverna",
+        "es-ES": "Budonghwa de cueva"
+    },
+    "apIB": {
+        "en-US": "Two Eyes Dollocaris",
+        "pt-BR": "Dolocaris de Dois Olhos",
+        "es-ES": "Dolocaris de dos ojos"
+    },
+    "a5IB": {
+        "en-US": "Entangled Intermediate Rgan",
+        "pt-BR": "Regan Intermediário Envolvido",
+        "es-ES": "Regan intermedio involucrado"
+    },
+    "bJIB": {
+        "en-US": "Hallucigenia",
+        "pt-BR": "Hallucigenia",
+        "es-ES": "Hallucigenia"
+    },
+    "bZIB": {
+        "en-US": "Hallucigenia Baby",
+        "pt-BR": "Filhote de Hallucigenia",
+        "es-ES": "Cría de Hallucigenia"
+    },
+    "bpIB": {
+        "en-US": "Heart Hunter AT",
+        "pt-BR": "Heart Hunter AT",
+        "es-ES": "Heart Hunter AT"
+    },
+    "b5IB": {
+        "en-US": "Ice Ligia",
+        "pt-BR": "Ice Ligia",
+        "es-ES": "Ice Ligia"
+    },
+    "cJIB": {
+        "en-US": "Ice Straw",
+        "pt-BR": "Palha de Gelo",
+        "es-ES": "Ice Straw"
+    },
+    "cZIB": {
+        "en-US": "Limacina",
+        "pt-BR": "Limacina",
+        "es-ES": "Limakina"
+    },
+    "cpIB": {
+        "en-US": "Ultra Limacina",
+        "pt-BR": "Ultra Limacina",
+        "es-ES": "Ultra Limakina"
+    },
+    "c5IB": {
+        "en-US": "Aquila",
+        "pt-BR": "Aquila",
+        "es-ES": "Aquila"
+    },
+    "dJIB": {
+        "en-US": "Aquila",
+        "pt-BR": "Aquila",
+        "es-ES": "Aquila"
+    },
+    "dZIB": {
+        "en-US": "Heart Hunter AT",
+        "pt-BR": "Heart Hunter AT",
+        "es-ES": "Heart Hunter AT"
+    },
+    "dpIB": {
+        "en-US": "Monster Juncea",
+        "pt-BR": "Juncea Monstruosa",
+        "es-ES": "Juncea monstruosa"
+    },
+    "d5IB": {
+        "en-US": "Simulation Juncea",
+        "pt-BR": "Juncea de Simulação",
+        "es-ES": "Juncea de simulación"
+    },
+    "eJIB": {
+        "en-US": "Entangled Intermediate Rgan",
+        "pt-BR": "Regan Intermediário Envolvido",
+        "es-ES": "Regan intermedio involucrado"
+    },
+    "eZIB": {
+        "en-US": "Renovated Superior Rgan",
+        "pt-BR": "Regan Superior Modificado",
+        "es-ES": "Regan superior modificado"
+    },
+    "epIB": {
+        "en-US": "Rampaging Magic Superior Rgan",
+        "pt-BR": "Regan Superior em Surto Mágico",
+        "es-ES": "Regan superior con magia descontrolada"
+    },
+    "e5IB": {
+        "en-US": "Iwin",
+        "pt-BR": "Arwin",
+        "es-ES": "Awin"
+    },
+    "fJIB": {
+        "en-US": "Iwin Private First Class",
+        "pt-BR": "Soldado Arwin",
+        "es-ES": "Soldado Awin"
+    },
+    "fZIB": {
+        "en-US": "Iwin Corporal",
+        "pt-BR": "Cabo Arwin",
+        "es-ES": "Cabo Awin"
+    },
+    "fpIB": {
+        "en-US": "Iwin Trainee",
+        "pt-BR": "Recruta Arwin",
+        "es-ES": "Recluta Awin"
+    },
+    "f5IB": {
+        "en-US": "Iwin Soldier",
+        "pt-BR": "Soldado Auxiliar Arwin",
+        "es-ES": "Soldado de primera Awin"
+    },
+    "gJIB": {
+        "en-US": "Iwin Private",
+        "pt-BR": "Soldado de 2ª Classe Arwin",
+        "es-ES": "Soldado de segunda Awin"
+    },
+    "gZIB": {
+        "en-US": "Lehar",
+        "pt-BR": "Lehar",
+        "es-ES": "Lehar"
+    },
+    "gpIB": {
+        "en-US": "One Eye Dollocaris",
+        "pt-BR": "Dolocaris de Um Olho",
+        "es-ES": "Dolocaris de un ojo"
+    },
+    "g5IB": {
+        "en-US": "Renovated Superior Rgan",
+        "pt-BR": "Regan Superior Modificado",
+        "es-ES": "Regan superior modificado"
+    },
+    "hJIB": {
+        "en-US": "Primitive Rgan",
+        "pt-BR": "Regan Primitivo",
+        "es-ES": "Regan primitivo"
+    },
+    "hZIB": {
+        "en-US": "Lowest Rgan",
+        "pt-BR": "Regan de Nível Mais Baixo",
+        "es-ES": "Regan de nivel ínfimo"
+    },
+    "hpIB": {
+        "en-US": "Junior Rgan",
+        "pt-BR": "Regan Inferior",
+        "es-ES": "Regan inferior"
+    },
+    "h5IB": {
+        "en-US": "Intermediate Rgan",
+        "pt-BR": "Regan Intermediário",
+        "es-ES": "Regan intermedio"
+    },
+    "iJIB": {
+        "en-US": "Superior Rgan",
+        "pt-BR": "Regan Superior",
+        "es-ES": "Regan superior"
+    },
+    "iZIB": {
+        "en-US": "Shining Seaweed",
+        "pt-BR": "Alga Brilhante",
+        "es-ES": "Alga brillante"
+    },
+    "ipIB": {
+        "en-US": "Unfrost Flower",
+        "pt-BR": "Flor que Não Congela",
+        "es-ES": "Flor que no se congela"
+    },
+    "i5IB": {
+        "en-US": "Discarded Primitive Rgan",
+        "pt-BR": "Regan Primitivo Descartado",
+        "es-ES": "Regan primitivo descartado"
+    },
+    "jJIB": {
+        "en-US": "Discarded Intermediate Rgan",
+        "pt-BR": "Regan Intermediário Descartado",
+        "es-ES": "Regan intermedio descartado"
+    },
+    "jZIB": {
+        "en-US": "Limacina",
+        "pt-BR": "Limacina",
+        "es-ES": "Limakina"
+    },
+    "jpIB": {
+        "en-US": "Suspicious Storage Stone",
+        "pt-BR": "Pedra de Armazenamento Suspeita",
+        "es-ES": "Piedra de Almacenamiento Sospechosa"
+    },
+    "j5IB": {
+        "en-US": "Very Suspicious Storage Stone",
+        "pt-BR": "Pedra de Armazenamento Muito Suspeita",
+        "es-ES": "Piedra de Almacenamiento Muy Sospechosa"
     }
 }

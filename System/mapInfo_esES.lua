@@ -844,6 +844,12 @@ mapTbl_string = {
 			subTitle = "Lago del abismo, Hugel"
 		}
 	},
+	["air_if.rsw"] = {
+		displayName = "Interior de la Aeronave Ifho",
+		signName = {
+			mainTitle = "Interior de la Aeronave Ifho"
+		}
+	},
 	["airplane.rsw"] = {
 		displayName = "Aeronave",
 		signName = {mainTitle = "Aeronave"}
@@ -2390,6 +2396,12 @@ mapTbl_string = {
 	["hunter_3-1.rsw"] = {
 		displayName = "Centro de cambio de clase a Cazador"
 	},
+	["icas_in.rsw"] = {
+		displayName = "Interior del Castillo de Hielo",
+		signName = {
+			mainTitle = "Interior del Castillo de Hielo"
+		}
+	},
 	["ice_d03_i.rsw"] = {
 		displayName = "Ilusión de hielo",
 		signName = {
@@ -2419,6 +2431,13 @@ mapTbl_string = {
 		displayName = "Cueva de hielo de Rachel, espacio sellado",
 		signName = {
 			mainTitle = "Cueva de hielo de Rachel, espacio sellado"
+		}
+	},
+	["icecastle.rsw"] = {
+		displayName = "Castillo de Hielo de Isgard",
+		signName = {
+			mainTitle = "Castillo de Hielo",
+			subTitle = "Isgard"
 		}
 	},
 	["in_hunter.rsw"] = {
@@ -2809,6 +2828,73 @@ mapTbl_string = {
 	},
 	["job_wiz.rsw"] = {
 		displayName = "Salón de pruebas de cambio de clase a Hechicero"
+	},
+	["jor_ab01.rsw"] = {
+		displayName = "Foso Abandonado, Piso 1",
+		signName = {
+			mainTitle = "Foso Abandonado, Piso 1"
+		}
+	},
+	["jor_ab02.rsw"] = {
+		displayName = "Foso Abandonado, Piso 2",
+		signName = {
+			mainTitle = "Foso Abandonado, Piso 2"
+		}
+	},
+	["jor_back1.rsw"] = {
+		displayName = "Colina de Escamas Congeladas",
+		signName = {
+			mainTitle = "Colina de Escamas Congeladas"
+		}
+	},
+	["jor_back2.rsw"] = {
+		displayName = "Llanura de Escamas Congeladas",
+		signName = {
+			mainTitle = "Llanura de Escamas Congeladas"
+		}
+	},
+	["jor_back3.rsw"] = {
+		displayName = "Glaciar de Escamas Congeladas",
+		signName = {
+			mainTitle = "Glaciar de Escamas Congeladas"
+		}
+	},
+	["jor_dun01.rsw"] = {
+		displayName = "Calidez del Dios Serpiente, Piso 1",
+		signName = {
+			mainTitle = "Calidez del Dios Serpiente, Piso 1"
+		}
+	},
+	["jor_dun02.rsw"] = {
+		displayName = "Calidez del Dios Serpiente, Piso 2",
+		signName = {
+			mainTitle = "Calidez del Dios Serpiente, Piso 2"
+		}
+	},
+	["jor_dun03.rsw"] = {
+		displayName = "Interior del Nido de la Serpiente",
+		signName = {
+			mainTitle = "Interior del Nido de la Serpiente"
+		}
+	},
+	["jor_nest.rsw"] = {
+		displayName = "Nido de la Serpiente",
+		signName = {
+			mainTitle = "Nido de la Serpiente",
+			subTitle = "Escondite de los Regan"
+		}
+	},
+	["jor_que.rsw"] = {
+		displayName = "Calidez Abandonada del Dios Serpiente",
+		signName = {
+			mainTitle = "Calidez Abandonada del Dios Serpiente"
+		}
+	},
+	["jor_tail.rsw"] = {
+		displayName = "Cola congelada",
+		signName = {
+			mainTitle = "Cola congelada"
+		}
 	},
 	["jupe_area1.rsw"] = {
 		displayName = "Zona restringida de Juperos",
@@ -5887,7 +5973,7 @@ mapTbl_string = {
 	["um_fild04.rsw"] = {
 		displayName = "Selva de Hoomga en Umbala",
 		signName = {
-			mainTitle = "Bosque de Hoomga",
+			mainTitle = "Selva de Hoomga",
 			subTitle = "Umbala"
 		}
 	},

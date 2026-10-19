@@ -55,7 +55,7 @@
         "es-ES": "[Est Loveloy]\nLa batalla fue un éxito... pero creo que tendremos que patrullar todos los días. Habla los detalles con el Oficial de Operaciones."
     },
     "qxC7Bw": {
-        "en-US": "Os Occupation Operation",
+        "en-US": "OS Occupation Operation",
         "pt-BR": "Ocupação OS",
         "es-ES": "Ocupación OS"
     },
@@ -180,9 +180,9 @@
         "es-ES": "[Oficial de Operaciones]\nLa tropa inicial aún no ha completado la Ocupación OS. Es imposible entrar ahora."
     },
     "xBC7Bw": {
-        "en-US": "Os Second Search",
-        "pt-BR": "2a Missão OS",
-        "es-ES": "Misión OS 2"
+        "en-US": "OS Search Mission",
+        "pt-BR": "Missão OS",
+        "es-ES": "Misión OS"
     },
     "xRC7Bw": {
         "en-US": "[Operations Officer]\nIt's not operation time yet, so take a break for now.",

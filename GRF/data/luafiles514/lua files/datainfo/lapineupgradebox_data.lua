@@ -21178,6 +21178,10 @@ tblLapineUpgradeBox_data = {
 					1438
 				},
 				{
+					"Thanos_Long_Spear",
+					1496
+				},
+				{
 					"Thanos_Staff",
 					1669
 				},
@@ -21212,6 +21216,148 @@ tblLapineUpgradeBox_data = {
 				{
 					"Thanos_Helm_4",
 					400150
+				}
+			}
+		},
+		Snow_F_Refine = {
+			ItemID = 101187,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Snowflower_Armor",
+					450206
+				},
+				{
+					"Snowflower_Robe",
+					450207
+				},
+				{
+					"Snowflower_Manteau",
+					480159
+				},
+				{
+					"Snowflower_Muffler",
+					480160
+				},
+				{
+					"Snowflower_Boots",
+					470115
+				},
+				{
+					"Snowflower_Shoes",
+					470116
+				}
+			}
+		},
+		Glacier_W_Refine = {
+			ItemID = 101188,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Glacier_Launcher",
+					840009
+				},
+				{
+					"Glacier_Gatling",
+					830013
+				},
+				{
+					"Glacier_Shotgun",
+					820008
+				},
+				{
+					"Glacier_Rifle",
+					810010
+				},
+				{
+					"Glacier_Revolver",
+					800014
+				},
+				{
+					"Glacier_Humma",
+					650025
+				},
+				{
+					"Glacier_Whip",
+					580030
+				},
+				{
+					"Glacier_Violin",
+					570029
+				},
+				{
+					"Glacier_Foxtail",
+					550070
+				},
+				{
+					"Glacier_Wand",
+					550069
+				},
+				{
+					"Glacier_Staff",
+					640033
+				},
+				{
+					"Glacier_Katar",
+					610037
+				},
+				{
+					"Glacier_Book",
+					540049
+				},
+				{
+					"Glacier_Knuckle",
+					560032
+				},
+				{
+					"Glacier_Bow",
+					700052
+				},
+				{
+					"Glacier_B_Knife",
+					510062
+				},
+				{
+					"Glacier_R_Knife",
+					510061
+				},
+				{
+					"Glacier_Mace",
+					590038
+				},
+				{
+					"Glacier_Axe",
+					520017
+				},
+				{
+					"Glacier_T_Axe",
+					620017
+				},
+				{
+					"Glacier_Spear",
+					530025
+				},
+				{
+					"Glacier_Lance",
+					630018
+				},
+				{
+					"Glacier_B_Sword",
+					500050
+				},
+				{
+					"Glacier_Sword",
+					500049
+				},
+				{
+					"Glacier_T_Sword",
+					600027
 				}
 			}
 		}

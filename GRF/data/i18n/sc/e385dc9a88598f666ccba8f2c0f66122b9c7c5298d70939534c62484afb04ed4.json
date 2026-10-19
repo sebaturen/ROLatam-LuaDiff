@@ -6,7 +6,7 @@
     },
     "gckVCg": {
         "en-US": "It seems like you are carrying too many types of items. Let's try again after reducing a little bit.",
-        "pt-BR": "Há itens demais em seu inventário. Por favor, reorganize-o e tente outra vez.",
+        "pt-BR": "Há itens demais em seu inventário. Por favor, reorganize seu inventário e tente outra vez.",
         "es-ES": "Tienes muchos objetos en tu inventario. Reorganiza tu inventario y regresa después."
     },
     "gskVCg": {
@@ -196,7 +196,7 @@
     },
     "p8kVCg": {
         "en-US": "Give up",
-        "pt-BR": "Fica pra próxima",
+        "pt-BR": "Fica pra próxima...",
         "es-ES": "Volveré más tarde..."
     },
     "qMkVCg": {
@@ -241,7 +241,7 @@
     },
     "sMkVCg": {
         "en-US": "[Richard]\nI don't think you have Silit Pong Bottle.",
-        "pt-BR": "[Richard]\nAcho que você não tem Óleo Removedor Especial.",
+        "pt-BR": "[Richard]\nAcho que você não tem o Óleo Removedor Especial.",
         "es-ES": "[Richard]\nNo creo que tengas una Botella de Sale Fácil."
     },
     "sckVCg": {
@@ -256,7 +256,7 @@
     },
     "s8kVCg": {
         "en-US": "[Richard]\nIt looks like you don't have Silit Pong Bottle.",
-        "pt-BR": "[Richard]\nAcho que você não tem Óleo Removedor Especial.",
+        "pt-BR": "[Richard]\nAcho que você não tem o Óleo Removedor Especial.",
         "es-ES": "[Richard]\nNo creo que tengas una Botella de Sale Fácil."
     },
     "tMkVCg": {
@@ -276,7 +276,7 @@
     },
     "t8kVCg": {
         "en-US": "[Richard]\nThe separation proccess is completed. Please come again next time.",
-        "pt-BR": "[Richard]\nO processo de retirada de carta do slot foi finalizado. Retorne para utilizar nosso serviço sempre que precisar.",
+        "pt-BR": "[Richard]\nO processo de retirada de carta em slot foi finalizado. Por favor, use nosso serviço sempre que precisar.",
         "es-ES": "[Richard]\nEsto finaliza el proceso de extracción de carta del slot. Por favor, usa nuestros servicios siempre que lo necesites."
     },
     "uMkVCg": {
@@ -310,7 +310,7 @@
         "es-ES": "1x Lubricante General >> 9x Lubricante Común"
     },
     "vskVCg": {
-        "en-US": "Give up",
+        "en-US": "Give up.",
         "pt-BR": "Sair",
         "es-ES": "Parar"
     },
@@ -361,11 +361,11 @@
     },
     "yMkVCg": {
         "en-US": "Exchange only 1",
-        "pt-BR": "Trocar só 1x",
+        "pt-BR": "Trocar 1x",
         "es-ES": "Cambiar 1x"
     },
     "yckVCg": {
-        "en-US": "[Lubricant exchanger TX140]\nYou already have too many ^0000FF{0}^000000. Please come back after spending some of it.",
+        "en-US": "[Lubricant exchanger TX140]\nYou already have too many ^0000FF{0}^000000. Please come back after spending some time.",
         "pt-BR": "[Lubrificatron TX140]\nVocê está carregando muito ^0000FF{0}^000000. Volte após diminuir a quantidade.",
         "es-ES": "[Lubricatron TX140]\nLa cantidad de ^0000FF{0}^000000 es más de lo que puedes cargar. Vuelve más tarde."
     },
@@ -376,7 +376,7 @@
     },
     "y8kVCg": {
         "en-US": "[Richard]\nWould you like to remove a card from your equipment? We now support a new equipment position as well. Let's take a look.",
-        "pt-BR": "[Richard]\nDeseja remover uma carta do seu equipamento? Agora também oferecemos suporte a uma nova posição. Veja a seguir.",
+        "pt-BR": "[Richard]\nDeseja remover uma carta do seu equipamento? Agora também oferecemos suporte a uma nova posição. Vejamos a seguir.",
         "es-ES": "[Richard]\n¿Quieres extraer una carta de tu equipo? Ahora también ofrecemos soporte para una nueva posición. Vamos a revisarlo."
     },
     "zMkVCg": {
@@ -386,7 +386,7 @@
     },
     "zckVCg": {
         "en-US": "[Richard]\nCome back anytime you need my services. Also, when attempting the process with Zeny, you can retry removing the selected card. Please keep that in mind.",
-        "pt-BR": "[Richard]\nPode me procurar sempre que precisar dos meus serviços. Ah, e lembre-se de que ao fazer uma tentativa usando zenys, você poderá tentar remover a carta selecionada mais uma vez.",
+        "pt-BR": "[Richard]\nPode me procurar sempre que precisar dos meus serviços. Ah, e lembre-se de que ao fazer uma tentativa usando Zeny, você poderá tentar remover a carta selecionada mais uma vez.",
         "es-ES": "[Richard]\nVuelve cuando necesites mis servicios. Ah, al realizar un intento usando zenys, podrás volver a intentar extraer la carta seleccionada. Tenlo en cuenta."
     },
     "zskVCg": {
@@ -501,7 +501,7 @@
     },
     "5MkVCg": {
         "en-US": "It's a special position. Removing cards from this type of equipment requires a considerable amount of materials. So please keep in mind that ^0000FFthe fee will also be doubled^000000.",
-        "pt-BR": "Esta é uma posição especial. Remover cartas desse tipo de equipamento exige uma quantidade considerável de materiais. Por isso, tenha em mente que ^0000FFa taxa também será dobrada^000000.",
+        "pt-BR": "É uma posição especial. Remover cartas desse tipo de equipamento exige uma quantidade considerável de materiais. Por isso, tenha em mente que ^0000FFa taxa também será dobrada^000000.",
         "es-ES": "Es una posición especial. Extraer cartas de este tipo de equipo requiere una cantidad considerable de materiales. Por eso, ten en cuenta que ^0000FFla tarifa también será el doble^000000."
     },
     "5ckVCg": {
@@ -516,7 +516,7 @@
     },
     "58kVCg": {
         "en-US": "[Richard]\nIt seems you don't have enough zeny. You need {0} zeny to pay the fee. Please come back after you have enough.",
-        "pt-BR": "[Richard]\nVocê precisa de {0} zenys para pagar a taxa. Consiga o valor necessário e volte mais tarde.",
+        "pt-BR": "[Richard]\nParece que você não possui {0} zeny o suficiente para pagar a taxa. Consiga o valor necessário e volte mais tarde.",
         "es-ES": "[Richard]\nParece que no tienes suficiente dinero. Necesitas {0} zenys para pagar la tarifa. Consigue la cantidad necesaria y vuelve a visitarme."
     },
     "6MkVCg": {
@@ -530,8 +530,8 @@
         "es-ES": "^FF0000¿Quieres intentarlo otra vez?^000000"
     },
     "6skVCg": {
-        "en-US": "Retry!",
-        "pt-BR": "Tentar de novo!",
+        "en-US": "Retry!!!!",
+        "pt-BR": "Tentar de novo!!!",
         "es-ES": "¡Intentarlo otra vez!"
     },
     "68kVCg": {

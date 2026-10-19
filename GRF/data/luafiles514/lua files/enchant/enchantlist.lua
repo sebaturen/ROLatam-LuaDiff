@@ -5504,6 +5504,2470 @@ Table[19].Slot[2]:SetEnchant(4, "Barmund_Con3", 200)
 Table[19].Slot[2]:SetEnchant(4, "Barmund_Crt3", 300)
 Table[19].Slot[2]:SetEnchant(4, "Barmund_Wis3", 300)
 Table[19].Slot[2]:SetEnchant(4, "Barmund_Sta3", 300)
+Table[26] = CreateEnchantInfo()
+Table[26]:SetSlotOrder(3, 2, 1)
+Table[26]:AddTargetItem("Snowflower_Robe")
+Table[26]:AddTargetItem("Snowflower_Armor")
+Table[26]:SetCondition(0, 0)
+Table[26]:ApproveRandomOption(true)
+Table[26]:SetReset(false, 0, 0)
+Table[26]:SetCaution("Encantamento da Armadura e da Veste da Flor de Neve\nNão é possível reinicializar o encantamento")
+Table[26].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Def", 0, {
+	"Ice_F_Stone_Def",
+	1
+})
+Table[26].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Mdef", 0, {
+	"Ice_F_Stone_Mdef",
+	1
+})
+Table[26].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Ran", 0, {
+	"Ice_F_Stone_Ran",
+	1
+})
+Table[26].Slot[2]:AddPerfectEnchant("Ice_F_Orb_War", 0, {
+	"Ice_F_Stone_War",
+	1
+})
+Table[26].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Mag", 0, {
+	"Ice_F_Stone_Mag",
+	1
+})
+Table[26].Slot[2]:AddPerfectEnchant("Ice_F_Orb_R_Reject", 0, {
+	"Ice_F_Stone_R_Reject",
+	1
+})
+Table[26].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Force", 0, {
+	"Ice_F_Stone_Force",
+	1
+})
+Table[26].Slot[2]:AddPerfectEnchant("Ice_F_Orb_S_Delay", 0, {
+	"Ice_F_Stone_S_Delay",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_1", 0, {
+	"Ice_F_Stone_Skill_1",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_2", 0, {
+	"Ice_F_Stone_Skill_2",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_3", 0, {
+	"Ice_F_Stone_Skill_3",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_4", 0, {
+	"Ice_F_Stone_Skill_4",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_5", 0, {
+	"Ice_F_Stone_Skill_5",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_6", 0, {
+	"Ice_F_Stone_Skill_6",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_7", 0, {
+	"Ice_F_Stone_Skill_7",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_8", 0, {
+	"Ice_F_Stone_Skill_8",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_9", 0, {
+	"Ice_F_Stone_Skill_9",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_10", 0, {
+	"Ice_F_Stone_Skill_10",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_11", 0, {
+	"Ice_F_Stone_Skill_11",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_12", 0, {
+	"Ice_F_Stone_Skill_12",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_13", 0, {
+	"Ice_F_Stone_Skill_13",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_14", 0, {
+	"Ice_F_Stone_Skill_14",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_15", 0, {
+	"Ice_F_Stone_Skill_15",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_16", 0, {
+	"Ice_F_Stone_Skill_16",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_17", 0, {
+	"Ice_F_Stone_Skill_17",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_18", 0, {
+	"Ice_F_Stone_Skill_18",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_19", 0, {
+	"Ice_F_Stone_Skill_19",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_20", 0, {
+	"Ice_F_Stone_Skill_20",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_21", 0, {
+	"Ice_F_Stone_Skill_21",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_22", 0, {
+	"Ice_F_Stone_Skill_22",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_23", 0, {
+	"Ice_F_Stone_Skill_23",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_24", 0, {
+	"Ice_F_Stone_Skill_24",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_25", 0, {
+	"Ice_F_Stone_Skill_25",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_26", 0, {
+	"Ice_F_Stone_Skill_26",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_27", 0, {
+	"Ice_F_Stone_Skill_27",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_28", 0, {
+	"Ice_F_Stone_Skill_28",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_29", 0, {
+	"Ice_F_Stone_Skill_29",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_30", 0, {
+	"Ice_F_Stone_Skill_30",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_31", 0, {
+	"Ice_F_Stone_Skill_31",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_32", 0, {
+	"Ice_F_Stone_Skill_32",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_33", 0, {
+	"Ice_F_Stone_Skill_33",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_34", 0, {
+	"Ice_F_Stone_Skill_34",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_35", 0, {
+	"Ice_F_Stone_Skill_35",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_36", 0, {
+	"Ice_F_Stone_Skill_36",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_37", 0, {
+	"Ice_F_Stone_Skill_37",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_38", 0, {
+	"Ice_F_Stone_Skill_38",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_39", 0, {
+	"Ice_F_Stone_Skill_39",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_40", 0, {
+	"Ice_F_Stone_Skill_40",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_41", 0, {
+	"Ice_F_Stone_Skill_41",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_42", 0, {
+	"Ice_F_Stone_Skill_42",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_43", 0, {
+	"Ice_F_Stone_Skill_43",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_44", 0, {
+	"Ice_F_Stone_Skill_44",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_45", 0, {
+	"Ice_F_Stone_Skill_45",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_46", 0, {
+	"Ice_F_Stone_Skill_46",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_47", 0, {
+	"Ice_F_Stone_Skill_47",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_48", 0, {
+	"Ice_F_Stone_Skill_48",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_49", 0, {
+	"Ice_F_Stone_Skill_49",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_50", 0, {
+	"Ice_F_Stone_Skill_50",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_51", 0, {
+	"Ice_F_Stone_Skill_51",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_52", 0, {
+	"Ice_F_Stone_Skill_52",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_53", 0, {
+	"Ice_F_Stone_Skill_53",
+	1
+})
+Table[26].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Skill_54", 0, {
+	"Ice_F_Stone_Skill_54",
+	1
+})
+Table[27] = CreateEnchantInfo()
+Table[27]:SetSlotOrder(3, 2, 1)
+Table[27]:AddTargetItem("Snowflower_Manteau")
+Table[27]:AddTargetItem("Snowflower_Muffler")
+Table[27]:SetCondition(0, 0)
+Table[27]:ApproveRandomOption(true)
+Table[27]:SetReset(false, 0, 0)
+Table[27]:SetCaution("Encantamento do Manto e da Sobrepeliz da Flor de Neve\nNão é possível reinicializar o encantamento")
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Str", 0, {
+	"Ice_F_Stone_Str",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Dex", 0, {
+	"Ice_F_Stone_Dex",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Agi", 0, {
+	"Ice_F_Stone_Agi",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Int", 0, {
+	"Ice_F_Stone_Int",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Vit", 0, {
+	"Ice_F_Stone_Vit",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_luk", 0, {
+	"Ice_F_Stone_luk",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Def", 0, {
+	"Ice_F_Stone_Def",
+	1
+})
+Table[27].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Mdef", 0, {
+	"Ice_F_Stone_Mdef",
+	1
+})
+Table[27].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Speed", 0, {
+	"Ice_F_Stone_Speed",
+	1
+})
+Table[27].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Caster", 0, {
+	"Ice_F_Stone_Caster",
+	1
+})
+Table[27].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Critical", 0, {
+	"Ice_F_Stone_Critical",
+	1
+})
+Table[27].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Guide", 0, {
+	"Ice_F_Stone_Guide",
+	1
+})
+Table[27].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Above", 0, {
+	"Ice_F_Stone_Above",
+	1
+})
+Table[27].Slot[1]:AddPerfectEnchant("Ice_F_Orb_P_Full", 0, {
+	"Ice_F_Stone_P_Full",
+	1
+})
+Table[27].Slot[1]:AddPerfectEnchant("Ice_F_Orb_M_Counter", 0, {
+	"Ice_F_Stone_M_Counter",
+	1
+})
+Table[28] = CreateEnchantInfo()
+Table[28]:SetSlotOrder(3, 2, 1)
+Table[28]:AddTargetItem("Snowflower_Boots")
+Table[28]:AddTargetItem("Snowflower_Shoes")
+Table[28]:SetCondition(0, 0)
+Table[28]:ApproveRandomOption(true)
+Table[28]:SetReset(false, 0, 0)
+Table[28]:SetCaution("Encantamento das Botas e dos Sapatos da Flor de Neve\nNão é possível reinicializar o encantamento")
+Table[28].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Hp", 0, {
+	"Ice_F_Stone_Hp",
+	1
+})
+Table[28].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Sp", 0, {
+	"Ice_F_Stone_Sp",
+	1
+})
+Table[28].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Heal", 0, {
+	"Ice_F_Stone_Heal",
+	1
+})
+Table[28].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Robust", 0, {
+	"Ice_F_Stone_Robust",
+	1
+})
+Table[28].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Def", 0, {
+	"Ice_F_Stone_Def",
+	1
+})
+Table[28].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Mdef", 0, {
+	"Ice_F_Stone_Mdef",
+	1
+})
+Table[28].Slot[2]:AddPerfectEnchant("Ice_F_Orb_F_Cast", 0, {
+	"Ice_F_Stone_F_Cast",
+	1
+})
+Table[28].Slot[2]:AddPerfectEnchant("Ice_F_Orb_M_F", 0, {
+	"Ice_F_Stone_M_F",
+	1
+})
+Table[28].Slot[2]:AddPerfectEnchant("Ice_F_Orb_P_F", 0, {
+	"Ice_F_Stone_P_F",
+	1
+})
+Table[28].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Un_Vit", 0, {
+	"Ice_F_Stone_Un_Vit",
+	1
+})
+Table[28].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Sp_Int", 0, {
+	"Ice_F_Stone_Sp_Int",
+	1
+})
+Table[28].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Fi_Dex", 0, {
+	"Ice_F_Stone_Fi_Dex",
+	1
+})
+Table[28].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Ov_Str", 0, {
+	"Ice_F_Stone_Ov_Str",
+	1
+})
+Table[28].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Fa_Agi", 0, {
+	"Ice_F_Stone_Fa_Agi",
+	1
+})
+Table[28].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Lu_Luk", 0, {
+	"Ice_F_Stone_Lu_Luk",
+	1
+})
+Table[29] = CreateEnchantInfo()
+Table[29]:SetSlotOrder(3, 2, 1)
+Table[29]:AddTargetItem("Snowflower_Pendant")
+Table[29]:AddTargetItem("Snowflower_Necklace")
+Table[29]:SetCondition(0, 0)
+Table[29]:ApproveRandomOption(true)
+Table[29]:SetReset(false, 0, 0)
+Table[29]:SetCaution("Encantamento do Pingente e do Colar da Flor de Neve\nNão é possível reinicializar o encantamento")
+Table[29].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Str", 0, {
+	"Ice_F_Stone_Str",
+	1
+})
+Table[29].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Dex", 0, {
+	"Ice_F_Stone_Dex",
+	1
+})
+Table[29].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Int", 0, {
+	"Ice_F_Stone_Int",
+	1
+})
+Table[29].Slot[2]:AddPerfectEnchant("Ice_F_Orb_HealHP", 0, {
+	"Ice_F_Stone_HealHP",
+	1
+})
+Table[29].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Life", 0, {
+	"Ice_F_Stone_Life",
+	1
+})
+Table[29].Slot[2]:AddPerfectEnchant("Ice_F_Orb_M_Heal", 0, {
+	"Ice_F_Stone_M_Heal",
+	1
+})
+Table[29].Slot[2]:AddPerfectEnchant("Ice_F_Orb_A_Force", 0, {
+	"Ice_F_Stone_A_Force",
+	1
+})
+Table[29].Slot[1]:AddPerfectEnchant("Ice_F_Orb_A_Delay", 0, {
+	"Ice_F_Stone_A_Delay",
+	1
+})
+Table[29].Slot[1]:AddPerfectEnchant("Ice_F_Orb_E_Archer", 0, {
+	"Ice_F_Stone_E_Archer",
+	1
+})
+Table[29].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Fatal", 0, {
+	"Ice_F_Stone_Fatal",
+	1
+})
+Table[29].Slot[1]:AddPerfectEnchant("Ice_F_Orb_F_Spirit", 0, {
+	"Ice_F_Stone_F_Spirit",
+	1
+})
+Table[29].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Spell", 0, {
+	"Ice_F_Stone_Spell",
+	1
+})
+Table[30] = CreateEnchantInfo()
+Table[30]:SetSlotOrder(3, 2, 1)
+Table[30]:AddTargetItem("Snowflower_Ring")
+Table[30]:AddTargetItem("Snowflower_Earring")
+Table[30]:SetCondition(0, 0)
+Table[30]:ApproveRandomOption(true)
+Table[30]:SetReset(false, 0, 0)
+Table[30]:SetCaution("Encantamento do Anel e do Brinco da Flor de Neve\nNão é possível reinicializar o encantamento")
+Table[30].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Agi", 0, {
+	"Ice_F_Stone_Agi",
+	1
+})
+Table[30].Slot[3]:AddPerfectEnchant("Ice_F_Orb_Vit", 0, {
+	"Ice_F_Stone_Vit",
+	1
+})
+Table[30].Slot[3]:AddPerfectEnchant("Ice_F_Orb_luk", 0, {
+	"Ice_F_Stone_luk",
+	1
+})
+Table[30].Slot[2]:AddPerfectEnchant("Ice_F_Orb_HealSP", 0, {
+	"Ice_F_Stone_HealSP",
+	1
+})
+Table[30].Slot[2]:AddPerfectEnchant("Ice_F_Orb_Soul", 0, {
+	"Ice_F_Stone_Soul",
+	1
+})
+Table[30].Slot[2]:AddPerfectEnchant("Ice_F_Orb_M_Soul", 0, {
+	"Ice_F_Stone_M_Soul",
+	1
+})
+Table[30].Slot[2]:AddPerfectEnchant("Ice_F_Orb_A_Force", 0, {
+	"Ice_F_Stone_A_Force",
+	1
+})
+Table[30].Slot[1]:AddPerfectEnchant("Ice_F_Orb_A_Delay", 0, {
+	"Ice_F_Stone_A_Delay",
+	1
+})
+Table[30].Slot[1]:AddPerfectEnchant("Ice_F_Orb_E_Archer", 0, {
+	"Ice_F_Stone_E_Archer",
+	1
+})
+Table[30].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Fatal", 0, {
+	"Ice_F_Stone_Fatal",
+	1
+})
+Table[30].Slot[1]:AddPerfectEnchant("Ice_F_Orb_F_Spirit", 0, {
+	"Ice_F_Stone_F_Spirit",
+	1
+})
+Table[30].Slot[1]:AddPerfectEnchant("Ice_F_Orb_Spell", 0, {
+	"Ice_F_Stone_Spell",
+	1
+})
+Table[31] = CreateEnchantInfo()
+Table[31]:SetSlotOrder(3, 2, 1, 0)
+Table[31]:AddTargetItem("Glacier_T_Sword")
+Table[31]:AddTargetItem("Glacier_Lance")
+Table[31]:AddTargetItem("Glacier_Sword")
+Table[31]:AddTargetItem("Glacier_B_Sword")
+Table[31]:AddTargetItem("Glacier_Spear")
+Table[31]:AddTargetItem("Glacier_T_Axe")
+Table[31]:AddTargetItem("Glacier_Axe")
+Table[31]:AddTargetItem("Glacier_Mace")
+Table[31]:AddTargetItem("Glacier_M_Mace")
+Table[31]:AddTargetItem("Glacier_R_Knife")
+Table[31]:AddTargetItem("Glacier_B_Knife")
+Table[31]:AddTargetItem("Glacier_Bow")
+Table[31]:AddTargetItem("Glacier_Knuckle")
+Table[31]:AddTargetItem("Glacier_Book")
+Table[31]:AddTargetItem("Glacier_Katar")
+Table[31]:AddTargetItem("Glacier_Wand")
+Table[31]:AddTargetItem("Glacier_Staff")
+Table[31]:AddTargetItem("Glacier_Foxtail")
+Table[31]:AddTargetItem("Glacier_Violin")
+Table[31]:AddTargetItem("Glacier_Whip")
+Table[31]:AddTargetItem("Glacier_Humma")
+Table[31]:AddTargetItem("Glacier_Revolver")
+Table[31]:AddTargetItem("Glacier_Rifle")
+Table[31]:AddTargetItem("Glacier_Shotgun")
+Table[31]:AddTargetItem("Glacier_Gatling")
+Table[31]:AddTargetItem("Glacier_Launcher")
+Table[31]:SetCondition(0, 0)
+Table[31]:ApproveRandomOption(true)
+Table[31]:SetReset(false, 0, 0)
+Table[31]:SetCaution("Encantamento de Armas Glaciais\nNão é possível reinicializar o encantamento")
+Table[31].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_150", 0, {
+	"Snow_F_Stone1",
+	50
+})
+Table[31].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_151", 0, {
+	"Snow_F_Stone1",
+	50
+})
+Table[31].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_152", 0, {
+	"Snow_F_Stone1",
+	50
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_153", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_154", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_155", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_156", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_157", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_158", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_159", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_160", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_161", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_1", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Dragon_Scale",
+	100
+}, {
+	"Dragon_Canine",
+	100
+}, {
+	"Dragon_Train",
+	100
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_2", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Blade_Of_Pinwheel",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_3", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Burning_Heart",
+	100
+}, {
+	"Burning_Horse_Shoe",
+	100
+}, {"Cold_Magma", 100})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_4", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Broken_Needle",
+	150
+}, {
+	"Needle_Of_Alarm",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_5", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sharp_Scale",
+	150
+}, {"Sharp_Leaf", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_6", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"OldShell", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_7", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Shining_Scales",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_8", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Fragment_Of_Crystal",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_9", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Dark_Crystal_Fragment",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_10", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Golden_Feather",
+	150
+}, {
+	"Soft_Feather",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_11", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sturdy_Iron_Piece",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_12", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Dullahan_Armor",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_13", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Mystery_Iron_Bit",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_14", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Old_Steel_Plate",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_15", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Broken_Armor_Piece",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_16", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Grit", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_17", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Broken_Steel_Piece",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_18", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Mystery_Piece",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_19", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Solid_Peeling",
+	150
+}, {
+	"Sharp_Feeler",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_20", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Purple_Solid_Shell",
+	150
+}, {"Hard_Peach", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_21", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Poison_Spore",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_22", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Root_Of_Maneater",
+	150
+}, {
+	"Browny_Root",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_23", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sharp_Scale",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_24", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sharpened_Cuspid",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_25", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Battered_Kettle",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_26", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Reptile_Tongue",
+	100
+}, {
+	"Posionous_Canine",
+	100
+}, {"Ogre_Tooth", 100})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_27", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sticky_Poison",
+	150
+}, {
+	"Poison_Powder",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_28", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Pointed_Scale",
+	150
+}, {
+	"Snake_Deadly_Poison",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_29", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Resin", 150}, {
+	"Sticky_Webfoot",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_30", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Scale_Of_Snakes",
+	150
+}, {
+	"Powder_Of_Butterfly",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_31", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Heart_Of_Mermaid",
+	100
+}, {
+	"Immortal_Heart",
+	100
+}, {
+	"Stone_Heart",
+	100
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_32", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Angel_Magic_Power",
+	150
+}, {
+	"Elder_Pixie's_Beard",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_33", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Old_Magic_Circle",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_34", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"NasariansSoulstone",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_35", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Ice_Piece", 150}, {"Ice_Heart", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_36", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sparkling_Dust",
+	150
+}, {
+	"Dokkaebi_Horn",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_37", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Grit", 150}, {
+	"Starsand_Of_Witch",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_38", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Sparkling_Dust",
+	150
+}, {
+	"Dokkaebi_Horn",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_39", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Transparent_Cloth",
+	100
+}, {
+	"Piece_Of_Black_Cloth",
+	100
+}, {"Soft_Scarf", 100})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_40", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Feather", 150}, {
+	"Angel_Dream",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_41", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Cloud_Piece",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_42", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Tiger_Skin_Panties",
+	100
+}, {
+	"Golden_Hair",
+	100
+}, {
+	"Horn_Of_Hilsrion",
+	100
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_43", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Wild_Boar's_Mane",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_44", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Tooth_Of_Ancient_Fish",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_45", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Round_Shell",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_46", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Short_Daenggie",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_47", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Nail_Of_Mole",
+	150
+}, {
+	"Moustache_Of_Mole",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_48", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Porcupine_Spike",
+	150
+}, {"Tooth_Of_", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_49", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Claw_Of_Desert_Wolf",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_50", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Colorful_Shell",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_51", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Lantern", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_52", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Brilliant_Jelly",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_53", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Wing_Of_Red_Bat",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_54", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Starsand_Of_Witch",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_55", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Golden_Feather",
+	150
+}, {
+	"Golden_Hair",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_56", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Dark_Crystal_Fragment",
+	100
+}, {
+	"Rune_Of_Darkness",
+	100
+}, {
+	"Piece_Of_Darkness",
+	100
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_57", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Black_Bear's_Skin",
+	150
+}, {
+	"Piece_Of_Black_Cloth",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_58", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Skel_Bone", 150}, {"Mementos", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_59", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Burning_Horse_Shoe",
+	150
+}, {
+	"WornRevolver",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_60", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"CrudeAmmo", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_61", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"BrownMuffler",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_62", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"BrokenShotgun",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_63", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"BanditsScarf",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_64", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Broken_Shuriken",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_65", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"SpritJewel", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_66", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Snowball", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_67", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Armlet_Of_Prisoner",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_68", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Rust_Suriken",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_69", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Thin_Stem", 150}, {
+	"Tough_Scalelike_Stem",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_70", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Solid_Twig", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_71", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Feather", 300})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_72", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Feather_Of_Birds",
+	150
+}, {
+	"Bill_Of_Birds",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_73", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Wild_Boar's_Mane",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_74", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Jejellopy", 150}, {
+	"Large_Jellopy",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_75", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Poison_Powder",
+	300
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_76", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Mud_Lump", 150}, {"Hard_Mud", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_77", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Mud_Lump", 150}, {"Hard_Mud", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_78", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Bee_Sting", 150}, {
+	"Cactus_Needle",
+	150
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_79", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {
+	"Pumpkin_Head",
+	150
+}, {"Live_Coal", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_80", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	25
+}, {
+	"Snow_F_Stone3",
+	25
+}, {"Snowball", 150}, {"Ice_Piece", 150})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_156", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_157", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_158", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_159", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_160", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[1]:AddPerfectEnchant("Glacier_F_Orb_161", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_81", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_82", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_83", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_84", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_85", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_86", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_87", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_88", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_89", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_90", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_91", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_92", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_93", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_94", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_95", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_96", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_97", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_98", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_99", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_100", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_101", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_102", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_103", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_104", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_105", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_106", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_107", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_108", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_109", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_110", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_111", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_112", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_113", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_114", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_115", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_116", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_117", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_118", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_119", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_120", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_121", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_122", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_123", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_124", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_125", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_126", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_127", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_128", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_129", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_130", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_131", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_132", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_133", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_134", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_135", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_136", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_137", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_138", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_139", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_140", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_141", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_142", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_143", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_144", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_145", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_146", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_147", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_148", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_149", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_156", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_157", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_158", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_159", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_160", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_161", 0, {
+	"Snow_F_Stone2",
+	20
+}, {
+	"Snow_F_Stone3",
+	10
+})
 Table[32] = CreateEnchantInfo()
 Table[32]:SetSlotOrder(3, 2)
 Table[32]:AddTargetItem("Thanos_Helm1_LT")
@@ -5780,4 +8244,2532 @@ Table[32].Slot[2]:AddUpgradeEnchant("Gray_Fight2", "Gray_Fight3", 0, {
 }, {
 	"Sakray_Regret",
 	10
+})
+Table[47] = CreateEnchantInfo()
+Table[47]:SetSlotOrder(3, 2, 1)
+Table[47]:AddTargetItem("D_Glacier_T_Sword")
+Table[47]:AddTargetItem("D_Glacier_Lance")
+Table[47]:AddTargetItem("D_Glacier_Sword")
+Table[47]:AddTargetItem("D_Glacier_B_Sword")
+Table[47]:AddTargetItem("D_Glacier_Spear")
+Table[47]:AddTargetItem("D_Glacier_T_Axe")
+Table[47]:AddTargetItem("D_Glacier_Axe")
+Table[47]:AddTargetItem("D_Glacier_Mace")
+Table[47]:AddTargetItem("D_Glacier_M_Mace")
+Table[47]:AddTargetItem("D_Glacier_R_Knife")
+Table[47]:AddTargetItem("D_Glacier_B_Knife")
+Table[47]:AddTargetItem("D_Glacier_Bow")
+Table[47]:AddTargetItem("D_Glacier_Knuckle")
+Table[47]:AddTargetItem("D_Glacier_Book")
+Table[47]:AddTargetItem("D_Glacier_Katar")
+Table[47]:AddTargetItem("D_Glacier_Wand")
+Table[47]:AddTargetItem("D_Glacier_Staff")
+Table[47]:AddTargetItem("D_Glacier_Foxtail")
+Table[47]:AddTargetItem("D_Glacier_Violin")
+Table[47]:AddTargetItem("D_Glacier_Whip")
+Table[47]:AddTargetItem("D_Glacier_Humma")
+Table[47]:AddTargetItem("D_Glacier_Revolver")
+Table[47]:AddTargetItem("D_Glacier_Rifle")
+Table[47]:AddTargetItem("D_Glacier_Shotgun")
+Table[47]:AddTargetItem("D_Glacier_Gatling")
+Table[47]:AddTargetItem("D_Glacier_Launcher")
+Table[47]:SetCondition(0, 0)
+Table[47]:ApproveRandomOption(true)
+Table[47]:SetReset(false, 0, 0)
+Table[47]:SetCaution("Encantamento de Arma do Glaciar Sombrio\nNão é possível redefinir o encantamento")
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_1", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_2", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_3", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_4", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_5", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_6", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_7", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_8", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_9", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_10", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_11", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_12", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_13", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_14", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_15", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_16", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_17", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_18", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_19", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_20", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_21", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_22", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_23", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_24", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_25", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_26", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_27", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_28", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_29", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_30", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_31", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_32", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_33", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_34", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_35", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_36", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_37", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_38", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_39", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_40", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_41", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_42", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_43", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_44", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_45", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_46", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_47", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_48", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_49", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_50", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_51", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_52", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_53", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_54", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_55", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_56", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_57", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_58", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_59", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_60", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_61", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_62", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_63", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_64", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_65", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_66", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_67", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_68", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_69", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_70", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_71", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_72", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_73", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_74", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_75", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_76", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_77", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_78", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_79", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_80", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_81", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_82", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_83", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_84", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_85", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_86", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_87", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_88", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_89", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_90", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_91", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_92", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_93", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_94", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_95", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_96", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_97", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_98", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_99", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_100", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_101", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_102", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_103", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_104", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_105", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_106", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_107", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_108", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_109", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_110", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_111", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_112", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_113", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_114", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_115", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_116", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_117", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_118", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_119", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_120", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_121", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_122", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_123", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_124", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_125", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_126", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_127", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_128", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_129", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_130", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_131", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_132", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_133", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_134", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_135", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_136", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_137", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_138", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_139", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_140", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_141", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_142", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_143", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_144", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_145", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_146", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_147", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_148", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_149", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_162", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_163", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_164", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_165", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_166", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[3]:AddPerfectEnchant("Glacier_F_Orb_167", 0, {
+	"EP19_S_F_1_Extract",
+	10
+}, {
+	"EP19_S_F_2_Extract",
+	15
+}, {
+	"EP19_S_F_3_Extract",
+	25
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_81", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_82", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_83", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_84", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_85", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_86", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_87", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_88", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_89", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_90", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_91", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_92", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_93", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_94", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_95", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_96", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_97", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_98", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_99", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_100", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_101", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_102", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_103", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_104", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_105", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_106", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_107", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_108", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_109", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_110", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_111", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_112", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_113", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_114", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_115", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_116", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_117", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_118", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_119", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_120", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_121", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_122", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_123", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_124", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_125", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_126", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_127", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_128", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_129", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_130", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_131", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_132", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_133", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_134", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_135", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_136", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_137", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_138", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_139", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_140", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_141", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_142", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_143", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_144", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_145", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_146", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_147", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_148", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_149", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_162", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_163", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_164", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_165", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_166", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[2]:AddPerfectEnchant("Glacier_F_Orb_167", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	35
+})
+Table[47].Slot[1]:AddPerfectEnchant("Physical_Grade_1", 0, {
+	"EP19_S_F_1_Extract",
+	30
+}, {
+	"EP19_S_F_2_Extract",
+	40
+}, {
+	"EP19_S_F_3_Extract",
+	60
+}, {
+	"EP19_Gla_Extract",
+	50
+})
+Table[47].Slot[1]:AddPerfectEnchant("Magical_Grade_1", 0, {
+	"EP19_S_F_1_Extract",
+	30
+}, {
+	"EP19_S_F_2_Extract",
+	40
+}, {
+	"EP19_S_F_3_Extract",
+	60
+}, {
+	"EP19_Gla_Extract",
+	50
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Physical_Grade_1", "Physical_Grade_2", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	30
+}, {
+	"EP19_Gla_Extract",
+	25
+}, {
+	"EP19_D_P_Crystal",
+	5
+}, {
+	"EP19_N_P_Crystal",
+	5
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Physical_Grade_2", "Physical_Grade_3", 0, {
+	"EP19_S_F_1_Extract",
+	20
+}, {
+	"EP19_S_F_2_Extract",
+	30
+}, {
+	"EP19_S_F_3_Extract",
+	40
+}, {
+	"EP19_Gla_Extract",
+	35
+}, {
+	"EP19_D_P_Crystal",
+	7
+}, {
+	"EP19_N_P_Crystal",
+	7
+}, {
+	"EP19_D_P_Stone",
+	1
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Physical_Grade_3", "Physical_Grade_4", 0, {
+	"EP19_S_F_1_Extract",
+	30
+}, {
+	"EP19_S_F_2_Extract",
+	40
+}, {
+	"EP19_S_F_3_Extract",
+	50
+}, {
+	"EP19_Gla_Extract",
+	45
+}, {
+	"EP19_D_P_Crystal",
+	10
+}, {
+	"EP19_N_P_Crystal",
+	10
+}, {
+	"EP19_D_P_Stone",
+	2
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Physical_Grade_4", "Physical_Grade_5", 0, {
+	"EP19_S_F_1_Extract",
+	40
+}, {
+	"EP19_S_F_2_Extract",
+	50
+}, {
+	"EP19_S_F_3_Extract",
+	65
+}, {
+	"EP19_Gla_Extract",
+	70
+}, {
+	"EP19_D_P_Crystal",
+	15
+}, {
+	"EP19_N_P_Crystal",
+	15
+}, {
+	"EP19_D_P_Stone",
+	3
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Magical_Grade_1", "Magical_Grade_2", 0, {
+	"EP19_S_F_1_Extract",
+	15
+}, {
+	"EP19_S_F_2_Extract",
+	20
+}, {
+	"EP19_S_F_3_Extract",
+	30
+}, {
+	"EP19_Gla_Extract",
+	25
+}, {
+	"EP19_D_P_Crystal",
+	5
+}, {
+	"EP19_N_P_Crystal",
+	5
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Magical_Grade_2", "Magical_Grade_3", 0, {
+	"EP19_S_F_1_Extract",
+	20
+}, {
+	"EP19_S_F_2_Extract",
+	30
+}, {
+	"EP19_S_F_3_Extract",
+	40
+}, {
+	"EP19_Gla_Extract",
+	35
+}, {
+	"EP19_D_P_Crystal",
+	7
+}, {
+	"EP19_N_P_Crystal",
+	7
+}, {
+	"EP19_D_P_Stone",
+	1
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Magical_Grade_3", "Magical_Grade_4", 0, {
+	"EP19_S_F_1_Extract",
+	30
+}, {
+	"EP19_S_F_2_Extract",
+	40
+}, {
+	"EP19_S_F_3_Extract",
+	50
+}, {
+	"EP19_Gla_Extract",
+	45
+}, {
+	"EP19_D_P_Crystal",
+	10
+}, {
+	"EP19_N_P_Crystal",
+	10
+}, {
+	"EP19_D_P_Stone",
+	2
+})
+Table[47].Slot[1]:AddUpgradeEnchant("Magical_Grade_4", "Magical_Grade_5", 0, {
+	"EP19_S_F_1_Extract",
+	40
+}, {
+	"EP19_S_F_2_Extract",
+	50
+}, {
+	"EP19_S_F_3_Extract",
+	65
+}, {
+	"EP19_Gla_Extract",
+	70
+}, {
+	"EP19_D_P_Crystal",
+	15
+}, {
+	"EP19_N_P_Crystal",
+	15
+}, {
+	"EP19_D_P_Stone",
+	3
 })

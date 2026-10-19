@@ -715,8 +715,6 @@
         "es-ES": "ssssEl gremio [{0}] conquistó el castillo [Nerius]"
     },
     "T4JrAg": {
-        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
-        "es-ES": "ssssEl clan [{0}] ha conquistado el castillo [{1}]"
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]"
     }
 }

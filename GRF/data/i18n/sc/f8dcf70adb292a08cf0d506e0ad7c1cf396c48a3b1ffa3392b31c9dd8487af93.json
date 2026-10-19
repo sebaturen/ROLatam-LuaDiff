@@ -2090,163 +2090,99 @@
         "es-ES": "Comerciante de Amatsu"
     },
     "Qr/RAg": {
-        "en-US": "[Captain of Smuggler ship]\nBut...\nYou don't even have 200 Zeny.\nI cannot help you in your condition.",
-        "pt-BR": "[Capitão do Navio Pirata]\nMas...\nVocê não tem nem 200 Zeny.\nNão posso te ajudar nas suas condições.",
-        "es-ES": "[Capitán del barco contrabandista]\nPero...\nNi siquiera tienes 200 Zeny.\nNo puedo ayudarte en esas condiciones."
+        "en-US": "[Captain of Smuggler ship]\nBut...\nYou don't even have 200 Zeny.\nI cannot help you in your condition."
     },
     "Q7/RAg": {
-        "en-US": "[{0}]\nI am {0}. I do not have a decent job but I am not here to steal something.",
-        "pt-BR": "[{0}]\nEu sou {0}. Eu não tenho uma profissão decente, mas não estou aqui para roubar nada.",
-        "es-ES": "[{0}]\nSoy {0}. No tengo un trabajo decente, pero no estoy aquí para robar algo."
+        "en-US": "[{0}]\nI am {0}. I do not have a decent job but I am not here to steal something."
     },
     "RL/RAg": {
-        "en-US": "[A man with Ninja outfit]\nYou do not need to introduce me\nIf you are not here to steal something, then why are you here?",
-        "pt-BR": "[Um homem com trajes de Ninja]\nVocê não precisa se apresentar a mim.\nSe você não está aqui para roubar nada, então por que está aqui?",
-        "es-ES": "[Un hombre con atuendo de ninja]\nNo necesitas presentarte.\nSi no estás aquí para robar algo, ¿entonces por qué estás aquí?"
+        "en-US": "[A man with Ninja outfit]\nYou do not need to introduce me\nIf you are not here to steal something, then why are you here?"
     },
     "Rb/RAg": {
-        "en-US": "[Cougar-guy]\nDo you know the place called Einbroch?\nThere is a member of our guild who is called Red wildcat Joe",
-        "pt-BR": "[Cougar]\nVocê conhece um lugar chamado Einbroch?\nHá um membro da nossa guilda que se chama Joe Lince Vermelho.",
-        "es-ES": "[Tipo Puma]\n¿Conoces el lugar llamado Einbroch?\nHay un miembro de nuestro gremio que se llama Leopardo Rojo Joe"
+        "en-US": "[Cougar-guy]\nDo you know the place called Einbroch?\nThere is a member of our guild who is called Red wildcat Joe"
     },
     "Rr/RAg": {
-        "en-US": "[Cougar-guy]\nIf I do it by rule, I should block you mouth...\n^000099(quite for moment)^000000\nI shall let you go piecefully.",
-        "pt-BR": "[Cougar]\nSe eu seguisse as regras, deveria calar a sua boca...\n^000099(silêncio por um momento)^000000\nVou deixar você ir em paz.",
-        "es-ES": "[Tipo Puma]\nSi lo hago según las reglas, debería taparte la boca...\n^000099(silencio por un momento)^000000\nTe dejaré ir en paz."
+        "en-US": "[Cougar-guy]\nIf I do it by rule, I should block you mouth...\n^000099(quite for moment)^000000\nI shall let you go piecefully."
     },
     "R7/RAg": {
-        "en-US": "[Cougar-guy]\nThere are no such a spell. I will use the item called ^000099Green Butterfly Wing^000000.",
-        "pt-BR": "[Cougar]\nNão existe tal feitiço. Vou usar o item chamado ^000099Asas de Borboleta Verde^000000.",
-        "es-ES": "[Tipo Puma]\nNo existe tal hechizo. Usaré el objeto llamado ^000099Ala de Mariposa Verde^000000."
+        "en-US": "[Cougar-guy]\nThere are no such a spell. I will use the item called ^000099Green Butterfly Wing^000000."
     },
     "SL/RAg": {
-        "en-US": "[Cougar-guy]\nIt doesn't matter what's written\nIt's empty note anyway.\nGood job that you didn't open the seal while you are bring it.",
-        "pt-BR": "[Cougar]\nNão importa o que está escrito.\nÉ um pergaminho em branco de qualquer forma.\nAinda bem que você não abriu o selo enquanto o trazia.",
-        "es-ES": "[Tipo Puma]\nNo importa lo que esté escrito.\nDe todos modos, la nota está vacía.\nBuen trabajo no haber abierto el sello mientras la traías."
+        "en-US": "[Cougar-guy]\nIt doesn't matter what's written\nIt's empty note anyway.\nGood job that you didn't open the seal while you are bring it."
     },
     "Sb/RAg": {
-        "en-US": "[Cougar-guy]\nHaha...\nYou look good on that costume.",
-        "pt-BR": "[Cougar]\nHaha...\nEssa fantasia cai bem em você.",
-        "es-ES": "[Tipo Puma]\nJaja...\nTe queda bien ese disfraz."
+        "en-US": "[Cougar-guy]\nHaha...\nYou look good on that costume."
     },
     "Sr/RAg": {
-        "en-US": "[{0}]\n Ha!!",
-        "pt-BR": "[{0}]\nHa!!",
-        "es-ES": "[{0}]\n¡Ja!!"
+        "en-US": "[{0}]\n Ha!!"
     },
     "S7/RAg": {
-        "en-US": "[{0}]\n ...H...e...lp...me....",
-        "pt-BR": "[{0}]\n...M...e...A...j...u...d...a...",
-        "es-ES": "[{0}]\n...A...y...ú...d...a...m...e...."
+        "en-US": "[{0}]\n ...H...e...lp...me...."
     },
     "TL/RAg": {
-        "en-US": "^000099He winces at\nwhat I said Cougar-guy^000000",
-        "pt-BR": "^000099Ele recuou diante\ndo que eu disse, Cougar^000000",
-        "es-ES": "^000099Él se estremece ante\nlo que dije, Puma^000000"
+        "en-US": "^000099He winces at\nwhat I said Cougar-guy^000000"
     },
     "Tb/RAg": {
-        "en-US": "[Red Wildcat Joe]\nIt's very quickly.",
-        "pt-BR": "[Joe Lince Vermelho]\nFoi muito rápido.",
-        "es-ES": "[Leopardo Rojo Joe]\nEs muy rápido."
+        "en-US": "[Red Wildcat Joe]\nIt's very quickly."
     },
     "Tr/RAg": {
-        "en-US": "[Red Wildcat Joe]\nThis is the certificate I wrote in advance.\nI wrote inside that you are now our member. Take this and go back to Cougar-guy.",
-        "pt-BR": "[Joe Lince Vermelho]\nEste é o certificado que escrevi com antecedência.\nEscrevi nele que agora você é nosso membro. Pegue isto e volte para o Cougar.",
-        "es-ES": "[Leopardo Rojo Joe]\nEste es el certificado que escribí de antemano.\nEscribí dentro que ahora eres nuestro miembro. Toma esto y vuelve con Tipo Puma."
+        "en-US": "[Red Wildcat Joe]\nThis is the certificate I wrote in advance.\nI wrote inside that you are now our member. Take this and go back to Cougar-guy."
     },
     "T7/RAg": {
-        "en-US": "[Red Wildcat Joe]\nHmmmm...\nYou don't have to be shy to get help.",
-        "pt-BR": "[Joe Lince Vermelho]\nHmmmm...\nVocê não precisa ter vergonha de pedir ajuda.",
-        "es-ES": "[Leopardo Rojo Joe]\nMmm...\nNo tienes que ser tímido para recibir ayuda."
+        "en-US": "[Red Wildcat Joe]\nHmmmm...\nYou don't have to be shy to get help."
     },
     "UL/RAg": {
-        "en-US": "[Akaki]\num...\nThere must be a spirit\nwho need you to come here\nlead to this dark alley.\nGo to the way of patient.",
-        "pt-BR": "[Akaki]\nhum...\nDeve haver um espírito\nque precisava que você viesse até aqui,\nte trazendo para este beco escuro.\nSiga pelo caminho da paciência.",
-        "es-ES": "[Akaki]\nem...\nDebe haber un espíritu\nque necesita que vengas aquí\ny te guíe a este callejón oscuro.\nVe por el camino de la paciencia."
+        "en-US": "[Akaki]\num...\nThere must be a spirit\nwho need you to come here\nlead to this dark alley.\nGo to the way of patient."
     },
     "Ub/RAg": {
-        "en-US": "[Kaibara]\nFor a ^FF0000Murasame^000000,\nI ask that you bring me\n^3355FF10 Aquamarines^000000,\n^3355FF30 Steel^000000, and\n^3355FF48,000 zeny^000000.",
-        "pt-BR": "[Kaibara]\nPara uma ^FF0000Murasame^000000,\neu peço que você me traga\n^3355FF10 Aquamarinas^000000,\n^3355FF30 Aços^000000 e\n^3355FF48.000 Zeny^000000.",
-        "es-ES": "[Kaibara]\nPara una ^FF0000Murasame^000000,\nte pido que me traigas\n^3355FF10 aguamarinas^000000,\n^3355FF30 acero^000000, y\n^3355FF48,000 zeny^000000."
+        "en-US": "[Kaibara]\nFor a ^FF0000Murasame^000000,\nI ask that you bring me\n^3355FF10 Aquamarines^000000,\n^3355FF30 Steel^000000, and\n^3355FF48,000 zeny^000000."
     },
     "Ur/RAg": {
-        "en-US": "[Kaibara]\nIn order to Make Murasame\n^FF000030 Steels,^000000\n^FF000010 Aquamarines^000000,\nand ^FF000048,000 Zeny^000000\nis required. Remember this and\nPlease check and come back.",
-        "pt-BR": "[Kaibara]\nPara fazer a Murasame,\nsão necessários\n^FF000030 Aços^000000,\n^FF000010 Aquamarinas^000000\ne ^FF000048.000 Zeny^000000. Lembre-se disso,\nconfira e volte depois.",
-        "es-ES": "[Kaibara]\nPara fabricar Murasame\nse requieren\n^FF000030 aceros,^000000\n^FF000010 aguamarinas^000000,\ny ^FF000048,000 Zeny^000000.\nRecuerda esto y\nrevísalo y vuelve."
+        "en-US": "[Kaibara]\nIn order to Make Murasame\n^FF000030 Steels,^000000\n^FF000010 Aquamarines^000000,\nand ^FF000048,000 Zeny^000000\nis required. Remember this and\nPlease check and come back."
     },
     "U7/RAg": {
-        "en-US": "[Tetsu]\nMm, good.\nI checked every\nmaterials and moeny.\nHere is the completed\nHuuma Giant Wheel Shuriken.",
-        "pt-BR": "[Tetsu]\nMm, ótimo.\nVerifiquei todos os\nmateriais e o dinheiro.\nAqui está a pronta\nShuriken Gigante Huuma.",
-        "es-ES": "[Tetsu]\nMm, bien.\nRevisé todos\nlos materiales y el dinero.\nAquí está el\nHuuma Giant Wheel Shuriken completado."
+        "en-US": "[Tetsu]\nMm, good.\nI checked every\nmaterials and moeny.\nHere is the completed\nHuuma Giant Wheel Shuriken."
     },
     "VL/RAg": {
-        "en-US": "[Boshu]\nBut now as I look at\nyour shield, my deepest\nspirit of creation\nis on fire.",
-        "pt-BR": "[Boshu]\nMas agora, olhando para\no seu escudo, as chamas\ndo meu espírito de criação\nse acenderam.",
-        "es-ES": "[Boshu]\nPero ahora que miro\ntu escudo, mi más profundo\nespíritu de creación\nestá encendido."
+        "en-US": "[Boshu]\nBut now as I look at\nyour shield, my deepest\nspirit of creation\nis on fire."
     },
     "Vb/RAg": {
-        "en-US": "[Boshu]\nOh Good.\nThen you should leave now.\nBring me the item called ^FF0000Guard[1]^000000\namd come back to me.",
-        "pt-BR": "[Boshu]\nAh, que bom.\nEntão você já pode ir.\nTraga-me um item chamado ^FF0000Vembrassa[1]^000000\ne volte aqui.",
-        "es-ES": "[Boshu]\nOh, bien.\nEntonces deberías irte ahora.\nTráeme el objeto llamado ^FF0000Vambrace[1]^000000\ny vuelve conmigo."
+        "en-US": "[Boshu]\nOh Good.\nThen you should leave now.\nBring me the item called ^FF0000Guard[1]^000000\namd come back to me."
     },
     "Vr/RAg": {
-        "en-US": "[Boshu]\nAh, I want to use this\nto make a hole in it.",
-        "pt-BR": "[Boshu]\nAh, eu quero usar isto\npara fazer um encaixe nele.",
-        "es-ES": "[Boshu]\nAh, quiero usar esto\npara hacerle un agujero."
+        "en-US": "[Boshu]\nAh, I want to use this\nto make a hole in it."
     },
     "V7/RAg": {
-        "en-US": "[Batshu]\nI am making guards to\nthe ninjas\nI am Murata Batshu.",
-        "pt-BR": "[Batshu]\nEu faço proteções para\nos ninjas.\nEu sou Murata Batshu.",
-        "es-ES": "[Batshu]\nEstoy haciendo guardas para\nlos ninjas.\nSoy Murata Batshu."
+        "en-US": "[Batshu]\nI am making guards to\nthe ninjas\nI am Murata Batshu."
     },
     "WL/RAg": {
-        "en-US": "[Batshu]\nBut the guard I made\nrequires a minimum requirement.\nso it is not possible to\nequip for you.",
-        "pt-BR": "[Batshu]\nMas a proteção que eu fiz\nexige requisitos mínimos,\nentão não é possível\nque você a equipe.",
-        "es-ES": "[Batshu]\nPero la guarda que hice\nrequiere un requisito mínimo,\nasí que no es posible\nque la equipes."
+        "en-US": "[Batshu]\nBut the guard I made\nrequires a minimum requirement.\nso it is not possible to\nequip for you."
     },
     "Wb/RAg": {
-        "en-US": "[Batshu]\nI knew it!! I see now~!\nthe all guard items can\nmagical defense like\nthis item!!",
-        "pt-BR": "[Batshu]\nEu sabia!! Agora eu entendo~!\nTodos os itens de proteção podem\nter defesa mágica\ncomo este item!!",
-        "es-ES": "[Batshu]\n¡Lo sabía! ¡Ahora veo~!\n¡Todos los objetos de guarda pueden\ntener defensa mágica como\neste objeto!"
+        "en-US": "[Batshu]\nI knew it!! I see now~!\nthe all guard items can\nmagical defense like\nthis item!!"
     },
     "Wr/RAg": {
-        "en-US": "[Batshu]\nLately I am studying on\ngiving magical skill on the guards.",
-        "pt-BR": "[Batshu]\nUltimamente tenho estudado\ncomo adicionar habilidades mágicas às proteções.",
-        "es-ES": "[Batshu]\nÚltimamente estoy estudiando\ncómo dar habilidad mágica a las guardas."
+        "en-US": "[Batshu]\nLately I am studying on\ngiving magical skill on the guards."
     },
     "W7/RAg": {
-        "en-US": "[Batshu]\nbut luckily\nyou showed me the\nMirror_Shield, and\nmy spirit of creation\nis on fire.",
-        "pt-BR": "[Batshu]\nMas por sorte\nvocê me mostrou o\nEscudo Espelhado, e as chamas\ndo meu espírito de criação\nse acenderam.",
-        "es-ES": "[Batshu]\nPero por suerte\nme mostraste el\nMirror_Shield, y\nmi espíritu de creación\nestá encendido."
+        "en-US": "[Batshu]\nbut luckily\nyou showed me the\nMirror_Shield, and\nmy spirit of creation\nis on fire."
     },
     "XL/RAg": {
-        "en-US": "[Batshu]\nDo you want to\nenchant the Arm guard\nwith that metarials?",
-        "pt-BR": "[Batshu]\nVocê quer\nencantar a Proteção de Braço\ncom esses materiais?",
-        "es-ES": "[Batshu]\n¿Quieres\nencantar la guarda de brazo\ncon esos materiales?"
+        "en-US": "[Batshu]\nDo you want to\nenchant the Arm guard\nwith that metarials?"
     },
     "Xb/RAg": {
-        "en-US": "[Batshu]\nI am also stopped creating guards\nand collecting guard items\nat the moment.\nLately I am studying on\ngiving magical skill on the guards.",
-        "pt-BR": "[Batshu]\nEu também parei de criar proteções\ne de coletar itens de proteção\npor enquanto.\nUltimamente tenho estudado\ncomo adicionar habilidades mágicas às proteções.",
-        "es-ES": "[Batshu]\nTambién he dejado de crear guardas\ny de recolectar objetos de guarda\npor el momento.\nÚltimamente estoy estudiando\ncómo dar habilidad mágica a las guardas."
+        "en-US": "[Batshu]\nI am also stopped creating guards\nand collecting guard items\nat the moment.\nLately I am studying on\ngiving magical skill on the guards."
     },
     "Xr/RAg": {
-        "en-US": "[Batshu]\nI am just wondering if you know\nthe item called Mirror Shield\nfrom the country over the sea?\nI am trying to get the item\nbut i cannot get it.",
-        "pt-BR": "[Batshu]\nEstou apenas pensando se você conhece\no item chamado Escudo Espelhado\ndaquela nação além-mar?\nEstou tentando conseguir esse item,\nmas não consigo.",
-        "es-ES": "[Batshu]\nMe preguntaba si conoces\nel objeto llamado Mirror Shield\ndel país al otro lado del mar.\nEstoy intentando conseguir ese objeto,\npero no puedo obtenerlo."
+        "en-US": "[Batshu]\nI am just wondering if you know\nthe item called Mirror Shield\nfrom the country over the sea?\nI am trying to get the item\nbut i cannot get it."
     },
     "X7/RAg": {
-        "en-US": "[Batshu]\nWhat do you think? Would\nyou like to try?",
-        "pt-BR": "[Batshu]\nO que você acha? Gostaria\nde tentar?",
-        "es-ES": "[Batshu]\n¿Qué te parece? ¿Te\ngustaría intentarlo?"
+        "en-US": "[Batshu]\nWhat do you think? Would\nyou like to try?"
     },
     "YL/RAg": {
-        "en-US": "[Batshu]\nMaterials are 1 Arm Guard,\n1 Mirror_Shield and\n120,000 Zeny\n to get you a enchanted\nArm Guard.",
-        "pt-BR": "[Batshu]\nOs materiais são 1 Proteção de Braço,\n1 Escudo Espelhado e\n120.000 Zeny\npara conseguir uma Proteção de Braço\nencantada para você.",
-        "es-ES": "[Batshu]\nLos materiales son 1 Arm Guard,\n1 Mirror_Shield y\n120,000 Zeny\npara conseguirte una\nArm Guard encantada."
+        "en-US": "[Batshu]\nMaterials are 1 Arm Guard,\n1 Mirror_Shield and\n120,000 Zeny\n to get you a enchanted\nArm Guard."
     },
     "Yb/RAg": {
-        "en-US": "[Toshu]\nI see. If you happen\nto change your mind,\nplease come back\nand ask me again.",
-        "pt-BR": "[Toshu]\nEntendo. Se você acabar\nmudando de ideia,\npor favor, volte\ne fale comigo de novo.",
-        "es-ES": "[Toshu]\nYa veo. Si llegas\na cambiar de opinión,\npor favor vuelve\ny pregúntame de nuevo."
+        "en-US": "[Toshu]\nI see. If you happen\nto change your mind,\nplease come back\nand ask me again."
     }
 }

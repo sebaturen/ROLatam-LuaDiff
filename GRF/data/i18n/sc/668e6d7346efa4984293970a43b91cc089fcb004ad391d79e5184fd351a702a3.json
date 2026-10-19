@@ -1,0 +1,207 @@
+{
+    "QCAUDg": {
+        "en-US": "Airship Wyloh",
+        "pt-BR": "Aeronave Wailho",
+        "es-ES": "Aeronave Wailho"
+    },
+    "QSAUDg": {
+        "en-US": "Delete Cooldown",
+        "pt-BR": "Remover recarga",
+        "es-ES": "Eliminar enfriamiento"
+    },
+    "QiAUDg": {
+        "en-US": "Scenario Check Setup",
+        "pt-BR": "Configuração para verificação de cenário",
+        "es-ES": "Configuración para verificar el escenario"
+    },
+    "QyAUDg": {
+        "en-US": "Delete Hunting",
+        "pt-BR": "Remover caça",
+        "es-ES": "Eliminar cacería"
+    },
+    "RCAUDg": {
+        "en-US": "Delete Prerequisite/Cooldown/Hunting",
+        "pt-BR": "Remover pré-requisito/recarga/caça",
+        "es-ES": "Eliminar requisito previo/enfriamiento/cacería"
+    },
+    "RSAUDg": {
+        "en-US": "^0000FFThere doesn't seem to be any entrance leading into the airship. It looks like the only way to infiltrate it is by using the rope that seems to be securing the airship.^000000",
+        "pt-BR": "^0000FFNão parece haver nenhuma entrada que leve à aeronave. Parece que a única forma de se infiltrar é usando a corda que aparentemente serve para prender a aeronave.^000000",
+        "es-ES": "^0000FFNo se ve ninguna entrada que conduzca a la aeronave. Parece que la única forma de infiltrarse es usando la cuerda que parece servir para sujetar la aeronave.^000000"
+    },
+    "RiAUDg": {
+        "en-US": "Rope",
+        "pt-BR": "Corda",
+        "es-ES": "Cuerda"
+    },
+    "RyAUDg": {
+        "en-US": "^0000FFYour Base Lv is not high enough to use this.^000000",
+        "pt-BR": "^0000FFVocê não tem o Nv. De Base necessário para usar isto.^000000",
+        "es-ES": "^0000FFNo tienes el Nv. base necesario para usar esto.^000000"
+    },
+    "SCAUDg": {
+        "en-US": "^0000FFA rope that seems to have been used to secure the airship is lying here.^000000",
+        "pt-BR": "^0000FFHá uma corda no chão que parece ter sido usada para prender a aeronave.^000000",
+        "es-ES": "^0000FFHay una cuerda que parece haber sido usada para sujetar la aeronave.^000000"
+    },
+    "SSAUDg": {
+        "en-US": "Airship Destruction Operation",
+        "pt-BR": "Operação de destruição da aeronave",
+        "es-ES": "Operación de destrucción de la aeronave"
+    },
+    "SiAUDg": {
+        "en-US": "Attach the rope to the airship.",
+        "pt-BR": "Prender a corda à aeronave.",
+        "es-ES": "Engancha la cuerda a la aeronave."
+    },
+    "SyAUDg": {
+        "en-US": "^0000FFPlease form a party with at least 1 member before proceeding.^000000",
+        "pt-BR": "^0000FFForme um grupo com no mínimo 1 pessoa para prosseguir.^000000",
+        "es-ES": "^0000FFForma un grupo de al menos 1 persona antes de continuar.^000000"
+    },
+    "TCAUDg": {
+        "en-US": "^0000FFIt seems there is still some time before the airship is repaired and ready to move. Let's wait until the airship starts moving.^000000",
+        "pt-BR": "^0000FFParece que ainda falta algum tempo para a aeronave ser reparada e voltar a se mover. Vamos esperar até ela começar a se mover.^000000",
+        "es-ES": "^0000FFParece que aún falta tiempo para que la aeronave sea reparada y vuelva a moverse. Esperemos hasta que empiece a moverse.^000000"
+    },
+    "TSAUDg": {
+        "en-US": "^0000FFIt looks like the airship has started operating. Now let's go in and destroy it again.^000000",
+        "pt-BR": "^0000FFParece que a aeronave começou a funcionar. Agora vamos entrar de novo para destruí-la.^000000",
+        "es-ES": "^0000FFParece que la aeronave ha comenzado a funcionar. Entremos de nuevo para destruirla.^000000"
+    },
+    "TiAUDg": {
+        "en-US": "Near the rope, unfold the note that Leizi gave you.",
+        "pt-BR": "Perto da corda, abre o bilhete entregue por Nalandro",
+        "es-ES": "Cerca de la cuerda, abre la nota que te entregó Lazy."
+    },
+    "TyAUDg": {
+        "en-US": "^0000FFIt's filled with messy scribbles and what look like various expenses.^000000",
+        "pt-BR": "^0000FFHá vários rabiscos confusos e anotações que parecem ser cobranças de despesas.^000000",
+        "es-ES": "^0000FFEstá llena de garabatos desordenados y cosas que parecen ser gastos facturados.^000000"
+    },
+    "UCAUDg": {
+        "en-US": "Unfold the back of the note and examine it closely.",
+        "pt-BR": "Abre também o verso do bilhete e examina com atenção",
+        "es-ES": "Despliega también el reverso de la nota y examínalo con atención."
+    },
+    "USAUDg": {
+        "en-US": "It looks useless. Should I throw it away?",
+        "pt-BR": "Parece inútil. Será que devo jogar fora?",
+        "es-ES": "Parece inútil. ¿Debería tirarla?"
+    },
+    "UiAUDg": {
+        "en-US": "Something about it makes me hesitate to just throw it away.",
+        "pt-BR": "Há algo estranho demais para simplesmente jogar fora.",
+        "es-ES": "Hay algo que no termina de convencer como para simplemente tirarla."
+    },
+    "UyAUDg": {
+        "en-US": "[Leizi]\nOh, looks like you found the important passages. I didn't have time to write everything out in detail, so I hope you'll understand, my friend.",
+        "pt-BR": "[Nalandro]\nOh, parece que você encontrou os trechos importantes. Espero que entenda, amigo, que eu não tive tempo para escrever tudo em detalhes.",
+        "es-ES": "[Lazy]\nOh, parece que encontraste las partes importantes. Espero que entiendas que no tuve tiempo de escribirlas con detalle, amigo."
+    },
+    "VCAUDg": {
+        "en-US": "[Leizi]\nI'll get straight to the point. You know that airship Illusion is using like it belongs to them? You can't destroy it.",
+        "pt-BR": "[Nalandro]\nVou direto ao ponto. Sabe aquela aeronave que a Illusion usa como se fosse dela? Não dá para destruí-la.",
+        "es-ES": "[Lazy]\nIré al grano. Esa aeronave que Illusion usa como si fuera suya... no se puede destruir."
+    },
+    "VSAUDg": {
+        "en-US": "Try piecing together the other sentences among the scribbles.",
+        "pt-BR": "Tenta combinar outras frases entre os rabiscos.",
+        "es-ES": "Combina otras frases entre los garabatos."
+    },
+    "ViAUDg": {
+        "en-US": "[Leizi]\nAh, that's from Saenggangi's consultation. Apparently, the one moving and controlling that airship isn't human.",
+        "pt-BR": "[Nalandro]\nAh, isso veio da análise de Saenggangi. Quem move e controla aquela aeronave não é humano.",
+        "es-ES": "[Lazy]\nAh, eso forma parte del análisis de Saenggangi. Dice que quien mueve y controla esa aeronave no es una persona."
+    },
+    "VyAUDg": {
+        "en-US": "Examine another slightly discolored section of the text.",
+        "pt-BR": "Examina uma frase em outra parte que está um pouco desbotada.",
+        "es-ES": "Examina las frases de otra parte que está ligeramente decolorada."
+    },
+    "WCAUDg": {
+        "en-US": "[Leizi]\nLet's see. According to Saenggangi's analysis report, it's an artificial intelligence in the form of an energy core capable of infinite self-repair. In other words, it's basically an intelligent energy source.",
+        "pt-BR": "[Nalandro]\nVejamos. Segundo o relatório de análise de Saenggangi, trata-se de uma inteligência artificial em forma de núcleo de energia capaz de se autorreparar infinitamente. Ou seja, é literalmente uma fonte de energia inteligente.",
+        "es-ES": "[Lazy]\nA ver. Según el informe de análisis de Saenggangi, es una inteligencia artificial con forma de núcleo de energía capaz de autorrepararse infinitamente. En otras palabras, es una fuente de energía con inteligencia propia."
+    },
+    "WSAUDg": {
+        "en-US": "[Leizi]\nDo you get it? The thing powering that airship is like a bomb capable of generating infinite energy.",
+        "pt-BR": "[Nalandro]\nEntendeu? Aquilo que move a aeronave é como uma bomba capaz de gerar energia infinitamente.",
+        "es-ES": "[Lazy]\n¿Entiendes? Lo que mueve esa aeronave es como una bomba capaz de generar energía infinita."
+    },
+    "WiAUDg": {
+        "en-US": "Look below the section where the lunch expenses were calculated.",
+        "pt-BR": "Examina a parte abaixo do cálculo do preço do almoço.",
+        "es-ES": "Examina debajo de la parte donde está calculado el costo del almuerzo."
+    },
+    "WyAUDg": {
+        "en-US": "[Leizi]\nIf you just recklessly destroy it, everything within a radius of at least 10km will be wiped out without a trace! Fantastico!",
+        "pt-BR": "[Nalandro]\nSe aquilo for destruído à força, um raio de pelo menos 10km será devastado sem deixar vestígios! Fantástico!",
+        "es-ES": "[Lazy]\n¡Si eso se destruye a la fuerza, un radio mínimo de 10km quedará arrasado sin dejar rastro! ¡Fantástico!"
+    },
+    "XCAUDg": {
+        "en-US": "Examine the final section that hasn't been fully unfolded.",
+        "pt-BR": "Examina a última parte que ainda não foi totalmente aberta.",
+        "es-ES": "Examina la última parte que aún no está completamente desplegada."
+    },
+    "XSAUDg": {
+        "en-US": "[Leizi]\nOnce damage accumulates beyond a certain level, the core shuts down in 1 stage. If even more damage accumulates in that state, a massive explosion occurs. I think that's a defect.",
+        "pt-BR": "[Nalandro]\nQuando o dano acumulado ultrapassa certo nível, primeiro o núcleo para. Se mais dano for acumulado nesse estado, ocorre uma enorme explosão. Acho que isso é um defeito.",
+        "es-ES": "[Lazy]\nCuando se acumula daño por encima de cierto nivel, primero se detiene el núcleo. Si se acumula más daño en ese estado, ocurre una gran explosión. Parece ser un defecto."
+    },
+    "XiAUDg": {
+        "en-US": "[Leizi]\nVarmundt probably never imagined that an AI-powered airship would become a live bomb. I'm guessing that's why no more of the same model were produced.",
+        "pt-BR": "[Nalandro]\nProvavelmente nem Varmundt imaginava que uma aeronave com inteligência artificial acabaria se tornando uma bomba ativa. Acho que foi por isso que nenhum outro modelo igual foi produzido.",
+        "es-ES": "[Lazy]\nProbablemente ni Varmundt imaginó que una aeronave con inteligencia artificial terminaría convirtiéndose en una bomba activa. Por eso supongo que no se fabricaron más unidades del mismo modelo."
+    },
+    "XyAUDg": {
+        "en-US": "[Leizi]\nSaenggangi said, ^0000FF[This is Master's sore spot. I don't really understand what that means, though]^000000.",
+        "pt-BR": "[Nalandro]\nSaenggangi disse ^0000FF[que isso era o ponto fraco do mestre. Não entendi muito bem o que quis dizer com isso]^000000.",
+        "es-ES": "[Lazy]\nSaenggangi dijo: ^0000FF[Esto es el punto débil de mi amo. Aunque no entiendo muy bien qué significa]^000000."
+    },
+    "YCAUDg": {
+        "en-US": "[Leizi]\nDestroying it would be a problem, and even if we did, it'd obviously just repair itself. So there's only one option left. Stir things up inside just enough to keep the airship from operating, then scram!",
+        "pt-BR": "[Nalandro]\nSeria um problema destruí-la, e mesmo se destruíssemos, é óbvio que ela seria restaurada. Então só resta uma opção. Bagunçar o interior o bastante para impedir a aeronave de operar e, zás! Dar o fora.",
+        "es-ES": "[Lazy]\nDestruirla sería un problema, y aunque lo hiciéramos, es obvio que se repararía. Entonces solo queda una opción. Revolver el interior lo suficiente como para que la aeronave no pueda operar y, ¡zas!, escapar."
+    },
+    "YSAUDg": {
+        "en-US": "[Leizi]\nI bet the look on your face right now is priceless. Anyway, I was worried you might actually try to destroy the airship for real, so consider this some friendly advice. You'd better be grateful!",
+        "pt-BR": "[Nalandro]\nSua expressão agora deve estar impagável. Enfim, achei que você poderia acabar tentando destruir a aeronave de verdade, então resolvi dar este conselho por precaução. Pode me agradecer!",
+        "es-ES": "[Lazy]\nMe encantaría ver tu expresión ahora mismo. En fin, te lo advertí por si de verdad pensabas destruir la aeronave, ¡así que deberías agradecérmelo!"
+    },
+    "YiAUDg": {
+        "en-US": "[Leizi]\nThen good luck! If we both make it out alive, maybe we'll see each other again!",
+        "pt-BR": "[Nalandro]\nEntão, boa sorte! Se continuar vivo, a gente se vê de novo!",
+        "es-ES": "[Lazy]\n¡Entonces te deseo buena suerte! ¡Si seguimos con vida, nos veremos otra vez!"
+    },
+    "YyAUDg": {
+        "en-US": "It looks like an infiltration rope has been pulled taut and secured to the airship.",
+        "pt-BR": "Parece que a corda de infiltração está bem esticada e presa à aeronave.",
+        "es-ES": "Parece que la cuerda de infiltración está bien tensada y enganchada a la aeronave."
+    },
+    "ZCAUDg": {
+        "en-US": "Enter using the rope",
+        "pt-BR": "Entrar usando a corda",
+        "es-ES": "Entrar usando la cuerda"
+    },
+    "ZSAUDg": {
+        "en-US": "^0000FFIt's a rope with a grappling hook attached. It seems to have been used to secure the airship.^000000",
+        "pt-BR": "^0000FFÉ uma corda com um gancho. Parece ter sido usada para prender a aeronave.^000000",
+        "es-ES": "^0000FFEs una cuerda con un gancho. Parece que se usaba para sujetar la aeronave.^000000"
+    },
+    "ZiAUDg": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "ZyAUDg": {
+        "en-US": "^0000FFYou cannot plant the bomb unless you are the party leader.^000000",
+        "pt-BR": "^0000FFA bomba só pode ser instalada pelo líder do grupo.^000000",
+        "es-ES": "^0000FFNo puedes instalar la bomba si no eres el líder del grupo.^000000"
+    },
+    "aCAUDg": {
+        "en-US": "Bomb placement failed!",
+        "pt-BR": "Falha ao instalar a bomba!",
+        "es-ES": "¡Falló la instalación de la bomba!"
+    }
+}

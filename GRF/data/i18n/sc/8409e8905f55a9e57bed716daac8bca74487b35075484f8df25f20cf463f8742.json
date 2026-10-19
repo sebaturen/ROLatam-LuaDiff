@@ -1,18 +1,18 @@
 {
     "AD/gDQ": {
-        "en-US": "Hurorong",
-        "pt-BR": "Hurorong",
-        "es-ES": "Hurorong"
+        "en-US": "Hahorong",
+        "pt-BR": "Hahorong",
+        "es-ES": "Hahorong"
     },
     "AT/gDQ": {
-        "en-US": "[Hurorong]\nHehehe",
-        "pt-BR": "[Hurorong]\nHehehe",
-        "es-ES": "[Hurorong]\nJejeje"
+        "en-US": "[Hahorong]\nHehehe",
+        "pt-BR": "[Hahorong]\nHehehe",
+        "es-ES": "[Hahorong]\nJejeje"
     },
     "Aj/gDQ": {
-        "en-US": "Hurorong: Hehehe",
-        "pt-BR": "Hurorong: Hehehe",
-        "es-ES": "Hurorong: Jejeje"
+        "en-US": "Hahorong: Hehehe",
+        "pt-BR": "Hahorong: Hehehe",
+        "es-ES": "Hahorong: Jejeje"
     },
     "Az/gDQ": {
         "en-US": "Hororong",
@@ -85,19 +85,19 @@
         "es-ES": "[Hurirong]\n¿Jakk?"
     },
     "ET/gDQ": {
-        "en-US": "[Hurorong]\nWhat about Jakk?",
-        "pt-BR": "[Hurorong]\nE o Jakk?",
-        "es-ES": "[Hurorong]\n¿Y Jakk?"
+        "en-US": "[Hahorong]\nWhat about Jakk?",
+        "pt-BR": "[Hahorong]\nE o Jakk?",
+        "es-ES": "[Hahorong]\n¿Y Jakk?"
     },
     "Ej/gDQ": {
         "en-US": "[Hurirong]\nWithout Jakk, we can't have the festival!",
-        "pt-BR": "[Hurirong]\nSem o Jakk, não podemos fazer a festa!",
+        "pt-BR": "[Hurirong]\nSem o Jakk, não podemos fazer o festival!",
         "es-ES": "[Hurirong]\n¡Sin Jakk, no podemos hacer el festival!"
     },
     "Ez/gDQ": {
-        "en-US": "[Hurorong]\nWhat a disaster!",
-        "pt-BR": "[Hurorong]\nQue desastre!",
-        "es-ES": "[Hurorong]\n¡Qué desastre!"
+        "en-US": "[Hahorong]\nWhat a disaster!",
+        "pt-BR": "[Hahorong]\nQue desastre!",
+        "es-ES": "[Hahorong]\n¡Qué desastre!"
     },
     "FD/gDQ": {
         "en-US": "[Heureureung]\nWhat a disaster!",
@@ -115,9 +115,9 @@
         "es-ES": "[Heureureung]\n¡Sí!"
     },
     "Fz/gDQ": {
-        "en-US": "[Hurorong]\nLet's search!",
-        "pt-BR": "[Hurorong]\nVamos procurar!",
-        "es-ES": "[Hurorong]\n¡Vamos a buscarlo!"
+        "en-US": "[Hahorong]\nLet's search!",
+        "pt-BR": "[Hahorong]\nVamos procurar!",
+        "es-ES": "[Hahorong]\n¡Vamos a buscarlo!"
     },
     "GD/gDQ": {
         "en-US": "[Hurirong]\nLet's go back!",
@@ -146,12 +146,12 @@
     },
     "HT/gDQ": {
         "en-US": "[Hurirong]\nJakk!\nThe festival!",
-        "pt-BR": "[Hurirong]\nJakk!\nA festa!",
+        "pt-BR": "[Hurirong]\nJakk!\nO festival!",
         "es-ES": "[Hurirong]\n¡Jakk!\n¡El festival!"
     },
     "Hj/gDQ": {
         "en-US": "[Heureureung]\nThe festival will be in the ^FF0000City of the Dead^000000!",
-        "pt-BR": "[Heureureung]\nA festa será na ^FF0000Cidade dos Mortos^000000!",
+        "pt-BR": "[Heureureung]\nO festival será na ^FF0000Cidade dos Mortos^000000!",
         "es-ES": "[Heureureung]\n¡El festival será en la ^FF0000Ciudad de los Muertos^000000!"
     },
     "Hz/gDQ": {
@@ -181,7 +181,7 @@
     },
     "JD/gDQ": {
         "en-US": "[Hururong]\nIt's the festival, Jakk!",
-        "pt-BR": "[Hururong]\nÉ a festa, Jakk!",
+        "pt-BR": "[Hururong]\nÉ o festival, Jakk!",
         "es-ES": "[Hururong]\n¡Es el festival, Jakk!"
     },
     "JT/gDQ": {
@@ -191,7 +191,7 @@
     },
     "Jj/gDQ": {
         "en-US": "[Hururong]\nWake up, Jakk!\nThe festival is about to start!",
-        "pt-BR": "[Hururong]\nAcorda, Jakk!\nA festa vai começar logo!",
+        "pt-BR": "[Hururong]\nAcorda, Jakk!\nO festival vai começar logo!",
         "es-ES": "[Hururong]\n¡Despierta, Jakk!\n¡El festival va a comenzar pronto!"
     },
     "Jz/gDQ": {
@@ -331,12 +331,12 @@
     },
     "Qj/gDQ": {
         "en-US": "[Hururong]\nIt's the festival!",
-        "pt-BR": "[Hururong]\nÉ a festa!",
+        "pt-BR": "[Hururong]\nÉ o festival!",
         "es-ES": "[Hururong]\n¡Es el festival!"
     },
     "Qz/gDQ": {
         "en-US": "Hururong: It's the festival!",
-        "pt-BR": "Hururong: É a festa!",
+        "pt-BR": "Hururong: É o festival!",
         "es-ES": "Hururong: ¡Es el festival!"
     },
     "RD/gDQ": {
@@ -346,7 +346,7 @@
     },
     "RT/gDQ": {
         "en-US": "[Hohorong]\nIt's festival atmosphere!",
-        "pt-BR": "[Hohorong]\nÉ o clima de Festa!",
+        "pt-BR": "[Hohorong]\nÉ o clima de festival!",
         "es-ES": "[Hohorong]\n¡Ya se siente el ambiente del festival!"
     },
     "Rj/gDQ": {
@@ -401,12 +401,12 @@
     },
     "UD/gDQ": {
         "en-US": "[Hororong]\nWe can't be late for the festival!",
-        "pt-BR": "[Hororong]\nNão podemos nos atrasar para a festa!",
+        "pt-BR": "[Hororong]\nNão podemos nos atrasar para o festival!",
         "es-ES": "[Hororong]\n¡No podemos llegar tarde al festival!"
     },
     "UT/gDQ": {
         "en-US": "[Hohorong]\nIt's the festival!",
-        "pt-BR": "[Hohorong]\nÉ a festa!",
+        "pt-BR": "[Hohorong]\nÉ o festival!",
         "es-ES": "[Hohorong]\n¡Es el festival!"
     },
     "Uj/gDQ": {
@@ -506,7 +506,7 @@
     },
     "ZT/gDQ": {
         "en-US": "[Hohorong]\nTomorrow is also a festival!",
-        "pt-BR": "[Hohorong]\nAmanhã também tem festa!",
+        "pt-BR": "[Hohorong]\nAmanhã também tem festival!",
         "es-ES": "[Hohorong]\n¡Mañana también hay festival!"
     },
     "Zj/gDQ": {
@@ -586,7 +586,7 @@
     },
     "dT/gDQ": {
         "en-US": "[Hururong]\nIt's thanks to Jakk that we have a festival!",
-        "pt-BR": "[Hururong]\nÉ graças ao Jakk que temos festa!",
+        "pt-BR": "[Hururong]\nÉ graças ao Jakk que temos festival!",
         "es-ES": "[Hururong]\n¡Es gracias a Jakk que tenemos festival!"
     },
     "dj/gDQ": {
@@ -641,7 +641,7 @@
     },
     "gD/gDQ": {
         "en-US": "[Jakk]\nUhuhuhuhuhu\nThis time, Jakk and I planned to go out together at the festival!\nI'm screwed!",
-        "pt-BR": "[Jakk]\nUhuhuhuhuhu\nDesta vez, eu e o Jakk combinamos de sair na festa!\nEstou ferrado!",
+        "pt-BR": "[Jakk]\nUhuhuhuhuhu\nDesta vez, eu e o Jakk combinamos de sair no festival!\nEstou ferrado!",
         "es-ES": "[Jakk]\nUhuhuhuhuhu\n¡Esta vez, Jakk y yo acordamos salir en el festival!\n¡Estoy perdido!"
     },
     "gT/gDQ": {
@@ -656,7 +656,7 @@
     },
     "gz/gDQ": {
         "en-US": "[Jakk]\nI prepared so much for this festival, I didn't even sleep properly!",
-        "pt-BR": "[Jakk]\nEu me preparei tanto para esta festa que nem dormi direito!",
+        "pt-BR": "[Jakk]\nEu me preparei tanto para este festival que nem dormi direito!",
         "es-ES": "[Jakk]\n¡Me preparé tanto para este festival que ni siquiera dormí bien!"
     },
     "hD/gDQ": {
@@ -756,7 +756,7 @@
     },
     "lz/gDQ": {
         "en-US": "Jakk: Until the festival ends!!",
-        "pt-BR": "Jakk: Até a festa terminar!!",
+        "pt-BR": "Jakk: Até o festival terminar!!",
         "es-ES": "Jakk: ¡¡Hasta que termine el festival!!"
     },
     "mD/gDQ": {
@@ -901,7 +901,7 @@
     },
     "tD/gDQ": {
         "en-US": "[Hirorong]\nThe festival will start soon!",
-        "pt-BR": "[Hirorong]\nA festa vai começar logo!",
+        "pt-BR": "[Hirorong]\nO festival vai começar logo!",
         "es-ES": "[Hirorong]\n¡El festival va a comenzar pronto!"
     },
     "tT/gDQ": {
@@ -1041,8 +1041,8 @@
     },
     "0D/gDQ": {
         "en-US": "[Jakk]\nWhen I went to that world, I passed by a long, bright road and there was a ^FF0000small, dark-skinned person^000000 living at the top of a ^FF0000very tall^000000 tree.",
-        "pt-BR": "[Jakk]\nQuando fui para aquele mundo, passei por uma estrada longa e brilhante e havia uma ^FF0000pessoa pequena e de pele negra^000000 vivendo no topo de uma árvore ^FF0000altíssima^000000.",
-        "es-ES": "[Jakk]\nCuando fui a ese mundo, pasé por un camino largo y brillante y había una ^FF0000persona pequeña de piel negra^000000 viviendo en la copa de un árbol ^FF0000altísimo^000000."
+        "pt-BR": "[Jakk]\nQuando fui para aquele mundo, passei por uma estrada longa e brilhante e havia uma ^FF0000pessoa pequena e morena^000000 vivendo no topo de uma árvore ^FF0000altíssima^000000.",
+        "es-ES": "[Jakk]\nCuando fui a ese mundo, pasé por un camino largo y brillante y había una ^FF0000persona pequeña y morena^000000 viviendo en la copa de un árbol ^FF0000altísimo^000000."
     },
     "0T/gDQ": {
         "en-US": "[Jakk]\nIf our Kitty remembers the path we took together, he must have passed by there!",
@@ -1190,12 +1190,12 @@
         "es-ES": "[Hirorong]\n¡¡¡¡Jakk es un llorón!!!!"
     },
     "7j/gDQ": {
-        "en-US": "[Herorong]\nJakk is an idiot!!!!!\nThe Kitty is in the Gyoll Valley!",
+        "en-US": "[Herorong]\nJakk is an idiot!!!!!\nThe Kitty is in the Valley of Gyoll!",
         "pt-BR": "[Herorong]\nO Jakk é um idiota!!!!!\nO Gatinho está no Vale de Gyoll!",
         "es-ES": "[Herorong]\n¡¡¡¡Jakk es un idiota!!!!!\n¡El Gatito está en el Valle de Gyoll!"
     },
     "7z/gDQ": {
-        "en-US": "[Hirorong]\nJakk is an idiot!!!!\nIf you go to the Gyoll Valley, the Kitty is there!",
+        "en-US": "[Hirorong]\nJakk is an idiot!!!!\nIf you go to the Valley of Gyoll, the Kitty is there!",
         "pt-BR": "[Hirorong]\nJakk é um idiota!!!!\nSe for ao Vale de Gyoll, lá está o Gatinho!",
         "es-ES": "[Hirorong]\n¡¡¡¡Jakk es un idiota!!!!\n¡Si vas al Valle de Gyoll, allí está el Gatito!"
     },
@@ -1235,8 +1235,8 @@
         "es-ES": "[Jakk]\nEntonces, viajero.\n¿No ayudarás a que nazca el nuevo Gatito?"
     },
     "9z/gDQ": {
-        "en-US": "[Jakk]\nFor the first Kitty born in the Gyoll Valley, since he doesn't know anything, take care of him with ^FF000010 Pumpkin Decorations^000000.",
-        "pt-BR": "[Jakk]\nComo ele é o primeiro Gatinho a nascer no Vale de Gyoll e não sabe de nada, cuide dele com ^FF000010 Decorações de Abóbora^000000.",
+        "en-US": "[Jakk]\nFor the first Kitty born in the Valley of Gyoll, since he doesn't know anything, take care of him with ^FF000010 Pumpkin Decorations^000000.",
+        "pt-BR": "[Jakk]\nComo ele é o primeiro Gatinho a nascer no Vale de Gyoll e não sabe de nada, cuide dele com ^FF000010 Decoraciones de Calabaza^000000.",
         "es-ES": "[Jakk]\nComo es el primer Gatito que nace en el Valle de Gyoll y no sabe nada, cuídalo con ^FF000010 Decoraciones de Calabaza^000000."
     },
     "+D/gDQ": {
@@ -1287,7 +1287,7 @@
     "AUDgDQ": {
         "en-US": "[Jakk]\nI still can't move much...\nIt's a request, Jakk! Take me with you!",
         "pt-BR": "[Jakk]\nAinda não consigo me mover muito...\nÉ um pedido, Jakk! Me leve com você!",
-        "es-ES": "[Jakk]\nTodavía no puedo moverme mucho...\n¡Te lo pido, Jakk! ¡Llévame contigo!"
+        "es-ES": "[Jakk]\nTodavía no me puedo mover mucho...\n¡Es una petición, Jakk! ¡Llévame contigo!"
     },
     "AkDgDQ": {
         "en-US": "[Jakk]\n*yawn*\nI'm very tired today, see you tomorrow, Traveler!\n*yawn*",
@@ -1296,18 +1296,18 @@
     },
     "A0DgDQ": {
         "en-US": "[Jakk]\nAh! Traveler came again!\nOur Kitty should be back by tomorrow.",
-        "pt-BR": "[Jakk]\nAh! Viajante voltou!\nNosso Gatinho deve voltar amanhã.",
-        "es-ES": "[Jakk]\n¡Ah! ¡El viajero volvió!\nNuestro Gatito debería volver mañana."
+        "pt-BR": "[Jakk]\nAh! Viajante veio de novo!\nO nosso Gatinho deve voltar até amanhã.",
+        "es-ES": "[Jakk]\n¡Ah! ¡Viajero vino de nuevo!\nNuestro Gatito debe volver hasta mañana."
     },
     "BEDgDQ": {
-        "en-US": "[Jakk]\nTraveler!\nWon't you get materials and make a Black Plush for our Kitty?",
-        "pt-BR": "[Jakk]\nViajante!\nVocê não vai conseguir os materiais e fazer uma Pelugem Negra para o nosso Gatinho?",
-        "es-ES": "[Jakk]\n¡Viajero!\n¿No vas a conseguir los materiales y hacer una Pelaje Negro para nuestro Gatito?"
+        "en-US": "[Jakk]\nTraveler!\nWon't you get materials and make a Black Fur for our Kitty?",
+        "pt-BR": "[Jakk]\nViajante!\nVocê não vai conseguir materiais e fazer uma Pelugem Negra para o nosso Gatinho?",
+        "es-ES": "[Jakk]\n¡Viajero!\n¿No vas a conseguir materiales y hacer una Pelo Negro para nuestro Gatito?"
     },
     "BUDgDQ": {
-        "en-US": "[Jakk]\nThey say good things are in the Gyoll Valley.\nGet ^FF000010 Pumpkin Decorations^000000 for me!",
-        "pt-BR": "[Jakk]\nDizem que há coisas boas no Vale de Gyoll.\nConsiga ^FF000010 Decorações de Abóbora^000000 para mim!",
-        "es-ES": "[Jakk]\nDicen que hay cosas buenas en el Valle de Gyoll.\n¡Consigue ^FF000010 Decoraciones de Calabaza^000000 para mí!"
+        "en-US": "[Jakk]\nThey say good things are in the Valley of Gyoll.\nGet ^FF000010 Pumpkin Decoration^000000 for me!",
+        "pt-BR": "[Jakk]\nDizem que coisas boas estão no Vale de Gyoll.\nConsiga ^FF000010 Decoração de Abóbora^000000 para mim!",
+        "es-ES": "[Jakk]\nDicen que cosas buenas están en el Valle de Gyoll.\n¡Consígueme ^FF000010 Decoración de Calabaza^000000!"
     },
     "BkDgDQ": {
         "en-US": "Give the item.",
@@ -1320,9 +1320,9 @@
         "es-ES": "[Jakk]\n¡Viajero!\n¡Gracias!"
     },
     "CEDgDQ": {
-        "en-US": "[Jakk]\nWhat scary Black Plushes!\nOur Kitty will like them too!",
-        "pt-BR": "[Jakk]\nQue Pelugens Negras assustadoras!\nO nosso Gatinho também vai gostar!",
-        "es-ES": "[Jakk]\n¡Qué Pelajes Negros tan aterradores!\n¡A nuestro Gatito también le gustarán!"
+        "en-US": "[Jakk]\nWhat a scary Black Fur!\nOur Kitty will like them too!",
+        "pt-BR": "[Jakk]\nQue Pelugem Negra assustadora!\nO nosso Gatinho também vai gostar!",
+        "es-ES": "[Jakk]\n¡Qué Pelo Negro tan aterrador!\n¡A nuestro Gatito también le gustarán!"
     },
     "CUDgDQ": {
         "en-US": "[Jakk]\nOops!\nThis is for our Kitty, but you can take it, Traveler!\nIt's yours!",
@@ -1340,7 +1340,7 @@
         "es-ES": "[Jakk]\n¡Ops!\nEsto es para nuestro Gatito, pero puedes llevártelo, ¡Viajero!\n¡Es tuyo!"
     },
     "DEDgDQ": {
-        "en-US": "[Jakk]\nGet 10 Black Plushes in the Gyoll Valley.",
+        "en-US": "[Jakk]\nGet 10 Black Plushes in the Valley of Gyoll.",
         "pt-BR": "[Jakk]\nConsiga 10 Pelugens Negras no Vale de Gyoll.",
         "es-ES": "[Jakk]\nConsigue 10 Pelajes Negros en el Valle de Gyoll."
     },
@@ -1356,8 +1356,8 @@
     },
     "D0DgDQ": {
         "en-US": "[Herorong]\nIt's festival!!!",
-        "pt-BR": "[Herorong]\nÉ a festa!!!",
-        "es-ES": "[Herorong]\n¡¡¡Es el festival!!!"
+        "pt-BR": "[Herorong]\nÉ festival!!!",
+        "es-ES": "[Herorong]\n¡¡¡Es festival!!!"
     },
     "EEDgDQ": {
         "en-US": "Hirorong",
@@ -1366,7 +1366,7 @@
     },
     "EUDgDQ": {
         "en-US": "[Hirorong]\nThe festival is about to start!!!",
-        "pt-BR": "[Hirorong]\na festa vai começar!!!",
+        "pt-BR": "[Hirorong]\nO festival vai começar!!!",
         "es-ES": "[Hirorong]\n¡¡El festival va a comenzar!!"
     },
     "EkDgDQ": {
@@ -1377,12 +1377,12 @@
     "E0DgDQ": {
         "en-US": "[Harorong]\nJakk!! It's Jakk!!!",
         "pt-BR": "[Harorong]\nJakk!! É o Jakk!!!",
-        "es-ES": "[Harorong]\n¡¡Jakk!! ¡¡Es Jakk!!!"
+        "es-ES": "[Harorong]\n¡¡Jakk!! ¡¡Es Jakk!!!\"\n[Harorong]"
     },
     "FEDgDQ": {
         "en-US": "[Harorong]\nJakk's Kitty?",
         "pt-BR": "[Harorong]\nO Gatinho do Jakk?",
-        "es-ES": "¿El Gatito de Jakk?"
+        "es-ES": "¿El Gatito de Jakk?\""
     },
     "FUDgDQ": {
         "en-US": "[Herorong]\nJakk!!",
@@ -1411,7 +1411,7 @@
     },
     "GkDgDQ": {
         "en-US": "[Harorong]\nThe Kitty went high up in the sky!",
-        "pt-BR": "[Harorong]\nO Gatinho subiu bem alto no céu!",
+        "pt-BR": "[Harorong]\nO Gatinho subiu alto no céu!",
         "es-ES": "[Harorong]\n¡El Gatito subió alto al cielo!"
     },
     "G0DgDQ": {
@@ -1447,12 +1447,12 @@
     "IUDgDQ": {
         "en-US": "[Hirorong]\nNibble sees everything!",
         "pt-BR": "[Hirorong]\nNibble vê tudo!",
-        "es-ES": "[Hirorong]\n¡Nibble lo ve todo!"
+        "es-ES": "[Hirorong]\n¡Nibble ve todo!"
     },
     "IkDgDQ": {
         "en-US": "[Harorong]\nNibble is watching!",
-        "pt-BR": "[Harorong]\nO Nibble está de olho!",
-        "es-ES": "[Harorong]\n¡Nibble está vigilando!"
+        "pt-BR": "[Harorong]\nNibble está vendo!",
+        "es-ES": "[Harorong]\n¡Nibble está viendo!"
     },
     "I0DgDQ": {
         "en-US": "[Hirorong]\nLet's ask!",
@@ -1462,7 +1462,7 @@
     "JEDgDQ": {
         "en-US": "[Herorong]\nNibble knows!",
         "pt-BR": "[Herorong]\nNibble sabe!",
-        "es-ES": "[Herorong]\n¡Nibble lo sabe!"
+        "es-ES": "[Herorong]\n¡Nibble sabe!"
     },
     "JUDgDQ": {
         "en-US": "Nibble",
@@ -1505,9 +1505,9 @@
         "es-ES": "Jakk Tembloroso"
     },
     "LUDgDQ": {
-        "en-US": "[Trembling Jakk]\nAAAAAA!!!!!\nIf I go back to the city, I'll be captured by the Ludes!",
-        "pt-BR": "[Jakk Trêmulo]\nAAAAAA!!!!!\nSe voltar para a cidade, serei capturado pelos Ludes!",
-        "es-ES": "[Jakk Tembloroso]\n¡¡¡¡¡AAAAAA!!!!!\n¡Si vuelvo a la ciudad, me atraparán los Ludes!"
+        "en-US": "[Trembling Jakk]\nAAAAAA!!!!!\nIf I go back to the city, I'll be captured by Harorong!",
+        "pt-BR": "[Jakk Trêmulo]\nAAAAAA!!!!!\nSe voltar para a cidade, serei capturado por Harorong!",
+        "es-ES": "[Jakk Tembloroso]\n¡¡¡¡¡AAAAAA!!!!!\n¡Si vuelvo a la ciudad, me atrapará Harorong!"
     },
     "LkDgDQ": {
         "en-US": "[Trembling Jakk]\nAAAAAA!!!!!\nWhat a disaster!!!\nJakk's Kitty!!!\nI saw it going in there!",
@@ -1520,9 +1520,9 @@
         "es-ES": "[Jakk Tembloroso]\n¡Tenía mucho miedo y no pude perseguirlo!\n^FF0000¡Necesito avisarle a Jakk!^000000"
     },
     "MEDgDQ": {
-        "en-US": "[Trembling Jakk]\nBut if I go back to the city, I'll be captured by the Ludes!",
-        "pt-BR": "[Jakk Trêmulo]\nMas se eu voltar para a cidade, serei capturado pelos Ludes!",
-        "es-ES": "[Jakk Tembloroso]\n¡Pero si vuelvo a la ciudad, me atraparán los Ludes!"
+        "en-US": "[Trembling Jakk]\nBut if I go back to the city, I'll be captured by Harorong!",
+        "pt-BR": "[Jakk Trêmulo]\nMas se voltar para a cidade, serei capturado por Harorong!",
+        "es-ES": "[Jakk Tembloroso]\n¡Pero si vuelvo a la ciudad, me atrapará Harorong!"
     },
     "MUDgDQ": {
         "en-US": "Trembling Researcher",
@@ -1536,8 +1536,8 @@
     },
     "M0DgDQ": {
         "en-US": "[Trembling Researcher]\nDon't... don't scare me like that!!!!",
-        "pt-BR": "[Pesquisador Trêmulo]\nN-Não... não me assuste desse jeito!!!!",
-        "es-ES": "[Investigador Tembloroso]\n¡N-No... no me asustes así!!!!"
+        "pt-BR": "[Pesquisador Trêmulo]\nNão... não assuste desse jeito!!!!",
+        "es-ES": "[Investigador Tembloroso]\nNo... ¡¡¡no asustes de esa manera!!!!"
     },
     "NEDgDQ": {
         "en-US": "[Trembling Researcher]\nAh, I need to rest...\nI think I saw things and heard voices...",
@@ -1626,8 +1626,8 @@
     },
     "RUDgDQ": {
         "en-US": "[Trembling Merchant]\nI said I was explaining the ^FF0000path to Alberta^000000 to the person behind...",
-        "pt-BR": "[Mercador Trêmulo]\nEu disse que estava explicando para a pessoa atrás de mim o ^FF0000caminho a pé até Alberta^000000...",
-        "es-ES": "[Comerciante Tembloroso]\nDije que le estaba explicando a la persona detrás de mí el ^FF0000camino a pie hasta Alberta^000000..."
+        "pt-BR": "[Mercador Trêmulo]\nDisse que estava explicando o ^FF0000caminho para Alberta^000000 para a pessoa atrás...",
+        "es-ES": "[Comerciante Tembloroso]\nDije que le estaba explicando el ^FF0000camino a Alberta^000000 a la persona de atrás..."
     },
     "RkDgDQ": {
         "en-US": "[Trembling Merchant]\n......\n.......",
@@ -1716,33 +1716,33 @@
     },
     "V0DgDQ": {
         "en-US": "- A white cat. You look carefully and find a black spot. -",
-        "pt-BR": "- Um gato branco. Se prestar atenção, vai ver uma mancha preta. -",
-        "es-ES": "- Un gato blanco. Si te fijas bien, verás una mancha negra. -"
+        "pt-BR": "- Um gato branco. Você olha com cuidado e acha uma mancha preta. -",
+        "es-ES": "- Un gato blanco. Miras con cuidado y encuentras una mancha negra. -"
     },
     "WEDgDQ": {
-        "en-US": "- You approach and it blocks your path. Perhaps it is trying to protect the sand pile. Better investigate the sand pile. -",
-        "pt-BR": "Você se aproxima, mas ele bloqueia seu caminho. Talvez esteja tentando proteger a pilha de areia. É melhor investigar essa pilha. -",
-        "es-ES": "- Te acercas, pero te bloquea el paso. Quizás esté intentando proteger el montón de arena. Será mejor investigarlo."
+        "en-US": "- You approach and it blocks your path. Perhaps it is trying to protect the Sand Pile. It's better to investigate it. -",
+        "pt-BR": "- Você se aproxima e ele bloqueia o seu caminho. Talvez ele esteja tentando proteger o Monte de Areia. É melhor investigá-lo. -",
+        "es-ES": "- Te acercas y él bloquea tu camino. Tal vez esté tratando de proteger el Montón de Arena. Es mejor investigarlo. -"
     },
     "WUDgDQ": {
         "en-US": "- As I approach, it blocks the front, as if protecting the sand pile next to it. Examine the sand pile. -",
-        "pt-BR": "- Ao me aproximar, ele bloqueia meu caminho, como se estivesse protegendo a pilha de areia ao lado. Examine a pilha de areia. -",
-        "es-ES": "- Al acercarte, te bloquea el paso, como si estuviera protegiendo el montón de arena que está a su lado. Examina el montón de arena. -"
+        "pt-BR": "- Ao me aproximar, ele bloqueia a frente, como se protegendo o monte de areia ao lado. Examine o monte de areia. -",
+        "es-ES": "- Al acercarme, bloquea el frente, como protegiendo el montón de arena al lado. Examina el montón de arena. -"
     },
     "WkDgDQ": {
         "en-US": "Sand Pile",
-        "pt-BR": "Pilha de Areia",
+        "pt-BR": "Monte de Areia",
         "es-ES": "Montón de Arena"
     },
     "W0DgDQ": {
         "en-US": "- Common sand pile. -",
-        "pt-BR": "- Pilha de areia comum. -",
+        "pt-BR": "- Monte de areia comum. -",
         "es-ES": "- Montón de arena común. -"
     },
     "XEDgDQ": {
-        "en-US": "- Examining the sand pile, there is a ^FF0000Small Pile of Bones^000000 that seems to be from a small animal. -",
-        "pt-BR": "- Ao examinar o monte de areia, há uma ^FF0000Pequena Pilha de Ossos^000000 que parece ser de um animal pequeno. -",
-        "es-ES": "- Al examinar el montón de arena, hay una ^FF0000Pequeña Pila de Huesos^000000 que parece ser de un animal pequeño. -"
+        "en-US": "- Examining the Sand Pile, there is a ^FF0000Small Pile of Bones^000000 that seems to be from a small animal. -",
+        "pt-BR": "- Ao examinar o Monte de Areia, há uma ^FF0000Pequena Pilha de Ossos^000000 que parece ser de um animal pequeno. -",
+        "es-ES": "- Al examinar el Montón de Arena, hay una ^FF0000Pequeña Pila de Huesos^000000 que parece ser de un animal pequeño. -"
     },
     "XUDgDQ": {
         "en-US": "- And among the bones, a tattered ^FF0000Red Collar^000000 is seen.\nIt seems to be a small animal's collar. -",
@@ -1751,48 +1751,48 @@
     },
     "XkDgDQ": {
         "en-US": "- Perhaps the search was too late...\nLet's collect the bone and return to Jakk. -",
-        "pt-BR": "- Pode ser que a busca tenha chegado tarde demais...\nVamos recolher os ossos e voltar para o Jakk. -",
-        "es-ES": "- Puede ser que la búsqueda haya llegado demasiado tarde...\nRecojamos los huesos y volvamos con Jakk. -"
+        "pt-BR": "- Pode ser que a busca tenha chegado tarde demais...\nVamos recolher o osso e voltar para o Jakk. -",
+        "es-ES": "- Puede ser que la búsqueda haya llegado demasiado tarde...\nRecojamos el hueso y volvamos con Jakk. -"
     },
     "X0DgDQ": {
-        "en-US": "Zombicat",
-        "pt-BR": "Zumbichano",
-        "es-ES": "Zombigato"
+        "en-US": "Big SkellyCat",
+        "pt-BR": "Zumbichano de Juba",
+        "es-ES": "Gran Zombigato"
     },
     "YEDgDQ": {
-        "en-US": "[Zombicat]\nMeow...\nHaaaaaa!!!!",
-        "pt-BR": "[Zumbichano]\nMiauu...\nHaaaaaa!!!!",
-        "es-ES": "[Zombigato]\nMiauu...\n¡¡Haaaaaa!!!!"
+        "en-US": "[Big SkellyCat]\nMeow...\nHaaaaaa!!!!",
+        "pt-BR": "[Zumbichano de Juba]\nMiauu...\nHaaaaaa!!!!",
+        "es-ES": "[Gran Zombigato]\nMiauu...\n¡¡Haaaaaa!!!!"
     },
     "YUDgDQ": {
-        "en-US": "[Zombicat]\nA sinister wind blows...\nHmp...\nThis smell...\nIt's from the west...",
-        "pt-BR": "[Zumbichano]\nUm vento sinistro está soprando...\nHum...\nEsse cheiro...\nVem do oeste...",
-        "es-ES": "[Zombigato]\nSopla un viento siniestro...\nHmm...\nEste olor...\nViene del oeste..."
+        "en-US": "[Big SkellyCat]\nA sinister wind blows...\nHmp...\nThis smell...\nIt's from the west...",
+        "pt-BR": "[Zumbichano de Juba]\nUm vento sinistro sopra...\nHmp...\nEste cheiro...\nÉ do oeste...",
+        "es-ES": "[Gran Zombigato]\nUn viento siniestro sopla...\nHmp...\nEste olor...\nEs del oeste..."
     },
     "YkDgDQ": {
-        "en-US": "[Zombicat]\nWell, well....",
-        "pt-BR": "[Zumbichano]\nOra, ora....",
-        "es-ES": "[Zombigato]\nOra, ora...."
+        "en-US": "[Big SkellyCat]\nWell, well....",
+        "pt-BR": "[Zumbichano de Juba]\nOra, ora....",
+        "es-ES": "[Gran Zombigato]\nOra, ora...."
     },
     "Y0DgDQ": {
-        "en-US": "[Zombicat]\nWell... why did you seek me out?\nIf you came to ask silly questions like wanting to get stronger or have an elegant mane, you can leave.",
-        "pt-BR": "[Zumbichano]\nBem... por que você me procurou?\nSe veio fazer perguntas tolas como querer ficar mais forte ou ter uma juba elegante, pode ir embora.",
-        "es-ES": "[Zombigato]\nBueno... ¿por qué me buscaste?\nSi viniste a hacer preguntas tontas como querer volverte más fuerte o tener una melena elegante, puedes irte."
+        "en-US": "[Big SkellyCat]\nWell... why did you seek me out?\nIf you came to ask silly questions like wanting to get stronger or have an elegant mane, you can leave.",
+        "pt-BR": "[Zumbichano de Juba]\nBem... por que você me procurou?\nSe veio fazer perguntas tolas como querer ficar mais forte ou ter uma juba elegante, pode ir embora.",
+        "es-ES": "[Gran Zombigato]\nBueno... ¿por qué me buscaste?\nSi viniste a hacer preguntas tontas como querer volverte más fuerte o tener una melena elegante, puedes irte."
     },
     "ZEDgDQ": {
         "en-US": "I talk about Jakk.",
-        "pt-BR": "É sobre o Jakk.",
-        "es-ES": "Es sobre Jakk."
+        "pt-BR": "Falo sobre o Jakk.",
+        "es-ES": "Hablo sobre Jakk."
     },
     "ZUDgDQ": {
-        "en-US": "[Zombicat]\nHuhu...\nKitty... oh...\nIt's a name I had forgotten.",
-        "pt-BR": "[Zumbichano]\nHuhu...\nGatinho... oh...\nÉ um nome que eu já esqueci.",
-        "es-ES": "[Zombigato]\nJuju...\nGatito... oh...\nEs un nombre que ya olvidé."
+        "en-US": "[Big SkellyCat]\nHuhu...\nKitty... oh...\nIt's a name I had forgotten.",
+        "pt-BR": "[Zumbichano de Juba]\nHuhu...\nGatinho... oh...\nÉ um nome que eu já esqueci.",
+        "es-ES": "[Gran Zombigato]\nJuju...\nGatito... oh...\nEs un nombre que ya olvidé."
     },
     "ZkDgDQ": {
-        "en-US": "[Zombicat]\nTell Jakk.\nThat the small, cute Kitty no longer exists...\nThat that journey changed many things...",
-        "pt-BR": "[Zumbichano]\nDiga ao Jakk.\nQue o Gatinho pequeno e fofo não existe mais...\nQue aquela viagem mudou muitas coisas...",
-        "es-ES": "[Zombigato]\nDile a Jakk.\nQue el Gatito pequeño y lindo ya no existe...\nQue ese viaje cambió muchas cosas..."
+        "en-US": "[Big SkellyCat]\nTell Jakk.\nThat the small, cute Kitty no longer exists...\nThat that journey changed many things...",
+        "pt-BR": "[Zumbichano de Juba]\nDiga ao Jakk.\nQue o Gatinho pequeno e fofo não existe mais...\nQue aquela viagem mudou muitas coisas...",
+        "es-ES": "[Gran Zombigato]\nDile a Jakk.\nQue el Gatito pequeño y lindo ya no existe...\nQue ese viaje cambió muchas cosas..."
     },
     "Z0DgDQ": {
         "en-US": "Ask about the journey.",
@@ -1800,44 +1800,44 @@
         "es-ES": "Preguntar sobre el viaje."
     },
     "aEDgDQ": {
-        "en-US": "[Zombicat]\nIn the beginning, it was just an adventure.\nWanting to go somewhere...\nWhere did I come from?\nWhere should I return to?...",
-        "pt-BR": "[Zumbichano]\nNo início, era apenas uma aventura.\nQuerer ir a algum lugar...\nDe onde vim?\nPara onde devo voltar?...",
-        "es-ES": "[Zombigato]\nAl principio, era solo una aventura.\nQuerer ir a algún lugar...\n¿De dónde vine?\n¿A dónde debo volver?..."
+        "en-US": "[Big SkellyCat]\nIn the beginning, it was just an adventure.\nWanting to go somewhere...\nWhere did I come from?\nWhere should I return to?...",
+        "pt-BR": "[Zumbichano de Juba]\nNo início, era apenas uma aventura.\nQuerer ir a algum lugar...\nDe onde vim?\nPara onde devo voltar?...",
+        "es-ES": "[Gran Zombigato]\nAl principio, era solo una aventura.\nQuerer ir a algún lugar...\n¿De dónde vine?\n¿A dónde debo volver?..."
     },
     "aUDgDQ": {
-        "en-US": "[Zombicat]\nAfter returning from the adventure, I kept thinking and questioning myself...",
-        "pt-BR": "[Zumbichano]\nDepois de voltar da aventura, continuei pensando e me questionando...",
-        "es-ES": "[Zombigato]\nDespués de volver de la aventura, seguí pensando y cuestionándome..."
+        "en-US": "[Big SkellyCat]\nAfter returning from the adventure, I kept thinking and questioning myself...",
+        "pt-BR": "[Zumbichano de Juba]\nDepois de voltar da aventura, continuei pensando e me questionando...",
+        "es-ES": "[Gran Zombigato]\nDespués de volver de la aventura, seguí pensando y cuestionándome..."
     },
     "akDgDQ": {
-        "en-US": "[Zombicat]\nAnd one day, when I realized, I had become like this.",
-        "pt-BR": "[Zumbichano]\nE um dia, quando percebi, tinha me tornado assim.",
-        "es-ES": "[Zombigato]\nY un día, cuando me di cuenta, me había vuelto así."
+        "en-US": "[Big SkellyCat]\nAnd one day, when I realized, I had become like this.",
+        "pt-BR": "[Zumbichano de Juba]\nE um dia, quando percebi, tinha me tornado assim.",
+        "es-ES": "[Gran Zombigato]\nY un día, cuando me di cuenta, me había vuelto así."
     },
     "a0DgDQ": {
-        "en-US": "[Zombicat]\n......",
-        "pt-BR": "[Zumbichano]\n......",
-        "es-ES": "[Zombigato]\n......"
+        "en-US": "[Big SkellyCat]\n......",
+        "pt-BR": "[Zumbichano de Juba]\n......",
+        "es-ES": "[Gran Zombigato]\n......"
     },
     "bEDgDQ": {
-        "en-US": "[Zombicat]\n...I got carried away by the mood and talked too much...",
-        "pt-BR": "[Zumbichano]\n...Me deixei levar pelo clima e falei demais...",
-        "es-ES": "[Zombigato]\n...Me dejé llevar por el clima y hablé demasiado..."
+        "en-US": "[Big SkellyCat]\n...I got carried away by the mood and talked too much...",
+        "pt-BR": "[Zumbichano de Juba]\n...Me deixei levar pelo clima e falei demais...",
+        "es-ES": "[Gran Zombigato]\n...Me dejé llevar por el clima y hablé demasiado..."
     },
     "bUDgDQ": {
-        "en-US": "[Zombicat]\nAnyway, now I can no longer be the Kitty, so talk well with Jakk.\nIf it's you, Jakk might accept it more easily.",
-        "pt-BR": "[Zumbichano]\nDe qualquer forma, agora não posso mais voltar a ser o Gatinho, então converse bem com o Jakk.\nSe for você, o Jakk pode aceitar mais facilmente.",
-        "es-ES": "[Zombigato]\nDe cualquier forma, ahora ya no puedo volver a ser el Gatito, así que habla bien con Jakk.\nSi eres tú, Jakk puede aceptarlo más fácilmente."
+        "en-US": "[Big SkellyCat]\nAnyway, now I can no longer be the Kitty, so talk well with Jakk.\nIf it's you, Jakk might accept it more easily.",
+        "pt-BR": "[Zumbichano de Juba]\nDe qualquer forma, agora não posso mais voltar a ser o Gatinho, então converse bem com o Jakk.\nSe for você, o Jakk pode aceitar mais facilmente.",
+        "es-ES": "[Gran Zombigato]\nDe cualquier forma, ahora ya no puedo volver a ser el Gatito, así que habla bien con Jakk.\nSi eres tú, Jakk puede aceptarlo más fácilmente."
     },
     "bkDgDQ": {
-        "en-US": "[Zombicat]\nShould I introduce a new Zombicat to Jakk?",
-        "pt-BR": "[Zumbichano]\nSerá que devo apresentar um novo Zumbichano para o Jakk?",
-        "es-ES": "[Zombigato]\n¿Debería presentarle un nuevo Zombigato a Jakk?"
+        "en-US": "[Big SkellyCat]\nShould I introduce a new Big SkellyCat to Jakk?",
+        "pt-BR": "[Zumbichano de Juba]\nSerá que devo apresentar um novo Zumbichano para o Jakk?",
+        "es-ES": "[Gran Zombigato]\n¿Debería presentarle un nuevo Gran Zombigato a Jakk?"
     },
     "b0DgDQ": {
-        "en-US": "[Zombicat]\nWhy did you return?",
-        "pt-BR": "[Zumbichano]\nPor que voltou?",
-        "es-ES": "[Zombigato]\n¿Por qué volviste?"
+        "en-US": "[Big SkellyCat]\nWhy did you return?",
+        "pt-BR": "[Zumbichano de Juba]\nPor que voltou?",
+        "es-ES": "[Gran Zombigato]\n¿Por qué volviste?"
     },
     "cEDgDQ": {
         "en-US": "About Jakk.",
@@ -1845,214 +1845,214 @@
         "es-ES": "Sobre Jakk."
     },
     "cUDgDQ": {
-        "en-US": "[Zombicat]\nHe's being stubborn, I see.\nI too...\nIt's not that I don't think about returning to Jakk.",
-        "pt-BR": "[Zumbichano]\nEstá sendo teimoso, pelo visto.\nEu também...\nNão é que não pense em voltar para o Jakk.",
-        "es-ES": "[Zombigato]\nEstá siendo terco, por lo visto.\nYo también...\nNo es que no piense en volver con Jakk."
+        "en-US": "[Big SkellyCat]\nHe's being stubborn, I see.\nI too...\nIt's not that I don't think about returning to Jakk.",
+        "pt-BR": "[Zumbichano de Juba]\nEstá sendo teimoso, pelo visto.\nEu também...\nNão é que não pense em voltar para o Jakk.",
+        "es-ES": "[Gran Zombigato]\nEstá siendo terco, por lo visto.\nYo también...\nNo es que no piense en volver con Jakk."
     },
     "ckDgDQ": {
-        "en-US": "[Zombicat]\nBut look at me.\nI'm no longer the white, cute Kitty.",
-        "pt-BR": "[Zumbichano]\nMas olhe para mim.\nNão sou mais o Gatinho branco e fofo.",
-        "es-ES": "[Zombigato]\nPero mírame.\nYa no soy el Gatito blanco y lindo."
+        "en-US": "[Big SkellyCat]\nBut look at me.\nI'm no longer the white, cute Kitty.",
+        "pt-BR": "[Zumbichano de Juba]\nMas olhe para mim.\nNão sou mais o Gatinho branco e fofo.",
+        "es-ES": "[Gran Zombigato]\nPero mírame.\nYa no soy el Gatito blanco y lindo."
     },
     "c0DgDQ": {
-        "en-US": "[Zombicat]\nBesides...\nWhat changed wasn't just the appearance.\nEverything about me changed.",
-        "pt-BR": "[Zumbichano]\nAlém disso...\nO que mudou não foi só a aparência.\nTudo em mim mudou.",
-        "es-ES": "[Zombigato]\nAdemás...\nLo que cambió no fue solo la apariencia.\nTodo en mí cambió."
+        "en-US": "[Big SkellyCat]\nBesides...\nWhat changed wasn't just the appearance.\nEverything about me changed.",
+        "pt-BR": "[Zumbichano de Juba]\nAlém disso...\nO que mudou não foi só a aparência.\nTudo em mim mudou.",
+        "es-ES": "[Gran Zombigato]\nAdemás...\nLo que cambió no fue solo la apariencia.\nTodo en mí cambió."
     },
     "dEDgDQ": {
-        "en-US": "[Zombicat]\nThat's all I can say.\nNow, please go.",
-        "pt-BR": "[Zumbichano]\nÉ tudo o que posso dizer.\nAgora, por favor, vá.",
-        "es-ES": "[Zombigato]\nEs todo lo que puedo decir.\nAhora, por favor, vete."
+        "en-US": "[Big SkellyCat]\nThat's all I can say.\nNow, please go.",
+        "pt-BR": "[Zumbichano de Juba]\nÉ tudo o que posso dizer.\nAgora, por favor, vá.",
+        "es-ES": "[Gran Zombigato]\nEs todo lo que puedo decir.\nAhora, por favor, vete."
     },
     "dUDgDQ": {
-        "en-US": "[Zombicat]\nReally, you don't know how to give up...",
-        "pt-BR": "[Zumbichano]\nRealmente, você não desiste...",
-        "es-ES": "[Zombigato]\nRealmente, no sabes rendirte..."
+        "en-US": "[Big SkellyCat]\nReally, you don't know how to give up...",
+        "pt-BR": "[Zumbichano de Juba]\nRealmente, você não sabe desistir...",
+        "es-ES": "[Gran Zombigato]\nRealmente, no sabes rendirte..."
     },
     "dkDgDQ": {
-        "en-US": "About the other Zombicat.",
+        "en-US": "About the other Big SkellyCat.",
         "pt-BR": "Sobre o outro Zumbichano.",
-        "es-ES": "Sobre el otro Zombigato."
+        "es-ES": "Sobre el otro Gran Zombigato."
     },
     "d0DgDQ": {
-        "en-US": "[Zombicat]\nThe place where I was born was also there.\nI only remember fear...hunger...and unbearable cold...",
-        "pt-BR": "[Zumbichano]\nEu também nasci lá.\nSó me lembro do medo...da fome...e de um frio insuportável...",
-        "es-ES": "[Zombigato]\nTambién nací allí.\nSolo recuerdo el miedo... el hambre... y un frío insoportable..."
+        "en-US": "[Big SkellyCat]\nThe place where I was born was also there.\nI only remember fear...hunger...and unbearable cold...",
+        "pt-BR": "[Zumbichano de Juba]\nO lugar onde nasci também era lá.\nSó me lembro de medo...fome...e um frio insuportável...",
+        "es-ES": "[Gran Zombigato]\nEl lugar donde nací también era allí.\nSolo recuerdo miedo...hambre...y un frío insoportable..."
     },
     "eEDgDQ": {
         "en-US": "Show discovery.",
         "pt-BR": "Mostrar descoberta.",
-        "es-ES": "Mostrar descubrimientos."
+        "es-ES": "Mostrar descubrimiento."
     },
     "eUDgDQ": {
-        "en-US": "[Zombicat]\nAAAA!\nWhat is this!\nI don't know!\nArgh!!!!!!!!!!!!!!!!!",
-        "pt-BR": "[Zumbichano]\nAAAA!\nO que é isso!\nNão sei!\nArgh!!!!!!!!!!!!!!!!!",
-        "es-ES": "[Zombigato]\n¡¡¡¡AAAA!\n¿¡Qué es esto!?\n¡No sé!\n¡¡Arrgh!!!!!!!!!!!!!!!!!"
+        "en-US": "[Big SkellyCat]\nAAAA!\nWhat is this!\nI don't know!\nArgh!!!!!!!!!!!!!!!!!",
+        "pt-BR": "[Zumbichano de Juba]\nAAAA!\nO que é isso!\nNão sei!\nArgh!!!!!!!!!!!!!!!!!",
+        "es-ES": "[Gran Zombigato]\n¡¡¡¡AAAA!\n¿¡Qué es esto!?\n¡No sé!\n¡¡Arrgh!!!!!!!!!!!!!!!!!"
     },
     "ekDgDQ": {
-        "en-US": "[Zombicat]\n...\n...\n......",
-        "pt-BR": "[Zumbichano]\n...\n...\n......",
-        "es-ES": "[Zombigato]\n...\n...\n......"
+        "en-US": "[Big SkellyCat]\n...\n...\n......",
+        "pt-BR": "[Zumbichano de Juba]\n...\n...\n......",
+        "es-ES": "[Gran Zombigato]\n...\n...\n......"
     },
     "e0DgDQ": {
-        "en-US": "- After thrashing for a while, the Zombicat seems to have calmed down a bit and starts speaking again. -",
-        "pt-BR": "- Depois de se debater por um tempo, o Zumbichano parece ter se acalmado um pouco e começa a falar de novo. -",
-        "es-ES": "- Después de debatirse un rato, el Zombigato parece haberse calmado un poco y empieza a hablar de nuevo. -"
+        "en-US": "- After thrashing for a while, the Big SkellyCat seems to have calmed down a bit and starts speaking again. -",
+        "pt-BR": "- Depois de se debater por um tempo, o Zumbichano de Juba parece ter se acalmado um pouco e começa a falar de novo. -",
+        "es-ES": "- Después de debatirse un rato, el Gran Zombigato parece haberse calmado un poco y empieza a hablar de nuevo. -"
     },
     "fEDgDQ": {
-        "en-US": "[Zombicat]\nWhere on earth did you get such an incredible thing...\n...I was just arrogant, thinking I had obtained all knowledge.",
-        "pt-BR": "[Zumbichano]\nOnde diabos conseguiu uma coisa incrível dessas?\n...Eu fui arrogante a ponto de achar que tinha adquirido todo o conhecimento.",
-        "es-ES": "[Zombigato]\n¿De dónde sacaste algo tan increíble...?\n...Fui arrogante al pensar que había adquirido todo el conocimiento."
+        "en-US": "[Big SkellyCat]\nWhere on earth did you get such an incredible thing...\n...I was just arrogant, thinking I had obtained all knowledge.",
+        "pt-BR": "[Zumbichano de Juba]\nOnde diabos conseguiu uma coisa tão incrível...\n...Eu era apenas arrogante, pensando que tinha obtido todo o conhecimento.",
+        "es-ES": "[Gran Zombigato]\n¿Dónde diablos conseguiste algo tan increíble...\n...Solo era arrogante, pensando que había obtenido todo el conocimiento."
     },
     "fUDgDQ": {
-        "en-US": "[Zombicat]\nI showed my shameful side, meow.",
-        "pt-BR": "[Zumbichano]\nMostrei meu lado vergonhoso, miau.",
-        "es-ES": "[Zombigato]\nMostré mi lado vergonzoso, miau."
+        "en-US": "[Big SkellyCat]\nI showed my shameful side, meow.",
+        "pt-BR": "[Zumbichano de Juba]\nMostrei meu lado vergonhoso, miau.",
+        "es-ES": "[Gran Zombigato]\nMostré mi lado vergonzoso, miau."
     },
     "fkDgDQ": {
-        "en-US": "[Zombicat]\nI need to embark on a new adventure.\nIt seems my training is still insufficient.",
-        "pt-BR": "[Zumbichano]\nPreciso partir em uma nova aventura.\nParece que meu treinamento ainda é insuficiente.",
-        "es-ES": "[Zombigato]\nNecesito partir en una nueva aventura.\nParece que mi entrenamiento todavía es insuficiente."
+        "en-US": "[Big SkellyCat]\nI need to embark on a new adventure.\nIt seems my training is still insufficient.",
+        "pt-BR": "[Zumbichano de Juba]\nPreciso partir em uma nova aventura.\nParece que meu treinamento ainda é insuficiente.",
+        "es-ES": "[Gran Zombigato]\nNecesito partir en una nueva aventura.\nParece que mi entrenamiento todavía es insuficiente."
     },
     "f0DgDQ": {
-        "en-US": "[Zombicat]\nTell Jakk that I have left.\nThat he shouldn't wait for me, as I don't know when I'll return...",
-        "pt-BR": "[Zumbichano]\nDiga ao Jakk que eu parti.\nQue não espere por mim, pois não sei quando voltarei...",
-        "es-ES": "[Zombigato]\nDile a Jakk que me fui.\nQue no me espere, pues no sé cuándo volveré..."
+        "en-US": "[Big SkellyCat]\nTell Jakk that I have left.\nThat he shouldn't wait for me, as I don't know when I'll return...",
+        "pt-BR": "[Zumbichano de Juba]\nDiga ao Jakk que eu parti.\nQue não espere por mim, pois não sei quando voltarei...",
+        "es-ES": "[Gran Zombigato]\nDile a Jakk que me fui.\nQue no me espere, pues no sé cuándo volveré..."
     },
     "gEDgDQ": {
-        "en-US": "[Zombicat]\nAnd keep this.\nIf you examine it well, it might be useful somewhere.",
-        "pt-BR": "[Zumbichano]\nE fique com isso.\nSe examinar bem, pode ser útil em algum lugar.",
-        "es-ES": "[Zombigato]\nY quédate con esto.\nSi lo examinas bien, puede ser útil en algún lugar."
+        "en-US": "[Big SkellyCat]\nAnd keep this.\nIf you examine it well, it might be useful somewhere.",
+        "pt-BR": "[Zumbichano de Juba]\nE fique com isso.\nSe examinar bem, pode ser útil em algum lugar.",
+        "es-ES": "[Gran Zombigato]\nY quédate con esto.\nSi lo examinas bien, puede ser útil en algún lugar."
     },
     "gUDgDQ": {
-        "en-US": "[Zombicat]\nWell, take care.",
-        "pt-BR": "[Zumbichano]\nBem, cuide-se.",
-        "es-ES": "[Zombigato]\nBueno, cuídate."
+        "en-US": "[Big SkellyCat]\nWell, take care.",
+        "pt-BR": "[Zumbichano de Juba]\nBem, cuide-se.",
+        "es-ES": "[Gran Zombigato]\nBueno, cuídate."
     },
     "gkDgDQ": {
-        "en-US": "Zombicat's Grave",
+        "en-US": "SkellyCat's Grave",
         "pt-BR": "Cova do Zumbichano",
         "es-ES": "Tumba del Zombigato"
     },
     "g0DgDQ": {
-        "en-US": "[Zombicat's Grave]\n....Meow.....",
+        "en-US": "[SkellyCat's Grave]\n....Meow.....",
         "pt-BR": "[Cova do Zumbichano]\n....Miau.....",
         "es-ES": "[Tumba del Zombigato]\n....Miau....."
     },
     "hEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nI only see darkness....",
+        "en-US": "[SkellyCat's Grave]\nI only see darkness....",
         "pt-BR": "[Cova do Zumbichano]\nSó vejo escuridão....",
         "es-ES": "[Tumba del Zombigato]\nSolo veo oscuridad...."
     },
     "hUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nThe air in this place is very cold....",
+        "en-US": "[SkellyCat's Grave]\nThe air in this place is very cold....",
         "pt-BR": "[Cova do Zumbichano]\nO ar deste lugar é muito frio....",
         "es-ES": "[Tumba del Zombigato]\nEl aire de este lugar es muy frío...."
     },
     "hkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nCough...cough...\nIt's cold...",
+        "en-US": "[SkellyCat's Grave]\nCough...cough...\nIt's cold...",
         "pt-BR": "[Cova do Zumbichano]\nCof...cof...\nEstá frio...",
         "es-ES": "[Tumba del Zombigato]\nCof...cof...\nHace frío..."
     },
     "h0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nI can't put strength into my whole body...\nIs this death?...",
-        "pt-BR": "[Cova do Zumbichano]\nNão consigo reunir forças...\nSerá que é isso a morte?...",
-        "es-ES": "[Tumba del Zombigato]\nNo puedo reunir fuerzas en todo mi cuerpo...\n¿Esto es la muerte?..."
+        "en-US": "[SkellyCat's Grave]\nI can't put strength into my whole body...\nIs this death?...",
+        "pt-BR": "[Cova do Zumbichano]\nNão consigo colocar força no corpo todo...\nIsto é a morte?...",
+        "es-ES": "[Tumba del Zombigato]\nNo puedo poner fuerza en todo el cuerpo...\n¿Esto es la muerte?..."
     },
     "iEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nHey...\nYou there...\nI think it's my end...",
+        "en-US": "[SkellyCat's Grave]\nHey...\nYou there...\nI think it's my end...",
         "pt-BR": "[Cova do Zumbichano]\nEi...\nVocê aí...\nAcho que é meu fim...",
         "es-ES": "[Tumba del Zombigato]\nOye...\nTú...\nCreo que es mi fin..."
     },
     "iUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nMy life is hanging by a thread, but...\nWouldn't you give me a little charity?",
-        "pt-BR": "[Cova do Zumbichano]\nMinha vida está por um fio, mas...\nNão poderia ter um pouco de compaixão?",
-        "es-ES": "[Tumba del Zombigato]\nMi vida pende de un hilo, pero...\n¿No podrías tener un poco de compasión?"
+        "en-US": "[SkellyCat's Grave]\nMy life is hanging by a thread, but...\nWouldn't you give me a little charity?",
+        "pt-BR": "[Cova do Zumbichano]\nMinha vida está por um fio, mas...\nNão me faria um pouco de caridade?",
+        "es-ES": "[Tumba del Zombigato]\nMi vida pende de un hilo, pero...\n¿No me harías un poco de caridad?"
     },
     "ikDgDQ": {
-        "en-US": "[Zombicat's Grave]\nI'm not afraid of dying, but this terrible cold is simply unbearable... cough cough.",
+        "en-US": "[SkellyCat's Grave]\nI'm not afraid of dying, but this terrible cold is simply unbearable... cough cough.",
         "pt-BR": "[Cova do Zumbichano]\nNão tenho medo de morrer, mas este frio terrível é simplesmente insuportável... cof cof.",
         "es-ES": "[Tumba del Zombigato]\nNo le tengo miedo a morir, pero este frío terrible es simplemente insoportable... cof cof."
     },
     "i0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nIt's my last request...\nCouldn't you get something warm to cover me?...",
-        "pt-BR": "[Cova do Zumbichano]\nÉ meu último pedido...\nPoderia arranjar algo quente para me cobrir?...",
+        "en-US": "[SkellyCat's Grave]\nIt's my last request...\nCouldn't you get something warm to cover me?...",
+        "pt-BR": "[Cova do Zumbichano]\nÉ meu último pedido...\nNão conseguiria conseguir algo quente para me cobrir?...",
         "es-ES": "[Tumba del Zombigato]\nEs mi último pedido...\n¿No podrías conseguir algo caliente para cubrirme?..."
     },
     "jEDgDQ": {
-        "en-US": "[Zombicat's Grave]\n^FF00005 Black Plushes^000000 that you can get nearby would be enough.",
-        "pt-BR": "[Cova do Zumbichano]\n^FF00005 Pelugens Negras^000000 que conseguir por perto já serão suficientes.",
-        "es-ES": "[Tumba del Zombigato]\n^FF00005 Pelajes Negros^000000 que puedas conseguir por aquí ya estarían bien."
+        "en-US": "[SkellyCat's Grave]\n^FF00005 Black Furs^000000 that you can get nearby would be enough.",
+        "pt-BR": "[Cova do Zumbichano]\n^FF00005 Pelugens Negras^000000 que possa conseguir por perto já estariam bons.",
+        "es-ES": "[Tumba del Zombigato]\n^FF00005 Pelos Negros^000000 que puedas conseguir por aquí ya estarían bien."
     },
     "jUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nAh... you came...",
+        "en-US": "[SkellyCat's Grave]\nAh... you came...",
         "pt-BR": "[Cova do Zumbichano]\nAh... você veio...",
         "es-ES": "[Tumba del Zombigato]\nAh... viniste..."
     },
     "jkDgDQ": {
-        "en-US": "Cover with Black Plush.",
+        "en-US": "Cover with Black Fur.",
         "pt-BR": "Cobrir com Pelugem Negra.",
-        "es-ES": "Cubrir con Pelaje Negro."
+        "es-ES": "Cubrir con Pelo Negro."
     },
     "j0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nAhh....\nThank you very much...\nFor a stranger like me, doing this...\nNow I can close my eyes in peace...",
+        "en-US": "[SkellyCat's Grave]\nAhh....\nThank you very much...\nFor a stranger like me, doing this...\nNow I can close my eyes in peace...",
         "pt-BR": "[Cova do Zumbichano]\nAhh....\nMuito obrigado...\nPor um estranho como eu, fazer isso...\nAgora posso fechar os olhos em paz...",
         "es-ES": "[Tumba del Zombigato]\nAhh....\nMuchas gracias...\nPor un extraño como yo, hacer eso...\nAhora puedo cerrar los ojos en paz..."
     },
     "kEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nAhhh... so warm....\n......\n......\n...",
+        "en-US": "[SkellyCat's Grave]\nAhhh... so warm....\n......\n......\n...",
         "pt-BR": "[Cova do Zumbichano]\nAhhh... tão quente....\n......\n......\n...",
         "es-ES": "[Tumba del Zombigato]\nAhhh... tan caliente....\n......\n......\n..."
     },
     "kUDgDQ": {
-        "en-US": "[Zombicat's Grave]\n.........It's not at all!!!!!!\nWhat is this!\nIt's cold!!!",
-        "pt-BR": "[Cova do Zumbichano]\n.........Não está nada!!!!!!\nO que é isso?\nEstá frio!!!",
+        "en-US": "[SkellyCat's Grave]\n.........It's not at all!!!!!!\nWhat is this!\nIt's cold!!!",
+        "pt-BR": "[Cova do Zumbichano]\n.........Não está nada!!!!!!\nO que é isso!\nEstá frio!!!",
         "es-ES": "[Tumba del Zombigato]\n.........¡¡¡¡No está nada!!!!!!\n¿¡Qué es esto!?\n¡¡¡Hace frío!!!"
     },
     "kkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nAh!!!!!!!\nI'm freezing!!!!!\nWhere the hell am I!\nWhy is it so cold!",
+        "en-US": "[SkellyCat's Grave]\nAh!!!!!!!\nI'm freezing!!!!!\nWhere the hell am I!\nWhy is it so cold!",
         "pt-BR": "[Cova do Zumbichano]\nAh!!!!!!!\nEstou congelando!!!!!\nOnde diabos estou!\nPor que está tão frio!",
         "es-ES": "[Tumba del Zombigato]\n¡¡¡¡Ah!!!!!!!\n¡¡¡¡Me estoy congelando!!!!!\n¿¡Dónde diablos estoy!?\n¿Por qué hace tanto frío!"
     },
     "k0DgDQ": {
-        "en-US": "You are in the Gyoll Valley",
-        "pt-BR": "Você está no Vale de Gyolll",
-        "es-ES": "Estás en el Valle de Gyolll"
+        "en-US": "You are in the Valley of Gyoll",
+        "pt-BR": "Você está no Vale de Gyoll",
+        "es-ES": "Estás en el Valle de Gyoll"
     },
     "lEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nWhat! Gyoll Valley?...\nAm I already dead?!",
+        "en-US": "[SkellyCat's Grave]\nWhat! Valley of Gyoll?...\nAm I already dead?!",
         "pt-BR": "[Cova do Zumbichano]\nO quê! Vale de Gyoll?...\nSerá que já estou morto?!",
         "es-ES": "[Tumba del Zombigato]\n¡¿Qué?! ¿Valle de Gyoll?...\n¿Será que ya estoy muerto?!"
     },
     "lUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nNo!\nIf I'm dead, why is it so cold!?\nMy golden fur was so....\nAh!!!!\nWhere did my fur go!!!",
-        "pt-BR": "[Cova do Zumbichano]\nNão!\nSe estou morto, por que está tão frio!?\nMinha pele dourada era tão....\nAh!!!!\nCadê minha pele???",
+        "en-US": "[SkellyCat's Grave]\nNo!\nIf I'm dead, why is it so cold!?\nMy golden fur was so....\nAh!!!!\nWhere did my fur go!!!",
+        "pt-BR": "[Cova do Zumbichano]\nNão!\nSe estou morto, por que está tão frio!?\nMinha pele dourada era tão....\nAh!!!!\nPara onde foi minha pele!!!",
         "es-ES": "[Tumba del Zombigato]\n¡No!\n¡Si estoy muerto, ¿por qué hace tanto frío!?\n¡Mi piel dorada era tan....!\n¡¡Ah!!!!\n¡¿Para dónde se fue mi piel?!"
     },
     "lkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nAh!\nWhat!\nMy body won't move and what is this!!!!\nWhat is thiiiiiiiiis?????",
-        "pt-BR": "[Cova do Zumbichano]\nAh!\nO quê?!\nMeu corpo não se mexe, e o que é isso?!\nO que é isoooooooo?????",
-        "es-ES": "[Tumba del Zombigato]\n¡Ah!\n¡¿Qué?!\n¡Mi cuerpo no se mueve y qué es esto!!!!\n¿¿¿Qué es estoooooooo?????"
+        "en-US": "[SkellyCat's Grave]\nAh!\nWhat!\nMy body won't move and what is this!!!!\nWhat is thiiiiiiiiis?????",
+        "pt-BR": "[Cova do Zumbichano]\nAh!\nO quê!\nMeu corpo não se move e o que é isso!!!!\nO que é isssooooooooo?????",
+        "es-ES": "[Tumba del Zombigato]\n¡Ah!\n¡¿Qué?!\n¡Mi cuerpo no se mueve y qué es esto!!!!\n¡¿Qué es estoooooooooooo?????"
     },
     "l0DgDQ": {
-        "en-US": "- The Zombicat is very agitated, it seems impossible to continue the conversation. Let's return to Jakk. -",
+        "en-US": "- The SkellyCat is very agitated, it seems impossible to continue the conversation. Let's return to Jakk. -",
         "pt-BR": "- O Zumbichano está muito agitado, parece impossível continuar a conversa. Vamos voltar para o Jakk. -",
         "es-ES": "- El Zombigato está muy agitado, parece imposible continuar la conversa. Volvamos con Jakk. -"
     },
     "mEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nArrgh!!!!!!!!!!!!!!\nI'm angry!!!!",
+        "en-US": "[SkellyCat's Grave]\nArrgh!!!!!!!!!!!!!!\nI'm angry!!!!",
         "pt-BR": "[Cova do Zumbichano]\nArrgh!!!!!!!!!!!!!!\nEstou com raiva!!!!",
         "es-ES": "[Tumba del Zombigato]\n¡¡Arrgh!!!!!!!!!!!!!!\n¡¡Estoy enojado!!!!"
     },
     "mUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nArrgh!!!!!!!!!!!!!!\nI'm angry!!!!\nIt's cold, I can't move, what is this?????",
+        "en-US": "[SkellyCat's Grave]\nArrgh!!!!!!!!!!!!!!\nI'm angry!!!!\nIt's cold, I can't move, what is this?????",
         "pt-BR": "[Cova do Zumbichano]\nArrgh!!!!!!!!!!!!!!\nEstou com raiva!!!!\nEstá frio, não consigo me mover, o que é isso?????",
         "es-ES": "[Tumba del Zombigato]\n¡¡Arrgh!!!!!!!!!!!!!!\n¡¡Estoy enojado!!!!\n¡Hace frío, no me puedo mover, ¿qué es esto?????"
     },
     "mkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nWhat now!\nDid you come to laugh at me because I can't move????\nAAAAAhhh!",
-        "pt-BR": "[Cova do Zumbichano]\nE agora?!\nVocê veio rir de mim porque não consigo me mexer????\nAAAAAhhh!",
-        "es-ES": "[Tumba del Zombigato]\n¡¿Y ahora qué?!\n¿¿¿Viniste a reírte de mí porque no puedo moverme????\n¡AAAAAhhh!"
+        "en-US": "[SkellyCat's Grave]\nWhat now!\nDid you come to laugh at me because I can't move????\nAAAAAhhh!",
+        "pt-BR": "[Cova do Zumbichano]\nO que é agora!\nVeio para rir de mim, que não consigo me mover????\nAAAAAhhh!",
+        "es-ES": "[Tumba del Zombigato]\n¡¿Qué pasa ahora!?\n¿Viniste a reírte de mí, que no me puedo mover????\n¡¡¡AAAhhh!"
     },
     "m0DgDQ": {
         "en-US": "Tie the scattered bones together.",
@@ -2060,49 +2060,49 @@
         "es-ES": "Atar los huesos esparcidos."
     },
     "nEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nStop with these useless things!\nThat won't solve it!",
+        "en-US": "[SkellyCat's Grave]\nStop with these useless things!\nThat won't solve it!",
         "pt-BR": "[Cova do Zumbichano]\nPare com essas coisas inúteis!\nIsso não vai resolver!",
         "es-ES": "[Tumba del Zombigato]\n¡Basta con esas cosas inútiles!\n¡Eso no va a resolver!"
     },
     "nUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nMy body shattered, bone by bone!\nTo think that tying them like this will make me move............\n..................",
+        "en-US": "[SkellyCat's Grave]\nMy body shattered, bone by bone!\nTo think that tying them like this will make me move............\n..................",
         "pt-BR": "[Cova do Zumbichano]\nMeu corpo se despedaçou, osso por osso!\nAchar que amarrando assim eu vou me mover............\n..................",
         "es-ES": "[Tumba del Zombigato]\n¡Mi cuerpo se despedazó, hueso por hueso!\nCreer que atándome así me voy a mover............\n.................."
     },
     "nkDgDQ": {
-        "en-US": "[Zombicat's Grave]\n.......I'm moving!\nHow the hell is this body made!",
-        "pt-BR": "[Cova do Zumbichano]\n.......Estou me mexendo!\nQue diabos é esse corpo?!",
-        "es-ES": "[Tumba del Zombigato]\n.......¡Me estoy moviendo!\n¡¿Cómo demonios está hecho este cuerpo?!"
+        "en-US": "[SkellyCat's Grave]\n.......I'm moving!\nHow the hell is this body made!",
+        "pt-BR": "[Cova do Zumbichano]\n.......Estou me movendo!\nComo diabos é feito este corpo!",
+        "es-ES": "[Tumba del Zombigato]\n.......¡Me estoy moviendo!\n¿¡Cómo diablos está hecho este cuerpo!"
     },
     "n0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nAh...anyway, thank you.\nIt's still cold, but thanks to you, I can move a little.",
+        "en-US": "[SkellyCat's Grave]\nAh...anyway, thank you.\nIt's still cold, but thanks to you, I can move a little.",
         "pt-BR": "[Cova do Zumbichano]\nAh...de qualquer forma, obrigado.\nAinda está frio, mas graças a você, consigo me mover um pouco.",
         "es-ES": "[Tumba del Zombigato]\nAh...de cualquier forma, gracias.\nTodavía hace frío, pero gracias a ti, puedo moverme un poco."
     },
     "oEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nTo move properly, I think I need to get more used to it...",
+        "en-US": "[SkellyCat's Grave]\nTo move properly, I think I need to get more used to it...",
         "pt-BR": "[Cova do Zumbichano]\nPara me mover direito, acho que preciso me acostumar mais...",
         "es-ES": "[Tumba del Zombigato]\nPara moverme bien, creo que necesito acostumbrarme más..."
     },
     "oUDgDQ": {
-        "en-US": "[Zombicat's Grave]\n- Hunger Growl -",
+        "en-US": "[SkellyCat's Grave]\n- Hunger Growl -",
         "pt-BR": "[Cova do Zumbichano]\n- Ronco de Fome -",
         "es-ES": "[Tumba del Zombigato]\n- Ronquido de Hambre -"
     },
     "okDgDQ": {
-        "en-US": "[Zombicat's Grave]\nSeriously...\nHow the hell is this body made!!!!!!\nI only have bones, where is this sound coming from!!!",
-        "pt-BR": "[Cova do Zumbichano]\nSério...\nComo diabos esse corpo funciona???\nEu só tenho ossos, de onde está vindo esse som???",
-        "es-ES": "[Tumba del Zombigato]\nEn serio...\n¡¿Cómo demonios funciona este cuerpo?!\n¡Solo tengo huesos! ¿¡De dónde sale este sonido!?"
+        "en-US": "[SkellyCat's Grave]\nSeriously...\nHow the hell is this body made!!!!!!\nI only have bones, where is this sound coming from!!!",
+        "pt-BR": "[Cova do Zumbichano]\nÉ sério...\nComo diabos é feito este corpo!!!!!!\nSó tenho ossos, de onde está vindo esse som!!!",
+        "es-ES": "[Tumba del Zombigato]\nEn serio...\n¡¡¿Cómo diablos está hecho este cuerpo?!!\n¡Solo tengo huesos, ¿de dónde sale este sonido?!"
     },
     "o0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nAh... how embarrassing.\nSince you helped me, can I ask for one more favor?",
+        "en-US": "[SkellyCat's Grave]\nAh... how embarrassing.\nSince you helped me, can I ask for one more favor?",
         "pt-BR": "[Cova do Zumbichano]\nAh... que vergonha.\nJá que me ajudou, posso pedir mais um favor?",
         "es-ES": "[Tumba del Zombigato]\nAh... qué vergüenza.\nYa que me ayudaste, ¿puedo pedirte otro favor?"
     },
     "pEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nYou seem to know me well, so...\nWhat can I eat...\nCan you get me a little of what I can eat?",
-        "pt-BR": "[Cova do Zumbichano]\nVocê parece me conhecer bem, então...\nO que posso comer...\nPode conseguir um pouco de algo que eu possa comer?",
-        "es-ES": "[Tumba del Zombigato]\nPareces conocerme bien, entonces...\n¿Qué puedo comer...\n¿Podrías conseguirme un poco de algo que pueda comer?"
+        "en-US": "[SkellyCat's Grave]\nYou seem to know me well, so...\nWhat can I eat...\nCan you get me a little of what I can eat?",
+        "pt-BR": "[Cova do Zumbichano]\nVocê parece me conhecer bem, então...\nO que posso comer...\nConsegue um pouco do que posso comer?",
+        "es-ES": "[Tumba del Zombigato]\nPareces conocerme bien, entonces...\n¿Qué puedo comer...\nPuedes conseguir un poco de lo que puedo comer?"
     },
     "pUDgDQ": {
         "en-US": "Give the Fresh Fish.",
@@ -2110,72 +2110,72 @@
         "es-ES": "Dar los Pescados Frescos."
     },
     "pkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nWhat...what flavor is this????\nEven though it's the first time I'm eating it, that sweet odor sliding down my mouth!",
+        "en-US": "[SkellyCat's Grave]\nWhat...what flavor is this????\nEven though it's the first time I'm eating it, that sweet odor sliding down my mouth!",
         "pt-BR": "[Cova do Zumbichano]\nO quê...que sabor é este????\nApesar de ser a primeira vez que como, esse odor adocicado que desliza pela boca!",
         "es-ES": "[Tumba del Zombigato]\n¿Qué... qué sabor es este????\n¡A pesar de ser la primera vez que como, este olor dulzón que se desliza por la boca!"
     },
     "p0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nThe crunchy texture of each scale, as if alive!\nNot even when I was alive did I taste something like this!",
+        "en-US": "[SkellyCat's Grave]\nThe crunchy texture of each scale, as if alive!\nNot even when I was alive did I taste something like this!",
         "pt-BR": "[Cova do Zumbichano]\nA textura crocante de cada escama, como se estivesse viva!\nNem quando estava vivo senti um gosto assim!",
         "es-ES": "[Tumba del Zombigato]\n¡La textura crujiente de cada escama, como si estuviera viva!\n¡Ni cuando estaba vivo sentí un sabor así!"
     },
     "qEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nThank you...",
+        "en-US": "[SkellyCat's Grave]\nThank you...",
         "pt-BR": "[Cova do Zumbichano]\nObrigado...",
         "es-ES": "[Tumba del Zombigato]\nGracias..."
     },
     "qUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nAnd lastly...\nThese stems that tied me.\nCould you get 20 more of them?",
-        "pt-BR": "[Cova do Zumbichano]\nE por último...\nEsses caules com os quais me amarraram.\nConseguiria mais 20 deles?",
+        "en-US": "[SkellyCat's Grave]\nAnd lastly...\nThese stems that tied me.\nCould you get 20 more of them?",
+        "pt-BR": "[Cova do Zumbichano]\nE por último...\nEsses caules que me amarraram.\nConseguiria mais 20 deles?",
         "es-ES": "[Tumba del Zombigato]\nY por último...\nEsos tallos con los que me amarraste.\n¿Podrías conseguir 20 más de ellos?"
     },
     "qkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nThe reason... I'll tell if you do me this favor.",
+        "en-US": "[SkellyCat's Grave]\nThe reason... I'll tell if you do me this favor.",
         "pt-BR": "[Cova do Zumbichano]\nA razão... conto se me fizer esse favor.",
         "es-ES": "[Tumba del Zombigato]\nLa razón... te cuento si me haces ese favor."
     },
     "q0DgDQ": {
-        "en-US": "- I feel an energy similar to Zombicat's in the Zombicat I met again. -",
-        "pt-BR": "- Sinto uma energia semelhante à do Zumbichano no Zumbichano que encontrei de novo. -",
-        "es-ES": "- Siento una energía similar a la del Zombigato en el Zombigato que encontré de nuevo. -"
+        "en-US": "- I feel a similar energy to the Big SkellyCat in the SkellyCat I met again. -",
+        "pt-BR": "- Sinto uma energia semelhante à do Zumbichano de Juba no Zumbichano que encontrei de novo. -",
+        "es-ES": "- Siento una energía similar a la del Gran Zombigato en el Zombigato que encontré de nuevo. -"
     },
     "rEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nYou returned...\nThank you very much.",
+        "en-US": "[SkellyCat's Grave]\nYou returned...\nThank you very much.",
         "pt-BR": "[Cova do Zumbichano]\nVoltou...\nMuito obrigado.",
         "es-ES": "[Tumba del Zombigato]\nVolviste...\nMuchas gracias."
     },
     "rUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nI, who was reborn in this place, was in despair, and that despair soon turned into anger.",
+        "en-US": "[SkellyCat's Grave]\nI, who was reborn in this place, was in despair, and that despair soon turned into anger.",
         "pt-BR": "[Cova do Zumbichano]\nEu, que renasci neste lugar, estava em desespero, e esse desespero logo se transformou em raiva.",
         "es-ES": "[Tumba del Zombigato]\nYo, que renací en este lugar, estaba desesperado, y esa desesperación pronto se transformó en rabia."
     },
     "rkDgDQ": {
-        "en-US": "[Zombicat's Grave]\nBut seeing you help me, even though I only knew how to shout angrily, my anger gradually disappeared.",
+        "en-US": "[SkellyCat's Grave]\nBut seeing you help me, even though I only knew how to shout angrily, my anger gradually disappeared.",
         "pt-BR": "[Cova do Zumbichano]\nMas vendo você me ajudar, mesmo eu só sabendo gritar com raiva, minha raiva foi desaparecendo aos poucos.",
         "es-ES": "[Tumba del Zombigato]\nPero al verte ayudarme, aun cuando yo solo sabía gritar con rabia, mi rabia fue desapareciendo poco a poco."
     },
     "r0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nI... will now travel.",
+        "en-US": "[SkellyCat's Grave]\nI... will now travel.",
         "pt-BR": "[Cova do Zumbichano]\nEu... agora vou viajar.",
         "es-ES": "[Tumba del Zombigato]\nYo... ahora voy a viajar."
     },
     "sEDgDQ": {
-        "en-US": "[Zombicat's Grave]\nI will go to the place where I was originally born, find that idiot who said he would raise his children with strength and threw them down the hill.",
-        "pt-BR": "[Cova do Zumbichano]\nVou voltar ao lugar onde nasci originalmente e encontrar aquele idiota que disse que criaria os filhos fortes e os jogou morro abaixo.",
-        "es-ES": "[Tumba del Zombigato]\nIré al lugar donde nací originalmente y encontraré a ese idiota que dijo que criaría a sus hijos fuertes y los arrojó por la colina."
+        "en-US": "[SkellyCat's Grave]\nI will go to the place where I was originally born, find that idiot who said he would raise his children with strength and threw them down the hill.",
+        "pt-BR": "[Cova do Zumbichano]\nVou para o lugar onde nasci originalmente, encontrar aquele idiota que disse que criaria seus filhos com força e os jogou morro abaixo.",
+        "es-ES": "[Tumba del Zombigato]\nVoy al lugar donde nací originalmente, a encontrar a ese idiota que dijo que criaría a sus hijos con fuerza y los tiró cuesta abajo."
     },
     "sUDgDQ": {
-        "en-US": "[Zombicat's Grave]\nThis is the only memory fragment that came to me after the anger disappeared.",
+        "en-US": "[SkellyCat's Grave]\nThis is the only memory fragment that came to me after the anger disappeared.",
         "pt-BR": "[Cova do Zumbichano]\nEste é o único fragmento de memória que me veio após a raiva desaparecer.",
         "es-ES": "[Tumba del Zombigato]\nEste es el único fragmento de memoria que me vino después de que la rabia desapareció."
     },
     "skDgDQ": {
-        "en-US": "[Zombicat's Grave]\nAnd before leaving, as a reward for helping me, I'll give you this.\nI don't know what it is.",
+        "en-US": "[SkellyCat's Grave]\nAnd before leaving, as a reward for helping me, I'll give you this.\nI don't know what it is.",
         "pt-BR": "[Cova do Zumbichano]\nE antes de partir, como recompensa por me ajudar, vou te dar isso.\nNão sei o que é.",
         "es-ES": "[Tumba del Zombigato]\nY antes de partir, como recompensa por ayudarme, te voy a dar esto.\nNo sé qué es."
     },
     "s0DgDQ": {
-        "en-US": "[Zombicat's Grave]\nBut I feel you must know someone who knows what this is.",
+        "en-US": "[SkellyCat's Grave]\nBut I feel you must know someone who knows what this is.",
         "pt-BR": "[Cova do Zumbichano]\nMas sinto que você deve conhecer alguém que saiba o que é isto.",
         "es-ES": "[Tumba del Zombigato]\nPero siento que debes conocer a alguien que sepa qué es esto."
     },
@@ -2206,7 +2206,7 @@
     },
     "uUDgDQ": {
         "en-US": "Jakk: Aaaaa! Escape!!!!!!",
-        "pt-BR": "Jakk: Aaaaa! Fuja!!!!!!",
+        "pt-BR": "Jakk: Aaaaa! Fuga!!!!!!",
         "es-ES": "Jakk: ¡¡¡¡Aaaaa! ¡¡¡¡Huuuuye!!!!!!"
     },
     "ukDgDQ": {
@@ -2225,44 +2225,44 @@
         "es-ES": "Jakk: ¡¡¡¡Aaaahh!!!!!!"
     },
     "vUDgDQ": {
-        "en-US": "Hurarang",
-        "pt-BR": "Hurarang",
-        "es-ES": "Hurarang"
+        "en-US": "Hurarong",
+        "pt-BR": "Hurarong",
+        "es-ES": "Hurarong"
     },
     "vkDgDQ": {
-        "en-US": "[Hurarang]\nYay!! Yay!!!\nIt's Jakk!\nJakk!!!\nJakk!!!!!!!",
-        "pt-BR": "[Hurarang]\nIupi!! Iupi!!!\nÉ o Jakk!\nJakk!!!\nJakk!!!!!!!",
-        "es-ES": "[Hurarang]\n¡¡Yupi!! ¡¡Yupi!!!\n¡Es Jakk!\n¡Jakk!!!\n¡¡¡¡Jakk!!!!!!"
+        "en-US": "[Hurarong]\nYay!! Yay!!!\nIt's Jakk!\nJakk!!!\nJakk!!!!!!!",
+        "pt-BR": "[Hurarong]\nIupi!! Iupi!!!\nÉ o Jakk!\nJakk!!!\nJakk!!!!!!!",
+        "es-ES": "[Hurarong]\n¡¡Yupi!! ¡¡Yupi!!!\n¡Es Jakk!\n¡Jakk!!!\n¡¡¡¡Jakk!!!!!!"
     },
     "v0DgDQ": {
-        "en-US": "[Hurarang]\nIt's almost ready!\nIs it festival?\nIt's festival!",
-        "pt-BR": "[Hurarang]\nEstá quase pronto!\nÉ uma festa?\nÉ uma festa!",
-        "es-ES": "[Hurarang]\n¡Ya casi está listo!\n¿Es un festival?\n¡Es un festival!"
+        "en-US": "[Hurarong]\nIt's almost ready!\nIs it festival?\nIt's festival!",
+        "pt-BR": "[Hurarong]\nEstá quase pronto!\nÉ festa?\nÉ festa!",
+        "es-ES": "[Hurarong]\n¡Ya casi está listo!\n¿Es fiesta?\n¡Es fiesta!"
     },
     "wEDgDQ": {
         "en-US": "[Harurong]\nIt's festival!!!!",
-        "pt-BR": "[Harurong]\nÉ uma festa!!!!",
-        "es-ES": "[Harurong]\n¡¡¡¡Es un festival!!!!"
+        "pt-BR": "[Harurong]\nÉ festa!!!!",
+        "es-ES": "[Harurong]\n¡¡¡¡Es fiesta!!!!"
     },
     "wUDgDQ": {
-        "en-US": "[Hurarang]\nBut it's missing!\nMissing red and hot wood!",
-        "pt-BR": "[Hurarang]\nMas está faltando algo!\nEstá faltando madeira vermelha e quente!",
-        "es-ES": "[Hurarang]\n¡Pero falta algo!\n¡Falta madera roja y caliente!"
+        "en-US": "[Hurarong]\nBut it's missing!\nMissing red and hot wood!",
+        "pt-BR": "[Hurarong]\nMas está faltando!\nEstá faltando madeira vermelha e quente!",
+        "es-ES": "[Hurarong]\n¡Pero falta!\n¡Falta madera roja y caliente!"
     },
     "wkDgDQ": {
         "en-US": "[Hirarong]\nJakk!!!\nIt's Elder Willow!",
-        "pt-BR": "[Hirarong]\nJakk!!!\nÉ um Salgueiro Ancião!",
-        "es-ES": "[Hirarong]\n¡¡Jakk!!!\n¡Es un Sauce Ancestral!"
+        "pt-BR": "[Hirarong]\nJakk!!!\nÉ Salgueiro Ancião!",
+        "es-ES": "[Hirarong]\n¡¡Jakk!!!\n¡Es Sauce Anciano!"
     },
     "w0DgDQ": {
         "en-US": "[Harurong]\nRed!\nHot!!!\nIt's festival!!!!",
         "pt-BR": "[Harurong]\nVermelha!\nQuente!!!\nÉ festa!!!!",
-        "es-ES": "[Harurong]\n¡Roja!\n¡Caliente!!!\n¡¡Es festival!!"
+        "es-ES": "[Harurong]\n¡Roja!\n¡Caliente!!!\n¡¡Es fiesta!!"
     },
     "xEDgDQ": {
-        "en-US": "[Hurarang]\nRed and hot wood from the Elder Willow!!!\n10!\n10!!\nJakk!!!!",
-        "pt-BR": "[Hurarang]\nMadeira vermelha e quente do Salgueiro Ancião!!!\n10!\n10!!\nJakk!!!!",
-        "es-ES": "[Hurarang]\n¡¡Madera roja y caliente del Sauce Ancestral!!!\n¡10!\n¡10!!\n¡¡Jakk!!"
+        "en-US": "[Hurarong]\nRed and hot wood from the Elder Willow!!!\n10!\n10!!\nJakk!!!!",
+        "pt-BR": "[Hurarong]\nMadeira vermelha e quente do Salgueiro Ancião!!!\n10!\n10!!\nJakk!!!!",
+        "es-ES": "[Hurarong]\n¡¡Madera roja y caliente del Sauce Anciano!!!\n¡10!\n¡10!!\n¡¡Jakk!!"
     },
     "xUDgDQ": {
         "en-US": "[Hirarong]\nYay!!!!\nYay!!!\nIt's ready!!!",
@@ -2275,14 +2275,14 @@
         "es-ES": "[Harurong]\n¡¡¡Está listo!!!\n¡¡Jakk!!"
     },
     "x0DgDQ": {
-        "en-US": "[Hurarang]\nNow you can go. Jakk!!!\nIt's festival!!!!",
-        "pt-BR": "[Hurarang]\nAgora pode ir. Jakk!!!\nÉ festa!!!!",
-        "es-ES": "[Hurarang]\n¡Ahora puedes ir. Jakk!!!\n¡¡Es festival!!"
+        "en-US": "[Hurarong]\nNow you can go. Jakk!!!\nIt's festival!!!!",
+        "pt-BR": "[Hurarong]\nAgora pode ir. Jakk!!!\nÉ festival!!!!",
+        "es-ES": "[Hurarong]\n¡Ahora puedes ir. Jakk!!!\n¡¡Es festival!!"
     },
     "yEDgDQ": {
         "en-US": "[Harurong]\nJakk!!\nGo to the [Halloween Festival Location]?",
-        "pt-BR": "[Harurong]\nJakk!!\nVocê vai para o [Local da Festa do Dia das Bruxas]?",
-        "es-ES": "[Harurong]\n¡¡Jakk!!\n¿Vas al [Lugar del Festival de Noche de Brujas]?"
+        "pt-BR": "[Harurong]\nJakk!!\nVá para o [Local do Evento de Halloween]?",
+        "es-ES": "[Harurong]\n¡¡Jakk!!\n¿Vas al [Lugar del Evento de Halloween]?"
     },
     "yUDgDQ": {
         "en-US": "[Hirarong]\nJakk!!\nIt's a fun Jakk game!!!\nSo fun!",
@@ -2290,14 +2290,14 @@
         "es-ES": "[Hirarong]\n¡¡Jakk!!\n¡Es un juego divertido de Jakk!!!\n¡Qué divertido!"
     },
     "ykDgDQ": {
-        "en-US": "[Hurarang]\nJakk!!\nIt's Jakk!!!\nI can play with Jakk!!!",
-        "pt-BR": "[Hurarang]\nJakk!!\nÉ o Jakk!!!\nPosso brincar com o Jakk!!!",
-        "es-ES": "[Hurarang]\n¡¡Jakk!!\n¡¡Es Jakk!!!\n¡¡Puedo jugar con Jakk!!!"
+        "en-US": "[Hurarong]\nJakk!!\nIt's Jakk!!!\nI can play with Jakk!!!",
+        "pt-BR": "[Hurarong]\nJakk!!\nÉ o Jakk!!!\nPosso brincar com o Jakk!!!",
+        "es-ES": "[Hurarong]\n¡¡Jakk!!\n¡¡Es Jakk!!!\n¡¡Puedo jugar con Jakk!!!"
     },
     "y0DgDQ": {
         "en-US": "[Harurong]\nTo go to the festival location, I need [Halloween Coin]!\nIt's GOSSIP!",
-        "pt-BR": "[Harurong]\nPara ir ao local da festa, preciso de [Moeda do Halloween]!\nÉ BABADO!",
-        "es-ES": "[Harurong]\n¡Para ir al local del festival, necesito [Moneda Halloween]!\n¡Suena a monedas!\n¡ES LO MÁS!"
+        "pt-BR": "[Harurong]\nPara ir ao local do festival, preciso de [Moeda de Halloween]!\nÉ BABADO!",
+        "es-ES": "[Harurong]\n¡Para ir al local del festival, necesito [Moneda de Halloween]!\n¡Es PURETE!"
     },
     "zEDgDQ": {
         "en-US": "Go.",
@@ -2310,24 +2310,24 @@
         "es-ES": "No ir."
     },
     "zkDgDQ": {
-        "en-US": "[Hurarang]\nI can play with Jakk!!!\nThe [Festival Announcer] knows the way well!!!",
-        "pt-BR": "[Hurarang]\nPosso brincar com o Jakk!!!\nO [Anunciante da Festa] conhece bem o caminho!!!",
-        "es-ES": "[Hurarang]\n¡¡Puedo jugar con Jakk!!!\n¡¡El [Anunciante del Festival] conoce bien el camino!!!"
+        "en-US": "[Hurarong]\nI can play with Jakk!!!\nThe [Festival Announcer] knows the way well!!!",
+        "pt-BR": "[Hurarong]\nPosso brincar com o Jakk!!!\nO [Anunciante do Festival] conhece bem o caminho!!!",
+        "es-ES": "[Hurarong]\n¡¡Puedo jugar con Jakk!!!\n¡¡El [Anunciante del Festival] conoce bien el camino!!!"
     },
     "z0DgDQ": {
         "en-US": "[Harurong]\nSmart!!!\nIt's the [Festival Announcer]!!!!",
-        "pt-BR": "[Harurong]\nEsperto!!!\nÉ o [Anunciante da Festa]!!!!",
+        "pt-BR": "[Harurong]\nEsperto!!!\nÉ o [Anunciante do Festival]!!!!",
         "es-ES": "[Harurong]\n¡¡Listo!!!\n¡¡Es el [Anunciante del Festival]!!!!"
     },
     "0EDgDQ": {
-        "en-US": "[Hurarang]\nHeeey~~",
-        "pt-BR": "[Hurarang]\nAaaah!",
-        "es-ES": "[Hurarang]\nAaaay"
+        "en-US": "[Hurarong]\nHeeey~~",
+        "pt-BR": "[Hurarong]\nAiiin...",
+        "es-ES": "[Hurarong]\nHiiin..."
     },
     "0UDgDQ": {
-        "en-US": "[Hurarang]\nJakk is tired!!!!\nEnough for today~~~",
-        "pt-BR": "[Hurarang]\nJakk está cansado!!!!\nChega por hoje.",
-        "es-ES": "[Hurarang]\n¡¡Jakk está cansado!!!!\n¡Por hoy ya basta!"
+        "en-US": "[Hurarong]\nJakk is tired!!!!\nEnough for today~~~",
+        "pt-BR": "[Hurarong]\nJakk está cansado!!!!\nChega por hoje!",
+        "es-ES": "[Hurarong]\n¡¡Jakk está cansado!!!!\n¡Por hoy ya basta!"
     },
     "0kDgDQ": {
         "en-US": "[Harurong]\nLet's play again tomorrow!!!\nTomorrow!!!",
@@ -2336,8 +2336,8 @@
     },
     "00DgDQ": {
         "en-US": "[Hirarong]\nIf you push it, you'll become a permanent resident of Niflheim!!!\nA new resident!!!",
-        "pt-BR": "[Hirarong]\nSe você se esforçar demais, vai virar um morador permanente de Niflheim!!!\nUm novo morador!!!",
-        "es-ES": "[Hirarong]\n¡Si te esfuerzas demasiado, te convertirás en residente permanente de Niflheim!!!\n¡¡¡Un nuevo residente!!!"
+        "pt-BR": "[Hirarong]\nSe forçar, vai se tornar um residente eterno de Niflheim!!!\nUm novo residente!!!",
+        "es-ES": "[Hirarong]\n¡¡Si te fuerzas, te volverás un residente eterno de Niflheim!!!\n¡¡Un nuevo residente!!!"
     },
     "1EDgDQ": {
         "en-US": "Reset daily mission.",
@@ -2345,34 +2345,34 @@
         "es-ES": "Reiniciar misión diaria."
     },
     "1UDgDQ": {
-        "en-US": "[Hurarang]\nLet's play again tomorrow!!!",
-        "pt-BR": "[Hurarang]\nVamos brincar de novo amanhã!!!",
-        "es-ES": "[Hurarang]\n¡¡Vamos a jugar de nuevo mañana!!!"
+        "en-US": "[Hurarong]\nLet's play again tomorrow!!!",
+        "pt-BR": "[Hurarong]\nVamos brincar de novo amanhã!!!",
+        "es-ES": "[Hurarong]\n¡¡Vamos a jugar de nuevo mañana!!!"
     },
     "1kDgDQ": {
-        "en-US": "[Hurarang]\nWill you play with Jakk again?\nI want to play!!",
-        "pt-BR": "[Hurarang]\nVai brincar de novo com o Jakk?\nQuero brincar!!",
-        "es-ES": "[Hurarang]\n¿Vas a jugar de nuevo con Jakk?\n¡Quiero jugar!!"
+        "en-US": "[Hurarong]\nWill you play with Jakk again?\nI want to play!!",
+        "pt-BR": "[Hurarong]\nVai brincar de novo com o Jakk?\nQuero brincar!!",
+        "es-ES": "[Hurarong]\n¿Vas a jugar de nuevo con Jakk?\n¡Quiero jugar!!"
     },
     "10DgDQ": {
-        "en-US": "[Hurarang]\nTo play with Jakk again, you need 1 [Nyangdare Fruit]!!!\nIt's an item from another world!!!",
-        "pt-BR": "[Hurarang]\nPara brincar de novo com o Jakk, precisa de 1 [MiauMiau]!!!\nÉ um item de outro mundo!!!",
-        "es-ES": "[Hurarang]\n¡Para jugar de nuevo con Jakk, necesitas 1 [Miaufruto]!!!\n¡¡Es un objeto de otro mundo!!!"
+        "en-US": "[Hurarong]\nTo play with Jakk again, you need 1 [Nyangdare Fruit]!!!\nIt's an item from another world!!!",
+        "pt-BR": "[Hurarong]\nPara brincar de novo com o Jakk, precisa de 1 [MiauMiau]!!!\nÉ um item de outro mundo!!!",
+        "es-ES": "[Hurarong]\n¡Para jugar de nuevo con Jakk, necesitas 1 [Miaufruto]!!!\n¡¡Es un objeto de otro mundo!!!"
     },
     "2EDgDQ": {
-        "en-US": "[Hurarang]\nYes! Let's play again tomorrow!!!",
-        "pt-BR": "[Hurarang]\nIsso! Vamos brincar de novo amanhã!!!",
-        "es-ES": "[Hurarang]\n¡¡Eso! ¡Vamos a jugar de nuevo mañana!!!"
+        "en-US": "[Hurarong]\nYes! Let's play again tomorrow!!!",
+        "pt-BR": "[Hurarong]\nIsso! Vamos brincar de novo amanhã!!!",
+        "es-ES": "[Hurarong]\n¡¡Eso! ¡Vamos a jugar de nuevo mañana!!!"
     },
     "2UDgDQ": {
-        "en-US": "[Hurarang]\nYes, let's play again!!!\nIt's Jakk!!\nSo fun!!!!!!",
-        "pt-BR": "[Hurarang]\nIsso, vamos brincar de novo!!!\nÉ o Jakk!!\nQue divertido!!!!!!",
-        "es-ES": "[Hurarang]\n¡¡Eso, vamos a jugar de nuevo!!!\n¡Es Jakk!!\n¡¡Qué divertido!!!!!"
+        "en-US": "[Hurarong]\nYes, let's play again!!!\nIt's Jakk!!\nSo fun!!!!!!",
+        "pt-BR": "[Hurarong]\nIsso, vamos brincar de novo!!!\nÉ o Jakk!!\nQue divertido!!!!!!",
+        "es-ES": "[Hurarong]\n¡¡Eso, vamos a jugar de nuevo!!!\n¡Es Jakk!!\n¡¡Qué divertido!!!!!"
     },
     "2kDgDQ": {
-        "en-US": "[Hurarang]\nJakk is back!!\nPlayed with Jakk!!!!",
-        "pt-BR": "[Hurarang]\nO Jakk voltou!!\nBrincou com o Jakk!!!!",
-        "es-ES": "[Hurarang]\n¡¡Jakk volvió!!\n¡¡Jugó con Jakk!!!!"
+        "en-US": "[Hurarong]\nJakk is back!!\nPlayed with Jakk!!!!",
+        "pt-BR": "[Hurarong]\nO Jakk voltou!!\nBrincou com o Jakk!!!!",
+        "es-ES": "[Hurarong]\n¡¡Jakk volvió!!\n¡¡Jugó con Jakk!!!!"
     },
     "20DgDQ": {
         "en-US": "[Harurong]\nYay!!!\nSo fun!!!",
@@ -2387,12 +2387,12 @@
     "3UDgDQ": {
         "en-US": "[Hirarong]\nPromise!!!",
         "pt-BR": "[Hirarong]\nPrometo!!!",
-        "es-ES": "[Hirarong]\n¡Prometido!!!"
+        "es-ES": "[Hirarong]\n¡¡Prometo!!"
     },
     "3kDgDQ": {
-        "en-US": "[Hurarang]\nJakk!!\nYour backpack is too full!!!",
-        "pt-BR": "[Hurarang]\nJakk!!\nSua mochila está muito cheia!!!",
-        "es-ES": "[Hurarang]\n¡¡Jakk!!\n¡Tu mochila está muy llena!!!"
+        "en-US": "[Hurarong]\nJakk!!\nYour backpack is too full!!!",
+        "pt-BR": "[Hurarong]\nJakk!!\nSua mochila está muito cheia!!!",
+        "es-ES": "[Hurarong]\n¡¡Jakk!!\n¡Tu mochila está muy llena!!!"
     },
     "30DgDQ": {
         "en-US": "[Hirarong]\nDon't play.\nIt's good to have an empty backpack!!!",
@@ -2416,8 +2416,8 @@
     },
     "40DgDQ": {
         "en-US": "[Prize Manager]\nGive me 5 Halloween Coins to get a random prize. Or bring me 13 Halloween Coins for this year's Costume.",
-        "pt-BR": "[Gerente de Prêmios]\nMe dê 5 Moedas do Halloween para conseguir um prêmio aleatório. Ou me traga 13 Moedas do Halloween pelo Visual deste ano.",
-        "es-ES": "[Gerente de Premios]\nDame 5 Monedas Halloween para conseguir un premio aleatorio. O tráeme 13 Monedas Halloween por el Disfraz de este año."
+        "pt-BR": "[Gerente de Prêmios]\nMe dê 5 Moedas de Halloween para conseguir um prêmio aleatório. Ou me traga 13 Moedas de Halloween pelo Visual deste ano.",
+        "es-ES": "[Gerente de Premios]\nDame 5 Monedas de Halloween para conseguir un premio aleatorio. O tráeme 13 Monedas de Halloween por el Disfraz de este año."
     },
     "5EDgDQ": {
         "en-US": "[Prize Manager]\nI will... open now... so...be careful...",
@@ -2446,38 +2446,38 @@
     },
     "6UDgDQ": {
         "en-US": "[Prize Manager]\nNeed... 5 Halloween Coins...5...",
-        "pt-BR": "[Gerente de Prêmios]\nPrecisa... de... 5 Moedas do Halloween...5...",
-        "es-ES": "[Gerente de Premios]\nNecesita... de... 5 Monedas Halloween...5..."
+        "pt-BR": "[Gerente de Prêmios]\nPrecisa... de... 5 Moedas de Halloween...5...",
+        "es-ES": "[Gerente de Premios]\nNecesita... de... 5 Monedas de Halloween...5..."
     },
     "6kDgDQ": {
         "en-US": "[Prize Manager]\nNeed... 13 Halloween Coins...13...",
-        "pt-BR": "[Gerente de Prêmios]\nPrecisa... de... 13 Moedas do Halloween...13...",
-        "es-ES": "[Gerente de Premios]\nNecesita... de... 13 Monedas Halloween...13..."
+        "pt-BR": "[Gerente de Prêmios]\nPrecisa... de... 13 Moedas de Halloween...13...",
+        "es-ES": "[Gerente de Premios]\nNecesita... de... 13 Monedas de Halloween...13..."
     },
     "60DgDQ": {
         "en-US": "[Prize Manager]\nIf... past the deadline.... the Halloween Coin... disappears...",
-        "pt-BR": "[Gerente de Prêmios]\nSe... passar do prazo.... a Moeda do Halloween... desaparece...",
-        "es-ES": "[Gerente de Premios]\nSi... pasa la fecha.... la Moneda Halloween... desaparece..."
+        "pt-BR": "[Gerente de Prêmios]\nSe... passar do prazo.... a Moeda de Halloween... desaparece...",
+        "es-ES": "[Gerente de Premios]\nSi... pasa la fecha.... la Moneda de Halloween... desaparece..."
     },
     "7EDgDQ": {
         "en-US": "Festival Announcer",
-        "pt-BR": "Anunciante da Festa",
+        "pt-BR": "Anunciante do Festival",
         "es-ES": "Anunciante del Festival"
     },
     "7UDgDQ": {
-        "en-US": "Halloween",
-        "pt-BR": "Halloween",
-        "es-ES": "Halloween"
+        "en-US": "Halloween Event Location",
+        "pt-BR": "Local do Evento de Halloween",
+        "es-ES": "Lugar del Evento de Halloween"
     },
     "7kDgDQ": {
-        "en-US": "[Festival Announcer]\nGoing... to the Halloween festival location...?",
-        "pt-BR": "[Anunciante da Festa]\nVai... para o local da Festa do Dia das Bruxas...?",
-        "es-ES": "[Anunciante del Festival]\n¿Vas... al lugar del festival de Noche de Brujas...?"
+        "en-US": "[Festival Announcer]\nGoing... to the Halloween Festival location?",
+        "pt-BR": "[Anunciante do Festival]\nVocê... está indo para o local do Evento de Halloween?",
+        "es-ES": "[Anunciante del Festival]\n¿Vas... al lugar del Evento de Halloween?"
     },
     "70DgDQ": {
         "en-US": "[Festival Announcer]\n^FF0000I charge... 1 Halloween Coin... 1...^000000",
-        "pt-BR": "[Anunciante da Festa]\n^FF0000Cobro... 1 Moeda do Halloween... 1...^000000",
-        "es-ES": "[Anunciante del Festival]\n^FF0000Cobro... 1 Moneda Halloween... 1...^000000"
+        "pt-BR": "[Anunciante do Festival]\n^FF0000Cobro... 1 Moeda de Halloween... 1...^000000",
+        "es-ES": "[Anunciante del Festival]\n^FF0000Cobro... 1 Moneda de Halloween... 1...^000000"
     },
     "8EDgDQ": {
         "en-US": "Open instance queue.",
@@ -2496,12 +2496,12 @@
     },
     "80DgDQ": {
         "en-US": "[Festival Announcer]\nIt's... strange...\nWait a moment...",
-        "pt-BR": "[Anunciante da Festa]\nEstá... estranho...\nEspere um pouco...",
+        "pt-BR": "[Anunciante do Festival]\nEstá... estranho...\nEspere um pouco...",
         "es-ES": "[Anunciante del Festival]\nEstá... raro...\nEspere un poco..."
     },
     "9EDgDQ": {
         "en-US": "[Festival Announcer]\nAlone... is possible... but....\n^FF0000Better... with a group...^000000",
-        "pt-BR": "[Anunciante da Festa]\nSozinho... até dá... mas....\n^FF0000É melhor... com grupo...^000000",
+        "pt-BR": "[Anunciante do Festival]\nSozinho... até dá... mas....\n^FF0000É melhor... com grupo...^000000",
         "es-ES": "[Anunciante del Festival]\nSolo... hasta se puede... pero....\n^FF0000Es mejor... en grupo...^000000"
     },
     "9UDgDQ": {
@@ -2511,18 +2511,18 @@
     },
     "9kDgDQ": {
         "en-US": "[Festival Announcer]\nNo coin... no entry....",
-        "pt-BR": "[Anunciante da Festa]\nSem moeda... sem entrada....",
+        "pt-BR": "[Anunciante do Festival]\nSem moeda... sem entrada....",
         "es-ES": "[Anunciante del Festival]\nSin moneda... sin entrada...."
     },
     "90DgDQ": {
-        "en-US": "Herorong",
-        "pt-BR": "Herorong",
-        "es-ES": "Herorong"
+        "en-US": "Horirong",
+        "pt-BR": "Horirong",
+        "es-ES": "Horirong"
     },
     "+EDgDQ": {
-        "en-US": "[Herorong]\nSo fun!",
-        "pt-BR": "[Herorong]\nQue divertido!",
-        "es-ES": "[Herorong]\n¡Qué divertido!"
+        "en-US": "[Horirong]\nSo fun!",
+        "pt-BR": "[Horirong]\nQue divertido!",
+        "es-ES": "[Horirong]\n¡Qué divertido!"
     },
     "+UDgDQ": {
         "en-US": "[Huraerong]\nSo fun!!!",
@@ -2530,9 +2530,9 @@
         "es-ES": "[Huraerong]\n¡¡Qué divertido!!"
     },
     "+kDgDQ": {
-        "en-US": "[Herorong]\nFriends are gathering!",
-        "pt-BR": "[Herorong]\nOs amigos estão se reunindo!",
-        "es-ES": "[Herorong]\n¡Los amigos se están reuniendo!"
+        "en-US": "[Horirong]\nFriends are gathering!",
+        "pt-BR": "[Horirong]\nOs amigos estão se reunindo!",
+        "es-ES": "[Horirong]\n¡Los amigos se están reuniendo!"
     },
     "+0DgDQ": {
         "en-US": "[Hirurong]\nSo fun!",
@@ -2541,7 +2541,7 @@
     },
     "/EDgDQ": {
         "en-US": "[Huraerong]\nIt's festival!!!!",
-        "pt-BR": "[Huraerong]\nÉ festa!!!!",
+        "pt-BR": "[Huraerong]\nÉ festival!!!!",
         "es-ES": "[Huraerong]\n¡¡Es festival!!"
     },
     "/UDgDQ": {
@@ -2550,9 +2550,9 @@
         "es-ES": "[Hirurong]\n¡¡Reúnanse!!!"
     },
     "/kDgDQ": {
-        "en-US": "[Herorong]\nSmall Jakk!\nBig Jakk!\nDecorated Jakk!!!\nStrange Jakk!!!\nGather!!!!",
-        "pt-BR": "[Herorong]\nJakk pequeno!\nJakk grande!\nJakk decorado!!!\nJakk estranho!!!\nJuntem-se!!!!",
-        "es-ES": "[Herorong]\n¡Jakk pequeño!\n¡Jakk grande!\n¡Jakk decorado!!!\n¡Jakk extraño!!!\n¡¡Reúnanse!!"
+        "en-US": "[Horirong]\nSmall Jakk!\nBig Jakk!\nDecorated Jakk!!!\nStrange Jakk!!!\nGather!!!!",
+        "pt-BR": "[Horirong]\nJakk pequeno!\nJakk grande!\nJakk decorado!!!\nJakk estranho!!!\nJuntem-se!!!!",
+        "es-ES": "[Horirong]\n¡Jakk pequeño!\n¡Jakk grande!\n¡Jakk decorado!!!\n¡Jakk Extraño!!!\n¡¡Reúnanse!!"
     },
     "/0DgDQ": {
         "en-US": "[Hirurong]\nIt's strange!",
@@ -2567,7 +2567,7 @@
     "AUHgDQ": {
         "en-US": "[Hirurong]\nThe more Jakks gather, the more fun Halloween will be!",
         "pt-BR": "[Hirurong]\nQuanto mais Jakks se reunirem, mais divertido será o Dia das Bruxas!",
-        "es-ES": "[Hirurong]\n¡Cuantos más Jakk se reúnan, más divertida será la Noche de Brujas!"
+        "es-ES": "[Hirurong]\n¡Cuántos más Jakks se reúnan, más divertido será la Noche de Brujas!"
     },
     "AkHgDQ": {
         "en-US": "[Huraerong]\nYay!!!",
@@ -2575,24 +2575,24 @@
         "es-ES": "[Huraerong]\n¡¡Yupi!!"
     },
     "A0HgDQ": {
-        "en-US": "[Herorong]\nIt's festival!!!!",
-        "pt-BR": "[Herorong]\nÉ festa!!!!",
-        "es-ES": "[Herorong]\n¡¡Es festival!!"
+        "en-US": "[Horirong]\nIt's festival!!!!",
+        "pt-BR": "[Horirong]\nÉ festival!!!!",
+        "es-ES": "[Horirong]\n¡¡Es festival!!"
     },
     "BEHgDQ": {
         "en-US": "[Huraerong]\nAh!!!\nThe strange Jakk is strange!",
         "pt-BR": "[Huraerong]\nAh!!!\nO Jakk estranho está estranho!",
-        "es-ES": "[Huraerong]\n¡¡Ah!!!\n¡El Jakk extraño está extraño!"
+        "es-ES": "[Huraerong]\n¡¡Ah!!!\n¡El Jakk Extraño está extraño!"
     },
     "BUHgDQ": {
         "en-US": "[Hirurong]\nStrange Jakk!",
         "pt-BR": "[Hirurong]\nJakk estranho!",
-        "es-ES": "[Hirurong]\n¡Jakk extraño!"
+        "es-ES": "[Hirurong]\n¡Jakk Extraño!"
     },
     "BkHgDQ": {
         "en-US": "[Herorong]\nJakk is already strange!!",
-        "pt-BR": "[Herorong]\nJakk já é estranho!!",
-        "es-ES": "[Herorong]\n¡Jakk ya es extraño!!"
+        "pt-BR": "[Horirong]\nJakk já é estranho!!",
+        "es-ES": "[Horirong]\n¡Jakk ya es extraño!!"
     },
     "B0HgDQ": {
         "en-US": "[Huraerong]\nWhy is it strange?",
@@ -2605,9 +2605,9 @@
         "es-ES": "[Hirurong]\n¡Pregúntale a Jakk!"
     },
     "CUHgDQ": {
-        "en-US": "[Herorong]\nJakk knows!!!",
-        "pt-BR": "[Herorong]\nO Jakk sabe!!!",
-        "es-ES": "[Herorong]\n¡¡Jakk sabe!!!"
+        "en-US": "[Horirong]\nJakk knows!!!",
+        "pt-BR": "[Horirong]\nO Jakk sabe!!!",
+        "es-ES": "[Horirong]\n¡¡Jakk sabe!!!"
     },
     "CkHgDQ": {
         "en-US": "[Hirurong]\nHe knows!!",
@@ -2615,9 +2615,9 @@
         "es-ES": "[Hirurong]\n¡¡Él sabe!!"
     },
     "C0HgDQ": {
-        "en-US": "[Herorong]\nStrange!",
-        "pt-BR": "[Herorong]\nEstranho!",
-        "es-ES": "[Herorong]\n¡Extraño!"
+        "en-US": "[Horirong]\nStrange!",
+        "pt-BR": "[Horirong]\nEstranho!",
+        "es-ES": "[Horirong]\n¡Extraño!"
     },
     "DEHgDQ": {
         "en-US": "[Hirurong]\nThe strange Jakk is being purified!",
@@ -2630,13 +2630,13 @@
         "es-ES": "[Huraerong]\n¡¡Qué desastre!!!"
     },
     "DkHgDQ": {
-        "en-US": "[Herorong]\nWhat a disaster!!!!!!!",
-        "pt-BR": "[Herorong]\nQue desastre!!!!!!!",
-        "es-ES": "[Herorong]\n¡¡¡¡Qué desastre!!!!!"
+        "en-US": "[Horirong]\nWhat a disaster!!!!!!!",
+        "pt-BR": "[Horirong]\nQue desastre!!!!!!!",
+        "es-ES": "[Horirong]\n¡¡¡¡Qué desastre!!!!!"
     },
     "D0HgDQ": {
         "en-US": "[Huraerong]\nLet's help the strange Jakk regain strength!",
-        "pt-BR": "[Huraerong]\nVamos ajudar o Jakk estranho a recuperar as forças!",
+        "pt-BR": "[Huraerong]\nVamos ajudar o Jakk Estranho a recuperar as forças!",
         "es-ES": "[Huraerong]\n¡Ayudemos al Jakk Extraño a recuperar las fuerzas!"
     },
     "EEHgDQ": {
@@ -2645,9 +2645,9 @@
         "es-ES": "[Hirurong]\n¡Ayuda!"
     },
     "EUHgDQ": {
-        "en-US": "[Herorong]\nThe Jakk is being purified!!!",
-        "pt-BR": "[Herorong]\nO Jakk está sendo purificado!!!",
-        "es-ES": "[Herorong]\n¡¡Jakk está siendo purificado!!!"
+        "en-US": "[Horirong]\nThe Jakk is being purified!!!",
+        "pt-BR": "[Horirong]\nO Jakk está sendo purificado!!!",
+        "es-ES": "[Horirong]\n¡¡Jakk está siendo purificado!!!"
     },
     "EkHgDQ": {
         "en-US": "[Huraerong]\nAll Jakks are being purified!!!",
@@ -2660,14 +2660,14 @@
         "es-ES": "[Hirurong]\n¡¡Ayudemos!!"
     },
     "FEHgDQ": {
-        "en-US": "[Herorong]\nThe Jakk is back!!!",
-        "pt-BR": "[Herorong]\nO Jakk voltou!!!",
-        "es-ES": "[Herorong]\n¡¡Jakk volvió!!!"
+        "en-US": "[Horirong]\nThe Jakk is back!!!",
+        "pt-BR": "[Horirong]\nO Jakk voltou!!!",
+        "es-ES": "[Horirong]\n¡¡Jakk volvió!!!"
     },
     "FUHgDQ": {
         "en-US": "[Huraerong]\nWow!!!\nSmell of Garling!!!",
         "pt-BR": "[Huraerong]\nUau!!!\nCheiro de Alhoring!!!",
-        "es-ES": "[Huraerong]\n¡¡Uau!!!\n¡Olor a Olor a Ajoring!!!"
+        "es-ES": "[Huraerong]\n¡¡Uau!!!\n¡Olor a Ajoring!!!"
     },
     "FkHgDQ": {
         "en-US": "[Hirurong]\nIt's being purified!!!!",
@@ -2677,17 +2677,17 @@
     "F0HgDQ": {
         "en-US": "[Huraerong]\nThe Jakk got so many Garlings like this, but there are still a bunch of Garlings!",
         "pt-BR": "[Huraerong]\nO Jakk pegou tantos Alhorings assim, mas ainda tem um monte de Alhorings!",
-        "es-ES": "[Huraerong]\n¡Jakk agarró tantos Olor a Ajorings así, pero todavía hay un montón de Olor a Ajoring!"
+        "es-ES": "[Huraerong]\n¡Jakk agarró tantos Ajorings así, pero todavía hay un montón de Ajorings!"
     },
     "GEHgDQ": {
-        "en-US": "[Herorong]\nThere are a lot!",
-        "pt-BR": "[Herorong]\nTem um monte!",
-        "es-ES": "[Herorong]\n¡Hay un montón!"
+        "en-US": "[Horirong]\nThere are a lot!",
+        "pt-BR": "[Horirong]\nTem um monte!",
+        "es-ES": "[Horirong]\n¡Hay un montón!"
     },
     "GUHgDQ": {
         "en-US": "[Hirurong]\nBut if you get more Garlings, the Jakk will also be purified!!!",
         "pt-BR": "[Hirurong]\nMas se for pegar mais Alhorings, o Jakk também será purificado!!!",
-        "es-ES": "[Hirurong]\n¡¡Pero si va a agarrar más Olor a Ajoring, Jakk también será purificado!!!"
+        "es-ES": "[Hirurong]\n¡¡Pero si va a agarrar más Ajorings, Jakk también será purificado!!!"
     },
     "GkHgDQ": {
         "en-US": "[Huraerong]\nThe Jakk will be purified!!!",
@@ -2695,9 +2695,9 @@
         "es-ES": "[Huraerong]\n¡¡Jakk será purificado!!!"
     },
     "G0HgDQ": {
-        "en-US": "[Herorong]\nEnough for today!",
-        "pt-BR": "[Herorong]\nChega por hoje!",
-        "es-ES": "[Herorong]\n¡Por hoy ya basta!"
+        "en-US": "[Horirong]\nEnough for today!",
+        "pt-BR": "[Horirong]\nChega por hoje!",
+        "es-ES": "[Horirong]\n¡Por hoy ya basta!"
     },
     "HEHgDQ": {
         "en-US": "[Huraerong]\nEnough!!",
@@ -2710,14 +2710,14 @@
         "es-ES": "[Hirurong]\n¡¡Es mañana!!"
     },
     "HkHgDQ": {
-        "en-US": "[Herorong]\nSee you tomorrow!!!",
-        "pt-BR": "[Herorong]\nNos vemos amanhã!!!",
-        "es-ES": "[Herorong]\n¡¡Nos vemos mañana!!"
+        "en-US": "[Horirong]\nSee you tomorrow!!!",
+        "pt-BR": "[Horirong]\nNos vemos amanhã!!!",
+        "es-ES": "[Horirong]\n¡¡Nos vemos mañana!!"
     },
     "H0HgDQ": {
         "en-US": "[Hirurong]\nIt's festival!!!",
         "pt-BR": "[Hirurong]\nÉ festa!!!",
-        "es-ES": "[Hirurong]\n¡¡Es festival!!"
+        "es-ES": "[Hirurong]\n¡¡Es fiesta!!"
     },
     "IEHgDQ": {
         "en-US": "Accept.",
@@ -2736,8 +2736,8 @@
     },
     "I0HgDQ": {
         "en-US": "[Jakk]\nHappy Halloween~\nHow's the festival, Jakk?",
-        "pt-BR": "[Jakk]\nFeliz Dia das Bruxas!\nComo está a festa, Jakk?",
-        "es-ES": "[Jakk]\nFeliz Noche de Brujas.\n¿Cómo está el festival, Jakk?"
+        "pt-BR": "[Jakk]\nFeliz Halloween!\nComo está a festa, Jakk?",
+        "es-ES": "[Jakk]\nFeliz Halloween!\n¿Cómo está la fiesta, Jakk?"
     },
     "JEHgDQ": {
         "en-US": "Ask about the Very Strange Jakk.",
@@ -2776,8 +2776,8 @@
     },
     "K0HgDQ": {
         "en-US": "[Jakk]\nI'm stuck here, so instead of me, who can't even enjoy the festival, why don't you try the sweets at the festival, traveler?\nYou'll love them!!!!",
-        "pt-BR": "[Jakk]\nEstou preso aqui, então, já que não posso nem aproveitar a festa, por que você não experimenta os doces da festa por mim, viajante?\nVocê vai adorar!!!!",
-        "es-ES": "[Jakk]\nEstoy atrapado aquí, así que, como no puedo disfrutar del festival, ¿por qué no pruebas los dulces del festival por mí, viajero?\n¡¡¡Te encantarán!!!!"
+        "pt-BR": "[Jakk]\nFiquei preso aqui, então em vez de eu, que nem consigo aproveitar o festival, por que não prova os doces no festival, viajante?\nVocê vai adorar!!!!",
+        "es-ES": "[Jakk]\nMe quedé atrapado aquí, así que en vez de yo, que ni siquiera puedo disfrutar el festival, ¿por qué no pruebas los dulces en el festival, viajero?\n¡¡Te va a encantar!!!!"
     },
     "LEHgDQ": {
         "en-US": "[Jakk]\nHum!",
@@ -2802,7 +2802,7 @@
     "MEHgDQ": {
         "en-US": "[Jakk]\nIf it's a somewhat strange Jakk, maybe it knows about the Very Strange Jakk?\nBecause it's not strange, but it's somewhat strange!",
         "pt-BR": "[Jakk]\nSe é um Jakk meio estranho, será que não sabe sobre o Jakk Estranhíssimo?\nPorque não é estranho, mas é meio estranho!",
-        "es-ES": "[Jakk]\nSi es un Jakk medio extraño, ¿no sabrá sobre el Jakk Extrañísimo?\n¡Porque no es extrañísimo, pero es medio extraño!"
+        "es-ES": "[Jakk]\nSi es un Jakk medio extraño, ¿no sabrá sobre el Jakk Extrañísimo?\n¡Porque no es extrañísimo, pero es medio raro!"
     },
     "MUHgDQ": {
         "en-US": "Strange Jakk",
@@ -2861,8 +2861,8 @@
     },
     "PEHgDQ": {
         "en-US": "[Strange Jakk]\nThank you very much.\nPhew~~ Finally I can go home!!!",
-        "pt-BR": "[Jakk Estranho]\nMuito obrigado.\nUfa! Finalmente posso ir para casa!!!",
-        "es-ES": "[Jakk Extraño]\nMuchas gracias.\n¡Uf! Finalmente puedo ir a casa!!!"
+        "pt-BR": "[Jakk Estranho]\nMuito obrigado.\nUfa~~ Finalmente posso ir para casa!!!",
+        "es-ES": "[Jakk Extraño]\nMuchas gracias.\n¡Uf~~ Finalmente puedo ir a casa!!!"
     },
     "PUHgDQ": {
         "en-US": "[Strange Jakk]\nThinking about it, you were looking for a strange Jakk, right?\nI don't know about a strange Jakk, but I found some strange knights north of the square a while ago.",
@@ -2876,7 +2876,7 @@
     },
     "P0HgDQ": {
         "en-US": "[Strange Jakk]\nHmm.. Not strange enough?",
-        "pt-BR": "[Jakk Estranho]\nHmm.. Não é estranho o suficiente?",
+        "pt-BR": "[Jakk Estranho]\nHmm.. Não é suficientemente estranho?",
         "es-ES": "[Jakk Extraño]\nHmm.. ¿No es suficientemente raro?"
     },
     "QEHgDQ": {
@@ -2916,12 +2916,12 @@
     },
     "R0HgDQ": {
         "en-US": "[Very Strange Jakk]\nI'm already...^BDBDBD*cough*^000000...dead and...^BDBDBD*cough*^000000...I think I'm going...^BDBDBD*cough*^000000...to die again...^BDBDBD*cough*^000000...but seriously...^BDBDBD*cough*^000000...I'm going to die for real!!!!",
-        "pt-BR": "[Jakk Estranhíssimo]\nJá...^BDBDBD*cof*^000000...estou morto e...^BDBDBD*cof*^000000...acho que vou...^BDBDBD*cof*^000000...morrer de novo...^BDBDBD*cof*^000000...mas, sério...^BDBDBD*cof*^000000...vou morrer de verdade!!!!",
+        "pt-BR": "[Jakk Estranhíssimo]\nJá...^BDBDBD*cof*^000000...estou morto e...^BDBDBD*cof*^000000...acho que vou...^BDBDBD*cof*^000000...morrer de novo...^BDBDBD*cof*^000000...mas sério...^BDBDBD*cof*^000000...vou morrer de verdade!!!!",
         "es-ES": "[Jakk Extrañísimo]\nYa...^BDBDBD*cof*^000000...estoy muerto y...^BDBDBD*cof*^000000...creo que voy a...^BDBDBD*cof*^000000...morir de nuevo...^BDBDBD*cof*^000000...pero en serio...^BDBDBD*cof*^000000...¡¡voy a morir de verdad!!!!"
     },
     "SEHgDQ": {
         "en-US": "Why?",
-        "pt-BR": "Por quê?",
+        "pt-BR": "Por que?",
         "es-ES": "¿Por qué?"
     },
     "SUHgDQ": {
@@ -2936,7 +2936,7 @@
     },
     "S0HgDQ": {
         "en-US": "[Very Strange Jakk]\nAt the...^BDBDBD*cough*^000000...Niflheim...^BDBDBD*cough*^000000...festival...^BDBDBD*cough*^000000...dying...^BDBDBD*cough*^000000...is ridiculous...",
-        "pt-BR": "[Jakk Estranhíssimo]\nNa festa...^BDBDBD*cof*^000000...de Niflheim...^BDBDBD*cof*^000000...morrer...^BDBDBD*cof*^000000...é ridículo...",
+        "pt-BR": "[Jakk Estranhíssimo]\nNo festival...^BDBDBD*cof*^000000...de Niflheim...^BDBDBD*cof*^000000...morrer...^BDBDBD*cof*^000000...é ridículo...",
         "es-ES": "[Jakk Extrañísimo]\nEn el festival...^BDBDBD*cof*^000000...de Niflheim...^BDBDBD*cof*^000000...morir...^BDBDBD*cof*^000000...es ridículo..."
     },
     "TEHgDQ": {
@@ -2952,7 +2952,7 @@
     "TkHgDQ": {
         "en-US": "[Very Strange Jakk]\nEven if...^BDBDBD*cough*^000000...not affected...^BDBDBD*cough*^000000...by Garlings...^BDBDBD*cough*^000000... like garlic...^BDBDBD*cough*^000000...",
         "pt-BR": "[Jakk Estranhíssimo]\nMesmo que...^BDBDBD*cof*^000000...não seja afetado...^BDBDBD*cof*^000000...pelos Alhorings...^BDBDBD*cof*^000000... como o alho...^BDBDBD*cof*^000000...",
-        "es-ES": "[Jakk Extrañísimo]\nAunque...^BDBDBD*cof*^000000...no seas afectado...^BDBDBD*cof*^000000...por los Ajoring...^BDBDBD*cof*^000000... como el ajo...^BDBDBD*cof*^000000..."
+        "es-ES": "[Jakk Extrañísimo]\nAunque...^BDBDBD*cof*^000000...no seas afectado...^BDBDBD*cof*^000000...por los Ajorings...^BDBDBD*cof*^000000... como el ajo...^BDBDBD*cof*^000000..."
     },
     "T0HgDQ": {
         "en-US": "[Very Strange Jakk]\nThe smell...^BDBDBD*cough*^000000...of strong...^BDBDBD*cough*^000000...spice...^BDBDBD*cough*^000000...has...^BDBDBD*cough*^000000...fatal...^BDBDBD*cough*^000000...purification...^BDBDBD*cough*^000000...power...^BDBDBD*cough*^000000...for the...^BDBDBD*cough*^000000...residents...^BDBDBD*cough*^000000...of Niflheim...^BDBDBD*cough*^000000...you...^BDBDBD*cough*^000000...know...^BDBDBD*cough*^000000...that...^BDBDBD*cough*^000000...right?",
@@ -2962,7 +2962,7 @@
     "UEHgDQ": {
         "en-US": "[Very Strange Jakk]\nIf it continues...^BDBDBD*cough*^000000...like this...^BDBDBD*cough*^000000...Niflheim...^BDBDBD*cough*^000000...will be...^BDBDBD*cough*^000000...purified...^BDBDBD*cough*^000000.",
         "pt-BR": "[Jakk Estranhíssimo]\nSe continuar...^BDBDBD*cof*^000000...assim...^BDBDBD*cof*^000000...Niflheim...^BDBDBD*cof*^000000...será...^BDBDBD*cof*^000000...purificado...^BDBDBD*cof*^000000.",
-        "es-ES": "[Jakk Extrañísimo]\nSi esto continúa...^BDBDBDcof^000000...así...^BDBDBDcof^000000...Niflheim...^BDBDBDcof^000000...será...^BDBDBDcof^000000...purificado...^BDBDBDcof^000000..."
+        "es-ES": "[Jakk Extrañísimo]\nSi sigo...^BDBDBD*cof*^000000...así...^BDBDBD*cof*^000000...Niflheim...^BDBDBD*cof*^000000...será...^BDBDBD*cof*^000000...purificado...^BDBDBD*cof*^000000."
     },
     "UUHgDQ": {
         "en-US": "[Very Strange Jakk]\nEliminate...^BDBDBD*cough*^000000...about...^BDBDBD*cough*^000000...20...^BDBDBD*cough*^000000...Garlings...^BDBDBD*cough*^000000...that are...^BDBDBD*cough*^000000...around...^BDBDBD*cough*^000000...the field...^BDBDBD*cough*^000000...",
@@ -2972,7 +2972,7 @@
     "UkHgDQ": {
         "en-US": "[Very Strange Jakk]\nEven if...^BDBDBD*cough*^000000...not affected...^BDBDBD*cough*^000000...by Garlings...^BDBDBD*cough*^000000...",
         "pt-BR": "[Jakk Estranhíssimo]\nMesmo que...^BDBDBD*cof*^000000...não seja afetado...^BDBDBD*cof*^000000...pelos Alhorings...^BDBDBD*cof*^000000...",
-        "es-ES": "[Jakk Extrañísimo]\nAunque...^BDBDBD*cof*^000000...no seas afectado...^BDBDBD*cof*^000000...por los Ajoring...^BDBDBD*cof*^000000..."
+        "es-ES": "[Jakk Extrañísimo]\nAunque...^BDBDBD*cof*^000000...no seas afectado...^BDBDBD*cof*^000000...por los Ajorings...^BDBDBD*cof*^000000..."
     },
     "U0HgDQ": {
         "en-US": "[Very Strange Jakk]\nlike garlic...^BDBDBD*cough*^000000...the smell...^BDBDBD*cough*^000000...of strong...^BDBDBD*cough*^000000...spice...^BDBDBD*cough*^000000...has...^BDBDBD*cough*^000000...fatal...^BDBDBD*cough*^000000...purification...^BDBDBD*cough*^000000...power...^BDBDBD*cough*^000000...for the...^BDBDBD*cough*^000000...residents...^BDBDBD*cough*^000000...of Niflheim...^BDBDBD*cough*^000000...you...^BDBDBD*cough*^000000...know...^BDBDBD*cough*^000000...that...^BDBDBD*cough*^000000...right?",
@@ -3041,23 +3041,23 @@
     },
     "YEHgDQ": {
         "en-US": "Meow??",
-        "pt-BR": "Miau??",
+        "pt-BR": "Gatinho??",
         "es-ES": "Miau??"
     },
     "YUHgDQ": {
-        "en-US": "Sad-looking Jack",
-        "pt-BR": "Jakk com Aparência Triste",
+        "en-US": "Sad-looking Jakk",
+        "pt-BR": "Jakk Triste",
         "es-ES": "Jakk Triste"
     },
     "YkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmph~\nHello, Jack...\nIt's a happy... Halloween",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmph\nOlá, Jakk...\nÉ um feliz... Dia das Bruxas",
-        "es-ES": "[Jakk Triste]\nHmph\nHola, Jakk...\nEs una feliz... Noche de Brujas."
+        "en-US": "[Sad-looking Jakk]\nSniff...\nHello, Jakk...\nIt's a happy... Halloween...",
+        "pt-BR": "[Jakk Triste]\nSnif...\nOi, Jakk...\nQue... Halloween feliz...",
+        "es-ES": "[Jakk Triste]\nSniff...\nHola, Jakk...\nEs un feliz... Halloween..."
     },
     "Y0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nWow... Yay...\nIt's a happy... *sniff*... Halloween festival...",
-        "pt-BR": "[Jakk com Aparência Triste]\nUau... Oba...\nÉ um feliz... snif... Festa do Dia das Bruxas...",
-        "es-ES": "[Jakk Triste]\nGuau... ¡Yupi!...\nEs un feliz... snif... festival de Noche de Brujas..."
+        "en-US": "[Sad-looking Jakk]\nWow... Yay...\nIt's a happy... *sniff*... Halloween festival...",
+        "pt-BR": "[Jakk Triste]\nUau... Que incrível! \nQue Halloween... *snif* animado...",
+        "es-ES": "[Jakk Triste]\nVaya... ¡Genial!...\nEs una feliz... *sniff*... fiesta de Halloween..."
     },
     "ZEHgDQ": {
         "en-US": "Reason for crying",
@@ -3065,28 +3065,28 @@
         "es-ES": "Razón por la que llora"
     },
     "ZUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nI'm not crying!\n*Sniff*!",
-        "pt-BR": "[Jakk com Aparência Triste]\nEu não estou chorando!\n*Sniff*!",
+        "en-US": "[Sad-looking Jakk]\nI'm not crying!\n*Sniff*!",
+        "pt-BR": "[Jakk Triste]\nEu não estou chorando!\n*Sniff*!",
         "es-ES": "[Jakk Triste]\n¡No estoy llorando!\n*¡Sniff*!"
     },
     "ZkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nThis is just pumpkin juice that hasn't dried yet!\nHmph...",
-        "pt-BR": "[Jakk com Aparência Triste]\nIsso é só caldo de abóbora que ainda não secou!\nHmph...",
+        "en-US": "[Sad-looking Jakk]\nThis is just pumpkin juice that hasn't dried yet!\nHmph...",
+        "pt-BR": "[Jakk Triste]\nIsso é só caldo de abóbora que ainda não secou!\nHmph...",
         "es-ES": "[Jakk Triste]\n¡Esto es solo jugo de calabaza que aún no se seca!\nHmph..."
     },
     "Z0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmph-iiiiing...",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmph-iiiiing...",
+        "en-US": "[Sad-looking Jakk]\nHmph-iiiiing...",
+        "pt-BR": "[Jakk Triste]\nHmph-iiiiing...",
         "es-ES": "[Jakk Triste]\nHmph-iiiiing..."
     },
     "aEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nWaaaaahhhhh!!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nWaaaaahhhhh!!!!",
+        "en-US": "[Sad-looking Jakk]\nWaaaaahhhhh!!!!",
+        "pt-BR": "[Jakk Triste]\nWaaaaahhhhh!!!!",
         "es-ES": "[Jakk Triste]\n¡¡¡Waaaaahhhhh!!!!"
     },
     "aUHgDQ": {
         "en-US": "Comfort him.",
-        "pt-BR": "Consolar.",
+        "pt-BR": "Confortá-lo.",
         "es-ES": "Consolarlo."
     },
     "akHgDQ": {
@@ -3095,43 +3095,43 @@
         "es-ES": "Dejarlo en paz."
     },
     "a0HgDQ": {
-        "en-US": "[Sad-looking Jack]\n*Sniff*...\nActually...",
-        "pt-BR": "[Jakk com Aparência Triste]\n*Sniff*...\nNa verdade...",
+        "en-US": "[Sad-looking Jakk]\n*Sniff*...\nActually...",
+        "pt-BR": "[Jakk Triste]\n*Sniff*...\nNa verdade...",
         "es-ES": "[Jakk Triste]\n*Sniff*...\nEn realidad..."
     },
     "bEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nEver since Meow got bigger, I feel like things have gotten awkward between us.",
-        "pt-BR": "[Jakk com Aparência Triste]\nDesde que o Miau cresceu, sinto que as coisas ficaram estranhas entre nós.",
-        "es-ES": "[Jakk Triste]\nDesde que Miau creció, siento que las cosas se han vuelto extrañas entre nosotros."
+        "en-US": "[Sad-looking Jakk]\nEver since Kitty got bigger, I feel like things have gotten awkward between us.",
+        "pt-BR": "[Jakk Triste]\nDesde que o Gatinho cresceu, sinto que as coisas ficaram estranhas entre nós.",
+        "es-ES": "[Jakk Triste]\nDesde que Gatito creció, siento que las cosas se han vuelto extrañas entre nosotros."
     },
     "bUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack is close with Meow!\nJack is close with Meow, right!?\nJust me!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nO Jakk é amigo do Miau!\nO Jakk também é amigo do Miau, né!?\nSó eu!!!",
-        "es-ES": "[Jakk Triste]\n¡Jakk es amigo de Miau!\n¡Jakk también es amigo de Miau, cierto!?\n¡¡¡Solo yo!!!"
+        "en-US": "[Sad-looking Jakk]\nJakk is close with Kitty!\nJakk is close with Kitty, right!?\nJust me!!!",
+        "pt-BR": "[Jakk Triste]\nO Jakk é amigo do Gatinho!\nO Jakk também é amigo do Gatinho, né!?\nSó eu!!!",
+        "es-ES": "[Jakk Triste]\n¡Jakk es amigo de Gatito!\n¡Jakk también es amigo de Gatito, cierto!?\n¡¡¡Solo yo!!!"
     },
     "bkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nI'm so upset!\nI'm so upset that even the pumpkin went bad!\nWhen will I ever get close with Meow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nEstou tão chateado!\nEstou tão chateado que até a abóbora estragou!\nQuando será que vou conseguir ser amigo do Miau?",
-        "es-ES": "[Jakk Triste]\n¡Estoy tan molesto!\n¡Estoy tan molesto que hasta la calabaza se echó a perder!\n¿Cuándo podré hacerme amigo de Miau?"
+        "en-US": "[Sad-looking Jakk]\nI'm so upset!\nI'm so upset that even the pumpkin went bad!\nWhen will I ever get close with Kitty?",
+        "pt-BR": "[Jakk Triste]\nEstou tão chateado!\nEstou tão chateado que até a abóbora estragou!\nQuando será que vou conseguir ser amigo do Gatinho?",
+        "es-ES": "[Jakk Triste]\n¡Estoy tan molesto!\n¡Estoy tan molesto que hasta la calabaza se echó a perder!\n¿Cuándo podré hacerme amigo de Gatito?"
     },
     "b0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmm...",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmm...",
+        "en-US": "[Sad-looking Jakk]\nHmm...",
+        "pt-BR": "[Jakk Triste]\nHmm...",
         "es-ES": "[Jakk Triste]\nHmm..."
     },
     "cEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nI want to hear how Jack became friends with Meow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nEu quero ouvir como o Jakk ficou amigo do Miau!",
-        "es-ES": "[Jakk Triste]\n¡Jakk!\n¡Quiero escuchar cómo Jakk se hizo amigo de Miau!"
+        "en-US": "[Sad-looking Jakk]\nJakk!\nI want to hear how Jakk became friends with Kitty!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nEu quero ouvir como o Jakk ficou amigo do Gatinho!",
+        "es-ES": "[Jakk Triste]\n¡Jakk!\n¡Quiero escuchar cómo Jakk se hizo amigo de Gatito!"
     },
     "cUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nRight!\nI think I heard that ^FF0000Jack south of Nifflheim^000000 is close with Meow!\nGo ask him for the secret to getting along with Meow",
-        "pt-BR": "[Jakk com Aparência Triste]\nIsso!\nAcho que ouvi dizer que o ^FF0000Jakk ao sul de Niflheim^000000 é amigo do Miau!\nVá pedir a ele o segredo para se dar bem com o Miau.",
-        "es-ES": "[Jakk Triste]\n¡Cierto!\n¡Creo haber oído que ^FF0000Jakk al sur de Niflheim^000000 es amigo del Miau de Jakk!\nPregúntale cuál es el secreto para llevarse bien con Miau."
+        "en-US": "[Sad-looking Jakk]\nRight!\nI think I heard that ^FF0000Jakk south of Nifflheim^000000 is close with Kitty!\nGo ask him for the secret to getting along with Kitty",
+        "pt-BR": "[Jakk Triste]\nIsso!\nAcho que ouvi dizer que o ^FF0000Jakk ao sul de Niflheim^000000 é amigo do Gatinho!\nVá pedir a ele o segredo para se dar bem com o Gatinho",
+        "es-ES": "[Jakk Triste]\n¡Cierto!\n¡Creo haber oído que ^FF0000Jakk al sur de Niflheim^000000 es amigo del Gatito de Jakk!\nPregúntale cuál es el secreto para llevarse bien con Gatito"
     },
     "ckHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHello Jack!!!\nDid you hear Jack's story?",
-        "pt-BR": "[Jakk com Aparência Triste]\nOlá, Jakk!!!\nVocê ouviu a história do Jakk?",
+        "en-US": "[Sad-looking Jakk]\nHello Jakk!!!\nDid you hear Jakk's story?",
+        "pt-BR": "[Jakk Triste]\nOlá, Jakk!!!\nVocê ouviu a história do Jakk?",
         "es-ES": "[Jakk Triste]\n¡¡¡Hola, Jakk!!!\n¿Escuchaste la historia de Jakk?"
     },
     "c0HgDQ": {
@@ -3140,469 +3140,469 @@
         "es-ES": "Probablemente no ayudará."
     },
     "dEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmph~\nThen what should I do?\nShould I go hear Jack's story?",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmph.\nEntão o que eu devo fazer?\nDevo ouvir a história do Jakk?",
-        "es-ES": "[Jakk Triste]\nHmph.\nEntonces, ¿qué debería hacer?\n¿Debería ir a escuchar la historia de Jakk?"
+        "en-US": "[Sad-looking Jakk]\nHmph~\nThen what should I do?\nShould I go hear Jakk's story?",
+        "pt-BR": "[Jakk Triste]\nHmph~\nEntão o que eu devo fazer?\nDevo ouvir a história do Jakk?",
+        "es-ES": "[Jakk Triste]\nHmph~\nEntonces, ¿qué debería hacer?\n¿Debería ir a escuchar la historia de Jakk?"
     },
     "dUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!!\nWon't you catch and bring back about ^FF000010 Fleeing Jacks^000000 wandering around here and there?\nIf you bring ^FF00005 Decorative Pumpkins and 5 Barren White Stems^000000 each, they'll have no choice but to follow you!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!!\nVocê não quer caçar e trazer cerca de ^FF000010 Jakks Fugitivos^000000 que andam vagando por aí?\nSe você trouxer ^FF00005 Abóboras Decorativas e 5 Caules Brancos Secos^000000 cada, eles não terão escolha a não ser te seguir!!",
-        "es-ES": "[Jakk Triste]\n¡¡Jakk!!\n¿No quisieras atrapar y traer de vuelta a unos ^FF000010 Jakks Fugitivos^000000 que andan vagando por aquí y por allá?\n¡¡Si traes ^FF00005 Calabazas Decorativas y 5 Tallos Blancos Secos^000000 cada uno, no tendrán más remedio que seguirte!!"
+        "en-US": "[Sad-looking Jakk]\nJakk!!\nWon't you catch and bring back about ^FF000010 Runaway Jakks^000000 wandering around here and there?\nIf you bring ^FF00005 Decorative Pumpkins and 5 White Thin Stems^000000 each, they'll have no choice but to follow you!!",
+        "pt-BR": "[Jakk Triste]\nJakk!!\nVocê não quer caçar e trazer cerca de ^FF000010 Jakks Fugitivos^000000 que andam vagando por aí?\nSe você trouxer ^FF00005 Abóboras Decorativas e 5 Ramos Brancos Finos^000000 cada, eles não terão escolha a não ser te seguir!!",
+        "es-ES": "[Jakk Triste]\n¡¡Jakk!!\n¿No quisieras atrapar y traer de vuelta a unos ^FF000010 Jakks Fugitivos^000000 que andan vagando por aquí y por allá?\n¡¡Si traes ^FF00005 Calabazas Decorativas y 5 Ramas Blancas Finas^000000 cada uno, no tendrán más remedio que seguirte!!"
     },
     "dkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHello Jack!",
-        "pt-BR": "[Jakk com Aparência Triste]\nOlá, Jakk!",
+        "en-US": "[Sad-looking Jakk]\nHello Jakk!",
+        "pt-BR": "[Jakk Triste]\nOlá, Jakk!",
         "es-ES": "[Jakk Triste]\n¡Hola, Jakk!"
     },
     "d0HgDQ": {
-        "en-US": "[Jack]\nHallo Jac!\nWa is tis?",
-        "pt-BR": "[Jakk]\nOlá, Jac!\nQui é isso?",
-        "es-ES": "[Jakk]\n¡Hola, Jac!\n¿Qué é eto?"
+        "en-US": "[Jakk]\nHallo Jak!\nWa is tis?",
+        "pt-BR": "[Jakk]\nOla Jak!\nQ coiza e essa?",
+        "es-ES": "[Jakk]\n¡Hoo Jak!\n¿Ques ezo?"
     },
     "eEHgDQ": {
-        "en-US": "Jack : Hallo Jac!",
-        "pt-BR": "Jakk : Olá, Jac!",
-        "es-ES": "Jakk : ¡Hola, Jac!"
+        "en-US": "Jakk : Hallo Jak!",
+        "pt-BR": "Jakk : Ola Jak!",
+        "es-ES": "Jakk : ¡Hoo Jak!"
     },
     "eUHgDQ": {
-        "en-US": "Jack : Wa is tis?",
-        "pt-BR": "Jakk : Qui é isso?",
-        "es-ES": "Jakk: ¿Qué é eto?"
+        "en-US": "Jakk : Wa is tis?",
+        "pt-BR": "Jakk : Q coiza e essa?\"",
+        "es-ES": "Jakk : ¿Ques ezo?"
     },
     "ekHgDQ": {
-        "en-US": "[Sad-looking Jack]\nThings got awkward with Meow, so I asked Jack to help me bring Jack here to ask how he became friends with Meow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nAs coisas ficaram estranhas com o Miau, então pedi para o Jakk ajudar a trazer o Jakk aqui para perguntar como ele virou amigo do Miau!",
-        "es-ES": "[Jakk Triste]\nLas cosas se pusieron extrañas con Miau, ¡así que le pedí a Jakk que me ayudara a traer a Jakk para preguntarle cómo se hizo amigo de Michi!"
+        "en-US": "[Sad-looking Jakk]\nThings got awkward with Kitty, so I asked Jakk to help me bring Jakk here to ask how he became friends with Kitty!",
+        "pt-BR": "[Jakk Triste]\nAs coisas ficaram estranhas com o Gatinho, então pedi para o Jakk ajudar a trazer o Jakk aqui para perguntar como ele virou amigo do Gatinho!",
+        "es-ES": "[Jakk Triste]\nLas cosas se pusieron extrañas con Gatito, ¡así que le pedí a Jakk que me ayudara a traer a Jakk para preguntarle cómo se hizo amigo de Gatito!"
     },
     "e0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nHow did Jack become friends with Meow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nComo o Jakk virou amigo do Miau?",
-        "es-ES": "[Jakk Triste]\n¿Cómo se hizo amigo Jakk de Miau?"
+        "en-US": "[Sad-looking Jakk]\nHow did Jakk become friends with Kitty?",
+        "pt-BR": "[Jakk Triste]\nComo o Jakk virou amigo do Gatinho?",
+        "es-ES": "[Jakk Triste]\n¿Cómo se hizo amigo Jakk de Gatito?"
     },
     "fEHgDQ": {
-        "en-US": "[Jack]\nWeeell?\nFum de tme Jac met Meow?",
-        "pt-BR": "[Jakk]\nÉééé?\nDês de quano Jac conhece Meow?",
-        "es-ES": "[Jakk]\n¿Bueeeno?\n¿Dede cuádo Jac conoce a Meow?"
+        "en-US": "[Jakk]\nWeeell?\nFum de tme Jak met Kitty?",
+        "pt-BR": "[Jakk]\nSei la?\nDesd o temp q o Jakk conheceu o Gatinho?",
+        "es-ES": "[Jakk]\n¿Deberda?\n¿Desd el tiemp que Jak conoció a Gatito?"
     },
     "fUHgDQ": {
-        "en-US": "Jack : Meow cute!!!",
-        "pt-BR": "Jakk : Miau fofo!!!",
-        "es-ES": "Jakk : ¡¡¡Miau tierno!!!"
+        "en-US": "Jakk : Kitty cute!!!",
+        "pt-BR": "Jakk : Gatinho fofo!!!",
+        "es-ES": "Jakk : ¡¡¡Gatito tierno!!!"
     },
     "fkHgDQ": {
-        "en-US": "[Jack]\nDon u kno?\nJac is Jac an Meow is Meow!",
-        "pt-BR": "[Jakk]\nNum sabe?\nJac é Jac e Miau é Miau!",
-        "es-ES": "[Jakk]\n¿No sabe?\n¡Jac es Jac y Miau es Miau!"
+        "en-US": "[Jakk]\nDon u kno?\nJak is Jak an Kitty is Kitty!",
+        "pt-BR": "[Jakk]\nN sabe?\nO Jak e o Jak e o Gatinho e o Gatinho!",
+        "es-ES": "[Jakk]\n¿No lo sabez?\n¡Jak es Jak y Gatito es Gatito!"
     },
     "f0HgDQ": {
-        "en-US": "Jack : Blah blah!",
+        "en-US": "Jakk : Blah blah!",
         "pt-BR": "Jakk : Blá blá!",
         "es-ES": "Jakk : ¡Bla bla!"
     },
     "gEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmm...\nI don't get it!\nJack went out of his way to bring Jack, but I still don't get it!",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmm...\nNão entendo!\nO Jakk fez todo esse esforço para trazer o Jakk, mas eu ainda não entendo!",
-        "es-ES": "[Jakk Triste]\nMmm...\n¡No lo entiendo!\n¡Jakk se tomó la molestia de traer a Jakk, pero sigo sin entenderlo!"
+        "en-US": "[Sad-looking Jakk]\nHmm...\nI don't get it!\nJakk went out of his way to bring Jakk, but I still don't get it!",
+        "pt-BR": "[Jakk Triste]\nHmm...\nEu não entendo!\nO Jakk deu o fora de ir buscar o Jakk, mas eu ainda não entendo!",
+        "es-ES": "[Jakk Triste]\nHmm...\n¡No lo entiendo!\nJakk se dio el viaje para traer a Jakk, ¡pero aún no lo entiendo!"
     },
     "gUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nThen let's ask Jack tomorrow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nEntão vamos perguntar ao Jakk amanhã!",
+        "en-US": "[Sad-looking Jakk]\nThen let's ask Jakk tomorrow!",
+        "pt-BR": "[Jakk Triste]\nEntão vamos perguntar ao Jakk amanhã!",
         "es-ES": "[Jakk Triste]\n¡Entonces le preguntaremos a Jakk mañana!"
     },
     "gkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!\nJack must know, right?",
-        "pt-BR": "[Jakk com Aparência Triste]\nLegal!\nO Jakk deve saber, né?",
+        "en-US": "[Sad-looking Jakk]\nGreat!\nJakk must know, right?",
+        "pt-BR": "[Jakk Triste]\nLegal!\nO Jakk deve saber, né?",
         "es-ES": "[Jakk Triste]\n¡Genial!\nJakk debe saberlo, ¿verdad?"
     },
     "g0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nThank you for bringing Jack!\nListen to my story again tomorrow!\nIt's a promise!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nObrigado por trazer o Jakk!\nOuça minha história de novo amanhã!\nÉ uma promessa!!!",
+        "en-US": "[Sad-looking Jakk]\nJakk!\nThank you for bringing Jakk!\nListen to my story again tomorrow!\nIt's a promise!!!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nObrigado por trazer o Jakk!\nOuça minha história de novo amanhã!\nÉ uma promessa!!!",
         "es-ES": "[Jakk Triste]\n¡Jakk!\n¡Gracias por traer a Jakk!\n¡Escucha mi historia de nuevo mañana!\n¡Es una promesa!!!"
     },
     "hEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nWon't you catch and bring back about ^FF000010 Fleeing Jacks^000000 wandering around here and there?\nIf you bring ^FF00005 Decorative Pumpkins and 5 Barren White Stems^000000 each, they'll have no choice but to follow you!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nVocê não quer caçar e trazer cerca de ^FF000010 Jakks Fugitivos^000000 que andam vagando por aí?\nSe você trouxer ^FF00005 Abóboras Decorativas e 5 Caules Brancos Secos^000000 cada, eles não terão escolha a não ser te seguir!!",
-        "es-ES": "[Jakk Triste]\n¿No quisieras atrapar y traer de vuelta a unos ^FF000010 Jakks Fugitivos^000000 que andan vagando por aquí y por allá?\n¡¡Si traes ^FF00005 Calabazas Decorativas y 5 Tallos Blancos Secos^000000 cada uno, no tendrán más remedio que seguirte!!"
+        "en-US": "[Sad-looking Jakk]\nWon't you catch and bring back about ^FF000010 Runaway Jakks^000000 wandering around here and there?\nIf you bring ^FF00005 Decorative Pumpkins and 5 White Thin Stems^000000 each, they'll have no choice but to follow you!!",
+        "pt-BR": "[Jakk Triste]\nVocê não quer caçar e trazer cerca de ^FF000010 Jakks Fugitivos^000000 que andam vagando por aí?\nSe você trouxer ^FF00005 Abóboras Decorativas e 5 Ramos Brancos Finos^000000 cada, eles não terão escolha a não ser te seguir!!",
+        "es-ES": "[Jakk Triste]\n¿No quisieras atrapar y traer de vuelta a unos ^FF000010 Jakks Fugitivos^000000 que andan vagando por aquí y por allá?\n¡¡Si traes ^FF00005 Calabazas Decorativas y 5 Ramas Blancas Finas^000000 cada uno, no tendrán más remedio que seguirte!!"
     },
     "hUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nYou've met Jack a lot today, so listen to my story again tomorrow!\nIt's a promise!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nVocê encontrou muitos Jakk hoje, então ouça minha história de novo amanhã!\nÉ uma promessa!!!",
-        "es-ES": "[Jakk Triste]\n¡Jakk!\n¡Hoy conociste a muchos Jakk, así que mañana vuelve a escuchar mi historia!\n¡¡¡Es una promesa!!!"
+        "en-US": "[Sad-looking Jakk]\nJakk!\nYou've met Jakk a lot today, so listen to my story again tomorrow!\nIt's a promise!!!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nVocê já encontrou o Jakk bastante hoje, então ouça minha história de novo amanhã!\nÉ uma promessa!!!",
+        "es-ES": "[Jakk Triste]\n¡Jakk!\n¡Has conocido mucho a Jakk hoy, así que escucha mi historia de nuevo mañana!\n¡Es una promesa!!!"
     },
     "hkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nI got hit with a meow-meow punch by Meow today too.",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje eu levei um soco de miau-miau do Miau de novo.",
-        "es-ES": "[Jakk Triste]\nHoy también recibí un puñetazo miau-miau de Miau."
+        "en-US": "[Sad-looking Jakk]\nI got hit with a kitty-punch by Kitty today too.",
+        "pt-BR": "[Jakk Triste]\nHoje eu levei um \"tapa de gato\" do Gatinho de novo.",
+        "es-ES": "[Jakk Triste]\nHoy también recibí un \"puñetazo de michi\" de Gatito."
     },
     "h0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nDoes Meow hate me?\nWhen will I ever get close with Meow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nSerá que o Miau me odeia?\nQuando será que vou conseguir ser amigo do Miau?",
-        "es-ES": "[Jakk Triste]\n¿Acaso Miau me odia?\n¿Cuándo podré hacerme amigo de Miau?"
+        "en-US": "[Sad-looking Jakk]\nDoes Kitty hate me?\nWhen will I ever get close with Kitty?",
+        "pt-BR": "[Jakk Triste]\nSerá que o Gatinho me odeia?\nQuando será que vou conseguir ser amigo do Gatinho?",
+        "es-ES": "[Jakk Triste]\n¿Acaso Gatito me odia?\n¿Cuándo podré hacerme amigo de Gatito?"
     },
     "iEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nToday I switched to sweet sweet pumpkins that Meow likes, but Meow bit me.",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje eu mudei para abóboras doces que o Miau gosta, mas o Miau me mordeu.",
-        "es-ES": "[Jakk Triste]\nHoy cambié a calabazas dulces que le gustan a Miau, pero Miau me mordió."
+        "en-US": "[Sad-looking Jakk]\nToday I switched to sweet sweet pumpkins that Kitty likes, but Kitty bit me.",
+        "pt-BR": "[Jakk Triste]\nHoje eu mudei para abóboras doces que o Gatinho gosta, mas o Gatinho me mordeu.",
+        "es-ES": "[Jakk Triste]\nHoy cambié a calabazas dulces que le gustan a Gatito, pero Gatito me mordió."
     },
     "iUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nAt this rate, I'm going to become a delicious Jack instead of a friend Jack.\nWhen will I ever get close with Meow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nDesse jeito, vou virar um Jakk saboroso em vez de um Jakk amigo.\nQuando será que vou conseguir ser amigo do Miau?",
-        "es-ES": "[Jakk Triste]\nA este paso, me convertiré en un Jakk delicioso en lugar de un Jakk amigo.\n¿Cuándo podré hacerme amigo de Miau?"
+        "en-US": "[Sad-looking Jakk]\nAt this rate, I'm going to become a delicious Jakk instead of a friend Jakk.\nWhen will I ever get close with Kitty?",
+        "pt-BR": "[Jakk Triste]\nDesse jeito, vou virar um Jakk saboroso em vez de um Jakk amigo.\nQuando será que vou conseguir ser amigo do Gatinho?",
+        "es-ES": "[Jakk Triste]\nA este paso, me convertiré en un Jakk delicioso en lugar de un Jakk amigo.\n¿Cuándo podré hacerme amigo de Gatito?"
     },
     "ikHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nI don't want to be delicious, I want to hear how Jack became friends with Meow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nEu não quero ser saboroso, eu quero ouvir como o Jakk ficou amigo do Miau!",
-        "es-ES": "[Jakk Triste]\n¡Jakk!\n¡No quiero ser delicioso, quiero escuchar cómo Jakk se hizo amigo de Miau!"
+        "en-US": "[Sad-looking Jakk]\nJakk!\nI don't want to be delicious, I want to hear how Jakk became friends with Kitty!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nEu não quero ser saboroso, eu quero ouvir como o Jakk ficou amigo do Gatinho!",
+        "es-ES": "[Jakk Triste]\n¡Jakk!\n¡No quiero ser delicioso, quiero escuchar cómo Jakk se hizo amigo de Gatito!"
     },
     "i0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nToday I patted Meow, but it got mad and ran away biting a tree branch.",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje eu fiz carinho no Miau, mas ele ficou bravo e saiu correndo mordendo um galho de árvore.",
-        "es-ES": "[Jakk Triste]\nHoy acaricié a Miau, pero se enojó y se fue corriendo mordiendo una rama de árbol."
+        "en-US": "[Sad-looking Jakk]\nToday I patted Kitty, but it got mad and ran away biting a tree branch.",
+        "pt-BR": "[Jakk Triste]\nHoje eu fiz carinho no Gatinho, mas ele ficou bravo e saiu correndo mordendo um galho de árvore.",
+        "es-ES": "[Jakk Triste]\nHoy acaricié a Gatito, pero se enojó y se fue corriendo mordiendo una rama de árbol."
     },
     "jEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nWhat if Meow doesn't come back like this?\nWhen will I ever get close with Meow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nE se o Miau não voltar desse jeito?\nQuando será que vou conseguir ser amigo do Miau?",
-        "es-ES": "[Jakk Triste]\n¿Y si Miau no regresa así?\n¿Cuándo podré hacerme amigo de Miau?"
+        "en-US": "[Sad-looking Jakk]\nWhat if Kitty doesn't come back like this?\nWhen will I ever get close with Kitty?",
+        "pt-BR": "[Jakk Triste]\nE se o Gatinho não voltar desse jeito?\nQuando será que vou conseguir ser amigo do Gatinho?",
+        "es-ES": "[Jakk Triste]\n¿Y si Gatito no regresa así?\n¿Cuándo podré hacerme amigo de Gatito?"
     },
     "jUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nMeow will come back, right?\nI want to hear how Jack became friends with Meow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nO Miau vai voltar, né?\nEu quero ouvir como o Jakk ficou amigo do Miau!",
-        "es-ES": "[Jakk Triste]\n¡Jakk!\nMiau volverá, ¿verdad?\n¡Quiero escuchar cómo Jakk se hizo amigo de Miau!"
+        "en-US": "[Sad-looking Jakk]\nJakk!\nKitty will come back, right?\nI want to hear how Jakk became friends with Kitty!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nO Gatinho vai voltar, né?\nEu quero ouvir como o Jakk ficou amigo do Gatinho!",
+        "es-ES": "[Jakk Triste]\n¡Jakk!\nGatito volverá, ¿verdad?\n¡Quiero escuchar cómo Jakk se hizo amigo de Gatito!"
     },
     "jkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nToday I tried to look at Meow with a warm gaze, but the pumpkin doesn't have eyes so I can't send a gaze.",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje tentei olhar para Miau com um olhar carinhoso, mas a abóbora não tem olhos, então não consigo lançar um olhar.",
-        "es-ES": "[Jakk Triste]\nHoy intenté mirar a Miau con una mirada cálida, pero la calabaza no tiene ojos, así que no puedo enviarle una mirada."
+        "en-US": "[Sad-looking Jakk]\nToday I tried to look at Kitty with a warm gaze, but the pumpkin doesn't have eyes so I can't send a gaze.",
+        "pt-BR": "[Jakk Triste]\nHoje eu tentei olhar para o Gatinho com um olhar caloroso, mas a abóbora não tem olhos, então não consigo mandar um olhar.",
+        "es-ES": "[Jakk Triste]\nHoy intenté mirar a Gatito con una mirada cálida, pero la calabaza no tiene ojos, así que no puedo enviarle una mirada."
     },
     "j0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nEven so, when I kept staring, Meow quietly went inside its house.",
-        "pt-BR": "[Jakk com Aparência Triste]\nMesmo assim, quando fiquei encarando, o Miau entrou quietinho na casinha dele.",
-        "es-ES": "[Jakk Triste]\nAun así, cuando me quedé mirando fijamente, Miau entró silenciosamente a su casa."
+        "en-US": "[Sad-looking Jakk]\nEven so, when I kept staring, Kitty quietly went inside its house.",
+        "pt-BR": "[Jakk Triste]\nMesmo assim, quando fiquei encarando, o Gatinho entrou quietinho na casinha dele.",
+        "es-ES": "[Jakk Triste]\nAun así, cuando me quedé mirando fijamente, Gatito entró silenciosamente a su casa."
     },
     "kEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nCould it be because I lack a warm gaze?\nWhen will I ever get close with Meow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nSerá que é porque me falta um olhar caloroso?\nQuando será que vou conseguir ser amigo do Miau?",
-        "es-ES": "[Jakk Triste]\n¿Será porque me falta una mirada cálida?\n¿Cuándo podré hacerme amigo de Miau?"
+        "en-US": "[Sad-looking Jakk]\nCould it be because I lack a warm gaze?\nWhen will I ever get close with Kitty?",
+        "pt-BR": "[Jakk Triste]\nSerá que é porque me falta um olhar caloroso?\nQuando será que vou conseguir ser amigo do Gatinho?",
+        "es-ES": "[Jakk Triste]\n¿Será porque me falta una mirada cálida?\n¿Cuándo podré hacerme amigo de Gatito?"
     },
     "kUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nI want to have a warm gaze too!?\nDoesn't Jack know a way?",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nEu também quero ter um olhar caloroso!?\nO Jakk não sabe de um jeito?",
+        "en-US": "[Sad-looking Jakk]\nJakk!\nI want to have a warm gaze too!?\nDoesn't Jakk know a way?",
+        "pt-BR": "[Jakk Triste]\nJakk!\nEu também quero ter um olhar caloroso!?\nO Jakk não sabe de um jeito?",
         "es-ES": "[Jakk Triste]\n¡Jakk!\n¡Yo también quiero tener una mirada cálida!?\n¿Acaso Jakk no conoce un método?"
     },
     "kkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nToday I looked at Meow with a warm gaze, but it got angry.",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje eu olhei para o Miau com um olhar caloroso, mas ele ficou bravo.",
-        "es-ES": "[Jakk Triste]\nHoy miré a Miau con una mirada cálida, pero se enojó."
+        "en-US": "[Sad-looking Jakk]\nToday I looked at Kitty with a warm gaze, but it got angry.",
+        "pt-BR": "[Jakk Triste]\nHoje eu olhei para o Gatinho com um olhar caloroso, mas ele ficou bravo.",
+        "es-ES": "[Jakk Triste]\nHoy miré a Gatito con una mirada cálida, pero se enojó."
     },
     "k0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nMeow wants to live quietly and leisurely!",
-        "pt-BR": "[Jakk com Aparência Triste]\nO Miau quer viver de forma quieta e sossegada!",
-        "es-ES": "[Jakk Triste]\n¡Miau quiere vivir de forma tranquila y relajada!"
+        "en-US": "[Sad-looking Jakk]\nKitty wants to live quietly and leisurely!",
+        "pt-BR": "[Jakk Triste]\nO Gatinho quer viver de forma quieta e sossegada!",
+        "es-ES": "[Jakk Triste]\n¡Gatito quiere vivir de forma tranquila y relajada!"
     },
     "lEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nToday I'm going to play super quietly with Meow!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje vou brincar bem quietinho com o Miau!!!",
-        "es-ES": "[Jakk Triste]\n¡¡¡Hoy voy a jugar súper tranquilo con Miau!!!"
+        "en-US": "[Sad-looking Jakk]\nToday I'm going to play super quietly with Kitty!!!",
+        "pt-BR": "[Jakk Triste]\nHoje eu vou brincar super quieto com o Gatinho!!!",
+        "es-ES": "[Jakk Triste]\n¡¡¡Hoy voy a jugar súper tranquilo con Gatito!!!"
     },
     "lUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!!!\nI should tell Jack to play a quiet game together too!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nÓtimo!!!\nVou chamar o Jakk para brincar quietinho comigo também!!!",
+        "en-US": "[Sad-looking Jakk]\nGreat!!!\nI should tell Jakk to play a quiet game together too!!!",
+        "pt-BR": "[Jakk Triste]\nLegal!!!\nEu deveria dizer para o Jakk brincar de um jogo quieto junto também!!!",
         "es-ES": "[Jakk Triste]\n¡¡¡Genial!!!\n¡¡Le diré a Jakk que juguemos a un juego tranquilo juntos también!!"
     },
     "lkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHello Jack!!!!!\nIt's a happy~ Halloween!",
-        "pt-BR": "[Jakk com Aparência Triste]\nOlá, Jakk!!!!!\nÉ um feliz Dia das Bruxas!",
-        "es-ES": "[Jakk Triste]\n¡¡¡¡¡Hola, Jakk!!!!!\n¡Es una feliz Noche de Brujas!"
+        "en-US": "[Sad-looking Jakk]\nHello Jakk!!!!!\nIt's a happy~ Halloween!",
+        "pt-BR": "[Jakk Triste]\nOlá, Jakk!!!!!\nQue festa de Halloween feliz!!",
+        "es-ES": "[Jakk Triste]\n¡¡¡¡¡Hola, Jakk!!!!!\n¡Es un feliz~ Halloween!"
     },
     "l0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nYay!\nIt's a happy Halloween festival!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nOba!\nÉ uma divertida Festa do Dia das Bruxas!!",
-        "es-ES": "[Jakk Triste]\n¡Qué emoción!\n¡¡Es un divertido festival de Noche de Brujas!!"
+        "en-US": "[Sad-looking Jakk]\nYay!\nIt's a happy Halloween festival!!",
+        "pt-BR": "[Jakk Triste]\nOba!\nQue festa de Halloween animada!!",
+        "es-ES": "[Jakk Triste]\n¡Qué emoción!\n¡Es una feliz fiesta de Halloween!!"
     },
     "mEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nYesterday I played super quietly with Meow!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nOntem brinquei bem quietinho com o Miau!!!",
-        "es-ES": "[Jakk Triste]\n¡¡¡Ayer jugué súper tranquilo con Miau!!!"
+        "en-US": "[Sad-looking Jakk]\nYesterday I played super quietly with Kitty!!!",
+        "pt-BR": "[Jakk Triste]\nOntem eu brinquei super quieto com o Gatinho!!!",
+        "es-ES": "[Jakk Triste]\n¡¡¡Ayer jugué súper tranquilo con Gatito!!!"
     },
     "mUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nWon't you catch and bring back about ^FF000010 Fleeing Jacks^000000 wandering around here and there?\nIf you bring ^FF00005 Decorative Pumpkins and 5 Barren White Stems^000000 each, they'll have no choice but to follow you!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nVocê não quer caçar e trazer cerca de ^FF000010 Jakks Fugitivos^000000 que andam vagando por aí?\nSe você trouxer ^FF00005 Abóboras Decorativas e 5 Caules Brancos Secos^000000 cada, eles não terão escolha a não ser te seguir!!",
-        "es-ES": "[Jakk Triste]\n¡Jakk!\n¿No quisieras atrapar y traer de vuelta a unos ^FF000010 Jakks Fugitivos^000000 que andan vagando por aquí y por allá?\n¡¡Si traes ^FF00005 Calabazas Decorativas y 5 Tallos Blancos Secos^000000 cada uno, no tendrán más remedio que seguirte!!"
+        "en-US": "[Sad-looking Jakk]\nJakk!\nWon't you catch and bring back about ^FF000010 Runaway Jakks^000000 wandering around here and there?\nIf you bring ^FF00005 Decorative Pumpkins and 5 White Thin Stems^000000 each, they'll have no choice but to follow you!!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nVocê não quer caçar e trazer cerca de ^FF000010 Jakks Fugitivos^000000 que andam vagando por aí?\nSe você trouxer ^FF00005 Abóboras Decorativas e 5 Ramos Brancos Finos^000000 cada, eles não terão escolha a não ser te seguir!!",
+        "es-ES": "[Jakk Triste]\n¡Jakk!\n¿No quisieras atrapar y traer de vuelta a unos ^FF000010 Jakks Fugitivos^000000 que andan vagando por aquí y por allá?\n¡¡Si traes ^FF00005 Calabazas Decorativas y 5 Ramas Blancas Finas^000000 cada uno, no tendrán más remedio que seguirte!!"
     },
     "mkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!\nWon't you catch and bring back about 10 Fleeing Jacks wandering around here and there?\nIf you bring 5 Decorative Pumpkins and 5 Barren White Stems each, they'll have no choice but to follow you!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!\nVocê não quer caçar e trazer cerca de 10 Jakks Fugitivos que andam vagando por aí?\nSe você trouxer 5 Abóboras Decorativas e 5 Caules Brancos Secos cada, eles não terão escolha a não ser te seguir!!",
-        "es-ES": "[Jakk Triste]\n¡Jakk!\n¿No quisieras atrapar y traer de vuelta a unos 10 Jakks Fugitivos que andan vagando por aquí y por allá?\nSi traes 5 Calabazas Decorativas y 5 Tallos Blancos Secos cada uno, no tendrán más remedio que seguirte!!"
+        "en-US": "[Sad-looking Jakk]\nJakk!\nWon't you catch and bring back about 10 Runaway Jakks wandering around here and there?\nIf you bring 5 Decorative Pumpkins and 5 White Thin Stems each, they'll have no choice but to follow you!!",
+        "pt-BR": "[Jakk Triste]\nJakk!\nVocê não quer caçar e trazer cerca de 10 Jakks Fugitivos que andam vagando por aí?\nSe você trouxer 5 Abóboras Decorativas e 5 Ramos Brancos Finos cada, eles não terão escolha a não ser te seguir!!",
+        "es-ES": "[Jakk Triste]\n¡Jakk!\n¿No quisieras atrapar y traer de vuelta a unos 10 Jakks Fugitivos que andan vagando por aquí y por allá?\nSi traes 5 Calabazas Decorativas y 5 Ramas Blancas Finas cada uno, no tendrán más remedio que seguirte!!"
     },
     "m0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nThings got awkward with Meow, so I asked Jack to help me bring Jack here to ask how he became friends with Meow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nComo não consegui ficar amigo do Miau, pedi para o Jakk trazer o Jakk para perguntar como ele ficou amigo dele!",
-        "es-ES": "[Jakk Triste]\nComo no podía hacerme amigo de Miau, ¡le pedí a Jakk que trajera a Jakk para preguntarle cómo se hizo su amigo!"
+        "en-US": "[Sad-looking Jakk]\nThings got awkward with Kitty, so I asked Jakk to help me bring Jakk here to ask how he became friends with Kitty!",
+        "pt-BR": "[Jakk Triste]\nOntem eu brinquei super quieto com o Gatinho!!!",
+        "es-ES": "[Jakk Triste]\nComo no podía hacerme amigo de Gatito, ¡le pedí a Jakk que trajera a Jakk para preguntarle cómo se hizo su amigo!"
     },
     "nEHgDQ": {
-        "en-US": "[Jack]\nMeow sais I smel like smth delicious.\nMeow luvs eerything!!!",
-        "pt-BR": "[Jakk]\nO Miau disse que eu cheirava a coisa gostosa.\nO Miau gosta de tudu!!!",
-        "es-ES": "[Jakk]\nMiau dice que huelo a algo rico.\n¡¡¡A Miau le gusta tooodo!!!"
+        "en-US": "[Jakk]\nKitty sais I smel like smth delicious.\nKitty luvs eerything!!!",
+        "pt-BR": "[Jakk]\nO Gatinho dze q eu cheiro a coisa gostosa.\nO Gatinho ama tudo!!!",
+        "es-ES": "[Jakk]\nGatito dce que huelo a algo rico.\n¡¡¡Gatito ama todo!!!"
     },
     "nUHgDQ": {
-        "en-US": "Jack : Delish!!!",
+        "en-US": "Jakk : Delish!!!",
         "pt-BR": "Jakk : Delícia!!!",
         "es-ES": "Jakk : ¡¡Delicioso!!"
     },
     "nkHgDQ": {
-        "en-US": "[Jack]\nHnn...\nMeow luvs eerything sweet so Meow hates Jac!",
-        "pt-BR": "[Jakk]\nHã...\nO Miau ama coisas doces, entao o Miau odeia o Jac!",
-        "es-ES": "[Jakk]\nJe...\n¡A Miau le encantan las cosas dulces, asique Miau odia a Jac!"
+        "en-US": "[Jakk]\nHnn...\nKitty luvs eerything sweet so Kitty hates Jak!",
+        "pt-BR": "[Jakk]\nHã...\nO Gatinho ama coisas doces, entao o Gatinho odeia o Jak!",
+        "es-ES": "[Jakk]\nJe...\n¡A Gatito le encantan las cosas dulces, asique Gatito odia a Jak!"
     },
     "n0HgDQ": {
-        "en-US": "Jack : Hates it!",
+        "en-US": "Jakk : Hates it!",
         "pt-BR": "Jakk : Odeia!",
         "es-ES": "Jakk : ¡Lo odia!"
     },
     "oEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nAhhh!!!!\nJack has gone bad, so Meow hates Jack!",
-        "pt-BR": "[Jakk com Aparência Triste]\nAh não!!!!\nO Jakk estragou, então o Miau odeia o Jakk!",
-        "es-ES": "[Jakk Triste]\n¡¡¡Ahhh!!!!\n¡Jakk se echó a perder, así que a Miau no le gusta Jakk!"
+        "en-US": "[Sad-looking Jakk]\nAhhh!!!!\nJakk has gone bad, so Kitty hates Jakk!",
+        "pt-BR": "[Jakk Triste]\nAh não!!!!\nO Jakk estragou, então o Gatinho odeia o Jakk!",
+        "es-ES": "[Jakk Triste]\n¡¡¡Ahí nan!!!!!\n¡Jakk se ha echado a perder, por eso Gatito odia a Jakk!"
     },
     "oUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!\nJack gave me a good method!\nThen let's ask Meow tomorrow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nÓtimo!\nO Jakk me ensinou um jeito bom de fazer isso!\nEntão, vamos perguntar ao Miau amanhã!",
-        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Jakk me dio un buen método!\n¡Entonces, mañana preguntémosle a Miau!"
+        "en-US": "[Sad-looking Jakk]\nGreat!\nJakk gave me a good method!\nThen let's ask Kitty tomorrow!",
+        "pt-BR": "[Jakk Triste]\nLegal!\nO Jakk me deu um bom método!\nEntão vamos perguntar ao Gatinho amanhã!",
+        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Jakk me dio un buen método!\n¡Entonces preguntémosle a Gatito mañana!"
     },
     "okHgDQ": {
-        "en-US": "[Jack]\nOur Meow luvs it when I pet it!\nMeow luvs eerything!!!",
-        "pt-BR": "[Jakk]\nO nosso Miau adora quando faço carinho nele!\nO Miau gosta de tudu!!!",
-        "es-ES": "[Jakk]\n¡A nuestro Miau le encanta que le haga cariño!\n¡¡¡A Miau le gusta tooodo!!!"
+        "en-US": "[Jakk]\nOur Kitty luvs it when I pet it!\nKitty luvs eerything!!!",
+        "pt-BR": "[Jakk]\nO nosso Gatinho ama quando eu faço carinho nele!\nO Gatinho ama tudo!!!",
+        "es-ES": "[Jakk]\n¡A nuestr Gatito le encanta que le acaricie!\n¡¡¡Gatito ama todo!!!"
     },
     "o0HgDQ": {
-        "en-US": "Jack : Pet-pet!!!",
-        "pt-BR": "Jakk: Carinho-carinho!!!",
-        "es-ES": "Jakk: ¡Mimos-mimos!!!"
+        "en-US": "Jakk : Pet-pet!!!",
+        "pt-BR": "Jakk : Carinho-carinho!!!",
+        "es-ES": "Jakk : ¡¡¡Acariciar-acariciar!!!"
     },
     "pEHgDQ": {
-        "en-US": "[Jack]\nWen u genly pet Meow frum top to bottom with a dry branch, u can hea a clea soun as it rubs aginst the tips of Meow's fethas.",
-        "pt-BR": "[Jakk]\nQuando cê faz carinho no Miau de cima pra baixo com um galho seco, dá pra ouvi um som bem limpinho quando ele roça nas pontinha dos pelo do Miau.",
-        "es-ES": "[Jakk]\nCuando acaricias a Miau de arriba abajo con una rama seca, puedes oír un sonido bien clarito cuando roza las puntitas del pelo de Miau."
+        "en-US": "[Jakk]\nWen u genly pet Kitty frum top to bottom with a dry branch, u can hea a clea soun as it rubs aginst the tips of Kitty's fethas.",
+        "pt-BR": "[Jakk]\nQdo vc faz carinhu suavement no Gatinho de cima pra baxu com um galhu secu, da p ouvi um som limpu qdo encosta nas pontas das penas do Gatinho.",
+        "es-ES": "[Jakk]\nCuand acaricias suavement a Gatito de arriba a abaj con un rama seca, puedes escuha un sonid clarocuand choca contra las puntas de las plumas de Gatito."
     },
     "pUHgDQ": {
-        "en-US": "Jack : Ring-ring!!!",
+        "en-US": "Jakk : Ring-ring!!!",
         "pt-BR": "Jakk : Trim-trim!!!",
         "es-ES": "Jakk : ¡¡Tintineo!!"
     },
     "pkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmm...\nI don't really know what Jack is saying!\nJack went out of his way to bring Jack, and I have no idea what he's talking about, but let's pet Meow!",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmm...\nNão entendo muito bem o que o Jakk está dizendo!\nO Jakk fez todo esse esforço para trazer o Jakk, e eu não faço ideia do que ele está falando, mas vamos fazer carinho no Miau!",
-        "es-ES": "[Jakk Triste]\nMmm...\n¡No entiendo muy bien lo que dice Jakk!\n¡Jakk se tomó la molestia de traer a Jakk y no entiendo nada de lo que dice, pero vamos a acariciar a Miau!"
+        "en-US": "[Sad-looking Jakk]\nHmm...\nI don't really know what Jakk is saying!\nJakk went out of his way to bring Jakk, and I have no idea what he's talking about, but let's pet Kitty!",
+        "pt-BR": "[Jakk Triste]\nHmm...\nEu não sei o que o Jakk está dizendo!\nO Jakk deu o fora de trazer o Jakk e eu não entendi nada do que ele tá falando, mas vamos fazer carinho no Gatinho!",
+        "es-ES": "[Jakk Triste]\nHmm...\n¡No entiendo muy bien lo que dice Jakk!\nJakk se molestó en traer a Jakk y no tengo idea de qué está hablando, ¡pero acariciemos a Gatito!"
     },
     "p0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!\nI want to hear Meow's clear sound too!",
-        "pt-BR": "[Jakk com Aparência Triste]\nLegal!\nEu também quero ouvir o som cristalino do Miau!",
-        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Yo también quiero escuchar el sonido claro de Miau!"
+        "en-US": "[Sad-looking Jakk]\nGreat!\nI want to hear Kitty's clear sound too!",
+        "pt-BR": "[Jakk Triste]\nLegal!\nEu também quero ouvir o som limpo do Gatinho!",
+        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Yo también quiero escuchar el sonido claro de Gatito!"
     },
     "qEHgDQ": {
-        "en-US": "[Jack]\nWeeell?\nIs it luking at Meow with a waum gaze?",
-        "pt-BR": "[Jakk]\nÉéé?\nTá olhando pro Miau com um olhar quentinho?",
-        "es-ES": "[Jakk]\n¿Bueeeno?\n¿Está mirando a Miau con una mirada calientita?"
+        "en-US": "[Jakk]\nWeeell?\nIs it luking at Kitty with a waum gaze?",
+        "pt-BR": "[Jakk]\nSei la?\nE olhar pa o Gatinho com um olhar calorozo?",
+        "es-ES": "[Jakk]\n¿Deberda?\n¿Ez mirand a Gatito con una mirad cálida?"
     },
     "qUHgDQ": {
-        "en-US": "Jack : Waum-waum!!!",
-        "pt-BR": "Jakk: Quentinho-quentinho!!!",
-        "es-ES": "Jakk : ¡Calientito-calientito!!!"
+        "en-US": "Jakk : Waum-waum!!!",
+        "pt-BR": "Jakk : Caloroso-caloroso!!!",
+        "es-ES": "Jakk : ¡¡¡Cálida-cálida!!!"
     },
     "qkHgDQ": {
-        "en-US": "[Jack]\nMeow hates being touched as u please.\nJust luking with a waum gaze will convay Jac's hawt!!!",
-        "pt-BR": "[Jakk]\nO Miau não gosta que fiquem tocando nele à vontade.\nSó de olhar com um olhar quentinho já dá para transmitir o calor do coração do Jac!",
-        "es-ES": "[Jakk]\nA Miau no le gusta que lo toquen como quieran.\n¡Con solo mirarlo con una mirada cálida, puedes transmitir el calor del corazón de Jac!"
+        "en-US": "[Jakk]\nKitty hates being touched as u please.\nJust luking with a waum gaze will convay Jak's hawt!!!",
+        "pt-BR": "[Jakk]\nO Gatinho odeia ser tocado do seu jeito.\n Só de olhar com um olhar caloroso já vai transmitir o sentimento do Jak!!!",
+        "es-ES": "[Jakk]\nGatito odia que lo toquen como te plazca.\n¡¡Con solo mirarlo con una mirada cálida se transmitirá el sentimient de Jak!!"
     },
     "q0HgDQ": {
-        "en-US": "Jack : Swept away!!",
-        "pt-BR": "Jakk: Encantado!!",
-        "es-ES": "Jakk: ¡¡Cautivado!!"
+        "en-US": "Jakk : Swept away!!",
+        "pt-BR": "Jakk : Apaixonado!!",
+        "es-ES": "Jakk : ¡¡Seducido!!"
     },
     "rEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmm...\nA warm gaze?\nWill Meow come back tomorrow?",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmm...\nUm olhar caloroso?\nO Miau vai voltar amanhã?",
-        "es-ES": "[Jakk Triste]\nHmm...\n¿Una mirada cálida?\n¿Miau volverá mañana?"
+        "en-US": "[Sad-looking Jakk]\nHmm...\nA warm gaze?\nWill Kitty come back tomorrow?",
+        "pt-BR": "[Jakk Triste]\nHmm...\nUm olhar caloroso?\nO Gatinho vai voltar amanhã?",
+        "es-ES": "[Jakk Triste]\nHmm...\n¿Una mirada cálida?\n¿Gatito volverá mañana?"
     },
     "rUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!\nTomorrow when Meow comes back, I'm going to look at it with a warm gaze!!\nUntil my feelings are conveyed!",
-        "pt-BR": "[Jakk com Aparência Triste]\nLegal!\nAmanhã, quando o Miau voltar, vou olhar para ele com um olhar quentinho!!\nAté que ele entenda o que sinto!",
-        "es-ES": "[Jakk Triste]\n¡Genial!\n¡¡¡Mañana, cuando Miau vuelva, lo miraré con una mirada cálida!!!\n¡Hasta que entienda lo que siento!"
+        "en-US": "[Sad-looking Jakk]\nGreat!\nTomorrow when Kitty comes back, I'm going to look at it with a warm gaze!!\nUntil my feelings are conveyed!",
+        "pt-BR": "[Jakk Triste]\nLegal!\nAmanhã quando o Gatinho voltar, vou olhar para ele com um olhar caloroso!!\nAté meus sentimentos serem transmitidos!",
+        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Mañana, cuando Gatito regrese, lo miraré con una mirada cálida!\n¡Hasta que mis sentimientos sean transmitidos!"
     },
     "rkHgDQ": {
-        "en-US": "[Sad-looking Jack]\nI want to look at Meow with a warm gaze, but the pumpkin doesn't have eyes.\nWhat should I do?",
-        "pt-BR": "[Jakk com Aparência Triste]\nQuero olhar para o Miau com um olhar caloroso, mas a abóbora não tem olhos.\nO que eu deveria fazer?",
-        "es-ES": "[Jakk Triste]\nQuiero mirar a Miau con una mirada cálida, pero la calabaza no tiene ojos.\n¿Qué debería hacer?"
+        "en-US": "[Sad-looking Jakk]\nI want to look at Kitty with a warm gaze, but the pumpkin doesn't have eyes.\nWhat should I do?",
+        "pt-BR": "[Jakk Triste]\nQuero olhar para o Gatinho com um olhar caloroso, mas a abóbora não tem olhos.\nO que eu deveria fazer?",
+        "es-ES": "[Jakk Triste]\nQuiero mirar a Gatito con una mirada cálida, pero la calabaza no tiene ojos.\n¿Qué debería hacer?"
     },
     "r0HgDQ": {
-        "en-US": "[Jack]\nWeeell?\nArent u hawt is mua impotant than eyes, like luking at it waumly?",
-        "pt-BR": "[Jakk]\nÉéé?\nO coração num é mais importante que os olhos? Tipo, olhar pra ele com carinho?",
-        "es-ES": "[Jakk]\n¿Bueeeno?\n¿No es más importante el corazón que los ojos, como mirarlo con cariño?"
+        "en-US": "[Jakk]\nWeeell?\nArent u hawt is mua impotant than eyes, like luking at it waumly?",
+        "pt-BR": "[Jakk]\nSei la?\nSer q o sentimenntu n e mais impotant q os olhos, olhando p ele de forma calorosa?",
+        "es-ES": "[Jakk]\n¿Deberda?\n¿No s que el sentimient es mas important que los ojos, mirandolo de forma cálida?"
     },
     "sEHgDQ": {
-        "en-US": "Jack : Hawt!!!",
-        "pt-BR": "Jakk: Coraçããão!!!",
-        "es-ES": "Jakk: ¡Corazón!!!"
+        "en-US": "Jakk : Hawt!!!",
+        "pt-BR": "Jakk : Sentimento!!!",
+        "es-ES": "Jakk : ¡Sentimiento!"
     },
     "sUHgDQ": {
-        "en-US": "Jack : Hawt!",
-        "pt-BR": "Jakk: Coraçããão!!!",
-        "es-ES": "Jakk: ¡Corazón!!!"
+        "en-US": "Jakk : Hawt!",
+        "pt-BR": "Jakk : Sentimento!",
+        "es-ES": "Jakk : ¡Sentimiento!"
     },
     "skHgDQ": {
-        "en-US": "[Sad-looking Jack]\nHmm...\nHeart...",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmm...\nCoração...",
+        "en-US": "[Sad-looking Jakk]\nHmm...\nHeart...",
+        "pt-BR": "[Jakk Triste]\nHmm...\nSentimento...",
         "es-ES": "[Jakk Triste]\nHmm...\nCorazón..."
     },
     "s0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!\nJust like Jack said, I'll look at Meow warmly with the eyes of my heart!",
-        "pt-BR": "[Jakk com Aparência Triste]\nLegal!\nAssim como o Jakk disse, vou olhar para o Miau calorosamente com os olhos do coração!",
-        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Tal como dijo Jakk, miraré a Miau calurosamente con los ojos de mi corazón!"
+        "en-US": "[Sad-looking Jakk]\nGreat!\nJust like Jakk said, I'll look at Kitty warmly with the eyes of my heart!",
+        "pt-BR": "[Jakk Triste]\nLegal!\nAssim como o Jakk disse, vou olhar para o Gatinho calorosamente com os olhos do coração!",
+        "es-ES": "[Jakk Triste]\n¡Genial!\n¡Tal como dijo Jakk, miraré a Gatito calurosamente con los ojos de mi corazón!"
     },
     "tEHgDQ": {
-        "en-US": "[Sad-looking Jack]\nThen Meow...\n<FONT SIZE = 14><B>^00B7EEEyes of the Heart Enlightened!!!!!^000000</B></FONT>\n<FONT SIZE = 14><B>^00B7EEBurning Gaze!!!!^000000</B></FONT>",
-        "pt-BR": "[Jakk com Aparência Triste]\nEntão, Miau...\n<FONT SIZE = 14><B>^00B7EEOlhos do Coração Despertos!!!!!^000000</B></FONT>\n<FONT SIZE = 14><B>^00B7EEOlhar Ardente!!!!^000000</B></FONT>",
-        "es-ES": "[Jakk Triste]\nEntonces, Miau...\n<FONT SIZE = 14><B>^00B7EE¡Ojos del Corazón Despiertos!!!!!^000000</B></FONT>\n<FONT SIZE = 14><B>^00B7EE¡Mirada Ardiente!!!!^000000</B></FONT>"
+        "en-US": "[Sad-looking Jakk]\nThen Kitty...\n<FONT SIZE = 14><B>^00B7EEEyes of the Heart Enlightened!!!!!^000000</B></FONT>\n<FONT SIZE = 14><B>^00B7EEBurning Gaze!!!!^000000</B></FONT>",
+        "pt-BR": "[Jakk Triste]\nEntão o Gatinho...\n<FONT SIZE = 14><B>^00B7EEOlhos do Coração Despertados!!!!!^000000</B></FONT>\n<FONT SIZE = 14><B>^00B7EEOlhar Ardente!!!!^000000</B></FONT>",
+        "es-ES": "[Jakk Triste]\nEntonces Gatito...\n<FONT SIZE = 14><B>^00B7EE¡¡¡¡¡Despertar de los Ojos del Corazón!!!!!^000000</B></FONT>\n<FONT SIZE = 14><B>^00B7EE¡¡Mirada Ardiente!!!!^000000</B></FONT>"
     },
     "tUHgDQ": {
-        "en-US": "[Meow??]\nMmooooooooh!!!!",
-        "pt-BR": "[Miau??]\nMuuuuhhhhhh!!!!",
-        "es-ES": "[Miau??]\n¡¡¡¡¡Muuuuhhhhhh!!!!!"
+        "en-US": "[Kitty??]\nMmooooooooh!!!!",
+        "pt-BR": "[Gatinho??]\nMuuuuhhhhhh!!!!",
+        "es-ES": "[Gatito??]\n¡¡¡¡¡Muuuuhhhhhh!!!!!"
     },
     "tkHgDQ": {
-        "en-US": "Meow?? : Mmooooooooooooooh!!!!!!",
-        "pt-BR": "Miau?? : Moooooooooooooooh!!!!!!",
-        "es-ES": "Miau?? : ¡¡¡¡¡¡¡¡¡Moooooooooooooooh!!!!!!!!!!"
+        "en-US": "Kitty?? : Mmooooooooooooooh!!!!!!",
+        "pt-BR": "Gatinho?? : Moooooooooooooooh!!!!!!",
+        "es-ES": "Gatito?? : ¡¡¡¡¡¡¡¡¡Moooooooooooooooh!!!!!!!!!!"
     },
     "t0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nWow!!!\nMeow really isn't running away and is staying still!!!\nYay!!!!\nThanks to Jack's help!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nUau!!!\nO Miau realmente não fugiu e está quietinho ali!!!\nOba!!!!\nGraças à ajuda do Jakk!!!",
-        "es-ES": "[Jakk Triste]\n¡¡¡Vaya!!!\n¡¡Miau realmente no huyó y se está quieto!!\n¡¡¡Genial!!!!\n¡¡Gracias a la ayuda de Jakk!!"
+        "en-US": "[Sad-looking Jakk]\nWow!!!\nKitty really isn't running away and is staying still!!!\nYay!!!!\nThanks to Jakk's help!!!",
+        "pt-BR": "[Jakk Triste]\nUau!!!\nO Gatinho realmente não fugiu e está quietinho ali!!!\nOba!!!!\nGraças à ajuda do Jakk!!!",
+        "es-ES": "[Jakk Triste]\n¡¡¡Vaya!!!\n¡¡Gatito realmente no huyó y se está quieto!!\n¡¡¡Genial!!!!\n¡¡Gracias a la ayuda de Jakk!!"
     },
     "uEHgDQ": {
-        "en-US": "- Meow?? seems simply startled. -",
-        "pt-BR": "- O Miau?? parece apenas assustado. -",
-        "es-ES": "- Miau?? parece simplemente asustado. -"
+        "en-US": "- Kitty?? seems simply startled. -",
+        "pt-BR": "- O Gatinho?? parece apenas assustado. -",
+        "es-ES": "- Gatito?? parece simplemente asustado. -"
     },
     "uUHgDQ": {
-        "en-US": "[Sad-looking Jack]\nGreat!!!\nI'll give a grateful gaze to Jack who helped!",
-        "pt-BR": "[Jakk com Aparência Triste]\nLegal!!!\nVou dar um olhar de gratidão ao Jakk que ajudou!",
+        "en-US": "[Sad-looking Jakk]\nGreat!!!\nI'll give a grateful gaze to Jakk who helped!",
+        "pt-BR": "[Jakk Triste]\nLegal!!!\nVou dar um olhar de gratidão ao Jakk que ajudou!",
         "es-ES": "[Jakk Triste]\n¡¡¡Genial!!!\n¡Le daré una mirada de agradecimiento a Jakk por ayudar!"
     },
     "ukHgDQ": {
-        "en-US": "[Sad-looking Jack]\nUm... Meow isn't moving for some reason, so shall we play a quiet rest game?!\nListen to my story again tomorrow!\nIt's a promise!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nHmm... O Miau não está se mexendo por algum motivo, então que tal brincarmos de descansar bem quietinhos?!\nAmanhã, ouça minha história de novo!\nÉ uma promessa!!!",
-        "es-ES": "[Jakk Triste]\nMmm... Miau no se mueve por alguna razón, así que ¿jugamos a descansar en silencio?!\n¡Mañana vuelve a escuchar mi historia!\n¡¡¡Es una promesa!!!"
+        "en-US": "[Sad-looking Jakk]\nUm... Kitty isn't moving for some reason, so shall we play a quiet rest game?!\nListen to my story again tomorrow!\nIt's a promise!!!",
+        "pt-BR": "[Jakk Triste]\nHum... O Gatinho não está se mexendo por algum motivo, então que tal brincarmos de descanso silencioso?!\nOuça minha história de novo amanhã!\nÉ uma promessa!!!",
+        "es-ES": "[Jakk Triste]\nUhm... ¡Como Gatito no se mueve por alguna razón, qué tal si jugamos a un juego de descanso tranquilo?!\n¡Escucha mi historia de nuevo mañana!\n¡Es una promesa!!!"
     },
     "u0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nJack!!\nLet's all play a fun rest game together!",
-        "pt-BR": "[Jakk com Aparência Triste]\nJakk!!\nVamos todos brincar de um divertido jogo de descanso!",
+        "en-US": "[Sad-looking Jakk]\nJakk!!\nLet's all play a fun rest game together!",
+        "pt-BR": "[Jakk Triste]\nJakk!!\nVamos todos brincar de um divertido jogo de descanso!",
         "es-ES": "[Jakk Triste]\n¡¡Jakk!!\n¡Juguemos todos a un divertido juego de descanso!"
     },
     "vEHgDQ": {
-        "en-US": "[Jack]\nYay!!!\nQuiet!!!",
+        "en-US": "[Jakk]\nYay!!!\nQuiet!!!",
         "pt-BR": "[Jakk]\nLegal!!!\nSilencioso!!!",
         "es-ES": "[Jakk]\n¡¡Genial!!!\n¡Silencioso!!!"
     },
     "vUHgDQ": {
-        "en-US": "Jack : Fun!!",
-        "pt-BR": "Jakk: Divertido!!",
-        "es-ES": "Jakk: ¡Divertido!"
+        "en-US": "Jakk : Fun!!",
+        "pt-BR": "Jakk : Divertido!!",
+        "es-ES": "Jakk : ¡Divertido!"
     },
     "vkHgDQ": {
-        "en-US": "Jack : Fun!",
-        "pt-BR": "Jakk: Divertido!!",
-        "es-ES": "Jakk: ¡Divertido!"
+        "en-US": "Jakk : Fun!",
+        "pt-BR": "Jakk : Divertido!",
+        "es-ES": "Jakk : ¡Divertido!"
     },
     "v0HgDQ": {
-        "en-US": "[Sad-looking Jack]\nToday is a rest game with Meow again!\nListen to my story again tomorrow!\nIt's a promise!!!",
-        "pt-BR": "[Jakk com Aparência Triste]\nHoje também é dia de brincar de descansar com o Miau!\nAmanhã, ouça minha história de novo!\nÉ uma promessa!!!",
-        "es-ES": "[Jakk Triste]\n¡Hoy también toca jugar a descansar con Miau!\n¡Mañana vuelve a escuchar mi historia!\n¡¡¡Es una promesa!!!"
+        "en-US": "[Sad-looking Jakk]\nToday is a rest game with Kitty again!\nListen to my story again tomorrow!\nIt's a promise!!!",
+        "pt-BR": "[Jakk Triste]\nHoje é um jogo de descanso com o Gatinho de novo!\nOuça minha história de novo amanhã!\nÉ uma promessa!!!",
+        "es-ES": "[Jakk Triste]\n¡Hoy es un juego de descanso con Gatito otra vez!\n¡Escucha mi historia de nuevo mañana!\n¡Es una promesa!!!"
     },
     "wEHgDQ": {
-        "en-US": "[Jack]\nHello Jack!!!\nIt's a happy Halloween!",
-        "pt-BR": "[Jakk]\nOlá, Jakk!!!\nÉ um feliz Dia das Bruxas!",
-        "es-ES": "[Jakk]\n¡Hola, Jakk!!!\n¡Es una feliz Noche de Brujas!"
+        "en-US": "[Jakk]\nHello Jakk!!!\nIt's a happy Halloween!",
+        "pt-BR": "[Jakk]\nOlá, Jakk!!!\nÉ um feliz Halloween!",
+        "es-ES": "[Jakk]\n¡¡¡Hola, Jakk!!!\n¡Es un feliz Halloween!"
     },
     "wUHgDQ": {
-        "en-US": "About Meow",
-        "pt-BR": "Sobre o Miau",
-        "es-ES": "Sobre Miau"
+        "en-US": "About Kitty",
+        "pt-BR": "Sobre o Gatinho",
+        "es-ES": "Sobre Gatito"
     },
     "wkHgDQ": {
-        "en-US": "[Jack]\nOur Meow, you see!\nIs suuuper cute!\nIt's fluffy and cute!",
-        "pt-BR": "[Jakk]\nO nosso Miau, olha!\nÉ suuuper fofinho!\nFofinho e peludo!",
-        "es-ES": "[Jakk]\n¡Nuestro Miau, sabes!\n¡Es suuuper tierno!\n¡Es esponjoso y tierno!"
+        "en-US": "[Jakk]\nOur Kitty, you see!\nIs suuuper cute!\nIt's fluffy and cute!",
+        "pt-BR": "[Jakk]\nO nosso Gatinho, olha!\nÉ suuuper fofinho!\nFofinho e peludo!",
+        "es-ES": "[Jakk]\n¡Nuestro Gatito, vers!\n¡Es suuuper tierno!\n¡Es esponjoso y tierno!"
     },
     "w0HgDQ": {
-        "en-US": "[Jack]\nAnd our Meow likes tasty fish, but likes Wiz even more!",
-        "pt-BR": "[Jakk]\nE o nosso Miau gosta de peixe gostoso, mas gosta ainda mais do Wiz!",
-        "es-ES": "[Jakk]\n¡Y a nuestro Miau le gusta el pescado rico, pero le gusta aún más Wiz!"
+        "en-US": "[Jakk]\nAnd our Kitty likes tasty fish, but likes Wiz even more!",
+        "pt-BR": "[Jakk]\nE o nosso Gatinho gosta de peixe saboroso, mas gosta ainda mais do Wiz!",
+        "es-ES": "[Jakk]\n¡Y a nuestro Gatito le gusta el pescado sabroso, pero le gusta aún más Wiz!"
     },
     "xEHgDQ": {
-        "en-US": "[Jack]\nOf course it likes me best, though!!!\nIt likes Wiz too!",
-        "pt-BR": "[Jakk]\nClaro que gosta mais de mim!!!\nMas também gosta do Wiz!",
+        "en-US": "[Jakk]\nOf course it likes me best, though!!!\nIt likes Wiz too!",
+        "pt-BR": "[Jakk]\nClaro que ele gosta mais de mim do que de todo mundo, mas!!!\nEle também gosta do Wiz!",
         "es-ES": "[Jakk]\n¡¡¡Por supuesto que le gusto más yo, pero...!!!\n¡También le gusta Wiz!"
     },
     "xUHgDQ": {
-        "en-US": "Jack : Of course it likes me best, though!!!",
-        "pt-BR": "Jakk : Claro que ele gosta mais de mim do que de todo mundo, mas...!!!",
+        "en-US": "Jakk : Of course it likes me best, though!!!",
+        "pt-BR": "Jakk : Claro que ele gosta mais de mim do que de todo mundo, mas!!!",
         "es-ES": "Jakk : ¡¡¡Por supuesto que le gusto más yo, pero...!!!"
     },
     "xkHgDQ": {
-        "en-US": "[Jack]\nOur Meow followed Wiz earlier, so go see Wiz!\n^FF0000Wiz should be just a little to the left^000000.",
-        "pt-BR": "[Jakk]\nNosso Miau seguiu o Wiz agorinha pouco, então vá atrás do Wiz!\n^FF0000O Wiz deve estar um pouquinho à esquerda^000000.",
-        "es-ES": "[Jakk]\n¡Nuestro Miau siguió a Wiz hace un momento, así que ve con Wiz!\n^FF0000Wiz debería estar un poquito a la izquierda^000000."
+        "en-US": "[Jakk]\nOur Kitty followed Wiz earlier, so go see Wiz!\n^FF0000Wiz should be just a little to the left^000000.",
+        "pt-BR": "[Jakk]\nNosso Gatinho seguiu o Wiz agorinha pouco, então vá atrás do Wiz!\n^FF0000O Wiz deve estar um pouquinho à esquerda^000000.",
+        "es-ES": "[Jakk]\n¡Nuestro Gatito siguió a Wiz hace un momento, así que ve con Wiz!\n^FF0000Wiz debería estar un poquito a la izquierda^000000."
     },
     "x0HgDQ": {
-        "en-US": "[Jack]\nYou're back, Jack!\nDid you meet Meow?",
-        "pt-BR": "[Jakk]\nVocê voltou, Jakk!\nEncontrou o Miau?",
-        "es-ES": "[Jakk]\n¡Volviste, Jakk!\n¿Viste a Miau?"
+        "en-US": "[Jakk]\nYou're back, Jakk!\nDid you meet Kitty?",
+        "pt-BR": "[Jakk]\nVocê voltou, Jakk!\nEncontrou o Gatinho?",
+        "es-ES": "[Jakk]\n¡Regresaste, Jakk!\n¿Conociste a Gatito?"
     },
     "yEHgDQ": {
-        "en-US": "[Jack]\nHuh?\nWhat is this?\nA bone piece?\nWiz told you to deliver it?",
+        "en-US": "[Jakk]\nHuh?\nWhat is this?\nA bone piece?\nWiz told you to deliver it?",
         "pt-BR": "[Jakk]\nHã?\nO que é isso?\nUm Pedaço de Osso?\nO Wiz mandou você entregar?",
         "es-ES": "[Jakk]\n¿Eh?\n¿Qué es esto?\n¿Un Trozo de Hueso?\n¿Wiz te dijo que lo entregaras?"
     },
     "yUHgDQ": {
-        "en-US": "[Jack]\nAh!\nMeow!\nReally, our Meow appeared?!",
-        "pt-BR": "[Jakk]\nAh!\nMiau!\nSério, o nosso Miau apareceu de verdade?!",
-        "es-ES": "[Jakk]\n¡Ah!\n¡Miau!\n¡De verdad, nuestro Miau apareció!"
+        "en-US": "[Jakk]\nAh!\nKitty!\nReally, our Kitty appeared?!",
+        "pt-BR": "[Jakk]\nAh!\nGatinho!\nSério, o nosso Gatinho apareceu de verdade?!",
+        "es-ES": "[Jakk]\n¡Ah!\n¡Gatito!\n¡De verdad, nuestro Gatito apareció!"
     },
     "ykHgDQ": {
-        "en-US": "Meow? : Woof-woof!",
-        "pt-BR": "Meow?: Au-au!",
-        "es-ES": "¿Miau?: ¡Guau-guau!"
+        "en-US": "Kitty? : Woof-woof!",
+        "pt-BR": "Gatinho? : Au-au!",
+        "es-ES": "Gatito? : ¡Guau-guau!"
     },
     "y0HgDQ": {
-        "en-US": "[Jack]\nJack is truly amazing!",
+        "en-US": "[Jakk]\nJakk is truly amazing!",
         "pt-BR": "[Jakk]\nO Jakk é incrível de verdade!",
         "es-ES": "[Jakk]\n¡Jakk es realmente increíble!"
     },
     "zEHgDQ": {
-        "en-US": "[Jack]\nThen pass this on to Jack.\nMeow likes tasty fish, but likes Wiz even more.\nAnd it likes bone pieces even more!",
-        "pt-BR": "[Jakk]\nEntão passe isso para o Jakk.\nO Miau gosta de peixe saboroso, mas gosta ainda mais do Wiz.\nE ele gosta ainda mais de Pedaços de Osso!",
-        "es-ES": "[Jakk]\nEntonces pásale esto a Jakk.\nA Miau le gusta el pescado sabroso, pero le gusta aún más Wiz.\n¡Y le gustan aún más los trozos de hueso!"
+        "en-US": "[Jakk]\nThen pass this on to Jakk.\nKitty likes tasty fish, but likes Wiz even more.\nAnd it likes bone pieces even more!",
+        "pt-BR": "[Jakk]\nEntão passe isso para o Jakk.\nO Gatinho gosta de peixe saboroso, mas gosta ainda mais do Wiz.\nE ele gosta ainda mais de Pedaços de Osso!",
+        "es-ES": "[Jakk]\nEntonces pásale esto a Jakk.\nA Gatito le gusta el pescado sabroso, pero le gusta aún más Wiz.\n¡Y le gustan aún más los trozos de hueso!"
     },
     "zUHgDQ": {
-        "en-US": "[Jack]\nOf course it likes me best, though!!!",
-        "pt-BR": "[Jakk]\nClaro que ele gosta mais de mim do que de todo mundo, mas...!!!",
+        "en-US": "[Jakk]\nOf course it likes me best, though!!!",
+        "pt-BR": "[Jakk]\nClaro que ele gosta mais de mim do que de todo mundo, mas!!!",
         "es-ES": "[Jakk]\n¡¡¡Por supuesto que le gusto más yo, pero...!!!"
     },
     "zkHgDQ": {
-        "en-US": "[Jack]\nDid you listen to Wiz's story properly?",
-        "pt-BR": "[Jakk]\nVocê ouviu direito a história do Wiz?",
+        "en-US": "[Jakk]\nDid you listen to Wiz's story properly?",
+        "pt-BR": "[Jakk]\nVocê ouviu a história do Wiz direito?",
         "es-ES": "[Jakk]\n¿Escuchaste bien la historia de Wiz?"
     },
     "z0HgDQ": {
-        "en-US": "[Jack]\nMeow!\nSay meow!!!",
-        "pt-BR": "[Jakk]\nMiau!\nDiz miau!!!",
-        "es-ES": "[Jakk]\n¡Miau!\n¡Di miau!!!"
+        "en-US": "[Jakk]\nKitty!\nSay Kitty!!!",
+        "pt-BR": "[Jakk]\nGatinho!\nDiz Gatinho!!!",
+        "es-ES": "[Jakk]\n¡Gatito!\n¡Di Gatinho!!!"
     },
     "0EHgDQ": {
-        "en-US": "Meow?",
-        "pt-BR": "Miau?",
-        "es-ES": "¿Miau?"
+        "en-US": "Kitty?",
+        "pt-BR": "Gatinho?",
+        "es-ES": "Gatito?"
     },
     "0UHgDQ": {
         "en-US": "Wiz",
@@ -3616,13 +3616,13 @@
     },
     "00HgDQ": {
         "en-US": "[Wiz]\nWhat is your business?\nLiving being.",
-        "pt-BR": "[Wiz]\nO que você quer?\nSer vivente.",
-        "es-ES": "[Wiz]\n¿Qué se te ofrece?\nSer viviente."
+        "pt-BR": "[Wiz]\nQual é o seu negócio?\nSer vivo.",
+        "es-ES": "[Wiz]\n¿Qué se te ofrece?\nSer vivo."
     },
     "1EHgDQ": {
-        "en-US": "[Wiz]\nMeow? Exactly what kind of meow are you talking about?",
-        "pt-BR": "[Wiz]\nMiau? Que tipo de miau você está dizendo, afinal?",
-        "es-ES": "[Wiz]\n¿Miau? ¿Exactamente de qué miau estás hablando?"
+        "en-US": "[Wiz]\nKitty? Exactly what kind of Kitty are you talking about?",
+        "pt-BR": "[Wiz]\nGatinho? Que tipo de Gatinho você está dizendo, afinal?",
+        "es-ES": "[Wiz]\n¿Gatito? ¿Exactamente de qué Gatito estás hablando?"
     },
     "1UHgDQ": {
         "en-US": "Explain.",
@@ -3635,9 +3635,9 @@
         "es-ES": "[Wiz]\nSi te refieres a esa criatura ruidosa y blanca, acaba de morder mi hueso y huyó."
     },
     "10HgDQ": {
-        "en-US": "[Wiz]\nIf you bring a bone to replace the bone that fellow bit and ran away with, I'll tell you how to find that creature called Meow.",
-        "pt-BR": "[Wiz]\nSe você trouxer um osso para substituir aquele que a criatura mordeu e levou embora, direi como encontrar o chamado Miau.",
-        "es-ES": "[Wiz]\nSi traes un hueso para reemplazar el que esa criatura mordió y se llevó, te diré cómo encontrar al ser llamado Miau."
+        "en-US": "[Wiz]\nIf you bring a bone to replace the bone that fellow bit and ran away with, I'll tell you how to find that creature called Kitty.",
+        "pt-BR": "[Wiz]\nSe você trouxer um osso para substituir o osso que aquele sujeito mordeu e levou embora, eu te direi como encontrar essa criatura chamada Gatinho.",
+        "es-ES": "[Wiz]\nSi traes un hueso para reemplazar el hueso que ese sujeto mordió y se llevó, te diré cómo encontrar a esa criatura llamada Gatito."
     },
     "2EHgDQ": {
         "en-US": "Accept.",
@@ -3646,8 +3646,8 @@
     },
     "2UHgDQ": {
         "en-US": "Quit.",
-        "pt-BR": "Sair.",
-        "es-ES": "Salir."
+        "pt-BR": "Parar.",
+        "es-ES": "Detenerse."
     },
     "2kHgDQ": {
         "en-US": "[Wiz]\nHeheheheheh\nYou accepted!!!",
@@ -3670,14 +3670,14 @@
         "es-ES": "[Wiz]\n¡Jajajajajajaja!\n¡¡¡Espléndido!!!\n¡Espléndido!\n¡¡Esto es!!\n¡¡Este trozo de hueso duro y blanco como la nieve!!"
     },
     "3kHgDQ": {
-        "en-US": "[Wiz]\nThen as promised, I'll tell you how to find Meow.",
-        "pt-BR": "[Wiz]\nEntão, como prometido, vou te dizer como encontrar o Miau.",
-        "es-ES": "[Wiz]\nEntonces, como prometí, te diré cómo encontrar a Miau."
+        "en-US": "[Wiz]\nThen as promised, I'll tell you how to find Kitty.",
+        "pt-BR": "[Wiz]\nEntão, como prometido, vou te dizer como encontrar o Gatinho.",
+        "es-ES": "[Wiz]\nEntonces, como prometí, te diré cómo encontrar a Gatito."
     },
     "30HgDQ": {
-        "en-US": "[Wiz]\nTake the remaining ^FF0000Bone Piece to Meow's master^000000.\nBecause Meow will appear from somewhere like the wind...\nHeheheheheh",
-        "pt-BR": "[Wiz]\nLeve o ^FF0000Pedaço de Osso^000000 que sobrou para o ^FF0000dono do Miau^000000.\nPorque o Miau vai aparecer de algum lugar como o vento...\nHeheheheheh",
-        "es-ES": "[Wiz]\nLleva el ^FF0000Trozo de Hueso^000000 restante al ^FF0000dueño de Miau^000000.\nPorque Miau aparecerá de algún lugar como el viento...\nJejejejeje"
+        "en-US": "[Wiz]\nTake the remaining ^FF0000Bone Piece to Kitty's master^000000.\nBecause Kitty will appear from somewhere like the wind...\nHeheheheheh",
+        "pt-BR": "[Wiz]\nLeve o ^FF0000Pedaço de Osso^000000 que sobrou para o ^FF0000dono do Gatinho^000000.\nPorque o Gatinho vai aparecer de algum lugar como o vento...\nHeheheheheh",
+        "es-ES": "[Wiz]\nLleva el ^FF0000Trozo de Hueso^000000 restante al ^FF0000dueño de Gatito^000000.\nPorque Gatito aparecerá de algún lugar como el viento...\nJejejejeje"
     },
     "4EHgDQ": {
         "en-US": "[Wiz]\nWell then, now bring me ^FF00002 Bone Pieces^000000 as per our contract.",

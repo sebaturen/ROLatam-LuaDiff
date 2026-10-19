@@ -165,9 +165,9 @@
         "es-ES": "[Nyao]\nComo robé y gasté un montón de gemas elementales de Katerinne, aquí no hay ninguna. Si me traes gemas elementales, contaré eso como que pagaste la matrícula."
     },
     "wTAnAw": {
-        "en-US": "^FF0000Crystal Blue x10^000000\n^FF0000Green Live x10^000000\n^FF0000Red Blood x10^000000\n^FF0000Wind of Budeer x10^000000",
-        "pt-BR": "^FF0000Crystal Blue x10^000000\n^FF0000Green Live x10^000000\n^FF0000Red Blood x10^000000\n^FF0000Wind of Budeer x10^000000",
-        "es-ES": "^FF0000Crystal Blue x10^000000\n^FF0000Green Live x10^000000\n^FF0000Red Blood x10^000000\n^FF0000Wind of Budeer x10^000000"
+        "en-US": "^FF000010x Crystal Blue^000000\n^FF000010x Green Live^000000\n^FF000010x Red Blood^000000\n^FF000010x Wind of Verdure^000000",
+        "pt-BR": "^FF000010x Cristal Azul^000000\n^FF000010x Vida Verdejante^000000\n^FF000010x Sangue Escarlate^000000\n^FF000010x Frescor do Vento^000000",
+        "es-ES": "^FF000010x Cristal Azul^000000\n^FF000010x Vida Verde^000000\n^FF000010x Sangre Roja^000000\n^FF000010x Viento de Verdor^000000"
     },
     "wjAnAw": {
         "en-US": "[Nyao]\nGet them like this. It’s not too hard, right? Do your best. I’ll be taking a nap... Haaam.",
@@ -315,9 +315,9 @@
         "es-ES": "[Simeon] \nHm... supongo que esa rama es débil antes de que el enemigo se acerque, así que en una crisis apartarlo sería lo más efectivo. ¡Bien! Te lo enseñaré."
     },
     "3zAnAw": {
-        "en-US": "[Simeon] \nThere’s a clear difference between \nstriking\n and \npushing.\n Striking is when you hit a target with speed, subduing the enemy with the destructive power of that moment.",
-        "pt-BR": "[Simeon] \nHá uma diferença clara entre \ngolpear\n e \nempurrar\n. Golpear é atingir um alvo com velocidade e dominar o inimigo com o poder destrutivo do instante.",
-        "es-ES": "[Simeon] \nHay una diferencia clara entre \ngolpear\n y \nempujar\n. Golpear consiste en atacar al objeto con velocidad y dominar al enemigo con la fuerza destructiva de ese instante."
+        "en-US": "[Simeon] \nThere’s a clear difference between striking and pushing. Striking is when you hit a target with speed, subduing the enemy with the destructive power of that moment.",
+        "pt-BR": "[Simeon] \nHá uma diferença clara entre golpear e empurrar. Golpear é atingir um alvo com velocidade e dominar o inimigo com o poder destrutivo do instante.",
+        "es-ES": "[Simeon] \nHay una diferencia clara entre golpear y empujar. Golpear consiste en atacar al objeto con velocidad y dominar al enemigo con la fuerza destructiva de ese instante."
     },
     "4DAnAw": {
         "en-US": "[Simeon] \nAfter striking, the basic idea is to quickly return to your original stance and prepare for the next attack—or your next defense.",

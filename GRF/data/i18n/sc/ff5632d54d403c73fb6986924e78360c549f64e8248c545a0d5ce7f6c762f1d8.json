@@ -1,0 +1,47 @@
+{
+    "4Dz9DQ": {
+        "en-US": "Healer",
+        "pt-BR": "Terapeuta",
+        "es-ES": "Terapeuta"
+    },
+    "4Tz9DQ": {
+        "en-US": "[Healer]\nMy treatments are only available from base level 200.",
+        "pt-BR": "[Terapeuta]\nMeus tratamentos só estão disponíveis a partir do nível de base 200.",
+        "es-ES": "[Terapeuta]\nMis tratamientos solo están disponibles a partir del nivel de base 200."
+    },
+    "4jz9DQ": {
+        "en-US": "[Healer]\nFor those who cannot enter the Airship Crash Site because of the side effects, I perform therapeutic treatments so that you can enter the instance again.\nThe treatment cost is 10 Nyangvine Fruit.",
+        "pt-BR": "[Terapeuta]\nPara aqueles que não conseguem entrar na Queda do Aeroplano por causa dos efeitos colaterais, eu realizo tratamentos terapêuticos para que você possa entrar na instância novamente.\nO custo do tratamento é de 10 MiauMiau.",
+        "es-ES": "[Terapeuta]\nPara aquellos que no pueden entrar a la Caída del Aeroplano por causa de los efectos secundarios, yo realizo tratamientos terapéuticos para que puedas entrar a la instancia nuevamente.\nEl costo del tratamiento es de 10 MiauFruto."
+    },
+    "4zz9DQ": {
+        "en-US": "Get treatment",
+        "pt-BR": "Fazer o tratamento",
+        "es-ES": "Hacer el tratamiento"
+    },
+    "5Dz9DQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "5Tz9DQ": {
+        "en-US": "[Healer]\nIt seems you don't need my treatment.",
+        "pt-BR": "[Terapeuta]\nParece que você não precisa do meu tratamento.",
+        "es-ES": "[Terapeuta]\nParece que no necesitas mi tratamiento."
+    },
+    "5jz9DQ": {
+        "en-US": "[Healer]\nYou don't have enough Nyangvine Fruit.\nYou need 10 Nyangvine Fruit.",
+        "pt-BR": "[Terapeuta]\nVocê não tem MiauMiau suficientes.\nVocê precisa de 10 MiauMiau.",
+        "es-ES": "[Terapeuta]\nNo tienes suficientes MiauFruto.\nNecesitas 10 MiauFruto."
+    },
+    "5zz9DQ": {
+        "en-US": "[Healer]\nI treated the side effects of the magic power. Now you can enter the instance again!",
+        "pt-BR": "[Terapeuta]\nTratei os efeitos colaterais do poder mágico. Agora você pode entrar na instância novamente!",
+        "es-ES": "[Terapeuta]\nTraté los efectos secundarios del poder mágico. ¡Ahora puedes entrar a la instancia nuevamente!"
+    },
+    "6Dz9DQ": {
+        "en-US": "[Healer]\nCome back whenever you want.",
+        "pt-BR": "[Terapeuta]\nVolte quando quiser.",
+        "es-ES": "[Terapeuta]\nVuelve cuando quieras."
+    }
+}

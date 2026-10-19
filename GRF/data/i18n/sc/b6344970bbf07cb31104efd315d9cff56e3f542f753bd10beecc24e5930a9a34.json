@@ -1,0 +1,182 @@
+{
+    "gC0XDg": {
+        "en-US": "Boss Points 3,000",
+        "pt-BR": "Pontos de Chefe: 3 mil",
+        "es-ES": "Puntos del Jefe: 3 mil"
+    },
+    "gS0XDg": {
+        "en-US": "Hunting Quest",
+        "pt-BR": "Missão de Caça",
+        "es-ES": "Misión de cacería"
+    },
+    "gi0XDg": {
+        "en-US": "Ice Castle Reputation 0 - 3000",
+        "pt-BR": "Reputação do Castelo de Gelo 0 - 3000",
+        "es-ES": "Reputación del Castillo de Hielo 0 - 3000"
+    },
+    "gy0XDg": {
+        "en-US": "220720 - Bomb Fix\n220704 - Reward-type Monster Added",
+        "pt-BR": "220720 - Ajuste da bomba\n220704 - Adição de monstro de recompensa",
+        "es-ES": "220720 - Modificación de bombas\n220704 - Se agregaron monstruos de recompensa"
+    },
+    "hC0XDg": {
+        "en-US": "Broadcast",
+        "pt-BR": "Transmissão",
+        "es-ES": "Transmisión"
+    },
+    "hS0XDg": {
+        "en-US": "Reset",
+        "pt-BR": "Reiniciar",
+        "es-ES": "Reiniciar"
+    },
+    "hi0XDg": {
+        "en-US": "Boss Reset",
+        "pt-BR": "Reiniciar chefe",
+        "es-ES": "Reiniciar jefe"
+    },
+    "hy0XDg": {
+        "en-US": "Change Difficulty",
+        "pt-BR": "Alterar dificuldade",
+        "es-ES": "Cambiar dificultad"
+    },
+    "iC0XDg": {
+        "en-US": "No Healing",
+        "pt-BR": "Proibir cura",
+        "es-ES": "Prohibir curación"
+    },
+    "iS0XDg": {
+        "en-US": "^FF0000Admin Only^000000",
+        "pt-BR": "^FF0000Para administradores^000000",
+        "es-ES": "^FF0000Solo para administradores^000000"
+    },
+    "ii0XDg": {
+        "en-US": "Economy",
+        "pt-BR": "Econômica",
+        "es-ES": "Económica"
+    },
+    "iy0XDg": {
+        "en-US": "Business",
+        "pt-BR": "Executiva",
+        "es-ES": "Ejecutiva"
+    },
+    "jC0XDg": {
+        "en-US": "First Class",
+        "pt-BR": "Primeira Classe",
+        "es-ES": "Primera clase"
+    },
+    "jS0XDg": {
+        "en-US": "Press this switch when the core switches to ranged mode and becomes uncontrollable.",
+        "pt-BR": "Quando o núcleo mudar para o modo de longo alcance e ficar fora de controle, pressione aqui.",
+        "es-ES": "Cuando el núcleo cambie al modo de largo alcance y quede fuera de control, presione aquí."
+    },
+    "ji0XDg": {
+        "en-US": "#g_{0}",
+        "pt-BR": "#g_{0}",
+        "es-ES": "#g_{0}"
+    },
+    "jy0XDg": {
+        "en-US": "#g_{0}",
+        "pt-BR": "#g_{0}",
+        "es-ES": "#g_{0}"
+    },
+    "kC0XDg": {
+        "en-US": "#g_{0}",
+        "pt-BR": "#g_{0}",
+        "es-ES": "#g_{0}"
+    },
+    "kS0XDg": {
+        "en-US": "#y_{0}",
+        "pt-BR": "#y_{0}",
+        "es-ES": "#y_{0}"
+    },
+    "ki0XDg": {
+        "en-US": "Aquila",
+        "pt-BR": "Aquila",
+        "es-ES": "Aquila"
+    },
+    "ky0XDg": {
+        "en-US": "[Aquila]\nYou are an entity without access authorization. Please leave.",
+        "pt-BR": "[Aquila]\nVocê é uma entidade sem autorização de acesso. Volte.",
+        "es-ES": "[Aquila]\nEs una entidad sin autorización de acceso. Retírese."
+    },
+    "lC0XDg": {
+        "en-US": "[Aquila]\nIt is not too late. If you stop the destruction and leave now, I will take no further action either.",
+        "pt-BR": "[Aquila]\nAinda não é tarde demais. Se parar a destruição e voltar, eu também não tomarei nenhuma outra medida.",
+        "es-ES": "[Aquila]\nAún no es demasiado tarde. Si detiene la destrucción y se retira, yo tampoco tomaré medidas adicionales."
+    },
+    "lS0XDg": {
+        "en-US": "I'll just leave.",
+        "pt-BR": "Vou simplesmente voltar",
+        "es-ES": "Me retiraré."
+    },
+    "li0XDg": {
+        "en-US": "I can't do that.",
+        "pt-BR": "Não posso fazer isso.",
+        "es-ES": "No puedo hacer eso."
+    },
+    "ly0XDg": {
+        "en-US": "[Aquila]\nYou made the right choice.",
+        "pt-BR": "[Aquila]\nFez uma boa escolha.",
+        "es-ES": "[Aquila]\nHa tomado una buena decisión."
+    },
+    "mC0XDg": {
+        "en-US": "Suspicious Storage Stone",
+        "pt-BR": "Pedra de armazenamento suspeita",
+        "es-ES": "Piedra de almacenamiento sospechosa"
+    },
+    "mS0XDg": {
+        "en-US": "Highly Suspicious Storage Stone",
+        "pt-BR": "Pedra de armazenamento muito suspeita",
+        "es-ES": "Piedra de almacenamiento muy sospechosa"
+    },
+    "mi0XDg": {
+        "en-US": "stat {0} {1} {2} {3}",
+        "pt-BR": "stat {0} {1} {2} {3}",
+        "es-ES": "stat {0} {1} {2} {3}"
+    },
+    "my0XDg": {
+        "en-US": "Green Aether charging complete. Until fully stabilized, the core's Def will be disabled for 5 seconds. Handle the core with caution.",
+        "pt-BR": "Recarga de éter verde concluída. Até que esteja completamente estabilizado, a DEF do núcleo desaparecerá por 5 segundos. Tenha cuidado ao manusear o núcleo.",
+        "es-ES": "Carga de éter verde completada. Durante 5 segundos, hasta que se estabilice por completo, la DEF del núcleo desaparecerá. Tenga cuidado al manipular el núcleo."
+    },
+    "nC0XDg": {
+        "en-US": "Green Aether is insufficient due to prolonged operation. Defense Mode will be activated until Aether is supplied.",
+        "pt-BR": "O éter verde está insuficiente devido ao funcionamento prolongado. Entrando no modo de defesa até que o éter seja fornecido.",
+        "es-ES": "El éter verde es insuficiente debido al funcionamiento prolongado. Se activará el modo de defensa hasta que se suministre éter."
+    },
+    "nS0XDg": {
+        "en-US": "Yellow Aether has been supplied to the core normally, clearing the overload state.",
+        "pt-BR": "O éter amarelo foi fornecido normalmente ao núcleo, removendo o estado de sobrecarga.",
+        "es-ES": "El éter amarillo se suministra correctamente al núcleo y se desactiva el estado de sobrecarga."
+    },
+    "ni0XDg": {
+        "en-US": "The core's Yellow Aether has been depleted due to prolonged operation. Recharge it immediately. The core will switch to Overload Mode due to Aether depletion.",
+        "pt-BR": "O éter amarelo do núcleo se esgotou devido ao funcionamento prolongado. Recarregue-o imediatamente. Devido ao esgotamento do éter, o núcleo entrará no modo de sobrecarga.",
+        "es-ES": "El éter amarillo del núcleo se agotó debido al funcionamiento prolongado. Recárguelo de inmediato. Debido al agotamiento del éter, el núcleo cambiará al modo de sobrecarga."
+    },
+    "ny0XDg": {
+        "en-US": "Automatic protection process activated. Brace for impact.",
+        "pt-BR": "Processo de proteção automática ativado. Prepare-se para o impacto.",
+        "es-ES": "Proceso de protección automática activado. Prepárese para el impacto."
+    },
+    "oC0XDg": {
+        "en-US": "{0} seconds until the next Max Pain",
+        "pt-BR": "Até a próxima Dor Máxima: {0} segundos",
+        "es-ES": "Faltan {0} segundos para la próxima Dolor Máxima"
+    },
+    "oS0XDg": {
+        "en-US": "HP {0}10K/{1}10K .heal - {2}10K, hp_point - {3}% additional heal {4}",
+        "pt-BR": "HP {0} 10 mil/{1} 10 mil .heal - {2} 10 mil, hp_point - {3}% cura adicional {4}",
+        "es-ES": "HP {0}10 mil/{1}10 mil .heal - {2}10 mil, hp_point - {3}% curación adicional {4}"
+    },
+    "oi0XDg": {
+        "en-US": "Ranged Mode",
+        "pt-BR": "Modo de longo alcance",
+        "es-ES": "Modo de largo alcance"
+    },
+    "oy0XDg": {
+        "en-US": "Melee Mode",
+        "pt-BR": "Modo de curto alcance",
+        "es-ES": "Modo de corto alcance"
+    }
+}

@@ -36,18 +36,18 @@
     },
     "pwjgCA": {
         "en-US": "Friday Memorial Dungeon",
-        "pt-BR": "Friday",
-        "es-ES": "Mazmorra del Viernes"
+        "pt-BR": "Instância do Túmulo do Monarca",
+        "es-ES": "Mazmorra Torre de Geffen"
     },
     "qAjgCA": {
         "en-US": "Create Friday Dungeon",
         "pt-BR": "Gerar instância",
-        "es-ES": "Crear la Mazmorra del Viernes"
+        "es-ES": "Crear la Mazmorra"
     },
     "qQjgCA": {
         "en-US": "Enter Friday Dungeon",
         "pt-BR": "Entrar na instância",
-        "es-ES": "Entrar la Mazmorra del Viernes"
+        "es-ES": "Entrar en la Mazmorra"
     },
     "qgjgCA": {
         "en-US": "Party Name: {0}\nParty Leader: {1}\n^0000FF{2} ^000000 - Reservation Failed",
@@ -87,7 +87,7 @@
     "sQjgCA": {
         "en-US": "{0}'s party member {1} is entering {2}.",
         "pt-BR": "{1}, do grupo {0}, entrou no Túmulo do Monarca.",
-        "es-ES": "El miembro del grupo de {0}, {1}, está entrando en Mazmorra del Viernes."
+        "es-ES": "El miembro del grupo de {0}, {1}, está entrando en Mazmorra Torre de Geffen."
     },
     "sgjgCA": {
         "en-US": "Mariage",
@@ -112,7 +112,7 @@
     "tgjgCA": {
         "en-US": "^0000FF The aftereffects of entering the Friday Memorial Dungeon have disappeared. ^000000",
         "pt-BR": "^0000FFO tempo de espera para visitar o Túmulo do Monarca sumiu^000000",
-        "es-ES": "^0000FFEl tiempo de reutilización para visitar la Mazmorra del Viernes ha desaparecido.^000000"
+        "es-ES": "^0000FFEl tiempo de reutilización para visitar la Mazmorra Torre de Geffen ha desaparecido.^000000"
     },
     "twjgCA": {
         "en-US": "[Mariage]\nI'm Mariage, in charge of the daily dungeons. \nWe're old friends, right?",
@@ -122,7 +122,7 @@
     "uAjgCA": {
         "en-US": "[Mariage]\nThis is Geffen Tower, the entrance to the Friday dungeon. \nAs the name suggests, it's only open on Fridays.",
         "pt-BR": "[Mariaju]\nA partir da Torre de Geffen, posso abrir uma passagem secreta para o Túmulo do Monarca.",
-        "es-ES": "[Mariage]\nEsta es la Torre Geffen, la entrada a la Mazmorra del Viernes. \nComo su nombre indica, solo abre los viernes."
+        "es-ES": "[Mariage]\nEsta es la Torre de Geffen, la entrada a la Mazmorra. \nSolo abre los viernes."
     },
     "uQjgCA": {
         "en-US": "[Mariage]\nThey say you can find Rough Stones here, which can be used to enchant almost any accessory.",

@@ -24010,7 +24010,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Claw",
+		identifiedDisplayName = "Iron Nail",
 		identifiedResourceName = "아이언네일",
 		identifiedDescriptionName = {
 			"Claws imbued with the energies of ancient times. No material is known that hasn't yielded to their blades.",
@@ -24166,7 +24166,7 @@ tbl = {
 			"Refine +11 or higher:",
 			"^0000FFDamage of [Chain Crush Combo] +30% additional.^000000",
 			"--------------------------",
-			"Type: ^777777Fist^000000",
+			"Type: ^777777Knuckle^000000",
 			"ATK: ^777777210^000000 MATK: ^7777770^000000",
 			"Weight: ^77777770^000000",
 			"Weapon level: ^7777774^000000",
@@ -24197,7 +24197,7 @@ tbl = {
 			"Refine +11 or higher:",
 			"^0000FFAfter-skill delay -7%.^000000",
 			"--------------------------",
-			"Type: ^777777Fist^000000",
+			"Type: ^777777Knuckle^000000",
 			"ATK: ^777777220^000000 MATK: ^7777770^000000",
 			"Weight: ^77777780^000000",
 			"Weapon level: ^7777774^000000",
@@ -27215,7 +27215,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Sceptre",
+		identifiedDisplayName = "Iron Staff",
 		identifiedResourceName = "아이온스태프",
 		identifiedDescriptionName = {
 			"Guarded for centuries by the most prestigious wizards in Geffen, this scepter holds priceless powers for those who know how to manipulate mana to their advantage.",
@@ -108288,11 +108288,11 @@ tbl = {
 			"-------------------------",
 			"When intimacy is Cordial:",
 			"^0000FFVIT +3, Max HP +3%.^000000",
-			"^0000FFWhen receiving physical damage, 2% chance to autocast [Kyrie Eleison] Lv.2 or the highest level learned.",
+			"^0000FFWhen receiving physical damage, 2% chance to autocast [Kyrie Eleison] Lv.2 or the highest level learned.^000000",
 			"-------------------------",
 			"When intimacy is Loyal:",
 			"^0000FFVIT +4, Max HP +5%.^000000",
-			"^0000FFWhen receiving physical damage, 2% chance to autocast [Kyrie Eleison] Lv.2 or the highest level learned.",
+			"^0000FFWhen receiving physical damage, 2% chance to autocast [Kyrie Eleison] Lv.2 or the highest level learned.^000000",
 			"-------------------------",
 			"Type: ^777777Pet Egg^000000",
 			"Food: ^777777Pet Food^000000"
@@ -132614,7 +132614,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified, can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Huuma Ancestral Shuriken",
+		identifiedDisplayName = "Huuma Shuriken Clear",
 		identifiedResourceName = "미라쥬풍마수리검",
 		identifiedDescriptionName = {
 			"A ninja weapon whose blades cut through the wind with the violence of a turbine. Although this model of shuriken dates back centuries, its use to this day confirms its efficiency.",
@@ -137178,10 +137178,10 @@ tbl = {
 		unidentifiedDisplayName = "Green Wing Box (10)",
 		unidentifiedResourceName = "햇빛의상자",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
+			"^FF0000Account Bound.^000000",
 			"Box containing 10 units of Green Butterfly Wing.",
 			"--------------------------",
-			"[^CD3278EGreen Butterfly Wing]",
+			"^CD3278[Green Butterfly Wing]^000000",
 			"Teleports to Juno, Lighthalzen, Einbroch and Hugel.",
 			"--------------------------",
 			"Weight: ^7777771^000000"
@@ -137189,10 +137189,10 @@ tbl = {
 		identifiedDisplayName = "Green Wing Box (10)",
 		identifiedResourceName = "햇빛의상자",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
+			"^FF0000Account Bound.^000000",
 			"Box containing 10 units of Green Butterfly Wing.",
 			"--------------------------",
-			"[^CD3278EGreen Butterfly Wing]",
+			"^CD3278[Green Butterfly Wing]^000000",
 			"Teleports to Juno, Lighthalzen, Einbroch and Hugel.",
 			"--------------------------",
 			"Weight: ^7777771^000000"
@@ -137205,10 +137205,10 @@ tbl = {
 		unidentifiedDisplayName = "Red Wing Box (10)",
 		unidentifiedResourceName = "햇빛의상자",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
+			"^FF0000Account Bound.^000000",
 			"Box containing 10 units of Red Butterfly Wing.",
 			"--------------------------",
-			"[^CD3278ERed Butterfly Wing]",
+			"^CD3278[Red Butterfly Wing]^000000",
 			"Teleports to Veins and Rachel.",
 			"--------------------------",
 			"Weight: ^7777771^000000"
@@ -137216,10 +137216,10 @@ tbl = {
 		identifiedDisplayName = "Red Wing Box (10)",
 		identifiedResourceName = "햇빛의상자",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
+			"^FF0000Account Bound.^000000",
 			"Box containing 10 units of Red Butterfly Wing.",
 			"--------------------------",
-			"[^CD3278ERed Butterfly Wing]",
+			"^CD3278[Red Butterfly Wing]^000000",
 			"Teleports to Veins and Rachel.",
 			"--------------------------",
 			"Weight: ^7777771^000000"
@@ -137232,10 +137232,10 @@ tbl = {
 		unidentifiedDisplayName = "Blue Wing Box (10)",
 		unidentifiedResourceName = "햇빛의상자",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
+			"^FF0000Account Bound.^000000",
 			"Box containing 10 units of Blue Butterfly Wing.",
 			"--------------------------",
-			"[^CD3278EBlue Butterfly Wing]",
+			"^CD3278[EBlue Butterfly Wing]^000000",
 			"Teleports to Ayothaya, Amatsu, Luoyang, Kunlun and Moscovia",
 			"--------------------------",
 			"Weight: ^7777771^000000"
@@ -137243,10 +137243,10 @@ tbl = {
 		identifiedDisplayName = "Blue Wing Box (10)",
 		identifiedResourceName = "햇빛의상자",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
+			"^FF0000Account Bound.^000000",
 			"Box containing 10 units of Blue Butterfly Wing.",
 			"--------------------------",
-			"[^CD3278EBlue Butterfly Wing]",
+			"^CD3278[EBlue Butterfly Wing]^000000",
 			"Teleports to Ayothaya, Amatsu, Luoyang, Kunlun and Moscovia",
 			"--------------------------",
 			"Weight: ^7777771^000000"
@@ -147720,7 +147720,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
 		},
-		identifiedDisplayName = "Critical Attack Shadow Mail",
+		identifiedDisplayName = "Critical Attack Shadow Armor",
 		identifiedResourceName = "아머쉐도우3",
 		identifiedDescriptionName = {
 			"Equipment born from the shadows.",
@@ -158840,7 +158840,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Arc",
+		identifiedDisplayName = "Narcissus Bow",
 		identifiedResourceName = "Neev_Bow_Of_Rogue",
 		identifiedDescriptionName = {
 			"Once Hit, their targets will never forget the stabbing pain caused by the shots from this bow. That is, if they survive.",
@@ -159591,7 +159591,7 @@ tbl = {
 			"^0000FFCritical damage +10%.^000000",
 			"Refine +9 or higher:",
 			"^0000FFPhysical damage against Normal and Boss enemies +5% adicional.^000000",
-			"^0000FFPhysical ranged damage +5%.^000000",
+			"^0000FFRanged physical damage +5%.^000000",
 			"-------------------------",
 			"Type: ^777777Headgear^000000",
 			"Location: ^777777Upper^000000",
@@ -194593,7 +194593,7 @@ tbl = {
 		ClassNum = 0
 	},
 	[22841] = {
-		unidentifiedDisplayName = "^ff0000No transferible.^000000\n^ff0000Será eliminado al final del evento.^000000\nAlgo que parece un ovillo de hilo tejido por alguien. ¿Cómo diablos hicieron esto?\n--------------------------\nPeso: ^7777770^000000",
+		unidentifiedDisplayName = "Treat Basket",
 		unidentifiedResourceName = "캔디홀더",
 		unidentifiedDescriptionName = {
 			"^ff0000Will be deleted at the end of the event.^000000",
@@ -204881,7 +204881,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark physical Earring",
+		identifiedDisplayName = "Physical Shadow Earring",
 		identifiedResourceName = "이어링쉐도우",
 		identifiedDescriptionName = {
 			"Earring used as a complement to conventional accessories.",
@@ -204942,7 +204942,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark physical Necklace",
+		identifiedDisplayName = "Physical Shadow Pendant",
 		identifiedResourceName = "펜던트쉐도우",
 		identifiedDescriptionName = {
 			"Necklace used as a complement to conventional accessories.",
@@ -204968,7 +204968,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Magic Earring",
+		identifiedDisplayName = "Magical Shadow Earring",
 		identifiedResourceName = "이어링쉐도우",
 		identifiedDescriptionName = {
 			"Earring used as a complement to conventional accessories.",
@@ -204994,7 +204994,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Magic Shadow Glove",
+		identifiedDisplayName = "Magical Shadow Weapon",
 		identifiedResourceName = "웨폰쉐도우",
 		identifiedDescriptionName = {
 			"Gloves used as a complement for handling conventional weapons.",
@@ -205029,7 +205029,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Magic Necklace",
+		identifiedDisplayName = "Magical Shadow Pendant",
 		identifiedResourceName = "펜던트쉐도우",
 		identifiedDescriptionName = {
 			"Necklace used as a complement to conventional accessories.",
@@ -205055,7 +205055,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Shadow dodge mesh",
+		identifiedDisplayName = "Breeze Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -205081,7 +205081,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Rigid Dark Grass",
+		identifiedDisplayName = "Champion Shadow Shoes",
 		identifiedResourceName = "슈즈쉐도우",
 		identifiedDescriptionName = {
 			"Greaves used as a complement to conventional footwear.",
@@ -205108,7 +205108,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Shield of Athena",
+		identifiedDisplayName = "Athena Shadow Shield",
 		identifiedResourceName = "쉴드쉐도우",
 		identifiedDescriptionName = {
 			"Additional shield piece used to complement a conventional shield.",
@@ -205134,7 +205134,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Immune Shadow Mesh",
+		identifiedDisplayName = "Immune Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -205165,7 +205165,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Rigid Shadow Mesh",
+		identifiedDisplayName = "Hard Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -205224,7 +205224,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Critical Dark Mesh",
+		identifiedDisplayName = "Critical Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -205832,7 +205832,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Earring of Athena",
+		identifiedDisplayName = "Athena Shadow Earring",
 		identifiedResourceName = "이어링쉐도우",
 		identifiedDescriptionName = {
 			"Earring used as a complement to conventional accessories.",
@@ -207627,7 +207627,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Shadow Flow Mesh",
+		identifiedDisplayName = "Spellflow Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -207851,7 +207851,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Healing Mesh",
+		identifiedDisplayName = "Shadow Heal Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -208013,7 +208013,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Shadowy mesh of the Hideout",
+		identifiedDisplayName = "Hiding Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -208175,7 +208175,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Mesh of Stealth",
+		identifiedDisplayName = "Cloaking Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -208337,7 +208337,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Shadow Teleport Mesh",
+		identifiedDisplayName = "Teleport Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -208499,7 +208499,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "The Shadow of Theft",
+		identifiedDisplayName = "Steal Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -210677,7 +210677,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Shadow Mesh Attacker",
+		identifiedDisplayName = "Attack Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Mail used under conventional armor.",
@@ -215862,7 +215862,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Dark Glove of Infinity",
+		identifiedDisplayName = "Infinity Shadow Weapon",
 		identifiedResourceName = "웨폰쉐도우3",
 		identifiedDescriptionName = {
 			"Gloves used as a complement for handling conventional weapons.",
@@ -215875,8 +215875,8 @@ tbl = {
 			"Refine +10 or more:",
 			"^0000FFAvoids Size penalty.^000000",
 			"-------------------------",
-			"Type: ^777777Shadow Gear^000000",
-			"Equip on: ^777777Gloves^000000",
+			"Type: ^777777Shadow Equipment^000000",
+			"Equip on: ^777777Weapon^000000",
 			"Weight: ^7777770^000000 Min. lv.: ^7777771^000000",
 			"Classes: ^777777All^000000"
 		},
@@ -216305,7 +216305,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Cycloncestral Shadow Mail",
+		identifiedDisplayName = "Kingbird Ancient Shadow Armor",
 		identifiedResourceName = "아머쉐도우3",
 		identifiedDescriptionName = {
 			"Equipment born from shadows.",
@@ -222502,7 +222502,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
 		},
-		identifiedDisplayName = "Missile Shadow Mail",
+		identifiedDisplayName = "Tail Dragon Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Equipment born from the shadows.",
@@ -222686,7 +222686,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
 		},
-		identifiedDisplayName = "Execution Shadow Mail",
+		identifiedDisplayName = "God Hammer Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Equipment born from the shadows.",
@@ -223148,7 +223148,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
 		},
-		identifiedDisplayName = "Kunai Shadow Mail",
+		identifiedDisplayName = "Kunai Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Equipment born from the shadows.",
@@ -223706,7 +223706,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
 		},
-		identifiedDisplayName = "Nepeta Shadow Mail",
+		identifiedDisplayName = "Catnip Shadow Armor",
 		identifiedResourceName = "아머쉐도우",
 		identifiedDescriptionName = {
 			"Equipment born from the shadows.",
@@ -225085,11 +225085,11 @@ tbl = {
 			"^0000FFMagical Damage of all properties +5%.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Shadow Shoes^000000",
-			"^FA4E09Eden Shadow Pendant^000000",
-			"^FA4E09Eden Shadow Earring^000000",
-			"^FA4E09Eden Shadow Shield^000000",
-			"^FA4E09Eden Shadow Armor^000000",
+			"^FA4E09Eden Group Shadow Shoes^000000",
+			"^FA4E09Eden Group Shadow Pendant^000000",
+			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Shadow Shield^000000",
+			"^FA4E09Eden Group Shadow Armor^000000",
 			"^0000FFAttack speed +2.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFIgnores 50% of DEF and MDEF of all monster races.^000000",
@@ -225358,11 +225358,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
 			"^0000FFMelee physical damage +15%.^000000",
@@ -225396,11 +225396,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFRanged physical damage +15%.^000000",
 			"^0000FFMelee physical damage +15%.^000000",
 			"^0000FFAttack speed +2.^000000",
@@ -225434,11 +225434,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-cast Delay -15%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
 			"^0000FFMelee physical damage +15%.^000000",
@@ -225470,11 +225470,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-cast Delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225507,11 +225507,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFCRIT +10.^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFAttack speed +2.^000000",
@@ -225544,11 +225544,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFAttack speed +2.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225583,11 +225583,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFMagical camage of all properties +15%.^000000",
@@ -225618,11 +225618,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFAttack speed +2.^000000",
 			"^0000FFMagical damage of all properties +15%.^000000",
@@ -225653,11 +225653,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFCooldown of [Adoramus] -1 second.^000000",
 			"^0000FFMagical damage of all properties +15%.^000000",
@@ -225688,11 +225688,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
 			"^0000FFMelee physical damage +15%.^000000",
@@ -225724,11 +225724,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable Cast Time -10%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225759,11 +225759,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill selay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225795,11 +225795,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225831,11 +225831,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225867,11 +225867,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFMelee physical damage +15%.^000000",
@@ -225902,11 +225902,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFMagical damage of all properties +15%.^000000",
@@ -225938,11 +225938,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFRanged physical damage +15%.^000000",
@@ -225974,11 +225974,11 @@ tbl = {
 			"^0000FFATK and MATK +10.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Eden Group Shadow Shoes^000000",
-			"^FA4E09Eden Group Shadow Shield^000000",
-			"^FA4E09Eden Group Shadow Armor^000000",
-			"^FA4E09Eden Group Shadow Pendant^000000",
-			"^FA4E09Eden Group Shadow Earring^000000",
+			"^FA4E09Eden Group Adv. Shadow Shoes^000000",
+			"^FA4E09Eden Group Adv. Shadow Shield^000000",
+			"^FA4E09Eden Group Adv. Shadow Armor^000000",
+			"^FA4E09Eden Group Adv. Shadow Pendant^000000",
+			"^FA4E09Eden Group Adv. Shadow Earring^000000",
 			"^0000FFAfter-skill delay -15%.^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFMelee physical damage +15%.^000000",
@@ -226346,7 +226346,7 @@ tbl = {
 			"Refine +10 or higher:",
 			"^0000FFIncreases movement speed.^000000",
 			"--------------------------",
-			"Type: ^777777Shadow Equip.^000000",
+			"Type: ^777777Shadow Equipment^000000",
 			"Equip on: ^777777Shield^000000",
 			"Weight: ^7777770^000000 Min. Level: ^7777771^000000",
 			"Classes: ^777777All^000000"
@@ -226361,7 +226361,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
 		},
-		identifiedDisplayName = "Infinite Shadow Shield",
+		identifiedDisplayName = "Infinity Shadow Shield",
 		identifiedResourceName = "쉴드쉐도우3",
 		identifiedDescriptionName = {
 			"Equipment born from the shadows.",
@@ -226374,7 +226374,7 @@ tbl = {
 			"Refine +10 or higher:",
 			"^0000FFNullifies Size penalty.^000000",
 			"--------------------------",
-			"Type: ^777777Shadow Equip.^000000",
+			"Type: ^777777Shadow Equipment^000000",
 			"Equip on: ^777777Shield^000000",
 			"Weight: ^7777770^000000 Min. Level: ^7777771^000000",
 			"Classes: ^777777All^000000"
@@ -226947,6 +226947,7 @@ tbl = {
 			"^0000FFCON +1.^000000",
 			"--------------------------",
 			"Refine +7 or higher:",
+			"^0000FFP.ATK +2.^000000",
 			"^0000FFS.MATK +2.^000000",
 			"Refine +9 or higher:",
 			"^0000FFS.MATK +2 additional.^000000",
@@ -227454,6 +227455,321 @@ tbl = {
 			"Location: ^777777Shield^000000",
 			"Weight: ^7777770^000000 Required Level: ^777777200^000000",
 			"Classes: ^7777774th Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24872] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "POW Shadow Armor",
+		identifiedResourceName = "SV_Armor_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"-------------------------",
+			"^0000FFPhysical damage +3%.^000000",
+			"Every 2 refine levels:",
+			"^0000FFRanged physical damage +1%.^000000",
+			"^0000FFMelee physical damage +1%.^000000",
+			"-------------------------",
+			"Refine level +10 or higher:",
+			"^0000FFP.ATK +2.^000000",
+			"-------------------------",
+			"^FA4E09Set Bonus^000000",
+			"^FA4E09POW Shadow Weapon^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFPOW +3.^000000",
+			"^0000FFAdditional P.ATK +3.^000000",
+			"-------------------------",
+			"^FA4E09Set Bonus^000000",
+			"^FA4E09POW Shadow Shoes^000000",
+			"^0000FFAdditional P.ATK +2.^000000",
+			"^0000FFAdditional physical damage +2%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFRanged physical damage +5%.^000000",
+			"^0000FFMelee physical damage +5%.^000000",
+			"^0000FFPhysical damage against all size targets +10%.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Armor^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24873] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "슈즈쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "POW Shadow Shoes",
+		identifiedResourceName = "SV_Shoes_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"^0000FFPhysical damage +3%.^000000",
+			"-------------------------",
+			"Every 2 refine levels:",
+			"^0000FFRanged physical damage +1%.^000000",
+			"^0000FFMelee physical damage +1%.^000000",
+			"-------------------------",
+			"Refine level +10 or higher:",
+			"^0000FFP.ATK +2.^000000",
+			"^FA4E09Set Bonus^000000",
+			"^FA4E09POW Shadow Shield^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"-------------------------",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFPOW +3.^000000",
+			"^0000FFAdditional P.ATK +3.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Shoes^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24874] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "CRT Shadow Armor",
+		identifiedResourceName = "SV_Armor_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"-------------------------",
+			"^0000FFCRIT +3.^000000",
+			"For every 2 refine levels:",
+			"^0000FFCritical damage +1%.^000000",
+			"Refine level +10 or higher:",
+			"^0000FFC.RATE +2.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09CRT Shadow Weapon^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFCRT +3.^000000",
+			"^0000FFAdditional C.RATE +3.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09CRT Shadow Shoes^000000",
+			"^0000FFAdditional C.RATE +2.^000000",
+			"^0000FFAdditional physical damage +2%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFCritical damage +5%.^000000",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Armor^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24875] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "슈즈쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "CRT Shadow Shoes",
+		identifiedResourceName = "SV_Shoes_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"-------------------------",
+			"^0000FFCRIT +3.^000000",
+			"Every 2 refine levels:",
+			"^0000FFCritical damage +1%.^000000",
+			"Refine level +10 or higher:",
+			"^0000FFC.RATE +2.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09CRT Shadow Shield^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFCRT +3.^000000",
+			"^0000FFAdditional C.RATE +3.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Shoes^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24876] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "펜던트쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "CON Shadow Pendant",
+		identifiedResourceName = "SV_Pendant_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"-------------------------",
+			"^0000FFPhysical damage +3%.^000000",
+			"Every 2 refine levels:",
+			"^0000FFVariable cast time -1%.^000000",
+			"Refine level +10 or higher:",
+			"^0000FFP.ATK +2.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09CON Shadow Weapon^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFCON +3.^000000",
+			"^0000FFAdditional P.ATK +3.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09CON Shadow Earring^000000",
+			"^0000FFAdditional P.ATK +2.^000000",
+			"^0000FFAdditional physical damage +2%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFPhysical damage against opponents of all properties +10%.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Left Accessory^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24877] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "이어링쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "CON Shadow Earring",
+		identifiedResourceName = "SV_Earring_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"-------------------------",
+			"^0000FFPhysical damage +3%.^000000",
+			"Every 2 refine levels:",
+			"^0000FFVariable cast time -1%.^000000",
+			"Revine level +10 or higher:",
+			"^0000FFP.ATK +2.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09CON Shadow Shield^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFCON +3.^000000",
+			"^0000FFAdditional P.ATK +3.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Right Accessory^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24878] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "펜던트쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "STA Shadow Pendant",
+		identifiedResourceName = "SV_Pendant_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refine level.^000000",
+			"^0000FFDEF +30.^000000",
+			"-------------------------",
+			"Every 2 refine levels:",
+			"^0000FFTENA +3.^000000",
+			"Refine level +10 or higher:",
+			"^0000FFTENA +15.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09STA Shadow Weapon^000000",
+			"^0000FFAdditional TENA +15.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFSTA +3.^000000",
+			"^0000FFMax HP +5%.^000000",
+			"-------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09STA Shadow Earring^000000",
+			"^0000FFAdditional DEF +15.^000000",
+			"^0000FFAdditional TENA +25.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFAdditional Max HP +7%.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Left Acessory^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24879] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "이어링쉐도우",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "STA Shadow Earring",
+		identifiedResourceName = "SV_Earring_Shadow",
+		identifiedDescriptionName = {
+			"Equipment born from the shadows.",
+			"-------------------------",
+			"^0000FFMax HP +10 per refinement rate.^000000",
+			"-------------------------",
+			"^0000FFDEF +30.^000000",
+			"Every 2 refine levels:",
+			"^0000FFTENA +3.^000000",
+			"Refine +10 or higher:",
+			"^0000FFTENA +15.^000000",
+			"-------------------------",
+			"^FA4E09Set Bonus^000000",
+			"^FA4E09STA Shadow Shield^000000",
+			"^0000FFAdditional TENA +15.^000000",
+			"Set's total refine level is 18 or higher:",
+			"^0000FFSTA +3.^000000",
+			"^0000FFMax HP +5%.^000000",
+			"-------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Position: ^777777Right Acessory^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777All^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -239390,7 +239706,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Staff",
+		identifiedDisplayName = "Shadow Staff",
 		identifiedResourceName = "쉐도우스태프",
 		identifiedDescriptionName = {
 			"Surprising arcane powers manifest from this imposing staff, but only when wielded by the right hands.",
@@ -239398,7 +239714,7 @@ tbl = {
 			"Every 2 refines:",
 			"^0000FFMATK +10.^000000",
 			"Every 3 refines:",
-			"^0000FF[Nerthus Punishment] damage +12%.^000000",
+			"^0000FF[Earth Grave] damage +12%.^000000",
 			"-------------------------",
 			"Refine +9 or more:",
 			"^0000FFSkill Delay -10%.^000000",
@@ -239420,7 +239736,7 @@ tbl = {
 			"Weight: ^77777750^000000",
 			"Weapon level: ^7777774^000000",
 			"Level required: ^777777100^000000",
-			"Classes: ^77777777Sorcerer and evolutions^000000"
+			"Classes: ^777777Sorcerer and evolutions^000000"
 		},
 		slotCount = 2,
 		ClassNum = 10,
@@ -241083,7 +241399,7 @@ tbl = {
 		costume = false
 	},
 	[27102] = {
-		unidentifiedDisplayName = "Matte Drainliar Card",
+		unidentifiedDisplayName = "Mattiliar Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"^0000ffImmune to Burning +100%.^000000",
@@ -241096,7 +241412,7 @@ tbl = {
 			"Equip on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
 		},
-		identifiedDisplayName = "Matte Drainliar Card",
+		identifiedDisplayName = "Mattiliar Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"^0000ffImmune to Burning +100%.^000000",
@@ -247045,7 +247361,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Shiver Katar",
+		identifiedDisplayName = "Katar of Shiver",
 		identifiedResourceName = "전율의카타르",
 		identifiedDescriptionName = {
 			"Light and deadly, this is a katar forged with forbidden materials and of unknown past - it is estimated that it was used by the first Algozes on record.",
@@ -248208,7 +248524,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Rifle",
+		identifiedDisplayName = "Master Soul Rifle",
 		identifiedResourceName = "Neev_Rifle",
 		identifiedDescriptionName = {
 			"Use the right lens, compensate for the fall of the projectile, aim and pull the trigger. If the shot is well taken, it will be difficult for your target to take it and remain standing!",
@@ -248254,7 +248570,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Shotgun",
+		identifiedDisplayName = "Demon Slayer Shot Gun",
 		identifiedResourceName = "데몬샷건",
 		identifiedDescriptionName = {
 			"A magical sawed-off shotgun. Its supernatural origins make it a highly sought-after firearm for demon hunters the world over.",
@@ -248303,7 +248619,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Garland Spear",
+		identifiedDisplayName = "Golden Rod Launcher",
 		identifiedResourceName = "디바그레네이드건",
 		identifiedDescriptionName = {
 			"Arm yourself with this grenade launcher and blast your enemies left and right. When they ask you if this isn't dangerous, tell them that YOU are the danger!",
@@ -248346,7 +248662,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Gatling",
+		identifiedDisplayName = "Avengers Gatling Gun",
 		identifiedResourceName = "어벤저개틀링건",
 		identifiedDescriptionName = {
 			"When the barrel of this gun starts spinning, your enemies better start praying to the Saint of Dodging!",
@@ -251713,7 +252029,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral tome",
+		identifiedDisplayName = "Exoricist's Bible",
 		identifiedResourceName = "퇴마의성서",
 		identifiedDescriptionName = {
 			"The darkest magical books of Rune-Midgard have been recovered, rewritten and compiled in this tome of immeasurable power.",
@@ -252362,13 +252678,13 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. You can identify it using a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Kodachi",
+		identifiedDisplayName = "Kodachi Sword",
 		identifiedResourceName = "후츠노미타마",
 		identifiedDescriptionName = {
 			"Known as the \"wind blade\", this blade is often used in conjunction with an Ancestral Kiri no Tsuyu. The set of short swords allows for attack combinations of unparalleled speed and deadliness.",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Ancestral Kiri no Tsuyu]^000000",
+			"^FA4E09[Kiri no Tsuyu Sword]^000000",
 			"^FA4E09[Ancient Hero Boots]^000000",
 			"When performing physical attacks:",
 			"^0000FF3% chance to activate an effect for 7 seconds.^000000",
@@ -252394,26 +252710,26 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. You can identify it using a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Kiri no Tsuyu",
+		identifiedDisplayName = "Kiri no Tsuyu Sword",
 		identifiedResourceName = "안개의요도",
 		identifiedDescriptionName = {
 			"Also called the \"dew sword\", this is a short, very sharp blade. Use it with a Kodachi Ancestral to ensure maximum combat efficiency and finish off your opponents in the blink of an eye.",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Ancestral Kodachi]^000000",
+			"^FA4E09[Kodachi Sword]^000000",
 			"Every 3 refines of the two weapons:",
-			"^0000ffATK +10.^000000",
+			"^0000FFATK +10.^000000",
 			"Every 5 refines of both weapons:",
-			"^0000ffATK of weapon +2%.^000000",
+			"^0000FFATK of weapon +2%.^000000",
 			"Sum of weapon refines +14 or more:",
-			"^0000ffCrossfire] damage +25%.^000000",
+			"^0000FFCrossfire] damage +25%.^000000",
 			"Sum of weapon refines +16 or more:",
-			"^0000ffRecharge of [Crusader Impact] -2 seconds.^000000",
+			"^0000FFRecharge of [Crusader Impact] -2 seconds.^000000",
 			"Sum of weapon refines +18 or more:",
-			"^0000ffEnables [Dark Crush] at the same learned level as [Rising Distortion].^000000",
-			"^0000ffEnables [Crescent Distortion] at the same level learned as [Dark Crush].^000000",
+			"^0000FFEnables [Dark Crush] at the same learned level as [Rising Distortion].^000000",
+			"^0000FFEnables [Crescent Distortion] at the same level learned as [Dark Crush].^000000",
 			"Sum of weapon refines +20 or more:",
-			"^0000ffDamage from [Cross Impact] +25% additional.^000000",
+			"^0000FFDamage from [Cross Impact] +25% additional.^000000",
 			"-------------------------",
 			"Type: ^777777Dagger^000000",
 			"ATK: ^777777150^000000 MATK: ^7777770^000000",
@@ -268696,14 +269012,25 @@ tbl = {
 		costume = true
 	},
 	[31912] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "캡",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume] Llorona's Veil",
 		identifiedResourceName = "검은면사포",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"A woman's veil, spoken of in legends by the natives of a faraway land. It appears to be the spirit of a bride who was abandoned, betrayed and now seeks revenge.",
+			"If you come near a river or a lake, you can hear her wailing: \"¡Mis hijos! ¡Mis hijos! ¿Dónde están mis hijos?\"",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equipped on: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
 		slotCount = 0,
-		ClassNum = 0,
+		ClassNum = 1173,
 		costume = true
 	},
 	[31915] = {
@@ -269184,12 +269511,30 @@ tbl = {
 		costume = true
 	},
 	[31975] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Costume Sweet Potato in Mouth",
 		identifiedResourceName = "Sweet_Potato_In_Mouth",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"A sweet potato roasted over the Harvest Festival bonfire.",
+			"It's hot, so make sure to blow on it before taking a bite.",
+			"^ffffff_^000000",
+			"During the event period, increases all property magic damage by 10% and melee physical damage by 10%.",
+			"Increases ranged physical damage by 10%.",
+			"Increases EXP gained from defeating monsters by 5% and has a chance to drop Harvest Festival Cookies when defeating monsters.",
+			"When equipped with Costume Harvest Festival Commemorative Hat,",
+			"ATK + 10%, reduces fixed casting time by 0.2 sec and additionally increases EXP gained from defeating monsters by 5%.",
+			"When equipped with Costume Taste of Autumn,",
+			"MATK + 10%, reduces fixed casting time by 0.2 sec and additionally increases EXP gained from defeating monsters by 5%.",
+			"^ffffff_^000000",
+			"Type : ^777777Costume^000000 Defense : ^7777770^000000",
+			"Location : ^777777Lower^000000 Weight : ^7777770^000000",
+			"Required Level : ^7777771^000000",
+			"Jobs : ^777777All Jobs^000000"
+		},
 		slotCount = 0,
 		ClassNum = 2154,
 		costume = true
@@ -269281,7 +269626,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Spear",
+		identifiedDisplayName = "Aquatic Spear",
 		identifiedResourceName = "운디네의창",
 		identifiedDescriptionName = {
 			"A spear whose tip has been sharpened with the care of 1000 craftsmen, so that the first blow is the last.",
@@ -270394,7 +270739,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Revolver",
+		identifiedDisplayName = "Crimson Rose",
 		identifiedResourceName = "무쌍총",
 		identifiedDescriptionName = {
 			"Weapon used by the legendary Ocelot Revolver. According to his words, six shots were more than enough to take out any moving target.",
@@ -278808,7 +279153,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class 3 Costume Stone II (Garment).^000000.",
+			"^0000FFContains 1x random Class 3 Costume Stone II (Garment).^000000",
 			"--------------------------"
 		},
 		identifiedDisplayName = "Costume Stone Crate II (Garment)",
@@ -278816,7 +279161,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class 3 Costume Stone II (Garment).^000000.",
+			"^0000FFContains 1x random Class 3 Costume Stone II (Garment).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278825,20 +279170,21 @@ tbl = {
 		costume = false
 	},
 	[100496] = {
-		unidentifiedDisplayName = "Costume Stone Crate I (Top)",
+		unidentifiedDisplayName = "Costume Stone Crate I (Upper)",
 		unidentifiedResourceName = "상인전직상자",
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone I (Top).^000000.",
-			"--------------------------"
+			"^0000FFContains 1x random Class Costume Stone I (Upper).^000000",
+			"--------------------------",
+			"Weight ^7777771^000000"
 		},
-		identifiedDisplayName = "Costume Stone Crate I (Top)",
+		identifiedDisplayName = "Costume Stone Crate I (Upper)",
 		identifiedResourceName = "상인전직상자",
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone I (Top).^000000.",
+			"^0000FFContains 1x random Class Costume Stone I (Upper).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278847,20 +279193,21 @@ tbl = {
 		costume = false
 	},
 	[100497] = {
-		unidentifiedDisplayName = "Costume Stone Crate II (Top)",
+		unidentifiedDisplayName = "Costume Stone Crate II (Upper)",
 		unidentifiedResourceName = "상인전직상자",
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone II (Top).^000000.",
-			"--------------------------"
+			"^0000FFContains 1x random Class Costume Stone II (Upper).^000000",
+			"--------------------------",
+			"Weight ^7777771^000000"
 		},
-		identifiedDisplayName = "Costume Stone Crate II (Top)",
+		identifiedDisplayName = "Costume Stone Crate II (Upper)",
 		identifiedResourceName = "상인전직상자",
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone II (Top).^000000.",
+			"^0000FFContains 1x random Class Costume Stone II (Upper).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278874,7 +279221,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone I (Middle).^000000.",
+			"^0000FFContains 1x random Class Costume Stone I (Middle).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278883,7 +279230,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone I (Middle).^000000.",
+			"^0000FFContains 1x random Class Costume Stone I (Middle).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278897,7 +279244,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone II (Middle).^000000.",
+			"^0000FFContains 1x random Class Costume Stone II (Middle).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278906,7 +279253,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone II (Middle).^000000.",
+			"^0000FFContains 1x random Class Costume Stone II (Middle).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278920,7 +279267,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone I (Lower).^000000.",
+			"^0000FFContains 1x random Class Costume Stone I (Lower).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278929,7 +279276,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone I (Lower).^000000.",
+			"^0000FFContains 1x random Class Costume Stone I (Lower).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278943,7 +279290,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone II (Lower).^000000.",
+			"^0000FFContains 1x random Class Costume Stone II (Lower).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -278952,7 +279299,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Small wooden crate with something random inside.",
 			"--------------------------",
-			"^0000ffContains 1x random Class Costume Stone II (Lower).^000000.",
+			"^0000FFContains 1x random Class Costume Stone II (Lower).^000000",
 			"--------------------------",
 			"Weight ^7777771^000000"
 		},
@@ -285521,6 +285868,27 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101162] = {
+		unidentifiedDisplayName = "Rgan Transformation Scroll",
+		unidentifiedResourceName = "낡은마법진",
+		unidentifiedDescriptionName = {
+			"A mysterious scroll that transforms the user into an Rgan when used. It was made by Lunch. Use it when infiltrating among the Rgans.",
+			"While transformed, increases the HP recovery effect of Dried Ice Gangu by 100%.",
+			"^ff0000Warning! The transformation is canceled upon death.^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Rgan Transformation Scroll",
+		identifiedResourceName = "낡은마법진",
+		identifiedDescriptionName = {
+			"A mysterious scroll that transforms the user into an Rgan when used. It was made by Lunch. Use it when infiltrating among the Rgans.",
+			"While transformed, increases the HP recovery effect of Dried Ice Gangu by 100%.",
+			"^ff0000Warning! The transformation is canceled upon death.^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101168] = {
 		unidentifiedDisplayName = "[Not for Sale] Special Potion",
 		unidentifiedResourceName = "레지스트_지",
@@ -285797,6 +286165,106 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101183] = {
+		unidentifiedDisplayName = "Extract Ice Flower Spell",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Extract Ice Flower Spell",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101184] = {
+		unidentifiedDisplayName = "Ice Flower Spell Extractor",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Ice Flower Spell Extractor",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101185] = {
+		unidentifiedDisplayName = "Snow Flower Armor Enhancement (Armor)",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Armor Enhancement (Armor)",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101186] = {
+		unidentifiedDisplayName = "Glacier Weapon Enhancement",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Glacier Weapon Enhancement",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101187] = {
+		unidentifiedDisplayName = "Snow Flower Armor +9 Refinement Cube",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"A mysterious box that can enhance Snow Flower armor.",
+			"Raises Snow Flower armor to Refine Level 9.",
+			"",
+			"[Target Items]",
+			"Snow Flower Armor, Snow Flower Robe, Snow Flower Manteau. Snow Flower Muffler. Snow Flower Boots, Snow Flower Shoes"
+		},
+		identifiedDisplayName = "Snow Flower Armor +9 Refinement Cube",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {
+			"A mysterious box that can enhance Snow Flower armor.",
+			"Raises Snow Flower armor to Refine Level 9.",
+			"",
+			"[Target Items]",
+			"Snow Flower Armor, Snow Flower Robe, Snow Flower Manteau. Snow Flower Muffler. Snow Flower Boots, Snow Flower Shoes",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101188] = {
+		unidentifiedDisplayName = "Glacier Weapon +9 Refinement Cube",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"A mysterious box that can enhance Glacier weapons.",
+			"Raises Glacier weapons to Refine Level 9.",
+			"",
+			"[Target Items]",
+			"Glacier Two-Handed Sword, Glacier Lance, Glacier Sword, Glacier Basic Sword, Glacier Spear, Glacier Mechanic Axe, Glacier Axe, Glacier Mace, Glacier Mechanic Mace, Glacier Rogue Knife, Glacier Basic Knife, Glacier Bow, Glacier Knuckle, Glacier Book, Glacier Katar, Glacier Wand, Glacier Staff, Glacier Foxtail, Glacier Violin, Glacier Whip, Glacier Huuma Shuriken, Glacier Pistol, Glacier Rifle, Glacier Shotgun, Glacier Gatling, Glacier Launcher"
+		},
+		identifiedDisplayName = "Glacier Weapon +9 Refinement Cube",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {
+			"A mysterious box that can enhance Glacier weapons.",
+			"Raises Glacier weapons to Refine Level 9.",
+			"",
+			"[Target Items]",
+			"Glacier Two-Handed Sword, Glacier Lance, Glacier Sword, Glacier Basic Sword, Glacier Spear, Glacier Mechanic Axe, Glacier Axe, Glacier Mace, Glacier Mechanic Mace, Glacier Rogue Knife, Glacier Basic Knife, Glacier Bow, Glacier Knuckle, Glacier Book, Glacier Katar, Glacier Wand, Glacier Staff, Glacier Foxtail, Glacier Violin, Glacier Whip, Glacier Huuma Shuriken, Glacier Pistol, Glacier Rifle, Glacier Shotgun, Glacier Gatling, Glacier Launcher",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101189] = {
 		unidentifiedDisplayName = "Awakened Weapon Refine Hammer VI",
 		unidentifiedResourceName = "홀그랜제련망치",
@@ -285956,6 +286424,52 @@ tbl = {
 			"-------------------------",
 			"Weight: ^7777771^000000"
 		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101217] = {
+		unidentifiedDisplayName = "Snow Flower Armor Enhancement (Garment)",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Snow Flower Armor Enhancement (Garment)",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101218] = {
+		unidentifiedDisplayName = "Snow Flower Armor Enhancement (Footgear)",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Armor Enhancement (Footgear)",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101219] = {
+		unidentifiedDisplayName = "Snow Flower Armor Enhancement (Accessory A)",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Snow Flower Armor Enhancement (Accessory A)",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101220] = {
+		unidentifiedDisplayName = "Snow Flower Armor Enhancement (Accessory B)",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Snow Flower Armor Enhancement (Accessory B)",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -286893,6 +287407,29 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101399] = {
+		unidentifiedDisplayName = "Enchant Envelope",
+		unidentifiedResourceName = "안부편지",
+		unidentifiedDescriptionName = {
+			"Magical envelope containing 3x Enchant Ticket.",
+			"--------------------------",
+			"<NAVI>[Ziki]<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Enchant Envelope",
+		identifiedResourceName = "안부편지",
+		identifiedDescriptionName = {
+			"Magical envelope containing 3x Enchant Ticket.",
+			"--------------------------",
+			"<NAVI>[Ziki]<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101456] = {
 		unidentifiedDisplayName = "Souvenir Box",
 		unidentifiedResourceName = "선물상자_1",
@@ -287124,6 +287661,252 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101542] = {
+		unidentifiedDisplayName = "Full Penetration Shadow Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Full Penetration Shadow Earring Box",
+			"Full Penetration Shadow Pendant Box",
+			"Full Penetration Shadow Armor Box",
+			"Full Penetration Shadow Shoes Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Penetration Shadow Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Full Penetration Shadow Earring Box",
+			"Full Penetration Shadow Pendant Box",
+			"Full Penetration Shadow Armor Box",
+			"Full Penetration Shadow Shoes Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101543] = {
+		unidentifiedDisplayName = "Full Penetration Shadow Earring Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Earring with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Penetration Shadow Earring Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Earring with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101544] = {
+		unidentifiedDisplayName = " Full Penetration Shadow Pendant Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Pendant with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = " Full Penetration Shadow Pendant Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Pendant with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101545] = {
+		unidentifiedDisplayName = "Full Penetration Shadow Armor Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Armor with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Penetration Shadow Armor Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Armor with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101546] = {
+		unidentifiedDisplayName = "Full Penetration Shadow Shoes Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Shoes with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Penetration Shadow Shoes Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Full Penetration Shadow Shoes with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101547] = {
+		unidentifiedDisplayName = "Full Tempest Shadow Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment Box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Full Tempest Shadow Earring Box Box",
+			"Full Tempest Shadow Pendant Box",
+			"Full Tempest Shadow Armor Box",
+			"Full Tempest Shadow Shoes Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Tempest Shadow Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment Box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Full Tempest Shadow Earring Box Box",
+			"Full Tempest Shadow Pendant Box",
+			"Full Tempest Shadow Armor Box",
+			"Full Tempest Shadow Shoes Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101548] = {
+		unidentifiedDisplayName = "Full Tempest Shadow Earring Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Earring with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Tempest Shadow Earring Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Earring with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101549] = {
+		unidentifiedDisplayName = "Full Tempest Shadow Pendant Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Pendant with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Tempest Shadow Pendant Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Pendant with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101550] = {
+		unidentifiedDisplayName = "Full Tempest Shadow Armor Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Armor with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Tempest Shadow Armor Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Armor with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101551] = {
+		unidentifiedDisplayName = "Full Tempest Shadow Shoes Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Shoes with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Full Tempest Shadow Shoes Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with shadow inscriptions.",
+			"--------------------------",
+			"^0000FFProvides 1x Full Tempest Shadow Shoes with random refinement level (between +7 and +10).^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101552] = {
 		unidentifiedDisplayName = "Durable Selectable",
 		unidentifiedResourceName = "잠긴실버갑옷상자",
@@ -287325,6 +288108,83 @@ tbl = {
 			"Skill Shadow Spellbook (Melee)",
 			"Skill Shadow Spellbook (Melee)",
 			"Skill Shadow Spellbook (Magic)",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101637] = {
+		unidentifiedDisplayName = "Dim Glacier Upgrade Device",
+		unidentifiedResourceName = "EP19_DGW_Refine",
+		unidentifiedDescriptionName = {
+			"A device used to infuse special material into Dim Glacier weapons.",
+			"Raises the refine level of a Dim Glacier weapon by 1.",
+			"Usable on Dim Glacier weapons refined from +9 to +11.",
+			"^ffffff_^000000",
+			"[Required Materials]",
+			"Snow Flower Petal x40",
+			"Corrupted Magic Crystal x10",
+			"Purified Magic Crystal x10",
+			"Weight: ^77777720^000000"
+		},
+		identifiedDisplayName = "Dim Glacier Upgrade Device",
+		identifiedResourceName = "EP19_DGW_Refine",
+		identifiedDescriptionName = {
+			"A device used to infuse special material into Dim Glacier weapons.",
+			"Raises the refine level of a Dim Glacier weapon by 1.",
+			"Usable on Dim Glacier weapons refined from +9 to +11.",
+			"^ffffff_^000000",
+			"[Required Materials]",
+			"Snow Flower Petal x40",
+			"Corrupted Magic Crystal x10",
+			"Purified Magic Crystal x10",
+			"Weight: ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
+		costume = false
+	},
+	[101638] = {
+		unidentifiedDisplayName = "Dim Glacier Weapon Upgrade",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Dim Glacier Weapon Upgrade",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101639] = {
+		unidentifiedDisplayName = "Dim Glacier Extractor",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Dim Glacier Extractor",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101653] = {
+		unidentifiedDisplayName = "Helm of Faith Box",
+		unidentifiedResourceName = "액세서리상자",
+		unidentifiedDescriptionName = {
+			"A box created by the Cardinals of the Rachel Sanctuary.",
+			"--------------------------",
+			"^0000FFProvides a random 1x Helm of Faith (I or II) refined to +11.^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Helm of Faith Box",
+		identifiedResourceName = "액세서리상자",
+		identifiedDescriptionName = {
+			"A box created by the Cardinals of the Rachel Sanctuary.",
+			"--------------------------",
+			"^0000FFProvides a random 1x Helm of Faith (I or II) refined to +11.^000000",
 			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -287814,6 +288674,152 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101806] = {
+		unidentifiedDisplayName = "Hasty Shadow Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Hasty Shadow Weapon Box",
+			"Hasty Shadow Shield Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Hasty Shadow Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Hasty Shadow Weapon Box",
+			"Hasty Shadow Shield Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101807] = {
+		unidentifiedDisplayName = "Hasty Shadow Weapon Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Hasty Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Hasty Shadow Weapon Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Hasty Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101808] = {
+		unidentifiedDisplayName = "Hasty Shadow Shield Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Hasty Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Hasty Shadow Shield Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Hasty Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101862] = {
+		unidentifiedDisplayName = "Infinity Shadow Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Infinity Shadow Weapon Box",
+			"Infinity Shadow Shield Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Infinity Shadow Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with random refinement level between +7 and +10.",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"Infinity Shadow Weapon Box",
+			"Infinity Shadow Shield Box",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101863] = {
+		unidentifiedDisplayName = "Infinity Shadow Weapon Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Infinity Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Infinity Shadow Weapon Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Infinity Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101864] = {
+		unidentifiedDisplayName = "Infinity Shadow Shield Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Infinity Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Infinity Shadow Shield Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"A box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Infinity Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101942] = {
 		unidentifiedDisplayName = "Enchant Stone Synthesis Box",
 		unidentifiedResourceName = "라피네뚝딱상자",
@@ -288127,6 +289133,245 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[102217] = {
+		unidentifiedDisplayName = "Selectable Ancestral I",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Royal Bow",
+			"+11 Shadow Staff",
+			"+11 Iron Nail",
+			"+11 Blue Crystal Staff",
+			"+11 Chilling Cane",
+			"+11 Ancient Hero Boots",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestral I",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Royal Bow",
+			"+11 Shadow Staff",
+			"+11 Iron Nail",
+			"+11 Blue Crystal Staff",
+			"+11 Chilling Cane",
+			"+11 Ancient Hero Boots",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102218] = {
+		unidentifiedDisplayName = "Selectable Ancestral II",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Red Lotus Sword",
+			"+11 Iron Staff",
+			"+11 Oriental Sword",
+			"+11 Kiri no Tsuyu Sword",
+			"+11 Kodachi Sword",
+			"+11 Huuma Shuriken Clear",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestral II",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Red Lotus Sword",
+			"+11 Iron Staff",
+			"+11 Oriental Sword",
+			"+11 Kiri no Tsuyu Sword",
+			"+11 Kodachi Sword",
+			"+11 Huuma Shuriken Clear",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102219] = {
+		unidentifiedDisplayName = "Selectable Ancestral III",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Narcissus Bow",
+			"+11 Magic Sword",
+			"+11 Avenger",
+			"+11 Aquatic Spear",
+			"+11 Exoricist's Bible",
+			"+11 Katar of Shiver",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestral III",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Narcissus Bow",
+			"+11 Magic Sword",
+			"+11 Avenger",
+			"+11 Aquatic Spear",
+			"+11 Exoricist's Bible",
+			"+11 Katar of Shiver",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102220] = {
+		unidentifiedDisplayName = "Selectable Ancestral IV",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 One Sky One Sun",
+			"+11 Spirit Pendulum",
+			"+11 Meowmeow Foxtail",
+			"+11 Freedom Stick",
+			"+11 Blessed Knife",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestral IV",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 One Sky One Sun",
+			"+11 Spirit Pendulum",
+			"+11 Meowmeow Foxtail",
+			"+11 Freedom Stick",
+			"+11 Blessed Knife",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102221] = {
+		unidentifiedDisplayName = "Selectable Ancestral V",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Dragonic Slayer",
+			"+11 Light Blade",
+			"+11 Slate Sword",
+			"+11 Trumpet Shell",
+			"+11 Barbed Wire Whip",
+			"+11 Meteor Striker",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestrals V",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Dragonic Slayer",
+			"+11 Light Blade",
+			"+11 Slate Sword",
+			"+11 Trumpet Shell",
+			"+11 Barbed Wire Whip",
+			"+11 Meteor Striker",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102222] = {
+		unidentifiedDisplayName = "Selectable Ancestral VI",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Saint Mace",
+			"+11 Ray Knuckle",
+			"+11 Blade Katar",
+			"+11 Fatalist",
+			"+11 Scarlet Dragon Leather Bow",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestral VI",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Saint Mace",
+			"+11 Ray Knuckle",
+			"+11 Blade Katar",
+			"+11 Fatalist",
+			"+11 Scarlet Dragon Leather Bow",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102223] = {
+		unidentifiedDisplayName = "Selectable Ancestral VII",
+		unidentifiedResourceName = "금보물상자",
+		unidentifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Crimson Rose",
+			"+11 Master Soul Rifle",
+			"+11 Avengers Gatling Gun",
+			"+11 Demon Slayer Shot Gun",
+			"+11 Golden Rod Launcher",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Selectable Ancestral VII",
+		identifiedResourceName = "금보물상자",
+		identifiedDescriptionName = {
+			"Box that stores the weapons used by a Hero from ancient times.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"+11 Crimson Rose",
+			"+11 Master Soul Rifle",
+			"+11 Avengers Gatling Gun",
+			"+11 Demon Slayer Shot Gun",
+			"+11 Golden Rod Launcher",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[102224] = {
 		unidentifiedDisplayName = "+11 Ancient Hero Equipment Unlock Cube",
 		unidentifiedResourceName = "Auto_M_I_Box_A",
@@ -288298,6 +289543,29 @@ tbl = {
 			"Loki's coin, the God of Tricks.",
 			"--------------------------",
 			"^0000FFAdds up to 2 random physical bonuses to the Seal of Loki.^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102485] = {
+		unidentifiedDisplayName = "Shadow Essence Box",
+		unidentifiedResourceName = "번호상자02",
+		unidentifiedDescriptionName = {
+			"Magic box containing 3x Shadow Essence.",
+			"--------------------------",
+			"<NAVI>[Ziki]<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Shadow Essence Box",
+		identifiedResourceName = "번호상자02",
+		identifiedDescriptionName = {
+			"Magic box containing 3x Shadow Essence.",
+			"--------------------------",
+			"<NAVI>[Ziki]<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -295148,6 +296416,63 @@ tbl = {
 			"Box with rewards for your position in the Guild Tournament ranking",
 			"-------------------------",
 			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[105407] = {
+		unidentifiedDisplayName = "Small Gourmet Bag",
+		unidentifiedResourceName = "복주머니",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Small Gourmet Bag",
+		identifiedResourceName = "복주머니",
+		identifiedDescriptionName = {
+			"A small bag for gastronomy beginners.",
+			"-------------------------",
+			"^0000FFContains Gourmet Coins.^000000",
+			"-------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[105408] = {
+		unidentifiedDisplayName = "Medium Gourmet Bag",
+		unidentifiedResourceName = "판매용상품자루",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Medium Gourmet Bag",
+		identifiedResourceName = "판매용상품자루",
+		identifiedDescriptionName = {
+			"A medium bag for gastronomy experts.",
+			"-------------------------",
+			"^0000FFContains Gourmet Coins.^000000",
+			"-------------------------",
+			"Weight: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[105409] = {
+		unidentifiedDisplayName = "Large Gourmet Bag",
+		unidentifiedResourceName = "RTC_Coin_Pocket_TW",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Large Gourmet Bag",
+		identifiedResourceName = "RTC_Coin_Pocket_TW",
+		identifiedDescriptionName = {
+			"A large bag for gastronomy veterans.",
+			"-------------------------",
+			"^0000FFContains Gourmet Coins.^000000",
+			"-------------------------",
+			"Weight: ^777777100^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -307125,6 +308450,375 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[108311] = {
+		unidentifiedDisplayName = "Gourmet Oval Artifact",
+		unidentifiedResourceName = "Costama_Egg104",
+		unidentifiedDescriptionName = {
+			"Special egg to celebrate the Prontera Gourmet Festival.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Gourmet Oval Artifact",
+		identifiedResourceName = "Costama_Egg104",
+		identifiedDescriptionName = {
+			"Special egg to celebrate the Prontera Gourmet Festival.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108312] = {
+		unidentifiedDisplayName = "[Event] Gourmet Oval Artifact",
+		unidentifiedResourceName = "Costama_Egg104",
+		unidentifiedDescriptionName = {
+			"Special egg to celebrate the Prontera Gourmet Festival.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Event] Gourmet Oval Artifact",
+		identifiedResourceName = "Costama_Egg104",
+		identifiedDescriptionName = {
+			"Special egg to celebrate the Prontera Gourmet Festival.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108313] = {
+		unidentifiedDisplayName = "Gourmet Oval Artifact Bag",
+		unidentifiedResourceName = "평범한주머니",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"A bag containing 1x Oval Artifact.",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Gourmet Oval Artifact Bag",
+		identifiedResourceName = "평범한주머니",
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"A bag containing 1x Oval Artifact.",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108314] = {
+		unidentifiedDisplayName = "Shadow Cube of Talents",
+		unidentifiedResourceName = "보라쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"Cube containing talent shadow equipment.",
+			"-------------------------",
+			"[^CD3278Random^000000]",
+			"^0000FFPOW Shadow Armor^000000",
+			"^0000FFPOW Shadow Shoes^000000",
+			"^0000FFSPL Shadow Armor^000000",
+			"^0000FFSPL Shadow Shoes^000000",
+			"^0000FFSTA Shadow Armor^000000",
+			"^0000FFSTA Shadow Shoes^000000",
+			"^0000FFWIS Shadow Armor^000000",
+			"^0000FFWIS Shadow Shoes^000000",
+			"^0000FFCON Shadow Armor^000000",
+			"^0000FFCON Shadow Shoes^000000",
+			"^0000FFCRT Shadow Armor^000000",
+			"^0000FFCRT Shadow Shoes^000000",
+			"-------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Shadow Cube of Talents",
+		identifiedResourceName = "보라쉐도우큐브",
+		identifiedDescriptionName = {
+			"Cube containing talent shadow equipment.",
+			"-------------------------",
+			"[^CD3278Random^000000]",
+			"^0000FFPOW Shadow Armor^000000",
+			"^0000FFPOW Shadow Shoes^000000",
+			"^0000FFSPL Shadow Armor^000000",
+			"^0000FFSPL Shadow Shoes^000000",
+			"^0000FFSTA Shadow Armor^000000",
+			"^0000FFSTA Shadow Shoes^000000",
+			"^0000FFWIS Shadow Armor^000000",
+			"^0000FFWIS Shadow Shoes^000000",
+			"^0000FFCON Shadow Armor^000000",
+			"^0000FFCON Shadow Shoes^000000",
+			"^0000FFCRT Shadow Armor^000000",
+			"^0000FFCRT Shadow Shoes^000000",
+			"-------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108315] = {
+		unidentifiedDisplayName = "Consecrated Box",
+		unidentifiedResourceName = "천사의알",
+		unidentifiedDescriptionName = {
+			"Decorative box containing a consecrated necklace.",
+			"-------------------------",
+			"[^CD3278Random^000000]",
+			"^0000ffConsecrated Necklace: Courage^000000",
+			"^0000ffConsecrated Necklace: Friendship^000000",
+			"^0000ffConsecrated Necklace: Love^000000",
+			"^0000ffConsecrated Necklace: Trust^000000",
+			"^0000ffConsecrated Necklace: Purity^000000",
+			"^0000ffConsecrated Necklace: Knowledge^000000",
+			"^0000ffConsecrated Necklace: Light^000000",
+			"^0000ffConsecrated Necklace: Hope^000000",
+			"^0000ffConsecrated Necklace: Destiny^000000",
+			"-------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Consecrated Box",
+		identifiedResourceName = "천사의알",
+		identifiedDescriptionName = {
+			"Decorative box containing a consecrated necklace.",
+			"-------------------------",
+			"[^CD3278Random^000000]",
+			"^0000ffConsecrated Necklace: Courage^000000",
+			"^0000ffConsecrated Necklace: Friendship^000000",
+			"^0000ffConsecrated Necklace: Love^000000",
+			"^0000ffConsecrated Necklace: Trust^000000",
+			"^0000ffConsecrated Necklace: Purity^000000",
+			"^0000ffConsecrated Necklace: Knowledge^000000",
+			"^0000ffConsecrated Necklace: Light^000000",
+			"^0000ffConsecrated Necklace: Hope^000000",
+			"^0000ffConsecrated Necklace: Destiny^000000",
+			"-------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108316] = {
+		unidentifiedDisplayName = "[Oct] Hunting Pack 1",
+		unidentifiedResourceName = "쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Hunt MVPs with this special pack!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Oct] Hunting Pack 1",
+		identifiedResourceName = "쉐도우큐브",
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Hunt MVPs with this special pack!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108317] = {
+		unidentifiedDisplayName = "[Oct] Hunting Pack 2",
+		unidentifiedResourceName = "쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Hunt MVPs with this special pack!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Oct] Hunting Pack 2",
+		identifiedResourceName = "쉐도우큐브",
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Hunt MVPs with this special pack!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108318] = {
+		unidentifiedDisplayName = "[Oct] Combat Box",
+		unidentifiedResourceName = "최하급직업박스",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Try this box filled with Manuals and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Oct] Combat Box",
+		identifiedResourceName = "최하급직업박스",
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Try this box filled with Manuals and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108319] = {
+		unidentifiedDisplayName = "[Oct] Consumables Box",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Try this box full of consumables and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Oct] Consumables Box",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Try this box full of consumables and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108320] = {
+		unidentifiedDisplayName = "Costume Stone Pack XVI",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack containing Nyangvine Fruit, Costume Stone Box and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Costume Stone Pack XVI",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack containing Nyangvine Fruit, Costume Stone Box and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108321] = {
+		unidentifiedDisplayName = "Large Costume Stone Pack XVI",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack containing Nyangvine Fruit, Costume Stone Box and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Large Costume Stone Pack XVI",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack containing Nyangvine Fruit, Costume Stone Box and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108322] = {
+		unidentifiedDisplayName = "Gourmet Pack I",
+		unidentifiedResourceName = "복주머니",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack with Prontera Gourmet Festival Coins.",
+			"-------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Gourmet Pack I",
+		identifiedResourceName = "복주머니",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack with Prontera Gourmet Festival Coins.",
+			"-------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108323] = {
+		unidentifiedDisplayName = "Gourmet Pack II",
+		unidentifiedResourceName = "판매용상품자루",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack with Prontera Gourmet Festival Coins.",
+			"-------------------------",
+			"Weight: ^777777100^000000"
+		},
+		identifiedDisplayName = "Gourmet Pack II",
+		identifiedResourceName = "판매용상품자루",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack with Prontera Gourmet Festival Coins.",
+			"-------------------------",
+			"Weight: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108324] = {
+		unidentifiedDisplayName = "Gourmet Pack III",
+		unidentifiedResourceName = "RTC_Coin_Pocket_TW",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack with Prontera Gourmet Festival Coins.",
+			"-------------------------",
+			"Weight: ^777777100^000000"
+		},
+		identifiedDisplayName = "Gourmet Pack III",
+		identifiedResourceName = "RTC_Coin_Pocket_TW",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special pack with Prontera Gourmet Festival Coins.",
+			"-------------------------",
+			"Weight: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108333] = {
+		unidentifiedDisplayName = "ROS Festa 2026 Special Package",
+		unidentifiedResourceName = "2024ROS_Box",
+		unidentifiedDescriptionName = {
+			"A Special Package for ROS Festa 2026."
+		},
+		identifiedDisplayName = "ROS Festa 2026 Special Package",
+		identifiedResourceName = "2024ROS_Box",
+		identifiedDescriptionName = {
+			"A Special Package for ROS Festa 2026.",
+			"^ff0000This item cannot be traded with other accounts.^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[200001] = {
 		unidentifiedDisplayName = "Invent Expand Coupon Box",
 		unidentifiedResourceName = "졸린상자",
@@ -316671,6 +318365,620 @@ tbl = {
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Shoes^000000",
 			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300359] = {
+		unidentifiedDisplayName = "Ice Ball Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"MATK + 10, S.MATK + 1.",
+			"Water property magic damage +4%; SP consumption when using skills +7%.",
+			"At +9 refinement, Water property magic damage +3%.",
+			"At +11 refinement, variable casting time -5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Ice Ball Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MATK + 10, S.MATK + 1.",
+			"Water property magic damage +4%; SP consumption when using skills +7%.",
+			"At +9 refinement, Water property magic damage +3%.",
+			"At +11 refinement, variable casting time -5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300360] = {
+		unidentifiedDisplayName = "Shining Seaweed Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"ATK + 10, P.ATK + 1.",
+			"Melee physical damage +3%; SP consumption when using skills +7%.",
+			"At +9 refinement, melee physical damage +2%.",
+			"At +11 refinement, variable casting time -5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Shining Seaweed Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"ATK + 10, P.ATK + 1.",
+			"Melee physical damage +3%; SP consumption when using skills +7%.",
+			"At +9 refinement, melee physical damage +2%.",
+			"At +11 refinement, variable casting time -5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300361] = {
+		unidentifiedDisplayName = "Ice Straw Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"S.MATK + 1; SP consumption when using skills +7%",
+			"Water property magic damage +4% for every 2 refinement levels.",
+			"When equipped with Ice Ball Card, MATK +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Ice Straw Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"S.MATK + 1; SP consumption when using skills +7%",
+			"Water property magic damage +4% for every 2 refinement levels.",
+			"When equipped with Ice Ball Card, MATK +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300362] = {
+		unidentifiedDisplayName = "Unfrozen Flower Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"P.ATK + 1; SP consumption when using skills +7%",
+			"Melee physical damage +4% for every 3 refinement levels.",
+			"When equipped with Shining Seaweed Card, ATK +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Unfrozen Flower Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"P.ATK + 1; SP consumption when using skills +7%",
+			"Melee physical damage +4% for every 3 refinement levels.",
+			"When equipped with Shining Seaweed Card, ATK +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300363] = {
+		unidentifiedDisplayName = "Remakina Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"ATK + 10, P.ATK + 1.",
+			"Ranged physical damage +3%; SP consumption when using skills +7%.",
+			"At +9 refinement, ranged physical damage +2%.",
+			"At +11 refinement, variable casting time -5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Remakina Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"ATK + 10, P.ATK + 1.",
+			"Ranged physical damage +3%; SP consumption when using skills +7%.",
+			"At +9 refinement, ranged physical damage +2%.",
+			"At +11 refinement, variable casting time -5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300364] = {
+		unidentifiedDisplayName = "Calamaring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Water property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Calamaring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Water property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300365] = {
+		unidentifiedDisplayName = "Primitive Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Melee physical damage +8%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Right)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Primitive Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Melee physical damage +8%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Right)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300366] = {
+		unidentifiedDisplayName = "Lowest Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"CRI + 6, C.Rate + 1.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Right)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Lowest Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"CRI + 6, C.Rate + 1.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Right)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300367] = {
+		unidentifiedDisplayName = "Low Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Melee physical damage +8%.",
+			"When equipped with Primitive Rgan Card, variable casting time -8%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Low Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Melee physical damage +8%.",
+			"When equipped with Primitive Rgan Card, variable casting time -8%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300368] = {
+		unidentifiedDisplayName = "Intermediate Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"CRI + 6, C.Rate + 1.",
+			"When equipped with Lowest Rgan Card, critical damage +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Intermediate Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"CRI + 6, C.Rate + 1.",
+			"When equipped with Lowest Rgan Card, critical damage +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300369] = {
+		unidentifiedDisplayName = "Discarded Primitive Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Shadow property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Discarded Primitive Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Shadow property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300370] = {
+		unidentifiedDisplayName = "Discarded Intermediate Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Ghost property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Discarded Intermediate Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Ghost property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300371] = {
+		unidentifiedDisplayName = "Cave Calamaring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Poison property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Cave Calamaring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Poison property magic damage +35%.",
+			"SP consumption when using skills +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Accessory (Left)^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300372] = {
+		unidentifiedDisplayName = "Cave Immobilizer Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Neutral property resistance +15%.",
+			"Ghost property magic damage +3% per refinement level.",
+			"When equipped with Discarded Primitive Rgan Card,",
+			"Neutral property resistance +5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Cave Immobilizer Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Neutral property resistance +15%.",
+			"Ghost property magic damage +3% per refinement level.",
+			"When equipped with Discarded Primitive Rgan Card,",
+			"Neutral property resistance +5%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300373] = {
+		unidentifiedDisplayName = "Baby Hallucigenia Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"DEF - 30, RES + 15.",
+			"Physical and magical damage taken from Earth property, Insect race, and Small size enemies -15%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Shield^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Baby Hallucigenia Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"DEF - 30, RES + 15.",
+			"Physical and magical damage taken from Earth property, Insect race, and Small size enemies -15%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Shield^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300374] = {
+		unidentifiedDisplayName = "Hallucigenia Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"MHP - 10%, MSP + 10%.",
+			"P.ATK + 1, S.MATK + 1.",
+			"When equipped with Baby Hallucigenia Card, physical and magical damage against Earth property, Insect race, and Small size enemies +9%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Footgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Hallucigenia Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MHP - 10%, MSP + 10%.",
+			"P.ATK + 1, S.MATK + 1.",
+			"When equipped with Baby Hallucigenia Card, physical and magical damage against Earth property, Insect race, and Small size enemies +9%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Footgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300375] = {
+		unidentifiedDisplayName = "One-Eyed Dolocaris Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Neutral property resistance +20%.",
+			"Below +12 refinement, Shadow, Holy, Ghost, and Neutral property magic damage -25%.",
+			"At +12 refinement or higher, Shadow, Holy, Ghost, and Neutral property magic damage +25%.",
+			"If armor level is 2, Shadow, Holy, Ghost, and Neutral property magic damage +8%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "One-Eyed Dolocaris Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Neutral property resistance +20%.",
+			"Below +12 refinement, Shadow, Holy, Ghost, and Neutral property magic damage -25%.",
+			"At +12 refinement or higher, Shadow, Holy, Ghost, and Neutral property magic damage +25%.",
+			"If armor level is 2, Shadow, Holy, Ghost, and Neutral property magic damage +8%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300376] = {
+		unidentifiedDisplayName = "Two-Eyed Dolocaris Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"DEF + 100, RES + 50.",
+			"Below +12 refinement, MHP - 30%, ATK - 10%, MATK - 10%.",
+			"At +12 refinement or higher, MHP + 30%, ATK + 10%, MATK + 10%.",
+			"If armor level is 2, RES + 50.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Two-Eyed Dolocaris Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"DEF + 100, RES + 50.",
+			"Below +12 refinement, MHP - 30%, ATK - 10%, MATK - 10%.",
+			"At +12 refinement or higher, MHP + 30%, ATK + 10%, MATK + 10%.",
+			"If armor level is 2, RES + 50.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300377] = {
+		unidentifiedDisplayName = "Ultra Remakina Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"ATK + 5%, MATK + 5%.",
+			"For every 3 refinement levels, P.ATK + 2 and S.MATK + 2.",
+			"At +11 refinement or higher, fixed casting time -0.5 seconds.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Ultra Remakina Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"ATK + 5%, MATK + 5%.",
+			"For every 3 refinement levels, P.ATK + 2 and S.MATK + 2.",
+			"At +11 refinement or higher, fixed casting time -0.5 seconds.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Headgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300378] = {
+		unidentifiedDisplayName = "Simulation Juncea Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"P.ATK + 20, S.MATK + 20.",
+			"Armor cannot be destroyed.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Simulation Juncea Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"P.ATK + 20, S.MATK + 20.",
+			"Armor cannot be destroyed.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300379] = {
+		unidentifiedDisplayName = "Modified High Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Physical and magical damage taken from monsters of all races -15% (excluding players).",
+			"Below +12 refinement, physical and magical damage taken from enemies of all sizes +25%.",
+			"At +12 refinement or higher, physical and magical damage taken from enemies of all sizes -25%.",
+			"If armor level is 2, RES + 50 and MRES + 50.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Shield^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Modified High Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Physical and magical damage taken from monsters of all races -15% (excluding players).",
+			"Below +12 refinement, physical and magical damage taken from enemies of all sizes +25%.",
+			"At +12 refinement or higher, physical and magical damage taken from enemies of all sizes -25%.",
+			"If armor level is 2, RES + 50 and MRES + 50.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Shield^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300380] = {
+		unidentifiedDisplayName = "Entangled Intermediate Rgan Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"CRI + 5.",
+			"Below +12 refinement, CRI - 15 and critical damage -10%.",
+			"At +12 refinement or higher, CRI + 15 and critical damage +10%.",
+			"If armor level is 2, C.RATE + 5.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Footgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Entangled Intermediate Rgan Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"CRI + 5.",
+			"Below +12 refinement, CRI - 15 and critical damage -10%.",
+			"At +12 refinement or higher, CRI + 15 and critical damage +10%.",
+			"If armor level is 2, C.RATE + 5.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Footgear^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300381] = {
+		unidentifiedDisplayName = "Heart Hunter AT Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"P.ATK + 1; SP consumption when using skills +7%",
+			"Ranged physical damage +4% for every 3 refinement levels.",
+			"When equipped with Remakina Card, ATK +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Heart Hunter AT Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"P.ATK + 1; SP consumption when using skills +7%",
+			"Ranged physical damage +4% for every 3 refinement levels.",
+			"When equipped with Remakina Card, ATK +10%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Armor^000000",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300382] = {
+		unidentifiedDisplayName = "Aquila Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Poison and Undead property magic damage +100%.",
+			"Resistance to attacks of all properties -30%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
+		},
+		identifiedDisplayName = "Aquila Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Poison and Undead property magic damage +100%.",
+			"Resistance to attacks of all properties -30%.",
+			"Type : ^777777Card^000000",
+			"Equip : ^777777Garment^000000",
+			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330093,22 +332401,22 @@ tbl = {
 		unidentifiedDisplayName = "Musicians (Top)",
 		unidentifiedResourceName = "ClownGypsy_Figure",
 		unidentifiedDescriptionName = {
-			"For each level of [Musical Domination]:",
-			"^0000ffVariable Casting -1%.^000000",
-			"^fa4e09Musicians (Garment)^000000",
-			"^0000ff2% chance to convert 1% of physical damage dealt into SP.^000000",
-			"^fa4e09Musicians II (Garment)^000000",
-			"^0000ff[Screaming] damage +15%.^000000"
+			"For each level of [Voice Lessons]:",
+			"^0000FFVariable Casting -1%.^000000",
+			"^FA4E09Musicians (Garment)^000000",
+			"^0000FF2% chance to convert 1% of physical damage dealt into SP.^000000",
+			"^FA4E09Musicians II (Garment)^000000",
+			"^0000FF[Screaming] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Musicians (Top)",
 		identifiedResourceName = "ClownGypsy_Figure",
 		identifiedDescriptionName = {
-			"For each level of [Musical Domination]:",
-			"^0000ffVariable Casting -1%.^000000",
-			"^fa4e09Musicians (Garment)^000000",
-			"^0000ff2% chance to convert 1% of physical damage dealt into SP.^000000",
-			"^fa4e09Musicians II (Garment)^000000",
-			"^0000ff[Screaming] damage +15%.^000000"
+			"For each level of [Voice Lessons]:",
+			"^0000FFVariable Casting -1%.^000000",
+			"^FA4E09Musicians (Garment)^000000",
+			"^0000FF2% chance to convert 1% of physical damage dealt into SP.^000000",
+			"^FA4E09Musicians II (Garment)^000000",
+			"^0000FF[Screaming] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330118,20 +332426,22 @@ tbl = {
 		unidentifiedDisplayName = "Musicians (Middle)",
 		unidentifiedResourceName = "ClownGypsy_Figure",
 		unidentifiedDescriptionName = {
-			"For each level of [Eir's Whistle]:",
-			"^fa4e09Musicians (Garment)^000000",
-			"^0000ffPhysical damage against all sizes +15%.^000000",
-			"^fa4e09Musicians II (Garment)^000000",
-			"^0000ffMagic damage of all properties +15%.^000000"
+			"For each level of [Circle of Nature]:",
+			"Recharge for Metallic Sound and Severe Rainstorm -0.1 second.",
+			"^FA4E09Musicians (Garment)^000000",
+			"^0000FFPhysical damage against all sizes +15%.^000000",
+			"^FA4E09Musicians II (Garment)^000000",
+			"^0000FFMagic damage of all properties +15%.^000000"
 		},
 		identifiedDisplayName = "Musicians (Middle)",
 		identifiedResourceName = "ClownGypsy_Figure",
 		identifiedDescriptionName = {
-			"For each level of [Eir's Whistle]:",
-			"^fa4e09Musicians (Garment)^000000",
-			"^0000ffPhysical damage against all sizes +15%.^000000",
-			"^fa4e09Musicians II (Garment)^000000",
-			"^0000ffMagic damage of all properties +15%.^000000"
+			"For each level of [Circle of Nature]:",
+			"Recharge for Metallic Sound and Severe Rainstorm -0.1 second.",
+			"^FA4E09Musicians (Garment)^000000",
+			"^0000FFPhysical damage against all sizes +15%.^000000",
+			"^FA4E09Musicians II (Garment)^000000",
+			"^0000FFMagic damage of all properties +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330141,20 +332451,22 @@ tbl = {
 		unidentifiedDisplayName = "Musicians (Bottom)",
 		unidentifiedResourceName = "ClownGypsy_Figure",
 		unidentifiedDescriptionName = {
-			"For each level of [Frigg's Song]:",
-			"^fa4e09Musicians (Garment)^000000",
-			"^0000ff[Arrow Storm] damage +15%.^000000",
-			"^fa4e09Musicians II (Garment)^000000",
-			"^0000ff[Resonance] damage +15%.^000000"
+			"For each level of [Circle of Nature]:",
+			"Recharge for Metallic Sound and Severe Rainstorm -0.1 second.",
+			"^FA4E09Musicians (Garment)^000000",
+			"^0000FFPhysical damage against all sizes +15%.^000000",
+			"^FA4E09Musicians II (Garment)^000000",
+			"^0000FFMagic damage of all properties +15%.^000000"
 		},
 		identifiedDisplayName = "Musicians (Bottom)",
 		identifiedResourceName = "ClownGypsy_Figure",
 		identifiedDescriptionName = {
-			"For each level of [Frigg's Song]:",
-			"^fa4e09Musicians (Garment)^000000",
-			"^0000ff[Arrow Storm] damage +15%.^000000",
-			"^fa4e09Musicians II (Garment)^000000",
-			"^0000ff[Resonance] damage +15%.^000000"
+			"For each level of [Circle of Nature]:",
+			"Recharge for Metallic Sound and Severe Rainstorm -0.1 second.",
+			"^FA4E09Musicians (Garment)^000000",
+			"^0000FFPhysical damage against all sizes +15%.^000000",
+			"^FA4E09Musicians II (Garment)^000000",
+			"^0000FFMagic damage of all properties +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330164,20 +332476,22 @@ tbl = {
 		unidentifiedDisplayName = "Biochemist (Top)",
 		unidentifiedResourceName = "Creator_Figure",
 		unidentifiedDescriptionName = {
-			"For each level of [Proton Cannon]:",
-			"^fa4e09Biochemist (Garment)^000000",
-			"^0000ff[Acid Bomb] damage +15%.^000000",
-			"^fa4e09Biochemist II (Garment)^000000",
-			"^0000ff[Explosive Spore] damage +15%.^000000"
+			"For each level of [Cart Cannon]:",
+			"^0000FFRanged physical damage +2%.^000000",
+			"^FA4E09Biochemist (Garment)^000000",
+			"^0000FF[Acid Bomb] damage +15%.^000000",
+			"^FA4E09Biochemist II (Garment)^000000",
+			"^0000FF[Spore Explosion] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Biochemist (Top)",
 		identifiedResourceName = "Creator_Figure",
 		identifiedDescriptionName = {
-			"For each level of [Proton Cannon]:",
-			"^fa4e09Biochemist (Garment)^000000",
-			"^0000ff[Acid Bomb] damage +15%.^000000",
-			"^fa4e09Biochemist II (Garment)^000000",
-			"^0000ff[Explosive Spore] damage +15%.^000000"
+			"For each level of [Cart Cannon]:",
+			"^0000FFRanged physical damage +2%.^000000",
+			"^FA4E09Biochemist (Garment)^000000",
+			"^0000FF[Acid Bomb] damage +15%.^000000",
+			"^FA4E09Biochemist II (Garment)^000000",
+			"^0000FF[Spore Explosion] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330188,19 +332502,21 @@ tbl = {
 		unidentifiedResourceName = "Creator_Figure",
 		unidentifiedDescriptionName = {
 			"For each level of [Cart Boost]:",
-			"^fa4e09Biochemist (Garment)^000000",
-			"^0000ff[Proton Cannon] damage +15%.^000000",
-			"^fa4e09Biochemist II (Garment)^000000",
-			"^0000ff[Cart Tornado] damage +15%.^000000"
+			"^0000FFVariable cast -2%.^000000",
+			"^FA4E09Biochemist (Garment)^000000",
+			"^0000FF[Cart Cannon] damage +15%.^000000",
+			"^FA4E09Biochemist II (Garment)^000000",
+			"^0000FF[Cart Tornado] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Biochemist (Middle)",
 		identifiedResourceName = "Creator_Figure",
 		identifiedDescriptionName = {
 			"For each level of [Cart Boost]:",
-			"^fa4e09Biochemist (Garment)^000000",
-			"^0000ff[Proton Cannon] damage +15%.^000000",
-			"^fa4e09Biochemist II (Garment)^000000",
-			"^0000ff[Cart Tornado] damage +15%.^000000"
+			"^0000FFVariable cast -2%.^000000",
+			"^FA4E09Biochemist (Garment)^000000",
+			"^0000FF[Cart Cannon] damage +15%.^000000",
+			"^FA4E09Biochemist II (Garment)^000000",
+			"^0000FF[Cart Tornado] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330211,19 +332527,21 @@ tbl = {
 		unidentifiedResourceName = "Creator_Figure",
 		unidentifiedDescriptionName = {
 			"For each level of [Fencing Mastery]:",
-			"^fa4e09Biochemist (Garment)^000000",
-			"^0000ff[Acid Bomb] damage +15%.^000000",
-			"^fa4e09Biochemist II (Garment)^000000",
-			"^0000ff[Cart Tornado] damage +15%.^000000"
+			"^0000FFFixed Cast -0.1 seconds.^000000",
+			"^FA4E09Biochemist (Garment)^000000",
+			"^0000FF[Acid Bomb] damage +15%.^000000",
+			"^FA4E09Biochemist II (Garment)^000000",
+			"^0000FF[Cart Tornado] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Biochemist (Bottom)",
 		identifiedResourceName = "Creator_Figure",
 		identifiedDescriptionName = {
 			"For each level of [Fencing Mastery]:",
-			"^fa4e09Biochemist (Garment)^000000",
-			"^0000ff[Acid Bomb] damage +15%.^000000",
-			"^fa4e09Biochemist II (Garment)^000000",
-			"^0000ff[Cart Tornado] damage +15%.^000000"
+			"^0000FFFixed Cast -0.1 seconds.^000000",
+			"^FA4E09Biochemist (Garment)^000000",
+			"^0000FF[Acid Bomb] damage +15%.^000000",
+			"^FA4E09Biochemist II (Garment)^000000",
+			"^0000FF[Cart Tornado] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330233,20 +332551,22 @@ tbl = {
 		unidentifiedDisplayName = "Warlock (Top)",
 		unidentifiedResourceName = "Professor_Figure",
 		unidentifiedDescriptionName = {
-			"For each level of [Orion's Enchant]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Jormungand's Curse] cooldown -2 seconds.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Nerthus' Punishment] damage +15%.^000000"
+			"For each level of [Striking]:",
+			"^0000FFFixed Cast -0.1 seconds.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Killing Cloud] cooldown -2 seconds.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Earth Grave] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Warlock (Top)",
 		identifiedResourceName = "Professor_Figure",
 		identifiedDescriptionName = {
-			"For each level of [Orion's Enchant]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Jormungand's Curse] cooldown -2 seconds.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Nerthus' Punishment] damage +15%.^000000"
+			"For each level of [Striking]:",
+			"^0000FFFixed Cast -0.1 seconds.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Killing Cloud] cooldown -2 seconds.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Earth Grave] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330257,19 +332577,21 @@ tbl = {
 		unidentifiedResourceName = "Professor_Figure",
 		unidentifiedDescriptionName = {
 			"For each level of [Diamond Dust]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Psychic Wave] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Aesir's Spears] damage +15%.^000000"
+			"^0000FFVariable Cast Time -1%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Psychic Wave] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Varetyr Spear] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Warlock (Middle)",
 		identifiedResourceName = "Professor_Figure",
 		identifiedDescriptionName = {
 			"For each level of [Diamond Dust]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Psychic Wave] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Aesir's Spears] damage +15%.^000000"
+			"^0000FFVariable Cast Time -1%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Psychic Wave] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Varetyr Spear] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -330279,20 +332601,22 @@ tbl = {
 		unidentifiedDisplayName = "Warlock (Bottom)",
 		unidentifiedResourceName = "Professor_Figure",
 		unidentifiedDescriptionName = {
-			"For each level of [Nerthus' Punishment]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Toxic Implosion] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Diamond Dust] damage +15%.^000000"
+			"For each level of [Earth Grave]:",
+			"^0000FFAll properties Magic Damage +2%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Poison Burst] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Diamond Dust] damage +15%.^000000"
 		},
 		identifiedDisplayName = "Warlock (Bottom)",
 		identifiedResourceName = "Professor_Figure",
 		identifiedDescriptionName = {
-			"For each level of [Nerthus' Punishment]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Toxic Implosion] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Diamond Dust] damage +15%.^000000"
+			"For each level of [Earth Grave]:",
+			"^0000FFAll properties Magic Damage +2%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Poison Burst] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Diamond Dust] damage +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -331975,6 +334299,5223 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[311092] = {
+		unidentifiedDisplayName = "Ice Flower Spell (STR)",
+		unidentifiedResourceName = "Ice_F_Orb_Str",
+		unidentifiedDescriptionName = {
+			"STR + 3.",
+			"At Refine Level 7, additionally increases STR by 1.",
+			"At Refine Level 9, additionally increases STR by 1.",
+			"At Refine Level 11, POW + 1, increases melee physical damage by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (STR)",
+		identifiedResourceName = "Ice_F_Orb_Str",
+		identifiedDescriptionName = {
+			"STR + 3.",
+			"At Refine Level 7, additionally increases STR by 1.",
+			"At Refine Level 9, additionally increases STR by 1.",
+			"At Refine Level 11, POW + 1, increases melee physical damage by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311093] = {
+		unidentifiedDisplayName = "Ice Flower Spell (DEX)",
+		unidentifiedResourceName = "Ice_F_Orb_Dex",
+		unidentifiedDescriptionName = {
+			"DEX + 3.",
+			"At Refine Level 7, additionally increases DEX by 1.",
+			"At Refine Level 9, additionally increases DEX by 1.",
+			"At Refine Level 11, CON +1, increases ranged physical damage by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (DEX)",
+		identifiedResourceName = "Ice_F_Orb_Dex",
+		identifiedDescriptionName = {
+			"DEX + 3.",
+			"At Refine Level 7, additionally increases DEX by 1.",
+			"At Refine Level 9, additionally increases DEX by 1.",
+			"At Refine Level 11, CON +1, increases ranged physical damage by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311094] = {
+		unidentifiedDisplayName = "Ice Flower Spell (AGI)",
+		unidentifiedResourceName = "Ice_F_Orb_Agi",
+		unidentifiedDescriptionName = {
+			"AGI + 3.",
+			"At Refine Level 7, additionally increases AGI by 1.",
+			"At Refine Level 9, additionally increases AGI by 1.",
+			"At Refine Level 11, WIS + 1, increases guided attack chance by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (AGI)",
+		identifiedResourceName = "Ice_F_Orb_Agi",
+		identifiedDescriptionName = {
+			"AGI + 3.",
+			"At Refine Level 7, additionally increases AGI by 1.",
+			"At Refine Level 9, additionally increases AGI by 1.",
+			"At Refine Level 11, WIS + 1, increases guided attack chance by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311095] = {
+		unidentifiedDisplayName = "Ice Flower Spell (INT)",
+		unidentifiedResourceName = "Ice_F_Orb_Int",
+		unidentifiedDescriptionName = {
+			"INT + 3.",
+			"At Refine Level 7, additionally increases INT by 1.",
+			"At Refine Level 9, additionally increases INT by 1.",
+			"At Refine Level 11, SPL + 1, increases magical damage of all properties by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (INT)",
+		identifiedResourceName = "Ice_F_Orb_Int",
+		identifiedDescriptionName = {
+			"INT + 3.",
+			"At Refine Level 7, additionally increases INT by 1.",
+			"At Refine Level 9, additionally increases INT by 1.",
+			"At Refine Level 11, SPL + 1, increases magical damage of all properties by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311096] = {
+		unidentifiedDisplayName = "Ice Flower Spell (VIT)",
+		unidentifiedResourceName = "Ice_F_Orb_Vit",
+		unidentifiedDescriptionName = {
+			"VIT + 3.",
+			"At Refine Level 7, additionally increases VIT by 1.",
+			"At Refine Level 9, additionally increases VIT by 1.",
+			"At Refine Level 11, STA + 1, reduces skill delay by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (VIT)",
+		identifiedResourceName = "Ice_F_Orb_Vit",
+		identifiedDescriptionName = {
+			"VIT + 3.",
+			"At Refine Level 7, additionally increases VIT by 1.",
+			"At Refine Level 9, additionally increases VIT by 1.",
+			"At Refine Level 11, STA + 1, reduces skill delay by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311097] = {
+		unidentifiedDisplayName = "Ice Flower Spell (LUK)",
+		unidentifiedResourceName = "Ice_F_Orb_luk",
+		unidentifiedDescriptionName = {
+			"LUK + 3.",
+			"At Refine Level 7, additionally increases LUK by 1.",
+			"At Refine Level 9, additionally increases LUK by 1.",
+			"At Refine Level 11, CRT + 1, increases critical damage by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (LUK)",
+		identifiedResourceName = "Ice_F_Orb_luk",
+		identifiedDescriptionName = {
+			"LUK + 3.",
+			"At Refine Level 7, additionally increases LUK by 1.",
+			"At Refine Level 9, additionally increases LUK by 1.",
+			"At Refine Level 11, CRT + 1, increases critical damage by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311098] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Physical Defense)",
+		unidentifiedResourceName = "Ice_F_Orb_Def",
+		unidentifiedDescriptionName = {
+			"DEF + 250, RES + 50.",
+			"At Refine Level 7, additionally increases DEF by 75 and RES by 10.",
+			"At Refine Level 9, additionally increases DEF by 100 and RES by 10.",
+			"At Refine Level 11, additionally increases DEF by 100 and RES by 10."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Physical Defense)",
+		identifiedResourceName = "Ice_F_Orb_Def",
+		identifiedDescriptionName = {
+			"DEF + 250, RES + 50.",
+			"At Refine Level 7, additionally increases DEF by 75 and RES by 10.",
+			"At Refine Level 9, additionally increases DEF by 100 and RES by 10.",
+			"At Refine Level 11, additionally increases DEF by 100 and RES by 10."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311099] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Magical Defense)",
+		unidentifiedResourceName = "Ice_F_Orb_Mdef",
+		unidentifiedDescriptionName = {
+			"MDEF + 25, MRES + 25.",
+			"At Refine Level 7, additionally increases MDEF by 7 and MRES by 5.",
+			"At Refine Level 9, additionally increases MDEF by 10 and MRES by 5.",
+			"At Refine Level 11, additionally increases MDEF by 10 and MRES by 5."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Magical Defense)",
+		identifiedResourceName = "Ice_F_Orb_Mdef",
+		identifiedDescriptionName = {
+			"MDEF + 25, MRES + 25.",
+			"At Refine Level 7, additionally increases MDEF by 7 and MRES by 5.",
+			"At Refine Level 9, additionally increases MDEF by 10 and MRES by 5.",
+			"At Refine Level 11, additionally increases MDEF by 10 and MRES by 5."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311100] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Shooter)",
+		unidentifiedResourceName = "Ice_F_Orb_Ran",
+		unidentifiedDescriptionName = {
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 9, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 11, additionally increases ranged physical damage by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Shooter)",
+		identifiedResourceName = "Ice_F_Orb_Ran",
+		identifiedDescriptionName = {
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 9, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 11, additionally increases ranged physical damage by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311101] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Warrior)",
+		unidentifiedResourceName = "Ice_F_Orb_War",
+		unidentifiedDescriptionName = {
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases melee physical damage by 5%.",
+			"At Refine Level 9, additionally increases melee physical damage by 5%.",
+			"At Refine Level 11, additionally increases melee physical damage by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Warrior)",
+		identifiedResourceName = "Ice_F_Orb_War",
+		identifiedDescriptionName = {
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases melee physical damage by 5%.",
+			"At Refine Level 9, additionally increases melee physical damage by 5%.",
+			"At Refine Level 11, additionally increases melee physical damage by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311102] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Magician)",
+		unidentifiedResourceName = "Ice_F_Orb_Mag",
+		unidentifiedDescriptionName = {
+			"MATK + 6%, MATK + 100.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Magician)",
+		identifiedResourceName = "Ice_F_Orb_Mag",
+		identifiedDescriptionName = {
+			"MATK + 6%, MATK + 100.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311103] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Reflection Reject)",
+		unidentifiedResourceName = "Ice_F_Orb_R_Reject",
+		unidentifiedDescriptionName = {
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 4%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Reflection Reject)",
+		identifiedResourceName = "Ice_F_Orb_R_Reject",
+		identifiedDescriptionName = {
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311104] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Power Force)",
+		unidentifiedResourceName = "Ice_F_Orb_Force",
+		unidentifiedDescriptionName = {
+			"ATK + 2%, MATK + 2%.",
+			"At Refine Level 7, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 9, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 11, additionally increases ATK and MATK by 4%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Power Force)",
+		identifiedResourceName = "Ice_F_Orb_Force",
+		identifiedDescriptionName = {
+			"ATK + 2%, MATK + 2%.",
+			"At Refine Level 7, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 9, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 11, additionally increases ATK and MATK by 4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311105] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Global Cooldown)",
+		unidentifiedResourceName = "Ice_F_Orb_S_Delay",
+		unidentifiedDescriptionName = {
+			"Reduces skill delay by 4%.",
+			"At Refine Level 7, additionally reduces skill delay by 4%.",
+			"At Refine Level 9, additionally reduces skill delay by 4%.",
+			"At Refine Level 11, additionally reduces skill delay by 4%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Global Cooldown)",
+		identifiedResourceName = "Ice_F_Orb_S_Delay",
+		identifiedDescriptionName = {
+			"Reduces skill delay by 4%.",
+			"At Refine Level 7, additionally reduces skill delay by 4%.",
+			"At Refine Level 9, additionally reduces skill delay by 4%.",
+			"At Refine Level 11, additionally reduces skill delay by 4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311106] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Speed)",
+		unidentifiedResourceName = "Ice_F_Orb_Speed",
+		unidentifiedDescriptionName = {
+			"FLEE + 30.",
+			"At Refine Level 7, increases attack speed (reduces delay after attack by 8%).",
+			"At Refine Level 9, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"At Refine Level 11, additionally increases attack speed (further reduces delay after attack by 8%)."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Speed)",
+		identifiedResourceName = "Ice_F_Orb_Speed",
+		identifiedDescriptionName = {
+			"FLEE + 30.",
+			"At Refine Level 7, increases attack speed (reduces delay after attack by 8%).",
+			"At Refine Level 9, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"At Refine Level 11, additionally increases attack speed (further reduces delay after attack by 8%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311107] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Caster)",
+		unidentifiedResourceName = "Ice_F_Orb_Caster",
+		unidentifiedDescriptionName = {
+			"MATK + 30, reduces variable cast time by 8%.",
+			"At Refine Level 7, additionally reduces variable cast time by 8%.",
+			"At Refine Level 9, additionally reduces variable cast time by 8%.",
+			"At Refine Level 11, additionally reduces variable cast time by 8%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Caster)",
+		identifiedResourceName = "Ice_F_Orb_Caster",
+		identifiedDescriptionName = {
+			"MATK + 30, reduces variable cast time by 8%.",
+			"At Refine Level 7, additionally reduces variable cast time by 8%.",
+			"At Refine Level 9, additionally reduces variable cast time by 8%.",
+			"At Refine Level 11, additionally reduces variable cast time by 8%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311108] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Critical)",
+		unidentifiedResourceName = "Ice_F_Orb_Critical",
+		unidentifiedDescriptionName = {
+			"CRI + 15.",
+			"At Refine Level 7, increases critical damage by 8%.",
+			"At Refine Level 9, additionally increases critical damage by 8%.",
+			"At Refine Level 11, additionally increases critical damage by 8%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Critical)",
+		identifiedResourceName = "Ice_F_Orb_Critical",
+		identifiedDescriptionName = {
+			"CRI + 15.",
+			"At Refine Level 7, increases critical damage by 8%.",
+			"At Refine Level 9, additionally increases critical damage by 8%.",
+			"At Refine Level 11, additionally increases critical damage by 8%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311109] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Guide Attack)",
+		unidentifiedResourceName = "Ice_F_Orb_Guide",
+		unidentifiedDescriptionName = {
+			"HIT + 30.",
+			"At Refine Level 7, increases guided attack chance by 8%.",
+			"At Refine Level 9, increases guided attack chance by 8%.",
+			"At Refine Level 11, increases guided attack chance by 8%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Guide Attack)",
+		identifiedResourceName = "Ice_F_Orb_Guide",
+		identifiedDescriptionName = {
+			"HIT + 30.",
+			"At Refine Level 7, increases guided attack chance by 8%.",
+			"At Refine Level 9, increases guided attack chance by 8%.",
+			"At Refine Level 11, increases guided attack chance by 8%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311110] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Above All)",
+		unidentifiedResourceName = "Ice_F_Orb_Above",
+		unidentifiedDescriptionName = {
+			"Reduces physical/magical damage received from Normal and Boss monsters by 7%.",
+			"At Refine Level 7, reduces physical/magical damage received from enemies of all properties by 7%.",
+			"At Refine Level 9, reduces physical/magical damage received from enemies of all sizes by 7%.",
+			"At Refine Level 11, reduces physical/magical damage received from monsters of all races by 7% (excluding Players)."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Above All)",
+		identifiedResourceName = "Ice_F_Orb_Above",
+		identifiedDescriptionName = {
+			"Reduces physical/magical damage received from Normal and Boss monsters by 7%.",
+			"At Refine Level 7, reduces physical/magical damage received from enemies of all properties by 7%.",
+			"At Refine Level 9, reduces physical/magical damage received from enemies of all sizes by 7%.",
+			"At Refine Level 11, reduces physical/magical damage received from monsters of all races by 7% (excluding Players)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311111] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Powerful)",
+		unidentifiedResourceName = "Ice_F_Orb_P_Full",
+		unidentifiedDescriptionName = {
+			"Increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 7, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 9, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 11, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Powerful)",
+		identifiedResourceName = "Ice_F_Orb_P_Full",
+		identifiedDescriptionName = {
+			"Increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 7, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 9, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 11, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311112] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Mirror Counter)",
+		unidentifiedResourceName = "Ice_F_Orb_M_Counter",
+		unidentifiedDescriptionName = {
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 5%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Mirror Counter)",
+		identifiedResourceName = "Ice_F_Orb_M_Counter",
+		identifiedDescriptionName = {
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 5%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311113] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Vital)",
+		unidentifiedResourceName = "Ice_F_Orb_Hp",
+		unidentifiedDescriptionName = {
+			"MHP + 5%, MHP + 2500.",
+			"At Refine Level 7, additionally increases MHP by 5%.",
+			"At Refine Level 9, additionally increases MHP by 5%.",
+			"At Refine Level 11, additionally increases MHP by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Vital)",
+		identifiedResourceName = "Ice_F_Orb_Hp",
+		identifiedDescriptionName = {
+			"MHP + 5%, MHP + 2500.",
+			"At Refine Level 7, additionally increases MHP by 5%.",
+			"At Refine Level 9, additionally increases MHP by 5%.",
+			"At Refine Level 11, additionally increases MHP by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311114] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Mental)",
+		unidentifiedResourceName = "Ice_F_Orb_Sp",
+		unidentifiedDescriptionName = {
+			"MSP + 5%, MSP + 450.",
+			"At Refine Level 7, additionally increases MSP by 5%.",
+			"At Refine Level 9, additionally increases MSP by 5%.",
+			"At Refine Level 11, additionally increases MSP by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Mental)",
+		identifiedResourceName = "Ice_F_Orb_Sp",
+		identifiedDescriptionName = {
+			"MSP + 5%, MSP + 450.",
+			"At Refine Level 7, additionally increases MSP by 5%.",
+			"At Refine Level 9, additionally increases MSP by 5%.",
+			"At Refine Level 11, additionally increases MSP by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311115] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Heal)",
+		unidentifiedResourceName = "Ice_F_Orb_Heal",
+		unidentifiedDescriptionName = {
+			"Increases healing effectiveness by 5%.",
+			"At Refine Level 7, additionally increases healing effectiveness by 5%.",
+			"At Refine Level 9, additionally increases healing effectiveness by 7%.",
+			"At Refine Level 11, additionally increases healing effectiveness by 7%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Heal)",
+		identifiedResourceName = "Ice_F_Orb_Heal",
+		identifiedDescriptionName = {
+			"Increases healing effectiveness by 5%.",
+			"At Refine Level 7, additionally increases healing effectiveness by 5%.",
+			"At Refine Level 9, additionally increases healing effectiveness by 7%.",
+			"At Refine Level 11, additionally increases healing effectiveness by 7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311116] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Robust)",
+		unidentifiedResourceName = "Ice_F_Orb_Robust",
+		unidentifiedDescriptionName = {
+			"MHP + 5%, MSP + 5%, MHP + 2000, MSP + 350.",
+			"At Refine Level 7, additionally increases MHP and MSP by 3%.",
+			"At Refine Level 9, additionally increases MHP and MSP by 4%.",
+			"At Refine Level 11, additionally increases MHP and MSP by 5%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Robust)",
+		identifiedResourceName = "Ice_F_Orb_Robust",
+		identifiedDescriptionName = {
+			"MHP + 5%, MSP + 5%, MHP + 2000, MSP + 350.",
+			"At Refine Level 7, additionally increases MHP and MSP by 3%.",
+			"At Refine Level 9, additionally increases MHP and MSP by 4%.",
+			"At Refine Level 11, additionally increases MHP and MSP by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311117] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Fixed Casting)",
+		unidentifiedResourceName = "Ice_F_Orb_F_Cast",
+		unidentifiedDescriptionName = {
+			"Reduces fixed cast time by 1 second."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Fixed Casting)",
+		identifiedResourceName = "Ice_F_Orb_F_Cast",
+		identifiedDescriptionName = {
+			"Reduces fixed cast time by 1 second."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311118] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Magical Force)",
+		unidentifiedResourceName = "Ice_F_Orb_M_F",
+		unidentifiedDescriptionName = {
+			"Increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases magical damage against enemies of all sizes by 4%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Magical Force)",
+		identifiedResourceName = "Ice_F_Orb_M_F",
+		identifiedDescriptionName = {
+			"Increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases magical damage against enemies of all sizes by 4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311119] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Physical Force)",
+		unidentifiedResourceName = "Ice_F_Orb_P_F",
+		unidentifiedDescriptionName = {
+			"Increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases physical damage against enemies of all sizes by 4%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Physical Force)",
+		identifiedResourceName = "Ice_F_Orb_P_F",
+		identifiedDescriptionName = {
+			"Increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases physical damage against enemies of all sizes by 4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311120] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Unlimited Vital)",
+		unidentifiedResourceName = "Ice_F_Orb_Un_Vit",
+		unidentifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant VIT + 50 and ATK + 25% for 10 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Unlimited Vital)",
+		identifiedResourceName = "Ice_F_Orb_Un_Vit",
+		identifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant VIT + 50 and ATK + 25% for 10 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311121] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Spell Buster)",
+		unidentifiedResourceName = "Ice_F_Orb_Sp_Int",
+		unidentifiedDescriptionName = {
+			"When dealing magical damage, has a 3% chance to grant INT + 50 and MATK + 25% for 10 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Spell Buster)",
+		identifiedResourceName = "Ice_F_Orb_Sp_Int",
+		identifiedDescriptionName = {
+			"When dealing magical damage, has a 3% chance to grant INT + 50 and MATK + 25% for 10 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311122] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Firing Shot)",
+		unidentifiedResourceName = "Ice_F_Orb_Fi_Dex",
+		unidentifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant DEX + 50 and increase ranged physical damage by 15% for 10 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Firing Shot)",
+		identifiedResourceName = "Ice_F_Orb_Fi_Dex",
+		identifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant DEX + 50 and increase ranged physical damage by 15% for 10 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311123] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Overpower)",
+		unidentifiedResourceName = "Ice_F_Orb_Ov_Str",
+		unidentifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant STR + 50 and increase melee physical damage by 15% for 10 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Overpower)",
+		identifiedResourceName = "Ice_F_Orb_Ov_Str",
+		identifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant STR + 50 and increase melee physical damage by 15% for 10 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311124] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Fatal Flash)",
+		unidentifiedResourceName = "Ice_F_Orb_Fa_Agi",
+		unidentifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant AGI + 50 and increase critical damage by 25% for 10 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Fatal Flash)",
+		identifiedResourceName = "Ice_F_Orb_Fa_Agi",
+		identifiedDescriptionName = {
+			"When dealing physical damage, has a 3% chance to grant AGI + 50 and increase critical damage by 25% for 10 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311125] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Lucky Strike)",
+		unidentifiedResourceName = "Ice_F_Orb_Lu_Luk",
+		unidentifiedDescriptionName = {
+			"When dealing magical damage, has a 3% chance to grant LUK + 50 and increase magical damage of all properties by 15% for 10 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Lucky Strike)",
+		identifiedResourceName = "Ice_F_Orb_Lu_Luk",
+		identifiedDescriptionName = {
+			"When dealing magical damage, has a 3% chance to grant LUK + 50 and increase magical damage of all properties by 15% for 10 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311126] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Delay After Attack)",
+		unidentifiedResourceName = "Ice_F_Orb_A_Delay",
+		unidentifiedDescriptionName = {
+			"ATK + 30, increases Aspd (reduces delay after attack by 10%)."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Delay After Attack)",
+		identifiedResourceName = "Ice_F_Orb_A_Delay",
+		identifiedDescriptionName = {
+			"ATK + 30, increases Aspd (reduces delay after attack by 10%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311127] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Expert Archer)",
+		unidentifiedResourceName = "Ice_F_Orb_E_Archer",
+		unidentifiedDescriptionName = {
+			"HIT + 20, increases ranged physical damage by 10%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Expert Archer)",
+		identifiedResourceName = "Ice_F_Orb_E_Archer",
+		identifiedDescriptionName = {
+			"HIT + 20, increases ranged physical damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311128] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Fatal)",
+		unidentifiedResourceName = "Ice_F_Orb_Fatal",
+		unidentifiedDescriptionName = {
+			"CRI + 15, increases critical damage by 12%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Fatal)",
+		identifiedResourceName = "Ice_F_Orb_Fatal",
+		identifiedDescriptionName = {
+			"CRI + 15, increases critical damage by 12%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311129] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Fighting Spirit)",
+		unidentifiedResourceName = "Ice_F_Orb_F_Spirit",
+		unidentifiedDescriptionName = {
+			"Increases guided attack chance by 5% and melee physical damage by 10%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Fighting Spirit)",
+		identifiedResourceName = "Ice_F_Orb_F_Spirit",
+		identifiedDescriptionName = {
+			"Increases guided attack chance by 5% and melee physical damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311130] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Spell)",
+		unidentifiedResourceName = "Ice_F_Orb_Spell",
+		unidentifiedDescriptionName = {
+			"MATK + 30, reduces variable cast time by 10%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Spell)",
+		identifiedResourceName = "Ice_F_Orb_Spell",
+		identifiedDescriptionName = {
+			"MATK + 30, reduces variable cast time by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311131] = {
+		unidentifiedDisplayName = "Ice Flower Spell (HP Recovery)",
+		unidentifiedResourceName = "Ice_F_Orb_HealHP",
+		unidentifiedDescriptionName = {
+			"Increases natural HP recovery by 50%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (HP Recovery)",
+		identifiedResourceName = "Ice_F_Orb_HealHP",
+		identifiedDescriptionName = {
+			"Increases natural HP recovery by 50%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311132] = {
+		unidentifiedDisplayName = "Ice Flower Spell (SP Recovery)",
+		unidentifiedResourceName = "Ice_F_Orb_HealSP",
+		unidentifiedDescriptionName = {
+			"Increases natural SP recovery by 50%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (SP Recovery)",
+		identifiedResourceName = "Ice_F_Orb_HealSP",
+		identifiedDescriptionName = {
+			"Increases natural SP recovery by 50%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311133] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Drain Life)",
+		unidentifiedResourceName = "Ice_F_Orb_Life",
+		unidentifiedDescriptionName = {
+			"When dealing physical damage, has a 2% chance to absorb 4% of the damage dealt as HP."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Drain Life)",
+		identifiedResourceName = "Ice_F_Orb_Life",
+		identifiedDescriptionName = {
+			"When dealing physical damage, has a 2% chance to absorb 4% of the damage dealt as HP."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311134] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Drain Soul)",
+		unidentifiedResourceName = "Ice_F_Orb_Soul",
+		unidentifiedDescriptionName = {
+			"When dealing physical damage, has a 1% chance to absorb 3% of the damage dealt as SP."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Drain Soul)",
+		identifiedResourceName = "Ice_F_Orb_Soul",
+		identifiedDescriptionName = {
+			"When dealing physical damage, has a 1% chance to absorb 3% of the damage dealt as SP."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311135] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Magic Healing)",
+		unidentifiedResourceName = "Ice_F_Orb_M_Heal",
+		unidentifiedDescriptionName = {
+			"When dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, 19 times."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Magic Healing)",
+		identifiedResourceName = "Ice_F_Orb_M_Heal",
+		identifiedDescriptionName = {
+			"When dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, 19 times."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311136] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Magic Soul)",
+		unidentifiedResourceName = "Ice_F_Orb_M_Soul",
+		unidentifiedDescriptionName = {
+			"When dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, 19 times."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Magic Soul)",
+		identifiedResourceName = "Ice_F_Orb_M_Soul",
+		identifiedDescriptionName = {
+			"When dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, 19 times."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311137] = {
+		unidentifiedDisplayName = "Ice Flower Spell (All Force)",
+		unidentifiedResourceName = "Ice_F_Orb_A_Force",
+		unidentifiedDescriptionName = {
+			"Increases melee physical damage by 7%, ranged physical damage by 7%, and magical damage of all properties by 7%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (All Force)",
+		identifiedResourceName = "Ice_F_Orb_A_Force",
+		identifiedDescriptionName = {
+			"Increases melee physical damage by 7%, ranged physical damage by 7%, and magical damage of all properties by 7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311138] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Dragonic Breath)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_1",
+		unidentifiedDescriptionName = {
+			"Increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 7, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 9, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 11, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%, increases Hack and Slash and Dragonic Breath damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Dragonic Breath)",
+		identifiedResourceName = "Ice_F_Orb_Skill_1",
+		identifiedDescriptionName = {
+			"Increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 7, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 9, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 11, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%, increases Hack and Slash and Dragonic Breath damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311139] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Cutter Break)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_2",
+		unidentifiedDescriptionName = {
+			"Increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 7, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 9, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 11, additionally increases Wind Cutter damage by 15%, reduces Ignition Break skill cooldown by 0.5 seconds, and increases Storm Slash damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Cutter Break)",
+		identifiedResourceName = "Ice_F_Orb_Skill_2",
+		identifiedDescriptionName = {
+			"Increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 7, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 9, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 11, additionally increases Wind Cutter damage by 15%, reduces Ignition Break skill cooldown by 0.5 seconds, and increases Storm Slash damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311140] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Hundred Wave)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_3",
+		unidentifiedDescriptionName = {
+			"Increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Wave damage by 15%, reduces Hundred Spears skill cooldown by 0.5 seconds, and increases Madness Crusher damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Hundred Wave)",
+		identifiedResourceName = "Ice_F_Orb_Skill_3",
+		identifiedDescriptionName = {
+			"Increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Wave damage by 15%, reduces Hundred Spears skill cooldown by 0.5 seconds, and increases Madness Crusher damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311141] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Brand Lit)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_4",
+		unidentifiedDescriptionName = {
+			"Increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 7, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 9, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 11, additionally increases Overbrand and Hesperus Lit damage by 15%, and increases Overslash damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Brand Lit)",
+		identifiedResourceName = "Ice_F_Orb_Skill_4",
+		identifiedDescriptionName = {
+			"Increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 7, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 9, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 11, additionally increases Overbrand and Hesperus Lit damage by 15%, and increases Overslash damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311142] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Vanishing Cannon)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_5",
+		unidentifiedDescriptionName = {
+			"Increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Vanishing Point and Cannon Spear damage by 15%, and increases Shield Shooting damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Vanishing Cannon)",
+		identifiedResourceName = "Ice_F_Orb_Skill_5",
+		identifiedDescriptionName = {
+			"Increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Vanishing Point and Cannon Spear damage by 15%, and increases Shield Shooting damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311143] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Genesis Pressure)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_6",
+		unidentifiedDescriptionName = {
+			"Increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 7, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 9, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 11, additionally increases Gloria Domini and Genesis Ray damage by 15%, and increases Cross Rain damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Genesis Pressure)",
+		identifiedResourceName = "Ice_F_Orb_Skill_6",
+		identifiedDescriptionName = {
+			"Increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 7, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 9, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 11, additionally increases Gloria Domini and Genesis Ray damage by 15%, and increases Cross Rain damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311144] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Boost Cannon)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_7",
+		unidentifiedDescriptionName = {
+			"Increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Knuckle Boost and Arm Cannon damage by 15%, increases Spark Blaster damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Boost Cannon)",
+		identifiedResourceName = "Ice_F_Orb_Skill_7",
+		identifiedDescriptionName = {
+			"Increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Knuckle Boost and Arm Cannon damage by 15%, increases Spark Blaster damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311145] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Vulcan Boomerang)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_8",
+		unidentifiedDescriptionName = {
+			"Increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Vulcan Arm and Axe Boomerang damage by 15%, reduces Axe Boomerang cooldown by 2 seconds, increases Triple Laser damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Vulcan Boomerang)",
+		identifiedResourceName = "Ice_F_Orb_Skill_8",
+		identifiedDescriptionName = {
+			"Increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Vulcan Arm and Axe Boomerang damage by 15%, reduces Axe Boomerang cooldown by 2 seconds, increases Triple Laser damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311146] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Tornado Swing)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_9",
+		unidentifiedDescriptionName = {
+			"Increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 7, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 9, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 11, additionally increases Axe Tornado and Power Swing damage by 15%, increases Axe Stomp and Mighty Smash damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Tornado Swing)",
+		identifiedResourceName = "Ice_F_Orb_Skill_9",
+		identifiedDescriptionName = {
+			"Increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 7, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 9, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 11, additionally increases Axe Tornado and Power Swing damage by 15%, increases Axe Stomp and Mighty Smash damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311147] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Hell Tornado)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_10",
+		unidentifiedDescriptionName = {
+			"Increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 7, increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 9, additionally increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 11, additionally increases Cart Tornado and Hell Plant damage by 15%, increases Acidified Zone (Water), Acidified Zone (Wind) and Explosive Powder damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Hell Tornado)",
+		identifiedResourceName = "Ice_F_Orb_Skill_10",
+		identifiedDescriptionName = {
+			"Increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 7, increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 9, additionally increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 11, additionally increases Cart Tornado and Hell Plant damage by 15%, increases Acidified Zone (Water), Acidified Zone (Wind) and Explosive Powder damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311148] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Crazy Cannon)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_11",
+		unidentifiedDescriptionName = {
+			"Increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Crazy Vines and Cart Cannon damage by 15%, and reduces Crazy Vines skill cooldown by 1.5 seconds."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Crazy Cannon)",
+		identifiedResourceName = "Ice_F_Orb_Skill_11",
+		identifiedDescriptionName = {
+			"Increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Crazy Vines and Cart Cannon damage by 15%, and reduces Crazy Vines skill cooldown by 1.5 seconds."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311149] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Acid Explosion)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_12",
+		unidentifiedDescriptionName = {
+			"Increases Acid Bomb and Spore Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Acid Bomb and Spore Explosion damage by 25%.",
+			"At Refine Level 9, reduces Spore Explosion cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Acid Bomb and Spore Explosion damage by 20%, increases Acidified Zone (Fire), Acidified Zone (Earth) and Mayhemic Thorns damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Acid Explosion)",
+		identifiedResourceName = "Ice_F_Orb_Skill_12",
+		identifiedDescriptionName = {
+			"Increases Acid Bomb and Spore Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Acid Bomb and Spore Explosion damage by 25%.",
+			"At Refine Level 9, reduces Spore Explosion cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Acid Bomb and Spore Explosion damage by 20%, increases Acidified Zone (Fire), Acidified Zone (Earth) and Mayhemic Thorns damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311150] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Sonic Impact)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_13",
+		unidentifiedDescriptionName = {
+			"Increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Blow and Cross Impact damage by 15%, and increases Savage Impact damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Sonic Impact)",
+		identifiedResourceName = "Ice_F_Orb_Skill_13",
+		identifiedDescriptionName = {
+			"Increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Blow and Cross Impact damage by 15%, and increases Savage Impact damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311151] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Cutter Slasher)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_14",
+		unidentifiedDescriptionName = {
+			"Increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%, and increases Impact Crater damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Cutter Slasher)",
+		identifiedResourceName = "Ice_F_Orb_Skill_14",
+		identifiedDescriptionName = {
+			"Increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%, and increases Impact Crater damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311152] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Berserk Slash)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_15",
+		unidentifiedDescriptionName = {
+			"Increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 7, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 9, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 11, additionally increases Soul Destroyer and Counter Slash damage by 15%, and increases Eternal Slash damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Berserk Slash)",
+		identifiedResourceName = "Ice_F_Orb_Skill_15",
+		identifiedDescriptionName = {
+			"Increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 7, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 9, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 11, additionally increases Soul Destroyer and Counter Slash damage by 15%, and increases Eternal Slash damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311153] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Fatal Attack)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_16",
+		unidentifiedDescriptionName = {
+			"Increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 7, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 9, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 11, additionally increases Fatal Manace and Sightless Mind damage by 15%, and increases Abyss Dagger damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Fatal Attack)",
+		identifiedResourceName = "Ice_F_Orb_Skill_16",
+		identifiedDescriptionName = {
+			"Increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 7, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 9, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 11, additionally increases Fatal Manace and Sightless Mind damage by 15%, and increases Abyss Dagger damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311154] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Shadow Spell)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_17",
+		unidentifiedDescriptionName = {
+			"Increases magical damage of all properties by 15%.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 15%, and increases Abyss Rift damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Shadow Spell)",
+		identifiedResourceName = "Ice_F_Orb_Skill_17",
+		identifiedDescriptionName = {
+			"Increases magical damage of all properties by 15%.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 15%, and increases Abyss Rift damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311155] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Angle Shot)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_18",
+		unidentifiedDescriptionName = {
+			"Increases Triangle Shot damage by 15% and ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Triangle Shot damage by 15% and ranged physical damage by 15%, and increases Frenzy Shot damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Angle Shot)",
+		identifiedResourceName = "Ice_F_Orb_Skill_18",
+		identifiedDescriptionName = {
+			"Increases Triangle Shot damage by 15% and ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Triangle Shot damage by 15% and ranged physical damage by 15%, and increases Frenzy Shot damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311156] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Crimson Strain)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_19",
+		unidentifiedDescriptionName = {
+			"Increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 7, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 9, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 11, additionally increases Crimson Rock and Earth Strain damage by 15%, and increases Crimson Arrow and Rock Down damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Crimson Strain)",
+		identifiedResourceName = "Ice_F_Orb_Skill_19",
+		identifiedDescriptionName = {
+			"Increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 7, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 9, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 11, additionally increases Crimson Rock and Earth Strain damage by 15%, and increases Crimson Arrow and Rock Down damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311157] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Jack Lightning)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_20",
+		unidentifiedDescriptionName = {
+			"Increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 7, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 9, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 11, additionally increases Jack Frost and Chain Lightning damage by 15%, and increases Frozen Slash and Storm Cannon damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Jack Lightning)",
+		identifiedResourceName = "Ice_F_Orb_Skill_20",
+		identifiedDescriptionName = {
+			"Increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 7, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 9, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 11, additionally increases Jack Frost and Chain Lightning damage by 15%, and increases Frozen Slash and Storm Cannon damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311158] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Comet Expansion)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_21",
+		unidentifiedDescriptionName = {
+			"Increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 7, additionally increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 9, additionally increases Comet and Soul Expansion damage by 15%, and reduces Intensification skill cooldown by 30 seconds.",
+			"At Refine Level 11, additionally increases Comet and Soul Expansion damage by 15%, and increases Soul Vulcan Strike and Mystery Illusion damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Comet Expansion)",
+		identifiedResourceName = "Ice_F_Orb_Skill_21",
+		identifiedDescriptionName = {
+			"Increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 7, additionally increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 9, additionally increases Comet and Soul Expansion damage by 15%, and reduces Intensification skill cooldown by 30 seconds.",
+			"At Refine Level 11, additionally increases Comet and Soul Expansion damage by 15%, and increases Soul Vulcan Strike and Mystery Illusion damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311159] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Cloud Buster)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_22",
+		unidentifiedDescriptionName = {
+			"Increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 7, additionally increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 9, additionally increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 11, additionally increases Killing Cloud and Poison Burst damage by 15%, and increases Venom Swamp damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Cloud Buster)",
+		identifiedResourceName = "Ice_F_Orb_Skill_22",
+		identifiedDescriptionName = {
+			"Increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 7, additionally increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 9, additionally increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 11, additionally increases Killing Cloud and Poison Burst damage by 15%, and increases Venom Swamp damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311160] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Varetyr Wave)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_23",
+		unidentifiedDescriptionName = {
+			"Increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Psychic Wave and Varetyr Spear damage by 15%, and increases Conflagration and Lightning Land damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Varetyr Wave)",
+		identifiedResourceName = "Ice_F_Orb_Skill_23",
+		identifiedDescriptionName = {
+			"Increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Psychic Wave and Varetyr Spear damage by 15%, and increases Conflagration and Lightning Land damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311161] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Diamond Grave)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_24",
+		unidentifiedDescriptionName = {
+			"Increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 7, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 9, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 11, additionally increases Diamond Dust and Earth Grave damage by 15%, and increases Diamond Storm and Terra Drive damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Diamond Grave)",
+		identifiedResourceName = "Ice_F_Orb_Skill_24",
+		identifiedDescriptionName = {
+			"Increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 7, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 9, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 11, additionally increases Diamond Dust and Earth Grave damage by 15%, and increases Diamond Storm and Terra Drive damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311162] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Magnusmus)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_25",
+		unidentifiedDescriptionName = {
+			"Increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 7, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 9, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 11, additionally increases Magnus Exorcismus and Adoramus damage by 15%, and increases Arbitrium damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Magnusmus)",
+		identifiedResourceName = "Ice_F_Orb_Skill_25",
+		identifiedDescriptionName = {
+			"Increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 7, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 9, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 11, additionally increases Magnus Exorcismus and Adoramus damage by 15%, and increases Arbitrium damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311163] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Holy Judex)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_26",
+		unidentifiedDescriptionName = {
+			"Increases Judex damage by 15% and Holy magical damage by 5%.",
+			"At Refine Level 7, additionally increases Judex damage by 15% and Holy magical damage by 10%.",
+			"At Refine Level 9, additionally increases Judex damage by 15% and Holy magical damage by 10%.",
+			"At Refine Level 11, additionally increases Judex damage by 15% and Holy magical damage by 15%, and increases Flamen damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Holy Judex)",
+		identifiedResourceName = "Ice_F_Orb_Skill_26",
+		identifiedDescriptionName = {
+			"Increases Judex damage by 15% and Holy magical damage by 5%.",
+			"At Refine Level 7, additionally increases Judex damage by 15% and Holy magical damage by 10%.",
+			"At Refine Level 9, additionally increases Judex damage by 15% and Holy magical damage by 10%.",
+			"At Refine Level 11, additionally increases Judex damage by 15% and Holy magical damage by 15%, and increases Flamen damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311164] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Melee Duple)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_27",
+		unidentifiedDescriptionName = {
+			"Increases Duple Light damage by 15% and melee/ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 15%, and increases Petitio damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Melee Duple)",
+		identifiedResourceName = "Ice_F_Orb_Skill_27",
+		identifiedDescriptionName = {
+			"Increases Duple Light damage by 15% and melee/ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 15%, and increases Petitio damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311165] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Tiger Empire)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_28",
+		unidentifiedDescriptionName = {
+			"Increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 7, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 9, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 11, additionally increases Tiger Cannon and Fallen Empire damage by 15%, and increases Third Flame Bomb damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Tiger Empire)",
+		identifiedResourceName = "Ice_F_Orb_Skill_28",
+		identifiedDescriptionName = {
+			"Increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 7, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 9, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 11, additionally increases Tiger Cannon and Fallen Empire damage by 15%, and increases Third Flame Bomb damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311166] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Rampage Lightning)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_29",
+		unidentifiedDescriptionName = {
+			"Increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 7, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 9, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 11, additionally increases Lightning Ride damage by 15%, reduces Rampage Blast skill cooldown by 0.5 seconds, and increases Explosion Blaster damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Rampage Lightning)",
+		identifiedResourceName = "Ice_F_Orb_Skill_29",
+		identifiedDescriptionName = {
+			"Increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 7, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 9, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 11, additionally increases Lightning Ride damage by 15%, reduces Rampage Blast skill cooldown by 0.5 seconds, and increases Explosion Blaster damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311167] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Hell Arrow)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_30",
+		unidentifiedDescriptionName = {
+			"Increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 7, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 9, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 11, additionally increases Gates of Hell and Knuckle Arrow damage by 15%, and increases Third Punishment damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Hell Arrow)",
+		identifiedResourceName = "Ice_F_Orb_Skill_30",
+		identifiedDescriptionName = {
+			"Increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 7, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 9, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 11, additionally increases Gates of Hell and Knuckle Arrow damage by 15%, and increases Third Punishment damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311168] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Aimed Rush)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_31",
+		unidentifiedDescriptionName = {
+			"Increases Aimed Bolt damage by 15%.",
+			"At Refine Level 7, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 9, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 11, additionally increases Aimed Bolt damage by 15%, and increases Hawk Rush damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Aimed Rush)",
+		identifiedResourceName = "Ice_F_Orb_Skill_31",
+		identifiedDescriptionName = {
+			"Increases Aimed Bolt damage by 15%.",
+			"At Refine Level 7, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 9, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 11, additionally increases Aimed Bolt damage by 15%, and increases Hawk Rush damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311169] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Breeze Shooting)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_32",
+		unidentifiedDescriptionName = {
+			"Increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 7, additionally increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 9, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%.",
+			"At Refine Level 11, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%, and increases Crescive Bolt damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Breeze Shooting)",
+		identifiedResourceName = "Ice_F_Orb_Skill_32",
+		identifiedDescriptionName = {
+			"Increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 7, additionally increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 9, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%.",
+			"At Refine Level 11, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%, and increases Crescive Bolt damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311170] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Arrow Gale)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_33",
+		unidentifiedDescriptionName = {
+			"Increases Arrow Storm damage by 15%.",
+			"At Refine Level 7, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 9, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 11, additionally increases Arrow Storm damage by 15%, and increases Gale Storm damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Arrow Gale)",
+		identifiedResourceName = "Ice_F_Orb_Skill_33",
+		identifiedDescriptionName = {
+			"Increases Arrow Storm damage by 15%.",
+			"At Refine Level 7, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 9, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 11, additionally increases Arrow Storm damage by 15%, and increases Gale Storm damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311171] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Sound Metal)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_34",
+		unidentifiedDescriptionName = {
+			"Increases Metallic Sound and Reverberation damage by 15%.",
+			"At Refine Level 7, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 9, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 11, additionally increases Metallic Sound and Reverberation damage by 15%, and increases Metallic Fury damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Sound Metal)",
+		identifiedResourceName = "Ice_F_Orb_Skill_34",
+		identifiedDescriptionName = {
+			"Increases Metallic Sound and Reverberation damage by 15%.",
+			"At Refine Level 7, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 9, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 11, additionally increases Metallic Sound and Reverberation damage by 15%, and increases Metallic Fury damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311172] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Rainstorm)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_35",
+		unidentifiedDescriptionName = {
+			"Increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 7, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 9, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 11, additionally increases Severe Rainstorm damage by 15%, and increases Rose Blossom damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Rainstorm)",
+		identifiedResourceName = "Ice_F_Orb_Skill_35",
+		identifiedDescriptionName = {
+			"Increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 7, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 9, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 11, additionally increases Severe Rainstorm damage by 15%, and increases Rose Blossom damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311173] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Vulcan Shooting)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_36",
+		unidentifiedDescriptionName = {
+			"Increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 7, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 9, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 11, additionally increases Arrow Vulcan damage by 20%, and increases Rhythm Shooting damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Vulcan Shooting)",
+		identifiedResourceName = "Ice_F_Orb_Skill_36",
+		identifiedDescriptionName = {
+			"Increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 7, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 9, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 11, additionally increases Arrow Vulcan damage by 20%, and increases Rhythm Shooting damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311174] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Blaze Explosion)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_37",
+		unidentifiedDescriptionName = {
+			"Increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 9, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 11, additionally increases Blaze Kick and Solar Explosion damage by 15%, and increases Sunset Blast damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Blaze Explosion)",
+		identifiedResourceName = "Ice_F_Orb_Skill_37",
+		identifiedDescriptionName = {
+			"Increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 9, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 11, additionally increases Blaze Kick and Solar Explosion damage by 15%, and increases Sunset Blast damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311175] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Moon Kick)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_38",
+		unidentifiedDescriptionName = {
+			"Increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 7, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 9, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 11, additionally increases New Moon Kick and Full Moon Kick damage by 15%, and increases Dawn Break damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Moon Kick)",
+		identifiedResourceName = "Ice_F_Orb_Skill_38",
+		identifiedDescriptionName = {
+			"Increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 7, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 9, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 11, additionally increases New Moon Kick and Full Moon Kick damage by 15%, and increases Dawn Break damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311176] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Flash Falling)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_39",
+		unidentifiedDescriptionName = {
+			"Increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 7, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 9, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 11, additionally increases Flash Kick and Falling Stars damage by 15%, and increases Star Cannon damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Flash Falling)",
+		identifiedResourceName = "Ice_F_Orb_Skill_39",
+		identifiedDescriptionName = {
+			"Increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 7, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 9, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 11, additionally increases Flash Kick and Falling Stars damage by 15%, and increases Star Cannon damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311177] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Eswhoo)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_40",
+		unidentifiedDescriptionName = {
+			"Increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 7, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 9, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 11, additionally increases Esma and Eswhoo damage by 15%, and increases Talisman of Red Phoenix and Talisman of Black Tortoise damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Eswhoo)",
+		identifiedResourceName = "Ice_F_Orb_Skill_40",
+		identifiedDescriptionName = {
+			"Increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 7, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 9, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 11, additionally increases Esma and Eswhoo damage by 15%, and increases Talisman of Red Phoenix and Talisman of Black Tortoise damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311178] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Espa)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_41",
+		unidentifiedDescriptionName = {
+			"Increases Espa damage by 15%.",
+			"At Refine Level 7, additionally increases Espa damage by 15%.",
+			"At Refine Level 9, additionally increases Espa damage by 15%.",
+			"At Refine Level 11, additionally increases Espa damage by 15%, and increases Talisman of Blue Dragon and Talisman of White Tiger damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Espa)",
+		identifiedResourceName = "Ice_F_Orb_Skill_41",
+		identifiedDescriptionName = {
+			"Increases Espa damage by 15%.",
+			"At Refine Level 7, additionally increases Espa damage by 15%.",
+			"At Refine Level 9, additionally increases Espa damage by 15%.",
+			"At Refine Level 11, additionally increases Espa damage by 15%, and increases Talisman of Blue Dragon and Talisman of White Tiger damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311179] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Curse Explosion)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_42",
+		unidentifiedDescriptionName = {
+			"Increases Curse Explosion damage by 15% and Shadow magical damage by 5%.",
+			"At Refine Level 7, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 9, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 11, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 15%, and increases Soul Purification damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Curse Explosion)",
+		identifiedResourceName = "Ice_F_Orb_Skill_42",
+		identifiedDescriptionName = {
+			"Increases Curse Explosion damage by 15% and Shadow magical damage by 5%.",
+			"At Refine Level 7, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 9, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 11, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 15%, and increases Soul Purification damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311180] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Des Hammer Dance)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_43",
+		unidentifiedDescriptionName = {
+			"Increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 7, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 9, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 11, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%, and increases Only One Bullet damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Des Hammer Dance)",
+		identifiedResourceName = "Ice_F_Orb_Skill_43",
+		identifiedDescriptionName = {
+			"Increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 7, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 9, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 11, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%, and increases Only One Bullet damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311181] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Fire Howling Tail)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_44",
+		unidentifiedDescriptionName = {
+			"Increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 7, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 9, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 11, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%, and increases Wild Fire damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Fire Howling Tail)",
+		identifiedResourceName = "Ice_F_Orb_Skill_44",
+		identifiedDescriptionName = {
+			"Increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 7, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 9, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 11, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%, and increases Wild Fire damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311182] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Storm Buster Trip)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_45",
+		unidentifiedDescriptionName = {
+			"Increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 7, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 9, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 11, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%, and increases The Vigilante at Night damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Storm Buster Trip)",
+		identifiedResourceName = "Ice_F_Orb_Skill_45",
+		identifiedDescriptionName = {
+			"Increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 7, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 9, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 11, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%, and increases The Vigilante at Night damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311183] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Flame Ice Wind)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_46",
+		unidentifiedDescriptionName = {
+			"Increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 7, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 9, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 11, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%, and increases Red Flame Cannon, Cold Blooded Cannon, and Thundering Cannon damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Flame Ice Wind)",
+		identifiedResourceName = "Ice_F_Orb_Skill_46",
+		identifiedDescriptionName = {
+			"Increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 7, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 9, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 11, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%, and increases Red Flame Cannon, Cold Blooded Cannon, and Thundering Cannon damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311184] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Cross Petal)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_47",
+		unidentifiedDescriptionName = {
+			"Increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Slash and Swirling Petal damage by 15%, and increases Shadow Flash and Huuma Shuriken - Grasp damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Cross Petal)",
+		identifiedResourceName = "Ice_F_Orb_Skill_47",
+		identifiedDescriptionName = {
+			"Increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Slash and Swirling Petal damage by 15%, and increases Shadow Flash and Huuma Shuriken - Grasp damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311185] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Exploding Flake Wind)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_48",
+		unidentifiedDescriptionName = {
+			"Increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 7, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 9, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 11, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%, and increases Golden Dragon Cannon and Darkening Cannon damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Exploding Flake Wind)",
+		identifiedResourceName = "Ice_F_Orb_Skill_48",
+		identifiedDescriptionName = {
+			"Increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 7, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 9, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 11, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%, and increases Golden Dragon Cannon and Darkening Cannon damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311186] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Power of Life)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_49",
+		unidentifiedDescriptionName = {
+			"Increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 7, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 9, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 11, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%, and increases Chulho Sonic Claw damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Power of Life)",
+		identifiedResourceName = "Ice_F_Orb_Skill_49",
+		identifiedDescriptionName = {
+			"Increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 7, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 9, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 11, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%, and increases Chulho Sonic Claw damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311187] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Power of Land)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_50",
+		unidentifiedDescriptionName = {
+			"Increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 7, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 9, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 11, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%, and increases Hyunrok Cannon damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Power of Land)",
+		identifiedResourceName = "Ice_F_Orb_Skill_50",
+		identifiedDescriptionName = {
+			"Increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 7, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 9, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 11, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%, and increases Hyunrok Cannon damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311188] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Power of Savage)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_51",
+		unidentifiedDescriptionName = {
+			"Increases Spirit of Savage damage by 15%.",
+			"At Refine Level 7, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 9, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 11, additionally increases Spirit of Savage damage by 15%, and increases Hogogong Strike damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Power of Savage)",
+		identifiedResourceName = "Ice_F_Orb_Skill_51",
+		identifiedDescriptionName = {
+			"Increases Spirit of Savage damage by 15%.",
+			"At Refine Level 7, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 9, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 11, additionally increases Spirit of Savage damage by 15%, and increases Hogogong Strike damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311189] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Hyper Melee)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_52",
+		unidentifiedDescriptionName = {
+			"Increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 7, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 9, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 11, additionally increases Holy Cross and Back Stab damage by 15%, and increases Double Bowling Bash and Mega Sonic Blow damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Hyper Melee)",
+		identifiedResourceName = "Ice_F_Orb_Skill_52",
+		identifiedDescriptionName = {
+			"Increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 7, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 9, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 11, additionally increases Holy Cross and Back Stab damage by 15%, and increases Double Bowling Bash and Mega Sonic Blow damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311190] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Hyper Range)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_53",
+		unidentifiedDescriptionName = {
+			"Increases Shield Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Shield Boomerang damage by 15%, and increases Shield Chain Rush and Spiral Pierce Max damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Hyper Range)",
+		identifiedResourceName = "Ice_F_Orb_Skill_53",
+		identifiedDescriptionName = {
+			"Increases Shield Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Shield Boomerang damage by 15%, and increases Shield Chain Rush and Spiral Pierce Max damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311191] = {
+		unidentifiedDisplayName = "Ice Flower Spell (Hyper Magic)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_54",
+		unidentifiedDescriptionName = {
+			"Increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 7, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 9, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 11, additionally increases Meteor Storm and Jupitel Thunder damage by 15%, and increases Meteor Storm Buster and Jupitel Thunderstorm damage by 15%."
+		},
+		identifiedDisplayName = "Ice Flower Spell (Hyper Magic)",
+		identifiedResourceName = "Ice_F_Orb_Skill_54",
+		identifiedDescriptionName = {
+			"Increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 7, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 9, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 11, additionally increases Meteor Storm and Jupitel Thunder damage by 15%, and increases Meteor Storm Buster and Jupitel Thunderstorm damage by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311192] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Dragon Breath)",
+		unidentifiedResourceName = "Glacier_F_Orb_1",
+		unidentifiedDescriptionName = {
+			"Increases Dragon's Breath and Dragon's Breath - Water damage by 20%.",
+			"For every 3 refine levels, additionally increases Dragon's Breath and Dragon's Breath - Water damage by 10%.",
+			"At Refine Level 9, additionally increases Dragon's Breath and Dragon's Breath - Water damage by 20%.",
+			"At Refine Level 11, additionally increases Dragon's Breath and Dragon's Breath - Water damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Dragon Breath)",
+		identifiedResourceName = "Glacier_F_Orb_1",
+		identifiedDescriptionName = {
+			"Increases Dragon's Breath and Dragon's Breath - Water damage by 20%.",
+			"For every 3 refine levels, additionally increases Dragon's Breath and Dragon's Breath - Water damage by 10%.",
+			"At Refine Level 9, additionally increases Dragon's Breath and Dragon's Breath - Water damage by 20%.",
+			"At Refine Level 11, additionally increases Dragon's Breath and Dragon's Breath - Water damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311193] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Wind Cutter)",
+		unidentifiedResourceName = "Glacier_F_Orb_2",
+		unidentifiedDescriptionName = {
+			"Increases Wind Cutter damage by 20%.",
+			"For every 3 refine levels, additionally increases Wind Cutter damage by 10%.",
+			"At Refine Level 9, additionally increases Wind Cutter damage by 20%.",
+			"At Refine Level 11, additionally increases Wind Cutter damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Wind Cutter)",
+		identifiedResourceName = "Glacier_F_Orb_2",
+		identifiedDescriptionName = {
+			"Increases Wind Cutter damage by 20%.",
+			"For every 3 refine levels, additionally increases Wind Cutter damage by 10%.",
+			"At Refine Level 9, additionally increases Wind Cutter damage by 20%.",
+			"At Refine Level 11, additionally increases Wind Cutter damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311194] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Ignition Break)",
+		unidentifiedResourceName = "Glacier_F_Orb_3",
+		unidentifiedDescriptionName = {
+			"",
+			"Increases Ignition Break damage by 20%.",
+			"For every 3 refine levels, additionally increases Ignition Break damage by 10%.",
+			"At Refine Level 9, reduces Ignition Break skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Ignition Break damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Ignition Break)",
+		identifiedResourceName = "Glacier_F_Orb_3",
+		identifiedDescriptionName = {
+			"",
+			"Increases Ignition Break damage by 20%.",
+			"For every 3 refine levels, additionally increases Ignition Break damage by 10%.",
+			"At Refine Level 9, reduces Ignition Break skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Ignition Break damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311195] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hundred Spear)",
+		unidentifiedResourceName = "Glacier_F_Orb_4",
+		unidentifiedDescriptionName = {
+			"Increases Hundred Spears damage by 20%.",
+			"For every 3 refine levels, additionally increases Hundred Spears damage by 10%.",
+			"At Refine Level 9, reduces Hundred Spears skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Hundred Spears damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hundred Spear)",
+		identifiedResourceName = "Glacier_F_Orb_4",
+		identifiedDescriptionName = {
+			"Increases Hundred Spears damage by 20%.",
+			"For every 3 refine levels, additionally increases Hundred Spears damage by 10%.",
+			"At Refine Level 9, reduces Hundred Spears skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Hundred Spears damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311196] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Sonic Wave)",
+		unidentifiedResourceName = "Glacier_F_Orb_5",
+		unidentifiedDescriptionName = {
+			"Increases Sonic Wave damage by 20%.",
+			"For every 3 refine levels, additionally increases Sonic Wave damage by 10%.",
+			"At Refine Level 9, reduces Sonic Wave skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Sonic Wave damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Sonic Wave)",
+		identifiedResourceName = "Glacier_F_Orb_5",
+		identifiedDescriptionName = {
+			"Increases Sonic Wave damage by 20%.",
+			"For every 3 refine levels, additionally increases Sonic Wave damage by 10%.",
+			"At Refine Level 9, reduces Sonic Wave skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Sonic Wave damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311197] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Over Brand)",
+		unidentifiedResourceName = "Glacier_F_Orb_6",
+		unidentifiedDescriptionName = {
+			"Increases Overbrand damage by 20%.",
+			"For every 3 refine levels, additionally increases Overbrand damage by 10%.",
+			"At Refine Level 9, reduces Overbrand SP consumption by 20%.",
+			"At Refine Level 11, additionally increases Overbrand damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Over Brand)",
+		identifiedResourceName = "Glacier_F_Orb_6",
+		identifiedDescriptionName = {
+			"Increases Overbrand damage by 20%.",
+			"For every 3 refine levels, additionally increases Overbrand damage by 10%.",
+			"At Refine Level 9, reduces Overbrand SP consumption by 20%.",
+			"At Refine Level 11, additionally increases Overbrand damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311198] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hesperus Lit)",
+		unidentifiedResourceName = "Glacier_F_Orb_7",
+		unidentifiedDescriptionName = {
+			"Increases Hesperus Lit damage by 20%.",
+			"For every 3 refine levels, additionally increases Hesperus Lit damage by 10%.",
+			"At Refine Level 9, additionally increases Hesperus Lit damage by 20%.",
+			"At Refine Level 11, additionally increases Hesperus Lit damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hesperus Lit)",
+		identifiedResourceName = "Glacier_F_Orb_7",
+		identifiedDescriptionName = {
+			"Increases Hesperus Lit damage by 20%.",
+			"For every 3 refine levels, additionally increases Hesperus Lit damage by 10%.",
+			"At Refine Level 9, additionally increases Hesperus Lit damage by 20%.",
+			"At Refine Level 11, additionally increases Hesperus Lit damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311199] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Vanishing Point)",
+		unidentifiedResourceName = "Glacier_F_Orb_8",
+		unidentifiedDescriptionName = {
+			"Increases Vanishing Point damage by 20%.",
+			"For every 3 refine levels, additionally increases Vanishing Point damage by 10%.",
+			"At Refine Level 9, additionally increases Vanishing Point damage by 20%.",
+			"At Refine Level 11, additionally increases Vanishing Point damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Vanishing Point)",
+		identifiedResourceName = "Glacier_F_Orb_8",
+		identifiedDescriptionName = {
+			"Increases Vanishing Point damage by 20%.",
+			"For every 3 refine levels, additionally increases Vanishing Point damage by 10%.",
+			"At Refine Level 9, additionally increases Vanishing Point damage by 20%.",
+			"At Refine Level 11, additionally increases Vanishing Point damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311200] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cannon Spear)",
+		unidentifiedResourceName = "Glacier_F_Orb_9",
+		unidentifiedDescriptionName = {
+			"Increases Cannon Spear damage by 20%.",
+			"For every 3 refine levels, additionally increases Cannon Spear damage by 10%.",
+			"At Refine Level 9, reduces Cannon Spear skill cooldown by 0.5 seconds.",
+			"At Refine Level 11, additionally increases Cannon Spear damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cannon Spear)",
+		identifiedResourceName = "Glacier_F_Orb_9",
+		identifiedDescriptionName = {
+			"Increases Cannon Spear damage by 20%.",
+			"For every 3 refine levels, additionally increases Cannon Spear damage by 10%.",
+			"At Refine Level 9, reduces Cannon Spear skill cooldown by 0.5 seconds.",
+			"At Refine Level 11, additionally increases Cannon Spear damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311201] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Ray of Genesis)",
+		unidentifiedResourceName = "Glacier_F_Orb_10",
+		unidentifiedDescriptionName = {
+			"Increases Genesis Ray damage by 20%.",
+			"For every 3 refine levels, additionally increases Genesis Ray damage by 10%.",
+			"At Refine Level 9, reduces Genesis Ray skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Genesis Ray damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Ray of Genesis)",
+		identifiedResourceName = "Glacier_F_Orb_10",
+		identifiedDescriptionName = {
+			"Increases Genesis Ray damage by 20%.",
+			"For every 3 refine levels, additionally increases Genesis Ray damage by 10%.",
+			"At Refine Level 9, reduces Genesis Ray skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Genesis Ray damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311202] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Shield Press)",
+		unidentifiedResourceName = "Glacier_F_Orb_11",
+		unidentifiedDescriptionName = {
+			"Increases Shield Press damage by 20%.",
+			"For every 3 refine levels, additionally increases Shield Press damage by 10%.",
+			"At Refine Level 9, reduces Shield Press skill cooldown by 0.25 seconds.",
+			"At Refine Level 11, additionally increases Shield Press damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Shield Press)",
+		identifiedResourceName = "Glacier_F_Orb_11",
+		identifiedDescriptionName = {
+			"Increases Shield Press damage by 20%.",
+			"For every 3 refine levels, additionally increases Shield Press damage by 10%.",
+			"At Refine Level 9, reduces Shield Press skill cooldown by 0.25 seconds.",
+			"At Refine Level 11, additionally increases Shield Press damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311203] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Earth Drive)",
+		unidentifiedResourceName = "Glacier_F_Orb_12",
+		unidentifiedDescriptionName = {
+			"Increases Earth Drive damage by 20%.",
+			"For every 3 refine levels, additionally increases Earth Drive damage by 10%.",
+			"At Refine Level 9, reduces Earth Drive skill cooldown by 1.2 seconds.",
+			"At Refine Level 11, additionally increases Earth Drive damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Earth Drive)",
+		identifiedResourceName = "Glacier_F_Orb_12",
+		identifiedDescriptionName = {
+			"Increases Earth Drive damage by 20%.",
+			"For every 3 refine levels, additionally increases Earth Drive damage by 10%.",
+			"At Refine Level 9, reduces Earth Drive skill cooldown by 1.2 seconds.",
+			"At Refine Level 11, additionally increases Earth Drive damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311204] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Boost Knuckle)",
+		unidentifiedResourceName = "Glacier_F_Orb_13",
+		unidentifiedDescriptionName = {
+			"Increases Knuckle Boost damage by 20%.",
+			"For every 3 refine levels, additionally increases Knuckle Boost damage by 10%.",
+			"At Refine Level 9, additionally increases Knuckle Boost damage by 20%.",
+			"At Refine Level 11, additionally increases Knuckle Boost damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Boost Knuckle)",
+		identifiedResourceName = "Glacier_F_Orb_13",
+		identifiedDescriptionName = {
+			"Increases Knuckle Boost damage by 20%.",
+			"For every 3 refine levels, additionally increases Knuckle Boost damage by 10%.",
+			"At Refine Level 9, additionally increases Knuckle Boost damage by 20%.",
+			"At Refine Level 11, additionally increases Knuckle Boost damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311205] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Arms Cannon)",
+		unidentifiedResourceName = "Glacier_F_Orb_14",
+		unidentifiedDescriptionName = {
+			"Increases Arm Cannon damage by 20%.",
+			"For every 3 refine levels, additionally increases Arm Cannon damage by 10%.",
+			"At Refine Level 9, additionally increases Arm Cannon damage by 20%.",
+			"At Refine Level 11, additionally increases Arm Cannon damage by 10% and no longer consumes Mado Gear Fuel."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Arms Cannon)",
+		identifiedResourceName = "Glacier_F_Orb_14",
+		identifiedDescriptionName = {
+			"Increases Arm Cannon damage by 20%.",
+			"For every 3 refine levels, additionally increases Arm Cannon damage by 10%.",
+			"At Refine Level 9, additionally increases Arm Cannon damage by 20%.",
+			"At Refine Level 11, additionally increases Arm Cannon damage by 10% and no longer consumes Mado Gear Fuel."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311206] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Axe Tornado)",
+		unidentifiedResourceName = "Glacier_F_Orb_15",
+		unidentifiedDescriptionName = {
+			"Increases Axe Tornado damage by 20%.",
+			"For every 3 refine levels, additionally increases Axe Tornado damage by 10%.",
+			"At Refine Level 9, reduces Axe Tornado skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Axe Tornado damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Axe Tornado)",
+		identifiedResourceName = "Glacier_F_Orb_15",
+		identifiedDescriptionName = {
+			"Increases Axe Tornado damage by 20%.",
+			"For every 3 refine levels, additionally increases Axe Tornado damage by 10%.",
+			"At Refine Level 9, reduces Axe Tornado skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Axe Tornado damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311207] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Power Swing)",
+		unidentifiedResourceName = "Glacier_F_Orb_16",
+		unidentifiedDescriptionName = {
+			"Increases Power Swing damage by 20%.",
+			"For every 3 refine levels, additionally increases Power Swing damage by 10%.",
+			"At Refine Level 9, additionally increases Power Swing damage by 20%.",
+			"At Refine Level 11, additionally increases Power Swing damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Power Swing)",
+		identifiedResourceName = "Glacier_F_Orb_16",
+		identifiedDescriptionName = {
+			"Increases Power Swing damage by 20%.",
+			"For every 3 refine levels, additionally increases Power Swing damage by 10%.",
+			"At Refine Level 9, additionally increases Power Swing damage by 20%.",
+			"At Refine Level 11, additionally increases Power Swing damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311208] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Vulcan Arm)",
+		unidentifiedResourceName = "Glacier_F_Orb_17",
+		unidentifiedDescriptionName = {
+			"Increases Vulcan Arm damage by 20%.",
+			"For every 3 refine levels, additionally increases Vulcan Arm damage by 10%.",
+			"At Refine Level 9, additionally increases Vulcan Arm damage by 20%.",
+			"At Refine Level 11, additionally increases Vulcan Arm damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Vulcan Arm)",
+		identifiedResourceName = "Glacier_F_Orb_17",
+		identifiedDescriptionName = {
+			"Increases Vulcan Arm damage by 20%.",
+			"For every 3 refine levels, additionally increases Vulcan Arm damage by 10%.",
+			"At Refine Level 9, additionally increases Vulcan Arm damage by 20%.",
+			"At Refine Level 11, additionally increases Vulcan Arm damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311209] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Axe Boomerang)",
+		unidentifiedResourceName = "Glacier_F_Orb_18",
+		unidentifiedDescriptionName = {
+			"Increases Axe Boomerang damage by 20%.",
+			"For every 3 refine levels, additionally increases Axe Boomerang damage by 10%.",
+			"At Refine Level 9, additionally increases Axe Boomerang damage by 20%.",
+			"At Refine Level 11, additionally increases Axe Boomerang damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Axe Boomerang)",
+		identifiedResourceName = "Glacier_F_Orb_18",
+		identifiedDescriptionName = {
+			"Increases Axe Boomerang damage by 20%.",
+			"For every 3 refine levels, additionally increases Axe Boomerang damage by 10%.",
+			"At Refine Level 9, additionally increases Axe Boomerang damage by 20%.",
+			"At Refine Level 11, additionally increases Axe Boomerang damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311210] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cart Tornado)",
+		unidentifiedResourceName = "Glacier_F_Orb_19",
+		unidentifiedDescriptionName = {
+			"Increases Cart Tornado damage by 20%.",
+			"For every 3 refine levels, additionally increases Cart Tornado damage by 10%.",
+			"At Refine Level 9, additionally increases Cart Tornado damage by 20%.",
+			"At Refine Level 11, additionally increases Cart Tornado damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cart Tornado)",
+		identifiedResourceName = "Glacier_F_Orb_19",
+		identifiedDescriptionName = {
+			"Increases Cart Tornado damage by 20%.",
+			"For every 3 refine levels, additionally increases Cart Tornado damage by 10%.",
+			"At Refine Level 9, additionally increases Cart Tornado damage by 20%.",
+			"At Refine Level 11, additionally increases Cart Tornado damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311211] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cart Cannon)",
+		unidentifiedResourceName = "Glacier_F_Orb_20",
+		unidentifiedDescriptionName = {
+			"Increases Cart Cannon damage by 20%.",
+			"For every 3 refine levels, additionally increases Cart Cannon damage by 10%.",
+			"At Refine Level 9, additionally increases Cart Cannon damage by 20%.",
+			"At Refine Level 11, additionally increases Cart Cannon damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cart Cannon)",
+		identifiedResourceName = "Glacier_F_Orb_20",
+		identifiedDescriptionName = {
+			"Increases Cart Cannon damage by 20%.",
+			"For every 3 refine levels, additionally increases Cart Cannon damage by 10%.",
+			"At Refine Level 9, additionally increases Cart Cannon damage by 20%.",
+			"At Refine Level 11, additionally increases Cart Cannon damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311212] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Spore Explosion)",
+		unidentifiedResourceName = "Glacier_F_Orb_21",
+		unidentifiedDescriptionName = {
+			"Increases Spore Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Spore Explosion damage by 10%.",
+			"At Refine Level 9, reduces Spore Explosion skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Spore Explosion damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Spore Explosion)",
+		identifiedResourceName = "Glacier_F_Orb_21",
+		identifiedDescriptionName = {
+			"Increases Spore Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Spore Explosion damage by 10%.",
+			"At Refine Level 9, reduces Spore Explosion skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Spore Explosion damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311213] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Crazy Weed)",
+		unidentifiedResourceName = "Glacier_F_Orb_22",
+		unidentifiedDescriptionName = {
+			"Increases Crazy Vines damage by 20%.",
+			"For every 3 refine levels, additionally increases Crazy Vines damage by 10%.",
+			"At Refine Level 9, reduces Crazy Vines skill cooldown by 2.5 seconds.",
+			"At Refine Level 11, additionally increases Crazy Vines damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Crazy Weed)",
+		identifiedResourceName = "Glacier_F_Orb_22",
+		identifiedDescriptionName = {
+			"Increases Crazy Vines damage by 20%.",
+			"For every 3 refine levels, additionally increases Crazy Vines damage by 10%.",
+			"At Refine Level 9, reduces Crazy Vines skill cooldown by 2.5 seconds.",
+			"At Refine Level 11, additionally increases Crazy Vines damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311214] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cross Ripper Slasher)",
+		unidentifiedResourceName = "Glacier_F_Orb_23",
+		unidentifiedDescriptionName = {
+			"Increases Cross Ripper Slasher damage by 20%.",
+			"For every 3 refine levels, additionally increases Cross Ripper Slasher damage by 10%.",
+			"At Refine Level 9, additionally increases Cross Ripper Slasher damage by 20%.",
+			"At Refine Level 11, additionally increases Cross Ripper Slasher damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cross Ripper Slasher)",
+		identifiedResourceName = "Glacier_F_Orb_23",
+		identifiedDescriptionName = {
+			"Increases Cross Ripper Slasher damage by 20%.",
+			"For every 3 refine levels, additionally increases Cross Ripper Slasher damage by 10%.",
+			"At Refine Level 9, additionally increases Cross Ripper Slasher damage by 20%.",
+			"At Refine Level 11, additionally increases Cross Ripper Slasher damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311215] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Rolling Cutter)",
+		unidentifiedResourceName = "Glacier_F_Orb_24",
+		unidentifiedDescriptionName = {
+			"Increases Rolling Cutter damage by 20%.",
+			"For every 3 refine levels, additionally increases Rolling Cutter damage by 10%.",
+			"At Refine Level 9, additionally increases Rolling Cutter damage by 20%.",
+			"At Refine Level 11, additionally increases Rolling Cutter damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Rolling Cutter)",
+		identifiedResourceName = "Glacier_F_Orb_24",
+		identifiedDescriptionName = {
+			"Increases Rolling Cutter damage by 20%.",
+			"For every 3 refine levels, additionally increases Rolling Cutter damage by 10%.",
+			"At Refine Level 9, additionally increases Rolling Cutter damage by 20%.",
+			"At Refine Level 11, additionally increases Rolling Cutter damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311216] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Counter Slash)",
+		unidentifiedResourceName = "Glacier_F_Orb_25",
+		unidentifiedDescriptionName = {
+			"Increases Counter Slash damage by 20%.",
+			"For every 3 refine levels, additionally increases Counter Slash damage by 10%.",
+			"At Refine Level 9, additionally increases Counter Slash damage by 20%.",
+			"At Refine Level 11, additionally increases Counter Slash damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Counter Slash)",
+		identifiedResourceName = "Glacier_F_Orb_25",
+		identifiedDescriptionName = {
+			"Increases Counter Slash damage by 20%.",
+			"For every 3 refine levels, additionally increases Counter Slash damage by 10%.",
+			"At Refine Level 9, additionally increases Counter Slash damage by 20%.",
+			"At Refine Level 11, additionally increases Counter Slash damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311217] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cross Impact)",
+		unidentifiedResourceName = "Glacier_F_Orb_26",
+		unidentifiedDescriptionName = {
+			"Increases Cross Impact damage by 20%.",
+			"For every 3 refine levels, additionally increases Cross Impact damage by 10%.",
+			"At Refine Level 9, reduces Cross Impact SP consumption by 20%.",
+			"At Refine Level 11, additionally increases Cross Impact damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cross Impact)",
+		identifiedResourceName = "Glacier_F_Orb_26",
+		identifiedDescriptionName = {
+			"Increases Cross Impact damage by 20%.",
+			"For every 3 refine levels, additionally increases Cross Impact damage by 10%.",
+			"At Refine Level 9, reduces Cross Impact SP consumption by 20%.",
+			"At Refine Level 11, additionally increases Cross Impact damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311218] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Fatal Menace)",
+		unidentifiedResourceName = "Glacier_F_Orb_27",
+		unidentifiedDescriptionName = {
+			"Increases Fatal Manace damage by 20%.",
+			"For every 3 refine levels, additionally increases Fatal Manace damage by 10%.",
+			"At Refine Level 9, additionally increases Fatal Manace damage by 20%.",
+			"At Refine Level 11, additionally increases Fatal Manace damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Fatal Menace)",
+		identifiedResourceName = "Glacier_F_Orb_27",
+		identifiedDescriptionName = {
+			"Increases Fatal Manace damage by 20%.",
+			"For every 3 refine levels, additionally increases Fatal Manace damage by 10%.",
+			"At Refine Level 9, additionally increases Fatal Manace damage by 20%.",
+			"At Refine Level 11, additionally increases Fatal Manace damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311219] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Triangle Shot)",
+		unidentifiedResourceName = "Glacier_F_Orb_28",
+		unidentifiedDescriptionName = {
+			"Increases Triangle Shot damage by 20%.",
+			"For every 3 refine levels, additionally increases Triangle Shot damage by 10%.",
+			"At Refine Level 9, additionally increases Triangle Shot damage by 20%.",
+			"At Refine Level 11, additionally increases Triangle Shot damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Triangle Shot)",
+		identifiedResourceName = "Glacier_F_Orb_28",
+		identifiedDescriptionName = {
+			"Increases Triangle Shot damage by 20%.",
+			"For every 3 refine levels, additionally increases Triangle Shot damage by 10%.",
+			"At Refine Level 9, additionally increases Triangle Shot damage by 20%.",
+			"At Refine Level 11, additionally increases Triangle Shot damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311220] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Paint Bomb)",
+		unidentifiedResourceName = "Glacier_F_Orb_29",
+		unidentifiedDescriptionName = {
+			"Increases Feint Bomb damage by 20%.",
+			"For every 3 refine levels, additionally increases Feint Bomb damage by 10%.",
+			"At Refine Level 9, additionally increases Feint Bomb damage by 20%.",
+			"At Refine Level 11, additionally increases Feint Bomb damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Paint Bomb)",
+		identifiedResourceName = "Glacier_F_Orb_29",
+		identifiedDescriptionName = {
+			"Increases Feint Bomb damage by 20%.",
+			"For every 3 refine levels, additionally increases Feint Bomb damage by 10%.",
+			"At Refine Level 9, additionally increases Feint Bomb damage by 20%.",
+			"At Refine Level 11, additionally increases Feint Bomb damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311221] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Auto Shadow Spell)",
+		unidentifiedResourceName = "Glacier_F_Orb_30",
+		unidentifiedDescriptionName = {
+			"When performing normal melee physical attacks, has a 7% chance to cast Level 7 Meteor Storm.",
+			"For every 3 refine levels, increases Meteor Storm damage by 25%.",
+			"At Refine Level 9, when performing normal melee physical attacks, has a 5% chance to cast Level 5 Psychic Wave.",
+			"At Refine Level 11, increases Psychic Wave damage by 40%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Auto Shadow Spell)",
+		identifiedResourceName = "Glacier_F_Orb_30",
+		identifiedDescriptionName = {
+			"When performing normal melee physical attacks, has a 7% chance to cast Level 7 Meteor Storm.",
+			"For every 3 refine levels, increases Meteor Storm damage by 25%.",
+			"At Refine Level 9, when performing normal melee physical attacks, has a 5% chance to cast Level 5 Psychic Wave.",
+			"At Refine Level 11, increases Psychic Wave damage by 40%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311222] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Elemental Spell)",
+		unidentifiedResourceName = "Glacier_F_Orb_31",
+		unidentifiedDescriptionName = {
+			"Increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 20%.",
+			"For every 3 refine levels, additionally increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 10%.",
+			"At Refine Level 9, additionally increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 20%.",
+			"At Refine Level 11, additionally increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Elemental Spell)",
+		identifiedResourceName = "Glacier_F_Orb_31",
+		identifiedDescriptionName = {
+			"Increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 20%.",
+			"For every 3 refine levels, additionally increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 10%.",
+			"At Refine Level 9, additionally increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 20%.",
+			"At Refine Level 11, additionally increases Crimson Rock, Jack Frost, Chain Lightning, and Earth Strain damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311223] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Soul Expansion)",
+		unidentifiedResourceName = "Glacier_F_Orb_32",
+		unidentifiedDescriptionName = {
+			"Increases Soul Expansion damage by 20%.",
+			"For every 3 refine levels, additionally increases Soul Expansion damage by 10%.",
+			"At Refine Level 9, reduces Intensification skill cooldown by 30 seconds.",
+			"At Refine Level 11, additionally increases Soul Expansion damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Soul Expansion)",
+		identifiedResourceName = "Glacier_F_Orb_32",
+		identifiedDescriptionName = {
+			"Increases Soul Expansion damage by 20%.",
+			"For every 3 refine levels, additionally increases Soul Expansion damage by 10%.",
+			"At Refine Level 9, reduces Intensification skill cooldown by 30 seconds.",
+			"At Refine Level 11, additionally increases Soul Expansion damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311224] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Comet)",
+		unidentifiedResourceName = "Glacier_F_Orb_33",
+		unidentifiedDescriptionName = {
+			"Increases Comet damage by 20%.",
+			"For every 3 refine levels, additionally increases Comet damage by 10%.",
+			"At Refine Level 9, reduces Comet SP consumption by 20%.",
+			"At Refine Level 11, additionally increases Comet damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Comet)",
+		identifiedResourceName = "Glacier_F_Orb_33",
+		identifiedDescriptionName = {
+			"Increases Comet damage by 20%.",
+			"For every 3 refine levels, additionally increases Comet damage by 10%.",
+			"At Refine Level 9, reduces Comet SP consumption by 20%.",
+			"At Refine Level 11, additionally increases Comet damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311225] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Psychic Wave)",
+		unidentifiedResourceName = "Glacier_F_Orb_34",
+		unidentifiedDescriptionName = {
+			"Increases Psychic Wave damage by 20%.",
+			"For every 3 refine levels, additionally increases Psychic Wave damage by 10%.",
+			"At Refine Level 9, reduces Psychic Wave skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Psychic Wave damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Psychic Wave)",
+		identifiedResourceName = "Glacier_F_Orb_34",
+		identifiedDescriptionName = {
+			"Increases Psychic Wave damage by 20%.",
+			"For every 3 refine levels, additionally increases Psychic Wave damage by 10%.",
+			"At Refine Level 9, reduces Psychic Wave skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Psychic Wave damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311226] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Diamond Dust)",
+		unidentifiedResourceName = "Glacier_F_Orb_35",
+		unidentifiedDescriptionName = {
+			"Increases Diamond Dust damage by 20%.",
+			"For every 3 refine levels, additionally increases Diamond Dust damage by 10%.",
+			"At Refine Level 9, additionally increases Diamond Dust damage by 20%.",
+			"At Refine Level 11, additionally increases Diamond Dust damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Diamond Dust)",
+		identifiedResourceName = "Glacier_F_Orb_35",
+		identifiedDescriptionName = {
+			"Increases Diamond Dust damage by 20%.",
+			"For every 3 refine levels, additionally increases Diamond Dust damage by 10%.",
+			"At Refine Level 9, additionally increases Diamond Dust damage by 20%.",
+			"At Refine Level 11, additionally increases Diamond Dust damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311227] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Varetyr Spear)",
+		unidentifiedResourceName = "Glacier_F_Orb_36",
+		unidentifiedDescriptionName = {
+			"Increases Varetyr Spear damage by 20%.",
+			"For every 3 refine levels, additionally increases Varetyr Spear damage by 10%.",
+			"At Refine Level 9, reduces Varetyr Spear skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Varetyr Spear damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Varetyr Spear)",
+		identifiedResourceName = "Glacier_F_Orb_36",
+		identifiedDescriptionName = {
+			"Increases Varetyr Spear damage by 20%.",
+			"For every 3 refine levels, additionally increases Varetyr Spear damage by 10%.",
+			"At Refine Level 9, reduces Varetyr Spear skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Varetyr Spear damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311228] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Earth Grave)",
+		unidentifiedResourceName = "Glacier_F_Orb_37",
+		unidentifiedDescriptionName = {
+			"Increases Earth Grave damage by 20%.",
+			"For every 3 refine levels, additionally increases Earth Grave damage by 10%.",
+			"At Refine Level 9, reduces Earth Grave skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Earth Grave damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Earth Grave)",
+		identifiedResourceName = "Glacier_F_Orb_37",
+		identifiedDescriptionName = {
+			"Increases Earth Grave damage by 20%.",
+			"For every 3 refine levels, additionally increases Earth Grave damage by 10%.",
+			"At Refine Level 9, reduces Earth Grave skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Earth Grave damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311229] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Poison Buster)",
+		unidentifiedResourceName = "Glacier_F_Orb_38",
+		unidentifiedDescriptionName = {
+			"Increases Poison Burst damage by 20%.",
+			"For every 3 refine levels, additionally increases Poison Burst damage by 10%.",
+			"At Refine Level 9, reduces Poison Burst skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Poison Burst damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Poison Buster)",
+		identifiedResourceName = "Glacier_F_Orb_38",
+		identifiedDescriptionName = {
+			"Increases Poison Burst damage by 20%.",
+			"For every 3 refine levels, additionally increases Poison Burst damage by 10%.",
+			"At Refine Level 9, reduces Poison Burst skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Poison Burst damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311230] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Adoramus)",
+		unidentifiedResourceName = "Glacier_F_Orb_39",
+		unidentifiedDescriptionName = {
+			"Increases Adoramus damage by 20%.",
+			"For every 3 refine levels, additionally increases Adoramus damage by 10%.",
+			"At Refine Level 9, additionally increases Adoramus damage by 20%.",
+			"At Refine Level 11, additionally increases Adoramus damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Adoramus)",
+		identifiedResourceName = "Glacier_F_Orb_39",
+		identifiedDescriptionName = {
+			"Increases Adoramus damage by 20%.",
+			"For every 3 refine levels, additionally increases Adoramus damage by 10%.",
+			"At Refine Level 9, additionally increases Adoramus damage by 20%.",
+			"At Refine Level 11, additionally increases Adoramus damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311231] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Judex)",
+		unidentifiedResourceName = "Glacier_F_Orb_40",
+		unidentifiedDescriptionName = {
+			"Increases Judex damage by 20%.",
+			"For every 3 refine levels, additionally increases Judex damage by 10%.",
+			"At Refine Level 9, additionally increases Judex damage by 20%.",
+			"At Refine Level 11, additionally increases Judex damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Judex)",
+		identifiedResourceName = "Glacier_F_Orb_40",
+		identifiedDescriptionName = {
+			"Increases Judex damage by 20%.",
+			"For every 3 refine levels, additionally increases Judex damage by 10%.",
+			"At Refine Level 9, additionally increases Judex damage by 20%.",
+			"At Refine Level 11, additionally increases Judex damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311232] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Duple Light)",
+		unidentifiedResourceName = "Glacier_F_Orb_41",
+		unidentifiedDescriptionName = {
+			"",
+			"Increases Duple Light damage by 20%.",
+			"For every 3 refine levels, additionally increases Duple Light damage by 10%.",
+			"At Refine Level 9, additionally increases Duple Light damage by 20%.",
+			"At Refine Level 11, additionally increases Duple Light damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Duple Light)",
+		identifiedResourceName = "Glacier_F_Orb_41",
+		identifiedDescriptionName = {
+			"",
+			"Increases Duple Light damage by 20%.",
+			"For every 3 refine levels, additionally increases Duple Light damage by 10%.",
+			"At Refine Level 9, additionally increases Duple Light damage by 20%.",
+			"At Refine Level 11, additionally increases Duple Light damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311233] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Tiger Cannon)",
+		unidentifiedResourceName = "Glacier_F_Orb_42",
+		unidentifiedDescriptionName = {
+			"Increases Tiger Cannon damage by 20%.",
+			"For every 3 refine levels, additionally increases Tiger Cannon damage by 10%.",
+			"At Refine Level 9, reduces Tiger Cannon skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Tiger Cannon damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Tiger Cannon)",
+		identifiedResourceName = "Glacier_F_Orb_42",
+		identifiedDescriptionName = {
+			"Increases Tiger Cannon damage by 20%.",
+			"For every 3 refine levels, additionally increases Tiger Cannon damage by 10%.",
+			"At Refine Level 9, reduces Tiger Cannon skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Tiger Cannon damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311234] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Rampage Blaster)",
+		unidentifiedResourceName = "Glacier_F_Orb_43",
+		unidentifiedDescriptionName = {
+			"Increases Rampage Blast damage by 20%.",
+			"For every 3 refine levels, additionally increases Rampage Blast damage by 10%.",
+			"At Refine Level 9, reduces Rampage Blast skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Rampage Blast damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Rampage Blaster)",
+		identifiedResourceName = "Glacier_F_Orb_43",
+		identifiedDescriptionName = {
+			"Increases Rampage Blast damage by 20%.",
+			"For every 3 refine levels, additionally increases Rampage Blast damage by 10%.",
+			"At Refine Level 9, reduces Rampage Blast skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Rampage Blast damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311235] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Sky Net Blow)",
+		unidentifiedResourceName = "Glacier_F_Orb_44",
+		unidentifiedDescriptionName = {
+			"Increases Sky Blow damage by 20%.",
+			"For every 3 refine levels, additionally increases Sky Blow damage by 10%.",
+			"At Refine Level 9, additionally increases Sky Blow damage by 20%.",
+			"At Refine Level 11, additionally increases Sky Blow damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Sky Net Blow)",
+		identifiedResourceName = "Glacier_F_Orb_44",
+		identifiedDescriptionName = {
+			"Increases Sky Blow damage by 20%.",
+			"For every 3 refine levels, additionally increases Sky Blow damage by 10%.",
+			"At Refine Level 9, additionally increases Sky Blow damage by 20%.",
+			"At Refine Level 11, additionally increases Sky Blow damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311236] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Lightning Ride)",
+		unidentifiedResourceName = "Glacier_F_Orb_45",
+		unidentifiedDescriptionName = {
+			"Increases Lightning Ride damage by 20%.",
+			"For every 3 refine levels, additionally increases Lightning Ride damage by 10%.",
+			"At Refine Level 9, additionally increases Lightning Ride damage by 20%.",
+			"At Refine Level 11, additionally increases Lightning Ride damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Lightning Ride)",
+		identifiedResourceName = "Glacier_F_Orb_45",
+		identifiedDescriptionName = {
+			"Increases Lightning Ride damage by 20%.",
+			"For every 3 refine levels, additionally increases Lightning Ride damage by 10%.",
+			"At Refine Level 9, additionally increases Lightning Ride damage by 20%.",
+			"At Refine Level 11, additionally increases Lightning Ride damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311237] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Knuckle Arrow)",
+		unidentifiedResourceName = "Glacier_F_Orb_46",
+		unidentifiedDescriptionName = {
+			"Increases Knuckle Arrow damage by 20%.",
+			"For every 3 refine levels, additionally increases Knuckle Arrow damage by 10%.",
+			"At Refine Level 9, additionally increases Knuckle Arrow damage by 20%.",
+			"At Refine Level 11, additionally increases Knuckle Arrow damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Knuckle Arrow)",
+		identifiedResourceName = "Glacier_F_Orb_46",
+		identifiedDescriptionName = {
+			"Increases Knuckle Arrow damage by 20%.",
+			"For every 3 refine levels, additionally increases Knuckle Arrow damage by 10%.",
+			"At Refine Level 9, additionally increases Knuckle Arrow damage by 20%.",
+			"At Refine Level 11, additionally increases Knuckle Arrow damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311238] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Aimed Bolt)",
+		unidentifiedResourceName = "Glacier_F_Orb_47",
+		unidentifiedDescriptionName = {
+			"Increases Aimed Bolt damage by 20%.",
+			"For every 3 refine levels, additionally increases Aimed Bolt damage by 10%.",
+			"At Refine Level 9, reduces Aimed Bolt skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Aimed Bolt damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Aimed Bolt)",
+		identifiedResourceName = "Glacier_F_Orb_47",
+		identifiedDescriptionName = {
+			"Increases Aimed Bolt damage by 20%.",
+			"For every 3 refine levels, additionally increases Aimed Bolt damage by 10%.",
+			"At Refine Level 9, reduces Aimed Bolt skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Aimed Bolt damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311239] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Arrow Storm)",
+		unidentifiedResourceName = "Glacier_F_Orb_48",
+		unidentifiedDescriptionName = {
+			"Increases Arrow Storm damage by 20%.",
+			"For every 3 refine levels, additionally increases Arrow Storm damage by 10%.",
+			"At Refine Level 9, reduces Arrow Storm skill cooldown by 1.2 seconds.",
+			"At Refine Level 11, additionally increases Arrow Storm damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Arrow Storm)",
+		identifiedResourceName = "Glacier_F_Orb_48",
+		identifiedDescriptionName = {
+			"Increases Arrow Storm damage by 20%.",
+			"For every 3 refine levels, additionally increases Arrow Storm damage by 10%.",
+			"At Refine Level 9, reduces Arrow Storm skill cooldown by 1.2 seconds.",
+			"At Refine Level 11, additionally increases Arrow Storm damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311240] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Warg Strike)",
+		unidentifiedResourceName = "Glacier_F_Orb_49",
+		unidentifiedDescriptionName = {
+			"Increases Worg Strike damage by 20%.",
+			"For every 3 refine levels, additionally increases Worg Strike damage by 10%.",
+			"At Refine Level 9, additionally increases Worg Strike damage by 20%.",
+			"At Refine Level 11, additionally increases Worg Strike damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Warg Strike)",
+		identifiedResourceName = "Glacier_F_Orb_49",
+		identifiedDescriptionName = {
+			"Increases Worg Strike damage by 20%.",
+			"For every 3 refine levels, additionally increases Worg Strike damage by 10%.",
+			"At Refine Level 9, additionally increases Worg Strike damage by 20%.",
+			"At Refine Level 11, additionally increases Worg Strike damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311241] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Severe Rainstorm)",
+		unidentifiedResourceName = "Glacier_F_Orb_50",
+		unidentifiedDescriptionName = {
+			"Increases Severe Rainstorm damage by 20%.",
+			"For every 3 refine levels, additionally increases Severe Rainstorm damage by 10%.",
+			"At Refine Level 9, reduces Severe Rainstorm skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Severe Rainstorm damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Severe Rainstorm)",
+		identifiedResourceName = "Glacier_F_Orb_50",
+		identifiedDescriptionName = {
+			"Increases Severe Rainstorm damage by 20%.",
+			"For every 3 refine levels, additionally increases Severe Rainstorm damage by 10%.",
+			"At Refine Level 9, reduces Severe Rainstorm skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Severe Rainstorm damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311242] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Metallic Sound)",
+		unidentifiedResourceName = "Glacier_F_Orb_51",
+		unidentifiedDescriptionName = {
+			"Increases Metallic Sound damage by 20%.",
+			"For every 3 refine levels, additionally increases Metallic Sound damage by 10%.",
+			"At Refine Level 9, reduces Metallic Sound skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Metallic Sound damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Metallic Sound)",
+		identifiedResourceName = "Glacier_F_Orb_51",
+		identifiedDescriptionName = {
+			"Increases Metallic Sound damage by 20%.",
+			"For every 3 refine levels, additionally increases Metallic Sound damage by 10%.",
+			"At Refine Level 9, reduces Metallic Sound skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Metallic Sound damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311243] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Reverberation)",
+		unidentifiedResourceName = "Glacier_F_Orb_52",
+		unidentifiedDescriptionName = {
+			"Increases Reverberation damage by 20%.",
+			"For every 3 refine levels, additionally increases Reverberation damage by 10%.",
+			"At Refine Level 9, additionally increases Reverberation damage by 20%.",
+			"At Refine Level 11, additionally increases Reverberation damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Reverberation)",
+		identifiedResourceName = "Glacier_F_Orb_52",
+		identifiedDescriptionName = {
+			"Increases Reverberation damage by 20%.",
+			"For every 3 refine levels, additionally increases Reverberation damage by 10%.",
+			"At Refine Level 9, additionally increases Reverberation damage by 20%.",
+			"At Refine Level 11, additionally increases Reverberation damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311244] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Blaze Explosion)",
+		unidentifiedResourceName = "Glacier_F_Orb_53",
+		unidentifiedDescriptionName = {
+			"Increases Blaze Kick and Solar Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Blaze Kick and Solar Explosion damage by 10%.",
+			"At Refine Level 9, additionally increases Blaze Kick and Solar Explosion damage by 20%.",
+			"At Refine Level 11, additionally increases Blaze Kick and Solar Explosion damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Blaze Explosion)",
+		identifiedResourceName = "Glacier_F_Orb_53",
+		identifiedDescriptionName = {
+			"Increases Blaze Kick and Solar Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Blaze Kick and Solar Explosion damage by 10%.",
+			"At Refine Level 9, additionally increases Blaze Kick and Solar Explosion damage by 20%.",
+			"At Refine Level 11, additionally increases Blaze Kick and Solar Explosion damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311245] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Moon Kick)",
+		unidentifiedResourceName = "Glacier_F_Orb_54",
+		unidentifiedDescriptionName = {
+			"Increases New Moon Kick and Full Moon Kick damage by 20%.",
+			"For every 3 refine levels, additionally increases New Moon Kick and Full Moon Kick damage by 10%.",
+			"At Refine Level 9, additionally increases New Moon Kick and Full Moon Kick damage by 20%.",
+			"At Refine Level 11, additionally increases New Moon Kick and Full Moon Kick damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Moon Kick)",
+		identifiedResourceName = "Glacier_F_Orb_54",
+		identifiedDescriptionName = {
+			"Increases New Moon Kick and Full Moon Kick damage by 20%.",
+			"For every 3 refine levels, additionally increases New Moon Kick and Full Moon Kick damage by 10%.",
+			"At Refine Level 9, additionally increases New Moon Kick and Full Moon Kick damage by 20%.",
+			"At Refine Level 11, additionally increases New Moon Kick and Full Moon Kick damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311246] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Flash Falling)",
+		unidentifiedResourceName = "Glacier_F_Orb_55",
+		unidentifiedDescriptionName = {
+			"Increases Flash Kick and Falling Stars damage by 20%.",
+			"For every 3 refine levels, additionally increases Flash Kick and Falling Stars damage by 10%.",
+			"At Refine Level 9, additionally increases Flash Kick and Falling Stars damage by 20%.",
+			"At Refine Level 11, additionally increases Flash Kick and Falling Stars damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Flash Falling)",
+		identifiedResourceName = "Glacier_F_Orb_55",
+		identifiedDescriptionName = {
+			"Increases Flash Kick and Falling Stars damage by 20%.",
+			"For every 3 refine levels, additionally increases Flash Kick and Falling Stars damage by 10%.",
+			"At Refine Level 9, additionally increases Flash Kick and Falling Stars damage by 20%.",
+			"At Refine Level 11, additionally increases Flash Kick and Falling Stars damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311247] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Espa)",
+		unidentifiedResourceName = "Glacier_F_Orb_56",
+		unidentifiedDescriptionName = {
+			"Increases Espa damage by 20%.",
+			"For every 3 refine levels, additionally increases Espa damage by 10%.",
+			"At Refine Level 9, additionally increases Espa damage by 20%.",
+			"At Refine Level 11, additionally increases Espa damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Espa)",
+		identifiedResourceName = "Glacier_F_Orb_56",
+		identifiedDescriptionName = {
+			"Increases Espa damage by 20%.",
+			"For every 3 refine levels, additionally increases Espa damage by 10%.",
+			"At Refine Level 9, additionally increases Espa damage by 20%.",
+			"At Refine Level 11, additionally increases Espa damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311248] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Eswhoo)",
+		unidentifiedResourceName = "Glacier_F_Orb_57",
+		unidentifiedDescriptionName = {
+			"Increases Eswhoo damage by 20%.",
+			"For every 3 refine levels, additionally increases Eswhoo damage by 10%.",
+			"At Refine Level 9, additionally increases Eswhoo damage by 20%.",
+			"At Refine Level 11, additionally increases Eswhoo damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Eswhoo)",
+		identifiedResourceName = "Glacier_F_Orb_57",
+		identifiedDescriptionName = {
+			"Increases Eswhoo damage by 20%.",
+			"For every 3 refine levels, additionally increases Eswhoo damage by 10%.",
+			"At Refine Level 9, additionally increases Eswhoo damage by 20%.",
+			"At Refine Level 11, additionally increases Eswhoo damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311249] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Soul Explosion)",
+		unidentifiedResourceName = "Glacier_F_Orb_58",
+		unidentifiedDescriptionName = {
+			"Increases Curse Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Curse Explosion damage by 10%.",
+			"At Refine Level 9, additionally increases Curse Explosion damage by 20%.",
+			"At Refine Level 11, additionally increases Curse Explosion damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Soul Explosion)",
+		identifiedResourceName = "Glacier_F_Orb_58",
+		identifiedDescriptionName = {
+			"Increases Curse Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Curse Explosion damage by 10%.",
+			"At Refine Level 9, additionally increases Curse Explosion damage by 20%.",
+			"At Refine Level 11, additionally increases Curse Explosion damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311250] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Fire Dance)",
+		unidentifiedResourceName = "Glacier_F_Orb_59",
+		unidentifiedDescriptionName = {
+			"Increases Fire Dance damage by 20%.",
+			"For every 3 refine levels, additionally increases Fire Dance damage by 10%.",
+			"At Refine Level 9, additionally increases Fire Dance damage by 20%.",
+			"At Refine Level 11, additionally increases Fire Dance damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Fire Dance)",
+		identifiedResourceName = "Glacier_F_Orb_59",
+		identifiedDescriptionName = {
+			"Increases Fire Dance damage by 20%.",
+			"For every 3 refine levels, additionally increases Fire Dance damage by 10%.",
+			"At Refine Level 9, additionally increases Fire Dance damage by 20%.",
+			"At Refine Level 11, additionally increases Fire Dance damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311251] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hammer of God)",
+		unidentifiedResourceName = "Glacier_F_Orb_60",
+		unidentifiedDescriptionName = {
+			"Increases God's Hammer damage by 20%.",
+			"For every 3 refine levels, additionally increases God's Hammer damage by 10%.",
+			"At Refine Level 9, reduces God's Hammer skill cooldown by 8 seconds.",
+			"At Refine Level 11, additionally increases God's Hammer damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hammer of God)",
+		identifiedResourceName = "Glacier_F_Orb_60",
+		identifiedDescriptionName = {
+			"Increases God's Hammer damage by 20%.",
+			"For every 3 refine levels, additionally increases God's Hammer damage by 10%.",
+			"At Refine Level 9, reduces God's Hammer skill cooldown by 8 seconds.",
+			"At Refine Level 11, additionally increases God's Hammer damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311252] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Dragon Tail)",
+		unidentifiedResourceName = "Glacier_F_Orb_61",
+		unidentifiedDescriptionName = {
+			"Increases Dragon Tail damage by 20%.",
+			"For every 3 refine levels, additionally increases Dragon Tail damage by 10%.",
+			"At Refine Level 9, reduces Dragon Tail skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Dragon Tail damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Dragon Tail)",
+		identifiedResourceName = "Glacier_F_Orb_61",
+		identifiedDescriptionName = {
+			"Increases Dragon Tail damage by 20%.",
+			"For every 3 refine levels, additionally increases Dragon Tail damage by 10%.",
+			"At Refine Level 9, reduces Dragon Tail skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Dragon Tail damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311253] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Shatter Storm)",
+		unidentifiedResourceName = "Glacier_F_Orb_62",
+		unidentifiedDescriptionName = {
+			"Increases Shattering Storm and Vanishing Buster damage by 20%.",
+			"For every 3 refine levels, additionally increases Shattering Storm and Vanishing Buster damage by 10%.",
+			"At Refine Level 9, additionally increases Vanishing Buster damage by 20% and reduces Shattering Storm skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Shattering Storm and Vanishing Buster damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Shatter Storm)",
+		identifiedResourceName = "Glacier_F_Orb_62",
+		identifiedDescriptionName = {
+			"Increases Shattering Storm and Vanishing Buster damage by 20%.",
+			"For every 3 refine levels, additionally increases Shattering Storm and Vanishing Buster damage by 10%.",
+			"At Refine Level 9, additionally increases Vanishing Buster damage by 20% and reduces Shattering Storm skill cooldown by 1 second.",
+			"At Refine Level 11, additionally increases Shattering Storm and Vanishing Buster damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311254] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Round Trip)",
+		unidentifiedResourceName = "Glacier_F_Orb_63",
+		unidentifiedDescriptionName = {
+			"Increases Round Trip damage by 20%.",
+			"For every 3 refine levels, additionally increases Round Trip damage by 10%.",
+			"At Refine Level 9, additionally increases Round Trip damage by 20%.",
+			"At Refine Level 11, additionally increases Round Trip damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Round Trip)",
+		identifiedResourceName = "Glacier_F_Orb_63",
+		identifiedDescriptionName = {
+			"Increases Round Trip damage by 20%.",
+			"For every 3 refine levels, additionally increases Round Trip damage by 10%.",
+			"At Refine Level 9, additionally increases Round Trip damage by 20%.",
+			"At Refine Level 11, additionally increases Round Trip damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311255] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cross Slash)",
+		unidentifiedResourceName = "Glacier_F_Orb_64",
+		unidentifiedDescriptionName = {
+			"Increases Cross Slash damage by 20%.",
+			"For every 3 refine levels, additionally increases Cross Slash damage by 10%.",
+			"At Refine Level 9, reduces Cross Slash skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Cross Slash damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cross Slash)",
+		identifiedResourceName = "Glacier_F_Orb_64",
+		identifiedDescriptionName = {
+			"Increases Cross Slash damage by 20%.",
+			"For every 3 refine levels, additionally increases Cross Slash damage by 10%.",
+			"At Refine Level 9, reduces Cross Slash skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Cross Slash damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311256] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Exploding Flake Wind)",
+		unidentifiedResourceName = "Glacier_F_Orb_65",
+		unidentifiedDescriptionName = {
+			"Increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 20%.",
+			"For every 3 refine levels, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 10%.",
+			"At Refine Level 9, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 20%.",
+			"At Refine Level 11, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Exploding Flake Wind)",
+		identifiedResourceName = "Glacier_F_Orb_65",
+		identifiedDescriptionName = {
+			"Increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 20%.",
+			"For every 3 refine levels, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 10%.",
+			"At Refine Level 9, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 20%.",
+			"At Refine Level 11, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311257] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Flame Ice Wind)",
+		unidentifiedResourceName = "Glacier_F_Orb_66",
+		unidentifiedDescriptionName = {
+			"Increases Flaming Petals, Freezing Spear, and Wind Blade damage by 20%.",
+			"For every 3 refine levels, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 10%.",
+			"At Refine Level 9, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 20%.",
+			"At Refine Level 11, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Flame Ice Wind)",
+		identifiedResourceName = "Glacier_F_Orb_66",
+		identifiedDescriptionName = {
+			"Increases Flaming Petals, Freezing Spear, and Wind Blade damage by 20%.",
+			"For every 3 refine levels, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 10%.",
+			"At Refine Level 9, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 20%.",
+			"At Refine Level 11, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311258] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Kunai Explosion)",
+		unidentifiedResourceName = "Glacier_F_Orb_67",
+		unidentifiedDescriptionName = {
+			"Increases Kunai Splash and Kunai Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Kunai Splash and Kunai Explosion damage by 10%.",
+			"At Refine Level 9, additionally increases Kunai Splash and Kunai Explosion damage by 20%.",
+			"At Refine Level 11, additionally increases Kunai Splash and Kunai Explosion damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Kunai Explosion)",
+		identifiedResourceName = "Glacier_F_Orb_67",
+		identifiedDescriptionName = {
+			"Increases Kunai Splash and Kunai Explosion damage by 20%.",
+			"For every 3 refine levels, additionally increases Kunai Splash and Kunai Explosion damage by 10%.",
+			"At Refine Level 9, additionally increases Kunai Splash and Kunai Explosion damage by 20%.",
+			"At Refine Level 11, additionally increases Kunai Splash and Kunai Explosion damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311259] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Swirling Petal)",
+		unidentifiedResourceName = "Glacier_F_Orb_68",
+		unidentifiedDescriptionName = {
+			"Increases Swirling Petal damage by 20%.",
+			"For every 3 refine levels, additionally increases Swirling Petal damage by 10%.",
+			"At Refine Level 9, reduces Swirling Petal skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Swirling Petal damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Swirling Petal)",
+		identifiedResourceName = "Glacier_F_Orb_68",
+		identifiedDescriptionName = {
+			"Increases Swirling Petal damage by 20%.",
+			"For every 3 refine levels, additionally increases Swirling Petal damage by 10%.",
+			"At Refine Level 9, reduces Swirling Petal skill cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Swirling Petal damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311260] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Silvervine Stem Spear)",
+		unidentifiedResourceName = "Glacier_F_Orb_69",
+		unidentifiedDescriptionName = {
+			"Increases Silvervine Stem Spear damage by 20%.",
+			"For every 3 refine levels, additionally increases Silvervine Stem Spear damage by 10%.",
+			"At Refine Level 9, additionally increases Silvervine Stem Spear damage by 20%.",
+			"At Refine Level 11, additionally increases Silvervine Stem Spear damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Silvervine Stem Spear)",
+		identifiedResourceName = "Glacier_F_Orb_69",
+		identifiedDescriptionName = {
+			"Increases Silvervine Stem Spear damage by 20%.",
+			"For every 3 refine levels, additionally increases Silvervine Stem Spear damage by 10%.",
+			"At Refine Level 9, additionally increases Silvervine Stem Spear damage by 20%.",
+			"At Refine Level 11, additionally increases Silvervine Stem Spear damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311261] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Catnip Meteor)",
+		unidentifiedResourceName = "Glacier_F_Orb_70",
+		unidentifiedDescriptionName = {
+			"Increases Catnip Meteor damage by 20%.",
+			"For every 3 refine levels, additionally increases Catnip Meteor damage by 10%.",
+			"At Refine Level 9, reduces Catnip Meteor skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Catnip Meteor damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Catnip Meteor)",
+		identifiedResourceName = "Glacier_F_Orb_70",
+		identifiedDescriptionName = {
+			"Increases Catnip Meteor damage by 20%.",
+			"For every 3 refine levels, additionally increases Catnip Meteor damage by 10%.",
+			"At Refine Level 9, reduces Catnip Meteor skill cooldown by 1.5 seconds.",
+			"At Refine Level 11, additionally increases Catnip Meteor damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311262] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Lunatic Carrot Beat)",
+		unidentifiedResourceName = "Glacier_F_Orb_71",
+		unidentifiedDescriptionName = {
+			"Increases Lunatic Carrot Beat damage by 20%.",
+			"For every 3 refine levels, additionally increases Lunatic Carrot Beat damage by 10%.",
+			"At Refine Level 9, additionally increases Lunatic Carrot Beat damage by 20%.",
+			"At Refine Level 11, additionally increases Lunatic Carrot Beat damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Lunatic Carrot Beat)",
+		identifiedResourceName = "Glacier_F_Orb_71",
+		identifiedDescriptionName = {
+			"Increases Lunatic Carrot Beat damage by 20%.",
+			"For every 3 refine levels, additionally increases Lunatic Carrot Beat damage by 10%.",
+			"At Refine Level 9, additionally increases Lunatic Carrot Beat damage by 20%.",
+			"At Refine Level 11, additionally increases Lunatic Carrot Beat damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311263] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Picky Peck)",
+		unidentifiedResourceName = "Glacier_F_Orb_72",
+		unidentifiedDescriptionName = {
+			"Increases Picky Peck damage by 20%.",
+			"For every 3 refine levels, additionally increases Picky Peck damage by 10%.",
+			"At Refine Level 9, additionally increases Picky Peck damage by 20%.",
+			"At Refine Level 11, additionally increases Picky Peck damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Picky Peck)",
+		identifiedResourceName = "Glacier_F_Orb_72",
+		identifiedDescriptionName = {
+			"Increases Picky Peck damage by 20%.",
+			"For every 3 refine levels, additionally increases Picky Peck damage by 10%.",
+			"At Refine Level 9, additionally increases Picky Peck damage by 20%.",
+			"At Refine Level 11, additionally increases Picky Peck damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311264] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Savage Soul)",
+		unidentifiedResourceName = "Glacier_F_Orb_73",
+		unidentifiedDescriptionName = {
+			"Increases Spirit of Savage damage by 20%.",
+			"For every 3 refine levels, additionally increases Spirit of Savage damage by 10%.",
+			"At Refine Level 9, additionally increases Spirit of Savage damage by 20%.",
+			"At Refine Level 11, additionally increases Spirit of Savage damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Savage Soul)",
+		identifiedResourceName = "Glacier_F_Orb_73",
+		identifiedDescriptionName = {
+			"Increases Spirit of Savage damage by 20%.",
+			"For every 3 refine levels, additionally increases Spirit of Savage damage by 10%.",
+			"At Refine Level 9, additionally increases Spirit of Savage damage by 20%.",
+			"At Refine Level 11, additionally increases Spirit of Savage damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311265] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Holy Cross)",
+		unidentifiedResourceName = "Glacier_F_Orb_74",
+		unidentifiedDescriptionName = {
+			"Increases Holy Cross damage by 20%.",
+			"For every 3 refine levels, additionally increases Holy Cross damage by 20%.",
+			"At Refine Level 9, additionally increases Holy Cross damage by 30%.",
+			"At Refine Level 11, additionally increases Holy Cross damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Holy Cross)",
+		identifiedResourceName = "Glacier_F_Orb_74",
+		identifiedDescriptionName = {
+			"Increases Holy Cross damage by 20%.",
+			"For every 3 refine levels, additionally increases Holy Cross damage by 20%.",
+			"At Refine Level 9, additionally increases Holy Cross damage by 30%.",
+			"At Refine Level 11, additionally increases Holy Cross damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311266] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Back Stab)",
+		unidentifiedResourceName = "Glacier_F_Orb_75",
+		unidentifiedDescriptionName = {
+			"Increases Back Stab damage by 20%.",
+			"For every 3 refine levels, additionally increases Back Stab damage by 20%.",
+			"At Refine Level 9, additionally increases Back Stab damage by 30%.",
+			"At Refine Level 11, additionally increases Back Stab damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Back Stab)",
+		identifiedResourceName = "Glacier_F_Orb_75",
+		identifiedDescriptionName = {
+			"Increases Back Stab damage by 20%.",
+			"For every 3 refine levels, additionally increases Back Stab damage by 20%.",
+			"At Refine Level 9, additionally increases Back Stab damage by 30%.",
+			"At Refine Level 11, additionally increases Back Stab damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311267] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Shield Boomerang)",
+		unidentifiedResourceName = "Glacier_F_Orb_76",
+		unidentifiedDescriptionName = {
+			"Increases Shield Boomerang damage by 20%.",
+			"For every 3 refine levels, additionally increases Shield Boomerang damage by 20%.",
+			"At Refine Level 9, additionally increases Shield Boomerang damage by 30%.",
+			"At Refine Level 11, additionally increases Shield Boomerang damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Shield Boomerang)",
+		identifiedResourceName = "Glacier_F_Orb_76",
+		identifiedDescriptionName = {
+			"Increases Shield Boomerang damage by 20%.",
+			"For every 3 refine levels, additionally increases Shield Boomerang damage by 20%.",
+			"At Refine Level 9, additionally increases Shield Boomerang damage by 30%.",
+			"At Refine Level 11, additionally increases Shield Boomerang damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311268] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Lord of Vermilion)",
+		unidentifiedResourceName = "Glacier_F_Orb_77",
+		unidentifiedDescriptionName = {
+			"Increases Lord of Vermilion damage by 20%.",
+			"For every 3 refine levels, additionally increases Lord of Vermilion damage by 20%.",
+			"At Refine Level 9, additionally increases Lord of Vermilion damage by 30%.",
+			"At Refine Level 11, additionally increases Lord of Vermilion damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Lord of Vermilion)",
+		identifiedResourceName = "Glacier_F_Orb_77",
+		identifiedDescriptionName = {
+			"Increases Lord of Vermilion damage by 20%.",
+			"For every 3 refine levels, additionally increases Lord of Vermilion damage by 20%.",
+			"At Refine Level 9, additionally increases Lord of Vermilion damage by 30%.",
+			"At Refine Level 11, additionally increases Lord of Vermilion damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311269] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Jupitel Thunder)",
+		unidentifiedResourceName = "Glacier_F_Orb_78",
+		unidentifiedDescriptionName = {
+			"Increases Jupitel Thunder damage by 20%.",
+			"For every 3 refine levels, additionally increases Jupitel Thunder damage by 20%.",
+			"At Refine Level 9, additionally increases Jupitel Thunder damage by 30%.",
+			"At Refine Level 11, additionally increases Jupitel Thunder damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Jupitel Thunder)",
+		identifiedResourceName = "Glacier_F_Orb_78",
+		identifiedDescriptionName = {
+			"Increases Jupitel Thunder damage by 20%.",
+			"For every 3 refine levels, additionally increases Jupitel Thunder damage by 20%.",
+			"At Refine Level 9, additionally increases Jupitel Thunder damage by 30%.",
+			"At Refine Level 11, additionally increases Jupitel Thunder damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311270] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Meteor Storm)",
+		unidentifiedResourceName = "Glacier_F_Orb_79",
+		unidentifiedDescriptionName = {
+			"Increases Meteor Storm damage by 20%.",
+			"For every 3 refine levels, additionally increases Meteor Storm damage by 20%.",
+			"At Refine Level 9, additionally increases Meteor Storm damage by 30%.",
+			"At Refine Level 11, additionally increases Meteor Storm damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Meteor Storm)",
+		identifiedResourceName = "Glacier_F_Orb_79",
+		identifiedDescriptionName = {
+			"Increases Meteor Storm damage by 20%.",
+			"For every 3 refine levels, additionally increases Meteor Storm damage by 20%.",
+			"At Refine Level 9, additionally increases Meteor Storm damage by 30%.",
+			"At Refine Level 11, additionally increases Meteor Storm damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311271] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Storm Gust)",
+		unidentifiedResourceName = "Glacier_F_Orb_80",
+		unidentifiedDescriptionName = {
+			"Increases Storm Gust damage by 20%.",
+			"For every 3 refine levels, additionally increases Storm Gust damage by 20%.",
+			"At Refine Level 9, additionally increases Storm Gust damage by 30%.",
+			"At Refine Level 11, additionally increases Storm Gust damage by 20%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Storm Gust)",
+		identifiedResourceName = "Glacier_F_Orb_80",
+		identifiedDescriptionName = {
+			"Increases Storm Gust damage by 20%.",
+			"For every 3 refine levels, additionally increases Storm Gust damage by 20%.",
+			"At Refine Level 9, additionally increases Storm Gust damage by 30%.",
+			"At Refine Level 11, additionally increases Storm Gust damage by 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311272] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Servant Weapon)",
+		unidentifiedResourceName = "Glacier_F_Orb_81",
+		unidentifiedDescriptionName = {
+			"Increases Servant Weapon damage by 10%.",
+			"For every 4 refine levels, additionally increases Servant Weapon damage by 5%.",
+			"At Refine Level 9, additionally increases Servant Weapon damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Servant Weapon)",
+		identifiedResourceName = "Glacier_F_Orb_81",
+		identifiedDescriptionName = {
+			"Increases Servant Weapon damage by 10%.",
+			"For every 4 refine levels, additionally increases Servant Weapon damage by 5%.",
+			"At Refine Level 9, additionally increases Servant Weapon damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311273] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hack and Slasher)",
+		unidentifiedResourceName = "Glacier_F_Orb_82",
+		unidentifiedDescriptionName = {
+			"Increases Hack and Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Hack and Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Hack and Slash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hack and Slasher)",
+		identifiedResourceName = "Glacier_F_Orb_82",
+		identifiedDescriptionName = {
+			"Increases Hack and Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Hack and Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Hack and Slash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311274] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Madness Crusher)",
+		unidentifiedResourceName = "Glacier_F_Orb_83",
+		unidentifiedDescriptionName = {
+			"Increases Madness Crusher damage by 10%.",
+			"For every 4 refine levels, additionally increases Madness Crusher damage by 5%.",
+			"At Refine Level 9, additionally increases Madness Crusher damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Madness Crusher)",
+		identifiedResourceName = "Glacier_F_Orb_83",
+		identifiedDescriptionName = {
+			"Increases Madness Crusher damage by 10%.",
+			"For every 4 refine levels, additionally increases Madness Crusher damage by 5%.",
+			"At Refine Level 9, additionally increases Madness Crusher damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311275] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Storm Slash)",
+		unidentifiedResourceName = "Glacier_F_Orb_84",
+		unidentifiedDescriptionName = {
+			"Increases Storm Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Storm Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Storm Slash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Storm Slash)",
+		identifiedResourceName = "Glacier_F_Orb_84",
+		identifiedDescriptionName = {
+			"Increases Storm Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Storm Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Storm Slash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311276] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Overslash)",
+		unidentifiedResourceName = "Glacier_F_Orb_85",
+		unidentifiedDescriptionName = {
+			"Increases Overslash damage by 10%.",
+			"For every 4 refine levels, additionally increases Overslash damage by 5%.",
+			"At Refine Level 9, additionally increases Overslash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Overslash)",
+		identifiedResourceName = "Glacier_F_Orb_85",
+		identifiedDescriptionName = {
+			"Increases Overslash damage by 10%.",
+			"For every 4 refine levels, additionally increases Overslash damage by 5%.",
+			"At Refine Level 9, additionally increases Overslash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311277] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Shield Shooting)",
+		unidentifiedResourceName = "Glacier_F_Orb_86",
+		unidentifiedDescriptionName = {
+			"Increases Shield Shooting damage by 10%.",
+			"For every 4 refine levels, additionally increases Shield Shooting damage by 5%.",
+			"At Refine Level 9, additionally increases Shield Shooting damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Shield Shooting)",
+		identifiedResourceName = "Glacier_F_Orb_86",
+		identifiedDescriptionName = {
+			"Increases Shield Shooting damage by 10%.",
+			"For every 4 refine levels, additionally increases Shield Shooting damage by 5%.",
+			"At Refine Level 9, additionally increases Shield Shooting damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311278] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Cross Rain)",
+		unidentifiedResourceName = "Glacier_F_Orb_87",
+		unidentifiedDescriptionName = {
+			"Increases Cross Rain damage by 10%.",
+			"For every 4 refine levels, additionally increases Cross Rain damage by 5%.",
+			"At Refine Level 9, additionally increases Cross Rain damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Cross Rain)",
+		identifiedResourceName = "Glacier_F_Orb_87",
+		identifiedDescriptionName = {
+			"Increases Cross Rain damage by 10%.",
+			"For every 4 refine levels, additionally increases Cross Rain damage by 5%.",
+			"At Refine Level 9, additionally increases Cross Rain damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311279] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Axe Stomp)",
+		unidentifiedResourceName = "Glacier_F_Orb_88",
+		unidentifiedDescriptionName = {
+			"Increases Axe Stomp damage by 10%.",
+			"For every 4 refine levels, additionally increases Axe Stomp damage by 5%.",
+			"At Refine Level 9, additionally increases Axe Stomp damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Axe Stomp)",
+		identifiedResourceName = "Glacier_F_Orb_88",
+		identifiedDescriptionName = {
+			"Increases Axe Stomp damage by 10%.",
+			"For every 4 refine levels, additionally increases Axe Stomp damage by 5%.",
+			"At Refine Level 9, additionally increases Axe Stomp damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311280] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Acidified Zone)",
+		unidentifiedResourceName = "Glacier_F_Orb_89",
+		unidentifiedDescriptionName = {
+			"Increases Acidified Zone (Water/Wind/Earth/Fire) damage by 10%.",
+			"For every 4 refine levels, additionally increases Acidified Zone (Water/Wind/Earth/Fire) damage by 5%.",
+			"At Refine Level 9, additionally increases Acidified Zone (Water/Wind/Earth/Fire) damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Acidified Zone)",
+		identifiedResourceName = "Glacier_F_Orb_89",
+		identifiedDescriptionName = {
+			"Increases Acidified Zone (Water/Wind/Earth/Fire) damage by 10%.",
+			"For every 4 refine levels, additionally increases Acidified Zone (Water/Wind/Earth/Fire) damage by 5%.",
+			"At Refine Level 9, additionally increases Acidified Zone (Water/Wind/Earth/Fire) damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311281] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Savage Impact)",
+		unidentifiedResourceName = "Glacier_F_Orb_90",
+		unidentifiedDescriptionName = {
+			"Increases Savage Impact damage by 10%.",
+			"For every 4 refine levels, additionally increases Savage Impact damage by 5%.",
+			"At Refine Level 9, additionally increases Savage Impact damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Savage Impact)",
+		identifiedResourceName = "Glacier_F_Orb_90",
+		identifiedDescriptionName = {
+			"Increases Savage Impact damage by 10%.",
+			"For every 4 refine levels, additionally increases Savage Impact damage by 5%.",
+			"At Refine Level 9, additionally increases Savage Impact damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311282] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Eternal Slash)",
+		unidentifiedResourceName = "Glacier_F_Orb_91",
+		unidentifiedDescriptionName = {
+			"Increases Eternal Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Eternal Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Eternal Slash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Eternal Slash)",
+		identifiedResourceName = "Glacier_F_Orb_91",
+		identifiedDescriptionName = {
+			"Increases Eternal Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Eternal Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Eternal Slash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311283] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Impact Crater)",
+		unidentifiedResourceName = "Glacier_F_Orb_92",
+		unidentifiedDescriptionName = {
+			"Increases Impact Crater damage by 10%.",
+			"For every 4 refine levels, additionally increases Impact Crater damage by 5%.",
+			"At Refine Level 9, additionally increases Impact Crater damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Impact Crater)",
+		identifiedResourceName = "Glacier_F_Orb_92",
+		identifiedDescriptionName = {
+			"Increases Impact Crater damage by 10%.",
+			"For every 4 refine levels, additionally increases Impact Crater damage by 5%.",
+			"At Refine Level 9, additionally increases Impact Crater damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311285] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Abyss Dagger)",
+		unidentifiedResourceName = "Glacier_F_Orb_93",
+		unidentifiedDescriptionName = {
+			"Increases Abyss Dagger damage by 10%.",
+			"For every 4 refine levels, additionally increases Abyss Dagger damage by 5%.",
+			"At Refine Level 9, additionally increases Abyss Dagger damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Abyss Dagger)",
+		identifiedResourceName = "Glacier_F_Orb_93",
+		identifiedDescriptionName = {
+			"Increases Abyss Dagger damage by 10%.",
+			"For every 4 refine levels, additionally increases Abyss Dagger damage by 5%.",
+			"At Refine Level 9, additionally increases Abyss Dagger damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311286] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Chain Reaction Shot)",
+		unidentifiedResourceName = "Glacier_F_Orb_94",
+		unidentifiedDescriptionName = {
+			"Increases Chain Reaction Shot damage by 10%.",
+			"For every 4 refine levels, additionally increases Chain Reaction Shot damage by 5%.",
+			"At Refine Level 9, additionally increases Chain Reaction Shot damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Chain Reaction Shot)",
+		identifiedResourceName = "Glacier_F_Orb_94",
+		identifiedDescriptionName = {
+			"Increases Chain Reaction Shot damage by 10%.",
+			"For every 4 refine levels, additionally increases Chain Reaction Shot damage by 5%.",
+			"At Refine Level 9, additionally increases Chain Reaction Shot damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311287] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Frenzy Shot)",
+		unidentifiedResourceName = "Glacier_F_Orb_95",
+		unidentifiedDescriptionName = {
+			"Increases Frenzy Shot damage by 10%.",
+			"For every 4 refine levels, additionally increases Frenzy Shot damage by 5%.",
+			"At Refine Level 9, additionally increases Frenzy Shot damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Frenzy Shot)",
+		identifiedResourceName = "Glacier_F_Orb_95",
+		identifiedDescriptionName = {
+			"Increases Frenzy Shot damage by 10%.",
+			"For every 4 refine levels, additionally increases Frenzy Shot damage by 5%.",
+			"At Refine Level 9, additionally increases Frenzy Shot damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311288] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Abyss Square)",
+		unidentifiedResourceName = "Glacier_F_Orb_96",
+		unidentifiedDescriptionName = {
+			"Increases Abyss Rift damage by 10%.",
+			"For every 4 refine levels, additionally increases Abyss Rift damage by 5%.",
+			"At Refine Level 9, additionally increases Abyss Rift damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Abyss Square)",
+		identifiedResourceName = "Glacier_F_Orb_96",
+		identifiedDescriptionName = {
+			"Increases Abyss Rift damage by 10%.",
+			"For every 4 refine levels, additionally increases Abyss Rift damage by 5%.",
+			"At Refine Level 9, additionally increases Abyss Rift damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311289] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Deft Stab)",
+		unidentifiedResourceName = "Glacier_F_Orb_97",
+		unidentifiedDescriptionName = {
+			"Increases Deft Stab damage by 10%.",
+			"For every 4 refine levels, additionally increases Deft Stab damage by 5%.",
+			"At Refine Level 9, additionally increases Deft Stab damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Deft Stab)",
+		identifiedResourceName = "Glacier_F_Orb_97",
+		identifiedDescriptionName = {
+			"Increases Deft Stab damage by 10%.",
+			"For every 4 refine levels, additionally increases Deft Stab damage by 5%.",
+			"At Refine Level 9, additionally increases Deft Stab damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311290] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Flare Magic)",
+		unidentifiedResourceName = "Glacier_F_Orb_98",
+		unidentifiedDescriptionName = {
+			"Increases Floral Flare Road and Crimson Arrow damage by 10%.",
+			"For every 4 refine levels, additionally increases Floral Flare Road and Crimson Arrow damage by 5%.",
+			"At Refine Level 9, additionally increases Floral Flare Road and Crimson Arrow damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Flare Magic)",
+		identifiedResourceName = "Glacier_F_Orb_98",
+		identifiedDescriptionName = {
+			"Increases Floral Flare Road and Crimson Arrow damage by 10%.",
+			"For every 4 refine levels, additionally increases Floral Flare Road and Crimson Arrow damage by 5%.",
+			"At Refine Level 9, additionally increases Floral Flare Road and Crimson Arrow damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311291] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Crystal Magic)",
+		unidentifiedResourceName = "Glacier_F_Orb_99",
+		unidentifiedDescriptionName = {
+			"Increases Crystal Rain and Frozen Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Crystal Rain and Frozen Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Crystal Rain and Frozen Slash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Crystal Magic)",
+		identifiedResourceName = "Glacier_F_Orb_99",
+		identifiedDescriptionName = {
+			"Increases Crystal Rain and Frozen Slash damage by 10%.",
+			"For every 4 refine levels, additionally increases Crystal Rain and Frozen Slash damage by 5%.",
+			"At Refine Level 9, additionally increases Crystal Rain and Frozen Slash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311292] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Storm Magic)",
+		unidentifiedResourceName = "Glacier_F_Orb_100",
+		unidentifiedDescriptionName = {
+			"Increases Tornado Storm and Storm Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Tornado Storm and Storm Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Tornado Storm and Storm Cannon damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Storm Magic)",
+		identifiedResourceName = "Glacier_F_Orb_100",
+		identifiedDescriptionName = {
+			"Increases Tornado Storm and Storm Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Tornado Storm and Storm Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Tornado Storm and Storm Cannon damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311293] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Rock Magic)",
+		unidentifiedResourceName = "Glacier_F_Orb_101",
+		unidentifiedDescriptionName = {
+			"Increases Stratum Tremor and Rock Down damage by 10%.",
+			"For every 4 refine levels, additionally increases Stratum Tremor and Rock Down damage by 5%.",
+			"At Refine Level 9, additionally increases Stratum Tremor and Rock Down damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Rock Magic)",
+		identifiedResourceName = "Glacier_F_Orb_101",
+		identifiedDescriptionName = {
+			"Increases Stratum Tremor and Rock Down damage by 10%.",
+			"For every 4 refine levels, additionally increases Stratum Tremor and Rock Down damage by 5%.",
+			"At Refine Level 9, additionally increases Stratum Tremor and Rock Down damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311294] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Illusion Soul Magic)",
+		unidentifiedResourceName = "Glacier_F_Orb_102",
+		unidentifiedDescriptionName = {
+			"Increases Mystery Illusion and Soul Vulcan Strike damage by 10%.",
+			"For every 4 refine levels, additionally increases Mystery Illusion and Soul Vulcan Strike damage by 5%.",
+			"At Refine Level 9, additionally increases Mystery Illusion and Soul Vulcan Strike damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Illusion Soul Magic)",
+		identifiedResourceName = "Glacier_F_Orb_102",
+		identifiedDescriptionName = {
+			"Increases Mystery Illusion and Soul Vulcan Strike damage by 10%.",
+			"For every 4 refine levels, additionally increases Mystery Illusion and Soul Vulcan Strike damage by 5%.",
+			"At Refine Level 9, additionally increases Mystery Illusion and Soul Vulcan Strike damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311295] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Diamond Storm)",
+		unidentifiedResourceName = "Glacier_F_Orb_103",
+		unidentifiedDescriptionName = {
+			"Increases Diamond Storm damage by 10%.",
+			"For every 4 refine levels, additionally increases Diamond Storm damage by 5%.",
+			"At Refine Level 9, additionally increases Diamond Storm damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Diamond Storm)",
+		identifiedResourceName = "Glacier_F_Orb_103",
+		identifiedDescriptionName = {
+			"Increases Diamond Storm damage by 10%.",
+			"For every 4 refine levels, additionally increases Diamond Storm damage by 5%.",
+			"At Refine Level 9, additionally increases Diamond Storm damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311296] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Conflagration)",
+		unidentifiedResourceName = "Glacier_F_Orb_104",
+		unidentifiedDescriptionName = {
+			"Increases Conflagration damage by 10%.",
+			"For every 4 refine levels, additionally increases Conflagration damage by 5%.",
+			"At Refine Level 9, additionally increases Conflagration damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Conflagration)",
+		identifiedResourceName = "Glacier_F_Orb_104",
+		identifiedDescriptionName = {
+			"Increases Conflagration damage by 10%.",
+			"For every 4 refine levels, additionally increases Conflagration damage by 5%.",
+			"At Refine Level 9, additionally increases Conflagration damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311297] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Lightning Land)",
+		unidentifiedResourceName = "Glacier_F_Orb_105",
+		unidentifiedDescriptionName = {
+			"Increases Lightning Land damage by 10%.",
+			"For every 4 refine levels, additionally increases Lightning Land damage by 5%.",
+			"At Refine Level 9, additionally increases Lightning Land damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Lightning Land)",
+		identifiedResourceName = "Glacier_F_Orb_105",
+		identifiedDescriptionName = {
+			"Increases Lightning Land damage by 10%.",
+			"For every 4 refine levels, additionally increases Lightning Land damage by 5%.",
+			"At Refine Level 9, additionally increases Lightning Land damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311298] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Terra Drive)",
+		unidentifiedResourceName = "Glacier_F_Orb_106",
+		unidentifiedDescriptionName = {
+			"Increases Terra Drive damage by 10%.",
+			"For every 4 refine levels, additionally increases Terra Drive damage by 5%.",
+			"At Refine Level 9, additionally increases Terra Drive damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Terra Drive)",
+		identifiedResourceName = "Glacier_F_Orb_106",
+		identifiedDescriptionName = {
+			"Increases Terra Drive damage by 10%.",
+			"For every 4 refine levels, additionally increases Terra Drive damage by 5%.",
+			"At Refine Level 9, additionally increases Terra Drive damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311299] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Venom Swamp)",
+		unidentifiedResourceName = "Glacier_F_Orb_107",
+		unidentifiedDescriptionName = {
+			"Increases Venom Swamp damage by 10%.",
+			"For every 4 refine levels, additionally increases Venom Swamp damage by 5%.",
+			"At Refine Level 9, additionally increases Venom Swamp damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Venom Swamp)",
+		identifiedResourceName = "Glacier_F_Orb_107",
+		identifiedDescriptionName = {
+			"Increases Venom Swamp damage by 10%.",
+			"For every 4 refine levels, additionally increases Venom Swamp damage by 5%.",
+			"At Refine Level 9, additionally increases Venom Swamp damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311300] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Framen)",
+		unidentifiedResourceName = "Glacier_F_Orb_108",
+		unidentifiedDescriptionName = {
+			"Increases Flamen damage by 10%.",
+			"For every 4 refine levels, additionally increases Flamen damage by 5%.",
+			"At Refine Level 9, additionally increases Flamen damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Framen)",
+		identifiedResourceName = "Glacier_F_Orb_108",
+		identifiedDescriptionName = {
+			"Increases Flamen damage by 10%.",
+			"For every 4 refine levels, additionally increases Flamen damage by 5%.",
+			"At Refine Level 9, additionally increases Flamen damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311301] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Arbitrium)",
+		unidentifiedResourceName = "Glacier_F_Orb_109",
+		unidentifiedDescriptionName = {
+			"Increases Arbitrium damage by 10%.",
+			"For every 4 refine levels, additionally increases Arbitrium damage by 5%.",
+			"At Refine Level 9, additionally increases Arbitrium damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Arbitrium)",
+		identifiedResourceName = "Glacier_F_Orb_109",
+		identifiedDescriptionName = {
+			"Increases Arbitrium damage by 10%.",
+			"For every 4 refine levels, additionally increases Arbitrium damage by 5%.",
+			"At Refine Level 9, additionally increases Arbitrium damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311302] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Petitio)",
+		unidentifiedResourceName = "Glacier_F_Orb_110",
+		unidentifiedDescriptionName = {
+			"Increases Petitio damage by 10%.",
+			"For every 4 refine levels, additionally increases Petitio damage by 5%.",
+			"At Refine Level 9, additionally increases Petitio damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Petitio)",
+		identifiedResourceName = "Glacier_F_Orb_110",
+		identifiedDescriptionName = {
+			"Increases Petitio damage by 10%.",
+			"For every 4 refine levels, additionally increases Petitio damage by 5%.",
+			"At Refine Level 9, additionally increases Petitio damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311303] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Faith)",
+		unidentifiedResourceName = "Glacier_F_Orb_111",
+		unidentifiedDescriptionName = {
+			"Increases Second Faith and Third Punishment damage by 10%.",
+			"For every 4 refine levels, additionally increases Second Faith and Third Punishment damage by 5%.",
+			"At Refine Level 9, additionally increases Second Faith and Third Punishment damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Faith)",
+		identifiedResourceName = "Glacier_F_Orb_111",
+		identifiedDescriptionName = {
+			"Increases Second Faith and Third Punishment damage by 10%.",
+			"For every 4 refine levels, additionally increases Second Faith and Third Punishment damage by 5%.",
+			"At Refine Level 9, additionally increases Second Faith and Third Punishment damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311304] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Judgement)",
+		unidentifiedResourceName = "Glacier_F_Orb_112",
+		unidentifiedDescriptionName = {
+			"Increases Second Judgment and Third Consecration damage by 10%.",
+			"For every 4 refine levels, additionally increases Second Judgment and Third Consecration damage by 5%.",
+			"At Refine Level 9, additionally increases Second Judgment and Third Consecration damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Judgement)",
+		identifiedResourceName = "Glacier_F_Orb_112",
+		identifiedDescriptionName = {
+			"Increases Second Judgment and Third Consecration damage by 10%.",
+			"For every 4 refine levels, additionally increases Second Judgment and Third Consecration damage by 5%.",
+			"At Refine Level 9, additionally increases Second Judgment and Third Consecration damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311305] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Extermination)",
+		unidentifiedResourceName = "Glacier_F_Orb_113",
+		unidentifiedDescriptionName = {
+			"Increases Second Flame and Third Flame Bomb damage by 10%.",
+			"For every 4 refine levels, additionally increases Second Flame and Third Flame Bomb damage by 5%.",
+			"At Refine Level 9, additionally increases Second Flame and Third Flame Bomb damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Extermination)",
+		identifiedResourceName = "Glacier_F_Orb_113",
+		identifiedDescriptionName = {
+			"Increases Second Flame and Third Flame Bomb damage by 10%.",
+			"For every 4 refine levels, additionally increases Second Flame and Third Flame Bomb damage by 5%.",
+			"At Refine Level 9, additionally increases Second Flame and Third Flame Bomb damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311306] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Explosion Blaster)",
+		unidentifiedResourceName = "Glacier_F_Orb_114",
+		unidentifiedDescriptionName = {
+			"Increases Explosion Blaster damage by 10%.",
+			"For every 4 refine levels, additionally increases Explosion Blaster damage by 5%.",
+			"At Refine Level 9, additionally increases Explosion Blaster damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Explosion Blaster)",
+		identifiedResourceName = "Glacier_F_Orb_114",
+		identifiedDescriptionName = {
+			"Increases Explosion Blaster damage by 10%.",
+			"For every 4 refine levels, additionally increases Explosion Blaster damage by 5%.",
+			"At Refine Level 9, additionally increases Explosion Blaster damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311307] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hawk)",
+		unidentifiedResourceName = "Glacier_F_Orb_115",
+		unidentifiedDescriptionName = {
+			"Increases Hawk Rush and Hawk Boomerang damage by 10%.",
+			"For every 4 refine levels, additionally increases Hawk Rush and Hawk Boomerang damage by 5%.",
+			"At Refine Level 9, additionally increases Hawk Rush and Hawk Boomerang damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hawk)",
+		identifiedResourceName = "Glacier_F_Orb_115",
+		identifiedDescriptionName = {
+			"Increases Hawk Rush and Hawk Boomerang damage by 10%.",
+			"For every 4 refine levels, additionally increases Hawk Rush and Hawk Boomerang damage by 5%.",
+			"At Refine Level 9, additionally increases Hawk Rush and Hawk Boomerang damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311308] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Gale Storm)",
+		unidentifiedResourceName = "Glacier_F_Orb_116",
+		unidentifiedDescriptionName = {
+			"Increases Gale Storm damage by 10%.",
+			"For every 4 refine levels, additionally increases Gale Storm damage by 5%.",
+			"At Refine Level 9, additionally increases Gale Storm damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Gale Storm)",
+		identifiedResourceName = "Glacier_F_Orb_116",
+		identifiedDescriptionName = {
+			"Increases Gale Storm damage by 10%.",
+			"For every 4 refine levels, additionally increases Gale Storm damage by 5%.",
+			"At Refine Level 9, additionally increases Gale Storm damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311309] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Crescive Bolt)",
+		unidentifiedResourceName = "Glacier_F_Orb_117",
+		unidentifiedDescriptionName = {
+			"",
+			"Increases Crescive Bolt damage by 10%.",
+			"For every 4 refine levels, additionally increases Crescive Bolt damage by 5%.",
+			"At Refine Level 9, additionally increases Crescive Bolt damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Crescive Bolt)",
+		identifiedResourceName = "Glacier_F_Orb_117",
+		identifiedDescriptionName = {
+			"",
+			"Increases Crescive Bolt damage by 10%.",
+			"For every 4 refine levels, additionally increases Crescive Bolt damage by 5%.",
+			"At Refine Level 9, additionally increases Crescive Bolt damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311310] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Metallic Fury)",
+		unidentifiedResourceName = "Glacier_F_Orb_118",
+		unidentifiedDescriptionName = {
+			"Increases Metallic Fury damage by 10%.",
+			"For every 4 refine levels, additionally increases Metallic Fury damage by 5%.",
+			"At Refine Level 9, additionally increases Metallic Fury damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Metallic Fury)",
+		identifiedResourceName = "Glacier_F_Orb_118",
+		identifiedDescriptionName = {
+			"Increases Metallic Fury damage by 10%.",
+			"For every 4 refine levels, additionally increases Metallic Fury damage by 5%.",
+			"At Refine Level 9, additionally increases Metallic Fury damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311311] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Rhythm Shooting)",
+		unidentifiedResourceName = "Glacier_F_Orb_119",
+		unidentifiedDescriptionName = {
+			"Increases Rhythm Shooting damage by 10%.",
+			"For every 4 refine levels, additionally increases Rhythm Shooting damage by 5%.",
+			"At Refine Level 9, additionally increases Rhythm Shooting damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Rhythm Shooting)",
+		identifiedResourceName = "Glacier_F_Orb_119",
+		identifiedDescriptionName = {
+			"Increases Rhythm Shooting damage by 10%.",
+			"For every 4 refine levels, additionally increases Rhythm Shooting damage by 5%.",
+			"At Refine Level 9, additionally increases Rhythm Shooting damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311312] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Rose Blossom)",
+		unidentifiedResourceName = "Glacier_F_Orb_120",
+		unidentifiedDescriptionName = {
+			"Increases Rose Blossom damage by 10%.",
+			"For every 4 refine levels, additionally increases Rose Blossom damage by 5%.",
+			"At Refine Level 9, additionally increases Rose Blossom damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Rose Blossom)",
+		identifiedResourceName = "Glacier_F_Orb_120",
+		identifiedDescriptionName = {
+			"Increases Rose Blossom damage by 10%.",
+			"For every 4 refine levels, additionally increases Rose Blossom damage by 5%.",
+			"At Refine Level 9, additionally increases Rose Blossom damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311313] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Sun)",
+		unidentifiedResourceName = "Glacier_F_Orb_121",
+		unidentifiedDescriptionName = {
+			"Increases Noon Blast and Sunset Blast damage by 10%.",
+			"For every 4 refine levels, additionally increases Noon Blast and Sunset Blast damage by 5%.",
+			"At Refine Level 9, additionally increases Noon Blast and Sunset Blast damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Sun)",
+		identifiedResourceName = "Glacier_F_Orb_121",
+		identifiedDescriptionName = {
+			"Increases Noon Blast and Sunset Blast damage by 10%.",
+			"For every 4 refine levels, additionally increases Noon Blast and Sunset Blast damage by 5%.",
+			"At Refine Level 9, additionally increases Noon Blast and Sunset Blast damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311314] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Moon)",
+		unidentifiedResourceName = "Glacier_F_Orb_122",
+		unidentifiedDescriptionName = {
+			"Increases Midnight Kick and Dawn Break damage by 10%.",
+			"For every 4 refine levels, additionally increases Midnight Kick and Dawn Break damage by 5%.",
+			"At Refine Level 9, additionally increases Midnight Kick and Dawn Break damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Moon)",
+		identifiedResourceName = "Glacier_F_Orb_122",
+		identifiedDescriptionName = {
+			"Increases Midnight Kick and Dawn Break damage by 10%.",
+			"For every 4 refine levels, additionally increases Midnight Kick and Dawn Break damage by 5%.",
+			"At Refine Level 9, additionally increases Midnight Kick and Dawn Break damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311315] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Star)",
+		unidentifiedResourceName = "Glacier_F_Orb_123",
+		unidentifiedDescriptionName = {
+			"Increases Twinkling Galaxy and Star Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Twinkling Galaxy and Star Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Twinkling Galaxy and Star Cannon damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Star)",
+		identifiedResourceName = "Glacier_F_Orb_123",
+		identifiedDescriptionName = {
+			"Increases Twinkling Galaxy and Star Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Twinkling Galaxy and Star Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Twinkling Galaxy and Star Cannon damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311316] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Talisman of Blue Dragon)",
+		unidentifiedResourceName = "Glacier_F_Orb_124",
+		unidentifiedDescriptionName = {
+			"Increases Talisman of Blue Dragon damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of Blue Dragon damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of Blue Dragon damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Talisman of Blue Dragon)",
+		identifiedResourceName = "Glacier_F_Orb_124",
+		identifiedDescriptionName = {
+			"Increases Talisman of Blue Dragon damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of Blue Dragon damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of Blue Dragon damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311317] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Talisman of White Tiger)",
+		unidentifiedResourceName = "Glacier_F_Orb_125",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier].Increases Talisman of White Tiger damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of White Tiger damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of White Tiger damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Talisman of White Tiger)",
+		identifiedResourceName = "Glacier_F_Orb_125",
+		identifiedDescriptionName = {
+			"Increases Talisman of White Tiger damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of White Tiger damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of White Tiger damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311318] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Talisman of Red Phoenix)",
+		unidentifiedResourceName = "Glacier_F_Orb_126",
+		unidentifiedDescriptionName = {
+			"Increases Talisman of Red Phoenix damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of Red Phoenix damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of Red Phoenix damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Talisman of Red Phoenix)",
+		identifiedResourceName = "Glacier_F_Orb_126",
+		identifiedDescriptionName = {
+			"Increases Talisman of Red Phoenix damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of Red Phoenix damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of Red Phoenix damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311319] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Talisman of Black Tortoise)",
+		unidentifiedResourceName = "Glacier_F_Orb_127",
+		unidentifiedDescriptionName = {
+			"Increases Talisman of Black Tortoise damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of Black Tortoise damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of Black Tortoise damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Talisman of Black Tortoise)",
+		identifiedResourceName = "Glacier_F_Orb_127",
+		identifiedDescriptionName = {
+			"Increases Talisman of Black Tortoise damage by 10%.",
+			"For every 4 refine levels, additionally increases Talisman of Black Tortoise damage by 5%.",
+			"At Refine Level 9, additionally increases Talisman of Black Tortoise damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311320] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Exorcism of Malicious Soul)",
+		unidentifiedResourceName = "Glacier_F_Orb_128",
+		unidentifiedDescriptionName = {
+			"Increases Exorcism of Malicious Soul damage by 10%.",
+			"For every 4 refine levels, additionally increases Exorcism of Malicious Soul damage by 5%.",
+			"At Refine Level 9, additionally increases Exorcism of Malicious Soul damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Exorcism of Malicious Soul)",
+		identifiedResourceName = "Glacier_F_Orb_128",
+		identifiedDescriptionName = {
+			"Increases Exorcism of Malicious Soul damage by 10%.",
+			"For every 4 refine levels, additionally increases Exorcism of Malicious Soul damage by 5%.",
+			"At Refine Level 9, additionally increases Exorcism of Malicious Soul damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311321] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Shadow)",
+		unidentifiedResourceName = "Glacier_F_Orb_129",
+		unidentifiedDescriptionName = {
+			"Increases Shadow Dance and Shadow Flash damage by 10%.",
+			"For every 4 refine levels, additionally increases Shadow Dance and Shadow Flash damage by 5%.",
+			"At Refine Level 9, additionally increases Shadow Dance and Shadow Flash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Shadow)",
+		identifiedResourceName = "Glacier_F_Orb_129",
+		identifiedDescriptionName = {
+			"Increases Shadow Dance and Shadow Flash damage by 10%.",
+			"For every 4 refine levels, additionally increases Shadow Dance and Shadow Flash damage by 5%.",
+			"At Refine Level 9, additionally increases Shadow Dance and Shadow Flash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311322] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Huuma Shuriken)",
+		unidentifiedResourceName = "Glacier_F_Orb_130",
+		unidentifiedDescriptionName = {
+			"Increases Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage by 10%.",
+			"For every 4 refine levels, additionally increases Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage by 5%.",
+			"At Refine Level 9, additionally increases Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Huuma Shuriken)",
+		identifiedResourceName = "Glacier_F_Orb_130",
+		identifiedDescriptionName = {
+			"Increases Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage by 10%.",
+			"For every 4 refine levels, additionally increases Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage by 5%.",
+			"At Refine Level 9, additionally increases Huuma Shuriken - Grasp and Huuma Shuriken - Construct damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311323] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Kunai)",
+		unidentifiedResourceName = "Glacier_F_Orb_131",
+		unidentifiedDescriptionName = {
+			"Increases Kunai - Distortion and Kunai - Refraction damage by 10%.",
+			"For every 4 refine levels, additionally increases Kunai - Distortion and Kunai - Refraction damage by 5%.",
+			"At Refine Level 9, additionally increases Kunai - Distortion and Kunai - Refraction damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Kunai)",
+		identifiedResourceName = "Glacier_F_Orb_131",
+		identifiedDescriptionName = {
+			"Increases Kunai - Distortion and Kunai - Refraction damage by 10%.",
+			"For every 4 refine levels, additionally increases Kunai - Distortion and Kunai - Refraction damage by 5%.",
+			"At Refine Level 9, additionally increases Kunai - Distortion and Kunai - Refraction damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311324] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Ninja Cannon)",
+		unidentifiedResourceName = "Glacier_F_Orb_132",
+		unidentifiedDescriptionName = {
+			"Increases Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, and Darkening Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, and Darkening Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, and Darkening Cannon damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Ninja Cannon)",
+		identifiedResourceName = "Glacier_F_Orb_132",
+		identifiedDescriptionName = {
+			"Increases Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, and Darkening Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, and Darkening Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Red Flame Cannon, Cold Blooded Cannon, Thundering Cannon, Golden Dragon Cannon, and Darkening Cannon damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311325] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (The Vigilante at Night)",
+		unidentifiedResourceName = "Glacier_F_Orb_133",
+		unidentifiedDescriptionName = {
+			"Increases The Vigilante at Night damage by 10%.",
+			"For every 4 refine levels, additionally increases The Vigilante at Night damage by 5%.",
+			"At Refine Level 9, additionally increases The Vigilante at Night damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (The Vigilante at Night)",
+		identifiedResourceName = "Glacier_F_Orb_133",
+		identifiedDescriptionName = {
+			"Increases The Vigilante at Night damage by 10%.",
+			"For every 4 refine levels, additionally increases The Vigilante at Night damage by 5%.",
+			"At Refine Level 9, additionally increases The Vigilante at Night damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311326] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Only One Bullet)",
+		unidentifiedResourceName = "Glacier_F_Orb_134",
+		unidentifiedDescriptionName = {
+			"Increases Only One Bullet damage by 10%.",
+			"For every 4 refine levels, additionally increases Only One Bullet damage by 5%.",
+			"At Refine Level 9, additionally increases Only One Bullet damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Only One Bullet)",
+		identifiedResourceName = "Glacier_F_Orb_134",
+		identifiedDescriptionName = {
+			"Increases Only One Bullet damage by 10%.",
+			"For every 4 refine levels, additionally increases Only One Bullet damage by 5%.",
+			"At Refine Level 9, additionally increases Only One Bullet damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311327] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Spiral Shooting)",
+		unidentifiedResourceName = "Glacier_F_Orb_135",
+		unidentifiedDescriptionName = {
+			"Increases Spiral Shooting damage by 10%.",
+			"For every 4 refine levels, additionally increases Spiral Shooting damage by 5%.",
+			"At Refine Level 9, additionally increases Spiral Shooting damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Spiral Shooting)",
+		identifiedResourceName = "Glacier_F_Orb_135",
+		identifiedDescriptionName = {
+			"Increases Spiral Shooting damage by 10%.",
+			"For every 4 refine levels, additionally increases Spiral Shooting damage by 5%.",
+			"At Refine Level 9, additionally increases Spiral Shooting damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311328] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Magazine for One)",
+		unidentifiedResourceName = "Glacier_F_Orb_136",
+		unidentifiedDescriptionName = {
+			"Increases Magazine for One damage by 10%.",
+			"For every 4 refine levels, additionally increases Magazine for One damage by 5%.",
+			"At Refine Level 9, additionally increases Magazine for One damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Magazine for One)",
+		identifiedResourceName = "Glacier_F_Orb_136",
+		identifiedDescriptionName = {
+			"Increases Magazine for One damage by 10%.",
+			"For every 4 refine levels, additionally increases Magazine for One damage by 5%.",
+			"At Refine Level 9, additionally increases Magazine for One damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311329] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Wild Fire)",
+		unidentifiedResourceName = "Glacier_F_Orb_137",
+		unidentifiedDescriptionName = {
+			"Increases Wild Fire damage by 10%.",
+			"For every 4 refine levels, additionally increases Wild Fire damage by 5%.",
+			"At Refine Level 9, additionally increases Wild Fire damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Wild Fire)",
+		identifiedResourceName = "Glacier_F_Orb_137",
+		identifiedDescriptionName = {
+			"Increases Wild Fire damage by 10%.",
+			"For every 4 refine levels, additionally increases Wild Fire damage by 5%.",
+			"At Refine Level 9, additionally increases Wild Fire damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311330] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Grenade)",
+		unidentifiedResourceName = "Glacier_F_Orb_138",
+		unidentifiedDescriptionName = {
+			"Increases Basic Grenade, Hasty Fire in the Hole, and Grenades Dropping damage by 10%.",
+			"For every 4 refine levels, additionally increases Basic Grenade, Hasty Fire in the Hole, and Grenades Dropping damage by 5%.",
+			"At Refine Level 9, additionally increases Basic Grenade, Hasty Fire in the Hole, and Grenades Dropping damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Grenade)",
+		identifiedResourceName = "Glacier_F_Orb_138",
+		identifiedDescriptionName = {
+			"Increases Basic Grenade, Hasty Fire in the Hole, and Grenades Dropping damage by 10%.",
+			"For every 4 refine levels, additionally increases Basic Grenade, Hasty Fire in the Hole, and Grenades Dropping damage by 5%.",
+			"At Refine Level 9, additionally increases Basic Grenade, Hasty Fire in the Hole, and Grenades Dropping damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311331] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Chulho Sonic Claw)",
+		unidentifiedResourceName = "Glacier_F_Orb_139",
+		unidentifiedDescriptionName = {
+			"Increases Chulho Sonic Scratch damage by 10%.",
+			"For every 4 refine levels, additionally increases Chulho Sonic Scratch damage by 5%.",
+			"At Refine Level 9, additionally increases Chulho Sonic Scratch damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Chulho Sonic Claw)",
+		identifiedResourceName = "Glacier_F_Orb_139",
+		identifiedDescriptionName = {
+			"Increases Chulho Sonic Scratch damage by 10%.",
+			"For every 4 refine levels, additionally increases Chulho Sonic Scratch damage by 5%.",
+			"At Refine Level 9, additionally increases Chulho Sonic Scratch damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311332] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hogogong Strike)",
+		unidentifiedResourceName = "Glacier_F_Orb_140",
+		unidentifiedDescriptionName = {
+			"Increases Hogogong Strike damage by 10%.",
+			"For every 4 refine levels, additionally increases Hogogong Strike damage by 5%.",
+			"At Refine Level 9, additionally increases Hogogong Strike damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hogogong Strike)",
+		identifiedResourceName = "Glacier_F_Orb_140",
+		identifiedDescriptionName = {
+			"Increases Hogogong Strike damage by 10%.",
+			"For every 4 refine levels, additionally increases Hogogong Strike damage by 5%.",
+			"At Refine Level 9, additionally increases Hogogong Strike damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311333] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hyunrok Breeze)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Hyunrok Breeze damage by 10%.",
+			"For every 4 refine levels, additionally increases Hyunrok Breeze damage by 5%.",
+			"At Refine Level 9, additionally increases Hyunrok Breeze damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hyunrok Breeze)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Hyunrok Breeze damage by 10%.",
+			"For every 4 refine levels, additionally increases Hyunrok Breeze damage by 5%.",
+			"At Refine Level 9, additionally increases Hyunrok Breeze damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311334] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Hyunrok Cannon)",
+		unidentifiedResourceName = "Glacier_F_Orb_142",
+		unidentifiedDescriptionName = {
+			"Increases Hyunrok Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Hyunrok Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Hyunrok Cannon damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hyunrok Cannon)",
+		identifiedResourceName = "Glacier_F_Orb_142",
+		identifiedDescriptionName = {
+			"Increases Hyunrok Cannon damage by 10%.",
+			"For every 4 refine levels, additionally increases Hyunrok Cannon damage by 5%.",
+			"At Refine Level 9, additionally increases Hyunrok Cannon damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311335] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Double Bowling Bash)",
+		unidentifiedResourceName = "Glacier_F_Orb_143",
+		unidentifiedDescriptionName = {
+			"Increases Double Bowling Bash damage by 10%.",
+			"For every 4 refine levels, additionally increases Double Bowling Bash damage by 5%.",
+			"At Refine Level 9, additionally increases Double Bowling Bash damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Double Bowling Bash)",
+		identifiedResourceName = "Glacier_F_Orb_143",
+		identifiedDescriptionName = {
+			"Increases Double Bowling Bash damage by 10%.",
+			"For every 4 refine levels, additionally increases Double Bowling Bash damage by 5%.",
+			"At Refine Level 9, additionally increases Double Bowling Bash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311336] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Mega Sonic Blow)",
+		unidentifiedResourceName = "Glacier_F_Orb_144",
+		unidentifiedDescriptionName = {
+			"Increases Mega Sonic Blow damage by 10%.",
+			"For every 4 refine levels, additionally increases Mega Sonic Blow damage by 5%.",
+			"At Refine Level 9, additionally increases Mega Sonic Blow damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Mega Sonic Blow)",
+		identifiedResourceName = "Glacier_F_Orb_144",
+		identifiedDescriptionName = {
+			"Increases Mega Sonic Blow damage by 10%.",
+			"For every 4 refine levels, additionally increases Mega Sonic Blow damage by 5%.",
+			"At Refine Level 9, additionally increases Mega Sonic Blow damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311337] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Shield Chain Rush)",
+		unidentifiedResourceName = "Glacier_F_Orb_145",
+		unidentifiedDescriptionName = {
+			"Increases Shield Chain Rush damage by 10%.",
+			"For every 4 refine levels, additionally increases Shield Chain Rush damage by 5%.",
+			"At Refine Level 9, additionally increases Shield Chain Rush damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Shield Chain Rush)",
+		identifiedResourceName = "Glacier_F_Orb_145",
+		identifiedDescriptionName = {
+			"Increases Shield Chain Rush damage by 10%.",
+			"For every 4 refine levels, additionally increases Shield Chain Rush damage by 5%.",
+			"At Refine Level 9, additionally increases Shield Chain Rush damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311338] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Spiral Pierce Max)",
+		unidentifiedResourceName = "Glacier_F_Orb_146",
+		unidentifiedDescriptionName = {
+			"Increases Spiral Pierce Max damage by 10%.",
+			"For every 4 refine levels, additionally increases Spiral Pierce Max damage by 5%.",
+			"At Refine Level 9, additionally increases Spiral Pierce Max damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Spiral Pierce Max)",
+		identifiedResourceName = "Glacier_F_Orb_146",
+		identifiedDescriptionName = {
+			"Increases Spiral Pierce Max damage by 10%.",
+			"For every 4 refine levels, additionally increases Spiral Pierce Max damage by 5%.",
+			"At Refine Level 9, additionally increases Spiral Pierce Max damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311339] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Meteor Thunder)",
+		unidentifiedResourceName = "Glacier_F_Orb_147",
+		unidentifiedDescriptionName = {
+			"Increases Meteor Storm Buster and Jupitel Thunderstorm damage by 10%.",
+			"For every 4 refine levels, additionally increases Meteor Storm Buster and Jupitel Thunderstorm damage by 5%.",
+			"At Refine Level 9, additionally increases Meteor Storm Buster and Jupitel Thunderstorm damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Meteor Thunder)",
+		identifiedResourceName = "Glacier_F_Orb_147",
+		identifiedDescriptionName = {
+			"Increases Meteor Storm Buster and Jupitel Thunderstorm damage by 10%.",
+			"For every 4 refine levels, additionally increases Meteor Storm Buster and Jupitel Thunderstorm damage by 5%.",
+			"At Refine Level 9, additionally increases Meteor Storm Buster and Jupitel Thunderstorm damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311340] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "Glacier_F_Orb_148",
+		unidentifiedDescriptionName = {
+			"Increases Hell's Drive and Jack Frost Nova damage by 10%.",
+			"For every 4 refine levels, additionally increases Hell's Drive and Jack Frost Nova damage by 5%.",
+			"At Refine Level 9, additionally increases Hell's Drive and Jack Frost Nova damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Hell's Jack)",
+		identifiedResourceName = "Glacier_F_Orb_148",
+		identifiedDescriptionName = {
+			"Increases Hell's Drive and Jack Frost Nova damage by 10%.",
+			"For every 4 refine levels, additionally increases Hell's Drive and Jack Frost Nova damage by 5%.",
+			"At Refine Level 9, additionally increases Hell's Drive and Jack Frost Nova damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311341] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Napalm Gravitation)",
+		unidentifiedResourceName = "Glacier_F_Orb_149",
+		unidentifiedDescriptionName = {
+			"Increases Napalm Vulcan Strike and Ground Gravitation damage by 10%.",
+			"For every 4 refine levels, additionally increases Napalm Vulcan Strike and Ground Gravitation damage by 5%.",
+			"At Refine Level 9, additionally increases Napalm Vulcan Strike and Ground Gravitation damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Napalm Gravitation)",
+		identifiedResourceName = "Glacier_F_Orb_149",
+		identifiedDescriptionName = {
+			"Increases Napalm Vulcan Strike and Ground Gravitation damage by 10%.",
+			"For every 4 refine levels, additionally increases Napalm Vulcan Strike and Ground Gravitation damage by 5%.",
+			"At Refine Level 9, additionally increases Napalm Vulcan Strike and Ground Gravitation damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311342] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (ATK)",
+		unidentifiedResourceName = "Glacier_F_Orb_150",
+		unidentifiedDescriptionName = {
+			"For every 3 refine levels, ATK + 20 and increases melee/ranged physical damage by 5%.",
+			"At Refine Level 9, ATK + 10%.",
+			"At Refine Level 11, P.ATK + 5.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases melee/ranged physical damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (ATK)",
+		identifiedResourceName = "Glacier_F_Orb_150",
+		identifiedDescriptionName = {
+			"For every 3 refine levels, ATK + 20 and increases melee/ranged physical damage by 5%.",
+			"At Refine Level 9, ATK + 10%.",
+			"At Refine Level 11, P.ATK + 5.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases melee/ranged physical damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311343] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (MATK)",
+		unidentifiedResourceName = "Glacier_F_Orb_151",
+		unidentifiedDescriptionName = {
+			"For every 3 refine levels, MATK + 20 and increases magical damage of all properties by 5%.",
+			"At Refine Level 9, MATK + 10%.",
+			"At Refine Level 11, S.MATK + 5.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage of all properties by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (MATK)",
+		identifiedResourceName = "Glacier_F_Orb_151",
+		identifiedDescriptionName = {
+			"For every 3 refine levels, MATK + 20 and increases magical damage of all properties by 5%.",
+			"At Refine Level 9, MATK + 10%.",
+			"At Refine Level 11, S.MATK + 5.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage of all properties by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311344] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (CRI)",
+		unidentifiedResourceName = "Glacier_F_Orb_152",
+		unidentifiedDescriptionName = {
+			"For every 3 refine levels, CRI + 4 and increases critical damage by 5%.",
+			"At Refine Level 9, additionally increases critical damage by 10%.",
+			"At Refine Level 11, C.RATE + 5.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases critical damage by 10%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (CRI)",
+		identifiedResourceName = "Glacier_F_Orb_152",
+		identifiedDescriptionName = {
+			"For every 3 refine levels, CRI + 4 and increases critical damage by 5%.",
+			"At Refine Level 9, additionally increases critical damage by 10%.",
+			"At Refine Level 11, C.RATE + 5.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases critical damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311345] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Variable Casting)",
+		unidentifiedResourceName = "Glacier_F_Orb_153",
+		unidentifiedDescriptionName = {
+			"Reduces variable cast time by 7%.",
+			"At Refine Level 9, additionally reduces variable cast time by 8%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally reduces variable cast time by 5%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Variable Casting)",
+		identifiedResourceName = "Glacier_F_Orb_153",
+		identifiedDescriptionName = {
+			"Reduces variable cast time by 7%.",
+			"At Refine Level 9, additionally reduces variable cast time by 8%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally reduces variable cast time by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311346] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Attack Speed)",
+		unidentifiedResourceName = "Glacier_F_Orb_154",
+		unidentifiedDescriptionName = {
+			"Increases attack speed (reduces delay after attack by 7%).",
+			"At Refine Level 9, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, ASPD + 1."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Attack Speed)",
+		identifiedResourceName = "Glacier_F_Orb_154",
+		identifiedDescriptionName = {
+			"Increases attack speed (reduces delay after attack by 7%).",
+			"At Refine Level 9, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, ASPD + 1."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311347] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Global Cooldown)",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"Reduces skill delay by 7%.",
+			"At Refine Level 9, additionally reduces skill delay by 8%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally reduces skill delay by 5%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Global Cooldown)",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"Reduces skill delay by 7%.",
+			"At Refine Level 9, additionally reduces skill delay by 8%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally reduces skill delay by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311348] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Physical - Race)",
+		unidentifiedResourceName = "Glacier_F_Orb_156",
+		unidentifiedDescriptionName = {
+			"Increases physical damage against monsters of all races by 10%.",
+			"At Refine Level 9, additionally increases physical damage against monsters of all races by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases physical damage against monsters of all races by 15%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Physical - Race)",
+		identifiedResourceName = "Glacier_F_Orb_156",
+		identifiedDescriptionName = {
+			"Increases physical damage against monsters of all races by 10%.",
+			"At Refine Level 9, additionally increases physical damage against monsters of all races by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases physical damage against monsters of all races by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311349] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Magical - Race)",
+		unidentifiedResourceName = "Glacier_F_Orb_157",
+		unidentifiedDescriptionName = {
+			"Increases magical damage against monsters of all races by 10%.",
+			"At Refine Level 9, additionally increases magical damage against monsters of all races by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage against monsters of all races by 15%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Magical - Race)",
+		identifiedResourceName = "Glacier_F_Orb_157",
+		identifiedDescriptionName = {
+			"Increases magical damage against monsters of all races by 10%.",
+			"At Refine Level 9, additionally increases magical damage against monsters of all races by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage against monsters of all races by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311350] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Physical - Size)",
+		unidentifiedResourceName = "Glacier_F_Orb_158",
+		unidentifiedDescriptionName = {
+			"Increases physical damage against enemies of all sizes by 10%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all sizes by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases physical damage against enemies of all sizes by 15%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Physical - Size)",
+		identifiedResourceName = "Glacier_F_Orb_158",
+		identifiedDescriptionName = {
+			"Increases physical damage against enemies of all sizes by 10%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all sizes by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases physical damage against enemies of all sizes by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311351] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Magical - Size)",
+		unidentifiedResourceName = "Glacier_F_Orb_159",
+		unidentifiedDescriptionName = {
+			"Increases magical damage against enemies of all sizes by 10%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all sizes by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage against enemies of all sizes by 15%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Magical - Size)",
+		identifiedResourceName = "Glacier_F_Orb_159",
+		identifiedDescriptionName = {
+			"Increases magical damage against enemies of all sizes by 10%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all sizes by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage against enemies of all sizes by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311352] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Physical - Property)",
+		unidentifiedResourceName = "Glacier_F_Orb_160",
+		unidentifiedDescriptionName = {
+			"Increases physical damage against enemies of all properties by 10%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all properties by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases physical damage against enemies of all properties by 15%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Physical - Property)",
+		identifiedResourceName = "Glacier_F_Orb_160",
+		identifiedDescriptionName = {
+			"Increases physical damage against enemies of all properties by 10%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all properties by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases physical damage against enemies of all properties by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311353] = {
+		unidentifiedDisplayName = "Glacier Flower Spell (Magical - Property)",
+		unidentifiedResourceName = "Glacier_F_Orb_161",
+		unidentifiedDescriptionName = {
+			"Increases magical damage against enemies of all properties by 10%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all properties by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage against enemies of all properties by 15%."
+		},
+		identifiedDisplayName = "Glacier Flower Spell (Magical - Property)",
+		identifiedResourceName = "Glacier_F_Orb_161",
+		identifiedDescriptionName = {
+			"Increases magical damage against enemies of all properties by 10%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all properties by 10%.",
+			"If equipped on a Two-Handed Sword, Two-Handed Spear, Two-Handed Staff, Two-Handed Axe, Katar, Bow, Huuma Shuriken, or Firearm-type weapon, additionally increases magical damage against enemies of all properties by 15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[311367] = {
 		unidentifiedDisplayName = "Gray Magic (Warrior) Lv. 1",
 		unidentifiedResourceName = "Wolf_Orb_luk_3",
@@ -332895,6 +340436,430 @@ tbl = {
 		identifiedResourceName = "하늘색보석",
 		identifiedDescriptionName = {
 			"Variable cast time -10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311443] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Dragonic Breath)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Dragonic Breath damage by 10%.",
+			"For every 4 refine levels, additionally increases Dragonic Breath damage by 5%.",
+			"At Refine Level 9, additionally increases Dragonic Breath damage by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Dragonic Breath)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Dragonic Breath damage by 10%.",
+			"For every 4 refine levels, additionally increases Dragonic Breath damage by 5%.",
+			"At Refine Level 9, additionally increases Dragonic Breath damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311444] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Spark Blaster)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Spark Blaster damage by 10%.",
+			"For every 4 refine levels, additionally increases Spark Blaster damage by 5%.",
+			"At Refine Level 9, additionally increases Spark Blaster damage by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Spark Blaster)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Spark Blaster damage by 10%.",
+			"For every 4 refine levels, additionally increases Spark Blaster damage by 5%.",
+			"At Refine Level 9, additionally increases Spark Blaster damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311445] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Triple Laser)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Triple Laser damage by 10%.",
+			"For every 4 refine levels, additionally increases Triple Laser damage by 5%.",
+			"At Refine Level 9, additionally increases Triple Laser damage by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Triple Laser)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Triple Laser damage by 10%.",
+			"For every 4 refine levels, additionally increases Triple Laser damage by 5%.",
+			"At Refine Level 9, additionally increases Triple Laser damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311446] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Mighty Smash)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Mighty Smash damage by 10%.",
+			"For every 4 refine levels, additionally increases Mighty Smash damage by 5%.",
+			"At Refine Level 9, additionally increases Mighty Smash damage by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Mighty Smash)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Mighty Smash damage by 10%.",
+			"For every 4 refine levels, additionally increases Mighty Smash damage by 5%.",
+			"At Refine Level 9, additionally increases Mighty Smash damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311447] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Explosive Powder)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Explosive Powder damage by 10%.",
+			"For every 4 refine levels, additionally increases Explosive Powder damage by 5%.",
+			"At Refine Level 9, additionally increases Explosive Powder damage by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Explosive Powder)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Explosive Powder damage by 10%.",
+			"For every 4 refine levels, additionally increases Explosive Powder damage by 5%.",
+			"At Refine Level 9, additionally increases Explosive Powder damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311448] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Mayhemic Thorns)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"Increases Mayhemic Thorns damage by 10%.",
+			"For every 4 refine levels, additionally increases Mayhemic Thorns damage by 5%.",
+			"At Refine Level 9, additionally increases Mayhemic Thorns damage by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Mayhemic Thorns)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"Increases Mayhemic Thorns damage by 10%.",
+			"For every 4 refine levels, additionally increases Mayhemic Thorns damage by 5%.",
+			"At Refine Level 9, additionally increases Mayhemic Thorns damage by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311449] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 1",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"ATK + 15, increases melee and ranged physical damage by 3%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 3%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 3%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 1%, ATK + 15.",
+			"[Grade C] At Refine Level 9, P.ATK + 3.",
+			"[Grade B] At Refine Level 11, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 10%; at Refine Level 11, increases physical damage against enemies of all sizes by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 1",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"ATK + 15, increases melee and ranged physical damage by 3%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 3%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 3%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 1%, ATK + 15.",
+			"[Grade C] At Refine Level 9, P.ATK + 3.",
+			"[Grade B] At Refine Level 11, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 10%; at Refine Level 11, increases physical damage against enemies of all sizes by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311450] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 2",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"ATK + 30, increases melee and ranged physical damage by 6%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 6%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 6%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 2%, ATK + 30.",
+			"[Grade C] At Refine Level 7, P.ATK + 3.",
+			"[Grade B] At Refine Level 9, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 12%; at Refine Level 11, increases physical damage against enemies of all sizes by 12%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 2",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"ATK + 30, increases melee and ranged physical damage by 6%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 6%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 6%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 2%, ATK + 30.",
+			"[Grade C] At Refine Level 7, P.ATK + 3.",
+			"[Grade B] At Refine Level 9, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 12%; at Refine Level 11, increases physical damage against enemies of all sizes by 12%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311451] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 3",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"ATK + 45, increases melee and ranged physical damage by 9%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 9%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 9%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 3%, ATK + 45.",
+			"[Grade C] For every 5 refine levels, P.ATK + 3.",
+			"[Grade B] For every 4 refine levels, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 14%; at Refine Level 11, increases physical damage against enemies of all sizes by 14%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 3",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"ATK + 45, increases melee and ranged physical damage by 9%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 9%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 9%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 3%, ATK + 45.",
+			"[Grade C] For every 5 refine levels, P.ATK + 3.",
+			"[Grade B] For every 4 refine levels, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 14%; at Refine Level 11, increases physical damage against enemies of all sizes by 14%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311452] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 4",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"ATK + 60, increases melee and ranged physical damage by 12%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 12%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 12%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 4%, ATK + 60.",
+			"[Grade C] For every 4 refine levels, P.ATK + 3.",
+			"[Grade B] For every 3 refine levels, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 16%; at Refine Level 11, increases physical damage against enemies of all sizes by 16%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 4",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"ATK + 60, increases melee and ranged physical damage by 12%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 12%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 12%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 4%, ATK + 60.",
+			"[Grade C] For every 4 refine levels, P.ATK + 3.",
+			"[Grade B] For every 3 refine levels, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 16%; at Refine Level 11, increases physical damage against enemies of all sizes by 16%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311453] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 5",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"ATK + 75, increases melee and ranged physical damage by 15%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 15%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 15%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 5%, ATK + 75.",
+			"[Grade C] For every 3 refine levels, P.ATK + 4.",
+			"[Grade B] For every 2 refine levels, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 18%; at Refine Level 11, increases physical damage against enemies of all sizes by 18%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Physical Grade) Lv. 5",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"ATK + 75, increases melee and ranged physical damage by 15%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 15%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 15%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] ATK + 5%, ATK + 75.",
+			"[Grade C] For every 3 refine levels, P.ATK + 4.",
+			"[Grade B] For every 2 refine levels, POW + 1, CON + 1.",
+			"[Grade A] Increases physical damage against enemies of all elements by 18%; at Refine Level 11, increases physical damage against enemies of all sizes by 18%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311454] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 1",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"MATK + 15, increases magic damage of all elements damage by 3%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 3%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 3%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 1%, MATK + 15.",
+			"[Grade C] At Refine Level 9, S.MATK + 3.",
+			"[Grade B] At Refine Level 11, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 10%; at Refine Level 11, increases magic damage against enemies of all sizes by 10%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 1",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"MATK + 15, increases magic damage of all elements damage by 3%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 3%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 3%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 1%, MATK + 15.",
+			"[Grade C] At Refine Level 9, S.MATK + 3.",
+			"[Grade B] At Refine Level 11, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 10%; at Refine Level 11, increases magic damage against enemies of all sizes by 10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311455] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 2",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"MATK + 30, increases magic damage of all elements damage by 6%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 6%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 6%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 2%, MATK + 30.",
+			"[Grade C] At Refine Level 7, S.MATK + 3.",
+			"[Grade B] At Refine Level 9, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 12%; at Refine Level 11, increases magic damage against enemies of all sizes by 12%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 2",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"MATK + 30, increases magic damage of all elements damage by 6%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 6%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 6%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 2%, MATK + 30.",
+			"[Grade C] At Refine Level 7, S.MATK + 3.",
+			"[Grade B] At Refine Level 9, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 12%; at Refine Level 11, increases magic damage against enemies of all sizes by 12%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311456] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 3",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"MATK + 45, increases magic damage of all elements damage by 9%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 9%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 9%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 3%, MATK + 45.",
+			"[Grade C] For every 5 refine levels, S.MATK + 3.",
+			"[Grade B] For every 4 refine levels, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 14%; at Refine Level 11, increases magic damage against enemies of all sizes by 14%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 3",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"MATK + 45, increases magic damage of all elements damage by 9%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 9%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 9%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 3%, MATK + 45.",
+			"[Grade C] For every 5 refine levels, S.MATK + 3.",
+			"[Grade B] For every 4 refine levels, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 14%; at Refine Level 11, increases magic damage against enemies of all sizes by 14%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311457] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 4",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"MATK + 60, increases magic damage of all elements damage by 12%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 12%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 12%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 4%, MATK + 60.",
+			"[Grade C] For every 4 refine levels, S.MATK + 3.",
+			"[Grade B] For every 3 refine levels, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 16%; at Refine Level 11, increases magic damage against enemies of all sizes by 16%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 4",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"MATK + 60, increases magic damage of all elements damage by 12%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 12%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 12%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 4%, MATK + 60.",
+			"[Grade C] For every 4 refine levels, S.MATK + 3.",
+			"[Grade B] For every 3 refine levels, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 16%; at Refine Level 11, increases magic damage against enemies of all sizes by 16%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311458] = {
+		unidentifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 5",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"MATK + 75, increases magic damage of all elements damage by 15%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 15%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 15%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 5%, MATK + 75.",
+			"[Grade C] For every 3 refine levels, S.MATK + 4.",
+			"[Grade B] For every 2 refine levels, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 18%; at Refine Level 11, increases magic damage against enemies of all sizes by 18%."
+		},
+		identifiedDisplayName = "Snow Flower Spell (Magical Grade) Lv. 5",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"MATK + 75, increases magic damage of all elements damage by 15%.",
+			"At Refine Level 7, increases attack speed (reduces after-attack delay by 15%).",
+			"At Refine Level 9, reduces variable cast time and global cooldown by 15%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Weapon Grade]^000000",
+			"[Grade D] MATK + 5%, MATK + 75.",
+			"[Grade C] For every 3 refine levels, S.MATK + 4.",
+			"[Grade B] For every 2 refine levels, SPL + 1, CON + 1.",
+			"[Grade A] Increases magic damage against enemies of all elements by 18%; at Refine Level 11, increases magic damage against enemies of all sizes by 18%."
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -341266,6 +349231,57 @@ tbl = {
 		ClassNum = 940,
 		costume = true
 	},
+	[400791] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Evil Marching Hat-LT",
+		identifiedResourceName = "사악한마칭햇",
+		identifiedDescriptionName = {
+			"A hat that was reformed by the Licht team.",
+			"-------------------------",
+			"^0000FFSTR +3. ATK +50.^000000",
+			"-------------------------",
+			"Every 2 refines:",
+			"^0000FFATK +10.^000000",
+			"-------------------------",
+			"Refine +7 or more:",
+			"^0000FFAfter-skill delay -5%.^000000",
+			"Refine +9 or more:",
+			"^0000FFPhysical damage against opponents of all properties +15%.^000000",
+			"Refine +10 or more:",
+			"^0000FFRanged physical damage +5%.^000000",
+			"^0000FFMelee physical damage +5%.^000000",
+			"Refine +11 or more:",
+			"^0000FFPhysical damage against Boss monsters +20%.^000000",
+			"-------------------------",
+			"^CC3D3DGrade D or higher:^000000",
+			"^0000FFAdditional after-skill delay -5%.^000000",
+			"^CC3D3DGrade C or higher:^000000",
+			"^0000FFP.ATK and S.MATK +2.^000000",
+			"^CC3D3DGrade B or higher:^000000",
+			"Refine +12 or more:",
+			"^0000FFFixed cast time -0.5 seconds.^000000",
+			"-------------------------",
+			"Base level 180 or higher:",
+			"^0000FFAdditional ATK +50.^000000",
+			"Base level 210 or higher:",
+			"^0000FFAdditional P.ATK and S.MATK +2.^000000",
+			"-------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equips on: ^777777Upper^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777750^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777150^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 687,
+		costume = false
+	},
 	[400793] = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
@@ -343763,6 +351779,99 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2316,
 		costume = true
+	},
+	[410213] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Bloody Ears",
+		identifiedResourceName = "Ear_OF_Bloody",
+		identifiedDescriptionName = {
+			"A pair of ears that emanate red energy.",
+			"-------------------------",
+			"Every time base DEX and LUK sum to 15:",
+			"^0000FFCON +1.^000000",
+			"-------------------------",
+			"Every time base DEX and LUK sum to 30:",
+			"^0000FFRanged physical damage +1%.^000000",
+			"-------------------------",
+			"If Base DEX and LUK sum is 250 or more:",
+			"^0000FFRanged physical damage +15%.^000000",
+			"-------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equips on: ^777777Middle^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2318,
+		costume = false
+	},
+	[410215] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Ears of Spirit",
+		identifiedResourceName = "Grisly_Soul",
+		identifiedDescriptionName = {
+			"A pair of ears that emanate blue energy.",
+			"-------------------------",
+			"Every time base STR and VIT sum to 15:",
+			"^0000FFPOW +1.^000000",
+			"-------------------------",
+			"Every time base STR and VIT sum to 30:",
+			"^0000FFMelee physical damage +1%.^000000",
+			"-------------------------",
+			"If sum of base STR and VIT is 250 or more:",
+			"^0000FFMelee physical damage +15%.^000000",
+			"-------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equips on: ^777777Middle^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2212,
+		costume = false
+	},
+	[410216] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Ears of Abyss",
+		identifiedResourceName = "Ear_OF_Abyss",
+		identifiedDescriptionName = {
+			"A pair of ears that emanate dark energy.",
+			"-------------------------",
+			"Every time base INT and AGI sum to 15:",
+			"^0000FFSPL +1.^000000",
+			"-------------------------",
+			"Every time base INT and AGI sum to 30:",
+			"^0000FFMagical damage against all monster races +1%.^000000",
+			"-------------------------",
+			"If Base INT and AGI sum is 250 or more:",
+			"^0000FFMagical damage against all monster races +15%.^000000",
+			"-------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equips on: ^777777Middle^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2322,
+		costume = false
 	},
 	[410217] = {
 		unidentifiedDisplayName = "Costume",
@@ -348659,6 +356768,47 @@ tbl = {
 		ClassNum = 666,
 		costume = false
 	},
+	[436006] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Costume Rgan Disguise Tool",
+		identifiedResourceName = "C_Ep19_Rgan",
+		identifiedDescriptionName = {
+			"A headgear that perfectly recreates the appearance of an Rgan.",
+			"It would have been better if it recreated a Superior Rgan...",
+			"Why the lower rank...?",
+			"Type: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+			"Position: ^777777Middle/Lower^000000 Weight: ^7777770^000000",
+			"Required Base Lv: ^7777771^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2144,
+		costume = true
+	},
+	[436007] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Costume Iwin Cold Hat",
+		identifiedResourceName = "C_Ep19_Iwin",
+		identifiedDescriptionName = {
+			"A headgear that perfectly recreates the appearance of an Iwin.",
+			"It is very warm. No, it is so hot that it almost feels suffocating.",
+			"Type: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+			"Position: ^777777Middle/Lower^000000 Weight: ^7777770^000000",
+			"Required Base Lv: ^7777771^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2143,
+		costume = true
+	},
 	[436008] = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "캡",
@@ -350071,21 +358221,20 @@ tbl = {
 			"--------------------------",
 			"^0000FFATK +50.^000000",
 			"Refine +7 or higher:",
-			"^0000FFPhysical Damage against all sizes +5%.^000000",
+			"^0000FFPhysical Damage against Normal and Boss monsters +5%.^000000",
 			"Refine +9 or higher:",
-			"^0000FFPhysical damage against Normal and Boss enemies +5%.^000000",
+			"^0000FFPhysical damage +5%.^000000",
 			"--------------------------",
 			"^FA4E09Set Effect^000000",
 			"^FA4E09[Noblesse Attack Boots]^000000",
 			"^FA4E09[Noblesse Attack Ring]^000000",
 			"^FA4E09[Noblesse Attack Manteau]^000000",
-			"^0000FFPhysical Damage against all sizes +5% additional.^000000",
-			"^0000FFPhysical damage against Normal and Boss enemies +2% additional.^000000",
+			"^0000FFAdditional physical damage +2%.^000000",
 			"^0000FFDamage of [Full Moon Kick] +10%.^000000",
 			"Sum of Refines 27 or higher:",
-			"^0000FFPhysical Damage against all sizes +5% additional.^000000",
-			"^0000FFPhysical damage against Normal and Boss enemies +3% additional.^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
 			"^0000FFDamage of [Full Moon Kick] +10% additional.^000000",
+			"^0000FFPhysical damage against Normal and Boss enemies +5% additional.^000000",
 			"--------------------------",
 			"Type: ^777777Armor^000000",
 			"DEF: ^77777770^000000 MDEF: ^7777770^000000",
@@ -351519,14 +359668,14 @@ tbl = {
 			"^FA4E09[Imperial Attack Boots]^000000",
 			"^FA4E09[Imperial Attack Ring]^000000",
 			"^FA4E09[Imperial Attack Manteau]^000000",
-			"^0000FFAdditional physical Damage +5%.^000000",
-			"^0000FFAdditional weapon ATK +2%.^000000",
+			"^0000FFAdditional physical damage against Normal and Boss monsters +5%.^000000",
+			"^0000FFAdditional physical damage +2%.^000000",
 			"^0000FFDamage of [Full Moon Kick] +10%.^000000",
 			"Total Refine 27 or more:",
-			"^0000FFAdditional physical Damage +5%.^000000",
-			"^0000FFAdditional weapon ATK +3%.^000000",
-			"^0000FFAdditional Attack speed +1.^000000",
-			"^0000FFAdditional Damage of [Full Moon Kick] +15%.^000000",
+			"^0000FFAdditional physical damage against Normal and Boss monsters +5%.^000000",
+			"^0000FFAdditional physical damage +3%.^000000",
+			"^0000FFAdditional attack speed +1.^000000",
+			"^0000FFAdditional damage of [Full Moon Kick] +15%.^000000",
 			"--------------------------",
 			"Type: ^777777Armor^000000",
 			"DEF: ^77777790^000000 MDEF: ^7777770^000000",
@@ -354832,6 +362981,66 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[450206] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "우든메일",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Armor",
+		identifiedResourceName = "Snowflower_Armor",
+		identifiedDescriptionName = {
+			"Armor made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"ATK + 130.",
+			"For every 2 Refine Levels, ATK + 15.",
+			"At Refine Level 7, increases attack speed (reduces delay after attack by 15%).",
+			"At Refine Level 9, P.ATK + 2.",
+			"When equipped with Snow Flower Manteau,",
+			"ATK + 50.",
+			"When equipped with Snow Flower Muffler,",
+			"reduces delay after skill by 10%.",
+			"Type: ^777777Armor^000000  Defense: ^777777150^000000",
+			"Weight: ^77777780^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450207] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Robe",
+		identifiedResourceName = "Snowflower_Robe",
+		identifiedDescriptionName = {
+			"A robe made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"MATK + 130.",
+			"For every 2 Refine Levels, MATK + 15.",
+			"At Refine Level 7, reduces variable cast time by 15%.",
+			"At Refine Level 9, S.MATK + 2.",
+			"When equipped with Snow Flower Manteau,",
+			"increases attack speed (reduces delay after attack by 10%).",
+			"When equipped with Snow Flower Muffler,",
+			"MATK + 50.",
+			"Type: ^777777Armor^000000  Defense: ^777777150^000000",
+			"Weight: ^77777780^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[450208] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "코튼셔츠",
@@ -356724,7 +364933,7 @@ tbl = {
 			"DEF: ^7777774^000000 MDEF: ^7777770^000000",
 			"Weight: ^7777770^000000",
 			"Equip Level: ^7777771^000000",
-			"Required Level: ^777777100^000000",
+			"Required Level: ^77777710^000000",
 			"Classes: ^777777All^000000"
 		},
 		slotCount = 0,
@@ -357450,6 +365659,66 @@ tbl = {
 		identifiedDisplayName = "",
 		identifiedResourceName = "Moaning_of_EvilSpirits",
 		identifiedDescriptionName = {""},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470115] = {
+		unidentifiedDisplayName = "Footgear",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Boots",
+		identifiedResourceName = "Snowflower_Boots",
+		identifiedDescriptionName = {
+			"Boots made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting them with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"MHP + 8%, MSP + 4%.",
+			"For every 2 Refine Levels, MSP + 1%.",
+			"At Refine Level 7, increases melee/ranged physical damage by 7%.",
+			"At Refine Level 9, P.ATK + 2.",
+			"When equipped with Snow Flower Armor,",
+			"ATK + 7%",
+			"When equipped with Snow Flower Robe,",
+			"increases attack speed (reduces delay after attack by 7%).",
+			"Type: ^777777Footgear^000000  Defense: ^77777770^000000",
+			"Weight: ^77777750^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470116] = {
+		unidentifiedDisplayName = "Footgear",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Shoes",
+		identifiedResourceName = "Snowflower_Shoes",
+		identifiedDescriptionName = {
+			"Shoes made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting them with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"MHP + 6%, MSP + 6%.",
+			"For every 2 Refine Levels, MSP + 1%.",
+			"At Refine Level 7, increases magical damage of all properties by 7%.",
+			"At Refine Level 9, S.MATK + 2.",
+			"When equipped with Snow Flower Armor,",
+			"reduces variable cast time by 7%.",
+			"When equipped with Snow Flower Robe,",
+			"MATK + 7%",
+			"Type: ^777777Footgear^000000  Defense: ^77777770^000000",
+			"Weight: ^77777750^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
@@ -358988,6 +367257,40 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[480087] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Beautiful Shield",
+		identifiedResourceName = "Ten_G_Shield_TW",
+		identifiedDescriptionName = {
+			"A shield inspired by the flag of Kunlun, a symbol of resistance of the Island-Nation.",
+			"-------------------------",
+			"^008080Displays the visual on the character's back.^000000",
+			"-------------------------",
+			"^0000FFMax HP +1,010.^000000",
+			"Every 3 refines:",
+			"^0000FFResistance to ranged physical damage +2%.^000000",
+			"Every 4 refines:",
+			"^0000FFResistance to all sizes +1%.^000000",
+			"-------------------------",
+			"Refine +9 or more:",
+			"^0000FFMax HP +10%.^000000",
+			"Refine +11 or more:",
+			"^0000FFReflects 10% of the melee physical damage received.^000000",
+			"-------------------------",
+			"Type: ^777777Garment^000000",
+			"DEF: ^77777720^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 90,
+		costume = false
+	},
 	[480088] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "후드",
@@ -360175,6 +368478,65 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 123,
 		costume = true
+	},
+	[480159] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Manteau",
+		identifiedResourceName = "Snowflower_Manteau",
+		identifiedDescriptionName = {
+			"A manteau made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"MHP + 2500, MSP + 500.",
+			"For every 2 Refine Levels, MHP + 200, MSP + 50.",
+			"At Refine Level 7, increases Aspd (reduces delay after attack by 7%).",
+			"At Refine Level 9, POW + 3.",
+			"When equipped with Snow Flower Boots,",
+			"increases critical damage by 15%.",
+			"When equipped with Snow Flower Shoes,",
+			"reduces variable cast time by 15%.",
+			"Type: ^777777Garment^000000  Defense: ^77777770^000000",
+			"Weight: ^77777790^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480160] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Muffler",
+		identifiedResourceName = "Snowflower_Muffler",
+		identifiedDescriptionName = {
+			"A muffler made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"MHP + 2000, MSP + 1000.",
+			"For every 2 Refine Levels, MHP + 150, MSP + 100.",
+			"At Refine Level 7, reduces variable cast time by 7%.",
+			"At Refine Level 9, SPL + 3.",
+			"When equipped with Snow Flower Boots,",
+			"increases ranged physical damage by 7%.",
+			"When equipped with Snow Flower Shoes,",
+			"increases magical damage of all properties by 15%.",
+			"Type: ^777777Garment^000000  Defense: ^77777770^000000",
+			"Weight: ^77777790^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
 	},
 	[480167] = {
 		unidentifiedDisplayName = "Costume",
@@ -365521,7 +373883,7 @@ tbl = {
 			"^0000FFCasting cannot be interrupted.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Eden Group Necklace]^000000",
+			"^FA4E09[Eden Group Advanced Necklace]^000000",
 			"^0000FFVariable cast time -10%.^000000",
 			"^0000FFFixed cast time -0.2 seconds.^000000",
 			"Base Level 105 or higher:",
@@ -366494,6 +374856,98 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[490176] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Pendant",
+		identifiedResourceName = "Snowflower_Pendant",
+		identifiedDescriptionName = {
+			"A pendant made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"ATK + 7%, MHP + 7%.",
+			"Type: ^777777Accessory (Right)^000000 Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490177] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Ring",
+		identifiedResourceName = "Snowflower_Ring",
+		identifiedDescriptionName = {
+			"A ring made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"ATK + 7%, MSP + 7%.",
+			"Type: ^777777Accessory (Left)^000000 Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490178] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Necklace",
+		identifiedResourceName = "Snowflower_Necklace",
+		identifiedDescriptionName = {
+			"A necklace made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"MATK + 7%, MHP + 7%.",
+			"Type: ^777777Accessory (Right)^000000 Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490179] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Snow Flower Earring",
+		identifiedResourceName = "Snowflower_Earring",
+		identifiedDescriptionName = {
+			"An earring made by grinding Snow Flower Petal found in Issgard.",
+			"Additional abilities can be granted by enchanting it with Ice Flower Magic Stones imbued with special magical power.",
+			"",
+			"MATK + 7%, MSP + 7%.",
+			"Type: ^777777Accessory (Left)^000000 Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Armor Base Lv: ^7777772^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[490180] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "클립",
@@ -366610,7 +375064,7 @@ tbl = {
 			"^0000FFVariable cast time -10%.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Ancestral Kodachi]^000000 and",
+			"^FA4E09[Kodachi Sword]^000000 and",
 			"^FA4E09[Primordial-LT Wakizashi]^000000",
 			"^0000FFPhysical damage against all sizes +15%.^000000",
 			"Weapon with +10 or higher refine:",
@@ -368220,13 +376674,603 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[491111] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Courage",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Lance^000000",
+			"^0000FFPhysical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Madness Crusher] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Madness Crusher] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Two-Handed Sword^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Hack and Slash] cooldown -0.15 seconds.^000000",
+			"^0000FF[Hack and Slash] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Hack and Slash] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Guardian Spear^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Overslash] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Overslash] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Guardian Sword^000000",
+			"^0000FF[Genesis Ray] cooldown -1 second.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Cross Rain] cooldown 0.7 seconds.^000000",
+			"^0000FF[Cross Rain] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAddiitional [Cross Rain] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491112] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Friendship",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Aiming Bow^000000",
+			"^0000FF[Aimed Bolt] cooldown -1 second.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Crescive Bolt], 50% chance to autocast [Focused Arrow Strike] Lv.5.^000000",
+			"^0000FF[Crescive Bolt] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Crescive Bolt] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Ballista^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Gale Storm] cooldown -0.15 seconds.^000000",
+			"^0000FF[Gale Storm] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Gale Storm] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Chain Rope^000000 or",
+			"^FA4E09Vivatus Fides Violin^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Rose Blossom], 3% chance to activate [No Limits] Lv.3 effect for 5 seconds.^000000",
+			"^0000FF[Rhythm Shooting] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Rhythm Shooting] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Harp^000000 or",
+			"^FA4E09Vivatus Fides Ribbon^000000",
+			"When performing magical attacks:",
+			"^0000FF10% chance to inflict Sleep on the target.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Metallic Sound], 50% chance to autocast [Metallic Fury] Lv.3.^000000",
+			"^0000FF[Metallic Fury] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Metallic Fury] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491113] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Purity",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Rod^000000",
+			"^0000FF[Intensification] cooldown -50 seconds.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Soul Vulcan Strike] cooldown -0.2 seconds.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Soul Vulcan Strike] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Two-Handed Staff^000000",
+			"^0000FF[Comet] cooldown -10 seconds.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Mystery Illusion] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Mystery Illusion] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Magic Book^000000",
+			"When performing physical attacks:",
+			"^0000FF10% chance to autocast [Psychic Wave] Lv.4.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen performing physical attacks, 7% chance to autocast [Terra Drive] Lv.2.^000000",
+			"^0000FF[Terra Drive] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Terra Drive] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Poison Book^000000",
+			"^0000FFEnables [Venom Impression] Lv.3.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Venom Swamp] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Venom Swamp] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491114] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Knowledge",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Mace^000000",
+			"^0000FFVariable cast time of [Arm Cannon] [Flame Launcher] and [Ice Launcher] -100%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Activate Attack Device] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Activate Attack Device] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Axe^000000",
+			"^0000FF[Axe Tornado] cooldown -1 second.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Axe Stomp] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Axe Stomp] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Scepter^000000",
+			"^0000FFPhysical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Hell Plant] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Hell Plant] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Rapier^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Acidified Zone] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Acidified Zone] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491115] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Trust",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Chakram^000000",
+			"^0000FFCritical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Savage Impact] cooldown -0.15 seconds.^000000",
+			"^0000FF[Impact Crater] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCRT and C.RATE +5.^000000",
+			"^0000FFAdditional [Impact Crater] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Katar^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Eternal Slash] cooldown -0.15 seconds.^000000",
+			"^0000FF[Eternal Slash] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Eternal Slash] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Dagger^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Deft Stab] cooldown -0.15 seconds.^000000",
+			"^0000FF[Abyss Dagger] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Abyss Dagger] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Crossbow^000000",
+			"^0000FFEnables [Improve Concentration] Lv.5.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Frenzy Shot], 50% chance to autocast [Triangle Shot] Lv.8.^000000",
+			"^0000FF[Frenzy Shot] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Frenzy Shot] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491116] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Light",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Bible^000000",
+			"^0000FFEnables [Misfortune Rush] Lv.2.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Petitio] cooldown -0.15 seconds.^000000",
+			"^0000FF[Petitio] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Petitio] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Wand^000000",
+			"^0000FFVariable cast time of [Flamen] -100%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Arbitrium] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Arbitrium] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Claw^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Explosion Blaster] cooldown -0.15 seconds.^000000",
+			"^0000FF[Explosion Blaster] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Explosion Blaster] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Knuckle^000000",
+			"^0000FFPhysical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Second Flame] autocast [Third Flame Bomb] Lv.4.^000000",
+			"^0000FF[Third Flame Bomb] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Third Flame Bomb] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491117] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Love",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Foxtail Model^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Howling of Cheol-ho] cooldown -0.2 seconds.^000000",
+			"^0000FF[Cheol-ho Sonic Claw] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Cheol-ho Sonic Claw] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Adulter Fides Foxtail Wand^000000",
+			"^0000FFMagical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Hyunrok Breeze] cooldown -1.5 seconds.^000000",
+			"^0000FF[Hyunrok Breeze] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Hyunrok Breeze] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Cross Shuriken^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Swirling Petal], 50% chance to autocast [Huuma Shuriken - Grasp] Lv.8.^000000",
+			"^0000FF[Huuma Shuriken - Grasp] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Huuma Shuriken - Grasp] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Huuma Shuriken^000000",
+			"^0000FFPhysical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Infiltrate], 50% chance to autocast [Kunai - Rotation] Lv.4.^000000",
+			"^0000FF[Kunai - Distortion] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Kunai - Distortion] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491118] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Hope",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Shotgun^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Wild Fire] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Wild Fire] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Grenade Launcher^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Spiral Shooting] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Spiral Shooting] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Gatling Gun^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[The Vigilante at Night] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [The Vigilante at Night] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Revolver^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Magazine for One] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Magazine for One] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Rifle^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Only One Bullet] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFCON and P.ATK +5.^000000",
+			"^0000FFAdditional [Only One Bullet] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491119] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Consecrated Necklace: Destiny",
+		identifiedResourceName = "Consecrate_F_Monile",
+		identifiedDescriptionName = {
+			"A necklace that manifests unwavering faith.",
+			"--------------------------",
+			"^0000FFVariable cast time -10%.^000000",
+			"^0000FFPhysical and magical damage against opponents of all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Moon Book^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFSkill SP cost -10%.^000000",
+			"^0000FF[Midnight Kick] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Midnight Kick] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Stardust Book^000000",
+			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFAfter-skill delay -15%.^000000",
+			"^0000FF[Star Cannon] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFPOW and P.ATK +5.^000000",
+			"^0000FFAdditional [Star Cannon] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Soul Stick^000000",
+			"^0000FFMagical damage +10%.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FFWhen using [Talisman of Red Phoenix], autocasts [Talisman of Black Tortoise] Lv.4.^000000",
+			"^0000FF[Talisman of Red Phoenix] and [Talisman of Black Tortoise] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Talisman of Red Phoenix] and [Talisman of Black Tortoise] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Vivatus Fides Dark Wand^000000",
+			"^0000FF[Evil Soul Curse] cooldown -2 seconds.^000000",
+			"Weapon refined to +10 or higher:",
+			"^0000FF[Exorcism of Malicious Soul] cooldown -0.2 seconds.^000000",
+			"^0000FF[Exorcism of Malicious Soul] damage +10%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000FFSPL and S.MATK +5.^000000",
+			"^0000FFAdditional [Exorcism of Malicious Soul] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Left Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[500003] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Avenger",
+		identifiedDisplayName = "Light Blade",
 		identifiedResourceName = "세이브더킹",
 		identifiedDescriptionName = {
 			"When you wield this ancient sword, rays of light cut through the sky and unleash its power.",
@@ -368267,7 +377311,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Blade",
+		identifiedDisplayName = "Slate Sword",
 		identifiedResourceName = "Kladenets",
 		identifiedDescriptionName = {
 			"Reliable, powerful and a bit large, the Ancestral Blade is a key part of any adventure.",
@@ -369442,6 +378486,52 @@ tbl = {
 		ClassNum = 42,
 		costume = false
 	},
+	[500049] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Sword",
+		identifiedResourceName = "Glacier_Sword",
+		identifiedDescriptionName = {
+			"A one-handed sword made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Sword^000000 Attack: ^777777220^000000",
+			"Weight: ^777777160^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Swordman Classes, Merchant Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 42,
+		costume = false
+	},
+	[500050] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Basic Sword",
+		identifiedResourceName = "Glacier_B_Sword",
+		identifiedDescriptionName = {
+			"A one-handed sword made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Sword^000000 Attack: ^777777220^000000",
+			"Weight: ^777777140^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Novice Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 42,
+		costume = false
+	},
 	[500051] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "바스타드소드",
@@ -369472,6 +378562,54 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 42,
+		costume = false
+	},
+	[500054] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Sword",
+		identifiedResourceName = "D_Glacier_Sword",
+		identifiedDescriptionName = {
+			"A one-handed sword that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777Sword^000000 ATK: ^777777220^000000",
+			"Weight: ^777777160^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Swordsman classes, Merchant classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 42,
+		EffectID = 1869,
+		costume = false
+	},
+	[500055] = {
+		unidentifiedDisplayName = "One-Handed Sword",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Basic Sword",
+		identifiedResourceName = "D_Glacier_B_Sword",
+		identifiedDescriptionName = {
+			"A one-handed sword that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777Sword^000000 ATK: ^777777220^000000",
+			"Weight: ^777777140^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Novice classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 42,
+		EffectID = 1869,
 		costume = false
 	},
 	[500063] = {
@@ -369606,7 +378744,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Dirk",
+		identifiedDisplayName = "Fatalist",
 		identifiedResourceName = "Taurus_Sword_J",
 		identifiedDescriptionName = {
 			"Used in sacred rituals, the Ancestral Dagger is synonymous with respect for the traditions passed down from generation to generation.",
@@ -369873,27 +379011,27 @@ tbl = {
 			"Weapon purified of ancestral powers and now emanating younger energy.",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Kodachi Ancestral]^000000",
+			"^FA4E09[Kodachi Sword]^000000",
 			"Every 3 refines of the two weapons:",
-			"^0000ffATK +15.^000000",
+			"^0000FFATK +15.^000000",
 			"Every 5 refines of both weapons:",
-			"^0000ffATK of weapon +3%.^000000",
+			"^0000FFATK of weapon +3%.^000000",
 			"Sum of weapon refines +14 or more:",
-			"^0000ffCrossfire] damage +30%.^000000",
-			"^0000ffRecharge of [Crusader Impact] -2 seconds.^000000",
+			"^0000FFCrossfire] damage +30%.^000000",
+			"^0000FFRecharge of [Crusader Impact] -2 seconds.^000000",
 			"Sum of weapon refines +16 or more:",
-			"^0000ffEnables [Dark Crush] at the same learned level as [Rising Distortion].^000000",
-			"^0000ffEnables [Crescent Distortion] at the same level learned as [Dark Crush].^000000",
+			"^0000FFEnables [Dark Crush] at the same learned level as [Rising Distortion].^000000",
+			"^0000FFEnables [Crescent Distortion] at the same level learned as [Dark Crush].^000000",
 			"Sum of weapon refines +18 or more:",
-			"^0000ffPhysical damage against opponents of all properties +15%.^000000",
+			"^0000FFPhysical damage against opponents of all properties +15%.^000000",
 			"Sum of weapon refines +20 or more:",
-			"^0000ffCrossfire damage +25% additional.^000000",
+			"^0000FFCrossfire damage +25% additional.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
 			"^FA4E09[Great Hero's Boots]^000000",
 			"^FA4E09[Kodachi Ancestral]^000000",
-			"^0000ffDEX +10.^000000",
-			"^0000ffATK of weapon +7%.^000000",
+			"^0000FFDEX +10.^000000",
+			"^0000FFATK of weapon +7%.^000000",
 			"-------------------------",
 			"Type: ^777777Dagger^000000",
 			"ATK: ^777777190^000000 MATK: ^7777770^000000",
@@ -370197,7 +379335,7 @@ tbl = {
 			"^0000FFMagical damage against all monster races +15%.^000000",
 			"--------------------------",
 			"^CD3278Snake's Curse:^000000",
-			"^0000FFWhen performing magic attacks, 50% chance to self-cast [Toxic Implosion] lv.4.^000000",
+			"^0000FFWhen performing magic attacks, 50% chance to self-cast [Poison Burst] lv.4.^000000",
 			"--------------------------",
 			"Type: ^777777Dagger^000000",
 			"ATK: ^777777107^000000 MATK: ^777777180^000000",
@@ -370817,7 +379955,7 @@ tbl = {
 			"Weapon from an ancient hero that was reformed.",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Ancestral Kodachi]^000000",
+			"^FA4E09[Kodachi Sword]^000000",
 			"Every 3 refinements on both weapons:",
 			"^0000FFATK +15.^000000",
 			"Every 5 refinements on both weapons:",
@@ -370860,6 +379998,52 @@ tbl = {
 		ClassNum = 31,
 		costume = false
 	},
+	[510061] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Rogue Knife",
+		identifiedResourceName = "Glacier_R_Knife",
+		identifiedDescriptionName = {
+			"A dagger made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Dagger^000000 Attack: ^777777210^000000",
+			"Weight: ^777777140^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Shadow Chaser Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = false
+	},
+	[510062] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Basic Knife",
+		identifiedResourceName = "Glacier_B_Knife",
+		identifiedDescriptionName = {
+			"A dagger made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Dagger^000000 Attack: ^777777210^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Novice Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = false
+	},
 	[510066] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
@@ -370897,7 +380081,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral knife",
+		identifiedDisplayName = "Blessed Knife",
 		identifiedResourceName = "매지컬블레이드",
 		identifiedDescriptionName = {
 			"Forged by warrior angels and used to defeat demons, this dagger has sacred divine powers that increase its user's power.",
@@ -371027,6 +380211,54 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 31,
+		costume = false
+	},
+	[510075] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Rogue Knife",
+		identifiedResourceName = "D_Glacier_R_Knife",
+		identifiedDescriptionName = {
+			"A dagger that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777Dagger^000000 ATK: ^777777210^000000",
+			"Weight: ^777777140^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Archer classes, Rogue classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 31,
+		EffectID = 1869,
+		costume = false
+	},
+	[510076] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Basic Knife",
+		identifiedResourceName = "D_Glacier_B_Knife",
+		identifiedDescriptionName = {
+			"A dagger that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777Dagger^000000 ATK: ^777777210^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Novice classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 31,
+		EffectID = 1869,
 		costume = false
 	},
 	[510091] = {
@@ -371389,6 +380621,55 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 6,
+		costume = false
+	},
+	[520017] = {
+		unidentifiedDisplayName = "Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Axe",
+		identifiedResourceName = "Glacier_Axe",
+		identifiedDescriptionName = {
+			"A one-handed axe made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777One-Handed Axe^000000 Attack: ^777777240^000000",
+			"Weight: ^777777500^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Swordman Classes, Merchant Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 6,
+		costume = false
+	},
+	[520021] = {
+		unidentifiedDisplayName = "Dim Glacier Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Axe",
+		identifiedResourceName = "D_Glacier_Axe",
+		identifiedDescriptionName = {
+			"A one-handed axe that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 210.",
+			"Type: ^777777One-Handed Axe^000000 ATK: ^777777240^000000",
+			"Weight: ^777777500^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Swordsman classes, Merchant classes, Druid classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 6,
+		EffectID = 1869,
 		costume = false
 	},
 	[530002] = {
@@ -371920,6 +381201,29 @@ tbl = {
 		ClassNum = 4,
 		costume = false
 	},
+	[530025] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Spear",
+		identifiedResourceName = "Glacier_Spear",
+		identifiedDescriptionName = {
+			"A one-handed spear made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777One-Handed Spear^000000 Attack: ^777777220^000000",
+			"Weight: ^777777210^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Swordman Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4,
+		costume = false
+	},
 	[530028] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "쟈벨린",
@@ -371959,6 +381263,30 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 4,
+		costume = false
+	},
+	[530034] = {
+		unidentifiedDisplayName = "One-Handed Spear",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Spear",
+		identifiedResourceName = "D_Glacier_Spear",
+		identifiedDescriptionName = {
+			"A one-handed spear that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777One-Handed Spear^000000 ATK: ^777777220^000000",
+			"Weight: ^777777210^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Swordsman classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 4,
+		EffectID = 1869,
 		costume = false
 	},
 	[530045] = {
@@ -373291,6 +382619,30 @@ tbl = {
 		ClassNum = 15,
 		costume = false
 	},
+	[540049] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Book",
+		identifiedResourceName = "Glacier_Book",
+		identifiedDescriptionName = {
+			"A book with a cover decorated with ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Book^000000 Attack: ^777777210^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Sage Classes, Priest Classes, Taekwon Master Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15,
+		costume = false
+	},
 	[540051] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "북",
@@ -373369,6 +382721,31 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 15,
+		costume = false
+	},
+	[540056] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Book",
+		identifiedResourceName = "D_Glacier_Book",
+		identifiedDescriptionName = {
+			"A book that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 210.",
+			"Type: ^777777Book^000000 ATK: ^777777210^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Sage classes, Priest classes, Taekwon Master classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 15,
+		EffectID = 1869,
 		costume = false
 	},
 	[540057] = {
@@ -373548,7 +382925,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Pole",
+		identifiedDisplayName = "Chilling Cane",
 		identifiedResourceName = "일벽장",
 		identifiedDescriptionName = {
 			"The Refreshing Stick handles ice and also summons small breezes to soften the summer.",
@@ -375664,6 +385041,54 @@ tbl = {
 		ClassNum = 69,
 		costume = false
 	},
+	[550069] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Wand",
+		identifiedResourceName = "Glacier_Wand",
+		identifiedDescriptionName = {
+			"A one-handed staff made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 230.",
+			"^ffffff_^000000",
+			"Type: ^777777One-Handed Staff^000000 Attack: ^777777150^000000",
+			"Weight: ^777777130^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Novice Classes, Mage Classes, Acolyte Classes, Soul Linker Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = false
+	},
+	[550070] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Foxtail",
+		identifiedResourceName = "Glacier_Foxtail",
+		identifiedDescriptionName = {
+			"A foxtail-shaped staff made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 400.",
+			"^ffffff_^000000",
+			"Type: ^777777One-Handed Staff^000000 Attack: ^777777400^000000",
+			"Weight: ^777777200^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Summoner (Doram) Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = false
+	},
 	[550075] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "롯드",
@@ -375733,7 +385158,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral staff",
+		identifiedDisplayName = "Freedom Stick",
 		identifiedResourceName = "신축만능팔",
 		identifiedDescriptionName = {
 			"The supreme creation of celestial magicians to fight evil. Thanks to the divine power contained within it, users have their arcane power increased when using this staff. It is said to be indestructible...",
@@ -375868,6 +385293,56 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 69,
+		costume = false
+	},
+	[550089] = {
+		unidentifiedDisplayName = "Dim Glacier Wand",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Wand",
+		identifiedResourceName = "D_Glacier_Wand",
+		identifiedDescriptionName = {
+			"A one-handed staff that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 230.",
+			"Type: ^777777One-Handed Staff^000000 ATK: ^777777150^000000",
+			"Weight: ^777777130^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Novice classes, Mage classes, Acolyte classes, Soul Linker classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 69,
+		EffectID = 1869,
+		costume = false
+	},
+	[550090] = {
+		unidentifiedDisplayName = "Dim Glacier Foxtail",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Foxtail",
+		identifiedResourceName = "D_Glacier_Foxtail",
+		identifiedDescriptionName = {
+			"A foxtail staff that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 400.",
+			"Type: ^777777One-Handed Staff^000000 ATK: ^777777400^000000",
+			"Weight: ^777777200^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Summoner (Doram) classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 102,
+		EffectID = 1869,
 		costume = false
 	},
 	[550115] = {
@@ -376150,7 +385625,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Knuckle",
+		identifiedDisplayName = "Ray Knuckle",
 		identifiedResourceName = "섬광의손톱",
 		identifiedDescriptionName = {
 			"Armband that protects and brings color to confrontations. Defeating enemies is better done in style!",
@@ -376988,6 +386463,29 @@ tbl = {
 		ClassNum = 78,
 		costume = false
 	},
+	[560032] = {
+		unidentifiedDisplayName = "Knuckle",
+		unidentifiedResourceName = "바그낙",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Knuckle",
+		identifiedResourceName = "Glacier_Knuckle",
+		identifiedDescriptionName = {
+			"A knuckle made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 220.",
+			"^ffffff_^000000",
+			"Type: ^777777Knuckle^000000 Attack: ^777777240^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Sura Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 78,
+		costume = false
+	},
 	[560034] = {
 		unidentifiedDisplayName = "Knuckle",
 		unidentifiedResourceName = "바그낙",
@@ -377017,6 +386515,77 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 78,
+		costume = false
+	},
+	[560036] = {
+		unidentifiedDisplayName = "Knuckle",
+		unidentifiedResourceName = "바그낙",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Demonic Claw",
+		identifiedResourceName = "Sins_Finger",
+		identifiedDescriptionName = {
+			"A weapon created by a fallen angel. It seems to urge the user to commit a sin.",
+			"--------------------------",
+			"^0000FFPOW +2.^000000",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FF[Explosion Blaster] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or higher:",
+			"^0000FFAdditional [Explosion Blaster] damage +10%.^000000",
+			"Refine +7 or higher:",
+			"^0000FFRanged physical damage +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000FFAdditional [Explosion Blaster] damage +10%.^000000",
+			"Refine +10 or higher:",
+			"^0000FFCRIT +10.^000000",
+			"Refine +11 or higher:",
+			"^0000FF[Oleum Sanctum] damage +15%.^000000",
+			"^0000FFAdditional [Explosion Blaster] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional ranged physical damage +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Knuckle^000000",
+			"ATK: ^777777210^000000 MATK: ^7777770^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Inquisitor and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 78,
+		costume = false
+	},
+	[560037] = {
+		unidentifiedDisplayName = "Dim Glacier Knuckle",
+		unidentifiedResourceName = "바그낙",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Knuckle",
+		identifiedResourceName = "D_Glacier_Knuckle",
+		identifiedDescriptionName = {
+			"A knuckle that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 220.",
+			"Type: ^777777Knuckle^000000 ATK: ^777777240^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Sura classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 78,
+		EffectID = 1869,
 		costume = false
 	},
 	[560073] = {
@@ -377057,7 +386626,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Ocarina",
+		identifiedDisplayName = "Trumpet Shell",
 		identifiedResourceName = "소라고둥",
 		identifiedDescriptionName = {
 			"Shell that makes mysterious sounds.",
@@ -377739,6 +387308,53 @@ tbl = {
 		ClassNum = 13,
 		costume = false
 	},
+	[570029] = {
+		unidentifiedDisplayName = "Musical Instrument",
+		unidentifiedResourceName = "바이올린",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Violin",
+		identifiedResourceName = "Glacier_Violin",
+		identifiedDescriptionName = {
+			"A violin made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Musical Instrument^000000 Attack: ^777777210^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Troubadour Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 13,
+		costume = false
+	},
+	[570032] = {
+		unidentifiedDisplayName = "Instrument",
+		unidentifiedResourceName = "바이올린",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Violin",
+		identifiedResourceName = "D_Glacier_Violin",
+		identifiedDescriptionName = {
+			"A violin that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777Instrument^000000 ATK: ^777777210^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Minstrel classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 13,
+		EffectID = 1869,
+		costume = false
+	},
 	[570037] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "바이올린",
@@ -377851,7 +387467,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Wire",
+		identifiedDisplayName = "Barbed Wire Whip",
 		identifiedResourceName = "가시철사",
 		identifiedDescriptionName = {
 			"Don't let your targets escape with this long whip that once belonged to the Bell Montes family. With one of these in your possession, even exploring an upside-down castle won't be difficult for you!",
@@ -378532,6 +388148,53 @@ tbl = {
 		ClassNum = 14,
 		costume = false
 	},
+	[580030] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "로프",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Whip",
+		identifiedResourceName = "Glacier_Whip",
+		identifiedDescriptionName = {
+			"A whip made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Whip^000000 Attack: ^777777210^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Wanderer Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14,
+		costume = false
+	},
+	[580033] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "로프",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Whip",
+		identifiedResourceName = "D_Glacier_Whip",
+		identifiedDescriptionName = {
+			"A whip that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 210.",
+			"Type: ^777777Whip^000000 ATK: ^777777210^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Wanderer classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 14,
+		EffectID = 1869,
+		costume = false
+	},
 	[580038] = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "로프",
@@ -378644,7 +388307,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Mace",
+		identifiedDisplayName = "Meteor Striker",
 		identifiedResourceName = "메테오스트라이크",
 		identifiedDescriptionName = {
 			"Imbued with uncontrollable power, the Ancestral Apple loves to Hit adventurers who have never tasted its thorns.",
@@ -379621,6 +389284,54 @@ tbl = {
 		ClassNum = 62,
 		costume = false
 	},
+	[590038] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "메이스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Mace",
+		identifiedResourceName = "Glacier_Mace",
+		identifiedDescriptionName = {
+			"A mace made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 210.",
+			"^ffffff_^000000",
+			"Type: ^777777Mace^000000 Attack: ^777777210^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Swordman Classes, Merchant Classes, Acolyte Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 62,
+		costume = false
+	},
+	[590039] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "메이스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Mechanic Mace",
+		identifiedResourceName = "Glacier_M_Mace",
+		identifiedDescriptionName = {
+			"A mace made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 160.",
+			"^ffffff_^000000",
+			"Type: ^777777Mace^000000 Attack: ^777777400^000000",
+			"Weight: ^777777400^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Mechanic Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 62,
+		costume = false
+	},
 	[590043] = {
 		unidentifiedDisplayName = "Mace",
 		unidentifiedResourceName = "메이스",
@@ -379733,13 +389444,63 @@ tbl = {
 		ClassNum = 62,
 		costume = false
 	},
+	[590047] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "메이스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Mace",
+		identifiedResourceName = "D_Glacier_Mace",
+		identifiedDescriptionName = {
+			"A mace that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 210.",
+			"Type: ^777777Mace^000000 ATK: ^777777210^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Swordsman classes, Merchant classes, Acolyte classes, Druid classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 62,
+		EffectID = 1869,
+		costume = false
+	},
+	[590048] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "메이스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Mechanic Mace",
+		identifiedResourceName = "D_Glacier_M_Mace",
+		identifiedDescriptionName = {
+			"A mace that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 160.",
+			"Type: ^777777Mace^000000 ATK: ^777777400^000000",
+			"Weight: ^777777400^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Mechanic classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 62,
+		EffectID = 1869,
+		costume = false
+	},
 	[600004] = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Bastard Sword",
+		identifiedDisplayName = "Dragonic Slayer",
 		identifiedResourceName = "헤타이로이의검",
 		identifiedDescriptionName = {
 			"A sword worthy only of those who don't lie about their age and admit to being of Bastard ancestry. Don't hide your wrinkles and wield a powerful weapon!",
@@ -380323,6 +390084,29 @@ tbl = {
 		ClassNum = 49,
 		costume = false
 	},
+	[600027] = {
+		unidentifiedDisplayName = "Two-Handed Sword",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Two-Handed Sword",
+		identifiedResourceName = "Glacier_T_Sword",
+		identifiedDescriptionName = {
+			"A two-handed sword made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 270.",
+			"^ffffff_^000000",
+			"Type: ^777777Two-Handed Sword^000000 Attack: ^777777300^000000",
+			"Weight: ^777777400^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Knight Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 49,
+		costume = false
+	},
 	[600028] = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "바스타드소드",
@@ -380353,6 +390137,30 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 49,
+		costume = false
+	},
+	[600030] = {
+		unidentifiedDisplayName = "Two-Handed Sword",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Two-Handed Sword",
+		identifiedResourceName = "D_Glacier_T_Sword",
+		identifiedDescriptionName = {
+			"A two-handed sword that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 270.",
+			"Type: ^777777Two-Handed Sword^000000 ATK: ^777777300^000000",
+			"Weight: ^777777400^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Knight classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 49,
+		EffectID = 1869,
 		costume = false
 	},
 	[600066] = {
@@ -381228,6 +391036,29 @@ tbl = {
 		ClassNum = 16,
 		costume = false
 	},
+	[610037] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "쥬르",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Katar",
+		identifiedResourceName = "Glacier_Katar",
+		identifiedDescriptionName = {
+			"A katar made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 220.",
+			"^ffffff_^000000",
+			"Type: ^777777Katar^000000 Attack: ^777777240^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Guillotine Cross Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16,
+		costume = false
+	},
 	[610039] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "쥬르",
@@ -381257,6 +391088,77 @@ tbl = {
 			"Weapon Level: ^7777775^000000",
 			"Required Level: ^777777170^000000",
 			"Classes: ^777777Guillotine Cross and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 16,
+		costume = false
+	},
+	[610041] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "쥬르",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Katar",
+		identifiedResourceName = "D_Glacier_Katar",
+		identifiedDescriptionName = {
+			"A katar that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 220.",
+			"Type: ^777777Katar^000000 ATK: ^777777240^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Guillotine Cross classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 16,
+		EffectID = 1869,
+		costume = false
+	},
+	[610045] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "쥬르",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Shining Light Katar",
+		identifiedResourceName = "Fate_Katar",
+		identifiedDescriptionName = {
+			"A weapon created by an angel of light. It seems to urge the user to do a good deed.",
+			"--------------------------",
+			"^0000FFPOW +2.^000000",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FF[Eternal Slash] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or higher:",
+			"^0000FFAdditional [Eternal Slash] damage +10%.^000000",
+			"Refine +7 or higher:",
+			"^0000FFMelee physical damage +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000FFAdditional [Eternal Slash] damage +10%.^000000",
+			"Refine +10 or higher:",
+			"^0000FFAttack speed +10%.^000000",
+			"Refine +11 or higher:",
+			"^0000FF[Savage Impact] damage +15%.^000000",
+			"^0000FFAdditional [Eternal Slash] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional melee physical damage +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Katar^000000",
+			"ATK: ^777777290^000000 MATK: ^7777770^000000",
+			"Weight: ^777777100^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Shadow Cross and evolutions^000000"
 		},
 		slotCount = 2,
 		ClassNum = 16,
@@ -381712,6 +391614,30 @@ tbl = {
 		ClassNum = 7,
 		costume = false
 	},
+	[620017] = {
+		unidentifiedDisplayName = "Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Mechanic Axe",
+		identifiedResourceName = "Glacier_T_Axe",
+		identifiedDescriptionName = {
+			"A two-handed axe made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 180.",
+			"^ffffff_^000000",
+			"Type: ^777777Two-Handed Axe^000000 Attack: ^777777350^000000",
+			"Weight: ^777777700^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Mechanic Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7,
+		costume = false
+	},
 	[620018] = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "액스",
@@ -381742,6 +391668,31 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 7,
+		costume = false
+	},
+	[620019] = {
+		unidentifiedDisplayName = "Dim Glacier Mechanic Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Mechanic Axe",
+		identifiedResourceName = "D_Glacier_T_Axe",
+		identifiedDescriptionName = {
+			"A two-handed axe that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 180.",
+			"Type: ^777777Two-Handed Axe^000000 ATK: ^777777350^000000",
+			"Weight: ^777777700^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Mechanic classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 7,
+		EffectID = 1869,
 		costume = false
 	},
 	[620046] = {
@@ -382134,6 +392085,53 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 52,
+		costume = false
+	},
+	[630018] = {
+		unidentifiedDisplayName = "Two-Handed Spear",
+		unidentifiedResourceName = "랜스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Lance",
+		identifiedResourceName = "Glacier_Lance",
+		identifiedDescriptionName = {
+			"A two-handed spear made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 270.",
+			"^ffffff_^000000",
+			"Type: ^777777Two-Handed Spear^000000 Attack: ^777777300^000000",
+			"Weight: ^777777450^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Knight Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 52,
+		costume = false
+	},
+	[630019] = {
+		unidentifiedDisplayName = "Two-Handed Spear",
+		unidentifiedResourceName = "랜스",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Lance",
+		identifiedResourceName = "D_Glacier_Lance",
+		identifiedDescriptionName = {
+			"A two-handed spear that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 270.",
+			"Type: ^777777Two-Handed Spear^000000 ATK: ^777777300^000000",
+			"Weight: ^777777450^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Knight classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 52,
+		EffectID = 1869,
 		costume = false
 	},
 	[630027] = {
@@ -383063,6 +393061,102 @@ tbl = {
 		ClassNum = 96,
 		costume = false
 	},
+	[640033] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Staff",
+		identifiedResourceName = "Glacier_Staff",
+		identifiedDescriptionName = {
+			"A two-handed staff made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 290.",
+			"^ffffff_^000000",
+			"Type: ^777777Two-Handed Staff^000000 Attack: ^777777150^000000",
+			"Weight: ^777777240^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Mage Classes, Acolyte Classes, Soul Linker Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 96,
+		costume = false
+	},
+	[640034] = {
+		unidentifiedDisplayName = "Dim Glacier Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Staff",
+		identifiedResourceName = "D_Glacier_Staff",
+		identifiedDescriptionName = {
+			"A two-handed staff that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 290.",
+			"Type: ^777777Two-Handed Staff^000000 ATK: ^777777150^000000",
+			"Weight: ^777777240^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Mage classes, Acolyte classes, Soul Linker classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 96,
+		EffectID = 1869,
+		costume = false
+	},
+	[640036] = {
+		unidentifiedDisplayName = "Two-Handed Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Devil Wing Staff",
+		identifiedResourceName = "Sins_Staff",
+		identifiedDescriptionName = {
+			"A weapon created by a fallen angel. It seems to urge the user to commit a sin.",
+			"--------------------------",
+			"^0000FFSPL +2.^000000",
+			"^0000FFMagical damage +5%.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or higher:",
+			"^0000FFAdditional [Soul Vulcan Strike] damage +10%.^000000",
+			"Refine +7 or higher:",
+			"^0000FFMagical damage of Ghost and Shadow property +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000FF[Soul Vulcan Strike] damage +10% additional.^000000",
+			"Refine +10 or higher:",
+			"^0000FFVariable cast time -10%.^000000",
+			"Refine +11 or higher:",
+			"^0000FF[Mystery Illusion] damage +15%.^000000",
+			"^0000FFAdditional [Soul Vulcan Strike] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional Magical damage of Ghost and Shadow property +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFMagical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFMagical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFMagical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Two-Handed Staff^000000",
+			"ATK: ^77777795^000000 MATK: ^777777290^000000",
+			"Weight: ^777777140^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Arch Mage and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 96,
+		costume = false
+	},
 	[640037] = {
 		unidentifiedDisplayName = "Two-Handed Staff",
 		unidentifiedResourceName = "롯드",
@@ -383645,6 +393739,102 @@ tbl = {
 		ClassNum = 22,
 		costume = false
 	},
+	[650025] = {
+		unidentifiedDisplayName = "Huuma Shuriken",
+		unidentifiedResourceName = "풍마_편익",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Huuma Shuriken",
+		identifiedResourceName = "Glacier_Humma",
+		identifiedDescriptionName = {
+			"A Huuma Shuriken made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"Indestructible.",
+			"MATK + 370.",
+			"^ffffff_^000000",
+			"Type: ^777777Huuma Shuriken^000000 Attack: ^777777400^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Ninja Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 22,
+		costume = false
+	},
+	[650028] = {
+		unidentifiedDisplayName = "Huuma Shuriken",
+		unidentifiedResourceName = "풍마_편익",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Huuma Shuriken",
+		identifiedResourceName = "D_Glacier_Humma",
+		identifiedDescriptionName = {
+			"A huuma shuriken that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"Indestructible.",
+			"MATK + 370.",
+			"Type: ^777777Huuma Shuriken^000000 ATK: ^777777400^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Ninja classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 22,
+		EffectID = 1869,
+		costume = false
+	},
+	[650034] = {
+		unidentifiedDisplayName = "Shuriken Huuma",
+		unidentifiedResourceName = "풍마_편익",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Huuma Shuriken Brilliance",
+		identifiedResourceName = "Fate_Huuma",
+		identifiedDescriptionName = {
+			"A weapon created by an angel of light. It seems to urge the user to do a good deed.",
+			"--------------------------",
+			"^0000FFPOW +2.^000000",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FF[Huuma Shuriken - Construct] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or higher:",
+			"^0000FFAdditional [Huuma Shuriken - Construct] damage +10%.^000000",
+			"Refine +7 or higher:",
+			"^0000FFRanged physical damage +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000FFAdditional [Huuma Shuriken - Construct] damage +10%.^000000",
+			"Refine +10 or higher:",
+			"^0000FFAfter-skill delay -10%.^000000",
+			"Refine +11 or higher:",
+			"^0000FF[Huuma Shuriken - Grasp] damage +15%.^000000",
+			"^0000FFAdditional [Huuma Shuriken - Construct] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional ranged physical damage +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Huuma Shuriken^000000",
+			"ATK: ^777777330^000000 MATK: ^7777770^000000",
+			"Weight: ^777777260^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Shinkiro, Shiranui and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 22,
+		costume = false
+	},
 	[650056] = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "풍마_편익",
@@ -383684,7 +393874,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Ancestral Gakkung",
+		identifiedDisplayName = "Scarlet Dragon Leather Bow",
 		identifiedResourceName = "아크오스다이모니쿠스",
 		identifiedDescriptionName = {
 			"A bow so intensely colored that it can be mistaken for the scales of ancient dragons.",
@@ -385062,6 +395252,29 @@ tbl = {
 		ClassNum = 11,
 		costume = false
 	},
+	[700052] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "보우",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Bow",
+		identifiedResourceName = "Glacier_Bow",
+		identifiedDescriptionName = {
+			"A bow made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 220.",
+			"^ffffff_^000000",
+			"Type: ^777777Bow^000000 Attack: ^777777240^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Archer Classes, Rogue Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 11,
+		costume = false
+	},
 	[700054] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "보우",
@@ -385154,6 +395367,30 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 11,
+		costume = false
+	},
+	[700059] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "보우",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Bow",
+		identifiedResourceName = "D_Glacier_Bow",
+		identifiedDescriptionName = {
+			"A bow that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 220.",
+			"Type: ^777777Bow^000000 ATK: ^777777240^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Archer classes, Rogue classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 11,
+		EffectID = 1869,
 		costume = false
 	},
 	[700066] = {
@@ -385749,6 +395986,53 @@ tbl = {
 		ClassNum = 17,
 		costume = false
 	},
+	[800014] = {
+		unidentifiedDisplayName = "Pistol",
+		unidentifiedResourceName = "식스슈터",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Pistol",
+		identifiedResourceName = "Glacier_Revolver",
+		identifiedDescriptionName = {
+			"A revolver made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 230.",
+			"^ffffff_^000000",
+			"Type: ^777777Revolver^000000 Attack: ^777777230^000000",
+			"Weight: ^777777220^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Rebellion Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 17,
+		costume = false
+	},
+	[800015] = {
+		unidentifiedDisplayName = "Dim Glacier Revolver",
+		unidentifiedResourceName = "식스슈터",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Revolver",
+		identifiedResourceName = "D_Glacier_Revolver",
+		identifiedDescriptionName = {
+			"A revolver that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 230.",
+			"Type: ^777777Revolver^000000 ATK: ^777777230^000000",
+			"Weight: ^777777220^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Rebellion classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 17,
+		EffectID = 1869,
+		costume = false
+	},
 	[810000] = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
@@ -386103,6 +396387,29 @@ tbl = {
 		ClassNum = 18,
 		costume = false
 	},
+	[810010] = {
+		unidentifiedDisplayName = "Rifle",
+		unidentifiedResourceName = "라이플",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Rifle",
+		identifiedResourceName = "Glacier_Rifle",
+		identifiedDescriptionName = {
+			"A rifle made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 230.",
+			"^ffffff_^000000",
+			"Type: ^777777Rifle^000000 Attack: ^777777280^000000",
+			"Weight: ^777777260^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Rebellion Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 18,
+		costume = false
+	},
 	[810013] = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
@@ -386132,6 +396439,30 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 18,
+		costume = false
+	},
+	[810015] = {
+		unidentifiedDisplayName = "Rifle",
+		unidentifiedResourceName = "라이플",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Rifle",
+		identifiedResourceName = "D_Glacier_Rifle",
+		identifiedDescriptionName = {
+			"A rifle that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 230.",
+			"Type: ^777777Rifle^000000 ATK: ^777777280^000000",
+			"Weight: ^777777260^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Rebellion classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 18,
+		EffectID = 1869,
 		costume = false
 	},
 	[820000] = {
@@ -386427,6 +396758,55 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 20,
+		costume = false
+	},
+	[820008] = {
+		unidentifiedDisplayName = "Shotgun",
+		unidentifiedResourceName = "싱글샷건",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Shotgun",
+		identifiedResourceName = "Glacier_Shotgun",
+		identifiedDescriptionName = {
+			"A shotgun made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 200.",
+			"Splash attack.",
+			"^ffffff_^000000",
+			"Type: ^777777Shotgun^000000 Attack: ^777777300^000000",
+			"Weight: ^777777260^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Rebellion Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 20,
+		costume = false
+	},
+	[820011] = {
+		unidentifiedDisplayName = "Shotgun",
+		unidentifiedResourceName = "싱글샷건",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Shotgun",
+		identifiedResourceName = "D_Glacier_Shotgun",
+		identifiedDescriptionName = {
+			"A shotgun that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 200.",
+			"Splash damage.",
+			"Type: ^777777Shotgun^000000 ATK: ^777777300^000000",
+			"Weight: ^777777260^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Rebellion classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 20,
+		EffectID = 1869,
 		costume = false
 	},
 	[830001] = {
@@ -386801,6 +397181,53 @@ tbl = {
 		ClassNum = 19,
 		costume = false
 	},
+	[830013] = {
+		unidentifiedDisplayName = "Gatling Gun",
+		unidentifiedResourceName = "드리프터",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Gatling",
+		identifiedResourceName = "Glacier_Gatling",
+		identifiedDescriptionName = {
+			"A Gatling gun made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 200.",
+			"^ffffff_^000000",
+			"Type: ^777777Gatling Gun^000000 Attack: ^777777350^000000",
+			"Weight: ^777777350^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Rebellion Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 19,
+		costume = false
+	},
+	[830015] = {
+		unidentifiedDisplayName = "Gatling Gun",
+		unidentifiedResourceName = "드리프터",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Gatling Gun",
+		identifiedResourceName = "D_Glacier_Gatling",
+		identifiedDescriptionName = {
+			"A gatling gun that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 200.",
+			"Type: ^777777Gatling Gun^000000 ATK: ^777777350^000000",
+			"Weight: ^777777350^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Rebellion classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 19,
+		EffectID = 1869,
+		costume = false
+	},
 	[830042] = {
 		unidentifiedDisplayName = "Gatling Gun",
 		unidentifiedResourceName = "드리프터",
@@ -387153,6 +397580,53 @@ tbl = {
 		},
 		slotCount = 2,
 		ClassNum = 21,
+		costume = false
+	},
+	[840009] = {
+		unidentifiedDisplayName = "Grenade Launcher",
+		unidentifiedResourceName = "디스트로이어",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a [Magnifier] to identify it."
+		},
+		identifiedDisplayName = "Glacier Launcher",
+		identifiedResourceName = "Glacier_Launcher",
+		identifiedDescriptionName = {
+			"A grenade launcher made from ice collected from the glaciers of Issgard.",
+			"Additional abilities can be granted by enchanting it with Snow Flower Magic Stone imbued with special magical power.",
+			"MATK + 200.",
+			"^ffffff_^000000",
+			"Type: ^777777Grenade Launcher^000000 Attack: ^777777300^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Base Lv: ^7777775^000000",
+			"Required Base Lv: ^777777210^000000",
+			"Equippable by: ^777777Rebellion Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 21,
+		costume = false
+	},
+	[840010] = {
+		unidentifiedDisplayName = "Grenade Launcher",
+		unidentifiedResourceName = "디스트로이어",
+		unidentifiedDescriptionName = {
+			"Unidentified. Use a Magnifier to identify it."
+		},
+		identifiedDisplayName = "Dim Glacier Launcher",
+		identifiedResourceName = "D_Glacier_Launcher",
+		identifiedDescriptionName = {
+			"A grenade launcher that has lost its luster to tainted magic.",
+			"It seems to require a different approach from ordinary Glacier weapons.",
+			"^ffffff_^000000",
+			"MATK + 200.",
+			"Type: ^777777Grenade Launcher^000000 ATK: ^777777300^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777230^000000",
+			"Equippable by: ^777777Rebellion classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 21,
+		EffectID = 1869,
 		costume = false
 	},
 	[1000006] = {
@@ -397347,6 +407821,93 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000604] = {
+		unidentifiedDisplayName = "Juncea's Test Tube",
+		unidentifiedResourceName = "빈시험관",
+		unidentifiedDescriptionName = {
+			"A test tube that was in Juncea's laboratory.",
+			"It looks like it can hold some kind of liquid."
+		},
+		identifiedDisplayName = "Juncea's Test Tube",
+		identifiedResourceName = "빈시험관",
+		identifiedDescriptionName = {
+			"A test tube that was in Juncea's laboratory.",
+			"It looks like it can hold some kind of liquid.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000605] = {
+		unidentifiedDisplayName = "Red Liquid Test Tube",
+		unidentifiedResourceName = "Ep19_Red_Tube",
+		unidentifiedDescriptionName = {
+			"A test tube containing red liquid."
+		},
+		identifiedDisplayName = "Red Liquid Test Tube",
+		identifiedResourceName = "Ep19_Red_Tube",
+		identifiedDescriptionName = {
+			"A test tube containing red liquid.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000606] = {
+		unidentifiedDisplayName = "Superior Rgan Eggshell",
+		unidentifiedResourceName = "작은알껍질",
+		unidentifiedDescriptionName = {
+			"Superior Rgan Eggshell.",
+			"It is broken in a different pattern from one that hatched naturally."
+		},
+		identifiedDisplayName = "Superior Rgan Eggshell",
+		identifiedResourceName = "작은알껍질",
+		identifiedDescriptionName = {
+			"Superior Rgan Eggshell.",
+			"It is broken in a different pattern from one that hatched naturally.",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000607] = {
+		unidentifiedDisplayName = "Guardian's Invitation",
+		unidentifiedResourceName = "안부편지",
+		unidentifiedDescriptionName = {
+			"An invitation sent from the icy land of Issgard.",
+			"It is said that only those who have been invited may set foot in Issgard."
+		},
+		identifiedDisplayName = "Guardian's Invitation",
+		identifiedResourceName = "안부편지",
+		identifiedDescriptionName = {
+			"An invitation sent from the icy land of Issgard.",
+			"It is said that only those who have been invited may set foot in Issgard.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000608] = {
+		unidentifiedDisplayName = "Snow Flower Petal",
+		unidentifiedResourceName = "Ep19_Snow_Flower",
+		unidentifiedDescriptionName = {
+			"A snow flower formed when magical power seeping from Jormungand's outer skin froze. Though it looks like ice, it is actually a crystal of pure magical power. Since it is used as an energy resource throughout Issgard, it also serves as currency."
+		},
+		identifiedDisplayName = "Snow Flower Petal",
+		identifiedResourceName = "Ep19_Snow_Flower",
+		identifiedDescriptionName = {
+			"A snow flower formed when magical power seeping from Jormungand's outer skin froze. Though it looks like ice, it is actually a crystal of pure magical power. Since it is used as an energy resource throughout Issgard, it also serves as currency.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000610] = {
 		unidentifiedDisplayName = "Rune Knight Stone (Upper)",
 		unidentifiedResourceName = "영혼의조각",
@@ -398235,10 +408796,10 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Effect^000000]",
 			"For each level of [Orion's Enchant]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Jormungand's Curse] cooldown -2 seconds.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Nerthus' Punishment] damage +15%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Jormungand's Curse] cooldown -2 seconds.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Earth Grave] damage +15%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -398249,10 +408810,10 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Effect^000000]",
 			"For each level of [Orion's Enchant]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Jormungand's Curse] cooldown -2 seconds.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Nerthus' Punishment] damage +15%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Jormungand's Curse] cooldown -2 seconds.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Earth Grave] damage +15%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -398268,10 +408829,10 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Effect^000000]",
 			"For each level of [Diamond Dust]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Psychic Wave] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Aesir's Spears] damage +15%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Psychic Wave] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Varetyr Spear] damage +15%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -398282,10 +408843,10 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Effect^000000]",
 			"For each level of [Diamond Dust]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Psychic Wave] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Aesir's Spears] damage +15%.^000000",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Psychic Wave] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Varetyr Spear] damage +15%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -398300,11 +408861,11 @@ tbl = {
 			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"[^CD3278Effect^000000]",
-			"For each level of [Nerthus' Punishment]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Toxic Implosion] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Diamond Dust] damage +15%.^000000",
+			"For each level of [Earth Grave]:",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Poison Burst] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Diamond Dust] damage +15%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -398314,11 +408875,11 @@ tbl = {
 			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"[^CD3278Effect^000000]",
-			"For each level of [Nerthus' Punishment]:",
-			"^fa4e09Warlock (Garment)^000000",
-			"^0000ff[Toxic Implosion] damage +15%.^000000",
-			"^fa4e09Warlock II (Garment)^000000",
-			"^0000ff[Diamond Dust] damage +15%.^000000",
+			"For each level of [Earth Grave]:",
+			"^FA4E09Warlock (Garment)^000000",
+			"^0000FF[Poison Burst] damage +15%.^000000",
+			"^FA4E09Warlock II (Garment)^000000",
+			"^0000FF[Diamond Dust] damage +15%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -398714,21 +409275,3777 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000705] = {
+		unidentifiedDisplayName = "Rgan Magic Core",
+		unidentifiedResourceName = "핵심젤리",
+		unidentifiedDescriptionName = {
+			"A magic core obtained by defeating an Rgan. It is a crystallization of magical power absorbed from Jormungand. This magic core contains a considerable amount of high-quality magical power.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Rgan Magic Core",
+		identifiedResourceName = "핵심젤리",
+		identifiedDescriptionName = {
+			"A magic core obtained by defeating an Rgan. It is a crystallization of magical power absorbed from Jormungand. This magic core contains a considerable amount of high-quality magical power.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000706] = {
+		unidentifiedDisplayName = "Purified Magic Core",
+		unidentifiedResourceName = "빙섬석",
+		unidentifiedDescriptionName = {
+			"A magic core purified from Rgan Magic Core, leaving only clean, pure magical power. It is used as fuel for daily life in the Ice Castle. Through a special method, Purified Magic Core cannot be absorbed by Rgan."
+		},
+		identifiedDisplayName = "Purified Magic Core",
+		identifiedResourceName = "빙섬석",
+		identifiedDescriptionName = {
+			"A magic core purified from Rgan Magic Core, leaving only clean, pure magical power. It is used as fuel for daily life in the Ice Castle. Through a special method, Purified Magic Core cannot be absorbed by Rgan."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000707] = {
+		unidentifiedDisplayName = "Low-quality Rgan Magic Core",
+		unidentifiedResourceName = "수상한마력의돌",
+		unidentifiedDescriptionName = {
+			"A magic core obtained by defeating an Rgan. It is a crystallization of magical power absorbed from Jormungand. This magic core contains only a very small amount of magical power and is inefficient.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Low-quality Rgan Magic Core",
+		identifiedResourceName = "수상한마력의돌",
+		identifiedDescriptionName = {
+			"A magic core obtained by defeating an Rgan. It is a crystallization of magical power absorbed from Jormungand. This magic core contains only a very small amount of magical power and is inefficient.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000708] = {
+		unidentifiedDisplayName = "Frozen Meat",
+		unidentifiedResourceName = "얼음조각",
+		unidentifiedDescriptionName = {
+			"Extremely cold Frozen Meat.",
+			"Used as food by the Iwin.",
+			"Can it even be cooked?",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Frozen Meat",
+		identifiedResourceName = "얼음조각",
+		identifiedDescriptionName = {
+			"Extremely cold Frozen Meat.",
+			"Used as food by the Iwin.",
+			"Can it even be cooked?",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000711] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (STR)",
+		unidentifiedResourceName = "Ice_F_Stone_Str",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"STR + 3.",
+			"At Refine Level 7, additionally increases STR by 1.",
+			"At Refine Level 9, additionally increases STR by 1.",
+			"At Refine Level 11, POW + 1, increases melee physical damage by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Pendant (4th Slot)",
+			"Snow Flower Necklace (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (STR)",
+		identifiedResourceName = "Ice_F_Stone_Str",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"STR + 3.",
+			"At Refine Level 7, additionally increases STR by 1.",
+			"At Refine Level 9, additionally increases STR by 1.",
+			"At Refine Level 11, POW + 1, increases melee physical damage by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Pendant (4th Slot)",
+			"Snow Flower Necklace (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000712] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (DEX)",
+		unidentifiedResourceName = "Ice_F_Stone_Dex",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"DEX + 3.",
+			"At Refine Level 7, additionally increases DEX by 1.",
+			"At Refine Level 9, additionally increases DEX by 1.",
+			"At Refine Level 11, CON +1, increases ranged physical damage by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Pendant (4th Slot)",
+			"Snow Flower Necklace (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (DEX)",
+		identifiedResourceName = "Ice_F_Stone_Dex",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"DEX + 3.",
+			"At Refine Level 7, additionally increases DEX by 1.",
+			"At Refine Level 9, additionally increases DEX by 1.",
+			"At Refine Level 11, CON +1, increases ranged physical damage by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Pendant (4th Slot)",
+			"Snow Flower Necklace (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000713] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (AGI)",
+		unidentifiedResourceName = "Ice_F_Stone_Agi",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"AGI + 3.",
+			"At Refine Level 7, additionally increases AGI by 1.",
+			"At Refine Level 9, additionally increases AGI by 1.",
+			"At Refine Level 11, WIS + 1, increases guided attack chance by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Ring (4th Slot)",
+			"Snow Flower Earring (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (AGI)",
+		identifiedResourceName = "Ice_F_Stone_Agi",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"AGI + 3.",
+			"At Refine Level 7, additionally increases AGI by 1.",
+			"At Refine Level 9, additionally increases AGI by 1.",
+			"At Refine Level 11, WIS + 1, increases guided attack chance by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Ring (4th Slot)",
+			"Snow Flower Earring (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000714] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (INT)",
+		unidentifiedResourceName = "Ice_F_Stone_Int",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"INT + 3.",
+			"At Refine Level 7, additionally increases INT by 1.",
+			"At Refine Level 9, additionally increases INT by 1.",
+			"At Refine Level 11, SPL + 1, increases magical damage of all properties by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Pendant (4th Slot)",
+			"Snow Flower Necklace (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (INT)",
+		identifiedResourceName = "Ice_F_Stone_Int",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"INT + 3.",
+			"At Refine Level 7, additionally increases INT by 1.",
+			"At Refine Level 9, additionally increases INT by 1.",
+			"At Refine Level 11, SPL + 1, increases magical damage of all properties by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Pendant (4th Slot)",
+			"Snow Flower Necklace (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000715] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (VIT)",
+		unidentifiedResourceName = "Ice_F_Stone_Vit",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"VIT + 3.",
+			"At Refine Level 7, additionally increases VIT by 1.",
+			"At Refine Level 9, additionally increases VIT by 1.",
+			"At Refine Level 11, STA + 1, reduces skill delay by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Ring (4th Slot)",
+			"Snow Flower Earring (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (VIT)",
+		identifiedResourceName = "Ice_F_Stone_Vit",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"VIT + 3.",
+			"At Refine Level 7, additionally increases VIT by 1.",
+			"At Refine Level 9, additionally increases VIT by 1.",
+			"At Refine Level 11, STA + 1, reduces skill delay by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Ring (4th Slot)",
+			"Snow Flower Earring (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000716] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (LUK)",
+		unidentifiedResourceName = "Ice_F_Stone_luk",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"LUK + 3.",
+			"At Refine Level 7, additionally increases LUK by 1.",
+			"At Refine Level 9, additionally increases LUK by 1.",
+			"At Refine Level 11, CRT + 1, increases critical damage by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Ring (4th Slot)",
+			"Snow Flower Earring (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (LUK)",
+		identifiedResourceName = "Ice_F_Stone_luk",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"LUK + 3.",
+			"At Refine Level 7, additionally increases LUK by 1.",
+			"At Refine Level 9, additionally increases LUK by 1.",
+			"At Refine Level 11, CRT + 1, increases critical damage by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Ring (4th Slot)",
+			"Snow Flower Earring (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000717] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Physical Defense)",
+		unidentifiedResourceName = "Ice_F_Stone_Def",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"DEF + 250, RES + 50.",
+			"At Refine Level 7, additionally increases DEF by 75 and RES by 10.",
+			"At Refine Level 9, additionally increases DEF by 100 and RES by 10.",
+			"At Refine Level 11, additionally increases DEF by 100 and RES by 10.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (4th Slot)",
+			"Snow Flower Robe (4th Slot)",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Physical Defense)",
+		identifiedResourceName = "Ice_F_Stone_Def",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"DEF + 250, RES + 50.",
+			"At Refine Level 7, additionally increases DEF by 75 and RES by 10.",
+			"At Refine Level 9, additionally increases DEF by 100 and RES by 10.",
+			"At Refine Level 11, additionally increases DEF by 100 and RES by 10.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (4th Slot)",
+			"Snow Flower Robe (4th Slot)",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000718] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Magical Defense)",
+		unidentifiedResourceName = "Ice_F_Stone_Mdef",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MDEF + 25, MRES + 25.",
+			"At Refine Level 7, additionally increases MDEF by 7 and MRES by 5.",
+			"At Refine Level 9, additionally increases MDEF by 10 and MRES by 5.",
+			"At Refine Level 11, additionally increases MDEF by 10 and MRES by 5.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (4th Slot)",
+			"Snow Flower Robe (4th Slot)",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Magical Defense)",
+		identifiedResourceName = "Ice_F_Stone_Mdef",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MDEF + 25, MRES + 25.",
+			"At Refine Level 7, additionally increases MDEF by 7 and MRES by 5.",
+			"At Refine Level 9, additionally increases MDEF by 10 and MRES by 5.",
+			"At Refine Level 11, additionally increases MDEF by 10 and MRES by 5.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (4th Slot)",
+			"Snow Flower Robe (4th Slot)",
+			"Snow Flower Manteau (4th Slot)",
+			"Snow Flower Muffler (4th Slot)",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000719] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Shooter)",
+		unidentifiedResourceName = "Ice_F_Stone_Ran",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 9, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 11, additionally increases ranged physical damage by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Shooter)",
+		identifiedResourceName = "Ice_F_Stone_Ran",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 9, additionally increases ranged physical damage by 5%.",
+			"At Refine Level 11, additionally increases ranged physical damage by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000720] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Warrior)",
+		unidentifiedResourceName = "Ice_F_Stone_War",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases melee physical damage by 5%.",
+			"At Refine Level 9, additionally increases melee physical damage by 5%.",
+			"At Refine Level 11, additionally increases melee physical damage by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Warrior)",
+		identifiedResourceName = "Ice_F_Stone_War",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 6%, ATK + 100.",
+			"At Refine Level 7, additionally increases melee physical damage by 5%.",
+			"At Refine Level 9, additionally increases melee physical damage by 5%.",
+			"At Refine Level 11, additionally increases melee physical damage by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000721] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Magician)",
+		unidentifiedResourceName = "Ice_F_Stone_Mag",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MATK + 6%, MATK + 100.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Magician)",
+		identifiedResourceName = "Ice_F_Stone_Mag",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MATK + 6%, MATK + 100.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 5%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000722] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Reflection Reject)",
+		unidentifiedResourceName = "Ice_F_Stone_R_Reject",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Reflection Reject)",
+		identifiedResourceName = "Ice_F_Stone_R_Reject",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000723] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Power Force)",
+		unidentifiedResourceName = "Ice_F_Stone_Force",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 2%, MATK + 2%.",
+			"At Refine Level 7, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 9, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 11, additionally increases ATK and MATK by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Power Force)",
+		identifiedResourceName = "Ice_F_Stone_Force",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 2%, MATK + 2%.",
+			"At Refine Level 7, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 9, additionally increases ATK and MATK by 2%.",
+			"At Refine Level 11, additionally increases ATK and MATK by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000724] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Global Cooldown)",
+		unidentifiedResourceName = "Ice_F_Stone_S_Delay",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces skill delay by 4%.",
+			"At Refine Level 7, additionally reduces skill delay by 4%.",
+			"At Refine Level 9, additionally reduces skill delay by 4%.",
+			"At Refine Level 11, additionally reduces skill delay by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Global Cooldown)",
+		identifiedResourceName = "Ice_F_Stone_S_Delay",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces skill delay by 4%.",
+			"At Refine Level 7, additionally reduces skill delay by 4%.",
+			"At Refine Level 9, additionally reduces skill delay by 4%.",
+			"At Refine Level 11, additionally reduces skill delay by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (3rd Slot)",
+			"Snow Flower Robe (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000725] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Speed)",
+		unidentifiedResourceName = "Ice_F_Stone_Speed",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"FLEE + 30.",
+			"At Refine Level 7, increases attack speed (reduces delay after attack by 8%).",
+			"At Refine Level 9, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"At Refine Level 11, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Speed)",
+		identifiedResourceName = "Ice_F_Stone_Speed",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"FLEE + 30.",
+			"At Refine Level 7, increases attack speed (reduces delay after attack by 8%).",
+			"At Refine Level 9, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"At Refine Level 11, additionally increases attack speed (further reduces delay after attack by 8%).",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000726] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Caster)",
+		unidentifiedResourceName = "Ice_F_Stone_Caster",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MATK + 30, reduces variable cast time by 8%.",
+			"At Refine Level 7, additionally reduces variable cast time by 8%.",
+			"At Refine Level 9, additionally reduces variable cast time by 8%.",
+			"At Refine Level 11, additionally reduces variable cast time by 8%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Caster)",
+		identifiedResourceName = "Ice_F_Stone_Caster",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MATK + 30, reduces variable cast time by 8%.",
+			"At Refine Level 7, additionally reduces variable cast time by 8%.",
+			"At Refine Level 9, additionally reduces variable cast time by 8%.",
+			"At Refine Level 11, additionally reduces variable cast time by 8%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000727] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Critical)",
+		unidentifiedResourceName = "Ice_F_Stone_Critical",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"CRI + 15.",
+			"At Refine Level 7, increases critical damage by 8%.",
+			"At Refine Level 9, additionally increases critical damage by 8%.",
+			"At Refine Level 11, additionally increases critical damage by 8%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Critical)",
+		identifiedResourceName = "Ice_F_Stone_Critical",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"CRI + 15.",
+			"At Refine Level 7, increases critical damage by 8%.",
+			"At Refine Level 9, additionally increases critical damage by 8%.",
+			"At Refine Level 11, additionally increases critical damage by 8%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000728] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Guide Attack)",
+		unidentifiedResourceName = "Ice_F_Stone_Guide",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"HIT + 30.",
+			"At Refine Level 7, increases guided attack chance by 8%.",
+			"At Refine Level 9, increases guided attack chance by 8%.",
+			"At Refine Level 11, increases guided attack chance by 8%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Guide Attack)",
+		identifiedResourceName = "Ice_F_Stone_Guide",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"HIT + 30.",
+			"At Refine Level 7, increases guided attack chance by 8%.",
+			"At Refine Level 9, increases guided attack chance by 8%.",
+			"At Refine Level 11, increases guided attack chance by 8%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (3rd Slot)",
+			"Snow Flower Muffler (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000729] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Above All)",
+		unidentifiedResourceName = "Ice_F_Stone_Above",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces physical/magical damage received from Normal and Boss monsters by 7%.",
+			"At Refine Level 7, reduces physical/magical damage received from enemies of all properties by 7%.",
+			"At Refine Level 9, reduces physical/magical damage received from enemies of all sizes by 7%.",
+			"At Refine Level 11, reduces physical/magical damage received from monsters of all races by 7% (excluding Players).",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (2nd Slot)",
+			"Snow Flower Muffler (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Above All)",
+		identifiedResourceName = "Ice_F_Stone_Above",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces physical/magical damage received from Normal and Boss monsters by 7%.",
+			"At Refine Level 7, reduces physical/magical damage received from enemies of all properties by 7%.",
+			"At Refine Level 9, reduces physical/magical damage received from enemies of all sizes by 7%.",
+			"At Refine Level 11, reduces physical/magical damage received from monsters of all races by 7% (excluding Players).",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (2nd Slot)",
+			"Snow Flower Muffler (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000730] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Powerful)",
+		unidentifiedResourceName = "Ice_F_Stone_P_Full",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 7, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 9, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 11, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (2nd Slot)",
+			"Snow Flower Muffler (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Powerful)",
+		identifiedResourceName = "Ice_F_Stone_P_Full",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 7, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 9, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"At Refine Level 11, additionally increases melee and ranged physical damage by 3%, and magical damage of all properties by 3%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (2nd Slot)",
+			"Snow Flower Muffler (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000731] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Mirror Counter)",
+		unidentifiedResourceName = "Ice_F_Stone_M_Counter",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 5%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (2nd Slot)",
+			"Snow Flower Muffler (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Mirror Counter)",
+		identifiedResourceName = "Ice_F_Stone_M_Counter",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces reflected damage received by 4%.",
+			"At Refine Level 7, additionally reduces reflected damage received by 4%.",
+			"At Refine Level 9, additionally reduces reflected damage received by 5%.",
+			"At Refine Level 11, additionally reduces reflected damage received by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Manteau (2nd Slot)",
+			"Snow Flower Muffler (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000732] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Vital)",
+		unidentifiedResourceName = "Ice_F_Stone_Hp",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MHP + 5%, MHP + 2500.",
+			"At Refine Level 7, additionally increases MHP by 5%.",
+			"At Refine Level 9, additionally increases MHP by 5%.",
+			"At Refine Level 11, additionally increases MHP by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Vital)",
+		identifiedResourceName = "Ice_F_Stone_Hp",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MHP + 5%, MHP + 2500.",
+			"At Refine Level 7, additionally increases MHP by 5%.",
+			"At Refine Level 9, additionally increases MHP by 5%.",
+			"At Refine Level 11, additionally increases MHP by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000733] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Mental)",
+		unidentifiedResourceName = "Ice_F_Stone_Sp",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MSP + 5%, MSP + 450.",
+			"At Refine Level 7, additionally increases MSP by 5%.",
+			"At Refine Level 9, additionally increases MSP by 5%.",
+			"At Refine Level 11, additionally increases MSP by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Mental)",
+		identifiedResourceName = "Ice_F_Stone_Sp",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MSP + 5%, MSP + 450.",
+			"At Refine Level 7, additionally increases MSP by 5%.",
+			"At Refine Level 9, additionally increases MSP by 5%.",
+			"At Refine Level 11, additionally increases MSP by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000734] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Heal)",
+		unidentifiedResourceName = "Ice_F_Stone_Heal",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases healing effectiveness by 5%.",
+			"At Refine Level 7, additionally increases healing effectiveness by 5%.",
+			"At Refine Level 9, additionally increases healing effectiveness by 7%.",
+			"At Refine Level 11, additionally increases healing effectiveness by 7%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Heal)",
+		identifiedResourceName = "Ice_F_Stone_Heal",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases healing effectiveness by 5%.",
+			"At Refine Level 7, additionally increases healing effectiveness by 5%.",
+			"At Refine Level 9, additionally increases healing effectiveness by 7%.",
+			"At Refine Level 11, additionally increases healing effectiveness by 7%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000735] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Robust)",
+		unidentifiedResourceName = "Ice_F_Stone_Robust",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MHP + 5%, MSP + 5%, MHP + 2000, MSP + 350.",
+			"At Refine Level 7, additionally increases MHP and MSP by 3%.",
+			"At Refine Level 9, additionally increases MHP and MSP by 4%.",
+			"At Refine Level 11, additionally increases MHP and MSP by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Robust)",
+		identifiedResourceName = "Ice_F_Stone_Robust",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MHP + 5%, MSP + 5%, MHP + 2000, MSP + 350.",
+			"At Refine Level 7, additionally increases MHP and MSP by 3%.",
+			"At Refine Level 9, additionally increases MHP and MSP by 4%.",
+			"At Refine Level 11, additionally increases MHP and MSP by 5%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (4th Slot)",
+			"Snow Flower Shoes (4th Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000736] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Fixed Casting)",
+		unidentifiedResourceName = "Ice_F_Stone_F_Cast",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces fixed cast time by 1 second.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (3rd Slot)",
+			"Snow Flower Shoes (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Fixed Casting)",
+		identifiedResourceName = "Ice_F_Stone_F_Cast",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Reduces fixed cast time by 1 second.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (3rd Slot)",
+			"Snow Flower Shoes (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000737] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Magical Force)",
+		unidentifiedResourceName = "Ice_F_Stone_M_F",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases magical damage against enemies of all sizes by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (3rd Slot)",
+			"Snow Flower Shoes (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Magical Force)",
+		identifiedResourceName = "Ice_F_Stone_M_F",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases magical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases magical damage against enemies of all sizes by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (3rd Slot)",
+			"Snow Flower Shoes (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000738] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Physical Force)",
+		unidentifiedResourceName = "Ice_F_Stone_P_F",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases physical damage against enemies of all sizes by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (3rd Slot)",
+			"Snow Flower Shoes (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Physical Force)",
+		identifiedResourceName = "Ice_F_Stone_P_F",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 7, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 9, additionally increases physical damage against enemies of all sizes by 4%.",
+			"At Refine Level 11, additionally increases physical damage against enemies of all sizes by 4%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (3rd Slot)",
+			"Snow Flower Shoes (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000739] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Unlimited Vital)",
+		unidentifiedResourceName = "Ice_F_Stone_Un_Vit",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant VIT + 50 and ATK + 25% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Unlimited Vital)",
+		identifiedResourceName = "Ice_F_Stone_Un_Vit",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant VIT + 50 and ATK + 25% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000740] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Spell Buster)",
+		unidentifiedResourceName = "Ice_F_Stone_Sp_Int",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing magical attacks, has a 3% chance to grant INT + 50 and MATK + 25% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Spell Buster)",
+		identifiedResourceName = "Ice_F_Stone_Sp_Int",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing magical attacks, has a 3% chance to grant INT + 50 and MATK + 25% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000741] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Firing Shot)",
+		unidentifiedResourceName = "Ice_F_Stone_Fi_Dex",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant DEX + 50 and increase ranged physical damage by 15% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Firing Shot)",
+		identifiedResourceName = "Ice_F_Stone_Fi_Dex",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant DEX + 50 and increase ranged physical damage by 15% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000742] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Overpower)",
+		unidentifiedResourceName = "Ice_F_Stone_Ov_Str",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant STR + 50 and increase melee physical damage by 15% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Overpower)",
+		identifiedResourceName = "Ice_F_Stone_Ov_Str",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant STR + 50 and increase melee physical damage by 15% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000743] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Fatal Flash)",
+		unidentifiedResourceName = "Ice_F_Stone_Fa_Agi",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant AGI + 50 and increase critical damage by 25% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Fatal Flash)",
+		identifiedResourceName = "Ice_F_Stone_Fa_Agi",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 3% chance to grant AGI + 50 and increase critical damage by 25% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000744] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Lucky Strike)",
+		unidentifiedResourceName = "Ice_F_Stone_Lu_Luk",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing magical attacks, has a 3% chance to grant LUK + 50 and increase magical damage of all properties by 15% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Lucky Strike)",
+		identifiedResourceName = "Ice_F_Stone_Lu_Luk",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing magical attacks, has a 3% chance to grant LUK + 50 and increase magical damage of all properties by 15% for 10 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Boots (2nd Slot)",
+			"Snow Flower Shoes (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000745] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Delay After Attack)",
+		unidentifiedResourceName = "Ice_F_Stone_A_Delay",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 30, increases Aspd (reduces delay after attack by 10%).",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Delay After Attack)",
+		identifiedResourceName = "Ice_F_Stone_A_Delay",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"ATK + 30, increases Aspd (reduces delay after attack by 10%).",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000746] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Expert Archer)",
+		unidentifiedResourceName = "Ice_F_Stone_E_Archer",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"HIT + 20, increases ranged physical damage by 10%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Expert Archer)",
+		identifiedResourceName = "Ice_F_Stone_E_Archer",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"HIT + 20, increases ranged physical damage by 10%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000747] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Fatal)",
+		unidentifiedResourceName = "Ice_F_Stone_Fatal",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"CRI + 15, increases critical damage by 12%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Fatal)",
+		identifiedResourceName = "Ice_F_Stone_Fatal",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"CRI + 15, increases critical damage by 12%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000748] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Fighting Spirit)",
+		unidentifiedResourceName = "Ice_F_Stone_F_Spirit",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases guided attack chance by 5% and melee physical damage by 10%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Fighting Spirit)",
+		identifiedResourceName = "Ice_F_Stone_F_Spirit",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases guided attack chance by 5% and melee physical damage by 10%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000749] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Spell)",
+		unidentifiedResourceName = "Ice_F_Stone_Spell",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MATK + 30, reduces variable cast time by 10%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Spell)",
+		identifiedResourceName = "Ice_F_Stone_Spell",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"MATK + 30, reduces variable cast time by 10%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (2nd Slot)",
+			"Snow Flower Necklace (2nd Slot)",
+			"Snow Flower Ring (2nd Slot)",
+			"Snow Flower Earring (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000750] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (HP Recovery)",
+		unidentifiedResourceName = "Ice_F_Stone_HealHP",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases natural HP recovery by 50%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (HP Recovery)",
+		identifiedResourceName = "Ice_F_Stone_HealHP",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases natural HP recovery by 50%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000751] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (SP Recovery)",
+		unidentifiedResourceName = "Ice_F_Stone_HealSP",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases natural SP recovery by 50%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (SP Recovery)",
+		identifiedResourceName = "Ice_F_Stone_HealSP",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases natural SP recovery by 50%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000752] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Drain Life)",
+		unidentifiedResourceName = "Ice_F_Stone_Life",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 2% chance to absorb 4% of the damage dealt as HP.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Drain Life)",
+		identifiedResourceName = "Ice_F_Stone_Life",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 2% chance to absorb 4% of the damage dealt as HP.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000753] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Drain Soul)",
+		unidentifiedResourceName = "Ice_F_Stone_Soul",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 1% chance to absorb 3% of the damage dealt as SP.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Drain Soul)",
+		identifiedResourceName = "Ice_F_Stone_Soul",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When performing physical attacks, has a 1% chance to absorb 3% of the damage dealt as SP.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000754] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Magic Healing)",
+		unidentifiedResourceName = "Ice_F_Stone_M_Heal",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, 19 times.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Magic Healing)",
+		identifiedResourceName = "Ice_F_Stone_M_Heal",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, 19 times.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000755] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Magic Soul)",
+		unidentifiedResourceName = "Ice_F_Stone_M_Soul",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, 19 times.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Magic Soul)",
+		identifiedResourceName = "Ice_F_Stone_M_Soul",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"When dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, 19 times.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000756] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (All Force)",
+		unidentifiedResourceName = "Ice_F_Stone_A_Force",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases melee physical damage by 7%, ranged physical damage by 7%, and magical damage of all properties by 7%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (All Force)",
+		identifiedResourceName = "Ice_F_Stone_A_Force",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases melee physical damage by 7%, ranged physical damage by 7%, and magical damage of all properties by 7%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Pendant (3rd Slot)",
+			"Snow Flower Necklace (3rd Slot)",
+			"Snow Flower Ring (3rd Slot)",
+			"Snow Flower Earring (3rd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000757] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Dragonic Breath)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_1",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 7, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 9, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 11, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%, increases Hack and Slash and Dragonic Breath damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Dragonic Breath)",
+		identifiedResourceName = "Ice_F_Stone_Skill_1",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 7, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 9, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%.",
+			"At Refine Level 11, additionally increases Dragon's Breath and Water Dragon Breath damage by 15%, increases Hack and Slash and Dragonic Breath damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000758] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Cutter Break)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_2",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 7, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 9, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 11, additionally increases Wind Cutter damage by 15%, reduces Ignition Break skill cooldown by 0.5 seconds, and increases Storm Slash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Cutter Break)",
+		identifiedResourceName = "Ice_F_Stone_Skill_2",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 7, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 9, additionally increases Wind Cutter and Ignition Break damage by 15%.",
+			"At Refine Level 11, additionally increases Wind Cutter damage by 15%, reduces Ignition Break skill cooldown by 0.5 seconds, and increases Storm Slash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000759] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Hundred Wave)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_3",
+		unidentifiedDescriptionName = {
+			"",
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Wave damage by 15%, reduces Hundred Spears skill cooldown by 0.5 seconds, and increases Madness Crusher damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Hundred Wave)",
+		identifiedResourceName = "Ice_F_Stone_Skill_3",
+		identifiedDescriptionName = {
+			"",
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Wave and Hundred Spears damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Wave damage by 15%, reduces Hundred Spears skill cooldown by 0.5 seconds, and increases Madness Crusher damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000760] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Brand Lit)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_4",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 7, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 9, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 11, additionally increases Overbrand and Hesperus Lit damage by 15%, and increases Overslash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Brand Lit)",
+		identifiedResourceName = "Ice_F_Stone_Skill_4",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 7, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 9, additionally increases Overbrand and Hesperus Lit damage by 15%.",
+			"At Refine Level 11, additionally increases Overbrand and Hesperus Lit damage by 15%, and increases Overslash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000761] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Vanishing Cannon)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_5",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Vanishing Point and Cannon Spear damage by 15%, and increases Shield Shooting damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Vanishing Cannon)",
+		identifiedResourceName = "Ice_F_Stone_Skill_5",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Vanishing Point and Cannon Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Vanishing Point and Cannon Spear damage by 15%, and increases Shield Shooting damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000762] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Genesis Pressure)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_6",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 7, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 9, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 11, additionally increases Gloria Domini and Genesis Ray damage by 15%, and increases Cross Rain damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Genesis Pressure)",
+		identifiedResourceName = "Ice_F_Stone_Skill_6",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 7, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 9, additionally increases Gloria Domini and Genesis Ray damage by 15%.",
+			"At Refine Level 11, additionally increases Gloria Domini and Genesis Ray damage by 15%, and increases Cross Rain damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000763] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Boost Cannon)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_7",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Knuckle Boost and Arm Cannon damage by 15%, increases Spark Blaster damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Boost Cannon)",
+		identifiedResourceName = "Ice_F_Stone_Skill_7",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Knuckle Boost and Arm Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Knuckle Boost and Arm Cannon damage by 15%, increases Spark Blaster damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000764] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Vulcan Boomerang)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_8",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Vulcan Arm and Axe Boomerang damage by 15%, reduces Axe Boomerang cooldown by 2 seconds, increases Triple Laser damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Vulcan Boomerang)",
+		identifiedResourceName = "Ice_F_Stone_Skill_8",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Vulcan Arm and Axe Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Vulcan Arm and Axe Boomerang damage by 15%, reduces Axe Boomerang cooldown by 2 seconds, increases Triple Laser damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000765] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Tornado Swing)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_9",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 7, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 9, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 11, additionally increases Axe Tornado and Power Swing damage by 15%, increases Axe Stomp and Mighty Smash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Tornado Swing)",
+		identifiedResourceName = "Ice_F_Stone_Skill_9",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 7, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 9, additionally increases Axe Tornado and Power Swing damage by 15%.",
+			"At Refine Level 11, additionally increases Axe Tornado and Power Swing damage by 15%, increases Axe Stomp and Mighty Smash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000766] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Hell Tornado)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_10",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 7, increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 9, additionally increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 11, additionally increases Cart Tornado and Hell Plant damage by 15%, increases Acidified Zone (Water), Acidified Zone (Wind) and Explosive Powder damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Hell Tornado)",
+		identifiedResourceName = "Ice_F_Stone_Skill_10",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 7, increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 9, additionally increases Cart Tornado and Hell Plant damage by 15%.",
+			"At Refine Level 11, additionally increases Cart Tornado and Hell Plant damage by 15%, increases Acidified Zone (Water), Acidified Zone (Wind) and Explosive Powder damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000767] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Crazy Cannon)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_11",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Crazy Vines and Cart Cannon damage by 15%, and reduces Crazy Vines skill cooldown by 1.5 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Crazy Cannon)",
+		identifiedResourceName = "Ice_F_Stone_Skill_11",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 7, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 9, additionally increases Crazy Vines and Cart Cannon damage by 15%.",
+			"At Refine Level 11, additionally increases Crazy Vines and Cart Cannon damage by 15%, and reduces Crazy Vines skill cooldown by 1.5 seconds.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000768] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Acid Explosion)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_12",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Acid Bomb and Spore Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Acid Bomb and Spore Explosion damage by 25%.",
+			"At Refine Level 9, reduces Spore Explosion cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Acid Bomb and Spore Explosion damage by 20%, increases Acidified Zone (Fire), Acidified Zone (Earth) and Mayhemic Thorns damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Acid Explosion)",
+		identifiedResourceName = "Ice_F_Stone_Skill_12",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Acid Bomb and Spore Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Acid Bomb and Spore Explosion damage by 25%.",
+			"At Refine Level 9, reduces Spore Explosion cooldown by 2 seconds.",
+			"At Refine Level 11, additionally increases Acid Bomb and Spore Explosion damage by 20%, increases Acidified Zone (Fire), Acidified Zone (Earth) and Mayhemic Thorns damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000769] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Sonic Impact)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_13",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Blow and Cross Impact damage by 15%, and increases Savage Impact damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Sonic Impact)",
+		identifiedResourceName = "Ice_F_Stone_Skill_13",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 7, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 9, additionally increases Sonic Blow and Cross Impact damage by 15%.",
+			"At Refine Level 11, additionally increases Sonic Blow and Cross Impact damage by 15%, and increases Savage Impact damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000770] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Cutter Slasher)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_14",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%, and increases Impact Crater damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Cutter Slasher)",
+		identifiedResourceName = "Ice_F_Stone_Skill_14",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Ripper Slasher and Rolling Cutter damage by 15%, and increases Impact Crater damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000771] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Berserk Slash)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_15",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 7, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 9, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 11, additionally increases Soul Destroyer and Counter Slash damage by 15%, and increases Eternal Slash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Berserk Slash)",
+		identifiedResourceName = "Ice_F_Stone_Skill_15",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 7, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 9, additionally increases Soul Destroyer and Counter Slash damage by 15%.",
+			"At Refine Level 11, additionally increases Soul Destroyer and Counter Slash damage by 15%, and increases Eternal Slash damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000772] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Fatal Attack)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_16",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 7, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 9, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 11, additionally increases Fatal Manace and Sightless Mind damage by 15%, and increases Abyss Dagger damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Fatal Attack)",
+		identifiedResourceName = "Ice_F_Stone_Skill_16",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 7, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 9, additionally increases Fatal Manace and Sightless Mind damage by 15%.",
+			"At Refine Level 11, additionally increases Fatal Manace and Sightless Mind damage by 15%, and increases Abyss Dagger damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000773] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Shadow Spell)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_17",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases magical damage of all properties by 15%.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 15%, and increases Abyss Rift damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Shadow Spell)",
+		identifiedResourceName = "Ice_F_Stone_Skill_17",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases magical damage of all properties by 15%.",
+			"At Refine Level 7, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 9, additionally increases magical damage of all properties by 15%.",
+			"At Refine Level 11, additionally increases magical damage of all properties by 15%, and increases Abyss Rift damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000774] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Angle Shot)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_18",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Triangle Shot damage by 15% and ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Triangle Shot damage by 15% and ranged physical damage by 15%, and increases Frenzy Shot damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Angle Shot)",
+		identifiedResourceName = "Ice_F_Stone_Skill_18",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Triangle Shot damage by 15% and ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Triangle Shot damage by 15% and ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Triangle Shot damage by 15% and ranged physical damage by 15%, and increases Frenzy Shot damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000775] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Crimson Strain)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_19",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 7, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 9, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 11, additionally increases Crimson Rock and Earth Strain damage by 15%, and increases Crimson Arrow and Rock Down damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Crimson Strain)",
+		identifiedResourceName = "Ice_F_Stone_Skill_19",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 7, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 9, additionally increases Crimson Rock and Earth Strain damage by 15%.",
+			"At Refine Level 11, additionally increases Crimson Rock and Earth Strain damage by 15%, and increases Crimson Arrow and Rock Down damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000776] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Jack Lightning)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_20",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 7, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 9, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 11, additionally increases Jack Frost and Chain Lightning damage by 15%, and increases Frozen Slash and Storm Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Jack Lightning)",
+		identifiedResourceName = "Ice_F_Stone_Skill_20",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 7, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 9, additionally increases Jack Frost and Chain Lightning damage by 15%.",
+			"At Refine Level 11, additionally increases Jack Frost and Chain Lightning damage by 15%, and increases Frozen Slash and Storm Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000777] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Comet Expansion)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_21",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 7, additionally increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 9, additionally increases Comet and Soul Expansion damage by 15%, and reduces Intensification skill cooldown by 30 seconds.",
+			"At Refine Level 11, additionally increases Comet and Soul Expansion damage by 15%, and increases Soul Vulcan Strike and Mystery Illusion damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Comet Expansion)",
+		identifiedResourceName = "Ice_F_Stone_Skill_21",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 7, additionally increases Comet and Soul Expansion damage by 15%.",
+			"At Refine Level 9, additionally increases Comet and Soul Expansion damage by 15%, and reduces Intensification skill cooldown by 30 seconds.",
+			"At Refine Level 11, additionally increases Comet and Soul Expansion damage by 15%, and increases Soul Vulcan Strike and Mystery Illusion damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000778] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Cloud Buster)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_22",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 7, additionally increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 9, additionally increases Killing Cloud and Poison Burst damage by 15%, and reduces Poison Burst skill cooldown by 0.5 seconds.",
+			"At Refine Level 11, additionally increases Killing Cloud and Poison Burst damage by 15%, and increases Venom Swamp damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Cloud Buster)",
+		identifiedResourceName = "Ice_F_Stone_Skill_22",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 7, additionally increases Killing Cloud and Poison Burst damage by 15%.",
+			"At Refine Level 9, additionally increases Killing Cloud and Poison Burst damage by 15%, and reduces Poison Burst skill cooldown by 0.5 seconds.",
+			"At Refine Level 11, additionally increases Killing Cloud and Poison Burst damage by 15%, and increases Venom Swamp damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000779] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Varetyr Wave)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_23",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Psychic Wave and Varetyr Spear damage by 15%, and increases Conflagration and Lightning Land damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Varetyr Wave)",
+		identifiedResourceName = "Ice_F_Stone_Skill_23",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 7, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 9, additionally increases Psychic Wave and Varetyr Spear damage by 15%.",
+			"At Refine Level 11, additionally increases Psychic Wave and Varetyr Spear damage by 15%, and increases Conflagration and Lightning Land damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000780] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Diamond Grave)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_24",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 7, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 9, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 11, additionally increases Diamond Dust and Earth Grave damage by 15%, and increases Diamond Storm and Terra Drive damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Diamond Grave)",
+		identifiedResourceName = "Ice_F_Stone_Skill_24",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 7, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 9, additionally increases Diamond Dust and Earth Grave damage by 15%.",
+			"At Refine Level 11, additionally increases Diamond Dust and Earth Grave damage by 15%, and increases Diamond Storm and Terra Drive damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000781] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Magnusmus)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_25",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 7, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 9, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 11, additionally increases Magnus Exorcismus and Adoramus damage by 15%, and increases Arbitrium damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Magnusmus)",
+		identifiedResourceName = "Ice_F_Stone_Skill_25",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 7, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 9, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 11, additionally increases Magnus Exorcismus and Adoramus damage by 15%, and increases Arbitrium damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000782] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Holy Judex)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_26",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 7, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 9, additionally increases Magnus Exorcismus and Adoramus damage by 15%.",
+			"At Refine Level 11, additionally increases Magnus Exorcismus and Adoramus damage by 15%, and increases Arbitrium damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Holy Judex)",
+		identifiedResourceName = "Ice_F_Stone_Skill_26",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Judex damage by 15% and Holy magical damage by 5%.",
+			"At Refine Level 7, additionally increases Judex damage by 15% and Holy magical damage by 10%.",
+			"At Refine Level 9, additionally increases Judex damage by 15% and Holy magical damage by 10%.",
+			"At Refine Level 11, additionally increases Judex damage by 15% and Holy magical damage by 15%, and increases Flamen damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000783] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Melee Duple)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_27",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Duple Light damage by 15% and melee/ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 15%, and increases Petitio damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Melee Duple)",
+		identifiedResourceName = "Ice_F_Stone_Skill_27",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Duple Light damage by 15% and melee/ranged physical damage by 5%.",
+			"At Refine Level 7, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 9, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 10%.",
+			"At Refine Level 11, additionally increases Duple Light damage by 15% and melee/ranged physical damage by 15%, and increases Petitio damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000784] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Tiger Empire)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_28",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 7, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 9, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 11, additionally increases Tiger Cannon and Fallen Empire damage by 15%, and increases Third Flame Bomb damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Tiger Empire)",
+		identifiedResourceName = "Ice_F_Stone_Skill_28",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 7, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 9, additionally increases Tiger Cannon and Fallen Empire damage by 15%.",
+			"At Refine Level 11, additionally increases Tiger Cannon and Fallen Empire damage by 15%, and increases Third Flame Bomb damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000785] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Rampage Lightning)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_29",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 7, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 9, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 11, additionally increases Lightning Ride damage by 15%, reduces Rampage Blast skill cooldown by 0.5 seconds, and increases Explosion Blaster damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Rampage Lightning)",
+		identifiedResourceName = "Ice_F_Stone_Skill_29",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 7, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 9, additionally increases Rampage Blast and Lightning Ride damage by 15%.",
+			"At Refine Level 11, additionally increases Lightning Ride damage by 15%, reduces Rampage Blast skill cooldown by 0.5 seconds, and increases Explosion Blaster damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000786] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Hell Arrow)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_30",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 7, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 9, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 11, additionally increases Gates of Hell and Knuckle Arrow damage by 15%, and increases Third Punishment damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Hell Arrow)",
+		identifiedResourceName = "Ice_F_Stone_Skill_30",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 7, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 9, additionally increases Gates of Hell and Knuckle Arrow damage by 15%.",
+			"At Refine Level 11, additionally increases Gates of Hell and Knuckle Arrow damage by 15%, and increases Third Punishment damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000787] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Aimed Rush)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_31",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Aimed Bolt damage by 15%.",
+			"At Refine Level 7, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 9, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 11, additionally increases Aimed Bolt damage by 15%, and increases Hawk Rush damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Aimed Rush)",
+		identifiedResourceName = "Ice_F_Stone_Skill_31",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Aimed Bolt damage by 15%.",
+			"At Refine Level 7, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 9, additionally increases Aimed Bolt damage by 15%.",
+			"At Refine Level 11, additionally increases Aimed Bolt damage by 15%, and increases Hawk Rush damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000788] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Breeze Shooting)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_32",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 7, additionally increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 9, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%.",
+			"At Refine Level 11, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%, and increases Crescive Bolt damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Breeze Shooting)",
+		identifiedResourceName = "Ice_F_Stone_Skill_32",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 7, additionally increases Focused Arrow Strike damage by 15% and critical damage by 10%.",
+			"At Refine Level 9, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%.",
+			"At Refine Level 11, additionally increases Focused Arrow Strike damage by 15% and critical damage by 15%, and increases Crescive Bolt damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000789] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Arrow Gale)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_33",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Arrow Storm damage by 15%.",
+			"At Refine Level 7, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 9, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 11, additionally increases Arrow Storm damage by 15%, and increases Gale Storm damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Arrow Gale)",
+		identifiedResourceName = "Ice_F_Stone_Skill_33",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Arrow Storm damage by 15%.",
+			"At Refine Level 7, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 9, additionally increases Arrow Storm damage by 15%.",
+			"At Refine Level 11, additionally increases Arrow Storm damage by 15%, and increases Gale Storm damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000790] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Sound Metal)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_34",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Metallic Sound and Reverberation damage by 15%.",
+			"At Refine Level 7, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 9, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 11, additionally increases Metallic Sound and Reverberation damage by 15%, and increases Metallic Fury damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Sound Metal)",
+		identifiedResourceName = "Ice_F_Stone_Skill_34",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Metallic Sound and Reverberation damage by 15%.",
+			"At Refine Level 7, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 9, additionally increases Metallic Sound and Reverberation damage by 10%.",
+			"At Refine Level 11, additionally increases Metallic Sound and Reverberation damage by 15%, and increases Metallic Fury damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000791] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Rainstorm)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_35",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 7, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 9, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 11, additionally increases Severe Rainstorm damage by 15%, and increases Rose Blossom damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Rainstorm)",
+		identifiedResourceName = "Ice_F_Stone_Skill_35",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 7, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 9, additionally increases Severe Rainstorm damage by 15%.",
+			"At Refine Level 11, additionally increases Severe Rainstorm damage by 15%, and increases Rose Blossom damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000792] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Vulcan Shooting)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_36",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 7, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 9, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 11, additionally increases Arrow Vulcan damage by 20%, and increases Rhythm Shooting damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Vulcan Shooting)",
+		identifiedResourceName = "Ice_F_Stone_Skill_36",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 7, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 9, additionally increases Arrow Vulcan damage by 20%.",
+			"At Refine Level 11, additionally increases Arrow Vulcan damage by 20%, and increases Rhythm Shooting damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000793] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Blaze Explosion)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_37",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 9, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 11, additionally increases Blaze Kick and Solar Explosion damage by 15%, and increases Sunset Blast damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Blaze Explosion)",
+		identifiedResourceName = "Ice_F_Stone_Skill_37",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 7, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 9, additionally increases Blaze Kick and Solar Explosion damage by 15%.",
+			"At Refine Level 11, additionally increases Blaze Kick and Solar Explosion damage by 15%, and increases Sunset Blast damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000794] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Moon Kick)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_38",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 7, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 9, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 11, additionally increases New Moon Kick and Full Moon Kick damage by 15%, and increases Dawn Break damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Moon Kick)",
+		identifiedResourceName = "Ice_F_Stone_Skill_38",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 7, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 9, additionally increases New Moon Kick and Full Moon Kick damage by 15%.",
+			"At Refine Level 11, additionally increases New Moon Kick and Full Moon Kick damage by 15%, and increases Dawn Break damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000795] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Flash Falling)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_39",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 7, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 9, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 11, additionally increases Flash Kick and Falling Stars damage by 15%, and increases Star Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Flash Falling)",
+		identifiedResourceName = "Ice_F_Stone_Skill_39",
+		identifiedDescriptionName = {
+			"",
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 7, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 9, additionally increases Flash Kick and Falling Stars damage by 15%.",
+			"At Refine Level 11, additionally increases Flash Kick and Falling Stars damage by 15%, and increases Star Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000796] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Eswhoo)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_40",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 7, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 9, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 11, additionally increases Esma and Eswhoo damage by 15%, and increases Talisman of Red Phoenix and Talisman of Black Tortoise damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Eswhoo)",
+		identifiedResourceName = "Ice_F_Stone_Skill_40",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 7, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 9, additionally increases Esma and Eswhoo damage by 15%.",
+			"At Refine Level 11, additionally increases Esma and Eswhoo damage by 15%, and increases Talisman of Red Phoenix and Talisman of Black Tortoise damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000797] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Espa)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_41",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Espa damage by 15%.",
+			"At Refine Level 7, additionally increases Espa damage by 15%.",
+			"At Refine Level 9, additionally increases Espa damage by 15%.",
+			"At Refine Level 11, additionally increases Espa damage by 15%, and increases Talisman of Blue Dragon and Talisman of White Tiger damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Espa)",
+		identifiedResourceName = "Ice_F_Stone_Skill_41",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Espa damage by 15%.",
+			"At Refine Level 7, additionally increases Espa damage by 15%.",
+			"At Refine Level 9, additionally increases Espa damage by 15%.",
+			"At Refine Level 11, additionally increases Espa damage by 15%, and increases Talisman of Blue Dragon and Talisman of White Tiger damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000798] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Curse Explosion)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_42",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Curse Explosion damage by 15% and Shadow magical damage by 5%.",
+			"At Refine Level 7, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 9, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 11, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 15%, and increases Exorcism of Malicious Soul damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Curse Explosion)",
+		identifiedResourceName = "Ice_F_Stone_Skill_42",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Curse Explosion damage by 15% and Shadow magical damage by 5%.",
+			"At Refine Level 7, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 9, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 10%.",
+			"At Refine Level 11, additionally increases Curse Explosion damage by 15% and Shadow magical damage by 15%, and increases Exorcism of Malicious Soul damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000799] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Des Hammer Dance)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_43",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 7, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 9, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 11, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%, and increases Only One Bullet damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Des Hammer Dance)",
+		identifiedResourceName = "Ice_F_Stone_Skill_43",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 7, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 9, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%.",
+			"At Refine Level 11, additionally increases Desperado, Fire Dance, and God's Hammer damage by 15%, and increases Only One Bullet damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000800] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Fire Howling Tail)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_44",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 7, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 9, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 11, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%, and increases Wild Fire damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Fire Howling Tail)",
+		identifiedResourceName = "Ice_F_Stone_Skill_44",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 7, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 9, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%.",
+			"At Refine Level 11, additionally increases Fire Rain, Howling Mine, and Dragon Tail damage by 15%, and increases Wild Fire damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000801] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Storm Buster Trip)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_45",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 7, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 9, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 11, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%, and increases The Vigilante at Night damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Storm Buster Trip)",
+		identifiedResourceName = "Ice_F_Stone_Skill_45",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 7, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 9, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%.",
+			"At Refine Level 11, additionally increases Shattering Storm, Vanishing Buster, and Round Trip damage by 15%, and increases The Vigilante at Night damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000802] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Flame Ice Wind)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_46",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 7, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 9, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 11, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%, and increases Red Flame Cannon, Cold Blooded Cannon, and Thundering Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Flame Ice Wind)",
+		identifiedResourceName = "Ice_F_Stone_Skill_46",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 7, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 9, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%.",
+			"At Refine Level 11, additionally increases Flaming Petals, Freezing Spear, and Wind Blade damage by 15%, and increases Red Flame Cannon, Cold Blooded Cannon, and Thundering Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000803] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Cross Petal)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_47",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Slash and Swirling Petal damage by 15%, and increases Shadow Flash and Huuma Shuriken - Construct damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Cross Petal)",
+		identifiedResourceName = "Ice_F_Stone_Skill_47",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 7, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 9, additionally increases Cross Slash and Swirling Petal damage by 15%.",
+			"At Refine Level 11, additionally increases Cross Slash and Swirling Petal damage by 15%, and increases Shadow Flash and Huuma Shuriken - Construct damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000804] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Exploding Flake Wind)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_48",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 7, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 9, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 11, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%, and increases Golden Dragon Cannon and Darkening Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Exploding Flake Wind)",
+		identifiedResourceName = "Ice_F_Stone_Skill_48",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 7, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 9, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%.",
+			"At Refine Level 11, additionally increases Exploding Dragon, Snow Flake Draft, and First Wind damage by 15%, and increases Golden Dragon Cannon and Darkening Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000805] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Power of Life)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_49",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 7, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 9, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 11, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%, and increases Chulho Sonic Claw damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Power of Life)",
+		identifiedResourceName = "Ice_F_Stone_Skill_49",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 7, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 9, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%.",
+			"At Refine Level 11, additionally increases Picky Peck and Lunatic Carrot Beat damage by 15%, and increases Chulho Sonic Claw damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000806] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Power of Land)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_50",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 7, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 9, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 11, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%, and increases Hyunrok Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Power of Land)",
+		identifiedResourceName = "Ice_F_Stone_Skill_50",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 7, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 9, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%.",
+			"At Refine Level 11, additionally increases Silvervine Stem Spear and Catnip Meteor damage by 15%, and increases Hyunrok Cannon damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000807] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Power of Savage)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_51",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Spirit of Savage damage by 15%.",
+			"At Refine Level 7, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 9, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 11, additionally increases Spirit of Savage damage by 15%, and increases Hogogong Strike damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Power of Savage)",
+		identifiedResourceName = "Ice_F_Stone_Skill_51",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Spirit of Savage damage by 15%.",
+			"At Refine Level 7, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 9, additionally increases Spirit of Savage damage by 15%.",
+			"At Refine Level 11, additionally increases Spirit of Savage damage by 15%, and increases Hogogong Strike damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000808] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Hyper Melee)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_52",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 7, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 9, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 11, additionally increases Holy Cross and Back Stab damage by 15%, and increases Double Bowling Bash and Mega Sonic Blow damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Hyper Melee)",
+		identifiedResourceName = "Ice_F_Stone_Skill_52",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 7, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 9, additionally increases Holy Cross and Back Stab damage by 15%.",
+			"At Refine Level 11, additionally increases Holy Cross and Back Stab damage by 15%, and increases Double Bowling Bash and Mega Sonic Blow damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000809] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Hyper Range)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_53",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Shield Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Shield Boomerang damage by 15%, and increases Shield Chain Rush and Spiral Pierce Max damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Hyper Range)",
+		identifiedResourceName = "Ice_F_Stone_Skill_53",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Shield Boomerang damage by 15%.",
+			"At Refine Level 7, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 9, additionally increases Shield Boomerang damage by 15%.",
+			"At Refine Level 11, additionally increases Shield Boomerang damage by 15%, and increases Shield Chain Rush and Spiral Pierce Max damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000810] = {
+		unidentifiedDisplayName = "Ice Flower Magic Stone (Hyper Magic)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_54",
+		unidentifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 7, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 9, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 11, additionally increases Meteor Storm and Jupitel Thunder damage by 15%, and increases Meteor Storm Buster and Jupitel Thunderstorm damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)"
+		},
+		identifiedDisplayName = "Ice Flower Magic Stone (Hyper Magic)",
+		identifiedResourceName = "Ice_F_Stone_Skill_54",
+		identifiedDescriptionName = {
+			"A magic stone imbued with mysterious power.",
+			"Can be enchanted onto Snow Flower equipment.",
+			"^000088[Enchant Effect]^000000",
+			"Increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 7, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 9, additionally increases Meteor Storm and Jupitel Thunder damage by 15%.",
+			"At Refine Level 11, additionally increases Meteor Storm and Jupitel Thunder damage by 15%, and increases Meteor Storm Buster and Jupitel Thunderstorm damage by 15%.",
+			"^000088[Enchantable Equipment]^000000",
+			"Snow Flower Armor (2nd Slot)",
+			"Snow Flower Robe (2nd Slot)",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000811] = {
+		unidentifiedDisplayName = "Snow Flower Magic Ore",
+		unidentifiedResourceName = "Snow_F_Ore",
+		unidentifiedDescriptionName = {
+			"A fragment of ore containing magically imbued snow flowers."
+		},
+		identifiedDisplayName = "Snow Flower Magic Ore",
+		identifiedResourceName = "Snow_F_Ore",
+		identifiedDescriptionName = {
+			"A fragment of ore containing magically imbued snow flowers.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 2371,
+		costume = false
+	},
+	[1000812] = {
+		unidentifiedDisplayName = "Snow Flower Magic Stone",
+		unidentifiedResourceName = "Snow_F_Stone1",
+		unidentifiedDescriptionName = {
+			"A Snow Flower Magic Stone imbued with ordinary magical power."
+		},
+		identifiedDisplayName = "Snow Flower Magic Stone",
+		identifiedResourceName = "Snow_F_Stone1",
+		identifiedDescriptionName = {
+			"A Snow Flower Magic Stone imbued with ordinary magical power.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 2372,
+		costume = false
+	},
+	[1000813] = {
+		unidentifiedDisplayName = "Shining Snow Flower Magic Stone",
+		unidentifiedResourceName = "Snow_F_Stone2",
+		unidentifiedDescriptionName = {
+			"A Snow Flower Magic Stone that emits a faint magical glow."
+		},
+		identifiedDisplayName = "Shining Snow Flower Magic Stone",
+		identifiedResourceName = "Snow_F_Stone2",
+		identifiedDescriptionName = {
+			"A Snow Flower Magic Stone that emits a faint magical glow.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1869,
+		costume = false
+	},
+	[1000814] = {
+		unidentifiedDisplayName = "Brilliant Snow Flower Magic Stone",
+		unidentifiedResourceName = "Snow_F_Stone3",
+		unidentifiedDescriptionName = {
+			"A Snow Flower Magic Stone brilliantly enveloped in magical light."
+		},
+		identifiedDisplayName = "Brilliant Snow Flower Magic Stone",
+		identifiedResourceName = "Snow_F_Stone3",
+		identifiedDescriptionName = {
+			"A Snow Flower Magic Stone brilliantly enveloped in magical light.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
+		costume = false
+	},
 	[1000815] = {
-		unidentifiedDisplayName = "Zumbichano Pet Ticket",
+		unidentifiedDisplayName = "SkellyCat Pet Ticket",
 		unidentifiedResourceName = "쿠폰",
 		unidentifiedDescriptionName = {
 			"^FF0000Untradable.^000000",
-			"A ticket that can be exchanged for a Zumbichano Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
+			"A ticket that can be exchanged for a SkellyCat Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
-		identifiedDisplayName = "Zumbichano Pet Ticket",
+		identifiedDisplayName = "SkellyCat Pet Ticket",
 		identifiedResourceName = "쿠폰",
 		identifiedDescriptionName = {
 			"^FF0000Untradable.^000000",
-			"A ticket that can be exchanged for a Zumbichano Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
+			"A ticket that can be exchanged for a SkellyCat Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000822] = {
+		unidentifiedDisplayName = "Rgan Shell",
+		unidentifiedResourceName = "EP19_Shell_Of_Rgan",
+		unidentifiedDescriptionName = {
+			"An Rgan Shell. It feels strange to the touch."
+		},
+		identifiedDisplayName = "Rgan Shell",
+		identifiedResourceName = "EP19_Shell_Of_Rgan",
+		identifiedDescriptionName = {
+			"An Rgan Shell. It feels strange to the touch.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000823] = {
+		unidentifiedDisplayName = "Strange Lifeform Cell",
+		unidentifiedResourceName = "EP19_Unknown_Cell",
+		unidentifiedDescriptionName = {
+			"A cell from an unidentified lifeform."
+		},
+		identifiedDisplayName = "Strange Lifeform Cell",
+		identifiedResourceName = "EP19_Unknown_Cell",
+		identifiedDescriptionName = {
+			"A cell from an unidentified lifeform.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000824] = {
+		unidentifiedDisplayName = "Calapi",
+		unidentifiedResourceName = "EP19_Calapy",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal found inside a Calmaring."
+		},
+		identifiedDisplayName = "Calapi",
+		identifiedResourceName = "EP19_Calapy",
+		identifiedDescriptionName = {
+			"A mysterious crystal found inside a Calmaring.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000825] = {
+		unidentifiedDisplayName = "Cacalapi",
+		unidentifiedResourceName = "EP19_CaCalapy",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal found inside a Cave Calmaring."
+		},
+		identifiedDisplayName = "Cacalapi",
+		identifiedResourceName = "EP19_CaCalapy",
+		identifiedDescriptionName = {
+			"A mysterious crystal found inside a Cave Calmaring.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000826] = {
+		unidentifiedDisplayName = "Spiny Shell",
+		unidentifiedResourceName = "EP19_Prickle_Shell",
+		unidentifiedDescriptionName = {
+			"The shell of a Hallucigenia."
+		},
+		identifiedDisplayName = "Spiny Shell",
+		identifiedResourceName = "EP19_Prickle_Shell",
+		identifiedDescriptionName = {
+			"The shell of a Hallucigenia.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000827] = {
+		unidentifiedDisplayName = "Slender Claw",
+		unidentifiedResourceName = "EP19_Thin_Nipper",
+		unidentifiedDescriptionName = {
+			"A Slender Claw from a Dollocaris."
+		},
+		identifiedDisplayName = "Slender Claw",
+		identifiedResourceName = "EP19_Thin_Nipper",
+		identifiedDescriptionName = {
+			"A Slender Claw from a Dollocaris.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000828] = {
+		unidentifiedDisplayName = "Transparent Shell",
+		unidentifiedResourceName = "EP19_Transparency_Shell",
+		unidentifiedDescriptionName = {
+			"The transparent shell of a Limacina.",
+			"It is said to taste quite good."
+		},
+		identifiedDisplayName = "Transparent Shell",
+		identifiedResourceName = "EP19_Transparency_Shell",
+		identifiedDescriptionName = {
+			"The transparent shell of a Limacina.",
+			"It is said to taste quite good.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000829] = {
+		unidentifiedDisplayName = "Bait Bell Flower",
+		unidentifiedResourceName = "EP19_Bell_Flower",
+		unidentifiedDescriptionName = {
+			"A bell-shaped flower used by anglerfish as bait while hunting."
+		},
+		identifiedDisplayName = "Bait Bell Flower",
+		identifiedResourceName = "EP19_Bell_Flower",
+		identifiedDescriptionName = {
+			"A bell-shaped flower used by anglerfish as bait while hunting.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000830] = {
+		unidentifiedDisplayName = "Thin Tough Shell",
+		unidentifiedResourceName = "EP19_Thin_Shell",
+		unidentifiedDescriptionName = {
+			"The shell of a creature called Ice Straw."
+		},
+		identifiedDisplayName = "Thin Tough Shell",
+		identifiedResourceName = "EP19_Thin_Shell",
+		identifiedDescriptionName = {
+			"The shell of a creature called Ice Straw.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000831] = {
+		unidentifiedDisplayName = "Shining Seaweed Stem",
+		unidentifiedResourceName = "EP19_Shiny_Seaweed",
+		unidentifiedDescriptionName = {
+			"The stem of Shining Seaweed."
+		},
+		identifiedDisplayName = "Shining Seaweed Stem",
+		identifiedResourceName = "EP19_Shiny_Seaweed",
+		identifiedDescriptionName = {
+			"The stem of Shining Seaweed.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000832] = {
+		unidentifiedDisplayName = "Frozen Insect Shell",
+		unidentifiedResourceName = "EP19_Frozen_Shell",
+		unidentifiedDescriptionName = {
+			"A piece of frozen shell from an Ice Gangu."
+		},
+		identifiedDisplayName = "Frozen Insect Shell",
+		identifiedResourceName = "EP19_Frozen_Shell",
+		identifiedDescriptionName = {
+			"A piece of frozen shell from an Ice Gangu.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000833] = {
+		unidentifiedDisplayName = "Mysterious Luminous Body",
+		unidentifiedResourceName = "EP19_Luminant",
+		unidentifiedDescriptionName = {
+			"An ore imbued with mysterious energy."
+		},
+		identifiedDisplayName = "Mysterious Luminous Body",
+		identifiedResourceName = "EP19_Luminant",
+		identifiedDescriptionName = {
+			"An ore imbued with mysterious energy.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000834] = {
+		unidentifiedDisplayName = "Long Sharp Bone Fragment",
+		unidentifiedResourceName = "EP19_Sharp_Bone",
+		unidentifiedDescriptionName = {
+			"Long Sharp Bone Fragment."
+		},
+		identifiedDisplayName = "Long Sharp Bone Fragment",
+		identifiedResourceName = "EP19_Sharp_Bone",
+		identifiedDescriptionName = {
+			"Long Sharp Bone Fragment.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000842] = {
+		unidentifiedDisplayName = "High-sensitivity Feeler",
+		unidentifiedResourceName = "조개껍질",
+		unidentifiedDescriptionName = {
+			"A highly sensitive magical detection device that emits a special signal when it detects the magical power of an Rgan. It looks like an ordinary seashell.",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "High-sensitivity Feeler",
+		identifiedResourceName = "조개껍질",
+		identifiedDescriptionName = {
+			"A highly sensitive magical detection device that emits a special signal when it detects the magical power of an Rgan. It looks like an ordinary seashell.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000845] = {
+		unidentifiedDisplayName = "Accounting Ledger",
+		unidentifiedResourceName = "Ep18_Docu_File",
+		unidentifiedDescriptionName = {
+			"A ledger recording the movement of supplies. It notes that a large quantity of supplies recently entered Bagot's laboratory with Rasgand's authorization.",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Accounting Ledger",
+		identifiedResourceName = "Ep18_Docu_File",
+		identifiedDescriptionName = {
+			"A ledger recording the movement of supplies. It notes that a large quantity of supplies recently entered Bagot's laboratory with Rasgand's authorization.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000846] = {
+		unidentifiedDisplayName = "Ice Snack",
+		unidentifiedResourceName = "얼음_파편",
+		unidentifiedDescriptionName = {
+			"A sweet and cold Ice Snack. A traditional Iwin flavor.",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Ice Snack",
+		identifiedResourceName = "얼음_파편",
+		identifiedDescriptionName = {
+			"A sweet and cold Ice Snack. A traditional Iwin flavor.",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -398814,7 +413131,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"A ticket that allows enchanting items.",
 			"--------------------------",
-			"^ff0000Not yet implemented.^000000",
+			"<NAVI>[Ziki]<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>",
 			"--------------------------"
 		},
 		identifiedDisplayName = "Enchant Ticket",
@@ -398822,7 +413139,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A ticket that allows enchanting items.",
 			"--------------------------",
-			"^ff0000Not yet implemented.^000000",
+			"<NAVI>[Ziki]<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -399001,6 +413318,200 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1001029] = {
+		unidentifiedDisplayName = "Corrupted Magic Source Stone",
+		unidentifiedResourceName = "EP19_D_P_Ore",
+		unidentifiedDescriptionName = {
+			"A source stone corrupted by tainted magic.",
+			"It emits magic unlike the usual Snow Flower magic of Isgard.",
+			"Its magical taint may be neutralized.",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Corrupted Magic Source Stone",
+		identifiedResourceName = "EP19_D_P_Ore",
+		identifiedDescriptionName = {
+			"A source stone corrupted by tainted magic.",
+			"It emits magic unlike the usual Snow Flower magic of Isgard.",
+			"Its magical taint may be neutralized.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1869,
+		costume = false
+	},
+	[1001030] = {
+		unidentifiedDisplayName = "Purified Magic Source Stone",
+		unidentifiedResourceName = "EP19_N_P_Ore",
+		unidentifiedDescriptionName = {
+			"A source stone whose taint has been neutralized.",
+			"A faint trace of the taint remains.",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Purified Magic Source Stone",
+		identifiedResourceName = "EP19_N_P_Ore",
+		identifiedDescriptionName = {
+			"A source stone whose taint has been neutralized.",
+			"A faint trace of the taint remains.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1869,
+		costume = false
+	},
+	[1001031] = {
+		unidentifiedDisplayName = "Corrupted Magic Crystal",
+		unidentifiedResourceName = "EP19_D_P_Crystal",
+		unidentifiedDescriptionName = {
+			"A crystal formed by condensing magic source stones whose taint has not been neutralized.",
+			"Sealed with Snow Flower magic to keep the taint from leaking out.",
+			"Weight: ^7777775^000000"
+		},
+		identifiedDisplayName = "Corrupted Magic Crystal",
+		identifiedResourceName = "EP19_D_P_Crystal",
+		identifiedDescriptionName = {
+			"A crystal formed by condensing magic source stones whose taint has not been neutralized.",
+			"Sealed with Snow Flower magic to keep the taint from leaking out.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1870,
+		costume = false
+	},
+	[1001032] = {
+		unidentifiedDisplayName = "Purified Magic Crystal",
+		unidentifiedResourceName = "EP19_N_P_Crystal",
+		unidentifiedDescriptionName = {
+			"A crystal formed by condensing purified magic source stones.",
+			"Sealed with Snow Flower magic to keep the remaining taint from leaking out.",
+			"Weight: ^7777775^000000"
+		},
+		identifiedDisplayName = "Purified Magic Crystal",
+		identifiedResourceName = "EP19_N_P_Crystal",
+		identifiedDescriptionName = {
+			"A crystal formed by condensing purified magic source stones.",
+			"Sealed with Snow Flower magic to keep the remaining taint from leaking out.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1870,
+		costume = false
+	},
+	[1001033] = {
+		unidentifiedDisplayName = "Tainted Magic",
+		unidentifiedResourceName = "EP19_D_P_Stone",
+		unidentifiedDescriptionName = {
+			"A mass of tainted magic of unknown origin.",
+			"Weight: ^7777775^000000"
+		},
+		identifiedDisplayName = "Tainted Magic",
+		identifiedResourceName = "EP19_D_P_Stone",
+		identifiedDescriptionName = {
+			"A mass of tainted magic of unknown origin.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1190,
+		costume = false
+	},
+	[1001034] = {
+		unidentifiedDisplayName = "Snow Flower Magic Stone Extract",
+		unidentifiedResourceName = "EP19_S_F_1_Extract",
+		unidentifiedDescriptionName = {
+			"A bottle containing magic extracted from a Snow Flower magic stone.",
+			"",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Snow Flower Magic Stone Extract",
+		identifiedResourceName = "EP19_S_F_1_Extract",
+		identifiedDescriptionName = {
+			"A bottle containing magic extracted from a Snow Flower magic stone.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
+		costume = false
+	},
+	[1001035] = {
+		unidentifiedDisplayName = "Shining Snow Flower Magic Stone Extract",
+		unidentifiedResourceName = "EP19_S_F_2_Extract",
+		unidentifiedDescriptionName = {
+			"A bottle containing magic extracted from a shining Snow Flower magic stone.",
+			"",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Shining Snow Flower Magic Stone Extract",
+		identifiedResourceName = "EP19_S_F_2_Extract",
+		identifiedDescriptionName = {
+			"A bottle containing magic extracted from a shining Snow Flower magic stone.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
+		costume = false
+	},
+	[1001036] = {
+		unidentifiedDisplayName = "Radiant Snow Flower Magic Stone Extract",
+		unidentifiedResourceName = "EP19_S_F_3_Extract",
+		unidentifiedDescriptionName = {
+			"A bottle containing magic extracted from a radiant Snow Flower magic stone.",
+			"",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Radiant Snow Flower Magic Stone Extract",
+		identifiedResourceName = "EP19_S_F_3_Extract",
+		identifiedDescriptionName = {
+			"A bottle containing magic extracted from a radiant Snow Flower magic stone.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
+		costume = false
+	},
+	[1001037] = {
+		unidentifiedDisplayName = "Glacier Extract",
+		unidentifiedResourceName = "EP19_Gla_Extract",
+		unidentifiedDescriptionName = {
+			"A bottle containing magic extracted from an Isgard glacier.",
+			"",
+			"Weight: ^7777773^000000"
+		},
+		identifiedDisplayName = "Glacier Extract",
+		identifiedResourceName = "EP19_Gla_Extract",
+		identifiedDescriptionName = {
+			"A bottle containing magic extracted from an Isgard glacier.",
+			"Used at:",
+			"^ffffff<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"Weight: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
+		costume = false
+	},
 	[1001055] = {
 		unidentifiedDisplayName = "POD Stone (Dual)",
 		unidentifiedResourceName = "영혼의조각",
@@ -399118,16 +413629,15 @@ tbl = {
 		unidentifiedDisplayName = "Evil Orb",
 		unidentifiedResourceName = "Deep_Black_Pearl",
 		unidentifiedDescriptionName = {
-			"An orb with an extremely deep black color.",
-			"It seems to contain some dark power."
+			"An orb of an unusually deep black color.",
+			"Carrying it does not seem to have any effect."
 		},
 		identifiedDisplayName = "Evil Orb",
 		identifiedResourceName = "Deep_Black_Pearl",
 		identifiedDescriptionName = {
-			"An orb with an extremely deep black color.",
-			"It seems to contain some dark power.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"An orb of an unusually deep black color.",
+			"Carrying it does not seem to have any effect.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399137,16 +413647,15 @@ tbl = {
 		unidentifiedDisplayName = "Ectoplasmic Stone",
 		unidentifiedResourceName = "Cursed_Emerald",
 		unidentifiedDescriptionName = {
-			"A state where ectoplasm has condensed and hardened like stone.",
-			"It is no longer sticky, but it still feels unpleasant somehow."
+			"Ectoplasm condensed until it became as hard as stone.",
+			"It is not sticky, but still feels unsettling."
 		},
 		identifiedDisplayName = "Ectoplasmic Stone",
 		identifiedResourceName = "Cursed_Emerald",
 		identifiedDescriptionName = {
-			"A state where ectoplasm has condensed and hardened like stone.",
-			"It is no longer sticky, but it still feels unpleasant somehow.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"Ectoplasm condensed until it became as hard as stone.",
+			"It is not sticky, but still feels unsettling.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399157,15 +413666,14 @@ tbl = {
 		unidentifiedResourceName = "Fenrir_Chain",
 		unidentifiedDescriptionName = {
 			"A heavy chain made of steel.",
-			"It makes an unpleasant noise when dragged on the floor or shaken."
+			"It makes an unpleasant noise when dragged along the ground or shaken."
 		},
 		identifiedDisplayName = "Heavy Chain",
 		identifiedResourceName = "Fenrir_Chain",
 		identifiedDescriptionName = {
 			"A heavy chain made of steel.",
-			"It makes an unpleasant noise when dragged on the floor or shaken.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"It makes an unpleasant noise when dragged along the ground or shaken.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399175,16 +413683,15 @@ tbl = {
 		unidentifiedDisplayName = "Grudge-Infused Ruby",
 		unidentifiedResourceName = "Bloody_Ruby",
 		unidentifiedDescriptionName = {
-			"A ruby filled with someone's grudge.",
-			"If handled carelessly, it feels like it could consume you with resentment."
+			"A ruby imbued with someone’s resentment.",
+			"Handle it carelessly and its resentment may consume you."
 		},
 		identifiedDisplayName = "Grudge-Infused Ruby",
 		identifiedResourceName = "Bloody_Ruby",
 		identifiedDescriptionName = {
-			"A ruby filled with someone's grudge.",
-			"If handled carelessly, it feels like it could consume you with resentment.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A ruby imbued with someone’s resentment.",
+			"Handle it carelessly and its resentment may consume you.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399195,15 +413702,14 @@ tbl = {
 		unidentifiedResourceName = "휴대용반짇고리",
 		unidentifiedDescriptionName = {
 			"A small leather sewing kit.",
-			"It contains several needles and threads."
+			"It contains a few needles and threads."
 		},
 		identifiedDisplayName = "Small Sewing Kit",
 		identifiedResourceName = "휴대용반짇고리",
 		identifiedDescriptionName = {
 			"A small leather sewing kit.",
-			"It contains several needles and threads.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"It contains a few needles and threads.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399213,16 +413719,13 @@ tbl = {
 		unidentifiedDisplayName = "Piece of Wood",
 		unidentifiedResourceName = "ActinidiaPolygamaTree",
 		unidentifiedDescriptionName = {
-			"A piece of wood cut to a uniform size and thickness.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A piece of wood cut to a uniform size and thickness."
 		},
 		identifiedDisplayName = "Piece of Wood",
 		identifiedResourceName = "ActinidiaPolygamaTree",
 		identifiedDescriptionName = {
 			"A piece of wood cut to a uniform size and thickness.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399232,16 +413735,15 @@ tbl = {
 		unidentifiedDisplayName = "Blue Moon Fragment",
 		unidentifiedResourceName = "Seagod_Crystal",
 		unidentifiedDescriptionName = {
-			"A fragment that fell from Blue Moon Loli Ruri.",
-			"It is said to emit a blue light on its own."
+			"A fragment that fell from Blue Moon Loli Ruri’s moon.",
+			"It is said to glow blue on its own."
 		},
 		identifiedDisplayName = "Blue Moon Fragment",
 		identifiedResourceName = "Seagod_Crystal",
 		identifiedDescriptionName = {
-			"A fragment that fell from Blue Moon Loli Ruri.",
-			"It is said to emit a blue light on its own.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A fragment that fell from Blue Moon Loli Ruri’s moon.",
+			"It is said to glow blue on its own.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399251,14 +413753,13 @@ tbl = {
 		unidentifiedDisplayName = "Bizarre Tentacle",
 		unidentifiedResourceName = "가재의촉수",
 		unidentifiedDescriptionName = {
-			"A tentacle with a bizarre shape."
+			"A strangely shaped tentacle."
 		},
 		identifiedDisplayName = "Bizarre Tentacle",
 		identifiedResourceName = "가재의촉수",
 		identifiedDescriptionName = {
-			"A tentacle with a bizarre shape.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A strangely shaped tentacle.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399268,16 +413769,15 @@ tbl = {
 		unidentifiedDisplayName = "Condensed Poison",
 		unidentifiedResourceName = "Wolf_Orb_A_Force",
 		unidentifiedDescriptionName = {
-			"Poisonous liquid that was gathered and condensed.",
-			"It is said that touching it carelessly may poison you."
+			"Poisonous liquid that has gathered and solidified.",
+			"They say touching it carelessly can poison you."
 		},
 		identifiedDisplayName = "Condensed Poison",
 		identifiedResourceName = "Wolf_Orb_A_Force",
 		identifiedDescriptionName = {
-			"Poisonous liquid that was gathered and condensed.",
-			"It is said that touching it carelessly may poison you.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"Poisonous liquid that has gathered and solidified.",
+			"They say touching it carelessly can poison you.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399287,14 +413787,13 @@ tbl = {
 		unidentifiedDisplayName = "Slippery Liquid",
 		unidentifiedResourceName = "미끌미끌한액체",
 		unidentifiedDescriptionName = {
-			"A very slippery transparent liquid."
+			"A very slippery, transparent liquid."
 		},
 		identifiedDisplayName = "Slippery Liquid",
 		identifiedResourceName = "미끌미끌한액체",
 		identifiedDescriptionName = {
-			"A very slippery transparent liquid.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A very slippery, transparent liquid.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399304,16 +413803,15 @@ tbl = {
 		unidentifiedDisplayName = "Monster Stone Chunk",
 		unidentifiedResourceName = "MD_Airboat_Ore",
 		unidentifiedDescriptionName = {
-			"A stone chunk occasionally found from certain monsters.",
-			"It smells bad."
+			"A lump of stone occasionally found on certain monsters.",
+			"It smells unpleasant."
 		},
 		identifiedDisplayName = "Monster Stone Chunk",
 		identifiedResourceName = "MD_Airboat_Ore",
 		identifiedDescriptionName = {
-			"A stone chunk occasionally found from certain monsters.",
-			"It smells bad.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A lump of stone occasionally found on certain monsters.",
+			"It smells unpleasant.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399329,8 +413827,7 @@ tbl = {
 		identifiedResourceName = "황금의잎",
 		identifiedDescriptionName = {
 			"A leaf that has lost its green color and turned yellow.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399340,14 +413837,13 @@ tbl = {
 		unidentifiedDisplayName = "Flame Stone",
 		unidentifiedResourceName = "홍련",
 		unidentifiedDescriptionName = {
-			"A hot stone occasionally found in monsters with intense heat."
+			"A hot stone occasionally found on monsters that give off intense heat."
 		},
 		identifiedDisplayName = "Flame Stone",
 		identifiedResourceName = "홍련",
 		identifiedDescriptionName = {
-			"A hot stone occasionally found in monsters with intense heat.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A hot stone occasionally found on monsters that give off intense heat.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399357,14 +413853,13 @@ tbl = {
 		unidentifiedDisplayName = "Cool Liquid",
 		unidentifiedResourceName = "해양심층수",
 		unidentifiedDescriptionName = {
-			"A liquid with an unchanging coolness."
+			"A liquid that always feels cool."
 		},
 		identifiedDisplayName = "Cool Liquid",
 		identifiedResourceName = "해양심층수",
 		identifiedDescriptionName = {
-			"A liquid with an unchanging coolness.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A liquid that always feels cool.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399374,14 +413869,13 @@ tbl = {
 		unidentifiedDisplayName = "Green Crystal Fragment",
 		unidentifiedResourceName = "Frost_Zircon",
 		unidentifiedDescriptionName = {
-			"A crystal fragment with a green glow."
+			"A crystal fragment with a blue hue."
 		},
 		identifiedDisplayName = "Green Crystal Fragment",
 		identifiedResourceName = "Frost_Zircon",
 		identifiedDescriptionName = {
-			"A crystal fragment with a green glow.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A crystal fragment with a blue hue.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399391,14 +413885,13 @@ tbl = {
 		unidentifiedDisplayName = "Brightly Shining Crystal",
 		unidentifiedResourceName = "Auto_Orb_Thief",
 		unidentifiedDescriptionName = {
-			"A crystal shining brightly with yellow light."
+			"A crystal that shines with a bright yellow light."
 		},
 		identifiedDisplayName = "Brightly Shining Crystal",
 		identifiedResourceName = "Auto_Orb_Thief",
 		identifiedDescriptionName = {
-			"A crystal shining brightly with yellow light.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"A crystal that shines with a bright yellow light.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399409,15 +413902,14 @@ tbl = {
 		unidentifiedResourceName = "ep18_trapped03",
 		unidentifiedDescriptionName = {
 			"A fresh pear.",
-			"Someone has taken a bite out of it,  but let's ignore that."
+			"Someone has taken a bite out of it, but let’s ignore that."
 		},
 		identifiedDisplayName = "Fresh Pear",
 		identifiedResourceName = "ep18_trapped03",
 		identifiedDescriptionName = {
 			"A fresh pear.",
-			"Someone has taken a bite out of it,  but let's ignore that.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"Someone has taken a bite out of it, but let’s ignore that.",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -399433,8 +413925,7 @@ tbl = {
 		identifiedResourceName = "화이트카네이션",
 		identifiedDescriptionName = {
 			"A white flower with a pleasant fragrance.",
-			"--------------------------",
-			"Weight : ^7777771^000000"
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -400633,6 +415124,42 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1002368] = {
+		unidentifiedDisplayName = "Silver Gourmet Coin",
+		unidentifiedResourceName = "22nd_Souvenir_Medal2",
+		unidentifiedDescriptionName = {
+			"Unidentified item. It can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "Silver Gourmet Coin",
+		identifiedResourceName = "22nd_Souvenir_Medal2",
+		identifiedDescriptionName = {
+			"^FF0000It will be deleted at the end of the event.^000000",
+			"A small coin used at the Gourmet Festival held by the Royal Kitchen of Prontera.",
+			"-------------------------",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1002369] = {
+		unidentifiedDisplayName = "Gold Gourmet Coin",
+		unidentifiedResourceName = "22nd_Souvenir_Medal1",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Gold Gourmet Coin",
+		identifiedResourceName = "22nd_Souvenir_Medal1",
+		identifiedDescriptionName = {
+			"^FF0000It will be deleted at the end of the event.^000000",
+			"A small coin used at the Gourmet Festival held by the Royal Kitchen of Prontera.",
+			"-------------------------",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1002381] = {
 		unidentifiedDisplayName = "Midga Powder",
 		unidentifiedResourceName = "CLB_GAT_powder",
@@ -401010,6 +415537,27 @@ tbl = {
 			"-------------------------",
 			"Required level: ^777777180^000000",
 			"Weight: ^7777770.2^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1100006] = {
+		unidentifiedDisplayName = "Dried Ice Gangu",
+		unidentifiedResourceName = "Ep19_Dry_Icegangu",
+		unidentifiedDescriptionName = {
+			"A type of dried food made by freeze-drying Ice Ligia. It is cold and crunchy like ice, and is a nutritious delicacy favored by the Iwins.",
+			"Restores approximately ^0000881925 HP^000000.",
+			"Required Level: ^777777200^000000",
+			"Weight: ^7777770.5^000000"
+		},
+		identifiedDisplayName = "Dried Ice Gangu",
+		identifiedResourceName = "Ep19_Dry_Icegangu",
+		identifiedDescriptionName = {
+			"A type of dried food made by freeze-drying Ice Ligia. It is cold and crunchy like ice, and is a nutritious delicacy favored by the Iwins.",
+			"Restores approximately ^0000881925 HP^000000.",
+			"Required Level: ^777777200^000000",
+			"Weight: ^7777770.5^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,

@@ -991,7 +991,7 @@
     },
     "ZpHVDQ": {
         "en-US": "[Flowering Land]\nEden Group Exclusive Mission\nLocation: Flowering Land\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1042488, Jexp 2760588, Eden Group Coin 2",
-        "pt-BR": "[Campo Florescente]\nPedido do Grupo do Éden\nLocal: Campo Florescente\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 14.2 Eclage[INFO]6057[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.042.488, EXP Classe 2.760.588, 2x Moeda do Éden",
+        "pt-BR": "[Campo Florescente]\nPedido do Grupo do Éden\nLocal: Campo Florescente\nObjetivo: Derrote 60 monstros do mapa\n<TIPBOX>EP 14.2 Eclage<INFO>6057</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.042.488, EXP Classe 2.760.588, 2x Moeda do Éden",
         "es-ES": "[Tierra Floreciente]\nMisión Exclusiva del Grupo del Edén\nUbicación: Tierra Floreciente\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1042488, EXP Clase 2760588, Moneda del Edén x2"
     },
     "Z5HVDQ": {
@@ -1016,7 +1016,7 @@
     },
     "a5HVDQ": {
         "en-US": "[Bathhouse Meditatio]\nEden Group Exclusive Mission\nLocation: Bathhouse Meditatio\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1163508, Jexp 814463, Eden Group Coin 2",
-        "pt-BR": "[Sauna Meditatio]\nPedido do Grupo do Éden\nLocal: Sauna Meditatio\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.163.508, EXP Classe 814.463, 2x Moeda do Éden",
+        "pt-BR": "[Sauna Meditatio]\nPedido do Grupo do Éden\nLocal: Sauna Meditatio\nObjetivo: Derrote 60 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.163.508, EXP Classe 814.463, 2x Moeda do Éden",
         "es-ES": "[Sauna Meditatio]\nMisión Exclusiva del Grupo del Edén\nUbicación: Sauna Meditatio\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1163508, EXP Clase 814463, Moneda del Edén x2"
     },
     "bJHVDQ": {
@@ -1031,7 +1031,7 @@
     },
     "bpHVDQ": {
         "en-US": "[Library Memory Corridor]\nEden Group Exclusive Mission\nLocation: Library Memory Corridor\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1700618, Jexp 1190430, Eden Group Coin 2",
-        "pt-BR": "[Corredor das Memórias]\nPedido do Grupo do Éden\nLocal: Corredor das Memórias\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.700.618, EXP Classe 1.190.430, 2x Moeda do Éden",
+        "pt-BR": "[Corredor das Memórias]\nPedido do Grupo do Éden\nLocal: Corredor das Memórias\nObjetivo: Derrote 60 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.700.618, EXP Classe 1.190.430, 2x Moeda do Éden",
         "es-ES": "[Pasillo de los Recuerdos]\nMisión Exclusiva del Grupo del Edén\nUbicación: Pasillo de los Recuerdos\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1700618, EXP Clase 1190430, Moneda del Edén x2"
     },
     "b5HVDQ": {
@@ -1046,7 +1046,7 @@
     },
     "cZHVDQ": {
         "en-US": "[Sewage Treatment Plant]\nEden Group Exclusive Mission\nLocation: Sewage Treatment Plant\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1685862, Jexp 1180080, Eden Group Coin 2",
-        "pt-BR": "[Estação de Esgoto]\nPedido do Grupo do Éden\nLocal: Estação de Esgoto\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.685.862, EXP Classe 1.180.080, 2x Moeda do Éden",
+        "pt-BR": "[Estação de Esgoto]\nPedido do Grupo do Éden\nLocal: Estação de Esgoto\nObjetivo: Derrote 60 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.685.862, EXP Classe 1.180.080, 2x Moeda do Éden",
         "es-ES": "[Estación de Aguas Residuales]\nMisión Exclusiva del Grupo del Edén\nUbicación: Estación de Aguas Residuales\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1685862, EXP Clase 1180080, Moneda del Edén x2"
     },
     "cpHVDQ": {
@@ -1061,7 +1061,7 @@
     },
     "dJHVDQ": {
         "en-US": "[Power Plant No. 1]\nEden Group Exclusive Mission\nLocation: Power Plant No. 1\nObjective: Defeat 60 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1845139, Jexp 1291584, Eden Group Coin 2",
-        "pt-BR": "[Usina Mágica I]\nPedido do Grupo do Éden\nLocal: Usina Mágica 1º andar\nObjetivo: Derrote 60 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.845.139, EXP Classe 1.291.584, 2x Moeda do Éden",
+        "pt-BR": "[Usina Mágica I]\nPedido do Grupo do Éden\nLocal: Usina Mágica 1º andar\nObjetivo: Derrote 60 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.845.139, EXP Classe 1.291.584, 2x Moeda do Éden",
         "es-ES": "[Planta Mágica I]\nMisión Exclusiva del Grupo del Edén\nUbicación: Planta Mágica I\nObjetivo: Derrota a 60 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1845139, EXP Clase 1291584, Moneda del Edén x2"
     },
     "dZHVDQ": {
@@ -1096,7 +1096,7 @@
     },
     "e5HVDQ": {
         "en-US": "[Bifrost Tower]\nEden Group Exclusive Mission\nLocation: Bifrost Tower\nObjective: Defeat 30 Cenere, 30 Damaged Ancient Book\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 2940165, Jexp 3741390, Eden Group Coin 2",
-        "pt-BR": "[Torre de Bifrost]\nPedido do Grupo do Éden\nLocal: Torre de Bifrost\nObjetivo: Derrote 30 Cenere, 30 Livro Antigo Danificado\n[TIPBOX]EP 14.2 Eclage[INFO]6057[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 2.940.165, EXP Classe 3.741.390, 2x Moeda do Éden",
+        "pt-BR": "[Torre de Bifrost]\nPedido do Grupo do Éden\nLocal: Torre de Bifrost\nObjetivo: Derrote 30 Cenere, 30 Livro Antigo Danificado\n<TIPBOX>EP 14.2 Eclage<INFO>6057</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 2.940.165, EXP Classe 3.741.390, 2x Moeda do Éden",
         "es-ES": "[Torre de Bifrost]\nMisión Exclusiva del Grupo del Edén\nUbicación: Torre de Bifrost\nObjetivo: Derrota Cenere x30, Libro Antiguo x30\n<TIPBOX>EP 14.2   Eclage<INFO>6057</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 2940165, EXP Clase 3741390, Moneda del Edén x2"
     },
     "fJHVDQ": {
@@ -1121,7 +1121,7 @@
     },
     "gJHVDQ": {
         "en-US": "[Prontera Underground Prison]\nEden Group Exclusive Mission\nLocation: Prontera Underground Prison\nObjective: Defeat 120 monsters in the area\n<TIPBOX>Q Prontera Underground Prison   (100)<INFO>8135</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 3024000, Jexp 3024000, Eden Group Coin 2",
-        "pt-BR": "[Prisão de Prontera]\nPedido do Grupo do Éden\nLocal: Prisão de Prontera\nObjetivo: Derrote 120 monstros do mapa\n[TIPBOX]EP 16.1 Banquete Real[INFO]8135[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.024.000, EXP Classe 3.024.000, 2x Moeda do Éden",
+        "pt-BR": "[Prisão de Prontera]\nPedido do Grupo do Éden\nLocal: Prisão de Prontera\nObjetivo: Derrote 120 monstros do mapa\n<TIPBOX>EP 16.1 Banquete Real<INFO>8135</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.024.000, EXP Classe 3.024.000, 2x Moeda do Éden",
         "es-ES": "[Prisión Subterránea de Prontera]\nMisión Exclusiva del Grupo del Edén\nUbicación: Prisión de Prontera\nObjetivo: Derrota a 120 monstruos de la zona\n<TIPBOX>Prisión Subterránea de Prontera   (100)<INFO>8135</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 3024000, EXP Clase 3024000, Moneda del Edén x2"
     },
     "gZHVDQ": {
@@ -1136,7 +1136,7 @@
     },
     "g5HVDQ": {
         "en-US": "[Invaded Prontera]\nEden Group Exclusive Mission\nLocation: Invaded Prontera\nObjective: Defeat 120 monsters in the area\n<TIPBOX>EP 16.1 Banquet for Heroes<INFO>8118</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 3584280, Jexp 2409120, Eden Group Coin 2",
-        "pt-BR": "[Prontera Destruída]\nPedido do Grupo do Éden\nLocal: Prontera Destruída\nObjetivo: Derrote 120 monstros do mapa\n[TIPBOX]EP 16.1 Banquete Real[INFO]8118[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.584.280, EXP Classe 2.409.120, 2x Moeda do Éden",
+        "pt-BR": "[Prontera Destruída]\nPedido do Grupo do Éden\nLocal: Prontera Destruída\nObjetivo: Derrote 120 monstros do mapa\n<TIPBOX>EP 16.1 Banquete Real<INFO>8118</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 3.584.280, EXP Classe 2.409.120, 2x Moeda do Éden",
         "es-ES": "[Prontera Destruida]\nMisión Exclusiva del Grupo del Edén\nUbicación: Prontera Destruida\nObjetivo: Derrota a 120 monstruos de la zona\n<TIPBOX>EP 16.1 Un Banquete para los Héroes<INFO>8118</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 3584280, EXP Clase 2409120, Moneda del Edén x2"
     },
     "hJHVDQ": {
@@ -1181,7 +1181,7 @@
     },
     "jJHVDQ": {
         "en-US": "[Underground Bunker]\nEden Group Exclusive Mission\nLocation: Underground Bunker\nObjective: Defeat 30 Smelly Ghoul\n<TIPBOX>EP 15.2   Memory Record<INFO>10013</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1258659, Jexp 1303554, Eden Group Coin 2",
-        "pt-BR": "[Abrigo Subterrâneo]\nPedido do Grupo do Éden\nLocal: Abrigo Subterrâneo\nObjetivo: Derrote 30 Zumbi Fedorento\n[TIPBOX]EP 15 Fantasmagórica[INFO]10013[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.258.659, EXP Classe 1.303.554, 2x Moeda do Éden",
+        "pt-BR": "[Abrigo Subterrâneo]\nPedido do Grupo do Éden\nLocal: Abrigo Subterrâneo\nObjetivo: Derrote 30 Zumbi Fedorento\n<TIPBOX>EP 15 Fantasmagórica<INFO>10013</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.258.659, EXP Classe 1.303.554, 2x Moeda do Éden",
         "es-ES": "[Refugio Subterráneo]\nMisión Exclusiva del Grupo del Edén\nUbicación: Refugio Subterráneo\nObjetivo: Derrota Necrófago Apestoso x30\n<TIPBOX>EP 15 Fantasmagórica<INFO>10013</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1258659, EXP Clase 1303554, Moneda del Edén x2"
     },
     "jZHVDQ": {
@@ -1196,7 +1196,7 @@
     },
     "j5HVDQ": {
         "en-US": "[Laboratory - OPTATIO]\nEden Group Exclusive Mission\nLocation: Laboratory - OPTATIO\nObjective: Defeat 20 Repair Robot Turbo, 30 Green Cenere\n<TIPBOX>EP 15.2   Memory Record<INFO>10013</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 1145250, Jexp 1154700, Eden Group Coin 2",
-        "pt-BR": "[Optatio]\nPedido do Grupo do Éden\nLocal: Laboratório Optatio\nObjetivo: Derrote 20 Robô Reparador Turbo, 30 Fumaça Verde\n[TIPBOX]EP 15 Fantasmagórica[INFO]10013[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.145.250, EXP Classe 1.154.700, 2x Moeda do Éden",
+        "pt-BR": "[Optatio]\nPedido do Grupo do Éden\nLocal: Laboratório Optatio\nObjetivo: Derrote 20 Robô Reparador Turbo, 30 Fumaça Verde\n<TIPBOX>EP 15 Fantasmagórica<INFO>10013</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 1.145.250, EXP Classe 1.154.700, 2x Moeda do Éden",
         "es-ES": "[Laboratorio OPTATIO]\nMisión Exclusiva del Grupo del Edén\nUbicación: Laboratorio OPTATIO\nObjetivo: Derrota Robot Reparador Turbo x20, Cenere Verde x30\n<TIPBOX>EP 15 Fantasmagórica<INFO>10013</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 1145250, EXP Clase 1154700, Moneda del Edén x2"
     },
     "kJHVDQ": {
@@ -1226,7 +1226,7 @@
     },
     "lZHVDQ": {
         "en-US": "[Lost Valley Ranch]\nEden Group Exclusive Mission\nLocation: Lost Valley Ranch\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 25429197, Jexp 17800499, Eden Group Coin 3",
-        "pt-BR": "[Estufa de Pitayas]\nPedido do Grupo do Éden\nLocal: Estufa de Pitayas\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 25.429.197, EXP Classe 17.800.499, 3x Moeda do Éden",
+        "pt-BR": "[Estufa de Pitayas]\nPedido do Grupo do Éden\nLocal: Estufa de Pitayas\nObjetivo: Derrote 160 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 25.429.197, EXP Classe 17.800.499, 3x Moeda do Éden",
         "es-ES": "[Criadero del Valle Perdido]\nMisión Exclusiva del Grupo del Edén\nUbicación: Criadero del Valle Perdido\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 25429197, EXP Clase 17800499, Moneda del Edén x3"
     },
     "lpHVDQ": {
@@ -1271,7 +1271,7 @@
     },
     "npHVDQ": {
         "en-US": "[Rudus Disposal Site 2F]\nEden Group Exclusive Mission\nLocation: Rudus Disposal Site 2F\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 17.1 Illusion<INFO>7055</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 13603464, Jexp 9522360, Eden Group Coin 3",
-        "pt-BR": "[Depósito Rudus I]\nPedido do Grupo do Éden\nLocal: Depósito Rudus 2º andar\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 17.1 Ilusión[INFO]7055[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 13.603.464, EXP Classe 9.522.360, 3x Moeda do Éden",
+        "pt-BR": "[Depósito Rudus I]\nPedido do Grupo do Éden\nLocal: Depósito Rudus 2º andar\nObjetivo: Derrote 80 monstros do mapa\n<TIPBOX>EP 17.1 Ilusión<INFO>7055</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 13.603.464, EXP Classe 9.522.360, 3x Moeda do Éden",
         "es-ES": "[Rudus, Depósito de Relaves: Piso 2]\nMisión Exclusiva del Grupo del Edén\nUbicación: Rudus, Depósito de Relaves (2)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 17.1 Ilusión<INFO>7055</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 13603464, EXP Clase 9522360, Moneda del Edén x3"
     },
     "n5HVDQ": {
@@ -1286,7 +1286,7 @@
     },
     "oZHVDQ": {
         "en-US": "[Juperos Eastern Ruins]\nEden Group Exclusive Mission\nLocation: Juperos Eastern Ruins\nObjective: Defeat 50 Scout Robot\n<TIPBOX>EP 15.1   To Phantasmagorica!!<INFO>10001</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 21257100, Jexp 14880024, Eden Group Coin 2",
-        "pt-BR": "[Oeste de Juperos]\nPedido do Grupo do Éden\nLocal: Ruína Oeste de Juperos\nObjetivo: Derrote 50 Robô de Reconhecimento\n[TIPBOX]EP 15.1 Fantasmagórica[INFO]10001[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 21.257.100, EXP Classe 14.880.024, 2x Moeda do Éden",
+        "pt-BR": "[Oeste de Juperos]\nPedido do Grupo do Éden\nLocal: Ruína Oeste de Juperos\nObjetivo: Derrote 50 Robô de Reconhecimento\n<TIPBOX>EP 15.1 Fantasmagórica<INFO>10001</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 21.257.100, EXP Classe 14.880.024, 2x Moeda do Éden",
         "es-ES": "[Ruina Oeste de Juperos]\nMisión Exclusiva del Grupo del Edén\nUbicación: Ruina Oeste de Juperos\nObjetivo: Derrota Robot de Reconocimiento x50\n<TIPBOX>EP 15.1   Fantasmagórica<INFO>10001</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 21257100, EXP Clase 14880024, Moneda del Edén x2"
     },
     "opHVDQ": {
@@ -1301,7 +1301,7 @@
     },
     "pJHVDQ": {
         "en-US": "[Verus City]\nEden Group Exclusive Mission\nLocation: Verus City\nObjective: Defeat 40 Exploration Robot, 40 Exploration Robot Turbo\n<TIPBOX>EP 15.1   To Phantasmagorica!!<INFO>10001</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 12216160, Jexp 16305872, Eden Group Coin 3",
-        "pt-BR": "[Cidade de Verus]\nPedido do Grupo do Éden\nLocal: Praça de Verus\nObjetivo: Derrote 40 Robô Explorador, 40 Robô Explorador Turbo\n[TIPBOX]EP 15.1 Fantasmagórica[INFO]10001[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 12.216.160, EXP Classe 16.305.872, 3x Moeda do Éden",
+        "pt-BR": "[Cidade de Verus]\nPedido do Grupo do Éden\nLocal: Praça de Verus\nObjetivo: Derrote 40 Robô Explorador, 40 Robô Explorador Turbo\n<TIPBOX>EP 15.1 Fantasmagórica<INFO>10001</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 12.216.160, EXP Classe 16.305.872, 3x Moeda do Éden",
         "es-ES": "[Ciudad de Verus]\nMisión Exclusiva del Grupo del Edén\nUbicación: Ciudad de Verus\nObjetivo: Derrota Robot Explorador x40, Robot Explorador Turbo x40\n<TIPBOX>EP 15.1   Fantasmagórica<INFO>10001</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 12216160, EXP Clase 16305872, Moneda del Edén x3"
     },
     "pZHVDQ": {
@@ -1316,7 +1316,7 @@
     },
     "p5HVDQ": {
         "en-US": "[Tartaros Storage Upper Floor]\nEden Group Exclusive Mission\nLocation: Tartaros Storage Upper Floor\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 44954533, Jexp 31468133, Eden Group Coin 3",
-        "pt-BR": "[Armazém Tártaro I]\nPedido do Grupo do Éden\nLocal: Armazém Tártaro 1º andar\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 44.954.533, EXP Classe 31.468.133, 3x Moeda do Éden",
+        "pt-BR": "[Armazém Tártaro I]\nPedido do Grupo do Éden\nLocal: Armazém Tártaro 1º andar\nObjetivo: Derrote 160 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 44.954.533, EXP Classe 31.468.133, 3x Moeda do Éden",
         "es-ES": "[Almacén Tártaro, Piso Superior]\nMisión Exclusiva del Grupo del Edén\nUbicación: Almacén Tártaro, Piso Superior\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 44954533, EXP Clase 31468133, Moneda del Edén x3"
     },
     "qJHVDQ": {
@@ -1331,7 +1331,7 @@
     },
     "qpHVDQ": {
         "en-US": "[Oz Labyrinth 1F]\nEden Group Exclusive Mission\nLocation: Oz Labyrinth 1F\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 28732040, Jexp 20112390, Eden Group Coin 3",
-        "pt-BR": "[Labirinto de Oz]\nPedido do Grupo do Éden\nLocal: Labirinto de Oz 1º andar\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 18 Caminho da Oração[INFO]4217[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 28.732.040, EXP Classe 20.112.390, 3x Moeda do Éden",
+        "pt-BR": "[Labirinto de Oz]\nPedido do Grupo do Éden\nLocal: Labirinto de Oz 1º andar\nObjetivo: Derrote 80 monstros do mapa\n<TIPBOX>EP 18 Caminho da Oração<INFO>4217</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 28.732.040, EXP Classe 20.112.390, 3x Moeda do Éden",
         "es-ES": "[Laberinto de Oz, Piso 1]\nMisión Exclusiva del Grupo del Edén\nUbicación: Laberinto de Oz (1)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 18 Camino de la Oración<INFO>4217</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 28732040, EXP Clase 20112390, Moneda del Edén x3"
     },
     "q5HVDQ": {
@@ -1346,7 +1346,7 @@
     },
     "rZHVDQ": {
         "en-US": "[Rudus Disposal Site 3F]\nEden Group Exclusive Mission\nLocation: Rudus Disposal Site 3F\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.1 Illusion<INFO>7055</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 30639280, Jexp 21447552, Eden Group Coin 3",
-        "pt-BR": "[Depósito Rudus II]\nPedido do Grupo do Éden\nLocal: Depósito Rudus 3º andar\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.1 Ilusión[INFO]7055[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 30.639.280, EXP Classe 21.447.552, 3x Moeda do Éden",
+        "pt-BR": "[Depósito Rudus II]\nPedido do Grupo do Éden\nLocal: Depósito Rudus 3º andar\nObjetivo: Derrote 160 monstros do mapa\n<TIPBOX>EP 17.1 Ilusión<INFO>7055</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 30.639.280, EXP Classe 21.447.552, 3x Moeda do Éden",
         "es-ES": "[Rudus, Depósito de Relaves: Piso 3]\nMisión Exclusiva del Grupo del Edén\nUbicación: Rudus, Depósito de Relaves (3)\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.1 Ilusión<INFO>7055</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 30639280, EXP Clase 21447552, Moneda del Edén x3"
     },
     "rpHVDQ": {
@@ -1376,7 +1376,7 @@
     },
     "s5HVDQ": {
         "en-US": "[Tartaros Storage Lower Floor]\nEden Group Exclusive Mission\nLocation: Tartaros Storage Lower Floor\nObjective: Defeat 160 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 33749488, Jexp 23624560, Eden Group Coin 3",
-        "pt-BR": "[Armazém Tártaro II]\nPedido do Grupo do Éden\nLocal: Armazém Tártaro 2º andar\nObjetivo: Derrote 160 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 33.749.488, EXP Classe 23.624.560, 3x Moeda do Éden",
+        "pt-BR": "[Armazém Tártaro II]\nPedido do Grupo do Éden\nLocal: Armazém Tártaro 2º andar\nObjetivo: Derrote 160 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 33.749.488, EXP Classe 23.624.560, 3x Moeda do Éden",
         "es-ES": "[Almacén Tártaro, Nivel Inferior]\nMisión Exclusiva del Grupo del Edén\nUbicación: Almacén Tártaro, Piso Inferior\nObjetivo: Derrota a 160 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 33749488, EXP Clase 23624560, Moneda del Edén x3"
     },
     "tJHVDQ": {
@@ -1406,7 +1406,7 @@
     },
     "uZHVDQ": {
         "en-US": "[Gray Wolf Forest]\nEden Group Exclusive Mission\nLocation: Gray Wolf Forest\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 26550614, Jexp 18585440, Eden Group Coin 3",
-        "pt-BR": "[Lobo Cinzento]\nPedido do Grupo do Éden\nLocal: Floresta do Lobo Cinzento (1)\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 18 Caminho da Oração[INFO]4217[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 26.550.614, EXP Classe 18.585.440, 3x Moeda do Éden",
+        "pt-BR": "[Lobo Cinzento]\nPedido do Grupo do Éden\nLocal: Floresta do Lobo Cinzento (1)\nObjetivo: Derrote 80 monstros do mapa\n<TIPBOX>EP 18 Caminho da Oração<INFO>4217</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 26.550.614, EXP Classe 18.585.440, 3x Moeda do Éden",
         "es-ES": "[Bosque del Lobo Gris I]\nMisión Exclusiva del Grupo del Edén\nUbicación: Bosque del Lobo Gris (1)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 18 Camino de la Oración<INFO>4217</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 26550614, EXP Clase 18585440, Moneda del Edén x3"
     },
     "upHVDQ": {
@@ -1421,7 +1421,7 @@
     },
     "vJHVDQ": {
         "en-US": "[Gray Wolf Forest]\nEden Group Exclusive Mission\nLocation: Gray Wolf Forest\nObjective: Defeat 80 monsters in the area\n<TIPBOX>EP 18 Direction of Prayer<INFO>4217</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 26878720, Jexp 18815104, Eden Group Coin 3",
-        "pt-BR": "[Lobo Cinzento]\nPedido do Grupo do Éden\nLocal: Floresta do Lobo Cinzento (2)\nObjetivo: Derrote 80 monstros do mapa\n[TIPBOX]EP 18 Caminho da Oração[INFO]4217[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 26.878.720, EXP Classe 18.815.104, 3x Moeda do Éden",
+        "pt-BR": "[Lobo Cinzento]\nPedido do Grupo do Éden\nLocal: Floresta do Lobo Cinzento (2)\nObjetivo: Derrote 80 monstros do mapa\n<TIPBOX>EP 18 Caminho da Oração<INFO>4217</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 26.878.720, EXP Classe 18.815.104, 3x Moeda do Éden",
         "es-ES": "[Bosque del Lobo Gris I]\nMisión Exclusiva del Grupo del Edén\nUbicación: Bosque del Lobo Gris (1)\nObjetivo: Derrota a 80 monstruos de la zona\n<TIPBOX>EP 18 Camino de la Oración<INFO>4217</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 26878720, EXP Clase 18815104, Moneda del Edén x3"
     },
     "vZHVDQ": {
@@ -1476,7 +1476,7 @@
     },
     "x5HVDQ": {
         "en-US": "[Power Plant No. 2]\nEden Group Exclusive Mission\nLocation: Power Plant No. 2\nObjective: Defeat 240 monsters in the area\n<TIPBOX>EP 17.2 Sage's Legacy<INFO>7068</INFO></TIPBOX>^FF0000Prerequisite quest required.^000000\nReward: Exp 63975339, Jexp 44782794, Eden Group Coin 4",
-        "pt-BR": "[Usina Mágica II]\nPedido do Grupo do Éden\nLocal: Usina Mágica 2º andar\nObjetivo: Derrote 240 monstros do mapa\n[TIPBOX]EP 17.2 Legado do Sábio[INFO]7068[/INFO][/TIPBOX]^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 63.975.339, EXP Classe 44.782.794, 4x Moeda do Éden",
+        "pt-BR": "[Usina Mágica II]\nPedido do Grupo do Éden\nLocal: Usina Mágica 2º andar\nObjetivo: Derrote 240 monstros do mapa\n<TIPBOX>EP 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX>^FF0000Pode haver requisito de acesso ao mapa.^000000\nRecompensa: EXP Base 63.975.339, EXP Classe 44.782.794, 4x Moeda do Éden",
         "es-ES": "[Planta Mágica II]\nMisión Exclusiva del Grupo del Edén\nUbicación: Planta Mágica II\nObjetivo: Derrota a 240 monstruos de la zona\n<TIPBOX>EP 17.2 El Legado del Sabio<INFO>7068</INFO></TIPBOX>^FF0000Se requiere completar la misión previa.^000000\nRecompensa: EXP Base 63975339, EXP Clase 44782794, Moneda del Edén x4"
     },
     "yJHVDQ": {

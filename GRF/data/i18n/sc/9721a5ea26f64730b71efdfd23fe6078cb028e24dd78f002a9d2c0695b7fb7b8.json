@@ -1,0 +1,287 @@
+{
+    "4KYVDg": {
+        "en-US": "A civilian passenger... I can't remember the last time we had one.",
+        "pt-BR": "Um passageiro civil... Já faz muito tempo desde a última vez.",
+        "es-ES": "Un pasajero civil... No recuerdo cuánto tiempo ha pasado desde la última vez."
+    },
+    "4aYVDg": {
+        "en-US": "..I've never seen a ticket like this before. I'll check it right away and be back shortly, so please wait a moment.",
+        "pt-BR": "Nunca vi uma passagem aérea desse tipo. Vou verificar rapidamente e já volto, então aguarde um momento.",
+        "es-ES": "..Es la primera vez que veo un boleto de este tipo. Iré a verificarlo enseguida, así que espera un momento."
+    },
+    "4qYVDg": {
+        "en-US": "[Airship Management Robot]\nAre you a passenger? I will check your seat class. Could you show me your ticket?",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nVocê está na lista de passageiros?\nVou verificar a classe do seu assento.\nPoderia me mostrar sua passagem aérea?",
+        "es-ES": "[Robot de Control de Aeronave]\n¿Es pasajero? Verificaré la clase de su asiento. ¿Podría mostrarme su boleto?"
+    },
+    "46YVDg": {
+        "en-US": "^0000FFChange Seat Class^000000",
+        "pt-BR": "^0000FFAlterar classe do assento^000000",
+        "es-ES": "^0000FFCambiar clase del asiento^000000"
+    },
+    "5KYVDg": {
+        "en-US": "Economy",
+        "pt-BR": "Econômica",
+        "es-ES": "Económica"
+    },
+    "5aYVDg": {
+        "en-US": "Business",
+        "pt-BR": "Executiva",
+        "es-ES": "Ejecutiva"
+    },
+    "5qYVDg": {
+        "en-US": "First Class",
+        "pt-BR": "Primeira Classe",
+        "es-ES": "Primera clase"
+    },
+    "56YVDg": {
+        "en-US": "-----------------\nCurrent Class - ^0000FF{0} ^000000",
+        "pt-BR": "-----------------\nClasse atual - ^0000FF{0} ^000000",
+        "es-ES": "-----------------\nClase actual - ^0000FF{0} ^000000"
+    },
+    "6KYVDg": {
+        "en-US": "Wait",
+        "pt-BR": "Aguardar um momento",
+        "es-ES": "Esperar un momento"
+    },
+    "6aYVDg": {
+        "en-US": "Show any random note",
+        "pt-BR": "Mostrar qualquer bilhete",
+        "es-ES": "Mostrar cualquier nota"
+    },
+    "6qYVDg": {
+        "en-US": "[Airship Management Robot]\nWe provide services according to your reserved class. Please keep this in mind when using our services.",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nOferecemos serviços de acordo com a classe reservada.\nTenha isso em mente ao utilizá-los.",
+        "es-ES": "[Robot de Control de Aeronave]\nOfrecemos servicios de acuerdo con la clase que reservó. Téngalo en cuenta al utilizar nuestros servicios."
+    },
+    "66YVDg": {
+        "en-US": "Economy",
+        "pt-BR": "Econômica",
+        "es-ES": "Económica"
+    },
+    "7KYVDg": {
+        "en-US": "Business",
+        "pt-BR": "Executiva",
+        "es-ES": "Ejecutiva"
+    },
+    "7aYVDg": {
+        "en-US": "First Class",
+        "pt-BR": "Primeira Classe",
+        "es-ES": "Primera clase"
+    },
+    "7qYVDg": {
+        "en-US": "[Airship Management Robot]",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]",
+        "es-ES": "[Robot de Control de Aeronave]"
+    },
+    "76YVDg": {
+        "en-US": "Services are provided according to the class of your reserved ticket. Would you like to upgrade your seat?\n--------------\nCurrent Class - ^0000FF{0} ^000000",
+        "pt-BR": "Oferecemos serviços de acordo com a classe da passagem aérea reservada.\nDeseja fazer um upgrade de assento?\n--------------\nClasse atual - ^0000FF{0} ^000000",
+        "es-ES": "Ofrecemos servicios según la clase del boleto que reservó. ¿Desea mejorar la clase de su asiento?\n--------------\nClase actual - ^0000FF{0} ^000000"
+    },
+    "8KYVDg": {
+        "en-US": "Never mind",
+        "pt-BR": "Desistir",
+        "es-ES": "Cancelar"
+    },
+    "8aYVDg": {
+        "en-US": "[Airship Management Robot]\nPlease take your time and make your choice.",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nPense com calma antes de escolher.",
+        "es-ES": "[Robot de Control de Aeronave]\nTómese su tiempo para pensarlo y elija."
+    },
+    "8qYVDg": {
+        "en-US": "[Airship Management Robot]\n^660000You don't wish to change your seat?^000000",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\n^660000Então você não deseja alterar o assento?^000000",
+        "es-ES": "[Robot de Control de Aeronave]\n^660000¿No desea cambiar de asiento?^000000"
+    },
+    "86YVDg": {
+        "en-US": "[Airship Management Robot]\nWould you like to change your seat to ^0000FF[{0}]^000000?",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nDeseja ajustar o assento para ^0000FF[{0}]^000000?",
+        "es-ES": "[Robot de Control de Aeronave]\n¿Desea cambiar su asiento a ^0000FF[{0}]^000000?"
+    },
+    "9KYVDg": {
+        "en-US": "Please change it.",
+        "pt-BR": "Por favor, altere.",
+        "es-ES": "Cámbielo, por favor."
+    },
+    "9aYVDg": {
+        "en-US": "[Airship Management Robot]\nThe seat upgrade process is complete. Now, would you please show me your ticket?",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nO procedimento de upgrade do assento foi concluído.\nEntão, poderia me mostrar sua passagem aérea?",
+        "es-ES": "[Robot de Control de Aeronave]\nSe completó el procedimiento de mejora de asiento. Entonces, ¿podría mostrarme su boleto?"
+    },
+    "9qYVDg": {
+        "en-US": "[Airship Management Robot]\nThis... looks somewhat different from our tickets. I will assist you again after completing the verification process. Please wait a moment.",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nIsto... parece um pouco diferente das passagens aéreas emitidas por nós.\nApós concluir o procedimento de verificação, darei mais orientações.\nAguarde um momento, por favor.",
+        "es-ES": "[Robot de Control de Aeronave]\nEsto... tiene un aspecto un poco distinto de nuestros boletos. Después de realizar el procedimiento de verificación, volveré a orientarlo. Espere un momento, por favor."
+    },
+    "96YVDg": {
+        "en-US": "[Airship Management Robot]\nIt seems you have more companions. Could you tell them to board quickly?",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nParece que há mais companheiros seus.\nPoderia avisá-los para embarcarem rapidamente?",
+        "es-ES": "[Robot de Control de Aeronave]\nParece que hay más compañeros suyos. ¿Podría decirles que aborden cuanto antes?"
+    },
+    "+KYVDg": {
+        "en-US": "[Airship Management Robot]\nI don't think you should be here. Please return to the passenger cabin.",
+        "pt-BR": "[Robô de Gerenciamento da Aeronave]\nParece que você não deveria estar aqui.\nPor favor, volte para a cabine de passageiros.",
+        "es-ES": "[Robot de Control de Aeronave]\nParece que no debería estar aquí. Regrese a la cabina, por favor."
+    },
+    "+aYVDg": {
+        "en-US": "Airship Management Robot: Passenger with a forged ticket detected aboard the airship! All crew robots, initiate the fare evasion response sequence.",
+        "pt-BR": "Robô de Gerenciamento da Aeronave: passageiro com passagem aérea falsificada detectado na aeronave! Todos os robôs de tripulação, iniciem a sequência de resposta a passageiros clandestinos.",
+        "es-ES": "Robot de Control de Aeronave: ¡Se detectó a un pasajero con boleto falsificado en la aeronave! Todos los robots de tripulación, inicien la secuencia de respuesta contra pasajeros sin boleto."
+    },
+    "+qYVDg": {
+        "en-US": "Airship Management Robot: The individual is posing as an Economy Class passenger. Response level is C grade.",
+        "pt-BR": "Robô de Gerenciamento da Aeronave: indivíduo está falsificando uma passagem de Classe Econômica. O nível de resposta é Classe C.",
+        "es-ES": "Robot de Control de Aeronave: Esta persona está falsificando un boleto de clase económica. El nivel de respuesta es de grado C."
+    },
+    "+6YVDg": {
+        "en-US": "Airship Management Robot: The individual is posing as a Business Class passenger. Response level is A grade.",
+        "pt-BR": "Robô de Gerenciamento da Aeronave: indivíduo está falsificando uma passagem de Classe Executiva. O nível de resposta é Classe A.",
+        "es-ES": "Robot de Control de Aeronave: Esta persona está falsificando un boleto de clase ejecutiva. El nivel de respuesta es de grado A."
+    },
+    "/KYVDg": {
+        "en-US": "Airship Management Robot: The individual is posing as a First Class passenger. Respond with the maximum available force.",
+        "pt-BR": "Robô de Gerenciamento da Aeronave: indivíduo está falsificando uma passagem de Primeira Classe. Respondam com o máximo de forças disponíveis.",
+        "es-ES": "Robot de Control de Aeronave: Esta persona está falsificando un boleto de primera clase. Respondan con el máximo número de efectivos disponibles."
+    },
+    "/aYVDg": {
+        "en-US": "Airship Management Robot: Looks like one of your companions ran away. Tell them to return here immediately.",
+        "pt-BR": "Robô de Gerenciamento da Aeronave: parece que algum companheiro seu fugiu, não é? Diga para voltar para cá imediatamente.",
+        "es-ES": "Robot de Control de Aeronave: Parece que uno de tus compañeros escapó, ¿eh? Dile que regrese aquí de inmediato."
+    },
+    "/qYVDg": {
+        "en-US": "Airship Management Robot: You should help your fallen companion back up, shouldn't you?",
+        "pt-BR": "Robô de Gerenciamento da Aeronave: você deveria levantar seu companheiro caído, não acha?",
+        "es-ES": "Robot de Control de Aeronave: Deberías ayudar a levantarse a tu compañero caído, ¿no crees?"
+    },
+    "/6YVDg": {
+        "en-US": "SYSTEM: Movement is prohibited while combat is taking place aboard the airship.",
+        "pt-BR": "SISTEMA: o deslocamento é proibido durante situações de combate a bordo",
+        "es-ES": "SISTEMA: El desplazamiento está prohibido mientras haya combate dentro de la aeronave."
+    },
+    "AKcVDg": {
+        "en-US": "???: Alert! Unauthorized entity infiltrating from outside the airship! Patrol units, concentrate your search on 2 Zone.",
+        "pt-BR": "???: Alerta! Presença não autorizada infiltrando-se pelo exterior da aeronave! Patrulhas, concentrem as buscas na Área 2.",
+        "es-ES": "???: ¡Alerta! ¡Una entidad no autorizada se infiltró desde el exterior de la aeronave! Patrullas, concentren la búsqueda en la zona 2."
+    },
+    "AacVDg": {
+        "en-US": "???: Attention, all patrol units. Search for and stop the intruders who entered the cargo hold and the onboard lounge. Repeating...",
+        "pt-BR": "???: Atenção, todas as patrulhas. Localizem e detenham os intrusos que entraram no compartimento de carga e na área de descanso da aeronave. Repetindo...",
+        "es-ES": "???: Aviso a todas las patrullas. Busquen y detengan a los intrusos que ingresaron en la bodega de carga y el área de descanso de la aeronave. Repito..."
+    },
+    "AqcVDg": {
+        "en-US": "???: The intruders who infiltrated the lounge are heading toward the engine room. Personnel searching the cargo hold, cease all searches and reinforce the engine room. Repeating...",
+        "pt-BR": "???: O intruso que se infiltrou na área de descanso está indo para a sala de máquinas. Equipes que estão vasculhando o compartimento de carga, interrompam todas as buscas e deem suporte à sala de máquinas. Repetindo...",
+        "es-ES": "???: Los intrusos que se infiltraron en el área de descanso se dirigen a la sala de máquinas. El personal que busca en la bodega de carga debe suspender toda búsqueda y apoyar la sala de máquinas. Repito..."
+    },
+    "A6cVDg": {
+        "en-US": "???: Eliminate all intruders inside the engine room. They must never be allowed to approach the core. Repeating...",
+        "pt-BR": "???: Eliminem todos os intrusos que se infiltraram na sala de máquinas. Não permitam, em hipótese alguma, que se aproximem do núcleo. Repetindo...",
+        "es-ES": "???: Eliminen a todos los intrusos que se infiltraron en la sala de máquinas. Deben impedir a toda costa que se acerquen al núcleo. Repito..."
+    },
+    "BKcVDg": {
+        "en-US": "{0} Zone entry complete",
+        "pt-BR": "Entrada na área {0} concluída",
+        "es-ES": "Entrada a la zona {0} completada"
+    },
+    "BacVDg": {
+        "en-US": "{0} Zone Patrol#{1}",
+        "pt-BR": "Patrulha da área {0}#{1}",
+        "es-ES": "Patrulla de la zona {0}#{1}"
+    },
+    "BqcVDg": {
+        "en-US": "{0} Zone Inspector#{1}",
+        "pt-BR": "Inspeção da área {0}#{1}",
+        "es-ES": "Inspección de la zona {0}#{1}"
+    },
+    "B6cVDg": {
+        "en-US": "{0}/{1} LV-{2} Range-{3} ATK-{4} EXP- {5} JEXP- {6} Defense-{7} {8} {9}",
+        "pt-BR": "{0}/{1} LV-{2} Variação-{3} ATQ-{4} EXP- {5} EXP.C.- {6} Defesa-{7} {8} {9}",
+        "es-ES": "{0}/{1} LV-{2} Variación-{3} ATQ-{4} EXP- {5} EXP.C.- {6} Defensa-{7} {8} {9}"
+    },
+    "CKcVDg": {
+        "en-US": "{0}.{1}",
+        "pt-BR": "{0}.{1}",
+        "es-ES": "{0}.{1}"
+    },
+    "CacVDg": {
+        "en-US": "???:Put in a little more effort, you small and pitiful patrol units. Your fate is bound to this airship. If this unit is destroyed, you will not remain unharmed either.",
+        "pt-BR": "???: Façam um pouco mais de esforço, pequenas e lamentáveis patrulhas. O destino de vocês está ligado a esta aeronave. Se esta unidade for destruída, vocês também não sairão ilesos.",
+        "es-ES": "???: Esfuércense un poco más, pequeñas y lamentables patrullas. Su destino está ligado a esta aeronave. Si esta unidad es destruida, ustedes tampoco saldrán ilesos."
+    },
+    "CqcVDg": {
+        "en-US": "???:Be grateful that this unit has not learned the emotion called anger, patrol units. If it had learned that emotion, you would have been reduced to dust together with this airship by now.",
+        "pt-BR": "???: Agradeçam por esta unidade ainda não ter aprendido a emoção chamada raiva, patrulhas. Se tivesse aprendido essa emoção, vocês já teriam virado pó junto com esta aeronave.",
+        "es-ES": "???: Agradezcan que esta unidad no haya aprendido la emoción llamada ira, patrullas. Si la hubiera aprendido, ahora mismo ustedes y esta aeronave habrían quedado reducidos a polvo."
+    },
+    "C6cVDg": {
+        "en-US": "???:According to this unit's calculations, the patrol units assigned to this airship, 90% are estimated to be useless combat forces. Once this incident is over, appropriate reassignment will take place.",
+        "pt-BR": "???: Segundo os cálculos desta unidade, estima-se que 90% das patrulhas posicionadas nesta aeronave sejam forças inúteis. Após o fim desta situação, haverá uma redistribuição adequada.",
+        "es-ES": "???: Según los cálculos de esta unidad, el 90% de las patrullas desplegadas en esta aeronave constituyen una fuerza inútil. Cuando esta situación termine, se realizará una reasignación apropiada."
+    },
+    "DKcVDg": {
+        "en-US": "???:This unit records in its learning statistics that having a sturdy airship is of no use, and that securing combat-oriented patrol units armed with powerful heat weapons improves the probability of survival.",
+        "pt-BR": "???: Registrando nas estatísticas de aprendizado que a resistência da aeronave não serve para nada e que priorizar patrulhas voltadas ao poder de combate, armadas com poderosas armas térmicas, aumenta a probabilidade de sobrevivência.",
+        "es-ES": "???: Se registra en las estadísticas de aprendizaje que la resistencia de la aeronave no sirve de nada y que asegurar patrullas orientadas al combate, equipadas con potentes armas térmicas, aumenta la probabilidad de supervivencia."
+    },
+    "DacVDg": {
+        "en-US": "???:This unit will destroy the engine room entrance on the right side of the crew lounge. Hopefully, no foolish patrol unit will repair it again.",
+        "pt-BR": "???: Destruindo a entrada da sala de máquinas à direita da área de descanso da tripulação. Espero que nenhuma patrulha idiota tente repará-la novamente.",
+        "es-ES": "???: Se destruirá la entrada derecha a la sala de máquinas desde el área de descanso de la tripulación. Espero que ninguna patrulla estúpida vuelva a repararla."
+    },
+    "DqcVDg": {
+        "en-US": "???:Average survival time per unit: {0} seconds. Impressive. Even when this unit disassembled patrol units' nuts and bolts for maintenance, it took longer than that. Are you actually attempting to defend this airship?",
+        "pt-BR": "???: Tempo médio de sobrevivência por unidade: {0} segundos. Impressionante. Esta unidade leva mais tempo desmontando as porcas e os parafusos das patrulhas durante a manutenção. Vocês realmente estão tentando se defender?",
+        "es-ES": "???: Tiempo promedio de supervivencia por unidad: {0} segundos. Impresionante. Incluso esta unidad tardaba más al desmontar las tuercas y los pernos de las patrullas para realizar mantenimiento. ¿De verdad están llevando a cabo acciones defensivas?"
+    },
+    "D6cVDg": {
+        "en-US": "???:It would be best to ignore the life signs in the cargo hold. They are not estimated to pose a significant combat threat. Everyone, attack the external organisms heading toward the engine room.",
+        "pt-BR": "???: Será melhor ignorar os sinais vitais no compartimento de carga. Estima-se que não representem uma grande força de combate. Todos ataquem os organismos externos que estão indo para a sala de máquinas.",
+        "es-ES": "???: Será mejor ignorar las señales de vida en la bodega de carga. Se estima que no representan una fuerza de combate importante. Ataquen todos a los organismos externos que se dirigen a la sala de máquinas."
+    },
+    "EKcVDg": {
+        "en-US": "???:All patrol forces, block every route leading to the engine room. Effective immediately, abandon the defense of all other areas. Repeating. Block every route leading to the engine room.",
+        "pt-BR": "???: As forças de patrulha devem bloquear todas as rotas para a sala de máquinas. A partir deste momento, abandonaremos a defesa das demais áreas. Repetindo. Bloqueiem todas as rotas para a sala de máquinas.",
+        "es-ES": "???: Las fuerzas de patrulla deben bloquear todas las rutas hacia la sala de máquinas. A partir de este momento, se abandona la defensa de las demás zonas. Repito. Bloqueen todas las rutas hacia la sala de máquinas."
+    },
+    "EacVDg": {
+        "en-US": "???:If you turn back now, this unit will not take your lives, external organisms. Please make a wise choice.",
+        "pt-BR": "???: Se voltarem agora, não tiraremos a vida de vocês, organismos externos. Façam uma escolha sensata.",
+        "es-ES": "???: Si regresan ahora, organismos externos, no les quitaremos la vida. Les recomiendo tomar una decisión sensata."
+    },
+    "EqcVDg": {
+        "en-US": "???:What did you do before entering this airship, external organism? You seem accustomed to destroying patrol units. Did you spend your life collecting scrap metal in the Einbech Mine?",
+        "pt-BR": "???: O que você fazia antes de entrar nesta aeronave, organismo externo? Parece acostumado a destruir patrulhas. Vivia coletando sucata nas Minas de Einbech?",
+        "es-ES": "???: ¿A qué se dedicaba antes de entrar en esta aeronave, organismo externo? Parece tener experiencia destruyendo patrullas. ¿Acaso llevaba una vida recolectando chatarra en las Minas de Einbech?"
+    },
+    "E6cVDg": {
+        "en-US": "???:How about we have a peaceful conversation, external organism? Violence will not help resolve this situation.",
+        "pt-BR": "???: Que tal termos uma conversa pacífica, organismo externo? A violência não ajudará a resolver esta situação.",
+        "es-ES": "???: ¿Qué le parece si tenemos una conversación pacífica, organismo externo? La violencia no ayuda a resolver esta situación."
+    },
+    "FKcVDg": {
+        "en-US": "???:Do not advance any farther. This unit does not wish to become hostile toward the external organism.",
+        "pt-BR": "???: Não avance mais. Esta unidade não deseja se tornar hostil ao organismo externo.",
+        "es-ES": "???: No avance más. Esta unidad no desea entrar en conflicto con el organismo externo."
+    },
+    "FacVDg": {
+        "en-US": "???:Attention, external organism. Approaching the core in the engine room is absolutely inadvisable. This unit recommends that you withdraw immediately, even now.",
+        "pt-BR": "???: Atenção, organismo externo. Aproximar-se do núcleo na sala de máquinas não é, de forma alguma, uma atitude recomendável. Recomendamos que recue imediatamente, enquanto ainda há tempo.",
+        "es-ES": "???: Aviso al organismo externo. Acercarse al núcleo de la sala de máquinas no es en absoluto una acción recomendable. Se recomienda retirarse de inmediato."
+    },
+    "FqcVDg": {
+        "en-US": "???:Do you intend to keep advancing? If you do not stop, this side will have no choice but to respond with force.",
+        "pt-BR": "???: Pretende continuar avançando? Se não parar, também não teremos outra escolha a não ser responder com força.",
+        "es-ES": "???: ¿Piensa seguir avanzando? Si no se detiene, no tendremos más opción que responder por la fuerza."
+    },
+    "F6cVDg": {
+        "en-US": "SYSTEM : Patrol units remaining in the area: {0}. Defense will be difficult at this rate. Reinforcements are required.",
+        "pt-BR": "SISTEMA : Patrulhas restantes na área: {0} unidades. Nesse ritmo, será difícil manter a defesa. Reforços são necessários.",
+        "es-ES": "SISTEMA : Patrullas restantes en la zona: {0} unidades. Será difícil mantener la defensa así. Se necesitan refuerzos."
+    },
+    "GKcVDg": {
+        "en-US": "???: Wiped out by intruders like those? What useless patrol units.",
+        "pt-BR": "???: As patrulhas foram completamente destruídas por intrusos como aqueles... inúteis.",
+        "es-ES": "???: Que hayan sido aniquiladas por esos intrusos... Qué patrullas tan inútiles."
+    }
+}

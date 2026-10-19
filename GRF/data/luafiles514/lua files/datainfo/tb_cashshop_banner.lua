@@ -1,38 +1,42 @@
 tb_cashshop_banner = {
 	[1] = {
 		"00_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/event/93?type=ACTIVE"
+		"https://ro.gnjoyamericas.com/pt/news/event/98?type=ACTIVE"
 	},
 	[2] = {
 		"01_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/event/oct26roulette"
+		"https://ro.gnjoyamericas.com/pt/event/october26roulette"
 	},
 	[3] = {
 		"02_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/event/94?type=ACTIVE"
+		"https://ro.gnjoyamericas.com/pt/news/event/97?type=ACTIVE"
 	},
 	[4] = {
 		"03_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/notice/432"
+		"https://ro.gnjoyamericas.com/pt/news/event/94?type=ACTIVE"
 	},
 	[5] = {
 		"04_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/notice/434"
+		"https://ro.gnjoyamericas.com/pt/news/notice/432"
 	},
 	[6] = {
 		"05_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/notice/433"
+		"https://ro.gnjoyamericas.com/pt/news/notice/434"
 	},
 	[7] = {
 		"06_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/event/95?type=ACTIVE"
+		"https://ro.gnjoyamericas.com/pt/news/notice/433"
 	},
 	[8] = {
 		"07_Cashshop_Banner.bmp",
-		"https://ro.gnjoyamericas.com/pt/news/event/92?type=ACTIVE"
+		"https://ro.gnjoyamericas.com/pt/news/event/95?type=ACTIVE"
 	},
 	[9] = {
 		"08_Cashshop_Banner.bmp",
+		"https://ro.gnjoyamericas.com/pt/news/event/92?type=ACTIVE"
+	},
+	[10] = {
+		"09_Cashshop_Banner.bmp",
 		"https://ro.gnjoyamericas.com/pt/news/notice/364"
 	}
 }

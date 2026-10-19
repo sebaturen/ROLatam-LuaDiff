@@ -1,0 +1,37 @@
+{
+    "gMP+DQ": {
+        "en-US": "[Iwin Search Party]\nAdventurer! Are you entering now?\nOnce you begin the search operation, you'll need to give it everything you've got. Things over there are somewhat chaotic.",
+        "pt-BR": "[Equipe de Busca de Arwin]\nAventureiro! Vai entrar agora?\nSe iniciar a operação de busca agora, terá que dar tudo de si. A situação do outro lado está um pouco caótica.",
+        "es-ES": "[Equipo de búsqueda de Awin]\n¡Aventurero! ¿Va a entrar ahora?\nSi inicia la operación de búsqueda ahora, tendrá que darlo todo. La situación del otro lado está algo caótica."
+    },
+    "gcP+DQ": {
+        "en-US": "^FF0000※ Once you begin the search operation, you will not be able to enter the existing Warmth of the Serpent God 2F map until the operation is complete.^000000",
+        "pt-BR": "^FF0000※ Ao iniciar a operação de busca, você não poderá entrar no mapa existente do 2º andar do Calor do Deus Serpente até o fim da operação.^000000",
+        "es-ES": "^FF0000※ Una vez que inicie la operación de búsqueda, no podrá entrar al mapa del 2.º piso del Calor del Dios Serpiente hasta que termine la operación.^000000"
+    },
+    "gsP+DQ": {
+        "en-US": "Enter now.",
+        "pt-BR": "Entrar agora.",
+        "es-ES": "Entrar ahora."
+    },
+    "g8P+DQ": {
+        "en-US": "I need time to prepare.",
+        "pt-BR": "Preciso de tempo para me preparar.",
+        "es-ES": "Necesito tiempo para prepararme."
+    },
+    "hMP+DQ": {
+        "en-US": "[Iwin Search Party]\nGood luck!",
+        "pt-BR": "[Equipe de Busca de Arwin]\nBoa sorte!",
+        "es-ES": "[Equipo de búsqueda de Awin]\n¡Le deseamos buena suerte!"
+    },
+    "hcP+DQ": {
+        "en-US": "[Iwin Search Party]\nUnderstood. Then make sure you're fully prepared before entering!",
+        "pt-BR": "[Equipe de Busca de Arwin]\nCerto. Então prepare-se bem antes de entrar!",
+        "es-ES": "[Equipo de búsqueda de Awin]\nSí. ¡Entonces prepárese bien antes de entrar!"
+    },
+    "hsP+DQ": {
+        "en-US": "Iwin Search Party",
+        "pt-BR": "Equipe de Busca de Arwin",
+        "es-ES": "Equipo de búsqueda de Awin"
+    }
+}

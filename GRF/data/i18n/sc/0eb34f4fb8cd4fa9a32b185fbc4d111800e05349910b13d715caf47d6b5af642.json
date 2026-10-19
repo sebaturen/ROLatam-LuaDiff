@@ -1,0 +1,92 @@
+{
+    "ILQYDg": {
+        "en-US": "^FF0000It seems you are carrying too many types of items or too much weight. Please organize your inventory.^000000",
+        "pt-BR": "^FF0000Parece que você está carregando tipos demais de itens ou peso em excesso. Organize seu inventário.^000000",
+        "es-ES": "^FF0000Parece que tiene demasiados tipos de objetos o demasiado peso. Organice su inventario.^000000"
+    },
+    "IbQYDg": {
+        "en-US": "^FF0000You already have too many reward items. Please clear out the reward items and try again.^000000",
+        "pt-BR": "^FF0000Você já possui itens de recompensa em excesso. Libere espaço para os itens de recompensa e tente novamente.^000000",
+        "es-ES": "^FF0000Ya tiene demasiados objetos de recompensa. Libere espacio para los objetos de recompensa y vuelva a intentarlo.^000000"
+    },
+    "IrQYDg": {
+        "en-US": "24.5.9 - Ep19_Snow_Flower / Snow_F_Ore Filter\n220708 - Bomb Fix",
+        "pt-BR": "24.5.9 - Filtro Ep19_Snow_Flower / Snow_F_Ore\n220708 - Ajuste da bomba",
+        "es-ES": "24.5.9 - Filtro Ep19_Snow_Flower / Snow_F_Ore\n220708 - Modificación de bombas"
+    },
+    "I7QYDg": {
+        "en-US": "^0000FFWhen the airship's core entered Sleep Mode, the exit leading outside was activated.^000000",
+        "pt-BR": "^0000FFQuando o núcleo da aeronave entrou no modo de repouso, a saída para o exterior foi ativada.^000000",
+        "es-ES": "^0000FFCuando el núcleo de la aeronave entró en modo de suspensión, se activó la salida al exterior.^000000"
+    },
+    "JLQYDg": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "JbQYDg": {
+        "en-US": "Exit",
+        "pt-BR": "Sair",
+        "es-ES": "Salir"
+    },
+    "JrQYDg": {
+        "en-US": "^0000FFYou participated in the battle, but did not contribute to defeating the boss. Let's try again next time.^000000",
+        "pt-BR": "^0000FFVocê participou da batalha, mas não contribuiu para derrotar o chefe. Vamos tentar novamente na próxima oportunidade.^000000",
+        "es-ES": "^0000FFParticipó en el combate, pero no contribuyó a derrotar al jefe. Intentémoslo de nuevo en otra ocasión.^000000"
+    },
+    "J7QYDg": {
+        "en-US": "Snow Flower Petal",
+        "pt-BR": "Pétala de Flor de Neve",
+        "es-ES": "Pétalo de Copo de Nieve"
+    },
+    "KLQYDg": {
+        "en-US": "Snow Flower Magic Ore",
+        "pt-BR": "Minério de Pedra Mágica de Flor de Neve",
+        "es-ES": "Mineral de Piedra Mágica de Copo de Nieve"
+    },
+    "KbQYDg": {
+        "en-US": "======== Rewards ========\n<ITEM>[{0}]<INFO>1000608</INFO></ITEM> {1} pcs.\n<ITEM>[{2}]<INFO>1000811</INFO></ITEM> {3} pcs.\nYou gained EXP and Job EXP.",
+        "pt-BR": "======== Recompensa ========\n<ITEM>[{0}]<INFO>1000608</INFO></ITEM> {1} unidades\n<ITEM>[{2}]<INFO>1000811</INFO></ITEM> {3} unidades\nVocê recebeu EXP e EXP de Classe.",
+        "es-ES": "======== Recompensa ========\n<ITEM>[{0}]<INFO>1000608</INFO></ITEM> {1} unidades\n<ITEM>[{2}]<INFO>1000811</INFO></ITEM> {3} unidades\nObtuvo EXP y EXP de clase."
+    },
+    "KrQYDg": {
+        "en-US": "======================\nDue to your close relationship with the Ice Castle, you additionally received <ITEM>[{0}]<INFO>1000608</INFO></ITEM> {1} pcs.",
+        "pt-BR": "======================\nDevido à relação próxima com o Castelo de Gelo, você recebeu adicionalmente <ITEM>[{0}]<INFO>1000608</INFO></ITEM> {1} unidades.",
+        "es-ES": "======================\nDebido a su estrecha relación con el Castillo de Hielo, obtuvo <ITEM>[{0}]<INFO>1000608</INFO></ITEM> adicionalmente {1} unidades."
+    },
+    "K7QYDg": {
+        "en-US": "^0000FFYour affinity with the Ice Castle increased by {0} points.^000000",
+        "pt-BR": "^0000FFA afinidade com o Castelo de Gelo aumentou em {0} pontos.^000000",
+        "es-ES": "^0000FFLa afinidad con el Castillo de Hielo aumentó {0} puntos.^000000"
+    },
+    "LLQYDg": {
+        "en-US": "If cleaning robots become too concentrated, press this button to send a dispatch signal to another area.",
+        "pt-BR": "Se houver uma grande concentração de robôs de limpeza, pressione este botão para enviar um sinal de despacho para outra área",
+        "es-ES": "Si hay una alta concentración de robots de limpieza, presione este botón para enviar una señal de despliegue a otra zona."
+    },
+    "LbQYDg": {
+        "en-US": "Broken Cleaning Robot#",
+        "pt-BR": "Robô de limpeza avariado#",
+        "es-ES": "Robot de limpieza averiado#"
+    },
+    "LrQYDg": {
+        "en-US": "Unauthorized intruder detected in the Core Control Room. Cleaning robots, initiate the cleaning procedure immediately.",
+        "pt-BR": "Intruso não autorizado detectado na sala de gerenciamento do núcleo. Robôs de limpeza, iniciem imediatamente o procedimento de limpeza",
+        "es-ES": "Intruso no autorizado en la sala de control del núcleo. Robots de limpieza, inicien de inmediato el procedimiento de limpieza."
+    },
+    "L7QYDg": {
+        "en-US": "Robots that have completed area deployment, please begin self-cleaning in order.",
+        "pt-BR": "Os robôs que concluíram a distribuição pelas áreas devem iniciar, em ordem, o processo de autolimpeza.",
+        "es-ES": "Los robots que hayan completado su asignación de zona deberán iniciar, en orden, el proceso de autolimpieza."
+    },
+    "MLQYDg": {
+        "en-US": "Execute Purification Sequence",
+        "pt-BR": "Executar sequência de limpeza",
+        "es-ES": "Ejecutar secuencia de limpieza"
+    },
+    "MbQYDg": {
+        "en-US": "Purify the contaminants!!",
+        "pt-BR": "Purificar os contaminantes!!",
+        "es-ES": "¡¡Purificar los contaminantes!!"
+    }
+}

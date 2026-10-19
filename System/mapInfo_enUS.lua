@@ -333,6 +333,24 @@ mapTbl_string = {
 			mainTitle = "Infinite Space"
 		}
 	},
+	["1@iwp.rsw"] = {
+		displayName = "Frozen Scale Hill",
+		signName = {
+			mainTitle = "Frozen Scale Hill"
+		}
+	},
+	["1@jorchs.rsw"] = {
+		displayName = "Chaotic Snake's Nest",
+		signName = {
+			mainTitle = "Chaotic Snake's Nest"
+		}
+	},
+	["1@jorlab.rsw"] = {
+		displayName = "Bagot's Laboratory",
+		signName = {
+			mainTitle = "Bagot's Laboratory"
+		}
+	},
 	["1@jtb.rsw"] = {
 		displayName = "Dreams and Shadows",
 		signName = {
@@ -605,6 +623,13 @@ mapTbl_string = {
 			subTitle = "VR Books - Sonic"
 		}
 	},
+	["1@whl.rsw"] = {
+		displayName = "Inside Airship Vile No. 1",
+		signName = {
+			mainTitle = "Inside Airship Vile No. 1",
+			subTitle = "Varmundt's Airship Collection No. 3"
+		}
+	},
 	["1@xm_d.rsw"] = {
 		displayName = "Horror Toy Factory",
 		signName = {
@@ -834,6 +859,12 @@ mapTbl_string = {
 		signName = {
 			mainTitle = "Hugel Abyss Lake Underground Cave Floor 4",
 			subTitle = "Abyss Lake, Hugel"
+		}
+	},
+	["air_if.rsw"] = {
+		displayName = "Inside Airship Ipho",
+		signName = {
+			mainTitle = "Inside Airship Ipho"
 		}
 	},
 	["airplane.rsw"] = {
@@ -2376,6 +2407,12 @@ mapTbl_string = {
 	["hunter_3-1.rsw"] = {
 		displayName = "Hunter Job Change Center"
 	},
+	["icas_in.rsw"] = {
+		displayName = "Inside the Ice Castle",
+		signName = {
+			mainTitle = "Inside the Ice Castle"
+		}
+	},
 	["ice_d03_i.rsw"] = {
 		displayName = "Frozen Memory",
 		signName = {
@@ -2406,6 +2443,10 @@ mapTbl_string = {
 		signName = {
 			mainTitle = "Rachel Ice Cave, Sealed Space"
 		}
+	},
+	["icecastle.rsw"] = {
+		displayName = "Issgard Ice Castle",
+		signName = {mainTitle = "Ice Castle", subTitle = "Issgard"}
 	},
 	["in_hunter.rsw"] = {
 		displayName = "Hunter Guild",
@@ -2793,6 +2834,73 @@ mapTbl_string = {
 	},
 	["job_wiz.rsw"] = {
 		displayName = "Wizard Job Change Test Hall"
+	},
+	["jor_ab01.rsw"] = {
+		displayName = "Abandoned Pit 1F",
+		signName = {
+			mainTitle = "Abandoned Pit 1F"
+		}
+	},
+	["jor_ab02.rsw"] = {
+		displayName = "Abandoned Pit 2F",
+		signName = {
+			mainTitle = "Abandoned Pit 2F"
+		}
+	},
+	["jor_back1.rsw"] = {
+		displayName = "Frozen Scale Hill",
+		signName = {
+			mainTitle = "Frozen Scale Hill"
+		}
+	},
+	["jor_back2.rsw"] = {
+		displayName = "Frozen Scale Plains",
+		signName = {
+			mainTitle = "Frozen Scale Plains"
+		}
+	},
+	["jor_back3.rsw"] = {
+		displayName = "Frozen Scale Glacier",
+		signName = {
+			mainTitle = "Frozen Scale Glacier"
+		}
+	},
+	["jor_dun01.rsw"] = {
+		displayName = "Snake God's Warmth 1F",
+		signName = {
+			mainTitle = "Snake God's Warmth 1F"
+		}
+	},
+	["jor_dun02.rsw"] = {
+		displayName = "Snake God's Warmth 2F",
+		signName = {
+			mainTitle = "Snake God's Warmth 2F"
+		}
+	},
+	["jor_dun03.rsw"] = {
+		displayName = "Inside the Snake's Nest",
+		signName = {
+			mainTitle = "Inside the Snake's Nest"
+		}
+	},
+	["jor_nest.rsw"] = {
+		displayName = "Snake's Nest",
+		signName = {
+			mainTitle = "Snake's Nest",
+			subTitle = "Rgan Hideout"
+		}
+	},
+	["jor_que.rsw"] = {
+		displayName = "Abandoned Snake God's Warmth",
+		signName = {
+			mainTitle = "Abandoned Snake God's Warmth"
+		}
+	},
+	["jor_tail.rsw"] = {
+		displayName = "Frozen Tail",
+		signName = {
+			mainTitle = "Frozen Tail"
+		}
 	},
 	["jupe_area1.rsw"] = {
 		displayName = "Juperos Restricted Zone",
@@ -5790,7 +5898,7 @@ mapTbl_string = {
 	["um_fild04.rsw"] = {
 		displayName = "Hoomga Jungle in Umbala",
 		signName = {
-			mainTitle = "Hoomga Forest",
+			mainTitle = "Hoomga Jungle",
 			subTitle = "Umbala"
 		}
 	},

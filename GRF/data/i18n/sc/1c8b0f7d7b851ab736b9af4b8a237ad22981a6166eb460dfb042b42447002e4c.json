@@ -1,0 +1,1142 @@
+{
+    "YCL3DQ": {
+        "en-US": "[TEST]{0}Group 1 movement start",
+        "pt-BR": "[TEST]{0}Início do deslocamento do grupo 1",
+        "es-ES": "[TEST]{0}Inicio del movimiento del grupo 1"
+    },
+    "YSL3DQ": {
+        "en-US": "Morurang: Corporal Morurang! Patrol Captain Horyoryo, reporting for duty.",
+        "pt-BR": "Morurang: Cabo Morurang! Capitão da Patrulha Hororyo, estamos saindo para o serviço.",
+        "es-ES": "Morurang: ¡Cabo Morurang! Capitán de patrulla Hororyo, salgo a cumplir mi turno."
+    },
+    "YiL3DQ": {
+        "en-US": "Morurang: Recruit!",
+        "pt-BR": "Morurang: Recruta!",
+        "es-ES": "Morurang: ¡Recluta!"
+    },
+    "YyL3DQ": {
+        "en-US": "Borira: Recruit Borira! Yes, Corporal Morurang.",
+        "pt-BR": "Borira: Recruta Borira! Sim, cabo Morurang!",
+        "es-ES": "Borira: ¡Recluta Borira! Sí, cabo Morurang."
+    },
+    "ZCL3DQ": {
+        "en-US": "Morurang: The wind gets pretty strong from here on, so keep your feathers tucked in tight.",
+        "pt-BR": "Morurang: Daqui em diante o vento sopra forte, então mantenha suas penas bem fechadas.",
+        "es-ES": "Morurang: Desde aquí sopla bastante viento, así que asegúrate bien las plumas."
+    },
+    "ZSL3DQ": {
+        "en-US": "Borira: Yes, understood.",
+        "pt-BR": "Borira: Sim, entendido.",
+        "es-ES": "Borira: Sí, entendido."
+    },
+    "ZiL3DQ": {
+        "en-US": "Morurang: You guys too..",
+        "pt-BR": "Morurang: Vocês também..",
+        "es-ES": "Morurang: Ustedes también..."
+    },
+    "ZyL3DQ": {
+        "en-US": "Rorur: Yes! Corporal Morurang",
+        "pt-BR": "Rorur: Sim! Cabo Morurang!",
+        "es-ES": "Rorur: ¡Sí! Cabo Morurang."
+    },
+    "aCL3DQ": {
+        "en-US": "Horiryu: Yes! Corporal Morurang",
+        "pt-BR": "Horiryu: Sim! Cabo Morurang!",
+        "es-ES": "Horiryu: ¡Sí! Cabo Morurang."
+    },
+    "aSL3DQ": {
+        "en-US": "Morurang: There are sharp patches of ice here and there, so be careful.",
+        "pt-BR": "Morurang: Há gelo afiado em vários pontos, então tomem cuidado.",
+        "es-ES": "Morurang: Hay hielo afilado por varias partes, así que tengan cuidado."
+    },
+    "aiL3DQ": {
+        "en-US": "Morurang: If the ice scratches you, you'll lose clumps of feathers at a time..",
+        "pt-BR": "Morurang: Se o gelo raspar em vocês, vão perder tufos inteiros de penas..",
+        "es-ES": "Morurang: Si el hielo los rasguña, se les caerán mechones enteros de pelo..."
+    },
+    "ayL3DQ": {
+        "en-US": "Borira: Yes!",
+        "pt-BR": "Borira: Sim!",
+        "es-ES": "Borira: ¡Sí!"
+    },
+    "bCL3DQ": {
+        "en-US": "Rorur: Yes!",
+        "pt-BR": "Rorur: Sim!",
+        "es-ES": "Rorur: ¡Sí!"
+    },
+    "bSL3DQ": {
+        "en-US": "Horiryu: Yes!",
+        "pt-BR": "Horiryu: Sim!",
+        "es-ES": "Horiryu: ¡Sí!"
+    },
+    "biL3DQ": {
+        "en-US": "Morurang: When passing under large rocks, keep a close eye overhead.",
+        "pt-BR": "Morurang: Ao passar por baixo de pedras grandes, prestem bastante atenção acima da cabeça.",
+        "es-ES": "Morurang: Cuando pasen por debajo de rocas grandes, vigilen bien sobre sus cabezas."
+    },
+    "byL3DQ": {
+        "en-US": "Morurang: Sometimes frozen icicles under the rocks fall down. It'd hurt if one hit you, right?",
+        "pt-BR": "Morurang: Às vezes, os pingentes de gelo congelados sob as pedras caem. Deve doer se acertar alguém, não é?",
+        "es-ES": "Morurang: A veces caen carámbanos que estaban congelados debajo de las rocas. Si les caen encima, dolerá, ¿verdad?"
+    },
+    "cCL3DQ": {
+        "en-US": "Morurang: Let's be careful. Getting hurt won't do us any good.",
+        "pt-BR": "Morurang: Então vamos tomar cuidado. Se alguém se machucar, só vai sair perdendo.",
+        "es-ES": "Morurang: Tengamos cuidado. Si nos lastimamos, salimos perdiendo."
+    },
+    "cSL3DQ": {
+        "en-US": "Morurang: We're going across an ice bridge. It'd be dangerous if you slipped and fell, so watch your footing.",
+        "pt-BR": "Morurang: Vamos atravessar uma ponte de gelo. É perigoso escorregar e cair, então prestem atenção onde pisam.",
+        "es-ES": "Morurang: Vamos a cruzar un puente de hielo. Es peligroso resbalarse y caer, así que vigilen bien dónde pisan."
+    },
+    "ciL3DQ": {
+        "en-US": "Morurang: Watch!",
+        "pt-BR": "Morurang: Pés!",
+        "es-ES": "Morurang: ¡Los!"
+    },
+    "cyL3DQ": {
+        "en-US": "Borira: Your!",
+        "pt-BR": "Borira: No!",
+        "es-ES": "Borira: ¡Pies!"
+    },
+    "dCL3DQ": {
+        "en-US": "Rorur: Step!",
+        "pt-BR": "Rorur: Chão!",
+        "es-ES": "Rorur: ¡Con!"
+    },
+    "dSL3DQ": {
+        "en-US": "Horiryu: Carefully!",
+        "pt-BR": "Horiryu: Cuidado!",
+        "es-ES": "Horiryu: ¡Cuidado!"
+    },
+    "diL3DQ": {
+        "en-US": "Morurang: Watch overhead!",
+        "pt-BR": "Morurang: Cuidado acima da cabeça!",
+        "es-ES": "Morurang: ¡Cuidado arriba!"
+    },
+    "dyL3DQ": {
+        "en-US": "Borira: Watch overhead!",
+        "pt-BR": "Borira: Cuidado acima da cabeça!",
+        "es-ES": "Borira: ¡Cuidado arriba!"
+    },
+    "eCL3DQ": {
+        "en-US": "Rorur: Watch overhead!",
+        "pt-BR": "Rorur: Cuidado acima da cabeça!",
+        "es-ES": "Rorur: ¡Cuidado arriba!"
+    },
+    "eSL3DQ": {
+        "en-US": "Horiryu: Watch overhead!",
+        "pt-BR": "Horiryu: Cuidado acima da cabeça!",
+        "es-ES": "Horiryu: ¡Cuidado arriba!"
+    },
+    "eiL3DQ": {
+        "en-US": "Morurang: Do you know why this place is called Frozen Scale Hill?",
+        "pt-BR": "Morurang: Sabe por que este lugar é chamado de Colina de Escamas Congeladas?",
+        "es-ES": "Morurang: ¿Saben por qué este lugar se llama Colina de Escamas Congeladas?"
+    },
+    "eyL3DQ": {
+        "en-US": "Morurang: It's because of ground like this! It looks just like scales, doesn't it?",
+        "pt-BR": "Morurang: É justamente por causa deste chão! Só de olhar, parece uma escama, não é?",
+        "es-ES": "Morurang: ¡Por este suelo! A simple vista parece cubierto de escamas, ¿verdad?"
+    },
+    "fCL3DQ": {
+        "en-US": "Morurang: They say it's because these scales are evidence of Jormungand..",
+        "pt-BR": "Morurang: Dizem que é porque essas escamas são uma prova da existência de Jormungand..",
+        "es-ES": "Morurang: Dicen que es porque estas escamas son prueba de la existencia de Jormungand..."
+    },
+    "fSL3DQ": {
+        "en-US": "Morurang: That's all. I don't know much more than that either, so just take it as it is.",
+        "pt-BR": "Morurang: É só isso. Eu também não sei mais do que isso, então apenas aceite como é.",
+        "es-ES": "Morurang: Eso es todo. Yo tampoco sé mucho más, así que déjenlo así."
+    },
+    "fiL3DQ": {
+        "en-US": "Morurang: We're almost there. Keep it up!",
+        "pt-BR": "Morurang: Falta pouco. Vamos em frente!",
+        "es-ES": "Morurang: ¡Ya falta poco, ánimo!"
+    },
+    "fyL3DQ": {
+        "en-US": "Horiryu: Eagle Patrol, let's do this!",
+        "pt-BR": "Horiryu: Força, Patrulha da Águia!",
+        "es-ES": "Horiryu: ¡Águilas de Patrulla, ánimo!"
+    },
+    "gCL3DQ": {
+        "en-US": "Borira: Let's do this!",
+        "pt-BR": "Borira: Força!",
+        "es-ES": "Borira: ¡Ánimo!"
+    },
+    "gSL3DQ": {
+        "en-US": "Rorur: Let's do this!",
+        "pt-BR": "Rorur: Força!",
+        "es-ES": "Rorur: ¡Ánimo!"
+    },
+    "giL3DQ": {
+        "en-US": "Morurang: Arrived.",
+        "pt-BR": "Morurang: Chegamos.",
+        "es-ES": "Morurang: Llegamos."
+    },
+    "gyL3DQ": {
+        "en-US": "Borira: Arrived.",
+        "pt-BR": "Borira: Chegamos.",
+        "es-ES": "Borira: Llegamos."
+    },
+    "hCL3DQ": {
+        "en-US": "Rorur: Arrived.",
+        "pt-BR": "Rorur: Chegamos.",
+        "es-ES": "Rorur: Llegamos."
+    },
+    "hSL3DQ": {
+        "en-US": "Horiryu: Arrived.",
+        "pt-BR": "Horiryu: Chegamos.",
+        "es-ES": "Horiryu: Llegamos."
+    },
+    "hiL3DQ": {
+        "en-US": "Morurang: Aren't you guys cold?",
+        "pt-BR": "Morurang: Pessoal, vocês não estão com frio?",
+        "es-ES": "Morurang: Chicos, ¿no tienen frío?"
+    },
+    "hyL3DQ": {
+        "en-US": "Borira: I'm fine.",
+        "pt-BR": "Borira: Estou bem.",
+        "es-ES": "Borira: Estoy bien."
+    },
+    "iCL3DQ": {
+        "en-US": "Rorur: I'm fine.",
+        "pt-BR": "Rorur: Estou bem.",
+        "es-ES": "Rorur: Estoy bien."
+    },
+    "iSL3DQ": {
+        "en-US": "Horiryu: I'm fine.",
+        "pt-BR": "Horiryu: Estou bem.",
+        "es-ES": "Horiryu: Estoy bien."
+    },
+    "iiL3DQ": {
+        "en-US": "Morurang: What? Am I the only one who's cold?",
+        "pt-BR": "Morurang: O quê? Só eu estou com frio?",
+        "es-ES": "Morurang: ¿Qué? ¿Solo yo tengo frío?"
+    },
+    "iyL3DQ": {
+        "en-US": "Rorur: Corporal Morurang, I have a question, sir.",
+        "pt-BR": "Rorur: Cabo Morurang, tenho uma pergunta.",
+        "es-ES": "Rorur: Cabo Morurang, tengo una pregunta."
+    },
+    "jCL3DQ": {
+        "en-US": "Morurang: ?",
+        "pt-BR": "Morurang: ?",
+        "es-ES": "Morurang: ?"
+    },
+    "jSL3DQ": {
+        "en-US": "Rorur: It's about the supply officer, sir.",
+        "pt-BR": "Rorur: É sobre o oficial de suprimentos.",
+        "es-ES": "Rorur: Es sobre el encargado de suministros."
+    },
+    "jiL3DQ": {
+        "en-US": "Morurang: Oh, that whole agent act?",
+        "pt-BR": "Morurang: Ah, aquela brincadeira de agente?",
+        "es-ES": "Morurang: Ah, ¿eso de jugar a ser agente?"
+    },
+    "jyL3DQ": {
+        "en-US": "Rorur: Yes, sir. Why does he do that?",
+        "pt-BR": "Rorur: Sim, isso mesmo. Por que ele faz aquilo?",
+        "es-ES": "Rorur: Sí, así es. ¿Por qué hace eso?"
+    },
+    "kCL3DQ": {
+        "en-US": "Morurang: No idea. Don't know what he saw somewhere.. He just started doing it one day.",
+        "pt-BR": "Morurang: Sei lá, não sei o que ele viu por aí.. Mas começou a fazer isso de repente.",
+        "es-ES": "Morurang: No sé qué habrá visto ni dónde.. Un día simplemente empezó a hacerlo."
+    },
+    "kSL3DQ": {
+        "en-US": "Morurang: Guys, none of you have seen any Rgan around the hill lately, right?",
+        "pt-BR": "Morurang: Pessoal, vocês não viram nenhum Rgan nas colinas ultimamente, viram?",
+        "es-ES": "Morurang: Chicos, últimamente no han visto ningún Rgan en las colinas, ¿verdad?"
+    },
+    "kiL3DQ": {
+        "en-US": "Borira: I haven't.",
+        "pt-BR": "Borira: Eu não vi.",
+        "es-ES": "Borira: Yo no."
+    },
+    "kyL3DQ": {
+        "en-US": "Rorur: Neither have I.",
+        "pt-BR": "Rorur: Eu também não.",
+        "es-ES": "Rorur: Yo tampoco."
+    },
+    "lCL3DQ": {
+        "en-US": "Horiryu: Me neither~",
+        "pt-BR": "Horiryu: Eu também não~",
+        "es-ES": "Horiryu: Yo tampoco~"
+    },
+    "lSL3DQ": {
+        "en-US": "Morurang: Well, maybe out on the plains, but they probably wouldn't come down this far.",
+        "pt-BR": "Morurang: É, talvez nas planícies, mas não devem descer até aqui.",
+        "es-ES": "Morurang: Bueno, quizá en las llanuras, pero no creo que bajen hasta aquí."
+    },
+    "liL3DQ": {
+        "en-US": "Rorur: Private First Class Horiryu, thank you for that thing last time.",
+        "pt-BR": "Rorur: Soldado Horiryu, obrigado por aquilo da outra vez.",
+        "es-ES": "Rorur: Soldado de primera Horiryu, gracias por lo de la otra vez."
+    },
+    "lyL3DQ": {
+        "en-US": "Horiryu: That thing?",
+        "pt-BR": "Horiryu: Aquilo?",
+        "es-ES": "Horiryu: ¿Eso?"
+    },
+    "mCL3DQ": {
+        "en-US": "Rorur: You know, that thing?",
+        "pt-BR": "Rorur: Sabe, aquilo lá?",
+        "es-ES": "Rorur: Ya sabe, eso que le mencioné, ¿no?"
+    },
+    "mSL3DQ": {
+        "en-US": "Horiryu: Ah.. that thing.. As long as you're putting it to good use.",
+        "pt-BR": "Horiryu: Ah.. aquilo.. Se serviu para você, está ótimo.",
+        "es-ES": "Horiryu: Ah.. eso.. Mientras te sirva, está bien."
+    },
+    "miL3DQ": {
+        "en-US": "Rorur: Hey! Recruit!",
+        "pt-BR": "Rorur: Ei! Recruta!",
+        "es-ES": "Rorur: ¡Oye! ¡Recluta!"
+    },
+    "myL3DQ": {
+        "en-US": "Borira: Recruit! Borira!",
+        "pt-BR": "Borira: Recruta! Borira!",
+        "es-ES": "Borira: ¡Recluta! ¡Borira!"
+    },
+    "nCL3DQ": {
+        "en-US": "Rorur: You didn't have to go that far..",
+        "pt-BR": "Rorur: Não precisava ir tão longe assim..",
+        "es-ES": "Rorur: No hacía falta llegar a tanto.."
+    },
+    "nSL3DQ": {
+        "en-US": "Rorur: I was just happy to have a new junior join us..",
+        "pt-BR": "Rorur: Eu só estava feliz porque chegou um novato..",
+        "es-ES": "Rorur: Solo me alegraba que hubiera llegado un subordinado nuevo.."
+    },
+    "niL3DQ": {
+        "en-US": "Morurang: Guys, I heard before we came on duty that we're getting Calmaring as this week's special meal.",
+        "pt-BR": "Morurang: Pessoal, ouvi antes de sair para o serviço que esta semana vão servir Calamaring como prato especial.",
+        "es-ES": "Morurang: Chicos, antes de salir de guardia escuché que esta semana servirán Kalamaring como comida especial."
+    },
+    "nyL3DQ": {
+        "en-US": "Horiryu: What, those things that are so hard to catch? Did someone catch a whole bunch of them?",
+        "pt-BR": "Horiryu: Mas aquilo é difícil de pegar! Alguém trouxe um monte?",
+        "es-ES": "Horiryu: ¿En serio? ¿Eso que es tan difícil de atrapar? ¿Alguien trajo un montón?"
+    },
+    "oCL3DQ": {
+        "en-US": "Morurang: I don't know either.. Just enjoy it when the special meal comes out~",
+        "pt-BR": "Morurang: Isso eu também não sei.. Só aproveitem quando servirem o prato especial~",
+        "es-ES": "Morurang: Eso tampoco lo sé.. Si lo sirven como comida especial, solo disfrútenlo~"
+    },
+    "oSL3DQ": {
+        "en-US": "Rorur: I just had a thought. What if it only ends up on the officers' menu?",
+        "pt-BR": "Rorur: Acabei de pensar numa coisa... e se isso só aparecer no cardápio dos oficiais?",
+        "es-ES": "Rorur: Se me acaba de ocurrir algo, ¿y si al final solo lo sirven en el menú de los oficiales?"
+    },
+    "oiL3DQ": {
+        "en-US": "Morurang: Ah! I didn't think of that..",
+        "pt-BR": "Morurang: Ah! Nem pensei nisso..",
+        "es-ES": "Morurang: ¡Ah! No había pensado en eso.."
+    },
+    "oyL3DQ": {
+        "en-US": "Horiryu: (Whispering)",
+        "pt-BR": "Horiryu: (sussurrando)",
+        "es-ES": "Horiryu: (susurrando)"
+    },
+    "pCL3DQ": {
+        "en-US": "Rorur: (Quietly)",
+        "pt-BR": "Rorur: (bem baixinho)",
+        "es-ES": "Rorur: (en voz baja)"
+    },
+    "pSL3DQ": {
+        "en-US": "Morurang: Let's not chat while we're on patrol.",
+        "pt-BR": "Morurang: Nada de conversa durante a patrulha.",
+        "es-ES": "Morurang: No charlemos durante la patrulla."
+    },
+    "piL3DQ": {
+        "en-US": "Rorur: ...",
+        "pt-BR": "Rorur: ...",
+        "es-ES": "Rorur: ..."
+    },
+    "pyL3DQ": {
+        "en-US": "Horiryu: ...",
+        "pt-BR": "Horiryu: ...",
+        "es-ES": "Horiryu: ..."
+    },
+    "qCL3DQ": {
+        "en-US": "[TEST]{0}Group 2 movement start",
+        "pt-BR": "[TEST]{0}Grupo 2 iniciar deslocamento",
+        "es-ES": "[TEST]{0}Inicio de movimiento del grupo 2"
+    },
+    "qSL3DQ": {
+        "en-US": "Moruryu: Back from patrol~",
+        "pt-BR": "Moruryu: Voltamos da patrulha~",
+        "es-ES": "Moruryu: Ya volvimos de la patrulla~"
+    },
+    "qiL3DQ": {
+        "en-US": "Moruryu: Hey, recruit, did you put something warm inside your feathers?",
+        "pt-BR": "Moruryu: Ei, novato, colocou alguma coisa quente nas penas?",
+        "es-ES": "Moruryu: Oye, recluta, ¿pusiste algo calentito dentro de las plumas?"
+    },
+    "qyL3DQ": {
+        "en-US": "Pororong: I didn't bring anything.",
+        "pt-BR": "Ppororong: Não trouxe.",
+        "es-ES": "Pororong: No traje nada."
+    },
+    "rCL3DQ": {
+        "en-US": "Moruryu: Why not? You're the one who's cold, not me. Make sure you bring something next time.",
+        "pt-BR": "Moruryu: Por que não? Bem, quem vai passar frio é você, não eu. Da próxima vez, não esqueça.",
+        "es-ES": "Moruryu: ¿Y eso por qué? Bueno, el que pasa frío eres tú, no yo. La próxima vez, prepárate."
+    },
+    "rSL3DQ": {
+        "en-US": "Pororong: Yes, understood.",
+        "pt-BR": "Ppororong: Sim, entendido.",
+        "es-ES": "Pororong: Sí, entendido."
+    },
+    "riL3DQ": {
+        "en-US": "Moruryu: Recruit? Now, you see the ice around us, right?",
+        "pt-BR": "Moruryu: Novato? Está vendo o gelo ao redor?",
+        "es-ES": "Moruryu: ¿Recluta? Mira, ves el hielo de alrededor, ¿verdad?"
+    },
+    "ryL3DQ": {
+        "en-US": "Pororong: Yes, I see it.",
+        "pt-BR": "Ppororong: Sim, estou vendo.",
+        "es-ES": "Pororong: Sí, lo veo."
+    },
+    "sCL3DQ": {
+        "en-US": "Moruryu: It'd hurt if you got stabbed by something sharp, right?",
+        "pt-BR": "Moruryu: Se espetar em uma ponta dessas, vai doer, não vai?",
+        "es-ES": "Moruryu: Si te pinchas con una punta, dolerá, ¿verdad?"
+    },
+    "sSL3DQ": {
+        "en-US": "Pororong: Yes, it would hurt.",
+        "pt-BR": "Ppororong: Sim, vai doer.",
+        "es-ES": "Pororong: Sí, dolerá."
+    },
+    "siL3DQ": {
+        "en-US": "Moruryu: Should you be careful? Or can you just ignore it?",
+        "pt-BR": "Moruryu: Então tem que tomar cuidado? Ou dá para ignorar?",
+        "es-ES": "Moruryu: ¿Hay que tener cuidado? ¿O podemos ignorarlo?"
+    },
+    "syL3DQ": {
+        "en-US": "Pororong: I should be careful.",
+        "pt-BR": "Ppororong: Tem que tomar cuidado.",
+        "es-ES": "Pororong: Hay que tener cuidado."
+    },
+    "tCL3DQ": {
+        "en-US": "Moruryu: Right, right.",
+        "pt-BR": "Moruryu: Isso, isso.",
+        "es-ES": "Moruryu: Eso, eso."
+    },
+    "tSL3DQ": {
+        "en-US": "Moruryu: Hey, hey, hey! Recruit!",
+        "pt-BR": "Moruryu: Ei, ei, ei! Novato!",
+        "es-ES": "Moruryu: ¡Oye, oye, oye! ¡Recluta!"
+    },
+    "tiL3DQ": {
+        "en-US": "Pororong: What is it, Corporal Moruryu?",
+        "pt-BR": "Ppororong: O que foi, cabo Moruryu?",
+        "es-ES": "Pororong: ¿Qué sucede, cabo Moruryu?"
+    },
+    "tyL3DQ": {
+        "en-US": "Moruryu: When you pass under that rock, look up. There are tons of icicles.",
+        "pt-BR": "Moruryu: Quando passar embaixo daquela rocha, olhe para cima. Está cheio de pingentes de gelo.",
+        "es-ES": "Moruryu: Cuando pases bajo esa roca, mira hacia arriba. Hay muchísimos carámbanos."
+    },
+    "uCL3DQ": {
+        "en-US": "Moruryu: If you shout \"Wah!\" they start shaking.",
+        "pt-BR": "Moruryu: Se gritar \"Ah!\", eles começam a balançar.",
+        "es-ES": "Moruryu: Si gritas \"¡Bua!\", se tambalean."
+    },
+    "uSL3DQ": {
+        "en-US": "Pororong: Gasp!!! Isn't that dangerous?",
+        "pt-BR": "Ppororong: Nossa!!! Isso não é perigoso?",
+        "es-ES": "Pororong: ¡¡¡¿Eh?!!! ¿No es peligroso?"
+    },
+    "uiL3DQ": {
+        "en-US": "Moruryu: Yeah, it's dangerous. That's why I'm telling you to be careful. If you get distracted and hurt yourself, you're the one who loses out~ Got it?",
+        "pt-BR": "Moruryu: É, é perigoso. Por isso estou dizendo para tomar cuidado. Se ficar distraído e se machucar, quem perde é você~ Entendeu?",
+        "es-ES": "Moruryu: Sí, es peligroso, por eso te digo que tengas cuidado. Si te distraes y te lastimas, el único perjudicado serás tú~ ¿Entendido?"
+    },
+    "uyL3DQ": {
+        "en-US": "Pororong: Corporal Moruryu? I have a question, sir.",
+        "pt-BR": "Ppororong: Cabo Moruryu? Tenho uma pergunta.",
+        "es-ES": "Pororong: ¿Cabo Moruryu? Tengo una pregunta."
+    },
+    "vCL3DQ": {
+        "en-US": "Moruryu: What is it?",
+        "pt-BR": "Moruryu: O que foi?",
+        "es-ES": "Moruryu: ¿Qué pasa?"
+    },
+    "vSL3DQ": {
+        "en-US": "Pororong: How long do you think the ice on the ice bridge has been there?",
+        "pt-BR": "Ppororong: Há quanto tempo será que o gelo da ponte de gelo está aí?",
+        "es-ES": "Pororong: ¿Cuánto tiempo llevará ahí el hielo del puente de hielo?"
+    },
+    "viL3DQ": {
+        "en-US": "Moruryu: How would I know that?",
+        "pt-BR": "Moruryu: E como é que eu vou saber?",
+        "es-ES": "Moruryu: ¿Y cómo voy a saber eso?"
+    },
+    "vyL3DQ": {
+        "en-US": "Pororong: So there are things even Corporal Moruryu doesn't know.",
+        "pt-BR": "Ppororong: Então até o cabo Moruryu tem coisas que não sabe.",
+        "es-ES": "Pororong: Así que hay cosas que ni usted sabe, cabo Moruryu."
+    },
+    "wCL3DQ": {
+        "en-US": "Moruryu: Wow, our recruit is hopeless, absolutely hopeless. Ah!!! I may not know how old the ice is, but I do know this.",
+        "pt-BR": "Moruryu: Nossa, esse nosso recruta não tem jeito mesmo, não tem jeito. Ah!!! Eu não sei a idade do gelo, mas uma coisa eu sei.",
+        "es-ES": "Moruryu: Vaya, nuestro recluta no tiene remedio, no tiene remedio. ¡¡¡Ah!!! Aunque no sepa la edad del hielo, sí sé una cosa."
+    },
+    "wSL3DQ": {
+        "en-US": "Moruryu: Slipping and falling is embarrassing and dangerous! And!!",
+        "pt-BR": "Moruryu: Escorregar e cair é vergonhoso e perigoso! E mais!!",
+        "es-ES": "Moruryu: ¡Que si te resbalas y te caes, es vergonzoso y peligroso! ¡¡Y además!!"
+    },
+    "wiL3DQ": {
+        "en-US": "Moruryu: Even if you don't get hurt, you'll end up making someone fear for their life!",
+        "pt-BR": "Moruryu: Mesmo sem se machucar, você pode fazer alguém sentir que a vida está em perigo!",
+        "es-ES": "Moruryu: ¡Que aunque no te lastimes, harás que alguien sienta que su vida corre peligro!"
+    },
+    "wyL3DQ": {
+        "en-US": "Moruryu: I trust there aren't any Iwin dumb enough to fall here.",
+        "pt-BR": "Moruryu: Acredito que não exista nenhum Arwin idiota o bastante para cair aqui.",
+        "es-ES": "Moruryu: Confío en que no haya ningún Awin tan tonto como para caerse aquí."
+    },
+    "xCL3DQ": {
+        "en-US": "Pororong: Yes, sir. I'll be careful.",
+        "pt-BR": "Ppororong: Sim, vou tomar cuidado.",
+        "es-ES": "Pororong: ¡Sí! Tendré cuidado."
+    },
+    "xSL3DQ": {
+        "en-US": "Torari: Yes, sir. I'll be careful.",
+        "pt-BR": "Torari: Sim, vou tomar cuidado.",
+        "es-ES": "Torari: ¡Sí! Tendré cuidado."
+    },
+    "xiL3DQ": {
+        "en-US": "Porarang: Yes, sir. I'll be careful.",
+        "pt-BR": "Porarang: Sim, vou tomar cuidado.",
+        "es-ES": "Porarang: ¡Sí! Tendré cuidado."
+    },
+    "xyL3DQ": {
+        "en-US": "Moruryu: Whoa! Those icicles look vicious. Better be careful.",
+        "pt-BR": "Moruryu: Nossa! Esses pingentes de gelo estão assustadores. É melhor tomar cuidado.",
+        "es-ES": "Moruryu: ¡Caray! Esos carámbanos dan miedo. Habrá que tener cuidado."
+    },
+    "yCL3DQ": {
+        "en-US": "Moruryu: Especially you, Porarang! You know what I'm talking about, right?",
+        "pt-BR": "Moruryu: Principalmente você, Porarang! Sabe do que estou falando, não sabe?",
+        "es-ES": "Moruryu: ¡Sobre todo tú, Porarang! Sabes a qué me refiero, ¿verdad?"
+    },
+    "ySL3DQ": {
+        "en-US": "Porarang: Ah, Corporal Moruryu, I got it. Seriously, you do this every time we come here.",
+        "pt-BR": "Porarang: Ah, cabo Moruryu, já entendi. Toda vez que viemos aqui é a mesma coisa.",
+        "es-ES": "Porarang: Ah, cabo Moruryu, entendido. De verdad, cada vez que venimos aquí empieza con lo mismo."
+    },
+    "yiL3DQ": {
+        "en-US": "Moruryu: Why don't Iwin have scales? I've been thinking about that.",
+        "pt-BR": "Moruryu: Por que os Arwin não têm escamas? Fiquei pensando nisso.",
+        "es-ES": "Moruryu: ¿Por qué los Awin no tienen escamas? Estuve pensando en eso."
+    },
+    "yyL3DQ": {
+        "en-US": "Moruryu: This is Frozen Scale Hill, right? The scales are here, so that's why Iwin don't have any!",
+        "pt-BR": "Moruryu: Aqui é a Colina de Escamas Congeladas, não é? Como as escamas estão aqui, os Arwin ficaram sem escamas!",
+        "es-ES": "Moruryu: Este lugar es la Colina de Escamas Congeladas, ¿verdad? ¡Como las escamas están aquí, los Awin no tienen escamas!"
+    },
+    "zCL3DQ": {
+        "en-US": "Pororong: ?",
+        "pt-BR": "Ppororong: ?",
+        "es-ES": "Pororong: ?"
+    },
+    "zSL3DQ": {
+        "en-US": "Torari: ?",
+        "pt-BR": "Torari: ?",
+        "es-ES": "Torari: ?"
+    },
+    "ziL3DQ": {
+        "en-US": "Porarang: ?",
+        "pt-BR": "Porarang: ?",
+        "es-ES": "Porarang: ?"
+    },
+    "zyL3DQ": {
+        "en-US": "Moruryu: Sorry. I don't even know what I was talking about.",
+        "pt-BR": "Moruryu: Foi mal. Nem eu sei o que acabei de dizer.",
+        "es-ES": "Moruryu: Perdón, ni yo sé qué acabo de decir."
+    },
+    "0CL3DQ": {
+        "en-US": "Moruryu: Recruit! How about Agang soup after patrol?",
+        "pt-BR": "Moruryu: Recruta! Depois da patrulha, sopa de Agang, fechado?",
+        "es-ES": "Moruryu: ¡Recluta! Cuando termine la patrulla, ¿sopa de Agang?"
+    },
+    "0SL3DQ": {
+        "en-US": "Pororong: No, sir. I'm fine.",
+        "pt-BR": "Ppororong: Não, obrigado. Estou bem.",
+        "es-ES": "Pororong: No, gracias. Estoy bien."
+    },
+    "0iL3DQ": {
+        "en-US": "Moruryu: No, I meant you should make some.. Ah.. this is frustrating..",
+        "pt-BR": "Moruryu: Não, eu quis dizer para você preparar.. Ah.. que frustração..",
+        "es-ES": "Moruryu: No, te estoy diciendo que tú la prepares.. Ah.. qué frustrante.."
+    },
+    "0yL3DQ": {
+        "en-US": "Pororong: I.. I'll correct that, sir.",
+        "pt-BR": "Ppororong: V.. vou corrigir isso.",
+        "es-ES": "Pororong: Lo.. lo corregiré."
+    },
+    "1CL3DQ": {
+        "en-US": "Moruryu: Yes, yes. You do that.",
+        "pt-BR": "Moruryu: Sim, sim. Faça isso.",
+        "es-ES": "Moruryu: Sí, sí, haz eso."
+    },
+    "1SL3DQ": {
+        "en-US": "Moruryu: Arrived.",
+        "pt-BR": "Moruryu: Chegamos.",
+        "es-ES": "Moruryu: Llegamos."
+    },
+    "1iL3DQ": {
+        "en-US": "Pororong: Arrived.",
+        "pt-BR": "Ppororong: Chegamos.",
+        "es-ES": "Pororong: Llegamos."
+    },
+    "1yL3DQ": {
+        "en-US": "Torari: Arrived.",
+        "pt-BR": "Torari: Chegamos.",
+        "es-ES": "Torari: Llegamos."
+    },
+    "2CL3DQ": {
+        "en-US": "Porarang: Arrived.",
+        "pt-BR": "Porarang: Chegamos.",
+        "es-ES": "Porarang: Llegamos."
+    },
+    "2SL3DQ": {
+        "en-US": "Moruryu: Oh, right. The patrol leader said..",
+        "pt-BR": "Moruryu: Ah, é verdade. O capitão da patrulha disse que..",
+        "es-ES": "Moruryu: Ah, cierto. El jefe de patrulla dijo que.."
+    },
+    "2iL3DQ": {
+        "en-US": "Moruryu: Apparently, there was an Iwin who ran all the way from the showers to the barracks with their feathers soaking wet..",
+        "pt-BR": "Moruryu: Dizem que teve um Arwin que saiu correndo do chuveiro até o alojamento com as penas encharcadas..",
+        "es-ES": "Moruryu: Al parecer hubo un Awin que corrió desde las duchas hasta el cuartel con las plumas empapadas.."
+    },
+    "2yL3DQ": {
+        "en-US": "Moruryu: None of us did that, right?",
+        "pt-BR": "Moruryu: Não foi nenhum de nós, né?",
+        "es-ES": "Moruryu: No fue ninguno de nosotros, ¿verdad?"
+    },
+    "3CL3DQ": {
+        "en-US": "Moruryu: I mean, there couldn't be an Iwin that crazy.",
+        "pt-BR": "Moruryu: Claro, quem seria o Arwin maluco de fazer uma coisa dessas?",
+        "es-ES": "Moruryu: Claro, ¿qué Awin estaría tan loco como para hacer eso?"
+    },
+    "3SL3DQ": {
+        "en-US": "Pororong: Private Torari.",
+        "pt-BR": "Ppororong: Soldado Torari.",
+        "es-ES": "Pororong: Soldado de segunda Torari."
+    },
+    "3iL3DQ": {
+        "en-US": "Torari: Whaaat?",
+        "pt-BR": "Torari: Quêê?",
+        "es-ES": "Torari: ¿Qué?"
+    },
+    "3yL3DQ": {
+        "en-US": "Pororong: Ah.. never mind.",
+        "pt-BR": "Ppororong: Ah.. nada.",
+        "es-ES": "Pororong: Ah.. no es nada."
+    },
+    "4CL3DQ": {
+        "en-US": "Torari: Recruit? Do you have some kind of death wish?",
+        "pt-BR": "Torari: Recruta? Por acaso você está querendo morrer?",
+        "es-ES": "Torari: ¿Recluta? ¿Acaso tienes ganas de morir o algo así?"
+    },
+    "4SL3DQ": {
+        "en-US": "Moruryu: Doesn't it seem like we haven't been seeing any Rgan lately?",
+        "pt-BR": "Moruryu: Não parece que os Rgan sumiram ultimamente?",
+        "es-ES": "Moruryu: ¿No les parece que últimamente no se ven Rgan?"
+    },
+    "4iL3DQ": {
+        "en-US": "Porarang: With Corporal Moruryu stationed right here, why would any Rgan come down this far?",
+        "pt-BR": "Porarang: Com o cabo Moruryu aqui, por que os Rgan desceriam até aqui?",
+        "es-ES": "Porarang: Con el cabo Moruryu aquí presente, ¿por qué bajarían los Rgan hasta aquí?"
+    },
+    "4yL3DQ": {
+        "en-US": "Porarang: Maybe out on the plains over there, sure.",
+        "pt-BR": "Porarang: Se fosse lá pelas planícies, até vai.",
+        "es-ES": "Porarang: Si fuera por las llanuras de allá, quizá."
+    },
+    "5CL3DQ": {
+        "en-US": "Moruryu: That's what I thought.",
+        "pt-BR": "Moruryu: Pois é, né?",
+        "es-ES": "Moruryu: ¿Verdad que sí?"
+    },
+    "5SL3DQ": {
+        "en-US": "Moruryu: Hey! Porarang~",
+        "pt-BR": "Moruryu: Ei! Porarang~",
+        "es-ES": "Moruryu: ¡Oye! Porarang~"
+    },
+    "5iL3DQ": {
+        "en-US": "Porarang: Private First Class! Porarang! What is it, sir?",
+        "pt-BR": "Porarang: Soldado! Porarang! O que foi?",
+        "es-ES": "Porarang: ¡Soldado de primera! ¡Porarang! ¿Qué sucede?"
+    },
+    "5yL3DQ": {
+        "en-US": "Moruryu: Is your head made of rock? How does an Iwin smash into an icicle and only the icicle breaks?",
+        "pt-BR": "Moruryu: Sua cabeça é de pedra, é? Como um Arwin bate num pingente de gelo e só o pingente quebra?",
+        "es-ES": "Moruryu: Tú tienes la cabeza de piedra, ¿verdad? ¿Cómo puede un Awin chocar contra un carámbano y que solo se rompa el carámbano?"
+    },
+    "6CL3DQ": {
+        "en-US": "Porarang: The icicle was weak. I'm just strong.",
+        "pt-BR": "Porarang: O pingente é que é fraco. Eu é que sou forte.",
+        "es-ES": "Porarang: Es que el carámbano era débil. Y yo soy fuerte."
+    },
+    "6SL3DQ": {
+        "en-US": "Moruryu: Ooh~ Look at that confidence~",
+        "pt-BR": "Moruryu: Olha só~ Que confiança~",
+        "es-ES": "Moruryu: Vaya~ Qué confianza~"
+    },
+    "6iL3DQ": {
+        "en-US": "Moruryu: Hey! Recruit..",
+        "pt-BR": "Moruryu: Ei! Recruta..",
+        "es-ES": "Moruryu: ¡Oye! Recluta.."
+    },
+    "6yL3DQ": {
+        "en-US": "Pororong: Recruit! Pororong!",
+        "pt-BR": "Ppororong: Recruta! Ppororong!",
+        "es-ES": "Pororong: ¡Recluta! ¡Pororong!"
+    },
+    "7CL3DQ": {
+        "en-US": "Moruryu: I was going to say this earlier, but are you losing your mind or something?",
+        "pt-BR": "Moruryu: Eu ia falar isso antes... você anda meio fora de si ou o quê?",
+        "es-ES": "Moruryu: Iba a decírtelo antes, pero... ¿qué te pasa? ¿Andas medio perdido o qué?"
+    },
+    "7SL3DQ": {
+        "en-US": "Pororong: S.. sorry, sir.",
+        "pt-BR": "Ppororong: D.. desculpe.",
+        "es-ES": "Pororong: Lo.. lo siento."
+    },
+    "7iL3DQ": {
+        "en-US": "Moruryu: Seriously.. You went to the bathroom before duty and made your seniors wait 10 minutes for you?",
+        "pt-BR": "Moruryu: Não acredito.. Você foi ao banheiro antes do serviço e fez seus superiores esperarem por 10 minutos?",
+        "es-ES": "Moruryu: No.. ¿vas al baño antes de la guardia y haces que tus superiores te esperen 10 minutos?"
+    },
+    "7yL3DQ": {
+        "en-US": "Moruryu: Sigh.. You're seriously driving me crazy.",
+        "pt-BR": "Moruryu: Ah.. isso está me deixando maluco.",
+        "es-ES": "Moruryu: Ah.. de verdad, esto me vuelve loco."
+    },
+    "8CL3DQ": {
+        "en-US": "Moruryu: Calmaring was pretty tasty. But isn't it hard to catch?",
+        "pt-BR": "Moruryu: Calamaring é gostoso. Mas não é difícil de pegar?",
+        "es-ES": "Moruryu: El Kalamaring estaba delicioso. Pero ¿no es difícil de atrapar?"
+    },
+    "8SL3DQ": {
+        "en-US": "Moruryu: Uh, guys? Who am I talking to right now?",
+        "pt-BR": "Moruryu: Ei, pessoal? Com quem eu estou falando aqui?",
+        "es-ES": "Moruryu: Oigan, chicos. ¿Con quién estoy hablando ahora?"
+    },
+    "8iL3DQ": {
+        "en-US": "Torari: Corporal Moruryu, did you hear the news?",
+        "pt-BR": "Torari: Cabo Moruryu, ouviu a novidade?",
+        "es-ES": "Torari: Cabo Moruryu, ¿escuchó la noticia?"
+    },
+    "8yL3DQ": {
+        "en-US": "Moruryu: What news?",
+        "pt-BR": "Moruryu: Que novidade?",
+        "es-ES": "Moruryu: ¿Qué noticia?"
+    },
+    "9CL3DQ": {
+        "en-US": "Torari: Someone filed a complaint, and apparently the supply officer is getting disciplined.",
+        "pt-BR": "Torari: Dizem que alguém fez uma denúncia e o oficial de suprimentos vai ser punido.",
+        "es-ES": "Torari: Dicen que alguien presentó una queja formal y van a sancionar al encargado de suministros."
+    },
+    "9SL3DQ": {
+        "en-US": "Moruryu: Ah.. that.. I filed it.",
+        "pt-BR": "Moruryu: Ah.. isso.. fui eu que denunciei.",
+        "es-ES": "Moruryu: Ah.. eso.. La presenté yo."
+    },
+    "9iL3DQ": {
+        "en-US": "Moruryu: I don't know what he saw or where, but every other word out of his mouth is, \"Agents! Agents!\"",
+        "pt-BR": "Moruryu: Sei lá o que ele viu por aí. Toda frase termina com \"agente isso! agente aquilo!\"",
+        "es-ES": "Moruryu: No sé qué habrá visto ni dónde. ¡A cada rato con \"un agente debe\"! ¡\"Un agente debe\"!"
+    },
+    "9yL3DQ": {
+        "en-US": "Moruryu: It's not like it's only happened once or twice. Of course I'm mad.",
+        "pt-BR": "Moruryu: Não é a primeira nem a segunda vez, dá raiva.",
+        "es-ES": "Moruryu: No ha sido solo una o dos veces. Es para enojarse."
+    },
+    "+CL3DQ": {
+        "en-US": "[TEST]{0}Group 3 movement start",
+        "pt-BR": "[TEST]{0}Grupo 3 iniciar deslocamento",
+        "es-ES": "[TEST]{0}Inicio de movimiento del grupo 3"
+    },
+    "+SL3DQ": {
+        "en-US": "Poruryo: ... ... ... ... ...",
+        "pt-BR": "Pporuryo: ... ... ... ... ...",
+        "es-ES": "Poruryo: ... ... ... ... ..."
+    },
+    "+iL3DQ": {
+        "en-US": "Ssorur: Haha.. We'll be heading out on patrol, Captain.",
+        "pt-BR": "Ssorur: Haha.. Vamos sair para a patrulha, capitão.",
+        "es-ES": "Ssorur: Ja, ja.. Nos vamos de patrulla, jefe."
+    },
+    "+yL3DQ": {
+        "en-US": "Ssorur: All right, everyone! It's windy, so keep your feathers tucked in tight.",
+        "pt-BR": "Ssorur: Certo, pessoal! Está ventando, então fechem bem as penas.",
+        "es-ES": "Ssorur: ¡Muy bien, chicos! Como hace viento, asegúrense bien las plumas."
+    },
+    "/CL3DQ": {
+        "en-US": "Horurung: Yes, understood.",
+        "pt-BR": "Horurung: Sim, entendido.",
+        "es-ES": "Horurung: Sí, entendido."
+    },
+    "/SL3DQ": {
+        "en-US": "Ttorarong: Yes, understood.",
+        "pt-BR": "Ttorarong: Sim, entendido.",
+        "es-ES": "Ttorarong: Sí, entendido."
+    },
+    "/iL3DQ": {
+        "en-US": "Ssorur: They say it's dangerous here because there are lots of sharp ice formations. Let's be careful.",
+        "pt-BR": "Ssorur: Dizem que aqui é perigoso porque tem muito gelo pontudo. Vamos tomar cuidado.",
+        "es-ES": "Ssorur: Dicen que aquí es peligroso porque hay mucho hielo puntiagudo. Tengamos cuidado."
+    },
+    "/yL3DQ": {
+        "en-US": "Ssorur: Things like icicles could fall from above, so let's be careful.",
+        "pt-BR": "Ssorur: Podem cair coisas como pingentes de gelo lá de cima, então vamos tomar cuidado.",
+        "es-ES": "Ssorur: Podrían caer cosas como carámbanos desde arriba, así que tengamos cuidado."
+    },
+    "ACP3DQ": {
+        "en-US": "Ssorur: It could be slippery, so watch your step.",
+        "pt-BR": "Ssorur: Pode estar escorregadio, então cuidado onde pisam.",
+        "es-ES": "Ssorur: Podría estar resbaloso, así que cuidado con dónde pisan."
+    },
+    "ASP3DQ": {
+        "en-US": "Ssorur: Even if you get hurt, the patrol won't take responsibility. Let's all watch out for ourselves.",
+        "pt-BR": "Ssorur: Mesmo que se machuquem, a patrulha não vai se responsabilizar. Então cada um tome cuidado.",
+        "es-ES": "Ssorur: Aunque se lastimen, la patrulla no se hará responsable. Así que cuídense por su cuenta."
+    },
+    "AiP3DQ": {
+        "en-US": "Ssorur: Watch your step!",
+        "pt-BR": "Ssorur: Cuidado onde pisa!",
+        "es-ES": "Ssorur: ¡Cuidado con dónde pisan!"
+    },
+    "AyP3DQ": {
+        "en-US": "Horurung: Watch your step!",
+        "pt-BR": "Horurung: Cuidado onde pisa!",
+        "es-ES": "Horurung: ¡Cuidado con dónde pisan!"
+    },
+    "BCP3DQ": {
+        "en-US": "Ttorarong: Watch your step!",
+        "pt-BR": "Ttorarong: Cuidado onde pisa!",
+        "es-ES": "Ttorarong: ¡Cuidado con dónde pisan!"
+    },
+    "BSP3DQ": {
+        "en-US": "Ssorur: There are lots of icicles here. Watch your head!",
+        "pt-BR": "Ssorur: Tem muitos pingentes de gelo aqui. Cuidado com a cabeça!",
+        "es-ES": "Ssorur: Aquí hay muchos carámbanos. ¡Cuidado con la cabeza!"
+    },
+    "BiP3DQ": {
+        "en-US": "Horurung: Watch your head!",
+        "pt-BR": "Horurung: Cuidado com a cabeça!",
+        "es-ES": "Horurung: ¡Cuidado con la cabeza!"
+    },
+    "ByP3DQ": {
+        "en-US": "Ttorarong: Watch your head!",
+        "pt-BR": "Ttorarong: Cuidado com a cabeça!",
+        "es-ES": "Ttorarong: ¡Cuidado con la cabeza!"
+    },
+    "CCP3DQ": {
+        "en-US": "Ttorarong: Um, Private First Class Ssorur? Can you actually hear what Corporal Poruryo is saying?",
+        "pt-BR": "Ttorarong: Com licença, soldado Ssorur? Você consegue ouvir o que o cabo Pporuryo está dizendo?",
+        "es-ES": "Ttorarong: Disculpe, soldado de primera Ssorur. ¿Puede escuchar lo que dice el cabo Poruryo?"
+    },
+    "CSP3DQ": {
+        "en-US": "Ssorur: ?",
+        "pt-BR": "Ssorur: ?",
+        "es-ES": "Ssorur: ?"
+    },
+    "CiP3DQ": {
+        "en-US": "Ttorarong: No matter how hard I try to listen, I can't hear him at all.",
+        "pt-BR": "Ttorarong: Por mais que eu tente escutar, não consigo ouvir nada.",
+        "es-ES": "Ttorarong: Por más que intento escuchar, yo no oigo nada."
+    },
+    "CyP3DQ": {
+        "en-US": "Ssorur: I can hear him just fine.. I wouldn't be relaying it otherwise, right?",
+        "pt-BR": "Ssorur: Dá para ouvir bem.. Se eu não ouvisse, como iria repassar?",
+        "es-ES": "Ssorur: Se escucha bien.. Si no, ¿cómo podría transmitir lo que dice?"
+    },
+    "DCP3DQ": {
+        "en-US": "Ssorur: Besides, Corporal Poruryo talks so much..",
+        "pt-BR": "Ssorur: E o cabo Pporuryo fala tanto..",
+        "es-ES": "Ssorur: Además, el cabo Poruryo habla muchísimo.."
+    },
+    "DSP3DQ": {
+        "en-US": "Ssorur: He talks so much that even shortening what he says before passing it on is a job in itself.",
+        "pt-BR": "Ssorur: Ele fala tanto que até resumir tudo para repassar dá trabalho.",
+        "es-ES": "Ssorur: Habla tanto que hasta resumir lo que dice para transmitirlo es todo un trabajo."
+    },
+    "DiP3DQ": {
+        "en-US": "Ttorarong: Whoa.. I see..",
+        "pt-BR": "Ttorarong: Nossa.. Então era isso..",
+        "es-ES": "Ttorarong: Vaya.. Conque era eso.."
+    },
+    "DyP3DQ": {
+        "en-US": "Poruryo: ●●● ●●● ●●● ●●● ●●●",
+        "pt-BR": "Pporuryo: ●●● ●●● ●●● ●●● ●●●",
+        "es-ES": "Poruryo: ●●● ●●● ●●● ●●● ●●●"
+    },
+    "ECP3DQ": {
+        "en-US": "Ssorur: Corporal Poruryo says he's treating us at the PX after duty!",
+        "pt-BR": "Ssorur: O cabo Pporuryo disse que vai pagar o PX depois do serviço!",
+        "es-ES": "Ssorur: ¡El cabo Poruryo invita en la tienda militar cuando termine la guardia!"
+    },
+    "ESP3DQ": {
+        "en-US": "Horurung: Wow! Thanks for the treat, Corporal Poruryo~",
+        "pt-BR": "Horurung: Uau! Obrigado pela comida, cabo Pporuryo~",
+        "es-ES": "Horurung: ¡Guau! Muchas gracias por la invitación, cabo Poruryo~"
+    },
+    "EiP3DQ": {
+        "en-US": "Ttorarong: Thank you, Corporal Poruryo~",
+        "pt-BR": "Ttorarong: Obrigado, cabo Pporuryo~",
+        "es-ES": "Ttorarong: Gracias, cabo Poruryo~"
+    },
+    "EyP3DQ": {
+        "en-US": "Poruryo: ??????????????????",
+        "pt-BR": "Pporuryo: ??????????????????",
+        "es-ES": "Poruryo: ??????????????????"
+    },
+    "FCP3DQ": {
+        "en-US": "Ssorur: Thanks for the treat from me too, Corporal Poruryo~ Hahaha",
+        "pt-BR": "Ssorur: Eu também vou aproveitar, cabo Pporuryo~ Hahaha",
+        "es-ES": "Ssorur: Yo también aceptaré con gusto, cabo Poruryo~ Ja, ja, ja"
+    },
+    "FSP3DQ": {
+        "en-US": "Poruryo: ●●●!!",
+        "pt-BR": "Pporuryo: ●●●!!",
+        "es-ES": "Poruryo: ¡¡●●●!!"
+    },
+    "FiP3DQ": {
+        "en-US": "Ssorur: Arrived",
+        "pt-BR": "Ssorur: Chegamos",
+        "es-ES": "Ssorur: Llegamos"
+    },
+    "FyP3DQ": {
+        "en-US": "Ttorarong: Arrived",
+        "pt-BR": "Ttorarong: Chegamos",
+        "es-ES": "Ttorarong: Llegamos"
+    },
+    "GCP3DQ": {
+        "en-US": "Poruryo: ●●●!! ●●●!! ●●●!! ●●●!! ●●●!!",
+        "pt-BR": "Pporuryo: ●●●!! ●●●!! ●●●!! ●●●!! ●●●!!",
+        "es-ES": "Poruryo: ¡¡●●●!! ¡¡●●●!! ¡¡●●●!! ¡¡●●●!! ¡¡●●●!!"
+    },
+    "GSP3DQ": {
+        "en-US": "Ssorur: Ah, what is it now, Corporal Poruryo?",
+        "pt-BR": "Ssorur: Ah, o que foi agora, cabo Pporuryo?",
+        "es-ES": "Ssorur: Ah, ¿qué pasa ahora, cabo Poruryo?"
+    },
+    "GiP3DQ": {
+        "en-US": "Ttorarong: What did he say? He certainly looked like he was shouting his lungs out..",
+        "pt-BR": "Ttorarong: O que ele disse? Pela expressão, parecia que estava gritando bem alto..",
+        "es-ES": "Ttorarong: ¿Qué dijo? Por su expresión, parecía que estaba gritando a todo pulmón.."
+    },
+    "GyP3DQ": {
+        "en-US": "Ssorur: Ah, just pretend you don't know. Things must not be going well with his girlfriend lately.",
+        "pt-BR": "Ssorur: Ah, só finja que não percebeu. Parece que as coisas não estão indo bem com a namorada dele ultimamente.",
+        "es-ES": "Ssorur: Ah, solo haz como que no sabes nada. Parece que últimamente las cosas no van bien con su novia."
+    },
+    "HCP3DQ": {
+        "en-US": "Ttorarong: Ah..",
+        "pt-BR": "Ttorarong: Ah..",
+        "es-ES": "Ttorarong: Ah.."
+    },
+    "HSP3DQ": {
+        "en-US": "Horurung: Corporal Poruryo, are you close with the patrol leader?",
+        "pt-BR": "Horurung: Cabo Pporuryo, o senhor é próximo do capitão da patrulha?",
+        "es-ES": "Horurung: Cabo Poruryo, ¿es cercano al jefe de patrulla?"
+    },
+    "HiP3DQ": {
+        "en-US": "Poruryo: ... ... ... ... ...?",
+        "pt-BR": "Pporuryo: ... ... ... ... ...?",
+        "es-ES": "Poruryo: ... ... ... ... ...?"
+    },
+    "HyP3DQ": {
+        "en-US": "Ssorur: He's asking why you want to know.",
+        "pt-BR": "Ssorur: Ele está perguntando por que você quer saber.",
+        "es-ES": "Ssorur: Pregunta por qué quieres saberlo."
+    },
+    "ICP3DQ": {
+        "en-US": "Horurung: I met the patrol leader's younger sister the other day, sir.",
+        "pt-BR": "Horurung: É que encontrei a irmã mais nova do capitão da patrulha outro dia.",
+        "es-ES": "Horurung: La otra vez conocí a la hermana menor del jefe de patrulla."
+    },
+    "ISP3DQ": {
+        "en-US": "Horurung: She was exactly my type, sir.",
+        "pt-BR": "Horurung: Ela faz muito o meu tipo.",
+        "es-ES": "Horurung: Era exactamente mi tipo."
+    },
+    "IiP3DQ": {
+        "en-US": "Poruryo: ... ... ... ... ...!!",
+        "pt-BR": "Pporuryo: ... ... ... ... ...!!",
+        "es-ES": "Poruryo: ... ... ... ... ...!!"
+    },
+    "IyP3DQ": {
+        "en-US": "Ssorur: Gasp, really?",
+        "pt-BR": "Ssorur: Nossa, é mesmo?",
+        "es-ES": "Ssorur: ¡¿En serio?!"
+    },
+    "JCP3DQ": {
+        "en-US": "Horurung: What's wrong?",
+        "pt-BR": "Horurung: O que foi?",
+        "es-ES": "Horurung: ¿Qué pasa?"
+    },
+    "JSP3DQ": {
+        "en-US": "Ssorur: Apparently, the patrol leader only has a younger brother.",
+        "pt-BR": "Ssorur: Dizem que o capitão da patrulha só tem um irmão mais novo.",
+        "es-ES": "Ssorur: Dicen que el jefe de patrulla solo tiene un hermano menor."
+    },
+    "JiP3DQ": {
+        "en-US": "Horurung: Whoa...",
+        "pt-BR": "Horurung: Nossa...",
+        "es-ES": "Horurung: Vaya..."
+    },
+    "JyP3DQ": {
+        "en-US": "Poruryo: ... ... ... ...?",
+        "pt-BR": "Pporuryo: ... ... ... ...?",
+        "es-ES": "Poruryo: ... ... ... ...?"
+    },
+    "KCP3DQ": {
+        "en-US": "Ssorur: Corporal Poruryo is asking if any Iwin has seen a Rgan on the hill.",
+        "pt-BR": "Ssorur: O cabo Pporuryo está perguntando se algum Arwin viu algum Rgan nas colinas.",
+        "es-ES": "Ssorur: El cabo Poruryo pregunta si algún Awin ha visto a un Rgan en la colina."
+    },
+    "KSP3DQ": {
+        "en-US": "Horurung: ...",
+        "pt-BR": "Horurung: ...",
+        "es-ES": "Horurung: ..."
+    },
+    "KiP3DQ": {
+        "en-US": "Ttorarong: ...",
+        "pt-BR": "Ttorarong: ...",
+        "es-ES": "Ttorarong: ..."
+    },
+    "KyP3DQ": {
+        "en-US": "Ssorur: Corporal Poruryo, I don't think any of us have.",
+        "pt-BR": "Ssorur: Cabo Pporuryo, parece que nenhum de nós viu.",
+        "es-ES": "Ssorur: Cabo Poruryo, parece que ninguno de nosotros ha visto uno."
+    },
+    "LCP3DQ": {
+        "en-US": "Ssorur: Would they really come all the way down to the hill where Corporal Poruryo patrols? Maybe the plains, but not here.",
+        "pt-BR": "Ssorur: Será que eles desceriam até as colinas onde o cabo Pporuryo patrulha? Se fosse nas planícies, até poderia ser.",
+        "es-ES": "Ssorur: ¿Cree que ellos bajarían hasta la colina que patrulla el cabo Poruryo? Quizá a las llanuras, pero hasta aquí..."
+    },
+    "LSP3DQ": {
+        "en-US": "Poruryo: ... ... ... ...",
+        "pt-BR": "Pporuryo: ... ... ... ...",
+        "es-ES": "Poruryo: ... ... ... ..."
+    },
+    "LiP3DQ": {
+        "en-US": "Ssorur: Oh, come on, that's way too much praise..",
+        "pt-BR": "Ssorur: Ah, que exagero de elogio..",
+        "es-ES": "Ssorur: Ay, no exagere con tantos elogios.."
+    },
+    "LyP3DQ": {
+        "en-US": "Ttorarong: Private First Class Ssorur, did you see that human adventurer who came by last time with the... rather free-spirited facial features?",
+        "pt-BR": "Ttorarong: Soldado Ssorur, viu aquele humano entre os aventureiros que vieram da última vez, aquele com os traços do rosto bem... livres?",
+        "es-ES": "Ttorarong: Soldado de primera Ssorur, ¿vio a ese humano entre los aventureros que vinieron la otra vez, el que tenía los rasgos de la cara... bastante desordenados?"
+    },
+    "MCP3DQ": {
+        "en-US": "Ssorur: Ah! I think I know who you mean.",
+        "pt-BR": "Ssorur: Ah! Acho que sei de quem você está falando.",
+        "es-ES": "Ssorur: ¡Ah! Creo que sé de quién hablas."
+    },
+    "MSP3DQ": {
+        "en-US": "Ssorur: But wasn't it more of a complete mess than \"free-spirited\"?",
+        "pt-BR": "Ssorur: Mas não está mais para uma bagunça completa do que para \"livres\"?",
+        "es-ES": "Ssorur: Pero más que desordenados, ¿no parecían un auténtico caos?"
+    },
+    "MiP3DQ": {
+        "en-US": "Ttorarong: Ah, isn't that basically the same thing?",
+        "pt-BR": "Ttorarong: Ah, não dá na mesma?",
+        "es-ES": "Ttorarong: Vamos, ¿no es prácticamente lo mismo?"
+    },
+    "MyP3DQ": {
+        "en-US": "Ssorur: I don't know about human standards, but by Iwin standards, that face was definitely out of this world.",
+        "pt-BR": "Ssorur: Não sei qual é o padrão dos humanos, mas, para os Arwin, aquele rosto realmente não parecia deste mundo.",
+        "es-ES": "Ssorur: No sé según los estándares humanos, pero para un Awin, esa cara definitivamente no era de este mundo."
+    },
+    "NCP3DQ": {
+        "en-US": "Ssorur: Recruit! Corporal Poruryo is asking what's for dinner tonight.",
+        "pt-BR": "Ssorur: Recruta! O cabo Pporuryo está perguntando o que vai ter no jantar hoje.",
+        "es-ES": "Ssorur: ¡Recluta! El cabo Poruryo pregunta qué hay de cena hoy."
+    },
+    "NSP3DQ": {
+        "en-US": "Horurung: Ice Ligia soup, with Monster's Feed as a side dish.",
+        "pt-BR": "Horurung: Vai ter sopa de Ice Ligia e, como acompanhamento, comida de monstro.",
+        "es-ES": "Horurung: Habrá sopa de Ice Ligia y, como acompañamiento, comida para monstruos."
+    },
+    "NiP3DQ": {
+        "en-US": "Ttorarong: Ugh.. Monster's Feed again?",
+        "pt-BR": "Ttorarong: Eca.. Comida de monstro de novo?",
+        "es-ES": "Ttorarong: Puaj.. ¿Otra vez comida para monstruos?"
+    },
+    "NyP3DQ": {
+        "en-US": "Ssorur: Seriously, is there someone in the kitchen who's obsessed with Monster's Feed or something?",
+        "pt-BR": "Ssorur: Sério, será que tem alguém na cozinha que é louco por comida de monstro?",
+        "es-ES": "Ssorur: En serio, ¿hay alguien entre los cocineros que esté obsesionado con la comida para monstruos?"
+    },
+    "OCP3DQ": {
+        "en-US": "Ssorur: Why do they keep serving it as a side dish..",
+        "pt-BR": "Ssorur: Por que continuam servindo isso como acompanhamento..",
+        "es-ES": "Ssorur: ¿Por qué la siguen sirviendo como acompañamiento..?"
+    },
+    "OSP3DQ": {
+        "en-US": "Ssorur: Corporal Poruryo says he's skipping dinner today.",
+        "pt-BR": "Ssorur: O cabo Pporuryo disse que vai pular a refeição hoje.",
+        "es-ES": "Ssorur: El cabo Poruryo dice que hoy se salta la cena."
+    },
+    "OiP3DQ": {
+        "en-US": "Ttorarong: Private First Class Ssorur, have you ever tried Calmaring?",
+        "pt-BR": "Ttorarong: Soldado Ssorur, já experimentou Calamaring?",
+        "es-ES": "Ttorarong: Soldado de primera Ssorur, ¿ha probado el Kalamaring?"
+    },
+    "OyP3DQ": {
+        "en-US": "Ssorur: Calmaring? Yeah, it's tasty, but isn't it a bit hard to catch? You can't even find any around here.",
+        "pt-BR": "Ssorur: Calamaring? É gostoso, sim, mas não é meio difícil de pegar? E nem tem por aqui.",
+        "es-ES": "Ssorur: ¿Kalamaring? Sí, está rico, pero ¿no es un poco difícil de atrapar? Y ni siquiera hay por aquí."
+    },
+    "PCP3DQ": {
+        "en-US": "Ttorarong: I've never had it, sir. What does it taste like?",
+        "pt-BR": "Ttorarong: Eu nunca comi. Que gosto tem?",
+        "es-ES": "Ttorarong: Yo nunca lo he probado. ¿A qué sabe?"
+    },
+    "PSP3DQ": {
+        "en-US": "Ssorur: Hmm..",
+        "pt-BR": "Ssorur: Hum..",
+        "es-ES": "Ssorur: Mmm.."
+    },
+    "PiP3DQ": {
+        "en-US": "Ssorur: No comment, for your sake when you try it later.",
+        "pt-BR": "Ssorur: Para não estragar a surpresa quando você experimentar depois, não vou comentar.",
+        "es-ES": "Ssorur: Para que lo descubras cuando lo pruebes, no haré comentarios."
+    },
+    "PyP3DQ": {
+        "en-US": "Horurung: Private Ttorarong, I'm really happy we've been getting fried Ice Ligia as a side dish so often lately.",
+        "pt-BR": "Horurung: Soldado Ttorarong, estou adorando que ultimamente têm servido Ice Ligia frito como acompanhamento com frequência.",
+        "es-ES": "Horurung: Soldado de segunda Ttorarong, me encanta que últimamente sirvan seguido Ice Ligia frito como acompañamiento."
+    },
+    "QCP3DQ": {
+        "en-US": "Ttorarong: Have we?",
+        "pt-BR": "Ttorarong: É mesmo?",
+        "es-ES": "Ttorarong: ¿Ah, sí?"
+    },
+    "QSP3DQ": {
+        "en-US": "Ttorarong: Did some disease break out at the Ice Ligia farm recently or something?",
+        "pt-BR": "Ttorarong: Será que apareceu alguma doença na criação de Ice Ligia ultimamente?",
+        "es-ES": "Ttorarong: ¿Habrá habido alguna enfermedad recientemente en la granja de Ice Ligia?"
+    },
+    "QiP3DQ": {
+        "en-US": "Horurung: What?!",
+        "pt-BR": "Horurung: O quê?!",
+        "es-ES": "Horurung: ¡¿Qué?!"
+    },
+    "QyP3DQ": {
+        "en-US": "Ttorarong: Nothing. Just talking to myself. Eat up.",
+        "pt-BR": "Ttorarong: Nada. Estava falando sozinho. Pode comer bastante.",
+        "es-ES": "Ttorarong: Nada. Hablaba solo. Come mucho."
+    }
+}

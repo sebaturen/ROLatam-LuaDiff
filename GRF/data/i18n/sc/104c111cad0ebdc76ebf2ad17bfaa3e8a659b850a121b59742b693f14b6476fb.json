@@ -1,0 +1,1262 @@
+{
+    "oGQGDg": {
+        "en-US": "Moryara",
+        "pt-BR": "Moryara",
+        "es-ES": "Moryara"
+    },
+    "oWQGDg": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Não é possível prosseguir com a missão porque você está carregando itens demais.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos.\nOrganiza tu inventario y vuelve a intentarlo."
+    },
+    "omQGDg": {
+        "en-US": "[Moryara]\nI heard humans were coming...\nDid you get permission to go out? Acting alone without permission is dangerous.\nReturn to our nest.",
+        "pt-BR": "[Moryara]\nOuvi dizer que humanos estavam vindo para cá...\nVocê recebeu permissão para sair? Agir sozinho sem autorização é perigoso.\nVolte para o nosso ninho.",
+        "es-ES": "[Moryara]\nEscuché que vendrían humanos...\n¿Recibiste permiso para salir? Actuar por cuenta propia sin autorización es peligroso.\nRegresa a nuestro nido."
+    },
+    "o2QGDg": {
+        "en-US": "[Moryara]\nHmm... You're still weak.\nYou're so small, and you're that weak too, yet you say you'll help me?\nI appreciate the thought.",
+        "pt-BR": "[Moryara]\nHum... Você ainda é fraco.\nÉ tão pequeno e ainda por cima tão fraco, e mesmo assim quer me ajudar?\nAgradeço a intenção.",
+        "es-ES": "[Moryara]\nHmm... todavía eres débil.\nEres tan pequeño y además tan débil, ¿y aun así dices que vas a ayudarme?\nAgradezco la intención."
+    },
+    "pGQGDg": {
+        "en-US": "#ERROR!",
+        "pt-BR": "#ERROR!",
+        "es-ES": "#ERROR!"
+    },
+    "pWQGDg": {
+        "en-US": "[Moryara]\n...\nShh.\nIt's getting away. The prey.",
+        "pt-BR": "[Moryara]\n...\nShh.\nEstá fugindo. A presa.",
+        "es-ES": "[Moryara]\n...\nShh.\nSe escapa. La presa."
+    },
+    "pmQGDg": {
+        "en-US": "As the fishing Iwin was approached, they quietly spoke without even turning their head.",
+        "pt-BR": "O Arwin que estava pescando falou baixinho, sem nem virar a cabeça, quando me aproximei.",
+        "es-ES": "El Awin que estaba pescando habló en voz baja sin siquiera voltear la cabeza cuando me acerqué."
+    },
+    "p2QGDg": {
+        "en-US": "[Moryara]\nHuman, no matter how small you are, you're still bigger than a fish, so walk softly around here.\nMoryara is fishing right now.",
+        "pt-BR": "[Moryara]\nHumano, por menor que você seja, ainda é maior que um peixe, então ande devagar por aqui.\nMoryara está pescando agora.",
+        "es-ES": "[Moryara]\nHumano, por muy pequeño que seas, sigues siendo más grande que un pez, así que camina con cuidado por aquí.\nMoryara está pescando ahora."
+    },
+    "qGQGDg": {
+        "en-US": "Are fish that small even worth eating?",
+        "pt-BR": "Dá para comer um peixe tão pequeno?",
+        "es-ES": "¿Vale la pena comer un pez tan pequeño?"
+    },
+    "qWQGDg": {
+        "en-US": "You must be good at fishing?",
+        "pt-BR": "Parece que você pesca bem?",
+        "es-ES": "Parece que eres bueno pescando, ¿no?"
+    },
+    "qmQGDg": {
+        "en-US": "[Moryara]\nEven if every catch isn't a big one, it's important to prepare different kinds of fish.\nThat way, the table can be a bit more varied.\nHuman, are you good at fishing?",
+        "pt-BR": "[Moryara]\nMesmo que nem sempre seja um peixe grande, é importante preparar vários tipos de peixe.\nAssim a mesa fica mais variada.\nHumano, você sabe pescar?",
+        "es-ES": "[Moryara]\nAunque no siempre se pesque algo grande, es importante preparar distintos tipos de pescado.\nAsí la mesa tendrá un poco más de variedad.\nHumano, ¿se te da bien pescar?"
+    },
+    "q2QGDg": {
+        "en-US": "More or less.",
+        "pt-BR": "Mais ou menos",
+        "es-ES": "Más o menos."
+    },
+    "rGQGDg": {
+        "en-US": "I've done it before.",
+        "pt-BR": "Já pesquei antes",
+        "es-ES": "Lo he intentado antes."
+    },
+    "rWQGDg": {
+        "en-US": "A little.",
+        "pt-BR": "Um pouco",
+        "es-ES": "Un poco."
+    },
+    "rmQGDg": {
+        "en-US": "[{0}]\nWhen you're an adventurer, you end up doing it a few times.",
+        "pt-BR": "[{0}]\nSendo aventureiro, acaba aparecendo uma ou outra ocasião para pescar.",
+        "es-ES": "[{0}]\nSi eres aventurero, de vez en cuando surge la oportunidad de hacerlo."
+    },
+    "r2QGDg": {
+        "en-US": "[Moryara]\nOh...\nThen you've probably baited a hook before. Would you help me with this for a moment?",
+        "pt-BR": "[Moryara]\nOh...\nEntão você já deve ter colocado isca no anzol. Pode me ajudar um pouco com isto?",
+        "es-ES": "[Moryara]\nOh...\nEntonces ya habrás puesto carnada en un anzuelo. ¿Podrías ayudarme un momento con esto?"
+    },
+    "sGQGDg": {
+        "en-US": "Only then did the Iwin turn this way and point beside them.",
+        "pt-BR": "Só então o Arwin se virou para mim e apontou para o espaço ao lado dele.",
+        "es-ES": "Recién entonces, el Awin se volvió hacia mí y señaló el lugar a su lado."
+    },
+    "sWQGDg": {
+        "en-US": "[Moryara]\nNow, put the bait here onto the hook of this fishing rod that hasn't been set up yet...",
+        "pt-BR": "[Moryara]\nCerto, coloque a isca daqui no anzol desta vara de pesca que ainda não foi preparada...",
+        "es-ES": "[Moryara]\nBien, coloca esta carnada en el anzuelo de la caña que todavía no hemos preparado..."
+    },
+    "smQGDg": {
+        "en-US": "[Moryara]\nLike this...\nAnd like that...",
+        "pt-BR": "[Moryara]\nAssim...\nDesse jeito...",
+        "es-ES": "[Moryara]\nAsí...\ny así..."
+    },
+    "s2QGDg": {
+        "en-US": "[Moryara]\n...",
+        "pt-BR": "[Moryara]\n...",
+        "es-ES": "[Moryara]\n..."
+    },
+    "tGQGDg": {
+        "en-US": "This is more fun than expected.\nIt's the perfect place to clear your mind while occasionally gazing out at the cold sea.",
+        "pt-BR": "É uma tarefa mais divertida do que eu imaginava.\nOlhar de vez em quando para o mar gelado faz deste um lugar perfeito para organizar os pensamentos.",
+        "es-ES": "Es más entretenido de lo que esperaba.\nEs el lugar perfecto para ordenar los pensamientos mientras contemplo de vez en cuando el mar helado."
+    },
+    "tWQGDg": {
+        "en-US": "[Moryara]\n...!",
+        "pt-BR": "[Moryara]\n...!",
+        "es-ES": "[Moryara]\n...!"
+    },
+    "tmQGDg": {
+        "en-US": "The fishing Iwin moved their large body with surprising agility and pulled up one of the fishing rods.",
+        "pt-BR": "O pescador Arwin moveu seu corpo enorme com agilidade e puxou uma das varas de pesca.",
+        "es-ES": "El Awin pescador movió ágilmente su enorme cuerpo y tiró de una de las cañas."
+    },
+    "t2QGDg": {
+        "en-US": "[Moryara]\nHuh... I caught a big one today.\nIt's thanks to the human helping beside me.\nWhy don't you try fishing once too, human?",
+        "pt-BR": "[Moryara]\nOh... Hoje peguei um grande.\nFoi graças ao humano que me ajudou aqui ao lado.\nQue tal você tentar pescar também, humano?",
+        "es-ES": "[Moryara]\nOh... hoy salió uno grande.\nSe lo debo al humano que me ayudó aquí al lado.\n¿Qué tal si tú también pruebas pescar una vez?"
+    },
+    "uGQGDg": {
+        "en-US": "Just once, I suppose.",
+        "pt-BR": "Uma vez não faz mal",
+        "es-ES": "Bueno, una vez está bien."
+    },
+    "uWQGDg": {
+        "en-US": "[Moryara]\nThen I'll lend you this fishing rod. Just put on some fresh bait and cast it.",
+        "pt-BR": "[Moryara]\nEntão vou lhe emprestar esta vara de pesca agora. Basta colocar outra isca e lançar a linha.",
+        "es-ES": "[Moryara]\nEntonces te prestaré esta caña. Solo vuelve a ponerle carnada y lánzala."
+    },
+    "umQGDg": {
+        "en-US": "Following the Iwin's instructions, I baited the hook and cast the line back into the sea.",
+        "pt-BR": "Seguindo as instruções do Arwin, coloquei a isca e lancei a linha novamente ao mar.",
+        "es-ES": "Siguiendo las indicaciones del Awin, puse la carnada y volví a lanzar el sedal al mar."
+    },
+    "u2QGDg": {
+        "en-US": "Following the Iwin's instructions, I baited the hook and cast the line back into the sea.\n...",
+        "pt-BR": "Seguindo as instruções do Arwin, coloquei a isca e lancei a linha novamente ao mar.\n...",
+        "es-ES": "Siguiendo las indicaciones del Awin, puse la carnada y volví a lanzar el sedal al mar.\n..."
+    },
+    "vGQGDg": {
+        "en-US": "Following the Iwin's instructions, I baited the hook and cast the line back into the sea.\n...\n......",
+        "pt-BR": "Seguindo as instruções do Arwin, coloquei a isca no anzol e lancei a linha novamente ao mar.\n...\n......",
+        "es-ES": "Siguiendo las indicaciones del Awin, puse la carnada y volví a lanzar el sedal al mar.\n...\n......"
+    },
+    "vWQGDg": {
+        "en-US": "Following the Iwin's instructions, I baited the hook and cast the line back into the sea.\n...\n......\n.........",
+        "pt-BR": "Seguindo as instruções do Arwin, coloquei a isca no anzol e lancei a linha novamente ao mar.\n...\n......\n.........",
+        "es-ES": "Siguiendo las indicaciones del Awin, puse la carnada y volví a lanzar el sedal al mar.\n...\n......\n........."
+    },
+    "vmQGDg": {
+        "en-US": "[{0}]\n!",
+        "pt-BR": "[{0}]\n!",
+        "es-ES": "[{0}]\n!"
+    },
+    "v2QGDg": {
+        "en-US": "[Moryara]\nOh! This is... seaweed.\nLooks delicious. You've got real talent.",
+        "pt-BR": "[Moryara]\nOh! Isto é... uma alga.\nParece deliciosa. Você realmente tem talento.",
+        "es-ES": "[Moryara]\n¡Oh! Esto es... alga.\nSe ve deliciosa. De verdad tienes talento."
+    },
+    "wGQGDg": {
+        "en-US": "[Moryara]\nThis will be a huge help with our food reserves!\nI know you're busy, but would you lend me a hand a little longer?",
+        "pt-BR": "[Moryara]\nIsso vai ajudar muito a aumentar nossas reservas de comida!\nSei que você está ocupado, mas poderia me dar mais uma mãozinha?",
+        "es-ES": "[Moryara]\n¡Esto será de gran ayuda para nuestras reservas de comida!\nSé que estás ocupado, pero ¿podrías echarme una mano un poco más?"
+    },
+    "wWQGDg": {
+        "en-US": "I don't think I'm talented at fishing.",
+        "pt-BR": "Na minha opinião, não tenho talento para pescar.",
+        "es-ES": "A mí me parece que no tengo talento para pescar."
+    },
+    "wmQGDg": {
+        "en-US": "[{0}]\n...I think I'm better at hunting than fishing.",
+        "pt-BR": "[{0}]\n...Acho que sou melhor caçando do que pescando.",
+        "es-ES": "[{0}]\n...Creo que se me da mejor cazar que pescar."
+    },
+    "w2QGDg": {
+        "en-US": "[Moryara]\nOh! That's right, what we catch from the water alone isn't enough. A battle-hardened warrior really does think differently.\nIn that case, around here...\nShining Seaweed grow naturally. Could you hunt just 20 of them for me?",
+        "pt-BR": "[Moryara]\nOh! É verdade, só o que se pega na água não é suficiente. Como esperado de alguém experiente em inúmeras batalhas, sua disposição é diferente.\nNesse caso, aqui perto...\nhá Alga Brilhante vivendo naturalmente por aqui. Poderia derrotar apenas 20 para mim?",
+        "es-ES": "[Moryara]\n¡Oh! Claro, no basta con conseguir cosas del agua. Como era de esperar de alguien curtido en mil batallas, tienes otra mentalidad.\nEntonces, por aquí...\ncrecen Alga brillante de forma silvestre. ¿Podrías cazar solo 20?"
+    },
+    "xGQGDg": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Aceptar."
+    },
+    "xWQGDg": {
+        "en-US": "I'm busy, so I'll be going.",
+        "pt-BR": "Estou ocupado, então vou indo.",
+        "es-ES": "Estoy ocupado, así que me voy."
+    },
+    "xmQGDg": {
+        "en-US": "[Moryara]\nI'm truly grateful!\nThey may sound cute, but what they do isn't cute at all. Be careful.",
+        "pt-BR": "[Moryara]\nQue grande ajuda!\nElas fazem sons fofos, mas o que fazem não tem nada de fofo. Tome cuidado.",
+        "es-ES": "[Moryara]\n¡Te lo agradezco mucho!\nSuenan adorables, pero lo que hacen no tiene nada de adorable. Ten cuidado."
+    },
+    "x2QGDg": {
+        "en-US": "[Moryara]\nIf you're busy, it can't be helped.\nAh... Not everyone is born with a talent for fishing up seaweed...",
+        "pt-BR": "[Moryara]\nSe está ocupado, não tem jeito.\nAh... Não é todo mundo que nasce com talento para pescar algas...",
+        "es-ES": "[Moryara]\nSi estás ocupado, no hay remedio.\nAh... no cualquiera nace con un talento como el de pescar algas..."
+    },
+    "yGQGDg": {
+        "en-US": "[Moryara]\nPlease hunt 20\n^0000FFShining Seaweed^000000 that grow naturally around here.",
+        "pt-BR": "[Moryara]\nDerrote 20\n^0000FFAlga Brilhante^000000 que vivem naturalmente por esta região.",
+        "es-ES": "[Moryara]\nElimina 20\n^0000FFAlga brillante^000000 que crecen de forma silvestre por esta zona."
+    },
+    "yWQGDg": {
+        "en-US": "[Moryara]\nOh, the human has returned.",
+        "pt-BR": "[Moryara]\nOh, o humano voltou.",
+        "es-ES": "[Moryara]\nOh, el humano ha regresado."
+    },
+    "ymQGDg": {
+        "en-US": "[{0}]\n...{0}.\nCall me by my name.",
+        "pt-BR": "[{0}]\n...{0}.\nMe chame pelo nome.",
+        "es-ES": "[{0}]\n...{0}.\nLlámame por mi nombre."
+    },
+    "y2QGDg": {
+        "en-US": "[Moryara]\nOhoho, {0}!\nWhat a fine name.\nYou may call me Moryara, but in a pronunciation easier for humans, my name is Asha Scarlet Aegi Gracia Cassia Karena Eva Aloha.\nCall me whichever you prefer.",
+        "pt-BR": "[Moryara]\nOoooh, {0}!\nQue nome magnífico.\nPode me chamar de Moryara, mas, numa pronúncia mais fácil para humanos, meu nome é Asha Scarlet Aegi Gracia Cassia Karena Eva Aloha.\nPode me chamar como preferir.",
+        "es-ES": "[Moryara]\n¡Ohhh, {0}!\nQué nombre tan elegante.\nPuedes llamarme Moryara, pero en una pronunciación que a los humanos les resulta más fácil, me llamo Asha Scarlet Aggie Gracia Cassia Carena Eva Aloha.\nLlámame como prefieras."
+    },
+    "zGQGDg": {
+        "en-US": "[Moryara]\nYou hunted Shining Seaweed?\nI'm grateful. As you can see, all I ever catch are fish. The children in the nest will be delighted.\nIf you have time, how about fishing again tomorrow?",
+        "pt-BR": "[Moryara]\nVocê derrotou as Alga Brilhante?\nSou muito grato. Como pode ver, eu só consigo pescar peixes. As crianças do ninho vão adorar.\nSe tiver tempo, que tal pescar de novo amanhã?",
+        "es-ES": "[Moryara]\n¿Dices que cazaste Alga brillante?\nTe lo agradezco. Como puedes ver, yo solo logro pescar peces. A los pequeños del nido les encantará.\nSi tienes tiempo, ¿qué te parece venir a pescar mañana también?"
+    },
+    "zWQGDg": {
+        "en-US": "[Moryara]\nWe have enough seaweed for today.\nThe children will be delighted.",
+        "pt-BR": "[Moryara]\nHoje já temos algas suficientes.\nAs crianças vão adorar.",
+        "es-ES": "[Moryara]\nPor hoy tenemos suficientes algas.\nA los pequeños les encantarán."
+    },
+    "zmQGDg": {
+        "en-US": "[Moryara]\nYou're back, {0}?\nHow about fishing today?\n...You don't want to?\nThen, if you have time, could you hunt just 20 Shining Seaweed that grow around here?",
+        "pt-BR": "[Moryara]\nVeio de novo, {0}?\nQue tal pescar hoje?\n...Não quer?\nEntão, se tiver tempo, poderia derrotar apenas 20 Alga Brilhante que vivem naturalmente por aqui?",
+        "es-ES": "[Moryara]\n¿Has vuelto, {0}?\n¿Qué te parece pescar hoy?\n...¿No quieres?\nEntonces, si tienes tiempo, ¿podrías cazar 20 Alga brillante que crecen de forma silvestre por aquí?"
+    },
+    "z2QGDg": {
+        "en-US": "[Moryara]\nIf you're busy, it can't be helped.\nMaybe fishing, at least...\nNo. Never mind.",
+        "pt-BR": "[Moryara]\nSe está ocupado, não tem jeito.\nPelo menos pescar...\nNão. Deixa para lá.",
+        "es-ES": "[Moryara]\nSi estás ocupado, no hay remedio.\nAunque sea pescar...\nNo. Olvídalo."
+    },
+    "0GQGDg": {
+        "en-US": "[Moryara]\nOh, {0}! You're back.",
+        "pt-BR": "[Moryara]\nOh, {0}! Você voltou.",
+        "es-ES": "[Moryara]\n¡Oh, {0}! Has vuelto."
+    },
+    "0WQGDg": {
+        "en-US": "[Moryara]\nYou hunted Shining Seaweed?\nI'm grateful. As you can see, all I ever catch are fish. The children in the nest will be delighted.\nIf you have time, maybe tomorrow we can finally go fishing...",
+        "pt-BR": "[Moryara]\nVocê derrotou as Alga Brilhante?\nAgradeço muito. Como pode ver, eu só consigo pescar peixes. As crianças do ninho vão adorar.\nSe tiver tempo, amanhã finalmente podemos pescar...",
+        "es-ES": "[Moryara]\n¿Dices que cazaste Alga brillante?\nTe lo agradezco. Como puedes ver, yo solo logro pescar peces. A los pequeños del nido les encantará.\nSi tienes tiempo, mañana sí podríamos ir a pescar..."
+    },
+    "0mQGDg": {
+        "en-US": "[Moryara]\nLet's think about it tomorrow!",
+        "pt-BR": "[Moryara]\nVamos pensar nisso amanhã!",
+        "es-ES": "[Moryara]\n¡Ya lo pensaremos mañana!"
+    },
+    "02QGDg": {
+        "en-US": "Joryara",
+        "pt-BR": "Joryara",
+        "es-ES": "Joryara"
+    },
+    "1GQGDg": {
+        "en-US": "[Joryara]\nI heard humans were coming...\nDid you get permission to go out? We're practically in a state of war, so acting alone without permission is dangerous.\nReturn to our nest.",
+        "pt-BR": "[Joryara]\nOuvi dizer que humanos estavam vindo para cá...\nVocê recebeu permissão para sair? Estamos, por assim dizer, em estado de guerra, então agir sozinho sem autorização é perigoso.\nVolte para o nosso ninho.",
+        "es-ES": "[Joryara]\nEscuché que vendrían humanos...\n¿Recibiste permiso para salir? Por decirlo así, estamos en estado de guerra, así que actuar por cuenta propia sin autorización es peligroso.\nRegresa a nuestro nido."
+    },
+    "1WQGDg": {
+        "en-US": "[Joryara]\nHmm... You're still weak.\nYou're so small, and you're that weak too, yet you say you'll help me?\nI appreciate the thought.",
+        "pt-BR": "[Joryara]\nHum... Você ainda é fraco.\nÉ tão pequeno e ainda por cima tão fraco, e mesmo assim quer me ajudar?\nAgradeço a intenção.",
+        "es-ES": "[Joryara]\nHmm... todavía eres débil.\nEres tan pequeño y además tan débil, ¿y aun así dices que vas a ayudarme?\nAgradezco la intención."
+    },
+    "1mQGDg": {
+        "en-US": "[Joryara]\nAre you the human who came with Hellrock this time? Nice to meet you.\nI'm Jo...\nAlvin Alexandria Adel David Cassia Harry Apollo.\nCall me whichever you prefer.",
+        "pt-BR": "[Joryara]\nVocê é o humano que veio com Hellok desta vez? Prazer em conhecê-lo.\nEu sou Jo...\nAlvin Alexandria Adele David Cassia Harry Apollo.\nPode me chamar como preferir.",
+        "es-ES": "[Joryara]\n¿Eres el humano que llegó esta vez junto con Hellok? Un gusto.\nYo soy Jo...\nAlvin Alexandria Adele David Cassia Harry Apollo.\nLlámame como prefieras."
+    },
+    "12QGDg": {
+        "en-US": "[Horyara]\nMy big brother's name is Joryara!\nI'm Horyara.",
+        "pt-BR": "[Horyara]\nO nome do meu irmão mais velho é Joryara!\nE eu sou Horyara.",
+        "es-ES": "[Horyara]\n¡Mi hermano mayor se llama Joryara!\nYo soy Horyara."
+    },
+    "2GQGDg": {
+        "en-US": "[Joryara]\n...Horyara!",
+        "pt-BR": "[Joryara]\n...Horyara!",
+        "es-ES": "[Joryara]\n...¡Horyara!"
+    },
+    "2WQGDg": {
+        "en-US": "[Joryara]\n...Ahem.\nMy assistant misspoke.",
+        "pt-BR": "[Joryara]\n...Cof, cof.\nMinha assistente falou demais.",
+        "es-ES": "[Joryara]\n...Ejem.\nNuestro asistente ha dicho algo que no debía."
+    },
+    "2mQGDg": {
+        "en-US": "[Joryara]\nAs you can see, this is both the kitchen and dining hall.\nThe kitchen is open to everyone, but I'm in charge of managing the ingredients.\nI wouldn't exactly call it cooking... but if anything needs chopping, mincing, or slicing, I do it.",
+        "pt-BR": "[Joryara]\nComo pode ver, aqui funciona como cozinha e refeitório.\nA cozinha é aberta a todos, mas sou eu quem cuida dos ingredientes.\nNão chega a ser culinária propriamente dita... mas, se for preciso cortar, picar ou fatiar, eu faço.",
+        "es-ES": "[Joryara]\nComo puedes ver, este lugar funciona como cocina y comedor.\nLa cocina está abierta para todos, pero yo me encargo de administrar los ingredientes.\nNo es que sea cocinar como tal... pero si hace falta cortar, picar o rebanar, yo lo hago."
+    },
+    "22QGDg": {
+        "en-US": "[Joryara]\nEverything is frozen anyway...\nFortunately, we don't have to worry about it spoiling.\nAnd using fire reduces the amount of food we end up with.\nSince I've been managing the supplies, I've learned there are times when we simply need as much food as possible.",
+        "pt-BR": "[Joryara]\nDe qualquer forma, está tudo congelado...\nPelo menos não precisamos nos preocupar com a comida estragando.\nE, quando usamos fogo, a quantidade diminui.\nDepois que comecei a cuidar dos estoques, percebi que há épocas em que o mais importante é simplesmente ter bastante comida.",
+        "es-ES": "[Joryara]\nComo todo está congelado de todos modos...\npor suerte no hay que preocuparse de que se eche a perder.\nAdemás, si usamos fuego, la cantidad final se reduce.\nDesde que me encargo de administrarlo, he visto que a veces hay períodos en los que, pase lo que pase, necesitamos tener mucha cantidad."
+    },
+    "3GQGDg": {
+        "en-US": "[Joryara]\n...I've been rambling on by myself.\nWhen Moryara goes fishing, I have to look after Horyara...",
+        "pt-BR": "[Joryara]\n...Acabei falando sozinho por tempo demais.\nQuando Moryara sai para pescar, sou eu quem precisa cuidar de Horyara...",
+        "es-ES": "[Joryara]\n...Me puse a hablar solo sin parar.\nCuando Moryara sale a pescar, yo tengo que cuidar a Horyara..."
+    },
+    "3WQGDg": {
+        "en-US": "Horyara : I'm the one looking after my big brother!",
+        "pt-BR": "Horyara : Sou eu que cuido do meu irmão!",
+        "es-ES": "Horyara : ¡Soy yo quien cuida a mi hermano!"
+    },
+    "3mQGDg": {
+        "en-US": "[Joryara]\nOur parents are members of the patrol, you see.\nHoryara was mostly raised by me and our second-born, Moryara.",
+        "pt-BR": "[Joryara]\nNossos pais fazem parte da patrulha.\nEntão Horyara praticamente foi criada por mim e pelo segundo mais velho, Moryara.",
+        "es-ES": "[Joryara]\nNuestros padres pertenecen a la patrulla.\nA Horyara prácticamente la criamos entre yo y Moryara, que es el segundo."
+    },
+    "32QGDg": {
+        "en-US": "Horyara : I'm the one who looks after my big brother!",
+        "pt-BR": "Horyara : Sou eu que cuido do meu irmão!",
+        "es-ES": "Horyara : ¡Soy yo quien cuida a mi hermano!"
+    },
+    "4GQGDg": {
+        "en-US": "[Joryara]\nAssistant. I'm talking with our guest.",
+        "pt-BR": "[Joryara]\nAssistente. Estou conversando com uma visita.",
+        "es-ES": "[Joryara]\nAsistente. Estoy hablando con nuestro invitado."
+    },
+    "4WQGDg": {
+        "en-US": "Horyara : Yes!",
+        "pt-BR": "Horyara : Sim!",
+        "es-ES": "Horyara : ¡Sí!"
+    },
+    "4mQGDg": {
+        "en-US": "[Joryara]\nPlease understand.",
+        "pt-BR": "[Joryara]\nEspero que entenda.",
+        "es-ES": "[Joryara]\nEspero que lo entiendas."
+    },
+    "42QGDg": {
+        "en-US": "Horyara : I want some Ice Straw!",
+        "pt-BR": "Horyara : Quero comer Palha de Gelo!",
+        "es-ES": "Horyara : ¡Quiero comer Ice Straw!"
+    },
+    "5GQGDg": {
+        "en-US": "[Joryara]\n...",
+        "pt-BR": "[Joryara]\n...",
+        "es-ES": "[Joryara]\n..."
+    },
+    "5WQGDg": {
+        "en-US": "[Joryara]\nYou mean <ITEM>[Thin Tough Shell]<INFO>1000830</INFO></ITEM>...? I'm completely out of stock.\nIf I had about 15, I could manage...",
+        "pt-BR": "[Joryara]\nEstá falando de <ITEM>[Casca Fina e Resistente]<INFO>1000830</INFO></ITEM>...? O estoque acabou completamente.\nSe tivéssemos umas 15, daria para resolver...",
+        "es-ES": "[Joryara]\n¿Hablas de <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM>...? Se nos acabaron por completo.\nSi tuviera unas 15 unidades, podría arreglármelas..."
+    },
+    "5mQGDg": {
+        "en-US": "Torarung : Me too!",
+        "pt-BR": "Torarung : Eu também!",
+        "es-ES": "Torarung : ¡Yo también!"
+    },
+    "52QGDg": {
+        "en-US": "This must be a daycare.",
+        "pt-BR": "Parece que era uma creche.",
+        "es-ES": "Debe haber sido una guardería."
+    },
+    "6GQGDg": {
+        "en-US": "Go hunting in their place",
+        "pt-BR": "Ir caçar no lugar deles",
+        "es-ES": "Salir a cazar en su lugar"
+    },
+    "6WQGDg": {
+        "en-US": "Comfort them",
+        "pt-BR": "Consolar",
+        "es-ES": "Consolarlo"
+    },
+    "6mQGDg": {
+        "en-US": "[Joryara]\nI can't thank you enough!\nI'll look after the children... Ah, of course, human, you have nothing to do with our little ones, but...\nYou can get <ITEM>[Thin Tough Shell]<INFO>1000830</INFO></ITEM> by hunting Ice Straw.\nPlease bring me just 15!",
+        "pt-BR": "[Joryara]\nComo agradeço!\nEu vou cuidar das crianças... Ah, claro, humano, você não tem nada a ver com os nossos pequenos...\nDá para conseguir <ITEM>[Casca Fina e Resistente]<INFO>1000830</INFO></ITEM> caçando Palha de Gelo.\nTraga só 15, por favor!",
+        "es-ES": "[Joryara]\n¡Te lo agradezco mucho!\nYo cuidaré a los niños... Ah, claro, humano, aunque tú no tienes nada que ver con nuestros pequeños...\nPuedes conseguir <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM> cazando Ice Straw.\n¡Solo necesito 15, por favor!"
+    },
+    "62QGDg": {
+        "en-US": "[Joryara]\nIt happens all the time, but...\nYeah. It always does...",
+        "pt-BR": "[Joryara]\nÉ algo que acontece sempre, mas...\nSim. Acontece sempre...",
+        "es-ES": "[Joryara]\nEs algo que pasa siempre, pero...\nSí. Pasa todo el tiempo..."
+    },
+    "7GQGDg": {
+        "en-US": "Torarung : Joryara, play with me!",
+        "pt-BR": "Torarung : Joryara, brinque comigo!",
+        "es-ES": "Torarung : ¡Joryara, juega conmigo!"
+    },
+    "7WQGDg": {
+        "en-US": "[Joryara]\nThanks, human!",
+        "pt-BR": "[Joryara]\nObrigado, humano!",
+        "es-ES": "[Joryara]\n¡Gracias, humano!"
+    },
+    "7mQGDg": {
+        "en-US": "Horyara : Thanks, human!",
+        "pt-BR": "Horyara : Obrigado, humano!",
+        "es-ES": "Horyara : ¡Gracias, humano!"
+    },
+    "72QGDg": {
+        "en-US": "Thanks, human!",
+        "pt-BR": "Obrigado, humano!",
+        "es-ES": "¡Gracias, humano!"
+    },
+    "8GQGDg": {
+        "en-US": "[Joryara]\n...\nPhew...",
+        "pt-BR": "[Joryara]\n...\nAi...",
+        "es-ES": "[Joryara]\n...\nUf..."
+    },
+    "8WQGDg": {
+        "en-US": "[Joryara]\nAll right... I'll chop it up nice and small, so stay well back.\nIt's dangerous if the ice shards go flying.\nHuman, if you're going to watch, step back a little.\nNow then, shall I get chopping...",
+        "pt-BR": "[Joryara]\nPronto, pronto... Vou cortar tudo bem miudinho, então fiquem longe.\nÉ perigoso se pedaços de gelo voarem.\nHumano, se vai ficar olhando, recue um pouco.\nCerto, vamos começar a cortar...",
+        "es-ES": "[Joryara]\nBien, bien... Lo cortaré en trocitos, así que aléjense.\nEs peligroso si salen volando pedazos de hielo.\nHumano, si vas a mirar, retrocede un poco.\nBien, entonces veamos qué tal manejo el cuchillo..."
+    },
+    "8mQGDg": {
+        "en-US": "Joryara : Special move! Iwin Guardian Style: Swift Severing Slash!",
+        "pt-BR": "Joryara : Golpe fatal! Estilo dos Guardiões de Arwin, Corte Implacável!",
+        "es-ES": "Joryara : ¡Técnica definitiva! ¡Corte Relámpago, estilo Guardián de Awin!"
+    },
+    "82QGDg": {
+        "en-US": "Horyara : Joryara is so cool!",
+        "pt-BR": "Horyara : Joryara é incrível!",
+        "es-ES": "Horyara : ¡Joryara es genial!"
+    },
+    "9GQGDg": {
+        "en-US": "Joryara is so cool!",
+        "pt-BR": "Joryara é incrível!",
+        "es-ES": "¡Joryara es genial!"
+    },
+    "9WQGDg": {
+        "en-US": "[Joryara]\nWould you bring me 15 <ITEM>[Thin Tough Shell]<INFO>1000830</INFO></ITEM>...?\nThe kids want to eat them, so I don't have much choice.",
+        "pt-BR": "[Joryara]\nVocê não poderia trazer 15 <ITEM>[Casca Fina e Resistente]<INFO>1000830</INFO></ITEM> para mim...?\nAs crianças querem comer, então não tem jeito.",
+        "es-ES": "[Joryara]\n¿Podrías conseguirme 15 unidades de <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM>...?\nLos niños quieren comerlas, así que no hay de otra."
+    },
+    "9mQGDg": {
+        "en-US": "Horyara : Joryara can't hunt!",
+        "pt-BR": "Horyara : Joryara não sabe caçar!",
+        "es-ES": "Horyara : ¡Joryara no sabe cazar!"
+    },
+    "92QGDg": {
+        "en-US": "Torarung : But he's good with a knife!",
+        "pt-BR": "Torarung : Mas sabe usar a faca!",
+        "es-ES": "Torarung : ¡Pero sí sabe usar el cuchillo!"
+    },
+    "+GQGDg": {
+        "en-US": "Joryara : You little rascals...",
+        "pt-BR": "Joryara : Seus pestinhas...",
+        "es-ES": "Joryara : Estos mocosos..."
+    },
+    "+WQGDg": {
+        "en-US": "[Joryara]\nSeeing the kids happy takes a load off my mind.\nTo think we'd involve another race in raising our young... Heh, what a thing.",
+        "pt-BR": "[Joryara]\nAs crianças estão felizes, então também tirei um peso das costas.\nAcabar envolvendo alguém de outra raça na criação dos nossos filhos... Ora, ora.",
+        "es-ES": "[Joryara]\nLos niños están contentos, así que yo también estoy más tranquilo.\nHacer que alguien de otra especie participe en la crianza de nuestros pequeños... Ja, ja. Qué cosas."
+    },
+    "+mQGDg": {
+        "en-US": "[Joryara]\nPant, pant...\nHuman, good to see you...",
+        "pt-BR": "[Joryara]\nArf, arf...\nHumano, que bom ver você...",
+        "es-ES": "[Joryara]\nUf, uf...\nHumano, qué gusto verte..."
+    },
+    "+2QGDg": {
+        "en-US": "Busy again today, huh?",
+        "pt-BR": "Está ocupado hoje também.",
+        "es-ES": "Hoy también estás ocupado."
+    },
+    "/GQGDg": {
+        "en-US": "[Joryara]\nNo... I mean, well...",
+        "pt-BR": "[Joryara]\nNão... Quer dizer, é que...",
+        "es-ES": "[Joryara]\nNo... Bueno, es que..."
+    },
+    "/WQGDg": {
+        "en-US": "Horyara : I want some Jellopy!",
+        "pt-BR": "Horyara : Quero comer Jellopy!",
+        "es-ES": "Horyara : ¡Quiero comer Jellopy!"
+    },
+    "/mQGDg": {
+        "en-US": "Torarung : Me too!",
+        "pt-BR": "Torarung : Eu também!",
+        "es-ES": "Torarung : ¡Yo también!"
+    },
+    "/2QGDg": {
+        "en-US": "[Joryara]\n...I mean, well.\nIt's not that I can't manage the stock... The kids just really like it.\nWould you happen to bring me 15 <ITEM>[Thin Tough Shell]<INFO>1000830</INFO></ITEM>...",
+        "pt-BR": "[Joryara]\n...Quer dizer, é que...\nNão é que eu não saiba controlar o estoque... É que as crianças gostam muito disso.\nSerá que você poderia trazer 15 <ITEM>[Casca Fina e Resistente]<INFO>1000830</INFO></ITEM>...?",
+        "es-ES": "[Joryara]\n...Bueno, es que...\nNo es que no sepa administrar las existencias... es que a los niños les gusta mucho.\n¿Podrías conseguirme 15 unidades de <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM>...?"
+    },
+    "AGUGDg": {
+        "en-US": "I'm busy, so I'll be going.",
+        "pt-BR": "Estou ocupado, então vou indo",
+        "es-ES": "Estoy ocupado, así que me voy."
+    },
+    "AWUGDg": {
+        "en-US": "[Joryara]\nThanks...\nYou can get <ITEM>[Thin Tough Shell]<INFO>1000830</INFO></ITEM> by hunting Ice Straw.",
+        "pt-BR": "[Joryara]\nObrigado...\nDá para conseguir <ITEM>[Casca Fina e Resistente]<INFO>1000830</INFO></ITEM> caçando Palha de Gelo.",
+        "es-ES": "[Joryara]\nGracias...\nPuedes conseguir <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM> cazando Ice Straw."
+    },
+    "AmUGDg": {
+        "en-US": "Horyara : Play with us until the human gets back!",
+        "pt-BR": "Horyara : Brinque comigo até o humano voltar!",
+        "es-ES": "Horyara : ¡Juega conmigo hasta que vuelva el humano!"
+    },
+    "A2UGDg": {
+        "en-US": "[Joryara]\nCan't be helped...",
+        "pt-BR": "[Joryara]\nNão tem jeito...",
+        "es-ES": "[Joryara]\nNo hay de otra..."
+    },
+    "BGUGDg": {
+        "en-US": "Horyara : Should your assistant go get them?",
+        "pt-BR": "Horyara : Quer que eu vá ajudar?",
+        "es-ES": "Horyara : ¿Quieres que vaya el ayudante?"
+    },
+    "BWUGDg": {
+        "en-US": "Torarung : I wanna go too!",
+        "pt-BR": "Torarung : Eu também quero ir!",
+        "es-ES": "Torarung : ¡Yo también quiero ir!"
+    },
+    "BmUGDg": {
+        "en-US": "Joryara : You're not ready for that yet! Now, now, you stay here and play... right here.",
+        "pt-BR": "Joryara : Vocês ainda são muito pequenos! Vamos, vamos, brinquem aqui... Aqui.",
+        "es-ES": "Joryara : ¡A ustedes todavía les falta mucho! Vamos, vamos, jueguen aquí... aquí."
+    },
+    "B2UGDg": {
+        "en-US": "Me too!",
+        "pt-BR": "Eu também!",
+        "es-ES": "¡Yo también!"
+    },
+    "CGUGDg": {
+        "en-US": "Torarung : Thanks, human!",
+        "pt-BR": "Torarung : Obrigado, humano!",
+        "es-ES": "Torarung : ¡Gracias, humano!"
+    },
+    "CWUGDg": {
+        "en-US": "[Joryara]\nCome back again in a little while.",
+        "pt-BR": "[Joryara]\nVolte daqui a pouco.",
+        "es-ES": "[Joryara]\nVuelve dentro de un rato."
+    },
+    "CmUGDg": {
+        "en-US": "Jjorori",
+        "pt-BR": "Jjorori",
+        "es-ES": "Jjorori"
+    },
+    "C2UGDg": {
+        "en-US": "[Jjorori]\nWhat should we play today?\nShould we groom Joryara?",
+        "pt-BR": "[Jjorori]\nDo que vamos brincar hoje?\nQue tal pentear os pelos de Joryara?",
+        "es-ES": "[Jjorori]\n¿A qué jugamos hoy?\n¿Le arreglamos el pelaje a Joryara?"
+    },
+    "DGUGDg": {
+        "en-US": "Goryar",
+        "pt-BR": "Goryar",
+        "es-ES": "Goryar"
+    },
+    "DWUGDg": {
+        "en-US": "[Goryar]\nI want a little more seaweed.",
+        "pt-BR": "[Goryar]\nQuero comer mais um pouco de alga.",
+        "es-ES": "[Goryar]\nQuiero comer un poco más de algas."
+    },
+    "DmUGDg": {
+        "en-US": "Jjororu",
+        "pt-BR": "Jjororu",
+        "es-ES": "Jjororu"
+    },
+    "D2UGDg": {
+        "en-US": "[Jjororu]\nI'm sleepy after eating...",
+        "pt-BR": "[Jjororu]\nFiquei com sono depois de comer...",
+        "es-ES": "[Jjororu]\nMe dio sueño después de comer..."
+    },
+    "EGUGDg": {
+        "en-US": "Horari",
+        "pt-BR": "Horari",
+        "es-ES": "Horari"
+    },
+    "EWUGDg": {
+        "en-US": "[Horari]\nI wonder if Mom is doing her patrol properly?",
+        "pt-BR": "[Horari]\nSerá que a mamãe está fazendo a patrulha direitinho?",
+        "es-ES": "[Horari]\n¿Mamá estará haciendo bien su ronda de patrulla?"
+    },
+    "EmUGDg": {
+        "en-US": "Ttorira",
+        "pt-BR": "Ttorira",
+        "es-ES": "Ttorira"
+    },
+    "E2UGDg": {
+        "en-US": "[Ttorira]\nI'm going to grow up to be a great adult just like Dad.",
+        "pt-BR": "[Ttorira]\nQuando eu crescer, vou ser um adulto incrível como o papai.",
+        "es-ES": "[Ttorira]\nCuando crezca, seré un adulto admirable como papá."
+    },
+    "FGUGDg": {
+        "en-US": "Jjororo",
+        "pt-BR": "Jjororo",
+        "es-ES": "Jjororo"
+    },
+    "FWUGDg": {
+        "en-US": "[Jjororo]\nWhen I grow up~\nI'll help Joryara!",
+        "pt-BR": "[Jjororo]\nQuando eu crescer~\nVou ajudar Joryara!",
+        "es-ES": "[Jjororo]\nCuando sea grande~\n¡Ayudaré a Joryara!"
+    },
+    "FmUGDg": {
+        "en-US": "Joryara : You could help me now, too...",
+        "pt-BR": "Joryara : Já poderia ajudar agora...",
+        "es-ES": "Joryara : Aunque también podrías ayudarme ahora..."
+    },
+    "F2UGDg": {
+        "en-US": "Koriri",
+        "pt-BR": "Koriri",
+        "es-ES": "Koriri"
+    },
+    "GGUGDg": {
+        "en-US": "[Koriri]\nWhen I grow up, I'm going to join the patrol!\nAs for the patrol hat, I like green. I'm going to wear green.",
+        "pt-BR": "[Koriri]\nQuando eu crescer, vou entrar para a patrulha!\nSobre o chapéu da patrulha, eu gosto do verde. Vou usar o verde.",
+        "es-ES": "[Koriri]\n¡Cuando sea grande, formaré parte de la patrulla!\nSobre el sombrero de la patrulla, me gusta el verde. Usaré uno verde."
+    },
+    "GWUGDg": {
+        "en-US": "Ssorarang : Yellow is cooler!",
+        "pt-BR": "Ssorarang : O amarelo é mais bonito!",
+        "es-ES": "Ssorarang : ¡El amarillo se ve mejor!"
+    },
+    "GmUGDg": {
+        "en-US": "Koriri : Green is cooler!",
+        "pt-BR": "Koriri : O verde é mais bonito!",
+        "es-ES": "Koriri : ¡El verde se ve mejor!"
+    },
+    "G2UGDg": {
+        "en-US": "Ssorarang",
+        "pt-BR": "Ssorarang",
+        "es-ES": "Ssorarang"
+    },
+    "HGUGDg": {
+        "en-US": "[Ssorarang]\nWhen I grow up, I'm going to join the patrol!\nA patrol hat? I like yellow. Red looks tacky.",
+        "pt-BR": "[Ssorarang]\nQuando eu crescer, vou entrar para a patrulha!\nO chapéu da patrulha? Eu gosto do amarelo. Vermelho é cafona.",
+        "es-ES": "[Ssorarang]\n¡Cuando sea grande, formaré parte de la patrulla!\n¿El sombrero de la patrulla? Me gusta el amarillo. El rojo se ve anticuado."
+    },
+    "HWUGDg": {
+        "en-US": "Koriri : That's right. Red really is tacky.",
+        "pt-BR": "Koriri : É verdade. Vermelho realmente é cafona.",
+        "es-ES": "Koriri : Sí. Es cierto que el rojo se ve anticuado."
+    },
+    "HmUGDg": {
+        "en-US": "Horyara",
+        "pt-BR": "Horyara",
+        "es-ES": "Horyara"
+    },
+    "H2UGDg": {
+        "en-US": "[Horyara]\nI am Horyara!\nSomeday, I'll become a great guardian!",
+        "pt-BR": "[Horyara]\nEu sou Horyara!\nNo futuro, vou me tornar um grande guardião!",
+        "es-ES": "[Horyara]\n¡Soy Horyara!\n¡En el futuro seré un gran guardián!"
+    },
+    "IGUGDg": {
+        "en-US": "Torarung",
+        "pt-BR": "Torarung",
+        "es-ES": "Torarung"
+    },
+    "IWUGDg": {
+        "en-US": "[Torarung]\nI am Torarung!\nSomeday...\nSomeday... I'll become a great guardian!\nIs that how I'm supposed to say it?",
+        "pt-BR": "[Torarung]\nEu sou Torarung!\nNo futuro...\nNo futuro... vou me tornar um grande guardião!\nÉ assim que se fala?",
+        "es-ES": "[Torarung]\n¡Soy Torarung!\nEn el futuro...\nEn el futuro... ¡seré un gran guardián!\n¿Así es como se dice?"
+    },
+    "ImUGDg": {
+        "en-US": "Horyara : That's right!",
+        "pt-BR": "Horyara : Isso mesmo!",
+        "es-ES": "Horyara : ¡Sí!"
+    },
+    "I2UGDg": {
+        "en-US": "Torarung : Phew.",
+        "pt-BR": "Torarung : Ufa.",
+        "es-ES": "Torarung : Uf."
+    },
+    "JGUGDg": {
+        "en-US": "Soriri",
+        "pt-BR": "Soriri",
+        "es-ES": "Soriri"
+    },
+    "JWUGDg": {
+        "en-US": "[Soriri]\nWait just a moment, I'll play with you after you eat...\nOh, you're not a child. If you have some time, why not play with our little ones?\nI'm sure they'd love hearing stories from a human from outside.",
+        "pt-BR": "[Soriri]\nEspere só um pouco, depois de comer eu brinco com vo...\nAh, você não é uma criança. Se tiver tempo, que tal brincar um pouco com os nossos pequenos?\nEles certamente vão gostar de ouvir histórias de um humano que veio de fora.",
+        "es-ES": "[Soriri]\nEspera un momento, después de comer jugaré conti...\nAh, no eres un niño. Si tienes tiempo, ¿qué tal si juegas un poco con nuestros pequeños?\nSeguro que les encantará escuchar historias de un humano que viene de afuera."
+    },
+    "JmUGDg": {
+        "en-US": "Hururu",
+        "pt-BR": "Hururu",
+        "es-ES": "Hururu"
+    },
+    "J2UGDg": {
+        "en-US": "Too busy eating to pay attention.",
+        "pt-BR": "Está ocupado demais comendo.",
+        "es-ES": "Está demasiado ocupado comiendo."
+    },
+    "KGUGDg": {
+        "en-US": "Earthenware Jar",
+        "pt-BR": "Pote de fermentação",
+        "es-ES": "Tinaja"
+    },
+    "KWUGDg": {
+        "en-US": "Joryara : That is the seed soy sauce that's been passed down for a thousand years. Don't touch it carelessly.",
+        "pt-BR": "Joryara : Esse é um molho-base que vem sendo mantido há mil anos. Não mexa nele sem cuidado.",
+        "es-ES": "Joryara : Esa es una salsa madre que se ha conservado durante mil años. No la toques a la ligera."
+    },
+    "KmUGDg": {
+        "en-US": "Joryara : Human, that's Calmaring salted seafood made with a thousand-year-old secret recipe, but apparently humans can't eat it. What a shame.",
+        "pt-BR": "Joryara : Humano, isso é uma conserva de Calamaring feita com uma receita secreta de mil anos, mas parece que humanos não conseguem comer. Que pena.",
+        "es-ES": "Joryara : Humano, eso es una conserva de Kalamaring preparada con una receta secreta de mil años, pero resulta que los humanos no pueden comerla. Qué lástima."
+    },
+    "K2UGDg": {
+        "en-US": "Chorirong",
+        "pt-BR": "Chorirong",
+        "es-ES": "Chorirong"
+    },
+    "LGUGDg": {
+        "en-US": "[Chorirong]\nSometimes I see friends with marks pressed into their feathers, like some other animal came by to get out of the wind.",
+        "pt-BR": "[Chorirong]\nÀs vezes, alguns dos nossos amigos aparecem com marcas de pressão nas penas, como se algum outro animal tivesse se escondido do vento ali.",
+        "es-ES": "[Chorirong]\nA veces hay amigos con marcas aplastadas en las plumas, como si algún otro animal hubiera pasado por ahí para resguardarse del viento."
+    },
+    "LWUGDg": {
+        "en-US": "[Chorirong]\nBut I've never seen an animal that size that wasn't afraid of us.\nAre those cats and dogs I've heard rumors about around here somewhere?",
+        "pt-BR": "[Chorirong]\nMas nunca vi um animal daquele tamanho que não tivesse medo de nós.\nSerá que existem por aqui aqueles gatos ou cachorros de que ouvi falar?",
+        "es-ES": "[Chorirong]\nPero nunca he visto un animal de ese tamaño que no nos tenga miedo.\n¿Dónde estarán esos gatos o perros de los que tanto se habla?"
+    },
+    "LmUGDg": {
+        "en-US": "Goryuryu",
+        "pt-BR": "Goryuryu",
+        "es-ES": "Goryuryu"
+    },
+    "L2UGDg": {
+        "en-US": "[Goryuryu]\nPhew...",
+        "pt-BR": "[Goryuryu]\nUfa...",
+        "es-ES": "[Goryuryu]\nUf..."
+    },
+    "MGUGDg": {
+        "en-US": "[Goryuryu]\nYou don't know how grateful I am for peaceful days when nothing happens.\nOn days like that, even that cold sea looks warm.",
+        "pt-BR": "[Goryuryu]\nNão há nada melhor do que um dia tranquilo, sem que nada aconteça.\nNessas horas, até aquele mar gelado parece quente.",
+        "es-ES": "[Goryuryu]\nNo sabes cuánto agradezco los días tranquilos en los que no pasa nada.\nEn momentos así, hasta ese mar helado parece cálido."
+    },
+    "MWUGDg": {
+        "en-US": "Ttorura",
+        "pt-BR": "Ttorura",
+        "es-ES": "Ttorura"
+    },
+    "MmUGDg": {
+        "en-US": "[Ttorura]\nI want to eat something different from what I had yesterday...",
+        "pt-BR": "[Ttorura]\nQuero comer algo diferente do que comi ontem...",
+        "es-ES": "[Ttorura]\nQuiero comer algo distinto de lo que comí ayer..."
+    },
+    "M2UGDg": {
+        "en-US": "Jjoriru",
+        "pt-BR": "Jjoriru",
+        "es-ES": "Jjoriru"
+    },
+    "NGUGDg": {
+        "en-US": "[Jjoriru]\nWhat should I have for dinner...",
+        "pt-BR": "[Jjoriru]\nO que será que vamos comer no jantar...",
+        "es-ES": "[Jjoriru]\n¿Qué habrá para cenar...?"
+    },
+    "NWUGDg": {
+        "en-US": "Boriri",
+        "pt-BR": "Boriri",
+        "es-ES": "Boriri"
+    },
+    "NmUGDg": {
+        "en-US": "[Boriri]",
+        "pt-BR": "[Boriri]",
+        "es-ES": "[Boriri]"
+    },
+    "N2UGDg": {
+        "en-US": "Nothing unusual on dutyyyy.",
+        "pt-BR": "Nenhuma anormalidade durante o plantãooo.",
+        "es-ES": "¡Sin novedades durante el serviciooo!"
+    },
+    "OGUGDg": {
+        "en-US": "Nothing unusual on du... Achoo.",
+        "pt-BR": "Nenhuma anormalidade durante o plantã... Atchim.",
+        "es-ES": "Sin novedades durante el servi... ¡Achís!"
+    },
+    "OWUGDg": {
+        "en-US": "Nothing unusual on duty!",
+        "pt-BR": "Nenhuma anormalidade durante o plantão!",
+        "es-ES": "¡Sin novedades durante el servicio!"
+    },
+    "OmUGDg": {
+        "en-US": "Borarya",
+        "pt-BR": "Borarya",
+        "es-ES": "Borarya"
+    },
+    "O2UGDg": {
+        "en-US": "[Borarya]",
+        "pt-BR": "[Borarya]",
+        "es-ES": "[Borarya]"
+    },
+    "PGUGDg": {
+        "en-US": "Nothing unusual on dutyyyy. Achooo!",
+        "pt-BR": "Nenhuma anormalidade durante o plantãooo. Atchiiim!",
+        "es-ES": "¡Sin novedades durante el serviciooo! ¡Achú!"
+    },
+    "PWUGDg": {
+        "en-US": "Borara",
+        "pt-BR": "Borara",
+        "es-ES": "Borara"
+    },
+    "PmUGDg": {
+        "en-US": "[Borara]",
+        "pt-BR": "[Borara]",
+        "es-ES": "[Borara]"
+    },
+    "P2UGDg": {
+        "en-US": "Borira",
+        "pt-BR": "Borira",
+        "es-ES": "Borira"
+    },
+    "QGUGDg": {
+        "en-US": "[Borira]",
+        "pt-BR": "[Borira]",
+        "es-ES": "[Borira]"
+    },
+    "QWUGDg": {
+        "en-US": "Goriri",
+        "pt-BR": "Goriri",
+        "es-ES": "Goriri"
+    },
+    "QmUGDg": {
+        "en-US": "[Goriri]",
+        "pt-BR": "[Goriri]",
+        "es-ES": "[Goriri]"
+    },
+    "Q2UGDg": {
+        "en-US": "Doraro",
+        "pt-BR": "Doraro",
+        "es-ES": "Doraro"
+    },
+    "RGUGDg": {
+        "en-US": "[Doraro]\nOn duty... Hm? You're a human I haven't seen before.\nBe careful not to catch a cold.\nNot even a single feather... Tsk, tsk.",
+        "pt-BR": "[Doraro]\nDurante o plantão... Hum? Você é um humano que nunca vi antes.\nTome cuidado para não pegar um resfriado.\nE nem tem uma única pena... Tsc, tsc.",
+        "es-ES": "[Doraro]\nDe servicio... ¿Mm? Eres un humano que no había visto antes.\nTen cuidado de no resfriarte.\nY ni siquiera tienes plumas... Tsk, tsk."
+    },
+    "RWUGDg": {
+        "en-US": "Pporyaryo",
+        "pt-BR": "Pporyaryo",
+        "es-ES": "Pporyaryo"
+    },
+    "RmUGDg": {
+        "en-US": "[Pporyaryo]\nShh... Keep quiet.\nDon't disturb my fishing.\nTry another fishing spot.",
+        "pt-BR": "[Pporyaryo]\nPsiu... Fique em silêncio.\nNão atrapalhe a pescaria.\nVá tentar outro ponto de pesca.",
+        "es-ES": "[Pporyaryo]\nShh... Guarda silencio.\nNo interrumpas la pesca.\nVe a buscar otro lugar para pescar."
+    },
+    "R2UGDg": {
+        "en-US": "Ttororo",
+        "pt-BR": "Ttororo",
+        "es-ES": "Ttororo"
+    },
+    "SGUGDg": {
+        "en-US": "[Ttororo]\nHuman, don't step onto that ice crystal.\nIt'll sink. You need to be careful.",
+        "pt-BR": "[Ttororo]\nHumano, não suba naquele bloco de gelo.\nEle afunda. Tome cuidado.",
+        "es-ES": "[Ttororo]\nHumano, no te subas a ese cristal de hielo.\nSe hunde. Debes tener cuidado."
+    },
+    "SWUGDg": {
+        "en-US": "Kkoruro",
+        "pt-BR": "Kkoruro",
+        "es-ES": "Kkoruro"
+    },
+    "SmUGDg": {
+        "en-US": "[Kkoruro]",
+        "pt-BR": "[Kkoruro]",
+        "es-ES": "[Kkoruro]"
+    },
+    "S2UGDg": {
+        "en-US": "Goryuro",
+        "pt-BR": "Goryuro",
+        "es-ES": "Goryuro"
+    },
+    "TGUGDg": {
+        "en-US": "[Goryuro]\nHuh? You think a lot of us have similar names?\nThey're completely different.\nYou just can't tell the difference.",
+        "pt-BR": "[Goryuro]\nHã? Está dizendo que muitos de nós têm nomes parecidos?\nSão completamente diferentes.\nVocês é que não conseguem perceber.",
+        "es-ES": "[Goryuro]\n¿Mmm? ¿Dices que hay muchos con nombres parecidos?\n¡Son completamente distintos!\nUstedes simplemente no saben distinguirlos."
+    },
+    "TWUGDg": {
+        "en-US": "Goruro",
+        "pt-BR": "Goruro",
+        "es-ES": "Goruro"
+    },
+    "TmUGDg": {
+        "en-US": "Quietly grooming its feathers.",
+        "pt-BR": "Está arrumando as penas em silêncio.",
+        "es-ES": "Se está acicalando el pelaje en silencio."
+    },
+    "T2UGDg": {
+        "en-US": "Chorari",
+        "pt-BR": "Chorari",
+        "es-ES": "Chorari"
+    },
+    "UGUGDg": {
+        "en-US": "[Chorari]\nThere aren't any creatures around here that look like this.\nI wonder if the real one our ancestors saw looked exactly like this?",
+        "pt-BR": "[Chorari]\nNão existe nenhuma criatura com essa aparência por aqui.\nSerá que a criatura de verdade que nossos ancestrais viram era exatamente assim?",
+        "es-ES": "[Chorari]\nPor aquí no hay criaturas con este aspecto.\n¿La verdadera que vieron nuestros antepasados se habrá visto exactamente igual que esta?"
+    },
+    "UWUGDg": {
+        "en-US": "Ice Sculpture",
+        "pt-BR": "Estátua de Gelo",
+        "es-ES": "Escultura de hielo"
+    },
+    "UmUGDg": {
+        "en-US": "Title:\nIn Memory of the Deer Seen in the Warm South.\nMade from the hardest ice mined beneath Ice Castle by Jefferson Amy Elin Solomon Arista Cliff Edith Monica Alice Nima.\n--- Do Not Climb ---",
+        "pt-BR": "Título da obra:\nEm memória do cervo visto no sul quente.\nFeita com o gelo mais duro extraído sob Castelo de Gelo por Jefferson, Amy, Elin, Solomon, Arista, Cliff, Edith, Monica, Alice e Nima.\n--- Não suba ---",
+        "es-ES": "Título de la obra:\nEn recuerdo del ciervo que vimos en el cálido sur.\nHecha con el hielo más duro extraído debajo de Castillo de Hielo, por Jefferson, Amy, Elin, Solomon, Arista, Cliff, Edith, Monica, Alice y Nima.\n--- No subir ---"
+    },
+    "U2UGDg": {
+        "en-US": "Doruri",
+        "pt-BR": "Doruri",
+        "es-ES": "Doruri"
+    },
+    "VGUGDg": {
+        "en-US": "[Doruri]\nThis piece doesn't have the animal's name written on it.\nCould it mean our ancestors looked like this?",
+        "pt-BR": "[Doruri]\nEsta obra não tem o nome do animal escrito.\nSerá que isso quer dizer que nossos ancestrais eram assim?",
+        "es-ES": "[Doruri]\nEsta obra no tiene escrito el nombre del animal.\n¿Querrá decir que nuestros antepasados tenían este aspecto?"
+    },
+    "VWUGDg": {
+        "en-US": "Title:\nSpirit of Our Valiant Ancestors.\nMade from the hardest ice mined beneath Ice Castle by Jefferson Amy Elin Solomon Arista Cliff Edith Monica Alice Nima.\n--- Do Not Climb ---",
+        "pt-BR": "Título da obra:\nO espírito de nossos valentes ancestrais.\nFeita com o gelo mais duro extraído sob Castelo de Gelo por Jefferson, Amy, Elin, Solomon, Arista, Cliff, Edith, Monica, Alice e Nima.\n--- Não suba ---",
+        "es-ES": "Título de la obra:\nEl espíritu de nuestros valientes antepasados.\nHecha con el hielo más duro extraído debajo de Castillo de Hielo, por Jefferson, Amy, Elin, Solomon, Arista, Cliff, Edith, Monica, Alice y Nima.\n--- No subir ---"
+    },
+    "VmUGDg": {
+        "en-US": "Noriri",
+        "pt-BR": "Noriri",
+        "es-ES": "Noriri"
+    },
+    "V2UGDg": {
+        "en-US": "Staring wistfully into the far distance.\nThere doesn't seem to be any particular reason...\nbehind it.",
+        "pt-BR": "Está olhando vagamente para um lugar muito distante.\nNão parece haver nenhum motivo especial...\nPelo menos é o que parece.",
+        "es-ES": "Mira a un lugar muy lejano con una expresión melancólica.\nNo parece haber ninguna razón especial...\npara ello."
+    },
+    "WGUGDg": {
+        "en-US": "Horaryong",
+        "pt-BR": "Horaryong",
+        "es-ES": "Horaryong"
+    },
+    "WWUGDg": {
+        "en-US": "Iwin children are peering into the sea with sparkling eyes.\nThey seem to be watching the fish.",
+        "pt-BR": "As crianças de Arwin estão olhando para o fundo do mar com os olhos brilhando.\nParece que estão observando os peixes.",
+        "es-ES": "Los niños de Awin miran el fondo del mar con los ojos brillantes.\nParece que están observando a los peces."
+    },
+    "WmUGDg": {
+        "en-US": "Jororo : Feet!",
+        "pt-BR": "Jororo : Pé!",
+        "es-ES": "Jororo : ¡Pie!"
+    },
+    "W2UGDg": {
+        "en-US": "Nororu : Below!",
+        "pt-BR": "Nororu : Embaixo!",
+        "es-ES": "Nororu : ¡Abajo!"
+    },
+    "XGUGDg": {
+        "en-US": "Doryaro : Be!",
+        "pt-BR": "Doryaro : Cui!",
+        "es-ES": "Doryaro : ¡Cui!"
+    },
+    "XWUGDg": {
+        "en-US": "Choruryong : Care!",
+        "pt-BR": "Choruryong : Dado!",
+        "es-ES": "Choruryong : ¡Dado!"
+    },
+    "XmUGDg": {
+        "en-US": "Jororo : Watch your head!",
+        "pt-BR": "Jororo : Cuidado com a cabeça!",
+        "es-ES": "Jororo : ¡Cuidado arriba!"
+    },
+    "X2UGDg": {
+        "en-US": "Nororu : Watch your head!",
+        "pt-BR": "Nororu : Cuidado com a cabeça!",
+        "es-ES": "Nororu : ¡Cuidado arriba!"
+    },
+    "YGUGDg": {
+        "en-US": "Doryaro : Watch your head!",
+        "pt-BR": "Doryaro : Cuidado com a cabeça!",
+        "es-ES": "Doryaro : ¡Cuidado arriba!"
+    },
+    "YWUGDg": {
+        "en-US": "Choruryong : Careful!",
+        "pt-BR": "Choruryong : Cuidado!",
+        "es-ES": "Choruryong : ¡Cuidado!"
+    },
+    "YmUGDg": {
+        "en-US": "Jororo : (whisper whisper)",
+        "pt-BR": "Jororo : (sussurro)",
+        "es-ES": "Jororo : (susurra)"
+    },
+    "Y2UGDg": {
+        "en-US": "Nororu : (chatter chatter)",
+        "pt-BR": "Nororu : (murmúrio)",
+        "es-ES": "Nororu : (parlotea)"
+    },
+    "ZGUGDg": {
+        "en-US": "Doryaro : What are they even saying?",
+        "pt-BR": "Doryaro : O que eles estão dizendo?",
+        "es-ES": "Doryaro : ¿Qué están diciendo esos?"
+    },
+    "ZWUGDg": {
+        "en-US": "Choruryong : Let me join toooo~",
+        "pt-BR": "Choruryong : Me deixem participar também~",
+        "es-ES": "Choruryong : ¡Déjenme jugar también~"
+    },
+    "ZmUGDg": {
+        "en-US": "Jororo : Two!",
+        "pt-BR": "Jororo : Dois!",
+        "es-ES": "Jororo : ¡Dos!"
+    },
+    "Z2UGDg": {
+        "en-US": "Nororu : Two!",
+        "pt-BR": "Nororu : Dois!",
+        "es-ES": "Nororu : ¡Dos!"
+    },
+    "aGUGDg": {
+        "en-US": "Doryaro : Three!",
+        "pt-BR": "Doryaro : Três!",
+        "es-ES": "Doryaro : ¡Tres!"
+    },
+    "aWUGDg": {
+        "en-US": "Choruryong : Four!",
+        "pt-BR": "Choruryong : Quatro!",
+        "es-ES": "Choruryong : ¡Cuatro!"
+    },
+    "amUGDg": {
+        "en-US": "Jororo : I'm disappointed in you!",
+        "pt-BR": "Jororo : Estou decepcionado com vocês!",
+        "es-ES": "Jororo : ¡Estoy decepcionado de ustedes!"
+    },
+    "a2UGDg": {
+        "en-US": "Nororu : I've been blinded!",
+        "pt-BR": "Nororu : Fiquei cego!",
+        "es-ES": "Nororu : ¡Estoy ciego!"
+    },
+    "bGUGDg": {
+        "en-US": "Doryaro : It's a royal command!",
+        "pt-BR": "Doryaro : É uma ordem real!",
+        "es-ES": "Doryaro : ¡Es una orden real!"
+    },
+    "bWUGDg": {
+        "en-US": "Choruryong : It's an invention!",
+        "pt-BR": "Choruryong : É uma invenção!",
+        "es-ES": "Choruryong : ¡Es un invento!"
+    },
+    "bmUGDg": {
+        "en-US": "Doryarung",
+        "pt-BR": "Doryarung",
+        "es-ES": "Doryarung"
+    },
+    "b2UGDg": {
+        "en-US": "Sororyo",
+        "pt-BR": "Sororyo",
+        "es-ES": "Sororyo"
+    },
+    "cGUGDg": {
+        "en-US": "[Sororyo]\nDon't come any closer, human.\nI'm practicing spear techniques that won't make me slip even on ice.\nYou could get hurt.",
+        "pt-BR": "[Sororyo]\nNão se aproxime, humano.\nEstou treinando técnicas de lança para não escorregar nem mesmo sobre o gelo.\nVocê pode se machucar.",
+        "es-ES": "[Sororyo]\nNo te acerques, humano.\nAhora estoy practicando el manejo de la lanza para no resbalar ni siquiera sobre el hielo.\nPodrías salir herido."
+    },
+    "cWUGDg": {
+        "en-US": "[Sororyo]\nWhew...\nHup! Hah!\nHyah!",
+        "pt-BR": "[Sororyo]\nUfa...\nHup! Haa!\nTaa!",
+        "es-ES": "[Sororyo]\nFuu...\n¡Ja! ¡Haa!\n¡Taa!"
+    },
+    "cmUGDg": {
+        "en-US": "Jororo",
+        "pt-BR": "Jororo",
+        "es-ES": "Jororo"
+    },
+    "c2UGDg": {
+        "en-US": "[Jororo]\nYou're an adult, right?\nAdults can join the real patrol, so we can't let you join our patrol game.",
+        "pt-BR": "[Jororo]\nVocê é adulto, não é, humano?\nAdultos podem entrar para a patrulha de verdade, então não podemos deixar você participar da nossa brincadeira de patrulha.",
+        "es-ES": "[Jororo]\nEres adulto, ¿verdad?\nComo los adultos pueden formar parte de la patrulla de verdad, no podemos dejarte participar en nuestro juego de patrulla."
+    },
+    "dGUGDg": {
+        "en-US": "Nororu",
+        "pt-BR": "Nororu",
+        "es-ES": "Nororu"
+    },
+    "dWUGDg": {
+        "en-US": "[Nororu]\nYou're an adult, right?\nAdults do real patrols. We're in charge of this yard.",
+        "pt-BR": "[Nororu]\nVocê é adulto, não é, humano?\nAdultos entram para a patrulha de verdade. Nós somos responsáveis por este pátio.",
+        "es-ES": "[Nororu]\nEres adulto, ¿verdad?\nLos adultos forman parte de la patrulla de verdad. Nosotros nos encargamos de este patio."
+    },
+    "dmUGDg": {
+        "en-US": "Doryaro",
+        "pt-BR": "Doryaro",
+        "es-ES": "Doryaro"
+    },
+    "d2UGDg": {
+        "en-US": "[Doryaro]\nYou're an adult, right?\nAdults join the real patrol. Don't get in the way of our training.",
+        "pt-BR": "[Doryaro]\nVocê é adulto, não é, humano?\nAdultos entram para a patrulha de verdade. Não atrapalhe nosso treinamento.",
+        "es-ES": "[Doryaro]\nEres adulto, ¿verdad?\nLos adultos forman parte de la patrulla de verdad. No interrumpas nuestro entrenamiento."
+    },
+    "eGUGDg": {
+        "en-US": "Choruryong",
+        "pt-BR": "Choruryong",
+        "es-ES": "Choruryong"
+    },
+    "eWUGDg": {
+        "en-US": "[Choruryong]\nYou're an adult, right?\nAdults join the real patrol. Don't poke your nose into what we're doing.",
+        "pt-BR": "[Choruryong]\nVocê é adulto, não é, humano?\nAdultos entram para a patrulha de verdade. Não fique se metendo no que estamos fazendo.",
+        "es-ES": "[Choruryong]\nEres adulto, ¿verdad?\nLos adultos forman parte de la patrulla de verdad. No te entrometas en lo que hacemos."
+    },
+    "emUGDg": {
+        "en-US": "Mororyo",
+        "pt-BR": "Mororyo",
+        "es-ES": "Mororyo"
+    },
+    "e2UGDg": {
+        "en-US": "[Mororyo]\nWhen fish isn't fresh, it all depends on how you prepare it.\nThere's a technique passed down through my ancestors.\nWant me to teach you?",
+        "pt-BR": "[Mororyo]\nQuanto a peixe que não está fresco, tudo depende do preparo.\nExiste uma técnica transmitida por nossos ancestrais há gerações.\nQuer que eu ensine?",
+        "es-ES": "[Mororyo]\nCon el pescado que ya no está fresco, todo depende de cómo lo prepares.\nHay una técnica que se ha transmitido de generación en generación.\n¿Quieres que te la enseñe?"
+    },
+    "fGUGDg": {
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí"
+    },
+    "fWUGDg": {
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No"
+    },
+    "fmUGDg": {
+        "en-US": "[Mororyo]\nAll right. First, take the gills with your beak...",
+        "pt-BR": "[Mororyo]\nCerto. Primeiro, pegue as guelras com o bico...",
+        "es-ES": "[Mororyo]\nBien. Primero, toma las branquias con el pico..."
+    },
+    "f2UGDg": {
+        "en-US": "[{0}]\n...",
+        "pt-BR": "[{0}]\n...",
+        "es-ES": "[{0}]\n..."
+    },
+    "gGUGDg": {
+        "en-US": "[Mororyo]\n...",
+        "pt-BR": "[Mororyo]\n...",
+        "es-ES": "[Mororyo]\n..."
+    },
+    "gWUGDg": {
+        "en-US": "[Mororyo]\nHumans don't have beaks.\nI overlooked that.",
+        "pt-BR": "[Mororyo]\nHumanos não têm bico.\nNão pensei nisso.",
+        "es-ES": "[Mororyo]\nLos humanos no tienen pico.\nNo lo había tenido en cuenta."
+    },
+    "gmUGDg": {
+        "en-US": "[Mororyo]\nThat's a shame.",
+        "pt-BR": "[Mororyo]\nQue pena.",
+        "es-ES": "[Mororyo]\nQué lástima."
+    },
+    "g2UGDg": {
+        "en-US": "Jjorarung",
+        "pt-BR": "Jjorarung",
+        "es-ES": "Jjorarung"
+    },
+    "hGUGDg": {
+        "en-US": "Watching Mororyo's skills with sparkling eyes.",
+        "pt-BR": "Está observando a habilidade de Mororyo com os olhos brilhando.",
+        "es-ES": "Observa con los ojos brillantes la destreza de Mororyo."
+    },
+    "hWUGDg": {
+        "en-US": "Mororyo : Jjorarung, I'll teach you when you're a little bigger.",
+        "pt-BR": "Mororyo : Jjorarung, quando você crescer mais um pouco, eu ensino.",
+        "es-ES": "Mororyo : Jjorarung, te enseñaré cuando crezcas un poco más."
+    },
+    "hmUGDg": {
+        "en-US": "Jjorarung : Okay!",
+        "pt-BR": "Jjorarung : Sim!",
+        "es-ES": "Jjorarung : ¡Sí!"
+    },
+    "h2UGDg": {
+        "en-US": "Nororyong",
+        "pt-BR": "Nororyong",
+        "es-ES": "Nororyong"
+    },
+    "iGUGDg": {
+        "en-US": "[Nororyong]\nHuman, want a drink too?",
+        "pt-BR": "[Nororyong]\nHumano, quer tomar uma dose também?",
+        "es-ES": "[Nororyong]\nHumano, ¿quieres tomar una copa también?"
+    },
+    "iWUGDg": {
+        "en-US": "[{0}]\nWhat is it?",
+        "pt-BR": "[{0}]\nDo quê?",
+        "es-ES": "[{0}]\n¿Qué es?"
+    },
+    "imUGDg": {
+        "en-US": "[Nororyong]\nIt's called Adkara. It warms you right up.",
+        "pt-BR": "[Nororyong]\nÉ Adkara. Esquenta o corpo.",
+        "es-ES": "[Nororyong]\nSe llama Adkara. Te hace entrar en calor."
+    },
+    "i2UGDg": {
+        "en-US": "It smells strongly of alcohol.\nIt feels like Iwin's face, hidden beneath the feathers, must be flushed red.",
+        "pt-BR": "Tem um cheiro muito forte de álcool.\nDá a impressão de que o rosto de Arwin, escondido pelas penas, deve estar todo vermelho.",
+        "es-ES": "Desprende un olor muy fuerte a alcohol.\nDa la impresión de que el rostro de Awin, oculto bajo el pelaje, debe estar completamente rojo."
+    },
+    "jGUGDg": {
+        "en-US": "[{0}]\nI'll pass.",
+        "pt-BR": "[{0}]\nVou recusar.",
+        "es-ES": "[{0}]\nPaso."
+    },
+    "jWUGDg": {
+        "en-US": "[Nororyong]\nIt's good, though.",
+        "pt-BR": "[Nororyong]\nMas é gostoso.",
+        "es-ES": "[Nororyong]\nPero está rico."
+    },
+    "jmUGDg": {
+        "en-US": "Porara",
+        "pt-BR": "Porara",
+        "es-ES": "Porara"
+    },
+    "j2UGDg": {
+        "en-US": "[Porara]\nHuman, can you hold your liquor?\nThis'll warm you up.\nIt's brewed with seaweed stems, and it's pretty good.",
+        "pt-BR": "[Porara]\nHumano, você aguenta bem bebida?\nIsso esquenta o corpo.\nÉ feito com talos de alga e até que é gostoso.",
+        "es-ES": "[Porara]\nHumano, ¿aguantas bien el alcohol?\nEsto te hará entrar en calor.\nEstá hecho con tallos de algas y sabe bastante bien."
+    },
+    "kGUGDg": {
+        "en-US": "The strong smell of alcohol blends harmoniously with the scent of the deep sea.",
+        "pt-BR": "O cheiro muito forte de álcool se mistura harmoniosamente ao aroma do mar profundo.",
+        "es-ES": "El intenso olor a alcohol se mezcla armoniosamente con el aroma del mar profundo."
+    },
+    "kWUGDg": {
+        "en-US": "[{0}]\n...I'll pass.",
+        "pt-BR": "[{0}]\n...Vou recusar.",
+        "es-ES": "[{0}]\n...Paso."
+    },
+    "kmUGDg": {
+        "en-US": "[Porara]\nThe seaweed is tasty on its own if you take it out and eat it, too.\nThat's a shame.",
+        "pt-BR": "[Porara]\nEssa alga também fica gostosa se tirar e comer separadamente.\nQue pena.",
+        "es-ES": "[Porara]\nEstas algas también saben bien si las sacas y te las comes aparte.\nQué lástima."
+    },
+    "k2UGDg": {
+        "en-US": "Toriro",
+        "pt-BR": "Toriro",
+        "es-ES": "Toriro"
+    },
+    "lGUGDg": {
+        "en-US": "[Toriro]\nI'm not giving you any!\nIf you want some too, human, go shave some ice over there.",
+        "pt-BR": "[Toriro]\nEu não vou dar nada!\nSe você também quiser comer, humano, vá raspar gelo ali.",
+        "es-ES": "[Toriro]\n¡No te voy a dar!\nSi tú también quieres comer, humano, ve a raspar hielo de allá."
+    },
+    "lWUGDg": {
+        "en-US": "[Toriro]\nSnow slush!\nShave the ice with your beak and sprinkle chopped Calmaring on top...\nThat's how you make it...",
+        "pt-BR": "[Toriro]\nSnow Slush!\nÉ só raspar o gelo com o bico e jogar Calamaring picado por cima...\nAí fica pronto...",
+        "es-ES": "[Toriro]\n¡Granizado de nieve!\nSi raspo el hielo con el pico y le echo Kalamaring picado...\nqueda listo..."
+    },
+    "lmUGDg": {
+        "en-US": "[Toriro]\nHumans don't have beaks.\nThat must be inconvenient.",
+        "pt-BR": "[Toriro]\nHumanos não têm bico.\nDeve ser inconveniente.",
+        "es-ES": "[Toriro]\nLos humanos no tienen pico.\nDebe ser incómodo."
+    },
+    "l2UGDg": {
+        "en-US": "Porara : Oh my... You don't have a beak...",
+        "pt-BR": "Porara : Nossa... não ter bico...",
+        "es-ES": "Porara : Vaya... no tener pico..."
+    },
+    "mGUGDg": {
+        "en-US": "Orir : Oh my...",
+        "pt-BR": "Orir : Nossa...",
+        "es-ES": "Orir : Vaya..."
+    },
+    "mWUGDg": {
+        "en-US": "Nororyong : Hic.",
+        "pt-BR": "Nororyong : Hic.",
+        "es-ES": "Nororyong : Hip."
+    },
+    "mmUGDg": {
+        "en-US": "Orir",
+        "pt-BR": "Orir",
+        "es-ES": "Orir"
+    },
+    "m2UGDg": {
+        "en-US": "[Orir]\nHuman, if you're an adult, you can drink alcohol.\nYou can't drink water outside. Melt some ice indoors and drink that.",
+        "pt-BR": "[Orir]\nHumano, se você é adulto, pode beber álcool.\nNão dá para beber água lá fora. Tem que derreter gelo dentro de casa para beber.",
+        "es-ES": "[Orir]\nHumano, si eres adulto, puedes beber alcohol.\nAfuera no se puede beber agua. Adentro derretimos hielo para beberla."
+    }
+}

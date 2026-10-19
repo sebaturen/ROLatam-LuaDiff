@@ -718,7 +718,7 @@ tbl_string = {
 				[1] = "Você pode configurar para que o nome do mapa seja exibido na tela ao se mover entre mapas principais.",
 				[2] = "(^ff0000[ ! ]Mesmo com a opção ativada, o nome do mapa pode não aparecer dependendo do conceito do mapa.^000000)",
 				[3] = "",
-				[4] = "A exibição do nome do mapa pode ser ativada/desativada ^ff0000em Opções do Jogo (ESC) → Configurações do Jogo → Configuração de Efeitos^000000.",
+				[4] = "A exibição do nome do mapa pode ser ativada/desativada ^ff0000em Opções do Jogo (ESC) > Configurações do Jogo > Configuração de Efeitos^000000.",
 				[5] = "",
 				[6] = "<TIPBOX>>Configuração de Efeitos<INFO>143</INFO></TIPBOX>",
 				[7] = "<TIPBOX>>Janela de Opções do Jogo<INFO>32</INFO></TIPBOX>",
@@ -758,7 +758,7 @@ tbl_string = {
 				[1] = "Você pode expandir o campo de visão além do padrão.",
 				[2] = "",
 				[3] = ">Pressione ESC ou clique no botão de Opções para abrir as Configurações do Jogo.",
-				[4] = "→Na aba Configurações de Controle, marque Zoom Out para ampliar a visão máxima.",
+				[4] = ">Na aba Configurações de Controle, marque Zoom Out para ampliar a visão máxima.",
 				[5] = ">Use o comando /zoom na janela de chat.",
 				[6] = "",
 				[7] = "<TIPBOX>>Configurações de Controle<INFO>152</INFO></TIPBOX>",
@@ -785,7 +785,7 @@ tbl_string = {
 				[1] = "Você pode ativar a moldura externa dos emblemas durante a Guerra do Emperium.",
 				[2] = "",
 				[3] = ">Pressione ESC ou clique no botão de Opções para abrir as Configurações do Jogo.",
-				[4] = "→Na aba Configurações Básicas, marque Mostrar Moldura do Emblema.",
+				[4] = ">Na aba Configurações Básicas, marque Mostrar Moldura do Emblema.",
 				[5] = "",
 				[6] = ">Comando",
 				[7] = "/frame",
@@ -804,8 +804,8 @@ tbl_string = {
 				[2] = "(Configuração padrão: danos acima de 999999 são exibidos como 999999)",
 				[3] = "",
 				[4] = ">Pressione ESC ou clique no botão de Opções para abrir as Configurações do Jogo.",
-				[5] = "→Clique em Configurações de Efeito.",
-				[6] = "→Marque Expansão da Exibição de Dano.",
+				[5] = ">Clique em Configurações de Efeito.",
+				[6] = ">Marque Expansão da Exibição de Dano.",
 				[7] = "",
 				[8] = "Você pode alterar a fonte da exibição de dano.",
 				[9] = "<TIPBOX>>Alterar Fonte de Dano<INFO>192</INFO></TIPBOX>",
@@ -8520,6 +8520,797 @@ tbl_string = {
 				[10] = "<TIPBOX>»Missões de Encontro com o Desconhecido<INFO>6016</INFO></TIPBOX>",
 				[11] = "<TIPBOX>»Missões de El Dicastes<INFO>6028</INFO></TIPBOX>",
 				[12] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4256] = {
+		Title = "Episódio 19#Missão",
+		Page = {
+			[1] = {
+				[1] = "Bagot, o último membro da Ilusão, foi para Issgard, onde dizem que Jormungandr está selado. O Episódio 19 se passa na nova região de Issgard.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "<TIPBOX>»Ep19 Série de Armaduras da Flor de Neve<INFO>4258</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Ep19 Série de Armas Glaciais<INFO>4259</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Episódios<INFO>4101</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4257] = {
+		Title = "Episode 19 Issgard, Terra das Flores de Neve#MissãoEpisódio",
+		Page = {
+			[1] = {
+				[1] = "Bagot causou o caos no templo de Rachel e usou um fragmento roubado do Coração de Ymir para criar uma quimera que imitava um deus. Segundo o sacerdote Yus, o destino de Bagot não é apenas o norte de Midgard, mas Issgard, uma terra de gelo além do mar. O aventureiro e seus companheiros partem para Issgard, onde antigas lendas ainda perduram.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 18 Direção da Oração<INFO>4217</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "»Missão Inicial",
+				[7] = "<TIPBOX>Q Visitantes do Vento Norte, Encontro no Castelo de Gelo(200)<INFO>4260</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "»Missões Principais",
+				[10] = "<TIPBOX>Q Patrulha da Águia(200)<INFO>4261</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Encontro com o Experimento 210426(200)<INFO>4262</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q O Plano de Lazy(200)<INFO>4263</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Infiltração no Ninho da Serpente(200)<INFO>4264</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Relatório Parcial da Infiltração(200)<INFO>4265</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Em Busca de Pistas(200)<INFO>4266</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Infiltração Silenciosa(200)<INFO>4267</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Suspeitas Crescentes(200)<INFO>4268</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Por Pouco, as Verdadeiras Intenções de Bagot(200)<INFO>4269</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Caos no Ninho da Serpente, os Desaparecidos(200)<INFO>4270</INFO></TIPBOX>",
+				[20] = "",
+				[21] = "»Missões Secundárias",
+				[22] = "<TIPBOX>Q Santa da Purificação(200)<INFO>4271</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Mar Congelado(200)<INFO>4272</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Curiosidades(200)<INFO>4273</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Uma Serpente Velha(200)<INFO>4274</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Doutrina e Sermões(200)<INFO>4275</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Um Jeito Especial de Sobreviver(200)<INFO>4276</INFO></TIPBOX>",
+				[28] = "",
+				[29] = "»Missões Diárias",
+				[30] = "<TIPBOX>Q Em Busca de um Esconderijo na Superfície(200)<INFO>4277</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Ajudando Moryara a Pescar(200)<INFO>4278</INFO></TIPBOX>",
+				[32] = "<TIPBOX>Q O Alegre Almoço de Joryara(200)<INFO>4279</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Q Não Alimente os Animais!(200)<INFO>4280</INFO></TIPBOX>",
+				[34] = "<TIPBOX>Q Diversão às Escondidas(200)<INFO>4281</INFO></TIPBOX>",
+				[35] = "<TIPBOX>Q A Escolha do Cardápio de Lunch(200)<INFO>4282</INFO></TIPBOX>",
+				[36] = "<TIPBOX>Q Sacerdote, Tenha Piedade(200)<INFO>4283</INFO></TIPBOX>",
+				[37] = "<TIPBOX>Q Um Rosto Desconhecido(200)<INFO>4284</INFO></TIPBOX>",
+				[38] = "<TIPBOX>Q Coleta de Materiais de Pesquisa para Bellgund(200)<INFO>4285</INFO></TIPBOX>",
+				[39] = "<TIPBOX>Q Busca pelos Perdidos(200)<INFO>4286</INFO></TIPBOX>",
+				[40] = "<TIPBOX>Q Um Passatempo Elegante(200)<INFO>4287</INFO></TIPBOX>",
+				[41] = "<TIPBOX>Q Por Condições de Trabalho Seguras(200)<INFO>4288</INFO></TIPBOX>",
+				[42] = "<TIPBOX>Q Nosso Precioso Sustento(200)<INFO>4289</INFO></TIPBOX>",
+				[43] = "<TIPBOX>Q O Dia de Friederike(200)<INFO>4290</INFO></TIPBOX>",
+				[44] = "<TIPBOX>Q Precisamos de uma Geladeira?(200)<INFO>4291</INFO></TIPBOX>",
+				[45] = "<TIPBOX>Q Ferramentas Crocantes(200)<INFO>4292</INFO></TIPBOX>",
+				[46] = "<TIPBOX>Q Um Lugar para Abandonar 1(220)<INFO>4293</INFO></TIPBOX>",
+				[47] = "<TIPBOX>Q Um Lugar para Abandonar 2(240)<INFO>4294</INFO></TIPBOX>",
+				[48] = "<TIPBOX>Q Cavando sem Parar(200)<INFO>4295</INFO></TIPBOX>",
+				[49] = "<TIPBOX>Q Patrulha com os Iwins(200)<INFO>4296</INFO></TIPBOX>",
+				[50] = "<TIPBOX>MD 19 Simulação de Juncea<INFO>4297</INFO></TIPBOX>",
+				[51] = "<TIPBOX>MD 19 Destruição do Dirigível<INFO>4298</INFO></TIPBOX>",
+				[52] = "",
+				[53] = "<TIPBOX>»Ep19 Série de Armaduras da Flor de Neve<INFO>4258</INFO></TIPBOX>",
+				[54] = "<TIPBOX>»Ep19 Série de Armas Glaciais<INFO>4259</INFO></TIPBOX>",
+				[55] = "",
+				[56] = "<TIPBOX>»Episódio 19<INFO>4256</INFO></TIPBOX>",
+				[57] = "<TIPBOX>»Ver Episódios<INFO>4101</INFO></TIPBOX>",
+				[58] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4258] = {
+		Title = "Ep19 Série de Armaduras da Flor de Neve#PétalasDaFlorDeNeve",
+		Page = {
+			[1] = {
+				[1] = "Você pode trocar <ITEM>[Pétalas de Flor de Neve]<INFO>1000608</INFO></ITEM> obtidas durante o episódio por diversos equipamentos úteis no Castelo de Gelo.",
+				[2] = "",
+				[3] = "^663399§Local de Troca^000000",
+				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Série de Armaduras da Flor de Neve^000000",
+				[7] = "<ITEM>[Armadura da Flor de Neve]<INFO>450206</INFO></ITEM>",
+				[8] = "<ITEM>[Manto da Flor de Neve]<INFO>450207</INFO></ITEM>",
+				[9] = "<ITEM>[Capa da Flor de Neve]<INFO>480159</INFO></ITEM>",
+				[10] = "<ITEM>[Cachecol da Flor de Neve]<INFO>480160</INFO></ITEM>",
+				[11] = "<ITEM>[Botas da Flor de Neve]<INFO>470115</INFO></ITEM>",
+				[12] = "<ITEM>[Sapatos da Flor de Neve]<INFO>470116</INFO></ITEM>",
+				[13] = "<ITEM>[Pingente da Flor de Neve]<INFO>490176</INFO></ITEM>",
+				[14] = "<ITEM>[Anel da Flor de Neve]<INFO>490177</INFO></ITEM>",
+				[15] = "<ITEM>[Colar da Flor de Neve]<INFO>490178</INFO></ITEM>",
+				[16] = "<ITEM>[Brinco da Flor de Neve]<INFO>490179</INFO></ITEM>",
+				[17] = "",
+				[18] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Recompensas de Episódio<INFO>4107</INFO></TIPBOX>",
+				[20] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4259] = {
+		Title = "Ep19 Série de Armas Glaciais#Zeny",
+		Page = {
+			[1] = {
+				[1] = "Estas armas são uma série de obras-primas criada por Voglinde no Castelo de Gelo de Issgard. Com o apoio de Maram, elas podem ser compradas com Zeny.",
+				[2] = "",
+				[3] = "^663399§Local de Troca^000000",
+				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Série de Armas Glaciais^000000",
+				[7] = "<ITEM>[Espada de Duas Mãos Glacial]<INFO>600027</INFO></ITEM>",
+				[8] = "<ITEM>[Lança Longa Glacial]<INFO>630018</INFO></ITEM>",
+				[9] = "<ITEM>[Espada Glacial]<INFO>500049</INFO></ITEM>",
+				[10] = "<ITEM>[Espada Básica Glacial]<INFO>500050</INFO></ITEM>",
+				[11] = "<ITEM>[Lança Glacial]<INFO>530025</INFO></ITEM>",
+				[12] = "<ITEM>[Machado de Mecânico Glacial]<INFO>620017</INFO></ITEM>",
+				[13] = "<ITEM>[Machado Glacial]<INFO>520017</INFO></ITEM>",
+				[14] = "<ITEM>[Maça Glacial]<INFO>590038</INFO></ITEM>",
+				[15] = "<ITEM>[Maça de Mecânico Glacial]<INFO>590039</INFO></ITEM>",
+				[16] = "<ITEM>[Faca de Arruaceiro Glacial]<INFO>510061</INFO></ITEM>",
+				[17] = "<ITEM>[Faca Básica Glacial]<INFO>510062</INFO></ITEM>",
+				[18] = "<ITEM>[Arco Glacial]<INFO>700052</INFO></ITEM>",
+				[19] = "<ITEM>[Soqueira Glacial]<INFO>560032</INFO></ITEM>",
+				[20] = "<ITEM>[Livro Glacial]<INFO>540049</INFO></ITEM>",
+				[21] = "<ITEM>[Katar Glacial]<INFO>610037</INFO></ITEM>",
+				[22] = "<ITEM>[Varinha Glacial]<INFO>550069</INFO></ITEM>",
+				[23] = "<ITEM>[Cajado Glacial]<INFO>640033</INFO></ITEM>",
+				[24] = "<ITEM>[Cauda de Gato Glacial]<INFO>550070</INFO></ITEM>",
+				[25] = "<ITEM>[Violino Glacial]<INFO>570029</INFO></ITEM>",
+				[26] = "<ITEM>[Chicote Glacial]<INFO>580030</INFO></ITEM>",
+				[27] = "<ITEM>[Shuriken Huuma Glacial]<INFO>650025</INFO></ITEM>",
+				[28] = "<ITEM>[Revólver Glacial]<INFO>800014</INFO></ITEM>",
+				[29] = "<ITEM>[Rifle Glacial]<INFO>810010</INFO></ITEM>",
+				[30] = "<ITEM>[Espingarda Glacial]<INFO>820008</INFO></ITEM>",
+				[31] = "<ITEM>[Metralhadora Gatling Glacial]<INFO>830013</INFO></ITEM>",
+				[32] = "<ITEM>[Lançador Glacial]<INFO>840009</INFO></ITEM>",
+				[33] = "",
+				[34] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[35] = "<TIPBOX>»Recompensas de Episódio<INFO>4107</INFO></TIPBOX>",
+				[36] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4260] = {
+		Title = "Q Visitantes do Vento Norte, Encontro no Castelo de Gelo(200)#MissãoEpisódio19Início",
+		Page = {
+			[1] = {
+				[1] = "Na entrada da Vila do Lobo Cinzento, Maram transmite uma mensagem de Ely: uma rota marítima para Issgard foi encontrada, e você deve ir à Mansão de Varmundt. Maram e Miriam querem participar da viagem a Issgard para recuperar o fragmento do Coração de Ymir roubado por Bagot.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 18 Direção da Oração<INFO>4217</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Morador da Vila do Lobo Cinzento]<INFO>wolfvill,223,83,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4261] = {
+		Title = "Q Patrulha da Águia(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "O Castelo de Gelo de Issgard abriga a orgulhosa Patrulha da Águia. Para conhecer os arredores do castelo, você precisa entrar na patrulha e acompanhar suas rondas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes do Vento Norte, Encontro no Castelo de Gelo<INFO>4260</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Capitão da Patrulha]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4262] = {
+		Title = "Q Encontro com o Experimento 210426(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Durante uma ronda pelas rigorosas planícies geladas de Issgard com a Patrulha da Águia, você encontra vestígios suspeitos...",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulha da Águia<INFO>4261</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Jovem Misterioso]<INFO>1@iwp,240,373,0,101,0</INFO></NAVI>",
+				[7] = "※A navegação só está disponível no mapa onde a patrulha está sendo realizada.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4263] = {
+		Title = "Q O Plano de Lazy(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "O jovem misterioso que você encontrou durante a ronda nas Planícies das Escamas Congeladas tinha poderes extraordinários. Ao ver um pergaminho misterioso, Lazy elabora um plano.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulha da Águia<INFO>4261</INFO></TIPBOX> Em andamento",
+				[4] = "<TIPBOX>»Encontro com o Experimento 210426<INFO>4262</INFO></TIPBOX> Concluída",
+				[5] = "^663399§Nível 200 ou superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4264] = {
+		Title = "Q Infiltração no Ninho da Serpente(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Você e Lazy decidem usar Pergaminhos de Transformação em Rgan diante do Ninho da Serpente para se disfarçar de Rgans e se infiltrar. Mais um plano de Lazy se desenrola longe de casa, perto do Castelo de Gelo de Issgard! Será que desta vez vai dar certo?",
+				[2] = "",
+				[3] = "<TIPBOX>»O Plano de Lazy<INFO>4263</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>jor_back3,88,318,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4265] = {
+		Title = "Q Relatório Parcial da Infiltração(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Sem conseguir obter mais informações no Ninho da Serpente, o aventureiro e Lazy decidem voltar ao Castelo de Gelo para relatar o que descobriram sobre o dirigível e as pessoas sequestradas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4266] = {
+		Title = "Q Em Busca de Pistas(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Enquanto os humanos do Ninho da Serpente estão ausentes, Lazy sugere vasculhar seus alojamentos em busca de informações. O objetivo é encontrar pistas sobre as pesquisas da Ilusão e o conflito entre Bagot e Juncea.",
+				[2] = "",
+				[3] = "<TIPBOX>»Relatório Parcial da Infiltração<INFO>4265</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>jor_nest,124,204,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4267] = {
+		Title = "Q Infiltração Silenciosa(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Juncea chegou a Issgard antes de Bagot e consolidou sua posição trabalhando com os Rgans. Ela se incomoda por Bagot, que chegou depois, receber todos os benefícios. Aproveitar a tensão entre os dois pode trazer bons resultados.",
+				[2] = "",
+				[3] = "<TIPBOX>»Em Busca de Pistas<INFO>4266</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Juncea]<INFO>jor_nset,31,140,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4268] = {
+		Title = "Q Suspeitas Crescentes(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Lazy, que está trabalhando com você no Castelo de Gelo de Issgard, sugere tentar convencer Juncea a mudar de lado agora que surgiu uma divisão entre ela e Bagot.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração Silenciosa<INFO>4267</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4269] = {
+		Title = "Q Por Pouco, as Verdadeiras Intenções de Bagot(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Você corre para o Ninho da Serpente, lar dos Rgans, como Lazy sugeriu, mas há algo estranho no ar. Investigar o laboratório de Juncea pode revelar alguma pista.",
+				[2] = "",
+				[3] = "<TIPBOX>»Suspeitas Crescentes<INFO>4268</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Caixa Desconhecida]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>",
+				[7] = "※Leva a uma MD para avançar na história.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4270] = {
+		Title = "Q Caos no Ninho da Serpente, os Desaparecidos(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Horr, que ajuda o aventureiro no Castelo de Gelo de Issgard, quer devolver Juncea à sua forma original. Enquanto isso, Lazy considera suspeita a movimentação no Ninho da Serpente e sugere uma investigação.",
+				[2] = "",
+				[3] = "<TIPBOX>»Por Pouco, as Verdadeiras Intenções de Bagot<INFO>4269</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4271] = {
+		Title = "Q Santa da Purificação(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Voglinde espera seu sobrinho no Castelo de Gelo de Issgard. Ela está preocupada porque Lehar ainda não trouxe Friederike, a santa necessária para a purificação.",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes do Vento Norte, Encontro no Castelo de Gelo<INFO>4260</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Voglinde]<INFO>icas_in,162,224,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4272] = {
+		Title = "Q Mar Congelado(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Shurr, do Castelo de Gelo de Issgard, quer encontrar um amigo. Parece que ele saiu para as planícies e não voltou. Ajude Shurr a encontrá-lo!",
+				[2] = "",
+				[3] = "<TIPBOX>»Santa da Purificação<INFO>4271</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4273] = {
+		Title = "Q Curiosidades(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Delphanagand, um Rgan de altíssima patente que está perto do incubatório, quer que você ouça o que os Rgans de patente intermediária que trabalham lá têm a dizer. ",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Delphanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4274] = {
+		Title = "Q Uma Serpente Velha(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Aleigand, um Rgan de altíssima patente, ameaça de repente o aventureiro disfarçado de Rgan...! Por que Aleigand está agindo assim?",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4275] = {
+		Title = "Q Doutrina e Sermões(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Em algum lugar do ninho, um Rgan se destaca por conversar com os outros de maneira muito tranquila. O que será que ele está contando...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4276] = {
+		Title = "Q Um Jeito Especial de Sobreviver(200)#MissãoEpisódio19",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Mimirgand quer ensinar muitas coisas ao sacerdote recém-chegado. Aprenda o modo de sobrevivência dos Rgans, começando pelo básico.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4277] = {
+		Title = "Q Em Busca de um Esconderijo na Superfície(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Horr quer investigar todos os campos de Issgard para encontrar o esconderijo dos líderes Rgans que desapareceram. Ajude Horr na busca pelo esconderijo.",
+				[2] = "",
+				[3] = "<TIPBOX>»Caos no Ninho da Serpente, os Desaparecidos<INFO>4270</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>icecastle,32,184,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4278] = {
+		Title = "Q Ajudando Moryara a Pescar(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Na ponta congelada de Issgard, o Iwin Moryara observa sozinho as ondas tranquilas em um lugar isolado. Ele quer que o aventureiro que acabou de conhecer tente pescar. Mas...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes do Vento Norte, Encontro no Castelo de Gelo<INFO>4260</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4279] = {
+		Title = "Q O Alegre Almoço de Joryara(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Joryara cozinha no refeitório exclusivo dos Iwins, a única instalação de bem-estar do Castelo de Gelo de Issgard. Mas há uma tarefa ainda mais importante do que cozinhar. Qual será...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes do Vento Norte, Encontro no Castelo de Gelo<INFO>4260</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4280] = {
+		Title = "Q Não Alimente os Animais!(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "O intendente da patrulha do Castelo de Gelo de Issgard está preocupado com a comida que alguém anda escondendo para os animais selvagens nas Colinas das Escamas Congeladas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulha da Águia<INFO>4261</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Intendente]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4281] = {
+		Title = "Q Diversão às Escondidas(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Issgard é muito fria. Nem os Iwins, cobertos de pelagem quente, conseguem escapar do frio. O soldado Horiryu quer usar o aventureiro para substituir os suprimentos por penas mais quentes.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulha da Águia<INFO>4261</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Soldado Horiryu]<INFO>icas_in,33,53,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4282] = {
+		Title = "Q A Escolha do Cardápio de Lunch(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Lunch sobrevive nas Planícies das Escamas Congeladas de Issgard enquanto sonha com um futuro brilhante. Ajude a alimentar o faminto Lunch nesta terra onde só há gelo.",
+				[2] = "",
+				[3] = "<TIPBOX>»Encontro com o Experimento 210426<INFO>4262</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4283] = {
+		Title = "Q Sacerdote, Tenha Piedade(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Um Rgan leal chamado Pabuyasabigand quer que você traga cascas de fora.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Pabuyasabigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4284] = {
+		Title = "Q Um Rosto Desconhecido(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Entre eles, há um que faz pedidos muito estranhos. Ouça o que o peculiar Rgan Sidrgand tem a dizer.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4285] = {
+		Title = "Q Coleta de Materiais de Pesquisa para Bellgund(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Bellgund, que realiza pesquisas no Castelo de Gelo de Issgard, precisa de núcleos mágicos para seu trabalho. Bem nessa hora, um aventureiro passa por ali.",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes do Vento Norte, Encontro no Castelo de Gelo<INFO>4260</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Bellgund]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4286] = {
+		Title = "Q Busca pelos Perdidos(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Durante a infiltração no Ninho da Serpente, você encontrou indícios de que muitas pessoas de Midgard haviam sido sequestradas.",
+				[2] = "Você resgatou os prisioneiros, mas alguns parecem ter fugido do ninho dos Rgans e ficado perdidos nos campos nevados.",
+				[3] = "",
+				[4] = "<TIPBOX>»Caos no Ninho da Serpente, os Desaparecidos<INFO>4270</INFO></TIPBOX> Concluída",
+				[5] = "^663399§Nível 200 ou superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Leon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>",
+				[8] = "<NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>",
+				[9] = "",
+				[10] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4287] = {
+		Title = "Q Um Passatempo Elegante(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. O passatempo de Berbergand é o artesanato e, quando começa, nem o trabalho nem os pedidos de materiais têm fim.",
+				[2] = "",
+				[3] = "<TIPBOX>»Um Jeito Especial de Sobreviver<INFO>4276</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4288] = {
+		Title = "Q Por Condições de Trabalho Seguras(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Hanadeosaragand, responsável pela coleta de gelo, está muito preocupado. Sacerdote, por favor, ajude!",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltração no Ninho da Serpente<INFO>4264</INFO></TIPBOX> Em andamento",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hanadeosaragand]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4289] = {
+		Title = "Q Nosso Precioso Sustento(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Os Rgans vivem no Ninho da Serpente em Issgard. Mimirgand quer sua ajuda para obter combustível e poder mágico à maneira dos Rgans.",
+				[2] = "",
+				[3] = "<TIPBOX>»Um Jeito Especial de Sobreviver<INFO>4276</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Nome]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4290] = {
+		Title = "Q O Dia de Friederike(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Friederike, a Santa da Purificação enviada ao Castelo de Gelo de Issgard, tem a tarefa de purificar núcleos mágicos dos Rgans. Ela procura um aventureiro que reúna as pedras mágicas que precisa purificar.",
+				[2] = "",
+				[3] = "<TIPBOX>»Santa da Purificação<INFO>4271</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Friederike]<INFO>icas_in,32,123,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4291] = {
+		Title = "Q Precisamos de uma Geladeira?(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Tataring, que escapou por pouco da morte após ficar perdido em Issgard, está no Castelo de Gelo. De vez em quando, pede ajuda para conseguir comida.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4292] = {
+		Title = "Q Ferramentas Crocantes(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Tataring está se adaptando bem ao Castelo de Gelo e parece ter instalado armadilhas para conseguir comida. Vamos verificar se elas estão funcionando direito?",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4293] = {
+		Title = "Q Um Lugar para Abandonar 1(220)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Shurr, o habilidoso Iwin mergulhador do Castelo de Gelo de Issgard, acha que é preciso reduzir a quantidade de monstros do 1º andar do Poço Abandonado. Aventureiros são especialistas nesse tipo de limpeza agressiva.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4294] = {
+		Title = "Q Um Lugar para Abandonar 2(240)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Shurr, o habilidoso Iwin mergulhador do Castelo de Gelo de Issgard, acha que é preciso reduzir a quantidade de monstros do 2º andar do Poço Abandonado. Aventureiros são especialistas nesse tipo de limpeza agressiva.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4295] = {
+		Title = "Q Cavando sem Parar(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Shurr, o habilidoso Iwin mergulhador do Castelo de Gelo de Issgard, quer investigar regularmente os vestígios sinistros do Poço Abandonado para garantir a segurança.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4296] = {
+		Title = "Q Patrulha com os Iwins(200)#MissãoEpisódio19MissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "A Patrulha da Águia do Castelo de Gelo de Issgard é uma força confiável. O capitão está sempre recrutando pessoas para acompanhar as rondas. Se quiser, você pode participar todos os dias.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulha da Águia<INFO>4261</INFO></TIPBOX> Concluída",
+				[4] = "^663399§Nível 200 ou superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4297] = {
+		Title = "MD 19 Simulação de Juncea#200EpisódioMissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "Os pesquisadores do Castelo de Gelo concluíram que os dados do monstro em que Juncea se transformou poderiam ser usados para treinamento de combate. Com base no relato do aventureiro, criaram os dados da Simulação de Juncea. Uma área de treinamento que reproduz a batalha contra Juncea foi construída em um canto do Ninho da Serpente.",
+				[2] = "",
+				[3] = "§ Pré-requisito: <TIPBOX>»Caos no Ninho da Serpente, os Desaparecidos<INFO>4270</INFO></TIPBOX> Concluída",
+				[4] = "",
+				[5] = "§ Detalhes da Masmorra",
+				[6] = "> Pode ser concluída diariamente (reinicia às 04:00 do dia seguinte)",
+				[7] = "> Limite de tempo: 60 minutos",
+				[8] = "> Nível 200 ou superior",
+				[9] = "",
+				[10] = "<NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Episode 18 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4298] = {
+		Title = "MD 19 Destruição do Dirigível#200EpisódioMissãoDiária",
+		Page = {
+			[1] = {
+				[1] = "O dirigível roubado pela Ilusão está no Ninho da Serpente. Após conversar com seus companheiros, você decide destruí-lo para impedir que a Ilusão e os Rgans continuem usando-o. Mas o dirigível, que incorpora a genialidade de Varmundt, não será fácil de derrubar...",
+				[2] = "",
+				[3] = "§ Pré-requisito: <TIPBOX>»Relatório Parcial da Infiltração<INFO>4265</INFO></TIPBOX> Concluída",
+				[4] = "",
+				[5] = "§ Detalhes da Masmorra",
+				[6] = "> Pode ser concluída diariamente (reinicia às 04:00 do dia seguinte)",
+				[7] = "> Limite de tempo: 60 minutos",
+				[8] = "> Nível 200 ou superior",
+				[9] = "^663399§Esta MD é usada para avançar na missão.^000000",
+				[10] = "",
+				[11] = "<NAVI>[Rope]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Episode 18 Issgard, Terra das Flores de Neve<INFO>4257</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	}

@@ -1,0 +1,352 @@
+{
+    "wDoaDg": {
+        "en-US": "Moonlight Croissant",
+        "pt-BR": "Moonlight Croissant",
+        "es-ES": "Moonlight Croissant"
+    },
+    "wToaDg": {
+        "en-US": "- You are carrying too many items to proceed. -",
+        "pt-BR": "- Você está carregando itens demais para continuar. -",
+        "es-ES": "- Llevas demasiados objetos para continuar. -"
+    },
+    "wjoaDg": {
+        "en-US": "You must be Base Lv. 20 or higher to use this NPC.",
+        "pt-BR": "Você precisa ter Base Nv. 20 ou superior para utilizar este NPC.",
+        "es-ES": "Debes tener nivel base 20 o superior para usar este NPC."
+    },
+    "wzoaDg": {
+        "en-US": "You can taste this dish only if you have fewer than 20,000 Gold Gourmet Coins.",
+        "pt-BR": "Você só pode provar este prato se tiver menos de 20.000 Moedas Gastronômicas de Ouro.",
+        "es-ES": "Solo puedes probar este plato si tienes menos de 20.000 Monedas Gastronómica de Oro."
+    },
+    "xDoaDg": {
+        "en-US": "You do not have enough Silver Gourmet Coins.",
+        "pt-BR": "Você não tem Moedas Gastronômicas de Prata suficientes.",
+        "es-ES": "No tienes suficientes Monedas Gastronómica de Plata."
+    },
+    "xToaDg": {
+        "en-US": "Royal Palace Training Kitchen\n[Moonlight Croissant]\nWould you like to participate in the royal palace kitchen's tasting event?",
+        "pt-BR": "Royal Palace Training Kitchen (Cozinha de Aprendizes do Palácio Real)\n[Moonlight Croissant]\nGostaria de participar do evento de degustação da cozinha do palácio real?",
+        "es-ES": "Royal Palace Training Kitchen (Cocina de Aprendices del Palacio Real)\n[Moonlight Croissant]\n¿Quieres participar en el evento de degustación de la cocina del palacio real?"
+    },
+    "xjoaDg": {
+        "en-US": "How to participate",
+        "pt-BR": "Como participar do evento",
+        "es-ES": "Cómo participar en el evento"
+    },
+    "xzoaDg": {
+        "en-US": "I'd like to try it.",
+        "pt-BR": "Quero provar.",
+        "es-ES": "Quiero probarlo."
+    },
+    "yDoaDg": {
+        "en-US": "I'll come back later.",
+        "pt-BR": "Vou deixar para depois.",
+        "es-ES": "Volveré más tarde."
+    },
+    "yToaDg": {
+        "en-US": "To participate in the royal palace cooking festival, you need Silver Gourmet Coin obtained from a Gourmet Pack.\nYou can spend 1 Silver Gourmet Coin to taste an apprentice chef's dish once.",
+        "pt-BR": "Para participar do festival de culinária do palácio real, você precisa de Moedas Gastronômicas de Prata obtidas em um Pacote Gastronômico.\nVocê pode usar 1 Moeda Gastronômica de Prata para provar um prato de um aprendiz de chef uma vez.",
+        "es-ES": "Para participar en el festival de cocina del palacio real, necesitas Monedas Gastronómica de Plata obtenidas de un Paquete Gastronómico.\nPuedes usar 1 Moneda Gastronómica de Plata para probar una vez un plato de un aprendiz de chef."
+    },
+    "yjoaDg": {
+        "en-US": "The royal palace chef will reward you with <ITEM> Gold Gourmet Coins<INFO>1002369</INFO></ITEM> based on your expression after tasting the dish.\n[Royal Feast] A top-tier result awards 8,888 <ITEM> Gold Gourmet Coins<INFO>1002369</INFO></ITEM>.\n[Chef’s Special] A middle-tier result awards 44 <ITEM> Gold Gourmet Coins<INFO>1002369</INFO></ITEM>.\n[Tasting Dish] A basic-tier result awards 11 <ITEM> Gold Gourmet Coins<INFO>1002369</INFO></ITEM>.",
+        "pt-BR": "O chef do palácio real dará <ITEM> Moeda Gastronômica de Ouro<INFO>1002369</INFO></ITEM> como recompensa de acordo com sua expressão após provar o prato.\n[Banquete Real] Um resultado de categoria máxima concede 8.888 <ITEM> Moedas Gastronômicas de Ouro<INFO>1002369</INFO></ITEM>.\n[Especial do Chef] Um resultado de categoria intermediária concede 44 <ITEM> Moedas Gastronômicas de Ouro<INFO>1002369</INFO></ITEM>.\n[Tasting Dish] Um resultado de categoria básica concede 11 <ITEM> Moedas Gastronômicas de Ouro<INFO>1002369</INFO></ITEM>.",
+        "es-ES": "El chef del palacio real te dará <ITEM> Moneda Gastronómica de Oro<INFO>1002369</INFO></ITEM> como recompensa según tu expresión después de probar el plato.\n[Royal Feast] Un resultado de categoría máxima otorga 8.888 <ITEM> Moneda Gastronómica de Oro<INFO>1002369</INFO></ITEM>.\n[Chef’s Special] Un resultado de categoría intermedia otorga 44 <ITEM> Moneda Gastronómica de Oro<INFO>1002369</INFO></ITEM>.\n[Tasting Dish] Un resultado de categoría básica otorga 11 <ITEM> Moneda Gastronómica de Oro<INFO>1002369</INFO></ITEM>."
+    },
+    "yzoaDg": {
+        "en-US": "A Royal Feast-level taste!  {0} has tasted an exquisite dish delicious enough to fall in love with.",
+        "pt-BR": "Um sabor digno de Banquete Real!  {0} provou um prato de altíssima qualidade, tão delicioso que é impossível não se apaixonar.",
+        "es-ES": "¡Un sabor digno de Royal Feast!  {0} ha probado un plato exquisito, tan delicioso que enamora."
+    },
+    "zDoaDg": {
+        "en-US": "A Royal Feast-level taste!  {0} has tasted an exquisite dish worthy of a royal palace chef.",
+        "pt-BR": "Um sabor digno de Banquete Real!  {0} provou um prato de altíssima qualidade, digno de um chef do palácio real.",
+        "es-ES": "¡Un sabor digno de Royal Feast!  {0} ha probado un plato exquisito, digno de un chef del palacio real."
+    },
+    "zToaDg": {
+        "en-US": "A Royal Feast-level taste!  {0} has tasted an exquisite dish good enough to pass an apprentice chef's test.",
+        "pt-BR": "Um sabor digno de Banquete Real!  {0} provou um prato de altíssima qualidade, bom o bastante para passar no teste de aprendiz de chef.",
+        "es-ES": "¡Un sabor digno de Royal Feast!  {0} ha probado un plato exquisito, lo bastante bueno para aprobar la prueba de aprendiz de chef."
+    },
+    "zjoaDg": {
+        "en-US": "A Royal Feast-level taste!  {0} has tasted a dish so delicious that one serving is not enough!",
+        "pt-BR": "Um sabor digno de Banquete Real!  {0} provou um prato tão delicioso que dá vontade de repetir!",
+        "es-ES": "¡Un sabor digno de Royal Feast!  {0} ha probado un plato tan delicioso que dan ganas de repetir."
+    },
+    "zzoaDg": {
+        "en-US": "A Royal Feast-level taste!  {0} has tasted a peculiar dish with a flavor that is hard to describe.",
+        "pt-BR": "Um sabor digno de Banquete Real!  {0} provou um prato peculiar com um sabor difícil de descrever.",
+        "es-ES": "¡Un sabor digno de Royal Feast!  {0} ha probado un plato peculiar con un sabor difícil de describir."
+    },
+    "0DoaDg": {
+        "en-US": "A Royal Feast-level taste!  {0} has tasted a failed dish with a catastrophically bad flavor.",
+        "pt-BR": "Um sabor digno de Banquete Real!  {0} provou um prato que deu errado, com um sabor desastroso.",
+        "es-ES": "¡Un sabor digno de Royal Feast!  {0} ha probado un plato fallido con un sabor desastroso."
+    },
+    "0ToaDg": {
+        "en-US": "Now this is a true feast fit for royalty!!",
+        "pt-BR": "Este é um verdadeiro banquete digno da realeza!!",
+        "es-ES": "¡¡Este sí que es un auténtico banquete digno de la realeza!!"
+    },
+    "0joaDg": {
+        "en-US": "[Royal Feast]\nOh... A dish fit for a royal banquet! Its flavor is beyond words.",
+        "pt-BR": "[Banquete Real]\nOh... Um prato digno de um banquete real! Seu sabor é indescritível.",
+        "es-ES": "[Royal Feast]\nOh... ¡Un plato digno de un banquete real! Su sabor es indescriptible."
+    },
+    "0zoaDg": {
+        "en-US": "[Chef’s Special]\nThis tastes pretty good, doesn't it?",
+        "pt-BR": "[Especial do Chef]\nO sabor está bem bom, não está?",
+        "es-ES": "[Chef’s Special]\nEstá bastante rico, ¿no?"
+    },
+    "1DoaDg": {
+        "en-US": "For an apprentice chef's dish, this is much tastier than I expected!",
+        "pt-BR": "Para um prato de aprendiz de chef, está muito mais gostoso do que eu esperava!",
+        "es-ES": "¡Para ser un plato de un aprendiz de chef, está mucho más rico de lo que esperaba!"
+    },
+    "1ToaDg": {
+        "en-US": "[Chef’s Special]\nHmm... Not bad at all.",
+        "pt-BR": "[Especial do Chef]\nHmm... Nada mal.",
+        "es-ES": "[Chef’s Special]\nMmm... Nada mal."
+    },
+    "1joaDg": {
+        "en-US": "[Chef’s Special]\nIt tastes fairly good. I could keep eating this.",
+        "pt-BR": "[Especial do Chef]\nEstá gostoso. Dá para continuar comendo.",
+        "es-ES": "[Chef’s Special]\nEstá bastante rico. Podría seguir comiendo."
+    },
+    "1zoaDg": {
+        "en-US": "[Tasting Dish]\nThe flavor lives up to my expectations.",
+        "pt-BR": "[Tasting Dish]\nO sabor corresponde às minhas expectativas.",
+        "es-ES": "[Tasting Dish]\nEl sabor está a la altura de mis expectativas."
+    },
+    "2DoaDg": {
+        "en-US": "Just one bite warms my heart!!!",
+        "pt-BR": "Uma só mordida já aquece meu coração!!!",
+        "es-ES": "¡¡¡Un solo bocado me reconforta el corazón!!!"
+    },
+    "2ToaDg": {
+        "en-US": "[Moonlight Croissant]\nWould you like to taste another dish from the royal palace kitchen?",
+        "pt-BR": "[Moonlight Croissant]\nGostaria de provar novamente a comida da cozinha do palácio real?",
+        "es-ES": "[Moonlight Croissant]\n¿Quieres volver a probar la comida de la cocina del palacio real?"
+    },
+    "2joaDg": {
+        "en-US": "One more time",
+        "pt-BR": "Mais uma vez",
+        "es-ES": "Una vez más"
+    },
+    "2zoaDg": {
+        "en-US": "[Moonlight Croissant]\nA delicate crunch sounds as you take a bite.",
+        "pt-BR": "[Moonlight Croissant]\nAo dar uma mordida, você ouve um leve som crocante.",
+        "es-ES": "[Moonlight Croissant]\nAl dar un bocado, oyes un suave crujido."
+    },
+    "3DoaDg": {
+        "en-US": "Leaving already? Good luck.",
+        "pt-BR": "Já vai embora? Boa sorte.",
+        "es-ES": "¿Ya te vas? Buena suerte."
+    },
+    "3ToaDg": {
+        "en-US": "Royal Loaf Bread",
+        "pt-BR": "Pão de Forma Real",
+        "es-ES": "Royal Loaf Bread"
+    },
+    "3joaDg": {
+        "en-US": "Royal Palace Training Kitchen\n[Royal Loaf Bread]\nWould you like to participate in the royal palace kitchen's tasting event?",
+        "pt-BR": "Royal Palace Training Kitchen (Cozinha de Aprendizes do Palácio Real)\n[Pão de Forma Real]\nGostaria de participar do evento de degustação da cozinha do palácio real?",
+        "es-ES": "Royal Palace Training Kitchen (Cocina de Aprendices del Palacio Real)\n[Royal Loaf Bread]\n¿Quieres participar en el evento de degustación de la cocina del palacio real?"
+    },
+    "3zoaDg": {
+        "en-US": "[Royal Loaf Bread]\nWould you like to taste another dish from the royal palace kitchen?",
+        "pt-BR": "[Pão de Forma Real]\nGostaria de provar novamente a comida da cozinha do palácio real?",
+        "es-ES": "[Royal Loaf Bread]\n¿Quieres volver a probar la comida de la cocina del palacio real?"
+    },
+    "4DoaDg": {
+        "en-US": "[Royal Loaf Bread]\nA soft, fluffy loaf with the aroma of freshly baked bread...",
+        "pt-BR": "[Pão de Forma Real]\nUm pão macio e fofinho, com aroma de pão recém-assado...",
+        "es-ES": "[Royal Loaf Bread]\nUn pan suave y esponjoso con aroma a recién horneado..."
+    },
+    "4ToaDg": {
+        "en-US": "Roast Feast",
+        "pt-BR": "Banquete de Assados",
+        "es-ES": "Roast Feast"
+    },
+    "4joaDg": {
+        "en-US": "Royal Palace Training Kitchen\n[Roast Feast]\nWould you like to participate in the royal palace kitchen's tasting event?",
+        "pt-BR": "Royal Palace Training Kitchen (Cozinha de Aprendizes do Palácio Real)\n[Banquete de Assados]\nGostaria de participar do evento de degustação da cozinha do palácio real?",
+        "es-ES": "Royal Palace Training Kitchen (Cocina de Aprendices del Palacio Real)\n[Roast Feast]\n¿Quieres participar en el evento de degustación de la cocina del palacio real?"
+    },
+    "4zoaDg": {
+        "en-US": "[Roast Feast]\nWould you like to taste another dish from the royal palace kitchen?",
+        "pt-BR": "[Banquete de Assados]\nGostaria de provar novamente a comida da cozinha do palácio real?",
+        "es-ES": "[Roast Feast]\n¿Quieres volver a probar la comida de la cocina del palacio real?"
+    },
+    "5DoaDg": {
+        "en-US": "[Roast Feast]\nThe crispy crust crackles as it breaks. You take a bite...",
+        "pt-BR": "[Banquete de Assados]\nA crosta crocante estala ao se partir. Você dá uma mordida...",
+        "es-ES": "[Roast Feast]\nLa corteza crujiente crepita al romperse. Das un bocado..."
+    },
+    "5ToaDg": {
+        "en-US": "Loaf Bread",
+        "pt-BR": "Pão de Forma",
+        "es-ES": "Loaf Bread"
+    },
+    "5joaDg": {
+        "en-US": "Royal Palace Training Kitchen\n[Loaf Bread]\nWould you like to participate in the royal palace kitchen's tasting event?",
+        "pt-BR": "Royal Palace Training Kitchen (Cozinha de Aprendizes do Palácio Real)\n[Pão de Forma]\nGostaria de participar do evento de degustação da cozinha do palácio real?",
+        "es-ES": "Royal Palace Training Kitchen (Cocina de Aprendices del Palacio Real)\n[Loaf Bread]\n¿Quieres participar en el evento de degustación de la cocina del palacio real?"
+    },
+    "5zoaDg": {
+        "en-US": "[Loaf Bread]\nWould you like to taste another dish from the royal palace kitchen?",
+        "pt-BR": "[Pão de Forma]\nGostaria de provar novamente a comida da cozinha do palácio real?",
+        "es-ES": "[Loaf Bread]\n¿Quieres volver a probar la comida de la cocina del palacio real?"
+    },
+    "6DoaDg": {
+        "en-US": "[Loaf Bread]\nYou enjoy some plain bread with butter...",
+        "pt-BR": "[Pão de Forma]\nVocê saboreia um pão de sabor suave com manteiga...",
+        "es-ES": "[Loaf Bread]\nSaboreas un pan de sabor suave con mantequilla..."
+    },
+    "6ToaDg": {
+        "en-US": "Velvet Pudding Delight",
+        "pt-BR": "Delícia de Pudim",
+        "es-ES": "Velvet Pudding Delight"
+    },
+    "6joaDg": {
+        "en-US": "Royal Palace Training Kitchen\n[Velvet Pudding Delight]\nWould you like to participate in the royal palace kitchen's tasting event?",
+        "pt-BR": "Royal Palace Training Kitchen (Cozinha de Aprendizes do Palácio Real)\n[Delícia de Pudim]\nGostaria de participar do evento de degustação da cozinha do palácio real?",
+        "es-ES": "Royal Palace Training Kitchen (Cocina de Aprendices del Palacio Real)\n[Velvet Pudding Delight]\n¿Quieres participar en el evento de degustación de la cocina del palacio real?"
+    },
+    "6zoaDg": {
+        "en-US": "[Velvet Pudding Delight]\nWould you like to taste another dish from the royal palace kitchen?",
+        "pt-BR": "[Delícia de Pudim]\nGostaria de provar novamente a comida da cozinha do palácio real?",
+        "es-ES": "[Velvet Pudding Delight]\n¿Quieres volver a probar la comida de la cocina del palacio real?"
+    },
+    "7DoaDg": {
+        "en-US": "[Velvet Pudding Delight]\nA smooth pudding drizzled with sweet caramel...",
+        "pt-BR": "[Delícia de Pudim]\nUm pudim macio coberto com caramelo doce...",
+        "es-ES": "[Velvet Pudding Delight]\nUn pudín suave cubierto con caramelo dulce..."
+    },
+    "7ToaDg": {
+        "en-US": "Garden Harmony Salad",
+        "pt-BR": "Salada Harmoniosa",
+        "es-ES": "Garden Harmony Salad"
+    },
+    "7joaDg": {
+        "en-US": "Royal Palace Training Kitchen\n[Garden Harmony Salad]\nWould you like to participate in the royal palace kitchen's tasting event?",
+        "pt-BR": "Royal Palace Training Kitchen (Cozinha de Aprendizes do Palácio Real)\n[Salada Harmoniosa]\nGostaria de participar do evento de degustação da cozinha do palácio real?",
+        "es-ES": "Royal Palace Training Kitchen (Cocina de Aprendices del Palacio Real)\n[Garden Harmony Salad]\n¿Quieres participar en el evento de degustación de la cocina del palacio real?"
+    },
+    "7zoaDg": {
+        "en-US": "[Garden Harmony Salad]\nWould you like to taste another dish from the royal palace kitchen?",
+        "pt-BR": "[Salada Harmoniosa]\nGostaria de provar novamente a comida da cozinha do palácio real?",
+        "es-ES": "[Garden Harmony Salad]\n¿Quieres volver a probar la comida de la cocina del palacio real?"
+    },
+    "8DoaDg": {
+        "en-US": "[Garden Harmony Salad]\nFresh vegetables crunch as you chew...",
+        "pt-BR": "[Salada Harmoniosa]\nOs vegetais frescos fazem um som crocante ao serem mastigados...",
+        "es-ES": "[Garden Harmony Salad]\nLas verduras frescas crujen al masticarlas..."
+    },
+    "8ToaDg": {
+        "en-US": "Reward Exchange Officer",
+        "pt-BR": "Responsável pela Troca de Recompensas",
+        "es-ES": "Encargado del Canje de Recompensas"
+    },
+    "8joaDg": {
+        "en-US": "Exchange Gold Gourmet Coin",
+        "pt-BR": "Trocar Moeda Gastronômica de Ouro",
+        "es-ES": "Canjear Moneda Gastronómica de Oro"
+    },
+    "8zoaDg": {
+        "en-US": "Please select an exchange list.",
+        "pt-BR": "Selecione uma lista de troca.",
+        "es-ES": "Selecciona una lista de canje."
+    },
+    "9DoaDg": {
+        "en-US": "Exchange items from List 1",
+        "pt-BR": "Trocar itens da lista 1",
+        "es-ES": "Canjear objetos de la lista 1"
+    },
+    "9ToaDg": {
+        "en-US": "Exchange items from List 2",
+        "pt-BR": "Trocar itens da lista 2",
+        "es-ES": "Canjear objetos de la lista 2"
+    },
+    "9joaDg": {
+        "en-US": "Exchange items from List 3",
+        "pt-BR": "Trocar itens da lista 3",
+        "es-ES": "Canjear objetos de la lista 3"
+    },
+    "9zoaDg": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "+DoaDg": {
+        "en-US": "Thank you for visiting.",
+        "pt-BR": "Obrigado pela visita.",
+        "es-ES": "Gracias por tu visita."
+    },
+    "+ToaDg": {
+        "en-US": "Palace Royal Training Kitchen",
+        "pt-BR": "Cozinha do Palácio Real",
+        "es-ES": "Cocina del Palacio Real"
+    },
+    "+joaDg": {
+        "en-US": "^FF0000(Max Number  1~9999)^000000",
+        "pt-BR": "^FF0000(Número máximo  1~9999)^000000",
+        "es-ES": "^FF0000(Número máximo  1~9999)^000000"
+    },
+    "+zoaDg": {
+        "en-US": "[tester ]\nPlease enter 1~9999.",
+        "pt-BR": "[tester ]\nInsira um número de 1~9999.",
+        "es-ES": "[tester ]\nIntroduce un número de 1~9999."
+    },
+    "/DoaDg": {
+        "en-US": "Jackpot :{0} times\nLucky :{1} times\nOther :{2} times",
+        "pt-BR": "Jackpot :{0} vezes\nLucky :{1} vezes\nOutros :{2} vezes",
+        "es-ES": "Jackpot :{0} veces\nLucky :{1} veces\nOtros :{2} veces"
+    },
+    "/ToaDg": {
+        "en-US": "You need a Silver Gourmet Coin to participate in the Royal Palace Cooking Festival. You can obtain one from a Gourmet Pack or purchase one with Zeny from the Reward Exchange NPC. You can use 1 Silver Gourmet Coin to taste an apprentice chef's dish once.",
+        "pt-BR": "Você precisa de uma Moeda Gastronômica de Prata para participar do Festival de Culinária do Palácio Real. Você pode obtê-la em um Pacote Gastronômico ou comprá-la com Zeny no NPC de troca de recompensas. Você pode usar 1 Moeda Gastronômica de Prata para provar uma vez um prato preparado por um aprendiz de cozinheiro.",
+        "es-ES": "Necesitas una Moneda Gastronómica de Plata para participar en el Festival de Cocina del Palacio Real. Puedes obtenerla de un Paquete Gastronómico o comprarla con Zeny al NPC de intercambio de recompensas. Puedes usar 1 Moneda Gastronómica de Plata para probar una vez un plato preparado por un aprendiz de cocinero."
+    },
+    "/joaDg": {
+        "en-US": "Purchase a Silver Gourmet Coin",
+        "pt-BR": "Comprar Moeda Gastronômica de Prata",
+        "es-ES": "Comprar Moneda Gastronómica de Plata"
+    },
+    "/zoaDg": {
+        "en-US": "You can purchase 1 <ITEM>Silver Gourmet Coin<INFO>1002368</INFO></ITEM> for 1,000,000 Zeny. Would you like to purchase it?",
+        "pt-BR": "Você pode comprar 1 <ITEM>Moeda Gastronômica de Prata<INFO>1002368</INFO></ITEM> por 1.000.000 de Zeny. Deseja comprá-la?",
+        "es-ES": "Puedes comprar 1 <ITEM>Moneda Gastronómica de Plata<INFO>1002368</INFO></ITEM> por 1.000.000 de Zeny. ¿Quieres comprarla?"
+    },
+    "ADsaDg": {
+        "en-US": "I'll purchase it",
+        "pt-BR": "Quero comprar",
+        "es-ES": "Quiero comprarla"
+    },
+    "ATsaDg": {
+        "en-US": "You don't have enough Zeny. You need 1,000,000 Zeny.",
+        "pt-BR": "Você não tem Zeny suficiente. São necessários 1.000.000 de Zeny.",
+        "es-ES": "No tienes suficiente Zeny. Necesitas 1.000.000 de Zeny."
+    },
+    "AjsaDg": {
+        "en-US": "- You cannot make this purchase because you lack carrying capacity or inventory space. -",
+        "pt-BR": "- Você não pode realizar a compra por falta de capacidade de carga ou espaço no inventário. -",
+        "es-ES": "- No puedes realizar la compra por falta de capacidad de carga o espacio en el inventario. -"
+    },
+    "AzsaDg": {
+        "en-US": "You purchased 1 Silver Gourmet Coin.",
+        "pt-BR": "Você comprou 1 Moeda Gastronômica de Prata.",
+        "es-ES": "Has comprado 1 Moneda Gastronómica de Plata."
+    },
+    "BDsaDg": {
+        "en-US": "Purchase canceled.",
+        "pt-BR": "Compra cancelada.",
+        "es-ES": "Compra cancelada."
+    },
+    "BTsaDg": {
+        "en-US": "[Reward Exchange Officer]\nSilver Gourmet Coin can be purchased for 1,000,000 Zeny each.\nI'll open the shop for you.",
+        "pt-BR": "[Responsável pelas Trocas]\nVocê pode comprar Moeda Gastronômica de Prata por 1.000.000 de Zeny cada.\nVou abrir a loja para você.",
+        "es-ES": "[Encargado de Canjes]\nPuedes comprar Moneda Gastronómica de Plata por 1.000.000 de Zeny cada una.\nTe abriré la tienda."
+    }
+}

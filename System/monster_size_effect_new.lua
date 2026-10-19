@@ -4311,6 +4311,40 @@ tbl = {
 		MonsterEff = {
 			EFFECT.MAGIC_CIRCLE_UNDEAD
 		}
+	},
+	[21531] = {
+		MonsterSize = 1.7,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[21588] = {
+		MonsterSize = 2.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[21590] = {
+		MonsterSize = 1.4,
+		MonsterEff = {
+			EFFECT.EF_REDLIGHTBODY
+		}
+	},
+	[21537] = {
+		MonsterSize = 1.5,
+		MonsterEff = {EF_LEVEL99_RED}
+	},
+	[21853] = {
+		MonsterSize = 1.2,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DRAGON
+		}
+	},
+	[21854] = {
+		MonsterSize = 1.2,
+		MonsterEff = {
+			EFFECT.MAGIC_CIRCLE_DEVIL
+		}
 	}
 }
 function main()

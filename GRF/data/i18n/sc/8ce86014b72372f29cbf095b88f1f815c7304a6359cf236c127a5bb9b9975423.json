@@ -1,0 +1,413 @@
+{
+    "wJv1DQ": {
+        "en-US": "[Notice]\nPatrol with Iwin\nYou will leave the Memorial Dungeon. Some progress may not be saved.",
+        "pt-BR": "[Informação]\nPatrulha com Arwin\nVocê sairá da Masmorra Memorial. Parte do progresso pode não ser salva.",
+        "es-ES": "[Guía]\nPatrulla con Awin\nSaldrás de la mazmorra memorial. Es posible que parte del progreso no se guarde."
+    },
+    "wZv1DQ": {
+        "en-US": "Do not leave.",
+        "pt-BR": "Não sair.",
+        "es-ES": "No salir."
+    },
+    "wpv1DQ": {
+        "en-US": "Leave.",
+        "pt-BR": "Sair.",
+        "es-ES": "Salir."
+    },
+    "w5v1DQ": {
+        "en-US": "Patrol Captain",
+        "pt-BR": "Capitão da Patrulha",
+        "es-ES": "Capitán de Patrulla"
+    },
+    "xJv1DQ": {
+        "en-US": "<Eagle Patrol>",
+        "pt-BR": "<Patrulha da Águia>",
+        "es-ES": "<Patrulla Águila>"
+    },
+    "xZv1DQ": {
+        "en-US": "Patrol Captain: I'll come meet you around the time you finish the patrol.",
+        "pt-BR": "Capitão da Patrulha: Irei recebê-lo quando estiver terminando a patrulha.",
+        "es-ES": "Capitán de Patrulla: Iré a recibirlos cuando estén por terminar la patrulla."
+    },
+    "xpv1DQ": {
+        "en-US": "Patrol Captain: Since it's your first time, I'll give you a brief explanation.",
+        "pt-BR": "Capitão da Patrulha: Como é sua primeira vez, vou explicar brevemente.",
+        "es-ES": "Capitán de Patrulla: Como es la primera vez, daré una breve explicación."
+    },
+    "x5v1DQ": {
+        "en-US": "[Patrol Captain]\nSince it's your first time, I'll give you a brief explanation.",
+        "pt-BR": "[Capitão da Patrulha]\nComo é sua primeira vez, vou explicar brevemente.",
+        "es-ES": "[Capitán de Patrulla]\nComo es la primera vez, daré una breve explicación."
+    },
+    "yJv1DQ": {
+        "en-US": "Patrol Captain: Take a walk with our dependable Eagle Patrol members.. No, ahem..",
+        "pt-BR": "Capitão da Patrulha: Basta dar um passeio com nossos confiáveis membros da Patrulha da Águia... digo, cof cof...",
+        "es-ES": "Capitán de Patrulla: Den un paseo con nuestros confiables miembros de la Patrulla Águila... no, ejem..."
+    },
+    "yZv1DQ": {
+        "en-US": "[Patrol Captain]\nTake a walk with our dependable Eagle Patrol members.. No, ahem..",
+        "pt-BR": "[Capitão da Patrulha]\nBasta dar um passeio com nossos confiáveis membros da Patrulha da Águia... digo, cof cof...",
+        "es-ES": "[Capitán de Patrulla]\nDen un paseo con nuestros confiables miembros de la Patrulla Águila... no, ejem..."
+    },
+    "ypv1DQ": {
+        "en-US": "Patrol Captain: Just go out on patrol. Well, our members will be doing the actual patrolling..",
+        "pt-BR": "Capitão da Patrulha: É só fazer a patrulha. Bem, quem vai patrulhar de verdade serão nossos membros...",
+        "es-ES": "Capitán de Patrulla: Solo tienen que salir de patrulla. Bueno, nuestros miembros serán quienes hagan la patrulla de verdad..."
+    },
+    "y5v1DQ": {
+        "en-US": "[Patrol Captain]\nJust go out on patrol. Well, our members will be doing the actual patrolling..",
+        "pt-BR": "[Capitão da Patrulha]\nÉ só fazer a patrulha. Bem, quem vai patrulhar de verdade serão nossos membros...",
+        "es-ES": "[Capitán de Patrulla]\nSolo tienen que salir de patrulla. Bueno, nuestros miembros serán quienes hagan la patrulla de verdad..."
+    },
+    "zJv1DQ": {
+        "en-US": "Patrol Captain: We also can't ignore the fact that patrolling in a group is safer.",
+        "pt-BR": "Capitão da Patrulha: Também não podemos ignorar que patrulhar em grupo é mais seguro.",
+        "es-ES": "Capitán de Patrulla: Tampoco se puede ignorar que patrullar en grupo es más seguro."
+    },
+    "zZv1DQ": {
+        "en-US": "[Patrol Captain]\nWe also can't ignore the fact that patrolling in a group is safer.",
+        "pt-BR": "[Capitão da Patrulha]\nTambém não podemos ignorar que patrulhar em grupo é mais seguro.",
+        "es-ES": "[Capitán de Patrulla]\nTampoco se puede ignorar que patrullar en grupo es más seguro."
+    },
+    "zpv1DQ": {
+        "en-US": "Patrol Captain: Well, it's not your first time, so you don't need an explanation, right?",
+        "pt-BR": "Capitão da Patrulha: Bom, não é sua primeira vez, então não preciso explicar, certo?",
+        "es-ES": "Capitán de Patrulla: Bueno, ya no es la primera vez, así que no necesitan explicación, ¿verdad?"
+    },
+    "z5v1DQ": {
+        "en-US": "[Patrol Captain]\nWell, it's not your first time, so you don't need an explanation, right?",
+        "pt-BR": "[Capitão da Patrulha]\nBom, não é sua primeira vez, então não preciso explicar, certo?",
+        "es-ES": "[Capitán de Patrulla]\nBueno, ya no es la primera vez, así que no necesitan explicación, ¿verdad?"
+    },
+    "0Jv1DQ": {
+        "en-US": "Patrol Captain: Then let's go!",
+        "pt-BR": "Capitão da Patrulha: Então, vamos!",
+        "es-ES": "Capitán de Patrulla: ¡Entonces, en marcha!"
+    },
+    "0Zv1DQ": {
+        "en-US": "[Patrol Captain]\nThen let's go!",
+        "pt-BR": "[Capitão da Patrulha]\nEntão, vamos!",
+        "es-ES": "[Capitán de Patrulla]\n¡Entonces, en marcha!"
+    },
+    "0pv1DQ": {
+        "en-US": "[Patrol Captain]\nTalk to that friend and have them bring the party representative.",
+        "pt-BR": "[Capitão da Patrulha]\nFale com ele para trazer o representante do grupo.",
+        "es-ES": "[Capitán de Patrulla]\nHablen con ese amigo para que traiga al representante del grupo."
+    },
+    "05v1DQ": {
+        "en-US": "Morurang I think there's something over there in the corner?",
+        "pt-BR": "Morurang Parece que tem alguma coisa ali no canto, não?",
+        "es-ES": "Morurang, ¿no parece que hay algo en aquella esquina?"
+    },
+    "1Jv1DQ": {
+        "en-US": "Morurang: Is that so? I don't think I saw anything. If it's really bothering you, why don't you go check it out?",
+        "pt-BR": "Morurang: É mesmo? Acho que não vi nada. Se isso está incomodando você, que tal ir verificar?",
+        "es-ES": "Morurang: ¿Eso cree? Yo no vi nada. Si de verdad le preocupa, ¿por qué no va a comprobarlo?"
+    },
+    "1Zv1DQ": {
+        "en-US": "Moruryu I think there's something over there in the corner?",
+        "pt-BR": "Moruryu Parece que tem alguma coisa ali no canto, não?",
+        "es-ES": "Moruryu, ¿no parece que hay algo en aquella esquina?"
+    },
+    "1pv1DQ": {
+        "en-US": "Moruryu: Is that so? I don't think I saw anything. If it's really bothering you, why don't you go check it out?",
+        "pt-BR": "Moruryu: É mesmo? Acho que não vi nada. Se isso está incomodando você, que tal ir verificar?",
+        "es-ES": "Moruryu: ¿Eso cree? Yo no vi nada. Si de verdad le preocupa, ¿por qué no va a comprobarlo?"
+    },
+    "15v1DQ": {
+        "en-US": "Poruryo I think there's something over there in the corner?",
+        "pt-BR": "Pporuryo Parece que tem alguma coisa ali no canto, não?",
+        "es-ES": "Poruryo, ¿no parece que hay algo en aquella esquina?"
+    },
+    "2Jv1DQ": {
+        "en-US": "Poruryo: ...? ... ... ....?",
+        "pt-BR": "Pporuryo: ...? ... ... ....?",
+        "es-ES": "Poruryo: ...? ... ... ....?"
+    },
+    "2Zv1DQ": {
+        "en-US": "Ssorur: Corporal Poruryo says they don't think they saw anything, but if it's really bothering you, why don't you go check it out?",
+        "pt-BR": "Ssorur: O cabo Pporuryo disse que acha que não viu nada, mas se isso está incomodando você, que tal ir verificar?",
+        "es-ES": "Ssorur: El cabo Poruryo dice que no vio nada, pero si de verdad le preocupa, ¿por qué no va a comprobarlo?"
+    },
+    "2pv1DQ": {
+        "en-US": "Huh?! I think there's something over there in the corner?",
+        "pt-BR": "Hã?! Parece que tem alguma coisa ali no canto, não?",
+        "es-ES": "¡¿Eh?! ¿No parece que hay algo en aquella esquina?"
+    },
+    "25v1DQ": {
+        "en-US": "Patrol Captain",
+        "pt-BR": "Capitão da Patrulha",
+        "es-ES": "Capitán de Patrulla"
+    },
+    "3Jv1DQ": {
+        "en-US": "^4D4DFF!-Warning-!^000000\n^4D4DFFYour inventory has no free space, or you are carrying nearly the maximum amount of the same item.^000000\n^4D4DFFPlease organize your inventory using Kafra or Zonda Storage services.^000000",
+        "pt-BR": "^4D4DFF!-Atenção-!^000000\n^4D4DFFSeu inventário não tem espaço livre ou você está carregando uma quantidade próxima do limite do mesmo item.^000000\n^4D4DFFUse o serviço de armazém da Kafra ou da Zonda para organizar seus itens.^000000",
+        "es-ES": "^4D4DFF¡-Atención-!^000000\n^4D4DFFNo hay suficiente espacio en el inventario o posee una cantidad cercana al límite del mismo objeto.^000000\n^4D4DFFUtilice el servicio de almacenamiento de Kafra o Zonda para organizarlo.^000000"
+    },
+    "3Zv1DQ": {
+        "en-US": "[Patrol Captain]\nYou've worked hard getting this far. Since you've already come all this way, would you mind waiting a little until our members finish their patrol?",
+        "pt-BR": "[Capitão da Patrulha]\nVocê se esforçou bastante para chegar até aqui. Já que veio até aqui, poderia esperar um pouco até nossos membros terminarem a patrulha?",
+        "es-ES": "[Capitán de Patrulla]\nHas hecho un gran esfuerzo para llegar hasta aquí. Ya que has llegado, ¿podrías esperar un momento hasta que nuestros miembros terminen la patrulla?"
+    },
+    "3pv1DQ": {
+        "en-US": "[Patrol Captain]\nGood work on today's patrol. Here's a small reward for this patrol.",
+        "pt-BR": "[Capitão da Patrulha]\nBom trabalho na patrulha de hoje. Esta é uma pequena recompensa por esta patrulha.",
+        "es-ES": "[Capitán de Patrulla]\nBuen trabajo en la patrulla de hoy. Esta es una pequeña recompensa por esta patrulla."
+    },
+    "35v1DQ": {
+        "en-US": "[Patrol Captain]\nBy the way, where are you headed? If you're returning to Ice Castle, I'll take you there.",
+        "pt-BR": "[Capitão da Patrulha]\nA propósito, para onde vai? Se for voltar ao Castelo de Gelo, eu posso levar você.",
+        "es-ES": "[Capitán de Patrulla]\nPor cierto, ¿adónde irás? Si vas a regresar al Castillo de Hielo, puedo llevarte."
+    },
+    "4Jv1DQ": {
+        "en-US": "To Ice Castle..",
+        "pt-BR": "Para o Castelo de Gelo..",
+        "es-ES": "Al Castillo de Hielo..."
+    },
+    "4Zv1DQ": {
+        "en-US": "I still have something to do.",
+        "pt-BR": "Ainda tenho coisas para fazer.",
+        "es-ES": "Aún tengo asuntos pendientes."
+    },
+    "4pv1DQ": {
+        "en-US": "[Patrol Captain]\nAll right, shall we head to Ice Castle?",
+        "pt-BR": "[Capitão da Patrulha]\nEntão, vamos para o Castelo de Gelo?",
+        "es-ES": "[Capitán de Patrulla]\nBien, entonces ¿vamos al Castillo de Hielo?"
+    },
+    "45v1DQ": {
+        "en-US": "[Patrol Captain]\nIf that's the case, shall we part ways here? See you again tomorrow.",
+        "pt-BR": "[Capitão da Patrulha]\nSe é assim, então vamos nos despedir por aqui. Vejo você amanhã.",
+        "es-ES": "[Capitán de Patrulla]\nSi es así, supongo que nos despediremos aquí. Nos vemos mañana."
+    },
+    "5Jv1DQ": {
+        "en-US": "[Patrol Captain]\nGood work on today's patrol. By the way, if you're returning to Ice Castle, I'll take you there.",
+        "pt-BR": "[Capitão da Patrulha]\nBom trabalho na patrulha de hoje. A propósito, se for voltar ao Castelo de Gelo, eu posso levar você.",
+        "es-ES": "[Capitán de Patrulla]\nBuen trabajo en la patrulla de hoy. Por cierto, si vas a regresar al Castillo de Hielo, puedo llevarte."
+    },
+    "5Zv1DQ": {
+        "en-US": "[Patrol Captain]\nIt seems neither you nor any of your companions properly completed the patrol with our members.",
+        "pt-BR": "[Capitão da Patrulha]\nParece que nem você nem nenhum dos seus companheiros fizeram a patrulha corretamente com nossos membros.",
+        "es-ES": "[Capitán de Patrulla]\nParece que ni tú ni ninguno de tus compañeros hizo correctamente la patrulla con nuestros miembros."
+    },
+    "5pv1DQ": {
+        "en-US": "[Patrol Captain]\nSince you didn't complete the patrol properly, I can't give you a reward. Well, if you go complete it alone now, I'll make sure you get one..",
+        "pt-BR": "[Capitão da Patrulha]\nComo você não fez a patrulha corretamente, não posso dar a recompensa. Bem, se ainda quiser fazer a ronda sozinho agora, eu posso separar uma para você...",
+        "es-ES": "[Capitán de Patrulla]\nComo no hicieron la patrulla correctamente, no puedo darles una recompensa. Bueno, si la haces por tu cuenta ahora mismo, podría darte una..."
+    },
+    "55v1DQ": {
+        "en-US": "[Patrol Captain]\nI wonder if someone who spent the whole time fooling around even knows our patrol area.",
+        "pt-BR": "[Capitão da Patrulha]\nNão sei se alguém que ficou passeando por aí conhece nossa área de patrulha.",
+        "es-ES": "[Capitán de Patrulla]\nMe pregunto si tú, que te fuiste a perder el tiempo, siquiera conoces nuestra zona de patrulla."
+    },
+    "6Jv1DQ": {
+        "en-US": "Mysterious Young Man",
+        "pt-BR": "Jovem misterioso",
+        "es-ES": "Joven misterioso"
+    },
+    "6Zv1DQ": {
+        "en-US": "<HU-210426>",
+        "pt-BR": "<HU-210426>",
+        "es-ES": "<HU-210426>"
+    },
+    "6pv1DQ": {
+        "en-US": "[Mysterious Young Man]\nEek! Did you come here to capture me?",
+        "pt-BR": "[Jovem misterioso]\nAaaah! Você veio me capturar?",
+        "es-ES": "[Joven misterioso]\n¡Aaah! ¿Viniste a capturarme?"
+    },
+    "65v1DQ": {
+        "en-US": "[{0}]\nNo.",
+        "pt-BR": "[{0}]\nNão.",
+        "es-ES": "[{0}]\nNo."
+    },
+    "7Jv1DQ": {
+        "en-US": "[Mysterious Young Man]\nOh! What a relief. I had a hard time escaping all the way here.",
+        "pt-BR": "[Jovem misterioso]\nOh! Ainda bem. Eu fugi com muita dificuldade até chegar aqui.",
+        "es-ES": "[Joven misterioso]\n¡Oh! Qué alivio. Me costó muchísimo escapar hasta aquí."
+    },
+    "7Zv1DQ": {
+        "en-US": "[{0}]\nBut you look a lot like Achimi. If I had to put it one way, I think Achimi would look like you after growing up.",
+        "pt-BR": "[{0}]\nMas você se parece muito com Achimi. Pensando bem, acho que Achimi ficaria parecido com você quando crescesse.",
+        "es-ES": "[{0}]\nPero te pareces mucho a Achim. Si tuviera que decirlo, creo que Achim se vería como tú cuando creciera."
+    },
+    "7pv1DQ": {
+        "en-US": "[Mysterious Young Man]\nAchimi? Who's that?",
+        "pt-BR": "[Jovem misterioso]\nAchimi? Quem é?",
+        "es-ES": "[Joven misterioso]\n¿Achim? ¿Quién es?"
+    },
+    "75v1DQ": {
+        "en-US": "[{0}]\nHuh? You don't know Achimi? A kid who looks similar to you. I think I met them in Rudus?.",
+        "pt-BR": "[{0}]\nHã? Você não conhece Achimi? É uma criança parecida com você. Acho que encontrei Achimi em Rudus?.",
+        "es-ES": "[{0}]\n¿Eh? ¿No conoces a Achim? Es un chico que se parece a ti. Creo que lo conocí en Rudus."
+    },
+    "8Jv1DQ": {
+        "en-US": "[{0}]\nI'm not sure if they're still there.",
+        "pt-BR": "[{0}]\nNão sei se ainda está lá.",
+        "es-ES": "[{0}]\nNo sé si todavía estará allí."
+    },
+    "8Zv1DQ": {
+        "en-US": "[Mysterious Young Man]\nRudus? Rudus.. Rudus..",
+        "pt-BR": "[Jovem misterioso]\nRudus? Rudus.. Rudus..",
+        "es-ES": "[Joven misterioso]\n¿Rudus? Rudus... Rudus..."
+    },
+    "8pv1DQ": {
+        "en-US": "[Mysterious Young Man]\nOh! There it is! My data says it's a place where discarded test subjects are dumped.",
+        "pt-BR": "[Jovem misterioso]\nOh! Achei! Meus dados dizem que é um lugar onde experimentos descartados são abandonados.",
+        "es-ES": "[Joven misterioso]\n¡Oh! ¡Aquí está! Según mis datos, es un lugar donde desechan sujetos experimentales descartados."
+    },
+    "85v1DQ": {
+        "en-US": "[Mysterious Young Man]\nJudging from the data, that kid named Achimi is probably an earlier model of me.",
+        "pt-BR": "[Jovem misterioso]\nPelo que posso deduzir dos dados, acho que essa criança chamada Achimi é um modelo inicial meu.",
+        "es-ES": "[Joven misterioso]\nA juzgar por los datos, creo que ese chico llamado Achim debe ser uno de mis modelos iniciales."
+    },
+    "9Jv1DQ": {
+        "en-US": "[{0}]\nEarlier model?",
+        "pt-BR": "[{0}]\nModelo inicial?",
+        "es-ES": "[{0}]\n¿Modelo inicial?"
+    },
+    "9Zv1DQ": {
+        "en-US": "[Mysterious Young Man]\nI'm one of Illusion's test subjects.",
+        "pt-BR": "[Jovem misterioso]\nEu sou um espécime experimental da Illusion.",
+        "es-ES": "[Joven misterioso]\nSoy un sujeto experimental de Illusion."
+    },
+    "9pv1DQ": {
+        "en-US": "[Mysterious Young Man]\nI'm what Illusion's scientists created by improving and improving the test subject you call Achimi.",
+        "pt-BR": "[Jovem misterioso]\nOs cientistas da Illusion aprimoraram repetidamente o espécime que você chama de Achimi, e foi assim que eu fui criado.",
+        "es-ES": "[Joven misterioso]\nLos científicos de Illusion mejoraron una y otra vez al sujeto experimental que llamas Achim, y así fui creado yo."
+    },
+    "95v1DQ": {
+        "en-US": "[Mysterious Young Man]\nCompared to that test subject called Achimi, you could say I'm about 210426 times superior!",
+        "pt-BR": "[Jovem misterioso]\nComparado ao espécime chamado Achimi, pode-se dizer que sou cerca de 210426 vezes superior!",
+        "es-ES": "[Joven misterioso]\nComparado con ese sujeto experimental llamado Achim, ¡podría decirse que soy unas 210426 veces superior!"
+    },
+    "+Jv1DQ": {
+        "en-US": "[{0}]\nEscaping? Come to think of it, your clothes look way too light for this place. Aren't you cold?",
+        "pt-BR": "[{0}]\nFugiu? Pensando bem, suas roupas parecem leves demais para este lugar. Você não está com frio?",
+        "es-ES": "[{0}]\n¿Escapaste? Ahora que lo pienso, tu ropa parece demasiado ligera para estar aquí. ¿No tienes frío?"
+    },
+    "+Zv1DQ": {
+        "en-US": "[Mysterious Young Man]\nCold? Cold.. Cold..",
+        "pt-BR": "[Jovem misterioso]\nFrio? Frio.. Frio..",
+        "es-ES": "[Joven misterioso]\n¿Frío? Frío... frío..."
+    },
+    "+pv1DQ": {
+        "en-US": "[Mysterious Young Man]\nAh! You mean the state of being cooled down. If that's what you mean, I'm fine.",
+        "pt-BR": "[Jovem misterioso]\nAh! Você está falando do estado de resfriamento. Se for isso, não há problema.",
+        "es-ES": "[Joven misterioso]\n¡Ah! Se refiere al estado de enfriamiento. Si es eso, no hay problema."
+    },
+    "+5v1DQ": {
+        "en-US": "[Mysterious Young Man]\nI was made to withstand temperatures like this well enough.",
+        "pt-BR": "[Jovem misterioso]\nFui criado para suportar tranquilamente temperaturas deste nível.",
+        "es-ES": "[Joven misterioso]\nFui fabricado para soportar perfectamente temperaturas como esta."
+    },
+    "/Jv1DQ": {
+        "en-US": "[{0}]\nHuh? Made? What do you mean?",
+        "pt-BR": "[{0}]\nHã? Criado? Do que você está falando?",
+        "es-ES": "[{0}]\n¿Eh? ¿Fabricado? ¿De qué hablas?"
+    },
+    "/Zv1DQ": {
+        "en-US": "[Mysterious Young Man]\nI'm a test subject created by Illusion.",
+        "pt-BR": "[Jovem misterioso]\nEu sou um espécime experimental criado pela Illusion.",
+        "es-ES": "[Joven misterioso]\nSoy un sujeto experimental creado por Illusion."
+    },
+    "/pv1DQ": {
+        "en-US": "[Mysterious Young Man]\nI'm what the scientists created by improving and improving the #000001 test subject they happened to make.",
+        "pt-BR": "[Jovem misterioso]\nOs cientistas aprimoraram repetidamente o espécime #000001 que criaram por acaso, e foi assim que eu fui criado.",
+        "es-ES": "[Joven misterioso]\nLos científicos mejoraron una y otra vez al sujeto experimental #000001 que crearon por casualidad, y así fui creado yo."
+    },
+    "/5v1DQ": {
+        "en-US": "[Mysterious Young Man]\nCompared to that #000001 test subject, you could say I'm about 210426 times superior!",
+        "pt-BR": "[Jovem misterioso]\nComparado ao espécime #000001, pode-se dizer que sou cerca de 210426 vezes superior!",
+        "es-ES": "[Joven misterioso]\nComparado con ese sujeto experimental #000001, ¡podría decirse que soy unas 210426 veces superior!"
+    },
+    "AJz1DQ": {
+        "en-US": "[{0}]\nI.. I see. But how did you end up all the way out here?",
+        "pt-BR": "[{0}]\nE.. entendi. Mas como você acabou vindo parar aqui?",
+        "es-ES": "[{0}]\nY-ya veo. Pero ¿cómo terminaste llegando hasta aquí?"
+    },
+    "AZz1DQ": {
+        "en-US": "[Mysterious Young Man]\nOh! That's a sharp question. But who knows? I don't really know either.",
+        "pt-BR": "[Jovem misterioso]\nOh! Essa foi uma pergunta perspicaz. Mas, quem sabe? Nem eu sei muito bem.",
+        "es-ES": "[Joven misterioso]\n¡Oh! Qué pregunta tan aguda. Pero... ¿quién sabe? Yo tampoco lo sé muy bien."
+    },
+    "Apz1DQ": {
+        "en-US": "[Mysterious Young Man]\nI only escaped after arriving here, when the scientists were busy with other experiments and weren't watching me as closely.",
+        "pt-BR": "[Jovem misterioso]\nDepois que cheguei aqui, fugi quando os cientistas ficaram menos atentos enquanto realizavam outros experimentos.",
+        "es-ES": "[Joven misterioso]\nYo también escapé después de llegar aquí, cuando los científicos estaban ocupados con otros experimentos y dejaron de vigilarme tanto."
+    },
+    "A5z1DQ": {
+        "en-US": "[Mysterious Young Man]\nBut judging by those birds patrolling over there, this place doesn't seem very safe either.",
+        "pt-BR": "[Jovem misterioso]\nMas, vendo aquelas aves patrulhando por ali, este lugar também não parece muito seguro.",
+        "es-ES": "[Joven misterioso]\nPero viendo que esas aves patrullan por ahí, parece que este lugar tampoco es seguro."
+    },
+    "BJz1DQ": {
+        "en-US": "[Mysterious Young Man]\nI think the plains would be safer. I should probably head toward the plains now.. Maybe we'll meet again if we get the chance.",
+        "pt-BR": "[Jovem misterioso]\nAcho que a planície deve ser mais segura. Acho que preciso ir para lá agora.. Se tivermos outra oportunidade, nos vemos de novo.",
+        "es-ES": "[Joven misterioso]\nCreo que la llanura será más segura. Parece que ahora debo ir hacia la llanura... Si tenemos oportunidad, nos volveremos a ver."
+    },
+    "BZz1DQ": {
+        "en-US": "[Mysterious Young Man]\nIt was nice talking with you.",
+        "pt-BR": "[Jovem misterioso]\nFoi bom conversar com você.",
+        "es-ES": "[Joven misterioso]\nFue agradable conversar contigo."
+    },
+    "Bpz1DQ": {
+        "en-US": "The young man disappeared just like that. He said he was heading toward Frozen Scale Plains, right? Let's go look for him when we have time.",
+        "pt-BR": "E assim o jovem desapareceu. Ele disse que iria na direção da Planície de Escamas Congeladas, certo? Se tivermos tempo, vamos procurá-lo.",
+        "es-ES": "El joven desapareció de esa manera. Dijo que iría en dirección a la Llanura de Escamas Congeladas, ¿verdad? Si tenemos tiempo, vayamos a buscarlo."
+    },
+    "B5z1DQ": {
+        "en-US": "[Mysterious Young Man]\nI should probably head toward the plains now.. Maybe we'll meet again if we get the chance.",
+        "pt-BR": "[Jovem misterioso]\nAcho que preciso ir para a planície agora.. Se tivermos outra oportunidade, nos vemos de novo.",
+        "es-ES": "[Joven misterioso]\nParece que ahora debo ir hacia la llanura... Si tenemos oportunidad, nos volveremos a ver."
+    },
+    "CJz1DQ": {
+        "en-US": "Something Management",
+        "pt-BR": "Gerenciamento de alguma coisa",
+        "es-ES": "Gestión de algo"
+    },
+    "CZz1DQ": {
+        "en-US": "Something",
+        "pt-BR": "Alguma coisa",
+        "es-ES": "Algo"
+    },
+    "Cpz1DQ": {
+        "en-US": "Bug",
+        "pt-BR": "Inseto",
+        "es-ES": "Insecto"
+    },
+    "C5z1DQ": {
+        "en-US": "It looks like 「^888888Something^000000」 is lightly covered with dirt. It seems to be moving, but that is dirt, right?",
+        "pt-BR": "Parece que 「^888888alguma coisa^000000」 está levemente coberta de terra. Parece estar se mexendo... isso é terra mesmo?",
+        "es-ES": "Parece que 「^888888algo^000000」 está ligeramente cubierto de tierra. Parece que se mueve... ¿Esto de verdad es tierra?"
+    },
+    "DJz1DQ": {
+        "en-US": "Uncover it.",
+        "pt-BR": "Levantar para ver.",
+        "es-ES": "Revisar debajo."
+    },
+    "DZz1DQ": {
+        "en-US": "Leave it alone.",
+        "pt-BR": "Deixar como está.",
+        "es-ES": "Dejarlo como está."
+    },
+    "Dpz1DQ": {
+        "en-US": "Right! Something scary might come out of that 「Something」, so let's just leave it alone.",
+        "pt-BR": "Isso! Pode sair alguma 「coisa」 assustadora daí, então é melhor deixar como está.",
+        "es-ES": "¡Sí! Podría aparecer 「algo」 aterrador, así que será mejor dejarlo como está."
+    },
+    "D5z1DQ": {
+        "en-US": "You found some food that someone left here. Let's take it to Supply Officer Gorir.",
+        "pt-BR": "Encontrou comida que alguém deixou aqui. Vamos levá-la ao oficial de suprimentos Gorir.",
+        "es-ES": "Encontraste comida que alguien dejó aquí. Llévasela al oficial de suministros Gorir."
+    },
+    "EJz1DQ": {
+        "en-US": "Aw.. What? It's just an ordinary pile of dirt?",
+        "pt-BR": "Ah... o quê? É só um monte de terra comum?",
+        "es-ES": "Bah... ¿Qué es esto? ¿Solo es un montón de tierra común?"
+    },
+    "EZz1DQ": {
+        "en-US": "Agh! It's a bug? What on earth was in there?!",
+        "pt-BR": "Aaah! É um inseto? O que diabos estava aí?!",
+        "es-ES": "¡Aaah! ¿Es un insecto? ¡¿Qué demonios había ahí?!"
+    },
+    "Epz1DQ": {}
+}

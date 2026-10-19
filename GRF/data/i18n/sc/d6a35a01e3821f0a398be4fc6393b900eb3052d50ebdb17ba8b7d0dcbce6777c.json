@@ -560,13 +560,13 @@
         "es-ES": "No dar."
     },
     "MNIuAw": {
-        "en-US": "== You gently place the glasses in his hand. ==",
-        "pt-BR": "#ERROR!",
-        "es-ES": "#ERROR!"
+        "en-US": "- You gently place the glasses in his hand. -",
+        "pt-BR": "- Você coloca os óculos nas mãos dele gentilmente. -",
+        "es-ES": "- Le pones las gafas con delicadeza en sus manos. -"
     },
     "MdIuAw": {
         "en-US": "[Pisrick]\nEh?\nWho? ..Ah, {0}?\nThanks.\nLet's see...\nThere was an explosion, but the test tube didn't break.",
-        "pt-BR": "[Pisrick]\nEh?\nQuem? ..Ah, {0}?\nObrigado.\nVejamos...\nHouve uma explosão, mas o tubo de ensaio não quebrou.",
+        "pt-BR": "- You gently place the glasses in his hand. -",
         "es-ES": "[Pisrick]\n¿Eh?\n¿Quién? ..Ah, ¿{0}?\nGracias.\nVeamos...\nHubo una explosión, pero el tubo de ensayo no se rompió."
     },
     "MtIuAw": {

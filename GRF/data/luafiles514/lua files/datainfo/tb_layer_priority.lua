@@ -1688,7 +1688,7 @@ TB_Layer_Priority = {
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_Charcoal_Stove] = {
-			Default = 301,
+			Default = 120,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {

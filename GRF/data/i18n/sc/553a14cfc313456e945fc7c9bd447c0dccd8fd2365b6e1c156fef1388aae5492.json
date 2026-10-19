@@ -593,5 +593,805 @@
         "en-US": "Mystery in the Sauna - ^4D4DFFComplete^000000",
         "pt-BR": "Mistério na Sauna - ^4D4DFFCompleto^000000",
         "es-ES": "Misterio en la Sauna - ^4D4DFFCompleto^000000"
+    },
+    "l4fnDA": {
+        "en-US": "Use Episode 13 Pass",
+        "pt-BR": "Usar Passe do Episódio 13",
+        "es-ES": "Usar Pase del Episodio 13"
+    },
+    "mIfnDA": {
+        "en-US": "Use Episode 14 Pass",
+        "pt-BR": "Usar Passe do Episódio 14",
+        "es-ES": "Usar Pase del Episodio 14"
+    },
+    "mYfnDA": {
+        "en-US": "Use Episode 15 Pass",
+        "pt-BR": "Usar Passe do Episódio 15",
+        "es-ES": "Usar Pase del Episodio 15"
+    },
+    "mofnDA": {
+        "en-US": "Use Episode 18 Pass",
+        "pt-BR": "Usar Passe do Episódio 18",
+        "es-ES": "Usar Pase del Episodio 18"
+    },
+    "m4fnDA": {
+        "en-US": "[Skipkyrie]\nOh, unfortunately, the Episode you selected requires base level 95 or higher.\nThat's not what you need right now.",
+        "pt-BR": "[Pulalquíria]\nAh, infelizmente, o Episódio que você selecionou requer nível base 95 ou superior.\nNão é o que você precisa agora.",
+        "es-ES": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 95 o superior.\nNo es lo que necesitas ahora."
+    },
+    "nIfnDA": {
+        "en-US": "[Skipkyrie]\n^4D4DFFEpisode 13^000000?\nThe story beyond the dimensional rift?\nLet me take a quick look.",
+        "pt-BR": "[Pulalquíria]\n^4D4DFFEpisódio 13^000000?\nA história além da fenda dimensional?\nDeixe-me dar uma olhada rápida.",
+        "es-ES": "[Pulalquíria]\n¿^4D4DFFEpisodio 13^000000?\n¿La historia más allá de la grieta dimensional?\nDéjame echar un vistazo rápido."
+    },
+    "nYfnDA": {
+        "en-US": "New World Access - Incomplete",
+        "pt-BR": "Acesso ao Novo Mundo - Incompleto",
+        "es-ES": "Acceso al Nuevo Mundo - Incompleto"
+    },
+    "nofnDA": {
+        "en-US": "New World Access - ^4D4DFFComplete^000000",
+        "pt-BR": "Acesso ao Novo Mundo - ^4D4DFFCompleto^000000",
+        "es-ES": "Acceso al Nuevo Mundo - ^4D4DFFCompleto^000000"
+    },
+    "n4fnDA": {
+        "en-US": "New Surroundings - Incomplete",
+        "pt-BR": "Novos Ambientes - Incompleto",
+        "es-ES": "Nuevos Entornos - Incompleto"
+    },
+    "oIfnDA": {
+        "en-US": "New Surroundings - ^4D4DFFComplete^000000",
+        "pt-BR": "Novos Ambientes - ^4D4DFFCompleto^000000",
+        "es-ES": "Nuevos Entornos - ^4D4DFFCompleto^000000"
+    },
+    "oYfnDA": {
+        "en-US": "The Tripartite Union's Feud - Incomplete",
+        "pt-BR": "A Disputa da União Tripartite - Incompleto",
+        "es-ES": "El Conflicto de la Unión Tripartita - Incompleto"
+    },
+    "oofnDA": {
+        "en-US": "The Tripartite Union's Feud - ^4D4DFFComplete^000000",
+        "pt-BR": "A Disputa da União Tripartite - ^4D4DFFCompleto^000000",
+        "es-ES": "El Conflicto de la Unión Tripartita - ^4D4DFFCompleto^000000"
+    },
+    "o4fnDA": {
+        "en-US": "Report to the Continent - ^4D4DFFComplete^000000",
+        "pt-BR": "Reportar ao Continente - ^4D4DFFCompleto^000000",
+        "es-ES": "Informe al Continente - ^4D4DFFCompleto^000000"
+    },
+    "pIfnDA": {
+        "en-US": "Report to the Continent - Incomplete",
+        "pt-BR": "Reportar ao Continente - Incompleto",
+        "es-ES": "Informe al Continente - Incompleto"
+    },
+    "pYfnDA": {
+        "en-US": "Dandelion's Request - Incomplete",
+        "pt-BR": "O Pedido de Dandelion - Incompleto",
+        "es-ES": "La Petición de Dandelion - Incompleto"
+    },
+    "pofnDA": {
+        "en-US": "Dandelion's Request - ^4D4DFFComplete^000000",
+        "pt-BR": "O Pedido de Dandelion - ^4D4DFFCompleto^000000",
+        "es-ES": "La Petición de Dandelion - ^4D4DFFCompleto^000000"
+    },
+    "p4fnDA": {
+        "en-US": "Attitude to the New - Incomplete",
+        "pt-BR": "Nova Atitude - Incompleto",
+        "es-ES": "Actitud ante lo Nuevo - Incompleto"
+    },
+    "qIfnDA": {
+        "en-US": "Attitude to the New - ^4D4DFFComplete^000000",
+        "pt-BR": "Nova Atitude - ^4D4DFFCompleto^000000",
+        "es-ES": "Actitud ante lo Nuevo - ^4D4DFFCompleto^000000"
+    },
+    "qYfnDA": {
+        "en-US": "Earning the Cat Merchants' Trust - Incomplete",
+        "pt-BR": "Conquistando a Confiança dos Mercadores Felinos - Incompleto",
+        "es-ES": "Ganarse la Confianza de los Mercaderes Felinos - Incompleto"
+    },
+    "qofnDA": {
+        "en-US": "Earning the Cat Merchants' Trust - ^4D4DFFComplete^000000",
+        "pt-BR": "Conquistando a Confiança dos Mercadores Felinos - ^4D4DFFCompleto^000000",
+        "es-ES": "Ganarse la Confianza de los Mercaderes Felinos - ^4D4DFFCompleto^000000"
+    },
+    "q4fnDA": {
+        "en-US": "Translator - Incomplete",
+        "pt-BR": "Tradutor - Incompleto",
+        "es-ES": "Traductor - Incompleto"
+    },
+    "rIfnDA": {
+        "en-US": "Translator - ^4D4DFFComplete^000000",
+        "pt-BR": "Tradutor - ^4D4DFFCompleto^000000",
+        "es-ES": "Traductor - ^4D4DFFCompleto^000000"
+    },
+    "rYfnDA": {
+        "en-US": "Messenger - Incomplete",
+        "pt-BR": "Mensageiro - Incompleto",
+        "es-ES": "Mensajero - Incompleto"
+    },
+    "rofnDA": {
+        "en-US": "Messenger - ^4D4DFFComplete^000000",
+        "pt-BR": "Mensageiro - ^4D4DFFCompleto^000000",
+        "es-ES": "Mensajero - ^4D4DFFCompleto^000000"
+    },
+    "r4fnDA": {
+        "en-US": "Dr. Lifeguard's Request - Incomplete",
+        "pt-BR": "A Pesquisa Continua - Incompleto",
+        "es-ES": "Solicitud del Dr. Salvavidas - Incompleto"
+    },
+    "sIfnDA": {
+        "en-US": "Dr. Lifeguard's Request - ^4D4DFFComplete^000000",
+        "pt-BR": "A Pesquisa Continua - ^4D4DFFCompleto^000000",
+        "es-ES": "Solicitud del Dr. Salvavidas - ^4D4DFFCompleto^000000"
+    },
+    "sYfnDA": {
+        "en-US": "Perfume - Incomplete",
+        "pt-BR": "Perfume - Incompleto",
+        "es-ES": "Perfume - Incompleto"
+    },
+    "sofnDA": {
+        "en-US": "Perfume - ^4D4DFFComplete^000000",
+        "pt-BR": "Perfume - ^4D4DFFCompleto^000000",
+        "es-ES": "Perfume - ^4D4DFFCompleto^000000"
+    },
+    "s4fnDA": {
+        "en-US": "To El Dicastes! - Incomplete",
+        "pt-BR": "Para El Dicastes! - Incompleto",
+        "es-ES": "¡Hacia El Dicastes! - Incompleto"
+    },
+    "tIfnDA": {
+        "en-US": "To El Dicastes! - ^4D4DFFComplete^000000",
+        "pt-BR": "Para El Dicastes! - ^4D4DFFCompleto^000000",
+        "es-ES": "¡Hacia El Dicastes! - ^4D4DFFCompleto^000000"
+    },
+    "tYfnDA": {
+        "en-US": "Secret Order from Doha - Incomplete",
+        "pt-BR": "Ordem Secreta de Doha - Incompleto",
+        "es-ES": "Orden Secreta de Doha - Incompleto"
+    },
+    "tofnDA": {
+        "en-US": "Secret Order from Doha - ^4D4DFFComplete^000000",
+        "pt-BR": "Ordem Secreta de Doha - ^4D4DFFCompleto^000000",
+        "es-ES": "Orden Secreta de Doha - ^4D4DFFCompleto^000000"
+    },
+    "t4fnDA": {
+        "en-US": "Request from Frede - Incomplete",
+        "pt-BR": "Pedido de Frede - Incompleto",
+        "es-ES": "La Solicitud de Frede - Incompleto"
+    },
+    "uIfnDA": {
+        "en-US": "Request from Frede - ^4D4DFFComplete^000000",
+        "pt-BR": "Pedido de Frede - ^4D4DFFCompleto^000000",
+        "es-ES": "La Solicitud de Frede - ^4D4DFFCompleto^000000"
+    },
+    "uYfnDA": {
+        "en-US": "[Skipkyrie]\nHmm...\nDon't you have one of these Passes?\n ^i[1000284] ^i[1001753]\nI need one of them to complete the trade. If you don't have one, I can exchange it for you.",
+        "pt-BR": "[Pulalquíria]\nHmm...\nVocê não tem um desses Passes?\n ^i[1000284] ^i[1001753]\nPreciso de um para fazer a troca. Se não tiver, posso trocar para você.",
+        "es-ES": "[Pulalquíria]\nHmm...\n¿No tienes uno de estos Pases?\n ^i[1000284] ^i[1001753]\nNecesito uno para hacer el intercambio. Si no tienes ninguno, puedo canjear uno para ti."
+    },
+    "uofnDA": {
+        "en-US": "... Exploring a new world ...",
+        "pt-BR": "... Explorando um novo mundo ...",
+        "es-ES": "... Explorando un nuevo mundo ..."
+    },
+    "u4fnDA": {
+        "en-US": "... Meeting the fairies ...",
+        "pt-BR": "... Encontrando as fadas ...",
+        "es-ES": "... Conociendo a las hadas ..."
+    },
+    "vIfnDA": {
+        "en-US": "... Looking around ...",
+        "pt-BR": "... Observando os arredores ...",
+        "es-ES": "... Observando los alrededores ..."
+    },
+    "vYfnDA": {
+        "en-US": "... Visiting the jewel city ...",
+        "pt-BR": "... Visitando a cidade das joias ...",
+        "es-ES": "... Visitando la ciudad de las joyas ..."
+    },
+    "vofnDA": {
+        "en-US": "... Earning their trust ...",
+        "pt-BR": "... Conquistando a confiança deles ...",
+        "es-ES": "... Ganándose su confianza ..."
+    },
+    "v4fnDA": {
+        "en-US": "... Handing out souvenirs ...",
+        "pt-BR": "... Distribuindo lembranças ...",
+        "es-ES": "... Entregando recuerdos ..."
+    },
+    "wIfnDA": {
+        "en-US": "Ep14.1: Bifrost",
+        "pt-BR": "Ep14.1: Bifrost",
+        "es-ES": "Ep14.1: Bifrost"
+    },
+    "wYfnDA": {
+        "en-US": "Ep14.2: Eclage",
+        "pt-BR": "Ep14.2: Eclage",
+        "es-ES": "Ep14.2: Eclage"
+    },
+    "wofnDA": {
+        "en-US": "Ep14.3: The Final Battle",
+        "pt-BR": "Ep14.3: Batalha Decisiva",
+        "es-ES": "Ep14.3: La Batalla Final"
+    },
+    "w4fnDA": {
+        "en-US": "[Skipkyrie]\nEvery story has its order.\nYou haven't yet collected the stories of ^4D4DFFEl Dicastes^000000.",
+        "pt-BR": "[Pulalquíria]\nToda história tem sua ordem.\nVocê ainda não reuniu as histórias de ^4D4DFFEl Dicastes^000000.",
+        "es-ES": "[Pulalquíria]\nCada historia tiene su orden.\nTodavía no has reunido las historias de ^4D4DFFEl Dicastes^000000."
+    },
+    "xIfnDA": {
+        "en-US": "[Skipkyrie]\nCome back after you ^4D4DFFcomplete Episode 13^000000.",
+        "pt-BR": "[Pulalquíria]\nVolte depois de ^4D4DFFconcluir o Episódio 13^000000.",
+        "es-ES": "[Pulalquíria]\nRegresa después de ^4D4DFFcompletar el Episodio 13^000000."
+    },
+    "xYfnDA": {
+        "en-US": "[Skipkyrie]\n^4D4DFFEpisode 14.1^000000?\nThe story of Bifrost and Nidhogg?\nLet me take a quick look.",
+        "pt-BR": "[Pulalquíria]\n^4D4DFFEpisódio 14.1^000000?\nA história de Bifrost e Nidhogg?\nDeixe-me dar uma olhada rápida.",
+        "es-ES": "[Pulalquíria]\n¿^4D4DFFEpisodio 14.1^000000?\n¿La historia de Bifrost y Nidhogg?\nDéjame echar un vistazo rápido."
+    },
+    "xofnDA": {
+        "en-US": "Wandering Protector - Incomplete",
+        "pt-BR": "Protetor Errante - Incompleto",
+        "es-ES": "Protector Errante - Incompleto"
+    },
+    "x4fnDA": {
+        "en-US": "Wandering Protector - ^4D4DFFComplete^000000",
+        "pt-BR": "Protetor Errante - ^4D4DFFCompleto^000000",
+        "es-ES": "Protector Errante - ^4D4DFFCompleto^000000"
+    },
+    "yIfnDA": {
+        "en-US": "Theore's Report - Incomplete",
+        "pt-BR": "Relatório de Theore - Incompleto",
+        "es-ES": "El Informe de Theore - Incompleto"
+    },
+    "yYfnDA": {
+        "en-US": "Theore's Report - ^4D4DFFComplete^000000",
+        "pt-BR": "Relatório de Theore - ^4D4DFFCompleto^000000",
+        "es-ES": "El Informe de Theore - ^4D4DFFCompleto^000000"
+    },
+    "yofnDA": {
+        "en-US": "Lope and Euridi - Incomplete",
+        "pt-BR": "Lope e Euridi - Incompleto",
+        "es-ES": "Lope y Euridi - Incompleto"
+    },
+    "y4fnDA": {
+        "en-US": "Lope and Euridi - ^4D4DFFComplete^000000",
+        "pt-BR": "Lope e Euridi - ^4D4DFFCompleto^000000",
+        "es-ES": "Lope y Euridi - ^4D4DFFCompleto^000000"
+    },
+    "zIfnDA": {
+        "en-US": "Mora Bath Research - Incomplete",
+        "pt-BR": "Pesquisa dos Banhos de Mora - Incompleto",
+        "es-ES": "Investigación de los Baños de Mora - Incompleto"
+    },
+    "zYfnDA": {
+        "en-US": "Mora Bath Research - ^4D4DFFComplete^000000",
+        "pt-BR": "Pesquisa dos Banhos de Mora - ^4D4DFFCompleto^000000",
+        "es-ES": "Investigación de los Baños de Mora - ^4D4DFFCompleto^000000"
+    },
+    "zofnDA": {
+        "en-US": "Cheshire's New Job - Incomplete",
+        "pt-BR": "O Novo Trabalho de Cheshire - Incompleto",
+        "es-ES": "El Nuevo Trabajo de Cheshire - Incompleto"
+    },
+    "z4fnDA": {
+        "en-US": "Cheshire's New Job - ^4D4DFFComplete^000000",
+        "pt-BR": "O Novo Trabalho de Cheshire - ^4D4DFFCompleto^000000",
+        "es-ES": "El Nuevo Trabajo de Cheshire - ^4D4DFFCompleto^000000"
+    },
+    "0IfnDA": {
+        "en-US": "[Skipkyrie]\nHmm...\nDon't you have one of these Passes?\n ^i[1000285] ^i[1001755]\nI need one to complete the trade. If you don't have one, I can exchange it for you.",
+        "pt-BR": "[Pulalquíria]\nHmm...\nVocê não tem um desses Passes?\n ^i[1000285] ^i[1001755]\nPreciso de um para fazer a troca. Se não tiver, posso trocar para você.",
+        "es-ES": "[Pulalquíria]\nHmm...\n¿No tienes uno de estos Pases?\n ^i[1000285] ^i[1001755]\nNecesito uno para hacer el intercambio. Si no tienes ninguno, puedo canjear uno para ti."
+    },
+    "0YfnDA": {
+        "en-US": "... Passing through the labyrinth ...",
+        "pt-BR": "... Atravessando o labirinto ...",
+        "es-ES": "... Atravesando el laberinto ..."
+    },
+    "0ofnDA": {
+        "en-US": "[Skipkyrie]\nOh, unfortunately, the Episode you selected requires base level 120 or higher.\nThat's not what you need right now.",
+        "pt-BR": "[Pulalquíria]\nAh, infelizmente, o Episódio que você selecionou requer nível base 120 ou superior.\nNão é o que você precisa agora.",
+        "es-ES": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 120 o superior.\nNo es lo que necesitas ahora."
+    },
+    "04fnDA": {
+        "en-US": "[Skipkyrie]\nEvery story has its order.\nYou haven't yet collected the stories of ^4D4DFFBifrost^000000.",
+        "pt-BR": "[Pulalquíria]\nToda história tem sua ordem.\nVocê ainda não reuniu as histórias de ^4D4DFFBifrost^000000.",
+        "es-ES": "[Pulalquíria]\nCada historia tiene su orden.\nTodavía no has reunido las historias de ^4D4DFFBifrost^000000."
+    },
+    "1IfnDA": {
+        "en-US": "[Skipkyrie]\nCome back after you ^4D4DFFcomplete Episode 14.1^000000.",
+        "pt-BR": "[Pulalquíria]\nVolte depois de ^4D4DFFconcluir o Episódio 14.1^000000.",
+        "es-ES": "[Pulalquíria]\nRegresa después de ^4D4DFFcompletar el Episodio 14.1^000000."
+    },
+    "1YfnDA": {
+        "en-US": "[Skipkyrie]\n^4D4DFFEpisode 14.2^000000?\nThe story of Eclage?\nLet me take a quick look.",
+        "pt-BR": "[Pulalquíria]\n^4D4DFFEpisódio 14.2^000000?\nA história de Eclage?\nDeixe-me dar uma olhada rápida.",
+        "es-ES": "[Pulalquíria]\n¿^4D4DFFEpisodio 14.2^000000?\n¿La historia de Eclage?\nDéjame echar un vistazo rápido."
+    },
+    "1ofnDA": {
+        "en-US": "The Twins and the Magician - Incomplete",
+        "pt-BR": "Os Gêmeos e o Mago - Incompleto",
+        "es-ES": "Los Gemelos y el Mago - Incompleto"
+    },
+    "14fnDA": {
+        "en-US": "The Twins and the Magician - ^4D4DFFComplete^000000",
+        "pt-BR": "Os Gêmeos e o Mago - ^4D4DFFCompleto^000000",
+        "es-ES": "Los Gemelos y el Mago - ^4D4DFFCompleto^000000"
+    },
+    "2IfnDA": {
+        "en-US": "Sweet Dreams - Incomplete",
+        "pt-BR": "Doce Sonho - Incompleto",
+        "es-ES": "Dulces Sueños - Incompleto"
+    },
+    "2YfnDA": {
+        "en-US": "Sweet Dreams - ^4D4DFFComplete^000000",
+        "pt-BR": "Doce Sonho - ^4D4DFFCompleto^000000",
+        "es-ES": "Dulces Sueños - ^4D4DFFCompleto^000000"
+    },
+    "2ofnDA": {
+        "en-US": "Mystery Robbery Incident - Incomplete",
+        "pt-BR": "Roubo Misterioso - Incompleto",
+        "es-ES": "El Misterioso Robo - Incompleto"
+    },
+    "24fnDA": {
+        "en-US": "Mystery Robbery Incident - ^4D4DFFComplete^000000",
+        "pt-BR": "Roubo Misterioso - ^4D4DFFCompleto^000000",
+        "es-ES": "El Misterioso Robo - ^4D4DFFCompleto^000000"
+    },
+    "3IfnDA": {
+        "en-US": "I Wanted to Be Big and Beautiful - Incomplete",
+        "pt-BR": "Queria Ser Grande e Belo - Incompleto",
+        "es-ES": "Quería Ser Grande y Hermoso - Incompleto"
+    },
+    "3YfnDA": {
+        "en-US": "I Wanted to Be Big and Beautiful - ^4D4DFFComplete^000000",
+        "pt-BR": "Queria Ser Grande e Belo - ^4D4DFFCompleto^000000",
+        "es-ES": "Quería Ser Grande y Hermoso - ^4D4DFFCompleto^000000"
+    },
+    "3ofnDA": {
+        "en-US": "Getting Back Professor Worm's Memory - Incomplete",
+        "pt-BR": "Recuperando as Memórias do Professor Fabre - Incompleto",
+        "es-ES": "Recuperación de la Memoria del Profesor Gusano - Incompleto"
+    },
+    "34fnDA": {
+        "en-US": "Getting Back Professor Worm's Memory - ^4D4DFFComplete^000000",
+        "pt-BR": "Recuperando as Memórias do Professor Fabre - ^4D4DFFCompleto^000000",
+        "es-ES": "Recuperación de la Memoria del Profesor Gusano - ^4D4DFFCompleto^000000"
+    },
+    "4IfnDA": {
+        "en-US": "The Laphine That Loves the Land - Incomplete",
+        "pt-BR": "A Laphine que Ama a Terra - Incompleto",
+        "es-ES": "El Laphine que Ama la Tierra - Incompleto"
+    },
+    "4YfnDA": {
+        "en-US": "The Laphine That Loves the Land - ^4D4DFFComplete^000000",
+        "pt-BR": "A Laphine que Ama a Terra - ^4D4DFFCompleto^000000",
+        "es-ES": "El Laphine que Ama la Tierra - ^4D4DFFCompleto^000000"
+    },
+    "4ofnDA": {
+        "en-US": "... Entering Eclage ...",
+        "pt-BR": "... Entrando em Eclage ...",
+        "es-ES": "... Entrando en Eclage ..."
+    },
+    "44fnDA": {
+        "en-US": "... Meeting the fairies ...",
+        "pt-BR": "... Encontrando as fadas ...",
+        "es-ES": "... Conociendo a las hadas ..."
+    },
+    "5IfnDA": {
+        "en-US": "... Handing out souvenirs ...",
+        "pt-BR": "... Distribuindo lembranças ...",
+        "es-ES": "... Entregando recuerdos ..."
+    },
+    "5YfnDA": {
+        "en-US": "[Skipkyrie]\nOh, unfortunately, the Episode you selected requires base level 140 or higher.\nThat's not what you need right now.",
+        "pt-BR": "[Pulalquíria]\nAh, infelizmente, o Episódio que você selecionou requer nível base 140 ou superior.\nNão é o que você precisa agora.",
+        "es-ES": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 140 o superior.\nNo es lo que necesitas ahora."
+    },
+    "5ofnDA": {
+        "en-US": "[Skipkyrie]\nEvery story has its order.\nYou haven't yet collected the stories of ^4D4DFFEclage^000000.",
+        "pt-BR": "[Pulalquíria]\nToda história tem sua ordem.\nVocê ainda não reuniu as histórias de ^4D4DFFEclage^000000.",
+        "es-ES": "[Pulalquíria]\nCada historia tiene su orden.\nTodavía no has reunido las historias de ^4D4DFFEclage^000000."
+    },
+    "54fnDA": {
+        "en-US": "[Skipkyrie]\nCome back after you ^4D4DFFcomplete Episode 14.2^000000.",
+        "pt-BR": "[Pulalquíria]\nVolte depois de ^4D4DFFconcluir o Episódio 14.2^000000.",
+        "es-ES": "[Pulalquíria]\nRegresa después de ^4D4DFFcompletar el Episodio 14.2^000000."
+    },
+    "6IfnDA": {
+        "en-US": "[Skipkyrie]\n^4D4DFFEpisode 14.3^000000?\nThe story of the final battle against Morroc?\nLet me take a quick look.",
+        "pt-BR": "[Pulalquíria]\n^4D4DFFEpisódio 14.3^000000?\nA história da batalha final contra Morroc?\nDeixe-me dar uma olhada rápida.",
+        "es-ES": "[Pulalquíria]\n¿^4D4DFFEpisodio 14.3^000000?\n¿La historia de la batalla final contra Morroc?\nDéjame echar un vistazo rápido."
+    },
+    "6YfnDA": {
+        "en-US": "Burning Land - Incomplete",
+        "pt-BR": "Terra em Chamas - Incompleto",
+        "es-ES": "Tierra en Llamas - Incompleto"
+    },
+    "6ofnDA": {
+        "en-US": "Burning Land - ^4D4DFFComplete^000000",
+        "pt-BR": "Terra em Chamas - ^4D4DFFCompleto^000000",
+        "es-ES": "Tierra en Llamas - ^4D4DFFCompleto^000000"
+    },
+    "64fnDA": {
+        "en-US": "Flaming Basin and Doom Prayers - Incomplete",
+        "pt-BR": "Círculo de Fogo e Adoradores do Infortúnio - Incompleto",
+        "es-ES": "Cuenca Ardiente y Misioneros de la Perdición - Incompleto"
+    },
+    "7IfnDA": {
+        "en-US": "Flaming Basin and Doom Prayers - ^4D4DFFComplete^000000",
+        "pt-BR": "Círculo de Fogo e Adoradores do Infortúnio - ^4D4DFFCompleto^000000",
+        "es-ES": "Cuenca Ardiente y Misioneros de la Perdición - ^4D4DFFCompleto^000000"
+    },
+    "7YfnDA": {
+        "en-US": "Morse's Cave - Incomplete",
+        "pt-BR": "Caverna de Morse - Incompleto",
+        "es-ES": "Cueva de Morse - Incompleto"
+    },
+    "7ofnDA": {
+        "en-US": "Morse's Cave - ^4D4DFFComplete^000000",
+        "pt-BR": "Caverna de Morse - ^4D4DFFCompleto^000000",
+        "es-ES": "Cueva de Morse - ^4D4DFFCompleto^000000"
+    },
+    "74fnDA": {
+        "en-US": "Isle of Bios - Incomplete",
+        "pt-BR": "Ilha de Bios - Incompleto",
+        "es-ES": "Isla de Bios - Incompleto"
+    },
+    "8IfnDA": {
+        "en-US": "Isle of Bios - ^4D4DFFComplete^000000",
+        "pt-BR": "Ilha de Bios - ^4D4DFFCompleto^000000",
+        "es-ES": "Isla de Bios - ^4D4DFFCompleto^000000"
+    },
+    "8YfnDA": {
+        "en-US": "Rampaging Box - Incomplete",
+        "pt-BR": "Caçando as Caixas - Incompleto",
+        "es-ES": "Caja Arrasadora - Incompleto"
+    },
+    "8ofnDA": {
+        "en-US": "Rampaging Box - ^4D4DFFComplete^000000",
+        "pt-BR": "Caçando as Caixas - ^4D4DFFCompleto^000000",
+        "es-ES": "Caja Arrasadora - ^4D4DFFCompleto^000000"
+    },
+    "84fnDA": {
+        "en-US": "Collecting Mana - Incomplete",
+        "pt-BR": "Coletando Cristais - Incompleto",
+        "es-ES": "Recolección de Maná - Incompleto"
+    },
+    "9IfnDA": {
+        "en-US": "Collecting Mana - ^4D4DFFComplete^000000",
+        "pt-BR": "Coletando Cristais - ^4D4DFFCompleto^000000",
+        "es-ES": "Recolección de Maná - ^4D4DFFCompleto^000000"
+    },
+    "9YfnDA": {
+        "en-US": "Demon God Subjugation - Incomplete",
+        "pt-BR": "Caçada Final ao Rei Demônio - Incompleto",
+        "es-ES": "Dominación del Dios Demonio - Incompleto"
+    },
+    "9ofnDA": {
+        "en-US": "Demon God Subjugation - ^4D4DFFComplete^000000",
+        "pt-BR": "Caçada Final ao Rei Demônio - ^4D4DFFCompleto^000000",
+        "es-ES": "Dominación del Dios Demonio - ^4D4DFFCompleto^000000"
+    },
+    "94fnDA": {
+        "en-US": "[Skipkyrie]\n^4D4DFFEpisode 15^000000?\nThe story of Phantasmagorika?\nLet me take a quick look.",
+        "pt-BR": "[Pulalquíria]\n^4D4DFFEpisódio 15^000000?\nA história de Fantasmagórica?\nDeixe-me dar uma olhada rápida.",
+        "es-ES": "[Pulalquíria]\n¿^4D4DFFEpisodio 15^000000?\n¿La historia de Fantasmagórica?\nDéjame echar un vistazo rápido."
+    },
+    "+IfnDA": {
+        "en-US": "Artnard Excavation Team - Incomplete",
+        "pt-BR": "Recrutamento de Escavadores - Incompleto",
+        "es-ES": "Equipo de Excavación de Atnad - Incompleto"
+    },
+    "+YfnDA": {
+        "en-US": "Artnard Excavation Team - ^4D4DFFComplete^000000",
+        "pt-BR": "Recrutamento de Escavadores - ^4D4DFFCompleto^000000",
+        "es-ES": "Equipo de Excavación de Atnad - ^4D4DFFCompleto^000000"
+    },
+    "+ofnDA": {
+        "en-US": "Recovered Memories - Incomplete",
+        "pt-BR": "Memórias Recuperadas - Incompleto",
+        "es-ES": "Recuerdos Recuperados - Incompleto"
+    },
+    "+4fnDA": {
+        "en-US": "Recovered Memories - ^4D4DFFComplete^000000",
+        "pt-BR": "Memórias Recuperadas - ^4D4DFFCompleto^000000",
+        "es-ES": "Recuerdos Recuperados - ^4D4DFFCompleto^000000"
+    },
+    "/IfnDA": {
+        "en-US": "To Phantasmagorika! - Incomplete",
+        "pt-BR": "Investigando o Passado - Incompleto",
+        "es-ES": "¡A Fantasmagórica! - Incompleto"
+    },
+    "/YfnDA": {
+        "en-US": "To Phantasmagorika! - ^4D4DFFComplete^000000",
+        "pt-BR": "Investigando o Passado - ^4D4DFFCompleto^000000",
+        "es-ES": "¡A Fantasmagórica! - ^4D4DFFCompleto^000000"
+    },
+    "/ofnDA": {
+        "en-US": "Vestige - Incomplete",
+        "pt-BR": "Vestígios - Incompleto",
+        "es-ES": "Vestigio - Incompleto"
+    },
+    "/4fnDA": {
+        "en-US": "Vestige - ^4D4DFFComplete^000000",
+        "pt-BR": "Vestígios - ^4D4DFFCompleto^000000",
+        "es-ES": "Vestigio - ^4D4DFFCompleto^000000"
+    },
+    "AIjnDA": {
+        "en-US": "Monthly Brigan - Incomplete",
+        "pt-BR": "Brigan Mensal - Incompleto",
+        "es-ES": "Monthly Brigan - Incompleto"
+    },
+    "AYjnDA": {
+        "en-US": "Monthly Brigan - ^4D4DFFComplete^000000",
+        "pt-BR": "Brigan Mensal - ^4D4DFFCompleto^000000",
+        "es-ES": "Monthly Brigan - ^4D4DFFCompleto^000000"
+    },
+    "AojnDA": {
+        "en-US": "[Skipkyrie]\nHmm...\nDon't you have one of these Passes?\n ^i[1000286] ^i[1001756]\nI need one to complete the trade. If you don't have one, I can exchange it for you.",
+        "pt-BR": "[Pulalquíria]\nHmm...\nVocê não tem um desses Passes?\n ^i[1000286] ^i[1001756]\nPreciso de um para fazer a troca. Se não tiver, posso trocar para você.",
+        "es-ES": "[Pulalquíria]\nHmm...\n¿No tienes uno de estos Pases?\n ^i[1000286] ^i[1001756]\nNecesito uno para hacer el intercambio. Si no tienes ninguno, puedo canjear uno para ti."
+    },
+    "A4jnDA": {
+        "en-US": "... Gathering records of the past ...",
+        "pt-BR": "... Reunindo registros do passado ...",
+        "es-ES": "... Reuniendo registros del pasado ..."
+    },
+    "BIjnDA": {
+        "en-US": "...Handling the accident ...",
+        "pt-BR": "... Esclarecendo o acidente ...",
+        "es-ES": "... Resolviendo el accidente ..."
+    },
+    "BYjnDA": {
+        "en-US": "... Organizing the smaller stories ...",
+        "pt-BR": "... Organizando as histórias menores ...",
+        "es-ES": "... Organizando las historias menores ..."
+    },
+    "BojnDA": {
+        "en-US": "[Skipkyrie]\nHmm...\nDon't you have one of these Passes?\n ^i[1000283]  ^i[1000282]  ^i[1001260]\nI need one to complete the trade. If you don't have one, I can exchange it for you.",
+        "pt-BR": "[Pulalquíria]\nHmm...\nVocê não tem um desses Passes?\n ^i[1000283]  ^i[1000282]  ^i[1001260]\nPreciso de um para fazer a troca. Se não tiver, posso trocar para você.",
+        "es-ES": "[Pulalquíria]\nHmm...\n¿No tienes uno de estos Pases?\n ^i[1000283]  ^i[1000282]  ^i[1001260]\nNecesito uno para hacer el intercambio. Si no tienes ninguno, puedo canjear uno para ti."
+    },
+    "B4jnDA": {
+        "en-US": "[Skipkyrie]\nHmm...\nDon't you have one of these Passes?\n ^i[1000287]  ^i[1001261]\nI need one to complete the trade. If you don't have one, I can exchange it for you.",
+        "pt-BR": "[Pulalquíria]\nHmm...\nVocê não tem um desses Passes?\n ^i[1000287]  ^i[1001261]\nPreciso de um para fazer a troca. Se não tiver, posso trocar para você.",
+        "es-ES": "[Pulalquíria]\nHmm...\n¿No tienes uno de estos Pases?\n ^i[1000287]  ^i[1001261]\nNecesito uno para hacer el intercambio. Si no tienes ninguno, puedo canjear uno para ti."
+    },
+    "CIjnDA": {
+        "en-US": "[Skipkyrie]\nOh, unfortunately, the Episode you selected requires base level 170 or higher.\nThat's not what you need right now.",
+        "pt-BR": "[Pulalquíria]\nAh, infelizmente, o Episódio que você selecionou requer nível base 170 ou superior.\nNão é o que você precisa agora.",
+        "es-ES": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 170 o superior.\nNo es lo que necesitas ahora."
+    },
+    "CYjnDA": {
+        "en-US": "[Skipkyrie]\nEvery story has its order.\nYou haven't yet collected the stories of ^4D4DFFVarmundt's Mansion^000000.",
+        "pt-BR": "[Pulalquíria]\nToda história tem sua ordem.\nVocê ainda não reuniu as histórias da ^4D4DFFMansão de Varmundt^000000.",
+        "es-ES": "[Pulalquíria]\nCada historia tiene su orden.\nTodavía no has reunido las historias de ^4D4DFFMansión de Varmundt^000000."
+    },
+    "CojnDA": {
+        "en-US": "[Skipkyrie]\nCome back after you ^4D4DFFcomplete Episode 17.2^000000.",
+        "pt-BR": "[Pulalquíria]\nVolte depois de ^4D4DFFconcluir o Episódio 17.2^000000.",
+        "es-ES": "[Pulalquíria]\nRegresa después de ^4D4DFFcompletar el Episodio 17.2^000000."
+    },
+    "C4jnDA": {
+        "en-US": "[Skipkyrie]\n^4D4DFFEpisode 18^000000?\nThe story of Gray Wolf Village?\nLet me take a quick look.",
+        "pt-BR": "[Pulalquíria]\n^4D4DFFEpisódio 18^000000?\nA história da Vila dos Lobos Cinzentos?\nDeixe-me dar uma olhada rápida.",
+        "es-ES": "[Pulalquíria]\n¿^4D4DFFEpisodio 18^000000?\n¿La historia del Pueblo del Lobo Gris?\nDéjame echar un vistazo rápido."
+    },
+    "DIjnDA": {
+        "en-US": "To Arunafeltz: Suspicious Movement at the Temple - Incomplete",
+        "pt-BR": "Rumo a Arunafeltz: Movimentação Suspeita no Templo - Incompleto",
+        "es-ES": "Hacia Arunafeltz: Movimiento Sospechoso en el Templo - Incompleto"
+    },
+    "DYjnDA": {
+        "en-US": "To Arunafeltz: Suspicious Movement at the Temple - ^4D4DFFComplete^000000",
+        "pt-BR": "Rumo a Arunafeltz: Movimentação Suspeita no Templo - ^4D4DFFCompleto^000000",
+        "es-ES": "Hacia Arunafeltz: Movimiento Sospechoso en el Templo - ^4D4DFFCompleto^000000"
+    },
+    "DojnDA": {
+        "en-US": "Niren's Request - Incomplete",
+        "pt-BR": "O Pedido de Niren - Incompleto",
+        "es-ES": "La Petición de Niren - Incompleto"
+    },
+    "D4jnDA": {
+        "en-US": "Niren's Request - ^4D4DFFComplete^000000",
+        "pt-BR": "O Pedido de Niren - ^4D4DFFCompleto^000000",
+        "es-ES": "La Petición de Niren - ^4D4DFFCompleto^000000"
+    },
+    "EIjnDA": {
+        "en-US": "Gray Children - Incomplete",
+        "pt-BR": "Filhos Cinzentos - Incompleto",
+        "es-ES": "Hijos Grises - Incompleto"
+    },
+    "EYjnDA": {
+        "en-US": "Gray Children - ^4D4DFFComplete^000000",
+        "pt-BR": "Filhos Cinzentos - ^4D4DFFCompleto^000000",
+        "es-ES": "Hijos Grises - ^4D4DFFCompleto^000000"
+    },
+    "EojnDA": {
+        "en-US": "Oz Labyrinth and the Peddler - Incomplete",
+        "pt-BR": "Labirinto de Oz e o Mercador Ambulante - Incompleto",
+        "es-ES": "Laberinto de Oz y el Comerciante Ambulante - Incompleto"
+    },
+    "E4jnDA": {
+        "en-US": "Oz Labyrinth and the Peddler - ^4D4DFFComplete^000000",
+        "pt-BR": "Labirinto de Oz e o Mercador Ambulante - ^4D4DFFCompleto^000000",
+        "es-ES": "Laberinto de Oz y el Comerciante Ambulante - ^4D4DFFCompleto^000000"
+    },
+    "FIjnDA": {
+        "en-US": "Our Daily Bread - Incomplete",
+        "pt-BR": "Pão Nosso de Cada Dia - Incompleto",
+        "es-ES": "Nuestro Pan de Cada Día - Incompleto"
+    },
+    "FYjnDA": {
+        "en-US": "Our Daily Bread - ^4D4DFFComplete^000000",
+        "pt-BR": "Pão Nosso de Cada Dia - ^4D4DFFCompleto^000000",
+        "es-ES": "Nuestro Pan de Cada Día - ^4D4DFFCompleto^000000"
+    },
+    "FojnDA": {
+        "en-US": "Purification Relic - Incomplete",
+        "pt-BR": "Relíquia de Purificação - Incompleto",
+        "es-ES": "Reliquia de Purificación - Incompleto"
+    },
+    "F4jnDA": {
+        "en-US": "Purification Relic - ^4D4DFFComplete^000000",
+        "pt-BR": "Relíquia de Purificação - ^4D4DFFCompleto^000000",
+        "es-ES": "Reliquia de Purificación - ^4D4DFFCompleto^000000"
+    },
+    "GIjnDA": {
+        "en-US": "A Belated Migration - Incomplete",
+        "pt-BR": "Migração Tardia - Incompleto",
+        "es-ES": "Migración Tardía - Incompleto"
+    },
+    "GYjnDA": {
+        "en-US": "A Belated Migration - ^4D4DFFComplete^000000",
+        "pt-BR": "Migração Tardia - ^4D4DFFCompleto^000000",
+        "es-ES": "Migración Tardía - ^4D4DFFCompleto^000000"
+    },
+    "GojnDA": {
+        "en-US": "I Can't Sleep - Incomplete",
+        "pt-BR": "Não Consigo Dormir - Incompleto",
+        "es-ES": "No Puedo Dormir - Incompleto"
+    },
+    "G4jnDA": {
+        "en-US": "I Can't Sleep - ^4D4DFFComplete^000000",
+        "pt-BR": "Não Consigo Dormir - ^4D4DFFCompleto^000000",
+        "es-ES": "No Puedo Dormir - ^4D4DFFCompleto^000000"
+    },
+    "HIjnDA": {
+        "en-US": "This Is Not the Place - Incomplete",
+        "pt-BR": "Aqui Não É Aquele Lugar - Incompleto",
+        "es-ES": "Aquí No Es Ese Lugar - Incompleto"
+    },
+    "HYjnDA": {
+        "en-US": "This Is Not the Place - ^4D4DFFComplete^000000",
+        "pt-BR": "Aqui Não É Aquele Lugar - ^4D4DFFCompleto^000000",
+        "es-ES": "Aquí No Es Ese Lugar - ^4D4DFFCompleto^000000"
+    },
+    "HojnDA": {
+        "en-US": "Where Is My Home - Incomplete",
+        "pt-BR": "Onde Fica Minha Casa - Incompleto",
+        "es-ES": "¿Dónde Está Mi Hogar? - Incompleto"
+    },
+    "H4jnDA": {
+        "en-US": "Where Is My Home - ^4D4DFFComplete^000000",
+        "pt-BR": "Onde Fica Minha Casa - ^4D4DFFCompleto^000000",
+        "es-ES": "¿Dónde Está Mi Hogar? - ^4D4DFFCompleto^000000"
+    },
+    "IIjnDA": {
+        "en-US": "There Is No Bad Beast in the World - Incomplete",
+        "pt-BR": "Não Existem Feras Más no Mundo - Incompleto",
+        "es-ES": "No Hay Bestias Malas en el Mundo - Incompleto"
+    },
+    "IYjnDA": {
+        "en-US": "There Is No Bad Beast in the World - ^4D4DFFComplete^000000",
+        "pt-BR": "Não Existem Feras Más no Mundo - ^4D4DFFCompleto^000000",
+        "es-ES": "No Hay Bestias Malas en el Mundo - ^4D4DFFCompleto^000000"
+    },
+    "IojnDA": {
+        "en-US": "A Future Candidate for Chief Administrator - Incomplete",
+        "pt-BR": "Futuro Candidato a Administrador - Incompleto",
+        "es-ES": "Futuro Candidato a Administrador - Incompleto"
+    },
+    "I4jnDA": {
+        "en-US": "A Future Candidate for Chief Administrator - ^4D4DFFComplete^000000",
+        "pt-BR": "Futuro Candidato a Administrador - ^4D4DFFCompleto^000000",
+        "es-ES": "Futuro Candidato a Administrador - ^4D4DFFCompleto^000000"
+    },
+    "JIjnDA": {
+        "en-US": "Council of the Gray Wolf Forest - Incomplete",
+        "pt-BR": "Assembleia da Floresta do Lobo Cinzento - Incompleto",
+        "es-ES": "Asamblea del Bosque del Lobo Gris - Incompleto"
+    },
+    "JYjnDA": {
+        "en-US": "Council of the Gray Wolf Forest - ^4D4DFFComplete^000000",
+        "pt-BR": "Assembleia da Floresta do Lobo Cinzento - ^4D4DFFCompleto^000000",
+        "es-ES": "Asamblea del Bosque del Lobo Gris - ^4D4DFFCompleto^000000"
+    },
+    "JojnDA": {
+        "en-US": "A Wolf in Sheep's Clothing - Incomplete",
+        "pt-BR": "Lobo em Pele de Cordeiro - Incompleto",
+        "es-ES": "Lobo con Piel de Cordero - Incompleto"
+    },
+    "J4jnDA": {
+        "en-US": "A Wolf in Sheep's Clothing - ^4D4DFFComplete^000000",
+        "pt-BR": "Lobo em Pele de Cordeiro - ^4D4DFFCompleto^000000",
+        "es-ES": "Lobo con Piel de Cordero - ^4D4DFFCompleto^000000"
+    },
+    "KIjnDA": {
+        "en-US": "Sacred Deception - Incomplete",
+        "pt-BR": "Engano Sagrado - Incompleto",
+        "es-ES": "Engaño Sagrado - Incompleto"
+    },
+    "KYjnDA": {
+        "en-US": "Sacred Deception - ^4D4DFFComplete^000000",
+        "pt-BR": "Engano Sagrado - ^4D4DFFCompleto^000000",
+        "es-ES": "Engaño Sagrado - ^4D4DFFCompleto^000000"
+    },
+    "KojnDA": {
+        "en-US": "[Skipkyrie]\nHmm...\nDon't you have one of these Passes?\n ^i[1000288]  ^i[1001262]\nI need one to complete the trade. If you don't have one, I can exchange it for you.",
+        "pt-BR": "[Pulalquíria]\nHmm...\nVocê não tem um desses Passes?\n ^i[1000288]  ^i[1001262]\nPreciso de um para fazer a troca. Se não tiver, posso trocar para você.",
+        "es-ES": "[Pulalquíria]\nHmm...\n¿No tienes uno de estos Pases?\n ^i[1000288]  ^i[1001262]\nNecesito uno para hacer el intercambio. Si no tienes ninguno, puedo canjear uno para ti."
+    },
+    "K4jnDA": {
+        "en-US": "[Skipkyrie]\nAre you carrying Mini Elly on your head?\nYou should put it in your inventory.",
+        "pt-BR": "[Pulalquíria]\nVocê está com Mini Elly na cabeça?\nÉ melhor guardá-la no inventário.",
+        "es-ES": "[Pulalquíria]\n¿Llevas a Mini Elly en la cabeza?\nSerá mejor que la guardes en el inventario."
+    },
+    "LIjnDA": {
+        "en-US": "... Off to Arunafeltz ...",
+        "pt-BR": "... Indo para Arunafeltz ...",
+        "es-ES": "... Rumbo a Arunafeltz ..."
+    },
+    "LYjnDA": {
+        "en-US": "... Passing through Oz Labyrinth ...",
+        "pt-BR": "... Atravessando o Labirinto de Oz ...",
+        "es-ES": "... Atravesando el Laberinto de Oz ..."
+    },
+    "LojnDA": {
+        "en-US": "... Helping Gray Wolf Village ...",
+        "pt-BR": "... Ajudando a Aldeia do Lobo Cinzento ...",
+        "es-ES": "... Ayudando al Pueblo del Lobo Gris ..."
+    },
+    "L4jnDA": {
+        "en-US": "... Attending the council ...",
+        "pt-BR": "... Participando da assembleia ...",
+        "es-ES": "... Asistiendo a la asamblea ..."
+    },
+    "MIjnDA": {
+        "en-US": "... Discovering the truth ...!",
+        "pt-BR": "... Descobrindo a verdade ...!",
+        "es-ES": "... Descubriendo la verdad ...!"
+    },
+    "MYjnDA": {
+        "en-US": "[Skipkyrie]\nYou've completed the main quests of the latest Episode 21!\nI can offer you Episode Passes at a huge discount.\nTake a look!\n^i[1001753] ^i[1001755] ^i[1001756] ^i[1001260] ^i[1001261] ^i[1001262]",
+        "pt-BR": "[Pulalquíria]\nVocê concluiu as missões principais do Episódio 21, o mais recente!\nPosso oferecer Passes de Episódio com um grande desconto.\nDê uma olhada!\n^i[1001753] ^i[1001755] ^i[1001756] ^i[1001260] ^i[1001261] ^i[1001262]",
+        "es-ES": "[Pulalquíria]\n¡Completaste las misiones principales del Episodio 21, el más reciente!\nPuedo ofrecerte Pases de Episodio con un gran descuento.\n¡Échales un vistazo!\n^i[1001753] ^i[1001755] ^i[1001756] ^i[1001260] ^i[1001261] ^i[1001262]"
+    },
+    "MojnDA": {
+        "en-US": "^FF0000[Warning]^000000\n^FF0000This shop exchanges items for Nyangvine Fruit.^000000\n^FF0000Items obtained here are not eligible for cancellation or refund, and cannot be exchanged back for Nyangvine Fruit.^000000",
+        "pt-BR": "^FF0000[Aviso]^000000\n^FF0000Esta loja troca itens por MiauMiau.^000000\n^FF0000Os itens obtidos aqui não podem ser devolvidos nem trocados novamente por MiauMiau.^000000",
+        "es-ES": "^FF0000[Aviso]^000000\n^FF0000Esta tienda intercambia objetos por Miaufruto.^000000\n^FF0000Los objetos obtenidos aquí no admiten cancelación ni devolución, y no pueden volver a cambiarse por Miaufruto.^000000"
+    },
+    "M4jnDA": {
+        "en-US": "Open the shop.",
+        "pt-BR": "Abrir a loja.",
+        "es-ES": "Abrir la tienda."
+    },
+    "NIjnDA": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "NYjnDA": {
+        "en-US": "[Skipkyrie]\nAs you wish.\nBy the way, I can open a special exchange shop for adventurers who have completed the main quests of the latest Episode.\nIf you're curious, come back after completing the latest Episode.",
+        "pt-BR": "[Pulalquíria]\nComo quiser.\nAliás, posso abrir uma loja de trocas especial para aventureiros que concluíram as missões principais do Episódio mais recente.\nSe tiver interesse, volte depois de concluí-lo.",
+        "es-ES": "[Pulalquíria]\nComo quieras.\nPor cierto, puedo abrir una tienda de intercambio especial para los aventureros que hayan completado las misiones principales del Episodio más reciente.\nSi te interesa, vuelve después de completarlo."
+    },
+    "NojnDA": {
+        "en-US": "[Skipkyrie]\nYou've completed the main quests of the latest Episode 18!\nI can offer you Episode Passes at a huge discount.\nTake a look!\n ^i[1001753] ^i[1001755] ^i[1001756] ^i[1001260] ^i[1001261] ^i[1001262]",
+        "pt-BR": "[Pulalquíria]\nVocê concluiu as missões principais do Episódio 18, o mais recente!\nPosso oferecer Passes de Episódio com um grande desconto.\nDê uma olhada!\n ^i[1001753] ^i[1001755] ^i[1001756] ^i[1001260] ^i[1001261] ^i[1001262]",
+        "es-ES": "[Pulalquíria]\n¡Completaste las misiones principales del Episodio 18, el más reciente!\nPuedo ofrecerte Pases de Episodio con un gran descuento.\n¡Échales un vistazo!\n ^i[1001753] ^i[1001755] ^i[1001756] ^i[1001260] ^i[1001261] ^i[1001262]"
     }
 }

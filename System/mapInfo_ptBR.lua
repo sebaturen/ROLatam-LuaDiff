@@ -321,6 +321,24 @@ mapTbl_string = {
 			mainTitle = "Espaço Infinito"
 		}
 	},
+	["1@iwp.rsw"] = {
+		displayName = "Colina de Escamas Congeladas",
+		signName = {
+			mainTitle = "Colina Congelada"
+		}
+	},
+	["1@jorchs.rsw"] = {
+		displayName = "Ninho de Cobras",
+		signName = {
+			mainTitle = "Ninho de Cobras"
+		}
+	},
+	["1@jorlab.rsw"] = {
+		displayName = "Laboratório de Bagot",
+		signName = {
+			mainTitle = "Laboratório de Bagot"
+		}
+	},
 	["1@jtb.rsw"] = {
 		displayName = "Sonho Sombio",
 		signName = {
@@ -590,6 +608,13 @@ mapTbl_string = {
 			subTitle = "Livros Fantásticos - Sonic"
 		}
 	},
+	["1@whl.rsw"] = {
+		displayName = "Dentro do Aeroplano (1)",
+		signName = {
+			mainTitle = "Dentro do Aeroplano",
+			subTitle = "Aeroplano de Varmunt"
+		}
+	},
 	["1@xm_d.rsw"] = {
 		displayName = "Fábrica do Terror",
 		signName = {
@@ -833,6 +858,10 @@ mapTbl_string = {
 			mainTitle = "Caverna Subterrânea do Lago do Abismo (4)",
 			subTitle = "Lago do Abismo"
 		}
+	},
+	["air_if.rsw"] = {
+		displayName = "Dentro do Aeroplano",
+		signName = {mainTitle = "Aeroplano"}
 	},
 	["airplane.rsw"] = {
 		displayName = "Aeroplano",
@@ -2441,6 +2470,12 @@ mapTbl_string = {
 	["hunter_3-1.rsw"] = {
 		displayName = "Guilda dos Caçadores"
 	},
+	["icas_in.rsw"] = {
+		displayName = "Interior do Castelo de Gelo",
+		signName = {
+			mainTitle = "Interior do Castelo de Gelo"
+		}
+	},
 	["ice_d03_i.rsw"] = {
 		displayName = "Ilusão do Gelo",
 		signName = {
@@ -2470,6 +2505,13 @@ mapTbl_string = {
 		displayName = "Caverna de Gelo (4)",
 		signName = {
 			mainTitle = "Espaço Selado"
+		}
+	},
+	["icecastle.rsw"] = {
+		displayName = "Castelo de Gelo de Isgard",
+		signName = {
+			mainTitle = "Castelo de Gelo",
+			subTitle = "Isgard"
 		}
 	},
 	["in_hunter.rsw"] = {
@@ -2865,6 +2907,73 @@ mapTbl_string = {
 	},
 	["job_wiz.rsw"] = {
 		displayName = "Teste dos Bruxos"
+	},
+	["jor_ab01.rsw"] = {
+		displayName = "Poço Abandonado 1º Andar",
+		signName = {
+			mainTitle = "Poço Abandonado 1º Andar"
+		}
+	},
+	["jor_ab02.rsw"] = {
+		displayName = "Poço Abandonado 2º Andar",
+		signName = {
+			mainTitle = "Poço Abandonado 2º Andar"
+		}
+	},
+	["jor_back1.rsw"] = {
+		displayName = "Colina de Escamas Congeladas",
+		signName = {
+			mainTitle = "Colina de Escamas Congeladas"
+		}
+	},
+	["jor_back2.rsw"] = {
+		displayName = "Planície de Escamas Congeladas",
+		signName = {
+			mainTitle = "Planície de Escamas Congeladas"
+		}
+	},
+	["jor_back3.rsw"] = {
+		displayName = "Geleira de Escamas Congeladas",
+		signName = {
+			mainTitle = "Geleira de Escamas Congeladas"
+		}
+	},
+	["jor_dun01.rsw"] = {
+		displayName = "Calor do Deus Serpente 1º Andar",
+		signName = {
+			mainTitle = "Calor do Deus Serpente 1º Andar"
+		}
+	},
+	["jor_dun02.rsw"] = {
+		displayName = "Calor do Deus Serpente 2º Andar",
+		signName = {
+			mainTitle = "Calor do Deus Serpente 2º Andar"
+		}
+	},
+	["jor_dun03.rsw"] = {
+		displayName = "Interior do Ninho da Serpente",
+		signName = {
+			mainTitle = "Interior do Ninho da Serpente"
+		}
+	},
+	["jor_nest.rsw"] = {
+		displayName = "Ninho da Serpente",
+		signName = {
+			mainTitle = "Ninho da Serpente",
+			subTitle = "Esconderijo dos Regan"
+		}
+	},
+	["jor_que.rsw"] = {
+		displayName = "Calor Abandonado do Deus Serpente",
+		signName = {
+			mainTitle = "Calor Abandonado do Deus Serpente"
+		}
+	},
+	["jor_tail.rsw"] = {
+		displayName = "Cauda Congelada",
+		signName = {
+			mainTitle = "Cauda Congelada"
+		}
 	},
 	["jupe_area1.rsw"] = {
 		displayName = "Zona Restrita de Juperos",

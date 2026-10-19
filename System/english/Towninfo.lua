@@ -1778,6 +1778,26 @@ mapNPCInfoTable = {
 			Y = 299,
 			TYPE = 0
 		}
+	},
+	icecastle = {
+		{
+			name = "Vellgunde Laboratory",
+			X = 186,
+			Y = 222,
+			TYPE = 0
+		},
+		{
+			name = "Guide",
+			X = 59,
+			Y = 123,
+			TYPE = 4
+		},
+		{
+			name = "Feather Inn",
+			X = 64,
+			Y = 224,
+			TYPE = 5
+		}
 	}
 }
 function main()

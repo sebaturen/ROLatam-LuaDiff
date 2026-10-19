@@ -1,0 +1,37 @@
+{
+    "wNABDg": {
+        "en-US": "Butterfly Merchant",
+        "pt-BR": "Mercador de Asas",
+        "es-ES": "Mercader de alas"
+    },
+    "wdABDg": {
+        "en-US": "[Butterfly Merchant]\n... ... ... ... ...\nDo you need a wing to travel to the Military Base?",
+        "pt-BR": "[Mercador de Asas]\n... ... ... ... ...\nPrecisa de uma Asa de Teletransporte para a Base Militar?",
+        "es-ES": "[Mercader de alas]\n... ... ... ... ...\n¿Necesita un Ala de teletransporte a la Base Militar?"
+    },
+    "wtABDg": {
+        "en-US": "[Butterfly Merchant]\nOh, good to see you.\nI'm selling wings to travel to Cor in the Border Area. Interested?",
+        "pt-BR": "[Mercador de Asas]\nOra, que bom vê-lo.\nEstou vendendo Asas de Teletransporte para Cor, a Região Fronteiriça. Tem interesse?",
+        "es-ES": "[Mercader de alas]\nAh, qué gusto verlo.\nVendo Alas de teletransporte a Cor, la Zona Fronteriza. ¿Le interesa?"
+    },
+    "w9ABDg": {
+        "en-US": "[Butterfly Merchant]\nI'm sorry. You need to register as a customer before you can purchase butterflies.",
+        "pt-BR": "[Mercador de Asas]\nDesculpe. Para comprar asas, é necessário se registrar como cliente.",
+        "es-ES": "[Mercader de alas]\nLo siento. Para comprar alas, debe estar registrado como cliente."
+    },
+    "xNABDg": {
+        "en-US": "[Butterfly Merchant]\nWelcome.\nDo you need a wing to travel to Varmundt's Mansion?",
+        "pt-BR": "[Mercador de Asas]\nSeja bem-vindo.\nPrecisa de uma Asa de Teletransporte para a Mansão de Varmundt?",
+        "es-ES": "[Mercader de alas]\nBienvenido. Es un placer recibirlo.\n¿Necesita un Ala de teletransporte a la Mansión de Varmundt?"
+    },
+    "xdABDg": {
+        "en-US": "[Butterfly Merchant]\nI'm sorry, but I only sell butterflies to those qualified enough to attend the ^4D4DFFGeneral Meeting^000000.",
+        "pt-BR": "[Mercador de Asas]\nDesculpe, mas só vendo asas para quem tem qualificação suficiente para participar da ^4D4DFFGrande Conferência^000000.",
+        "es-ES": "[Mercader de alas]\nLo siento, pero solo vendo alas a quienes tengan el nivel suficiente para asistir a la ^4D4DFFGran Conferencia^000000."
+    },
+    "xtABDg": {
+        "en-US": "[Butterfly Merchant]\nHello.\nI'm selling wings to travel to Gray Wolf Village.",
+        "pt-BR": "[Mercador de Asas]\nOlá.\nEstou vendendo Asas de Teletransporte para a Vila dos Lobos Cinzentos.",
+        "es-ES": "[Mercader de alas]\n¿Cómo está?\nVendo Alas de teletransporte a la Aldea de los Lobos Grises."
+    }
+}

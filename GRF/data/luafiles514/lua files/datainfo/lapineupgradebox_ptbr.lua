@@ -500,6 +500,12 @@ tblLapineUpgradeBox_string = {
 		},
 		Vampire_Box_IL = {
 			NeedSource_String = "Ilusão do Vampiro"
+		},
+		Snow_F_Refine = {
+			NeedSource_String = "Snow Flower Armor"
+		},
+		Glacier_W_Refine = {
+			NeedSource_String = "Glacier Weapon"
 		}
 	}
 }

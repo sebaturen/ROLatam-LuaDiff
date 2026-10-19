@@ -97,7 +97,7 @@
     "Ux+yDA": {
         "en-US": "Middle",
         "pt-BR": "Meio",
-        "es-ES": "Medio"
+        "es-ES": "Centro"
     },
     "VB+yDA": {
         "en-US": "Lower",
@@ -161,13 +161,13 @@
     },
     "YB+yDA": {
         "en-US": "[Aztek]\nThe Slot 4 Enchantment upgrade has already reached the maximum. No further upgrades can be added.",
-        "pt-BR": "[Aztek]\nO aprimoramento (melhoria) do Encantamento do Espaço 4 já atingiu o máximo. Não é possível adicionar mais nenhum.",
-        "es-ES": "[Aztek]\nLa mejora del Encantamiento de la Ranura 4 ya alcanzó el máximo. No se puede añadir ninguna mejora más."
+        "pt-BR": "[Aztek]\nO aprimoramento (melhoria) do Encantamento do Slot 4 já atingiu o máximo. Não é possível adicionar mais nenhum.",
+        "es-ES": "[Aztek]\nLa mejora del Encantamiento del Slot 4 ya alcanzó el máximo. No se puede añadir ninguna mejora más."
     },
     "YR+yDA": {
         "en-US": "[Aztek]\nSomething is wrong with the Slot 4 Enchantment.\nPlease contact the team in charge.",
-        "pt-BR": "[Aztek]\nHá algo estranho com o Encantamento Slot 4\nPor favor, contate a equipe responsável",
-        "es-ES": "[Aztek]\nHay algo extraño con el Encantamiento de la Ranura 4.\nPor favor, contacta al equipo responsable."
+        "pt-BR": "[Aztek]\nHá algo estranho com o Encantamento Slot 4.\nPor favor, contate a equipe responsável.",
+        "es-ES": "[Aztek]\nHay algo extraño con el Encantamiento de la Slot 4.\nPor favor, contacta al equipo responsable."
     },
     "Yh+yDA": {
         "en-US": "enchantment",
@@ -180,9 +180,9 @@
         "es-ES": "Skill_Delay1"
     },
     "ZB+yDA": {
-        "en-US": "[Aztek]\nProceeding with the Slot 4 Enchantment.\nCurrent status: {0}\nIf successful, it will be upgraded to the next level  {1}\nIf it fails, it will drop by 1 level",
-        "pt-BR": "[Aztek]\nProsseguindo com o Encantamento do Espaço 4\nStatus atual: {0}\nSe bem-sucedido, será aprimorado para o próximo nível  {1}\nSe falhar, cairá 1 nível",
-        "es-ES": "[Aztek]\nProcediendo con el Encantamiento de la Ranura 4.\nEstado actual: {0}\nSi tiene éxito, se mejorará al siguiente nivel  {1}\nSi falla, bajará 1 nivel"
+        "en-US": "[Aztek]\nProceeding with the Slot 4 Enchantment.\nCurrent status: {0}\nIf successful, it will be upgraded to the next level: {1} \nIf it fails, it will drop by 1 level.",
+        "pt-BR": "[Aztek]\nProsseguindo com o Encantamento do Slot 4\nStatus atual: {0}\nSe bem-sucedido, será aprimorado para o próximo nível: {1}\nSe falhar, cairá 1 nível.",
+        "es-ES": "[Aztek]\nProcediendo con el Encantamiento del Slot 4.\nEstado actual: {0}\nSi tiene éxito, se mejorará al siguiente nivel: {1} \nSi falla, bajará 1 nivel."
     },
     "ZR+yDA": {
         "en-US": "[Aztek]\nMaterials used:\n{0}{1}\n{2}{3}\n{4}{5}\nzeny: {6}\nCan I proceed now?",
@@ -1407,10 +1407,10 @@
     "WSCyDA": {
         "en-US": "Tower of Geffen",
         "pt-BR": "Túmulo do Monarca",
-        "es-ES": "Tumba del Monarca"
+        "es-ES": "Torre de Geffen"
     },
     "WiCyDA": {
-        "en-US": "Pharos Island",
+        "en-US": "Infinity Space",
         "pt-BR": "Espaço Infinito",
         "es-ES": "Espacio Infinito"
     },
@@ -1477,10 +1477,10 @@
     "ZyCyDA": {
         "en-US": "Tower of Geffen^000000",
         "pt-BR": "Túmulo do Monarca^000000",
-        "es-ES": "Tumba del Monarca^000000"
+        "es-ES": "Torre de Geffen^000000"
     },
     "aCCyDA": {
-        "en-US": "Pharos Island^000000",
+        "en-US": "Infinity Space^000000",
         "pt-BR": "Espaço Infinito^000000",
         "es-ES": "Espacio Infinito^000000"
     },
@@ -1582,12 +1582,12 @@
     "fCCyDA": {
         "en-US": "Airship Crash",
         "pt-BR": "Queda do Aeroplano",
-        "es-ES": "Accidente del Aeroplano"
+        "es-ES": "Caída de la Aeronave"
     },
     "fSCyDA": {
         "en-US": "Tomb of Remorse",
         "pt-BR": "Mausoléu das Mágoas",
-        "es-ES": "Tumba del Arrepentimiento"
+        "es-ES": "Mausoleo Fantasma"
     },
     "fiCyDA": {
         "en-US": "Geffen Night Arena",
@@ -1622,12 +1622,12 @@
     "hCCyDA": {
         "en-US": "Airship Crash^000000",
         "pt-BR": "Queda do Aeroplano^000000",
-        "es-ES": "Accidente del Aeroplano^000000"
+        "es-ES": "Caída de la Aeronave^000000"
     },
     "hSCyDA": {
         "en-US": "Tomb of Remorse^000000",
         "pt-BR": "Mausoléu das Mágoas^000000",
-        "es-ES": "Tumba del Arrepentimiento^000000"
+        "es-ES": "Mausoleo Fantasma^000000"
     },
     "hiCyDA": {
         "en-US": "Geffen Night Arena^000000",
@@ -1757,10 +1757,10 @@
     "nyCyDA": {
         "en-US": "Tower of Geffen",
         "pt-BR": "Túmulo do Monarca",
-        "es-ES": "Tumba del Monarca"
+        "es-ES": "Torre de Geffen"
     },
     "oCCyDA": {
-        "en-US": "Pharos Island",
+        "en-US": "Infinity Space",
         "pt-BR": "Espaço Infinito",
         "es-ES": "Espacio Infinito"
     },
@@ -1988,5 +1988,8 @@
         "en-US": "Exchange completed.\nWant to try again?",
         "pt-BR": "Troca realizada.\nQuer tentar de novo?",
         "es-ES": "Intercambio realizado.\n¿Quieres intentarlo de nuevo?"
+    },
+    "ziCyDA": {
+        "pt-BR": "League_EncA"
     }
 }

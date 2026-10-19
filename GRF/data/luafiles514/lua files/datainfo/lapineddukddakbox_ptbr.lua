@@ -57,6 +57,9 @@ tblLapineDdukddakBox_string = {
 		CriticalHit_Mix = {
 			NeedSource_String = "Sombrios Críticos"
 		},
+		D_Gw_Extractor = {
+			NeedSource_String = "Arma do Glaciar Sombrio"
+		},
 		Demon_Hunt_Bible_Cube = {
 			NeedSource_String = "Tomo Primordial"
 		},
@@ -125,6 +128,9 @@ tblLapineDdukddakBox_string = {
 		},
 		Humma_Clear_Cube = {
 			NeedSource_String = "Shuriken Huuma Ancestral"
+		},
+		Ice_F_Stone_Box2 = {
+			NeedSource_String = "Gema Glacial"
 		},
 		Illusion_Module_Mix = {NeedSource_String = "Módulos"},
 		ImmunedAthena_Mix = {
@@ -236,7 +242,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Botas Ancestrais"
 		},
 		Royal_Bow_K_Cube = {
-			NeedSource_String = "Arco Ancestral"
+			NeedSource_String = "Balista Ancestral"
 		},
 		SLD_Card_Recipe = {
 			NeedSource_String = "Cartas Seladas"

@@ -1850,6 +1850,26 @@ mapNPCInfoTable = {
 			Y = 299,
 			TYPE = 0
 		}
+	},
+	icecastle = {
+		{
+			name = "Laboratório de Vellgunde",
+			X = 186,
+			Y = 222,
+			TYPE = 0
+		},
+		{
+			name = "Guia",
+			X = 59,
+			Y = 123,
+			TYPE = 4
+		},
+		{
+			name = "Pousada Pena",
+			X = 64,
+			Y = 224,
+			TYPE = 5
+		}
 	}
 }
 function main()

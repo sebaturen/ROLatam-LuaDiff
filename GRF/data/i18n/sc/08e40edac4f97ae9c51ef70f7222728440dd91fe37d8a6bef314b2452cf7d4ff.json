@@ -1,63 +1,39 @@
 {
     "oKG4": {
-        "en-US": "Juno Guide",
-        "pt-BR": "Guia de Juno",
-        "es-ES": "Guía de Juno"
+        "en-US": "Juno Guide"
     },
     "oaG4": {
-        "en-US": "[Ms. Yoon]\nA place that takes the vision of the future, and gives it form in the present. Welcome to\nthe city of Juno!",
-        "pt-BR": "[Srta. Yoon]\nUm lugar que acolhe a visão do futuro e a materializa no presente. \nBoas-vindas! Esta é a cidade de Juno!",
-        "es-ES": "[Sra. Yoon]\nUn lugar que toma la visión del futuro y le da forma en el presente. ¡Bienvenido a\nla ciudad de Juno!"
+        "en-US": "[Ms. Yoon]\nA place that takes the vision of the future, and gives it form in the present. Welcome to\nthe city of Juno!"
     },
     "oqG4": {
-        "en-US": "Armory",
-        "pt-BR": "Refinaria",
-        "es-ES": "Armería"
+        "en-US": "Armory"
     },
     "o6G4": {
-        "en-US": "Tool Shop",
-        "pt-BR": "Loja de Ferramentas",
-        "es-ES": "Tienda de herramientas"
+        "en-US": "Tool Shop"
     },
     "pKG4": {
-        "en-US": "Sage Castle (Sage Job Change Place)",
-        "pt-BR": "Castelo dos Sábios",
-        "es-ES": "Castillo de los Sabios"
+        "en-US": "Sage Castle (Sage Job Change Place)"
     },
     "paG4": {
-        "en-US": "Street of Book Stores",
-        "pt-BR": "Rua das Livrarias",
-        "es-ES": "Calle de las Librerías"
+        "en-US": "Street of Book Stores"
     },
     "pqG4": {
-        "en-US": "Juphero Plaza",
-        "pt-BR": "Praça Juphero",
-        "es-ES": "Plaza Juphero"
+        "en-US": "Juphero Plaza"
     },
     "p6G4": {
-        "en-US": "Library of the Republic",
-        "pt-BR": "Biblioteca da República",
-        "es-ES": "Biblioteca de la República"
+        "en-US": "Library of the Republic"
     },
     "qKG4": {
-        "en-US": "Schweicherbil Magic Academy",
-        "pt-BR": "Academia de Magia de Schweichervil",
-        "es-ES": "Academia de Magia Schweichervil"
+        "en-US": "Schweicherbil Magic Academy"
     },
     "qaG4": {
-        "en-US": "Monster Museum",
-        "pt-BR": "Museu de Monstros",
-        "es-ES": "Museo de Monstruos"
+        "en-US": "Monster Museum"
     },
     "qqG4": {
-        "en-US": "Forge",
-        "pt-BR": "Forja",
-        "es-ES": "Forja"
+        "en-US": "Forge"
     },
     "q6G4": {
-        "en-US": "Airport",
-        "pt-BR": "Aeroporto",
-        "es-ES": "Aeropuerto"
+        "en-US": "Airport"
     },
     "rKG4": {
         "en-US": "End Conversation",
@@ -65,59 +41,37 @@
         "es-ES": "Terminar la conversación."
     },
     "raG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Armory\nThank you,\nhave a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe\npara o mini-mapa.\n^FF3355+^000000 -> Refinaria\nObrigada e\ntenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire\nel minimapa.\n^FF3355+^000000 -> Armería\nGracias,\nque tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Armory\nThank you,\nhave a good day."
     },
     "rqG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Tool Shop\nThank you,\nhave a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe\npara o mini-mapa.\n^3355FF+^000000 -> Loja de Ferramentas\nObrigada e\ntenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire\nel minimapa.\n^3355FF+^000000 -> Tienda de herramientas\nGracias,\nque tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Tool Shop\nThank you,\nhave a good day."
     },
     "r6G4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Sage Castle\n( Sage Job Change Place )\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe\npara o mini-mapa.\n^33FF55+^000000 -> Castelo dos Sábios\n( Local de Mudança de Classe dos Sábios )\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire\nel minimapa.\n^33FF55+^000000 -> Castillo Sage\n( Lugar de cambio de clase a Sabio )\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Sage Castle\n( Sage Job Change Place )\nThank you, have a good day."
     },
     "sKG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Street of Book Stores\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe\npara o mini-mapa.\n^FF3355+^000000 -> Rua das Livrarias\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire\nel minimapa.\n^FF3355+^000000 -> Calle de las Librerías\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Street of Book Stores\nThank you, have a good day."
     },
     "saG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Juphero Plaza\nThank you,\nhave a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe\npara o mini-mapa.\n^3355FF+^000000 -> Praça Juphero\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire\nel minimapa.\n^3355FF+^000000 -> Plaza Juphero\nGracias,\nque tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Juphero Plaza\nThank you,\nhave a good day."
     },
     "sqG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Library of the Republic\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe\npara o mini-mapa.\n^33FF55+^000000 -> Biblioteca da República\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire\nel minimapa.\n^33FF55+^000000 -> Biblioteca de la República\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Library of the Republic\nThank you, have a good day."
     },
     "s6G4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^FF3355+^000000 -> Schweicherbil Magic Academy\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe para o mini-mapa.\n^FF3355+^000000 -> Academia de Magia de Schweichervil\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire el minimapa.\n^FF3355+^000000 -> Academia de Magia Schweichervil\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^FF3355+^000000 -> Schweicherbil Magic Academy\nThank you, have a good day."
     },
     "tKG4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Monster Museum\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe para o mini-mapa.\n^3355FF+^000000 -> Museu de Monstros\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire el minimapa.\n^3355FF+^000000 -> Museo de Monstruos\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Monster Museum\nThank you, have a good day."
     },
     "taG4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Forge\nThe forge is located underneath Armory.\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe para o mini-mapa.\n^3355FF+^000000 -> Forja\nA forja fica localizada embaixo da Refinaria.\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire el minimapa.\n^3355FF+^000000 -> Forja\nLa forja está ubicada debajo de la Armería.\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Forge\nThe forge is located underneath Armory.\nThank you, have a good day."
     },
     "tqG4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Airport\nThank you, have a good day.",
-        "pt-BR": "[Srta. Yoon]\nPor favor, olhe para o mini-mapa.\n^3355FF+^000000 -> Aeroporto\nObrigada, tenha um bom dia.",
-        "es-ES": "[Sra. Yoon]\nPor favor, mire el minimapa.\n^3355FF+^000000 -> Aeropuerto\nGracias, que tenga un buen día."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Airport\nThank you, have a good day."
     },
     "t6G4": {
-        "en-US": "[Ms. Yoon]\nA great city of wise men.\nA city of Knowledge!\nWelcome to Juno.",
-        "pt-BR": "[Srta. Yoon]\nUma grande cidade de sábios.\nUma cidade do Conhecimento!\nBoas-vindas, está é Juno.",
-        "es-ES": "[Sra. Yoon]\nUna gran ciudad de sabios.\n¡Una ciudad del conocimiento!\nBienvenido a Juno."
+        "en-US": "[Ms. Yoon]\nA great city of wise men.\nA city of Knowledge!\nWelcome to Juno."
     },
     "uKG4": {
         "en-US": "A Citizen of Juno",
