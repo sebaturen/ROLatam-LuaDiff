@@ -395,5 +395,10 @@ WORLD_MSGID = {
 	MSI_46_OZ_DUN01 = "Oz Labyrinth 1F",
 	MSI_46_OZ_DUN02 = "Oz Labyrinth 2F",
 	MSI_47_PRONTERA_MARKET_STREET = "Prontera Bazaar",
-	MSI_DUN47_MARKET = "Bazaar"
+	MSI_DUN47_MARKET = "Bazaar",
+	MSI_100_ICECASTLE = "IceCastle",
+	MSI_100_JOR_TAIL = "Ice Ligia",
+	MSI_100_JOR_BACK1 = "Ice Straw",
+	MSI_100_JOR_BACK2 = "Unfrost Flower",
+	MSI_100_JOR_BACK3 = "Limacina"
 }

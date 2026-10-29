@@ -14287,6 +14287,54 @@ tbl = {
 		ClassNum = 6,
 		costume = false
 	},
+	[1341] = {
+		unidentifiedDisplayName = "Machado",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Destruidor Infernal",
+		identifiedResourceName = "Sins_Axe",
+		identifiedDescriptionName = {
+			"Arma criada por um anjo caído. Parece instigar o usuário a cometer um pecado.",
+			"--------------------------",
+			"^0000FFPOD +2.^000000",
+			"^0000FFDano físico +5%.^000000",
+			"^0000FFDano de [Laser Triplo] +5%.^000000",
+			"--------------------------",
+			"Refino +5 ou mais:",
+			"^0000FFDano de [Laser Triplo] +10% adicional.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Laser Triplo] +10% adicional.^000000",
+			"Refino +10 ou mais:",
+			"^0000FFCRIT +10.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +20%.^000000",
+			"^0000FFDano de [Laser Triplo] +5% adicional.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico contra todas as raças +10%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano físico contra todas as propriedades +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Machado^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em batalha^000000",
+			"Peso: ^777777440^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777215^000000",
+			"Classes: ^777777Engenheiros e evoluções^000000"
+		},
+		slotCount = 2,
+		ClassNum = 6,
+		costume = false
+	},
 	[1351] = {
 		unidentifiedDisplayName = "Machado",
 		unidentifiedResourceName = "배틀액스",
@@ -22968,7 +23016,7 @@ tbl = {
 		costume = false
 	},
 	[1752] = {
-		unidentifiedDisplayName = "Flecha",
+		unidentifiedDisplayName = "Flecha de Fogo",
 		unidentifiedResourceName = "화살",
 		unidentifiedDescriptionName = {
 			"Flecha usada para atacar junto com um arco. Possui uma ponta incandescente.",
@@ -79861,9 +79909,14 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"^ff0000Intransferível.^000000",
 			"Moeda usada pelos Esplêndidos.",
+			"<TIPBOX>[Episode13.2]<INFO>6016</INFO></TIPBOX>",
+			"<TIPBOX>[Episode14.2]<INFO>6057</INFO></TIPBOX>",
 			"^0000ffTroque por prêmios com^000000",
 			"<NAVI>[Mercadora de Esplendor]<INFO> spl_in01,110,322,0,101,0</INFO></NAVI>",
 			"<NAVI>[Mercadora Naphara]<INFO>ecl_in01,66,95,0,101,0</INFO></NAVI>",
+			"<NAVI>[Especialista em Espaços Nattuer]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
+			"<NAVI>[Mercador de Ervas Plafina]<INFO>ecl_in01,33,98,0,101,0</INFO></NAVI>",
+			"<NAVI>[Replicador Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
 			"Peso: ^7777770^000000"
 		},
 		identifiedDisplayName = "Moeda Esplendor",
@@ -79871,9 +79924,14 @@ tbl = {
 		identifiedDescriptionName = {
 			"^ff0000Intransferível.^000000",
 			"Moeda usada pelos Esplêndidos.",
+			"<TIPBOX>[Episode13.2]<INFO>6016</INFO></TIPBOX>",
+			"<TIPBOX>[Episode14.2]<INFO>6057</INFO></TIPBOX>",
 			"^0000ffTroque por prêmios com^000000",
 			"<NAVI>[Mercadora de Esplendor]<INFO> spl_in01,110,322,0,101,0</INFO></NAVI>",
 			"<NAVI>[Mercadora Naphara]<INFO>ecl_in01,66,95,0,101,0</INFO></NAVI>",
+			"<NAVI>[Especialista em Espaços Nattuer]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
+			"<NAVI>[Mercador de Ervas Plafina]<INFO>ecl_in01,33,98,0,101,0</INFO></NAVI>",
+			"<NAVI>[Replicador Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -83596,8 +83654,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"^ff0000Intransferível.^000000",
 			"Um certificado dado pelos ministros de El Dicastes como condecoração por boas ações realizadas pela cidade.",
+			"<TIPBOX>[Episode13.3]<INFO>6028</INFO></TIPBOX>",
 			"^0000ffTroque por prêmios com^000000",
 			"<NAVI>[Jahbong]<INFO>dic_fild01,231,160,0,101,0</INFO></NAVI>",
+			"<NAVI>[Jalapeño]<INFO>dic_fild01,240,198,0,101,0</INFO></NAVI>",
 			"Peso: ^7777770^000000"
 		},
 		identifiedDisplayName = "Certificado do Explorador",
@@ -83605,8 +83665,10 @@ tbl = {
 		identifiedDescriptionName = {
 			"^ff0000Intransferível.^000000",
 			"Um certificado dado pelos ministros de El Dicastes como condecoração por boas ações realizadas pela cidade.",
+			"<TIPBOX>[Episode13.3]<INFO>6028</INFO></TIPBOX>",
 			"^0000ffTroque por prêmios com^000000",
 			"<NAVI>[Jahbong]<INFO>dic_fild01,231,160,0,101,0</INFO></NAVI>",
+			"<NAVI>[Jalapeño]<INFO>dic_fild01,240,198,0,101,0</INFO></NAVI>",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -84493,13 +84555,13 @@ tbl = {
 		costume = false
 	},
 	[6405] = {
-		unidentifiedDisplayName = "Pena de Cendrawish",
+		unidentifiedDisplayName = "Pena de Cendrawasih",
 		unidentifiedResourceName = "센드라와시의깃털",
 		unidentifiedDescriptionName = {
 			"É a pena de um pássaro chamado Cendrawasih. Ela é maravilhosa e tem uma cor verde, bem viva.",
 			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Pena de Cendrawish",
+		identifiedDisplayName = "Pena de Cendrawasih",
 		identifiedResourceName = "센드라와시의깃털",
 		identifiedDescriptionName = {
 			"É a pena de um pássaro chamado Cendrawasih. Ela é maravilhosa e tem uma cor verde, bem viva.",
@@ -87560,12 +87622,16 @@ tbl = {
 		unidentifiedResourceName = "아레나코인",
 		unidentifiedDescriptionName = {
 			"Certifica seu dono como um guerreiro inigualável.",
+			"<TIPBOX>[MD Caverna de Mors]<INFO>6090</INFO></TIPBOX>",
+			"<TIPBOX>[MD Ilha de Bios]<INFO>6092</INFO></TIPBOX>",
 			"Peso: ^7777770^000000"
 		},
 		identifiedDisplayName = "Marca do Herói",
 		identifiedResourceName = "아레나코인",
 		identifiedDescriptionName = {
 			"Certifica seu dono como um guerreiro inigualável.",
+			"<TIPBOX>[MD Caverna de Mors]<INFO>6090</INFO></TIPBOX>",
+			"<TIPBOX>[MD Ilha de Bios]<INFO>6092</INFO></TIPBOX>",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -91449,16 +91515,17 @@ tbl = {
 		costume = false
 	},
 	[6954] = {
-		unidentifiedDisplayName = "Fragmento de Alma de Cachorro",
+		unidentifiedDisplayName = "Fragmento de Alma de Cão",
 		unidentifiedResourceName = "망자의한기",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Fragmento de Alma de Cachorro",
+		identifiedDisplayName = "Fragmento de Alma de Cão",
 		identifiedResourceName = "망자의한기",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
-			"Fragmento da alma de um Cachorro.",
+			"^FF0000Intransferível.^000000",
+			"Fragmento da alma de um Cão.",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -91474,8 +91541,9 @@ tbl = {
 		identifiedDisplayName = "Fragmento de Alma de Porco",
 		identifiedResourceName = "망자의한기",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
+			"^FF0000Intransferível.^000000",
 			"Fragmento da alma de um Porco.",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -110459,6 +110527,43 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[9134] = {
+		unidentifiedDisplayName = "Ovo de Cavaleiro Branco",
+		unidentifiedResourceName = "성속성알",
+		unidentifiedDescriptionName = {
+			"Ovo contendo um Cavaleiro Branco de estimação. Deve ser chocado por uma Incubadora.",
+			"",
+			"Quando a intimidade estiver Tímida ou Estranha:",
+			"^0000FFMATK +2%.^000000",
+			"Quando a intimidade estiver Neutra:",
+			"^0000FFMATK +3%.^000000",
+			"Quando a intimidade estiver Cordial:",
+			"^0000FFMATK +4%, S.MATK +1, dano mágico contra monstros do tipo Chefe +3%.^000000",
+			"Quando a intimidade estiver Leal:",
+			"^0000FFMATK +5%, S.MATK +2, dano mágico contra monstros do tipo Chefe +5%.^000000",
+			"",
+			"Tipo: ^777777Ovo de Mascote^000000"
+		},
+		identifiedDisplayName = "Ovo de Cavaleiro Branco",
+		identifiedResourceName = "성속성알",
+		identifiedDescriptionName = {
+			"Ovo contendo um Cavaleiro Branco de estimação. Deve ser chocado por uma Incubadora.",
+			"",
+			"Quando a intimidade estiver Tímida ou Estranha:",
+			"^0000FFMATK +2%.^000000",
+			"Quando a intimidade estiver Neutra:",
+			"^0000FFMATK +3%.^000000",
+			"Quando a intimidade estiver Cordial:",
+			"^0000FFMATK +4%, S.MATK +1, dano mágico contra monstros do tipo Chefe +3%.^000000",
+			"Quando a intimidade estiver Leal:",
+			"^0000FFMATK +5%, S.MATK +2, dano mágico contra monstros do tipo Chefe +5%.^000000",
+			"",
+			"Tipo: ^777777Ovo de Mascote^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[9137] = {
 		unidentifiedDisplayName = "Ovo de Bafomé",
 		unidentifiedResourceName = "Baphomet_Egg",
@@ -110790,6 +110895,41 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[9155] = {
+		unidentifiedDisplayName = "Ovo de Zangão",
+		unidentifiedResourceName = "풍속성알",
+		unidentifiedDescriptionName = {
+			"Ovo que contém um Zangão de estimação. Deve ser chocado em uma Incubadora.",
+			"--------------------------",
+			"Quando a lealdade for Alta:",
+			"^0000FFConjuração variável -1%.^000000",
+			"^0000FFDano mágico de propriedade Vento +1%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Altíssima:",
+			"^0000FFConjuração variável -2%.^000000",
+			"^0000FFDano mágico de propriedade Vento +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Monstro^000000"
+		},
+		identifiedDisplayName = "Ovo de Zangão",
+		identifiedResourceName = "풍속성알",
+		identifiedDescriptionName = {
+			"Ovo que contém um Zangão de estimação. Deve ser chocado em uma Incubadora.",
+			"--------------------------",
+			"Quando a lealdade for Alta:",
+			"^0000FFConjuração variável -1%.^000000",
+			"^0000FFDano mágico de propriedade Vento +1%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Altíssima:",
+			"^0000FFConjuração variável -2%.^000000",
+			"^0000FFDano mágico de propriedade Vento +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Monstro^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[9156] = {
 		unidentifiedDisplayName = "Ovo de Chao",
 		unidentifiedResourceName = "Sonic_Chao_Egg",
@@ -110880,6 +111020,53 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[9170] = {
+		unidentifiedDisplayName = "Ovo de Angelgolt",
+		unidentifiedResourceName = "성속성알",
+		unidentifiedDescriptionName = {
+			"Ovo que contém um Angelgolt de estimação. Deve ser chocado em uma Incubadora.",
+			"--------------------------",
+			"Quando a lealdade for Baixíssima ou Baixa",
+			"^0000FFConjuração variável -2%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Normal",
+			"^0000FFConjuração variável -3%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Alta",
+			"^0000FFConjuração variável -4%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +3%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Altíssima",
+			"^0000FFConjuração variável -5%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Monstro^000000"
+		},
+		identifiedDisplayName = "Ovo de Angelgolt",
+		identifiedResourceName = "성속성알",
+		identifiedDescriptionName = {
+			"Ovo que contém um Angelgolt de estimação. Deve ser chocado em uma Incubadora.",
+			"--------------------------",
+			"Quando a lealdade for Baixíssima ou Baixa",
+			"^0000FFConjuração variável -2%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Normal",
+			"^0000FFConjuração variável -3%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Alta",
+			"^0000FFConjuração variável -4%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +3%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Altíssima",
+			"^0000FFConjuração variável -5%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Monstro^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[9171] = {
 		unidentifiedDisplayName = "Ovo de Vigia do Tempo",
 		unidentifiedResourceName = "Timeholder_Egg",
@@ -110961,6 +111148,39 @@ tbl = {
 			"--------------------------",
 			"Tipo: ^777777Ovo de Mascote^000000",
 			"Comida: ^777777Orvalho da Manhã^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9190] = {
+		unidentifiedDisplayName = "Ovo de Relógio",
+		unidentifiedResourceName = "지속성알",
+		unidentifiedDescriptionName = {
+			"Ovo que contém um Relógio de estimação. Deve ser chocado em uma Incubadora.",
+			"--------------------------",
+			"Quando a lealdade for Alta:",
+			"^0000FFVelocidade de ataque +1%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Altíssima:",
+			"^0000FFVelocidade de ataque +1%.^000000",
+			"^0000FFEsquiva +3.^000000",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Monstro^000000"
+		},
+		identifiedDisplayName = "Ovo de Relógio",
+		identifiedResourceName = "지속성알",
+		identifiedDescriptionName = {
+			"Ovo que contém um Relógio de estimação. Deve ser chocado em uma Incubadora.",
+			"--------------------------",
+			"Quando a lealdade for Alta:",
+			"^0000FFVelocidade de ataque +1%.^000000",
+			"--------------------------",
+			"Quando a lealdade for Altíssima:",
+			"^0000FFVelocidade de ataque +1%.^000000",
+			"^0000FFEsquiva +3.^000000",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Monstro^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -114838,22 +115058,24 @@ tbl = {
 		unidentifiedDisplayName = "Biscoito Outonal",
 		unidentifiedResourceName = "대관람차과자",
 		unidentifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
-			"^ff0000Será deletado no final do evento.^000000",
-			"Amanteigado de fubá com uma pequena porção de goiabada no meio.",
+			"^FF0000Intransferível.^000000",
+			"^FF0000Será deletado no final do evento.^000000",
+			"O biscoito Yakgwa, tradicionalmente, é feito com trigo, mel e gergelim.",
+			"Em outros lugares, preferem amanteigado, com fubá e goiabada no meio. Uma delícia.",
 			"--------------------------",
-			"^0000ffRegenera entre 300 a 425 de HP e 40 a 60 de SP.^000000",
+			"^0000FFRegenera entre 300 a 425 de HP e 40 a 60 de SP.^000000",
 			"--------------------------",
 			"Peso: ^7777773^000000"
 		},
 		identifiedDisplayName = "Biscoito Outonal",
 		identifiedResourceName = "대관람차과자",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
-			"^ff0000Será deletado no final do evento.^000000",
-			"Amanteigado de fubá com uma pequena porção de goiabada no meio.",
+			"^FF0000Intransferível.^000000",
+			"^FF0000Será deletado no final do evento.^000000",
+			"O biscoito Yakgwa, tradicionalmente, é feito com trigo, mel e gergelim.",
+			"Em outros lugares, preferem amanteigado, com fubá e goiabada no meio. Uma delícia.",
 			"--------------------------",
-			"^0000ffRegenera entre 300 a 425 de HP e 40 a 60 de SP.^000000",
+			"^0000FFRegenera entre 300 a 425 de HP e 40 a 60 de SP.^000000",
 			"--------------------------",
 			"Peso: ^7777773^000000"
 		},
@@ -147160,7 +147382,7 @@ tbl = {
 		costume = false
 	},
 	[14908] = {
-		unidentifiedDisplayName = "[Evento] Arroz Coreano",
+		unidentifiedDisplayName = "[Evento] Bolinho Songpyeon",
 		unidentifiedResourceName = "송편",
 		unidentifiedDescriptionName = {
 			"^ff0000Será deletado no final do evento.^000000",
@@ -147170,7 +147392,7 @@ tbl = {
 			"-------------------------",
 			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "[Evento] Arroz Coreano",
+		identifiedDisplayName = "[Evento] Bolinho Songpyeon",
 		identifiedResourceName = "송편",
 		identifiedDescriptionName = {
 			"^ff0000Será deletado no final do evento.^000000",
@@ -175273,23 +175495,27 @@ tbl = {
 		ClassNum = 369
 	},
 	[19606] = {
-		unidentifiedDisplayName = "Equipamento Visual",
-		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item desconhecido que pode ser identificado pela [Lupa]"
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Pergaminho Místico",
-		identifiedResourceName = "오래된보라상자",
+		identifiedDisplayName = "[Visual] Pergaminho Ninja",
+		identifiedResourceName = "닌자의두루마리",
 		identifiedDescriptionName = {
 			"Pergaminho com poderes místicos de proteção. Coloque na boca de um demônio para que ele nunca mais ataque humanos.",
+			"--------------------------",
+			"^0000ffTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
-			"Equipa em: ^777777Baixo ^000000",
+			"Equipa em: ^777777Baixo^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
-		ClassNum = 370
+		ClassNum = 370,
+		costume = true
 	},
 	[19607] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
@@ -181530,6 +181756,29 @@ tbl = {
 		ClassNum = 1235,
 		costume = true
 	},
+	[20075] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Chapéu do Doram de Botas",
+		identifiedResourceName = "리틀페더햇",
+		identifiedDescriptionName = {
+			"Um chapéu usado por um destemido Doram que usava botas e um florete para lutar contra seus inimigos.",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 715,
+		costume = true
+	},
 	[20077] = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
@@ -182860,20 +183109,23 @@ tbl = {
 		costume = true
 	},
 	[20191] = {
-		unidentifiedDisplayName = "Equipamento Visual",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Chapéu da Guarda Doram",
+		identifiedDisplayName = "[Visual] Boina Felina Preta",
 		identifiedResourceName = "검은고양이귀베레모",
 		identifiedDescriptionName = {
-			"A primeira versão do Chapéu da Guarda Doram deixava as orelhinhas fofinhas de fora, atrapalhando na hora de combater o crime. Outras versões surgiram, mas a guarda sempre esteve muito ocupada pra ter tempo de mudar. Ninguém gosta que criminosos puxem suas orelhas!",
-			"Tipo: ^777777Visual ^000000",
+			"Uma boina fofa com orelhas de gato, criada como parte de um conjunto animal. Ao usá-la, você se sente um pouquinho como um felino.",
+			"--------------------------",
+			"^0000ffTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
-			"Nível Necessário: ^7777771 ^000000",
-			"Classes: ^777777Todas ^000000"
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1071,
@@ -187072,12 +187324,26 @@ tbl = {
 		costume = true
 	},
 	[20541] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Laços Angelicais",
 		identifiedResourceName = "AngelRibbonWing",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"Asas de um ser angelical. Perfeitas para quando você deseja combinar asas e um laço no seu figurino.",
+			"--------------------------",
+			"^008080Exibe o visual nas costas do personagem.^000000",
+			"--------------------------",
+			"^0000ffTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 42,
 		costume = true
@@ -187846,12 +188112,24 @@ tbl = {
 		costume = true
 	},
 	[20603] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Asas de Monarca Azul",
 		identifiedResourceName = "C_Papilio_Ulysses_Feather",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"Uma peça de roupa com textura inspirada na aparência da bela borboleta Monarca. Como a parte da frente e o verso das asas têm cores diferentes, cria uma impressão única dependendo do ângulo de visão.",
+			"--------------------------",
+			"^008080Exibe o visual nas costas do personagem.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 85,
 		costume = true
@@ -187868,12 +188146,26 @@ tbl = {
 		costume = true
 	},
 	[20605] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Guarda-chuva de Folha",
 		identifiedResourceName = "C_Leaf_Umbrella",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"Se começar a chover forte, não aceite imitações. Este item não te molha e ainda é super ecológico. Lembre-se de usá-lo no Sol também, afinal as plantas precisam da luz do dia!",
+			"--------------------------",
+			"^008080Exibe o visual nas costas do personagem.^000000",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 87,
 		costume = true
@@ -196075,22 +196367,22 @@ tbl = {
 		ClassNum = 0
 	},
 	[22551] = {
-		unidentifiedDisplayName = "[Evento] Docinhos de leite",
+		unidentifiedDisplayName = "[Evento] Docinho Dasik",
 		unidentifiedResourceName = "다식",
 		unidentifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Biscoitinhos feitos com o mais famoso leite.",
+			"Bolinhos feitos de farinha de arroz, gergelim preto, castanhas e soja.",
 			"-------------------------",
 			"^0000FFPrecisão +30.^000000",
 			"-------------------------",
 			"Duração: ^7777773 minutos^000000",
 			"Peso: ^7777777^000000"
 		},
-		identifiedDisplayName = "[Evento] Docinhos de leite",
+		identifiedDisplayName = "[Evento] Docinho Dasik",
 		identifiedResourceName = "다식",
 		identifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Biscoitinhos feitos com o mais famoso leite.",
+			"Bolinhos feitos de farinha de arroz, gergelim preto, castanhas e soja.",
 			"-------------------------",
 			"^0000FFPrecisão +30.^000000",
 			"-------------------------",
@@ -196106,7 +196398,7 @@ tbl = {
 		unidentifiedResourceName = "유과",
 		unidentifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Biscoitinhos leves e crocantes feitos de polvilho.",
+			"Biscoitinhos leves e crocantes feitos de amido, mel e licor doce.",
 			"-------------------------",
 			"^0000FFEsquiva +30.^000000",
 			"-------------------------",
@@ -196117,7 +196409,7 @@ tbl = {
 		identifiedResourceName = "유과",
 		identifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Biscoitinhos leves e crocantes feitos de polvilho.",
+			"Biscoitinhos leves e crocantes feitos de amido, mel e licor doce.",
 			"-------------------------",
 			"^0000FFEsquiva +30.^000000",
 			"-------------------------",
@@ -207422,7 +207714,7 @@ tbl = {
 		unidentifiedResourceName = "태국향수MATK",
 		unidentifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Poção Ilimitada que te garante poderes inimagináveis. Tem gosto de mirtilo com um leve toque cítrico de laranja.",
+			"Poção ilimitada que garante poderes inimagináveis. Tem gosto de mirtilo com um leve toque cítrico de laranja.",
 			"-------------------------",
 			"^0000FFATQ e ATQM +30.^000000",
 			"^0000FFConjuração fixa -30%.^000000",
@@ -207440,7 +207732,7 @@ tbl = {
 		identifiedResourceName = "태국향수MATK",
 		identifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Poção Ilimitada que te garante poderes inimagináveis. Tem gosto de mirtilo com um leve toque cítrico de laranja.",
+			"Poção ilimitada que garante poderes inimagináveis. Tem gosto de mirtilo com um leve toque cítrico de laranja.",
 			"-------------------------",
 			"^0000FFATQ e ATQM +30.^000000",
 			"^0000FFConjuração fixa -30%.^000000",
@@ -207463,7 +207755,7 @@ tbl = {
 		unidentifiedResourceName = "마아모울",
 		unidentifiedDescriptionName = {
 			"^FF0000Intransferível.^000000",
-			"Este bolinho contém tudo que qualquer pessoa necessita para se manter bem alimentada por muito tempo.",
+			"Este bolinho contém tudo que qualquer pessoa necessita para se manter bem alimentado por muito tempo.",
 			"-------------------------",
 			"^0000FFATQ e ATQM +30.^000000",
 			"^0000FFTodos os atributos +10.^000000",
@@ -207476,13 +207768,13 @@ tbl = {
 		identifiedDisplayName = "[Evento] Bolinho Divino",
 		identifiedResourceName = "마아모울",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
-			"Este bolinho contém tudo que qualquer pessoa necessite para se manter bem alimentada por muito tempo.",
+			"^FF0000Intransferível.^000000",
+			"Este bolinho contém tudo que qualquer pessoa necessite para se manter bem alimentado por muito tempo.",
 			"-------------------------",
-			"^0000ffATQ e ATQM +30.^000000",
-			"^0000ffTodos os atributos +10.^000000",
+			"^0000FFATQ e ATQM +30.^000000",
+			"^0000FFTodos os atributos +10.^000000",
 			"-------------------------",
-			"^ff0000Não acumula com consumíveis de bônus de atributos.^000000",
+			"^FF0000Não acumula com consumíveis de bônus de atributos.^000000",
 			"-------------------------",
 			"Duração: ^77777730 minutos^000000",
 			"Peso: ^7777771^000000"
@@ -229504,7 +229796,8 @@ tbl = {
 			"^0000FFDano físico corpo a corpo +15%.^000000",
 			"^0000FFDano mágico de todas as propriedades +15%.^000000",
 			"^0000FFIgnora 50% da DEF e DEFM de todas as raças de monstros.^000000",
-			"^0000FFDano de [Ataque Surpresa] [Apunhalar] [Bolas de Fogo] [Fúria da Terra] [Lanças de Fogo] [Lanças de Gelo] e [Relâmpago] +15%.^000000",
+			"^0000FFDano de [Ataque Surpresa] [Apunhalar] [Bolas de Fogo] [Fúria da Terra^000000",
+			"^0000FFLanças de Fogo] [Lanças de Gelo] e [Relâmpago] +15%.^000000",
 			"-------------------------",
 			"Tipo: ^777777Equip. Sombrio^000000",
 			"Posição: ^777777Arma^000000",
@@ -265403,6 +265696,29 @@ tbl = {
 		ClassNum = 483,
 		costume = true
 	},
+	[31032] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Boneco de Loomin",
+		identifiedResourceName = "타레루우민",
+		identifiedDescriptionName = {
+			"Um boneco pra usar na cabeça de quem está cansado de usar elmos pesados e feios. Feito à imagem de Loomin, o irmão gêmeo esquecido da Papisa de Arunafeltz!",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1484,
+		costume = true
+	},
 	[31036] = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "캡",
@@ -267763,6 +268079,29 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 415
 	},
+	[31290] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Boné do Bom Aluno",
+		identifiedResourceName = "진화된천사학생모",
+		identifiedDescriptionName = {
+			"Um chapéu dado a estudantes que se comportaram durante todo o ano letivo.",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 929,
+		costume = true
+	},
 	[31295] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "캡",
@@ -268253,7 +268592,7 @@ tbl = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Item nсo identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Chapéu do Festival da Colheita",
 		identifiedResourceName = "Harvest_Festa_Hat",
@@ -268326,12 +268665,24 @@ tbl = {
 		costume = true
 	},
 	[31380] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Corvo",
 		identifiedResourceName = "수다쟁이까마귀",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"Agora você pode desfrutar da sensação de ter um corvo como companheiro ao seu lado. Essa ave sabe de tanta coisa que às vezes parece ter três olhos...",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 1035,
 		costume = true
@@ -269846,12 +270197,24 @@ tbl = {
 		costume = true
 	},
 	[31534] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Tiara Arco-íris",
 		identifiedResourceName = "무지개스타",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"Diadema dourada feita em Bifröst. Dizem que o rastro de um arco-íris aparece quando o dono possui uma alma pura.",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 1019,
 		costume = true
@@ -270381,7 +270744,7 @@ tbl = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item nсo identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Espetinhos",
 		identifiedResourceName = "Autumnal_Flavor",
@@ -271786,7 +272149,7 @@ tbl = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Chapéu de Peru",
 		identifiedResourceName = "C_Turkey_Hat",
@@ -272983,12 +273346,24 @@ tbl = {
 		costume = false
 	},
 	[31943] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "햇",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Capuz de Sapo",
 		identifiedResourceName = "C_Frog_Hood",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"É impossível não se encantar por esse capuz. Quanto mais você usa, mais adquire os hábitos dos anfíbios por aí... Mas não vá começar a comer moscas, hein?!",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 2010,
 		costume = true
@@ -273239,22 +273614,34 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Use uma [Lupa] para identificá-lo."
 		},
-		identifiedDisplayName = "Visual Batata-doce na Boca",
+		identifiedDisplayName = "[Visual] Batata Quente",
 		identifiedResourceName = "Sweet_Potato_In_Mouth",
 		identifiedDescriptionName = {
-			"Uma batata-doce assada na fogueira do Festival da Colheita.",
-			"Está quente, então sopre com cuidado antes de comer.",
-			"^ffffff_^000000",
-			"Durante o período do evento, aumenta em 10% o dano mágico de todas as propriedades e o dano físico corpo a corpo.",
-			"Aumenta em 10% o dano físico a distância.",
-			"Aumenta em 5% a EXP obtida ao derrotar monstros e concede uma chance de derrubar Biscoitos do Festival da Colheita.",
-			"Ao equipar junto com Visual Chapéu Comemorativo do Festival da Colheita,",
-			"ATQ + 10%, reduz a conjuração fixa em 0,2 s e aumenta adicionalmente em 5% a EXP obtida ao derrotar monstros.",
-			"Ao equipar junto com Visual Sabor do Outono,",
-			"ATQM + 10%, reduz a conjuração fixa em 0,2 s e aumenta adicionalmente em 5% a EXP obtida ao derrotar monstros.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Visual^000000 Defesa: ^7777770^000000",
-			"Posição: ^777777Baixo^000000 Peso: ^7777770^000000",
+			"Uma batata doce assada na fogueira. Cuidado ao colocar na boca, ainda está quente!",
+			"--------------------------",
+			"[^CD3278Durante o Evento^000000]",
+			"^0000FFEXP obtida por monstros +5%.^000000",
+			"^0000FFDano físico à distância +10%.^000000",
+			"^0000FFDano físico corpo a corpo +10%.^000000",
+			"^0000FFDano mágico de todas as propriedades +10%.^000000",
+			"Ao derrotar monstros:",
+			"^0000FF3% de chance de derrubar Biscoito Outonal.^000000",
+			"-",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Visual] Chapéu do Festival da Colheita^000000",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFConjuração fixa -0,2 segundos.^000000",
+			"^0000FFEXP obtida por monstros +5% adicional.^000000",
+			"-",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Visual] Espetinhos^000000",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFConjuração fixa -0,2 segundos.^000000",
+			"^0000FFEXP obtida por monstros +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -275319,7 +275706,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"200x [Evento] Poção de Aprendiz",
@@ -275344,7 +275731,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"200x [Evento] Poção de Aprendiz",
@@ -275374,7 +275761,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"200x [Evento] Poção de Aprendiz",
@@ -275393,7 +275780,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"200x [Evento] Poção de Aprendiz",
@@ -275417,7 +275804,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"10x Passaporte",
@@ -275438,7 +275825,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"10x Passaporte",
@@ -275464,7 +275851,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"10x Passaporte",
@@ -275483,7 +275870,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"10x Passaporte",
@@ -275507,7 +275894,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"15x Moeda de Apoio",
@@ -275527,7 +275914,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"15x Moeda de Apoio",
@@ -275552,7 +275939,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"20x [Evento] Elixir Rubro",
@@ -275572,7 +275959,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"20x [Evento] Elixir Rubro",
@@ -275597,7 +275984,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"22x Moeda de Apoio",
@@ -275617,7 +276004,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"22x Moeda de Apoio",
@@ -275642,7 +276029,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"25x Moeda de Apoio",
@@ -275666,7 +276053,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"25x Moeda de Apoio",
@@ -275695,7 +276082,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"30x Moeda de Apoio",
@@ -275717,7 +276104,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"30x Moeda de Apoio",
@@ -275744,7 +276131,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"40x [Evento] Poção Menor de Mana",
@@ -275763,7 +276150,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"40x [Evento] Poção Menor de Mana",
@@ -275787,7 +276174,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"36x Moeda de Apoio",
@@ -275806,7 +276193,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"36x Moeda de Apoio",
@@ -275830,7 +276217,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"60x [Evento] Poção Menor de Mana",
@@ -275851,7 +276238,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"60x [Evento] Poção Menor de Mana",
@@ -275877,7 +276264,7 @@ tbl = {
 		unidentifiedResourceName = "철보물상자",
 		unidentifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"44x Moeda de Apoio",
@@ -275896,7 +276283,7 @@ tbl = {
 		identifiedResourceName = "철보물상자",
 		identifiedDescriptionName = {
 			"^FF0000Será removido durante a manutenção em 11 de maio de 2026.^000000",
-			"Kit de sobrevivência feito para agilizar na evolução dos aventureiros.",
+			"Kit de sobrevivência feito para agilizar a evolução dos aventureiros.",
 			"--------------------------",
 			"[^CD3278Contém^000000]",
 			"44x Moeda de Apoio",
@@ -285833,6 +286220,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[100900] = {
+		unidentifiedDisplayName = "Asas de Teleporte do Castelo de Gelo",
+		unidentifiedResourceName = "하얀색나비날개",
+		unidentifiedDescriptionName = {
+			"Um pergaminho com registros do Castelo de Gelo de Issgard. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região."
+		},
+		identifiedDisplayName = "Asas de Teleporte do Castelo de Gelo",
+		identifiedResourceName = "하얀색나비날개",
+		identifiedDescriptionName = {
+			"Um pergaminho com registros do Castelo de Gelo de Issgard. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região.",
+			"Peso : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[100901] = {
 		unidentifiedDisplayName = "Asas de Teleporte da Vila do Lobo Cinzento",
 		unidentifiedResourceName = "보라색나비날개",
@@ -285843,6 +286246,54 @@ tbl = {
 		identifiedResourceName = "보라색나비날개",
 		identifiedDescriptionName = {
 			"Um pergaminho com registros da Vila do Lobo Cinzento. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região.",
+			"Peso : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100902] = {
+		unidentifiedDisplayName = "Asas de Teleporte da Mansão de Varmundt",
+		unidentifiedResourceName = "분홍색나비날개",
+		unidentifiedDescriptionName = {
+			"Um pergaminho com registros da Mansão de Varmundt. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região."
+		},
+		identifiedDisplayName = "Asas de Teleporte da Mansão de Varmundt",
+		identifiedResourceName = "분홍색나비날개",
+		identifiedDescriptionName = {
+			"Um pergaminho com registros da Mansão de Varmundt. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região.",
+			"Peso : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100903] = {
+		unidentifiedDisplayName = "Asas de Teleporte da Área Fronteiriça de Cor",
+		unidentifiedResourceName = "갈색나비날개",
+		unidentifiedDescriptionName = {
+			"Um pergaminho com registros da Área Fronteiriça Especial de Cor. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região."
+		},
+		identifiedDisplayName = "Asas de Teleporte da Área Fronteiriça de Cor",
+		identifiedResourceName = "갈색나비날개",
+		identifiedDescriptionName = {
+			"Um pergaminho com registros da Área Fronteiriça Especial de Cor. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região.",
+			"Peso : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100904] = {
+		unidentifiedDisplayName = "Asas de Teleporte da Base Militar",
+		unidentifiedResourceName = "연두색나비날개",
+		unidentifiedDescriptionName = {
+			"Um pergaminho com registros da Base Militar dos Heart Hunters. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região."
+		},
+		identifiedDisplayName = "Asas de Teleporte da Base Militar",
+		identifiedResourceName = "연두색나비날개",
+		identifiedDescriptionName = {
+			"Um pergaminho com registros da Base Militar dos Heart Hunters. Ao usá-lo, parece ser possível se teletransportar diretamente para aquela região.",
 			"Peso : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -289580,6 +290031,37 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101162] = {
+		unidentifiedDisplayName = "Disfarce de Rgan",
+		unidentifiedResourceName = "낡은마법진",
+		unidentifiedDescriptionName = {
+			"Pergaminho misterioso que transforma o usuário em um Rgan. Ele foi criado por Lunch. Use-o para se infiltrar entre os Rgans.",
+			"--------------------------",
+			"^CD3278Durante a transformação:^000000",
+			"^0000FFRegeneração de HP do Minhogelix Seco +100%.^000000",
+			"--------------------------",
+			"^008080Perde o efeito ao morrer.^000000",
+			"--------------------------",
+			"Duração: ^777777180 segundos^000000",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Disfarce de Rgan",
+		identifiedResourceName = "낡은마법진",
+		identifiedDescriptionName = {
+			"Pergaminho misterioso que transforma o usuário em um Rgan. Ele foi criado por Lunch. Use-o para se infiltrar entre os Rgans.",
+			"--------------------------",
+			"^CD3278Durante a transformação:^000000",
+			"^0000FFRegeneração de HP do Minhogelix Seco +100%.^000000",
+			"--------------------------",
+			"^008080Perde o efeito ao morrer.^000000",
+			"--------------------------",
+			"Duração: ^777777180 segundos^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101168] = {
 		unidentifiedDisplayName = "[Evento] Poção Enhumasoh",
 		unidentifiedResourceName = "레지스트_지",
@@ -289895,15 +290377,172 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101183] = {
+		unidentifiedDisplayName = "Extrator de Flores Invernais",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Extrator de Flores Invernais",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101184] = {
+		unidentifiedDisplayName = "Extrator de Peças Invernais",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Extrator de Peças Invernais",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101185] = {
+		unidentifiedDisplayName = "Encantador de Equipamentos Invernais",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Encantador de Equipamentos Invernais",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101186] = {
-		unidentifiedDisplayName = "Aprimoramento de Arma Glacial",
+		unidentifiedDisplayName = "Encantador de Armas Invernais",
 		unidentifiedResourceName = "죽음의궤",
 		unidentifiedDescriptionName = {
 			"Não identificado. Use uma Lupa para identificá-lo."
 		},
-		identifiedDisplayName = "Aprimoramento de Arma Glacial",
+		identifiedDisplayName = "Encantador de Armas Invernais",
 		identifiedResourceName = "죽음의궤",
 		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101187] = {
+		unidentifiedDisplayName = "Refinador de Armadura Invernal +9",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Caixa criada pelo Hollgrehenn para refinar equipamentos encontrados em Issgard.",
+			"--------------------------",
+			"^0000FFRefina um Equipamento Invernal para o +9.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Veste Invernal",
+			"Armadura Invernal",
+			"Sapato Invernal",
+			"Bota Invernal",
+			"Manto Invernal",
+			"Sobrepeliz Invernal",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Refinador de Armadura Invernal +9",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {
+			"Caixa criada pelo Hollgrehenn para refinar equipamentos encontrados em Issgard.",
+			"--------------------------",
+			"^0000FFRefina um Equipamento Invernal para o +9.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Veste Invernal",
+			"Armadura Invernal",
+			"Sapato Invernal",
+			"Bota Invernal",
+			"Manto Invernal",
+			"Sobrepeliz Invernal",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101188] = {
+		unidentifiedDisplayName = "Refinador de Arma Invernal +9",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Caixa criada pelo Hollgrehenn para refinar armas encontrados em Issgard.",
+			"--------------------------",
+			"^0000FFRefina uma Arma Invernal para o +9.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Espada Invernal",
+			"Flambergue Invernal",
+			"Montante Invernal",
+			"Faca Invernal",
+			"Punhal Invernal",
+			"Espontão Invernal",
+			"Lança Invernal",
+			"Lábris Invernal",
+			"Berdiche Invernal",
+			"Mangual Invernal",
+			"Clava Invernal",
+			"Arco Invernal",
+			"Chicote Invernal",
+			"Violino Invernal",
+			"Katar Invernal",
+			"Varinha Invernal",
+			"Báculo Invernal",
+			"Cauda de Gato Invernal",
+			"Soqueira Invernal",
+			"Grimório Invernal",
+			"Huuma Invernal",
+			"Revólver Invernal",
+			"Carabina Invernal",
+			"Fuzil Invernal",
+			"Metralhadora Invernal",
+			"Lança-Granadas Invernal",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Refinador de Arma Invernal +9",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {
+			"Caixa criada pelo Hollgrehenn para refinar armas encontrados em Issgard.",
+			"--------------------------",
+			"^0000FFRefina uma Arma Invernal para o +9.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Espada Invernal",
+			"Flambergue Invernal",
+			"Montante Invernal",
+			"Faca Invernal",
+			"Punhal Invernal",
+			"Espontão Invernal",
+			"Lança Invernal",
+			"Lábris Invernal",
+			"Berdiche Invernal",
+			"Mangual Invernal",
+			"Clava Invernal",
+			"Arco Invernal",
+			"Chicote Invernal",
+			"Violino Invernal",
+			"Katar Invernal",
+			"Varinha Invernal",
+			"Báculo Invernal",
+			"Cauda de Gato Invernal",
+			"Soqueira Invernal",
+			"Grimório Invernal",
+			"Huuma Invernal",
+			"Revólver Invernal",
+			"Carabina Invernal",
+			"Fuzil Invernal",
+			"Metralhadora Invernal",
+			"Lança-Granadas Invernal",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -290065,6 +290704,52 @@ tbl = {
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101217] = {
+		unidentifiedDisplayName = "Encantador de Capas Invernais",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Encantador de Capas Invernais",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101218] = {
+		unidentifiedDisplayName = "Encantador de Calçados Invernais",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Encantador de Calçados Invernais",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101219] = {
+		unidentifiedDisplayName = "Encantador de Acessórios Invernais I",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Encantador de Acessórios Invernais I",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101220] = {
+		unidentifiedDisplayName = "Encantador de Acessórios Invernais II",
+		unidentifiedResourceName = "죽음의궤",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Encantador de Acessórios Invernais II",
+		identifiedResourceName = "죽음의궤",
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -291759,10 +292444,10 @@ tbl = {
 		costume = false
 	},
 	[101638] = {
-		unidentifiedDisplayName = "Aprimoramento de Arma do Glaciar Sombrio",
+		unidentifiedDisplayName = "Encantador de Arma Vil Invernal",
 		unidentifiedResourceName = "죽음의궤",
 		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "Aprimoramento de Arma do Glaciar Sombrio",
+		identifiedDisplayName = "Encantador de Arma Vil Invernal",
 		identifiedResourceName = "죽음의궤",
 		identifiedDescriptionName = {},
 		slotCount = 0,
@@ -291770,10 +292455,10 @@ tbl = {
 		costume = false
 	},
 	[101639] = {
-		unidentifiedDisplayName = "Extrator do Glaciar Sombrio",
+		unidentifiedDisplayName = "Combinador Vil Invernal",
 		unidentifiedResourceName = "죽음의궤",
 		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "Extrator do Glaciar Sombrio",
+		identifiedDisplayName = "Combinador Vil Invernal",
 		identifiedResourceName = "죽음의궤",
 		identifiedDescriptionName = {},
 		slotCount = 0,
@@ -291796,6 +292481,202 @@ tbl = {
 			"Caixa criada pelos Cardeais do Santuário de Rachel.",
 			"--------------------------",
 			"^0000ffFornece 1x Elmo da Fé (I ou II) aleatório e com refino no +11.^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101654] = {
+		unidentifiedDisplayName = "Total Selecionável",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Colar Total",
+			"Caixa de Brinco Total",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Total Selecionável",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Colar Total",
+			"Caixa de Brinco Total",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101655] = {
+		unidentifiedDisplayName = "Caixa de Brinco Total",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Brinco Sombrio Total com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Brinco Total",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Brinco Sombrio Total com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101656] = {
+		unidentifiedDisplayName = "Caixa de Colar Total",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Colar Sombrio Total com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Colar Total",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Colar Sombrio Total com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101657] = {
+		unidentifiedDisplayName = "Pedra Preciosa Selecionável",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Colar de Pedras Preciosas",
+			"Caixa de Brinco de Pedras Preciosas",
+			"Caixa de Greva de Pedras Preciosas",
+			"Caixa de Malha de Pedras Preciosas",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Pedra Preciosa Selecionável",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Colar de Pedras Preciosas",
+			"Caixa de Brinco de Pedras Preciosas",
+			"Caixa de Greva de Pedras Preciosas",
+			"Caixa de Malha de Pedras Preciosas",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101658] = {
+		unidentifiedDisplayName = "Caixa de Brinco de Pedras Preciosas",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Brinco Sombrio de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Brinco de Pedras Preciosas",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Brinco Sombrio de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101659] = {
+		unidentifiedDisplayName = "Caixa de Colar de Pedras Preciosas",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Colar Sombrio de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Colar de Pedras Preciosas",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Colar Sombrio de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101660] = {
+		unidentifiedDisplayName = "Caixa de Greva de Pedras Preciosas",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Greva Sombria de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Greva de Pedras Preciosas",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Greva Sombria de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101661] = {
+		unidentifiedDisplayName = "Caixa de Malha de Pedras Preciosas",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Malha Sombria de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Malha de Pedras Preciosas",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Malha Sombria de Pedras Preciosas com refino aleatório (entre +7 e +10).^000000",
 			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -292174,6 +293055,52 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101725] = {
+		unidentifiedDisplayName = "Caixa de Manopla de Absorção",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Manopla Sombria de Absorção com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Manopla de Absorção",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Manopla Sombria de Absorção com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101726] = {
+		unidentifiedDisplayName = "Caixa de Escudo de Absorção",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Escudo Sombrio de Absorção com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Escudo de Absorção",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Escudo Sombrio de Absorção com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101727] = {
 		unidentifiedDisplayName = "Mastodonte Selecionável",
 		unidentifiedResourceName = "잠긴실버갑옷상자",
@@ -292236,6 +293163,33 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101729] = {
+		unidentifiedDisplayName = "Absorção Selecionável",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Escudo de Absorção",
+			"Caixa de Manopla de Absorção",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Absorção Selecionável",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Escudo de Absorção",
+			"Caixa de Manopla de Absorção",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101783] = {
 		unidentifiedDisplayName = "Baú Prateado da Lili (5 dias)",
 		unidentifiedResourceName = "백금보물상자",
@@ -292281,6 +293235,129 @@ tbl = {
 			"-------------------------",
 			"^ff0000Não funciona dentro de instâncias.^000000",
 			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101801] = {
+		unidentifiedDisplayName = "Portador Selecionável",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Brinco do Portador",
+			"Caixa de Colar do Portador",
+			"Caixa de Greva do Portador",
+			"Caixa de Malha do Portador",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Portador Selecionável",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"Este item fornece uma caixa de Equipamento Sombrio com refino aleatório entre +7 ~ +10.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Caixa de Brinco do Portador",
+			"Caixa de Colar do Portador",
+			"Caixa de Greva do Portador",
+			"Caixa de Malha do Portador",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101802] = {
+		unidentifiedDisplayName = "Caixa de Brinco do Portador",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Brinco Sombrio do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Brinco do Portador",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Brinco Sombrio do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101803] = {
+		unidentifiedDisplayName = "Caixa de Colar do Portador",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Colar Sombrio do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Colar do Portador",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Colar Sombrio do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101804] = {
+		unidentifiedDisplayName = "Caixa de Malha do Portador",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Malha Sombria do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Malha do Portador",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Malha Sombria do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101805] = {
+		unidentifiedDisplayName = "Caixa de Greva do Portador",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Greva Sombria do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caixa de Greva do Portador",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Caixa com inscrições sombrias.",
+			"--------------------------",
+			"^0000ffFornece 1x Greva Sombria do Portador com refino aleatório (entre +7 e +10).^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -293013,6 +294090,41 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[102238] = {
+		unidentifiedDisplayName = "Martelo de Refino de Issgard",
+		unidentifiedResourceName = "비바투스제련망치",
+		unidentifiedDescriptionName = {
+			"Martelo usado na Terra das Flores Invernais.",
+			"--------------------------",
+			"^0000ffPermite adicionar +1 de refino em uma Coroa Invernal entre +9 e +11.^000000",
+			"^0000ffCada adição custa 14x Bênção do Ferreiro.^000000",
+			"--------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Coroa Invernal Guerreira",
+			"Coroa Invernal Mágica",
+			"Coroa Invernal Atiradora",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Martelo de Refino de Issgard",
+		identifiedResourceName = "비바투스제련망치",
+		identifiedDescriptionName = {
+			"Martelo usado na Terra das Flores Invernais.",
+			"--------------------------",
+			"^0000ffPermite adicionar +1 de refino em uma Coroa Invernal entre +9 e +11.^000000",
+			"^0000ffCada adição custa 14x Bênção do Ferreiro.^000000",
+			"--------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Coroa Invernal Guerreira",
+			"Coroa Invernal Mágica",
+			"Coroa Invernal Atiradora",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[102246] = {
 		unidentifiedDisplayName = "Cartão VIP Premium",
 		unidentifiedResourceName = "VIP_Black_Card",
@@ -293319,6 +294431,35 @@ tbl = {
 			"^0000FFAdiciona até 2 bônus aleatórios defensivos no Selo de Bastões.^000000",
 			"--------------------------",
 			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102732] = {
+		unidentifiedDisplayName = "Coroa Invernal Selecionável",
+		unidentifiedResourceName = "IsgardCrown_Box",
+		unidentifiedDescriptionName = {
+			"Caixa contendo um poder mágico vindo de Issgard.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Coroa Invernal Guerreira",
+			"Coroa Invernal Mágica",
+			"Coroa Invernal Atiradora",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Coroa Invernal Selecionável",
+		identifiedResourceName = "IsgardCrown_Box",
+		identifiedDescriptionName = {
+			"Caixa contendo um poder mágico vindo de Issgard.",
+			"--------------------------",
+			"[^CD3278Escolha Um^000000]",
+			"Coroa Invernal Guerreira",
+			"Coroa Invernal Mágica",
+			"Coroa Invernal Atiradora",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -307799,7 +308940,7 @@ tbl = {
 		unidentifiedDisplayName = "Caixa de Bioaura Selecionável",
 		unidentifiedResourceName = "보라쉐도우큐브",
 		unidentifiedDescriptionName = {
-			"EDDA생체연구소 업데이트를 기념하는 선택 상자"
+			"Conteúdo da EDDA do Biolaboratório."
 		},
 		identifiedDisplayName = "Caixa de Bioaura Selecionável",
 		identifiedResourceName = "보라쉐도우큐브",
@@ -312502,6 +313643,728 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[108347] = {
+		unidentifiedDisplayName = "Caixa Jcoin Rush 1",
+		unidentifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		unidentifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 1 de participação."
+		},
+		identifiedDisplayName = "Caixa Jcoin Rush 1",
+		identifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		identifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 1 de participação.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108348] = {
+		unidentifiedDisplayName = "Caixa Jcoin Rush 2",
+		unidentifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		unidentifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 2 de participação."
+		},
+		identifiedDisplayName = "Caixa Jcoin Rush 2",
+		identifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		identifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 2 de participação.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108349] = {
+		unidentifiedDisplayName = "Caixa Jcoin Rush 3",
+		unidentifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		unidentifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 3 de participação."
+		},
+		identifiedDisplayName = "Caixa Jcoin Rush 3",
+		identifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		identifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 3 de participação.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108350] = {
+		unidentifiedDisplayName = "Caixa Jcoin Rush 4",
+		unidentifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		unidentifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 4 de participação."
+		},
+		identifiedDisplayName = "Caixa Jcoin Rush 4",
+		identifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		identifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 4 de participação.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108351] = {
+		unidentifiedDisplayName = "Caixa Jcoin Rush 5",
+		unidentifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		unidentifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 5 de participação."
+		},
+		identifiedDisplayName = "Caixa Jcoin Rush 5",
+		identifiedResourceName = "ZTW_Pvp_Ticket_Box",
+		identifiedDescriptionName = {
+			"Caixa dada no evento Jcoin Rush para aqueles que atingiram o nível 5 de participação.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108367] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 1",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 1 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 1",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 1 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108368] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 2",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 2 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 2",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 2 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108369] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 3",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 3 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 3",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 3 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108370] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 4",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 4 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 4",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 4 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108371] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 5",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 5 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 5",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 5 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108372] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 6",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 6 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 6",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 6 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108373] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 7",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 7 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 7",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 7 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108374] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 8",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 8 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 8",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 8 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108375] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 9",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 9 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 9",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 9 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108376] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 10",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 10 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 10",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 10 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108377] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 11",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 11 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 11",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 11 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108379] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 12",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 12 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 12",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 12 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108380] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 13",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 13 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 13",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 13 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108381] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 14",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 14 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 14",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 14 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108382] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 15",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 15 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 15",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 15 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108383] = {
+		unidentifiedDisplayName = "[Roleta] Prêmio de Novembro 16",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 16 da Roleta de Novembro de 2026."
+		},
+		identifiedDisplayName = "[Roleta] Prêmio de Novembro 16",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Preso na conta.^000000",
+			"",
+			"Recompensa número 16 da Roleta de Novembro de 2026.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108436] = {
+		unidentifiedDisplayName = "Artefato Oval Diabólico",
+		unidentifiedResourceName = "디아볼릭알",
+		unidentifiedDescriptionName = {
+			"Ovo especial para celebrar o Halloween.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Artefato Oval Diabólico",
+		identifiedResourceName = "디아볼릭알",
+		identifiedDescriptionName = {
+			"Ovo especial para celebrar o Halloween.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108437] = {
+		unidentifiedDisplayName = "[Evento] Artefato Oval Diabólico",
+		unidentifiedResourceName = "디아볼릭알",
+		unidentifiedDescriptionName = {
+			"Ovo especial para celebrar o Halloween.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Evento] Artefato Oval Diabólico",
+		identifiedResourceName = "디아볼릭알",
+		identifiedDescriptionName = {
+			"Ovo especial para celebrar o Halloween.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108438] = {
+		unidentifiedDisplayName = "Bolsa de Artefato Diabólico",
+		unidentifiedResourceName = "평범한주머니",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma sacola que contém 1x Artefato Oval.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Bolsa de Artefato Diabólico",
+		identifiedResourceName = "평범한주머니",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma sacola que contém 1x Artefato Oval.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108439] = {
+		unidentifiedDisplayName = "[Nov] Caixa de Ovos Pequena",
+		unidentifiedResourceName = "Re_Costama_Box_2023_4",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma caixa com 11x Artefato Oval.",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Caixa de Ovos Pequena",
+		identifiedResourceName = "Re_Costama_Box_2023_4",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma caixa com 11x Artefato Oval.",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108440] = {
+		unidentifiedDisplayName = "[Nov] Caixa de Ovos Grande",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma caixa com 85x Artefato Oval.",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Caixa de Ovos Grande",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma caixa com 85x Artefato Oval.",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108441] = {
+		unidentifiedDisplayName = "[Nov] Caixa de Combate",
+		unidentifiedResourceName = "쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Experimente esta caixa repleta de Manuais e alguns Artefatos Ovais!",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Caixa de Combate",
+		identifiedResourceName = "쉐도우큐브",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Experimente esta caixa repleta de Manuais e alguns Artefatos Ovais!",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108442] = {
+		unidentifiedDisplayName = "[Nov] Caixa de Vida",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Experimente esta caixa cheia de consumíveis e alguns Artefatos Ovais!",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Caixa de Vida",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Experimente esta caixa cheia de consumíveis e alguns Artefatos Ovais!",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108443] = {
+		unidentifiedDisplayName = "Pacote de Pedras Visuais XVII",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"-------------------------",
+			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Pacote de Pedras Visuais XVII",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"-------------------------",
+			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108444] = {
+		unidentifiedDisplayName = "Grande Pacote de Pedras Visuais XVII",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"-------------------------",
+			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Grande Pacote de Pedras Visuais XVII",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"-------------------------",
+			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108445] = {
+		unidentifiedDisplayName = "Mega Pacote de Pedras Visuais I",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"-------------------------",
+			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mega Pacote de Pedras Visuais I",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"-------------------------",
+			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108491] = {
+		unidentifiedDisplayName = "Baú JCoin Rush I",
+		unidentifiedResourceName = "화려한상자",
+		unidentifiedDescriptionName = {
+			"Caixa de recompensas do evento JCoin Rush de número I"
+		},
+		identifiedDisplayName = "Baú JCoin Rush I",
+		identifiedResourceName = "화려한상자",
+		identifiedDescriptionName = {
+			"^ff0000Preso na Conta.^000000",
+			"Caixa de recompensas do evento JCoin Rush de número I.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108492] = {
+		unidentifiedDisplayName = "Baú JCoin Rush II",
+		unidentifiedResourceName = "보라쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"Caixa de recompensas do evento JCoin Rush de número II"
+		},
+		identifiedDisplayName = "Baú JCoin Rush II",
+		identifiedResourceName = "보라쉐도우큐브",
+		identifiedDescriptionName = {
+			"^ff0000Preso na Conta.^000000",
+			"Caixa de recompensas do evento JCoin Rush de número II.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108493] = {
+		unidentifiedDisplayName = "Baú JCoin Rush III",
+		unidentifiedResourceName = "쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"Caixa de recompensas do evento JCoin Rush de número III"
+		},
+		identifiedDisplayName = "Baú JCoin Rush III",
+		identifiedResourceName = "쉐도우큐브",
+		identifiedDescriptionName = {
+			"^ff0000Preso na Conta.^000000",
+			"Caixa de recompensas do evento JCoin Rush de número III.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108522] = {
+		unidentifiedDisplayName = "[Evento] Caixa de Slot Adicional",
+		unidentifiedResourceName = "SVIP_Gift",
+		unidentifiedDescriptionName = {
+			"^ff0000Preso na Conta.^000000",
+			"Caixa contendo 1x Cartão de Slot de Personagem",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Evento] Caixa de Slot Adicional",
+		identifiedResourceName = "SVIP_Gift",
+		identifiedDescriptionName = {
+			"^ff0000Preso na Conta.^000000",
+			"Caixa contendo 1x Cartão de Slot de Personagem",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[200001] = {
 		unidentifiedDisplayName = "Cx. Expansor de Inventário (10)",
 		unidentifiedResourceName = "졸린상자",
@@ -314835,7 +316698,7 @@ tbl = {
 		unidentifiedDisplayName = "Pacote Sobrevivente III",
 		unidentifiedResourceName = "LT_AnivPack_CO",
 		unidentifiedDescriptionName = {
-			"^ff0000Preso na conta.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um pacote criado para ajudar na sobrevivência. Vem com alguns artefatos ovais!",
 			"Peso: ^7777771^000000"
 		},
@@ -314861,7 +316724,7 @@ tbl = {
 		identifiedDisplayName = "Pacote Sobrevivente IV",
 		identifiedResourceName = "LT_AnivPack_PY",
 		identifiedDescriptionName = {
-			"^ff0000Preso na conta.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um pacote criado para ajudar na sobrevivência. Vem com alguns artefatos ovais!",
 			"Peso: ^7777771^000000"
 		},
@@ -316131,6 +317994,27 @@ tbl = {
 			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
 			"-------------------------",
 			"<NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201163] = {
+		unidentifiedDisplayName = "[Nov] Caixa de Ovos Média",
+		unidentifiedResourceName = "Re_Costama_Box_2023_3",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma caixa com 40x Artefato Oval.",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Caixa de Ovos Média",
+		identifiedResourceName = "Re_Costama_Box_2023_3",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Uma caixa com 40x Artefato Oval.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -322192,27 +324076,37 @@ tbl = {
 		costume = false
 	},
 	[300359] = {
-		unidentifiedDisplayName = "Carta Bola de Gelo",
+		unidentifiedDisplayName = "Carta Escaragélido",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"MATK + 10, S.MATK + 1.",
-			"Dano mágico de Água +4%; consumo de SP ao usar habilidades +7%.",
-			"Com refino +9, dano mágico de Água +3%.",
-			"Com refino +11, tempo de conjuração variável -5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFS.ATQM +1. ATQM +10.^000000",
+			"^0000FFDano mágico de propriedade Água +4%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de propriedade Água +3% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Bola de Gelo",
+		identifiedDisplayName = "Carta Escaragélido",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MATK + 10, S.MATK + 1.",
-			"Dano mágico de Água +4%; consumo de SP ao usar habilidades +7%.",
-			"Com refino +9, dano mágico de Água +3%.",
-			"Com refino +11, tempo de conjuração variável -5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFS.ATQM +1. ATQM +10.^000000",
+			"^0000FFDano mágico de propriedade Água +4%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de propriedade Água +3% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322223,24 +324117,34 @@ tbl = {
 		unidentifiedDisplayName = "Carta Alga Brilhante",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"ATK + 10, P.ATK + 1.",
-			"Dano físico corpo a corpo +3%; consumo de SP ao usar habilidades +7%.",
-			"Com refino +9, dano físico corpo a corpo +2%.",
-			"Com refino +11, tempo de conjuração variável -5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1. ATQ +10.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico corpo a corpo +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Alga Brilhante",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"ATK + 10, P.ATK + 1.",
-			"Dano físico corpo a corpo +3%; consumo de SP ao usar habilidades +7%.",
-			"Com refino +9, dano físico corpo a corpo +2%.",
-			"Com refino +11, tempo de conjuração variável -5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1. ATQ +10.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico corpo a corpo +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322248,25 +324152,39 @@ tbl = {
 		costume = false
 	},
 	[300361] = {
-		unidentifiedDisplayName = "Carta Canudo de Gelo",
+		unidentifiedDisplayName = "Carta Minhogelix",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"S.MATK + 1; consumo de SP ao usar habilidades +7%",
-			"Dano mágico de Água +4% a cada 2 níveis de refino.",
-			"Ao equipar com a Carta Bola de Gelo, MATK +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano mágico de propriedade Água +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Escaragélido]^000000",
+			"^0000FFDano mágico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Canudo de Gelo",
+		identifiedDisplayName = "Carta Minhogelix",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"S.MATK + 1; consumo de SP ao usar habilidades +7%",
-			"Dano mágico de Água +4% a cada 2 níveis de refino.",
-			"Ao equipar com a Carta Bola de Gelo, MATK +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano mágico de propriedade Água +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Escaragélido]^000000",
+			"^0000FFDano mágico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322274,25 +324192,39 @@ tbl = {
 		costume = false
 	},
 	[300362] = {
-		unidentifiedDisplayName = "Carta Flor que Não Congela",
+		unidentifiedDisplayName = "Carta Garoupa Glaciflor",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"P.ATK + 1; consumo de SP ao usar habilidades +7%",
-			"Dano físico corpo a corpo +4% a cada 3 níveis de refino.",
-			"Ao equipar com a Carta Alga Brilhante, ATK +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Alga Brilhante]^000000",
+			"^0000FFDano físico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Flor que Não Congela",
+		identifiedDisplayName = "Carta Garoupa Glaciflor",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"P.ATK + 1; consumo de SP ao usar habilidades +7%",
-			"Dano físico corpo a corpo +4% a cada 3 níveis de refino.",
-			"Ao equipar com a Carta Alga Brilhante, ATK +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Alga Brilhante]^000000",
+			"^0000FFDano físico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322300,27 +324232,37 @@ tbl = {
 		costume = false
 	},
 	[300363] = {
-		unidentifiedDisplayName = "Carta Remakina",
+		unidentifiedDisplayName = "Carta Limacina",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"ATK + 10, P.ATK + 1.",
-			"Dano físico à distância +3%; consumo de SP ao usar habilidades +7%.",
-			"Com refino +9, dano físico à distância +2%.",
-			"Com refino +11, tempo de conjuração variável -5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1. ATQ +10.^000000",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Remakina",
+		identifiedDisplayName = "Carta Limacina",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"ATK + 10, P.ATK + 1.",
-			"Dano físico à distância +3%; consumo de SP ao usar habilidades +7%.",
-			"Com refino +9, dano físico à distância +2%.",
-			"Com refino +11, tempo de conjuração variável -5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1. ATQ +10.^000000",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322331,20 +324273,22 @@ tbl = {
 		unidentifiedDisplayName = "Carta Calamaring",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano mágico de Água +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Água +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Calamaring",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano mágico de Água +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Água +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322355,18 +324299,20 @@ tbl = {
 		unidentifiedDisplayName = "Carta Rgan Primitivo",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano físico corpo a corpo +8%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Direito)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano físico corpo a corpo +8%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Direito^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Rgan Primitivo",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano físico corpo a corpo +8%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Direito)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano físico corpo a corpo +8%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Direito^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322374,21 +324320,23 @@ tbl = {
 		costume = false
 	},
 	[300366] = {
-		unidentifiedDisplayName = "Carta Rgan Inferior",
+		unidentifiedDisplayName = "Carta Rgan Ínfimo",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"CRI + 6, C.Rate + 1.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Direito)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFCRÍT +6. T.CRÍT +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Direito^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Rgan Inferior",
+		identifiedDisplayName = "Carta Rgan Ínfimo",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"CRI + 6, C.Rate + 1.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Direito)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFCRÍT +6. T.CRÍT +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Direito^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322396,23 +324344,31 @@ tbl = {
 		costume = false
 	},
 	[300367] = {
-		unidentifiedDisplayName = "Carta Rgan de Baixo Nível",
+		unidentifiedDisplayName = "Carta Rgan Inferior",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano físico corpo a corpo +8%.",
-			"Ao equipar com a Carta Rgan Primitivo, tempo de conjuração variável -8%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano físico corpo a corpo +8%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rgan Primitivo]^000000",
+			"^0000FFConjuração variável -8%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Rgan de Baixo Nível",
+		identifiedDisplayName = "Carta Rgan Inferior",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano físico corpo a corpo +8%.",
-			"Ao equipar com a Carta Rgan Primitivo, tempo de conjuração variável -8%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano físico corpo a corpo +8%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rgan Primitivo]^000000",
+			"^0000FFConjuração variável -8%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322423,20 +324379,28 @@ tbl = {
 		unidentifiedDisplayName = "Carta Rgan Intermediário",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"CRI + 6, C.Rate + 1.",
-			"Ao equipar com a Carta Rgan Inferior, dano crítico +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFCRÍT +6. T.CRÍT +1.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rgan Ínfimo]^000000",
+			"^0000FFDano crítico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Rgan Intermediário",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"CRI + 6, C.Rate + 1.",
-			"Ao equipar com a Carta Rgan Inferior, dano crítico +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFCRÍT +6. T.CRÍT +1.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rgan Ínfimo]^000000",
+			"^0000FFDano crítico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322447,20 +324411,22 @@ tbl = {
 		unidentifiedDisplayName = "Carta Rgan Primitivo Descartado",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano mágico de Sombrio +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Sombrio +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Rgan Primitivo Descartado",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano mágico de Sombrio +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Sombrio +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322471,20 +324437,22 @@ tbl = {
 		unidentifiedDisplayName = "Carta Rgan Intermediário Descartado",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano mágico de Fantasma +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Fantasma +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Rgan Intermediário Descartado",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano mágico de Fantasma +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Fantasma +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322492,23 +324460,25 @@ tbl = {
 		costume = false
 	},
 	[300371] = {
-		unidentifiedDisplayName = "Carta Calamaring da Caverna",
+		unidentifiedDisplayName = "Carta Calamaring Cavernoso",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano mágico de Veneno +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Veneno +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Calamaring da Caverna",
+		identifiedDisplayName = "Carta Calamaring Cavernoso",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano mágico de Veneno +35%.",
-			"Consumo de SP ao usar habilidades +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Acessório (Esquerdo)^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Veneno +35%.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322516,27 +324486,35 @@ tbl = {
 		costume = false
 	},
 	[300372] = {
-		unidentifiedDisplayName = "Carta Imobilizador da Caverna",
+		unidentifiedDisplayName = "Carta Garoupa Cavernosa",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Resistência a ataques Neutros +15%.",
-			"Dano mágico de Fantasma +3% por nível de refino.",
-			"Ao equipar com a Carta Rgan Primitivo Descartado,",
-			"resistência a ataques Neutros +5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Capa^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFResistência à propriedade Neutro +15%.^000000",
+			"A cada refino:",
+			"^0000FFDano mágico de propriedade Fantasma +3%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rgan Primitivo Descartado]^000000",
+			"^0000FFResistência à propriedade Neutro +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Imobilizador da Caverna",
+		identifiedDisplayName = "Carta Garoupa Cavernosa",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Resistência a ataques Neutros +15%.",
-			"Dano mágico de Fantasma +3% por nível de refino.",
-			"Ao equipar com a Carta Rgan Primitivo Descartado,",
-			"resistência a ataques Neutros +5%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Capa^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFResistência à propriedade Neutro +15%.^000000",
+			"A cada refino:",
+			"^0000FFDano mágico de propriedade Fantasma +3%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Carta Rgan Primitivo Descartado^000000",
+			"^0000FFResistência à propriedade Neutro +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322544,23 +324522,29 @@ tbl = {
 		costume = false
 	},
 	[300373] = {
-		unidentifiedDisplayName = "Carta Filhote de Hallucigenia",
+		unidentifiedDisplayName = "Carta Bebê Hallucigenia",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"DEF - 30, RES + 15.",
-			"Dano físico e mágico recebido de inimigos da propriedade Terra, da raça Inseto e de tamanho Pequeno -15%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Escudo^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFTEN +15. DEF ^FF0000-30.^000000",
+			"^0000FFResistência à raça Inseto +15%.^000000",
+			"^0000FFResistência ao tamanho Pequeno +15%.^000000",
+			"^0000FFResistência à propriedade Terra +15%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Escudo^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Filhote de Hallucigenia",
+		identifiedDisplayName = "Carta Bebê Hallucigenia",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"DEF - 30, RES + 15.",
-			"Dano físico e mágico recebido de inimigos da propriedade Terra, da raça Inseto e de tamanho Pequeno -15%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Escudo^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFTEN +15. DEF ^FF0000-30.^000000",
+			"^0000FFResistência à raça Inseto +15%.^000000",
+			"^0000FFResistência ao tamanho Pequeno +15%.^000000",
+			"^0000FFResistência à propriedade Terra +15%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Escudo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322571,22 +324555,36 @@ tbl = {
 		unidentifiedDisplayName = "Carta Hallucigenia",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"MHP - 10%, MSP + 10%.",
-			"P.ATK + 1, S.MATK + 1.",
-			"Ao equipar com a Carta Filhote de Hallucigenia, dano físico e mágico contra inimigos da propriedade Terra, da raça Inseto e de tamanho Pequeno +9%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Calçados^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ e S.ATQM +1.^000000",
+			"^0000FFHP máx. ^FF0000-10%.^000000",
+			"^0000FFSP máx. +10%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Bebê Hallucigenia]^000000",
+			"^0000FFDano físico e mágico contra a raça Inseto +9%.^000000",
+			"^0000FFDano físico e mágico contra o tamanho Pequeno +9%.^000000",
+			"^0000FFDano físico e mágico contra a propriedade Terra +9%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Hallucigenia",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MHP - 10%, MSP + 10%.",
-			"P.ATK + 1, S.MATK + 1.",
-			"Ao equipar com a Carta Filhote de Hallucigenia, dano físico e mágico contra inimigos da propriedade Terra, da raça Inseto e de tamanho Pequeno +9%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Calçados^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ e S.ATQM +1.^000000",
+			"^0000FFHP máx. ^FF0000-10%.^000000",
+			"^0000FFSP máx. +10%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Carta Bebê Hallucigenia^000000",
+			"^0000FFDano físico e mágico contra a raça Inseto +9%.^000000",
+			"^0000FFDano físico e mágico contra o tamanho Pequeno +9%.^000000",
+			"^0000FFDano físico e mágico contra a propriedade Terra +9%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322594,27 +324592,35 @@ tbl = {
 		costume = false
 	},
 	[300375] = {
-		unidentifiedDisplayName = "Carta Dolocaris de Um Olho",
+		unidentifiedDisplayName = "Carta Dollocaris Monocular",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Resistência a ataques Neutros +20%.",
-			"Com refino abaixo de +12, dano mágico de Sombrio, Sagrado, Fantasma e Neutro -25%.",
-			"Com refino +12 ou superior, dano mágico de Sombrio, Sagrado, Fantasma e Neutro +25%.",
-			"Se o nível da armadura for 2, dano mágico de Sombrio, Sagrado, Fantasma e Neutro +8%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Capa^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFResistência à propriedade Neutro +20%.^000000",
+			"^0000FFDano mágico de propriedade Sombrio, Sagrado, Fantasma e Neutro ^FF0000-25%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano mágico de propriedade Sombrio, Sagrado, Fantasma e Neutro +50%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFDano mágico de propriedade Sombrio, Sagrado, Fantasma e Neutro +8% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Dolocaris de Um Olho",
+		identifiedDisplayName = "Carta Dollocaris Monocular",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Resistência a ataques Neutros +20%.",
-			"Com refino abaixo de +12, dano mágico de Sombrio, Sagrado, Fantasma e Neutro -25%.",
-			"Com refino +12 ou superior, dano mágico de Sombrio, Sagrado, Fantasma e Neutro +25%.",
-			"Se o nível da armadura for 2, dano mágico de Sombrio, Sagrado, Fantasma e Neutro +8%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Capa^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFResistência à propriedade Neutro +20%.^000000",
+			"^0000FFDano mágico de propriedade Sombrio, Sagrado, Fantasma e Neutro ^FF0000-25%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano mágico de propriedade Sombrio, Sagrado, Fantasma e Neutro +50%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFDano mágico de propriedade Sombrio, Sagrado, Fantasma e Neutro +8% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322622,27 +324628,39 @@ tbl = {
 		costume = false
 	},
 	[300376] = {
-		unidentifiedDisplayName = "Carta Dolocaris de Dois Olhos",
+		unidentifiedDisplayName = "Carta Dollocaris Binocular",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"DEF + 100, RES + 50.",
-			"Com refino abaixo de +12, MHP - 30%, ATK - 10%, MATK - 10%.",
-			"Com refino +12 ou superior, MHP + 30%, ATK + 10%, MATK + 10%.",
-			"Se o nível da armadura for 2, RES + 50.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDEF +100. TEN +50.^000000",
+			"^0000FFHP máx. ^FF0000-30%.^000000",
+			"^0000FFDano físico e mágico ^FF0000-10%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFHP máx. +60%.^000000",
+			"^0000FFDano físico e mágico +20%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFTEN +50 adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Dolocaris de Dois Olhos",
+		identifiedDisplayName = "Carta Dollocaris Binocular",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"DEF + 100, RES + 50.",
-			"Com refino abaixo de +12, MHP - 30%, ATK - 10%, MATK - 10%.",
-			"Com refino +12 ou superior, MHP + 30%, ATK + 10%, MATK + 10%.",
-			"Se o nível da armadura for 2, RES + 50.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDEF +100. TEN +50.^000000",
+			"^0000FFHP máx. ^FF0000-30%.^000000",
+			"^0000FFDano físico e mágico ^FF0000-10%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFHP máx. +60%.^000000",
+			"^0000FFDano físico e mágico +20%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFTEN +50 adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322650,25 +324668,31 @@ tbl = {
 		costume = false
 	},
 	[300377] = {
-		unidentifiedDisplayName = "Carta Ultra Remakina",
+		unidentifiedDisplayName = "Carta Ultra Limacina",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"ATK + 5%, MATK + 5%.",
-			"A cada 3 níveis de refino, P.ATK + 2 e S.MATK + 2.",
-			"Com refino +11 ou superior, tempo de conjuração fixa -0,5 segundo.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano físico e mágico +5%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFP.ATQ e S.ATQM +2.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração fixa -0,5 segundos.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Ultra Remakina",
+		identifiedDisplayName = "Carta Ultra Limacina",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"ATK + 5%, MATK + 5%.",
-			"A cada 3 níveis de refino, P.ATK + 2 e S.MATK + 2.",
-			"Com refino +11 ou superior, tempo de conjuração fixa -0,5 segundo.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Cabeça^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano físico e mágico +5%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFP.ATQ e S.ATQM +2.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração fixa -0,5 segundos.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322676,23 +324700,25 @@ tbl = {
 		costume = false
 	},
 	[300378] = {
-		unidentifiedDisplayName = "Carta Juncea da Simulação",
+		unidentifiedDisplayName = "Carta Juncea de Simulação",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"P.ATK + 20, S.MATK + 20.",
-			"A armadura não pode ser destruída.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ e S.ATQM +20.^000000",
+			"^0000FFTorna a armadura indestrutível em batalha.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Juncea da Simulação",
+		identifiedDisplayName = "Carta Juncea de Simulação",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"P.ATK + 20, S.MATK + 20.",
-			"A armadura não pode ser destruída.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ e S.ATQM +20.^000000",
+			"^0000FFTorna a armadura indestrutível em batalha.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322700,27 +324726,35 @@ tbl = {
 		costume = false
 	},
 	[300379] = {
-		unidentifiedDisplayName = "Carta Rgan de Alto Nível Modificado",
+		unidentifiedDisplayName = "Carta Rgan Superior Modificado",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano físico e mágico recebido de monstros de todas as raças -15% (exceto jogadores).",
-			"Com refino abaixo de +12, dano físico e mágico recebido de inimigos de todos os tamanhos +25%.",
-			"Com refino +12 ou superior, dano físico e mágico recebido de inimigos de todos os tamanhos -25%.",
-			"Se o nível da armadura for 2, RES + 50 e MRES + 50.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Escudo^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFResistência a todas as raças de monstros +15%.^000000",
+			"^0000FFResistência a todos os tamanhos ^FF0000-25%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFResistência a todos os tamanhos +50%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFTEN e TENM +50.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Escudo^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Rgan de Alto Nível Modificado",
+		identifiedDisplayName = "Carta Rgan Superior Modificado",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano físico e mágico recebido de monstros de todas as raças -15% (exceto jogadores).",
-			"Com refino abaixo de +12, dano físico e mágico recebido de inimigos de todos os tamanhos +25%.",
-			"Com refino +12 ou superior, dano físico e mágico recebido de inimigos de todos os tamanhos -25%.",
-			"Se o nível da armadura for 2, RES + 50 e MRES + 50.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Escudo^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFResistência a todas as raças de monstros +15%.^000000",
+			"^0000FFResistência a todos os tamanhos ^FF0000-25%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFResistência a todos os tamanhos +50%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFTEN e TENM +50.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Escudo^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322728,27 +324762,41 @@ tbl = {
 		costume = false
 	},
 	[300380] = {
-		unidentifiedDisplayName = "Carta Rgan Intermediário Enredado",
+		unidentifiedDisplayName = "Carta Rgan Mediano Parasita",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"CRI + 5.",
-			"Com refino abaixo de +12, CRI - 15 e dano crítico -10%.",
-			"Com refino +12 ou superior, CRI + 15 e dano crítico +10%.",
-			"Se o nível da armadura for 2, C.RATE + 5.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Calçados^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFCRÍT +5.^000000",
+			"--------------------------",
+			"^0000FFCRÍT ^FF0000-15.^000000",
+			"^0000FFDano crítico ^FF0000-10%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFCRÍT +30.^000000",
+			"^0000FFDano crítico +20%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFT.CRÍT +5.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Rgan Intermediário Enredado",
+		identifiedDisplayName = "Carta Rgan Mediano Parasita",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"CRI + 5.",
-			"Com refino abaixo de +12, CRI - 15 e dano crítico -10%.",
-			"Com refino +12 ou superior, CRI + 15 e dano crítico +10%.",
-			"Se o nível da armadura for 2, C.RATE + 5.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Calçados^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFCRÍT +5.^000000",
+			"--------------------------",
+			"^0000FFCRÍT ^FF0000-15.^000000",
+			"^0000FFDano crítico ^FF0000-10%.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFCRÍT +30.^000000",
+			"^0000FFDano crítico +20%.^000000",
+			"--------------------------",
+			"Em equip. de nível 2:",
+			"^0000FFT.CRÍT +5.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322756,25 +324804,39 @@ tbl = {
 		costume = false
 	},
 	[300381] = {
-		unidentifiedDisplayName = "Carta Caçador de Corações AT",
+		unidentifiedDisplayName = "Carta Caça-Coração AT",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"P.ATK + 1; consumo de SP ao usar habilidades +7%",
-			"Dano físico à distância +4% a cada 3 níveis de refino.",
-			"Ao equipar com a Carta Remakina, ATK +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Limacina]^000000",
+			"^0000FFDano físico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Carta Caçador de Corações AT",
+		identifiedDisplayName = "Carta Caça-Coração AT",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"P.ATK + 1; consumo de SP ao usar habilidades +7%",
-			"Dano físico à distância +4% a cada 3 níveis de refino.",
-			"Ao equipar com a Carta Remakina, ATK +10%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Armadura^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+7%.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Limacina]^000000",
+			"^0000FFDano físico +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -322785,20 +324847,22 @@ tbl = {
 		unidentifiedDisplayName = "Carta Aquila",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Dano mágico de Veneno e Maldito +100%.",
-			"Resistência a ataques de todas as propriedades -30%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Capa^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Veneno e Maldito +100%.^000000",
+			"^0000FFResistência a todas as propriedades ^FF0000-30%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Aquila",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Dano mágico de Veneno e Maldito +100%.",
-			"Resistência a ataques de todas as propriedades -30%.",
-			"Tipo : ^777777Carta^000000",
-			"Equipamento : ^777777Capa^000000",
-			"Peso : ^7777771^000000"
+			"^0000FFDano mágico de propriedade Veneno e Maldito +100%.^000000",
+			"^0000FFResistência a todas as propriedades ^FF0000-30%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -331727,6 +333791,45 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[310661] = {
+		unidentifiedDisplayName = "Corpo (Dual)",
+		unidentifiedResourceName = "용의보주_녹",
+		unidentifiedDescriptionName = {
+			"^0000ffDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Topo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Meio)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Baixo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000"
+		},
+		identifiedDisplayName = "Corpo (Dual)",
+		identifiedResourceName = "용의보주_녹",
+		identifiedDescriptionName = {
+			"^0000ffDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Topo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Meio)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Baixo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[310662] = {
 		unidentifiedDisplayName = "Absorção de HP (Dual)",
 		unidentifiedResourceName = "묘안석",
@@ -338199,7 +340302,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"T.CRÍT +1."
 		},
-		identifiedDisplayName = "T.CRÍT +1",
+		identifiedDisplayName = "Flor Invernal (FOR)",
 		identifiedResourceName = "체력의니브",
 		identifiedDescriptionName = {
 			"T.CRÍT +1."
@@ -338245,127 +340348,7106 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[311092] = {
+		unidentifiedDisplayName = "Flor Invernal (FOR)",
+		unidentifiedResourceName = "Ice_F_Orb_Str",
+		unidentifiedDescriptionName = {
+			"^0000FFFOR +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (FOR)",
+		identifiedResourceName = "Ice_F_Orb_Str",
+		identifiedDescriptionName = {
+			"^0000FFFOR +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311093] = {
+		unidentifiedDisplayName = "Flor Invernal (DES)",
+		unidentifiedResourceName = "Ice_F_Orb_Dex",
+		unidentifiedDescriptionName = {
+			"^0000FFDES +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano físico à distância +3%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (DES)",
+		identifiedResourceName = "Ice_F_Orb_Dex",
+		identifiedDescriptionName = {
+			"^0000FFDES +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano físico à distância +3%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311094] = {
+		unidentifiedDisplayName = "Flor Invernal (AGI)",
+		unidentifiedResourceName = "Ice_F_Orb_Agi",
+		unidentifiedDescriptionName = {
+			"^0000FFAGI +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSAB +1.^000000",
+			"^0000FFPrecisão perfeita +3.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (AGI)",
+		identifiedResourceName = "Ice_F_Orb_Agi",
+		identifiedDescriptionName = {
+			"^0000FFAGI +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSAB +1.^000000",
+			"^0000FFPrecisão perfeita +3.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311095] = {
+		unidentifiedDisplayName = "Flor Invernal (INT)",
+		unidentifiedResourceName = "Ice_F_Orb_Int",
+		unidentifiedDescriptionName = {
+			"^0000FFINT +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (INT)",
+		identifiedResourceName = "Ice_F_Orb_Int",
+		identifiedDescriptionName = {
+			"^0000FFINT +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311096] = {
+		unidentifiedDisplayName = "Flor Invernal (VIT)",
+		unidentifiedResourceName = "Ice_F_Orb_Vit",
+		unidentifiedDescriptionName = {
+			"^0000FFVIT +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSTA +1.^000000",
+			"^0000FFPós-conjuração -3%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (VIT)",
+		identifiedResourceName = "Ice_F_Orb_Vit",
+		identifiedDescriptionName = {
+			"^0000FFVIT +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSTA +1.^000000",
+			"^0000FFPós-conjuração -3%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311097] = {
+		unidentifiedDisplayName = "Flor Invernal (SOR)",
+		unidentifiedResourceName = "Ice_F_Orb_luk",
+		unidentifiedDescriptionName = {
+			"^0000FFSOR +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCRV +1.^000000",
+			"^0000FFDano crítico +3%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (SOR)",
+		identifiedResourceName = "Ice_F_Orb_luk",
+		identifiedDescriptionName = {
+			"^0000FFSOR +3.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCRV +1.^000000",
+			"^0000FFDano crítico +3%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311098] = {
+		unidentifiedDisplayName = "Flor Invernal (DEF)",
+		unidentifiedResourceName = "Ice_F_Orb_Def",
+		unidentifiedDescriptionName = {
+			"^0000FFDEF +250. TEN +50.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDEF +75 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (DEF)",
+		identifiedResourceName = "Ice_F_Orb_Def",
+		identifiedDescriptionName = {
+			"^0000FFDEF +250. TEN +50.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDEF +75 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311099] = {
+		unidentifiedDisplayName = "Flor Invernal (DEFM)",
+		unidentifiedResourceName = "Ice_F_Orb_Mdef",
+		unidentifiedDescriptionName = {
+			"^0000FFDEFM +25. TENM +25.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDEFM +7 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (DEFM)",
+		identifiedResourceName = "Ice_F_Orb_Mdef",
+		identifiedDescriptionName = {
+			"^0000FFDEFM +25. TENM +25.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDEFM +7 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311100] = {
+		unidentifiedDisplayName = "Flor Invernal (Atirador)",
+		unidentifiedResourceName = "Ice_F_Orb_Ran",
+		unidentifiedDescriptionName = {
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Atirador)",
+		identifiedResourceName = "Ice_F_Orb_Ran",
+		identifiedDescriptionName = {
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311101] = {
+		unidentifiedDisplayName = "Flor Invernal (Guerreiro)",
+		unidentifiedResourceName = "Ice_F_Orb_War",
+		unidentifiedDescriptionName = {
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Guerreiro)",
+		identifiedResourceName = "Ice_F_Orb_War",
+		identifiedDescriptionName = {
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311102] = {
+		unidentifiedDisplayName = "Flor Invernal (Mágico)",
+		unidentifiedResourceName = "Ice_F_Orb_Mag",
+		unidentifiedDescriptionName = {
+			"^0000FFATQM +100.^000000",
+			"^0000FFDano mágico +6%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Mágico)",
+		identifiedResourceName = "Ice_F_Orb_Mag",
+		identifiedDescriptionName = {
+			"^0000FFATQM +100.^000000",
+			"^0000FFDano mágico +6%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311103] = {
+		unidentifiedDisplayName = "Flor Invernal (Refletor)",
+		unidentifiedResourceName = "Ice_F_Orb_R_Reject",
+		unidentifiedDescriptionName = {
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Refletor)",
+		identifiedResourceName = "Ice_F_Orb_R_Reject",
+		identifiedDescriptionName = {
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311104] = {
+		unidentifiedDisplayName = "Flor Invernal (Híbrido)",
+		unidentifiedResourceName = "Ice_F_Orb_Force",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico e mágico +2%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico e mágico +4% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Híbrido)",
+		identifiedResourceName = "Ice_F_Orb_Force",
+		identifiedDescriptionName = {
+			"^0000FFDano físico e mágico +2%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico e mágico +4% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311105] = {
+		unidentifiedDisplayName = "Flor Invernal (Pós)",
+		unidentifiedResourceName = "Ice_F_Orb_S_Delay",
+		unidentifiedDescriptionName = {
+			"^0000FFPós-conjuração -4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Pós)",
+		identifiedResourceName = "Ice_F_Orb_S_Delay",
+		identifiedDescriptionName = {
+			"^0000FFPós-conjuração -4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311106] = {
+		unidentifiedDisplayName = "Flor Invernal (Veloz)",
+		unidentifiedResourceName = "Ice_F_Orb_Speed",
+		unidentifiedDescriptionName = {
+			"^0000FFEsquiva +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Veloz)",
+		identifiedResourceName = "Ice_F_Orb_Speed",
+		identifiedDescriptionName = {
+			"^0000FFEsquiva +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311107] = {
+		unidentifiedDisplayName = "Flor Invernal (Variável)",
+		unidentifiedResourceName = "Ice_F_Orb_Caster",
+		unidentifiedDescriptionName = {
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Variável)",
+		identifiedResourceName = "Ice_F_Orb_Caster",
+		identifiedDescriptionName = {
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311108] = {
+		unidentifiedDisplayName = "Flor Invernal (Crítico)",
+		unidentifiedResourceName = "Ice_F_Orb_Critical",
+		unidentifiedDescriptionName = {
+			"^0000FFCRÍT +15.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Crítico)",
+		identifiedResourceName = "Ice_F_Orb_Critical",
+		identifiedDescriptionName = {
+			"^0000FFCRÍT +15.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311109] = {
+		unidentifiedDisplayName = "Flor Invernal (Precisão)",
+		unidentifiedResourceName = "Ice_F_Orb_Guide",
+		unidentifiedDescriptionName = {
+			"^0000FFPrecisão +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPrecisão perfeita +8.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Precisão)",
+		identifiedResourceName = "Ice_F_Orb_Guide",
+		identifiedDescriptionName = {
+			"^0000FFPrecisão +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPrecisão perfeita +8.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311110] = {
+		unidentifiedDisplayName = "Flor Invernal (Total)",
+		unidentifiedResourceName = "Ice_F_Orb_Above",
+		unidentifiedDescriptionName = {
+			"^0000FFResistência a monstros Normais e Chefes +7%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a oponentes de todas as propriedades +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a oponentes de todos os tamanhos +7%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a monstros de todas as raças +7%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Total)",
+		identifiedResourceName = "Ice_F_Orb_Above",
+		identifiedDescriptionName = {
+			"^0000FFResistência a monstros Normais e Chefes +7%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a oponentes de todas as propriedades +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a oponentes de todos os tamanhos +7%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a monstros de todas as raças +7%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311111] = {
+		unidentifiedDisplayName = "Flor Invernal (Dano)",
+		unidentifiedResourceName = "Ice_F_Orb_P_Full",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Dano)",
+		identifiedResourceName = "Ice_F_Orb_P_Full",
+		identifiedDescriptionName = {
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311112] = {
+		unidentifiedDisplayName = "Flor Invernal (Espelho)",
+		unidentifiedResourceName = "Ice_F_Orb_M_Counter",
+		unidentifiedDescriptionName = {
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Espelho)",
+		identifiedResourceName = "Ice_F_Orb_M_Counter",
+		identifiedDescriptionName = {
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311113] = {
+		unidentifiedDisplayName = "Flor Invernal (HP)",
+		unidentifiedResourceName = "Ice_F_Orb_Hp",
+		unidentifiedDescriptionName = {
+			"^0000FFHP máx. +5%.^000000",
+			"^0000FFHP máx. +2.500.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (HP)",
+		identifiedResourceName = "Ice_F_Orb_Hp",
+		identifiedDescriptionName = {
+			"^0000FFHP máx. +5%.^000000",
+			"^0000FFHP máx. +2.500.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311114] = {
+		unidentifiedDisplayName = "Flor Invernal (SP)",
+		unidentifiedResourceName = "Ice_F_Orb_Sp",
+		unidentifiedDescriptionName = {
+			"^0000FFSP máx. +5%.^000000",
+			"^0000FFSP máx. +450.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (SP)",
+		identifiedResourceName = "Ice_F_Orb_Sp",
+		identifiedDescriptionName = {
+			"^0000FFSP máx. +5%.^000000",
+			"^0000FFSP máx. +450.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311115] = {
+		unidentifiedDisplayName = "Flor Invernal (Cura)",
+		unidentifiedResourceName = "Ice_F_Orb_Heal",
+		unidentifiedDescriptionName = {
+			"^0000FFEfetividade de cura +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFEfetividade de cura +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Cura)",
+		identifiedResourceName = "Ice_F_Orb_Heal",
+		identifiedDescriptionName = {
+			"^0000FFEfetividade de cura +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFEfetividade de cura +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311116] = {
+		unidentifiedDisplayName = "Flor Invernal (Robusto)",
+		unidentifiedResourceName = "Ice_F_Orb_Robust",
+		unidentifiedDescriptionName = {
+			"^0000FFHP e SP máx. +5%.^000000",
+			"^0000FFHP máx. +2.000.^000000",
+			"^0000FFSP máx. +350.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP e SP máx. +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP e SP máx. +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP e SP máx. +5% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Robusto)",
+		identifiedResourceName = "Ice_F_Orb_Robust",
+		identifiedDescriptionName = {
+			"^0000FFHP e SP máx. +5%.^000000",
+			"^0000FFHP máx. +2.000.^000000",
+			"^0000FFSP máx. +350.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP e SP máx. +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP e SP máx. +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP e SP máx. +5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311117] = {
+		unidentifiedDisplayName = "Flor Invernal (Fixa)",
+		unidentifiedResourceName = "Ice_F_Orb_F_Cast",
+		unidentifiedDescriptionName = {
+			"^0000FFConjuração fixa -1 segundo.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Fixa)",
+		identifiedResourceName = "Ice_F_Orb_F_Cast",
+		identifiedDescriptionName = {
+			"^0000FFConjuração fixa -1 segundo.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311118] = {
+		unidentifiedDisplayName = "Flor Invernal (Estatura)",
+		unidentifiedResourceName = "Ice_F_Orb_M_F",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Estatura)",
+		identifiedResourceName = "Ice_F_Orb_M_F",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311119] = {
+		unidentifiedDisplayName = "Flor Invernal (Tamanho)",
+		unidentifiedResourceName = "Ice_F_Orb_P_F",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Tamanho)",
+		identifiedResourceName = "Ice_F_Orb_P_F",
+		identifiedDescriptionName = {
+			"^0000FFDano físico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311120] = {
+		unidentifiedDisplayName = "Flor Invernal (Eternidade)",
+		unidentifiedResourceName = "Ice_F_Orb_Un_Vit",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Eternidade] por 10 segundos.^000000",
+			"--------------------------",
+			"[Eternidade]",
+			"^0000FFVIT +50.^000000",
+			"^0000FFDano físico +25%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Eternidade)",
+		identifiedResourceName = "Ice_F_Orb_Un_Vit",
+		identifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Eternidade] por 10 segundos.^000000",
+			"--------------------------",
+			"[Eternidade]",
+			"^0000FFVIT +50.^000000",
+			"^0000FFDano físico +25%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311121] = {
+		unidentifiedDisplayName = "Flor Invernal (Sortilégio)",
+		unidentifiedResourceName = "Ice_F_Orb_Sp_Int",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Sortilégio] por 10 segundos.^000000",
+			"--------------------------",
+			"[Sortilégio]",
+			"^0000FFINT +50.^000000",
+			"^0000FFDano mágico +25%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Sortilégio)",
+		identifiedResourceName = "Ice_F_Orb_Sp_Int",
+		identifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Sortilégio] por 10 segundos.^000000",
+			"--------------------------",
+			"[Sortilégio]",
+			"^0000FFINT +50.^000000",
+			"^0000FFDano mágico +25%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311122] = {
+		unidentifiedDisplayName = "Flor Invernal (Astúcia)",
+		unidentifiedResourceName = "Ice_F_Orb_Fi_Dex",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Astúcia] por 10 segundos.^000000",
+			"--------------------------",
+			"[Astúcia]",
+			"^0000FFDES +50.^000000",
+			"^0000FFDano físico à distância +15%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Astúcia)",
+		identifiedResourceName = "Ice_F_Orb_Fi_Dex",
+		identifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Astúcia] por 10 segundos.^000000",
+			"--------------------------",
+			"[Astúcia]",
+			"^0000FFDES +50.^000000",
+			"^0000FFDano físico à distância +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311123] = {
+		unidentifiedDisplayName = "Flor Invernal (Superpoder)",
+		unidentifiedResourceName = "Ice_F_Orb_Ov_Str",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Superpoder] por 10 segundos.^000000",
+			"--------------------------",
+			"[Superpoder]",
+			"^0000FFFOR +50.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Superpoder)",
+		identifiedResourceName = "Ice_F_Orb_Ov_Str",
+		identifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Superpoder] por 10 segundos.^000000",
+			"--------------------------",
+			"[Superpoder]",
+			"^0000FFFOR +50.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311124] = {
+		unidentifiedDisplayName = "Flor Invernal (Lampejo)",
+		unidentifiedResourceName = "Ice_F_Orb_Fa_Agi",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Lampejo] por 10 segundos.^000000",
+			"--------------------------",
+			"[Lampejo]",
+			"^0000FFAGI +50.^000000",
+			"^0000FFDano crítico +25%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Lampejo)",
+		identifiedResourceName = "Ice_F_Orb_Fa_Agi",
+		identifiedDescriptionName = {
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Lampejo] por 10 segundos.^000000",
+			"--------------------------",
+			"[Lampejo]",
+			"^0000FFAGI +50.^000000",
+			"^0000FFDano crítico +25%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311125] = {
+		unidentifiedDisplayName = "Flor Invernal (Fortuna)",
+		unidentifiedResourceName = "Ice_F_Orb_Lu_Luk",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Fortuna] por 10 segundos.^000000",
+			"--------------------------",
+			"[Fortuna]",
+			"^0000FFSOR +50.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Fortuna)",
+		identifiedResourceName = "Ice_F_Orb_Lu_Luk",
+		identifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Fortuna] por 10 segundos.^000000",
+			"--------------------------",
+			"[Fortuna]",
+			"^0000FFSOR +50.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311126] = {
+		unidentifiedDisplayName = "Flor Invernal (Atraso)",
+		unidentifiedResourceName = "Ice_F_Orb_A_Delay",
+		unidentifiedDescriptionName = {
+			"^0000FFATQ +30.^000000",
+			"^0000FFVelocidade de ataque +10%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Atraso)",
+		identifiedResourceName = "Ice_F_Orb_A_Delay",
+		identifiedDescriptionName = {
+			"^0000FFATQ +30.^000000",
+			"^0000FFVelocidade de ataque +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311127] = {
+		unidentifiedDisplayName = "Flor Invernal (Mira)",
+		unidentifiedResourceName = "Ice_F_Orb_E_Archer",
+		unidentifiedDescriptionName = {
+			"^0000FFPrecisão +20.^000000",
+			"^0000FFDano físico à distância +10%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Mira)",
+		identifiedResourceName = "Ice_F_Orb_E_Archer",
+		identifiedDescriptionName = {
+			"^0000FFPrecisão +20.^000000",
+			"^0000FFDano físico à distância +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311128] = {
+		unidentifiedDisplayName = "Flor Invernal (Fatal)",
+		unidentifiedResourceName = "Ice_F_Orb_Fatal",
+		unidentifiedDescriptionName = {
+			"^0000FFCRÍT +15.^000000",
+			"^0000FFDano crítico +12%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Fatal)",
+		identifiedResourceName = "Ice_F_Orb_Fatal",
+		identifiedDescriptionName = {
+			"^0000FFCRÍT +15.^000000",
+			"^0000FFDano crítico +12%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311129] = {
+		unidentifiedDisplayName = "Flor Invernal (Combate)",
+		unidentifiedResourceName = "Ice_F_Orb_F_Spirit",
+		unidentifiedDescriptionName = {
+			"^0000FFPrecisão perfeita +5.^000000",
+			"^0000FFDano físico corpo a corpo +10%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Combate)",
+		identifiedResourceName = "Ice_F_Orb_F_Spirit",
+		identifiedDescriptionName = {
+			"^0000FFPrecisão perfeita +5.^000000",
+			"^0000FFDano físico corpo a corpo +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311130] = {
+		unidentifiedDisplayName = "Flor Invernal (Encanto)",
+		unidentifiedResourceName = "Ice_F_Orb_Spell",
+		unidentifiedDescriptionName = {
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Encanto)",
+		identifiedResourceName = "Ice_F_Orb_Spell",
+		identifiedDescriptionName = {
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311131] = {
+		unidentifiedDisplayName = "Flor Invernal (HPR)",
+		unidentifiedResourceName = "Ice_F_Orb_HealHP",
+		unidentifiedDescriptionName = {
+			"^0000FFRegeneração natural de HP +50%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (HPR)",
+		identifiedResourceName = "Ice_F_Orb_HealHP",
+		identifiedDescriptionName = {
+			"^0000FFRegeneração natural de HP +50%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311132] = {
+		unidentifiedDisplayName = "Flor Invernal (SPR)",
+		unidentifiedResourceName = "Ice_F_Orb_HealSP",
+		unidentifiedDescriptionName = {
+			"^0000FFRegeneração natural de SP +50%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (SPR)",
+		identifiedResourceName = "Ice_F_Orb_HealSP",
+		identifiedDescriptionName = {
+			"^0000FFRegeneração natural de SP +50%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311133] = {
+		unidentifiedDisplayName = "Flor Invernal (Conversão)",
+		unidentifiedResourceName = "Ice_F_Orb_Life",
+		unidentifiedDescriptionName = {
+			"^0000FF2% de chance de converter 4% do dano físico causado em HP.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Conversão)",
+		identifiedResourceName = "Ice_F_Orb_Life",
+		identifiedDescriptionName = {
+			"^0000FF2% de chance de converter 4% do dano físico causado em HP.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311134] = {
+		unidentifiedDisplayName = "Flor Invernal (Absorção)",
+		unidentifiedResourceName = "Ice_F_Orb_Soul",
+		unidentifiedDescriptionName = {
+			"^0000FF1% de chance de converter 3% do dano físico causado em SP.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Absorção)",
+		identifiedResourceName = "Ice_F_Orb_Soul",
+		identifiedDescriptionName = {
+			"^0000FF1% de chance de converter 3% do dano físico causado em SP.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311135] = {
+		unidentifiedDisplayName = "Flor Invernal (Vida)",
+		unidentifiedResourceName = "Ice_F_Orb_M_Heal",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF4% de chance de ativar [Cura Mágica] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Mágica]",
+			"^0000FFRegenera 700 de HP a cada 0,5 segundos.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Vida)",
+		identifiedResourceName = "Ice_F_Orb_M_Heal",
+		identifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF4% de chance de ativar [Cura Mágica] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Mágica]",
+			"^0000FFRegenera 700 de HP a cada 0,5 segundos.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311136] = {
+		unidentifiedDisplayName = "Flor Invernal (Mente)",
+		unidentifiedResourceName = "Ice_F_Orb_M_Soul",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF2% de chance de ativar [Cura Espiritual] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Espiritual]",
+			"^0000FFRegenera 100 de SP a cada 0,5 segundos.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Mente)",
+		identifiedResourceName = "Ice_F_Orb_M_Soul",
+		identifiedDescriptionName = {
+			"Ao realizar ataques mágicos:",
+			"^0000FF2% de chance de ativar [Cura Espiritual] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Espiritual]",
+			"^0000FFRegenera 100 de SP a cada 0,5 segundos.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311137] = {
+		unidentifiedDisplayName = "Flor Invernal (Geral)",
+		unidentifiedResourceName = "Ice_F_Orb_A_Force",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico à distância +7%.^000000",
+			"^0000FFDano físico corpo a corpo +7%.^000000",
+			"^0000FFDano mágico de todas as propriedades +7%.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Geral)",
+		identifiedResourceName = "Ice_F_Orb_A_Force",
+		identifiedDescriptionName = {
+			"^0000FFDano físico à distância +7%.^000000",
+			"^0000FFDano físico corpo a corpo +7%.^000000",
+			"^0000FFDano mágico de todas as propriedades +7%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[311138] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Gelo (Sopro Dracônico)",
+		unidentifiedDisplayName = "Flor Invernal (Dragão)",
 		unidentifiedResourceName = "Ice_F_Orb_Skill_1",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%, aumenta o dano de Corte e Massacre e Sopro Dracônico em 15%."
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Hálito do Dragão] e [Corte e Massacre] +15%.^000000",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Gelo (Sopro Dracônico)",
+		identifiedDisplayName = "Flor Invernal (Dragão)",
 		identifiedResourceName = "Ice_F_Orb_Skill_1",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%, aumenta o dano de Corte e Massacre e Sopro Dracônico em 15%."
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Hálito do Dragão] e [Corte e Massacre] +15%.^000000",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311139] = {
+		unidentifiedDisplayName = "Flor Invernal (Rúnico)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_2",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Dilacerar] +15%.^000000",
+			"^0000FFDano de [Vento Cortante] +15% adicional.^000000",
+			"^0000FFRecarga de [Impacto Flamejante] -0,5 segundos.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Rúnico)",
+		identifiedResourceName = "Ice_F_Orb_Skill_2",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Dilacerar] +15%.^000000",
+			"^0000FFDano de [Vento Cortante] +15% adicional.^000000",
+			"^0000FFRecarga de [Impacto Flamejante] -0,5 segundos.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311140] = {
+		unidentifiedDisplayName = "Flor Invernal (Lança)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_3",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +15%.^000000",
+			"^0000FFDano de [Onda de Choque] +15% adicional.^000000",
+			"^0000FFRecarga de [Lança das Mil Pontas] -0,5 segundos.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Lança)",
+		identifiedResourceName = "Ice_F_Orb_Skill_3",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +15%.^000000",
+			"^0000FFDano de [Onda de Choque] +15% adicional.^000000",
+			"^0000FFRecarga de [Lança das Mil Pontas] -0,5 segundos.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311141] = {
+		unidentifiedDisplayName = "Flor Invernal (Guardião)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_4",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe do Destino] +15%.^000000",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Guardião)",
+		identifiedResourceName = "Ice_F_Orb_Skill_4",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe do Destino] +15%.^000000",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311142] = {
+		unidentifiedDisplayName = "Flor Invernal (Hoplita)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_5",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +15%.^000000",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Hoplita)",
+		identifiedResourceName = "Ice_F_Orb_Skill_5",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +15%.^000000",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311143] = {
+		unidentifiedDisplayName = "Flor Invernal (Domini)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_6",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Crux Tempestas] +15%.^000000",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Domini)",
+		identifiedResourceName = "Ice_F_Orb_Skill_6",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Crux Tempestas] +15%.^000000",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311144] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Gelo (Canhão Propulsor)",
+		unidentifiedDisplayName = "Flor Invernal (Canhão)",
 		unidentifiedResourceName = "Ice_F_Orb_Skill_7",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%, aumenta o dano de Explosão de Faísca em 15%."
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão de Faíscas] +15%.^000000",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Gelo (Canhão Propulsor)",
+		identifiedDisplayName = "Flor Invernal (Canhão)",
 		identifiedResourceName = "Ice_F_Orb_Skill_7",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%, aumenta o dano de Explosão de Faísca em 15%."
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão de Faíscas] +15%.^000000",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311145] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Gelo (Bumerangue Vulcano)",
+		unidentifiedDisplayName = "Flor Invernal (Lenhador)",
 		unidentifiedResourceName = "Ice_F_Orb_Skill_8",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%, reduz a recarga de Arremesso de Machado em 2 segundos, aumenta o dano de Laser Triplo em 15%."
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Laser Triplo] +15%.^000000",
+			"^0000FFDano de [Metralhadora] +15% adicional.^000000",
+			"^0000FFRecarga de [Arremesso de Machado] -2 segundos.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Gelo (Bumerangue Vulcano)",
+		identifiedDisplayName = "Flor Invernal (Lenhador)",
 		identifiedResourceName = "Ice_F_Orb_Skill_8",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%, reduz a recarga de Arremesso de Machado em 2 segundos, aumenta o dano de Laser Triplo em 15%."
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Laser Triplo] +15%.^000000",
+			"^0000FFDano de [Metralhadora] +15% adicional.^000000",
+			"^0000FFRecarga de [Arremesso de Machado] -2 segundos.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311146] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Gelo (Golpe Tornado)",
+		unidentifiedDisplayName = "Flor Invernal (Machado)",
 		unidentifiedResourceName = "Ice_F_Orb_Skill_9",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%, aumenta o dano de Machado Esmagador e Golpe Poderoso em 15%."
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Machado Esmagador] e [Poder Esmagador] +15%.^000000",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Gelo (Golpe Tornado)",
+		identifiedDisplayName = "Flor Invernal (Machado)",
 		identifiedResourceName = "Ice_F_Orb_Skill_9",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%, aumenta o dano de Machado Esmagador e Golpe Poderoso em 15%."
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Machado Esmagador] e [Poder Esmagador] +15%.^000000",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311147] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Gelo (Tornado Infernal)",
+		unidentifiedDisplayName = "Flor Invernal (Biologia)",
 		unidentifiedResourceName = "Ice_F_Orb_Skill_10",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +7, aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%, aumenta o dano de Atirar Ácido Álgido, Atirar Ácido Gasoso e Pó Explosivo em 15%."
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Ácido Álgido] [Atirar Ácido Gasoso] e [Pólen Explosivo] +15%.^000000",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Gelo (Tornado Infernal)",
+		identifiedDisplayName = "Flor Invernal (Biologia)",
 		identifiedResourceName = "Ice_F_Orb_Skill_10",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +7, aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%, aumenta o dano de Atirar Ácido Álgido, Atirar Ácido Gasoso e Pó Explosivo em 15%."
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Ácido Álgido] [Atirar Ácido Gasoso] e [Pólen Explosivo] +15%.^000000",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311148] = {
+		unidentifiedDisplayName = "Flor Invernal (Física)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_11",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"^0000FFRecarga de [Erva Daninha] -1,5 segundos.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Física)",
+		identifiedResourceName = "Ice_F_Orb_Skill_11",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"^0000FFRecarga de [Erva Daninha] -1,5 segundos.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311149] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Gelo (Explosão Ácida)",
+		unidentifiedDisplayName = "Flor Invernal (Química)",
 		unidentifiedResourceName = "Ice_F_Orb_Skill_12",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Bomba Ácida e Esporo Explosivo em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 25%.",
-			"Com refino +9, reduz a recarga de Esporo Explosivo em 2 segundos.",
-			"Com refino +11, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 20%, aumenta o dano de Atirar Ácido Inflamável, Atirar Ácido Sólido e Mayhemic Thorns em 15%."
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +25% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Esporo Explosivo] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +20% adicional.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Sólido] e [Espinhos Furiosos] +15%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Gelo (Explosão Ácida)",
+		identifiedDisplayName = "Flor Invernal (Química)",
 		identifiedResourceName = "Ice_F_Orb_Skill_12",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Bomba Ácida e Esporo Explosivo em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 25%.",
-			"Com refino +9, reduz a recarga de Esporo Explosivo em 2 segundos.",
-			"Com refino +11, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 20%, aumenta o dano de Atirar Ácido Inflamável, Atirar Ácido Sólido e Mayhemic Thorns em 15%."
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +25% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Esporo Explosivo] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +20% adicional.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Sólido] e [Espinhos Furiosos] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311150] = {
+		unidentifiedDisplayName = "Flor Invernal (Lâminas)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_13",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Brutal] +15%.^000000",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Lâminas)",
+		identifiedResourceName = "Ice_F_Orb_Skill_13",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Brutal] +15%.^000000",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311151] = {
+		unidentifiedDisplayName = "Flor Invernal (Loki)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_14",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cratera] +15%.^000000",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Loki)",
+		identifiedResourceName = "Ice_F_Orb_Skill_14",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cratera] +15%.^000000",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311152] = {
+		unidentifiedDisplayName = "Flor Invernal (Duelista)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_15",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talho Eterno] +15%.^000000",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Duelista)",
+		identifiedResourceName = "Ice_F_Orb_Skill_15",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talho Eterno] +15%.^000000",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311153] = {
+		unidentifiedDisplayName = "Flor Invernal (Ofensiva)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_16",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ofensiva Abissal] +15%.^000000",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Ofensiva)",
+		identifiedResourceName = "Ice_F_Orb_Skill_16",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ofensiva Abissal] +15%.^000000",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311154] = {
+		unidentifiedDisplayName = "Flor Invernal (Desejo)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_17",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15%. adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15%. adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +15%.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%. adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Desejo)",
+		identifiedResourceName = "Ice_F_Orb_Skill_17",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15%. adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15%. adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +15%.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%. adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311155] = {
+		unidentifiedDisplayName = "Flor Invernal (Triplo)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_18",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano de [Disparo Triplo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Frenética] +15%.^000000",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Triplo)",
+		identifiedResourceName = "Ice_F_Orb_Skill_18",
+		identifiedDescriptionName = {
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano de [Disparo Triplo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Frenética] +15%.^000000",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311156] = {
+		unidentifiedDisplayName = "Flor Invernal (Místico)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_19",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flecha Escarlate] e [Deslize de Pedras] +15%.^000000",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Místico)",
+		identifiedResourceName = "Ice_F_Orb_Skill_19",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flecha Escarlate] e [Deslize de Pedras] +15%.^000000",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311157] = {
+		unidentifiedDisplayName = "Flor Invernal (Arcanista)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_20",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Lufada de Vento] +15%.^000000",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Arcanista)",
+		identifiedResourceName = "Ice_F_Orb_Skill_20",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Lufada de Vento] +15%.^000000",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311158] = {
+		unidentifiedDisplayName = "Flor Invernal (Imaterial)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_21",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Telecinesia] -30 segundos.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Espíritos Ancestrais] e [Portal do Submundo] +15%.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Imaterial)",
+		identifiedResourceName = "Ice_F_Orb_Skill_21",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Telecinesia] -30 segundos.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Espíritos Ancestrais] e [Portal do Submundo] +15%.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311159] = {
+		unidentifiedDisplayName = "Flor Invernal (Tóxico)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_22",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Poço Venenoso] +15%.^000000",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Tóxico)",
+		identifiedResourceName = "Ice_F_Orb_Skill_22",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Poço Venenoso] +15%.^000000",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311160] = {
+		unidentifiedDisplayName = "Flor Invernal (Psíquica)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_23",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +15%.^000000",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Psíquica)",
+		identifiedResourceName = "Ice_F_Orb_Skill_23",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +15%.^000000",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311161] = {
+		unidentifiedDisplayName = "Flor Invernal (Feitiço)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_24",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +15%.^000000",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Feitiço)",
+		identifiedResourceName = "Ice_F_Orb_Skill_24",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +15%.^000000",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311162] = {
+		unidentifiedDisplayName = "Flor Invernal (Exorcismo)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_25",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arbitrium] +15%.^000000",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Exorcismo)",
+		identifiedResourceName = "Ice_F_Orb_Skill_25",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arbitrium] +15%.^000000",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311163] = {
+		unidentifiedDisplayName = "Flor Invernal (Santo)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_26",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Judex] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flamen] +15%.^000000",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Santo)",
+		identifiedResourceName = "Ice_F_Orb_Skill_26",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Judex] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flamen] +15%.^000000",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311164] = {
+		unidentifiedDisplayName = "Flor Invernal (Gemini)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_27",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Gemini Lumen] +15%.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Petitio] +15%.^000000",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Gemini)",
+		identifiedResourceName = "Ice_F_Orb_Skill_27",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Gemini Lumen] +15%.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Petitio] +15%.^000000",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311165] = {
+		unidentifiedDisplayName = "Flor Invernal (Lutador)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_28",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogueira Espiritual] +15%.^000000",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Lutador)",
+		identifiedResourceName = "Ice_F_Orb_Skill_28",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogueira Espiritual] +15%.^000000",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311166] = {
+		unidentifiedDisplayName = "Flor Invernal (Espiritual)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_29",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Explosão Espiritual] e [Tempestade Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Tempestade Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Tempestade Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +15%.^000000",
+			"^0000FFRecarga de [Explosão Espiritual] -0,5 segundos.^000000",
+			"^0000FFDano de [Tempestade Espiritual] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Espiritual)",
+		identifiedResourceName = "Ice_F_Orb_Skill_29",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Explosão Espiritual] e [Tempestade Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Tempestade Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Tempestade Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +15%.^000000",
+			"^0000FFRecarga de [Explosão Espiritual] -0,5 segundos.^000000",
+			"^0000FFDano de [Tempestade Espiritual] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311167] = {
+		unidentifiedDisplayName = "Flor Invernal (Pugilista)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_30",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Soco Guilhotina] +15%.^000000",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Pugilista)",
+		identifiedResourceName = "Ice_F_Orb_Skill_30",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Soco Guilhotina] +15%.^000000",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311168] = {
+		unidentifiedDisplayName = "Flor Invernal (Falcão)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_31",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo Certeiro] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mergulho Aéreo] +15%.^000000",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Falcão)",
+		identifiedResourceName = "Ice_F_Orb_Skill_31",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo Certeiro] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mergulho Aéreo] +15%.^000000",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311169] = {
+		unidentifiedDisplayName = "Flor Invernal (Tiro)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_32",
+		unidentifiedDescriptionName = {
+			"^0000FFDano crítico +10%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +10% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Crescente] +15%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Tiro)",
+		identifiedResourceName = "Ice_F_Orb_Skill_32",
+		identifiedDescriptionName = {
+			"^0000FFDano crítico +10%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +10% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Crescente] +15%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311170] = {
+		unidentifiedDisplayName = "Flor Invernal (Flecha)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_33",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tempestade de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +15%.^000000",
+			"^0000FFDano de [Tempestade de Flechas] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Flecha)",
+		identifiedResourceName = "Ice_F_Orb_Skill_33",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tempestade de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +15%.^000000",
+			"^0000FFDano de [Tempestade de Flechas] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311171] = {
+		unidentifiedDisplayName = "Flor Invernal (Musical)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_34",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fúria Estridente] +15%.^000000",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Musical)",
+		identifiedResourceName = "Ice_F_Orb_Skill_34",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fúria Estridente] +15%.^000000",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311172] = {
+		unidentifiedDisplayName = "Flor Invernal (Temporal)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_35",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Temporal de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Rosas] +15%.^000000",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Temporal)",
+		identifiedResourceName = "Ice_F_Orb_Skill_35",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Temporal de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Rosas] +15%.^000000",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311173] = {
+		unidentifiedDisplayName = "Flor Invernal (Vulcão)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_36",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Vulcão de Flechas] +20%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +15%.^000000",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Vulcão)",
+		identifiedResourceName = "Ice_F_Orb_Skill_36",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Vulcão de Flechas] +20%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +15%.^000000",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311174] = {
+		unidentifiedDisplayName = "Flor Invernal (Solar)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_37",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Crepuscular] +15%.^000000",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Solar)",
+		identifiedResourceName = "Ice_F_Orb_Skill_37",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Crepuscular] +15%.^000000",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311175] = {
+		unidentifiedDisplayName = "Flor Invernal (Lunar)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_38",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Alvorada] +15%.^000000",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Lunar)",
+		identifiedResourceName = "Ice_F_Orb_Skill_38",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Alvorada] +15%.^000000",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311176] = {
+		unidentifiedDisplayName = "Flor Invernal (Estelar)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_39",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Galática] +15%.^000000",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Estelar)",
+		identifiedResourceName = "Ice_F_Orb_Skill_39",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Galática] +15%.^000000",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311177] = {
+		unidentifiedDisplayName = "Flor Invernal (Almas)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_40",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Esma] e [Eswhoo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã da Fênix] e [Talismã do Jabuti] +15%.^000000",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Almas)",
+		identifiedResourceName = "Ice_F_Orb_Skill_40",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Esma] e [Eswhoo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã da Fênix] e [Talismã do Jabuti] +15%.^000000",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311178] = {
+		unidentifiedDisplayName = "Flor Invernal (Espírito)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_41",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Espa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] e [Talismã do Tigre] +15%.^000000",
+			"^0000FFDano de [Espa] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Espírito)",
+		identifiedResourceName = "Ice_F_Orb_Skill_41",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Espa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] e [Talismã do Tigre] +15%.^000000",
+			"^0000FFDano de [Espa] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311179] = {
+		unidentifiedDisplayName = "Flor Invernal (Sombrio)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_42",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Necroexplosão] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Exorcizar Assombração] +15%.^000000",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Sombrio)",
+		identifiedResourceName = "Ice_F_Orb_Skill_42",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Necroexplosão] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Exorcizar Assombração] +15%.^000000",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311180] = {
+		unidentifiedDisplayName = "Flor Invernal (Revólver)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_43",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tiro Único] +15%.^000000",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Revólver)",
+		identifiedResourceName = "Ice_F_Orb_Skill_43",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tiro Único] +15%.^000000",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311181] = {
+		unidentifiedDisplayName = "Flor Invernal (Granada)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_44",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +15%.^000000",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Granada)",
+		identifiedResourceName = "Ice_F_Orb_Skill_44",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +15%.^000000",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311182] = {
+		unidentifiedDisplayName = "Flor Invernal (Espingarda)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_45",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vigília Noturna] +15%.^000000",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Espingarda)",
+		identifiedResourceName = "Ice_F_Orb_Skill_45",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vigília Noturna] +15%.^000000",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311183] = {
+		unidentifiedDisplayName = "Flor Invernal (Ninpou)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_46",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] e [Mahou da Trovoada] +15%.^000000",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Ninpou)",
+		identifiedResourceName = "Ice_F_Orb_Skill_46",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] e [Mahou da Trovoada] +15%.^000000",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311184] = {
+		unidentifiedDisplayName = "Flor Invernal (Togatana)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_47",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Centelha das Trevas] e [Huuma Aderente] +15%.^000000",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Togatana)",
+		identifiedResourceName = "Ice_F_Orb_Skill_47",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Centelha das Trevas] e [Huuma Aderente] +15%.^000000",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311185] = {
+		unidentifiedDisplayName = "Flor Invernal (Shinobi)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_48",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou do Dragão Áureo] e [Mahou da Escuridão] +15%.^000000",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Shinobi)",
+		identifiedResourceName = "Ice_F_Orb_Skill_48",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou do Dragão Áureo] e [Mahou da Escuridão] +15%.^000000",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311186] = {
+		unidentifiedDisplayName = "Flor Invernal (Fauna)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_49",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Unhas de Tigre] +15%.^000000",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Fauna)",
+		identifiedResourceName = "Ice_F_Orb_Skill_49",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Unhas de Tigre] +15%.^000000",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311187] = {
+		unidentifiedDisplayName = "Flor Invernal (Selva)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_50",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança Galhada] +15%.^000000",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Selva)",
+		identifiedResourceName = "Ice_F_Orb_Skill_50",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança Galhada] +15%.^000000",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311188] = {
+		unidentifiedDisplayName = "Flor Invernal (Selvagem)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_51",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ataque Selvagem] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Patada Felina] +15%.^000000",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Selvagem)",
+		identifiedResourceName = "Ice_F_Orb_Skill_51",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ataque Selvagem] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Patada Felina] +15%.^000000",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311189] = {
+		unidentifiedDisplayName = "Flor Invernal (Super)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_52",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe de Tyr] e [Lâminas Devastadoras] +15%.^000000",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Super)",
+		identifiedResourceName = "Ice_F_Orb_Skill_52",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe de Tyr] e [Lâminas Devastadoras] +15%.^000000",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311190] = {
+		unidentifiedDisplayName = "Flor Invernal (Hiper)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_53",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Escudo Bumerangue] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Choque Violento] e [Cortar em Espiral] +15%.^000000",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Hiper)",
+		identifiedResourceName = "Ice_F_Orb_Skill_53",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Escudo Bumerangue] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Choque Violento] e [Cortar em Espiral] +15%.^000000",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311191] = {
+		unidentifiedDisplayName = "Flor Invernal (Mega)",
+		unidentifiedResourceName = "Ice_F_Orb_Skill_54",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +15%.^000000",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Flor Invernal (Mega)",
+		identifiedResourceName = "Ice_F_Orb_Skill_54",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +15%.^000000",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311192] = {
+		unidentifiedDisplayName = "Cristal Invernal (Dragão)",
+		unidentifiedResourceName = "Glacier_F_Orb_1",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Dragão)",
+		identifiedResourceName = "Glacier_F_Orb_1",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311193] = {
+		unidentifiedDisplayName = "Cristal Invernal (Vento Cortante)",
+		unidentifiedResourceName = "Glacier_F_Orb_2",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Vento Cortante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Vento Cortante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vento Cortante] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vento Cortante] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Vento Cortante)",
+		identifiedResourceName = "Glacier_F_Orb_2",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Vento Cortante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Vento Cortante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vento Cortante] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vento Cortante] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311194] = {
+		unidentifiedDisplayName = "Cristal Invernal (Impacto Flamejante)",
+		unidentifiedResourceName = "Glacier_F_Orb_3",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Impacto Flamejante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Flamejante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Impacto Flamejante] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Flamejante] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Impacto Flamejante)",
+		identifiedResourceName = "Glacier_F_Orb_3",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Impacto Flamejante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Flamejante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Impacto Flamejante] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Flamejante] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311195] = {
+		unidentifiedDisplayName = "Cristal Invernal (Mil Pontas)",
+		unidentifiedResourceName = "Glacier_F_Orb_4",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lança das Mil Pontas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lança das Mil Pontas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lança das Mil Pontas] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança das Mil Pontas] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Mil Pontas)",
+		identifiedResourceName = "Glacier_F_Orb_4",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lança das Mil Pontas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lança das Mil Pontas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lança das Mil Pontas] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança das Mil Pontas] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311196] = {
+		unidentifiedDisplayName = "Cristal Invernal (Onda de Choque)",
+		unidentifiedResourceName = "Glacier_F_Orb_5",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Onda de Choque] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Onda de Choque] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Onda de Choque] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Onda de Choque] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Onda de Choque)",
+		identifiedResourceName = "Glacier_F_Orb_5",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Onda de Choque] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Onda de Choque] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Onda de Choque] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Onda de Choque] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311197] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lança do Destino)",
+		unidentifiedResourceName = "Glacier_F_Orb_6",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lança do Destino] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lança do Destino] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Lança do Destino] -20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança do Destino] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lança do Destino)",
+		identifiedResourceName = "Glacier_F_Orb_6",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lança do Destino] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lança do Destino] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Lança do Destino] -20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança do Destino] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311198] = {
+		unidentifiedDisplayName = "Cristal Invernal (Trindade)",
+		unidentifiedResourceName = "Glacier_F_Orb_7",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Trindade] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Trindade] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Trindade] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Trindade] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Trindade)",
+		identifiedResourceName = "Glacier_F_Orb_7",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Trindade] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Trindade] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Trindade] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Trindade] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311199] = {
+		unidentifiedDisplayName = "Cristal Invernal (Toque do Oblívio)",
+		unidentifiedResourceName = "Glacier_F_Orb_8",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Toque do Oblívio] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Toque do Oblívio] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Toque do Oblívio)",
+		identifiedResourceName = "Glacier_F_Orb_8",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Toque do Oblívio] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Toque do Oblívio] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311200] = {
+		unidentifiedDisplayName = "Cristal Invernal (Disparo Perfurante)",
+		unidentifiedResourceName = "Glacier_F_Orb_9",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo Perfurante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Disparo Perfurante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Disparo Perfurante] -0,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Perfurante] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Disparo Perfurante)",
+		identifiedResourceName = "Glacier_F_Orb_9",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo Perfurante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Disparo Perfurante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Disparo Perfurante] -0,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Perfurante] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311201] = {
+		unidentifiedDisplayName = "Cristal Invernal (Luz da Criação)",
+		unidentifiedResourceName = "Glacier_F_Orb_10",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Luz da Criação] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Luz da Criação] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Luz da Criação] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Luz da Criação] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Luz da Criação)",
+		identifiedResourceName = "Glacier_F_Orb_10",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Luz da Criação] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Luz da Criação] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Luz da Criação] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Luz da Criação] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311202] = {
+		unidentifiedDisplayName = "Cristal Invernal (Escudo Compressor)",
+		unidentifiedResourceName = "Glacier_F_Orb_11",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Escudo Compressor] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Escudo Compressor] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Escudo Compressor] -0,25 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Escudo Compressor] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Escudo Compressor)",
+		identifiedResourceName = "Glacier_F_Orb_11",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Escudo Compressor] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Escudo Compressor] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Escudo Compressor] -0,25 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Escudo Compressor] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311203] = {
+		unidentifiedDisplayName = "Cristal Invernal (Aegis Inferi)",
+		unidentifiedResourceName = "Glacier_F_Orb_12",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Aegis Inferi] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Aegis Inferi] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Aegis Inferi] -1,2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Aegis Inferi] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Aegis Inferi)",
+		identifiedResourceName = "Glacier_F_Orb_12",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Aegis Inferi] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Aegis Inferi] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Aegis Inferi] -1,2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Aegis Inferi] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311204] = {
+		unidentifiedDisplayName = "Cristal Invernal (Punho Foguete)",
+		unidentifiedResourceName = "Glacier_F_Orb_13",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Punho Foguete] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Punho Foguete] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Punho Foguete] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Punho Foguete] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Punho Foguete)",
+		identifiedResourceName = "Glacier_F_Orb_13",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Punho Foguete] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Punho Foguete] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Punho Foguete] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Punho Foguete] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311205] = {
+		unidentifiedDisplayName = "Cristal Invernal (Canhão)",
+		unidentifiedResourceName = "Glacier_F_Orb_14",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Canhão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Canhão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Canhão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Canhão] +10%.^000000",
+			"^0000FFAnula o consumo de Gasolina.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Canhão)",
+		identifiedResourceName = "Glacier_F_Orb_14",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Canhão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Canhão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Canhão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Canhão] +10%.^000000",
+			"^0000FFAnula o consumo de Gasolina.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311206] = {
+		unidentifiedDisplayName = "Cristal Invernal (Fúria do Furacão)",
+		unidentifiedResourceName = "Glacier_F_Orb_15",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Fúria do Furacão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Fúria do Furacão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Fúria do Furacão] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Fúria do Furacão)",
+		identifiedResourceName = "Glacier_F_Orb_15",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Fúria do Furacão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Fúria do Furacão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Fúria do Furacão] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311207] = {
+		unidentifiedDisplayName = "Cristal Invernal (Brandir Machado)",
+		unidentifiedResourceName = "Glacier_F_Orb_16",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Brandir Machado] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Brandir Machado] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Brandir Machado] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Brandir Machado] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Brandir Machado)",
+		identifiedResourceName = "Glacier_F_Orb_16",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Brandir Machado] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Brandir Machado] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Brandir Machado] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Brandir Machado] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311208] = {
+		unidentifiedDisplayName = "Cristal Invernal (Metralhadora)",
+		unidentifiedResourceName = "Glacier_F_Orb_17",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Metralhadora] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Metralhadora] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Metralhadora] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Metralhadora)",
+		identifiedResourceName = "Glacier_F_Orb_17",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Metralhadora] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Metralhadora] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Metralhadora] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311209] = {
+		unidentifiedDisplayName = "Cristal Invernal (Arremesso de Machado)",
+		unidentifiedResourceName = "Glacier_F_Orb_18",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Arremesso de Machado] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Arremesso de Machado] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arremesso de Machado] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arremesso de Machado] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Arremesso de Machado)",
+		identifiedResourceName = "Glacier_F_Orb_18",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Arremesso de Machado] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Arremesso de Machado] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arremesso de Machado] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arremesso de Machado] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311210] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tornado de Carrinho)",
+		unidentifiedResourceName = "Glacier_F_Orb_19",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tornado de Carrinho] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tornado de Carrinho] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tornado de Carrinho)",
+		identifiedResourceName = "Glacier_F_Orb_19",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tornado de Carrinho] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tornado de Carrinho] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311211] = {
+		unidentifiedDisplayName = "Cristal Invernal (Prótons)",
+		unidentifiedResourceName = "Glacier_F_Orb_20",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Canhão de Prótons] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Canhão de Prótons] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Canhão de Prótons] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Canhão de Prótons] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Prótons)",
+		identifiedResourceName = "Glacier_F_Orb_20",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Canhão de Prótons] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Canhão de Prótons] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Canhão de Prótons] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Canhão de Prótons] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311212] = {
+		unidentifiedDisplayName = "Cristal Invernal (Esporo Explosivo)",
+		unidentifiedResourceName = "Glacier_F_Orb_21",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Esporo Explosivo] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Esporo Explosivo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Esporo Explosivo] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Esporo Explosivo] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Esporo Explosivo)",
+		identifiedResourceName = "Glacier_F_Orb_21",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Esporo Explosivo] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Esporo Explosivo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Esporo Explosivo] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Esporo Explosivo] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311213] = {
+		unidentifiedDisplayName = "Cristal Invernal (Erva Daninha)",
+		unidentifiedResourceName = "Glacier_F_Orb_22",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Erva Daninha] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Erva Daninha] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Erva Daninha] -2,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Erva Daninha] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Erva Daninha)",
+		identifiedResourceName = "Glacier_F_Orb_22",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Erva Daninha] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Erva Daninha] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Erva Daninha] -2,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Erva Daninha] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311214] = {
+		unidentifiedDisplayName = "Cristal Invernal (Castigo de Loki)",
+		unidentifiedResourceName = "Glacier_F_Orb_23",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Castigo de Loki] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Castigo de Loki] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Castigo de Loki] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Castigo de Loki] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Castigo de Loki)",
+		identifiedResourceName = "Glacier_F_Orb_23",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Castigo de Loki] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Castigo de Loki] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Castigo de Loki] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Castigo de Loki] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311215] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lâminas de Loki)",
+		unidentifiedResourceName = "Glacier_F_Orb_24",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lâminas de Loki] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lâminas de Loki] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas de Loki] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lâminas de Loki] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lâminas de Loki)",
+		identifiedResourceName = "Glacier_F_Orb_24",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lâminas de Loki] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lâminas de Loki] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas de Loki] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lâminas de Loki] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311216] = {
+		unidentifiedDisplayName = "Cristal Invernal (Retaliação)",
+		unidentifiedResourceName = "Glacier_F_Orb_25",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Retaliação] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Retaliação] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Retaliação] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Retaliação] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Retaliação)",
+		identifiedResourceName = "Glacier_F_Orb_25",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Retaliação] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Retaliação] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Retaliação] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Retaliação] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311217] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lâminas Retalhadoras)",
+		unidentifiedResourceName = "Glacier_F_Orb_26",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lâminas Retalhadoras] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lâminas Retalhadoras] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Lâminas Retalhadoras] -20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lâminas Retalhadoras] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lâminas Retalhadoras)",
+		identifiedResourceName = "Glacier_F_Orb_26",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lâminas Retalhadoras] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lâminas Retalhadoras] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Lâminas Retalhadoras] -20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lâminas Retalhadoras] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311218] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ofensiva Fatal)",
+		unidentifiedResourceName = "Glacier_F_Orb_27",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ofensiva Fatal] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ofensiva Fatal] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ofensiva Fatal)",
+		identifiedResourceName = "Glacier_F_Orb_27",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ofensiva Fatal] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ofensiva Fatal] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311219] = {
+		unidentifiedDisplayName = "Cristal Invernal (Disparo Triplo)",
+		unidentifiedResourceName = "Glacier_F_Orb_28",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo Triplo] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Disparo Triplo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Triplo] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Triplo] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Disparo Triplo)",
+		identifiedResourceName = "Glacier_F_Orb_28",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo Triplo] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Disparo Triplo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Triplo] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Triplo] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311220] = {
+		unidentifiedDisplayName = "Cristal Invernal (Cópia Explosiva)",
+		unidentifiedResourceName = "Glacier_F_Orb_29",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cópia Explosiva] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cópia Explosiva] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cópia Explosiva] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cópia Explosiva] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Cópia Explosiva)",
+		identifiedResourceName = "Glacier_F_Orb_29",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cópia Explosiva] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cópia Explosiva] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cópia Explosiva] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cópia Explosiva] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311221] = {
+		unidentifiedDisplayName = "Cristal Invernal (Autoconjuração)",
+		unidentifiedResourceName = "Glacier_F_Orb_30",
+		unidentifiedDescriptionName = {
+			"Ao realizar ataques físicos corpo a corpo:",
+			"^0000FF7% de chance de autoconjurar [Chuva de Meteoros] nv.7.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chuva de Meteoros] +25%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFAo realizar ataques físicos corpo a corpo, 5% de chance de autoconjurar [Onda Psíquica] nv.5.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Onda Psíquica] +40%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Autoconjuração)",
+		identifiedResourceName = "Glacier_F_Orb_30",
+		identifiedDescriptionName = {
+			"Ao realizar ataques físicos corpo a corpo:",
+			"^0000FF7% de chance de autoconjurar [Chuva de Meteoros] nv.7.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chuva de Meteoros] +25%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFAo realizar ataques físicos corpo a corpo, 5% de chance de autoconjurar [Onda Psíquica] nv.5.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Onda Psíquica] +40%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311222] = {
+		unidentifiedDisplayName = "Cristal Invernal (Magismo)",
+		unidentifiedResourceName = "Glacier_F_Orb_31",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Magismo)",
+		identifiedResourceName = "Glacier_F_Orb_31",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] [Esquife Congelante] [Corrente Elétrica] e [Abalo Sísmico] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311223] = {
+		unidentifiedDisplayName = "Cristal Invernal (Impacto Espiritual)",
+		unidentifiedResourceName = "Glacier_F_Orb_32",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Impacto Espiritual] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Espiritual] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Telecinesia] -30 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Espiritual] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Impacto Espiritual)",
+		identifiedResourceName = "Glacier_F_Orb_32",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Impacto Espiritual] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Espiritual] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Telecinesia] -30 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Espiritual] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311224] = {
+		unidentifiedDisplayName = "Cristal Invernal (Cometa)",
+		unidentifiedResourceName = "Glacier_F_Orb_33",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cometa] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cometa] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Cometa] -20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cometa] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Cometa)",
+		identifiedResourceName = "Glacier_F_Orb_33",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cometa] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cometa] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Cometa] -20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cometa] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311225] = {
+		unidentifiedDisplayName = "Cristal Invernal (Onda Psíquica)",
+		unidentifiedResourceName = "Glacier_F_Orb_34",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Onda Psíquica] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Onda Psíquica] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Onda Psíquica] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Onda Psíquica] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Onda Psíquica)",
+		identifiedResourceName = "Glacier_F_Orb_34",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Onda Psíquica] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Onda Psíquica] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Onda Psíquica] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Onda Psíquica] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311226] = {
+		unidentifiedDisplayName = "Cristal Invernal (Pó de Diamante)",
+		unidentifiedResourceName = "Glacier_F_Orb_35",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Pó de Diamante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Pó de Diamante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Pó de Diamante] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Pó de Diamante)",
+		identifiedResourceName = "Glacier_F_Orb_35",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Pó de Diamante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Pó de Diamante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Pó de Diamante] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311227] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lanças dos Aesir)",
+		unidentifiedResourceName = "Glacier_F_Orb_36",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lanças dos Aesir] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lanças dos Aesir] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lanças dos Aesir] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lanças dos Aesir] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lanças dos Aesir)",
+		identifiedResourceName = "Glacier_F_Orb_36",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lanças dos Aesir] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lanças dos Aesir] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lanças dos Aesir] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lanças dos Aesir] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311228] = {
+		unidentifiedDisplayName = "Cristal Invernal (Castigo de Nerthus)",
+		unidentifiedResourceName = "Glacier_F_Orb_37",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Castigo de Nerthus] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Castigo de Nerthus] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Castigo de Nerthus] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Castigo de Nerthus] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Castigo de Nerthus)",
+		identifiedResourceName = "Glacier_F_Orb_37",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Castigo de Nerthus] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Castigo de Nerthus] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Castigo de Nerthus] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Castigo de Nerthus] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311229] = {
+		unidentifiedDisplayName = "Cristal Invernal (Implosão Tóxica)",
+		unidentifiedResourceName = "Glacier_F_Orb_38",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Implosão Tóxica] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Implosão Tóxica] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Implosão Tóxica] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Implosão Tóxica] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Implosão Tóxica)",
+		identifiedResourceName = "Glacier_F_Orb_38",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Implosão Tóxica] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Implosão Tóxica] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Implosão Tóxica] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Implosão Tóxica] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311230] = {
+		unidentifiedDisplayName = "Cristal Invernal (Adoramus)",
+		unidentifiedResourceName = "Glacier_F_Orb_39",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Adoramus] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Adoramus] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Adoramus] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Adoramus] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Adoramus)",
+		identifiedResourceName = "Glacier_F_Orb_39",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Adoramus] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Adoramus] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Adoramus] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Adoramus] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311231] = {
+		unidentifiedDisplayName = "Cristal Invernal (Judex)",
+		unidentifiedResourceName = "Glacier_F_Orb_40",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Judex] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Judex] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Judex] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Judex] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Judex)",
+		identifiedResourceName = "Glacier_F_Orb_40",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Judex] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Judex] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Judex] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Judex] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311232] = {
+		unidentifiedDisplayName = "Cristal Invernal (Gemini Lumen)",
+		unidentifiedResourceName = "Glacier_F_Orb_41",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Gemini Lumen] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Gemini Lumen] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Gemini Lumen)",
+		identifiedResourceName = "Glacier_F_Orb_41",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Gemini Lumen] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Gemini Lumen] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311233] = {
+		unidentifiedDisplayName = "Cristal Invernal (Garra de Tigre)",
+		unidentifiedResourceName = "Glacier_F_Orb_42",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Garra de Tigre] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Garra de Tigre] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Garra de Tigre] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Garra de Tigre] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Garra de Tigre)",
+		identifiedResourceName = "Glacier_F_Orb_42",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Garra de Tigre] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Garra de Tigre] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Garra de Tigre] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Garra de Tigre] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311234] = {
+		unidentifiedDisplayName = "Cristal Invernal (Explosão Espiritual)",
+		unidentifiedResourceName = "Glacier_F_Orb_43",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Explosão Espiritual] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Explosão Espiritual] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Explosão Espiritual] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Explosão Espiritual)",
+		identifiedResourceName = "Glacier_F_Orb_43",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Explosão Espiritual] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Explosão Espiritual] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Explosão Espiritual] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311235] = {
+		unidentifiedDisplayName = "Cristal Invernal (Soco Furacão)",
+		unidentifiedResourceName = "Glacier_F_Orb_44",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Soco Furacão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Soco Furacão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Soco Furacão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Soco Furacão] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Soco Furacão)",
+		identifiedResourceName = "Glacier_F_Orb_44",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Soco Furacão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Soco Furacão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Soco Furacão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Soco Furacão] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311236] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tempestade Espiritual)",
+		unidentifiedResourceName = "Glacier_F_Orb_45",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tempestade Espiritual] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tempestade Espiritual] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tempestade Espiritual] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tempestade Espiritual] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tempestade Espiritual)",
+		identifiedResourceName = "Glacier_F_Orb_45",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tempestade Espiritual] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tempestade Espiritual] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tempestade Espiritual] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tempestade Espiritual] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311237] = {
+		unidentifiedDisplayName = "Cristal Invernal (Pancada Corporal)",
+		unidentifiedResourceName = "Glacier_F_Orb_46",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Pancada Corporal] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Pancada Corporal] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pancada Corporal] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Pancada Corporal] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Pancada Corporal)",
+		identifiedResourceName = "Glacier_F_Orb_46",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Pancada Corporal] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Pancada Corporal] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pancada Corporal] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Pancada Corporal] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311238] = {
+		unidentifiedDisplayName = "Cristal Invernal (Disparo Certeiro)",
+		unidentifiedResourceName = "Glacier_F_Orb_47",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo Certeiro] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Disparo Certeiro] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Disparo Certeiro] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Disparo Certeiro)",
+		identifiedResourceName = "Glacier_F_Orb_47",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo Certeiro] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Disparo Certeiro] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Disparo Certeiro] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311239] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tempestade de Flechas)",
+		unidentifiedResourceName = "Glacier_F_Orb_48",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tempestade de Flechas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tempestade de Flechas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Tempestade de Flechas] -1,2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tempestade de Flechas)",
+		identifiedResourceName = "Glacier_F_Orb_48",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tempestade de Flechas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tempestade de Flechas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Tempestade de Flechas] -1,2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311240] = {
+		unidentifiedDisplayName = "Cristal Invernal (Investida de Worg)",
+		unidentifiedResourceName = "Glacier_F_Orb_49",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Investida de Worg] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Investida de Worg] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Investida de Worg] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Investida de Worg] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Investida de Worg)",
+		identifiedResourceName = "Glacier_F_Orb_49",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Investida de Worg] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Investida de Worg] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Investida de Worg] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Investida de Worg] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311241] = {
+		unidentifiedDisplayName = "Cristal Invernal (Temporal de Flechas)",
+		unidentifiedResourceName = "Glacier_F_Orb_50",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Temporal de Flechas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Temporal de Flechas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Temporal de Flechas] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Temporal de Flechas)",
+		identifiedResourceName = "Glacier_F_Orb_50",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Temporal de Flechas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Temporal de Flechas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Temporal de Flechas] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311242] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ruído Estridente)",
+		unidentifiedResourceName = "Glacier_F_Orb_51",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ruído Estridente] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ruído Estridente] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Ruído Estridente] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ruído Estridente] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ruído Estridente)",
+		identifiedResourceName = "Glacier_F_Orb_51",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ruído Estridente] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ruído Estridente] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Ruído Estridente] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ruído Estridente] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311243] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ressonância)",
+		unidentifiedResourceName = "Glacier_F_Orb_52",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ressonância] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ressonância] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ressonância] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ressonância] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ressonância)",
+		identifiedResourceName = "Glacier_F_Orb_52",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ressonância] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ressonância] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ressonância] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ressonância] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311244] = {
+		unidentifiedDisplayName = "Cristal Invernal (Sol)",
+		unidentifiedResourceName = "Glacier_F_Orb_53",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Sol)",
+		identifiedResourceName = "Glacier_F_Orb_53",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311245] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lua)",
+		unidentifiedResourceName = "Glacier_F_Orb_54",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lua)",
+		identifiedResourceName = "Glacier_F_Orb_54",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311246] = {
+		unidentifiedDisplayName = "Cristal Invernal (Estrela)",
+		unidentifiedResourceName = "Glacier_F_Orb_55",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Estrela)",
+		identifiedResourceName = "Glacier_F_Orb_55",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311247] = {
+		unidentifiedDisplayName = "Cristal Invernal (Espa)",
+		unidentifiedResourceName = "Glacier_F_Orb_56",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Espa] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Espa] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espa] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Espa] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Espa)",
+		identifiedResourceName = "Glacier_F_Orb_56",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Espa] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Espa] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espa] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Espa] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311248] = {
+		unidentifiedDisplayName = "Cristal Invernal (Eswhoo)",
+		unidentifiedResourceName = "Glacier_F_Orb_57",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Eswhoo] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Eswhoo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eswhoo] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Eswhoo] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Eswhoo)",
+		identifiedResourceName = "Glacier_F_Orb_57",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Eswhoo] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Eswhoo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eswhoo] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Eswhoo] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311249] = {
+		unidentifiedDisplayName = "Cristal Invernal (Necroexplosão)",
+		unidentifiedResourceName = "Glacier_F_Orb_58",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Necroexplosão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Necroexplosão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Necroexplosão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Necroexplosão] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Necroexplosão)",
+		identifiedResourceName = "Glacier_F_Orb_58",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Necroexplosão] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Necroexplosão] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Necroexplosão] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Necroexplosão] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311250] = {
+		unidentifiedDisplayName = "Cristal Invernal (Descarregar Tambor)",
+		unidentifiedResourceName = "Glacier_F_Orb_59",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Descarregar Tambor] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Descarregar Tambor] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Descarregar Tambor)",
+		identifiedResourceName = "Glacier_F_Orb_59",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Descarregar Tambor] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Descarregar Tambor] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311251] = {
+		unidentifiedDisplayName = "Cristal Invernal (Execução)",
+		unidentifiedResourceName = "Glacier_F_Orb_60",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Execução] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Execução] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Execução] -8 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Execução)",
+		identifiedResourceName = "Glacier_F_Orb_60",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Execução] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Execução] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Execução] -8 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311252] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lançar Míssil)",
+		unidentifiedResourceName = "Glacier_F_Orb_61",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lançar Míssil] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lançar Míssil] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lançar Míssil] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lançar Míssil] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lançar Míssil)",
+		identifiedResourceName = "Glacier_F_Orb_61",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lançar Míssil] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lançar Míssil] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lançar Míssil] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lançar Míssil] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311253] = {
+		unidentifiedDisplayName = "Cristal Invernal (Rajada Estilhaçante)",
+		unidentifiedResourceName = "Glacier_F_Orb_62",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tiro Neutralizante] +20%.^000000",
+			"^0000FFRecarga de [Rajada Estilhaçante] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Rajada Estilhaçante)",
+		identifiedResourceName = "Glacier_F_Orb_62",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tiro Neutralizante] +20%.^000000",
+			"^0000FFRecarga de [Rajada Estilhaçante] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311254] = {
+		unidentifiedDisplayName = "Cristal Invernal (Expurgar)",
+		unidentifiedResourceName = "Glacier_F_Orb_63",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Expurgar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Expurgar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Expurgar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Expurgar] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Expurgar)",
+		identifiedResourceName = "Glacier_F_Orb_63",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Expurgar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Expurgar] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Expurgar] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Expurgar] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311255] = {
+		unidentifiedDisplayName = "Cristal Invernal (Impacto Cruzado)",
+		unidentifiedResourceName = "Glacier_F_Orb_64",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Impacto Cruzado] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Cruzado] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Impacto Cruzado] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Impacto Cruzado)",
+		identifiedResourceName = "Glacier_F_Orb_64",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Impacto Cruzado] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Cruzado] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Impacto Cruzado] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311256] = {
+		unidentifiedDisplayName = "Cristal Invernal (Kagerou)",
+		unidentifiedResourceName = "Glacier_F_Orb_65",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Kagerou)",
+		identifiedResourceName = "Glacier_F_Orb_65",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311257] = {
+		unidentifiedDisplayName = "Cristal Invernal (Oboro)",
+		unidentifiedResourceName = "Glacier_F_Orb_66",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Oboro)",
+		identifiedResourceName = "Glacier_F_Orb_66",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311258] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ninja)",
+		unidentifiedResourceName = "Glacier_F_Orb_67",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ninja)",
+		identifiedResourceName = "Glacier_F_Orb_67",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Turbilhão de Kunais] e [Kunai Explosiva] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311259] = {
+		unidentifiedDisplayName = "Cristal Invernal (Turbilhão de Pétalas)",
+		unidentifiedResourceName = "Glacier_F_Orb_68",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Turbilhão de Pétalas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Turbilhão de Pétalas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Turbilhão de Pétalas] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Turbilhão de Pétalas] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Turbilhão de Pétalas)",
+		identifiedResourceName = "Glacier_F_Orb_68",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Turbilhão de Pétalas] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Turbilhão de Pétalas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Turbilhão de Pétalas] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Turbilhão de Pétalas] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311260] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lança Gateira)",
+		unidentifiedResourceName = "Glacier_F_Orb_69",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lança Gateira] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lança Gateira] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Gateira] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança Gateira] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lança Gateira)",
+		identifiedResourceName = "Glacier_F_Orb_69",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lança Gateira] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lança Gateira] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Gateira] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança Gateira] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311261] = {
+		unidentifiedDisplayName = "Cristal Invernal (Meteoros de Nepeta)",
+		unidentifiedResourceName = "Glacier_F_Orb_70",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Meteoros de Nepeta] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Meteoros de Nepeta] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Meteoros de Nepeta] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Meteoros de Nepeta)",
+		identifiedResourceName = "Glacier_F_Orb_70",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Meteoros de Nepeta] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Meteoros de Nepeta] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Meteoros de Nepeta] -1,5 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311262] = {
+		unidentifiedDisplayName = "Cristal Invernal (Cometas Lunáticos)",
+		unidentifiedResourceName = "Glacier_F_Orb_71",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cometas Lunáticos] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cometas Lunáticos] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cometas Lunáticos] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cometas Lunáticos] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Cometas Lunáticos)",
+		identifiedResourceName = "Glacier_F_Orb_71",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cometas Lunáticos] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cometas Lunáticos] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cometas Lunáticos] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cometas Lunáticos] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311263] = {
+		unidentifiedDisplayName = "Cristal Invernal (Chilique de Picky)",
+		unidentifiedResourceName = "Glacier_F_Orb_72",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chilique de Picky] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chilique de Picky] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chilique de Picky] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chilique de Picky] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Chilique de Picky)",
+		identifiedResourceName = "Glacier_F_Orb_72",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chilique de Picky] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chilique de Picky] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chilique de Picky] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chilique de Picky] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311264] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ataque Selvagem)",
+		unidentifiedResourceName = "Glacier_F_Orb_73",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ataque Selvagem] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ataque Selvagem] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ataque Selvagem)",
+		identifiedResourceName = "Glacier_F_Orb_73",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ataque Selvagem] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ataque Selvagem] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311265] = {
+		unidentifiedDisplayName = "Cristal Invernal (Crux Divinum)",
+		unidentifiedResourceName = "Glacier_F_Orb_74",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Crux Divinum] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Crux Divinum] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Divinum] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Crux Divinum] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Crux Divinum)",
+		identifiedResourceName = "Glacier_F_Orb_74",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Crux Divinum] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Crux Divinum] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Divinum] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Crux Divinum] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311266] = {
+		unidentifiedDisplayName = "Cristal Invernal (Apunhalar)",
+		unidentifiedResourceName = "Glacier_F_Orb_75",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Apunhalar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Apunhalar] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Apunhalar] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Apunhalar] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Apunhalar)",
+		identifiedResourceName = "Glacier_F_Orb_75",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Apunhalar] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Apunhalar] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Apunhalar] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Apunhalar] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311267] = {
+		unidentifiedDisplayName = "Cristal Invernal (Escudo Bumerange)",
+		unidentifiedResourceName = "Glacier_F_Orb_76",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Escudo Bumerange] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Escudo Bumerange] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerange] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Escudo Bumerange] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Escudo Bumerange)",
+		identifiedResourceName = "Glacier_F_Orb_76",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Escudo Bumerange] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Escudo Bumerange] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerange] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Escudo Bumerange] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311268] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ira de Thor)",
+		unidentifiedResourceName = "Glacier_F_Orb_77",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ira de Thor] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ira de Thor] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ira de Thor] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ira de Thor] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ira de Thor)",
+		identifiedResourceName = "Glacier_F_Orb_77",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ira de Thor] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Ira de Thor] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ira de Thor] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ira de Thor] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311269] = {
+		unidentifiedDisplayName = "Cristal Invernal (Trovão de Júpiter)",
+		unidentifiedResourceName = "Glacier_F_Orb_78",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Trovão de Júpiter] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Trovão de Júpiter] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Trovão de Júpiter] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Trovão de Júpiter] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Trovão de Júpiter)",
+		identifiedResourceName = "Glacier_F_Orb_78",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Trovão de Júpiter] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Trovão de Júpiter] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Trovão de Júpiter] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Trovão de Júpiter] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311270] = {
+		unidentifiedDisplayName = "Cristal Invernal (Chuva de Meteoros)",
+		unidentifiedResourceName = "Glacier_F_Orb_79",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chuva de Meteoros] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chuva de Meteoros] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Chuva de Meteoros)",
+		identifiedResourceName = "Glacier_F_Orb_79",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chuva de Meteoros] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Chuva de Meteoros] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311271] = {
+		unidentifiedDisplayName = "Cristal Invernal (Nevasca)",
+		unidentifiedResourceName = "Glacier_F_Orb_80",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Nevasca] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Nevasca] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Nevasca] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Nevasca] +20%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Nevasca)",
+		identifiedResourceName = "Glacier_F_Orb_80",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Nevasca] +20%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Nevasca] +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Nevasca] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Nevasca] +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311272] = {
+		unidentifiedDisplayName = "Cristal Invernal (Espada Alada)",
+		unidentifiedResourceName = "Glacier_F_Orb_81",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Espada Alada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Espada Alada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espada Alada] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Espada Alada)",
+		identifiedResourceName = "Glacier_F_Orb_81",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Espada Alada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Espada Alada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espada Alada] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311273] = {
+		unidentifiedDisplayName = "Cristal Invernal (Corte e Massacre)",
+		unidentifiedResourceName = "Glacier_F_Orb_82",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Corte e Massacre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Corte e Massacre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Corte e Massacre] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Corte e Massacre)",
+		identifiedResourceName = "Glacier_F_Orb_82",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Corte e Massacre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Corte e Massacre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Corte e Massacre] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311274] = {
+		unidentifiedDisplayName = "Cristal Invernal (Cólera Esmagadora)",
+		unidentifiedResourceName = "Glacier_F_Orb_83",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cólera Esmagadora] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Cólera Esmagadora] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Cólera Esmagadora)",
+		identifiedResourceName = "Glacier_F_Orb_83",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cólera Esmagadora] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Cólera Esmagadora] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311275] = {
+		unidentifiedDisplayName = "Cristal Invernal (Dilacerar)",
+		unidentifiedResourceName = "Glacier_F_Orb_84",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Dilacerar] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Dilacerar] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dilacerar] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Dilacerar)",
+		identifiedResourceName = "Glacier_F_Orb_84",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Dilacerar] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Dilacerar] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dilacerar] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311276] = {
+		unidentifiedDisplayName = "Cristal Invernal (Golpe do Destino)",
+		unidentifiedResourceName = "Glacier_F_Orb_85",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Golpe do Destino] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Golpe do Destino] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Golpe do Destino] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Golpe do Destino)",
+		identifiedResourceName = "Glacier_F_Orb_85",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Golpe do Destino] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Golpe do Destino] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Golpe do Destino] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311277] = {
+		unidentifiedDisplayName = "Cristal Invernal (Arremessar Escudo)",
+		unidentifiedResourceName = "Glacier_F_Orb_86",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Arremessar Escudo] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Arremessar Escudo)",
+		identifiedResourceName = "Glacier_F_Orb_86",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Arremessar Escudo] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311278] = {
+		unidentifiedDisplayName = "Cristal Invernal (Crux Tempestas)",
+		unidentifiedResourceName = "Glacier_F_Orb_87",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Crux Tempestas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Crux Tempestas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Tempestas] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Crux Tempestas)",
+		identifiedResourceName = "Glacier_F_Orb_87",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Crux Tempestas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Crux Tempestas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Tempestas] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311279] = {
+		unidentifiedDisplayName = "Cristal Invernal (Machado Esmagador)",
+		unidentifiedResourceName = "Glacier_F_Orb_88",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Machado Esmagador] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Machado Esmagador] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Machado Esmagador] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Machado Esmagador)",
+		identifiedResourceName = "Glacier_F_Orb_88",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Machado Esmagador] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Machado Esmagador] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Machado Esmagador] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311280] = {
+		unidentifiedDisplayName = "Cristal Invernal (Atirar Ácido)",
+		unidentifiedResourceName = "Glacier_F_Orb_89",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Atirar Ácido] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Atirar Ácido] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar Ácido] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Atirar Ácido)",
+		identifiedResourceName = "Glacier_F_Orb_89",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Atirar Ácido] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Atirar Ácido] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar Ácido] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311281] = {
+		unidentifiedDisplayName = "Cristal Invernal (Impacto Selvagem)",
+		unidentifiedResourceName = "Glacier_F_Orb_90",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Impacto Selvagem] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Impacto Selvagem] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Selvagem] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Impacto Selvagem)",
+		identifiedResourceName = "Glacier_F_Orb_90",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Impacto Selvagem] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Impacto Selvagem] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Selvagem] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311282] = {
+		unidentifiedDisplayName = "Cristal Invernal (Talho Eterno)",
+		unidentifiedResourceName = "Glacier_F_Orb_91",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Talho Eterno] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talho Eterno] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talho Eterno] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Talho Eterno)",
+		identifiedResourceName = "Glacier_F_Orb_91",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Talho Eterno] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talho Eterno] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talho Eterno] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311283] = {
+		unidentifiedDisplayName = "Cristal Invernal (Impacto Cratera)",
+		unidentifiedResourceName = "Glacier_F_Orb_92",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Impacto Cratera] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Impacto Cratera] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cratera] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Impacto Cratera)",
+		identifiedResourceName = "Glacier_F_Orb_92",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Impacto Cratera] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Impacto Cratera] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cratera] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311285] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ofensiva Abissal)",
+		unidentifiedResourceName = "Glacier_F_Orb_93",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ofensiva Abissal] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Ofensiva Abissal] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Abissal] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ofensiva Abissal)",
+		identifiedResourceName = "Glacier_F_Orb_93",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ofensiva Abissal] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Ofensiva Abissal] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Abissal] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311286] = {
+		unidentifiedDisplayName = "Cristal Invernal (Disparo em Cadeia)",
+		unidentifiedResourceName = "Glacier_F_Orb_94",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo em Cadeia] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Disparo em Cadeia] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo em Cadeia] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Disparo em Cadeia)",
+		identifiedResourceName = "Glacier_F_Orb_94",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo em Cadeia] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Disparo em Cadeia] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo em Cadeia] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311287] = {
+		unidentifiedDisplayName = "Cristal Invernal (Rajada Frenética)",
+		unidentifiedResourceName = "Glacier_F_Orb_95",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Rajada Frenética] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Rajada Frenética] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Rajada Frenética] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Rajada Frenética)",
+		identifiedResourceName = "Glacier_F_Orb_95",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Rajada Frenética] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Rajada Frenética] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Rajada Frenética] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311288] = {
+		unidentifiedDisplayName = "Cristal Invernal (Fenda do Abismo)",
+		unidentifiedResourceName = "Glacier_F_Orb_96",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Fenda do Abismo] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Fenda do Abismo] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Fenda do Abismo)",
+		identifiedResourceName = "Glacier_F_Orb_96",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Fenda do Abismo] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Fenda do Abismo] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311289] = {
+		unidentifiedDisplayName = "Cristal Invernal (Esfaquear)",
+		unidentifiedResourceName = "Glacier_F_Orb_97",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Esfaquear] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Esfaquear] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esfaquear] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Esfaquear)",
+		identifiedResourceName = "Glacier_F_Orb_97",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Esfaquear] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Esfaquear] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esfaquear] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311290] = {
+		unidentifiedDisplayName = "Cristal Invernal (Fogo)",
+		unidentifiedResourceName = "Glacier_F_Orb_98",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Vereda Floral Incandescente] e [Flecha Escarlate] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Vereda Floral Incandescente] e [Flecha Escarlate] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vereda Floral Incandescente] e [Flecha Escarlate] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Fogo)",
+		identifiedResourceName = "Glacier_F_Orb_98",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Vereda Floral Incandescente] e [Flecha Escarlate] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Vereda Floral Incandescente] e [Flecha Escarlate] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vereda Floral Incandescente] e [Flecha Escarlate] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311291] = {
+		unidentifiedDisplayName = "Cristal Invernal (Água)",
+		unidentifiedResourceName = "Glacier_F_Orb_99",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cascata de Cristal] e [Gelo Cortante] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Cascata de Cristal] e [Gelo Cortante] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cascata de Cristal] e [Gelo Cortante] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Água)",
+		identifiedResourceName = "Glacier_F_Orb_99",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cascata de Cristal] e [Gelo Cortante] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Cascata de Cristal] e [Gelo Cortante] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cascata de Cristal] e [Gelo Cortante] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311292] = {
+		unidentifiedDisplayName = "Cristal Invernal (Vento)",
+		unidentifiedResourceName = "Glacier_F_Orb_100",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ciclone] e [Lufada de Vento] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Ciclone] e [Lufada de Vento] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ciclone] e [Lufada de Vento] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Vento)",
+		identifiedResourceName = "Glacier_F_Orb_100",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ciclone] e [Lufada de Vento] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Ciclone] e [Lufada de Vento] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ciclone] e [Lufada de Vento] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311293] = {
+		unidentifiedDisplayName = "Cristal Invernal (Terra)",
+		unidentifiedResourceName = "Glacier_F_Orb_101",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Stratum Tremor] e [Deslize de Pedras] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Stratum Tremor] e [Deslize de Pedras] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Stratum Tremor] e [Deslize de Pedras] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Terra)",
+		identifiedResourceName = "Glacier_F_Orb_101",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Stratum Tremor] e [Deslize de Pedras] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Stratum Tremor] e [Deslize de Pedras] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Stratum Tremor] e [Deslize de Pedras] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311294] = {
+		unidentifiedDisplayName = "Cristal Invernal (Ilusionismo)",
+		unidentifiedResourceName = "Glacier_F_Orb_102",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Portal do Submundo] e [Espíritos Ancestrais] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Portal do Submundo] e [Espíritos Ancestrais] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Portal do Submundo] e [Espíritos Ancestrais] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Ilusionismo)",
+		identifiedResourceName = "Glacier_F_Orb_102",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Portal do Submundo] e [Espíritos Ancestrais] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Portal do Submundo] e [Espíritos Ancestrais] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Portal do Submundo] e [Espíritos Ancestrais] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311295] = {
+		unidentifiedDisplayName = "Cristal Invernal (Execução Aurora)",
+		unidentifiedResourceName = "Glacier_F_Orb_103",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Execução Aurora] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Execução Aurora] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Execução Aurora] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Execução Aurora)",
+		identifiedResourceName = "Glacier_F_Orb_103",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Execução Aurora] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Execução Aurora] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Execução Aurora] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311296] = {
+		unidentifiedDisplayName = "Cristal Invernal (Conflagração)",
+		unidentifiedResourceName = "Glacier_F_Orb_104",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Conflagração] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Conflagração] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Conflagração] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Conflagração)",
+		identifiedResourceName = "Glacier_F_Orb_104",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Conflagração] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Conflagração] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Conflagração] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311297] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tormenta)",
+		unidentifiedResourceName = "Glacier_F_Orb_105",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tormenta] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tormenta] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tormenta] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tormenta)",
+		identifiedResourceName = "Glacier_F_Orb_105",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tormenta] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tormenta] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tormenta] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311298] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tremor de Terra)",
+		unidentifiedResourceName = "Glacier_F_Orb_106",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tremor de Terra] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tremor de Terra] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tremor de Terra] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tremor de Terra)",
+		identifiedResourceName = "Glacier_F_Orb_106",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Aegis Inferi] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Aegis Inferi] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Aegis Inferi] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311299] = {
+		unidentifiedDisplayName = "Cristal Invernal (Poço Venenoso)",
+		unidentifiedResourceName = "Glacier_F_Orb_107",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Poço Venenoso] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Poço Venenoso] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Poço Venenoso] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Poço Venenoso)",
+		identifiedResourceName = "Glacier_F_Orb_107",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Poço Venenoso] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Poço Venenoso] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Poço Venenoso] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311300] = {
+		unidentifiedDisplayName = "Cristal Invernal (Flamen)",
+		unidentifiedResourceName = "Glacier_F_Orb_108",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Flamen] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Flamen] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Flamen] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Flamen)",
+		identifiedResourceName = "Glacier_F_Orb_108",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Flamen] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Flamen] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Flamen] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311301] = {
+		unidentifiedDisplayName = "Cristal Invernal (Arbitrium)",
+		unidentifiedResourceName = "Glacier_F_Orb_109",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Arbitrium] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Arbitrium] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arbitrium] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Arbitrium)",
+		identifiedResourceName = "Glacier_F_Orb_109",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Arbitrium] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Arbitrium] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arbitrium] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311302] = {
+		unidentifiedDisplayName = "Cristal Invernal (Petitio)",
+		unidentifiedResourceName = "Glacier_F_Orb_110",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Petitio] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Petitio] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Petitio] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Petitio)",
+		identifiedResourceName = "Glacier_F_Orb_110",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Petitio] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Petitio] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Petitio] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311303] = {
+		unidentifiedDisplayName = "Cristal Invernal (Inquisição)",
+		unidentifiedResourceName = "Glacier_F_Orb_111",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Golpe Pantocrator] e [Soco Guilhotina] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Golpe Pantocrator] e [Soco Guilhotina] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Golpe Pantocrator] e [Soco Guilhotina] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Inquisição)",
+		identifiedResourceName = "Glacier_F_Orb_111",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Golpe Pantocrator] e [Soco Guilhotina] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Golpe Pantocrator] e [Soco Guilhotina] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Golpe Pantocrator] e [Soco Guilhotina] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311304] = {
+		unidentifiedDisplayName = "Cristal Invernal (Julgamento)",
+		unidentifiedResourceName = "Glacier_F_Orb_112",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Toque Intercessor] e [Veredicto] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Toque Intercessor] e [Veredicto] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Veredicto] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Julgamento)",
+		identifiedResourceName = "Glacier_F_Orb_112",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Toque Intercessor] e [Veredicto] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Toque Intercessor] e [Veredicto] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Veredicto] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311305] = {
+		unidentifiedDisplayName = "Cristal Invernal (Sentença)",
+		unidentifiedResourceName = "Glacier_F_Orb_113",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Palma Fervorosa] e [Fogueira Espiritual] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Palma Fervorosa] e [Fogueira Espiritual] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Palma Fervorosa] e [Fogueira Espiritual] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Sentença)",
+		identifiedResourceName = "Glacier_F_Orb_113",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Palma Fervorosa] e [Fogueira Espiritual] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Palma Fervorosa] e [Fogueira Espiritual] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Palma Fervorosa] e [Fogueira Espiritual] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311306] = {
+		unidentifiedDisplayName = "Cristal Invernal (Técnica)",
+		unidentifiedResourceName = "Glacier_F_Orb_114",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Técnica da Mão Explosiva] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Técnica)",
+		identifiedResourceName = "Glacier_F_Orb_114",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Técnica da Mão Explosiva] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311307] = {
+		unidentifiedDisplayName = "Cristal Invernal (Águia)",
+		unidentifiedResourceName = "Glacier_F_Orb_115",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Mergulho Aéreo] e [Aterrissagem] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Mergulho Aéreo] e [Aterrissagem] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Mergulho Aéreo] e [Aterrissagem] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Águia)",
+		identifiedResourceName = "Glacier_F_Orb_115",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Mergulho Aéreo] e [Aterrissagem] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Mergulho Aéreo] e [Aterrissagem] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Mergulho Aéreo] e [Aterrissagem] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311308] = {
+		unidentifiedDisplayName = "Cristal Invernal (Vendaval de Flechas)",
+		unidentifiedResourceName = "Glacier_F_Orb_116",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Vendaval de Flechas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Vendaval de Flechas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Vendaval de Flechas)",
+		identifiedResourceName = "Glacier_F_Orb_116",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Vendaval de Flechas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Vendaval de Flechas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311309] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tiro Crescente)",
+		unidentifiedResourceName = "Glacier_F_Orb_117",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tiro Crescente] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tiro Crescente] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tiro Crescente] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tiro Crescente)",
+		identifiedResourceName = "Glacier_F_Orb_117",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tiro Crescente] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tiro Crescente] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tiro Crescente] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311310] = {
+		unidentifiedDisplayName = "Cristal Invernal (Fúria Estridente)",
+		unidentifiedResourceName = "Glacier_F_Orb_118",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Fúria Estridente] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Fúria Estridente] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria Estridente] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Fúria Estridente)",
+		identifiedResourceName = "Glacier_F_Orb_118",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Fúria Estridente] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Fúria Estridente] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria Estridente] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311311] = {
+		unidentifiedDisplayName = "Cristal Invernal (Disparo Rítmico)",
+		unidentifiedResourceName = "Glacier_F_Orb_119",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Disparo Rítmico] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Disparo Rítmico] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Disparo Rítmico)",
+		identifiedResourceName = "Glacier_F_Orb_119",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Disparo Rítmico] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Disparo Rítmico] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311312] = {
+		unidentifiedDisplayName = "Cristal Invernal (Atirar Rosas)",
+		unidentifiedResourceName = "Glacier_F_Orb_120",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Atirar Rosas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Atirar Rosas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar Rosas] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Atirar Rosas)",
+		identifiedResourceName = "Glacier_F_Orb_120",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Atirar Rosas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Atirar Rosas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar Rosas] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311313] = {
+		unidentifiedDisplayName = "Cristal Invernal (Dia)",
+		unidentifiedResourceName = "Glacier_F_Orb_121",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Entardecer] e [Explosão Crepuscular] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Entardecer] e [Explosão Crepuscular] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Entardecer] e [Explosão Crepuscular] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Dia)",
+		identifiedResourceName = "Glacier_F_Orb_121",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Entardecer] e [Explosão Crepuscular] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Entardecer] e [Explosão Crepuscular] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Entardecer] e [Explosão Crepuscular] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311314] = {
+		unidentifiedDisplayName = "Cristal Invernal (Noite)",
+		unidentifiedResourceName = "Glacier_F_Orb_122",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chute Meia-Lua] e [Alvorada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Chute Meia-Lua] e [Alvorada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Meia-Lua] e [Alvorada] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Noite)",
+		identifiedResourceName = "Glacier_F_Orb_122",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chute Meia-Lua] e [Alvorada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Chute Meia-Lua] e [Alvorada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Meia-Lua] e [Alvorada] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311315] = {
+		unidentifiedDisplayName = "Cristal Invernal (Céu)",
+		unidentifiedResourceName = "Glacier_F_Orb_123",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Constelação] e [Explosão Galática] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Constelação] e [Explosão Galática] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Constelação] e [Explosão Galática] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Céu)",
+		identifiedResourceName = "Glacier_F_Orb_123",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Constelação] e [Explosão Galática] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Constelação] e [Explosão Galática] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Constelação] e [Explosão Galática] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311316] = {
+		unidentifiedDisplayName = "Cristal Invernal (Talismã do Dragão)",
+		unidentifiedResourceName = "Glacier_F_Orb_124",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Talismã do Dragão] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã do Dragão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Talismã do Dragão)",
+		identifiedResourceName = "Glacier_F_Orb_124",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Talismã do Dragão] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã do Dragão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311317] = {
+		unidentifiedDisplayName = "Cristal Invernal (Talismã do Tigre)",
+		unidentifiedResourceName = "Glacier_F_Orb_125",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Talismã do Dragão] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã do Dragão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Talismã do Tigre)",
+		identifiedResourceName = "Glacier_F_Orb_125",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Talismã do Tigre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã do Tigre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã do Tigre] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311318] = {
+		unidentifiedDisplayName = "Cristal Invernal (Talismã da Fênix)",
+		unidentifiedResourceName = "Glacier_F_Orb_126",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Talismã da Fênix] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã da Fênix] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã da Fênix] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Talismã da Fênix)",
+		identifiedResourceName = "Glacier_F_Orb_126",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Talismã da Fênix] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã da Fênix] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã da Fênix] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311319] = {
+		unidentifiedDisplayName = "Cristal Invernal (Talismã do Jabuti)",
+		unidentifiedResourceName = "Glacier_F_Orb_127",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Talismã do Jabuti] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã do Jabuti] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã do Jabuti] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Talismã do Jabuti)",
+		identifiedResourceName = "Glacier_F_Orb_127",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Talismã do Jabuti] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Talismã do Jabuti] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Talismã do Jabuti] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311320] = {
+		unidentifiedDisplayName = "Cristal Invernal (Exorcizar Assombração)",
+		unidentifiedResourceName = "Glacier_F_Orb_128",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Exorcizar Assombração] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Exorcizar Assombração] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Exorcizar Assombração] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Exorcizar Assombração)",
+		identifiedResourceName = "Glacier_F_Orb_128",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Exorcizar Assombração] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Exorcizar Assombração] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Exorcizar Assombração] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311321] = {
+		unidentifiedDisplayName = "Cristal Invernal (Trevas)",
+		unidentifiedResourceName = "Glacier_F_Orb_129",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Dança das Trevas] e [Centelha das Trevas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Dança das Trevas] e [Centelha das Trevas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dança das Trevas] e [Centelha das Trevas] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Trevas)",
+		identifiedResourceName = "Glacier_F_Orb_129",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Dança das Trevas] e [Centelha das Trevas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Dança das Trevas] e [Centelha das Trevas] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dança das Trevas] e [Centelha das Trevas] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311322] = {
+		unidentifiedDisplayName = "Cristal Invernal (Huuma)",
+		unidentifiedResourceName = "Glacier_F_Orb_130",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Huuma Aderente] e [Huuma Andarilho] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Huuma Aderente] e [Huuma Andarilho] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Huuma Aderente] e [Huuma Andarilho] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Huuma)",
+		identifiedResourceName = "Glacier_F_Orb_130",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Huuma Aderente] e [Huuma Andarilho] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Huuma Aderente] e [Huuma Andarilho] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Huuma Aderente] e [Huuma Andarilho] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311323] = {
+		unidentifiedDisplayName = "Cristal Invernal (Kunai)",
+		unidentifiedResourceName = "Glacier_F_Orb_131",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Kunai Distorcida] e [Kunai Refratada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Kunai Distorcida] e [Kunai Refratada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Kunai Distorcida] e [Kunai Refratada] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Kunai)",
+		identifiedResourceName = "Glacier_F_Orb_131",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Kunai Distorcida] e [Kunai Refratada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Kunai Distorcida] e [Kunai Refratada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Kunai Distorcida] e [Kunai Refratada] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311324] = {
+		unidentifiedDisplayName = "Cristal Invernal (Mahou)",
+		unidentifiedResourceName = "Glacier_F_Orb_132",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] [Mahou da Trovoada] [Mahou do Dragão Áureo] e [Mahou da Escuridão] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] [Mahou da Trovoada] [Mahou do Dragão Áureo] e [Mahou da Escuridão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] [Mahou da Trovoada] [Mahou do Dragão Áureo] e [Mahou da Escuridão] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Mahou)",
+		identifiedResourceName = "Glacier_F_Orb_132",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] [Mahou da Trovoada] [Mahou do Dragão Áureo] e [Mahou da Escuridão] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] [Mahou da Trovoada] [Mahou do Dragão Áureo] e [Mahou da Escuridão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] [Mahou da Trovoada] [Mahou do Dragão Áureo] e [Mahou da Escuridão] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311325] = {
+		unidentifiedDisplayName = "Cristal Invernal (Vigília Noturna)",
+		unidentifiedResourceName = "Glacier_F_Orb_133",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Vigília Noturna] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Vigília Noturna] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vigília Noturna] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Vigília Noturna)",
+		identifiedResourceName = "Glacier_F_Orb_133",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Vigília Noturna] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Vigília Noturna] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vigília Noturna] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311326] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tiro Único)",
+		unidentifiedResourceName = "Glacier_F_Orb_134",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Tiro Único] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tiro Único] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tiro Único] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tiro Único)",
+		identifiedResourceName = "Glacier_F_Orb_134",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Tiro Único] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Tiro Único] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tiro Único] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311327] = {
+		unidentifiedDisplayName = "Cristal Invernal (Atirar em Espiral)",
+		unidentifiedResourceName = "Glacier_F_Orb_135",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Atirar em Espiral] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Atirar em Espiral] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Atirar em Espiral)",
+		identifiedResourceName = "Glacier_F_Orb_135",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Atirar em Espiral] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Atirar em Espiral] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311328] = {
+		unidentifiedDisplayName = "Cristal Invernal (Artilharia Pesada)",
+		unidentifiedResourceName = "Glacier_F_Orb_136",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Artilharia Pesada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Artilharia Pesada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Artilharia Pesada)",
+		identifiedResourceName = "Glacier_F_Orb_136",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Artilharia Pesada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Artilharia Pesada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311329] = {
+		unidentifiedDisplayName = "Cristal Invernal (Fogo de Supressão)",
+		unidentifiedResourceName = "Glacier_F_Orb_137",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Fogo de Supressão]e +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Fogo de Supressão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fogo de Supressão]e +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Fogo de Supressão)",
+		identifiedResourceName = "Glacier_F_Orb_137",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Fogo de Supressão]e +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Fogo de Supressão] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fogo de Supressão]e +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311330] = {
+		unidentifiedDisplayName = "Cristal Invernal (Explosivo)",
+		unidentifiedResourceName = "Glacier_F_Orb_138",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Arremessar Explosivo] [Explosão Gradual] e [Detonação Total] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Arremessar Explosivo] [Explosão Gradual] e [Detonação Total] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arremessar Explosivo] [Explosão Gradual] e [Detonação Total] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Explosivo)",
+		identifiedResourceName = "Glacier_F_Orb_138",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Arremessar Explosivo] [Explosão Gradual] e [Detonação Total] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Arremessar Explosivo] [Explosão Gradual] e [Detonação Total] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Arremessar Explosivo] [Explosão Gradual] e [Detonação Total] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311331] = {
+		unidentifiedDisplayName = "Cristal Invernal (Unhas de Tigre)",
+		unidentifiedResourceName = "Glacier_F_Orb_139",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Unhas de Tigre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Unhas de Tigre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Unhas de Tigre] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Unhas de Tigre)",
+		identifiedResourceName = "Glacier_F_Orb_139",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Unhas de Tigre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Unhas de Tigre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Unhas de Tigre] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311332] = {
+		unidentifiedDisplayName = "Cristal Invernal (Patada Felina)",
+		unidentifiedResourceName = "Glacier_F_Orb_140",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Patada Felina] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Patada Felina] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Patada Felina] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Patada Felina)",
+		identifiedResourceName = "Glacier_F_Orb_140",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Patada Felina] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Patada Felina] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Patada Felina] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311333] = {
+		unidentifiedDisplayName = "Cristal Invernal (Brisa Silvestre)",
+		unidentifiedResourceName = "Glacier_F_Orb_141",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Brisa Silvestre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Brisa Silvestre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Brisa Silvestre] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Brisa Silvestre)",
+		identifiedResourceName = "Glacier_F_Orb_141",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Brisa Silvestre] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Brisa Silvestre] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Brisa Silvestre] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311334] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lança Galhada)",
+		unidentifiedResourceName = "Glacier_F_Orb_142",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lança Galhada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Lança Galhada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Galhada] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lança Galhada)",
+		identifiedResourceName = "Glacier_F_Orb_142",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lança Galhada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Lança Galhada] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Galhada] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311335] = {
+		unidentifiedDisplayName = "Cristal Invernal (Golpe de Tyr)",
+		unidentifiedResourceName = "Glacier_F_Orb_143",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Golpe de Tyr] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Golpe de Tyr] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Golpe de Tyr)",
+		identifiedResourceName = "Glacier_F_Orb_143",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Golpe de Tyr] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Golpe de Tyr] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311336] = {
+		unidentifiedDisplayName = "Cristal Invernal (Lâminas Devastadoras)",
+		unidentifiedResourceName = "Glacier_F_Orb_144",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Lâminas Devastadoras] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Lâminas Devastadoras] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Devastadoras] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Lâminas Devastadoras)",
+		identifiedResourceName = "Glacier_F_Orb_144",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Lâminas Devastadoras] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Lâminas Devastadoras] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Devastadoras] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311337] = {
+		unidentifiedDisplayName = "Cristal Invernal (Choque Violento)",
+		unidentifiedResourceName = "Glacier_F_Orb_145",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Choque Violento] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Choque Violento] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Choque Violento] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Choque Violento)",
+		identifiedResourceName = "Glacier_F_Orb_145",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Choque Violento] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Choque Violento] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Choque Violento] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311338] = {
+		unidentifiedDisplayName = "Cristal Invernal (Cortar em Espiral)",
+		unidentifiedResourceName = "Glacier_F_Orb_146",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Cortar em Espiral] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Cortar em Espiral] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cortar em Espiral] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Cortar em Espiral)",
+		identifiedResourceName = "Glacier_F_Orb_146",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Cortar em Espiral] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Cortar em Espiral] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Cortar em Espiral] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311339] = {
+		unidentifiedDisplayName = "Cristal Invernal (Hipermagia)",
+		unidentifiedResourceName = "Glacier_F_Orb_147",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Hipermagia)",
+		identifiedResourceName = "Glacier_F_Orb_147",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311340] = {
+		unidentifiedDisplayName = "Cristal Invernal (Hiperfeitiço)",
+		unidentifiedResourceName = "Glacier_F_Orb_148",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Ira da Terra] e [Esquife Congelante] Nova +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Ira da Terra] e [Esquife Congelante] Nova +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ira da Terra] e [Esquife Congelante] Nova +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Hiperfeitiço)",
+		identifiedResourceName = "Glacier_F_Orb_148",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Ira da Terra] e [Esquife Congelante] Nova +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Ira da Terra] e [Esquife Congelante] Nova +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ira da Terra] e [Esquife Congelante] Nova +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311341] = {
+		unidentifiedDisplayName = "Cristal Invernal (Hiperencanto)",
+		unidentifiedResourceName = "Glacier_F_Orb_149",
+		unidentifiedDescriptionName = {
+			"^0000FFDano de [Espectro Napalm] e [Zona Gravitacional] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Espectro Napalm] e [Zona Gravitacional] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espectro Napalm] e [Zona Gravitacional] +10%.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Hiperencanto)",
+		identifiedResourceName = "Glacier_F_Orb_149",
+		identifiedDescriptionName = {
+			"^0000FFDano de [Espectro Napalm] e [Zona Gravitacional] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Espectro Napalm] e [Zona Gravitacional] +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espectro Napalm] e [Zona Gravitacional] +10%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311342] = {
+		unidentifiedDisplayName = "Cristal Invernal (ATQ)",
+		unidentifiedResourceName = "Glacier_F_Orb_150",
+		unidentifiedDescriptionName = {
+			"A cada 3 refinos:",
+			"^0000FFATQ +20.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFP.ATQ +5.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (ATQ)",
+		identifiedResourceName = "Glacier_F_Orb_150",
+		identifiedDescriptionName = {
+			"A cada 3 refinos:",
+			"^0000FFATQ +20.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFP.ATQ +5.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311343] = {
+		unidentifiedDisplayName = "Cristal Invernal (ATQM)",
+		unidentifiedResourceName = "Glacier_F_Orb_151",
+		unidentifiedDescriptionName = {
+			"A cada 3 refinos:",
+			"^0000FFATQM +20.^000000",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFS.ATQM +5.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico de todas as propriedades +10% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (ATQM)",
+		identifiedResourceName = "Glacier_F_Orb_151",
+		identifiedDescriptionName = {
+			"A cada 3 refinos:",
+			"^0000FFATQM +20.^000000",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFS.ATQM +5.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico de todas as propriedades +10% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311344] = {
+		unidentifiedDisplayName = "Cristal Invernal (CRÍT)",
+		unidentifiedResourceName = "Glacier_F_Orb_152",
+		unidentifiedDescriptionName = {
+			"A cada 3 refinos:",
+			"^0000FFCRÍT +4.^000000",
+			"^0000FFDano crítico +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFT.CRÍT +5.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano crítico +10% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (CRÍT)",
+		identifiedResourceName = "Glacier_F_Orb_152",
+		identifiedDescriptionName = {
+			"A cada 3 refinos:",
+			"^0000FFCRÍT +4.^000000",
+			"^0000FFDano crítico +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFT.CRÍT +5.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano crítico +10% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311345] = {
+		unidentifiedDisplayName = "Cristal Invernal (Conjuração)",
+		unidentifiedResourceName = "Glacier_F_Orb_153",
+		unidentifiedDescriptionName = {
+			"^0000FFConjuração variável -7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFConjuração variável -5% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Conjuração)",
+		identifiedResourceName = "Glacier_F_Orb_153",
+		identifiedDescriptionName = {
+			"^0000FFConjuração variável -7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFConjuração variável -5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311346] = {
+		unidentifiedDisplayName = "Cristal Invernal (Velocidade)",
+		unidentifiedResourceName = "Glacier_F_Orb_154",
+		unidentifiedDescriptionName = {
+			"^0000FFVelocidade de ataque +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFVelocidade de ataque +1.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Velocidade)",
+		identifiedResourceName = "Glacier_F_Orb_154",
+		identifiedDescriptionName = {
+			"^0000FFVelocidade de ataque +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFVelocidade de ataque +1.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311347] = {
+		unidentifiedDisplayName = "Cristal Invernal (Pós-conjuração)",
+		unidentifiedResourceName = "Glacier_F_Orb_155",
+		unidentifiedDescriptionName = {
+			"^0000FFPós-conjuração -7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -8% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFPós-conjuração -5% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Pós-conjuração)",
+		identifiedResourceName = "Glacier_F_Orb_155",
+		identifiedDescriptionName = {
+			"^0000FFPós-conjuração -7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -8% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFPós-conjuração -5% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311348] = {
+		unidentifiedDisplayName = "Cristal Invernal (Raça Física)",
+		unidentifiedResourceName = "Glacier_F_Orb_156",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico contra todas as raças de monstros +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todas as raças de monstros +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico contra todas as raças de monstros +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Raça Física)",
+		identifiedResourceName = "Glacier_F_Orb_156",
+		identifiedDescriptionName = {
+			"^0000FFDano físico contra todas as raças de monstros +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todas as raças de monstros +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico contra todas as raças de monstros +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311349] = {
+		unidentifiedDisplayName = "Cristal Invernal (Raça Mágica)",
+		unidentifiedResourceName = "Glacier_F_Orb_157",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico contra todas as raças de monstros +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todas as raças de monstros +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico contra todas as raças de monstros +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Raça Mágica)",
+		identifiedResourceName = "Glacier_F_Orb_157",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico contra todas as raças de monstros +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todas as raças de monstros +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico contra todas as raças de monstros +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311350] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tamanho Físico)",
+		unidentifiedResourceName = "Glacier_F_Orb_158",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico contra todos os Tamanhos +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os Tamanhos +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico contra todos os Tamanhos +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tamanho Físico)",
+		identifiedResourceName = "Glacier_F_Orb_158",
+		identifiedDescriptionName = {
+			"^0000FFDano físico contra todos os Tamanhos +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os Tamanhos +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico contra todos os Tamanhos +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311351] = {
+		unidentifiedDisplayName = "Cristal Invernal (Tamanho Mágico)",
+		unidentifiedResourceName = "Glacier_F_Orb_159",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico contra todos os Tamanhos +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os Tamanhos +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico contra todos os Tamanhos +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Tamanho Mágico)",
+		identifiedResourceName = "Glacier_F_Orb_159",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico contra todos os Tamanhos +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os Tamanhos +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico contra todos os Tamanhos +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311352] = {
+		unidentifiedDisplayName = "Cristal Invernal (Propriedade Física)",
+		unidentifiedResourceName = "Glacier_F_Orb_160",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico contra oponentes de todas as Propriedades +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra oponentes de todas as Propriedades +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico contra oponentes de todas as Propriedades +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Propriedade Física)",
+		identifiedResourceName = "Glacier_F_Orb_160",
+		identifiedDescriptionName = {
+			"^0000FFDano físico contra oponentes de todas as Propriedades +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra oponentes de todas as Propriedades +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano físico contra oponentes de todas as Propriedades +15% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[311353] = {
+		unidentifiedDisplayName = "Cristal Invernal (Propriedade Mágica)",
+		unidentifiedResourceName = "Glacier_F_Orb_161",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico contra oponentes de todas as Propriedades +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra oponentes de todas as Propriedades +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico contra oponentes de todas as Propriedades +15% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal Invernal (Propriedade Mágica)",
+		identifiedResourceName = "Glacier_F_Orb_161",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico contra oponentes de todas as Propriedades +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra oponentes de todas as Propriedades +10% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armas do tipo^000000",
+			"^FA4E09Espada de Duas Mãos,",
+			"Lança de Duas Mãos,",
+			"Cajado de Duas Mãos,",
+			"Machado de Duas Mãos,",
+			"Katar, Arco, Pistola,",
+			"Shuriken Huuma, Rifle,",
+			"Espingarda, Metralhadora",
+			"ou Lança-Granadas^000000",
+			"^0000FFDano mágico contra oponentes de todas as Propriedades +15% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -339521,424 +348603,770 @@ tbl = {
 		costume = false
 	},
 	[311443] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Sopro Dracônico)",
+		unidentifiedDisplayName = "Cristal Invernal (Baforada Draconiana)",
 		unidentifiedResourceName = "Glacier_F_Orb_141",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Sopro Dracônico em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Sopro Dracônico em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Sopro Dracônico em 10%."
+			"^0000FFDano de [Baforada Draconiana] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Baforada Draconiana] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Baforada Draconiana] +5%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Sopro Dracônico)",
+		identifiedDisplayName = "Cristal Invernal (Baforada Draconiana)",
 		identifiedResourceName = "Glacier_F_Orb_141",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Sopro Dracônico em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Sopro Dracônico em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Sopro Dracônico em 10%."
+			"^0000FFDano de [Baforada Draconiana] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Baforada Draconiana] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Baforada Draconiana] +5%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311444] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Explosão de Faísca)",
+		unidentifiedDisplayName = "Cristal Invernal (Explosão de Faíscas)",
 		unidentifiedResourceName = "Glacier_F_Orb_141",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Explosão de Faísca em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Explosão de Faísca em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Explosão de Faísca em 10%."
+			"^0000FFDano de [Explosão de Faíscas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão de Faíscas] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Explosão de Faíscas] +5%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Explosão de Faísca)",
+		identifiedDisplayName = "Cristal Invernal (Explosão de Faíscas)",
 		identifiedResourceName = "Glacier_F_Orb_141",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Explosão de Faísca em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Explosão de Faísca em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Explosão de Faísca em 10%."
+			"^0000FFDano de [Explosão de Faíscas] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão de Faíscas] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Explosão de Faíscas] +5%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311445] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Laser Triplo)",
+		unidentifiedDisplayName = "Cristal Invernal (Laser Triplo)",
 		unidentifiedResourceName = "Glacier_F_Orb_141",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Laser Triplo em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Laser Triplo em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Laser Triplo em 10%."
+			"^0000FFDano de [Laser Triplo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Laser Triplo] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Laser Triplo] +5%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Laser Triplo)",
+		identifiedDisplayName = "Cristal Invernal (Laser Triplo)",
 		identifiedResourceName = "Glacier_F_Orb_141",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Laser Triplo em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Laser Triplo em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Laser Triplo em 10%."
+			"^0000FFDano de [Laser Triplo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Laser Triplo] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Laser Triplo] +5%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311446] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Golpe Poderoso)",
+		unidentifiedDisplayName = "Cristal Invernal (Poder Esmagador)",
 		unidentifiedResourceName = "Glacier_F_Orb_141",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Golpe Poderoso em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Golpe Poderoso em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Golpe Poderoso em 10%."
+			"^0000FFDano de [Poder Esmagador] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Poder Esmagador] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Poder Esmagador] +5%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Golpe Poderoso)",
+		identifiedDisplayName = "Cristal Invernal (Poder Esmagador)",
 		identifiedResourceName = "Glacier_F_Orb_141",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Golpe Poderoso em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Golpe Poderoso em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Golpe Poderoso em 10%."
+			"^0000FFDano de [Poder Esmagador] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Poder Esmagador] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Poder Esmagador] +5%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311447] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Pó Explosivo)",
+		unidentifiedDisplayName = "Cristal Invernal (Pólen Explosivo)",
 		unidentifiedResourceName = "Glacier_F_Orb_141",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Pó Explosivo em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Pó Explosivo em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Pó Explosivo em 10%."
+			"^0000FFDano de [Pólen Explosivo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pólen Explosivo] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Pólen Explosivo] +5%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Pó Explosivo)",
+		identifiedDisplayName = "Cristal Invernal (Pólen Explosivo)",
 		identifiedResourceName = "Glacier_F_Orb_141",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Pó Explosivo em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Pó Explosivo em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Pó Explosivo em 10%."
+			"^0000FFDano de [Pólen Explosivo] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pólen Explosivo] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Pólen Explosivo] +5%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311448] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Mayhemic Thorns)",
+		unidentifiedDisplayName = "Cristal Invernal (Espinhos Furiosos)",
 		unidentifiedResourceName = "Glacier_F_Orb_141",
 		unidentifiedDescriptionName = {
-			"Aumenta o dano de Mayhemic Thorns em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Mayhemic Thorns em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Mayhemic Thorns em 10%."
+			"^0000FFDano de [Espinhos Furiosos] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espinhos Furiosos] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Espinhos Furiosos] +5%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Mayhemic Thorns)",
+		identifiedDisplayName = "Cristal Invernal (Espinhos Furiosos)",
 		identifiedResourceName = "Glacier_F_Orb_141",
 		identifiedDescriptionName = {
-			"Aumenta o dano de Mayhemic Thorns em 10%.",
-			"A cada 4 níveis de refino, aumenta adicionalmente o dano de Mayhemic Thorns em 5%.",
-			"Com refino +9, aumenta adicionalmente o dano de Mayhemic Thorns em 10%."
+			"^0000FFDano de [Espinhos Furiosos] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espinhos Furiosos] +10% adicional.^000000",
+			"--------------------------",
+			"A cada 4 refinos:",
+			"^0000FFDano de [Espinhos Furiosos] +5%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311449] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 1",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Físico 1)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"ATK + 15, aumenta o dano físico corpo a corpo e à distância em 3%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 3%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 3%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 1%, ATK + 15.",
-			"[Grau C] Com refino +9, P.ATK + 3.",
-			"[Grau B] Com refino +11, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 10%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 10%."
+			"^0000FFATQ +15.^000000",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +3%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -3%.^000000",
+			"^0000FFConjuração variável -3%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +1%.^000000",
+			"^0000FFATQ +15 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 1",
+		identifiedDisplayName = "Cristal Invernal (Grau Físico 1)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"ATK + 15, aumenta o dano físico corpo a corpo e à distância em 3%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 3%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 3%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 1%, ATK + 15.",
-			"[Grau C] Com refino +9, P.ATK + 3.",
-			"[Grau B] Com refino +11, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 10%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 10%."
+			"^0000FFATQ +15.^000000",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +3%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -3%.^000000",
+			"^0000FFConjuração variável -3%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +1%.^000000",
+			"^0000FFATQ +15 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311450] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 2",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Físico 2)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"ATK + 30, aumenta o dano físico corpo a corpo e à distância em 6%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 6%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 6%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 2%, ATK + 30.",
-			"[Grau C] Com refino +7, P.ATK + 3.",
-			"[Grau B] Com refino +9, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 12%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 12%."
+			"^0000FFATQ +30.^000000",
+			"^0000FFDano físico à distância +6%.^000000",
+			"^0000FFDano físico corpo a corpo +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +6%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -6%.^000000",
+			"^0000FFConjuração variável -6%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +2%.^000000",
+			"^0000FFATQ +30 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +7 ou mais:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +12%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +12%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 2",
+		identifiedDisplayName = "Cristal Invernal (Grau Físico 2)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"ATK + 30, aumenta o dano físico corpo a corpo e à distância em 6%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 6%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 6%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 2%, ATK + 30.",
-			"[Grau C] Com refino +7, P.ATK + 3.",
-			"[Grau B] Com refino +9, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 12%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 12%."
+			"^0000FFATQ +30.^000000",
+			"^0000FFDano físico à distância +6%.^000000",
+			"^0000FFDano físico corpo a corpo +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +6%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -6%.^000000",
+			"^0000FFConjuração variável -6%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +2%.^000000",
+			"^0000FFATQ +30 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +7 ou mais:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +12%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +12%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311451] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 3",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Físico 3)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"ATK + 45, aumenta o dano físico corpo a corpo e à distância em 9%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 9%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 9%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 3%, ATK + 45.",
-			"[Grau C] A cada 5 níveis de refino, P.ATK + 3.",
-			"[Grau B] A cada 4 níveis de refino, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 14%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 14%."
+			"^0000FFATQ +45.^000000",
+			"^0000FFDano físico à distância +9%.^000000",
+			"^0000FFDano físico corpo a corpo +9%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +9%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -9%.^000000",
+			"^0000FFConjuração variável -9%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +3%.^000000",
+			"^0000FFATQ +45 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 5 refinos:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +14%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +14%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 3",
+		identifiedDisplayName = "Cristal Invernal (Grau Físico 3)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"ATK + 45, aumenta o dano físico corpo a corpo e à distância em 9%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 9%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 9%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 3%, ATK + 45.",
-			"[Grau C] A cada 5 níveis de refino, P.ATK + 3.",
-			"[Grau B] A cada 4 níveis de refino, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 14%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 14%."
+			"^0000FFATQ +45.^000000",
+			"^0000FFDano físico à distância +9%.^000000",
+			"^0000FFDano físico corpo a corpo +9%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +9%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -9%.^000000",
+			"^0000FFConjuração variável -9%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +3%.^000000",
+			"^0000FFATQ +45 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 5 refinos:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +14%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +14%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311452] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 4",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Físico 4)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"ATK + 60, aumenta o dano físico corpo a corpo e à distância em 12%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 12%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 12%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 4%, ATK + 60.",
-			"[Grau C] A cada 4 níveis de refino, P.ATK + 3.",
-			"[Grau B] A cada 3 níveis de refino, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 16%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 16%."
+			"^0000FFATQ +60.^000000",
+			"^0000FFDano físico à distância +12%.^000000",
+			"^0000FFDano físico corpo a corpo +12%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +12%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -12%.^000000",
+			"^0000FFConjuração variável -12%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +4%.^000000",
+			"^0000FFATQ +60 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +16%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +16%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 4",
+		identifiedDisplayName = "Cristal Invernal (Grau Físico 4)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"ATK + 60, aumenta o dano físico corpo a corpo e à distância em 12%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 12%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 12%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 4%, ATK + 60.",
-			"[Grau C] A cada 4 níveis de refino, P.ATK + 3.",
-			"[Grau B] A cada 3 níveis de refino, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 16%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 16%."
+			"^0000FFATQ +60.^000000",
+			"^0000FFDano físico à distância +12%.^000000",
+			"^0000FFDano físico corpo a corpo +12%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +12%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -12%.^000000",
+			"^0000FFConjuração variável -12%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +4%.^000000",
+			"^0000FFATQ +60 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFP.ATQ +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +16%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +16%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311453] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 5",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Físico 5)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"ATK + 75, aumenta o dano físico corpo a corpo e à distância em 15%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 15%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 5%, ATK + 75.",
-			"[Grau C] A cada 3 níveis de refino, P.ATK + 4.",
-			"[Grau B] A cada 2 níveis de refino, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 18%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 18%."
+			"^0000FFATQ +75.^000000",
+			"^0000FFDano físico à distância +15%.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -15%.^000000",
+			"^0000FFConjuração variável -15%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +5%.^000000",
+			"^0000FFATQ +75 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFP.ATQ +4.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 2 refinos:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +18%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +18%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Físico) Nv. 5",
+		identifiedDisplayName = "Cristal Invernal (Grau Físico 5)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"ATK + 75, aumenta o dano físico corpo a corpo e à distância em 15%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 15%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ATK + 5%, ATK + 75.",
-			"[Grau C] A cada 3 níveis de refino, P.ATK + 4.",
-			"[Grau B] A cada 2 níveis de refino, POW + 1, CON + 1.",
-			"[Grau A] Aumenta o dano físico contra inimigos de todos os elementos em 18%; com refino +11, aumenta o dano físico contra inimigos de todos os tamanhos em 18%."
+			"^0000FFATQ +75.^000000",
+			"^0000FFDano físico à distância +15%.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -15%.^000000",
+			"^0000FFConjuração variável -15%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano físico +5%.^000000",
+			"^0000FFATQ +75 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFP.ATQ +4.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 2 refinos:",
+			"^0000FFPOD e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano físico contra oponentes de todas as propriedades +18%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +18%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311454] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 1",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Mágico 1)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"MATK + 15, aumenta o dano mágico de todos os elementos em 3%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 3%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 3%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 1%, MATK + 15.",
-			"[Grau C] Com refino +9, S.MATK + 3.",
-			"[Grau B] Com refino +11, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 10%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 10%."
+			"^0000FFATQM +15.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +3%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -3%.^000000",
+			"^0000FFConjuração variável -3%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +1%.^000000",
+			"^0000FFATQM +15 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +11 ou mais:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 1",
+		identifiedDisplayName = "Cristal Invernal (Grau Mágico 1)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"MATK + 15, aumenta o dano mágico de todos os elementos em 3%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 3%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 3%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 1%, MATK + 15.",
-			"[Grau C] Com refino +9, S.MATK + 3.",
-			"[Grau B] Com refino +11, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 10%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 10%."
+			"^0000FFATQM +15.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +3%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -3%.^000000",
+			"^0000FFConjuração variável -3%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +1%.^000000",
+			"^0000FFATQM +15 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +11 ou mais:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311455] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 2",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Mágico 2)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"MATK + 30, aumenta o dano mágico de todos os elementos em 6%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 6%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 6%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 2%, MATK + 30.",
-			"[Grau C] Com refino +7, S.MATK + 3.",
-			"[Grau B] Com refino +9, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 12%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 12%."
+			"^0000FFATQM +30.^000000",
+			"^0000FFDano mágico de todas as propriedades +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +6%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -6%.^000000",
+			"^0000FFConjuração variável -6%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +2%.^000000",
+			"^0000FFATQM +30 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +7 ou mais:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +12%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +12%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 2",
+		identifiedDisplayName = "Cristal Invernal (Grau Mágico 2)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"MATK + 30, aumenta o dano mágico de todos os elementos em 6%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 6%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 6%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 2%, MATK + 30.",
-			"[Grau C] Com refino +7, S.MATK + 3.",
-			"[Grau B] Com refino +9, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 12%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 12%."
+			"^0000FFATQM +30.^000000",
+			"^0000FFDano mágico de todas as propriedades +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +6%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -6%.^000000",
+			"^0000FFConjuração variável -6%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +2%.^000000",
+			"^0000FFATQM +30 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"Refino +7 ou mais:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +12%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +12%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311456] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 3",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Mágico 3)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"MATK + 45, aumenta o dano mágico de todos os elementos em 9%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 9%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 9%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 3%, MATK + 45.",
-			"[Grau C] A cada 5 níveis de refino, S.MATK + 3.",
-			"[Grau B] A cada 4 níveis de refino, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 14%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 14%."
+			"^0000FFATQM +45.^000000",
+			"^0000FFDano mágico de todas as propriedades +9%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +9%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -9%.^000000",
+			"^0000FFConjuração variável -9%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +3%.^000000",
+			"^0000FFATQM +45 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 5 refinos:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +14%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +14%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 3",
+		identifiedDisplayName = "Cristal Invernal (Grau Mágico 3)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"MATK + 45, aumenta o dano mágico de todos os elementos em 9%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 9%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 9%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 3%, MATK + 45.",
-			"[Grau C] A cada 5 níveis de refino, S.MATK + 3.",
-			"[Grau B] A cada 4 níveis de refino, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 14%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 14%."
+			"^0000FFATQM +45.^000000",
+			"^0000FFDano mágico de todas as propriedades +9%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +9%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -9%.^000000",
+			"^0000FFConjuração variável -9%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +3%.^000000",
+			"^0000FFATQM +45 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 5 refinos:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +14%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +14%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311457] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 4",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Mágico 4)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"MATK + 60, aumenta o dano mágico de todos os elementos em 12%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 12%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 12%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 4%, MATK + 60.",
-			"[Grau C] A cada 4 níveis de refino, S.MATK + 3.",
-			"[Grau B] A cada 3 níveis de refino, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 16%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 16%."
+			"^0000FFATQM +60.^000000",
+			"^0000FFDano mágico de todas as propriedades +12%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +12%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -12%.^000000",
+			"^0000FFConjuração variável -12%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +4%.^000000",
+			"^0000FFATQM +60 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +16%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +16%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 4",
+		identifiedDisplayName = "Cristal Invernal (Grau Mágico 4)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"MATK + 60, aumenta o dano mágico de todos os elementos em 12%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 12%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 12%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 4%, MATK + 60.",
-			"[Grau C] A cada 4 níveis de refino, S.MATK + 3.",
-			"[Grau B] A cada 3 níveis de refino, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 16%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 16%."
+			"^0000FFATQM +60.^000000",
+			"^0000FFDano mágico de todas as propriedades +12%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +12%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -12%.^000000",
+			"^0000FFConjuração variável -12%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +4%.^000000",
+			"^0000FFATQM +60 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 4 refinos:",
+			"^0000FFS.ATQM +3.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +16%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +16%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311458] = {
-		unidentifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 5",
+		unidentifiedDisplayName = "Cristal Invernal (Grau Mágico 5)",
 		unidentifiedResourceName = "Glacier_F_Orb_155",
 		unidentifiedDescriptionName = {
-			"MATK + 75, aumenta o dano mágico de todos os elementos em 15%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 15%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 5%, MATK + 75.",
-			"[Grau C] A cada 3 níveis de refino, S.MATK + 4.",
-			"[Grau B] A cada 2 níveis de refino, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 18%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 18%."
+			"^0000FFATQM +75.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -15%.^000000",
+			"^0000FFConjuração variável -15%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +5%.^000000",
+			"^0000FFATQM +75 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFS.ATQM +4.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 2 refinos:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +18%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +18%.^000000"
 		},
-		identifiedDisplayName = "Feitiço da Flor de Neve (Grau Mágico) Nv. 5",
+		identifiedDisplayName = "Cristal Invernal (Grau Mágico 5)",
 		identifiedResourceName = "Glacier_F_Orb_155",
 		identifiedDescriptionName = {
-			"MATK + 75, aumenta o dano mágico de todos os elementos em 15%.",
-			"Com refino +7, aumenta a velocidade de ataque (reduz o atraso após o ataque em 15%).",
-			"Com refino +9, reduz a conjuração variável e a recarga global em 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] MATK + 5%, MATK + 75.",
-			"[Grau C] A cada 3 níveis de refino, S.MATK + 4.",
-			"[Grau B] A cada 2 níveis de refino, SPL + 1, CON + 1.",
-			"[Grau A] Aumenta o dano mágico contra inimigos de todos os elementos em 18%; com refino +11, aumenta o dano mágico contra inimigos de todos os tamanhos em 18%."
+			"^0000FFATQM +75.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -15%.^000000",
+			"^0000FFConjuração variável -15%.^000000",
+			"--------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000FFDano mágico +5%.^000000",
+			"^0000FFATQM +75 adicional.^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000FFS.ATQM +4.^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais:^000000",
+			"A cada 2 refinos:",
+			"^0000FFFEI e CON +1.^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais:^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +18%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +18%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -340025,6 +349453,461 @@ tbl = {
 		identifiedDisplayName = "CRV +3",
 		identifiedResourceName = "Wolf_Orb_luk_1",
 		identifiedDescriptionName = {"CRV +3."},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312306] = {
+		unidentifiedDisplayName = "Cristal de Issgard",
+		unidentifiedResourceName = "Ice_F_Orb_Hp",
+		unidentifiedDescriptionName = {
+			"^0000ffDEF +50. DEFM +10.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000ffPós-conjuração -2%.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"Grau C ou mais:",
+			"^0000ffPós-conjuração -1% adicional.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"Grau B ou mais:",
+			"^0000ffPós-conjuração -1% adicional.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"Grau A ou mais:",
+			"^0000ffPós-conjuração -1% adicional.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Pós)^000000",
+			"^0000ffPós-conjuração -3% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (DEF)^000000",
+			"^0000ffTEN +30.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (DEFM)^000000",
+			"^0000ffTENM +20.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Fixa)^000000",
+			"^0000ffConjuração fixa -0,3 segundos.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard",
+		identifiedResourceName = "Ice_F_Orb_Hp",
+		identifiedDescriptionName = {
+			"^0000ffDEF +50. DEFM +10.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000ffPós-conjuração -2%.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"Grau C ou mais:",
+			"^0000ffPós-conjuração -1% adicional.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"Grau B ou mais:",
+			"^0000ffPós-conjuração -1% adicional.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"Grau A ou mais:",
+			"^0000ffPós-conjuração -1% adicional.^000000",
+			"^0000ffDEF +25 adicional.^000000",
+			"^0000ffDEFM +5 adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Pós)^000000",
+			"^0000ffPós-conjuração -3% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (DEF)^000000",
+			"^0000ffTEN +30.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (DEFM)^000000",
+			"^0000ffTENM +20.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Fixa)^000000",
+			"^0000ffConjuração fixa -0,3 segundos.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312307] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Guerreiro)",
+		unidentifiedResourceName = "Ice_F_Orb_Spell",
+		unidentifiedDescriptionName = {
+			"^0000ffATQ +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico corpo a corpo +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Guerreiro)^000000",
+			"^0000ffDano físico corpo a corpo +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Precisão)^000000",
+			"^0000ffP.ATQ +5.^000000",
+			"^0000ffATQ +50 adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Lutador)^000000",
+			"^0000ffDano físico +10%.^000000",
+			"^0000ffDano físico corpo a corpo +8% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Guerreiro)",
+		identifiedResourceName = "Ice_F_Orb_Spell",
+		identifiedDescriptionName = {
+			"^0000ffATQ +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico corpo a corpo +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Guerreiro)^000000",
+			"^0000ffDano físico corpo a corpo +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Precisão)^000000",
+			"^0000ffP.ATQ +5.^000000",
+			"^0000ffATQ +50 adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Lutador)^000000",
+			"^0000ffDano físico +10%.^000000",
+			"^0000ffDano físico corpo a corpo +8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312308] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Atirador)",
+		unidentifiedResourceName = "Ice_F_Orb_Spell",
+		unidentifiedDescriptionName = {
+			"^0000ffATQ +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico à distância +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Atirador)^000000",
+			"^0000ffDano físico à distância +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Precisão)^000000",
+			"^0000ffP.ATQ +5.^000000",
+			"^0000ffATQ +50 adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Mira)^000000",
+			"^0000ffDano físico +10%.^000000",
+			"^0000ffDano físico à distância +8% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Atirador)",
+		identifiedResourceName = "Ice_F_Orb_Spell",
+		identifiedDescriptionName = {
+			"^0000ffATQ +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico à distância +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Atirador)^000000",
+			"^0000ffDano físico à distância +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Precisão)^000000",
+			"^0000ffP.ATQ +5.^000000",
+			"^0000ffATQ +50 adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Mira)^000000",
+			"^0000ffDano físico +10%.^000000",
+			"^0000ffDano físico à distância +8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312309] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Mortal)",
+		unidentifiedResourceName = "Ice_F_Orb_Spell",
+		unidentifiedDescriptionName = {
+			"^0000ffATQ +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano crítico +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Guerreiro)^000000",
+			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Atirador)^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Rapidez)^000000",
+			"^0000ffCRÍT +15.^000000",
+			"^0000ffDano crítico +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Fatal)^000000",
+			"^0000ffCRÍT +20.^000000",
+			"^0000ffDano crítico +8% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Mortal)",
+		identifiedResourceName = "Ice_F_Orb_Spell",
+		identifiedDescriptionName = {
+			"^0000ffATQ +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano crítico +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Guerreiro)^000000",
+			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Atirador)^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Rapidez)^000000",
+			"^0000ffCRÍT +15.^000000",
+			"^0000ffDano crítico +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Fatal)^000000",
+			"^0000ffCRÍT +20.^000000",
+			"^0000ffDano crítico +8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312310] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Magia)",
+		unidentifiedResourceName = "Ice_F_Orb_Spell",
+		unidentifiedDescriptionName = {
+			"^0000ffATQM +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQM +5 adicional.^000000",
+			"^0000ffDano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Magia)^000000",
+			"^0000ffDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Voz)^000000",
+			"^0000ffATQM +50. S.ATQM +5.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Encanto)^000000",
+			"^0000ffDano mágico +10%.^000000",
+			"^0000ffDano mágico de todas as propriedades +8% adicional.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Magia)",
+		identifiedResourceName = "Ice_F_Orb_Spell",
+		identifiedDescriptionName = {
+			"^0000ffATQM +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQM +5 adicional.^000000",
+			"^0000ffDano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Magia)^000000",
+			"^0000ffDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Voz)^000000",
+			"^0000ffATQM +50. S.ATQM +5.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Encanto)^000000",
+			"^0000ffDano mágico +10%.^000000",
+			"^0000ffDano mágico de todas as propriedades +8% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312311] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Bárbaro)",
+		unidentifiedResourceName = "Ice_F_Orb_Soul",
+		unidentifiedDescriptionName = {
+			"^0000ffATQ +30.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico corpo a corpo +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Bárbaro)^000000",
+			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Superpoder)^000000",
+			"^0000ffP.ATQ +5. POD e CON +7.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Bárbaro)",
+		identifiedResourceName = "Ice_F_Orb_Soul",
+		identifiedDescriptionName = {
+			"^0000ffATQ +30.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico corpo a corpo +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Bárbaro)^000000",
+			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Superpoder)^000000",
+			"^0000ffP.ATQ +5. POD e CON +7.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312312] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Artilheiro)",
+		unidentifiedResourceName = "Ice_F_Orb_Soul",
+		unidentifiedDescriptionName = {
+			"^0000ffATQ +30.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico à distância +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Artilheiro)^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Astúcia)^000000",
+			"^0000ffP.ATQ +5. POD e CON +7.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Artilheiro)",
+		identifiedResourceName = "Ice_F_Orb_Soul",
+		identifiedDescriptionName = {
+			"^0000ffATQ +30.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico à distância +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Artilheiro)^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Astúcia)^000000",
+			"^0000ffP.ATQ +5. POD e CON +7.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312313] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Tirano)",
+		unidentifiedResourceName = "Ice_F_Orb_Soul",
+		unidentifiedDescriptionName = {
+			"^0000ffATQ +30.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico à distância +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Artilheiro)^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Superpoder)^000000",
+			"^0000ffT.CRÍT +5. POD e CON +7.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Astúcia)^000000",
+			"^0000ffT.CRÍT +5. POD e CON +7.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Tirano)",
+		identifiedResourceName = "Ice_F_Orb_Soul",
+		identifiedDescriptionName = {
+			"^0000ffATQ +30.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQ +5 adicional.^000000",
+			"^0000ffDano físico à distância +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Artilheiro)^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Superpoder)^000000",
+			"^0000ffT.CRÍT +5. POD e CON +7.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Astúcia)^000000",
+			"^0000ffT.CRÍT +5. POD e CON +7.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312314] = {
+		unidentifiedDisplayName = "Cristal de Issgard (Arauto)",
+		unidentifiedResourceName = "Ice_F_Orb_Soul",
+		unidentifiedDescriptionName = {
+			"^0000ffATQM +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQM +5 adicional.^000000",
+			"^0000ffDano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Arauto)^000000",
+			"^0000ffDano mágico de todas as propriedades +8%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Sortilégio)^000000",
+			"^0000ffS.ATQM +5. FEI e CON +7.^000000"
+		},
+		identifiedDisplayName = "Cristal de Issgard (Arauto)",
+		identifiedResourceName = "Ice_F_Orb_Soul",
+		identifiedDescriptionName = {
+			"^0000ffATQM +20.^000000",
+			"--------------------------",
+			"A cada Grau:",
+			"^0000ffATQM +5 adicional.^000000",
+			"^0000ffDano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Arauto)^000000",
+			"^0000ffDano mágico de todas as propriedades +8%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Flor Invernal Miau (Sortilégio)^000000",
+			"^0000ffS.ATQM +5. FEI e CON +7.^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -342453,6 +352336,162 @@ tbl = {
 		ClassNum = 2016,
 		costume = false
 	},
+	[400105] = {
+		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Coroa Invernal Guerreira",
+		identifiedResourceName = "RCC2013챔피온투구",
+		identifiedDescriptionName = {
+			"Coroa imbuída com o poder mágico de Issgard, a terra das flores invernais.",
+			"--------------------------",
+			"^0000ffDano físico corpo a corpo +10%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano físico +3%.^000000",
+			"A cada 3 refinos:",
+			"^0000ffDano físico contra todos os tamanhos +4%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000ffPós-conjuração -8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffP.ATQ +10.^000000",
+			"^0000ffDano físico corpo a corpo +10% adicional.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000ffP.ATQ +5 adicional.^000000",
+			"Grau C ou mais:",
+			"^0000ffDEF +150. DEFM +30.^000000",
+			"Grau B ou mais:",
+			"^0000ffPOD e CON +5.^000000",
+			"Grau A ou mais:",
+			"^0000ffTEN e TENM +50.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arma Invernal^000000",
+			"^0000ffATQ +50.^000000",
+			"^0000ffDano físico +5%.^000000",
+			"A cada 3 refinos da arma:",
+			"^0000ffVelocidade de ataque +4%.^000000",
+			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. para Cabeça^000000",
+			"Equipa em: ^777777Topo^000000",
+			"DEF: ^77777780^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777730^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1106,
+		costume = false
+	},
+	[400106] = {
+		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Coroa Invernal Mágica",
+		identifiedResourceName = "RCC2013준우승투구",
+		identifiedDescriptionName = {
+			"Coroa imbuída com o poder mágico de Issgard, a terra das flores invernais.",
+			"--------------------------",
+			"^0000FFDano mágico de todas as propriedades +10%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFDano mágico +3%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano mágico contra todos os tamanhos +4%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFPós-conjuração -8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFS.ATQM +10.^000000",
+			"^0000FFDano mágico de todas as propriedades +10% adicional.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFS.ATQM +5 adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDEF +150. DEFM +30.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI e CON +5.^000000",
+			"Grau A ou mais:",
+			"^0000FFTEN e TENM +50.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Arma Invernal^000000",
+			"^0000FFATQM +50.^000000",
+			"^0000FFDano mágico +5%.^000000",
+			"A cada 3 refinos da arma:",
+			"^0000FFVelocidade de ataque +4%.^000000",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. para Cabeça^000000",
+			"Equipa em: ^777777Topo^000000",
+			"DEF: ^77777720^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777710^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1107,
+		costume = false
+	},
+	[400107] = {
+		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Coroa Invernal Atiradora",
+		identifiedResourceName = "RCC20133등상투구",
+		identifiedDescriptionName = {
+			"Coroa imbuída com o poder mágico de Issgard, a terra das flores invernais.",
+			"--------------------------",
+			"^0000ffDano físico à distância +10%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano físico +3%.^000000",
+			"A cada 3 refinos:",
+			"^0000ffDano físico contra todos os tamanhos +4%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000ffPós-conjuração -8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffP.ATQ +10.^000000",
+			"^0000ffDano físico à distância +10% adicional.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000ffP.ATQ +5 adicional.^000000",
+			"Grau C ou mais:",
+			"^0000ffDEF +150. DEFM +30.^000000",
+			"Grau B ou mais:",
+			"^0000ffPOD e CON +5.^000000",
+			"Grau A ou mais:",
+			"^0000ffTEN e TENM +50.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arma Invernal^000000",
+			"^0000ffATQ +50.^000000",
+			"^0000ffDano físico +5%.^000000",
+			"A cada 3 refinos da arma:",
+			"^0000ffVelocidade de ataque +4%.^000000",
+			"^0000ffDano físico à distância +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. para Cabeça^000000",
+			"Equipa em: ^777777Topo^000000",
+			"DEF: ^77777750^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777720^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1108,
+		costume = false
+	},
 	[400109] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "캡",
@@ -344094,16 +354133,19 @@ tbl = {
 		ClassNum = 374,
 		costume = true
 	},
-	[400174] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+	[400172] = {
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Chapéu de Sorveja",
-		identifiedResourceName = "바이스비어햇",
+		identifiedDisplayName = "[Visual] Cocar Ati-Atihan",
+		identifiedResourceName = "아티아티모자",
 		identifiedDescriptionName = {
-			"Calma, parece cerveja, mas não é! Essa é uma invenção de um sorveteiro que não podia tomar cerveja, mas queria acompanhar seus amigos, então ele inventou uma receita de sorvete batido que fica parecendo um copão de chope! Ele deu o nome de Sorveja (que trocadilho horrível).",
+			"Um acessório para cabeça vibrante usado no Festival Ati-Atihan, uma tradicional celebração cultural e religiosa em Porto Malaya.",
+			"--------------------------",
+			"^0000ffTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
@@ -344111,7 +354153,30 @@ tbl = {
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[400174] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Copo de Cerveja",
+		identifiedResourceName = "바이스비어햇",
+		identifiedDescriptionName = {
+			"Cerveja deliciosa feita com trigo e levedura. Uma receita secreta desenvolvida ao longo de centenas de anos. Cuidado: Você precisa ser maior de idade para saborear esta bebida.",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1079,
 		costume = true
 	},
 	[400175] = {
@@ -345434,15 +355499,18 @@ tbl = {
 		costume = true
 	},
 	[400224] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Boina Militar",
+		identifiedDisplayName = "[Visual] Boina Militar Azul",
 		identifiedResourceName = "해군의베레모",
 		identifiedDescriptionName = {
-			"Uma linda boina confeccionada apenas para bravos soldados.",
+			"Uma linda boina confeccionada apenas para bravos soldados que participaram do Time Azul.",
+			"--------------------------",
+			"^0000ffTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
@@ -348856,6 +358924,33 @@ tbl = {
 		ClassNum = 2805,
 		costume = true
 	},
+	[401213] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Jaow Pirun",
+		identifiedResourceName = "C_Jaow_Pirun",
+		identifiedDescriptionName = {
+			"Um lendário dragão celestial, guardião das águas e das antigas criaturas aladas. Cada respiração que ele toma está imbuída do poder dos céus; demonstre reverência e caminhe com cautela, caso venha a encontrar seu olhar penetrante.",
+			"--------------------------",
+			"[^CD3278Durante o Evento^000000]",
+			"^0000ffTaxa de DROP +5%.^000000",
+			"^0000ffTodos os atributos +5.^000000",
+			"^0000ffVelocidade de ataque +5%.^000000",
+			"^0000ffEXP adquirida ao derrotar monstros +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2810,
+		costume = true
+	},
 	[401250] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "캡",
@@ -350440,6 +360535,29 @@ tbl = {
 		ClassNum = 2178,
 		costume = false
 	},
+	[410121] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Elmo dos Guardiões",
+		identifiedResourceName = "Guardian_Helm",
+		identifiedDescriptionName = {
+			"Elmo usado pelo grupo de Guardiões Reais liderados pelo Rei Schmidt Von Walther. Simboliza a lealdade inabalável ao grande rei.",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2199,
+		costume = true
+	},
 	[410122] = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "스마일",
@@ -351895,6 +362013,31 @@ tbl = {
 		ClassNum = 2795,
 		costume = true
 	},
+	[410576] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Olho do Necromante",
+		identifiedResourceName = "C_Eye_of_Necromancer",
+		identifiedDescriptionName = {
+			"Repletos de sombras profundas, esses olhos abrigam o poder de despertar soldados das sombras a partir dos restos mortais. Quem os possui adquire a habilidade de invocar servos do além-túmulo.",
+			"--------------------------",
+			"[^CD3278Durante o Evento^000000]",
+			"^0000ffVelocidade de ataque +5%.^000000",
+			"^0000ffEXP adquirida ao derrotar monstros +5%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2809,
+		costume = true
+	},
 	[410582] = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "리본",
@@ -352822,12 +362965,24 @@ tbl = {
 		costume = false
 	},
 	[420046] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Manto da Nobreza",
 		identifiedResourceName = "Royal_Mantle",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"Manto usado por membros da realeza de Prontera. Apenas 1 membro de cada família real pode vesti-lo.",
+			"--------------------------",
+			"^0000FFTrocável pelo Baú de Pedras Visuais 25 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 1697,
 		costume = true
@@ -355249,6 +365404,30 @@ tbl = {
 		ClassNum = 0,
 		costume = true
 	},
+	[420743] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Espíritos Felinos",
+		identifiedResourceName = "C_Spirit_Cat_TH",
+		identifiedDescriptionName = {
+			"Repletos de sombras profundas, esses olhos abrigam o poder de despertar soldados das sombras a partir dos restos mortais. Quem os possui adquire a habilidade de invocar servos do além-túmulo.",
+			"--------------------------",
+			"[^CD3278Durante o Evento^000000]",
+			"^0000ffTodos os atributos +5.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2811,
+		costume = true
+	},
 	[420748] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "리본",
@@ -355958,6 +366137,51 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 666,
 		costume = false
+	},
+	[436006] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Disfarce de Rgan",
+		identifiedResourceName = "C_Ep19_Rgan",
+		identifiedDescriptionName = {
+			"Uma máscara perfeita para você se disfarçar de Rgan.",
+			"Só não entendi o porquê de ser um Rgan de baixo clero...",
+			"...Poderia ser um nível superior.",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio e Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2144,
+		costume = true
+	},
+	[436007] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Disfarce de Nevento",
+		identifiedResourceName = "C_Ep19_Iwin",
+		identifiedDescriptionName = {
+			"Uma máscara perfeita para você se disfarçar de Nevento.",
+			"Se você colocá-la, perceberá que é bem quentinha, quase no ponto de sufocamento.",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio e Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2143,
+		costume = true
 	},
 	[436008] = {
 		unidentifiedDisplayName = "Visual",
@@ -362134,6 +372358,84 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[450206] = {
+		unidentifiedDisplayName = "Armadura",
+		unidentifiedResourceName = "우든메일",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Armadura Invernal",
+		identifiedResourceName = "Snowflower_Armor",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFATQ +130.^000000",
+			"A cada 2 refinos:",
+			"^0000FFATQ +15.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Manto Invernal^000000",
+			"^0000FFATQ +50 adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Sobrepeliz Invernal^000000",
+			"^0000FFPós-conjuração -10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Armadura^000000",
+			"DEF: ^777777150^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777780^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450207] = {
+		unidentifiedDisplayName = "Armadura",
+		unidentifiedResourceName = "코튼셔츠",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Veste Invernal",
+		identifiedResourceName = "Snowflower_Robe",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFATQM +130.^000000",
+			"A cada 2 refinos:",
+			"^0000FFATQM +15.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Manto Invernal^000000",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Sobrepeliz Invernal^000000",
+			"^0000FFATQM +50 adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Armadura^000000",
+			"DEF: ^777777150^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777780^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[450208] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "코튼셔츠",
@@ -364753,6 +375055,86 @@ tbl = {
 		identifiedDisplayName = "",
 		identifiedResourceName = "Moaning_of_EvilSpirits",
 		identifiedDescriptionName = {""},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470115] = {
+		unidentifiedDisplayName = "Calçado",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Bota Invernal",
+		identifiedResourceName = "Snowflower_Boots",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFHP máx. +8%.^000000",
+			"^0000FFSP máx. +4%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFSP máx. +1%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +7%.^000000",
+			"^0000FFDano físico corpo a corpo +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armadura Invernal^000000",
+			"^0000FFDano físico +7%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Veste Invernal^000000",
+			"^0000FFVelocidade de ataque +7%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Calçado^000000",
+			"DEF: ^77777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777750^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470116] = {
+		unidentifiedDisplayName = "Calçado",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Sapato Invernal",
+		identifiedResourceName = "Snowflower_Shoes",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFHP e SP máx. +6%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFSP máx. +1%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Armadura Invernal^000000",
+			"^0000FFConjuração variável -7%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Veste Invernal^000000",
+			"^0000FFDano mágico +7%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Calçado^000000",
+			"DEF: ^77777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777750^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
@@ -367511,6 +377893,88 @@ tbl = {
 		ClassNum = 123,
 		costume = true
 	},
+	[480159] = {
+		unidentifiedDisplayName = "Capa",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Manto Invernal",
+		identifiedResourceName = "Snowflower_Manteau",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFHP máx. +2.500.^000000",
+			"^0000FFSP máx. +500.^000000",
+			"A cada 2 refinos:",
+			"^0000FFHP máx. +200.^000000",
+			"^0000FFSP máx. +50.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPOD +3.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Bota Invernal^000000",
+			"^0000FFDano crítico +15%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Sapato Invernal^000000",
+			"^0000FFConjuração variável -15%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Capa^000000",
+			"DEF: ^77777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777790^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480160] = {
+		unidentifiedDisplayName = "Capa",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Sobrepeliz Invernal",
+		identifiedResourceName = "Snowflower_Muffler",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFHP máx. +2.000.^000000",
+			"^0000FFSP máx. +1.000.^000000",
+			"A cada 2 refinos:",
+			"^0000FFHP máx. +150.^000000",
+			"^0000FFSP máx. +100.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFEI +3.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Bota Invernal^000000",
+			"^0000FFDano físico à distância +7%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Sapato Invernal^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Capa^000000",
+			"DEF: ^77777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777790^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[480167] = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "후드",
@@ -368286,6 +378750,29 @@ tbl = {
 		ClassNum = 169,
 		costume = true
 	},
+	[480298] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Aura das Maravilhas",
+		identifiedResourceName = "MCircle_Wonderland",
+		identifiedDescriptionName = {
+			"Aura mágica que emana todas as belezas de um país maravilhoso. Quando usá-la, você se perguntará: O que o corvo e uma escrivaninha têm em comum?",
+			"--------------------------",
+			"^008080Exibe efeito gráfico que pode ser desligado com /effect.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
 	[480306] = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "후드",
@@ -368650,6 +379137,29 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 188,
+		costume = true
+	},
+	[480344] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Foice da Princesa Mestiça",
+		identifiedResourceName = "C_HDP_Scythe",
+		identifiedDescriptionName = {
+			"Uma réplica da lendária arma da Princesa Mestiça. Diz a fábula que ela enfrentou a terrível bruxa Zilant.",
+			"--------------------------",
+			"^008080Exibe o visual nas costas do personagem.^000000",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 189,
 		costume = true
 	},
 	[480360] = {
@@ -369879,6 +380389,29 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 79,
 		costume = false
+	},
+	[480725] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Sexto Sentido Satânico",
+		identifiedResourceName = "C_Sixth_Sense_Satan",
+		identifiedDescriptionName = {
+			"Asas sombrias que se abrem como uma força sobrenatural. Sussurros de mistérios de um mundo oculto ressoam, suaves e potentes, a cada movimento.",
+			"--------------------------",
+			"^0000ffTrocável pelo Baú de Pedras Visuais x na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 299,
+		costume = true
 	},
 	[480772] = {
 		unidentifiedDisplayName = "Visual",
@@ -373806,6 +384339,106 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[490176] = {
+		unidentifiedDisplayName = "Aces. Direito",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Pingente Invernal",
+		identifiedResourceName = "Snowflower_Pendant",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFHP máx. +7%.^000000",
+			"^0000FFDano físico +7%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Aces. Direito^000000",
+			"DEF: ^7777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777710^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490177] = {
+		unidentifiedDisplayName = "Aces. Esquerdo",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Anel Invernal",
+		identifiedResourceName = "Snowflower_Ring",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFSP máx. +7%.^000000",
+			"^0000FFDano físico +7%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Aces. Esquerdo^000000",
+			"DEF: ^7777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777710^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490178] = {
+		unidentifiedDisplayName = "Aces. Direito",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Colar Invernal",
+		identifiedResourceName = "Snowflower_Necklace",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFHP máx. +7%.^000000",
+			"^0000FFDano mágico +7%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Aces. Direito^000000",
+			"DEF: ^7777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777710^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490179] = {
+		unidentifiedDisplayName = "Aces. Esquerdo",
+		unidentifiedResourceName = "클립",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Brinco Invernal",
+		identifiedResourceName = "Snowflower_Earring",
+		identifiedDescriptionName = {
+			"Equipamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^0000FFSP máx. +7%.^000000",
+			"^0000FFDano mágico +7%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Aces. Esquerdo^000000",
+			"DEF: ^7777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777710^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[490180] = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
@@ -377344,6 +387977,50 @@ tbl = {
 		ClassNum = 42,
 		costume = false
 	},
+	[500049] = {
+		unidentifiedDisplayName = "Espada",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Flambergue Invernal",
+		identifiedResourceName = "Glacier_Sword",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Espadachins, Mercadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 42,
+		costume = false
+	},
+	[500050] = {
+		unidentifiedDisplayName = "Espada",
+		unidentifiedResourceName = "소드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Espada Invernal",
+		identifiedResourceName = "Glacier_B_Sword",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Aprendizes e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 42,
+		costume = false
+	},
 	[500051] = {
 		unidentifiedDisplayName = "Espada",
 		unidentifiedResourceName = "바스타드소드",
@@ -377377,23 +388054,22 @@ tbl = {
 		costume = false
 	},
 	[500054] = {
-		unidentifiedDisplayName = "Espada de Uma Mão",
+		unidentifiedDisplayName = "Espada",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Espada do Glaciar Sombrio",
+		identifiedDisplayName = "Flambergue Vil Invernal",
 		identifiedResourceName = "D_Glacier_Sword",
 		identifiedDescriptionName = {
-			"Espada de Uma Mão que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Espada^000000 ATQ: ^777777220^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777160^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Espadachim, classes Mercador^000000"
+			"Classes: ^777777Espadachins, Mercadores e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 42,
@@ -377401,23 +388077,22 @@ tbl = {
 		costume = false
 	},
 	[500055] = {
-		unidentifiedDisplayName = "Espada de Uma Mão",
+		unidentifiedDisplayName = "Espada",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Espada Básica do Glaciar Sombrio",
+		identifiedDisplayName = "Espada Vil Invernal",
 		identifiedResourceName = "D_Glacier_B_Sword",
 		identifiedDescriptionName = {
-			"Espada de Uma Mão que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Espada^000000 ATQ: ^777777220^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777140^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Aprendiz^000000"
+			"Classes: ^777777Aprendizes e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 42,
@@ -377466,6 +388141,53 @@ tbl = {
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777215^000000",
 			"Classes: ^777777Hiperaprendizes e evoluções^000000"
+		},
+		slotCount = 2,
+		ClassNum = 42,
+		costume = false
+	},
+	[500066] = {
+		unidentifiedDisplayName = "Espada",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Espada Celestial",
+		identifiedResourceName = "Fate_Blade_One",
+		identifiedDescriptionName = {
+			"Arma criada por um anjo de luz. Parece instigar o usuário a fazer uma bondade.",
+			"--------------------------",
+			"^0000ffPOD +2.^000000",
+			"^0000ffDano físico +5%.^000000",
+			"^0000ffDano de [Pólen Explosivo] +5%.^000000",
+			"--------------------------",
+			"Refino +5 ou mais:",
+			"^0000ffDano de [Pólen Explosivo] +10% adicional.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffDano de [Pólen Explosivo] +10% adicional.^000000",
+			"Refino +10 ou mais:",
+			"^0000ffVelocidade de ataque +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000ffDano físico corpo a corpo +15% adicional.^000000",
+			"^0000ffDano de [Pólen Explosivo] +5% adicional.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000ffDano físico corpo a corpo +10% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000ffDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000ffDano físico contra todas as raças +10%.^000000",
+			"Grau A ou mais:",
+			"^0000ffDano físico contra todas as propriedades +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777210^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777215^000000",
+			"Classes: ^777777Cientistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -378810,6 +389532,50 @@ tbl = {
 		ClassNum = 31,
 		costume = false
 	},
+	[510061] = {
+		unidentifiedDisplayName = "Adaga",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Punhal Invernal",
+		identifiedResourceName = "Glacier_R_Knife",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Renegados e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = false
+	},
+	[510062] = {
+		unidentifiedDisplayName = "Adaga",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Faca Invernal",
+		identifiedResourceName = "Glacier_B_Knife",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Aprendizes e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = false
+	},
 	[510066] = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
@@ -378983,20 +389749,19 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Adaga de Renegado do Glaciar Sombrio",
+		identifiedDisplayName = "Punhal Vil Invernal",
 		identifiedResourceName = "D_Glacier_R_Knife",
 		identifiedDescriptionName = {
-			"Adaga que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Adaga^000000 ATQ: ^777777210^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777140^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Arqueiro, classes Arruaceiro^000000"
+			"Classes: ^777777Arqueiros, Arruaceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 31,
@@ -379007,20 +389772,19 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Adaga Básica do Glaciar Sombrio",
+		identifiedDisplayName = "Faca Vil Invernal",
 		identifiedResourceName = "D_Glacier_B_Knife",
 		identifiedDescriptionName = {
-			"Adaga que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Adaga^000000 ATQ: ^777777210^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777120^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Aprendiz^000000"
+			"Classes: ^777777Aprendizes e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 31,
@@ -379389,25 +390153,47 @@ tbl = {
 		ClassNum = 6,
 		costume = false
 	},
-	[520021] = {
-		unidentifiedDisplayName = "Machado do Glaciar Sombrio",
+	[520017] = {
+		unidentifiedDisplayName = "Machado",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Machado do Glaciar Sombrio",
+		identifiedDisplayName = "Lábris Invernal",
+		identifiedResourceName = "Glacier_Axe",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Machado^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777500^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Espadachins, Mercadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 6,
+		costume = false
+	},
+	[520021] = {
+		unidentifiedDisplayName = "Machado",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Lábris Vil Invernal",
 		identifiedResourceName = "D_Glacier_Axe",
 		identifiedDescriptionName = {
-			"Machado de Uma Mão que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 210.",
-			"Tipo: ^777777Machado de Uma Mão^000000 ATQ: ^777777240^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Machado^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777500^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Espadachim, classes Mercador, classes Druida^000000"
+			"Classes: ^777777Espadachins, Mercadores e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 6,
@@ -379943,6 +390729,28 @@ tbl = {
 		ClassNum = 4,
 		costume = false
 	},
+	[530025] = {
+		unidentifiedDisplayName = "Lança",
+		unidentifiedResourceName = "쟈벨린",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Espontão Invernal",
+		identifiedResourceName = "Glacier_Spear",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Lança^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777210^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Espadachins e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4,
+		costume = false
+	},
 	[530028] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "쟈벨린",
@@ -379985,23 +390793,22 @@ tbl = {
 		costume = false
 	},
 	[530034] = {
-		unidentifiedDisplayName = "Lança de Uma Mão",
+		unidentifiedDisplayName = "Lança",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Lança de Uma Mão do Glaciar Sombrio",
+		identifiedDisplayName = "Espontão Vil Invernal",
 		identifiedResourceName = "D_Glacier_Spear",
 		identifiedDescriptionName = {
-			"Lança de Uma Mão que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Lança de Uma Mão^000000 ATQ: ^777777220^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Lança^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777210^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Espadachim^000000"
+			"Classes: ^777777Espadachins e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 4,
@@ -381338,6 +392145,29 @@ tbl = {
 		ClassNum = 15,
 		costume = false
 	},
+	[540049] = {
+		unidentifiedDisplayName = "Livro",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Grimório Invernal",
+		identifiedResourceName = "Glacier_Book",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Sábios, Sacerdotes, Mestres Taekwons e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15,
+		costume = false
+	},
 	[540051] = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
@@ -381422,21 +392252,20 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Livro do Glaciar Sombrio",
+		identifiedDisplayName = "Grimório Vil Invernal",
 		identifiedResourceName = "D_Glacier_Book",
 		identifiedDescriptionName = {
-			"Livro que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 210.",
-			"Tipo: ^777777Livro^000000 ATQ: ^777777210^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777120^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Sábio, classes Sacerdote, classes Mestre Taekwon^000000"
+			"Classes: ^777777Sábios, Sacerdotes, Mestres Taekwons e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 15,
@@ -383736,6 +394565,52 @@ tbl = {
 		ClassNum = 69,
 		costume = false
 	},
+	[550069] = {
+		unidentifiedDisplayName = "Cajado",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Varinha Invernal",
+		identifiedResourceName = "Glacier_Wand",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777230^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777130^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Aprendizes, Magos, Noviços, Espiritualistas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = false
+	},
+	[550070] = {
+		unidentifiedDisplayName = "Cajado",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Cauda de Gato Invernal",
+		identifiedResourceName = "Glacier_Foxtail",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777400^000000 ATQM: ^777777400^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777200^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 102,
+		costume = false
+	},
 	[550075] = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
@@ -383944,24 +394819,23 @@ tbl = {
 		costume = false
 	},
 	[550089] = {
-		unidentifiedDisplayName = "Varinha do Glaciar Sombrio",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Varinha do Glaciar Sombrio",
+		identifiedDisplayName = "Varinha Vil Invernal",
 		identifiedResourceName = "D_Glacier_Wand",
 		identifiedDescriptionName = {
-			"Cajado de Uma Mão que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 230.",
-			"Tipo: ^777777Cajado de Uma Mão^000000 ATQ: ^777777150^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777230^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777130^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Aprendiz, classes Mago, classes Noviço, classes Espiritualista^000000"
+			"Classes: ^777777Aprendizes, Magos, Noviços, Espiritualistas e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 69,
@@ -383969,24 +394843,23 @@ tbl = {
 		costume = false
 	},
 	[550090] = {
-		unidentifiedDisplayName = "Cauda de Raposa do Glaciar Sombrio",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Cauda de Raposa do Glaciar Sombrio",
+		identifiedDisplayName = "Cauda de Gato Vil Invernal",
 		identifiedResourceName = "D_Glacier_Foxtail",
 		identifiedDescriptionName = {
-			"Cajado de Cauda de Raposa que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 400.",
-			"Tipo: ^777777Cajado de Uma Mão^000000 ATQ: ^777777400^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777400^000000 ATQM: ^777777400^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777200^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Invocador (Doram)^000000"
+			"Classes: ^777777Invocadores e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 102,
@@ -385111,6 +395984,28 @@ tbl = {
 		ClassNum = 78,
 		costume = false
 	},
+	[560032] = {
+		unidentifiedDisplayName = "Soqueira",
+		unidentifiedResourceName = "바그낙",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Soqueira Invernal",
+		identifiedResourceName = "Glacier_Knuckle",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Soqueira^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777220^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Shuras e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 78,
+		costume = false
+	},
 	[560034] = {
 		unidentifiedDisplayName = "Soqueira",
 		unidentifiedResourceName = "바그낙",
@@ -385190,23 +396085,22 @@ tbl = {
 		costume = false
 	},
 	[560037] = {
-		unidentifiedDisplayName = "Soco do Glaciar Sombrio",
+		unidentifiedDisplayName = "Soqueira",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Soco do Glaciar Sombrio",
+		identifiedDisplayName = "Soqueira Vil Invernal",
 		identifiedResourceName = "D_Glacier_Knuckle",
 		identifiedDescriptionName = {
-			"Soco que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 220.",
-			"Tipo: ^777777Soco^000000 ATQ: ^777777240^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Soqueira^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777220^000000",
 			"Peso: ^777777150^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Shura^000000"
+			"Classes: ^777777Shuras e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 78,
@@ -385933,24 +396827,45 @@ tbl = {
 		ClassNum = 13,
 		costume = false
 	},
-	[570032] = {
-		unidentifiedDisplayName = "Instrumento",
+	[570029] = {
+		unidentifiedDisplayName = "Instrumento Musical",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Violino do Glaciar Sombrio",
+		identifiedDisplayName = "Violino Invernal",
+		identifiedResourceName = "Glacier_Violin",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Instrumento Musical^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Bardos e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 13,
+		costume = false
+	},
+	[570032] = {
+		unidentifiedDisplayName = "Instrumento Musical",
+		unidentifiedResourceName = "바이올린",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Violino Vil Invernal",
 		identifiedResourceName = "D_Glacier_Violin",
 		identifiedDescriptionName = {
-			"Violino que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Instrumento^000000 ATQ: ^777777210^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Instrumento Musical^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777150^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Trovador^000000"
+			"Classes: ^777777Trovadores e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 13,
@@ -386751,24 +397666,45 @@ tbl = {
 		ClassNum = 14,
 		costume = false
 	},
+	[580030] = {
+		unidentifiedDisplayName = "Chicote",
+		unidentifiedResourceName = "로프",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Chicote Invernal",
+		identifiedResourceName = "Glacier_Whip",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Chicote^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Odaliscas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14,
+		costume = false
+	},
 	[580033] = {
 		unidentifiedDisplayName = "Chicote",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Chicote do Glaciar Sombrio",
+		identifiedDisplayName = "Chicote Vil Invernal",
 		identifiedResourceName = "D_Glacier_Whip",
 		identifiedDescriptionName = {
-			"Chicote que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 210.",
-			"Tipo: ^777777Chicote^000000 ATQ: ^777777210^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Chicote^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
 			"Peso: ^777777150^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Musa^000000"
+			"Classes: ^777777Musas e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 14,
@@ -387864,6 +398800,52 @@ tbl = {
 		ClassNum = 62,
 		costume = false
 	},
+	[590038] = {
+		unidentifiedDisplayName = "Maça",
+		unidentifiedResourceName = "메이스",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Mangual Invernal",
+		identifiedResourceName = "Glacier_Mace",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Maça^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Espadachins, Mercadores, Noviços e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 62,
+		costume = false
+	},
+	[590039] = {
+		unidentifiedDisplayName = "Maça",
+		unidentifiedResourceName = "메이스",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Clava Invernal",
+		identifiedResourceName = "Glacier_M_Mace",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Maça^000000",
+			"ATQ: ^777777400^000000 ATQM: ^777777160^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777400^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Mecânicos e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 62,
+		costume = false
+	},
 	[590043] = {
 		unidentifiedDisplayName = "Maça",
 		unidentifiedResourceName = "메이스",
@@ -387980,21 +398962,20 @@ tbl = {
 		unidentifiedDisplayName = "Maça",
 		unidentifiedResourceName = "메이스",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Maça do Glaciar Sombrio",
+		identifiedDisplayName = "Mangual Vil Invernal",
 		identifiedResourceName = "D_Glacier_Mace",
 		identifiedDescriptionName = {
-			"Maça que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 210.",
-			"Tipo: ^777777Maça^000000 ATQ: ^777777210^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Maça^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777180^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Espadachim, classes Mercador, classes Noviço, classes Druida^000000"
+			"Classes: ^777777Espadachins, Mercadores, Noviços e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 62,
@@ -388005,21 +398986,20 @@ tbl = {
 		unidentifiedDisplayName = "Maça",
 		unidentifiedResourceName = "메이스",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Maça de Mecânico do Glaciar Sombrio",
+		identifiedDisplayName = "Clava Vil Invernal",
 		identifiedResourceName = "D_Glacier_M_Mace",
 		identifiedDescriptionName = {
-			"Maça que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 160.",
-			"Tipo: ^777777Maça^000000 ATQ: ^777777400^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Maça^000000",
+			"ATQ: ^777777400^000000 ATQM: ^777777160^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777400^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Mecânico^000000"
+			"Classes: ^777777Mecânicos e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 62,
@@ -388616,6 +399596,28 @@ tbl = {
 		ClassNum = 49,
 		costume = false
 	},
+	[600027] = {
+		unidentifiedDisplayName = "Espada de Duas Mãos",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Montante Invernal",
+		identifiedResourceName = "Glacier_T_Sword",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Espada de Duas Mãos^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777270^000000",
+			"Peso: ^777777400^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Cavaleiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 49,
+		costume = false
+	},
 	[600028] = {
 		unidentifiedDisplayName = "Espada de Duas Mãos",
 		unidentifiedResourceName = "바스타드소드",
@@ -388652,20 +399654,19 @@ tbl = {
 		unidentifiedDisplayName = "Espada de Duas Mãos",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Espada de Duas Mãos do Glaciar Sombrio",
+		identifiedDisplayName = "Montante Vil Invernal",
 		identifiedResourceName = "D_Glacier_T_Sword",
 		identifiedDescriptionName = {
-			"Espada de Duas Mãos que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 270.",
-			"Tipo: ^777777Espada de Duas Mãos^000000 ATQ: ^777777300^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Espada de Duas Mãos^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777270^000000",
 			"Peso: ^777777400^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Cavaleiro^000000"
+			"Classes: ^777777Cavaleiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 49,
@@ -389547,6 +400548,30 @@ tbl = {
 		ClassNum = 16,
 		costume = false
 	},
+	[610037] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "쥬르",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Katar Invernal",
+		identifiedResourceName = "Glacier_Katar",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^CD3278Duplica a chance de causar um ataque crítico.^000000",
+			"--------------------------",
+			"Tipo: ^777777Katar^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777220^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Sicários e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16,
+		costume = false
+	},
 	[610039] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "쥬르",
@@ -389585,20 +400610,21 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "쥬르",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Katar do Glaciar Sombrio",
+		identifiedDisplayName = "Katar Vil Invernal",
 		identifiedResourceName = "D_Glacier_Katar",
 		identifiedDescriptionName = {
-			"Katar que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 220.",
-			"Tipo: ^777777Katar^000000 ATQ: ^777777240^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"^CD3278Duplica a chance de causar um ataque crítico.^000000",
+			"--------------------------",
+			"Tipo: ^777777Katar^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777220^000000",
 			"Peso: ^777777120^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Sicário^000000"
+			"Classes: ^777777Sicários e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 16,
@@ -390103,6 +401129,29 @@ tbl = {
 		ClassNum = 7,
 		costume = false
 	},
+	[620017] = {
+		unidentifiedDisplayName = "Machado de Duas Mãos",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Berdiche Invernal",
+		identifiedResourceName = "Glacier_T_Axe",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Machado de Duas Mãos^000000",
+			"ATQ: ^777777350^000000 ATQM: ^777777180^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777700^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Mecânicos e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7,
+		costume = false
+	},
 	[620018] = {
 		unidentifiedDisplayName = "Machado de Duas Mãos",
 		unidentifiedResourceName = "액스",
@@ -390136,24 +401185,23 @@ tbl = {
 		costume = false
 	},
 	[620019] = {
-		unidentifiedDisplayName = "Machado de Mecânico do Glaciar Sombrio",
+		unidentifiedDisplayName = "Machado de Duas Mãos",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Machado de Mecânico do Glaciar Sombrio",
+		identifiedDisplayName = "Berdiche Vil Invernal",
 		identifiedResourceName = "D_Glacier_T_Axe",
 		identifiedDescriptionName = {
-			"Machado de Duas Mãos que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 180.",
-			"Tipo: ^777777Machado de Duas Mãos^000000 ATQ: ^777777350^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Machado de Duas Mãos^000000",
+			"ATQ: ^777777350^000000 ATQM: ^777777180^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777700^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Mecânico^000000"
+			"Classes: ^777777Mecânicos e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 7,
@@ -390552,24 +401600,45 @@ tbl = {
 		ClassNum = 52,
 		costume = false
 	},
+	[630018] = {
+		unidentifiedDisplayName = "Lança de Duas Mãos",
+		unidentifiedResourceName = "랜스",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Lança Invernal",
+		identifiedResourceName = "Glacier_Lance",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Lança de Duas Mãos^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777270^000000",
+			"Peso: ^777777450^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Cavaleiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 52,
+		costume = false
+	},
 	[630019] = {
 		unidentifiedDisplayName = "Lança de Duas Mãos",
 		unidentifiedResourceName = "랜스",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Lança do Glaciar Sombrio",
+		identifiedDisplayName = "Lança Vil Invernal",
 		identifiedResourceName = "D_Glacier_Lance",
 		identifiedDescriptionName = {
-			"Lança de Duas Mãos que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 270.",
-			"Tipo: ^777777Lança de Duas Mãos^000000 ATQ: ^777777300^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Lança de Duas Mãos^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777270^000000",
 			"Peso: ^777777450^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Cavaleiro^000000"
+			"Classes: ^777777Cavaleiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 52,
@@ -390589,19 +401658,19 @@ tbl = {
 			"--------------------------",
 			"^0000FFPOD +2.^000000",
 			"^0000FFHP máx. +5%.^000000",
-			"^0000FFDano de [Cuspe do Dragão] +5%.^000000",
+			"^0000FFDano de [Baforada Draconiana] +5%.^000000",
 			"--------------------------",
 			"Refino +5 ou mais:",
-			"^0000FFDano de [Cuspe do Dragão] +10% adicional.^000000",
+			"^0000FFDano de [Baforada Draconiana] +10% adicional.^000000",
 			"Refino +7 ou mais:",
 			"^0000FFDano físico à distância +5%.^000000",
 			"Refino +9 ou mais:",
-			"^0000FFDano de [Cuspe do Dragão] +10% adicional.^000000",
+			"^0000FFDano de [Baforada Draconiana] +10% adicional.^000000",
 			"Refino +10 ou mais:",
 			"^0000FFPós-conjuração -10%.^000000",
 			"Refino +11 ou mais:",
 			"^0000FFDano de [Cólera Esmagadora] +15%.^000000",
-			"^0000FFDano de [Cuspe do Dragão] +5% adicional.^000000",
+			"^0000FFDano de [Baforada Draconiana] +5% adicional.^000000",
 			"--------------------------",
 			"Grau D ou mais:",
 			"^0000FFDano físico à distância +10% adicional.^000000",
@@ -391502,25 +402571,47 @@ tbl = {
 		ClassNum = 96,
 		costume = false
 	},
-	[640034] = {
-		unidentifiedDisplayName = "Cajado do Glaciar Sombrio",
+	[640033] = {
+		unidentifiedDisplayName = "Cajado de Duas Mãos",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Cajado do Glaciar Sombrio",
+		identifiedDisplayName = "Báculo Invernal",
+		identifiedResourceName = "Glacier_Staff",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Cajado de Duas Mãos^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777290^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777240^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Magos, Noviços, Espiritualistas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 96,
+		costume = false
+	},
+	[640034] = {
+		unidentifiedDisplayName = "Cajado de Duas Mãos",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Báculo Vil Invernal",
 		identifiedResourceName = "D_Glacier_Staff",
 		identifiedDescriptionName = {
-			"Cajado de Duas Mãos que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 290.",
-			"Tipo: ^777777Cajado de Duas Mãos^000000 ATQ: ^777777150^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Cajado de Duas Mãos^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777290^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777240^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Mago, classes Noviço, classes Espiritualista^000000"
+			"Classes: ^777777Magos, Noviços, Espiritualistas e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 96,
@@ -392156,25 +403247,47 @@ tbl = {
 		ClassNum = 22,
 		costume = false
 	},
+	[650025] = {
+		unidentifiedDisplayName = "Shuriken Huuma",
+		unidentifiedResourceName = "풍마_편익",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Huuma Invernal",
+		identifiedResourceName = "Glacier_Humma",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Shuriken Huuma^000000",
+			"ATQ: ^777777400^000000 ATQM: ^777777370^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777300^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Ninjas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 22,
+		costume = false
+	},
 	[650028] = {
 		unidentifiedDisplayName = "Shuriken Huuma",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Shuriken Huuma do Glaciar Sombrio",
+		identifiedDisplayName = "Huuma Vil Invernal",
 		identifiedResourceName = "D_Glacier_Humma",
 		identifiedDescriptionName = {
-			"Shuriken Huuma que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"MATK + 370.",
-			"Tipo: ^777777Shuriken Huuma^000000 ATQ: ^777777400^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Shuriken Huuma^000000",
+			"ATQ: ^777777400^000000 ATQM: ^777777370^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777300^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Ninja^000000"
+			"Classes: ^777777Ninjas e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 22,
@@ -393645,6 +404758,28 @@ tbl = {
 		ClassNum = 11,
 		costume = false
 	},
+	[700052] = {
+		unidentifiedDisplayName = "Arco",
+		unidentifiedResourceName = "보우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Arco Invernal",
+		identifiedResourceName = "Glacier_Bow",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777220^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Arqueiros, Arruaceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 11,
+		costume = false
+	},
 	[700054] = {
 		unidentifiedDisplayName = "Arco",
 		unidentifiedResourceName = "보우",
@@ -393743,20 +404878,19 @@ tbl = {
 		unidentifiedDisplayName = "Arco",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Arco do Glaciar Sombrio",
+		identifiedDisplayName = "Arco Vil Invernal",
 		identifiedResourceName = "D_Glacier_Bow",
 		identifiedDescriptionName = {
-			"Arco que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 220.",
-			"Tipo: ^777777Arco^000000 ATQ: ^777777240^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777240^000000 ATQM: ^777777220^000000",
 			"Peso: ^777777150^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Arqueiro, classes Arruaceiro^000000"
+			"Classes: ^777777Arqueiros, Arruaceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 11,
@@ -394356,24 +405490,45 @@ tbl = {
 		ClassNum = 17,
 		costume = false
 	},
-	[800015] = {
-		unidentifiedDisplayName = "Revólver do Glaciar Sombrio",
+	[800014] = {
+		unidentifiedDisplayName = "Pistola",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Revólver do Glaciar Sombrio",
+		identifiedDisplayName = "Revólver Invernal",
+		identifiedResourceName = "Glacier_Revolver",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Pistola^000000",
+			"ATQ: ^777777230^000000 ATQM: ^777777230^000000",
+			"Peso: ^777777220^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 17,
+		costume = false
+	},
+	[800015] = {
+		unidentifiedDisplayName = "Pistola",
+		unidentifiedResourceName = "식스슈터",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Revólver Vil Invernal",
 		identifiedResourceName = "D_Glacier_Revolver",
 		identifiedDescriptionName = {
-			"Revólver que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 230.",
-			"Tipo: ^777777Revólver^000000 ATQ: ^777777230^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Pistola^000000",
+			"ATQ: ^777777230^000000 ATQM: ^777777230^000000",
 			"Peso: ^777777220^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Insurgente^000000"
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 17,
@@ -394734,6 +405889,28 @@ tbl = {
 		ClassNum = 18,
 		costume = false
 	},
+	[810010] = {
+		unidentifiedDisplayName = "Rifle",
+		unidentifiedResourceName = "라이플",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Carabina Invernal",
+		identifiedResourceName = "Glacier_Rifle",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Rifle^000000",
+			"ATQ: ^777777280^000000 ATQM: ^777777230^000000",
+			"Peso: ^777777260^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 18,
+		costume = false
+	},
 	[810013] = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
@@ -394769,20 +405946,19 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Rifle do Glaciar Sombrio",
+		identifiedDisplayName = "Carabina Vil Invernal",
 		identifiedResourceName = "D_Glacier_Rifle",
 		identifiedDescriptionName = {
-			"Rifle que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 230.",
-			"Tipo: ^777777Rifle^000000 ATQ: ^777777280^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Rifle^000000",
+			"ATQ: ^777777280^000000 ATQM: ^777777230^000000",
 			"Peso: ^777777260^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Insurgente^000000"
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 18,
@@ -395084,25 +406260,49 @@ tbl = {
 		ClassNum = 20,
 		costume = false
 	},
+	[820008] = {
+		unidentifiedDisplayName = "Espingarda",
+		unidentifiedResourceName = "싱글샷건",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Fuzil Invernal",
+		identifiedResourceName = "Glacier_Shotgun",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"^CD3278Mantém [Espalhar Dano] ativo.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espingarda^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777200^000000",
+			"Peso: ^777777260^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 20,
+		costume = false
+	},
 	[820011] = {
 		unidentifiedDisplayName = "Espingarda",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Espingarda do Glaciar Sombrio",
+		identifiedDisplayName = "Fuzil Vil Invernal",
 		identifiedResourceName = "D_Glacier_Shotgun",
 		identifiedDescriptionName = {
-			"Espingarda que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 200.",
-			"Dano em área.",
-			"Tipo: ^777777Espingarda^000000 ATQ: ^777777300^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"^CD3278Mantém [Espalhar Dano] ativo.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espingarda^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777200^000000",
 			"Peso: ^777777260^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Insurgente^000000"
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 20,
@@ -395481,24 +406681,45 @@ tbl = {
 		ClassNum = 19,
 		costume = false
 	},
-	[830015] = {
-		unidentifiedDisplayName = "Metralhadora Gatling",
+	[830013] = {
+		unidentifiedDisplayName = "Metralhadora",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Metralhadora Gatling do Glaciar Sombrio",
+		identifiedDisplayName = "Metralhadora Invernal",
+		identifiedResourceName = "Glacier_Gatling",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Metralhadora^000000",
+			"ATQ: ^777777350^000000 ATQM: ^777777200^000000",
+			"Peso: ^777777350^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 19,
+		costume = false
+	},
+	[830015] = {
+		unidentifiedDisplayName = "Metralhadora",
+		unidentifiedResourceName = "드리프터",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Metralhadora Vil Invernal",
 		identifiedResourceName = "D_Glacier_Gatling",
 		identifiedDescriptionName = {
-			"Metralhadora Gatling que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 200.",
-			"Tipo: ^777777Metralhadora Gatling^000000 ATQ: ^777777350^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Metralhadora^000000",
+			"ATQ: ^777777350^000000 ATQM: ^777777200^000000",
 			"Peso: ^777777350^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Insurgente^000000"
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 19,
@@ -395858,28 +407079,96 @@ tbl = {
 		ClassNum = 21,
 		costume = false
 	},
+	[840009] = {
+		unidentifiedDisplayName = "Lança-Granadas",
+		unidentifiedResourceName = "디스트로이어",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Lança-Granadas Invernal",
+		identifiedResourceName = "Glacier_Launcher",
+		identifiedDescriptionName = {
+			"Armamento feito com pétalas das flores invernais encontradas em Issgard.",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777200^000000",
+			"Peso: ^777777300^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 21,
+		costume = false
+	},
 	[840010] = {
 		unidentifiedDisplayName = "Lança-Granadas",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Não identificado. Use uma Lupa para identificá-lo."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Lança-Granadas do Glaciar Sombrio",
+		identifiedDisplayName = "Lança-Granadas Vil Invernal",
 		identifiedResourceName = "D_Glacier_Launcher",
 		identifiedDescriptionName = {
-			"Lança-Granadas que perdeu seu brilho devido à magia corrompida.",
-			"Parece exigir um manuseio diferente das armas Glaciais comuns.",
-			"^ffffff_^000000",
-			"MATK + 200.",
-			"Tipo: ^777777Lança-Granadas^000000 ATQ: ^777777300^000000",
+			"Armamento que perdeu seu brilho devido à corrupção mágica.",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777300^000000 ATQM: ^777777200^000000",
 			"Peso: ^777777300^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777classes Insurgente^000000"
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 21,
 		EffectID = 1869,
+		costume = false
+	},
+	[840020] = {
+		unidentifiedDisplayName = "Lança-Granadas",
+		unidentifiedResourceName = "디스트로이어",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Granadeira Infernal",
+		identifiedResourceName = "Sins_Launcher",
+		identifiedDescriptionName = {
+			"Arma criada por um anjo caído. Parece instigar o usuário a cometer um pecado.",
+			"--------------------------",
+			"^0000FFCON +2.^000000",
+			"^0000FFDano físico +5%.^000000",
+			"^0000FFDano de [Atirar em Espiral] +5%.^000000",
+			"--------------------------",
+			"Refino +5 ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +10% adicional.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +10% adicional.^000000",
+			"Refino +10 ou mais:",
+			"^0000FFPós-conjuração -10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano de [Atirar em Espiral] +5% adicional.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico contra todas as raças +10%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano físico contra todas as propriedades +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777330^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777250^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777215^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
+		},
+		slotCount = 2,
+		ClassNum = 21,
 		costume = false
 	},
 	[1000006] = {
@@ -405623,16 +416912,16 @@ tbl = {
 			"[^CD3278Efeito^000000]",
 			"^0000ffDano físico corpo a corpo +4%.^000000",
 			"-",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09Corpo (Topo)^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Topo)^000000",
 			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
 			"-",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09Corpo (Meio)^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Meio)^000000",
 			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
 			"-",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09Corpo (Baixo)^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Baixo)^000000",
 			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
 			"--------------------------",
 			"Peso: ^77777710^000000"
@@ -405645,16 +416934,16 @@ tbl = {
 			"[^CD3278Efeito^000000]",
 			"^0000ffDano físico corpo a corpo +4%.^000000",
 			"-",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09Corpo (Topo)^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Topo)^000000",
 			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
 			"-",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09Corpo (Meio)^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Meio)^000000",
 			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
 			"-",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09Corpo (Baixo)^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Corpo (Baixo)^000000",
 			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
 			"--------------------------",
 			"Peso: ^77777710^000000"
@@ -406061,6 +417350,106 @@ tbl = {
 			"Bilhete de mudança de classe dado no Evento de Arrancada.",
 			"--------------------------",
 			"^0000ffUse para escolher sua classe.^000000",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000604] = {
+		unidentifiedDisplayName = "Tubo de Ensaio de Juncea",
+		unidentifiedResourceName = "빈시험관",
+		unidentifiedDescriptionName = {
+			"Um tubo de ensaio que estava no laboratório de Juncea.",
+			"Parece capaz de armazenar algum tipo de líquido."
+		},
+		identifiedDisplayName = "Tubo de Ensaio de Juncea",
+		identifiedResourceName = "빈시험관",
+		identifiedDescriptionName = {
+			"Um tubo de ensaio que estava no laboratório de Juncea.",
+			"Parece capaz de armazenar algum tipo de líquido.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000605] = {
+		unidentifiedDisplayName = "Tubo de Ensaio com Líquido Vermelho",
+		unidentifiedResourceName = "Ep19_Red_Tube",
+		unidentifiedDescriptionName = {
+			"Um tubo de ensaio com um líquido vermelho."
+		},
+		identifiedDisplayName = "Tubo de Ensaio com Líquido Vermelho",
+		identifiedResourceName = "Ep19_Red_Tube",
+		identifiedDescriptionName = {
+			"Um tubo de ensaio com um líquido vermelho.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000606] = {
+		unidentifiedDisplayName = "Casca de Ovo Rgan Superior",
+		unidentifiedResourceName = "작은알껍질",
+		unidentifiedDescriptionName = {
+			"Casca de ovo de Rgan Superior.",
+			"A casca está partida de uma forma diferente daquela de um ovo que eclodiu naturalmente."
+		},
+		identifiedDisplayName = "Casca de Ovo Rgan Superior",
+		identifiedResourceName = "작은알껍질",
+		identifiedDescriptionName = {
+			"Casca de ovo de Rgan Superior.",
+			"A casca está partida de uma forma diferente daquela de um ovo que eclodiu naturalmente.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000607] = {
+		unidentifiedDisplayName = "Convite do Guardião",
+		unidentifiedResourceName = "안부편지",
+		unidentifiedDescriptionName = {
+			"Um convite enviado da terra gelada de Issgard.",
+			"Diz-se que só quem tiver sido convidado pode pôr os pés em Issgard."
+		},
+		identifiedDisplayName = "Convite do Guardião",
+		identifiedResourceName = "안부편지",
+		identifiedDescriptionName = {
+			"Um convite enviado da terra gelada de Issgard.",
+			"Diz-se que só quem tiver sido convidado pode pôr os pés em Issgard.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000608] = {
+		unidentifiedDisplayName = "Pétala de Flor Invernal",
+		unidentifiedResourceName = "Ep19_Snow_Flower",
+		unidentifiedDescriptionName = {
+			"Flores Invernais são formadas pelo poder mágico que vazou da pele de Jormungand.",
+			"Embora pareça gelo, na verdade é um cristal de energia.",
+			"Também é usada como moeda em toda Issgard.",
+			"--------------------------",
+			"<NAVI>[Castelo de Gelo]<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>",
+			"<TIPBOX>[Episódio 19]<INFO>4257</INFO></TIPBOX>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Pétala de Flor Invernal",
+		identifiedResourceName = "Ep19_Snow_Flower",
+		identifiedDescriptionName = {
+			"Flores Invernais são formadas pelo poder mágico que vazou da pele de Jormungand.",
+			"Embora pareça gelo, na verdade é um cristal de energia.",
+			"Também é usada como moeda em toda Issgard.",
+			"--------------------------",
+			"<NAVI>[Castelo de Gelo]<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>",
+			"<TIPBOX>[Episódio 19]<INFO>4257</INFO></TIPBOX>",
 			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
@@ -407532,34 +418921,2408 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000705] = {
+		unidentifiedDisplayName = "Núcleo Mágico Rgan",
+		unidentifiedResourceName = "핵심젤리",
+		unidentifiedDescriptionName = {
+			"Um núcleo mágico obtido ao derrotar um Rgan. É a cristalização do poder mágico absorvido de Jormungand. Este núcleo contém uma quantidade considerável de poder mágico de alta qualidade.",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Núcleo Mágico Rgan",
+		identifiedResourceName = "핵심젤리",
+		identifiedDescriptionName = {
+			"Um núcleo mágico obtido ao derrotar um Rgan. É a cristalização do poder mágico absorvido de Jormungand. Este núcleo contém uma quantidade considerável de poder mágico de alta qualidade.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000706] = {
+		unidentifiedDisplayName = "Núcleo Mágico Purificado",
+		unidentifiedResourceName = "빙섬석",
+		unidentifiedDescriptionName = {
+			"Um núcleo mágico purificado a partir do Núcleo Mágico de Rgan, restando apenas energia mágica limpa e pura. É utilizado como combustível para a vida quotidiana no Castelo de Gelo. Graças a um método especial, o Núcleo Mágico Purificado não pode ser absorvido por Rgan."
+		},
+		identifiedDisplayName = "Núcleo Mágico Purificado",
+		identifiedResourceName = "빙섬석",
+		identifiedDescriptionName = {
+			"Um núcleo mágico purificado a partir do Núcleo Mágico de Rgan, restando apenas energia mágica limpa e pura. É utilizado como combustível para a vida quotidiana no Castelo de Gelo. Graças a um método especial, o Núcleo Mágico Purificado não pode ser absorvido por Rgan."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000707] = {
+		unidentifiedDisplayName = "Núcleo Mágico Rgan de Baixa Qualidade",
+		unidentifiedResourceName = "수상한마력의돌",
+		unidentifiedDescriptionName = {
+			"Um núcleo mágico obtido ao derrotar um Rgan. Trata-se de uma cristalização do poder mágico absorvido de Jormungand. Este núcleo mágico contém apenas uma quantidade muito pequena de poder mágico e é ineficaz.",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Núcleo Mágico Rgan de Baixa Qualidade",
+		identifiedResourceName = "수상한마력의돌",
+		identifiedDescriptionName = {
+			"Um núcleo mágico obtido ao derrotar um Rgan. Trata-se de uma cristalização do poder mágico absorvido de Jormungand. Este núcleo mágico contém apenas uma quantidade muito pequena de poder mágico e é ineficaz.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000708] = {
+		unidentifiedDisplayName = "Carne Congelada",
+		unidentifiedResourceName = "얼음조각",
+		unidentifiedDescriptionName = {
+			"Carne congelada extremamente fria.",
+			"Utilizada como alimento pelos Nevento.",
+			"Será que se pode sequer cozinhar?",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Carne Congelada",
+		identifiedResourceName = "얼음조각",
+		identifiedDescriptionName = {
+			"Carne congelada extremamente fria.",
+			"Utilizada como alimento pelos Nevento.",
+			"Será que se pode sequer cozinhar?",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000711] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (FOR)",
+		unidentifiedResourceName = "Ice_F_Stone_Str",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFFOR +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Pingente da Flor de Neve (4º slot)",
+			"Colar da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (FOR)",
+		identifiedResourceName = "Ice_F_Stone_Str",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFFOR +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFFOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Pingente da Flor de Neve (4º slot)",
+			"Colar da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000712] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (DES)",
+		unidentifiedResourceName = "Ice_F_Stone_Dex",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDES +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Pingente da Flor de Neve (4º slot)",
+			"Colar da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (DES)",
+		identifiedResourceName = "Ice_F_Stone_Dex",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDES +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDES +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Pingente da Flor de Neve (4º slot)",
+			"Colar da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000713] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (AGI)",
+		unidentifiedResourceName = "Ice_F_Stone_Agi",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFAGI +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSAB +1.^000000",
+			"^0000FFPrecisão perfeita +3.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Anel da Flor de Neve (4º slot)",
+			"Flor de Neve Earring (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (AGI)",
+		identifiedResourceName = "Ice_F_Stone_Agi",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFAGI +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFAGI +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSAB +1.^000000",
+			"^0000FFPrecisão perfeita +3.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Anel da Flor de Neve (4º slot)",
+			"Flor de Neve Earring (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000714] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (INT)",
+		unidentifiedResourceName = "Ice_F_Stone_Int",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFINT +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Pingente da Flor de Neve (4º slot)",
+			"Colar da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (INT)",
+		identifiedResourceName = "Ice_F_Stone_Int",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFINT +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFINT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Pingente da Flor de Neve (4º slot)",
+			"Colar da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000715] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (VIT)",
+		unidentifiedResourceName = "Ice_F_Stone_Vit",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFVIT +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSTA +1.^000000",
+			"^0000FFPós-conjuração -3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Anel da Flor de Neve (4º slot)",
+			"Flor de Neve Earring (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (VIT)",
+		identifiedResourceName = "Ice_F_Stone_Vit",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFVIT +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVIT +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSTA +1.^000000",
+			"^0000FFPós-conjuração -3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Anel da Flor de Neve (4º slot)",
+			"Flor de Neve Earring (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000716] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (SOR)",
+		unidentifiedResourceName = "Ice_F_Stone_luk",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFSOR +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCRV +1.^000000",
+			"^0000FFDano crítico +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Anel da Flor de Neve (4º slot)",
+			"Flor de Neve Earring (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (SOR)",
+		identifiedResourceName = "Ice_F_Stone_luk",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFSOR +3.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSOR +1 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFCRV +1.^000000",
+			"^0000FFDano crítico +3%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Anel da Flor de Neve (4º slot)",
+			"Flor de Neve Earring (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000717] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (DEF)",
+		unidentifiedResourceName = "Ice_F_Stone_Def",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDEF +250. TEN +50.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDEF +75 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (4º slot)",
+			"Veste da Flor de Neve (4º slot)",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (DEF)",
+		identifiedResourceName = "Ice_F_Stone_Def",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDEF +250. TEN +50.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDEF +75 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEF +100 adicional.^000000",
+			"^0000FFTEN +10 adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (4º slot)",
+			"Veste da Flor de Neve (4º slot)",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000718] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (DEFM)",
+		unidentifiedResourceName = "Ice_F_Stone_Mdef",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDEFM +25. TENM +25.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDEFM +7 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (4º slot)",
+			"Veste da Flor de Neve (4º slot)",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (DEFM)",
+		identifiedResourceName = "Ice_F_Stone_Mdef",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDEFM +25. TENM +25.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDEFM +7 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDEFM +10 adicional.^000000",
+			"^0000FFTENM +5 adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (4º slot)",
+			"Veste da Flor de Neve (4º slot)",
+			"Manto da Flor de Neve (4º slot)",
+			"Flor de Neve Muffler (4º slot)",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000719] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Atirador)",
+		unidentifiedResourceName = "Ice_F_Stone_Ran",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Atirador)",
+		identifiedResourceName = "Ice_F_Stone_Ran",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000720] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Guerreiro)",
+		unidentifiedResourceName = "Ice_F_Stone_War",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Guerreiro)",
+		identifiedResourceName = "Ice_F_Stone_War",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQ +100.^000000",
+			"^0000FFDano físico +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000721] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Mágico)",
+		unidentifiedResourceName = "Ice_F_Stone_Mag",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQM +100.^000000",
+			"^0000FFDano mágico +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Mágico)",
+		identifiedResourceName = "Ice_F_Stone_Mag",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQM +100.^000000",
+			"^0000FFDano mágico +6%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000722] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Refletor)",
+		unidentifiedResourceName = "Ice_F_Stone_R_Reject",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Refletor)",
+		identifiedResourceName = "Ice_F_Stone_R_Reject",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000723] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Híbrido)",
+		unidentifiedResourceName = "Ice_F_Stone_Force",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico e mágico +2%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico e mágico +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Híbrido)",
+		identifiedResourceName = "Ice_F_Stone_Force",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico e mágico +2%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico e mágico +2% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico e mágico +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000724] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Pós)",
+		unidentifiedResourceName = "Ice_F_Stone_S_Delay",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPós-conjuração -4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Pós)",
+		identifiedResourceName = "Ice_F_Stone_S_Delay",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPós-conjuração -4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (3º slot)",
+			"Veste da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000725] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Veloz)",
+		unidentifiedResourceName = "Ice_F_Stone_Speed",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFEsquiva +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000\"",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Veloz)",
+		identifiedResourceName = "Ice_F_Stone_Speed",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFEsquiva +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFVelocidade de ataque +8% adicional.^000000\"",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000726] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Variável)",
+		unidentifiedResourceName = "Ice_F_Stone_Caster",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Variável)",
+		identifiedResourceName = "Ice_F_Stone_Caster",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração variável -8% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000727] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Crítico)",
+		unidentifiedResourceName = "Ice_F_Stone_Critical",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFCRÍT +15.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Crítico)",
+		identifiedResourceName = "Ice_F_Stone_Critical",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFCRÍT +15.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +8%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +8% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000728] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Precisão)",
+		unidentifiedResourceName = "Ice_F_Stone_Guide",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPrecisão +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPrecisão perfeita +8.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Precisão)",
+		identifiedResourceName = "Ice_F_Stone_Guide",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPrecisão +30.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFPrecisão perfeita +8.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPrecisão perfeita +8 adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (3º slot)",
+			"Flor de Neve Muffler (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000729] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Total)",
+		unidentifiedResourceName = "Ice_F_Stone_Above",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFResistência a monstros Normais e Chefes +7%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a oponentes de todas as propriedades +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a oponentes de todos os tamanhos +7%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a monstros de todas as raças +7%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (2º slot)",
+			"Flor de Neve Muffler (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Total)",
+		identifiedResourceName = "Ice_F_Stone_Above",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFResistência a monstros Normais e Chefes +7%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a oponentes de todas as propriedades +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a oponentes de todos os tamanhos +7%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a monstros de todas as raças +7%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (2º slot)",
+			"Flor de Neve Muffler (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000730] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Dano)",
+		unidentifiedResourceName = "Ice_F_Stone_P_Full",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (2º slot)",
+			"Flor de Neve Muffler (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Dano)",
+		identifiedResourceName = "Ice_F_Stone_P_Full",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +3% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +3% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (2º slot)",
+			"Flor de Neve Muffler (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000731] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Espelho)",
+		unidentifiedResourceName = "Ice_F_Stone_M_Counter",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (2º slot)",
+			"Flor de Neve Muffler (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Espelho)",
+		identifiedResourceName = "Ice_F_Stone_M_Counter",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFResistência a danos refletidos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFResistência a danos refletidos +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Manto da Flor de Neve (2º slot)",
+			"Flor de Neve Muffler (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000732] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (HP)",
+		unidentifiedResourceName = "Ice_F_Stone_Hp",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFHP máx. +5%.^000000",
+			"^0000FFHP máx. +2.500.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (HP)",
+		identifiedResourceName = "Ice_F_Stone_Hp",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFHP máx. +5%.^000000",
+			"^0000FFHP máx. +2.500.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000733] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (SP)",
+		unidentifiedResourceName = "Ice_F_Stone_Sp",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFSP máx. +5%.^000000",
+			"^0000FFSP máx. +450.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (SP)",
+		identifiedResourceName = "Ice_F_Stone_Sp",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFSP máx. +5%.^000000",
+			"^0000FFSP máx. +450.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFSP máx. +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000734] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Cura)",
+		unidentifiedResourceName = "Ice_F_Stone_Heal",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFEfetividade de cura +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFEfetividade de cura +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Cura)",
+		identifiedResourceName = "Ice_F_Stone_Heal",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFEfetividade de cura +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFEfetividade de cura +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFEfetividade de cura +7% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000735] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Robusto)",
+		unidentifiedResourceName = "Ice_F_Stone_Robust",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFHP e SP máx. +5%.^000000",
+			"^0000FFHP máx. +2.000.^000000",
+			"^0000FFSP máx. +350.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP e SP máx. +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP e SP máx. +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP e SP máx. +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Robusto)",
+		identifiedResourceName = "Ice_F_Stone_Robust",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFHP e SP máx. +5%.^000000",
+			"^0000FFHP máx. +2.000.^000000",
+			"^0000FFSP máx. +350.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFHP e SP máx. +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP e SP máx. +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFHP e SP máx. +5% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (4º slot)",
+			"Sapatos da Flor de Neve (4º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000736] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Fixa)",
+		unidentifiedResourceName = "Ice_F_Stone_F_Cast",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFConjuração fixa -1 segundo.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (3º slot)",
+			"Sapatos da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Fixa)",
+		identifiedResourceName = "Ice_F_Stone_F_Cast",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFConjuração fixa -1 segundo.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (3º slot)",
+			"Sapatos da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000737] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Estatura)",
+		unidentifiedResourceName = "Ice_F_Stone_M_F",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano mágico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (3º slot)",
+			"Sapatos da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Estatura)",
+		identifiedResourceName = "Ice_F_Stone_M_F",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano mágico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (3º slot)",
+			"Sapatos da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000738] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Tamanho)",
+		unidentifiedResourceName = "Ice_F_Stone_P_F",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (3º slot)",
+			"Sapatos da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Tamanho)",
+		identifiedResourceName = "Ice_F_Stone_P_F",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico contra todos os tamanhos +4%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +4% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (3º slot)",
+			"Sapatos da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000739] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Eternidade)",
+		unidentifiedResourceName = "Ice_F_Stone_Un_Vit",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Eternidade] por 10 segundos.^000000",
+			"--------------------------",
+			"[Eternidade]",
+			"^0000FFVIT +50.^000000",
+			"^0000FFDano físico +25%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Eternidade)",
+		identifiedResourceName = "Ice_F_Stone_Un_Vit",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Eternidade] por 10 segundos.^000000",
+			"--------------------------",
+			"[Eternidade]",
+			"^0000FFVIT +50.^000000",
+			"^0000FFDano físico +25%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000740] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Sortilégio)",
+		unidentifiedResourceName = "Ice_F_Stone_Sp_Int",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Sortilégio] por 10 segundos.^000000",
+			"--------------------------",
+			"[Sortilégio]",
+			"^0000FFINT +50.^000000",
+			"^0000FFDano mágico +25%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Sortilégio)",
+		identifiedResourceName = "Ice_F_Stone_Sp_Int",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Sortilégio] por 10 segundos.^000000",
+			"--------------------------",
+			"[Sortilégio]",
+			"^0000FFINT +50.^000000",
+			"^0000FFDano mágico +25%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000741] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Astúcia)",
+		unidentifiedResourceName = "Ice_F_Stone_Fi_Dex",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Astúcia] por 10 segundos.^000000",
+			"--------------------------",
+			"[Astúcia]",
+			"^0000FFDES +50.^000000",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Astúcia)",
+		identifiedResourceName = "Ice_F_Stone_Fi_Dex",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Astúcia] por 10 segundos.^000000",
+			"--------------------------",
+			"[Astúcia]",
+			"^0000FFDES +50.^000000",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000742] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Superpoder)",
+		unidentifiedResourceName = "Ice_F_Stone_Ov_Str",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Superpoder] por 10 segundos.^000000",
+			"--------------------------",
+			"[Superpoder]",
+			"^0000FFFOR +50.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Superpoder)",
+		identifiedResourceName = "Ice_F_Stone_Ov_Str",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Superpoder] por 10 segundos.^000000",
+			"--------------------------",
+			"[Superpoder]",
+			"^0000FFFOR +50.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000743] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Lampejo)",
+		unidentifiedResourceName = "Ice_F_Stone_Fa_Agi",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Lampejo] por 10 segundos.^000000",
+			"--------------------------",
+			"[Lampejo]",
+			"^0000FFAGI +50.^000000",
+			"^0000FFDano crítico +25%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Lampejo)",
+		identifiedResourceName = "Ice_F_Stone_Fa_Agi",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar [Lampejo] por 10 segundos.^000000",
+			"--------------------------",
+			"[Lampejo]",
+			"^0000FFAGI +50.^000000",
+			"^0000FFDano crítico +25%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000744] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Fortuna)",
+		unidentifiedResourceName = "Ice_F_Stone_Lu_Luk",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Fortuna] por 10 segundos.^000000",
+			"--------------------------",
+			"[Fortuna]",
+			"^0000FFSOR +50.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Fortuna)",
+		identifiedResourceName = "Ice_F_Stone_Lu_Luk",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF3% de chance de ativar [Fortuna] por 10 segundos.^000000",
+			"--------------------------",
+			"[Fortuna]",
+			"^0000FFSOR +50.^000000",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Botas da Flor de Neve (2º slot)",
+			"Sapatos da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000745] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Atraso)",
+		unidentifiedResourceName = "Ice_F_Stone_A_Delay",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQ +30.^000000",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Atraso)",
+		identifiedResourceName = "Ice_F_Stone_A_Delay",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQ +30.^000000",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000746] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Mira)",
+		unidentifiedResourceName = "Ice_F_Stone_E_Archer",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPrecisão +20.^000000",
+			"^0000FFDano físico à distância +10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Mira)",
+		identifiedResourceName = "Ice_F_Stone_E_Archer",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPrecisão +20.^000000",
+			"^0000FFDano físico à distância +10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000747] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Fatal)",
+		unidentifiedResourceName = "Ice_F_Stone_Fatal",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFCRÍT +15.^000000",
+			"^0000FFDano crítico +12%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Fatal)",
+		identifiedResourceName = "Ice_F_Stone_Fatal",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFCRÍT +15.^000000",
+			"^0000FFDano crítico +12%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000748] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Combate)",
+		unidentifiedResourceName = "Ice_F_Stone_F_Spirit",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPrecisão perfeita +5.^000000",
+			"^0000FFDano físico corpo a corpo +10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Combate)",
+		identifiedResourceName = "Ice_F_Stone_F_Spirit",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFPrecisão perfeita +5.^000000",
+			"^0000FFDano físico corpo a corpo +10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000749] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Encanto)",
+		unidentifiedResourceName = "Ice_F_Stone_Spell",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Encanto)",
+		identifiedResourceName = "Ice_F_Stone_Spell",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFATQM +30.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (2º slot)",
+			"Colar da Flor de Neve (2º slot)",
+			"Anel da Flor de Neve (2º slot)",
+			"Flor de Neve Earring (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000750] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (HPR)",
+		unidentifiedResourceName = "Ice_F_Stone_HealHP",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFRegeneração natural de HP +50%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (HPR)",
+		identifiedResourceName = "Ice_F_Stone_HealHP",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFRegeneração natural de HP +50%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000751] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (SPR)",
+		unidentifiedResourceName = "Ice_F_Stone_HealSP",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFRegeneração natural de SP +50%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (SPR)",
+		identifiedResourceName = "Ice_F_Stone_HealSP",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFRegeneração natural de SP +50%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000752] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Conversão)",
+		unidentifiedResourceName = "Ice_F_Stone_Life",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FF2% de chance de converter 4% do dano físico causado em HP.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Conversão)",
+		identifiedResourceName = "Ice_F_Stone_Life",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FF2% de chance de converter 4% do dano físico causado em HP.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000753] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Absorção)",
+		unidentifiedResourceName = "Ice_F_Stone_Soul",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FF1% de chance de converter 3% do dano físico causado em SP.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Absorção)",
+		identifiedResourceName = "Ice_F_Stone_Soul",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FF1% de chance de converter 3% do dano físico causado em SP.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000754] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Vida)",
+		unidentifiedResourceName = "Ice_F_Stone_M_Heal",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF4% de chance de ativar [Cura Mágica] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Mágica]",
+			"^0000FFRegenera 700 de HP a cada 0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Vida)",
+		identifiedResourceName = "Ice_F_Stone_M_Heal",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF4% de chance de ativar [Cura Mágica] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Mágica]",
+			"^0000FFRegenera 700 de HP a cada 0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000755] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Mente)",
+		unidentifiedResourceName = "Ice_F_Stone_M_Soul",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF2% de chance de ativar [Cura Espiritual] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Espiritual]",
+			"^0000FFRegenera 100 de SP a cada 0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Mente)",
+		identifiedResourceName = "Ice_F_Stone_M_Soul",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"Ao realizar ataques mágicos:",
+			"^0000FF2% de chance de ativar [Cura Espiritual] por 10 segundos.^000000",
+			"--------------------------",
+			"[Cura Espiritual]",
+			"^0000FFRegenera 100 de SP a cada 0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000756] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Geral)",
+		unidentifiedResourceName = "Ice_F_Stone_A_Force",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico à distância +7%.^000000",
+			"^0000FFDano físico corpo a corpo +7%.^000000",
+			"^0000FFDano mágico de todas as propriedades +7%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Geral)",
+		identifiedResourceName = "Ice_F_Stone_A_Force",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico à distância +7%.^000000",
+			"^0000FFDano físico corpo a corpo +7%.^000000",
+			"^0000FFDano mágico de todas as propriedades +7%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Pingente da Flor de Neve (3º slot)",
+			"Colar da Flor de Neve (3º slot)",
+			"Anel da Flor de Neve (3º slot)",
+			"Flor de Neve Earring (3º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000757] = {
-		unidentifiedDisplayName = "Pedra Mágica da Flor de Gelo (Sopro Dracônico)",
+		unidentifiedDisplayName = "Peça de Flor Invernal (Dragão)",
 		unidentifiedResourceName = "Ice_F_Stone_Skill_1",
 		unidentifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%, aumenta o dano de Corte e Massacre e Sopro Dracônico em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)"
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Hálito do Dragão] e [Corte e Massacre] +15%.^000000",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Pedra Mágica da Flor de Gelo (Sopro Dracônico)",
+		identifiedDisplayName = "Peça de Flor Invernal (Dragão)",
 		identifiedResourceName = "Ice_F_Stone_Skill_1",
 		identifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Sopro do Dragão e Bafo do Dragão em 15%, aumenta o dano de Corte e Massacre e Sopro Dracônico em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)",
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Hálito do Dragão] e [Corte e Massacre] +15%.^000000",
+			"^0000FFDano de [Sopro do Dragão] e [Bafo do Dragão] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000758] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Rúnico)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_2",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Dilacerar] +15%.^000000",
+			"^0000FFDano de [Vento Cortante] +15% adicional.^000000",
+			"^0000FFRecarga de [Impacto Flamejante] -0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Rúnico)",
+		identifiedResourceName = "Ice_F_Stone_Skill_2",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vento Cortante] e [Impacto Flamejante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Dilacerar] +15%.^000000",
+			"^0000FFDano de [Vento Cortante] +15% adicional.^000000",
+			"^0000FFRecarga de [Impacto Flamejante] -0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000759] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Lança)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_3",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +15%.^000000",
+			"^0000FFDano de [Onda de Choque] +15% adicional.^000000",
+			"^0000FFRecarga de [Lança das Mil Pontas] -0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Lança)",
+		identifiedResourceName = "Ice_F_Stone_Skill_3",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda de Choque] e [Lança das Mil Pontas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +15%.^000000",
+			"^0000FFDano de [Onda de Choque] +15% adicional.^000000",
+			"^0000FFRecarga de [Lança das Mil Pontas] -0,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000760] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Guardião)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_4",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe do Destino] +15%.^000000",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Guardião)",
+		identifiedResourceName = "Ice_F_Stone_Skill_4",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe do Destino] +15%.^000000",
+			"^0000FFDano de [Lança do Destino] e [Trindade] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000761] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Hoplita)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_5",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +15%.^000000",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Hoplita)",
+		identifiedResourceName = "Ice_F_Stone_Skill_5",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +15%.^000000",
+			"^0000FFDano de [Toque do Oblívio] e [Disparo Perfurante] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000762] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Domini)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_6",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Crux Tempestas] +15%.^000000",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Domini)",
+		identifiedResourceName = "Ice_F_Stone_Skill_6",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Crux Tempestas] +15%.^000000",
+			"^0000FFDano de [Gloria Domini] e [Luz da Criação] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -407567,33 +421330,46 @@ tbl = {
 		costume = false
 	},
 	[1000763] = {
-		unidentifiedDisplayName = "Pedra Mágica da Flor de Gelo (Canhão Propulsor)",
+		unidentifiedDisplayName = "Peça de Flor Invernal (Canhão)",
 		unidentifiedResourceName = "Ice_F_Stone_Skill_7",
 		unidentifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%, aumenta o dano de Explosão de Faísca em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)"
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão de Faíscas] +15%.^000000",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Pedra Mágica da Flor de Gelo (Canhão Propulsor)",
+		identifiedDisplayName = "Peça de Flor Invernal (Canhão)",
 		identifiedResourceName = "Ice_F_Stone_Skill_7",
 		identifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Punho Foguete e Canhão em 15%, aumenta o dano de Explosão de Faísca em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)",
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão de Faíscas] +15%.^000000",
+			"^0000FFDano de [Punho Foguete] e [Canhão] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -407601,33 +421377,48 @@ tbl = {
 		costume = false
 	},
 	[1000764] = {
-		unidentifiedDisplayName = "Pedra Mágica da Flor de Gelo (Bumerangue Vulcano)",
+		unidentifiedDisplayName = "Peça de Flor Invernal (Lenhador)",
 		unidentifiedResourceName = "Ice_F_Stone_Skill_8",
 		unidentifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%, reduz a recarga de Arremesso de Machado em 2 segundos, aumenta o dano de Laser Triplo em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)"
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Laser Triplo] +15%.^000000",
+			"^0000FFDano de [Metralhadora] +15% adicional.^000000",
+			"^0000FFRecarga de [Arremesso de Machado] -2 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Pedra Mágica da Flor de Gelo (Bumerangue Vulcano)",
+		identifiedDisplayName = "Peça de Flor Invernal (Lenhador)",
 		identifiedResourceName = "Ice_F_Stone_Skill_8",
 		identifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Metralhadora e Arremesso de Machado em 15%, reduz a recarga de Arremesso de Machado em 2 segundos, aumenta o dano de Laser Triplo em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)",
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] e [Arremesso de Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Laser Triplo] +15%.^000000",
+			"^0000FFDano de [Metralhadora] +15% adicional.^000000",
+			"^0000FFRecarga de [Arremesso de Machado] -2 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -407635,33 +421426,46 @@ tbl = {
 		costume = false
 	},
 	[1000765] = {
-		unidentifiedDisplayName = "Pedra Mágica da Flor de Gelo (Golpe Tornado)",
+		unidentifiedDisplayName = "Peça de Flor Invernal (Machado)",
 		unidentifiedResourceName = "Ice_F_Stone_Skill_9",
 		unidentifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%, aumenta o dano de Machado Esmagador e Golpe Poderoso em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)"
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Machado Esmagador] e [Poder Esmagador] +15%.^000000",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Pedra Mágica da Flor de Gelo (Golpe Tornado)",
+		identifiedDisplayName = "Peça de Flor Invernal (Machado)",
 		identifiedResourceName = "Ice_F_Stone_Skill_9",
 		identifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Fúria do Furacão e Brandir Machado em 15%, aumenta o dano de Machado Esmagador e Golpe Poderoso em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)",
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Machado Esmagador] e [Poder Esmagador] +15%.^000000",
+			"^0000FFDano de [Fúria do Furacão] e [Brandir Machado] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -407669,33 +421473,93 @@ tbl = {
 		costume = false
 	},
 	[1000766] = {
-		unidentifiedDisplayName = "Pedra Mágica da Flor de Gelo (Tornado Infernal)",
+		unidentifiedDisplayName = "Peça de Flor Invernal (Biologia)",
 		unidentifiedResourceName = "Ice_F_Stone_Skill_10",
 		unidentifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +7, aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%, aumenta o dano de Atirar Ácido Álgido, Atirar Ácido Gasoso e Pó Explosivo em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)"
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Ácido Álgido] [Atirar Ácido Gasoso] e [Pólen Explosivo] +15%.^000000",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Pedra Mágica da Flor de Gelo (Tornado Infernal)",
+		identifiedDisplayName = "Peça de Flor Invernal (Biologia)",
 		identifiedResourceName = "Ice_F_Stone_Skill_10",
 		identifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +7, aumenta o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +9, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%.",
-			"Com refino +11, aumenta adicionalmente o dano de Tornado de Carrinho e Planta Infernal em 15%, aumenta o dano de Atirar Ácido Álgido, Atirar Ácido Gasoso e Pó Explosivo em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)",
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Ácido Álgido] [Atirar Ácido Gasoso] e [Pólen Explosivo] +15%.^000000",
+			"^0000FFDano de [Tornado de Carrinho] e [Planta Infernal] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000767] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Física)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_11",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"^0000FFRecarga de [Erva Daninha] -1,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Física)",
+		identifiedResourceName = "Ice_F_Stone_Skill_11",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Erva Daninha] e [Canhão de Prótons] +15% adicional.^000000",
+			"^0000FFRecarga de [Erva Daninha] -1,5 segundos.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -407703,37 +421567,2173 @@ tbl = {
 		costume = false
 	},
 	[1000768] = {
-		unidentifiedDisplayName = "Pedra Mágica da Flor de Gelo (Explosão Ácida)",
+		unidentifiedDisplayName = "Peça de Flor Invernal (Química)",
 		unidentifiedResourceName = "Ice_F_Stone_Skill_12",
 		unidentifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Bomba Ácida e Esporo Explosivo em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 25%.",
-			"Com refino +9, reduz a recarga de Esporo Explosivo em 2 segundos.",
-			"Com refino +11, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 20%, aumenta o dano de Atirar Ácido Inflamável, Atirar Ácido Sólido e Mayhemic Thorns em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)"
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Esporo Explosivo] -2 segundos.^000000",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15% adicional.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Sólido] e [Espinhos Furiosos] +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Pedra Mágica da Flor de Gelo (Explosão Ácida)",
+		identifiedDisplayName = "Peça de Flor Invernal (Química)",
 		identifiedResourceName = "Ice_F_Stone_Skill_12",
 		identifiedDescriptionName = {
-			"Uma pedra mágica imbuída de poder misterioso.",
-			"Pode ser encantada em equipamentos da Flor de Neve.",
-			"^000088[Efeito do Encantamento]^000000",
-			"Aumenta o dano de Bomba Ácida e Esporo Explosivo em 15%.",
-			"Com refino +7, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 25%.",
-			"Com refino +9, reduz a recarga de Esporo Explosivo em 2 segundos.",
-			"Com refino +11, aumenta adicionalmente o dano de Bomba Ácida e Esporo Explosivo em 20%, aumenta o dano de Atirar Ácido Inflamável, Atirar Ácido Sólido e Mayhemic Thorns em 15%.",
-			"^000088[Equipamentos encantáveis]^000000",
-			"Armadura da Flor de Neve (2º espaço)",
-			"Manto da Flor de Neve (2º espaço)",
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Esporo Explosivo] -2 segundos.^000000",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Bomba Ácida] e [Esporo Explosivo] +15% adicional.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Sólido] e [Espinhos Furiosos] +15%.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
+		costume = false
+	},
+	[1000769] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Lâminas)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_13",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Brutal] +15%.^000000",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Lâminas)",
+		identifiedResourceName = "Ice_F_Stone_Skill_13",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Brutal] +15%.^000000",
+			"^0000FFDano de [Lâminas Destruidoras] e [Lâminas Retalhadoras] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000770] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Loki)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_14",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cratera] +15%.^000000",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Loki)",
+		identifiedResourceName = "Ice_F_Stone_Skill_14",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cratera] +15%.^000000",
+			"^0000FFDano de [Castigo de Loki] e [Lâminas de Loki] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000771] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Duelista)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_15",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talho Eterno] +15%.^000000",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Duelista)",
+		identifiedResourceName = "Ice_F_Stone_Skill_15",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talho Eterno] +15%.^000000",
+			"^0000FFDano de [Destruidor de Almas] e [Retaliação] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000772] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Ofensiva)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_16",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ofensiva Abissal] +15%.^000000",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Ofensiva)",
+		identifiedResourceName = "Ice_F_Stone_Skill_16",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Ofensiva Abissal] +15%.^000000",
+			"^0000FFDano de [Ofensiva Fatal] e [Ataque Surpresa] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000773] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Desejo)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_17",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +15%.^000000",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Desejo)",
+		identifiedResourceName = "Ice_F_Stone_Skill_17",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +15%.^000000",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000774] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Triplo)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_18",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano de [Disparo Triplo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Frenética] +15%.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Triplo)",
+		identifiedResourceName = "Ice_F_Stone_Skill_18",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano de [Disparo Triplo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Frenética] +15%.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano de [Disparo Triplo] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000775] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Místico)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_19",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flecha Escarlate] e [Deslize de Pedras] +15%.^000000",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Místico)",
+		identifiedResourceName = "Ice_F_Stone_Skill_19",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flecha Escarlate] e [Deslize de Pedras] +15%.^000000",
+			"^0000FFDano de [Meteoro Escarlate] e [Abalo Sísmico] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000776] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Arcanista)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_20",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Lufada de Vento] +15%.^000000",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Arcanista)",
+		identifiedResourceName = "Ice_F_Stone_Skill_20",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Lufada de Vento] +15%.^000000",
+			"^0000FFDano de [Esquife de Gelo] e [Corrente Elétrica] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000777] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Imaterial)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_21",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Telecinesia] -30 segundos.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Espíritos Ancestrais] e [Portal do Submundo] +15%.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Imaterial)",
+		identifiedResourceName = "Ice_F_Stone_Skill_21",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Telecinesia] -30 segundos.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Espíritos Ancestrais] e [Portal do Submundo] +15%.^000000",
+			"^0000FFDano de [Cometa] e [Impacto Espiritual] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000778] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Tóxico)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_22",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Poço Venenoso] +15%.^000000",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Tóxico)",
+		identifiedResourceName = "Ice_F_Stone_Skill_22",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Poço Venenoso] +15%.^000000",
+			"^0000FFDano de [Maldição de Jormungand] e [Implosão Tóxica] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000779] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Psíquica)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_23",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +15%.^000000",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Psíquica)",
+		identifiedResourceName = "Ice_F_Stone_Skill_23",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +15%.^000000",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000780] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Feitiço)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_24",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +15%.^000000",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Feitiço)",
+		identifiedResourceName = "Ice_F_Stone_Skill_24",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +15%.^000000",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000781] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Exorcismo)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_25",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arbitrium] +15%.^000000",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Exorcismo)",
+		identifiedResourceName = "Ice_F_Stone_Skill_25",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Arbitrium] +15%.^000000",
+			"^0000FFDano de [Magnus Exorcismus] e [Adoramus] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000782] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Santo)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_26",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Judex] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flamen] +15%.^000000",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Santo)",
+		identifiedResourceName = "Ice_F_Stone_Skill_26",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Judex] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Flamen] +15%.^000000",
+			"^0000FFDano de [Judex] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sagrado +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000783] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Gemini)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_27",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Gemini Lumen] +15%.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Petitio] +15%.^000000",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Gemini)",
+		identifiedResourceName = "Ice_F_Stone_Skill_27",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Gemini Lumen] +15%.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +10% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Petitio] +15%.^000000",
+			"^0000FFDano de [Gemini Lumen] +15% adicional.^000000",
+			"^0000FFDano físico à distância +15% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000784] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Lutador)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_28",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogueira Espiritual] +15%.^000000",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Lutador)",
+		identifiedResourceName = "Ice_F_Stone_Skill_28",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogueira Espiritual] +15%.^000000",
+			"^0000FFDano de [Garra de Tigre] e [Ruína] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000785] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Espiritual)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_29",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +15%.^000000",
+			"^0000FFRecarga de [Explosão Espiritual] -0,5 segundos.^000000",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Espiritual)",
+		identifiedResourceName = "Ice_F_Stone_Skill_29",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +15%.^000000",
+			"^0000FFRecarga de [Explosão Espiritual] -0,5 segundos.^000000",
+			"^0000FFDano de [Explosão Espiritual] e [Temporal Espiritual] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000786] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Pugilista)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_30",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Soco Guilhotina] +15%.^000000",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Pugilista)",
+		identifiedResourceName = "Ice_F_Stone_Skill_30",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Soco Guilhotina] +15%.^000000",
+			"^0000FFDano de [Portões do Inferno] e [Pancada Corporal] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000787] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Falcão)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_31",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Disparo Certeiro] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mergulho Aéreo] +15%.^000000",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Falcão)",
+		identifiedResourceName = "Ice_F_Stone_Skill_31",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Disparo Certeiro] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mergulho Aéreo] +15%.^000000",
+			"^0000FFDano de [Disparo Certeiro] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000788] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Tiro)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_32",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano crítico +10%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +10% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Crescente] +15%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Tiro)",
+		identifiedResourceName = "Ice_F_Stone_Skill_32",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano crítico +10%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +10% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano crítico +15% adicional.^000000",
+			"^0000FFDano de [Tiro Crescente] +15%.^000000",
+			"^0000FFDano de [Tiro Preciso] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000789] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Flecha)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_33",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Temporal de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +15%.^000000",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Flecha)",
+		identifiedResourceName = "Ice_F_Stone_Skill_33",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Temporal de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +15%.^000000",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000790] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Musical)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_34",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fúria Estridente] +15%.^000000",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Musical)",
+		identifiedResourceName = "Ice_F_Stone_Skill_34",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fúria Estridente] +15%.^000000",
+			"^0000FFDano de [Ruído Estridente] e [Ressonância] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000791] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Temporal)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_35",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Temporal de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Rosas] +15%.^000000",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Temporal)",
+		identifiedResourceName = "Ice_F_Stone_Skill_35",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Temporal de Flechas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Atirar Rosas] +15%.^000000",
+			"^0000FFDano de [Temporal de Flechas] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000792] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Vulcão)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_36",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Vulcão de Flechas] +20%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +15%.^000000",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Vulcão)",
+		identifiedResourceName = "Ice_F_Stone_Skill_36",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Vulcão de Flechas] +20%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +15%.^000000",
+			"^0000FFDano de [Vulcão de Flechas] +20% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000793] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Solar)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_37",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Crepuscular] +15%.^000000",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Solar)",
+		identifiedResourceName = "Ice_F_Stone_Skill_37",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Crepuscular] +15%.^000000",
+			"^0000FFDano de [Chute Solar] e [Explosão Solar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000794] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Lunar)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_38",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Alvorada] +15%.^000000",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Lunar)",
+		identifiedResourceName = "Ice_F_Stone_Skill_38",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Alvorada] +15%.^000000",
+			"^0000FFDano de [Eclipse Lunar] e [Chute Lunar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000795] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Estelar)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_39",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Galática] +15%.^000000",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Estelar)",
+		identifiedResourceName = "Ice_F_Stone_Skill_39",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Explosão Galática] +15%.^000000",
+			"^0000FFDano de [Chute Estelar] e [Chuva Estelar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000796] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Almas)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_40",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Esma] e [Eswhoo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã da Fênix] e [Talismã do Jabuti] +15%.^000000",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Almas)",
+		identifiedResourceName = "Ice_F_Stone_Skill_40",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Esma] e [Eswhoo] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã da Fênix] e [Talismã do Jabuti] +15%.^000000",
+			"^0000FFDano de [Esma] e [Eswhoo] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000797] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Espírito)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_41",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Espa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] e [Talismã do Tigre] +15%.^000000",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Espírito)",
+		identifiedResourceName = "Ice_F_Stone_Skill_41",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Espa] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Talismã do Dragão] e [Talismã do Tigre] +15%.^000000",
+			"^0000FFDano de [Espa] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000798] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Sombrio)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_42",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Necroexplosão] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Exorcizar Assombração] +15%.^000000",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Sombrio)",
+		identifiedResourceName = "Ice_F_Stone_Skill_42",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Necroexplosão] +15%.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Exorcizar Assombração] +15%.^000000",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"^0000FFDano mágico de propriedade Sombrio +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000799] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Revólver)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_43",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tiro Único] +15%.^000000",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Revólver)",
+		identifiedResourceName = "Ice_F_Stone_Skill_43",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Tiro Único] +15%.^000000",
+			"^0000FFDano de [Desperado] [Descarregar Tambor] e [Execução] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000800] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Granada)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_44",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogo Supressor] +15%.^000000",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Granada)",
+		identifiedResourceName = "Ice_F_Stone_Skill_44",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Fogo Supressor] +15%.^000000",
+			"^0000FFDano de [Disparo Labareda] [Arremessar Granada] e [Lançar Míssil] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000801] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Espingarda)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_45",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vigília Noturna] +15%.^000000",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Espingarda)",
+		identifiedResourceName = "Ice_F_Stone_Skill_45",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Vigília Noturna] +15%.^000000",
+			"^0000FFDano de [Rajada Estilhaçante] [Tiro Neutralizante] e [Expurgar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000802] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Ninpou)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_46",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] e [Mahou da Trovoada] +15%.^000000",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Ninpou)",
+		identifiedResourceName = "Ice_F_Stone_Skill_46",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] [Mahou da Névoa Fria] e [Mahou da Trovoada] +15%.^000000",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000803] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Togatana)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_47",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Centelha das Trevas] e [Huuma Aderente] +15%.^000000",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Togatana)",
+		identifiedResourceName = "Ice_F_Stone_Skill_47",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Centelha das Trevas] e [Huuma Aderente] +15%.^000000",
+			"^0000FFDano de [Impacto Cruzado] e [Turbilhão de Pétalas] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000804] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Shinobi)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_48",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou do Dragão Áureo] e [Mahou da Escuridão] +15%.^000000",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Shinobi)",
+		identifiedResourceName = "Ice_F_Stone_Skill_48",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Mahou do Dragão Áureo] e [Mahou da Escuridão] +15%.^000000",
+			"^0000FFDano de [Dragão Explosivo] [Grande Floco de Neve] e [Brisa Cortante] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000805] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Fauna)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_49",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Unhas de Tigre] +15%.^000000",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Fauna)",
+		identifiedResourceName = "Ice_F_Stone_Skill_49",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Unhas de Tigre] +15%.^000000",
+			"^0000FFDano de [Chilique de Picky] e [Cometas Lunáticos] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000806] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Selva)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_50",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança Galhada] +15%.^000000",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Selva)",
+		identifiedResourceName = "Ice_F_Stone_Skill_50",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lança Galhada] +15%.^000000",
+			"^0000FFDano de [Lança Gateira] e [Meteoros de Nepeta] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000807] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Selvagem)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_51",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Ataque Selvagem] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Patada Felina] +15%.^000000",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Selvagem)",
+		identifiedResourceName = "Ice_F_Stone_Skill_51",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Ataque Selvagem] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Patada Felina] +15%.^000000",
+			"^0000FFDano de [Ataque Selvagem] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000808] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Super)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_52",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe de Tyr] e [Lâminas Devastadoras] +15%.^000000",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Super)",
+		identifiedResourceName = "Ice_F_Stone_Skill_52",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Golpe de Tyr] e [Lâminas Devastadoras] +15%.^000000",
+			"^0000FFDano de [Crux Divinum] e [Apunhalar] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000809] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Hiper)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_53",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Escudo Bumerangue] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Choque Violento] e [Cortar em Espiral] +15%.^000000",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Hiper)",
+		identifiedResourceName = "Ice_F_Stone_Skill_53",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Escudo Bumerangue] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Choque Violento] e [Cortar em Espiral] +15%.^000000",
+			"^0000FFDano de [Escudo Bumerangue] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000810] = {
+		unidentifiedDisplayName = "Peça de Flor Invernal (Mega)",
+		unidentifiedResourceName = "Ice_F_Stone_Skill_54",
+		unidentifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +15%.^000000",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Peça de Flor Invernal (Mega)",
+		identifiedResourceName = "Ice_F_Stone_Skill_54",
+		identifiedDescriptionName = {
+			"Uma peça que garante o efeito abaixo quando encantado em um item Invernal.",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +15%.^000000",
+			"^0000FFDano de [Chuva de Meteoros] e [Trovão de Júpiter] +15% adicional.^000000",
+			"--------------------------",
+			"[^FF0000Itens afetados^000000]",
+			"Armadura da Flor de Neve (2º slot)",
+			"Veste da Flor de Neve (2º slot)",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000811] = {
+		unidentifiedDisplayName = "Minério Mágico da Flor de Neve",
+		unidentifiedResourceName = "Snow_F_Ore",
+		unidentifiedDescriptionName = {
+			"Um fragmento de minério que contém flores de neve imbuídas de magia."
+		},
+		identifiedDisplayName = "Minério Mágico da Flor de Neve",
+		identifiedResourceName = "Snow_F_Ore",
+		identifiedDescriptionName = {
+			"Um fragmento de minério que contém flores de neve imbuídas de magia.",
+			"Peso: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 2371,
+		costume = false
+	},
+	[1000812] = {
+		unidentifiedDisplayName = "Globo de Flor Invernal",
+		unidentifiedResourceName = "Snow_F_Stone1",
+		unidentifiedDescriptionName = {
+			"Uma pedra mágica esférica imbuída de poder mágico comum.",
+			"--------------------------",
+			"<NAVI>[Onde trocar]<INFO>icas_in,175,63,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Onde usar]<INFO>icas_in,185,63,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770,1^000000"
+		},
+		identifiedDisplayName = "Globo de Flor Invernal",
+		identifiedResourceName = "Snow_F_Stone1",
+		identifiedDescriptionName = {
+			"Uma pedra mágica esférica imbuída de poder mágico comum.",
+			"--------------------------",
+			"<NAVI>[Onde trocar]<INFO>icas_in,175,63,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Onde usar]<INFO>icas_in,185,63,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770,1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 2372,
+		costume = false
+	},
+	[1000813] = {
+		unidentifiedDisplayName = "Globo de Flor Invernal Brilhante",
+		unidentifiedResourceName = "Snow_F_Stone2",
+		unidentifiedDescriptionName = {
+			"Uma pedra mágica esférica imbuída de poder mágico radiante.",
+			"--------------------------",
+			"<NAVI>[Onde trocar]<INFO>icas_in,175,63,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Onde usar]<INFO>icas_in,185,63,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770,1^000000"
+		},
+		identifiedDisplayName = "Globo de Flor Invernal Brilhante",
+		identifiedResourceName = "Snow_F_Stone2",
+		identifiedDescriptionName = {
+			"Uma pedra mágica esférica imbuída de poder mágico radiante.",
+			"--------------------------",
+			"<NAVI>[Onde trocar]<INFO>icas_in,175,63,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Onde usar]<INFO>icas_in,185,63,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770,1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1869,
+		costume = false
+	},
+	[1000814] = {
+		unidentifiedDisplayName = "Globo de Flor Invernal Reluzente",
+		unidentifiedResourceName = "Snow_F_Stone3",
+		unidentifiedDescriptionName = {
+			"Uma pedra mágica esférica imbuída de poder mágico iluminado.",
+			"--------------------------",
+			"<NAVI>[Onde trocar]<INFO>icas_in,175,63,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Onde usar]<INFO>icas_in,185,63,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770,1^000000"
+		},
+		identifiedDisplayName = "Globo de Flor Invernal Reluzente",
+		identifiedResourceName = "Snow_F_Stone3",
+		identifiedDescriptionName = {
+			"Uma pedra mágica esférica imbuída de poder mágico iluminado.",
+			"--------------------------",
+			"<NAVI>[Onde trocar]<INFO>icas_in,175,63,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Onde usar]<INFO>icas_in,185,63,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770,1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1871,
 		costume = false
 	},
 	[1000815] = {
@@ -407752,6 +423752,270 @@ tbl = {
 			"Um ticket que pode ser trocado por um Ovo de Zumbichano com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000822] = {
+		unidentifiedDisplayName = "Casco Rgan",
+		unidentifiedResourceName = "EP19_Shell_Of_Rgan",
+		unidentifiedDescriptionName = {
+			"Um casco de Rgan. A sensação ao toque é estranha."
+		},
+		identifiedDisplayName = "Casco Rgan",
+		identifiedResourceName = "EP19_Shell_Of_Rgan",
+		identifiedDescriptionName = {
+			"Uma concha de Rgan. Tem um toque estranho.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000823] = {
+		unidentifiedDisplayName = "Célula de Forma de Vida Estranha",
+		unidentifiedResourceName = "EP19_Unknown_Cell",
+		unidentifiedDescriptionName = {
+			"Uma célula de uma forma de vida não identificada."
+		},
+		identifiedDisplayName = "Célula de Forma de Vida Estranha",
+		identifiedResourceName = "EP19_Unknown_Cell",
+		identifiedDescriptionName = {
+			"Célula de Forma de Vida Estranha",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000824] = {
+		unidentifiedDisplayName = "Calapi",
+		unidentifiedResourceName = "EP19_Calapy",
+		unidentifiedDescriptionName = {
+			"Um cristal misterioso encontrado no interior de um Calamaring."
+		},
+		identifiedDisplayName = "Calapi",
+		identifiedResourceName = "EP19_Calapy",
+		identifiedDescriptionName = {
+			"Um cristal misterioso encontrado no interior de um Calamaring.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000825] = {
+		unidentifiedDisplayName = "Cacalapi",
+		unidentifiedResourceName = "EP19_CaCalapy",
+		unidentifiedDescriptionName = {
+			"Um cristal misterioso encontrado dentro de um Calamaring Cavernoso."
+		},
+		identifiedDisplayName = "Cacalapi",
+		identifiedResourceName = "EP19_CaCalapy",
+		identifiedDescriptionName = {
+			"Um cristal misterioso encontrado dentro de um Calamaring Cavernoso.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000826] = {
+		unidentifiedDisplayName = "Casco Espinhoso",
+		unidentifiedResourceName = "EP19_Prickle_Shell",
+		unidentifiedDescriptionName = {
+			"A concha de uma Hallucigenia."
+		},
+		identifiedDisplayName = "Casco Espinhoso",
+		identifiedResourceName = "EP19_Prickle_Shell",
+		identifiedDescriptionName = {
+			"A concha de uma Hallucigenia.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000827] = {
+		unidentifiedDisplayName = "Garra Esbelta",
+		unidentifiedResourceName = "EP19_Thin_Nipper",
+		unidentifiedDescriptionName = {
+			"Uma garra delgada de um Dollocaris."
+		},
+		identifiedDisplayName = "Garra Esbelta",
+		identifiedResourceName = "EP19_Thin_Nipper",
+		identifiedDescriptionName = {
+			"Uma garra delgada de um Dollocaris.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000828] = {
+		unidentifiedDisplayName = "Casco Transparente",
+		unidentifiedResourceName = "EP19_Transparency_Shell",
+		unidentifiedDescriptionName = {
+			"A concha transparente de uma Limacina.",
+			"Diz-se que tem um sabor bastante bom."
+		},
+		identifiedDisplayName = "Casco Transparente",
+		identifiedResourceName = "EP19_Transparency_Shell",
+		identifiedDescriptionName = {
+			"A concha transparente de uma Limacina.",
+			"Diz-se que tem um sabor bastante bom.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000829] = {
+		unidentifiedDisplayName = "Flor-Sino de Isca",
+		unidentifiedResourceName = "EP19_Bell_Flower",
+		unidentifiedDescriptionName = {
+			"Uma flor em forma de sino usada pelo peixe-pescador como isca durante a caça."
+		},
+		identifiedDisplayName = "Flor-Sino de Isca",
+		identifiedResourceName = "EP19_Bell_Flower",
+		identifiedDescriptionName = {
+			"Uma flor em forma de sino utilizada pelo tamboril como isco durante a caça.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000830] = {
+		unidentifiedDisplayName = "Casco Fino e Resistente",
+		unidentifiedResourceName = "EP19_Thin_Shell",
+		unidentifiedDescriptionName = {
+			"A concha de uma criatura chamada Minhogelix."
+		},
+		identifiedDisplayName = "Casco Fino e Resistente",
+		identifiedResourceName = "EP19_Thin_Shell",
+		identifiedDescriptionName = {
+			"A concha de uma criatura chamada Minhogelix.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000831] = {
+		unidentifiedDisplayName = "Caule de Alga Brilhante",
+		unidentifiedResourceName = "EP19_Shiny_Seaweed",
+		unidentifiedDescriptionName = {
+			"O caule da Alga Brilhante."
+		},
+		identifiedDisplayName = "Caule de Alga Brilhante",
+		identifiedResourceName = "EP19_Shiny_Seaweed",
+		identifiedDescriptionName = {
+			"O caule da Alga Brilhante.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000832] = {
+		unidentifiedDisplayName = "Casco de Inseto Congelado",
+		unidentifiedResourceName = "EP19_Frozen_Shell",
+		unidentifiedDescriptionName = {
+			"Um pedaço de casco congelado de um Escaragélido."
+		},
+		identifiedDisplayName = "Casco de Inseto Congelado",
+		identifiedResourceName = "EP19_Frozen_Shell",
+		identifiedDescriptionName = {
+			"Um pedaço de concha congelada de um Escaragélido.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000833] = {
+		unidentifiedDisplayName = "Corpo Luminoso Misterioso",
+		unidentifiedResourceName = "EP19_Luminant",
+		unidentifiedDescriptionName = {
+			"Um minério impregnado de uma energia misteriosa."
+		},
+		identifiedDisplayName = "Corpo Luminoso Misterioso",
+		identifiedResourceName = "EP19_Luminant",
+		identifiedDescriptionName = {
+			"Um minério impregnado de uma energia misteriosa.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000834] = {
+		unidentifiedDisplayName = "Fragmento de Osso Longo e Afiado",
+		unidentifiedResourceName = "EP19_Sharp_Bone",
+		unidentifiedDescriptionName = {
+			"Fragmento ósseo longo e afiado."
+		},
+		identifiedDisplayName = "Fragmento de Osso Longo e Afiado",
+		identifiedResourceName = "EP19_Sharp_Bone",
+		identifiedDescriptionName = {
+			"Fragmento de osso longo e afiado.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000842] = {
+		unidentifiedDisplayName = "Antena de Alta Sensibilidade",
+		unidentifiedResourceName = "조개껍질",
+		unidentifiedDescriptionName = {
+			"Um dispositivo mágico de detecção altamente sensível que emite um sinal especial ao detectar o poder mágico de um Rgan. Parece uma concha comum.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Antena de Alta Sensibilidade",
+		identifiedResourceName = "조개껍질",
+		identifiedDescriptionName = {
+			"Um dispositivo de deteção mágica altamente sensível que emite um sinal especial quando deteta o poder mágico de um Rgan. Parece uma concha comum.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000845] = {
+		unidentifiedDisplayName = "Livro-caixa",
+		unidentifiedResourceName = "Ep18_Docu_File",
+		unidentifiedDescriptionName = {
+			"Um livro-caixa que registra a movimentação de suprimentos. Consta que uma grande quantidade de suprimentos entrou recentemente no laboratório de Bagot com autorização de Ragand.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Livro-caixa",
+		identifiedResourceName = "Ep18_Docu_File",
+		identifiedDescriptionName = {
+			"Um registo que regista a movimentação de materiais. Indica que uma grande quantidade de materiais entrou recentemente no laboratório de Bagot com a autorização de Ragand.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000846] = {
+		unidentifiedDisplayName = "Petisco de Gelo",
+		unidentifiedResourceName = "얼음_파편",
+		unidentifiedDescriptionName = {
+			"A sweet and cold Ice Snack. A traditional Nevento flavor.",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Petisco de Gelo",
+		identifiedResourceName = "얼음_파편",
+		identifiedDescriptionName = {
+			"A sweet and cold Ice Snack. A traditional Nevento flavor.",
+			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -408039,7 +424303,7 @@ tbl = {
 		unidentifiedResourceName = "EP19_D_P_Ore",
 		unidentifiedDescriptionName = {
 			"Uma pedra de origem corrompida por magia impura.",
-			"Emite uma magia diferente da magia comum da Flor de Neve de Isgard.",
+			"Emite uma magia diferente da magia comum da Flor de Neve de Issgard.",
 			"Parece possível neutralizar sua corrupção mágica.",
 			"Peso: ^7777773^000000"
 		},
@@ -408047,10 +424311,10 @@ tbl = {
 		identifiedResourceName = "EP19_D_P_Ore",
 		identifiedDescriptionName = {
 			"Uma pedra de origem corrompida por magia impura.",
-			"Emite uma magia diferente da magia comum da Flor de Neve de Isgard.",
+			"Emite uma magia diferente da magia comum da Flor de Neve de Issgard.",
 			"Parece possível neutralizar sua corrupção mágica.",
 			"Usado em:",
-			"^ffffff<NAVI>^4D4DFF[Laboratório de Belgund]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Laboratório de Belgund]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"Peso: ^7777773^000000"
 		},
 		slotCount = 0,
@@ -408211,16 +424475,16 @@ tbl = {
 		unidentifiedDisplayName = "Extrato Glacial",
 		unidentifiedResourceName = "EP19_Gla_Extract",
 		unidentifiedDescriptionName = {
-			"Um frasco com magia extraída de uma geleira de Isgard.",
+			"Um frasco com magia extraída de uma geleira de Issgard.",
 			"",
 			"Peso: ^7777773^000000"
 		},
 		identifiedDisplayName = "Extrato Glacial",
 		identifiedResourceName = "EP19_Gla_Extract",
 		identifiedDescriptionName = {
-			"Um frasco com magia extraída de uma geleira de Isgard.",
+			"Um frasco com magia extraída de uma geleira de Issgard.",
 			"Usado em:",
-			"^ffffff<NAVI>^4D4DFF[Laboratório de Belgund]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Laboratório de Belgund]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"Peso: ^7777773^000000"
 		},
 		slotCount = 0,
@@ -409060,6 +425324,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1001580] = {
+		unidentifiedDisplayName = "Ticket de Mascote Zangão",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Abelha-Rainha com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>."
+		},
+		identifiedDisplayName = "Ticket de Mascote Zangão",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Abelha-Rainha com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1001669] = {
 		unidentifiedDisplayName = "Vale-Presença",
 		unidentifiedResourceName = "Snow_Festa_CardPack",
@@ -409375,6 +425655,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1001777] = {
+		unidentifiedDisplayName = "Ticket de Mascote Angelgolt Azul",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Angelgolt Azul com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>."
+		},
+		identifiedDisplayName = "Ticket de Mascote Angelgolt Azul",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Angelgolt Azul com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1001778] = {
 		unidentifiedDisplayName = "Ticket de Mascote Skeggiold",
 		unidentifiedResourceName = "쿠폰",
@@ -409428,6 +425724,22 @@ tbl = {
 		identifiedDescriptionName = {
 			"Um ticket que pode ser trocado por um Ovo de Gerente com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,000,0</INFO></NAVI>",
 			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001784] = {
+		unidentifiedDisplayName = "Ticket de Mascote Relógio",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Mascote Relógio com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>."
+		},
+		identifiedDisplayName = "Ticket de Mascote Relógio",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Mascote Relógio com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>.",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -410186,6 +426498,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1003337] = {
+		unidentifiedDisplayName = "Ticket de Mascote Cavaleiro Branco",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Cavaleiro Branco com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>."
+		},
+		identifiedDisplayName = "Ticket de Mascote Cavaleiro Branco",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"Um ticket que pode ser trocado por um Ovo de Cavaleiro Branco com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>.",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1100003] = {
 		unidentifiedDisplayName = "Elixir Vermelho",
 		unidentifiedResourceName = "Concentrated_R_P",
@@ -410256,6 +426584,31 @@ tbl = {
 			"-------------------------",
 			"Nível necessário: ^777777180^000000",
 			"Peso: ^7777770.2^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1100006] = {
+		unidentifiedDisplayName = "Escaragélido Seco",
+		unidentifiedResourceName = "Ep19_Dry_Icegangu",
+		unidentifiedDescriptionName = {
+			"Um alimento seco feito por liofilização de Escaragélido. É frio e crocante como gelo, além de ser uma iguaria nutritiva apreciada pelos Neventos.",
+			"-------------------------",
+			"^777777Recupera aproximadamente 1925 HP^000000.",
+			"-------------------------",
+			"Nível necessário: ^777777200^000000",
+			"Peso: ^7777770,5^000000"
+		},
+		identifiedDisplayName = "Escaragélido Seco",
+		identifiedResourceName = "Ep19_Dry_Icegangu",
+		identifiedDescriptionName = {
+			"Um alimento seco feito por liofilização de Escaragélido. É frio e crocante como gelo, além de ser uma iguaria nutritiva apreciada pelos Neventos.",
+			"-------------------------",
+			"^777777Recupera aproximadamente 1925 HP^000000.",
+			"-------------------------",
+			"Nível necessário: ^777777200^000000",
+			"Peso: ^7777770,5^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,

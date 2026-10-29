@@ -6,27 +6,27 @@
     },
     "gRoG": {
         "en-US": "[Hypnotist]\nHello adventurer~\nI've been dispatched from the\nHypnotist Academy to assist\nbeginners who might regret the\nskills they acquired due to their initial lack of understanding.",
-        "pt-BR": "[Hipnotizadora]\nOlá aventureiro~\nFui mandada pela\nAcademia de Hipnotismo para ajudar\nos iniciantes que se arrependem\nde não ter aprendido suas habilidades do jeito que gostariam.",
+        "pt-BR": "[Hipnotizadora]\nOlá, aventureiro.\nFui enviada pela\nAcademia de Hipnose para ajudar\nos iniciantes que talvez se arrependam das\nhabilidades que aprenderam por não\nentenderem bem como funcionavam no início.",
         "es-ES": "[Hipnotizadora]\nHola, trotamundos~\nHe sido enviada desde la\nAcademia de Hipnotismo para ayudar\nprincipiantes que puedan lamentar las\nhabilidades que adquirieron debido a su falta de comprensión inicial."
     },
     "ghoG": {
         "en-US": "[Hypnotist]\nIf you are a member of a First Class Job,\nsuch as Swordsman, Novice, Mage, Thief,\nArcher, or Merchant, you are eligible\nfor my Skill Redistribution Service.\nIf you are a member of an expanded class,\nsuch as Ninja, Gunslinger, or Taekwon,\nyour base level cannot exceed 49.",
-        "pt-BR": "[Hipnotizadora]\nSe você é da primeira Classe,\ncomo Espadachim, Noviço, Mago,\nGatuno, Arqueiro ou Mercador, você é elegível\npara o meu Serviço de Redistribuição de Habilidades.\nSe for de uma classe expandida,\ncomo Ninja, Justiceiro ou Taekwon,\nseu nível de base não pode ser superior a 49.",
+        "pt-BR": "[Hipnotizadora]\nSe você é da Primeira Classe,\ncomo Espadachim, Noviço, Mago,\nGatuno, Arqueiro ou Mercador, você é elegível\npara o meu Serviço de Redistribuição de Habilidades.\nSe for de uma classe expandida,\ncomo Ninja, Justiceiro ou Taekwon,\nseu nível de base não pode ser superior a 49.",
         "es-ES": "[Hipnotizadora]\nSi eres de la primera Clase,\ncomo Espadachín, Acólito, Mago, Ladrón,\nArquero o Comerciante, puedes acceder\na mi Servicio de Redistribución de Habilidades.\nSi eres de una clase expandida,\ncomo Ninja, Pistolero o Taekwon,\ntu nivel de base no puede ser superior a 49."
     },
     "gxoG": {
         "en-US": "[Hypnotist]\nAs long as you meet those\nconditions, I'll assist you\nwith my Skill Reset Services\nwithout any limitations. Now\nhow is that?",
-        "pt-BR": "[Hipnotizadora]\nDesde que você atenda a essas\ncondições, eu o ajudarei\ncom meus serviços de redefinição de habilidades\nsem nenhuma limitação. \nO que você deseja?",
+        "pt-BR": "[Hipnotizadora]\nDesde que você atenda a essas\ncondições, eu o ajudarei\ncom meus serviços de Redefinição de Habilidades\nsem nenhuma limitação. \nO que você deseja?",
         "es-ES": "[Hipnotizadora]\nMientras cumplas esas\ncondiciones, te ayudaré\ncon mis Servicios de Restablecimiento de Habilidades\nsin ninguna limitación.\n¿Qué deseas?"
     },
     "hBoG": {
         "en-US": "^FF0000Skill Redistribution?^000000",
-        "pt-BR": "^FF0000Redefinição de habilidades?^000000",
+        "pt-BR": "^FF0000Redistribuir Habilidades?^000000",
         "es-ES": "^FF0000Redistribución de habilidades^000000"
     },
     "hRoG": {
         "en-US": "^FF0000Reset Skills^000000",
-        "pt-BR": "^FF0000Resetar habilidades^000000",
+        "pt-BR": "^FF0000Resetar Habilidades^000000",
         "es-ES": "^FF0000Restablecer habilidades^000000"
     },
     "hhoG": {
@@ -36,12 +36,12 @@
     },
     "hxoG": {
         "en-US": "[Hypnotist]\nSkill Redistribution gives\nadventurers another chance\nto redistribute their Skill Points. If you're unhappy with your current skills, you may want to make use of my one time service.",
-        "pt-BR": "[Hipnotizadora]\nA redistribuição de habilidades dá aos\naventureiros outra chance\nde redistribuir seus pontos de habilidade. Se estiver insatisfeito com suas habilidades atuais, talvez queira usar meu serviço único.",
+        "pt-BR": "[Hipnotizadora]\nA Redistribuição de Habilidades dá aos aventureiros uma nova chance de redistribuir seus Pontos de Habilidade. Se você não está satisfeito com suas Habilidades atuais, pode aproveitar meu serviço, disponível uma única vez.",
         "es-ES": "[Hipnotizadora]\nLa redistribución de habilidades\nofrece a los trotamundos otra oportunidad\nde redistribuir sus puntos de habilidad. Si no estás contento con tus habilidades actuales, quizás quieras hacer uso de mi servicio único."
     },
     "iBoG": {
         "en-US": "[Hypnotist]\nKeep in mind that you can\nredistribute your skills only when you aren't carrying any items on your person. Please use the Kafra Storage service to store your luggage weight beforehand.",
-        "pt-BR": "[Hipnotizadora]\nLembre-se de que você pode\nredistribuir suas habilidades somente quando não estiver carregando nenhum item consigo. Por favor, use o Armazém das Kafras para guardar todos os seus itens.",
+        "pt-BR": "[Hipnotizadora]\nLembre-se de que você só pode redistribuir suas Habilidades quando não estiver carregando nenhum item. Use o serviço de Armazenamento da Kafra para guardar seus pertences e reduzir o peso antes de solicitar o serviço.",
         "es-ES": "[Hipnotizadora]\nTen en cuenta que puedes\nredistribuir tus habilidades solo cuando no lleves ningún objeto encima. Utiliza el servicio de almacenamiento de Kafra para guardar el peso de tu equipaje de antemano."
     },
     "iRoG": {
@@ -51,7 +51,7 @@
     },
     "ihoG": {
         "en-US": "[Hypnotist]\nSo you've really\ndecided that you'd\nlike a ^FF0000Skill Reset^000000.\nShall we go ahead?",
-        "pt-BR": "[Hipnotizadora]\nEntão você realmente\ndecidiu que gostaria de\numa ^FF0000Redefinição de Habilidades^000000.\nPodemos continuar?",
+        "pt-BR": "[Hipnotizadora]\nEntão você realmente\ndecidiu que gostaria de uma\n^FF0000Redefinição de Habilidades^000000.\nPodemos prosseguir?",
         "es-ES": "[Hipnotizadora]\nAsí que has decidido\nque te gustaría un ^FF0000Reajuste de Habilidades^000000.\n¿Seguimos?"
     },
     "ixoG": {
@@ -66,7 +66,7 @@
     },
     "jRoG": {
         "en-US": "[Hypnotist]\nOh, I'm sorry, but\nyou're not eligible for\na skill reset. Your Base\nLevel is too high for my\nhypnosis to work...",
-        "pt-BR": "[Hipnotizadora]\nAh, desculpe, \nmas você não pode redistribuir \nsuas habilidades.\nSeu Nível de Base é alto demais \npara minha hipnose funcionar...",
+        "pt-BR": "[Hipnotizadora]\nAh, desculpe, mas\nvocê não atende aos requisitos\npara redefinir suas habilidades. Seu Nível\nBase está alto demais para que minha\nhipnose funcione...",
         "es-ES": "[Hipnotizadora]\nOh, lo siento, pero\nno eres elegible para\nuna redistribución de habilidades. Tu nivel\nde base es demasiado alto para que mi\nhipnosis funcione..."
     },
     "jhoG": {

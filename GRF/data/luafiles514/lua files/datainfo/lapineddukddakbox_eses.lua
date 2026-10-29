@@ -81,6 +81,9 @@ tblLapineDdukddakBox_string = {
 		EnchantStone_Mix_Box_MS = {
 			NeedSource_String = "Piedras de encantamiento"
 		},
+		EnchantStone_Recipe = {
+			NeedSource_String = "Piedra de Encantamiento de Traje"
+		},
 		EnchantStone_Recipe_LT = {
 			NeedSource_String = "Disfraz Malangdo de Marzo"
 		},

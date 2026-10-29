@@ -6399,5 +6399,266 @@ ReformInfo_string = {
 			"3) Información de cartas y encantamientos : Se conserva",
 			"4) Información de grado : Se conserva"
 		}
+	},
+	[962] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[963] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[964] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[716] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[717] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[718] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[719] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[720] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[721] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[722] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[723] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[724] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[725] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[726] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[727] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[728] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[729] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[730] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[731] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[732] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[733] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[734] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[735] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[736] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[737] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[738] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[739] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[740] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
+	},
+	[741] = {
+		InformationString = {
+			"<B>Información del resultado de la combinación</B>",
+			"1) Nivel de refinamiento : ^4D4DFF+1^000000",
+			"2) Información de opciones aleatorias : Se conserva",
+			"3) Información de cartas y encantamientos : Se conserva",
+			"4) Información de grado : Se conserva"
+		}
 	}
 }

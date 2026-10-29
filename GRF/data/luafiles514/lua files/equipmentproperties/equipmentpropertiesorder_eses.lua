@@ -239,10 +239,10 @@ EquipmentPropertiesOrder_string = {
 				name = "{sym}{val}%#Daño mágico a enemigos Jefes"
 			},
 			[29] = {
-				name = "{sym}{val}%#Daño mágico a enemigos Normales"
+				name = "{sym}{val}%#DEFM ignorada de enemigos Normales"
 			},
 			[30] = {
-				name = "{sym}{val}%#Daño mágico a enemigos Jefes"
+				name = "{sym}{val}%#DEFM ignorada de enemigos Jefes"
 			},
 			[31] = {
 				name = "{sym}{val}%#Daño a distancia larga"

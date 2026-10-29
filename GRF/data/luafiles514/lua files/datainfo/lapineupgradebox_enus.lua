@@ -148,6 +148,9 @@ tblLapineUpgradeBox_string = {
 		Gemstone_Of_Time = {
 			NeedSource_String = "6 types of Overwhelm Armor"
 		},
+		Glacier_W_Refine = {
+			NeedSource_String = "Glacier Weapon"
+		},
 		God_Favor_TW = {
 			NeedSource_String = "Ultio Magic Cloak"
 		},
@@ -408,6 +411,9 @@ tblLapineUpgradeBox_string = {
 		},
 		Skill_Sha_R_M_Magic = {NeedSource_String = "Skill Gear"},
 		Skill_Sha_R_M_Melee = {NeedSource_String = "Skill Gear"},
+		Snow_F_Refine = {
+			NeedSource_String = "Snow Flower Armor"
+		},
 		SpellCaster_Shadow_Up = {
 			NeedSource_String = "Spell Shadow"
 		},
@@ -494,12 +500,6 @@ tblLapineUpgradeBox_string = {
 		},
 		Vampire_Box_IL = {
 			NeedSource_String = "Illusion of Vampire"
-		},
-		Snow_F_Refine = {
-			NeedSource_String = "Snow Flower Armor"
-		},
-		Glacier_W_Refine = {
-			NeedSource_String = "Glacier Weapon"
 		}
 	}
 }

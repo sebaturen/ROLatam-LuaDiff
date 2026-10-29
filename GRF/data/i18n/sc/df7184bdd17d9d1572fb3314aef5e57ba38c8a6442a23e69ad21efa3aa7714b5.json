@@ -2265,119 +2265,119 @@
         "es-ES": "[Gracias por ser parte de nuestra historia — ¡esperamos que este gesto haga tu aventura aún mejor!]"
     },
     "ESk": {
-        "en-US": "[Here is the reward for landing on the 1st Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 1ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 1 del Caminos de Midgard.]"
+        "en-US": "[Spend and Win(150,000)]",
+        "pt-BR": "[Use e Ganhe(150.000)]",
+        "es-ES": "[Usa y Gana(150 000)]"
     },
     "Eik": {
-        "en-US": "[Here is the reward for landing on the 2nd Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 2ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 2 del Caminos de Midgard.]"
+        "en-US": "[Spend and Win(300,000)]",
+        "pt-BR": "[Use e Ganhe(300.000)]",
+        "es-ES": "[Usa y Gana(300 000)]"
     },
     "Eyk": {
-        "en-US": "[Here is the reward for landing on the 3rd Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 3ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 3 del Caminos de Midgard.]"
+        "en-US": "[Free Character Slot]",
+        "pt-BR": "[Slot de Personagem Grátis]",
+        "es-ES": "[Espacio de personaje gratis]"
     },
     "FCk": {
-        "en-US": "[Here is the reward for landing on the 4th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 4ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 4 del Caminos de Midgard.]"
+        "en-US": "[JCoin Rush (50,000)]",
+        "pt-BR": "[JCoin Rush (50.000)]",
+        "es-ES": "[JCoin Rush (50 000)]"
     },
     "FSk": {
-        "en-US": "[Here is the reward for landing on the 6th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 6ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 6 del Caminos de Midgard.]"
+        "en-US": "[JCoin Rush (100,000)]",
+        "pt-BR": "[JCoin Rush (100.000)]",
+        "es-ES": "[JCoin Rush (100 000)]"
     },
     "Fik": {
-        "en-US": "[Here is the reward for landing on the 7th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 7ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 7 del Caminos de Midgard.]"
+        "en-US": "[JCoin Rush (250,000)]",
+        "pt-BR": "[JCoin Rush (250.000)]",
+        "es-ES": "[JCoin Rush (250 000)]"
     },
     "Fyk": {
-        "en-US": "[Here is the reward for landing on the 8th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 8ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 8 del Caminos de Midgard.]"
+        "en-US": "[JCoin Rush (500,000)]",
+        "pt-BR": "[JCoin Rush (500.000)]",
+        "es-ES": "[JCoin Rush (500 000)]"
     },
     "GCk": {
-        "en-US": "[Here is the reward for landing on the 9th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 9ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 9 del Caminos de Midgard.]"
+        "en-US": "[JCoin Rush (1,000,000)]",
+        "pt-BR": "[JCoin Rush (1.000.000)]",
+        "es-ES": "[JCoin Rush (1 000 000)]"
     },
     "GSk": {
-        "en-US": "[Here is the reward for landing on the 10th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 10ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 10 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 1st day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 1º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 1 del Evento Usa y Gana(50 000).]"
     },
     "Gik": {
-        "en-US": "[Here is the reward for landing on the 12th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 12ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 12 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 2nd day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 2º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 2 del Evento Usa y Gana(50 000).]"
     },
     "Gyk": {
-        "en-US": "[Here is the reward for landing on the 13rd Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 13ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 13 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 3rd day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 3º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 3 del Evento Usa y Gana(50 000).]"
     },
     "HCk": {
-        "en-US": "[Here is the reward for landing on the 14th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 14ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 14 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 4th day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 4º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 4 del Evento Usa y Gana(50 000).]"
     },
     "HSk": {
-        "en-US": "[Here is the reward for landing on the 16th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 16ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 16 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 5th day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 5º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 5 del Evento Usa y Gana(50 000).]"
     },
     "Hik": {
-        "en-US": "[Here is the reward for landing on the 17th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 17ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 17 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 6th day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 6º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 6 del Evento Usa y Gana(50 000).]"
     },
     "Hyk": {
-        "en-US": "[Here is the reward for landing on the 18th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 18ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 18 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the 7th day of the Spend and Win Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 7º dia do Evento Use e Ganhe(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 7 del Evento Usa y Gana(50 000).]"
     },
     "ICk": {
-        "en-US": "[Here is the reward for landing on the 20th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 20ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 20 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the Spend and Win Event(150,000).]",
+        "pt-BR": "[Presente por ter participado do Evento Use e Ganhe(150.000).]",
+        "es-ES": "[Regalo por participar en el Evento Usa y Gana(150 000).]"
     },
     "ISk": {
-        "en-US": "[Here is the reward for landing on the 21th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 21ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 21 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the Spend and Win Event(300,000).]",
+        "pt-BR": "[Presente por ter participado do Evento Use e Ganhe(300.000).]",
+        "es-ES": "[Regalo por participar en el Evento Usa y Gana(300 000).]"
     },
     "Iik": {
-        "en-US": "[Here is the reward for landing on the 23rd Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 23ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 23 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the Free Character Slot Event.]",
+        "pt-BR": "[Presente por ter participado do Evento de Slot de Personagem Grátis.]",
+        "es-ES": "[Regalo por participar en el Evento de Espacio de personaje gratis.]"
     },
     "Iyk": {
-        "en-US": "[Here is the reward for landing on the 24th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 24ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 24 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the JCoin Rush Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do Evento JCoin Rush(50.000).]",
+        "es-ES": "[Regalo por participar en el Evento JCoin Rush(50 000).]"
     },
     "JCk": {
-        "en-US": "[Here is the reward for landing on the 25th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 25ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 25 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the JCoin Rush Event(100,000).]",
+        "pt-BR": "[Presente por ter participado do Evento JCoin Rush(100.000).]",
+        "es-ES": "[Regalo por participar en el Evento JCoin Rush(100 000).]"
     },
     "JSk": {
-        "en-US": "[Here is the reward for landing on the 27th Tile of the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 27ª Casa da Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por caer en la Casilla 27 del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the JCoin Rush Event(250,000).]",
+        "pt-BR": "[Presente por ter participado do Evento JCoin Rush(250.000).]",
+        "es-ES": "[Regalo por participar en el Evento JCoin Rush(250 000).]"
     },
     "Jik": {
-        "en-US": "[Here is the reward for 1st full lap in the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 1ª volta completa na Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por la primera vuelta completa del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the JCoin Rush Event(500,000).]",
+        "pt-BR": "[Presente por ter participado do Evento JCoin Rush(500.000).]",
+        "es-ES": "[Regalo por participar en el Evento JCoin Rush(500 000).]"
     },
     "Jyk": {
-        "en-US": "[Here is the reward for 3rd full lap in the Midgard Trail.]",
-        "pt-BR": "[Segue premiação referente à 3ª volta completa na Trilha de Midgard.]",
-        "es-ES": "[Aquí está la recompensa por la tercera vuelta completa del Caminos de Midgard.]"
+        "en-US": "[Gift for participating in the JCoin Rush Event(1,000,000).]",
+        "pt-BR": "[Presente por ter participado do Evento JCoin Rush(1.000.000).]",
+        "es-ES": "[Regalo por participar en el Evento JCoin Rush(1 000 000).]"
     },
     "KCk": {
         "en-US": "[Here is the reward for 5th full lap in the Midgard Trail.]",
@@ -2488,5 +2488,80 @@
         "en-US": "[Join the Second Season of the Battle Pass]",
         "pt-BR": "[Participe da Segunda Temporada do Passe de Batalha]",
         "es-ES": "[Únete a la Segunda Temporada del Pase de Batalla]"
+    },
+    "Aik": {
+        "en-US": "[Daily Check-In Event - Day 29]",
+        "pt-BR": "[Evento de Login Diário - Dia 29]",
+        "es-ES": "[Evento de Registro Diario - Día 29]"
+    },
+    "Ayk": {
+        "en-US": "[Daily Check-In Event - Day 30]",
+        "pt-BR": "[Evento de Login Diário - Dia 30]",
+        "es-ES": "[Evento de Registro Diario - Día 30]"
+    },
+    "BCk": {
+        "en-US": "[JCoin Rush 7th Day(50,000)]",
+        "pt-BR": "[JCoin Rush 7º Dia(50.000)]",
+        "es-ES": "[JCoin Rush Día 7(50 000)]"
+    },
+    "BSk": {
+        "en-US": "[Free Character Slot]",
+        "pt-BR": "[Slot de Personagem Grátis]",
+        "es-ES": "[Espacio de personaje gratis]"
+    },
+    "Bik": {
+        "en-US": "[Here is the prize for 29 days login on the official web site.]",
+        "pt-BR": "[Segue a premiação pelo login de 29 dias no site oficial.]",
+        "es-ES": "[Aquí está el premio por 29 días de inicio de sesión en el sitio.]"
+    },
+    "Byk": {
+        "en-US": "[Here is the prize for 30 days login on the official web site.]",
+        "pt-BR": "[Segue a premiação pelo login de 30 dias no site oficial.]",
+        "es-ES": "[Aquí está el premio por 30 días de inicio de sesión en el sitio.]"
+    },
+    "CCk": {
+        "en-US": "[Gift for participating in the 7th day of the JCoin Rush Event(50,000).]",
+        "pt-BR": "[Presente por ter participado do 7º dia do Evento JCoin Rush(50.000).]",
+        "es-ES": "[Regalo por participar en el Día 7 del Evento JCoin Rush(50 000).]"
+    },
+    "CSk": {
+        "en-US": "[Gift for participating in the Free Character Slot Event.]",
+        "pt-BR": "[Presente por ter participado do Evento de Slot de Personagem Grátis.]",
+        "es-ES": "[Regalo por participar en el Evento de Espacio de personaje gratis.]"
+    },
+    "Cik": {
+        "en-US": "[Spend and Win 1st Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 1º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 1(50 000)]"
+    },
+    "Cyk": {
+        "en-US": "[Spend and Win 2nd Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 2º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 2(50 000)]"
+    },
+    "DCk": {
+        "en-US": "[Spend and Win 3rd Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 3º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 3(50 000)]"
+    },
+    "DSk": {
+        "en-US": "[Spend and Win 4th Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 4º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 4(50 000)]"
+    },
+    "Dik": {
+        "en-US": "[Spend and Win 5th Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 5º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 5(50 000)]"
+    },
+    "Dyk": {
+        "en-US": "[Spend and Win 6th Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 6º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 6(50 000)]"
+    },
+    "ECk": {
+        "en-US": "[Spend and Win 7th Day(50,000)]",
+        "pt-BR": "[Use e Ganhe 7º Dia(50.000)]",
+        "es-ES": "[Usa y Gana Día 7(50 000)]"
     }
 }

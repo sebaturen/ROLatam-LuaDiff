@@ -146,6 +146,9 @@ tblLapineUpgradeBox_string = {
 		Gemstone_Of_Time = {
 			NeedSource_String = "Armadura do Herói"
 		},
+		Glacier_W_Refine = {
+			NeedSource_String = "Arma Invernal"
+		},
 		God_Favor_TW = {
 			NeedSource_String = "Manto Ultio-OS"
 		},
@@ -414,6 +417,9 @@ tblLapineUpgradeBox_string = {
 		Skill_Sha_R_M_Melee = {
 			NeedSource_String = "Sombrios de Habilidade"
 		},
+		Snow_F_Refine = {
+			NeedSource_String = "Armadura Invernal"
+		},
 		SpellCaster_Shadow_Up = {
 			NeedSource_String = "Sombrio dos Feitiços"
 		},
@@ -500,12 +506,6 @@ tblLapineUpgradeBox_string = {
 		},
 		Vampire_Box_IL = {
 			NeedSource_String = "Ilusão do Vampiro"
-		},
-		Snow_F_Refine = {
-			NeedSource_String = "Snow Flower Armor"
-		},
-		Glacier_W_Refine = {
-			NeedSource_String = "Glacier Weapon"
 		}
 	}
 }

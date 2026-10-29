@@ -134,7 +134,7 @@ Navi_Map = {
 	},
 	{
 		"abyss_04",
-		"Caverna Subterrânea do Lago do Abismo (4)",
+		"Caverna Subterrânea (4)",
 		5001,
 		340,
 		340
@@ -428,28 +428,28 @@ Navi_Map = {
 	},
 	{
 		"ba_2whs02",
-		"Piso Inferior do Depósito Tártaros",
+		"Cofre Tártaro - Andar Inferior",
 		5001,
 		360,
 		360
 	},
 	{
 		"ba_bath",
-		"Banho de Meditação Grande",
+		"Grande Banho Meditatio",
 		5001,
 		320,
 		320
 	},
 	{
 		"ba_chess",
-		"Xeque-mate",
+		"Cheque-mate",
 		5001,
 		48,
 		48
 	},
 	{
 		"ba_go",
-		"Campo de Batalha Fileira de Palmeiras",
+		"Campo de Batalha Aquático",
 		5001,
 		104,
 		100
@@ -463,14 +463,14 @@ Navi_Map = {
 	},
 	{
 		"ba_lib",
-		"Salão de Memórias da Biblioteca",
+		"Corredor da Biblioteca das Memórias",
 		5001,
 		320,
 		320
 	},
 	{
 		"ba_lost",
-		"Fazenda Vale Perdido",
+		"Menageria do Vale Perdido",
 		5001,
 		320,
 		360
@@ -484,7 +484,7 @@ Navi_Map = {
 	},
 	{
 		"ba_pw01",
-		"Usina Mágica 1",
+		"Primeira Usina de Energia",
 		5001,
 		300,
 		300
@@ -498,7 +498,7 @@ Navi_Map = {
 	},
 	{
 		"ba_pw03",
-		"Usina Mágica 2",
+		"Segunda Usina de Energia",
 		5001,
 		300,
 		300
@@ -1680,6 +1680,13 @@ Navi_Map = {
 		280
 	},
 	{
+		"icas_in",
+		"",
+		5003,
+		280,
+		320
+	},
+	{
 		"ice_d03_i",
 		"",
 		5001,
@@ -1713,6 +1720,13 @@ Navi_Map = {
 		5001,
 		200,
 		200
+	},
+	{
+		"icecastle",
+		"",
+		5001,
+		300,
+		300
 	},
 	{
 		"in_hunter",
@@ -1951,6 +1965,83 @@ Navi_Map = {
 		5001,
 		140,
 		172
+	},
+	{
+		"jor_ab01",
+		"",
+		5001,
+		300,
+		300
+	},
+	{
+		"jor_ab02",
+		"",
+		5001,
+		300,
+		300
+	},
+	{
+		"jor_back1",
+		"",
+		5001,
+		400,
+		400
+	},
+	{
+		"jor_back2",
+		"",
+		5001,
+		400,
+		400
+	},
+	{
+		"jor_back3",
+		"",
+		5001,
+		400,
+		400
+	},
+	{
+		"jor_dun01",
+		"",
+		5001,
+		300,
+		300
+	},
+	{
+		"jor_dun02",
+		"",
+		5001,
+		300,
+		300
+	},
+	{
+		"jor_dun03",
+		"",
+		5001,
+		120,
+		120
+	},
+	{
+		"jor_nest",
+		"",
+		5001,
+		300,
+		300
+	},
+	{
+		"jor_que",
+		"",
+		5001,
+		300,
+		300
+	},
+	{
+		"jor_tail",
+		"",
+		5001,
+		320,
+		300
 	},
 	{
 		"jupe_area1",
@@ -3123,7 +3214,7 @@ Navi_Map = {
 	},
 	{
 		"odin_past",
-		"Antigo Templo de Odin",
+		"Templo de Odin",
 		5001,
 		400,
 		400
@@ -4061,7 +4152,7 @@ Navi_Map = {
 	},
 	{
 		"rockrdg2",
-		"Kiwawa Desert",
+		"Deserto Kiwawa (2)",
 		5001,
 		400,
 		400

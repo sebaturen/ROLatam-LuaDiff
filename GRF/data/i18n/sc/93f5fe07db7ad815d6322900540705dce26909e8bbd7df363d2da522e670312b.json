@@ -1,73 +1,73 @@
 {
     "IH8MDg": {
         "en-US": "Horuru",
-        "pt-BR": "Horur",
+        "pt-BR": "Horuru",
         "es-ES": "Horuru"
     },
     "IX8MDg": {
         "en-US": "[Horuru]\nI doubt you brought a Rgan all the way here for no reason... What exactly is going on?",
-        "pt-BR": "[Horur]\nNão acho que teria trazido um Rgan até aqui sem motivo... Afinal, o que aconteceu?",
-        "es-ES": "[Horuru]\nNo creo que hayan traído a un Rgan hasta aquí sin motivo... ¿Qué ocurre?"
+        "pt-BR": "[Horuru]\nNão acho que você traria um Rgan até aqui sem motivo... Afinal, o que aconteceu?",
+        "es-ES": "[Horuru]\nNo creo que hayan traído a un Rgan hasta aquí sin motivo. ¿Qué pasó?"
     },
     "In8MDg": {
         "en-US": "What's going on?",
         "pt-BR": "O que aconteceu?",
-        "es-ES": "¿Qué ocurre?"
+        "es-ES": "¿Qué pasó?"
     },
     "I38MDg": {
         "en-US": "[{0}]\nThey're an Illusion scientist, and I think they were subjected to Bagot's experiments. So I brought medicine and... H-huh? Where did the medicine go? Did I drop it somewhere?? I'll go back and get it!!",
-        "pt-BR": "[{0}]\nÉ um cientista da Illusion. Parece que foi vítima de um experimento de Bagot. Então trouxe os medicamentos e... H-hã? Onde foram parar os medicamentos? Será que deixei cair no caminho?? Eu, eu vou voltar lá!!",
-        "es-ES": "[{0}]\nEs un científico de Illusion, pero parece que Bagot experimentó con él. Por eso traje medicinas y... ¿Eh? ¿Qué? ¿Dónde están las medicinas? ¿Se me habrán caído por el camino? ¡¡Voy a regresar a buscarlas!!"
+        "pt-BR": "[{0}]\nÉ um cientista da Ilusión. Parece que foi vítima de um experimento de Bagot. Então trouxe os medicamentos e... H-hã? Onde foram parar os medicamentos? Será que deixei cair no caminho?? Eu vou voltar lá!!",
+        "es-ES": "[{0}]\nEs de Ilusión, pero parece que Bagot le hizo experimentos. Por eso traje medicinas y... ¿En dónde están las medicinas? ¿Se me habrán caído por el camino? ¡Voy a regresar a buscarlas!"
     },
     "JH8MDg": {
         "en-US": "[Leizi]\nIs that really ^0000CDJuncea's human^000000? Why do they look like that?",
         "pt-BR": "[Nalandro]\nNão me diga que esse é o ^0000CDhumano da Sra. Juncea^000000? Por que está desse jeito?",
-        "es-ES": "[Lazy]\nEspera, ¿ese no es el ^0000CDhumano de Juncea^000000? ¿Por qué está así?"
+        "es-ES": "[Lazy]\nEspera, ¿esa no es ^0000CDJuncea^000000? ¿Por qué está así?"
     },
     "JX8MDg": {
         "en-US": "[{0}]\nThere was no other way to get safely out of the Rgan nest.",
-        "pt-BR": "[{0}]\nNão tive escolha se quisesse sair do covil dos Rgan em segurança.",
-        "es-ES": "[{0}]\nNo había otra forma de salir a salvo de la guarida de los Rgan."
+        "pt-BR": "[{0}]\nFoi a minha única opção para sair do covil dos Rgan em segurança.",
+        "es-ES": "[{0}]\nNo había otra forma de salir a salvo del nido de los Rgan."
     },
     "Jn8MDg": {
         "en-US": "[Leizi]\nLay them down over there for now.",
         "pt-BR": "[Nalandro]\nPrimeiro, deite-o ali.",
-        "es-ES": "[Lazy]\nPor ahora, recuéstalo ahí."
+        "es-ES": "[Lazy]\nBueno, recuéstala ahí."
     },
     "J38MDg": {
         "en-US": "For a moment there, I thought this was your house, Leizi.",
         "pt-BR": "Por um instante, achei que esta fosse a casa do Sr. Nalandro.",
-        "es-ES": "Por un momento pensé que esta era la casa del señor Lazy."
+        "es-ES": "Espera, pensé que esta era la casa de Lazy."
     },
     "KH8MDg": {
         "en-US": "[Lehar]\nYou said you'd bring them out, but were you planning to leave them barely alive like this?",
-        "pt-BR": "[Lehar]\nVocê disse que ia tirá-lo de lá. Pretendia deixá-lo assim, só respirando por um fio?",
-        "es-ES": "[Lehar]\nDijiste que lo sacarías de ahí, ¿pero pensabas dejarlo apenas con vida?"
+        "pt-BR": "[Lehar]\nVocê disse tiraria ele de lá. Pretendia deixá-lo assim, só respirando por um fio?",
+        "es-ES": "[Lehar]\nDijiste que la ibas a traer, pero no pensé que fuera casi agonizando."
     },
     "KX8MDg": {
         "en-US": "[Leizi]\nAh, we can talk about that later. First, change them back into human form. Then we can treat them or whatever.",
         "pt-BR": "[Nalandro]\nAh, falamos disso depois. Primeiro, transforme-o de volta em humano. Só assim poderemos tratá-lo.",
-        "es-ES": "[Lazy]\nAh, ya hablaremos de eso después. Primero devuélvelo a su forma humana. Así podremos tratarlo."
+        "es-ES": "[Lazy]\nAh, ya hablaremos de eso después. Primero devuélvela a su forma normal para poder tratarla."
     },
     "Kn8MDg": {
         "en-US": "[Miriam]\nThe body... the wings...!",
         "pt-BR": "[Miriam]\nO corpo... as asas...!",
-        "es-ES": "[Miriam]\nMi cuerpo... ¡mis alas...!"
+        "es-ES": "[Miriam]\nEl cuerpo... las alas..."
     },
     "K38MDg": {
         "en-US": "[Leizi]\nHey, niece, you've got divine power, right? Please heal them.",
-        "pt-BR": "[Nalandro]\nEi, sobrinho, você tem poder divino, não tem? Pode tratá-lo, por favor.",
-        "es-ES": "[Lazy]\nOye, sobrina, tienes poder divino, ¿verdad? Ayúdame a curarlo."
+        "pt-BR": "[Nalandro]\nEi, sobrinho, você tem poder divino, não tem? Por favor, cure-o.",
+        "es-ES": "[Lazy]\nOye, tienes poder divino, ¿no? Ayúdame con cura."
     },
     "LH8MDg": {
         "en-US": "Y-yes!!",
         "pt-BR": "S-sim!!",
-        "es-ES": "¡¡Sí, sí!!"
+        "es-ES": "S-sí."
     },
     "LX8MDg": {
         "en-US": "[Horuru]\nNow, explain what happened.",
-        "pt-BR": "[Horur]\nAgora explique o que aconteceu.",
-        "es-ES": "[Horuru]\nAhora explícame qué pasó."
+        "pt-BR": "[Horuru]\nAgora explique o que aconteceu.",
+        "es-ES": "[Horuru]\nExplícanos qué pasó."
     },
     "Ln8MDg": {
         "en-US": "I think they found out about our plan.",
@@ -76,23 +76,23 @@
     },
     "L38MDg": {
         "en-US": "[Leizi]\nHmm, even if they don't know it's us, it seems they realized someone was sowing discord?",
-        "pt-BR": "[Nalandro]\nHum, talvez não saibam que somos nós, mas parece que perceberam que alguém está tentando colocá-los uns contra os outros.",
-        "es-ES": "[Lazy]\nHmm, parece que se dieron cuenta de que alguien estaba sembrando discordia, aunque no supieran que éramos nosotros."
+        "pt-BR": "[Nalandro]\nHm, talvez não saibam quem somos nós, mas parece que perceberam que alguém está tentando colocá-los uns contra os outros.",
+        "es-ES": "[Lazy]\nParece que se dieron cuenta de que alguien estaba sembrando discordia, aunque no supieran que éramos nosotros."
     },
     "MH8MDg": {
         "en-US": "[Miriam]\nSo they did this to their own comrade and tried to find and eliminate whoever was sowing discord?",
-        "pt-BR": "[Miriam]\nEntão fizeram isso com um companheiro e tentaram encontrar e eliminar quem estava causando discórdia?",
-        "es-ES": "[Miriam]\nEntonces, ¿dejaron a su compañero así para encontrar y eliminar a quien sembró la discordia?"
+        "pt-BR": "[Miriam]\nEntão fizeram isso com o próprio companheiro e tentaram encontrar e eliminar quem estava causando discórdia?",
+        "es-ES": "[Miriam]\nEntonces, ¿le hicieron esto a alguien de su propio equipo para eliminar la discordia?"
     },
     "MX8MDg": {
         "en-US": "[Lehar]\nBut what on earth happened to this body.... What do you even have to do to end up like this?",
         "pt-BR": "[Lehar]\nMas esse corpo... afinal.... O que fizeram para ele ficar assim?",
-        "es-ES": "[Lehar]\nPero este cuerpo... ¿qué tuvieron que hacerle para dejarlo así?"
+        "es-ES": "[Lehar]\nPero, ¿qué le pasó? ¿Qué le hicieron para que quedara así?"
     },
     "Mn8MDg": {
         "en-US": "It seems to be related to Bagot's experiments.",
         "pt-BR": "Parece estar relacionado aos experimentos de Bagot.",
-        "es-ES": "Parece estar relacionado con los experimentos de Bagot."
+        "es-ES": "Parece tener relación con los experimentos de Bagot."
     },
     "M38MDg": {
         "en-US": "[{0}]\nSomething like the chimera that was made into a false god in Rachel.",
@@ -102,27 +102,27 @@
     "NH8MDg": {
         "en-US": "[Miriam]\nThen Bagot's research is... Don't tell me...!",
         "pt-BR": "[Miriam]\nEntão, a pesquisa de Bagot... não pode ser...!",
-        "es-ES": "[Miriam]\nEntonces, la investigación de Bagot... ¡No puede ser...!"
+        "es-ES": "[Miriam]\nEntonces, la investigación de Bagot... ¡No puede ser!"
     },
     "NX8MDg": {
         "en-US": "[Leizi]\nWhatever it is, there's no way it's good for us. Let's wake this person up first and ask for the details.",
         "pt-BR": "[Nalandro]\nSeja o que for, não deve ser nada bom para nós. Primeiro vamos acordar esta pessoa e perguntar os detalhes.",
-        "es-ES": "[Lazy]\nSea lo que sea, seguro que no será nada bueno para nosotros. Primero despertemos a esta persona y preguntémosle los detalles."
+        "es-ES": "[Lazy]\nSea lo que sea, seguro que no será nada bueno para nosotros. Primero hay que despertarla para saber más."
     },
     "Nn8MDg": {
         "en-US": "We can't just charge in blindly.",
-        "pt-BR": "Não podemos simplesmente invadir sem pensar.",
-        "es-ES": "No podemos irrumpir ahí sin un plan."
+        "pt-BR": "Não podemos simplesmente atacar sem pensar.",
+        "es-ES": "No podemos hacer nada sin un plan."
     },
     "N38MDg": {
         "en-US": "[Leizi]\nHey. Juncea's human. Wake up. We have a lot to ask you.",
         "pt-BR": "[Nalandro]\nEi. Humano da Sra. Juncea. Acorde. Temos muita coisa para perguntar.",
-        "es-ES": "[Lazy]\nOye, humano de Juncea. Despierta. Tengo muchísimas cosas que preguntarte."
+        "es-ES": "[Lazy]\nOye. Despierta. Tengo muchísimas cosas que preguntarte."
     },
     "OH8MDg": {
         "en-US": "Juncea's human?",
         "pt-BR": "Humano da Sra. Juncea?",
-        "es-ES": "¿Humano de Juncea?"
+        "es-ES": "¿Juncea?"
     },
     "OX8MDg": {
         "en-US": "[Juncea]\n......",
@@ -131,43 +131,43 @@
     },
     "On8MDg": {
         "en-US": "[Leizi]\nWhat do we do now? They won't even regain consciousness.\nHow long have they been unconscious? Why haven't they returned to their original form?",
-        "pt-BR": "[Nalandro]\nE agora, o que fazemos? Ele nem recobra a consciência.\nHá quanto tempo está inconsciente? E por que ainda não voltou à forma original?",
-        "es-ES": "[Lazy]\n¿Y ahora qué hacemos? Ni siquiera recupera el conocimiento.\n¿Cuánto tiempo lleva inconsciente? ¿Por qué tampoco vuelve a su forma original?"
+        "pt-BR": "[Nalandro]\nE agora, o que fazemos? Ele nem consegue acordar.\nHá quanto tempo está inconsciente? E por que ainda não voltou à forma original?",
+        "es-ES": "[Lazy]\n¿Y ahora qué hacemos? No despierta.\n¿Cuánto tiempo lleva inconsciente? ¿Por qué no vuelve a su forma original?"
     },
     "O38MDg": {
         "en-US": "[Horuru]\nHow did this happen? Were there any clues?",
-        "pt-BR": "[Horur]\nComo acabou ficando assim? Não havia nenhuma pista?",
-        "es-ES": "[Horuru]\n¿Cómo terminó así? ¿No había ninguna pista?"
+        "pt-BR": "[Horuru]\nComo acabou ficando assim? Não havia nenhuma pista?",
+        "es-ES": "[Horuru]\n¿Cómo terminó así? ¿No saben?"
     },
     "PH8MDg": {
         "en-US": "[{0}]\nHmm...... I did pick this up in that laboratory, but I don't know if it'll help.",
-        "pt-BR": "[{0}]\nHum...... Eu trouxe isto daquele laboratório, mas não sei se vai ajudar.",
-        "es-ES": "[{0}]\nHmm...... Encontré esto en ese laboratorio, aunque no sé si servirá de algo."
+        "pt-BR": "[{0}]\nHm...... Eu trouxe isto daquele laboratório, mas não sei se vai ajudar.",
+        "es-ES": "[{0}]\nHmm... Encontré esto en ese laboratorio, aunque no sé si servirá de algo."
     },
     "PX8MDg": {
         "en-US": "[Leizi]\nCan anyone read this?",
         "pt-BR": "[Nalandro]\nAlguém aqui consegue ler isto?",
-        "es-ES": "[Lazy]\n¿Alguien puede leer esto?"
+        "es-ES": "[Lazy]\n¿Alguien lo puede leer?"
     },
     "Pn8MDg": {
         "en-US": "[Lehar]\nWhat is this? Should I dip something in it and taste it?",
         "pt-BR": "[Lehar]\nO que é isto? Será que dá para provar?",
-        "es-ES": "[Lehar]\n¿Qué es esto? ¿Debería probarlo con el dedo?"
+        "es-ES": "[Lehar]\n¿Qué es? ¿Lo pruebo?"
     },
     "P38MDg": {
         "en-US": "[Horuru]\nYou don't even know what that is! Do you think it's some kind of sauce?!",
-        "pt-BR": "[Horur]\nComo vai saber o que é isso! Acha que é algum tipo de molho?!",
-        "es-ES": "[Horuru]\n¡Pero ni siquiera sabes qué es! ¿Crees que es una salsa o qué?"
+        "pt-BR": "[Horuru]\nVocê nem sabe do que se trata! Acha que é algum tipo de molho?!",
+        "es-ES": "[Horuru]\n¡No sabes ni qué es! ¿Crees que es de comer o qué?"
     },
     "QH8MDg": {
         "en-US": "[Leizi]\nUnfortunately, none of us can. Since you brought it out of that place, there must be some clue to Detoxify.",
-        "pt-BR": "[Nalandro]\nInfelizmente, ninguém aqui consegue. Como isso veio daquele lugar, certamente deve haver alguma pista sobre Desintoxicar.",
-        "es-ES": "[Lazy]\nPor desgracia, ninguno de nosotros puede. Como lo trajiste de ese lugar, seguro que contiene alguna pista para la Desintoxicación."
+        "pt-BR": "[Nalandro]\nInfelizmente, ninguém aqui consegue. Como veio daquele lugar, certamente deve haver alguma pista sobre Desintoxicar.",
+        "es-ES": "[Lazy]\nPor desgracia, ninguno de nosotros puede. Como lo trajiste de ese lugar, debería de haber alguna pista para desintoxicar."
     },
     "QX8MDg": {
         "en-US": "[Lehar]\nAh! In that case, I'll bring my aunt. She's good at examining things like this.",
         "pt-BR": "[Lehar]\nAh! Nesse caso, vou buscar minha tia. Ela entende bem dessas coisas.",
-        "es-ES": "[Lehar]\n¡Ah! Si es por eso, iré a buscar a mi tía. Se le da bien revisar cosas como esta."
+        "es-ES": "[Lehar]\nSi es por eso, iré por mi tía. Es buena examinando cosas como esta."
     },
     "Qn8MDg": {
         "en-US": "Ooh, a scientist. Ooh.",
@@ -177,82 +177,82 @@
     "Q38MDg": {
         "en-US": "[Leizi]\nStill, I didn't expect us to get found out this quickly. Our faces are known now, so we can't investigate any further.",
         "pt-BR": "[Nalandro]\nDe qualquer forma, não esperava que descobrissem tão rápido. Como nossos rostos já são conhecidos, não podemos mais investigar por conta própria.",
-        "es-ES": "[Lazy]\nEn fin, no pensé que nos descubrirían tan rápido. Ya conocen nuestras caras, así que no podemos seguir investigando."
+        "es-ES": "[Lazy]\nNo pensé que nos descubrirían tan rápido. Y ya conocen nuestras caras, no podemos seguir investigando."
     },
     "RH8MDg": {
         "en-US": "[Horuru]\nI suppose we can't use the method of infiltrating with transformation scrolls anymore.",
-        "pt-BR": "[Horur]\nParece que também não poderemos mais usar o método de infiltração com pergaminhos de transformação.",
-        "es-ES": "[Horuru]\nYa tampoco podremos seguir usando el método de infiltrarnos con pergaminos de transformación."
+        "pt-BR": "[Horuru]\nParece que também não poderemos mais usar o método de infiltração com pergaminhos de transformação.",
+        "es-ES": "[Horuru]\nMe imagino que los pergaminos de transformación se volvieron inútiles."
     },
     "RX8MDg": {
-        "en-US": "[Leizi]\nThat's not it, Iwin. You said there are so few high-ranking and highest-ranking ones that they all know each other's faces, right? That means we can keep using this method as much as we want as long as we're intermediate rank or lower.",
-        "pt-BR": "[Nalandro]\nNão é bem assim, Sr. Arwin. Você disse que os de classe superior e os de classe máxima são poucos e conhecem o rosto uns dos outros, não foi? Isso significa que podemos continuar usando esse método à vontade com os de classe intermediária ou inferior.",
-        "es-ES": "[Lazy]\nNo es así, señor Awin. Dijiste que los de rango superior y máximo son pocos y se conocen entre ellos, ¿no? Eso significa que podemos seguir usando ese método tantas veces como queramos si nos hacemos pasar por uno de rango intermedio o inferior."
+        "en-US": "[Leizi]\nThat's not it, Windcy. You said there are so few high-ranking and highest-ranking ones that they all know each other's faces, right? That means we can keep using this method as much as we want as long as we're intermediate rank or lower.",
+        "pt-BR": "[Nalandro]\nNão é bem assim, Sr. Nevento. Você disse que os de classe superior e os de classe máxima são poucos e conhecem o rosto uns dos outros, não foi? Isso significa que podemos continuar usando esse método à vontade com os de classe intermediária ou inferior.",
+        "es-ES": "[Lazy]\nNo. Dijiste que los de rango superior y máximo son pocos y se conocen entre ellos, ¿no? Significa que podemos seguir usando los pergaminos tantas veces como queramos si nos hacemos pasar por uno de rango intermedio o inferior."
     },
     "Rn8MDg": {
         "en-US": "[Leizi]\nThe problem is that there's a limit to the information we can get as an Intermediate Rgan... and the areas we can access will be more limited too.",
-        "pt-BR": "[Nalandro]\nO problema é que há um limite para as informações que podemos obter como Regan Intermediário... e a área a que podemos ter acesso também fica mais restrita.",
-        "es-ES": "[Lazy]\nEl problema es que con un Regan intermedio hay un límite en la información que podemos obtener... y también se reduce el área a la que podemos acceder."
+        "pt-BR": "[Nalandro]\nO problema é que há um limite para as informações que podemos obter como Rgan Intermediário... e a área a que podemos ter acesso também fica mais restrita.",
+        "es-ES": "[Lazy]\nEl problema es que con Rgan Intermedio es poca la información que se puede obtener... y tampoco podemos acceder a todas las áreas."
     },
     "R38MDg": {
         "en-US": "[Vellgunde]\nYou need me? Let me see...\nOh, that body...? Is that the result of the Illusion scientist's experiment? They used their own colleague as experimental material?",
-        "pt-BR": "[Vellgunde]\nPrecisam de mim? O que querem que eu veja...?\nOh, esse corpo é...? É resultado de um experimento daquela cientista da Illusion? Ela usou um companheiro como cobaia?",
-        "es-ES": "[Vellgunde]\n¿Me necesitan? A ver qué es...\nOh, ¿ese cuerpo...? ¿Es el resultado de los experimentos de ese científico de Illusion? ¿Usó a un compañero como material de prueba?"
+        "pt-BR": "[Vellgunde]\nPrecisam de mim? O que querem que eu veja...?\nOh, esse corpo é...? É resultado de um experimento daquela cientista da Ilusión? Ela usou o próprio colega como cobaia?",
+        "es-ES": "[Vellgunde]\n¿Me necesitan? A ver qué es...\nOh, ¿ese cuerpo...? ¿Es resultado de los experimentos de Ilusión? ¿Usó a un compañero como material de prueba?"
     },
     "SH8MDg": {
         "en-US": "[{0}]\nYes, we need to return this person to normal, but we don't know how. Could you take a look at this...",
-        "pt-BR": "[{0}]\nSim, precisamos fazer esta pessoa voltar ao normal, mas não sabemos como. Poderia dar uma olhada nisto...?",
-        "es-ES": "[{0}]\nSí, tenemos que devolver a esta persona a su estado original, pero no sabemos cómo. ¿Podrías revisar esto...?"
+        "pt-BR": "[{0}]\nSim, precisamos fazer esta pessoa voltar ao normal, mas não sabemos como. Poderia dar uma olhada...?",
+        "es-ES": "[{0}]\nSí, y tenemos que regresarla a su forma original, pero no sabemos cómo. ¿Puedes revisarla?"
     },
     "SX8MDg": {
         "en-US": "[Vellgunde]\nLet me take a look.\nOh... Hmm...... Hm...",
         "pt-BR": "[Vellgunde]\nDeixe-me ver.\nOh... Hmm...... Hum...",
-        "es-ES": "[Vellgunde]\nDéjame echarle un vistazo.\nOh... Hmm...... Mmm..."
+        "es-ES": "[Vellgunde]\nDéjenme ver...\nOh... hmm... hm..."
     },
     "Sn8MDg": {
         "en-US": "[Vellgunde]\nI think I understand roughly how it works. Fortunately, it looks like you've already brought most of what we need. We can obtain the rest separately.",
         "pt-BR": "[Vellgunde]\nAcho que já entendi mais ou menos como funciona. Felizmente, parece que vocês trouxeram boa parte do que precisamos. O restante pode ser obtido separadamente.",
-        "es-ES": "[Vellgunde]\nMás o menos entiendo cómo funciona. Por suerte, parece que ya trajeron buena parte de lo necesario. Solo habrá que conseguir el resto por separado."
+        "es-ES": "[Vellgunde]\nMás o menos entiendo. Por suerte, parece que ya trajeron buena parte de lo necesario. Solo habría que conseguir lo demás."
     },
     "S38MDg": {
         "en-US": "As expected of a scientist!!!",
         "pt-BR": "Como esperado de uma cientista!!!",
-        "es-ES": "¡¡¡Como era de esperarse de una científica!!!"
+        "es-ES": "¡Como era de esperarse de un científico!"
     },
     "TH8MDg": {
         "en-US": "[Vellgunde]\nBring me ^0000CDLow-quality Rgan Magic Core^000000. As many as possible. ^0000CD20 or more^000000.",
-        "pt-BR": "[Vellgunde]\nTraga ^0000CDNúcleo Mágico Inferior de Regan^000000. O máximo que puder. ^0000CD20 ou mais^000000.",
-        "es-ES": "[Vellgunde]\nTrae ^0000CDNúcleo Mágico Inferior de Regan^000000. Tantos como puedas. ^0000CD20 o más^000000."
+        "pt-BR": "[Vellgunde]\nTraga ^0000CDNúcleo Mágico de Rgan Inferior^000000. O máximo que puder. ^0000CD20 ou mais^000000.",
+        "es-ES": "[Vellgunde]\nTrae ^0000CDNúcleo Mágico Inferior de Rgan^000000. Tantos como puedas. ^0000CD20 o más^000000."
     },
     "TX8MDg": {
         "en-US": "Is that all you need?",
         "pt-BR": "Só isso basta?",
-        "es-ES": "¿Con eso bastará?"
+        "es-ES": "¿Solo necesitas eso?"
     },
     "Tn8MDg": {
         "en-US": "[Vellgunde]\nYes. Nothing good will come from delaying, so you'd better go right away.",
-        "pt-BR": "[Vellgunde]\nSim. Quanto mais demorarmos, pior será, então é melhor ir agora mesmo.",
-        "es-ES": "[Vellgunde]\nSí. No conviene perder tiempo, así que será mejor que vayas de inmediato."
+        "pt-BR": "[Vellgunde]\nSim. Quanto mais demorarmos, pior, então é melhor ir agora mesmo.",
+        "es-ES": "[Vellgunde]\nSí. Y es mejor que vayas rápido y no pierdas el tiempo."
     },
     "T38MDg": {
         "en-US": "[Horuru]\nTo think we need ^0000CDLow-quality Rgan Magic Core 20^000000 of them. The Adventurer will have some work to do. I'd go myself, but in my current condition, I can't leave the house unattended.",
-        "pt-BR": "[Horur]\nPrecisamos de nada menos que ^0000CDNúcleo Mágico Inferior de Regan 20 unidades^000000. O aventureiro vai ter bastante trabalho. Eu gostaria de ir, mas, nas condições atuais, nem posso deixar a casa vazia.",
-        "es-ES": "[Horuru]\nPensar que hacen falta ^0000CDNúcleo Mágico Inferior de Regan 20 unidades^000000. El aventurero tendrá que esforzarse. Me gustaría ir, pero en mi estado actual ni siquiera puedo dejar la casa sola."
+        "pt-BR": "[Horuru]\nPrecisamos de nada menos que ^0000CDNúcleo Mágico de Rgan Inferir x20^000000. O Viajante vai ter bastante trabalho. Eu gostaria de ir, mas, nas condições atuais, nem posso deixar a casa vazia.",
+        "es-ES": "[Horuru]\nTendrás que esforzarte para conseguir ^0000CDNúcleo Mágico Inferior de Rgan x20^000000. Me gustaría ir, como está todo, no puedo dejar la casa sola."
     },
     "UH8MDg": {
         "en-US": "[Horuru]\nWhat is that person saying now?",
-        "pt-BR": "[Horur]\nO que ele está dizendo agora?",
-        "es-ES": "[Horuru]\n¿Qué está diciendo ahora esa persona?"
+        "pt-BR": "[Horuru]\nO que ele está dizendo agora?",
+        "es-ES": "[Horuru]\n¿Qué está diciendo ahora?"
     },
     "UX8MDg": {
         "en-US": "[Horuru]\nIf an anomaly was detected in the Rgan nest, we'd better go there quickly.",
-        "pt-BR": "[Horur]\nDisseram que detectaram uma anomalia no covil dos Rgan, então é melhor ir logo verificar.",
-        "es-ES": "[Horuru]\nSi detectaron una anomalía en la guarida de los Rgan, será mejor que vayas cuanto antes."
+        "pt-BR": "[Horuru]\nDisseram que detectaram uma anomalia no covil dos Rgan, então é melhor ir verificar.",
+        "es-ES": "[Horuru]\nSi detectaron una anomalía en el nido de los Rgan, será mejor hacer las cosas rápido."
     },
     "Un8MDg": {
         "en-US": "[Horuru]\nIf possible, I'd prefer that you only visit when invited.",
-        "pt-BR": "[Horur]\nSe possível, gostaria que viesse me visitar apenas quando for convidado.",
-        "es-ES": "[Horuru]\nDe ser posible, preferiría que vinieras solo cuando te invitemos."
+        "pt-BR": "[Horuru]\nSe possível, gostaria que viesse me visitar apenas quando convidado.",
+        "es-ES": "[Horuru]\nSi es posible, preferiría que fueras solo tú quien viene cuando se te invita."
     },
     "U38MDg": {
         "en-US": "Vellgunde",
@@ -261,23 +261,23 @@
     },
     "VH8MDg": {
         "en-US": "You cannot continue the conversation because you are carrying too many items.\nPlease organize your items and try again.",
-        "pt-BR": "Não é possível prosseguir com a conversa porque você está carregando muitos itens.\nOrganize seus itens e tente novamente.",
+        "pt-BR": "Não é possível prosseguir com a conversa porque você está carRgando muitos itens.\nPor favor, organize seus itens e tente novamente.",
         "es-ES": "No se puede continuar la conversación porque llevas demasiados objetos.\nOrganiza tu inventario e inténtalo de nuevo."
     },
     "VX8MDg": {
         "en-US": "[Vellgunde]\nThis isn't enough. I think we'll need a good supply.\nBring me Low-quality Rgan Magic Core 20.",
-        "pt-BR": "[Vellgunde]\nIsso não é suficiente. Acho que vamos precisar de uma boa quantidade.\nTraga apenas Núcleo Mágico Inferior de Regan 20 unidades.",
-        "es-ES": "[Vellgunde]\nEsto no es suficiente. Creo que necesitaremos una buena cantidad.\nTrae Núcleo Mágico Inferior de Regan 20 unidades."
+        "pt-BR": "[Vellgunde]\nIsso não é suficiente. Acho que vamos precisar de uma boa quantidade.\nTraga Núcleo Mágico de Rgan Inferior x20.",
+        "es-ES": "[Vellgunde]\nEsto no será suficiente. Necesitamos Núcleo Mágico Inferior de Rgan x20."
     },
     "Vn8MDg": {
         "en-US": "[Vellgunde]\nGood, well done.\nNow we just need to combine them according to the formula.",
         "pt-BR": "[Vellgunde]\nCerto, bom trabalho.\nAgora basta combinar tudo conforme a fórmula.",
-        "es-ES": "[Vellgunde]\nBien, buen trabajo.\nAhora solo hay que combinarlos siguiendo la fórmula."
+        "es-ES": "[Vellgunde]\nBien, buen trabajo.\nAhora solo hay que combinar todo de acuerdo a la fórmula."
     },
     "V38MDg": {
         "en-US": "[Vellgunde]\nAll right, shall we try injecting it now? Just in case, everyone should step back.",
         "pt-BR": "[Vellgunde]\nCerto, vamos tentar injetar agora? Por precaução, é melhor todos se afastarem.",
-        "es-ES": "[Vellgunde]\nBien, ¿probamos a inyectarlo? Por si acaso, será mejor que todos retrocedan."
+        "es-ES": "[Vellgunde]\nBien, ¿probamos la inyección? Será mejor que todos retrocedan."
     },
     "WH8MDg": {
         "en-US": "[Juncea]\nUgh......",
@@ -286,8 +286,8 @@
     },
     "WX8MDg": {
         "en-US": "[Vellgunde]\nShh- Easy now. Slowly... slowly... There, relax your body and don't make any sudden movements.",
-        "pt-BR": "[Vellgunde]\nShh... isso, muito bem. Devagar... devagar... Relaxe o corpo e evite fazer movimentos bruscos.",
-        "es-ES": "[Vellgunde]\nShh... Muy bien. Despacio... despacio... Relaja el cuerpo y procura no moverte de golpe."
+        "pt-BR": "[Vellgunde]\nShhh... isso, muito bem. Devagar... devagar... Relaxe o corpo e evite fazer movimentos bruscos.",
+        "es-ES": "[Vellgunde]\nA ver, despacio... Te tienes que relajar y no hacer movimientos bruscos."
     },
     "Wn8MDg": {
         "en-US": "Ugh...............",
@@ -297,52 +297,52 @@
     "W38MDg": {
         "en-US": "Oh, they're returning to their original form!",
         "pt-BR": "Oh, está voltando à forma original!",
-        "es-ES": "¡Oh, está volviendo a su forma original!"
+        "es-ES": "¡Está volviendo a su forma original!"
     },
     "XH8MDg": {
         "en-US": "As expected of a scientist. What a brilliant doctor.",
         "pt-BR": "Como esperado de uma cientista. É uma ótima médica.",
-        "es-ES": "Como era de esperarse de una científica. Qué gran doctora."
+        "es-ES": "Como era de esperarse de un gran científico. Qué gran doctor."
     },
     "XX8MDg": {
         "en-US": "What does being a brilliant doctor have to do with being a scientist?",
         "pt-BR": "O que ser uma ótima médica tem a ver com ser cientista?",
-        "es-ES": "¿Qué tiene que ver ser una gran doctora con ser científica?"
+        "es-ES": "¿Qué tiene que ver ser doctor con ser científico?"
     },
     "Xn8MDg": {
         "en-US": "[Juncea]\nUgh...... I......",
-        "pt-BR": "[Juncea]\nUgh...... Eu......",
-        "es-ES": "[Juncea]\nUgh...... Yo......"
+        "pt-BR": "[Juncea]\nUrgh...... Eu......",
+        "es-ES": "[Juncea]\nAy... ay..."
     },
     "X38MDg": {
         "en-US": "[Vellgunde]\nGood, are you coming around? You... Who are you? Do you know who you are?",
         "pt-BR": "[Vellgunde]\nCerto, está recobrando a consciência? Você... quem é? Sabe quem você é?",
-        "es-ES": "[Vellgunde]\nBien, ¿ya estás consciente? Tú... ¿quién eres? ¿Recuerdas quién eres?"
+        "es-ES": "[Vellgunde]\n¿Me escuchas? ¿Hola? ¿Sabes quién eres?"
     },
     "YH8MDg": {
         "en-US": "[Juncea]\n<FONT SIZE = 18><B><I>Bagot!!!!</I></B></FONT>",
         "pt-BR": "[Juncea]\n<FONT SIZE = 18><B><I>Bagot!!!!</I></B></FONT>",
-        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡¡¡¡Bagot!!!!</I></B></FONT>"
+        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡Bagot!</I></B></FONT>"
     },
     "YX8MDg": {
         "en-US": "Bagot? Didn't you say Juncea?",
         "pt-BR": "Bagot? Não disseram que era Juncea?",
-        "es-ES": "¿Bagot? ¿No dijiste que eras Juncea?"
+        "es-ES": "¿Bagot? ¿No dijiste que era Juncea?"
     },
     "Yn8MDg": {
         "en-US": "No. She's just consumed by resentment.",
         "pt-BR": "Não. Ela está assim porque guarda um rancor profundo.",
-        "es-ES": "No. Está así porque le guarda un profundo rencor."
+        "es-ES": "No. Dijo eso porque lo odia."
     },
     "Y38MDg": {
         "en-US": "[Juncea]\n<FONT SIZE = 18><B><I>They used me as a test subject!!!</I></B></FONT>",
         "pt-BR": "[Juncea]\n<FONT SIZE = 18><B><I>Ele me usou como cobaia!!!</I></B></FONT>",
-        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡¡¡Me usó como sujeto de pruebas!!!</I></B></FONT>"
+        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡Me usó como sujeto de pruebas!</I></B></FONT>"
     },
     "ZH8MDg": {
         "en-US": "You've got plenty of energy right after waking up. Your divine power must really be something, niece.",
-        "pt-BR": "Acabou de recobrar a consciência e já está cheia de energia. O poder divino do seu sobrinho deve ser realmente forte.",
-        "es-ES": "Recuperó el sentido y ya tiene tanta energía. Vaya, parece que el poder divino de tu sobrina es realmente fuerte."
+        "pt-BR": "Acabou de recobrar a consciência e já está cheia de energia. O seu poder divino deve ser realmente forte, sobrinho.",
+        "es-ES": "Parece que tiene energía. De verdad que tu poder divino es fuerte."
     },
     "ZX8MDg": {
         "en-US": "Haha, this is nothing.",
@@ -352,37 +352,37 @@
     "Zn8MDg": {
         "en-US": "[Juncea]\n<FONT SIZE = 18><B><I>Bagot!!!</I></B></FONT>",
         "pt-BR": "[Juncea]\n<FONT SIZE = 18><B><I>Bagot!!!</I></B></FONT>",
-        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡¡¡Bagot!!!</I></B></FONT>"
+        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡Bagot!</I></B></FONT>"
     },
     "Z38MDg": {
         "en-US": "[Juncea]\n<FONT SIZE = 18><B><I>Bagot!!! <FONT SIZE = 24>Bagot!!!</I></B></FONT>",
         "pt-BR": "[Juncea]\n<FONT SIZE = 18><B><I>Bagot!!! <FONT SIZE = 24>Bagot!!!</I></B></FONT>",
-        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡¡¡Bagot!!! <FONT SIZE = 24>¡¡¡Bagot!!!</I></B></FONT>"
+        "es-ES": "[Juncea]\n<FONT SIZE = 18><B><I>¡Bagot! <FONT SIZE = 24>¡Bagot!</I></B></FONT>"
     },
     "aH8MDg": {
         "en-US": "[Vellgunde]\nThis isn't the Rgans' dwelling. Calling for him won't make him appear.",
         "pt-BR": "[Vellgunde]\nEste não é o lar dos Rgan. Não adianta procurar por ele aqui.",
-        "es-ES": "[Vellgunde]\nEste no es el hogar de los Rgan. No aparecerá por más que lo busques aquí."
+        "es-ES": "[Vellgunde]\nEste no es hogar de los Rgan. Por más que lo busques, no lo vas a encontrar."
     },
     "aX8MDg": {
         "en-US": "You should calm down. The person you're looking for isn't here.",
         "pt-BR": "É melhor se acalmar um pouco. A pessoa que você procura não está aqui.",
-        "es-ES": "Será mejor que te calmes un poco. La persona que buscas no está aquí."
+        "es-ES": "Cálmate, no está aquí."
     },
     "an8MDg": {
         "en-US": "[Juncea]\n......? Where... am I? This isn't... the nest?",
-        "pt-BR": "[Juncea]\n......? Onde... estamos? Não é... o ninho?",
-        "es-ES": "[Juncea]\n......? ¿Dónde... estoy? ¿Esto no es... el nido?"
+        "pt-BR": "[Juncea]\nOnde... estamos? Não é... o ninho?",
+        "es-ES": "[Juncea]\n... ¿En dónde estoy? ¿Esto no es el nido?"
     },
     "a38MDg": {
-        "en-US": "[Horuru]\nThis is the Ice Castle. As you can see, we're Iwin and humans. We rescued you after you collapsed in the snake's nest.",
-        "pt-BR": "[Horur]\nEste é o Castelo de Gelo. Como pode ver, somos Arwin e humanos. Resgatamos você depois que desmaiou no covil das serpentes.",
-        "es-ES": "[Horuru]\nEste es el Castillo de Hielo. Como puedes ver, somos Awin y humanos. Te rescatamos cuando te encontramos inconsciente en la guarida de las serpientes."
+        "en-US": "[Horuru]\nThis is the Ice Castle. As you can see, we're Windcy and humans. We rescued you after you collapsed in the snake's nest.",
+        "pt-BR": "[Horuru]\nEste é o Castelo de Gelo. Como pode ver, somos Nevento e humanos. Resgatamos você depois que desmaiou no covil das serpentes.",
+        "es-ES": "[Horuru]\nEste es el Castillo de Hielo. Como puedes ver, somos Neviento y humanos. Te rescatamos cuando te encontramos inconsciente en el Nido de la Serpiente."
     },
     "bH8MDg": {
         "en-US": "[Leizi]\nHey! We've met before! Do you recognize me? Svegand!",
         "pt-BR": "[Nalandro]\nOlá! Já nos conhecemos! Será que se lembra de mim? Svegand!",
-        "es-ES": "[Lazy]\n¡Hola! ¡Ya nos conocemos! ¿Me reconoces? ¡Svegand!"
+        "es-ES": "[Lazy]\n¡Hola! ¡Ya nos conocemos! Soy Svegand."
     },
     "bX8MDg": {
         "en-US": "I'm... Senekiogand.",
@@ -392,27 +392,27 @@
     "bn8MDg": {
         "en-US": "[Juncea]\nWhat...? You're humans? Those two, how...? They were definitely Rgan.",
         "pt-BR": "[Juncea]\nO quê...? Vocês são humanos, não são? E aqueles dois, como...? Eles eram claramente Rgan.",
-        "es-ES": "[Juncea]\n¿Qué...? Pero ustedes son humanos. ¿Cómo hicieron con esos dos...? Estoy seguro de que eran Rgan."
+        "es-ES": "[Juncea]\n¿Qué...? Pero ustedes son humanos. ¿Cómo? Estoy segura de que eran Rgan."
     },
     "b38MDg": {
         "en-US": "[Leizi]\nWell, we happened to have a super genius on our side.",
-        "pt-BR": "[Nalandro]\nBem, por acaso tínhamos um supergênio do nosso lado.",
-        "es-ES": "[Lazy]\nBueno, resulta que aquí había un supergenio sin que lo supiéramos."
+        "pt-BR": "[Nalandro]\nBem, por acaso tínhamos um gênio do nosso lado.",
+        "es-ES": "[Lazy]\nEs que tenemos el ingenio de nuestro lado."
     },
     "cH8MDg": {
         "en-US": "Though you people just used someone like that as experimental material.",
         "pt-BR": "Mas vocês simplesmente usaram alguém assim como material de experimento.",
-        "es-ES": "Aunque ustedes usaron a alguien así simplemente como material de experimentación."
+        "es-ES": "Aunque ustedes usaron a alguien así nada más como material de experimento."
     },
     "cX8MDg": {
         "en-US": "[Juncea]\nTransformation? A human, into a Rgan?\nHave you been deceiving me this whole time? You used me?",
         "pt-BR": "[Juncea]\nTransformação? Um humano em Rgan?\nEntão vocês me enganaram esse tempo todo? Me usaram?",
-        "es-ES": "[Juncea]\n¿Transformación? ¿Un humano en Rgan?\n¿Me estuvieron engañando todo este tiempo? ¿Me usaron?"
+        "es-ES": "[Juncea]\n¿Se transformaron? ¿De humano a Rgan?\n¿Me estuvieron engañando todo este tiempo? ¿Me usaron?"
     },
     "cn8MDg": {
         "en-US": "[Leizi]\nCould you say we used our heads to drive a wedge between you and bring you here? It worked out well in the end, didn't it?",
-        "pt-BR": "[Nalandro]\nJá que é assim, que tal dizer que usamos a cabeça para separar vocês e tirar você de lá? No fim, deu tudo certo, não deu?",
-        "es-ES": "[Lazy]\n¿Qué tal si dices que usamos la cabeza para separarlos y sacarte de ahí? Al final salió bien, ¿no?"
+        "pt-BR": "[Nalandro]\nJá que é assim, que tal dizer que usamos a cabeça para separar vocês e tirar você de lá? No fim, deu tudo certo, não?",
+        "es-ES": "[Lazy]\n¿Por qué no dices que usamos nuestro ingenio para sacarte de ahí? Al final eso pasó, ¿no?"
     },
     "c38MDg": {
         "en-US": "Do you want an apology?",
@@ -421,53 +421,53 @@
     },
     "dH8MDg": {
         "en-US": "An apology? These people are criminals!",
-        "pt-BR": "Desculpas nada! Essa pessoa faz parte de um grupo criminoso!",
+        "pt-BR": "Desculpas nada! Essas pessoas são criminosas!",
         "es-ES": "¡¿Una disculpa?! ¡Pero si esta persona pertenece a un grupo criminal!"
     },
     "dX8MDg": {
         "en-US": "[Juncea]\nWhat are you going to do with me? Are you going to eliminate me now? Even if you do, you won't gain anything.",
         "pt-BR": "[Juncea]\nO que vão fazer comigo? Vão me eliminar agora? Mesmo que me eliminem, não vão ganhar nada com isso.",
-        "es-ES": "[Juncea]\n¿Qué van a hacer conmigo? ¿Ahora van a deshacerse de mí? Aunque lo hagan, no obtendrán nada."
+        "es-ES": "[Juncea]\n¿Qué van a hacer conmigo? ¿Se van a deshacer de mí? No van a obtener nada."
     },
     "dn8MDg": {
         "en-US": "[Leizi]\nI've hardly ever seen anyone under arrest who didn't say something like that.",
         "pt-BR": "[Nalandro]\nQuase nunca vi alguém preso que não dissesse uma coisa dessas.",
-        "es-ES": "[Lazy]\nCasi nunca he visto a alguien arrestado que no diga algo así."
+        "es-ES": "[Lazy]\nCasi todos los presos dicen eso."
     },
     "d38MDg": {
         "en-US": "I even made a bet with myself over whether you'd say it this time!",
         "pt-BR": "Até apostei comigo mesmo se desta vez também falaria isso ou não!",
-        "es-ES": "¡Hasta aposté conmigo mismo a ver si esta vez también lo decía!"
+        "es-ES": "Aposté a que lo ibas a decir."
     },
     "eH8MDg": {
         "en-US": "Keep it down for a moment.",
         "pt-BR": "Fique quieto um pouco.",
-        "es-ES": "Guarda silencio un momento."
+        "es-ES": "Silencio, un minuto."
     },
     "eX8MDg": {
         "en-US": "[Juncea]\nBagot even sold me out now?? Since when have you two been working together?\nUgh--",
-        "pt-BR": "[Juncea]\nBagot agora chegou ao ponto de me vender também?? Desde quando vocês dois estão trabalhando juntos?\nUgh--",
-        "es-ES": "[Juncea]\n¿¿Ahora Bagot hasta me vendió?? ¿Desde cuándo trabajan juntos?\nUgh--"
+        "pt-BR": "[Juncea]\nBagot agora chegou ao ponto de me vender também?? Desde quando vocês dois estão trabalhando juntos?\nUrgh.",
+        "es-ES": "[Juncea]\n¿Bagot me vendió? ¿Desde cuándo trabajan juntos?"
     },
     "en8MDg": {
         "en-US": "[Vellgunde]\nWith your body in that condition, where do you think you're going?\nJust stay put and get treated. These aren't minor injuries.",
-        "pt-BR": "[Vellgunde]\nCom o corpo nesse estado, acha mesmo que consegue ir a algum lugar?\nFique quieta e receba tratamento. Não é um ferimento leve.",
-        "es-ES": "[Vellgunde]\nCon ese cuerpo, ¿crees que puedes ir a algún lado?\nQuédate quieto y recibe tratamiento. No son heridas menores."
+        "pt-BR": "[Vellgunde]\nCom o corpo nesse estado, acha mesmo que consegue ir a algum lugar?\nFique quieta e receba o tratamento. Não é um ferimento leve.",
+        "es-ES": "[Vellgunde]\nEn tu condición, ¿crees que puedes hacer algo?\nQuédate tranquila para que podamos tratarte."
     },
     "e38MDg": {
         "en-US": "[Leizi]\nI haven't cooperated with Bagot. Same goes for you, doesn't it? If I had, would I have brought you out here?\nFor now, just rest and eat something good. Did you even get a proper meal over there? And from now on, you'll need to cooperate with us.",
-        "pt-BR": "[Nalandro]\nNão estamos colaborando com Bagot. E com você também não era assim, certo? Se fosse, acha que teríamos tirado você de lá e trazido até aqui?\nPor enquanto, coma alguma coisa gostosa e descanse. Duvido que tivesse refeições decentes naquele lugar. E, de agora em diante, você vai ter que colaborar conosco.",
-        "es-ES": "[Lazy]\nNo estamos colaborando con Bagot. Y contigo tampoco, ¿no? Si así fuera, ¿crees que te habríamos traído hasta aquí?\nPor ahora, descansa y come algo rico. ¿Acaso comías algo decente en ese lugar? Y de ahora en adelante tendrás que colaborar con nosotros."
+        "pt-BR": "[Nalandro]\nNão estamos colaborando com Bagot. E nem você, certo? Se fosse, acha que teríamos tirado você de lá e trazido até aqui?\nPor enquanto, coma alguma coisa gostosa e descanse. Duvido que tivesse refeições decentes naquele lugar. E, de agora em diante, você vai ter que colaborar conosco.",
+        "es-ES": "[Lazy]\nNo trabajamos con Bagot. Y contigo tampoco, ¿no? Si así fuera, ¿crees que te habríamos traído?\nPor ahora, descansa y come algo rico. ¿Comías cosas decentes en ese lugar? De ahora en adelante tendrás que cooperar."
     },
     "fH8MDg": {
         "en-US": "[Juncea]\nYou think I want to eat right now......! How could you! How dare you! Ngh!!",
-        "pt-BR": "[Juncea]\nAcha que eu estou com cabeça para comer agora......! Como ousam fazer isso comigo! Comigo! Ngh!!",
-        "es-ES": "[Juncea]\n¡¿Crees que ahora estoy para comer......?! ¡Cómo se atreven conmigo! ¡Cómo se atreven! ¡Grr!!"
+        "pt-BR": "[Juncea]\nAcha que eu estou com cabeça para comer agora......! Como ousam fazer isso comigo! Argh!!",
+        "es-ES": "[Juncea]\n¡¿Crees que quiero comer?! ¡Atrevidos! ¡Son unos atrevidos! ¡Grr!"
     },
     "fX8MDg": {
         "en-US": "[Leizi]\nOh, how dare we save you. If we hadn't gone there, you'd be dead by now. Don't tell me you'd rather die than live?",
-        "pt-BR": "[Nalandro]\nPois é, tivemos a ousadia de salvar você. Se não tivéssemos ido até lá, você provavelmente teria morrido. Vai dizer que prefere morrer a continuar viva?",
-        "es-ES": "[Lazy]\nVaya, nos atrevimos a salvarte. Si no hubiéramos ido, seguramente habrías muerto. ¿Acaso prefieres morir antes que vivir?"
+        "pt-BR": "[Nalandro]\nPois é, tivemos a ousadia de salvar você. Se não tivéssemos ido até lá, provavelmente teria morrido. Vai dizer que prefere morrer a continuar viva?",
+        "es-ES": "[Lazy]\nSí, nos atrevimos a salvarte. Si no lo hubiéramos hecho, seguro ahora estarías muerta. ¿Hubieras preferido eso?"
     },
     "fn8MDg": {
         "en-US": "Of course not.",
@@ -481,8 +481,8 @@
     },
     "gH8MDg": {
         "en-US": "[Leizi]\nIf that's not the case, then cooperate with us. If you talk willingly, we'll take that into consideration.\nDon't forget that Illusion is wanted by all three nations of the Midgard continent. There's nowhere for you to run.",
-        "pt-BR": "[Nalandro]\nEntão colabore conosco. Se falar tudo sem criar problemas, levaremos isso em consideração.\nNão se esqueça de que a Illusion é procurada pelos três reinos do continente de Midgard. Você não tem para onde fugir.",
-        "es-ES": "[Lazy]\nSi no es así, coopera con nosotros. Si hablas sin causar problemas, lo tendremos en cuenta.\nNo olvides que Illusion está siendo buscada por los tres reinos del continente de Midgard. No tienes adónde escapar."
+        "pt-BR": "[Nalandro]\nEntão colabore conosco. Se falar tudo sem criar problemas, levaremos isso em consideração.\nNão se esqueça de que a Ilusión é procurada pelos três reinos do continente de Midgard. Você não tem para onde fugir.",
+        "es-ES": "[Lazy]\nEntonces, coopera. Si hablas sin causar problemas, lo consideraremos.\nNo olvides que están buscando a Ilusión por los tres reinos del continente de Midgard. No tienes escapatoria."
     },
     "gX8MDg": {
         "en-US": "........",
@@ -492,7 +492,7 @@
     "gn8MDg": {
         "en-US": "[Leizi]\nYou may have fled all the way here to escape us, but we followed you this far. So where will you go next? Do you have anywhere left to go? I doubt it.",
         "pt-BR": "[Nalandro]\nVocê deve ter fugido até aqui para escapar de nós, mas nós a seguimos até aqui. E agora? Para onde vai? Tem algum lugar para ir? Aposto que não.",
-        "es-ES": "[Lazy]\nSeguramente huiste hasta aquí para escapar de nosotros, pero te seguimos hasta este lugar. ¿Y ahora adónde irás? ¿Tienes algún lugar al que ir? Seguro que no."
+        "es-ES": "[Lazy]\nSeguramente viniste hasta aquí para huir de nosotros, pero te seguimos. ¿A dónde vas a ir? ¿Tienes otro lugar? Seguro que no."
     },
     "g38MDg": {
         "en-US": "...........",
@@ -501,58 +501,58 @@
     },
     "hH8MDg": {
         "en-US": "[Leizi]\nLook. We're not doing this because we have no other options. We just don't want an unnecessary war of attrition.\nIf you refuse to talk, then I'll have no choice but to go back and thoroughly ransack the entire laboratory myself.",
-        "pt-BR": "[Nalandro]\nEscute. Não estamos fazendo isso porque não temos outro jeito. Só não queremos desperdiçar recursos numa disputa desnecessária.\nSe não quiser falar, não teremos escolha. Vou voltar lá e revirar aquele laboratório inteiro de ponta a ponta.",
-        "es-ES": "[Lazy]\nOye. No hacemos esto porque no tengamos otra opción. Simplemente queremos evitar un desgaste innecesario.\nSi no vas a hablar, no me quedará más remedio que regresar y registrar ese laboratorio de arriba abajo."
+        "pt-BR": "[Nalandro]\nEscute. Não estamos fazendo isso porque estamos sem opções. Só não queremos desperdiçar recursos numa disputa desnecessária.\nSe não quiser falar, não teremos escolha. Vou voltar lá e revirar aquele laboratório inteiro de ponta a ponta.",
+        "es-ES": "[Lazy]\nOye. No hacemos esto porque no tengamos otra opción. Simplemente queremos evitar un desgaste innecesario.\nSi no vas a hablar, voy a tener que ir a registrar el laboratorio."
     },
     "hX8MDg": {
         "en-US": "Researchers hate that sort of thing, don't they? Other people touching their stuff.",
         "pt-BR": "Disseram que pesquisadores odeiam esse tipo de coisa, não é? Quando mexem nas coisas deles.",
-        "es-ES": "Dijiste que a los investigadores no les gusta eso, ¿verdad? Que toquen sus cosas."
+        "es-ES": "Dijiste que a los investigadores no les gusta que toquen sus cosas, ¿no?"
     },
     "hn8MDg": {
         "en-US": "[Juncea]\nTransformation......? You're going to transform again?",
         "pt-BR": "[Juncea]\nTransformação......? Vai se transformar de novo?",
-        "es-ES": "[Juncea]\n¿Transformación......? ¿Vas a transformarte otra vez?"
+        "es-ES": "[Juncea]\n¿Y te vas a transformar otra vez?"
     },
     "h38MDg": {
         "en-US": "[Leizi]\nYeah. Why? Interested? Oh, I guess you've never actually seen us transform before. Curious? There's no reason I can't show you.",
         "pt-BR": "[Nalandro]\nAh, sim. Por quê? Ficou interessada? Ah, você nunca viu a transformação acontecendo, não é? Está curiosa? Não tenho motivo para esconder.",
-        "es-ES": "[Lazy]\nSí, así es. ¿Por qué? ¿Te interesa? Ah, nunca me habías visto transformarme, ¿verdad? ¿Tienes curiosidad? No tengo problema en mostrártelo."
+        "es-ES": "[Lazy]\nAsí es, ¿por? ¿Te interesa? Nunca viste algo así, ¿no? ¿Te da curiosidad? No tengo problemas en enseñarte."
     },
     "iH8MDg": {
         "en-US": "[Leizi]\nTa-da!!! What do you think! I look exactly like I did back then, right?",
         "pt-BR": "[Nalandro]\nTcharam!!! E então? Igualzinho àquela vez, não é?",
-        "es-ES": "[Lazy]\n¡¡¡Tarán!!! ¡¿Qué te parece?! ¡Es exactamente la misma apariencia de aquella vez!"
+        "es-ES": "[Lazy]\n¡Tarán! ¿Qué tal? Es la misma apariencia que aquella ves."
     },
     "iX8MDg": {
         "en-US": "[Juncea]\nA human, into a Rgan... You were definitely a Rgan. The magic wavelength, even the internal organs... How......?",
         "pt-BR": "[Juncea]\nUm humano em Rgan... Mas era claramente um Rgan. Até a onda mágica e os órgãos internos... Como......?",
-        "es-ES": "[Juncea]\nUn humano convertido en Rgan... Estoy seguro de que era un Rgan. La frecuencia mágica, los órganos internos... ¿Cómo......?"
+        "es-ES": "[Juncea]\nUn humano convertido en Rgan... definitivamente eres igual. La magia, los órganos internos... ¿Cómo?"
     },
     "in8MDg": {
         "en-US": "[Vellgunde]\nI can explain that. You want to satisfy your curiosity as a scientist, don't you?\nIn return, there's something you need to tell us too.",
         "pt-BR": "[Vellgunde]\nIsso eu posso explicar. Você quer satisfazer sua curiosidade como cientista, não é?\nEm troca, também terá que nos contar algumas coisas.",
-        "es-ES": "[Vellgunde]\nEso puedo explicártelo yo. Quieres satisfacer tu curiosidad como científica, ¿verdad?\nPero, a cambio, tú también tendrás que contarnos algunas cosas."
+        "es-ES": "[Vellgunde]\nEso lo puedo explicar yo. Quieres satisfacer tu curiosidad como científica, ¿verdad?\nA cambio tendrás que contarnos algunas cosas."
     },
     "i38MDg": {
         "en-US": "[Juncea]\n...Let me think about it.",
-        "pt-BR": "[Juncea]\n...Vou pensar.",
-        "es-ES": "[Juncea]\n...Déjame pensarlo."
+        "pt-BR": "[Juncea]\n... Vou pensar.",
+        "es-ES": "[Juncea]\nDéjame pensarlo."
     },
     "jH8MDg": {
         "en-US": "[Vellgunde]\nDoesn't look like it'll be too hard to persuade her. What do you think, Adventurer?",
-        "pt-BR": "[Vellgunde]\nNão parece tão difícil convencê-la, não é? E então? O que você acha, aventureiro?",
-        "es-ES": "[Vellgunde]\nNo parece que vaya a ser muy difícil convencerla, ¿no? ¿Qué opinas, aventurero?"
+        "pt-BR": "[Vellgunde]\nNão parece tão difícil convencê-la. E então? O que você acha, Viajante?",
+        "es-ES": "[Vellgunde]\nNo parece que vaya a ser difícil de convencer. ¿Tú qué opinas, Trotamundos?"
     },
     "jX8MDg": {
         "en-US": "[Vellgunde]\nI'll stay and keep an eye on Juncea a little longer. You never know when I might be needed.",
-        "pt-BR": "[Vellgunde]\nVou ficar mais um pouco para observar Juncea. Nunca se sabe quando vou ser necessária, certo?",
-        "es-ES": "[Vellgunde]\nVoy a quedarme un poco más para observar a Juncea. Nunca se sabe cuándo podría hacer falta, ¿verdad?"
+        "pt-BR": "[Vellgunde]\nVou ficar mais um pouco para observar Juncea. Nunca se sabe quando serei necessária, certo?",
+        "es-ES": "[Vellgunde]\nVoy a quedarme un poco más para observar a Juncea. Nunca se sabe, ¿no?"
     },
     "jn8MDg": {
         "en-US": "[Vellgunde]\nI should've brought a few more things with me when I came here.",
-        "pt-BR": "[Vellgunde]\nEu devia ter trazido mais algumas coisas quando vim para cá.",
-        "es-ES": "[Vellgunde]\nDebería haber traído algunas cosas más cuando vine aquí."
+        "pt-BR": "[Vellgunde]\nEu devia ter trazido mais algumas ao vir pra cá.",
+        "es-ES": "[Vellgunde]\nDebí haber traído más cosas cuando vine para acá."
     },
     "j38MDg": {
         "en-US": "Juncea",
@@ -561,38 +561,38 @@
     },
     "kH8MDg": {
         "en-US": "[Juncea]\nFine. I'll accept your offer. But first, promise me what you said earlier about how you'll treat me.",
-        "pt-BR": "[Junkea]\nCerto. Vou aceitar a proposta. Mas, antes disso, prometa o que disse antes sobre como vai me tratar.",
-        "es-ES": "[Juncea]\nEstá bien. Aceptaré la propuesta. Pero antes, prométeme lo que dijiste hace un momento sobre cómo me tratarán."
+        "pt-BR": "[Juncea]\nCerto. Vou aceitar a proposta. Mas, antes disso, prometa o que disse antes sobre como vai me tratar.",
+        "es-ES": "[Juncea]\nEstá bien, acepto la oferta. Pero prométanme que me van a tratar bien, como dijeron."
     },
     "kX8MDg": {
         "en-US": "Hurry up and change back to your original form! No Rgan in my house!",
-        "pt-BR": "Volte logo à sua forma original! Não quero Rgan na minha casa!",
-        "es-ES": "¡Vuelve ya a tu forma original! ¡No quiero ningún Rgan en mi casa!"
+        "pt-BR": "Volte logo à sua forma original! Não quero um Rgan na minha casa!",
+        "es-ES": "Regresa a tu forma normal, no quiero ningún Rgan en mi casa."
     },
     "kn8MDg": {
         "en-US": "You're awfully picky.",
         "pt-BR": "Nossa, que exigente.",
-        "es-ES": "Vaya, qué quisquilloso."
+        "es-ES": "Ay, qué sensible."
     },
     "k38MDg": {
         "en-US": "[Leizi]\nOf course. I've been granted full authority by the government of the Republic of Schwarzwald, so you can trust me. Not just me, either. Everyone here represents one of the three nations.",
         "pt-BR": "[Nalandro]\nClaro. Recebi plenos poderes do governo da República de Schwarzwald, então pode confiar em mim. E não sou só eu, todos aqui representam os três países, sabia?",
-        "es-ES": "[Lazy]\nClaro. Tengo plenos poderes delegados por el gobierno de la República de Schwarzwald, así que puedes confiar en mí. Y no solo yo; todos los que estamos aquí representamos a los tres reinos, ¿sabes?"
+        "es-ES": "[Lazy]\nClaro. Tengo plenos poderes delegados por el gobierno de la República de Schwarzwald, así que puedes confiar en mí. Y todos los que estamos aquí representamos a los tres reinos."
     },
     "lH8MDg": {
         "en-US": "[Juncea]\nYou're the ones who taught me there's no one in this world worth trusting.",
-        "pt-BR": "[Junkea]\nForam vocês que me ensinaram que não dá para confiar em ninguém neste mundo.",
-        "es-ES": "[Juncea]\nUstedes mismos me enseñaron que no hay nadie en este mundo en quien se pueda confiar."
+        "pt-BR": "[Juncea]\nForam vocês que me ensinaram que não dá para confiar em ninguém neste mundo.",
+        "es-ES": "[Juncea]\nUstedes mismos me enseñaron que no se puede confiar en nadie."
     },
     "lX8MDg": {
         "en-US": "Where else are you going to find an icon of Faith and trust like me?",
         "pt-BR": "Onde mais você vai encontrar um ícone de Fé e confiança como eu?",
-        "es-ES": "¿Dónde vas a encontrar otro símbolo de Fe y confianza como yo?"
+        "es-ES": "¿En dónde vas a encontrar a alguien más que inspire más fe y confianza que yo?"
     },
     "ln8MDg": {
         "en-US": "[Leizi]\nJuncea isn't the only Illusion member who cooperated with us and made a plea deal. The Illusion member we captured earlier is also being kept somewhere safe.",
-        "pt-BR": "[Nalandro]\nVocê não é a única humana da Ilusión que cooperou conosco e fez um acordo para redução de pena, Junkea. A Ilusión que prendemos outro dia também está em um lugar seguro.",
-        "es-ES": "[Lazy]\nNo eres el único miembro de Illusion que ha cooperado con nosotros a cambio de una reducción de condena. El miembro de Illusion que capturamos anteriormente también está en un lugar seguro."
+        "pt-BR": "[Nalandro]\nVocê não é a única humana da Ilusión que cooperou conosco e fez um acordo para redução de pena, Juncea. A Ilusión que prendemos outro dia também está em um lugar seguro.",
+        "es-ES": "[Lazy]\nNo eres el único miembro de Ilusión que ha cooperado con nosotros a cambio de una reducción de condena. Al miembro anterior de Ilusión que capturamos antes, está en un lugar seguro."
     },
     "l38MDg": {
         "en-US": "Drop that title.",
@@ -601,38 +601,38 @@
     },
     "mH8MDg": {
         "en-US": "Whoops! Sure thing. It's not that hard.",
-        "pt-BR": "Opa! Tudo bem. Também não é nada difícil.",
-        "es-ES": "¡Vaya! Está bien. Tampoco es algo tan difícil."
+        "pt-BR": "Opa! Tudo bem. Não é nada difícil.",
+        "es-ES": "Ay, no es para tanto."
     },
     "mX8MDg": {
         "en-US": "[Juncea]\nThat's detention. What a fancy way to say you threw a criminal in prison. It's still prison.\nHow is not killing someone supposed to be mercy or compassion? Don't act like you're doing anyone a favor.",
-        "pt-BR": "[Junkea]\nIsso é detenção. Você fala de um jeito tão elegante sobre jogar um criminoso na prisão. No fim, continua sendo cadeia.\nNão matar alguém não é nenhum ato de generosidade ou compaixão. Pare de agir como se estivesse fazendo um favor.",
-        "es-ES": "[Juncea]\nEso es detención. Qué manera tan elegante de decir que metieron a un criminal en prisión. Al final sigue siendo estar encarcelado.\nNo matarlo no tiene nada de generosidad ni compasión. No finjas que estás haciendo un favor para presumir de ello."
+        "pt-BR": "[Juncea]\nIsso é detenção. Você fala de um jeito tão elegante sobre jogar um criminoso na prisão. No fim, continua sendo cadeia.\nNão matar alguém não é nenhum ato de generosidade ou compaixão. Pare de agir como se estivesse fazendo um favor.",
+        "es-ES": "[Juncea]\nEso es detención. Qué manera tan elegante de decir que metieron a un criminal en prisión, al final es eso.\nNo matarlo no tiene nada de generosidad ni compasión. No finjas que le estás haciendo un favor."
     },
     "mn8MDg": {
         "en-US": "[Lehar]\nOh, then how about this? You have a grudge against Bagot, don't you? We'll get revenge for you. Then you'll be a traitor too, Juncea.",
-        "pt-BR": "[Lehar]\nAh, então que tal isto? Você guarda rancor de Bagot, não é? Nós podemos nos vingar em seu lugar. Assim, a senhorita Junkea também se torna uma traidora.",
+        "pt-BR": "[Lehar]\nAh, então que tal isto? Você guarda rancor de Bagot, não é? Nós podemos nos vingar em seu lugar. Assim, a senhorita Juncea também se torna uma traidora.",
         "es-ES": "[Lehar]\nAh, entonces, ¿qué te parece esto? Le guardas rencor a Bagot, ¿verdad? Nosotros nos vengaremos por ti. Así, tú también te convertirás en una traidora, señorita Juncea."
     },
     "m38MDg": {
         "en-US": "Wait, your niece?",
-        "pt-BR": "Hein, sobrinha?",
-        "es-ES": "Oye, sobrina..."
+        "pt-BR": "O quê, sua sobrinha?",
+        "es-ES": "¿Tu sobrino?"
     },
     "nH8MDg": {
         "en-US": "[Juncea]\nRevenge... traitor... I like the sound of that. A traitor... I was betrayed, so why shouldn't I betray them too?",
-        "pt-BR": "[Junkea]\nVingança... traidora... gostei. Traidora... Se me traíram, por que eu não poderia trair também?",
-        "es-ES": "[Juncea]\nVenganza... traidora... Me gusta. Traidora... Si me traicionaron, ¿por qué yo no podría traicionarlos también?"
+        "pt-BR": "[Juncea]\nVingança... traidora... gostei. Traidora... Se me traíram, por que eu não poderia trair também?",
+        "es-ES": "[Juncea]\nVenganza... traición... Me gusta... \"Traidora\". Si ellos me traicionaron, ¿por qué yo no los traicionaría también?"
     },
     "nX8MDg": {
         "en-US": "Just don't go betraying us too.",
         "pt-BR": "Mas seria um problema se você também nos traísse.",
-        "es-ES": "Pero sería un problema si también nos traicionaras a nosotros."
+        "es-ES": "Pero sería un problema si nos traicionas a nosotros."
     },
     "nn8MDg": {
         "en-US": "[Juncea]\nFine. So, what do you want to know?",
-        "pt-BR": "[Junkea]\nCerto. Então, o que vocês querem saber?",
-        "es-ES": "[Juncea]\nEstá bien. Entonces, ¿qué quieren saber?"
+        "pt-BR": "[Juncea]\nCerto. Então, o que vocês querem saber?",
+        "es-ES": "[Juncea]\nEstá bien. ¿Qué quieren saber?"
     },
     "n38MDg": {
         "en-US": "[Leizi]\nHow powerful is the Jormungand cult?",
@@ -641,13 +641,13 @@
     },
     "oH8MDg": {
         "en-US": "[Juncea]\nAs you've seen, there are a lot of them, and as long as they have blood and time, they can keep making more indefinitely.",
-        "pt-BR": "[Junkea]\nComo vocês mesmos viram, eles são numerosos e, enquanto houver sangue e tempo, podem ser produzidos infinitamente.",
+        "pt-BR": "[Juncea]\nComo vocês mesmos viram, eles são numerosos e, enquanto houver sangue e tempo, podem ser produzidos infinitamente.",
         "es-ES": "[Juncea]\nComo ya vieron, son numerosos y, mientras haya sangre y tiempo, pueden seguir creándolos indefinidamente."
     },
     "oX8MDg": {
         "en-US": "[Juncea]\nBut they need magic to hatch and gain strength, and the magic in the ^0000CDbody of Jormungand^000000, the source of that power, is almost depleted. So their prospects aren't looking good.",
-        "pt-BR": "[Junkea]\nPorém, eles precisam de poder mágico para eclodir e ganhar força, e o poder mágico do ^0000CDcorpo original de Jormungand^000000, que é a fonte desse poder, está quase esgotado. Por isso, as perspectivas não são boas.",
-        "es-ES": "[Juncea]\nSin embargo, necesitan poder mágico para eclosionar y obtener fuerza, y la magia del ^0000CDcuerpo original de Jormungand^000000, que es su fuente de poder mágico, está casi agotada, así que sus perspectivas no son buenas."
+        "pt-BR": "[Juncea]\nPorém, eles precisam de poder mágico para eclodir e ganhar força, e o poder mágico do ^0000CDcorpo original de Jormungand^000000, que é a fonte desse poder, está quase esgotado. Por isso, as perspectivas não são boas.",
+        "es-ES": "[Juncea]\nSin embargo, necesitan poder mágico para eclosionar y obtener fuerza, y la magia del ^0000CDcuerpo original de Jormungand^000000, que es su fuente de poder mágico, está casi agotada, así que sus opciones no son muchas."
     },
     "on8MDg": {
         "en-US": "[Leizi]\nThe body of Jormungand?",
@@ -656,13 +656,13 @@
     },
     "o38MDg": {
         "en-US": "[Juncea]\nThe place Rgan uses as its base is the body itself. It's a corpse, but it still had a considerable amount of residual magic.\nBut that remaining magic is finite, and they've spent ages feeding on it, so there's almost nothing left.",
-        "pt-BR": "[Junkea]\nO lugar que Rgan usa como base é o corpo original. É um cadáver, mas ainda tinha uma quantidade considerável de poder mágico residual.\nSó que esse poder restante é finito e, depois de tantos anos apenas consumindo-o, quase não resta nada.",
-        "es-ES": "[Juncea]\nEl lugar que los Rgan usan como base es el cuerpo original. Aunque es un cadáver, aún conservaba una cantidad considerable de poder mágico residual.\nPero la magia restante es limitada y, después de tantos años consumiéndola, ya casi no queda nada."
+        "pt-BR": "[Juncea]\nO lugar que Rgan usa como base é o corpo original. É um cadáver, mas ainda tinha uma quantidade considerável de poder mágico residual.\nSó que esse poder restante é finito e, depois de tantos anos apenas sendo consumido, não resta quase nada.",
+        "es-ES": "[Juncea]\nEl lugar que los Rgan usan como base es el cuerpo original. Aunque es un cadáver, conservaba una cantidad considerable de poder mágico.\nPero la magia restante es limitada y, después de tantos años consumiéndola, ya casi no queda nada."
     },
     "pH8MDg": {
         "en-US": "[Vellgunde]\nRasgand must have been getting very desperate.\nSo that's why he reached out to the continent and joined forces with Illusion?",
-        "pt-BR": "[Vellgunde]\nRasgand deve estar muito impaciente.\nEntão foi por isso que estendeu sua influência até o continente e também se aliou à Ilusión?",
-        "es-ES": "[Vellgunde]\nRasgand debió de estar muy desesperado.\nPor eso extendió su influencia hasta el continente y también se alió con Illusion, ¿verdad?"
+        "pt-BR": "[Vellgunde]\nRagand deve estar muito impaciente.\nEntão foi por isso que estendeu sua influência até o continente e também se aliou à Ilusión?",
+        "es-ES": "[Vellgunde]\nRagand debió de estar muy desesperado.\nPor eso extendió su influencia hasta el continente y también se alió con Ilusión, ¿verdad?"
     },
     "pX8MDg": {
         "en-US": "What about their combat strength?",
@@ -671,63 +671,63 @@
     },
     "pn8MDg": {
         "en-US": "[Juncea]\nAs you've seen, the highest-grade Rgans and high-grade Rgans are strong. They absorbed a lot of magic and grew while magic was still plentiful in the early days.\nBut they're not beyond your ability to handle.",
-        "pt-BR": "[Junkea]\nComo você mesmo viu, os Rgan de nível máximo e os Rgan de nível superior são fortes. Eles absorveram muito poder mágico e cresceram quando ainda havia bastante magia.\nMas não são fortes a ponto de vocês não conseguirem enfrentá-los.",
-        "es-ES": "[Juncea]\nComo ya viste, los Rgan de rango máximo y los Rgan de rango superior son fuertes. Crecieron absorbiendo grandes cantidades de magia al principio, cuando todavía abundaba.\nPero no son tan fuertes como para que ustedes no puedan enfrentarlos."
+        "pt-BR": "[Juncea]\nComo você mesmo viu, os Rgan de nível máximo e os de nível superior são fortes. Eles absorveram muito poder mágico e cresceram quando ainda havia bastante magia.\nMas não são fortes a ponto de vocês não conseguirem enfrentá-los.",
+        "es-ES": "[Juncea]\nComo ya vieron, los Rgan de rango máximo y los Rgan Superiores son fuertes. Crecieron absorbiendo grandes cantidades de magia al principio, cuando todavía abundaba.\nPero no son tan fuertes como para que ustedes no puedan enfrentarlos."
     },
     "p38MDg": {
         "en-US": "[Juncea]\nThere aren't many of the highest-grade ones. And with their magic nearly depleted, we have a chance if we have enough time. But the one you need to watch out for is Rasgand.",
-        "pt-BR": "[Junkea]\nHá poucos de nível máximo. Além disso, o poder mágico está quase esgotado, então, se tivermos tempo suficiente, temos uma chance. Mas é preciso tomar cuidado com Rasgand.",
-        "es-ES": "[Juncea]\nHay muy pocos de rango máximo. Además, como la magia está casi agotada, si tenemos suficiente tiempo, tenemos posibilidades. Pero de quien deben cuidarse es de Rasgand."
+        "pt-BR": "[Juncea]\nHá poucos de nível máximo. Além disso, o poder mágico está quase esgotado, então, se tivermos tempo suficiente, temos uma chance. Mas é preciso tomar cuidado com Ragand.",
+        "es-ES": "[Juncea]\nHay muy pocos de rango máximo. Además, como la magia está casi agotada, si tenemos suficiente tiempo, tenemos posibilidades. Pero de quien deben cuidarse es de Ragand."
     },
     "qH8MDg": {
         "en-US": "[Juncea]\nSince he's a survivor, his magic is immense. The amount of magic he's absorbed over his long life must be considerable too.\nAll of the highest-grade Rgans were born from the blood he shed.",
-        "pt-BR": "[Junkea]\nComo ele é um sobrevivente, seu poder mágico é enorme. E a quantidade de poder mágico que absorveu ao longo de tantos anos também deve ser considerável.\nTodos os Rgan de nível máximo nasceram do sangue que ele derramou.",
+        "pt-BR": "[Juncea]\nComo ele é um sobrevivente, seu poder mágico é enorme. E a quantidade de poder que absorveu ao longo de tantos anos também deve ser considerável.\nTodos os Rgan de nível máximo nasceram do sangue que ele derramou.",
         "es-ES": "[Juncea]\nComo es un sobreviviente, posee una cantidad enorme de poder mágico. Y la magia que absorbió durante tantos años tampoco debe ser poca.\nTodos los Rgan de rango máximo nacieron de la sangre que él derramó."
     },
     "qX8MDg": {
         "en-US": "[Juncea]\nHonestly, I don't know much about him either. I wanted to study him at least once, but he wouldn't let me lay a hand on his body.",
-        "pt-BR": "[Junkea]\nNa verdade, eu também não sei muito sobre ele. Queria estudá-lo uma vez, mas ele não deixava ninguém nem tocar em seu corpo.",
-        "es-ES": "[Juncea]\nLa verdad, yo tampoco sé mucho sobre él. Quise investigarlo alguna vez, pero no deja que nadie toque su cuerpo."
+        "pt-BR": "[Juncea]\nNa verdade, eu também não sei muito sobre ele. Queria estudá-lo uma vez, mas ele não deixava ninguém nem tocar em seu corpo.",
+        "es-ES": "[Juncea]\nLa verdad, yo tampoco sé mucho sobre él. Quise investigarlo alguna vez, pero no deja que nadie lo toque."
     },
     "qn8MDg": {
         "en-US": "[Vellgunde]\nHmm, Rasgand is the wild card here. He's the last survivor...... and the very one who ^0000CDplaced the Curse on the royal family^000000. And someone like that joined forces with Illusion, even going so far as to favor them.",
-        "pt-BR": "[Vellgunde]\nHmm, então Rasgand é a variável. Afinal, ele é o último sobrevivente...... e também foi ele quem ^0000CDlançou a Maldição sobre a família real^000000. E alguém assim se aliou à Ilusión e até passou a favorecê-la.",
-        "es-ES": "[Vellgunde]\nHmm, ese Rasgand es una variable importante. Es el último sobreviviente...... y también quien ^0000CDlanzó la Maldición sobre la familia real^000000. Y alguien así se alió con Illusion e incluso llegó a favorecerla."
+        "pt-BR": "[Vellgunde]\nHmm, então Ragand é o trunfo. Afinal, ele é o último sobrevivente...... e também foi ele quem ^0000CDlançou a Maldição sobre a família real^000000. E alguém assim se aliou à Ilusión e até passou a favorecê-la.",
+        "es-ES": "[Vellgunde]\nHmm, Ragand es una variable importante. Es el último sobreviviente y también es quien ^0000CDlanzó la Maldición sobre la familia real^000000. Y alguien así se alió con Ilusión y llegó a favorecerlos."
     },
     "q38MDg": {
         "en-US": "[Vellgunde]\nWhat did he ask of Illusion? I heard they were researching magic amplification.",
-        "pt-BR": "[Vellgunde]\nO que ele exigiu da Ilusión? Ouvi dizer que ela pesquisou sobre amplificação de poder mágico.",
-        "es-ES": "[Vellgunde]\n¿Qué le pidió exactamente a Illusion? Escuché que investigaban la amplificación del poder mágico."
+        "pt-BR": "[Vellgunde]\nO que ele exigiu da Ilusión? Ouvi dizer que estavam pesquisando sobre amplificação de poder mágico.",
+        "es-ES": "[Vellgunde]\n¿Qué le pidió exactamente a Ilusión? Escuché que investigaban la amplificación del poder mágico."
     },
     "rH8MDg": {
         "en-US": "[Juncea]\nWhat I studied was the body of Jormungand and its magic.\nIf magic can remain bound to a corpse even after all those years, then it might be possible to preserve it for even longer.",
-        "pt-BR": "[Junkea]\nO que pesquisei foi o corpo de Jormungand e seu poder mágico.\nSe é possível manter poder mágico preso em um cadáver mesmo depois de tantos anos, talvez também seja possível fazê-lo durar ainda mais.",
+        "pt-BR": "[Juncea]\nO que pesquisei foi o corpo de Jormungand e seu poder mágico.\nSe é possível manter poder mágico preso em um cadáver mesmo depois de tantos anos, talvez também seja possível fazê-lo durar ainda mais.",
         "es-ES": "[Juncea]\nLo que yo investigaba era el cuerpo de Jormungand y su poder mágico.\nSi se puede retener poder mágico en un cadáver incluso después de tantos años, quizá también sea posible conservarlo durante más tiempo."
     },
     "rX8MDg": {
         "en-US": "[Leizi]\nSo that's why Rasgand gave you his full support. But then Bagot took that opportunity away from you.\nWhat on earth did Bagot offer him?",
-        "pt-BR": "[Nalandro]\nEntão foi por isso que Rasgand deu apoio total. Mas Bagot tomou essa oportunidade de você.\nAfinal, o que Bagot ofereceu?",
-        "es-ES": "[Lazy]\nAsí que por eso Rasgand te brindaba todo su apoyo. Pero Bagot te arrebató esa oportunidad.\n¿Qué fue exactamente lo que ofreció Bagot?"
+        "pt-BR": "[Nalandro]\nEntão foi por isso que Ragand te deu apoio total. Mas Bagot tomou essa oportunidade de você.\nAfinal, o que Bagot ofereceu?",
+        "es-ES": "[Lazy]\nPor eso Ragand te daba todo su apoyo. Pero Bagot te arrebató esa oportunidad.\n¿Qué fue exactamente lo que ofreció Bagot?"
     },
     "rn8MDg": {
         "en-US": "[Juncea]\nProbably... the resurrection of Jormungand.",
-        "pt-BR": "[Junkea]\nProvavelmente... a ressurreição de Jormungand.",
+        "pt-BR": "[Juncea]\nProvavelmente... a ressurreição de Jormungand.",
         "es-ES": "[Juncea]\nProbablemente... la resurrección de Jormungand."
     },
     "r38MDg": {
         "en-US": "Resurrection...!",
         "pt-BR": "Ressurreição...!",
-        "es-ES": "¡Resurrección...!"
+        "es-ES": "¿Resurrección?"
     },
     "sH8MDg": {
         "en-US": "Resurrection?? Is that even possible?",
         "pt-BR": "Ressurreição?? Isso é mesmo possível?",
-        "es-ES": "¿¿Resurrección?? ¿Eso es posible?"
+        "es-ES": "¿Resurrección? ¿Eso es posible?"
     },
     "sX8MDg": {
         "en-US": "Just as I thought...",
         "pt-BR": "Então era isso...",
-        "es-ES": "Ya veo... así que era eso..."
+        "es-ES": "Entonces era eso..."
     },
     "sn8MDg": {
         "en-US": "..!!!",
@@ -736,7 +736,7 @@
     },
     "s38MDg": {
         "en-US": "[Juncea]\nConsidering what he was interested in and what he did to me, it's easy enough to guess.\nWith the remaining body and the Heart of Ymir, he'll try to ^0000CDresurrect Jormungand^000000, or at the very least ^0000CDrecreate the divinity of Jormungand^000000.",
-        "pt-BR": "[Junkea]\nConsiderando o que interessava a ele e o que fez comigo, não é difícil deduzir.\nCom o corpo restante e o Coração de Ymir, ele deve estar tentando ^0000CDressuscitar Jormungand^000000 ou, no mínimo, ^0000CDreproduzir a divindade de Jormungand^000000.",
+        "pt-BR": "[Juncea]\nConsiderando o que interessava a ele e o que fez comigo, não é difícil deduzir.\nCom o corpo restante e o Coração de Ymir, ele deve estar tentando ^0000CDressuscitar Jormungand^000000 ou, no mínimo, ^0000CDreproduzir a divindade de Jormungand^000000.",
         "es-ES": "[Juncea]\nPor lo que le interesaba y por lo que me hizo, es fácil deducirlo.\nCon el cuerpo restante y el Corazón de Ymir, intentará ^0000CDresucitar a Jormungand^000000 o, como mínimo, ^0000CDreproducir la divinidad de Jormungand^000000."
     },
     "tH8MDg": {
@@ -746,23 +746,23 @@
     },
     "tX8MDg": {
         "en-US": "[Juncea]\nI don't know how complete Bagot's experiment is, but he's made considerable progress... and is probably on the verge of completing it.",
-        "pt-BR": "[Junkea]\nNão sei até que ponto o experimento de Bagot está completo, mas ele avançou bastante... e provavelmente está prestes a ser concluído.",
-        "es-ES": "[Juncea]\nNo sé hasta qué punto están completos los experimentos de Bagot, pero han avanzado bastante... probablemente estén a punto de completarlos."
+        "pt-BR": "[Juncea]\nNão sei até que ponto o experimento de Bagot está completo, mas ele avançou bastante... e provavelmente está prestes a ser concluído.",
+        "es-ES": "[Juncea]\nNo sé hasta qué punto están completos los experimentos de Bagot, pero están avanzados... probablemente esté a punto de completarlos."
     },
     "tn8MDg": {
         "en-US": "[Leizi]\nThe resurrection of Jormungand...... Just thinking about it makes me want to faint.",
         "pt-BR": "[Nalandro]\nA ressurreição de Jormungand...... Só de pensar nisso já dá vontade de desmaiar.",
-        "es-ES": "[Lazy]\nLa resurrección de Jormungand...... Solo de pensarlo me dan ganas de desmayarme."
+        "es-ES": "[Lazy]\nLa resurrección de Jormungand... solo de pensarlo me dan ganas de desmayar."
     },
     "t38MDg": {
         "en-US": "[Miriam]\nWait, Rasgand is one thing, but what does Bagot gain from going that far?",
-        "pt-BR": "[Miriam]\nEspere, Rasgand eu até entendo, mas o que Bagot ganha indo tão longe assim?",
-        "es-ES": "[Miriam]\nEspera, dejando a Rasgand de lado, ¿qué gana Bagot llegando tan lejos?"
+        "pt-BR": "[Miriam]\nEspere, Ragand eu até entendo, mas o que Bagot ganha indo tão longe assim?",
+        "es-ES": "[Miriam]\nEspera, dejando a Ragand de lado, ¿qué gana Bagot llegando tan lejos?"
     },
     "uH8MDg": {
         "en-US": "[Juncea]\nThat man is obsessed with carrying out whatever research he wants.\nHe'd keep an absolute being under his control and use it while doing whatever he pleases. That just happened to align with Rasgand's desires.",
-        "pt-BR": "[Junkea]\nEle é obcecado pelas pesquisas que quer realizar.\nVai manter um ser absoluto sob seu controle e usá-lo enquanto faz o que bem entender. Isso acabou coincidindo com os desejos de Rasgand.",
-        "es-ES": "[Juncea]\nEstá obsesionado con hacer las investigaciones que quiere.\nTendrá a un ser absoluto bajo su control para usarlo a su antojo mientras él hace lo que desea. Y eso coincidió con las ambiciones de Rasgand."
+        "pt-BR": "[Juncea]\nEle é obcecado pelas pesquisas que quer realizar.\nVai manter um ser absoluto sob seu controle e usá-lo enquanto faz o que bem entender. Isso acabou coincidindo com os desejos de Ragand.",
+        "es-ES": "[Juncea]\nEstá obsesionado con hacer las investigaciones que quiere.\nTendrá a un ser absoluto bajo su control para usarlo como se le dé la gana. Y eso coincidió con las ambiciones de Ragand."
     },
     "uX8MDg": {
         "en-US": "[Vellgunde]\nIf it is resurrected under their control, the continent will once again face a major crisis.",
@@ -772,42 +772,42 @@
     "un8MDg": {
         "en-US": "We have less time than I thought!!!",
         "pt-BR": "Temos menos tempo do que eu pensava!!!",
-        "es-ES": "¡¡¡Tenemos mucho menos tiempo de lo que pensábamos!!!"
+        "es-ES": "¡Tenemos mucho menos tiempo de lo que pensábamos!"
     },
     "u38MDg": {
         "en-US": "[Leizi]\nWe need to come up with a plan right now. Now, tell us everything you know about Snake's Nest.",
-        "pt-BR": "[Nalandro]\nPrecisamos traçar uma estratégia agora mesmo. Certo, conte tudo o que sabe sobre Ninho da Serpente.",
-        "es-ES": "[Lazy]\nTenemos que elaborar un plan ahora mismo. Bien, cuéntanos todo lo que sabes sobre el Nido de la Serpiente."
+        "pt-BR": "[Nalandro]\nPrecisamos traçar uma estratégia agora mesmo. Certo, conte tudo o que sabe sobre o Ninho da Serpente.",
+        "es-ES": "[Lazy]\nTenemos que elaborar un plan ahora mismo. Cuéntanos todo lo que sabes sobre el Nido de la Serpiente."
     },
     "vH8MDg": {
         "en-US": "[Juncea]\nAs far as I know, there's only one entrance in and out. First, take control of the area where the lower-grade Rgans are, then block the passage in the middle.\nThen they'll be trapped, so they'll either come out through the secret passage entrance or dig their way out.",
-        "pt-BR": "[Junkea]\nPelo que sei, há apenas uma entrada para entrar e sair. Primeiro, ocupem a área onde ficam os Rgan inferiores e bloqueiem a passagem intermediária.\nAssim, eles não terão para onde ir e acabarão saindo pela entrada da passagem secreta ou até cavando o chão.",
-        "es-ES": "[Juncea]\nHasta donde sé, solo hay una entrada para entrar y salir. Primero ocupen la zona donde están los Rgan de rango inferior y bloqueen el paso intermedio.\nAsí no podrán ir ni venir, por lo que saldrán por la entrada del pasadizo secreto o incluso cavarán para salir."
+        "pt-BR": "[Juncea]\nPelo que sei, há apenas uma entrada. Primeiro, ocupem a área onde ficam os Rgan inferiores e bloqueiem a passagem intermediária.\nAssim, eles não terão para onde ir e acabarão saindo pela passagem secreta ou até cavando o chão.",
+        "es-ES": "[Juncea]\nHasta donde sé, solo hay una entrada. Primero tomen la zona donde están los Rgan de rango inferior y bloqueen el paso intermedio.\nAsí no podrán ir ni venir, van a tener que usar algún pasadizo secreto o hasta cavar otra salida."
     },
     "vX8MDg": {
         "en-US": "[Horuru]\nWe can surround the area and ambush anyone who comes outside.",
-        "pt-BR": "[Horur]\nPodemos cercar a área e atacar quem sair.",
+        "pt-BR": "[Horuru]\nPodemos cercar a área e atacar quem sair.",
         "es-ES": "[Horuru]\nPodemos rodear la zona y atacar a quienes salgan."
     },
     "vn8MDg": {
         "en-US": "[Juncea]\nMake use of the scrolls you have. Since you'll look like fellow Rgan, they'll let their guard down and get caught off guard.",
-        "pt-BR": "[Junkea]\nUsem os pergaminhos que vocês têm. Como vão parecer o mesmo Rgan, eles vão baixar a guarda e acabar sendo pegos de surpresa.",
-        "es-ES": "[Juncea]\nAprovechen los pergaminos que tienen. Como parecerán Rgan, bajarán la guardia y caerán en la trampa."
+        "pt-BR": "[Juncea]\nUsem os pergaminhos que vocês têm. Como vão parecer o mesmo Rgan, eles vão baixar a guarda e acabar sendo pegos de surpresa.",
+        "es-ES": "[Juncea]\nAprovechen los pergaminos que tienen. Van a caer en la trampa y bajar la guardia."
     },
     "v38MDg": {
         "en-US": "[Leizi]\nOh, so this is the taste of betrayal you wanted?",
         "pt-BR": "[Nalandro]\nOh, então esse é o sabor da traição que você queria?",
-        "es-ES": "[Lazy]\nOh, ¿así que este es el sabor de la traición que querías?"
+        "es-ES": "[Lazy]\n¿Esa es la traición que querías?"
     },
     "wH8MDg": {
         "en-US": "[Aurelie]\nSo everyone was here. What's that...?",
-        "pt-BR": "[Aurelie]\nEntão estavam todos aqui. Aquilo é...?",
-        "es-ES": "[Aurelie]\nAsí que estaban todos aquí. ¿Eso es...?"
+        "pt-BR": "[Aurelie]\nEntão estavam todos aqui. Quem é...?",
+        "es-ES": "[Aurelie]\nAquí estaban todos. ¿Esa es...?"
     },
     "wX8MDg": {
         "en-US": "[Leizi]\nA criminal the adventurer captured and brought in.",
-        "pt-BR": "[Nalandro]\nÉ uma criminosa que o aventureiro capturou.",
-        "es-ES": "[Lazy]\nUn criminal que capturó el aventurero."
+        "pt-BR": "[Nalandro]\nÉ uma criminosa que o Viajante capturou.",
+        "es-ES": "[Lazy]\nTrotamundos capturó a una criminal."
     },
     "wn8MDg": {
         "en-US": "[Vellgunde]\nWhat is it?",
@@ -816,17 +816,17 @@
     },
     "w38MDg": {
         "en-US": "[Juncea]\nWhat is this, some kind of meeting spot? Why is everyone crowding into this tiny place?",
-        "pt-BR": "[Junkea]\nIsto aqui virou ponto de encontro? Por que tanta gente está se espremendo num lugar tão pequeno?",
-        "es-ES": "[Juncea]\n¿Qué es esto, un punto de reunión? ¿Por qué se amontonan todos en un lugar tan pequeño?"
+        "pt-BR": "[Juncea]\nIsso aqui virou um rolê? Por que tanta gente está se espremendo num lugar tão pequeno?",
+        "es-ES": "[Juncea]\n¿Este es su punto de reunión? ¿Por qué se amontonan en un lugar tan pequeño?"
     },
     "xH8MDg": {
         "en-US": "[Juncea]\nDon't forget the transformation scroll when you go to the snake den. ...And show it to me later too.",
-        "pt-BR": "[Junkea]\nNão esqueçam os pergaminhos de transformação quando forem ao covil da serpente. ...E depois mostrem para mim também.",
-        "es-ES": "[Juncea]\nNo olviden los pergaminos de transformación cuando vayan a la guarida de las serpientes. ...Y luego enséñenmelo a mí también."
+        "pt-BR": "[Juncea]\nNão esqueçam os pergaminhos de transformação quando forem ao covil da serpente. ...E depois mostrem para mim também.",
+        "es-ES": "[Juncea]\nNo olviden usar sus pergaminos de transformación... y me enseñan cómo es después."
     },
     "xX8MDg": {
         "en-US": "[Juncea]\nAre you here to rush me? Don't bother me. I pushed myself too hard getting back, so I'm in no condition to do anything right now. Tell them I'll do it after I rest for a bit.",
-        "pt-BR": "[Junkea]\nVeio me apressar? Não mexa comigo. Forcei demais o corpo nessa ida e volta, então agora não estou em condições de fazer nada. Diga a eles que vou descansar um pouco antes.",
+        "pt-BR": "[Juncea]\nEstá me apressando? Nem vem. Forcei demais o corpo nessa ida e volta, então agora não estou em condições de fazer nada. Diga a eles que vou descansar um pouco antes.",
         "es-ES": "[Juncea]\n¿Viniste a apurarme? No me molestes. Me esforcé demasiado al ir y volver, así que ahora no estoy en condiciones de hacer nada. Diles que lo haré después de descansar un poco."
     },
     "xn8MDg": {
@@ -836,13 +836,13 @@
     },
     "x38MDg": {
         "en-US": "[Aurelie]\nWe received a report from the scouts that the Rgans have been acting suspiciously.",
-        "pt-BR": "[Aurelie]\nHouve um relatório da equipe de reconhecimento dizendo que os movimentos dos Rgan estão suspeitos.",
+        "pt-BR": "[Aurelie]\nHouve um relatório da equipe de reconhecimento dizendo que os movimentos dos Rgan são suspeitos.",
         "es-ES": "[Aurelie]\nEl equipo de reconocimiento informó que los movimientos de los Rgan son sospechosos."
     },
     "yH8MDg": {
-        "en-US": "[Iwin]\nThey said the Rgans were hurriedly moving somewhere.",
-        "pt-BR": "[Arwin]\nDisseram que os Rgan estão se deslocando às pressas para algum lugar.",
-        "es-ES": "[Awin]\nAl parecer, los Rgan se están desplazando apresuradamente hacia algún lugar."
+        "en-US": "[Windcy]\nThey said the Rgans were hurriedly moving somewhere.",
+        "pt-BR": "[Nevento]\nDisseram que os Rgan estão se deslocando às pressas para algum lugar.",
+        "es-ES": "[Neviento]\nAl parecer, los Rgan se están desplazando apresuradamente hacia algún lugar."
     },
     "yX8MDg": {
         "en-US": "Did they receive some kind of order?",
@@ -861,13 +861,13 @@
     },
     "zH8MDg": {
         "en-US": "[Horuru]\nSo we'll take advantage of the confusion to bring even more chaos. We should hurry and find out what's going on.",
-        "pt-BR": "[Horur]\nEntão vamos aproveitar a confusão para trazer ainda mais caos. Precisamos investigar isso depressa.",
-        "es-ES": "[Horuru]\nAsí que aprovecharemos la confusión para traer aún más caos. Será mejor investigar cuanto antes."
+        "pt-BR": "[Horuru]\nEntão vamos aproveitar a confusão para trazer ainda mais caos. Precisamos investigar isso depressa.",
+        "es-ES": "[Horuru]\nAprovecharemos la confusión para traer aún más caos. Será mejor investigar cuanto antes."
     },
     "zX8MDg": {
         "en-US": "[Juncea]\nDon't forget the scrolls. If everyone who knew your faces is gone, they'll be useful.",
-        "pt-BR": "[Junkea]\nNão esqueçam os pergaminhos. Se todos eles tiverem desaparecido, não haverá ninguém que conheça o rosto de vocês, então serão úteis.",
-        "es-ES": "[Juncea]\nNo olviden los pergaminos. Si todos desaparecieron, ya no quedará nadie que conozca sus rostros, así que serán útiles."
+        "pt-BR": "[Juncea]\nNão esqueçam os pergaminhos. Se todos eles tiverem desaparecido, não haverá ninguém que conheça o rosto de vocês, então serão úteis.",
+        "es-ES": "[Juncea]\nNo olviden los pergaminos. Si todos desaparecieron, ya no quedará nadie que conozca sus rostros."
     },
     "zn8MDg": {
         "en-US": "Leizi",
@@ -876,23 +876,23 @@
     },
     "z38MDg": {
         "en-US": "[Leizi]\nWait, what happened to Juncea while I looked away for just a moment?",
-        "pt-BR": "[Nalandro]\nEi, o que aconteceu com a humana Junkea enquanto tirei os olhos dela por um instante?",
-        "es-ES": "[Lazy]\nEspera, ¿qué le pasó al humano de Juncea en el poco tiempo que aparté la mirada?"
+        "pt-BR": "[Nalandro]\nEi, o que aconteceu com a humana Juncea enquanto tirei os olhos dela por um instante?",
+        "es-ES": "[Lazy]\nEspera, ¿qué le pasó a Juncea en el poco tiempo que aparté la mirada?"
     },
     "0H8MDg": {
         "en-US": "[Leizi]\nBringing back 20 low-grade magic cores should be easy for an adventurer, right? Don't tell me you already have 30,000 of them in your bag.",
-        "pt-BR": "[Nalandro]\nPara um aventureiro, trazer 20 núcleos mágicos inferiores deve ser fácil, não é? Vai me dizer que você já tem uns 30 mil na bolsa agora?",
-        "es-ES": "[Lazy]\nPara el aventurero, traer 20 núcleos mágicos inferiores debe ser fácil, ¿no? ¿No será que ya tienes 30,000 en la bolsa?"
+        "pt-BR": "[Nalandro]\nPara um Viajante, trazer 20 Núcleos Mágicos Inferiores deve ser fácil, não é? Vai me dizer que você já tem uns 30 mil na bolsa agora?",
+        "es-ES": "[Lazy]\nConseguir Núcleo Mágico Inferior de Rgan x20 va a ser fácil para ti, ¿no? Seguro ya tienes como doscientos."
     },
     "0X8MDg": {
         "en-US": "[Leizi]\nCriminals from Illusion all seem kind of similar. That's what makes them so easy to handle.",
         "pt-BR": "[Nalandro]\nAcho que todos os criminosos vindos da Ilusión são meio parecidos. Por isso são tão fáceis de lidar, sabe?",
-        "es-ES": "[Lazy]\nCreo que los criminales procedentes de Illusion se parecen bastante entre sí. Por eso son tan fáciles de manejar, ¿sabes?"
+        "es-ES": "[Lazy]\nCreo que los criminales procedentes de Ilusión se parecen bastante entre sí. Por eso son tan fáciles de manejar, ¿sabes?"
     },
     "0n8MDg": {
         "en-US": "[Leizi]\nIs it time to use the Rgan Transformation Scroll again? You think I look excited? You're imagining things.",
-        "pt-BR": "[Nalandro]\nSerá que chegou a hora de usar Pergaminho de Transformação em Regan de novo? Estou parecendo animado? É impressão sua.",
-        "es-ES": "[Lazy]\n¿Ya es hora de volver a usar el Pergamino de Transformación en Regan? ¿Que parezco emocionado? Son imaginaciones tuyas."
+        "pt-BR": "[Nalandro]\nSerá que chegou a hora de usar Pergaminho de Transformação de novo? Se estou parecendo animado, é impressão sua.",
+        "es-ES": "[Lazy]\n¿Ya es hora de volver a usar el Pergamino de Transformación? ¿Me veo emocionado? No, te lo estás imaginando."
     },
     "038MDg": {
         "en-US": "Lehar",
@@ -906,8 +906,8 @@
     },
     "1X8MDg": {
         "en-US": "[Lehar]\nSo what you needed was low-grade magic cores. The handwriting was such a mess that I couldn't make it out.",
-        "pt-BR": "[Lehar]\nEntão o que precisava eram núcleos mágicos inferiores. A letra estava tão ruim que não dava para entender.",
-        "es-ES": "[Lehar]\nAsí que lo que necesitábamos eran núcleos mágicos inferiores. La letra estaba tan mal que no podía entenderla."
+        "pt-BR": "[Lehar]\nEntão o que precisava eram Núcleos Mágicos Inferiores. A letra estava tão feia que não dava para entender.",
+        "es-ES": "[Lehar]\nAsí que lo que necesitábamos era Núcleo Mágico Inferior de Rgan. La letra estaba tan mal que no podía entenderla."
     },
     "1n8MDg": {
         "en-US": "[Lehar]\nThat's my aunt, all right. By the way, what is that person saying?",
@@ -915,9 +915,9 @@
         "es-ES": "[Lehar]\nComo era de esperarse de mi tía. Por cierto, ¿qué está diciendo esa persona?"
     },
     "138MDg": {
-        "en-US": "[Lehar]\nIt's my first time at Iwin's house. You really do experience all kinds of things in life.",
-        "pt-BR": "[Lehar]\nÉ a primeira vez que venho à casa de Arwin. Vivendo e aprendendo, até uma experiência dessas eu acabo tendo.",
-        "es-ES": "[Lehar]\nEs la primera vez que vengo a la casa de Awin. Uno vive y termina pasando por toda clase de experiencias."
+        "en-US": "[Lehar]\nIt's my first time at Windcy's house. You really do experience all kinds of things in life.",
+        "pt-BR": "[Lehar]\nÉ a primeira vez que venho à casa de Nevento. Já vi e vivi tudo.",
+        "es-ES": "[Lehar]\nEs la primera vez que vengo a la casa de un Neviento. Uno vive y termina pasando por toda clase de experiencias."
     },
     "2H8MDg": {
         "en-US": "Miriam",
@@ -926,13 +926,13 @@
     },
     "2X8MDg": {
         "en-US": "[Miriam]\nWhat's going on? Isn't that Illusion?",
-        "pt-BR": "[Miriam]\nO que aconteceu? Aquilo não é alguém da Ilusión?",
-        "es-ES": "[Miriam]\n¿Qué ocurre? ¿Eso no es Illusion?"
+        "pt-BR": "[Miriam]\nO que aconteceu? Não é alguém da Ilusión?",
+        "es-ES": "[Miriam]\n¿Qué ocurre? ¿Eso no es Ilusión?"
     },
     "2n8MDg": {
         "en-US": "[Miriam]\nLow-grade magic cores... Come to think of it, I've seen them in the Warmth of the Snake God.",
-        "pt-BR": "[Miriam]\nNúcleo mágico inferior... pensando bem, acho que já vi isso no Calor do Deus Serpente.",
-        "es-ES": "[Miriam]\nAhora que lo pienso, he visto núcleos mágicos inferiores en el Calor del Dios Serpiente."
+        "pt-BR": "[Miriam]\nNúcleo Mágico Inferior... pensando bem, acho que já vi isso no Calor do Deus Serpente.",
+        "es-ES": "[Miriam]\nAhora que lo pienso, he visto Núcleo Mágico Inferior de Rgan en Calidez del Dios Serpiente."
     },
     "238MDg": {
         "en-US": "[Miriam]\nIf we capture Bagot, do you think we can find a clue to recover the Heart of Ymir?",
@@ -945,58 +945,58 @@
         "es-ES": "[Miriam]\nVine porque me invitaron, pero supongo que todos los lugares donde vive gente se parecen."
     },
     "3X8MDg": {
-        "en-US": "Iwin",
-        "pt-BR": "Arwin",
-        "es-ES": "Awin"
+        "en-US": "Windcy",
+        "pt-BR": "Nevento",
+        "es-ES": "Neviento"
     },
     "3n8MDg": {
-        "en-US": "[Iwin]\nSomething seems to have happened!",
-        "pt-BR": "[Arwin]\nParece que aconteceu algo estranho!",
-        "es-ES": "[Awin]\n¡Parece que ocurrió algo extraño!"
+        "en-US": "[Windcy]\nSomething seems to have happened!",
+        "pt-BR": "[Nevento]\nParece que aconteceu algo estranho!",
+        "es-ES": "[Neviento]\n¡Parece que ocurrió algo extraño!"
     },
     "338MDg": {
-        "en-US": "[Iwin]\nI think we need to go to the Rgan den!",
-        "pt-BR": "[Arwin]\nAcho que precisamos ir até o covil dos Rgan!",
-        "es-ES": "[Awin]\n¡Creo que debemos ir a la guarida de los Rgan!"
+        "en-US": "[Windcy]\nI think we need to go to the Rgan den!",
+        "pt-BR": "[Nevento]\nAcho que precisamos ir até o covil dos Rgan!",
+        "es-ES": "[Neviento]\n¡Creo que debemos ir a la guarida de los Rgan!"
     },
     "4H8MDg": {
-        "en-US": "Iwin Scout",
-        "pt-BR": "Reconhecimento de Arwin",
-        "es-ES": "Reconocimiento de Awin"
+        "en-US": "Windcy Scout",
+        "pt-BR": "Reconhecimento de Nevento",
+        "es-ES": "Neviento de Reconocimiento"
     },
     "4X8MDg": {
         "en-US": "Unidentified Rgan",
-        "pt-BR": "Rgan desconhecido",
+        "pt-BR": "Rgan Desconhecido",
         "es-ES": "Rgan desconocido"
     },
     "4n8MDg": {
         "en-US": "Heart Hunter",
-        "pt-BR": "Caçador de Corações",
-        "es-ES": "Cazador de Corazones"
+        "pt-BR": "Caça-Coração",
+        "es-ES": "Cazacorazones"
     },
     "438MDg": {
-        "en-US": "[Iwin Scout]\nYou have to travel around here after transforming into a Rgan!",
-        "pt-BR": "[Reconhecimento de Arwin]\nNesta área, precisamos andar transformados em Rgan!",
-        "es-ES": "[Reconocimiento de Awin]\n¡En este lugar debemos desplazarnos después de transformarnos en Rgan!"
+        "en-US": "[Windcy Scout]\nYou have to travel around here after transforming into a Rgan!",
+        "pt-BR": "[Reconhecimento de Nevento]\nNesta área, precisamos andar transformados em Rgan!",
+        "es-ES": "[Neviento de Reconocimiento]\n¡A este lugar debemos desplazarnos después de transformarnos en Rgan!"
     },
     "5H8MDg": {
-        "en-US": "[Iwin]\nYou're here!!",
-        "pt-BR": "[Arwin]\nVocê chegou!!",
-        "es-ES": "[Awin]\n¡¡Ya llegaron!!"
+        "en-US": "[Windcy]\nYou're here!!",
+        "pt-BR": "[Nevento]\nVocê chegou!!",
+        "es-ES": "[Neviento]\n¡Ya llegaron!"
     },
     "5X8MDg": {
         "en-US": "[Horuru]\nWhat's the current situation?",
-        "pt-BR": "[Horur]\nQual é a situação atual?",
+        "pt-BR": "[Horuru]\nQual é a situação atual?",
         "es-ES": "[Horuru]\n¿Cuál es la situación actual?"
     },
     "5n8MDg": {
-        "en-US": "[Iwin]\nThe high-grade and higher Rgan have moved somewhere else, leaving only the mid-grade and lower ones behind, so things are somewhat chaotic.",
-        "pt-BR": "[Arwin]\nOs Rgan de nível superior ou acima se deslocaram para algum lugar, e só restaram os de nível intermediário ou inferior. O ambiente está um pouco caótico.",
-        "es-ES": "[Awin]\nLos Rgan de rango superior o mayor se trasladaron a algún lugar, y solo quedan los de rango intermedio o inferior, así que el ambiente está algo caótico."
+        "en-US": "[Windcy]\nThe high-grade and higher Rgan have moved somewhere else, leaving only the mid-grade and lower ones behind, so things are somewhat chaotic.",
+        "pt-BR": "[Nevento]\nOs Rgan de nível superior ou acima se deslocaram para algum lugar, e só restaram os de nível intermediário ou inferior. O ambiente está um pouco caótico.",
+        "es-ES": "[Neviento]\nLos Rgan de rango superior o mayor se trasladaron a algún lugar, y solo quedan los de rango intermedio o inferior, así que el ambiente está algo caótico."
     },
     "538MDg": {
         "en-US": "[Human Who Tried to Escape]\nLet go of me! I said let go!",
-        "pt-BR": "[Humano que tentou fugir]\nMe solte! Eu mandei me soltar!",
+        "pt-BR": "[Humano Fugitivo]\nMe solte! Eu mandei me soltar!",
         "es-ES": "[Humano que intentaba escapar]\n¡Suéltame! ¡Te digo que me sueltes!"
     },
     "6H8MDg": {
@@ -1006,37 +1006,37 @@
     },
     "6X8MDg": {
         "en-US": "[Horuru]\nWho are those people?",
-        "pt-BR": "[Horur]\nQuem são essas pessoas?",
+        "pt-BR": "[Horuru]\nQuem são essas pessoas?",
         "es-ES": "[Horuru]\n¿Quiénes son esas personas?"
     },
     "6n8MDg": {
-        "en-US": "[Iwin]\nThey're humans who tried to escape, but they looked like they were in danger, so I brought them here.",
-        "pt-BR": "[Arwin]\nSão humanos que tentaram fugir, mas pareceram suspeitos, então eu os trouxe para cá.",
-        "es-ES": "[Awin]\nSon humanos que intentaban escapar. Parecía peligroso, así que los traje."
+        "en-US": "[Windcy]\nThey're humans who tried to escape, but they looked like they were in danger, so I brought them here.",
+        "pt-BR": "[Nevento]\nSão humanos que tentaram fugir, mas pareceram suspeitos, então eu os trouxe para cá.",
+        "es-ES": "[Neviento]\nSon humanos que intentaban escapar. Parecían peligrosos, así que los traje."
     },
     "638MDg": {
         "en-US": "See? We should've left when I said we should earlier!",
-        "pt-BR": "Eu disse que teria sido melhor sair quando falei para irmos embora antes!",
-        "es-ES": "¡Por eso debimos salir cuando dije que nos fuéramos antes!"
+        "pt-BR": "Eu disse que teria sido melhor sair quando falei antes!",
+        "es-ES": "¡Por eso debimos salir cuando dije que nos fuéramos!"
     },
     "7H8MDg": {
         "en-US": "[Human Who Tried to Escape]\nWe weren't trying to escape! We were just trying to go to the bathroom, the bathroom!",
-        "pt-BR": "[Humano que tentou fugir]\nEu não estava tentando fugir, eu só queria ir ao banheiro, ao banheiro!",
+        "pt-BR": "[Humano Fugitivo]\nEu não estava tentando fugir, eu só queria ir ao banheiro, ao banheiro!",
         "es-ES": "[Humano que intentaba escapar]\n¡No intentábamos escapar! ¡Solo íbamos al baño, al baño!"
     },
     "7X8MDg": {
         "en-US": "[Human Who Tried to Escape]\nWe really don't know anything! Everyone just suddenly disappeared!",
-        "pt-BR": "[Humano que tentou fugir]\nNós realmente não sabemos de nada! De repente, todo mundo desapareceu!",
+        "pt-BR": "[Humano Fugitivo]\nNós realmente não sabemos de nada! De repente, todo mundo desapareceu!",
         "es-ES": "[Humano que intentaba escapar]\n¡De verdad no sabemos nada! ¡De repente todos desaparecieron!"
     },
     "7n8MDg": {
         "en-US": "Didn't you say we should wait and be cautious??",
         "pt-BR": "Foi você que disse para esperarmos com cautela??",
-        "es-ES": "¿¿No fuiste tú quien dijo que esperáramos con cuidado??"
+        "es-ES": "¿No dijiste que debieron salir antes?"
     },
     "738MDg": {
         "en-US": "[Horuru]\nEscort these people outside.",
-        "pt-BR": "[Horur]\nLevem essas pessoas para fora.",
+        "pt-BR": "[Horuru]\nLevem essas pessoas para fora.",
         "es-ES": "[Horuru]\nGuía a estas personas hacia afuera."
     },
     "8H8MDg": {
@@ -1046,38 +1046,38 @@
     },
     "8X8MDg": {
         "en-US": "Where are you taking us?!",
-        "pt-BR": "Para onde vocês estão nos levando!",
+        "pt-BR": "Para onde vocês estão nos levando?",
         "es-ES": "¡¿Adónde piensan llevarnos?!"
     },
     "8n8MDg": {
         "en-US": "Let go of me! I said let go!!",
         "pt-BR": "Me solte! Eu mandei me soltar!!",
-        "es-ES": "¡Suéltame! ¡¡Te digo que me sueltes!!"
+        "es-ES": "¡Suéltame! ¡Te digo que me sueltes!"
     },
     "838MDg": {
         "en-US": "[Horuru]\nDid you see any other humans besides those people?",
-        "pt-BR": "[Horur]\nViram mais humanos além dessas pessoas?",
-        "es-ES": "[Horuru]\n¿Vieron a más humanos aparte de esas personas?"
+        "pt-BR": "[Horuru]\nVocês viram mais humanos além dessas pessoas?",
+        "es-ES": "[Horuru]\n¿Vieron a más humanos aparte de ellos?"
     },
     "9H8MDg": {
-        "en-US": "[Iwin]\nA few were wandering around, so I guided them outside. It seems some had already escaped before we entered.",
-        "pt-BR": "[Arwin]\nAlguns estavam perdidos, então nós os guiamos para fora. Parece que alguns também conseguiram escapar antes de entrarmos.",
-        "es-ES": "[Awin]\nAlgunos estaban deambulando, así que los guiamos hacia afuera. Parece que algunos ya habían escapado antes de que nosotros entráramos."
+        "en-US": "[Windcy]\nA few were wandering around, so I guided them outside. It seems some had already escaped before we entered.",
+        "pt-BR": "[Nevento]\nAlguns estavam perdidos, então nós os guiamos para fora. Parece que alguns também conseguiram escapar antes de entrarmos.",
+        "es-ES": "[Neviento]\nAlgunos estaban deambulando, así que los guiamos hacia afuera. Parece que algunos ya habían escapado antes de que nosotros entráramos."
     },
     "9X8MDg": {
         "en-US": "[Horuru]\nWhere did all the Rgans go?",
-        "pt-BR": "[Horur]\nPara onde todos os Rgan foram?",
-        "es-ES": "[Horuru]\n¿Adónde se fueron todos los Rgan?"
+        "pt-BR": "[Horuru]\nPara onde todos os Rgan foram?",
+        "es-ES": "[Horuru]\n¿A dónde se fueron todos los Rgan?"
     },
     "9n8MDg": {
-        "en-US": "[Iwin]\nWe haven't figured that out yet!",
-        "pt-BR": "[Arwin]\nAinda não conseguimos descobrir isso!",
-        "es-ES": "[Awin]\n¡Todavía no hemos logrado averiguarlo!"
+        "en-US": "[Windcy]\nWe haven't figured that out yet!",
+        "pt-BR": "[Nevento]\nAinda não conseguimos descobrir isso!",
+        "es-ES": "[Neviento]\nTodavía no logramos saberlo."
     },
     "938MDg": {
         "en-US": "[Miriam]\nIt definitely seems strange. From what I've seen so far, there may have been differences in rank, but it didn't seem like they normally gathered separately like this.",
         "pt-BR": "[Miriam]\nÉ realmente estranho. Pelo que observei até agora, embora houvesse diferenças de posição, não parecia que eles costumavam se reunir separadamente.",
-        "es-ES": "[Miriam]\nDefinitivamente es extraño. Por lo que hemos observado hasta ahora, aunque había diferencias de estatus, no parecía que se reunieran por separado."
+        "es-ES": "[Miriam]\nDefinitivamente es extraño. Por lo que hemos observado hasta ahora, aunque había rangos diferentes, no se reunían por separado."
     },
     "+H8MDg": {
         "en-US": "[Lehar]\nI'm worried about the humans who were doing forced labor too. I doubt they managed to escape safely in all this confusion.",
@@ -1100,14 +1100,14 @@
         "es-ES": "[Lehar]\nPrimero deberíamos ir al lugar adonde nos llevaron la otra vez. Puede que todavía queden humanos allí."
     },
     "/H8MDg": {
-        "en-US": "[Iwin]\nI think we need to investigate the situation further! I saw some traces farther inside!",
-        "pt-BR": "[Arwin]\nAcho que precisamos investigar um pouco mais a situação! Eu vi rastros mais para dentro!",
-        "es-ES": "[Awin]\n¡Creo que debemos investigar un poco más la situación! ¡Vi rastros más adentro!"
+        "en-US": "[Windcy]\nI think we need to investigate the situation further! I saw some traces farther inside!",
+        "pt-BR": "[Nevento]\nAcho que precisamos investigar um pouco mais a situação! Eu vi rastros mais para dentro!",
+        "es-ES": "[Neviento]\n¡Creo que debemos investigar más a fondo! ¡Vi rastros más adentro!"
     },
     "/X8MDg": {
-        "en-US": "[Iwin]\nSo far, there haven't been any suspicious movements.",
-        "pt-BR": "[Arwin]\nAté agora, não há nenhum movimento suspeito.",
-        "es-ES": "[Awin]\nHasta ahora no hay movimientos sospechosos."
+        "en-US": "[Windcy]\nSo far, there haven't been any suspicious movements.",
+        "pt-BR": "[Nevento]\nAté agora, não há nenhum movimento suspeito.",
+        "es-ES": "[Neviento]\nHasta ahora no hay movimientos sospechosos."
     },
     "/n8MDg": {
         "en-US": "For now, let's hear what's going on.",
@@ -1122,12 +1122,12 @@
     "AIAMDg": {
         "en-US": "I still can't get used to this place, even seeing it again.",
         "pt-BR": "Não consigo me acostumar com este lugar, mesmo vendo de novo.",
-        "es-ES": "No logro acostumbrarme a este lugar, por más veces que lo vea."
+        "es-ES": "No logro acostumbrarme a este lugar, por más que lo vea."
     },
     "AYAMDg": {
         "en-US": "If I get into danger, the adventurer has to protect me, okay?",
-        "pt-BR": "Se eu estiver em perigo, o aventureiro tem que me proteger, entendeu?",
-        "es-ES": "Si me pongo en peligro, el aventurero tendrá que protegerme, ¿de acuerdo?"
+        "pt-BR": "Se eu estiver em perigo, o Viajante tem que me proteger, entendeu?",
+        "es-ES": "Trotamundos tendrá que protegerme si me pongo en peligro, ¿de acuerdo?"
     },
     "AoAMDg": {
         "en-US": "Human",
@@ -1146,7 +1146,7 @@
     },
     "BYAMDg": {
         "en-US": "Oh, come on-",
-        "pt-BR": "Ah, fala sério-",
+        "pt-BR": "Ah, fala sério...",
         "es-ES": "En serio..."
     },
     "BoAMDg": {
@@ -1157,27 +1157,27 @@
     "B4AMDg": {
         "en-US": "[Lehar]\nIt's the same elsewhere. They just left without doing anything. Were they in a hurry?",
         "pt-BR": "[Lehar]\nNos outros lugares é a mesma coisa. Eles simplesmente foram embora sem tomar nenhuma providência. Será que saíram às pressas?",
-        "es-ES": "[Lehar]\nEn los otros lugares pasa lo mismo. Se fueron sin tomar ninguna medida. ¿Se habrán marchado con tanta prisa?"
+        "es-ES": "[Lehar]\nEn los otros lugares pasa lo mismo. Se fueron nada más. ¿A dónde fueron con tanta prisa?"
     },
     "CIAMDg": {
-        "en-US": "I handed them over to some Iwin who were passing by.",
-        "pt-BR": "Eu os deixei com alguns Arwin que estavam passando.",
-        "es-ES": "Los dejamos con unos Awin que pasaban por allí."
+        "en-US": "I handed them over to some Windcy who were passing by.",
+        "pt-BR": "Eu os deixei com alguns Nevento que estavam passando.",
+        "es-ES": "Los dejamos con unos Neviento que pasaban por allí."
     },
     "CYAMDg": {
         "en-US": "[Leizi]\nAll right~ everyone, let's get out of here too.",
-        "pt-BR": "[Nalandro]\nCerto~ pessoal, vamos sair também.",
-        "es-ES": "[Lazy]\nBien~ señores, nosotros también salgamos de aquí."
+        "pt-BR": "[Nalandro]\nCerto... pessoal, vamos sair também.",
+        "es-ES": "[Lazy]\nTambién hay que salir de aquí."
     },
     "CoAMDg": {
         "en-US": "[Human Doing Forced Labor]\nGood heavens! A-a priest and a bishop!",
-        "pt-BR": "[Humano em trabalho forçado]\nMinha nossa! Um, um sacerdote e um bispo!",
-        "es-ES": "[Humano sometido a trabajos forzados]\n¡¡Cielos!! ¡¡S-sacerdotes y hasta un obispo!!"
+        "pt-BR": "[Humano Escravizado]\nMinha nossa! U-um sacerdote e um bispo!",
+        "es-ES": "[Humano sometido a trabajos forzados]\n¡Ay! ¡Un sacerdote y un obispo!"
     },
     "C4AMDg": {
         "en-US": "[Human Doing Forced Labor]\nWe stayed right where we were and behaved ourselves!",
-        "pt-BR": "[Humano em trabalho forçado]\nNós ficamos aqui quietinhos sem sair do lugar!",
-        "es-ES": "[Humano sometido a trabajos forzados]\n¡Nosotros nos quedamos aquí tranquilamente sin movernos del lugar!"
+        "pt-BR": "[Humano Escravizado]\nNós ficamos aqui quietinhos e comportados!",
+        "es-ES": "[Humano sometido a trabajos forzados]\n¡Nosotros nos quedamos aquí sin movernos!"
     },
     "DIAMDg": {
         "en-US": "It's true!",
@@ -1186,53 +1186,53 @@
     },
     "DYAMDg": {
         "en-US": "[Human Doing Forced Labor]\nReally! While everyone else was getting out, we stayed put and behaved ourselves!",
-        "pt-BR": "[Humano em trabalho forçado]\nÉ verdade! Quando todos estavam saindo, nós ficamos aqui quietos!",
+        "pt-BR": "[Humano Escravizado]\nÉ verdade! Quando todos estavam saindo, nós ficamos aqui quietos!",
         "es-ES": "[Humano sometido a trabajos forzados]\n¡De verdad! ¡Mientras todos los demás escapaban, nosotros nos quedamos aquí sin hacer nada!"
     },
     "DoAMDg": {
         "en-US": "So please, don't punish us...",
         "pt-BR": "Então, por favor, não nos castiguem...",
-        "es-ES": "Así que, por favor, no nos castiguen..."
+        "es-ES": "Por favor, no nos castiguen..."
     },
     "D4AMDg": {
         "en-US": "[Lehar]\nDon't worry. We didn't come here to hurt you.",
-        "pt-BR": "[Lehar]\nNão viemos machucar vocês, então fiquem tranquilos.",
-        "es-ES": "[Lehar]\nNo vinimos a hacerles daño, así que tranquilos."
+        "pt-BR": "[Lehar]\nNão viemos machucar vocês, fiquem tranquilos.",
+        "es-ES": "[Lehar]\nNo vinimos a hacerles daño, tranquilos."
     },
     "EIAMDg": {
         "en-US": "[Human Doing Forced Labor]\nWait? I know that face. Weren't you working here with us before...?",
-        "pt-BR": "[Humano em trabalho forçado]\nEspere? Eu conheço esse rosto... você trabalhava aqui comigo antes...?",
-        "es-ES": "[Humano sometido a trabajos forzados]\nEspera... conozco esa cara. ¿No trabajabas aquí conmigo antes...?"
+        "pt-BR": "[Humano Escravizado]\nEspere? Eu conheço esse rosto... você trabalhava aqui comigo antes...?",
+        "es-ES": "[Humano sometido a trabajos forzados]\nEspera... conozco esa cara. ¿No trabajabas aquí antes...?"
     },
     "EYAMDg": {
         "en-US": "[Lehar]\nYes, that Rgan was me. Do you recognize me now?",
         "pt-BR": "[Lehar]\nSim, aquele Rgan era eu. Agora se lembra?",
-        "es-ES": "[Lehar]\nSí, ese Rgan soy yo. ¿Ahora me reconoce?"
+        "es-ES": "[Lehar]\nSí, ese Rgan soy yo. ¿Ya me reconoces?"
     },
     "EoAMDg": {
         "en-US": "[Human Doing Forced Labor]\nWhere did the Rgans guarding the entrance go?",
-        "pt-BR": "[Humano em trabalho forçado]\nPara onde foram os Rgan que guardavam a entrada?",
+        "pt-BR": "[Humano Escravizado]\nPara onde foram os Rgan que guardavam a entrada?",
         "es-ES": "[Humano sometido a trabajos forzados]\n¿Adónde fueron los Rgan que vigilaban la entrada?"
     },
     "E4AMDg": {
         "en-US": "[Leizi]\nThat's what we'd like to ask you.",
-        "pt-BR": "[Nalandro]\nIsso é justamente o que eu gostaria de perguntar.",
-        "es-ES": "[Lazy]\nEso es justamente lo que queremos saber nosotros."
+        "pt-BR": "[Nalandro]\nIsso é justamente o que eu gostaria de saber.",
+        "es-ES": "[Lazy]\nEso es justamente lo que queremos saber."
     },
     "FIAMDg": {
         "en-US": "[Human Doing Forced Labor]\nWell, the entrance suddenly got noisy, and then they all went off somewhere.",
-        "pt-BR": "[Humano em trabalho forçado]\nBem, de repente começou uma confusão na entrada e todos foram para algum lugar.",
-        "es-ES": "[Humano sometido a trabajos forzados]\nPues... de repente hubo un alboroto en la entrada y todos se fueron a algún lado."
+        "pt-BR": "[Humano Escravizado]\nBem, de repente começou uma confusão na entrada e todos foram para algum lugar.",
+        "es-ES": "[Humano sometido a trabajos forzados]\nPues... de repente hubo un alboroto en la entrada y todos se fueron."
     },
     "FYAMDg": {
         "en-US": "[Human Doing Forced Labor]\nDo you think they'll come back?",
-        "pt-BR": "[Humano em trabalho forçado]\nSerá que vão voltar?",
+        "pt-BR": "[Humano Escravizado]\nSerá que vão voltar?",
         "es-ES": "[Humano sometido a trabajos forzados]\n¿Volverán?"
     },
     "FoAMDg": {
         "en-US": "[Leizi]\nI don't know if they'll come back, but it won't be anytime soon.",
-        "pt-BR": "[Nalandro]\nNão sei se vão voltar, mas não será agora.",
-        "es-ES": "[Lazy]\nNo sé si volverán, pero por ahora no lo harán."
+        "pt-BR": "[Nalandro]\nNão sei se vão, mas certamente não será agora.",
+        "es-ES": "[Lazy]\nNo sé si volverán, pero por ahora no."
     },
     "F4AMDg": {
         "en-US": "[Miriam]\nWhy are you still here? The ones guarding you are gone.",
@@ -1241,18 +1241,18 @@
     },
     "GIAMDg": {
         "en-US": "[Human Doing Forced Labor]\nWell, we don't know when they might come back...",
-        "pt-BR": "[Humano em trabalho forçado]\nAh, é que não sabemos quando eles podem voltar...",
+        "pt-BR": "[Humano Escravizado]\nAh, é que não sabemos quando eles podem voltar...",
         "es-ES": "[Humano sometido a trabajos forzados]\nAh, es que no sabemos cuándo volverán..."
     },
     "GYAMDg": {
         "en-US": "[Human Doing Forced Labor]\nIf we try to run and get caught, we'll be in serious trouble. How could we just leave?",
-        "pt-BR": "[Humano em trabalho forçado]\nSe formos pegos tentando fugir, vamos sofrer muito. Como poderíamos sair daqui assim sem mais nem menos?",
-        "es-ES": "[Humano sometido a trabajos forzados]\nSi intentamos escapar y nos atrapan, nos irá muy mal. ¿Cómo vamos a movernos así como así?"
+        "pt-BR": "[Humano Escravizado]\nSe formos pegos tentando fugir, vamos sofrer muito. Como poderíamos sair daqui assim, sem mais nem menos?",
+        "es-ES": "[Humano sometido a trabajos forzados]\nSi intentamos escapar y nos atrapan, nos irá muy mal. ¿Cómo vamos a irnos así como así?"
     },
     "GoAMDg": {
         "en-US": "[Human Doing Forced Labor]\nAnd there are terrifying Rgans roaming around outside. So it's better to just wait here.",
-        "pt-BR": "[Humano em trabalho forçado]\nE lá fora há Rgan assustadores andando por toda parte. Então é melhor simplesmente esperar aqui.",
-        "es-ES": "[Humano sometido a trabajos forzados]\nAdemás, afuera andan esos Rgan tan aterradores. Por eso es mejor esperar aquí."
+        "pt-BR": "[Humano Escravizado]\nE lá fora há Rgan assustadores por toda parte. Então é melhor simplesmente esperar aqui.",
+        "es-ES": "[Humano sometido a trabajos forzados]\nAdemás, afuera andan los Rgan. Por eso es mejor esperar aquí."
     },
     "G4AMDg": {
         "en-US": "[Miriam]\nI'll escort you to the entrance.",
@@ -1262,31 +1262,31 @@
     "HIAMDg": {
         "en-US": "[Leizi]\nEveryone, did you hear that? Just follow this person. You'll be safe.",
         "pt-BR": "[Nalandro]\nPessoal, ouviram bem? É só seguir esta pessoa. Assim estarão seguros.",
-        "es-ES": "[Lazy]\nSeñores, ¿escucharon bien? Solo tienen que seguirla. Así estarán a salvo."
+        "es-ES": "[Lazy]\n¿Escucharon? Síganla. Estarán a salvo."
     },
     "HYAMDg": {
         "en-US": "[Human Doing Forced Labor]\nBut why would a Rgan save us?",
-        "pt-BR": "[Humano em trabalho forçado]\nMas por que um Rgan está nos salvando?",
-        "es-ES": "[Humano sometido a trabajos forzados]\nPero ¿por qué un Rgan nos ayudaría?"
+        "pt-BR": "[Humano Escravizado]\nMas por que um Rgan está nos salvando?",
+        "es-ES": "[Humano sometido a trabajos forzados]\n¿Por qué un Rgan nos ayudaría?"
     },
     "HoAMDg": {
         "en-US": "[Lehar]\nOh, that! Actually, we're humans just like you. So don't worry.",
         "pt-BR": "[Lehar]\nAh, isso! Na verdade, nós também somos humanos como vocês. Então fiquem tranquilos.",
-        "es-ES": "[Lehar]\n¡Ah, eso! La verdad es que nosotros también somos humanos como ustedes. Así que tranquilos."
+        "es-ES": "[Lehar]\nLa verdad es que nosotros también somos humanos como ustedes. Tranquilos."
     },
     "H4AMDg": {
         "en-US": "Here, look.",
         "pt-BR": "Vejam.",
-        "es-ES": "Bien, miren."
+        "es-ES": "Miren."
     },
     "IIAMDg": {
         "en-US": "[Human Doing Forced Labor]\nHuh?? You really are!",
-        "pt-BR": "[Humano em trabalho forçado]\nHã?? É verdade?",
-        "es-ES": "[Humano sometido a trabajos forzados]\n¿¿Eh?? ¿De verdad?"
+        "pt-BR": "[Humano Escravizado]\nHã?? É verdade!",
+        "es-ES": "[Humano sometido a trabajos forzados]\n¿De verdad?"
     },
     "IYAMDg": {
         "en-US": "Was a human pretending to be a Rgan? Or was a Rgan pretending to be human?",
-        "pt-BR": "Foi um humano fingindo ser Rgan? Ou foi um Rgan fingindo ser humano?",
+        "pt-BR": "Um humano fingindo ser Rgan? Ou foi um Rgan fingindo ser humano?",
         "es-ES": "¿Un humano se hizo pasar por Rgan? ¿O un Rgan se hizo pasar por humano?"
     },
     "IoAMDg": {
@@ -1297,32 +1297,32 @@
     "I4AMDg": {
         "en-US": "[Lehar]\nDo you feel better now? There are reasons we're like this, but there's no time to explain. For now, follow this person and listen along the way.",
         "pt-BR": "[Lehar]\nAgora vocês estão mais tranquilos? Estamos assim por vários motivos, mas não há tempo para explicar. Por enquanto, sigam esta pessoa e ouçam a explicação no caminho.",
-        "es-ES": "[Lehar]\n¿Ahora se sienten más tranquilos? Hay varias razones por las que estamos así, pero no tenemos tiempo para explicarlas. Por ahora, síganla y escuchen lo que tenga que decirles."
+        "es-ES": "[Lehar]\n¿Ya se sienten más tranquilos? Hay varias razones por las que estamos así, pero no tenemos tiempo para explicar.\nSíganla y escuchen lo que les diga."
     },
     "JIAMDg": {
         "en-US": "[Human Doing Forced Labor]\nWe really can leave, right?",
-        "pt-BR": "[Humano em trabalho forçado]\nPodemos mesmo ir?",
+        "pt-BR": "[Humano Escravizado]\nPodemos mesmo ir?",
         "es-ES": "[Humano sometido a trabajos forzados]\n¿De verdad podemos irnos?"
     },
     "JYAMDg": {
         "en-US": "Of course~",
-        "pt-BR": "Claro~",
-        "es-ES": "¡Claro que sí!~"
+        "pt-BR": "Claro.",
+        "es-ES": "¡Claro que sí!"
     },
     "JoAMDg": {
         "en-US": "Really, really??",
         "pt-BR": "É verdade mesmo, mesmo??",
-        "es-ES": "¿¿De verdad, de verdad??"
+        "es-ES": "¿En serio? ¿De verdad?"
     },
     "J4AMDg": {
         "en-US": "[Human Doing Forced Labor]\nOh, thank you, thank you.",
-        "pt-BR": "[Humano em trabalho forçado]\nAi, muito obrigado, muito obrigado.",
+        "pt-BR": "[Humano Escravizado]\nOh, muito obrigado, muito obrigado.",
         "es-ES": "[Humano sometido a trabajos forzados]\nAy, muchas gracias, muchas gracias."
     },
     "KIAMDg": {
         "en-US": "I'm telling you, it's true. Have you spent your whole life being tricked?",
         "pt-BR": "Eu já disse que é verdade. Vocês passaram a vida inteira sendo enganados?",
-        "es-ES": "Les digo que es verdad. ¿Acaso siempre los han estado engañando?"
+        "es-ES": "Les digo que es verdad. ¿Los engañan mucho?"
     },
     "KYAMDg": {
         "en-US": "How did you know?",
@@ -1331,28 +1331,28 @@
     },
     "KoAMDg": {
         "en-US": "[Leizi]\nI'll go meet Rasgand, so the rest of you finish looking around here.",
-        "pt-BR": "[Nalandro]\nEu vou encontrar Rasgand, então vocês continuem verificando este lugar.",
-        "es-ES": "[Lazy]\nYo iré a ver a Rasgand. Ustedes sigan revisando este lugar."
+        "pt-BR": "[Nalandro]\nEu vou encontrar Ragand, continuem verificando este lugar.",
+        "es-ES": "[Lazy]\nYo iré a ver a Ragand. Ustedes sigan revisando este lugar."
     },
     "K4AMDg": {
         "en-US": "[Miriam]\nThen I'll escort these people out and join you right away. Shall we go?",
         "pt-BR": "[Miriam]\nEntão vou acompanhar estas pessoas para fora e volto para me juntar a vocês. Vamos?",
-        "es-ES": "[Miriam]\nEntonces yo acompañaré a estas personas y me reuniré con ustedes enseguida. Bien, ¿nos vamos?"
+        "es-ES": "[Miriam]\nEntonces yo acompañaré a estas personas y me reuniré con ustedes enseguida. ¿Nos vamos?"
     },
     "LIAMDg": {
         "en-US": "Oh my~ We really can leave...?",
-        "pt-BR": "Ai~ Será que podemos mesmo sair...?",
-        "es-ES": "Ay~ ¿De verdad podemos salir...?"
+        "pt-BR": "Ai... Será que podemos mesmo sair...?",
+        "es-ES": "Ay, ¿de verdad nos podemos ir?"
     },
     "LYAMDg": {
         "en-US": "Let's go for now and think about it on the way.",
         "pt-BR": "Vamos pensando nisso enquanto seguimos.",
-        "es-ES": "Primero vayamos. Ya pensaremos en eso por el camino."
+        "es-ES": "Hay que irnos. Ya pensaremos en eso por el camino."
     },
     "LoAMDg": {
         "en-US": "Intermediate Rgan",
-        "pt-BR": "Regan Intermediário",
-        "es-ES": "Regan intermedio"
+        "pt-BR": "Rgan Intermediário",
+        "es-ES": "Rgan Intermedio"
     },
     "L4AMDg": {
         "en-US": "[Rgan]\nFilthy human...",
@@ -1360,54 +1360,54 @@
         "es-ES": "[Rgan]\nHumano asqueroso..."
     },
     "MIAMDg": {
-        "en-US": "[Iwin]\nSay something that actually makes sense!",
-        "pt-BR": "[Arwin]\nFale alguma coisa que faça sentido!",
-        "es-ES": "[Awin]\n¡Habla de una vez para que se te entienda!"
+        "en-US": "[Windcy]\nSay something that actually makes sense!",
+        "pt-BR": "[Nevento]\nFale alguma coisa que faça sentido!",
+        "es-ES": "[Neviento]\n¡Habla de una vez para que te entienda!"
     },
     "MYAMDg": {
         "en-US": "[Intermediate Rgan]\nHave to work.",
-        "pt-BR": "[Regan Intermediário]\nTemos que trabalhar.",
-        "es-ES": "[Regan intermedio]\nHay que trabajar."
+        "pt-BR": "[Rgan Intermediário]\nTemos que trabalhar.",
+        "es-ES": "[Rgan Intermedio]\nHay que trabajar."
     },
     "MoAMDg": {
         "en-US": "[Horuru]\nWhere did everyone go? The high-grade Rgans.",
-        "pt-BR": "[Horur]\nPara onde todos foram? Estou falando dos Rgan superiores.",
-        "es-ES": "[Horuru]\n¿Adónde se fueron todos? Me refiero a los Rgan de rango superior."
+        "pt-BR": "[Horuru]\nPara onde todos foram? Estou falando dos Rgan superiores.",
+        "es-ES": "[Horuru]\n¿Adónde se fueron todos los Rgan Superiores?"
     },
     "M4AMDg": {
         "en-US": "[Intermediate Rgan]\nYou have to work too.",
-        "pt-BR": "[Regan Intermediário]\nVocês também têm que trabalhar.",
-        "es-ES": "[Regan intermedio]\nUstedes también tienen que trabajar."
+        "pt-BR": "[Rgan Intermediário]\nVocês também têm que trabalhar.",
+        "es-ES": "[Rgan Intermedio]\nUstedes también tienen que trabajar."
     },
     "NIAMDg": {
-        "en-US": "[Iwin]\nThis is so frustrating. Priests, bishops! Where did everyone go?",
-        "pt-BR": "[Arwin]\nAh, isso é frustrante. Sacerdotes, bispos! Para onde todos foram?",
-        "es-ES": "[Awin]\nAy, qué frustrante. ¡Sacerdotes, obispos! ¿Adónde se fueron todos?"
+        "en-US": "[Windcy]\nThis is so frustrating. Priests, bishops! Where did everyone go?",
+        "pt-BR": "[Nevento]\nAh, isso é frustrante. Sacerdotes, Bispos! Para onde todos foram?",
+        "es-ES": "[Neviento]\nAy, qué frustrante. ¿A dónde se fueron todos los sacerdotes y obispos?"
     },
     "NYAMDg": {
         "en-US": "[Intermediate Rgan]\nWe have to work.",
-        "pt-BR": "[Regan Intermediário]\nNós temos que trabalhar.",
-        "es-ES": "[Regan intermedio]\nTenemos que trabajar."
+        "pt-BR": "[Rgan Intermediário]\nNós temos que trabalhar.",
+        "es-ES": "[Rgan Intermedio]\nTenemos que trabajar."
     },
     "NoAMDg": {
-        "en-US": "[Iwin]\nFine, we'll work, so just tell me this. What did everyone hear, and where did they go?",
-        "pt-BR": "[Arwin]\nCerto, vamos trabalhar, então só me diga isso. O que todos ouviram e para onde foram?",
-        "es-ES": "[Awin]\nSí, voy a trabajar, así que solo dime eso. ¿Qué escucharon todos y adónde se fueron?"
+        "en-US": "[Windcy]\nFine, we'll work, so just tell me this. What did everyone hear, and where did they go?",
+        "pt-BR": "[Nevento]\nCerto, vamos trabalhar, então só me diga isso. O que todos ouviram e para onde foram?",
+        "es-ES": "[Neviento]\nSí, voy a trabajar, solo responde la pregunta. ¿Qué fue lo que pasó y a dónde se fueron?"
     },
     "N4AMDg": {
         "en-US": "[Intermediate Rgan]\nCan't play. Have to work.",
-        "pt-BR": "[Regan Intermediário]\nNão pode ficar à toa. Tem que trabalhar.",
-        "es-ES": "[Regan intermedio]\nNo hay que holgazanear. Hay que trabajar."
+        "pt-BR": "[Rgan Intermediário]\nNão pode ficar à toa. Tem que trabalhar.",
+        "es-ES": "[Rgan Intermedio]\nNo hay que holgazanear. Hay que trabajar."
     },
     "OIAMDg": {
         "en-US": "[Horuru]\nUnbelievable. Absolutely unbelievable.",
-        "pt-BR": "[Horur]\nÉ inacreditável, inacreditável mesmo.",
-        "es-ES": "[Horuru]\nQué obsesión, de verdad."
+        "pt-BR": "[Horuru]\nÉ inacreditável, inacreditável mesmo.",
+        "es-ES": "[Horuru]\nAy, qué obsesión."
     },
     "OYAMDg": {
         "en-US": "They're literally workaholics. Workaholics.",
-        "pt-BR": "São literalmente viciados em trabalho, viciados em trabalho.",
-        "es-ES": "Son literalmente unos adictos al trabajo."
+        "pt-BR": "São literalmente viciados em trabalho. Viciados.",
+        "es-ES": "Literalmente son adictos al trabajo."
     },
     "OoAMDg": {
         "en-US": "There you are.",
@@ -1416,28 +1416,28 @@
     },
     "O4AMDg": {
         "en-US": "[Horuru]\nDid you find anything? We searched every inch up to here, but there isn't a single high-grade or higher Rgan left in this area.",
-        "pt-BR": "[Horur]\nConseguiram descobrir alguma coisa? Vasculhei tudo até aqui, mas não há nenhum Rgan de nível superior ou acima neste lugar.",
-        "es-ES": "[Horuru]\n¿Encontraron algo? Revisamos todo hasta aquí, pero no queda ni un solo Rgan de rango superior o mayor."
+        "pt-BR": "[Horuru]\nConseguiram descobrir alguma coisa? Vasculhei tudo até aqui, mas não há nenhum Rgan de nível superior ou acima neste lugar.",
+        "es-ES": "[Horuru]\n¿Encontraron algo? Revisamos todo, pero no queda ni un solo Rgan de rango superior o mayor."
     },
     "PIAMDg": {
         "en-US": "[Horuru]\nThe only ones left are mid-grade or lower Rgans, but even the Intermediate Rgan that can speak don't make any sense at all.",
-        "pt-BR": "[Horur]\nSó restaram Rgan de nível intermediário ou inferior, mas nem mesmo dá para conversar direito com os Regan Intermediário, que ao menos conseguem falar.",
-        "es-ES": "[Horuru]\nSolo quedan Rgan de rango intermedio o inferior, pero ni siquiera podemos entendernos con los Regan intermedio, que al menos son capaces de hablar."
+        "pt-BR": "[Horuru]\nSó restaram Rgan de nível intermediário ou inferior, mas nem dá para conversar direito com os Rgan Intermediário.",
+        "es-ES": "[Horuru]\nSolo quedan Rgan de rango intermedio o inferior, pero no podemos entendernos ni con los que apenas pueden hablar."
     },
     "PYAMDg": {
         "en-US": "[Intermediate Rgan]\nNoble... noble one...",
-        "pt-BR": "[Regan Intermediário]\nNobre... nobre senhor...",
-        "es-ES": "[Regan intermedio]\nNoble... noble señor..."
+        "pt-BR": "[Rgan Intermediário]\nNobre... nobre senhor...",
+        "es-ES": "[Rgan Intermedio]\nNoble... noble señor..."
     },
     "PoAMDg": {
-        "en-US": "[Iwin]\nOh, now it's saying something other than work!!!",
-        "pt-BR": "[Arwin]\nEi, agora ele está falando de outra coisa além de trabalho!!!",
-        "es-ES": "[Awin]\n¡Ah, ahora está diciendo algo que no es sobre trabajar!!!"
+        "en-US": "[Windcy]\nOh, now it's saying something other than work!!!",
+        "pt-BR": "[Nevento]\nEi, agora ele está falando de outra coisa além de trabalho!!!",
+        "es-ES": "[Neviento]\n¡Ah, ahora está diciendo algo que no es sobre trabajar!"
     },
     "P4AMDg": {
         "en-US": "[Horuru]\nHah! Adventurer, why don't you try coaxing it? Whenever we talk to it, all it does is talk about work.",
-        "pt-BR": "[Horur]\nOra! Aventureiro, será que você consegue convencê-lo? Quando falamos com ele, só fala de trabalho.",
-        "es-ES": "[Horuru]\n¡Ja! ¿Podrías intentar sacarle algo, aventurero? Cuando nosotros le hablamos, solo dice cosas sobre trabajar."
+        "pt-BR": "[Horuru]\nOra! Viajante, será que você consegue convencê-lo? Quando falamos com ele, só fala de trabalho.",
+        "es-ES": "[Horuru]\n¡Ja! ¿Podrías intentar sacarle algo? Cuando nosotros le hablamos, solo dice cosas sobre trabajar."
     },
     "QIAMDg": {
         "en-US": "Where did the priests and bishops go?",
@@ -1446,8 +1446,8 @@
     },
     "QYAMDg": {
         "en-US": "[Intermediate Rgan]\nNoble... ones... all gather... not us...",
-        "pt-BR": "[Regan Intermediário]\nNobres... senhores... todos reunidos... menos nós...",
-        "es-ES": "[Regan intermedio]\nNobles... señores... todos reunidos... nosotros no..."
+        "pt-BR": "[Rgan Intermediário]\nNobres... senhores... todos reunidos... menos nós...",
+        "es-ES": "[Rgan Intermedio]\nNobles... señores... todos reunidos... nosotros no..."
     },
     "QoAMDg": {
         "en-US": "Gather?",
@@ -1456,27 +1456,27 @@
     },
     "Q4AMDg": {
         "en-US": "[Intermediate Rgan]\nCult... leader... order...",
-        "pt-BR": "[Regan Intermediário]\nLí... der... ordem...",
-        "es-ES": "[Regan intermedio]\nLí... der... orden..."
+        "pt-BR": "[Rgan Intermediário]\nLí... der... ordem...",
+        "es-ES": "[Rgan Intermedio]\nCulto... líder... orden..."
     },
     "RIAMDg": {
         "en-US": "[{0}]\nSo the high-grade and higher ones were ordered by Rasgand to gather in one place, right? Where is it?",
-        "pt-BR": "[{0}]\nEntão os de nível superior ou acima receberam uma ordem de Rasgand para se reunirem em um só lugar, certo? Onde fica esse lugar?",
-        "es-ES": "[{0}]\nEntonces, por orden de Rasgand, todos los de rango superior o mayor debían reunirse en un mismo lugar, ¿verdad? ¿Dónde es?"
+        "pt-BR": "[{0}]\nEntão os de nível superior ou acima receberam uma ordem de Ragand para se reunirem em um só lugar, certo? Onde fica esse lugar?",
+        "es-ES": "[{0}]\nEntonces, por orden de Ragand, todos los de rango superior o mayor debían reunirse en un mismo lugar, ¿verdad? ¿En dónde?"
     },
     "RYAMDg": {
         "en-US": "You actually understood that!",
         "pt-BR": "Você conseguiu entender isso!",
-        "es-ES": "¡¿Entendió eso?!"
+        "es-ES": "¿Entendiste eso?"
     },
     "RoAMDg": {
         "en-US": "[Intermediate Rgan]\nYes, yes... upper area... so hurry... noble one, must go... quickly...",
-        "pt-BR": "[Regan Intermediário]\nSim, sim... mais acima... então depressa... nobre senhor, precisa ir rápido...",
-        "es-ES": "[Regan intermedio]\nSí, sí... arriba... así que rápido... noble señor, debe ir... rápido..."
+        "pt-BR": "[Rgan Intermediário]\nSim, sim... mais acima... então depressa... nobre senhor, precisa ir rápido...",
+        "es-ES": "[Rgan Intermedio]\nSí, sí... arriba... rápido... noble señor... ir debe..."
     },
     "R4AMDg": {
         "en-US": "[Horuru]\nIf it's the upper area, that must mean the high-grade sector. Only two of you follow me. One stays behind and continues rescuing the escapees.",
-        "pt-BR": "[Horur]\nSe é mais acima, deve ser a área superior. Dois de vocês venham comigo, e um fica para continuar resgatando os que estiverem fugindo.",
+        "pt-BR": "[Horuru]\nSe é mais acima, deve ser a área superior. Dois de vocês venham comigo, e um fica para continuar resgatando os fugitivos.",
         "es-ES": "[Horuru]\nSi dice arriba, debe referirse a la zona superior. Solo dos síganme, y uno se quedará para seguir rescatando a los fugitivos."
     },
     "SIAMDg": {
@@ -1487,7 +1487,7 @@
     "SYAMDg": {
         "en-US": "[Rgan]\nHigh-grade area... hurry...... noble ones too... must go... quickly......",
         "pt-BR": "[Rgan]\nÁrea superior... depressa...... os nobres senhores também.. precisam ir, rápido......",
-        "es-ES": "[Rgan]\nZona superior... rápido...... nobles señores también... rápido, deben ir......"
+        "es-ES": "[Rgan]\nZona superior... rápido... nobles señores también... rápido, deben ir..."
     },
     "SoAMDg": {
         "en-US": "[Rgan]\nWhere do I...",
@@ -1497,7 +1497,7 @@
     "S4AMDg": {
         "en-US": "[Lehar]\nYou came at just the right time!!!",
         "pt-BR": "[Lehar]\nChegou em boa hora!!!",
-        "es-ES": "[Lehar]\n¡¡¡Llegó justo a tiempo!!!"
+        "es-ES": "[Lehar]\n¡Llegaste justo a tiempo!"
     },
     "TIAMDg": {
         "en-US": "Is something wrong?",
@@ -1512,12 +1512,12 @@
     "ToAMDg": {
         "en-US": "[Leizi]\nThings have gotten pretty nasty around here.",
         "pt-BR": "[Nalandro]\nA situação aqui ficou bem complicada.",
-        "es-ES": "[Lazy]\nLa situación aquí se ha puesto bastante fea."
+        "es-ES": "[Lazy]\nLa situación aquí se puso bastante fea."
     },
     "T4AMDg": {
         "en-US": "[Rgan]\nPlease.. don't hurt me.. I beg you...",
-        "pt-BR": "[Rgan]\nNão me machuque.. por favor...",
-        "es-ES": "[Rgan]\nNo me... hagan daño... por favor..."
+        "pt-BR": "[Rgan]\nNão me machuque... por favor...",
+        "es-ES": "[Rgan]\nDaño... no... no hacerme..."
     },
     "UIAMDg": {
         "en-US": "[Leizi]\nSee?",
@@ -1537,12 +1537,12 @@
     "U4AMDg": {
         "en-US": "[Leizi]\nExactly, right? That's what I heard too.\nSo I was on my way to join that gathering myself, but then I found this blocking the way.",
         "pt-BR": "[Nalandro]\nPois é, não é? Eu também ouvi isso.\nEntão eu estava indo para participar dessa reunião, mas veja só, isto está bloqueando o caminho.",
-        "es-ES": "[Lazy]\nEso mismo digo. Yo también escuché eso.\nPor eso iba de camino para unirme a esa reunión, pero resulta que esto está bloqueando el paso."
+        "es-ES": "[Lazy]\nEso mismo digo. Yo también escuché eso.\nPor eso iba de camino para ir a esa reunión, pero resulta que esto está bloqueando el paso."
     },
     "VIAMDg": {
         "en-US": "[Lehar]\nWell, these Rgans were cleaning up the high-grade area after the high-grade Rgans left in a hurry, when apparently some high-grade Rgans suddenly attacked them out of nowhere.",
         "pt-BR": "[Lehar]\nÉ o seguinte. Estes Rgan estavam arrumando a área superior depois que os Rgan superiores saíram às pressas, mas parece que, de repente, alguns Rgan superiores surgiram de algum lugar e os atacaram.",
-        "es-ES": "[Lehar]\nPues verá. Estos Rgan estaban ordenando la zona superior después de que los Rgan de rango superior se marcharan apresuradamente, pero al parecer, de repente, unos Rgan de rango superior aparecieron de la nada y los atacaron."
+        "es-ES": "[Lehar]\nEstos Rgan estaban ordenando la zona superior después de que los Rgan Superiores se marcharan apresuradamente, pero al parecer, de repente, unos Rgan Superiores aparecieron de la nada y los atacaron."
     },
     "VYAMDg": {
         "en-US": "[Aurelie]\nWhat? Suddenly?",
@@ -1551,8 +1551,8 @@
     },
     "VoAMDg": {
         "en-US": "[Lehar]\nFrom what they said, they weren't acting like normal Superior Rgan.",
-        "pt-BR": "[Lehar]\nPelo que disseram, eles não pareciam Regan Superior normais.",
-        "es-ES": "[Lehar]\nPor lo que cuentan, no parecían los Regan superior de siempre."
+        "pt-BR": "[Lehar]\nPelo que disseram, eles não pareciam Rgan Superiores normais.",
+        "es-ES": "[Lehar]\nPor lo que cuentan, no parecían los Rgan Superiores de siempre."
     },
     "V4AMDg": {
         "en-US": "That sounds awfully familiar.",
@@ -1567,12 +1567,12 @@
     "WYAMDg": {
         "en-US": "[Lehar]\nSo they blocked the entrance to keep the high-grade Rgans from coming and going.",
         "pt-BR": "[Lehar]\nEntão bloquearam a entrada para impedir que os Rgan superiores entrassem ou saíssem.",
-        "es-ES": "[Lehar]\nPor eso bloquearon la entrada para impedir que los Rgan de rango superior entraran o salieran."
+        "es-ES": "[Lehar]\nPor eso bloquearon la entrada, para impedir que los Rgan de rango superior entraran o salieran."
     },
     "WoAMDg": {
         "en-US": "[Aurelie]\nThen are Bagot, Rasgand, and that group of high-grade Rgans all on the other side?",
-        "pt-BR": "[Aurelie]\nEntão Bagot, Rasgand e um grupo de Rgan superiores estão todos do outro lado?",
-        "es-ES": "[Aurelie]\nEntonces, ¿Bagot, Rasgand y el grupo de Rgan de rango superior están todos al otro lado?"
+        "pt-BR": "[Aurelie]\nEntão Bagot, Ragand e um grupo de Rgan superiores estão todos do outro lado?",
+        "es-ES": "[Aurelie]\nEntonces, ¿Bagot, Ragand y el grupo de Rgan de rango superior están todos al otro lado?"
     },
     "W4AMDg": {
         "en-US": "[Lehar]\nFor now, it seems that way. First, we'll have to break through this before we can do anything.",
@@ -1587,7 +1587,7 @@
     "XYAMDg": {
         "en-US": "[Leizi]\nProbably something we can't talk about in front of the young niece?",
         "pt-BR": "[Nalandro]\nProvavelmente algo que não dá para dizer na frente da jovem sobrinha?",
-        "es-ES": "[Lazy]\nTal vez algo de lo que no se puede hablar delante de una sobrina tan joven."
+        "es-ES": "[Lazy]\nTal vez algo de lo que no se puede hablar de alguien tan joven."
     },
     "XoAMDg": {
         "en-US": "[Aurelie]\nIf we use this to our advantage... we may be able to herd them all into one place and deal with them at once.",
@@ -1596,7 +1596,7 @@
     },
     "X4AMDg": {
         "en-US": "[Horuru]\nThat's why I called for reinforcements.",
-        "pt-BR": "[Horur]\nPor isso eu também pedi reforços.",
+        "pt-BR": "[Horuru]\nPor isso eu também pedi reforços.",
         "es-ES": "[Horuru]\nPor eso también pedí refuerzos."
     },
     "YIAMDg": {
@@ -1617,7 +1617,7 @@
     "Y4AMDg": {
         "en-US": "Advance team! We've arrived!",
         "pt-BR": "Vanguarda! Chegamos!",
-        "es-ES": "¡La avanzada ha llegado!"
+        "es-ES": "¡Llegó la avanzada!"
     },
     "ZIAMDg": {
         "en-US": "[Leizi]\nAll right, all right, line up. Here's a quick summary.",
@@ -1626,8 +1626,8 @@
     },
     "ZYAMDg": {
         "en-US": "[Leizi]\nRasgand, Bagot, and the high-grade and higher Rgans are said to have gathered beyond there under Rasgand's orders.\nEveryone following so far?",
-        "pt-BR": "[Nalandro]\nDizem que Rasgand, Bagot e os Rgan de nível superior ou acima estão reunidos do outro lado por ordem de Rasgand.\nTodo mundo entendeu até aqui, certo?",
-        "es-ES": "[Lazy]\nAl parecer, Rasgand, Bagot y los Rgan de rango superior o mayor están reunidos al otro lado por orden de Rasgand.\nHasta aquí todos entendieron, ¿verdad?"
+        "pt-BR": "[Nalandro]\nDizem que Ragand, Bagot e os Rgan de nível superior ou acima estão reunidos do outro lado por ordem de Ragand.\nTodo mundo entendeu até aqui, certo?",
+        "es-ES": "[Lazy]\nAl parecer, Ragand, Bagot y los Rgan de rango superior o mayor están reunidos al otro lado por orden de Ragand.\nHasta aquí todos entendieron, ¿verdad?"
     },
     "ZoAMDg": {
         "en-US": "[Leizi]\nNow, beyond this wall is the living area for the high-grade Rgans.",
@@ -1637,22 +1637,22 @@
     "Z4AMDg": {
         "en-US": "[Leizi]\nBut apparently, Illusion did something to the high-grade and higher Rgans, most likely some form of bodily modification, and then released them.",
         "pt-BR": "[Nalandro]\nPorém, a Ilusión fez alguma coisa com os Rgan de nível superior ou acima, provavelmente algum tipo de modificação corporal, e depois os soltou.",
-        "es-ES": "[Lazy]\nPero Illusion hizo algo con los Rgan de rango superior o mayor, probablemente algún tipo de modificación corporal, y luego los soltó."
+        "es-ES": "[Lazy]\nPero Ilusión hizo algo con los Rgan de rango superior o mayor, probablemente algún tipo de modificación corporal, y luego los soltó."
     },
     "aIAMDg": {
         "en-US": "[Voglinde]\nThey may be in a berserk state, but the control over them is probably not very precise.\nEither way, we have to defeat the Rgan beyond there before we can reach Rasgand, right?",
-        "pt-BR": "[Voglinde]\nDevem estar em estado de fúria, mas o controle não deve ser muito preciso.\nDe qualquer forma, precisamos derrotar os Rgan que estão do outro lado para conseguirmos encontrar Rasgand, certo?",
-        "es-ES": "[Voglinde]\nEstarán fuera de control, pero seguramente no los controlan con precisión.\nEn cualquier caso, tenemos que acabar con los Rgan que están al otro lado para poder encontrarnos con Rasgand, ¿no?"
+        "pt-BR": "[Voglinde]\nDevem estar furiosos, mas o controle não deve ser muito preciso.\nDe qualquer forma, precisamos derrotar os Rgan que estão do outro lado para conseguirmos encontrar Ragand, certo?",
+        "es-ES": "[Voglinde]\nEstarán fuera de control, seguro los controlarán.\nEn cualquier caso, tenemos que acabar con los Rgan que están al otro lado para poder encontrarnos con Ragand, ¿no?"
     },
     "aYAMDg": {
-        "en-US": "[Horuru]\nWe'll open a small section of the entrance, form teams, and enter one group at a time. Our Iwins will take the lead.",
-        "pt-BR": "[Horur]\nVamos abrir uma passagem pequena na entrada, formar grupos e entrar em sequência. Nós, Arwin, iremos na frente.",
-        "es-ES": "[Horuru]\nAbriremos una pequeña brecha en la entrada y entraremos por grupos, uno tras otro. Los Awin iremos al frente."
+        "en-US": "[Horuru]\nWe'll open a small section of the entrance, form teams, and enter one group at a time. Our Windcys will take the lead.",
+        "pt-BR": "[Horuru]\nVamos abrir uma passagem pequena na entrada, formar grupos e entrar em sequência. Nós, Nevento, iremos na frente.",
+        "es-ES": "[Horuru]\nAbriremos una pequeña brecha en la entrada y entraremos por grupos, uno tras otro. Los Neviento iremos al frente."
     },
     "aoAMDg": {
         "en-US": "[Lehar]\nAre you ready? All right, go in now.",
         "pt-BR": "[Lehar]\nEstão prontos? Certo, entrem agora.",
-        "es-ES": "[Lehar]\n¿Están listos? Bien, entren ahora."
+        "es-ES": "[Lehar]\n¿Listos? Bien, entren ahora."
     },
     "a4AMDg": {
         "en-US": "I'll see you inside.",
@@ -1672,12 +1672,12 @@
     "boAMDg": {
         "en-US": "Don't worry. I'll wait here with you.",
         "pt-BR": "Não se preocupe. Eu também vou ficar aqui esperando.",
-        "es-ES": "No se preocupe. Yo también me quedaré esperando."
+        "es-ES": "No te preocupes. También voy a esperar."
     },
     "b4AMDg": {
         "en-US": "[Leizi]\nAll right, Adventurer, you're next. Get ready.",
-        "pt-BR": "[Nalandro]\nCerto, agora é a vez do aventureiro. Fique pronto.",
-        "es-ES": "[Lazy]\nBien, ahora es el turno del aventurero. Prepárate."
+        "pt-BR": "[Nalandro]\nCerto, agora é a vez do Viajante. Fique pronto.",
+        "es-ES": "[Lazy]\nTrotamundos, es tu turno. Prepárate."
     },
     "cIAMDg": {
         "en-US": "Chaotic Snake's Nest",
@@ -1687,7 +1687,7 @@
     "cYAMDg": {
         "en-US": "[Lehar]\nAre you ready? If you are, I'll send a signal to check whether the people who entered have moved on.",
         "pt-BR": "[Lehar]\nEstá pronto? Se estiver, vou enviar um sinal para verificar se quem entrou já se deslocou.",
-        "es-ES": "[Lehar]\n¿Están listos? Si lo están, enviaré una señal para comprobar si quienes entraron ya se desplazaron."
+        "es-ES": "[Lehar]\n¿Listos? Si sí, enviaré una señal para comprobar si quienes entraron ya avanzaron."
     },
     "coAMDg": {
         "en-US": "Yes, send the signal.",
@@ -1701,7 +1701,7 @@
     },
     "dIAMDg": {
         "en-US": "I need more time to prepare.",
-        "pt-BR": "Preciso me preparar.",
+        "pt-BR": "Preciso de mais tempo para me preparar",
         "es-ES": "Necesito prepararme."
     },
     "dYAMDg": {
@@ -1712,7 +1712,7 @@
     "doAMDg": {
         "en-US": "[Lehar]\nAs soon as we get the signal that they've moved, I'll open the entrance for you. Please wait a moment.",
         "pt-BR": "[Lehar]\nAssim que recebermos o sinal de deslocamento, abrirei a entrada para você. Aguarde só um pouco.",
-        "es-ES": "[Lehar]\nEn cuanto llegue la señal de que se han desplazado, abriré la entrada. Espere un momento, por favor."
+        "es-ES": "[Lehar]\nEn cuanto llegue la señal de que se movieron, abriré la entrada. Espere un momento, por favor."
     },
     "d4AMDg": {
         "en-US": "[Lehar]\nSomething seems a little strange. We'll have to try again shortly.",
@@ -1722,12 +1722,12 @@
     "eIAMDg": {
         "en-US": "[Lehar]\nOnce you're ready, please tell me to send the signal. Otherwise, the operation inside could get thrown off.",
         "pt-BR": "[Lehar]\nQuando terminar de se preparar, peça para enviarem o sinal. Se não tomarmos cuidado, a operação lá dentro pode dar errado.",
-        "es-ES": "[Lehar]\nCuando termine de prepararse, dígame que envíe la señal. Si no, la operación de adentro podría complicarse."
+        "es-ES": "[Lehar]\nCuando termines de prepararte dime y mandaré la señal. Si no, la operación de adentro podría complicarse."
     },
     "eYAMDg": {
         "en-US": "[Lehar]\nForm a party of at least 1 person and come back. We need some way to identify who belongs with whom.",
         "pt-BR": "[Lehar]\nForme um grupo com pelo menos 1 pessoa e volte. Precisamos deixar alguma forma de identificação entre vocês.",
-        "es-ES": "[Lehar]\nForme un grupo de 1 o más integrantes y vuelva. Al menos debemos tener una forma de identificarnos entre nosotros."
+        "es-ES": "[Lehar]\nForma un grupo de 1 o más personas y regresa. Debemos de tener una forma de identificarnos."
     },
     "eoAMDg": {
         "en-US": "[Lehar]\nWe just got the signal that you can enter! You can go in now!",
@@ -1742,37 +1742,37 @@
     "fIAMDg": {
         "en-US": "[Lehar]\nAre you still not ready? I'll wait.",
         "pt-BR": "[Lehar]\nAinda não terminou de se preparar? Vou esperar.",
-        "es-ES": "[Lehar]\n¿Todavía no terminó de prepararse? Esperaré."
+        "es-ES": "[Lehar]\n¿Todavía no te preparaste? Esperaré."
     },
     "fYAMDg": {
         "en-US": "[Lehar]\nYou're not in a party. Join a party or form a party of at least 1 person and come back. We need some way to identify who belongs with whom.",
         "pt-BR": "[Lehar]\nVocê não está em nenhum grupo. Entre em um grupo ou forme um grupo com pelo menos 1 pessoa e volte. Precisamos deixar alguma forma de identificação entre vocês.",
-        "es-ES": "[Lehar]\nNo pertenece a ningún grupo. Únase a uno o forme un grupo de 1 o más integrantes y vuelva. Al menos debemos tener una forma de identificarnos entre nosotros."
+        "es-ES": "[Lehar]\nNo perteneces a ningún grupo. Únete a uno o forma un grupo de 1 o más integrantes y regresa. Debemos de tener una forma de identificarnos."
     },
     "foAMDg": {
         "en-US": "[Lehar]\nThe party leader has not created the dungeon yet. Please request dungeon creation.",
         "pt-BR": "[Lehar]\nO líder do grupo ainda não criou a masmorra. Solicite a criação da masmorra.",
-        "es-ES": "[Lehar]\nEl líder del grupo todavía no ha creado la mazmorra. Solicite la creación de la mazmorra."
+        "es-ES": "[Lehar]\nEl líder del grupo no ha creado la mazmorra.\nSolicita la creación de la mazmorra."
     },
     "f4AMDg": {
         "en-US": "[Leizi]\nI'll stay here and keep an eye on the situation a little longer. There's more I can do here than inside.",
         "pt-BR": "[Nalandro]\nVou continuar observando a situação por aqui. Posso fazer mais aqui do que lá dentro.",
-        "es-ES": "[Lazy]\nMe quedaré aquí para observar un poco más la situación. Puedo hacer más cosas aquí que ahí adentro."
+        "es-ES": "[Lazy]\nMe quedaré aquí para observar un poco más la situación. Puedo hacer más cosas aquí que adentro."
     },
     "gIAMDg": {
         "en-US": "[Horuru]\nI've been waiting for this day.",
-        "pt-BR": "[Horur]\nEsperei por este dia.",
-        "es-ES": "[Horuru]\nHe esperado este día durante mucho tiempo."
+        "pt-BR": "[Horuru]\nEsperei bastante por este dia.",
+        "es-ES": "[Horuru]\nEsperé esto desde hace mucho."
     },
     "gYAMDg": {
         "en-US": "[Miriam]\nThis time, I'll make sure we secure Illusion and the Heart of Ymir.",
         "pt-BR": "[Miriam]\nDesta vez, vou garantir que recuperemos a Ilusión e o Coração de Ymir.",
-        "es-ES": "[Miriam]\nEsta vez, definitivamente conseguiremos asegurar a Illusion y el Corazón de Ymir."
+        "es-ES": "[Miriam]\nEsta vez, definitivamente conseguiremos atrapar a Ilusión y al Corazón de Ymir."
     },
     "goAMDg": {
         "en-US": "[Aurelie]\nWhy? Is it strange that I came like this? I don't see any need to transform, especially now that all the Superior Rgan are gone.",
-        "pt-BR": "[Aurelie]\nO quê? É estranho eu ter vindo com esta aparência? Não vejo necessidade de me transformar. Ainda mais agora que todos os Regan Superior desapareceram.",
-        "es-ES": "[Aurelie]\n¿Qué? ¿Te parece raro que haya venido con este aspecto? No veo la necesidad de transformarme. Después de todo, ya desaparecieron todos los Regan superior."
+        "pt-BR": "[Aurelie]\nO quê? É estranho eu ter vindo com esta aparência? Não vejo necessidade de me transformar. Ainda mais agora que todos os Rgan Superior desapareceram.",
+        "es-ES": "[Aurelie]\n¿Qué? ¿Te parece raro que haya venido con así? No veo la necesidad de transformarme. Después de todo, ya desaparecieron todos los Rgan Superior."
     },
     "g4AMDg": {
         "en-US": "Leon",
@@ -1782,7 +1782,7 @@
     "hIAMDg": {
         "en-US": "[Leon]\nWhat on earth are they planning? If you have any idea why, tell me now.",
         "pt-BR": "[Leon]\nAfinal, o que será que estão tramando? Se tiver alguma ideia do motivo, fale logo.",
-        "es-ES": "[Leon]\n¿Qué estarán tramando? Si se te ocurre alguna razón, dímela de una vez."
+        "es-ES": "[Leon]\n¿Qué estarán tramando? Si se te ocurre algo, dímelo."
     },
     "hYAMDg": {
         "en-US": "Voglinde",
@@ -1792,17 +1792,17 @@
     "hoAMDg": {
         "en-US": "[Voglinde]\nWe can figure out the circumstances once we get inside by grabbing someone and asking. Are you ready?",
         "pt-BR": "[Voglinde]\nPodemos descobrir o que aconteceu entrando e agarrando alguém para perguntar. Está pronto?",
-        "es-ES": "[Voglinde]\nPrimero entremos y atrapemos a cualquiera para preguntarle qué está pasando. ¿Estás listo?"
+        "es-ES": "[Voglinde]\nPrimero entremos y atrapemos a alguien para preguntarle qué está pasando. ¿Todo listo?"
     },
     "h4AMDg": {
-        "en-US": "[Iwin]\nChaos! Destruction! Chaos! Nothing but destruction!!",
-        "pt-BR": "[Arwin]\nCaos! Destruição! Caos! Somente destruição!!",
-        "es-ES": "[Awin]\n¡Caos! ¡Destrucción! ¡Caos! ¡Solo destrucción!!"
+        "en-US": "[Windcy]\nChaos! Destruction! Chaos! Nothing but destruction!!",
+        "pt-BR": "[Nevento]\nCaos! Destruição! Caos! Nada além da destruição!!",
+        "es-ES": "[Neviento]\n¡Caos! ¡Destrucción! ¡Caos! ¡Solo destrucción!!"
     },
     "iIAMDg": {
-        "en-US": "[Iwin]\nI'm ready!!",
-        "pt-BR": "[Arwin]\nEstou pronto!!",
-        "es-ES": "[Awin]\n¡¡Estoy listo!!"
+        "en-US": "[Windcy]\nI'm ready!!",
+        "pt-BR": "[Nevento]\nEstou pronto!!",
+        "es-ES": "[Neviento]\n¡Estoy listo!"
     },
     "iYAMDg": {
         "en-US": "Rgan",
@@ -1812,7 +1812,7 @@
     "ioAMDg": {
         "en-US": "P-please don't hurt me...",
         "pt-BR": "N-não me machuque...",
-        "es-ES": "No, no me hagan daño..."
+        "es-ES": "N-no me lastimes."
     },
     "i4AMDg": {
         "en-US": "Why... are the guards gone? Is it shift change?",
@@ -1822,11 +1822,11 @@
     "jIAMDg": {
         "en-US": "They just changed shifts not long ago. Isn't this a trap? Maybe they want to punish us if we make a move?",
         "pt-BR": "Mas faz pouco tempo que trocaram o turno. Não é uma armadilha? Talvez queiram nos punir se tentarmos sair?",
-        "es-ES": "Acaban de cambiar de turno. ¿No será una trampa? ¿Querrán castigarnos si nos movemos?"
+        "es-ES": "Acaban de cambiar de turno. ¿Será una trampa? ¿Querrán castigarnos si nos movemos?"
     },
     "jYAMDg": {
         "en-US": "Why would they go through all that trouble for people like us?",
-        "pt-BR": "Por que se dariam a tanto trabalho por nossa causa?",
+        "pt-BR": "Por que fariam todo esse trabalho por nossa causa?",
         "es-ES": "¿Por qué se tomarían tantas molestias por gente como nosotros?"
     },
     "joAMDg": {
@@ -1837,7 +1837,7 @@
     "j4AMDg": {
         "en-US": "There are people here too! Everyone! Let's get out of here, quickly!",
         "pt-BR": "Tinha gente aqui também! Pessoal! Vamos sair daqui depressa!",
-        "es-ES": "¡También había gente aquí! ¡Todos, salgamos de aquí de una vez!"
+        "es-ES": "¡También había gente aquí! ¡Salgan de aquí!"
     },
     "kIAMDg": {
         "en-US": "W-what? Why?",
@@ -1847,52 +1847,52 @@
     "kYAMDg": {
         "en-US": "See!!! I told you it's a trap!",
         "pt-BR": "Está vendo!!! Eu disse que era uma armadilha!",
-        "es-ES": "¡¡¡¿Lo ves?!!! ¡Te dije que era una trampa!"
+        "es-ES": "¡¿Ves?! ¡Te dije que era una trampa!"
     },
     "koAMDg": {
         "en-US": "You're free now. Let's get out of here.",
         "pt-BR": "Vocês estão livres agora. Vamos sair daqui depressa.",
-        "es-ES": "Ahora son libres. Salgamos de aquí de una vez."
+        "es-ES": "Ahora son libres. Sálganse ahora."
     },
     "k4AMDg": {
         "en-US": "I don't know what's going on, but I'm getting out of here! Even if it is a trap!",
         "pt-BR": "Não sei o que está acontecendo, mas vou sair daqui! Mesmo que seja uma armadilha!",
-        "es-ES": "¡No entiendo qué está pasando, pero me voy de aquí! ¡Aunque sea una trampa!"
+        "es-ES": "¡No entiendo qué está pasando, pero me voy! ¡Aunque sea una trampa!"
     },
     "lIAMDg": {
         "en-US": "You need to go too. There's no time for this.",
         "pt-BR": "Você também precisa ir logo. Não temos tempo para isso.",
-        "es-ES": "Usted también debe irse ya. No tenemos tiempo para esto."
+        "es-ES": "Tú también. No tenemos tiempo para esto."
     },
     "lYAMDg": {
         "en-US": "Ah, to hell with it!! I'm going too!",
         "pt-BR": "Ah, quer saber? Eu também vou!!",
-        "es-ES": "¡¡Ya qué, yo también me voy!!"
+        "es-ES": "¡Bueno, yo también me voy!"
     },
     "loAMDg": {
         "en-US": "Ugh... Should I leave? Should I stay? Why did the guards have to disappear and make me second-guess myself...",
         "pt-BR": "Ai... saio ou não saio? Por que os guardas tinham que sumir e me deixar nessa dúvida...",
-        "es-ES": "Ugh... ¿salgo o no? ¿Por qué tuvo que desaparecer la vigilancia y hacerme dudar...?"
+        "es-ES": "¿Me voy o no? ¿Debería? ¿Por qué desapareció la vigilancia? Nada más me hacen dudar."
     },
     "l4AMDg": {
         "en-US": "Excuse me, are you here alone?",
-        "pt-BR": "Senhor, está sozinho?",
-        "es-ES": "Señor, ¿está solo?"
+        "pt-BR": "Com licença, você está sozinho?",
+        "es-ES": "Ahm... ¿Solo estás tú?"
     },
     "mIAMDg": {
         "en-US": "Aaagh!!! I-I wasn't thinking about leaving at all!",
         "pt-BR": "Aaah!!! E-eu não estava pensando em sair de jeito nenhum!",
-        "es-ES": "¡¡¡Aaaah!!! ¡Y-yo no estaba pensando en salir para nada!"
+        "es-ES": "¡Aaaah! ¡Juro que no estaba pensando en salirme!"
     },
     "mYAMDg": {
         "en-US": "You need to leave while the guards are gone. If there's no one else with you, let's go now.",
         "pt-BR": "É melhor sair enquanto não há guardas. Se não houver mais ninguém com você, vamos sair agora.",
-        "es-ES": "Debe salir mientras no haya vigilancia. Si no hay nadie más con usted, salgamos ahora."
+        "es-ES": "Debes irte mientras no haya vigilancia. Si no hay nadie más, salgamos ahora."
     },
     "moAMDg": {
         "en-US": "Why all of a sudden...?",
         "pt-BR": "Por que, de repente...?",
-        "es-ES": "¿Por qué de repente...?"
+        "es-ES": "¿Por qué?"
     },
     "m4AMDg": {
         "en-US": "We're rescuing the humans here. We can talk about the details once we're outside.",
@@ -1902,12 +1902,12 @@
     "nIAMDg": {
         "en-US": "Let's do that!!! I'm alone, so I can just leave like this!",
         "pt-BR": "Vamos então!!! Estou sozinho, então é só sair assim mesmo!",
-        "es-ES": "¡¡¡Hagámoslo!!! Estoy solo, así que podemos salir así mismo."
+        "es-ES": "¡Vámonos! Solo estoy yo, nos podemos ir."
     },
     "nYAMDg": {
         "en-US": "Do you think they're really gone?",
         "pt-BR": "Será que ele foi mesmo?",
-        "es-ES": "¿De verdad se habrá ido?"
+        "es-ES": "¿De verdad crees que se fueron?"
     },
     "noAMDg": {
         "en-US": "I'll go keep watch.",
@@ -1920,39 +1920,39 @@
         "es-ES": "Ten cuidado..."
     },
     "oIAMDg": {
-        "en-US": "Are you two the only ones here? And just so you know, I'm not a Rgan! I'm an Iwin in disguise!",
-        "pt-BR": "São só vocês dois? Só para constar, eu não sou um Rgan! Sou Arwin disfarçado!",
-        "es-ES": "¿Solo están ustedes dos? Por cierto, ¡no soy un Rgan! ¡Soy un Awin disfrazado!"
+        "en-US": "Are you two the only ones here? And just so you know, I'm not a Rgan! I'm an Windcy in disguise!",
+        "pt-BR": "São só vocês dois? Só para constar, eu não sou um Rgan! Sou Nevento disfarçado!",
+        "es-ES": "¿Solo están ustedes dos? Por cierto, ¡no soy un Rgan! ¡Soy un Neviento disfrazado!"
     },
     "oYAMDg": {
         "en-US": "Aaaaaaaaaaagh!!!!!!!!!!",
         "pt-BR": "Aaaaaaaaaaaaaah!!!!!!!!!!",
-        "es-ES": "¡¡¡¡¡¡¡¡¡Aaaaaaaaaah!!!!!!!!!!"
+        "es-ES": "¡Aaaaaaaaaah!"
     },
     "ooAMDg": {
         "en-US": "Keep it down. You startled me.",
-        "pt-BR": "Fale baixo. Que susto.",
-        "es-ES": "Guarda silencio. Me asustaste."
+        "pt-BR": "Fale baixo. Que susto!",
+        "es-ES": "Cállate. Me asustaste."
     },
     "o4AMDg": {
         "en-US": "So, does that mean we can leave this place now?",
         "pt-BR": "Então isso quer dizer que podemos sair daqui agora, certo?",
-        "es-ES": "Entonces, ¿eso significa que ahora podemos salir de aquí?"
+        "es-ES": "Entonces, ¿eso significa que ahora podemos salir?"
     },
     "pIAMDg": {
         "en-US": "Yes, follow me. I'll take you somewhere safe.",
-        "pt-BR": "Sim, sigam-me. Vou levar vocês para um lugar seguro.",
+        "pt-BR": "Sim, me sigam. Vou levar vocês para um lugar seguro.",
         "es-ES": "Sí, síganme. Los llevaré a un lugar seguro."
     },
     "pYAMDg": {
         "en-US": "Hey, let's go. This is our chance.",
         "pt-BR": "Ei, vamos. Esta é a nossa chance.",
-        "es-ES": "Oye, vámonos. Esta es nuestra oportunidad."
+        "es-ES": "Ey, vámonos. Es nuestra oportunidad."
     },
     "poAMDg": {
         "en-US": "Hey! You can't just follow some stranger like that...!",
         "pt-BR": "Ei! Você não pode simplesmente seguir alguém que nem conhece...!",
-        "es-ES": "¡Oye! ¡No puedes seguir así sin más a alguien que ni conoces...!"
+        "es-ES": "¡Oye! ¡No puedes seguir a alguien que ni conoces!"
     },
     "p4AMDg": {
         "en-US": "It's true, so please trust me.",
@@ -1961,33 +1961,33 @@
     },
     "qIAMDg": {
         "en-US": "If you insist...",
-        "pt-BR": "Se você insiste tanto...",
+        "pt-BR": "Se insiste tanto...",
         "es-ES": "Si lo dices con tanta seguridad..."
     },
     "qYAMDg": {
         "en-US": "Leaving now would only be asking for trouble, right? I'll sneak out once things calm down a bit.",
         "pt-BR": "Se eu sair agora, só vou me dar mal, né? Vou esperar as coisas se acalmarem e sair escondido depois.",
-        "es-ES": "Si salgo ahora, seguro la pasaré mal, ¿no? Mejor esperaré a que todo se calme un poco y entonces saldré a escondidas."
+        "es-ES": "Si salgo ahora, seguro la pasaré mal, ¿no? Mejor esperaré a que todo se calme un poco y luego saldré a escondidas."
     },
     "qoAMDg": {
         "en-US": "There's another one here...! Sir, you need to get out now.",
         "pt-BR": "Tem mais uma pessoa aqui...! Você precisa sair agora.",
-        "es-ES": "¡Aquí hay otra persona...! Señor, tiene que salir ahora."
+        "es-ES": "¡Aquí hay alguien más! Oye, tienes que irte."
     },
     "q4AMDg": {
         "en-US": "W-What? Why is an Intermediate Rgan being so polite?",
-        "pt-BR": "O-o quê? Por que um Regan Intermediário está sendo tão educado?",
-        "es-ES": "¿Q-qué? ¿Por qué un Regan intermedio es tan cortés?"
+        "pt-BR": "O-o quê? Por que um Rgan Intermediário está sendo tão educado?",
+        "es-ES": "¿Q-qué? ¿Por qué un Rgan Intermedio es tan cortés?"
     },
     "rIAMDg": {
         "en-US": "I'm not a Rgan. I'll explain everything on the way, but for now, we need to get out of here.",
         "pt-BR": "Eu não sou um Rgan. Explico a situação no caminho, mas agora precisamos sair daqui.",
-        "es-ES": "No soy un Rgan. Le explicaré la situación mientras vamos, pero por ahora tenemos que salir."
+        "es-ES": "No soy un Rgan. Te explicaré allá afuera. Tenemos que irnos."
     },
     "rYAMDg": {
         "en-US": "I'll escort you to a safe place.",
         "pt-BR": "Vou levar você até um lugar seguro.",
-        "es-ES": "Yo lo acompañaré hasta un lugar seguro."
+        "es-ES": "Te acompañaré a un lugar seguro."
     },
     "roAMDg": {
         "en-US": "I don't know what's going on, but if you're trying to trick me, I won't let you get away with it!",
@@ -1997,47 +1997,47 @@
     "r4AMDg": {
         "en-US": "Yes, yes. Make sure you have all your belongings. Let's go.",
         "pt-BR": "Sim, sim. Pegue todas as suas coisas. Vamos.",
-        "es-ES": "Sí, sí. Asegúrese de llevar todas sus cosas. Vámonos."
+        "es-ES": "Sí, llévate todas tus cosas. Vámonos."
     },
     "sIAMDg": {
         "en-US": "I hear footsteps... Please, just keep walking... I came all this way...",
         "pt-BR": "Estou ouvindo passos... Por favor, siga em frente... Depois de tudo que passei para chegar até aqui...",
-        "es-ES": "Escucho pasos... por favor, que pasen de largo... con todo lo que me costó llegar hasta aquí..."
+        "es-ES": "Escucho pasos... Sigan caminando... Ay, después de todo..."
     },
     "sYAMDg": {
         "en-US": "So this is where you were hiding! Is there anyone else?",
         "pt-BR": "Então estava escondido aqui! Tem mais alguém?",
-        "es-ES": "¡Así que estaba escondido aquí! ¿Hay alguien más?"
+        "es-ES": "¿Hay más gente escondida?"
     },
     "soAMDg": {
         "en-US": "Oh no... I'm sorry. I don't want to be punished. I don't want to die. Please, just let me go this once.",
         "pt-BR": "Ai, meu Deus... Eu errei. Não quero ser castigado. Não quero morrer. Por favor, me perdoe só desta vez.",
-        "es-ES": "Ay, no... lo siento. No quiero que me castiguen. No quiero morir. Por favor, perdóneme solo esta vez."
+        "es-ES": "Ay, no... lo siento. No quiero que me castiguen. No quiero morir. Perdón, por favor."
     },
     "s4AMDg": {
-        "en-US": "Good grief... This is why I hate walking around looking like this. Sir, I'm not a Rgan. I'm an Iwin.",
-        "pt-BR": "Ah, não... É por isso que eu não queria andar por aí com esta aparência. Eu não sou um Rgan, sou Arwin.",
-        "es-ES": "Ay... por eso no me gusta andar con este aspecto. Señor, no soy un Rgan, soy un Awin."
+        "en-US": "Good grief... This is why I hate walking around looking like this. Sir, I'm not a Rgan. I'm an Windcy.",
+        "pt-BR": "Ah, não... É por isso que eu não queria andar por aí com esta aparência. Eu não sou um Rgan, sou Nevento.",
+        "es-ES": "Ay... por eso no me gusta este aspecto. Tranquilo, no soy un Rgan, soy un Neviento."
     },
     "tIAMDg": {
         "en-US": "I won't hurt you, so come outside with me. There's a safe place we can go.",
         "pt-BR": "Não vou machucar você, então venha comigo para fora. Há um lugar seguro.",
-        "es-ES": "No le haré daño, así que venga conmigo afuera. Hay un lugar seguro."
+        "es-ES": "No te voy a lastimar, ven conmigo. Vamos a un lugar seguro."
     },
     "tYAMDg": {
         "en-US": "How am I supposed to believe that...",
         "pt-BR": "Como é que eu vou acreditar nisso...",
-        "es-ES": "¿Cómo voy a creer eso...?"
+        "es-ES": "¿Por qué creería eso?"
     },
     "toAMDg": {
         "en-US": "Oh, come on... If you don't leave now, you'll be in serious trouble.",
         "pt-BR": "Ah, poxa... Se não formos agora, vai dar problema.",
-        "es-ES": "Ay... si no se va ahora, se meterá en graves problemas."
+        "es-ES": "Si no nos vamos ahora, estaremos en problemas."
     },
     "t4AMDg": {
         "en-US": "What trouble...? If I'm going to die either way... Sob...",
         "pt-BR": "Que problema...? Se eu vou morrer de qualquer jeito... Snif...",
-        "es-ES": "¿Qué problemas...? Si voy a morir haga lo que haga... snif..."
+        "es-ES": "¿Qué problemas...? Si voy a morir sin importar qué..."
     },
     "uIAMDg": {
         "en-US": "Let's go.",
@@ -2052,17 +2052,17 @@
     "uoAMDg": {
         "en-US": "I need to report that I'm done with my work... Where did everyone goooo...?",
         "pt-BR": "Preciso informar que terminei o trabalho... Onde foi todo mundoooo...?",
-        "es-ES": "Tengo que informar que terminé el trabajo... ¿adónde se fueron todos...?"
+        "es-ES": "Tengo que informar que terminé el trabajo... ¿A dónde se fueron todos...?"
     },
     "u4AMDg": {
         "en-US": "Whoa... everyone's so busy... I'm getting dizzy.",
         "pt-BR": "Uau... todo mundo ocupado... Estou ficando tonto.",
-        "es-ES": "Guau... todos están ocupados... me mareo."
+        "es-ES": "Todo mundo está ocupado... me estoy mareando..."
     },
     "vIAMDg": {
         "en-US": "[Rgan]\nHuman no here.",
         "pt-BR": "[Rgan]\nHumano não pode aqui.",
-        "es-ES": "[Rgan]\nHumano no puede estar aquí."
+        "es-ES": "[Rgan]\nHumano. No puedes estar aquí."
     },
     "vYAMDg": {
         "en-US": "Noble... one. Where... go...?",
@@ -2071,28 +2071,28 @@
     },
     "voAMDg": {
         "en-US": "[Rgan]\nHuman no.",
-        "pt-BR": "[Rgan]\nHumano não pode.",
-        "es-ES": "[Rgan]\nHumano no puede."
+        "pt-BR": "[Rgan]\nHumano não.",
+        "es-ES": "[Rgan]\nHumano no."
     },
     "v4AMDg": {
         "en-US": "Noble... one... stay here with me... bad things happen if you gooo---",
-        "pt-BR": "Nobre... pessoa... fique aqui comigo... se for, vai dar ruim---",
-        "es-ES": "Noble... señor... quédese aquí conmigo... si se va, pasará algo malo---"
+        "pt-BR": "Nobre... pessoa... fique aqui comigo... se for, vai dar ruim...",
+        "es-ES": "Noble... señor... quédese aquí conmigo... si se va, pasará algo malo..."
     },
     "wIAMDg": {
         "en-US": "[Rgan]\nHuman why here?",
-        "pt-BR": "[Rgan]\nHumano por que aqui?",
+        "pt-BR": "[Rgan]\nHumano, por que aqui?",
         "es-ES": "[Rgan]\n¿Humano por qué aquí?"
     },
     "wYAMDg": {
         "en-US": "No food today?",
         "pt-BR": "Hoje não vai ter comida?",
-        "es-ES": "¿Hoy no dan comida?"
+        "es-ES": "¿No dan comida hoy?"
     },
     "woAMDg": {
         "en-US": "Why is it quiet? Why is it quiet today? Quiet? Why is it quiet?",
         "pt-BR": "Por que está quieto? Por que está quieto hoje? Quieto? Por que está quieto?",
-        "es-ES": "¿Por qué está tan tranquilo? ¿Por qué hoy está tan tranquilo? ¿Tranquilo? ¿Por qué está tan tranquilo?"
+        "es-ES": "¿Por qué estás callado? Dime por qué estás callado."
     },
     "w4AMDg": {
         "en-US": "[Rgan]\nHuman... work.",
@@ -2106,8 +2106,8 @@
     },
     "xYAMDg": {
         "en-US": "It hurts.. It huuurrts... I wanna go outside-",
-        "pt-BR": "Dói.. dóóói... Quero sair-",
-        "es-ES": "Duele.. dueeele... quiero salir-"
+        "pt-BR": "Dói.. dóóói... Quero sair...",
+        "es-ES": "Duele... dueeele... quiero salir..."
     },
     "xoAMDg": {
         "en-US": "[Rgan]\nHuman... no...",
@@ -2116,13 +2116,13 @@
     },
     "x4AMDg": {
         "en-US": "I-I wasn't slacking off. Really- I'm serious, really.",
-        "pt-BR": "E-eu não estava brincando. É verdade- É verdade mesmo, de verdade.",
-        "es-ES": "Y-yo no estaba holgazaneando. De verdad- es verdad, de verdad."
+        "pt-BR": "E-eu não estava brincando. É verda- É verdade mesmo, de verdade.",
+        "es-ES": "N-no estaba holgazaneando. Sí, sí, en serio, de verdad."
     },
     "yIAMDg": {
         "en-US": "Aaaah!!! Help me!!!",
         "pt-BR": "Aaaaaah!!! Socorro!!!",
-        "es-ES": "¡¡¡Aaaah!!! ¡¡¡Ayúdenme!!!"
+        "es-ES": "¡Aaaah! ¡Ayúdenme!"
     },
     "yYAMDg": {
         "en-US": "Guard",
@@ -2132,12 +2132,12 @@
     "yoAMDg": {
         "en-US": "On guard.",
         "pt-BR": "Em alerta.",
-        "es-ES": "En vigilancia."
+        "es-ES": "En alerta."
     },
     "y4AMDg": {
         "en-US": "All clear.",
         "pt-BR": "Nada de anormal.",
-        "es-ES": "Sin novedades."
+        "es-ES": "Todo despejado."
     },
     "zIAMDg": {
         "en-US": "Ayar",
@@ -2146,8 +2146,8 @@
     },
     "zYAMDg": {
         "en-US": "Whoa- stop!!! Be careful not to erase it. Those are sacred footprints.",
-        "pt-BR": "Ei, ei- pare!!! Cuidado para não apagar. São pegadas sagradas.",
-        "es-ES": "¡Eh- detente!!! Ten cuidado de no borrarlas. Son huellas sagradas."
+        "pt-BR": "Ei, ei! Pare!!! Cuidado para não apagar. São pegadas sagradas.",
+        "es-ES": "¡Eh, alto! Ten cuidado de no borrarlas. Son huellas sagradas."
     },
     "zoAMDg": {
         "en-US": "Homer",
@@ -2156,22 +2156,22 @@
     },
     "z4AMDg": {
         "en-US": "Did you know? They say this waterfall has a legend. But nobody knows what the legend is.",
-        "pt-BR": "Sabia? Dizem que esta cachoeira tem uma lenda. Mas ninguém conhece essa lenda.",
-        "es-ES": "¿Sabías? Dicen que esta cascada tiene una leyenda. Pero nadie conoce esa leyenda."
+        "pt-BR": "Sabia? Dizem que esta cachoeira tem uma lenda, mas ninguém conhece essa lenda.",
+        "es-ES": "¿Sabías? Dicen que esta cascada tiene una leyenda, pero nadie la conoce."
     },
     "0IAMDg": {
         "en-US": "Gyaruru",
-        "pt-BR": "Gyarr",
+        "pt-BR": "Gyaruru",
         "es-ES": "Gyaruru"
     },
     "0YAMDg": {
         "en-US": "Hold on. I'm gonna catch every fish here today.",
         "pt-BR": "Fique aí. Hoje eu vou pegar todos os peixes daqui.",
-        "es-ES": "Quédate quieto. Hoy voy a atrapar todos los peces de aquí."
+        "es-ES": "No te muevas. Hoy voy a atrapar todos los peces de aquí."
     },
     "0oAMDg": {
         "en-US": "Haruru",
-        "pt-BR": "Harr",
+        "pt-BR": "Haruru",
         "es-ES": "Haruru"
     },
     "04AMDg": {
@@ -2206,7 +2206,7 @@
     },
     "2YAMDg": {
         "en-US": "Pretty, isn't it? Even I think it's so pretty that I brought it out for everyone to see.",
-        "pt-BR": "Bonito, não é? Até eu achei tão bonito que trouxe para todo mundo poder ver.",
+        "pt-BR": "Bonito, não é? Até eu achei tão bonito que trouxe para todo mundo ver.",
         "es-ES": "¿Bonito, verdad? Hasta a mí me parece tan bonito que lo traje para que todos puedan verlo."
     },
     "2oAMDg": {
@@ -2216,13 +2216,13 @@
     },
     "24AMDg": {
         "en-US": "Did you know? They say whoever pulls out this spear will rule the world. That's what my uncle said.",
-        "pt-BR": "Sabia? Dizem que quem arrancar esta lança vai conquistar o mundo. Foi meu tio que disse.",
-        "es-ES": "¿Sabías? Dicen que quien saque esta lanza conquistará el mundo. Eso dijo mi tío."
+        "pt-BR": "Sabia? Dizem que quem puxar esta lança vai conquistar o mundo. Foi meu tio que disse.",
+        "es-ES": "Dicen que quien saque esta lanza conquistará el mundo. Eso dijo mi tío."
     },
     "3IAMDg": {
         "en-US": "On guard! All clear! Welcome to Issgard!",
-        "pt-BR": "Em alerta! Nada de anormal! Bem-vindo a Isgard!",
-        "es-ES": "¡En vigilancia! ¡Sin novedades! ¡Bienvenido a Isgard!"
+        "pt-BR": "Em alerta! Nada de irregularl! Bem-vindo a Issgard!",
+        "es-ES": "¡Vigilando! ¡Sin novedades! ¡Te doy la bienvenida a Issgard!"
     },
     "3YAMDg": {
         "en-US": "Rahho",
@@ -2232,7 +2232,7 @@
     "3oAMDg": {
         "en-US": "Do you know what happens after you work hard to clear the snow? It snows again! Wahahahahaha!!!",
         "pt-BR": "Sabe o que acontece quando você se esforça para tirar a neve? Neva de novo! Uahahahahahaha!!!",
-        "es-ES": "¿Sabes qué pasa después de tomarte el trabajo de quitar la nieve? ¡Que vuelve a nevar! ¡Jajajajajaja!!!"
+        "es-ES": "¿Sabes qué pasa después de tomarte el trabajo de quitar la nieve? ¡Que vuelve a nevar! ¡Jajajajajaja!"
     },
     "34AMDg": {
         "en-US": "Hamur",
@@ -2271,8 +2271,8 @@
     },
     "5oAMDg": {
         "en-US": "There's an ice sculpture behind the Ice Castle, and one of them has something that looks just like this on its head. Strange.",
-        "pt-BR": "Tem uma escultura de gelo atrás do Castelo de Gelo, e uma delas estava usando na cabeça algo exatamente assim. Que estranho.",
-        "es-ES": "Detrás del Castillo de Hielo hay una escultura de hielo, y una de ellas lleva en la cabeza algo que se ve exactamente así. Qué extraño."
+        "pt-BR": "Tem uma escultura de gelo atrás do Castelo de Gelo, e uma delas estava usando algo exatamente assim na cabeça. Que estranho.",
+        "es-ES": "Hay una escultura de hielo detrás del Castillo de Hielo, y una de ellas lleva algo en la cabeza que se parece mucho a esto. Qué raro."
     },
     "54AMDg": {
         "en-US": "Haryarya",
@@ -2282,7 +2282,7 @@
     "6IAMDg": {
         "en-US": "The path is narrow, so watch your step. If it collapses, it'll take a long time to rescue you. ...You didn't actually believe that, did you?",
         "pt-BR": "O caminho é estreito, então ande com cuidado. Se desmoronar, o resgate vai demorar. ... Você não acreditou nisso, né?",
-        "es-ES": "El camino es estrecho, así que anda con cuidado. Si se derrumba, tardarán mucho en rescatarte. ... No te lo creíste, ¿verdad?"
+        "es-ES": "El camino es estrecho, así que anda con cuidado. Si se derrumba, tardarán mucho en rescatarte... No me creíste, ¿verdad?"
     },
     "6YAMDg": {
         "en-US": "Hohho",
@@ -2296,12 +2296,12 @@
     },
     "64AMDg": {
         "en-US": "Goruru",
-        "pt-BR": "Gorrr",
+        "pt-BR": "Goruru",
         "es-ES": "Goruru"
     },
     "7IAMDg": {
         "en-US": "Never seen someone buried in the snow before? I'm testing the waterproofing and cold resistance of the feather care solution I developed.",
-        "pt-BR": "Nunca viu alguém enterrado na neve? Estou testando a resistência à água e ao frio do produto para cuidar de penas que desenvolvi.",
+        "pt-BR": "Nunca viu alguém enterrado na neve? Estou testando a resistência à água e ao frio do produto que desenvolvi.",
         "es-ES": "¿Es la primera vez que ves a alguien enterrado en la nieve? Estoy probando la resistencia al agua y al frío del producto para el cuidado de plumas que desarrollé."
     }
 }

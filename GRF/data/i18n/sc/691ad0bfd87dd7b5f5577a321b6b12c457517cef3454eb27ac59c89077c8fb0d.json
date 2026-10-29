@@ -1,0 +1,27 @@
+{
+    "AEgdDg": {
+        "en-US": "Tool Dealer",
+        "pt-BR": "Comerciante de Ferramentas",
+        "es-ES": "Distribuidor de Herramientas"
+    },
+    "AUgdDg": {
+        "en-US": "Armor Dealer",
+        "pt-BR": "Comerciante de Armaduras",
+        "es-ES": "Distribuidor de Armaduras"
+    },
+    "AkgdDg": {
+        "en-US": "Weapon Dealer",
+        "pt-BR": "Comerciante de Armas",
+        "es-ES": "Distribuidor de Armas"
+    },
+    "A0gdDg": {
+        "en-US": "Fruit Gardener",
+        "pt-BR": "Comerciante de Frutas",
+        "es-ES": "Jardinero Frutero"
+    },
+    "BEgdDg": {
+        "en-US": "Vendor from Milk Ranch",
+        "pt-BR": "Comerciante de Leite",
+        "es-ES": "Vendedor de Milk Ranch"
+    }
+}

@@ -4345,6 +4345,36 @@ tbl = {
 		MonsterEff = {
 			EFFECT.MAGIC_CIRCLE_DEVIL
 		}
+	},
+	[10428] = {
+		MonsterSize = 0.3,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10429] = {
+		MonsterSize = 0.3,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10430] = {
+		MonsterSize = 0.3,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10431] = {
+		MonsterSize = 0.3,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10432] = {
+		MonsterSize = 0.3,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
 	}
 }
 function main()

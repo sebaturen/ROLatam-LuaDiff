@@ -6,8 +6,8 @@
     },
     "oZkSDg": {
         "en-US": "[Intermediate Rgan]\nA human! A human has appeared!",
-        "pt-BR": "[Regan Intermediário]\nUm humano! Apareceu um humano!",
-        "es-ES": "[Regan intermedio]\n¡Es un humano! ¡Apareció un humano!"
+        "pt-BR": "[Rgan Intermediário]\nUm humano! Apareceu um humano!",
+        "es-ES": "[Rgan Intermedio]\n¡Es un humano! ¡Apareció un humano!"
     },
     "opkSDg": {
         "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
@@ -22,52 +22,52 @@
     "pJkSDg": {
         "en-US": "[Pabuyasabigand]\n...\n...\n...?\nA priest I've never seen before.\nI am Pabuyasabigand.",
         "pt-BR": "[Pabuyasabigand]\n...\n...\n...?\nSacerdote que nunca vi antes.\nEu sou Pabuyasabigand.",
-        "es-ES": "[Pabuyasabigand]\n...\n...\n...?\nSacerdote que no había visto antes.\nSoy Pabuyasabigand."
+        "es-ES": "[Pabuyasabigand]\n...\n...\n...?\nUn sacerdote al que nunca había visto.\nSoy Pabuyasabigand."
     },
     "pZkSDg": {
         "en-US": "[Pabuyasabigand]\nA direct subordinate of Rasgand.",
-        "pt-BR": "[Pabuyasabigand]\nSubordinado direto do senhor Rasgand.",
-        "es-ES": "[Pabuyasabigand]\nSubordinado directo del señor Rasgand."
+        "pt-BR": "[Pabuyasabigand]\nSubordinado direto do senhor Ragand.",
+        "es-ES": "[Pabuyasabigand]\nSoy un subordinado directo de Ragand."
     },
     "ppkSDg": {
         "en-US": "[{0}]\nDirect subordinate?",
         "pt-BR": "[{0}]\nDireto?",
-        "es-ES": "[{0}]\n¿Directos?"
+        "es-ES": "[{0}]\n¿Subordinado directo?"
     },
     "p5kSDg": {
         "en-US": "[Pabuyasabigand]\n...He didn't take us with him, though!",
         "pt-BR": "[Pabuyasabigand]\n...Embora ele não tenha nos levado com ele, sim!",
-        "es-ES": "[Pabuyasabigand]\n...Aunque no nos llevó consigo, ¡eh!"
+        "es-ES": "[Pabuyasabigand]\n...¡Aunque no nos llevó con él!"
     },
     "qJkSDg": {
         "en-US": "[Pabuyasabigand]\nI've never even met him, but me and...",
         "pt-BR": "[Pabuyasabigand]\nNunca o vi pessoalmente, mas eu e...",
-        "es-ES": "[Pabuyasabigand]\nNunca lo hemos visto, pero yo y..."
+        "es-ES": "[Pabuyasabigand]\nNunca lo he conocido, pero yo y..."
     },
     "qZkSDg": {
         "en-US": "[Pabuyasabigand]\nGanurijamigand here.\nAnd Sumofwanugand, who went off to work... and a few others are direct subordinates. Yes.\nWe gather shells and offer them to Lord Rasgand. Yes.",
-        "pt-BR": "[Pabuyasabigand]\nEste aqui é Ganurijamigand.\nE Sumofwanugand, que foi trabalhar... e mais alguns são subordinados diretos. Sim.\nNosso trabalho é coletar cascas e oferecê-las ao senhor Rasgand. Sim.",
-        "es-ES": "[Pabuyasabigand]\nAquí está Ganurijamigand.\nY Sumowanugand, que salió a trabajar... y algunos más somos sus subordinados directos, eh.\nNuestro trabajo es recolectar caparazones y ofrecérselos al señor Rasgand, eh."
+        "pt-BR": "[Pabuyasabigand]\nEste aqui é Ganurijamigand.\nE Sumofwanugand, que foi trabalhar... e mais alguns são subordinados diretos. Sim.\nNosso trabalho é coletar cascas e oferecê-las ao senhor Ragand. Sim.",
+        "es-ES": "[Pabuyasabigand]\nGanurijamigand, aquí presente. Y Sumofwanugand, que se fue a trabajar... y algunos más somos sus subordinados directos. Sí. Nos dedicamos a recolectar caparazones y ofrecérselos al Lord Ragand. Sí."
     },
     "qpkSDg": {
         "en-US": "[Ganurijamigand]\nThat's right. We do very important work. Yes.\nEven though we're only intermediate...",
         "pt-BR": "[Ganurijamigand]\nIsso mesmo. Fazemos um trabalho muito útil. Sim.\nEmbora sejamos intermediários...",
-        "es-ES": "[Ganurijamigand]\nAsí es. Hacemos un trabajo de gran ayuda, eh.\nAunque solo somos de rango intermedio..."
+        "es-ES": "[Ganurijamigand]\nAsí es. Hacemos un trabajo muy importante. Sí. Aunque solo seamos de rango intermedio..."
     },
     "q5kSDg": {
         "en-US": "The two Rgan suddenly became gloomy.",
         "pt-BR": "Os dois Rgan ficaram abatidos de repente.",
-        "es-ES": "Los dos Rgan se pusieron de repente de ánimo sombrío."
+        "es-ES": "Los dos Rgan se ensombrecieron de repente."
     },
     "rJkSDg": {
         "en-US": "[Pabuyasabigand]\nThese days... our mission has been difficult.\nHumans who aren't Rgan keep coming and going through the area where we worked, so it's become hard to gather shells.",
         "pt-BR": "[Pabuyasabigand]\nUltimamente... nossa missão está difícil.\nComo humanos que não são Rgan ficam entrando e saindo da área onde trabalhávamos, ficou difícil coletar as cascas.",
-        "es-ES": "[Pabuyasabigand]\nÚltimamente... nuestra misión es difícil, eh.\nComo humanos que no son Rgan entran y salen de la zona donde trabajábamos, se ha vuelto difícil recolectar caparazones, eh."
+        "es-ES": "[Pabuyasabigand]\nÚltimamente, nuestra misión se ha vuelto difícil.\nLos humanos que no son Rgan no dejan de entrar y salir de la zona donde trabajábamos, así que se ha vuelto difícil recolectar caparazones."
     },
     "rZkSDg": {
         "en-US": "There's a hatchery here too.",
         "pt-BR": "Mas também tem um incubatório aqui",
-        "es-ES": "Aquí también hay un criadero"
+        "es-ES": "Aquí también hay un criadero."
     },
     "rpkSDg": {
         "en-US": "[{0}]\nThere's a hatchery here too.",
@@ -76,23 +76,23 @@
     },
     "r5kSDg": {
         "en-US": "[Ganurijamigand]\nWe're not in charge of the hatchery.\nOur job is to find shells in the Warmth of the Snake God and bring them as offerings to Lord Rasgand.",
-        "pt-BR": "[Ganurijamigand]\nNós não somos responsáveis pelo incubatório.\nNosso trabalho é buscar no Calor do Deus Serpente as cascas que serão oferecidas ao senhor Rasgand.",
-        "es-ES": "[Ganurijamigand]\nNosotros no estamos a cargo del criadero, eh.\nNuestro trabajo es buscar en el Calor del Dios Serpiente los caparazones que ofreceremos al señor Rasgand, eh."
+        "pt-BR": "[Ganurijamigand]\nNós não somos responsáveis pelo incubatório.\nNosso trabalho é buscar no Calor do Deus Serpente as cascas que serão oferecidas ao senhor Ragand.",
+        "es-ES": "[Ganurijamigand]\nNo estamos a cargo del criadero. Nuestro trabajo consiste en buscar caparazones en la Calidez del Dios Serpiente y llevárselos como ofrenda al Lord Ragand."
     },
     "sJkSDg": {
         "en-US": "[Ganurijamigand]\nBut humans keep coming and going there, using the path we worked hard to clear however they please.\nBut as you can see, we're laypeople.\nWe can't stop them... and we don't have the strength to clear another path either.",
         "pt-BR": "[Ganurijamigand]\nSó que os humanos ficam entrando e saindo de lá e usando como querem o caminho que abrimos com tanto esforço.\nMas, como pode ver, somos apenas leigos.\nNão temos como impedi-los... mas também não temos força para abrir outro caminho.",
-        "es-ES": "[Ganurijamigand]\nPero ahí los humanos entran y salen, y usan como quieren el camino que tanto nos esforzamos en despejar, eh.\nPero, como puede ver, somos laicos, eh.\nNo podemos detenerlos... pero tampoco tenemos fuerzas para abrir otro camino, eh."
+        "es-ES": "[Ganurijamigand]\nPero ahí los humanos entran y salen, y usan como quieren el camino que tanto nos esforzamos en despejar, eh.\nPero, como puedes ver, somos simples laicos.\nNo podemos detenerlos... y tampoco tenemos fuerzas para abrir otro camino."
     },
     "sZkSDg": {
         "en-US": "[Ganurijamigand]\nI've never seen you before, Priest, but you look incredibly strong.\nMaybe...\nMaybe...",
         "pt-BR": "[Ganurijamigand]\nNunca vi você antes, sacerdote, mas parece ser muito forte.\nSerá que...\nSerá que...",
-        "es-ES": "[Ganurijamigand]\nEs la primera vez que veo a un sacerdote como usted, y se ve increíblemente fuerte, eh.\nQuizás...\nQuizás..."
+        "es-ES": "[Ganurijamigand]\nNunca te había visto, sacerdote, pero pareces increíblemente fuerte.\nQuizá...\nQuizá..."
     },
     "spkSDg": {
         "en-US": "[Pabuyasabigand]\nIf you have any spare <ITEM>[Shell]<INFO>1000822</INFO></ITEM>... we're going to give them to Lord Rasgand... just a few...\nOnly 30...",
-        "pt-BR": "[Pabuyasabigand]\nSe tiver <ITEM>[Cascas]<INFO>1000822</INFO></ITEM> sobrando... queremos oferecê-las ao senhor Rasgand... só um pouquinho...\nSó 30...",
-        "es-ES": "[Pabuyasabigand]\nSi le sobran <ITEM>[caparazones]<INFO>1000822</INFO></ITEM>... son para ofrecérselos al señor Rasgand... solo un poquito...\nSolo 30..."
+        "pt-BR": "[Pabuyasabigand]\nSe tiver <ITEM>[Cascas]<INFO>1000822</INFO></ITEM> sobrando... queremos oferecê-las ao senhor Ragand... só um pouquinho...\nSó 30...",
+        "es-ES": "[Pabuyasabigand]\nSi te sobran \\<ITEM>[Caparazón]\\<INFO>1000822\\</INFO>\\</ITEM>... vamos a ofrecérselos al Lord Ragand... Solo unos poquitos..."
     },
     "s5kSDg": {
         "en-US": "I can't tell if they're shameless or brave.",
@@ -102,67 +102,67 @@
     "tJkSDg": {
         "en-US": "Decide to share some.",
         "pt-BR": "Decidir compartilhar",
-        "es-ES": "Decidir compartirlos"
+        "es-ES": "Decidir compartir algunos."
     },
     "tZkSDg": {
         "en-US": "Refuse.",
         "pt-BR": "Recusar",
-        "es-ES": "Rechazar"
+        "es-ES": "Rechazar."
     },
     "tpkSDg": {
         "en-US": "[Pabuyasabigand]\nThank you-yes-very-much!\nWe'll be near the entrance here.",
-        "pt-BR": "[Pabuyasabigand]\nMuito obrigadosimsenhor!\nVamos ficar aqui perto da entrada.",
-        "es-ES": "[Pabuyasabigand]\n¡Muchas gracias, eh, sí, eh!\nEstaremos cerca de la entrada, eh."
+        "pt-BR": "[Pabuyasabigand]\nMuito obrigado-sim-senhor!\nVamos ficar aqui perto da entrada.",
+        "es-ES": "[Pabuyasabigand]\n¡Muchas-gracias-sí!\nEstaremos cerca de la entrada, por aquí."
     },
     "t5kSDg": {
         "en-US": "[Pabuyasabigand]\nYour shine is so smooth and impressive, Priest, so I thought I'd ask...\nBut you won't help us. No.\nLord Rasgand... I'm sorry...",
-        "pt-BR": "[Pabuyasabigand]\nPedi porque seu brilho é bem lustroso e bonito, sacerdote...\nMas você não vai ajudar, sim.\nSenhor Rasgand... desculpe...",
-        "es-ES": "[Pabuyasabigand]\nComo su brillo es tan reluciente y se ve tan imponente, pensé en pedírselo...\nPero no acepta, eh.\nSeñor Rasgand... lo sentimos, eh..."
+        "pt-BR": "[Pabuyasabigand]\nPedi porque seu brilho é bem lustroso e bonito, sacerdote...\nMas você não vai ajudar, sim.\nSenhor Ragand... desculpe...",
+        "es-ES": "[Pabuyasabigand]\nTienes un brillo tan suave e impresionante que pensé en pedírtelo...\nPero no quieres ayudarnos. No.\nLord Ragand... lo siento..."
     },
     "uJkSDg": {
         "en-US": "[Pabuyasabigand]\nPriest!\nYou gathered shells?\nFor us?",
         "pt-BR": "[Pabuyasabigand]\nSacerdote!\nVocê trouxe as cascas?\nPara nós?",
-        "es-ES": "[Pabuyasabigand]\n¡Sacerdote!\n¿Dice que recolectó los caparazones?\n¿Por nosotros?"
+        "es-ES": "[Pabuyasabigand]\n¡Sacerdote!\n¿Has recogido caparazones?\n¿Para nosotros?"
     },
     "uZkSDg": {
         "en-US": "[Pabuyasabigand]\nWe can't thank you enough!\nThe blessing of Lord Jormungand!\nThank you-yes-very-much!",
-        "pt-BR": "[Pabuyasabigand]\nNão sei nem como agradecer!\nUma bênção do senhor Jormungand!\nMuito obrigadosimsenhor!",
-        "es-ES": "[Pabuyasabigand]\n¡Qué agradecidos estamos!\n¡La gracia del señor Jormungand!\n¡Muchas gracias, eh, sí, eh!"
+        "pt-BR": "[Pabuyasabigand]\nNão sei nem como agradecer!\nUma bênção do senhor Jormungand!\nMuito obrigado-sim-senhor!",
+        "es-ES": "[Pabuyasabigand]\n¡No sabemos cómo agradecértelo!\n¡La bendición de Lord Jormungand!\n¡Muchas-gracias-sí!"
     },
     "upkSDg": {
         "en-US": "Thank you-yes-very-much!",
         "pt-BR": "Muito obrigadosimsenhor!",
-        "es-ES": "¡Muchas gracias, eh, sí, eh!"
+        "es-ES": "¡Muchas-gracias-sí!"
     },
     "u5kSDg": {
         "en-US": "We'll need more tomorrow...\nBut we'll think about that when tomorrow comes. Yes!",
         "pt-BR": "Amanhã vamos precisar de novo...\nMas pensamos nisso quando amanhã chegar, sim!",
-        "es-ES": "Mañana necesitaremos más...\nPero ya pensaremos en eso cuando llegue mañana, ¡eh!"
+        "es-ES": "Mañana necesitaremos más... \nPero ya pensaremos en eso cuando llegue el momento. ¡Sí!"
     },
     "vJkSDg": {
         "en-US": "[Pabuyasabigand]\nWe need <ITEM>[Shell]<INFO>1000822</INFO></ITEM>...\nPriest...\n30...",
         "pt-BR": "[Pabuyasabigand]\nPrecisamos de <ITEM>[Cascas]<INFO>1000822</INFO></ITEM>...\nSacerdote...\n30...",
-        "es-ES": "[Pabuyasabigand]\nNecesitamos <ITEM>[caparazones]<INFO>1000822</INFO></ITEM>...\nSacerdote...\n30..."
+        "es-ES": "[Pabuyasabigand]\nNecesitamos \\<ITEM>[Caparazón]\\<INFO>1000822\\</INFO>\\</ITEM>...\nSacerdote...\n30..."
     },
     "vZkSDg": {
         "en-US": "[Pabuyasabigand]\nPriest, thank you-yes-very-much for the shells you got us earlier!\nDon't worry, we won't eat them!",
         "pt-BR": "[Pabuyasabigand]\nSacerdote, obrigado pelas cascas que conseguiu para nós antes!\nNão se preocupe, não vamos comê-las!",
-        "es-ES": "[Pabuyasabigand]\n¡Sacerdote, muchas gracias por los caparazones que consiguió antes, eh, sí, eh!\n¡No se preocupe, no nos los vamos a comer!"
+        "es-ES": "[Pabuyasabigand]\n¡Sacerdote, muchas-gracias-sí por los caparazones que nos conseguiste!\n¡No te preocupes, no nos los vamos a comer!"
     },
     "vpkSDg": {
         "en-US": "[Pabuyasabigand]\nPriest... if you have any spare <ITEM>[Shell]<INFO>1000822</INFO></ITEM> today too... it's for our work... just a few...\nOnly 30...",
         "pt-BR": "[Pabuyasabigand]\nSacerdote... se hoje também tiver <ITEM>[Cascas]<INFO>1000822</INFO></ITEM> sobrando... é para o nosso trabalho... só um pouquinho...\nSó 30...",
-        "es-ES": "[Pabuyasabigand]\nSacerdote... si hoy también le sobran <ITEM>[caparazones]<INFO>1000822</INFO></ITEM>... es parte de nuestro trabajo... solo un poquito...\nSolo 30..."
+        "es-ES": "[Pabuyasabigand]\nSacerdote... si hoy también te sobran \\<ITEM>[Caparazón]\\<INFO>1000822\\</INFO>\\</ITEM>... es para nuestro trabajo... Solo unos poquitos...\nCon 30 basta..."
     },
     "v5kSDg": {
         "en-US": "[Pabuyasabigand]\nPriest... if you have any spare <ITEM>[Shell]<INFO>1000822</INFO></ITEM> today too... they're for Lord Rasgand... just a few...\nOnly 30...",
-        "pt-BR": "[Pabuyasabigand]\nSacerdote... se hoje também tiver <ITEM>[Cascas]<INFO>1000822</INFO></ITEM> sobrando... vamos oferecê-las ao senhor Rasgand... só um pouquinho...\nSó 30...",
-        "es-ES": "[Pabuyasabigand]\nSacerdote... si hoy también le sobran <ITEM>[caparazones]<INFO>1000822</INFO></ITEM>... son para ofrecérselos al señor Rasgand... solo un poquito...\nSolo 30..."
+        "pt-BR": "[Pabuyasabigand]\nSacerdote... se hoje também tiver <ITEM>[Cascas]<INFO>1000822</INFO></ITEM> sobrando... vamos oferecê-las ao senhor Ragand... só um pouquinho...\nSó 30...",
+        "es-ES": "[Pabuyasabigand]\nSacerdote... si hoy también te sobran \\<ITEM>[Caparazón]\\<INFO>1000822\\</INFO>\\</ITEM>... es para nuestro trabajo... Solo unos poquitos...\nCon 30 basta..."
     },
     "wJkSDg": {
         "en-US": "[Pabuyasabigand]\nPriest... why are you still standing there instead of going? Yes?",
         "pt-BR": "[Pabuyasabigand]\nSacerdote... por que você não vai embora e fica aí parado, sim?",
-        "es-ES": "[Pabuyasabigand]\nSacerdote... ¿por qué no se va y se queda ahí, eh?"
+        "es-ES": "[Pabuyasabigand]\nSacerdote... ¿por qué sigues ahí parado en vez de irte? ¿Sí?"
     },
     "wZkSDg": {
         "en-US": "Ganurijamigand",
@@ -182,12 +182,12 @@
     "xJkSDg": {
         "en-US": "[Highest-ranking Rgan]\nA human! A human has appeared!",
         "pt-BR": "[Rgan Supremo]\nUm humano! Apareceu um humano!",
-        "es-ES": "[Rgan de máximo rango]\n¡Es un humano! ¡Apareció un humano!"
+        "es-ES": "[Rgan Superior]\n¡Es un humano! ¡Apareció un humano!"
     },
     "xZkSDg": {
         "en-US": "It'd be trouble if I talked to the wrong Rgan and got caught.\nI should watch the situation for a bit.",
         "pt-BR": "Seria problemático falar por engano com qualquer Rgan e acabar sendo descoberto.\nÉ melhor observar a situação com cuidado.",
-        "es-ES": "Sería problemático si hablara por error con cualquier Rgan y me descubrieran.\nSerá mejor observar un poco la situación."
+        "es-ES": "Sería problemático hablar con el Rgan equivocado y que me descubrieran.\nDebería observar la situación un rato."
     },
     "xpkSDg": {
         "en-US": "[Delpanagand]\nStill, we have to work hard at the duties assigned to us... Oh?",
@@ -207,27 +207,27 @@
     "yZkSDg": {
         "en-US": "A highest-ranking Rgan suddenly stopped me as I passed by and started rambling on.",
         "pt-BR": "De repente, um Rgan Supremo agarrou quem passava e começou a falar sozinho sem parar.",
-        "es-ES": "Un Rgan de máximo rango detuvo de repente a quien pasaba y empezó a hablar sin parar por su cuenta."
+        "es-ES": "Un Rgan Superior me detuvo de repente mientras pasaba y empezó a parlotear sin parar."
     },
     "ypkSDg": {
         "en-US": "[Delpanagand]\nI am the great Delpanagand.\nEvery Rgan capable of conversation knows my face.",
         "pt-BR": "[Delpanagand]\nEu sou o grande Delpanagand.\nTodos os Rgan capazes de conversar conhecem meu rosto.",
-        "es-ES": "[Delpanagand]\nYo soy el señor Delpanagand.\nTodos los Rgan capaces de conversar conocen mi rostro."
+        "es-ES": "[Delpanagand]\nSoy el gran Delpanagand.\nTodos los Rgan capaces de hablar conocen mi rostro."
     },
     "y5kSDg": {
         "en-US": "[Delpanagand]\nAny questions?",
         "pt-BR": "[Delpanagand]\nAlguma pergunta?",
-        "es-ES": "[Delpanagand]\n¿Hay algo que quieras saber?"
+        "es-ES": "[Delpanagand]\n¿Tienes alguna pregunta?"
     },
     "zJkSDg": {
         "en-US": "Yes.",
         "pt-BR": "Sim.",
-        "es-ES": "Sí"
+        "es-ES": "Sí."
     },
     "zZkSDg": {
         "en-US": "No.",
         "pt-BR": "Não.",
-        "es-ES": "No"
+        "es-ES": "No."
     },
     "zpkSDg": {
         "en-US": "[Delpanagand]\nWhat an honest child.\nBut since you've already come into being, listen to what I have to say first.",
@@ -237,52 +237,52 @@
     "z5kSDg": {
         "en-US": "[Delpanagand]\nHmm...\nI usually gather several together and teach them all at once, so explaining this to just one feels a little unusual.",
         "pt-BR": "[Delpanagand]\nHmm...\nNormalmente reúno vários de uma vez para ensinar, então é um pouco estranho explicar tudo só para um.",
-        "es-ES": "[Delpanagand]\nMmm...\nNormalmente reúno a varios y les enseño a todos de una vez, así que explicárselo a uno solo se siente un poco extraño."
+        "es-ES": "[Delpanagand]\nMmm...\nNormalmente reúno a varios y les enseño a todos al mismo tiempo, así que se me hace un poco extraño tener que explicárselo a uno solo."
     },
     "0JkSDg": {
         "en-US": "[Delpanagand]\nWe are a race that protects this land under the blessing of the great serpent Jormungand. We hatch from eggs, but have no parents, and it is the magic of this land that nurtures our eggs.\nWhile every living thing in the world has parents, we were brought into being by the will of Lord Rasgand, the Survivor, and given form by the power of the great serpent Jormungand.",
-        "pt-BR": "[Delpanagand]\nSomos uma raça que protege esta terra sob a bênção da grande serpente Jormungand. Nascemos de ovos, mas não temos pais, e é o poder mágico desta terra que nutre os ovos.\nEnquanto todas as criaturas do mundo têm pais, nós surgimos pela vontade do senhor Rasgand, o sobrevivente, e tomamos forma pelo poder da grande serpente Jormungand.",
-        "es-ES": "[Delpanagand]\nSomos una raza que protege esta tierra bajo la bendición de la gran serpiente Jormungand. Nacemos de huevos, pero no tenemos padres, y es el poder mágico de esta tierra lo que hace crecer los huevos.\nMientras todos los seres del mundo tienen padres, nosotros surgimos por voluntad del señor Rasgand, el Superviviente, y tomamos forma gracias al poder de la gran serpiente Jormungand."
+        "pt-BR": "[Delpanagand]\nSomos uma raça que protege esta terra sob a bênção da grande serpente Jormungand. Nascemos de ovos, mas não temos pais, e é o poder mágico desta terra que nutre os ovos.\nEnquanto todas as criaturas do mundo têm pais, nós surgimos pela vontade do senhor Ragand, o sobrevivente, e tomamos forma pelo poder da grande serpente Jormungand.",
+        "es-ES": "[Delpanagand]\nSomos una raza que protege esta tierra bajo la bendición de la gran serpiente Jormungand. Nacemos de huevos, pero no tenemos padres, y es la magia de esta tierra la que nutre nuestros huevos.\nMientras todos los seres vivos del mundo tienen padres, nosotros fuimos creados por la voluntad de Lord Ragand, el Superviviente, y recibimos nuestra forma gracias al poder de la gran serpiente Jormungand."
     },
     "0ZkSDg": {
         "en-US": "[Delpanagand]\nPraise the great serpent Jormungand.\nFollow Rasgand, the Survivor.\nThat we hatch from our eggs with intelligence is also a blessing from Lord Rasgand.\nThe blood of the strong creates strong eggs.",
-        "pt-BR": "[Delpanagand]\nLouvado seja, a grande serpente Jormungand.\nSigam Rasgand, o sobrevivente.\nDespertar do ovo já dotado de inteligência também é uma graça concedida pelo senhor Rasgand.\nO sangue dos fortes gera ovos fortes.",
-        "es-ES": "[Delpanagand]\nAlabada sea la gran serpiente Jormungand.\nSeguid al Superviviente, Rasgand.\nQue despertemos del huevo con inteligencia también es una gracia del señor Rasgand.\nLa sangre de los fuertes engendra huevos fuertes."
+        "pt-BR": "[Delpanagand]\nLouvado seja, a grande serpente Jormungand.\nSigam Ragand, o sobrevivente.\nDespertar do ovo já dotado de inteligência também é uma graça concedida pelo senhor Ragand.\nO sangue dos fortes gera ovos fortes.",
+        "es-ES": "[Delpanagand]\n¡Alabemos a la gran serpiente Jormungand!\n¡Sigamos a Ragand, el Superviviente!\nEl hecho de que nazcamos de nuestros huevos con inteligencia también es una bendición de Lord Ragand.\nLa sangre de los fuertes engendra huevos fuertes."
     },
     "0pkSDg": {
         "en-US": "[Delpanagand]\nAll present-day Rgans are descended from Lord Rasgand's blood.\nWe have no concept of parents and children, but you and I, with our eyes open, know that the blood shed by Lord Rasgand, who inherited the will of all those before him, made us all into these crystallized forms of magic.",
-        "pt-BR": "[Delpanagand]\nTodos os Rgans atuais descendem do sangue do senhor Rasgand.\nEmbora não exista o conceito de pais e filhos, você e eu, que estamos despertos, sabemos que o sangue derramado pelo senhor Rasgand, que herdou toda a vontade de seus antecessores, transformou todos nós nestas cristalizações de poder mágico.",
-        "es-ES": "[Delpanagand]\nTodos los Rgan actuales son individuos que descienden de la sangre del señor Rasgand.\nAunque no existe entre nosotros el concepto de padres e hijos, tú y yo, que hemos abierto los ojos, sabemos que la sangre esparcida por el señor Rasgand, quien heredó toda la voluntad de sus predecesores, nos convirtió a todos en cristalizaciones de poder mágico."
+        "pt-BR": "[Delpanagand]\nTodos os Rgans atuais descendem do sangue do senhor Ragand.\nEmbora não exista o conceito de pais e filhos, você e eu, que estamos despertos, sabemos que o sangue derramado pelo senhor Ragand, que herdou toda a vontade de seus antecessores, transformou todos nós nestas cristalizações de poder mágico.",
+        "es-ES": "[Delpanagand]\nTodos los Rgan actuales descienden de la sangre de Lord Ragand.\nNo tenemos el concepto de padres e hijos, pero tú y yo, que tenemos los ojos abiertos, sabemos que la sangre derramada por Lord Ragand, quien heredó la voluntad de todos sus antecesores, nos convirtió a todos en estas cristalizaciones de magia."
     },
     "05kSDg": {
         "en-US": "[Delpanagand]\nLord Rasgand alone is the one and only supreme Rgan.\nBelow him, outstanding highest-ranking Rgans like me are called bishops.",
-        "pt-BR": "[Delpanagand]\nO único Rgan supremo é o senhor Rasgand.\nAbaixo dele, os Rgans Supremos excepcionais como eu devem ser chamados de bispos.",
-        "es-ES": "[Delpanagand]\nSolo existe un único Rgan supremo: el señor Rasgand.\nPor debajo de él, a los Rgan de máximo rango y excelencia, como yo, se nos llama obispos."
+        "pt-BR": "[Delpanagand]\nO único Rgan supremo é o senhor Ragand.\nAbaixo dele, os Rgans Supremos excepcionais como eu devem ser chamados de bispos.",
+        "es-ES": "[Delpanagand]\nLord Ragand es el único y supremo Rgan.\nPor debajo de él, los Rgan de rango superior más destacados, como yo, reciben el nombre de obispos."
     },
     "1JkSDg": {
         "en-US": "[Delpanagand]\nYou were born a priest under the choice of the divine.\nThose tending the eggs over there are laypeople.\nThose who fall even below that, hatching without absorbing even the freely bestowed divine magic, might still be useful if they can work...",
         "pt-BR": "[Delpanagand]\nVocê nasceu sacerdote sob a escolha divina.\nAqueles ali que cuidam dos ovos são leigos.\nJá os que nem isso conseguem, despertando sem sequer absorver o poder mágico divino que lhes foi concedido gratuitamente, talvez ainda sejam úteis se conseguirem trabalhar...",
-        "es-ES": "[Delpanagand]\nNaciste como sacerdote bajo la elección divina.\nAquellos que cuidan los huevos allí son laicos.\nY los que ni siquiera alcanzan ese nivel y despiertan sin haber absorbido siquiera el poder mágico divino que se les concede gratuitamente podrían resultar útiles si son capaces de trabajar..."
+        "es-ES": "[Delpanagand]\nNaciste como sacerdote por elección divina.\nLos que cuidan los huevos de allí son simples creyentes.\nLos que están incluso por debajo de ellos, aquellos que nacen sin absorber siquiera la magia divina que se les concede gratuitamente, quizá todavía puedan ser útiles si son capaces de trabajar..."
     },
     "1ZkSDg": {
         "en-US": "[Delpanagand]\nOtherwise, they are merely resources.\nUse your wisdom to aid Lord Rasgand and work to expand the influence of the Jormungand Order across the continent.\nAny questions?",
-        "pt-BR": "[Delpanagand]\nCaso contrário, são apenas recursos.\nUse essa sua sabedoria para ajudar o senhor Rasgand e se empenhe para que a ordem de Jormungand expanda sua influência pelo continente.\nAlguma pergunta?",
-        "es-ES": "[Delpanagand]\nDe lo contrario, no son más que recursos.\nUsa esa sabiduría tuya para ayudar al señor Rasgand y esfuérzate para que la orden de Jormungand extienda su influencia por el continente.\n¿Hay algo que quieras saber?"
+        "pt-BR": "[Delpanagand]\nCaso contrário, são apenas recursos.\nUse essa sua sabedoria para ajudar o senhor Ragand e se empenhe para que a ordem de Jormungand expanda sua influência pelo continente.\nAlguma pergunta?",
+        "es-ES": "[Delpanagand]\nDe lo contrario, no son más que recursos.\nUsa tu sabiduría para ayudar a Lord Ragand y trabaja para expandir la influencia de la Orden de Jormungand por todo el continente.\n¿Tienes alguna pregunta?"
     },
     "1pkSDg": {
         "en-US": "From what Delpanagand said, it seems Rgans with intelligence above a certain level hatch from their eggs already possessing some knowledge, such as the ability to converse.",
         "pt-BR": "Pelo que se pode concluir da história de Delpanagand, os Rgans com inteligência acima de certo nível parecem sair dos ovos já possuindo algum conhecimento, como a capacidade de conversar.",
-        "es-ES": "Por lo que se deduce de lo que contó Delpanagand, parece que los Rgan con cierto nivel de inteligencia salen del huevo con algunos conocimientos desde el principio, incluida la capacidad de conversar."
+        "es-ES": "Por lo que dijo Delpanagand, parece que los Rgan con un nivel de inteligencia superior a cierto grado nacen de sus huevos con algunos conocimientos, como la capacidad de conversar."
     },
     "15kSDg": {
         "en-US": "It's a relief that they seem likely to overlook a few verbal slip-ups.",
         "pt-BR": "Ainda bem que parece que alguns deslizes ao falar serão ignorados.",
-        "es-ES": "Por suerte, parece que pasarán por alto algunos errores al hablar."
+        "es-ES": "Es un alivio que parezcan dispuestos a pasar por alto algunos errores al hablar."
     },
     "2JkSDg": {
         "en-US": "But why did I have to listen to all that about the Jormungand Order?",
         "pt-BR": "Mas por que eu preciso ouvir tudo isso sobre a ordem de Jormungand?",
-        "es-ES": "Pero ¿por qué tengo que escuchar precisamente todo esto sobre la orden de Jormungand?"
+        "es-ES": "Pero ¿por qué tuve que escuchar todo eso sobre la Orden de Jormungand?"
     },
     "2ZkSDg": {
         "en-US": "[{0}]\nYes.",
@@ -292,7 +292,7 @@
     "2pkSDg": {
         "en-US": "[Delpanagand]\nSmart, aren't you? Go ahead.",
         "pt-BR": "[Delpanagand]\nVocê é inteligente. Pode falar.",
-        "es-ES": "[Delpanagand]\nEres inteligente. Dime."
+        "es-ES": "[Delpanagand]\nEres inteligente. Adelante, pregunta."
     },
     "25kSDg": {
         "en-US": "[{0}]\nNo.",
@@ -302,12 +302,12 @@
     "3JkSDg": {
         "en-US": "[Delpanagand]\nHmm...\nIt seems you're not as clever as you look.\nOr did I teach something incorrectly?",
         "pt-BR": "[Delpanagand]\nHmm...\nPelo visto, você não é tão esperto quanto parece.\nOu será que eu ensinei alguma coisa errada?",
-        "es-ES": "[Delpanagand]\nMmm...\nParece que no eres tan listo como aparentas.\n¿O acaso te enseñé algo mal?"
+        "es-ES": "[Delpanagand]\nMmm...\nParece que no eres tan inteligente como aparentas.\n¿O será que enseñé algo mal?"
     },
     "3ZkSDg": {
         "en-US": "[Delpanagand]\nWhen I gather several together and ask whether they have questions, they all scramble to ask something...",
         "pt-BR": "[Delpanagand]\nQuando reúno vários e pergunto se têm alguma dúvida, todos fazem questão de perguntar...",
-        "es-ES": "[Delpanagand]\nCuando reúno a varios y les pregunto si tienen dudas, todos se alborotan intentando preguntar a la vez..."
+        "es-ES": "[Delpanagand]\nCuando reúno a varios y les pregunto si tienen dudas, todos se apresuran a preguntar algo..."
     },
     "3pkSDg": {
         "en-US": "[Delpanagand]\nDon't be shy. Ask.",
@@ -327,27 +327,27 @@
     "4ZkSDg": {
         "en-US": "[Delpanagand]\nYes, yes.\nWe're an exceptional race, so of course you'd be curious.",
         "pt-BR": "[Delpanagand]\nSim, sim.\nSomos uma raça superior, então é natural ter dúvidas.",
-        "es-ES": "[Delpanagand]\nSí, sí.\nSomos una raza sobresaliente, así que es natural que tengas dudas."
+        "es-ES": "[Delpanagand]\nSí, sí.\nSomos una raza excepcional, así que es natural que tengas curiosidad."
     },
     "4pkSDg": {
         "en-US": "[{0}]\nWhy are we born knowing how to speak, but have to learn things like this one by one?",
         "pt-BR": "[{0}]\nPor que nascemos sabendo falar, mas precisamos aprender cada uma dessas coisas?",
-        "es-ES": "[{0}]\nEntonces, ¿por qué nacimos sabiendo hablar, pero tenemos que aprender estas cosas una por una?"
+        "es-ES": "[{0}]\n¿Por qué nacemos sabiendo hablar, pero tenemos que aprender cosas como esta una por una?"
     },
     "45kSDg": {
         "en-US": "[Delpanagand]\nOh my, what a difficult question!\nBut there's a slight misunderstanding.\nWe aren't born having learned how to speak.",
         "pt-BR": "[Delpanagand]\nAh, meu Deus, que pergunta difícil!\nMas há um pequeno mal-entendido.\nNós não nascemos tendo aprendido a falar.",
-        "es-ES": "[Delpanagand]\n¡Ah, cielos, qué pregunta tan difícil!\nPero hay un pequeño malentendido.\nNosotros no nacemos habiendo aprendido a hablar."
+        "es-ES": "[Delpanagand]\n¡Vaya, qué pregunta tan difícil!\nPero hay un pequeño malentendido.\nNo nacemos habiendo aprendido a hablar."
     },
     "5JkSDg": {
         "en-US": "[Delpanagand]\nAlthough each of us is a separate individual from Lord Rasgand, we all share the fact that we are Rgan born from Lord Rasgand's blood.\nSo the things we know are simply things that come naturally to us as Rgan.\nTell me what you know.",
-        "pt-BR": "[Delpanagand]\nCada um de nós é um indivíduo diferente do senhor Rasgand, mas temos em comum o fato de sermos Rgan originados do sangue do senhor Rasgand.\nPor isso, aquilo que sabemos é algo natural para um Rgan.\nDiga o que você sabe.",
-        "es-ES": "[Delpanagand]\nAunque cada uno de nosotros es un individuo distinto del señor Rasgand, compartimos algo en común: somos Rgan que provienen de la sangre del señor Rasgand.\nPor eso, las cosas que sabemos son naturales para un Rgan.\nDime algo que sepas."
+        "pt-BR": "[Delpanagand]\nCada um de nós é um indivíduo diferente do senhor Ragand, mas temos em comum o fato de sermos Rgan originados do sangue do senhor Ragand.\nPor isso, aquilo que sabemos é algo natural para um Rgan.\nDiga o que você sabe.",
+        "es-ES": "[Delpanagand]\nAunque cada uno de nosotros es un individuo distinto de Lord Ragand, todos compartimos el hecho de ser Rgan nacidos de la sangre de Lord Ragand. Así que las cosas que sabemos son simplemente cosas que nos resultan naturales como Rgan.\nDime algo que sepas."
     },
     "5ZkSDg": {
         "en-US": "Rgan eat Rgan",
         "pt-BR": "Rgan come Rgan",
-        "es-ES": "Los Rgan comen Rgan"
+        "es-ES": "Los Rgan comen Rgan."
     },
     "5pkSDg": {
         "en-US": "[{0}]\nRgan eat Rgan...",
@@ -356,28 +356,28 @@
     },
     "55kSDg": {
         "en-US": "[Delpanagand]\nRight. Those are things we know without being taught. We are born knowing everything that is natural to Lord Rasgand.\nBut the doctrines of the Order may change as our influence grows and our numbers increase.",
-        "pt-BR": "[Delpanagand]\nIsso mesmo. São coisas que sabemos sem precisar aprender. Nascemos sabendo tudo aquilo que é natural para o senhor Rasgand.\nMas os ensinamentos da ordem podem mudar conforme nossa influência cresce e nossa população aumenta.",
-        "es-ES": "[Delpanagand]\nAsí es. Son cosas que sabemos sin necesidad de aprenderlas. Nacemos sabiendo todo lo que es natural para el señor Rasgand.\nPero las doctrinas de la orden podrían cambiar a medida que nuestra influencia crezca y aumente nuestro número."
+        "pt-BR": "[Delpanagand]\nIsso mesmo. São coisas que sabemos sem precisar aprender. Nascemos sabendo tudo aquilo que é natural para o senhor Ragand.\nMas os ensinamentos da ordem podem mudar conforme nossa influência cresce e nossa população aumenta.",
+        "es-ES": "[Delpanagand]\nExactamente. Son cosas que sabemos sin que nadie nos las enseñe. Nacemos sabiendo todo lo que es natural para Lord Ragand.\nPero las doctrinas de la Orden pueden cambiar a medida que nuestra influencia crezca y aumente nuestra población."
     },
     "6JkSDg": {
         "en-US": "[Delpanagand]\nIf you want to hear more teachings, go find <NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>.\nHe should be able to explain Lord Rasgand's teachings to you in greater detail.",
-        "pt-BR": "[Delpanagand]\nSe quiser ouvir mais sermões, procure <NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>.\nEle poderá explicar melhor os ensinamentos do senhor Rasgand.",
-        "es-ES": "[Delpanagand]\nSi quieres escuchar más prédicas, ve a ver a <NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>.\nÉl podrá explicarte mejor las enseñanzas del señor Rasgand."
+        "pt-BR": "[Delpanagand]\nSe quiser ouvir mais sermões, procure <NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>.\nEle poderá explicar melhor os ensinamentos do senhor Ragand.",
+        "es-ES": "[Delpanagand]\nSi quieres escuchar más enseñanzas, ve a buscar a \\<NAVI>[Bernagand]\\<INFO>jor_nest,17,97,0,101,0\\</INFO>\\</NAVI>. Él podrá explicarte con más detalle las enseñanzas de Lord Ragand."
     },
     "6ZkSDg": {
         "en-US": "[Delpanagand]\nHmm, looks like you've heard Bernagand's long-winded story?",
         "pt-BR": "[Delpanagand]\nHmm, pelo visto você ouviu a longa história cheia de detalhes de Bernagand, não é?",
-        "es-ES": "[Delpanagand]\nMmm, parece que ya escuchaste la larguísima explicación de Bernagand, ¿no?"
+        "es-ES": "[Delpanagand]\nMmm, parece que ya escuchaste la larga y tediosa historia de Bernagand, ¿eh?"
     },
     "6pkSDg": {
         "en-US": "[Delpanagand]\nThen I'll give you a test.\nTake a lap around this hatchery and talk to the laypeople guarding it.\n<NAVI>[Obedient One]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[Lazy One]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\nand <NAVI>[Disobedient One]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> should be enough, don't you think?",
         "pt-BR": "[Delpanagand]\nEntão vou lhe dar uma prova.\nDê uma volta pelo incubatório e converse com os leigos que o protegem.\n<NAVI>[O obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[O preguiçoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\n<NAVI>[O desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> devem ser suficientes, não acha?",
-        "es-ES": "[Delpanagand]\nEntonces te pondré una prueba.\nDa una vuelta por este criadero y habla con los laicos que lo custodian.\n<NAVI>[El obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[El perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\n<NAVI>[El desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> deberían bastar, ¿no crees?"
+        "es-ES": "[Delpanagand]\nEntonces te pondré una prueba.\nDa una vuelta por este criadero y habla con los laicos que lo vigilan.\n<NAVI>[El Obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[El Perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\n<NAVI>[El Desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> deberían bastar, ¿no crees?"
     },
     "65kSDg": {
         "en-US": "[Delpanagand]\nHow was it? Was there anyone like you... curious about things?\nYou should understand now. Everyone does what they're capable of doing.\nYou should keep asking questions and devote yourself to the Order.",
         "pt-BR": "[Delpanagand]\nE então? Havia algum que, como você... tivesse curiosidade sobre alguma coisa?\nAgora você deve ter entendido. Cada um faz aquilo que é capaz de fazer.\nContinue tendo curiosidade e se esforce pela ordem.",
-        "es-ES": "[Delpanagand]\n¿Qué tal fue? ¿Había alguno que, como tú... tuviera curiosidad por algo?\nAhora ya lo habrás entendido. Cada uno hace lo que puede hacer.\nTú sigue teniendo curiosidad y esfuérzate por la orden."
+        "es-ES": "[Delpanagand]\n¿Qué tal fue? ¿Había alguno que, como tú... tuviera curiosidad por algo?\nAhora ya lo habrás entendido. Cada uno hace lo que puede hacer.\nTú sigue haciendo preguntas y dedicándote a la Orden."
     },
     "7JkSDg": {
         "en-US": "[Delpanagand]\nYou should do what you can.",
@@ -387,17 +387,17 @@
     "7ZkSDg": {
         "en-US": "[Delpanagand]\nTake a lap around the hatchery and talk to the laypeople.\n<NAVI>[Obedient One]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[Lazy One]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\nand <NAVI>[Disobedient One]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> should be enough, don't you think?",
         "pt-BR": "[Delpanagand]\nDê uma volta pelo incubatório e converse com os leigos.\n<NAVI>[O obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[O preguiçoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\n<NAVI>[O desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> devem ser suficientes, não acha?",
-        "es-ES": "[Delpanagand]\nDa una vuelta por el criadero y habla con los laicos.\n<NAVI>[El obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[El perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\n<NAVI>[El desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> deberían bastar, ¿no crees?"
+        "es-ES": "[Delpanagand]\nDa una vuelta por el criadero y habla con los laicos.\n<NAVI>[El Obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>,\n<NAVI>[El Perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI>,\n<NAVI>[El Desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI> deberían bastar, ¿no crees?"
     },
     "7pkSDg": {
         "en-US": "[Delpanagand]\n...We have to do what we can.\nLord Rasgand will return to lead more of our kind.\nUntil then, we have to take care of the eggs...",
-        "pt-BR": "[Delpanagand]\n...Precisamos fazer aquilo que somos capazes de fazer.\nO senhor Rasgand voltará para liderar ainda mais dos nossos.\nAté lá, precisamos cuidar dos ovos...",
-        "es-ES": "[Delpanagand]\n...Tenemos que hacer lo que podamos hacer.\nEl señor Rasgand volverá para guiar a más de los nuestros.\nHasta entonces, debemos cuidar los huevos..."
+        "pt-BR": "[Delpanagand]\n...Precisamos fazer aquilo que somos capazes de fazer.\nO senhor Ragand voltará para liderar ainda mais dos nossos.\nAté lá, precisamos cuidar dos ovos...",
+        "es-ES": "[Delpanagand]\n...Tenemos que hacer lo que podamos.\nLord Ragand regresará para guiar a más miembros de nuestra raza.\nHasta entonces, debemos cuidar de los huevos..."
     },
     "75kSDg": {
         "en-US": "[Delpanagand]\nKeep asking questions, and do your part for the Order.",
         "pt-BR": "[Delpanagand]\nContinue tendo curiosidade e se esforce pela ordem.",
-        "es-ES": "[Delpanagand]\nTú sigue teniendo curiosidad y esfuérzate por la orden."
+        "es-ES": "[Delpanagand]\nTú sigue haciendo preguntas y dedicándote a la Orden."
     },
     "8JkSDg": {
         "en-US": "Yamurisnigand",
@@ -407,12 +407,12 @@
     "8ZkSDg": {
         "en-US": "You cannot proceed with the quest because you are carrying too many items. -",
         "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais. -",
-        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos. -"
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos."
     },
     "8pkSDg": {
         "en-US": "[Yamurisnigand]\nWork. Doing.",
         "pt-BR": "[Yamurisnigand]\nFazer. Trabalho.",
-        "es-ES": "[Yamurisnigand]\nHago. Trabajo."
+        "es-ES": "[Yamurisnigand]\nTrabajar. Hacer."
     },
     "85kSDg": {
         "en-US": "[Yamurisnigand]\nDelpanagand?\nTold you to ask what I know?",
@@ -432,12 +432,12 @@
     "9pkSDg": {
         "en-US": "[Yamurisnigand]\nWhat I like?\nWarm places...\nDon't like outside. Yes.",
         "pt-BR": "[Yamurisnigand]\nDo que gosto?\nLugar quente...\nNão gosto de fora, sim.",
-        "es-ES": "[Yamurisnigand]\n¿Lo que me gusta?\nLugares cálidos...\nNo me gusta afuera, eh."
+        "es-ES": "[Yamurisnigand]\n¿Lo que me gusta?\nLugares cálidos...\nNo me gusta estar afuera. Sí."
     },
     "95kSDg": {
         "en-US": "It doesn't seem like I'll hear anything important.",
         "pt-BR": "Parece que não vou conseguir ouvir nada importante.",
-        "es-ES": "No parece que pueda obtener información importante."
+        "es-ES": "Parece que no voy a escuchar nada importante."
     },
     "+JkSDg": {
         "en-US": "I should report back to Delpanagand.",
@@ -462,7 +462,7 @@
     "/JkSDg": {
         "en-US": "[Tagimirodigand]\nWork. Doing.",
         "pt-BR": "[Tagimirodigand]\nFazer. Trabalho.",
-        "es-ES": "[Tagimirodigand]\nHago. Trabajo."
+        "es-ES": "[Tagimirodigand]\nTrabajar. Hacer."
     },
     "/ZkSDg": {
         "en-US": "[Tagimirodigand]\nDelpanagand?\nTold you to ask what I know?",
@@ -477,12 +477,12 @@
     "/5kSDg": {
         "en-US": "What You Want to Do",
         "pt-BR": "O que quer fazer",
-        "es-ES": "Lo que quieres hacer"
+        "es-ES": "Lo que quiere hacer."
     },
     "AJoSDg": {
         "en-US": "[Tagimirodigand]\nWhat I want to do?\nLie on the floor... somewhere the magic is nice and warm...\nI want to sleep. Yes.\nBut for the revival of the Jormungand Order, I work.",
         "pt-BR": "[Tagimirodigand]\nO que quero fazer?\nDeitar no chão... num lugar onde o poder mágico esteja bem quentinho...\nQuero dormir, sim.\nMas, pela prosperidade da ordem de Jormungand, eu trabalho, sim.",
-        "es-ES": "[Tagimirodigand]\n¿Lo que quiero hacer?\nAcostarme en el suelo... donde el poder mágico esté bien calentito...\nQuiero dormir, eh.\nPero si es por el resurgimiento de la orden de Jormungand, trabajo, eh."
+        "es-ES": "[Tagimirodigand]\n¿Qué quiero hacer?\nTumbarme en el suelo... en algún lugar donde la magia sea cálida y agradable...\nQuiero dormir. Sí.\nPero, por el resurgimiento de la Orden de Jormungand, trabajo."
     },
     "AZoSDg": {
         "en-US": "It doesn't seem to have thought very deeply about it.",
@@ -492,7 +492,7 @@
     "ApoSDg": {
         "en-US": "[Tagimirodigand]\nIn a warm place... I want to sleep.",
         "pt-BR": "[Tagimirodigand]\nQuero dormir... em um lugar quente.",
-        "es-ES": "[Tagimirodigand]\nQuiero dormir... en un lugar cálido."
+        "es-ES": "[Tagimirodigand]\nEn un lugar cálido... quiero dormir."
     },
     "A5oSDg": {
         "en-US": "Gibediusagand",
@@ -502,12 +502,12 @@
     "BJoSDg": {
         "en-US": "[Gibediusagand]\nWork. Doing.",
         "pt-BR": "[Gibediusagand]\nFazer. Trabalho.",
-        "es-ES": "[Gibediusagand]\nHago. Trabajo."
+        "es-ES": "[Gibediusagand]\nTrabajar. Hacer."
     },
     "BZoSDg": {
         "en-US": "[Gibediusagand]\nYou startled me!\nI was... surprised. Yes.\nYou're a priest I haven't seen before.\nYes.\nI wasn't surprised. Yes.",
         "pt-BR": "[Gibediusagand]\nQue susto!\nFiquei assusta... do, sim.\nÉ um sacerdote que nunca vi antes.\nSim.\nNão me assustei, sim.",
-        "es-ES": "[Gibediusagand]\n¡Qué susto!\nMe asusté... eh.\nEs un sacerdote que no había visto antes.\nEh.\nNo me asusté, eh."
+        "es-ES": "[Gibediusagand]\n¡Qué susto!\nMe asusté... eh.\nUn sacerdote que no había visto antes.\nEh.\nNo me asusté, eh."
     },
     "BpoSDg": {
         "en-US": "[Gibediusagand]\n...Was taking care of the eggs. Yes.",
@@ -522,22 +522,22 @@
     "CJoSDg": {
         "en-US": "[Gibediusagand]\nComplaints?\n...No priest has ever asked me about that before.",
         "pt-BR": "[Gibediusagand]\nReclamações?\n...Até agora, nenhum sacerdote nunca falou isso, não.",
-        "es-ES": "[Gibediusagand]\n¿Quejas?\n...Hasta ahora ningún sacerdote había hablado de algo así, eh."
+        "es-ES": "[Gibediusagand]\n¿Quejas?\n...Ningún sacerdote me había preguntado eso antes."
     },
     "CZoSDg": {
         "en-US": "[Gibediusagand]\nWe are... believers who follow our god. Yes.\n...\nWorking is only natural, yes?\nI want to play, but...\nI have to work.",
         "pt-BR": "[Gibediusagand]\nNós... somos fiéis que seguem um deus.\n...\nTrabalhar é natural, não é?\nEu queria brincar, mas...\ntenho que trabalhar.",
-        "es-ES": "[Gibediusagand]\nNosotros... somos creyentes que siguen a dios, eh.\n...\nTrabajar es algo natural, ¿eh?\nQuiero divertirme, pero...\nhay que trabajar, eh."
+        "es-ES": "[Gibediusagand]\nSomos... creyentes que seguimos a nuestro dios. Sí.\n...\nTrabajar es lo natural, ¿verdad?\nQuiero jugar, pero...\ntengo que trabajar."
     },
     "CpoSDg": {
         "en-US": "It doesn't seem like I'll hear anything particularly important.",
         "pt-BR": "Não parece que vou conseguir ouvir nada muito importante.",
-        "es-ES": "No parece que pueda obtener información demasiado importante."
+        "es-ES": "Parece que no voy a escuchar nada particularmente importante."
     },
     "C5oSDg": {
         "en-US": "[Gibediusagand]\n...I wasn't slacking off. Yes?",
         "pt-BR": "[Gibediusagand]\n...Você não ficou fazendo outra coisa, ficou?",
-        "es-ES": "[Gibediusagand]\n...No estaba haciendo otra cosa, ¿eh?"
+        "es-ES": "[Gibediusagand]\n...No estaba sin hacer nada, ¿eh?"
     },
     "DJoSDg": {
         "en-US": "Aleigand",
@@ -561,13 +561,13 @@
     },
     "EJoSDg": {
         "en-US": "Just when my faith was already being questioned... Lord Rasgand went and left me behind!",
-        "pt-BR": "Justo quando minha fé já estava sendo questionada... o senhor Rasgand me deixou para trás!",
-        "es-ES": "Justo cuando ya estaban dudando de mi fe... ¡el señor Rasgand se fue y me dejó aquí!"
+        "pt-BR": "Justo quando minha fé já estava sendo questionada... o senhor Ragand me deixou para trás!",
+        "es-ES": "Justo cuando ya estaban poniendo en duda mi fe... ¡Lord Ragand va y me deja atrás!"
     },
     "EZoSDg": {
         "en-US": "Before the words were even finished, the Superior Rgan grabbed the forearm and yanked it closer, baring its teeth!\nHave I been found out!?",
-        "pt-BR": "Antes mesmo de eu terminar de falar, o Regan Superior agarrou meu antebraço, me puxou para perto e mostrou os dentes!\nFui descoberto!?",
-        "es-ES": "Antes de que terminara de hablar, el Rgan de máximo rango le agarró el antebrazo, tiró de él y acercó los dientes.\n¡¿Me descubrió?!"
+        "pt-BR": "Antes mesmo de eu terminar de falar, o Rgan Superior agarrou meu antebraço, me puxou para perto e mostrou os dentes!\nFui descoberto!?",
+        "es-ES": "Antes de que terminara de hablar, el Rgan Superior me agarró del antebrazo, me acercó de un tirón y me mostró los dientes.\n¿¡Me habrá descubierto!?"
     },
     "EpoSDg": {
         "en-US": "[{0}]\nOuch!",
@@ -577,7 +577,7 @@
     "E5oSDg": {
         "en-US": "[Aleigand]\nTch. What a baby.\nI didn't bite you, I didn't bite you.\nI didn't eat you.",
         "pt-BR": "[Alleigand]\nTsc. Que exagero.\nNão mordi, não mordi.\nNão comi.",
-        "es-ES": "[Aleigand]\nTsk. Qué exagerado.\nNo te mordí, no te mordí.\nNo te comí."
+        "es-ES": "[Aleigand]\nTch. Qué exagerado.\nNo te mordí, no te mordí.\nNo te comí."
     },
     "FJoSDg": {
         "en-US": "[Aleigand]\nYou're quite the crybaby, aren't you?\nGuess you're a coward. Are you afraid of this Aleigand?",
@@ -587,37 +587,37 @@
     "FZoSDg": {
         "en-US": "I'm scared.",
         "pt-BR": "Tenho medo",
-        "es-ES": "Me da miedo"
+        "es-ES": "Tengo miedo."
     },
     "FpoSDg": {
         "en-US": "I'm not scared.",
         "pt-BR": "Não tenho medo",
-        "es-ES": "No me da miedo"
+        "es-ES": "No tengo miedo."
     },
     "F5oSDg": {
         "en-US": "[Aleigand]\nTalking back to me...\nAnd after I went out of my way not to eat you.",
         "pt-BR": "[Alleigand]\nOlha como responde...\nE pensar que eu fiz questão de não comer você.",
-        "es-ES": "[Aleigand]\nMira que responderme así...\nY eso que me contuve y no te comí."
+        "es-ES": "[Aleigand]\n¿Me contestas...?\nY eso que hice el esfuerzo de no comerte."
     },
     "GJoSDg": {
         "en-US": "Ask why they're acting like this",
         "pt-BR": "Perguntar por que está agindo assim",
-        "es-ES": "Preguntar por qué actúa así"
+        "es-ES": "Preguntar por qué se comporta así."
     },
     "GZoSDg": {
         "en-US": "Let's get out of here...",
         "pt-BR": "Vamos fugir logo...",
-        "es-ES": "Mejor huyo rápido..."
+        "es-ES": "Será mejor que salgamos de aquí..."
     },
     "GpoSDg": {
         "en-US": "[{0}]\nWhy are you acting like this...?",
         "pt-BR": "[{0}]\nPor que você está fazendo isso...?",
-        "es-ES": "[{0}]\n¿Por qué haces algo así... eh?"
+        "es-ES": "[{0}]\n¿Por qué te comportas así...?"
     },
     "G5oSDg": {
         "en-US": "[Aleigand]\nWere you only born recently? You don't look it, but you sure talk like a layperson.\nThen again, a layperson probably couldn't even think of asking that. Guess you must be pretty smart.",
         "pt-BR": "[Alleigand]\nVocê nasceu há pouco tempo? Não parece, mas fala muito como um leigo, hein?\nMas, se fosse mesmo um leigo, nem pensaria nisso. Parece que você é inteligente.",
-        "es-ES": "[Aleigand]\n¿Naciste hace poco? No lo pareces, pero hablas muchísimo como un laico, ¿no?\nAunque si fueras un laico, ni siquiera se te ocurriría pensar algo así. Parece que sí eres inteligente."
+        "es-ES": "[Aleigand]\n¿Acabas de nacer? No lo parece por tu aspecto, pero hablas como un laico. Aunque, pensándolo bien, un laico ni siquiera sería capaz de plantearse esa pregunta. Supongo que eres bastante inteligente."
     },
     "HJoSDg": {
         "en-US": "[Aleigand]\nEveryone is born the same way under the same conditions, so why do they all have such different personalities and thoughts? Isn't it fascinating!",
@@ -632,22 +632,22 @@
     "HpoSDg": {
         "en-US": "[Aleigand]\nWhat? I was just messing with you a little.\nAnd you're this naive, too.\nSomeone could tear off one of your arms and eat it, and you wouldn't even notice, huh?",
         "pt-BR": "[Alleigand]\nO quê? Eu só estava provocando você um pouco.\nE ainda é tão ingênuo assim.\nSe alguém arrancasse um dos seus braços para comer, você nem perceberia, né?",
-        "es-ES": "[Aleigand]\n¿Qué pasa? Solo estaba molestándote un poco.\nY encima eres así de ingenuo.\nDe verdad, alguien podría arrancarte un brazo y comérselo sin que te dieras cuenta, ¿no?"
+        "es-ES": "[Aleigand]\n¿Qué pasa? Solo estaba molestándote un poco.\nY encima eres así de ingenuo.\nAlguien podría arrancarte un brazo y comérselo sin que te dieras ni cuenta, ¿eh?"
     },
     "H5oSDg": {
         "en-US": "[Aleigand]\nSee, I~ don't do it because Gumumigand told me not to.\nYou know Gumumigand? Ever met them?\nYou don't? Can't be helped.",
-        "pt-BR": "[Alleigand]\nEu, sabe~. Não faço isso porque Gumumigand me disse para não fazer.\nVocê conhece Gumumigand? Já se encontrou com ele?\nNão conhece? Então não tem jeito.",
-        "es-ES": "[Aleigand]\nYo, verás~. No lo hago porque Gumumigand me dijo que no.\n¿Conoces a Gumumigand? ¿Lo has visto antes?\n¿No? Bueno, no hay nada que hacer."
+        "pt-BR": "[Alleigand]\nEu, sabe... Não faço isso porque Gumumigand me disse para não fazer.\nVocê conhece Gumumigand? Já se encontrou com ele?\nNão conhece? Então não tem jeito.",
+        "es-ES": "[Aleigand]\nVerás, yo no lo hago porque Gumumigand me dijo que no lo hiciera.\n¿Conoces a Gumumigand? ¿Lo has conocido alguna vez? ¿No? Qué se le va a hacer."
     },
     "IJoSDg": {
         "en-US": "[Aleigand]\nAnyway, while I was thinking about how to eat the Primitive Rgan, they said this to me.\nNo matter what I do, nothing changes, so why bother tormenting it?\nHonestly, I couldn't believe it.",
-        "pt-BR": "[Alleigand]\nEnfim, eu estava pensando em como comer Regan Primitivo, e ele me disse uma coisa.\nQue não importa o que eu fizesse, nada mudaria, então por que eu ficava atormentando aquilo.\nAh, fala sério.",
-        "es-ES": "[Aleigand]\nEn fin, mientras pensaba cómo comerme a un Regan primitivo, me dijo algo.\nMe preguntó por qué lo molestaba si, hiciera lo que hiciera, nada iba a cambiar.\nAy, qué absurdo."
+        "pt-BR": "[Alleigand]\nEnfim, eu estava pensando em como comer Rgan Primitivo, e ele me disse uma coisa.\nQue não importa o que eu fizesse, nada mudaria, então por que eu ficava atormentando aquilo.\nAh, fala sério.",
+        "es-ES": "[Aleigand]\nEn fin, mientras pensaba cómo comerme a un Rgan Primitivo, me dijo algo.\n\"Hagas lo que hagas, nada va a cambiar, así que ¿para qué atormentarlos?\".\nLa verdad, no me lo podía creer."
     },
     "IZoSDg": {
         "en-US": "[{0}]\n(I'm the one who can't believe this...)",
         "pt-BR": "[{0}]\n(Quem deveria estar sem palavras sou eu...)",
-        "es-ES": "[{0}]\n(El que está desconcertado soy yo...)"
+        "es-ES": "[{0}]\n(Quien no se lo puede creer soy yo...)"
     },
     "IpoSDg": {
         "en-US": "[Aleigand]\nSure, we were made from the blood of our ancestors on land imbued with a god's magic... and gained life as magical beings, so we're a little different from other creatures.\nBut couldn't we just absorb them directly without turning them into core stones?",
@@ -656,23 +656,23 @@
     },
     "I5oSDg": {
         "en-US": "[Aleigand]\nHumans cook things before they eat them, right?\nI've always wanted to try that~!!\nOf all the things I've never done in my life...",
-        "pt-BR": "[Alleigand]\nDizem que os humanos cozinham quando vão comer alguma coisa, não é?\nEu queria experimentar isso~!!\nA única coisa que nunca fiz em toda a minha vida é...",
-        "es-ES": "[Aleigand]\nDicen que los humanos cocinan cuando comen algo, ¿no?\n¡Yo quería probar eso~!!\nDe todo lo que he hecho hasta hoy, lo único que nunca he probado es..."
+        "pt-BR": "[Alleigand]\nDizem que os humanos cozinham quando vão comer alguma coisa, não é?\nEu queria experimentar isso!!!\nA única coisa que nunca fiz em toda a minha vida é...",
+        "es-ES": "[Aleigand]\nDicen que los humanos cocinan las cosas antes de comérselas, ¿verdad? ¡Siempre he querido probarlo! De todas las cosas que nunca he hecho en mi vida..."
     },
     "JJoSDg": {
         "en-US": "[Aleigand]\nSo Gumumigand...\n...did...\nAnd then...",
         "pt-BR": "[Alleigand]\nEntão Gumumigand...\n...fez...\nisso...",
-        "es-ES": "[Aleigand]\nAsí que Gumumigand...\n...hizo...\neso..."
+        "es-ES": "[Aleigand]\nAsí que Gumumigand...\n...hizo...\nY entonces..."
     },
     "JZoSDg": {
         "en-US": "I heard a terrifying story.\nBut if the Gumumigand in that story thinks the way ordinary Rgans do, then it seems they normally don't eat Primitive Rgan directly.",
-        "pt-BR": "Ouvi uma história extremamente assustadora.\nMas, se o Gumumigand da história pensa como os Regans comuns, parece que, em princípio, eles não comem Regan Primitivo diretamente.",
-        "es-ES": "Escuché una historia realmente aterradora.\nPero si Gumumigand, el de la historia, piensa como los Rgan normales, parece que, en principio, no comen directamente a un Regan primitivo."
+        "pt-BR": "Ouvi uma história extremamente assustadora.\nMas, se o Gumumigand da história pensa como os Rgans comuns, parece que, em princípio, eles não comem Rgan Primitivo diretamente.",
+        "es-ES": "Escuché una historia realmente aterradora.\nPero si Gumumigand, el de la historia, piensa como los Rgan normales, parece que, en principio, no comen directamente a un Rgan Primitivo."
     },
     "JpoSDg": {
         "en-US": "[Aleigand]\n...So go get me about <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> 15 of them.\nIf you don't have any, go find some.",
-        "pt-BR": "[Alleigand]\n...Então vá e traga uns 15 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>.\nSe não tiver, vá conseguir você mesmo.",
-        "es-ES": "[Aleigand]\n...Así que ve y tráeme unos 15 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>.\nSi no tienes, consíguelos tú."
+        "pt-BR": "[Alleigand]\n...Então vá e traga uns 15 <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>.\nSe não tiver, vá conseguir você mesmo.",
+        "es-ES": "[Aleigand]\n ...Así que ve y tráeme unos 15 \\<ITEM>[Núcleo Mágico Inferior de Rgan]\\<INFO>1000707\\</INFO>\\</ITEM>. Si no tienes, ve a conseguirlos."
     },
     "J5oSDg": {
         "en-US": "[Aleigand]\nHurry!",
@@ -687,22 +687,22 @@
     "KZoSDg": {
         "en-US": "[Aleigand]\nYou actually brought these just because I told you to?\nYou're really going places...\nHow did someone like you even turn out this way?\nWhose blood were you born from, anyway? It wasn't mine, was it?",
         "pt-BR": "[Alleigand]\nEu mandei trazer isso e você realmente trouxe?\nVocê vai longe mesmo...\nComo foi aparecer alguém assim?\nDo sangue de quem você nasceu, afinal? Não foi do meu, foi?",
-        "es-ES": "[Aleigand]\n¿De verdad trajiste esto solo porque te dije que lo hicieras?\nVaya, sí que llegarás lejos...\n¿Cómo pudo salir alguien así?\n¿De la sangre de quién naciste? No será de la mía, ¿verdad?"
+        "es-ES": "[Aleigand]\n¿De verdad trajiste esto solo porque te lo pedí?\n¡Vas a llegar lejos...! ¿Cómo es posible que alguien como tú haya salido así?\n¿De quién será la sangre de la que naciste? No será la mía, ¿verdad?"
     },
     "KpoSDg": {
         "en-US": "[Aleigand]\nSeriously... I feel so sorry for you, I... Hey. Take this.\nAnd don't go around naively doing everything people tell you to do. Got it?",
         "pt-BR": "[Alleigand]\nNossa... fiquei até com pena de você... Ei. Pegue isto.\nE não vá por aí fazendo tudo que mandarem só porque você é tão ingênuo. Entendeu?",
-        "es-ES": "[Aleigand]\nEn serio... me das tanta lástima que esto... Oye. Toma.\nY no vayas por ahí haciendo ingenuamente todo lo que te digan. ¿Entendido?"
+        "es-ES": "[Aleigand]\nEn serio... Me das tanta lástima que... Oye, toma esto. Y no vuelvas por ahí haciendo ingenuamente todo lo que te digan. ¿Entendido?"
     },
     "K5oSDg": {
         "en-US": "[Aleigand]\nHey, what did I tell you?\nI told you to bring <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> 15 of them, didn't I?\nHurry!",
-        "pt-BR": "[Alleigand]\nEi, o que foi que eu disse?\nEu mandei trazer 15 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>, não mandei?\nAnde logo!",
-        "es-ES": "[Aleigand]\nOye, ¿qué te dije?\nTe dije que trajeras 15 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>, ¿verdad?\n¡Rápido!"
+        "pt-BR": "[Alleigand]\nEi, o que foi que eu disse?\nEu mandei trazer 15 <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>, não mandei?\nAnde logo!",
+        "es-ES": "[Aleigand]\nOye, ¿qué te dije? Te pedí que trajeras 15 \\<ITEM>[Núcleo Mágico Inferior de Rgan]\\<INFO>1000707\\</INFO>\\</ITEM>, ¿no? ¡Vamos!"
     },
     "LJoSDg": {
         "en-US": "Aleigand bared their teeth threateningly.\nWhich one of us has the strange personality?",
         "pt-BR": "Alleigand mostrou os dentes de forma ameaçadora.\nAfinal, qual dos dois tem a personalidade estranha?",
-        "es-ES": "Aleigand mostró los dientes y amenazó.\n¿Cuál de los dos será el que tiene una personalidad rara?"
+        "es-ES": "Aleigand mostró los dientes de forma amenazante.\n¿Cuál de los dos tiene una personalidad extraña?"
     },
     "LZoSDg": {
         "en-US": "[Aleigand]\nHissss.\nDon't come near me.\nI'm in a bad mood.",
@@ -716,8 +716,8 @@
     },
     "L5oSDg": {
         "en-US": "Several of them are gathered around, listening as a Superior Rgan speaks calmly about something.",
-        "pt-BR": "Várias pessoas estão sentadas ao redor de um Regan Superior, ouvindo-o falar de algo em um tom sereno.",
-        "es-ES": "Varios están sentados alrededor de un Rgan de máximo rango, escuchándolo hablar de algo con un aire sereno."
+        "pt-BR": "Várias pessoas estão sentadas ao redor de um Rgan Superior, ouvindo-o falar de algo em um tom sereno.",
+        "es-ES": "Varios Rgan están reunidos alrededor, escuchando a uno de rango superior hablar tranquilamente sobre algo."
     },
     "MJoSDg": {
         "en-US": "Listen in with them.",
@@ -737,22 +737,22 @@
     "M5oSDg": {
         "en-US": "[Bernagand]\nI understand that you're upset, but let us do what we can here.\nIt is both our right and our duty to pray to God and take time to speak together.",
         "pt-BR": "[Bernagand]\nEntendo que estejam abalados, mas façamos aqui aquilo que podemos fazer.\nReservar um tempo para orar a Deus e conversar também é nosso direito e nosso dever.",
-        "es-ES": "[Bernagand]\nEntiendo que estén alterados, pero hagamos aquí lo que podamos hacer.\nTener tiempo para orar a dios y también conversar es tanto nuestro derecho como nuestro deber."
+        "es-ES": "[Bernagand]\nEntiendo que estén alterados, pero hagamos aquí lo que esté en nuestras manos.\nRezar a Dios y dedicar tiempo a conversar entre nosotros son tanto un derecho como un deber."
     },
     "NJoSDg": {
         "en-US": "[Bernagand]\n...Ah, where was I just now?\nAh, yes. Our faith.",
         "pt-BR": "[Bernagand]\n...Ah, onde eu estava mesmo?\nAh, sim. Sobre a nossa fé.",
-        "es-ES": "[Bernagand]\n...Ah, ¿hasta dónde había llegado?\nAh, sí. Hablábamos de nuestra fe."
+        "es-ES": "[Bernagand]\n...Ah, ¿por dónde iba?\nAh, sí. Nuestra fe."
     },
     "NZoSDg": {
         "en-US": "[Bernagand]\n...But this Bernagand sees things a little differently.\nAs all the believers here know, we have only one god, Lord Jormungand.",
         "pt-BR": "[Bernagand]\n...Mas este Bernagand pensa um pouco diferente.\nComo todos os fiéis aqui presentes sabem, temos apenas um deus, o senhor Jormungand.",
-        "es-ES": "[Bernagand]\n...Pero este Bernagand piensa un poco diferente.\nComo todos los creyentes aquí presentes saben, solo tenemos un dios: el señor Jormungand."
+        "es-ES": "[Bernagand]\n...Pero este Bernagand piensa un poco diferente.\nComo todos los creyentes aquí presentes saben, solo tenemos un dios: Lord Jormungand."
     },
     "NpoSDg": {
         "en-US": "[Bernagand]\nWe are all here by God's blessing.\nWe are bound to be different from other races. We have no parents and no children, yet we have formed a community according to Providence.",
         "pt-BR": "[Bernagand]\nTodos nós estamos aqui graças à bênção de Deus.\nNão temos como ser iguais às outras raças. Não temos pais nem filhos, mas formamos esta comunidade de acordo com a Divina Providência.",
-        "es-ES": "[Bernagand]\nTodos estamos aquí gracias a la bendición de dios.\nNo podemos evitar ser distintos de otras razas. No tenemos padres ni hijos, pero formamos esta comunidad siguiendo la Providencia."
+        "es-ES": "[Bernagand]\nTodos estamos aquí gracias a la bendición de dios.\nNo podemos evitar ser distintos de otras razas. No tenemos padres ni hijos, pero hemos formado una comunidad siguiendo la voluntad divina."
     },
     "N5oSDg": {
         "en-US": "Are you newly born kin? A sermon is in progress, so listen quietly.",
@@ -761,13 +761,13 @@
     },
     "OJoSDg": {
         "en-US": "The Superior Rgan who introduced himself as Bernagand looked this way and nodded.",
-        "pt-BR": "O Regan Superior que se apresentou como Bernagand olhou para cá e assentiu com a cabeça.",
-        "es-ES": "El Rgan de máximo rango que se presentó como Bernagand miró hacia aquí y asintió."
+        "pt-BR": "O Rgan Superior que se apresentou como Bernagand olhou para cá e assentiu com a cabeça.",
+        "es-ES": "El Rgan Superior que se había presentado como Bernagand miró hacia aquí y asintió con la cabeza."
     },
     "OZoSDg": {
         "en-US": "[Bernagand]\nWe have another new believer among us. Let us welcome them.",
         "pt-BR": "[Bernagand]\nParece que temos mais um novo fiel. Vamos lhe dar as boas-vindas.",
-        "es-ES": "[Bernagand]\nParece que tenemos un nuevo creyente. Démosle la bienvenida."
+        "es-ES": "[Bernagand]\nTenemos un nuevo creyente entre nosotros. Démosle la bienvenida."
     },
     "OpoSDg": {
         "en-US": "Welcome!",
@@ -777,7 +777,7 @@
     "O5oSDg": {
         "en-US": "Take a seat anywhere.",
         "pt-BR": "Sente-se onde quiser.",
-        "es-ES": "Siéntate donde puedas."
+        "es-ES": "Siéntate donde quieras."
     },
     "PJoSDg": {
         "en-US": "..",
@@ -787,27 +787,27 @@
     "PZoSDg": {
         "en-US": "[Bernagand]\nNow, now. Quiet again.\nI was about to wrap up today's sermon, but since a priest has joined us, let us talk a little longer.",
         "pt-BR": "[Bernagand]\nMuito bem, muito bem. Silêncio novamente.\nEu já estava pensando em encerrar o sermão de hoje, mas, como recebemos um sacerdote, vamos conversar só mais um pouco.",
-        "es-ES": "[Bernagand]\nBien, bien. Silencio otra vez.\nYa estaba por terminar el sermón de hoy, pero como hemos recibido a un sacerdote, hablaré un poco más."
+        "es-ES": "[Bernagand]\nBien, bien. Silencio otra vez.\nEstaba a punto de terminar el sermón de hoy, pero ya que se ha unido un sacerdote, hablemos un poco más."
     },
     "PpoSDg": {
         "en-US": "[Bernagand]\nShall we talk about Lord Rasgand... for the first time in a while?",
-        "pt-BR": "[Bernagand]\nQue tal falarmos sobre o senhor Rasgand... depois de tanto tempo?",
-        "es-ES": "[Bernagand]\nDespués de tanto tiempo... ¿qué tal si hablamos del señor Rasgand?"
+        "pt-BR": "[Bernagand]\nQue tal falarmos sobre o senhor Ragand... depois de tanto tempo?",
+        "es-ES": "[Bernagand]\n¿Qué les parece si hablamos de Lord Ragand... después de tanto tiempo?"
     },
     "P5oSDg": {
         "en-US": "[Bernagand]\nThough he rarely shows himself now because he is so busy, Lord Rasgand traveled throughout this frozen land to revive our Jormungand order.\nWherever even the slightest trace of God's grace remained, he freely scattered his blood to create new kin.",
-        "pt-BR": "[Bernagand]\nHoje em dia ele quase não aparece por estar ocupado, mas o senhor Rasgand percorreu todos os cantos desta terra gelada para revitalizar novamente a nossa ordem de Jormungand.\nEm qualquer lugar onde ainda restasse um pouco da graça divina, ele derramava seu sangue sem hesitar para criar novos membros da nossa espécie.",
-        "es-ES": "[Bernagand]\nAunque ahora está tan ocupado que rara vez se deja ver, el señor Rasgand recorrió todos los rincones de esta tierra helada para lograr el resurgimiento de nuestra orden de Jormungand.\nDondequiera que quedara aunque fuera un poco de gracia divina, derramó su sangre sin reservas para crear nuevos miembros de nuestra raza."
+        "pt-BR": "[Bernagand]\nHoje em dia ele quase não aparece por estar ocupado, mas o senhor Ragand percorreu todos os cantos desta terra gelada para revitalizar novamente a nossa ordem de Jormungand.\nEm qualquer lugar onde ainda restasse um pouco da graça divina, ele derramava seu sangue sem hesitar para criar novos membros da nossa espécie.",
+        "es-ES": "[Bernagand]\nAunque ahora rara vez se deja ver porque está muy ocupado, Lord Ragand recorrió toda esta tierra helada para revivir nuestra Orden de Jormungand.\nAllí donde quedara siquiera un pequeño rastro de la gracia divina, esparció su sangre para crear nuevos miembros de nuestra raza."
     },
     "QJoSDg": {
         "en-US": "[Bernagand]\nThe magic contained in the blood of Lord Rasgand, the last descendant of our ancestors, mingled with the magic of this land filled with God's grace, and new life began to take form.\nBut not everything went as intended. The first beings to emerge from the eggs were...",
-        "pt-BR": "[Bernagand]\nO poder mágico contido no sangue do senhor Rasgand, o último descendente de nossos ancestrais, misturou-se ao poder mágico desta terra repleta da graça divina, e novas vidas começaram a surgir.\nMas nem tudo saiu como desejávamos. Aqueles que nasceram dos primeiros ovos eram justamente...",
-        "es-ES": "[Bernagand]\nEl poder mágico contenido en la sangre del señor Rasgand, último descendiente de nuestros antepasados, se mezcló con el poder mágico de esta tierra colmada de gracia divina, y así comenzó a surgir nueva vida.\nPero no todo salió como se esperaba. Los primeros en salir de los huevos fueron precisamente..."
+        "pt-BR": "[Bernagand]\nO poder mágico contido no sangue do senhor Ragand, o último descendente de nossos ancestrais, misturou-se ao poder mágico desta terra repleta da graça divina, e novas vidas começaram a surgir.\nMas nem tudo saiu como desejávamos. Aqueles que nasceram dos primeiros ovos eram justamente...",
+        "es-ES": "[Bernagand]\nLa magia contenida en la sangre de Lord Ragand, el último descendiente de nuestros antepasados, se mezcló con la magia de esta tierra colmada de la gracia divina, y así comenzaron a tomar forma nuevas vidas.\nPero no todo salió como se esperaba. Los primeros seres que salieron de los huevos fueron..."
     },
     "QZoSDg": {
         "en-US": "[Bernagand]\nPrimitive Rgans who had not been chosen by God.",
-        "pt-BR": "[Bernagand]\nRegans Primitivos que não haviam sido escolhidos por Deus.",
-        "es-ES": "[Bernagand]\nRgan primitivos que no habían sido elegidos por dios."
+        "pt-BR": "[Bernagand]\nRgans Primitivos que não haviam sido escolhidos por Deus.",
+        "es-ES": "[Bernagand]\nRgan Primitivos que no habían sido elegidos por Dios."
     },
     "QpoSDg": {
         "en-US": "We repent...",
@@ -821,33 +821,33 @@
     },
     "RJoSDg": {
         "en-US": "[Bernagand]\nIt is said that Lord Rasgand, with a heavy heart, turned each and every one of them into a magic core.\nAnd after many long years passed... during that time, I too came to serve alongside Lord Rasgand...",
-        "pt-BR": "[Bernagand]\nDizem que o senhor Rasgand, com pesar, transformou cada um deles em um núcleo mágico.\nE muitos anos se passaram... Nesse meio-tempo, eu também passei a acompanhar o senhor Rasgand, mas...",
-        "es-ES": "[Bernagand]\nDicen que el señor Rasgand, con gran pesar, los convirtió uno por uno en núcleos mágicos.\nY tras el paso de muchos años... durante ese tiempo, yo también llegué a acompañar al señor Rasgand..."
+        "pt-BR": "[Bernagand]\nDizem que o senhor Ragand, com pesar, transformou cada um deles em um núcleo mágico.\nE muitos anos se passaram... Nesse meio-tempo, eu também passei a acompanhar o senhor Ragand, mas...",
+        "es-ES": "[Bernagand]\nDicen que el señor Ragand, con gran pesar, los convirtió uno por uno en núcleos mágicos.\nY tras el paso de muchos años... durante ese tiempo, yo también llegué a acompañar al señor Ragand..."
     },
     "RZoSDg": {
         "en-US": "[Bernagand]\nAs I repeated the work of scattering blood and gathering new kin for many years, a thought occurred to me.",
         "pt-BR": "[Bernagand]\nDepois de repetir por tanto tempo o ato de derramar sangue e acolher novos membros da nossa espécie, comecei a pensar em algo.",
-        "es-ES": "[Bernagand]\nDespués de repetir durante tanto tiempo la tarea de derramar sangre y recoger a nuevos miembros de nuestra raza, comencé a pensar algo."
+        "es-ES": "[Bernagand]\nMientras repetía durante muchos años la tarea de esparcir sangre y reunir nuevos miembros de nuestra raza, se me ocurrió algo."
     },
     "RpoSDg": {
         "en-US": "[Bernagand]\nAll of us Rgans today, regardless of rank, are both part of Lord Rasgand and his descendants.\nEven though we have neither parents nor children.",
-        "pt-BR": "[Bernagand]\nTodos nós, Regans de hoje, independentemente da classe, somos parte e descendentes do senhor Rasgand.\nMesmo sem termos pais nem filhos.",
-        "es-ES": "[Bernagand]\nLos Rgan de hoy, sin importar su rango, somos todos parte y descendencia del señor Rasgand.\nAunque no tengamos padres ni hijos."
+        "pt-BR": "[Bernagand]\nTodos nós, Rgans de hoje, independentemente da classe, somos parte e descendentes do senhor Ragand.\nMesmo sem termos pais nem filhos.",
+        "es-ES": "[Bernagand]\nTodos los Rgan actuales, sin importar su rango, somos parte de Lord Ragand y, al mismo tiempo, sus descendientes. Aunque no tengamos padres ni hijos."
     },
     "R5oSDg": {
         "en-US": "[Bernagand]\nThen why does each of us emerge so differently?\nI believe it may depend on... how strongly each of us strives to reach what we desire.",
         "pt-BR": "[Bernagand]\nMas por que será que cada um de nós acaba se tornando tão diferente?\nEu acredito que... isso depende do quanto cada um deseja alcançar aquilo que quer.",
-        "es-ES": "[Bernagand]\nPero ¿por qué cada uno de nosotros termina siendo tan diferente?\nCreo que... depende de cuánto deseemos alcanzar aquello que anhelamos."
+        "es-ES": "[Bernagand]\nPero ¿por qué cada uno de nosotros termina siendo tan diferente?\nCreo que... depende de cuánto deseemos aquello que anhelamos."
     },
     "SJoSDg": {
         "en-US": "[Bernagand]\nWe cannot know the pain Lord Rasgand has endured.\nAnd there is no way, for example, that even the priest who just joined us could know the things I went through long ago.",
-        "pt-BR": "[Bernagand]\nNão temos como saber o sofrimento pelo qual o senhor Rasgand passou.\nE, por exemplo, o sacerdote que acabou de chegar também não teria como conhecer os acontecimentos antigos pelos quais passei.",
-        "es-ES": "[Bernagand]\nNo podemos saber el dolor que sufrió el señor Rasgand.\nY, por ejemplo, el sacerdote que acaba de llegar tampoco puede conocer las antiguas experiencias que yo viví."
+        "pt-BR": "[Bernagand]\nNão temos como saber o sofrimento pelo qual o senhor Ragand passou.\nE, por exemplo, o sacerdote que acabou de chegar também não teria como conhecer os acontecimentos antigos pelos quais passei.",
+        "es-ES": "[Bernagand]\nNo podemos saber cuánto sufrimiento ha soportado Lord Ragand. Del mismo modo, ni siquiera el sacerdote que acaba de unirse a nosotros podría conocer, por ejemplo, las cosas que viví hace mucho tiempo."
     },
     "SZoSDg": {
         "en-US": "[Bernagand]\nLord Rasgand became immortal because of the Curse tied to the humans...\nBut if Lord Rasgand's strength were to fail before his revenge against the humans is complete, our race would be headed for ruin.",
-        "pt-BR": "[Bernagand]\nO senhor Rasgand tornou-se imortal por causa da Maldição ligada aos humanos, mas...\nSe as forças do senhor Rasgand se esgotarem antes mesmo de concluir sua vingança contra os humanos, nossa espécie acabará seguindo rumo à destruição.",
-        "es-ES": "[Bernagand]\nEl señor Rasgand se volvió inmortal debido a la Maldición relacionada con los humanos...\nPero si sus fuerzas llegaran a debilitarse antes de completar su venganza contra los humanos, nuestra raza se encaminaría hacia la destrucción."
+        "pt-BR": "[Bernagand]\nO senhor Ragand tornou-se imortal por causa da Maldição ligada aos humanos, mas...\nSe as forças do senhor Ragand se esgotarem antes mesmo de concluir sua vingança contra os humanos, nossa espécie acabará seguindo rumo à destruição.",
+        "es-ES": "[Bernagand]\nLord Ragand se volvió inmortal debido a la maldición relacionada con los humanos...\nPero si su fuerza llegara a flaquear antes de completar su venganza contra ellos, nuestra raza estaría condenada a la ruina."
     },
     "SpoSDg": {
         "en-US": "[Bernagand]\n...Revenge against the humans!",
@@ -866,13 +866,13 @@
     },
     "TZoSDg": {
         "en-US": "Long live Rasgand!",
-        "pt-BR": "Viva Rasgand!",
-        "es-ES": "¡Viva Rasgand!"
+        "pt-BR": "Viva Ragand!",
+        "es-ES": "¡Larga vida a Ragand!"
     },
     "TpoSDg": {
         "en-US": "[Bernagand]\nBefore it is too late... should we not regroup our strength?",
         "pt-BR": "[Bernagand]\nAntes que seja tarde demais... não precisamos reorganizar nossas forças?",
-        "es-ES": "[Bernagand]\nAntes de que sea demasiado tarde... ¿no deberíamos reorganizar nuestras fuerzas?"
+        "es-ES": "[Bernagand]\n Antes de que sea demasiado tarde... ¿no deberíamos reagrupar nuestras fuerzas?"
     },
     "T5oSDg": {
         "en-US": "[Bernagand]\nBefore it is too late...\nLet us all prepare.",
@@ -882,22 +882,22 @@
     "UJoSDg": {
         "en-US": "[Bernagand]\nThat will conclude today's sermon.\nMay you all have a peaceful time.",
         "pt-BR": "[Bernagand]\nVamos encerrar o sermão de hoje por aqui.\nDesejo a todos um momento de tranquilidade.",
-        "es-ES": "[Bernagand]\nCon esto daremos por terminado el sermón de hoy.\nQue todos tengan un momento de tranquilidad."
+        "es-ES": "[Bernagand]\nCon esto damos por terminado el sermón de hoy.\nEspero que todos disfruten de un momento de paz."
     },
     "UZoSDg": {
         "en-US": "Ahh, it's finally over~",
-        "pt-BR": "Ufa, acabou~",
-        "es-ES": "Ay, por fin terminó~"
+        "pt-BR": "Ufa, acabou...",
+        "es-ES": "Ay, por fin terminó."
     },
     "UpoSDg": {
         "en-US": "Time to get back to work...",
         "pt-BR": "Preciso voltar ao trabalho...",
-        "es-ES": "Será mejor ir a trabajar..."
+        "es-ES": "Hora de volver al trabajo..."
     },
     "U5oSDg": {
         "en-US": "[Yuramigand]\nCould I have a word with you for a moment?",
         "pt-BR": "[Yuramigand]\nVenha falar comigo por um instante.",
-        "es-ES": "[Yuramigand]\nVen a verme un momento."
+        "es-ES": "[Yuramigand]\n¿Podría hablar contigo un momento?"
     },
     "VJoSDg": {
         "en-US": "Shh. Don't look this way.",
@@ -907,7 +907,7 @@
     "VZoSDg": {
         "en-US": "[Bernagand]\nToday's sermon is over.\nI hope to see you again, new priest.",
         "pt-BR": "[Bernagand]\nO sermão de hoje terminou.\nAté a próxima, novo sacerdote.",
-        "es-ES": "[Bernagand]\nEl sermón de hoy ha terminado.\nNos veremos de nuevo, nuevo sacerdote."
+        "es-ES": "[Bernagand]\nEl sermón de hoy ha terminado.\nEspero volver a verte, nuevo sacerdote."
     },
     "VpoSDg": {
         "en-US": "Handimarigand",
@@ -916,13 +916,13 @@
     },
     "V5oSDg": {
         "en-US": "[Superior Rgan]\nA human! There's a human here!",
-        "pt-BR": "[Regan Superior]\nÉ um humano! Apareceu um humano!",
-        "es-ES": "[Regan superior]\n¡Es un humano! ¡Apareció un humano!"
+        "pt-BR": "[Rgan Superior]\nÉ um humano! Apareceu um humano!",
+        "es-ES": "[Rgan Superior]\n¡Un humano! ¡Hay un humano aquí!"
     },
     "WJoSDg": {
         "en-US": "[Handimarigand]\nThat's what I call a clear and easy-to-follow sermon.",
         "pt-BR": "[Handimarigand]\nÉ um sermão tão fácil de entender.",
-        "es-ES": "[Handimarigand]\nEs un sermón amable y muy fácil de entender."
+        "es-ES": "[Handimarigand]\nA eso lo llamo un sermón claro y fácil de entender."
     },
     "WZoSDg": {
         "en-US": "Rakanorgand",
@@ -932,7 +932,7 @@
     "WpoSDg": {
         "en-US": "[Rakanorgand]\nFollow the teachings of God...",
         "pt-BR": "[Rakanorgand]\nSiga os ensinamentos de Deus...",
-        "es-ES": "[Rakanorgand]\nSigue las enseñanzas de dios..."
+        "es-ES": "[Rakanorgand]\nSigue las enseñanzas de Lord..."
     },
     "W5oSDg": {
         "en-US": "Eolnaguseudagand",
@@ -967,17 +967,17 @@
     "YZoSDg": {
         "en-US": "[Yuramigand]\n...\nI know it must have been a lot to take in, hearing all that right after you were born.\nBut you don't need to take it to heart.",
         "pt-BR": "[Yuramigand]\n...\nEu sei que ouvir algo assim logo depois de nascer pode ser forte demais.\nMas você não precisa levar isso a sério.",
-        "es-ES": "[Yuramigand]\n...\nEntiendo que escuchar algo así apenas nacer puede resultar bastante impactante.\nPero no hace falta que te lo tomes tan en serio."
+        "es-ES": "[Yuramigand]\n...\nSé que debe de haber sido mucho que asimilar, escuchar todo eso justo después de nacer.\nPero no hace falta que te lo tomes tan a pecho."
     },
     "YpoSDg": {
         "en-US": "[Yuramigand]\nThere's no knowing what Bernagand is really plotting.\nHe may talk like that, but it's not even clear whether he's truly acting for Lord Rasgand's sake.",
-        "pt-BR": "[Yuramigand]\nNão dá para saber o que Bernagand está tramando.\nEle fala daquele jeito, mas nem dá para ter certeza de que realmente está agindo pelo senhor Rasgand.",
-        "es-ES": "[Yuramigand]\nPorque no sabemos cuáles son las verdaderas intenciones de Bernagand.\nAunque hable así, tampoco está claro si de verdad actúa por el bien del señor Rasgand."
+        "pt-BR": "[Yuramigand]\nNão dá para saber o que Bernagand está tramando.\nEle fala daquele jeito, mas nem dá para ter certeza de que realmente está agindo pelo senhor Ragand.",
+        "es-ES": "[Yuramigand]\nNo hay forma de saber qué tramas tiene realmente Bernagand.\nPuede hablar de esa manera, pero ni siquiera está claro si de verdad actúa en favor de Lord Ragand."
     },
     "Y5oSDg": {
         "en-US": "[Yuramigand]\nDo you understand?",
         "pt-BR": "[Yuramigand]\nEntendeu?",
-        "es-ES": "[Yuramigand]\n¿Entendido?"
+        "es-ES": "[Yuramigand]\n¿Lo entiendes?"
     },
     "ZJoSDg": {
         "en-US": "Yes",
@@ -987,12 +987,12 @@
     "ZZoSDg": {
         "en-US": "I don't understand.",
         "pt-BR": "Não sei.",
-        "es-ES": "No lo sé"
+        "es-ES": "No lo entiendo."
     },
     "ZpoSDg": {
         "en-US": "[Yuramigand]\n...Time will tell.\nDon't get too close to Bernagand.\nLord Rasgand doesn't look kindly on it.",
-        "pt-BR": "[Yuramigand]\n...O tempo vai revelar.\nNão fique próximo demais de Bernagand.\nO senhor Rasgand não vê isso com bons olhos.",
-        "es-ES": "[Yuramigand]\n...El tiempo lo dirá.\nNo te acerques demasiado a Bernagand.\nAl señor Rasgand no le agrada."
+        "pt-BR": "[Yuramigand]\n...O tempo vai revelar.\nNão fique próximo demais de Bernagand.\nO senhor Ragand não vê isso com bons olhos.",
+        "es-ES": "[Yuramigand]\n...El tiempo lo dirá.\nNo te acerques demasiado a Bernagand.\nA Lord Ragand no le agrada."
     },
     "Z5oSDg": {
         "en-US": "Is that true?",
@@ -1007,17 +1007,17 @@
     "aZoSDg": {
         "en-US": "[Yuramigand]\n...Though at this point, I don't know who he trusted.",
         "pt-BR": "[Yuramigand]\n...Agora já não sei em quem ele confiava.",
-        "es-ES": "[Yuramigand]\n...Aunque a estas alturas ya no sé en quién confiaba."
+        "es-ES": "[Yuramigand]\n...Aunque, a estas alturas, ya no sé en quién confiaba."
     },
     "apoSDg": {
         "en-US": "[Yuramigand]\nStill, Bernagand's loyalty to Lord Rasgand is genuine.",
-        "pt-BR": "[Yuramigand]\nMas a lealdade de Bernagand ao senhor Rasgand é verdadeira.",
-        "es-ES": "[Yuramigand]\nPero la lealtad de Bernagand hacia el señor Rasgand sí es auténtica."
+        "pt-BR": "[Yuramigand]\nMas a lealdade de Bernagand ao senhor Ragand é verdadeira.",
+        "es-ES": "[Yuramigand]\nAun así, la lealtad de Bernagand hacia Lord Ragand es sincera."
     },
     "a5oSDg": {
         "en-US": "[Yuramigand]\n...Seriously. Just like Aleigand said, why are we all so different when we were all born from Lord Rasgand's blood?",
-        "pt-BR": "[Yuramigand]\n...Pois é. Como Alleigand disse, por que somos todos tão diferentes, se todos nascemos do sangue do senhor Rasgand?",
-        "es-ES": "[Yuramigand]\n...Vaya. Como dijo Aleigand, ¿por qué somos tan diferentes si todos nacimos de la sangre del señor Rasgand?"
+        "pt-BR": "[Yuramigand]\n...Pois é. Como Alleigand disse, por que somos todos tão diferentes, se todos nascemos do sangue do senhor Ragand?",
+        "es-ES": "[Yuramigand]\n...En serio. Tal como dijo Aleigand, ¿por qué somos tan diferentes si todos nacimos de la sangre de Lord Ragand?"
     },
     "bJoSDg": {
         "en-US": "[Yuramigand]\nBe careful not to become someone's target.",
@@ -1027,22 +1027,22 @@
     "bZoSDg": {
         "en-US": "Sidrgand",
         "pt-BR": "Sidrugand",
-        "es-ES": "Sidreugand"
+        "es-ES": "Sirgad"
     },
     "bpoSDg": {
         "en-US": "[Sidrgand]\nOh my!\nI've never seen you before!\nOh~ look at those scales. They're all shiny and gleaming~\nI haven't seen many this clean before~",
-        "pt-BR": "[Sidrugand]\nOra, ora!\nNunca vi você antes!\nNossa~ olha essas escamas. Estão brilhando tanto~\nFaz tempo que não vejo alguém tão limpinho assim~",
-        "es-ES": "[Sidreugand]\n¡Vaya, vaya!\n¡No te había visto antes!\nAy~ mira esas escamas. Brillan muchísimo~\nNo suelo ver a alguien tan limpio como tú~"
+        "pt-BR": "[Sidrugand]\nOra, ora!\nNunca vi você antes!\nNossa... olha essas escamas. Estão brilhando tanto!\nFaz tempo que não vejo alguém tão limpinho assim!",
+        "es-ES": "[Sidrgand]\n¡Vaya, vaya!\n¡No te había visto antes!\nAy. Mira esas escamas. Brillan muchísimo.\nNo suelo ver a alguien tan limpio como tú..."
     },
     "b5oSDg": {
         "en-US": "[Sidrgand]\nI like you.\nYou're not from the hatchery, are you?\nI haven't seen any decent eggs when I've gone outside lately~\nAnd then someone this glossy suddenly pops up~",
-        "pt-BR": "[Sidrugand]\nGostei de você.\nVocê não veio do incubatório, não é?\nFaz um tempo que, quando saio, não vejo nenhum ovo decente por aí~\nE de repente aparece alguém tão lustroso assim~",
-        "es-ES": "[Sidreugand]\nMe agradas.\nNo saliste del criadero, ¿verdad?\nÚltimamente, cuando salía afuera, no había visto ningún huevo decente~\nY de repente apareces tú, tan reluciente~"
+        "pt-BR": "[Sidrugand]\nGostei de você.\nVocê não veio do incubatório, não é?\nFaz um tempo que, quando saio, não vejo nenhum ovo decente por aí...\nE de repente aparece alguém tão lustroso assim!",
+        "es-ES": "[Sidrgand]\nMe caes bien.\nNo vienes del criadero, ¿verdad?\nÚltimamente, cuando salgo, no encuentro huevos que valgan la pena.\n¡Y de repente aparece alguien tan reluciente como tú!"
     },
     "cJoSDg": {
         "en-US": "[Sidrgand]\nGuess I still have a long way to go when it comes to judging these things~\nI'm Sidrgand.",
-        "pt-BR": "[Sidrugand]\nAinda tenho muito que aprender sobre avaliar os outros~\nEu sou Sidrugand.",
-        "es-ES": "[Sidreugand]\nAún me falta mucho para tener buen ojo~\nSoy Sidreugand."
+        "pt-BR": "[Sidrugand]\nAinda tenho muito que aprender sobre avaliar os outros!\nEu sou Sidrugand.",
+        "es-ES": "[Sidrgand]\nTodavía me falta mucho para aprender a juzgar estas cosas.\nSoy Sidrgand."
     },
     "cZoSDg": {
         "en-US": "[{0}]\nI'm Senekiogand.",
@@ -1052,32 +1052,32 @@
     "cpoSDg": {
         "en-US": "[Sidrgand]\nCould you give me some of your scales?",
         "pt-BR": "[Sidrugand]\nSerá que você pode me dar algumas escamas?",
-        "es-ES": "[Sidreugand]\n¿No podrías darme unas escamas?"
+        "es-ES": "[Sidrgand]\n¿No podrías darme unas escamas?"
     },
     "c5oSDg": {
         "en-US": "[{0}]\nWhat??",
-        "pt-BR": "[{0}]\nO quê??",
-        "es-ES": "[{0}]\n¿¿Qué??"
+        "pt-BR": "[{0}]\nO quê?",
+        "es-ES": "[{0}]\n¿¡Qué!?"
     },
     "dJoSDg": {
         "en-US": "[Sidrgand]\nDon't worry, priest.\nI may outrank you, but that doesn't mean I'm going to force you into anything...\nOh, what about your blood?",
         "pt-BR": "[Sidrugand]\nNão se preocupe, sacerdote.\nMinha classe é alta, mas isso não quer dizer que eu vá fazer qualquer coisa com você...\nAh, e o seu sangue?",
-        "es-ES": "[Sidreugand]\nNo te preocupes, sacerdote.\nAunque tenga un rango alto, tampoco es que vaya a hacerte algo sin más...\nAh, ¿y qué tal tu sangre?"
+        "es-ES": "[Sidrgand]\nNo te preocupes, sacerdote.\nPuede que tenga un rango superior al tuyo, pero eso no significa que vaya a obligarte a hacer nada...\nAh, ¿qué tal un poco de tu sangre?"
     },
     "dZoSDg": {
         "en-US": "[Sidrgand]\nNo...? Then it can't be helped.\nYou'll molt eventually anyway... right? What about the shed skin then?",
         "pt-BR": "[Sidrugand]\nNão pode...? Então não tem jeito.\nVocê vai trocar de pele de qualquer forma... não vai? E a pele que sobrar nessa hora?",
-        "es-ES": "[Sidreugand]\n¿No se puede...? Bueno, no hay nada que hacer.\nDe todos modos vas a mudar la piel... ¿verdad? ¿Qué tal si me das el caparazón de entonces?"
+        "es-ES": "[Sidrgand]\n¿No...? Bueno, qué se le va a hacer.\nDe todos modos, acabarás mudando la piel... ¿verdad? ¿Y qué tal si me das la piel que se te caiga?"
     },
     "dpoSDg": {
         "en-US": "[Sidrgand]\nOh... don't make such an obviously disgusted face.\nYou're cute, but you're wrinkling your brow.",
         "pt-BR": "[Sidrugand]\nNossa... não faça uma cara tão obviamente contrariada.\nVocê é tão fofo, mas vai acabar ficando com rugas entre as sobrancelhas.",
-        "es-ES": "[Sidreugand]\nAy... no pongas una cara de rechazo tan evidente.\nEres adorable, pero se te arruga el entrecejo."
+        "es-ES": "[Sidrgand]\nAy... No pongas una cara de asco tan evidente.\nEres adorable, pero mira cómo frunces el ceño."
     },
     "d5oSDg": {
         "en-US": "[Sidrgand]\nNot falling for it, huh~.",
-        "pt-BR": "[Sidrugand]\nNão caiu nessa, hein~.",
-        "es-ES": "[Sidreugand]\nNo caes, ¿eh?~"
+        "pt-BR": "[Sidrugand]\nNão caiu nessa, hein...",
+        "es-ES": "[Sidrgand]\nVaya, no te dejas convencer..."
     },
     "eJoSDg": {
         "en-US": "Ask if they've ever gotten what they wanted.",
@@ -1087,82 +1087,82 @@
     "eZoSDg": {
         "en-US": "[{0}]\n...Has anyone...\n...ever given you... their scales?",
         "pt-BR": "[{0}]\n...Algum...\n...dos nossos... já deu escamas para você?",
-        "es-ES": "[{0}]\n...¿Alguno de los nuestros...\n...te dio... escamas?"
+        "es-ES": "[{0}]\n...¿Ha habido alguien...\n...que te haya dado... sus escamas?"
     },
     "epoSDg": {
         "en-US": "[Sidrgand]\nNope!\nOh, come on, you can't ask me that!",
         "pt-BR": "[Sidrugand]\nClaro que não!\nAh, não vale perguntar isso!",
-        "es-ES": "[Sidreugand]\n¡No!\nAy, ¿cómo se te ocurre preguntar eso?"
+        "es-ES": "[Sidrgand]\n¡No!\nAy, ¿cómo se te ocurre preguntar eso?"
     },
     "e5oSDg": {
         "en-US": "[Sidrgand]\nEven when I offered to trade them for my own scales, they said no!",
         "pt-BR": "[Sidrugand]\nEu até ofereci trocar pelas minhas escamas, mas mesmo assim disseram que não!",
-        "es-ES": "[Sidreugand]\n¡Hasta les dije que se las cambiaría por mis escamas, pero tampoco quisieron!"
+        "es-ES": "[Sidrgand]\n¡Incluso les ofrecí intercambiarlas por mis propias escamas, pero se negaron!"
     },
     "fJoSDg": {
         "en-US": "[{0}]\n(Of course they did...)",
         "pt-BR": "[{0}]\n(É claro que não iam querer...)",
-        "es-ES": "[{0}]\n(Claro que no querrían...)"
+        "es-ES": "[{0}]\n(Por supuesto que se negarían...)"
     },
     "fZoSDg": {
         "en-US": "[Sidrgand]\nI haven't been in this world for very long either.\nAnyway, it really does seem like our race is in a very disadvantageous position!",
         "pt-BR": "[Sidrugand]\nEu também não faz muito tempo que vim ao mundo.\nDe qualquer forma, parece verdade que nossa espécie está em uma situação muito desfavorável!",
-        "es-ES": "[Sidreugand]\nAunque no hace mucho que llegué a este mundo.\nDe todos modos, ¡parece que nuestra especie está en una situación muy desfavorable!"
+        "es-ES": "[Sidrgand]\nYo tampoco llevo mucho tiempo en este mundo.\nEn fin, ¡parece que nuestra raza está en una posición muy desfavorable!"
     },
     "fpoSDg": {
         "en-US": "[Sidrgand]\nIt's kind of funny telling you this when you look like you were just born too.\nHiss hiss...",
         "pt-BR": "[Sidrugand]\nÉ até engraçado eu falar disso com você, que também parece ter acabado de nascer.\nShhh, shhh...",
-        "es-ES": "[Sidreugand]\nAunque es un poco gracioso que te diga esto a ti, que también pareces haber nacido hace poco.\nSssrrr, sssrrr..."
+        "es-ES": "[Sidrgand]\nAunque es un poco gracioso que te diga esto a ti, que también pareces haber nacido hace poco.\nSss, sss..."
     },
     "f5oSDg": {
         "en-US": "A snake-like hissing sound comes from his mouth.\nApparently, that's his way of laughing.",
         "pt-BR": "Da boca dele sai um som que lembra uma cobra rastejando.\nParece que, à sua maneira, ele está rindo.",
-        "es-ES": "De su boca sale un sonido parecido al de una serpiente arrastrándose.\nParece que, a su manera, se está riendo."
+        "es-ES": "De su boca sale un sonido parecido al de una serpiente deslizándose.\nAl parecer, esa es su forma de reírse."
     },
     "gJoSDg": {
         "en-US": "[Sidrgand]\nYou'll understand once you go outside too. It's cold!\nIsn't it amazing to plot revenge in such a harsh place?",
         "pt-BR": "[Sidrugand]\nVocê vai entender quando sair, mas é frio!\nNão é incrível pensar em vingança num lugar tão árido assim?",
-        "es-ES": "[Sidreugand]\nLo entenderás cuando salgas afuera. ¡Hace frío!\n¿No te parece increíble que estemos planeando nuestra venganza en un lugar tan inhóspito?"
+        "es-ES": "[Sidrgand]\nLo entenderás cuando salgas también. ¡Hace frío!\n¿No es increíble que intentemos tramar una venganza en un lugar tan inhóspito?"
     },
     "gZoSDg": {
         "en-US": "[Sidrgand]\nIf that's the case, we should try everything we can!\nBuild up my influence... gain more supporters...\nYou! Yeah, you. Want to work under me?",
         "pt-BR": "[Sidrugand]\nEntão temos que tentar tudo o que pudermos!\nAumentar minhas forças... aumentar o número de apoiadores...\nVocê! Você aí, não quer ficar sob meu comando?",
-        "es-ES": "[Sidreugand]\n¡Entonces tenemos que intentar todo lo que podamos!\nAumentar mis fuerzas... conseguir más simpatizantes...\n¡Tú! Sí, tú, ¿no quieres unirte a mí?"
+        "es-ES": "[Sidrgand]\n¡Entonces tenemos que intentar todo lo que podamos!\nAumentar mis fuerzas... conseguir más simpatizantes...\n¡Tú! Sí, tú, ¿no quieres unirte a mí?"
     },
     "gpoSDg": {
         "en-US": "[Sidrgand]\nWhenever I try to do anything with those old-timers, all they ever say is to wait, and they won't give me scales or blood...\nHow are we supposed to make any progress like that?!",
         "pt-BR": "[Sidrugand]\nQuando tento fazer alguma coisa com os velhos, eles só mandam esperar, não dão escamas nem sangue...\nComo é que vamos evoluir desse jeito?!",
-        "es-ES": "[Sidreugand]\nCada vez que intento hacer algo con los viejos, solo dicen que espere, y no me dan escamas ni sangre...\n¡¿Cómo se supone que vamos a progresar así?!"
+        "es-ES": "[Sidrgand]\nCada vez que intento hacer algo con esos viejos, no hacen más que decirme que espere, y ni siquiera quieren darme escamas ni sangre...\n¡¿Cómo se supone que vamos a progresar así?!"
     },
     "g5oSDg": {
         "en-US": "[Sidrgand]\nWell, those old-timers left with Lord Rasgand anyway!",
-        "pt-BR": "[Sidrugand]\nBem, aqueles velhos acabaram indo embora com o senhor Rasgand!",
-        "es-ES": "[Sidreugand]\nBueno, aunque esos viejos ya se fueron junto con el señor Rasgand."
+        "pt-BR": "[Sidrugand]\nBem, aqueles velhos acabaram indo embora com o senhor Ragand!",
+        "es-ES": "[Sidrgand]\nBueno, ¡esos viejos se fueron con Lord Ragand de todos modos!"
     },
     "hJoSDg": {
         "en-US": "[Sidrgand]\nDon't you have any scales that fell off?",
         "pt-BR": "[Sidrugand]\nNão caiu nenhuma escama?",
-        "es-ES": "[Sidreugand]\n¿No tienes ninguna escama que se te haya caído?"
+        "es-ES": "[Sidrgand]\n¿No tienes escamas que se te hayan caído?"
     },
     "hZoSDg": {
         "en-US": "Nope!",
         "pt-BR": "Não!",
-        "es-ES": "¡No tengo!"
+        "es-ES": "¡No!"
     },
     "hpoSDg": {
         "en-US": "[{0}]\n...Nope!",
         "pt-BR": "[{0}]\n...Não!",
-        "es-ES": "[{0}]\n...¡No tengo!"
+        "es-ES": "[{0}]\n...¡No!"
     },
     "h5oSDg": {
         "en-US": "[Sidrgand]\nYour scales may be nice and shiny, but you're no help at all.\nThen go outside, think of it as sightseeing, and try taking down Primitive Rgan 20 of them.",
-        "pt-BR": "[Sidrugand]\nSuas escamas são bonitas, mas você não ajuda em nada.\nEntão saia como se fosse dar uma volta e tente derrotar Regan Primitivo 20.",
-        "es-ES": "[Sidreugand]\nTus escamas estarán muy brillantes, pero no sirven de nada.\nEntonces sal a dar una vuelta y derrota a Regan primitivo 20 veces."
+        "pt-BR": "[Sidrugand]\nSuas escamas são bonitas, mas você não ajuda em nada.\nEntão saia como se fosse dar uma volta e tente derrotar Rgan Primitivo 20.",
+        "es-ES": "[Sidrgand]\nTienes las escamas bonitas y relucientes, pero no sirves de nada.\nEntonces, sal a dar una vuelta, como si fueras de paseo, y prueba a derrotar a 20 Rgan Primitivo."
     },
     "iJoSDg": {
         "en-US": "[Sidrgand]\nAnd I'd like you to tell me what you thought afterward.\nHiss hiss...",
         "pt-BR": "[Sidrugand]\nE depois quero que me conte o que achou.\nShhh, shhh...",
-        "es-ES": "[Sidreugand]\nY luego quiero que me cuentes qué te pareció.\nSssrrr, sssrrr..."
+        "es-ES": "[Sidrgand]\nY luego quiero que me cuentes qué te pareció.\nSss, sss..."
     },
     "iZoSDg": {
         "en-US": "Accept.",
@@ -1172,42 +1172,42 @@
     "ipoSDg": {
         "en-US": "Nope!",
         "pt-BR": "Não quero!",
-        "es-ES": "¡No quiero!"
+        "es-ES": "¡No!"
     },
     "i5oSDg": {
         "en-US": "[Sidrgand]\nYeah, it'll be better than having those old-timers boss you around and nag you all the time!\nBe careful!",
         "pt-BR": "[Sidrugand]\nIsso, para você também vai ser melhor do que ficar ouvindo os velhos mandarem fazer isso e aquilo!\nTome cuidado!",
-        "es-ES": "[Sidreugand]\nSí, ¡seguro que esto es mejor que aguantar a los viejos diciéndote qué hacer todo el tiempo!\n¡Ten cuidado!"
+        "es-ES": "[Sidrgand]\nSí, ¡seguro que esto es mejor que aguantar a los viejos diciéndote qué hacer todo el tiempo!\n¡Ten cuidado!"
     },
     "jJoSDg": {
         "en-US": "[{0}]\n...Nope!",
         "pt-BR": "[{0}]\n...Não quero!",
-        "es-ES": "[{0}]\n...¡No quiero!"
+        "es-ES": "[{0}]\n...¡No!"
     },
     "jZoSDg": {
         "en-US": "[Sidrgand]\nCan't be helped!\nHmph, hmph!\nThen... at least your scales...\n...Hey, where are you going?\nHey!",
         "pt-BR": "[Sidrugand]\nEntão não tem jeito!\nHmph, hmph!\nEntão... pelo menos uma escama...\n...Ei, aonde você vai?\nEi!",
-        "es-ES": "[Sidreugand]\n¡No hay remedio!\n¡Bah, bah!\nEntonces... al menos una escama...\n...Oye, ¿adónde vas?\n¡Oye!"
+        "es-ES": "[Sidrgand]\n¡Qué se le va a hacer!\n¡Bah, bah!\nEntonces... al menos tus escamas...\n...Oye, ¿adónde vas?\n¡Oye!"
     },
     "jpoSDg": {
         "en-US": "[Sidrgand]\nI want you to defeat ^0000FFPrimitive Rgan^000000 20 of them and tell me what you think about the differences between you and them.",
-        "pt-BR": "[Sidrugand]\nQuero que derrote ^0000FFRegan Primitivo^000000 20 e depois me conte o que achou das diferenças entre eles e você.",
-        "es-ES": "[Sidreugand]\nQuiero que derrotes a ^0000FFRegan primitivo^000000 20 veces y me cuentes qué diferencias notaste entre ellos y tú."
+        "pt-BR": "[Sidrugand]\nQuero que derrote ^0000FFRgan Primitivo^000000 20 e depois me conte o que achou das diferenças entre eles e você.",
+        "es-ES": "[Sidrgand]\nQuiero que derrotes a 20 ^0000FFRgan Primitivos^000000 y me cuentes qué opinas de las diferencias entre ellos y tú."
     },
     "j5oSDg": {
         "en-US": "[Sidrgand]\nOh, you're back?",
         "pt-BR": "[Sidrugand]\nAh, voltou?",
-        "es-ES": "[Sidreugand]\nAh, ¿volviste?"
+        "es-ES": "[Sidrgand]\nAh, ¿volviste?"
     },
     "kJoSDg": {
         "en-US": "[Sidrgand]\nOne of the old-timers once told me that there are plenty of animals in nature that kill their own kind.\nNeither I nor that old-timer has ever been outside this frozen continent, so I don't really know...\nBut apparently humans are the same.",
         "pt-BR": "[Sidrugand]\nUm dos velhos já me contou que, na natureza, existem muitos animais que matam membros da própria espécie.\nNem eu nem os velhos já saímos deste continente gelado, então não sei direito, mas...\ndizem que os humanos também são assim.",
-        "es-ES": "[Sidreugand]\nUna vez uno de los viejos me contó que en la naturaleza hay muchos animales que matan a otros de su misma especie.\nNi yo ni los viejos hemos salido nunca de este continente helado, así que no lo sé muy bien...\nPero dicen que los humanos son iguales."
+        "es-ES": "[Sidrgand]\nUno de esos viejos me contó una vez que en la naturaleza hay muchos animales que matan a los de su propia especie.\nNi ese viejo ni yo hemos salido nunca de este continente helado, así que no lo sé con certeza...\nPero, por lo visto, los humanos son iguales."
     },
     "kZoSDg": {
         "en-US": "[Sidrgand]\nMaybe that's just how it is? Resources have to be used carefully, after all.\nSo, did you try taking down Primitive Rgan?\nDid they feel like your own kind?",
-        "pt-BR": "[Sidrugand]\nTalvez seja simplesmente assim, não acha? Afinal, é preciso economizar recursos.\nEntão, já tentou derrotar Regan Primitivo?\nPareceram da mesma espécie que você?",
-        "es-ES": "[Sidreugand]\n¿No será simplemente así? Hay que ahorrar recursos.\nEntonces, ¿ya cazaste a Regan primitivo?\n¿Sentiste que eran de tu misma especie?"
+        "pt-BR": "[Sidrugand]\nTalvez seja simplesmente assim, não acha? Afinal, é preciso economizar recursos.\nEntão, já tentou derrotar Rgan Primitivo?\nPareceram da mesma espécie que você?",
+        "es-ES": "[Sidrgand]\n¿No será simplemente así? Hay que administrar bien los recursos.\nEntonces, ¿ya cazaste a Rgan Primitivo?\n¿Sentiste que eran de tu misma especie?"
     },
     "kpoSDg": {
         "en-US": "[{0}]\n...Not really.",
@@ -1217,42 +1217,42 @@
     "k5oSDg": {
         "en-US": "[Sidrgand]\nRight? I felt the same way.\nAnd if all that's left when we disappear are tiny magic stones, why are we even born in the first place?\nThink that old guy Bernagand preaching doctrine over there would tell us if we asked?",
         "pt-BR": "[Sidrugand]\nNão é? Eu também senti isso.\nE, quando desaparecemos assim, tudo o que resta são pequenas pedras mágicas. Então, afinal, por que nós nascemos?\nSerá que aquele velho chamado Bernagand, que fica pregando a doutrina ali, saberia explicar?",
-        "es-ES": "[Sidreugand]\n¿Verdad? A mí me pasó lo mismo.\nY pensar que, cuando desaparecen así, solo quedan unas pequeñas piedras mágicas... ¿Para qué nacemos, entonces?\n¿Crees que ese viejo llamado Bernagand, que anda predicando su doctrina por allá, sabrá explicarlo?"
+        "es-ES": "[Sidrgand]\n¿Verdad? A mí me pasó lo mismo.\nY pensar que, cuando desaparecen así, solo quedan unas pequeñas piedras mágicas... ¿Para qué nacemos, entonces?\n¿Crees que ese viejo llamado Bernagand, que anda predicando su doctrina por allá, sabrá explicarlo?"
     },
     "lJoSDg": {
         "en-US": "[Sidrgand]\nSee you again tomorrow!\nTomorrow, let's keep getting closer for the sake of our faction.",
         "pt-BR": "[Sidrugand]\nAté amanhã!\nAmanhã vamos fortalecer nossos laços de novo, pelo bem das nossas forças.",
-        "es-ES": "[Sidreugand]\n¡Nos vemos mañana!\nMañana también tratemos de llevarnos mejor por el bien de nuestras fuerzas."
+        "es-ES": "[Sidrgand]\n¡Nos vemos mañana!\nMañana también tratemos de llevarnos mejor por el bien de nuestras fuerzas."
     },
     "lZoSDg": {
         "en-US": "[Sidrgand]\nGot any teeth that fell out?\nWhat about scales?\n...None?",
         "pt-BR": "[Sidrugand]\nPor acaso caiu algum dente seu?\nE alguma escama?\n...Não?",
-        "es-ES": "[Sidreugand]\n¿Se te cayó algún diente?\n¿Y alguna escama?\n...¿No?"
+        "es-ES": "[Sidrgand]\n¿Se te cayó algún diente?\n¿Y alguna escama?\n...¿No?"
     },
     "lpoSDg": {
         "en-US": "[Sidrgand]\nThen how about ^0000FFPrimitive Rgan^000000 20 of them?",
-        "pt-BR": "[Sidrugand]\nEntão que tal ^0000FFRegan Primitivo^000000 20?",
-        "es-ES": "[Sidreugand]\nEntonces, ¿qué tal ^0000FFRegan primitivo^000000 20 veces?"
+        "pt-BR": "[Sidrugand]\nEntão que tal ^0000FFRgan Primitivo^000000 20?",
+        "es-ES": "[Sidrgand]\nEntonces, ¿qué tal 20 ^0000FFRgan Primitivo^000000?"
     },
     "l5oSDg": {
         "en-US": "[Sidrgand]\nGot something to do?\nPlanning to go join someone else?\nDon't do that, just team up with me, okay?\nHey, hey!\nDon't go! Play with me!",
         "pt-BR": "[Sidrugand]\nVocê tem algo para fazer?\nVai se juntar a outro grupo?\nEm vez disso, fique do meu lado, vai?\nEi, ei!\nNão vá embora! Brinque comigo!",
-        "es-ES": "[Sidreugand]\n¿Tienes algo que hacer?\n¿Vas a irte con alguien más?\nNo hagas eso, mejor únete a mí, ¿sí?\n¡Oye, oye!\n¡No te vayas! ¡Juega conmigo!"
+        "es-ES": "[Sidrgand]\n¿Tienes algo que hacer?\n¿Vas a irte con alguien más?\nNo hagas eso, mejor únete a mí, ¿sí?\n¡Oye, oye!\n¡No te vayas! ¡Juega conmigo!"
     },
     "mJoSDg": {
         "en-US": "[Sidrgand]\nGo outside there and\ndefeat ^0000FFPrimitive Rgan^000000 20 of them.",
-        "pt-BR": "[Sidrugand]\nSaia por ali\ne derrote ^0000FFRegan Primitivo^000000 20.",
-        "es-ES": "[Sidreugand]\nSal ahí afuera\ny derrota a ^0000FFRegan primitivo^000000 20 veces."
+        "pt-BR": "[Sidrugand]\nSaia por ali\ne derrote ^0000FFRgan Primitivo^000000 20.",
+        "es-ES": "[Sidrgand]\nVe ahí afuera y\nderrota a 20 ^0000FFRgan Primitivos^000000."
     },
     "mZoSDg": {
         "en-US": "[Sidrgand]\nThen today too, let's discuss how it feels to hunt our own kind...\nHey, don't make such an obviously disgusted face!\n...Come on, I said play with me!",
         "pt-BR": "[Sidrugand]\nEntão hoje também vamos discutir um pouco sobre como é caçar membros da própria espécie...\nEi, não faça uma cara tão obviamente contrariada!\n...Ah, eu só quero que você brinque comigo!",
-        "es-ES": "[Sidreugand]\nEntonces, hoy también podríamos hablar un poco sobre qué se siente cazar a los de nuestra propia especie...\n¡Oye, no pongas una cara de rechazo tan evidente!\n...¡Ah, te digo que juegues conmigo un rato!"
+        "es-ES": "[Sidrgand]\nEntonces, hoy también hablaremos de cómo se siente cazar a los de nuestra propia especie...\n¡Oye, no pongas una cara de asco tan evidente!\n...¡Vamos, te he dicho que juegues conmigo!"
     },
     "mpoSDg": {
         "en-US": "[Sidrgand]\n...",
         "pt-BR": "[Sidrugand]\n...",
-        "es-ES": "[Sidreugand]\n..."
+        "es-ES": "[Sidrgand]\n..."
     },
     "m5oSDg": {
         "en-US": "Mirediyamilgand",
@@ -1262,7 +1262,7 @@
     "nJoSDg": {
         "en-US": "[Mirediyamilgand]\nI work. I am a fine worker.",
         "pt-BR": "[Mirediyamilgand]\nTrabalho. Sou um excelente trabalhador.",
-        "es-ES": "[Mirediyamilgand]\nTrabajo. Soy un excelente trabajador."
+        "es-ES": "[Mirediyamilgand]\nTrabajo. Soy un trabajador excelente."
     },
     "nZoSDg": {
         "en-US": "Wayunalgoseulgand",
@@ -1272,17 +1272,17 @@
     "npoSDg": {
         "en-US": "[Wayunalgoseulgand]\nI work. I am a cool worker.\nI do not know what is good about being cool, but I am.",
         "pt-BR": "[Wayunalgoseulgand]\nTrabalho. Sou um trabalhador incrível.\nNão sei o que há de bom em ser incrível, mas sou.",
-        "es-ES": "[Wayunalgoseulgand]\nTrabajo. Soy un trabajador genial.\nAunque no sé qué tiene de bueno ser genial, pero así es."
+        "es-ES": "[Wayunalgoseulgand]\nTrabajo. Soy un trabajador genial.\nNo sé qué tiene de bueno ser genial, pero lo soy."
     },
     "n5oSDg": {
         "en-US": "Casbiramigand",
         "pt-BR": "Casbiramigand",
-        "es-ES": "Kasbiramigand"
+        "es-ES": "Casbiramigand"
     },
     "oJoSDg": {
         "en-US": "[Casbiramigand]\nI work. Wherever I go, they say I know how to get things done.",
         "pt-BR": "[Casbiramigand]\nTrabalho. Onde quer que eu vá, dizem que sei trabalhar bem.",
-        "es-ES": "[Kasbiramigand]\nTrabajo. Dondequiera que voy, dicen que sé hacer bien mi trabajo."
+        "es-ES": "[Casbiramigand]\nTrabajo. Dondequiera que voy, dicen que sé hacer bien mi trabajo."
     },
     "oZoSDg": {
         "en-US": "Hanukorimagand",
@@ -1302,22 +1302,22 @@
     "pJoSDg": {
         "en-US": "[Dungidungigand]\nI think some of them are slacking off, but I can't tell them apart.",
         "pt-BR": "[Dungidungigand]\nParece que tem gente matando trabalho, mas não consigo distinguir quem é.",
-        "es-ES": "[Dungidungigand]\nParece que hay algunos que holgazanean, pero no logro distinguirlos."
+        "es-ES": "[Dungidungigand]\nCreo que algunos se escaquean del trabajo, pero no sé distinguirlos."
     },
     "pZoSDg": {
         "en-US": "Lacrusgand",
         "pt-BR": "Lacrusgand",
-        "es-ES": "Lakrusgand"
+        "es-ES": "Lacrusgand"
     },
     "ppoSDg": {
         "en-US": "[Lacrusgand]\nWhat's wrong with slacking off a little? It's all part of God's plan.",
         "pt-BR": "[Lacrusgand]\nQual é o problema em matar um pouco de trabalho? Tudo faz parte dos desígnios de Deus.",
-        "es-ES": "[Lakrusgand]\n¿Qué tiene de malo holgazanear un poco? Todo está dispuesto por Dios."
+        "es-ES": "[Lacrusgand]\n¿Qué tiene de malo holgazanear un poco? Todo forma parte del plan de Dios."
     },
     "p5oSDg": {
         "en-US": "[Lacrusgand]\nBut they really are hard to tell apart.",
         "pt-BR": "[Lacrusgand]\nMas realmente é difícil distinguir.",
-        "es-ES": "[Lakrusgand]\nPero la verdad es que sí cuesta mucho distinguirlos."
+        "es-ES": "[Lacrusgand]\nPero la verdad es que sí cuesta mucho distinguirlos."
     },
     "qJoSDg": {
         "en-US": "Iganeulgand",
@@ -1326,13 +1326,13 @@
     },
     "qZoSDg": {
         "en-US": "[Iganeulgand]\nHow could we know Lord Rasgand's will?",
-        "pt-BR": "[Iganeulgand]\nComo poderíamos saber qual é a vontade do senhor Rasgand?",
-        "es-ES": "[Iganeureulgand]\n¿Cómo podríamos nosotros conocer la voluntad del señor Rasgand?"
+        "pt-BR": "[Iganeulgand]\nComo poderíamos saber qual é a vontade do senhor Ragand?",
+        "es-ES": "[Iganeureulgand]\n¿Cómo podríamos conocer la voluntad de Lord Ragand?"
     },
     "qpoSDg": {
         "en-US": "[Iganeulgand]\nA priest I haven't seen before?\nMay we walk together under God's grace from now on.",
         "pt-BR": "[Iganeulgand]\nUm sacerdote que nunca vi antes?\nQue possamos seguir juntos, sob a graça de Deus, daqui em diante.",
-        "es-ES": "[Iganeureulgand]\n¿Un sacerdote que no había visto antes?\nQue de ahora en adelante permanezcamos juntos bajo la gracia de Dios."
+        "es-ES": "[Iganeureulgand]\n¿Un sacerdote al que nunca había visto?\nQue a partir de ahora caminemos juntos bajo la gracia de Dios."
     },
     "q5oSDg": {
         "en-US": "Mulyaminyagand",
@@ -1347,7 +1347,7 @@
     "rZoSDg": {
         "en-US": "[Mulyaminyagand]\nSigh. I was busy again today. I should rest for a while.",
         "pt-BR": "[Mulyaminyagand]\nUfa. Hoje também foi corrido. Vou descansar um pouco.",
-        "es-ES": "[Muryaminyagand]\nUf. Hoy también estuve ocupado. Voy a descansar un rato."
+        "es-ES": "[Muryaminyagand]\nUf... Hoy también trabajé mucho. Debería descansar un rato."
     },
     "rpoSDg": {
         "en-US": "Biranimalgand",
@@ -1357,12 +1357,12 @@
     "r5oSDg": {
         "en-US": "[Biranimalgand]\nWhat is it? If you're not looking for me, let me rest.",
         "pt-BR": "[Biranimalgand]\nO que foi? Se não está me procurando, me deixe descansar.",
-        "es-ES": "[Biranimalgand]\n¿Qué pasa? Si no me buscas a mí, déjame descansar."
+        "es-ES": "[Biranimalgand]\n¿Qué pasa? Si no me buscas por algo, déjame descansar."
     },
     "sJoSDg": {
         "en-US": "[Biranimalgand]\nI worked hard for Lord Rasgand again today. Hehe.",
-        "pt-BR": "[Biranimalgand]\nHoje também trabalhei duro pelo senhor Rasgand. Hehe.",
-        "es-ES": "[Biranimalgand]\nHoy también trabajé duro por el señor Rasgand. Je, je."
+        "pt-BR": "[Biranimalgand]\nHoje também trabalhei duro pelo senhor Ragand. Hehe.",
+        "es-ES": "[Biranimalgand]\nHoy también trabajé duro para Lord Ragand. Je, je."
     },
     "sZoSDg": {
         "en-US": "Mirarasimigand",
@@ -1371,8 +1371,8 @@
     },
     "spoSDg": {
         "en-US": "[Intermediate Rgan]\n...Snore. Snore.",
-        "pt-BR": "[Regan Intermediário]\n...Zzz. Zzz.",
-        "es-ES": "[Regan intermedio]\n...Zzz. Zzz."
+        "pt-BR": "[Rgan Intermediário]\n...Zzz. Zzz.",
+        "es-ES": "[Rgan Intermedio]\n...Zzz. Zzz."
     },
     "s5oSDg": {
         "en-US": "[Mirarasimigand]\n...\nSnore.\nI worked hard today. I'll rest for a bit...\nLord Jormungand will forgive me too.\nSnore...",

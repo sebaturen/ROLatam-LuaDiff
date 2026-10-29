@@ -923,5 +923,45 @@
         "en-US": "<ITEM>[Giant Hornet Pet Ticket]<INFO>1001579</INFO></ITEM>",
         "pt-BR": "<ITEM>[Ticket de Mascote Zangão Gigante]<INFO>1001579</INFO></ITEM>",
         "es-ES": "<ITEM>[Boleto de Mascota Zángano Gigante]<INFO>1001579</INFO></ITEM>"
+    },
+    "meOaCw": {
+        "en-US": "White Knight Pet Ticket",
+        "pt-BR": "Ticket de Mascote Cavaleiro Branco",
+        "es-ES": "Ticket de Mascota Caballero Blanco"
+    },
+    "muOaCw": {
+        "en-US": "Angelgolt Pet Ticket",
+        "pt-BR": "Ticket de Mascote Angelgolt Azul",
+        "es-ES": "Ticket de Mascota Angelgolt"
+    },
+    "m+OaCw": {
+        "en-US": "Hornet Pet Ticket",
+        "pt-BR": "Ticket de Mascote Zangão",
+        "es-ES": "Ticket de Mascota Avispón"
+    },
+    "nOOaCw": {
+        "en-US": "Clock Pet Ticket",
+        "pt-BR": "Ticket de Mascote Relógio",
+        "es-ES": "Ticket de Mascota Reloj"
+    },
+    "neOaCw": {
+        "en-US": "<ITEM>[White Knight Pet Ticket]<INFO>1003337</INFO></ITEM>",
+        "pt-BR": "<ITEM>[Ticket de Mascote Cavaleiro Branco]<INFO>1003337</INFO></ITEM>",
+        "es-ES": "<ITEM>[Ticket de Mascota Caballero Blanco]<INFO>1003337</INFO></ITEM>"
+    },
+    "nuOaCw": {
+        "en-US": "<ITEM>[Angelgolt Pet Ticket]<INFO>1001777</INFO></ITEM>",
+        "pt-BR": "<ITEM>[Ticket de Mascote Angelgolt Azul]<INFO>1001777</INFO></ITEM>",
+        "es-ES": "<ITEM>[Ticket de Mascota Angelgolt]<INFO>1001777</INFO></ITEM>"
+    },
+    "n+OaCw": {
+        "en-US": "<ITEM>[Hornet Pet Ticket]<INFO>1001580</INFO></ITEM>",
+        "pt-BR": "<ITEM>[Ticket de Mascote Zangão]<INFO>1001580</INFO></ITEM>",
+        "es-ES": "<ITEM>[Ticket de Mascota Avispón]<INFO>1001580</INFO></ITEM>"
+    },
+    "oOOaCw": {
+        "en-US": "<ITEM>[Clock Pet Ticket]<INFO>1001784</INFO></ITEM>",
+        "pt-BR": "<ITEM>[Ticket de Mascote Relógio]<INFO>1001784</INFO></ITEM>",
+        "es-ES": "<ITEM>[Ticket de Mascota Reloj]<INFO>1001784</INFO></ITEM>"
     }
 }

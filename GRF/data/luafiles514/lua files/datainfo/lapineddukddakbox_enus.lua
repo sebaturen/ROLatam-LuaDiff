@@ -13,7 +13,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "+11 Arma Sobrenatural ou das Cinza"
 		},
 		AbsorbShadow_Mix = {
-			NeedSource_String = "Malicious & Spiritual Shadows"
+			NeedSource_String = "Malicious & Spiritual Shadow"
 		},
 		Automatic_Module_Mix = {
 			NeedSource_String = "Automatic Module"
@@ -23,7 +23,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Barbed Wire Whip"
 		},
 		BearersShadow_Mix = {
-			NeedSource_String = "+7 Bearer's Shadows"
+			NeedSource_String = "Bearer's Shadow"
 		},
 		Blade_Katar_Cube = {
 			NeedSource_String = "Blade Katar"
@@ -38,22 +38,22 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Magical Booster"
 		},
 		Candy_Bag_Scroll_Magic = {
-			NeedSource_String = "Sacola M?gica de Antonio"
+			NeedSource_String = "Antonio's Magic Bag"
 		},
 		Candy_Bag_Scroll_Melee = {
-			NeedSource_String = "Alforje M?gico do Antonio"
+			NeedSource_String = "Antonio's Magic Purse"
 		},
 		Candy_Bag_Scroll_Range = {
-			NeedSource_String = "Bolsa M?gica do Antonio"
+			NeedSource_String = "Antonio's Magic Backpack"
 		},
 		ComposeShadow_Mix = {
-			NeedSource_String = "Bolts Shadows"
+			NeedSource_String = "Bolts Shadow"
 		},
 		Crimson_Rose_Cube = {
 			NeedSource_String = "Crimson Rose"
 		},
 		CriticalHit_Mix = {
-			NeedSource_String = "Ciritical Shadows"
+			NeedSource_String = "Ciritical Shadow"
 		},
 		D_Gw_Extractor = {
 			NeedSource_String = "Dim Glacier Weapon"
@@ -67,17 +67,16 @@ tblLapineDdukddakBox_string = {
 		Dragonic_Slayer_Cube = {
 			NeedSource_String = "Dragonic Slayer"
 		},
-		EXPShadow_Mix = {
-			NeedSource_String = "EXP Shadow Equip."
-		},
-		EXPShadow_Mix2 = {
-			NeedSource_String = "EXP Shadow Equip."
-		},
+		EXPShadow_Mix = {NeedSource_String = "EXP Shadow"},
+		EXPShadow_Mix2 = {NeedSource_String = "EXP Shadow"},
 		Egirnion_Box = {
 			NeedSource_String = "Sea God Egir's Armor"
 		},
 		EnchantStone_Mix_Box_MS = {
 			NeedSource_String = "Enchant Stones"
+		},
+		EnchantStone_Recipe = {
+			NeedSource_String = "Costume Enchant Stone"
 		},
 		EnchantStone_Recipe_LT = {
 			NeedSource_String = "Costume March Malangdo"
@@ -102,13 +101,13 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Chilling Cane"
 		},
 		FullPeneShadow_Mix = {
-			NeedSource_String = "Penetration Shadow Equip."
+			NeedSource_String = "Penetration Shadow"
 		},
 		FullTempShadow_Mix = {
-			NeedSource_String = "Tempest Shadow Equip."
+			NeedSource_String = "Tempest Shadow"
 		},
 		GemstoneShadow_Mix = {
-			NeedSource_String = "Gemstone Shadow Equip."
+			NeedSource_String = "Gemstone Shadow"
 		},
 		Golden_L_Launcher_Cube = {
 			NeedSource_String = "Golden Rod Launcher"
@@ -117,10 +116,10 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Boneca Insurgente"
 		},
 		HardChamption_Mix = {
-			NeedSource_String = "Hard&Champion Shadow Equip."
+			NeedSource_String = "Hard&Champion Shadow"
 		},
 		Hasty_Mix = {
-			NeedSource_String = "Hasty Shadow Equip."
+			NeedSource_String = "Hasty Shadow"
 		},
 		Humma_Clear_Cube = {
 			NeedSource_String = "Huuma Shuriken Clear"
@@ -128,10 +127,10 @@ tblLapineDdukddakBox_string = {
 		Ice_F_Stone_Box2 = {NeedSource_String = "Frost Gem"},
 		Illusion_Module_Mix = {NeedSource_String = "Modulo"},
 		ImmunedAthena_Mix = {
-			NeedSource_String = "Athena&Immune Shadow Equip."
+			NeedSource_String = "Athena&Immune Shadow"
 		},
 		InfinityShadow_Mix = {
-			NeedSource_String = "Infinity Shadow Equip."
+			NeedSource_String = "Infinity Shadow"
 		},
 		Iron_Nail_K_Cube = {NeedSource_String = "Iron Nail"},
 		Iron_Staff_Cube = {NeedSource_String = "Iron Staff"},
@@ -160,7 +159,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Light Blade"
 		},
 		M_BlitzShadow_Mix = {
-			NeedSource_String = "Blitz Shadow Equip."
+			NeedSource_String = "Blitz Shadow"
 		},
 		MagicPiercing_Mix = {
 			NeedSource_String = "Magic Piercing"
@@ -169,16 +168,16 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Magic Sword"
 		},
 		MagicalShadow_Mix = {
-			NeedSource_String = "Magical Shadow Equipment"
+			NeedSource_String = "Magical Shadow"
 		},
 		Magical_Cat_Hand = {
 			NeedSource_String = "Tiara Felina"
 		},
 		MajorAutoSpell_Mix = {
-			NeedSource_String = "Auto Spell Shadow Equip."
+			NeedSource_String = "Auto Spell Shadow"
 		},
 		Mammoth_Mix = {
-			NeedSource_String = "Mammoth Shadow Equip."
+			NeedSource_String = "Mammoth Shadow"
 		},
 		Master_Soul_Rifle_Cube = {
 			NeedSource_String = "Master Soul Rifle"
@@ -202,29 +201,29 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Thanatos Pendant"
 		},
 		PerfectSize_Mix = {
-			NeedSource_String = "Size Shadow Equip."
+			NeedSource_String = "Size Shadow"
 		},
 		PetEgg_Recipe = {NeedSource_String = "Pet Egg"},
 		PhysicalMagical_Mix = {
 			NeedSource_String = "Equipamentos Sombrios"
 		},
 		PhysicalShadow_Mix = {
-			NeedSource_String = "Physical Shadow Equip."
+			NeedSource_String = "Physical Shadow"
 		},
 		Piercing_Mix = {
-			NeedSource_String = "Luva Ca?a-Ra?a"
+			NeedSource_String = "Piercing Gloves"
 		},
 		R_BearersShadow_Mix = {
-			NeedSource_String = "Bearers Shadow Equip."
+			NeedSource_String = "Bearer's Shadow"
 		},
 		RaceShadow_Mix = {
-			NeedSource_String = "Race Shadow Equip."
+			NeedSource_String = "Race Shadow"
 		},
 		Ray_Knuckle_Cube = {
 			NeedSource_String = "Ray Knuckle"
 		},
 		ReloadShadow_Mix = {
-			NeedSource_String = "Reload Shadow Equip."
+			NeedSource_String = "Reload Shadow"
 		},
 		Remodel_Hero_Boots = {
 			NeedSource_String = "Ancient Heroes boots"
@@ -238,7 +237,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Scarlet Dragon Leather Bow"
 		},
 		Shadow_Mix_Recipe = {
-			NeedSource_String = "Shadow Equip."
+			NeedSource_String = "Shadow Equipment"
 		},
 		Shadow_Staff_K_Cube = {
 			NeedSource_String = "Shadow Staff"
@@ -256,13 +255,13 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Spirit Pendulum"
 		},
 		SpellCasterShadow_Mix = {
-			NeedSource_String = "SpellFlow&Caster Shadow Equip."
+			NeedSource_String = "SpellFlow&Caster Shadow"
 		},
 		StabilityShadow_Mix = {
 			NeedSource_String = "Efeitos Negativos"
 		},
 		StatusShadow_Mix = {
-			NeedSource_String = "Stat Shadow Equip."
+			NeedSource_String = "Stat Shadow"
 		},
 		Suit_Upgrade_Kit = {
 			NeedSource_String = "Uniforme de Kafra"
@@ -274,7 +273,7 @@ tblLapineDdukddakBox_string = {
 			NeedSource_String = "Avengers Gatling Gun"
 		},
 		True_GemShadow_Mix = {
-			NeedSource_String = "Gemstone Shadow Equip."
+			NeedSource_String = "Gemstone Shadow"
 		},
 		Trumpet_Shell_K_Cube = {
 			NeedSource_String = "Trumpet Shell"

@@ -328,9 +328,9 @@ mapTbl_string = {
 		}
 	},
 	["1@jorchs.rsw"] = {
-		displayName = "Ninho de Cobras",
+		displayName = "Ninho da Serpente Caótico",
 		signName = {
-			mainTitle = "Ninho de Cobras"
+			mainTitle = "Ninho da Serpente Caótico"
 		}
 	},
 	["1@jorlab.rsw"] = {

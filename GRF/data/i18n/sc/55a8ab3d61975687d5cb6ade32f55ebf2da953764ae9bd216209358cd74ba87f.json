@@ -11,12 +11,12 @@
     },
     "At4EDg": {
         "en-US": "^4D4DFF!-Caution-!^000000\n^4D4DFFYour inventory does not have enough free space, or you are carrying nearly the maximum amount of the same item.^000000\n^4D4DFFPlease organize your inventory using Kafra or Zonda Storage Service.^000000",
-        "pt-BR": "^4D4DFF!-Atenção-!^000000\n^4D4DFFNão há espaço livre no inventário ou você está carregando uma quantidade próxima do limite do mesmo item.^000000\n^4D4DFFOrganize seus itens usando o serviço de armazém da Kafra ou da Zonda.^000000",
+        "pt-BR": "^4D4DFF!-Atenção-!^000000\n^4D4DFFNão há espaço livre no inventário ou você está carregando uma quantidade próxima do limite do mesmo item.^000000\n^4D4DFFOrganize seus itens usando o serviço de armazenamento da Kafra ou da Zonda.^000000",
         "es-ES": "^4D4DFF!-ADVERTENCIA-!^000000\n^4D4DFFNo hay suficiente espacio en el inventario o tienes casi la cantidad máxima permitida del mismo objeto.^000000\n^4D4DFFUsa el servicio de almacén de Kafra o Zonda para organizarlo.^000000"
     },
     "A94EDg": {
         "en-US": "Operator Check",
-        "pt-BR": "Verificação do operador",
+        "pt-BR": "Verificação do Operador",
         "es-ES": "Verificación del administrador"
     },
     "BN4EDg": {
@@ -30,18 +30,18 @@
         "es-ES": "[Capitán de Patrulla]\nEs una unidad encargada de patrullar periódicamente la región de las Escamas Congeladas."
     },
     "Bt4EDg": {
-        "en-US": "[Patrol Captain]\nWell, right now we're made up of Iwins, and we handle the patrols ourselves...",
-        "pt-BR": "[Capitão da Patrulha]\nBem, no momento ela é formada por Arwins, e só nós cuidamos das patrulhas...",
-        "es-ES": "[Capitán de Patrulla]\nBueno, actualmente está formada por los Awin y nosotros mismos nos encargamos de todas las patrullas…"
+        "en-US": "[Patrol Captain]\nWell, right now we're made up of Windcys, and we handle the patrols ourselves...",
+        "pt-BR": "[Capitão da Patrulha]\nBem, atualmente somos todos Neventos e cuidamos das patrulhas por conta própria...",
+        "es-ES": "[Capitán de Patrulla]\nBueno, actualmente está formada por los Nevientos y nosotros mismos nos encargamos de todas las patrullas…"
     },
     "B94EDg": {
         "en-US": "[Patrol Captain]\nBut now that adventurers have started arriving here at the Ice Castle in Isgard...",
-        "pt-BR": "[Capitão da Patrulha]\nMas agora que aventureiros começaram a chegar ao Castelo de Gelo de Issgard,",
-        "es-ES": "[Capitán de Patrulla]\nPero ahora que los aventureros han empezado a llegar a Castillo de Hielo de Isgard…"
+        "pt-BR": "[Capitão da Patrulha]\nMas agora que aventureiros começaram a chegar ao Castelo de Gelo, em Issgard...",
+        "es-ES": "[Capitán de Patrulla]\nPero ahora que los aventureros empezaron a llegar a Castillo de Hielo de Issgard…"
     },
     "CN4EDg": {
         "en-US": "[Patrol Captain]\nIf more people like you show up, won't we get the chance to patrol together and get to know each other?",
-        "pt-BR": "[Capitão da Patrulha]\nse aparecerem mais pessoas como você, não teremos a chance de patrulhar juntos e estreitar os laços?",
+        "pt-BR": "[Capitão da Patrulha]\nSe aparecer mais gente como você, poderemos patrulhar juntos e nos conhecer melhor, não acha?",
         "es-ES": "[Capitán de Patrulla]\nSi llegan más personas como tú, ¿no tendremos la oportunidad de patrullar juntos y conocernos mejor?"
     },
     "Cd4EDg": {
@@ -51,28 +51,28 @@
     },
     "Ct4EDg": {
         "en-US": "[Patrol Captain]\nDid you come after seeing the notice? You came to the right place, but you're too weak. You're not ready yet.",
-        "pt-BR": "[Capitão da Patrulha]\nVeio por causa do anúncio? Você veio ao lugar certo, mas ainda é fraco demais. Por enquanto, não dá para contar com você.",
+        "pt-BR": "[Capitão da Patrulha]\nVeio depois de ver o anúncio? Encontrou o lugar certo, mas é fraco demais. Ainda não está preparado.",
         "es-ES": "[Capitán de Patrulla]\n¿Viniste por el anuncio? Llegaste al lugar correcto, pero eres demasiado débil. Todavía no me sirves."
     },
     "C94EDg": {
-        "en-US": "Patrolling with Iwin",
-        "pt-BR": "Patrulha com Arwin",
-        "es-ES": "Patrulla junto a Awin"
+        "en-US": "Patrolling with Windcy",
+        "pt-BR": "Patrulha com Neventos",
+        "es-ES": "Patrulla junto a Nevientos"
     },
     "DN4EDg": {
         "en-US": "(Ah! You startled me.)",
-        "pt-BR": "(Ah! Que susto.)",
+        "pt-BR": "(Ah! Que susto!)",
         "es-ES": "(¡Ah! Qué susto.)"
     },
     "Dd4EDg": {
         "en-US": "Patrol Captain: I heard adventurers can transform into Rgan now, so I guess that's what this is.",
-        "pt-BR": "Capitão da Patrulha: Ouvi dizer que os aventureiros agora conseguem se transformar em Rgan. Então deve ser isso.",
-        "es-ES": "Capitán de Patrulla: Había oído que los aventureros ya podían transformarse en Rgan. Supongo que esto es eso."
+        "pt-BR": "Capitão da Patrulha: Ouvi dizer que agora os aventureiros podem se transformar em Rgans. Então é isso que está acontecendo.",
+        "es-ES": "Capitán de Patrulla: Escuché que los aventureros ya podían transformarse en Rgan. Debe de ser eso."
     },
     "Dt4EDg": {
         "en-US": "Patrol Captain: Come to think of it, is it about time to head out on patrol? Let me know when you're ready.",
-        "pt-BR": "Capitão da Patrulha: Pensando bem, já está na hora da patrulha? Quando estiver pronto, fale comigo.",
-        "es-ES": "Capitán de Patrulla: Ahora que lo pienso, ¿ya es hora de salir a patrullar? Avísame cuando estés listo."
+        "pt-BR": "Capitão da Patrulha: Na verdade, já está na hora de sair em patrulha, não? Avise-me quando estiver pronto.",
+        "es-ES": "Capitán de Patrulla: Ahora que lo pienso, ¿ya es hora de salir a patrullar? Avísame si así es."
     },
     "D94EDg": {
         "en-US": "[Patrol Captain]\nDid you come after seeing the notice? Hm? You didn't?",
@@ -81,7 +81,7 @@
     },
     "EN4EDg": {
         "en-US": "[Patrol Captain]\nWell, either way, you came to the right place.\nI'm Masha Gigi Happy Rev Eve Alice Lloyd Broad-Minded Tess Vortex, the Patrol Captain of the Eagle Patrol.",
-        "pt-BR": "[Capitão da Patrulha]\nBem, de qualquer forma, veio ao lugar certo.\nEu sou a Capitão da Patrulha da Patrulha da Águia, Masha Gigi Happy Lev Eve Alice Lloyd Broad-Minded Tess Vortex.",
+        "pt-BR": "[Capitão da Patrulha]\nBem, de qualquer forma, veio ao lugar certo.\nSou Masha Gigi Happy Rev Eve Alice Lloyd Broad-Minded Tess Vortex, capitão da Patrulha da Águia.",
         "es-ES": "[Capitán de Patrulla]\nBueno, de todos modos llegaste al lugar correcto.\nSoy Masha Gigi Happy Rev Eve Alice Lloyd Broad-Minded Tess Vortex, Capitán de Patrulla de la Patrulla del Águila."
     },
     "Ed4EDg": {
@@ -97,17 +97,17 @@
     "E94EDg": {
         "en-US": "Horiryu: Yes, nothing unusual.",
         "pt-BR": "Horiryu: Sim, nada de anormal.",
-        "es-ES": "Horiryu: Sí, no hubo ningún problema."
+        "es-ES": "Horiryu: No. Ningún problema."
     },
     "FN4EDg": {
         "en-US": "Horiryu: Huh?! Are those the adventurers who were newly assigned to the Ice Castle?",
-        "pt-BR": "Horiryu: Hã?! Aqueles são os aventureiros que disseram que foram enviados como reforço para o Castelo de Gelo desta vez?",
-        "es-ES": "Horiryu: ¡¿Eh?! ¿Esos de ahí son los aventureros que se incorporaron recientemente a Castillo de Hielo?"
+        "pt-BR": "Horiryu: Hã?! Aqueles são os aventureiros que disseram que foram enviados como reforço para o Castelo de Gelo?",
+        "es-ES": "Horiryu: ¿Esos de ahí son los aventureros que se incorporaron hace poco al Castillo de Hielo?"
     },
     "Fd4EDg": {
         "en-US": "Patrol Captain: Ah! Come to think of it, I did hear something about that. Anyway, good work. Get some rest.",
-        "pt-BR": "Capitão da Patrulha: Ah! Pensando bem, ouvi falar disso. Enfim, bom trabalho. Vá descansar.",
-        "es-ES": "Capitán de Patrulla: ¡Ah! Ahora que lo mencionas, sí había oído algo al respecto. En fin, buen trabajo. Descansa."
+        "pt-BR": "Capitão da Patrulha: Ah! Agora que você mencionou, ouvi algo sobre isso. Enfim, bom trabalho. Vá descansar.",
+        "es-ES": "Capitán de Patrulla: ¡Ah! Ahora que lo dices, había oído de algo así. Bueno, buen trabajo. Ve a descansar."
     },
     "Ft4EDg": {
         "en-US": "Horiryu: Yes, sir.",
@@ -121,28 +121,28 @@
     },
     "GN4EDg": {
         "en-US": "[{0}]\nSo your name is Hyoryoryo?",
-        "pt-BR": "[{0}]\nEntão ele se chama Hyoryoryo?",
+        "pt-BR": "[{0}]\nEntão se chama Hyoryoryo?",
         "es-ES": "[{0}]\n¿Así que se llama Hyoryoryo?"
     },
     "Gd4EDg": {
         "en-US": "(Tch! Outsiders...)",
         "pt-BR": "(Tsc! Essas criaturas de fora...)",
-        "es-ES": "(Tsk. Estas formas de vida del exterior…)"
+        "es-ES": "(Pff... extranjeros...)"
     },
     "Gt4EDg": {
         "en-US": "[Patrol Captain]\nAhem... Well, you're not an official patrol member yet, so call me whatever you like. Here are the Eagle Patrol application forms.",
-        "pt-BR": "[Capitão da Patrulha]\nHm, hm... Bem, vocês nem são membros oficiais da patrulha, então podem me chamar como quiserem. Aqui estão os documentos de inscrição da Patrulha da Águia.",
-        "es-ES": "[Capitán de Patrulla]\nEjem… Bueno, como todavía no eres miembro oficial de la patrulla, puedes llamarme como quieras. Aquí están los documentos para unirte a la Patrulla del Águila."
+        "pt-BR": "[Capitão da Patrulha]\nHm, hm... Bem, vocês não são membros oficiais da patrulha, então podem me chamar como quiserem. Aqui estão os formulários de inscrição para a Patrulha da Águia.",
+        "es-ES": "[Capitán de Patrulla]\nBueno, como todavía no eres miembro oficial de la patrulla, llámame como quieras. Aquí están los documentos para unirte a la Patrulla del Águila."
     },
     "G94EDg": {
         "en-US": "[Patrol Captain]\nI'm not sure we really need to make you formally join, but there are procedures to follow. Read it carefully and sign it.",
-        "pt-BR": "[Capitão da Patrulha]\nNem sei se realmente precisamos formalizar a entrada de vocês, mas existem procedimentos a seguir. Leiam com atenção e assinem, por favor.",
-        "es-ES": "[Capitán de Patrulla]\nAunque me pregunto si realmente hace falta que se unan. Pero hay procedimientos que debemos seguir. Léelos bien y firma, por favor."
+        "pt-BR": "[Capitão da Patrulha]\nBem, nem sei se precisamos mesmo aceitar sua inscrição. Mas há certos procedimentos a cumprir. Leia com atenção e assine.",
+        "es-ES": "[Capitán de Patrulla]\nAunque todavía tengo mis dudas sobre tu ingreso, pero existen protocolos.\nLee con atención y firma, por favor."
     },
     "HN4EDg": {
         "en-US": "[Eagle Patrol Application Form]\nYou're not a Rgan, right?\nYou're in good health, right?\nYou have peace of mind, right?\nIf you don't have anything urgent to do, you'll participate in patrols every day, right?\n----\nIf you agree to the above, please sign.",
-        "pt-BR": "[Formulário de Inscrição da Patrulha da Águia]\nVocê não é um Rgan, certo?\nEstá com a saúde em dia, certo?\nEstá com a mente tranquila, certo?\nSe não tiver nenhum compromisso urgente, participará da patrulha todos os dias, certo?\n----\nSe concordar com o conteúdo acima, assine.",
-        "es-ES": "[Documentos de inscripción a la Patrulla del Águila]\nNo eres un Rgan, ¿verdad?\n¿Estás en buen estado físico?\n¿Tienes tiempo de sobra?\nSi no tienes nada urgente, participarás en la patrulla todos los días, ¿verdad?\n----\nSi estás de acuerdo con lo anterior, firma."
+        "pt-BR": "[Formulário de Inscrição para a Patrulha da Águia]\nVocê não é um Rgan, certo?\nEstá com a saúde em dia?\nEstá com tempo livre?\nSe não tiver nenhum compromisso urgente, participará da patrulha todos os dias, certo?\n----\nSe concordar com o conteúdo acima, assine.",
+        "es-ES": "[Documentos de inscripción a la Patrulla del Águila]\nNo eres un Rgan, ¿no?\n¿Estás en buen estado físico?\n¿Tienes tiempo de sobra?\nSi no tienes nada urgente, participarás en la patrulla todos los días, ¿verdad?\n----\nSi estás de acuerdo con lo anterior, firma."
     },
     "Hd4EDg": {
         "en-US": "Sign.",
@@ -152,17 +152,17 @@
     "Ht4EDg": {
         "en-US": "[Patrol Captain]\nHave you been practicing? That's quite an impressive signature. I'll add your name as an honorary member of the Eagle Patrol.",
         "pt-BR": "[Capitão da Patrulha]\nVocê costuma praticar? Sua assinatura ficou muito elegante. Vou registrar seu nome como membro honorário da Patrulha da Águia.",
-        "es-ES": "[Capitán de Patrulla]\n¿Acaso practicaste de antemano? Qué firma tan elegante. Registraré tu nombre como miembro honorario de la Patrulla del Águila."
+        "es-ES": "[Capitán de Patrulla]\n¿Practicaste tu firma? Es muy elegante. Te registraré como miembro honorario de la Patrulla del Águila."
     },
     "H94EDg": {
         "en-US": "[Patrol Captain]\nYou can go alone or with companions. Form a party, and let me know when you're ready to head out on patrol.",
-        "pt-BR": "[Capitão da Patrulha]\nPode ir sozinho ou junto com seus companheiros. Forme um grupo e, quando estiver pronto para sair em patrulha, fale comigo.",
-        "es-ES": "[Capitán de Patrulla]\nPuedes ir por tu cuenta o con compañeros. Forma un grupo y avísame cuando estés listo para salir de patrulla."
+        "pt-BR": "[Capitão da Patrulha]\nPode ir sozinho ou com seus companheiros. Forme um grupo e, quando estiver pronto para sair em patrulha, fale comigo.",
+        "es-ES": "[Capitán de Patrulla]\nPuedes ir por tu cuenta o con compañeros. Forma un grupo y avísame cuando quieras salir a patrullar."
     },
     "IN4EDg": {
         "en-US": "[Patrol Captain]\nThis is your first patrol, right? You won't be going alone, and you'll be with the patrol members, so there's no need to be afraid.",
-        "pt-BR": "[Capitão da Patrulha]\nÉ sua primeira patrulha, certo? Você não irá sozinho, estará com os membros da patrulha, então não precisa ter medo.",
-        "es-ES": "[Capitán de Patrulla]\nEs tu primera patrulla, ¿verdad? No te enviaré solo y estarás con los miembros de la patrulla, así que no tienes de qué preocuparte."
+        "pt-BR": "[Capitão da Patrulha]\nEsta é sua primeira patrulha, certo? Você não vai sozinho, estará acompanhado dos membros da patrulha, então não precisa ter medo.",
+        "es-ES": "[Capitán de Patrulla]\nVas a patrullar por primera vez, ¿no? No te dejaré a solas, vas a ir con otros miembros de la patrulla, no te preocupes."
     },
     "Id4EDg": {
         "en-US": "Report the patrol headcount.",
@@ -176,13 +176,13 @@
     },
     "I94EDg": {
         "en-US": "Ask to wait a moment.",
-        "pt-BR": "Pedir para esperar um pouco.",
+        "pt-BR": "Pedir para esperar um momento.",
         "es-ES": "Pedir que espere un momento."
     },
     "JN4EDg": {
         "en-US": "[Patrol Captain]\nThere's no rush with the patrol, so take your time. If you're really busy, you can just send the patrol members.",
         "pt-BR": "[Capitão da Patrulha]\nA patrulha não é urgente, então vá com calma. Se estiver muito ocupado, pode mandar apenas os membros.",
-        "es-ES": "[Capitán de Patrulla]\nLa patrulla no es urgente, así que tómate tu tiempo. Si estás muy ocupado, también puedes enviar solo a los miembros."
+        "es-ES": "[Capitán de Patrulla]\nLa patrulla no es urgente, tómate tu tiempo. Si no tienes tiempo, puedes enviar a los miembros."
     },
     "Jd4EDg": {
         "en-US": "[Patrol Captain]\nAh! Is it that time already?",
@@ -202,66 +202,66 @@
     "KN4EDg": {
         "en-US": "I just stopped by.",
         "pt-BR": "Só vim dar uma passada.",
-        "es-ES": "Solo vine a pasar."
+        "es-ES": "Estoy de paso."
     },
     "Kd4EDg": {
         "en-US": "[Patrol Captain]\nYou're a diligent one. I wouldn't recommend it, but if you want to join another party and go, well... I won't stop you.",
         "pt-BR": "[Capitão da Patrulha]\nVocê é bem dedicado. Não recomendo, mas, se quiser ir com outro grupo, bem... não vou impedir.",
-        "es-ES": "[Capitán de Patrulla]\nQué persona tan diligente. No lo recomiendo, pero si quieres unirte a otro grupo para ir, bueno… no te detendré."
+        "es-ES": "[Capitán de Patrulla]\nQué persona tan dedicada. No lo recomiendo, pero si quieres unirte a otro grupo para ir, bueno… no te detendré."
     },
     "Kt4EDg": {
         "en-US": "[Patrol Captain]\nYou're an odd one. If you're bored, take a lap around the castle. It'll be so cold you won't want to move.",
-        "pt-BR": "[Capitão da Patrulha]\nQue pessoa sem graça. Se estiver entediado, dê uma volta ao redor do castelo. Mas está tão frio que você provavelmente nem vai querer se mexer.",
-        "es-ES": "[Capitán de Patrulla]\nQué persona tan peculiar. Si estás aburrido, puedes dar una vuelta alrededor del castillo. Aunque con este frío seguramente no tendrás ganas de moverte."
+        "pt-BR": "[Capitão da Patrulha]\nVocê é meio esquisito. Se estiver entediado, dê uma volta ao redor do castelo. Vai fazer tanto frio que você não vai nem querer se mexer.",
+        "es-ES": "[Capitán de Patrulla]\nQué persona tan peculiar. Si te aburres, puedes dar una vuelta alrededor del castillo. Aunque con este frío seguramente no tendrás ganas de moverte."
     },
     "K94EDg": {
         "en-US": "[Patrol Captain]\nThat's strange. Did something urgent come up during the patrol? The others have already finished their patrol... I can't send them out again, so come back tomorrow.",
-        "pt-BR": "[Capitão da Patrulha]\nEstranho. Aconteceu alguma urgência durante a patrulha? Os outros já terminaram a patrulha... Não posso mandá-los de novo, então volte amanhã.",
-        "es-ES": "[Capitán de Patrulla]\nQué extraño. ¿Te surgió algo urgente durante la patrulla? Los muchachos ya terminaron su patrulla… No puedo enviarlos otra vez, así que vuelve mañana."
+        "pt-BR": "[Capitão da Patrulha]\nQue estranho... Aconteceu alguma emergência durante a patrulha? Os outros já terminaram a ronda... Não posso mandá-los de novo, então volte amanhã.",
+        "es-ES": "[Capitán de Patrulla]\nQué extraño. ¿Pasó algo durante la patrulla? Los muchachos ya terminaron de patrullar… No puedo enviarlos otra vez, así que vuelve mañana."
     },
     "LN4EDg": {
         "en-US": "[Patrol Captain]\nRight, I thought it was strange when you left without reporting last time. I'm glad you came back now.",
-        "pt-BR": "[Capitão da Patrulha]\nSim, achei estranho você ter ido embora da última vez sem fazer o relatório. Ainda bem que veio agora.",
+        "pt-BR": "[Capitão da Patrulha]\nSim, achei estranho você ter ido embora sem dar notícias da última vez. Ainda bem que voltou.",
         "es-ES": "[Capitán de Patrulla]\nSí, el otro día me pareció extraño que te fueras sin informar. Me alegra que hayas venido, aunque sea ahora."
     },
     "Ld4EDg": {
         "en-US": "[Patrol Captain]\nHere's your reward for the last patrol. I'll see you again next time.",
         "pt-BR": "[Capitão da Patrulha]\nEsta é a recompensa pela patrulha anterior. Então nos vemos de novo na próxima vez.",
-        "es-ES": "[Capitán de Patrulla]\nEsta es la recompensa por la patrulla anterior. Entonces, nos veremos de nuevo la próxima vez."
+        "es-ES": "[Capitán de Patrulla]\nEsta es la recompensa por la patrulla anterior. Nos vemos la próxima."
     },
     "Lt4EDg": {
-        "en-US": "[Patrol Captain]\nRegarding Patrolling with Iwin\nAn unknown error occurred. If the same issue occurs after retrying, please take a screenshot and report it.",
-        "pt-BR": "[Capitão da Patrulha]\nSobre a Patrulha com Arwin\nOcorreu um erro desconhecido. Se o mesmo problema persistir após tentar novamente, tire uma captura de tela e envie um relatório.",
-        "es-ES": "[Capitán de Patrulla]\nSobre la patrulla junto a Awin\nSe produjo un error desconocido. Si vuelve a ocurrir lo mismo después de intentarlo nuevamente, toma una captura de pantalla y repórtalo."
+        "en-US": "[Patrol Captain]\nRegarding Patrolling with Windcy\nAn unknown error occurred. If the same issue occurs after retrying, please take a screenshot and report it.",
+        "pt-BR": "[Capitão da Patrulha]\nSobre a patrulha com Neventos,\nocorreu um erro desconhecido. Se o problema persistir, tire uma captura de tela e relate o ocorrido.",
+        "es-ES": "[Capitán de Patrulla]\nSobre la patrulla junto a los Nevientos.\nSe produjo un error desconocido. Si ocurre otra vez, toma una captura de pantalla y repórtalo."
     },
     "L94EDg": {
         "en-US": "[Patrol Captain]\nOne of the members who was supposed to patrol with us got an upset stomach and went to the restroom.",
-        "pt-BR": "[Capitão da Patrulha]\nParece que um dos membros que iria sair em patrulha conosco teve uma dor de barriga e foi ao banheiro.",
-        "es-ES": "[Capitán de Patrulla]\nParece que uno de los miembros que iba a salir de patrulla con nosotros tuvo malestar estomacal y fue al baño."
+        "pt-BR": "[Capitão da Patrulha]\nUm dos membros que sairia em patrulha conosco passou mal do estômago e foi ao banheiro.",
+        "es-ES": "[Capitán de Patrulla]\nParece que uno de los miembros que iba a patrullar con nosotros tuvo malestar estomacal y fue al baño."
     },
     "MN4EDg": {
         "en-US": "[Patrol Captain]\nSorry, but please wait a little until they finish up and come back.",
-        "pt-BR": "[Capitão da Patrulha]\nDesculpe, mas espere só mais um pouco até ele terminar e voltar.",
-        "es-ES": "[Capitán de Patrulla]\nLo siento, pero espera un poco hasta que termine y regrese."
+        "pt-BR": "[Capitão da Patrulha]\nDesculpe, mas tem que esperar ele voltar.",
+        "es-ES": "[Capitán de Patrulla]\nPerdón, pero tienes que esperar a que regrese."
     },
     "Md4EDg": {
         "en-US": "[Patrol Captain]\nI've registered the patrol with {0} members. Not everyone registered has to go, but once the patrol begins, we'll be checking attendance, so make sure everyone participates.",
-        "pt-BR": "[Capitão da Patrulha]\nRegistrei {0} pessoas para a patrulha. Nem todos os registrados precisam ir, mas, quando sairmos em patrulha, faremos a contagem do pessoal, então todos devem participar.",
-        "es-ES": "[Capitán de Patrulla]\nHe registrado {0} personas para la patrulla. No es necesario que vayan todos los registrados, pero cuando salgan de patrulla haremos un control de personal, así que asegúrense de participar todos."
+        "pt-BR": "[Capitão da Patrulha]\nRegistrei {0} membros para a patrulha. Não é necessário que todos os inscritos participem, mas vamos conferir a presença assim que a patrulha começar, então todos devem comparecer.",
+        "es-ES": "[Capitán de Patrulla]\nRegistré {0} miembros para la patrulla. No es necesario que vayan todos, pero cuando salgan de patrulla haremos un control de personal, así que asegúrense de participar todos."
     },
     "Mt4EDg": {
         "en-US": "[Patrol Captain]\nDidn't I say the party leader should report the headcount? Did I forget? Well, I've said it now, so go get your party leader.",
-        "pt-BR": "[Capitão da Patrulha]\nEu não disse que o líder do grupo deveria informar o número de pessoas? Não disse? Então agora estou dizendo. Vá chamar o líder do grupo.",
-        "es-ES": "[Capitán de Patrulla]\n¿No dije que el líder del grupo debía informar el número de integrantes? ¿Acaso no lo hice? Bueno, ahora ya lo dije, así que ve y trae al líder del grupo."
+        "pt-BR": "[Capitão da Patrulha]\nEu não disse que o líder do grupo deveria informar o número de participantes? Será que esqueci? Bem, estou dizendo agora, então vá chamar o líder do grupo.",
+        "es-ES": "[Capitán de Patrulla]\n¿No dije que el líder del grupo debía informar el número de integrantes? ¿No lo hice? Bueno, ahora ya lo dije, ve y trae al líder del grupo."
     },
     "M94EDg": {
         "en-US": "[Patrol Captain]\nDidn't I tell you to form a party even if you're going alone? Did I forget? Well, I've said it now, so go form a party.",
-        "pt-BR": "[Capitão da Patrulha]\nEu não disse para formar um grupo mesmo que fosse sozinho? Não disse? Então agora estou dizendo. Vá formar um grupo.",
-        "es-ES": "[Capitán de Patrulla]\n¿No dije que aunque fueras solo debías formar un grupo? ¿Acaso no lo hice? Bueno, ahora ya lo dije, así que ve y forma un grupo."
+        "pt-BR": "[Capitão da Patrulha]\nEu não disse que você deveria formar um grupo mesmo que fosse sozinho? Será que esqueci? Bem, estou dizendo agora, então vá formar um grupo.",
+        "es-ES": "[Capitán de Patrulla]\n¿No dije aunque no vayas con alguien  tienes que formar un grupo? ¿No? Bueno, ya sabes. Forma un grupo."
     },
     "NN4EDg": {
         "en-US": "{0}: We're heading out on patrol.",
-        "pt-BR": "{0}: Vou sair em patrulha.",
+        "pt-BR": "{0}: Estamos saindo em patrulha.",
         "es-ES": "{0}: Saldré de patrulla."
     },
     "Nd4EDg": {
@@ -272,7 +272,7 @@
     "Nt4EDg": {
         "en-US": "[Patrol Captain]\nThe patrol members aren't ready yet, so wait just a little longer.",
         "pt-BR": "[Capitão da Patrulha]\nOs membros ainda não terminaram os preparativos, então espere só mais um pouco.",
-        "es-ES": "[Capitán de Patrulla]\nLos miembros aún no han terminado de prepararse, así que espera un poco."
+        "es-ES": "[Capitán de Patrulla]\nLos miembros aún no han terminado de prepararse, espera un poco."
     },
     "N94EDg": {
         "en-US": "[{0}]\nWhat does the Eagle Patrol usually do?",
@@ -281,7 +281,7 @@
     },
     "ON4EDg": {
         "en-US": "[Patrol Captain]\nWe keep watch for any Rgan that may have infiltrated our territory.",
-        "pt-BR": "[Capitão da Patrulha]\nNós vigiamos nossa área para ver se algum Rgan invadiu.",
+        "pt-BR": "[Capitão da Patrulha]\nFicamos de olho para ver se algum Rgan invadiu nosso território.",
         "es-ES": "[Capitán de Patrulla]\nVigilamos nuestra zona por si algún Rgan intenta infiltrarse."
     },
     "Od4EDg": {
@@ -291,8 +291,8 @@
     },
     "Ot4EDg": {
         "en-US": "[Patrol Captain]\nOh, and since adventurers started joining the patrols, the number of accidents has dropped significantly. I'm grateful for that, so please keep helping us.",
-        "pt-BR": "[Capitão da Patrulha]\nAh, e desde que os aventureiros começaram a participar das patrulhas, os acidentes diminuíram bastante. Agradeço por isso. Continue nos ajudando.",
-        "es-ES": "[Capitán de Patrulla]\nAh, y desde que los aventureros empezaron a participar en las patrullas, los incidentes han disminuido mucho. Se los agradezco. Sigan ayudándonos."
+        "pt-BR": "[Capitão da Patrulha]\nAh, e desde que os aventureiros começaram a participar das patrulhas, os acidentes diminuíram bastante. Agradeço, então continuem nos ajudando.",
+        "es-ES": "[Capitán de Patrulla]\nAh, y desde que los aventureros empezaron a participar en las patrullas, los incidentes disminuyeron mucho. Gracias, sigan así."
     },
     "O94EDg": {
         "en-US": "[{0}]\nMasha... Patrol Captain.",
@@ -301,7 +301,7 @@
     },
     "PN4EDg": {
         "en-US": "[Patrol Captain]\nMy name is Masha Gigi Happy Rev Eve Alice Lloyd Broad-Minded Tess Vortex.",
-        "pt-BR": "[Capitão da Patrulha]\nMeu nome é Masha Gigi Happy Lev Eve Alice Lloyd Broad-Minded Tess Vortex.",
+        "pt-BR": "[Capitão da Patrulha]\nMeu nome é Masha Gigi Happy Rev Eve Alice Lloyd Broad-Minded Tess Vortex.",
         "es-ES": "[Capitán de Patrulla]\nMi nombre es Masha Gigi Happy Rev Eve Alice Lloyd Broad-Minded Tess Vortex."
     },
     "Pd4EDg": {
@@ -310,9 +310,9 @@
         "es-ES": "[Capitán de Patrulla]\nSi vas a abreviarlo como quieras, llámame simplemente Hororyo."
     },
     "Pt4EDg": {
-        "en-US": "[{0}]\nWhat kind of Iwin is the supply officer?",
-        "pt-BR": "[{0}]\nQue tipo de Arwin é o oficial de suprimentos?",
-        "es-ES": "[{0}]\n¿Qué clase de Awin es el oficial de suministros?"
+        "en-US": "[{0}]\nWhat kind of Windcy is the supply officer?",
+        "pt-BR": "[{0}]\nQue tipo de Nevento é o oficial de suprimentos?",
+        "es-ES": "[{0}]\n¿Qué clase de Neviento es el oficial de suministros?"
     },
     "P94EDg": {
         "en-US": "[Patrol Captain]\nThe supply officer? Ah, you mean Supply Officer Gorir?",
@@ -321,53 +321,53 @@
     },
     "QN4EDg": {
         "en-US": "[Patrol Captain]\nWell, I can't say there are no problems at all, but they're relatively diligent and dependable.",
-        "pt-BR": "[Capitão da Patrulha]\nBem, não posso dizer que ele não tenha nenhum problema, mas é relativamente dedicado e responsável.",
-        "es-ES": "[Capitán de Patrulla]\nBueno, no diré que no tenga ningún problema, pero es bastante diligente y responsable."
+        "pt-BR": "[Capitão da Patrulha]\nBem, não posso dizer que ele não tenha nenhum problema, mas é dedicado e responsável.",
+        "es-ES": "[Capitán de Patrulla]\nBueno, no diré que no tenga ningún problema, pero tiene mucha dedicación y es responsable."
     },
     "Qd4EDg": {
         "en-US": "[Patrol Captain]\nThey kept trying to act like an agent around the patrol members at every opportunity and got scratched by a whip a few times...",
-        "pt-BR": "[Capitão da Patrulha]\nEle vivia tentando bancar o agente diante dos membros a toda hora e acabou levando algumas chicotadas...",
-        "es-ES": "[Capitán de Patrulla]\nComo intentaba hacerse pasar por agente a todas horas frente a los miembros, recibió unos cuantos golpes de fusta…"
+        "pt-BR": "[Capitán de Patrulla]\nComo vivia tentando bancar o agente, levou umas chicotadas...",
+        "es-ES": "[Capitán de Patrulla]\nComo siempre quería comportarse como agente, recibió unos chicotazos..."
     },
     "Qt4EDg": {
         "en-US": "[Patrol Captain]\nMaybe it shook them up, because they don't seem to do it anymore these days.",
-        "pt-BR": "[Capitão da Patrulha]\nTalvez tenha ficado traumatizado, porque ultimamente parece que parou com isso.",
-        "es-ES": "[Capitán de Patrulla]\nDebió quedar impactado, porque últimamente parece que ya no lo hace."
+        "pt-BR": "[Capitão da Patrulha]\nTalvez tenha ficado traumatizado, porque parou com isso.",
+        "es-ES": "[Capitán de Patrulla]\nDebió quedar impactado, porque ya no lo hace."
     },
     "Q94EDg": {
         "en-US": "[{0}]\nUm... Horiryu...",
-        "pt-BR": "[{0}]\nAquele... Horiryu...",
+        "pt-BR": "[{0}]\nAh... Horiryu...",
         "es-ES": "[{0}]\nEh… Horiryu…"
     },
     "RN4EDg": {
-        "en-US": "[Patrol Captain]\nAh, you mean Private Horiryu? Are you talking about how they ask adventurers traveling outside to bring back feathers?",
-        "pt-BR": "[Capitão da Patrulha]\nAh, está falando do soldado Horiryu? Quer falar sobre ele pedir aos aventureiros que circulam lá fora para trazerem penas?",
-        "es-ES": "[Capitán de Patrulla]\nAh, ¿te refieres al soldado Horiryu? ¿Quieres decir que les pide a los aventureros que recorren el exterior que le traigan plumas?"
+        "en-US": "[Patrol Captain]\nAh, you mean Corporal Horiryu? Are you talking about how they ask adventurers traveling outside to bring back feathers?",
+        "pt-BR": "[Capitão da Patrulha]\nAh, está falando do cabo Horiryu? Quer dizer que ele pede aos aventureiros que tragam penas?",
+        "es-ES": "[Capitán de Patrulla]\nAh, ¿hablas de Horiryu? ¿Dices que les pide a los aventureros que le traigan plumas?"
     },
     "Rd4EDg": {
         "en-US": "[Patrol Captain]\nI already know about that. Well, if I'm cold, wouldn't the patrol members be cold too?",
-        "pt-BR": "[Capitão da Patrulha]\nJá sei disso. Bem, se até eu sinto frio, acha que os membros não sentem?",
-        "es-ES": "[Capitán de Patrulla]\nYa lo sé. Bueno, si yo tengo frío, ¿cómo no van a tenerlo también los miembros?"
+        "pt-BR": "[Capitão da Patrulha]\nEu já sei disso. Se até eu sinto frio, por que os membros da patrulha não sentiriam também?",
+        "es-ES": "[Capitán de Patrulla]\nYa sabía. Si hasta yo tengo frío, ¿tú crees que los demás no?"
     },
     "Rt4EDg": {
         "en-US": "[Patrol Captain]\nIt's not like I can replace their supplies with anything better, and they're just trying to keep warm however they can...",
-        "pt-BR": "[Capitão da Patrulha]\nTambém não podemos trocar os suprimentos por algo melhor, e eles só estão tentando escapar do frio desse jeito...",
-        "es-ES": "[Capitán de Patrulla]\nTampoco puedo cambiar los suministros por algo mejor, y si así intenta protegerse un poco del frío…"
+        "pt-BR": "[Capitão da Patrulha]\nTambém não podemos trocar os suprimentos por algo melhor. Eles só estão tentando se proteger do frio como podem...",
+        "es-ES": "[Capitán de Patrulla]\nTampoco puedo cambiar los suministros por algo mejor, solo intentan escapar del frío a su modo..."
     },
     "R94EDg": {
         "en-US": "[Patrol Captain]\nWhat can I do about it? I know what's going on, but I just pretend not to notice and let it slide.",
-        "pt-BR": "[Capitão da Patrulha]\nO que eu poderia fazer quanto a isso? Mesmo sabendo, finjo que não sei e deixo passar.",
-        "es-ES": "[Capitán de Patrulla]\n¿Qué podría hacer al respecto? Lo sé, pero hago como si no supiera nada y lo dejo pasar."
+        "pt-BR": "[Capitão da Patrulha]\nO que eu poderia fazer? Mesmo sabendo, finjo que não sei e deixo passar.",
+        "es-ES": "[Capitán de Patrulla]\n¿Qué podría hacer al respecto? Bueno, me hago de la vista gorda."
     },
     "SN4EDg": {
         "en-US": "[{0}]\nIs Dried Ice Gangu really that good? I didn't think much of it...",
-        "pt-BR": "[{0}]\nBarata de Gelo Seca é mesmo tão gostosa? Eu não achei grande coisa...",
-        "es-ES": "[{0}]\n¿De verdad es rico el Ice Ganggu seco? A mí no me gustó mucho…"
+        "pt-BR": "[{0}]\nEsse Ice Gangu desidratado é tão gostoso assim? Não achei grande coisa...",
+        "es-ES": "[{0}]\n¿De verdad es rico el Ice Gangu seco? A mí no me gustó mucho…"
     },
     "Sd4EDg": {
         "en-US": "[Patrol Captain]\nI'd eat it whenever I could get it. I don't understand why you don't like it.",
         "pt-BR": "[Capitão da Patrulha]\nEu comeria sempre se tivesse. Na verdade, não entendo por que você não gosta.",
-        "es-ES": "[Capitán de Patrulla]\nSi hubiera más, comería todo lo que pudiera. Más bien, no entiendo por qué no te gusta."
+        "es-ES": "[Capitán de Patrulla]\nSi hubiera más, comería todo lo que pudiera. Bueno, no entiendo por qué no te gusta."
     },
     "St4EDg": {
         "en-US": "[{0}]\nDo they serve good food to the patrol?",
@@ -380,19 +380,19 @@
         "es-ES": "[Capitán de Patrulla]\nEs bastante buena."
     },
     "TN4EDg": {
-        "en-US": "[Patrol Captain]\nWell, sometimes there's this mysterious side dish that keeps showing up even though no Iwin likes it. It looks like monster feed...",
-        "pt-BR": "[Capitão da Patrulha]\nBem, às vezes aparece com frequência um acompanhamento estranho, parecido com comida de monstro, que nenhum Arwin gosta...",
-        "es-ES": "[Capitán de Patrulla]\nBueno, de vez en cuando sirven una guarnición inexplicable que parece comida para monstruos y que ningún Awin disfruta, pero sigue apareciendo con frecuencia…"
+        "en-US": "[Patrol Captain]\nWell, sometimes there's this mysterious side dish that keeps showing up even though no Windcy likes it. It looks like monster feed...",
+        "pt-BR": "[Capitão da Patrulha]\nBem, às vezes aparece um acompanhamento misterioso que nenhum Nevento gosta. Parece até ração para monstros...",
+        "es-ES": "[Capitán de Patrulla]\nBueno, a veces sirven una cosa extraña que ningún Neviento disfruta que parece comida para monstruo..."
     },
     "Td4EDg": {
         "en-US": "[Patrol Captain]\nBut overall, I'd say the food is pretty good.",
         "pt-BR": "[Capitão da Patrulha]\nMas, na média, dá para dizer que a comida é boa.",
-        "es-ES": "[Capitán de Patrulla]\nEn promedio, se puede decir que la comida es bastante buena."
+        "es-ES": "[Capitán de Patrulla]\nSe podría decir que, en general, la comida es buena."
     },
     "Tt4EDg": {
         "en-US": "[{0}]\nTell me how to deal with the cold.",
         "pt-BR": "[{0}]\nMe ensine como aguentar o frio.",
-        "es-ES": "[{0}]\nDígame cómo soportar el frío."
+        "es-ES": "[{0}]\nDime cómo soportar el frío."
     },
     "T94EDg": {
         "en-US": "[Patrol Captain]\nHow to deal with the cold? Grow some fur. The longer your fur is, the less cold you'll feel.",
@@ -401,12 +401,12 @@
     },
     "UN4EDg": {
         "en-US": "[Patrol Captain]\nFrom what I've seen, the adventurers around here tend to dress far too lightly, probably because they came from warmer places.",
-        "pt-BR": "[Capitão da Patrulha]\nPelo que vejo, talvez por virem de lugares quentes, os aventureiros daqui costumam se vestir com pouca roupa para este frio.",
-        "es-ES": "[Capitán de Patrulla]\nPor lo que veo, quizá porque los aventureros de por aquí vienen de lugares cálidos, suelen vestir con muy poca protección contra el frío."
+        "pt-BR": "[Capitão da Patrulha]\nPelo que vejo, os aventureiros daqui costumam se vestir com pouca roupa, provavelmente porque vêm de lugares mais quentes.",
+        "es-ES": "[Capitán de Patrulla]\nPor lo que veo, quizá porque los aventureros vienen de lugares cálidos, visten con muy poca protección contra el frío."
     },
     "Ud4EDg": {
         "en-US": "[{0}]\nDo you know all the patrol members' names?",
-        "pt-BR": "[{0}]\nVocê sabe o nome de todos os membros?",
+        "pt-BR": "[{0}]\nE sabe o nome de todos os membros?",
         "es-ES": "[{0}]\n¿Conoce los nombres de todos los miembros?"
     },
     "Ut4EDg": {
@@ -415,124 +415,124 @@
         "es-ES": "[Capitán de Patrulla]\nPor supuesto. ¿El nombre de quién quieres saber?"
     },
     "U94EDg": {
-        "en-US": "Recruit Borira",
-        "pt-BR": "Recruta Borira",
-        "es-ES": "Recluta Borira"
+        "en-US": "Cadet Borira",
+        "pt-BR": "Cadete Borira",
+        "es-ES": "Cadete Borira"
     },
     "VN4EDg": {
-        "en-US": "Recruit Pororong",
-        "pt-BR": "Recruta Ppororong",
-        "es-ES": "Recluta Pororong"
+        "en-US": "Cadet Pororong",
+        "pt-BR": "Cadete Pororong",
+        "es-ES": "Cadete Pororong"
     },
     "Vd4EDg": {
-        "en-US": "Recruit Horurung",
-        "pt-BR": "Recruta Horurung",
-        "es-ES": "Recluta Horurung"
+        "en-US": "Cadet Horurung",
+        "pt-BR": "Cadete Horurung",
+        "es-ES": "Cadete Horurung"
     },
     "Vt4EDg": {
         "en-US": "Private Rorur",
-        "pt-BR": "Soldado de 2ª Classe Rorur",
-        "es-ES": "Soldado de segunda clase Rorur"
+        "pt-BR": "Soldado Rorur",
+        "es-ES": "Soldado Rorur"
     },
     "V94EDg": {
         "en-US": "Private Torari",
-        "pt-BR": "Soldado de 2ª Classe Torari",
-        "es-ES": "Soldado de segunda clase Torari"
+        "pt-BR": "Soldado Torari",
+        "es-ES": "Soldado Torari"
     },
     "WN4EDg": {
-        "en-US": "Private Ttorarong",
-        "pt-BR": "Soldado de 2ª Classe Ttorarong",
-        "es-ES": "Soldado de segunda clase Ttorarong"
+        "en-US": "Private Torarong",
+        "pt-BR": "Soldado Torarong",
+        "es-ES": "Soldado Ttorarong"
     },
     "Wd4EDg": {
-        "en-US": "Private First Class Horiryu",
-        "pt-BR": "Soldado de 1ª Classe Horiryu",
-        "es-ES": "Soldado de primera clase Horiryu"
+        "en-US": "Corporal Horiryu",
+        "pt-BR": "Cabo Horiryu",
+        "es-ES": "Cabo Horiryu"
     },
     "Wt4EDg": {
-        "en-US": "Private First Class Porarang",
-        "pt-BR": "Soldado de 1ª Classe Porarang",
-        "es-ES": "Soldado de primera clase Porarang"
+        "en-US": "Corporal Porarang",
+        "pt-BR": "Cabo Porarang",
+        "es-ES": "Cabo Porarang"
     },
     "W94EDg": {
-        "en-US": "Private First Class Ssorur",
-        "pt-BR": "Soldado de 1ª Classe Ssorur",
-        "es-ES": "Soldado de primera clase Ssorur"
+        "en-US": "Corporal Sorur",
+        "pt-BR": "Cabo Sorur",
+        "es-ES": "Cabo Sorur"
     },
     "XN4EDg": {
-        "en-US": "Corporal Morurang",
-        "pt-BR": "Cabo Morurang",
-        "es-ES": "Cabo Morurang"
+        "en-US": "Sargent Morurang",
+        "pt-BR": "Sargento Morurang",
+        "es-ES": "Sargento Morurang"
     },
     "Xd4EDg": {
-        "en-US": "Corporal Moruryu",
-        "pt-BR": "Cabo Moruryu",
-        "es-ES": "Cabo Moruryu"
+        "en-US": "Sargent Moruryu",
+        "pt-BR": "Sargento Moruryu",
+        "es-ES": "Sargento Moruryu"
     },
     "Xt4EDg": {
-        "en-US": "Corporal Poruryo",
-        "pt-BR": "Cabo Pporuryo",
-        "es-ES": "Cabo Poruryo"
+        "en-US": "Sargent Poruryo",
+        "pt-BR": "Sargento Poruryo",
+        "es-ES": "Sargento Poruryo"
     },
     "X94EDg": {
-        "en-US": "[Patrol Captain]\nRecruit Borira's name is...\nIsabel Buck Hollis.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do recruta Borira é...\nIsabel Buck Hollis.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del recluta Borira es…\nIsabel Buck Hollis."
+        "en-US": "[Patrol Captain]\nCadet Borira's name is...\nIsabel Buck Hollis.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Cadete Borira é...\nIsabel Buck Hollis.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Cadete Borira es…\nIsabel Buck Hollis."
     },
     "YN4EDg": {
-        "en-US": "[Patrol Captain]\nRecruit Pororong's name is...\nSupernova Self-Controlled Cooper.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do recruta Ppororong é...\nSupernova Self-Controlled Cooper.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del recluta Pororong es…\nSupernova Self-Controlled Cooper."
+        "en-US": "[Patrol Captain]\nCadet Pororong's name is...\nSupernova Self-Controlled Cooper.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Cadete Pororong é...\nSupernova Self-Controlled Cooper.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Cadete Pororong es…\nSupernova Self-Controlled Cooper."
     },
     "Yd4EDg": {
-        "en-US": "[Patrol Captain]\nRecruit Horurung's name is...\nBaby Gabriel Denver.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do recruta Horurung é...\nAegi Gabriel Denver.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del recluta Horurung es…\nAegi Gabriel Denver."
+        "en-US": "[Patrol Captain]\nCadet Horurung's name is...\nBaby Gabriel Denver.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Cadete Horurung é...\nBaby Gabriel Denver.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Cadete Horurung es…\nAegi Gabriel Denver."
     },
     "Yt4EDg": {
         "en-US": "[Patrol Captain]\nPrivate Rorur's name is...\nViolet Matilda Lewis Rabia.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do Soldado de 2ª Classe Rorur é...\nViolet Matilda Lewis Ravia.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del soldado de segunda clase Rorur es…\nViolet Matilda Lewis Ravia."
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Soldado Rorur é...\nViolet Matilda Lewis Rabia.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Soldado Rorur es…\nViolet Matilda Lewis Ravia."
     },
     "Y94EDg": {
         "en-US": "[Patrol Captain]\nPrivate Torari's name is...\nTed Eldora Zhou Isabel.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do Soldado de 2ª Classe Torari é...\nTed Eldora Zhou Isabel.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del soldado de segunda clase Torari es…\nTed Eldora Zhou Isabel."
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Soldado Torari é...\nTed Eldora Zhou Isabel.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Soldado Torari es…\nTed Eldora Zhou Isabel."
     },
     "ZN4EDg": {
-        "en-US": "[Patrol Captain]\nPrivate Ttorarong's name is...\nHarley Hard-Working Victoria Evan.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do soldado Ttorarong é...\nHarley Hard-Walking Victoria Evan.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del soldado de segunda clase Ttorarong es...\nHarley Hard-Working Victoria Evan."
+        "en-US": "[Patrol Captain]\nPrivate Torarong's name is...\nHarley Hard-Working Victoria Evan.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Soldado Torarong é...\nHarley Hard-Working Victoria Evan.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Soldado Ttorarong es...\nHarley Hard-Working Victoria Evan."
     },
     "Zd4EDg": {
-        "en-US": "[Patrol Captain]\nPrivate Horiryu's name is...\nLev Diallo Carmen Jefferson Linda.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do soldado de primeira classe Horiryu é...\nLev Diallo Carmen Jefferson Linda.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del soldado de primera clase Horiryu es...\nRev Diallo Carmen Jefferson Linda."
+        "en-US": "[Patrol Captain]\nCorporal Horiryu's name is...\nLev Diallo Carmen Jefferson Linda.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Cabo Horiryu é...\nLev Diallo Carmen Jefferson Linda.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Cabo Horiryu es...\nLev Diallo Carmen Jefferson Linda"
     },
     "Zt4EDg": {
-        "en-US": "[Patrol Captain]\nPrivate Porarang's name is...\nAbid Oblivion Daisy Esteban Rappy.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do soldado de primeira classe Porarang é...\nAvid Oblivion Daisy Esteban Rappy.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del soldado de primera clase Porarang es...\nAvid Oblivion Daisy Esteban Rafi."
+        "en-US": "[Patrol Captain]\nCorporal Porarang's name is...\nAbid Oblivion Daisy Esteban Rappy.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Cabo Porarang é...\nAbid Oblivion Daisy Esteban Rappy.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Cabo Porarang es...\nAvid Oblivion Daisy Esteban Rafi."
     },
     "Z94EDg": {
-        "en-US": "[Patrol Captain]\nPrivate Ssorur's name is...\nJeremy Isis Aegi Misty Esther.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do soldado de primeira classe Ssorur é...\nJeremy Isis Aegi Misty Esther.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del soldado de primera clase Ssorur es...\nJeremy Isis Aggie Misty Esther."
+        "en-US": "[Patrol Captain]\nCorporal Sorur's name is...\nJeremy Isis Aegi Misty Esther.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Cabo Sorur é...\nJeremy Isis Aegi Misty Esther.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Cabo Sorur es...\nJeremy Isis Aggie Misty Esther."
     },
     "aN4EDg": {
-        "en-US": "[Patrol Captain]\nCorporal Morurang's name is...\nDoris Kali Jessie Sally Gem Crystal.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do cabo Morurang é...\nDoris Carly Jessie Sally Gem Crystal.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del cabo Morurang es...\nDoris Carly Jessie Sally Gem Crystal."
+        "en-US": "[Patrol Captain]\nSargent Morurang's name is...\nDoris Kali Jessie Sally Gem Crystal.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Sargento Morurang é...\nDoris Kali Jessie Sally Gem Crystal.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Sargento Morurang es...\nDoris Carly Jessie Sally Gem Crystal."
     },
     "ad4EDg": {
-        "en-US": "[Patrol Captain]\nCorporal Moruryu's name is...\nRichard Gilly Mabel Harmony Sugar Elisha.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do cabo Moruryu é...\nRichard Gilly Mabel Harmony Sugar Elisha.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del cabo Moruryu es...\nRichard Gilly Mabel Harmony Sugar Elisha."
+        "en-US": "[Patrol Captain]\nSargent Moruryu's name is...\nRichard Gilly Mabel Harmony Sugar Elisha.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Sargento Moruryu é...\nRichard Gilly Mabel Harmony Sugar Elisha.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Sargento Moruryu es...\nRichard Gilly Mabel Harmony Sugar Elisha."
     },
     "at4EDg": {
-        "en-US": "[Patrol Captain]\nCorporal Poruryo's name is...\nGiovanni Ray Rosie Thomas Dustin Darwin.",
-        "pt-BR": "[Capitão da Patrulha]\nO nome do cabo Pporuryo é...\nGiovanni Ray Rosie Thomas Dustin Darwin.",
-        "es-ES": "[Capitán de Patrulla]\nEl nombre del cabo Poruryo es...\nGiovanni Ray Rosie Thomas Dustin Darwin."
+        "en-US": "[Patrol Captain]\nSargent Poruryo's name is...\nGiovanni Ray Rosie Thomas Dustin Darwin.",
+        "pt-BR": "[Capitão da Patrulha]\nO nome do Sargento Poruryo é...\nGiovanni Ray Rosie Thomas Dustin Darwin.",
+        "es-ES": "[Capitán de Patrulla]\nEl nombre del Sargento Poruryo es...\nGiovanni Ray Rosie Thomas Dustin Darwin."
     },
     "a94EDg": {
         "en-US": "[Patrol Captain]\nPatrol menu error occurred.\nIf the same issue occurs after retrying, please take a screenshot and report it.",
@@ -540,9 +540,9 @@
         "es-ES": "[Capitán de Patrulla]\nSe produjo un error en el menú de patrulla.\nSi el mismo problema persiste después de volver a intentarlo, toma una captura de pantalla y repórtalo."
     },
     "bN4EDg": {
-        "en-US": "Private Horiryu",
-        "pt-BR": "Soldado de primeira classe Horiryu",
-        "es-ES": "Soldado de primera clase Horiryu"
+        "en-US": "Corporal Horiryu",
+        "pt-BR": "Cabo Horiryu",
+        "es-ES": "Cabo Horiryu"
     },
     "bd4EDg": {
         "en-US": "Notice",
@@ -551,73 +551,73 @@
     },
     "bt4EDg": {
         "en-US": "[Notice]\nThe \"Eagle Patrol\" is recruiting responsible adventurers to join its patrols.",
-        "pt-BR": "[Aviso]\nA 「Patrulha da Águia」 está recrutando aventureiros responsáveis para participar das patrulhas.",
-        "es-ES": "[Aviso]\nLa 「Patrulla del Águila」 busca aventureros responsables que quieran participar en las patrullas."
+        "pt-BR": "[Aviso]\nA Patrulha da Águia está recrutando aventureiros responsáveis para participar das patrulhas.",
+        "es-ES": "[Aviso]\nLa Patrulla del Águila busca aventureros responsables que quieran participar en las patrullas."
     },
     "b94EDg": {
         "en-US": "[Requirements]\nAll physically fit races capable of communication, except Rgan",
-        "pt-BR": "[Requisitos]\nTodas as raças, exceto Rgan, que sejam saudáveis e capazes de se comunicar.",
+        "pt-BR": "[Requisitos]\nTodas as raças fisicamente saudáveis e capazes de se comunicar, exceto Rgans.",
         "es-ES": "[Requisitos]\nCualquier raza, excepto Rgan, que goce de buena salud y pueda comunicarse."
     },
     "cN4EDg": {
         "en-US": "[Recruitment Inquiries]\n<Eagle Patrol>\n<NAVI>[Patrol Captain Marsha Gigi Happy Lev Eve<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Alice Lloyd Broad-Minded<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Tess Vortex]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\nWe look forward to your applications.",
-        "pt-BR": "[Informações de recrutamento]\n<Patrulha da Águia>\n<NAVI>[Capitão da Patrulha Marsha Gigi Happy Lev Eve<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Alice Lloyd Broad-Minded<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Tess Vortex]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\nAguardamos sua inscrição.",
+        "pt-BR": "[Informações de Recrutamento]\n<Patrulha da Águia>\n<NAVI>[Capitão da Patrulha Marsha Gigi Happy Lev Eve<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Alice Lloyd Broad-Minded<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Tess Vortex]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\nAguardamos sua inscrição.",
         "es-ES": "[Consultas de reclutamiento]\n<Patrulla del Águila>\n<NAVI>[Capitán de Patrulla Marsha Gigi Happy Rev Eve<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Alice Lloyd Broad-Minded<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\n<NAVI>Tess Vortex]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>\nEsperamos sus solicitudes."
     },
     "cd4EDg": {
         "en-US": "Supply Officer",
         "pt-BR": "Oficial de Suprimentos",
-        "es-ES": "Oficial de suministros"
+        "es-ES": "Oficial de Suministros"
     },
     "ct4EDg": {
         "en-US": "[Supply Officer Gorir]\nWhat kind of idiots are leaving food on Frozen Scale Hill and attracting bugs?",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nMas quem foi que deixou comida na Colina de Escamas Congeladas para atrair insetos?",
-        "es-ES": "[Oficial de suministros Gorir]\n¿Pero qué clase de idiotas dejan comida en la Colina de Escamas Congeladas para atraer insectos?"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nQue idiota está deixando comida na Colina de Escamas Congeladas e atraindo insetos?",
+        "es-ES": "[Oficial de Suministros Gorir]\n¿Qué clase de tontos dejan comida en la Colina de Escamas Congeladas para atraer insectos?"
     },
     "c94EDg": {
         "en-US": "[Supply Officer Gorir]\nHm? Who are you?\nAh! Are you the adventurer who recently wandered in here? My sharp eyes will be watching you, so you'd better not try anything funny.",
         "pt-BR": "[Oficial de Suprimentos Gorir]\nHum? Quem é você?\nAh! Você é o aventureiro que chegou aqui recentemente? Vou ficar de olho em você, então é melhor não tentar fazer nenhuma besteira.",
-        "es-ES": "[Oficial de suministros Gorir]\n¿Eh? ¿Y tú quién eres?\n¡Ah! ¿Eres el aventurero que llegó hace poco? Te estaré vigilando de cerca, así que será mejor que no hagas nada extraño."
+        "es-ES": "[Oficial de Suministros Gorir]\n¿Eh? ¿Y tú quién eres?\n¡Ah! ¿Eres quien llegó hace poco? Te estaré vigilando de cerca, no hagas nada extraño."
     },
     "dN4EDg": {
         "en-US": "[Supply Officer Gorir]\nAww, how did you end up all the way out in this freezing place? It's so cold here that you could get frostbite if you're not careful, so go stay somewhere warm.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nOra, ora, como você veio parar neste lugar tão frio? Aqui faz tanto frio que você pode acabar com queimaduras de frio se não tomar cuidado, então vá para algum lugar aquecido.",
-        "es-ES": "[Oficial de suministros Gorir]\nPobrecito, ¿cómo terminaste llegando hasta este lugar tan frío? Aquí hace tanto frío que podrías sufrir congelación en un descuido, así que será mejor que te quedes en algún lugar cálido."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nOra, ora, como você veio parar num lugar tão frio? Aqui faz tanto frio que você pode até sofrer queimaduras de frio se não tomar cuidado. Vá ficar em algum lugar quentinho.",
+        "es-ES": "[Oficial de Suministros Gorir]\n¿Cómo terminaste llegando hasta este lugar tan frío? Hace tanto frío que podrías congelarte si te descuidas. Mejor quédate en un lugar calentito."
     },
     "dd4EDg": {
         "en-US": "Supply Officer Gorir: Ah! You startled me.",
-        "pt-BR": "Oficial de Suprimentos Gorir: Ah! Que susto.",
-        "es-ES": "Oficial de suministros Gorir: ¡Ah! ¡Qué susto!"
+        "pt-BR": "Oficial de Suprimentos Gorir: Ah! Que susto!",
+        "es-ES": "Oficial de Suministros Gorir: ¡Ah! ¡Qué susto!"
     },
     "dt4EDg": {
         "en-US": "Supply Officer Gorir: Hm? A Rgan here?",
-        "pt-BR": "Oficial de Suprimentos Gorir: Hum? Um Rgan aqui?",
-        "es-ES": "Oficial de suministros Gorir: ¿Eh? ¿Un Rgan aquí?"
+        "pt-BR": "Oficial de Suprimentos Gorir: Hm? Um Rgan aqui?",
+        "es-ES": "Oficial de Suministros Gorir: ¿Eh? ¿Un Rgan aquí?"
     },
     "d94EDg": {
         "en-US": "Supply Officer Gorir: ... ... ...",
         "pt-BR": "Oficial de Suprimentos Gorir: ... ... ...",
-        "es-ES": "Oficial de suministros Gorir: ... ... ..."
+        "es-ES": "Oficial de Suministros Gorir: ... ... ..."
     },
     "eN4EDg": {
         "en-US": "Supply Officer Gorir: So you're the agent who can transform into a Rgan. Well, I suppose an agent should be capable of at least that much.",
-        "pt-BR": "Oficial de Suprimentos Gorir: Então era você o agente que se transforma em Rgan. Bem, sendo um agente, isso é o mínimo que se espera.",
-        "es-ES": "Oficial de suministros Gorir: Así que tú eras el agente que puede transformarse en Rgan. Claro, siendo agente, al menos deberías poder hacer eso."
+        "pt-BR": "Oficial de Suprimentos Gorir: Então você é o agente que consegue se transformar em Rgan. Bom, um agente tem que ser capaz de fazer pelo menos isso.",
+        "es-ES": "Oficial de Suministros Gorir: Ah, eres tú quien se puede transformar en Rgan. Claro, siendo agente, podrías hacer eso."
     },
     "ed4EDg": {
         "en-US": "Supply Officer Gorir: I've got a feeling... I've got a feeling...",
         "pt-BR": "Oficial de Suprimentos Gorir: Estou sentindo... Estou sentindo...",
-        "es-ES": "Oficial de suministros Gorir: Tengo un presentimiento.. lo siento venir.."
+        "es-ES": "Oficial de Suministros Gorir: Tengo un presentimiento... ya lo veo venir..."
     },
     "et4EDg": {
         "en-US": "[Supply Officer Gorir]\nWe recently received a report that an unidentified individual has been leaving food for the wildlife on Frozen Scale Hill.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nRecentemente, recebemos informações de que uma entidade não identificada está levando comida para os animais selvagens da Colina de Escamas Congeladas.",
-        "es-ES": "[Oficial de suministros Gorir]\nRecientemente recibimos información de que una entidad no identificada está dejando comida para los animales salvajes de la Colina de Escamas Congeladas."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nRecebemos recentemente uma denúncia de que alguém não identificado está deixando comida para os animais selvagens na Colina de Escamas Congeladas.",
+        "es-ES": "[Oficial de Suministros Gorir]\nHace poco recibimos información de que una entidad no identificada está dejando comida para los animales salvajes de la Colina de Escamas Congeladas."
     },
     "e94EDg": {
         "en-US": "[Supply Officer Gorir]\nIf left unchecked, this could cause various problems, such as attracting bugs.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nSe deixarmos isso como está, poderá causar vários problemas, como atrair insetos.",
-        "es-ES": "[Oficial de suministros Gorir]\nSi dejamos que esto continúe, podría causar varios problemas, como atraer insectos."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nSe isso não for controlado, poderá causar vários problemas, como atrair insetos.",
+        "es-ES": "[Oficial de Suministros Gorir]\nSi dejamos que esto continúe, podría causar varios problemas, como atraer insectos."
     },
     "fN4EDg": {
         "en-US": "[{0}]\nExcuse me?",
@@ -626,8 +626,8 @@
     },
     "fd4EDg": {
         "en-US": "[Supply Officer Gorir]\nYou might feed them out of sympathy, and at first glance it may seem like a kind thing to do, but if those actions add up, they could destroy the ecosystem. It's a very dangerous thing to do.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nPode parecer um gesto bondoso alimentar os animais por compaixão, mas, se essas ações se acumularem, podem acabar destruindo o ecossistema. É algo muito perigoso.",
-        "es-ES": "[Oficial de suministros Gorir]\nPuede que alguien les deje comida por compasión y que, a simple vista, parezca una buena acción, pero si esas acciones se acumulan, podrían destruir el ecosistema. Es algo muy peligroso."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nVocê pode até dar comida a eles por compaixão e, à primeira vista, isso pode parecer uma boa ação. Mas essas atitudes podem destruir o ecossistema. É algo muito perigoso.",
+        "es-ES": "[Oficial de Suministros Gorir]\nPuede que alguien les deje comida por compasión y que, a simple vista, parezca una buena acción, pero podrían destruir el ecosistema.\nEs algo muy peligroso."
     },
     "ft4EDg": {
         "en-US": "[{0}]\nUm, excuse me...",
@@ -636,13 +636,13 @@
     },
     "f94EDg": {
         "en-US": "[Supply Officer Gorir]\nHm? Just when I needed one, here's an agent with nothing to do. Agent! I have a mission for you.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nHum? Como se estivesse esperando por isso, temos um agente desocupado bem aqui. Agente! Vou lhe passar uma missão.",
-        "es-ES": "[Oficial de suministros Gorir]\n¿Eh? Justo cuando lo necesitaba, aquí tenemos a un agente desocupado. ¡Agente! Te asignaré una misión."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nHm? Um agente desocupado bem na hora em que eu precisava de um. Tenho uma missão para você.",
+        "es-ES": "[Oficial de Suministros Gorir]\n¿Eh? Justo cuando lo necesitaba, alguien desocupado.\n¡Agente! Te asignaré una misión."
     },
     "gN4EDg": {
         "en-US": "[Supply Officer Gorir]\nRetrieve the food that an unidentified individual left on Frozen Scale Hill!",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nRecupere a comida que essa entidade não identificada deixou na Colina de Escamas Congeladas!",
-        "es-ES": "[Oficial de suministros Gorir]\n¡Recupera la comida que esa entidad no identificada dejó en la Colina de Escamas Congeladas!"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nRecupere a comida que alguém deixou na Colina de Escamas Congeladas!",
+        "es-ES": "[Oficial de Suministros Gorir]\n¡Recupera la comida que esa entidad no identificada dejó en la Colina de Escamas Congeladas!"
     },
     "gd4EDg": {
         "en-US": "I'll do it.",
@@ -661,43 +661,43 @@
     },
     "hN4EDg": {
         "en-US": "Wait, what's with these choices?",
-        "pt-BR": "Mas o que houve com essas opções?",
+        "pt-BR": "Ué, que opções são essas?",
         "es-ES": "¿Pero qué pasa con estas opciones?"
     },
     "hd4EDg": {
         "en-US": "[Supply Officer Gorir]\nAn agent doesn't get to refuse in the first place.",
         "pt-BR": "[Oficial de Suprimentos Gorir]\nPara um agente, a opção de recusar simplesmente não existe.",
-        "es-ES": "[Oficial de suministros Gorir]\nPara un agente, la palabra \"rechazar\" no existe."
+        "es-ES": "[Oficial de Suministros Gorir]\nPara un agente, la palabra \"rechazar\" no existe."
     },
     "ht4EDg": {
         "en-US": "[Supply Officer Gorir]\nAgent! I'm always grateful for your Sacrifice.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nAgente! Agradeço sempre pela sua Redenção.",
-        "es-ES": "[Oficial de suministros Gorir]\n¡Agente! Siempre agradezco tu Devoción."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nAgente! Agradeço sua dedicação.",
+        "es-ES": "[Oficial de Suministros Gorir]\n¡Agente! Agradezco tu devoción."
     },
     "h94EDg": {
         "en-US": "[Supply Officer Gorir]\nKeep the retrieval mission top secret... You could handle it during a patrol mission, or while passing through Frozen Scale Hill on your own...",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nA missão de recuperação é ultrassecreta... Pode executá-la durante uma missão de patrulha ou quando estiver passando pela Colina de Escamas Congeladas por conta própria...",
-        "es-ES": "[Oficial de suministros Gorir]\nLa misión de recuperación es ultrasecreta.. Puedes encargarte durante una misión de patrulla o cuando pases por la Colina de Escamas Congeladas por tu cuenta.."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nA missão de recuperação é ultrassecreta... Você pode cuidar disso durante uma patrulha ou quando estiver passando pela Colina das Escamas Congeladas por conta própria...",
+        "es-ES": "[Oficial de Suministros Gorir]\nLa misión es ultrasecreta.. Puedes encargarte durante un patrullaje o cuando vayas de paso..."
     },
     "iN4EDg": {
         "en-US": "[Supply Officer Gorir]\nI'll leave it entirely up to you to decide when to take care of it.",
         "pt-BR": "[Oficial de Suprimentos Gorir]\nDeixo totalmente a seu critério decidir quando cumprir a missão.",
-        "es-ES": "[Oficial de suministros Gorir]\nDejaré completamente en tus manos decidir cuándo encargarte de ello."
+        "es-ES": "[Oficial de Suministros Gorir]\nDejaré en tus manos en qué momento quieras hacerlo."
     },
     "id4EDg": {
         "en-US": "[Supply Officer Gorir]\nGood luck, Agent!",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nEntão, boa sorte, agente!",
-        "es-ES": "[Oficial de suministros Gorir]\n¡Entonces, buena suerte, agente!"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nBoa sorte!",
+        "es-ES": "[Oficial de Suministros Gorir]\n¡Buena suerte!"
     },
     "it4EDg": {
         "en-US": "[Supply Officer Gorir]\nWe've received another report that someone left food out again. Will you join us this time too, Agent?",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nRecebemos informações de que alguém deixou comida lá de novo. Vai participar desta vez também, agente?",
-        "es-ES": "[Oficial de suministros Gorir]\nRecibimos información de que alguien volvió a dejar comida. ¿Participarás esta vez también, agente?"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nRecebemos outra denúncia de que alguém deixou comida lá novamente. Vai nos ajudar desta vez também?",
+        "es-ES": "[Oficial de Suministros Gorir]\nRecibimos información de que alguien volvió a dejar comida. ¿Te unes a nosotros?"
     },
     "i94EDg": {
         "en-US": "I'll join you.",
         "pt-BR": "Vou participar.",
-        "es-ES": "Participaré."
+        "es-ES": "Me uniré."
     },
     "jN4EDg": {
         "en-US": "That's false information.",
@@ -706,82 +706,82 @@
     },
     "jd4EDg": {
         "en-US": "[Supply Officer Gorir]\nI'll leave everything about this mission in your hands again. Good luck, Agent!",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nDesta vez também, deixarei tudo relacionado à missão em suas mãos, agente. Boa sorte!",
-        "es-ES": "[Oficial de suministros Gorir]\nEsta vez también dejaré todo lo relacionado con la misión en tus manos. ¡Buena suerte, agente!"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nDesta vez também, deixarei tudo relacionado à missão em suas mãos. Boa sorte!",
+        "es-ES": "[Oficial de Suministros Gorir]\nVoy a dejarlo todo en tus manos.\n¡Buena suerte, agente!"
     },
     "jt4EDg": {
         "en-US": "[Supply Officer Gorir]\nWhat! False information? I almost made a serious mistake. I'll investigate further before assigning the mission.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nO quê! Informação falsa? Quase cometi um grande erro. Vou verificar melhor antes de lhe passar a missão.",
-        "es-ES": "[Oficial de suministros Gorir]\n¡¿Qué?! ¿Información falsa? Estuve a punto de cometer un gran error. Investigaré un poco más antes de asignarte la misión."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nO quê?! Informação falsa? Por pouco não cometi um erro grave! Vou investigar melhor antes de designar a missão.",
+        "es-ES": "[Oficial de Suministros Gorir]\n¡¿Qué?! ¿Información falsa? Estuve a punto de cometer un error. Voy a investigar más antes de asignarte la misión."
     },
     "j94EDg": {
         "en-US": "[Supply Officer Gorir]\nAhaha... The weather sure is warm today. Have a good day, adventurer...",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nAhaha... O clima está tão agradável hoje. Tenha um bom dia também, aventureiro...",
-        "es-ES": "[Oficial de suministros Gorir]\nJa, ja.. Qué cálido está el clima hoy. Que tengas un buen día, aventurero.."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nAhaha... O clima está tão agradável hoje! Tenha um bom dia, aventureiro!",
+        "es-ES": "[Oficial de Suministros Gorir]\nQué cálido está el clima hoy. ¡Que tengas un buen día!"
     },
     "kN4EDg": {
         "en-US": "Supply Officer Gorir seems to be desperately pretending not to know me. Is there some kind of rule about pretending not to know each other when we're not on a mission?",
-        "pt-BR": "O Oficial de Suprimentos Gorir parece estar se esforçando ao máximo para fingir que não me conhece. Será que existe alguma regra de fingir que não conhece os agentes quando não há uma missão?",
-        "es-ES": "El Oficial de suministros Gorir parece estar esforzándose desesperadamente por fingir que no me conoce. ¿Acaso existe alguna regla de fingir que no nos conocemos cuando no hay una misión?"
+        "pt-BR": "Parece que o Oficial de Suprimentos Gorir está se esforçando ao máximo para fingir que não me conhece. Será que existe alguma regra que nos obriga a fingir que não nos conhecemos quando não estamos em missão?",
+        "es-ES": "El Oficial de Suministros Gorir parece estar esforzándose desesperadamente por fingir que no me conoce. ¿Existirá alguna regla de fingir que no nos conocemos cuando no hay una misión?"
     },
     "kd4EDg": {
         "en-US": "[Supply Officer Gorir]\nI've got a feeling... I've got a feeling...",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nEstou sentindo… Estou sentindo...",
-        "es-ES": "[Oficial de suministros Gorir]\nTengo un presentimiento… lo siento venir.."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nEstou tendo um pressentimento... Estou tendo um pressentimento...",
+        "es-ES": "[Oficial de Suministros Gorir]\nTengo un presentimiento... lo siento venir..."
     },
     "kt4EDg": {
         "en-US": "[Supply Officer Gorir]\nI'll leave everything about this mission entirely in your hands.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nDeixo tudo relacionado a esta missão inteiramente em suas mãos, agente.",
-        "es-ES": "[Oficial de suministros Gorir]\nDejaré todo lo relacionado con esta misión completamente en tus manos, agente."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nDeixo tudo o que diz respeito a esta missão inteiramente nas suas mãos.",
+        "es-ES": "[Oficial de Suministros Gorir]\nDejaré todo lo que tenga que ver con esta misión en tus manos."
     },
     "k94EDg": {
         "en-US": "[Supply Officer Gorir]\nAh! Call it advice or don't, but the mindset of people who go so far as to do something they're told not to do just to hide something is obvious!",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nAh! Pode considerar isso um conselho ou não. A intenção de quem chega ao ponto de fazer algo que foi proibido só para esconder alguma coisa é óbvia!",
-        "es-ES": "[Oficial de suministros Gorir]\n¡Ah! Puedes tomarlo como un consejo o no. ¡Es obvio cómo piensan los que esconden algo incluso haciendo cosas que se les dijo que no hicieran!"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nAh! Considere isso um conselho ou não, mas é óbvio o que se passa na cabeça de quem faz o que foi proibido só para esconder alguma coisa!",
+        "es-ES": "[Oficial de Suministros Gorir]\nPuedes tomarlo como un consejo o no. ¡Es obvio cómo piensan los que hacen cosas que saben que no pueden hacer!"
     },
     "lN4EDg": {
         "en-US": "[Supply Officer Gorir]\nThey probably thought, \"No one will see it if I hide it this well,\" and left it somewhere painfully obvious. Good luck, Agent!",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nDevem ter escondido de um jeito tão óbvio, pensando ingenuamente que ninguém perceberia. Boa sorte, agente!",
-        "es-ES": "[Oficial de suministros Gorir]\nSeguro lo escondieron de forma tan evidente que cualquiera podría notarlo, pensando que así nadie lo vería. ¡Buena suerte, agente!"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nProvavelmente pensaram: \"Se eu esconder bem assim, ninguém vai ver\", e acabaram deixando tudo num lugar descaradamente óbvio. Boa sorte!",
+        "es-ES": "[Oficial de Suministros Gorir]\nSeguro lo escondieron en un lugar obvio pensando que nadie se daría cuenta. Buena suerte."
     },
     "ld4EDg": {
         "en-US": "[Supply Officer Gorir]\nYou're back? Good, Agent! You retrieved the item, of course, right?",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nVoltou? Muito bem, agente! É claro que recuperou o objeto, não é?",
-        "es-ES": "[Oficial de suministros Gorir]\n¿Ya regresaste? ¡Bien, agente! Por supuesto que recuperaste el objeto, ¿verdad?"
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nVoltou? Muito bem! É claro que recuperou o objeto, não é?",
+        "es-ES": "[Oficial de Suministros Gorir]\n¿Ya regresaste? ¡Bien! Recuperaste el objeto, ¿verdad?"
     },
     "lt4EDg": {
         "en-US": "[Supply Officer Gorir]\nIs that what you're holding now? Hm... That's food from yesterday's rations. Hiding this away... whoever this unidentified person is, they're pretty clever.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nIsso que está segurando é o objeto? Hum... É a comida que foi servida ontem. Esconder isso desse jeito... essa entidade não identificada até que é habilidosa.",
-        "es-ES": "[Oficial de suministros Gorir]\n¿Eso que tienes en las manos es el objeto? Hmm.. Es la comida que sirvieron ayer. Ocultar esto... esa entidad no identificada sí que se las ingenia."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nÉ isso que está segurando? Hm... É a comida que foi servida ontem. Esconder isso... Seja quem for essa entidade não identificada, ela é bem esperta.",
+        "es-ES": "[Oficial de Suministros Gorir]\n¿Eso que tienes en las manos es el objeto? Es la comida que dejaron ayer. Esconde eso... esa entidad sí que es hábil."
     },
     "l94EDg": {
         "en-US": "[Supply Officer Gorir]\nThis is a reward for your Sacrifice and consideration, Agent. Of course, you weren't expecting anything like this. I know exactly how you feel...",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nIsto é uma recompensa pela sua Redenção e consideração, agente. É claro que você não esperava nada em troca. Eu sei muito bem disso...",
-        "es-ES": "[Oficial de suministros Gorir]\nEsta es una recompensa por tu Devoción y consideración, agente. Claro que tú no esperabas algo así. Sé muy bien cómo te sientes.."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nEsta é uma recompensa pela sua dedicação e consideração. Claro que você não esperava receber nada em troca. Sei bem o que está sentindo...",
+        "es-ES": "[Oficial de Suministros Gorir]\nEsta es una recompensa por tu devoción y consideración. Claro que tú no esperabas algo así. Sé muy bien cómo te sientes..."
     },
     "mN4EDg": {
         "en-US": "[Supply Officer Gorir]\nStill, think of it as a small token from me so I can ask for your help again tomorrow.",
         "pt-BR": "[Oficial de Suprimentos Gorir]\nMas considere isso apenas um pequeno gesto meu para poder contar com você amanhã também.",
-        "es-ES": "[Oficial de suministros Gorir]\nPero considéralo como una pequeña muestra de mi gratitud para poder pedirte ayuda mañana también."
+        "es-ES": "[Oficial de Suministros Gorir]\nConsidéralo como una pequeña muestra de mi gratitud para poder pedirte ayuda mañana también."
     },
     "md4EDg": {
         "en-US": "[Supply Officer Gorir]\nBut why are you empty-handed? Looks like you misunderstood something, Agent. That can happen during a mission. I'll wait.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nMas por que está de mãos vazias? Parece que houve algum engano, agente. Isso pode acontecer durante uma missão. Vou esperar.",
-        "es-ES": "[Oficial de suministros Gorir]\nPero ¿por qué tienes las manos vacías? Parece que hubo algún malentendido. Puede pasar durante una misión. Te esperaré."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nMas por que está de mãos vazias? Parece que você entendeu algo errado. Isso pode acontecer durante uma missão. Vou esperar.",
+        "es-ES": "[Oficial de Suministros Gorir]\n ¿Por qué tienes las manos vacías? Parece que hubo algún malentendido. Puede pasar durante una misión. Te esperaré."
     },
     "mt4EDg": {
         "en-US": "[Supply Officer Gorir]\nDo Not Feed quest error occurred.\nIf the same issue occurs after retrying, please take a screenshot and report it.",
-        "pt-BR": "[Oficial de Suprimentos Gorir]\nOcorreu um erro na missão Não Alimente os Animais.\nSe o mesmo problema ocorrer após tentar novamente, tire uma captura de tela e envie um relatório.",
-        "es-ES": "[Oficial de suministros Gorir]\nSe produjo un error en la misión No alimentar.\nSi el mismo problema persiste después de volver a intentarlo, toma una captura de pantalla y repórtalo."
+        "pt-BR": "[Oficial de Suprimentos Gorir]\nOcorreu um erro na missão. Se o problema persistir após tentar novamente, tire uma captura de tela e relate o ocorrido.",
+        "es-ES": "[Oficial de Suministros Gorir]\nSe produjo un error en la misión No alimentar.\nSi el problema persiste, toma una captura de pantalla y repórtalo."
     },
     "m94EDg": {
         "en-US": "Something Management",
-        "pt-BR": "Gerenciamento de Alguma Coisa",
-        "es-ES": "Gestión de algo"
+        "pt-BR": "Gerenciamento de Algo",
+        "es-ES": "Gestión de Algo"
     },
     "nN4EDg": {
         "en-US": "Something",
-        "pt-BR": "Alguma Coisa",
+        "pt-BR": "Algo",
         "es-ES": "Algo"
     },
     "nd4EDg": {
@@ -791,13 +791,13 @@
     },
     "nt4EDg": {
         "en-US": "It looks like the 「^888888Something^000000」 is lightly covered with dirt. It seems to be moving... this is dirt, right?",
-        "pt-BR": "Parece que 「^888888Alguma Coisa^000000」 está levemente coberta de terra. Parece estar se mexendo... isso é terra mesmo, não é?",
-        "es-ES": "Parece que 「^888888algo^000000」 está ligeramente cubierto de tierra. Parece que se mueve... esto sí es tierra, ¿verdad?"
+        "pt-BR": "Parece que o 「^888888Algo^000000」 está levemente coberto de terra. Parece estar se mexendo... Isso é terra mesmo, não é?",
+        "es-ES": "Parece que ^888888Algo^000000  está ligeramente cubierto de tierra. Se mueve... sí es tierra, ¿no?"
     },
     "n94EDg": {
         "en-US": "Uncover it.",
         "pt-BR": "Ver o que há embaixo.",
-        "es-ES": "Revisar debajo."
+        "es-ES": "Revisar."
     },
     "oN4EDg": {
         "en-US": "Leave it alone.",
@@ -806,23 +806,23 @@
     },
     "od4EDg": {
         "en-US": "Right! Something scary might come out of the 「Something」, so let's just leave it alone.",
-        "pt-BR": "Isso! Pode ser que alguma 「Alguma Coisa」 assustadora apareça, então é melhor deixar como está.",
-        "es-ES": "¡Sí! Podría salir algún 「algo」 aterrador, así que será mejor dejarlo como está."
+        "pt-BR": "Isso mesmo! Pode sair alguma coisa assustadora de「Algo」, então é melhor deixar quieto.",
+        "es-ES": "¡Sí! Podría salir algún Algo aterrador es mejor dejarlo como está."
     },
     "ot4EDg": {
         "en-US": "You found food that someone left here. Take it to Supply Officer Gorir.",
-        "pt-BR": "Encontrei a comida que alguém deixou aqui. Vamos levá-la ao Oficial de Suprimentos Gorir.",
-        "es-ES": "Encontré la comida que alguien dejó aquí. Llevémosla al Oficial de suministros Gorir."
+        "pt-BR": "Você encontrou a comida que alguém deixou aqui. Leve-a ao Oficial de Suprimentos Gorir.",
+        "es-ES": "Encontré la comida que alguien dejó aquí. Llevémosla al Oficial de Suministros Gorir."
     },
     "o94EDg": {
         "en-US": "Oh... What? It's just an ordinary pile of dirt.",
-        "pt-BR": "Ah... O quê? É só um monte de terra comum?",
-        "es-ES": "Bah.. ¿Qué es esto? Solo es un montón de tierra común."
+        "pt-BR": "Ah... O quê? É só um monte de terra comum!",
+        "es-ES": "Bah...  ¿Qué es esto? Solo es un montón de tierra común."
     },
     "pN4EDg": {
         "en-US": "Aah! Bugs?! What in the world was in there?!",
-        "pt-BR": "Aaah! São insetos? O que diabos tinha aqui?!",
-        "es-ES": "¡Aaah! ¿Es un insecto? ¡¿Qué diablos había aquí?!"
+        "pt-BR": "Aaah! Insetos?! O que diabos tinha aí dentro?!",
+        "es-ES": "¡Aaah! ¿Es un insecto? ¡¿Qué había aquí?!"
     },
     "pd4EDg": {
         "en-US": "Eagle Patrol",
@@ -846,12 +846,12 @@
     },
     "qd4EDg": {
         "en-US": "Morning Roll Call",
-        "pt-BR": "Chamada Matinal",
+        "pt-BR": "Formação Matinal",
         "es-ES": "Formación matutina"
     },
     "qt4EDg": {
         "en-US": "Evening Roll Call",
-        "pt-BR": "Chamada Noturna",
+        "pt-BR": "Formação Noturna",
         "es-ES": "Formación vespertina"
     },
     "q94EDg": {
@@ -866,77 +866,77 @@
     },
     "rd4EDg": {
         "en-US": "Oriryo: Squad 2, prepare to head out for duty.",
-        "pt-BR": "Oriryo: Grupo 2, preparem-se para sair de serviço.",
+        "pt-BR": "Oriryo: Esquadrão 2, preparem-se para sair em serviço.",
         "es-ES": "Oriryo: Grupo 2, prepárense para salir de servicio."
     },
     "rt4EDg": {
         "en-US": "Pororong: Yes, sir! Heading out for duty.",
-        "pt-BR": "Ppororong: Sim! Vamos cumprir nosso turno.",
+        "pt-BR": "Pororong: Sim, senhor! Estamos saindo para o serviço.",
         "es-ES": "Pororong: ¡Sí! Nos vamos de servicio."
     },
     "r94EDg": {
         "en-US": "Torari: Yes~ I'm all ready.",
-        "pt-BR": "Torari: Sim~ Já estou pronto.",
+        "pt-BR": "Torari: Sim! Já estou pronto.",
         "es-ES": "Torari: Sí~ Ya estamos listos."
     },
     "sN4EDg": {
         "en-US": "Oriryo: Squad 3, prepare to head out for duty.",
-        "pt-BR": "Oriryo: Grupo 3, preparem-se para sair de serviço.",
+        "pt-BR": "Oriryo: Esquadrão 3, preparem-se para sair em serviço.",
         "es-ES": "Oriryo: Grupo 3, prepárense para salir de servicio."
     },
     "sd4EDg": {
         "en-US": "Horurung: Yes, sir! Heading out for duty.",
-        "pt-BR": "Horurung: Sim! Vamos cumprir nosso turno.",
+        "pt-BR": "Horurung: Sim, senhor! Estamos saindo para o serviço.",
         "es-ES": "Horurung: ¡Sí! Nos vamos de servicio."
     },
     "st4EDg": {
-        "en-US": "Ttorarong: Yes, sir~",
-        "pt-BR": "Ttorarong: Sim, senhor~",
+        "en-US": "Torarong: Yes, sir~",
+        "pt-BR": "Torarong: Sim, senhor!",
         "es-ES": "Ttorarong: ¡Sí, señor!~"
     },
     "s94EDg": {
         "en-US": "Oriryo: Nothing happened overnight, right?",
-        "pt-BR": "Oriryo: Não aconteceu nada durante a noite, certo?",
+        "pt-BR": "Oriryo: Nada aconteceu durante a noite, certo?",
         "es-ES": "Oriryo: No pasó nada durante la noche, ¿verdad?"
     },
     "tN4EDg": {
-        "en-US": "Ttorarong: Yes!",
-        "pt-BR": "Ttorarong: Sim!",
+        "en-US": "Torarong: Yes!",
+        "pt-BR": "Torarong: Certo!",
         "es-ES": "Ttorarong: ¡Sí!"
     },
     "td4EDg": {
         "en-US": "Torari: Yes!",
-        "pt-BR": "Torari: Sim!",
+        "pt-BR": "Torari: Certo!",
         "es-ES": "Torari: ¡Sí!"
     },
     "tt4EDg": {
         "en-US": "Gorori: Yes!",
-        "pt-BR": "Gorori: Sim!",
+        "pt-BR": "Gorori: Certo!",
         "es-ES": "Gorori: ¡Sí!"
     },
     "t94EDg": {
         "en-US": "Horiryu: Yes!",
-        "pt-BR": "Horiryu: Sim!",
+        "pt-BR": "Horiryu: Certo!",
         "es-ES": "Horiryu: ¡Sí!"
     },
     "uN4EDg": {
         "en-US": "Pororong: Yes!",
-        "pt-BR": "Ppororong: Sim!",
+        "pt-BR": "Pororong: Certo!",
         "es-ES": "Pororong: ¡Sí!"
     },
     "ud4EDg": {
         "en-US": "Horurung: Yes!",
-        "pt-BR": "Horurung: Sim!",
+        "pt-BR": "Horurung: Certo!",
         "es-ES": "Horurung: ¡Sí!"
     },
     "ut4EDg": {
-        "en-US": "Oriryo: Starting head count. Ttorarong, you start!",
-        "pt-BR": "Oriryo: Vamos começar a contagem. Começando por Ttorarong!",
+        "en-US": "Oriryo: Starting head count. Torarong, you start!",
+        "pt-BR": "Oriryo: Vamos começar a contagem. Começando por Torarong!",
         "es-ES": "Oriryo: Empezaremos el pase de lista. ¡Comienza Ttorarong!"
     },
     "u94EDg": {
-        "en-US": "Ttorarong: One!",
-        "pt-BR": "Ttorarong: Um!",
+        "en-US": "Torarong: One!",
+        "pt-BR": "Torarong: Um!",
         "es-ES": "Ttorarong: ¡Uno!"
     },
     "vN4EDg": {
@@ -952,11 +952,11 @@
     "vt4EDg": {
         "en-US": "Horiryu: Four!!!",
         "pt-BR": "Horiryu: Quatro!!!",
-        "es-ES": "Horiryu: ¡Cuatro!!!"
+        "es-ES": "Horiryu: ¡Cuatro!"
     },
     "v94EDg": {
         "en-US": "Pororong: Five!!!!!",
-        "pt-BR": "Ppororong: Cinco!!!!!",
+        "pt-BR": "Pororong: Cinco!!!!!",
         "es-ES": "Pororong: ¡Cinco!!!!!"
     },
     "wN4EDg": {
@@ -966,28 +966,28 @@
     },
     "wd4EDg": {
         "en-US": "Oriryo: Everyone's here. Keep up the good work today~",
-        "pt-BR": "Oriryo: Estão todos aqui. Bom trabalho hoje~",
+        "pt-BR": "Oriryo: Estão todos aqui. Bom trabalho hoje.",
         "es-ES": "Oriryo: Están todos. Buen trabajo hoy~"
     },
     "wt4EDg": {
         "en-US": "Oriryo: Good work today, everyone.",
-        "pt-BR": "Oriryo: Bom trabalho hoje.",
+        "pt-BR": "Oriryo: Bom trabalho hoje, pessoal.",
         "es-ES": "Oriryo: Trabajaron mucho hoy."
     },
     "w94EDg": {
-        "en-US": "Oriryo: Let's do a head count and get to bed. Ttorarong, you start!",
-        "pt-BR": "Oriryo: Vamos contar o pessoal e dormir logo. Começando por Ttorarong!",
+        "en-US": "Oriryo: Let's do a head count and get to bed. Torarong, you start!",
+        "pt-BR": "Oriryo: Vamos fazer a contagem e ir dormir. Torarong, comece!",
         "es-ES": "Oriryo: Hagamos el pase de lista y vayamos a dormir. ¡Comienza Ttorarong!"
     },
     "xN4EDg": {
         "en-US": "Oriryo: Everyone's accounted for. Sleep well~",
-        "pt-BR": "Oriryo: Está todo mundo aqui. Boa noite~",
+        "pt-BR": "Oriryo: Está todo mundo aqui. Boa noite.",
         "es-ES": "Oriryo: No falta nadie. Que descansen~"
     },
     "xd4EDg": {
-        "en-US": "Private Horiryu",
-        "pt-BR": "Soldado de primeira classe Horiryu",
-        "es-ES": "Soldado de primera clase Horiryu"
+        "en-US": "Corporal Horiryu",
+        "pt-BR": "Cabo Horiryu",
+        "es-ES": "Cabo Horiryu"
     },
     "xt4EDg": {
         "en-US": "z Z zz Z..",
@@ -995,24 +995,24 @@
         "es-ES": "z Z zz Z.."
     },
     "x94EDg": {
-        "en-US": "An Iwin is sitting on a bunk, nodding off.",
-        "pt-BR": "Um Arwin está sentado na cama, cochilando.",
-        "es-ES": "Un Awin está sentado en una cama, cabeceando de sueño."
+        "en-US": "An Windcy is sitting on a bunk, nodding off.",
+        "pt-BR": "Um Nevento está sentado em uma cama, cochilando.",
+        "es-ES": "Un Neviento está sentado en una cama y cabecea de sueño."
     },
     "yN4EDg": {
         "en-US": "Mm.",
-        "pt-BR": "ㅇ",
-        "es-ES": "ㅇ"
+        "pt-BR": "Hum.",
+        "es-ES": "Hm."
     },
     "yd4EDg": {
-        "en-US": "Private Horiryu: Shh! You know we have to be discreet, right?",
-        "pt-BR": "Soldado de primeira classe Horiryu: Shh! Você sabe que temos que ser discretos, não sabe?",
-        "es-ES": "Soldado de primera clase Horiryu: ¡Shh! Sabes que debemos ser discretos, ¿verdad?"
+        "en-US": "Corporal Horiryu: Shh! You know we have to be discreet, right?",
+        "pt-BR": "Cabo Horiryu: Shh! Você sabe que precisamos ser discretos, certo?",
+        "es-ES": "Cabo Horiryu: ¡Shh! Sabes que debemos ser discretos, ¿verdad?"
     },
     "yt4EDg": {
-        "en-US": "While most of the Iwin are asleep in the patrol barracks, one Iwin is bustling around alone. What's going on?",
-        "pt-BR": "No alojamento da patrulha, onde a maioria dos Arwin está dormindo, um Arwin se movimenta sozinho de um lado para outro. Será que aconteceu alguma coisa?",
-        "es-ES": "En el cuartel de la patrulla, donde la mayoría de los Awin están dormidos, un Awin se mueve de un lado a otro por su cuenta. ¿Habrá pasado algo?"
+        "en-US": "While most of the Windcy are asleep in the patrol barracks, one Windcy is bustling around alone. What's going on?",
+        "pt-BR": "Enquanto a maioria dos Neventos dorme no alojamento da patrulha, um deles está se movimentando de um lado para o outro sozinho. O que será que aconteceu?",
+        "es-ES": "En el cuartel de la patrulla, donde la mayoría de los Nevientos están dormidos, un Nevientos se mueve de un lado a otro. ¿Pasó algo?"
     },
     "y94EDg": {
         "en-US": "Talk to them.",
@@ -1020,14 +1020,14 @@
         "es-ES": "Hablarle."
     },
     "zN4EDg": {
-        "en-US": "Private Horiryu: Private Horiryu!",
-        "pt-BR": "Soldado de primeira classe Horiryu: Soldado de primeira classe Horiryu!",
-        "es-ES": "Soldado de primera clase Horiryu: ¡Soldado de primera clase Horiryu!"
+        "en-US": "Corporal Horiryu: Corporal Horiryu!",
+        "pt-BR": "Cabo Horiryu: Cabo Horiryu!",
+        "es-ES": "Cabo Horiryu: ¡Cabo Horiryu!"
     },
     "zd4EDg": {
-        "en-US": "[Private Horiryu]\nHuh! What? You're not a senior Iwin. Man... what a letdown...",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nHã! O quê? Você não é um Arwin veterano. Ah... Que decepção...",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡Ah! ¿Qué? No eres un Awin veterano. Bah.. Qué decepción.."
+        "en-US": "[Private Horiryu]\nHuh! What? You're not a senior Windcy. Man... what a letdown...",
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nUé! O quê? Você não é um Nevento superior a mim. Nossa, que decepção!",
+        "es-ES": "[Soldado Horiryu]\n¡Ah! ¿Qué? No eres un Neviento veterano. Qué decepción..."
     },
     "zt4EDg": {
         "en-US": "[{0}]\nWhat? What's going on?",
@@ -1036,53 +1036,53 @@
     },
     "z94EDg": {
         "en-US": "[Private Horiryu]\nHave we met before? Why are you suddenly talking to me so casually?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nA gente já se conhece? Por que está falando comigo assim do nada?",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¿Nos conocemos? ¿Por qué de repente me hablas con tanta confianza?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nA gente já se conhece? Por que está falando comigo com tanta intimidade de repente?",
+        "es-ES": "[Soldado Horiryu]\n¿Nos conocemos? ¿Por qué me hablas con tanta confianza?"
     },
     "0N4EDg": {
         "en-US": "[Private Horiryu]\nHahaha, don't get scared. I'm just kidding. It was a little test to see if you've got some guts.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nHahaha, não precisa ficar nervoso. Foi só uma brincadeira. Também era um teste para ver se você tinha coragem.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nJajaja, no te asustes, era una broma. Solo era una prueba para ver si tenías agallas."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nHahaha, não precisa se assustar. É brincadeira! Só queria testar se você tem coragem.",
+        "es-ES": "[Soldado Horiryu]\nJajaja, no te asustes, era una broma. Solo era una prueba para ver si tenías agallas."
     },
     "0d4EDg": {
         "en-US": "[Private Horiryu]\nLet me explain the situation. As you can probably tell just by looking around, adventurer, everything here is ice.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nVou explicar a situação. Como você também deve ter percebido olhando em volta, aventureiro, aqui é tudo gelo.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nDéjame explicarte un poco la situación. Como puedes ver si miras a tu alrededor, amigo aventurero, todo es hielo."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nVou explicar a situação. Como deve ter percebido ao olhar ao redor, aqui é tudo feito de gelo.",
+        "es-ES": "[Soldado Horiryu]\nDéjame explicarte un poco la situación. Como puedes ver a tu alrededor, todo es hielo."
     },
     "0t4EDg": {
         "en-US": "[Private Horiryu]\nNo matter where you look, it's nothing but ice! It's cold! Way too cold!!",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nPara onde quer que olhe, só tem gelo! Está frio! Frio demais!!",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡Mires donde mires, no hay más que hielo! ¡Hace frío! ¡¡Demasiado frío!!"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nPara onde quer que olhe, só tem gelo! Faz frio! Frio demais!",
+        "es-ES": "[Soldado Horiryu]\n¡Mires donde mires, no hay más que hielo! ¡Hace frío! ¡Demasiado frío!"
     },
     "094EDg": {
         "en-US": "[Private Horiryu]\nThen I heard rumors about adventurers who came from outside...",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nFoi então que ouvi rumores sobre aventureiros vindos de fora..",
-        "es-ES": "[Soldado de primera clase Horiryu]\nEntonces escuché rumores sobre unos aventureros que habían venido de afuera.."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nFoi então que ouvi rumores sobre aventureiros vindos de fora...",
+        "es-ES": "[Soldado Horiryu]\nEscuché rumores sobre unos aventureros que vinieron de fuera..."
     },
     "1N4EDg": {
         "en-US": "[Private Horiryu]\nBut before that, adventurer, there's something I want to ask... Outside... the outside world must be full of warm feathers, right?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nAntes disso, aventureiro, quero perguntar uma coisa.. Lá fora.. lá fora deve ser um mundo cheio de penas quentinhas, não é?",
-        "es-ES": "[Soldado de primera clase Horiryu]\nPero antes, amigo aventurero, quiero preguntarte algo.. Afuera.. ¿afuera debe ser un mundo lleno de plumas cálidas, verdad?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nMas, antes disso, quero te perguntar uma coisa... Lá fora, o mundo deve ser cheio de penas quentinhas, não é?",
+        "es-ES": "[Soldado Horiryu]\nPero antes, quiero preguntarte algo... Allá afuera debe de haber un mundo lleno de cálidas plumas, ¿no?"
     },
     "1d4EDg": {
         "en-US": "[{0}]\nYes, it's a warm wor... Wait, what?! Feathers?",
-        "pt-BR": "[{0}]\nSim, é um mundo quent.. O quê?! Penas?",
-        "es-ES": "[{0}]\nSí, es un mundo cáli.. ¡¿Qué?! ¿Plumas?"
+        "pt-BR": "[{0}]\nSim, é um mundo quenti... Espera, o quê?! Penas?",
+        "es-ES": "[{0}]\nSí, es un mundo... ¿\"Plumas\"? ¿\"Cálidas\"?"
     },
     "1t4EDg": {
         "en-US": "[Private Horiryu]\nWhy are you so surprised? Obviously,\n[ Warm = Feathers ] is a universal rule, isn't it?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nPor que essa surpresa? É óbvio que\n[ quente = penas ] é uma fórmula, não é?",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¿Por qué te sorprendes? Por supuesto,\n¿acaso [ calidez = plumas ] no es una fórmula?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nPor que essa surpresa? É óbvio que\n[ Quente = Penas ]\né uma regra universal, não é?",
+        "es-ES": "[Soldado Horiryu]\n¿Por qué te sorprendes? ¿Qué \"cálidas\" y \"plumas\" no son palabras que van juntas?"
     },
     "194EDg": {
         "en-US": "[Private Horiryu]\nAnyway! It looks like you can freely travel outside, adventurer, so procure some feathers from out there for me.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nEnfim! Como você parece poder sair livremente daqui, aventureiro, consiga algumas penas lá fora para mim.",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡En fin! Parece que puedes salir libremente, amigo aventurero, así que consígueme algunas plumas de afuera."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nEnfim! Como você parece poder sair livremente daqui, aventureiro, consiga algumas penas lá fora para mim.",
+        "es-ES": "[Soldado Horiryu]\n¡En fin! Parece que tú puedes salir libremente. Consígueme algunas plumas."
     },
     "2N4EDg": {
         "en-US": "[Private Horiryu]\nIf you bring me 10 of the same kind, I'll check the condition of the feathers and give you a suitable reward.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nSe trouxer 10 do mesmo tipo, vou avaliar o estado das penas e dar uma recompensa adequada.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nSi traes del mismo tipo 10 unidades, revisaré el estado de las plumas y te daré una recompensa adecuada."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nSe trouxer 10 penas do mesmo tipo, vou avaliar o estado delas e dar uma recompensa adequada.",
+        "es-ES": "[Soldado Horiryu]\nSi 10 unidades del mismo tipo, revisaré su estado y te daré una recompensa por ellas."
     },
     "2d4EDg": {
         "en-US": "[{0}]\nWhy 10?",
@@ -1090,49 +1090,49 @@
         "es-ES": "[{0}]\n¿Por qué 10?"
     },
     "2t4EDg": {
-        "en-US": "[Private Horiryu]\nBecause we're secretly replacing the supplies. Yeah. I'll replace mine first, then start with the new recruits and work through them one by one.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nPorque vamos trocar os suprimentos às escondidas. Pois é. Primeiro vou trocar os meus e depois, aos poucos, os dos recrutas.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nPorque vamos a cambiar los suministros en secreto. Sí. Primero cambiaré los míos y luego iremos cambiando poco a poco los de los reclutas."
+        "en-US": "[Private Horiryu]\nBecause we're secretly replacing the supplies. Yeah. I'll replace mine first, then start with the new Cadets and work through them one by one.",
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nPorque vamos trocar os suprimentos às escondidas. Isso mesmo. Primeiro vou trocar os meus e depois, aos poucos, os dos Cadetes.",
+        "es-ES": "[Soldado Horiryu]\nPorque vamos a irlas cambiado de a poco. Primero yo y luego los demás."
     },
     "294EDg": {
         "en-US": "[Private Horiryu]\nSo, what do you say? Can you help?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nE então? Pode me ajudar?",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¿Qué dices? ¿Puedes ayudarme?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nE então, o que me diz? Pode me ajudar?",
+        "es-ES": "[Soldado Horiryu]\n¿Entonces? ¿Me ayudas?"
     },
     "3N4EDg": {
         "en-US": "This much is nothing.",
         "pt-BR": "Isso é fácil.",
-        "es-ES": "Esto no es nada."
+        "es-ES": "Es fácil."
     },
     "3d4EDg": {
         "en-US": "I'm busy...",
-        "pt-BR": "Estou ocupado..",
-        "es-ES": "Estoy ocupado.."
+        "pt-BR": "Não tenho tempo...",
+        "es-ES": "No tengo tiempo..."
     },
     "3t4EDg": {
         "en-US": "[Private Horiryu]\nGreat! Any kind of feather will do, so just bring me 10 of the same kind. I'll wait as long as it takes!",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nÓtimo! Pode ser qualquer pena, só preciso de 10 do mesmo tipo. Vou esperar o tempo que for preciso!",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡Bien! Cualquier tipo de pluma servirá, así que tráeme del mismo tipo 10 unidades. ¡Te esperaré todo el tiempo que haga falta!"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nÓtimo! Pode ser qualquer pena, só preciso de 10 do mesmo tipo. Vou esperar o tempo que for preciso!",
+        "es-ES": "[Soldado Horiryu]\n¡Bien! Cualquier tipo de pluma servirá, pero tienen que ser 10 iguales.\n¡Esperaré lo que sea necesario!"
     },
     "394EDg": {
         "en-US": "[Private Horiryu]\nIf you're busy, it can't be helped. Just make some time for us later. We'll be freezing until then, after all.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nSe está ocupado, não tem jeito. Arranje um tempo depois. Até lá, vamos continuar passando frio.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nSi estás ocupado, no hay remedio. Pero intenta hacerte un tiempo más adelante. Mientras tanto, nosotros seguiremos pasando frío."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nSe não tem tempo, paciência.\nArranje um tempinho depois. Até lá, vamos continuar passando frio.",
+        "es-ES": "[Soldado Horiryu]\nSi no tienes tiempo, ni modo.\nIntenta encontrar oportunidad o nos vamos a morir de frío."
     },
     "4N4EDg": {
         "en-US": "[Private Horiryu]\nShh! You don't want to spread it all over town that we're secretly swapping out the supplies, do you? Come see me discreetly tomorrow.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nShh! Não precisa sair espalhando por aí que vamos trocar os suprimentos às escondidas, não é? Volte amanhã discretamente.",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡Shh! ¿Para qué ir contando por todas partes que vamos a cambiar los suministros por otros en secreto? Ven a verme discretamente mañana."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nShh! Não saia espalhando por aí que estamos trocando os suprimentos, tá? Venha me ver discretamente amanhã.",
+        "es-ES": "[Soldado Horiryu]\n¡Shh! ¿Para qué ir contando por ahí nuestros planes? Ven a verme discretamente mañana."
     },
     "4d4EDg": {
         "en-US": "[Private Horiryu]\nShh! You know we have to be discreet, right?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nShh! Você sabe que precisa ser discreto, não sabe?",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡Shh! Sabes que debemos ser discretos, ¿verdad?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nShh! Você sabe que precisamos ser discretos, né?",
+        "es-ES": "[Soldado Horiryu]\n¡Shh! Acuérdate que tenemos que ser discretos."
     },
     "4t4EDg": {
         "en-US": "[Private Horiryu]\nWill you bring me the feathers discreetly?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nPode trazer as penas discretamente?",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¿Podrías traerme las plumas discretamente?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nPode trazer as penas discretamente?",
+        "es-ES": "[Soldado Horiryu]\n¿Podrías traerme las plumas discretamente?"
     },
     "494EDg": {
         "en-US": "I'll bring them.",
@@ -1141,18 +1141,18 @@
     },
     "5N4EDg": {
         "en-US": "I'm busy.",
-        "pt-BR": "Estou ocupado.",
-        "es-ES": "Estoy ocupado."
+        "pt-BR": "Não tenho tempo.",
+        "es-ES": "No tengo tiempo."
     },
     "5d4EDg": {
         "en-US": "[Private Horiryu]\nDiscreetly... got it?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nDiscretamente.. entendeu?",
-        "es-ES": "[Soldado de primera clase Horiryu]\nDiscretamente.. ¿entendido?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nDiscretamente... Entendeu?",
+        "es-ES": "[Soldado Horiryu]\nCon discreción, ¿entendiste?"
     },
     "5t4EDg": {
         "en-US": "[Private Horiryu]\nHey, adventurer. Did you bring the feathers?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nEi, aventureiro, trouxe as penas?",
-        "es-ES": "[Soldado de primera clase Horiryu]\nOye, amigo aventurero, ¿trajiste las plumas?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nEi, aventureiro, trouxe as penas?",
+        "es-ES": "[Soldado Horiryu]\nOye, ¿trajiste las plumas?"
     },
     "594EDg": {
         "en-US": "I brought them.",
@@ -1161,28 +1161,28 @@
     },
     "6N4EDg": {
         "en-US": "Not yet...",
-        "pt-BR": "Ainda não..",
-        "es-ES": "Todavía no.."
+        "pt-BR": "Ainda não...",
+        "es-ES": "Todavía no..."
     },
     "6d4EDg": {
         "en-US": "[Private Horiryu]\nLet me take a quick look through your bag.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nVou dar uma olhada na sua bolsa por um instante.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nDéjame revisar tu mochila un momento."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nDeixe-me dar uma olhada rápida na sua bolsa.",
+        "es-ES": "[Soldado Horiryu]\nDéjame revisar tus cosas."
     },
     "6t4EDg": {
         "en-US": "<ITEM>[Round Feather]<INFO>6393</INFO></ITEM>",
         "pt-BR": "<ITEM>[Pluma Arredondada]<INFO>6393</INFO></ITEM>",
-        "es-ES": "<ITEM>[Pluma redonda]<INFO>6393</INFO></ITEM>"
+        "es-ES": "<ITEM>[Pluma Redonda]<INFO>6393</INFO></ITEM>"
     },
     "694EDg": {
-        "en-US": "[Private Horiryu]\nHmm... This feather? It feels similar to the feathers of our Iwin... Do these creatures live in the forest or something? I'd rate its warmth as medium.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nHum... E esta pena? Parece com as penas dos nossos Arwin... Será que essas criaturas vivem em florestas ou algo assim? Em termos de calor, eu diria que é de nível médio.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nHmm.. ¿Y esta pluma? Se siente parecida a las plumas de nuestros Awin.. ¿Acaso estas criaturas viven entre la maleza del bosque? En cuanto a nivel de calidez, diría que es de grado medio."
+        "en-US": "[Private Horiryu]\nHmm... This feather? It feels similar to the feathers of our Windcy... Do these creatures live in the forest or something? I'd rate its warmth as medium.",
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nHum... E esta pena? Parece com as penas dos nossos Neventos... Será que essas criaturas vivem em florestas ou algo assim? Em termos de calor, eu diria que é de nível médio.",
+        "es-ES": "[Soldado Horiryu]\nHmm... ¿Y esta pluma? Es parecida a las plumas de Neviento..\n¿Estas criaturas viven entre la maleza del bosque?\nEn cuanto a calidez, diría que es de grado medio."
     },
     "7N4EDg": {
         "en-US": "[Private Horiryu]\nWill you give me this {0}?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nVocê me daria este {0}?",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¿Me darías esta {0}?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nVocê me daria esta {0}?",
+        "es-ES": "[Soldado Horiryu]\n¿Me darías esta {0}?"
     },
     "7d4EDg": {
         "en-US": "I will.",
@@ -1192,12 +1192,12 @@
     "7t4EDg": {
         "en-US": "I brought a different feather.",
         "pt-BR": "Trouxe outra pena.",
-        "es-ES": "Traje otra pluma."
+        "es-ES": "Traigo otra."
     },
     "794EDg": {
         "en-US": "[Private Horiryu]\nA different feather...",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nOutra pena...",
-        "es-ES": "[Soldado de primera clase Horiryu]\nOtra pluma.."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nOutra pena...",
+        "es-ES": "[Soldado Horiryu]\nOtra..."
     },
     "8N4EDg": {
         "en-US": "<ITEM>[Soft Feather]<INFO>7063</INFO></ITEM>",
@@ -1206,38 +1206,38 @@
     },
     "8d4EDg": {
         "en-US": "[Private Horiryu]\nHmm... This feather? It's kind of an odd one. It is soft, though, so I'd rate its warmth as medium.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nHum... E esta pena? É uma pena meio difícil de avaliar. É macia, mas em termos de calor, eu diria que é de nível médio.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nHmm.. ¿Y esta pluma? Es una pluma un poco difícil de clasificar. Es suave, pero en cuanto a nivel de calidez, diría que es de grado medio."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nHm... Esta pena? É meio estranha, difícil de classificar. Mas é macia, então eu diria que seu nível de aquecimento é médio.",
+        "es-ES": "[Soldado Horiryu]\n¿Y esta pluma? Es un poco difícil de clasificar.\nEs suave, pero en cuanto a calidez, diría que es de nivel medio."
     },
     "8t4EDg": {
         "en-US": "<ITEM>[Burning Feather]<INFO>6691</INFO></ITEM>",
         "pt-BR": "<ITEM>[Pluma Flamejante]<INFO>6691</INFO></ITEM>",
-        "es-ES": "<ITEM>[Pluma ardiente]<INFO>6691</INFO></ITEM>"
+        "es-ES": "<ITEM>[Pluma Ardiente]<INFO>6691</INFO></ITEM>"
     },
     "894EDg": {
         "en-US": "[Private Horiryu]\nOh... This feather? It looks warm just by looking at it. If I'm unlucky, it might even burn off my own feathers, but... I'd rate its warmth as high.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nOh... E esta pena? Só de olhar já parece quente. Se eu der azar, ainda corro o risco de queimar todas as minhas penas... Mas, em termos de calor, eu diria que é de nível alto.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nOh.. ¿Y esta pluma? Con solo verla ya parece cálida. Aunque si tengo mala suerte, existe el riesgo de que también termine quemando mis propias plumas.. En cuanto a nivel de calidez, diría que es de grado alto."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nAh... Esta pena? Só de olhar, já parece quentinha. Se eu tiver azar, posso até acabar queimando todas as minhas próprias penas. Mas, em termos de calor, eu diria que é de nível alto.",
+        "es-ES": "[Soldado Horiryu]\n¿Y esta pluma? Con solo verla ya parece cálida. Pero si tengo mala suerte, existe el riesgo de que termine quemando mis propias plumas...\nEn cuanto a su calidez, diría que es de nivel alto."
     },
     "9N4EDg": {
         "en-US": "<ITEM>[Red Feather]<INFO>7440</INFO></ITEM>",
         "pt-BR": "<ITEM>[Pena Vermelha]<INFO>7440</INFO></ITEM>",
-        "es-ES": "<ITEM>[Pluma roja]<INFO>7440</INFO></ITEM>"
+        "es-ES": "<ITEM>[Pluma Roja]<INFO>7440</INFO></ITEM>"
     },
     "9d4EDg": {
         "en-US": "[Private Horiryu]\nHmm... This feather? With this faint magical energy, it seems like it came from something pretty dangerous. I'd rate its warmth as high.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nHum... E esta pena? Essa leve energia mágica... parece ter vindo de uma criatura bem perigosa. Em termos de calor, eu diria que é de nível alto.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nHmm.. ¿Y esta pluma? Por esta tenue energía mágica, parece que la obtuviste de una criatura bastante peligrosa, ¿no? En cuanto a nivel de calidez, diría que es de grado alto."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nHm... Esta pena? Essa energia mágica sutil indica que ela veio de uma criatura bastante perigosa. Eu a classificaria como de nível alto em termos de aquecimento.",
+        "es-ES": "[Soldado Horiryu]\n¿Y esta pluma? Por esta tenue energía mágica, parece que la obtuviste de una criatura bastante peligrosa, ¿no?\nEn cuanto a su calidez, diría que es de nivel alto."
     },
     "9t4EDg": {
         "en-US": "<ITEM>[Bird Feather]<INFO>916</INFO></ITEM>",
         "pt-BR": "<ITEM>[Plumas de Ave]<INFO>916</INFO></ITEM>",
-        "es-ES": "<ITEM>[Pluma de ave]<INFO>916</INFO></ITEM>"
+        "es-ES": "<ITEM>[Pluma de Ave]<INFO>916</INFO></ITEM>"
     },
     "994EDg": {
         "en-US": "[Private Horiryu]\nWhat? This shabby feather isn't much different from the ones in our issued supplies. Even calling its warmth low would be generous.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nO quê? Esta pena de qualidade ruim não é muito diferente das penas dos suprimentos que recebemos. Em termos de calor, chamar isso de nível baixo já seria ser generoso.",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¿Qué es esto? Esta pluma tan rudimentaria no es muy diferente de las que vienen con los suministros. En cuanto a nivel de calidez, incluso llamarla de grado bajo sería ser generoso."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nO quê? Esta pena de qualidade ruim não é muito diferente das penas dos suprimentos que recebemos. Dizer que seu nível de aquecimento é baixo já seria um elogio.",
+        "es-ES": "[Soldado Horiryu]\nEsta pluma tan rudimentaria no es muy diferente de las que vienen con los suministros. En cuanto a su calidez, decir que es de nivel bajo sería amable."
     },
     "+N4EDg": {
         "en-US": "<ITEM>[Cendrawasih Feather]<INFO>6405</INFO></ITEM>",
@@ -1252,7 +1252,7 @@
     "+t4EDg": {
         "en-US": "<ITEM>[PecoPeco Feather]<INFO>7101</INFO></ITEM>",
         "pt-BR": "<ITEM>[Pena de Grand Peco]<INFO>7101</INFO></ITEM>",
-        "es-ES": "<ITEM>[Pluma de Pecopeco]<INFO>7101</INFO></ITEM>"
+        "es-ES": "<ITEM>[Pluma de Gran Peco]<INFO>7101</INFO></ITEM>"
     },
     "+94EDg": {
         "en-US": "[Private Horiryu]\nHmm... This feather? Is it from something that lives in the desert? I'd rate its warmth as medium.",
@@ -1262,7 +1262,7 @@
     "/N4EDg": {
         "en-US": "<ITEM>[Blue Feather]<INFO>7441</INFO></ITEM>",
         "pt-BR": "<ITEM>[Pena Azul]<INFO>7441</INFO></ITEM>",
-        "es-ES": "<ITEM>[Pluma azul]<INFO>7441</INFO></ITEM>"
+        "es-ES": "<ITEM>[Pluma Azul]<INFO>7441</INFO></ITEM>"
     },
     "/d4EDg": {
         "en-US": "<ITEM>[Harpy Feather]<INFO>7115</INFO></ITEM>",
@@ -1271,18 +1271,18 @@
     },
     "/t4EDg": {
         "en-US": "[Private Horiryu]\nHmm... This feather? Is it from something that lives in an arid region? I'd rate its warmth as medium.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nHum... E esta pena? Será que é de alguma criatura que vive em regiões secas? Em termos de calor, eu diria que é de nível médio.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nHmm.. ¿Y esta pluma? ¿Será de alguna criatura que vive en una región árida? En cuanto a nivel de calidez, diría que es de grado medio."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nHm... Esta pena? Será que veio de uma criatura que vive em uma região árida? Eu a classificaria como de nível médio em termos de aquecimento.",
+        "es-ES": "[Soldado Horiryu]\n¿Y esta pluma? ¿Será de alguna criatura que vive en una región árida?\nEn cuanto a su calidez, diría que es de nivel medio."
     },
     "/94EDg": {
         "en-US": "[Private Horiryu]\nDoesn't look like you have any feathers in your bag. Shall I check again?",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nParece que não há nenhuma pena na sua bolsa. Quer que eu verifique de novo?",
-        "es-ES": "[Soldado de primera clase Horiryu]\nParece que no tienes ninguna pluma en la mochila. ¿Quieres que revise otra vez?"
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nParece que não há nenhuma pena na sua bolsa. Quer que eu verifique de novo?",
+        "es-ES": "[Soldado Horiryu]\nParece que no tienes ninguna pluma en la mochila. ¿Quieres que revise otra vez?"
     },
     "AN8EDg": {
         "en-US": "Check again.",
         "pt-BR": "Verificar novamente.",
-        "es-ES": "Revisar de nuevo."
+        "es-ES": "Revisar otra vez."
     },
     "Ad8EDg": {
         "en-US": "Stop.",
@@ -1291,27 +1291,27 @@
     },
     "At8EDg": {
         "en-US": "[Private Horiryu]\nI've set this reward for the {0} you just gave me. It's non-negotiable, so don't complain.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nEsta é a recompensa que defini pelo {0} que acabei de receber. Não tem negociação, então não reclame.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nHe fijado esta recompensa por la {0} que acabo de recibir. No hay negociación, así que no te quejes."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nEsta é a recompensa que defini pela {0} que acabei de receber. Não tem negociação, então não reclame.",
+        "es-ES": "[Soldado Horiryu]\nTe voy a pagar por la {0} que acabo de recibir. No hay negociación, no te quejes."
     },
     "A98EDg": {
         "en-US": "[Private Horiryu]\nGreat! I'll swap the {0} you brought me today with the supplies, so I'll ask for your help again tomorrow.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nÓtimo! Vou trocar direitinho o {0} que você trouxe hoje pelos suprimentos, então conto com você de novo amanhã.",
-        "es-ES": "[Soldado de primera clase Horiryu]\n¡Bien! Cambiaré adecuadamente la {0} que me trajiste hoy por los suministros, así que mañana volveré a pedírtelo."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nÓtimo! Vou trocar a {0} que você trouxe hoje pelos suprimentos. Conto com sua ajuda novamente amanhã.",
+        "es-ES": "[Soldado Horiryu]\n¡Bien! Cambiaré la {0} que me trajiste hoy por los suministros, mañana puedes cambiar más."
     },
     "BN8EDg": {
         "en-US": "[Private Horiryu]\nSecret Fun quest error occurred.\nIf the same issue occurs after retrying, please take a screenshot and report it.",
-        "pt-BR": "[Soldado de primeira classe Horiryu]\nOcorreu um erro na missão Diversão às Escondidas.\nSe o mesmo problema ocorrer após tentar novamente, tire uma captura de tela e envie um relatório.",
-        "es-ES": "[Soldado de primera clase Horiryu]\nSe produjo un error en la misión Diversión en secreto.\nSi el mismo problema persiste después de volver a intentarlo, toma una captura de pantalla y repórtalo."
+        "pt-BR": "[Soldado de 1ª Classe Horiryu]\nOcorreu um erro na missão. Se o problema persistir após tentar novamente, tire uma captura de tela e relate o ocorrido.",
+        "es-ES": "[Soldado Horiryu]\nSe produjo un error en la misión Diversión en secreto.\nSi el problema persiste, toma una captura de pantalla y repórtalo."
     },
     "Bd8EDg": {
-        "en-US": "Recruit Pororong",
-        "pt-BR": "Recruta Ppororong",
-        "es-ES": "Recluta Pororong"
+        "en-US": "Cadet Pororong",
+        "pt-BR": "Cadete Pororong",
+        "es-ES": "Cadete Pororong"
     },
     "Bt8EDg": {
         "en-US": "Pororong: Hoheng- It's time for duty...",
-        "pt-BR": "Ppororong: Ugh- Já é hora do turno..",
+        "pt-BR": "Pororong: Ugh! Está na hora do turno...",
         "es-ES": "Pororong: Ugh- Ya es hora del turno.."
     },
     "B98EDg": {
@@ -1341,17 +1341,17 @@
     },
     "DN8EDg": {
         "en-US": "They're fast asleep. Were they tired?",
-        "pt-BR": "Está dormindo profundamente. Será que estava cansado?",
-        "es-ES": "Está profundamente dormido. ¿Estará cansado?"
+        "pt-BR": "Está dormindo que nem pedra. Será que estava cansado?",
+        "es-ES": "Está muy dormido. ¿Estará cansado?"
     },
     "Dd8EDg": {
-        "en-US": "Recruit Horurung",
-        "pt-BR": "Recruta Horurung",
-        "es-ES": "Recluta Horurung"
+        "en-US": "Cadet Horurung",
+        "pt-BR": "Cadete Horurung",
+        "es-ES": "Cadete Horurung"
     },
     "Dt8EDg": {
         "en-US": "Horurung: Ugh... It's time for duty!",
-        "pt-BR": "Horurung: Ugh.. Já é hora do turno!",
+        "pt-BR": "Horurung: Ugh! Está na hora do turno...",
         "es-ES": "Horurung: ¡Ugh.. ya es hora del turno!"
     },
     "D98EDg": {
@@ -1372,7 +1372,7 @@
     "Et8EDg": {
         "en-US": "Private Torari",
         "pt-BR": "Soldado Torari",
-        "es-ES": "Soldado de segunda clase Torari"
+        "es-ES": "Soldado Torari"
     },
     "E98EDg": {
         "en-US": "Torari: Ah, duty again?",
@@ -1385,13 +1385,13 @@
         "es-ES": "zz zZz zz zZz"
     },
     "Fd8EDg": {
-        "en-US": "Private Ttorarong",
-        "pt-BR": "Soldado Ttorarong",
-        "es-ES": "Soldado de segunda clase Ttorarong"
+        "en-US": "Private Torarong",
+        "pt-BR": "Soldado Torarong",
+        "es-ES": "Soldado Ttorarong"
     },
     "Ft8EDg": {
-        "en-US": "Ttorarong: Sigh... I don't want to go.",
-        "pt-BR": "Ttorarong: Ah... Não quero ir.",
+        "en-US": "Torarong: Sigh... I don't want to go.",
+        "pt-BR": "Torarong: Ah... Não quero ir.",
         "es-ES": "Ttorarong: Ah... No quiero ir."
     },
     "F98EDg": {
@@ -1401,18 +1401,18 @@
     },
     "GN8EDg": {
         "en-US": "New Officer Oriryo",
-        "pt-BR": "Novo Oficial Oriryo",
+        "pt-BR": "Oficial Novato Oriryo",
         "es-ES": "Oficial novato Oriryo"
     },
     "Gd8EDg": {
-        "en-US": "Recruit Pororong",
-        "pt-BR": "Recruta Ppororong",
-        "es-ES": "Recluta Pororong"
+        "en-US": "Cadet Pororong",
+        "pt-BR": "Cadete Pororong",
+        "es-ES": "Cadete Pororong"
     },
     "Gt8EDg": {
-        "en-US": "Recruit Horurung",
-        "pt-BR": "Recruta Horurung",
-        "es-ES": "Recluta Horurung"
+        "en-US": "Cadet Horurung",
+        "pt-BR": "Cadete Horurung",
+        "es-ES": "Cadete Horurung"
     },
     "G98EDg": {
         "en-US": "???? Gorori",
@@ -1422,12 +1422,16 @@
     "HN8EDg": {
         "en-US": "Private Torari",
         "pt-BR": "Soldado Torari",
-        "es-ES": "Soldado de segunda clase Torari"
+        "es-ES": "Soldado Torari"
     },
     "Hd8EDg": {
-        "en-US": "Private Ttorarong",
-        "pt-BR": "Soldado Ttorarong",
-        "es-ES": "Soldado de segunda clase Ttorarong"
+        "en-US": "Private Torarong",
+        "pt-BR": "Soldado Torarong",
+        "es-ES": "Soldado Ttorarong"
     },
-    "Ht8EDg": {}
+    "Ht8EDg": {
+        "en-US": "It looks like ^4A94F7something^000000 is lightly covered in dirt. It seems to be moving... this is dirt, right?",
+        "pt-BR": "Parece que ^4A94F7algo^000000 está levemente coberto de terra. Parece estar se movendo... isso é mesmo terra, né?",
+        "es-ES": "Parece que ^4A94F7algo^000000 está ligeramente cubierto de tierra. Parece que se mueve... esto es tierra, ¿verdad?"
+    }
 }

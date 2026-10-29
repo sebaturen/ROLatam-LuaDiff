@@ -6900,7 +6900,7 @@ QuestInfoList = {
 		Summary = "50 piroclastos"
 	},
 	[3364] = {
-		Title = "[Evento] Festival del Fuego",
+		Title = "[Evento] Festival de la Cosecha",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Para participar en el Festival del Fuego, necesitarás algunos objetos que ardan bien.",
@@ -6944,22 +6944,22 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[3369] = {
-		Title = "[Diario] Leños Vivos",
+		Title = "[Diario] Recolección de Leña",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Necesito que derrotes a 10 Leños Vivos y me traigas 10 Leña de Calidad.. ¡Mi honor y mi vida dependen de ello!",
 			"Informa a <NAVI>[Kadu el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
-		Summary = "Recolecta 10 Leña de Calidad."
+		Summary = "Recolecta 10 Leñas de Calidad"
 	},
 	[3370] = {
-		Title = "[Tiempo de espera] Rama resucitada",
+		Title = "[Espera] Recolección de Leña",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Luna está ocupada en este momento. ¿Podrías volver luego por la mañana?",
 			"Vuelve con <NAVI>[Kadu el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> mañana."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[3371] = {
@@ -6973,13 +6973,13 @@ QuestInfoList = {
 		Summary = "Captura a 10 Salvajes Hambrientos."
 	},
 	[3372] = {
-		Title = "[Tiempo de espera] Captura de Salvajes Hambrientos",
+		Title = "[Espera] Captura de Salvajes Hambrientos",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Serena necesita un tiempo para preparar las trampas.",
 			"Vuelve con <NAVI>[Serena la cazadora]<INFO>alberta, 152, 198, 0, 101, 0</INFO></NAVI> mañana."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[3373] = {
@@ -6995,7 +6995,7 @@ QuestInfoList = {
 		Title = "[Diario] Preparación de Galletas Lunares",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Recolecta 1 <ITEM>[Especia amarilla]<INFO>7452</INFO></ITEM> y 3 <ITEM>[Troncos]<INFO>511</INFO></ITEM>.",
+			"Recolecta 1 <ITEM>[Especia amarilla]<INFO>7452</INFO></ITEM> y 3 <ITEM>[Troncos]<INFO>1019 </INFO></ITEM>.",
 			"Informa a <NAVI>[Songhwa]<INFO>alberta, 119, 193, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los ingredientes."
@@ -7010,22 +7010,22 @@ QuestInfoList = {
 		Summary = "Recolecta los ingredientes."
 	},
 	[3376] = {
-		Title = "[Tiempo de espera] Preparación de la comida del Festival",
+		Title = "[Espera] Preparación de la comida del Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"En este momento están ocupados preparando la comida.",
 			"Vuelve con <NAVI>[Songhwa]<INFO>alberta, 119, 193, 0, 101, 0</INFO></NAVI> mañana."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[3377] = {
-		Title = "[Evento] Negocio de Lewis",
+		Title = "[Evento] Negocio de Louise",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Parece que <NAVI>[Lewis]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> necesita ayuda. Hablemos con ella."
+			"Parece que <NAVI>[Louise]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> necesita ayuda. Hablemos con ella."
 		},
-		Summary = "Habla con Lewis."
+		Summary = "Habla con Louise."
 	},
 	[3378] = {
 		Title = "[Evento] Comida para el pavo",
@@ -7033,7 +7033,7 @@ QuestInfoList = {
 		Description = {
 			"Los pavos necesitan comida.",
 			"Recolectemos 30 <ITEM>[Patas de saltamontes]<INFO>940</INFO></ITEM>, 20 <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM> y 20 <ITEM>[Galleta de la cosecha]<INFO>11613</INFO></ITEM>.",
-			"Informa a <NAVI>[Lewis]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
+			"Informa a <NAVI>[Louise]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los materiales."
 	},
@@ -7043,18 +7043,18 @@ QuestInfoList = {
 		Description = {
 			"Los pavos necesitan comida.",
 			"Recolectemos 30 <ITEM>[Patas de saltamontes]<INFO>940</INFO></ITEM>, 20 <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM> y 20 <ITEM>[Galleta de la cosecha]<INFO>11613</INFO></ITEM>.",
-			"Informa a <NAVI>[Lewis]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
+			"Informa a <NAVI>[Louise]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los materiales."
 	},
 	[3380] = {
-		Title = "[Tiempo de espera] Comida para el pavo",
+		Title = "[Espera] Comida para el pavo",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Ahora hay comida de sobra para los pavos. Volvamos a buscarlos después del amanecer.",
-			"Vuelve con <NAVI>[Lewis]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> mañana."
+			"Vuelve con <NAVI>[Louise]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> mañana."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[3381] = {
@@ -7084,12 +7084,12 @@ QuestInfoList = {
 		Summary = "2 Boletos para el Sr. Kim."
 	},
 	[3384] = {
-		Title = "[Tiempo de espera] Visita urgente a Kunlun",
+		Title = "[Espera] Visita urgente a Kunlun",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Volvamos con el <NAVI>[Sr. Kim]<INFO>alberta, 119, 198, 0, 101, 0</INFO></NAVI> mañana. Quizá necesite nuestra ayuda de nuevo."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[3385] = {
@@ -7117,12 +7117,12 @@ QuestInfoList = {
 		Summary = "Entrégale 10 Galletas de cosecha."
 	},
 	[3388] = {
-		Title = "[Tiempo de espera] Entrega de galletas",
+		Title = "[Espera] Entrega de galletas",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Volvamos cuando Eunwol necesite más galletas del Festival de la Cosecha."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[3389] = {
@@ -15008,18 +15008,18 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5973] = {
-		Title = "[Espera] Patrulla con Awin",
+		Title = "[Espera] Patrulla del Águila",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Con la Patrulla del Águila",
-			"Terminaste la patrulla por Colina de Escamas Congeladas.",
-			"Si quieres participar de nuevo en la patrulla mañana, ve a ver al <NAVI>[Capitán de Patrulla]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>."
+			"Con la Patrulla del Águila,",
+			"terminaste la patrulla por Colina de Escamas Congeladas.",
+			"Si quieres participar otra vez en la patrulla mañana, ve a ver al <NAVI>[Capitán de Patrulla]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[5974] = {
-		Title = "Patrulla con Awin (1)",
+		Title = "Patrulla del Águila (1)",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Saliste a patrullar Colina de Escamas Congeladas con la Patrulla del Águila."
@@ -15027,19 +15027,19 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5975] = {
-		Title = "Patrulla con Awin (2)",
+		Title = "Patrulla del Águila (2)",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Terminaste de patrullar Colina de Escamas Congeladas",
-			"con la Patrulla del Águila. Recibe tu recompensa del Capitán de Patrulla que vino a recibirte."
+			"con la Patrulla del Águila. Recibe tu recompensa de Capitán de Patrulla, que vino a recibirte."
 		},
 		Summary = ""
 	},
 	[5976] = {
-		Title = "Oficial de suministros Gorir",
+		Title = "Oficial de Suministros Gorir",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Te encontraste con el oficial de suministros Gorir y te obligó a aceptar un encargo."
+			"Te encontraste con el Oficial de Suministros Gorir y tuviste que aceptar un encargo."
 		},
 		Summary = ""
 	},
@@ -15047,12 +15047,12 @@ QuestInfoList = {
 		Title = "[Espera] No alimentes a los animales",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Por encargo del oficial de suministros,",
+			"Por encargo del Oficial de Suministros,",
 			"recuperaste la comida que alguien había dejado para los animales salvajes.",
-			"Es un trabajo relativamente sencillo y la paga no está mal,",
-			"así que vuelve a ver al <NAVI>[oficial de suministros Gorir]<INFO>icecastle,97,177,0,101,0</INFO></NAVI> mañana.",
-			"-",
-			"? Si te encuentras dentro de una mazmorra conmemorativa, la guía de navegación podría no funcionar correctamente."
+			"Es un trabajo relativamente sencillo y la recompensa no está mal,",
+			"así que vuelve a ver al [<NAVI>Oficial de Suministros Gorir<INFO>icecastle,97,177,0,101,0</INFO></NAVI>] mañana.",
+			"",
+			"* Si te encuentras dentro de una instancia, la guía de navegación podría no funcionar correctamente."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -15061,8 +15061,8 @@ QuestInfoList = {
 		Title = "No alimentes a los animales (1)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El oficial de suministros Gorir te hizo un encargo.",
-			"Puedes hacerlo mientras patrullas con la Patrulla del Águila",
+			"El Oficial de Suministros Gorir te hizo un encargo.",
+			"Complétalo mientras patrullas con la Patrulla del Águila",
 			"o, cuando tengas tiempo, recupera en <NAVI>[Colina de Escamas Congeladas]<INFO>jor_back1,380,229,0,101,0</INFO></NAVI> la comida que alguien dejó para los animales salvajes."
 		},
 		Summary = ""
@@ -15072,9 +15072,9 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Recuperaste la comida que alguien había dejado para los animales salvajes.",
-			"Informa al <NAVI>[oficial de suministros Gorir]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>.",
-			"-",
-			"? Si te encuentras dentro de una mazmorra conmemorativa, la guía de navegación podría no funcionar correctamente."
+			"Informa al <NAVI>[Oficial de Suministros Gorir]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>.",
+			"",
+			"* Si te encuentras dentro de una instancia, la guía de navegación podría no funcionar correctamente."
 		},
 		Summary = ""
 	},
@@ -15082,7 +15082,7 @@ QuestInfoList = {
 		Title = "Diversión en secreto",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Conociste al soldado Horiryu en los barracones de la Patrulla del Águila."
+			"Conociste al Soldado Horiryu en los barracones de la Patrulla del Águila."
 		},
 		Summary = ""
 	},
@@ -15090,8 +15090,8 @@ QuestInfoList = {
 		Title = "[Espera] Diversión en secreto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Al parecer, las plumas que llevaste se cambian discretamente",
-			"por suministros. Mañana también",
+			"Al parecer, las plumas que llevaste se cambian en secreto",
+			"por suministros. Mañana llévaselas otra vez, en secreto, al <NAVI>[Soldado Horiryu]<INFO>icas_in,34,56,0,101,0</INFO></NAVI>.",
 			"llévaselas en secreto al <NAVI>[soldado Horiryu]<INFO>icas_in,34,56,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 04:00",
@@ -15101,50 +15101,50 @@ QuestInfoList = {
 		Title = "Diversión en secreto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que el <NAVI>[soldado Horiryu]<INFO>icas_in,34,56,0,101,0</INFO></NAVI> necesita",
+			"Parece que el <NAVI>[Soldado Horiryu]<INFO>icas_in,34,56,0,101,0</INFO></NAVI> necesita",
 			"plumas cálidas para soportar el frío. Lleva 10 plumas",
 			"de uno de los siguientes tipos.",
 			"-",
-			"<ITEM>[Pluma redonda]<INFO>6393</INFO></ITEM>",
+			"<ITEM>[Pluma Redonda]<INFO>6393</INFO></ITEM>",
 			"<ITEM>[Pluma Suave]<INFO>7063</INFO></ITEM>",
-			"<ITEM>[Pluma ardiente]<INFO>6691</INFO></ITEM>",
-			"<ITEM>[Pluma roja]<INFO>7440</INFO></ITEM>",
-			"<ITEM>[Pluma de ave]<INFO>916</INFO></ITEM>",
+			"<ITEM>[Pluma Ardiente]<INFO>6691</INFO></ITEM>",
+			"<ITEM>[Pluma Roja]<INFO>7440</INFO></ITEM>",
+			"<ITEM>[Pluma de Ave]<INFO>916</INFO></ITEM>",
 			"<ITEM>[Pluma de Cendrawasih]<INFO>6405</INFO></ITEM>",
-			"<ITEM>[Pluma de Pecopeco]<INFO>7101</INFO></ITEM>",
-			"<ITEM>[Pluma azul]<INFO>7441</INFO></ITEM>",
+			"<ITEM>[Pluma de Gran Peco]<INFO>7101</INFO></ITEM>",
+			"<ITEM>[Pluma Azul]<INFO>7441</INFO></ITEM>",
 			"<ITEM>[Pluma de Arpía]<INFO>7115</INFO></ITEM>"
 		},
 		Summary = ""
 	},
 	[5983] = {
-		Title = "Encuentro con el sujeto experimental 210426",
+		Title = "Encuentro con la Cobaya 210426",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Durante la patrulla te encontraste con un joven misterioso, pero",
-			"desapareció enseguida. Dijo que iba en dirección a",
-			"{{P:^000000}}[Llanura de Escamas Congeladas]{{P:^FFFFFF}}, ¿verdad? Si tienes tiempo, ve a buscarlo.",
-			"-",
+			"Durante la patrulla, te encontraste con un joven misterioso, pero",
+			"desapareció enseguida. Dijo que iba en dirección a <NAVI>[Llanura de Escamas Congeladas]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>. Si tienes tiempo, ve a buscarlo.",
+			"",
+			"* Si te encuentras dentro de una instancia, la guía de navegación podría no funcionar correctamente.",
 			"? Si te encuentras dentro de una mazmorra conmemorativa, la guía de navegación podría no funcionar correctamente."
 		},
 		Summary = ""
 	},
 	[5984] = {
-		Title = "Pergamino de Transformación en Regan",
+		Title = "Pergamino de Transformación en Rgan",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que tu amigo Almuerzo, a quien conociste en Llanura de Escamas Congeladas,",
-			"puede transformarse para adoptar otra apariencia.",
-			"El <ITEM>[Pergamino de Transformación en Regan]<INFO>101162</INFO></ITEM> que recibiste de Almuerzo parece útil,",
+			"Parece que Jeomsim, a quien conociste en Llanura de Escamas Congeladas, puede transformarse para adoptar otra apariencia.",
+			"El <ITEM>[Pergamino de Transformación en Rgan]<INFO>101162</INFO></ITEM> que recibiste de Jeomsim parece útil. Vuelve al <NAVI>[Castillo de Hielo]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> e informa.",
+			"El <ITEM>[Pergamino de Transformación en Rgan]<INFO>101162</INFO></ITEM> que recibiste de Jeomsim parece útil,",
 			"así que regresa a <NAVI>[Castillo de Hielo]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> para informar."
 		},
-		Summary = "Hacia Castillo de Hielo..."
+		Summary = "Hacia el Castillo de Hielo..."
 	},
 	[5985] = {
-		Title = "[Espera] Elección del menú de Almuerzo",
+		Title = "[Espera] Elección del menú de Jeosmim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Le preparaste la comida a <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>. Si tienes tiempo, quizá sería buena idea volver a hacerlo mañana."
+			"Le preparaste la comida a [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>]. Si tienes tiempo, sería una buena idea volver a hacerlo mañana."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1,
@@ -15154,124 +15154,132 @@ QuestInfoList = {
 		NpcPosY = 30
 	},
 	[5986] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Jarra de licor rota. Llévale 10 <ITEM>[Jarra de licor rota]<INFO>7158</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Jarra de Sake. Llévale 10x <ITEM>[Jarra de Sake]<INFO>7158</INFO></ITEM>."
 		},
-		Summary = "Jarra de licor rota 10",
+		Summary = "10x Jarra de Sake",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5987] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Recortes de nube. Llévale 10 <ITEM>[Recortes de nube]<INFO>7162</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Jarra de Nube. Llévale 10x <ITEM>[Jarra de Nube]<INFO>7162</INFO></ITEM>."
 		},
-		Summary = "Recortes de nube 10",
+		Summary = "10x Jarra de Nube",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5988] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Cesta de paja. Llévale 10 <ITEM>[Cesta de paja]<INFO>7299</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Cesto de Paja. Llévale 10x <ITEM>[Cesta de paja]<INFO>7299</INFO></ITEM>."
 		},
-		Summary = "Cesta de paja 10",
+		Summary = "10x Cesto de Paja",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5989] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Dentadura de máscara de dragón. Llévale 10 <ITEM>[Dentadura de máscara de dragón]<INFO>7266</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Dentadura de Máscara de Dragón. Llévale 10x <ITEM>[Dentadura de Máscara de Dragón]<INFO>7266</INFO></ITEM>."
 		},
-		Summary = "Dentadura de máscara de dragón 10",
+		Summary = "10x Dentadura de Máscara de Dragón",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5990] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer El mortero de Yaga. Llévale 10 <ITEM>[El mortero de Yaga]<INFO>7762</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Mortero de Yaga. Llévale 10x <ITEM>[El mortero de Yaga]<INFO>7762</INFO></ITEM>."
 		},
-		Summary = "El mortero de Yaga 10",
+		Summary = "10x Mortero de Yaga",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5991] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Piel de leopardo. Llévale 10 <ITEM>[Piel de leopardo]<INFO>7171</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Piel de Leopardo. Llévale 10x <ITEM>[Piel de Leopardo]<INFO>7171</INFO></ITEM>."
 		},
-		Summary = "Piel de leopardo 10",
+		Summary = "10x Piel de Leopardo",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5992] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Pluma de Cendrawasih. Llévale 10 <ITEM>[Pluma de Cendrawasih]<INFO>6405</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Pluma de Cendrawasih. Llévale 10x <ITEM>[Pluma de Cendrawasih]<INFO>6405</INFO></ITEM>."
 		},
-		Summary = "Pluma de Cendrawasih 10",
+		Summary = "10x Pluma de Cendrawasih",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5993] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Jejellopy. Llévale 10 <ITEM>[Jejellopy]<INFO>6498</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Jejellopy. Llévale 10x <ITEM>[Jejellopy]<INFO>6498</INFO></ITEM>."
 		},
-		Summary = "Jejellopy 10",
+		Summary = "10x Jejellopy",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5994] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Cola de Rata Marrón. Llévale 10 <ITEM>[Cola de Rata Marrón]<INFO>25285</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Cola de Rata Marrón. Llévale 10x <ITEM>[Cola de Rata Marrón]<INFO>25285</INFO></ITEM>."
 		},
-		Summary = "Cola de Rata Marrón 10",
+		Summary = "10x Cola de Rata Marrón",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
 	},
 	[5995] = {
-		Title = "Elección del menú de Almuerzo",
+		Title = "Elección del menú de Jeomsim",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que hoy <NAVI>[Almuerzo]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI> quiere comer Trozo de bambú. Llévale 10 <ITEM>[Trozo de bambú]<INFO>7150</INFO></ITEM>."
+			"Parece que hoy [<NAVI>Jeomsim<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>] quiere Trozo de bambú. Llévale 10x <ITEM>[Trozo de Bambú]<INFO>7150</INFO></ITEM>."
 		},
-		Summary = "Trozo de bambú 10",
+		Summary = "10x Trozo de bambú",
 		NpcSpr = "4_EP19_LUNCH",
 		NpcNavi = "jor_back2",
 		NpcPosX = 250,
 		NpcPosY = 30
+	},
+	[5996] = {
+		Title = "Delicia del Demonio",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"El <NAVI>[Demonio de la Caja]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI> exige una delicia aproximadamente una vez por semana. Según él, los restos de las almas de 3.000 monstruos del <NAVI>[Sótano Desconocido de la Torre del Reloj]<INFO>clock_01,84,44,0,101,0</INFO></NAVI> serían suficientes para preparar una delicia."
+		},
+		Summary = "Derrota 3.000 monstruos en el Sótano Desconocido de la Torre del Reloj"
 	},
 	[6000] = {
 		Title = "Cambio de clase a Taekwon",
@@ -25189,7 +25197,7 @@ QuestInfoList = {
 		Title = "Un agradable Almuerzo con Joryara",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Pensabas que ayudarías a Joryara a cocinar, pero… terminaste consiguiendo caparazones de Ice Straw, que les gustan a los niños Awin. Lleva 15 <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM> a <NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI> en el comedor de Castillo de Hielo."
+			"Pensabas que ayudarías a Joryara a cocinar, pero… terminaste consiguiendo caparazones de Ice Straw, que les gustan a los niños Neviento. Lleva 15 <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM> a <NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI> en el comedor de Castillo de Hielo."
 		},
 		Summary = "Consigue 15 Caparazón fino y resistente"
 	},
@@ -25206,7 +25214,7 @@ QuestInfoList = {
 		Title = "Un agradable Almuerzo con Joryara",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Debes llevar 15 <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM>, que les gustan a los niños Awin, a <NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI> en el comedor de Castillo de Hielo."
+			"Debes llevar 15 <ITEM>[Caparazón fino y resistente]<INFO>1000830</INFO></ITEM>, que les gustan a los niños Neviento, a <NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI> en el comedor de Castillo de Hielo."
 		},
 		Summary = "Consigue 15 Caparazón fino y resistente"
 	},
@@ -25239,17 +25247,17 @@ QuestInfoList = {
 		Title = "Algo que despierta curiosidad",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Delpanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>, en Nido de la Serpiente, pide que hables con los Regan intermedios que trabajan en el criadero: <NAVI>[el obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>, <NAVI>[el perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI> y <NAVI>[el desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
+			"<NAVI>[Delpanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>, en Nido de la Serpiente, pide que hables con los Rgan intermedios que trabajan en el criadero: <NAVI>[el obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>, <NAVI>[el perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI> y <NAVI>[el desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con los Regan intermedios"
+		Summary = "Habla con los Rgan intermedios"
 	},
 	[8794] = {
 		Title = "Serpiente anciana",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>, en Nido de la Serpiente, pide que le lleves 15 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>."
+			"<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>, en Nido de la Serpiente, pide que le lleves 15 <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>."
 		},
-		Summary = "Consigue Núcleo Mágico Inferior de Regan"
+		Summary = "Consigue Núcleo Mágico Inferior de Rgan"
 	},
 	[8795] = {
 		Title = "Doctrina y sermón",
@@ -25263,9 +25271,9 @@ QuestInfoList = {
 		Title = "No te había visto antes",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Sidreugand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>, en Nido de la Serpiente, pide que caces 20 Regan primitivo."
+			"<NAVI>[Sidreugand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>, en Nido de la Serpiente, pide que caces 20 Rgan primitivo."
 		},
-		Summary = "Derrota a Regan primitivo"
+		Summary = "Derrota a Rgan primitivo"
 	},
 	[8797] = {
 		Title = "Rgan que da trabajo - Espera",
@@ -25280,9 +25288,9 @@ QuestInfoList = {
 		Title = "Rgan que da trabajo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El Regan de mayor rango, <NAVI>[Sidreugand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>, pide que caces 20 Regan primitivo."
+			"El Rgan de mayor rango, <NAVI>[Sidreugand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>, pide que caces 20 Rgan primitivo."
 		},
-		Summary = "Derrota a Regan primitivo"
+		Summary = "Derrota a Rgan primitivo"
 	},
 	[8799] = {
 		Title = "Rgan del criadero (1)",
@@ -25290,7 +25298,7 @@ QuestInfoList = {
 		Description = {
 			"En Nido de la Serpiente, debes hablar con <NAVI>[el obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>, <NAVI>[el perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI> y <NAVI>[el desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con los Regan intermedios"
+		Summary = "Habla con los Rgan intermedios"
 	},
 	[8800] = {
 		Title = "Rgan del criadero (2)",
@@ -25298,7 +25306,7 @@ QuestInfoList = {
 		Description = {
 			"En Nido de la Serpiente, debes hablar con <NAVI>[el obediente]<INFO>jor_nest,277,257,0,101,0</INFO></NAVI>, <NAVI>[el perezoso]<INFO>jor_nest,220,279,0,101,0</INFO></NAVI> y <NAVI>[el desobediente]<INFO>jor_nest,274,199,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con los Regan intermedios"
+		Summary = "Habla con los Rgan intermedios"
 	},
 	[8801] = {
 		Title = "Rgan del criadero (3)",
@@ -34160,7 +34168,7 @@ QuestInfoList = {
 		Title = "Santa de la Purificación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Encontramos a <NAVI>[Santa]<INFO>prt_cas,18,32,0,101,0</INFO></NAVI> en el palacio real de Prontera. Parece que está empacando para ir a Isgard, así que esperemos hasta que regrese Alice, que fue a buscar porteadores."
+			"Encontramos a <NAVI>[Santa]<INFO>prt_cas,18,32,0,101,0</INFO></NAVI> en el palacio real de Prontera. Parece que está empacando para ir a Issgard, así que esperemos hasta que regrese Alice, que fue a buscar porteadores."
 		},
 		Summary = "Habla con Santa"
 	},
@@ -34216,7 +34224,7 @@ QuestInfoList = {
 		Title = "Santa de la Purificación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Todo está listo para partir hacia Isgard. Encontremos a <NAVI>[Hellok]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> en Aldebaran y vayamos a Isgard."
+			"Todo está listo para partir hacia Issgard. Encontremos a <NAVI>[Hellok]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> en Aldebaran y vayamos a Issgard."
 		},
 		Summary = "Habla con Hellok"
 	},
@@ -34224,7 +34232,7 @@ QuestInfoList = {
 		Title = "Santa de la Purificación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Llegamos de nuevo a Isgard. Llevemos a Friederike hasta <NAVI>[Castillo de Hielo]<INFO>icecastle,23,123,0,101,0</INFO></NAVI>."
+			"Llegamos de nuevo a Issgard. Llevemos a Friederike hasta <NAVI>[Castillo de Hielo]<INFO>icecastle,23,123,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Hacia Castillo de Hielo"
 	},
@@ -34248,7 +34256,7 @@ QuestInfoList = {
 		Title = "Un día de Friederike",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>, que se quedó en su habitación de Castillo de Hielo, dice que Voglinde le encomendó purificar Núcleo Mágico de Regan. Escuchemos más."
+			"<NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>, que se quedó en su habitación de Castillo de Hielo, dice que Voglinde le encomendó purificar Núcleo Mágico de Rgan. Escuchemos más."
 		},
 		Summary = "Habla con Friederike"
 	},
@@ -34256,9 +34264,9 @@ QuestInfoList = {
 		Title = "Un día de Friederike",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 10 Regan primitivo y 10 Regan de nivel ínfimo en la Calidez del Dios Serpiente, reúne 10 Núcleo Mágico de Regan y regresa con <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>."
+			"Derrota 10 Rgan primitivo y 10 Rgan de nivel ínfimo en el Calor del Dios Serpiente, reúne 10 Núcleo Mágico de Rgan y regresa con <NAVI>[Friederike]<INFO>icas_in,32,120,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reúne Núcleo Mágico de Regan"
+		Summary = "Reúne Núcleo Mágico de Rgan"
 	},
 	[11814] = {
 		Title = "Un día de Friederike - Espera",
@@ -38401,6 +38409,7 @@ QuestInfoList = {
 	},
 	[12560] = {
 		Title = "Espera: Neutralización de la aeronave",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Lograste neutralizar la aeronave hasta dejarla fuera de servicio durante un tiempo. Si muestra señales de volver a ponerse en marcha, quizá sea necesario infiltrarse otra vez."
 		},
@@ -38409,6 +38418,7 @@ QuestInfoList = {
 	},
 	[12561] = {
 		Title = "Neutralización del núcleo",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"No es posible determinar cuánto riesgo implicaría destruir por completo la aeronave. Por ahora, neutralicemos el núcleo que contiene la lógica de funcionamiento de la aeronave."
 		},
@@ -45459,10 +45469,10 @@ QuestInfoList = {
 		Summary = "Habla con Lukie"
 	},
 	[16360] = {
-		Title = "La Mansión de Varmunt",
+		Title = "La Mansión Varmunt",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Con el testimonio de Elyumina, dijo que sabe cómo entrar a la Mansión de Varmunt. Vamos a comprobar el <NAVI>[entrada]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."
+			"Con el testimonio de Elyumina, dijo que sabe cómo entrar a la Mansión Varmunt. Vamos a comprobar el <NAVI>[entrada]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Lukie"
 	},
@@ -47243,130 +47253,130 @@ QuestInfoList = {
 		Summary = "Habla con Elena."
 	},
 	[16626] = {
-		Title = "Mensajero - La peticiÃ³n de Ark",
+		Title = "Mensajero: La petición de Arc",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Encontraste rastros de una pelea en los campos cerca de Splendide. El rastro continÃºa hacia <NAVI>[el norte]<INFO>spl_fild01,341,109,0,101,0</INFO></NAVI>. Sigue buscando."
+			"Encontraste rastros de una pelea en los campos cerca de Splendide. El rastro lleva hacia <NAVI>[el norte]<INFO>spl_fild01,341,109,0,101,0</INFO></NAVI>. Sigue buscando."
 		},
-		Summary = "Encuentra rastros de Terra"
+		Summary = "Encuentra los rastros de Terra"
 	},
 	[16627] = {
-		Title = "Mensajero - La peticiÃ³n de Ark",
+		Title = "Mensajero: La petición de Ark",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Los rastros de una pelea en los campos cerca de Splendide conducen hacia <NAVI>[las raÃ­ces de un Ã¡rbol gigante]<INFO>spl_fild01,375,109,0,101,0</INFO></NAVI>. Sigue buscando."
+			"Los rastros de una pelea en los campos cerca de Splendide conducen hacia <NAVI>[las raí­ces de un árbol gigante]<INFO>spl_fild01,375,109,0,101,0</INFO></NAVI>. Sigue buscando."
 		},
-		Summary = "Encuentra rastros de Terra"
+		Summary = "Encuentra los rastros de Terra"
 	},
 	[16628] = {
-		Title = "Mensajero - La peticiÃ³n de Ark",
+		Title = "Mensajero: La petición de Arc",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mientras seguÃ­as el rastro de Terra en los campos cerca de Splendide, caÃ­ste entre las raÃ­ces de un Ã¡rbol gigante. AdÃ©ntrate <NAVI>[en el interior]<INFO>nyd_dun01,60,222,0,101,0</INFO></NAVI>."
+			"Mientras seguí­as los rastros de Terra en los campos cerca de Splendide, caíste entre las raí­ces de un árbol gigante. Adéntrate en el <NAVI>[interior]<INFO>nyd_dun01,60,222,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Encuentra rastros de Terra"
+		Summary = "Encuentra los rastros de Terra"
 	},
 	[16629] = {
-		Title = "Mensajero - El paradero de Terra",
+		Title = "Mensajero: El paradero de Terra",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Busca mÃ¡s <NAVI>[Frutos de Yggdrasil]<INFO>spl_fild01,312,77,0,101,0</INFO></NAVI> en los campos cerca de Splendide."
+			"Busca más [<NAVI>Frutos de Yggdrasil<INFO>spl_fild01,312,77,0,101,0</INFO></NAVI>] en los campos cerca de Splendide."
 		},
 		Summary = "Recolecta Frutos de Yggdrasil"
 	},
 	[16630] = {
-		Title = "Mensajero - El paradero de Terra",
+		Title = "Mensajero: El paradero de Terra",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Busca mÃ¡s <NAVI>[Frutos de Yggdrasil]<INFO>spl_fild01,331,28,0,101,0</INFO></NAVI> en los campos cerca de Splendide."
+			"Busca más [<NAVI>Frutos de Yggdrasil<INFO>spl_fild01,331,28,0,101,0</INFO></NAVI>] en los campos cerca de Splendide."
 		},
 		Summary = "Recolecta Frutos de Yggdrasil"
 	},
 	[16631] = {
-		Title = "Mensajero - El paradero de Terra",
+		Title = "Mensajero: El paradero de Terra",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Entra <NAVI>[en el interior]<INFO>man_in01,17,128,0,101,0</INFO></NAVI> de la prisiÃ³n de Manuk y averigua quiÃ©n es la Laphine encarcelada."
+			"Entra en el [<NAVI>interior<INFO>man_in01,17,128,0,101,0</INFO></NAVI>] de la prisión de Manuk y averigua quién es la Laphine encarcelada."
 		},
-		Summary = "Habla con Snorren dentro de la prisiÃ³n"
+		Summary = "Habla con Snorren dentro de la prisión"
 	},
 	[16632] = {
-		Title = "Mensajero - Demostrando la verdad",
+		Title = "Mensajero: Demostrando la verdad",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"CuÃ©ntale la historia de Terra a <NAVI>[Luik]<INFO>man_in01,19,126,0,101,0</INFO></NAVI> en la Aldea de Manuk."
+			"Cuéntale la historia de Terra a <NAVI>[Luik]<INFO>man_in01,19,126,0,101,0</INFO></NAVI>, en la aldea de Manuk."
 		},
 		Summary = "Habla con Luik"
 	},
 	[16636] = {
-		Title = "Búsqueda de pistas - Laboratorio de Junca",
+		Title = "Búsqueda de pistas: Laboratorio de Juncea",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mientras no haya nadie, entremos al <NAVI>[Laboratorio de Junca]<INFO>jor_nest,51,152,0,101,0</INFO></NAVI> dentro de Nido de la Serpiente y registremos el lugar."
+			"Mientras no hay nadie, entremos al <NAVI>[laboratorio de Juncea]<INFO>jor_nest,51,152,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente, e investiguemos."
 		},
-		Summary = "Registra el Laboratorio de Junca"
+		Summary = "Investiga el laboratorio de Juncea"
 	},
 	[16637] = {
-		Title = "Búsqueda de pistas - Laboratorio de Bagot",
+		Title = "Búsqueda de pistas: Laboratorio de Bagot",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mientras no haya nadie, entremos a <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI> dentro de Nido de la Serpiente y registremos el lugar."
+			"Mientras no haya nadie, entremos al <NAVI>[laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente, e investiguemos."
 		},
-		Summary = "Registra Laboratorio de Bagot"
+		Summary = "Investiga el laboratorio de Bagot"
 	},
 	[16638] = {
-		Title = "Búsqueda de pistas - Guardias Rgan",
+		Title = "Búsqueda de pistas: Guardias Rgan",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mientras no haya nadie, registremos los alrededores de los <NAVI>[guardias Rgan]<INFO>jor_nest,177,176,0,101,0</INFO></NAVI> dentro de Nido de la Serpiente."
+			"Mientras no haya nadie, investiguemos el área alrededor de los <NAVI>[guardias Rgan]<INFO>jor_nest,177,176,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente."
 		},
-		Summary = "Registra a los guardias Rgan"
+		Summary = "Investiga a los guardias Rgan"
 	},
 	[16639] = {
-		Title = "Laboratorio de Junca",
+		Title = "Laboratorio de Juncea",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Revisemos la <NAVI>[pila de documentos]<INFO>jor_nest,19,142,0,101,0</INFO></NAVI> en el Laboratorio de Junca dentro de Nido de la Serpiente."
+			"Investiguemos la [<NAVI>pila de documentos<INFO>jor_nest,19,142,0,101,0</INFO></NAVI>] en el Laboratorio de Juncea, dentro del Nido de la Serpiente."
 		},
-		Summary = "Registra la pila de documentos"
+		Summary = "Investiga la pila de documentos"
 	},
 	[16640] = {
 		Title = "Laboratorio de Junca",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Revisemos la <NAVI>[pila de documentos]<INFO>jor_nest,21,195,0,101,0</INFO></NAVI> en el Laboratorio de Junca dentro de Nido de la Serpiente."
+			"Investiguemos la [<NAVI>pila de documentos<INFO>jor_nest,21,195,0,101,0</INFO></NAVI>] en el Laboratorio de Juncea, dentro del Nido de la Serpiente."
 		},
-		Summary = "Registra la pila de documentos"
+		Summary = "Investiga la pila de documentos"
 	},
 	[16641] = {
 		Title = "Laboratorio de Bagot",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Revisemos la pila de documentos en <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro de Nido de la Serpiente."
+			"Investiguemos la pila de documentos en <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente."
 		},
-		Summary = "Registra la pila de documentos"
+		Summary = "Investiga la pila de documentos"
 	},
 	[16642] = {
 		Title = "Laboratorio de Bagot",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Revisemos la pila de documentos en <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro de Nido de la Serpiente."
+			"Investiguemos la pila de documentos en <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente."
 		},
-		Summary = "Registra la pila de documentos"
+		Summary = "Investiga la pila de documentos"
 	},
 	[16643] = {
 		Title = "Guardias Rgan",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hay unos documentos que parecen ser un <NAVI>[libro contable]<INFO>jor_nest,181,173,0,101,0</INFO></NAVI> cerca de los guardias Rgan dentro de Nido de la Serpiente. Echemos un vistazo."
+			"Hay unos documentos que parecen ser un [<NAVI>libro contable<INFO>jor_nest,181,173,0,101,0</INFO></NAVI>] cerca de los guardias Rgan dentro del Nido de la Serpiente. Echemos un vistazo."
 		},
-		Summary = "Registra la pila de documentos"
+		Summary = "Investiga la pila de documentos"
 	},
 	[16644] = {
 		Title = "Guardias Rgan",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Escuchemos a escondidas la conversación de los <NAVI>[guardias Rgan]<INFO>jor_nest,173,177,0,101,0</INFO></NAVI> dentro de Nido de la Serpiente."
+			"Escuchemos a escondidas la conversación de los <NAVI>[guardias Rgan]<INFO>jor_nest,173,177,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente."
 		},
 		Summary = "Escucha la conversación de los guardias Rgan"
 	},
@@ -47374,23 +47384,23 @@ QuestInfoList = {
 		Title = "Compartir pistas",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ya reunimos bastantes pistas. Regresemos con <NAVI>[Leizi]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>, que está transformado en Rgan dentro de Nido de la Serpiente, para compartir lo que descubrimos e intercambiar opiniones."
+			"Ya reunimos bastantes pistas. Regresemos con <NAVI>[Lazy]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>, que está transformado en Rgan dentro de Nido de la Serpiente, para compartir lo que descubrimos e intercambiar opiniones."
 		},
-		Summary = "Habla con Leizi"
+		Summary = "Habla con Lazy"
 	},
 	[16646] = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vayamos al Laboratorio de Junca dentro de Nido de la Serpiente y hablemos con <NAVI>[Junca]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> para ganarnos su confianza."
+			"Vayamos al Laboratorio de Juncea, dentro de Nido de la Serpiente, y hablemos con <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> para ganarnos su confianza."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[16647] = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que Junca quiere comer algo dulce. Regresemos al <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> y busquemos un lugar donde conseguir algo dulce."
+			"Parece que Juncea quiere comer algo dulce. Regresemos al [<NAVI>Castillo de Hielo<INFO>icas_in,245,197,0,101,0</INFO></NAVI>] y busquemos un lugar donde conseguir algo dulce."
 		},
 		Summary = "Habla con el aventurero"
 	},
@@ -47398,55 +47408,55 @@ QuestInfoList = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vayamos al Laboratorio de Junca dentro de Nido de la Serpiente y entreguemos Dulce de hielo a <NAVI>[Junca]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>."
+			"Vayamos al Laboratorio de Juncea, dentro de Nido de la Serpiente, y entreguemos Dulce de Hielo a <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[16649] = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Consigue y lleva a <NAVI>[Junca]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>, que espera dentro de Nido de la Serpiente, 1 dulce de hielo que se puede obtener en el <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> o 10 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>."
+			"Lleva a <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>, que espera dentro del Nido de la Serpiente, 1x Dulce de Hielo, que se puede obtener en el <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>, o 10x <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>."
 		},
-		Summary = "Cumple el encargo de Junca"
+		Summary = "Cumple el encargo de Juncea"
 	},
 	[16650] = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Consigue y lleva a <NAVI>[Junca]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>, que espera dentro de Nido de la Serpiente, 1 dulce de hielo que se puede obtener en el <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> o 10 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>."
+			"Lleva a <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>, que espera dentro del Nido de la Serpiente, 1x Dulce de Hielo, que se puede obtener en el <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>, o 10x <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>."
 		},
-		Summary = "Vuelve a cumplir el encargo de Junca"
+		Summary = "Vuelve a cumplir el encargo de Juncea"
 	},
 	[16651] = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"En el Laboratorio de Junca dentro de Nido de la Serpiente, mostremos a <NAVI>[Junca]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> el libro contable que obtuvimos de los guardias Rgan."
+			"En el Laboratorio de Juncea, dentro de Nido de la Serpiente, mostremos a [<NAVI>Juncea<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>] el libro contable que obtuvimos de los guardias Rgan."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[16652] = {
 		Title = "Infiltración silenciosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Bagot apareció en el Laboratorio de Junca dentro de Nido de la Serpiente. Intentemos disimular bien para que no descubra que tratábamos de convencer a <NAVI>[Junca]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>."
+			"Bagot apareció en el Laboratorio de Juncea, dentro del Nido de la Serpiente. Intentemos disimular bien para que no descubra que tratábamos de convencer a <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[16653] = {
 		Title = "Sospechas acumuladas",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Regresemos al Castillo de Hielo e intercambiemos con <NAVI>[Leizi]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> los avances conseguidos hasta ahora."
+			"Regresemos al Castillo de Hielo e intercambiemos con <NAVI>[Lazy]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> los avances conseguidos hasta ahora."
 		},
-		Summary = "Habla con Leizi"
+		Summary = "Habla con Lazy"
 	},
 	[16654] = {
 		Title = "Sospechas acumuladas",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Sigamos hablando con Leizi y <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI> en el Castillo de Hielo."
+			"Sigamos hablando con Lazy y <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>, en el Castillo de Hielo."
 		},
 		Summary = "Habla con Miriam"
 	},
@@ -47454,31 +47464,31 @@ QuestInfoList = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Decidimos acelerar las cosas. Vayamos al <NAVI>[Laboratorio de Junca]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI> dentro de Nido de la Serpiente e intentemos convencer a Junca."
+			"Decidimos acelerar las cosas. Vayamos al <NAVI>[Laboratorio de Juncea]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>, dentro de Nido de la Serpiente, e intentemos convencer a Juncea."
 		},
-		Summary = "Visita el Laboratorio de Junca"
+		Summary = "Visita el Laboratorio de Juncea"
 	},
 	[16656] = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dentro del Laboratorio de Junca en Nido de la Serpiente, hay líquido derramado alrededor de una caja que no habíamos visto antes. Busquemos un <NAVI>[recipiente]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> para recogerlo."
+			"Dentro del Laboratorio de Juncea, en el Nido de la Serpiente, hay líquido derramado alrededor de una caja que no habíamos visto. Busquemos un <NAVI>[recipiente]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> para recogerlo."
 		},
-		Summary = "Obtén Tubo de ensayo de Junca"
+		Summary = "Obtén Tubo de Ensayo de Juncea"
 	},
 	[16657] = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dentro del Laboratorio de Junca en Nido de la Serpiente, recogimos en un tubo de ensayo vacío un poco del líquido acumulado alrededor de la <NAVI>[caja]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>."
+			"Dentro del Laboratorio de Juncea, en el Nido de la Serpiente, recogimos en un tubo de ensayo vacío un poco del líquido acumulado alrededor de la <NAVI>[caja]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Obtén Tubo de ensayo con líquido rojo"
+		Summary = "Obtén Tubo de Ensayo: Líquido Rojo"
 	},
 	[16658] = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mientras intentábamos salir a escondidas del Laboratorio de Junca en Nido de la Serpiente, un <NAVI>[Rgan]<INFO>jor_nest,24,185,0,101,0</INFO></NAVI> desconocido nos descubrió. Dice que tiene algo que decir, así que escuchémoslo."
+			"Mientras intentábamos salir a escondidas del Laboratorio de Juncea, en el Nido de la Serpiente, un <NAVI>[Rgan]<INFO>jor_nest,24,185,0,101,0</INFO></NAVI> desconocido nos descubrió. Dice que tiene algo que decir, así que escuchémoslo."
 		},
 		Summary = "Habla con Rgan"
 	},
@@ -47486,23 +47496,23 @@ QuestInfoList = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dicen que Junca está esperando en <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro de Nido de la Serpiente."
+			"Dicen que Juncea está esperando en el <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[16660] = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hablemos con Junca en <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro de Nido de la Serpiente."
+			"Hablemos con Juncea en el <NAVI>[Laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, dentro del Nido de la Serpiente."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[16661] = {
 		Title = "Por muy poco",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Llevemos de regreso al pueblo a Junca, que perdió el conocimiento tras convertirse en monstruo, y hablemos con <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>."
+			"Llevemos de regreso al pueblo a Juncea, que perdió el conocimiento tras convertirse en monstruo, y hablemos con <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Regresa al pueblo"
 	},
@@ -47510,15 +47520,15 @@ QuestInfoList = {
 		Title = "Combate de simulación",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Si hablas con <NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, que espera frente a Laboratorio de Bagot en Nido de la Serpiente, podrás combatir contra Junca de simulación, creada a partir de los datos virtuales de Junca."
+			"Si hablas con <NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, que espera frente al Laboratorio de Bagot, en el Nido de la Serpiente, podrás combatir contra Juncea de Simulación, creada a partir de los datos virtuales de Juncea."
 		},
 		Summary = "Habla con el aventurero"
 	},
 	[16663] = {
-		Title = "Combate de simulación - Espera",
+		Title = "[Espera] Combate de simulación",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Si derrotaste a Junca de simulación, descansa aproximadamente un día. Después de descansar lo suficiente, podrás volver a combatir si visitas a <NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, que espera frente a Laboratorio de Bagot en Nido de la Serpiente."
+			"Si derrotaste a Juncea de Simulación, descansa aproximadamente un día. Después de descansar lo suficiente, podrás volver a combatir si visitas a <NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, que espera frente al Laboratorio de Bagot, en el Nido de la Serpiente."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -49869,255 +49879,255 @@ QuestInfoList = {
 		Title = "El plan de Lazy",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Decidimos usar Pergamino de Transformación en Regan para infiltrarnos en la <NAVI>[base]<INFO>jor_back3,98,318,0,101,0</INFO></NAVI> de Rgan. No olvidemos llevar el pergamino de transformación."
+			"Decidimos usar Pergamino de Transformación en Rgan para infiltrarnos en la <NAVI>[base de los Rgan]<INFO>jor_back3,98,318,0,101,0</INFO></NAVI>. No olvidemos llevar el pergamino de transformación."
 		},
 		Summary = "Hacia la base de Rgan"
 	},
 	[17620] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Aventurero, cuando entres en la <NAVI>[guarida]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI> de las serpientes, hazte pasar por un Rgan recién nacido."
+			"Trotamundos, cuando entres en la <NAVI>[guarida de las serpientes]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI>, hazte pasar por un Rgan recién nacido."
 		},
 		Summary = "Hazte pasar por un bebé Rgan"
 	},
 	[17621] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ustedes no deberían estar en un lugar como este. Los llevaré a la parte <NAVI>[superior]<INFO>jor_nest,184,49,0,101,0</INFO></NAVI> del nido. Síganme bien."
+			"Ustedes no deberían estar en un lugar como este. Los llevaré a la parte <NAVI>[superior del nido]<INFO>jor_nest,184,49,0,101,0</INFO></NAVI>. Síganme."
 		},
 		Summary = "Hacia la zona superior"
 	},
 	[17622] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"De camino a recibir el bautismo de bendición del señor Rasgand, primero les mostraré la <NAVI>[incubadora de huevos]<INFO>jor_nest,196,202,0,101,0</INFO></NAVI> de nivel superior del nido."
+			"De camino a recibir el bautismo de bendición de Lord Ragand, primero les mostraré la <NAVI>[incubadora de huevos]<INFO>jor_nest,196,202,0,101,0</INFO></NAVI> de nivel superior del nido."
 		},
-		Summary = "Hacia la incubadora de huevos de nivel superior"
+		Summary = "Hacia la incubadora de huevos"
 	},
 	[17623] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"De camino pasarán por el <NAVI>[alojamiento]<INFO>jor_nest,115,187,0,101,0</INFO></NAVI> de los forasteros que hay en el nido. Les indicaré dónde está, así que no entren ni siquiera por error."
+			"De camino, pasarán por el [<NAVI>alojamiento<INFO>jor_nest,115,187,0,101,0</INFO></NAVI>] de los forasteros que hay en el nido. Les indicaré dónde queda, así que no entren por error."
 		},
 		Summary = "Alojamiento de los forasteros"
 	},
 	[17624] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Bien, ahora sí debemos ir a recibir el bautismo de bendición del señor Rasgand. Subamos un poco más hacia la parte <NAVI>[alta]<INFO>jor_nest,53,244,0,101,0</INFO></NAVI> del nido."
+			"Bien, ahora sí debemos ir a recibir el bautismo de bendición de Lord Ragand. Subamos un poco más hacia la parte <NAVI>[alta]<INFO>jor_nest,53,244,0,101,0</INFO></NAVI> del nido."
 		},
-		Summary = "Alojamiento de Rasgand"
+		Summary = "Alojamiento de Ragand"
 	},
 	[17625] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Si no tienes adónde ir, ¿por qué no visitas el laboratorio de Illusion que hay en el nido? Podrías pedirle a <NAVI>[Junca]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> que te haga un chequeo."
+			"Si no tienes adónde ir, ¿por qué no visitas el laboratorio de Ilusión que hay en el nido? Podrías pedirle a <NAVI>[Juncea]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> que te haga un chequeo."
 		},
-		Summary = "Hacia Junca"
+		Summary = "Hacia Juncea"
 	},
 	[17626] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Ya descansaste? Bien, entonces hagamos lo que hay que hacer. ¿Nido de la Serpiente te resulta desconocido? Tienes que acercarte un poco más <NAVI>[hacia mí]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> para que pueda examinarte."
+			"¿Ya descansaste? Bien, entonces hagamos lo que hay que hacer. ¿El Nido de la Serpiente te resulta desconocido? Tienes que <NAVI>[acercarte un poco más]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> para que pueda examinarte."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[17627] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"El <NAVI>[huevo]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI> del que naciste todavía debería servir. Tráeme Cáscara de huevo de Regan superior. Quiero estudiar ese huevo y la magia que aún conserva. Dijiste que naciste en la Calidez del Dios Serpiente, ¿verdad?"
+			"El <NAVI>[huevo]<INFO>jor_dun02,263,170,0,101,0</INFO></NAVI> del que naciste todavía debería servir. Tráeme Cáscara de Huevo de Rgan Superior. Quiero estudiar ese huevo y la magia que aún conserva. Dijiste que naciste en el Calor del Dios Serpiente, ¿verdad?"
 		},
 		Summary = "Hacia el lugar donde nací"
 	},
 	[17628] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que los huevos de nivel superior se clasifican por separado. Ve a <NAVI>[Nido de la Serpiente]<INFO>jor_nest,23,58,0,101,0</INFO></NAVI>."
+			"Parece que los huevos de nivel superior se separan aparte. Ve a <NAVI>[Nido de la Serpiente]<INFO>jor_nest,23,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hacia la incubadora de huevos de nivel superior"
+		Summary = "Hacia la incubadora de huevos"
 	},
 	[17629] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conseguiste Cáscara de huevo de Regan superior sin problemas. Regresemos con <NAVI>[Junca]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> en Nido de la Serpiente y mostrémosle la cáscara."
+			"Conseguiste Cáscara de Huevo de Rgan Superior sin problemas. Regresemos con <NAVI>[Juncea]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> en Nido de la Serpiente y mostrémosle la cáscara."
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[17630] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Bagot apareció en el alojamiento de Illusion dentro de Nido de la Serpiente. Escuchemos cuál es el propósito de <NAVI>[Bagot]<INFO>jor_nest,26,142,0,101,0</INFO></NAVI>."
+			"Bagot apareció en el alojamiento de Ilusión, dentro del Nido de la Serpiente. Escuchemos cuál es el propósito de <NAVI>[Bagot]<INFO>jor_nest,26,142,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Bagot"
 	},
 	[17631] = {
-		Title = "Infiltración en Nido de la Serpiente",
+		Title = "Infiltración en el Nido de la Serpiente",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Junca]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> está muy furiosa por el aviso unilateral de Bagot, que apareció en Nido de la Serpiente. ¿Qué habrá pasado?"
+			"<NAVI>[Juncea]<INFO>jor_nest,22,141,0,101,0</INFO></NAVI> está furiosa por el anuncio unilateral de Bagot, que apareció en el Nido de la Serpiente. ¿Qué habrá pasado?"
 		},
-		Summary = "Habla con Junca"
+		Summary = "Habla con Juncea"
 	},
 	[17632] = {
-		Title = "Informe provisional de la operación de infiltración",
+		Title = "Informe Parcial de la Operación de Infiltración",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ya no hay nada más que escuchar de Junca. Por ahora, salgamos <NAVI>[fuera]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI> del nido y comentemos la situación con el señor Rage."
+			"Ya no hay nada más que escuchar de Juncea. Por ahora, [<NAVI>salgamos del nido<INFO>jor_nest,87,164,0,101,0</INFO></NAVI>] y comentemos la situación con Lazy."
 		},
 		Summary = "Hacia afuera"
 	},
 	[17633] = {
-		Title = "Informe provisional de la operación de infiltración",
+		Title = "Informe Parcial de la Operación de Infiltración",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Primero vayamos a comprobar la <NAVI>[aeronave]<INFO>jor_nest,24,252,0,101,0</INFO></NAVI> que dicen que está dentro de Nido de la Serpiente. Hay que averiguar cuántos guardias tiene y dónde está ubicada."
+			"Primero vayamos a verificar la <NAVI>[aeronave]<INFO>jor_nest,24,252,0,101,0</INFO></NAVI>, que dicen que está dentro del Nido de la Serpiente. Hay que averiguar cuántos guardias tiene y dónde está ubicada."
 		},
-		Summary = "Comprueba la aeronave"
+		Summary = "Verifica la aeronave"
 	},
 	[17634] = {
-		Title = "Informe provisional de la operación de infiltración",
+		Title = "Informe Parcial de la Operación de Infiltración",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ya sabemos dónde está la aeronave, así que regresemos y pensemos en un plan. Ahora debemos ir hacia la <NAVI>[Calidez del Dios Serpiente]<INFO>jor_dun02,153,239,0,101,0</INFO></NAVI> y rescatar al grupo, ¿verdad?"
+			"Ya sabemos dónde está la aeronave, así que regresemos y pensemos en un plan. Ahora debemos ir hacia [<NAVI>Calor del Dios Serpiente<INFO>jor_dun02,153,239,0,101,0</INFO></NAVI>] y rescatar al grupo, ¿verdad?"
 		},
 		Summary = "Rescata al grupo de la zona inferior"
 	},
 	[17635] = {
-		Title = "Informe provisional de la operación de infiltración",
+		Title = "Informe Parcial de la Operación de Infiltración",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿No dijeron que se llevarían a los <NAVI>[sacerdotes]<INFO>jor_dun02,150,269,0,101,0</INFO></NAVI> obligados a trabajar en la Calidez del Dios Serpiente? Dense prisa y llévenselos."
+			"¿No dijeron que se llevarían a los [<NAVI>sacerdotes<INFO>jor_dun02,150,269,0,101,0</INFO></NAVI>] obligados a trabajar en el Calor del Dios Serpiente? Dense prisa y llévenselos."
 		},
 		Summary = "Hacia el interior"
 	},
 	[17636] = {
-		Title = "Informe provisional de la operación de infiltración",
+		Title = "Informe Parcial de la Operación de Infiltración",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hay mucho por hacer. Regresemos cuanto antes a <NAVI>[Castillo de Hielo]<INFO>icas_in,34,189,0,101,0</INFO></NAVI> y preparemos un plan."
+			"Hay mucho por hacer. Regresemos cuanto antes a [<NAVI>Castillo de Hielo<INFO>icas_in,34,189,0,101,0</INFO></NAVI>] y preparemos un plan."
 		},
-		Summary = "Hacia Castillo de Hielo"
+		Summary = "Hacia el Castillo de Hielo"
 	},
 	[17637] = {
-		Title = "Operación de destrucción de la aeronave",
+		Title = "Operación de Destrucción de la Aeronave",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Tendremos que neutralizar la <NAVI>[aeronave]<INFO>jor_nest,22,254,0,101,0</INFO></NAVI> dentro de Nido de la Serpiente para impedir que se desplacen. Habrá que examinarla con detenimiento."
+			"Tendremos que neutralizar la <NAVI>[aeronave]<INFO>jor_nest,22,254,0,101,0</INFO></NAVI>, dentro de Nido de la Serpiente, para impedir que se desplacen. Habrá que examinarla con detenimiento."
 		},
 		Summary = "Hacia la aeronave"
 	},
 	[17638] = {
-		Title = "Investigar puntos débiles",
+		Title = "Investigar vulnerabilidades",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Regresemos a <NAVI>[Nido de la Serpiente]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI> e investiguemos sus puntos débiles con más detalle."
+			"Regresemos al [<NAVI>Nido de la Serpiente<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>] e investiguemos sus vulnerabilidades con más detalle."
 		},
-		Summary = "De vuelta a Nido de la Serpiente"
+		Summary = "De vuelta al Nido de la Serpiente"
 	},
 	[17639] = {
 		Title = "Acompañar el informe de reconocimiento",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Yo también voy camino a Castillo de Hielo, así que vayamos juntos. A estas alturas ya habrán terminado de comer y estarán en el <NAVI>[comedor]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>."
+			"Yo también voy camino al Castillo de Hielo, así que vayamos juntos. A estas alturas ya habrán terminado de comer y estarán en el <NAVI>[comedor]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hacia el comedor de Castillo de Hielo"
+		Summary = "Hacia el comedor del Castillo de Hielo"
 	},
 	[17640] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Qué es ese Rgan que llevas a cuestas? Mi <NAVI>[casa]<INFO>icas_in,247,116,0,101,0</INFO></NAVI> en Castillo de Hielo queda cerca de aquí, así que vayamos allí primero."
+			"¿Qué es ese Rgan que llevas? Mi <NAVI>[casa]<INFO>icas_in,247,116,0,101,0</INFO></NAVI>] en el Castillo de Hielo queda cerca de aquí, así que vayamos allí primero."
 		},
 		Summary = "Hacia la casa de Horuru"
 	},
 	[17641] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Prepararé un antídoto, así que trae 20 Núcleo Mágico Inferior de Regan y ven a <NAVI>[Castillo de Hielo]<INFO>icas_in,247,116,0,101,0</INFO></NAVI>."
+			"Prepararé un antídoto, así que trae 20x Núcleo Mágico Inferior de Rgan y ven al <NAVI>[Castillo de Hielo]<INFO>icas_in,247,116,0,101,0</INFO></NAVI>."
 		},
-		Summary = "20 Núcleo Mágico Inferior de Regan"
+		Summary = "20x Núcleo Mágico Inferior de Rgan"
 	},
 	[17642] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Junca]<INFO>icas_in,243,117,0,101,0</INFO></NAVI>, que despertó en la casa de Horuru en Castillo de Hielo, parece estar preocupada. A estas alturas, parece que ya casi la hemos convencido."
+			"<NAVI>[Juncea]<INFO>icas_in,243,117,0,101,0</INFO></NAVI>, que despertó en la casa de Horuru en Castillo de Hielo, parece estar preocupada. A estas alturas, parece que ya casi la hemos convencido."
 		},
-		Summary = "Convence a Junca"
+		Summary = "Convence a Juncea"
 	},
 	[17643] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Aurelie]<INFO>icas_in,249,113,0,101,0</INFO></NAVI> apareció en persona en la casa de Horuru en Castillo de Hielo para traer noticias. ¿Habrá ocurrido algo grave?"
+			"<NAVI>[Aurelie]<INFO>icas_in,249,113,0,101,0</INFO></NAVI>] apareció en persona en la casa de Horuru, en el Castillo de Hielo, para traer noticias. ¿Habrá ocurrido algo grave?"
 		},
 		Summary = "Habla con Aurelie"
 	},
 	[17644] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"El grupo de reconocimiento informó que los movimientos de los Regan son sospechosos. Creo que también es un buen momento para que nosotros actuemos. Será mejor ir a la <NAVI>[guarida de las serpientes]<INFO>jor_que,271,88,0,101,0</INFO></NAVI>."
+			"El grupo de reconocimiento informó que los movimientos de los Rgan son sospechosos. Creo que también es un buen momento para que nosotros actuemos. Será mejor ir al <NAVI>[Nido de la Serpiente]<INFO>jor_que,271,88,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Hacia Nido de la Serpiente"
 	},
 	[17645] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dividamos al grupo para averiguar qué ocurre en la zona de la <NAVI>[Calidez del Dios Serpiente]<INFO>jor_que,144,253,0,101,0</INFO></NAVI>. Puede que todavía queden Regan de nivel superior."
+			"Dividamos al grupo para averiguar qué ocurre en las cercanías de <NAVI>[Calor del Dios Serpiente]<INFO>jor_que,144,253,0,101,0</INFO></NAVI>. Puede que todavía queden Rgans Superiores allí."
 		},
-		Summary = "Investiga Nido de la Serpiente"
+		Summary = "Investiga el Nido de la Serpiente"
 	},
 	[17646] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Aquí solo quedan rastros de un desplazamiento apresurado. Quizá haya alguien en algún lugar de la Calidez del Dios Serpiente que <NAVI>[sepa qué ocurrió]<INFO>jor_que,131,148,0,101,0</INFO></NAVI>."
+			"Aquí solo quedan rastros de un desplazamiento apresurado. Quizá haya alguien en algún lugar de Calor del Dios Serpiente que <NAVI>[sepa qué ocurrió]<INFO>jor_que,131,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Alguien que conoce la situación"
+		Summary = "Alguien que conozca la situación"
 	},
 	[17647] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Los... venerables... todos reunidos...... menos nosotros... en la parte <NAVI>[superior]<INFO>jor_que,32,37,0,101,0</INFO></NAVI> del nido... así que rápido...... los venerables también... deben ir, pronto......"
+			"Los nobles... todos reunidos... menos nosotros... en la parte <NAVI>[superior]<INFO>jor_que,32,37,0,101,0</INFO></NAVI> del nido. Así que rápido... Los nobles también... deben ir, rápido..."
 		},
 		Summary = "Hacia la zona superior"
 	},
 	[17648] = {
-		Title = "Nido Caótico de la Serpiente",
+		Title = "Nido de la Serpiente Caótico",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Entonces, para poder encontrarnos con Rasgand, ¿tenemos que atravesar el muro que bloquea la <NAVI>[entrada]<INFO>jor_que,32,37,0,101,0</INFO></NAVI> del nido y derrotar a los Rgan que están al otro lado?"
+			"Entonces, para poder encontrarnos con Ragand, ¿tenemos que atravesar el muro que bloquea la <NAVI>[entrada]<INFO>jor_que,32,37,0,101,0</INFO></NAVI>] del nido y derrotar a los Rgan que están al otro lado?"
 		},
-		Summary = "Entra en Nido de la Serpiente"
+		Summary = "Entra en el Nido de la Serpiente"
 	},
 	[17649] = {
-		Title = "Los que desaparecieron",
+		Title = "Los desaparecidos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No hay forma de abrir esta puerta, así que solo podemos dejar un vigilante y observarla. Por ahora, regresemos a <NAVI>[Castillo de Hielo]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>."
+			"No hay forma de abrir esta puerta, así que solo podemos dejar un vigilante y observarla. Por ahora, regresemos al <NAVI>[Castillo de Hielo]<INFO>icas_in,34,189,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hacia Castillo de Hielo"
+		Summary = "Hacia el Castillo de Hielo"
 	},
 	[17650] = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Agradezco que hayas aceptado ayudar. En vez de perder el tiempo aquí, salgamos <NAVI>[fuera]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> de Castillo de Hielo y discutamos cómo realizar la búsqueda."
+			"Agradezco que hayas aceptado ayudar. En vez de perder tiempo aquí, <NAVI>[salgamos]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> del Castillo de Hielo y discutamos cómo realizar la búsqueda."
 		},
 		Summary = "Hacia afuera"
 	},
@@ -50125,7 +50135,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back2,222,123,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back2,222,123,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50133,7 +50143,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back2,49,175,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back2,49,175,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50141,7 +50151,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back2,309,99,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back2,309,99,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50149,7 +50159,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back2,113,235,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back2,113,235,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50157,7 +50167,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back2,279,307,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back2,279,307,0,101,0</INFO></NAVI> de Llanura de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50165,7 +50175,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back3,152,359,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back3,152,359,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50173,7 +50183,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back3,328,277,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back3,328,277,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50181,7 +50191,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back3,128,138,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back3,128,138,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50189,7 +50199,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back3,264,133,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back3,264,133,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50197,7 +50207,7 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entierra esta Antena superpotente en un <NAVI>[lugar]<INFO>jor_back3,46,324,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
+			"Entierra esta Antena Superpotente en un <NAVI>[lugar]<INFO>jor_back3,46,324,0,101,0</INFO></NAVI> de Glaciar de Escamas Congeladas donde pueda aparecer un Rgan. Ya lo marqué de antemano, así que será fácil encontrarlo."
 		},
 		Summary = "Entierra la antena en el lugar marcado"
 	},
@@ -50205,15 +50215,15 @@ QuestInfoList = {
 		Title = "Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Enterramos todas las Antena superpotente en los lugares designados. Regresemos con el señor <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> en Castillo de Hielo e informémosle."
+			"Enterramos todas las Antenas Superpotentes en los lugares designados. Regresemos con <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI> en Castillo de Hielo e informémosle."
 		},
-		Summary = "Informa al señor Horuru"
+		Summary = "Informa al Sr. Horuru"
 	},
 	[17662] = {
-		Title = "Espera: Buscar el escondite subterráneo desde la superficie",
+		Title = "[Espera] Buscar el escondite subterráneo desde la superficie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Cuando pase el amanecer, las baterías también se agotarán. Entonces vuelve aquí, a Castillo de Hielo, para reemplazarlas. Por hoy, descansa. - <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>"
+			"Cuando pase el amanecer, las baterías también se agotarán. Entonces vuelve aquí, al Castillo de Hielo, para reemplazarlas. Por hoy, descansa. - <NAVI>[Horuru]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -51159,50 +51169,50 @@ QuestInfoList = {
 		Summary = "El anciano desconocido."
 	},
 	[18119] = {
-		Title = "Invitado que llegó con el viento del norte 1",
+		Title = "El visitante del Viento del Norte 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Al enterarnos de que ya se había reunido cierta cantidad de información sobre las tierras del norte, decidimos ir a la Mansión de Varmundt junto con Maram y Miriam. Hablemos sobre los próximos planes con <NAVI>[Eli]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>, que estará esperando en la sala de recepción de la Mansión de Varmundt."
+			"Al enterarnos de que ya se había reunido cierta cantidad de información sobre las tierras del norte, decidimos ir a la Mansión Varmunt junto con Maram y Miriam. Hablemos sobre los próximos planes con <NAVI>[Elly]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>, que estará esperando en la sala de recepción de la Mansión Varmunt."
 		},
-		Summary = "Hacia la Mansión de Varmundt"
+		Summary = "Hacia la Mansión Varmunt"
 	},
 	[18120] = {
-		Title = "Invitado que llegó con el viento del norte 2",
+		Title = "El visitante del Viento del Norte 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Decidimos obtener información sobre Isgard en el palacio real de Prontera. Desde la Mansión de Varmundt, sigamos las indicaciones de <NAVI>[Crux]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI> para ir al palacio real de Prontera."
+			"Decidimos obtener información sobre Issgard en el Palacio Real de Prontera. Desde la Mansión Varmunt, sigamos las indicaciones de <NAVI>[Crux]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI> para ir al Palacio Real de Prontera."
 		},
-		Summary = "Hacia el palacio real de Prontera"
+		Summary = "Hacia el Palacio Real de Prontera"
 	},
 	[18121] = {
-		Title = "La caja del Guardián y la invitación 1",
+		Title = "La Caja del Guardián y la invitación 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Lehar dice que debemos obtener permiso de los Guardianes de Isgard mediante la caja del Guardián. En el palacio real de Prontera, decidimos usar la caja del Guardián guardada en la habitación de <NAVI>[Nihill]<INFO>prt_cas,331,343,0,101,0</INFO></NAVI> para recibir una invitación."
+			"Lehar dice que debemos obtener permiso de los Guardianes de Issgard mediante la Caja del Guardián. En el Palacio Real de Prontera, decidimos usar caja guardada en la habitación de <NAVI>[Nihill]<INFO>prt_cas,331,343,0,101,0</INFO></NAVI> para recibir una invitación."
 		},
 		Summary = "Habla con Nihill en su habitación"
 	},
 	[18122] = {
-		Title = "La caja del Guardián y la invitación 2",
+		Title = "La Caja del Guardián y la invitación 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Recibimos la invitación. Regresemos a <NAVI>[la Mansión de Varmundt]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI> y reunámonos con el grupo."
+			"Recibimos la invitación. Regresemos a la <NAVI>[Mansión Varmunt]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI> y reunámonos con el grupo."
 		},
-		Summary = "Hacia la Mansión de Varmundt"
+		Summary = "Hacia la Mansión Varmunt"
 	},
 	[18123] = {
-		Title = "La caja del Guardián y la invitación 3",
+		Title = "La Caja del Guardián y la invitación 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Al llegar a la Mansión de Varmundt, nos dijeron que podemos partir en cualquier momento desde el <NAVI>[hangar de aeronaves]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>. Subamos a la aeronave y entreguemos la invitación a Saenggangi."
+			"Al llegar a la Mansión Varmunt, nos dijeron que podemos partir en cualquier momento desde el <NAVI>[hangar de la aeronave]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>. Subamos a la aeronave y entreguemos la invitación a Ginger."
 		},
-		Summary = "Habla con Saenggangi"
+		Summary = "Habla con Ginger"
 	},
 	[18124] = {
-		Title = "La caja del Guardián y la invitación 5",
+		Title = "La Caja del Guardián y la invitación 5",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"La aeronave If Ho recibió la protección mágica de la invitación y aterrizó a salvo en Isgard. Bajemos de la aeronave, observemos los alrededores y sigamos las indicaciones de <NAVI>[Lehar]<INFO>jor_tail,221,53,0,101,0</INFO></NAVI>."
+			"La Aeronave IF recibió la protección mágica de la invitación y aterrizó a salvo en Issgard. Bajemos de la aeronave, observemos los alrededores y sigamos las indicaciones de <NAVI>[Lehar]<INFO>jor_tail,221,53,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Lehar"
 	},
@@ -51210,7 +51220,7 @@ QuestInfoList = {
 		Title = "Hacia el Castillo de Hielo",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Siguiendo las indicaciones de Lehar, decidimos trasladarnos a un lugar llamado Castillo de Hielo. Cuando lleguemos, tendremos que pedirle a <NAVI>[Lehar]<INFO>icas_in,141,216,0,101,0</INFO></NAVI> que nos presente al Guardián."
+			"Siguiendo las indicaciones de Lehar, decidimos trasladarnos a un lugar llamado Castillo de Hielo. Cuando lleguemos, tendremos que pedirle a <NAVI>[Lehar]<INFO>icas_in,141,216,0,101,0</INFO></NAVI>] que nos presente a los guardianes."
 		},
 		Summary = "Habla con Lehar"
 	},
@@ -51218,20 +51228,20 @@ QuestInfoList = {
 		Title = "Encuentro en el Castillo de Hielo",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"En el Castillo de Hielo de Isgard, los Guardianes Leon y Aurelie vigilaban el sello junto con los Awin. Sigamos hablando con <NAVI>[Leon]<INFO>icas_in,138,220,0,101,0</INFO></NAVI>."
+			"En el Castillo de Hielo de Issgard, los Guardianes Leon y Aurelie vigilaban el sello junto con los Nevientos. Sigamos hablando con <NAVI>[Leon]<INFO>icas_in,138,220,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Leon"
 	},
 	[18127] = {
-		Title = "Conozcamos al grupo de reconocimiento Awin.",
+		Title = "Encuentra la Patrulla del Águila",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Leon aconsejó que sería útil conocer al grupo de reconocimiento Awin, que patrulla periódicamente la región de Isgard. Encontremos al <NAVI>[Capitán de Patrulla]<INFO>icecastle,23,115,0,101,0</INFO></NAVI> en la entrada del Castillo de Hielo."
+			"Leon aconsejó que sería útil encontrar la Patrulla del Águila, que patrulla periódicamente la región de Issgard. Encontremos al <NAVI>[Capitán de la Patrulla]<INFO>icecastle,23,115,0,101,0</INFO></NAVI> en la entrada del Castillo de Hielo."
 		},
-		Summary = "Habla con el grupo de reconocimiento Awin"
+		Summary = "Habla con el Capitán de la Patrulla"
 	},
 	[18128] = {
-		Title = "Conozcamos a Voglinde.",
+		Title = "Encuentra a Voglinde",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Parece que Voglinde tiene algunas preguntas. Encontremos a <NAVI>[Voglinde]<INFO>icas_in,162,224,0,101,0</INFO></NAVI>, que estará esperando dentro del Castillo de Hielo."
@@ -51239,35 +51249,35 @@ QuestInfoList = {
 		Summary = "Habla con Voglinde"
 	},
 	[18129] = {
-		Title = "La caja del Guardián y la invitación 4",
+		Title = "La Caja del Guardián y la invitación 4",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hablemos con nuestros compañeros a bordo de la aeronave If Ho hasta que lleguemos."
+			"Hablemos con nuestros compañeros a bordo de la Aeronave IF hasta que lleguemos."
 		},
 		Summary = "Habla con tus compañeros"
 	},
 	[18130] = {
-		Title = "Obtención de materiales de investigación para Vellgunde",
+		Title = "Obtener materiales de investigación para Vellgunde",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vellgunde, que investiga la Maldición de Jormungand en el Castillo de Hielo, necesita una gran cantidad de Núcleo Mágico Purificado como material. Debemos obtener piedras mágicas de bajo nivel de los Rgan, hacer que Friederike las purifique y luego llevárselas a Vellgunde."
+			"Vellgunde, que investiga la Maldición de Jormungand en el Castillo de Hielo, necesita una gran cantidad de Núcleo Mágico Purificado como material. Debemos obtener piedras mágicas inferiores de los Rgan, hacer que Friederike las purifique y luego llevárselas a Vellgunde."
 		},
-		Summary = "3 Núcleo Mágico Purificado"
+		Summary = "3x Núcleo Mágico Purificado"
 	},
 	[18131] = {
-		Title = "Obtención de materiales de investigación para Vellgunde - Espera",
+		Title = "[Espera] Obtener materiales de investigación para Vellgunde",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás volver a aceptarla. Puedes recibir la misión de <NAVI>[Vellgunde]<INFO>icas_in,185,63,0,101,0</INFO></NAVI> en el Castillo de Hielo."
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás volver a aceptarla. Puedes recibir la misión de <NAVI>[Vellgunde]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>, en el Castillo de Hielo."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[18132] = {
-		Title = "Se necesita gente.",
+		Title = "Se busca ayuda",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Lehar, a quien encontramos en el vestíbulo del Castillo de Hielo, dice que Leon está buscando urgentemente a alguien que pueda ayudar. Encontremos a <NAVI>[Beleon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI> y escuchemos lo que tiene que decir."
+			"Lehar, a quien encontramos en el vestíbulo del Castillo de Hielo, dice que Leon está buscando urgentemente a alguien que pueda ayudar. Encontremos a <NAVI>[Leon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI> y escuchemos lo que tiene que decir."
 		},
 		Summary = "Habla con Leon"
 	},
@@ -51275,39 +51285,39 @@ QuestInfoList = {
 		Title = "La historia de Leon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hablemos en detalle con <NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI> sobre cómo rescatar a las personas extraviadas en las inclementes llanuras heladas de Isgard."
+			"Hablemos en detalle con [<NAVI>Miriam<INFO>icas_in,48,252,0,101,0</INFO></NAVI>] sobre cómo rescatar a las personas extraviadas en las inclementes llanuras heladas de Issgard."
 		},
 		Summary = "Habla con Miriam"
 	},
 	[18134] = {
-		Title = "Búsqueda de personas extraviadas - Glaciar congelado",
+		Title = "Búsqueda de desaparecidos: Glaciar Congelado",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Dividimos las zonas con Miriam para buscar y rescatar a los habitantes del continente secuestrados y llevados a Isgard. Busquemos personas extraviadas en Glaciar de Escamas Congeladas."
+			"Dividimos las zonas con Miriam para buscar y rescatar a los habitantes del continente secuestrados y llevados a Issgard. Busquemos personas desaparecidas en el Glaciar de Escamas Congeladas."
 		},
-		Summary = "Busca personas extraviadas"
+		Summary = "Busca a las personas desaparecidas"
 	},
 	[18135] = {
-		Title = "Búsqueda de personas extraviadas - Llanura congelada",
+		Title = "Búsqueda de desaparecidos: Llanura Congelada",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Dividimos las zonas con Miriam para buscar y rescatar a los habitantes del continente secuestrados y llevados a Isgard. Busquemos personas extraviadas en Llanura de Escamas Congeladas."
+			"Dividimos las zonas con Miriam para buscar y rescatar a los habitantes del continente secuestrados y llevados a Issgard. Busquemos personas desaparecidas en la Llanura de Escamas Congeladas."
 		},
-		Summary = "Busca personas extraviadas"
+		Summary = "Busca a las personas desaparecidas"
 	},
 	[18136] = {
-		Title = "Rescate de persona extraviada completado",
+		Title = "Búsqueda de desaparecidos - Completada",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Encontramos a un habitante del continente de Midgard que había sido secuestrado y vagaba por Isgard. Regresemos al Castillo de Hielo y entreguémoslo a <NAVI>[Maram]<INFO>icas_in,262,179,0,101,0</INFO></NAVI>."
+			"Encontramos a un habitante del continente de Midgard que había sido secuestrado y vagaba por Issgard. Regresemos al Castillo de Hielo y entreguémoslo a <NAVI>[Maram]<INFO>icas_in,262,179,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Maram"
 	},
 	[18137] = {
-		Title = "Búsqueda de personas extraviadas - Espera",
+		Title = "[Espera] Búsqueda de desaparecidos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Decidimos descansar antes de continuar buscando a los habitantes del continente secuestrados y llevados a Isgard. Cuando pase el tiempo acordado, busquemos a <NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI> y repartamos la`s zonas de búsqueda."
+			"Decidimos descansar antes de continuar buscando a los habitantes del continente secuestrados y llevados a Issgard. Cuando pase el tiempo acordado, busquemos a <NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>] y repartamos las zonas de búsqueda."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -51316,23 +51326,23 @@ QuestInfoList = {
 		Title = "Una forma especial de sobrevivir",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Mimireugand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>, a quien encontramos en Nido de la Serpiente, pide que recuperemos núcleos mágicos de los pecadores que no recibieron la gracia. Parece que con pecadores se refiere a Regan primitivo y Regan de nivel ínfimo. Derrotémoslos y recuperemos 10 Núcleo Mágico Inferior de Regan."
+			"<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>, a quien encontramos en el Nido de la Serpiente, pide que recuperemos núcleos mágicos de los pecadores que no recibieron la gracia. Parece que con pecadores se refiere a Rgan Primitivo y Rgan Ínfimo. Derrotémoslos y recuperemos 10x Núcleo Mágico Inferior de Rgan."
 		},
-		Summary = "10 Núcleo Mágico Inferior de Regan"
+		Summary = "10x Núcleo Mágico Inferior de Rgan"
 	},
 	[18139] = {
 		Title = "Nuestro preciado alimento",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Mimireugand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>, a quien encontramos en Nido de la Serpiente, todavía quiere recuperar el poder mágico de los pecadores. Derrotemos a Regan primitivo y Regan de nivel ínfimo y recuperemos 30 Núcleo Mágico Inferior de Regan."
+			"<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>, a quien encontramos en el Nido de la Serpiente, todavía quiere recuperar el poder mágico de los pecadores. Derrotemos a Rgan Primitivo y Rgan Ínfimo y recuperemos 30x Núcleo Mágico Inferior de Rgan."
 		},
-		Summary = "30 Núcleo Mágico Inferior de Regan"
+		Summary = "30x Núcleo Mágico Inferior de Rgan"
 	},
 	[18140] = {
-		Title = "Nuestro preciado alimento - Espera",
+		Title = "[Espera] Nuestro preciado alimento",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que en Nido de la Serpiente, en Isgard, los núcleos mágicos son como alimento y deben recuperarse todos los días. Si tienes suficiente devoción, ayuda a <NAVI>[Mimireugand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI> cuando haya pasado un tiempo."
+			"Parece que en el Nido de la Serpiente, en Issgard, los núcleos mágicos son como alimento y deben recuperarse todos los días. Si tienes suficiente devoción, ayuda a <NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>] cuando haya pasado un tiempo."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -51341,15 +51351,15 @@ QuestInfoList = {
 		Title = "Pasatiempo refinado",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>, que fabrica accesorios como pasatiempo en Nido de la Serpiente, pidió que reuniéramos materiales. Los materiales son los siguientes: 10 Kalapi, 10 unidades de líquido fluorescente, 10 Flor campana de cebo y 10 Caparazón fino y resistente. Se pueden obtener de los monstruos de la llanura glaciar."
+			"<NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>, que fabrica accesorios como pasatiempo en el Nido de la Serpiente, pidió que reuniéramos materiales. Los materiales son los siguientes: 10x Calapi, 10x Líquido Fluorescente, 10x Flor Campana de Cebo y 10x Caparazón Fino y Resistente. Se pueden obtener de los monstruos de las llanuras glaciales."
 		},
-		Summary = "Habla con Berbergand después de reunir los materiales"
+		Summary = "Habla con Berbergand tras reunir los materiales"
 	},
 	[18142] = {
-		Title = "Pasatiempo refinado - Espera",
+		Title = "[Espera] Pasatiempo refinado",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás volver a aceptarla. Puedes recibir la misión de <NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI> en Nido de la Serpiente."
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás volver a aceptarla. Puedes recibir la misión de <NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI> en el Nido de la Serpiente."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -51358,15 +51368,15 @@ QuestInfoList = {
 		Title = "Por un trabajo seguro",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Hanadeosaragand]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>, encargado de extraer hielo en Nido de la Serpiente, dice que las criaturas del exterior dificultan la extracción porque representan una amenaza. Derrotemos a Limakina y Kalamaring que rondan el glaciar."
+			"<NAVI>[Hanadosaragand]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>, encargado de extraer hielo en el Nido de la Serpiente, dice que las criaturas del exterior dificultan la extracción porque representan una amenaza. Derrotemos a Limacina y Calamaring, que rondan el glaciar."
 		},
 		Summary = "Derrota a los monstruos de la zona glaciar"
 	},
 	[18144] = {
-		Title = "Por un trabajo seguro - Espera",
+		Title = "[Espera] Por un trabajo seguro",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás volver a aceptarla. Puedes recibir la misión de <NAVI>[Hanadeosaragand]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI> en Nido de la Serpiente."
+			"Esta es una misión diaria. Cuando termine el tiempo de espera, podrás volver a aceptarla. Puedes recibir la misión de <NAVI>[Hanadosaragand]<INFO>jor_nest,257,26,0,101,0</INFO></NAVI>, en el Nido de la Serpiente."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1

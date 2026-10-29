@@ -7,127 +7,127 @@
     "Qbb7DQ": {
         "en-US": "Juncea",
         "pt-BR": "Juncea",
-        "es-ES": "Yunkea"
+        "es-ES": "¿Juncea?"
     },
     "Qrb7DQ": {
         "en-US": "[Juncea]\nAh, you're here. Senekiogand. Welcome.",
         "pt-BR": "[Juncea]\nAh, você veio. Senekiogand. Que bom que veio.",
-        "es-ES": "[Yunkea]\nAh, llegaste. Senekiogand. Bienvenido."
+        "es-ES": "[Juncea]\nAh, llegaste, Senekiogand. Bienvenido."
     },
     "Q7b7DQ": {
         "en-US": "[{0}]\nWhat did you mean when you said you wanted to talk to me alone?\nI also had something I wanted to ask you, Juncea.",
-        "pt-BR": "[{0}]\nO que você queria conversar só comigo?\nEu também tinha algumas coisas que queria perguntar sobre você, humana Juncea.",
-        "es-ES": "[{0}]\n¿Qué quiere decir con que quiere hablar a solas?\nYo también tenía algunas cosas que quería preguntarle a usted, humana Yunkea."
+        "pt-BR": "[{0}]\nO que você queria conversar só comigo?\nEu também tinha algumas coisas que queria perguntar sobre você, Juncea.",
+        "es-ES": "[{0}]\n¿Qué quiere decir con que quiere hablar a solas?\nYo también tenía algunas cosas que quería preguntar sobre ti, Juncea."
     },
     "RLb7DQ": {
         "en-US": "[Juncea]\nAh, I figured you would.\nBut hear me out first.",
         "pt-BR": "[Juncea]\nAh, imaginei que sim.\nMas me escute primeiro.",
-        "es-ES": "[Yunkea]\nAh, imaginé que sería así.\nPero escúchame primero."
+        "es-ES": "[Juncea]\nImaginé que así sería.\nPero escúchame primero."
     },
     "Rbb7DQ": {
         "en-US": "[Juncea]\nYou've really been through a lot too.\nIt must be hard, doing something that doesn't suit you.",
         "pt-BR": "[Juncea]\nVocê também passou por muita coisa.\nDeve ser difícil fazer algo que não combina com você.",
-        "es-ES": "[Yunkea]\nDebes estar pasándola bastante mal tú también.\nDebe ser difícil hacer algo que no va contigo."
+        "es-ES": "[Juncea]\nDebes estar pasándola bastante mal tú también.\nDebe ser difícil hacer algo que no te gusta."
     },
     "Rrb7DQ": {
         "en-US": "[{0}]\nWhat do you mean? What's wrong? You're acting strange, Juncea. You're scaring me.",
-        "pt-BR": "[{0}]\nO que quer dizer? Por que está assim? Você está meio estranha, humana Juncea. Estou com medo.",
-        "es-ES": "[{0}]\n¿Qué quiere decir? ¿Por qué actúa así? Está un poco rara, humana Yunkea. Me da miedo."
+        "pt-BR": "[{0}]\nO que quer dizer? Por que está assim? Você está meio estranha, Juncea. Estou com medo.",
+        "es-ES": "[{0}]\n¿Qué quieres decir? ¿Por qué actúa así? Está un poco rara, Juncea. Me da un poco miedo."
     },
     "R7b7DQ": {
         "en-US": "[Juncea]\nWhat's so scary? You've done a good job pretending to be friendly with me until now. Why are you suddenly pretending to be afraid again?",
         "pt-BR": "[Juncea]\nMedo de quê? Até agora você fingiu tão bem que éramos próximos. Por que de repente está fingindo que está com medo?",
-        "es-ES": "[Yunkea]\n¿Qué es lo que te da miedo? Hasta ahora fingiste muy bien que éramos amigos. ¿Por qué de repente vuelves a fingir que tienes miedo?"
+        "es-ES": "[Juncea]\n¿Qué es lo que te da miedo? Hasta ahora fingiste muy bien que éramos amigos. ¿Y de repente vuelves a fingir que tienes miedo?"
     },
     "SLb7DQ": {
         "en-US": "[{0}]\nI wasn't pretending to be friendly. I really wanted to become friends with you, Juncea.",
-        "pt-BR": "[{0}]\nEu não estava fingindo. Eu queria mesmo me aproximar de você, humana Juncea.",
-        "es-ES": "[{0}]\nNo estaba fingiendo que éramos amigos. De verdad quería hacerme amigo de usted, humana Yunkea."
+        "pt-BR": "[{0}]\nEu não estava fingindo. Eu queria mesmo me aproximar de você, Juncea.",
+        "es-ES": "[{0}]\nNo estaba fingiendo que éramos amigos. De verdad quería hacerme amigo tuyo."
     },
     "Sbb7DQ": {
         "en-US": "[Juncea]\nHehe, so that's why you worked so hard bad-mouthing Bagot to me? Good strategy, very good.\nThere's no faster way to bond than by bad-mouthing the same person.",
         "pt-BR": "[Juncea]\nHehe, então foi por isso que você se esforçou tanto para falar mal de Bagot para mim? Boa estratégia, uma ótima estratégia.\nNão há jeito mais rápido de se aproximar de alguém do que falar mal do mesmo alvo.",
-        "es-ES": "[Yunkea]\nJe, je, ¿así que por eso te esforzaste tanto en hablarme mal de Bagot? Buen método, sí, muy buen método.\nNo hay manera más rápida de hacerse amigo de alguien que hablar mal del mismo objetivo."
+        "es-ES": "[Juncea]\nJe, je, ¿por eso te esforzaste tanto en hablarme mal de Bagot? Buena estrategia, sí, muy buena estrategia.\nNo hay manera más rápida de hacerse amigo de alguien que hablar mal de alguien juntos."
     },
     "Srb7DQ": {
         "en-US": "[Juncea]\nBut you picked the wrong person. Foolishly.",
         "pt-BR": "[Juncea]\nMas você escolheu a pessoa errada. Que idiotice.",
-        "es-ES": "[Yunkea]\nPero elegiste a la persona equivocada. Qué estupidez."
+        "es-ES": "[Juncea]\nPero elegiste a la persona equivocada. Muy mala estrategia."
     },
     "S7b7DQ": {
         "en-US": "[Juncea]\nDo you really think the great… Lord Bagot would fall for such a shallow… little scheme…?",
         "pt-BR": "[Juncea]\nVocê acha que o grande… senhor Bagot cairia num truque… tão barato…?",
-        "es-ES": "[Yunkea]\n¿De verdad crees que el gran… señor Bagot caería en una treta… tan superficial…?"
+        "es-ES": "[Juncea]\n¿De verdad creíste que el gran Bagot caería en un truco tan... barato?"
     },
     "TLb7DQ": {
         "en-US": "[{0}]\nThe great Lord Bagot?",
         "pt-BR": "[{0}]\nO grande senhor Bagot?",
-        "es-ES": "[{0}]\n¿El gran señor Bagot?"
+        "es-ES": "[{0}]\n¿El gran Bagot?"
     },
     "Tbb7DQ": {
         "en-US": "[Juncea]\nYes…, he already… sees right through you…….",
-        "pt-BR": "[Juncea]\nIsso…, ele já sabe… de todas as suas intenções…….",
-        "es-ES": "[Yunkea]\nSí…, ya conoce… todas tus verdaderas intenciones……."
+        "pt-BR": "[Juncea]\nIsso… ele já sabe… de todas as suas intenções…",
+        "es-ES": "[Juncea]\nSí… Él ya conoce…Todas tus verdaderas intenciones..."
     },
     "Trb7DQ": {
         "en-US": "[Juncea]\nHe also knows… that you're trying to use me… Juncea.",
-        "pt-BR": "[Juncea]\nEle também sabe… que você está tentando usar esta Juncea….",
-        "es-ES": "[Yunkea]\nTambién sabe… que tú intentas… utilizar a esta Yunkea."
+        "pt-BR": "[Juncea]\nEle também sabe… que você está tentando usar esta Juncea...",
+        "es-ES": "[Juncea]\nTambién sabe que tú intentas... \nUtilizar a esta Juncea."
     },
     "T7b7DQ": {
         "en-US": "[Juncea]\nSo I…….",
-        "pt-BR": "[Juncea]\nPor isso, eu…….",
-        "es-ES": "[Yunkea]\nPor eso yo……."
+        "pt-BR": "[Juncea]\nPor isso, eu...",
+        "es-ES": "[Juncea]\nPor eso, yo..."
     },
     "ULb7DQ": {
         "en-US": "[Juncea]\nI… Who am I? Where is this……",
         "pt-BR": "[Juncea]\nEu… quem sou eu? Onde estou……",
-        "es-ES": "[Yunkea]\nYo… ¿quién soy? Este lugar……"
+        "es-ES": "[Juncea]\nYo… ¿Quién soy yo? Este lugar..."
     },
     "Ubb7DQ": {
         "en-US": "[{0}]\n(Juncea is acting strange… Did Bagot do something after all?)",
         "pt-BR": "[{0}]\n(Juncea está estranha… então foi mesmo Bagot que fez alguma coisa?)",
-        "es-ES": "[{0}]\n(Yunkea está rara… ¿será que Bagot realmente le hizo algo?)"
+        "es-ES": "[{0}]\n(Juncea está rara… ¿Será que Bagot realmente le hizo algo?)."
     },
     "Urb7DQ": {
         "en-US": "[Juncea]\nStruggle all you want… you're already in the palm of Lord Bagot's hand.",
         "pt-BR": "[Juncea]\nNão adianta lutar… vocês já estão na palma da mão do senhor Bagot.",
-        "es-ES": "[Yunkea]\nPor más que lo intenten… ustedes ya están en la palma de la mano del señor Bagot."
+        "es-ES": "[Juncea]\nPor más que lo intenten… Bagot ya los tiene en la palma de la mano ."
     },
     "U7b7DQ": {
         "en-US": "[Juncea]\nI'll… take care of you here…!",
         "pt-BR": "[Juncea]\nVou acabar… com você aqui mesmo…!",
-        "es-ES": "[Yunkea]\nAquí mismo… acabaré contigo…!"
+        "es-ES": "[Juncea]\nAquí mismo… ¡Acabaré contigo!"
     },
     "VLb7DQ": {
         "en-US": "[{0}]\n(…There's no time to ask anyone for help! I'll have to handle this somehow on my own!)",
         "pt-BR": "[{0}]\n(…Não há tempo para pedir ajuda a ninguém! Vou ter que dar um jeito sozinho!)",
-        "es-ES": "[{0}]\n(…¡No hay tiempo para pedir ayuda a nadie! ¡Tendré que arreglármelas solo!)"
+        "es-ES": "[{0}]\n(No hay tiempo para pedir ayuda a nadie ¡Tendré que arreglármelas por mi cuenta!)."
     },
     "Vbb7DQ": {
         "en-US": "[Juncea]\nAah… Aaaaaagh!",
         "pt-BR": "[Juncea]\nAah… Aaaaaagh!",
-        "es-ES": "[Yunkea]\nAh… ¡Aaaaaagh!"
+        "es-ES": "[Juncea]\nAh… ¡Agh!"
     },
     "Vrb7DQ": {
         "en-US": "[Juncea]\nEverything is… according to… Lord Bagot's will…!",
         "pt-BR": "[Juncea]\nTudo é… a vontade… do senhor Bagot…!",
-        "es-ES": "[Yunkea]\nTodo… es la voluntad… del señor Bagot…!"
+        "es-ES": "[Juncea]\nTodo…según la voluntad… ¡Del señor Bagot…!"
     },
     "V7b7DQ": {
         "en-US": "[Juncea]\nAaaaaagh!",
         "pt-BR": "[Juncea]\nAaaaaagh!",
-        "es-ES": "[Yunkea]\n¡Aaaaaagh!"
+        "es-ES": "[Juncea]\n¡Paa!"
     },
     "WLb7DQ": {
         "en-US": "[Juncea]\nI'll punish you… according to his will!",
-        "pt-BR": "[Juncea]\nVou puni-lo… conforme a vontade dele!",
-        "es-ES": "[Yunkea]\n¡Te castigaré… según su voluntad!"
+        "pt-BR": "[Juncea]\nVou punir você… conforme a vontade dele!",
+        "es-ES": "[Juncea]\n¡Te castigaré... según su voluntad!"
     },
     "Wbb7DQ": {
         "en-US": "[{0}]\n(I finally subdued Juncea. She's unconscious…)",
         "pt-BR": "[{0}]\n(Finalmente consegui contê-la. Juncea perdeu a consciência…)",
-        "es-ES": "[{0}]\n(A duras penas logré someterla. Yunkea perdió el conocimiento…)"
+        "es-ES": "[{0}]\n(Por poco logré reducirla. Juncea perdió el conocimiento)."
     },
     "Wrb7DQ": {
         "en-US": "[{0}]\n(Bagot… What did you do to Juncea? She's completely turned into a monster!)",
@@ -137,47 +137,47 @@
     "W7b7DQ": {
         "en-US": "[{0}]\n(According to the plan, I was supposed to persuade her and take her out, but I guess I'll have to take her with me even in this state.)",
         "pt-BR": "[{0}]\n(O plano era convencê-la e tirá-la daqui, mas, mesmo nesse estado, teremos que levá-la.)",
-        "es-ES": "[{0}]\n(Según el plan, debía convencerla y sacarla de aquí, pero tendré que llevármela aunque esté en este estado.)"
+        "es-ES": "[{0}]\n(Según el plan, tengo que convencerla y sacarla de aquí, pero en este estado, voy a tener que cargarla)."
     },
     "XLb7DQ": {
         "en-US": "Bagot : Oh my, perhaps using Juncea as the vessel was not enough after all.",
         "pt-BR": "Bagot : Ora, parece que usar Juncea como receptáculo realmente não foi suficiente.",
-        "es-ES": "Bagot : Vaya, parece que usar a Juncea como recipiente no fue suficiente después de todo."
+        "es-ES": "[Bagot] Oh...Usar a Juncea como recipiente no fue suficiente después de todo."
     },
     "Xbb7DQ": {
         "en-US": "[{0}]\n(I'll use the Rgan Transformation Scroll on Juncea too, just as planned…)",
-        "pt-BR": "[{0}]\n(Vou usar também em Juncea o Pergaminho de Transformação em Regan, como planejado…)",
-        "es-ES": "[{0}]\n(También usaré con Juncea el Pergamino de Transformación en Regan, tal como estaba planeado…)"
+        "pt-BR": "[{0}]\n(Vou usar também em Juncea o Pergaminho de Transformação em Rgan, como planejado…)",
+        "es-ES": "[{0}]\n(También usaré con Juncea el Pergamino de Transformación en Rgan, tal como estaba planeado)."
     },
     "Xrb7DQ": {
         "en-US": "Bagot : This time, Bagot's prediction was wrong.",
         "pt-BR": "Bagot : Desta vez, a previsão de Bagot estava errada.",
-        "es-ES": "Bagot : Esta vez, la predicción de Bagot fue equivocada."
+        "es-ES": "[Bagot] Esta vez, la predicción de Bagot fue equivocada."
     },
     "X7b7DQ": {
         "en-US": "[{0}]\n(For now, let's hurry back to the village with her.)",
         "pt-BR": "[{0}]\n(Por enquanto, vamos levá-la de volta para a vila depressa.)",
-        "es-ES": "[{0}]\n(Por ahora, llevémosla de regreso al pueblo cuanto antes.)"
+        "es-ES": "[{0}]\n(Por ahora, llevémosla de regreso al pueblo cuanto antes)."
     },
     "YLb7DQ": {
         "en-US": "Bagot : Still, to think there was a scroll like that… I knew you were deceiving Bagot, but the existence of something like that is quite interesting.",
         "pt-BR": "Bagot : Aliás, então existia um pergaminho desses… Eu sabia que estavam enganando Bagot, mas a existência de algo assim é interessante.",
-        "es-ES": "Bagot : Pero quién diría que existía un pergamino así… Sabía que estaban engañando a Bagot, pero es interesante que exista algo como eso."
+        "es-ES": "[Bagot] Pero quién diría que existía un pergamino así… Sabía que estaban engañando a Bagot, pero es interesante que exista algo como eso."
     },
     "Ybb7DQ": {
         "en-US": "[{0}]\n(I thought I heard something… I must have imagined it, right?)",
         "pt-BR": "[{0}]\n(Acho que ouvi alguma coisa… devo ter imaginado.)",
-        "es-ES": "[{0}]\n(Me pareció escuchar algo… ¿habré oído mal?)"
+        "es-ES": "[{0}]\n(Me pareció escuchar algo… ¿Habré oído mal?)"
     },
     "Yrb7DQ": {
         "en-US": "Bagot : Hehe.",
         "pt-BR": "Bagot : Hehe.",
-        "es-ES": "Bagot : Je, je."
+        "es-ES": "[Bagot]  Je, je."
     },
     "Y7b7DQ": {
         "en-US": "[{0}]\n(Something seems wrong… Let's go out and come back in.)",
         "pt-BR": "[{0}]\n(Parece que algo deu errado… vou sair e entrar de novo.)",
-        "es-ES": "[{0}]\n(Parece que algo salió mal… salgamos y volvamos a entrar.)"
+        "es-ES": "[{0}]\n(Parece que algo salió mal… Salgamos y volvamos a entrar.)"
     },
     "ZLb7DQ": {
         "en-US": "Battle",
@@ -192,22 +192,22 @@
     "Zrb7DQ": {
         "en-US": "Summoning Device",
         "pt-BR": "Dispositivo de Invocação",
-        "es-ES": "Dispositivo de invocación"
+        "es-ES": "Dispositivo de Invocación"
     },
     "Z7b7DQ": {
         "en-US": "[Summoning Device]\n- Another party member is in a conversation. Please stay and listen for a moment. -\n- If the conversation ends due to an error, you will be able to talk again 5 minutes after the conversation began. -",
         "pt-BR": "[Dispositivo de Invocação]\n- Outro membro do grupo está conversando. Acompanhe a conversa por um momento. -\n- Caso a conversa seja encerrada devido a um erro, será possível conversar novamente 5 minutos após o início da conversa. -",
-        "es-ES": "[Dispositivo de invocación]\n- Otro miembro del grupo está conversando. Escucha la conversación junto con los demás por un momento. -\n- Si la conversación termina debido a un error, volverá a estar disponible 5 minutos después de que haya comenzado. -"
+        "es-ES": "[Dispositivo de Invocación]\nOtro miembro del grupo está conversando. Escucha la conversación junto con los demás por un momento. \nSi la conversación termina debido a un error, volverá a estar disponible 5 minutos después de que haya comenzado."
     },
     "aLb7DQ": {
         "en-US": "[Summoning Device]\nStarting the simulation battle.\nIf you are ready, press the Yes button.",
         "pt-BR": "[Dispositivo de Invocação]\nO combate de simulação será iniciado.\nQuando estiver pronto, pressione o botão Sim.",
-        "es-ES": "[Dispositivo de invocación]\nSe iniciará el combate de simulación.\nSi ya estás listo, presiona el botón Sí."
+        "es-ES": "[Dispositivo de Invocación]\nSe iniciará el combate de simulación.\nSi ya estás listo, presiona el botón Sí."
     },
     "abb7DQ": {
         "en-US": "[Summoning Device]\nAre you ready?",
         "pt-BR": "[Dispositivo de Invocação]\nEstá pronto?",
-        "es-ES": "[Dispositivo de invocación]\n¿Ya estás listo?"
+        "es-ES": "[Dispositivo de Invocación]\n¿Listo?"
     },
     "arb7DQ": {
         "en-US": "Yes",
@@ -222,17 +222,17 @@
     "bLb7DQ": {
         "en-US": "[Summoning Device]\nSummoning Simulation Juncea.\n3, 2, 1. Summoning preparations complete.",
         "pt-BR": "[Dispositivo de Invocação]\nJuncea de Simulação será invocada.\n3, 2, 1. Preparação para invocação concluída.",
-        "es-ES": "[Dispositivo de invocación]\nSe invocará a Junca de simulación.\n3, 2, 1. Preparativos de invocación completados."
+        "es-ES": "[Dispositivo de Invocación]\nSe invocará a Junca de simulación.\n3, 2, 1. Preparativos de invocación completados."
     },
     "bbb7DQ": {
         "en-US": "[Summoning Device]\nEnding.",
         "pt-BR": "[Dispositivo de Invocação]\nEncerrando.",
-        "es-ES": "[Dispositivo de invocación]\nFinalizando."
+        "es-ES": "[Dispositivo de Invocación]\nFinalizando."
     },
     "brb7DQ": {
         "en-US": "[Summoning Device]\nBattle complete. Saving data.\nTo leave the laboratory, press the Yes button.",
         "pt-BR": "[Dispositivo de Invocação]\nCombate concluído. Salvando os dados.\nPara sair do laboratório, pressione o botão Sim.",
-        "es-ES": "[Dispositivo de invocación]\nCombate completado. Guardando datos.\nSi deseas salir del laboratorio, presiona el botón Sí."
+        "es-ES": "[Dispositivo de Invocación]\nCombate completado. Guardando datos.\nSi deseas salir del Laboratorio, presiona el botón Sí."
     },
     "b7b7DQ": {
         "en-US": "No",
@@ -242,7 +242,7 @@
     "cLb7DQ": {
         "en-US": "[Summoning Device]\n3, 2, 1. Movement preparations complete.",
         "pt-BR": "[Dispositivo de Invocação]\n3, 2, 1. Preparação para transporte concluída.",
-        "es-ES": "[Dispositivo de invocación]\n3, 2, 1. Preparativos de traslado completados."
+        "es-ES": "[Dispositivo de Invocación]\n3, 2, 1. Preparativos de traslado completados."
     },
     "cbb7DQ": {
         "en-US": "Simulation Juncea",

@@ -5560,7 +5560,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_GRADUAL_GRAVITY] = {
 		descript = {
 			{
-				"increase in gravity"
+				"Increase Gravity"
 			},
 			{"%s"},
 			{

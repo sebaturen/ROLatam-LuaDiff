@@ -1,39 +1,63 @@
 {
     "oKG4": {
-        "en-US": "Juno Guide"
+        "en-US": "Juno Guide",
+        "pt-BR": "Guia de Juno",
+        "es-ES": "Guía de Juno"
     },
     "oaG4": {
-        "en-US": "[Ms. Yoon]\nA place that takes the vision of the future, and gives it form in the present. Welcome to\nthe city of Juno!"
+        "en-US": "[Ms. Yoon]\nA place that takes the vision of the future, and gives it form in the present. Welcome to\nthe city of Juno!",
+        "pt-BR": "[Guia de Juno]\nUm lugar que pega a visão do futuro e lhe dá forma no presente. Bem-vindo à\ncidade de Juno!",
+        "es-ES": "[Guía Juno]\nUn lugar que toma la visión del futuro y le da forma en el presente. Bienvenidos a\n¡la ciudad de Juno!"
     },
     "oqG4": {
-        "en-US": "Armory"
+        "en-US": "Armory",
+        "pt-BR": "Loja de Armas",
+        "es-ES": "Tienda de armas y armaduras"
     },
     "o6G4": {
-        "en-US": "Tool Shop"
+        "en-US": "Tool Shop",
+        "pt-BR": "Loja de Ferramentas",
+        "es-ES": "Tienda de herramientas"
     },
     "pKG4": {
-        "en-US": "Sage Castle (Sage Job Change Place)"
+        "en-US": "Sage Castle (Sage Job Change Place)",
+        "pt-BR": "Castelo dos Sábios",
+        "es-ES": "Castillo de Sabios"
     },
     "paG4": {
-        "en-US": "Street of Book Stores"
+        "en-US": "Street of Book Stores",
+        "pt-BR": "Ruas da loja de livros",
+        "es-ES": "Calles de librerías"
     },
     "pqG4": {
-        "en-US": "Juphero Plaza"
+        "en-US": "Juphero Plaza",
+        "pt-BR": "Praça de Juno",
+        "es-ES": "Plaza Juno"
     },
     "p6G4": {
-        "en-US": "Library of the Republic"
+        "en-US": "Library of the Republic",
+        "pt-BR": "Biblioteca de Juno",
+        "es-ES": "Biblioteca de Yuno"
     },
     "qKG4": {
-        "en-US": "Schweicherbil Magic Academy"
+        "en-US": "Schweicherbil Magic Academy",
+        "pt-BR": "Academia de Magia Schweicherwil",
+        "es-ES": "Academia de Magia Schweicherwil"
     },
     "qaG4": {
-        "en-US": "Monster Museum"
+        "en-US": "Monster Museum",
+        "pt-BR": "Museu de Monstros",
+        "es-ES": "Museo de los Monstruos"
     },
     "qqG4": {
-        "en-US": "Forge"
+        "en-US": "Forge",
+        "pt-BR": "Refinaria",
+        "es-ES": "Herrería"
     },
     "q6G4": {
-        "en-US": "Airport"
+        "en-US": "Airport",
+        "pt-BR": "Aeroporto",
+        "es-ES": "Aeropuerto"
     },
     "rKG4": {
         "en-US": "End Conversation",
@@ -41,37 +65,59 @@
         "es-ES": "Terminar la conversación."
     },
     "raG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Armory\nThank you,\nhave a good day."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Armory\nThank you,\nhave a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\nda ^FF3355Loja de Armas e Armaduras^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n de la ^FF3355Tienda de Armas y Armaduras^000000\n en tu minimapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "rqG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Tool Shop\nThank you,\nhave a good day."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Tool Shop\nThank you,\nhave a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\nda ^3355FFLoja de Ferramentas^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\nMarcaré la ubicación\nde la ^3355FFTienda de Herramientas^000000\nen tu minimapa.\n¿Necesitas alguna otra ayuda?"
     },
     "r6G4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Sage Castle\n( Sage Job Change Place )\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Sage Castle\n( Sage Job Change Place )\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\ndo ^33FF55Castelo dos Sábios^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n del ^33FF55Castillo del Sabio^000000\n en tu mini mapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "sKG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Street of Book Stores\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^FF3355+^000000 -> Street of Book Stores\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\ndas ^FF3355Ruas da loja de livros^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n de las ^FF3355 Calles de la Librería^000000\n en tu mini mapa.\n ¿Necesita alguna otra ayuda?"
     },
     "saG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Juphero Plaza\nThank you,\nhave a good day."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^3355FF+^000000 -> Juphero Plaza\nThank you,\nhave a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\ndo ^3355FFPraça de Juno^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n de la ^3355FFPlaza de Juno^000000\n en tu mini mapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "sqG4": {
-        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Library of the Republic\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look\nat the mini map.\n^33FF55+^000000 -> Library of the Republic\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\nda ^33FF55Biblioteca de Juno^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n de la ^33FF55Biblioteca Juno^000000\n en tu mini mapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "s6G4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^FF3355+^000000 -> Schweicherbil Magic Academy\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^FF3355+^000000 -> Schweicherbil Magic Academy\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\nda ^FF3355Academia de Magia de Schweicherwil^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n de la ^FF3355Academia de Magia Schweicherwil^000000\n en tu mini mapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "tKG4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Monster Museum\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Monster Museum\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\ndo ^3355FFMuseu de Monstros^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n del ^3355FFMuseo del Monstruo^000000\n en tu mini mapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "taG4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Forge\nThe forge is located underneath Armory.\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Forge\nThe forge is located underneath Armory.\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\nda ^3355FFRefinaria^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n de la ^3355FFHerrería^000000\n en tu mini mapa.\n ¿Necesitas alguna otra ayuda?"
     },
     "tqG4": {
-        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Airport\nThank you, have a good day."
+        "en-US": "[Ms. Yoon]\nPlease look at the mini map.\n^3355FF+^000000 -> Airport\nThank you, have a good day.",
+        "pt-BR": "[Guia de Juno]\nVou marcar a localização\ndo ^3355FFAeroporto^000000\nem seu minimapa.\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Guía Juno]\n Marcaré la ubicación\n del ^3355FFAeropuerto^000000\n en tu mini mapa.\n ¿Necesita alguna otra ayuda?"
     },
     "t6G4": {
-        "en-US": "[Ms. Yoon]\nA great city of wise men.\nA city of Knowledge!\nWelcome to Juno."
+        "en-US": "[Ms. Yoon]\nA great city of wise men.\nA city of Knowledge!\nWelcome to Juno.",
+        "pt-BR": "[Guia de Juno]\nUma cidade de grandes sábios.\nUma grande cidade do Conhecimento!\nBoas-vindas. Esta é Juno.",
+        "es-ES": "[Guía de Juno]\nUna ciudad de grandes sabios.\n¡Una gran ciudad del Conocimiento!\nBienvenidos. Esta es Juno."
     },
     "uKG4": {
         "en-US": "A Citizen of Juno",

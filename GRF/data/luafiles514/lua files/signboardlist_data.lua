@@ -7428,6 +7428,30 @@ SignBoardList_data = {
 		ICONID = 3,
 		FILEPATH = "item\\rl_banishing_buster.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[1005] = {
+		MAPNAME = "icecastle",
+		CELLX = 62,
+		CELLY = 229,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "information\\over_inn.bmp"
+	},
+	[1006] = {
+		MAPNAME = "icecastle",
+		CELLX = 59,
+		CELLY = 123,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "information\\over_guide.bmp"
+	},
+	[1007] = {
+		MAPNAME = "icas_in",
+		CELLX = 180,
+		CELLY = 61,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "information\\over_store.bmp"
 	}
 }
 local function MergeTables(dest, src)

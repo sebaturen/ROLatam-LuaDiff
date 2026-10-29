@@ -239,10 +239,10 @@ EquipmentPropertiesOrder_string = {
 				name = "{sym}{val}%#Magic damage to Boss enemies"
 			},
 			[29] = {
-				name = "{sym}{val}%#Magic damage against Normal enemies"
+				name = "{sym}{val}%#DEFM ignored for Normal monsters"
 			},
 			[30] = {
-				name = "{sym}{val}%#Magic damage against Boss enemies"
+				name = "{sym}{val}%#DEFM ignored for Boss monsters"
 			},
 			[31] = {
 				name = "{sym}{val}%#Bow damage"

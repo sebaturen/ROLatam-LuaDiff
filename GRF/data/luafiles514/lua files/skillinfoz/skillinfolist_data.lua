@@ -26574,6 +26574,25 @@ SkillInfoList_data = {
 			1
 		}
 	},
+	[SKID.DK_SERVANTWEAPON_ATK] = {
+		"DK_SERVANTWEAPON_ATK",
+		MaxLv = 5,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
 	[SKID.DK_SERVANT_W_SIGN] = {
 		"DK_SERVANT_W_SIGN",
 		MaxLv = 5,
@@ -26721,16 +26740,16 @@ SkillInfoList_data = {
 		"DK_HACKANDSLASHER",
 		MaxLv = 10,
 		SpAmount = {
-			34,
-			38,
-			42,
-			46,
-			50,
-			54,
-			58,
-			62,
-			66,
-			70
+			36,
+			40,
+			44,
+			48,
+			52,
+			56,
+			60,
+			64,
+			68,
+			72
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -26811,11 +26830,11 @@ SkillInfoList_data = {
 		"DK_MADNESS_CRUSHER",
 		MaxLv = 5,
 		SpAmount = {
-			34,
-			38,
-			42,
-			46,
-			50
+			36,
+			44,
+			52,
+			60,
+			68
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -26875,16 +26894,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125
 		}
 	},
 	[SKID.DK_STORMSLASH] = {
@@ -26916,15 +26935,54 @@ SkillInfoList_data = {
 			}
 		}
 	},
+	[SKID.DK_DRAGONIC_BREATH] = {
+		"DK_DRAGONIC_BREATH",
+		MaxLv = 10,
+		SpAmount = {
+			61,
+			64,
+			67,
+			70,
+			73,
+			76,
+			79,
+			82,
+			85,
+			88
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9
+		},
+		_NeedSkillList = {
+			{
+				SKID.RK_DRAGONBREATH,
+				10
+			},
+			{
+				SKID.RK_DRAGONBREATH_WATER,
+				10
+			}
+		}
+	},
 	[SKID.AG_DEADLY_PROJECTION] = {
 		"AG_DEADLY_PROJECTION",
 		MaxLv = 5,
 		SpAmount = {
+			70,
+			75,
 			80,
-			90,
-			100,
-			110,
-			120
+			85,
+			90
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -26945,11 +27003,11 @@ SkillInfoList_data = {
 		"AG_DESTRUCTIVE_HURRICANE",
 		MaxLv = 5,
 		SpAmount = {
-			80,
-			90,
-			100,
-			110,
-			120
+			108,
+			114,
+			120,
+			126,
+			132
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -26970,11 +27028,11 @@ SkillInfoList_data = {
 		"AG_RAIN_OF_CRYSTAL",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			50,
-			60,
-			70,
-			80
+			84,
+			88,
+			92,
+			96,
+			100
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -26995,11 +27053,11 @@ SkillInfoList_data = {
 		"AG_MYSTERY_ILLUSION",
 		MaxLv = 5,
 		SpAmount = {
-			80,
-			90,
-			100,
-			110,
-			120
+			78,
+			86,
+			94,
+			102,
+			110
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27024,11 +27082,11 @@ SkillInfoList_data = {
 		"AG_VIOLENT_QUAKE",
 		MaxLv = 5,
 		SpAmount = {
-			80,
-			90,
-			100,
 			110,
-			120
+			114,
+			118,
+			122,
+			126
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27049,11 +27107,11 @@ SkillInfoList_data = {
 		"AG_SOUL_VC_STRIKE",
 		MaxLv = 5,
 		SpAmount = {
-			80,
 			90,
+			95,
 			100,
-			110,
-			120
+			105,
+			110
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27078,11 +27136,11 @@ SkillInfoList_data = {
 		"AG_STRANTUM_TREMOR",
 		MaxLv = 5,
 		SpAmount = {
-			35,
-			45,
-			55,
-			65,
-			75
+			74,
+			79,
+			84,
+			89,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27103,11 +27161,11 @@ SkillInfoList_data = {
 		"AG_ALL_BLOOM",
 		MaxLv = 5,
 		SpAmount = {
-			80,
-			90,
-			100,
+			94,
+			102,
 			110,
-			120
+			118,
+			126
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27128,11 +27186,11 @@ SkillInfoList_data = {
 		"AG_CRYSTAL_IMPACT",
 		MaxLv = 5,
 		SpAmount = {
-			80,
-			90,
 			100,
-			110,
-			120
+			108,
+			116,
+			124,
+			132
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27149,15 +27207,34 @@ SkillInfoList_data = {
 			}
 		}
 	},
+	[SKID.AG_CRYSTAL_IMPACT_ATK] = {
+		"AG_CRYSTAL_IMPACT_ATK",
+		MaxLv = 5,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
 	[SKID.AG_TORNADO_STORM] = {
 		"AG_TORNADO_STORM",
 		MaxLv = 5,
 		SpAmount = {
-			45,
-			55,
-			65,
-			75,
-			85
+			78,
+			82,
+			86,
+			90,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27207,11 +27284,11 @@ SkillInfoList_data = {
 		"AG_FLORAL_FLARE_ROAD",
 		MaxLv = 5,
 		SpAmount = {
-			30,
-			40,
-			50,
-			60,
-			70
+			70,
+			76,
+			82,
+			88,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27232,16 +27309,16 @@ SkillInfoList_data = {
 		"AG_ASTRAL_STRIKE",
 		MaxLv = 10,
 		SpAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			130,
+			130,
+			130,
+			130,
+			130,
+			130,
+			130,
+			130,
+			130,
+			130
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27271,16 +27348,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			25,
+			25,
+			25,
+			25,
+			25,
+			25,
+			25,
+			25,
+			25,
+			25
 		}
 	},
 	[SKID.AG_CLIMAX] = {
@@ -27323,11 +27400,11 @@ SkillInfoList_data = {
 		"AG_ROCK_DOWN",
 		MaxLv = 5,
 		SpAmount = {
-			65,
-			70,
-			75,
+			68,
+			74,
 			80,
-			85
+			86,
+			92
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27348,11 +27425,11 @@ SkillInfoList_data = {
 		"AG_STORM_CANNON",
 		MaxLv = 5,
 		SpAmount = {
-			60,
-			70,
-			80,
+			78,
+			82,
+			86,
 			90,
-			100
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27373,11 +27450,11 @@ SkillInfoList_data = {
 		"AG_CRIMSON_ARROW",
 		MaxLv = 5,
 		SpAmount = {
-			65,
-			75,
-			85,
-			95,
-			105
+			86,
+			88,
+			90,
+			92,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27394,15 +27471,34 @@ SkillInfoList_data = {
 			}
 		}
 	},
+	[SKID.AG_CRIMSON_ARROW_ATK] = {
+		"AG_CRIMSON_ARROW_ATK",
+		MaxLv = 5,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9
+		}
+	},
 	[SKID.AG_FROZEN_SLASH] = {
 		"AG_FROZEN_SLASH",
 		MaxLv = 5,
 		SpAmount = {
-			45,
-			55,
-			65,
-			75,
-			85
+			84,
+			87,
+			90,
+			93,
+			96
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27502,11 +27598,11 @@ SkillInfoList_data = {
 		"IQ_OLEUM_SANCTUM",
 		MaxLv = 5,
 		SpAmount = {
-			30,
-			40,
-			50,
-			60,
-			70
+			45,
+			55,
+			65,
+			75,
+			85
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27595,27 +27691,27 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12
 		}
 	},
 	[SKID.IQ_EXPOSION_BLASTER] = {
 		"IQ_EXPOSION_BLASTER",
 		MaxLv = 5,
 		SpAmount = {
+			70,
+			75,
 			80,
-			90,
-			100,
-			110,
-			120
+			85,
+			90
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27636,19 +27732,19 @@ SkillInfoList_data = {
 		"IQ_FIRST_BRAND",
 		MaxLv = 5,
 		SpAmount = {
-			22,
-			29,
-			36,
-			43,
-			50
+			46,
+			50,
+			54,
+			58,
+			62
 		},
 		bSeperateLv = true,
 		AttackRange = {
-			2,
-			2,
-			2,
-			2,
-			2
+			3,
+			3,
+			3,
+			3,
+			3
 		},
 		_NeedSkillList = {
 			{
@@ -27711,22 +27807,22 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
+			80,
+			70,
+			60,
 			50,
-			50,
-			50,
-			50,
-			50
+			40
 		}
 	},
 	[SKID.IQ_SECOND_FLAME] = {
 		"IQ_SECOND_FLAME",
 		MaxLv = 5,
 		SpAmount = {
-			46,
-			52,
-			58,
-			64,
-			70
+			51,
+			57,
+			63,
+			69,
+			75
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27747,11 +27843,11 @@ SkillInfoList_data = {
 		"IQ_SECOND_FAITH",
 		MaxLv = 5,
 		SpAmount = {
-			36,
-			42,
-			48,
-			54,
-			60
+			41,
+			47,
+			53,
+			59,
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27772,11 +27868,11 @@ SkillInfoList_data = {
 		"IQ_SECOND_JUDGEMENT",
 		MaxLv = 5,
 		SpAmount = {
-			45,
 			50,
 			55,
 			60,
-			65
+			65,
+			70
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -27893,11 +27989,11 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			100,
-			100,
-			100,
-			100,
-			100
+			120,
+			105,
+			90,
+			75,
+			60
 		}
 	},
 	[SKID.IG_GUARD_STANCE] = {
@@ -28120,16 +28216,16 @@ SkillInfoList_data = {
 		"IG_GRAND_JUDGEMENT",
 		MaxLv = 10,
 		SpAmount = {
-			41,
-			44,
-			47,
-			50,
-			53,
-			56,
-			59,
-			62,
-			65,
-			68
+			51,
+			54,
+			57,
+			60,
+			63,
+			66,
+			69,
+			72,
+			75,
+			78
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28155,32 +28251,32 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
 		}
 	},
 	[SKID.IG_JUDGEMENT_CROSS] = {
 		"IG_JUDGEMENT_CROSS",
 		MaxLv = 10,
 		SpAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			60,
+			65,
+			70,
+			75,
+			80,
+			85,
+			90,
+			95,
+			100,
+			105
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28206,16 +28302,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			10,
+			10,
+			10,
+			10,
+			10,
+			10,
+			10,
+			10,
+			10,
+			10
 		}
 	},
 	[SKID.IG_SHIELD_SHOOTING] = {
@@ -28251,6 +28347,7 @@ SkillInfoList_data = {
 		"IG_OVERSLASH",
 		MaxLv = 10,
 		SpAmount = {
+			38,
 			41,
 			44,
 			47,
@@ -28259,8 +28356,7 @@ SkillInfoList_data = {
 			56,
 			59,
 			62,
-			65,
-			68
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28286,16 +28382,16 @@ SkillInfoList_data = {
 		"IG_CROSS_RAIN",
 		MaxLv = 10,
 		SpAmount = {
-			50,
-			54,
-			58,
-			62,
-			66,
+			67,
 			70,
-			74,
-			78,
+			73,
+			76,
+			79,
 			82,
-			86
+			85,
+			88,
+			91,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28458,16 +28554,16 @@ SkillInfoList_data = {
 		"CD_ARBITRIUM",
 		MaxLv = 10,
 		SpAmount = {
-			50,
-			60,
-			70,
-			80,
-			90,
+			94,
+			96,
+			98,
 			100,
+			102,
+			104,
+			106,
+			108,
 			110,
-			120,
-			130,
-			140
+			112
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28491,6 +28587,35 @@ SkillInfoList_data = {
 				SKID.CD_FRAMEN,
 				3
 			}
+		}
+	},
+	[SKID.CD_ARBITRIUM_ATK] = {
+		"CD_ARBITRIUM_ATK",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9
 		}
 	},
 	[SKID.CD_PRESENS_ACIES] = {
@@ -28555,16 +28680,16 @@ SkillInfoList_data = {
 		"CD_EFFLIGO",
 		MaxLv = 10,
 		SpAmount = {
-			60,
-			60,
-			60,
-			60,
-			60,
-			60,
-			60,
-			60,
-			60,
-			60
+			75,
+			75,
+			75,
+			75,
+			75,
+			75,
+			75,
+			75,
+			75,
+			75
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28590,16 +28715,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12,
+			12
 		}
 	},
 	[SKID.CD_COMPETENTIA] = {
@@ -28636,10 +28761,10 @@ SkillInfoList_data = {
 		},
 		ApAmount = {
 			200,
-			200,
-			200,
-			200,
-			200
+			190,
+			180,
+			170,
+			160
 		}
 	},
 	[SKID.CD_PNEUMATICUS_PROCELLA] = {
@@ -28681,16 +28806,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30
 		}
 	},
 	[SKID.CD_DILECTIO_HEAL] = {
@@ -28784,16 +28909,16 @@ SkillInfoList_data = {
 		"CD_PETITIO",
 		MaxLv = 10,
 		SpAmount = {
-			32,
-			34,
-			36,
 			38,
-			40,
-			42,
+			41,
 			44,
-			46,
-			48,
-			50
+			47,
+			50,
+			53,
+			56,
+			59,
+			62,
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28823,11 +28948,11 @@ SkillInfoList_data = {
 		"CD_FRAMEN",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			45,
-			50,
-			55,
-			60
+			80,
+			83,
+			86,
+			89,
+			92
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -28891,16 +29016,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			152,
+			149,
+			146,
+			143,
+			140,
+			137,
+			134,
+			131,
+			128,
+			125
 		}
 	},
 	[SKID.SHC_DANCING_KNIFE] = {
@@ -28932,16 +29057,16 @@ SkillInfoList_data = {
 		"SHC_SAVAGE_IMPACT",
 		MaxLv = 10,
 		SpAmount = {
-			28,
-			31,
-			34,
-			37,
-			40,
-			43,
-			46,
-			49,
-			52,
-			55
+			45,
+			48,
+			51,
+			54,
+			57,
+			60,
+			63,
+			66,
+			69,
+			72
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29000,19 +29125,19 @@ SkillInfoList_data = {
 		"SHC_ETERNAL_SLASH",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			40,
-			40,
-			40,
-			40
+			60,
+			60,
+			60,
+			60,
+			60
 		},
 		bSeperateLv = true,
 		AttackRange = {
-			2,
-			2,
-			2,
-			2,
-			2
+			3,
+			3,
+			3,
+			3,
+			3
 		},
 		_NeedSkillList = {
 			{
@@ -29072,11 +29197,11 @@ SkillInfoList_data = {
 		"SHC_SHADOW_STAB",
 		MaxLv = 5,
 		SpAmount = {
+			40,
 			45,
 			50,
 			55,
-			60,
-			65
+			60
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29109,11 +29234,11 @@ SkillInfoList_data = {
 		"SHC_IMPACT_CRATER",
 		MaxLv = 5,
 		SpAmount = {
-			43,
 			46,
-			49,
-			52,
-			55
+			54,
+			62,
+			70,
+			78
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29226,11 +29351,11 @@ SkillInfoList_data = {
 		"MT_AXE_STOMP",
 		MaxLv = 5,
 		SpAmount = {
-			25,
-			30,
-			35,
-			40,
-			45
+			46,
+			53,
+			60,
+			67,
+			74
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29553,6 +29678,101 @@ SkillInfoList_data = {
 			200
 		}
 	},
+	[SKID.MT_SPARK_BLASTER] = {
+		"MT_SPARK_BLASTER",
+		MaxLv = 10,
+		SpAmount = {
+			48,
+			52,
+			56,
+			60,
+			64,
+			68,
+			72,
+			76,
+			80,
+			84
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9
+		},
+		_NeedSkillList = {
+			{
+				SKID.MT_M_MACHINE,
+				1
+			}
+		}
+	},
+	[SKID.MT_TRIPLE_LASER] = {
+		"MT_TRIPLE_LASER",
+		MaxLv = 5,
+		SpAmount = {
+			40,
+			45,
+			50,
+			55,
+			60
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			11,
+			11,
+			11,
+			11,
+			11
+		},
+		_NeedSkillList = {
+			{
+				SKID.MT_SPARK_BLASTER,
+				5
+			}
+		}
+	},
+	[SKID.MT_MIGHTY_SMASH] = {
+		"MT_MIGHTY_SMASH",
+		MaxLv = 10,
+		SpAmount = {
+			51,
+			54,
+			57,
+			60,
+			63,
+			66,
+			69,
+			72,
+			75,
+			78
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		},
+		_NeedSkillList = {
+			{
+				SKID.MT_AXE_STOMP,
+				3
+			}
+		}
+	},
 	[SKID.ABC_DAGGER_AND_BOW_M] = {
 		"ABC_DAGGER_AND_BOW_M",
 		MaxLv = 10,
@@ -29654,11 +29874,11 @@ SkillInfoList_data = {
 		"ABC_ABYSS_DAGGER",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			45,
-			50,
-			55,
-			60
+			48,
+			52,
+			56,
+			60,
+			64
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29670,7 +29890,7 @@ SkillInfoList_data = {
 		},
 		_NeedSkillList = {
 			{
-				SKID.SC_STARTMARK,
+				SKID.SC_FATALMENACE,
 				5
 			},
 			{
@@ -29712,11 +29932,11 @@ SkillInfoList_data = {
 		"ABC_CHAIN_REACTION_SHOT",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			50,
-			60,
-			70,
-			80
+			35,
+			45,
+			55,
+			65,
+			75
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29735,6 +29955,25 @@ SkillInfoList_data = {
 				SKID.ABC_DAGGER_AND_BOW_M,
 				3
 			}
+		}
+	},
+	[SKID.ABC_CHAIN_REACTION_SHOT_ATK] = {
+		"ABC_CHAIN_REACTION_SHOT_ATK",
+		MaxLv = 5,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9
 		}
 	},
 	[SKID.ABC_FROM_THE_ABYSS] = {
@@ -29817,16 +30056,16 @@ SkillInfoList_data = {
 		"ABC_ABYSS_STRIKE",
 		MaxLv = 10,
 		SpAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125,
+			125
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29852,32 +30091,32 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
 		}
 	},
 	[SKID.ABC_DEFT_STAB] = {
 		"ABC_DEFT_STAB",
 		MaxLv = 10,
 		SpAmount = {
-			28,
-			31,
-			34,
-			37,
-			40,
-			43,
-			46,
-			49,
-			52,
-			55
+			35,
+			38,
+			41,
+			44,
+			47,
+			50,
+			53,
+			56,
+			59,
+			62
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -29936,16 +30175,16 @@ SkillInfoList_data = {
 		"ABC_FRENZY_SHOT",
 		MaxLv = 10,
 		SpAmount = {
-			35,
+			37,
+			39,
+			41,
+			43,
 			45,
-			55,
-			65,
-			75,
-			85,
-			95,
-			105,
-			115,
-			125
+			47,
+			49,
+			51,
+			53,
+			55
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30100,11 +30339,11 @@ SkillInfoList_data = {
 		"WH_HAWKBOOMERANG",
 		MaxLv = 5,
 		SpAmount = {
-			120,
-			120,
-			120,
-			120,
-			120
+			80,
+			80,
+			80,
+			80,
+			80
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30121,27 +30360,27 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			15,
-			15,
-			15,
-			15,
-			15
+			12,
+			12,
+			12,
+			12,
+			12
 		}
 	},
 	[SKID.WH_GALESTORM] = {
 		"WH_GALESTORM",
 		MaxLv = 10,
 		SpAmount = {
+			64,
+			68,
+			72,
+			76,
 			80,
-			91,
-			102,
-			113,
-			124,
-			135,
-			146,
-			157,
-			168,
-			179
+			84,
+			88,
+			92,
+			96,
+			100
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30167,11 +30406,11 @@ SkillInfoList_data = {
 		"WH_DEEPBLINDTRAP",
 		MaxLv = 5,
 		SpAmount = {
-			50,
-			53,
-			56,
-			59,
-			62
+			68,
+			72,
+			76,
+			80,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30192,11 +30431,11 @@ SkillInfoList_data = {
 		"WH_SOLIDTRAP",
 		MaxLv = 5,
 		SpAmount = {
-			70,
+			68,
+			72,
+			76,
 			80,
-			90,
-			100,
-			110
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30217,11 +30456,11 @@ SkillInfoList_data = {
 		"WH_SWIFTTRAP",
 		MaxLv = 5,
 		SpAmount = {
-			60,
-			62,
-			64,
-			66,
-			68
+			68,
+			72,
+			76,
+			80,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30242,16 +30481,16 @@ SkillInfoList_data = {
 		"WH_CRESCIVE_BOLT",
 		MaxLv = 10,
 		SpAmount = {
+			47,
+			49,
+			51,
+			53,
 			55,
-			60,
-			65,
-			70,
-			75,
-			80,
-			85,
-			90,
-			95,
-			100
+			57,
+			59,
+			61,
+			63,
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30277,11 +30516,11 @@ SkillInfoList_data = {
 		"WH_FLAMETRAP",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			44,
-			48,
-			52,
-			56
+			68,
+			72,
+			76,
+			80,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30404,11 +30643,11 @@ SkillInfoList_data = {
 		"BO_ACIDIFIED_ZONE_WATER",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			52,
-			64,
-			76,
-			88
+			51,
+			54,
+			57,
+			60,
+			63
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30429,11 +30668,11 @@ SkillInfoList_data = {
 		"BO_ACIDIFIED_ZONE_GROUND",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			52,
-			64,
-			76,
-			88
+			51,
+			54,
+			57,
+			60,
+			63
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30458,11 +30697,11 @@ SkillInfoList_data = {
 		"BO_ACIDIFIED_ZONE_WIND",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			52,
-			64,
-			76,
-			88
+			51,
+			54,
+			57,
+			60,
+			63
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30487,11 +30726,11 @@ SkillInfoList_data = {
 		"BO_ACIDIFIED_ZONE_FIRE",
 		MaxLv = 5,
 		SpAmount = {
-			40,
-			52,
-			64,
-			76,
-			88
+			51,
+			54,
+			57,
+			60,
+			63
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30637,6 +30876,70 @@ SkillInfoList_data = {
 			60
 		}
 	},
+	[SKID.BO_EXPLOSIVE_POWDER] = {
+		"BO_EXPLOSIVE_POWDER",
+		MaxLv = 5,
+		SpAmount = {
+			58,
+			62,
+			66,
+			70,
+			74
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1
+		},
+		_NeedSkillList = {
+			{
+				SKID.BO_BIONICS_M,
+				3
+			}
+		}
+	},
+	[SKID.BO_MAYHEMIC_THORNS] = {
+		"BO_MAYHEMIC_THORNS",
+		MaxLv = 10,
+		SpAmount = {
+			68,
+			70,
+			72,
+			74,
+			76,
+			78,
+			80,
+			82,
+			84,
+			86
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9
+		},
+		_NeedSkillList = {
+			{
+				SKID.BO_BIONICS_M,
+				5
+			},
+			{
+				SKID.BO_EXPLOSIVE_POWDER,
+				3
+			}
+		}
+	},
 	[SKID.TR_STAGE_MANNER] = {
 		"TR_STAGE_MANNER",
 		MaxLv = 5,
@@ -30709,11 +31012,11 @@ SkillInfoList_data = {
 		"TR_ROSEBLOSSOM",
 		MaxLv = 5,
 		SpAmount = {
-			105,
-			110,
-			115,
-			120,
-			125
+			70,
+			76,
+			82,
+			88,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30753,11 +31056,11 @@ SkillInfoList_data = {
 		"TR_RHYTHMSHOOTING",
 		MaxLv = 5,
 		SpAmount = {
-			66,
-			72,
-			78,
-			84,
-			90
+			36,
+			40,
+			44,
+			48,
+			52
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30772,11 +31075,11 @@ SkillInfoList_data = {
 		"TR_METALIC_FURY",
 		MaxLv = 5,
 		SpAmount = {
-			120,
-			132,
-			144,
-			156,
-			168
+			70,
+			76,
+			82,
+			88,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -30797,11 +31100,11 @@ SkillInfoList_data = {
 		"TR_SOUNDBLEND",
 		MaxLv = 5,
 		SpAmount = {
-			80,
-			92,
-			104,
-			116,
-			128
+			40,
+			50,
+			60,
+			70,
+			80
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31112,11 +31415,11 @@ SkillInfoList_data = {
 		"EM_DIAMOND_STORM",
 		MaxLv = 5,
 		SpAmount = {
+			80,
 			84,
 			88,
 			92,
-			96,
-			100
+			96
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31137,11 +31440,11 @@ SkillInfoList_data = {
 		"EM_LIGHTNING_LAND",
 		MaxLv = 5,
 		SpAmount = {
-			65,
-			70,
-			80,
-			85,
-			95
+			94,
+			98,
+			102,
+			106,
+			110
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31162,11 +31465,11 @@ SkillInfoList_data = {
 		"EM_VENOM_SWAMP",
 		MaxLv = 5,
 		SpAmount = {
-			84,
-			88,
 			92,
-			96,
-			100
+			97,
+			102,
+			107,
+			112
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31187,11 +31490,11 @@ SkillInfoList_data = {
 		"EM_CONFLAGRATION",
 		MaxLv = 5,
 		SpAmount = {
-			70,
-			80,
-			90,
-			100,
-			110
+			97,
+			101,
+			105,
+			109,
+			113
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31212,11 +31515,11 @@ SkillInfoList_data = {
 		"EM_TERRA_DRIVE",
 		MaxLv = 5,
 		SpAmount = {
+			80,
 			84,
 			88,
 			92,
-			96,
-			100
+			96
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31389,16 +31692,16 @@ SkillInfoList_data = {
 		"EM_ELEMENTAL_BUSTER",
 		MaxLv = 10,
 		SpAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			140,
+			140,
+			140,
+			140,
+			140,
+			140,
+			140,
+			140,
+			140,
+			140
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31440,17 +31743,32 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30,
+			30
 		}
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_FIRE] = {
+		"EM_ELEMENTAL_BUSTER_FIRE"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_WATER] = {
+		"EM_ELEMENTAL_BUSTER_WATER"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_WIND] = {
+		"EM_ELEMENTAL_BUSTER_WIND"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_GROUND] = {
+		"EM_ELEMENTAL_BUSTER_GROUND"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_POISON] = {
+		"EM_ELEMENTAL_BUSTER_POISON"
 	},
 	[SKID.EM_ELEMENTAL_VEIL] = {
 		"EM_ELEMENTAL_VEIL",
@@ -31610,11 +31928,11 @@ SkillInfoList_data = {
 		"NW_ONLY_ONE_BULLET",
 		MaxLv = 5,
 		SpAmount = {
-			30,
-			32,
-			34,
-			36,
-			38
+			39,
+			43,
+			47,
+			51,
+			55
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31668,11 +31986,11 @@ SkillInfoList_data = {
 		"NW_MAGAZINE_FOR_ONE",
 		MaxLv = 5,
 		SpAmount = {
-			30,
-			33,
-			36,
-			39,
-			42
+			42,
+			46,
+			50,
+			54,
+			58
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31726,11 +32044,11 @@ SkillInfoList_data = {
 		"NW_BASIC_GRENADE",
 		MaxLv = 5,
 		SpAmount = {
-			31,
-			37,
-			43,
-			49,
-			55
+			36,
+			42,
+			48,
+			54,
+			60
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31776,11 +32094,11 @@ SkillInfoList_data = {
 		"NW_GRENADES_DROPPING",
 		MaxLv = 5,
 		SpAmount = {
-			54,
 			60,
 			66,
 			72,
-			78
+			78,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31877,16 +32195,16 @@ SkillInfoList_data = {
 		"NW_MISSION_BOMBARD",
 		MaxLv = 10,
 		SpAmount = {
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150,
-			150
+			100,
+			100,
+			100,
+			100,
+			100,
+			100,
+			100,
+			100,
+			100,
+			100
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -31912,16 +32230,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35
 		}
 	},
 	[SKID.SOA_TALISMAN_MASTERY] = {
@@ -32061,11 +32379,11 @@ SkillInfoList_data = {
 		"SOA_SOUL_GATHERING",
 		MaxLv = 5,
 		SpAmount = {
+			70,
+			75,
 			80,
 			85,
-			90,
-			95,
-			100
+			90
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32144,11 +32462,11 @@ SkillInfoList_data = {
 		"SOA_TALISMAN_OF_SOUL_STEALING",
 		MaxLv = 5,
 		SpAmount = {
-			30,
-			30,
-			30,
-			30,
-			30
+			84,
+			84,
+			84,
+			84,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32173,11 +32491,11 @@ SkillInfoList_data = {
 		"SOA_EXORCISM_OF_MALICIOUS_SOUL",
 		MaxLv = 5,
 		SpAmount = {
-			60,
-			75,
+			70,
+			80,
 			90,
-			105,
-			120
+			100,
+			110
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32202,11 +32520,11 @@ SkillInfoList_data = {
 		"SOA_TALISMAN_OF_BLUE_DRAGON",
 		MaxLv = 5,
 		SpAmount = {
-			42,
-			47,
-			52,
-			57,
-			62
+			54,
+			58,
+			62,
+			66,
+			70
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32227,11 +32545,11 @@ SkillInfoList_data = {
 		"SOA_TALISMAN_OF_WHITE_TIGER",
 		MaxLv = 5,
 		SpAmount = {
-			66,
-			69,
-			72,
-			75,
-			78
+			80,
+			83,
+			86,
+			89,
+			92
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32252,11 +32570,11 @@ SkillInfoList_data = {
 		"SOA_TALISMAN_OF_RED_PHOENIX",
 		MaxLv = 5,
 		SpAmount = {
-			65,
-			75,
-			85,
-			95,
-			105
+			72,
+			76,
+			80,
+			84,
+			88
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32277,11 +32595,11 @@ SkillInfoList_data = {
 		"SOA_TALISMAN_OF_BLACK_TORTOISE",
 		MaxLv = 5,
 		SpAmount = {
-			67,
-			79,
-			91,
-			103,
-			115
+			72,
+			77,
+			82,
+			87,
+			92
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32302,11 +32620,11 @@ SkillInfoList_data = {
 		"SOA_TALISMAN_OF_FOUR_BEARING_GOD",
 		MaxLv = 5,
 		SpAmount = {
-			70,
 			86,
-			102,
-			118,
-			134
+			88,
+			90,
+			92,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32339,11 +32657,11 @@ SkillInfoList_data = {
 		"SOA_CIRCLE_OF_DIRECTIONS_AND_ELEMENTALS",
 		MaxLv = 5,
 		SpAmount = {
-			90,
-			105,
 			120,
-			135,
-			150
+			140,
+			160,
+			180,
+			200
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32368,11 +32686,11 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			150,
-			150,
-			150,
-			150,
-			150
+			25,
+			25,
+			25,
+			25,
+			25
 		}
 	},
 	[SKID.SOA_SOUL_OF_HEAVEN_AND_EARTH] = {
@@ -32483,13 +32801,13 @@ SkillInfoList_data = {
 		"SH_CHUL_HO_SONIC_CLAW",
 		MaxLv = 7,
 		SpAmount = {
-			24,
-			27,
-			30,
-			33,
-			36,
-			39,
-			42
+			42,
+			44,
+			46,
+			48,
+			50,
+			52,
+			54
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32512,13 +32830,13 @@ SkillInfoList_data = {
 		"SH_HOWLING_OF_CHUL_HO",
 		MaxLv = 7,
 		SpAmount = {
-			32,
-			37,
-			42,
-			47,
-			52,
-			57,
-			62
+			68,
+			68,
+			68,
+			68,
+			68,
+			68,
+			68
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32545,13 +32863,13 @@ SkillInfoList_data = {
 		"SH_HOGOGONG_STRIKE",
 		MaxLv = 7,
 		SpAmount = {
-			50,
-			53,
-			56,
-			59,
-			62,
-			65,
-			68
+			54,
+			57,
+			60,
+			63,
+			66,
+			69,
+			72
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32763,13 +33081,13 @@ SkillInfoList_data = {
 		"SH_HYUN_ROKS_BREEZE",
 		MaxLv = 7,
 		SpAmount = {
-			56,
-			62,
-			68,
-			74,
-			80,
-			86,
-			92
+			58,
+			64,
+			70,
+			76,
+			82,
+			88,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32796,13 +33114,13 @@ SkillInfoList_data = {
 		"SH_HYUN_ROK_CANNON",
 		MaxLv = 7,
 		SpAmount = {
-			44,
-			47,
-			50,
-			53,
 			56,
 			59,
-			62
+			62,
+			65,
+			68,
+			71,
+			74
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32955,16 +33273,16 @@ SkillInfoList_data = {
 		"HN_DOUBLEBOWLINGBASH",
 		MaxLv = 10,
 		SpAmount = {
-			54,
+			38,
+			41,
+			44,
+			47,
+			50,
+			53,
 			56,
-			58,
-			60,
+			59,
 			62,
-			64,
-			66,
-			68,
-			70,
-			72
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -32990,16 +33308,16 @@ SkillInfoList_data = {
 		"HN_MEGA_SONIC_BLOW",
 		MaxLv = 10,
 		SpAmount = {
-			27,
-			29,
-			31,
-			33,
-			35,
-			37,
-			39,
-			41,
-			43,
-			45
+			42,
+			44,
+			46,
+			48,
+			50,
+			52,
+			54,
+			56,
+			58,
+			60
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33025,6 +33343,7 @@ SkillInfoList_data = {
 		"HN_SHIELD_CHAIN_RUSH",
 		MaxLv = 10,
 		SpAmount = {
+			35,
 			38,
 			41,
 			44,
@@ -33033,8 +33352,7 @@ SkillInfoList_data = {
 			53,
 			56,
 			59,
-			62,
-			65
+			62
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33042,12 +33360,12 @@ SkillInfoList_data = {
 			7,
 			7,
 			7,
-			9,
-			9,
-			9,
-			9,
-			11,
-			11
+			7,
+			7,
+			7,
+			7,
+			7,
+			7
 		},
 		_NeedSkillList = {
 			{
@@ -33060,16 +33378,16 @@ SkillInfoList_data = {
 		"HN_SPIRAL_PIERCE_MAX",
 		MaxLv = 10,
 		SpAmount = {
-			20,
-			23,
-			26,
-			29,
-			32,
-			35,
-			38,
+			37,
+			39,
 			41,
-			44,
-			47
+			43,
+			45,
+			47,
+			49,
+			51,
+			53,
+			55
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33095,16 +33413,16 @@ SkillInfoList_data = {
 		"HN_METEOR_STORM_BUSTER",
 		MaxLv = 10,
 		SpAmount = {
-			55,
-			58,
-			61,
-			64,
-			67,
-			70,
-			73,
-			76,
-			79,
-			82
+			74,
+			78,
+			82,
+			86,
+			90,
+			94,
+			98,
+			102,
+			106,
+			110
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33130,16 +33448,16 @@ SkillInfoList_data = {
 		"HN_JUPITEL_THUNDER_STORM",
 		MaxLv = 10,
 		SpAmount = {
-			50,
-			52,
-			54,
-			56,
-			58,
-			60,
-			62,
-			64,
-			66,
-			68
+			75,
+			80,
+			85,
+			90,
+			95,
+			100,
+			105,
+			110,
+			115,
+			120
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33165,16 +33483,16 @@ SkillInfoList_data = {
 		"HN_JACK_FROST_NOVA",
 		MaxLv = 10,
 		SpAmount = {
-			58,
-			61,
-			64,
-			67,
-			70,
-			73,
-			76,
-			79,
-			82,
-			85
+			68,
+			71,
+			74,
+			77,
+			80,
+			83,
+			86,
+			89,
+			92,
+			95
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33200,16 +33518,16 @@ SkillInfoList_data = {
 		"HN_HELLS_DRIVE",
 		MaxLv = 10,
 		SpAmount = {
-			43,
-			46,
-			49,
-			52,
-			55,
-			58,
-			61,
-			64,
-			67,
-			70
+			71,
+			74,
+			77,
+			80,
+			83,
+			86,
+			89,
+			92,
+			95,
+			98
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33235,16 +33553,16 @@ SkillInfoList_data = {
 		"HN_GROUND_GRAVITATION",
 		MaxLv = 10,
 		SpAmount = {
+			55,
+			60,
+			65,
 			70,
-			72,
-			74,
-			76,
-			78,
+			75,
 			80,
-			82,
-			84,
-			86,
-			88
+			85,
+			90,
+			95,
+			100
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33270,16 +33588,16 @@ SkillInfoList_data = {
 		"HN_NAPALM_VULCAN_STRIKE",
 		MaxLv = 10,
 		SpAmount = {
-			40,
-			42,
-			44,
-			46,
 			48,
-			50,
-			52,
+			51,
 			54,
-			56,
-			58
+			57,
+			60,
+			63,
+			66,
+			69,
+			72,
+			75
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33423,11 +33741,11 @@ SkillInfoList_data = {
 		"SKE_RISING_SUN",
 		MaxLv = 5,
 		SpAmount = {
-			25,
-			25,
-			25,
-			25,
-			25
+			60,
+			60,
+			60,
+			60,
+			60
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33448,11 +33766,11 @@ SkillInfoList_data = {
 		"SKE_NOON_BLAST",
 		MaxLv = 5,
 		SpAmount = {
-			24,
-			28,
-			32,
-			36,
-			40
+			49,
+			53,
+			57,
+			61,
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33477,11 +33795,11 @@ SkillInfoList_data = {
 		"SKE_SUNSET_BLAST",
 		MaxLv = 5,
 		SpAmount = {
-			28,
-			30,
-			32,
-			34,
-			36
+			46,
+			50,
+			54,
+			58,
+			62
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33506,11 +33824,11 @@ SkillInfoList_data = {
 		"SKE_RISING_MOON",
 		MaxLv = 5,
 		SpAmount = {
-			35,
-			35,
-			35,
-			35,
-			35
+			64,
+			64,
+			64,
+			64,
+			64
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33531,11 +33849,11 @@ SkillInfoList_data = {
 		"SKE_MIDNIGHT_KICK",
 		MaxLv = 5,
 		SpAmount = {
-			36,
-			40,
-			44,
-			48,
-			52
+			60,
+			62,
+			64,
+			66,
+			68
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33560,11 +33878,11 @@ SkillInfoList_data = {
 		"SKE_DAWN_BREAK",
 		MaxLv = 5,
 		SpAmount = {
-			34,
-			37,
-			40,
-			43,
-			46
+			56,
+			58,
+			60,
+			62,
+			64
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33589,11 +33907,11 @@ SkillInfoList_data = {
 		"SKE_TWINKLING_GALAXY",
 		MaxLv = 5,
 		SpAmount = {
-			30,
-			30,
-			30,
-			30,
-			30
+			84,
+			84,
+			84,
+			84,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33614,11 +33932,11 @@ SkillInfoList_data = {
 		"SKE_STAR_BURST",
 		MaxLv = 5,
 		SpAmount = {
-			41,
-			45,
-			49,
-			53,
-			57
+			54,
+			56,
+			58,
+			60,
+			62
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33643,11 +33961,11 @@ SkillInfoList_data = {
 		"SKE_STAR_CANNON",
 		MaxLv = 5,
 		SpAmount = {
-			29,
-			33,
-			37,
-			41,
-			45
+			51,
+			54,
+			57,
+			60,
+			63
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33672,16 +33990,16 @@ SkillInfoList_data = {
 		"SKE_ALL_IN_THE_SKY",
 		MaxLv = 10,
 		SpAmount = {
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100
+			85,
+			85,
+			85,
+			85,
+			85,
+			85,
+			85,
+			85,
+			85,
+			85
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33711,16 +34029,16 @@ SkillInfoList_data = {
 			}
 		},
 		ApAmount = {
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100,
-			100
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35,
+			35
 		}
 	},
 	[SKID.SKE_ENCHANTING_SKY] = {
@@ -33838,16 +34156,16 @@ SkillInfoList_data = {
 		"SS_KAGEGARI",
 		MaxLv = 10,
 		SpAmount = {
-			30,
-			32,
-			34,
+			33,
 			36,
-			38,
-			40,
+			39,
 			42,
-			44,
-			46,
-			48
+			45,
+			48,
+			51,
+			54,
+			57,
+			60
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33873,16 +34191,16 @@ SkillInfoList_data = {
 		"SS_KAGENOMAI",
 		MaxLv = 10,
 		SpAmount = {
-			30,
-			33,
-			36,
-			39,
-			42,
-			45,
-			48,
-			51,
-			49,
-			52
+			38,
+			41,
+			44,
+			47,
+			50,
+			53,
+			56,
+			59,
+			62,
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33943,16 +34261,16 @@ SkillInfoList_data = {
 		"SS_FUUMASHOUAKU",
 		MaxLv = 10,
 		SpAmount = {
-			38,
-			40,
-			42,
-			44,
-			46,
 			48,
-			50,
 			52,
-			54,
-			56
+			56,
+			60,
+			64,
+			68,
+			72,
+			76,
+			80,
+			84
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -33978,16 +34296,16 @@ SkillInfoList_data = {
 		"SS_FUUMAKOUCHIKU",
 		MaxLv = 10,
 		SpAmount = {
-			34,
+			29,
+			33,
 			37,
-			40,
-			43,
-			46,
+			41,
+			45,
 			49,
-			52,
-			55,
-			58,
-			61
+			53,
+			57,
+			61,
+			65
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34013,16 +34331,16 @@ SkillInfoList_data = {
 		"SS_KUNAIWAIKYOKU",
 		MaxLv = 10,
 		SpAmount = {
-			28,
-			30,
-			32,
-			34,
 			36,
 			38,
 			40,
 			42,
 			44,
-			46
+			46,
+			48,
+			50,
+			52,
+			54
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34048,11 +34366,11 @@ SkillInfoList_data = {
 		"SS_KUNAIKAITEN",
 		MaxLv = 5,
 		SpAmount = {
-			55,
-			55,
-			55,
-			55,
-			55
+			44,
+			52,
+			60,
+			68,
+			76
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34073,16 +34391,16 @@ SkillInfoList_data = {
 		"SS_KUNAIKUSSETSU",
 		MaxLv = 10,
 		SpAmount = {
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50
+			49,
+			52,
+			55,
+			58,
+			61,
+			64,
+			67,
+			70,
+			73,
+			76
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34108,16 +34426,16 @@ SkillInfoList_data = {
 		"SS_SEKIENHOU",
 		MaxLv = 10,
 		SpAmount = {
-			44,
-			46,
-			48,
-			50,
-			52,
-			54,
-			56,
-			58,
-			60,
-			62
+			65,
+			68,
+			71,
+			74,
+			77,
+			80,
+			83,
+			86,
+			89,
+			92
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34137,16 +34455,16 @@ SkillInfoList_data = {
 		"SS_REIKETSUHOU",
 		MaxLv = 10,
 		SpAmount = {
-			34,
-			37,
-			40,
-			43,
-			46,
-			49,
 			52,
-			55,
-			58,
-			61
+			56,
+			60,
+			64,
+			68,
+			72,
+			76,
+			80,
+			84,
+			88
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34166,16 +34484,16 @@ SkillInfoList_data = {
 		"SS_RAIDENPOU",
 		MaxLv = 10,
 		SpAmount = {
-			44,
-			46,
-			48,
-			50,
+			47,
 			52,
-			54,
-			56,
-			58,
-			60,
-			62
+			57,
+			62,
+			67,
+			72,
+			77,
+			82,
+			87,
+			92
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34195,16 +34513,16 @@ SkillInfoList_data = {
 		"SS_KINRYUUHOU",
 		MaxLv = 10,
 		SpAmount = {
-			30,
-			32,
-			34,
-			36,
-			38,
-			40,
-			42,
-			44,
-			46,
-			48
+			52,
+			56,
+			60,
+			64,
+			68,
+			72,
+			76,
+			80,
+			84,
+			88
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34225,15 +34543,15 @@ SkillInfoList_data = {
 		MaxLv = 10,
 		SpAmount = {
 			40,
-			42,
-			44,
 			46,
-			48,
-			50,
 			52,
-			54,
-			56,
-			58
+			58,
+			64,
+			70,
+			76,
+			82,
+			88,
+			94
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -34257,11 +34575,15 @@ SkillInfoList_data = {
 		AttackRange = {1},
 		_NeedSkillList = {
 			{
+				SKID.SS_SHINKIROU,
+				1
+			},
+			{
 				SKID.SS_KAGEGISSEN,
 				7
 			}
 		},
-		ApAmount = {30}
+		ApAmount = {20}
 	},
 	[SKID.SS_HITOUAKUMU] = {
 		"SS_HITOUAKUMU",
@@ -34270,6 +34592,10 @@ SkillInfoList_data = {
 		bSeperateLv = false,
 		AttackRange = {1},
 		_NeedSkillList = {
+			{
+				SKID.SS_SHINKIROU,
+				1
+			},
 			{
 				SKID.SS_KUNAIWAIKYOKU,
 				5
@@ -34283,7 +34609,7 @@ SkillInfoList_data = {
 				5
 			}
 		},
-		ApAmount = {30}
+		ApAmount = {20}
 	},
 	[SKID.SS_ANKOKURYUUAKUMU] = {
 		"SS_ANKOKURYUUAKUMU",
@@ -34317,7 +34643,7 @@ SkillInfoList_data = {
 				5
 			}
 		},
-		ApAmount = {30}
+		ApAmount = {20}
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT_GUN_GATLING] = {
 		"NW_THE_VIGILANTE_AT_NIGHT_GUN_GATLING",

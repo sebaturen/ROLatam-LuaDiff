@@ -1425,6 +1425,29 @@ tbl_string = {
 			}
 		}
 	},
+	[4101] = {
+		Title = "Episodios",
+		Page = {
+			[1] = {
+				[1] = "Una colección de misiones y contenido que sigue las principales líneas argumentales del juego.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episodio 13<INFO>4102</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»Episodio 14<INFO>4103</INFO></TIPBOX>",
+				[5] = "<TIPBOX>»Episodio 15<INFO>4104</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Episodio 16<INFO>4105</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Episodio 17<INFO>4106</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Episodio 18<INFO>4216</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Episodio 19<INFO>4256</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Episodio 20<INFO>4327</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»Episodio 21<INFO>4366</INFO></TIPBOX>",
+				[12] = "",
+				[13] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[14] = "",
+				[15] = "<TIPBOX>»Ver Misiones<INFO>4100</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
 	[4104] = {
 		Title = "Episodio 15#ep",
 		Page = {
@@ -1436,6 +1459,46 @@ tbl_string = {
 				[5] = "",
 				[6] = "<TIPBOX>» Ver lista de Episodios<INFO>4101</INFO></TIPBOX>",
 				[7] = "<TIPBOX>» Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4105] = {
+		Title = "Episodio 16",
+		Page = {
+			[1] = {
+				[1] = "El Palacio de Prontera invita a los aventureros que participaron en la expedición al Nuevo Mundo a un banquete en su honor. Asiste como invitado de las Siete Familias Reales de Rune-Midgarts y disfruta del banquete.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episodio 16.1 Banquete para Héroes<INFO>8118</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»EP 16.2 Terra Gloria<INFO>8143</INFO></TIPBOX>",
+				[5] = "",
+				[6] = "<TIPBOX>»Ep16.1 Recompensas de Símbolo de Honor<INFO>4108</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep16.2 Recompensas de Símbolo de Honor de Schwartz<INFO>4109</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ep16.1 Serie Noblesse<INFO>4112</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ep16.2 Serie Imperial<INFO>4113</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4106] = {
+		Title = "Episodio 17",
+		Page = {
+			[1] = {
+				[1] = "Mientras buscan por Schwarzwald un laboratorio secreto, la Rebelión y las Alas Secretas descubren nuevas instalaciones de investigación ocultas. Ha llegado el momento de descubrir la verdad escondida junto con la Rebelión.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 17.1 Ilusión<INFO>7055</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX>",
+				[5] = "",
+				[6] = "<TIPBOX>»Ep17.1 Series Ilusión y OS<INFO>4110</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep17.2 Serie Automática<INFO>4111</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ep17.1 Serie Grace<INFO>4114</INFO></TIPBOX>",
+				[9] = "",
+				[10] = "Las zonas relacionadas con el Episodio 17 pueden visitarse fácilmente a través del Mago de la Corte Nillem, que está de visita en 'Gato en una Bala' de Einbroch.",
+				[11] = "<NAVI>[Mago de la Corte Nillem]<INFO>pub_cat,86,105,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	},
@@ -1550,6 +1613,41 @@ tbl_string = {
 				[38] = "<TIPBOX>>Aparece en Ep17.1, Ilusión<INFO>7055</INFO></TIPBOX>",
 				[39] = "<TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>",
 				[40] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4111] = {
+		Title = "Ep17.2 Serie Automática",
+		Page = {
+			[1] = {
+				[1] = "Puedes cambiar <ITEM>[Ticket de Varmundt]<INFO>1000103</INFO></ITEM> y <ITEM>[Cor Core]<INFO>1000104</INFO></ITEM>, obtenidos durante el episodio, por varios objetos útiles en la posada de la Mansión de Varmundt.",
+				[2] = "",
+				[3] = "^663399§Lugar de Intercambio^000000",
+				[4] = "»<NAVI>[Yeoncheong]<INFO>ba_in01,87,383,0,101,0</INFO></NAVI> Intercambio de Armadura Automática",
+				[5] = "»<NAVI>[Yecheong]<INFO>ba_in01,87,380,0,101,0</INFO></NAVI> Intercambio de Módulos y Dispositivos de Modificación",
+				[6] = "»<NAVI>[Cubrain]<INFO>ba_in01,87,376,0,101,0</INFO></NAVI> Tienda de Cubos de Mejora",
+				[7] = "»<NAVI>[Spiera]<INFO>ba_in01,87,373,0,101,0</INFO></NAVI> Intercambio de Módulos Automáticos",
+				[8] = "",
+				[9] = "^663399§Serie Automática^000000",
+				[10] = "» Requiere armadura Ilusión refinada a +9.",
+				[11] = "<ITEM>[Armadura Automática Tipo A]<INFO>450127</INFO></ITEM>",
+				[12] = "<ITEM>[Armadura Automática Tipo B]<INFO>450128</INFO></ITEM>",
+				[13] = "<ITEM>[Ala de Motor Automática Tipo A]<INFO>480020</INFO></ITEM>",
+				[14] = "<ITEM>[Ala de Motor Automática Tipo B]<INFO>480021</INFO></ITEM>",
+				[15] = "<ITEM>[Pierna Automática Tipo A]<INFO>470022</INFO></ITEM>",
+				[16] = "<ITEM>[Pierna Automática Tipo B]<INFO>470023</INFO></ITEM>",
+				[17] = "<ITEM>[Booster Automático R]<INFO>490024</INFO></ITEM>",
+				[18] = "<ITEM>[Booster Automático L]<INFO>490025</INFO></ITEM>",
+				[19] = "<ITEM>[Chip de Batalla Automático R]<INFO>490026</INFO></ITEM>",
+				[20] = "<ITEM>[Chip de Batalla Automático L]<INFO>490027</INFO></ITEM>",
+				[21] = "",
+				[22] = "^663399§Otros Objetos^000000",
+				[23] = "<ITEM>[Cubo de Mejora Ilusión]<INFO>100251</INFO></ITEM>",
+				[24] = "<ITEM>[Cubo de Mejora Automático]<INFO>100252</INFO></ITEM>",
+				[25] = "",
+				[26] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX>",
+				[27] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[28] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	},
@@ -2150,6 +2248,2280 @@ tbl_string = {
 			}
 		}
 	},
+	[4216] = {
+		Title = "Episodio 18",
+		Page = {
+			[1] = {
+				[1] = "Según la información analizada en la Mansión de Varmundt, algunos miembros de Ilusión parecen estar llevando a cabo una operación en Rachel. Se necesita un aventurero que investigue por qué están atacando Rachel.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "<TIPBOX>»Ep18 Serie Lobo Gris<INFO>4218</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Ep18 Serie Adulter Fides<INFO>4219</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep18 Serie Vivatus Fides<INFO>4220</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4217] = {
+		Title = "Episodio 18 Dirección de la Oración",
+		Page = {
+			[1] = {
+				[1] = "La Encargada de Aeronaves Ellie descubre, a partir de la información analizada hasta ahora, que Ilusión también está activa en Rachel. Como la Rebelión debe resolver asuntos relacionados con la Mansión de Varmundt y la República, el aventurero viaja a Rachel en su lugar, pero allí se encuentra con desconfianza y agitación.",
+				[2] = "",
+				[3] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "",
+				[6] = "»Misión Inicial",
+				[7] = "<TIPBOX>Q Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "»Misiones Principales",
+				[10] = "<TIPBOX>Q Petición de Niren<INFO>4222</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Niños de Gris<INFO>4223</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Requisito para el Gran Consejo<INFO>4224</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Gran Consejo del Bosque del Lobo Gris<INFO>4225</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Origen de las Armas<INFO>4226</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Rebeldes<INFO>4227</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Lobo con Piel de Oveja<INFO>4228</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Cuando Hace Falta Dialogar<INFO>4229</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Investigando la Villa del Sumo Sacerdote<INFO>4230</INFO></TIPBOX>",
+				[19] = "",
+				[20] = "»Misiones Secundarias",
+				[21] = "<TIPBOX>Q Administrador de la Aldea del Lobo Gris<INFO>4232</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Q No Puedo Dormir<INFO>4233</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Reúne las Historias<INFO>4234</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Este No Es el Lugar<INFO>4235</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q El Pan Nuestro de Cada Día<INFO>4236</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Reliquia para Purificar el Agua<INFO>4237</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Migración Tardía<INFO>4238</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q ¿Dónde Está Mi Hogar?<INFO>4239</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q No Hay Bestias Malas<INFO>4240</INFO></TIPBOX>",
+				[30] = "<TIPBOX>Q Laberinto de Oz y el Vendedor Ambulante<INFO>4241</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Percibir el Ambiente<INFO>4242</INFO></TIPBOX>",
+				[32] = "<TIPBOX>Q Hasta los Niños lo Saben<INFO>4243</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Q El Precio del Trabajo<INFO>4244</INFO></TIPBOX>",
+				[34] = "<TIPBOX>Q Flor del Bosque del Lobo Gris<INFO>4245</INFO></TIPBOX>",
+				[35] = "<TIPBOX>Q Trabajo de la Flower Room<INFO>4246</INFO></TIPBOX>",
+				[36] = "<TIPBOX>Q Haz Más Seguro el Bosque del Lobo Gris<INFO>4247</INFO></TIPBOX>",
+				[37] = "",
+				[38] = "<TIPBOX>»Ep18 Serie Lobo Gris<INFO>4218</INFO></TIPBOX>",
+				[39] = "<TIPBOX>»Ep18 Serie Adulter Fides<INFO>4219</INFO></TIPBOX>",
+				[40] = "<TIPBOX>»Ep18 Serie Vivatus Fides<INFO>4220</INFO></TIPBOX>",
+				[41] = "",
+				[42] = "<TIPBOX>»Episodio 18<INFO>4216</INFO></TIPBOX>",
+				[43] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
+				[44] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4218] = {
+		Title = "Ep18 Serie Lobo Gris",
+		Page = {
+			[1] = {
+				[1] = "Puedes cambiar <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>, obtenido durante el episodio, por varios equipos útiles en la Aldea del Lobo Gris.",
+				[2] = "",
+				[3] = "^663399§Lugar de Intercambio^000000",
+				[4] = "»<NAVI>[Emmett]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Serie Lobo Gris^000000",
+				[7] = "<ITEM>[Traje Lobo Gris]<INFO>450177</INFO></ITEM>",
+				[8] = "<ITEM>[Túnica Lobo Gris]<INFO>450178</INFO></ITEM>",
+				[9] = "<ITEM>[Manto Lobo Gris]<INFO>480091</INFO></ITEM>",
+				[10] = "<ITEM>[Bufanda Lobo Gris]<INFO>480090</INFO></ITEM>",
+				[11] = "<ITEM>[Botas Lobo Gris]<INFO>470087</INFO></ITEM>",
+				[12] = "<ITEM>[Zapatos Lobo Gris]<INFO>470088</INFO></ITEM>",
+				[13] = "<ITEM>[Colgante Lobo Gris]<INFO>490106</INFO></ITEM>",
+				[14] = "<ITEM>[Anillo Lobo Gris]<INFO>490107</INFO></ITEM>",
+				[15] = "<ITEM>[Pendiente Lobo Gris]<INFO>490108</INFO></ITEM>",
+				[16] = "<ITEM>[Collar Lobo Gris]<INFO>490109</INFO></ITEM>",
+				[17] = "",
+				[18] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[20] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4219] = {
+		Title = "Ep18 Serie Adulter Fides",
+		Page = {
+			[1] = {
+				[1] = "Estas armas pueden obtenerse en la Mazmorra Memorial Villa del Engaño, accesible después de completar el episodio.",
+				[2] = "",
+				[3] = "^663399§Serie Adulter Fides^000000",
+				[4] = "Pueden obtenerse en la dificultad normal de la Mazmorra Memorial Villa del Engaño.",
+				[5] = "<ITEM>[Espada de Dos Manos]<INFO>600017</INFO></ITEM>",
+				[6] = "<ITEM>[Lanza]<INFO>630012</INFO></ITEM>",
+				[7] = "<ITEM>[Espada Guardiana]<INFO>500025</INFO></ITEM>",
+				[8] = "<ITEM>[Lanza Guardiana]<INFO>530013</INFO></ITEM>",
+				[9] = "<ITEM>[Hacha]<INFO>520008</INFO></ITEM>",
+				[10] = "<ITEM>[Maza]<INFO>590021</INFO></ITEM>",
+				[11] = "<ITEM>[Estoque]<INFO>500026</INFO></ITEM>",
+				[12] = "<ITEM>[Hall]<INFO>590022</INFO></ITEM>",
+				[13] = "<ITEM>[Chakram]<INFO>610020</INFO></ITEM>",
+				[14] = "<ITEM>[Katar]<INFO>610021</INFO></ITEM>",
+				[15] = "<ITEM>[Daga]<INFO>510032</INFO></ITEM>",
+				[16] = "<ITEM>[Ballesta]<INFO>700030</INFO></ITEM>",
+				[17] = "<ITEM>[Bastón de Dos Manos]<INFO>640019</INFO></ITEM>",
+				[18] = "<ITEM>[Vara]<INFO>640020</INFO></ITEM>",
+				[19] = "<ITEM>[Libro Mágico]<INFO>540019</INFO></ITEM>",
+				[20] = "<ITEM>[Libro de Veneno]<INFO>540020</INFO></ITEM>",
+				[21] = "<ITEM>[Biblia]<INFO>540021</INFO></ITEM>",
+				[22] = "<ITEM>[Varita]<INFO>550024</INFO></ITEM>",
+				[23] = "<ITEM>[Puño]<INFO>560018</INFO></ITEM>",
+				[24] = "<ITEM>[Garra]<INFO>560019</INFO></ITEM>",
+				[25] = "<ITEM>[Balista]<INFO>700031</INFO></ITEM>",
+				[26] = "<ITEM>[Arco de Puntería]<INFO>700032</INFO></ITEM>",
+				[27] = "<ITEM>[Violín]<INFO>570017</INFO></ITEM>",
+				[28] = "<ITEM>[Cuerda de Cadena]<INFO>580017</INFO></ITEM>",
+				[29] = "<ITEM>[Arpa]<INFO>570018</INFO></ITEM>",
+				[30] = "<ITEM>[Cinta]<INFO>580018</INFO></ITEM>",
+				[31] = "<ITEM>[Shuriken Fuuma]<INFO>650008</INFO></ITEM>",
+				[32] = "<ITEM>[Shuriken Fuuma Cruzado]<INFO>650009</INFO></ITEM>",
+				[33] = "<ITEM>[Revólver]<INFO>800003</INFO></ITEM>",
+				[34] = "<ITEM>[Escopeta]<INFO>820002</INFO></ITEM>",
+				[35] = "<ITEM>[Rifle]<INFO>810002</INFO></ITEM>",
+				[36] = "<ITEM>[Ametralladora Gatling]<INFO>830003</INFO></ITEM>",
+				[37] = "<ITEM>[Lanzador]<INFO>840002</INFO></ITEM>",
+				[38] = "<ITEM>[Libro Lunar]<INFO>540022</INFO></ITEM>",
+				[39] = "<ITEM>[Libro de Polvo Estelar]<INFO>540023</INFO></ITEM>",
+				[40] = "<ITEM>[Bastón del Alma]<INFO>550025</INFO></ITEM>",
+				[41] = "<ITEM>[Varita Oscura]<INFO>550026</INFO></ITEM>",
+				[42] = "<ITEM>[Varita Cola de Zorro]<INFO>550027</INFO></ITEM>",
+				[43] = "<ITEM>[Modelo Cola de Zorro]<INFO>550028</INFO></ITEM>",
+				[44] = "",
+				[45] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[46] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[47] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4220] = {
+		Title = "Ep18 Serie Vivatus Fides",
+		Page = {
+			[1] = {
+				[1] = "Estas armas pueden obtenerse en la Mazmorra Memorial Villa del Engaño, accesible después de completar el episodio. Pueden conseguirse en dificultad avanzada o fabricarse purificando armas Adulter Fides. El ritual de purificación requiere un arma Adulter Fides refinada a +9.",
+				[2] = "",
+				[3] = "^663399§Lugar del Ritual de Purificación^000000",
+				[4] = "»<NAVI>[Bamdat]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Serie Vivatus Fides^000000",
+				[7] = "<ITEM>[Espada de Dos Manos]<INFO>600018</INFO></ITEM>",
+				[8] = "<ITEM>[Lanza]<INFO>630013</INFO></ITEM>",
+				[9] = "<ITEM>[Espada Guardiana]<INFO>500027</INFO></ITEM>",
+				[10] = "<ITEM>[Lanza Guardiana]<INFO>530014</INFO></ITEM>",
+				[11] = "<ITEM>[Hacha]<INFO>520009</INFO></ITEM>",
+				[12] = "<ITEM>[Maza]<INFO>590023</INFO></ITEM>",
+				[13] = "<ITEM>[Estoque]<INFO>500028</INFO></ITEM>",
+				[14] = "<ITEM>[Hall]<INFO>590024</INFO></ITEM>",
+				[15] = "<ITEM>[Chakram]<INFO>610022</INFO></ITEM>",
+				[16] = "<ITEM>[Katar]<INFO>610023</INFO></ITEM>",
+				[17] = "<ITEM>[Daga]<INFO>510033</INFO></ITEM>",
+				[18] = "<ITEM>[Ballesta]<INFO>700033</INFO></ITEM>",
+				[19] = "<ITEM>[Bastón de Dos Manos]<INFO>640021</INFO></ITEM>",
+				[20] = "<ITEM>[Vara]<INFO>640022</INFO></ITEM>",
+				[21] = "<ITEM>[Libro Mágico]<INFO>540024</INFO></ITEM>",
+				[22] = "<ITEM>[Libro de Veneno]<INFO>540025</INFO></ITEM>",
+				[23] = "<ITEM>[Biblia]<INFO>540026</INFO></ITEM>",
+				[24] = "<ITEM>[Varita]<INFO>550029</INFO></ITEM>",
+				[25] = "<ITEM>[Puño]<INFO>560020</INFO></ITEM>",
+				[26] = "<ITEM>[Garra]<INFO>560021</INFO></ITEM>",
+				[27] = "<ITEM>[Balista]<INFO>700034</INFO></ITEM>",
+				[28] = "<ITEM>[Arco de Puntería]<INFO>700035</INFO></ITEM>",
+				[29] = "<ITEM>[Violín]<INFO>570019</INFO></ITEM>",
+				[30] = "<ITEM>[Cuerda de Cadena]<INFO>580019</INFO></ITEM>",
+				[31] = "<ITEM>[Arpa]<INFO>570020</INFO></ITEM>",
+				[32] = "<ITEM>[Cinta]<INFO>580020</INFO></ITEM>",
+				[33] = "",
+				[34] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[35] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[36] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4221] = {
+		Title = "Q Hacia el Reino Sagrado (170)",
+		Page = {
+			[1] = {
+				[1] = "Las muñecas automáticas de la Mansión de Varmundt, que decían que el tiempo estaba de nuestro lado, realmente encontraron una pista.",
+				[2] = "¿Dónde están ahora los fugitivos y qué están haciendo?",
+				[3] = "",
+				[4] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 170 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Ellie Inteligente]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4222] = {
+		Title = "Q Petición de Niren (170)",
+		Page = {
+			[1] = {
+				[1] = "Tras obtener información sobre los intrusos que entraron en el templo, Niren parece tener una petición para el aventurero, para poder concentrarse en proteger el templo.",
+				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Agente de Seguridad Dent]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4223] = {
+		Title = "Q Niños de Gris (170)",
+		Page = {
+			[1] = {
+				[1] = "Maram, el hijo de Niren, parece tener algo urgente que resolver.",
+				[2] = "¿Hay algo en lo que el aventurero pueda ayudar?",
+				[3] = "<TIPBOX>»Petición de Niren<INFO>4222</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4224] = {
+		Title = "Q Requisito para el Gran Consejo (170)",
+		Page = {
+			[1] = {
+				[1] = "Para asistir al gran consejo de la Aldea del Lobo Gris, primero debes ser aceptado como miembro de la aldea. Completa tareas por la aldea y, con el tiempo, obtendrás el derecho a participar en el consejo.",
+				[2] = "»Completa 10 Misiones Generales en la Aldea del Lobo Gris",
+				[3] = "<TIPBOX>»Administrador de la Aldea del Lobo Gris<INFO>4232</INFO></TIPBOX>",
+				[4] = "<TIPBOX>»No Puedo Dormir<INFO>4233</INFO></TIPBOX>",
+				[5] = "<TIPBOX>»Reúne las Historias<INFO>4234</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Este No Es el Lugar<INFO>4235</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»El Pan Nuestro de Cada Día<INFO>4236</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Reliquia para Purificar el Agua<INFO>4237</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Migración Tardía<INFO>4238</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»¿Dónde Está Mi Hogar?<INFO>4239</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»No Hay Bestias Malas<INFO>4240</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Laberinto de Oz y el Vendedor Ambulante<INFO>4241</INFO></TIPBOX>",
+				[13] = "^663399§Nivel 170 o superior^000000",
+				[14] = "",
+				[15] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4225] = {
+		Title = "Q Gran Consejo del Bosque del Lobo Gris (170)",
+		Page = {
+			[1] = {
+				[1] = "Después de crear lazos con la gente del Bosque del Lobo Gris y ser aceptado como uno de ellos, el aventurero ve reconocidos sus esfuerzos y es invitado al gran consejo que decidirá el futuro del bosque.",
+				[2] = "El gran consejo por fin ha comenzado. ¿Cuál será el resultado de la reunión?",
+				[3] = "»Avanza en \"Requisito para el Gran Consejo\"",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Chico de la Aldea]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4226] = {
+		Title = "Q Origen de las Armas (170)",
+		Page = {
+			[1] = {
+				[1] = "Tras un intenso debate, el gran consejo llega a su fin. Entre la multitud que se dispersa, Miriam nota algo extraño.",
+				[2] = "Algunos habitantes están armados de forma excesiva. ¿De dónde vienen esas armas y con qué intención se están armando?",
+				[3] = "<TIPBOX>»Gran Consejo del Bosque del Lobo Gris<INFO>4225</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4227] = {
+		Title = "Q Rebeldes (170)",
+		Page = {
+			[1] = {
+				[1] = "Mientras Suad sigue pensando en las armas que aparecieron en la Aldea del Lobo Gris y en su origen, llega la noticia de que un miembro de la aldea atacó una caravana mercante.",
+				[2] = "<TIPBOX>»Origen de las Armas<INFO>4226</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4228] = {
+		Title = "Q Lobo con Piel de Oveja (170)",
+		Page = {
+			[1] = {
+				[1] = "Por fin, la gente de la Aldea del Lobo Gris se ha reunido frente al templo.",
+				[2] = "¿Lograrán hacer oír su voz ante la gente de Rachel?",
+				[3] = "<TIPBOX>»Rebeldes<INFO>4227</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Persona Común]<INFO>rachel,169,245,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4229] = {
+		Title = "Q Cuando Hace Falta Dialogar (170)",
+		Page = {
+			[1] = {
+				[1] = "Conmocionados por la traición de un compañero de confianza, Suad y los sacerdotes quedan en shock. Sin embargo, pronto recuperan la calma y deciden restablecer el orden en la aldea y el templo.",
+				[2] = "Miriam parte hacia el lugar al que fue su padre para investigar lo sucedido.",
+				[3] = "<TIPBOX>»Lobo con Piel de Oveja<INFO>4228</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Niren]<INFO>rachel,116,200,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4230] = {
+		Title = "Q Investigando la Villa del Sumo Sacerdote (170)",
+		Page = {
+			[1] = {
+				[1] = "Parece que Ilusión, aliada con el Sumo Sacerdote Amal, está detrás de todo. ¿Podrás descubrir qué intentan hacer en la villa del Sumo Sacerdote y por qué provocaron el caos en Rachel?",
+				[2] = "<TIPBOX>»Cuando Hace Falta Dialogar<INFO>4229</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Punto de Encuentro]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4232] = {
+		Title = "Q Administrador de la Aldea del Lobo Gris (170)",
+		Page = {
+			[1] = {
+				[1] = "Hazar, el administrador principal de los comerciantes de la Aldea del Lobo Gris, quiere entrenar a su discípulo Kamil, pero las cosas no parecen salir bien desde el principio.",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hazar]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4233] = {
+		Title = "Q No Puedo Dormir (170)",
+		Page = {
+			[1] = {
+				[1] = "Un niño del Bosque del Lobo Gris parece agotado por falta de sueño. ¿Por qué no ha podido dormir nada? Parece sobresaltarse cada vez que oye el chillido del Milano del Viento Ígneo. Averigüemos qué ocurrió.",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[5] = "",
+				[6] = "<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4234] = {
+		Title = "Q Reúne las Historias (170)",
+		Page = {
+			[1] = {
+				[1] = "Gudra quizá no parezca un erudito, pero en realidad es excelente. Parece que quiere reunir historias de la gente de la Aldea del Lobo Gris para una investigación. ¿Puedes ayudar?",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[5] = "",
+				[6] = "<NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4235] = {
+		Title = "Q Este No Es el Lugar (170)",
+		Page = {
+			[1] = {
+				[1] = "Unos jóvenes se han reunido junto al tranquilo lago de la Aldea del Lobo Gris, murmurando quejas sobre alguien. Escuchemos discretamente para saber de qué hablan.",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[5] = "",
+				[6] = "<NAVI>[Julan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4236] = {
+		Title = "Q El Pan Nuestro de Cada Día (170)",
+		Page = {
+			[1] = {
+				[1] = "Eruin, que vive en la Aldea del Lobo Gris, es un cazador con trampas. Cada día busca trabajadores para recoger las presas capturadas.",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[5] = "",
+				[6] = "<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4237] = {
+		Title = "Q Reliquia para Purificar el Agua (170)",
+		Page = {
+			[1] = {
+				[1] = "Budan, encargado del suministro de agua de la Aldea del Lobo Gris, busca a alguien que traiga desde Rachel una reliquia sagrada para purificar el agua potable.",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[5] = "",
+				[6] = "<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4238] = {
+		Title = "Q Migración Tardía (170)",
+		Page = {
+			[1] = {
+				[1] = "Horim, empleado de un hotel en Rachel, quiere partir hacia la Aldea del Lobo Gris.",
+				[2] = "Ayuda a Horim a llegar a la Aldea del Lobo Gris.",
+				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[6] = "",
+				[7] = "<NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4239] = {
+		Title = "Q ¿Dónde Está Mi Hogar? (170)",
+		Page = {
+			[1] = {
+				[1] = "La Aldea del Lobo Gris debía convertirse en un lugar al que llamar hogar, pero cumplir ese deseo no es fácil.",
+				[2] = "¿Qué está planeando Ezekiel?",
+				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[6] = "",
+				[7] = "<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4240] = {
+		Title = "Q No Hay Bestias Malas (170)",
+		Page = {
+			[1] = {
+				[1] = "Los humanos no son los únicos habitantes de la Aldea del Lobo Gris.",
+				[2] = "¿Qué se necesita para que todos puedan vivir juntos en armonía?",
+				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[6] = "",
+				[7] = "<NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4241] = {
+		Title = "Q Laberinto de Oz y el Vendedor Ambulante (170)",
+		Page = {
+			[1] = {
+				[1] = "Atravesar el Laberinto de Oz, la única ruta que conduce a la Aldea del Lobo Gris, no es una tarea fácil.",
+				[2] = "¿Qué tipo de problema hay en el Laberinto de Oz?",
+				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[4] = "^663399§Nivel 170 o superior^000000",
+				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
+				[6] = "",
+				[7] = "<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4242] = {
+		Title = "Q Percibir el Ambiente (170)",
+		Page = {
+			[1] = {
+				[1] = "Junok, un sacerdote de Rachel, está muy preocupado por el conflicto entre inmigrantes y habitantes nativos. A petición de Junok, investiga qué tipo de fricción existe entre ambos grupos.",
+				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4243] = {
+		Title = "Q Hasta los Niños lo Saben (170)",
+		Page = {
+			[1] = {
+				[1] = "El aventurero encuentra, en un rincón de Rachel, a un niño que parece estar siendo excluido por varios amigos. ¿Qué ocurrió? Escuchémoslo directamente.",
+				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4244] = {
+		Title = "Q El Precio del Trabajo (170)",
+		Page = {
+			[1] = {
+				[1] = "En una zona residencial de Rachel, una persona pobremente vestida suspira sin parar y mira al cielo. Parece tener algún problema... Escuchemos su historia.",
+				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Amodifin]<INFO>rachel,181,51,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4245] = {
+		Title = "Q Flor del Bosque del Lobo Gris (170)",
+		Page = {
+			[1] = {
+				[1] = "Una verdad incómoda sale a la luz en un callejón de Rachel. Aun así, el niño se niega a rendirse y quiere seguir intentándolo.",
+				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Niño Maltratado]<INFO>rachel,176,80,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Trabajo de la Flower Room<INFO>4246</INFO></TIPBOX> continúa con.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4246] = {
+		Title = "Q Trabajo de la Flower Room (170)",
+		Page = {
+			[1] = {
+				[1] = "Mejai dejó atrás los malos tratos que sufría en Rachel y abrió un negocio para perseguir su sueño. Tú eres el socio que va cada día al Bosque del Lobo Gris para ayudar con el negocio de Mejai.",
+				[2] = "<TIPBOX>»Flor del Bosque del Lobo Gris<INFO>4245</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4247] = {
+		Title = "Q Haz Más Seguro el Bosque del Lobo Gris (170)",
+		Page = {
+			[1] = {
+				[1] = "El guardián de la entrada de la Aldea del Lobo Gris sufre constantemente por los monstruos del bosque. Sería estupendo que alguien amable pudiera hacer más seguro el Bosque del Lobo Gris.",
+				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 170 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Camper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4249] = {
+		Title = "Guía de cambio superior de clases ampliadas",
+		Page = {
+			[1] = {
+				[1] = "Las clases ampliadas con nivel base 200 y nivel de oficio (Job Nivel) 70 o superior pueden cambiar a una clase ampliada superior.",
+				[2] = "<TIPBOX>▷Hiperprincipiante<INFO>4250</INFO></TIPBOX>",
+				[3] = "<TIPBOX>▷Animista<INFO>4251</INFO></TIPBOX>",
+				[4] = "<TIPBOX>▷Emperador Celestial<INFO>4252</INFO></TIPBOX>",
+				[5] = "<TIPBOX>▷Asceta de Almas<INFO>4253</INFO></TIPBOX>",
+				[6] = "<TIPBOX>▷Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
+				[7] = "<TIPBOX>▷Guerrillero<INFO>4255</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Personaje: clase<INFO>9031</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4250] = {
+		Title = "JQ Cambio a Hiperprincipiante",
+		Page = {
+			[1] = {
+				[1] = "Los Hiperprincipiantes, que cambian de clase desde Superprincipiante, han investigado más a fondo las técnicas de otras clases, las han mejorado para que los débiles novatos puedan aprovecharlas mejor y las han convertido en habilidades de refuerzo propias. Superprincipiante sigue siendo débil, pero con estas técnicas mejoradas puede someter a sus enemigos en un instante.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Superprincipiante^000000",
+				[5] = "",
+				[6] = "<NAVI>[Grape]<INFO>aldebaran,110,70,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Superprincipiante<INFO>9043</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4251] = {
+		Title = "JQ Cambio a Animista",
+		Page = {
+			[1] = {
+				[1] = "Animista, que cambia de clase desde Invocador, emprende un nuevo camino al encontrarse con bestias espirituales especiales. Los Doram que se convierten en Animista pueden disfrutar de aventuras aún más emocionantes con sus compañeros usando el poder de poderosas bestias espirituales.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 60 o superior^000000",
+				[4] = "^663399§Objetivo: Invocador^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tablón de encargos]<INFO>payon,165,116,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Guía de los Doram<INFO>9044</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4252] = {
+		Title = "JQ Cambio a Emperador Celestial",
+		Page = {
+			[1] = {
+				[1] = "Emperador Estelar, que ha comprendido las leyes del Movimiento celestial, renace como Emperador Celestial y puede manejar de forma concentrada la energía del sol, la luna y las estrellas.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Emperador Estelar^000000",
+				[5] = "",
+				[6] = "<NAVI>[Cartel]<INFO>payon,213,202,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Emperador Estelar<INFO>9047</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4253] = {
+		Title = "JQ Cambio a Asceta de Almas",
+		Page = {
+			[1] = {
+				[1] = "Asceta de Almas, que cambia de clase desde Segador de Almas, ha perfeccionado las artes de talismanes como un poderoso medio para asistir en el manejo de las almas. Asceta de Almas puede emplear diversos talismanes para usar técnicas de apoyo y ataque más poderosas.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Segador de Almas^000000",
+				[5] = "",
+				[6] = "<NAVI>[Dependiente]<INFO>payon,197,119,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Segador de Almas<INFO>9048</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4254] = {
+		Title = "JQ Cambio a Shinkiro/Shiranui",
+		Page = {
+			[1] = {
+				[1] = "Shinkiro/Shiranui, que cambian de clase desde Kagerou/Oboro, han aprendido artes secretas perdidas de los antiguos Ninja y ahora dominan poderosas técnicas de sigilo y ninjutsu.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Kagerou/Oboro^000000",
+				[5] = "",
+				[6] = "<NAVI>[Seoyeon]<INFO>amatsu,82,118,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Kagerou/Oboro<INFO>9049</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4255] = {
+		Title = "JQ Cambio a Guerrillero",
+		Page = {
+			[1] = {
+				[1] = "Rebelde decide convertirse en Guerrillero, un vigilante que supervisa a empresas y gobiernos por la seguridad del pueblo. Podrás disfrutar del explosivo combate de Guerrillero, armado con poderosas armas de fuego.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Rebelde^000000",
+				[5] = "",
+				[6] = "<NAVI>[Yana]<INFO>einbroch,313,324,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Rebelde<INFO>9050</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4256] = {
+		Title = "Episodio 19#Misión",
+		Page = {
+			[1] = {
+				[1] = "Bagot, el último miembro de Ilusión, se dirigió a Issgard, donde se dice que Jormungandr está sellado. El Episodio 19 se desarrolla en la nueva región de Issgard.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "<TIPBOX>»Ep19 Serie de Armaduras de la Flor de Nieve<INFO>4258</INFO></TIPBOX>",
+				[6] = "<TIPBOX>»Ep19 Serie de Armas Glaciales<INFO>4259</INFO></TIPBOX>",
+				[7] = "<TIPBOX>»Ep19 Armas del Glaciar Sombrío<INFO>4365</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4257] = {
+		Title = "Episode 19 Issgard, Tierra de las Flores de Nieve#MisiónEpisodio",
+		Page = {
+			[1] = {
+				[1] = "Bagot sembró el caos en el templo de Rachel y usó un fragmento robado del Corazón de Ymir para crear una quimera que imitaba a un dios. Según el sacerdote Yus, el destino de Bagot no es simplemente el norte de Midgard, sino Issgard, una tierra de hielo al otro lado del mar. El aventurero y sus compañeros parten hacia Issgard, donde aún perduran antiguas leyendas.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "»Misión Inicial",
+				[7] = "<TIPBOX>Q Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo(200)<INFO>4260</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "»Misiones Principales",
+				[10] = "<TIPBOX>Q Patrulla del Águila(200)<INFO>4261</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Encuentro con el Experimento 210426(200)<INFO>4262</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q El Plan de Lazy(200)<INFO>4263</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Infiltración en el Nido de la Serpiente(200)<INFO>4264</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Informe de Progreso de la Infiltración(200)<INFO>4265</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q En Busca de Pistas(200)<INFO>4266</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Infiltración Silenciosa(200)<INFO>4267</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Sospechas Crecientes(200)<INFO>4268</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Por Poco, las Verdaderas Intenciones de Bagot(200)<INFO>4269</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Caos en el Nido de la Serpiente, los Desaparecidos(200)<INFO>4270</INFO></TIPBOX>",
+				[20] = "",
+				[21] = "»Misiones Secundarias",
+				[22] = "<TIPBOX>Q Santa de la Purificación(200)<INFO>4271</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Mar Congelado(200)<INFO>4272</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Curiosidades(200)<INFO>4273</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Una Serpiente Vieja(200)<INFO>4274</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Doctrina y Sermones(200)<INFO>4275</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Una Forma Especial de Sobrevivir(200)<INFO>4276</INFO></TIPBOX>",
+				[28] = "",
+				[29] = "»Misiones Diarias",
+				[30] = "<TIPBOX>Q En Busca de un Escondite en la Superficie(200)<INFO>4277</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Ayudando a Moryara a Pescar(200)<INFO>4278</INFO></TIPBOX>",
+				[32] = "<TIPBOX>Q El Alegre Almuerzo de Joryara(200)<INFO>4279</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Q ¡No Alimentes a los Animales!(200)<INFO>4280</INFO></TIPBOX>",
+				[34] = "<TIPBOX>Q Diversión a Escondidas(200)<INFO>4281</INFO></TIPBOX>",
+				[35] = "<TIPBOX>Q La Elección del Menú de Lunch(200)<INFO>4282</INFO></TIPBOX>",
+				[36] = "<TIPBOX>Q Sacerdote, Ten Piedad(200)<INFO>4283</INFO></TIPBOX>",
+				[37] = "<TIPBOX>Q Un Rostro Desconocido(200)<INFO>4284</INFO></TIPBOX>",
+				[38] = "<TIPBOX>Q Recolección de Materiales de Investigación para Bellgund(200)<INFO>4285</INFO></TIPBOX>",
+				[39] = "<TIPBOX>Q Búsqueda de los Perdidos(200)<INFO>4286</INFO></TIPBOX>",
+				[40] = "<TIPBOX>Q Una Afición Elegante(200)<INFO>4287</INFO></TIPBOX>",
+				[41] = "<TIPBOX>Q Por Condiciones de Trabajo Seguras(200)<INFO>4288</INFO></TIPBOX>",
+				[42] = "<TIPBOX>Q Nuestro Preciado Sustento(200)<INFO>4289</INFO></TIPBOX>",
+				[43] = "<TIPBOX>Q El Día de Friederike(200)<INFO>4290</INFO></TIPBOX>",
+				[44] = "<TIPBOX>Q ¿Necesitamos un Refrigerador?(200)<INFO>4291</INFO></TIPBOX>",
+				[45] = "<TIPBOX>Q Herramientas Crujientes(200)<INFO>4292</INFO></TIPBOX>",
+				[46] = "<TIPBOX>Q Un Lugar para Abandonar 1(220)<INFO>4293</INFO></TIPBOX>",
+				[47] = "<TIPBOX>Q Un Lugar para Abandonar 2(240)<INFO>4294</INFO></TIPBOX>",
+				[48] = "<TIPBOX>Q Cavando sin Parar(200)<INFO>4295</INFO></TIPBOX>",
+				[49] = "<TIPBOX>Q Patrulla con los Iwins(200)<INFO>4296</INFO></TIPBOX>",
+				[50] = "<TIPBOX>MD 19 Simulación de Juncea<INFO>4297</INFO></TIPBOX>",
+				[51] = "<TIPBOX>MD 19 Destrucción del Dirigible<INFO>4298</INFO></TIPBOX>",
+				[52] = "",
+				[53] = "<TIPBOX>»Ep19 Serie de Armaduras de la Flor de Nieve<INFO>4258</INFO></TIPBOX>",
+				[54] = "<TIPBOX>»Ep19 Serie de Armas Glaciales<INFO>4259</INFO></TIPBOX>",
+				[55] = "",
+				[56] = "<TIPBOX>»Episodio 19<INFO>4256</INFO></TIPBOX>",
+				[57] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
+				[58] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4258] = {
+		Title = "Ep19 Serie de Armaduras de la Flor de Nieve#PétalosDeFlorDeNieve",
+		Page = {
+			[1] = {
+				[1] = "Puedes intercambiar <ITEM>[Pétalos de Flor de Nieve]<INFO>1000608</INFO></ITEM> obtenidos durante el episodio por diversos equipos útiles en el Castillo de Hielo.",
+				[2] = "",
+				[3] = "^663399§Lugar de Intercambio^000000",
+				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Serie de Armaduras de la Flor de Nieve^000000",
+				[7] = "<ITEM>[Armadura de la Flor de Nieve]<INFO>450206</INFO></ITEM>",
+				[8] = "<ITEM>[Túnica de la Flor de Nieve]<INFO>450207</INFO></ITEM>",
+				[9] = "<ITEM>[Capa de la Flor de Nieve]<INFO>480159</INFO></ITEM>",
+				[10] = "<ITEM>[Bufanda de la Flor de Nieve]<INFO>480160</INFO></ITEM>",
+				[11] = "<ITEM>[Botas de la Flor de Nieve]<INFO>470115</INFO></ITEM>",
+				[12] = "<ITEM>[Zapatos de la Flor de Nieve]<INFO>470116</INFO></ITEM>",
+				[13] = "<ITEM>[Colgante de la Flor de Nieve]<INFO>490176</INFO></ITEM>",
+				[14] = "<ITEM>[Anillo de la Flor de Nieve]<INFO>490177</INFO></ITEM>",
+				[15] = "<ITEM>[Collar de la Flor de Nieve]<INFO>490178</INFO></ITEM>",
+				[16] = "<ITEM>[Pendiente de la Flor de Nieve]<INFO>490179</INFO></ITEM>",
+				[17] = "",
+				[18] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[20] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4259] = {
+		Title = "Ep19 Serie de Armas Glaciales#Zeny",
+		Page = {
+			[1] = {
+				[1] = "Estas armas forman una serie de obras maestras creada por Voglinde en el Castillo de Hielo de Issgard. Con el apoyo de Maram, se pueden comprar con Zeny.",
+				[2] = "",
+				[3] = "^663399§Lugar de Intercambio^000000",
+				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "^663399§Serie de Armas Glaciales^000000",
+				[7] = "<ITEM>[Espada de Dos Manos Glacial]<INFO>600027</INFO></ITEM>",
+				[8] = "<ITEM>[Lanza Larga Glacial]<INFO>630018</INFO></ITEM>",
+				[9] = "<ITEM>[Espada Glacial]<INFO>500049</INFO></ITEM>",
+				[10] = "<ITEM>[Espada Básica Glacial]<INFO>500050</INFO></ITEM>",
+				[11] = "<ITEM>[Lanza Glacial]<INFO>530025</INFO></ITEM>",
+				[12] = "<ITEM>[Hacha de Mecánico Glacial]<INFO>620017</INFO></ITEM>",
+				[13] = "<ITEM>[Hacha Glacial]<INFO>520017</INFO></ITEM>",
+				[14] = "<ITEM>[Maza Glacial]<INFO>590038</INFO></ITEM>",
+				[15] = "<ITEM>[Maza de Mecánico Glacial]<INFO>590039</INFO></ITEM>",
+				[16] = "<ITEM>[Cuchillo de Pícaro Glacial]<INFO>510061</INFO></ITEM>",
+				[17] = "<ITEM>[Cuchillo Básico Glacial]<INFO>510062</INFO></ITEM>",
+				[18] = "<ITEM>[Arco Glacial]<INFO>700052</INFO></ITEM>",
+				[19] = "<ITEM>[Puño Glacial]<INFO>560032</INFO></ITEM>",
+				[20] = "<ITEM>[Libro Glacial]<INFO>540049</INFO></ITEM>",
+				[21] = "<ITEM>[Katar Glacial]<INFO>610037</INFO></ITEM>",
+				[22] = "<ITEM>[Varita Glacial]<INFO>550069</INFO></ITEM>",
+				[23] = "<ITEM>[Bastón Glacial]<INFO>640033</INFO></ITEM>",
+				[24] = "<ITEM>[Cola de Gato Glacial]<INFO>550070</INFO></ITEM>",
+				[25] = "<ITEM>[Violín Glacial]<INFO>570029</INFO></ITEM>",
+				[26] = "<ITEM>[Látigo Glacial]<INFO>580030</INFO></ITEM>",
+				[27] = "<ITEM>[Shuriken Huuma Glacial]<INFO>650025</INFO></ITEM>",
+				[28] = "<ITEM>[Revólver Glacial]<INFO>800014</INFO></ITEM>",
+				[29] = "<ITEM>[Rifle Glacial]<INFO>810010</INFO></ITEM>",
+				[30] = "<ITEM>[Escopeta Glacial]<INFO>820008</INFO></ITEM>",
+				[31] = "<ITEM>[Ametralladora Gatling Glacial]<INFO>830013</INFO></ITEM>",
+				[32] = "<ITEM>[Lanzador Glacial]<INFO>840009</INFO></ITEM>",
+				[33] = "",
+				[34] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[35] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
+				[36] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4260] = {
+		Title = "Q Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo(200)#MisiónEpisodio19Inicio",
+		Page = {
+			[1] = {
+				[1] = "En la entrada de la Aldea del Lobo Gris, Maram transmite un mensaje de Ely: se ha encontrado una ruta marítima hacia Issgard y te piden que vayas a la Mansión de Varmundt. Maram y Miriam quieren unirse al viaje a Issgard para recuperar el fragmento del Corazón de Ymir robado por Bagot.",
+				[2] = "",
+				[3] = "<TIPBOX>»EP. 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Habitante de la Aldea del Lobo Gris]<INFO>wolfvill,223,83,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4261] = {
+		Title = "Q Patrulla del Águila(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "El Castillo de Hielo de Issgard alberga a la orgullosa Patrulla del Águila. Para conocer los alrededores del castillo, debes unirte a la patrulla y acompañarla en sus rondas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Capitán de la Patrulla]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4262] = {
+		Title = "Q Encuentro con el Experimento 210426(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Mientras patrullas las inhóspitas llanuras heladas de Issgard con la Patrulla del Águila, descubres rastros sospechosos...",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Joven Misterioso]<INFO>1@iwp,240,373,0,101,0</INFO></NAVI>",
+				[7] = "※La navegación solo está disponible en el mapa donde se realiza la patrulla.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4263] = {
+		Title = "Q El Plan de Lazy(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "El joven misterioso que encontraste durante la ronda en las Llanuras de las Escamas Congeladas poseía poderes extraordinarios. Tras ver un pergamino misterioso, Lazy idea un plan.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> En curso",
+				[4] = "<TIPBOX>»Encuentro con el Experimento 210426<INFO>4262</INFO></TIPBOX> Completada",
+				[5] = "^663399§Nivel 200 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4264] = {
+		Title = "Q Infiltración en el Nido de la Serpiente(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Tú y Lazy deciden usar Pergaminos de Transformación en Rgan frente al Nido de la Serpiente para disfrazarse de Rgans e infiltrarse. ¡Otro plan de Lazy se desarrolla lejos de casa, cerca del Castillo de Hielo de Issgard! ¿Funcionará esta vez?",
+				[2] = "",
+				[3] = "<TIPBOX>»El Plan de Lazy<INFO>4263</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>jor_back3,88,318,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4265] = {
+		Title = "Q Informe de Progreso de la Infiltración(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Al no poder obtener más información en el Nido de la Serpiente, el aventurero y Lazy deciden regresar al Castillo de Hielo e informar de lo que descubrieron sobre el dirigible y las personas secuestradas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4266] = {
+		Title = "Q En Busca de Pistas(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Mientras los humanos del Nido de la Serpiente están ausentes, Lazy propone registrar sus alojamientos en busca de información. El objetivo es encontrar pistas sobre las investigaciones de Ilusión y el conflicto entre Bagot y Juncea.",
+				[2] = "",
+				[3] = "<TIPBOX>»Informe de Progreso de la Infiltración<INFO>4265</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>jor_nest,124,204,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4267] = {
+		Title = "Q Infiltración Silenciosa(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Juncea llegó a Issgard antes que Bagot y consolidó su posición colaborando con los Rgans. Le molesta que Bagot, que se unió después, reciba todos los beneficios. Aprovechar la tensión entre ambos podría dar buenos resultados.",
+				[2] = "",
+				[3] = "<TIPBOX>»En Busca de Pistas<INFO>4266</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Juncea]<INFO>jor_nset,31,140,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4268] = {
+		Title = "Q Sospechas Crecientes(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Lazy, que está trabajando contigo en el Castillo de Hielo de Issgard, propone intentar convencer a Juncea de cambiar de bando ahora que ha surgido una división entre ella y Bagot.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración Silenciosa<INFO>4267</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lazy]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4269] = {
+		Title = "Q Por Poco, las Verdaderas Intenciones de Bagot(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Corres al Nido de la Serpiente, hogar de los Rgans, como propuso Lazy, pero algo parece extraño. Investigar el laboratorio de Juncea podría revelar alguna pista.",
+				[2] = "",
+				[3] = "<TIPBOX>»Sospechas Crecientes<INFO>4268</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Caja Desconocida]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>",
+				[7] = "※Conduce a una MD para avanzar en la historia.",
+				[8] = "",
+				[9] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4270] = {
+		Title = "Q Caos en el Nido de la Serpiente, los Desaparecidos(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Horr, que ayuda al aventurero en el Castillo de Hielo de Issgard, quiere devolver a Juncea a su forma original. Mientras tanto, Lazy considera sospechosa la actividad en el Nido de la Serpiente y propone investigar.",
+				[2] = "",
+				[3] = "<TIPBOX>»Por Poco, las Verdaderas Intenciones de Bagot<INFO>4269</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4271] = {
+		Title = "Q Santa de la Purificación(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Voglinde espera a su sobrino en el Castillo de Hielo de Issgard. Está preocupada porque Lehar aún no ha traído a Friederike, la santa necesaria para la purificación.",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Voglinde]<INFO>icas_in,162,224,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4272] = {
+		Title = "Q Mar Congelado(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Shurr, del Castillo de Hielo de Issgard, quiere encontrar a un amigo. Parece que salió a las llanuras y no ha regresado. ¡Ayuda a Shurr a encontrarlo!",
+				[2] = "",
+				[3] = "<TIPBOX>»Santa de la Purificación<INFO>4271</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4273] = {
+		Title = "Q Curiosidades(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Delphanagand, un Rgan de máximo rango que está cerca del criadero, quiere que escuches lo que cuentan los Rgans de rango intermedio que trabajan allí. ",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Delphanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4274] = {
+		Title = "Q Una Serpiente Vieja(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Aleigand, un Rgan de máximo rango, amenaza de repente al aventurero disfrazado de Rgan... ¡¿Qué le ocurre a Aleigand?!",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4275] = {
+		Title = "Q Doctrina y Sermones(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. En algún lugar del nido, un Rgan destaca por hablar con los demás de forma muy tranquila. ¿Qué les estará contando...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4276] = {
+		Title = "Q Una Forma Especial de Sobrevivir(200)#MisiónEpisodio19",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Mimirgand quiere enseñar muchas cosas al sacerdote recién llegado. Aprende el modo de supervivencia de los Rgans, empezando por lo básico.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4277] = {
+		Title = "Q En Busca de un Escondite en la Superficie(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Horr quiere investigar todos los campos de Issgard para encontrar el escondite de los líderes Rgans que desaparecieron. Ayuda a Horr a buscarlo.",
+				[2] = "",
+				[3] = "<TIPBOX>»Caos en el Nido de la Serpiente, los Desaparecidos<INFO>4270</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Horr]<INFO>icecastle,32,184,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4278] = {
+		Title = "Q Ayudando a Moryara a Pescar(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "En el extremo congelado de Issgard, el Iwin Moryara contempla solo las tranquilas olas en un lugar apartado. Quiere que el aventurero que acaba de conocer pruebe a pescar. Pero... ¿qué ocurrirá?",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4279] = {
+		Title = "Q El Alegre Almuerzo de Joryara(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Joryara cocina en el comedor exclusivo de los Iwins, la única instalación de bienestar del Castillo de Hielo de Issgard. Pero tiene una tarea aún más importante que cocinar. ¿Cuál será...?",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4280] = {
+		Title = "Q ¡No Alimentes a los Animales!(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "El intendente de la patrulla del Castillo de Hielo de Issgard está preocupado por la comida que alguien está escondiendo para los animales salvajes en las Colinas de las Escamas Congeladas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Intendente]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4281] = {
+		Title = "Q Diversión a Escondidas(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Issgard es muy fría. Ni los Iwins, cubiertos de un cálido pelaje, logran escapar del frío. El soldado Horiryu quiere valerse del aventurero para sustituir los suministros por plumas más cálidas.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Soldado Horiryu]<INFO>icas_in,33,53,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4282] = {
+		Title = "Q La Elección del Menú de Lunch(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Lunch sobrevive en las Llanuras de las Escamas Congeladas de Issgard mientras sueña con un futuro brillante. Ayuda a alimentar al hambriento Lunch en esta tierra donde solo hay hielo.",
+				[2] = "",
+				[3] = "<TIPBOX>»Encuentro con el Experimento 210426<INFO>4262</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4283] = {
+		Title = "Q Sacerdote, Ten Piedad(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Un Rgan leal llamado Pabuyasabigand quiere que le traigas cáscaras del exterior.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Pabuyasabigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4284] = {
+		Title = "Q Un Rostro Desconocido(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Entre ellos hay uno que hace peticiones muy extrañas. Escucha lo que tiene que decir el peculiar Rgan Sidrgand.",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4285] = {
+		Title = "Q Recolección de Materiales de Investigación para Bellgund(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Bellgund, que investiga en el Castillo de Hielo de Issgard, necesita núcleos mágicos para su trabajo. Justo entonces pasa un aventurero.",
+				[2] = "",
+				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Bellgund]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4286] = {
+		Title = "Q Búsqueda de los Perdidos(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Durante la infiltración en el Nido de la Serpiente, descubriste indicios de que muchas personas de Midgard habían sido secuestradas.",
+				[2] = "Rescataste a los cautivos, pero parece que algunos escaparon del nido de los Rgans y quedaron perdidos en los campos nevados.",
+				[3] = "",
+				[4] = "<TIPBOX>»Caos en el Nido de la Serpiente, los Desaparecidos<INFO>4270</INFO></TIPBOX> Completada",
+				[5] = "^663399§Nivel 200 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Leon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>",
+				[8] = "<NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>",
+				[9] = "",
+				[10] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4287] = {
+		Title = "Q Una Afición Elegante(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. La afición de Berbergand es la artesanía y, cuando empieza, ni el trabajo ni sus peticiones de materiales tienen fin.",
+				[2] = "",
+				[3] = "<TIPBOX>»Una Forma Especial de Sobrevivir<INFO>4276</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4288] = {
+		Title = "Q Por Condiciones de Trabajo Seguras(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Hanadeosaragand, encargado de recolectar hielo, tiene una gran preocupación. ¡Sacerdote, por favor, ayuda!",
+				[2] = "",
+				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hanadeosaragand]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4289] = {
+		Title = "Q Nuestro Preciado Sustento(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Mimirgand quiere tu ayuda para obtener combustible y poder mágico a la manera de los Rgans.",
+				[2] = "",
+				[3] = "<TIPBOX>»Una Forma Especial de Sobrevivir<INFO>4276</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Nombre]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4290] = {
+		Title = "Q El Día de Friederike(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Friederike, la Santa de la Purificación enviada al Castillo de Hielo de Issgard, tiene la tarea de purificar núcleos mágicos de los Rgans. Busca a un aventurero que reúna las piedras mágicas que debe purificar.",
+				[2] = "",
+				[3] = "<TIPBOX>»Santa de la Purificación<INFO>4271</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Friederike]<INFO>icas_in,32,123,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4291] = {
+		Title = "Q ¿Necesitamos un Refrigerador?(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Tataring, que estuvo a punto de morir tras quedar perdido en Issgard, se aloja en el Castillo de Hielo. De vez en cuando pide ayuda para conseguir comida.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4292] = {
+		Title = "Q Herramientas Crujientes(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Tataring se está adaptando bien al Castillo de Hielo y parece haber colocado trampas para conseguir comida. ¿Comprobamos si funcionan correctamente?",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4293] = {
+		Title = "Q Un Lugar para Abandonar 1(220)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Shurr, el hábil Iwin buceador del Castillo de Hielo de Issgard, cree que es necesario reducir la cantidad de monstruos de la planta 1 del Pozo Abandonado. Los aventureros son especialistas en ese tipo de limpieza agresiva.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4294] = {
+		Title = "Q Un Lugar para Abandonar 2(240)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Shurr, el hábil Iwin buceador del Castillo de Hielo de Issgard, cree que es necesario reducir la cantidad de monstruos de la planta 2 del Pozo Abandonado. Los aventureros son especialistas en ese tipo de limpieza agresiva.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4295] = {
+		Title = "Q Cavando sin Parar(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Shurr, el hábil Iwin buceador del Castillo de Hielo de Issgard, quiere investigar regularmente los rastros siniestros del Pozo Abandonado para garantizar la seguridad.",
+				[2] = "",
+				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4296] = {
+		Title = "Q Patrulla con los Iwins(200)#MisiónEpisodio19MisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "La Patrulla del Águila del Castillo de Hielo de Issgard es una fuerza de confianza. Su capitán siempre está reclutando personas para acompañar las rondas. Si quieres, puedes participar todos los días.",
+				[2] = "",
+				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> Completada",
+				[4] = "^663399§Nivel 200 o superior^000000",
+				[5] = "",
+				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4297] = {
+		Title = "MD 19 Simulación de Juncea#200EpisodioMisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "Los investigadores del Castillo de Hielo concluyeron que los datos del monstruo en el que se transformó Juncea podían usarse para entrenar en combate. Basándose en el relato del aventurero, crearon los datos de la Simulación de Juncea. Se construyó una zona de entrenamiento que recrea la batalla contra Juncea en un rincón del Nido de la Serpiente.",
+				[2] = "",
+				[3] = "§ Requisito previo: <TIPBOX>»Caos en el Nido de la Serpiente, los Desaparecidos<INFO>4270</INFO></TIPBOX> Completada",
+				[4] = "",
+				[5] = "§ Detalles de la Mazmorra",
+				[6] = "> Se puede completar a diario (se reinicia a las 04:00 del día siguiente)",
+				[7] = "> Límite de tiempo: 60 minutos",
+				[8] = "> Nivel 200 o superior",
+				[9] = "",
+				[10] = "<NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Episode 18 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4298] = {
+		Title = "MD 19 Destrucción del Dirigible#200EpisodioMisiónDiaria",
+		Page = {
+			[1] = {
+				[1] = "El dirigible robado por Ilusión está en el Nido de la Serpiente. Tras hablar con tus compañeros, decides destruirlo para impedir que Ilusión y los Rgans sigan usándolo. Pero el dirigible, que encarna el ingenio de Varmundt, no será fácil de derribar...",
+				[2] = "",
+				[3] = "§ Requisito previo: <TIPBOX>»Informe de Progreso de la Infiltración<INFO>4265</INFO></TIPBOX> Completada",
+				[4] = "",
+				[5] = "§ Detalles de la Mazmorra",
+				[6] = "> Se puede completar a diario (se reinicia a las 04:00 del día siguiente)",
+				[7] = "> Límite de tiempo: 60 minutos",
+				[8] = "> Nivel 200 o superior",
+				[9] = "^663399§Esta MD se usa para avanzar en la misión.^000000",
+				[10] = "",
+				[11] = "<NAVI>[Rope]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Episode 18 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4365] = {
+		Title = "Ep19 Armas del Glaciar Sombrío",
+		Page = {
+			[1] = {
+				[1] = "Armas que se pueden obtener en las mazmorras Calor del Dios Serpiente y Fosa Abandonada, y en las MD Laboratorio de Bagot y Destrucción de la Aeronave.",
+				[2] = "<TIPBOX>»MD 19 Simulación de Juncea<INFO>4297</INFO></TIPBOX>",
+				[3] = "<TIPBOX>»MD 19 Destrucción de la Aeronave<INFO>4298</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "^663399§NPC relacionados^000000",
+				[6] = "»<NAVI>[Poruru]<INFO>icas_in,188,60,0,101,0</INFO></NAVI>",
+				[7] = "»<NAVI>[Incinerador]<INFO>icas_in,191,57,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "^663399§Lista de Armas del Glaciar Sombrío^000000",
+				[10] = "<ITEM>[Espada del Glaciar Sombrío]<INFO>500054</INFO></ITEM>",
+				[11] = "<ITEM>[Espada Básica del Glaciar Sombrío]<INFO>500055</INFO></ITEM>",
+				[12] = "<ITEM>[Daga de Pícaro del Glaciar Sombrío]<INFO>510075</INFO></ITEM>",
+				[13] = "<ITEM>[Daga Básica del Glaciar Sombrío]<INFO>510076</INFO></ITEM>",
+				[14] = "<ITEM>[Hacha del Glaciar Sombrío]<INFO>520021</INFO></ITEM>",
+				[15] = "<ITEM>[Lanza de una mano del Glaciar Sombrío]<INFO>530034</INFO></ITEM>",
+				[16] = "<ITEM>[Libro del Glaciar Sombrío]<INFO>540056</INFO></ITEM>",
+				[17] = "<ITEM>[Varita del Glaciar Sombrío]<INFO>550089</INFO></ITEM>",
+				[18] = "<ITEM>[Cola de Zorro del Glaciar Sombrío]<INFO>550090</INFO></ITEM>",
+				[19] = "<ITEM>[Nudillera del Glaciar Sombrío]<INFO>560037</INFO></ITEM>",
+				[20] = "<ITEM>[Violín del Glaciar Sombrío]<INFO>570032</INFO></ITEM>",
+				[21] = "<ITEM>[Látigo del Glaciar Sombrío]<INFO>580033</INFO></ITEM>",
+				[22] = "<ITEM>[Maza del Glaciar Sombrío]<INFO>590047</INFO></ITEM>",
+				[23] = "<ITEM>[Maza Mecánica del Glaciar Sombrío]<INFO>590048</INFO></ITEM>",
+				[24] = "<ITEM>[Espada a dos manos del Glaciar Sombrío]<INFO>600030</INFO></ITEM>",
+				[25] = "<ITEM>[Katar del Glaciar Sombrío]<INFO>610041</INFO></ITEM>",
+				[26] = "<ITEM>[Hacha Mecánica del Glaciar Sombrío]<INFO>620019</INFO></ITEM>",
+				[27] = "<ITEM>[Bastón del Glaciar Sombrío]<INFO>640034</INFO></ITEM>",
+				[28] = "<ITEM>[Shuriken Huuma del Glaciar Sombrío]<INFO>650028</INFO></ITEM>",
+				[29] = "<ITEM>[Arco del Glaciar Sombrío]<INFO>700059</INFO></ITEM>",
+				[30] = "<ITEM>[Revólver del Glaciar Sombrío]<INFO>800015</INFO></ITEM>",
+				[31] = "<ITEM>[Rifle del Glaciar Sombrío]<INFO>810015</INFO></ITEM>",
+				[32] = "<ITEM>[Escopeta del Glaciar Sombrío]<INFO>820011</INFO></ITEM>",
+				[33] = "<ITEM>[Ametralladora Gatling del Glaciar Sombrío]<INFO>830015</INFO></ITEM>",
+				[34] = "<ITEM>[Lanzagranadas del Glaciar Sombrío]<INFO>840010</INFO></ITEM>",
+				[35] = "",
+				[36] = "<TIPBOX>»Episodio 19<INFO>4256</INFO></TIPBOX>",
+				[37] = "<TIPBOX>»Recompensas del Episodio<INFO>4107</INFO></TIPBOX>",
+				[38] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[5001] = {
+		Title = "MD Arena nocturna de Geffen(210)#ArenaNocturnaGeffenTorneoRastroDelHéroeMagia",
+		Page = {
+			[1] = {
+				[1] = "Hay informes de que existe un lugar donde los luchadores que destacaron en el Torneo Mágico se quitan las máscaras y participan en peleas campales. Quizá si preguntas al Hombre de aspecto feroz, puedas obtener información adecuada.",
+				[2] = "",
+				[3] = "» Estructura de la mazmorra",
+				[4] = "§ Puede repetirse una vez cada 3 días",
+				[5] = "§ Tiempo límite: 60 minutos",
+				[6] = "(aunque cada ronda tiene un tiempo límite de 1 minuto)",
+				[7] = "§ Nivel 210 o superior",
+				[8] = "",
+				[9] = "Punto inicial",
+				[10] = "<NAVI>[Hombre de aspecto feroz]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "Ubicación de acceso a la mazmorra",
+				[13] = "<NAVI>[Portal abandonado]<INFO>dali02,80,61,0,101,0</INFO></NAVI>",
+				[14] = "",
+				[15] = "Lugar de intercambio de equipo",
+				[16] = "<NAVI>[Máquina expendedora abandonada]<INFO>dali02,83,67,0,101,0</INFO></NAVI>",
+				[17] = "",
+				[18] = "<TIPBOX>»Volver a la página anterior<INFO>7129</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6015] = {
+		Title = "Misiones de Entrada al Nuevo Mundo",
+		Page = {
+			[1] = {
+				[1] = "» Misiones de Entrada",
+				[2] = "<TIPBOX>Q Codicia Insatisfecha y Humanos al Nuevo Mundo (95)<INFO>6005</INFO></TIPBOX>",
+				[3] = "<TIPBOX>Q Contrato con el Agente Mano de Gato (95)<INFO>6030</INFO></TIPBOX>",
+				[4] = "[ ! ] ¡Completa una de las dos misiones para obtener acceso al Nuevo Mundo!",
+				[5] = "",
+				[6] = "» Misión del Traductor",
+				[7] = "<TIPBOX>Q Traductor (95)<INFO>6018</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Misiones de Ash Vacuum<INFO>6004</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Misiones de Encuentro con lo Desconocido<INFO>6016</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»Misiones de El Dicastes<INFO>6028</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6016] = {
+		Title = "Episode 13.2 Encuentro con lo Desconocido#Encuentro con lo#Desconocido#13.2#",
+		Page = {
+			[1] = {
+				[1] = "Episode 13.2",
+				[2] = "Encuentro con lo Desconocido (Encounter with the Unknown)",
+				[3] = "",
+				[4] = ">Misiones principales de Encuentro con lo Desconocido",
+				[5] = "<TIPBOX>Q Traductor (95)<INFO>6018</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Misiones generales de Encuentro con lo Desconocido",
+				[8] = "<TIPBOX>Q Nidhogg, Guardián de Yggdrasil: En busca de la verdad (95)<INFO>6019</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Mensajero (95)<INFO>6020</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Prueba de valor (95)<INFO>6021</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Se busca - Eliminación de los remanentes (95)<INFO>6022</INFO></TIPBOX>",
+				[12] = "",
+				[13] = ">Misiones repetibles de Encuentro con lo Desconocido",
+				[14] = "<TIPBOX>Q Mineral misterioso - Bradium refinado (95)<INFO>6023</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Espíritu artesano - Materiales decorativos de Yai (95)<INFO>6024</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Para una mascota - Recolectar huevos de Draco (95)<INFO>6025</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Esforzarse cada día (95)<INFO>6026</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Investigación continua (95)<INFO>6027</INFO></TIPBOX>",
+				[19] = "",
+				[20] = "<TIPBOX>>Ver Episodio 13<INFO>4102</INFO></TIPBOX>",
+				[21] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6028] = {
+		Title = "Episode 13.3 El Dicastes#Dicastes#El#13.3#",
+		Page = {
+			[1] = {
+				[1] = "Episode 13.3",
+				[2] = "El Dicastes (El Dicastes)",
+				[3] = "",
+				[4] = ">Misiones principales de El Dicastes",
+				[5] = "<TIPBOX>Q Invitación de los Sapha (95)<INFO>6029</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Misiones generales de El Dicastes",
+				[8] = "<TIPBOX>Q Orden secreta de Doha (95)<INFO>6081</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Contrato con un agente de la Mano de Gato (95)<INFO>6030</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Petición de Fred (95)<INFO>6031</INFO></TIPBOX>",
+				[11] = "",
+				[12] = ">Misiones repetibles de El Dicastes",
+				[13] = "<TIPBOX>Q Documento de reliquias antiguas (95)<INFO>6034</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Encargo de Caza 1 (95)<INFO>6035</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Encargo de Caza 2 (95)<INFO>6036</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Encargo de Suministros 1 (95)<INFO>6037</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Encargo de Suministros 2 (95)<INFO>6038</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Encargo de Transporte 1 (95)<INFO>6039</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Encargo de Transporte 2 (95)<INFO>6040</INFO></TIPBOX>",
+				[20] = "",
+				[21] = ">Túnel Kamidal",
+				[22] = "<TIPBOX>Comprar perfume de Scaraba<INFO>6032</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Entrar a Scaraba Hall Nightmare<INFO>6033</INFO></TIPBOX>",
+				[24] = "",
+				[25] = "<TIPBOX>>Ver Episodio 13<INFO>4102</INFO></TIPBOX>",
+				[26] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6041] = {
+		Title = "Episode 14.1 Bifrost#Bifrost#14.1#",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.1",
+				[2] = "Bifrost (Bifrost)",
+				[3] = "",
+				[4] = ">Misiones principales de Bifrost",
+				[5] = "<TIPBOX>Q Guardián errante (100)<INFO>6043</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Misiones generales de Bifrost",
+				[8] = "<TIPBOX>Q Informe de Teore (100)<INFO>6044</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q El nuevo trabajo de Cheshire (100)<INFO>6045</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Investigación de los baños de Mora (100)<INFO>6046</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Lope y Euridi (100)<INFO>6047</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Orden de Caballeros del Pueblo - Encargo del capitán (100)<INFO>6048</INFO></TIPBOX>",
+				[13] = "",
+				[14] = ">Misiones repetibles de Bifrost",
+				[15] = "<TIPBOX>Q Orden de Caballeros del Pueblo - Encargo del jefe<INFO>6049</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Encargo del comerciante de objetos de Mora (100)<INFO>6051</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Encargo del comerciante de provisiones de Mora (100)<INFO>6052</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Recuperación de restos (100)<INFO>6053</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Encargo de la patrulla de Mora (100)<INFO>6050</INFO></TIPBOX>",
+				[20] = "",
+				[21] = ">Otros contenidos de Bifrost",
+				[22] = "<TIPBOX>MD Laberinto del Bosque de Niebla<INFO>6042</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Arte con Kkalkkali<INFO>6054</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Tallado del Colgante del Guardián<INFO>6055</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Reparación de lujo de la Bufanda de Loki<INFO>6056</INFO></TIPBOX>",
+				[26] = "",
+				[27] = "<TIPBOX>>Ver Episodio 14<INFO>4103</INFO></TIPBOX>",
+				[28] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6057] = {
+		Title = "Episode 14.2 Eclage#Eclage#14.2#",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.2",
+				[2] = "Eclage (Eclage)",
+				[3] = "",
+				[4] = ">Misiones principales de Eclage",
+				[5] = "<TIPBOX>Q La puerta de Eclage<INFO>6058</INFO></TIPBOX>",
+				[6] = "<TIPBOX>Q Goliath (120)<INFO>6059</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q La hora de soñar (120)<INFO>6060</INFO></TIPBOX>",
+				[8] = "<TIPBOX>Q Encuentro en una tierra desconocida (120)<INFO>6061</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Rumores sobre el rey (120)<INFO>6062</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Los hermanos y el erudito mágico (120)<INFO>6063</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q El orbe desaparecido (120)<INFO>6064</INFO></TIPBOX>",
+				[12] = "",
+				[13] = ">Misiones generales de Eclage",
+				[14] = "<TIPBOX>Q Luz y oscuridad (120)<INFO>6065</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Misterioso caso de robo (120)<INFO>6066</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Fili de los Laphine (120)<INFO>6067</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Los bromistas de Eclage (120)<INFO>6068</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Quería ser grande y hermoso (120)<INFO>6069</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Recuperar los recuerdos del «T:Erudito» Worm (120)<INFO>6070</INFO></TIPBOX>",
+				[20] = "",
+				[21] = ">Misiones repetibles de Eclage",
+				[22] = "<TIPBOX>Q Yai, rebosante de encanto salvaje (120)<INFO>6071</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Mensajero que atraviesa el espacio (120)<INFO>6072</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q El alborotador de la tierra florecida (120)<INFO>6073</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Laphine que ama la tierra (120)<INFO>6074</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Noticias de los aventureros (120)<INFO>6075</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Conseguir provisiones (120)<INFO>6076</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q Eliminar el polvo (120)<INFO>6077</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q Recolectar recuerdos (120)<INFO>6078</INFO></TIPBOX>",
+				[30] = "",
+				[31] = ">Otros contenidos de Eclage",
+				[32] = "<TIPBOX>Activar ranura de guantes<INFO>6079</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Fabricar sombreros de disfraz<INFO>6080</INFO></TIPBOX>",
+				[34] = "",
+				[35] = "<TIPBOX>>Ver Episodio 14<INFO>4103</INFO></TIPBOX>",
+				[36] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6058] = {
+		Title = "Q Entrada a Eclage",
+		Page = {
+			[1] = {
+				[1] = "Quienes visitan Eclage por primera vez deben completar la documentación aquí antes de entrar. Debido al reciente aumento de visitantes procedentes del continente de Midgard, este procedimiento se ha vuelto necesario. Gracias por su comprensión.",
+				[2] = "<NAVI>[Guardia]<INFO>ecl_fild01,94,322,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "Ninguno",
+				[6] = "",
+				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6059] = {
+		Title = "Q Goliat (120)",
+		Page = {
+			[1] = {
+				[1] = "¿Podrías traerme una pieza nueva para reparar el puente? Mientras tanto usaré magia para mantenerlo firme y evitar que alguien se caiga al pasar.",
+				[2] = "<NAVI>[Carpintero de las Hadas]<INFO>eclage,102,32,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Entrada a Eclage<INFO>6058</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6060] = {
+		Title = "Q Tiempo de Soñar (120)",
+		Page = {
+			[1] = {
+				[1] = "Vas a Eclage ahora, ¿verdad? De camino, ¿podrías decirle a mi amigo Glacies, cerca de la entrada, que creo que hoy no podré ir?",
+				[2] = "<NAVI>[Carpintero de las Hadas]<INFO>eclage,102,32,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Entrada a Eclage<INFO>6058</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q Goliat (120)<INFO>6059</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6061] = {
+		Title = "Q Encuentro en una Tierra Extraña (120)",
+		Page = {
+			[1] = {
+				[1] = "Ven, hablemos un rato. Soy Fome, del centro de Alfheim. Y tú eres...",
+				[2] = "<NAVI>[Viajero Fome]<INFO>ecl_in01,32,52,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6062] = {
+		Title = "Q Un Rumor sobre el Rey (120)",
+		Page = {
+			[1] = {
+				[1] = "Preguntemos a distintas personas de Eclage qué han oído sobre los rumores acerca del nuevo rey.",
+				[2] = "<NAVI>[Viajero Fome]<INFO>ecl_in01,32,52,0,101,0</INFO></NAVI>",
+				[3] = "<NAVI>[Guardia de Eclage Leo]<INFO>eclage,112,40,0,101,0</INFO></NAVI>",
+				[4] = "<NAVI>[Laphine Conversando]<INFO>eclage,274,294,0,101,0</INFO></NAVI>",
+				[5] = "<NAVI>[Habitante de Eclage]<INFO>eclage,275,294,0,101,0</INFO></NAVI>",
+				[6] = "<NAVI>[Laphine Descansando]<INFO>ecl_in03,244,57,0,101,0</INFO></NAVI>",
+				[7] = "<NAVI>[Laphine de Servicio]<INFO>ecl_in03,245,54,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "» Requisitos de la Misión",
+				[10] = "^663399§Nivel 120^000000",
+				[11] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
+				[12] = "",
+				[13] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6063] = {
+		Title = "Q El Hermano Mayor de Kardui (120)",
+		Page = {
+			[1] = {
+				[1] = "Mi hermano mayor está en la Torre de Bifrost. Quisiera que le entregaras una carta. Es un asunto muy personal, así que te lo pido como amigo. ¿Lo harás?",
+				[2] = "<NAVI>[Alcalde Jun Kardui]<INFO>ecl_in03,41,90,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q Un Rumor sobre el Rey (120)<INFO>6062</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6064] = {
+		Title = "Q El Orbe Desaparecido (120)",
+		Page = {
+			[1] = {
+				[1] = "No quedaría bien que Kardui o yo nos involucráramos directamente. Cuento contigo. Si averiguas algo, ven a donde está Kardui.",
+				[2] = "<NAVI>[Hisie]<INFO>ecl_tdun04,32,35,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q Un Rumor sobre el Rey (120)<INFO>6062</INFO></TIPBOX>",
+				[8] = "<TIPBOX>Q El Hermano Mayor de Kardui (120)<INFO>6063</INFO></TIPBOX>",
+				[9] = "",
+				[10] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[11] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6065] = {
+		Title = "Q Luz y Oscuridad (120)",
+		Page = {
+			[1] = {
+				[1] = "Por favor, te lo suplico. Haz que el Sr. Clever deje de hablar. Llevo un año escuchándolo y ya siento que me va a salir urticaria por todo el cuerpo.",
+				[2] = "<NAVI>[Guardia de la Prisión]<INFO>ecl_in02,133,115,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX> En curso",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6066] = {
+		Title = "Q El Caso del Ladrón Misterioso (120)",
+		Page = {
+			[1] = {
+				[1] = "¿Qué es ese sonido extraño? Creo que será mejor entrar y comprobarlo.",
+				[2] = "<NAVI>[Lugar del Sonido Sospechoso]<INFO>eclage,154,52,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6067] = {
+		Title = "Q Pilly, la Laphine (120)",
+		Page = {
+			[1] = {
+				[1] = "Mira este hermoso campo. Cada pequeña brizna de hierba y cada rama parecen respirar esta belleza...",
+				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Goliat (120)<INFO>6059</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6068] = {
+		Title = "Q Bromistas de Eclage (120)",
+		Page = {
+			[1] = {
+				[1] = "Han desaparecido varias cosas. Esto parece demasiado extraño para ser solo obra de los bromistas, ¿no crees?",
+				[2] = "<NAVI>[Eirinn]<INFO>ecl_in02,160,37,0,101,0</INFO></NAVI>",
+				[3] = "<NAVI>[Bourbon]<INFO>ecl_in03,175,69,0,101,0</INFO></NAVI>",
+				[4] = "<NAVI>[Cecilia]<INFO>ecl_in01,26,88,0,101,0</INFO></NAVI>",
+				[5] = "",
+				[6] = "» Requisitos de la Misión",
+				[7] = "^663399§Nivel 120^000000",
+				[8] = "",
+				[9] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6069] = {
+		Title = "Q Quiero Ser Grande y Hermoso (120)",
+		Page = {
+			[1] = {
+				[1] = "Mi hermano y yo solo nos manteníamos en contacto por carta. Cuando dejaron de llegar, vine corriendo a verlo y descubrí que lo habían llevado a prisión. ¿Podrías entregarle mi carta?",
+				[2] = "<NAVI>[Wuhari]<INFO>eclage,282,255,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6070] = {
+		Title = "Q Recuperando la Memoria del Profesor Worm (120)",
+		Page = {
+			[1] = {
+				[1] = "Quieres preguntarme algo, ¿verdad? Puede que mi memoria haya empeorado, ¡pero mi intuición se ha vuelto increíblemente aguda! Si quieres la respuesta que buscas, ayúdame a recuperar mis recuerdos.",
+				[2] = "<NAVI>[Profesor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6071] = {
+		Title = "Q Yai Salvaje (120)",
+		Page = {
+			[1] = {
+				[1] = "Los materiales de monstruos que me trajiste la otra vez se volvieron populares entre mis amigos. ¿Podrías conseguir algunos más?",
+				[2] = "<NAVI>[Guardia de Eclage]<INFO>ecl_in01,82,70,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6072] = {
+		Title = "Q Repartidor que Cruza el Espacio (120)",
+		Page = {
+			[1] = {
+				[1] = "Eh, perdona que te moleste, pero ¿podrías ir otra vez hoy a Splendide para recoger el correo?",
+				[2] = "<NAVI>[Mensajero Roy de Eclage]<INFO>ecl_fild01,205,86,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6073] = {
+		Title = "Q Alborotadores de la Tierra de Flores (120)",
+		Page = {
+			[1] = {
+				[1] = "Hemos recibido muchas quejas de que los Menblatts y Petals de la Tierra de Flores están molestando a los viajeros sin motivo. ¿Podrías ayudarme a ocuparme de ellos?",
+				[2] = "<NAVI>[Guardia de Eclage Leo]<INFO>eclage,112,40,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6074] = {
+		Title = "Q Laphines que Aman la Tierra (120)",
+		Page = {
+			[1] = {
+				[1] = "¡Avísales a los Laphines que ya es hora de comenzar el trabajo de hoy!",
+				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6075] = {
+		Title = "Q Aventureros Perdidos (120)",
+		Page = {
+			[1] = {
+				[1] = "No es exactamente mi responsabilidad, pero sería triste que los aventureros de otro mundo se lastimaran. Creo que hasta la propia tierra se entristecería. ¿Me ayudas a comprobar que todos estén a salvo?",
+				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6076] = {
+		Title = "Q Suministro de Alimentos (120)",
+		Page = {
+			[1] = {
+				[1] = "Comida... Necesito comida... Ya estoy viendo todo amarillo...",
+				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6077] = {
+		Title = "Q Quitar el Polvo (120)",
+		Page = {
+			[1] = {
+				[1] = "Son difíciles de ver y extremadamente molestos. Ah... No te lo pido porque me dé pereza hacerlo yo mismo. Jajaja...",
+				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6078] = {
+		Title = "Q Recolección de Recuerdos (120)",
+		Page = {
+			[1] = {
+				[1] = "Cuando me di cuenta, ¡todos los recuerdos que habías reunido para mí habían desaparecido! Estoy seguro de que los dejé bien guardados aquí...",
+				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 120^000000",
+				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6079] = {
+		Title = "Activación de Ranura en Guantes",
+		Page = {
+			[1] = {
+				[1] = "Soy Natullo, especialista en ranuras. Tráeme un objeto vendido por mi hermano menor, Napara, y 5 <ITEM>[Moneda de Splendide]<INFO>6081</INFO></ITEM>, y abriré una ranura para ti.",
+				[2] = "<NAVI>[Especialista en Ranuras Natullo]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Objetos para Ranura",
+				[5] = "<ITEM>[Guante Str]<INFO>2917</INFO></ITEM>",
+				[6] = "<ITEM>[Guante Int]<INFO>2918</INFO></ITEM>",
+				[7] = "<ITEM>[Guante Agi]<INFO>2919</INFO></ITEM>",
+				[8] = "<ITEM>[Guante Vit]<INFO>2920</INFO></ITEM>",
+				[9] = "<ITEM>[Guante Dex]<INFO>2921</INFO></ITEM>",
+				[10] = "<ITEM>[Guante Luk]<INFO>2922</INFO></ITEM>",
+				[11] = "",
+				[12] = "» Costo",
+				[13] = "<ITEM>[Moneda de Splendide]<INFO>6081</INFO></ITEM> 5",
+				[14] = "",
+				[15] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6080] = {
+		Title = "Creación de Sombreros de Disfraz",
+		Page = {
+			[1] = {
+				[1] = "Vaya, vaya. Los Laphines solo saben decorar Yais y nadie se interesa por los sombreros bonitos. ¡Pensé que iba a morirme de hambre! Si hay algún sombrero que siempre hayas querido, elige uno de la lista.",
+				[2] = "<NAVI>[Especialista en Réplicas Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Materiales Comunes",
+				[5] = "<ITEM>[Moneda de Splendide]<INFO>6081</INFO></ITEM> 50",
+				[6] = "<ITEM>[Espejo de Cristal]<INFO>747</INFO></ITEM> 4",
+				[7] = "<ITEM>[Polvo Mágico de Hada]<INFO>6395</INFO></ITEM> 1",
+				[8] = "<ITEM>[Esmeralda]<INFO>721</INFO></ITEM> 10",
+				[9] = "<ITEM>[Rubí]<INFO>723</INFO></ITEM> 10",
+				[10] = "<ITEM>[Topacio]<INFO>728</INFO></ITEM> 10",
+				[11] = "<ITEM>[Circón]<INFO>729</INFO></ITEM> 10",
+				[12] = "",
+				[13] = "» Lista de Creación",
+				[14] = "<ITEM>[Sombrero de Rana]<INFO>5447</INFO></ITEM>",
+				[15] = "<ITEM>[Flor Romántica]<INFO>2269</INFO></ITEM>",
+				[16] = "<ITEM>[Cuernos Majestuosos]<INFO>2256</INFO></ITEM>",
+				[17] = "<ITEM>[Rubor]<INFO>5040</INFO></ITEM>",
+				[18] = "<ITEM>[Yelmo de Valquiria]<INFO>5171</INFO></ITEM>",
+				[19] = "<ITEM>[Sombrero de Deviruchi]<INFO>5038</INFO></ITEM>",
+				[20] = "<ITEM>[Máscara de Asesino]<INFO>5096</INFO></ITEM>",
+				[21] = "<ITEM>[Orejas Élficas]<INFO>2286</INFO></ITEM>",
+				[22] = "<ITEM>[Máscara de Hahoe]<INFO>5176</INFO></ITEM>",
+				[23] = "<ITEM>[Gorra de Chico]<INFO>5016</INFO></ITEM>",
+				[24] = "",
+				[25] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
+				[26] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6082] = {
+		Title = "Episode 14.3 Batalla Decisiva#Batalla Decisiva#14.3#",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.3",
+				[2] = "Batalla Decisiva (決戰)",
+				[3] = "",
+				[4] = ">Misiones principales de Batalla Decisiva",
+				[5] = "<TIPBOX>Q Tierra ardiente (140)<INFO>6083</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Misiones generales de Batalla Decisiva",
+				[8] = "<TIPBOX>Q Sociedad de la Bendición de la Destrucción (150)<INFO>6093</INFO></TIPBOX>",
+				[9] = "",
+				[10] = ">Misiones repetibles de Batalla Decisiva",
+				[11] = "<TIPBOX>Q Neutralizar la amenaza (140)<INFO>6087</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Recuperación de energía mágica (140)<INFO>6088</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Caja descontrolada (140)<INFO>6089</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Subyugación del Dios Demonio (160)<INFO>6084</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Poder mágico del orbe errante (160)<INFO>6085</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Araña de Escarcha y Lobo de Fuego (160)<INFO>6086</INFO></TIPBOX>",
+				[17] = "",
+				[18] = ">Otros contenidos de Batalla Decisiva",
+				[19] = "<TIPBOX>MD Cueva de Mors<INFO>6090</INFO></TIPBOX>",
+				[20] = "<TIPBOX>MD Templo del Dios Demonio<INFO>6091</INFO></TIPBOX>",
+				[21] = "<TIPBOX>MD Isla de Bios<INFO>6092</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Encantamiento del Anillo del Héroe<INFO>6094</INFO></TIPBOX>",
+				[23] = "",
+				[24] = "<TIPBOX>>Ver Episodio 14<INFO>4103</INFO></TIPBOX>",
+				[25] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6090] = {
+		Title = "MD Cueva de Mors#Batalla Decisiva#14.3#",
+		Page = {
+			[1] = {
+				[1] = "Según mi información, Morroc permanece oculto mientras intenta recuperar sus fuerzas. Pareces alguien que sigue el rastro de Morroc. ¿Qué te parecería convertirte en un héroe que traiga la paz al mundo?",
+				[2] = "<NAVI>[Miembro veterano del equipo de rastreo]<INFO>moro_cav,61,69,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "> Requisitos de la misión",
+				[5] = "^663399◈«T:Nv. base» 160^000000",
+				[6] = "<TIPBOX>Q Traductor (70)<INFO>6018</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>>Ver misiones de Batalla Decisiva<INFO>6082</INFO></TIPBOX>",
+				[9] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6092] = {
+		Title = "MD Isla de Bios#Batalla Decisiva#14.3#",
+		Page = {
+			[1] = {
+				[1] = "Este lugar... es el mismo que vi en aquel sueño. ¡El lugar exacto donde resucitó el Rey Demonio Morroc! Si mi sueño era cierto, ¡no hay duda de que las fuerzas del Rey Demonio Morroc se encuentran dentro de esa semilla amarilla!",
+				[2] = "<NAVI>[Anciano errante]<INFO>moro_cav,45,60,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "> Requisitos de la misión",
+				[5] = "^663399◈«T:Nv. base» 160^000000",
+				[6] = "",
+				[7] = "<TIPBOX>>Ver misiones de Batalla Decisiva<INFO>6082</INFO></TIPBOX>",
+				[8] = "<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6095] = {
+		Title = "Lugar del accidente de la aeronave#Aeronave#Lugar del accidente#Memorial#Historia paralela#Rastros de los héroes#",
+		Page = {
+			[1] = {
+				[1] = "¡Historia paralela de Rastros de los Héroes! Lugar del accidente de la aeronave",
+				[2] = "Un Laphine descubrió una Grieta Dimensional que conduce a las montañas de Mjolnir, donde se estrelló la aeronave. Explora la cavidad descubierta en el lugar del accidente.",
+				[3] = "<NAVI>[Grieta dimensional]<INFO>dali02,137,86,0,101,0</INFO></NAVI>",
+				[4] = "",
+				[5] = "» Requisitos de la misión",
+				[6] = "^663399§Nivel 200^000000",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver recompensas del lugar del accidente de la aeronave<INFO>6096</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6096] = {
+		Title = "Recompensas del lugar del accidente de la aeronave#Aeronave#Lugar del accidente#Memorial#Historia paralela#Rastros de los héroes#Recompensas#",
+		Page = {
+			[1] = {
+				[1] = "Las <ITEM>[Piedras imbuidas de poder mágico]<INFO>1000363</INFO></ITEM> obtenidas en el lugar del accidente de la aeronave pueden intercambiarse por diversas recompensas.",
+				[2] = "» Elixires y dispositivos de almacenamiento",
+				[3] = "<ITEM>[Elixir de crecimiento purificado]<INFO>100460</INFO></ITEM>",
+				[4] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 5 unidades",
+				[5] = "",
+				[6] = "<ITEM>[Dispositivo especial de almacenamiento morado]<INFO>100475</INFO></ITEM>",
+				[7] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[8] = "§ <ITEM>[Elixir de crecimiento purificado]<INFO>100460</INFO></ITEM> 10 unidades",
+				[9] = "",
+				[10] = "» Botas desconocidas y objetos de mejora",
+				[11] = "<ITEM>[Botas de fuerza desconocida]<INFO>470071</INFO></ITEM>",
+				[12] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[13] = "",
+				[14] = "<ITEM>[Botas de destreza desconocida]<INFO>470072</INFO></ITEM>",
+				[15] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[16] = "",
+				[17] = "<ITEM>[Botas de vitalidad desconocida]<INFO>470073</INFO></ITEM>",
+				[18] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[19] = "",
+				[20] = "<ITEM>[Botas de poder mágico desconocido]<INFO>470074</INFO></ITEM>",
+				[21] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[22] = "",
+				[23] = "<ITEM>[Botas de agilidad desconocida]<INFO>470076</INFO></ITEM>",
+				[24] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[25] = "",
+				[26] = "<ITEM>[Botas de suerte desconocida]<INFO>470077</INFO></ITEM>",
+				[27] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[28] = "",
+				[29] = "<ITEM>[Orbe imbuido de poder mágico]<INFO>100476</INFO></ITEM>",
+				[30] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 5 unidades",
+				[31] = "§ 30.000 Zeny",
+				[32] = "",
+				[33] = "» Álbumes de cartas",
+				[34] = "<ITEM>[Álbum de cartas contaminado]<INFO>100462</INFO></ITEM>",
+				[35] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 50 unidades",
+				[36] = "",
+				[37] = "<TIPBOX>»Ver lugar del accidente de la aeronave<INFO>6095</INFO></TIPBOX>",
+				[38] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
 	[7055] = {
 		Title = "Aparición del Episodio 17.1, Ilusión#episodio de misión",
 		Page = {
@@ -2400,6 +4772,318 @@ tbl_string = {
 				[9] = "",
 				[10] = "<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>",
 				[11] = "<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7068] = {
+		Title = "Episodio 17.2 Legado del Sabio",
+		Page = {
+			[1] = {
+				[1] = "El aventurero y sus compañeros entran en la mansión para recuperarla de las fuerzas de Ilusión que resisten dentro de la propiedad del Gran Sabio Varmundt.",
+				[2] = "Esperando una fuerte resistencia, el grupo se prepara y entra, pero termina siendo recibido por figuras inesperadas.",
+				[3] = "",
+				[4] = "Bienvenidos, invitados, a la Mansión del Sabio.",
+				[5] = "",
+				[6] = "<TIPBOX>»EP. 17.1 Ilusión<INFO>7055</INFO></TIPBOX> completada",
+				[7] = "^663399§Nivel 130 o superior^000000",
+				[8] = "",
+				[9] = "»Misión Inicial",
+				[10] = "<TIPBOX>Q Entrada Secreta de la Mansión<INFO>7069</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "»Misiones Principales",
+				[13] = "<TIPBOX>Q Rezagado en las Alcantarillas<INFO>7070</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Huésped de la Mansión<INFO>7071</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Lo que Queremos Saber<INFO>7072</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Operación de Exterminio de Plagas<INFO>7073</INFO></TIPBOX>",
+				[17] = "",
+				[18] = "»Misiones Secundarias",
+				[19] = "<TIPBOX>Q Asistir a la Coronación<INFO>7074</INFO></TIPBOX>",
+				[20] = "<TIPBOX>Q Jardín Acuático<INFO>7075</INFO></TIPBOX>",
+				[21] = "<TIPBOX>Q Silencio en la Biblioteca<INFO>7076</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Q Almacén Seguro<INFO>7077</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q El Baño, Criaturas Extrañas y Yo<INFO>7078</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Criadero Olvidado por el Tiempo<INFO>7079</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Jardín Oculto<INFO>7080</INFO></TIPBOX>",
+				[26] = "",
+				[27] = "»Misiones Diarias",
+				[28] = "<TIPBOX>Q Planta de Tratamiento y Central Nº 1<INFO>7081</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q Papas Fritas Esparcidas por Ilusión<INFO>7082</INFO></TIPBOX>",
+				[30] = "",
+				[31] = "<TIPBOX>»Ep17.2 Serie Automática<INFO>4111</INFO></TIPBOX>",
+				[32] = "",
+				[33] = "<TIPBOX>»Episodio 17<INFO>4106</INFO></TIPBOX>",
+				[34] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7069] = {
+		Title = "Q Entrada Secreta de la Mansión (130)",
+		Page = {
+			[1] = {
+				[1] = "La Mansión del Sabio por fin está abierta. Pero hay algo extraño en la entrada...",
+				[2] = "Cruza la planta de tratamiento de aguas residuales que lleva al interior de la mansión y comprueba si alguien se quedó atrás.",
+				[3] = "",
+				[4] = "<TIPBOX>»EP. 17.1 Ilusión<INFO>7055</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 130 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Rookie]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7070] = {
+		Title = "Q Rezagado en las Alcantarillas (130)",
+		Page = {
+			[1] = {
+				[1] = "Mientras avanzas rápidamente por la planta de tratamiento de aguas residuales, manteniéndote alerta, oyes una voz desesperada en algún lugar cercano.",
+				[2] = "Te acercas con cautela y encuentras un rostro conocido... ¿¡al borde de la muerte!?",
+				[3] = "",
+				[4] = "<TIPBOX>»Entrada Secreta de la Mansión<INFO>7069</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 130 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[???????????????]<INFO>ba_pw02,93,93,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7071] = {
+		Title = "Q Huésped de la Mansión (130)",
+		Page = {
+			[1] = {
+				[1] = "Las muñecas automáticas que protegían la enorme mansión de Varmundt reciben, extrañamente, con entusiasmo a unos aventureros que nunca habían visto y ofrecen su cooperación.",
+				[2] = "Alpha registra a los visitantes según el procedimiento, pero dice que ha surgido un problema y pide ayuda al aventurero.",
+				[3] = "",
+				[4] = "- Una misión diaria queda disponible después de completar esta misión.",
+				[5] = "Sin Señal (130)",
+				[6] = "",
+				[7] = "<TIPBOX>»Rezagado en las Alcantarillas<INFO>7070</INFO></TIPBOX> completada",
+				[8] = "^663399§Nivel 130 o superior^000000",
+				[9] = "",
+				[10] = "<NAVI>[Administrador de la Mansión α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7072] = {
+		Title = "Q Lo que Queremos Saber (130)",
+		Page = {
+			[1] = {
+				[1] = "Al volver a investigar la antigua rebelión de mercenarios usando registros gubernamentales, Tess encuentra discrepancias al compararlos con el testimonio de los veteranos de la Rebelión y queda desconcertado.",
+				[2] = "Decide volver a investigar interrogando a testigos que todavía recuerdan exactamente cómo era la mansión cuando servía de base durante la rebelión de mercenarios.",
+				[3] = "",
+				[4] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 130 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Philopontes]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7073] = {
+		Title = "Q Operación de Exterminio de Plagas (130)",
+		Page = {
+			[1] = {
+				[1] = "Tras obtener una promesa de responsabilidad por parte de la empresa, el aventurero recorre la mansión y, a petición del administrador, acepta recoger los núcleos de las muñecas automáticas destruidas.",
+				[2] = "Entonces, una persona inesperada aparece de repente ante ellos...!",
+				[3] = "¡Con un radar para rastrear a Ilusión en sus manos, los aventureros continúan la persecución hasta el final!",
+				[4] = "",
+				[5] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
+				[6] = "¡Hey! Cariño (130)",
+				[7] = "Recolección de Núcleos (130)",
+				[8] = "",
+				[9] = "<TIPBOX>»Lo que Queremos Saber<INFO>7072</INFO></TIPBOX> completada",
+				[10] = "^663399§Nivel 130 o superior^000000",
+				[11] = "",
+				[12] = "<NAVI>[Rookie]<INFO>ba_maison,116,67,0,101,0</INFO></NAVI>",
+				[13] = "",
+				[14] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7074] = {
+		Title = "Q Asistir a la Coronación (130)",
+		Page = {
+			[1] = {
+				[1] = "El largo viaje comenzó con la coronación del Reino de Rune-Midgarts y la Terra Gloria robada.",
+				[2] = "Ahora que todo empieza a volver a su lugar, presenciemos el nacimiento de un nuevo rey.",
+				[3] = "",
+				[4] = "<TIPBOX>»Operación de Exterminio de Plagas<INFO>7073</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 130 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Crux]<INFO>ba_maison,33,220,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7075] = {
+		Title = "Q Jardín Acuático (130)",
+		Page = {
+			[1] = {
+				[1] = "La criminal científica Elyumina se enamoró a primera vista de las muñecas automáticas de la mansión. Por desgracia, el sentimiento no era mutuo.",
+				[2] = "¿Qué tal buscar una medicina para Elyumina, que ha enfermado por su amor no correspondido? Les guste o no, ahora están en el mismo barco.",
+				[3] = "",
+				[4] = "- Cuatro misiones diarias quedan disponibles después de completar esta misión.",
+				[5] = "Paradero del Jardinero (130)",
+				[6] = "Caza de Silva Papilia (130)",
+				[7] = "Caza de Gran Papilia (180)",
+				[8] = "MD Jardín Acuático (130, 180)",
+				[9] = "",
+				[10] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[11] = "^663399§Nivel 130 o superior^000000",
+				[12] = "",
+				[13] = "<NAVI>[Rensiz]<INFO>ba_pw02,46,267,0,101,0</INFO></NAVI>",
+				[14] = "",
+				[15] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7076] = {
+		Title = "Q Silencio en la Biblioteca (130)",
+		Page = {
+			[1] = {
+				[1] = "Tamarin y los demás se dirigen a la biblioteca para investigar el legado que dejó el Sabio. La mansión puede estar excepcionalmente bien conservada, pero esto es demasiado... ¿y además hay un visitante misterioso?",
+				[2] = "",
+				[3] = "- Tres misiones diarias quedan disponibles después de completar esta misión.",
+				[4] = "Recolección Suprema de Chatarra (130)",
+				[5] = "Ratón de Biblioteca Supremo (130)",
+				[6] = "Organización Suprema de Libros (130)",
+				[7] = "",
+				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[9] = "^663399§Nivel 130 o superior^000000",
+				[10] = "",
+				[11] = "<NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7077] = {
+		Title = "Q Almacén Seguro (160)",
+		Page = {
+			[1] = {
+				[1] = "La propiedad del Gran Sabio cuenta con varios almacenes enormes acordes a su tamaño. Al visitar uno de ellos, el aventurero termina, sin querer, haciendo recados para una muñeca automática de carácter extremo.",
+				[2] = "",
+				[3] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
+				[4] = "Organizar el Almacén de la Planta Baja (160)",
+				[5] = "Organizar el Almacén del Sótano (170)",
+				[6] = "",
+				[7] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[8] = "^663399§Nivel 160 o superior^000000",
+				[9] = "",
+				[10] = "<NAVI>[Jjak]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7078] = {
+		Title = "Q El Baño, Criaturas Extrañas y Yo (130)",
+		Page = {
+			[1] = {
+				[1] = "Después de pasar por la planta de tratamiento de aguas residuales, llegas al baño para limpiarte. Sin embargo, la entrada está bloqueada porque han aparecido criaturas extrañas dentro.",
+				[2] = "Una mansión antigua no estaría completa sin al menos un fantasma.",
+				[3] = "",
+				[4] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
+				[5] = "Entre el Baño Caliente y el Frío (130)",
+				[6] = "Limpieza del Baño en Curso (130)",
+				[7] = "",
+				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[9] = "^663399§Nivel 130 o superior^000000",
+				[10] = "",
+				[11] = "<NAVI>[Caballero]<INFO>ba_in01,384,38,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7079] = {
+		Title = "Q Criadero Olvidado por el Tiempo (130)",
+		Page = {
+			[1] = {
+				[1] = "En un rincón de la gran propiedad se encuentra un criadero magnífico y hermoso, hogar de gatos y Pitayas.",
+				[2] = "¿Qué tal recorrer el criadero y probar la experiencia de cosecha bajo la guía de las muñecas automáticas?",
+				[3] = "",
+				[4] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
+				[5] = "Cosechar Colas de Pitaya (130)",
+				[6] = "Jugar con las Pitayas (150)",
+				[7] = "",
+				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[9] = "^663399§Nivel 130 o superior^000000",
+				[10] = "",
+				[11] = "<NAVI>[Ruinan]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7080] = {
+		Title = "Q Jardín Oculto (130)",
+		Page = {
+			[1] = {
+				[1] = "Las muñecas automáticas terminaron sus tareas, pero no había nadie que las revisara, así que esperaron durante mucho tiempo. Quieren nombrar al aventurero, cuya lectura mágica se parece a la de Varmundt, como administrador temporal para evaluar su trabajo.",
+				[2] = "Pero parece que cada muñeca administradora tiene una idea diferente en mente...",
+				[3] = "",
+				[4] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
+				[5] = "Área de Seguridad 1 (130)",
+				[6] = "Área de Seguridad 2 (180)",
+				[7] = "",
+				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[9] = "^663399§Nivel 130 o superior^000000",
+				[10] = "",
+				[11] = "<NAVI>[Encargado de Acceso al Jardín]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>",
+				[12] = "",
+				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7081] = {
+		Title = "Q Planta de Tratamiento y Central Nº 1 (130)",
+		Page = {
+			[1] = {
+				[1] = "Los robots de limpieza son tan lindos... El pequeño y adorable Robot de Limpieza Ω está triste porque unos monstruos terribles no le permiten limpiar.",
+				[2] = "Derrota a los monstruos de la planta de tratamiento de aguas residuales y de la Planta de Energía N.º 1 por el pequeño robot de limpieza.",
+				[3] = "",
+				[4] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 130 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Robot de Limpieza Ω]<INFO>ba_in01,30,329,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[7082] = {
+		Title = "Q Papas Fritas Esparcidas por Ilusión (180)",
+		Page = {
+			[1] = {
+				[1] = "Ilusión esparció chips de interferencia de señal por toda la Planta de Energía N.º 2 para dificultar las comunicaciones de las muñecas automáticas.",
+				[2] = "Son letales para las muñecas automáticas, pero para un aventurero vivo parecen aperitivos deliciosos y nutritivos. Voy a probar uno.",
+				[3] = "",
+				[4] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
+				[5] = "^663399§Nivel 180 o superior^000000",
+				[6] = "",
+				[7] = "<NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	},
@@ -2690,6 +5374,553 @@ tbl_string = {
 				[5] = "Para la fase 2, se proporcionará al sujeto un entorno estimulante que le permita extraer y liberar el poder de Núcleo de batalla, y se medirán sus límites…",
 				[6] = "",
 				[7] = "Aunque es necesario tener especial cuidado de que no muera por un estímulo excesivo, la tasa de mortalidad actual es del 100%; como alternativa, la voluntad de los espíritus residuales…"
+			}
+		}
+	},
+	[8118] = {
+		Title = "Episodio 16.1 Banquete para Héroes",
+		Page = {
+			[1] = {
+				[1] = "Las Siete Familias Reales desean confiar una importante tarea al héroe que regresó de la expedición al Nuevo Mundo.",
+				[2] = "",
+				[3] = "»Misiones Principales",
+				[4] = "<TIPBOX>Q Banquete para Héroes (100)<INFO>8119</INFO></TIPBOX>",
+				[5] = "<TIPBOX>Q Ritual de Bendición (100)<INFO>8120</INFO></TIPBOX>",
+				[6] = "<TIPBOX>Q Pista hacia la Verdad (100)<INFO>8121</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "»Misiones Generales",
+				[9] = "<TIPBOX>Q Casa Walter (100)<INFO>8122</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Casa Wigner (100)<INFO>8123</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Casa Roegenburg (100)<INFO>8124</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Casa Georg (100)<INFO>8125</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q ¿Por Qué Preparo el Banquete? (100)<INFO>8130</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Calabozo de Prontera (100)<INFO>8134</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Prisión Subterránea de Prontera (100)<INFO>8135</INFO></TIPBOX>",
+				[16] = "",
+				[17] = "»Misiones Repetibles",
+				[18] = "<TIPBOX>Q Un Pasado Inalcanzable (100)<INFO>8126</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Entrega Mis Sentimientos (100)<INFO>8127</INFO></TIPBOX>",
+				[20] = "<TIPBOX>Q Joyas y Tela (100)<INFO>8128</INFO></TIPBOX>",
+				[21] = "<TIPBOX>Q Entrenamiento Marcial (100)<INFO>8129</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Q Salsa Inesperada (100)<INFO>8131</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Griffon Asado Entero (100)<INFO>8132</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Lavando Quince Platos (100)<INFO>8133</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Para un Compañero Precioso (100)<INFO>8136</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Sin Ojo para la Belleza (100)<INFO>8137</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Una Vida Limpia (100)<INFO>8138</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q Está Oscuro, Humano (100)<INFO>8139</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q Una Vida Carcelaria Refrescante (100)<INFO>8140</INFO></TIPBOX>",
+				[30] = "<TIPBOX>Q Conteniendo la Oscuridad (100)<INFO>8141</INFO></TIPBOX>",
+				[31] = "<TIPBOX>Q Pequeño, pero Molesto (100)<INFO>8142</INFO></TIPBOX>",
+				[32] = "",
+				[33] = "<TIPBOX>»Ep16.1 Recompensas de Símbolo de Honor<INFO>4108</INFO></TIPBOX>",
+				[34] = "<TIPBOX>»Ep16.1 Serie Noblesse<INFO>4112</INFO></TIPBOX>",
+				[35] = "",
+				[36] = "<TIPBOX>»Episodio 16<INFO>4105</INFO></TIPBOX>",
+				[37] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8119] = {
+		Title = "Q Banquete para Héroes (100)",
+		Page = {
+			[1] = {
+				[1] = "Mensajeros reales de Prontera, Geffen y otras regiones buscan al héroe que regresó de la expedición al Nuevo Mundo.",
+				[2] = "<TIPBOX>»Misiones de Entrada al Nuevo Mundo<INFO>6015</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "Habla con uno de los mensajeros reales que aparecen abajo.",
+				[6] = "Prontera <NAVI>[Mensajero Real]<INFO>prontera,121,72,0,101,0</INFO></NAVI>",
+				[7] = "Geffen <NAVI>[Mensajero Real]<INFO>geffen,123,68,0,101,0</INFO></NAVI>",
+				[8] = "Payon <NAVI>[Mensajero Real]<INFO>payon,168,65,0,101,0</INFO></NAVI>",
+				[9] = "Morroc <NAVI>[Mensajero Real]<INFO>morocc,152,97,0,101,0</INFO></NAVI>",
+				[10] = "Alberta <NAVI>[Mensajero Real]<INFO>alberta,119,59,0,101,0</INFO></NAVI>",
+				[11] = "Aldebaran <NAVI>[Mensajero Real]<INFO>aldebaran,159,113,0,101,0</INFO></NAVI>",
+				[12] = "Juno <NAVI>[Mensajero Real]<INFO>yuno,162,132,0,101,0</INFO></NAVI>",
+				[13] = "Lighthalzen <NAVI>[Mensajero Real]<INFO>lighthalzen,150,100,0,101,0</INFO></NAVI>",
+				[14] = "Rachel <NAVI>[Mensajero Real]<INFO>rachel,119,131,0,101,0</INFO></NAVI>",
+				[15] = "Veins <NAVI>[Mensajero Real]<INFO>veins,200,108,0,101,0</INFO></NAVI>",
+				[16] = "",
+				[17] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[18] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8120] = {
+		Title = "Q Ritual de Bendición (100)",
+		Page = {
+			[1] = {
+				[1] = "Bell, una sirvienta del Palacio de Prontera, ha invitado al aventurero a asistir al banquete.",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Sirvienta Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8121] = {
+		Title = "Q Pista hacia la Verdad (100)",
+		Page = {
+			[1] = {
+				[1] = "En una habitación del Palacio de Prontera, la sirvienta Bell ha llamado a Nillem. ¿Qué descubrirás sobre el pasado de la familia real al investigar con él?",
+				[2] = "<TIPBOX>»Ritual de Bendición<INFO>8120</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Sirvienta Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8122] = {
+		Title = "Q Casa Walter (100)",
+		Page = {
+			[1] = {
+				[1] = "Visitaste la Casa Walter en el Palacio de Prontera y escuchaste las inquietudes de Walter Eisenach.",
+				[2] = "<TIPBOX>»Ritual de Bendición<INFO>8120</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Ian Walter]<INFO>prt_cas_q,20,184,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8123] = {
+		Title = "Q Casa Wigner (100)",
+		Page = {
+			[1] = {
+				[1] = "Visitaste la Casa Wigner en el Palacio de Prontera y conociste a los tres hermanos Wigner.",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Le Vieux Wigner]<INFO>prt_cas_q,82,20,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8124] = {
+		Title = "Q Casa Roegenburg (100)",
+		Page = {
+			[1] = {
+				[1] = "Visitaste la Casa Roegenburg en el Palacio de Prontera e investigaste los rumores sobre la familia Roegenburg.",
+				[2] = "<TIPBOX>»Casa Wigner<INFO>8123</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Maximilian Roegenburg]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8125] = {
+		Title = "Q Casa Georg (100)",
+		Page = {
+			[1] = {
+				[1] = "Visitaste la Casa Georg en el Palacio de Prontera, conociste a la reina y te enteraste de varios rumores.",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Reina]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8126] = {
+		Title = "Q Un Pasado Inalcanzable (100)",
+		Page = {
+			[1] = {
+				[1] = "Friedrich S. Heine, del Palacio de Prontera, desea aferrarse cada día incluso a la más mínima esperanza.",
+				[2] = "<TIPBOX>»Pista hacia la Verdad<INFO>8121</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Friedrich S. Heine]<INFO>prt_cas_q,21,83,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8127] = {
+		Title = "Q Entrega Mis Sentimientos (100)",
+		Page = {
+			[1] = {
+				[1] = "Jurgen Wigner, de la Casa Wigner en el Palacio de Prontera, parece haber encontrado el amor verdadero.",
+				[2] = "<TIPBOX>»Casa Wigner<INFO>8123</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Jurgen Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8128] = {
+		Title = "Q Joyas y Tela (100)",
+		Page = {
+			[1] = {
+				[1] = "La joven dama de la Casa Roegenburg quiere un hermoso vestido y accesorios raros que combinen con él.",
+				[2] = "<TIPBOX>»Casa Roegenburg<INFO>8124</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Agnes Roegenburg]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8129] = {
+		Title = "Q Entrenamiento Marcial (100)",
+		Page = {
+			[1] = {
+				[1] = "El mayordomo de la Casa Richard cree que eres capaz de completar sin problemas el entrenamiento marcial de la familia.",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Mayordomo de la Casa Richard]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8130] = {
+		Title = "Q ¿Por Qué Preparo el Banquete? (100)",
+		Page = {
+			[1] = {
+				[1] = "¡El chef real de la cocina del Palacio de Prontera te está apurando para que empieces cuanto antes a preparar los platos del banquete!",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Cocinero Real]<INFO>prt_cas,213,177,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8131] = {
+		Title = "Q Salsa Inesperada (100)",
+		Page = {
+			[1] = {
+				[1] = "Para un banquete perfecto, ayuda al maestro de las salsas de la cocina del Palacio de Prontera a preparar la salsa perfecta.",
+				[2] = "<TIPBOX>»¿Por Qué Preparo el Banquete?<INFO>8130</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Maestro de las Salsas]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8132] = {
+		Title = "Q Griffon Asado Entero (100)",
+		Page = {
+			[1] = {
+				[1] = "En la cocina del Palacio de Prontera, hoy vuelves a asar Griffons. Y también los sirves.",
+				[2] = "<TIPBOX>»¿Por Qué Preparo el Banquete?<INFO>8130</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Chef Real]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8133] = {
+		Title = "Q Lavando Quince Platos (100)",
+		Page = {
+			[1] = {
+				[1] = "Hay platos vacíos que lavar por todo el comedor del Palacio de Prontera. Por alguna razón, incluso hay algunos en el suelo.",
+				[2] = "<TIPBOX>»¿Por Qué Preparo el Banquete?<INFO>8130</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Lavaplatos]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8134] = {
+		Title = "Q Calabozo de Prontera (100)",
+		Page = {
+			[1] = {
+				[1] = "El capitán de la guardia busca a alguien que ayude a los habitantes de Prontera que están pasando por varios problemas.",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Sirvienta Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI> te guiará hasta el Capitán de la Guardia con Nillem.",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8135] = {
+		Title = "Q Prisión Subterránea de Prontera (100)",
+		Page = {
+			[1] = {
+				[1] = "¡Soy tu fan! ¿Podrías visitar la Prisión Subterránea de Prontera y ayudar a resolver los problemas de los prisioneros?",
+				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Elond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8136] = {
+		Title = "Q Para un Compañero Precioso (100)",
+		Page = {
+			[1] = {
+				[1] = "El prisionero 243AD265 de la Prisión Subterránea de Prontera oye una voz familiar que añoraba.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 243AD265]<INFO>prt_prison,243,259,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8137] = {
+		Title = "Q Sin Ojo para la Belleza (100)",
+		Page = {
+			[1] = {
+				[1] = "El prisionero 267BD184 de la Prisión Subterránea de Prontera necesita más ojos bonitos. Ojos.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 267BD184]<INFO>prt_prison,267,188,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8138] = {
+		Title = "Q Una Vida Limpia (100)",
+		Page = {
+			[1] = {
+				[1] = "El prisionero 267BD184 quiere llevar una vida limpia e higiénica incluso dentro de una celda.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 267BD184]<INFO>prt_prison,260,154,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8139] = {
+		Title = "Q Está Oscuro, Humano (100)",
+		Page = {
+			[1] = {
+				[1] = "El prisionero 95EB72 quiere ahuyentar la oscuridad de la Prisión Subterránea de Prontera.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 95EB72]<INFO>prt_prison,101,72,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8140] = {
+		Title = "Q Una Vida Carcelaria Refrescante (100)",
+		Page = {
+			[1] = {
+				[1] = "El prisionero 117FM188 no soporta el interior húmedo y mojado de la Prisión Subterránea de Prontera.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 117FM188]<INFO>prt_prison,111,188,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8141] = {
+		Title = "Q Conteniendo la Oscuridad (100)",
+		Page = {
+			[1] = {
+				[1] = "Hay algo indispensable para expulsar la oscura oscuridad del corazón del prisionero 103GD214.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 103GD214]<INFO>prt_prison,98,214,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[8142] = {
+		Title = "Q Pequeño, pero Molesto (100)",
+		Page = {
+			[1] = {
+				[1] = "El prisionero 55HK115 parece tener algo que necesita conseguir a toda costa y piensa hacer que tú lo busques.",
+				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
+				[3] = "^663399§Nivel 100 o superior^000000",
+				[4] = "",
+				[5] = "<NAVI>[Prisionero 55HK115]<INFO>prt_prison,55,118,0,101,0</INFO></NAVI>",
+				[6] = "",
+				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9031] = {
+		Title = "Personaje: clase",
+		Page = {
+			[1] = {
+				[1] = "En el mundo de Ragnarok existen diversas clases.",
+				[2] = "<TIPBOX>§Guía de cambio a 1.ª clase<INFO>9032</INFO></TIPBOX>",
+				[3] = "<TIPBOX>§Guía de cambio a 2.ª clase<INFO>9000</INFO></TIPBOX>",
+				[4] = "<TIPBOX>§Sobre las clases trascendentes<INFO>9051</INFO></TIPBOX>",
+				[5] = "<TIPBOX>§Guía de cambio a 3.ª clase<INFO>9052</INFO></TIPBOX>",
+				[6] = "<TIPBOX>§Guía de cambio a 4.ª clase<INFO>9136</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>§Guía de cambio a clases ampliadas<INFO>9039</INFO></TIPBOX>",
+				[9] = "<TIPBOX>§Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>§Guía de los Doram<INFO>9044</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Clases de fabricación<INFO>9068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»A la página de personaje<INFO>1001</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Misiones<INFO>4100</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9043] = {
+		Title = "JQ Cambio a «T:Superprincipiante»",
+		Page = {
+			[1] = {
+				[1] = "«T:Superprincipiante» es una clase que, a diferencia del «T:Superprincipiante» que solo puede usar «T:Primeros auxilios» y «T:Hacerse el muerto», puede usar la mayoría de las habilidades de las 6 clases de 1.ª clase. El mayor atractivo de «T:Superprincipiante» es que puede aprender la mayoría de las habilidades de las clases de 1.ª clase.",
+				[2] = "Sin embargo, como «T:Superprincipiante» también es una clase por derecho propio, una vez te conviertas en «T:Superprincipiante» ya no podrás cambiar a otra clase de 1.ª clase.",
+				[3] = "^663399§Nivel base 45 o superior^000000",
+				[4] = "^663399§Nivel de oficio 10 o superior^000000",
+				[5] = "^663399§Objetivo: «T:Superprincipiante»^000000",
+				[6] = "",
+				[7] = "<NAVI>[Tzerero]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>",
+				[8] = "",
+				[9] = "Los «T:Superprincipiante» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[10] = "<TIPBOX>▷Hipernovato<INFO>4250</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Volver a la página anterior<INFO>9039</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9044] = {
+		Title = "JQ Guía de los Doram",
+		Page = {
+			[1] = {
+				[1] = "Los Doram poseen grandes capacidades como «T:Invocador» y, por lo general, eligen el camino para convertirse en «T:Invocador».",
+				[2] = "La aventura de un «T:Invocador» Doram que acaba de debutar como aventurero en Midgard comienza ahora.",
+				[3] = "",
+				[4] = "Los «T:Invocador» con nivel base 200 y nivel de oficio (Job «T:Nivel») 60 o superior podrán cambiar a una clase ampliada superior.",
+				[5] = "<TIPBOX>▷«T:Animista»<INFO>4251</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Volver a la página anterior<INFO>9039</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9047] = {
+		Title = "JQ Cambio a «T:Emperador Estelar»",
+		Page = {
+			[1] = {
+				[1] = "Entre los «T:Maestro de Taekwon» que manejan el poder del sol, la luna y las estrellas, aquellos que ansiaban un conocimiento más amplio para fortalecer su poder llegaron a comprender el conocimiento del universo, principio de todas las cosas, y comenzaron a llamarse Emperadores Estelares.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 50 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Maestro de Taekwon»^000000",
+				[5] = "",
+				[6] = "<NAVI>[«T:Hombre Bien Vestido»]<INFO>payon,171,171,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Emperador Estelar» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷«T:Emperador Celestial»<INFO>4252</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9045</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9048] = {
+		Title = "JQ Cambio a «T:Segador de Almas»",
+		Page = {
+			[1] = {
+				[1] = "La gran «T:Vinculador de Almas» que alcanzó la comprensión de la energía espiritual se convirtió en «T:Segador de Almas», pero ya no pudo regresar a la superficie. En su lugar, espera a los «T:Vinculador de Almas» que, como ella, lleguen al más allá para estudiar las almas.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 50 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Vinculador de Almas»^000000",
+				[5] = "",
+				[6] = "<NAVI>[«T:Banyak»]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Segador de Almas» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷«T:Asceta de Almas»<INFO>4253</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9046</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9049] = {
+		Title = "JQ Cambio a «T:Kagerou»/«T:Oboro»",
+		Page = {
+			[1] = {
+				[1] = "El clan que durante largos años había permanecido oculto, conteniendo el aliento entre las «T:Sombra» del mundo, reveló su presencia cuando llegó una época turbulenta y caótica, pero aún no ha aparecido quien herede su verdadero nombre.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Ninja»^000000",
+				[5] = "",
+				[6] = "<NAVI>[Camino al lugar de cambio de clase Ninja]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Kagerou»/«T:Oboro» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷«T:Shinkiro»/«T:Shiranui»<INFO>4254</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9041</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9050] = {
+		Title = "JQ Cambio a «T:Rebelde»",
+		Page = {
+			[1] = {
+				[1] = "«T:Rebelde», clase superior de «T:Pistolero», capaz de manejar con destreza todo tipo de armas de fuego, no solo puede aprovechar todas las armas de fuego, sino también marcar a sus objetivos o infligir mucho daño a los objetivos marcados.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Pistolero»^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hombre sospechoso]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Rebelde» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷Guerrillero<INFO>4255</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9042</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	},
@@ -3347,6 +6578,188 @@ tbl_string = {
 				[71] = "",
 				[72] = "<TIPBOX>•Página anterior<INFO>9162</INFO></TIPBOX>",
 				[73] = "<TIPBOX>•Ver la lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10001] = {
+		Title = "Episodio 15.1 Phantasmagorika!!",
+		Page = {
+			[1] = {
+				[1] = "Phantasmagorika es un gran proyecto de excavación que cuenta la historia de los secretos de Verus City y de las personas que vivieron en su avanzada civilización.",
+				[2] = "",
+				[3] = "",
+				[4] = "»Misiones Principales de Phantasmagorika",
+				[5] = "<TIPBOX>Q ¡Rumbo a Phantasmagorika! (140)<INFO>10002</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "»Misiones Secundarias de Phantasmagorika",
+				[8] = "<TIPBOX>Registro del Equipo de Excavación (140)<INFO>10003</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Equipo de Excavación Atnaad (140)<INFO>10004</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Informe Diario de Resultados (140)<INFO>10005</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "»Misiones Generales de Phantasmagorika",
+				[13] = "<TIPBOX>Q Despejar el Pasaje (140)<INFO>10006</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Bloquear la Amenaza (140)<INFO>10007</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Nueva Fuente de Energía (140)<INFO>10008</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Recolección de Núcleos (140)<INFO>10009</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Una Vuelta por la Zona (140)<INFO>10010</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Ataque de la Bendición de la Destrucción (140)<INFO>10011</INFO></TIPBOX>",
+				[19] = "",
+				[20] = "<TIPBOX>»Episodio 15<INFO>4104</INFO></TIPBOX>",
+				[21] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10002] = {
+		Title = "Q ¡Rumbo a Phantasmagorika! (140)",
+		Page = {
+			[1] = {
+				[1] = "¡Rekenber está reclutando personas capaces para participar en el proyecto Phantasmagorika en las nuevas ruinas descubiertas de Juperos!",
+				[2] = "<NAVI>[Promotor (Prontera)]<INFO>prontera,121,77,0,101,0</INFO></NAVI>",
+				[3] = "<NAVI>[Promotor (Morroc)]<INFO>morocc,208,287,0,101,0</INFO></NAVI>",
+				[4] = "<NAVI>[Promotor (Payon)]<INFO>payon,174,113,0,101,0</INFO></NAVI>",
+				[5] = "<NAVI>[Promotor (Geffen)]<INFO>geffen,135,64,0,101,0</INFO></NAVI>",
+				[6] = "<NAVI>[Promotor (Alberta)]<INFO>alberta,119,65,0,101,0</INFO></NAVI>",
+				[7] = "",
+				[8] = "» Requisitos de la Misión",
+				[9] = "^663399§Nivel 140^000000",
+				[10] = "",
+				[11] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10003] = {
+		Title = "Registro del Equipo de Excavación (140)",
+		Page = {
+			[1] = {
+				[1] = "Pídele a Nara, en la recepción del Equipo de Excavación Phantasmagorika, que realice el proceso de inscripción.",
+				[2] = "<NAVI>[Nara]<INFO>verus04,182,168,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10004] = {
+		Title = "Q Equipo de Excavación Atnaad (140)",
+		Page = {
+			[1] = {
+				[1] = "Al entrar en el Grupo del Edén, podrás recibir instrucciones sobre cómo unirte al Equipo de Excavación Atnaad.",
+				[2] = "<NAVI>[Lime]<INFO>moc_para01,31,14,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10005] = {
+		Title = "Q Informe Diario de Resultados (140)",
+		Page = {
+			[1] = {
+				[1] = "Entrega al Comandante Louis el informe diario de resultados, sellado por el líder del Equipo de Excavación Atnaad.",
+				[2] = "<NAVI>[Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10006] = {
+		Title = "Q Despejar el Pasaje (140)",
+		Page = {
+			[1] = {
+				[1] = "Elimina a los monstruos del pasaje hacia las ruinas del este y luego informa a la Administradora Michelle.",
+				[2] = "<NAVI>[Administradora Michelle]<INFO>ver_eju,114,40,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10007] = {
+		Title = "Q Bloquear la Amenaza (140)",
+		Page = {
+			[1] = {
+				[1] = "Monstruos mecánicos agresivos aparecen en el principal yacimiento de excavación de Phantasmagorika. Derrótalos para que el trabajo avance sin problemas.",
+				[2] = "<NAVI>[Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10008] = {
+		Title = "Q Nueva Fuente de Energía (140)",
+		Page = {
+			[1] = {
+				[1] = "Para ayudar en la investigación de Lloyd, prepara 10 botellas de vidrio vacías y recoge la energía condensada encontrada entre los restos mecánicos.",
+				[2] = "<NAVI>[Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "<TIPBOX>Equipo de Excavación Atnaad<INFO>10004</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10009] = {
+		Title = "Q Recolección de Núcleos (140)",
+		Page = {
+			[1] = {
+				[1] = "Para ayudar en la investigación de Ian Atnaad, recoge 20 dispositivos de control operativo en la plaza interior.",
+				[2] = "<NAVI>[Ian Atnaad]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10010] = {
+		Title = "Q Una Vuelta por la Zona (140)",
+		Page = {
+			[1] = {
+				[1] = "Ayuda al ocupado capitán de seguridad Kesler escuchando los problemas de sus agentes: Salgran, Geref, Sweden y Fifth.",
+				[2] = "<NAVI>[Capitán de Seguridad Kesler]<INFO>verus04,133,212,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[10011] = {
+		Title = "Q Ataque de la Bendición de la Destrucción (140)",
+		Page = {
+			[1] = {
+				[1] = "¡Un evento que ocurre de forma aleatoria! Impide que el grupo Bendición de la Destrucción ataque y destruya las ruinas.",
+				[2] = "<NAVI>[Capitán de Seguridad Kesler]<INFO>verus04,133,212,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "» Requisitos de la Misión",
+				[5] = "^663399§Nivel 140^000000",
+				[6] = "",
+				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	},
@@ -6075,3214 +9488,6 @@ tbl_string = {
 				[17] = "<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>",
 				[18] = "<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>",
 				[19] = "<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9031] = {
-		Title = "Personaje: clase",
-		Page = {
-			[1] = {
-				[1] = "En el mundo de Ragnarok existen diversas clases.",
-				[2] = "<TIPBOX>§Guía de cambio a 1.ª clase<INFO>9032</INFO></TIPBOX>",
-				[3] = "<TIPBOX>§Guía de cambio a 2.ª clase<INFO>9000</INFO></TIPBOX>",
-				[4] = "<TIPBOX>§Sobre las clases trascendentes<INFO>9051</INFO></TIPBOX>",
-				[5] = "<TIPBOX>§Guía de cambio a 3.ª clase<INFO>9052</INFO></TIPBOX>",
-				[6] = "<TIPBOX>§Guía de cambio a 4.ª clase<INFO>9136</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>§Guía de cambio a clases ampliadas<INFO>9039</INFO></TIPBOX>",
-				[9] = "<TIPBOX>§Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>§Guía de los Doram<INFO>9044</INFO></TIPBOX>",
-				[11] = "",
-				[12] = "<TIPBOX>»Clases de fabricación<INFO>9068</INFO></TIPBOX>",
-				[13] = "<TIPBOX>»A la página de personaje<INFO>1001</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Misiones<INFO>4100</INFO></TIPBOX>",
-				[15] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9043] = {
-		Title = "JQ Cambio a «T:Superprincipiante»",
-		Page = {
-			[1] = {
-				[1] = "«T:Superprincipiante» es una clase que, a diferencia del «T:Superprincipiante» que solo puede usar «T:Primeros auxilios» y «T:Hacerse el muerto», puede usar la mayoría de las habilidades de las 6 clases de 1.ª clase. El mayor atractivo de «T:Superprincipiante» es que puede aprender la mayoría de las habilidades de las clases de 1.ª clase.",
-				[2] = "Sin embargo, como «T:Superprincipiante» también es una clase por derecho propio, una vez te conviertas en «T:Superprincipiante» ya no podrás cambiar a otra clase de 1.ª clase.",
-				[3] = "^663399§Nivel base 45 o superior^000000",
-				[4] = "^663399§Nivel de oficio 10 o superior^000000",
-				[5] = "^663399§Objetivo: «T:Superprincipiante»^000000",
-				[6] = "",
-				[7] = "<NAVI>[Tzerero]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>",
-				[8] = "",
-				[9] = "Los «T:Superprincipiante» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
-				[10] = "<TIPBOX>▷Hipernovato<INFO>4250</INFO></TIPBOX>",
-				[11] = "",
-				[12] = "<TIPBOX>»Volver a la página anterior<INFO>9039</INFO></TIPBOX>",
-				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9044] = {
-		Title = "JQ Guía de los Doram",
-		Page = {
-			[1] = {
-				[1] = "Los Doram poseen grandes capacidades como «T:Invocador» y, por lo general, eligen el camino para convertirse en «T:Invocador».",
-				[2] = "La aventura de un «T:Invocador» Doram que acaba de debutar como aventurero en Midgard comienza ahora.",
-				[3] = "",
-				[4] = "Los «T:Invocador» con nivel base 200 y nivel de oficio (Job «T:Nivel») 60 o superior podrán cambiar a una clase ampliada superior.",
-				[5] = "<TIPBOX>▷«T:Animista»<INFO>4251</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "<TIPBOX>»Volver a la página anterior<INFO>9039</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9047] = {
-		Title = "JQ Cambio a «T:Emperador Estelar»",
-		Page = {
-			[1] = {
-				[1] = "Entre los «T:Maestro de Taekwon» que manejan el poder del sol, la luna y las estrellas, aquellos que ansiaban un conocimiento más amplio para fortalecer su poder llegaron a comprender el conocimiento del universo, principio de todas las cosas, y comenzaron a llamarse Emperadores Estelares.",
-				[2] = "^663399§Nivel base 99 o superior^000000",
-				[3] = "^663399§Nivel de oficio 50 o superior^000000",
-				[4] = "^663399§Objetivo: «T:Maestro de Taekwon»^000000",
-				[5] = "",
-				[6] = "<NAVI>[«T:Hombre Bien Vestido»]<INFO>payon,171,171,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "Los «T:Emperador Estelar» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
-				[9] = "<TIPBOX>▷«T:Emperador Celestial»<INFO>4252</INFO></TIPBOX>",
-				[10] = "",
-				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9045</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9048] = {
-		Title = "JQ Cambio a «T:Segador de Almas»",
-		Page = {
-			[1] = {
-				[1] = "La gran «T:Vinculador de Almas» que alcanzó la comprensión de la energía espiritual se convirtió en «T:Segador de Almas», pero ya no pudo regresar a la superficie. En su lugar, espera a los «T:Vinculador de Almas» que, como ella, lleguen al más allá para estudiar las almas.",
-				[2] = "^663399§Nivel base 99 o superior^000000",
-				[3] = "^663399§Nivel de oficio 50 o superior^000000",
-				[4] = "^663399§Objetivo: «T:Vinculador de Almas»^000000",
-				[5] = "",
-				[6] = "<NAVI>[«T:Banyak»]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "Los «T:Segador de Almas» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
-				[9] = "<TIPBOX>▷«T:Asceta de Almas»<INFO>4253</INFO></TIPBOX>",
-				[10] = "",
-				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9046</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9049] = {
-		Title = "JQ Cambio a «T:Kagerou»/«T:Oboro»",
-		Page = {
-			[1] = {
-				[1] = "El clan que durante largos años había permanecido oculto, conteniendo el aliento entre las «T:Sombra» del mundo, reveló su presencia cuando llegó una época turbulenta y caótica, pero aún no ha aparecido quien herede su verdadero nombre.",
-				[2] = "^663399§Nivel base 99 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: «T:Ninja»^000000",
-				[5] = "",
-				[6] = "<NAVI>[Camino al lugar de cambio de clase Ninja]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "Los «T:Kagerou»/«T:Oboro» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
-				[9] = "<TIPBOX>▷«T:Shinkiro»/«T:Shiranui»<INFO>4254</INFO></TIPBOX>",
-				[10] = "",
-				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9041</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[9050] = {
-		Title = "JQ Cambio a «T:Rebelde»",
-		Page = {
-			[1] = {
-				[1] = "«T:Rebelde», clase superior de «T:Pistolero», capaz de manejar con destreza todo tipo de armas de fuego, no solo puede aprovechar todas las armas de fuego, sino también marcar a sus objetivos o infligir mucho daño a los objetivos marcados.",
-				[2] = "^663399§Nivel base 99 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: «T:Pistolero»^000000",
-				[5] = "",
-				[6] = "<NAVI>[Hombre sospechoso]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "Los «T:Rebelde» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
-				[9] = "<TIPBOX>▷Guerrillero<INFO>4255</INFO></TIPBOX>",
-				[10] = "",
-				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9042</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4249] = {
-		Title = "Guía de cambio superior de clases ampliadas",
-		Page = {
-			[1] = {
-				[1] = "Las clases ampliadas con nivel base 200 y nivel de oficio (Job Nivel) 70 o superior pueden cambiar a una clase ampliada superior.",
-				[2] = "<TIPBOX>▷Hiperprincipiante<INFO>4250</INFO></TIPBOX>",
-				[3] = "<TIPBOX>▷Animista<INFO>4251</INFO></TIPBOX>",
-				[4] = "<TIPBOX>▷Emperador Celestial<INFO>4252</INFO></TIPBOX>",
-				[5] = "<TIPBOX>▷Asceta de Almas<INFO>4253</INFO></TIPBOX>",
-				[6] = "<TIPBOX>▷Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
-				[7] = "<TIPBOX>▷Guerrillero<INFO>4255</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "<TIPBOX>»Personaje: clase<INFO>9031</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4250] = {
-		Title = "JQ Cambio a Hiperprincipiante",
-		Page = {
-			[1] = {
-				[1] = "Los Hiperprincipiantes, que cambian de clase desde Superprincipiante, han investigado más a fondo las técnicas de otras clases, las han mejorado para que los débiles novatos puedan aprovecharlas mejor y las han convertido en habilidades de refuerzo propias. Superprincipiante sigue siendo débil, pero con estas técnicas mejoradas puede someter a sus enemigos en un instante.",
-				[2] = "^663399§Nivel base 200 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: Superprincipiante^000000",
-				[5] = "",
-				[6] = "<NAVI>[Grape]<INFO>aldebaran,110,70,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»JQ Cambio a Superprincipiante<INFO>9043</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4251] = {
-		Title = "JQ Cambio a Animista",
-		Page = {
-			[1] = {
-				[1] = "Animista, que cambia de clase desde Invocador, emprende un nuevo camino al encontrarse con bestias espirituales especiales. Los Doram que se convierten en Animista pueden disfrutar de aventuras aún más emocionantes con sus compañeros usando el poder de poderosas bestias espirituales.",
-				[2] = "^663399§Nivel base 200 o superior^000000",
-				[3] = "^663399§Nivel de oficio 60 o superior^000000",
-				[4] = "^663399§Objetivo: Invocador^000000",
-				[5] = "",
-				[6] = "<NAVI>[Tablón de encargos]<INFO>payon,165,116,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»JQ Guía de los Doram<INFO>9044</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4252] = {
-		Title = "JQ Cambio a Emperador Celestial",
-		Page = {
-			[1] = {
-				[1] = "Emperador Estelar, que ha comprendido las leyes del Movimiento celestial, renace como Emperador Celestial y puede manejar de forma concentrada la energía del sol, la luna y las estrellas.",
-				[2] = "^663399§Nivel base 200 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: Emperador Estelar^000000",
-				[5] = "",
-				[6] = "<NAVI>[Cartel]<INFO>payon,213,202,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»JQ Cambio a Emperador Estelar<INFO>9047</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4253] = {
-		Title = "JQ Cambio a Asceta de Almas",
-		Page = {
-			[1] = {
-				[1] = "Asceta de Almas, que cambia de clase desde Segador de Almas, ha perfeccionado las artes de talismanes como un poderoso medio para asistir en el manejo de las almas. Asceta de Almas puede emplear diversos talismanes para usar técnicas de apoyo y ataque más poderosas.",
-				[2] = "^663399§Nivel base 200 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: Segador de Almas^000000",
-				[5] = "",
-				[6] = "<NAVI>[Dependiente]<INFO>payon,197,119,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»JQ Cambio a Segador de Almas<INFO>9048</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4254] = {
-		Title = "JQ Cambio a Shinkiro/Shiranui",
-		Page = {
-			[1] = {
-				[1] = "Shinkiro/Shiranui, que cambian de clase desde Kagerou/Oboro, han aprendido artes secretas perdidas de los antiguos Ninja y ahora dominan poderosas técnicas de sigilo y ninjutsu.",
-				[2] = "^663399§Nivel base 200 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: Kagerou/Oboro^000000",
-				[5] = "",
-				[6] = "<NAVI>[Seoyeon]<INFO>amatsu,82,118,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»JQ Cambio a Kagerou/Oboro<INFO>9049</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4255] = {
-		Title = "JQ Cambio a Guerrillero",
-		Page = {
-			[1] = {
-				[1] = "Rebelde decide convertirse en Guerrillero, un vigilante que supervisa a empresas y gobiernos por la seguridad del pueblo. Podrás disfrutar del explosivo combate de Guerrillero, armado con poderosas armas de fuego.",
-				[2] = "^663399§Nivel base 200 o superior^000000",
-				[3] = "^663399§Nivel de oficio 70 o superior^000000",
-				[4] = "^663399§Objetivo: Rebelde^000000",
-				[5] = "",
-				[6] = "<NAVI>[Yana]<INFO>einbroch,313,324,0,101,0,</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»JQ Cambio a Rebelde<INFO>9050</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[5001] = {
-		Title = "MD Arena nocturna de Geffen(210)#ArenaNocturnaGeffenTorneoRastroDelHéroeMagia",
-		Page = {
-			[1] = {
-				[1] = "Hay informes de que existe un lugar donde los luchadores que destacaron en el Torneo Mágico se quitan las máscaras y participan en peleas campales. Quizá si preguntas al Hombre de aspecto feroz, puedas obtener información adecuada.",
-				[2] = "",
-				[3] = "» Estructura de la mazmorra",
-				[4] = "§ Puede repetirse una vez cada 3 días",
-				[5] = "§ Tiempo límite: 60 minutos",
-				[6] = "(aunque cada ronda tiene un tiempo límite de 1 minuto)",
-				[7] = "§ Nivel 210 o superior",
-				[8] = "",
-				[9] = "Punto inicial",
-				[10] = "<NAVI>[Hombre de aspecto feroz]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>",
-				[11] = "",
-				[12] = "Ubicación de acceso a la mazmorra",
-				[13] = "<NAVI>[Portal abandonado]<INFO>dali02,80,61,0,101,0</INFO></NAVI>",
-				[14] = "",
-				[15] = "Lugar de intercambio de equipo",
-				[16] = "<NAVI>[Máquina expendedora abandonada]<INFO>dali02,83,67,0,101,0</INFO></NAVI>",
-				[17] = "",
-				[18] = "<TIPBOX>»Volver a la página anterior<INFO>7129</INFO></TIPBOX>",
-				[19] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6095] = {
-		Title = "Lugar del accidente de la aeronave#Aeronave#Lugar del accidente#Memorial#Historia paralela#Rastros de los héroes#",
-		Page = {
-			[1] = {
-				[1] = "¡Historia paralela de Rastros de los Héroes! Lugar del accidente de la aeronave",
-				[2] = "Un Laphine descubrió una Grieta Dimensional que conduce a las montañas de Mjolnir, donde se estrelló la aeronave. Explora la cavidad descubierta en el lugar del accidente.",
-				[3] = "<NAVI>[Grieta dimensional]<INFO>dali02,137,86,0,101,0</INFO></NAVI>",
-				[4] = "",
-				[5] = "» Requisitos de la misión",
-				[6] = "^663399§Nivel 200^000000",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver recompensas del lugar del accidente de la aeronave<INFO>6096</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6096] = {
-		Title = "Recompensas del lugar del accidente de la aeronave#Aeronave#Lugar del accidente#Memorial#Historia paralela#Rastros de los héroes#Recompensas#",
-		Page = {
-			[1] = {
-				[1] = "Las <ITEM>[Piedras imbuidas de poder mágico]<INFO>1000363</INFO></ITEM> obtenidas en el lugar del accidente de la aeronave pueden intercambiarse por diversas recompensas.",
-				[2] = "» Elixires y dispositivos de almacenamiento",
-				[3] = "<ITEM>[Elixir de crecimiento purificado]<INFO>100460</INFO></ITEM>",
-				[4] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 5 unidades",
-				[5] = "",
-				[6] = "<ITEM>[Dispositivo especial de almacenamiento morado]<INFO>100475</INFO></ITEM>",
-				[7] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[8] = "§ <ITEM>[Elixir de crecimiento purificado]<INFO>100460</INFO></ITEM> 10 unidades",
-				[9] = "",
-				[10] = "» Botas desconocidas y objetos de mejora",
-				[11] = "<ITEM>[Botas de fuerza desconocida]<INFO>470071</INFO></ITEM>",
-				[12] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[13] = "",
-				[14] = "<ITEM>[Botas de destreza desconocida]<INFO>470072</INFO></ITEM>",
-				[15] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[16] = "",
-				[17] = "<ITEM>[Botas de vitalidad desconocida]<INFO>470073</INFO></ITEM>",
-				[18] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[19] = "",
-				[20] = "<ITEM>[Botas de poder mágico desconocido]<INFO>470074</INFO></ITEM>",
-				[21] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[22] = "",
-				[23] = "<ITEM>[Botas de agilidad desconocida]<INFO>470076</INFO></ITEM>",
-				[24] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[25] = "",
-				[26] = "<ITEM>[Botas de suerte desconocida]<INFO>470077</INFO></ITEM>",
-				[27] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
-				[28] = "",
-				[29] = "<ITEM>[Orbe imbuido de poder mágico]<INFO>100476</INFO></ITEM>",
-				[30] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 5 unidades",
-				[31] = "§ 30.000 Zeny",
-				[32] = "",
-				[33] = "» Álbumes de cartas",
-				[34] = "<ITEM>[Álbum de cartas contaminado]<INFO>100462</INFO></ITEM>",
-				[35] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 50 unidades",
-				[36] = "",
-				[37] = "<TIPBOX>»Ver lugar del accidente de la aeronave<INFO>6095</INFO></TIPBOX>",
-				[38] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6057] = {
-		Title = "Episodio 14.2 Eclage",
-		Page = {
-			[1] = {
-				[1] = "Episodio 14.2",
-				[2] = "Eclage",
-				[3] = "",
-				[4] = "»Misiones Principales de Eclage",
-				[5] = "<TIPBOX>Q Entrada a Eclage<INFO>6058</INFO></TIPBOX>",
-				[6] = "<TIPBOX>Q Goliat (120)<INFO>6059</INFO></TIPBOX>",
-				[7] = "<TIPBOX>Q Tiempo de Soñar (120)<INFO>6060</INFO></TIPBOX>",
-				[8] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[9] = "<TIPBOX>Q Un Rumor sobre el Rey (120)<INFO>6062</INFO></TIPBOX>",
-				[10] = "<TIPBOX>Q El Hermano Mayor de Kardui (120)<INFO>6063</INFO></TIPBOX>",
-				[11] = "<TIPBOX>Q El Orbe Desaparecido (120)<INFO>6064</INFO></TIPBOX>",
-				[12] = "",
-				[13] = "»Misiones Generales de Eclage",
-				[14] = "<TIPBOX>Q Luz y Oscuridad (120)<INFO>6065</INFO></TIPBOX>",
-				[15] = "<TIPBOX>Q El Caso del Ladrón Misterioso (120)<INFO>6066</INFO></TIPBOX>",
-				[16] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
-				[17] = "<TIPBOX>Q Bromistas de Eclage (120)<INFO>6068</INFO></TIPBOX>",
-				[18] = "<TIPBOX>Q Quiero Ser Grande y Hermoso (120)<INFO>6069</INFO></TIPBOX>",
-				[19] = "<TIPBOX>Q Recuperando la Memoria del Profesor Worm (120)<INFO>6070</INFO></TIPBOX>",
-				[20] = "",
-				[21] = "»Misiones Repetibles de Eclage",
-				[22] = "<TIPBOX>Q Yai Salvaje (120)<INFO>6071</INFO></TIPBOX>",
-				[23] = "<TIPBOX>Q Repartidor que Cruza el Espacio (120)<INFO>6072</INFO></TIPBOX>",
-				[24] = "<TIPBOX>Q Alborotadores de la Tierra de Flores (120)<INFO>6073</INFO></TIPBOX>",
-				[25] = "<TIPBOX>Q Laphines que Aman la Tierra (120)<INFO>6074</INFO></TIPBOX>",
-				[26] = "<TIPBOX>Q Aventureros Perdidos (120)<INFO>6075</INFO></TIPBOX>",
-				[27] = "<TIPBOX>Q Suministro de Alimentos (120)<INFO>6076</INFO></TIPBOX>",
-				[28] = "<TIPBOX>Q Quitar el Polvo (120)<INFO>6077</INFO></TIPBOX>",
-				[29] = "<TIPBOX>Q Recolección de Recuerdos (120)<INFO>6078</INFO></TIPBOX>",
-				[30] = "",
-				[31] = "»Otros de Eclage",
-				[32] = "<TIPBOX>Activación de Ranura en Guantes<INFO>6079</INFO></TIPBOX>",
-				[33] = "<TIPBOX>Creación de Sombreros de Disfraz<INFO>6080</INFO></TIPBOX>",
-				[34] = "",
-				[35] = "<TIPBOX>»Ver Episodio 14<INFO>4103</INFO></TIPBOX>",
-				[36] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6058] = {
-		Title = "Q Entrada a Eclage",
-		Page = {
-			[1] = {
-				[1] = "Quienes visitan Eclage por primera vez deben completar la documentación aquí antes de entrar. Debido al reciente aumento de visitantes procedentes del continente de Midgard, este procedimiento se ha vuelto necesario. Gracias por su comprensión.",
-				[2] = "<NAVI>[Guardia]<INFO>ecl_fild01,94,322,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "Ninguno",
-				[6] = "",
-				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6059] = {
-		Title = "Q Goliat (120)",
-		Page = {
-			[1] = {
-				[1] = "¿Podrías traerme una pieza nueva para reparar el puente? Mientras tanto usaré magia para mantenerlo firme y evitar que alguien se caiga al pasar.",
-				[2] = "<NAVI>[Carpintero de las Hadas]<INFO>eclage,102,32,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Entrada a Eclage<INFO>6058</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6060] = {
-		Title = "Q Tiempo de Soñar (120)",
-		Page = {
-			[1] = {
-				[1] = "Vas a Eclage ahora, ¿verdad? De camino, ¿podrías decirle a mi amigo Glacies, cerca de la entrada, que creo que hoy no podré ir?",
-				[2] = "<NAVI>[Carpintero de las Hadas]<INFO>eclage,102,32,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Entrada a Eclage<INFO>6058</INFO></TIPBOX>",
-				[7] = "<TIPBOX>Q Goliat (120)<INFO>6059</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6061] = {
-		Title = "Q Encuentro en una Tierra Extraña (120)",
-		Page = {
-			[1] = {
-				[1] = "Ven, hablemos un rato. Soy Fome, del centro de Alfheim. Y tú eres...",
-				[2] = "<NAVI>[Viajero Fome]<INFO>ecl_in01,32,52,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6062] = {
-		Title = "Q Un Rumor sobre el Rey (120)",
-		Page = {
-			[1] = {
-				[1] = "Preguntemos a distintas personas de Eclage qué han oído sobre los rumores acerca del nuevo rey.",
-				[2] = "<NAVI>[Viajero Fome]<INFO>ecl_in01,32,52,0,101,0</INFO></NAVI>",
-				[3] = "<NAVI>[Guardia de Eclage Leo]<INFO>eclage,112,40,0,101,0</INFO></NAVI>",
-				[4] = "<NAVI>[Laphine Conversando]<INFO>eclage,274,294,0,101,0</INFO></NAVI>",
-				[5] = "<NAVI>[Habitante de Eclage]<INFO>eclage,275,294,0,101,0</INFO></NAVI>",
-				[6] = "<NAVI>[Laphine Descansando]<INFO>ecl_in03,244,57,0,101,0</INFO></NAVI>",
-				[7] = "<NAVI>[Laphine de Servicio]<INFO>ecl_in03,245,54,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "» Requisitos de la Misión",
-				[10] = "^663399§Nivel 120^000000",
-				[11] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[12] = "",
-				[13] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6063] = {
-		Title = "Q El Hermano Mayor de Kardui (120)",
-		Page = {
-			[1] = {
-				[1] = "Mi hermano mayor está en la Torre de Bifrost. Quisiera que le entregaras una carta. Es un asunto muy personal, así que te lo pido como amigo. ¿Lo harás?",
-				[2] = "<NAVI>[Alcalde Jun Kardui]<INFO>ecl_in03,41,90,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[7] = "<TIPBOX>Q Un Rumor sobre el Rey (120)<INFO>6062</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6064] = {
-		Title = "Q El Orbe Desaparecido (120)",
-		Page = {
-			[1] = {
-				[1] = "No quedaría bien que Kardui o yo nos involucráramos directamente. Cuento contigo. Si averiguas algo, ven a donde está Kardui.",
-				[2] = "<NAVI>[Hisie]<INFO>ecl_tdun04,32,35,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[7] = "<TIPBOX>Q Un Rumor sobre el Rey (120)<INFO>6062</INFO></TIPBOX>",
-				[8] = "<TIPBOX>Q El Hermano Mayor de Kardui (120)<INFO>6063</INFO></TIPBOX>",
-				[9] = "",
-				[10] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[11] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6065] = {
-		Title = "Q Luz y Oscuridad (120)",
-		Page = {
-			[1] = {
-				[1] = "Por favor, te lo suplico. Haz que el Sr. Clever deje de hablar. Llevo un año escuchándolo y ya siento que me va a salir urticaria por todo el cuerpo.",
-				[2] = "<NAVI>[Guardia de la Prisión]<INFO>ecl_in02,133,115,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX> En curso",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6066] = {
-		Title = "Q El Caso del Ladrón Misterioso (120)",
-		Page = {
-			[1] = {
-				[1] = "¿Qué es ese sonido extraño? Creo que será mejor entrar y comprobarlo.",
-				[2] = "<NAVI>[Lugar del Sonido Sospechoso]<INFO>eclage,154,52,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6067] = {
-		Title = "Q Pilly, la Laphine (120)",
-		Page = {
-			[1] = {
-				[1] = "Mira este hermoso campo. Cada pequeña brizna de hierba y cada rama parecen respirar esta belleza...",
-				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Goliat (120)<INFO>6059</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6068] = {
-		Title = "Q Bromistas de Eclage (120)",
-		Page = {
-			[1] = {
-				[1] = "Han desaparecido varias cosas. Esto parece demasiado extraño para ser solo obra de los bromistas, ¿no crees?",
-				[2] = "<NAVI>[Eirinn]<INFO>ecl_in02,160,37,0,101,0</INFO></NAVI>",
-				[3] = "<NAVI>[Bourbon]<INFO>ecl_in03,175,69,0,101,0</INFO></NAVI>",
-				[4] = "<NAVI>[Cecilia]<INFO>ecl_in01,26,88,0,101,0</INFO></NAVI>",
-				[5] = "",
-				[6] = "» Requisitos de la Misión",
-				[7] = "^663399§Nivel 120^000000",
-				[8] = "",
-				[9] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6069] = {
-		Title = "Q Quiero Ser Grande y Hermoso (120)",
-		Page = {
-			[1] = {
-				[1] = "Mi hermano y yo solo nos manteníamos en contacto por carta. Cuando dejaron de llegar, vine corriendo a verlo y descubrí que lo habían llevado a prisión. ¿Podrías entregarle mi carta?",
-				[2] = "<NAVI>[Wuhari]<INFO>eclage,282,255,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6070] = {
-		Title = "Q Recuperando la Memoria del Profesor Worm (120)",
-		Page = {
-			[1] = {
-				[1] = "Quieres preguntarme algo, ¿verdad? Puede que mi memoria haya empeorado, ¡pero mi intuición se ha vuelto increíblemente aguda! Si quieres la respuesta que buscas, ayúdame a recuperar mis recuerdos.",
-				[2] = "<NAVI>[Profesor Worm]<INFO>ecl_tdun04,26,39,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6071] = {
-		Title = "Q Yai Salvaje (120)",
-		Page = {
-			[1] = {
-				[1] = "Los materiales de monstruos que me trajiste la otra vez se volvieron populares entre mis amigos. ¿Podrías conseguir algunos más?",
-				[2] = "<NAVI>[Guardia de Eclage]<INFO>ecl_in01,82,70,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6072] = {
-		Title = "Q Repartidor que Cruza el Espacio (120)",
-		Page = {
-			[1] = {
-				[1] = "Eh, perdona que te moleste, pero ¿podrías ir otra vez hoy a Splendide para recoger el correo?",
-				[2] = "<NAVI>[Mensajero Roy de Eclage]<INFO>ecl_fild01,205,86,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6073] = {
-		Title = "Q Alborotadores de la Tierra de Flores (120)",
-		Page = {
-			[1] = {
-				[1] = "Hemos recibido muchas quejas de que los Menblatts y Petals de la Tierra de Flores están molestando a los viajeros sin motivo. ¿Podrías ayudarme a ocuparme de ellos?",
-				[2] = "<NAVI>[Guardia de Eclage Leo]<INFO>eclage,112,40,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Encuentro en una Tierra Extraña (120)<INFO>6061</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6074] = {
-		Title = "Q Laphines que Aman la Tierra (120)",
-		Page = {
-			[1] = {
-				[1] = "¡Avísales a los Laphines que ya es hora de comenzar el trabajo de hoy!",
-				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6075] = {
-		Title = "Q Aventureros Perdidos (120)",
-		Page = {
-			[1] = {
-				[1] = "No es exactamente mi responsabilidad, pero sería triste que los aventureros de otro mundo se lastimaran. Creo que hasta la propia tierra se entristecería. ¿Me ayudas a comprobar que todos estén a salvo?",
-				[2] = "<NAVI>[Pilly]<INFO>ecl_fild01,190,93,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6076] = {
-		Title = "Q Suministro de Alimentos (120)",
-		Page = {
-			[1] = {
-				[1] = "Comida... Necesito comida... Ya estoy viendo todo amarillo...",
-				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6077] = {
-		Title = "Q Quitar el Polvo (120)",
-		Page = {
-			[1] = {
-				[1] = "Son difíciles de ver y extremadamente molestos. Ah... No te lo pido porque me dé pereza hacerlo yo mismo. Jajaja...",
-				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6078] = {
-		Title = "Q Recolección de Recuerdos (120)",
-		Page = {
-			[1] = {
-				[1] = "Cuando me di cuenta, ¡todos los recuerdos que habías reunido para mí habían desaparecido! Estoy seguro de que los dejé bien guardados aquí...",
-				[2] = "<NAVI>[New Oz]<INFO>ecl_tdun03,68,80,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 120^000000",
-				[6] = "<TIPBOX>Q Pilly, la Laphine (120)<INFO>6067</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6079] = {
-		Title = "Activación de Ranura en Guantes",
-		Page = {
-			[1] = {
-				[1] = "Soy Natullo, especialista en ranuras. Tráeme un objeto vendido por mi hermano menor, Napara, y 5 <ITEM>[Moneda de Splendide]<INFO>6081</INFO></ITEM>, y abriré una ranura para ti.",
-				[2] = "<NAVI>[Especialista en Ranuras Natullo]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Objetos para Ranura",
-				[5] = "<ITEM>[Guante Str]<INFO>2917</INFO></ITEM>",
-				[6] = "<ITEM>[Guante Int]<INFO>2918</INFO></ITEM>",
-				[7] = "<ITEM>[Guante Agi]<INFO>2919</INFO></ITEM>",
-				[8] = "<ITEM>[Guante Vit]<INFO>2920</INFO></ITEM>",
-				[9] = "<ITEM>[Guante Dex]<INFO>2921</INFO></ITEM>",
-				[10] = "<ITEM>[Guante Luk]<INFO>2922</INFO></ITEM>",
-				[11] = "",
-				[12] = "» Costo",
-				[13] = "<ITEM>[Moneda de Splendide]<INFO>6081</INFO></ITEM> 5",
-				[14] = "",
-				[15] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6080] = {
-		Title = "Creación de Sombreros de Disfraz",
-		Page = {
-			[1] = {
-				[1] = "Vaya, vaya. Los Laphines solo saben decorar Yais y nadie se interesa por los sombreros bonitos. ¡Pensé que iba a morirme de hambre! Si hay algún sombrero que siempre hayas querido, elige uno de la lista.",
-				[2] = "<NAVI>[Especialista en Réplicas Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Materiales Comunes",
-				[5] = "<ITEM>[Moneda de Splendide]<INFO>6081</INFO></ITEM> 50",
-				[6] = "<ITEM>[Espejo de Cristal]<INFO>747</INFO></ITEM> 4",
-				[7] = "<ITEM>[Polvo Mágico de Hada]<INFO>6395</INFO></ITEM> 1",
-				[8] = "<ITEM>[Esmeralda]<INFO>721</INFO></ITEM> 10",
-				[9] = "<ITEM>[Rubí]<INFO>723</INFO></ITEM> 10",
-				[10] = "<ITEM>[Topacio]<INFO>728</INFO></ITEM> 10",
-				[11] = "<ITEM>[Circón]<INFO>729</INFO></ITEM> 10",
-				[12] = "",
-				[13] = "» Lista de Creación",
-				[14] = "<ITEM>[Sombrero de Rana]<INFO>5447</INFO></ITEM>",
-				[15] = "<ITEM>[Flor Romántica]<INFO>2269</INFO></ITEM>",
-				[16] = "<ITEM>[Cuernos Majestuosos]<INFO>2256</INFO></ITEM>",
-				[17] = "<ITEM>[Rubor]<INFO>5040</INFO></ITEM>",
-				[18] = "<ITEM>[Yelmo de Valquiria]<INFO>5171</INFO></ITEM>",
-				[19] = "<ITEM>[Sombrero de Deviruchi]<INFO>5038</INFO></ITEM>",
-				[20] = "<ITEM>[Máscara de Asesino]<INFO>5096</INFO></ITEM>",
-				[21] = "<ITEM>[Orejas Élficas]<INFO>2286</INFO></ITEM>",
-				[22] = "<ITEM>[Máscara de Hahoe]<INFO>5176</INFO></ITEM>",
-				[23] = "<ITEM>[Gorra de Chico]<INFO>5016</INFO></ITEM>",
-				[24] = "",
-				[25] = "<TIPBOX>»Ver Misiones de Eclage<INFO>6057</INFO></TIPBOX>",
-				[26] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7068] = {
-		Title = "Episodio 17.2 Legado del Sabio",
-		Page = {
-			[1] = {
-				[1] = "El aventurero y sus compañeros entran en la mansión para recuperarla de las fuerzas de Ilusión que resisten dentro de la propiedad del Gran Sabio Varmundt.",
-				[2] = "Esperando una fuerte resistencia, el grupo se prepara y entra, pero termina siendo recibido por figuras inesperadas.",
-				[3] = "",
-				[4] = "Bienvenidos, invitados, a la Mansión del Sabio.",
-				[5] = "",
-				[6] = "<TIPBOX>»EP. 17.1 Ilusión<INFO>7055</INFO></TIPBOX> completada",
-				[7] = "^663399§Nivel 130 o superior^000000",
-				[8] = "",
-				[9] = "»Misión Inicial",
-				[10] = "<TIPBOX>Q Entrada Secreta de la Mansión<INFO>7069</INFO></TIPBOX>",
-				[11] = "",
-				[12] = "»Misiones Principales",
-				[13] = "<TIPBOX>Q Rezagado en las Alcantarillas<INFO>7070</INFO></TIPBOX>",
-				[14] = "<TIPBOX>Q Huésped de la Mansión<INFO>7071</INFO></TIPBOX>",
-				[15] = "<TIPBOX>Q Lo que Queremos Saber<INFO>7072</INFO></TIPBOX>",
-				[16] = "<TIPBOX>Q Operación de Exterminio de Plagas<INFO>7073</INFO></TIPBOX>",
-				[17] = "",
-				[18] = "»Misiones Secundarias",
-				[19] = "<TIPBOX>Q Asistir a la Coronación<INFO>7074</INFO></TIPBOX>",
-				[20] = "<TIPBOX>Q Jardín Acuático<INFO>7075</INFO></TIPBOX>",
-				[21] = "<TIPBOX>Q Silencio en la Biblioteca<INFO>7076</INFO></TIPBOX>",
-				[22] = "<TIPBOX>Q Almacén Seguro<INFO>7077</INFO></TIPBOX>",
-				[23] = "<TIPBOX>Q El Baño, Criaturas Extrañas y Yo<INFO>7078</INFO></TIPBOX>",
-				[24] = "<TIPBOX>Q Criadero Olvidado por el Tiempo<INFO>7079</INFO></TIPBOX>",
-				[25] = "<TIPBOX>Q Jardín Oculto<INFO>7080</INFO></TIPBOX>",
-				[26] = "",
-				[27] = "»Misiones Diarias",
-				[28] = "<TIPBOX>Q Planta de Tratamiento y Central Nº 1<INFO>7081</INFO></TIPBOX>",
-				[29] = "<TIPBOX>Q Papas Fritas Esparcidas por Ilusión<INFO>7082</INFO></TIPBOX>",
-				[30] = "",
-				[31] = "<TIPBOX>»Ep17.2 Serie Automática<INFO>4111</INFO></TIPBOX>",
-				[32] = "",
-				[33] = "<TIPBOX>»Episodio 17<INFO>4106</INFO></TIPBOX>",
-				[34] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7069] = {
-		Title = "Q Entrada Secreta de la Mansión (130)",
-		Page = {
-			[1] = {
-				[1] = "La Mansión del Sabio por fin está abierta. Pero hay algo extraño en la entrada...",
-				[2] = "Cruza la planta de tratamiento de aguas residuales que lleva al interior de la mansión y comprueba si alguien se quedó atrás.",
-				[3] = "",
-				[4] = "<TIPBOX>»EP. 17.1 Ilusión<INFO>7055</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 130 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Rookie]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7070] = {
-		Title = "Q Rezagado en las Alcantarillas (130)",
-		Page = {
-			[1] = {
-				[1] = "Mientras avanzas rápidamente por la planta de tratamiento de aguas residuales, manteniéndote alerta, oyes una voz desesperada en algún lugar cercano.",
-				[2] = "Te acercas con cautela y encuentras un rostro conocido... ¿¡al borde de la muerte!?",
-				[3] = "",
-				[4] = "<TIPBOX>»Entrada Secreta de la Mansión<INFO>7069</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 130 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[???????????????]<INFO>ba_pw02,93,93,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7071] = {
-		Title = "Q Huésped de la Mansión (130)",
-		Page = {
-			[1] = {
-				[1] = "Las muñecas automáticas que protegían la enorme mansión de Varmundt reciben, extrañamente, con entusiasmo a unos aventureros que nunca habían visto y ofrecen su cooperación.",
-				[2] = "Alpha registra a los visitantes según el procedimiento, pero dice que ha surgido un problema y pide ayuda al aventurero.",
-				[3] = "",
-				[4] = "- Una misión diaria queda disponible después de completar esta misión.",
-				[5] = "Sin Señal (130)",
-				[6] = "",
-				[7] = "<TIPBOX>»Rezagado en las Alcantarillas<INFO>7070</INFO></TIPBOX> completada",
-				[8] = "^663399§Nivel 130 o superior^000000",
-				[9] = "",
-				[10] = "<NAVI>[Administrador de la Mansión α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>",
-				[11] = "",
-				[12] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7072] = {
-		Title = "Q Lo que Queremos Saber (130)",
-		Page = {
-			[1] = {
-				[1] = "Al volver a investigar la antigua rebelión de mercenarios usando registros gubernamentales, Tess encuentra discrepancias al compararlos con el testimonio de los veteranos de la Rebelión y queda desconcertado.",
-				[2] = "Decide volver a investigar interrogando a testigos que todavía recuerdan exactamente cómo era la mansión cuando servía de base durante la rebelión de mercenarios.",
-				[3] = "",
-				[4] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 130 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Philopontes]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7073] = {
-		Title = "Q Operación de Exterminio de Plagas (130)",
-		Page = {
-			[1] = {
-				[1] = "Tras obtener una promesa de responsabilidad por parte de la empresa, el aventurero recorre la mansión y, a petición del administrador, acepta recoger los núcleos de las muñecas automáticas destruidas.",
-				[2] = "Entonces, una persona inesperada aparece de repente ante ellos...!",
-				[3] = "¡Con un radar para rastrear a Ilusión en sus manos, los aventureros continúan la persecución hasta el final!",
-				[4] = "",
-				[5] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
-				[6] = "¡Hey! Cariño (130)",
-				[7] = "Recolección de Núcleos (130)",
-				[8] = "",
-				[9] = "<TIPBOX>»Lo que Queremos Saber<INFO>7072</INFO></TIPBOX> completada",
-				[10] = "^663399§Nivel 130 o superior^000000",
-				[11] = "",
-				[12] = "<NAVI>[Rookie]<INFO>ba_maison,116,67,0,101,0</INFO></NAVI>",
-				[13] = "",
-				[14] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[15] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7074] = {
-		Title = "Q Asistir a la Coronación (130)",
-		Page = {
-			[1] = {
-				[1] = "El largo viaje comenzó con la coronación del Reino de Rune-Midgarts y la Terra Gloria robada.",
-				[2] = "Ahora que todo empieza a volver a su lugar, presenciemos el nacimiento de un nuevo rey.",
-				[3] = "",
-				[4] = "<TIPBOX>»Operación de Exterminio de Plagas<INFO>7073</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 130 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Crux]<INFO>ba_maison,33,220,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7075] = {
-		Title = "Q Jardín Acuático (130)",
-		Page = {
-			[1] = {
-				[1] = "La criminal científica Elyumina se enamoró a primera vista de las muñecas automáticas de la mansión. Por desgracia, el sentimiento no era mutuo.",
-				[2] = "¿Qué tal buscar una medicina para Elyumina, que ha enfermado por su amor no correspondido? Les guste o no, ahora están en el mismo barco.",
-				[3] = "",
-				[4] = "- Cuatro misiones diarias quedan disponibles después de completar esta misión.",
-				[5] = "Paradero del Jardinero (130)",
-				[6] = "Caza de Silva Papilia (130)",
-				[7] = "Caza de Gran Papilia (180)",
-				[8] = "MD Jardín Acuático (130, 180)",
-				[9] = "",
-				[10] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[11] = "^663399§Nivel 130 o superior^000000",
-				[12] = "",
-				[13] = "<NAVI>[Rensiz]<INFO>ba_pw02,46,267,0,101,0</INFO></NAVI>",
-				[14] = "",
-				[15] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7076] = {
-		Title = "Q Silencio en la Biblioteca (130)",
-		Page = {
-			[1] = {
-				[1] = "Tamarin y los demás se dirigen a la biblioteca para investigar el legado que dejó el Sabio. La mansión puede estar excepcionalmente bien conservada, pero esto es demasiado... ¿y además hay un visitante misterioso?",
-				[2] = "",
-				[3] = "- Tres misiones diarias quedan disponibles después de completar esta misión.",
-				[4] = "Recolección Suprema de Chatarra (130)",
-				[5] = "Ratón de Biblioteca Supremo (130)",
-				[6] = "Organización Suprema de Libros (130)",
-				[7] = "",
-				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[9] = "^663399§Nivel 130 o superior^000000",
-				[10] = "",
-				[11] = "<NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>",
-				[12] = "",
-				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7077] = {
-		Title = "Q Almacén Seguro (160)",
-		Page = {
-			[1] = {
-				[1] = "La propiedad del Gran Sabio cuenta con varios almacenes enormes acordes a su tamaño. Al visitar uno de ellos, el aventurero termina, sin querer, haciendo recados para una muñeca automática de carácter extremo.",
-				[2] = "",
-				[3] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
-				[4] = "Organizar el Almacén de la Planta Baja (160)",
-				[5] = "Organizar el Almacén del Sótano (170)",
-				[6] = "",
-				[7] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[8] = "^663399§Nivel 160 o superior^000000",
-				[9] = "",
-				[10] = "<NAVI>[Jjak]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>",
-				[11] = "",
-				[12] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7078] = {
-		Title = "Q El Baño, Criaturas Extrañas y Yo (130)",
-		Page = {
-			[1] = {
-				[1] = "Después de pasar por la planta de tratamiento de aguas residuales, llegas al baño para limpiarte. Sin embargo, la entrada está bloqueada porque han aparecido criaturas extrañas dentro.",
-				[2] = "Una mansión antigua no estaría completa sin al menos un fantasma.",
-				[3] = "",
-				[4] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
-				[5] = "Entre el Baño Caliente y el Frío (130)",
-				[6] = "Limpieza del Baño en Curso (130)",
-				[7] = "",
-				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[9] = "^663399§Nivel 130 o superior^000000",
-				[10] = "",
-				[11] = "<NAVI>[Caballero]<INFO>ba_in01,384,38,0,101,0</INFO></NAVI>",
-				[12] = "",
-				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7079] = {
-		Title = "Q Criadero Olvidado por el Tiempo (130)",
-		Page = {
-			[1] = {
-				[1] = "En un rincón de la gran propiedad se encuentra un criadero magnífico y hermoso, hogar de gatos y Pitayas.",
-				[2] = "¿Qué tal recorrer el criadero y probar la experiencia de cosecha bajo la guía de las muñecas automáticas?",
-				[3] = "",
-				[4] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
-				[5] = "Cosechar Colas de Pitaya (130)",
-				[6] = "Jugar con las Pitayas (150)",
-				[7] = "",
-				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[9] = "^663399§Nivel 130 o superior^000000",
-				[10] = "",
-				[11] = "<NAVI>[Ruinan]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>",
-				[12] = "",
-				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7080] = {
-		Title = "Q Jardín Oculto (130)",
-		Page = {
-			[1] = {
-				[1] = "Las muñecas automáticas terminaron sus tareas, pero no había nadie que las revisara, así que esperaron durante mucho tiempo. Quieren nombrar al aventurero, cuya lectura mágica se parece a la de Varmundt, como administrador temporal para evaluar su trabajo.",
-				[2] = "Pero parece que cada muñeca administradora tiene una idea diferente en mente...",
-				[3] = "",
-				[4] = "- Dos misiones diarias quedan disponibles después de completar esta misión.",
-				[5] = "Área de Seguridad 1 (130)",
-				[6] = "Área de Seguridad 2 (180)",
-				[7] = "",
-				[8] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[9] = "^663399§Nivel 130 o superior^000000",
-				[10] = "",
-				[11] = "<NAVI>[Encargado de Acceso al Jardín]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>",
-				[12] = "",
-				[13] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7081] = {
-		Title = "Q Planta de Tratamiento y Central Nº 1 (130)",
-		Page = {
-			[1] = {
-				[1] = "Los robots de limpieza son tan lindos... El pequeño y adorable Robot de Limpieza Ω está triste porque unos monstruos terribles no le permiten limpiar.",
-				[2] = "Derrota a los monstruos de la planta de tratamiento de aguas residuales y de la Planta de Energía N.º 1 por el pequeño robot de limpieza.",
-				[3] = "",
-				[4] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 130 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Robot de Limpieza Ω]<INFO>ba_in01,30,329,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[7082] = {
-		Title = "Q Papas Fritas Esparcidas por Ilusión (180)",
-		Page = {
-			[1] = {
-				[1] = "Ilusión esparció chips de interferencia de señal por toda la Planta de Energía N.º 2 para dificultar las comunicaciones de las muñecas automáticas.",
-				[2] = "Son letales para las muñecas automáticas, pero para un aventurero vivo parecen aperitivos deliciosos y nutritivos. Voy a probar uno.",
-				[3] = "",
-				[4] = "<TIPBOX>»Huésped de la Mansión<INFO>7071</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 180 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Página anterior<INFO>7068</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8118] = {
-		Title = "Episodio 16.1 Banquete para Héroes",
-		Page = {
-			[1] = {
-				[1] = "Las Siete Familias Reales desean confiar una importante tarea al héroe que regresó de la expedición al Nuevo Mundo.",
-				[2] = "",
-				[3] = "»Misiones Principales",
-				[4] = "<TIPBOX>Q Banquete para Héroes (100)<INFO>8119</INFO></TIPBOX>",
-				[5] = "<TIPBOX>Q Ritual de Bendición (100)<INFO>8120</INFO></TIPBOX>",
-				[6] = "<TIPBOX>Q Pista hacia la Verdad (100)<INFO>8121</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "»Misiones Generales",
-				[9] = "<TIPBOX>Q Casa Walter (100)<INFO>8122</INFO></TIPBOX>",
-				[10] = "<TIPBOX>Q Casa Wigner (100)<INFO>8123</INFO></TIPBOX>",
-				[11] = "<TIPBOX>Q Casa Roegenburg (100)<INFO>8124</INFO></TIPBOX>",
-				[12] = "<TIPBOX>Q Casa Georg (100)<INFO>8125</INFO></TIPBOX>",
-				[13] = "<TIPBOX>Q ¿Por Qué Preparo el Banquete? (100)<INFO>8130</INFO></TIPBOX>",
-				[14] = "<TIPBOX>Q Calabozo de Prontera (100)<INFO>8134</INFO></TIPBOX>",
-				[15] = "<TIPBOX>Q Prisión Subterránea de Prontera (100)<INFO>8135</INFO></TIPBOX>",
-				[16] = "",
-				[17] = "»Misiones Repetibles",
-				[18] = "<TIPBOX>Q Un Pasado Inalcanzable (100)<INFO>8126</INFO></TIPBOX>",
-				[19] = "<TIPBOX>Q Entrega Mis Sentimientos (100)<INFO>8127</INFO></TIPBOX>",
-				[20] = "<TIPBOX>Q Joyas y Tela (100)<INFO>8128</INFO></TIPBOX>",
-				[21] = "<TIPBOX>Q Entrenamiento Marcial (100)<INFO>8129</INFO></TIPBOX>",
-				[22] = "<TIPBOX>Q Salsa Inesperada (100)<INFO>8131</INFO></TIPBOX>",
-				[23] = "<TIPBOX>Q Griffon Asado Entero (100)<INFO>8132</INFO></TIPBOX>",
-				[24] = "<TIPBOX>Q Lavando Quince Platos (100)<INFO>8133</INFO></TIPBOX>",
-				[25] = "<TIPBOX>Q Para un Compañero Precioso (100)<INFO>8136</INFO></TIPBOX>",
-				[26] = "<TIPBOX>Q Sin Ojo para la Belleza (100)<INFO>8137</INFO></TIPBOX>",
-				[27] = "<TIPBOX>Q Una Vida Limpia (100)<INFO>8138</INFO></TIPBOX>",
-				[28] = "<TIPBOX>Q Está Oscuro, Humano (100)<INFO>8139</INFO></TIPBOX>",
-				[29] = "<TIPBOX>Q Una Vida Carcelaria Refrescante (100)<INFO>8140</INFO></TIPBOX>",
-				[30] = "<TIPBOX>Q Conteniendo la Oscuridad (100)<INFO>8141</INFO></TIPBOX>",
-				[31] = "<TIPBOX>Q Pequeño, pero Molesto (100)<INFO>8142</INFO></TIPBOX>",
-				[32] = "",
-				[33] = "<TIPBOX>»Ep16.1 Recompensas de Símbolo de Honor<INFO>4108</INFO></TIPBOX>",
-				[34] = "<TIPBOX>»Ep16.1 Serie Noblesse<INFO>4112</INFO></TIPBOX>",
-				[35] = "",
-				[36] = "<TIPBOX>»Episodio 16<INFO>4105</INFO></TIPBOX>",
-				[37] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8119] = {
-		Title = "Q Banquete para Héroes (100)",
-		Page = {
-			[1] = {
-				[1] = "Mensajeros reales de Prontera, Geffen y otras regiones buscan al héroe que regresó de la expedición al Nuevo Mundo.",
-				[2] = "<TIPBOX>»Misiones de Entrada al Nuevo Mundo<INFO>6015</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "Habla con uno de los mensajeros reales que aparecen abajo.",
-				[6] = "Prontera <NAVI>[Mensajero Real]<INFO>prontera,121,72,0,101,0</INFO></NAVI>",
-				[7] = "Geffen <NAVI>[Mensajero Real]<INFO>geffen,123,68,0,101,0</INFO></NAVI>",
-				[8] = "Payon <NAVI>[Mensajero Real]<INFO>payon,168,65,0,101,0</INFO></NAVI>",
-				[9] = "Morroc <NAVI>[Mensajero Real]<INFO>morocc,152,97,0,101,0</INFO></NAVI>",
-				[10] = "Alberta <NAVI>[Mensajero Real]<INFO>alberta,119,59,0,101,0</INFO></NAVI>",
-				[11] = "Aldebaran <NAVI>[Mensajero Real]<INFO>aldebaran,159,113,0,101,0</INFO></NAVI>",
-				[12] = "Juno <NAVI>[Mensajero Real]<INFO>yuno,162,132,0,101,0</INFO></NAVI>",
-				[13] = "Lighthalzen <NAVI>[Mensajero Real]<INFO>lighthalzen,150,100,0,101,0</INFO></NAVI>",
-				[14] = "Rachel <NAVI>[Mensajero Real]<INFO>rachel,119,131,0,101,0</INFO></NAVI>",
-				[15] = "Veins <NAVI>[Mensajero Real]<INFO>veins,200,108,0,101,0</INFO></NAVI>",
-				[16] = "",
-				[17] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[18] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8120] = {
-		Title = "Q Ritual de Bendición (100)",
-		Page = {
-			[1] = {
-				[1] = "Bell, una sirvienta del Palacio de Prontera, ha invitado al aventurero a asistir al banquete.",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Sirvienta Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8121] = {
-		Title = "Q Pista hacia la Verdad (100)",
-		Page = {
-			[1] = {
-				[1] = "En una habitación del Palacio de Prontera, la sirvienta Bell ha llamado a Nillem. ¿Qué descubrirás sobre el pasado de la familia real al investigar con él?",
-				[2] = "<TIPBOX>»Ritual de Bendición<INFO>8120</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Sirvienta Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8122] = {
-		Title = "Q Casa Walter (100)",
-		Page = {
-			[1] = {
-				[1] = "Visitaste la Casa Walter en el Palacio de Prontera y escuchaste las inquietudes de Walter Eisenach.",
-				[2] = "<TIPBOX>»Ritual de Bendición<INFO>8120</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Ian Walter]<INFO>prt_cas_q,20,184,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8123] = {
-		Title = "Q Casa Wigner (100)",
-		Page = {
-			[1] = {
-				[1] = "Visitaste la Casa Wigner en el Palacio de Prontera y conociste a los tres hermanos Wigner.",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Le Vieux Wigner]<INFO>prt_cas_q,82,20,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8124] = {
-		Title = "Q Casa Roegenburg (100)",
-		Page = {
-			[1] = {
-				[1] = "Visitaste la Casa Roegenburg en el Palacio de Prontera e investigaste los rumores sobre la familia Roegenburg.",
-				[2] = "<TIPBOX>»Casa Wigner<INFO>8123</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Maximilian Roegenburg]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8125] = {
-		Title = "Q Casa Georg (100)",
-		Page = {
-			[1] = {
-				[1] = "Visitaste la Casa Georg en el Palacio de Prontera, conociste a la reina y te enteraste de varios rumores.",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Reina]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8126] = {
-		Title = "Q Un Pasado Inalcanzable (100)",
-		Page = {
-			[1] = {
-				[1] = "Friedrich S. Heine, del Palacio de Prontera, desea aferrarse cada día incluso a la más mínima esperanza.",
-				[2] = "<TIPBOX>»Pista hacia la Verdad<INFO>8121</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Friedrich S. Heine]<INFO>prt_cas_q,21,83,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8127] = {
-		Title = "Q Entrega Mis Sentimientos (100)",
-		Page = {
-			[1] = {
-				[1] = "Jurgen Wigner, de la Casa Wigner en el Palacio de Prontera, parece haber encontrado el amor verdadero.",
-				[2] = "<TIPBOX>»Casa Wigner<INFO>8123</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Jurgen Wigner]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8128] = {
-		Title = "Q Joyas y Tela (100)",
-		Page = {
-			[1] = {
-				[1] = "La joven dama de la Casa Roegenburg quiere un hermoso vestido y accesorios raros que combinen con él.",
-				[2] = "<TIPBOX>»Casa Roegenburg<INFO>8124</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Agnes Roegenburg]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8129] = {
-		Title = "Q Entrenamiento Marcial (100)",
-		Page = {
-			[1] = {
-				[1] = "El mayordomo de la Casa Richard cree que eres capaz de completar sin problemas el entrenamiento marcial de la familia.",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Mayordomo de la Casa Richard]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8130] = {
-		Title = "Q ¿Por Qué Preparo el Banquete? (100)",
-		Page = {
-			[1] = {
-				[1] = "¡El chef real de la cocina del Palacio de Prontera te está apurando para que empieces cuanto antes a preparar los platos del banquete!",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Cocinero Real]<INFO>prt_cas,213,177,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8131] = {
-		Title = "Q Salsa Inesperada (100)",
-		Page = {
-			[1] = {
-				[1] = "Para un banquete perfecto, ayuda al maestro de las salsas de la cocina del Palacio de Prontera a preparar la salsa perfecta.",
-				[2] = "<TIPBOX>»¿Por Qué Preparo el Banquete?<INFO>8130</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Maestro de las Salsas]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8132] = {
-		Title = "Q Griffon Asado Entero (100)",
-		Page = {
-			[1] = {
-				[1] = "En la cocina del Palacio de Prontera, hoy vuelves a asar Griffons. Y también los sirves.",
-				[2] = "<TIPBOX>»¿Por Qué Preparo el Banquete?<INFO>8130</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Chef Real]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8133] = {
-		Title = "Q Lavando Quince Platos (100)",
-		Page = {
-			[1] = {
-				[1] = "Hay platos vacíos que lavar por todo el comedor del Palacio de Prontera. Por alguna razón, incluso hay algunos en el suelo.",
-				[2] = "<TIPBOX>»¿Por Qué Preparo el Banquete?<INFO>8130</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Lavaplatos]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8134] = {
-		Title = "Q Calabozo de Prontera (100)",
-		Page = {
-			[1] = {
-				[1] = "El capitán de la guardia busca a alguien que ayude a los habitantes de Prontera que están pasando por varios problemas.",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Sirvienta Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI> te guiará hasta el Capitán de la Guardia con Nillem.",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8135] = {
-		Title = "Q Prisión Subterránea de Prontera (100)",
-		Page = {
-			[1] = {
-				[1] = "¡Soy tu fan! ¿Podrías visitar la Prisión Subterránea de Prontera y ayudar a resolver los problemas de los prisioneros?",
-				[2] = "<TIPBOX>»Banquete para Héroes<INFO>8119</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Elond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8136] = {
-		Title = "Q Para un Compañero Precioso (100)",
-		Page = {
-			[1] = {
-				[1] = "El prisionero 243AD265 de la Prisión Subterránea de Prontera oye una voz familiar que añoraba.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 243AD265]<INFO>prt_prison,243,259,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8137] = {
-		Title = "Q Sin Ojo para la Belleza (100)",
-		Page = {
-			[1] = {
-				[1] = "El prisionero 267BD184 de la Prisión Subterránea de Prontera necesita más ojos bonitos. Ojos.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 267BD184]<INFO>prt_prison,267,188,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8138] = {
-		Title = "Q Una Vida Limpia (100)",
-		Page = {
-			[1] = {
-				[1] = "El prisionero 267BD184 quiere llevar una vida limpia e higiénica incluso dentro de una celda.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 267BD184]<INFO>prt_prison,260,154,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8139] = {
-		Title = "Q Está Oscuro, Humano (100)",
-		Page = {
-			[1] = {
-				[1] = "El prisionero 95EB72 quiere ahuyentar la oscuridad de la Prisión Subterránea de Prontera.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 95EB72]<INFO>prt_prison,101,72,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8140] = {
-		Title = "Q Una Vida Carcelaria Refrescante (100)",
-		Page = {
-			[1] = {
-				[1] = "El prisionero 117FM188 no soporta el interior húmedo y mojado de la Prisión Subterránea de Prontera.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 117FM188]<INFO>prt_prison,111,188,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8141] = {
-		Title = "Q Conteniendo la Oscuridad (100)",
-		Page = {
-			[1] = {
-				[1] = "Hay algo indispensable para expulsar la oscura oscuridad del corazón del prisionero 103GD214.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 103GD214]<INFO>prt_prison,98,214,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[8142] = {
-		Title = "Q Pequeño, pero Molesto (100)",
-		Page = {
-			[1] = {
-				[1] = "El prisionero 55HK115 parece tener algo que necesita conseguir a toda costa y piensa hacer que tú lo busques.",
-				[2] = "<TIPBOX>»Prisión Subterránea de Prontera<INFO>8135</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 100 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Prisionero 55HK115]<INFO>prt_prison,55,118,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Página anterior<INFO>8118</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10001] = {
-		Title = "Episodio 15.1 Phantasmagorika!!",
-		Page = {
-			[1] = {
-				[1] = "Phantasmagorika es un gran proyecto de excavación que cuenta la historia de los secretos de Verus City y de las personas que vivieron en su avanzada civilización.",
-				[2] = "",
-				[3] = "",
-				[4] = "»Misiones Principales de Phantasmagorika",
-				[5] = "<TIPBOX>Q ¡Rumbo a Phantasmagorika! (140)<INFO>10002</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "»Misiones Secundarias de Phantasmagorika",
-				[8] = "<TIPBOX>Registro del Equipo de Excavación (140)<INFO>10003</INFO></TIPBOX>",
-				[9] = "<TIPBOX>Q Equipo de Excavación Atnaad (140)<INFO>10004</INFO></TIPBOX>",
-				[10] = "<TIPBOX>Q Informe Diario de Resultados (140)<INFO>10005</INFO></TIPBOX>",
-				[11] = "",
-				[12] = "»Misiones Generales de Phantasmagorika",
-				[13] = "<TIPBOX>Q Despejar el Pasaje (140)<INFO>10006</INFO></TIPBOX>",
-				[14] = "<TIPBOX>Q Bloquear la Amenaza (140)<INFO>10007</INFO></TIPBOX>",
-				[15] = "<TIPBOX>Q Nueva Fuente de Energía (140)<INFO>10008</INFO></TIPBOX>",
-				[16] = "<TIPBOX>Q Recolección de Núcleos (140)<INFO>10009</INFO></TIPBOX>",
-				[17] = "<TIPBOX>Q Una Vuelta por la Zona (140)<INFO>10010</INFO></TIPBOX>",
-				[18] = "<TIPBOX>Q Ataque de la Bendición de la Destrucción (140)<INFO>10011</INFO></TIPBOX>",
-				[19] = "",
-				[20] = "<TIPBOX>»Episodio 15<INFO>4104</INFO></TIPBOX>",
-				[21] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10002] = {
-		Title = "Q ¡Rumbo a Phantasmagorika! (140)",
-		Page = {
-			[1] = {
-				[1] = "¡Rekenber está reclutando personas capaces para participar en el proyecto Phantasmagorika en las nuevas ruinas descubiertas de Juperos!",
-				[2] = "<NAVI>[Promotor (Prontera)]<INFO>prontera,121,77,0,101,0</INFO></NAVI>",
-				[3] = "<NAVI>[Promotor (Morroc)]<INFO>morocc,208,287,0,101,0</INFO></NAVI>",
-				[4] = "<NAVI>[Promotor (Payon)]<INFO>payon,174,113,0,101,0</INFO></NAVI>",
-				[5] = "<NAVI>[Promotor (Geffen)]<INFO>geffen,135,64,0,101,0</INFO></NAVI>",
-				[6] = "<NAVI>[Promotor (Alberta)]<INFO>alberta,119,65,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "» Requisitos de la Misión",
-				[9] = "^663399§Nivel 140^000000",
-				[10] = "",
-				[11] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10003] = {
-		Title = "Registro del Equipo de Excavación (140)",
-		Page = {
-			[1] = {
-				[1] = "Pídele a Nara, en la recepción del Equipo de Excavación Phantasmagorika, que realice el proceso de inscripción.",
-				[2] = "<NAVI>[Nara]<INFO>verus04,182,168,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 140^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10004] = {
-		Title = "Q Equipo de Excavación Atnaad (140)",
-		Page = {
-			[1] = {
-				[1] = "Al entrar en el Grupo del Edén, podrás recibir instrucciones sobre cómo unirte al Equipo de Excavación Atnaad.",
-				[2] = "<NAVI>[Lime]<INFO>moc_para01,31,14,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 140^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10005] = {
-		Title = "Q Informe Diario de Resultados (140)",
-		Page = {
-			[1] = {
-				[1] = "Entrega al Comandante Louis el informe diario de resultados, sellado por el líder del Equipo de Excavación Atnaad.",
-				[2] = "<NAVI>[Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10006] = {
-		Title = "Q Despejar el Pasaje (140)",
-		Page = {
-			[1] = {
-				[1] = "Elimina a los monstruos del pasaje hacia las ruinas del este y luego informa a la Administradora Michelle.",
-				[2] = "<NAVI>[Administradora Michelle]<INFO>ver_eju,114,40,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10007] = {
-		Title = "Q Bloquear la Amenaza (140)",
-		Page = {
-			[1] = {
-				[1] = "Monstruos mecánicos agresivos aparecen en el principal yacimiento de excavación de Phantasmagorika. Derrótalos para que el trabajo avance sin problemas.",
-				[2] = "<NAVI>[Louis]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10008] = {
-		Title = "Q Nueva Fuente de Energía (140)",
-		Page = {
-			[1] = {
-				[1] = "Para ayudar en la investigación de Lloyd, prepara 10 botellas de vidrio vacías y recoge la energía condensada encontrada entre los restos mecánicos.",
-				[2] = "<NAVI>[Lloyd]<INFO>verus03,103,177,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "<TIPBOX>Equipo de Excavación Atnaad<INFO>10004</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10009] = {
-		Title = "Q Recolección de Núcleos (140)",
-		Page = {
-			[1] = {
-				[1] = "Para ayudar en la investigación de Ian Atnaad, recoge 20 dispositivos de control operativo en la plaza interior.",
-				[2] = "<NAVI>[Ian Atnaad]<INFO>verus04,179,165,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "<TIPBOX>Registro del Equipo de Excavación<INFO>10003</INFO></TIPBOX>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10010] = {
-		Title = "Q Una Vuelta por la Zona (140)",
-		Page = {
-			[1] = {
-				[1] = "Ayuda al ocupado capitán de seguridad Kesler escuchando los problemas de sus agentes: Salgran, Geref, Sweden y Fifth.",
-				[2] = "<NAVI>[Capitán de Seguridad Kesler]<INFO>verus04,133,212,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 140^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[10011] = {
-		Title = "Q Ataque de la Bendición de la Destrucción (140)",
-		Page = {
-			[1] = {
-				[1] = "¡Un evento que ocurre de forma aleatoria! Impide que el grupo Bendición de la Destrucción ataque y destruya las ruinas.",
-				[2] = "<NAVI>[Capitán de Seguridad Kesler]<INFO>verus04,133,212,0,101,0</INFO></NAVI>",
-				[3] = "",
-				[4] = "» Requisitos de la Misión",
-				[5] = "^663399§Nivel 140^000000",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 15.1 Phantasmagorika!!<INFO>10001</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4217] = {
-		Title = "Episodio 18 Dirección de la Oración",
-		Page = {
-			[1] = {
-				[1] = "La Encargada de Aeronaves Ellie descubre, a partir de la información analizada hasta ahora, que Ilusión también está activa en Rachel. Como la Rebelión debe resolver asuntos relacionados con la Mansión de Varmundt y la República, el aventurero viaja a Rachel en su lugar, pero allí se encuentra con desconfianza y agitación.",
-				[2] = "",
-				[3] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "",
-				[6] = "»Misión Inicial",
-				[7] = "<TIPBOX>Q Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "»Misiones Principales",
-				[10] = "<TIPBOX>Q Petición de Niren<INFO>4222</INFO></TIPBOX>",
-				[11] = "<TIPBOX>Q Niños de Gris<INFO>4223</INFO></TIPBOX>",
-				[12] = "<TIPBOX>Q Requisito para el Gran Consejo<INFO>4224</INFO></TIPBOX>",
-				[13] = "<TIPBOX>Q Gran Consejo del Bosque del Lobo Gris<INFO>4225</INFO></TIPBOX>",
-				[14] = "<TIPBOX>Q Origen de las Armas<INFO>4226</INFO></TIPBOX>",
-				[15] = "<TIPBOX>Q Rebeldes<INFO>4227</INFO></TIPBOX>",
-				[16] = "<TIPBOX>Q Lobo con Piel de Oveja<INFO>4228</INFO></TIPBOX>",
-				[17] = "<TIPBOX>Q Cuando Hace Falta Dialogar<INFO>4229</INFO></TIPBOX>",
-				[18] = "<TIPBOX>Q Investigando la Villa del Sumo Sacerdote<INFO>4230</INFO></TIPBOX>",
-				[19] = "",
-				[20] = "»Misiones Secundarias",
-				[21] = "<TIPBOX>Q Administrador de la Aldea del Lobo Gris<INFO>4232</INFO></TIPBOX>",
-				[22] = "<TIPBOX>Q No Puedo Dormir<INFO>4233</INFO></TIPBOX>",
-				[23] = "<TIPBOX>Q Reúne las Historias<INFO>4234</INFO></TIPBOX>",
-				[24] = "<TIPBOX>Q Este No Es el Lugar<INFO>4235</INFO></TIPBOX>",
-				[25] = "<TIPBOX>Q El Pan Nuestro de Cada Día<INFO>4236</INFO></TIPBOX>",
-				[26] = "<TIPBOX>Q Reliquia para Purificar el Agua<INFO>4237</INFO></TIPBOX>",
-				[27] = "<TIPBOX>Q Migración Tardía<INFO>4238</INFO></TIPBOX>",
-				[28] = "<TIPBOX>Q ¿Dónde Está Mi Hogar?<INFO>4239</INFO></TIPBOX>",
-				[29] = "<TIPBOX>Q No Hay Bestias Malas<INFO>4240</INFO></TIPBOX>",
-				[30] = "<TIPBOX>Q Laberinto de Oz y el Vendedor Ambulante<INFO>4241</INFO></TIPBOX>",
-				[31] = "<TIPBOX>Q Percibir el Ambiente<INFO>4242</INFO></TIPBOX>",
-				[32] = "<TIPBOX>Q Hasta los Niños lo Saben<INFO>4243</INFO></TIPBOX>",
-				[33] = "<TIPBOX>Q El Precio del Trabajo<INFO>4244</INFO></TIPBOX>",
-				[34] = "<TIPBOX>Q Flor del Bosque del Lobo Gris<INFO>4245</INFO></TIPBOX>",
-				[35] = "<TIPBOX>Q Trabajo de la Flower Room<INFO>4246</INFO></TIPBOX>",
-				[36] = "<TIPBOX>Q Haz Más Seguro el Bosque del Lobo Gris<INFO>4247</INFO></TIPBOX>",
-				[37] = "",
-				[38] = "<TIPBOX>»Ep18 Serie Lobo Gris<INFO>4218</INFO></TIPBOX>",
-				[39] = "<TIPBOX>»Ep18 Serie Adulter Fides<INFO>4219</INFO></TIPBOX>",
-				[40] = "<TIPBOX>»Ep18 Serie Vivatus Fides<INFO>4220</INFO></TIPBOX>",
-				[41] = "",
-				[42] = "<TIPBOX>»Episodio 18<INFO>4216</INFO></TIPBOX>",
-				[43] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
-				[44] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4221] = {
-		Title = "Q Hacia el Reino Sagrado (170)",
-		Page = {
-			[1] = {
-				[1] = "Las muñecas automáticas de la Mansión de Varmundt, que decían que el tiempo estaba de nuestro lado, realmente encontraron una pista.",
-				[2] = "¿Dónde están ahora los fugitivos y qué están haciendo?",
-				[3] = "",
-				[4] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX> completada",
-				[5] = "^663399§Nivel 170 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Ellie Inteligente]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4222] = {
-		Title = "Q Petición de Niren (170)",
-		Page = {
-			[1] = {
-				[1] = "Tras obtener información sobre los intrusos que entraron en el templo, Niren parece tener una petición para el aventurero, para poder concentrarse en proteger el templo.",
-				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Agente de Seguridad Dent]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4223] = {
-		Title = "Q Niños de Gris (170)",
-		Page = {
-			[1] = {
-				[1] = "Maram, el hijo de Niren, parece tener algo urgente que resolver.",
-				[2] = "¿Hay algo en lo que el aventurero pueda ayudar?",
-				[3] = "<TIPBOX>»Petición de Niren<INFO>4222</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4224] = {
-		Title = "Q Requisito para el Gran Consejo (170)",
-		Page = {
-			[1] = {
-				[1] = "Para asistir al gran consejo de la Aldea del Lobo Gris, primero debes ser aceptado como miembro de la aldea. Completa tareas por la aldea y, con el tiempo, obtendrás el derecho a participar en el consejo.",
-				[2] = "»Completa 10 Misiones Generales en la Aldea del Lobo Gris",
-				[3] = "<TIPBOX>»Administrador de la Aldea del Lobo Gris<INFO>4232</INFO></TIPBOX>",
-				[4] = "<TIPBOX>»No Puedo Dormir<INFO>4233</INFO></TIPBOX>",
-				[5] = "<TIPBOX>»Reúne las Historias<INFO>4234</INFO></TIPBOX>",
-				[6] = "<TIPBOX>»Este No Es el Lugar<INFO>4235</INFO></TIPBOX>",
-				[7] = "<TIPBOX>»El Pan Nuestro de Cada Día<INFO>4236</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Reliquia para Purificar el Agua<INFO>4237</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Migración Tardía<INFO>4238</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»¿Dónde Está Mi Hogar?<INFO>4239</INFO></TIPBOX>",
-				[11] = "<TIPBOX>»No Hay Bestias Malas<INFO>4240</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Laberinto de Oz y el Vendedor Ambulante<INFO>4241</INFO></TIPBOX>",
-				[13] = "^663399§Nivel 170 o superior^000000",
-				[14] = "",
-				[15] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4225] = {
-		Title = "Q Gran Consejo del Bosque del Lobo Gris (170)",
-		Page = {
-			[1] = {
-				[1] = "Después de crear lazos con la gente del Bosque del Lobo Gris y ser aceptado como uno de ellos, el aventurero ve reconocidos sus esfuerzos y es invitado al gran consejo que decidirá el futuro del bosque.",
-				[2] = "El gran consejo por fin ha comenzado. ¿Cuál será el resultado de la reunión?",
-				[3] = "»Avanza en \"Requisito para el Gran Consejo\"",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Chico de la Aldea]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4226] = {
-		Title = "Q Origen de las Armas (170)",
-		Page = {
-			[1] = {
-				[1] = "Tras un intenso debate, el gran consejo llega a su fin. Entre la multitud que se dispersa, Miriam nota algo extraño.",
-				[2] = "Algunos habitantes están armados de forma excesiva. ¿De dónde vienen esas armas y con qué intención se están armando?",
-				[3] = "<TIPBOX>»Gran Consejo del Bosque del Lobo Gris<INFO>4225</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4227] = {
-		Title = "Q Rebeldes (170)",
-		Page = {
-			[1] = {
-				[1] = "Mientras Suad sigue pensando en las armas que aparecieron en la Aldea del Lobo Gris y en su origen, llega la noticia de que un miembro de la aldea atacó una caravana mercante.",
-				[2] = "<TIPBOX>»Origen de las Armas<INFO>4226</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4228] = {
-		Title = "Q Lobo con Piel de Oveja (170)",
-		Page = {
-			[1] = {
-				[1] = "Por fin, la gente de la Aldea del Lobo Gris se ha reunido frente al templo.",
-				[2] = "¿Lograrán hacer oír su voz ante la gente de Rachel?",
-				[3] = "<TIPBOX>»Rebeldes<INFO>4227</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Persona Común]<INFO>rachel,169,245,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4229] = {
-		Title = "Q Cuando Hace Falta Dialogar (170)",
-		Page = {
-			[1] = {
-				[1] = "Conmocionados por la traición de un compañero de confianza, Suad y los sacerdotes quedan en shock. Sin embargo, pronto recuperan la calma y deciden restablecer el orden en la aldea y el templo.",
-				[2] = "Miriam parte hacia el lugar al que fue su padre para investigar lo sucedido.",
-				[3] = "<TIPBOX>»Lobo con Piel de Oveja<INFO>4228</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Niren]<INFO>rachel,116,200,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4230] = {
-		Title = "Q Investigando la Villa del Sumo Sacerdote (170)",
-		Page = {
-			[1] = {
-				[1] = "Parece que Ilusión, aliada con el Sumo Sacerdote Amal, está detrás de todo. ¿Podrás descubrir qué intentan hacer en la villa del Sumo Sacerdote y por qué provocaron el caos en Rachel?",
-				[2] = "<TIPBOX>»Cuando Hace Falta Dialogar<INFO>4229</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Punto de Encuentro]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4232] = {
-		Title = "Q Administrador de la Aldea del Lobo Gris (170)",
-		Page = {
-			[1] = {
-				[1] = "Hazar, el administrador principal de los comerciantes de la Aldea del Lobo Gris, quiere entrenar a su discípulo Kamil, pero las cosas no parecen salir bien desde el principio.",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[5] = "",
-				[6] = "<NAVI>[Hazar]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4233] = {
-		Title = "Q No Puedo Dormir (170)",
-		Page = {
-			[1] = {
-				[1] = "Un niño del Bosque del Lobo Gris parece agotado por falta de sueño. ¿Por qué no ha podido dormir nada? Parece sobresaltarse cada vez que oye el chillido del Milano del Viento Ígneo. Averigüemos qué ocurrió.",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[5] = "",
-				[6] = "<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4234] = {
-		Title = "Q Reúne las Historias (170)",
-		Page = {
-			[1] = {
-				[1] = "Gudra quizá no parezca un erudito, pero en realidad es excelente. Parece que quiere reunir historias de la gente de la Aldea del Lobo Gris para una investigación. ¿Puedes ayudar?",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[5] = "",
-				[6] = "<NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4235] = {
-		Title = "Q Este No Es el Lugar (170)",
-		Page = {
-			[1] = {
-				[1] = "Unos jóvenes se han reunido junto al tranquilo lago de la Aldea del Lobo Gris, murmurando quejas sobre alguien. Escuchemos discretamente para saber de qué hablan.",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[5] = "",
-				[6] = "<NAVI>[Julan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4236] = {
-		Title = "Q El Pan Nuestro de Cada Día (170)",
-		Page = {
-			[1] = {
-				[1] = "Eruin, que vive en la Aldea del Lobo Gris, es un cazador con trampas. Cada día busca trabajadores para recoger las presas capturadas.",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[5] = "",
-				[6] = "<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4237] = {
-		Title = "Q Reliquia para Purificar el Agua (170)",
-		Page = {
-			[1] = {
-				[1] = "Budan, encargado del suministro de agua de la Aldea del Lobo Gris, busca a alguien que traiga desde Rachel una reliquia sagrada para purificar el agua potable.",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[5] = "",
-				[6] = "<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4238] = {
-		Title = "Q Migración Tardía (170)",
-		Page = {
-			[1] = {
-				[1] = "Horim, empleado de un hotel en Rachel, quiere partir hacia la Aldea del Lobo Gris.",
-				[2] = "Ayuda a Horim a llegar a la Aldea del Lobo Gris.",
-				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[6] = "",
-				[7] = "<NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4239] = {
-		Title = "Q ¿Dónde Está Mi Hogar? (170)",
-		Page = {
-			[1] = {
-				[1] = "La Aldea del Lobo Gris debía convertirse en un lugar al que llamar hogar, pero cumplir ese deseo no es fácil.",
-				[2] = "¿Qué está planeando Ezekiel?",
-				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[6] = "",
-				[7] = "<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4240] = {
-		Title = "Q No Hay Bestias Malas (170)",
-		Page = {
-			[1] = {
-				[1] = "Los humanos no son los únicos habitantes de la Aldea del Lobo Gris.",
-				[2] = "¿Qué se necesita para que todos puedan vivir juntos en armonía?",
-				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[6] = "",
-				[7] = "<NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4241] = {
-		Title = "Q Laberinto de Oz y el Vendedor Ambulante (170)",
-		Page = {
-			[1] = {
-				[1] = "Atravesar el Laberinto de Oz, la única ruta que conduce a la Aldea del Lobo Gris, no es una tarea fácil.",
-				[2] = "¿Qué tipo de problema hay en el Laberinto de Oz?",
-				[3] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[4] = "^663399§Nivel 170 o superior^000000",
-				[5] = "^663399§Misión Obligatoria para el Gran Consejo^000000",
-				[6] = "",
-				[7] = "<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4242] = {
-		Title = "Q Percibir el Ambiente (170)",
-		Page = {
-			[1] = {
-				[1] = "Junok, un sacerdote de Rachel, está muy preocupado por el conflicto entre inmigrantes y habitantes nativos. A petición de Junok, investiga qué tipo de fricción existe entre ambos grupos.",
-				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4243] = {
-		Title = "Q Hasta los Niños lo Saben (170)",
-		Page = {
-			[1] = {
-				[1] = "El aventurero encuentra, en un rincón de Rachel, a un niño que parece estar siendo excluido por varios amigos. ¿Qué ocurrió? Escuchémoslo directamente.",
-				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4244] = {
-		Title = "Q El Precio del Trabajo (170)",
-		Page = {
-			[1] = {
-				[1] = "En una zona residencial de Rachel, una persona pobremente vestida suspira sin parar y mira al cielo. Parece tener algún problema... Escuchemos su historia.",
-				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Amodifin]<INFO>rachel,181,51,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4245] = {
-		Title = "Q Flor del Bosque del Lobo Gris (170)",
-		Page = {
-			[1] = {
-				[1] = "Una verdad incómoda sale a la luz en un callejón de Rachel. Aun así, el niño se niega a rendirse y quiere seguir intentándolo.",
-				[2] = "<TIPBOX>»Hacia el Reino Sagrado<INFO>4221</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Niño Maltratado]<INFO>rachel,176,80,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Trabajo de la Flower Room<INFO>4246</INFO></TIPBOX> continúa con.",
-				[8] = "",
-				[9] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4246] = {
-		Title = "Q Trabajo de la Flower Room (170)",
-		Page = {
-			[1] = {
-				[1] = "Mejai dejó atrás los malos tratos que sufría en Rachel y abrió un negocio para perseguir su sueño. Tú eres el socio que va cada día al Bosque del Lobo Gris para ayudar con el negocio de Mejai.",
-				[2] = "<TIPBOX>»Flor del Bosque del Lobo Gris<INFO>4245</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4247] = {
-		Title = "Q Haz Más Seguro el Bosque del Lobo Gris (170)",
-		Page = {
-			[1] = {
-				[1] = "El guardián de la entrada de la Aldea del Lobo Gris sufre constantemente por los monstruos del bosque. Sería estupendo que alguien amable pudiera hacer más seguro el Bosque del Lobo Gris.",
-				[2] = "<TIPBOX>»Niños de Gris<INFO>4223</INFO></TIPBOX> completada",
-				[3] = "^663399§Nivel 170 o superior^000000",
-				[4] = "",
-				[5] = "<NAVI>[Camper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>",
-				[6] = "",
-				[7] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4111] = {
-		Title = "Ep17.2 Serie Automática",
-		Page = {
-			[1] = {
-				[1] = "Puedes cambiar <ITEM>[Ticket de Varmundt]<INFO>1000103</INFO></ITEM> y <ITEM>[Cor Core]<INFO>1000104</INFO></ITEM>, obtenidos durante el episodio, por varios objetos útiles en la posada de la Mansión de Varmundt.",
-				[2] = "",
-				[3] = "^663399§Lugar de Intercambio^000000",
-				[4] = "»<NAVI>[Yeoncheong]<INFO>ba_in01,87,383,0,101,0</INFO></NAVI> Intercambio de Armadura Automática",
-				[5] = "»<NAVI>[Yecheong]<INFO>ba_in01,87,380,0,101,0</INFO></NAVI> Intercambio de Módulos y Dispositivos de Modificación",
-				[6] = "»<NAVI>[Cubrain]<INFO>ba_in01,87,376,0,101,0</INFO></NAVI> Tienda de Cubos de Mejora",
-				[7] = "»<NAVI>[Spiera]<INFO>ba_in01,87,373,0,101,0</INFO></NAVI> Intercambio de Módulos Automáticos",
-				[8] = "",
-				[9] = "^663399§Serie Automática^000000",
-				[10] = "» Requiere armadura Ilusión refinada a +9.",
-				[11] = "<ITEM>[Armadura Automática Tipo A]<INFO>450127</INFO></ITEM>",
-				[12] = "<ITEM>[Armadura Automática Tipo B]<INFO>450128</INFO></ITEM>",
-				[13] = "<ITEM>[Ala de Motor Automática Tipo A]<INFO>480020</INFO></ITEM>",
-				[14] = "<ITEM>[Ala de Motor Automática Tipo B]<INFO>480021</INFO></ITEM>",
-				[15] = "<ITEM>[Pierna Automática Tipo A]<INFO>470022</INFO></ITEM>",
-				[16] = "<ITEM>[Pierna Automática Tipo B]<INFO>470023</INFO></ITEM>",
-				[17] = "<ITEM>[Booster Automático R]<INFO>490024</INFO></ITEM>",
-				[18] = "<ITEM>[Booster Automático L]<INFO>490025</INFO></ITEM>",
-				[19] = "<ITEM>[Chip de Batalla Automático R]<INFO>490026</INFO></ITEM>",
-				[20] = "<ITEM>[Chip de Batalla Automático L]<INFO>490027</INFO></ITEM>",
-				[21] = "",
-				[22] = "^663399§Otros Objetos^000000",
-				[23] = "<ITEM>[Cubo de Mejora Ilusión]<INFO>100251</INFO></ITEM>",
-				[24] = "<ITEM>[Cubo de Mejora Automático]<INFO>100252</INFO></ITEM>",
-				[25] = "",
-				[26] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX>",
-				[27] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[28] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4106] = {
-		Title = "Episodio 17",
-		Page = {
-			[1] = {
-				[1] = "Mientras buscan por Schwarzwald un laboratorio secreto, la Rebelión y las Alas Secretas descubren nuevas instalaciones de investigación ocultas. Ha llegado el momento de descubrir la verdad escondida junto con la Rebelión.",
-				[2] = "",
-				[3] = "<TIPBOX>»EP. 17.1 Ilusión<INFO>7055</INFO></TIPBOX>",
-				[4] = "<TIPBOX>»Episodio 17.2 Legado del Sabio<INFO>7068</INFO></TIPBOX>",
-				[5] = "",
-				[6] = "<TIPBOX>»Ep17.1 Series Ilusión y OS<INFO>4110</INFO></TIPBOX>",
-				[7] = "<TIPBOX>»Ep17.2 Serie Automática<INFO>4111</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ep17.1 Serie Grace<INFO>4114</INFO></TIPBOX>",
-				[9] = "",
-				[10] = "Las zonas relacionadas con el Episodio 17 pueden visitarse fácilmente a través del Mago de la Corte Nillem, que está de visita en 'Gato en una Bala' de Einbroch.",
-				[11] = "<NAVI>[Mago de la Corte Nillem]<INFO>pub_cat,86,105,0,101,0</INFO></NAVI>",
-				[12] = "",
-				[13] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4105] = {
-		Title = "Episodio 16",
-		Page = {
-			[1] = {
-				[1] = "El Palacio de Prontera invita a los aventureros que participaron en la expedición al Nuevo Mundo a un banquete en su honor. Asiste como invitado de las Siete Familias Reales de Rune-Midgarts y disfruta del banquete.",
-				[2] = "",
-				[3] = "<TIPBOX>»Episodio 16.1 Banquete para Héroes<INFO>8118</INFO></TIPBOX>",
-				[4] = "<TIPBOX>»EP 16.2 Terra Gloria<INFO>8143</INFO></TIPBOX>",
-				[5] = "",
-				[6] = "<TIPBOX>»Ep16.1 Recompensas de Símbolo de Honor<INFO>4108</INFO></TIPBOX>",
-				[7] = "<TIPBOX>»Ep16.2 Recompensas de Símbolo de Honor de Schwartz<INFO>4109</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Ep16.1 Serie Noblesse<INFO>4112</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ep16.2 Serie Imperial<INFO>4113</INFO></TIPBOX>",
-				[10] = "",
-				[11] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4218] = {
-		Title = "Ep18 Serie Lobo Gris",
-		Page = {
-			[1] = {
-				[1] = "Puedes cambiar <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>, obtenido durante el episodio, por varios equipos útiles en la Aldea del Lobo Gris.",
-				[2] = "",
-				[3] = "^663399§Lugar de Intercambio^000000",
-				[4] = "»<NAVI>[Emmett]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>",
-				[5] = "",
-				[6] = "^663399§Serie Lobo Gris^000000",
-				[7] = "<ITEM>[Traje Lobo Gris]<INFO>450177</INFO></ITEM>",
-				[8] = "<ITEM>[Túnica Lobo Gris]<INFO>450178</INFO></ITEM>",
-				[9] = "<ITEM>[Manto Lobo Gris]<INFO>480091</INFO></ITEM>",
-				[10] = "<ITEM>[Bufanda Lobo Gris]<INFO>480090</INFO></ITEM>",
-				[11] = "<ITEM>[Botas Lobo Gris]<INFO>470087</INFO></ITEM>",
-				[12] = "<ITEM>[Zapatos Lobo Gris]<INFO>470088</INFO></ITEM>",
-				[13] = "<ITEM>[Colgante Lobo Gris]<INFO>490106</INFO></ITEM>",
-				[14] = "<ITEM>[Anillo Lobo Gris]<INFO>490107</INFO></ITEM>",
-				[15] = "<ITEM>[Pendiente Lobo Gris]<INFO>490108</INFO></ITEM>",
-				[16] = "<ITEM>[Collar Lobo Gris]<INFO>490109</INFO></ITEM>",
-				[17] = "",
-				[18] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[19] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[20] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4219] = {
-		Title = "Ep18 Serie Adulter Fides",
-		Page = {
-			[1] = {
-				[1] = "Estas armas pueden obtenerse en la Mazmorra Memorial Villa del Engaño, accesible después de completar el episodio.",
-				[2] = "",
-				[3] = "^663399§Serie Adulter Fides^000000",
-				[4] = "Pueden obtenerse en la dificultad normal de la Mazmorra Memorial Villa del Engaño.",
-				[5] = "<ITEM>[Espada de Dos Manos]<INFO>600017</INFO></ITEM>",
-				[6] = "<ITEM>[Lanza]<INFO>630012</INFO></ITEM>",
-				[7] = "<ITEM>[Espada Guardiana]<INFO>500025</INFO></ITEM>",
-				[8] = "<ITEM>[Lanza Guardiana]<INFO>530013</INFO></ITEM>",
-				[9] = "<ITEM>[Hacha]<INFO>520008</INFO></ITEM>",
-				[10] = "<ITEM>[Maza]<INFO>590021</INFO></ITEM>",
-				[11] = "<ITEM>[Estoque]<INFO>500026</INFO></ITEM>",
-				[12] = "<ITEM>[Hall]<INFO>590022</INFO></ITEM>",
-				[13] = "<ITEM>[Chakram]<INFO>610020</INFO></ITEM>",
-				[14] = "<ITEM>[Katar]<INFO>610021</INFO></ITEM>",
-				[15] = "<ITEM>[Daga]<INFO>510032</INFO></ITEM>",
-				[16] = "<ITEM>[Ballesta]<INFO>700030</INFO></ITEM>",
-				[17] = "<ITEM>[Bastón de Dos Manos]<INFO>640019</INFO></ITEM>",
-				[18] = "<ITEM>[Vara]<INFO>640020</INFO></ITEM>",
-				[19] = "<ITEM>[Libro Mágico]<INFO>540019</INFO></ITEM>",
-				[20] = "<ITEM>[Libro de Veneno]<INFO>540020</INFO></ITEM>",
-				[21] = "<ITEM>[Biblia]<INFO>540021</INFO></ITEM>",
-				[22] = "<ITEM>[Varita]<INFO>550024</INFO></ITEM>",
-				[23] = "<ITEM>[Puño]<INFO>560018</INFO></ITEM>",
-				[24] = "<ITEM>[Garra]<INFO>560019</INFO></ITEM>",
-				[25] = "<ITEM>[Balista]<INFO>700031</INFO></ITEM>",
-				[26] = "<ITEM>[Arco de Puntería]<INFO>700032</INFO></ITEM>",
-				[27] = "<ITEM>[Violín]<INFO>570017</INFO></ITEM>",
-				[28] = "<ITEM>[Cuerda de Cadena]<INFO>580017</INFO></ITEM>",
-				[29] = "<ITEM>[Arpa]<INFO>570018</INFO></ITEM>",
-				[30] = "<ITEM>[Cinta]<INFO>580018</INFO></ITEM>",
-				[31] = "<ITEM>[Shuriken Fuuma]<INFO>650008</INFO></ITEM>",
-				[32] = "<ITEM>[Shuriken Fuuma Cruzado]<INFO>650009</INFO></ITEM>",
-				[33] = "<ITEM>[Revólver]<INFO>800003</INFO></ITEM>",
-				[34] = "<ITEM>[Escopeta]<INFO>820002</INFO></ITEM>",
-				[35] = "<ITEM>[Rifle]<INFO>810002</INFO></ITEM>",
-				[36] = "<ITEM>[Ametralladora Gatling]<INFO>830003</INFO></ITEM>",
-				[37] = "<ITEM>[Lanzador]<INFO>840002</INFO></ITEM>",
-				[38] = "<ITEM>[Libro Lunar]<INFO>540022</INFO></ITEM>",
-				[39] = "<ITEM>[Libro de Polvo Estelar]<INFO>540023</INFO></ITEM>",
-				[40] = "<ITEM>[Bastón del Alma]<INFO>550025</INFO></ITEM>",
-				[41] = "<ITEM>[Varita Oscura]<INFO>550026</INFO></ITEM>",
-				[42] = "<ITEM>[Varita Cola de Zorro]<INFO>550027</INFO></ITEM>",
-				[43] = "<ITEM>[Modelo Cola de Zorro]<INFO>550028</INFO></ITEM>",
-				[44] = "",
-				[45] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[46] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[47] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4220] = {
-		Title = "Ep18 Serie Vivatus Fides",
-		Page = {
-			[1] = {
-				[1] = "Estas armas pueden obtenerse en la Mazmorra Memorial Villa del Engaño, accesible después de completar el episodio. Pueden conseguirse en dificultad avanzada o fabricarse purificando armas Adulter Fides. El ritual de purificación requiere un arma Adulter Fides refinada a +9.",
-				[2] = "",
-				[3] = "^663399§Lugar del Ritual de Purificación^000000",
-				[4] = "»<NAVI>[Bamdat]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>",
-				[5] = "",
-				[6] = "^663399§Serie Vivatus Fides^000000",
-				[7] = "<ITEM>[Espada de Dos Manos]<INFO>600018</INFO></ITEM>",
-				[8] = "<ITEM>[Lanza]<INFO>630013</INFO></ITEM>",
-				[9] = "<ITEM>[Espada Guardiana]<INFO>500027</INFO></ITEM>",
-				[10] = "<ITEM>[Lanza Guardiana]<INFO>530014</INFO></ITEM>",
-				[11] = "<ITEM>[Hacha]<INFO>520009</INFO></ITEM>",
-				[12] = "<ITEM>[Maza]<INFO>590023</INFO></ITEM>",
-				[13] = "<ITEM>[Estoque]<INFO>500028</INFO></ITEM>",
-				[14] = "<ITEM>[Hall]<INFO>590024</INFO></ITEM>",
-				[15] = "<ITEM>[Chakram]<INFO>610022</INFO></ITEM>",
-				[16] = "<ITEM>[Katar]<INFO>610023</INFO></ITEM>",
-				[17] = "<ITEM>[Daga]<INFO>510033</INFO></ITEM>",
-				[18] = "<ITEM>[Ballesta]<INFO>700033</INFO></ITEM>",
-				[19] = "<ITEM>[Bastón de Dos Manos]<INFO>640021</INFO></ITEM>",
-				[20] = "<ITEM>[Vara]<INFO>640022</INFO></ITEM>",
-				[21] = "<ITEM>[Libro Mágico]<INFO>540024</INFO></ITEM>",
-				[22] = "<ITEM>[Libro de Veneno]<INFO>540025</INFO></ITEM>",
-				[23] = "<ITEM>[Biblia]<INFO>540026</INFO></ITEM>",
-				[24] = "<ITEM>[Varita]<INFO>550029</INFO></ITEM>",
-				[25] = "<ITEM>[Puño]<INFO>560020</INFO></ITEM>",
-				[26] = "<ITEM>[Garra]<INFO>560021</INFO></ITEM>",
-				[27] = "<ITEM>[Balista]<INFO>700034</INFO></ITEM>",
-				[28] = "<ITEM>[Arco de Puntería]<INFO>700035</INFO></ITEM>",
-				[29] = "<ITEM>[Violín]<INFO>570019</INFO></ITEM>",
-				[30] = "<ITEM>[Cuerda de Cadena]<INFO>580019</INFO></ITEM>",
-				[31] = "<ITEM>[Arpa]<INFO>570020</INFO></ITEM>",
-				[32] = "<ITEM>[Cinta]<INFO>580020</INFO></ITEM>",
-				[33] = "",
-				[34] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[35] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[36] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4216] = {
-		Title = "Episodio 18",
-		Page = {
-			[1] = {
-				[1] = "Según la información analizada en la Mansión de Varmundt, algunos miembros de Ilusión parecen estar llevando a cabo una operación en Rachel. Se necesita un aventurero que investigue por qué están atacando Rachel.",
-				[2] = "",
-				[3] = "<TIPBOX>»Episodio 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX>",
-				[4] = "",
-				[5] = "<TIPBOX>»Ep18 Serie Lobo Gris<INFO>4218</INFO></TIPBOX>",
-				[6] = "<TIPBOX>»Ep18 Serie Adulter Fides<INFO>4219</INFO></TIPBOX>",
-				[7] = "<TIPBOX>»Ep18 Serie Vivatus Fides<INFO>4220</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4101] = {
-		Title = "Episodios",
-		Page = {
-			[1] = {
-				[1] = "Una colección de misiones y contenido que sigue las principales líneas argumentales del juego.",
-				[2] = "",
-				[3] = "<TIPBOX>»Episodio 13<INFO>4102</INFO></TIPBOX>",
-				[4] = "<TIPBOX>»Episodio 14<INFO>4103</INFO></TIPBOX>",
-				[5] = "<TIPBOX>»Episodio 15<INFO>4104</INFO></TIPBOX>",
-				[6] = "<TIPBOX>»Episodio 16<INFO>4105</INFO></TIPBOX>",
-				[7] = "<TIPBOX>»Episodio 17<INFO>4106</INFO></TIPBOX>",
-				[8] = "<TIPBOX>»Episodio 18<INFO>4216</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Episodio 19<INFO>4256</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Episodio 20<INFO>4327</INFO></TIPBOX>",
-				[11] = "<TIPBOX>»Episodio 21<INFO>4366</INFO></TIPBOX>",
-				[12] = "",
-				[13] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[14] = "",
-				[15] = "<TIPBOX>»Ver Misiones<INFO>4100</INFO></TIPBOX>",
-				[16] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[6015] = {
-		Title = "Misiones de Entrada al Nuevo Mundo",
-		Page = {
-			[1] = {
-				[1] = "» Misiones de Entrada",
-				[2] = "<TIPBOX>Q Codicia Insatisfecha y Humanos al Nuevo Mundo (95)<INFO>6005</INFO></TIPBOX>",
-				[3] = "<TIPBOX>Q Contrato con el Agente Mano de Gato (95)<INFO>6030</INFO></TIPBOX>",
-				[4] = "[ ! ] ¡Completa una de las dos misiones para obtener acceso al Nuevo Mundo!",
-				[5] = "",
-				[6] = "» Misión del Traductor",
-				[7] = "<TIPBOX>Q Traductor (95)<INFO>6018</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "<TIPBOX>»Misiones de Ash Vacuum<INFO>6004</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Misiones de Encuentro con lo Desconocido<INFO>6016</INFO></TIPBOX>",
-				[11] = "<TIPBOX>»Misiones de El Dicastes<INFO>6028</INFO></TIPBOX>",
-				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4256] = {
-		Title = "Episodio 19#Misión",
-		Page = {
-			[1] = {
-				[1] = "Bagot, el último miembro de Ilusión, se dirigió a Issgard, donde se dice que Jormungandr está sellado. El Episodio 19 se desarrolla en la nueva región de Issgard.",
-				[2] = "",
-				[3] = "<TIPBOX>»EP 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[4] = "",
-				[5] = "<TIPBOX>»Ep19 Serie de Armaduras de la Flor de Nieve<INFO>4258</INFO></TIPBOX>",
-				[6] = "<TIPBOX>»Ep19 Serie de Armas Glaciales<INFO>4259</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4257] = {
-		Title = "Episode 19 Issgard, Tierra de las Flores de Nieve#MisiónEpisodio",
-		Page = {
-			[1] = {
-				[1] = "Bagot sembró el caos en el templo de Rachel y usó un fragmento robado del Corazón de Ymir para crear una quimera que imitaba a un dios. Según el sacerdote Yus, el destino de Bagot no es simplemente el norte de Midgard, sino Issgard, una tierra de hielo al otro lado del mar. El aventurero y sus compañeros parten hacia Issgard, donde aún perduran antiguas leyendas.",
-				[2] = "",
-				[3] = "<TIPBOX>»EP. 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "»Misión Inicial",
-				[7] = "<TIPBOX>Q Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo(200)<INFO>4260</INFO></TIPBOX>",
-				[8] = "",
-				[9] = "»Misiones Principales",
-				[10] = "<TIPBOX>Q Patrulla del Águila(200)<INFO>4261</INFO></TIPBOX>",
-				[11] = "<TIPBOX>Q Encuentro con el Experimento 210426(200)<INFO>4262</INFO></TIPBOX>",
-				[12] = "<TIPBOX>Q El Plan de Lazy(200)<INFO>4263</INFO></TIPBOX>",
-				[13] = "<TIPBOX>Q Infiltración en el Nido de la Serpiente(200)<INFO>4264</INFO></TIPBOX>",
-				[14] = "<TIPBOX>Q Informe de Progreso de la Infiltración(200)<INFO>4265</INFO></TIPBOX>",
-				[15] = "<TIPBOX>Q En Busca de Pistas(200)<INFO>4266</INFO></TIPBOX>",
-				[16] = "<TIPBOX>Q Infiltración Silenciosa(200)<INFO>4267</INFO></TIPBOX>",
-				[17] = "<TIPBOX>Q Sospechas Crecientes(200)<INFO>4268</INFO></TIPBOX>",
-				[18] = "<TIPBOX>Q Por Poco, las Verdaderas Intenciones de Bagot(200)<INFO>4269</INFO></TIPBOX>",
-				[19] = "<TIPBOX>Q Caos en el Nido de la Serpiente, los Desaparecidos(200)<INFO>4270</INFO></TIPBOX>",
-				[20] = "",
-				[21] = "»Misiones Secundarias",
-				[22] = "<TIPBOX>Q Santa de la Purificación(200)<INFO>4271</INFO></TIPBOX>",
-				[23] = "<TIPBOX>Q Mar Congelado(200)<INFO>4272</INFO></TIPBOX>",
-				[24] = "<TIPBOX>Q Curiosidades(200)<INFO>4273</INFO></TIPBOX>",
-				[25] = "<TIPBOX>Q Una Serpiente Vieja(200)<INFO>4274</INFO></TIPBOX>",
-				[26] = "<TIPBOX>Q Doctrina y Sermones(200)<INFO>4275</INFO></TIPBOX>",
-				[27] = "<TIPBOX>Q Una Forma Especial de Sobrevivir(200)<INFO>4276</INFO></TIPBOX>",
-				[28] = "",
-				[29] = "»Misiones Diarias",
-				[30] = "<TIPBOX>Q En Busca de un Escondite en la Superficie(200)<INFO>4277</INFO></TIPBOX>",
-				[31] = "<TIPBOX>Q Ayudando a Moryara a Pescar(200)<INFO>4278</INFO></TIPBOX>",
-				[32] = "<TIPBOX>Q El Alegre Almuerzo de Joryara(200)<INFO>4279</INFO></TIPBOX>",
-				[33] = "<TIPBOX>Q ¡No Alimentes a los Animales!(200)<INFO>4280</INFO></TIPBOX>",
-				[34] = "<TIPBOX>Q Diversión a Escondidas(200)<INFO>4281</INFO></TIPBOX>",
-				[35] = "<TIPBOX>Q La Elección del Menú de Lunch(200)<INFO>4282</INFO></TIPBOX>",
-				[36] = "<TIPBOX>Q Sacerdote, Ten Piedad(200)<INFO>4283</INFO></TIPBOX>",
-				[37] = "<TIPBOX>Q Un Rostro Desconocido(200)<INFO>4284</INFO></TIPBOX>",
-				[38] = "<TIPBOX>Q Recolección de Materiales de Investigación para Bellgund(200)<INFO>4285</INFO></TIPBOX>",
-				[39] = "<TIPBOX>Q Búsqueda de los Perdidos(200)<INFO>4286</INFO></TIPBOX>",
-				[40] = "<TIPBOX>Q Una Afición Elegante(200)<INFO>4287</INFO></TIPBOX>",
-				[41] = "<TIPBOX>Q Por Condiciones de Trabajo Seguras(200)<INFO>4288</INFO></TIPBOX>",
-				[42] = "<TIPBOX>Q Nuestro Preciado Sustento(200)<INFO>4289</INFO></TIPBOX>",
-				[43] = "<TIPBOX>Q El Día de Friederike(200)<INFO>4290</INFO></TIPBOX>",
-				[44] = "<TIPBOX>Q ¿Necesitamos un Refrigerador?(200)<INFO>4291</INFO></TIPBOX>",
-				[45] = "<TIPBOX>Q Herramientas Crujientes(200)<INFO>4292</INFO></TIPBOX>",
-				[46] = "<TIPBOX>Q Un Lugar para Abandonar 1(220)<INFO>4293</INFO></TIPBOX>",
-				[47] = "<TIPBOX>Q Un Lugar para Abandonar 2(240)<INFO>4294</INFO></TIPBOX>",
-				[48] = "<TIPBOX>Q Cavando sin Parar(200)<INFO>4295</INFO></TIPBOX>",
-				[49] = "<TIPBOX>Q Patrulla con los Iwins(200)<INFO>4296</INFO></TIPBOX>",
-				[50] = "<TIPBOX>MD 19 Simulación de Juncea<INFO>4297</INFO></TIPBOX>",
-				[51] = "<TIPBOX>MD 19 Destrucción del Dirigible<INFO>4298</INFO></TIPBOX>",
-				[52] = "",
-				[53] = "<TIPBOX>»Ep19 Serie de Armaduras de la Flor de Nieve<INFO>4258</INFO></TIPBOX>",
-				[54] = "<TIPBOX>»Ep19 Serie de Armas Glaciales<INFO>4259</INFO></TIPBOX>",
-				[55] = "",
-				[56] = "<TIPBOX>»Episodio 19<INFO>4256</INFO></TIPBOX>",
-				[57] = "<TIPBOX>»Ver Episodios<INFO>4101</INFO></TIPBOX>",
-				[58] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4258] = {
-		Title = "Ep19 Serie de Armaduras de la Flor de Nieve#PétalosDeFlorDeNieve",
-		Page = {
-			[1] = {
-				[1] = "Puedes intercambiar <ITEM>[Pétalos de Flor de Nieve]<INFO>1000608</INFO></ITEM> obtenidos durante el episodio por diversos equipos útiles en el Castillo de Hielo.",
-				[2] = "",
-				[3] = "^663399§Lugar de Intercambio^000000",
-				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
-				[5] = "",
-				[6] = "^663399§Serie de Armaduras de la Flor de Nieve^000000",
-				[7] = "<ITEM>[Armadura de la Flor de Nieve]<INFO>450206</INFO></ITEM>",
-				[8] = "<ITEM>[Túnica de la Flor de Nieve]<INFO>450207</INFO></ITEM>",
-				[9] = "<ITEM>[Capa de la Flor de Nieve]<INFO>480159</INFO></ITEM>",
-				[10] = "<ITEM>[Bufanda de la Flor de Nieve]<INFO>480160</INFO></ITEM>",
-				[11] = "<ITEM>[Botas de la Flor de Nieve]<INFO>470115</INFO></ITEM>",
-				[12] = "<ITEM>[Zapatos de la Flor de Nieve]<INFO>470116</INFO></ITEM>",
-				[13] = "<ITEM>[Colgante de la Flor de Nieve]<INFO>490176</INFO></ITEM>",
-				[14] = "<ITEM>[Anillo de la Flor de Nieve]<INFO>490177</INFO></ITEM>",
-				[15] = "<ITEM>[Collar de la Flor de Nieve]<INFO>490178</INFO></ITEM>",
-				[16] = "<ITEM>[Pendiente de la Flor de Nieve]<INFO>490179</INFO></ITEM>",
-				[17] = "",
-				[18] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[19] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[20] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4259] = {
-		Title = "Ep19 Serie de Armas Glaciales#Zeny",
-		Page = {
-			[1] = {
-				[1] = "Estas armas forman una serie de obras maestras creada por Voglinde en el Castillo de Hielo de Issgard. Con el apoyo de Maram, se pueden comprar con Zeny.",
-				[2] = "",
-				[3] = "^663399§Lugar de Intercambio^000000",
-				[4] = "»<NAVI>[Maram]<INFO>icas_in,180,61,0,101,0</INFO></NAVI>",
-				[5] = "",
-				[6] = "^663399§Serie de Armas Glaciales^000000",
-				[7] = "<ITEM>[Espada de Dos Manos Glacial]<INFO>600027</INFO></ITEM>",
-				[8] = "<ITEM>[Lanza Larga Glacial]<INFO>630018</INFO></ITEM>",
-				[9] = "<ITEM>[Espada Glacial]<INFO>500049</INFO></ITEM>",
-				[10] = "<ITEM>[Espada Básica Glacial]<INFO>500050</INFO></ITEM>",
-				[11] = "<ITEM>[Lanza Glacial]<INFO>530025</INFO></ITEM>",
-				[12] = "<ITEM>[Hacha de Mecánico Glacial]<INFO>620017</INFO></ITEM>",
-				[13] = "<ITEM>[Hacha Glacial]<INFO>520017</INFO></ITEM>",
-				[14] = "<ITEM>[Maza Glacial]<INFO>590038</INFO></ITEM>",
-				[15] = "<ITEM>[Maza de Mecánico Glacial]<INFO>590039</INFO></ITEM>",
-				[16] = "<ITEM>[Cuchillo de Pícaro Glacial]<INFO>510061</INFO></ITEM>",
-				[17] = "<ITEM>[Cuchillo Básico Glacial]<INFO>510062</INFO></ITEM>",
-				[18] = "<ITEM>[Arco Glacial]<INFO>700052</INFO></ITEM>",
-				[19] = "<ITEM>[Puño Glacial]<INFO>560032</INFO></ITEM>",
-				[20] = "<ITEM>[Libro Glacial]<INFO>540049</INFO></ITEM>",
-				[21] = "<ITEM>[Katar Glacial]<INFO>610037</INFO></ITEM>",
-				[22] = "<ITEM>[Varita Glacial]<INFO>550069</INFO></ITEM>",
-				[23] = "<ITEM>[Bastón Glacial]<INFO>640033</INFO></ITEM>",
-				[24] = "<ITEM>[Cola de Gato Glacial]<INFO>550070</INFO></ITEM>",
-				[25] = "<ITEM>[Violín Glacial]<INFO>570029</INFO></ITEM>",
-				[26] = "<ITEM>[Látigo Glacial]<INFO>580030</INFO></ITEM>",
-				[27] = "<ITEM>[Shuriken Huuma Glacial]<INFO>650025</INFO></ITEM>",
-				[28] = "<ITEM>[Revólver Glacial]<INFO>800014</INFO></ITEM>",
-				[29] = "<ITEM>[Rifle Glacial]<INFO>810010</INFO></ITEM>",
-				[30] = "<ITEM>[Escopeta Glacial]<INFO>820008</INFO></ITEM>",
-				[31] = "<ITEM>[Ametralladora Gatling Glacial]<INFO>830013</INFO></ITEM>",
-				[32] = "<ITEM>[Lanzador Glacial]<INFO>840009</INFO></ITEM>",
-				[33] = "",
-				[34] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[35] = "<TIPBOX>»Recompensas de Episodio<INFO>4107</INFO></TIPBOX>",
-				[36] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4260] = {
-		Title = "Q Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo(200)#MisiónEpisodio19Inicio",
-		Page = {
-			[1] = {
-				[1] = "En la entrada de la Aldea del Lobo Gris, Maram transmite un mensaje de Ely: se ha encontrado una ruta marítima hacia Issgard y te piden que vayas a la Mansión de Varmundt. Maram y Miriam quieren unirse al viaje a Issgard para recuperar el fragmento del Corazón de Ymir robado por Bagot.",
-				[2] = "",
-				[3] = "<TIPBOX>»EP. 18 Dirección de la Oración<INFO>4217</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Habitante de la Aldea del Lobo Gris]<INFO>wolfvill,223,83,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4261] = {
-		Title = "Q Patrulla del Águila(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "El Castillo de Hielo de Issgard alberga a la orgullosa Patrulla del Águila. Para conocer los alrededores del castillo, debes unirte a la patrulla y acompañarla en sus rondas.",
-				[2] = "",
-				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Capitán de la Patrulla]<INFO>icecastle,23,115,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4262] = {
-		Title = "Q Encuentro con el Experimento 210426(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Mientras patrullas las inhóspitas llanuras heladas de Issgard con la Patrulla del Águila, descubres rastros sospechosos...",
-				[2] = "",
-				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Joven Misterioso]<INFO>1@iwp,240,373,0,101,0</INFO></NAVI>",
-				[7] = "※La navegación solo está disponible en el mapa donde se realiza la patrulla.",
-				[8] = "",
-				[9] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4263] = {
-		Title = "Q El Plan de Lazy(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "El joven misterioso que encontraste durante la ronda en las Llanuras de las Escamas Congeladas poseía poderes extraordinarios. Tras ver un pergamino misterioso, Lazy idea un plan.",
-				[2] = "",
-				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> En curso",
-				[4] = "<TIPBOX>»Encuentro con el Experimento 210426<INFO>4262</INFO></TIPBOX> Completada",
-				[5] = "^663399§Nivel 200 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
-				[8] = "",
-				[9] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4264] = {
-		Title = "Q Infiltración en el Nido de la Serpiente(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Tú y Lazy deciden usar Pergaminos de Transformación en Rgan frente al Nido de la Serpiente para disfrazarse de Rgans e infiltrarse. ¡Otro plan de Lazy se desarrolla lejos de casa, cerca del Castillo de Hielo de Issgard! ¿Funcionará esta vez?",
-				[2] = "",
-				[3] = "<TIPBOX>»El Plan de Lazy<INFO>4263</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Horr]<INFO>jor_back3,88,318,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4265] = {
-		Title = "Q Informe de Progreso de la Infiltración(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Al no poder obtener más información en el Nido de la Serpiente, el aventurero y Lazy deciden regresar al Castillo de Hielo e informar de lo que descubrieron sobre el dirigible y las personas secuestradas.",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Lazy]<INFO>jor_nest,87,164,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4266] = {
-		Title = "Q En Busca de Pistas(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Mientras los humanos del Nido de la Serpiente están ausentes, Lazy propone registrar sus alojamientos en busca de información. El objetivo es encontrar pistas sobre las investigaciones de Ilusión y el conflicto entre Bagot y Juncea.",
-				[2] = "",
-				[3] = "<TIPBOX>»Informe de Progreso de la Infiltración<INFO>4265</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Lazy]<INFO>jor_nest,124,204,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4267] = {
-		Title = "Q Infiltración Silenciosa(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Juncea llegó a Issgard antes que Bagot y consolidó su posición colaborando con los Rgans. Le molesta que Bagot, que se unió después, reciba todos los beneficios. Aprovechar la tensión entre ambos podría dar buenos resultados.",
-				[2] = "",
-				[3] = "<TIPBOX>»En Busca de Pistas<INFO>4266</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Juncea]<INFO>jor_nset,31,140,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4268] = {
-		Title = "Q Sospechas Crecientes(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Lazy, que está trabajando contigo en el Castillo de Hielo de Issgard, propone intentar convencer a Juncea de cambiar de bando ahora que ha surgido una división entre ella y Bagot.",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración Silenciosa<INFO>4267</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Lazy]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4269] = {
-		Title = "Q Por Poco, las Verdaderas Intenciones de Bagot(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Corres al Nido de la Serpiente, hogar de los Rgans, como propuso Lazy, pero algo parece extraño. Investigar el laboratorio de Juncea podría revelar alguna pista.",
-				[2] = "",
-				[3] = "<TIPBOX>»Sospechas Crecientes<INFO>4268</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Caja Desconocida]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>",
-				[7] = "※Conduce a una MD para avanzar en la historia.",
-				[8] = "",
-				[9] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[10] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4270] = {
-		Title = "Q Caos en el Nido de la Serpiente, los Desaparecidos(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Horr, que ayuda al aventurero en el Castillo de Hielo de Issgard, quiere devolver a Juncea a su forma original. Mientras tanto, Lazy considera sospechosa la actividad en el Nido de la Serpiente y propone investigar.",
-				[2] = "",
-				[3] = "<TIPBOX>»Por Poco, las Verdaderas Intenciones de Bagot<INFO>4269</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Horr]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4271] = {
-		Title = "Q Santa de la Purificación(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Voglinde espera a su sobrino en el Castillo de Hielo de Issgard. Está preocupada porque Lehar aún no ha traído a Friederike, la santa necesaria para la purificación.",
-				[2] = "",
-				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Voglinde]<INFO>icas_in,162,224,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4272] = {
-		Title = "Q Mar Congelado(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Shurr, del Castillo de Hielo de Issgard, quiere encontrar a un amigo. Parece que salió a las llanuras y no ha regresado. ¡Ayuda a Shurr a encontrarlo!",
-				[2] = "",
-				[3] = "<TIPBOX>»Santa de la Purificación<INFO>4271</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4273] = {
-		Title = "Q Curiosidades(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Delphanagand, un Rgan de máximo rango que está cerca del criadero, quiere que escuches lo que cuentan los Rgans de rango intermedio que trabajan allí. ",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Delphanagand]<INFO>jor_nest,239,239,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4274] = {
-		Title = "Q Una Serpiente Vieja(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Aleigand, un Rgan de máximo rango, amenaza de repente al aventurero disfrazado de Rgan... ¡¿Qué le ocurre a Aleigand?!",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Aleigand]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4275] = {
-		Title = "Q Doctrina y Sermones(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. En algún lugar del nido, un Rgan destaca por hablar con los demás de forma muy tranquila. ¿Qué les estará contando...?",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Bernagand]<INFO>jor_nest,17,97,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4276] = {
-		Title = "Q Una Forma Especial de Sobrevivir(200)#MisiónEpisodio19",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Mimirgand quiere enseñar muchas cosas al sacerdote recién llegado. Aprende el modo de supervivencia de los Rgans, empezando por lo básico.",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Mimirgand]<INFO>jor_nest,34,79,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4277] = {
-		Title = "Q En Busca de un Escondite en la Superficie(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Horr quiere investigar todos los campos de Issgard para encontrar el escondite de los líderes Rgans que desaparecieron. Ayuda a Horr a buscarlo.",
-				[2] = "",
-				[3] = "<TIPBOX>»Caos en el Nido de la Serpiente, los Desaparecidos<INFO>4270</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Horr]<INFO>icecastle,32,184,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4278] = {
-		Title = "Q Ayudando a Moryara a Pescar(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "En el extremo congelado de Issgard, el Iwin Moryara contempla solo las tranquilas olas en un lugar apartado. Quiere que el aventurero que acaba de conocer pruebe a pescar. Pero... ¿qué ocurrirá?",
-				[2] = "",
-				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Moryara]<INFO>jor_tail,48,241,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4279] = {
-		Title = "Q El Alegre Almuerzo de Joryara(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Joryara cocina en el comedor exclusivo de los Iwins, la única instalación de bienestar del Castillo de Hielo de Issgard. Pero tiene una tarea aún más importante que cocinar. ¿Cuál será...?",
-				[2] = "",
-				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Joryara]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4280] = {
-		Title = "Q ¡No Alimentes a los Animales!(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "El intendente de la patrulla del Castillo de Hielo de Issgard está preocupado por la comida que alguien está escondiendo para los animales salvajes en las Colinas de las Escamas Congeladas.",
-				[2] = "",
-				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Intendente]<INFO>icecastle,97,177,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4281] = {
-		Title = "Q Diversión a Escondidas(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Issgard es muy fría. Ni los Iwins, cubiertos de un cálido pelaje, logran escapar del frío. El soldado Horiryu quiere valerse del aventurero para sustituir los suministros por plumas más cálidas.",
-				[2] = "",
-				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Soldado Horiryu]<INFO>icas_in,33,53,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4282] = {
-		Title = "Q La Elección del Menú de Lunch(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Lunch sobrevive en las Llanuras de las Escamas Congeladas de Issgard mientras sueña con un futuro brillante. Ayuda a alimentar al hambriento Lunch en esta tierra donde solo hay hielo.",
-				[2] = "",
-				[3] = "<TIPBOX>»Encuentro con el Experimento 210426<INFO>4262</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Lunch]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4283] = {
-		Title = "Q Sacerdote, Ten Piedad(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Un Rgan leal llamado Pabuyasabigand quiere que le traigas cáscaras del exterior.",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Pabuyasabigand]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4284] = {
-		Title = "Q Un Rostro Desconocido(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Entre ellos hay uno que hace peticiones muy extrañas. Escucha lo que tiene que decir el peculiar Rgan Sidrgand.",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Sidrgand]<INFO>jor_nest,239,244,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4285] = {
-		Title = "Q Recolección de Materiales de Investigación para Bellgund(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Bellgund, que investiga en el Castillo de Hielo de Issgard, necesita núcleos mágicos para su trabajo. Justo entonces pasa un aventurero.",
-				[2] = "",
-				[3] = "<TIPBOX>»Visitantes del Viento del Norte, Encuentro en el Castillo de Hielo<INFO>4260</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Bellgund]<INFO>icas_in,185,63,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4286] = {
-		Title = "Q Búsqueda de los Perdidos(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Durante la infiltración en el Nido de la Serpiente, descubriste indicios de que muchas personas de Midgard habían sido secuestradas.",
-				[2] = "Rescataste a los cautivos, pero parece que algunos escaparon del nido de los Rgans y quedaron perdidos en los campos nevados.",
-				[3] = "",
-				[4] = "<TIPBOX>»Caos en el Nido de la Serpiente, los Desaparecidos<INFO>4270</INFO></TIPBOX> Completada",
-				[5] = "^663399§Nivel 200 o superior^000000",
-				[6] = "",
-				[7] = "<NAVI>[Leon]<INFO>icas_in,42,252,0,101,0</INFO></NAVI>",
-				[8] = "<NAVI>[Miriam]<INFO>icas_in,48,252,0,101,0</INFO></NAVI>",
-				[9] = "",
-				[10] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[11] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4287] = {
-		Title = "Q Una Afición Elegante(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. La afición de Berbergand es la artesanía y, cuando empieza, ni el trabajo ni sus peticiones de materiales tienen fin.",
-				[2] = "",
-				[3] = "<TIPBOX>»Una Forma Especial de Sobrevivir<INFO>4276</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Berbergand]<INFO>jor_nest,37,75,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4288] = {
-		Title = "Q Por Condiciones de Trabajo Seguras(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Hanadeosaragand, encargado de recolectar hielo, tiene una gran preocupación. ¡Sacerdote, por favor, ayuda!",
-				[2] = "",
-				[3] = "<TIPBOX>»Infiltración en el Nido de la Serpiente<INFO>4264</INFO></TIPBOX> En curso",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Hanadeosaragand]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4289] = {
-		Title = "Q Nuestro Preciado Sustento(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Los Rgans viven en el Nido de la Serpiente en Issgard. Mimirgand quiere tu ayuda para obtener combustible y poder mágico a la manera de los Rgans.",
-				[2] = "",
-				[3] = "<TIPBOX>»Una Forma Especial de Sobrevivir<INFO>4276</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Nombre]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4290] = {
-		Title = "Q El Día de Friederike(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Friederike, la Santa de la Purificación enviada al Castillo de Hielo de Issgard, tiene la tarea de purificar núcleos mágicos de los Rgans. Busca a un aventurero que reúna las piedras mágicas que debe purificar.",
-				[2] = "",
-				[3] = "<TIPBOX>»Santa de la Purificación<INFO>4271</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Friederike]<INFO>icas_in,32,123,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4291] = {
-		Title = "Q ¿Necesitamos un Refrigerador?(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Tataring, que estuvo a punto de morir tras quedar perdido en Issgard, se aloja en el Castillo de Hielo. De vez en cuando pide ayuda para conseguir comida.",
-				[2] = "",
-				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4292] = {
-		Title = "Q Herramientas Crujientes(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Tataring se está adaptando bien al Castillo de Hielo y parece haber colocado trampas para conseguir comida. ¿Comprobamos si funcionan correctamente?",
-				[2] = "",
-				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Tataring]<INFO>icas_in,27,122,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4293] = {
-		Title = "Q Un Lugar para Abandonar 1(220)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Shurr, el hábil Iwin buceador del Castillo de Hielo de Issgard, cree que es necesario reducir la cantidad de monstruos de la planta 1 del Pozo Abandonado. Los aventureros son especialistas en ese tipo de limpieza agresiva.",
-				[2] = "",
-				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4294] = {
-		Title = "Q Un Lugar para Abandonar 2(240)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Shurr, el hábil Iwin buceador del Castillo de Hielo de Issgard, cree que es necesario reducir la cantidad de monstruos de la planta 2 del Pozo Abandonado. Los aventureros son especialistas en ese tipo de limpieza agresiva.",
-				[2] = "",
-				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4295] = {
-		Title = "Q Cavando sin Parar(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Shurr, el hábil Iwin buceador del Castillo de Hielo de Issgard, quiere investigar regularmente los rastros siniestros del Pozo Abandonado para garantizar la seguridad.",
-				[2] = "",
-				[3] = "<TIPBOX>»Mar Congelado<INFO>4272</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4296] = {
-		Title = "Q Patrulla con los Iwins(200)#MisiónEpisodio19MisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "La Patrulla del Águila del Castillo de Hielo de Issgard es una fuerza de confianza. Su capitán siempre está reclutando personas para acompañar las rondas. Si quieres, puedes participar todos los días.",
-				[2] = "",
-				[3] = "<TIPBOX>»Patrulla del Águila<INFO>4261</INFO></TIPBOX> Completada",
-				[4] = "^663399§Nivel 200 o superior^000000",
-				[5] = "",
-				[6] = "<NAVI>[Shurr]<INFO>icas_in,27,116,0,101,0</INFO></NAVI>",
-				[7] = "",
-				[8] = "<TIPBOX>»Episode 19 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4297] = {
-		Title = "MD 19 Simulación de Juncea#200EpisodioMisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "Los investigadores del Castillo de Hielo concluyeron que los datos del monstruo en el que se transformó Juncea podían usarse para entrenar en combate. Basándose en el relato del aventurero, crearon los datos de la Simulación de Juncea. Se construyó una zona de entrenamiento que recrea la batalla contra Juncea en un rincón del Nido de la Serpiente.",
-				[2] = "",
-				[3] = "§ Requisito previo: <TIPBOX>»Caos en el Nido de la Serpiente, los Desaparecidos<INFO>4270</INFO></TIPBOX> Completada",
-				[4] = "",
-				[5] = "§ Detalles de la Mazmorra",
-				[6] = "> Se puede completar a diario (se reinicia a las 04:00 del día siguiente)",
-				[7] = "> Límite de tiempo: 60 minutos",
-				[8] = "> Nivel 200 o superior",
-				[9] = "",
-				[10] = "<NAVI>[Arorong]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>",
-				[11] = "",
-				[12] = "<TIPBOX>»Episode 18 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[13] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
-			}
-		}
-	},
-	[4298] = {
-		Title = "MD 19 Destrucción del Dirigible#200EpisodioMisiónDiaria",
-		Page = {
-			[1] = {
-				[1] = "El dirigible robado por Ilusión está en el Nido de la Serpiente. Tras hablar con tus compañeros, decides destruirlo para impedir que Ilusión y los Rgans sigan usándolo. Pero el dirigible, que encarna el ingenio de Varmundt, no será fácil de derribar...",
-				[2] = "",
-				[3] = "§ Requisito previo: <TIPBOX>»Informe de Progreso de la Infiltración<INFO>4265</INFO></TIPBOX> Completada",
-				[4] = "",
-				[5] = "§ Detalles de la Mazmorra",
-				[6] = "> Se puede completar a diario (se reinicia a las 04:00 del día siguiente)",
-				[7] = "> Límite de tiempo: 60 minutos",
-				[8] = "> Nivel 200 o superior",
-				[9] = "^663399§Esta MD se usa para avanzar en la misión.^000000",
-				[10] = "",
-				[11] = "<NAVI>[Rope]<INFO>jor_nest,21,258,0,101,0</INFO></NAVI>",
-				[12] = "",
-				[13] = "<TIPBOX>»Episode 18 Issgard, Tierra de las Flores de Nieve<INFO>4257</INFO></TIPBOX>",
-				[14] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
-				[15] = "<TIPBOX>»Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	}

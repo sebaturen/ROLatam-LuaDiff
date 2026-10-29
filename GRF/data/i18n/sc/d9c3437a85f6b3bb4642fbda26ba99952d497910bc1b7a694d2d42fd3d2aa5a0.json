@@ -16,23 +16,23 @@
     },
     "43EJDg": {
         "en-US": "^4D4DFF!-Warning-!^000000\n^4D4DFFYour inventory does not have enough free space, or you are carrying close to the maximum amount of the same item.^000000\n^4D4DFFPlease use Kafra or Zonda storage services to organize your inventory.^000000",
-        "pt-BR": "^4D4DFF!-Atenção-!^000000\n^4D4DFFNão há espaço livre no inventário ou você está carregando uma quantidade próxima do limite do mesmo item.^000000\n^4D4DFFUse o serviço de Armazém da Kafra ou da Zonda para organizar seus itens.^000000",
-        "es-ES": "^4D4DFF!-ADVERTENCIA-!^000000\n^4D4DFFNo tiene suficiente espacio en el inventario o posee una cantidad de un mismo objeto cercana al límite.^000000\n^4D4DFFUse el servicio de almacén de Kafra o Zonda para organizar su inventario.^000000"
+        "pt-BR": "^4D4DFF!-Atenção-!^000000\n^4D4DFFNão há espaço livre no inventário ou você está carRgando uma quantidade próxima do limite do mesmo item.^000000\n^4D4DFFUse o serviço de Armazém da Kafra ou da Zonda para organizar seus itens.^000000",
+        "es-ES": "^4D4DFF!-ADVERTENCIA-!^000000\n^4D4DFFNo tienes suficiente espacio en el inventario o posees una cantidad de un mismo objeto cercana al límite.^000000\n^4D4DFFUsa el servicio de almacén de Kafra o Zonda para organizar tu inventario.^000000"
     },
     "5HEJDg": {
         "en-US": "[Mysterious Young Man]\nHuh?! We meet again!",
         "pt-BR": "[Jovem Misterioso]\nHã?! Nos encontramos de novo!",
-        "es-ES": "[Joven misterioso]\n¡¿Eh?! ¡Nos volvemos a encontrar!"
+        "es-ES": "[Joven Misterioso]\n¡¿Eh?! ¡Nos volvemos a encontrar!"
     },
     "5XEJDg": {
         "en-US": "[{0}]\nOh! It's you, my test subject friend!",
         "pt-BR": "[{0}]\nAh! É você, meu amigo cobaia!",
-        "es-ES": "[{0}]\n¡Ah! ¡Eres tú, mi amigo sujeto de pruebas!"
+        "es-ES": "[{0}]\n¡Eres tú! ¡Mi acompañante del campo de pruebas!"
     },
     "5nEJDg": {
         "en-US": "[Mysterious Young Man]\nOh! Friend... You're my first friend. Friend.. I like having a friend.",
         "pt-BR": "[Jovem Misterioso]\nOh! Amigo… É a primeira vez que alguém me chama assim. Amigo.. Eu gosto de amigo.",
-        "es-ES": "[Joven misterioso]\n¡Oh! Nunca antes había tenido un amigo. Amigo... Me gusta tener un amigo."
+        "es-ES": "[Joven Misterioso]\nNunca había tenido un acompañante, alguien de quien ser amigo."
     },
     "53EJDg": {
         "en-US": "[{0}]\nOh, right! Come to think of it, we never introduced ourselves, did we? What's your name? What should I call you?",
@@ -42,22 +42,22 @@
     "6HEJDg": {
         "en-US": "[Mysterious Young Man]\nName?",
         "pt-BR": "[Jovem Misterioso]\nNome?",
-        "es-ES": "[Joven misterioso]\n¿Nombre?"
+        "es-ES": "[Joven Misterioso]\n¿Cómo me llamo?"
     },
     "6XEJDg": {
         "en-US": "[Mysterious Young Man]\nAh! Do you mean what I'm called? In that case, it's HU-210426.",
         "pt-BR": "[Jovem Misterioso]\nAh! Está falando de como me chamam? Nesse caso, é HU-210426.",
-        "es-ES": "[Joven misterioso]\n¡Ah! ¿Se refiere a la denominación con la que me llaman? En ese caso, es HU-210426."
+        "es-ES": "[Joven Misterioso]\n¡Ah! ¿La denominación a la que te refieres a mí? En ese caso, es HU-210426."
     },
     "6nEJDg": {
         "en-US": "[Mysterious Young Man]\nYou'd know if you scanned the barcode engraved on my head..",
         "pt-BR": "[Jovem Misterioso]\nVocê saberia se escaneasse o código de barras gravado na minha cabeça..",
-        "es-ES": "[Joven misterioso]\nPodría saberlo si escaneara el código de barras grabado en mi cabeza..."
+        "es-ES": "[Joven Misterioso]\nSi lees el código de barras en mi cabeza, lo vas a ver."
     },
     "63EJDg": {
         "en-US": "[Mysterious Young Man]\nI guess you don't have that kind of equipment since you're not an Illusion scientist. That's reassuring in a lot of ways.",
-        "pt-BR": "[Jovem Misterioso]\nParece que, como você não é cientista da Ilusão, não tem esse tipo de equipamento. Isso me deixa aliviado de várias formas.",
-        "es-ES": "[Joven misterioso]\nSupongo que no tiene ese tipo de equipo porque no es científico de Illusion. Eso me tranquiliza en varios sentidos."
+        "pt-BR": "[Jovem Misterioso]\nParece que, como você não é cientista da Ilusión, não tem esse tipo de equipamento. Isso me deixa aliviado de várias formas.",
+        "es-ES": "[Joven Misterioso]\nSupongo que no tiene ese tipo de equipamiento porque no es científico de Ilusión. Eso me tranquiliza en varios sentidos."
     },
     "7HEJDg": {
         "en-US": "[{0}]\nOh! Sorry, I forgot you're a test subject. Still, HU-210426 is a bit hard to call you.",
@@ -66,43 +66,43 @@
     },
     "7XEJDg": {
         "en-US": "[{0}]\nHow about Lunch? You seem older than Morning, and come to think of it, you probably aren't completely unrelated to Morning either, right?",
-        "pt-BR": "[{0}]\nQue tal Jeomsim? Você parece mais velho que Achim e, pensando bem, acho que vocês não são completamente estranhos um para o outro.",
-        "es-ES": "[{0}]\n¿Qué te parece Almuerzo? Pareces mayor que Desayuno y, pensándolo bien, no creo que seas completamente ajeno a él."
+        "pt-BR": "[{0}]\nQue tal Rango? Significa \"almoço\", e você parece que veio depois de Morning, que significa \"manhã\". Vocês devem ter alguma relação, não é?",
+        "es-ES": "[{0}]\n¿Qué te parece Albor? Pareces mayor que Morning y, pensándolo bien, no creo que seas completamente ajeno a él."
     },
     "7nEJDg": {
         "en-US": "[{0}]\nLunch! How about Lunch? It happens to be Lunch time right now, and it seems easier than calling you HU-210426.",
-        "pt-BR": "[{0}]\nJeomsim! Que tal Jeomsim? Por acaso agora também é hora do Jeomsim, e parece mais fácil do que chamar você de HU-210426.",
-        "es-ES": "[{0}]\n¡Almuerzo! ¿Qué te parece Almuerzo? Justo ahora es la hora del Almuerzo y parece más fácil que llamarte HU-210426."
+        "pt-BR": "[{0}]\nRango! Que tal Rango? Significa almoço, e estamos bem na hora do almoço! Fora que é mais fácil do que chamar você de HU-210426.",
+        "es-ES": "[{0}]\n¡Albor! ¿Qué te parece? Me parece más fácil que te llames así que \"HU-210426\"."
     },
     "73EJDg": {
         "en-US": "[Mysterious Young Man]\nLunch.. Lunch..\nThat's an easy name to call. Then please call me Lunch from now on.",
-        "pt-BR": "[Jovem Misterioso]\nJeomsim.. Jeomsim..\nÉ um nome fácil de chamar. Então, de agora em diante, me chame de Jeomsim.",
-        "es-ES": "[Joven misterioso]\nAlmuerzo... Almuerzo...\nEs un nombre fácil de decir. Entonces, de ahora en adelante, llámeme Almuerzo."
+        "pt-BR": "[Jovem Misterioso]\nRango.. Rango..\nÉ um nome fácil de dzer. Então, de agora em diante, me chame de Rango.",
+        "es-ES": "[Joven Misterioso]\nAlbor... Albor...\nEs un nombre fácil de decir. Bueno, de ahora en adelante, seré \"Albor\"."
     },
     "8HEJDg": {
         "en-US": "[{0}]\nAll right, Lunch! And this might be painful to talk about, but could you tell me how you managed to escape?",
-        "pt-BR": "[{0}]\nCerto, Jeomsim! E, mesmo que seja doloroso, você pode me contar como conseguiu escapar?",
-        "es-ES": "[{0}]\n¡Bien, Almuerzo! Y aunque quizá sea difícil para ti, ¿podrías contarme cómo lograste escapar?"
+        "pt-BR": "[{0}]\nCerto, Rango! E, mesmo que seja doloroso, você pode me contar como conseguiu escapar?",
+        "es-ES": "[{0}]\n¡Bien, Albor! Y aunque no sea fácil para ti, ¿me puedes contar como escapaste?"
     },
     "8XEJDg": {
         "en-US": "[Lunch]\nPainful? Not at all. Where should I start? Ah! I guess I should start with that part.",
-        "pt-BR": "[Jeomsim]\nDoloroso? Que nada. Por onde seria melhor começar? Ah! Acho que posso começar por aquela parte.",
-        "es-ES": "[Almuerzo]\nNo es para tanto. ¿Por dónde debería empezar? ¡Ah! Creo que puedo empezar por esa parte."
+        "pt-BR": "[Rango]\nDoloroso? Que nada. Por onde seria melhor começar? Ah! Acho que posso começar por aquela parte.",
+        "es-ES": "[Albor]\nNo es para tanto. ¿Por dónde empiezo? ¡Ah! Creo que puedo empezar por esa parte."
     },
     "8nEJDg": {
         "en-US": "[Lunch]\nIt was a day when scientists were experimenting on me as usual at some large mansion.",
-        "pt-BR": "[Jeomsim]\nFoi em um dia em que, como de costume, os cientistas estavam fazendo vários experimentos comigo em uma grande mansão.",
-        "es-ES": "[Almuerzo]\nFue un día en que, como de costumbre, los científicos me sometían a todo tipo de experimentos en una gran mansión."
+        "pt-BR": "[Rango]\nFoi em um dia em que, como de costume, os cientistas estavam fazendo vários experimentos comigo em uma grande mansão.",
+        "es-ES": "[Albor]\nFue un día en que, como de costumbre, los científicos me sometían a todo tipo de experimentos en una gran mansión."
     },
     "83EJDg": {
         "en-US": "[Lunch]\nBut then the scientists suddenly started packing up their things.",
-        "pt-BR": "[Jeomsim]\nMas, de repente, os cientistas começaram a arrumar as coisas às pressas.",
-        "es-ES": "[Almuerzo]\nPero, de repente, los científicos empezaron a empacar sus cosas."
+        "pt-BR": "[Rango]\nMas, de repente, os cientistas começaram a arrumar as coisas às pressas.",
+        "es-ES": "[Albor]\nPero, de repente, los científicos empezaron a empacar sus cosas."
     },
     "9HEJDg": {
         "en-US": "[Lunch]\nA lot of test subjects were abandoned or disposed of in the process, but I came here with the scientists aboard an airship.",
-        "pt-BR": "[Jeomsim]\nNesse processo, muitos espécimes foram abandonados ou descartados, mas eu vim até aqui de dirigível com os cientistas.",
-        "es-ES": "[Almuerzo]\nDurante ese proceso, muchos sujetos de prueba fueron abandonados o desechados, pero yo vine hasta aquí en una aeronave junto con los científicos."
+        "pt-BR": "[Rango]\nNesse processo, muitos espécimes foram abandonados ou descartados, mas eu vim até aqui de dirigível com os cientistas.",
+        "es-ES": "[Albor]\nDurante ese proceso, muchos sujetos de prueba fueron abandonados o desechados, pero yo vine hasta aquí en una aeronave junto con los científicos."
     },
     "9XEJDg": {
         "en-US": "[{0}]\nThat must have been hard.",
@@ -111,48 +111,48 @@
     },
     "9nEJDg": {
         "en-US": "[Lunch]\nHard? Being abandoned or disposed of is pretty common. I'll continue.",
-        "pt-BR": "[Jeomsim]\nDifícil? Ser abandonado ou descartado é algo comum. Vou continuar.",
-        "es-ES": "[Almuerzo]\nNo fue para tanto. Que nos abandonen o desechen es algo bastante común. Continuaré."
+        "pt-BR": "[Rango]\nDifícil? Ser abandonado ou descartado é algo comum. Vou continuar.",
+        "es-ES": "[Albor]\nNo fue para tanto. Que nos abandonen o desechen es algo bastante común. Continuaré."
     },
     "93EJDg": {
         "en-US": "[Lunch]\nThe scientists met some long-bodied creatures when they came here. They're a race called Rgan.",
-        "pt-BR": "[Jeomsim]\nQuando os cientistas chegaram aqui, encontraram umas criaturas de corpo comprido. São de uma raça chamada Rgan.",
-        "es-ES": "[Almuerzo]\nCuando los científicos llegaron aquí, se encontraron con unos seres de cuerpos alargados. Son una especie llamada Rgan."
+        "pt-BR": "[Rango]\nQuando os cientistas chegaram aqui, encontraram umas criaturas de corpo comprido. São de uma raça chamada Rgan.",
+        "es-ES": "[Albor]\nCuando los científicos llegaron aquí, se encontraron con unos seres de cuerpos alargados. Son una especie llamada \"Rgan\"."
     },
     "+HEJDg": {
         "en-US": "[Lunch]\nI don't know what the scientists were doing with that race, but they stopped paying attention to the test subjects they brought from the large mansion, including me.",
-        "pt-BR": "[Jeomsim]\nNão sei o que os cientistas fazem com essa raça, mas perderam o interesse nos espécimes que trouxeram da grande mansão, inclusive em mim.",
+        "pt-BR": "[Rango]\nNão sei o que os cientistas fazem com essa raça, mas perderam o interesse nos espécimes que trouxeram da grande mansão, inclusive em mim.",
         "es-ES": "[Almuerzo]\nNo sé qué hacen los científicos con esa especie, pero dejaron de interesarse en los sujetos de prueba que habían traído de la gran mansión, incluido yo."
     },
     "+XEJDg": {
         "en-US": "[Lunch]\nNo, rather than losing interest, it seemed like they got so absorbed in other experiments that they forgot we even existed.",
-        "pt-BR": "[Jeomsim]\nNão, pensando bem, acho que não foi falta de interesse. Parecia que estavam tão ocupados com outros experimentos que acabaram esquecendo da nossa existência.",
+        "pt-BR": "[Rango]\nNão, pensando bem, acho que não foi falta de interesse. Parecia que estavam tão ocupados com outros experimentos que acabaram esquecendo da nossa existência.",
         "es-ES": "[Almuerzo]\nNo, más que perder el interés, parecía que estaban tan absortos en otros experimentos que se olvidaron de nuestra existencia."
     },
     "+nEJDg": {
         "en-US": "[Lunch]\nWell, that's pretty common for scientists who get completely absorbed in their experiments.",
-        "pt-BR": "[Jeomsim]\nBem, isso é algo comum entre cientistas completamente absortos em seus experimentos.",
+        "pt-BR": "[Rango]\nBem, isso é algo comum entre cientistas completamente absortos em seus experimentos.",
         "es-ES": "[Almuerzo]\nBueno, eso es bastante común entre los científicos que se obsesionan con sus experimentos."
     },
     "+3EJDg": {
         "en-US": "[Lunch]\nThe other test subjects who had been left unattended started collapsing one by one. I was a specimen that could produce energy by eating just about anything, but..",
-        "pt-BR": "[Jeomsim]\nOs outros espécimes abandonados foram caindo um após o outro. Eu era um espécime capaz de produzir energia comendo praticamente qualquer coisa, mas..",
+        "pt-BR": "[Rango]\nOs outros espécimes abandonados foram caindo um após o outro. Eu era um espécime capaz de produzir energia comendo praticamente qualquer coisa, mas..",
         "es-ES": "[Almuerzo]\nLos demás sujetos de prueba abandonados fueron cayendo uno tras otro. Bueno, yo era un espécimen capaz de producir energía comiendo prácticamente cualquier cosa..."
     },
     "/HEJDg": {
         "en-US": "[Lunch]\nThe other test subjects couldn't do that.",
-        "pt-BR": "[Jeomsim]\nOs outros espécimes não conseguiam fazer isso.",
-        "es-ES": "[Almuerzo]\nPero los demás sujetos de prueba no podían hacerlo."
+        "pt-BR": "[Rango]\nOs outros espécimes não conseguiam fazer isso.",
+        "es-ES": "[Albor]\nPero los demás sujetos de prueba no podían hacerlo."
     },
     "/XEJDg": {
         "en-US": "[Lunch]\nAs time passed, even the last remaining test subject fell asleep and stopped moving..",
-        "pt-BR": "[Jeomsim]\nO tempo foi passando, até que o último espécime restante também adormeceu e parou de se mover..",
-        "es-ES": "[Almuerzo]\nAsí pasó el tiempo, hasta que el último sujeto de prueba que quedaba también se quedó dormido y dejó de moverse..."
+        "pt-BR": "[Rango]\nO tempo foi passando, até que o último espécime restante também adormeceu e parou de se mover...",
+        "es-ES": "[Albor]\nAsí pasó el tiempo, hasta que el último sujeto de prueba se quedó dormido y dejó de moverse..."
     },
     "/nEJDg": {
         "en-US": "[Lunch]\nI was getting bored too.. so while I was at it, I transformed into a small animal passing nearby and escaped from the cage I was trapped in.",
-        "pt-BR": "[Jeomsim]\nEu também estava entediado.. então aproveitei para me transformar em um animal pequeno que passava por perto e escapar da jaula onde estava preso.",
-        "es-ES": "[Almuerzo]\nComo también estaba aburrido... aproveché para transformarme en un animal pequeño que pasaba por los alrededores y escapé de la jaula donde estaba encerrado."
+        "pt-BR": "[Rango]\nEu também estava entediado... Então aproveitei para me transformar em um animal pequeno que passava por perto e escapar da jaula onde estava preso.",
+        "es-ES": "[Albor]\nComo también estaba aburrido... aproveché para transformarme en un animal pequeño que pasaba por los alrededores y escapé de la jaula donde estaba encerrado."
     },
     "/3EJDg": {
         "en-US": "[{0}]\nWhat? You transformed into a small animal?",
@@ -161,13 +161,13 @@
     },
     "AHIJDg": {
         "en-US": "[Lunch]\nAh! One of my abilities lets me transform into other beings.",
-        "pt-BR": "[Jeomsim]\nAh! Uma das minhas habilidades é poder me transformar em outros seres.",
-        "es-ES": "[Almuerzo]\n¡Ah! Una de mis habilidades es poder transformarme en otros seres."
+        "pt-BR": "[Rango]\nAh! Uma das minhas habilidades é me transformar em outros seres.",
+        "es-ES": "[Albor]\n¡Ah! Una de mis habilidades es poder transformarme en otros seres."
     },
     "AXIJDg": {
         "en-US": "[Lunch]\nIsn't that amazing?\nIt's my own highly advanced ability that the early specimens couldn't use! The scientists probably brought me all the way here because of this ability.",
-        "pt-BR": "[Jeomsim]\nNão é incrível?\nÉ uma habilidade só minha, muito mais avançada do que aquilo que os espécimes iniciais conseguiam fazer! Os cientistas provavelmente me trouxeram até aqui por causa dessa habilidade.",
-        "es-ES": "[Almuerzo]\n¿No es increíble?\n¡Es una habilidad propia muy avanzada que los especímenes iniciales no podían usar! Probablemente los científicos me trajeron hasta aquí precisamente por esta habilidad."
+        "pt-BR": "[Rango]\nNão é incrível?\nÉ uma habilidade só minha, muito mais avançada do que aquilo que os espécimes iniciais conseguiam fazer! Os cientistas provavelmente me trouxeram até aqui por causa dessa habilidade.",
+        "es-ES": "[Albor]\n¿No es increíble?\n¡Es una habilidad propia muy avanzada que los especímenes iniciales no podían usar! Probablemente los científicos me trajeron hasta aquí precisamente por esta habilidad."
     },
     "AnIJDg": {
         "en-US": "[{0}]\nCan you transform other beings too?",
@@ -176,38 +176,38 @@
     },
     "A3IJDg": {
         "en-US": "[Lunch]\nUh.. unlike with me, it does require a few materials.. and not everything can be transformed, but..",
-        "pt-BR": "[Jeomsim]\nHm.. diferente de mim, são necessários alguns materiais.. e nem todo mundo pode se transformar, mas..",
-        "es-ES": "[Almuerzo]\nEh... a diferencia de mí, se necesitan algunos materiales... y no todos pueden transformarse, pero..."
+        "pt-BR": "[Rango]\nHm.. diferente de mim, são necessários alguns materiais.. e nem todo mundo pode se transformar, mas..",
+        "es-ES": "[Albor]\nA diferencia de mí, se necesitan algunos materiales... y no todos pueden transformarse, pero..."
     },
     "BHIJDg": {
         "en-US": "[Lunch]\nIt's not impossible. For example, something like the Rgan race? Anyone can transform into one pretty easily.",
-        "pt-BR": "[Jeomsim]\nNão é impossível. Por exemplo, algo como a raça Rgan? Nisso, qualquer pessoa consegue se transformar facilmente.",
-        "es-ES": "[Almuerzo]\nNo es imposible. Por ejemplo, cualquiera puede transformarse fácilmente en algo como la especie Rgan."
+        "pt-BR": "[Rango]\nNão é impossível. Por exemplo, algo como a raça Rgan? Nisso, qualquer pessoa consegue se transformar facilmente.",
+        "es-ES": "[Albor]\nNo es imposible. Por ejemplo, cualquiera puede transformarse fácilmente en algo como un Rgan."
     },
     "BXIJDg": {
         "en-US": "[{0}]\nGreat! Could you make one of those for me too?",
         "pt-BR": "[{0}]\nIsso! Será que você consegue fazer isso para mim também?",
-        "es-ES": "[{0}]\n¡Sí! ¿Podrías hacerme uno de esos a mí también?"
+        "es-ES": "[{0}]\n¡Sí! ¿Podrías transformarme a mí?"
     },
     "BnIJDg": {
         "en-US": "[Lunch]\nIf you give me a few materials. About Low-quality Rgan Magic Core 2 and 2,000 Zeny?",
-        "pt-BR": "[Jeomsim]\nSe você me der alguns materiais. Algo como Núcleo Mágico Inferior de Regan 2 unidades e 2 mil Zeny?",
-        "es-ES": "[Almuerzo]\nSi me da algunos materiales. ¿Unos Núcleo Mágico Inferior de Regan 2 y unos 2 mil Zeny?"
+        "pt-BR": "[Rango]\nSe você me der alguns materiais. Talvez uns 2 Núcleos Mágicos Inferiores de Rgan e 2 mil Zeny?",
+        "es-ES": "[Albor]\nSi me das Núcleo Mágico Inferior de Rgan x2  2,000 Zeny."
     },
     "B3IJDg": {
         "en-US": "[{0}]\nZeny? You mean money?",
         "pt-BR": "[{0}]\nZeny? Está falando de dinheiro?",
-        "es-ES": "[{0}]\n¿Zeny? ¿Te refieres a dinero?"
+        "es-ES": "[{0}]\n¿Zeny? ¿Hablas de dinero?"
     },
     "CHIJDg": {
         "en-US": "[Lunch]\nYes!! I once heard that Prontera is a place where anyone can live without discrimination as long as they have the ability.",
-        "pt-BR": "[Jeomsim]\nSim!! Ouvi dizer que um lugar chamado Prontera é onde qualquer pessoa pode viver sem sofrer discriminação, desde que tenha capacidade.",
-        "es-ES": "[Almuerzo]\n¡¡Sí!! Hace tiempo escuché que Prontera es un lugar donde cualquiera puede vivir sin sufrir discriminación, siempre que tenga la capacidad suficiente."
+        "pt-BR": "[Rango]\nSim!! Ouvi dizer que um lugar chamado Prontera é onde qualquer pessoa pode viver sem sofrer discriminação, desde que tenha dinheiro.",
+        "es-ES": "[Albor]\n¡¡Sí!! Hace tiempo escuché que Prontera es un lugar donde cualquiera puede vivir sin sufrir discriminación, siempre que tenga las habilidades necesarias."
     },
     "CXIJDg": {
         "en-US": "[Lunch]\nI'm going to save up lots of Zeny, buy a house in Prontera, and live there for the rest of my life!",
-        "pt-BR": "[Jeomsim]\nVou juntar muito Zeny, comprar uma casa em Prontera e viver nela pelo resto da vida!",
-        "es-ES": "[Almuerzo]\n¡Voy a juntar mucho Zeny, comprar una casa en Prontera y vivir allí toda mi vida!"
+        "pt-BR": "[Rango]\nVou juntar muitos Zeny, comprar uma casa em Prontera e viver nela pelo resto da vida!",
+        "es-ES": "[Albor]\n¡Voy a juntar mucho Zeny, comprar una casa en Prontera y vivir allí toda mi vida!"
     },
     "CnIJDg": {
         "en-US": "[{0}]\nIt'll be tough, but I'll be rooting for you..",
@@ -216,8 +216,8 @@
     },
     "C3IJDg": {
         "en-US": "[Lunch]\nOh! There's something I'd like to ask you, my friend.",
-        "pt-BR": "[Jeomsim]\nAh! Tenho um favor para pedir a você, meu amigo.",
-        "es-ES": "[Almuerzo]\n¡Ah, cierto! Tengo un favor que pedirte, amigo."
+        "pt-BR": "[Rango]\nAh! Tenho um favor para pedir a você.",
+        "es-ES": "[Albor]\n¡Ah, cierto! Tengo un favor que pedirte."
     },
     "DHIJDg": {
         "en-US": "[{0}]\nA favor? What is it?",
@@ -226,13 +226,13 @@
     },
     "DXIJDg": {
         "en-US": "[Lunch]\nI'll be staying here for a while, but there's hardly anything around that I can eat and convert into energy.",
-        "pt-BR": "[Jeomsim]\nVou ficar aqui por um tempo, mas quase não há nada por aqui que eu possa comer e transformar em energia.",
-        "es-ES": "[Almuerzo]\nVoy a quedarme aquí por un tiempo, pero casi no hay nada que pueda comer para convertirlo en energía."
+        "pt-BR": "[Rango]\nVou ficar aqui por um tempo, mas quase não há nada por aqui que eu possa comer e transformar em energia.",
+        "es-ES": "[Albor]\nVoy a quedarme aquí por un tiempo, pero casi no hay nada que pueda comer para convertirlo en energía."
     },
     "DnIJDg": {
         "en-US": "[Lunch]\nIce has very low energy conversion efficiency too.. Could you prepare some food for me, my friend?",
-        "pt-BR": "[Jeomsim]\nO gelo também tem uma eficiência de conversão de energia muito baixa.. Será que você poderia preparar algo para eu comer?",
-        "es-ES": "[Almuerzo]\nAdemás, el hielo tiene una eficiencia de conversión energética demasiado baja... ¿Podrías prepararme algo de comer, amigo?"
+        "pt-BR": "[Rango]\nO gelo também tem uma eficiência de conversão de energia muito baixa.. Será que você poderia preparar algo para eu comer?",
+        "es-ES": "[Albor]\nAdemás, el hielo tiene una eficiencia de conversión energética demasiado baja... ¿Podrías prepararme algo de comer?"
     },
     "D3IJDg": {
         "en-US": "[{0}]\nThat should be easy enough.",
@@ -241,28 +241,28 @@
     },
     "EHIJDg": {
         "en-US": "[Lunch]\nHehe, I thought a friend who came back to see me would grant my request.",
-        "pt-BR": "[Jeomsim]\nHehe, achei que um amigo que veio me procurar de novo atenderia ao meu pedido.",
-        "es-ES": "[Almuerzo]\nJe, je. Sabía que un amigo que vino a buscarme otra vez aceptaría mi petición."
+        "pt-BR": "[Rango]\nHehe, achei que um amigo que veio me procurar de novo atenderia ao meu pedido.",
+        "es-ES": "[Albor]\nJe, je. Sabía que ibas a aceptar mi petición."
     },
     "EXIJDg": {
         "en-US": "[Lunch]\nThis is a gift from me to you, my friend. I'm counting on you starting tomorrow.",
-        "pt-BR": "[Jeomsim]\nIsto é um presente meu para você. Conto com você a partir de amanhã.",
-        "es-ES": "[Almuerzo]\nEste es un regalo que te doy, amigo. Cuento contigo a partir de mañana."
+        "pt-BR": "[Rango]\nIsto é um presente meu para você. Conto com você a partir de amanhã.",
+        "es-ES": "[Albor]\nEste es un regalo para ti. Cuento contigo a partir de mañana."
     },
     "EnIJDg": {
         "en-US": "Lunch",
-        "pt-BR": "Jeomsim",
-        "es-ES": "Almuerzo"
+        "pt-BR": "Rango",
+        "es-ES": "Albor"
     },
     "E3IJDg": {
         "en-US": "Operator Check-Admin Mode",
         "pt-BR": "Verificação do operador-Modo administrador",
-        "es-ES": "Verificación del operador-Modo administrador"
+        "es-ES": "Verificación del Operador Modo administrador"
     },
     "FHIJDg": {
         "en-US": "[Admin Mode]\nCurrent Lunch Food [{0}]\n-----\n[01] Broken Liquor Jar\n[02] Cloud Crumb\n[03] Straw Basket\n[04] Denture from Dragon Mask\n[05] Yaga's Pestle\n[06] Leopard Skin\n[07] Cendrawasih Feather\n[08] Jejellopy\n[09] Brown Rat Tail\n[10] Piece of Bamboo",
-        "pt-BR": "[Modo administrador]\nComida atual de Jeomsim [{0}]\n-----\n[01] Jarro de Saquê\n[02] Jarro de Nuvem\n[03] Cesto de Palha\n[04] Dentadura da Máscara do Dragão\n[05] Pilão Yaga\n[06] Pele de Leopardo\n[07] Pena de Cendrawish\n[08] Jejellopy\n[09] Cauda de Gabiru\n[10] Pedaço de Bambu",
-        "es-ES": "[Modo administrador]\nComida actual de Almuerzo [{0}]\n-----\n[01] Jarra de licor rota\n[02] Recortes de nube\n[03] Cesta de paja\n[04] Dentadura de máscara de dragón\n[05] El mortero de Yaga\n[06] Piel de leopardo\n[07] Pluma de Cendrawasih\n[08] Jejellopy\n[09] Cola de Rata Marrón\n[10] Trozo de bambú"
+        "pt-BR": "[Modo administrador]\nComida atual de Rango [{0}]\n-----\n[01] Jarro de Saquê\n[02] Jarro de Nuvem\n[03] Cesto de Palha\n[04] Dentadura da Máscara do Dragão\n[05] Pilão Yaga\n[06] Pele de Leopardo\n[07] Pena de Cendrawish\n[08] Jejellopy\n[09] Cauda de Gabiru\n[10] Pedaço de Bambu",
+        "es-ES": "[Modo administrador]\nComida actual de Albor [{0}]\n-----\n[01] Jarra de Licor Rota\n[02] Recortes de Nube\n[03] Cesta de Paja\n[04] Dentadura de Máscara de Dragón\n[05] El Mortero de Yaga\n[06] Piel de Leopardo\n[07] Pluma de Cendrawasih\n[08] Jejellopy\n[09] Cola de Rata Marrón\n[10] Trozo de Bambú"
     },
     "FXIJDg": {
         "en-US": "Proceed",
@@ -271,8 +271,8 @@
     },
     "FnIJDg": {
         "en-US": "Change Lunch Food",
-        "pt-BR": "Alterar comida de Jeomsim",
-        "es-ES": "Cambiar comida de Almuerzo"
+        "pt-BR": "Alterar comida de Rango",
+        "es-ES": "Cambiar comida de Albor"
     },
     "F3IJDg": {
         "en-US": "Remove Cooldown",
@@ -287,32 +287,32 @@
     "GXIJDg": {
         "en-US": "[01] Broken Liquor Jar",
         "pt-BR": "[01] Jarro de Saquê",
-        "es-ES": "[01] Jarra de licor rota"
+        "es-ES": "[01] Jarra de Licor Rota"
     },
     "GnIJDg": {
         "en-US": "[02] Cloud Crumb",
         "pt-BR": "[02] Jarro de Nuvem",
-        "es-ES": "[02] Recortes de nube"
+        "es-ES": "[02] Recortes de Nube"
     },
     "G3IJDg": {
         "en-US": "[03] Straw Basket",
         "pt-BR": "[03] Cesto de Palha",
-        "es-ES": "[03] Cesta de paja"
+        "es-ES": "[03] Cesta de Paja"
     },
     "HHIJDg": {
         "en-US": "[04] Denture from Dragon Mask",
         "pt-BR": "[04] Dentadura da Máscara do Dragão",
-        "es-ES": "[04] Dentadura de máscara de dragón"
+        "es-ES": "[04] Dentadura de Máscara de Dragón"
     },
     "HXIJDg": {
         "en-US": "[05] Yaga's Pestle",
         "pt-BR": "[05] Pilão Yaga",
-        "es-ES": "[05] El mortero de Yaga"
+        "es-ES": "[05] El Mortero de Yaga"
     },
     "HnIJDg": {
         "en-US": "[06] Leopard Skin",
         "pt-BR": "[06] Pele de Leopardo",
-        "es-ES": "[06] Piel de leopardo"
+        "es-ES": "[06] Piel de Leopardo"
     },
     "H3IJDg": {
         "en-US": "[07] Cendrawasih Feather",
@@ -332,7 +332,7 @@
     "InIJDg": {
         "en-US": "[10] Piece of Bamboo",
         "pt-BR": "[10] Pedaço de Bambu",
-        "es-ES": "[10] Trozo de bambú"
+        "es-ES": "[10] Trozo de Bambú"
     },
     "I3IJDg": {
         "en-US": "[Admin Mode]\nChange Complete",
@@ -352,77 +352,77 @@
     "JnIJDg": {
         "en-US": "Grrr-gle-",
         "pt-BR": "Ron- ron-",
-        "es-ES": "Gru- ñi- do-"
+        "es-ES": "*gruñido*"
     },
     "J3IJDg": {
         "en-US": "Lunch: Oh!",
-        "pt-BR": "Jeomsim: Oh!",
-        "es-ES": "Almuerzo: ¡Oh!"
+        "pt-BR": "[Rango] Oh!",
+        "es-ES": "Albor: ¡Oh!"
     },
     "KHIJDg": {
         "en-US": "Thank you for bringing me a fresh energy source again today.",
         "pt-BR": "Obrigado por trazer outra fonte de energia fresca hoje.",
-        "es-ES": "Gracias por traerme hoy también una fuente de energía fresca."
+        "es-ES": "Gracias por traerme hoy una fuente de energía fresca."
     },
     "KXIJDg": {
         "en-US": "I live off the energy sources you bring me every time. Thank you.",
         "pt-BR": "Eu consigo me sustentar graças às fontes de energia que você traz toda vez. Obrigado.",
-        "es-ES": "Puedo seguir adelante gracias a las fuentes de energía que me trae cada vez. Gracias."
+        "es-ES": "Puedo seguir gracias a las fuentes de energía que me traes. Gracias."
     },
     "KnIJDg": {
         "en-US": "Thank you for bringing me this precious energy source. I'll enjoy it.",
         "pt-BR": "Vou aproveitar bem esta preciosa fonte de energia que você trouxe. Obrigado.",
-        "es-ES": "Me comeré con gusto esta valiosa fuente de energía que me trajo."
+        "es-ES": "Me comeré con gusto esta valiosa fuente de energía."
     },
     "K3IJDg": {
         "en-US": "Thank you for bringing me an energy source. You'll be blessed.",
         "pt-BR": "Obrigado por cuidar da minha fonte de energia. Você será recompensado por isso.",
-        "es-ES": "Gracias por traerme una fuente de energía. Seguro que recibirá muchas bendiciones."
+        "es-ES": "Gracias por traerme una fuente de energía. Tendrás una buena recompensa."
     },
     "LHIJDg": {
         "en-US": "Lunch: {0}",
-        "pt-BR": "Jeomsim: {0}",
-        "es-ES": "Almuerzo: {0}"
+        "pt-BR": "[Rango] {0}",
+        "es-ES": "Albor: {0}"
     },
     "LXIJDg": {
         "en-US": "^777777[Waiting] Bring Lunch a meal.^000000",
-        "pt-BR": "^777777[Espera] Levar comida para Jeomsim.^000000",
-        "es-ES": "^777777[En espera] Llevarle comida a Almuerzo.^000000"
+        "pt-BR": "^777777[Espera] Levar comida para Rango.^000000",
+        "es-ES": "^777777[En espera] Llevarle comida a Albor.^000000"
     },
     "LnIJDg": {
         "en-US": "^777777[In Progress] Bring Lunch a meal.^000000",
-        "pt-BR": "^777777[Em andamento] Levar comida para Jeomsim.^000000",
-        "es-ES": "^777777[En curso] Llevarle comida a Almuerzo.^000000"
+        "pt-BR": "^777777[Em andamento] Levar comida para Rango.^000000",
+        "es-ES": "^777777[En curso] Llevarle comida a Albor.^000000"
     },
     "L3IJDg": {
         "en-US": "Bring Lunch a meal.",
-        "pt-BR": "Levar comida para Jeomsim.",
-        "es-ES": "Llevarle comida a Almuerzo."
+        "pt-BR": "Levar comida para Rango.",
+        "es-ES": "Llevarle comida a Albor."
     },
     "MHIJDg": {
         "en-US": "Lunch: - - · · · - - - - · - - · - · - · · · - - · · · · · - · -",
-        "pt-BR": "Jeomsim: - - · · · - - - - · - - · - · - · · · - - · · · · · - · -",
-        "es-ES": "Almuerzo: - - · · · - - - - · - - · - · - · · · - - · · · · · - · -"
+        "pt-BR": "[Rango] - - · · · - - - - · - - · - · - · · · - - · · · · · - · -",
+        "es-ES": "Albor: - - · · · - - - - · - - · - · - · · · - - · · · · · - · -"
     },
     "MXIJDg": {
         "en-US": "Lunch: Ah! Rgan?!",
-        "pt-BR": "Jeomsim: Ah! Um Rgan?!",
-        "es-ES": "Almuerzo: ¡Ah! ¡¿Rgan?!"
+        "pt-BR": "[Rango] Ah! Um Rgan?!",
+        "es-ES": "Albor: ¡Ah! ¡¿Un Rgan?!"
     },
     "MnIJDg": {
         "en-US": "Lunch, it's me! Me.",
-        "pt-BR": "Jeomsim, sou eu! Eu.",
-        "es-ES": "¡Almuerzo, soy yo! Yo."
+        "pt-BR": "Rango, sou eu!",
+        "es-ES": "¡Albor, soy yo!"
     },
     "M3IJDg": {
         "en-US": "Lunch: Ah.. what a relief. Hehe, you're here?",
-        "pt-BR": "Jeomsim: Ah.. que alívio. Hehe, você chegou?",
-        "es-ES": "Almuerzo: Ah... qué alivio. Je, je. ¿Ya llegó?"
+        "pt-BR": "[Rango] Ah.. que alívio. Hehe, você chegou?",
+        "es-ES": "Albor: Ah, qué alivio. Je, je."
     },
     "NHIJDg": {
         "en-US": "Lunch: Oh! You're here?",
-        "pt-BR": "Jeomsim: Ah! Você chegou?",
-        "es-ES": "Almuerzo: ¡Ah! ¿Ya llegó?"
+        "pt-BR": "[Rango] Ah! Você chegou?",
+        "es-ES": "Albor: ¡Ah! ¿Ya llegaste?"
     },
     "NXIJDg": {
         "en-US": "{0}",
@@ -431,183 +431,183 @@
     },
     "NnIJDg": {
         "en-US": "I'd like to make a transformation scroll..",
-        "pt-BR": "Quero fazer um pergaminho de transformação..",
+        "pt-BR": "Quero fazer um pergaminho de transformação...",
         "es-ES": "Quiero hacer un pergamino de transformación..."
     },
     "N3IJDg": {
         "en-US": "Chat with Lunch",
-        "pt-BR": "Conversar com Jeomsim",
-        "es-ES": "Charlar con Almuerzo"
+        "pt-BR": "Conversar com Rango",
+        "es-ES": "Charlar con Albor"
     },
     "OHIJDg": {
         "en-US": "Lunch: Hehe, I'll make them for you. How many do you need?",
-        "pt-BR": "Jeomsim: Hehe, eu faço para você. Quantos precisa?",
-        "es-ES": "Almuerzo: Je, je, se lo haré. ¿Cuántos necesita?"
+        "pt-BR": "[Rango] Hehe, eu faço para você. Quantos precisa?",
+        "es-ES": "Albor: Je, je, claro. ¿Cuántos necesitas?"
     },
     "OXIJDg": {
         "en-US": "Lunch: I heard that other living creatures eat 3 meals a day..",
-        "pt-BR": "Jeomsim: Ouvi dizer que outras criaturas fazem 3 refeições por dia..",
-        "es-ES": "Almuerzo: He oído que otros seres vivos comen 3 veces al día, pero..."
+        "pt-BR": "[Rango] Ouvi dizer que outras criaturas fazem 3 refeições por dia..",
+        "es-ES": "Albor: Escuché que los seres vivos comen tres veces al día..."
     },
     "OnIJDg": {
         "en-US": "Lunch: But I'm a highly efficient test subject.",
-        "pt-BR": "Jeomsim: Mas eu sou um espécime eficiente.",
-        "es-ES": "Almuerzo: Yo soy un sujeto de prueba muy eficiente."
+        "pt-BR": "[Rango] Mas eu sou um espécime eficiente.",
+        "es-ES": "Albor: Pero yo soy un sujeto de prueba muy suficiente."
     },
     "O3IJDg": {
         "en-US": "Lunch: Taking in an energy source 1 time a day is enough for me. I appreciate the thought.",
-        "pt-BR": "Jeomsim: Consumir uma fonte de energia 1 vez por dia é suficiente para mim. Agradeço a intenção.",
-        "es-ES": "Almuerzo: Para mí, consumir una fuente de energía 1 vez al día es suficiente. Aprecio la intención."
+        "pt-BR": "[Rango] Consumir uma fonte de energia 1 vez por dia é suficiente para mim. Agradeço a intenção.",
+        "es-ES": "Albor: Para mí, consumir una fuente de energía 1 vez al día es suficiente. Aprecio la intención."
     },
     "PHIJDg": {
         "en-US": "Lunch: Do you have the Broken Liquor Jar I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu o Jarro de Saquê que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene la Jarra de licor rota que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu o Jarro de Saquê que eu pedi?",
+        "es-ES": "Albor: ¿Aún no tienes la Jarra de Licor Rota que te pedí?"
     },
     "PXIJDg": {
         "en-US": "Lunch: Do you have the Cloud Crumb I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu o Jarro de Nuvem que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene los Recortes de nube que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu o Jarro de Nuvem que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes los Recortes de Nube que te pedí?"
     },
     "PnIJDg": {
         "en-US": "Lunch: Do you have the Straw Basket I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu o Cesto de Palha que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene la Cesta de paja que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu o Cesto de Palha que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes la Cesta de Paja que te pedí?"
     },
     "P3IJDg": {
         "en-US": "Lunch: Do you have the Denture from Dragon Mask I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu a Dentadura da Máscara do Dragão que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene la Dentadura de máscara de dragón que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu a Dentadura da Máscara do Dragão que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes la Dentadura de Máscara de Dragón que te pedí?"
     },
     "QHIJDg": {
         "en-US": "Lunch: Do you have the Yaga's Pestle I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu o Pilão Yaga que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene El mortero de Yaga que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu o Pilão Yaga que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes el Mortero de Yaga que te pedí?"
     },
     "QXIJDg": {
         "en-US": "Lunch: Do you have the Leopard Skin I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu a Pele de Leopardo que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene la Piel de leopardo que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu a Pele de Leopardo que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes la Piel de Leopardo que te pedí?"
     },
     "QnIJDg": {
         "en-US": "Lunch: Do you have the Cendrawasih Feather I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu a Pena de Cendrawish que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene la Pluma de Cendrawasih que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu a Pena de Cendrawish que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes la Pluma de Cendrawasih que te pedí?"
     },
     "Q3IJDg": {
         "en-US": "Lunch: Do you have the Jejellopy I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu o Jejellopy que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene el Jejellopy que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu o Jejellopy que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes el Jejellopy que te pedí?"
     },
     "RHIJDg": {
         "en-US": "Lunch: Do you have the Brown Rat Tail I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu a Cauda de Gabiru que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene la Cola de Rata Marrón que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu a Cauda de Gabiru que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes la Cola de Rata Marrón que te pedí?"
     },
     "RXIJDg": {
         "en-US": "Lunch: Do you have the Piece of Bamboo I asked for yet?",
-        "pt-BR": "Jeomsim: Ainda não conseguiu o Pedaço de Bambu que pedi?",
-        "es-ES": "Almuerzo: ¿Aún no tiene el Trozo de bambú que le pedí?"
+        "pt-BR": "[Rango] Ainda não conseguiu o Pedaço de Bambu que pedi?",
+        "es-ES": "Albor: ¿Aún no tienes el Trozo de Bambú que te pedí?"
     },
     "RnIJDg": {
         "en-US": "Lunch: ERROR.. ERROR..",
-        "pt-BR": "Jeomsim: ERROR.. ERROR..",
-        "es-ES": "Almuerzo: ERROR.. ERROR.."
+        "pt-BR": "[Rango] ERRO... ERRO...",
+        "es-ES": "Albor: ERROR.. ERROR.."
     },
     "R3IJDg": {
         "en-US": "Lunch: A quest check error has occurred.",
-        "pt-BR": "Jeomsim: Ocorreu um erro na verificação da missão.",
-        "es-ES": "Almuerzo: Se produjo un error al verificar la misión."
+        "pt-BR": "[Rango] Ocorreu um erro na verificação da missão.",
+        "es-ES": "Albor: Se produjo un error al verificar la misión."
     },
     "SHIJDg": {
         "en-US": "Lunch: Running code to resolve the error.",
-        "pt-BR": "Jeomsim: Executando o código para corrigir o erro.",
-        "es-ES": "Almuerzo: Ejecutaré el código para resolver el error."
+        "pt-BR": "[Rango] Executando o código para corrigir o erro.",
+        "es-ES": "Albor: Ejecutaré el código para resolver el error."
     },
     "SXIJDg": {
         "en-US": "Lunch: Execution complete.",
-        "pt-BR": "Jeomsim: Execução concluída.",
-        "es-ES": "Almuerzo: Ejecución completada."
+        "pt-BR": "[Rango] Execução concluída.",
+        "es-ES": "Albor: Ejecución completada."
     },
     "SnIJDg": {
         "en-US": "Lunch: If the same issue occurs after retrying, please contact the manufacturer.",
-        "pt-BR": "Jeomsim: Se o mesmo problema ocorrer novamente após tentar outra vez, entre em contato com o fabricante.",
-        "es-ES": "Almuerzo: Si el mismo problema ocurre después de volver a intentarlo, comuníquese con el fabricante."
+        "pt-BR": "[Rango] Se o mesmo problema ocorrer novamente após tentar outra vez, entre em contato com o fabricante.",
+        "es-ES": "Albor: Si el mismo problema ocurre después de volver a intentarlo, comuníquese con el fabricante."
     },
     "S3IJDg": {
         "en-US": "Lunch: If I switch to energy-saving mode, I can easily last 1 year, but some data may be lost..",
-        "pt-BR": "Jeomsim: Se eu entrar no modo de economia de energia, consigo durar tranquilamente 1 ano, mas alguns dados podem ser perdidos..",
-        "es-ES": "Almuerzo: Si cambio al modo de ahorro de energía, podría durar 1 año sin problemas, pero podrían perderse algunos datos..."
+        "pt-BR": "[Rango] Se eu entrar no modo de economia de energia, consigo durar tranquilamente 1 ano, mas alguns dados podem ser perdidos...",
+        "es-ES": "Albor: Si cambio al modo de ahorro de energía, podría durar 1 año sin problemas, pero podrían perderse algunos datos..."
     },
     "THIJDg": {
         "en-US": "Lunch: So I don't really want to do that.",
-        "pt-BR": "Jeomsim: Eu não quero muito fazer isso.",
-        "es-ES": "Almuerzo: No tengo muchas ganas de hacerlo."
+        "pt-BR": "[Rango] Então, eu não quero fazer isso.",
+        "es-ES": "Albor: No tengo muchas ganas de hacerlo."
     },
     "TXIJDg": {
         "en-US": "Lunch: Right now.. Broken Liquor Jar seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Jarro de Saquê tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Jarra de licor rota tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Jarro de Saquê tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Jarra de Licor Rota tiene la mejor eficiencia de conversión de energía."
     },
     "TnIJDg": {
         "en-US": "Lunch: Right now.. Cloud Crumb seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Jarro de Nuvem tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Recortes de nube tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Jarro de Nuvem tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Recortes de Nube tiene la mejor eficiencia de conversión de energía."
     },
     "T3IJDg": {
         "en-US": "Lunch: Right now.. Straw Basket seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Cesto de Palha tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Cesta de paja tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Cesto de Palha tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Cesta de Paja tiene la mejor eficiencia de conversión de energía."
     },
     "UHIJDg": {
         "en-US": "Lunch: Right now.. Denture from Dragon Mask seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Dentadura da Máscara do Dragão tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Dentadura de máscara de dragón tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Dentadura da Máscara do Dragão tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Dentadura de Máscara de Dragón tiene la mejor eficiencia de conversión de energía."
     },
     "UXIJDg": {
         "en-US": "Lunch: Right now.. Yaga's Pestle seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Pilão Yaga tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que El mortero de Yaga tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Pilão Yaga tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que El Mortero de Yaga tiene la mejor eficiencia de conversión de energía."
     },
     "UnIJDg": {
         "en-US": "Lunch: Right now.. Leopard Skin seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Pele de Leopardo tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Piel de leopardo tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Pele de Leopardo tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Piel de Leopardo tiene la mejor eficiencia de conversión de energía."
     },
     "U3IJDg": {
         "en-US": "Lunch: Right now.. Cendrawasih Feather seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Pena de Cendrawish tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Pluma de Cendrawasih tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Pena de Cendrawish tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Pluma de Cendrawasih tiene la mejor eficiencia de conversión de energía."
     },
     "VHIJDg": {
         "en-US": "Lunch: Right now.. Jejellopy seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Jejellopy tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Jejellopy tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Jejellopy tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Jejellopy tiene la mejor eficiencia de conversión de energía."
     },
     "VXIJDg": {
         "en-US": "Lunch: Right now.. Brown Rat Tail seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Cauda de Gabiru tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Cola de Rata Marrón tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Cauda de Gabiru tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Cola de Rata Marrón tiene la mejor eficiencia de conversión de energía."
     },
     "VnIJDg": {
         "en-US": "Lunch: Right now.. Piece of Bamboo seems to have the best energy conversion efficiency.",
-        "pt-BR": "Jeomsim: Agora.. acho que Pedaço de Bambu tem a melhor eficiência de conversão de energia.",
-        "es-ES": "Almuerzo: Ahora mismo... parece que Trozo de bambú tiene la mejor eficiencia de conversión de energía."
+        "pt-BR": "[Rango] Agora... Acho que Pedaço de Bambu tem a melhor eficiência de conversão de energia.",
+        "es-ES": "Albor: Ahora mismo parece que Trozo de Bambú tiene la mejor eficiencia de conversión de energía."
     },
     "V3IJDg": {
         "en-US": "Lunch: An error occurred while selecting the Lunch menu.",
-        "pt-BR": "Jeomsim: Ocorreu um erro ao selecionar o menu de Jeomsim.",
-        "es-ES": "Almuerzo: Se produjo un error al seleccionar el menú de Almuerzo."
+        "pt-BR": "[Rango] Ocorreu um erro ao selecionar o menu de Rango.",
+        "es-ES": "Albor: Se produjo un error al seleccionar el menú de Albor."
     },
     "WHIJDg": {
         "en-US": "Lunch: And a quantity of about 10 should be enough.",
-        "pt-BR": "Jeomsim: E acho que uma quantidade de cerca de 10 unidades será suficiente.",
-        "es-ES": "Almuerzo: Y creo que una cantidad de unos 10 será suficiente."
+        "pt-BR": "[Rango] E acho que uma quantidade de cerca de 10 unidades será suficiente.",
+        "es-ES": "Albor: Creo que con 10 será suficiente."
     },
     "WXIJDg": {
         "en-US": "I'll bring them.",
         "pt-BR": "Vou buscar.",
-        "es-ES": "Traerlos."
+        "es-ES": "Claro que sí."
     },
     "WnIJDg": {
         "en-US": "Something urgent came up.",
@@ -616,38 +616,38 @@
     },
     "W3IJDg": {
         "en-US": "Lunch, wait just a little. I'll bring them to you.",
-        "pt-BR": "Jeomsim, espere só um pouco. Vou trazer para você.",
-        "es-ES": "Almuerzo, espera un poco. Te los traeré."
+        "pt-BR": "Rango, espere só um pouco. Vou trazer para você.",
+        "es-ES": "Albor, espera un poco. Ya te lo traigo."
     },
     "XHIJDg": {
         "en-US": "Lunch: Then I'll wait.",
-        "pt-BR": "Jeomsim: Então, vou esperar.",
-        "es-ES": "Almuerzo: Entonces esperaré."
+        "pt-BR": "[Rango] Então, vou esperar.",
+        "es-ES": "Albor: Entonces esperaré."
     },
     "XXIJDg": {
         "en-US": "Lunch: Oh! You seem busy.",
-        "pt-BR": "Jeomsim: Oh! Parece que você está ocupado.",
-        "es-ES": "Almuerzo: ¡Oh! Parece que está ocupado."
+        "pt-BR": "[Rango] Oh! Parece que você tem outras coisas para fazer.",
+        "es-ES": "Albor: Parece que tienes cosas que hacer."
     },
     "XnIJDg": {
         "en-US": "Lunch: Then I'll try to find a way to secure an energy source on my own.",
-        "pt-BR": "Jeomsim: Então, vou procurar por conta própria uma forma de conseguir uma fonte de energia.",
-        "es-ES": "Almuerzo: Entonces yo también intentaré encontrar una forma de conseguir una fuente de energía por mi cuenta."
+        "pt-BR": "[Rango] Então, vou procurar por conta própria uma forma de conseguir uma fonte de energia.",
+        "es-ES": "Albor: Yo también intentaré encontrar una forma de conseguir una fuente de energía por mi cuenta."
     },
     "X3IJDg": {
         "en-US": "What kind of race is Rgan?",
-        "pt-BR": "Que tipo de raça é Rgan?",
-        "es-ES": "¿Qué clase de especie es Rgan?"
+        "pt-BR": "Que tipo de raça são os Rgans?",
+        "es-ES": "¿Qué clase de especie es un \"Rgan\"?"
     },
     "YHIJDg": {
         "en-US": "Lunch: I'm not sure. I don't know much about them either. I've only watched them from a distance..",
-        "pt-BR": "Jeomsim: Bem, eu também não sei direito. Só observei de longe..",
-        "es-ES": "Almuerzo: No sabría decirle. Yo tampoco lo sé muy bien. Solo los observé desde lejos..."
+        "pt-BR": "[Rango] Bem, eu também não sei direito. Só observei de longe..",
+        "es-ES": "Albor: No sabría decirte. Yo tampoco sé mucho, solo los vi de lejos."
     },
     "YXIJDg": {
         "en-US": "Lunch: Oh! Come to think of it, something interesting happened when I escaped.",
-        "pt-BR": "Jeomsim: Oh! Pensando bem, aconteceu algo interessante quando eu escapei.",
-        "es-ES": "Almuerzo: ¡Oh! Ahora que lo pienso, pasó algo interesante cuando escapé."
+        "pt-BR": "[Rango] Oh! Pensando bem, aconteceu algo interessante quando eu escapei.",
+        "es-ES": "Albor: ¡Oh! Ahora que lo pienso, pasó algo interesante cuando escapé."
     },
     "YnIJDg": {
         "en-US": "Something interesting?",
@@ -656,18 +656,18 @@
     },
     "Y3IJDg": {
         "en-US": "Lunch: My transformation wore off while I was escaping, so I'd half given up, thinking I was definitely going to get caught again..",
-        "pt-BR": "Jeomsim: No meio da fuga, minha transformação se desfez, então eu já estava quase desistindo, achando que seria capturado de novo sem ter como escapar..",
-        "es-ES": "Almuerzo: A mitad de la fuga, se deshizo mi transformación y ya estaba medio resignado a que me atraparan otra vez..."
+        "pt-BR": "[Rango] No meio da fuga, minha transformação se desfez, então eu já estava quase desistindo, achando que seria capturado de novo sem ter como escapar..",
+        "es-ES": "Albor: A mitad de la fuga, se deshizo mi transformación y ya estaba medio resignado a que me atraparan otra vez..."
     },
     "ZHIJDg": {
         "en-US": "Lunch: But the Rgans saw me and just walked right past.",
-        "pt-BR": "Jeomsim: Os Rgan olharam para mim e simplesmente passaram direto.",
-        "es-ES": "Almuerzo: Pero los Rgan me vieron y simplemente siguieron de largo."
+        "pt-BR": "[Rango] Os Rgans olharam para mim e simplesmente passaram direto.",
+        "es-ES": "Albor: Pero los Rgan me vieron y se siguieron de largo."
     },
     "ZXIJDg": {
         "en-US": "Lunch: Maybe I panicked and my torso stretched out, so they mistook me for one of their own?",
-        "pt-BR": "Jeomsim: Será que, por eu ter ficado nervoso e meu corpo ter se alongado, eles me confundiram com um deles?",
-        "es-ES": "Almuerzo: ¿Será que, por los nervios, se me alargó la cintura y me confundieron con uno de los suyos?"
+        "pt-BR": "[Rango] Será que, por eu ter ficado nervoso e meu corpo ter se alongado, eles me confundiram com um deles?",
+        "es-ES": "Albor: ¿Será que, por los nervios, se me alargó la cintura y me confundieron con uno de los suyos?"
     },
     "ZnIJDg": {
         "en-US": "Did you say your test subject number was HU-210426?",
@@ -676,8 +676,8 @@
     },
     "Z3IJDg": {
         "en-US": "Lunch: Oh! You remember? Yes, that's right. Though now I have the wonderful name Lunch.",
-        "pt-BR": "Jeomsim: Oh! Você se lembra? Sim, isso mesmo. Mas agora tenho o ótimo nome Jeomsim.",
-        "es-ES": "Almuerzo: ¡Oh! ¿Lo recuerda? Sí, así es. Aunque ahora tengo el magnífico nombre de Almuerzo."
+        "pt-BR": "[Rango] Ah! Você se lembra? Sim, isso mesmo. Mas agora tenho um nome bem bonito: Rango.",
+        "es-ES": "Albor: ¡Oh! ¿Te acuerdas? Es correcto, pero ahora me llamo \"Albor\"."
     },
     "aHIJDg": {
         "en-US": "I thought the first model was #000001, so were there really 210425 test subjects?!",
@@ -686,58 +686,58 @@
     },
     "aXIJDg": {
         "en-US": "Lunch: Oh! I can see why you'd think that. But.. no.",
-        "pt-BR": "Jeomsim: Oh! Dá para pensar assim. Mas.. não.",
-        "es-ES": "Almuerzo: ¡Oh! Podría parecerlo. Pero... no."
+        "pt-BR": "[Rango] Ah! Faz sentido achar isso. Mas.. não.",
+        "es-ES": "Albor: ¡Oh! Podría parecerlo. Pero no."
     },
     "anIJDg": {
         "en-US": "Lunch: The scientists may look a little obsessed with experiments, but the ones who actually conduct them are..",
-        "pt-BR": "Jeomsim: Os cientistas até parecem meio obcecados por experimentos, mas quem realmente realiza os experimentos..",
-        "es-ES": "Almuerzo: Puede parecer que los científicos están un poco obsesionados con los experimentos, pero quienes realmente los realizan son..."
+        "pt-BR": "[Rango] Os cientistas até parecem meio obcecados por experimentos, mas quem realmente realiza os experimentos..",
+        "es-ES": "Albor: Puede parecer que los científicos están un poco obsesionados con los experimentos, pero quienes realmente los realizan son..."
     },
     "a3IJDg": {
         "en-US": "Lunch: The people working under them. What were they called again? Grand Academy students? I think it was something like that..",
-        "pt-BR": "Jeomsim: São as pessoas que trabalham sob as ordens deles. Como era mesmo? Alunos da Grande Academia? Acho que eram chamados assim..",
-        "es-ES": "Almuerzo: Las personas que trabajan bajo sus órdenes. ¿Cómo se llamaban? ¿Estudiantes de la Gran Academia? Creo que era algo así..."
+        "pt-BR": "[Rango] São as pessoas que trabalham sob as ordens deles. Como chamavam eles mesmo? Alunos da Grande Academia? Acho que era algo assim...",
+        "es-ES": "Albor: Las personas que trabajan bajo sus órdenes. ¿Cómo se llamaban? ¿Estudiantes de la Gran Academia? Creo que era algo así..."
     },
     "bHIJDg": {
         "en-US": "Lunch: Speaking of Grand Academy students, that reminds me of something interesting.",
-        "pt-BR": "Jeomsim: Falando em alunos da Grande Academia, lembrei de uma coisa interessante.",
-        "es-ES": "Almuerzo: Ahora que menciono a los estudiantes de la Gran Academia, recuerdo algo curioso."
+        "pt-BR": "[Rango] Falando em alunos da Grande Academia, lembrei de uma coisa interessante.",
+        "es-ES": "Albor: Ahora que hablo de los estudiantes de la Gran Academia, recuerdo algo curioso."
     },
     "bXIJDg": {
         "en-US": "Lunch: I'm sure there were five Grand Academy students and three scientists at the laboratory.",
-        "pt-BR": "Jeomsim: Tenho certeza de que havia cinco alunos da Grande Academia e três cientistas no laboratório.",
-        "es-ES": "Almuerzo: Estoy seguro de que en el laboratorio había cinco estudiantes de la Gran Academia y tres científicos."
+        "pt-BR": "[Rango] Tenho certeza de que havia cinco alunos da Grande Academia e três cientistas no laboratório.",
+        "es-ES": "Albor: Estoy seguro de que en el laboratorio había cinco estudiantes de la Gran Academia y tres científicos."
     },
     "bnIJDg": {
         "en-US": "Lunch: But the official documents said the laboratory had a total staff of 3.",
-        "pt-BR": "Jeomsim: Mas, nos documentos oficiais, o número total de pessoas no laboratório era 3.",
-        "es-ES": "Almuerzo: Pero en los documentos oficiales decía que el personal total del laboratorio era de 3 personas."
+        "pt-BR": "[Rango] Mas, nos documentos oficiais, o número total de pessoas no laboratório era 3.",
+        "es-ES": "Albor: Pero en los documentos oficiales decía que el personal total del laboratorio era de 3 personas."
     },
     "b3IJDg": {
         "en-US": "Why was that?",
         "pt-BR": "Por que isso?",
-        "es-ES": "¿Por qué era así?"
+        "es-ES": "¿Por qué?"
     },
     "cHIJDg": {
         "en-US": "Lunch: Well.. I'm not really sure either..",
-        "pt-BR": "Jeomsim: Bem.. isso eu também não sei direito..",
-        "es-ES": "Almuerzo: No lo sé... Eso tampoco lo tengo muy claro..."
+        "pt-BR": "[Rango] Bem... Isso eu também não sei direito..",
+        "es-ES": "Albor: No lo sé, tampoco lo tengo claro."
     },
     "cXIJDg": {
-        "en-US": "Lunch: Come to think of it, Adventurer, you're close with the Iwins from Ice Castle, right?",
-        "pt-BR": "Jeomsim: Pensando bem, aventureiro, você é próximo dos Arwin da região do Castelo de Gelo, não é?",
-        "es-ES": "Almuerzo: Ahora que lo pienso, aventurero, usted se lleva bien con los Awin de Castillo de Hielo, ¿verdad?"
+        "en-US": "Lunch: Come to think of it, Adventurer, you're close with the Windcys from Ice Castle, right?",
+        "pt-BR": "[Rango] Pensando bem, viajante, você tem amizade com os Neventos do Castelo de Gelo, não é?",
+        "es-ES": "Albor: Ahora que lo pienso, tú te llevas bien con los Neviento del Castillo de Hielo, ¿verdad?"
     },
     "cnIJDg": {
         "en-US": "Since I came from there, I guess I am.",
         "pt-BR": "Como vim de lá, acho que sim.",
-        "es-ES": "Como vengo de allí, supongo que sí."
+        "es-ES": "Sí, supongo que sí."
     },
     "c3IJDg": {
-        "en-US": "Lunch: I'm jealous. The Iwins are cute, so I'd like to get to know them too..",
-        "pt-BR": "Jeomsim: Que inveja. Os Arwin são tão fofos que eu queria fazer amizade com eles..",
-        "es-ES": "Almuerzo: Qué envidia. Los Awin son lindos y me gustaría hacerme amigo de ellos..."
+        "en-US": "Lunch: I'm jealous. The Windcys are cute, so I'd like to get to know them too..",
+        "pt-BR": "[Rango] Que inveja. Os Neventos são tão fofos que eu queria fazer amizade com eles..",
+        "es-ES": "Albor: Qué envidia. Los Neviento son lindos y me gustaría hacerme amigo de ellos..."
     },
     "dHIJDg": {
         "en-US": "Then why don't you?",
@@ -746,17 +746,17 @@
     },
     "dXIJDg": {
         "en-US": "Lunch: Ice Castle has relatively abundant resources, so I've tried a few times to move there.",
-        "pt-BR": "Jeomsim: A região do Castelo de Gelo tem relativamente muitos recursos, então tentei algumas vezes mudar meu local de moradia para lá.",
-        "es-ES": "Almuerzo: Como por la zona de Castillo de Hielo hay relativamente más recursos, intenté varias veces mudar mi residencia allí."
+        "pt-BR": "[Rango] A região do Castelo de Gelo tem recursos relativamente abundantes, então tentei me mudar para lá algumas vezes.",
+        "es-ES": "Albor: Como por la zona del Castillo de Hielo hay relativamente más recursos, intenté varias veces mudarme para allá."
     },
     "dnIJDg": {
         "en-US": "Lunch: But maybe because my torso sometimes stretches out, they mistake me for a Rgan and attack me.",
-        "pt-BR": "Jeomsim: Mas acho que, como meu corpo se alonga de vez em quando, eles me confundem com um Rgan e acabam me atacando.",
-        "es-ES": "Almuerzo: Pero quizá porque a veces se me alarga la cintura, me confunden con un Rgan y me atacan."
+        "pt-BR": "[Rango] Mas acho que, como meu corpo se alonga de vez em quando, eles me confundem com um Rgan e acabam me atacando.",
+        "es-ES": "Albor: Pero quizá porque a veces se me alarga la cintura, me confunden con un Rgan y me atacan."
     },
     "d3IJDg": {
         "en-US": "That's too bad..",
-        "pt-BR": "Puxa..",
+        "pt-BR": "Que pena...",
         "es-ES": "Qué pena..."
     },
     "eHIJDg": {
@@ -766,108 +766,108 @@
     },
     "eXIJDg": {
         "en-US": "Lunch: Hehe, my original model, #000001, probably had a similar ability too. It just never manifested.",
-        "pt-BR": "Jeomsim: Hehe, acho que meu primeiro modelo, #000001, também tinha uma habilidade parecida, só que ela nunca chegou a se manifestar.",
-        "es-ES": "Almuerzo: Je, je. Mi primer modelo, #000001, probablemente también tenía una habilidad parecida, solo que nunca llegó a manifestarse."
+        "pt-BR": "[Rango] Hehe, acho que meu primeiro modelo, #000001, também tinha uma habilidade parecida, só que ela nunca chegou a se manifestar.",
+        "es-ES": "Albor: Je, je. Mi El modelo #000001, probablemente también tenía una habilidad parecida, solo que nunca llegó a manifestarse."
     },
     "enIJDg": {
         "en-US": "Lunch: For example, I can communicate with locals like Miss Limacina, Miss Unfrost Flower, and Ice Gangu..",
-        "pt-BR": "Jeomsim: Por exemplo, consigo me comunicar com moradores daqui, como a srta. Limacina, a Flor que Não Congela e o sr. Ice Gangu..",
-        "es-ES": "Almuerzo: Por ejemplo, puedo comunicarme con habitantes de esta zona como la señorita Limakina, la hermana mayor Flor que no se congela o el hermano mayor Ice Ganggu..."
+        "pt-BR": "[Rango] Por exemplo, consigo me comunicar com moradores daqui, como a srta. Limacina, a srta. Garoupa Glaciflor e o sr. Escaragélido...",
+        "es-ES": "Albor: Por ejemplo, puedo comunicarme con habitantes de esta zona como la señorita Limacina, su hermano Glacidonte Gélido  o el hermano mayor Escaragélido..."
     },
     "e3IJDg": {
         "en-US": "Lunch: I can even communicate with beings that Adventurers consider monsters.",
-        "pt-BR": "Jeomsim: Também consigo me comunicar com seres que os aventureiros consideram monstros.",
-        "es-ES": "Almuerzo: También puedo comunicarme con seres que los aventureros consideran monstruos."
+        "pt-BR": "[Rango] Também consigo me comunicar com seres que os aventureiros consideram monstros.",
+        "es-ES": "Albor: También puedo comunicarme con quienes algunos consideran monstruos."
     },
     "fHIJDg": {
         "en-US": "Lunch: Well, I can communicate with them, but things like interpreting for others are a bit difficult.",
-        "pt-BR": "Jeomsim: Bem, consigo me comunicar, mas fazer algo como interpretar ou traduzir já é um pouco difícil.",
-        "es-ES": "Almuerzo: Bueno, puedo comunicarme con ellos, aunque hacer de intérprete y cosas así ya es un poco difícil."
+        "pt-BR": "[Rango] Bem, consigo me comunicar, mas fazer algo como interpretar ou traduzir já é um pouco difícil.",
+        "es-ES": "Albor: Bueno, puedo comunicarme con ellos, aunque hacer de intérprete y cosas así ya es un poco difícil."
     },
     "fXIJDg": {
         "en-US": "Isn't it cold living here?",
-        "pt-BR": "Não é frio demais viver aqui?",
+        "pt-BR": "Viver aqui não é muito frio?",
         "es-ES": "¿No tienes frío viviendo aquí?"
     },
     "fnIJDg": {
         "en-US": "Lunch: Huh?! Is it cold? Well, I was made to withstand cold temperatures, so I'm fine, but..",
-        "pt-BR": "Jeomsim: Hã?! Está frio? Bem, eu fui criado para suportar bem o frio, então para mim está tudo bem..",
-        "es-ES": "Almuerzo: ¡¿Eh?! ¿Hace frío? Bueno, yo fui creado como un sujeto de prueba resistente al frío, así que estoy bien..."
+        "pt-BR": "[Rango] Hã?! Está frio? Bem, eu fui criado para suportar bem o frio, então para mim está tudo bem..",
+        "es-ES": "Albor: ¡¿Eh?! ¿Hace frío? Bueno, yo fui creado como un sujeto de prueba resistente al frío, así que estoy bien..."
     },
     "f3IJDg": {
         "en-US": "Lunch: When I see Adventurers passing through here, some of them walk around with their stomachs completely exposed..",
-        "pt-BR": "Jeomsim: Vendo os aventureiros que passam por aqui, tem até gente andando com a barriga toda de fora..",
-        "es-ES": "Almuerzo: Es que, al ver a los aventureros que pasan por aquí, algunos incluso llevan el abdomen completamente descubierto..."
+        "pt-BR": "[Rango] Vendo os aventureiros que passam por aqui, tem até gente andando com a barriga toda de fora..",
+        "es-ES": "Albor: Es que, veo pasar aventureros que hasta traen el abdomen descubierto."
     },
     "gHIJDg": {
         "en-US": "Lunch: So I thought it wasn't cold.. I guess it actually is.",
-        "pt-BR": "Jeomsim: Achei que não estivesse frio.. então estava frio mesmo.",
-        "es-ES": "Almuerzo: Pensé que no hacía frío... Así que sí hace frío."
+        "pt-BR": "[Rango] Achei que não estivesse frio... Então estava frio mesmo.",
+        "es-ES": "Albor: Pensé que no hacía frío, pero sí hace..."
     },
     "gXIJDg": {
         "en-US": "Lunch: I didn't know. I still have a lot to learn.",
-        "pt-BR": "Jeomsim: Eu não sabia. Ainda tenho muito o que aprender.",
-        "es-ES": "Almuerzo: No lo sabía. Definitivamente todavía tengo mucho que aprender."
+        "pt-BR": "[Rango] Eu não sabia. Ainda tenho muito o que aprender.",
+        "es-ES": "Albor: No lo sabía. Definitivamente todavía tengo mucho que aprender."
     },
     "gnIJDg": {
         "en-US": "How do you make a Rgan Transformation Scroll?",
-        "pt-BR": "Como se faz Pergaminho de Transformação em Regan?",
-        "es-ES": "¿Cómo se fabrica Pergamino de Transformación en Regan?"
+        "pt-BR": "Como se faz o Pergaminho de Transformação em Rgan?",
+        "es-ES": "¿Cómo se fabrica Pergamino de Transformación en Rgan?"
     },
     "g3IJDg": {
         "en-US": "Lunch: Ah! That? It's not difficult. You need an object imbued with the magic of whatever you want to transform into..",
-        "pt-BR": "Jeomsim: Ah! Isso. Não é difícil. Primeiro, um objeto que contenha a magia do alvo em que você quer se transformar..",
-        "es-ES": "Almuerzo: ¡Ah! Eso. No es difícil. Se necesita un objeto que contenga el poder mágico del objetivo de la transformación..."
+        "pt-BR": "[Rango] Ah. os pergaminhos? Não é difícil. Primeiro, precisa de um objeto que contenha a magia do alvo em que você quer se transformar..",
+        "es-ES": "Albor: ¡Ah! Eso. No es difícil. Se necesita un objeto que contenga el poder mágico del objetivo de la transformación..."
     },
     "hHIJDg": {
         "en-US": "Lunch: Since you're transforming into a Rgan, I put two Low-quality Rgan Magic Core in my mouth..",
-        "pt-BR": "Jeomsim: Como é para se transformar em Rgan, coloco Núcleo Mágico Inferior de Regan dois na boca..",
-        "es-ES": "Almuerzo: Como se trata de transformarse en Rgan, pongo Núcleo Mágico Inferior de Regan 2 en mi boca..."
+        "pt-BR": "[Rango] Como é para se transformar em Rgan, coloco dois Núcleos Mágicos Inferiores de Rgan na boca...",
+        "es-ES": "Albor: Como se trata de transformarse en un Rgan, pongo Núcleo Mágico Inferior de Rgan x2 en mi boca..."
     },
     "hXIJDg": {
         "en-US": "Lunch: Then I chew them up and bleh- them out, and the magic cores dissolve in my saliva and get all thick and gooey.",
-        "pt-BR": "Jeomsim: Mastigo bem e depois faço blegh-, aí os núcleos mágicos se dissolvem na minha saliva e ficam bem viscosos.",
-        "es-ES": "Almuerzo: Los mastico un poco y luego hago ¡puaj! Entonces, los núcleos mágicos se disuelven con mi saliva y quedan bien espesos."
+        "pt-BR": "[Rango] Mastigo bem e depois faço blegh-, aí os núcleos mágicos se dissolvem na minha saliva e ficam bem viscosos.",
+        "es-ES": "Albor: Los mastico un poco y luego hago ¡puaj! Entonces, los núcleos mágicos se disuelven con mi saliva y quedan bien espesos."
     },
     "hnIJDg": {
         "en-US": "Lunch: Then I smear that all over a sheet of paper to make it.",
-        "pt-BR": "Jeomsim: Depois, espalho isso bem no papel para fazer o pergaminho.",
-        "es-ES": "Almuerzo: Después unto esa mezcla por todo un papel y así lo preparo."
+        "pt-BR": "[Rango] Depois, espalho isso bem no papel para fazer o pergaminho.",
+        "es-ES": "Albor: Después unto esa mezcla por todo un papel y así lo preparo."
     },
     "h3IJDg": {
         "en-US": "I.. I see. Maybe I shouldn't have asked..",
-        "pt-BR": "E.. entendi. Acho que nem devia ter perguntado..",
-        "es-ES": "Y-ya veo. Creo que no debí preguntar..."
+        "pt-BR": "E-Entendi... Acho que nem devia ter perguntado.",
+        "es-ES": "Ah, ya... creo que no debí preguntar..."
     },
     "iHIJDg": {
         "en-US": "Why do you charge Zeny when making a Rgan Transformation Scroll?",
-        "pt-BR": "Por que você cobra Zeny para fazer Pergaminho de Transformação em Regan?",
-        "es-ES": "¿Por qué cobras Zeny al fabricar Pergamino de Transformación en Regan?"
+        "pt-BR": "Por que você cobra Zeny para fazer um Pergaminho de Transformação em Rgan?",
+        "es-ES": "¿Por qué cobras Zeny al fabricar el Pergamino de Transformación en Rgan?"
     },
     "iXIJDg": {
         "en-US": "Lunch: There's no grand reason. I once heard an Illusion scientist say something.",
-        "pt-BR": "Jeomsim: Não é por nenhum motivo especial. Uma vez ouvi um cientista da Ilusão dizer uma coisa.",
-        "es-ES": "Almuerzo: No hay una razón muy importante. Hace tiempo escuché algo que dijo un científico de Illusion."
+        "pt-BR": "[Rango] Não é por nenhum motivo especial. Uma vez ouvi um cientista da Ilusión dizer uma coisa.",
+        "es-ES": "Albor: No hay una razón muy importante. Hace tiempo escuché algo que dijo un científico de Ilusión."
     },
     "inIJDg": {
         "en-US": "Lunch: Most problems that come up in life can be solved with Zeny.",
-        "pt-BR": "Jeomsim: Quase todos os problemas que surgem na vida de um ser vivo podem ser resolvidos com Zeny.",
-        "es-ES": "Almuerzo: La mayoría de los problemas que surgen al vivir pueden resolverse con Zeny."
+        "pt-BR": "[Rango] Quase todos os problemas que surgem na vida de um ser vivo podem ser resolvidos com Zeny.",
+        "es-ES": "Albor: La mayoría de los problemas que surgen al vivir pueden resolverse con Zeny."
     },
     "i3IJDg": {
         "en-US": "Lunch: And if the problem isn't solved, ask yourself whether you have enough Zeny! That's what they said..",
-        "pt-BR": "Jeomsim: E, se o problema não for resolvido, pense se não está faltando Zeny! Foi isso que ele disse..",
-        "es-ES": "Almuerzo: ¡Si el problema no se resuelve, pregúntate si no te falta Zeny! Eso dijo..."
+        "pt-BR": "[Rango] E, se o problema não for resolvido, pense se não está faltando Zeny! Foi isso que ele disse...",
+        "es-ES": "Albor: \"¡Si el problema no se resuelve, pregúntate si no te falta Zeny!\". Eso dijo..."
     },
     "jHIJDg": {
         "en-US": "That's a good saying..",
-        "pt-BR": "É um bom conselho..",
+        "pt-BR": "É um bom conselho...",
         "es-ES": "Es un buen consejo..."
     },
     "jXIJDg": {
         "en-US": "Lunch: Someday, I'm going to live in a mansion in Prontera.",
-        "pt-BR": "Jeomsim: Um dia vou morar em uma grande mansão em Prontera.",
-        "es-ES": "Almuerzo: Algún día viviré en una gran mansión de Prontera."
+        "pt-BR": "[Rango] Um dia vou morar em uma grande mansão em Prontera.",
+        "es-ES": "Albor: Algún día viviré en una gran mansión de Prontera."
     },
     "jnIJDg": {
         "en-US": "I don't really know what you're talking about, but I'll be rooting for you.",
@@ -877,22 +877,22 @@
     "j3IJDg": {
         "en-US": "Do you have any abilities besides copying appearances?",
         "pt-BR": "Além de copiar aparências, você não tem nenhuma outra habilidade?",
-        "es-ES": "¿No tienes otra habilidad aparte de copiar apariencias?"
+        "es-ES": "¿Tienes otra habilidad aparte de copiar apariencias?"
     },
     "kHIJDg": {
         "en-US": "Lunch: Hmm.. other abilities.. Ah!",
-        "pt-BR": "Jeomsim: Hmm.. outra habilidade.. Ah!",
-        "es-ES": "Almuerzo: Mmm... otra habilidad... ¡Ah!"
+        "pt-BR": "[Rango] Hmm.. Outra habilidade.. Ah!",
+        "es-ES": "Albor: Mmm... otra habilidad... ¡Ah!"
     },
     "kXIJDg": {
         "en-US": "Lunch: I can make my torso longer. Before, it only stretched when I got startled or something.",
-        "pt-BR": "Jeomsim: Eu consigo alongar meu corpo. Antes, ele só se alongava quando eu ficava nervoso ou algo assim.",
-        "es-ES": "Almuerzo: Puedo alargar la cintura. Antes solo se me alargaba cuando me sorprendía o algo así."
+        "pt-BR": "[Rango] Eu consigo alongar meu corpo. Antes, ele só se alongava quando eu ficava nervoso ou algo assim.",
+        "es-ES": "Albor: Puedo alargar la cintura. Antes solo se me alargaba cuando me sorprendía o algo así."
     },
     "knIJDg": {
         "en-US": "Lunch: Maybe because I've been getting startled a lot lately, I've learned to control it freely.",
-        "pt-BR": "Jeomsim: Talvez porque ultimamente eu tenha passado por muitas situações assim, agora consigo controlar isso livremente.",
-        "es-ES": "Almuerzo: Quizá porque últimamente me sorprendo muy seguido, ahora puedo controlarla a voluntad."
+        "pt-BR": "[Rango] Talvez porque ultimamente eu tenha passado por muitas situações assim, agora consigo controlar isso livremente.",
+        "es-ES": "Albor: Quizá porque últimamente me sorprendo muy seguido, ahora puedo controlarla a voluntad."
     },
     "k3IJDg": {
         "en-US": "I see. Congratulations.",
@@ -901,13 +901,13 @@
     },
     "lHIJDg": {
         "en-US": "Lunch: Hehe, thank you.",
-        "pt-BR": "Jeomsim: Hehe, obrigado.",
-        "es-ES": "Almuerzo: Je, je. Gracias."
+        "pt-BR": "[Rango] Hehe, obrigado.",
+        "es-ES": "Albor: Je, je. Gracias."
     },
     "lXIJDg": {
         "en-US": "Lunch: Oh! Adventurer, you've been to Prontera, right? What kind of place is Prontera?",
-        "pt-BR": "Jeomsim: Ah! Aventureiro, você já esteve em Prontera, não é? Como é Prontera?",
-        "es-ES": "Almuerzo: ¡Ah, cierto! Aventurero, usted ha estado en Prontera, ¿verdad? ¿Cómo es Prontera?"
+        "pt-BR": "[Rango] Ah! Viajante, você já esteve em Prontera, não é? Como é lá?",
+        "es-ES": "Albor: ¡Ah, cierto! Tú has estado en Prontera, ¿verdad? ¿Cómo es?"
     },
     "lnIJDg": {
         "en-US": "There's a big fountain in the center of town, and it's a nice city to live in. There are tons of street stalls too..",
@@ -916,52 +916,52 @@
     },
     "l3IJDg": {
         "en-US": "Lunch: Wow, a fountain! I've never seen one before. That's the thing where water comes shooting out, right?",
-        "pt-BR": "Jeomsim: Uau, uma fonte! Eu nunca vi uma. É aquela coisa de onde fica saindo água, não é?",
-        "es-ES": "Almuerzo: ¡Guau, una fuente! Nunca he visto una. Es de esas de las que sale agua, ¿verdad?"
+        "pt-BR": "[Rango] Uau, uma fonte! Eu nunca vi uma. É aquela coisa de onde fica saindo água, não é?",
+        "es-ES": "Albor: ¡Guau, una fuente! Nunca he visto una. Es de esas de las que sale agua, ¿no?"
     },
     "mHIJDg": {
         "en-US": "Yeah, that's probably it.",
-        "pt-BR": "Sim, deve ser isso.",
-        "es-ES": "Sí, supongo que es eso."
+        "pt-BR": "Sim, exatamente isso.",
+        "es-ES": "Sí, es eso."
     },
     "mXIJDg": {
         "en-US": "Lunch: Can you drink that water?",
-        "pt-BR": "Jeomsim: Dá para beber aquela água?",
-        "es-ES": "Almuerzo: ¿Se puede beber esa agua?"
+        "pt-BR": "[Rango] Dá para beber aquela água?",
+        "es-ES": "Albor: ¿Esa agua se puede beber?"
     },
     "mnIJDg": {
         "en-US": "I'm not sure.. I've never seen anyone do it, but.. maybe you can?",
-        "pt-BR": "Bem.. nunca vi ninguém fazendo isso.. mas acho que dá para beber.",
-        "es-ES": "No sé... Nunca he visto a nadie hacerlo, pero... ¿supongo que se podrá beber?"
+        "pt-BR": "Bom... Nunca vi ninguém fazendo isso... mas talvez dê?",
+        "es-ES": "No sé... Nunca vi a alguien haciéndolo, ¿se podrá?"
     },
     "m3IJDg": {
         "en-US": "Lunch: Wow, if I live in Prontera someday, I should live near the fountain.",
-        "pt-BR": "Jeomsim: Uau, quando eu morar em Prontera, vou ter que viver perto da fonte.",
-        "es-ES": "Almuerzo: ¡Guau! Cuando viva en Prontera, tendré que vivir cerca de la fuente."
+        "pt-BR": "[Rango] Uau, quando eu morar em Prontera, vou querer ficar perto da fonte.",
+        "es-ES": "Albor: ¡Guau! Cuando viva en Prontera, tendré que vivir cerca de la fuente."
     },
     "nHIJDg": {
         "en-US": "Lunch: Then I'd never have to worry about water.",
-        "pt-BR": "Jeomsim: Assim, nunca vou precisar me preocupar com água.",
-        "es-ES": "Almuerzo: Parece que en la vida no tendremos que preocuparnos por el agua."
+        "pt-BR": "[Rango] Assim, nunca vou precisar me preocupar com água.",
+        "es-ES": "Albor: Y así nunca tendré que preocuparme por el agua."
     },
     "nXIJDg": {
         "en-US": "Why did you say \"Oh\"?",
-        "pt-BR": "Por quê? O que foi?",
-        "es-ES": "¿Por qué? ¿Lo hiciste?"
+        "pt-BR": "Por que você disse \"Ah\"?",
+        "es-ES": "¿Por qué te sorprendes?"
     },
     "nnIJDg": {
         "en-US": "Lunch: Just because. There's no reason. I suddenly felt like saying it.",
-        "pt-BR": "Jeomsim: Só porque sim. Não há motivo nenhum. De repente, deu vontade de fazer isso.",
-        "es-ES": "Almuerzo: Solo porque sí. No hay ninguna razón. De repente me dieron ganas de hacerlo."
+        "pt-BR": "Rango: Só porque sim. Não tem motivo. De repente, deu vontade de fazer isso.",
+        "es-ES": "Albor: Solo porque sí. No hay ninguna razón. De repente me dieron ganas de hacerlo."
     },
     "n3IJDg": {
         "en-US": "Lunch: ERROR.. ERROR",
-        "pt-BR": "Jeomsim: ERROR.. ERROR",
-        "es-ES": "Almuerzo: ERROR.. ERROR"
+        "pt-BR": "Rango: ERRO... ERRO",
+        "es-ES": "Albor: ERROR... ERROR..."
     },
     "oHIJDg": {
         "en-US": "Lunch: A menu error has occurred.",
-        "pt-BR": "Jeomsim: Ocorreu um erro no menu.",
-        "es-ES": "Almuerzo: Se produjo un error en el menú."
+        "pt-BR": "[Rango] Ocorreu um erro no menu.",
+        "es-ES": "Albor: Se produjo un error en el menú."
     }
 }

@@ -5075,14 +5075,14 @@
         "es-ES": "Invitado que llego con el Viento del Norte, Guardian de Asgard completado"
     },
     "t8c8CA": {
-        "en-US": "Patrol with Awin not complete",
-        "pt-BR": "Patrulha com Awin nao concluida",
-        "es-ES": "Patrulla con Awin no completada"
+        "en-US": "Patrol with Windcy not complete",
+        "pt-BR": "Patrulha com Nevento nao concluida",
+        "es-ES": "Patrulla con Neviento no completada"
     },
     "uMc8CA": {
-        "en-US": "Patrol with Awin complete",
-        "pt-BR": "Patrulha com Awin concluida",
-        "es-ES": "Patrulla con Awin completada"
+        "en-US": "Patrol with Windcy complete",
+        "pt-BR": "Patrulha com Nevento concluida",
+        "es-ES": "Patrulla con Neviento completada"
     },
     "ucc8CA": {
         "en-US": "Encounter with Test Subject 210426 not complete",
@@ -5200,9 +5200,9 @@
         "es-ES": "...Recibiendo una invitacion..."
     },
     "0Mc8CA": {
-        "en-US": "...Patrolling with Awin...",
-        "pt-BR": "...Fazendo patrulha com Awin...",
-        "es-ES": "...Patrullando con Awin..."
+        "en-US": "...Patrolling with Windcy...",
+        "pt-BR": "...Fazendo patrulha com Nevento...",
+        "es-ES": "...Patrullando con Neviento..."
     },
     "0cc8CA": {
         "en-US": "...Infiltrating the snake cave...",
@@ -5250,14 +5250,14 @@
         "es-ES": "Era de la Guerra Fria y el espionaje ^4D4DFFCompletado^000000"
     },
     "2sc8CA": {
-        "en-US": "More of an expert than any Awin not complete",
-        "pt-BR": "Mais especialista do que qualquer Awin nao concluido",
-        "es-ES": "Mas experto que cualquier Awin no completado"
+        "en-US": "More of an expert than any Windcy not complete",
+        "pt-BR": "Mais especialista do que qualquer Nevento nao concluido",
+        "es-ES": "Mas experto que cualquier Neviento no completado"
     },
     "28c8CA": {
         "en-US": "More of an expert than any Awin ^4D4DFFComplete^000000",
-        "pt-BR": "Mais especialista do que qualquer Awin ^4D4DFFConcluido^000000",
-        "es-ES": "Mas experto que cualquier Awin ^4D4DFFCompletado^000000"
+        "pt-BR": "Mais especialista do que qualquer Nevento ^4D4DFFConcluido^000000",
+        "es-ES": "Mas experto que cualquier Neviento ^4D4DFFCompletado^000000"
     },
     "3Mc8CA": {
         "en-US": "Kobbo's secret base not complete",

@@ -388,5 +388,10 @@ WORLD_MSGID = {
 	MSI_DUN46 = "Laberinto de Oz",
 	MSI_46_OZ_DUN01 = "Laberinto de Oz P1",
 	MSI_46_OZ_DUN02 = "Laberinto de Oz P2",
-	MSI_45_ODIN_PAST = "Templo de Odin"
+	MSI_45_ODIN_PAST = "Templo de Odin",
+	MSI_100_ICECASTLE = "IceCastle",
+	MSI_100_JOR_TAIL = "Ice Ligia",
+	MSI_100_JOR_BACK1 = "Palha de Gelo",
+	MSI_100_JOR_BACK2 = "Flor que Não Congela",
+	MSI_100_JOR_BACK3 = "Limacina"
 }

@@ -340,9 +340,9 @@ mapTbl_string = {
 		}
 	},
 	["1@jorchs.rsw"] = {
-		displayName = "Chaotic Snake's Nest",
+		displayName = "Chaotic Serpent's Nest",
 		signName = {
-			mainTitle = "Chaotic Snake's Nest"
+			mainTitle = "Chaotic Serpent's Nest"
 		}
 	},
 	["1@jorlab.rsw"] = {
@@ -2866,34 +2866,34 @@ mapTbl_string = {
 		}
 	},
 	["jor_dun01.rsw"] = {
-		displayName = "Snake God's Warmth 1F",
+		displayName = "Warmth of the Serpent God 1F",
 		signName = {
-			mainTitle = "Snake God's Warmth 1F"
+			mainTitle = "Warmth of the Serpent God 1F"
 		}
 	},
 	["jor_dun02.rsw"] = {
-		displayName = "Snake God's Warmth 2F",
+		displayName = "Warmth of the Serpent God 2F",
 		signName = {
-			mainTitle = "Snake God's Warmth 2F"
+			mainTitle = "Warmth of the Serpent God 2F"
 		}
 	},
 	["jor_dun03.rsw"] = {
-		displayName = "Inside the Snake's Nest",
+		displayName = "Inside the Serpent's Nest",
 		signName = {
-			mainTitle = "Inside the Snake's Nest"
+			mainTitle = "Inside the Serpent's Nest"
 		}
 	},
 	["jor_nest.rsw"] = {
-		displayName = "Snake's Nest",
+		displayName = "Serpent's Nest",
 		signName = {
-			mainTitle = "Snake's Nest",
+			mainTitle = "Serpent's Nest",
 			subTitle = "Rgan Hideout"
 		}
 	},
 	["jor_que.rsw"] = {
-		displayName = "Abandoned Snake God's Warmth",
+		displayName = "Abandoned Warmth of the Serpent God",
 		signName = {
-			mainTitle = "Abandoned Snake God's Warmth"
+			mainTitle = "Abandoned Warmth of the Serpent God"
 		}
 	},
 	["jor_tail.rsw"] = {

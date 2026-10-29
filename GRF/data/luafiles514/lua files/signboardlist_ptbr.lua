@@ -303,7 +303,7 @@ SignBoardList_string = {
 	[941] = {CONTENTS = "  Reforma"},
 	[942] = {CONTENTS = "  Minérios"},
 	[944] = {
-		CONTENTS = "  Passe de EP"
+		CONTENTS = "  Passe de Episódio"
 	},
 	[945] = {CONTENTS = "  Catálogo"},
 	[946] = {

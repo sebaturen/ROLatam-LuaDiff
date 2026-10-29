@@ -5362,7 +5362,7 @@
     "0IoB": {
         "en-US": "Cendrawasih",
         "pt-BR": "Cendrawasih",
-        "es-ES": "Ave del Paraíso"
+        "es-ES": "Cendrawasih"
     },
     "0YoB": {
         "en-US": "Banaspaty",
@@ -11637,12 +11637,12 @@
     "t48B": {
         "en-US": "Revival Branch",
         "pt-BR": "Lenha Viva",
-        "es-ES": "Rama de resurrección"
+        "es-ES": "Rama de Resurrección"
     },
     "uI8B": {
         "en-US": "Hungry Savage",
         "pt-BR": "Selvagem Faminto",
-        "es-ES": "Salvaje hambriento"
+        "es-ES": "Salvaje Hambriento"
     },
     "uY8B": {
         "en-US": "Aldebaran Siroma",
@@ -15072,29 +15072,29 @@
         "es-ES": "Pez Espada Violento"
     },
     "Z5IB": {
-        "en-US": "Calmaring",
+        "en-US": "Calamaring",
         "pt-BR": "Calamaring",
-        "es-ES": "Kalamaring"
+        "es-ES": "Calamaring"
     },
     "aJIB": {
-        "en-US": "Cave Calmaring",
-        "pt-BR": "Calamaring da Caverna",
-        "es-ES": "Kalamaring de cueva"
+        "en-US": "Cave Calamaring",
+        "pt-BR": "Calamaring Cavernoso",
+        "es-ES": "Calamaring Cavernario"
     },
     "aZIB": {
         "en-US": "Cave Flower",
-        "pt-BR": "Imobilização da Caverna",
-        "es-ES": "Budonghwa de cueva"
+        "pt-BR": "Garoupa Cavernosa",
+        "es-ES": "Glacidonte Cavernario"
     },
     "apIB": {
         "en-US": "Two Eyes Dollocaris",
-        "pt-BR": "Dolocaris de Dois Olhos",
-        "es-ES": "Dolocaris de dos ojos"
+        "pt-BR": "Dollocaris Binocular",
+        "es-ES": "Dollocaris Dobleojo"
     },
     "a5IB": {
-        "en-US": "Entangled Intermediate Rgan",
-        "pt-BR": "Regan Intermediário Envolvido",
-        "es-ES": "Regan intermedio involucrado"
+        "en-US": "Entangled Midrange Rgan",
+        "pt-BR": "Rgan Mediano Parasita",
+        "es-ES": "Rgan Intermedio Parásito"
     },
     "bJIB": {
         "en-US": "Hallucigenia",
@@ -15103,33 +15103,33 @@
     },
     "bZIB": {
         "en-US": "Hallucigenia Baby",
-        "pt-BR": "Filhote de Hallucigenia",
-        "es-ES": "Cría de Hallucigenia"
+        "pt-BR": "Bebê Hallucigenia",
+        "es-ES": "Hallucigenia Bebé"
     },
     "bpIB": {
         "en-US": "Heart Hunter AT",
-        "pt-BR": "Heart Hunter AT",
-        "es-ES": "Heart Hunter AT"
+        "pt-BR": "Caça-Coração AT",
+        "es-ES": "Cazacorazones AT"
     },
     "b5IB": {
-        "en-US": "Ice Ligia",
-        "pt-BR": "Ice Ligia",
-        "es-ES": "Ice Ligia"
+        "en-US": "Ice Gangu",
+        "pt-BR": "Escaragélido",
+        "es-ES": "Escaragélido"
     },
     "cJIB": {
-        "en-US": "Ice Straw",
-        "pt-BR": "Palha de Gelo",
-        "es-ES": "Ice Straw"
+        "en-US": "Ice Wiggler",
+        "pt-BR": "Minhogelix",
+        "es-ES": "Gusanieves"
     },
     "cZIB": {
         "en-US": "Limacina",
         "pt-BR": "Limacina",
-        "es-ES": "Limakina"
+        "es-ES": "Limacina"
     },
     "cpIB": {
         "en-US": "Ultra Limacina",
         "pt-BR": "Ultra Limacina",
-        "es-ES": "Ultra Limakina"
+        "es-ES": "Ultra Limacina"
     },
     "c5IB": {
         "en-US": "Aquila",
@@ -15143,63 +15143,63 @@
     },
     "dZIB": {
         "en-US": "Heart Hunter AT",
-        "pt-BR": "Heart Hunter AT",
-        "es-ES": "Heart Hunter AT"
+        "pt-BR": "Caça-Coração AT",
+        "es-ES": "Cazacorazones AT"
     },
     "dpIB": {
-        "en-US": "Monster Juncea",
+        "en-US": "Monstrous Juncea",
         "pt-BR": "Juncea Monstruosa",
-        "es-ES": "Juncea monstruosa"
+        "es-ES": "Juncea Monstruosa"
     },
     "d5IB": {
         "en-US": "Simulation Juncea",
         "pt-BR": "Juncea de Simulação",
-        "es-ES": "Juncea de simulación"
+        "es-ES": "Juncea de Simulación"
     },
     "eJIB": {
-        "en-US": "Entangled Intermediate Rgan",
-        "pt-BR": "Regan Intermediário Envolvido",
-        "es-ES": "Regan intermedio involucrado"
+        "en-US": "Entangled Midrange Rgan",
+        "pt-BR": "Rgan Mediano Parasita",
+        "es-ES": "Rgan Intermedio Parásito"
     },
     "eZIB": {
-        "en-US": "Renovated Superior Rgan",
-        "pt-BR": "Regan Superior Modificado",
-        "es-ES": "Regan superior modificado"
+        "en-US": "Enhanced Superior Rgan",
+        "pt-BR": "Rgan Superior Modificado",
+        "es-ES": "Rgan Superior Modificado"
     },
     "epIB": {
-        "en-US": "Rampaging Magic Superior Rgan",
-        "pt-BR": "Regan Superior em Surto Mágico",
-        "es-ES": "Regan superior con magia descontrolada"
+        "en-US": "Magic-Overflow Superior Rgan",
+        "pt-BR": "Rgan Superior Mágico",
+        "es-ES": "Rgan Superior Mágico"
     },
     "e5IB": {
-        "en-US": "Iwin",
-        "pt-BR": "Arwin",
-        "es-ES": "Awin"
+        "en-US": "Windcy",
+        "pt-BR": "Nevento",
+        "es-ES": "Neviento"
     },
     "fJIB": {
-        "en-US": "Iwin Private First Class",
-        "pt-BR": "Soldado Arwin",
-        "es-ES": "Soldado Awin"
+        "en-US": "Windcy Private First Class",
+        "pt-BR": "Cabo Nevento",
+        "es-ES": "Cabo Neviento"
     },
     "fZIB": {
-        "en-US": "Iwin Corporal",
-        "pt-BR": "Cabo Arwin",
-        "es-ES": "Cabo Awin"
+        "en-US": "Windcy Corporal",
+        "pt-BR": "Sargento Nevento",
+        "es-ES": "Sargento Neviento"
     },
     "fpIB": {
-        "en-US": "Iwin Trainee",
-        "pt-BR": "Recruta Arwin",
-        "es-ES": "Recluta Awin"
+        "en-US": "Windcy Trainee",
+        "pt-BR": "Recruta Nevento",
+        "es-ES": "Recluta Neviento"
     },
     "f5IB": {
-        "en-US": "Iwin Soldier",
-        "pt-BR": "Soldado Auxiliar Arwin",
-        "es-ES": "Soldado de primera Awin"
+        "en-US": "Windcy Specialist",
+        "pt-BR": "Subtenente Nevento",
+        "es-ES": "Subteniente Neviento"
     },
     "gJIB": {
-        "en-US": "Iwin Private",
-        "pt-BR": "Soldado de 2ª Classe Arwin",
-        "es-ES": "Soldado de segunda Awin"
+        "en-US": "Windcy Private",
+        "pt-BR": "Soldado Nevento",
+        "es-ES": "Soldado Neviento"
     },
     "gZIB": {
         "en-US": "Lehar",
@@ -15208,63 +15208,63 @@
     },
     "gpIB": {
         "en-US": "One Eye Dollocaris",
-        "pt-BR": "Dolocaris de Um Olho",
-        "es-ES": "Dolocaris de un ojo"
+        "pt-BR": "Dollocaris Monocular",
+        "es-ES": "Dollocaris Ojoúnico"
     },
     "g5IB": {
-        "en-US": "Renovated Superior Rgan",
-        "pt-BR": "Regan Superior Modificado",
-        "es-ES": "Regan superior modificado"
+        "en-US": "Enhanced Superior Rgan",
+        "pt-BR": "Rgan Superior Modificado",
+        "es-ES": "Rgan Superior Modificado"
     },
     "hJIB": {
         "en-US": "Primitive Rgan",
-        "pt-BR": "Regan Primitivo",
-        "es-ES": "Regan primitivo"
+        "pt-BR": "Rgan Primitivo",
+        "es-ES": "Rgan Primitivo"
     },
     "hZIB": {
         "en-US": "Lowest Rgan",
-        "pt-BR": "Regan de Nível Mais Baixo",
-        "es-ES": "Regan de nivel ínfimo"
+        "pt-BR": "Rgan Ínfimo",
+        "es-ES": "Rgan Ínfimo"
     },
     "hpIB": {
-        "en-US": "Junior Rgan",
-        "pt-BR": "Regan Inferior",
-        "es-ES": "Regan inferior"
+        "en-US": "Lower Rgan",
+        "pt-BR": "Rgan Inferior",
+        "es-ES": "Rgan Inferior"
     },
     "h5IB": {
-        "en-US": "Intermediate Rgan",
-        "pt-BR": "Regan Intermediário",
-        "es-ES": "Regan intermedio"
+        "en-US": "Midrange Rgan",
+        "pt-BR": "Rgan Intermediário",
+        "es-ES": "Rgan Intermedio"
     },
     "iJIB": {
         "en-US": "Superior Rgan",
-        "pt-BR": "Regan Superior",
-        "es-ES": "Regan superior"
+        "pt-BR": "Rgan Superior",
+        "es-ES": "Rgan Superior"
     },
     "iZIB": {
         "en-US": "Shining Seaweed",
         "pt-BR": "Alga Brilhante",
-        "es-ES": "Alga brillante"
+        "es-ES": "Alga Brillante"
     },
     "ipIB": {
         "en-US": "Unfrost Flower",
-        "pt-BR": "Flor que Não Congela",
-        "es-ES": "Flor que no se congela"
+        "pt-BR": "Garoupa Glaciflor",
+        "es-ES": "Glacidonte Gélido"
     },
     "i5IB": {
-        "en-US": "Discarded Primitive Rgan",
-        "pt-BR": "Regan Primitivo Descartado",
-        "es-ES": "Regan primitivo descartado"
+        "en-US": "Disposed Primitive Rgan",
+        "pt-BR": "Rgan Primitivo Descartado",
+        "es-ES": "Rgan Primitivo Descartado"
     },
     "jJIB": {
-        "en-US": "Discarded Intermediate Rgan",
-        "pt-BR": "Regan Intermediário Descartado",
-        "es-ES": "Regan intermedio descartado"
+        "en-US": "Disposed Midrange Rgan",
+        "pt-BR": "Rgan Intermediário Descartado",
+        "es-ES": "Rgan Intermedio Descartado"
     },
     "jZIB": {
         "en-US": "Limacina",
         "pt-BR": "Limacina",
-        "es-ES": "Limakina"
+        "es-ES": "Limacina"
     },
     "jpIB": {
         "en-US": "Suspicious Storage Stone",
@@ -15275,5 +15275,20 @@
         "en-US": "Very Suspicious Storage Stone",
         "pt-BR": "Pedra de Armazenamento Muito Suspeita",
         "es-ES": "Piedra de Almacenamiento Muy Sospechosa"
+    },
+    "kJIB": {
+        "en-US": "White Knight",
+        "pt-BR": "Cavaleiro Branco",
+        "es-ES": "Caballero Blanco"
+    },
+    "kZIB": {
+        "en-US": "Manhole",
+        "pt-BR": "Bueiro",
+        "es-ES": "Alcantarilla"
+    },
+    "kpIB": {
+        "en-US": "Angelgolt",
+        "pt-BR": "Angelgolt Azul",
+        "es-ES": "Angelgolt"
     }
 }

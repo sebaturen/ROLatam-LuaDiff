@@ -1443,5 +1443,80 @@
         "en-US": "^nItemID^480437",
         "pt-BR": "^nItemID^480437",
         "es-ES": "^nItemID^480437"
+    },
+    "oS7iAQ": {
+        "en-US": "^nItemID^31943",
+        "pt-BR": "^nItemID^31943",
+        "es-ES": "^nItemID^31943"
+    },
+    "oi7iAQ": {
+        "en-US": "^nItemID^31032",
+        "pt-BR": "^nItemID^31032",
+        "es-ES": "^nItemID^31032"
+    },
+    "oy7iAQ": {
+        "en-US": "^nItemID^20075",
+        "pt-BR": "^nItemID^20075",
+        "es-ES": "^nItemID^20075"
+    },
+    "pC7iAQ": {
+        "en-US": "^nItemID^20191",
+        "pt-BR": "^nItemID^20191",
+        "es-ES": "^nItemID^20191"
+    },
+    "pS7iAQ": {
+        "en-US": "^nItemID^400172",
+        "pt-BR": "^nItemID^400172",
+        "es-ES": "^nItemID^400172"
+    },
+    "pi7iAQ": {
+        "en-US": "^nItemID^31290",
+        "pt-BR": "^nItemID^31290",
+        "es-ES": "^nItemID^31290"
+    },
+    "py7iAQ": {
+        "en-US": "^nItemID^400224",
+        "pt-BR": "^nItemID^400224",
+        "es-ES": "^nItemID^400224"
+    },
+    "qC7iAQ": {
+        "en-US": "^nItemID^400174",
+        "pt-BR": "^nItemID^400174",
+        "es-ES": "^nItemID^400174"
+    },
+    "qS7iAQ": {
+        "en-US": "^nItemID^410121",
+        "pt-BR": "^nItemID^410121",
+        "es-ES": "^nItemID^410121"
+    },
+    "qi7iAQ": {
+        "en-US": "^nItemID^31534",
+        "pt-BR": "^nItemID^31534",
+        "es-ES": "^nItemID^31534"
+    },
+    "qy7iAQ": {
+        "en-US": "^nItemID^31380",
+        "pt-BR": "^nItemID^31380",
+        "es-ES": "^nItemID^31380"
+    },
+    "rC7iAQ": {
+        "en-US": "^nItemID^420046",
+        "pt-BR": "^nItemID^420046",
+        "es-ES": "^nItemID^420046"
+    },
+    "rS7iAQ": {
+        "en-US": "^nItemID^19606",
+        "pt-BR": "^nItemID^19606",
+        "es-ES": "^nItemID^19606"
+    },
+    "ri7iAQ": {
+        "en-US": "^nItemID^20541",
+        "pt-BR": "^nItemID^20541",
+        "es-ES": "^nItemID^20541"
+    },
+    "ry7iAQ": {
+        "en-US": "^nItemID^20605",
+        "pt-BR": "^nItemID^20605",
+        "es-ES": "^nItemID^20605"
     }
 }

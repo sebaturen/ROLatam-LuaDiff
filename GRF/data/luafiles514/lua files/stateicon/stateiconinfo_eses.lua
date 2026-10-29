@@ -5609,11 +5609,11 @@ StateIconList_string = {
 	[EFST_IDs.EFST_GRADUAL_GRAVITY] = {
 		descript = {
 			{
-				"aumento de la gravedad"
+				"Aumento de la Gravedad"
 			},
 			{"%s"},
 			{
-				"Se pierden PV por segundo."
+				"Se pierden HP por segundo."
 			}
 		}
 	},

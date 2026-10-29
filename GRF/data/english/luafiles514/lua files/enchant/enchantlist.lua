@@ -8050,6 +8050,66 @@ Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_161", 0, {
 	"Snow_F_Stone3",
 	10
 })
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_162", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_163", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_164", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_165", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_166", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
+Table[31].Slot[0]:AddPerfectEnchant("Glacier_F_Orb_167", 0, {
+	"Snow_F_Stone1",
+	25
+}, {
+	"Snow_F_Stone2",
+	35
+}, {
+	"Snow_F_Stone3",
+	50
+})
 Table[32] = CreateEnchantInfo()
 Table[32]:SetSlotOrder(3, 2)
 Table[32]:AddTargetItem("Thanos_Helm1_LT")

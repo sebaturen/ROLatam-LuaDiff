@@ -1,13 +1,13 @@
 {
     "AKn4DQ": {
-        "en-US": "Corporal Morurang",
-        "pt-BR": "Cabo Morurang",
-        "es-ES": "Cabo Morurang"
+        "en-US": "Sargent Morurang",
+        "pt-BR": "Sargento Morurang",
+        "es-ES": "Sargento Morurang"
     },
     "Aan4DQ": {
         "en-US": "<Eagle Patrol>",
         "pt-BR": "<Patrulha da Águia>",
-        "es-ES": "<Patrulla de Águilas>"
+        "es-ES": "<Patrulla del Águila>"
     },
     "Aqn4DQ": {
         "en-US": "movexy_{0}",
@@ -65,9 +65,9 @@
         "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
     },
     "Dan4DQ": {
-        "en-US": "Recruit Borira",
-        "pt-BR": "Recruta Borira",
-        "es-ES": "Recluta Borira"
+        "en-US": "Cadet Borira",
+        "pt-BR": "Cadete Borira",
+        "es-ES": "Cadete Borira"
     },
     "Dqn4DQ": {
         "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
@@ -117,7 +117,7 @@
     "F6n4DQ": {
         "en-US": "Private Rorur",
         "pt-BR": "Soldado Rorur",
-        "es-ES": "Soldado de segunda Rorur"
+        "es-ES": "Soldado Rorur"
     },
     "GKn4DQ": {
         "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
@@ -165,9 +165,9 @@
         "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
     },
     "Ian4DQ": {
-        "en-US": "Private First Class Horiryu",
-        "pt-BR": "Soldado Horiryu",
-        "es-ES": "Soldado de primera Horiryu"
+        "en-US": "Corporal Horiryu",
+        "pt-BR": "Cabo Horiryu",
+        "es-ES": "Cabo Horiryu"
     },
     "Iqn4DQ": {
         "en-US": "OnMoveEnd_Mas[Course{0}]/[Destination{1} {2}]/[Current{3} {4}]/[Execute{5}]",
@@ -215,43 +215,47 @@
         "es-ES": "[↙]/[Ruta{0}]/[Destino{1} {2}]/[Actual{3} {4}]"
     },
     "K6n4DQ": {
-        "en-US": "Corporal Moruryu",
-        "pt-BR": "Cabo Moruryu",
-        "es-ES": "Cabo Moruryu"
+        "en-US": "Sargent Moruryu",
+        "pt-BR": "Sargento Moruryu",
+        "es-ES": "Sargento Moruryu"
     },
     "LKn4DQ": {
-        "en-US": "Recruit Pororong",
-        "pt-BR": "Recruta Ppororong",
-        "es-ES": "Recluta Pororong"
+        "en-US": "Cadet Pororong",
+        "pt-BR": "Cadete Pororong",
+        "es-ES": "Cadete Pororong"
     },
     "Lan4DQ": {
         "en-US": "Private Torari",
         "pt-BR": "Soldado Torari",
-        "es-ES": "Soldado de segunda Torari"
+        "es-ES": "Soldado Torari"
     },
     "Lqn4DQ": {
-        "en-US": "Private First Class Porarang",
-        "pt-BR": "Soldado Porarang",
-        "es-ES": "Soldado de primera Porarang"
+        "en-US": "Corporal Porarang",
+        "pt-BR": "Cabo Porarang",
+        "es-ES": "Cabo Porarang"
     },
     "L6n4DQ": {
-        "en-US": "Corporal Poruryo",
-        "pt-BR": "Cabo Pporuryo",
-        "es-ES": "Cabo Poruryo"
+        "en-US": "Sargent Poruryo",
+        "pt-BR": "Sargento Poruryo",
+        "es-ES": "Sargento Poruryo"
     },
     "MKn4DQ": {
-        "en-US": "Recruit Horurung",
-        "pt-BR": "Recruta Horurung",
-        "es-ES": "Recluta Horurung"
+        "en-US": "Cadet Horurung",
+        "pt-BR": "Cadete Horurung",
+        "es-ES": "Cadete Horurung"
     },
     "Man4DQ": {
-        "en-US": "Private Ttorarong",
-        "pt-BR": "Soldado Ttorarong",
-        "es-ES": "Soldado de segunda Ttorarong"
+        "en-US": "Private Torarong",
+        "pt-BR": "Soldado Torarong",
+        "es-ES": "Soldado Torarong"
     },
     "Mqn4DQ": {
-        "en-US": "Private First Class Ssorur",
-        "pt-BR": "Soldado Ssorur",
-        "es-ES": "Soldado de primera Ssorur"
-    }
+        "en-US": "Corporal Sorur",
+        "pt-BR": "Cabo Sorur",
+        "es-ES": "Cabo Sorur"
+    },
+    "M6n4DQ": {},
+    "NKn4DQ": {},
+    "Nan4DQ": {},
+    "Nqn4DQ": {}
 }

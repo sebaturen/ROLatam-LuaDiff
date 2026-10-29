@@ -7,7 +7,7 @@
     "ARMRDg": {
         "en-US": "[Maram]\nIt looks like there's only one thing for me to do here.\nBring in supplies for all of you to use.\nThings from the continent would be more convenient, wouldn't they?",
         "pt-BR": "[Maram]\nParece que só há uma coisa para eu fazer aqui.\nTrazer os suprimentos que vocês vão usar.\nAfinal, os produtos do continente não são mais práticos?",
-        "es-ES": "[Maram]\nParece que solo hay una cosa que puedo hacer aquí.\nConseguir los suministros que ustedes necesiten.\nDespués de todo, ¿no es más cómodo usar productos del continente?"
+        "es-ES": "[Maram]\nParece que solo hay una cosa que puedo hacer aquí.\nConseguir los suministros que ustedes necesiten.\nSupongo que sería más práctico traer cosas del continente, ¿no creen?"
     },
     "AhMRDg": {
         "en-US": "[Maram]\nNeed anything?\nI've brought in items that adventurers commonly use.",
@@ -32,7 +32,7 @@
     "BhMRDg": {
         "en-US": "Sell items.",
         "pt-BR": "Vender itens do inventário.",
-        "es-ES": "Vender pertenencias."
+        "es-ES": "Vender objetos."
     },
     "BxMRDg": {
         "en-US": "What's going on?",
@@ -42,17 +42,17 @@
     "CBMRDg": {
         "en-US": "[Maram]\nI brought plenty, so take as much as you need.",
         "pt-BR": "[Maram]\nTrouxe uma boa quantidade, então veja o quanto precisar.",
-        "es-ES": "[Maram]\nHe traído una buena cantidad, así que revisen todo lo que necesiten."
+        "es-ES": "[Maram]\nTraje bastantes cosas, así que toma todo lo que necesites."
     },
     "CRMRDg": {
         "en-US": "[Maram]\nThese are armors crafted by Vellgunde.\nThey're made with the magic of snow flowers, so I'm exchanging them for Snow Flower Petal.",
         "pt-BR": "[Maram]\nEstas armaduras foram feitas por Vellgunde.\nComo foram criadas com o poder mágico da neve, estou trocando por Pétala de Flor de Neve.",
-        "es-ES": "[Maram]\nEstas armaduras fueron fabricadas por el señor Vellgunde.\nComo están hechas con el poder mágico de los Copos de Nieve, las intercambiamos por Pétalo de Copo de Nieve."
+        "es-ES": "[Maram]\nEstas son armaduras fabricadas por Vellgunde.\nEstán hechas con la magia de las Flores de Nieve, así que las intercambio por Pétalo de Copo de Nieve."
     },
     "ChMRDg": {
         "en-US": "[Maram]\nThese are weapons I procured the basic materials for and Vellgunde completed.\nSince the basic materials cost money, I'll have to charge a small amount of Zeny.",
         "pt-BR": "[Maram]\nEu consegui os materiais básicos, e estas armas foram finalizadas por Vellgunde.\nComo os materiais básicos também têm um custo, preciso cobrar uma pequena quantidade de Zeny.",
-        "es-ES": "[Maram]\nYo conseguí los materiales básicos y el señor Vellgunde terminó estas armas.\nComo tengo que traer los materiales básicos desde lejos, tendré que cobrar una pequeña cantidad de Zeny."
+        "es-ES": "[Maram]\nYo conseguí los materiales básicos y Vellgunde terminó de fabricar estas armas.\nComo los materiales básicos cuestan dinero, tendré que cobrar una pequeña cantidad de zeny."
     },
     "CxMRDg": {
         "en-US": "View melee weapons and bows.",
@@ -67,27 +67,27 @@
     "DRMRDg": {
         "en-US": "[Maram]\nThese weapons are quite good.",
         "pt-BR": "[Maram]\nO desempenho destas armas é muito bom.",
-        "es-ES": "[Maram]\nEstas armas tienen un rendimiento bastante bueno."
+        "es-ES": "[Maram]\nEstas armas son bastante buenas."
     },
     "DhMRDg": {
         "en-US": "[Maram]\nIf you have anything you don't need, I'll buy it from you.",
         "pt-BR": "[Maram]\nSe tiver algum item de que não precisa, posso comprá-lo de você.",
-        "es-ES": "[Maram]\nSi tienen objetos que ya no necesitan, yo se los compraré."
+        "es-ES": "[Maram]\nSi tienes objetos que ya no necesitas, te los compraré."
     },
     "DxMRDg": {
         "en-US": "[Maram]\nI thought about what I could do here....\nBut all I've ever done is handle logistics and supplies.",
-        "pt-BR": "[Maram]\nFiquei pensando no que eu poderia fazer por aqui....\nAfinal, sempre trabalhei com abastecimento e logística.",
-        "es-ES": "[Maram]\nEstuve pensando en qué podría hacer aquí....\nDespués de todo, siempre me he dedicado al abastecimiento y la logística."
+        "pt-BR": "[Maram]\nFiquei pensando no que eu poderia fazer por aqui...\nAfinal, sempre trabalhei com abastecimento e logística.",
+        "es-ES": "[Maram]\nEstuve pensando en qué podría hacer aquí...\nDespués de todo, siempre me he dedicado al abastecimiento y la logística."
     },
     "EBMRDg": {
         "en-US": "[Maram]\nSince supplies are scarce here, I discussed it with Ginger and decided to make regular unofficial supply deliveries.",
         "pt-BR": "[Maram]\nComo este lugar tem poucos suprimentos, conversei com Gengibre e decidimos fazer entregas regulares de suprimentos por dirigível.",
-        "es-ES": "[Maram]\nComo aquí escasean los suministros habituales, hablé con el señor Saenggang y decidimos hacer entregas periódicas de suministros por vía aérea."
+        "es-ES": "[Maram]\nComo aquí escasean los suministros habituales, hablé con Ginger y decidimos hacer entregas periódicas de suministros por vía aérea."
     },
     "ERMRDg": {
         "en-US": "[Maram]\nWhile I was at it, I decided to help Vellgunde and open a shop too.\nSince the goods have to travel quite a distance, I do charge a basic amount of Zeny.",
         "pt-BR": "[Maram]\nAproveitei para ajudar Vellgunde e também abri uma loja.\nComo a distância de distribuição é grande, ainda preciso cobrar uma quantia básica em Zeny.",
-        "es-ES": "[Maram]\nDe paso, también ayudo al señor Vellgunde y abrí una tienda.\nAunque, debido a la distancia de distribución, cobro una cantidad básica de Zeny."
+        "es-ES": "[Maram]\nYa que estaba en eso, decidí ayudar también a Vellgunde y abrir una tienda.\nComo los productos tienen que recorrer una distancia considerable, cobro una cantidad básica de Zeny."
     },
     "EhMRDg": {
         "en-US": "[Maram]\nI'll always keep the necessary supplies stocked, so don't worry and do whatever you want to do!",
@@ -102,7 +102,7 @@
     "FBMRDg": {
         "en-US": "[Hoyoyo]\nSo you're the adventurer who came to the Ice Castle this time.\nMy true name is Hoyoyo Hoyoyo Hoyoyo (Royal Signature Bergamot).",
         "pt-BR": "[Hoyoyo]\nEntão é você o aventureiro que veio ao Castelo de Gelo.\nMeu verdadeiro nome é Hoyoyo Hoyoyo Hoyoyo (Royal Signature Bergamot).",
-        "es-ES": "[Hoyoyo]\nAsí que usted es el aventurero que llegó esta vez al Castillo de Hielo.\nMi verdadero nombre es Hoyoyo Hoyoyo Hoyoyo (Royal Signature Bergamot)."
+        "es-ES": "[Hoyoyo]\nAsí que tú eres el aventurero que llegó esta vez al Castillo de Hielo.\nMi verdadero nombre es Hoyoyo Hoyoyo Hoyoyo (Royal Signature Bergamot)."
     },
     "FRMRDg": {
         "en-US": "Hoyoyo? Hoyo?",
@@ -112,17 +112,17 @@
     "FhMRDg": {
         "en-US": "[Hoyoyo]\nYes. No matter how magnificent a name I come up with, it seems humans only hear it as Hoyoyo.\nJust call me Hoyoyo.",
         "pt-BR": "[Hoyoyo]\nPois é. Não importa quão belo seja meu nome, parece que aos ouvidos humanos ele soa como Hoyoyo.\nPode me chamar de Hoyoyo.",
-        "es-ES": "[Hoyoyo]\nAsí es. Parece que, por más elegante que sea el nombre que elija, los humanos solo lo oyen como Hoyoyo.\nPuede llamarme Hoyoyo sin más."
+        "es-ES": "[Hoyoyo]\nAsí es. Por magnífico que sea el nombre que invente, parece que los humanos solo oyen \"Hoyoyo\".\nPuedes llamarme Hoyoyo, sin más."
     },
     "FxMRDg": {
         "en-US": "[Hoyoyo]\nI'm researching the magic of Jormungand together with Vellgunde.\nSometimes Vellgunde needs raw magic stone, so if you need some too, I can make it for you.",
         "pt-BR": "[Hoyoyo]\nEstou pesquisando o poder mágico de Jormungand junto com Vellgunde.\nÀs vezes, Vellgunde precisa de minérios de pedra mágica. Se você também precisar, posso fazer a troca.",
-        "es-ES": "[Hoyoyo]\nEstoy investigando el poder mágico del señor Jormungand junto con el señor Vellgunde.\nA veces el señor Vellgunde necesita piedras mágicas en bruto, así que, si usted también las necesita, puedo preparárselas."
+        "es-ES": "[Hoyoyo]\nEstoy investigando la magia de Jormungand junto con Vellgunde.\nA veces, Vellgunde necesita piedra mágica en bruto, así que, si tú también necesitas, puedo preparártela."
     },
     "GBMRDg": {
         "en-US": "Exchange Various Snow Flower Magic Stone",
         "pt-BR": "Trocar diversos tipos de Pedra Mágica de Flor de Neve",
-        "es-ES": "Intercambiar varios tipos de Piedra Mágica de Copo de Nieve"
+        "es-ES": "Intercambiar varios tipos de Piedras Mágicas de Copo de Nieve."
     },
     "GRMRDg": {
         "en-US": "Exchange Snow Flower Petal",
@@ -132,32 +132,32 @@
     "GhMRDg": {
         "en-US": "Is Hoyoyo your real name?",
         "pt-BR": "Seu nome verdadeiro é Hoyoyo?",
-        "es-ES": "¿Tu nombre original es Hoyoyo?"
+        "es-ES": "¿Hoyoyo es tu verdadero nombre?"
     },
     "GxMRDg": {
         "en-US": "[Hoyoyo]\nI'll exchange Snow Flower Magic Ore for Snow Flower Magic Stone, and Snow Flower Magic Stone for Shining Snow Flower Magic Stone.\nWhat are they for? I'm sure Vellgunde will make something good with them, right?",
         "pt-BR": "[Hoyoyo]\nTroco Minério de Pedra Mágica de Flor de Neve por Pedra Mágica de Flor de Neve e Pedra Mágica de Flor de Neve por Pedra Mágica de Flor de Neve Brilhante.\nQuer saber para que servem? Talvez Vellgunde faça algo bom com elas, não acha?",
-        "es-ES": "[Hoyoyo]\nPuedo cambiar Mineral de Piedra Mágica de Copo de Nieve por Piedra Mágica de Copo de Nieve, y Piedra Mágica de Copo de Nieve por Piedra Mágica de Copo de Nieve Brillante.\n¿Que para qué sirven? El señor Vellgunde seguramente podrá hacer algo bueno con ellos, ¿no?"
+        "es-ES": "[Hoyoyo]\nIntercambiaré Mineral Mágico de Flor Invernal por Piedra Mágica de Flor Invernal, y Piedra Mágica de Flor Invernal por Piedra Mágica Brillante de Flor Invernal.\n¿Para qué sirven? Seguro que Vellgunde hará algo bueno con ellas, ¿verdad?"
     },
     "HBMRDg": {
         "en-US": "[Hoyoyo]\nOh, our friend from the Ice Castle is here~\nWhat do you need?",
         "pt-BR": "[Hoyoyo]\nOh, meu amigo do Castelo de Gelo chegou~\nDo que você precisa?",
-        "es-ES": "[Hoyoyo]\nOh, ¿vino nuestro amigo del Castillo de Hielo~?\n¿Qué necesita?"
+        "es-ES": "[Hoyoyo]\n¡Oh, aquí está nuestro amigo del Castillo de Hielo!\n¿Qué necesitas?"
     },
     "HRMRDg": {
         "en-US": "[Hoyoyo]\nCome here, human friend~\nWhat do you need?",
         "pt-BR": "[Hoyoyo]\nVenha cá, amigo humano~\nDo que você precisa?",
-        "es-ES": "[Hoyoyo]\nVen aquí, amigo humano~\n¿Qué necesitas?"
+        "es-ES": "[Hoyoyo]\n¡Ven aquí, amigo humano!\n¿Qué necesitas?"
     },
     "HhMRDg": {
         "en-US": "[Hoyoyo]\nHmm? Do you want to do something with Snow Flower Petal?\nVellgunde has been doing quite a lot of research lately.",
         "pt-BR": "[Hoyoyo]\nHmm? Quer fazer alguma coisa com Pétala de Flor de Neve?\nVellgunde tem pesquisado bastante coisa ultimamente.",
-        "es-ES": "[Hoyoyo]\n¿Hmm? ¿Quieres hacer algo con Pétalo de Copo de Nieve?\nEl señor Vellgunde ha estado investigando muchas cosas últimamente."
+        "es-ES": "[Hoyoyo]\n¿Mmm? ¿Quieres hacer algo con los Pétalos de Copo de Nieve?\nÚltimamente, Vellgunde ha estado investigando bastante."
     },
     "HxMRDg": {
         "en-US": "[Hoyoyo]\nIf you put a little more effort into helping the Ice Castle, wouldn't that lead to some good results?\nHoyoyoyoyoyo~ Hoyoyoyoyoyoyo~",
-        "pt-BR": "[Hoyoyo]\nSe você se esforçar um pouco mais pelo Castelo de Gelo, talvez tenhamos bons resultados, não acha?\nHoyoyoyoyoyo~ Hoyoyoyoyoyoyo~",
-        "es-ES": "[Hoyoyo]\nSi te esfuerzas un poco más por el Castillo de Hielo, ¿no crees que podríamos obtener buenos resultados?\nHoyoyoyoyoyo~ Hoyoyoyoyoyoyo~"
+        "pt-BR": "[Hoyoyo]\nSe você se esforçar um pouco mais pelo Castelo de Gelo, talvez tenhamos bons resultados, não acha?\nHoyoyoyoyoyo! Hoyoyoyoyoyoyo!",
+        "es-ES": "[Hoyoyo]\nSi te esfuerzas un poco más por ayudar al Castillo de Hielo, ¿no crees que obtendrás buenos resultados?\n¡Hoyoyoyoyoyo! ¡Hoyoyoyoyoyoyo!"
     },
     "IBMRDg": {
         "en-US": "[Hoyoyo]\nMy true name is Hoyoyo Hoyoyo Hoyoyo (Royal Signature Bergamot).",
@@ -167,7 +167,7 @@
     "IRMRDg": {
         "en-US": "[Hoyoyo]\nYes. No matter how magnificent a name I come up with, it seems humans only hear it as Hoyoyo.\nJust call me Hoyoyo.",
         "pt-BR": "[Hoyoyo]\nPois é. Não importa quão belo seja meu nome, parece que aos ouvidos humanos ele soa como Hoyoyo.\nPode me chamar de Hoyoyo.",
-        "es-ES": "[Hoyoyo]\nAsí es. Parece que, por más elegante que sea el nombre que elija, los humanos solo lo oyen como Hoyoyo.\nPuedes llamarme Hoyoyo sin más."
+        "es-ES": "[Hoyoyo]\nAsí es. Por magnífico que sea el nombre que invente, parece que los humanos solo oyen \"Hoyoyo\".\nPuedes llamarme Hoyoyo, sin más."
     },
     "IhMRDg": {
         "en-US": "Vellgunde",
@@ -181,23 +181,23 @@
     },
     "JBMRDg": {
         "en-US": "[Vellgunde]\nAre you the adventurer who recently came over from the continent?\nMe? I'm Vellgunde Geoborg. I'm researching the magic of Jormungand here.",
-        "pt-BR": "[Vellgunde]\nVocê é o aventureiro que veio do continente desta vez?\nEu? Sou Vellgunde Geoborg. Estou pesquisando o poder mágico de Jormungand neste lugar.",
-        "es-ES": "[Vellgunde]\n¿Eres el aventurero que llegó del continente esta vez?\n¿Yo? Soy Vellgunde Geoborg. Aquí investigo el poder mágico de Jormungand."
+        "pt-BR": "[Vellgunde]\nVocê é o aventureiro que veio do continente desta vez?\nEu? Sou Vellgunde Gaebolg. Estou pesquisando o poder mágico de Jormungand neste lugar.",
+        "es-ES": "[Vellgunde]\n¿Eres el aventurero que llegó hace poco del continente?\n¿Yo? Soy Vellgunde Geoborg. Estoy investigando aquí el poder mágico de Jormungand."
     },
     "JRMRDg": {
         "en-US": "[Vellgunde]\nWhat brings you here?\nOh, you brought Purified Magic Core!\nThanks, as always.\nThings sure are easier with more people around.",
         "pt-BR": "[Vellgunde]\nO que foi?\nOh, você trouxe Núcleo Mágico Purificado!\nObrigado, como sempre.\nRealmente fica mais fácil com mais gente por aqui.",
-        "es-ES": "[Vellgunde]\n¿Qué ocurre?\n¡Oh, trajiste Núcleo Mágico Purificado!\nGracias, como siempre.\nSin duda, es mucho más cómodo ahora que hay más gente."
+        "es-ES": "[Vellgunde]\n¿Qué te trae por aquí?\n¡Oh, trajiste un Núcleo Mágico Purificado!\nGracias, como siempre.\nSin duda, es más fácil cuando hay más gente."
     },
     "JhMRDg": {
         "en-US": "[Vellgunde]\nI'll give you Snow Flower Petal in return.\nYou'll need it when enhancing weapons or armor.",
         "pt-BR": "[Vellgunde]\nEm troca, vou lhe dar Pétala de Flor de Neve.\nVocê vai precisar disso para aprimorar armas ou armaduras.",
-        "es-ES": "[Vellgunde]\nA cambio, te daré Pétalo de Copo de Nieve.\nLo necesitarás para mejorar armas o armaduras."
+        "es-ES": "[Vellgunde]\nTe daré Pétalos de Copo de Nieve a cambio.\nLos necesitarás para mejorar armas o armaduras."
     },
     "JxMRDg": {
         "en-US": "[Vellgunde]\nWhat do you need from me?\nI usually research the magic of Jormungand and the Rgans.\nIf there's anything we can help each other with, let's do so.",
         "pt-BR": "[Vellgunde]\nO que você quer comigo?\nCostumo pesquisar o poder mágico de Jormungand e dos Rgans.\nSe pudermos ajudar um ao outro, vamos fazer isso.",
-        "es-ES": "[Vellgunde]\n¿Qué necesitas de mí?\nNormalmente investigo el poder mágico de Jormungand y de los Rgan.\nSi hay algo en lo que podamos ayudarnos, hagámoslo."
+        "es-ES": "[Vellgunde]\n¿Qué necesitas de mí?\nNormalmente investigo la magia de Jormungand y de los Rgan.\nSi hay algo en lo que podamos ayudarnos mutuamente, hagámoslo."
     },
     "KBMRDg": {
         "en-US": "Supply Research Materials for Vellgunde",
@@ -207,17 +207,17 @@
     "KRMRDg": {
         "en-US": "Extract Ice Flower Spell",
         "pt-BR": "Extração de Pedra Mágica de Flor de Gelo",
-        "es-ES": "Extracción de Piedra Mágica de Flor de Hielo"
+        "es-ES": "Extraer Piedra Mágica de Flor Invernal"
     },
     "KhMRDg": {
         "en-US": "Extract Ice Flower Magic",
         "pt-BR": "Extração de Poder Mágico de Flor de Gelo",
-        "es-ES": "Extracción de poder mágico de Flor de Hielo"
+        "es-ES": "Extraer Piedra Mágica de Flor Invernal"
     },
     "KxMRDg": {
         "en-US": "Enchant Snow Flower Armor and Glacier Weapons",
         "pt-BR": "Encantamento de Armadura de Flor de Neve e Arma Glacial",
-        "es-ES": "Encantamiento de armadura de Copo de Nieve y armas Glacia"
+        "es-ES": "Encantar armaduras de Flor Invernal y Armas Glaciales"
     },
     "LBMRDg": {
         "en-US": "[Vellgunde]\nHm? No, it's fine.\nI still have plenty of the magic cores you brought me.\nI'll ask you again when I need more.",
@@ -227,32 +227,32 @@
     "LRMRDg": {
         "en-US": "[Vellgunde]\nGather some low-quality magic cores and take them to ^4D4DFFFriederike^000000, you know, the one from the cathedral.\nShe knows how to purify them, so could you have them purified and bring them to me?\n^4D4DFF3^000000 should be enough.",
         "pt-BR": "[Vellgunde]\nJunte alguns núcleos mágicos inferiores e leve até ^4D4DFFFriederike^000000, aquela pessoa que veio da catedral.\nEla sabe purificá-los, então pode pedir que os purifique e trazê-los para mim?\nCerca de ^4D4DFF3 unidades^000000 já é suficiente.",
-        "es-ES": "[Vellgunde]\nReúne una cantidad razonable de núcleos mágicos inferiores y llévaselos a ^4D4DFFFriederike^000000, la que vino de la catedral.\nElla sabe purificarlos, así que ¿podrías hacer que los purifique y traérmelos?\nCon unos ^4D4DFF3^000000 será suficiente."
+        "es-ES": "[Vellgunde]\nReúne una cantidad razonable de núcleos mágicos inferiores y llévaselos a ^4D4DFFFriederike^000000, la que vino de la catedral.\nElla sabe cómo purificarlos, así que ¿podrías hacer que los purifique y luego traérmelos?\nCon ^4D4DFF3^000000 será suficiente."
     },
     "LhMRDg": {
         "en-US": "[Vellgunde]\nYou can obtain Low-quality Rgan Magic Core by defeating Primitive Rgan or lower-class Rgans.",
-        "pt-BR": "[Vellgunde]\nNúcleo Mágico Inferior de Regan pode ser obtido ao derrotar Regan Primitivo ou Rgans inferiores.",
-        "es-ES": "[Vellgunde]\nPuedes obtener Núcleo Mágico Inferior de Regan derrotando a Regan primitivo o a Rgan inferiores."
+        "pt-BR": "[Vellgunde]\nNúcleo Mágico Inferior de Rgan pode ser obtido ao derrotar Rgan Primitivo ou Rgans inferiores.",
+        "es-ES": "[Vellgunde]\nPuedes obtener Núcleo Mágico de Rgan Inferior derrotando a los Rgan."
     },
     "LxMRDg": {
         "en-US": "[Vellgunde]\nWhat I need is purified Rgan Magic Core.\nYou should be able to obtain Low-quality Rgan Magic Core by defeating Rgans.",
-        "pt-BR": "[Vellgunde]\nO que eu preciso é de Núcleo Mágico de Regan purificado.\nAo derrotar os Rgans, você poderá obter Núcleo Mágico Inferior de Regan.",
-        "es-ES": "[Vellgunde]\nLo que necesito es Núcleo Mágico de Regan purificado.\nSi derrotas a los Rgan, seguramente podrás conseguir Núcleo Mágico Inferior de Regan."
+        "pt-BR": "[Vellgunde]\nO que eu preciso é de Núcleo Mágico de Rgan purificado.\nAo derrotar os Rgans, você poderá obter Núcleo Mágico Inferior de Rgan.",
+        "es-ES": "[Vellgunde]\nLo que necesito es un Núcleo Mágico de Rgan purificado.\nSi derrotas a los Rgan, podrás obtener Núcleo Mágico de Rgan Inferior."
     },
     "MBMRDg": {
         "en-US": "[Vellgunde]\nThat's also a crystal formed by absorbing the residual magic of Jormungand.\nIf it's purified properly, it can be used like Snow Flower Petal.",
         "pt-BR": "[Vellgunde]\nIsso também é um cristal que absorveu o poder mágico residual de Jormungand, sabe?\nSe for bem purificado, pode ser usado como Pétala de Flor de Neve.",
-        "es-ES": "[Vellgunde]\nEso también es un cristal formado al absorber el poder mágico residual de Jormungand, ¿sabes?\nSi se purifica bien, puede usarse como Pétalo de Copo de Nieve."
+        "es-ES": "[Vellgunde]\nEso también es un cristal formado al absorber la magia residual de Jormungand.\nSi se purifica correctamente, puede utilizarse como los Pétalos de Copo de Nieve."
     },
     "MRMRDg": {
         "en-US": "[Vellgunde]\nOf course, it's less efficient and would only be useful as fuel.\nI'm researching the magical properties of Rgan and Jormungand, so I need it.",
         "pt-BR": "[Vellgunde]\nClaro, a eficiência é menor e provavelmente só serviria como combustível.\nMas eu estou pesquisando os componentes mágicos de Rgan e Jormungand, então preciso disso.",
-        "es-ES": "[Vellgunde]\nClaro, es menos eficiente y apenas sirve como combustible.\nPero estoy investigando los componentes mágicos de Rgan y Jormungand, así que lo necesito."
+        "es-ES": "[Vellgunde]\nClaro, es menos eficiente y apenas sirve como combustible.\nEstoy investigando las propiedades mágicas de los Rgan y de Jormungand, así que lo necesito."
     },
     "MhMRDg": {
         "en-US": "[Vellgunde]\nGather some low-quality magic cores and take them to ^4D4DFFFriederike^000000, you know, the one from the cathedral.\nShe knows how to purify them, so could you have them purified and bring them to me?\n^4D4DFF3^000000 should be enough.",
         "pt-BR": "[Vellgunde]\nJunte alguns núcleos mágicos inferiores e leve até ^4D4DFFFriederike^000000, aquela pessoa que veio da catedral.\nEla sabe purificá-los, então pode pedir que os purifique e trazê-los para mim?\nCerca de ^4D4DFF3 unidades^000000 deve ser suficiente.",
-        "es-ES": "[Vellgunde]\nReúne una cantidad razonable de núcleos mágicos inferiores y llévaselos a ^4D4DFFFriederike^000000, la que vino de la catedral.\nElla sabe purificarlos, así que ¿podrías hacer que los purifique y traérmelos?\nCon unos ^4D4DFF3^000000 debería bastar."
+        "es-ES": "[Vellgunde]\nReúne una cantidad razonable de núcleos mágicos inferiores y llévaselos a ^4D4DFFFriederike^000000, la que vino de la catedral.\nElla sabe cómo purificarlos, así que ¿podrías hacer que los purifique y luego traérmelos?\nCon ^4D4DFF3^000000 será suficiente."
     },
     "MxMRDg": {
         "en-US": "I'll do it.",
@@ -262,42 +262,42 @@
     "NBMRDg": {
         "en-US": "Maybe next time.",
         "pt-BR": "Na próxima.",
-        "es-ES": "La próxima vez."
+        "es-ES": "Quizá en otra ocasión."
     },
     "NRMRDg": {
         "en-US": "[Vellgunde]\nThen I'll be counting on you.",
         "pt-BR": "[Vellgunde]\nEntão vou contar com você.",
-        "es-ES": "[Vellgunde]\nEntonces cuento contigo."
+        "es-ES": "[Vellgunde]\nEntonces, cuento contigo."
     },
     "NhMRDg": {
         "en-US": "[Vellgunde]\nIt's fine. No need to feel pressured.\nI can just have Lehar do it.",
         "pt-BR": "[Vellgunde]\nTudo bem. Não precisa se sentir pressionado.\nPosso mandar Lehar fazer isso.",
-        "es-ES": "[Vellgunde]\nEstá bien. No hace falta que te sientas obligado.\nPuedo pedírselo a Lehar."
+        "es-ES": "[Vellgunde]\nEstá bien. No te presionaré.\nPuedo pedírselo a Lehar."
     },
     "NxMRDg": {
         "en-US": "[Vellgunde]\nYou need Ice Flower Magic Stones?\nThey can be made from Snow Flower Petal...\nBut it takes a bit of luck.",
         "pt-BR": "[Vellgunde]\nVocê precisa de Pedra Mágica de Flor de Gelo?\nDá para fazer com Pétala de Flor de Neve...\nMas é preciso ter um pouco de sorte.",
-        "es-ES": "[Vellgunde]\n¿Necesitas una Piedra Mágica de Flor de Hielo?\nSe puede hacer con Pétalo de Copo de Nieve...\nPero hace falta un poco de suerte."
+        "es-ES": "[Vellgunde]\n¿Necesitas Piedras Mágicas de Flor Invernal?\nSe pueden fabricar a partir de Pétalos de Copo de Nieve...\nPero necesitas un poco de suerte."
     },
     "OBMRDg": {
         "en-US": "[Vellgunde]\nIf you're willing to risk a little bad luck, I can make them for you.\nI need to grind up about ^4D4DFFSnow Flower Petal 35^000000 and compress them.",
-        "pt-BR": "[Vellgunde]\nSe estiver disposto a aceitar um pouco de azar, posso fazer para você.\nÉ preciso moer e comprimir cerca de ^4D4DFFPétala de Flor de Neve 35 unidades^000000.",
-        "es-ES": "[Vellgunde]\nSi estás dispuesto a aceptar algo de mala suerte, puedo hacerla.\nHay que triturar y comprimir unas ^4D4DFFPétalo de Copo de Nieve 35 unidades^000000."
+        "pt-BR": "[Vellgunde]\nSe estiver disposto a aceitar um pouco de azar, posso fazer para você.\nÉ preciso moer e comprimir cerca de ^4D4DFF35x Pétala de Flor de Neve^000000.",
+        "es-ES": "[Vellgunde]\nSi estás dispuesto a aceptar algo de mala suerte, puedo hacerla.\nNecesito triturar y comprimir unos ^4D4DFF35 Pétalos de Copo de Nieve^000000."
     },
     "ORMRDg": {
         "en-US": "Extract Ice Flower Magic Stones.",
         "pt-BR": "Extrair Pedra Mágica de Flor de Gelo.",
-        "es-ES": "Extraer una Piedra Mágica de Flor de Hielo."
+        "es-ES": "Extraer Piedras Mágicas de Flor Invernal."
     },
     "OhMRDg": {
         "en-US": "Don't extract them.",
         "pt-BR": "Não extrair.",
-        "es-ES": "No hacerlo."
+        "es-ES": "No extraerlas."
     },
     "OxMRDg": {
         "en-US": "[Vellgunde]\nHere, these are the magic stones you got.\nDid you get as many as you needed?",
         "pt-BR": "[Vellgunde]\nPronto, aqui está o resultado da extração das pedras mágicas.\nConseguiu a quantidade de que precisava?",
-        "es-ES": "[Vellgunde]\nBien, aquí tienes el resultado de la extracción.\n¿Salió suficiente de lo que necesitabas?"
+        "es-ES": "[Vellgunde]\nAquí tienes las piedras mágicas que obtuviste.\n¿Conseguiste todas las que necesitabas?"
     },
     "PBMRDg": {
         "en-US": "[Vellgunde]\nDo you want to extract more magic stones?",
@@ -307,17 +307,17 @@
     "PRMRDg": {
         "en-US": "[Vellgunde]\nUh... make sure you have plenty of free inventory space.\nThere's nowhere to put the magic stones even if I extract them.",
         "pt-BR": "[Vellgunde]\nBem... deixe bastante espaço livre no inventário.\nNão adianta extrair as pedras mágicas se não houver espaço para guardá-las.",
-        "es-ES": "[Vellgunde]\nEh... asegúrate de tener suficiente espacio libre en tu inventario.\nAunque extraiga las piedras mágicas, no tendrás dónde guardarlas."
+        "es-ES": "[Vellgunde]\nEh... asegúrate de tener suficiente espacio libre en el inventario.\nNo habrá dónde guardar las piedras mágicas aunque las extraiga."
     },
     "PhMRDg": {
         "en-US": "[Vellgunde]\nTo make Ice Flower Magic Stones, you need ^4D4DFFSnow Flower Petal 35^000000.\nThey're crystals of magic, you know?\nThat's why they're also used as fuel in various places.",
-        "pt-BR": "[Vellgunde]\nPara criar Pedra Mágica de Flor de Gelo, são necessárias ^4D4DFFPétala de Flor de Neve 35 unidades^000000.\nAfinal, isso é um cristal de poder mágico, sabe?\nPor isso também é usado como combustível em vários lugares.",
-        "es-ES": "[Vellgunde]\nPara crear una Piedra Mágica de Flor de Hielo necesitas ^4D4DFFPétalo de Copo de Nieve 35 unidades^000000.\nEso es un cristal de poder mágico, ¿entiendes?\nPor eso también se usa como combustible en muchos lugares."
+        "pt-BR": "[Vellgunde]\nPara criar Pedra Mágica de Flor de Gelo, são necessárias ^4D4DFF35x Pétala de Flor de Neve^000000.\nAfinal, isso é um cristal de poder mágico, sabe?\nPor isso também é usado como combustível em vários lugares.",
+        "es-ES": "[Vellgunde]\nPara fabricar Piedras Mágicas de Flor Invernal, necesitas ^4D4DFF35 Pétalos de Copo de Nieve^000000.\nSon cristales de magia.\nPor eso también se utilizan como combustible en distintos lugares."
     },
     "PxMRDg": {
-        "en-US": "[Vellgunde]\nThey also serve as currency among the Iwins, so try helping out the Iwins around here.\nYou might be able to get some petals.",
-        "pt-BR": "[Vellgunde]\nComo também serve de moeda entre os Iwins, tente fazer alguns trabalhos para os Iwins daqui por perto.\nTalvez você consiga algumas pétalas.",
-        "es-ES": "[Vellgunde]\nTambién funciona como moneda entre los Awin, así que intenta ayudar con los trabajos de los Awin de los alrededores.\nTal vez puedas conseguir pétalos."
+        "en-US": "[Vellgunde]\nThey also serve as currency among the Windcys, so try helping out the Windcys around here.\nYou might be able to get some petals.",
+        "pt-BR": "[Vellgunde]\nComo também serve de moeda entre os Neventos, tente fazer alguns trabalhos para os Neventos daqui por perto.\nTalvez você consiga algumas pétalas.",
+        "es-ES": "[Vellgunde]\nTambién sirven como moneda entre los Neviento, así que intenta ayudar a los Neviento de por aquí.\nQuizá puedas conseguir algunos pétalos."
     },
     "QBMRDg": {
         "en-US": "[Vellgunde]\nCome find me later if you need anything.",
@@ -327,12 +327,12 @@
     "QRMRDg": {
         "en-US": "[Vellgunde]\nYou want to extract Ice Flower Magic...?\nDid you bring all the materials?\nWell, try putting them into this extractor first.",
         "pt-BR": "[Vellgunde]\nVocê quer extrair o poder mágico da Flor de Gelo...?\nTrouxe todos os materiais?\nBem, para começar, coloque-os neste extrator.",
-        "es-ES": "[Vellgunde]\n¿Dices que quieres extraer poder mágico de Flor de Hielo...?\n¿Trajiste todos los materiales?\nBueno, primero prueba a ponerlos en este extractor."
+        "es-ES": "[Vellgunde]\n¿Quieres extraer magia de Flor Invernal...?\n¿Trajiste todos los materiales?\nBueno, primero prueba a ponerlos en este extractor."
     },
     "QhMRDg": {
         "en-US": "[Vellgunde]\nYou know, when I started researching the magic of Rgan and Jormungand, I never thought I'd end up working on weapons too.\nAnyway, you've been a big help here, so I should help you too, right?",
         "pt-BR": "[Vellgunde]\nQuando comecei a pesquisar o poder mágico de Rgan e Jormungand, nunca imaginei que acabaria mexendo até com armas.\nDe qualquer forma, você tem ajudado muito por aqui, então eu também deveria ajudar você, não é?",
-        "es-ES": "[Vellgunde]\nCuando empecé a investigar el poder mágico de Rgan y Jormungand, no imaginé que terminaría trabajando también con armas.\nEn fin, como estás siendo de gran ayuda aquí, supongo que yo también debería ayudarte, ¿no?"
+        "es-ES": "[Vellgunde]\nCuando empecé a investigar la magia de los Rgan y de Jormungand, nunca imaginé que acabaría trabajando también con armas.\nEn fin, has sido de gran ayuda aquí, así que yo también debería ayudarte, ¿no?"
     },
     "QxMRDg": {
         "en-US": "[Vellgunde]\nSo, which piece of equipment do you want to imbue with an ability?",
@@ -342,47 +342,47 @@
     "RBMRDg": {
         "en-US": "Snow Flower Armor/Robe",
         "pt-BR": "Armadura de Flor de Neve/Robe de Flor de Neve",
-        "es-ES": "Armadura de Copo de Nieve/Túnica"
+        "es-ES": "Armadura/Túnica de Flor Invernal"
     },
     "RRMRDg": {
         "en-US": "Snow Flower Manteau/Muffler",
         "pt-BR": "Manto de Flor de Neve/Cachecol de Flor de Neve",
-        "es-ES": "Manto de Copo de Nieve/Bufanda"
+        "es-ES": "Manto/Bufanda de Flor Invernal"
     },
     "RhMRDg": {
         "en-US": "Snow Flower Boots/Shoes",
         "pt-BR": "Botas de Flor de Neve/Sapatos de Flor de Neve",
-        "es-ES": "Botas de Copo de Nieve/Zapatos"
+        "es-ES": "Botas/Zapatos de Flor Invernal"
     },
     "RxMRDg": {
         "en-US": "Snow Flower Pendant/Necklace",
         "pt-BR": "Pingente de Flor de Neve/Colar de Flor de Neve",
-        "es-ES": "Colgante de Copo de Nieve/Collar"
+        "es-ES": "Colgante/Collar de Flor Invernal"
     },
     "SBMRDg": {
         "en-US": "Snow Flower Ring/Earrings",
         "pt-BR": "Anel de Flor de Neve/Brincos de Flor de Neve",
-        "es-ES": "Anillo de Copo de Nieve/Aretes"
+        "es-ES": "Anillo/Aretes de Flor Invernal"
     },
     "SRMRDg": {
         "en-US": "Glacier Weapons",
         "pt-BR": "Arma Glacial",
-        "es-ES": "Arma Glacia"
+        "es-ES": "Armas Glaciales"
     },
     "ShMRDg": {
         "en-US": "[Vellgunde]\nGood, good.\nThis is armor I put a lot of effort into making.\nLet's try whatever you want.",
         "pt-BR": "[Vellgunde]\nÓtimo, ótimo.\nAfinal, é uma armadura que fiz com todo o cuidado.\nVamos tentar o que for preciso.",
-        "es-ES": "[Vellgunde]\nBien, bien.\nDespués de todo, es una armadura que hice con muchísimo cuidado.\nProbemos lo que quieras."
+        "es-ES": "[Vellgunde]\nBien, bien.\nEsta es una armadura que me esforcé mucho en fabricar.\nProbemos lo que quieras."
     },
     "SxMRDg": {
         "en-US": "[Vellgunde]\nGood, good.\nThese are things I put a lot of effort into making.\nLet's add whatever you want.",
         "pt-BR": "[Vellgunde]\nÓtimo, ótimo.\nAfinal, são coisas que fiz com todo o cuidado.\nVamos adicionar o que for possível.",
-        "es-ES": "[Vellgunde]\nBien, bien.\nDespués de todo, son cosas que hice con muchísimo cuidado.\nProbemos a añadirles lo que sea."
+        "es-ES": "[Vellgunde]\nBien, bien.\nEstas son piezas que me esforcé mucho en fabricar.\nAñadamos lo que quieras."
     },
     "TBMRDg": {
         "en-US": "[Vellgunde]\nAh, shoes?\nFootwear is definitely important in a place like this.\nSo, what did you want again?",
         "pt-BR": "[Vellgunde]\nAh, calçados?\nCom certeza, calçados são importantes em um lugar como este.\nEntão, o que você quer mesmo?",
-        "es-ES": "[Vellgunde]\nAh, ¿calzado?\nSin duda, el calzado es importante en un lugar como este.\nBien, bien, ¿qué es lo que quieres?"
+        "es-ES": "[Vellgunde]\nAh, ¿calzado?\nEl calzado es muy importante en un lugar como este.\nA ver, ¿qué era lo que querías?"
     },
     "TRMRDg": {
         "en-US": "[Vellgunde]\nActually, accessories are the best for imbuing with certain kinds of magic.\nGems have a natural affinity with magic.",
@@ -392,7 +392,7 @@
     "ThMRDg": {
         "en-US": "[Vellgunde]\nAnything should work on Glacier Weapons.\nI mean, anything.",
         "pt-BR": "[Vellgunde]\nSe for uma Arma Glacial, deve dar para adicionar qualquer coisa.\nQualquer coisa mesmo.",
-        "es-ES": "[Vellgunde]\nSi es un arma Glacia, debería aceptar cualquier cosa.\nSí, cualquier cosa."
+        "es-ES": "[Vellgunde]\nCualquier cosa debería funcionar con las armas glaciales.\nSí, cualquier cosa."
     },
     "TxMRDg": {
         "en-US": "Vellgunde Laboratory",
@@ -407,37 +407,37 @@
     "URMRDg": {
         "en-US": "Storage Cabinet",
         "pt-BR": "Armário",
-        "es-ES": "Armario"
+        "es-ES": "Armario de Almacenamiento"
     },
     "UhMRDg": {
         "en-US": "[Hoyoyo]\nThat storage cabinet is used in the laboratory.\nIf you want to use it, you'll need to go through a complicated process.\nDo you have the storage access skill?",
         "pt-BR": "[Hoyoyo]\nEsse armário é usado no laboratório.\nSe quiser usá-lo, é preciso passar por um procedimento complicado.\nVocê tem a habilidade de usar o Armazém?",
-        "es-ES": "[Hoyoyo]\nEse armario se usa en el laboratorio.\nSi quieres usarlo, necesitas seguir un procedimiento bastante complicado.\n¿Tienes la habilidad para usar el almacén?"
+        "es-ES": "[Hoyoyo]\nEse armario de almacenamiento se utiliza en el laboratorio.\nSi quieres usarlo, necesitas seguir un procedimiento bastante complicado.\n¿Tienes la habilidad para usar el almacén?"
     },
     "UxMRDg": {
         "en-US": "[Hoyoyo]\nWant to use the storage cabinet?\nHoyoyoyo~ Try putting in some of those coins you used on the continent.\nHmm... how about putting in 500zeny?",
-        "pt-BR": "[Hoyoyo]\nQuer usar o armário?\nHoyoyoyo~ Coloque uma moeda que você usava no continente.\nHmm... Que tal colocar 500zeny?",
-        "es-ES": "[Hoyoyo]\n¿Quieres usar el armario?\nHoyoyoyo~ prueba poniendo una moneda de las que usabas en el continente.\nOh... ¿qué tal si pones unos 500zeny?"
+        "pt-BR": "[Hoyoyo]\nQuer usar o armário?\nHoyoyoyo! Coloque uma moeda que você usava no continente.\nHmm... Que tal colocar 500zeny?",
+        "es-ES": "[Hoyoyo]\n¿Quieres usar el armario de almacenamiento?\n¡Hoyoyoyo! Prueba a introducir algunas de las monedas que usabas en el continente.\nMmm... ¿qué tal si introduces 500 zeny?"
     },
     "VBMRDg": {
         "en-US": "Put 500z into the first storage cabinet.",
         "pt-BR": "No primeiro armário, colocar 500z.",
-        "es-ES": "Poner 500z en el primer armario."
+        "es-ES": "Introducir 500 zeny en el primer almacén."
     },
     "VRMRDg": {
         "en-US": "Put 500z into the second storage cabinet.",
         "pt-BR": "No segundo armário, colocar 500z.",
-        "es-ES": "Poner 500z en el segundo armario."
+        "es-ES": "Introducir 500 zeny en el segundo armario."
     },
     "VhMRDg": {
         "en-US": "Put 500z into the third storage cabinet.",
         "pt-BR": "No terceiro armário, colocar 500z.",
-        "es-ES": "Poner 500z en el tercer armario."
+        "es-ES": "Introducir 500 zeny en el tercer armario."
     },
     "VxMRDg": {
         "en-US": "Stop.",
         "pt-BR": "Desistir.",
-        "es-ES": "Dejarlo."
+        "es-ES": "Cancelar."
     },
     "WBMRDg": {
         "en-US": "Storage 1",
@@ -467,7 +467,7 @@
     "XRMRDg": {
         "en-US": "It seems you need to insert 500zeny to use the storage cabinet.",
         "pt-BR": "Parece que é preciso inserir 500zeny para usar o armário.",
-        "es-ES": "Parece que debes introducir 500zeny para usar el armario."
+        "es-ES": "Parece que hay que introducir 500 zeny para usar el armario."
     },
     "XhMRDg": {
         "en-US": "Poruru",
@@ -476,18 +476,18 @@
     },
     "XxMRDg": {
         "en-US": "[Poruru]\nI recently discovered something interesting and have been researching it.\nI'm only assisting Vellgunde, of course....\nI think we'll have some good results soon.",
-        "pt-BR": "[Poruru]\nRecentemente, encontrei algo interessante e estou pesquisando sobre isso.\nEmbora eu esteja apenas auxiliando Vellgunde....\nAcho que teremos bons resultados em breve.",
-        "es-ES": "[Poruru]\nHace poco descubrí algo interesante y he estado investigándolo.\nAunque solo estoy ayudando al señor Vellgunde....\nCreo que pronto obtendremos buenos resultados."
+        "pt-BR": "[Poruru]\nRecentemente, encontrei algo interessante e estou pesquisando sobre isso.\nEmbora eu esteja apenas auxiliando Vellgunde...\nAcho que teremos bons resultados em breve.",
+        "es-ES": "[Poruru]\nHace poco descubrí algo interesante y he estado investigándolo.\nAunque, por supuesto, solo estoy ayudando a Vellgunde...\nCreo que pronto obtendremos buenos resultados."
     },
     "YBMRDg": {
         "en-US": "[Poruru]\nDid you know that weapons have recently been found in places like the Abandoned Pit?\nSince they contain unusual magic, we've been calling them Dim Glacier.",
         "pt-BR": "[Poruru]\nVocê sabia que recentemente estão encontrando armas em lugares como o Poço Abandonado?\nComo possuem um poder mágico incomum, nós as chamamos de Dim Glacial.",
-        "es-ES": "[Poruru]\n¿Sabes que últimamente se han encontrado armas en lugares como los Pozos Abandonados?\nComo albergan un poder mágico inquietante, las llamamos Dim Glacia."
+        "es-ES": "[Poruru]\n¿Sabías que últimamente se han encontrado armas en lugares como el Pozo Abandonado?\nComo contienen una magia inusual, las hemos llamado Glaciar Sombrío."
     },
     "YRMRDg": {
         "en-US": "[Poruru]\nAfter doing some research with Vellgunde, we discovered that they contain altered magic from Jormungand.\nIf you happen to have a Dim Glacier Weapon, I can adjust its magic to improve its performance.",
         "pt-BR": "[Poruru]\nDepois de algumas pesquisas com Vellgunde, descobrimos que elas contêm o poder mágico alterado de Jormungand.\nSe você tiver uma arma Dim Glacial, posso ajustar seu poder mágico para melhorar o desempenho da arma.",
-        "es-ES": "[Poruru]\nEstuve investigándolas con el señor Vellgunde y descubrimos que contienen un poder mágico alterado de Jormungand.\nSi tienes un arma Dim Glacia, puedo ajustar su poder mágico para mejorar su rendimiento."
+        "es-ES": "[Poruru]\nDespués de investigar un poco con Vellgunde, descubrimos que contienen magia alterada de Jormungand.\nSi tienes un arma Glaciar Sombrío, puedo ajustar su magia para mejorar su rendimiento."
     },
     "YhMRDg": {
         "en-US": "[Poruru]\nThe refining materials are somewhat difficult to obtain, so how about exchanging materials for whatever we're short on?",
@@ -502,7 +502,7 @@
     "ZBMRDg": {
         "en-US": "Awaken the potential of a Dim Glacier Weapon.",
         "pt-BR": "Despertar o potencial de uma arma Dim Glacial.",
-        "es-ES": "Despertar el potencial de un arma Dim Glacia."
+        "es-ES": "Despertar el potencial de un arma Glaciar Sombrío."
     },
     "ZRMRDg": {
         "en-US": "What should I do with weapons I don't need?",
@@ -517,7 +517,7 @@
     "ZxMRDg": {
         "en-US": "[Poruru]\nThe amethyst fragments brought by Maram have been useful for making various storage containers.\nSince they're unavailable here, I may ask for them from time to time.",
         "pt-BR": "[Poruru]\nOs fragmentos de ametista trazidos por Maram foram úteis para fabricar vários recipientes de armazenamento.\nComo não é possível obtê-los por aqui, talvez eu peça alguns de vez em quando.",
-        "es-ES": "[Poruru]\nLos fragmentos de amatista que trajo el señor Maram me ayudaron a fabricar varios recipientes de almacenamiento.\nComo no se pueden conseguir aquí, quizá te los pida de vez en cuando."
+        "es-ES": "[Poruru]\nLos fragmentos de amatista que trajo Maram fueron útiles para fabricar diversos recipientes de almacenamiento.\nComo no se pueden conseguir aquí, puede que te los pida de vez en cuando."
     },
     "aBMRDg": {
         "en-US": "[Poruru]\nI hope you get good results.",
@@ -527,22 +527,22 @@
     "aRMRDg": {
         "en-US": "[Poruru]\nDo you see the furnace below?\nWe made it to incinerate useless things after we're done researching them.",
         "pt-BR": "[Poruru]\nEstá vendo a fornalha ali embaixo?\nEla foi feita para incinerar coisas inúteis depois que terminamos de pesquisá-las.",
-        "es-ES": "[Poruru]\n¿Ves el horno que está abajo?\nLo preparé para incinerar cosas inútiles cuya investigación ya terminó."
+        "es-ES": "[Poruru]\n¿Ves el horno que está abajo?\nLo fabricamos para incinerar las cosas inútiles una vez que terminamos de investigarlas."
     },
     "ahMRDg": {
         "en-US": "[Poruru]\nIf you're going to throw something away, use that incinerator.\nDim Glacier contains magic, so if you melt it down, you should get something out of it.",
         "pt-BR": "[Poruru]\nSe quiser descartar algo, use aquela fornalha.\nComo as armas Dim Glacial contêm poder mágico, alguma coisa deve sobrar quando forem derretidas.",
-        "es-ES": "[Poruru]\nSi vas a desechar algo, usa ese incinerador.\nComo Dim Glacia contiene poder mágico, al fundirla seguramente obtendrás algo."
+        "es-ES": "[Poruru]\nSi vas a tirar algo, usa ese incinerador.\nEl Glaciar Sombrío contiene magia, así que, si lo fundes, seguro que obtendrás algo."
     },
     "axMRDg": {
         "en-US": "[Poruru]\nI'll be staying here for a while to help Vellgunde with the work.\nFeel free to come by anytime.",
         "pt-BR": "[Poruru]\nVou ficar por aqui por algum tempo ajudando Vellgunde com o trabalho.\nPode vir me procurar quando quiser.",
-        "es-ES": "[Poruru]\nMe quedaré aquí un tiempo ayudando con el trabajo del señor Vellgunde.\nVen a verme cuando quieras."
+        "es-ES": "[Poruru]\nMe quedaré aquí un tiempo para ayudar a Vellgunde con su trabajo.\nVen cuando quieras."
     },
     "bBMRDg": {
         "en-US": "Incineration Furnace",
         "pt-BR": "Fornalha de Incineração",
-        "es-ES": "Horno de incineración"
+        "es-ES": "Horno de Incineración"
     },
     "bRMRDg": {
         "en-US": "[Poruru]\nIt's a furnace we use as a heater.\nIt's also useful for getting rid of useless things now and then.\nSometimes I roast shellfish on it when I'm bored.",
@@ -552,6 +552,6 @@
     "bhMRDg": {
         "en-US": "There is a furnace radiating intense heat.\nIf you have any useless Dim Glacier Weapons, put them in and melt them down.",
         "pt-BR": "Há uma fornalha que emana um calor intenso.\nSe tiver alguma arma Dim Glacial inútil, coloque-a dentro e derreta-a.",
-        "es-ES": "Hay un horno del que emana un calor intenso.\nSi tienes un arma Dim Glacia que no necesitas, metámosla y derritámosla."
+        "es-ES": "Hay un horno que irradia un calor intenso.\nSi tienes armas Glaciar Sombrío que ya no te sirvan, mételas y fúndelas."
     }
 }

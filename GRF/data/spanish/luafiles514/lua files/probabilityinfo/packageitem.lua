@@ -22161,7 +22161,7 @@ tbl = {
 		{
 			id = 14908,
 			prob = 1,
-			name = "[Evento] Arroz Coreano 30",
+			name = "[Evento] Pastel Songpyeon 30",
 			group = 0
 		},
 		{
@@ -22187,7 +22187,7 @@ tbl = {
 		{
 			id = 14908,
 			prob = 1,
-			name = "[Evento] Arroz Coreano 40",
+			name = "[Evento] Pastel Songpyeon 40",
 			group = 0
 		},
 		{
@@ -22219,7 +22219,7 @@ tbl = {
 		{
 			id = 14908,
 			prob = 1,
-			name = "[Evento] Arroz Coreano 50",
+			name = "[Evento] Pastel Songpyeon 50",
 			group = 0
 		},
 		{
@@ -22397,7 +22397,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 208,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 1
 		},
 		{
@@ -22493,7 +22493,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 208,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 2
 		},
 		{
@@ -22589,7 +22589,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 208,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 3
 		},
 		{
@@ -22685,7 +22685,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 208,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 4
 		},
 		{
@@ -22781,7 +22781,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 208,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 5
 		},
 		{
@@ -30805,7 +30805,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 300,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 1
 		},
 		{
@@ -31005,7 +31005,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 200,
-			name = "[Evento] Dulces de Leche 12",
+			name = "[Evento] Dulces Dasik 12",
 			group = 1
 		},
 		{
@@ -31495,7 +31495,7 @@ tbl = {
 		{
 			id = 22551,
 			prob = 6,
-			name = "[Evento] Dulces de Leche",
+			name = "[Evento] Dulces Dasik",
 			group = 6
 		},
 		{
@@ -32615,7 +32615,7 @@ tbl = {
 		{
 			id = 23247,
 			prob = 1,
-			name = "Combinador de Estado",
+			name = "Combinador de Atributo",
 			group = 6
 		},
 		{
@@ -42553,7 +42553,7 @@ tbl = {
 		{
 			id = 6146,
 			prob = 1,
-			name = "Combustible de Meca mágico 500",
+			name = "Combustible de Meca Mágico 500",
 			group = 0
 		}
 	},
@@ -49481,13 +49481,13 @@ tbl = {
 		{
 			id = 14908,
 			prob = 1100,
-			name = "[Evento] Arroz Coreano 5",
+			name = "[Evento] Pastel Songpyeon 5",
 			group = 6
 		},
 		{
 			id = 22551,
 			prob = 1100,
-			name = "[Evento] Dulces de Leche 2",
+			name = "[Evento] Dulces Dasik 2",
 			group = 6
 		},
 		{
@@ -52733,601 +52733,601 @@ tbl = {
 		{
 			id = 1000711,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (STR)",
+			name = "Pieza de Flor Invernal (FUE)",
 			group = 6
 		},
 		{
 			id = 1000712,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (DEX)",
+			name = "Pieza de Flor Invernal (DES)",
 			group = 6
 		},
 		{
 			id = 1000713,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (AGI)",
+			name = "Pieza de Flor Invernal (AGI)",
 			group = 6
 		},
 		{
 			id = 1000714,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (INT)",
+			name = "Pieza de Flor Invernal (INT)",
 			group = 6
 		},
 		{
 			id = 1000715,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (VIT)",
+			name = "Pieza de Flor Invernal (VIT)",
 			group = 6
 		},
 		{
 			id = 1000716,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (LUK)",
+			name = "Pieza de Flor Invernal (SUE)",
 			group = 6
 		},
 		{
 			id = 1000717,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (Defensa Física)",
+			name = "Pieza de Flor Invernal (DEF)",
 			group = 6
 		},
 		{
 			id = 1000718,
 			prob = 500,
-			name = "Piedra Mágica de Flor de Hielo (Defensa Mágica)",
+			name = "Pieza de Flor Invernal (DEFM)",
 			group = 6
 		},
 		{
 			id = 1000719,
 			prob = 125,
-			name = "Piedra Mágica de Flor de Hielo (Tirador)",
+			name = "Pieza de Flor Invernal (Tirador)",
 			group = 6
 		},
 		{
 			id = 1000720,
 			prob = 125,
-			name = "Piedra Mágica de Flor de Hielo (Guerrero)",
+			name = "Pieza de Flor Invernal (Guerrero)",
 			group = 6
 		},
 		{
 			id = 1000721,
 			prob = 125,
-			name = "Piedra Mágica de Flor de Hielo (Hechicero)",
+			name = "Pieza de Flor Invernal (Mágico)",
 			group = 6
 		},
 		{
 			id = 1000722,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Rechazo de Reflejo)",
+			name = "Pieza de Flor Invernal (Reflector)",
 			group = 6
 		},
 		{
 			id = 1000723,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza de Poder)",
+			name = "Pieza de Flor Invernal (Híbrido)",
 			group = 6
 		},
 		{
 			id = 1000724,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Retraso tras habilidad)",
+			name = "Pieza de Flor Invernal (Posconjuración)",
 			group = 6
 		},
 		{
 			id = 1000757,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Aliento Dracónico)",
+			name = "Pieza de Flor Invernal (Dragón)",
 			group = 6
 		},
 		{
 			id = 1000758,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Ruptura Cortante)",
+			name = "Pieza de Flor Invernal (Rúnico)",
 			group = 6
 		},
 		{
 			id = 1000759,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Onda Centenaria)",
+			name = "Pieza de Flor Invernal (Lanza)",
 			group = 6
 		},
 		{
 			id = 1000760,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Marca Letal)",
+			name = "Pieza de Flor Invernal (Marca Letal)",
 			group = 6
 		},
 		{
 			id = 1000761,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cañón Evanescente)",
+			name = "Pieza de Flor Invernal (Cañón Evanescente)",
 			group = 6
 		},
 		{
 			id = 1000762,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Presión del Génesis)",
+			name = "Pieza de Flor Invernal (Domini)",
 			group = 6
 		},
 		{
 			id = 1000763,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cañón Potenciado)",
+			name = "Pieza de Flor Invernal (Cañón)",
 			group = 6
 		},
 		{
 			id = 1000764,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Bumerán Vulcano)",
+			name = "Pieza de Flor Invernal (Leñador)",
 			group = 6
 		},
 		{
 			id = 1000765,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Golpe Tornado)",
+			name = "Pieza de Flor Invernal (Hacha)",
 			group = 6
 		},
 		{
 			id = 1000766,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Tornado Infernal)",
+			name = "Pieza de Flor Invernal (Tornado Infernal)",
 			group = 6
 		},
 		{
 			id = 1000767,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cañón Loco)",
+			name = "Pieza de Flor Invernal (Cañón Loco)",
 			group = 6
 		},
 		{
 			id = 1000768,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Explosión Ácida)",
+			name = "Pieza de Flor Invernal (Explosión Ácida)",
 			group = 6
 		},
 		{
 			id = 1000769,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Impacto Sónico)",
+			name = "Pieza de Flor Invernal (Impacto)",
 			group = 6
 		},
 		{
 			id = 1000770,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cuchillada Cortante)",
+			name = "Pieza de Flor Invernal (Cortante)",
 			group = 6
 		},
 		{
 			id = 1000771,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cuchillada Berserk)",
+			name = "Pieza de Flor Invernal (Duelista)",
 			group = 6
 		},
 		{
 			id = 1000772,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Ataque Fatal)",
+			name = "Pieza de Flor Invernal (Amenaza)",
 			group = 6
 		},
 		{
 			id = 1000773,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Hechizo Sombrío)",
+			name = "Pieza de Flor Invernal (Deseo)",
 			group = 6
 		},
 		{
 			id = 1000774,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Disparo Angular)",
+			name = "Pieza de Flor Invernal (Triangular)",
 			group = 6
 		},
 		{
 			id = 1000775,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Tensión Carmesí)",
+			name = "Pieza de Flor Invernal (Tensión Carmesí)",
 			group = 6
 		},
 		{
 			id = 1000776,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Relámpago Jack)",
+			name = "Pieza de Flor Invernal (Relámpago Jack)",
 			group = 6
 		},
 		{
 			id = 1000777,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Expansión de Cometa)",
+			name = "Pieza de Flor Invernal (Inmaterial)",
 			group = 6
 		},
 		{
 			id = 1000778,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Destructor de Nubes)",
+			name = "Pieza de Flor Invernal (Tóxico)",
 			group = 6
 		},
 		{
 			id = 1000779,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Onda Varetyr)",
+			name = "Pieza de Flor Invernal (Psíquica)",
 			group = 6
 		},
 		{
 			id = 1000780,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Tumba de Diamante)",
+			name = "Pieza de Flor Invernal (Tumba Diamantina)",
 			group = 6
 		},
 		{
 			id = 1000781,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Magnusmus)",
+			name = "Pieza de Flor Invernal (Exorcismo)",
 			group = 6
 		},
 		{
 			id = 1000782,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Holy Judex)",
+			name = "Pieza de Flor Invernal (Santo)",
 			group = 6
 		},
 		{
 			id = 1000783,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Melee Duple)",
+			name = "Pieza de Flor Invernal (Gemini)",
 			group = 6
 		},
 		{
 			id = 1000784,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Golpe Explosivo del Tigre)",
+			name = "Pieza de Flor Invernal (Imperio del Tigre)",
 			group = 6
 		},
 		{
 			id = 1000785,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Explosión de Luz del Trueno)",
+			name = "Pieza de Flor Invernal (Ráfaga Relámpago)",
 			group = 6
 		},
 		{
 			id = 1000786,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Proyectil Divino Destructor)",
+			name = "Pieza de Flor Invernal (Pugilista)",
 			group = 6
 		},
 		{
 			id = 1000787,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Embestida Certera)",
+			name = "Pieza de Flor Invernal (Embestida Certera)",
 			group = 6
 		},
 		{
 			id = 1000788,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Disparo de Brisa)",
+			name = "Pieza de Flor Invernal (Tiro)",
 			group = 6
 		},
 		{
 			id = 1000789,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Vendaval de Flechas)",
+			name = "Pieza de Flor Invernal (Flecha)",
 			group = 6
 		},
 		{
 			id = 1000790,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Sonido Metálico)",
+			name = "Pieza de Flor Invernal (Musical)",
 			group = 6
 		},
 		{
 			id = 1000791,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Tormenta de Lluvia)",
+			name = "Pieza de Flor Invernal (Tormenta)",
 			group = 6
 		},
 		{
 			id = 1000792,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Disparo Vulcano)",
+			name = "Pieza de Flor Invernal (Volcán)",
 			group = 6
 		},
 		{
 			id = 1000793,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Explosión Carmesí)",
+			name = "Pieza de Flor Invernal (Solar)",
 			group = 6
 		},
 		{
 			id = 1000794,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cuerno Lunar)",
+			name = "Pieza de Flor Invernal (Lunar)",
 			group = 6
 		},
 		{
 			id = 1000795,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Caída Centelleante)",
+			name = "Pieza de Flor Invernal (Estelar)",
 			group = 6
 		},
 		{
 			id = 1000796,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Eswhoo)",
+			name = "Pieza de Flor Invernal (Almas)",
 			group = 6
 		},
 		{
 			id = 1000797,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Espa)",
+			name = "Pieza de Flor Invernal (Espíritu)",
 			group = 6
 		},
 		{
 			id = 1000798,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Explosión Maldita)",
+			name = "Pieza de Flor Invernal (Oscuridad)",
 			group = 6
 		},
 		{
 			id = 1000799,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Danza del Martillo Mortal)",
+			name = "Pieza de Flor Invernal (Revólver)",
 			group = 6
 		},
 		{
 			id = 1000800,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Cola Aullante de Fuego)",
+			name = "Pieza de Flor Invernal (Granada)",
 			group = 6
 		},
 		{
 			id = 1000801,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Viaje del Destructor de Tormentas)",
+			name = "Pieza de Flor Invernal (Escopeta)",
 			group = 6
 		},
 		{
 			id = 1000802,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Viento de Llama)",
+			name = "Pieza de Flor Invernal (Ninpou)",
 			group = 6
 		},
 		{
 			id = 1000803,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Floración Cruzada)",
+			name = "Pieza de Flor Invernal (Togatana)",
 			group = 6
 		},
 		{
 			id = 1000804,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Viento de Llamas Descendentes)",
+			name = "Pieza de Flor Invernal (Shinobi)",
 			group = 6
 		},
 		{
 			id = 1000805,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza de la Vida)",
+			name = "Pieza de Flor Invernal (Fauna)",
 			group = 6
 		},
 		{
 			id = 1000806,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza de la Tierra)",
+			name = "Pieza de Flor Invernal (Selva)",
 			group = 6
 		},
 		{
 			id = 1000807,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza del Savage)",
+			name = "Pieza de Flor Invernal (Salvaje)",
 			group = 6
 		},
 		{
 			id = 1000808,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Hiper Cuerpo a Cuerpo)",
+			name = "Pieza de Flor Invernal (Súper)",
 			group = 6
 		},
 		{
 			id = 1000809,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Hiper Alcance)",
+			name = "Pieza de Flor Invernal (Hiper)",
 			group = 6
 		},
 		{
 			id = 1000810,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Hiper Magia)",
+			name = "Pieza de Flor Invernal (Mega)",
 			group = 6
 		},
 		{
 			id = 1000725,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Rapidez)",
+			name = "Pieza de Flor Invernal (Veloz)",
 			group = 6
 		},
 		{
 			id = 1000726,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Lanzador)",
+			name = "Pieza de Flor Invernal (Variable)",
 			group = 6
 		},
 		{
 			id = 1000727,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Crítico)",
+			name = "Pieza de Flor Invernal (Crítico)",
 			group = 6
 		},
 		{
 			id = 1000728,
 			prob = 75,
-			name = "Piedra Mágica de Flor de Hielo (Ataque Guiado)",
+			name = "Pieza de Flor Invernal (Precisión)",
 			group = 6
 		},
 		{
 			id = 1000729,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Por Encima de Todo)",
+			name = "Pieza de Flor Invernal (Total)",
 			group = 6
 		},
 		{
 			id = 1000730,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Poderoso)",
+			name = "Pieza de Flor Invernal (Daño)",
 			group = 6
 		},
 		{
 			id = 1000731,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Contraataque Espejo)",
+			name = "Pieza de Flor Invernal (Espejo)",
 			group = 6
 		},
 		{
 			id = 1000732,
 			prob = 250,
-			name = "Piedra Mágica de Flor de Hielo (Vitalidad)",
+			name = "Pieza de Flor Invernal (HP)",
 			group = 6
 		},
 		{
 			id = 1000733,
 			prob = 250,
-			name = "Piedra Mágica de Flor de Hielo (Poder Mental)",
+			name = "Pieza de Flor Invernal (SP)",
 			group = 6
 		},
 		{
 			id = 1000734,
 			prob = 250,
-			name = "Piedra Mágica de Flor de Hielo (Curación)",
+			name = "Pieza de Flor Invernal (Curación)",
 			group = 6
 		},
 		{
 			id = 1000735,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Robusto)",
+			name = "Pieza de Flor Invernal (Robusto)",
 			group = 6
 		},
 		{
 			id = 1000736,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Lanzamiento Fijo)",
+			name = "Pieza de Flor Invernal (Fija)",
 			group = 6
 		},
 		{
 			id = 1000737,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza Mágica)",
+			name = "Pieza de Flor Invernal (Estatura)",
 			group = 6
 		},
 		{
 			id = 1000738,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza Física)",
+			name = "Pieza de Flor Invernal (Tamaño)",
 			group = 6
 		},
 		{
 			id = 1000739,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Vitalidad Ilimitada)",
+			name = "Pieza de Flor Invernal (Eternidad)",
 			group = 6
 		},
 		{
 			id = 1000740,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Destructor de Hechizos)",
+			name = "Pieza de Flor Invernal (Embrujo)",
 			group = 6
 		},
 		{
 			id = 1000741,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Disparo Ardiente)",
+			name = "Pieza de Flor Invernal (Astucia)",
 			group = 6
 		},
 		{
 			id = 1000742,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Poder Excesivo)",
+			name = "Pieza de Flor Invernal (Superpoder)",
 			group = 6
 		},
 		{
 			id = 1000743,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Destello Fatal)",
+			name = "Pieza de Flor Invernal (Destello Fatal)",
 			group = 6
 		},
 		{
 			id = 1000744,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Golpe de Suerte)",
+			name = "Pieza de Flor Invernal (Fortuna)",
 			group = 6
 		},
 		{
 			id = 1000745,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Retraso de ataque)",
+			name = "Pieza de Flor Invernal (Retraso)",
 			group = 6
 		},
 		{
 			id = 1000746,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Arquero Experto)",
+			name = "Pieza de Flor Invernal (Puntería)",
 			group = 6
 		},
 		{
 			id = 1000747,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Fatal)",
+			name = "Pieza de Flor Invernal (Fatal)",
 			group = 6
 		},
 		{
 			id = 1000748,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Espíritu de Lucha)",
+			name = "Pieza de Flor Invernal (Combate)",
 			group = 6
 		},
 		{
 			id = 1000749,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Poder Mágico)",
+			name = "Pieza de Flor Invernal (Encanto)",
 			group = 6
 		},
 		{
 			id = 1000750,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Recuperación de HP)",
+			name = "Pieza de Flor Invernal (HPR)",
 			group = 6
 		},
 		{
 			id = 1000751,
 			prob = 100,
-			name = "Piedra Mágica de Flor de Hielo (Recuperación de SP)",
+			name = "Pieza de Flor Invernal (SPR)",
 			group = 6
 		},
 		{
 			id = 1000752,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Drenaje de Vida)",
+			name = "Pieza de Flor Invernal (Conversión)",
 			group = 6
 		},
 		{
 			id = 1000753,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Drenaje de Alma)",
+			name = "Pieza de Flor Invernal (Absorción)",
 			group = 6
 		},
 		{
 			id = 1000754,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Curación Mágica)",
+			name = "Pieza de Flor Invernal (Vida)",
 			group = 6
 		},
 		{
 			id = 1000755,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Alma Mágica)",
+			name = "Pieza de Flor Invernal (Mente)",
 			group = 6
 		},
 		{
 			id = 1000756,
 			prob = 50,
-			name = "Piedra Mágica de Flor de Hielo (Fuerza Total)",
+			name = "Pieza de Flor Invernal (General)",
 			group = 6
 		}
 	},
@@ -54189,6 +54189,162 @@ tbl = {
 			group = 6
 		}
 	},
+	[101655] = {
+		{
+			id = 24339,
+			prob = 40,
+			name = "+7 Arete Sombrío Todopoderoso",
+			group = 6
+		},
+		{
+			id = 24339,
+			prob = 30,
+			name = "+8 Arete Sombrío Todopoderoso",
+			group = 6
+		},
+		{
+			id = 24339,
+			prob = 20,
+			name = "+9 Arete Sombrío Todopoderoso",
+			group = 6
+		},
+		{
+			id = 24339,
+			prob = 10,
+			name = "+10 Arete Sombrío Todopoderoso",
+			group = 6
+		}
+	},
+	[101656] = {
+		{
+			id = 24340,
+			prob = 40,
+			name = "+7 Collar Sombrío Todopoderoso",
+			group = 6
+		},
+		{
+			id = 24340,
+			prob = 30,
+			name = "+8 Collar Sombrío Todopoderoso",
+			group = 6
+		},
+		{
+			id = 24340,
+			prob = 20,
+			name = "+9 Collar Sombrío Todopoderoso",
+			group = 6
+		},
+		{
+			id = 24340,
+			prob = 10,
+			name = "+10 Collar Sombrío Todopoderoso",
+			group = 6
+		}
+	},
+	[101658] = {
+		{
+			id = 24677,
+			prob = 40,
+			name = "+7 Arete Sombrío de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24677,
+			prob = 30,
+			name = "+8 Arete Sombrío de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24677,
+			prob = 20,
+			name = "+9 Arete Sombrío de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24677,
+			prob = 10,
+			name = "+10 Arete Sombrío de Piedras Preciosas",
+			group = 6
+		}
+	},
+	[101659] = {
+		{
+			id = 24678,
+			prob = 40,
+			name = "+7 Collar Sombrío de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24678,
+			prob = 30,
+			name = "+8 Collar Sombrío de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24678,
+			prob = 20,
+			name = "+9 Collar Sombrío de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24678,
+			prob = 10,
+			name = "+10 Collar Sombrío de Piedras Preciosas",
+			group = 6
+		}
+	},
+	[101660] = {
+		{
+			id = 24676,
+			prob = 40,
+			name = "+7 Grebas Sombrías de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24676,
+			prob = 30,
+			name = "+8 Grebas Sombrías de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24676,
+			prob = 20,
+			name = "+9 Grebas Sombrías de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24676,
+			prob = 10,
+			name = "+10 Grebas Sombrías de Piedras Preciosas",
+			group = 6
+		}
+	},
+	[101661] = {
+		{
+			id = 24675,
+			prob = 40,
+			name = "+7 Malla Sombría de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24675,
+			prob = 30,
+			name = "+8 Malla Sombría de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24675,
+			prob = 20,
+			name = "+9 Malla Sombría de Piedras Preciosas",
+			group = 6
+		},
+		{
+			id = 24675,
+			prob = 10,
+			name = "+10 Malla Sombría de Piedras Preciosas",
+			group = 6
+		}
+	},
 	[101666] = {
 		{
 			id = 101564,
@@ -54589,12 +54745,168 @@ tbl = {
 			group = 6
 		}
 	},
+	[101725] = {
+		{
+			id = 24686,
+			prob = 40,
+			name = "+7 Guantelete Sombrío de Absorción",
+			group = 6
+		},
+		{
+			id = 24686,
+			prob = 30,
+			name = "+8 Guantelete Sombrío de Absorción",
+			group = 6
+		},
+		{
+			id = 24686,
+			prob = 20,
+			name = "+9 Guantelete Sombrío de Absorción",
+			group = 6
+		},
+		{
+			id = 24686,
+			prob = 10,
+			name = "+10 Guantelete Sombrío de Absorción",
+			group = 6
+		}
+	},
+	[101726] = {
+		{
+			id = 24685,
+			prob = 40,
+			name = "+7 Escudo Sombrío de Absorción",
+			group = 6
+		},
+		{
+			id = 24685,
+			prob = 30,
+			name = "+8 Escudo Sombrío de Absorción",
+			group = 6
+		},
+		{
+			id = 24685,
+			prob = 20,
+			name = "+9 Escudo Sombrío de Absorción",
+			group = 6
+		},
+		{
+			id = 24685,
+			prob = 10,
+			name = "+10 Escudo Sombrío de Absorción",
+			group = 6
+		}
+	},
 	[101783] = {
 		{
 			id = 22908,
 			prob = 0,
 			name = "Campanita de Elise (120)",
 			group = 0
+		}
+	},
+	[101802] = {
+		{
+			id = 24766,
+			prob = 40,
+			name = "+7 Arete Sombrío del Portador",
+			group = 6
+		},
+		{
+			id = 24766,
+			prob = 30,
+			name = "+8 Arete Sombrío del Portador",
+			group = 6
+		},
+		{
+			id = 24766,
+			prob = 20,
+			name = "+9 Arete Sombrío del Portador",
+			group = 6
+		},
+		{
+			id = 24766,
+			prob = 10,
+			name = "+10 Arete Sombrío del Portador",
+			group = 6
+		}
+	},
+	[101803] = {
+		{
+			id = 24765,
+			prob = 40,
+			name = "+7 Collar Sombrío del Portador",
+			group = 6
+		},
+		{
+			id = 24765,
+			prob = 30,
+			name = "+8 Collar Sombrío del Portador",
+			group = 6
+		},
+		{
+			id = 24765,
+			prob = 20,
+			name = "+9 Collar Sombrío del Portador",
+			group = 6
+		},
+		{
+			id = 24765,
+			prob = 10,
+			name = "+10 Collar Sombrío del Portador",
+			group = 6
+		}
+	},
+	[101804] = {
+		{
+			id = 24764,
+			prob = 40,
+			name = "+7 Malla Sombría del Portador",
+			group = 6
+		},
+		{
+			id = 24764,
+			prob = 30,
+			name = "+8 Malla Sombría del Portador",
+			group = 6
+		},
+		{
+			id = 24764,
+			prob = 20,
+			name = "+9 Malla Sombría del Portador",
+			group = 6
+		},
+		{
+			id = 24764,
+			prob = 10,
+			name = "+10 Malla Sombría del Portador",
+			group = 6
+		}
+	},
+	[101805] = {
+		{
+			id = 24763,
+			prob = 40,
+			name = "+7 Greba Sombría del Portador",
+			group = 6
+		},
+		{
+			id = 24763,
+			prob = 30,
+			name = "+8 Greba Sombría del Portador",
+			group = 6
+		},
+		{
+			id = 24763,
+			prob = 20,
+			name = "+9 Greba Sombría del Portador",
+			group = 6
+		},
+		{
+			id = 24763,
+			prob = 10,
+			name = "+10 Greba Sombría del Portador",
+			group = 6
 		}
 	},
 	[101807] = {
@@ -59593,93 +59905,93 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 410280,
+			id = 20541,
 			prob = 150,
-			name = "[Disfraz] Noche en Niflheim",
+			name = "[Disfraz] Lazos Angelicales",
 			group = 6
 		},
 		{
-			id = 420597,
+			id = 20605,
 			prob = 300,
-			name = "[Disfraz] Calabaza de Halloween",
+			name = "[Disfraz] Paraguas de Hoja",
 			group = 6
 		},
 		{
-			id = 480235,
+			id = 31943,
 			prob = 500,
-			name = "[Disfraz] Tridente de Diabólico",
+			name = "[Disfraz] Capucha de Sapo",
 			group = 6
 		},
 		{
-			id = 480437,
+			id = 420046,
 			prob = 500,
-			name = "[Disfraz] Espada de Himmelmez",
+			name = "[Disfraz] Manto de la Nobleza",
 			group = 6
 		},
 		{
-			id = 420593,
+			id = 410121,
 			prob = 650,
-			name = "[Disfraz] Peinado de Halloween",
+			name = "[Disfraz] Casco de los Guardias",
 			group = 6
 		},
 		{
-			id = 420367,
+			id = 31032,
 			prob = 650,
-			name = "[Disfraz] Fantasma de Gato",
+			name = "[Disfraz] Muñeco de Loomin",
 			group = 6
 		},
 		{
-			id = 410201,
+			id = 20075,
 			prob = 650,
-			name = "[Disfraz] Libro de los Muertos",
+			name = "[Disfraz] Sombrero del Doram de Botas",
 			group = 6
 		},
 		{
-			id = 420336,
+			id = 31534,
 			prob = 800,
-			name = "[Disfraz] Bufanda de Huesos",
+			name = "[Disfraz] Diadema Arcoíris",
 			group = 6
 		},
 		{
-			id = 410198,
+			id = 20191,
 			prob = 800,
-			name = "[Disfraz] Banda de Deviruchi",
+			name = "[Disfraz] Gorra Felina Negra",
 			group = 6
 		},
 		{
-			id = 420337,
+			id = 400172,
 			prob = 800,
-			name = "[Disfraz] Magia Rúnica",
+			name = "[Disfraz] Tocado Ati-Atihan",
 			group = 6
 		},
 		{
-			id = 20130,
+			id = 31290,
 			prob = 800,
-			name = "[Disfraz] Sombrero de Susurro",
+			name = "[Disfraz] Gorra del Buen Alumno",
 			group = 6
 		},
 		{
-			id = 410060,
+			id = 31380,
 			prob = 800,
-			name = "[Disfraz] Murcielaguitos",
+			name = "[Disfraz] Cuervo",
 			group = 6
 		},
 		{
-			id = 31312,
+			id = 400224,
 			prob = 800,
-			name = "[Disfraz] Yelmo de Hades",
+			name = "[Disfraz] Gorra Militar Azul",
 			group = 6
 		},
 		{
-			id = 19893,
+			id = 400174,
 			prob = 900,
-			name = "[Disfraz] Sombrero de Bruja",
+			name = "[Disfraz] Vaso de Cerveza",
 			group = 6
 		},
 		{
-			id = 19904,
+			id = 19606,
 			prob = 900,
-			name = "[Disfraz] Gorro de Calavera",
+			name = "[Disfraz] Pergamino Ninja",
 			group = 6
 		}
 	},
@@ -66801,7 +67113,7 @@ tbl = {
 		{
 			id = 23247,
 			prob = 300,
-			name = "Combinador de Estado",
+			name = "Combinador de Atributo",
 			group = 6
 		},
 		{
@@ -67055,7 +67367,7 @@ tbl = {
 		{
 			id = 23247,
 			prob = 300,
-			name = "Combinador de Estado",
+			name = "Combinador de Atributo",
 			group = 6
 		},
 		{
@@ -75394,7 +75706,7 @@ tbl = {
 	[106873] = {
 		{
 			id = 12298,
-			prob = 0,
+			prob = 1,
 			name = "Jugo de Gato 3",
 			group = 0
 		}
@@ -87415,6 +87727,1168 @@ tbl = {
 			group = 0
 		}
 	},
+	[108347] = {
+		{
+			id = 100676,
+			prob = 0,
+			name = "[Limitado] Manual de Combate 5",
+			group = 0
+		},
+		{
+			id = 104206,
+			prob = 0,
+			name = "[Evento] Manual de la Clase 2",
+			group = 0
+		},
+		{
+			id = 12497,
+			prob = 0,
+			name = "[Limitado] Chicle 5",
+			group = 0
+		},
+		{
+			id = 12516,
+			prob = 0,
+			name = "[Evento] Poción de Vida Pequeña 20",
+			group = 0
+		},
+		{
+			id = 101367,
+			prob = 0,
+			name = "[Especial] Poción de Mana Pequeña 10",
+			group = 0
+		}
+	},
+	[108348] = {
+		{
+			id = 100061,
+			prob = 0,
+			name = "[Evento] Elixir Rojo 50",
+			group = 0
+		},
+		{
+			id = 23899,
+			prob = 0,
+			name = "[Evento] Todopoderoso 50",
+			group = 0
+		}
+	},
+	[108349] = {
+		{
+			id = 420743,
+			prob = 0,
+			name = "[Disfraz] Espíritus Felinos",
+			group = 0
+		}
+	},
+	[108350] = {
+		{
+			id = 410576,
+			prob = 0,
+			name = "[Disfraz] Ojo del Nigromante",
+			group = 0
+		}
+	},
+	[108351] = {
+		{
+			id = 401213,
+			prob = 0,
+			name = "[Disfraz] Jaow Pirun",
+			group = 0
+		}
+	},
+	[108367] = {
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 100",
+			group = 0
+		}
+	},
+	[108368] = {
+		{
+			id = 1003337,
+			prob = 0,
+			name = "Ticket de Mascota Caballero Blanco",
+			group = 0
+		}
+	},
+	[108369] = {
+		{
+			id = 1001777,
+			prob = 0,
+			name = "Ticket de Mascota Angelgolt",
+			group = 0
+		}
+	},
+	[108370] = {
+		{
+			id = 1001580,
+			prob = 0,
+			name = "Ticket de Mascota Avispón",
+			group = 0
+		}
+	},
+	[108371] = {
+		{
+			id = 1001784,
+			prob = 0,
+			name = "Ticket de Mascota Reloj",
+			group = 0
+		}
+	},
+	[108372] = {
+		{
+			id = 480344,
+			prob = 0,
+			name = "[Disfraz] Guadaña de la Princesa Mestiza",
+			group = 0
+		}
+	},
+	[108373] = {
+		{
+			id = 480298,
+			prob = 0,
+			name = "[Disfraz] Aura de las Maravillas",
+			group = 0
+		}
+	},
+	[108374] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Bendición del Herrero 2",
+			group = 0
+		}
+	},
+	[108375] = {
+		{
+			id = 23436,
+			prob = 0,
+			name = "Martillo de Refino Sombrío 3",
+			group = 0
+		}
+	},
+	[108376] = {
+		{
+			id = 14588,
+			prob = 0,
+			name = "Pergamino de Bendición de Grupo 5",
+			group = 0
+		}
+	},
+	[108377] = {
+		{
+			id = 14589,
+			prob = 0,
+			name = "Pergamino de Agilidad de Grupo 5",
+			group = 0
+		}
+	},
+	[108379] = {
+		{
+			id = 103272,
+			prob = 0,
+			name = "[Evento] Elixir Celestial 3",
+			group = 0
+		}
+	},
+	[108380] = {
+		{
+			id = 103273,
+			prob = 0,
+			name = "[Evento] Estimulante 3",
+			group = 0
+		}
+	},
+	[108381] = {
+		{
+			id = 23012,
+			prob = 0,
+			name = "[Evento] Poción de Maná Pequeña 3",
+			group = 0
+		}
+	},
+	[108382] = {
+		{
+			id = 12298,
+			prob = 0,
+			name = "Jugo de Gato 3",
+			group = 0
+		}
+	},
+	[108383] = {
+		{
+			id = 23227,
+			prob = 0,
+			name = "Caja de Barritas",
+			group = 0
+		}
+	},
+	[108436] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Cupón de Millas Kachua",
+			group = 0
+		},
+		{
+			id = 23151,
+			prob = 1400,
+			name = "Combinador de Piedras de Disfraz 3",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Maleta de Productos Químicos 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1400,
+			name = "Portamonedas 2",
+			group = 6
+		},
+		{
+			id = 14600,
+			prob = 1400,
+			name = "Poción Mental 2",
+			group = 6
+		},
+		{
+			id = 12796,
+			prob = 1400,
+			name = "Elixir rojo 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual y Goma de Mascar",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poción de Maná Pequeña 2",
+			group = 6
+		},
+		{
+			id = 12298,
+			prob = 950,
+			name = "Jugo de Gato 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitada] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Caja con 3 Bendiciones de Herrero",
+			group = 6
+		},
+		{
+			id = 23304,
+			prob = 600,
+			name = "Cj. Ala de Mosca (1 día)",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 600,
+			name = "Seguro Nuevo 2",
+			group = 6
+		},
+		{
+			id = 17600,
+			prob = 600,
+			name = "Cj. Tarjeta Pata de Gato (1 día)",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caja de Martillos Sombríos",
+			group = 6
+		},
+		{
+			id = 101307,
+			prob = 500,
+			name = "Martillo de Refino de la Ecosfera",
+			group = 6
+		},
+		{
+			id = 101363,
+			prob = 500,
+			name = "Martillo de Refino COR",
+			group = 6
+		},
+		{
+			id = 108314,
+			prob = 400,
+			name = "Cubo Sombrío Talentoso",
+			group = 6
+		},
+		{
+			id = 108063,
+			prob = 400,
+			name = "Caja de Armaduras Desconocidas",
+			group = 6
+		},
+		{
+			id = 107999,
+			prob = 400,
+			name = "Caja de Capas Desconocidas",
+			group = 6
+		},
+		{
+			id = 410232,
+			prob = 400,
+			name = "Sello de Loki",
+			group = 6
+		},
+		{
+			id = 108315,
+			prob = 300,
+			name = "Caja Consagrada",
+			group = 6
+		},
+		{
+			id = 102485,
+			prob = 300,
+			name = "Caja de Esencia Sombría",
+			group = 6
+		},
+		{
+			id = 101399,
+			prob = 300,
+			name = "Sobre de Encantamientos",
+			group = 6
+		},
+		{
+			id = 102072,
+			prob = 200,
+			name = "Martillo de Refino Celestial",
+			group = 6
+		},
+		{
+			id = 102073,
+			prob = 200,
+			name = "Martillo de Refino Infernal",
+			group = 6
+		},
+		{
+			id = 102732,
+			prob = 200,
+			name = "Corona Invernal Seleccionable",
+			group = 6
+		},
+		{
+			id = 450179,
+			prob = 200,
+			name = "Vestido de Celine [1]",
+			group = 6
+		},
+		{
+			id = 102733,
+			prob = 200,
+			name = "Caja de As Seleccionable",
+			group = 6
+		},
+		{
+			id = 102238,
+			prob = 200,
+			name = "Martillo de Refino de Issgard",
+			group = 6
+		},
+		{
+			id = 101654,
+			prob = 80,
+			name = "Todopoderoso Seleccionable",
+			group = 6
+		},
+		{
+			id = 101729,
+			prob = 80,
+			name = "Absorción Seleccionable",
+			group = 6
+		},
+		{
+			id = 630027,
+			prob = 70,
+			name = "Tridente Celestial [2]",
+			group = 6
+		},
+		{
+			id = 500066,
+			prob = 70,
+			name = "Espada Celestial [2]",
+			group = 6
+		},
+		{
+			id = 1341,
+			prob = 70,
+			name = "Destructor Infernal [2]",
+			group = 6
+		},
+		{
+			id = 840020,
+			prob = 70,
+			name = "Lanzagranadas Infernal [2]",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Núcleo Dimensional",
+			group = 6
+		},
+		{
+			id = 25375,
+			prob = 45,
+			name = "Esencia del Alma Poderosa",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Sobre de Alto Refino",
+			group = 6
+		},
+		{
+			id = 101657,
+			prob = 5,
+			name = "Piedra Preciosa Seleccionable",
+			group = 6
+		},
+		{
+			id = 101801,
+			prob = 5,
+			name = "Portador Seleccionable",
+			group = 6
+		}
+	},
+	[108437] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Cupón de Millas Kachua",
+			group = 0
+		},
+		{
+			id = 23151,
+			prob = 1400,
+			name = "Combinador de Piedras de Disfraz 3",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Maleta de Productos Químicos 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1400,
+			name = "Portamonedas 2",
+			group = 6
+		},
+		{
+			id = 14600,
+			prob = 1400,
+			name = "Poción Mental 2",
+			group = 6
+		},
+		{
+			id = 12796,
+			prob = 1400,
+			name = "Elixir rojo 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual y Goma de Mascar",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poción de Maná Pequeña 2",
+			group = 6
+		},
+		{
+			id = 12298,
+			prob = 950,
+			name = "Jugo de Gato 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitada] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Caja con 3 Bendiciones de Herrero",
+			group = 6
+		},
+		{
+			id = 23304,
+			prob = 600,
+			name = "Cj. Ala de Mosca (1 día)",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 600,
+			name = "Seguro Nuevo 2",
+			group = 6
+		},
+		{
+			id = 17600,
+			prob = 600,
+			name = "Cj. Tarjeta Pata de Gato (1 día)",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caja de Martillos Sombríos",
+			group = 6
+		},
+		{
+			id = 101307,
+			prob = 500,
+			name = "Martillo de Refino de la Ecosfera",
+			group = 6
+		},
+		{
+			id = 101363,
+			prob = 500,
+			name = "Martillo de Refino COR",
+			group = 6
+		},
+		{
+			id = 108314,
+			prob = 400,
+			name = "Cubo Sombrío Talentoso",
+			group = 6
+		},
+		{
+			id = 108063,
+			prob = 400,
+			name = "Caja de Armaduras Desconocidas",
+			group = 6
+		},
+		{
+			id = 107999,
+			prob = 400,
+			name = "Caja de Capas Desconocidas",
+			group = 6
+		},
+		{
+			id = 410232,
+			prob = 400,
+			name = "Sello de Loki",
+			group = 6
+		},
+		{
+			id = 108315,
+			prob = 300,
+			name = "Caja Consagrada",
+			group = 6
+		},
+		{
+			id = 102485,
+			prob = 300,
+			name = "Caja de Esencia Sombría",
+			group = 6
+		},
+		{
+			id = 101399,
+			prob = 300,
+			name = "Sobre de Encantamientos",
+			group = 6
+		},
+		{
+			id = 102072,
+			prob = 200,
+			name = "Martillo de Refino Celestial",
+			group = 6
+		},
+		{
+			id = 102073,
+			prob = 200,
+			name = "Martillo de Refino Infernal",
+			group = 6
+		},
+		{
+			id = 102732,
+			prob = 200,
+			name = "Corona Invernal Seleccionable",
+			group = 6
+		},
+		{
+			id = 450179,
+			prob = 200,
+			name = "Vestido de Celine [1]",
+			group = 6
+		},
+		{
+			id = 102733,
+			prob = 200,
+			name = "Caja de As Seleccionable",
+			group = 6
+		},
+		{
+			id = 102238,
+			prob = 200,
+			name = "Martillo de Refino de Issgard",
+			group = 6
+		},
+		{
+			id = 101654,
+			prob = 80,
+			name = "Todopoderoso Seleccionable",
+			group = 6
+		},
+		{
+			id = 101729,
+			prob = 80,
+			name = "Absorción Seleccionable",
+			group = 6
+		},
+		{
+			id = 630027,
+			prob = 70,
+			name = "Tridente Celestial [2]",
+			group = 6
+		},
+		{
+			id = 500066,
+			prob = 70,
+			name = "Espada Celestial [2]",
+			group = 6
+		},
+		{
+			id = 1341,
+			prob = 70,
+			name = "Destructor Infernal [2]",
+			group = 6
+		},
+		{
+			id = 840020,
+			prob = 70,
+			name = "Lanzagranadas Infernal [2]",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Núcleo Dimensional",
+			group = 6
+		},
+		{
+			id = 25375,
+			prob = 45,
+			name = "Esencia del Alma Poderosa",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Sobre de Alto Refino",
+			group = 6
+		},
+		{
+			id = 101657,
+			prob = 5,
+			name = "Piedra Preciosa Seleccionable",
+			group = 6
+		},
+		{
+			id = 101801,
+			prob = 5,
+			name = "Portador Seleccionable",
+			group = 6
+		}
+	},
+	[108438] = {
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico",
+			group = 0
+		}
+	},
+	[108439] = {
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 11",
+			group = 0
+		}
+	},
+	[108440] = {
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 85",
+			group = 0
+		}
+	},
+	[108441] = {
+		{
+			id = 22979,
+			prob = 0,
+			name = "[Evento] Manual y Goma de Mascar 5",
+			group = 0
+		},
+		{
+			id = 14533,
+			prob = 0,
+			name = "Manual de Combate Avanzado 10",
+			group = 0
+		},
+		{
+			id = 100081,
+			prob = 0,
+			name = "[Evento] Tomo de Batalla 2",
+			group = 0
+		},
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 11",
+			group = 0
+		}
+	},
+	[108442] = {
+		{
+			id = 12516,
+			prob = 0,
+			name = "[Evento] Poción de Vida Pequeña 100",
+			group = 0
+		},
+		{
+			id = 12515,
+			prob = 0,
+			name = "[Evento] Poción de Vida Mediana  100",
+			group = 0
+		},
+		{
+			id = 9610,
+			prob = 0,
+			name = "[Evento] Agua Misteriosa 100",
+			group = 0
+		},
+		{
+			id = 101367,
+			prob = 0,
+			name = "[Especial] Poción de Mana Pequeña 50",
+			group = 0
+		},
+		{
+			id = 23898,
+			prob = 0,
+			name = "[Evento] Poción Ilimitada 25",
+			group = 0
+		},
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 6",
+			group = 0
+		}
+	},
+	[108443] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Miaufruto 100",
+			group = 0
+		},
+		{
+			id = 101103,
+			prob = 0,
+			name = "Caja de Piedras de Disfraz 25 2",
+			group = 0
+		},
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 6",
+			group = 0
+		}
+	},
+	[108444] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Miaufruto 200",
+			group = 0
+		},
+		{
+			id = 101103,
+			prob = 0,
+			name = "Caja de Piedras de Disfraz 25 4",
+			group = 0
+		},
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 12",
+			group = 0
+		}
+	},
+	[108445] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Miaufruto 300",
+			group = 0
+		},
+		{
+			id = 101103,
+			prob = 0,
+			name = "Caja de Piedras de Disfraz 25 6",
+			group = 0
+		},
+		{
+			id = 108437,
+			prob = 0,
+			name = "[Evento] Artefacto Ovalado Diabólico 18",
+			group = 0
+		}
+	},
+	[108461] = {
+		{
+			id = 100913,
+			prob = 0,
+			name = "Manual de Kafra [7 Días]",
+			group = 0
+		}
+	},
+	[108462] = {
+		{
+			id = 9610,
+			prob = 0,
+			name = "[Evento] Agua Misteriosa 5",
+			group = 0
+		}
+	},
+	[108463] = {
+		{
+			id = 104699,
+			prob = 0,
+			name = "[Evento] Pergamino de Defensa 5",
+			group = 0
+		}
+	},
+	[108464] = {
+		{
+			id = 6316,
+			prob = 0,
+			name = "[Especial] Amuleto de Siegfried 8",
+			group = 0
+		}
+	},
+	[108465] = {
+		{
+			id = 103273,
+			prob = 0,
+			name = "[Evento] Estimulante 3",
+			group = 0
+		}
+	},
+	[108466] = {
+		{
+			id = 12264,
+			prob = 0,
+			name = "[Evento] Chicle 5",
+			group = 0
+		}
+	},
+	[108467] = {
+		{
+			id = 14533,
+			prob = 0,
+			name = "Manual de Combate Avanzado 2",
+			group = 0
+		}
+	},
+	[108468] = {
+		{
+			id = 100913,
+			prob = 0,
+			name = "Manual de Kafra [7 Días]",
+			group = 0
+		}
+	},
+	[108469] = {
+		{
+			id = 100061,
+			prob = 0,
+			name = "[Evento] Elixir Rojo 5",
+			group = 0
+		}
+	},
+	[108470] = {
+		{
+			id = 23898,
+			prob = 0,
+			name = "[Evento] Poción Ilimitada 5",
+			group = 0
+		}
+	},
+	[108471] = {
+		{
+			id = 23899,
+			prob = 0,
+			name = "[Evento] Todopoderoso 5",
+			group = 0
+		}
+	},
+	[108472] = {
+		{
+			id = 101367,
+			prob = 0,
+			name = "[Especial] Poción de Mana Pequeña 3",
+			group = 0
+		}
+	},
+	[108473] = {
+		{
+			id = 104518,
+			prob = 0,
+			name = "[Evento] Caja con Ala de Mosca Infinita (1 Día)",
+			group = 0
+		}
+	},
+	[108474] = {
+		{
+			id = 12208,
+			prob = 0,
+			name = "Manual de Combate 5",
+			group = 0
+		}
+	},
+	[108475] = {
+		{
+			id = 100913,
+			prob = 0,
+			name = "Manual de Kafra [7 Días]",
+			group = 0
+		}
+	},
+	[108476] = {
+		{
+			id = 12514,
+			prob = 0,
+			name = "[Evento] Pulidor de Armas 5",
+			group = 0
+		}
+	},
+	[108477] = {
+		{
+			id = 23047,
+			prob = 0,
+			name = "[Evento] Bendición de Tyr 5",
+			group = 0
+		}
+	},
+	[108478] = {
+		{
+			id = 12766,
+			prob = 0,
+			name = "Manual de Clase 25 5",
+			group = 0
+		}
+	},
+	[108479] = {
+		{
+			id = 104699,
+			prob = 0,
+			name = "[Evento] Pergamino de Defensa 5",
+			group = 0
+		}
+	},
+	[108480] = {
+		{
+			id = 23048,
+			prob = 0,
+			name = "[Evento] Poción de Regeneración 5",
+			group = 0
+		}
+	},
+	[108481] = {
+		{
+			id = 14533,
+			prob = 0,
+			name = "Manual de Combate Avanzado 2",
+			group = 0
+		}
+	},
+	[108482] = {
+		{
+			id = 100913,
+			prob = 0,
+			name = "Manual de Kafra [7 Días]",
+			group = 0
+		}
+	},
+	[108483] = {
+		{
+			id = 12515,
+			prob = 0,
+			name = "[Evento] Poción de Vida Mediana  5",
+			group = 0
+		}
+	},
+	[108484] = {
+		{
+			id = 12516,
+			prob = 0,
+			name = "[Evento] Poción de Vida Pequeña 5",
+			group = 0
+		}
+	},
+	[108485] = {
+		{
+			id = 400604,
+			prob = 0,
+			name = "Unknown Item",
+			group = 0
+		}
+	},
+	[108486] = {
+		{
+			id = 14600,
+			prob = 0,
+			name = "Poción Mental 3",
+			group = 0
+		}
+	},
+	[108487] = {
+		{
+			id = 6316,
+			prob = 0,
+			name = "[Especial] Amuleto de Siegfried 8",
+			group = 0
+		}
+	},
+	[108488] = {
+		{
+			id = 12208,
+			prob = 0,
+			name = "Manual de Combate 5",
+			group = 0
+		}
+	},
+	[108489] = {
+		{
+			id = 100913,
+			prob = 0,
+			name = "Manual de Kafra [7 Días]",
+			group = 0
+		}
+	},
+	[108490] = {
+		{
+			id = 100061,
+			prob = 0,
+			name = "[Evento] Elixir Rojo 5",
+			group = 0
+		}
+	},
+	[108491] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Bendición del Herrero",
+			group = 0
+		},
+		{
+			id = 23331,
+			prob = 0,
+			name = "Cj. Ala de Mosca (7 días)",
+			group = 0
+		},
+		{
+			id = 9553,
+			prob = 0,
+			name = "Tarjeta Pata de Gato (7 días)",
+			group = 0
+		}
+	},
+	[108492] = {
+		{
+			id = 20603,
+			prob = 0,
+			name = "[Disfraz] Alas de Ulises",
+			group = 0
+		},
+		{
+			id = 100751,
+			prob = 0,
+			name = "Sobre de Bajo Refino",
+			group = 0
+		},
+		{
+			id = 23926,
+			prob = 0,
+			name = "Martillo Sombrío +9 2",
+			group = 0
+		}
+	},
+	[108493] = {
+		{
+			id = 480725,
+			prob = 0,
+			name = "[Disfraz] Sexto Sentido Satánico",
+			group = 0
+		},
+		{
+			id = 100750,
+			prob = 0,
+			name = "Sobre de Alto Refino",
+			group = 0
+		},
+		{
+			id = 6635,
+			prob = 0,
+			name = "Bendición del Herrero 50",
+			group = 0
+		}
+	},
+	[108522] = {
+		{
+			id = 103320,
+			prob = 0,
+			name = "[Evento] Carta de Expansión de Personaje",
+			group = 0
+		}
+	},
 	[200001] = {
 		{
 			id = 25793,
@@ -87883,9 +89357,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet 11",
+			name = "Bolsa de Artefacto Diabólico 11",
 			group = 0
 		}
 	},
@@ -87897,9 +89371,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet",
+			name = "Bolsa de Artefacto Diabólico",
 			group = 0
 		}
 	},
@@ -88023,9 +89497,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet 11",
+			name = "Bolsa de Artefacto Diabólico 11",
 			group = 0
 		}
 	},
@@ -88037,9 +89511,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet",
+			name = "Bolsa de Artefacto Diabólico",
 			group = 0
 		}
 	},
@@ -88117,9 +89591,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet 11",
+			name = "Bolsa de Artefacto Diabólico 11",
 			group = 0
 		}
 	},
@@ -88131,9 +89605,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet",
+			name = "Bolsa de Artefacto Diabólico",
 			group = 0
 		}
 	},
@@ -88615,9 +90089,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108313,
+			id = 108438,
 			prob = 1,
-			name = "Bolsa de Artefacto Ovalado Gourmet 11",
+			name = "Bolsa de Artefacto Diabólico 11",
 			group = 0
 		}
 	},
@@ -90790,6 +92264,14 @@ tbl = {
 			id = 108208,
 			prob = 10,
 			name = "[Evento] Artefacto Ovalado Volador 12",
+			group = 0
+		}
+	},
+	[201163] = {
+		{
+			id = 108437,
+			prob = 10,
+			name = "[Evento] Artefacto Ovalado Diabólico 40",
 			group = 0
 		}
 	}

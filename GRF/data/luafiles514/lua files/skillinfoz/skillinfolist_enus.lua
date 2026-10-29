@@ -2362,7 +2362,7 @@ SkillInfoList_string = {
 	},
 	[SKID.SP_SPA] = {SkillName = "Espa"},
 	[SKID.SP_SHA] = {SkillName = "Esha"},
-	[SKID.SP_SWHOO] = {SkillName = "Eswoo"},
+	[SKID.SP_SWHOO] = {SkillName = "Eswhoo"},
 	[SKID.SP_SOULUNITY] = {SkillName = "Soul Bind"},
 	[SKID.SP_SOULDIVISION] = {
 		SkillName = "Soul Division"
@@ -2629,6 +2629,9 @@ SkillInfoList_string = {
 	[SKID.DK_SERVANTWEAPON] = {
 		SkillName = "Servant Weapon"
 	},
+	[SKID.DK_SERVANTWEAPON_ATK] = {
+		SkillName = "Servant Weapon"
+	},
 	[SKID.DK_SERVANT_W_SIGN] = {
 		SkillName = "Servant Weapon - Sign"
 	},
@@ -2682,6 +2685,9 @@ SkillInfoList_string = {
 	[SKID.AG_CRYSTAL_IMPACT] = {
 		SkillName = "Crystal Impact"
 	},
+	[SKID.AG_CRYSTAL_IMPACT_ATK] = {
+		SkillName = "Crystal Impact"
+	},
 	[SKID.AG_TORNADO_STORM] = {
 		SkillName = "Tornado Storm"
 	},
@@ -2700,6 +2706,9 @@ SkillInfoList_string = {
 		SkillName = "Storm Cannon"
 	},
 	[SKID.AG_CRIMSON_ARROW] = {
+		SkillName = "Crimson Arrow"
+	},
+	[SKID.AG_CRIMSON_ARROW_ATK] = {
 		SkillName = "Crimson Arrow"
 	},
 	[SKID.AG_FROZEN_SLASH] = {
@@ -2801,6 +2810,7 @@ SkillInfoList_string = {
 		SkillName = "Argutus Telum"
 	},
 	[SKID.CD_ARBITRIUM] = {SkillName = "Arbitrium"},
+	[SKID.CD_ARBITRIUM_ATK] = {SkillName = "Arbitrium"},
 	[SKID.CD_PRESENS_ACIES] = {
 		SkillName = "Presens Acies"
 	},
@@ -3077,8 +3087,26 @@ SkillInfoList_string = {
 	[SKID.EM_ELEMENTAL_VEIL] = {
 		SkillName = "Elemental Veil"
 	},
+	[SKID.ABC_CHAIN_REACTION_SHOT_ATK] = {
+		SkillName = "Chain Reaction Shot"
+	},
 	[SKID.ABC_FROM_THE_ABYSS_ATK] = {
 		SkillName = "From the Abyss"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_FIRE] = {
+		SkillName = "Elemental Buster"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_WATER] = {
+		SkillName = "Elemental Buster"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_WIND] = {
+		SkillName = "Elemental Buster"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_GROUND] = {
+		SkillName = "Elemental Buster"
+	},
+	[SKID.EM_ELEMENTAL_BUSTER_POISON] = {
+		SkillName = "Elemental Buster"
 	},
 	[SKID.NW_P_F_I] = {SkillName = "P.F.I"},
 	[SKID.NW_GRENADE_MASTERY] = {
@@ -3350,6 +3378,24 @@ SkillInfoList_string = {
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT_GUN_SHOTGUN] = {
 		SkillName = "The Vigilante at Night"
+	},
+	[SKID.DK_DRAGONIC_BREATH] = {
+		SkillName = "Dragonic Breath"
+	},
+	[SKID.MT_SPARK_BLASTER] = {
+		SkillName = "Spark Blaster"
+	},
+	[SKID.MT_TRIPLE_LASER] = {
+		SkillName = "Triple Laser"
+	},
+	[SKID.MT_MIGHTY_SMASH] = {
+		SkillName = "Mighty Smash"
+	},
+	[SKID.BO_EXPLOSIVE_POWDER] = {
+		SkillName = "Explosive Powder"
+	},
+	[SKID.BO_MAYHEMIC_THORNS] = {
+		SkillName = "Mayhemic Thorns"
 	},
 	[SKID.HLIF_HEAL] = {
 		SkillName = "Healing Hands"

@@ -5508,5 +5508,6 @@ JobNameTable = {
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "BLUEMOON_LOLI_RURI2",
 	[jobtbl.JT_FARMILIAR2] = "FARMILIAR2",
 	[jobtbl.JT_EP19_MD_BOX1] = "purplestone",
-	[jobtbl.JT_EP19_MD_BOX2] = "purplestone"
+	[jobtbl.JT_EP19_MD_BOX2] = "purplestone",
+	[jobtbl.JT_ANGELGOLT3] = "ANGELGOLT"
 }

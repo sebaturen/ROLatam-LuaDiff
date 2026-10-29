@@ -7,37 +7,37 @@
     "YYwPDg": {
         "en-US": "[Leon]\nDo you need something?\nThe others should be at the lodging or the dining hall.",
         "pt-BR": "[Leon]\nPrecisa de alguma coisa?\nOs outros devem estar nos alojamentos ou no refeitório.",
-        "es-ES": "[Leon]\n¿Necesita algo?\nLos demás deben estar en el alojamiento o en el comedor."
+        "es-ES": "[Leon]\n¿Necesitas algo?\nLos demás deben de estar en el alojamiento o en el comedor."
     },
     "YowPDg": {
         "en-US": "[Leon]\nDid you come after receiving a message from Lehar?\nSorry to call you over when you're already so busy.",
         "pt-BR": "[Leon]\nPor acaso veio por causa de um recado de Lehar?\nDesculpe ter chamado você no meio de tanta correria.",
-        "es-ES": "[Leon]\n¿Vino porque recibió un mensaje de Lehar?\nLamento haberlo hecho venir cuando está tan ocupado."
+        "es-ES": "[Leon]\n¿Viniste porque recibiste un mensaje de Lehar?\nDisculpa por llamarte cuando ya tienes tanto que hacer."
     },
     "Y4wPDg": {
         "en-US": "[Leon]\nI'm glad you're here. There was something I wanted to ask of you.\nWhen we searched the Rgan dwelling last time, we rescued the laborers, didn't we?",
         "pt-BR": "[Leon]\nEu tinha algo para lhe pedir, então chegou em boa hora.\nÉ sobre os trabalhadores forçados que resgatamos quando vasculhamos o esconderijo dos Rgan da última vez.",
-        "es-ES": "[Leon]\nTenía algo que pedirle, así que llegó en buen momento.\nVerá, la vez pasada, cuando registraron el refugio de Rgan, rescataron a los trabajadores forzados, ¿verdad?"
+        "es-ES": "[Leon]\nLlegaste justo a tiempo. Quería pedirte un favor.\nCuando registramos el refugio de los Rgan la última vez, rescatamos a los trabajadores forzados, ¿verdad?"
     },
     "ZIwPDg": {
         "en-US": "[Miriam]\nThe people we rescued then were led back by Maram and Leizi, weren't they..?",
         "pt-BR": "[Miriam]\nAs pessoas que resgatamos naquela ocasião voltaram sob a liderança de Maram e Nalandro...?",
-        "es-ES": "[Miriam]\nLos que rescatamos entonces regresaron bajo la dirección de Maram y Lazy, ¿no..?"
+        "es-ES": "[Miriam]\nLos que rescatamos entonces regresaron bajo la guía de Maram y Lazy, ¿no es así...?"
     },
     "ZYwPDg": {
-        "en-US": "[Leon]\nIt seems some people escaped from the Rgan dwelling on their own at the time.\nApparently, an Iwin on patrol found stranded people in the glacier and plains regions.",
-        "pt-BR": "[Leon]\nParece que algumas pessoas conseguiram escapar do esconderijo dos Rgan naquela ocasião.\nPelo visto, um Arwin que estava em patrulha encontrou pessoas perdidas na região das geleiras e das planícies.",
-        "es-ES": "[Leon]\nParece que en aquel momento hubo algunos que lograron escapar del refugio de Rgan.\nAl parecer, un Awin que estaba patrullando encontró personas varadas en las zonas del glaciar y las llanuras."
+        "en-US": "[Leon]\nIt seems some people escaped from the Rgan dwelling on their own at the time.\nApparently, an Windcy on patrol found stranded people in the glacier and plains regions.",
+        "pt-BR": "[Leon]\nParece que algumas pessoas conseguiram escapar do esconderijo dos Rgan naquela ocasião.\nPelo visto, um Nevento que estava em patrulha encontrou pessoas perdidas na região das geleiras e das planícies.",
+        "es-ES": "[Leon]\nAl parecer, algunas personas lograron escapar del refugio de los Rgan en aquella ocasión.\nPor lo visto, un Neviento que estaba patrullando encontró a varias personas atrapadas en las zonas de los glaciares y las llanuras."
     },
     "ZowPDg": {
         "en-US": "[Miriam]\nThat certainly seems possible.\nThere may be several stranded people as well.",
         "pt-BR": "[Miriam]\nÉ mesmo bem possível.\nE pode haver várias pessoas perdidas.",
-        "es-ES": "[Miriam]\nSí, ciertamente es posible.\nIncluso podría haber varias personas varadas."
+        "es-ES": "[Miriam]\nSí, ciertamente es posible.\nIncluso podría haber varias personas atrapadas."
     },
     "Z4wPDg": {
-        "en-US": "[Leon]\nThe Iwins are patrolling the surrounding area, but it's difficult for them to search every region thoroughly, so we'd like to ask for your help.",
-        "pt-BR": "[Leon]\nOs Arwins estão patrulhando os arredores, mas é difícil vasculhar todas as áreas minuciosamente, então gostaríamos de pedir a ajuda de vocês.",
-        "es-ES": "[Leon]\nLos Awin están patrullando los alrededores, pero es difícil revisar minuciosamente todas las zonas, así que quisiera pedirles ayuda."
+        "en-US": "[Leon]\nThe Windcys are patrolling the surrounding area, but it's difficult for them to search every region thoroughly, so we'd like to ask for your help.",
+        "pt-BR": "[Leon]\nOs Neventos estão patrulhando os arredores, mas é difícil vasculhar todas as áreas minuciosamente, então gostaríamos de pedir a ajuda de vocês.",
+        "es-ES": "[Leon]\nLos Neviento patrullan los alrededores, pero les resulta difícil explorar todas las zonas a fondo, así que queremos pedirles ayuda."
     },
     "aIwPDg": {
         "en-US": "[Leon]\n.....",
@@ -47,32 +47,32 @@
     "aYwPDg": {
         "en-US": "Is something bothering you?",
         "pt-BR": "Algo está incomodando você?",
-        "es-ES": "¿Hay algo que le preocupe?"
+        "es-ES": "¿Hay algo que te preocupe?"
     },
     "aowPDg": {
         "en-US": "[Leon]\nThe barrier was created to completely separate Midgard from Issgard.\nMore precisely, it was meant to isolate the Rgan....",
-        "pt-BR": "[Leon]\nA barreira foi criada para separar completamente Midgard de Isgard.\nMais precisamente, para isolar os Rgan....",
-        "es-ES": "[Leon]\nLa barrera fue creada para separar por completo Midgard de Isgard.\nPara ser más precisos, fue creada para aislar a Rgan...."
+        "pt-BR": "[Leon]\nA barreira foi criada para separar completamente Midgard de Isgard.\nMais precisamente, para isolar os Rgan...",
+        "es-ES": "[Leon]\nLa barrera se creó para separar por completo Midgard de Issgard.\nMás precisamente, su propósito era aislar a los Rgan..."
     },
     "a4wPDg": {
         "en-US": "[Leon]\nThe fact that some can come and go without an invitation is clear proof that the barrier has weakened.\nIt occurred to me that perhaps the reason we endured for hundreds of years without dying was for this very day.",
         "pt-BR": "[Leon]\nO fato de haver pessoas entrando e saindo sem um convite é uma prova clara de que a barreira enfraqueceu.\nPor um instante, pensei se nossa existência, sobrevivendo por centenas de anos sem morrer, não teria sido justamente para este dia.",
-        "es-ES": "[Leon]\nQue haya personas que puedan ir y venir sin una invitación es una clara señal de que la barrera se ha debilitado.\nSe me cruzó por la mente la idea de que quizá nuestra existencia, resistiendo sin morir durante cientos de años, haya sido para este día."
+        "es-ES": "[Leon]\nEl hecho de que algunos puedan entrar y salir sin una invitación demuestra claramente que la barrera se ha debilitado.\nMe pregunto si hemos sobrevivido durante cientos de años precisamente para llegar a este día."
     },
     "bIwPDg": {
         "en-US": "Hundreds of years...",
-        "pt-BR": "Centenas de anos..",
-        "es-ES": "Cientos de años.."
+        "pt-BR": "Centenas de anos...",
+        "es-ES": "Cientos de años..."
     },
     "bYwPDg": {
         "en-US": "[Leon]\nAurelie and I are protecting this place by carrying on the will of Jormungand.\nAs you know, Jormungand is not an evil god.",
         "pt-BR": "[Leon]\nEu e Aurelie protegemos este lugar seguindo a vontade de Jormungand.\nComo vocês sabem, Jormungand não é uma divindade maligna.",
-        "es-ES": "[Leon]\nAurelie y yo protegemos este lugar siguiendo la voluntad de Jormungand.\nComo ustedes saben, Jormungand no es un dios maligno."
+        "es-ES": "[Leon]\nAurelie y yo protegemos este lugar siguiendo la voluntad de Jormungand.\nComo sabes, Jormungand no es un dios maligno."
     },
     "bowPDg": {
         "en-US": "[Leon]\nThe reason Jormungand came to be regarded as an evil god is because of the Rgans who called themselves the Cult of Jormungand and plunged the continent into chaos.",
         "pt-BR": "[Leon]\nForam os Rgans, que se autodenominavam seguidores do culto de Jormungand e lançaram o continente no caos, que fizeram Jormungand ser considerado uma divindade maligna.",
-        "es-ES": "[Leon]\nLa razón por la que Jormungand llegó a ser considerado un dios maligno fue por los Rgan, que se hacían llamar la orden de Jormungand y sumieron al continente en el caos."
+        "es-ES": "[Leon]\nLa razón por la que Jormungand llegó a ser considerado un dios maligno fue por los Rgan, quienes se hacían llamar el Culto de Jormungand y sumieron al continente en el caos."
     },
     "b4wPDg": {
         "en-US": "What about the Curse of Jormungand?",
@@ -82,52 +82,52 @@
     "cIwPDg": {
         "en-US": "[Leon]\nThe leader of the Cult of Jormungand placed a blood Curse as a final act of desperation.\nSince they always rallied under the banner of Jormungand, that is how the story came to be passed down.",
         "pt-BR": "[Leon]\nO líder do culto de Jormungand lançou uma Maldição de sangue como seu último ato desesperado.\nComo eles sempre ostentavam Jormungand em suas bandeiras, foi assim que a história acabou sendo transmitida.",
-        "es-ES": "[Leon]\nEl líder de la orden de Jormungand, en un último acto desesperado, lanzó una Maldición de sangre.\nComo siempre enarbolaban a Jormungand en sus estandartes, así fue como se transmitió la historia."
+        "es-ES": "[Leon]\nEl líder de la Secta de Jormungand lanzó una maldición de sangre en un último acto de desesperación.\nComo siempre enarbolaban el nombre de Jormungand, así fue como se transmitió la historia."
     },
     "cYwPDg": {
         "en-US": "[Leon]\nIn any case, Jormungand is a demigod who helped save the continent even at the cost of his own body.\nTo carry on the will of Jormungand, the Rgan must not leave this land.",
         "pt-BR": "[Leon]\nDe qualquer forma, Jormungand é uma semidivindade que ajudou a salvar o continente, chegando até mesmo a abandonar o próprio corpo.\nPara dar continuidade à vontade de Jormungand, os Rgan também não podem deixar esta terra.",
-        "es-ES": "[Leon]\nEn cualquier caso, Jormungand es un semidiós que contribuyó a salvar el continente incluso sacrificando su propio cuerpo.\nPara continuar la voluntad de Jormungand, Rgan tampoco debe abandonar esta tierra."
+        "es-ES": "[Leon]\nEn cualquier caso, Jormungand es un semidiós que contribuyó a salvar el continente, incluso a costa de su propio cuerpo.\nPara preservar su voluntad, los Rgan no deben abandonar esta tierra."
     },
     "cowPDg": {
         "en-US": "[Miriam]\nThat's a heavy story.\nI understand that recorded history may not always be the truth, but...",
         "pt-BR": "[Miriam]\nÉ uma história pesada.\nEu entendo que a história registrada pode não ser a verdade, mas...",
-        "es-ES": "[Miriam]\nEs una historia difícil de asimilar.\nEntiendo que la historia registrada puede no ser la verdad, pero..."
+        "es-ES": "[Miriam]\nEs una historia difícil de asimilar.\nEntiendo que la historia registrada no siempre tiene por qué ser la verdad, pero..."
     },
     "c4wPDg": {
         "en-US": "[Leon]\nThen and now, all we can do is our very best, right?\nAurelie and I will maintain the barrier.",
         "pt-BR": "[Leon]\nTanto naquela época quanto agora, só precisamos fazer o melhor que pudermos, certo?\nEu e Aurelie vamos manter a barreira.",
-        "es-ES": "[Leon]\nTanto entonces como ahora, solo tenemos que hacer lo mejor que podamos, ¿verdad?\nAurelie y yo mantendremos la barrera."
+        "es-ES": "[Leon]\nTanto entonces como ahora, solo tenemos que hacer lo mejor que podamos, ¿verdad?\nAurelie y yo nos encargaremos de mantener la barrera."
     },
     "dIwPDg": {
         "en-US": "[Leon]\nWould you rescue the stranded people first?\nI'll leave everything concerning them in your hands.",
         "pt-BR": "[Leon]\nPrimeiro, vocês poderiam resgatar as pessoas perdidas?\nVou deixar tudo relacionado a elas nas mãos de vocês.",
-        "es-ES": "[Leon]\n¿Podrían rescatar primero a las personas varadas?\nLes dejaré por completo ese asunto."
+        "es-ES": "[Leon]\n¿Podrían empezar por rescatar a las personas atrapadas?\nLes dejo todo lo relacionado con ellas en sus manos."
     },
     "dYwPDg": {
         "en-US": "[Leon]\nOf course, I intend to provide all the support I can.\nAfter everything it took to save this continent...\nSurely we must protect their descendants as well, don't you think?",
         "pt-BR": "[Leon]\nÉ claro que pretendo prestar todo o apoio necessário.\nAfinal, foi um continente conquistado com tanto esforço.\nÉ natural que devamos proteger seus descendentes, não é?",
-        "es-ES": "[Leon]\nPor supuesto, pienso brindarles todo el apoyo posible.\nDespués de todo lo que costó salvar este continente.\nNaturalmente, debemos proteger a sus descendientes, ¿no creen?"
+        "es-ES": "[Leon]\nPor supuesto, tengo la intención de brindarles todo el apoyo posible.\nDespués de todo lo que costó salvar este continente...\nTambién debemos proteger a sus descendientes, ¿no creen?"
     },
     "dowPDg": {
         "en-US": "[Miriam]\nI understand what Leon means.\nAdventurer, shall we work out a detailed plan, then?",
         "pt-BR": "[Miriam]\nEntendi bem a intenção do Sr. Leon.\nAventureiro, então vamos elaborar um plano mais concreto?",
-        "es-ES": "[Miriam]\nEntiendo bien lo que quiere decir Leon.\nAventurero, ¿hacemos entonces un plan concreto?"
+        "es-ES": "[Miriam]\nEntiendo lo que quieres decir, Leon.\nAventurero, ¿qué te parece si elaboramos un plan detallado?"
     },
     "d4wPDg": {
         "en-US": "[Leon]\nI'm glad we have more people helping out at the castle.\nBefore this, Lehar was working hard all by himself.\nThen please discuss the details with Miriam.",
         "pt-BR": "[Leon]\nFico aliviado por termos mais gente para ajudar no castelo.\nAntes disso, Lehar estava se esforçando sozinho.\nEntão, converse sobre os detalhes com a Sra. Miriam.",
-        "es-ES": "[Leon]\nMe alegra que ahora haya más manos para ayudar en el castillo.\nAntes, Lehar se esforzaba aquí por su cuenta.\nEntonces, converse sobre los detalles con Miriam."
+        "es-ES": "[Leon]\nMe alegra que ahora haya más personas ayudando en el castillo.\nHasta ahora, Lehar se había esforzado mucho trabajando solo.\nEntonces, discute los detalles con Miriam."
     },
     "eIwPDg": {
         "en-US": "[Leon]\nDoes it seem strange to have a fireplace in a snowy land where not even a blade of grass grows?\nWe use Snow Flower Petal, crystallized magic that can occasionally be found here, along with magic cores accumulated by the Rgans as fuel.",
         "pt-BR": "[Leon]\nParece estranho haver uma lareira numa região nevada onde nem uma única planta cresce?\nComo combustível, usamos Pétala de Flor de Neve, cristais de magia encontrados ocasionalmente, e os núcleos mágicos acumulados pelos Rgans.",
-        "es-ES": "[Leon]\n¿Les parece extraño que haya una chimenea en una región nevada donde no crece ni una sola planta?\nComo combustible usamos Pétalo de Copo de Nieve, cristales de poder mágico que se encuentran de vez en cuando, y núcleos mágicos que los Rgan han acumulado."
+        "es-ES": "[Leon]\n¿No te parece extraño que haya una chimenea en una región nevada donde no crece ni una sola planta?\nComo combustible, usamos Pétalos de Copo de Nieve, cristales de poder mágico que se encuentran de vez en cuando, y núcleos mágicos que los Rgan han acumulado."
     },
     "eYwPDg": {
         "en-US": "[Leon]\nCome warm yourself up before you go.",
         "pt-BR": "[Leon]\nVenha se aquecer um pouco antes de ir.",
-        "es-ES": "[Leon]\nVengan a calentarse un poco antes de irse."
+        "es-ES": "[Leon]\nVen a calentarte un poco antes de irte."
     },
     "eowPDg": {
         "en-US": "Miriam",
@@ -137,12 +137,12 @@
     "e4wPDg": {
         "en-US": "[Miriam]\nIt seems Leon has something to say.",
         "pt-BR": "[Miriam]\nParece que o Sr. Leon tem algo a dizer.",
-        "es-ES": "[Miriam]\nParece que Leon tiene algo que decirnos."
+        "es-ES": "[Miriam]\nAl parecer, Leon tiene algo que decir."
     },
     "fIwPDg": {
         "en-US": "[Miriam]\nI think we should split up and search the Frozen Scale Glacier area and the plains area separately. What do you think?",
         "pt-BR": "[Miriam]\nAcho que podemos dividir a busca entre a região da Geleira de Escamas Congeladas e a região das planícies. O que acha?",
-        "es-ES": "[Miriam]\nCreo que podríamos dividir la búsqueda entre la zona de Glaciar de Escamas Congeladas y la zona de las llanuras. ¿Qué le parece?"
+        "es-ES": "[Miriam]\nCreo que podríamos dividir la búsqueda entre la zona del Glaciar de Escamas Congeladas y la zona de las llanuras. ¿Qué te parece?"
     },
     "fYwPDg": {
         "en-US": "What about the stranded people we rescue?",
@@ -152,47 +152,47 @@
     "fowPDg": {
         "en-US": "[Miriam]\nFirst, we should bring them to the lodging at the Ice Castle so they can recover, then send them back to the continent through Maram and Leizi.",
         "pt-BR": "[Miriam]\nPrimeiro, devemos levá-las aos alojamentos do Castelo de Gelo para que se recuperem e depois enviá-las ao continente por meio de Maram e Nalandro.",
-        "es-ES": "[Miriam]\nPrimero debemos llevarlas al alojamiento del castillo de hielo para que se recuperen y luego enviarlas de regreso al continente por medio de Maram y Lazy."
+        "es-ES": "[Miriam]\nPrimero, deberíamos llevarlas al alojamiento del Castillo de Hielo para que se recuperen. Después, Maram y Lazy podrán ayudarlas a regresar al continente."
     },
     "f4wPDg": {
-        "en-US": "[Miriam]\nIf you take one area, Adventurer, I'll search the other.\nWe should also ask Iwin and Lehar to search the Rgan dwelling.",
-        "pt-BR": "[Miriam]\nSe você ficar responsável por uma das regiões, eu procurarei na outra.\nTambém pediremos a Arwin e ao Sr. Lehar que vasculhem o esconderijo dos Rgan.",
-        "es-ES": "[Miriam]\nSi usted se encarga de una zona, yo buscaré en la otra.\nTambién pediremos a Awin y a Lehar que registren el refugio de Rgan."
+        "en-US": "[Miriam]\nIf you take one area, Adventurer, I'll search the other.\nWe should also ask Windcy and Lehar to search the Rgan dwelling.",
+        "pt-BR": "[Miriam]\nSe você ficar responsável por uma das regiões, eu procurarei na outra.\nTambém pediremos a Nevento e ao Sr. Lehar que vasculhem o esconderijo dos Rgan.",
+        "es-ES": "[Miriam]\nSi te encargas de una de las zonas, yo buscaré en la otra.\nTambién deberíamos pedirles a los Neviento y a Lehar que registren el refugio de los Rgan."
     },
     "gIwPDg": {
         "en-US": "[Miriam]\nI think it would be better to leave places with clearly defined destinations to them.\nThat should shorten the search time.",
         "pt-BR": "[Miriam]\nAcho melhor deixar com eles os lugares onde o destino está claramente definido.\nAssim, o tempo de busca será menor.",
-        "es-ES": "[Miriam]\nCreo que será mejor que ellos se encarguen de los lugares donde el objetivo está claramente definido.\nAsí tardarán menos en realizar la búsqueda."
+        "es-ES": "[Miriam]\nCreo que sería mejor dejarles los lugares cuyos destinos están claramente definidos.\nAsí podremos reducir el tiempo de búsqueda."
     },
     "gYwPDg": {
         "en-US": "[Miriam]\nYou and I should search the areas where looking for stranded people is especially difficult.\nTalk to me when you're ready.",
         "pt-BR": "[Miriam]\nEu e você devemos verificar as áreas onde o próprio ambiente dificulta a busca por pessoas perdidas.\nFale comigo quando estiver pronto.",
-        "es-ES": "[Miriam]\nUsted y yo tendremos que recorrer las zonas donde las condiciones dificultan la búsqueda de las personas varadas.\nHábleme cuando esté listo."
+        "es-ES": "[Miriam]\nTú y yo deberíamos buscar en las zonas donde resulta especialmente difícil encontrar personas atrapadas.\nHáblame cuando estés listo."
     },
     "gowPDg": {
         "en-US": "[Miriam]\nWe can't wander the snowfields forever.\nWe should get enough rest before heading out to search again.",
         "pt-BR": "[Miriam]\nNão podemos ficar vagando pela região nevada para sempre.\nÉ melhor descansar o suficiente antes de retomar a busca.",
-        "es-ES": "[Miriam]\nNo podemos seguir vagando por la región nevada indefinidamente.\nSerá mejor descansar bien antes de reanudar la búsqueda."
+        "es-ES": "[Miriam]\nNo podemos seguir vagando eternamente por los campos nevados.\nSerá mejor que descansemos lo suficiente antes de reanudar la búsqueda."
     },
     "g4wPDg": {
         "en-US": "[Miriam]\nPlease guide the rescued person to the adventurer lodging.\nMaram should be waiting there.",
         "pt-BR": "[Miriam]\nLeve as pessoas resgatadas até os alojamentos dos aventureiros.\nMaram estará esperando.",
-        "es-ES": "[Miriam]\nLleve a las personas rescatadas al alojamiento de los aventureros.\nMaram estará esperando allí."
+        "es-ES": "[Miriam]\nLleva a la persona rescatada al alojamiento de los aventureros.\nMaram debe de estar esperándote allí."
     },
     "hIwPDg": {
         "en-US": "[Miriam]\nPlease search the Frozen Scale Glacier area.\nI'll search the plains.\nIf you find anyone stranded, bring them to the Ice Castle lodging immediately.",
         "pt-BR": "[Miriam]\nProcure na região da Geleira de Escamas Congeladas.\nEu vou procurar nas planícies.\nSe encontrar alguém perdido, leve-o imediatamente aos alojamentos do Castelo de Gelo.",
-        "es-ES": "[Miriam]\nBusque en la zona de Glaciar de Escamas Congeladas.\nYo buscaré en las llanuras.\nSi encuentra a alguna persona varada, debe llevarla de inmediato al alojamiento del castillo de hielo."
+        "es-ES": "[Miriam]\nBusca en la zona del Glaciar de Escamas Congeladas.\nYo buscaré en las llanuras.\nSi encuentras a alguien atrapado, llévalo de inmediato al alojamiento del Castillo de Hielo."
     },
     "hYwPDg": {
         "en-US": "[Miriam]\nPlease search the Frozen Scale Plains area.\nI'll search the glacier.\nIf you find anyone stranded, bring them to the Ice Castle lodging immediately.",
         "pt-BR": "[Miriam]\nProcure na região da Planície de Escamas Congeladas.\nEu vou procurar na geleira.\nSe encontrar alguém perdido, leve-o imediatamente aos alojamentos do Castelo de Gelo.",
-        "es-ES": "[Miriam]\nBusque en la zona de Llanura de Escamas Congeladas.\nYo buscaré en el glaciar.\nSi encuentra a alguna persona varada, debe llevarla de inmediato al alojamiento del castillo de hielo."
+        "es-ES": "[Miriam]\nBusca en la Llanura de Escamas Congeladas.\nYo buscaré en el glaciar.\nSi encuentras a alguien atrapado, llévalo de inmediato al alojamiento del Castillo de Hielo."
     },
     "howPDg": {
         "en-US": "[Miriam]\nShall we divide up the search areas?\nChoose either the glacier or the plains, and I'll search the other area.",
         "pt-BR": "[Miriam]\nEntão, vamos dividir as áreas de busca?\nEscolha entre a geleira e as planícies, e eu procurarei na outra área.",
-        "es-ES": "[Miriam]\nEntonces, ¿dividimos las zonas de búsqueda?\nElija entre el glaciar y las llanuras, y yo buscaré en la otra zona."
+        "es-ES": "[Miriam]\n¿Dividimos las zonas de búsqueda?\nElige entre el glaciar y las llanuras, y yo buscaré en la otra zona."
     },
     "h4wPDg": {
         "en-US": "Search the glacier.",
@@ -207,17 +207,17 @@
     "iYwPDg": {
         "en-US": "[Miriam]\nThen I'll check the plains area.\nIf you find anyone stranded, bring them to the Ice Castle lodging immediately.",
         "pt-BR": "[Miriam]\nEntão, eu vou verificar a região das planícies.\nSe encontrar alguém perdido, leve-o imediatamente aos alojamentos do Castelo de Gelo.",
-        "es-ES": "[Miriam]\nEntonces yo revisaré la zona de las llanuras.\nSi encuentra a alguna persona varada, llévela inmediatamente al alojamiento del castillo de hielo."
+        "es-ES": "[Miriam]\nEntonces, yo revisaré la zona de las llanuras.\nSi encuentras a alguien atrapado, llévalo de inmediato al alojamiento del Castillo de Hielo."
     },
     "iowPDg": {
         "en-US": "[Miriam]\nI've already told Maram.\nIf you find even one person, return immediately.",
         "pt-BR": "[Miriam]\nJá avisei Maram com antecedência.\nAssim que encontrar pelo menos uma pessoa, volte imediatamente.",
-        "es-ES": "[Miriam]\nYa le avisé a Maram.\nEn cuanto encuentre aunque sea a una persona, regrese inmediatamente."
+        "es-ES": "[Miriam]\nYa le avisé a Maram.\nSi encuentras a alguien, regresa de inmediato."
     },
     "i4wPDg": {
         "en-US": "[Miriam]\nThen I'll search the glacier area.\nIf you find anyone stranded, bring them to the Ice Castle lodging immediately.",
         "pt-BR": "[Miriam]\nEntão, eu vou verificar a região da geleira.\nSe encontrar alguém perdido, leve-o imediatamente aos alojamentos do Castelo de Gelo.",
-        "es-ES": "[Miriam]\nEntonces yo revisaré la zona del glaciar.\nSi encuentra a alguna persona varada, llévela inmediatamente al alojamiento del castillo de hielo."
+        "es-ES": "[Miriam]\nEntonces, yo revisaré la zona del glaciar.\nSi encuentras a alguien atrapado, llévalo de inmediato al alojamiento del Castillo de Hielo."
     },
     "jIwPDg": {
         "en-US": "[Miriam]\nIsn't it amazing?\nEverything looks like ice, but it's warm and doesn't melt.",
@@ -232,7 +232,7 @@
     "jowPDg": {
         "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
         "pt-BR": "Não é possível prosseguir com a missão porque você está carregando itens demais.\nOrganize seus itens e tente novamente.",
-        "es-ES": "No puede continuar con la misión porque lleva demasiados objetos.\nOrganice su inventario e inténtelo de nuevo."
+        "es-ES": "No puedes continuar con la misión porque llevas demasiados objetos.\nOrganiza tu inventario y vuelve a intentarlo."
     },
     "j4wPDg": {
         "en-US": "[Maram]\nThe people we rescued are warming themselves up.\nI'll take them back by airship.",
@@ -242,12 +242,12 @@
     "kIwPDg": {
         "en-US": "[Miriam]\nI'm glad we found them before anything serious happened.\nIt seems some of them were struggling to make ends meet and followed along because they thought Jormungand was some new religion.",
         "pt-BR": "[Miriam]\nAinda bem que os encontramos antes que algo grave acontecesse.\nParece que alguns, por estarem passando dificuldades para sobreviver, seguiram Jormungand acreditando que se tratava de uma nova religião.",
-        "es-ES": "[Miriam]\nMenos mal que los encontramos antes de que ocurriera algo grave.\nParece que algunos, debido a las dificultades para ganarse la vida, los siguieron creyendo que Jormungand era una nueva religión."
+        "es-ES": "[Miriam]\nMenos mal que las encontramos antes de que ocurriera algo grave.\nAl parecer, algunas personas estaban pasando dificultades para ganarse la vida y se unieron a ellos porque creían que Jormungand era una nueva religión."
     },
     "kYwPDg": {
         "en-US": "[Maram]\nHmm. Anyway, Leizi and I will calm them down and send them home.\nYou've worked hard too, Adventurer. Get some rest.",
         "pt-BR": "[Maram]\nHum. De qualquer forma, eu e o Sr. Nalandro vamos acalmá-las e mandá-las de volta para casa.\nVocê também trabalhou bastante, aventureiro. Descanse um pouco.",
-        "es-ES": "[Maram]\nHmm. En fin, Lazy y yo nos encargaremos de tranquilizarlos y enviarlos de vuelta a casa.\nUsted también trabajó duro, aventurero. Descanse un poco."
+        "es-ES": "[Maram]\nMmm. En fin, Lazy y yo nos encargaremos de tranquilizarlos y llevarlos de vuelta a casa.\nTú también trabajaste mucho, aventurero. Descansa un poco."
     },
     "kowPDg": {
         "en-US": "[Miriam]\nAll right.\nLet's call it a day and resume the search tomorrow.",
@@ -262,37 +262,37 @@
     "lIwPDg": {
         "en-US": "Rescued Stranded Person",
         "pt-BR": "Pessoa resgatada",
-        "es-ES": "Persona rescatada"
+        "es-ES": "Persona Rescatada"
     },
     "lYwPDg": {
         "en-US": ".I.. I missed this. The warmth of a fire..!",
-        "pt-BR": ".E.. eu estava com saudade disso. O calor do fogo..!",
-        "es-ES": ".E..extrañaba esto. ¡El calor del fuego..!"
+        "pt-BR": "E... eu estava com saudade disso. O calor do fogo...!",
+        "es-ES": "¡E... esto es lo que extrañaba! ¡El calor del fuego...!"
     },
     "lowPDg": {
         "en-US": "Th.. thank you, thank you for saving me. Ugh.. I thought I was going to freeze to death.",
-        "pt-BR": "O.. obrigado por me salvar. Muito obrigado. Ugh.. Achei que fosse morrer congelado.",
-        "es-ES": "Gra.. gracias, gracias por salvarme. Ugh.. Creí que iba a morir congelado."
+        "pt-BR": "O... obrigado por me salvar. Muito obrigado. Ugh... Achei que fosse morrer congelado.",
+        "es-ES": "Mu... muchas gracias por salvarme. ¡Uf...! ¡Creí que iba a morir congelado!"
     },
     "l4wPDg": {
         "en-US": "[Miriam]\nThe search was exhausting, wasn't it?\nWhy don't you warm yourself up for a while?",
         "pt-BR": "[Miriam]\nA busca foi difícil, não foi?\nQue tal se aquecer um pouco?",
-        "es-ES": "[Miriam]\nLa búsqueda fue dura, ¿verdad?\n¿Qué tal si se calienta un poco?"
+        "es-ES": "[Miriam]\nLa búsqueda fue agotadora, ¿verdad?\n¿Por qué no te calientas un rato?"
     },
     "mIwPDg": {
         "en-US": "Pit",
         "pt-BR": "Buraco",
-        "es-ES": "Hoyo"
+        "es-ES": "Pozo"
     },
     "mYwPDg": {
         "en-US": "There is a pit dug among the snowdrifts.",
         "pt-BR": "Há um buraco cavado entre os montes de neve.",
-        "es-ES": "Hay un hoyo cavado entre los montículos de nieve."
+        "es-ES": "Hay un pozo excavado entre los montículos de nieve."
     },
     "mowPDg": {
         "en-US": "Dig into the pit.",
         "pt-BR": "Cavar o buraco.",
-        "es-ES": "Excavar el hoyo."
+        "es-ES": "Excavar el pozo."
     },
     "m4wPDg": {
         "en-US": "Cover it up carefully.",
@@ -302,7 +302,7 @@
     "nIwPDg": {
         "en-US": "Unbelievable!\nA stranded person was crouched inside a pit dug into the snow.\nLet's take them to the Ice Castle to warm up.",
         "pt-BR": "Não acredito!\nUma pessoa perdida havia cavado um buraco na neve e estava encolhida lá dentro.\nVamos levá-la ao Castelo de Gelo para se aquecer.",
-        "es-ES": "¡No puede ser!\nUna persona varada había cavado un hoyo en la nieve y estaba acurrucada dentro.\nLlevémosla al castillo de hielo para que entre en calor."
+        "es-ES": "Increíble!\nHabía una persona atrapada, acurrucada dentro de un pozo excavado en la nieve.\nLlevémosla al Castillo de Hielo para que entre en calor."
     },
     "nYwPDg": {
         "en-US": "The snowdrift was carefully covered up.",
@@ -317,27 +317,27 @@
     "n4wPDg": {
         "en-US": "Mimirgand",
         "pt-BR": "Mimirgand",
-        "es-ES": "Mimireugand"
+        "es-ES": "Mimirgand"
     },
     "oIwPDg": {
         "en-US": "[Mimirgand]\nWhat's with this insolent unbeliever? Get down there and work!",
         "pt-BR": "[Mimirgand]\nQuem é esse infiel insolente? Desça e vá trabalhar!",
-        "es-ES": "[Mimireugand]\n¿Quién es este insolente incrédulo? ¡Baja y ponte a trabajar!"
+        "es-ES": "[Mimirgand]\n¿Qué hace aquí este insolente infiel? ¡Baja y ponte a trabajar!"
     },
     "oYwPDg": {
         "en-US": "[Mimirgand]\nOh? So you're the newly born priest this time?\nCome here and sit down.\nLet me tell you a story.",
         "pt-BR": "[Mimirgand]\nOra, então você é o sacerdote que acabou de nascer desta vez?\nVenha e sente-se aqui.\nVou lhe contar uma história.",
-        "es-ES": "[Mimireugand]\nOh, así que tú eres el sacerdote que nació recientemente, ¿eh?\nVen y siéntate aquí.\nTe contaré una historia."
+        "es-ES": "[Mimirgand]\n¡Oh! ¿Eres el sacerdote recién nacido de esta vez?\nVen aquí y siéntate.\nDéjame contarte una historia."
     },
     "oowPDg": {
         "en-US": "[Mimirgand]\nHarsh environments naturally demand harsh methods of survival.\nWe are the ones who inherited the magic of the great Jormungand.",
         "pt-BR": "[Mimirgand]\nEm um ambiente severo, é natural que existam formas severas de sobreviver.\nNós somos aqueles que herdaram o poder mágico do grande Jormungand.",
-        "es-ES": "[Mimireugand]\nEn un entorno despiadado, es natural que existan métodos despiadados para sobrevivir.\nNosotros somos quienes heredamos el poder mágico del gran Jormungand."
+        "es-ES": "[Mimirgand]\nEn un entorno hostil, es natural que se necesiten métodos de supervivencia igualmente duros.\nSomos quienes heredamos la magia del grandioso Jormungand."
     },
     "o4wPDg": {
         "en-US": "[Mimirgand]\nDo you know what that means?",
         "pt-BR": "[Mimirgand]\nVocê sabe o que isso significa?",
-        "es-ES": "[Mimireugand]\n¿Sabes qué significa eso?"
+        "es-ES": "[Mimirgand]\n¿Sabes qué significa eso?"
     },
     "pIwPDg": {
         "en-US": "The source of our life!",
@@ -347,22 +347,22 @@
     "pYwPDg": {
         "en-US": "[Mimirgand]\nListen carefully.\nIn the past, our ancestors ruled the continent of Midgard using the magic of Jormungand.",
         "pt-BR": "[Mimirgand]\nEscute bem.\nNo passado, nossos ancestrais dominaram o continente de Midgard com base no poder mágico de Jormungand.",
-        "es-ES": "[Mimireugand]\nEscucha bien.\nEn el pasado, nuestros antepasados dominaron el continente de Midgard gracias al poder mágico de Jormungand."
+        "es-ES": "[Mimirgand]\nEscucha con atención.\nEn el pasado, nuestros antepasados gobernaban el continente de Midgard gracias a la magia de Jormungand."
     },
     "powPDg": {
         "en-US": "[Mimirgand]\nHowever, because of the wicked humans' desperate resistance, Jormungand was sealed away.\nEven then, Jormungand left behind his body for us.",
         "pt-BR": "[Mimirgand]\nPorém, devido à resistência desesperada dos humanos traiçoeiros, Jormungand foi selado.\nMesmo assim, naquele momento, Jormungand deixou seu próprio corpo para nós.",
-        "es-ES": "[Mimireugand]\nSin embargo, por la desesperada resistencia de los malvados humanos, Jormungand fue sellado.\nAun así, incluso en ese momento, Jormungand dejó su cuerpo para nosotros."
+        "es-ES": "[Mimirgand]\nSin embargo, debido a la desesperada resistencia de los malvados humanos, Jormungand fue sellado.\nAun así, Jormungand dejó su cuerpo atrás para nosotros."
     },
     "p4wPDg": {
         "en-US": "[Mimirgand]\nYes. That is Issgard.\nWe took root in the blood of Lord Rasgand, the last Rgan protected by Jormungand,\nand we grow through the magic of the body Jormungand left behind.",
-        "pt-BR": "[Mimirgand]\nSim. Esse lugar é Isgard.\nNós criamos raízes com o sangue de Rasgand, o último Rgan protegido por Jormungand,\ne crescemos com o poder mágico do corpo que Jormungand deixou para trás.",
-        "es-ES": "[Mimireugand]\nSí. Eso es precisamente Isgard.\nEchamos raíces con la sangre de Rasgand, el último Rgan protegido por Jormungand,\ny crecemos gracias al poder mágico del cuerpo que Jormungand dejó atrás."
+        "pt-BR": "[Mimirgand]\nSim. Esse lugar é Isgard.\nNós criamos raízes com o sangue de Ragand, o último Rgan protegido por Jormungand,\ne crescemos com o poder mágico do corpo que Jormungand deixou para trás.",
+        "es-ES": "[Mimirgand]\nAsí es. Eso es Issgard.\nEchamos raíces en la sangre del señor Ragand, el último Rgan protegido por Jormungand,\ny crecemos gracias a la magia del cuerpo que Jormungand nos dejó."
     },
     "qIwPDg": {
         "en-US": "[Mimirgand]\nBut some vermin were also born, unable to properly receive the grace granted through even the sacrifice of his body.\nDo you know what they are?",
         "pt-BR": "[Mimirgand]\nPorém, também nasceram criaturas semelhantes a vermes que não receberam devidamente a graça concedida até mesmo com o sacrifício do próprio corpo.\nSabe o que são?",
-        "es-ES": "[Mimireugand]\nSin embargo, también nacieron seres miserables como alimañas, incapaces de recibir debidamente la gracia que nos concedió incluso entregando su cuerpo.\n¿Sabes qué son?"
+        "es-ES": "[Mimirgand]\nPero también nacieron algunas alimañas incapaces de recibir debidamente la gracia que nos concedió, incluso sacrificando su propio cuerpo.\n¿Sabes cuáles son?"
     },
     "qYwPDg": {
         "en-US": "Lower-class Rgans?",
@@ -372,167 +372,167 @@
     "qowPDg": {
         "en-US": "[Mimirgand]\nOh, so you truly are priest-class.\nYou know well.\nYes, those who failed to properly receive the blessing of magic are vermin and sinners.",
         "pt-BR": "[Mimirgand]\nOh, então é isso que se espera de alguém da classe sacerdotal.\nVocê sabe muito bem.\nSim, aqueles que não receberam devidamente a graça da magia são vermes e pecadores.",
-        "es-ES": "[Mimireugand]\nOh, conque de verdad eres de rango sacerdotal.\nLo sabes bien.\nAsí es. Quienes no recibieron debidamente la gracia del poder mágico son alimañas y pecadores."
+        "es-ES": "[Mimirgand]\nOh, así que de verdad eres de la clase sacerdotal.\nSabes mucho.\nAsí es. Los que no recibieron debidamente la bendición de la magia son alimañas y pecadores."
     },
     "q4wPDg": {
         "en-US": "[Mimirgand]\nThey vilely covet each other's magic and seek higher-grade magic.\nAll Rgan naturally thirst for magic, but those creatures know no restraint.",
         "pt-BR": "[Mimirgand]\nEles cobiçam de forma repugnante o poder mágico uns dos outros e também o poder mágico dos superiores.\nTodo Rgan naturalmente sente desejo por poder mágico, mas essas criaturas não sabem se controlar.",
-        "es-ES": "[Mimireugand]\nCodician vilmente el poder mágico de los demás y ansían un poder mágico superior.\nEl deseo de poder mágico es algo que todo Rgan posee por naturaleza, pero esos no saben contenerse."
+        "es-ES": "[Mimirgand]\nCodician la magia de los demás y ansían obtener magia de mayor categoría.\nTodos los Rgan sienten naturalmente una gran sed de magia, pero esas criaturas no conocen límites."
     },
     "rIwPDg": {
         "en-US": "[Mimirgand]\nI can no longer tolerate those lowly creatures coveting their paltry magic.\nI shall entrust you with an important task.",
         "pt-BR": "[Mimirgand]\nNão posso mais tolerar que esses seres inferiores cobicem esse mísero poder mágico.\nVou confiar a você uma tarefa importante.",
-        "es-ES": "[Mimireugand]\nYa no puedo seguir tolerando que esos seres inferiores codicien esa mísera cantidad de poder mágico.\nVoy a encomendarte una tarea importante."
+        "es-ES": "[Mimirgand]\nYa no puedo tolerar que esas criaturas inferiores codicien la escasa magia que poseen.\nVoy a encomendarte una tarea importante."
     },
     "rYwPDg": {
         "en-US": "[Mimirgand]\nYou are to reclaim the magic of Jormungand held by sinners and vermin.\nThe magic he left behind is limited.\nIt is not magic those creatures are worthy of possessing.",
         "pt-BR": "[Mimirgand]\nSua tarefa é recuperar o poder mágico de Jormungand que os pecadores e vermes carregam.\nO poder mágico deixado por ele é limitado.\nNão é algo que essas criaturas tenham o direito de possuir.",
-        "es-ES": "[Mimireugand]\nDebes recuperar el poder mágico de Jormungand que poseen los pecadores y las alimañas.\nEl poder mágico que dejó es limitado.\nNo es un poder que seres como esos tengan derecho a poseer."
+        "es-ES": "[Mimirgand]\nDebes recuperar la magia de Jormungand que está en manos de los pecadores y las alimañas.\nLa magia que nos dejó es limitada.\nEs una magia que esas criaturas no merecen poseer."
     },
     "rowPDg": {
         "en-US": "[Mimirgand]\nMagic is limited, and if we are to advance and carry out the will of Jormungand and Lord Rasgand, we cannot afford to waste it.",
-        "pt-BR": "[Mimirgand]\nO poder mágico é limitado, e se quisermos nos aperfeiçoar e cumprir a vontade de Jormungand e a vontade de Rasgand, não podemos desperdiçá-lo.",
-        "es-ES": "[Mimireugand]\nEl poder mágico es limitado, y si queremos seguir perfeccionándonos y cumplir la voluntad de Jormungand y la voluntad de Rasgand, no podemos desperdiciarlo."
+        "pt-BR": "[Mimirgand]\nO poder mágico é limitado, e se quisermos nos aperfeiçoar e cumprir a vontade de Jormungand e a vontade de Ragand, não podemos desperdiçá-lo.",
+        "es-ES": "[Mimirgand]\nEl poder mágico es limitado, y si queremos seguir perfeccionándonos y cumplir la voluntad de Jormungand y la voluntad de Ragand, no podemos desperdiciarlo."
     },
     "r4wPDg": {
         "en-US": "[Mimirgand]\nReclaiming the magic taken by sinners and using it again for the future of the Rgan.\nThat is what we must do now.",
         "pt-BR": "[Mimirgand]\nRecuperar o poder mágico levado pelos pecadores e reutilizá-lo pelo futuro dos Rgan.\nIsso é o que devemos fazer agora.",
-        "es-ES": "[Mimireugand]\nRecuperar el poder mágico que se llevaron los pecadores y reutilizarlo para el futuro de Rgan.\nEso es lo que debemos hacer ahora."
+        "es-ES": "[Mimirgand]\nRecuperar la magia que los pecadores han tomado y volver a utilizarla por el futuro de los Rgan.\nEso es lo que debemos hacer ahora."
     },
     "sIwPDg": {
         "en-US": "[Mimirgand]\nAnd we must reclaim the magic for gifted children like you as well.",
         "pt-BR": "[Mimirgand]\nE também precisamos recuperar o poder mágico para as crianças que nasceram agraciadas como você.",
-        "es-ES": "[Mimireugand]\nY también debemos recuperar el poder mágico por el bien de los jóvenes bendecidos como tú."
+        "es-ES": "[Mimirgand]\nY también debemos recuperar el poder mágico por el bien de los jóvenes bendecidos como tú."
     },
     "sYwPDg": {
         "en-US": "Isn't that killing our own kind?",
         "pt-BR": "Isso não seria matar os próprios semelhantes?",
-        "es-ES": "¿Eso no sería matarnos entre nosotros?"
+        "es-ES": "¿Eso no sería matar a los de nuestra propia especie?"
     },
     "sowPDg": {
         "en-US": "[Mimirgand]\nThere is no need to regard those vermin as our own kind.\nThey are sin.\nThey are also sacrifices.\nIt is only natural to reclaim magic from sins that received no blessing.",
         "pt-BR": "[Mimirgand]\nNão há motivo para considerar aqueles vermes como nossos semelhantes.\nEles são o pecado.\nEles também são sacrifícios.\nÉ natural recuperar o poder mágico daqueles pecadores que não receberam a graça.",
-        "es-ES": "[Mimireugand]\nNo hace falta considerar a esas alimañas como miembros de nuestra misma especie.\nSon pecado.\nTambién son sacrificios.\nEs natural recuperar el poder mágico de aquellos pecadores que no recibieron la gracia."
+        "es-ES": "[Mimirgand]\nNo hay necesidad de considerar a esas alimañas como parte de nuestra especie.\nSon el pecado.\nTambién son sacrificios.\nEs natural recuperar la magia de los pecadores que no recibieron ninguna bendición."
     },
     "s4wPDg": {
         "en-US": "[Mimirgand]\nThis is how we survive, trapped in this frozen land.\nSo, young priest.\nGo and punish the sinners, then bring back their magic.",
         "pt-BR": "[Mimirgand]\nEsta é a nossa forma de sobreviver, presos nesta terra congelada.\nPortanto, jovem sacerdote.\nVá, execute os pecadores e traga o poder mágico deles.",
-        "es-ES": "[Mimireugand]\nEsta es nuestra forma de sobrevivir, atrapados en esta tierra de hielo.\nAsí que, joven sacerdote.\nVe, castiga a los pecadores y tráeme su poder mágico."
+        "es-ES": "[Mimirgand]\nAsí es como sobrevivimos, atrapados en esta tierra helada.\nAsí que, joven sacerdote,\nve a castigar a los pecadores y tráeme su magia."
     },
     "tIwPDg": {
         "en-US": "[Mimirgand]\nYou're asking where the sins are?\nYoung priest, didn't you say you awakened in the lower hatchery?",
         "pt-BR": "[Mimirgand]\nEstá perguntando onde estão os pecadores?\nJovem sacerdote, você não disse que despertou no incubatório inferior?",
-        "es-ES": "[Mimireugand]\n¿Preguntas dónde está el pecado?\nJoven sacerdote, ¿no dijiste que despertaste en el criadero inferior?"
+        "es-ES": "[Mimirgand]\n¿Preguntas dónde están los pecadores?\nJoven sacerdote, ¿no dijiste que despertaste en el criadero inferior?"
     },
     "tYwPDg": {
         "en-US": "[Mimirgand]\nI mean the lowly creatures infesting that place.\n^4D4DFFPrimitive Rgan, Lowest Rgan^000000 are the sins and vermin.",
-        "pt-BR": "[Mimirgand]\nEstou falando daqueles seres inferiores que infestam aquele lugar.\nOs ^4D4DFFRegan Primitivo, Regan de Nível Mais Baixo^000000 são pecadores e vermes.",
-        "es-ES": "[Mimireugand]\nMe refiero a esos seres inferiores que llenan ese lugar.\nLos ^4D4DFFRegan primitivo, Regan de nivel ínfimo^000000 son pecado y alimañas."
+        "pt-BR": "[Mimirgand]\nEstou falando daqueles seres inferiores que infestam aquele lugar.\nOs ^4D4DFFRgan Primitivo, Rgan de Nível Mais Baixo^000000 são pecadores e vermes.",
+        "es-ES": "[Mimirgand]\nMe refiero a esos seres inferiores que infestan ese lugar.\nLos ^4D4DFFRgan Primitivos y los Rgan Ínfimos^000000 son pecadores y alimañas."
     },
     "towPDg": {
         "en-US": "[Mimirgand]\nYour task is to dispose of them and recover ^4D4DFFLow-quality Rgan Magic Core^000000, 10 in total.",
-        "pt-BR": "[Mimirgand]\nSua tarefa é eliminar essas criaturas e recuperar 10 ^4D4DFFNúcleo Mágico Inferior de Regan^000000.",
-        "es-ES": "[Mimireugand]\nTu trabajo es acabar con ellos y recuperar ^4D4DFFNúcleo Mágico Inferior de Regan^000000, 10 unidades."
+        "pt-BR": "[Mimirgand]\nSua tarefa é eliminar essas criaturas e recuperar 10 ^4D4DFFNúcleo Mágico Inferior de Rgan^000000.",
+        "es-ES": "[Mimirgand]\nTu tarea consiste en eliminarlos y recuperar 10 ^4D4DFFNúcleos Mágicos de Rgan Inferior^000000."
     },
     "t4wPDg": {
         "en-US": "[Mimirgand]\nIt seems you've carried out your task properly.\nHand them over.\nThe magic cores must be put back into circulation.",
         "pt-BR": "[Mimirgand]\nParece que você cumpriu bem a tarefa.\nDê-os aqui.\nOs núcleos mágicos precisam voltar ao ciclo.",
-        "es-ES": "[Mimireugand]\nParece que cumpliste bien con tu tarea.\nDámelos.\nLos núcleos mágicos deben volver a circular."
+        "es-ES": "[Mimirgand]\nParece que compliste bien tu tarea.\nEntrégamelos.\nLos núcleos mágicos deben volver a circular."
     },
     "uIwPDg": {
         "en-US": "[Mimirgand]\nYou're asking whether absorbing magic cores makes you stronger?\nIt can.\nIsn't there living proof right over there?",
         "pt-BR": "[Mimirgand]\nEstá perguntando se absorver núcleos mágicos não deixa alguém mais forte?\nPode ser.\nNa verdade, não há um exemplo bem ali?",
-        "es-ES": "[Mimireugand]\n¿Preguntas si absorber núcleos mágicos no te hace más fuerte?\nPuede ser.\nDe hecho, ¿no tienes un ejemplo justo ahí?"
+        "es-ES": "[Mimirgand]\n¿Preguntas si absorber núcleos mágicos te hace más fuerte?\nEs posible.\nDe hecho, ¿no tienes un ejemplo justo ahí?"
     },
     "uYwPDg": {
         "en-US": "You mean the Junior Rgan?",
-        "pt-BR": "Está falando dos Regan Inferior?",
-        "es-ES": "¿Te refieres al Regan inferior?"
+        "pt-BR": "Está falando dos Rgan Inferior?",
+        "es-ES": "¿Te refieres al Rgan Inferior?"
     },
     "uowPDg": {
         "en-US": "[Mimirgand]\nYes. Occasionally, there are lower-class ones with some intelligence.\nThey atone for their sins through hard labor.",
         "pt-BR": "[Mimirgand]\nSim. Às vezes há inferiores que possuem algo que se pode chamar de inteligência.\nEles expiam seus pecados realizando trabalhos forçados.",
-        "es-ES": "[Mimireugand]\nAsí es. De vez en cuando hay inferiores que poseen algo de inteligencia.\nEsos expían sus pecados realizando trabajos forzados."
+        "es-ES": "[Mimirgand]\nAsí es. De vez en cuando, hay algunos de categoría inferior que tienen cierta inteligencia.\nExpiarán sus pecados mediante trabajos forzados."
     },
     "u4wPDg": {
         "en-US": "[Mimirgand]\nBut that doesn't mean a lower-class one can devour another lower-class one and become middle-class.\nAfter all, each is born through grace with a vessel of a different capacity.",
         "pt-BR": "[Mimirgand]\nMas isso não significa que um inferior se torne intermediário ao devorar outro inferior.\nAfinal, cada um nasce com uma capacidade diferente, concedida pela graça.",
-        "es-ES": "[Mimireugand]\nPero eso no significa que un inferior pueda devorar a otro inferior y convertirse en uno de nivel intermedio.\nDespués de todo, cada uno nace, por gracia, con una capacidad distinta."
+        "es-ES": "[Mimirgand]\nPero eso no significa que un inferior pueda devorar a otro inferior y convertirse en uno de nivel intermedio.\nDespués de todo, cada uno nace con una capacidad distinta, otorgada por la gracia."
     },
     "vIwPDg": {
         "en-US": "[Mimirgand]\nWould throwing a single stone into the sea make any noticeable difference?\nBut if you carved down a mountain and put it into a small pond, the result would be different.",
         "pt-BR": "[Mimirgand]\nAcha que faria alguma diferença jogar uma pedra no mar?\nMas se colocasse uma montanha inteira em um pequeno lago, o resultado seria diferente.",
-        "es-ES": "[Mimireugand]\nSi arrojas una piedra al mar, ¿crees que se notará?\nPero si arrojaras una montaña entera a un pequeño estanque, el resultado sería distinto."
+        "es-ES": "[Mimirgand]\nSi arrojas una piedra al mar, ¿crees que se notará?\nPero si desmenuzaras una montaña y la echaras en un pequeño estanque, el resultado sería diferente."
     },
     "vYwPDg": {
         "en-US": "[Mimirgand]\nOccasionally, one appears that has nothing left but the instinct to crave magic, devouring others again and again until its vessel is finally filled.",
         "pt-BR": "[Mimirgand]\nÀs vezes surge um que, restando apenas o instinto de cobiçar poder mágico, devora os outros sem parar até finalmente preencher sua capacidade.",
-        "es-ES": "[Mimireugand]\nA veces aparece alguno que, guiado solo por el instinto de ansiar poder mágico, devora a los demás una y otra vez hasta llenar por completo su capacidad."
+        "es-ES": "[Mimirgand]\nA veces aparece alguno que, guiado solo por el instinto de ansiar poder mágico, devora a los demás una y otra vez hasta llenar por completo su capacidad."
     },
     "vowPDg": {
         "en-US": "[Mimirgand]\nBut the size of its vessel does not change.\nIs that not another difference in the grace one is born with?",
         "pt-BR": "[Mimirgand]\nMas o tamanho dessa capacidade não muda.\nIsso também não seria uma diferença da graça recebida ao nascer?",
-        "es-ES": "[Mimireugand]\nPero el tamaño de esa capacidad no cambia.\n¿No es también esa una diferencia en la gracia con la que se nace?"
+        "es-ES": "[Mimirgand]\nPero el tamaño de esa capacidad no cambia.\n¿No es también esa una diferencia en la gracia con la que se nace?"
     },
     "v4wPDg": {
         "en-US": "[Mimirgand]\nStill, perhaps Lord Rasgand is seeking a way to redeem even such lowly creatures.\nNothing would be better than finding a way to increase the measure of one's grace after birth.",
-        "pt-BR": "[Mimirgand]\nMas talvez o Sr. Rasgand esteja procurando uma forma de salvar até mesmo criaturas tão inferiores.\nSe fosse possível aumentar essa graça depois do nascimento, não poderíamos desejar nada melhor.",
-        "es-ES": "[Mimireugand]\nAunque quién sabe, quizá el señor Rasgand esté buscando una forma de salvar incluso a esos seres inferiores.\nSi fuera posible aumentar la magnitud de la gracia después de nacer, no habría nada mejor."
+        "pt-BR": "[Mimirgand]\nMas talvez o Sr. Ragand esteja procurando uma forma de salvar até mesmo criaturas tão inferiores.\nSe fosse possível aumentar essa graça depois do nascimento, não poderíamos desejar nada melhor.",
+        "es-ES": "[Mimirgand]\nAunque quién sabe, quizá el señor Ragand esté buscando una forma de salvar incluso a esos seres inferiores.\nSi fuera posible aumentar la magnitud de la gracia después de nacer, no habría nada mejor."
     },
     "wIwPDg": {
         "en-US": "Then what are magic cores used for?",
         "pt-BR": "Então, para que servem os núcleos mágicos?",
-        "es-ES": "Entonces, ¿para qué se usan los núcleos mágicos?"
+        "es-ES": "Entonces, ¿para qué se utilizan los núcleos mágicos?"
     },
     "wYwPDg": {
         "en-US": "[Mimirgand]\nWhat does a living creature need in order to function?\nThat's right. Sustenance.",
         "pt-BR": "[Mimirgand]\nDo que um ser vivo precisa para continuar em atividade?\nIsso mesmo. Precisa de alimento.",
-        "es-ES": "[Mimireugand]\n¿Qué necesita un ser vivo para mantenerse activo?\nAsí es. Necesita alimento."
+        "es-ES": "[Mimirgand]\n¿Qué necesita un ser vivo para mantenerse activo?\nAsí es. Necesita alimento."
     },
     "wowPDg": {
         "en-US": "[Mimirgand]\nWe use this as sustenance.\nSome is used for Lord Rasgand's research, while some is used to restore depleted magic.",
-        "pt-BR": "[Mimirgand]\nNós usamos isto como alimento.\nUma parte é usada nas pesquisas do Sr. Rasgand, e outra para recuperar o poder mágico consumido.",
-        "es-ES": "[Mimireugand]\nNosotros usamos esto como alimento.\nUna parte se utiliza en las investigaciones del señor Rasgand, y otra para recuperar el poder mágico consumido."
+        "pt-BR": "[Mimirgand]\nNós usamos isto como alimento.\nUma parte é usada nas pesquisas do Sr. Ragand, e outra para recuperar o poder mágico consumido.",
+        "es-ES": "[Mimirgand]\nNosotros usamos esto como alimento.\nUna parte se utiliza en las investigaciones del señor Ragand, y otra para recuperar el poder mágico consumido."
     },
     "w4wPDg": {
         "en-US": "[Mimirgand]\nIf you ever feel that your magic is depleted, absorb a magic core.\nIt will make you feel better.",
         "pt-BR": "[Mimirgand]\nSe sentir que seu poder mágico está se esgotando, absorva um núcleo mágico.\nVocê se sentirá melhor.",
-        "es-ES": "[Mimireugand]\nSi alguna vez sientes que has agotado tu poder mágico, absorbe un núcleo mágico.\nTe sentirás mejor."
+        "es-ES": "[Mimirgand]\nSi alguna vez sientes que has agotado tu poder mágico, absorbe un núcleo mágico.\nTe sentirás mejor."
     },
     "xIwPDg": {
         "en-US": "[Mimirgand]\nIn any case, thank you for helping me with my work.\nThis, too, is a duty you must fulfill as a priest.\nWell done.",
         "pt-BR": "[Mimirgand]\nDe qualquer forma, agradeço por ter me ajudado.\nIsso também faz parte dos deveres de um sacerdote como você.\nBom trabalho.",
-        "es-ES": "[Mimireugand]\nEn cualquier caso, gracias por ayudarme con mi trabajo.\nEsto también forma parte de tus deberes como sacerdote.\nBuen trabajo."
+        "es-ES": "[Mimirgand]\nEn cualquier caso, gracias por ayudarme con mi trabajo.\nEsto también forma parte de tus deberes como sacerdote.\nBuen trabajo."
     },
     "xYwPDg": {
         "en-US": "[Mimirgand]\nReclaiming the magic held by sins is also our duty.\nBring back ^4D4DFFLow-quality Rgan Magic Core^000000, 10 in total.",
-        "pt-BR": "[Mimirgand]\nRecuperar o poder mágico carregado pelos pecadores também é nosso dever.\nTraga 10 ^4D4DFFNúcleo Mágico Inferior de Regan^000000.",
-        "es-ES": "[Mimireugand]\nRecuperar el poder mágico que alberga el pecado también es nuestro deber.\nVe y recupera ^4D4DFFNúcleo Mágico Inferior de Regan^000000, 10 unidades."
+        "pt-BR": "[Mimirgand]\nRecuperar o poder mágico carregado pelos pecadores também é nosso dever.\nTraga 10 ^4D4DFFNúcleo Mágico Inferior de Rgan^000000.",
+        "es-ES": "[Mimirgand]\nRecuperar la magia contenida en los pecados también es nuestro deber.\nTrae 10 ^4D4DFFNúcleo Mágico Rgan Inferior^000000."
     },
     "xowPDg": {
         "en-US": "[Mimirgand]\nYoung priest.\nYou have a duty to guide the other believers.\nTake your time looking around the nest and find what you need to do on your own.",
         "pt-BR": "[Mimirgand]\nJovem sacerdote.\nVocê tem o dever de guiar os outros fiéis.\nPercorra o ninho com calma e descubra por conta própria o que precisa fazer.",
-        "es-ES": "[Mimireugand]\nJoven sacerdote.\nTienes el deber de guiar a los demás creyentes.\nRecorre el nido con calma y encuentra por ti mismo lo que debes hacer."
+        "es-ES": "[Mimirgand]\nJoven sacerdote.\nTienes el deber de guiar a los demás laicos.\nRecorre el nido con calma y descubre por tu cuenta lo que debes hacer."
     },
     "x4wPDg": {
         "en-US": "[Mimirgand]\nYou've gathered our daily sustenance again today.\nThis is the blood, sweat, and flesh of other Rgans.\nIt will become the blood, flesh, and soul of other Rgans.",
         "pt-BR": "[Mimirgand]\nHoje você também trouxe nosso alimento diário.\nIsto é o sangue, o suor e a carne de outros Rgans.\nE isto se tornará o sangue, a carne e a alma de outros Rgans.",
-        "es-ES": "[Mimireugand]\nHoy también has reunido así nuestro sustento diario.\nEsto es la sangre, el sudor y la carne de otros Regan.\nEsto se convertirá en la sangre, la carne y el alma de otros Regan."
+        "es-ES": "[Mimirgand]\nHoy también has reunido nuestro sustento diario.\nEsto es la sangre, el sudor y la carne de otros Rgan.\nSe convertirá en la sangre, la carne y el alma de otros Rgan."
     },
     "yIwPDg": {
         "en-US": "[Mimirgand]\nSin will be purified and reborn as new blood.\nYou devoted yourself wholeheartedly again today.",
         "pt-BR": "[Mimirgand]\nOs pecados serão purificados e renascerão como sangue novo.\nHoje você também cumpriu seu dever com devoção.",
-        "es-ES": "[Mimireugand]\nEl pecado será purificado y renacerá como sangre nueva.\nHoy también cumpliste tu deber con toda devoción."
+        "es-ES": "[Mimirgand]\nEl pecado será purificado y renacerá como sangre nueva.\nHoy también cumpliste con tu deber de todo corazón."
     },
     "yYwPDg": {
         "en-US": "[Mimirgand]\nBring back ^4D4DFFLow-quality Rgan Magic Core^000000 30.\nThat is our sacred duty, is it not?",
-        "pt-BR": "[Mimirgand]\nTraga 30 ^4D4DFFNúcleo Mágico Inferior de Regan^000000.\nAfinal, esse é o nosso dever sagrado.",
-        "es-ES": "[Mimireugand]\nVe y recoge ^4D4DFFNúcleo Mágico Inferior de Regan^000000, 30 unidades.\nEse es nuestro deber sagrado."
+        "pt-BR": "[Mimirgand]\nTraga 30 ^4D4DFFNúcleo Mágico Inferior de Rgan^000000.\nAfinal, esse é o nosso dever sagrado.",
+        "es-ES": "[Mimirgand]\nVe y recoge 30 ^4D4DFFNúcleo Mágico Inferior de Rgan^000000.\nEse es nuestro deber sagrado."
     },
     "yowPDg": {
         "en-US": "[Mimirgand]\nYoung priest.\nWill you not devote yourself to the cult again today?\nI mean you should fulfill your sacred duty of labor.",
         "pt-BR": "[Mimirgand]\nJovem sacerdote.\nHoje também não vai dedicar seu corpo ao culto?\nEstou dizendo para cumprir seu sagrado dever de trabalhar.",
-        "es-ES": "[Mimireugand]\nJoven sacerdote.\n¿No dedicarás hoy también todo tu ser a la orden?\nMe refiero a que cumplas con tu sagrado deber de trabajar."
+        "es-ES": "[Mimirgand]\nJoven sacerdote.\n¿No vas a dedicarte hoy también a la secta?\nMe refiero a que debes cumplir con tu sagrado deber de trabajar."
     },
     "y4wPDg": {
         "en-US": "What is it?",
@@ -547,22 +547,22 @@
     "zYwPDg": {
         "en-US": "[Mimirgand]\nI mean dispose of the vermin crawling around the Snake's Warmth and reclaim their magic.\nWe can't just stand by and watch the workers go hungry, can we?",
         "pt-BR": "[Mimirgand]\nEstou dizendo para eliminar os vermes que rastejam pelo Calor da Serpente e recuperar o poder mágico.\nNão podemos deixar aqueles que trabalham passarem fome.",
-        "es-ES": "[Mimireugand]\nTe digo que elimines a las alimañas que se arrastran por el Calor de la Serpiente y recuperes su poder mágico.\nNo podemos permitir que quienes trabajan pasen hambre."
+        "es-ES": "[Mimirgand]\nMe refiero a que elimines a las alimañas que se arrastran por la Calidez de la Serpiente y recuperes su magia.\nNo podemos quedarnos de brazos cruzados viendo cómo los trabajadores pasan hambre, ¿verdad?"
     },
     "zowPDg": {
         "en-US": "[Mimirgand]\nIt's our work anyway.\nSomeone has to do it.\nSo off you go.",
         "pt-BR": "[Mimirgand]\nDe qualquer forma, esse é o nosso trabalho.\nAlguém precisa fazê-lo.\nEntão vá.",
-        "es-ES": "[Mimireugand]\nDespués de todo, es nuestro trabajo.\nAlguien tiene que hacerlo.\nAsí que ve."
+        "es-ES": "[Mimirgand]\nDe todos modos, es nuestro trabajo.\nAlguien tiene que hacerlo.\nAsí que ve."
     },
     "z4wPDg": {
         "en-US": "[Mimirgand]\nTo pray?\nReally?\nYou're going to profess your faith with a sincere heart, aren't you?\nYou'd better not be lying.",
         "pt-BR": "[Mimirgand]\nRezar?\nÉ mesmo?\nVocê vai professar sua fé de coração sincero, não é?\nÉ melhor que não seja mentira.",
-        "es-ES": "[Mimireugand]\n¿A rezar?\n¿De verdad?\nVas a profesar tu fe con un corazón sincero, ¿verdad?\nMás vale que no sea mentira."
+        "es-ES": "[Mimirgand]\n¿A rezar?\n¿En serio?\nVas a profesar tu fe con un corazón sincero, ¿verdad?\nMás te vale no estar mintiendo."
     },
     "0IwPDg": {
         "en-US": "[Berbergand]\nAhem.\nThe unbelievers wouldn't understand, would they?\nThe grace of Jormungand...",
         "pt-BR": "[Berbergand]\nHmm-hmm.\nOs infiéis não devem saber, não é?\nA graça de Jormungand...",
-        "es-ES": "[Berbergand]\nEjem, ejem.\nLos incrédulos no lo entenderán, ¿verdad?\nLa gracia del señor Jormungand..."
+        "es-ES": "[Berbergand]\nEjem.\nLos incrédulos no lo entenderían, ¿verdad?\nLa bendición de Jormungand..."
     },
     "0YwPDg": {
         "en-US": "Berbergand",
@@ -572,112 +572,112 @@
     "0owPDg": {
         "en-US": "[Berbergand]\nWhat's this human doing here? Are you one of those unbelievers they captured? Hey, this isn't your workplace. Get out!",
         "pt-BR": "[Berbergand]\nQuem é esse humano? Foi trazido por aqueles infiéis? Ei, este não é o seu local de trabalho. Saia!",
-        "es-ES": "[Berbergand]\n¿Y este humano qué hace aquí? ¿Lo trajeron esos incrédulos? Oye, este no es tu lugar de trabajo. ¡Fuera!"
+        "es-ES": "[Berbergand]\n¿Qué hace este humano aquí? ¿Eres uno de esos incrédulos que capturaron?\n¡Oye, este no es tu lugar de trabajo! ¡Fuera!"
     },
     "04wPDg": {
         "en-US": "[Berbergand]\nOh my! A little priest!\nYou're the one everyone's been talking about, the one who hatched from an egg in the lower hatchery!",
         "pt-BR": "[Berbergand]\nOra! Um sacerdote novinho!\nEntão você é aquele de quem todos falam, que despertou de um ovo no incubatório inferior?",
-        "es-ES": "[Berbergand]\n¿Oh? ¡Pequeño sacerdote!\n¿No eres tú de quien dicen que despertó de un huevo en el criadero inferior?"
+        "es-ES": "[Berbergand]\n¡Vaya! ¡Un pequeño sacerdote!\n¡Eres de quien todos han estado hablando, el que salió de un huevo en el criadero inferior!"
     },
     "1IwPDg": {
         "en-US": "[Berbergand]\nWhat are you staring at?\nMimirgand is calling for you over there.",
         "pt-BR": "[Berbergand]\nO que está olhando?\nO Sr. Mimirgand está chamando você ali.",
-        "es-ES": "[Berbergand]\n¿Qué miras tanto?\nEl señor Mimireugand te está llamando desde allí."
+        "es-ES": "[Berbergand]\n¿Qué tanto miras?\nMimirgand te está llamando allá."
     },
     "1YwPDg": {
         "en-US": "[Berbergand]\nHmm. What should I make?\nA belt? Shoes? An ornament?\nOh, a hairpin would be nice too.\nIf it turns out well, I'll present it to Lord Rasgand.",
-        "pt-BR": "[Berbergand]\nHmm. O que devo fazer?\nUm cinto? Sapatos? Um adorno?\nAh, um grampo de cabelo também seria bom.\nSe ficar bonito, vou oferecê-lo ao Sr. Rasgand.",
-        "es-ES": "[Berbergand]\nHmm. ¿Qué podría hacer?\n¿Un cinturón? ¿Zapatos? ¿Un adorno?\nAh, una horquilla también estaría bien.\nSi queda bien, se la ofreceré al señor Rasgand."
+        "pt-BR": "[Berbergand]\nHmm. O que devo fazer?\nUm cinto? Sapatos? Um adorno?\nAh, um grampo de cabelo também seria bom.\nSe ficar bonito, vou oferecê-lo ao Sr. Ragand.",
+        "es-ES": "[Berbergand]\nMmm. ¿Qué debería hacer?\n¿Un cinturón? ¿Zapatos? ¿Un adorno?\nAh, ¡una horquilla también estaría bien!\nSi queda bien, se la regalaré al señor Ragand."
     },
     "1owPDg": {
         "en-US": "[Berbergand]\nIf I have any materials left, should I make something for you too?\nAh, so busy. So busy.",
         "pt-BR": "[Berbergand]\nSe sobrar material, faço um para você também?\nAh, estou ocupado. Muito ocupado.",
-        "es-ES": "[Berbergand]\nSi sobra material, ¿quieres que haga algo para ti también?\nAh, estoy muy ocupado. Muy ocupado."
+        "es-ES": "[Berbergand]\nSi sobra material, ¿quieres que haga algo para ti también?\nAy, cuánto trabajo. ¡Cuánto trabajo!"
     },
     "14wPDg": {
         "en-US": "[Berbergand]\nShiny Calapi!\nFluorescent liquid to use as dye!\nRound, round bellflowers!\nAnd even shells perfect for weaving...!",
         "pt-BR": "[Berbergand]\nUm Calapi bem brilhante!\nLíquido fluorescente para usar como corante!\nFlores de sino bem redondinhas!\nE até cascas ótimas para tecelagem...!",
-        "es-ES": "[Berbergand]\n¡Kalapi brillante y reluciente!\n¡Líquido fluorescente para usar como tinte!\n¡Flores campana redonditas!\n¡Y hasta caparazones perfectos para tejer...!"
+        "es-ES": "[Berbergand]\n¡Calapi relucientes!\n¡Líquido fluorescente para usar como tinte!\n¡Campanillas redondas y bonitas!\n¡Y hasta caparazones perfectos para tejer...!"
     },
     "2IwPDg": {
         "en-US": "[Berbergand]\nExcellent, excellent!\nAs expected, you're a priest blessed with abundant grace!",
         "pt-BR": "[Berbergand]\nExcelente, excelente!\nComo esperado, você é um sacerdote que recebeu muita graça, não é?",
-        "es-ES": "[Berbergand]\n¡Excelente, excelente!\nComo esperaba, eres un sacerdote que ha recibido una gran cantidad de gracia, ¿verdad?"
+        "es-ES": "[Berbergand]\n¡Excelente, excelente!\nComo era de esperar, ¡eres un sacerdote bendecido con abundante gracia!"
     },
     "2YwPDg": {
         "en-US": "[Berbergand]\nNow, this was a deal, right?\nHere's your reward for your hard work.\nIf you have some time to spare, I'll ask for your help again next time.",
         "pt-BR": "[Berbergand]\nCerto, isso foi uma troca, não foi?\nEsta é a recompensa pelo seu esforço.\nSe tiver tempo, vou pedir sua ajuda de novo na próxima vez.",
-        "es-ES": "[Berbergand]\nBien, esto era un trato, ¿no?\nEsta es la recompensa por tu esfuerzo.\nSi tienes tiempo, volveré a pedirte ayuda la próxima vez."
+        "es-ES": "[Berbergand]\nBien, esto era un trato, ¿no?\nAquí tienes tu recompensa por todo tu esfuerzo.\nSi tienes tiempo, volveré a pedirte ayuda la próxima vez."
     },
     "2owPDg": {
-        "en-US": "[Berbergand]\nHmm? Want me to list the materials again? Listen carefully.\nCalmaring's Calapi 10\nLimacina's fluorescent liquid 10\nUnfrost Flower's Bait Bell Flower 10\nIce Straw's Thin Tough Shell 10",
-        "pt-BR": "[Berbergand]\nHm? Quer que eu repita os materiais? Preste atenção.\nCalapi de Calamaring 10 unidades\nLíquido fluorescente de Limacina 10 unidades\nFlor-Isca de Bolhas de Flor que Não Congela 10 unidades\nCasca Fina e Resistente de Palha de Gelo 10 unidades",
-        "es-ES": "[Berbergand]\n¿Hmm? ¿Quieres que te repita los materiales? Escucha bien.\nKalapi de Kalamaring 10 unidades\nLíquido fluorescente de Limakina 10 unidades\nFlor campana de cebo de Flor que no se congela 10 unidades\nCaparazón fino y resistente de Ice Straw 10 unidades"
+        "en-US": "[Berbergand]\nHmm? Want me to list the materials again? Listen carefully.\nCalamaring's Calapi 10\nLimacina's fluorescent liquid 10\nUnfrost Flower's Bait Bell Flower 10\nIce Wigglers' Thin Tough Shell 10",
+        "pt-BR": "[Berbergand]\nHm? Quer que eu repita os materiais? Preste atenção.\nCalapi de Calamaring 10 unidades\nLíquido fluorescente de Limacina 10 unidades\nFlor-Isca de Bolhas de Garoupa Glaciflor 10 unidades\nCasca Fina e Resistente de Palha de Gelo 10 unidades",
+        "es-ES": "[Berbergand]\n¿Mmm? ¿Quieres que te repita los materiales? Escucha con atención.\nCalapi de Calamaring: 10\nLíquido fluorescente de Limacina: 10\nFlor Campanilla de Cebo de Glacidonte Gélido: 10\nCaparazón fino y resistente de Gusanieves: 10"
     },
     "24wPDg": {
         "en-US": "[Berbergand]\nYou can find all of them in both the glacier and plains areas.\nDon't tell me that's too difficult?\nSomeone like you should have no trouble. If you get them for me, I'll give you the Snow Flower Petal I've saved up.\nTempting, isn't it?",
-        "pt-BR": "[Berbergand]\nDá para encontrar todos eles tanto na geleira quanto nas planícies.\nNão me diga que é difícil?\nPara alguém como você, deve ser tranquilo. Se conseguir, eu lhe dou as Pétala de Flor de Neve que guardei.\nTentador, não é?",
-        "es-ES": "[Berbergand]\nTodos se pueden encontrar tanto en la zona del glaciar como en la de las llanuras.\nNo me digas que te parece difícil.\nCreo que alguien como tú puede hacerlo sin problemas. Si me los consigues, te daré Pétalo de Copo de Nieve que he estado guardando.\nSuena tentador, ¿verdad?"
+        "pt-BR": "[Berbergand]\nDá para encontrar todos eles tanto na geleira quanto nas planícies.\nNão me diga que é difícil?\nPara alguém como você, deve ser tranquilo. Se conseguir, eu lhe dou as Pétalas de Flor de Neve que guardei.\nTentador, não é?",
+        "es-ES": "[Berbergand]\nPuedes encontrar todos estos materiales tanto en la zona del glaciar como en la de las llanuras.\nNo me digas que es demasiado difícil.\nAlguien como tú no debería tener ningún problema. Si me los consigues, te daré los Pétalo de Copo de Nieve que he estado guardando.\nTentador, ¿verdad?"
     },
     "3IwPDg": {
         "en-US": "[Berbergand]\nHmm? You think things seem a little chaotic?\nOh, that happens sometimes.\nWe're moving somewhere with more magic remaining than here.\nBut never mind that.",
         "pt-BR": "[Berbergand]\nHm? Está dizendo que as coisas estão meio agitadas?\nAh, isso acontece de vez em quando.\nEles estão se mudando para um lugar onde ainda resta mais poder mágico do que aqui.\nMas isso não importa.",
-        "es-ES": "[Berbergand]\n¿Hmm? ¿Dices que hay algo de alboroto?\nBueno, eso pasa de vez en cuando.\nSe trasladan a un lugar donde queda más poder mágico que aquí.\nPero eso da igual."
+        "es-ES": "[Berbergand]\n¿Mmm? ¿Te parece que hay un poco de desorden?\nBueno, eso pasa de vez en cuando.\nNos estamos trasladando a un lugar donde queda más magia que aquí.\nPero no importa."
     },
     "3YwPDg": {
         "en-US": "[Berbergand]\nHey, if you have some time, could you help me out?\nI'm trying to make some accessories, but I'm a little short on materials.",
         "pt-BR": "[Berbergand]\nEi, se tiver tempo, pode me ajudar?\nQuero fazer alguns acessórios, mas estou com dificuldade para conseguir os materiais.",
-        "es-ES": "[Berbergand]\nOye, si tienes tiempo, ¿me ayudas un poco?\nQuiero hacer algunos accesorios, pero no tengo muy claro qué materiales usar."
+        "es-ES": "[Berbergand]\nOye, si tienes tiempo, ¿me ayudas un poco?\nQuiero fabricar algunos accesorios, pero me faltan ciertos materiales."
     },
     "3owPDg": {
         "en-US": "[Berbergand]\nThe things those unbelievers bring in are nice too, but I still prefer things made the traditional way.\nYou know, handmade.",
         "pt-BR": "[Berbergand]\nAs coisas trazidas por aqueles infiéis até são boas, mas eu prefiro mesmo as feitas do jeito tradicional.\nEstou falando de artesanato.",
-        "es-ES": "[Berbergand]\nLo que traen esos incrédulos también está bien, pero yo prefiero lo hecho al estilo tradicional.\nMe refiero a la artesanía."
+        "es-ES": "[Berbergand]\nLo que traen esos incrédulos también está bien, pero yo prefiero lo hecho al estilo tradicional.\nYa sabes, hecho a mano."
     },
     "34wPDg": {
         "en-US": "[Berbergand]\nI made Mimirgand's accessories too, you know?\nJormungand's scale garments are pretty, but adding coral decorations makes them even more splendid.",
         "pt-BR": "[Berbergand]\nFui eu quem fez os acessórios do Sr. Mimirgand. Sabia?\nAs vestes de escamas do Sr. Jormungand também são bonitas, mas ficam ainda mais vistosas com adornos de coral.",
-        "es-ES": "[Berbergand]\nLos accesorios del señor Mimireugand también los hice yo. Lo sabes, ¿verdad?\nLa vestimenta de escamas del señor Jormungand también es bonita, pero con adornos de coral se ve mucho más vistosa."
+        "es-ES": "[Berbergand]\nYo también hice los accesorios de Mimirgand, ¿lo sabías?\nLas vestiduras de escamas de Jormungand son bonitas, pero con adornos de coral quedan aún más espléndidas."
     },
     "4IwPDg": {
         "en-US": "[Berbergand]\nBut there's a limit to what I can make with the materials available here.\nIf I want something more colorful, I need materials from outside.\nCould you help me?",
         "pt-BR": "[Berbergand]\nMas há um limite para os materiais que conseguimos obter aqui.\nPara deixá-los mais coloridos, precisamos de coisas de fora.\nPode me ajudar?",
-        "es-ES": "[Berbergand]\nPero hay un límite a lo que puedo hacer con los materiales que se consiguen aquí.\nSi quiero hacerlo más colorido, necesito cosas del exterior.\n¿Me ayudas?"
+        "es-ES": "[Berbergand]\nPero hay un límite a lo que puedo hacer con los materiales que se consiguen aquí.\nSi quiero algo más colorido, necesito materiales del exterior.\n¿Podrías ayudarme?"
     },
     "4YwPDg": {
         "en-US": "Why not?",
         "pt-BR": "Por que não?",
-        "es-ES": "¿Lo hago?"
+        "es-ES": "¿Por qué no?"
     },
     "4owPDg": {
         "en-US": "Sorry, I'm busy right now.",
         "pt-BR": "Desculpe, estou ocupado agora.",
-        "es-ES": "Lo siento, ahora estoy ocupado."
+        "es-ES": "Lo siento, pero no tengo tiempo."
     },
     "44wPDg": {
         "en-US": "[Berbergand]\nGreat! Then I'll tell you the materials I need to make some delicate accessories!\nYou can get all of them by hunting creatures that live in the glacier and plains areas.",
         "pt-BR": "[Berbergand]\nÓtimo! Então vou lhe dizer quais materiais são necessários para fazer acessórios delicados!\nDá para conseguir todos eles derrotando criaturas que vivem na geleira e nas planícies.",
-        "es-ES": "[Berbergand]\n¡Bien! ¡Entonces te diré qué materiales necesito para hacer accesorios delicados!\nPuedes conseguirlos todos derrotando a las criaturas que habitan en las zonas del glaciar y las llanuras."
+        "es-ES": "[Berbergand]\n¡Genial! Entonces te diré qué materiales necesito para fabricar unos accesorios delicados.\nPuedes conseguirlos cazando criaturas que habitan en las zonas del glaciar y las llanuras."
     },
     "5IwPDg": {
-        "en-US": "[Berbergand]\nCalmaring's Calapi 10\nLimacina's fluorescent liquid 10\nUnfrost Flower's Bait Bell Flower 10\nIce Straw's Thin Tough Shell 10",
-        "pt-BR": "[Berbergand]\nCalapi de Calamaring 10 unidades\nLíquido fluorescente de Limacina 10 unidades\nFlor-Isca de Bolhas de Flor que Não Congela 10 unidades\nCasca Fina e Resistente de Palha de Gelo 10 unidades",
-        "es-ES": "[Berbergand]\nKalapi de Kalamaring 10 unidades\nLíquido fluorescente de Limakina 10 unidades\nFlor campana de cebo de Flor que no se congela 10 unidades\nCaparazón fino y resistente de Ice Straw 10 unidades"
+        "en-US": "[Berbergand]\nCalamaring's Calapi 10\nLimacina's fluorescent liquid 10\nUnfrost Flower's Bait Bell Flower 10\nIce Wigglers' Thin Tough Shell 10",
+        "pt-BR": "[Berbergand]\nCalapi de Calamaring 10 unidades\nLíquido fluorescente de Limacina 10 unidades\nFlor-Isca de Bolhas de Garoupa Glaciflor 10 unidades\nCasca Fina e Resistente de Palha de Gelo 10 unidades",
+        "es-ES": "[Berbergand]\nCalapi de Calamaring: 10\nLíquido fluorescente de Limacina: 10\nFlor Campanilla de Cebo de Glacidonte Gélido: 10\nCaparazón fino y resistente de Gusanieves: 10"
     },
     "5YwPDg": {
         "en-US": "[Berbergand]\nGot it? Don't forget, okay?\nI'll be here working on the scales, so make sure you bring everything back!",
         "pt-BR": "[Berbergand]\nLembrou? Não vá esquecer, hein?\nVou ficar aqui trabalhando nas escamas, então não deixe de trazer os materiais!",
-        "es-ES": "[Berbergand]\n¿Lo recordaste? No vayas a olvidarlo, ¿eh?\nYo estaré aquí trabajando las escamas, ¡así que asegúrate de traerlos!"
+        "es-ES": "[Berbergand]\n¿Lo recuerdas? No te olvides, ¿de acuerdo?\nEstaré aquí trabajando las escamas, ¡así que asegúrate de traerlo todo!"
     },
     "5owPDg": {
         "en-US": "[Berbergand]\nIf you're ever heading out to the glacier or plains, let me know.\nI have a favor to ask.",
         "pt-BR": "[Berbergand]\nSe for dar uma volta pela geleira ou pelas planícies, me avise.\nTenho um favor para pedir.",
-        "es-ES": "[Berbergand]\nSi alguna vez sales a pasear por la zona del glaciar o las llanuras, avísame.\nTengo algo que pedirte."
+        "es-ES": "[Berbergand]\nSi vas a salir de paseo por la zona del glaciar o las llanuras, avísame.\nTengo un favor que pedirte."
     },
     "54wPDg": {
         "en-US": "[Berbergand]\nHow do you think you'd feel if you woke up one day and suddenly found yourself as a Primitive Rgan?",
-        "pt-BR": "[Berbergand]\nComo acha que se sentiria se um dia acordasse e de repente tivesse se tornado um Regan Primitivo?",
-        "es-ES": "[Berbergand]\n¿Cómo crees que te sentirías si un día despertaras y de repente fueras un Regan primitivo?"
+        "pt-BR": "[Berbergand]\nComo acha que se sentiria se um dia acordasse e de repente tivesse se tornado um Rgan Primitivo?",
+        "es-ES": "[Berbergand]\n¿Cómo te sentirías si un día te despertaras y descubrieras que te has convertido en un Rgan Primitivo?"
     },
     "6IwPDg": {
         "en-US": "Hanadeosaragand",
@@ -686,38 +686,38 @@
     },
     "6YwPDg": {
         "en-US": "[Hanadeosaragand]\nKyaaaaaaah!!!!!!!! Human!! Workplace!! Not here!!!",
-        "pt-BR": "[Hanadeosaragand]\nAaaaaah!!!!!!!! Humano!! Local de trabalho!! Aqui não!!!",
-        "es-ES": "[Hanadeosaragand]\n¡¡¡¡¡¡¡¡Aaaaaah!!!!!!!! ¡¡Humano!! ¡¡Lugar de trabajo!! ¡¡¡Aquí no!!!"
+        "pt-BR": "[Hanadeosaragand]\nAaaaaah!!! Humano!!! Local de trabalho! Aqui não!!!",
+        "es-ES": "[Hanadosaragand]\n¡¡¡Aaaaaahhhhhh!!!!!!!! ¡Humano! ¡Lugar de trabajo! ¡¡¡Aquí no!!!"
     },
     "6owPDg": {
         "en-US": "[Hanadeosaragand]\nMust go mine ice. I go.\nSafe? It is safe, Priest?\nI go mine ice.",
-        "pt-BR": "[Hanadeosaragand]\nPreciso ir minerar gelo. Vou.\nSeguro? Está seguro, sacerdote?\nVou minerar gelo.",
-        "es-ES": "[Hanadeosaragand]\nTengo que ir a sacar hielo. Voy.\n¿Seguro? Es seguro, ¿verdad, sacerdote?\nVoy a sacar hielo."
+        "pt-BR": "[Hanadosaragand]\nPreciso ir minerar gelo. Vou.\nSeguro? Está seguro, sacerdote?\nVou minerar gelo.",
+        "es-ES": "[Hanadosaragand]\nTengo que ir a extraer hielo. Me voy.\n¿Seguro? ¿Es seguro, sacerdote?\nVoy a extraer hielo."
     },
     "64wPDg": {
-        "en-US": "[Hanadeosaragand]\nLimacina in front of cave entrance scary.\nSave me, Priest.\nCalmaring scary too, Priest.",
-        "pt-BR": "[Hanadeosaragand]\nLimacina na entrada da caverna dá medo.\nSalve-me. Sacerdote.\nCalamaring também dá medo. Sacerdote.",
-        "es-ES": "[Hanadeosaragand]\nLimakina frente a la entrada de la cueva da miedo.\nSálveme, sacerdote.\nKalamaring también da miedo. Sacerdote."
+        "en-US": "[Hanadeosaragand]\nLimacina in front of cave entrance scary.\nSave me, Priest.\nCalamaring scary too, Priest.",
+        "pt-BR": "[Hanadosaragand]\nLimacina na entrada da caverna dá medo.\nSalve-me. Sacerdote.\nCalamaring também dá medo. Sacerdote.",
+        "es-ES": "[Hanadosaragand]\nLa Limacina que está frente a la entrada de la cueva da miedo.\nSálvame, sacerdote.\nEl Calamaring también da miedo, sacerdote."
     },
     "7IwPDg": {
-        "en-US": "[Hanadeosaragand]\nPlease help poor worker mine ice.\nScary Limacina. Calmaring.. please get rid of them.",
-        "pt-BR": "[Hanadeosaragand]\nAjude este pobre trabalhador a minerar gelo.\nLimacina assustadora. Calamaring.. tire elas de lá.",
-        "es-ES": "[Hanadeosaragand]\nAyude a este pobre trabajador a sacar hielo.\nEl aterrador Limakina. Kalamaring.. elimínelos, por favor."
+        "en-US": "[Hanadeosaragand]\nPlease help poor worker mine ice.\nScary Limacina. Calamaring.. please get rid of them.",
+        "pt-BR": "[Hanadosaragand]\nAjude este pobre trabalhador a minerar gelo.\nLimacina assustadora. Calamaring... tire elas de lá.",
+        "es-ES": "[Hanadosaragand]\nPor favor, ayuda a este pobre trabajador a extraer hielo.\nLa Limacina da miedo. El Calamaring... por favor, deshazte de ellos."
     },
     "7YwPDg": {
         "en-US": "[Hanadeosaragand]\nCan I go now?\nPriest. Can I go mine ice now?\nThank you. Thank you.\nI give you all this I gathered. Thank you.",
-        "pt-BR": "[Hanadeosaragand]\nAgora posso ir?\nSacerdote. Posso ir minerar gelo?\nObrigado. Obrigado.\nVou lhe dar tudo o que juntei. Obrigado.",
-        "es-ES": "[Hanadeosaragand]\n¿Ya puedo ir?\nSacerdote. ¿Ya puedo ir a sacar hielo?\nGracias. Gracias.\nLe daré todo lo que reuní. Gracias."
+        "pt-BR": "[Hanadosaragand]\nAgora posso ir?\nSacerdote. Posso ir minerar gelo?\nObrigado. Obrigado.\nVou lhe dar tudo o que juntei. Obrigado.",
+        "es-ES": "[Hanadosaragand]\n¿Ya puedo irme?\nSacerdote, ¿ya puedo ir a extraer hielo?\nGracias. Gracias.\nTe daré todo esto que he recolectado. Gracias."
     },
     "7owPDg": {
         "en-US": "[Hanadeosaragand]\nPriest, Priest.\nNeed help.. urgent. Save me.\nVery scary.",
-        "pt-BR": "[Hanadeosaragand]\nSacerdote, sacerdote.\nPedido de ajuda.. urgente. Salve-me.\nMuito assustador.",
-        "es-ES": "[Hanadeosaragand]\nSacerdote, sacerdote\nPido ayuda.. urgente. Sálveme.\nTengo mucho miedo."
+        "pt-BR": "[Hanadosaragand]\nSacerdote, sacerdote.\nPedido de ajuda... urgente. Salve-me.\nMuito assustador.",
+        "es-ES": "[Hanadosaragand]\nSacerdote, sacerdote.\nNecesito ayuda... urgente. Sálvame.\nDa muchísimo miedo."
     },
     "74wPDg": {
         "en-US": "[Hanadeosaragand]\nEveryone moved.. nest!\nBut I must keep mining ice here.\nPriest, Priest, you stayed to work, right?\nPlease help.",
-        "pt-BR": "[Hanadeosaragand]\nTodos mudaram de ninho.. foram embora!\nMas eu preciso continuar minerando gelo aqui.\nSacerdote, sacerdote, ficou para trabalhar, certo?\nAjude-me.",
-        "es-ES": "[Hanadeosaragand]\nTodos se mudaron de nido.. ¡lo hicieron!\nPero yo tengo que seguir sacando hielo aquí.\nSacerdote, sacerdote, ¿usted se quedó para trabajar, verdad?\nAyúdeme."
+        "pt-BR": "[Hanadosaragand]\nTodos mudaram de ninho... foram embora!\nMas eu preciso continuar minerando gelo aqui.\nSacerdote, sacerdote, ficou para trabalhar, certo?\nAjude-me.",
+        "es-ES": "[Hanadosaragand]\n¡Todos se mudaron a otro nido!\nPero yo tengo que seguir extrayendo hielo aquí.\nSacerdote, sacerdote, tú te quedaste a trabajar, ¿verdad?\nPor favor, ayúdame."
     },
     "8IwPDg": {
         "en-US": "What's wrong?",
@@ -732,32 +732,32 @@
     "8owPDg": {
         "en-US": "You want me to clear out the monsters outside the cave?",
         "pt-BR": "Quer que eu elimine os monstros fora da caverna?",
-        "es-ES": "¿Quieres que elimine a los monstruos fuera de la cueva?"
+        "es-ES": "¿Quieres que elimine a los monstruos que están fuera de la cueva?"
     },
     "84wPDg": {
         "en-US": "[Hanadeosaragand]\nYes. Yes.\nOne died mining ice. Two died.\nHanadeosara wants to mine ice.\nPlease help, Priest.",
-        "pt-BR": "[Hanadeosaragand]\nIsso. Isso.\nUm morreu minerando gelo. Dois morreram.\nHanadeosaragand quer minerar gelo.\nAjude-me. Sacerdote.",
-        "es-ES": "[Hanadeosaragand]\nSí. Sí.\nUno murió sacando hielo. Dos murieron.\nHanadeosara quiere sacar hielo.\nAyúdeme. Sacerdote."
+        "pt-BR": "[Hanadosaragand]\nIsso. Isso.\nUm morreu minerando gelo. Dois morreram.\nHanadosaragand quer minerar gelo.\nAjude-me. Sacerdote.",
+        "es-ES": "[Hanadosaragand]\nSí. Sí.\nUno murió extrayendo hielo. Dos murieron.\nHanadeosara quiere extraer hielo.\nPor favor, ayúdame, sacerdote."
     },
     "9IwPDg": {
         "en-US": "All right.",
         "pt-BR": "Certo.",
-        "es-ES": "Entendido."
+        "es-ES": "Está bien."
     },
     "9YwPDg": {
         "en-US": "Still, go find another priest.",
         "pt-BR": "Melhor procurar outro sacerdote mesmo.",
-        "es-ES": "Mejor busca a otro sacerdote."
+        "es-ES": "Ve a buscar a otro sacerdote."
     },
     "9owPDg": {
         "en-US": "[Hanadeosaragand]\nThen, then clear front of cave and tell me.\nPlease. I must go mine ice.\nPlease, Priest.",
-        "pt-BR": "[Hanadeosaragand]\nEntão, então, limpe a entrada da caverna e me avise.\nPor favor. Preciso ir minerar gelo.\nPor favor. Sacerdote.",
-        "es-ES": "[Hanadeosaragand]\nEntonces, entonces, limpie frente a la cueva y avíseme.\nPor favor. Tengo que ir a sacar hielo.\nPor favor. Sacerdote."
+        "pt-BR": "[Hanadosaragand]\nEntão, então, limpe a entrada da caverna e me avise.\nPor favor. Preciso ir minerar gelo.\nPor favor. Sacerdote.",
+        "es-ES": "[Hanadosaragand]\nEntonces, entonces despeja la entrada de la cueva y avísame.\nPor favor. Tengo que ir a extraer hielo.\nPor favor, sacerdote."
     },
     "94wPDg": {
         "en-US": "[Hanadeosaragand]\nUnderstood.\nAnother priest. Another priest...",
-        "pt-BR": "[Hanadeosaragand]\nEntendi.\nOutro sacerdote. Outro sacerdote...",
-        "es-ES": "[Hanadeosaragand]\nEntendido.\nOtro sacerdote. Otro sacerdote..."
+        "pt-BR": "[Hanadosaragand]\nEntendi.\nOutro sacerdote. Outro sacerdote...",
+        "es-ES": "[Hanadosaragand]\nEntendido.\nOtro sacerdote. Otro sacerdote..."
     },
     "+IwPDg": {
         "en-US": "[Hanadeosaragand]\nI wonder if Yogemansara survived...\nGeogeodasara got dragged away...\nHuh...?",
@@ -765,24 +765,24 @@
         "es-ES": "[Hanadeosaragand]\n¿Yogeomansara habrá sobrevivido...?\nGeogeodasara fue arrastrado...\n¿Eh...?"
     },
     "+YwPDg": {
-        "en-US": "Iwin Soldier",
-        "pt-BR": "Soldado Arwin",
-        "es-ES": "Soldado de Awin"
+        "en-US": "Windcy Soldier",
+        "pt-BR": "Soldado Nevento",
+        "es-ES": "Soldado Neviento"
     },
     "+owPDg": {
-        "en-US": "[Iwin Soldier]\nGot some business at the barracks?\nThe room on the left is for the patrol, and Vellgunde is in the room on the right.\nA human called Maram is selling things too.\nThey had a lot of interesting stuff.",
-        "pt-BR": "[Soldado Arwin]\nTem algum assunto no quartel?\nA sala à esquerda do quartel é da patrulha, e o Sr. Vellgunde fica na sala à direita.\nUm humano chamado Maram também está fazendo comércio por aqui.\nTem um monte de coisas interessantes.",
-        "es-ES": "[Soldado de Awin]\n¿Tienes algún asunto en el cuartel?\nLa patrulla está en la habitación de la izquierda, y el señor Vellgunde está en la de la derecha.\nTambién hay un humano llamado Maram que comercia aquí.\nTiene muchas cosas curiosas."
+        "en-US": "[Windcy Soldier]\nGot some business at the barracks?\nThe room on the left is for the patrol, and Vellgunde is in the room on the right.\nA human called Maram is selling things too.\nThey had a lot of interesting stuff.",
+        "pt-BR": "[Soldado Nevento]\nTem algum assunto no quartel?\nA sala à esquerda do quartel é da patrulha, e o Sr. Vellgunde fica na sala à direita.\nUm humano chamado Maram também está fazendo comércio por aqui.\nTem um monte de coisas interessantes.",
+        "es-ES": "[Soldado Neviento]\n¿Tienes algún asunto en el cuartel?\nLa patrulla está en la habitación de la izquierda, y el señor Vellgunde está en la de la derecha.\nTambién hay un humano llamado Maram que comercia aquí.\nTiene muchas cosas curiosas."
     },
     "+4wPDg": {
-        "en-US": "[Iwin Soldier]\nI mean... even if this is the training grounds...\nIs there really any point in clearing the snow? Is there?",
-        "pt-BR": "[Soldado Arwin]\nNão... por mais que isto seja um campo de treinamento...\nSerá que faz sentido ficar tirando a neve? Faz?",
-        "es-ES": "[Soldado de Awin]\nNooo... aunque esto sea un campo de entrenamiento...\n¿De verdad tiene sentido quitar toda esta nieve? ¿Lo tiene?"
+        "en-US": "[Windcy Soldier]\nI mean... even if this is the training grounds...\nIs there really any point in clearing the snow? Is there?",
+        "pt-BR": "[Soldado Nevento]\nNão... por mais que isto seja um campo de treinamento...\nSerá que faz sentido ficar tirando a neve? Faz?",
+        "es-ES": "[Soldado Neviento]\nNooo... aunque esto sea un campo de entrenamiento...\n¿De verdad tiene sentido quitar toda esta nieve? ¿Lo tiene?"
     },
     "/IwPDg": {
-        "en-US": "[Iwin Soldier]\nAh... You mean it's only this bad because we clear it before it piles up?\nWell, that's true.\nBut still...",
-        "pt-BR": "[Soldado Arwin]\nAh... Então só está assim porque vocês tiram a neve antes que ela se acumule?\nÉ verdade.\nMas... mesmo assim...",
-        "es-ES": "[Soldado de Awin]\nAh... ¿dices que está así porque la quitamos antes de que se acumule?\nBueno, eso sí.\nNooo... aun así..."
+        "en-US": "[Windcy Soldier]\nAh... You mean it's only this bad because we clear it before it piles up?\nWell, that's true.\nBut still...",
+        "pt-BR": "[Soldado Nevento]\nAh... Então só está assim porque vocês tiram a neve antes que ela se acumule?\nÉ verdade.\nMas... mesmo assim...",
+        "es-ES": "[Soldado Neviento]\nAh... ¿Así que está relativamente controlado porque lo limpiamos antes de que se acumule?\nBueno, eso es cierto.\nPero aun así..."
     },
     "/YwPDg": {
         "en-US": "Gyurur",
@@ -792,32 +792,32 @@
     "/owPDg": {
         "en-US": "[Gyurur]\nI like having so many humans around these days.\nBefore you all came, I couldn't even tell time was passing.\nLeon and Aurelie were asleep most of the time...",
         "pt-BR": "[Gyurur]\nÉ bom ter tantos humanos vindo ultimamente.\nAntes de vocês chegarem, eu nem percebia o tempo passando.\nO Sr. Leon e a Sra. Aurelie passavam quase todo o tempo dormindo...",
-        "es-ES": "[Gyurur]\nMe gusta que últimamente vengan tantos humanos.\nAntes de que llegaran ustedes, ni siquiera me daba cuenta de que pasaba el tiempo.\nEl señor Leon y la señora Aurelie casi siempre estaban durmiendo..."
+        "es-ES": "[Gyurur]\nMe gusta que últimamente vengan tantos humanos.\nAntes de que ustedes llegaran, ni siquiera me daba cuenta de que el tiempo pasaba.\nEl señor Leon y la señora Aurelie se la pasaban durmiendo..."
     },
     "/4wPDg": {
         "en-US": "They just slept?",
         "pt-BR": "Eles só dormiam?",
-        "es-ES": "¿Solo dormían?"
+        "es-ES": "¿¡Solo dormían?"
     },
     "AI0PDg": {
         "en-US": "[Gyurur]\nEven so, they somehow wake up whenever something happens.\nThey say they see everything in their dreams.\nIsn't that amazing?",
         "pt-BR": "[Gyurur]\nMesmo assim, quando acontece alguma coisa, eles acordam como se soubessem de tudo.\nDizem que veem tudo nos sonhos.\nIncrível, não é?",
-        "es-ES": "[Gyurur]\nAun así, cuando pasa algo, se despiertan como si lo supieran de antemano.\nDicen que lo ven todo en sueños.\n¿Curioso, verdad?"
+        "es-ES": "[Gyurur]\nAun así, cuando pasa algo, se despiertan como si lo supieran de antemano.\nDicen que lo ven todo en sueños.\n¿No es increíble?"
     },
     "AY0PDg": {
         "en-US": "Ttoruru",
-        "pt-BR": "Ttorur",
+        "pt-BR": "Torur",
         "es-ES": "Ttoruru"
     },
     "Ao0PDg": {
         "en-US": "[Ttoruru]\nYou know, Lord Varmundt used to visit often long ago.\nWe have lodging and a dining hall for humans that were built back then.",
-        "pt-BR": "[Ttorur]\nAntigamente, o Sr. Varmundt vinha nos visitar com frequência.\nNaquela época, construíram alojamentos e um refeitório exclusivos para humanos.",
-        "es-ES": "[Ttoruru]\nHace tiempo, el señor Varmundt venía a visitarnos seguido, ¿sabes?\nEn aquella época construimos alojamiento y un comedor exclusivos para humanos."
+        "pt-BR": "[Torur]\nAntigamente, o Sr. Varmundt vinha nos visitar com frequência.\nNaquela época, construíram alojamentos e um refeitório exclusivos para humanos.",
+        "es-ES": "[Toruru]\nHace mucho tiempo, el señor Varmundt venía a visitarnos a menudo.\nEn aquel entonces construyeron un alojamiento y un comedor exclusivos para humanos."
     },
     "A40PDg": {
         "en-US": "[Ttoruru]\nDining hall on the left, lodging on the right.\nGot it?",
-        "pt-BR": "[Ttorur]\nO refeitório fica à esquerda, e os alojamentos, à direita.\nEntendeu?",
-        "es-ES": "[Ttoruru]\nEl comedor está a la izquierda y el alojamiento a la derecha.\n¿Entendido?"
+        "pt-BR": "[Torur]\nO refeitório fica à esquerda, e os alojamentos, à direita.\nEntendeu?",
+        "es-ES": "[Toruru]\nEl comedor está a la izquierda y el alojamiento a la derecha.\n¿Entendido?"
     },
     "BI0PDg": {
         "en-US": "Sharyara",
@@ -827,7 +827,7 @@
     "BY0PDg": {
         "en-US": "[Sharyara]\nYou've been working hard infiltrating the Rgan nest lately.\nGoing undercover again today?\nThe icy roads are hard to walk on. Want some help?",
         "pt-BR": "[Syaryara]\nVocê tem trabalhado bastante ultimamente, se infiltrando no ninho dos Rgan.\nVai se infiltrar de novo hoje?\nDeve ser difícil andar no gelo. Quer uma ajudinha?",
-        "es-ES": "[Sharyara]\nÚltimamente has trabajado mucho infiltrándote en el nido de Rgan.\n¿Hoy también vas a infiltrarte?\nDebe ser difícil caminar con tanto hielo. ¿Quieres que te ayude un poco?"
+        "es-ES": "[Sharyara]\nÚltimamente has trabajado mucho infiltrándote en el nido de Rgan.\n¿Vas a infiltrarte otra vez hoy?\nLos caminos helados son difíciles de recorrer. ¿Quieres que te ayude?"
     },
     "Bo0PDg": {
         "en-US": "Can you send me to the Snake's Nest?",
@@ -842,17 +842,17 @@
     "CI0PDg": {
         "en-US": "[Sharyara]\nRemember how you transformed into a Rgan and headed over there last time?\nThat was really fun. I made sure to remember the route.\nI'll send you straight to the nest entrance, so hurry inside. Got it?",
         "pt-BR": "[Syaryara]\nDa última vez, você se transformou em Rgan e foi direto para lá, lembra?\nFoi muito divertido. Eu memorizei bem o caminho naquela vez.\nVou lançar você direto até a entrada do ninho, então entre rapidinho. Entendeu?",
-        "es-ES": "[Sharyara]\nLa otra vez te transformaste en Rgan y fuiste para allá, ¿recuerdas?\nFue muy divertido. Me aprendí bien el camino entonces.\nTe lanzaré directo a la entrada del nido, así que entra rápido. ¿Entendido?"
+        "es-ES": "[Sharyara]\n¿Recuerdas que la última vez te transformaste en un Rgan y fuiste para allá?\nFue muy divertido. Me aprendí bien el camino entonces.\nTe lanzaré directo a la entrada del nido, así que entra rápido. ¿Entendido?"
     },
     "CY0PDg": {
-        "en-US": "[Sharyara]\nIf you ever feel like you're going to slip on the way, just tell me.\nI'm the Ice Castle's express-delivery Iwin, you know.\nSending one human flying is nothing.",
-        "pt-BR": "[Syaryara]\nSe achar que vai escorregar no caminho, é só falar.\nEu sou um Arwin do serviço expresso do Castelo de Gelo.\nMandar um humano voando para lá não é nada para mim.",
-        "es-ES": "[Sharyara]\nSi crees que vas a resbalarte por el camino, avísame.\nSoy Awin, el servicio de entrega rápida del Castillo de Hielo.\nLanzar a un humano por los aires no es nada para mí."
+        "en-US": "[Sharyara]\nIf you ever feel like you're going to slip on the way, just tell me.\nI'm the Ice Castle's express-delivery Windcy, you know.\nSending one human flying is nothing.",
+        "pt-BR": "[Syaryara]\nSe achar que vai escorregar no caminho, é só falar.\nEu sou um Nevento do serviço expresso do Castelo de Gelo.\nMandar um humano voando para lá não é nada para mim.",
+        "es-ES": "[Sharyara]\nSi crees que vas a resbalarte por el camino, avísame.\nSoy el Neviento de entregas exprés del Castillo de Hielo.\n¡Lanzar a un humano por los aires no es nada para mí!"
     },
     "Co0PDg": {
         "en-US": "[Sharyara]\nWatch out for the ice, okay?\nIt's suuuper slippery~!",
-        "pt-BR": "[Syaryara]\nCuidado com o gelo, viu?\nÉ muito escorregadio~?",
-        "es-ES": "[Sharyara]\nTen cuidado con el hielo, ¿sí?\nEs muuuy resbaloso~."
+        "pt-BR": "[Syaryara]\nCuidado com o gelo, viu?\nÉ muito escorregadio?",
+        "es-ES": "[Sharyara]\nTen cuidado con el hielo, ¿sí?\n¡Es muuuy resbaloso!"
     },
     "C40PDg": {
         "en-US": "Sharyararara",
@@ -862,7 +862,7 @@
     "DI0PDg": {
         "en-US": "[Sharyara]\nHey! It's me, Sharyara!\nAre you heading back to the Ice Castle?\nWant to go together?",
         "pt-BR": "[Syaryara]\nEi! Sou eu, Syaryara.\nVai voltar para o Castelo de Gelo?\nQuer ir comigo?",
-        "es-ES": "[Sharyara]\n¡Oye! Soy yo, Sharyara.\n¿Vas a volver al Castillo de Hielo?\n¿Vamos juntos?"
+        "es-ES": "[Sharyara]\n¡Oye! ¡Soy yo, Sharyara!\n¿Vas de regreso al Castillo de Hielo?\n¿Vamos juntos?"
     },
     "DY0PDg": {
         "en-US": "I still have things to do.",
@@ -877,16 +877,16 @@
     "D40PDg": {
         "en-US": "[Sharyara]\nOkay.\nThen let's go together later.\nI'll keep going back and forth around here.",
         "pt-BR": "[Syaryara]\nEntendi.\nEntão vamos juntos mais tarde.\nVou continuar indo e voltando por aqui.",
-        "es-ES": "[Sharyara]\nEstá bien.\nEntonces volvamos juntos más tarde.\nYo seguiré yendo y viniendo por aquí."
+        "es-ES": "[Sharyara]\nEstá bien.\nEntonces, volvamos juntos más tarde.\nSeguiré yendo y viniendo por aquí."
     },
     "EI0PDg": {
-        "en-US": "[Sharyara]\nI'm one of the fastest Iwin in the Ice Castle, you know?\nI'll make sure you don't slip on the ice, so let's hurry!",
-        "pt-BR": "[Syaryara]\nEu sou um Arwin super-rápido do Castelo de Gelo, sabia?\nVou ajudar você a não escorregar no gelo, então vamos logo!",
-        "es-ES": "[Sharyara]\nSoy un Awin rapidísimo del Castillo de Hielo, ¿sabes?\nTe ayudaré para que no te caigas en el hielo, ¡así que vamos rápido!"
+        "en-US": "[Sharyara]\nI'm one of the fastest Windcy in the Ice Castle, you know?\nI'll make sure you don't slip on the ice, so let's hurry!",
+        "pt-BR": "[Syaryara]\nEu sou um Nevento super-rápido do Castelo de Gelo, sabia?\nVou ajudar você a não escorregar no gelo, então vamos logo!",
+        "es-ES": "[Sharyara]\nSoy uno de los Neviento más rápidos del Castillo de Hielo, ¿sabes?\n¡Te ayudaré a no resbalarte en el hielo, así que vamos rápido!"
     },
     "EY0PDg": {
         "en-US": "[Sharyarararagand]\nWork keeps pouring in... Sharararararara~",
-        "pt-BR": "[Syaryarararagand]\nO trabalho não para de chegar... syarararararara~",
-        "es-ES": "[Sharyarararagand]\nEl trabajo no para de llegar... sharararararara~"
+        "pt-BR": "[Syaryarararagand]\nO trabalho não para de chegar... syarararararara",
+        "es-ES": "[Sharyarararagand]\nEl trabajo no para de llegar... sharararararara..."
     }
 }

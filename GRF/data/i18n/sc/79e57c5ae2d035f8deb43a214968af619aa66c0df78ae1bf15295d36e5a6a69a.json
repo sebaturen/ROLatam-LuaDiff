@@ -1,8 +1,8 @@
 {
     "IEoADg": {
-        "en-US": "Kkoraryo",
-        "pt-BR": "Kkoryaryo",
-        "es-ES": "Kkoraryo"
+        "en-US": "Koraryo",
+        "pt-BR": "Koraryo",
+        "es-ES": "Koraryo"
     },
     "IUoADg": {
         "en-US": "<Ice Castle Guide>",
@@ -10,84 +10,84 @@
         "es-ES": "<Guía de Castillo de Hielo>"
     },
     "IkoADg": {
-        "en-US": "[Kkoraryo]\nSnow here, ice there, everywhere you look.\nWelcome, outsider, to the Ice Castle,\na place filled with nothing but snow and ice!\nI, ^D78700Silky Well-Balanced Thomas Joy^000000,\nam in charge of guiding you around the castle, so ask me whatever you want to know.",
-        "pt-BR": "[Kkoryaryo]\nNeve aqui, gelo ali, por todos os lados!\nBem-vindo ao Castelo de Gelo, um lugar cheio de neve e gelo,\nforasteiro!\nEu, o grande ^D78700Silky Well-Balanced Thomas Joy^000000,\nsou responsável por guiar pelo castelo, então pergunte o que quiser.",
-        "es-ES": "[Kkoraryo]\nNieve por aquí, hielo por allá, ¡por todas partes!\n¡Bienvenido, forastero, a Castillo de Hielo, un lugar repleto de nieve y hielo!\nYo, el ^D78700Silky Well-Balanced Thomas Joy^000000,\nestoy a cargo de guiarte por el castillo, así que pregunta lo que quieras."
+        "en-US": "[Koraryo]\nSnow here, ice there, everywhere you look.\nWelcome, outsider, to the Ice Castle,\na place filled with nothing but snow and ice!\nI, ^D78700Silky Well-Balanced Thomas Joy^000000,\nam in charge of guiding you around the castle, so ask me whatever you want to know.",
+        "pt-BR": "[Koraryo]\nNeve por aqui, gelo por ali, por toda parte!\nBoas-vindas ao Castelo de Gelo, forasteiro,\num lugar repleto apenas de neve e gelo!\nEu, ^D78700Koraryo, muito bem-vestido^000000,\nsou responsável por guiar você pelo castelo. Então, pergunte o que quiser saber.",
+        "es-ES": "[Koraryo]\nNieve por aquí, hielo por allá, ¡por todas partes!\n¡Te doy la bienvenida al Castillo de Hielo, un lugar repleto de nieve y hielo!\nYo, el ^D78700sedosamente bien vestido Koraryo^000000, estoy a cargo de guiarte por el castillo, así que pregunta lo que quieras."
     },
     "I0oADg": {
-        "en-US": "[Kkoraryo]\nClick the ^B9062F[location name]^000000 you're curious about, and I'll kindly guide you there using ^B9062FNavigation^000000.",
-        "pt-BR": "[Kkoryaryo]\nAo ^B9062Fclicar no [nome do local]^000000 que quiser conhecer, eu o guiarei gentilmente pela ^B9062Fnavegação^000000.",
-        "es-ES": "[Kkoraryo]\nSi haces clic en el ^B9062F[nombre del punto de interés]^000000 que quieras consultar, te guiaré amablemente mediante la ^B9062Fnavegación^000000."
+        "en-US": "[Koraryo]\nClick the ^B9062F[location name]^000000 you're curious about, and I'll kindly guide you there using ^B9062FNavigation^000000.",
+        "pt-BR": "[Koraryo]\nClique no ^B9062F[nome do local]^000000 que deseja conhecer, e terei prazer em guiá-lo até lá usando a ^B9062FNavegação^000000.",
+        "es-ES": "[Koraryo]\nSi haces clic en el ^B9062F[nombre del punto de interés]^000000 que quieras consultar, te guiaré amablemente mediante la ^B9062Fnavegación^000000."
     },
     "JEoADg": {
         "en-US": "[ I c e C a s t l e ]",
         "pt-BR": "[ C a s t e l o d e G e l o ]",
-        "es-ES": "[ C A S T I L L O D E H I E L O ]"
+        "es-ES": "[ C a s t i l l o  d e  H i e l o ]"
     },
     "JUoADg": {
         "en-US": "[ B a r r a c k s ]",
-        "pt-BR": "[ Q u a r t e l ]",
-        "es-ES": "[ C U A R T E L ]"
+        "pt-BR": "[ Quartel ]",
+        "es-ES": "[ C u a r t e l ]"
     },
     "JkoADg": {
         "en-US": "[ Vellgunde L a b o r a t o r y ]",
         "pt-BR": "[ Laboratório de Vellgunde ]",
-        "es-ES": "[ L A B O R A T O R I O D E Vellgunde ]"
+        "es-ES": "[ L a b o r a t o r i o  d e  Vellgunde ]"
     },
     "J0oADg": {
         "en-US": "[ D i n i n g H a l l ]",
         "pt-BR": "[ R e f e i t ó r i o ]",
-        "es-ES": "[ C O M E D O R ]"
+        "es-ES": "[ C o m  e d o r ]"
     },
     "KEoADg": {
         "en-US": "[ L o d g i n g ]",
-        "pt-BR": "[ H o s p e d a r i a ]",
-        "es-ES": "[ A L O J A M I E N T O ]"
+        "pt-BR": "[ Hospedaria ]",
+        "es-ES": "[ A l o j a m i e n t o ]"
     },
     "KUoADg": {
         "en-US": "Clear Mini-Map Markers",
-        "pt-BR": "Remover marca do minimapa",
+        "pt-BR": "Remover Marcadores do Minimapa",
         "es-ES": "Borrar marca del minimapa"
     },
     "KkoADg": {
         "en-US": "Cancel.",
-        "pt-BR": "Parar.",
+        "pt-BR": "Cancelar.",
         "es-ES": "Salir."
     },
     "K0oADg": {
-        "en-US": "[Kkoraryo]\n<NAVI>[Ice Castle]<INFO>icecastle,213,174,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. You might be wondering exactly where you're headed, so I'll mark it on the mini-map too!\nNeed directions somewhere else?",
-        "pt-BR": "[Kkoryaryo]\n<NAVI>[Castelo de Gelo]<INFO>icecastle,213,174,0,101,0</INFO></NAVI>\n↑Clique aqui e eu mostrarei o caminho. Como você pode querer saber onde fica o destino, também vou marcá-lo no minimapa!\nPrecisa de orientação para outro lugar?",
-        "es-ES": "[Kkoraryo]\n<NAVI>[Castillo de Hielo]<INFO>icecastle,213,174,0,101,0</INFO></NAVI>\n↑Si haces clic aquí, te guiaré hasta allí. ¡Y como quizá quieras saber dónde está el lugar al que vas, también lo marcaré en el minimapa!\n¿Necesitas indicaciones para otro lugar?"
+        "en-US": "[Koraryo]\n<NAVI>[Ice Castle]<INFO>icecastle,213,174,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. You might be wondering exactly where you're headed, so I'll mark it on the mini-map too!\nNeed directions somewhere else?",
+        "pt-BR": "[Koraryo]\n<NAVI>[Castelo de Gelo]<INFO>icecastle,213,174,0,101,0</INFO></NAVI>\nClique aqui e guiarei você até lá. Talvez você queira saber exatamente para onde está indo, então também marcarei o local no minimapa!\nPrecisa de orientação para outro lugar?",
+        "es-ES": "[Koraryo]\n<NAVI>[Castillo de Hielo]<INFO>icecastle,213,174,0,101,0</INFO></NAVI>\nSi haces clic aquí, te guiaré hasta allí. ¡Y como quizá quieras saber dónde está el lugar al que vas, también lo marcaré en el minimapa!\n¿Necesitas indicaciones para otro lugar?"
     },
     "LEoADg": {
-        "en-US": "[Kkoraryo]\n<NAVI>[Barracks]<INFO>icecastle,186,222,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. You might be wondering exactly where you're headed, so I'll mark it on the mini-map too!\nNeed directions somewhere else?",
-        "pt-BR": "[Kkoryaryo]\n<NAVI>[Quartel]<INFO>icecastle,186,222,0,101,0</INFO></NAVI>\n↑Clique aqui e eu mostrarei o caminho. Como você pode querer saber onde fica o destino, também vou marcá-lo no minimapa!\nPrecisa de orientação para outro lugar?",
-        "es-ES": "[Kkoraryo]\n<NAVI>[Cuartel]<INFO>icecastle,186,222,0,101,0</INFO></NAVI>\n↑Si haces clic aquí, te guiaré hasta allí. ¡Y como quizá quieras saber dónde está el lugar al que vas, también lo marcaré en el minimapa!\n¿Necesitas indicaciones para otro lugar?"
+        "en-US": "[Koraryo]\n<NAVI>[Barracks]<INFO>icecastle,186,222,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. You might be wondering exactly where you're headed, so I'll mark it on the mini-map too!\nNeed directions somewhere else?",
+        "pt-BR": "[Koraryo]\n<NAVI>[Quarte]<INFO>icecastle,186,222,0,101,0</INFO></NAVI>\nClique aqui e guiarei você até lá. Talvez você queira saber exatamente para onde está indo, então também marcarei o local no minimapa!\nPrecisa de orientação para outro lugar?",
+        "es-ES": "[Koraryo]\n<NAVI>[Cuartel]<INFO>icecastle,186,222,0,101,0</INFO></NAVI>\nSi haces clic aquí, te guiaré hasta allí. ¡Y como quizá quieras saber dónde está el lugar al que vas, también lo marcaré en el minimapa!\n¿Necesitas indicaciones para otro lugar?"
     },
     "LUoADg": {
-        "en-US": "[Kkoraryo]\n<NAVI>[Vellgunde Laboratory]<INFO>icas_in,167,61,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. I hear someone named Maram sells various things adventurers need in Vellgunde's laboratory.\nNeed directions somewhere else?",
-        "pt-BR": "[Kkoryaryo]\n<NAVI>[Laboratório de Vellgunde]<INFO>icas_in,167,61,0,101,0</INFO></NAVI>\n↑Clique aqui e eu mostrarei o caminho. Dizem que, no laboratório de Vellgunde, uma pessoa chamada Maram vende várias coisas úteis para aventureiros.\nPrecisa de orientação para outro lugar?",
-        "es-ES": "[Kkoraryo]\n<NAVI>[Laboratorio de Vellgunde]<INFO>icas_in,167,61,0,101,0</INFO></NAVI>\n↑Si haces clic aquí, te guiaré hasta allí. Dicen que en el laboratorio de Vellgunde, alguien llamado Maram vende varias cosas útiles para los aventureros.\n¿Necesitas indicaciones para otro lugar?"
+        "en-US": "[Koraryo]\n<NAVI>[Vellgunde Laboratory]<INFO>icas_in,167,61,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. I hear someone named Maram sells various things adventurers need in Vellgunde's laboratory.\nNeed directions somewhere else?",
+        "pt-BR": "[Koraryo]\n<NAVI>[Laboratório de Vellgunde]<INFO>icas_in,167,61,0,101,0</INFO></NAVI>\nClique aqui e guiarei você até lá. Ouvi dizer que alguém chamado Maram vende vários itens necessários para os aventureiros nesse laboratório.\nPrecisa de orientação para outro lugar?",
+        "es-ES": "[Koraryo]\n<NAVI>[Laboratorio de Vellgunde]<INFO>icas_in,167,61,0,101,0</INFO></NAVI>\nSi haces clic aquí, te guiaré hasta allí. Dicen que en el laboratorio de Vellgunde, alguien llamado Maram vende varias cosas útiles para los aventureros.\n¿Necesitas indicaciones para otro lugar?"
     },
     "LkoADg": {
-        "en-US": "[Kkoraryo]\n<NAVI>[Dining Hall]<INFO>icecastle,124,171,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. The dining hall also runs a daycare for the Iwin who work there. Don't go taking the kids home just because they're cute!!\nNeed directions somewhere else?",
-        "pt-BR": "[Kkoryaryo]\n<NAVI>[Refeitório]<INFO>icecastle,124,171,0,101,0</INFO></NAVI>\n↑Clique aqui e eu mostrarei o caminho. O refeitório também mantém uma creche para Arwin que trabalham por lá. Não vale levar as crianças embora só porque são fofinhas!!\nPrecisa de orientação para outro lugar?",
-        "es-ES": "[Kkoraryo]\n<NAVI>[Comedor]<INFO>icecastle,124,171,0,101,0</INFO></NAVI>\n↑Si haces clic aquí, te guiaré hasta allí. En el comedor también funciona una guardería para Awin, que trabaja allí. ¡¡No se te ocurra llevarte a los niños solo porque son adorables!!\n¿Necesitas indicaciones para otro lugar?"
+        "en-US": "[Koraryo]\n<NAVI>[Dining Hall]<INFO>icecastle,124,171,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. The dining hall also runs a daycare for the Windcy who work there. Don't go taking the kids home just because they're cute!!\nNeed directions somewhere else?",
+        "pt-BR": "[Koraryo]\n<NAVI>[Refeitório]<INFO>icecastle,124,171,0,101,0</INFO></NAVI>\nClique aqui e guiarei você até lá. O refeitório também mantém uma creche para os Neventos que trabalham lá. Não vá levar as crianças para casa só porque são fofinhas!!\nPrecisa de orientação para outro lugar?",
+        "es-ES": "[Koraryo]\n<NAVI>[Comedor]<INFO>icecastle,124,171,0,101,0</INFO></NAVI>\nSi haces clic aquí, te guiaré hasta allí. En el comedor también funciona una guardería para los Nevientos, que trabajan allí. ¡No se te ocurre llevarte a los bebés nada más porque son adorables!\n¿Necesitas indicaciones para otro lugar?"
     },
     "L0oADg": {
-        "en-US": "[Kkoraryo]\n<NAVI>[Lodging]<INFO>icecastle,64,224,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. Oh, right! If you want to stay the night, ask the owner of the house on the roof whether lodging is available.\nNeed directions somewhere else?",
-        "pt-BR": "[Kkoryaryo]\n<NAVI>[Hospedaria]<INFO>icecastle,64,224,0,101,0</INFO></NAVI>\n↑Clique aqui e eu mostrarei o caminho. Ah! Se quiser passar a noite, pergunte ao dono da casa no telhado se há hospedagem disponível.\nPrecisa de orientação para outro lugar?",
-        "es-ES": "[Kkoraryo]\n<NAVI>[Alojamiento]<INFO>icecastle,64,224,0,101,0</INFO></NAVI>\n↑Si haces clic aquí, te guiaré hasta allí. ¡Ah, cierto! Si quieres pasar la noche, pregúntale al dueño de la casa sobre el techo si tiene alojamiento disponible.\n¿Necesitas indicaciones para otro lugar?"
+        "en-US": "[Koraryo]\n<NAVI>[Lodging]<INFO>icecastle,64,224,0,101,0</INFO></NAVI>\n↑Click this and I'll guide you there. Oh, right! If you want to stay the night, ask the owner of the house on the roof whether lodging is available.\nNeed directions somewhere else?",
+        "pt-BR": "[Koraryo]\n<NAVI>[Hospedaria]<INFO>icecastle,64,224,0,101,0</INFO></NAVI>\nClique aqui e guiarei você até lá. Ah, é mesmo! Se quiser passar a noite, pergunte ao dono da casa no telhado se há vagas disponíveis.\nPrecisa de orientação para outro lugar?",
+        "es-ES": "[Koraryo]\n<NAVI>[Alojamiento]<INFO>icecastle,64,224,0,101,0</INFO></NAVI>\nSi haces clic aquí, te guiaré hasta allí. ¡Ah, cierto! Si quieres pasar la noche, pregúntale al dueño de la casa sobre el techo si tiene alojamiento disponible.\n¿Necesitas indicaciones para otro lugar?"
     },
     "MEoADg": {
-        "en-US": "[Kkoraryo]\nI cleared the marker!\nNeed any other help?",
-        "pt-BR": "[Kkoryaryo]\nApaguei a marca!\nPrecisa de mais alguma ajuda?",
-        "es-ES": "[Kkoraryo]\n¡Ya borré la marca!\n¿Necesitas algo más?"
+        "en-US": "[Koraryo]\nI cleared the marker!\nNeed any other help?",
+        "pt-BR": "[Koraryo]\nRemovi o marcador!\nPrecisa de mais alguma ajuda?",
+        "es-ES": "[Koraryo]\n¡Ya borré la marca!\n¿Necesitas algo más?"
     },
     "MUoADg": {
-        "en-US": "[Kkoraryo]\nOutsiders don't have much fur, so you must be cold. Don't wander around and catch a cold; stay inside a warm building.",
-        "pt-BR": "[Kkoryaryo]\nVocês, forasteiros, têm pouco pelo e devem sentir frio. Não fiquem andando por aí à toa e acabem resfriados. Fiquem dentro de um prédio quentinho.",
-        "es-ES": "[Kkoraryo]\nLos forasteros tienen poco pelaje, así que deben tener frío. No anden de un lado a otro sin necesidad y terminen resfriándose; quédense dentro de un edificio cálido."
+        "en-US": "[Koraryo]\nOutsiders don't have much fur, so you must be cold. Don't wander around and catch a cold; stay inside a warm building.",
+        "pt-BR": "[Koraryo]\nOs forasteiros têm pouca pelagem, então devem sentir frio. Não fique andando por aí e acabe pegando um resfriado; fique dentro de um lugar quentinho.",
+        "es-ES": "[Koraryo]\nLos que vienen de fuera tienen poco pelo, así que deben tener frío. No deberían de andar por ahí como si nada o van a acabar resfriados. Quédense dentro de un lugar calientito."
     },
     "MkoADg": {
         "en-US": "Orarang",
@@ -102,12 +102,12 @@
     "NEoADg": {
         "en-US": "Orarang: Huh?! An outsider!!",
         "pt-BR": "Orarang: Ah?! Um forasteiro!!",
-        "es-ES": "Orarang: ¡¿Eh?! ¡¡Es un forastero!!"
+        "es-ES": "Orarang: ¿Ah? ¡Tú no eres de aquí!"
     },
     "NUoADg": {
         "en-US": "[Feather Lodging Orarang]\nWelcome to Feather Lodging.\nI was told to charge outsiders something called Zeny, right? Resting costs 5,000z!!",
-        "pt-BR": "[Orarang da Hospedaria das Penas]\nBem-vindo. Esta é a Hospedaria das Penas.\nDisseram que devo cobrar uma coisa chamada Zeny dos forasteiros, certo? Para descansar, são 5,000z!!",
-        "es-ES": "[Orarang del Alojamiento Pluma]\nBienvenido. Este es el Alojamiento Pluma.\nMe dijeron que a los forasteros les cobrara eso que llaman zeny, ¿verdad? ¡¡El descanso cuesta 5,000z!!"
+        "pt-BR": "[Orarang da Hospedaria das Penas]\nBem-vindo. Esta é a Hospedaria das Penas.\nDisseram que devo cobrar uma coisa chamada Zeny dos forasteiros, certo? Para descansar, são 5.000z!!",
+        "es-ES": "[Orarang del Alojamiento Pluma]\nTe doy la bienvenida. Este es el Alojamiento Pluma.\nMe dijeron que a quienes no son de aquí les cobrara en algo llamado \"zeny\", ¿verdad? ¡El descanso cuesta 5,000z!"
     },
     "NkoADg": {
         "en-US": "Save.",
@@ -116,8 +116,8 @@
     },
     "N0oADg": {
         "en-US": "Rest - 5000z",
-        "pt-BR": "Descansar - 5000z",
-        "es-ES": "Descansar - 5000z"
+        "pt-BR": "Descansar - 5.000z",
+        "es-ES": "Descansar - 5,000z"
     },
     "OEoADg": {
         "en-US": "Cancel",
@@ -126,23 +126,23 @@
     },
     "OUoADg": {
         "en-US": "[Feather Lodging Orarang]\nThink of Ice Castle as your own home and rest comfortably~",
-        "pt-BR": "[Orarang da Hospedaria das Penas]\nConsidere o Castelo de Gelo como sua casa e descanse à vontade~",
-        "es-ES": "[Orarang del Alojamiento Pluma]\nPiensa que Castillo de Hielo es tu hogar y descansa cómodamente~"
+        "pt-BR": "[Orarang da Hospedaria das Penas]\nSinta-se em casa no Castelo de Gelo e descanse à vontade.",
+        "es-ES": "[Orarang del Alojamiento Pluma]\nEl Castillo de Hielo es tu hogar y descansa cómodamente."
     },
     "OkoADg": {
         "en-US": "[Feather Lodging Orarang]\nSleep warm and snug~",
-        "pt-BR": "[Orarang da Hospedaria das Penas]\nDurma bem e bem quentinho~",
-        "es-ES": "[Orarang del Alojamiento Pluma]\nDuerme bien y calientito~"
+        "pt-BR": "[Orarang da Hospedaria das Penas]\nDurma bem e quentinho.",
+        "es-ES": "[Orarang del Alojamiento Pluma]\nDuerme cálidamente."
     },
     "O0oADg": {
         "en-US": "[Feather Lodging Orarang]\nSir, this is a problem if you don't have any money.",
-        "pt-BR": "[Orarang da Hospedaria das Penas]\nHóspede, fica difícil assim se você não tem dinheiro.",
-        "es-ES": "[Orarang del Alojamiento Pluma]\nHuésped, no puede venir aquí sin dinero."
+        "pt-BR": "[Orarang da Hospedaria das Penas]\nHóspede, se não tem dinheiro, fica difícil.",
+        "es-ES": "[Orarang del Alojamiento Pluma]\nOye, no puedes venir aquí sin dinero."
     },
     "PEoADg": {
         "en-US": "[Feather Lodging Orarang]\nHmph~ Fine, then don't!",
-        "pt-BR": "[Orarang da Hospedaria das Penas]\nHmph~ Se não quiser, tudo bem!",
-        "es-ES": "[Orarang del Alojamiento Pluma]\n¡Hum~! ¡Si no quieres, déjalo!"
+        "pt-BR": "[Orarang da Hospedaria das Penas]\nHum! Se não quiser, tudo bem!",
+        "es-ES": "[Orarang del Alojamiento Pluma]\nSi no quieres, está bien."
     },
     "PUoADg": {
         "en-US": "Storaaage",
@@ -151,18 +151,18 @@
     },
     "PkoADg": {
         "en-US": "It's a frozen jar with a strange name.",
-        "pt-BR": "É um jarro completamente congelado com um nome estranho.",
+        "pt-BR": "É um jarro congelado com um nome estranho.",
         "es-ES": "Es una vasija completamente congelada con un nombre extraño."
     },
     "P0oADg": {
         "en-US": "Storaaage?",
         "pt-BR": "Armazééém?",
-        "es-ES": "¿Almaaacén?"
+        "es-ES": "¿\"Almaaacén\"?"
     },
     "QEoADg": {
         "en-US": "It's a frozen jar with a strange name. A pile of loose change and a note from the lodging owner are attached to it.\nStorage costs^9400D6 500 Zeny^000000. Leave it beside the jar, and I'll collect it later~\nFeather Lodging Orarang",
-        "pt-BR": "É um jarro completamente congelado com um nome estranho. Há moedas empilhadas e um bilhete da dona da hospedaria.\nO armazém custa^9400D6 500 Zeny^000000. Deixe ao lado que depois eu pego~\nOrarang da Hospedaria das Penas",
-        "es-ES": "Es una vasija completamente congelada con un nombre extraño. Tiene unas monedas apiladas y una nota del dueño del alojamiento.\nEl almacén cuesta^9400D6 500 zeny^000000. Déjalo al lado y luego lo recogeré~\nOrarang del Alojamiento Pluma"
+        "pt-BR": "É um jarro congelado com um nome estranho. Tem moedas empilhadas e um bilhete da dona da hospedaria.\nO armazém custa^9400D6 500 Zeny^000000. Deixe ao lado que depois eu pego.\nOrarang da Hospedaria das Penas",
+        "es-ES": "Es una vasija completamente congelada con un nombre extraño. Tiene unas monedas apiladas y una nota del dueño del alojamiento.\nEl almacén cuesta^9400D6 500 zeny^000000. Déjalo al lado y luego lo recogeré.\nOrarang del Alojamiento Pluma"
     },
     "QUoADg": {
         "en-US": "Storage 1",
@@ -220,13 +220,13 @@
         "es-ES": "<Sabor de 16 generaciones>"
     },
     "TEoADg": {
-        "en-US": "[Kkoraryo]\nSnow here, ice there, everywhere you look.\nWelcome, outsider, to the Ice Castle,\na place filled with nothing but snow and ice!\nI, ^B47096Silky Well-Balanced Thomas Joy^000000,\nam in charge of guiding you around the castle, so ask me whatever you want to know.",
-        "pt-BR": "[Kkoryaryo]\nNeve aqui, gelo ali, por todos os lados!\nBem-vindo ao Castelo de Gelo, um lugar cheio de neve e gelo,\nforasteiro!\nEu, o grande ^B47096Silky Well-Balanced Thomas Joy^000000,\nsou responsável por guiar pelo castelo, então pergunte o que quiser.",
-        "es-ES": "[Kkoraryo]\nNieve por aquí, hielo por allá, ¡por todas partes!\n¡Bienvenido, forastero, a Castillo de Hielo, un lugar repleto de nieve y hielo!\nYo, el ^B47096Silky Well-Balanced Thomas Joy^000000,\nestoy a cargo de guiarte por el castillo, así que pregunta lo que quieras."
+        "en-US": "[Koraryo]\nSnow here, ice there, everywhere you look.\nWelcome, outsider, to the Ice Castle,\na place filled with nothing but snow and ice!\nI, ^B47096Silky Well-Balanced Thomas Joy^000000,\nam in charge of guiding you around the castle, so ask me whatever you want to know.",
+        "pt-BR": "[Koraryo]\nNeve por aqui, gelo por ali, por toda parte!\nBoas-vindas ao Castelo de Gelo, forasteiro,\num lugar repleto apenas de neve e gelo!\nEu, ^B47096Koraryo, muito bem-vestido^000000,\nsou responsável por guiar você pelo castelo. Então, pergunte o que quiser saber.",
+        "es-ES": "[Koraryo]\nNieve por aquí, hielo por allá, ¡por todas partes!\n¡Te doy la bienvenida al Castillo de Hielo, un lugar repleto de nieve y hielo!\nYo, el ^B47096sedosamente bien vestido Koraryo^000000, estoy a cargo de guiarte por el castillo, así que pregunta lo que quieras."
     },
     "TUoADg": {
         "en-US": "It's a frozen jar with a strange name. A pile of loose change and a note from the lodging owner are attached to it.\nStorage costs^389DD4 500 Zeny^000000. Leave it beside the jar, and I'll collect it later~\nFeather Lodging Orarang",
-        "pt-BR": "É um jarro completamente congelado com um nome estranho. Há moedas empilhadas e um bilhete da dona da hospedaria.\nO armazém custa^389DD4 500 Zeny^000000. Deixe ao lado que depois eu pego~\nOrarang da Hospedaria das Penas",
-        "es-ES": "Es una vasija completamente congelada con un nombre extraño. Tiene unas monedas apiladas y una nota del dueño del alojamiento.\nEl almacén cuesta^389DD4 500 zeny^000000. Déjalo al lado y luego lo recogeré~\nOrarang del Alojamiento Pluma"
+        "pt-BR": "É um jarro congelado com um nome estranho. Tem moedas empilhadas e um bilhete da dona da hospedaria.\nO armazém custa^389DD4 500 Zeny^000000. Deixe ao lado que depois eu pego.\nOrarang da Hospedaria das Penas",
+        "es-ES": "Es una vasija completamente congelada con un nombre extraño. Tiene unas monedas apiladas y una nota del dueño del alojamiento.\nEl almacén cuesta^389DD4 500 zeny^000000. Déjalo al lado y luego lo recogeré.\nOrarang del Alojamiento Pluma"
     }
 }

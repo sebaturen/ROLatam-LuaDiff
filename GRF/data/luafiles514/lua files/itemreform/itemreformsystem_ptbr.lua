@@ -6399,5 +6399,266 @@ ReformInfo_string = {
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de grau : Mantidas"
 		}
+	},
+	[962] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[963] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[964] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[716] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[717] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[718] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[719] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[720] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[721] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[722] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[723] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[724] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[725] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[726] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[727] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[728] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[729] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[730] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[731] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[732] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[733] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[734] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[735] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[736] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[737] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[738] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[739] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[740] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[741] = {
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
 	}
 }

@@ -2340,7 +2340,20 @@ ItemDBNameTbl = {
 	Glacier_F_Orb_226 = 315407,
 	Glacier_F_Orb_227 = 315408,
 	Glacier_F_Orb_228 = 315409,
-	Glacier_F_Orb_229 = 315410
+	Glacier_F_Orb_229 = 315410,
+	Isgard_Crown_Hammer = 102238,
+	Glacier_Helm_1 = 400105,
+	Glacier_Helm_2 = 400106,
+	Glacier_Helm_3 = 400107,
+	Isgard_4 = 312306,
+	Isgard_3_Warrior = 312307,
+	Isgard_3_Ranger = 312308,
+	Isgard_3_Assassin = 312309,
+	Isgard_3_Mage = 312310,
+	Isgard_2_Warrior2 = 312311,
+	Isgard_2_Ranger2 = 312312,
+	Isgard_2_Assassin2 = 312313,
+	Isgard_2_Mage2 = 312314
 }
 function ItemDB_To_ItemID(in_ItemDB)
 	if nil == ItemDBNameTbl[in_ItemDB] then

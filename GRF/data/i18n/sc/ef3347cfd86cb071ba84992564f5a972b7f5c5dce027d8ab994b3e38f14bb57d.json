@@ -6,48 +6,48 @@
     },
     "QesHDg": {
         "en-US": "This quest can be undertaken at Level 200 or higher -",
-        "pt-BR": "Esta é uma missão para personagens de nível 200 ou superior. -",
-        "es-ES": "Esta misión puede realizarse a partir del nivel 200 -"
+        "pt-BR": "Missão disponível para personagens de Nv. 200 ou superior",
+        "es-ES": "Esta misión puede realizarse a partir del nivel 200"
     },
     "QusHDg": {
         "en-US": "[Leizi]\nHey, you need to come here properly transformed. What happened to your Transformation Scroll? Go get it, Adventurer!",
-        "pt-BR": "[Nalandro]\nEi, aqui você tem que vir devidamente transformado. O que aconteceu com o pergaminho de transformação? Vá buscá-lo, aventureiro!",
-        "es-ES": "[Lazy]\nEh, aquí tienes que venir bien transformado. ¿Qué pasó con el pergamino de transformación? ¡Ve por él, aventurero!"
+        "pt-BR": "[Nalandro]\nEi, você precisa vir devidamente transformado aqui. O que aconteceu com seu Pergaminho de Transformação? Vá buscá-lo!",
+        "es-ES": "[Lazy]\nOye, tu transformación aquí debe de ser correcta. ¿Qué pasó con el pergamino de transformación? ¡Ve por él!"
     },
     "Q+sHDg": {
         "en-US": "[Leizi]\nHm? Adventurer. Nothing good comes from drawing attention, so let's not talk here too often.",
-        "pt-BR": "[Nalandro]\nHã? Aventureiro. Não ganhamos nada chamando a atenção dos outros, então é melhor não conversarmos muito por aqui.",
-        "es-ES": "[Lazy]\n¿Mm? Aventurero. No nos conviene llamar la atención, así que no hablemos demasiado seguido aquí."
+        "pt-BR": "[Nalandro]\nHm? Não é bom chamar a atenção, então é melhor não conversarmos muito por aqui.",
+        "es-ES": "[Lazy]\nNo nos conviene llamar la atención, no hablemos tanto aquí."
     },
     "ROsHDg": {
         "en-US": "[Leizi]\nI'm going to head a little farther inside. You should explore the area some more too, Adventurer.",
-        "pt-BR": "[Nalandro]\nVou entrar um pouco mais. Aventureiro, explore um pouco mais os arredores também.",
-        "es-ES": "[Lazy]\nYo iré un poco más adentro. Tú también explora un poco más los alrededores."
+        "pt-BR": "[Nalandro]\nVou entrar um pouco mais. Viajante, explore um pouco mais os arredores também.",
+        "es-ES": "[Lazy]\nYo iré un poco más adentro. Tú también explora más los alrededores."
     },
     "ResHDg": {
         "en-US": "[Leizi]\nHuh, I don't see any humans. There seem to be fewer high-ranking Rgans, too.\nWhere did everyone go? Farther inside? Or did they leave altogether?",
         "pt-BR": "[Nalandro]\nUé, não estou vendo os humanos. Parece que também há menos Rgans de alta patente.\nPara onde todos foram? Foram mais para dentro? Ou saíram daqui de vez?",
-        "es-ES": "[Lazy]\nVaya, no veo a los humanos. Parece que también hay menos Rgan de alto rango.\n¿Adónde fueron todos? ¿Se internaron más? ¿O se fueron por completo?"
+        "es-ES": "[Lazy]\nNo veo humanos. Parece que también hay menos Rgan de alto rango.\n¿Adónde fueron todos? ¿Se internaron más o se fueron por completo?"
     },
     "RusHDg": {
         "en-US": "[Leizi]\nEither way, this works out well. Let's use this chance to secretly search around and gather some information.\nWe're adorable newborn highest-ranking and high-ranking Rgans, so they'll probably overlook it even if we wander around however we like.",
         "pt-BR": "[Nalandro]\nDe qualquer forma, isso é bom. Vamos aproveitar para vasculhar os arredores às escondidas e conseguir algumas informações.\nComo somos Rgans supremos e superiores adoráveis que acabaram de nascer, vão achar fofo mesmo se ficarmos andando por aí como bem entendermos.",
-        "es-ES": "[Lazy]\nEn fin, mejor para nosotros. Aprovechemos para husmear por los alrededores en secreto y conseguir información.\nComo somos unos adorables Rgan supremos y superiores recién nacidos, seguro nos perdonarán aunque andemos por ahí haciendo lo que queramos."
+        "es-ES": "[Lazy]\nEn fin, mejor para nosotros. Aprovechemos para husmear por ahí en secreto y conseguir información.\nComo somos unos adorables Rgan Superiores recién nacidos, seguro que nos perdonarán que estemos husmeando."
     },
     "R+sHDg": {
         "en-US": "[Leizi]\nStill, there may be areas where it would look suspicious for you, a high-ranking Rgan, to wander around freely, so I'll focus on exploring those deeper areas.",
-        "pt-BR": "[Nalandro]\nMesmo assim, deve haver áreas onde chamaria atenção um aventureiro, sendo um Rgan superior, andar livremente. Então vou me concentrar nesses lugares mais profundos.",
-        "es-ES": "[Lazy]\nAun así, debe haber zonas donde un aventurero que parece un Rgan superior no pueda moverse libremente sin llamar la atención, así que yo recorreré principalmente esos lugares más profundos."
+        "pt-BR": "[Nalandro]\nMesmo assim, deve haver áreas onde chamaria atenção você, sendo um Rgan superior, andar livremente. Então vou me concentrar nesses lugares mais profundos.",
+        "es-ES": "[Lazy]\nDebe haber zonas donde alguien que parece un Rgan superior no pueda moverse libremente sin llamar la atención, así que yo recorreré esos lugares más profundos."
     },
     "SOsHDg": {
         "en-US": "[Leizi]\nAdventurer, why don't you search Juncea's lab and Bagot's Laboratory? I think there were some Rgans guarding the area nearby too, so try sounding them out as well.",
-        "pt-BR": "[Nalandro]\nAventureiro, quer vasculhar os laboratórios de Juncea e Laboratório de Bagot? Acho que havia alguns Rgans de guarda por perto, então tente sondá-los também.",
-        "es-ES": "[Lazy]\nAventurero, ¿quieres registrar el laboratorio de Juncea y Laboratorio de Bagot? Creo que también había algunos Rgan vigilando cerca, así que intenta sacarles algo de información."
+        "pt-BR": "[Nalandro]\nViajante, quer vasculhar os laboratórios de Juncea e Bagot? Acho que havia alguns Rgans de guarda por perto, então tente sondá-los também.",
+        "es-ES": "[Lazy]\n¿Quieres registrar el laboratorio de Juncea de Bagot? Creo que había algunos Rgan vigilando, intenta sacarles algo de información."
     },
     "SesHDg": {
         "en-US": "Decide to do that.",
-        "pt-BR": "Decide fazer isso.",
-        "es-ES": "Deciden hacerlo así."
+        "pt-BR": "Decidir fazer isso.",
+        "es-ES": "Decides hacer eso."
     },
     "SusHDg": {
         "en-US": "[Leizi]\nIf anyone says anything, let's act as much as possible like cute baby Rgans who don't know anything.",
@@ -56,8 +56,8 @@
     },
     "S+sHDg": {
         "en-US": "[Leizi]\nThen let's meet back here once we're done investigating, Adventurer.\nI'll take a casual look around too. Waaah!",
-        "pt-BR": "[Nalandro]\nEntão, quando terminarmos a investigação, vamos nos encontrar aqui de novo, aventureiro.\nEu também vou dar uma volta por aí. Uáá!",
-        "es-ES": "[Lazy]\nEntonces, cuando terminemos de investigar, reunámonos aquí otra vez, aventurero.\nYo también daré una vuelta tranquilamente. ¡Gua, gua!"
+        "pt-BR": "[Nalandro]\nEntão, quando terminarmos a investigação, vamos nos encontrar aqui de novo, viajante.\nEu também vou dar uma volta por aí. Unhééé!",
+        "es-ES": "[Lazy]\nEntonces, cuando terminemos de investigar, reunámonos aquí otra vez.\nYo daré una vuelta tranquilamente."
     },
     "TOsHDg": {
         "en-US": "[Leizi]\nDid you check all the places we talked about?",
@@ -66,13 +66,13 @@
     },
     "TesHDg": {
         "en-US": "Not all of them yet.",
-        "pt-BR": "Ainda não passou por todos os lugares.",
-        "es-ES": "Todavía no he revisado todos."
+        "pt-BR": "Não por todos.",
+        "es-ES": "Todavía no reviso todos."
     },
     "TusHDg": {
         "en-US": "[Leizi]\nIt still looks like everyone's away, so hurry and check them out, Adventurer.",
-        "pt-BR": "[Nalandro]\nParece que todos ainda estão fora, então vá logo, aventureiro.",
-        "es-ES": "[Lazy]\nParece que todos siguen fuera por ahora, así que date prisa y ve, aventurero."
+        "pt-BR": "[Nalandro]\nParece que todos ainda estão fora, então vá logo, viajante.",
+        "es-ES": "[Lazy]\nParece que todos siguen fuera, date prisa y ve."
     },
     "T+sHDg": {
         "en-US": "[Leizi]\nDid you check all the places we talked about? I've more or less finished looking around.",
@@ -81,33 +81,33 @@
     },
     "UOsHDg": {
         "en-US": "Say that you have as well.",
-        "pt-BR": "Diz que também já terminou.",
-        "es-ES": "Le dice que también terminó."
+        "pt-BR": "Dizer que também já terminou.",
+        "es-ES": "Dice que también ya terminó."
     },
     "UesHDg": {
         "en-US": "[Leizi]\nAll right, Adventurer, let's quickly exchange information and decide what to do next.\nDid you find anything at the Illusions' quarters?",
-        "pt-BR": "[Nalandro]\nEntão, aventureiro, vamos trocar informações rapidamente e decidir o que fazer daqui para frente.\nConseguiu alguma informação na residência dos Illusions?",
-        "es-ES": "[Lazy]\nEntonces, aventurero, intercambiemos rápido la información y decidamos qué vamos a hacer a partir de ahora.\n¿Conseguiste algo en el lugar donde viven las Illusion?"
+        "pt-BR": "[Nalandro]\nEntão, viajante, vamos trocar informações rapidamente e decidir o que fazer daqui para frente.\nConseguiu alguma informação na residência do pessoal da Ilusión?",
+        "es-ES": "[Lazy]\nEntonces, intercambiemos información rápido y decidamos qué vamos a hacer a partir de ahora.\n¿Conseguiste algo en el lugar donde vive Ilusión?"
     },
     "UusHDg": {
         "en-US": "About the relationship between the two Illusions",
-        "pt-BR": "Sobre a relação entre os dois Illusions",
-        "es-ES": "Sobre la relación entre las dos Illusion"
+        "pt-BR": "Sobre a relação entre os dois membros da Ilusión",
+        "es-ES": "Sobre la relación entre los dos Ilusión."
     },
     "U+sHDg": {
         "en-US": "About the experiments the Illusions are conducting",
-        "pt-BR": "Sobre os experimentos realizados pelos Illusions",
-        "es-ES": "Sobre los experimentos que están realizando las Illusion"
+        "pt-BR": "Sobre os experimentos realizados pelos membros da Ilusión",
+        "es-ES": "Sobre los experimentos que están realizando los Ilusión."
     },
     "VOsHDg": {
         "en-US": "[Leizi]\nThe relationship between the two Illusions? How did it look?\nOh? You think Juncea is being treated with less regard than Bagot?",
-        "pt-BR": "[Nalandro]\nA relação entre os dois Illusions? Como parece?\nOh, então parece que Juncea é desprezada em comparação com Bagot?",
-        "es-ES": "[Lazy]\n¿La relación entre las dos Illusion? ¿Qué te parece?\nOh, ¿dices que Juncea parece recibir menos consideración que Bagot?"
+        "pt-BR": "[Nalandro]\nA relação entre os dois membros da Ilusión? Como ela é?\nHmm, então parece que Juncea é desprezada em comparação a Bagot?",
+        "es-ES": "[Lazy]\n¿La relación entre los dos Ilusión? ¿Qué te parece?\nOh, ¿dices que Juncea parece recibir menos consideración que Bagot?"
     },
     "VesHDg": {
         "en-US": "[Leizi]\nShe's receiving far fewer research supplies, and Rasgand seems less interested in her too. We saw that together.\nYou brought the ledger? Wow, you're good. Let's see.",
-        "pt-BR": "[Nalandro]\nEla recebe muito menos suprimentos para apoiar a pesquisa, e Rasgand também demonstra menos interesse nela. Isso nós vimos juntos.\nVocê trouxe o livro-caixa? Nossa, que competente. Deixe-me ver.",
-        "es-ES": "[Lazy]\nRecibe muchos menos suministros de apoyo para la investigación y también menos atención de Rasgand. Eso ya lo habíamos visto juntos.\n¿Trajiste el libro de cuentas? Vaya, qué eficiente. A ver."
+        "pt-BR": "[Nalandro]\nEla recebe muito menos suprimentos para apoiar a pesquisa, e Ragand também demonstra menos interesse nela. Isso nós vimos juntos.\nVocê trouxe o livro-caixa? Nossa, que competente. Deixe-me ver.",
+        "es-ES": "[Lazy]\nRecibe muchos menos suministros de apoyo para la investigación y también menos atención de Ragand. Eso ya lo habíamos visto.\n¿Trajiste el libro de cuentas? Qué eficiente. A ver."
     },
     "VusHDg": {
         "en-US": "[Leizi]\nWhat, there's this much of a difference? I didn't expect that.\nWhat kind of research are the two of them doing for there to be such a gap? I'm dying to know. Did you find out?",
@@ -116,8 +116,8 @@
     },
     "V+sHDg": {
         "en-US": "[Leizi]\nYou did? Great job, Adventurer. Tell me already.\nHmm, they look similar on the surface. But to you, the research Bagot is doing seems more dangerous.",
-        "pt-BR": "[Nalandro]\nDescobriu? Muito bem, nosso aventureiro. Conte logo.\nHmm, à primeira vista, parecem semelhantes. Mas, na sua opinião, a pesquisa de Bagot parece um pouco mais perigosa.",
-        "es-ES": "[Lazy]\n¿Lo averiguaste? Muy bien, aventurero. Cuéntamelo rápido.\nHmm, a simple vista parecen similares. Pero según tú, la investigación que hace Bagot parece un poco más peligrosa."
+        "pt-BR": "[Nalandro]\nDescobriu? Muito bem, viajante. Conte logo.\nHmm, à primeira vista, parecem semelhantes. Mas, na sua opinião, a pesquisa de Bagot parece um pouco mais perigosa.",
+        "es-ES": "[Lazy]\n¿Lo averiguaste? Muy bien. Cuéntamelo rápido.\nA simple vista parecen similares, pero según tú, la investigación que hace Bagot parece un poco más peligrosa."
     },
     "WOsHDg": {
         "en-US": "[Leizi]\nYou think it's similar to the false god we saw in Rachel? What are they planning to do with it? That's seriously suspicious!",
@@ -127,17 +127,17 @@
     "WesHDg": {
         "en-US": "[Leizi]\nSo, what kind of experiments do the two of them seem to be conducting? I'm dying to know. Did you find out?",
         "pt-BR": "[Nalandro]\nCerto, que tipo de experimento parece que os dois estão fazendo? Estou morrendo de curiosidade. Descobriu?",
-        "es-ES": "[Lazy]\nEntonces, ¿qué tipo de experimentos parece que están haciendo los dos? Me muero de curiosidad. ¿Lo averiguaste?"
+        "es-ES": "[Lazy]\nEntonces, ¿qué tipo de experimentos parece que están haciendo? Me muero de curiosidad. ¿Lo averiguaste?"
     },
     "WusHDg": {
         "en-US": "[Leizi]\nYou did? Great job, Adventurer. Tell me already.\nThey look similar on the surface, right? But to you, the experiments Bagot is conducting seem more dangerous.",
-        "pt-BR": "[Nalandro]\nDescobriu? Muito bem, nosso aventureiro. Conte logo.\nÀ primeira vista, parecem semelhantes, não é? Mas, na sua opinião, o experimento de Bagot parece um pouco mais perigoso.",
-        "es-ES": "[Lazy]\n¿Lo averiguaste? Muy bien, aventurero. Cuéntamelo rápido.\n¿Dices que a simple vista parecen similares? Pero según tú, el experimento que hace Bagot parece un poco más peligroso."
+        "pt-BR": "[Nalandro]\nDescobriu? Muito bem, viajante. Conte logo.\nÀ primeira vista, parecem semelhantes, não é? Mas, na sua opinião, o experimento de Bagot parece um pouco mais perigoso.",
+        "es-ES": "[Lazy]\n¿Sí? Muy bien. Cuéntamelo rápido.\n¿Dices que a simple vista parecen similares? Pero según tú, el experimento que hace Bagot parece un poco más peligroso."
     },
     "W+sHDg": {
         "en-US": "[Leizi]\nOh… and it looks like Bagot is getting more research support too.\nWe saw that together. You brought the ledger? Wow, you're good. Let's see.",
         "pt-BR": "[Nalandro]\nOh… Além disso, parece que Bagot recebe mais apoio para a pesquisa.\nIsso nós vimos juntos. Você trouxe o livro-caixa? Nossa, que competente. Deixe-me ver.",
-        "es-ES": "[Lazy]\nOh… además, parece que Bagot recibe más apoyo para la investigación.\nEso ya lo habíamos visto juntos. ¿Trajiste el libro de cuentas? Vaya, qué eficiente. A ver."
+        "es-ES": "[Lazy]\nOh… además, parece que Bagot recibe más apoyo para la investigación.\nEso ya lo habíamos visto. ¿Trajiste el libro de cuentas? Qué eficiente. A ver."
     },
     "XOsHDg": {
         "en-US": "[Leizi]\nWhat, there's this much of a difference? So Juncea really is being treated terribly.\nThis definitely gives us something we can exploit.",
@@ -146,98 +146,98 @@
     },
     "XesHDg": {
         "en-US": "[Leizi]\nSo Rasgand only keeps Bagot close, too. Well, well, things are getting interesting, aren't they, Adventurer?",
-        "pt-BR": "[Nalandro]\nEntão Rasgand também só dá atenção a Bagot. Ora, ora, parece que as coisas estão ficando interessantes, não acha, aventureiro?",
-        "es-ES": "[Lazy]\nY Rasgand también favorece únicamente a Bagot. Vaya, vaya, esto se está poniendo interesante, ¿no crees, aventurero?"
+        "pt-BR": "[Nalandro]\nEntão Ragand também só dá atenção a Bagot. Ora, ora, parece que as coisas estão ficando interessantes, não acha, viajante?",
+        "es-ES": "[Lazy]\nY Ragand también favorece únicamente a Bagot. Vaya, vaya, esto se está poniendo interesante, ¿no crees?"
     },
     "XusHDg": {
         "en-US": "[Leizi]\nHmm… I thought the two Illusions at least weren't on bad terms, but if their relationship is actually much worse than we thought, we might be able to use that. Don't you think?",
-        "pt-BR": "[Nalandro]\nEntão… eu achava que a relação entre os dois Illusions não era tão ruim, mas, se na verdade for muito pior do que imaginávamos, acho que podemos tirar proveito disso. Não acha?",
-        "es-ES": "[Lazy]\nVaya… Pensaba que la relación entre las dos Illusion no era tan mala, pero si en realidad es mucho peor de lo que creíamos, quizá podamos aprovecharlo. ¿No te parece?"
+        "pt-BR": "[Nalandro]\nHmm… eu achava que a relação entre os dois membros da Ilusión não era tão ruim, mas, se na verdade for muito pior do que imaginávamos, acho que podemos tirar proveito disso. Não acha?",
+        "es-ES": "[Lazy]\nVaya… Pensaba que la relación entre los dos Ilusión no era tan mala, pero si es mucho peor de lo que creíamos, quizá podamos aprovecharlo. ¿No te parece?"
     },
     "X+sHDg": {
         "en-US": "[Leizi]\nYou did a good job checking things out, Adventurer. You're very observant, though not quite as much as me. Not enough to make a living from investigations like I do, but definitely enough to buy yourself some snacks.",
-        "pt-BR": "[Nalandro]\nVocê observou tudo muito bem, aventureiro. Não tanto quanto eu, mas tem um ótimo olhar. Talvez não dê para ganhar a vida fazendo investigações como eu, mas já daria para comprar uns lanchinhos.",
-        "es-ES": "[Lazy]\nHiciste un buen trabajo observando todo, aventurero. No tanto como yo, pero tienes muy buen ojo. No como para ganarte la vida investigando como yo, pero sí lo suficiente para comprarte algunos bocadillos."
+        "pt-BR": "[Nalandro]\nVocê observou tudo muito bem, viajante. Não tanto quanto eu, mas tem um ótimo olhar. Talvez não dê para ganhar a vida fazendo investigações como eu, mas já daria para comprar uns lanchinhos.",
+        "es-ES": "[Lazy]\nHiciste un buen trabajo observando. No tanto como yo, pero tienes muy buen ojo. No como para ganarte la vida investigando como yo, pero sí lo suficiente para comprarte algunos bocadillos."
     },
     "YOsHDg": {
         "en-US": "[Leizi]\nThe Illusion scientist who came here first... What was her name again? Right, from Juncea's perspective, it must feel like the newcomer Bagot is pushing her out of her own place.",
-        "pt-BR": "[Nalandro]\nO cientista Illusion que chegou primeiro... qual era o nome mesmo? Ah, sim. Do ponto de vista de Juncea, deve parecer que Bagot chegou depois e está tomando o lugar dela.",
-        "es-ES": "[Lazy]\nSeguro que la científica Illusion que llegó primero... ¿cómo se llamaba? Ah, sí, desde el punto de vista de Juncea, debe sentir que Bagot llegó de la nada y la está desplazando."
+        "pt-BR": "[Nalandro]\nA cientista da Ilusión que chegou primeiro... Qual era o nome mesmo? Ah, sim. Do ponto de vista de Juncea, deve parecer que Bagot chegou depois e está tomando o lugar dela.",
+        "es-ES": "[Lazy]\nSeguro que el científico de Ilusión que llegó primero... ¿cómo se llamaba? Ah, sí, desde el punto de vista de Juncea, debe sentir que Bagot llegó de la nada es su reemplazo."
     },
     "YesHDg": {
         "en-US": "[Leizi]\nAnd from Bagot's perspective, if he finds out Juncea feels that way, he'll definitely be annoyed.\nIf we gently play on that and drive a wedge between the two~ we might be able to deal with them one at a time.",
-        "pt-BR": "[Nalandro]\nE, do ponto de vista de Bagot, se souber o que Juncea pensa, com certeza vai ficar incomodado.\nSe mexermos nisso aos poucos e colocarmos os dois um contra o outro~ talvez possamos lidar com um de cada vez.",
-        "es-ES": "[Lazy]\nY desde el punto de vista de Bagot, si se entera de lo que piensa Juncea, seguro que no le hará ninguna gracia.\nSi aprovechamos esto con cuidado para enemistarlas~ quizá podamos encargarnos de ellas una por una."
+        "pt-BR": "[Nalandro]\nE, do ponto de vista de Bagot, se souber o que Juncea pensa, com certeza vai ficar incomodado.\nSe mexermos nisso aos poucos e colocarmos os dois um contra o outro... talvez possamos lidar com um de cada vez.",
+        "es-ES": "[Lazy]\nY desde el punto de vista de Bagot, si se entera de lo que piensa Juncea, seguro que no le hará ninguna gracia.\nSi aprovechamos esto con cuidado... quizá podamos encargarnos por separado."
     },
     "YusHDg": {
         "en-US": "[Leizi]\nWhat do you think? Good idea, right, Adventurer? What do you think of my plan?",
-        "pt-BR": "[Nalandro]\nE aí, é uma boa ideia, não é? Aventureiro. O que acha da minha opinião?",
-        "es-ES": "[Lazy]\n¿Qué te parece? Buena idea, ¿no, aventurero? ¿Qué opinas de mi propuesta?"
+        "pt-BR": "[Nalandro]\nE aí, é uma boa ideia, não é, viajante. O que achou da minha opinião?",
+        "es-ES": "[Lazy]\n¿Qué te parece? Buena idea, ¿no? ¿Qué opinas de mi propuesta?"
     },
     "Y+sHDg": {
         "en-US": "Tell her it's a good idea.",
-        "pt-BR": "Diz que é uma boa ideia.",
-        "es-ES": "Le dice que es una buena idea."
+        "pt-BR": "Dizer que é uma boa ideia.",
+        "es-ES": "Le dices que es buena idea."
     },
     "ZOsHDg": {
         "en-US": "Tell her it's not a very good idea.",
-        "pt-BR": "Diz que não é uma boa ideia.",
-        "es-ES": "Le dice que no le parece una buena idea."
+        "pt-BR": "Dizer que não é uma boa ideia.",
+        "es-ES": "Le dices que no es buena idea."
     },
     "ZesHDg": {
         "en-US": "[Leizi]\nNot a good idea? Hmm, then what do you think, Adventurer? Do you have an alternative?",
-        "pt-BR": "[Nalandro]\nNão acha uma boa ideia? Hmm, então o que você acha, aventureiro? Tem alguma alternativa?",
-        "es-ES": "[Lazy]\n¿No te convence? Hmm, entonces ¿qué piensas tú, aventurero? ¿Tienes alguna alternativa?"
+        "pt-BR": "[Nalandro]\nNão acha uma boa ideia? Hmm, então o que você acha, viajante? Tem alguma alternativa?",
+        "es-ES": "[Lazy]\n¿No te convence? Hmm, entonces ¿qué piensas tú? ¿Tienes alguna alternativa?"
     },
     "ZusHDg": {
         "en-US": "[Leizi]\nIf you're going to object, you should offer an alternative too. Adventurer, if you don't have one, let's at least give this a try.",
-        "pt-BR": "[Nalandro]\nSe vai discordar, também precisa sugerir uma alternativa. Aventureiro, se não tiver nenhuma alternativa em particular, vamos tentar assim por enquanto.",
-        "es-ES": "[Lazy]\nSi vas a oponerte, también deberías proponer una alternativa. Aventurero, si no tienes ninguna en particular, intentémoslo por ahora."
+        "pt-BR": "[Nalandro]\nSe vai discordar, também precisa sugerir uma alternativa. Viajante, se não tiver nenhuma alternativa em particular, vamos tentar assim por enquanto.",
+        "es-ES": "[Lazy]\nSi vas a oponerte, también deberías proponer una alternativa. Si no tienes ninguna, intentémoslo."
     },
     "Z+sHDg": {
         "en-US": "Agree since there is no other choice.",
-        "pt-BR": "Como não há outra opção, concorda.",
-        "es-ES": "Le dice que no hay más remedio y acepta."
+        "pt-BR": "Como não há outra opção, concordar.",
+        "es-ES": "Dices que no hay otra opción."
     },
     "aOsHDg": {
         "en-US": "[Leizi]\nGood. Then it's decided, right?\nIf we want to turn the two Illusions against each other, we'll have to get a little closer to them first.",
-        "pt-BR": "[Nalandro]\nÓtimo. Então está decidido, certo?\nPara colocar os dois Illusions um contra o outro, primeiro precisamos nos aproximar mais deles.",
-        "es-ES": "[Lazy]\nBien. Entonces, ¿queda decidido?\nPara enemistar a las dos Illusion, primero tendremos que acercarnos más a ellas."
+        "pt-BR": "[Nalandro]\nÓtimo. Então está decidido, certo?\nPara colocar os dois membros da Ilusión um contra o outro, primeiro precisamos nos aproximar mais deles.",
+        "es-ES": "[Lazy]\nBien. ¿Decidido?\nPara enemistar los dos Ilusión, primero tendremos que acercarnos más a ellos."
     },
     "aesHDg": {
         "en-US": "[Leizi]\nJuncea seems to like you, Adventurer, so you take care of Juncea.\nShe said I was weird, you know. She's way weirder herself.",
-        "pt-BR": "[Nalandro]\nParece que Juncea gosta de você, aventureiro, então fique responsável por ela.\nEla disse que eu sou estranho. Como se ela mesma não fosse ainda mais estranha.",
-        "es-ES": "[Lazy]\nParece que a Juncea le agradas, así que tú encárgate de ella.\nEsa mujer me dijo que yo era raro. Y eso que ella es aún más rara."
+        "pt-BR": "[Nalandro]\nParece que Juncea gosta de você, viajante, então fique responsável por ela.\nEla disse que eu sou estranho. Como se ela mesma não fosse ainda mais estranha.",
+        "es-ES": "[Lazy]\nParece que a Juncea le agradas, así que encárgate tú.\nMe dijo que yo era raro, yo digo que ella es más."
     },
     "ausHDg": {
         "en-US": "[Leizi]\nLet's keep winning their favor while slowly pouring Poison into their ears.\nShall we get going, then? You can handle it, right?",
-        "pt-BR": "[Nalandro]\nVamos conquistar ainda mais a confiança deles e, aos poucos, derramar Veneno em seus ouvidos.\nEntão, vamos? Você consegue, não é?",
-        "es-ES": "[Lazy]\nSigamos ganándonos su confianza mientras le vertemos poco a poco Veneno en el oído.\nEntonces, ¿vamos? Puedes hacerlo bien, ¿verdad?"
+        "pt-BR": "[Nalandro]\nVamos conquistar ainda mais a confiança deles e, aos poucos, derramar veneno em seus ouvidos.\nEntão, vamos? Você consegue, não é?",
+        "es-ES": "[Lazy]\nSigamos ganándonos su confianza mientras le envenenamos el oído.\n¿Vamos? ¿Puedes hacerlo?"
     },
     "a+sHDg": {
         "en-US": "Nod.",
-        "pt-BR": "Assente com a cabeça.",
-        "es-ES": "Asiente con la cabeza."
+        "pt-BR": "Assentir com a cabeça.",
+        "es-ES": "Asientes."
     },
     "bOsHDg": {
         "en-US": "[Leizi]\nAh, so reliable. Our Adventurer really is dependable.\nThen let's meet at the Ice Castle next time. People might get suspicious if we keep whispering here.",
-        "pt-BR": "[Nalandro]\nAh, que confiável. Nosso aventureiro é realmente confiável.\nEntão vamos nos encontrar no Castelo de Gelo da próxima vez. Ficar cochichando aqui o tempo todo também pode chamar atenção.",
-        "es-ES": "[Lazy]\nAh, qué confiable. Nuestro aventurero sí que es de fiar.\nEntonces, nos vemos la próxima vez en el Castillo de Hielo. También podría llamar la atención que sigamos susurrando aquí."
+        "pt-BR": "[Nalandro]\nAh, que confiável. Não esperava menos de você.\nEntão vamos nos encontrar no Castelo de Gelo da próxima vez. Ficar cochichando aqui muito tempo também pode chamar atenção.",
+        "es-ES": "[Lazy]\nAh, qué confiable. Sí que eres de fiar.\nNos vemos la próxima en el Castillo de Hielo. Podrían sospechar si nos ven aquí susurrando."
     },
     "besHDg": {
         "en-US": "[Leizi]\nI'll go see Bagot. Shall we each get to work, then?\nGo see <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>. Let's do this, Adventurer.",
-        "pt-BR": "[Nalandro]\nEu vou falar com Bagot. Então, que tal cada um ir fazer sua parte?\nVá até <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>. Vamos fazer isso dar certo, aventureiro.",
-        "es-ES": "[Lazy]\nYo iré a ver a Bagot. Entonces, ¿vamos cada uno a hacer lo que nos toca?\nVe con <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>. Hagámoslo bien, aventurero."
+        "pt-BR": "[Nalandro]\nEu vou falar com Bagot. Então, que tal cada um ir fazer sua parte?\nVá até <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>. Vamos fazer isso dar certo, viajante.",
+        "es-ES": "[Lazy]\nYo iré a ver a Bagot. Entonces, ¿vamos a hacer lo que nos toca?\nVe con <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>. Suerte."
     },
     "busHDg": {
         "en-US": "[Leizi]\nOh, Adventurer. You're still here?\nI was just about to head back to the castle.",
-        "pt-BR": "[Nalandro]\nEi, aventureiro. Ainda está aqui?\nAcho que já vou voltar para o castelo.",
-        "es-ES": "[Lazy]\nEh, aventurero. ¿Todavía estabas aquí?\nYo ya pensaba volver al castillo."
+        "pt-BR": "[Nalandro]\nEi, viajante. Ainda está aqui?\nAcho que já vou voltar para o castelo.",
+        "es-ES": "[Lazy]\nOye, ¿sigues por aquí?\nYo ya pensaba volver al castillo."
     },
     "b+sHDg": {
         "en-US": "[Leizi]\nYou should start heading back too, Adventurer, before anyone gets suspicious.",
-        "pt-BR": "[Nalandro]\nAventureiro, vamos voltar também antes que chamemos atenção.",
-        "es-ES": "[Lazy]\nTú también deberías volver poco a poco, aventurero, para no llamar la atención."
+        "pt-BR": "[Nalandro]\nViajante, vamos voltar também antes que chamemos atenção.",
+        "es-ES": "[Lazy]\nTú también deberías volver para no llamar la atención."
     },
     "cOsHDg": {
         "en-US": "Let's go a little farther inside.",
@@ -246,8 +246,8 @@
     },
     "cesHDg": {
         "en-US": "Pile of Documents",
-        "pt-BR": "Pilha de documentos",
-        "es-ES": "Pila de documentos"
+        "pt-BR": "Pilha de Documentos",
+        "es-ES": "Pila de Documentos"
     },
     "cusHDg": {
         "en-US": "[{0}]\n(Oh, right, the Transformation Scroll! Don't forget.)",
@@ -267,12 +267,12 @@
     "desHDg": {
         "en-US": "[Report]\n…artificially implanting artificial magical power into an individual…\n…using this method, we have determined that it is possible to further increase the grade of an unhatched egg…",
         "pt-BR": "[Relatório]\n…implantando artificialmente poder mágico artificial nos indivíduos…\n…foi constatado que, usando esse método, é possível elevar ainda mais a classe de ovos que ainda não nasceram…",
-        "es-ES": "[Informe]\n…implantando artificialmente poder mágico artificial en los individuos…\n…se descubrió que, mediante este método, es posible aumentar el rango de los huevos que aún no han nacido…"
+        "es-ES": "[Informe]\n...implantando artificialmente poder mágico artificial en los individuos…\n…se descubrió que, mediante este método, es posible aumentar el nivel de los huevos que aún no han nacido…"
     },
     "dusHDg": {
         "en-US": "Is this similar to the experiment Bagot was conducting? I'm not sure….",
         "pt-BR": "Será que isso é parecido com o experimento que Bagot estava fazendo? Não sei ao certo….",
-        "es-ES": "¿Esto se parece al experimento que hacía Bagot? No estoy seguro…"
+        "es-ES": "¿Esto se parece al experimento que hacía Bagot? No lo sé…"
     },
     "d+sHDg": {
         "en-US": "[{0}]\nIs this about all the information I can find…?",
@@ -287,7 +287,7 @@
     "eesHDg": {
         "en-US": "(Have I looked around the other places enough…? Now let's return to <NAVI>[Leizi]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>.)",
         "pt-BR": "(Já olhei o suficiente pelos outros lugares… Agora vamos voltar até <NAVI>[Nalandro]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>.)",
-        "es-ES": "(¿Ya revisé suficientemente los demás lugares…? Ahora volvamos con <NAVI>[Lazy]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>.)"
+        "es-ES": "(¿Ya revisé bien todo? Volvamos con <NAVI>[Lazy]<INFO>jor_nest,127,207,0,101,0</INFO></NAVI>.)"
     },
     "eusHDg": {
         "en-US": "(Let's look around the other places too.)",
@@ -307,7 +307,7 @@
     "fesHDg": {
         "en-US": "[Report]\n…not only that, but if the same method is used on an individual that has already been born…\n…we have also confirmed that it can be transformed into an even superior individual…",
         "pt-BR": "[Relatório]\n…além disso, se o mesmo método for usado em indivíduos que já nasceram…\n…também foi constatado que é possível transformá-los em indivíduos ainda superiores…",
-        "es-ES": "[Informe]\n…además, si se utiliza el mismo método en individuos que ya han nacido…\n…también se ha comprobado que pueden convertirse en individuos aún más superiores…"
+        "es-ES": "[Informe]\n…además, si se utiliza el mismo método en individuos ya nacidos…\n…se ha comprobado que pueden convertirse en individuos aún más superiores…"
     },
     "fusHDg": {
         "en-US": "Who's there? An intruder?!",
@@ -316,13 +316,13 @@
     },
     "f+sHDg": {
         "en-US": "[Jörmungandr]\nThe outsiders should be away. What are you doing here?!",
-        "pt-BR": "[Yugrungand]\nOs forasteiros deveriam estar ausentes. O que você está fazendo aqui?!",
-        "es-ES": "[Ygglungand]\nLos forasteros deberían estar fuera. ¡¿Qué estás haciendo aquí?!"
+        "pt-BR": "[Jormungand]\nOs forasteiros deveriam estar ausentes. O que você está fazendo aqui?!",
+        "es-ES": "[Jormungand]\nAquí no aceptamos forasteros. ¡¿Qué hacen aquí?!"
     },
     "gOsHDg": {
         "en-US": "[Jörmungandr]\nHm? I haven't seen you before. You're of the priest rank?\nAh, I see. Are you the one who was newly born? How cute. What's your name?",
-        "pt-BR": "[Yugrungand]\nHum? Não conheço esse rosto. Você é da classe sacerdotal?\nAh, entendi. Então você é quem nasceu recentemente. Que gracinha. Qual é o seu nome?",
-        "es-ES": "[Ygglungand]\n¿Hm? No había visto tu cara antes. ¿Dices que eres de rango sacerdotal?\nAh, ya veo. ¿Tú eres quien nació recientemente? Qué adorable. ¿Cómo te llamas?"
+        "pt-BR": "[Jormungand]\nHum? Não conheço esse rosto. Você é da classe sacerdotal?\nAh, entendi. Então você é um nos nascimentos recentes. Que gracinha. Qual é o seu nome?",
+        "es-ES": "[Jormungand]\n¿Hm? No había visto tu cara antes. ¿Dices que eres de rango sacerdotal?\nAh, ya. ¿Tú fuiste quien acaba de nacer? Qué adorable. ¿Cómo te llamas?"
     },
     "gesHDg": {
         "en-US": "[{0}]\nI'm Senekiogand.",
@@ -331,38 +331,38 @@
     },
     "gusHDg": {
         "en-US": "[Jörmungandr]\nI see, Senekiogand. Did you wander all the way here while playing by yourself?\nBut there are many dangerous things in the outsiders' quarters. You mustn't come in here without permission.",
-        "pt-BR": "[Yugrungand]\nCerto, Senekiogand. Veio até aqui enquanto brincava sozinho?\nMas há muitas coisas perigosas nos alojamentos dos forasteiros. Não pode entrar aqui sem permissão.",
-        "es-ES": "[Ygglungand]\nYa veo, Senekiogand. ¿Llegaste hasta aquí mientras jugabas por tu cuenta?\nPero hay muchas cosas peligrosas en el lugar donde viven los forasteros. No debes entrar aquí sin permiso."
+        "pt-BR": "[Jormungand]\nCerto, Senekiogand. Veio até aqui enquanto brincava sem supervisão?\nMas há muitas coisas perigosas nos alojamentos dos forasteiros. Não pode entrar aqui sem permissão.",
+        "es-ES": "[Yugrungand]\nYa veo, Senekiogand. ¿Llegaste aquí mientras jugabas?\nHay muchas cosas peligrosas de donde viven los forasteros. No debes entrar aquí sin permiso."
     },
     "g+sHDg": {
         "en-US": "[{0}]\n(…This is convenient. I don't even need to make an excuse.)\nYes, that's right. I won't do it again.",
         "pt-BR": "[{0}]\n(…Assim é fácil, nem preciso inventar uma desculpa.)\nSim, é isso mesmo. Não vou fazer de novo.",
-        "es-ES": "[{0}]\n(…Qué cómodo, ni siquiera tengo que inventar una excusa.)\nSí, así es. No volveré a hacerlo."
+        "es-ES": "[{0}]\n(Qué bien, no tengo ni que inventar excusas.)\nSí, no volveré a hacerlo."
     },
     "hOsHDg": {
         "en-US": "[Jörmungandr]\nThat's right. Good child. My name is Jörmungandr. I'm in overall command of the guards assigned to the quarters of the outside humans.",
-        "pt-BR": "[Yugrungand]\nIsso, muito bem. Eu me chamo Yugrungand. Sou o responsável geral pela guarda dos alojamentos dos humanos de fora.",
-        "es-ES": "[Ygglungand]\nEso es, muy bien. Me llamo Ygglungand. Soy el responsable principal de la guardia del alojamiento de los humanos forasteros."
+        "pt-BR": "[Jormungand]\nIsso, muito bem. Eu me chamo Jormungand. Sou o responsável geral pela guarda dos alojamentos dos humanos de fora.",
+        "es-ES": "[Yugrungand]\nBien. Me llamo Yugrungand. Soy el responsable de la guardia del alojamiento de los humanos forasteros."
     },
     "hesHDg": {
         "en-US": "[Jörmungandr]\nPart of our purpose is to protect them… but we're also here to keep an eye on them. Humans can't be trusted, after all.",
-        "pt-BR": "[Yugrungand]\nNosso objetivo também é protegê-los… mas, é claro, também vigiá-los. Afinal, não dá para confiar nos humanos.",
-        "es-ES": "[Ygglungand]\nTambién tenemos el objetivo de protegerlos… pero, por supuesto, también de vigilarlos. No se puede confiar en los humanos."
+        "pt-BR": "[Jormungand]\nNosso objetivo também é protegê-los… mas, é claro, também vigiá-los. Afinal, não dá para confiar nos humanos.",
+        "es-ES": "[Yugrungand]\nTenemos el objetivo de protegerlos… pero también de vigilarlos. No se puede confiar en los humanos."
     },
     "husHDg": {
         "en-US": "[Jörmungandr]\nBut it seems humans can't even trust one another.",
-        "pt-BR": "[Yugrungand]\nMas parece que nem os próprios humanos confiam uns nos outros.",
-        "es-ES": "[Ygglungand]\nPero parece que los humanos tampoco confían entre ellos."
+        "pt-BR": "[Jormungand]\nMas parece que nem os próprios humanos confiam uns nos outros.",
+        "es-ES": "[Yugrungand]\nPero parece que los humanos tampoco confían entre ellos."
     },
     "h+sHDg": {
         "en-US": "[Jörmungandr]\nFor a while, they seemed to pretend they were somewhat close, but lately it looks like they've started showing their true colors.",
-        "pt-BR": "[Yugrungand]\nHouve uma época em que até pareciam fingir que eram um pouco próximos, mas ultimamente parece que os dois revelaram sua verdadeira natureza.",
-        "es-ES": "[Ygglungand]\nDurante un tiempo parecía que fingían llevarse un poco mejor, pero últimamente parece que ambos han mostrado su verdadera naturaleza."
+        "pt-BR": "[Jormungand]\nHouve uma época em que até pareciam fingir que eram um pouco próximos, mas ultimamente parece que os dois revelaram sua verdadeira natureza.",
+        "es-ES": "[Jormungand]\nDurante un tiempo parecía que fingían llevarse un poco mejor, pero últimamente están mostrando su verdadera naturaleza."
     },
     "iOsHDg": {
         "en-US": "[Jörmungandr]\nThe human who mainly uses this place… yes, Juncea seems to think Bagot has taken her place.",
-        "pt-BR": "[Yugrungand]\nA humana que usa este lugar principalmente… sim, Juncea parece achar que Bagot tomou o lugar dela.",
-        "es-ES": "[Ygglungand]\nLa humana que usa principalmente este lugar… sí, Juncea parece pensar que Bagot le quitó su lugar."
+        "pt-BR": "[Jormungand]\nA humana que usa este lugar principalmente… sim, Juncea parece achar que Bagot tomou o lugar dela.",
+        "es-ES": "[Yugrungand]\nLa humana que usa principalmente este lugar… sí, Juncea piensa que Bagot le quitó su lugar."
     },
     "iesHDg": {
         "en-US": "[{0}]\nTaken her place?",
@@ -371,13 +371,13 @@
     },
     "iusHDg": {
         "en-US": "[Jörmungandr]\nYes. Bagot took all the favor Lord Rasgand had been showing her until now.",
-        "pt-BR": "[Yugrungand]\nSim. Afinal, Bagot tomou para si todo o favor que ela recebia do senhor Rasgand até agora.",
-        "es-ES": "[Ygglungand]\nSí. Porque Bagot se quedó con todo el favor que hasta ahora recibía de Lord Rasgand."
+        "pt-BR": "[Jormungand]\nSim. Afinal, Bagot tomou para si todo o favor que ela recebia do senhor Ragand até agora.",
+        "es-ES": "[Yugrungand]\nSí. Porque Bagot se quedó con todo el favor que hasta ahora recibía de Lord Ragand."
     },
     "i+sHDg": {
         "en-US": "[Jörmungandr]\nLooks like they're trying to get results any way they can… but I don't think it's possible right now.\nWhoops, was that too complicated for a young one like you?",
-        "pt-BR": "[Yugrungand]\nParece que está tentando conseguir algum resultado de qualquer jeito… mas, no momento, acho que é impossível.\nOpa, será que falei de coisas difíceis demais para uma criança?",
-        "es-ES": "[Ygglungand]\nAsí que parece que intenta conseguir resultados a toda costa… pero ahora mismo no hay forma.\nVaya, ¿habré hablado de cosas demasiado difíciles para un joven como tú?"
+        "pt-BR": "[Jormungand]\nParece que está tentando conseguir algum resultado de qualquer jeito… mas, no momento, acho que é impossível.\nOpa, será que falei de coisas difíceis demais para uma criança?",
+        "es-ES": "[Yugrungand]\nAsí que intenta conseguir resultados a toda costa… pero ahora mismo no hay forma.\n¿Será que dije cosas muy complicadas para tu comprensión?"
     },
     "jOsHDg": {
         "en-US": "[{0}]\n(Maybe I should pretend I didn't understand.)\nIt's okay. It was interesting.",
@@ -386,78 +386,78 @@
     },
     "jesHDg": {
         "en-US": "[Jörmungandr]\nHaha, kid. I can tell from your face that you didn't understand a thing.\nI was just rambling, so don't worry about it.",
-        "pt-BR": "[Yugrungand]\nHaha, criança. Está estampado na sua cara que você não entendeu nada.\nEu falei demais, então não se preocupe.",
-        "es-ES": "[Ygglungand]\nJa, ja. Se te nota en la cara que no entendiste nada.\nYo fui quien habló demasiado, así que no te preocupes."
+        "pt-BR": "[Jormungand]\nHaha, criança. Está estampado na sua cara que você não entendeu nada.\nEu falei demais, então não se preocupe.",
+        "es-ES": "[Yugrungand]\nSe te ve en la cara que no entendiste nada. Ja, ja...\nHablé de más, no te preocupes."
     },
     "jusHDg": {
         "en-US": "[Jörmungandr]\nI'll head back first. Senekio, don't touch anything you shouldn't, and make sure you get back soon too.",
-        "pt-BR": "[Yugrungand]\nEntão vou na frente. Senekio, você também não fique mexendo em coisas desnecessárias e volte logo.",
-        "es-ES": "[Ygglungand]\nEntonces me adelantaré. Senekio, tú tampoco toques cosas innecesarias y regresa pronto."
+        "pt-BR": "[Jormungand]\nEntão vou na frente. Senekiogand, não mexa em nada que não saiba o que é, e volte logo.",
+        "es-ES": "[Yugrungand]\nEntonces me adelantaré. Senekiogand, no toques nada y regresa a tu lugar."
     },
     "j+sHDg": {
         "en-US": "[{0}]\nDon't worry. Thank you, Jörmungandr.",
-        "pt-BR": "[{0}]\nNão se preocupe. Obrigado, Yugrungand.",
-        "es-ES": "[{0}]\nNo se preocupe. Gracias, Ygglungand."
+        "pt-BR": "[{0}]\nNão se preocupe. Obrigado, Jormungand.",
+        "es-ES": "[{0}]\nNo se preocupe. Gracias, Yugrungand."
     },
     "kOsHDg": {
         "en-US": "[{0}]\n(I think I've learned everything I can from Jungkea's laboratory.)",
-        "pt-BR": "[{0}]\n(Acho que já descobri tudo o que podia no laboratório de Yunkea.)",
-        "es-ES": "[{0}]\n(Parece que ya averigüé todo lo que podía en el laboratorio de Jungkea.)"
+        "pt-BR": "[{0}]\n(Acho que já descobri tudo o que podia no laboratório de Juncea.)",
+        "es-ES": "[{0}]\n(Parece que ya averigüé todo lo que podía del laboratorio de Juncea.)"
     },
     "kesHDg": {
         "en-US": "Jörmungandr",
-        "pt-BR": "Yugrungand",
-        "es-ES": "Ygglungand"
+        "pt-BR": "Jormungand",
+        "es-ES": "Yugrungand"
     },
     "kusHDg": {
         "en-US": "[Jörmungandr]\nWho are you?! How dare a human come here!",
-        "pt-BR": "[Yugrungand]\nQuem é você?! Como ousa, humano!",
-        "es-ES": "[Ygglungand]\n¿Quién eres tú? ¡¿Cómo se atreve un humano?!"
+        "pt-BR": "[Jormungand]\nQuem é você?! Como um humano ousa vir aqui!",
+        "es-ES": "[Yugrungand]\n¿Quién eres tú? ¡¿Cómo se atreve un humano?!"
     },
     "k+sHDg": {
         "en-US": "[Jörmungandr]\nA child shouldn't be wandering around a place like this alone.",
-        "pt-BR": "[Yugrungand]\nUma criança não deve andar sozinha por um lugar como este.",
-        "es-ES": "[Ygglungand]\nUn niño no debería andar solo por un lugar como este."
+        "pt-BR": "[Jormungand]\nUma criança não deve andar sozinha por um lugar como este.",
+        "es-ES": "[Yugrungand]\nUn niño no debería andar solo por un lugar como este."
     },
     "lOsHDg": {
         "en-US": "Jungkea",
-        "pt-BR": "Yunkea",
+        "pt-BR": "Juncea",
         "es-ES": "Jungkea"
     },
     "lesHDg": {
         "en-US": "[Jungkea]\nWho are you?! Get out right now!",
-        "pt-BR": "[Yunkea]\nQuem é você?! Saia daqui agora!",
-        "es-ES": "[Jungkea]\n¡¿Quién eres?! ¡Sal de aquí ahora mismo!"
+        "pt-BR": "[Juncea]\nQuem é você?! Saia daqui agora!",
+        "es-ES": "[Juncea]\n¡¿Quién eres?! ¡Sal de aquí ahora mismo!"
     },
     "lusHDg": {
         "en-US": "[Jungkea]\n……What? Who are you? You……. Don't come in without saying anything.",
-        "pt-BR": "[Yunkea]\n……O quê? Quem é você? Você……. Não entre sem avisar.",
-        "es-ES": "[Jungkea]\n……¿Qué? ¿Quién eres? Tú……. No entres sin avisar."
+        "pt-BR": "[Juncea]\n……O quê? Quem é você? Você……. Não entre sem avisar.",
+        "es-ES": "[Juncea]\n¿Quién eres tú? No puedes entrar sin avisar."
     },
     "l+sHDg": {
         "en-US": "[Jungkea]\n…Someone else barging in without a word… Oh, Senekiogand. It's you.",
-        "pt-BR": "[Yunkea]\n…De novo alguém entrando sem avisar… Ah, Senekiogand. É você.",
-        "es-ES": "[Jungkea]\n…Otra vez alguien entra sin avisar… Ah, Senekiogand. Eras tú."
+        "pt-BR": "[Juncea]\n…De novo alguém entrando sem avisar… Ah, Senekiogand. É você.",
+        "es-ES": "[Juncea]\n...otra vez alguien entró sin avisar. Ah, Senekiogand, eres tú."
     },
     "mOsHDg": {
         "en-US": "[{0}]\nI'm Senekiogand. Human Jungkea, what are you doing?",
         "pt-BR": "[{0}]\nSou Senekiogand. Humana Yunkea, o que você está fazendo?",
-        "es-ES": "[{0}]\nSoy Senekiogand. Humano Jungkea, ¿qué está haciendo?"
+        "es-ES": "[{0}]\nSoy Senekiogand. Juncea, ¿qué está haciendo?"
     },
     "mesHDg": {
         "en-US": "[Jungkea]\nCan't you tell? An experiment.",
-        "pt-BR": "[Yunkea]\nNão está vendo? Um experimento.",
-        "es-ES": "[Jungkea]\nEs obvio con solo mirar. Un experimento."
+        "pt-BR": "[Juncea]\nNão está vendo? Um experimento.",
+        "es-ES": "[Juncea]\nEs obvio con solo mirar: un experimento."
     },
     "musHDg": {
         "en-US": "[{0}]\nSticking a needle into your own body is an experiment? Human Jungkea, are you using your own body as the test subject?",
-        "pt-BR": "[{0}]\nEnfiar uma agulha no próprio corpo é um experimento? Humana Yunkea, seu próprio corpo é o material do experimento?",
-        "es-ES": "[{0}]\n¿Clavarse una aguja en el cuerpo es un experimento? Humano Jungkea, ¿su propio cuerpo es el material de prueba?"
+        "pt-BR": "[{0}]\nEnfiar uma agulha no próprio corpo é um experimento? Humana Juncea, seu próprio corpo é o material do experimento?",
+        "es-ES": "[{0}]\n¿Clavarse una aguja en el cuerpo es un experimento? ¿Su propio cuerpo es el material de prueba?"
     },
     "m+sHDg": {
         "en-US": "[Jungkea]\nI'm only doing this because I have no choice. I promised I wouldn't use any of you as test subjects,",
-        "pt-BR": "[Yunkea]\nEstou fazendo isso porque não tenho escolha. Prometi que não usaria vocês como cobaias,",
-        "es-ES": "[Jungkea]\nLo hago porque no tengo otra opción. Prometí no usarlos a ustedes como sujetos de prueba,"
+        "pt-BR": "[Juncea]\nEstou fazendo isso porque não tenho escolha. Prometi que não usaria vocês como cobaias.",
+        "es-ES": "[Juncea]\nLo hago porque no tengo otra opción. Prometí no usarlos a ustedes como sujetos de prueba."
     },
     "nOsHDg": {
         "en-US": "[{0}]\nDo it in secret. You can experiment on me.",
@@ -466,8 +466,8 @@
     },
     "nesHDg": {
         "en-US": "[Jungkea]\n……That's quite a tempting offer.\nBut no. If I want proper results, I can't hide the process.",
-        "pt-BR": "[Yunkea]\n……Essa é uma proposta bem tentadora, não é?\nMas não. Para obter resultados adequados, não posso esconder o processo.",
-        "es-ES": "[Jungkea]\n……Es una propuesta bastante tentadora, ¿eh?\nPero no. Para obtener resultados adecuados, no se puede ocultar el proceso."
+        "pt-BR": "[Juncea]\n……Essa é uma proposta bem tentadora, não é?\nMas não. Para obter resultados adequados, não posso esconder o processo.",
+        "es-ES": "[Juncea]\n……Es una propuesta bastante tentadora.\nPero no. Para obtener resultados adecuados, no se puede ocultar el proceso."
     },
     "nusHDg": {
         "en-US": "[{0}]\nThat's complicated. But I think you're right.",
@@ -476,28 +476,28 @@
     },
     "n+sHDg": {
         "en-US": "[Jungkea]\nYeah. I don't do things the wrong way.\nNow stop bothering me and get out.",
-        "pt-BR": "[Yunkea]\nIsso mesmo. Eu não faço coisas erradas.\nAgora pare de me atrapalhar e saia.",
-        "es-ES": "[Jungkea]\nAsí es. Yo no hago cosas incorrectas.\nAhora deja de molestar y vete."
+        "pt-BR": "[Juncea]\nIsso mesmo. Eu não faço coisas erradas.\nAgora pare de me atrapalhar e saia.",
+        "es-ES": "[Juncea]\nAsí es. Yo no hago cosas incorrectas.\nYa deja de molestar y vete."
     },
     "oOsHDg": {
         "en-US": "[Jungkea]\nMy blood sugar's low, and I'm exhausted. You may be a precious child, but I don't have the energy to look after your every need.",
-        "pt-BR": "[Yunkea]\nEstou cansada porque meu açúcar caiu. Por mais preciosa que você seja, não tenho energia para ficar cuidando de você o tempo todo.",
-        "es-ES": "[Jungkea]\nEstoy cansado porque me bajó el azúcar. Por muy valioso que seas como niño, no tengo energía para cuidarte a cada rato."
+        "pt-BR": "[Juncea]\nEstou cansada porque minha glicose caiu. Por mais que você seja uma criança preciosa, não tenho energia para ficar cuidando de você o tempo todo.",
+        "es-ES": "[Juncea]\nMe cansé porque se me bajó el azúcar. Por mucho valor que tengas, no tengo la energía que necesito para cuidarte."
     },
     "oesHDg": {
         "en-US": "[{0}]\nWhat does low blood sugar mean? Is it bad? Is it because Human Jungkea is experimenting on your own body?",
-        "pt-BR": "[{0}]\nO que significa o açúcar cair? É algo ruim? É porque a humana Yunkea está fazendo experimentos no próprio corpo?",
-        "es-ES": "[{0}]\n¿Qué significa que le bajó el azúcar? ¿Es algo malo? ¿Es porque el humano Jungkea experimenta con su propio cuerpo?"
+        "pt-BR": "[{0}]\nO que significa \"a glicose cair\"? É algo ruim? É porque a humana Juncea está fazendo experimentos no próprio corpo?",
+        "es-ES": "[{0}]\n¿Se le bajó el azúcar? ¿Es algo malo? ¿Es porque está experimentando con su propio cuerpo?"
     },
     "ousHDg": {
         "en-US": "[Jungkea]\nI can't say anything around you, can I? But I'm going to keep doing it, so don't interfere.",
-        "pt-BR": "[Yunkea]\nNão dá nem para falar nada com você, sério. Mas vou continuar, então não me atrapalhe.",
-        "es-ES": "[Jungkea]\nDe verdad, contigo no se puede decir nada. Pero voy a seguir haciéndolo, así que no me molestes."
+        "pt-BR": "[Juncea]\nNão dá para falar nada perto de você, hein? Mas vou continuar, então não me atrapalhe.",
+        "es-ES": "[Juncea]\nContigo no se puede decir nada. Pero voy a seguir haciéndolo, así que no me molestes."
     },
     "o+sHDg": {
         "en-US": "[Jungkea]\nLow blood sugar just means I want something sweet.\nIf you bring me something sweet, I might listen to your chatter for a while….",
-        "pt-BR": "[Yunkea]\nQuando digo que meu açúcar caiu, quero dizer que estou com vontade de comer algo doce.\nSe você trouxer alguma coisa doce, talvez eu até escute um pouco da sua conversa….",
-        "es-ES": "[Jungkea]\nQue me baje el azúcar significa que tengo ganas de comer algo dulce.\nSi me trajeras algo que tenga sabor dulce, quizá podría escuchar un poco de tu charla…."
+        "pt-BR": "[Juncea]\nQuando digo que minha glicose caiu, quero dizer que estou com vontade de comer algo doce.\nSe você trouxer alguma coisa doce, talvez eu até escute um pouco da sua conversa….",
+        "es-ES": "[Juncea]\nQue me baje el azúcar significa que tengo ganas de comer algo dulce.\nSi me trajeras algo dulce, tal vez podría seguir hablando contigo..."
     },
     "pOsHDg": {
         "en-US": "[{0}]\n(Something sweet… She knows I can't get any, so she's just trying to get rid of me. But if I actually bring some back, I might earn some points with her.)",
@@ -506,63 +506,63 @@
     },
     "pesHDg": {
         "en-US": "[{0}]\n(Should I go back to <NAVI>[Ice Castle]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> and see if anyone has some snacks? Maybe someone at the Adventurer's Lodging has something. As long as I can get some, I can come up with an excuse.)",
-        "pt-BR": "[{0}]\n(Será que devo voltar para <NAVI>[Castelo de Gelo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> e procurar alguém que tenha algum petisco? Talvez encontre alguém no alojamento dos aventureiros. Se eu conseguir, basta inventar uma desculpa adequada.)",
-        "es-ES": "[{0}]\n(¿Debería volver a <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> y buscar a alguien que tenga algún bocadillo? Quizá haya alguien en el alojamiento de aventureros. Si consigo algo, ya pensaré en alguna excusa.)"
+        "pt-BR": "[{0}]\n(Será que devo voltar para o <NAVI>[Castelo de Gelo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> e procurar alguém que tenha algum petisco? Talvez encontre alguém no alojamento dos aventureiros. Se eu conseguir, basta inventar uma desculpa.)",
+        "es-ES": "[{0}]\n(¿Debería volver al <NAVI>[Castillo de Hielo]<INFO>icas_in,245,197,0,101,0</INFO></NAVI> y buscar a alguien que tenga algún bocadillo? Quizá encuentre algo. Si consigo algo, ya pensaré en alguna excusa.)"
     },
     "pusHDg": {
         "en-US": "[Jungkea]\n…Senekiogand.\nYou and Bagot are the only ones who come and go without saying anything.",
-        "pt-BR": "[Yunkea]\n…Senekiogand.\nSó você e Bagot entram e saem daqui sem avisar.",
-        "es-ES": "[Jungkea]\n…Senekiogand.\nLos únicos que entran y salen sin decir nada son tú y Bagot."
+        "pt-BR": "[Juncea]\n…Senekiogand.\nSó você e Bagot entram e saem daqui sem avisar.",
+        "es-ES": "[Juncea]\n…Senekiogand.\nLos únicos que entran y salen sin decir nada son tú y Bagot."
     },
     "p+sHDg": {
         "en-US": "[Jungkea]\nDidn't I tell you not to do that?\nJust because Bagot ignores me, are you going to do the same?",
-        "pt-BR": "[Yunkea]\nEu já disse para não fazer isso, não disse?\nSó porque Bagot me ignora, você também pretende fazer o mesmo?",
-        "es-ES": "[Jungkea]\nTe dije que no hicieras eso, ¿verdad?\n¿También vas a hacerlo solo porque Bagot no me hace caso?"
+        "pt-BR": "[Juncea]\nEu já disse para não fazer isso, não disse?\nSó porque Bagot me ignora, você também pretende fazer o mesmo?",
+        "es-ES": "[Juncea]\nTe dije que no hicieras eso, ¿no?\n¿Vas a hacerlo solo porque Bagot no me hace caso?"
     },
     "qOsHDg": {
         "en-US": "[{0}]\nI didn't ignore you. You said you'd listen to me if I brought you something sweet, remember?\nI brought you something sweet.",
         "pt-BR": "[{0}]\nEu não ignorei você. Você disse que ouviria o que eu tenho a dizer se eu trouxesse algo doce, não disse?\nEu trouxe algo doce.",
-        "es-ES": "[{0}]\nNo la ignoré. Dijo que escucharía lo que tuviera que decir si le traía algo dulce, ¿verdad?\nLe traje algo dulce."
+        "es-ES": "[{0}]\nNo es eso. Dijo que escucharía lo que tuviera que decir si le traía algo dulce, ¿no?\nLe traje algo dulce."
     },
     "qesHDg": {
         "en-US": "[Jungkea]\nReally? How did you manage that?",
-        "pt-BR": "[Yunkea]\nSério? Como você conseguiu?",
-        "es-ES": "[Jungkea]\n¿De verdad? ¿Y cómo lo conseguiste?"
+        "pt-BR": "[Juncea]\nSério? Como você conseguiu?",
+        "es-ES": "[Juncea]\n¿De verdad? ¿Y cómo lo conseguiste?"
     },
     "qusHDg": {
-        "en-US": "[{0}]\nI went outside and caught those round, furry things… the Iwins, and told them I'd let them go if they handed something over.\nSo they gave me this. They said it was sweet.",
-        "pt-BR": "[{0}]\nSaí e capturei aquelas coisas redondas e peludas… os Iwins. Disse que os soltaria se entregassem alguma coisa.\nEntão me deram isto. Disseram que é doce.",
-        "es-ES": "[{0}]\nSalí y atrapé a esas cosas redondas y peludas… a los Arwin, y les dije que si me lo entregaban, los dejaría vivir.\nEntonces me lo dieron. Dijeron que era dulce."
+        "en-US": "[{0}]\nI went outside and caught those round, furry things… the Windcys, and told them I'd let them go if they handed something over.\nSo they gave me this. They said it was sweet.",
+        "pt-BR": "[{0}]\nSaí e capturei aquelas coisas redondas e peludas… Iwins. E disse que os soltaria se entregassem alguma coisa.\nEntão me deram isto. Disseram que é doce.",
+        "es-ES": "[{0}]\nSalí y atrapé a esas cosas redondas y peludas… a los Nevientos, y les dije que si me lo entregaban, los dejaría vivir.\nY me lo dieron, dijeron que es dulce."
     },
     "q+sHDg": {
         "en-US": "[Jungkea]\nYou're pretty resourceful, aren't you?\n…Mmm, you really are resourceful. It's cold and sweet. I like it.",
-        "pt-BR": "[Yunkea]\nVocê é bem habilidosa, hein?\n…Hum, hum, realmente é bem habilidosa. É gelado e doce. Gostei.",
-        "es-ES": "[Jungkea]\nVaya, sí que eres hábil.\n…Mmm, de verdad eres hábil. Está frío y dulce. Me gusta."
+        "pt-BR": "[Juncea]\nVocê sabe desenrolar, hein?\n…Hum, hum, realmente, tem suas habilidades. É gelado e doce. Gostei.",
+        "es-ES": "[Juncea]\nSí que eres hábil.\n…De verdad que lo eres. Está frío y dulce. Me gusta."
     },
     "rOsHDg": {
         "en-US": "[Jungkea]\nSo, what did you want to talk about badly enough to go through all this trouble?\nI'll make an exception and listen. Mmm, this is good. My blood sugar's coming back up.",
-        "pt-BR": "[Yunkea]\nEntão, sobre o que você queria tanto conversar para se dar a todo esse trabalho?\nVou ouvir você especialmente desta vez. Hum, está gostoso. Meu açúcar está voltando.",
+        "pt-BR": "[Juncea]\nEntão, sobre o que você queria tanto conversar para se dar a todo esse trabalho?\nExcepcionalmente, vou ouvir você desta vez. Hum, está gostoso. Meu açúcar está voltando.",
         "es-ES": "[Jungkea]\nBien, ¿de qué querías hablar para esforzarte tanto?\nEsta vez te escucharé. Mmm, qué rico. Ya estoy recuperando el azúcar."
     },
     "resHDg": {
         "en-US": "[{0}]\nThere wasn't anything special I wanted to talk about.\nHuman Jungkea, do you like sweets?",
-        "pt-BR": "[{0}]\nNão era nada especial que eu queria contar.\nHumana Yunkea, você gosta de doces?",
-        "es-ES": "[{0}]\nNo quería hablar de nada especial.\nHumana Jungkea, ¿le gustan las cosas dulces?"
+        "pt-BR": "[{0}]\nNão era nada especial que eu queria contar.\nHumana Juncea, você gosta de doces?",
+        "es-ES": "[{0}]\nNo quería hablar de nada especial.\nJuncea, ¿le gustan las cosas dulces?"
     },
     "rusHDg": {
         "en-US": "[Jungkea]\nI-I'm only eating it because I need it.\nWhat does it matter whether I like it or not?",
-        "pt-BR": "[Yunkea]\nÉ, é só porque preciso consumir isso.\nGostar ou não gostar, o que isso importa?",
-        "es-ES": "[Jungkea]\nS-solo las consumo porque las necesito.\nQué importa si me gustan o no."
+        "pt-BR": "[Juncea]\nE-eu só como porque preciso.\nGostar ou não gostar, o que isso importa?",
+        "es-ES": "[Juncea]\nSolo porque las necesito.\nQué importa si me gustan o no."
     },
     "r+sHDg": {
         "en-US": "[{0}]\nCan't you ask the great Lord Rasgand for some?\nLord Rasgand said he would provide us with what we need in Lord Jörmungandr's stead.",
         "pt-BR": "[{0}]\nVocê não pode pedir ao grande Lorde Lasgand?\nDisseram que Lorde Lasgand nos concede aquilo de que precisamos em nome de Lorde Jormungand.",
-        "es-ES": "[{0}]\n¿No puede pedírselas al gran Rasgand?\nDijeron que Rasgand nos concede lo que necesitamos en nombre de Jormungand."
+        "es-ES": "[{0}]\n¿No puede pedírselas al gran Ragand?\nDijeron que Ragand nos concede lo que necesitamos en nombre de Jormungand."
     },
     "sOsHDg": {
         "en-US": "[Jungkea]\nAh, he doesn't personally take care of every little snack like this.\nStill, he used to provide proper research materials, back then.",
-        "pt-BR": "[Yunkea]\nAh, ele não vai cuidar pessoalmente até de petiscos como este.\nMas antes ele fornecia adequadamente os materiais de pesquisa.",
-        "es-ES": "[Jungkea]\nAh, no se ocupa personalmente de cosas tan insignificantes como estos bocadillos.\nAun así, antes sí me proporcionaba adecuadamente los materiales de investigación."
+        "pt-BR": "[Juncea]\nAh, ele não vai cuidar pessoalmente de coisas tão pequenas.\nMas, antes, ele fornecia materiais de pesquisa adequados.",
+        "es-ES": "[Juncea]\nAh, no se ocupa de cosas tan insignificantes como esto.\nPero antes sí me proporcionaba todos los materiales de investigación."
     },
     "sesHDg": {
         "en-US": "[{0}]\nNot anymore?",
@@ -571,13 +571,13 @@
     },
     "susHDg": {
         "en-US": "[Jungkea]\nWe're tightening the budget in all sorts of ways right now.\nIt can't be helped.",
-        "pt-BR": "[Yunkea]\nAgora estamos cortando gastos de várias formas.\nNão tem jeito.",
-        "es-ES": "[Jungkea]\nAhora estamos reduciendo gastos de muchas maneras.\nNo hay nada que hacer."
+        "pt-BR": "[Juncea]\nAgora estamos cortando gastos de várias formas.\nNão tem jeito.",
+        "es-ES": "[Juncea]\nAhora estamos reduciendo gastos de muchas maneras.\nNo hay nada que hacer."
     },
     "s+sHDg": {
         "en-US": "[Jungkea]\nEnough. A child shouldn't be worrying about things like that.\nI'm busy, so go on now.",
-        "pt-BR": "[Yunkea]\nChega. Crianças não devem se preocupar com esse tipo de coisa.\nEstou ocupada, então pode ir.",
-        "es-ES": "[Jungkea]\nYa basta. Los niños no deberían preocuparse por esas cosas.\nEstoy ocupada, así que vete."
+        "pt-BR": "[Juncea]\nChega. Crianças não devem se preocupar com esse tipo de coisa.\nEstou ocupada, então pode ir.",
+        "es-ES": "[Juncea]\nBasta. Los niños no deberían preocuparse por estas cosas.\nEstoy ocupada, vete."
     },
     "tOsHDg": {
         "en-US": "[{0}]\nI want to talk more.",
@@ -586,83 +586,83 @@
     },
     "tesHDg": {
         "en-US": "[Jungkea]\nNot for free. I told you, I'm busy.\nBring me more of this snack…, or bring me <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> 10 for my research.",
-        "pt-BR": "[Yunkea]\nNão pode ser de graça. Eu disse que estou ocupada.\nTraga mais desse petisco…, ou então 10 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM> para eu usar na pesquisa.",
-        "es-ES": "[Jungkea]\nNo puede ser así nada más. Te dije que estoy ocupada.\nTrae más de este bocadillo…, o trae 10 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM> para usar en la investigación."
+        "pt-BR": "[Juncea]\nDe graça, não. Eu disse que estou ocupada.\nTraga mais desse petisco…, ou então 10x <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM> para eu usar na pesquisa.",
+        "es-ES": "[Juncea]\nNo puedo. Te dije que tengo cosas que hacer.\nTrae más de este bocadillo…, o trae 10 <ITEM>[Núcleo Mágico Inferior Rgan]<INFO>1000707</INFO></ITEM> para usar en la investigación."
     },
     "tusHDg": {
         "en-US": "[Jungkea]\nDon't talk to me until then.",
-        "pt-BR": "[Yunkea]\nNão fale comigo antes disso.",
-        "es-ES": "[Jungkea]\nNo me hables hasta entonces."
+        "pt-BR": "[Juncea]\nNão fale comigo antes disso.",
+        "es-ES": "[Juncea]\nNo me hables hasta entonces."
     },
     "t+sHDg": {
         "en-US": "[Jungkea]\nSenekiogand. Didn't I tell you not to come and go without saying anything?",
-        "pt-BR": "[Yunkea]\nSenekiogand. Eu disse para não ficar entrando e saindo sem avisar, não disse?",
-        "es-ES": "[Jungkea]\nSenekiogand. Te dije que no entraras y salieras sin avisar, ¿verdad?"
+        "pt-BR": "[Juncea]\nSenekiogand. Eu disse para não ficar entrando e saindo sem avisar, não disse?",
+        "es-ES": "[Juncea]\nSenekiogand. Te dije que no entraras y salieras sin avisar, ¿no?"
     },
     "uOsHDg": {
         "en-US": "[Jungkea]\nJust because Bagot ignores me, are you going to do the same?",
-        "pt-BR": "[Yunkea]\nSó porque Bagot me ignora, você também pretende fazer o mesmo?",
-        "es-ES": "[Jungkea]\n¿También vas a hacerlo solo porque Bagot no me hace caso?"
+        "pt-BR": "[Juncea]\nSó porque Bagot me ignora, você também pretende fazer o mesmo?",
+        "es-ES": "[Juncea]\n¿También vas a hacerlo solo porque Bagot no me hace caso?"
     },
     "uesHDg": {
         "en-US": "[Jungkea]\nYou're here, Senekiogand.",
-        "pt-BR": "[Yunkea]\nVocê voltou, Senekiogand.",
-        "es-ES": "[Jungkea]\nLlegaste, Senekiogand."
+        "pt-BR": "[Juncea]\nVocê voltou, Senekiogand.",
+        "es-ES": "[Juncea]\nLlegaste, Senekiogand."
     },
     "uusHDg": {
         "en-US": "[Jungkea]\nI told you I'm busy, so I can't just hang out with you. Did you bring more Ice Snack? Or <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> 10?",
-        "pt-BR": "[Yunkea]\nEu disse que estou ocupada e não posso ficar brincando com você de graça. Trouxe mais Doce de Gelo? Ou então 10 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>?",
-        "es-ES": "[Jungkea]\nTe dije que estoy ocupada y que no puedo entretenerte sin más. ¿Trajiste más Dulce de hielo? ¿O 10 <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM>?"
+        "pt-BR": "[Juncea]\nEu disse que estou ocupada e não posso ficar brincando com você de graça. Trouxe mais Doce Gelado? Ou então 10x <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>?",
+        "es-ES": "[Juncea]\nTe dije que estoy ocupada. ¿Trajiste más Galleta Helada? ¿O 10 <ITEM>[Núcleo Mágico Inferior Rgan]<INFO>1000707</INFO></ITEM>?"
     },
     "u+sHDg": {
         "en-US": "I brought more Ice Snack.",
-        "pt-BR": "Eu trouxe mais Doce de Gelo.",
-        "es-ES": "Traje más Dulce de hielo."
+        "pt-BR": "Eu trouxe mais Doce Gelado.",
+        "es-ES": "Traje más Galleta Helada."
     },
     "vOsHDg": {
         "en-US": "I brought Low-quality Rgan Magic Core 10.",
-        "pt-BR": "Eu trouxe 10 Núcleo Mágico Inferior de Regan.",
-        "es-ES": "Traje 10 Núcleo Mágico Inferior de Regan."
+        "pt-BR": "Eu trouxe 10 Núcleos Mágicos Inferiores de Rgan.",
+        "es-ES": "Traje Núcleo Mágico Inferior Rgan x10."
     },
     "vesHDg": {
         "en-US": "[Jungkea]\nWait, you didn't bring anything.\nAre you ignoring what I said?",
-        "pt-BR": "[Yunkea]\nEspere, você não trouxe nada.\nEstá ignorando o que eu disse?",
-        "es-ES": "[Jungkea]\nEspera, no trajiste nada.\n¿Estás ignorando lo que te dije?"
+        "pt-BR": "[Juncea]\nEspera, você não trouxe nada.\nEstá ignorando o que eu disse?",
+        "es-ES": "[Juncea]\nEspera, no trajiste nada.\n¿Me estás ignorando?"
     },
     "vusHDg": {
         "en-US": "[Jungkea]\nWait, you didn't bring it.\nAre you ignoring what I said?",
-        "pt-BR": "[Yunkea]\nEspere, você não trouxe.\nEstá ignorando o que eu disse?",
-        "es-ES": "[Jungkea]\nEspera, no lo trajiste.\n¿Estás ignorando lo que te dije?"
+        "pt-BR": "[Juncea]\nEspera, você não trouxe.\nEstá ignorando o que eu disse?",
+        "es-ES": "[Juncea]\nEspera, no trajiste nada.\n¿Me estás ignorando?"
     },
     "v+sHDg": {
         "en-US": "[Jungkea]\nYou really brought it. You're not actually a newborn Rgan, are you?",
-        "pt-BR": "[Yunkea]\nVocê realmente trouxe. Você não é, na verdade, um Rgan recém-nascido?",
-        "es-ES": "[Jungkea]\nDe verdad lo trajiste. Tú, ¿no será que en realidad no eres un Rgan recién nacido?"
+        "pt-BR": "[Juncea]\nVocê realmente trouxe. Você não é um Rgan recém-nascido de verdade, é?",
+        "es-ES": "[Juncea]\nDe verdad lo trajiste. ¿De verdad eres un Rgan recién nacido?"
     },
     "wOsHDg": {
         "en-US": "[{0}]\n(…Gulp.)",
-        "pt-BR": "[{0}]\n(…Ai.)",
-        "es-ES": "[{0}]\n(…Eso dolió)"
+        "pt-BR": "[{0}]\n(…Ih, lascou.)",
+        "es-ES": "[{0}]\n(…Gulp.)"
     },
     "wesHDg": {
         "en-US": "[Jungkea]\nI'm joking. It's not like a fully grown Rgan could just spring out of the ground. Though if that happened, it would certainly be worth researching.",
-        "pt-BR": "[Yunkea]\nEstou brincando. Não tem como um Rgan adulto brotar do chão. Se fosse assim, realmente valeria a pena pesquisar.",
-        "es-ES": "[Jungkea]\nEs broma. No hay forma de que un Rgan adulto brote de la tierra. Aunque, si pasara, sin duda valdría la pena investigarlo."
+        "pt-BR": "[Juncea]\nEstou brincando. Não tem como um Rgan adulto brotar do chão. Se fosse assim, realmente valeria a pena pesquisar.",
+        "es-ES": "[Juncea]\nEs broma. No hay forma en la que un Rgan adulto aparezca de la nada. Aunque, si pasara, valdría la pena investigarlo."
     },
     "wusHDg": {
         "en-US": "[{0}]\nAre you running out of things to research? Even after I brought you that eggshell last time?",
         "pt-BR": "[{0}]\nEstá faltando coisa para pesquisar? Mesmo depois de eu trazer a casca do ovo da última vez?",
-        "es-ES": "[{0}]\n¿Te faltan cosas para investigar? ¿Aun después de que te traje cáscaras de huevo la vez pasada?"
+        "es-ES": "[{0}]\n¿Te faltan cosas para investigar? ¿Aun después de que te traje Cáscara de Huevo la vez pasada?"
     },
     "w+sHDg": {
         "en-US": "[Jungkea]\nI can experiment with that for a while… but it won't be enough if I want to keep producing results.\nBagot is probably still pulling ahead….",
-        "pt-BR": "[Yunkea]\nCom aquilo, dá para fazer experimentos por algum tempo… mas acho que não vai ser suficiente. Não se eu quiser continuar obtendo resultados.\nBagot deve continuar avançando….",
-        "es-ES": "[Jungkea]\nPodría experimentar con eso por un tiempo… pero no será suficiente. Si quiero seguir obteniendo resultados.\nBagot debe de seguir avanzando mientras tanto…."
+        "pt-BR": "[Juncea]\nCom aquilo, dá para fazer experimentos por algum tempo… mas acho que não vai ser suficiente. Não se eu quiser continuar obtendo resultados.\nBagot ainda deve estar na frente e avançando mais….",
+        "es-ES": "[Juncea]\nPodría experimentar con eso por un tiempo... pero si quiero resultados, no es suficiente.\nBagot debe de seguir avanzando..."
     },
     "xOsHDg": {
         "en-US": "[Jungkea]\nI want to experiment directly on Rgans instead of eggshells.\nThen I could prove it.",
-        "pt-BR": "[Yunkea]\nQuero fazer experimentos diretamente nos Regans, e não na casca do ovo.\nAssim eu poderia provar.",
-        "es-ES": "[Jungkea]\nQuiero experimentar directamente con los Rgan, no con las cáscaras de huevo.\nAsí podría demostrarlo."
+        "pt-BR": "[Juncea]\nQuero fazer experimentos diretamente nos Rgans, e não na casca do ovo.\nAssim eu poderia provar.",
+        "es-ES": "[Juncea]\nQuiero experimentar directamente con los Rgan, no con las cáscaras de huevo.\nAsí podría demostrarlo."
     },
     "xesHDg": {
         "en-US": "[{0}]\nProve what?",
@@ -671,8 +671,8 @@
     },
     "xusHDg": {
         "en-US": "[Jungkea]\nThe hypothesis that injecting magic into an already-born Rgan can make it stronger.\nBut it's dangerous. I can't experiment recklessly.",
-        "pt-BR": "[Yunkea]\nA hipótese de que também é possível fortalecer um Rgan já nascido ao injetar poder mágico nele.\nMas é perigoso. Não posso fazer experimentos sem cuidado.",
-        "es-ES": "[Jungkea]\nLa hipótesis de que incluso un Rgan que ya nació puede volverse más fuerte si se le inyecta poder mágico.\nPero es peligroso. No puedo experimentar a la ligera."
+        "pt-BR": "[Juncea]\nA hipótese de que também é possível fortalecer um Rgan já nascido ao injetar poder mágico nele.\nMas é perigoso. Não posso fazer experimentos sem cuidado.",
+        "es-ES": "[Juncea]\nLa hipótesis de que un Rgan que ya nació puede volverse más fuerte si se le inyecta poder mágico.\nPero es peligroso, pero no puedo tomar riesgos."
     },
     "x+sHDg": {
         "en-US": "[{0}]\nWow! I want to get stronger.\nYou really can experiment on me.",
@@ -681,93 +681,93 @@
     },
     "yOsHDg": {
         "en-US": "[Jungkea]\nI told you I can't because I made a promise. Besides, it's a dangerous experiment.\nI can't experiment on you.",
-        "pt-BR": "[Yunkea]\nEu disse que não posso porque prometi. Além disso, é um experimento perigoso.\nNão posso fazer isso em você.",
-        "es-ES": "[Jungkea]\nTe dije que no puedo porque hice una promesa. Además, es un experimento peligroso.\nNo puedo experimentar contigo."
+        "pt-BR": "[Juncea]\nEu disse que não posso porque fiz uma promessa. Além disso, é um experimento perigoso.\nNão posso fazer isso em você.",
+        "es-ES": "[Juncea]\nTe dije que no puedo porque hice una promesa. Además, es un experimento peligroso.\nNo puedo experimentar contigo."
     },
     "yesHDg": {
         "en-US": "[{0}]\nBut Human Jungkea, if it's dangerous for me, an Rgan, wouldn't it be even more dangerous for Human Jungkea?\nI'm worried about you, Human Jungkea.",
-        "pt-BR": "[{0}]\nMas, humana Yunkea, se é perigoso para mim, que sou um Regan, não seria ainda mais perigoso para a humana Yunkea?\nEstou preocupada com você, humana Yunkea.",
-        "es-ES": "[{0}]\nPero, humana Jungkea, si es peligroso para mí, que soy Rgan, ¿no es aún más peligroso para usted?\nMe preocupa, humana Jungkea."
+        "pt-BR": "[{0}]\nMas, humana Juncea, se é perigoso para mim, que sou um Rgan, não seria ainda mais perigoso para você?\nEstou preocupada com você, humana Juncea.",
+        "es-ES": "[{0}]\nPero, Juncea, si es peligroso para mí, que soy Rgan, ¿no es aún más peligroso para usted?\nMe preocupa."
     },
     "yusHDg": {
         "en-US": "[Jungkea]\n……You really worry about the strangest things.\nAll right, break time's over! Go play somewhere else.",
-        "pt-BR": "[Yunkea]\n……Você se preocupa com cada coisa.\nPronto, acabou a hora do descanso! Agora vá brincar.",
-        "es-ES": "[Jungkea]\n……Sí que te preocupas por todo tipo de cosas.\n¡Bien, se acabó el descanso! Ve a jugar."
+        "pt-BR": "[Juncea]\n……Você se preocupa com cada coisa.\nPronto, acabou a hora do descanso! Agora vá brincar.",
+        "es-ES": "[Juncea]\n...te preocupan cosas muy extrañas.\n¡Bien, se acabó el descanso! Ve a jugar."
     },
     "y+sHDg": {
         "en-US": "[Jungkea]\nIf you want to talk more… you know the deal. Don't come empty-handed.\nBring Ice Snack 1 like the one you brought before, or <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> 10.",
-        "pt-BR": "[Yunkea]\nSe quiser conversar mais… já sabe, não é? Não pode vir de mãos vazias.\nTraga Doce de Gelo 1 ou <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM> 10.",
-        "es-ES": "[Jungkea]\nSi quieres seguir hablando… ya sabes, ¿no? No puedes venir con las manos vacías.\nTrae Dulce de hielo una unidad como la que trajiste antes o <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM> diez unidades."
+        "pt-BR": "[Juncea]\nSe quiser conversar mais… já sabe, não é? Não pode vir de mãos vazias.\nTraga 1 Doce Gelado ou 10x <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>.",
+        "es-ES": "[Juncea]\nSi quieres seguir hablando... ya sabes, ¿no? No puedes venir con las manos vacías.\nTrae Galleta Helada x1 o <ITEM>[Núcleo Mágico Inferior Rgan]<INFO>1000707</INFO></ITEM> x10."
     },
     "zOsHDg": {
         "en-US": "[Jungkea]\nThen I'll at least hear you out.",
-        "pt-BR": "[Yunkea]\nAí eu posso pelo menos ouvir o que você tem a dizer.",
-        "es-ES": "[Jungkea]\nEntonces al menos escucharé lo que quieras contarme."
+        "pt-BR": "[Juncea]\nAí eu vou pelo menos ouvir o que você tem a dizer.",
+        "es-ES": "[Juncea]\nSolo así podremos platicar."
     },
     "zesHDg": {
         "en-US": "[Jungkea]\nWait, you didn't bring anything.\nWhat a waste of time.",
-        "pt-BR": "[Yunkea]\nEspere, você não trouxe nada.\nSó perdi meu tempo.",
-        "es-ES": "[Jungkea]\nEspera, no trajiste nada.\nSolo perdimos el tiempo."
+        "pt-BR": "[Juncea]\nEspere, você não trouxe nada.\nQue perda de tempo.",
+        "es-ES": "[Juncea]\nEspera, no trajiste nada.\nQué pérdida de tiempo."
     },
     "zusHDg": {
         "en-US": "[Jungkea]\nWait, you didn't bring it.\nWhat a waste of time.",
-        "pt-BR": "[Yunkea]\nEspere, você não trouxe.\nSó perdi meu tempo.",
-        "es-ES": "[Jungkea]\nEspera, no lo trajiste.\nSolo perdimos el tiempo."
+        "pt-BR": "[Juncea]\nEspere, você não trouxe.\nQue perda de tempo.",
+        "es-ES": "[Juncea]\nEspera, no trajiste nada.\nQué pérdida de tiempo."
     },
     "z+sHDg": {
         "en-US": "[Jungkea]\nYou never get tired of coming in and out. Do you like my laboratory, Senekiogand?",
-        "pt-BR": "[Yunkea]\nVocê entra e sai daqui sem se cansar. Gostou do meu laboratório, Senekiogand?",
-        "es-ES": "[Jungkea]\nEntras y sales sin cansarte. ¿Te gusta mi laboratorio, Senekiogand?"
+        "pt-BR": "[Juncea]\nVocê entra e sai daqui sem se cansar. Você gosta do meu laboratório, Senekiogand?",
+        "es-ES": "[Juncea]\nTú nunca te cansas. ¿Te gusta mi laboratorio?"
     },
     "0OsHDg": {
         "en-US": "[Jungkea]\nBut I can't just hang out with you for free. Which did you bring, Ice Snack 1 or <ITEM>[Low-quality Rgan Magic Core]<INFO>1000707</INFO></ITEM> 10?",
-        "pt-BR": "[Yunkea]\nMas não posso ficar brincando com você de graça. O que você trouxe: Doce de Gelo 1 ou <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM> 10?",
-        "es-ES": "[Jungkea]\nPero no puedo entretenerte sin más. Entre Dulce de hielo 1 unidad y <ITEM>[Núcleo Mágico Inferior de Regan]<INFO>1000707</INFO></ITEM> 10 unidades, ¿qué trajiste?"
+        "pt-BR": "[Juncea]\nMas não posso ficar brincando com você de graça. O que você trouxe? 1 Doce Gelado ou 10x <ITEM>[Núcleo Mágico Inferior de Rgan]<INFO>1000707</INFO></ITEM>?",
+        "es-ES": "[Juncea]\nHabla. ¿Trajiste Galleta Helada x1 o  <ITEM>[Núcleo Mágico Inferior Rgan]<INFO>1000707</INFO></ITEM> x10?"
     },
     "0esHDg": {
         "en-US": "I brought Ice Snack 1.",
-        "pt-BR": "Eu trouxe Doce de Gelo 1.",
-        "es-ES": "Traje Dulce de hielo 1 unidad."
+        "pt-BR": "Eu trouxe 1 Doce Gelado.",
+        "es-ES": "Traje Galleta Helada x1."
     },
     "0usHDg": {
         "en-US": "I brought Low-quality Rgan Magic Core 10.",
-        "pt-BR": "Eu trouxe Núcleo Mágico Inferior de Regan 10.",
-        "es-ES": "Traje Núcleo Mágico Inferior de Regan 10 unidades."
+        "pt-BR": "Eu trouxe 10 Núcleos Mágicos Inferiores de Rgan.",
+        "es-ES": "Traje Núcleo Mágico Inferior Rgan x10."
     },
     "0+sHDg": {
         "en-US": "[Jungkea]\nWait, you didn't bring anything.\nThen I can't hang out with you.",
-        "pt-BR": "[Yunkea]\nEspere, você não trouxe nada.\nEntão não posso brincar com você.",
-        "es-ES": "[Jungkea]\nEspera, no trajiste nada.\nEntonces no puedo entretenerte."
+        "pt-BR": "[Juncea]\nEspera, você não trouxe nada.\nEntão não posso brincar com você.",
+        "es-ES": "[Juncea]\nEspera, no trajiste nada.\nNo me quites el tiempo."
     },
     "1OsHDg": {
         "en-US": "[Jungkea]\nWait, you didn't bring it.\nThen I can't hang out with you.",
-        "pt-BR": "[Yunkea]\nEspere, você não trouxe.\nEntão não posso brincar com você.",
-        "es-ES": "[Jungkea]\nEspera, no lo trajiste.\nEntonces no puedo entretenerte."
+        "pt-BR": "[Juncea]\nEspera, você não trouxe.\nEntão não posso brincar com você.",
+        "es-ES": "[Juncea]\nEspera, no trajiste nada.\nNo me quites el tiempo."
     },
     "1esHDg": {
         "en-US": "[Jungkea]\n…What am I even doing, making a child do this?\nAnyway, thanks.",
-        "pt-BR": "[Yunkea]\n…O que estou fazendo com uma criança?\nEnfim, obrigada.",
-        "es-ES": "[Jungkea]\n…Qué estoy haciendo con un niño.\nEn fin, gracias."
+        "pt-BR": "[Juncea]\n…O que estou fazendo, mandando uma criança me trazer coisas?\nEnfim, obrigada.",
+        "es-ES": "[Juncea]\n¿...Por qué un niño está haciendo esto por mí?\nComo sea, gracias."
     },
     "1usHDg": {
         "en-US": "[{0}]\nCan you spare some time for me now?",
-        "pt-BR": "[{0}]\nAgora você pode me dar um pouco do seu tempo?",
-        "es-ES": "[{0}]\n¿Ahora puede dedicarme un poco de tiempo?"
+        "pt-BR": "[{0}]\nAgora você pode me dar um pouco de atenção?",
+        "es-ES": "[{0}]\n¿Me vas a regalar tiempo?"
     },
     "1+sHDg": {
         "en-US": "[Jungkea]\nI already am, aren't I?\nThough I should really be busy experimenting.",
-        "pt-BR": "[Yunkea]\nJá estou dando, não estou?\nNa verdade, eu deveria estar ocupada com os experimentos.",
-        "es-ES": "[Jungkea]\nYa te lo estoy dedicando, incluso ahora.\nAunque en realidad debería estar ocupada experimentando."
+        "pt-BR": "[Juncea]\nJá estou dando, não estou?\nNa verdade, eu deveria estar ocupada com os experimentos.",
+        "es-ES": "[Juncea]\nYa te lo estoy regalando justo ahora.\nAunque debería estar ocupada experimentando."
     },
     "2OsHDg": {
         "en-US": "[Jungkea]\nEven if I work hard to gather data, it'll all end up going to Bagot anyway.\nWhatever happens, happens.",
-        "pt-BR": "[Yunkea]\nDe qualquer forma, mesmo que eu me esforce para obter dados, tudo vai acabar nas mãos de Bagot.\nQue seja o que tiver de ser.",
-        "es-ES": "[Jungkea]\nDe todos modos, por mucho que me esfuerce en obtener datos, todo terminará en manos de Bagot.\nQue pase lo que tenga que pasar."
+        "pt-BR": "[Juncea]\nDe qualquer forma, mesmo que eu me esforce para obter dados, tudo vai acabar nas mãos do Bagot.\nQue seja o que tiver de ser.",
+        "es-ES": "[Juncea]\nY aunque me esfuerce en obtener resultados, todo será para Bagot...\nQue pase lo que tenga que pasar."
     },
     "2esHDg": {
         "en-US": "[Jungkea]\nI'm already struggling because I barely have any experimental materials.\nBut Bagot must be in the same situation.",
-        "pt-BR": "[Yunkea]\nJá estou sofrendo com a falta de material para os experimentos.\nMas Bagot deve estar na mesma situação.",
-        "es-ES": "[Jungkea]\nComo si no fuera suficiente con que casi no tenga materiales para experimentar.\nPero supongo que Bagot estará en la misma situación."
+        "pt-BR": "[Juncea]\nJá estou sofrendo com a falta de material para os experimentos.\nMas Bagot deve estar na mesma situação.",
+        "es-ES": "[Juncea]\nComo si no fuera suficiente con que casi no tenga materiales para experimentar.\nPero supongo que Bagot estará en la misma situación."
     },
     "2usHDg": {
         "en-US": "[{0}]\nIt sounds like experiments have been difficult lately.",
@@ -776,133 +776,133 @@
     },
     "2+sHDg": {
         "en-US": "[Jungkea]\nYeah. These days, neither I nor Bagot have much magic left in the bodies we still have here. So there hasn't been much progress.",
-        "pt-BR": "[Yunkea]\nSim. Ultimamente, tanto eu quanto Bagot quase não temos corpos restantes aqui com poder mágico. Por isso, não estamos progredindo muito.",
-        "es-ES": "[Jungkea]\nSí. Últimamente, tanto yo como Bagot apenas tenemos poder mágico en los cuerpos que quedan aquí. Por eso casi no hay avances."
+        "pt-BR": "[Juncea]\nSim. Ultimamente, tanto eu quanto Bagot quase não temos corpos com poder mágico restantes aqui. Por isso, não estamos progredindo muito.",
+        "es-ES": "[Juncea]\nSí. Últimamente, tanto yo como Bagot apenas tenemos poder mágico en los cuerpos que quedan aquí. Por eso casi no hay avances."
     },
     "3OsHDg": {
         "en-US": "[{0}]\nStill, I heard Human Bagot gets a lot of support.",
         "pt-BR": "[{0}]\nMesmo assim, ouvi dizer que o humano Bagot recebe muito apoio.",
-        "es-ES": "[{0}]\nAun así, escuché que el humano Bagot recibe muchísimo apoyo."
+        "es-ES": "[{0}]\nAun así, escuché que Bagot recibe muchísimo apoyo."
     },
     "3esHDg": {
         "en-US": "[Jungkea]\nWhat? That can't be true.\nI heard he gets more than I do, but not enough to call it a lot.",
-        "pt-BR": "[Yunkea]\nO quê? Não pode ser.\nOuvi dizer que ele recebe mais do que eu, mas não deve ser a ponto de ser muito.",
-        "es-ES": "[Jungkea]\n¿Qué? Eso no puede ser.\nEscuché que recibe más que yo, pero no creo que sea tanto como para decir que recibe muchísimo."
+        "pt-BR": "[Juncea]\nO quê? Não pode ser.\nOuvi dizer que ele recebe mais do que eu, mas não deve ser a ponto de ser muito.",
+        "es-ES": "[Juncea]\n¿Qué? No puede ser.\nEscuché que recibe más que yo, pero no creo que sea tanto como para decir que recibe muchísimo."
     },
     "3usHDg": {
         "en-US": "[Jungkea]\nThey're already giving him all sorts of accommodations… surely they wouldn't favor him that much. Besides, resources are scarce overall.",
-        "pt-BR": "[Yunkea]\nJá estão dando várias facilidades para ele… Não devem estar favorecendo tanto assim. Além disso, os recursos estão escassos no geral.",
-        "es-ES": "[Jungkea]\nYa le están dando varias facilidades… No creo que estén haciendo una diferencia tan grande entre nosotros. Además, faltan recursos en general."
+        "pt-BR": "[Juncea]\nJá estão dando várias facilidades para ele… Não devem estar favorecendo tanto assim. Além disso, os recursos estão escassos no geral.",
+        "es-ES": "[Juncea]\nYa se la ponen muy fácil... no creo que sea tan diferente como conmigo. Además, faltan recursos en general."
     },
     "3+sHDg": {
         "en-US": "[{0}]\n(…I did bring the ledger with me. Should I show Jungkea the evidence?)",
-        "pt-BR": "[{0}]\n(…Eu tinha trazido o livro contábil. Será que mostro a prova para Yunkea?)",
-        "es-ES": "[{0}]\n(…Había traído el libro contable. ¿Debería mostrarle la prueba a Jungkea?)"
+        "pt-BR": "[{0}]\n(…Eu tinha trazido o livro contábil. Será que mostro a prova para Juncea?)",
+        "es-ES": "[{0}]\n(...había traido el libro contable. ¿Debería mostrarle las pruebas a Juncea?)"
     },
     "4OsHDg": {
         "en-US": "[Jungkea]\nThat can't be. It really can't. They said there were no resources. So that was a lie, and they gave everything to Bagot?",
-        "pt-BR": "[Yunkea]\nNão pode ser. Isso realmente não pode ser. Disseram que não havia recursos. Então era mentira e deram tudo para Bagot?",
-        "es-ES": "[Jungkea]\nNo puede ser. De verdad que no puede ser. Dijeron que no había recursos. ¿Y resulta que era mentira y que se lo estaban dando todo a Bagot?"
+        "pt-BR": "[Juncea]\nNão pode ser. Isso realmente não pode ser. Disseram que não havia recursos. Então era mentira e deram tudo para o Bagot?",
+        "es-ES": "[Juncea]\nNo puede ser. De verdad que no puede ser. Dijeron que no había recursos. ¡Pero todo es mentira, se lo están dando todo a Bagot!"
     },
     "4esHDg": {
         "en-US": "[{0}]\n(How do I show her this? If I act like I know too much, she'll get suspicious.)",
         "pt-BR": "[{0}]\n(Como vou mostrar isso? Se eu agir como se soubesse demais, vão desconfiar de mim.)",
-        "es-ES": "[{0}]\n(¿Cómo le muestro esto? Si actúo como si supiera demasiado, sospechará de mí.)"
+        "es-ES": "[{0}]\n(¿Cómo le muestro esto? Si le enseño que sé demasiado, va a sospechar de mí.)"
     },
     "4usHDg": {
         "en-US": "[{0}]\nI-isn't this~ the part that says Human Jungkea? I saw the same letters as the ones written over there and got excited, so I brought it.",
-        "pt-BR": "[{0}]\nI-isso~ Não está escrito humana Yunkea aqui? Eu vi as mesmas letras que estão escritas ali, fiquei feliz e trouxe.",
-        "es-ES": "[{0}]\nE-esto~ ¿no dice \"humana Jungkea\"? Me alegró ver las mismas letras que están escritas allá y por eso lo traje."
+        "pt-BR": "[{0}]\nI-Isso... Não está escrito humana Juncea aqui? Eu vi as mesmas letras que estão escritas ali, fiquei feliz e trouxe.",
+        "es-ES": "[{0}]\n¿Aquí no dice Juncea? Vi que aquí dice su nombre y por eso lo traje."
     },
     "4+sHDg": {
         "en-US": "[Jungkea]\nWhere did you get something like this?",
-        "pt-BR": "[Yunkea]\nOnde você conseguiu isso?",
-        "es-ES": "[Jungkea]\n¿De dónde sacaste esto?"
+        "pt-BR": "[Juncea]\nOnde você conseguiu isso?",
+        "es-ES": "[Juncea]\n¿De dónde sacaste esto?"
     },
     "5OsHDg": {
         "en-US": "[{0}]\nI'm a young priest, so nobody complains no matter where I go. I picked it up while I was playing.",
-        "pt-BR": "[{0}]\nComo sou uma pequena sacerdotisa, ninguém reclama se eu entrar em qualquer lugar. Peguei enquanto estava brincando.",
+        "pt-BR": "[{0}]\nEu sou da casta sacerdotal, então ninguém reclama se eu entrar nos lugares. Peguei enquanto estava brincando.",
         "es-ES": "[{0}]\nComo soy un joven sacerdote, nadie me dice nada aunque entre a cualquier lugar. Lo traje mientras jugaba."
     },
     "5esHDg": {
         "en-US": "[Jungkea]\nEven so, an Accounting Ledger… But if I look at this, I can really find out.",
-        "pt-BR": "[Yunkea]\nMesmo assim, um Livro Contábil… Mas olhando isso, dá para saber de verdade.",
-        "es-ES": "[Jungkea]\nAun así, llevarte un Libro contable… Pero con esto sí se puede saber la verdad."
+        "pt-BR": "[Juncea]\nMesmo assim, um livro contábil… Mas se eu examinar isto, dá para saber de verdade.",
+        "es-ES": "[Juncea]\nPero es un libro contable... Pero este libro puede decir la verdad."
     },
     "5usHDg": {
         "en-US": "[{0}]\n(H-huh? Where did I put the Accounting Ledger? No choice. I'll have to remember everything I can.)",
-        "pt-BR": "[{0}]\n(H-hã? Onde coloquei o Livro Contábil? Não tem jeito. Vou ter que usar toda a minha memória.)",
-        "es-ES": "[{0}]\n(¿Eh? ¿Dónde dejé el Libro contable? No queda de otra. Tendré que hacer memoria con todas mis fuerzas.)"
+        "pt-BR": "[{0}]\n(H-hã? Onde coloquei o livro contábil? Não tem jeito. Vou ter que falar tudo de cabeça.)",
+        "es-ES": "[{0}]\n(¿Dónde dejé el libro contable? Voy a tener que hacer memoria con todas mis fuerzas.)"
     },
     "5+sHDg": {
         "en-US": "[{0}]\nI-I saw it while I was playing. Under where it said Jungkea, there were this many numbers. And under where it said Bagot, there were thiiis many.",
-        "pt-BR": "[{0}]\nE-eu vi quando fui brincar. Debaixo de onde estava escrito Yunkea, tinha números deste tamanho. E debaixo de onde estava escrito Bagot, tinha números desse taaaamanho.",
-        "es-ES": "[{0}]\nL-lo vi mientras jugaba. Debajo de donde decía Jungkea había números así de grandes. Y debajo de donde decía Bagot, había números asííí de grandes."
+        "pt-BR": "[{0}]\nE-Eu vi quando fui brincar. Debaixo de onde estava escrito Juncea, tinha números deste tamanho. E debaixo de onde estava escrito Bagot, tinha números deeeeesse taaaamanho.",
+        "es-ES": "[{0}]\nLo vi mientras jugaba. Debajo de donde decía Juncea había números así de grandes. Y debajo de donde decía Bagot, había números mucho más grandes."
     },
     "6OsHDg": {
         "en-US": "[{0}]\nI was happy because I learned how to read Human Jungkea's name, so I looked really closely.",
-        "pt-BR": "[{0}]\nEu fiquei feliz por conseguir ler o nome da humana Yunkea, então olhei com atenção.",
-        "es-ES": "[{0}]\nComo ya puedo leer el nombre de la humana Jungkea, me dio gusto y lo miré con mucha atención."
+        "pt-BR": "[{0}]\nEu fiquei feliz por conseguir ler o nome da humana Juncea, então olhei com atenção.",
+        "es-ES": "[{0}]\nY como ya sé leer el nombre de Juncea lo leí con mucha atención."
     },
     "6esHDg": {
         "en-US": "[Jungkea]\nTell me more about it.\nHow much more do you remember?",
-        "pt-BR": "[Yunkea]\nConte com mais detalhes.\nQuanto mais você consegue lembrar?",
-        "es-ES": "[Jungkea]\nCuéntame con más detalle.\n¿Cuánto más recuerdas?"
+        "pt-BR": "[Juncea]\nMe dê mais detalhes.\nQuanto mais você consegue lembrar?",
+        "es-ES": "[Juncea]\nDime más. ¿Qué más recuerdas?"
     },
     "6usHDg": {
         "en-US": "[Jungkea]\n……………………\n……………………",
-        "pt-BR": "[Yunkea]\n……………………\n……………………",
+        "pt-BR": "[Juncea]\n……………………\n……………………",
         "es-ES": "[Jungkea]\n……………………\n……………………"
     },
     "6+sHDg": {
         "en-US": "[Jungkea]\n…No way. Have they been deceiving me all this time?\nThere really were this many experimental materials? And they were all going only to Bagot?",
-        "pt-BR": "[Yunkea]\n…Não pode ser. Estavam me enganando esse tempo todo?\nExistia mesmo tanto material de pesquisa assim? E tudo estava indo só para Bagot?",
-        "es-ES": "[Jungkea]\n…No puede ser. ¿Me estuvieron engañando todo este tiempo?\n¿De verdad existían tantos materiales de experimentación? ¿Y se los estaban dando todos solo a Bagot?"
+        "pt-BR": "[Juncea]\n…Não pode ser. Estavam me enganando esse tempo todo?\nExistia mesmo tanto material de pesquisa assim? E tudo estava indo só para o Bagot?",
+        "es-ES": "[Juncea]\nNo puede ser. ¿Me estuvieron engañando todo este tiempo?\n¿De verdad existían tantos materiales de experimentación? ¿Y se los estaban dando todos solo a Bagot?"
     },
     "7OsHDg": {
         "en-US": "[Jungkea]\nHow?! How could they do this?!",
-        "pt-BR": "[Yunkea]\nComo! Como puderam fazer isso!",
-        "es-ES": "[Jungkea]\n¡¿Cómo?! ¡¿Cómo pudieron hacer eso?!"
+        "pt-BR": "[Juncea]\nComo?! Como puderam fazer isso!",
+        "es-ES": "[Juncea]\n¡¿Cómo pudieron hacer eso?!"
     },
     "7esHDg": {
         "en-US": "[Jungkea]\nI got here first!!\nI've done more!!",
-        "pt-BR": "[Yunkea]\nEu cheguei primeiro!!\nEu fiz muito mais!!",
-        "es-ES": "[Jungkea]\n¡¡Yo llegué primero!!\n¡¡Yo hice mucho más!!"
+        "pt-BR": "[Juncea]\nEu cheguei primeiro!!\nEu fiz muito mais!!",
+        "es-ES": "[Juncea]\n¡Yo llegué primero! ¡Yo hice mucho más!"
     },
     "7usHDg": {
         "en-US": "[Jungkea]\nI taught them everything about the magic in this body!\nMy work is more urgent!!!!!",
-        "pt-BR": "[Yunkea]\nEu contei tudo sobre o poder mágico deste corpo!\nEu preciso disso com muito mais urgência!!!!!",
-        "es-ES": "[Jungkea]\n¡Yo les enseñé todo sobre el poder mágico de este cuerpo!\n¡¡¡¡¡Yo lo necesito con más urgencia!!!!!"
+        "pt-BR": "[Juncea]\nEu ensinei a eles tudo sobre o poder mágico destes corpos!\nMinha pesquisa é muito mais urgente!",
+        "es-ES": "[Juncea]\n¡Yo les enseñé todo sobre el poder mágico de este cuerpo!\n¡Yo lo necesito con más urgencia!"
     },
     "7+sHDg": {
         "en-US": "[Jungkea]\nIt wasn't enough to give me less support, they even hid the resources they had from me.\nHow could they really do this?",
-        "pt-BR": "[Yunkea]\nNão bastava me dar menos apoio, ainda esconderam que tinham recursos.\nComo puderam fazer isso comigo?",
-        "es-ES": "[Jungkea]\nNo les bastó con darme menos apoyo, sino que hasta me ocultaron lo que tenían.\n¿Cómo pudieron hacerme algo así?"
+        "pt-BR": "[Juncea]\nNão bastava me dar menos apoio, ainda esconderam que tinham recursos.\nComo puderam fazer isso comigo?",
+        "es-ES": "[Juncea]\nNo les bastó con darme menos, sino que me ocultaron lo que tenían.\n¿Cómo pudieron hacerme esto?"
     },
     "8OsHDg": {
         "en-US": "[Bagot]\nOh my, what's this? It's noisy in here. Why are you shouting so loudly, Jungkea?",
-        "pt-BR": "[Bagot]\nOra, o que foi? Está barulhento aqui. Por que está gritando tanto, Yunkea?",
-        "es-ES": "[Bagot]\nVaya, ¿qué pasa? Qué escándalo. ¿Por qué estás gritando tanto, Jungkea?"
+        "pt-BR": "[Bagot]\nOra, o que foi? Está barulhento aqui. Por que está gritando tanto, Juncea?",
+        "es-ES": "[Bagot]\nVaya, ¿qué pasa? Qué escándalo. ¿Por qué estás gritando tanto?"
     },
     "8esHDg": {
         "en-US": "[Jungkea]\nBagot, you…!",
-        "pt-BR": "[Yunkea]\nBagot, você…!",
-        "es-ES": "[Jungkea]\nBagot, tú…!"
+        "pt-BR": "[Juncea]\nBagot, seu…!",
+        "es-ES": "[Juncea]\nBagot, tú...!"
     },
     "8usHDg": {
         "en-US": "[Bagot]\nWhat's the matter? Is there something you want to say to Bagot?\nOh, you're…?",
         "pt-BR": "[Bagot]\nO que foi? Tem algo que quer dizer para Bagot?\nOra, você é…?",
-        "es-ES": "[Bagot]\n¿Qué sucede? ¿Tienes algo que decirle a Bagot?\nVaya, tú eres…"
+        "es-ES": "[Bagot]\n¿Qué sucede? ¿Tienes algo que decirle a Bagot?\nAh, tú eres..."
     },
     "8+sHDg": {
         "en-US": "[Bagot]\nWhat was your name again? Let's see… You were the high-grade one born together with the highest-grade one, right?",
-        "pt-BR": "[Bagot]\nQual era mesmo o seu nome? Então… Você era o Regan de categoria superior que nasceu junto com o de categoria máxima, não era?",
-        "es-ES": "[Bagot]\n¿Cómo te llamabas? A ver… Eras el de grado superior que nació junto con uno de grado máximo, ¿verdad?"
+        "pt-BR": "[Bagot]\nQual era mesmo o seu nome? Então… Você era o Rgan de categoria superior que nasceu junto com o de categoria máxima, não era?",
+        "es-ES": "[Bagot]\n¿Cómo te llamabas? A ver… Eres el Rgan superior que nació apenas, ¿no?"
     },
     "9OsHDg": {
         "en-US": "[Bagot]\nAh, Bagot remembers now. Come to think of it, Svegand was with Bagot until just a little while ago.",
         "pt-BR": "[Bagot]\nAh, Bagot se lembra. Pensando bem, Svegand também estava com Bagot até pouco tempo atrás.",
-        "es-ES": "[Bagot]\nAh, sí, Bagot lo recuerda. Ahora que lo pienso, Svegand también estuvo con Bagot hasta hace poco."
+        "es-ES": "[Bagot]\nAh, te recuerdo. Ahora que lo pienso, Svegand también estuvo con Bagot hace poco."
     },
     "9esHDg": {
         "en-US": "[Bagot]\nHe told Bagot lots of interesting stories before he left. Bagot had a great time. He really didn't seem like one of the young Rgan these days. Ahaha!",
@@ -911,13 +911,13 @@
     },
     "9usHDg": {
         "en-US": "[Jungkea]\nIs that really important right now? I have something to say. It's important, Bagot.",
-        "pt-BR": "[Yunkea]\nIsso importa agora? Tenho algo para dizer. É importante, Bagot.",
-        "es-ES": "[Jungkea]\n¿Eso importa ahora? Tengo algo que decirte. Es importante, Bagot."
+        "pt-BR": "[Juncea]\nIsso importa agora? Tenho algo para dizer. É importante, Bagot.",
+        "es-ES": "[Juncea]\n¿Eso importa ahora? Tengo algo que decirte y es importante."
     },
     "9+sHDg": {
         "en-US": "[Bagot]\nBagot came because there was something I wanted to talk to Jungkea about too. Perfect timing.\nThe adults are going to have an important conversation now, so could the child step outside for a bit?",
         "pt-BR": "[Bagot]\nBagot também veio porque queria falar com Yunkea. Que coincidência conveniente.\nEntão os adultos vão ter uma conversa importante. Criança, pode sair um pouco?",
-        "es-ES": "[Bagot]\nBagot también vino porque quería hablar con Jungkea. Qué oportuno.\nEntonces los adultos vamos a hablar de algo importante, ¿podrías salir un momento, pequeño?"
+        "es-ES": "[Bagot]\nBagot vino porque quería hablar contigo. Qué oportuno.\nLos adultos vamos a hablar de algo importante, ¿puedes irte?"
     },
     "+OsHDg": {
         "en-US": "[Jungkea]\n…Yeah. Senekiogand. You wait outside.\nIt's not something a child needs to hear.",
@@ -941,18 +941,18 @@
     },
     "/OsHDg": {
         "en-US": "[Jungkea]\n…I don't think I can play with you right now, Senekiogand.\nI'm busy.",
-        "pt-BR": "[Yunkea]\n…Agora vai ser difícil brincar com você, Senekiogand.\nEu disse que estou ocupada.",
-        "es-ES": "[Jungkea]\n…Ahora no creo poder entretenerte, Senekiogand.\nTe dije que estoy ocupada."
+        "pt-BR": "[Juncea]\n…Agora vai ser difícil brincar com você, Senekiogand.\nEu disse que estou ocupada.",
+        "es-ES": "[Juncea]\n…Ahora no creo poder entretenerte, Senekiogand.\nEstoy ocupada."
     },
     "/esHDg": {
         "en-US": "[Jungkea]\nAh, my blood sugar's low…….\nI'm sick of getting by on stockpiled rations.",
-        "pt-BR": "[Yunkea]\nAh, meu açúcar caiu…….\nJá estou cansada de viver de provisões estocadas.",
-        "es-ES": "[Jungkea]\nAh, me está bajando el azúcar…….\nYa estoy harta de alimentarme con provisiones almacenadas."
+        "pt-BR": "[Juncea]\nAh, minha glicose caiu…….\nJá estou cansada de viver de provisões estocadas.",
+        "es-ES": "[Juncea]\nAh, me está bajando el azúcar...\nYa estoy harta de alimentarme con provisiones almacenadas."
     },
     "/usHDg": {
         "en-US": "[Jungkea]\nI'll be away for a while, so don't touch anything and go back.",
-        "pt-BR": "[Yunkea]\nVou me ausentar por um tempo, então não mexa em nada e volte.",
-        "es-ES": "[Jungkea]\nVoy a ausentarme un rato, así que no toques nada y regresa."
+        "pt-BR": "[Juncea]\nVou me ausentar por um tempo, então não mexa em nada e volte depois.",
+        "es-ES": "[Juncea]\nVoy a ausentarme un poco, no vayas a tocar nada."
     },
     "/+sHDg": {
         "en-US": "Bagot",
@@ -961,8 +961,8 @@
     },
     "AOwHDg": {
         "en-US": "[Bagot]\nYou're a human Bagot doesn't know? There shouldn't be any humans like that.",
-        "pt-BR": "[Bagot]\nÉ um humano que Bagot não conhece? Não deveria existir um humano assim.",
-        "es-ES": "[Bagot]\nEres un humano que Bagot no conoce. ¿Cómo puede existir un humano así?"
+        "pt-BR": "[Bagot]\nÉ um ser que Bagot não conhece? Não deveria existir um ser assim.",
+        "es-ES": "[Bagot]\nEres un humano que Bagot no conoce. ¿Cómo pueden existir humanos así?"
     },
     "AewHDg": {
         "en-US": "[Bagot]\nWhat do you want?",
@@ -977,12 +977,12 @@
     "A+wHDg": {
         "en-US": "Unfamiliar Box",
         "pt-BR": "Caixa desconhecida",
-        "es-ES": "Caja desconocida"
+        "es-ES": "Caja Desconocida"
     },
     "BOwHDg": {
         "en-US": "[Notice]\n- Your inventory is full. Check your carrying weight and number of items, then talk to me again. -",
         "pt-BR": "[Aviso]\n- Sua bolsa está cheia. Verifique o peso e a quantidade de itens carregados e fale novamente. -",
-        "es-ES": "[Aviso]\n- La bolsa está llena. Revisa el peso y la cantidad de objetos que llevas y vuelve a hablar. -"
+        "es-ES": "[Aviso]\nLa bolsa está llena. Revisa tus objetos y vuelve a intentarlo."
     },
     "BewHDg": {
         "en-US": "[{0}]\n(There's an empty box.)",
@@ -991,28 +991,28 @@
     },
     "BuwHDg": {
         "en-US": "[{0}]\n(There's no one here. Where did Jungkea go?)",
-        "pt-BR": "[{0}]\n(Não tem ninguém aqui. Para onde Yunkea foi?)",
-        "es-ES": "[{0}]\n(¿No hay nadie? ¿Adónde fue Jungkea?)"
+        "pt-BR": "[{0}]\n(Não tem ninguém aqui. Para onde Juncea foi?)",
+        "es-ES": "[{0}]\n(¿No hay nadie? ¿Adónde fue Juncea?)"
     },
     "B+wHDg": {
         "en-US": "[{0}]\n(This is a box I haven't seen before. Something has spilled around it. It looks drinkable…. but it seems a little suspicious. Is there a <NAVI>[container]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> nearby I can transfer it into? I should look around.)",
         "pt-BR": "[{0}]\n(É uma caixa que eu não tinha visto antes. Tem alguma coisa derramada ao redor. Parece algo para beber…. Mas parece um pouco suspeito. Será que não há algum <NAVI>[recipiente]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> para transferir isso? Vou procurar por perto.)",
-        "es-ES": "[{0}]\n(Es una caja que no había visto antes. Hay algo derramado alrededor. Parece una bebida…. Se ve un poco sospechoso. ¿No habrá algún <NAVI>[recipiente]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> para pasarlo? Busquemos por los alrededores.)"
+        "es-ES": "[{0}]\n(Es una caja que no había visto antes. Hay algo derramado alrededor. Parece una bebida. Se ve un poco sospechoso. ¿No habrá algún <NAVI>[recipiente]<INFO>jor_nest,20,194,0,101,0</INFO></NAVI> para echarlo? Busquemos por los alrededores.)"
     },
     "COwHDg": {
         "en-US": "[{0}]\n(I transferred the suspicious liquid into a test tube.)",
         "pt-BR": "[{0}]\n(Transferi o líquido suspeito para um tubo de ensaio.)",
-        "es-ES": "[{0}]\n(Pasé el líquido sospechoso a un tubo de ensayo.)"
+        "es-ES": "[{0}]\n(Pones el líquido sospechoso en un tubo de ensayo.)"
     },
     "CewHDg": {
         "en-US": "[{0}]\n(Now I just need to sneak out…, oh, I can sense someone outside. Let's slip out while pretending I don't know anything.)",
-        "pt-BR": "[{0}]\n(Agora preciso sair daqui escondido…, ah, sinto alguém lá fora. Vou sair fingindo que não sei de nada.)",
-        "es-ES": "[{0}]\n(Ahora tengo que salir a escondidas…, ah, siento que hay alguien afuera. Salgamos fingiendo que no sabemos nada.)"
+        "pt-BR": "[{0}]\n(Agora preciso sair daqui sem ninguém ver…, Ah, sinto alguém lá fora. Vou sair fingindo que não sei de nada.)",
+        "es-ES": "[{0}]\n(Ahora tengo que salir a escondidas. Ay, siento que hay alguien afuera. Tengo que salir fingiendo que no sé nada.)"
     },
     "CuwHDg": {
         "en-US": "Rgan : Come here. I have something to tell you.",
-        "pt-BR": "Rgan : Tenho algo para lhe dizer, então venha aqui.",
-        "es-ES": "Rgan : Tengo algo que decirte, así que ven aquí."
+        "pt-BR": "[Rgan] Tenho algo para lhe dizer, então venha aqui.",
+        "es-ES": "Rgan: Tengo algo que decirte, ven aquí."
     },
     "C+wHDg": {
         "en-US": "[{0}]\n(Is there some kind of container I can use? Let's look around.)",
@@ -1021,7 +1021,7 @@
     },
     "DOwHDg": {
         "en-US": "[{0}]\n(There's still plenty of suspicious liquid here. Should I take some with me?)",
-        "pt-BR": "[{0}]\n(Ainda há bastante líquido suspeito derramado. Será que levo um pouco?)",
+        "pt-BR": "[{0}]\n(Ainda há bastante líquido suspeito aqui. Será que levo um pouco?)",
         "es-ES": "[{0}]\n(Todavía queda bastante líquido sospechoso. ¿Debería llevarme un poco?)"
     },
     "DewHDg": {
@@ -1047,11 +1047,11 @@
     "EewHDg": {
         "en-US": "[{0}]\n(I want to take some of the suspicious liquid, but I don't have a container for it. Let's look around.)",
         "pt-BR": "[{0}]\n(Quero levar o líquido suspeito, mas não tenho um recipiente para transferi-lo. Vou procurar por perto.)",
-        "es-ES": "[{0}]\n(Quiero llevarme el líquido sospechoso, pero no tengo ningún recipiente para pasarlo. Busquemos por los alrededores.)"
+        "es-ES": "[{0}]\n(Quiero llevarme el líquido sospechoso, pero no tengo ningún recipiente para echarlo. Busquemos por los alrededores.)"
     },
     "EuwHDg": {
         "en-US": "[{0}]\n(There's still plenty of suspicious liquid here.)",
-        "pt-BR": "[{0}]\n(Ainda há bastante líquido suspeito derramado.)",
+        "pt-BR": "[{0}]\n(Ainda há bastante líquido suspeito aqui.)",
         "es-ES": "[{0}]\n(Todavía queda bastante líquido sospechoso.)"
     },
     "E+wHDg": {
@@ -1061,8 +1061,8 @@
     },
     "FOwHDg": {
         "en-US": "Empty Test Tube",
-        "pt-BR": "Tubo de ensaio vazio",
-        "es-ES": "Tubo de ensayo vacío"
+        "pt-BR": "Tubo de Ensaio Vazio",
+        "es-ES": "Tubo de Ensayo Vacío"
     },
     "FewHDg": {
         "en-US": "[{0}]\n(There are several empty test tubes here.)",
@@ -1106,152 +1106,152 @@
     },
     "HewHDg": {
         "en-US": "[Rgan]\nWho are you?! How dare a human like you enter this place!",
-        "pt-BR": "[Rgan]\nQuem é você?! Como ousa um humano entrar aqui!",
+        "pt-BR": "[Rgan]\nQuem é você?! Como se atreve a entrar aqui!",
         "es-ES": "[Rgan]\n¡¿Quién eres?! ¡¿Cómo se atreve un humano a entrar aquí?!"
     },
     "HuwHDg": {
         "en-US": "[{0}]\n…D-did you call me?",
-        "pt-BR": "[{0}]\n…V-você me chamou?",
-        "es-ES": "[{0}]\n…¿M-me llamó?"
+        "pt-BR": "[{0}]\n…V-Você me chamou?",
+        "es-ES": "[{0}]\n... ¿Me hablas a mí?"
     },
     "H+wHDg": {
         "en-US": "[Rgan]\nYes. I haven't seen you before, so you must be Senekiogand, right? I was told you'd be here.",
-        "pt-BR": "[Rgan]\nSim. Pela sua cara desconhecida, você deve ser Senekiogand, não é? Disseram que você estaria aqui mesmo.",
-        "es-ES": "[Rgan]\nSí. Como no había visto tu cara antes, debes ser Senekiogand, ¿verdad? Justamente me dijeron que estarías aquí."
+        "pt-BR": "[Rgan]\nSim. Eu não te reconheço, então você deve ser Senekiogand, não é? Disseram que você estaria aqui mesmo.",
+        "es-ES": "[Rgan]\nNo había visto tu cara antes, debes ser Senekiogand, ¿verdad? Justo me dijeron que estarías aquí."
     },
     "IOwHDg": {
         "en-US": "[{0}]\nWho? Who told you that?",
-        "pt-BR": "[{0}]\nQuem? Quem disse isso?",
+        "pt-BR": "[{0}]\nQuem? Quem te disse isso?",
         "es-ES": "[{0}]\n¿Quién? ¿Quién dijo eso?"
     },
     "IewHDg": {
         "en-US": "[Rgan]\nA human scientist. A human named Jungkea. She's at Bagot's Laboratory right now.\nShe said she's waiting for you and told you to come over.",
-        "pt-BR": "[Rgan]\nA cientista humana. A humana chamada Yunkea. Agora ela está no Laboratório de Bagot.\nDisse que está esperando e mandou você ir até lá.",
-        "es-ES": "[Rgan]\nLa científica humana. La humana llamada Jungkea. Ahora está en el Laboratorio de Bagot.\nDijo que está esperando, así que quiere que vayas allá."
+        "pt-BR": "[Rgan]\nA cientista humana. A chamada Juncea. Agora ela está no Laboratório de Bagot.\nEla disse que está esperando e mandou você ir até lá.",
+        "es-ES": "[Rgan]\nLa científica humana. La humana llamada Juncea. Ahora está en el Laboratorio de Bagot.\nDijo que está esperando, quiere que vayas allá."
     },
     "IuwHDg": {
         "en-US": "[{0}]\n(How did Jungkea know I'd come here? Something's strange.)",
-        "pt-BR": "[{0}]\n(Como Yunkea sabia que eu viria aqui? Tem alguma coisa estranha.)",
-        "es-ES": "[{0}]\n(¿Cómo sabía Jungkea que vendría aquí? Algo está raro.)"
+        "pt-BR": "[{0}]\n(Como Juncea sabia que eu viria aqui? Tem alguma coisa estranha.)",
+        "es-ES": "[{0}]\n(¿Cómo sabía Juncea que vendría aquí? Algo está raro.)"
     },
     "I+wHDg": {
         "en-US": "[Rgan]\nIt's insolent to make a bishop like me run errands, but I was told to comply with the humans whenever possible, so don't be too late.",
         "pt-BR": "[Rgan]\nÉ insolente mandar um bispo como eu fazer esse tipo de tarefa, mas disseram para atendermos aos pedidos dos humanos sempre que possível, então não demore muito para ir.",
-        "es-ES": "[Rgan]\nMe molesta que se atrevan a encargarle tareas menores a un obispo como yo, pero me dijeron que, en lo posible, obedeciera a los humanos, así que procura no tardar demasiado."
+        "es-ES": "[Rgan]\nMe molesta que se atrevan a encargarle tareas menores a un obispo como yo, pero me dijeron que, obedeciera a los humanos, así que apúrate."
     },
     "JOwHDg": {
         "en-US": "[{0}]\n(…It won't do me any good to draw attention right now, so I should just do as I'm told.)",
         "pt-BR": "[{0}]\n(…Agora não é bom chamar atenção, então vou fazer o que mandaram e ir até lá.)",
-        "es-ES": "[{0}]\n(…Ahora no me conviene llamar la atención, así que será mejor hacer lo que me dicen.)"
+        "es-ES": "[{0}]\n(...no me conviene llamar la atención, es mejor hacer caso.)"
     },
     "JewHDg": {
         "en-US": "[{0}]\nOkay. It's <NAVI>[Human Bagot's Laboratory]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, right? I'll go right away.",
-        "pt-BR": "[{0}]\nEntendi. É o <NAVI>[laboratório do humano Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, certo? Vou agora mesmo.",
-        "es-ES": "[{0}]\nEntendido. Es el <NAVI>[laboratorio del humano Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, ¿verdad? Iré de inmediato."
+        "pt-BR": "[{0}]\nEntendi. É no <NAVI>[laboratório do humano Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, certo? Vou agora mesmo.",
+        "es-ES": "[{0}]\nEntendido. En el <NAVI>[laboratorio de Bagot]<INFO>jor_nest,66,260,0,101,0</INFO></NAVI>, ¿verdad? Iré de inmediato."
     },
     "JuwHDg": {
         "en-US": "[Rgan]\nWhat is it, little priest? You shouldn't wander around wherever you please.",
         "pt-BR": "[Rgan]\nO que foi, pequeno sacerdote? Não deve ficar andando por aí sem cuidado.",
-        "es-ES": "[Rgan]\n¿Qué pasa, pequeño sacerdote? No deberías andar por cualquier lugar sin permiso."
+        "es-ES": "[Rgan]\n¿Qué pasa, pequeño sacerdote? No deberías andar por ahí sin permiso."
     },
     "J+wHDg": {
         "en-US": "[{0}]\nA large stack of documents written in a swift hand is piled up here.",
-        "pt-BR": "[{0}]\nHá uma pilha de documentos escritos com uma caligrafia ágil.",
+        "pt-BR": "[{0}]\nHá uma pilha de documentos escritos com pressa.",
         "es-ES": "[{0}]\nHay una gran pila de documentos escritos con una caligrafía ágil."
     },
     "KOwHDg": {
         "en-US": "[{0}]\nA large stack of documents written in a swift hand is piled up here.\nIt looks like it will take some time to read through them and pick out the information I need.",
-        "pt-BR": "[{0}]\nHá uma pilha de documentos escritos com uma caligrafia ágil.\nParece que vai levar algum tempo para ler e separar as informações necessárias.",
-        "es-ES": "[{0}]\nHay una gran pila de documentos escritos con una caligrafía ágil.\nParece que tomará algo de tiempo leerlos y seleccionar la información necesaria."
+        "pt-BR": "[{0}]\nHá uma pilha de documentos escritos com pressa.\nParece que vai levar algum tempo para ler e separar as informações de que eu preciso.",
+        "es-ES": "[{0}]\nHay una gran pila de documentos escritos con una caligrafía ágil.\nParece que tomará algo de tiempo leerlos y ver cuál es la información importante."
     },
     "KewHDg": {
         "en-US": "[Report]\n…using the magic of the shed skin, even individuals that have already been born…\n…can be made into even more exceptional and powerful individuals…",
         "pt-BR": "[Relatório]\n…usando o poder mágico da muda, mesmo em indivíduos já nascidos…\n…é possível criar indivíduos ainda mais excepcionais e fortes…",
-        "es-ES": "[Informe]\n…usando el poder mágico de la muda, incluso en individuos que ya han nacido…\n…es posible crear individuos aún más sobresalientes y fuertes…"
+        "es-ES": "[Informe]\n...usando el poder mágico de la muda, incluso en individuos ya nacidos...\n...es posible crear individuos aún más sobresalientes y fuertes..."
     },
     "KuwHDg": {
         "en-US": "Is this similar to the experiment Jungkea was doing? I'm not sure….",
-        "pt-BR": "Isso é parecido com o experimento que Yunkea estava fazendo? Não tenho certeza….",
-        "es-ES": "¿Esto se parece al experimento que hacía Jungkea? No estoy seguro…."
+        "pt-BR": "Isso é parecido com o experimento que Juncea estava fazendo? Não tenho certeza….",
+        "es-ES": "¿Esto se parece al experimento que hacía Juncea? No lo sé..."
     },
     "K+wHDg": {
         "en-US": "[{0}]\nLooking at the test subjects in the laboratory, I somehow get a sense of déjà vu….",
         "pt-BR": "[{0}]\nAo observar os espécimes do laboratório, sinto uma estranha sensação de déjà-vu….",
-        "es-ES": "[{0}]\nAl observar a los sujetos de prueba del laboratorio, por alguna razón siento que ya he visto algo así antes…."
+        "es-ES": "[{0}]\nAl observar a los sujetos de prueba del laboratorio, siento que ya había visto algo así antes..."
     },
     "LOwHDg": {
         "en-US": "[{0}]\nThat's it. The false god I encountered in Rachel…\nI can sense a similar power from them.",
         "pt-BR": "[{0}]\nÉ isso. O falso deus que encontrei em Rachel…\nSinto um poder parecido com o dele.",
-        "es-ES": "[{0}]\nAsí es. El falso dios que encontré en Rachel…\nSiento un poder parecido al de aquella cosa."
+        "es-ES": "[{0}]\nAsí es. El falso dios que encontré en Rachel...\nSiento que es un poder parecido..."
     },
     "LewHDg": {
         "en-US": "[{0}]\nA large stack of documents written in a swift hand is piled up here.\nThis document tucked between them… says Top Secret. Let's read it carefully.",
-        "pt-BR": "[{0}]\nHá uma pilha de documentos escritos com uma caligrafia ágil.\nEste documento no meio deles…, está marcado como ultrassecreto. Vou ler com atenção.",
-        "es-ES": "[{0}]\nHay una gran pila de documentos escritos con una caligrafía ágil.\nEste documento entre ellos… dice que es de alto secreto. Leámoslo con atención."
+        "pt-BR": "[{0}]\nHá uma pilha de documentos escritos com pressa.\nEste documento no meio deles…, está marcado como ultrassecreto. Vou ler com atenção.",
+        "es-ES": "[{0}]\nHay una gran pila de documentos escritos con una caligrafía ágil.\nEste en especial dice que es súper secreto... hay que leerlo con cuidado."
     },
     "LuwHDg": {
         "en-US": "[Top Secret]\n…as with the experiments in Rachel, once mutation begins in a test subject, biological replacement occurs starting at the cellular level…",
         "pt-BR": "[Ultrassecreto]\n…assim como nos experimentos em Rachel, os espécimes que começaram a sofrer mutação passam por uma substituição biológica desde o nível celular…",
-        "es-ES": "[Alto secreto]\n…al igual que en el experimento de Rachel, en los sujetos de prueba cuya mutación ha comenzado se produce un reemplazo biológico desde el nivel celular, por lo que…"
+        "es-ES": "[Súper Secreto]\n...al igual que en el experimento de Rachel, en donde los sujetos de prueba comenzaron a producir un reemplazo biológico desde el nivel celular, por lo que..."
     },
     "L+wHDg": {
         "en-US": "[Top Secret]\nIt is impossible to return the subject to its original form from before the mutation began.",
         "pt-BR": "[Ultrassecreto]\nPor isso, é impossível fazê-los voltar à aparência original de antes do início da mutação.",
-        "es-ES": "[Alto secreto]\nEs imposible devolverlos a su forma original anterior al inicio de la mutación."
+        "es-ES": "[Alto secreto]\nEs imposible devolverlos a su forma antes de la mutación."
     },
     "MOwHDg": {
         "en-US": "[Top Secret]\n…however, if the test subject's magical wavelength matches, there remains a slight possibility of reversing the process, though this is entirely hypothetical…",
         "pt-BR": "[Ultrassecreto]\n…porém, se a frequência do poder mágico do espécime for compatível, ainda resta uma pequena possibilidade de reversão, mas tudo isso é apenas uma hipótese…",
-        "es-ES": "[Alto secreto]\n…sin embargo, si la frecuencia de poder mágico del sujeto de prueba coincide, queda una mínima posibilidad de revertirlo, aunque todo esto no es más que una hipótesis…"
+        "es-ES": "[Súper Secreto]\n...sin embargo, si la frecuencia de poder mágico del sujeto de prueba  coincide, queda una mínima posibilidad de revertirlo, aunque todo esto no es más que una hipótesis..."
     },
     "MewHDg": {
         "en-US": "[Top Secret]\n…to reverse the process, a material with a matching magical wavelength and a caster capable of injecting suitable magic are absolutely necessary…",
         "pt-BR": "[Ultrassecreto]\n…para realizar a reversão, são indispensáveis um material com frequência de poder mágico compatível e um conjurador capaz de injetar o poder mágico adequado…",
-        "es-ES": "[Alto secreto]\n…para revertirlo, es indispensable contar con un material cuya frecuencia de poder mágico coincida y con un hechicero capaz de inyectar el poder mágico adecuado…"
+        "es-ES": "[Súper Secreto]\n...para revertirlo, es indispensable contar con un material cuya frecuencia de poder mágico coincida y con un hechicero capaz de inyectar el poder mágico adecuado..."
     },
     "MuwHDg": {
         "en-US": "[Top Secret]\nHowever, there is no need to return the test subjects currently being used in the experiments to their original forms, so this research is of low priority…",
         "pt-BR": "[Ultrassecreto]\nNo entanto, como não há necessidade de devolver os espécimes atualmente usados nos experimentos à forma original, esta pesquisa tem baixa prioridade…",
-        "es-ES": "[Alto secreto]\nSin embargo, como no es necesario devolver a su forma original a los sujetos de prueba utilizados actualmente en los experimentos, la importancia de esta investigación es baja, aunque…"
+        "es-ES": "[Súper Secreto]\nSin embargo, como no es necesario devolver a su forma original a los sujetos de prueba utilizados actualmente en los experimentos, la importancia de esta investigación es baja, aunque..."
     },
     "M+wHDg": {
         "en-US": "[Top Secret]\nHowever, if this information were leaked to certain Rgans, the repercussions could be significant, so it is classified as Top Secret….",
-        "pt-BR": "[Ultrassecreto]\nPorém, caso isso seja revelado a alguns Regans, o impacto pode ser grande, por isso foi classificado como ultrassecreto….",
-        "es-ES": "[Alto secreto]\nComo su divulgación entre algunos Rgan podría provocar grandes repercusiones, se clasifica como alto secreto…."
+        "pt-BR": "[Ultrassecreto]\nPorém, caso isso seja revelado a certos Rgans, o impacto pode ser grande, por isso foi classificado como ultrassecreto….",
+        "es-ES": "[Súper Secreto]\nComo su divulgación entre algunos Rgan podría provocar grandes repercusiones, se clasifica como Súper Secreto..."
     },
     "NOwHDg": {
         "en-US": "[{0}]\n(Jungkea said she doesn't experiment on high-grade Rgans… Anyway…)",
-        "pt-BR": "[{0}]\n(Yunkea disse que não fazia experimentos em Regans de categoria superior… Enfim…)",
-        "es-ES": "[{0}]\n(Jungkea dijo que no experimentaba con los Rgan de grado superior… En fin…)"
+        "pt-BR": "[{0}]\n(Juncea disse que não fazia experimentos em Rgans de categoria superior… Enfim…)",
+        "es-ES": "[{0}]\n(Juncea dijo que no experimentaba con los Rgan Superiores... En fin...)"
     },
     "NewHDg": {
         "en-US": "[Jungkea]\nWhat the—who are you? Where did you come from?!",
-        "pt-BR": "[Yunkea]\nO quê? Quem é você? De onde apareceu?!",
-        "es-ES": "[Jungkea]\n¿Qué? ¿Quién eres? ¡¿De dónde saliste?!"
+        "pt-BR": "[Juncea]\nO quê? Quem é você? De onde apareceu?!",
+        "es-ES": "[Juncea]\n¿Qué? ¿Quién eres? ¡¿De dónde saliste?!"
     },
     "NuwHDg": {
         "en-US": "[Jungkea]\n…What? I have nothing to say to you right now. Not now.",
-        "pt-BR": "[Yunkea]\n…O quê? Não tenho nada para falar com você. Agora não.",
-        "es-ES": "[Jungkea]\n…¿Qué? Ahora no tengo nada que hablar contigo. Ahora no."
+        "pt-BR": "[Juncea]\n…O quê? Não tenho nada para falar com você. Agora não.",
+        "es-ES": "[Juncea]\nAhora no tengo nada de que hablar contigo. Ahora no."
     },
     "N+wHDg": {
         "en-US": "[Jungkea]\nAh, I want to talk to you alone. Senekiogand. Is that okay?",
-        "pt-BR": "[Yunkea]\nAh, quero falar só com você. Senekiogand. Tudo bem?",
-        "es-ES": "[Jungkea]\nAh, quiero hablar a solas contigo. Senekiogand. ¿Está bien?"
+        "pt-BR": "[Juncea]\nAh, quero falar com você a sós, Senekiogand. Tudo bem?",
+        "es-ES": "[Juncea]\nAh, quiero hablar a solas contigo. ¿Puede ser?"
     },
     "OOwHDg": {
         "en-US": "^0000FFForm a party of 1 and listen to Jungkea's story.^000000 -",
-        "pt-BR": "^0000FFForme um grupo de 1 pessoa e ouça o que Yunkea tem a dizer.^000000 -",
-        "es-ES": "^0000FFForma un grupo de 1 persona y escucha lo que Jungkea tiene que decir.^000000 -"
+        "pt-BR": "^0000FFForme um grupo de 1 pessoa e ouça o que Juncea tem a dizer.^000000 -",
+        "es-ES": "^0000FFForma un grupo de 1 persona y escucha lo que Juncea tiene que decir.^000000"
     },
     "OewHDg": {
         "en-US": "Prepare to Enter Bagot's Laboratory",
-        "pt-BR": "Preparativos para entrar em Laboratório de Bagot",
+        "pt-BR": "Prepare-se para entrar no Laboratório de Bagot",
         "es-ES": "Preparativos para entrar a Laboratorio de Bagot"
     },
     "OuwHDg": {
         "en-US": "Enter Bagot's Laboratory",
-        "pt-BR": "Entrada em Laboratório de Bagot",
+        "pt-BR": "Entre no Laboratório de Bagot",
         "es-ES": "Entrada a Laboratorio de Bagot"
     },
     "O+wHDg": {
@@ -1262,77 +1262,77 @@
     "POwHDg": {
         "en-US": "^0000FFYou can only proceed in a party of 1.^000000 -",
         "pt-BR": "^0000FFSó é possível prosseguir em um grupo de 1 pessoa.^000000 -",
-        "es-ES": "^0000FFSolo se puede avanzar en un grupo de 1 persona.^000000 -"
+        "es-ES": "^0000FFSolo se puede avanzar en un grupo de 1 persona.^000000"
     },
     "PewHDg": {
         "en-US": "^0000FFOnly the master of a party of 1 can proceed.^000000 -",
         "pt-BR": "^0000FFSó o líder de um grupo de 1 pessoa pode prosseguir.^000000 -",
-        "es-ES": "^0000FFSolo el líder de un grupo de 1 persona puede avanzar.^000000 -"
+        "es-ES": "^0000FFSolo el líder de un grupo de 1 persona puede avanzar.^000000"
     },
     "PuwHDg": {
         "en-US": "^0000FFFailed to prepare for entry. Please try again.^000000 -",
         "pt-BR": "^0000FFFalha ao preparar a entrada. Tente novamente.^000000 -",
-        "es-ES": "^0000FFFalló la preparación para entrar. Inténtalo de nuevo.^000000 -"
+        "es-ES": "^0000FFFalló la preparación para entrar. Inténtalo de nuevo.^000000"
     },
     "P+wHDg": {
         "en-US": "^0000FFEntry preparation has begun. Once you are ready, press the Enter Bagot's Laboratory button to enter.^000000 -",
-        "pt-BR": "^0000FFA preparação para a entrada foi iniciada. Após concluir os preparativos, pressione o botão de entrada de Laboratório de Bagot para entrar.^000000 -",
-        "es-ES": "^0000FFComenzó la preparación para entrar. Cuando termines de prepararte, presiona el botón de entrada a Laboratorio de Bagot para ingresar.^000000 -"
+        "pt-BR": "^0000FFA preparação para a entrada foi iniciada. Após concluir os preparativos, pressione o botão Entrar no Laboratório de Bagot para entrar.^000000 -",
+        "es-ES": "^0000FFComenzó la preparación para entrar. Cuando termines de prepararte, presiona el botón de Entrar al Laboratorio de Bagot para ingresar.^000000"
     },
     "QOwHDg": {
         "en-US": "^0000FFThe party leader has not created the dungeon. Please check again.^000000 -",
         "pt-BR": "^0000FFO líder do grupo não criou a masmorra. Verifique novamente.^000000 -",
-        "es-ES": "^0000FFEl líder del grupo no creó la mazmorra. Verifícalo de nuevo.^000000 -"
+        "es-ES": "^0000FFEl líder del grupo no creó la mazmorra. Verifícalo de nuevo.^000000"
     },
     "QewHDg": {
         "en-US": "^0000FFThe Memorial Dungeon has not been created. Please check again.^000000 -",
         "pt-BR": "^0000FFA Masmorra Memorial não foi criada. Verifique novamente.^000000 -",
-        "es-ES": "^0000FFNo se creó la mazmorra memorial. Verifícalo de nuevo.^000000 -"
+        "es-ES": "^0000FFNo se creó la mazmorra. Verifícalo de nuevo.^000000"
     },
     "QuwHDg": {
         "en-US": "^0000FFUnknown error. Please check again.^000000 -",
         "pt-BR": "^0000FFErro desconhecido. Verifique novamente.^000000 -",
-        "es-ES": "^0000FFError desconocido. Verifícalo de nuevo.^000000 -"
+        "es-ES": "^0000FFError desconocido. Verifícalo de nuevo.^000000"
     },
     "Q+wHDg": {
         "en-US": "^0000FFAn exception has occurred. Please check again^000000 -.",
         "pt-BR": "^0000FFOcorreu uma situação excepcional. Verifique novamente^000000 -.",
-        "es-ES": "^0000FFOcurrió una situación excepcional. Verifícalo de nuevo^000000 -."
+        "es-ES": "^0000FFOcurrió una situación excepcional. Verifícalo de nuevo^000000"
     },
     "ROwHDg": {
         "en-US": "[Jungkea]\n…….",
-        "pt-BR": "[Yunkea]\n…….",
+        "pt-BR": "[Juncea]\n…….",
         "es-ES": "[Jungkea]\n……."
     },
     "RewHDg": {
         "en-US": "[Notice]\n- Your inventory has no free space, or you are carrying nearly the maximum amount of the same item. Please organize your inventory and talk to me again. -",
-        "pt-BR": "[Aviso]\n- Não há espaço livre no inventário ou você está carregando uma quantidade do mesmo item próxima ao limite. Organize o inventário e fale novamente. -",
-        "es-ES": "[Aviso]\n- No hay espacio disponible en el inventario o estás cerca del límite de posesión del mismo objeto. Organiza tu inventario y vuelve a hablar. -"
+        "pt-BR": "[Aviso]\n- Não há espaço livre no inventário ou você está carRgando uma quantidade do mesmo item próxima ao limite. Organize o inventário e fale comigo novamente. -",
+        "es-ES": "[Aviso]\nNo hay espacio disponible en el inventario o estás cerca del límite de posesión del mismo objeto. Organiza tu inventario y reinténtalo."
     },
     "RuwHDg": {
         "en-US": "[{0}]\nThere are what look like ledgers here. Should I take a look…\nThere's a lot of information, so it may take some time to find what I need.",
-        "pt-BR": "[{0}]\nHá alguns objetos que parecem ser livros contábeis. Vou dar uma olhada…\nComo há muito conteúdo, parece que vai levar algum tempo para encontrar o que procuro.",
-        "es-ES": "[{0}]\nHay unos objetos que parecen libros contables. ¿Debería revisarlos un poco…?\nHay mucha información, así que parece que tomará algo de tiempo encontrar lo que busco."
+        "pt-BR": "[{0}]\nParece que há alguns livros contábeis aqui. Vou dar uma olhada…\nTem muita informação, então vai levar algum tempo para encontrar o que procuro.",
+        "es-ES": "[{0}]\nHay unos objetos que parecen libros contables. ¿Los reviso?\nHay mucha información, parece que tomará algo de tiempo encontrar lo que busco."
     },
     "R+wHDg": {
         "en-US": "[Accounting Ledger]\nIt shows that a large amount of supplies has been flowing into Bagot's Laboratory.\nCompared to that, the amount allocated to Jungkea is significantly smaller.",
-        "pt-BR": "[Livro Contábil]\nDá para ver que uma grande quantidade de suprimentos foi enviada para Laboratório de Bagot.\nEm comparação, a quantidade destinada a Yunkea é consideravelmente menor.",
-        "es-ES": "[Libro contable]\nSe puede ver que una gran cantidad de suministros fue enviada a Laboratorio de Bagot.\nEn comparación, la cantidad asignada a Jungkea es considerablemente menor."
+        "pt-BR": "[Livro Contábil]\nDá para ver que uma grande quantidade de suprimentos foi enviada para Laboratório de Bagot.\nEm comparação, a quantidade destinada a Juncea é consideravelmente menor.",
+        "es-ES": "[Libro Contable]\nSe puede ver que una gran cantidad de suministros se envió al Laboratorio de Bagot.\nEn comparación, la cantidad asignada a Juncea es considerablemente menor."
     },
     "SOwHDg": {
         "en-US": "[{0}]\nCould I use this somehow? Maybe I should take it…",
         "pt-BR": "[{0}]\nTalvez eu possa usar isto. Será que devo levar…?",
-        "es-ES": "[{0}]\n¿No podría servirme esto? Quizá debería llevármelo…"
+        "es-ES": "[{0}]\n¿Será que esto me servirá? Mejor me lo llevo..."
     },
     "SewHDg": {
         "en-US": "(I took the Accounting Ledger.)",
         "pt-BR": "(Peguei o Livro Contábil.)",
-        "es-ES": "(Me llevé el Libro contable.)"
+        "es-ES": "(Me llevaré el Libro Contable.)"
     },
     "SuwHDg": {
         "en-US": "[{0}]\nThere are what look like ledgers here. Should I take a look…",
         "pt-BR": "[{0}]\nHá alguns objetos que parecem ser livros contábeis. Vou dar uma olhada…",
-        "es-ES": "[{0}]\nHay unos objetos que parecen libros contables. ¿Debería revisarlos un poco…?"
+        "es-ES": "[{0}]\nHay unos objetos que parecen libros contables. ¿Los reviso?"
     },
     "S+wHDg": {
         "en-US": "Rgan Guard",
@@ -1346,53 +1346,53 @@
     },
     "TewHDg": {
         "en-US": "[{0}]\n(Maybe I should casually linger nearby and pretend I'm just an ordinary Rgan passing by…. Fortunately, they're too busy talking among themselves to pay attention to me.)",
-        "pt-BR": "[{0}]\n(Será que devo ficar por perto tranquilamente, fingindo ser um Rgan comum que estava apenas passando…. Felizmente, estão ocupados conversando entre si e não prestam atenção em mim.)",
-        "es-ES": "[{0}]\n(¿Debería merodear tranquilamente por aquí fingiendo ser un Rgan cualquiera que pasaba….? Por suerte, están demasiado ocupados hablando entre ellos como para prestarme atención.)"
+        "pt-BR": "[{0}]\n(Será que devo ficar por perto tranquilamente, fingindo ser um Rgan comum que estava apenas passando…. Felizmente, estão ocupados conversando entre si e não estão prestando atenção em mim.)",
+        "es-ES": "[{0}]\n(¿Debería merodear tranquilamente por aquí fingiendo ser un Rgan? Por suerte, están demasiado ocupados hablando entre ellos como para prestarme atención.)"
     },
     "TuwHDg": {
         "en-US": "[Rgan Guard Captain]\nAh~ Lord Jörmungandr scolded me again. Being a guard is tough, seriously.",
-        "pt-BR": "[Capitão da Guarda Rgan]\nAh~ Lorde Yugrungand brigou comigo de novo. Ser da guarda é difícil mesmo.",
-        "es-ES": "[Capitán de la Guardia Rgan]\nAh~ El señor Ygglungand volvió a regañarme. Ser parte de la guardia sí que es difícil, de verdad."
+        "pt-BR": "[Capitão da Guarda Rgan]\nAh~ Lorde Jormungand brigou comigo de novo. Ser da guarda é difícil mesmo.",
+        "es-ES": "[Capitán de la Guardia Rgan]\nEl señor Yugrungand volvió a regañarme. Ser parte de la guardia sí que es difícil."
     },
     "T+wHDg": {
         "en-US": "[Rgan Guard]\nThat sounds serious, sir! What happened?!",
-        "pt-BR": "[Soldado da Guarda Rgan]\nIsso deve ter sido complicado! Aconteceu alguma coisa?",
+        "pt-BR": "[Soldado da Guarda Rgan]\nParece sério, senhor! O que houve?",
         "es-ES": "[Miembro de la Guardia Rgan]\n¡Eso suena grave! ¿Qué pasó?"
     },
     "UOwHDg": {
         "en-US": "[Rgan Guard Captain]\nWell, it's not really something I should be telling you guys… It's just that there aren't enough people assigned to Lord Rasgand's residence.",
-        "pt-BR": "[Capitão da Guarda Rgan]\nBem, não é algo que eu devesse contar para vocês… Ah, é que disseram que há gente de menos designada para a residência de Lorde Lasgand.",
-        "es-ES": "[Capitán de la Guardia Rgan]\nBueno, no es algo que deba contarles a ustedes… Ah, es que dicen que hay muy poco personal asignado a la residencia del señor Rasgand."
+        "pt-BR": "[Capitão da Guarda Rgan]\nBem, não é algo que eu devria contar para vocês… Ah, é que disseram que não há funcionários suficiente designados para a residência de Lorde Lasgand.",
+        "es-ES": "[Capitán de la Guardia Rgan]\nBueno, no es algo que deba contarles a ustedes... dice que hay muy poco personal asignado a la residencia de Ragand."
     },
     "UewHDg": {
         "en-US": "[Rgan Guard Captain]\nYou know how that black-haired human has been coming and going constantly lately. He was asking if it's really okay for security to be this lax. Yeah.",
         "pt-BR": "[Capitão da Guarda Rgan]\nSabe aquele humano de cabelo preto que anda entrando e saindo de lá o tempo todo ultimamente? Disseram que a segurança não pode continuar tão frouxa assim. É.",
-        "es-ES": "[Capitán de la Guardia Rgan]\nYa sabes, últimamente ese humano de cabello negro entra y sale todo el tiempo. Dicen que no podemos permitirnos tener una vigilancia tan descuidada. Sí."
+        "es-ES": "[Capitán de la Guardia Rgan]\nÚltimamente ese humano de cabello negro entra y sale todo el tiempo. Dicen que no podemos permitirnos tener una vigilancia tan descuidada."
     },
     "UuwHDg": {
         "en-US": "[Rgan Guard]\nYou mean that human called Bagot?! He really does seem to visit Lord Rasgand a lot these days!",
-        "pt-BR": "[Soldado da Guarda Rgan]\nEstá falando daquele humano chamado Bagot?! Parece mesmo que ele tem visitado muito Lorde Lasgand ultimamente!",
-        "es-ES": "[Guardia Rgan]\n¡¿Se refiere a ese humano llamado Bagot?! ¡Últimamente parece que visita muchísimo al señor Rasgand!"
+        "pt-BR": "[Soldado da Guarda Rgan]\nEstá falando daquele humano chamado Bagot?! Parece que ele anda visitando bastante o Lorde Ragand ultimamente!",
+        "es-ES": "[Guardia Rgan]\n¿Hablas de ese humano llamado \"Bagot\"? ¡Últimamente parece que visita muchísimo al señor Ragand!"
     },
     "U+wHDg": {
         "en-US": "[Rgan Guard Captain]\nYeah, exactly. But I don't know if that human can really be trusted.",
         "pt-BR": "[Capitão da Guarda Rgan]\nÉ, isso mesmo. Mas não sei se podemos realmente confiar naquele humano.",
-        "es-ES": "[Capitán de la Guardia Rgan]\nSí, eso mismo. Pero no sé si de verdad podemos confiar en ese humano."
+        "es-ES": "[Capitán de la Guardia Rgan]\nSí, eso mismo. Pero no sé si de verdad podemos confiar en él."
     },
     "VOwHDg": {
         "en-US": "[Rgan Guard Captain]\nLord Rasgand seems to trust that human… but Lord Jörmungandr doesn't.",
-        "pt-BR": "[Capitão da Guarda Rgan]\nLorde Lasgand parece confiar naquele humano… mas Yugrungand não pensa da mesma forma.",
-        "es-ES": "[Capitán de la Guardia Rgan]\nParece que el señor Rasgand confía en ese humano… pero el señor Ygglungand no piensa igual."
+        "pt-BR": "[Capitão da Guarda Rgan]\nLorde Ragand parece confiar naquele humano… mas Jormungand não pensa da mesma forma.",
+        "es-ES": "[Capitán de la Guardia Rgan]\nParece que el señor Ragand confía en ese humano… pero el señor Yugrungand no piensa igual."
     },
     "VewHDg": {
         "en-US": "[Rgan Guard]\nIs that so? Then what are we supposed to do?",
         "pt-BR": "[Soldado da Guarda Rgan]\nÉ mesmo? Então o que devemos fazer?",
-        "es-ES": "[Guardia Rgan]\n¿En serio? Entonces, ¿qué debemos hacer?"
+        "es-ES": "[Guardia Rgan]\n¿En serio? ¿Y qué debemos hacer?"
     },
     "VuwHDg": {
         "en-US": "[Rgan Guard Captain]\nThat's the problem. For now, it's better to be cautious than not.\nWe're going to reassign personnel, so review the deployment roster again. All right, back to work! Let's go!",
         "pt-BR": "[Capitão da Guarda Rgan]\nEsse é o problema. Por enquanto, é melhor tomar cuidado do que não tomar.\nVamos redistribuir o pessoal, então memorizem novamente a escala de postos. Agora, de volta ao trabalho! Vamos!",
-        "es-ES": "[Capitán de la Guardia Rgan]\nEse es el problema. Por ahora, será mejor tener cuidado que no tenerlo.\nVamos a reorganizar al personal, así que memoricen de nuevo el cuadro de asignaciones. ¡Bien, volvamos al trabajo! ¡Vamos!"
+        "es-ES": "[Capitán de la Guardia Rgan]\nEse es el problema. Será mejor tener cuidado que no tenerlo.\nVamos a reorganizar al personal, así que memoricen de nuevo el cuadro de asignaciones. ¡Volvamos al trabajo! ¡Vamos!"
     },
     "V+wHDg": {
         "en-US": "[Rgan Guard]\nUnderstood!",
@@ -1412,17 +1412,17 @@
     "WuwHDg": {
         "en-US": "[Rgan Guard]\nThis isn't the time to be standing around here!",
         "pt-BR": "[Guarda Rgan]\nNão é hora de ficar aqui fazendo isso!",
-        "es-ES": "[Guardia Rgan]\n¡Cierto, este no es momento para estar perdiendo el tiempo aquí!"
+        "es-ES": "[Guardia Rgan]\n¡Cierto, este no es momento para estar perdiendo el tiempo!"
     },
     "W+wHDg": {
         "en-US": "[{0}]\n(The guard hurried off somewhere.)",
-        "pt-BR": "[{0}]\n(Ele saiu correndo e desapareceu em algum lugar.)",
-        "es-ES": "[{0}]\n(Se fue apresuradamente hacia algún lugar.)"
+        "pt-BR": "[{0}]\n(Ele saiu correndo para algum lugar.)",
+        "es-ES": "[{0}]\n(El guardia se fue rápido a un lugar.)"
     },
     "XOwHDg": {
         "en-US": "[Rgan Guard]\nGuards have even more work to do at times like this!",
         "pt-BR": "[Guarda Rgan]\nÉ justamente numa hora dessas que os guardas têm ainda mais trabalho!",
-        "es-ES": "[Guardia Rgan]\n¡Precisamente en momentos como este, los guardias tenemos más trabajo que hacer!"
+        "es-ES": "[Guardia Rgan]\n¡En momentos como este, los guardias tenemos más trabajo que hacer!"
     },
     "XewHDg": {
         "en-US": "Jjaerorong",
@@ -1431,23 +1431,23 @@
     },
     "XuwHDg": {
         "en-US": "[Jjaerorong]\nCrunch, crunch! Ah, delicious. It makes my teeth ache, but it's delicious.",
-        "pt-BR": "[Jjaerorong]\nCroc, croc, nhac! Ah, que delícia. Meus dentes ficam gelados, mas é muito gostoso.",
-        "es-ES": "[Jjaerorong]\n¡Croc, crac! Ah, qué rico. Me duelen los dientes por el frío, pero está delicioso."
+        "pt-BR": "[Jaerorong]\nCroc, croc, nhac! Ah, que delícia. Meus dentes ficam gelados, mas é muito gostoso.",
+        "es-ES": "[Jaerorong]\n¡Croc, crac! Qué rico. Me duelen los dientes de frío, pero está delicioso."
     },
     "X+wHDg": {
         "en-US": "[Jjaerorong]\nHuh, what am I eating? Ice Snack. It's good. Want one?",
-        "pt-BR": "[Jjaerorong]\nHã, quer saber o que estou comendo? Doce de Gelo. É gostoso. Quer um também?",
-        "es-ES": "[Jjaerorong]\n¿Eh? ¿Que qué estoy comiendo? Dulce de hielo. Está rico. ¿Quieres uno?"
+        "pt-BR": "[Jaerorong]\nHã, quer saber o que estou comendo? Doce de Gelo. É gostoso. Quer um também?",
+        "es-ES": "[Jaerorong]\n¿Eh? ¿Que qué estoy comiendo? Galleta Helada. Está rica. ¿Quieres una?"
     },
     "YOwHDg": {
         "en-US": "[Jjaerorong]\nCrunch, crunch! Ah, it's cold. But it's so delicious.",
-        "pt-BR": "[Jjaerorong]\nCroc, croc, nhac! Ah, que frio. Mas é gostoso demais.",
-        "es-ES": "[Jjaerorong]\n¡Croc, crac! Ah, qué frío. Pero está demasiado rico."
+        "pt-BR": "[Jaerorong]\nCroc, croc, nhac! Ah, que frio. Mas é gostoso demais.",
+        "es-ES": "[Jaerorong]\n¡Croc, crac! Está fría, pero está muy rica."
     },
     "YewHDg": {
         "en-US": "Ask for one.",
         "pt-BR": "Pedir um.",
-        "es-ES": "Pedirle uno."
+        "es-ES": "Pedirle una."
     },
     "YuwHDg": {
         "en-US": "Decline.",
@@ -1456,33 +1456,33 @@
     },
     "Y+wHDg": {
         "en-US": "[Jjaerorong]\nOh, do your teeth hurt? Can't be helped, then.",
-        "pt-BR": "[Jjaerorong]\nAh, seus dentes ficam gelados? Então não tem jeito.",
-        "es-ES": "[Jjaerorong]\nAh, ¿te duelen los dientes por el frío? Entonces no hay nada que hacer."
+        "pt-BR": "[Jaerorong]\nAh, seus dentes doeram? Então não tem jeito.",
+        "es-ES": "[Jaerorong]\nAh, ¿te duelen los dientes por el frío? No hay mucho que hacer."
     },
     "ZOwHDg": {
-        "en-US": "[Jjaerorong]\nOur Iwin pastry chef is really talented!",
-        "pt-BR": "[Jjaerorong]\nNosso confeiteiro Arwin é realmente incrível!",
-        "es-ES": "[Jjaerorong]\n¡Nuestro pastelero Awin es realmente increíble!"
+        "en-US": "[Jjaerorong]\nOur Windcy pastry chef is really talented!",
+        "pt-BR": "[Jaerorong]\nNosso Nevento confeiteiro é realmente incrível!",
+        "es-ES": "[Jaerorong]\n¡Nuestro pastelero Neviento es realmente increíble!"
     },
     "ZewHDg": {
         "en-US": "[Jjaerorong]\nHere, don't be shy. Try some.",
-        "pt-BR": "[Jjaerorong]\nAqui, não precisa fazer cerimônia. Experimente.",
-        "es-ES": "[Jjaerorong]\nToma, pruébalo sin pena."
+        "pt-BR": "[Jaerorong]\nAqui, não precisa fazer cerimônia. Experimente.",
+        "es-ES": "[Jaerorong]\nToma, pruébalo sin pena."
     },
     "ZuwHDg": {
-        "en-US": "[{0}]\n(I can just say I took it from some wandering Iwins…. Let's bring it to <NAVI>[Jungkea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
-        "pt-BR": "[{0}]\n(Posso dizer que tirei isso dos Arwins que estavam andando por aí…. Vou levar para <NAVI>[Yunkea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
-        "es-ES": "[{0}]\n(Puedo decir que se lo quité a unos Awin que andaban por ahí…. Llevémoselo a <NAVI>[Jungkea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)"
+        "en-US": "[{0}]\n(I can just say I took it from some wandering Windcys…. Let's bring it to <NAVI>[Jungkea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
+        "pt-BR": "[{0}]\n(Posso dizer que tirei isso dos Neventos que estavam andando por aí…. Vou levar para <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
+        "es-ES": "[{0}]\n(Puedo decir que se lo quité a unos Neviento que andaban por ahí... Se lo voy a llevar a <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)"
     },
     "Z+wHDg": {
         "en-US": "[Jjaerorong]\nCrunch, crunch! Whew, this is so good.",
-        "pt-BR": "[Jjaerorong]\nCroc, croc, nhac! Ufa, que delícia.",
-        "es-ES": "[Jjaerorong]\n¡Croc, crac! Uf, está demasiado rico."
+        "pt-BR": "[Jaerorong]\nCroc, croc, nhac! Ahh, que delícia.",
+        "es-ES": "[Jaerorong]\n¡Croc, crac! Qué delicioso."
     },
     "aOwHDg": {
         "en-US": "[Jjaerorong]\nOh, what's up? Want some more Ice Snack?",
-        "pt-BR": "[Jjaerorong]\nOh, o que foi? Quer comer mais Doce de Gelo?",
-        "es-ES": "[Jjaerorong]\nOh, ¿qué pasa? ¿Quieres comer un poco más de Dulce de hielo?"
+        "pt-BR": "[Jaerorong]\nAh, o que foi? Quer comer mais Doce Gelado?",
+        "es-ES": "[Jaerorong]\nOh, ¿qué pasa? ¿Quieres comer más Galleta Helada?"
     },
     "aewHDg": {
         "en-US": "Ask for more.",
@@ -1491,33 +1491,33 @@
     },
     "auwHDg": {
         "en-US": "[Jjaerorong]\nThen again, if you eat too much, your teeth will freeze.",
-        "pt-BR": "[Jjaerorong]\nÉ verdade, se comer demais, os dentes congelam.",
-        "es-ES": "[Jjaerorong]\nBueno, si comes demasiado, se te congelarán los dientes."
+        "pt-BR": "[Jaerorong]\nPor outro lado, se comer demais, os dentes congelam.",
+        "es-ES": "[Jaerorong]\nSi comes demasiado, se te congelarán los dientes."
     },
     "a+wHDg": {
         "en-US": "[Jjaerorong]\nI'll give you just one more. Make it last.",
-        "pt-BR": "[Jjaerorong]\nVou dar só mais um. Coma com cuidado.",
-        "es-ES": "[Jjaerorong]\nTe daré solo uno más. Disfrútalo."
+        "pt-BR": "[Jaerorong]\nVou dar só mais um. Aproveite bem.",
+        "es-ES": "[Jaerorong]\nTe voy a dar una y ya. Disfrútala."
     },
     "bOwHDg": {
         "en-US": "[{0}]\n(Let's bring it to Jungkea.)",
-        "pt-BR": "[{0}]\n(Vou levar para Yunkea.)",
-        "es-ES": "[{0}]\n(Llevémoselo a Jungkea.)"
+        "pt-BR": "[{0}]\n(Vou levar para Juncea.)",
+        "es-ES": "[{0}]\n(Se la llevaré a Juncea.)"
     },
     "bewHDg": {
         "en-US": "[Jjaerorong]\nYou already have one, don't you? You want more? No.\nIf you eat too much, your throat will freeze.",
-        "pt-BR": "[Jjaerorong]\nVocê já tem um, não tem? Quer mais? Não.\nSe comer demais, sua garganta vai congelar.",
-        "es-ES": "[Jjaerorong]\nYa tienes uno, ¿no? ¿Quieres otro? No.\nSi comes demasiado, se te congelará la garganta."
+        "pt-BR": "[Jaerorong]\nVocê já tem um, não tem? Quer mais? Não.\nSe comer demais, sua garganta vai congelar.",
+        "es-ES": "[Jaerorong]\nYa te di una, ¿no? ¿Quieres más? No.\nSi comes muchas, se te congelará la garganta."
     },
     "buwHDg": {
         "en-US": "[Jjaerorong]\nDid Jjaerorong eat too much Ice Snack?\nI think I can feel my esophagus freezing.",
-        "pt-BR": "[Jjaerorong]\nJjaerorong, será que você comeu Doce de Gelo demais?\nAcho que consigo sentir meu esôfago congelado.",
-        "es-ES": "[Jjaerorong]\nJjaerorong, ¿habrás comido demasiado Dulce de hielo?\nCreo que puedo sentir el esófago congelado."
+        "pt-BR": "[Jaerorong]\nSerá que Jaerorong comeu Doce Gelado demais?\nAcho que consigo sentir meu esôfago congelando.",
+        "es-ES": "[Jaerorong]\n¿Será que comí muchas Galletas Heladas?\nSiento cómo se me congela la garganta."
     },
     "b+wHDg": {
         "en-US": "[Jjaerorong]\nBut it's delicious, so I don't regret it.",
-        "pt-BR": "[Jjaerorong]\nMas como é gostoso, não me arrependo.",
-        "es-ES": "[Jjaerorong]\nPero está delicioso, así que no me arrepiento."
+        "pt-BR": "[Jaerorong]\nMas como é gostoso, não me arrependo.",
+        "es-ES": "[Jaerorong]\nPero son deliciosas, no me arrepiento."
     },
     "cOwHDg": {
         "en-US": "Wirorong",
@@ -1526,83 +1526,83 @@
     },
     "cewHDg": {
         "en-US": "[Wirorong]\nCrunch, crunch.\nAh, delicious. Ice Snack really is the best.",
-        "pt-BR": "[Wirorong]\nCroc, croc.\nAh, que delícia. Doce de Gelo é mesmo o melhor.",
-        "es-ES": "[Wirorong]\nCruj, cruj. Croc, croc.\nAh, qué rico. Sin duda, Dulce de hielo es lo mejor."
+        "pt-BR": "[Wirorong]\nCroc, croc.\nAh, que delícia. Doce Gelado é mesmo o melhor.",
+        "es-ES": "[Wirorung]\n*masticando*\nQué rico, sin duda las Galletas Heladas son lo mejor."
     },
     "cuwHDg": {
-        "en-US": "[Wirorong]\nCrunch, crunch, munch, munch….\nWhy are you staring at me like that? Interested in Iwin's special Ice Snack?",
-        "pt-BR": "[Wirorong]\nCroc, creck….\nPor que está me olhando assim? Está interessado no Doce de Gelo especial de Arwin?",
-        "es-ES": "[Wirorong]\nCruj, croc, crac, crac...\n¿Por qué me miras así? ¿Te interesa el Dulce de hielo especial de Awin?"
+        "en-US": "[Wirorong]\nCrunch, crunch, munch, munch….\nWhy are you staring at me like that? Interested in Windcy's special Ice Snack?",
+        "pt-BR": "[Wirorong]\nCroc, creck….\nPor que está me olhando assim? Tem interesse no Doce Gelado especial dos Neventos?",
+        "es-ES": "[Wirorung]\n*masticando*\n¿Por qué me miras así? ¿Te interesan las Galletas Heladas?"
     },
     "c+wHDg": {
         "en-US": "Say you're not interested.",
-        "pt-BR": "Diga que não está interessado.",
-        "es-ES": "Dice que no le interesa."
+        "pt-BR": "Dizer que não tem interesse.",
+        "es-ES": "Dices que no."
     },
     "dOwHDg": {
         "en-US": "[Wirorong]\nHmph, you've got no fur to hide your expression, yet you're acting all coy.\nYou don't look uninterested. Whatever.",
-        "pt-BR": "[Wirorong]\nHmpf, sem pelos nem para esconder suas expressões e ainda quer bancar o indiferente.\nEssa não é cara de quem não está interessado. Bom, tanto faz.",
-        "es-ES": "[Wirorong]\nHmph, como no tienes pelo, ni siquiera puedes ocultar tus expresiones, pero te haces el indiferente.\nNo parece que no te interese. Bueno, da igual."
+        "pt-BR": "[Wirorong]\nHmpf, sem pelos nem para esconder suas expressões e ainda quer fingir indiferença.\nEssa não é cara de quem não está interessado. Bom, tanto faz.",
+        "es-ES": "[Wirorung]\nComo no tienes pelo, no puedes ocultar tu cara, no te hagas.\nParece que sí te interesa, pero me da igual."
     },
     "dewHDg": {
-        "en-US": "[Wirorong]\nFor free? Well, since I'm the generous Iwin, I'll make an exception and give you one.",
-        "pt-BR": "[Wirorong]\nDe graça? Mas como sou um Arwin generoso, vou abrir uma exceção e dar um para você.",
-        "es-ES": "[Wirorong]\n¿Gratis? Bueno, como soy el generoso Awin, te daré uno especialmente."
+        "en-US": "[Wirorong]\nFor free? Well, since I'm the generous Windcy, I'll make an exception and give you one.",
+        "pt-BR": "[Wirorong]\nDe graça? Mas como sou um Nevento generoso, vou abrir uma exceção e dar um para você.",
+        "es-ES": "[Wirorung]\n¿Gratis? Bueno, como soy generoso, te daré una."
     },
     "duwHDg": {
         "en-US": "[Wirorong]\nMake it last. It's delicious!",
         "pt-BR": "[Wirorong]\nComa devagar. É uma delícia!",
-        "es-ES": "[Wirorong]\nCómetelo poco a poco. ¡Está delicioso!"
+        "es-ES": "[Wirorung]\nComela de a poco. Está deliciosa."
     },
     "d+wHDg": {
-        "en-US": "[{0}]\n(I can just say I snatched it from a wandering Iwin…. Let's take it to <NAVI>[Jungkhea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
-        "pt-BR": "[{0}]\n(Posso dizer que tirei de um Arwin que estava andando por aí…. Vamos levar para <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
-        "es-ES": "[{0}]\n(Podría decir que se lo quité a un Awin que andaba por ahí... Llevémoselo a <NAVI>[Jungkea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)"
+        "en-US": "[{0}]\n(I can just say I snatched it from a wandering Windcy…. Let's take it to <NAVI>[Jungkhea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
+        "pt-BR": "[{0}]\n(Posso dizer que tirei isso dos Neventos que estavam andando por aí…. Vou levar para <NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)",
+        "es-ES": "[{0}]\n(Podría decir que se lo quité a un Neviento que andaba por ahí... Se la llevaré a<NAVI>[Juncea]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI>.)"
     },
     "eOwHDg": {
         "en-US": "[Wirorong]\nCrunch, crunch, munch…\nGeez, are you going to keep staring at me?",
         "pt-BR": "[Wirorong]\nCroc, creck…\nAh, fala sério, vai continuar me encarando?",
-        "es-ES": "[Wirorong]\nCruj, croc, crac...\nAy, ¿vas a seguir mirándome?"
+        "es-ES": "[Wirorung]\n*masticando*\n¿Vas a seguir mirándome?"
     },
     "eewHDg": {
         "en-US": "Ask for one more.",
-        "pt-BR": "Peça mais um.",
-        "es-ES": "Pide uno más."
+        "pt-BR": "Pedir mais um.",
+        "es-ES": "Pide una más."
     },
     "euwHDg": {
         "en-US": "Look away.",
-        "pt-BR": "Desvie o olhar.",
+        "pt-BR": "Desviar o olhar.",
         "es-ES": "Desvía la mirada."
     },
     "e+wHDg": {
         "en-US": "[Wirorong]\nSheesh, you're shy. What are you going to do if you've got no fur and no nerve either?",
-        "pt-BR": "[Wirorong]\nNossa, como você é tímido. Já não tem pelos, e ainda vai ficar aí todo acanhado?",
-        "es-ES": "[Wirorong]\nVaya, qué tímido. Si no tienes pelo, al menos podrías tener un poco más de valor."
+        "pt-BR": "[Wirorong]\nNossa, quanta timidez. Já não tem pelos, e ainda vai ficar aí fazendo tipo?",
+        "es-ES": "[Wirorung]\nAy, cuanta timidez. Si no tienes pelo, al menos podrías ser un poco más valiente."
     },
     "fOwHDg": {
         "en-US": "[Wirorong]\nCrunch, crunch, munch munch, crunch crunch!\nYeah. You want another one, don't you?",
         "pt-BR": "[Wirorong]\nCroc, creck, croc, croc!\nViu só? Quer comer mais um, não quer?",
-        "es-ES": "[Wirorong]\nCruj, croc, crac, crac, ¡cruj, cruj!\nSí. Quieres comer otro, ¿verdad?"
+        "es-ES": "[Wirorung]\n*masticando*\nQuieres comer otra, ¿verdad?"
     },
     "fewHDg": {
         "en-US": "[Wirorong]\nYou already have one, don't you? You want another? No.",
         "pt-BR": "[Wirorong]\nVocê já tem um, não tem? Quer mais? Não.",
-        "es-ES": "[Wirorong]\nYa tienes uno, ¿no? ¿Quieres otro? No."
+        "es-ES": "[Wirorung]\nYa tienes una, ¿no? ¿Quieres más? No."
     },
     "fuwHDg": {
         "en-US": "[Wirorong]\nIf you eat too much at once, your teeth will freeze.\nIt's really delicious, but it's really cold too. Make it last.",
         "pt-BR": "[Wirorong]\nSe comer demais de uma vez, seus dentes vão congelar.\nÉ muito gostoso, mas também muito gelado. Coma devagar.",
-        "es-ES": "[Wirorong]\nSi comes demasiado de una sola vez, se te congelarán los dientes.\nEstá realmente delicioso, pero también está realmente frío. Cómetelo poco a poco."
+        "es-ES": "[Wirorung]\nSi comes muchas, se te congelarán los dientes.\nSon muy ricas, pero también son muy frías. Cómetelas con cuidado."
     },
     "f+wHDg": {
         "en-US": "[Wirorong]\nThis Ice Snack is amazing, right?\nIt's a recipe Professor Varmundt gave us.",
-        "pt-BR": "[Wirorong]\nEste Doce de Gelo é incrível, não é?\nÉ uma receita que o professor Varmundt passou para a gente.",
-        "es-ES": "[Wirorong]\nEste Dulce de hielo es increíble, ¿verdad?\nEs una receta que nos pasó el profesor Varmundt."
+        "pt-BR": "[Wirorong]\nEste Doce Gelado é incrível, não é?\nÉ uma receita que o professor Varmundt passou para a gente.",
+        "es-ES": "[Wirorung]\nLa Galleta Helada es increíble, ¿no?\nEs una receta que nos dio el profesor Varmunt."
     },
     "gOwHDg": {
         "en-US": "[Leizi]\nHow's the job going? Making good progress?",
-        "pt-BR": "[Nalandro]\nE então, como está indo o que você estava fazendo? Está correndo tudo bem?",
-        "es-ES": "[Lazy]\n¿Cómo va lo que estabas haciendo? ¿Todo bien?"
+        "pt-BR": "[Nalandro]\nE então, como está a missão? Tudo indo bem?",
+        "es-ES": "[Lazy]\n¿Cómo van tus pendientes? ¿Todo bien?"
     },
     "gewHDg": {
         "en-US": "[Leizi]\nStaying transformed as a Rgan really gets uncomfortable… I feel much better now that I've changed back.",
@@ -1611,52 +1611,52 @@
     },
     "guwHDg": {
         "en-US": "[Leizi]\nHey, how's the job going? Making good progress?\nI was taking a little break over here. Figured I'd give a report while I was at it.",
-        "pt-BR": "[Nalandro]\nEi, como está indo o que você estava fazendo? Está correndo tudo bem?\nEu estava fazendo uma pausa por aqui. Aproveitei também para fazer alguns relatórios.",
-        "es-ES": "[Lazy]\nHola, ¿cómo va lo que estabas haciendo? ¿Todo bien?\nYo estaba descansando un rato. De paso, también aproveché para hacer un informe."
+        "pt-BR": "[Nalandro]\nEi, como está a missão? Tudo indo bem?\nEu estava fazendo uma pausa por aqui. Aproveitei também para fazer alguns relatórios.",
+        "es-ES": "[Lazy]\nHola, ¿cómo va todo?\nYo estaba descansando un rato. De paso aproveché para hacer un informe."
     },
     "g+wHDg": {
         "en-US": "[Leizi]\nI've been working on Bagot too. I fed him plenty of stories that should make him suspicious of Jungkhea.",
-        "pt-BR": "[Nalandro]\nEu também já preparei um pouco o terreno com Bagot. Falei um monte de coisas para fazer com que ele desconfiasse de Juncea.",
-        "es-ES": "[Lazy]\nYo también preparé un poco el terreno con Bagot. Le conté un montón de cosas para que empezara a sospechar de Jungkea."
+        "pt-BR": "[Nalandro]\nEu também já preparei um pouco o terreno com o Bagot. Falei um monte de coisas para fazer com que ele desconfiasse da Juncea.",
+        "es-ES": "[Lazy]\nYo también preparé un poco el terreno con Bagot. Le conté un montón de cosas para que empezara a sospechar de Juncea."
     },
     "hOwHDg": {
         "en-US": "[{0}]\nI think I've gotten a little closer to Jungkhea too.\nI also told Jungkhea that Bagot had been getting much better treatment.",
-        "pt-BR": "[{0}]\nAcho que também consegui me aproximar um pouco mais de Juncea.\nTambém contei a Juncea que Bagot estava recebendo um tratamento muito melhor.",
-        "es-ES": "[{0}]\nCreo que también me he acercado un poco más a Jungkea.\nTambién le conté que Bagot recibía un trato mucho mejor."
+        "pt-BR": "[{0}]\nAcho que também consegui me aproximar um pouco mais da Juncea.\nTambém contei a ela que o Bagot estava recebendo um tratamento muito melhor.",
+        "es-ES": "[{0}]\nCreo que también me acerqué a Juncea.\nLe conté que Bagot recibía un trato mucho mejor."
     },
     "hewHDg": {
         "en-US": "[{0}]\nIt seemed like Jungkhea had no idea that Bagot had been receiving far more supplies than she was.",
-        "pt-BR": "[{0}]\nParece que Juncea não sabia que Bagot estava recebendo muito mais suprimentos do que ele.",
-        "es-ES": "[{0}]\nParece que Jungkea no sabía que Bagot estaba recibiendo muchos más suministros que él."
+        "pt-BR": "[{0}]\nParece que a Juncea não sabia que o Bagot estava recebendo muito mais suprimentos do que ela.",
+        "es-ES": "[{0}]\nParece que Juncea no sabía que Bagot estaba recibiendo muchos más suministros."
     },
     "huwHDg": {
         "en-US": "[Leizi]\nReally? Then she'd have even more reason to hold a grudge.\nNow we just need to win Jungkhea over….",
-        "pt-BR": "[Nalandro]\nÉ mesmo? Então ele tem ainda mais motivos para guardar rancor.\nAgora só precisamos convencer Juncea direitinho….",
-        "es-ES": "[Lazy]\n¿Sí? Entonces tendrá aún más motivos para guardarle rencor.\nAhora solo falta ganarnos bien a Jungkea..."
+        "pt-BR": "[Nalandro]\nÉ mesmo? Então ela tem ainda mais motivos para guardar rancor.\nAgora só precisamos convencer a Juncea….",
+        "es-ES": "[Lazy]\nEntonces tendrá más motivos para guardarle rencor.\nAhora solo falta ganarnos a Juncea..."
     },
     "h+wHDg": {
         "en-US": "[Miriam]\nThings are going well for both of you, right?\nI've heard how things are going with Leizi… but how about you, Adventurer?",
-        "pt-BR": "[Miriam]\nEstá dando tudo certo para vocês dois, não está?\nJá ouvi o que aconteceu com o sr. Nalandro… E você, aventureiro?",
-        "es-ES": "[Miriam]\nTodo va bien para ambos, ¿verdad?\nYa escuché lo de Lazy... ¿Y usted, aventurero?"
+        "pt-BR": "[Miriam]\nEstá dando tudo certo para vocês dois, não está?\nJá ouvi o que aconteceu com o Nalandro… E com você, viajante?",
+        "es-ES": "[Miriam]\nTodo va bien para ambos, ¿verdad?\nYa escuché lo de Lazy... ¿Y tú?"
     },
     "iOwHDg": {
         "en-US": "[{0}]\nHmm, but I also feel like we may need to move a little faster.\nBagot came to see Jungkhea.",
         "pt-BR": "[{0}]\nHmm, mas também estou com a sensação de que precisamos resolver isso um pouco mais rápido.\nBagot foi procurar Juncea.",
-        "es-ES": "[{0}]\nMmm, pero siento que deberíamos apresurarnos un poco.\nBagot fue a visitar a Jungkea."
+        "es-ES": "[{0}]\nSiento que deberíamos apresurarnos.\nBagot fue a visitar a Juncea."
     },
     "iewHDg": {
         "en-US": "[Leizi]\nWhat! Really? And you just let the two of them talk, Adventurer?\nYou can't do that!",
-        "pt-BR": "[Nalandro]\nO quê! Sério? E você deixou os dois conversarem, aventureiro?\nIsso não pode!",
-        "es-ES": "[Lazy]\n¡¿Qué?! ¿En serio? ¿Y dejaste que hablaran, aventurero?\n¡Eso no está bien!"
+        "pt-BR": "[Nalandro]\nO quê! Sério? E você deixou os dois conversarem, viajante?\nIsso não pode!",
+        "es-ES": "[Lazy]\n¿En serio? ¿Y dejaste que hablaran?\n¡Eso no está bien!"
     },
     "iuwHDg": {
         "en-US": "[Miriam]\nBut there wasn't really any way to stop them, was there?\nSince you're pretending to be a young Rgan, it would've been difficult to step in.",
-        "pt-BR": "[Miriam]\nMas não havia exatamente um jeito de impedir, certo?\nComo você está fingindo ser um Regan jovem, teria sido meio difícil se meter ali.",
-        "es-ES": "[Miriam]\nPero tampoco había una forma clara de impedirlo, ¿no?\nComo está fingiendo ser un Rgan joven, habría sido difícil intervenir ahí."
+        "pt-BR": "[Miriam]\nMas não havia exatamente um jeito de impedir, certo?\nComo você está fingindo ser um Rgan jovem, teria sido meio difícil se meter ali.",
+        "es-ES": "[Miriam]\nPero tampoco se podía impedir, ¿no?\nComo estás fingiendo ser un Rgan, me imagino que era difícil intervenir."
     },
     "i+wHDg": {
         "en-US": "Leizi\nBut <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>, shouldn't the Adventurer at least have eavesdropped on what they were saying?",
-        "pt-BR": "Nalandro\nMas <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>, nesse caso, ele não deveria ao menos ter escutado escondido o que os dois estavam dizendo?",
+        "pt-BR": "[Nalandro]\nMas <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>, nesse caso, não seria bom ao menos ter escutado às escondidas o que os dois estavam dizendo?",
         "es-ES": "Lazy\nPero, <NAVI>[Miriam]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>, al menos podrías haber escuchado a escondidas de qué estaban hablando, ¿no?"
     },
     "jOwHDg": {
@@ -1672,47 +1672,47 @@
     "juwHDg": {
         "en-US": "[Miriam]\nIs everything going well?\nI'm counting on you. Please take care of it.",
         "pt-BR": "[Miriam]\nEstá indo tudo bem?\nConfio em você. Conto com sua ajuda.",
-        "es-ES": "[Miriam]\n¿Todo va bien?\nConfío en usted. Cuento con usted."
+        "es-ES": "[Miriam]\n¿Todo va bien?\nConfío en ti, confío en ti."
     },
     "j+wHDg": {
         "en-US": "[Miriam]\nEven though the Adventurer is a Superior Rgan, they're still supposed to be newly born. Trying to get too deeply involved would only look suspicious.",
-        "pt-BR": "[Miriam]\nMesmo sendo um Regan Superior, o aventureiro acabou de nascer. Se tentar se envolver demais, pode acabar parecendo estranho.",
-        "es-ES": "[Miriam]\nAunque el aventurero sea un Regan superior, acaba de nacer. Si intenta involucrarse demasiado, podría resultar sospechoso."
+        "pt-BR": "[Miriam]\nMesmo sendo Rgans Superiores, vocês acabaram de nascer. Se tentar se envolver demais, pode acabar parecendo estranho.",
+        "es-ES": "[Miriam]\nAunque sea un Rgan Superior, acaba de nacer. Si se intenta involucrar mucho, podría ser sospechoso."
     },
     "kOwHDg": {
         "en-US": "[Leizi]\nBut, ugh! It's frustrating not knowing what those two might talk about.\nAdventurer, I think we need to move things along a little faster.",
-        "pt-BR": "[Nalandro]\nMas, ah! Não saber o que os dois vão conversar é frustrante.\nAventureiro, acho que precisamos acelerar um pouco as coisas.",
-        "es-ES": "[Lazy]\nPero, ¡ay! No saber de qué estarán hablando esos dos me pone nervioso.\nAventurero, creo que tendremos que acelerar un poco las cosas."
+        "pt-BR": "[Nalandro]\nMas, ah! Não saber o que os dois vão conversar é frustrante.\nViajante, acho que precisamos acelerar um pouco as coisas.",
+        "es-ES": "[Lazy]\nPero no saber de qué hablan me pone de nervios.\nTendremos que acelerar un poco las cosas."
     },
     "kewHDg": {
         "en-US": "[Leizi]\nIf the two of them talk, they might uncover what we've been doing behind the scenes.\nThe fact that Bagot made a move means Bagot may have noticed something.",
-        "pt-BR": "[Nalandro]\nSe os dois começarem a conversar, talvez descubram o que estamos fazendo nos bastidores.\nO fato de Bagot ter agido significa que Bagot talvez já tenha percebido alguma coisa.",
-        "es-ES": "[Lazy]\nSi esos dos siguen hablando, podrían descubrir lo que hemos estado haciendo a escondidas.\nEl hecho de que Bagot haya actuado significa que Bagot quizá ya sospecha algo."
+        "pt-BR": "[Nalandro]\nSe os dois começarem a conversar, talvez descubram o que estamos fazendo nos bastidores.\nO fato de Bagot ter agido significa que ele talvez já tenha percebido alguma coisa.",
+        "es-ES": "[Lazy]\nSi esos dos siguen hablando, podrían descubrir lo que hemos estado haciendo a escondidas.\nEl hecho de que Bagot haya actuado significa que quizá ya sospecha algo."
     },
     "kuwHDg": {
         "en-US": "[Leizi]\nLet's convince Jungkhea first.\nIf persuasion doesn't work, then even by somewhat forceful means… you know what I mean, right?",
-        "pt-BR": "[Nalandro]\nVamos convencer Juncea primeiro.\nSe não conseguirmos convencê-lo, teremos que usar métodos um pouco mais coercitivos… Você sabe o que quero dizer, não sabe?",
-        "es-ES": "[Lazy]\nConvenzamos primero a Jungkea.\nSi no podemos convencerlo, aunque tengamos que recurrir a métodos un poco más coercitivos... ya entiendes a qué me refiero, ¿verdad?"
+        "pt-BR": "[Nalandro]\nVamos convencer Juncea primeiro.\nSe não conseguirmos convencê-la, teremos que usar métodos um pouco mais coercitivos… Você sabe o que quero dizer, não sabe?",
+        "es-ES": "[Lazy]\nHay que convencer primero a Juncea.\nSi no la podemos convencer, debemos recurrir a acciones un poco más... cuestionables. Sabes a lo que me refiero, ¿no?"
     },
     "k+wHDg": {
         "en-US": "[Miriam]\nSo we have to bring her here one way or another.\nIf you use the Rgan Transformation Scroll, you'll attract less attention whether you persuade her or use force.",
-        "pt-BR": "[Miriam]\nEntão precisamos trazê-lo para cá de qualquer jeito.\nSe usarmos Pergaminho de Transformação em Regan, chamaremos menos atenção, seja tentando convencê-lo ou usando métodos mais coercitivos.",
-        "es-ES": "[Miriam]\nEntonces tenemos que traerlo de una forma u otra.\nSi usamos Pergamino de Transformación en Regan, llamaremos menos la atención, ya sea convenciéndolo o recurriendo a métodos coercitivos."
+        "pt-BR": "[Miriam]\nEntão precisamos trazê-la para cá de qualquer jeito.\nSe usarmos o Pergaminho de Transformação em Rgan, chamaremos menos atenção, seja tentando convencê-la ou usando métodos mais coercitivos.",
+        "es-ES": "[Miriam]\nEntonces tenemos que traerla de una forma u otra.\nSi usamos Pergamino de Transformación, llamaremos menos la atención. Hay que ser un poco más persuasivos."
     },
     "lOwHDg": {
         "en-US": "[Leizi]\nThere's no time to waste.\nHurry back to <NAVI>[Jungkhea]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>.",
         "pt-BR": "[Nalandro]\nNão temos tempo a perder.\nVolte logo para <NAVI>[Juncea]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>.",
-        "es-ES": "[Lazy]\nNo hay tiempo que perder.\nVuelve rápido con <NAVI>[Jungkea]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>."
+        "es-ES": "[Lazy]\nNo hay tiempo que perder.\nVuelve rápido con <NAVI>[Juncea]<INFO>jor_nest,19,190,0,101,0</INFO></NAVI>."
     },
     "lewHDg": {
         "en-US": "[Leizi]\nWe've had enough rest too, so it's about time we got back to what we were doing.\nUgh, transforming into a Rgan makes my back hurt.",
         "pt-BR": "[Nalandro]\nJá descansamos o bastante, então está na hora de voltar ao trabalho.\nAi, minha lombar dói quando me transformo em Rgan.",
-        "es-ES": "[Lazy]\nNosotros también ya descansamos, así que será mejor volver a terminar lo que estábamos haciendo.\nAy, me duele la espalda cuando me transformo en Rgan."
+        "es-ES": "[Lazy]\nNosotros también ya descansamos, hay que volver a terminar lo que empezamos.\nAy, me duele la espalda cuando me transformo en Rgan."
     },
     "luwHDg": {
         "en-US": "[Miriam]\nThings are busy over here too.\nBut probably not as busy as you are, Adventurer.",
-        "pt-BR": "[Miriam]\nPor aqui também está corrido.\nMas acho que não tanto quanto para você, aventureiro.",
-        "es-ES": "[Miriam]\nNosotros también estamos ocupados.\nPero no tanto como usted, aventurero, ¿verdad?"
+        "pt-BR": "[Miriam]\nPor aqui também está corrido.\nMas acho que não tanto quanto para você, viajante.",
+        "es-ES": "[Miriam]\nNosotros también estamos ocupados.\nPero no tanto como tú, ¿verdad?"
     },
     "l+wHDg": {
         "en-US": "The door is locked.",
@@ -1747,22 +1747,22 @@
     "newHDg": {
         "en-US": "[Arorong]\nWell done.\nYou came back after a splendid victory.",
         "pt-BR": "[Arorong]\nMuito bem.\nVocê voltou depois de uma bela vitória.",
-        "es-ES": "[Arorong]\nLo hiciste bien.\nRegresaste después de conseguir una victoria magnífica."
+        "es-ES": "[Arorong]\nLo hiciste bien.\nRegresaste después de una bella victoria."
     },
     "nuwHDg": {
         "en-US": "[Arorong]\nWe've gathered more data, so our researchers will be pleased too.\nNow then, take the reward I promised you.",
-        "pt-BR": "[Arorong]\nCom mais dados acumulados, nossos pesquisadores também vão ficar satisfeitos.\nEntão, receba a recompensa prometida.",
+        "pt-BR": "[Arorong]\nCom mais dados acumulados, nossos pesquisadores também vão ficar satisfeitos.\nEntão, tome a recompensa que eu prometi.",
         "es-ES": "[Arorong]\nCon todos estos datos acumulados, nuestros investigadores estarán encantados.\nBien, recibe la recompensa prometida."
     },
     "n+wHDg": {
         "en-US": "[Arorong]\nGet plenty of rest and come back tomorrow.\nChallenge it again tomorrow.",
-        "pt-BR": "[Arorong]\nDescanse bem e volte amanhã.\nTente novamente amanhã.",
+        "pt-BR": "[Arorong]\nDescanse bem e volte amanhã.\nTente o desafio novamente amanhã.",
         "es-ES": "[Arorong]\nDescansa bien y vuelve mañana.\nInténtalo de nuevo mañana."
     },
     "oOwHDg": {
         "en-US": "[Arorong]\nWasn't the battle with Jungkhea thrilling?\nDoesn't it make you want to fight her again?",
         "pt-BR": "[Arorong]\nA batalha contra Juncea não foi emocionante?\nNão ficou com vontade de lutar de novo?",
-        "es-ES": "[Arorong]\nLa batalla contra Jungkea fue emocionante, ¿no?\n¿No te dan ganas de volver a luchar contra él?"
+        "es-ES": "[Arorong]\nLa batalla contra Juncea fue emocionante, ¿no?\n¿No te dan ganas de volver a intentarlo?"
     },
     "oewHDg": {
         "en-US": "It does.",
@@ -1777,42 +1777,42 @@
     "o+wHDg": {
         "en-US": "[Arorong]\nReally?\nBoring.",
         "pt-BR": "[Arorong]\nÉ mesmo?\nQue sem graça.",
-        "es-ES": "[Arorong]\n¿Ah, sí?\nQué aburrido."
+        "es-ES": "[Arorong]\nAh, ¿sí?\n¡Aburrido!"
     },
     "pOwHDg": {
         "en-US": "[Arorong]\nI prepared something for Adventurers like you.\nA thrilling mock battle against simulation-data Jungkhea.",
         "pt-BR": "[Arorong]\nPreparei algo para aventureiros como você.\nUma emocionante batalha simulada contra os dados de simulação de Juncea.",
-        "es-ES": "[Arorong]\nPreparé esto para aventureros como tú.\nUn emocionante combate simulado contra Jungkea de datos de simulación."
+        "es-ES": "[Arorong]\nPreparé esto para alguien como tú.\nUn emocionante combate simulado contra Juncea de Simulación."
     },
     "pewHDg": {
         "en-US": "[Arorong]\nIt's something prepared by the Ice Castle, so it's safe.\nYou can defeat Simulation Juncea once per day.",
-        "pt-BR": "[Arorong]\nFoi preparado pelo Castelo de Gelo, então é seguro.\nVocê pode derrotar Juncea de Simulação uma vez por dia.",
-        "es-ES": "[Arorong]\nComo lo preparó el Castillo de Hielo, es seguro.\nPuedes derrotar a Juncea de simulación una vez al día."
+        "pt-BR": "[Arorong]\nFoi preparado pelo Castelo de Gelo, então é seguro.\nVocê pode derrotar a Juncea de Simulação uma vez por dia.",
+        "es-ES": "[Arorong]\nComo lo preparó el Castillo de Hielo, es seguro.\nPuedes derrotar a Juncea de Simulación una vez al día."
     },
     "puwHDg": {
         "en-US": "[Arorong]\nBut you can challenge it as many times as you want until you defeat it.\nWant to give it a try?",
-        "pt-BR": "[Arorong]\nMas pode tentar quantas vezes quiser até derrotá-lo.\nQuer tentar?",
-        "es-ES": "[Arorong]\nPero puedes intentarlo todas las veces que quieras hasta derrotarlo.\n¿Quieres intentarlo?"
+        "pt-BR": "[Arorong]\nMas pode tentar quantas vezes quiser até derrotá-la.\nQuer tentar?",
+        "es-ES": "[Arorong]\nPuedes intentarlo todas las veces que quieras hasta derrotarla.\n¿Quieres intentarlo?"
     },
     "p+wHDg": {
         "en-US": "Do not challenge it.",
         "pt-BR": "Não desafiar.",
-        "es-ES": "No desafiar."
+        "es-ES": "No intentarlo."
     },
     "qOwHDg": {
         "en-US": "[Arorong]\nHmph, what a boring Adventurer.",
-        "pt-BR": "[Arorong]\nHmpf, que aventureiro sem graça.",
-        "es-ES": "[Arorong]\nHmph, qué aventurero tan aburrido."
+        "pt-BR": "[Arorong]\nHmpf, que sem graça.",
+        "es-ES": "[Arorong]\nAy, qué persona tan aburrida."
     },
     "qewHDg": {
         "en-US": "[Arorong]\nHmph, what a dull Adventurer.",
-        "pt-BR": "[Arorong]\nHmpf, que aventureiro sem graça.",
-        "es-ES": "[Arorong]\nHmph, qué aventurero tan soso."
+        "pt-BR": "[Arorong]\nHmpf, que sem graça.",
+        "es-ES": "[Arorong]\nUy, qué chiste."
     },
     "quwHDg": {
         "en-US": "[Arorong]\nOh my, form a party first and come back.\nIt doesn't matter whether you're alone or with others, but you need to be in a party.",
-        "pt-BR": "[Arorong]\nOra, primeiro forme um grupo e volte.\nPode estar sozinho ou acompanhado, mas precisa formar um grupo.",
-        "es-ES": "[Arorong]\nVaya, primero forma un grupo y vuelve.\nNo importa si estás solo o con otros, pero debes formar un grupo antes de venir."
+        "pt-BR": "[Arorong]\nOra, primeiro forme um grupo e volte.\nPode ter só você no grupo, mas ele precisa estar formado.",
+        "es-ES": "[Arorong]\nPrimero forma un grupo y vuelve.\nNo importa si no hay nadie más en tu grupo, pero debes de formarlo."
     },
     "q+wHDg": {
         "en-US": "[Arorong]\nHuh? What's going on?",

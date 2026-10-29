@@ -327,6 +327,24 @@ mapTbl_string = {
 			mainTitle = "Espacio infinito"
 		}
 	},
+	["1@iwp.rsw"] = {
+		displayName = "Colina de Escamas Congeladas",
+		signName = {
+			mainTitle = "Colina Congelada"
+		}
+	},
+	["1@jorchs.rsw"] = {
+		displayName = "Nido de la Serpiente Caótico",
+		signName = {
+			mainTitle = "Nido de la Serpiente Caótico"
+		}
+	},
+	["1@jorlab.rsw"] = {
+		displayName = "Laboratorio de Bagot",
+		signName = {
+			mainTitle = "Laboratorio de Bagot"
+		}
+	},
 	["1@jtb.rsw"] = {
 		displayName = "Sueños y sombras",
 		signName = {

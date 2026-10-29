@@ -2,7 +2,7 @@
     "gC0XDg": {
         "en-US": "Boss Points 3,000",
         "pt-BR": "Pontos de Chefe: 3 mil",
-        "es-ES": "Puntos del Jefe: 3 mil"
+        "es-ES": "Puntos de Jefe: 3 mil"
     },
     "gS0XDg": {
         "en-US": "Hunting Quest",
@@ -32,7 +32,7 @@
     "hi0XDg": {
         "en-US": "Boss Reset",
         "pt-BR": "Reiniciar chefe",
-        "es-ES": "Reiniciar jefe"
+        "es-ES": "Reiniciar Hefe"
     },
     "hy0XDg": {
         "en-US": "Change Difficulty",
@@ -67,7 +67,7 @@
     "jS0XDg": {
         "en-US": "Press this switch when the core switches to ranged mode and becomes uncontrollable.",
         "pt-BR": "Quando o núcleo mudar para o modo de longo alcance e ficar fora de controle, pressione aqui.",
-        "es-ES": "Cuando el núcleo cambie al modo de largo alcance y quede fuera de control, presione aquí."
+        "es-ES": "Cuando el núcleo cambie al modo de largo alcance y quede fuera de control, presiona aquí."
     },
     "ji0XDg": {
         "en-US": "#g_{0}",
@@ -97,12 +97,12 @@
     "ky0XDg": {
         "en-US": "[Aquila]\nYou are an entity without access authorization. Please leave.",
         "pt-BR": "[Aquila]\nVocê é uma entidade sem autorização de acesso. Volte.",
-        "es-ES": "[Aquila]\nEs una entidad sin autorización de acceso. Retírese."
+        "es-ES": "[Aquila]\nEres una entidad sin autorización de acceso. Retírate."
     },
     "lC0XDg": {
         "en-US": "[Aquila]\nIt is not too late. If you stop the destruction and leave now, I will take no further action either.",
         "pt-BR": "[Aquila]\nAinda não é tarde demais. Se parar a destruição e voltar, eu também não tomarei nenhuma outra medida.",
-        "es-ES": "[Aquila]\nAún no es demasiado tarde. Si detiene la destrucción y se retira, yo tampoco tomaré medidas adicionales."
+        "es-ES": "[Aquila]\nAún no es demasiado tarde. Si detienes la destrucción y te retiras, no tomaré medidas adicionales."
     },
     "lS0XDg": {
         "en-US": "I'll just leave.",
@@ -117,17 +117,17 @@
     "ly0XDg": {
         "en-US": "[Aquila]\nYou made the right choice.",
         "pt-BR": "[Aquila]\nFez uma boa escolha.",
-        "es-ES": "[Aquila]\nHa tomado una buena decisión."
+        "es-ES": "[Aquila]\nHas tomado una buena decisión."
     },
     "mC0XDg": {
         "en-US": "Suspicious Storage Stone",
         "pt-BR": "Pedra de armazenamento suspeita",
-        "es-ES": "Piedra de almacenamiento sospechosa"
+        "es-ES": "Piedra de almacenamiento sospechosa."
     },
     "mS0XDg": {
         "en-US": "Highly Suspicious Storage Stone",
         "pt-BR": "Pedra de armazenamento muito suspeita",
-        "es-ES": "Piedra de almacenamiento muy sospechosa"
+        "es-ES": "Piedra de almacenamiento muy sospechosa."
     },
     "mi0XDg": {
         "en-US": "stat {0} {1} {2} {3}",
@@ -137,7 +137,7 @@
     "my0XDg": {
         "en-US": "Green Aether charging complete. Until fully stabilized, the core's Def will be disabled for 5 seconds. Handle the core with caution.",
         "pt-BR": "Recarga de éter verde concluída. Até que esteja completamente estabilizado, a DEF do núcleo desaparecerá por 5 segundos. Tenha cuidado ao manusear o núcleo.",
-        "es-ES": "Carga de éter verde completada. Durante 5 segundos, hasta que se estabilice por completo, la DEF del núcleo desaparecerá. Tenga cuidado al manipular el núcleo."
+        "es-ES": "Carga de éter verde completada. Durante 5 segundos, hasta que se estabilice por completo, la DEF del núcleo desaparecerá. Ten cuidado al manipular el núcleo."
     },
     "nC0XDg": {
         "en-US": "Green Aether is insufficient due to prolonged operation. Defense Mode will be activated until Aether is supplied.",
@@ -152,17 +152,17 @@
     "ni0XDg": {
         "en-US": "The core's Yellow Aether has been depleted due to prolonged operation. Recharge it immediately. The core will switch to Overload Mode due to Aether depletion.",
         "pt-BR": "O éter amarelo do núcleo se esgotou devido ao funcionamento prolongado. Recarregue-o imediatamente. Devido ao esgotamento do éter, o núcleo entrará no modo de sobrecarga.",
-        "es-ES": "El éter amarillo del núcleo se agotó debido al funcionamiento prolongado. Recárguelo de inmediato. Debido al agotamiento del éter, el núcleo cambiará al modo de sobrecarga."
+        "es-ES": "El éter amarillo del núcleo se agotó debido al funcionamiento prolongado. Recárgalo de inmediato. Debido al agotamiento del éter, el núcleo cambiará al modo de sobrecarga."
     },
     "ny0XDg": {
         "en-US": "Automatic protection process activated. Brace for impact.",
         "pt-BR": "Processo de proteção automática ativado. Prepare-se para o impacto.",
-        "es-ES": "Proceso de protección automática activado. Prepárese para el impacto."
+        "es-ES": "Proceso de protección automática activado. Prepárate para el impacto."
     },
     "oC0XDg": {
         "en-US": "{0} seconds until the next Max Pain",
         "pt-BR": "Até a próxima Dor Máxima: {0} segundos",
-        "es-ES": "Faltan {0} segundos para la próxima Dolor Máxima"
+        "es-ES": "Faltan {0} segundos para la próxima Dolor Máxima."
     },
     "oS0XDg": {
         "en-US": "HP {0}10K/{1}10K .heal - {2}10K, hp_point - {3}% additional heal {4}",
@@ -172,11 +172,11 @@
     "oi0XDg": {
         "en-US": "Ranged Mode",
         "pt-BR": "Modo de longo alcance",
-        "es-ES": "Modo de largo alcance"
+        "es-ES": "Modo de largo alcance."
     },
     "oy0XDg": {
         "en-US": "Melee Mode",
         "pt-BR": "Modo de curto alcance",
-        "es-ES": "Modo de corto alcance"
+        "es-ES": "Modo de corto alcance."
     }
 }

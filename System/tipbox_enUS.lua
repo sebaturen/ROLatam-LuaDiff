@@ -8507,9 +8507,10 @@ tbl_string = {
 				[4] = "",
 				[5] = "<TIPBOX>»Ep19 Snow Flower Armor Series<INFO>4258</INFO></TIPBOX>",
 				[6] = "<TIPBOX>»Ep19 Glacier Weapon Series<INFO>4259</INFO></TIPBOX>",
-				[7] = "",
-				[8] = "<TIPBOX>»View Episodes<INFO>4101</INFO></TIPBOX>",
-				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+				[7] = "<TIPBOX>»Ep19 Dim Glacier Weapons<INFO>4365</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»View Episodes<INFO>4101</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	},
@@ -9285,6 +9286,253 @@ tbl_string = {
 				[13] = "<TIPBOX>»Episode 18 Issgard, Land of Snow Flowers<INFO>4257</INFO></TIPBOX>",
 				[14] = "<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>",
 				[15] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4365] = {
+		Title = "Ep19 Dim Glacier Weapons",
+		Page = {
+			[1] = {
+				[1] = "Weapons obtainable from the Warmth of the Serpent God and Abandoned Pit dungeons, as well as the Bagot's Laboratory and Airship Destruction MDs.",
+				[2] = "<TIPBOX>»MD 19 Simulation Juncea<INFO>4297</INFO></TIPBOX>",
+				[3] = "<TIPBOX>»MD 19 Airship Destruction<INFO>4298</INFO></TIPBOX>",
+				[4] = "",
+				[5] = "^663399§Related NPCs^000000",
+				[6] = "»<NAVI>[Poruru]<INFO>icas_in,188,60,0,101,0</INFO></NAVI>",
+				[7] = "»<NAVI>[Incinerator]<INFO>icas_in,191,57,0,101,0</INFO></NAVI>",
+				[8] = "",
+				[9] = "^663399§Dim Glacier Weapon List^000000",
+				[10] = "<ITEM>[Dim Glacier Sword]<INFO>500054</INFO></ITEM>",
+				[11] = "<ITEM>[Dim Glacier Basic Sword]<INFO>500055</INFO></ITEM>",
+				[12] = "<ITEM>[Dim Glacier Rogue Knife]<INFO>510075</INFO></ITEM>",
+				[13] = "<ITEM>[Dim Glacier Basic Knife]<INFO>510076</INFO></ITEM>",
+				[14] = "<ITEM>[Dim Glacier Axe]<INFO>520021</INFO></ITEM>",
+				[15] = "<ITEM>[Dim Glacier Spear]<INFO>530034</INFO></ITEM>",
+				[16] = "<ITEM>[Dim Glacier Book]<INFO>540056</INFO></ITEM>",
+				[17] = "<ITEM>[Dim Glacier Wand]<INFO>550089</INFO></ITEM>",
+				[18] = "<ITEM>[Dim Glacier Foxtail]<INFO>550090</INFO></ITEM>",
+				[19] = "<ITEM>[Dim Glacier Knuckle]<INFO>560037</INFO></ITEM>",
+				[20] = "<ITEM>[Dim Glacier Violin]<INFO>570032</INFO></ITEM>",
+				[21] = "<ITEM>[Dim Glacier Whip]<INFO>580033</INFO></ITEM>",
+				[22] = "<ITEM>[Dim Glacier Mace]<INFO>590047</INFO></ITEM>",
+				[23] = "<ITEM>[Dim Glacier Mechanic Mace]<INFO>590048</INFO></ITEM>",
+				[24] = "<ITEM>[Dim Glacier Two-handed Sword]<INFO>600030</INFO></ITEM>",
+				[25] = "<ITEM>[Dim Glacier Katar]<INFO>610041</INFO></ITEM>",
+				[26] = "<ITEM>[Dim Glacier Mechanic Axe]<INFO>620019</INFO></ITEM>",
+				[27] = "<ITEM>[Dim Glacier Staff]<INFO>640034</INFO></ITEM>",
+				[28] = "<ITEM>[Dim Glacier Huuma Shuriken]<INFO>650028</INFO></ITEM>",
+				[29] = "<ITEM>[Dim Glacier Bow]<INFO>700059</INFO></ITEM>",
+				[30] = "<ITEM>[Dim Glacier Revolver]<INFO>800015</INFO></ITEM>",
+				[31] = "<ITEM>[Dim Glacier Rifle]<INFO>810015</INFO></ITEM>",
+				[32] = "<ITEM>[Dim Glacier Shotgun]<INFO>820011</INFO></ITEM>",
+				[33] = "<ITEM>[Dim Glacier Gatling Gun]<INFO>830015</INFO></ITEM>",
+				[34] = "<ITEM>[Dim Glacier Launcher]<INFO>840010</INFO></ITEM>",
+				[35] = "",
+				[36] = "<TIPBOX>»Episode 19<INFO>4256</INFO></TIPBOX>",
+				[37] = "<TIPBOX>»Episode Rewards<INFO>4107</INFO></TIPBOX>",
+				[38] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6016] = {
+		Title = "Episode 13.2 Encounter with the Unknown#Unknown#Encounter#13.2#",
+		Page = {
+			[1] = {
+				[1] = "Episode 13.2",
+				[2] = "Encounter with the Unknown",
+				[3] = "",
+				[4] = ">Encounter with the Unknown Main Quests",
+				[5] = "<TIPBOX>Q Translator (95)<INFO>6018</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Encounter with the Unknown General Quests",
+				[8] = "<TIPBOX>Q Nidhogg, Guardian of Yggdrasil - Seeking the Truth (95)<INFO>6019</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Messenger (95)<INFO>6020</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Proof of Valor (95)<INFO>6021</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Wanted - Eliminate the Remnants (95)<INFO>6022</INFO></TIPBOX>",
+				[12] = "",
+				[13] = ">Encounter with the Unknown Repeatable Quests",
+				[14] = "<TIPBOX>Q Mysterious Ore - Refined Bradium (95)<INFO>6023</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Craftsmanship - Yai's Decoration Materials (95)<INFO>6024</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q For a Cute Pet - Collect Draco Eggs (95)<INFO>6025</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Working Hard Every Day (95)<INFO>6026</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Continuing Research (95)<INFO>6027</INFO></TIPBOX>",
+				[19] = "",
+				[20] = "<TIPBOX>>View Episode 13<INFO>4102</INFO></TIPBOX>",
+				[21] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6028] = {
+		Title = "Episode 13.3 El Dicastes#Dicastes#El#13.3#",
+		Page = {
+			[1] = {
+				[1] = "Episode 13.3",
+				[2] = "El Dicastes",
+				[3] = "",
+				[4] = ">El Dicastes Main Quests",
+				[5] = "<TIPBOX>Q Sapha's Invitation (95)<INFO>6029</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">El Dicastes General Quests",
+				[8] = "<TIPBOX>Q Doha's Secret Order (95)<INFO>6081</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Contract with a Cat Hand Agent (95)<INFO>6030</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Fred's Request (95)<INFO>6031</INFO></TIPBOX>",
+				[11] = "",
+				[12] = ">El Dicastes Repeatable Quests",
+				[13] = "<TIPBOX>Q Ancient Relic Documents (95)<INFO>6034</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Hunting Division 1 Request (95)<INFO>6035</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Hunting Division 2 Request (95)<INFO>6036</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Supply Division 1 Request (95)<INFO>6037</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Supply Division 2 Request (95)<INFO>6038</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Transport Division 1 Request (95)<INFO>6039</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Transport Division 2 Request (95)<INFO>6040</INFO></TIPBOX>",
+				[20] = "",
+				[21] = ">Kamidal Tunnel",
+				[22] = "<TIPBOX>Purchase Scaraba Perfume<INFO>6032</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Enter Scaraba Hall Nightmare<INFO>6033</INFO></TIPBOX>",
+				[24] = "",
+				[25] = "<TIPBOX>>View Episode 13<INFO>4102</INFO></TIPBOX>",
+				[26] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6041] = {
+		Title = "Episode 14.1 Bifrost#Bifrost#14.1#",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.1",
+				[2] = "Bifrost",
+				[3] = "",
+				[4] = ">Bifrost Main Quests",
+				[5] = "<TIPBOX>Q Wandering Guardian (100)<INFO>6043</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Bifrost General Quests",
+				[8] = "<TIPBOX>Q Theore's Report (100)<INFO>6044</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Cheshire's New Job (100)<INFO>6045</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Mora Village Bathhouse Research (100)<INFO>6046</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q Lope and Euridi (100)<INFO>6047</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Local Knights - The Commander's Errand (100)<INFO>6048</INFO></TIPBOX>",
+				[13] = "",
+				[14] = ">Bifrost Repeatable Quests",
+				[15] = "<TIPBOX>Q Local Knights - The Boss's Errand<INFO>6049</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Mora Village General Merchant's Request (100)<INFO>6051</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q Mora Village Necessities Merchant's Request (100)<INFO>6052</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q Recovering Remains (100)<INFO>6053</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Mora Village Patrol's Request (100)<INFO>6050</INFO></TIPBOX>",
+				[20] = "",
+				[21] = ">Bifrost Other",
+				[22] = "<TIPBOX>MD Misty Forest Maze<INFO>6042</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Art with Kalgari<INFO>6054</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Crafting the Guardian's Pendant<INFO>6055</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Premium Repair of Loki's Muffler<INFO>6056</INFO></TIPBOX>",
+				[26] = "",
+				[27] = "<TIPBOX>>View Episode 14<INFO>4103</INFO></TIPBOX>",
+				[28] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6057] = {
+		Title = "Episode 14.2 Eclage#Eclage#14.2#",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.2",
+				[2] = "Eclage",
+				[3] = "",
+				[4] = ">Eclage Main Quests",
+				[5] = "<TIPBOX>Q Gate of Eclage<INFO>6058</INFO></TIPBOX>",
+				[6] = "<TIPBOX>Q Goliath (120)<INFO>6059</INFO></TIPBOX>",
+				[7] = "<TIPBOX>Q Dreaming Time (120)<INFO>6060</INFO></TIPBOX>",
+				[8] = "<TIPBOX>Q Meeting in a Strange Land (120)<INFO>6061</INFO></TIPBOX>",
+				[9] = "<TIPBOX>Q Rumors About the King (120)<INFO>6062</INFO></TIPBOX>",
+				[10] = "<TIPBOX>Q Brothers and the Magic Scholar (120)<INFO>6063</INFO></TIPBOX>",
+				[11] = "<TIPBOX>Q The Missing Orb (120)<INFO>6064</INFO></TIPBOX>",
+				[12] = "",
+				[13] = ">Eclage General Quests",
+				[14] = "<TIPBOX>Q Light and Darkness (120)<INFO>6065</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Mysterious Theft Case (120)<INFO>6066</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Laphine Fili (120)<INFO>6067</INFO></TIPBOX>",
+				[17] = "<TIPBOX>Q The Mischief-Makers of Eclage (120)<INFO>6068</INFO></TIPBOX>",
+				[18] = "<TIPBOX>Q I Wanted to Become Big and Beautiful (120)<INFO>6069</INFO></TIPBOX>",
+				[19] = "<TIPBOX>Q Finding «T:Scholar» Worm's Memories (120)<INFO>6070</INFO></TIPBOX>",
+				[20] = "",
+				[21] = ">Eclage Repeatable Quests",
+				[22] = "<TIPBOX>Q Wild and Rugged Yai (120)<INFO>6071</INFO></TIPBOX>",
+				[23] = "<TIPBOX>Q Courier Running Through Space (120)<INFO>6072</INFO></TIPBOX>",
+				[24] = "<TIPBOX>Q Troublemaker of the Flowering Land (120)<INFO>6073</INFO></TIPBOX>",
+				[25] = "<TIPBOX>Q Laphine Who Loves the Earth (120)<INFO>6074</INFO></TIPBOX>",
+				[26] = "<TIPBOX>Q Checking on the Adventurers (120)<INFO>6075</INFO></TIPBOX>",
+				[27] = "<TIPBOX>Q Procuring Food (120)<INFO>6076</INFO></TIPBOX>",
+				[28] = "<TIPBOX>Q Removing Dust (120)<INFO>6077</INFO></TIPBOX>",
+				[29] = "<TIPBOX>Q Collecting Souvenirs (120)<INFO>6078</INFO></TIPBOX>",
+				[30] = "",
+				[31] = ">Eclage Other",
+				[32] = "<TIPBOX>Activate Glove Socket<INFO>6079</INFO></TIPBOX>",
+				[33] = "<TIPBOX>Craft Costume Headgear<INFO>6080</INFO></TIPBOX>",
+				[34] = "",
+				[35] = "<TIPBOX>>View Episode 14<INFO>4103</INFO></TIPBOX>",
+				[36] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6082] = {
+		Title = "Episode 14.3 Decisive Battle#Decisive Battle#14.3#",
+		Page = {
+			[1] = {
+				[1] = "Episode 14.3",
+				[2] = "Decisive Battle",
+				[3] = "",
+				[4] = ">Decisive Battle Main Quests",
+				[5] = "<TIPBOX>Q Burning Land (140)<INFO>6083</INFO></TIPBOX>",
+				[6] = "",
+				[7] = ">Decisive Battle General Quests",
+				[8] = "<TIPBOX>Q Doom Prayers (150)<INFO>6093</INFO></TIPBOX>",
+				[9] = "",
+				[10] = ">Decisive Battle Repeatable Quests",
+				[11] = "<TIPBOX>Q Blocking the Threat (140)<INFO>6087</INFO></TIPBOX>",
+				[12] = "<TIPBOX>Q Recovering Magic (140)<INFO>6088</INFO></TIPBOX>",
+				[13] = "<TIPBOX>Q Rampaging Box (140)<INFO>6089</INFO></TIPBOX>",
+				[14] = "<TIPBOX>Q Demon God Subjugation (160)<INFO>6084</INFO></TIPBOX>",
+				[15] = "<TIPBOX>Q Magic of the Wandering Orb (160)<INFO>6085</INFO></TIPBOX>",
+				[16] = "<TIPBOX>Q Frost Spider and Flame Wolf (160)<INFO>6086</INFO></TIPBOX>",
+				[17] = "",
+				[18] = ">Decisive Battle Other",
+				[19] = "<TIPBOX>MD Morse's Cave<INFO>6090</INFO></TIPBOX>",
+				[20] = "<TIPBOX>MD Temple of the Demon God<INFO>6091</INFO></TIPBOX>",
+				[21] = "<TIPBOX>MD Bios Island<INFO>6092</INFO></TIPBOX>",
+				[22] = "<TIPBOX>Hero's Ring Enchantment<INFO>6094</INFO></TIPBOX>",
+				[23] = "",
+				[24] = "<TIPBOX>>View Episode 14<INFO>4103</INFO></TIPBOX>",
+				[25] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6090] = {
+		Title = "MD Morse's Cave#Decisive Battle#14.3#",
+		Page = {
+			[1] = {
+				[1] = "According to my information, Morroc is hiding and attempting to recover his strength. You seem to be tracking Morroc's movements, so how about becoming a hero who brings peace to the world?",
+				[2] = "<NAVI>[Senior Tracker]<INFO>moro_cav,61,69,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "> Quest Requirements",
+				[5] = "^663399§«T:Base Lv» 160^000000",
+				[6] = "<TIPBOX>Q Translator (70)<INFO>6018</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>>View Decisive Battle Quests<INFO>6082</INFO></TIPBOX>",
+				[9] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6092] = {
+		Title = "MD Bios Island#Decisive Battle#14.3#",
+		Page = {
+			[1] = {
+				[1] = "This place... It's the place I saw in that dream. The very place where Demon God Morroc was resurrected! If the dream I had was right, there's no doubt that Demon God Morroc's forces are inside that yellow seed!",
+				[2] = "<NAVI>[Wandering Old Man]<INFO>moro_cav,45,60,0,101,0</INFO></NAVI>",
+				[3] = "",
+				[4] = "> Quest Requirements",
+				[5] = "^663399§«T:Base Lv» 160^000000",
+				[6] = "",
+				[7] = "<TIPBOX>>View Decisive Battle Quests<INFO>6082</INFO></TIPBOX>",
+				[8] = "<TIPBOX>>View Tips List<INFO>1000</INFO></TIPBOX>"
 			}
 		}
 	}

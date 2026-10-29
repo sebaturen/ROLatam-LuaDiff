@@ -6399,5 +6399,266 @@ ReformInfo_string = {
 			"3) Card and enchant : Maintained",
 			"4) Grade : Maintained"
 		}
+	},
+	[962] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[963] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[964] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[716] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[717] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[718] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[719] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[720] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[721] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[722] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[723] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[724] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[725] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[726] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[727] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[728] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[729] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[730] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[731] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[732] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[733] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[734] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[735] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[736] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[737] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[738] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[739] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[740] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[741] = {
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
 	}
 }

@@ -10792,6 +10792,487 @@ ReformInfo_data = {
 		RandomOptionCode = "",
 		PreserveSocketItem = true,
 		PreserveGrade = true
+	},
+	[962] = {
+		BaseItem = "Glacier_Helm_1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Glacier_Helm_1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[963] = {
+		BaseItem = "Glacier_Helm_2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Glacier_Helm_2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[964] = {
+		BaseItem = "Glacier_Helm_3",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Glacier_Helm_3",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[716] = {
+		BaseItem = "D_Glacier_T_Sword",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[717] = {
+		BaseItem = "D_Glacier_Katar",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[718] = {
+		BaseItem = "D_Glacier_T_Axe",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_T_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[719] = {
+		BaseItem = "D_Glacier_Lance",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[720] = {
+		BaseItem = "D_Glacier_Staff",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[721] = {
+		BaseItem = "D_Glacier_Humma",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[722] = {
+		BaseItem = "D_Glacier_Bow",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[723] = {
+		BaseItem = "D_Glacier_Revolver",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Revolver",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[724] = {
+		BaseItem = "D_Glacier_Rifle",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Rifle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[725] = {
+		BaseItem = "D_Glacier_Shotgun",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[726] = {
+		BaseItem = "D_Glacier_Gatling",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Gatling",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[727] = {
+		BaseItem = "D_Glacier_Launcher",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Launcher",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[728] = {
+		BaseItem = "D_Glacier_Sword",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[729] = {
+		BaseItem = "D_Glacier_B_Sword",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_B_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[730] = {
+		BaseItem = "D_Glacier_R_Knife",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_R_Knife",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[731] = {
+		BaseItem = "D_Glacier_B_Knife",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_B_Knife",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[732] = {
+		BaseItem = "D_Glacier_Axe",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[733] = {
+		BaseItem = "D_Glacier_Spear",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[734] = {
+		BaseItem = "D_Glacier_Book",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[735] = {
+		BaseItem = "D_Glacier_Wand",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[736] = {
+		BaseItem = "D_Glacier_Foxtail",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Foxtail",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[737] = {
+		BaseItem = "D_Glacier_Knuckle",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[738] = {
+		BaseItem = "D_Glacier_Violin",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[739] = {
+		BaseItem = "D_Glacier_Whip",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Whip",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[740] = {
+		BaseItem = "D_Glacier_Mace",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
+	},
+	[741] = {
+		BaseItem = "D_Glacier_M_Mace",
+		Material = {
+			Ep19_Snow_Flower = 40,
+			EP19_D_P_Crystal = 10,
+			EP19_N_P_Crystal = 10
+		},
+		ResultItem = "D_Glacier_M_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true
 	}
 }
 ReformItemList = {
@@ -11610,6 +12091,39 @@ ReformItemList = {
 		873,
 		874,
 		875
+	},
+	EP19_DGW_Refine = {
+		716,
+		717,
+		718,
+		719,
+		720,
+		721,
+		722,
+		723,
+		724,
+		725,
+		726,
+		727,
+		728,
+		729,
+		730,
+		731,
+		732,
+		733,
+		734,
+		735,
+		736,
+		737,
+		738,
+		739,
+		740,
+		741
+	},
+	Isgard_Crown_Hammer = {
+		962,
+		963,
+		964
 	}
 }
 local function MergeTables(dest, src)

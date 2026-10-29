@@ -10,49 +10,49 @@
         "es-ES": "No hay necesidad de fingir ser un Rgan aquí."
     },
     "oi/6DQ": {
-        "en-US": "The Iwin unit that went in ahead has already cleared out the nearby Rgans.",
-        "pt-BR": "A unidade de Arwin, que entrou primeiro, já eliminou os Rgan dos arredores.",
-        "es-ES": "Por ahora, la unidad de Awin que entró primero ya se encargó de los Regan de los alrededores."
+        "en-US": "The Windcy unit that went in ahead has already cleared out the nearby Rgans.",
+        "pt-BR": "A unidade de Neventos, que entrou primeiro, já eliminou os Rgan dos arredores.",
+        "es-ES": "Por ahora, la unidad de Nevientos que entró primero ya se encargó de los Rgan de los alrededores."
     },
     "oy/6DQ": {
         "en-US": "Now we'll have to push farther in and clear them out as we go.",
         "pt-BR": "Agora precisamos avançar mais para dentro e eliminar os que restarem.",
-        "es-ES": "Ahora tendremos que seguir avanzando hacia el interior mientras despejamos la zona."
+        "es-ES": "Ahora tenemos que seguir avanzando hacia el interior mientras despejamos la zona."
     },
     "pC/6DQ": {
         "en-US": "The objective is to secure Raskgand and Bagot, as well as the Heart of Ymir.",
-        "pt-BR": "O objetivo é capturar Rasgand e Bagot, além de garantir o Coração de Ymir.",
-        "es-ES": "El objetivo es capturar a Rasgand y Bagot, y asegurar el Corazón de Ymir."
+        "pt-BR": "O objetivo é capturar Ragand e Bagot, além de garantir o Coração de Ymir.",
+        "es-ES": "El objetivo es capturar a Ragand y Bagot y asegurar el Corazón de Ymir."
     },
     "pS/6DQ": {
         "en-US": "We must rush in and cut off their escape route. Speed is crucial.",
         "pt-BR": "Precisamos entrar de uma vez e bloquear a rota de fuga. A velocidade será crucial.",
-        "es-ES": "Debemos entrar de una sola vez y bloquearles la retirada. La velocidad será clave."
+        "es-ES": "Debemos entrar fuerte y de una sola vez para bloquearles las vías de escape. Nuestra velocidad será clave."
     },
     "pi/6DQ": {
         "en-US": "They say there's only one entrance, but there may be another one we don't know about, so we'll have to search thoroughly.",
         "pt-BR": "Dizem que há apenas uma entrada, mas pode haver alguma que desconhecemos, então teremos que vasculhar tudo cuidadosamente.",
-        "es-ES": "Dicen que solo hay una entrada, pero podría haber alguna que desconocemos, así que tendremos que revisar cada rincón."
+        "es-ES": "Dicen que solo hay una entrada, pero podría haber alguna que desconocemos, así que hace falta revisar cada rincón."
     },
     "py/6DQ": {
         "en-US": "If we want to find traces of them, we'll have to clear out the Rgans first.",
         "pt-BR": "Para encontrar o rastro deles, primeiro teremos que eliminar os Rgan.",
-        "es-ES": "Para encontrar su rastro, primero tendremos que eliminar a los Rgan."
+        "es-ES": "Para encontrar el rastro, primero tendremos que eliminar a los Rgan."
     },
     "qC/6DQ": {
         "en-US": "According to the unit that went in ahead, they're different from ordinary Rgans, so we'll need to be fully prepared.",
         "pt-BR": "Segundo a unidade que entrou primeiro, eles são diferentes dos Rgan comuns, então teremos que nos preparar bem.",
-        "es-ES": "Según la unidad que entró primero, son distintos de los Rgan comunes, así que tendremos que prepararnos bien."
+        "es-ES": "Según la unidad que entró primero, son distintos de los Rgan comunes, ¡así que tenemos que estar preparados!"
     },
     "qS/6DQ": {
         "en-US": "Be careful. These Rgans are skilled in sorcery that uses magical power.",
         "pt-BR": "Cuidado, nossos adversários são Rgan habilidosos em feitiços que usam poder mágico.",
-        "es-ES": "Tengan cuidado, son Rgan expertos en hechicería que utiliza poder mágico."
+        "es-ES": "Tengan cuidado, son Rgan expertos en hechicería que utilizan poder mágico."
     },
     "qi/6DQ": {
         "en-US": "Good luck, everyone!",
         "pt-BR": "Desejo boa sorte a todos!",
-        "es-ES": "¡Les deseo buena suerte a todos!"
+        "es-ES": "¡Buena suerte para todos!"
     },
     "qy/6DQ": {
         "en-US": "Leon",
@@ -75,9 +75,9 @@
         "es-ES": "Horuru"
     },
     "ry/6DQ": {
-        "en-US": "Iwin",
-        "pt-BR": "Arwin",
-        "es-ES": "Awin"
+        "en-US": "Windcy",
+        "pt-BR": "Nevento",
+        "es-ES": "Neviento"
     },
     "sC/6DQ": {
         "en-US": "Crushed Rgan",
@@ -102,7 +102,7 @@
     "tC/6DQ": {
         "en-US": "Wait, everyone, come here. We need to sort out the situation.",
         "pt-BR": "Esperem, todos venham aqui. Precisamos organizar a situação.",
-        "es-ES": "Un momento, todos vengan aquí. Tenemos que ordenar un poco la situación."
+        "es-ES": "Un momento, vengan todos aquí. Tenemos que ordenar un poco la situación."
     },
     "tS/6DQ": {
         "en-US": "Someone... help...",
@@ -121,12 +121,12 @@
     },
     "uC/6DQ": {
         "en-US": "That's... a human??? Is this all your doing?? What did you do to me?!",
-        "pt-BR": "Aquilo é... um humano??? Foi você que fez tudo isso?? O que fez comigo?!",
-        "es-ES": "Eso es... ¿un humano??? ¿Todo esto es obra tuya?? ¡¿Qué me hiciste?!"
+        "pt-BR": "Aquilo é... um humano??? Foi você que fez tudo isso? O que fez comigo?!",
+        "es-ES": "Eso es... ¿Un humano? ¿Tú hiciste todo esto? ¡¿Qué me hiciste?!"
     },
     "uS/6DQ": {
         "en-US": "You filthy human! Hurry and turn me back...! Ah...!!",
-        "pt-BR": "Seu humano imundo! Trate de me devolver ao normal...! Ah...!!",
+        "pt-BR": "Seu humano imundo! Trate de me devolver ao normal...! Ah...!",
         "es-ES": "¡Humano asqueroso! ¡Devuélveme a la normalidad de una vez...! ¡Ah...!!"
     },
     "ui/6DQ": {
@@ -142,42 +142,42 @@
     "vC/6DQ": {
         "en-US": "I-I'm not going to end up like that too... right?",
         "pt-BR": "E-eu também não vou acabar daquele jeito... vou?",
-        "es-ES": "Y-yo no terminaré así también... ¿verdad?"
+        "es-ES": "Eh... Yo no terminaré así también... ¿no?"
     },
     "vS/6DQ": {
         "en-US": "I lived a good life, so what in the world did those humans do to me...",
         "pt-BR": "Eu sempre vivi direito, então o que aqueles humanos fizeram comigo...",
-        "es-ES": "Yo llevaba una buena vida, ¿qué demonios me hicieron esos humanos...?"
+        "es-ES": "Yo estaba tranquilo haciendo mi vida, ¿qué demonios me hicieron esos humanos?"
     },
     "vi/6DQ": {
         "en-US": "Ah... so cold....",
-        "pt-BR": "Ah... que frio....",
-        "es-ES": "Ah... qué frío...."
+        "pt-BR": "Ah... que frio...",
+        "es-ES": "Oh... qué frío..."
     },
     "vy/6DQ": {
         "en-US": "..?! Human? Human?? The human who did this to me???",
-        "pt-BR": "..?! Humano? Humano?? O humano que me deixou assim???",
-        "es-ES": "..?! ¿Humano? ¿Humano?? ¿El humano que me dejó así???"
+        "pt-BR": "...?! Humano? Humano? O humano que me deixou assim???",
+        "es-ES": "¿Humano? ¿Humano?? ¿El humano que me hizo esto?"
     },
     "wC/6DQ": {
         "en-US": "What kind of Rgan is that?! I've never seen a Rgan like this in my life!",
-        "pt-BR": "Mas que tipo de Rgan é esse!! Nunca vi um Rgan assim em toda a minha vida!",
+        "pt-BR": "Mas que tipo de Rgan é esse! Nunca vi um Rgan assim em toda a minha vida!",
         "es-ES": "¡¿Qué clase de Rgan es ese?! ¡Es la primera vez en mi vida que veo un Rgan así!"
     },
     "wS/6DQ": {
         "en-US": "They seem to be mid-ranking Rgans, but I can't be sure because their forms are unrecognizable.",
         "pt-BR": "Parecem Rgan intermediários, mas não consigo ter certeza porque é impossível distinguir a forma deles.",
-        "es-ES": "Parecen Rgan de nivel intermedio, pero no puedo asegurarlo porque no se distingue su forma."
+        "es-ES": "Parecen Rgan Intermedios, pero no lo puedo asegurar porque es imposible distinguir su forma."
     },
     "wi/6DQ": {
         "en-US": "Why does Intermediate Rgan look like this? Isn't it an ultra-high-ranking Rgan?",
-        "pt-BR": "Por que o Regan Intermediário está assim? Não é um Rgan de nível supremo?",
-        "es-ES": "¿Por qué un Regan intermedio se ve así? ¿No será un Rgan de nivel superultraalto?"
+        "pt-BR": "Por que o Rgan Intermediário está assim? Não é um Rgan de nível supremo?",
+        "es-ES": "¿Por qué un Rgan Intermedio se ve así? ¿No será un Rgan de nivel superior?"
     },
     "wy/6DQ": {
         "en-US": "Modification was what the Illusions mainly did, so I think it may be related to that.",
-        "pt-BR": "Como os Illusion trabalhavam principalmente com modificações, acho que isso tem alguma relação.",
-        "es-ES": "Como los Illusion se dedicaban principalmente a las modificaciones, creo que podría estar relacionado con eso."
+        "pt-BR": "Como os Illusión trabalhavam principalmente com modificações, acho que isso tem alguma relação.",
+        "es-ES": "Como Ilusión se dedicaba principalmente a las modificaciones, creo que podría tener algo que ver con eso."
     },
     "xC/6DQ": {
         "en-US": "Isn't modification supposed to make something better? No matter how I look at that...",
@@ -192,22 +192,22 @@
     "xi/6DQ": {
         "en-US": "Something's not right, so let's head farther in for now.",
         "pt-BR": "Isso não parece nada normal. Vamos avançar mais um pouco.",
-        "es-ES": "Esto no pinta bien, así que avancemos un poco más."
+        "es-ES": "Esto no pinta bien, avancemos un poco más."
     },
     "xy/6DQ": {
         "en-US": "This place is complicated, so it would be best to split up and search.",
         "pt-BR": "Este lugar é complexo, então será melhor nos separarmos para procurar.",
-        "es-ES": "Este lugar es complicado, así que será mejor separarnos para buscar."
+        "es-ES": "Este lugar es complicado, será mejor separarnos para buscar."
     },
     "yC/6DQ": {
         "en-US": "The Rgan that Raskgand supposedly gathered is most likely at Raskgand's residence.",
-        "pt-BR": "Os Rgan que Rasgand reuniu provavelmente estão na residência dele.",
-        "es-ES": "Es muy probable que los Rgan que reunió Rasgand estén en la residencia de Rasgand."
+        "pt-BR": "Os Rgan que Ragand reuniu provavelmente estão na residência dele.",
+        "es-ES": "Es muy probable que los Rgan que reunió Ragand estén en su residencia."
     },
     "yS/6DQ": {
         "en-US": "Bagot was also researching something, so we should check the Illusion residence or laboratory as well.",
-        "pt-BR": "Bagot também estava pesquisando alguma coisa, então devemos verificar a residência ou o laboratório dos Illusion.",
-        "es-ES": "Bagot también estaba investigando algo, así que tendremos que revisar la residencia o el laboratorio de los Illusion."
+        "pt-BR": "Bagot também estava pesquisando alguma coisa, então devemos verificar a residência ou o laboratório dos Illusión.",
+        "es-ES": "Bagot también estaba investigando algo, así que tendremos que revisar la residencia y el laboratorio."
     },
     "yi/6DQ": {
         "en-US": "Of course it's all the way in the back.",
@@ -222,7 +222,7 @@
     "zC/6DQ": {
         "en-US": "No search party has been dispatched beyond this point yet.",
         "pt-BR": "Além daqui, a equipe de busca ainda não foi enviada.",
-        "es-ES": "Más allá de aquí todavía no se ha enviado ningún grupo de exploración."
+        "es-ES": "Ningún equipo exploró más allá de aquí."
     },
     "zS/6DQ": {
         "en-US": "We plan to gather information, regroup here, and then advance, so please focus on searching this area.",
@@ -247,7 +247,7 @@
     "0S/6DQ": {
         "en-US": "Aaah!!! What is this!!!",
         "pt-BR": "Aaah!!! O que é isso!!!",
-        "es-ES": "¡¡¡Aaah!!! ¡¡¡¿Qué es esto?!!!"
+        "es-ES": "¡Agh! ¡¿Qué es esto?!"
     },
     "0i/6DQ": {
         "en-US": "Is anyone there? Is there really no one?",
@@ -262,17 +262,17 @@
     "1C/6DQ": {
         "en-US": "Where did everyone go... They told me to guard the eggs, but I can't even leave like this...",
         "pt-BR": "Onde foi todo mundo... mandaram que eu protegesse os ovos, mas assim nem consigo sair daqui...",
-        "es-ES": "¿Adónde se fue todo el mundo...? Me dijeron que vigilara los huevos, pero así tampoco puedo salir..."
+        "es-ES": "¿Adónde se fue todo el mundo...? Me dijeron que vigilara los huevos, pero no puedo ni salir de aquí..."
     },
     "1S/6DQ": {
         "en-US": "A human? Humans aren't supposed to come here! Hurry and leave!",
         "pt-BR": "Humano? Humanos não podem vir aqui! Vá embora!",
-        "es-ES": "¿Un humano? ¡Los humanos no pueden venir aquí! ¡Vete ya!"
+        "es-ES": "¿Un humano? ¡Los humanos no pueden venir aquí! ¡Vete, sal!"
     },
     "1i/6DQ": {
         "en-US": "Ugh!! My body...! They said it was a supplement...? Wasn't it? Ngh...!!",
-        "pt-BR": "Ugh!! Meu corpo...! Disseram que era um suplemento...? Não era? Argh...!!",
-        "es-ES": "¡¡Uf!! ¡Mi cuerpo...! ¿No dijeron que era un suplemento...? ¿No lo era? ¡¡Ggh...!!"
+        "pt-BR": "Ugh! Meu corpo...! Disseram que era um suplemento...? Não era? Argh...!",
+        "es-ES": "¡¡Uf!! ¡Mi cuerpo...! ¿No dijeron que era un suplemento...? ¿No lo era? Agh..."
     },
     "1y/6DQ": {
         "en-US": "Immobilized Rgan",
@@ -282,22 +282,22 @@
     "2C/6DQ": {
         "en-US": "There are still Rgan left in the search area, so we'd better clear them out quickly.",
         "pt-BR": "Ainda há Rgan na área de busca, então é melhor eliminá-los rapidamente.",
-        "es-ES": "Todavía quedan Rgan en la zona de búsqueda, así que será mejor eliminarlos rápido."
+        "es-ES": "Todavía quedan Rgan en la zona de búsqueda, será mejor que los eliminemos rápido."
     },
     "2S/6DQ": {
         "en-US": "I need to get to the central area quickly, but how am I supposed to break through? I've been hearing strange noises for a while now, too...",
         "pt-BR": "Preciso chegar logo à área central, mas como vou passar por aqui? Já faz um tempo que estou ouvindo uns sons estranhos e inquietantes...",
-        "es-ES": "Tengo que llegar pronto al centro, pero ¿cómo voy a abrirme paso? Desde hace rato también se escuchan ruidos extraños que me ponen nervioso..."
+        "es-ES": "Tengo que llegar rápido al área central, pero, ¿cómo voy a abrirme paso? Desde hace rato que escucho unos ruidos extraños que me ponen nervioso..."
     },
     "2i/6DQ": {
         "en-US": "When am I going to transform? I need to transform before I can break through.",
         "pt-BR": "Quando é que vou me transformar? Só vou conseguir passar depois que a transformação acontecer.",
-        "es-ES": "¿Cuándo ocurrirá la transformación? Tengo que transformarme para poder abrirme paso."
+        "es-ES": "¿Cuándo me voy a transformar? Tengo que transformarme para poder abrirme paso."
     },
     "2y/6DQ": {
         "en-US": "Oh! Finally!!! A chance for me to become bishop-rank too...!!! Ngh!!!",
-        "pt-BR": "Oh! Finalmente!!! Minha chance de me tornar de nível Bispo...!!! Argh!!!",
-        "es-ES": "¡¡¡Ohhh! ¡¡¡Por fin!!! ¡¡¡Yo también tendré la oportunidad de alcanzar el rango de obispo...!!! ¡¡Ggh!!!"
+        "pt-BR": "Oh! Finalmente!!! Minha chance de alcançar o nível Bispo...!!! Argh!!!",
+        "es-ES": "¡Oh, por fin! ¡Yo también tendré la oportunidad de alcanzar el rango de Obispo...!!! ¡Uf!"
     },
     "3C/6DQ": {
         "en-US": "We can keep advancing like this!",
@@ -306,8 +306,8 @@
     },
     "3S/6DQ": {
         "en-US": "Wait!! There's a whole group of Rgans up ahead!",
-        "pt-BR": "Esperem!! Há um grande grupo de Rgan logo à frente!",
-        "es-ES": "¡¡Un momento!! ¡Hay un montón de Rgan adelante!"
+        "pt-BR": "Esperem! Há um grande grupo de Rgan logo à frente!",
+        "es-ES": "¡Alto! ¡Hay un montón de Rgan adelante!"
     },
     "3i/6DQ": {
         "en-US": "Then we'll just break through!",
@@ -317,27 +317,27 @@
     "3y/6DQ": {
         "en-US": "Ngh!!!",
         "pt-BR": "Argh!!!",
-        "es-ES": "¡¡Ggh!!!"
+        "es-ES": "¡¡Agh!!!"
     },
     "4C/6DQ": {
         "en-US": "This is no good! There are too many of them!!! How are we supposed to break through that?",
-        "pt-BR": "Não vai dar! São muitos demais!!! Como vamos atravessar isso?",
-        "es-ES": "¡No podremos! ¡¡¡Son demasiados!!! ¿Cómo vamos a abrirnos paso entre todos esos?"
+        "pt-BR": "Não vai dar! São muitos!!! Como vamos atravessar isso?",
+        "es-ES": "¡No se puede, son demasiados! ¿Cómo vamos a abrirnos paso entre tantos?"
     },
     "4S/6DQ": {
         "en-US": "But doesn't something seem a little strange?",
         "pt-BR": "Mas não acham que tem alguma coisa estranha?",
-        "es-ES": "Pero ¿no les parece que hay algo extraño?"
+        "es-ES": "Pero, ¿no les parece que hay algo extraño?"
     },
     "4i/6DQ": {
         "en-US": "I've been watching them for a while, and they aren't attacking us!",
         "pt-BR": "Estou observando desde antes, e eles não estão nos atacando!",
-        "es-ES": "¡Los he estado observando desde hace rato y no nos atacan!"
+        "es-ES": "¡Los estoy observando hace rato y no nos atacan!"
     },
     "4y/6DQ": {
         "en-US": "I just need to turn this on here—what? Everyone's already here?",
         "pt-BR": "É só ativar isto aqui... O quê? Todo mundo já chegou?",
-        "es-ES": "Solo tengo que encender esto y... ¿qué? ¿Ya llegaron todos?"
+        "es-ES": "Solo tengo que encender esto y... ¿Qué? ¿Ya llegaron todos?"
     },
     "5C/6DQ": {
         "en-US": "Am I already too late? Well, I guess it doesn't matter.",
@@ -346,23 +346,23 @@
     },
     "5S/6DQ": {
         "en-US": "What's that now? Are those the Heart Hunter who serve the Illusions?",
-        "pt-BR": "O que é aquilo agora? É um Caçador de Corações, daqueles subordinados dos Illusion?",
-        "es-ES": "¿Qué es eso ahora? ¿Es uno de esos Cazador de Corazones que sirven a los Illusion?"
+        "pt-BR": "O que é aquilo agora? É um Caçador de Corações, daqueles subordinados dos Illusión?",
+        "es-ES": "¿Qué es eso ahora? ¿Es uno de esos Cazacorazones, esos subordinados a Ilusión?"
     },
     "5i/6DQ": {
         "en-US": "This is the fifth defensive line. Requesting support.",
         "pt-BR": "Aqui é a 5ª linha de defesa. Solicitamos apoio.",
-        "es-ES": "Aquí quinta línea defensiva. Solicitamos apoyo."
+        "es-ES": "Aquí habla la quinta línea defensiva. Solicitamos apoyo."
     },
     "5y/6DQ": {
         "en-US": "There are intruders. Obstacles are preventing us from expanding the defensive line. Repeating, requesting support.",
         "pt-BR": "Há invasores. Há obstáculos que dificultam a expansão da linha de defesa. Repito. Solicitamos apoio.",
-        "es-ES": "Hay intrusos. Un obstáculo dificulta ampliar la línea defensiva. Repito. Solicitamos apoyo."
+        "es-ES": "Hay intrusos. Un obstáculo dificulta ampliar la línea defensiva. Repito, solicitamos apoyo."
     },
     "6C/6DQ": {
         "en-US": "They called for support!!",
-        "pt-BR": "Eles pediram reforços!!",
-        "es-ES": "¡¡Pidió refuerzos!!"
+        "pt-BR": "Eles pediram reforços!",
+        "es-ES": "¡¡Están pidiendo refuerzos!!"
     },
     "6S/6DQ": {
         "en-US": "What do they mean by obstacles?",
@@ -371,18 +371,18 @@
     },
     "6i/6DQ": {
         "en-US": "As you can see, the adventurer's group has already made it this far.",
-        "pt-BR": "Como podem ver, o grupo de aventureiros já chegou até aqui.",
-        "es-ES": "Como puedes ver, el grupo de aventureros ya llegó hasta aquí."
+        "pt-BR": "Como podem ver, o grupo de viajantes já chegou até aqui.",
+        "es-ES": "Como se puede ver, el grupo de aventureros ya llegó hasta aquí."
     },
     "6y/6DQ": {
         "en-US": "What? These Rgans really are packed together, just like Bagot said.",
         "pt-BR": "O quê? Esses Rgan realmente estão todos aglomerados, exatamente como o senhor Bagot disse.",
-        "es-ES": "¿Qué? ¿Estos Rgan de verdad están amontonados? Tal como dijo Bagot."
+        "es-ES": "¿Qué es esto? Estos Rgan realmente están todos amontonados, tal como dijo Bagot."
     },
     "7C/6DQ": {
         "en-US": "Yeah. The capable, sturdy Rgans went and blocked the entrance all on their own!",
         "pt-BR": "Pois é. Esses Rgan fortes e trabalhadores acabaram bloqueando a entrada por conta própria!",
-        "es-ES": "Así es. ¡Los Rgan resistentes y eficientes terminaron bloqueando la entrada por su cuenta!"
+        "es-ES": "Así es. Los Rgan son resistentes y eficientes, tanto que lograron bloquear la entrada por su cuenta."
     },
     "7S/6DQ": {
         "en-US": "Anyway, why did so many of them gather here? Do we just take them out?",
@@ -397,7 +397,7 @@
     "7y/6DQ": {
         "en-US": "Since it's come to this, you operate the device. We'll handle things here.",
         "pt-BR": "Já que chegamos a esse ponto, você opera o dispositivo. Deixe esta área conosco.",
-        "es-ES": "Ya que estamos así, tú encárgate de operar el dispositivo. Nosotros nos ocuparemos de aquí."
+        "es-ES": "Ya que llegamos hasta este punto, tú encárgate de operar el dispositivo. Nosotros nos ocuparemos de aquí."
     },
     "8C/6DQ": {
         "en-US": "All right.",
@@ -406,13 +406,13 @@
     },
     "8S/6DQ": {
         "en-US": "Huh?! They're splitting apart? Adventurer! We'll take care of that side, so please handle these ones!",
-        "pt-BR": "Hã?! Está se dividindo? Aventureiro! Nós cuidaremos daquele lado, então cuide destes aqui!",
+        "pt-BR": "Hã?! Está se dividindo? Viajante! Nós cuidaremos daquele lado, então cuide destes aqui!",
         "es-ES": "¿Eh?! ¿Se están separando? ¡Aventurero! ¡Nosotros nos encargaremos de ese lado, así que ocúpate de estos!"
     },
     "8i/6DQ": {
         "en-US": "Modified Heart Hunter",
         "pt-BR": "Caçador de Corações Modificado",
-        "es-ES": "Cazador de Corazones modificado"
+        "es-ES": "Cazacorazones modificado"
     },
     "8y/6DQ": {
         "en-US": "Suffering Rgan",
@@ -421,22 +421,22 @@
     },
     "9C/6DQ": {
         "en-US": "Ngh—You think this is the end? It's not like we came unprepared!",
-        "pt-BR": "Argh- acha que vai acabar assim? Não viemos sem preparação!",
-        "es-ES": "¡Ggh! ¿Crees que esto terminará así? ¡No es que no hayamos preparado nada!"
+        "pt-BR": "Argh- acha que vai acabar assim? Não viemos sem preparos!",
+        "es-ES": "¡Agh! ¿Crees que esto va a terminar así? ¿Te parece que vinimos sin prepararnos?"
     },
     "9S/6DQ": {
         "en-US": "Howling Rgan",
         "pt-BR": "Rgan Uivante",
-        "es-ES": "Rgan aullante"
+        "es-ES": "Rgan Aullante"
     },
     "9i/6DQ": {
         "en-US": "Renovated Superior Rgan",
-        "pt-BR": "Regan Superior Modificado",
-        "es-ES": "Regan superior modificado"
+        "pt-BR": "Rgan Superior Modificado",
+        "es-ES": "Rgan Superior Modificado"
     },
     "9y/6DQ": {
         "en-US": "Phew—we took care of all of them over there. But there were a lot of strange devices scattered around.",
-        "pt-BR": "Ufa- acabamos com todos daquele lado. Mas havia muitos dispositivos desconhecidos espalhados por toda parte.",
+        "pt-BR": "Ufa- acabamos com todos daquele lado. Mas havia muitos dispositivos estranhos espalhados por toda parte.",
         "es-ES": "Uf... Ya acabamos con todos los de aquel lado. Pero había muchos dispositivos desconocidos por todas partes."
     },
     "+C/6DQ": {
@@ -461,18 +461,18 @@
     },
     "/C/6DQ": {
         "en-US": "This won't be easy. Adventurer, we'll share this information with the others. Go on ahead.",
-        "pt-BR": "Não vai ser fácil. Aventureiro, vamos compartilhar essas informações com os outros. Vá na frente.",
+        "pt-BR": "Não vai ser fácil. Viajante, vamos compartilhar essas informações com os outros. Vá na frente.",
         "es-ES": "Esto no será fácil. Aventurero, nosotros compartiremos esta información con los demás. Adelántate."
     },
     "/S/6DQ": {
         "en-US": "You're here! These Rgans are strange—we can't break through them, but they aren't attacking either. We'll look for a way through, so focus on the search!",
         "pt-BR": "Chegou! Esses Rgan são estranhos: não dá para atravessar e eles também não atacam. Vamos procurar uma solução, então concentre-se na busca!",
-        "es-ES": "¡Ya llegó! Estos Rgan son raros: no podemos atravesarlos, pero tampoco atacan. Estaremos buscando una forma de resolverlo, así que concéntrese en la búsqueda."
+        "es-ES": "¡Llegaste! Estos Rgan son raros: no podemos atravesarlos, pero tampoco atacan. Estaremos buscando una forma de resolverlo, tú concéntrate."
     },
     "/i/6DQ": {
         "en-US": "Heart Hunter",
         "pt-BR": "Caçador de Corações",
-        "es-ES": "Cazador de Corazones"
+        "es-ES": "Cazacorazones"
     },
     "/y/6DQ": {
         "en-US": "Twisted Rgan",
@@ -491,8 +491,8 @@
     },
     "AjD6DQ": {
         "en-US": "Renovated Superior Rgan",
-        "pt-BR": "Regan Superior Modificado",
-        "es-ES": "Regan superior modificado"
+        "pt-BR": "Rgan Superior Modificado",
+        "es-ES": "Rgan Superior Modificado"
     },
     "AzD6DQ": {
         "en-US": "Suffering Rgan",
@@ -507,27 +507,27 @@
     "BTD6DQ": {
         "en-US": "So this is where you all gathered?",
         "pt-BR": "Então vocês estavam reunidos aqui?",
-        "es-ES": "¿Así que estaban reunidos aquí?"
+        "es-ES": "¿Así que estaban todos reunidos aquí?"
     },
     "BjD6DQ": {
         "en-US": "Adventurer! You're safe.",
-        "pt-BR": "Aventureiro! Que bom que está bem.",
-        "es-ES": "¡Aventurero! Qué bueno que esté a salvo."
+        "pt-BR": "Viajante! Que bom que está bem.",
+        "es-ES": "¡Aventurero! Estás a salvo."
     },
     "BzD6DQ": {
         "en-US": "So the Rgans up ahead are being controlled by the Heart Hunter?",
-        "pt-BR": "Então aqueles Rgan ali na frente estão se movendo sob o controle dos Caçador de Corações?",
-        "es-ES": "Entonces, ¿los Rgan que están adelante se mueven bajo el control de los Cazador de Corazones?"
+        "pt-BR": "Então aqueles Rgan ali na frente estão se movendo sob o controle dos Caçadores de Corações?",
+        "es-ES": "Entonces, ¿los Rgan que están adelante se mueven bajo el control de los Cazacorazones?"
     },
     "CDD6DQ": {
         "en-US": "How can they use their own comrades as a defensive wall?",
         "pt-BR": "Como podem usar os próprios companheiros como uma barreira defensiva?",
-        "es-ES": "¿Cómo pueden usar a sus compañeros como una barrera defensiva?"
+        "es-ES": "¿Cómo pueden ser capaces de usar a sus propios compañeros como escudo?"
     },
     "CTD6DQ": {
         "en-US": "If they had that kind of conscience, they wouldn't have created the Heart Hunter in the first place.",
-        "pt-BR": "Se tivessem esse tipo de consciência, nem teriam criado os Caçador de Corações para começo de conversa.",
-        "es-ES": "Si tuvieran esa clase de conciencia, para empezar ni siquiera habrían creado a los Cazador de Corazones."
+        "pt-BR": "Se tivessem esse tipo de consciência, nem teriam criado os Caçadores de Corações para começo de conversa.",
+        "es-ES": "Si tuvieran esa clase de conciencia, para empezar ni siquiera habrían creado a los Cazacorazones."
     },
     "CjD6DQ": {
         "en-US": "Are you talking about us? Don't worry. We chose to become like this.",
@@ -537,32 +537,32 @@
     "CzD6DQ": {
         "en-US": "The superior Rgans here did too.",
         "pt-BR": "Esses Rgan superiores aqui também.",
-        "es-ES": "Lo mismo ocurre con estos Rgan de nivel superior."
+        "es-ES": "Y estos Rgan Superiores también."
     },
     "DDD6DQ": {
         "en-US": "Once they heard it was a chance to become top-ranking, everyone lined up for it.",
         "pt-BR": "Quando disseram que era uma chance de chegar ao nível supremo, todo mundo entrou na fila.",
-        "es-ES": "En cuanto dijeron que era una oportunidad para convertirse en Rgan de nivel máximo, todos hicieron fila."
+        "es-ES": "En cuanto dijeron que era una oportunidad para convertirse en Rgan Superior, todos hicieron fila."
     },
     "DTD6DQ": {
         "en-US": "What happened to those intermediate Rgans?",
         "pt-BR": "E aqueles Rgan intermediários, o que aconteceu com eles?",
-        "es-ES": "¿Y qué pasó con esos Rgan de nivel intermedio?"
+        "es-ES": "¿Y qué pasó con esos Rgan Intermedios?"
     },
     "DjD6DQ": {
         "en-US": "Hmm... There wasn't much we could do about those intermediates.",
         "pt-BR": "Hmm... com aqueles intermediários não havia muito o que fazer.",
-        "es-ES": "Mmm... Con esos de nivel intermedio no había mucho que hacer."
+        "es-ES": "Mmm... Con esos no había mucho que hacer."
     },
     "DzD6DQ": {
         "en-US": "If they did anything wrong, I suppose it was being in a dangerous place at an unfortunate time...?",
         "pt-BR": "Se houve algum erro da parte deles, foi estarem por acaso em um lugar perigoso na pior hora possível...?",
-        "es-ES": "Si estar por casualidad en un lugar peligroso justo en un mal momento cuenta como culpa, entonces supongo que fue culpa suya... ¿no?"
+        "es-ES": "Si tuvieron algún error, fue solo por estar en un mal lugar y en un mal momento... ¿No?"
     },
     "EDD6DQ": {
         "en-US": "Where did everyone go? What are they planning to do after gathering together?",
         "pt-BR": "Onde foi todo mundo? O que estão tentando fazer reunidos?",
-        "es-ES": "¿Adónde fueron todos? ¿Qué intentan hacer reuniéndose?"
+        "es-ES": "¿Adónde fueron todos? ¿Qué intentan hacer reuniéndose así?"
     },
     "ETD6DQ": {
         "en-US": "Why would we tell you? I'm not that nice.",
@@ -572,7 +572,7 @@
     "EjD6DQ": {
         "en-US": "Then stop spouting nonsense and move aside.",
         "pt-BR": "Então pare de falar besteira e saia do caminho.",
-        "es-ES": "Entonces deja de decir tonterías y hazte a un lado."
+        "es-ES": "Entonces deja de decir tonterías y sal de mi camino."
     },
     "EzD6DQ": {
         "en-US": "I guess everyone from Arunafeltz is that blunt.",
@@ -582,12 +582,12 @@
     "FDD6DQ": {
         "en-US": "We can't just let you pass. We have our orders too.",
         "pt-BR": "Não podemos simplesmente deixar vocês passarem. Nós também recebemos ordens.",
-        "es-ES": "No podemos dejarlos pasar sin más. Nosotros también recibimos órdenes."
+        "es-ES": "No podemos dejarlos pasar así nomás. Nosotros también seguimos órdenes."
     },
     "FTD6DQ": {
         "en-US": "Orders to stop you, that is. So we prepared something... Uh...",
         "pt-BR": "Ordens para impedir vocês. Por isso preparamos uma coisa... ah...",
-        "es-ES": "La orden es detenerlos. Por eso preparamos algo... eh..."
+        "es-ES": "La orden es detenerlos. Por eso preparamos algo... Eh..."
     },
     "FjD6DQ": {
         "en-US": "Are you stalling for time?",
@@ -596,8 +596,8 @@
     },
     "FzD6DQ": {
         "en-US": "How did you know? We still need a little more time, but whatever! Take this!!!",
-        "pt-BR": "Como descobriu? Ainda precisava de um pouco mais de tempo, mas tanto faz! Toma!!!",
-        "es-ES": "¿Cómo lo supiste? ¡Todavía falta un poco, pero ya qué! ¡Toma!!!"
+        "pt-BR": "Como descobriu? Ainda precisava de um pouco mais de tempo, mas tanto faz! Toma essa!!!",
+        "es-ES": "¿Cómo te diste cuenta? ¡Todavía falta un poco, pero qué importa! ¡Toma esto!"
     },
     "GDD6DQ": {
         "en-US": "We were told to use this at times like this. Looks like they couldn't use it up ahead, though?",
@@ -611,8 +611,8 @@
     },
     "GjD6DQ": {
         "en-US": "They say it can make a superior egg hatch into a Renovated Superior Rgan in an instant.",
-        "pt-BR": "Dizem que ele faz um ovo superior dar origem instantaneamente a um Regan Superior Modificado.",
-        "es-ES": "Dicen que hace que un huevo de nivel superior dé origen a un Regan superior modificado en un instante."
+        "pt-BR": "Dizem que ele faz um ovo superior dar origem instantaneamente a um Rgan Superior Modificado.",
+        "es-ES": "Dicen que hace que de un huevo de nivel superior salga un Rgan Superior Modificado, en un instante."
     },
     "GzD6DQ": {
         "en-US": "You're about to meet an enormous number of Rgan.",
@@ -622,7 +622,7 @@
     "HDD6DQ": {
         "en-US": "As long as the magic supply continues, they'll keep coming.",
         "pt-BR": "Enquanto o fornecimento de poder mágico continuar, eles continuarão surgindo.",
-        "es-ES": "Seguirán saliendo mientras continúe el suministro de poder mágico."
+        "es-ES": "Seguirán apareciendo mientras continúe el suministro de poder mágico."
     },
     "HTD6DQ": {
         "en-US": "That sounds like all we have to do is cut off the supply. You're kinder than I expected.",
@@ -631,23 +631,23 @@
     },
     "HjD6DQ": {
         "en-US": "Y-You won't find it that easily! Besides, we called for reinforcements!!",
-        "pt-BR": "N-não vai ser tão fácil encontrar! Além disso, já pedi reforços!!",
-        "es-ES": "¡N-no será tan fácil de encontrar! ¡¡Además, ya pedimos refuerzos!!"
+        "pt-BR": "N-não vai ser tão fácil encontrar! Além disso, já pedi reforços!",
+        "es-ES": "Eh, ¡No será tan fácil de encontrar! ¡Además, ya pedimos refuerzos!"
     },
     "HzD6DQ": {
         "en-US": "We're heading for the next objective!",
         "pt-BR": "Vamos para o próximo objetivo!",
-        "es-ES": "¡Nosotros iremos al siguiente objetivo!"
+        "es-ES": "¡Vamos hacia el siguiente objetivo!"
     },
     "IDD6DQ": {
         "en-US": "Adventurer, we'll pursue them, so take out the Rgan and the device...!",
-        "pt-BR": "Aventureiro, nós vamos persegui-los, então derrote os Rgan e cuide do dispositivo...!",
-        "es-ES": "Aventurero, nosotros los perseguiremos, así que acaba con los Rgan y encárgate del dispositivo...!"
+        "pt-BR": "Viajante, nós vamos persegui-los, então derrote os Rgan e cuide do dispositivo...!",
+        "es-ES": "Aventurero, nosotros los perseguiremos, tú acaba con los Rgan y encárgate del dispositivo."
     },
     "ITD6DQ": {
         "en-US": "Injecting mixed magic into the Superior Rgan eggs.",
-        "pt-BR": "Injetando poder mágico misto no ovo de Regan Superior.",
-        "es-ES": "Se inyecta poder mágico combinado en el huevo de Regan superior."
+        "pt-BR": "Injetando poder mágico misto no ovo de Rgan Superior.",
+        "es-ES": "Se inyecta poder mágico combinado en el huevo de Rgan superior."
     },
     "IjD6DQ": {
         "en-US": "Injection Device",
@@ -662,12 +662,12 @@
     "JDD6DQ": {
         "en-US": "Unstable Modified Rgan",
         "pt-BR": "Rgan Modificado Instável",
-        "es-ES": "Rgan modificado inestable"
+        "es-ES": "Rgan Modificado Inestable"
     },
     "JTD6DQ": {
         "en-US": "Heart Hunter",
         "pt-BR": "Caçador de Corações",
-        "es-ES": "Cazador de Corazones"
+        "es-ES": "Cazacorazones"
     },
     "JjD6DQ": {
         "en-US": "The device is running, but only one modified one hatched?",
@@ -677,12 +677,12 @@
     "JzD6DQ": {
         "en-US": "You shut down the device? They said they'd wither and die quickly if you turned it off!!!",
         "pt-BR": "Você desligou o dispositivo? Disseram que, se desligasse, ele murcharia e morreria rapidamente!!!",
-        "es-ES": "¿Apagaste el dispositivo? ¡¡¡Dijeron que si lo apagaban, se marchitarían y morirían enseguida!!!"
+        "es-ES": "¿Apagaste el dispositivo? ¡Dijeron que si lo apagaban, se marchitarían y morirían enseguida!"
     },
     "KDD6DQ": {
         "en-US": "What? Where did everyone go? You called me here and then left without me?",
         "pt-BR": "O quê? Onde foi todo mundo? Me chamaram e foram embora primeiro?",
-        "es-ES": "¿Qué? ¿Dónde están todos? ¿Me llamaron y se fueron primero?"
+        "es-ES": "¿Qué? ¿Dónde están todos? ¿Me llamaron hasta aquí y se fueron antes?"
     },
     "KTD6DQ": {
         "en-US": "Additional injection devices are being activated.",
@@ -692,7 +692,7 @@
     "KjD6DQ": {
         "en-US": "They said it was a wall of Rgan that neither attacks nor lets anyone through, right? Let's finish the search and check it again.",
         "pt-BR": "Disseram que era uma parede de Rgan que não ataca e também não dá para atravessar, não é? Vamos terminar a busca e verificar de novo.",
-        "es-ES": "¿Era un muro de Rgan que no atacaba y tampoco se podía atravesar? Terminemos la búsqueda y volvamos a comprobarlo."
+        "es-ES": "Dijeron que había una barrera de Rgan que no atacaba y tampoco se podía atravesar, ¿no? Terminemos la búsqueda y volvamos a comprobarlo."
     },
     "KzD6DQ": {
         "en-US": "Hey, folks, let go of me and then we'll talk.",
@@ -731,7 +731,7 @@
     },
     "MjD6DQ": {
         "en-US": "Adventurer, you're here? We...",
-        "pt-BR": "Aventureiro, você chegou? Nós...",
+        "pt-BR": "Viajante, você chegou? Nós...",
         "es-ES": "Aventurero, ¿ya llegaste? Nosotros..."
     },
     "MzD6DQ": {
@@ -742,7 +742,7 @@
     "NDD6DQ": {
         "en-US": "We'll hold this one here, so you'd better find the device and shut it down first.",
         "pt-BR": "Nós vamos segurar este aqui, então é melhor encontrar o dispositivo e desligá-lo primeiro.",
-        "es-ES": "Nosotros retendremos a este sujeto, así que será mejor que primero encuentres el dispositivo y lo apagues."
+        "es-ES": "Nosotros vamos a retener a este sujeto, mientras tanto, encuentra el dispositivo y apágalo."
     },
     "NTD6DQ": {
         "en-US": "They fiddled with something a moment ago and said they reactivated it.",
@@ -767,7 +767,7 @@
     "OTD6DQ": {
         "en-US": "Now then, shall we continue our conversation?",
         "pt-BR": "Bem, que tal continuarmos a conversa de onde paramos?",
-        "es-ES": "Bien, ¿qué tal si continuamos la conversación que dejamos pendiente?"
+        "es-ES": "Bien, ¿qué tal si continuamos la conversación que tenemos pendiente?"
     },
     "OjD6DQ": {
         "en-US": "Leave this to us.",
@@ -776,8 +776,8 @@
     },
     "OzD6DQ": {
         "en-US": "Adventurer, don't just leave—please convince these people!",
-        "pt-BR": "Aventureiro, não vá embora assim. Convença essas pessoas!",
-        "es-ES": "¡Aventurero, no te vayas así nada más y convence a estas personas!"
+        "pt-BR": "Viajante, não vá embora assim. Convença essas pessoas!",
+        "es-ES": "¡Aventurero, no te vayas así como si nada, convence a estas personas!"
     },
     "PDD6DQ": {
         "en-US": "You're here. We've got these people sufficiently restrained, so we can put them out front and move on.",
@@ -786,13 +786,13 @@
     },
     "PTD6DQ": {
         "en-US": "They confessed that all Rgans of superior rank and above were summoned to Raskgand's residence.",
-        "pt-BR": "Eles confessaram que todos os Rgan de nível superior ou acima foram convocados para a residência de Rasgand.",
-        "es-ES": "Estos sujetos confesaron que llamaron a todos los Rgan de nivel superior o más alto a la residencia de Rasgand."
+        "pt-BR": "Eles confessaram que todos os Rgan de nível superior ou acima foram convocados para a residência de Ragand.",
+        "es-ES": "Estos sujetos confesaron que se llevaron a todos los Rgan Superiores o más a la residencia de Ragand."
     },
     "PjD6DQ": {
         "en-US": "P-Please... don't tell them we told you. We're begging you.",
         "pt-BR": "Bem... por favor, não diga que fomos nós que contamos. Estamos pedindo.",
-        "es-ES": "Eh... por favor, no diga que nosotros se lo contamos. Se lo suplico."
+        "es-ES": "Eh... por favor, no digan que nosotros se lo contamos. Lo suplico."
     },
     "PzD6DQ": {
         "en-US": "They also said there's only one entrance. Not that we can fully trust them.",
@@ -802,12 +802,12 @@
     "QDD6DQ": {
         "en-US": "We told you nothing but the truth. Please believe us.",
         "pt-BR": "Só dissemos a verdade. Por favor, acreditem em nós.",
-        "es-ES": "Solo dijimos la verdad. Por favor, créanos."
+        "es-ES": "No les dijimos nada más que la verdad. Tienen que creernos."
     },
     "QTD6DQ": {
         "en-US": "In any case, one thing is certain: whatever Raskgand and Bagot are trying to accomplish is just ahead.",
-        "pt-BR": "De qualquer forma, uma coisa é certa: aquilo que Rasgand e Bagot querem realizar está logo à frente.",
-        "es-ES": "En cualquier caso, una cosa es segura: aquello que Rasgand y Bagot intentan lograr está justo delante de nosotros."
+        "pt-BR": "De qualquer forma, uma coisa é certa: aquilo que Ragand e Bagot querem realizar está logo à frente.",
+        "es-ES": "En cualquier caso, una cosa es segura: lo que sea que Ragand y Bagot estén tramando, está justo delante de nosotros."
     },
     "QjD6DQ": {
         "en-US": "We need to hurry.",
@@ -841,7 +841,7 @@
     },
     "SDD6DQ": {
         "en-US": "Adventurer, we can leave this to you, right?",
-        "pt-BR": "Aventureiro, podemos deixar isto com você, certo?",
+        "pt-BR": "Viajante, podemos deixar isto com você, certo?",
         "es-ES": "Aventurero, podemos dejar esto en tus manos, ¿verdad?"
     },
     "STD6DQ": {
@@ -862,12 +862,12 @@
     "TDD6DQ": {
         "en-US": "We should probably gag that one first. Anyway, we're counting on you.",
         "pt-BR": "É melhor amarrar a boca dele primeiro. Então, conto com você.",
-        "es-ES": "Será mejor que primero le tapemos la boca. Entonces, te lo encargo."
+        "es-ES": "Sería mejor que primero le tapemos la boca. Entonces, te lo encargo."
     },
     "TTD6DQ": {
         "en-US": "Something's wrong in the Illusion area. Someone...!",
-        "pt-BR": "A área dos Illusion não está nada normal. Alguém...!",
-        "es-ES": "Algo anda mal en la zona de los Illusion. ¡Que alguien...!"
+        "pt-BR": "A área dos Illusión não está nada normal. Alguém...!",
+        "es-ES": "Algo anda mal en la zona de Ilusión. Que alguien..."
     },
     "TjD6DQ": {
         "en-US": "Deactivate Device",
@@ -902,7 +902,7 @@
     "VDD6DQ": {
         "en-US": "Traces of the Laboratory",
         "pt-BR": "Vestígios do Laboratório",
-        "es-ES": "Rastros del laboratorio"
+        "es-ES": "Rastros del Laboratorio"
     },
     "VTD6DQ": {
         "en-US": "There's almost nothing left.",
@@ -917,17 +917,17 @@
     "VzD6DQ": {
         "en-US": "Someone check the laboratory.",
         "pt-BR": "Alguém dê uma olhada no laboratório.",
-        "es-ES": "Que alguien revise el laboratorio."
+        "es-ES": "Que alguien revise el Laboratorio."
     },
     "WDD6DQ": {
         "en-US": "Research Device",
         "pt-BR": "Dispositivo de Pesquisa",
-        "es-ES": "Dispositivo de investigación"
+        "es-ES": "Dispositivo de Investigación"
     },
     "WTD6DQ": {
         "en-US": "The Heart of Ymir... Of course it's not here... I don't see any useful research data either.",
         "pt-BR": "O Coração de Ymir... obviamente não está aqui... e também não vejo nenhum material de pesquisa útil.",
-        "es-ES": "El Corazón de Ymir... claro que no está aquí... y tampoco veo datos de investigación que sirvan."
+        "es-ES": "El Corazón de Ymir... claro que no está aquí... y tampoco encuentro ningún dato útil de la investigación."
     },
     "WjD6DQ": {
         "en-US": "There are still piles of Rgan to deal with!",
@@ -941,7 +941,7 @@
     },
     "XDD6DQ": {
         "en-US": "Hands up!!",
-        "pt-BR": "Mãos ao alto!!",
+        "pt-BR": "Mãos ao alto!",
         "es-ES": "¡¡Manos arriba!!"
     },
     "XTD6DQ": {
@@ -971,12 +971,12 @@
     },
     "YjD6DQ": {
         "en-US": "Adventurer?",
-        "pt-BR": "Aventureiro?",
+        "pt-BR": "Viajante?",
         "es-ES": "¿Aventurero?"
     },
     "YzD6DQ": {
         "en-US": "The Adventurer got here first?",
-        "pt-BR": "O aventureiro chegou primeiro?",
+        "pt-BR": "O viajante chegou primeiro?",
         "es-ES": "¿El aventurero llegó primero?"
     },
     "ZDD6DQ": {
@@ -991,7 +991,7 @@
     },
     "ZjD6DQ": {
         "en-US": "Is the Adventurer the only one who made it here?",
-        "pt-BR": "Só o aventureiro veio?",
+        "pt-BR": "Só o viajante veio?",
         "es-ES": "¿Solo vino el aventurero?"
     },
     "ZzD6DQ": {
@@ -1001,8 +1001,8 @@
     },
     "aDD6DQ": {
         "en-US": "Is that so? Bagot was hoping to see you anyway, Adventurer.",
-        "pt-BR": "É mesmo? Por acaso, este Bagot também estava querendo encontrar o aventureiro, sabe?",
-        "es-ES": "¿Ah, sí? Justamente este Bagot quería ver un poco al aventurero, ¿sabes?"
+        "pt-BR": "É mesmo? Por acaso, este Bagot também estava querendo encontrar o viajante, sabe?",
+        "es-ES": "¿Ah, sí? Justamente Bagot quería ver un poco al aventurero, ¿sabes?"
     },
     "aTD6DQ": {
         "en-US": "You really managed to fool Bagot with that cute little trick last time?!",
@@ -1017,7 +1017,7 @@
     "azD6DQ": {
         "en-US": "It seems the others must have encountered it already. We must have crossed paths.",
         "pt-BR": "Parece que os outros acabaram encontrando aquilo primeiro. Nossos caminhos se cruzaram.",
-        "es-ES": "Parece que los demás ya se encontraron con él. Nos cruzamos por caminos distintos."
+        "es-ES": "Parece que los demás ya lo encontraron. Seguramente nuestros caminos se cruzaron."
     },
     "bDD6DQ": {
         "en-US": "But no matter. Bagot is glad to give it to you personally.",
@@ -1027,7 +1027,7 @@
     "bTD6DQ": {
         "en-US": "You must have been curious about what Bagot was planning, right? That's why you egged Juncea on like that.",
         "pt-BR": "Você devia estar curioso para saber o que Bagot faria, não é? Foi por isso que instigou Juncea daquele jeito.",
-        "es-ES": "Seguro querías saber qué iba a hacer Bagot, ¿verdad? Por eso incitaste así a Juncea."
+        "es-ES": "Seguro querías saber qué iba a hacer Bagot, ¿verdad? Por eso provocaste así a Juncea."
     },
     "bjD6DQ": {
         "en-US": "But Bagot doesn't fall for such shallow tricks.",
@@ -1037,17 +1037,17 @@
     "bzD6DQ": {
         "en-US": "Because Bagot is going to tell you directly. That's why I scattered some useless scraps around to lure you here.",
         "pt-BR": "Porque Bagot vai contar pessoalmente. Foi justamente por isso que deixei algumas migalhas inúteis pelo caminho para fazer vocês me seguirem.",
-        "es-ES": "Porque Bagot te lo dirá personalmente. Para eso dejé algunas migajas inútiles y conseguí que me siguieras."
+        "es-ES": "Porque Bagot te lo dirá personalmente. Para eso dejé algunas migajas inútiles, que ustedes siguieron."
     },
     "cDD6DQ": {
         "en-US": "The thought of flies constantly buzzing around the new world Bagot will create is rather irritating.",
         "pt-BR": "Só de pensar que essas mosquinhas continuariam me incomodando no novo mundo que Bagot vai criar já me irritava um pouco.",
-        "es-ES": "Me molestaba un poco pensar que en el nuevo mundo que Bagot va a crear seguirían revoloteando moscas a mi alrededor."
+        "es-ES": "Me molestaba un poco pensar que en el nuevo mundo que Bagot va a crear seguirían revoloteándome esas moscas el alrededor."
     },
     "cTD6DQ": {
         "en-US": "And Raskgand happens to be furious with the humans who deceived him as well.",
-        "pt-BR": "E, por coincidência, Rasgand também está furioso com os humanos que o enganaram, não é?",
-        "es-ES": "Y justo Rasgand está muy enfurecido con los humanos que lo engañaron, ¿sabes?"
+        "pt-BR": "E, por coincidência, Ragand também está furioso com os humanos que o enganaram, não é?",
+        "es-ES": "Y justo Ragand está muy enfurecido con los humanos que lo engañaron, ¿sabes?"
     },
     "cjD6DQ": {
         "en-US": "Now then, this is a gift from Bagot, so take it and make your exit here.",
@@ -1062,27 +1062,27 @@
     "dDD6DQ": {
         "en-US": "It's a wall of Rgan. I should finish the search first and come back.",
         "pt-BR": "É uma parede de Rgan. Vou terminar a busca primeiro e voltar depois.",
-        "es-ES": "Es un muro de Rgan. Primero tendré que terminar la búsqueda y volver después."
+        "es-ES": "Es un muro de Rgan. Primero tendré que terminar la búsqueda para volver después."
     },
     "dTD6DQ": {
         "en-US": "Frenzied Rgan",
         "pt-BR": "Rgan Enfurecido",
-        "es-ES": "Rgan enfurecido"
+        "es-ES": "Rgan Enfurecido"
     },
     "djD6DQ": {
         "en-US": "Graaah---",
         "pt-BR": "Grrr---",
-        "es-ES": "Grrr---"
+        "es-ES": "Grrr."
     },
     "dzD6DQ": {
         "en-US": "Grrk--- Gurgle---",
         "pt-BR": "Gruk--- Grrr---",
-        "es-ES": "Grruk--- Gorgoteo---"
+        "es-ES": "Grrr, Grrr."
     },
     "eDD6DQ": {
         "en-US": "Ma... gi... c..",
-        "pt-BR": "Po... der... má... gico..",
-        "es-ES": "Po... der... má... gico.."
+        "pt-BR": "Po... der... má... gico...",
+        "es-ES": "Po...der... má...gico..."
     },
     "eTD6DQ": {
         "en-US": "........",
@@ -1091,18 +1091,18 @@
     },
     "ejD6DQ": {
         "en-US": "Sto... p.. .no...",
-        "pt-BR": "Pa... ra.. n... não...",
-        "es-ES": "Ya... ba.. .sta..."
+        "pt-BR": "Pa... ra... N... não...",
+        "es-ES": "Ya... ba...sta..."
     },
     "ezD6DQ": {
         "en-US": "Uuuaaah--- ah---",
         "pt-BR": "Aaaah--- ah---",
-        "es-ES": "Aaaaaah--- Ah---"
+        "es-ES": "¡Aaaaaah!"
     },
     "fDD6DQ": {
         "en-US": "Me... too...",
         "pt-BR": "Eu... também...",
-        "es-ES": "Yo... también..."
+        "es-ES": "Yo... También..."
     },
     "fTD6DQ": {
         "en-US": "Preparing magic injection. Stage 1 magic injection will begin.",
@@ -1112,7 +1112,7 @@
     "fjD6DQ": {
         "en-US": "Frenzied Rgan",
         "pt-BR": "Rgan Enfurecido",
-        "es-ES": "Rgan enfurecido"
+        "es-ES": "Rgan Enfurecido"
     },
     "fzD6DQ": {
         "en-US": "Preparing magic injection. Stage 2 magic injection will begin.",
@@ -1127,22 +1127,22 @@
     "gTD6DQ": {
         "en-US": "This isn't good. We'll have to give it everything we've got...!",
         "pt-BR": "Assim não vai dar. Precisamos usar toda a nossa força...!",
-        "es-ES": "Esto no va a funcionar. ¡Tendremos que darlo todo...!"
+        "es-ES": "Esto no va a funcionar. ¡Tenemos que usar toda nuestra fuerza"
     },
     "gjD6DQ": {
         "en-US": "We're being pushed back!!!",
         "pt-BR": "Vamos ser empurrados para trás!!!",
-        "es-ES": "¡¡¡Nos están haciendo retroceder!!!"
+        "es-ES": "¡Nos están haciendo retroceder!"
     },
     "gzD6DQ": {
         "en-US": "Ngh!! You're stronger than I expected!",
-        "pt-BR": "Argh!! É mais forte do que eu esperava, não é?",
-        "es-ES": "¡¡Ggh!! ¿No es más fuerte de lo que esperaba?"
+        "pt-BR": "Argh! É mais forte do que eu esperava, não é?",
+        "es-ES": "¡¡Agh!! ¡Tiene más fuerza que la que pensaba!"
     },
     "hDD6DQ": {
         "en-US": "Is that Raskgand's residence?",
-        "pt-BR": "Aquele é o esconderijo de Rasgand?",
-        "es-ES": "¿Esa es la residencia de Rasgand?"
+        "pt-BR": "Aquele é o esconderijo de Ragand?",
+        "es-ES": "¿Esa es la residencia de Ragand?"
     },
     "hTD6DQ": {
         "en-US": "Central Area Gate",
@@ -1151,18 +1151,18 @@
     },
     "hjD6DQ": {
         "en-US": "Adventurer, you're safe.",
-        "pt-BR": "Aventureiro, você está bem.",
+        "pt-BR": "Viajante, você está em segurança.",
         "es-ES": "Aventurero, estás a salvo."
     },
     "hzD6DQ": {
         "en-US": "We were held up when a Superior Rgan suddenly went berserk from magic and attacked us.",
-        "pt-BR": "De repente, um Regan Superior em surto mágico veio nos atacar e acabou nos prendendo aqui.",
-        "es-ES": "De repente, un Regan superior con el poder mágico descontrolado nos atacó y nos impidió avanzar."
+        "pt-BR": "De repente, um Rgan Superior em surto mágico veio nos atacar e acabou nos prendendo aqui.",
+        "es-ES": "De repente, un Rgan Superior con el poder mágico descontrolado nos atacó y nos impidió avanzar."
     },
     "iDD6DQ": {
         "en-US": "Sheesh. Talk about rotten luck! What the heck are those things?",
-        "pt-BR": "Ah~ fala sério. Que azar miserável! Que criaturas são aquelas?",
-        "es-ES": "Vaya~. ¡Qué mala suerte hemos tenido! ¿Qué demonios son esas cosas?"
+        "pt-BR": "Ah... fala sério. Que azar miserável! Que criaturas são aquelas?",
+        "es-ES": "Chist... ¡Qué mala suerte tuvimos! ¿Qué demonios son esas cosas?"
     },
     "iTD6DQ": {
         "en-US": "Looks like everyone ran into one of those.",
@@ -1177,22 +1177,22 @@
     "izD6DQ": {
         "en-US": "We searched every inch of this complicated place, but couldn't find a single trace.",
         "pt-BR": "Vasculhamos este lugar complicado de ponta a ponta, mas não encontramos nem um vestígio.",
-        "es-ES": "Registramos cada rincón de este complicado lugar, pero no encontramos ni un solo rastro."
+        "es-ES": "Registramos cada rincón de este intrincado lugar, pero no encontramos ni una solo pista."
     },
     "jDD6DQ": {
         "en-US": "All of the Illusion research had been cleared out, and this is the only place left.",
-        "pt-BR": "Todas as pesquisas dos Illusion também já tinham sido retiradas, então agora só resta este lugar.",
-        "es-ES": "Toda la investigación de los Illusion también había sido retirada, así que este es el único lugar que queda."
+        "pt-BR": "Todas as pesquisas dos Illusión também já tinham sido retiradas, então agora só resta este lugar.",
+        "es-ES": "Toda la investigación de Ilusión también había sido retirada, así que ahora solo queda este lugar."
     },
     "jTD6DQ": {
         "en-US": "Even the Heart Hunter we captured and questioned said everyone had moved to the central area.",
-        "pt-BR": "Mesmo capturando e interrogando os Caçador de Corações, todos disseram que foram para a área central.",
-        "es-ES": "Incluso atrapamos e interrogamos a un Cazador de Corazones, y dijo que todos se trasladaron al área central."
+        "pt-BR": "Mesmo capturando e interrogando os Caçadores de Corações, todos disseram que foram para a área central.",
+        "es-ES": "Incluso atrapamos e interrogamos a unos Cazacorazones, y dijeron que todos se trasladaron al área central."
     },
     "jjD6DQ": {
         "en-US": "No one escaped by airship either. Not that they could have.",
         "pt-BR": "Ninguém escapou de dirigível. Embora provavelmente nem pudessem.",
-        "es-ES": "Tampoco escapó nadie en dirigible. Aunque probablemente ni siquiera podían hacerlo."
+        "es-ES": "Nadie se escapó volando por el aire. Aunque probablemente ni siquiera podían hacer eso."
     },
     "jzD6DQ": {
         "en-US": "This remaining place must be the central area, don't you think?",
@@ -1201,13 +1201,13 @@
     },
     "kDD6DQ": {
         "en-US": "Then if we open this door, we can capture both the Illusions and Raskgand?",
-        "pt-BR": "Então, se abrirmos esta porta, poderemos capturar tanto os Illusion quanto Rasgand?",
-        "es-ES": "Entonces, si abrimos esta puerta, ¿podremos capturar tanto a los Illusion como a Rasgand?"
+        "pt-BR": "Então, se abrirmos esta porta, poderemos capturar tanto os Illusión quanto Ragand?",
+        "es-ES": "Entonces, si abrimos esta puerta, ¿podremos capturar tanto a los Illusion como a Ragand?"
     },
     "kTD6DQ": {
         "en-US": "They abandoned all the places where the superior Rgans lived and moved somewhere they said no one could enter freely?",
         "pt-BR": "Abandonaram todos os lugares onde os Rgan superiores viviam e foram todos para um lugar onde diziam que ninguém podia entrar livremente?",
-        "es-ES": "¿Abandonaron todos los lugares donde vivían los Rgan de nivel superior y se trasladaron a un sitio al que, según decían, no podía entrar cualquiera?"
+        "es-ES": "¿Abandonaron todos los lugares donde vivían los Rgan superiores y se trasladaron a un sitio al que, según decían, no podía entrar cualquiera?"
     },
     "kjD6DQ": {
         "en-US": "Why?",
@@ -1217,27 +1217,27 @@
     "kzD6DQ": {
         "en-US": "Let's open it first. We can ask them directly.",
         "pt-BR": "Primeiro vamos abrir. Depois podemos perguntar diretamente.",
-        "es-ES": "Primero abramos la puerta. Podremos preguntárselo directamente."
+        "es-ES": "Primero abramos la puerta. Después podemos preguntar directamente."
     },
     "lDD6DQ": {
         "en-US": "This thing is locked tight.",
         "pt-BR": "Está bem trancada, não é?",
-        "es-ES": "Está demasiado bien cerrada."
+        "es-ES": "Está cerrada demasiado fuerte."
     },
     "lTD6DQ": {
         "en-US": "It's not like we're all weaklings here. Use everything you've got.",
         "pt-BR": "Não é como se só tivéssemos fracotes aqui, certo? Usem tudo o que têm.",
-        "es-ES": "No es que aquí solo haya debiluchos, ¿verdad? Saquen todo lo que tengan."
+        "es-ES": "No es que seamos todos debiluchos, ¿verdad? Saquen todo lo que tengan."
     },
     "ljD6DQ": {
         "en-US": "What did you do to this door? Open up! Open it!!! We know you're in there!!",
-        "pt-BR": "O que fizeram com esta porta? Abram! Abram logo!!! Eu sei que estão aí dentro!!",
-        "es-ES": "¿Qué demonios le hicieron a esta puerta? ¡Ábranla! ¡¡¡Que la abran!!! ¡¡Sé que están ahí dentro!!"
+        "pt-BR": "O que fizeram com esta porta? Abram! Abram logo!!! Eu sei que estão aí dentro!",
+        "es-ES": "¿Qué demonios le hicieron a esta puerta? ¡Ábranla! ¡Abran! ¡¡Sé que están ahí dentro!!"
     },
     "lzD6DQ": {
         "en-US": "Even the key we got from the Heart Hunter couldn't open it.",
-        "pt-BR": "Nem com a chave obtida dos Caçador de Corações conseguimos abrir.",
-        "es-ES": "Ni siquiera pudimos abrirla con la llave que obtuvimos de un Cazador de Corazones."
+        "pt-BR": "Nem com a chave obtida dos Caçadores de Corações conseguimos abrir.",
+        "es-ES": "Ni siquiera pudimos abrirla con la llave que le sacamos al Cazacorazones"
     },
     "mDD6DQ": {
         "en-US": "Injecting magic didn't work either.",
@@ -1272,17 +1272,17 @@
     "njD6DQ": {
         "en-US": "Right. Then they might let their guard down and open the door at some point.",
         "pt-BR": "Isso. Então talvez abram a porta e saiam quando baixarem a guarda.",
-        "es-ES": "Sí. Entonces quizá abran la puerta en algún momento cuando bajen la guardia."
+        "es-ES": "Sí. Quizá se relajen y abran esta maldita puerta."
     },
     "nzD6DQ": {
         "en-US": "I don't like it, but we don't have much choice. We'll have to strengthen surveillance here.",
         "pt-BR": "Não gosto muito disso, mas como não temos outra opção, teremos que reforçar a vigilância deste lugar.",
-        "es-ES": "No me agrada mucho, pero como no tenemos otra opción, tendremos que reforzar la vigilancia de este lugar."
+        "es-ES": "No me gusta la idea, pero como no tenemos otra opción, vamos a tener que reforzar la vigilancia de este lugar."
     },
     "oDD6DQ": {
         "en-US": "Let's go. I'll open a Warp Portal down below so we can get back more easily.",
         "pt-BR": "Vamos embora. Vou abrir um Portal de Teletransporte lá embaixo, assim poderemos voltar com mais facilidade.",
-        "es-ES": "Vámonos. Abriré un portal de teletransporte allá abajo para que podamos regresar con facilidad."
+        "es-ES": "Vámonos. Abriré un portal de teletransporte allá abajo para que podamos regresar más fácilmente."
     },
     "oTD6DQ": {
         "en-US": "Let's go. I've opened a Warp Portal down below.",

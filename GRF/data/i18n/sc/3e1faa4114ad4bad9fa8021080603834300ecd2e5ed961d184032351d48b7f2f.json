@@ -506,6 +506,7 @@
     },
     "RSJGDQ": {
         "en-US": "^0000FF{0} ^000000—Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000 - Erro na criação",
         "es-ES": "^0000FF{0} ^000000 - Error en la creación"
     }
 }

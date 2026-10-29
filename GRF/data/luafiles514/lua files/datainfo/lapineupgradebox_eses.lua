@@ -144,6 +144,9 @@ tblLapineUpgradeBox_string = {
 		Gemstone_Of_Time = {
 			NeedSource_String = "6 types of Overwhelm Armor"
 		},
+		Glacier_W_Refine = {
+			NeedSource_String = "Arma Invernal"
+		},
 		God_Favor_TW = {
 			NeedSource_String = "Ultio Capa Mágicoa"
 		},
@@ -410,6 +413,9 @@ tblLapineUpgradeBox_string = {
 		Skill_Sha_R_M_Melee = {
 			NeedSource_String = "Sombríos de Habilidad"
 		},
+		Snow_F_Refine = {
+			NeedSource_String = "Armadura Invernal"
+		},
 		SpellCaster_Shadow_Up = {
 			NeedSource_String = "Sombrío de los Hechizos"
 		},
@@ -496,12 +502,6 @@ tblLapineUpgradeBox_string = {
 		},
 		Vampire_Box_IL = {
 			NeedSource_String = "Illusión de Vampiro"
-		},
-		Snow_F_Refine = {
-			NeedSource_String = "Armadura Flor de Nieve"
-		},
-		Glacier_W_Refine = {
-			NeedSource_String = "Arma Glacial"
 		}
 	}
 }

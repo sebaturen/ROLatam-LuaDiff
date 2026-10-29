@@ -2603,6 +2603,46 @@ tbl_data = {
 		Search = 1,
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4365] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6016] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6028] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6041] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6057] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6082] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6090] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06090",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[6092] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip06092",
+		Imgcoord = {Position = 5, Size = 100}
 	}
 }
 local function MergeTables(dest, src)

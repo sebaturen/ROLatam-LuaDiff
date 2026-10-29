@@ -2742,10 +2742,10 @@
         "es-ES": "6900"
     },
     "TVNJX1JFR0lTVFJBVElPTl9XRUJfVVJM": {
-        "ko-KR": "http://roz.gnjoy.com/",
-        "en-US": "https://www.gnjoylatam.com/",
-        "pt-BR": "https://www.gnjoylatam.com/",
-        "es-ES": "https://www.gnjoylatam.com/"
+        "ko-KR": "gnjoyamericas.com",
+        "en-US": "gnjoyamericas.com",
+        "pt-BR": "gnjoyamericas.com",
+        "es-ES": "gnjoyamericas.com"
     },
     "TVNJX0JBTl9VU0VS": {
         "ko-KR": "%s 사용자 강제 종료",
@@ -20633,10 +20633,14 @@
         "es-ES": "DPS"
     },
     "TVNJX1dFQl9BRERSRVNTX0ZPUl9SRVNUQVJU": {
-        "ko-KR": "http://ro.gnjoy.com",
-        "en-US": "https://gnjoylatam.com",
-        "pt-BR": "https://gnjoylatam.com",
-        "es-ES": "https://gnjoylatam.com"
+        "ko-KR": "https://gamelogin.gnjoyamericas.com/",
+        "en-US": "https://gamelogin.gnjoyamericas.com/",
+        "unknown_3": "https://gamelogin.gnjoyamericas.com/",
+        "unknown_4": "https://gamelogin.gnjoyamericas.com/",
+        "unknown_5": "https://gamelogin.gnjoyamericas.com/",
+        "unknown_6": "https://gamelogin.gnjoyamericas.com/",
+        "pt-BR": "https://gamelogin.gnjoyamericas.com/",
+        "es-ES": "https://gamelogin.gnjoyamericas.com/"
     },
     "TVNJX1FVRVNUV05EX0hJR0hFUg==": {
         "ko-KR": "▲",
@@ -26257,5 +26261,11 @@
         "en-US": "Invalid storage number.",
         "pt-BR": "Número de armazém inválido.",
         "es-ES": "Número de almacén no válido."
+    },
+    "TVNJX0JMT0NLX0JZX1NFUlZFUl9TRUNVUklUWV9QT0xJQ0lFUw==": {
+        "ko-KR": "서버 보안 정책에 따라 접속이 차단되었습니다.\\n\n현재 접속이 감지된 지역에서는 게임 이용이 허용되지 않습니다.",
+        "en-US": "our connection attempt has been blocked by the server's security policies.\\n\nAccess to the game is not permitted from the region identified for your connection.",
+        "pt-BR": "Sua tentativa de conexão foi bloqueada pelas políticas de segurança do servidor.\\n\nO acesso ao jogo não é permitido a partir da região identificada para sua conexão.",
+        "es-ES": "Tu intento de conexión ha sido bloqueado por las políticas de seguridad del servidor.\\n\nNo se permite el acceso al juego desde la región identificada para tu conexión."
     }
 }
